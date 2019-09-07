@@ -8,6 +8,24 @@ For the antagonists, the self-entitled delegators keeping Blockbuster alive, tha
 
 To the extras. I pray you pick the right side.
 
+## The Start
+
+It all started with the forging of the great rings. No it didn't, I'm just using that as a start here. It all started with a door in the face. The one that made too many. It meant another failed sale for a product I believed in.
+
+I knew it wasn't the price, there was no price. I knew it wasn't the competition. None of that either. And I knew it worked too, because I had done the frontline job it worked for.
+
+I figured out how to save 100 million dollars, 30,000 hours of productivity, and dozens of lives with a product that cost 50 thousand a year to run. All I wanted was to give it away, so I could tell everyone how I did it. A "hook" for a nameless frontline worker's ideas about the bright future of our digital economy.
+
+Yet doors in the face is what I got.
+
+Because I wasn't at a door. I was at a gate. And the gatekeepers were doing their job. See they didn't say no to me or my product. They said it was against the rules to say yes.
+
+I knew sales was hard, but I was breaking the rules? I wanted to "edit" Wikipedia, "commit"to  GitHub, "upload" to YouTube. These people all used these wonderful, free, services. But, the future stit opped with them because they found a rule. Yep, lots of rules inside layers of bureaucrats, managers, executives. All gatekeeping the future to keep their version of the DVD alive for companies pretending not to be Blockbuster.
+
+This bullshit is happening throughout our civlization. Problems are pilig up, sucking the middle class dry. All because the gatekeepers hold our rule book.
+
+So, before I, and anyone else, can let the bright future of our economy happen, we need to change. So you and I are going on a journey together through the creation of a new rule book, so gatekeepers can never say it's against the rules to help again.
+
 ## The Power Inside Stories
 
 Do you love stories? I think it's a safe bet, who doesn't. Stories entertain us after hard days of work, bring us together to share our joys, and my favroite, open our minds to foreign cities, mythical worlds, and galaxies far far away.
