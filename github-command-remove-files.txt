@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/2100907/how-to-remove-delete-a-large-file-from-commit-history-in-git-repository
+
+git filter-branch --tree-filter 'rm -f AristotleTriangle-and-diagrams.fig' HEAD

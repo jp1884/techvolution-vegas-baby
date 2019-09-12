@@ -10,69 +10,87 @@ To the extras. I pray you pick the right side.
 
 ## The Start
 
-It all started with the forging of the great rings. No it didn't, I'm just using that as a start here. It all started with a door in the face. The one that made too many. It meant another failed sale for a product I believed in.
+It all started with a door in the face. The one that taught the lesson. I was selling a product they were never going to buy.
 
-I knew it wasn't the price, there was no price. I knew it wasn't the competition. None of that either. And I knew it worked too, because I had done the frontline job it worked for.
+Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I had done the frontline job it worked for.
 
-I figured out how to save 100 million dollars, 30,000 hours of productivity, and dozens of lives with a product that cost 50 thousand a year to run. All I wanted was to give it away, so I could tell everyone how I did it. A "hook" for a nameless frontline worker's ideas about the bright future of our digital economy.
+I figured out how to save 100 million dollars, 30,000 hours of productivity, and even several lives, with an app that cost fifty thousand a year to run. All I wanted was to give it. I wrote a book about the untapped possibilities of new tech like apps, bio-monitors, and bitcoin, and thought real-world proof couldn't hurt.
 
-Yet doors in the face is what I got.
+If only helping was that simple. I finally I learned I wasn't knocking on any doors, but gates. See, I wasn't talking to the frontline workers suffering through the problem I solved, but bureaucrats, lawyers, managers, and executives, who insisted they take a look first. So I had to knock on their gates. These gatekeepers would who never said no by the way. No needs a reason. Instead they said it was against the rules to say yes. Contracts, employment, and other obscure things.
 
-Because I wasn't at a door. I was at a gate. And the gatekeepers were doing their job. See they didn't say no to me or my product. They said it was against the rules to say yes.
-
-I knew sales was hard, but I was breaking the rules? I wanted to "edit" Wikipedia, "commit"to  GitHub, "upload" to YouTube. These people all used these wonderful, free, services. But, the future stit opped with them because they found a rule. Yep, lots of rules inside layers of bureaucrats, managers, executives. All gatekeeping the future to keep their version of the DVD alive for companies pretending not to be Blockbuster.
-
-This bullshit is happening throughout our civlization. Problems are pilig up, sucking the middle class dry. All because the gatekeepers hold our rule book.
-
-So, before I, and anyone else, can let the bright future of our economy happen, we need to change. So you and I are going on a journey together through the creation of a new rule book, so gatekeepers can never say it's against the rules to help again.
+I'm not going to talk about my experience too much. All that's important is there was a problem, a big one wasting millions of your dollars, weeks of workers time (lots of it unpaid overtime), and maybe even your life, and it was against the rules to solve it.
 
 ## The Power Inside Stories
 
-Do you love stories? I think it's a safe bet, who doesn't. Stories entertain us after hard days of work, bring us together to share our joys, and my favroite, open our minds to foreign cities, mythical worlds, and galaxies far far away.
+Do you love stories? I think it's a safe better. Who doesn't? Either way we're starting one together, so let's learn why stories entertain us after hard days of work, bring us together to share our joys, and my favroite, open our minds to foreign cities, mythical worlds, and galaxies far far away.
 
-Stories are so powerful because they're so simple. Heroes are good because they want to fix a problem. Villians are bad because they don't. Notice stories aren't debates about the problem. We take the heroes side. Thus, Romeo and Juliet's love is good, while their familes feud is stupid. Luke Skywalker's rebellion is good, and Darth Vader's empire is evil.
+Stories are so powerful because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. Notice stories aren't debates. We take the protagonists side. Thus, Romeo and Juliet's love is good, beautiful and worth dying for, while their familes feud is stupid, useless, and evil. Luke Skywalker's rebellion is good and just, and Darth Vader's empire is pure evil.
 
-Moral clarity turns heroes into our friends, and villians into our enemies. We thus watch their story with strong emotions; which burst out at the climax, because we finally find out who wins.
+Moral clarity about a problem turns protagonists into our heroes, and antagonists into our villians. We thus watch their story with strong emotions which burst out at the climax, because we finally find out who wins.
 
-Our hero fights hard at the final battle. But his superior morality, justice, and heroism isn't enough. He's often too small or unskilled, and the villian beats him bloody. On the verge of failure, the hero needs to find something, something that'll turn the tide. He searches, sees, and reaches for his salvation; a sword, gun, or lightsaber.
+Our hero fights hard, but his superior morality, justice, and heroism isn't enough. He's often too weak or unskilled, and the villian beats him bloody. On the verge of failure, the hero needs to find something, something that'll turn the tide. He searches, sees, and reaches for his salvation; a sword, gun, or lightsaber.
 
-Will our hero reach it, or will our enemy? We hold our breadth because this reality, and most any story, is controlled not by desires, opinions, or philosophy, but by which character holds the tools.
-
-It's a lesson we need to learn for ourselves.
+Will our hero reach it, or will our enemy? If we're an extra in the story, we hold our breadth because this reality, and most any story, is controlled not by desires, opinions, or rules, but by which character holds the tools. It's a lesson extras need to learn for our real-life story.
 
 ## A New Empowering Philosophy Called Techvolution
 
-Talk to any political junkie, no matter when, and they'll say there's a big election coming up, and that "if the red team wins, education, healthcare, immigration, everything will go to shit."
+The rules. We think they control us. Talk to any political junkie, no matter when, and they'll say there's a big election coming up, They'll say something like "if the red team wins, education, healthcare, immigration, everything will go to shit." What he means is elections decide the rules that control us, and blue rules are good, red are bad.
 
-You buy it. So you watch blue cable news, read blue blogs, listen to blue talk radio. Soon enough, your face is painted blue, you're yelling, and waving that weapon of a bristol board at rallies, marches, and protests. You're fighting evil!
+If you buy it, most of us all have at some time, you watch blue cable news, read blue blogs, listen to blue talk radio. You fill your emotions with blue's philosphy of the good rules. Soon enough, your face is painted, waving a bristol board, yelling at rallies, marches, and protests. You're fighting evil red philosophy!
 
-Let me ask you, if you ignored the election, how much would you bet, that you would know who won, just by living your life.
+Let me ask you, if your a regular middle class person, and you ignored the election, how much would you bet, that you would know who won, just by living your life.
 
-I mean today, when team blue wins, does traffic suddenly disappear? When team red wins, does everyone suddenly eat healthy?  Do you breath fresher air, or see healthier neighbors, when one color beats another?
+I mean today, when team blue wins, does traffic suddenly disappear? When team red wins, does everyone suddenly eat healthy? Do you breath fresher air, or see healthier neighbors, i.e. do your real life problems get solved, when one color's philosophy writes the rules?
 
-If you think there's a difference, if you think the red vs blue story is an edge of your seat thriller, you can stop reading. There's lots of blogs and shows and books waiting to sing to their choir. If you don't like the choir, you'll probably like to keep reading. I wrote this book for you.
+If you think yes, if you think the red vs blue story is an edge of your seat thriller deciding the future of our society, you can stop reading. There's lots of blogs, shows, and books waiting to sing to their choir. If you don't like the choir, or you curious why middle class problems aren't being solved, you'll probably like to keep reading. I wrote this book for you.
 
-Here's why. Politics is a story, and an an election is the climax. And if we can't tell the difference, there's something wrong.
+Whichever color wins an election today, regular people still don't know where there taxes go, have a mortage, drive in traffic, don't sleep enough, buy the best food we can afford, watch climate change, pay too much for education, get abused by customers, and hope a job we likely hate isn't downsized or outsourced. Under team blue or red, our lifestyle stays the same.
 
-We care so much in _Romeo and Juliet_ and _Star Wars_, because either young love is embraced, or it dies. Either the rebellion is saved, or the rebels all die. These stories will live forever, because everyone appreciates what's at stake. There's nothing at stake in blue vs red, because they're not differenct enough.
+Because neither red, or blue philosophies, from conservatism to progressivism, capitalism to marxism, is about putting new tools into your hands. For one, they were each invented before we had many tools. Rubber shoes, indoor plumbing, and electricity weren't even science fiction, because even that didn't exist when or color colded philosophies started. The moon was our nightlite when red and blue were born.
 
-Whoever wins, we still pay taxes, have a mortage, drive in traffic, don't sleep enough, buy the best food we can afford, watch climate change, pay too much for education, and hope a job we likely hate isn't downsized or outsourced. Under team blue or red, our lifestyle stays the same.
+These philosphies see the middle class as extras. Yet our new digital tools gives you lightsabers. If you've used Netflix, Lyft, Skype, WhatsApp, 3D printing, Kickstarter, GitHub, AirBnB, or Firefox you know how powerful our new tools are. Yet to actually use these new tools to improve middle class lives, we need to replace our old philosophies first.
 
-Because no political or economic philosophy today, from conservatism to progressivism, capitalism to marxism, is about putting new tools into your hands. Because they were each invented before we had many tools. Rubber shoes, indoor plumbing, electricity. They weren't even science fiction, that was invented after too. If you've used Netflix, Lyft, Skype, Kickstarter, GitHub, AirBnB, or Firefox you know how powerful our tools are now. Yet our lifestyle is not changing, because we use old philosophies.
+Techvolution is a new philosphy about making regular people the hero of their own story. The difference you'll notice after you read this book is simple. Unlike me, you wont be knocking at the gate of Blockbuster, asking if its okay to distribute YouTube to the people.
 
-Techvolution is a new philosphy about making regular people the hero of their own story. The difference you'll notice after you read this book is simple. You'll fight political battles not with bristol boards, but with the powerr of digital technology and tools in your hands, and thereby improve your own life.
+With Techvolution, you'll fight political battles not with bristol boards or painted faces, but with the power of digital technology and tools in your hands, so you can improve your own life. Because the only difference between a story and a philosophy, is stories are told because they've already happened, philosophies are lived and changed because the make our rules.
 
 ## Mastering Our Tools With Techvolution
 
-I want to empower you with tools. Yet, this is not a book about how to invent new tools. Amazing books like _Rework_, and _Zero to None_ already do that. Nor is it a book about the history of invention. _The Innovators_ does that better than I could dream. This is a book about how new tools empower society, and how we can distribute the power to improve the lives of regular people.
+I want to empower you with tools. Yet, this is not a book about how to invent tools. Amazing books like _Rework_, and _Zero to None_ already do that. Nor is it a book about the history of invention. _The Innovators_ does that better than I could dream. If you want a straight up critique of our society, _Incerto_ and _The Great Degeneration_ are already written. Instead, this is a book about how new tools empower society, and how we can distribute the power to improve the lives of regular people today.
 
-That means politics. Hence why we're making a new philosophy. Which we need because we're basically cyborgs who keep upgrading our tools, and digital tools are created very since. Once we update our philosophy, the smoother we'll evolve.
+That means changing the rules of our society with a new philosophy. Todays philosophies consider the middle class as extras. People to watch the story. Even if we watch our problems pile up, we're not supposed to solve them until we pass the gatekeepers at government bureaucracies, creeky corporations, lawyers officers, or consultants endless meetings. All versions of Blockbuster in an era of YouTube and Netflix.
 
-Note, I define political philosophy as the largley unspoken social rules that tells members of society what's right and wrong, good and bad. We're using stories to understand this rule book. Stories give its characters rules, goals, and definitions of good and bad. Philosophers are just storytellers for the real life story we all live in.
+We start in nature. Notice there, gatekeeper's don't exist. In evolution, there is no one to say a cheetah is running to fast, ants are too cooperative, or a camel is too efficient with water. Lifeforms adapt as best they can, and the winners survive.
 
-Now, I should say, I use _technology_ as a catchall term for things we make tools from, like concrete, lumber, nails, shingles, insulation, and bricks. I use _tool_ as a catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to learn, and houses to shelter in.
+Yet human biological adaptions have stopped. Humanity doesn't evole. We'll never evolve to fly, remember everything we've read, or breadth Martian air. Humanity continues lifes evolution with tools. We're basically cyborgs who adapt by upgrading better sanitation systems, energy generation, food production.
 
-Upgrading a technology isn't a big deal. Sedan's and SUV's, tube televisons's and LCD's, are basically the same. But when we upgrade enough technologies, like microchips, touchscreens, batteries, and WiFi, we unlock a new tool, ala smartphones. And this is a big deal.
+However, we're held back by old philosophies that empower gatekeepers. People in control of old tools like Blockbuster, getting to decide when, and if, humanity will upgrade to new tools. I actually don't like the term gatekeepers. Some gates are good. I call today's antagonists to our technological evolution Darth Blockbuster. People's who prevent human evolution for their self-interest.
+
+Evolution mean biologically adaptions. I call technological evolution _Techvolution_. This book is about inventing techvolution, a philosophy to re-write the rules of society, to forever kill Darth Blockbuster, so that technological upgrades are as smooth in human society, as evolution is in nature.
+
+## Definitions
+
+Here are need to take a break. I want to layout the story clearly.
+
+Philosophy: the largley unspoken social rules that tells members of society what's right and wrong, good and bad, in all ideals of science, art, virtues, justice, morals, and founding stories.
+
+Ruling philospophy: is a civilization's chosen philosophy, it's partnership that makes up its DNA, to answer foundational questions like: what is scientific truth? Who should govern? And how should resources be organized? This is where society's rules come from. Divine Rights of Kings was Royalist Europe's ruling philosophy. Red vs Blue politics is ours.
+
+Technology: is a catchall term for things we make tools from, like concrete, lumber, nails, shingles, insulation, and bricks.
+
+Tool: as a catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to learn, and houses to shelter in.
+
+Civilization story: The creation of new tools to overcome whatever problem troubles us. We use tools to evolve. I call this human technological evolution, tecvolution.
+
+Protagonists: they selflessly invent, spread, and use new technology to make new tools. Usually close to the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. we call them trailblazers ex. Nikola Tesla, Steve Jobs, Elon Musk.
+
+Antagonists: selfishly resist new tools to defend their wealth, power, and prestige. Antagonists often manage companies or institutions based on dated technologies and think working on the frontline is beneath them. We don't identify them. I invented "Darth Blockbuster" so we can.
+
+Extras: everybody in the middle of a battle between two tools. Because they have no direct interest in either side, they can pick winners and losers. Usually extras are in the middle class; not so poor as to be desperate, but not so powerful they want to keep the world the same. Sadly, extras don't realize their power.
+
+## Need To You Know
+
+So humanity evolves with tools. Some people help, others hurt. Upgrading a technology isn't a big deal. Sedan's and SUV's, tube televisons's and LCD's, are basically the same. But when we upgrade enough technologies, like microchips, touchscreens, batteries, and WiFi, we unlock a new tool, ala smartphones. And this is a big deal.
 
 ![The March of Technology](/img\prologue\techvolution-new-tool-creation-pc.png)
 

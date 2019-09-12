@@ -598,3 +598,9 @@ I'm nobody special. I've been a political ideologue, a movie theater usher, a pr
 I formally and informally studied the history and philosophy of technology for years. When I thought I knew my stuff, I made a new tool for an old industry. My little app was cheap, effective, and saved tens of millions of dollars. I was proud of it, and wanted to share my wisdom. But I didn't know shit. All I did was run into gatekeepers.
 
 I won't go into details. Instead I wrote this book. It was hard, but still way easier than dealing with those damn antagonists.
+
+## New Prologue
+
+Here's why. Politics is a story, and an election is the climax. And if we can't tell the difference, there's something wrong.
+
+We care so much in _Romeo and Juliet_ and _Star Wars_, because either young love is embraced, or it dies. Either the rebellion is saved, or the rebels all die. These stories will live forever, because everyone appreciates what's at stake. There's nothing at stake in blue vs red, because they're not differenct enough.
