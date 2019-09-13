@@ -1,7 +1,21 @@
 
-# CHAPTER ONE - THE PROBLEM
+# CHAPTER 8 - THE EXTRAS
 
-## What Do We See
+# Power to the Extras
+
+Everyone's a protagoninst in their own story. Everyone's also a antagonist in someone else's. Yet most people, most the time, are extra's. In _Star Wars_ Luke Skywalker brought the stolen Death Star plans to the rebels, and shot the missle that destroyed Darth Vader's beloved weapon of Doom. That's a job well done, but there was a lot more to the story of _Star Wars_, like building the rebel base, constructing a rebel fleet, and stealing the plans to start with. Luke Skywalker was an extra in all these stories and thus in most of the entire story of _Star Wars_.
+
+When you're an extra, you have no lines, no posters, no interviews, but you still fill the story with purpose. Because the protagonist and antagonist of each story are fighting for your support. Both sides want want control of the shared community consciousness of the ruling philosophy, and the shared community consciousness is what the extras think is right and wrong. Thus, extras are nobodies, with all the power in the story.
+
+Extras, whether stormtroopers or rebel freedom fighters, voters or consumers, crown protagonists. Because while protagonists can see past the ruling philosophy, and antagonists can defend it, extras can choose it.
+
+Because two sides fighting, means two sides to choose from. Historical fights between Julius Caesar and Marcus Brutus, George Washington and King George III aren't about characters, but the technology both are fighting over. Wheter it's control of the Roman government, or the right to own a gun. Or today, the right to distribute more Netflixes to the masses, at the expense of the the Blockbusters of the ruling nobility.
+
+Choosing which technology to use, makes every extra, a protagonist. Because although protagonists fight for new technology, extra's choosing a good technology means defeating an evil one. Thus extras are pivotal in the in the grandstory of life. And the more technology we make, the more tools individuals have, the more the divide between celebrated heroes like Luke Skywalker and nameless extras like the spies who stole the plans, or who guarded the rebel base, will get to call themselves protagonists too.
+
+The question is, will you be an empowered extra, seeking to have lines, posters, and interviews, or one happy to be in the shadows of old technology. We can test that by asking how much you know yourself, and how much you want to know.
+
+# Extras Want To Know
 
 How old are you. Simple question solved by simple math. Start from your birth day and count how many times you've circled the Sun. It's a fact in all our laws, religions, and science. When we compare each other, objects, or thoughts, we use birthdays. That is how we tell time.
 
@@ -19,23 +33,41 @@ So why don't we know more about our health? Why is our deathday and good choices
 
 This is good news. Because our new technology can be simpler. It only needs to augment our natural senses. We need to track what we eat and do, and regularly test our bodies. We need to use technology to proactively assess own biological tools. This way we can analyze which choices improve, or hurt, our health. Thus, we can buy more days, know our futures, and finally enjoy our stories.
 
-What will happen when we invent this miraculous tool? Let's look at history. What happened when we invented the modern glass mirror? Imagine what it was like seeing your physical self for the first time. No more guessing, no one else's opinion, no more using a polished piece of metal; only the truth. The modern mirror is a very advanced technology. It was made in the 14th century but not perfected and mass produced until the 19th century. Today, mirrors show us a reality we all take for granted. A mirror empowers you to see your face, your technique, your youth, your wounds, your smile. Now we are inventing a new mirror. A new technology that similarly shows us the truth in real time. And what will happen when we see our psychological selves as if looking at a mirror?
+What will happen when we invent this miraculous technology? Let's look at history. What happened when we invented the modern glass mirror? Imagine what it was like seeing your physical self for the first time. No more guessing, no one else's opinion, no more using a polished piece of metal; only the truth. The modern mirror is a very advanced technology. It was made in the 14th century but not perfected and mass produced until the 19th century. Today, mirrors show us a reality we all take for granted. A mirror empowers you to see your face, your technique, your youth, your wounds, your smile. Now we are inventing a new mirror. A new technology that similarly shows us the truth in real time. And what will happen when we see our psychological selves as if looking at a mirror?
 
-We get a more accurate reality. Don't say it's impossible. The infinite Universe dazzles us (whenever we look) to know impossible is nothing. And today we looked and invented a small little idea, we're only waiting on the technology to make an "anti-aging" tool to make it real. We will invent it, and mass produce it too. Because life wont let us throw away the prosperity that grants us unfettered choices. So we must adapt ourselves to it. Thus, human decision making and taste will get augmented by a new tool. We will solve our poor health with a new psychological mirror.
+We get a more accurate reality. Don't say it's impossible. The infinite Universe dazzles us (whenever we look) to know impossible is nothing. And today we looked and invented a small little idea, we're only waiting on the technology to make it real. We will invent it, and mass produce it too. Because life wont let us throw away the prosperity that grants us unfettered choices. So we must adapt ourselves to it. Thus, human decision making and taste will get augmented by a human made technology. We will solve our poor health with a new psychological mirror.
 
-In fact, we already are. Fitbits, smartwatches, and genetic testing, are just the beginning. We're on the path to showing ourselves the consequences of our actions in real time. So, our new technology isn't even new, it's been in development for decades. Life is a trickster, it's made modern tools by making it a toy so that we wouldn't realize how that toy will change who we are by showing us the consequences of our self-indulgence. Even if we didn't realize it, we'll soon see our psychological selves in a new mirror. No more polished pieces of metal, opinions, or guesses. Soon we'll see the truth.
+In fact, we already are. Fitbits, smartwatches, and genetic testing, are just the beginning. We're on the path to showing ourselves the consequences of our actions in real time. So, our new technology isn't even new, it's been in development for decades. Life is a trickster, it's made modern technology by making it a toy so that we wouldn't realize how that toy will change who we are by showing us the consequences of our self-indulgence. Even if we didn't realize it, we'll soon see our psychological selves in a new mirror. No more polished pieces of metal, opinions, or guesses. Soon we'll see the truth.
 
 The truth is we'll probably never know our deathday. But we'll get close. We'll see which choices give us vitality. The vitality to live a great story. Because knowing how many steps you took yesterday, tells you how many steps you could take today. And knowing how many total steps you've taken, roughly tells you how many days you have left to take them. Technology will show us, and everyone around us, our vitality. Our biological sense will get augmented. And after that, we'll be empowered to live like we're dying. We'll have the best of both worlds. We'll have a prosperous economy and the ability make good choices inside it. Because the truth of a mirror is too clear to ignore.
 
-Hopefully. Beause the question isn't are we inventing new tools. We always are. The question is asking what we'll do when it gets here. Will we embrace it or reject it? Will we empower ourselves with a better reality, or stay weak inside a lie?
+Hopefully. Beause the question isn't are we inventing new technology. It's on it's way. The question is asking what we'll do when it gets here. Will we embrace it or reject it? Will we empower ourselves with a better reality, or stay weak inside a lie?
 
-Questioning "individuality" to eat whatever you want, burn as much carbon as you want, buy whatever you want, is the ruling philosophy that new tools will question, and techvolution must help ourselvse to erase.
+That is the question every extra is being asked now. Denial, delays adaptions, and builds us to a revolution. And acceptance of technology is adaptation, and is techvolution.
 
-Let's look at the past for a glimpse into our future. When the first mirror showed a new world, and questioned the ruling philosophy.That is the question every extra is being asked now. Denial, delays adaptions, and builds us to a revolution. And acceptance of technology is adaptation, and is techvolution.
+## Stuttering ~~Helped~~ Helps Me Know My Thing
 
-## How It Happened Before
+My first language was gibberish. No joke. Until grade 3 nobody had much idea what the heck I was talking about. Most people's speech dysfluency (saying "ah", "eh", "umm") is about 5% of their words. Mine was probably 80%. Come grade 3 my teacher and the school's special education teacher told my parents I needed an assessment to find out what was wrong.
 
-The Sun used to revolve around the Earth. Every birthday party was a celebration the Sun revolved around you. The Earth was stationary, and the stars, galaxies, and Universe that surround our little solar system was basically a lightshow. That's all we could see with our eyes.
+I still remember that intelligence test. All sorts of questions and assessments. I was asked to tell a story from a picture, do lots of match questions, and I worked on the equations with imaginary numbers on my knee for some reason. Among some pluses and minuses, speech therapy was recommended (and thankfully) paid for by the school board. So I was a nine year old, being told by a psychologist, I had a problem with my genetics, and I needed therapy, grueling therapy at times, to fix my genetic problem.
+
+Speech Therapy helped a lot. Specialists using techniques and tools to help me overcome my problem. My dysfluency was at about 80%. Still very noticeable at times, and still hard to live with, but way better.
+
+Now, imagine people prone to depression, eating disorders, or addictive behavior. Today these people only meet their specialist after suffering years of depression, being way over or under weight, or with needle marks in the arms. They suffer because they don't know themselves. And everyone's got a thing to work on, be it arrogance, self-pity, shyness, or whatever.
+
+Yet, whatever we have, is hidden by our own ruling philosophy of liberal free-market economics. Extra's are meant to be consumers, to build an economy. At first extras worked a lot, bought a little, and improved their lives with every new sweater, or home heater. Yet now, with the technology of tomorrow like Netflix, being reisted by the technology of yesterday like Blockbuster, extras are still told to consume. Our problems are indulged with massive material wealth, but ignored by the ProCons.
+
+My gift was having a problem easily detectable by our biology. Yet most people have something that's not. The technological mirror we are making with FitBits, smart watches, big data, and so much more, will start revealing our many unseen problems to us. And it's _exactly_ like how the mirrors inside the telescope showed the Universe to Galileo and the ruling nobility. Our telescope will reveal truths our ruling philosophy doesn't want us to realize. It will let us make many more Netflixes, the ruling nobility Darth Blockbuster don't want to see.
+
+Yet you are not the ruling noble. You are an extra. You can choose between technologies. Which means you can choose between ruling philosophies. Will liberal free-market economics be the last ruling philosophy we'll ever need. Probably not. So when is its conclusion.
+
+It's whenever you the extra choose to pickup, and hold new technology, and use it to change the grandstory. You can do that, because techvolution lets you see our world in new detail, where inside we live to invent and distribute new technology to help life prosper. The question is, will you realize the need to look into the mirror and see the new and better truth. Everything the ProCons will argue back at is rational. The key is to instead follow the rationality of irrationality.
+
+mention stanford, or marshmellow tests as mirrors?
+
+## The Rationality of Irrationality
+
+The Sun used to rotate the Earth. Every birthday party was a celebration the Sun revolved around you. The Earth was stationary, and the stars, galaxies, and Universe that surround our little solar system was basically a lightshow. That's all we could see with our eyes.
 
 Ancent Greek astronomer and mathematician Aristarchus of Samos (310-230 BC) said otherwise. Among his achivements he correctly figured out the relative sizes of the Moon, Sun, and Earth. Every year a well in Egypt had no shadow. He reasoned the Sun is directly above it. On the same day he measured the shadow the great Tower of Alexandria. He measured the distances and heights of everything, used the pythgorean theorem, and voila, the Sun is 80 times the size of Earth, and the Moon is one forth. Aristarchus thereafter said why would the Sun move if it's so much bigger.
 
@@ -78,12 +110,3 @@ The telescope will show us we need economic ecosystems. We need to create commun
 The self-declared smart will probably never get techvolution. For the same reason why few accepted Copernicus, Bruno, Machiavelli, and the rest. Changing the ruling philosophy makes them stop attending banquets and balls celebrating their nobility and instead get back to work.
 
 The extras in the story of society are the only ones free enough to make themselves into the futures protagonists. And today's extras are the struggling middle class. And the question is, will they. They certainly should. But we only find out if they will in the story's climax.
-
-
-## Techvolution Wanted
-
-The Digital Revolution started decades ago. Computers, the internet, 3D printing, and other wondrous tech, is even more transformative than the telescope or gun because they improve exponentially faster. The Digital Revolution is changing our society every day, yet we haven’t changed our ruling philosophy one bit to keep up.
-
-- because of so many DB's, we have an excess of tech upgrades waiting to happen
-- this either builds up a revolution, or we can have a techvolution
-

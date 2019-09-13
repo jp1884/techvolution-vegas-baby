@@ -2,7 +2,7 @@
 
 ## Dedication
 
-For my parents. For the work ethic you handed down to me. For caring so much when cleaning and building stuff for other people. For showing me who the protagonists are. It’s the best education a kid can get. I hope I learned enough.
+For the open source community. For the unspoken philosophy you handed down to me. For caring so much when updating Wikipedia, or building cool new tech for other people. For showing me who the protagonists are. It’s the best education a politics guy can get. I hope I learned enough.
 
 For the antagonists, the self-entitled delegators keeping Blockbuster alive, thanks for making the past come to life. I hope you learn something.
 
@@ -10,87 +10,103 @@ To the extras. I pray you pick the right side.
 
 ## The Start
 
-It all started with a door in the face. The one that taught the lesson. I was selling a product they were never going to buy.
+It all started with a door in the face. The one that taught the lesson. I was selling a product they couldn't want.
 
 Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I had done the frontline job it worked for.
 
-I figured out how to save 100 million dollars, 30,000 hours of productivity, and even several lives, with an app that cost fifty thousand a year to run. All I wanted was to give it. I wrote a book about the untapped possibilities of new tech like apps, bio-monitors, and bitcoin, and thought real-world proof couldn't hurt.
+I figured out how to solve a problem, and save 100 million dollars, 30,000 hours of productivity, and even several lives, with an app that was virtually free. All I wanted was to give it away to help get attention to a political theory book I wrote, about the untapped possibilities of new tech like apps, bio-monitors, and bitcoin. I wanted real-world proof to prove my point.
 
-If only helping was that simple. I finally I learned I wasn't knocking on any doors, but gates. See, I wasn't talking to the frontline workers suffering through the problem I solved, but bureaucrats, lawyers, managers, and executives, who insisted they take a look first. So I had to knock on their gates. These gatekeepers would who never said no by the way. No needs a reason. Instead they said it was against the rules to say yes. Contracts, employment, and other obscure things.
+After this last door I realized I wasn't even knocking on doors, but gates. See, I wasn't talking to the frontline workers suffering through the problem I solved, but bureaucrats, lawyers, managers, and executives, who insisted they take a look at my new tool first. Meaning I had to knock on their gates. These gatekeepers existed because of the problem. Solving it was like asking them to fire themselves.
+
+That's why they never said no. No needs a reason. Instead they said it was against the rules to say yes. Obscure ones hidden inside regulations and contracts. They believed in these rules, especially the one about asking the front-line workers to decide for themselves.
 
 I'm not going to talk about my experience too much. All that's important is there was a problem, a big one wasting millions of your dollars, weeks of workers time (lots of it unpaid overtime), and maybe even your life, and it was against the rules to solve it.
 
-## The Power Inside Stories
+## The Power Of Stories
 
-Do you love stories? I think it's a safe better. Who doesn't? Either way we're starting one together, so let's learn why stories entertain us after hard days of work, bring us together to share our joys, and my favroite, open our minds to foreign cities, mythical worlds, and galaxies far far away.
+Do you love stories? I think it's a safe bet. Who doesn't? They entertain us after hard days of work, bring us together to share our joys, and my favroite, open our minds to the different ways of life inside foreign cities, mythical worlds, and galaxies far far away.
 
-Stories are so powerful because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. Notice stories aren't debates. We take the protagonists side. Thus, Romeo and Juliet's love is good, beautiful and worth dying for, while their familes feud is stupid, useless, and evil. Luke Skywalker's rebellion is good and just, and Darth Vader's empire is pure evil.
+Stories are so powerful because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. Notice stories aren't debates. We take the protagonists side. Thus, Romeo and Juliet's love is good, beautiful, and worth dying for, while their familes feud is stupid and evil. Luke Skywalker's rebellion is good and just, while Darth Vader's empire is wicked and evil.
 
-Moral clarity about a problem turns protagonists into our heroes, and antagonists into our villians. We thus watch their story with strong emotions which burst out at the climax, because we finally find out who wins.
+Moral clarity about a problem turns protagonists into our heroes, and antagonists into our villians. We thus watch their story with strong emotions, which burst out at the climax, where we find out who wins.
 
 Our hero fights hard, but his superior morality, justice, and heroism isn't enough. He's often too weak or unskilled, and the villian beats him bloody. On the verge of failure, the hero needs to find something, something that'll turn the tide. He searches, sees, and reaches for his salvation; a sword, gun, or lightsaber.
 
-Will our hero reach it, or will our enemy? If we're an extra in the story, we hold our breadth because this reality, and most any story, is controlled not by desires, opinions, or rules, but by which character holds the tools. It's a lesson extras need to learn for our real-life story.
+Will our hero reach it, or will our enemy? We in the audience, like extras in the story, hold our breadth because this reality, and most any story, is controlled not by desires, opinions, or rules, but by which character holds the tools. It's a lesson we need to learn for our own stories.
 
 ## A New Empowering Philosophy Called Techvolution
 
-The rules. We think they control us. Talk to any political junkie, no matter when, and they'll say there's a big election coming up, They'll say something like "if the red team wins, education, healthcare, immigration, everything will go to shit." What he means is elections decide the rules that control us, and blue rules are good, red are bad.
+The rules. We think they control us. They don't.
 
-If you buy it, most of us all have at some time, you watch blue cable news, read blue blogs, listen to blue talk radio. You fill your emotions with blue's philosphy of the good rules. Soon enough, your face is painted, waving a bristol board, yelling at rallies, marches, and protests. You're fighting evil red philosophy!
+Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll say something like "if the red team wins this one, education, healthcare, infrastructure, everything will go to shit." What he means is elections decide the rule makers. And red rules are evil and blue rules are good.
+
+If you buy it, most of us all have at some time, you watch blue cable news, read blue blogs, listen to blue talk radio. You fill your emotions with blue's philosophy for making good rules. Soon enough, your face is painted blue, your waving a blue bristol board while yelling blue chants at rallies, marches, and protests. You're fighting evil red philosophy!
 
 Let me ask you, if your a regular middle class person, and you ignored the election, how much would you bet, that you would know who won, just by living your life.
 
 I mean today, when team blue wins, does traffic suddenly disappear? When team red wins, does everyone suddenly eat healthy? Do you breath fresher air, or see healthier neighbors, i.e. do your real life problems get solved, when one color's philosophy writes the rules?
 
-If you think yes, if you think the red vs blue story is an edge of your seat thriller deciding the future of our society, you can stop reading. There's lots of blogs, shows, and books waiting to sing to their choir. If you don't like the choir, or you curious why middle class problems aren't being solved, you'll probably like to keep reading. I wrote this book for you.
+If you think yes, if you think the red vs blue story is an edge of your seat thriller deciding the future of our society, you can stop reading. There's lots of blogs, shows, and books waiting to sing to their choir, telling you to fight the enemy until your blue in the face.
 
-Whichever color wins an election today, regular people still don't know where there taxes go, have a mortage, drive in traffic, don't sleep enough, buy the best food we can afford, watch climate change, pay too much for education, get abused by customers, and hope a job we likely hate isn't downsized or outsourced. Under team blue or red, our lifestyle stays the same.
+If you don't like the choir, or you curious why middle class problems aren't being solved, and starting to wonder if blaming the other color is only a recipe for stagnation, you'll probably like to keep reading. I wrote this book for you.
 
-Because neither red, or blue philosophies, from conservatism to progressivism, capitalism to marxism, is about putting new tools into your hands. For one, they were each invented before we had many tools. Rubber shoes, indoor plumbing, and electricity weren't even science fiction, because even that didn't exist when or color colded philosophies started. The moon was our nightlite when red and blue were born.
+Whichever color wins an election today and writes the rules, regular people still pay taxes, have a mortage, drive in traffic, don't sleep enough, buy unhealthy food, watch climate change, over pay for questionable education, get abused by customers, work unpaid overtime, are micro-managed, and hope a job we likely hate isn't downsized or outsourced. Under blue or red rules, our lifestyle stays the same, because the tools in which we live our lives, like suburban homes, gas cars, call centres, paper forms, mass produced food, television, education industry, stay the same.
 
-These philosphies see the middle class as extras. Yet our new digital tools gives you lightsabers. If you've used Netflix, Lyft, Skype, WhatsApp, 3D printing, Kickstarter, GitHub, AirBnB, or Firefox you know how powerful our new tools are. Yet to actually use these new tools to improve middle class lives, we need to replace our old philosophies first.
+Tools control us, not the rules.
 
-Techvolution is a new philosphy about making regular people the hero of their own story. The difference you'll notice after you read this book is simple. Unlike me, you wont be knocking at the gate of Blockbuster, asking if its okay to distribute YouTube to the people.
+Nothing changes between red and blue, because neither's philosophy, from conservatism to progressivism, capitalism to marxism, is about putting new tools into our hands.
 
-With Techvolution, you'll fight political battles not with bristol boards or painted faces, but with the power of digital technology and tools in your hands, so you can improve your own life. Because the only difference between a story and a philosophy, is stories are told because they've already happened, philosophies are lived and changed because the make our rules.
+It's no there fault. All of them were invented before we had many tools. Rubber shoes, indoor plumbing, and electricity weren't even invented. The moon was our nightlite when red and blue were born.
+
+Red and blue philosphies were born to help humanity industrialize, and build the first rudimentary tools of gas cars, black and white televisions, and computers the size of rooms. The masses needed to be extras, regulated, and managed. Tools were limited, thus they could't be shared.
+
+This is not the world we live in today. Digital tools are so easy to make and customize they must spread and be shared. Netflix, Lyft, Skype, WhatsApp, 3D printing, bio-monitors, air quality sensors, GPS trackers, Kickstarter, smart watches, GitHub, AirBnB, or Firefox are amazingly powerful new tools. Yet they're held back. To actually use these new tools to improve middle class lives, we need to replace our old philosophies first.
+
+Techvolution is a new philosphy about making regular people the hero of their own story. Using it, unlike me, you won't be knocking at the gate of Blockbuster, asking if its okay to distribute YouTube to the people.
+
+With Techvolution, you'll fight political battles not with bristol boards or painted faces, but with the power of digital technology and tools in your hands, so you can improve your own life by solving your problems with no gatekeepers in the way.
+
+People often say we're addicted to our phones. We aren't. We getting to know them. They are our lightsabres. We've just been waiting for a new philosophy to turn them on.
 
 ## Mastering Our Tools With Techvolution
 
-I want to empower you with tools. Yet, this is not a book about how to invent tools. Amazing books like _Rework_, and _Zero to None_ already do that. Nor is it a book about the history of invention. _The Innovators_ does that better than I could dream. If you want a straight up critique of our society, _Incerto_ and _The Great Degeneration_ are already written. Instead, this is a book about how new tools empower society, and how we can distribute the power to improve the lives of regular people today.
+I want to empower you with tools. Yet, this is not a book about how to invent tools. Amazing books like _Rework_, and _Zero to None_ already do that. Nor is it a book about the history of invention. _The Innovators_ does that better than I could dream. If you want a brilliant critique of our society, _Incerto_ and _The Great Degeneration_ are already waiting for you. Instead, this is a book about how new tools empower society, and how we can distribute their power to improve the lives of regular people today.
 
-That means changing the rules of our society with a new philosophy. Todays philosophies consider the middle class as extras. People to watch the story. Even if we watch our problems pile up, we're not supposed to solve them until we pass the gatekeepers at government bureaucracies, creeky corporations, lawyers officers, or consultants endless meetings. All versions of Blockbuster in an era of YouTube and Netflix.
+That means changing the rules of our society with a new philosophy. Todays philosophies consider the middle class as extras. People to watch the story. Even if we watch our problems pile up at home and at work, we're not supposed to solve them until we pass the gatekeepers of old tools in government bureaucracies, creeky corporations, lawyers officers, or consultants meetings. All versions of Blockbuster in an era of YouTube and Netflix writing rules to protect themselves.
 
-We start in nature. Notice there, gatekeeper's don't exist. In evolution, there is no one to say a cheetah is running to fast, ants are too cooperative, or a camel is too efficient with water. Lifeforms adapt as best they can, and the winners survive.
+We start in nature. Notice gatekeeper's don't exist in nature. Evolution doesn't have anyone telling a cheetah she's running too fast, the ants are too cooperative, or a camel is too water efficient. Lifeforms adapt as best they can to their own problems, and the winners survive. No middleman, no gatekeepers, just problem solvers.
 
-Yet human biological adaptions have stopped. Humanity doesn't evole. We'll never evolve to fly, remember everything we've read, or breadth Martian air. Humanity continues lifes evolution with tools. We're basically cyborgs who adapt by upgrading better sanitation systems, energy generation, food production.
+Yet human biological adaptions have stopped. We'll never evolve to fly, remember everything we need, or breadth Martian air. Humanity continues lifes evolution with tools. We're basically cyborgs who adapt and solve problems by upgrading our transportation, memory, and breathing tools.
 
-However, we're held back by old philosophies that empower gatekeepers. People in control of old tools like Blockbuster, getting to decide when, and if, humanity will upgrade to new tools. I actually don't like the term gatekeepers. Some gates are good. I call today's antagonists to our technological evolution Darth Blockbuster. People's who prevent human evolution for their self-interest.
+However, our problem solving is held back by old philosophies that empower gatekeepers. People in control of old tools like Blockbuster, getting to decide when, and if, humanity will upgrade our tools. I actually don't like the term gatekeepers. Some gates are good. I call today's antagonists to our technological evolution Darth Blockbuster. People who prevent human evolution for their self-interest.
 
-Evolution mean biologically adaptions. I call technological evolution _Techvolution_. This book is about inventing techvolution, a philosophy to re-write the rules of society, to forever kill Darth Blockbuster, so that technological upgrades are as smooth in human society, as evolution is in nature.
+We call biological upgrades and adaptions evolution. I call human technological evolution _Techvolution_. This book is about inventing techvolution, a philosophy to re-write the rules of society, to forever kill Darth Blockbuster, so we can solve our problems with technological upgrades as smoothly in human society, as evolution does in nature.
 
 ## Definitions
 
-Here are need to take a break. I want to layout the story clearly.
+Here we need to take a break. I want to layout the philosophy our clearly, so I'll I define the ideas we all need to know:
 
-Philosophy: the largley unspoken social rules that tells members of society what's right and wrong, good and bad, in all ideals of science, art, virtues, justice, morals, and founding stories.
+Philosophy: the largley unspoken social rules that tells members of society what's right and wrong, good and bad, in science, art, morals, politics and economics. A collective consciouness that makes up a civilizations DNA, used by members to make rules around questions like: what is scientific truth? Who should govern? And how should resources be organized? Holy Bible inspireed Divine Rights of Kings was Royalist Europe's ruling philosophy.
 
-Ruling philospophy: is a civilization's chosen philosophy, it's partnership that makes up its DNA, to answer foundational questions like: what is scientific truth? Who should govern? And how should resources be organized? This is where society's rules come from. Divine Rights of Kings was Royalist Europe's ruling philosophy. Red vs Blue politics is ours.
+Ruling philospophy: is a civilization's chosen philosophy.
 
 Technology: is a catchall term for things we make tools from, like concrete, lumber, nails, shingles, insulation, and bricks.
 
-Tool: as a catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to learn, and houses to shelter in.
+Tool: is a catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to learn, and houses to shelter in.
 
-Civilization story: The creation of new tools to overcome whatever problem troubles us. We use tools to evolve. I call this human technological evolution, tecvolution.
+Civilization story: The invention of new technology and creation of new tools to overcome whatever problem troubles us. We use tools to evolve.
 
-Protagonists: they selflessly invent, spread, and use new technology to make new tools. Usually close to the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. we call them trailblazers ex. Nikola Tesla, Steve Jobs, Elon Musk.
+Protagonists: people who selflessly invent, spread, and use new technology and make new tools. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. We call their leaders trailblazers who often skirt the rules ex. Nikola Tesla, Steve Jobs, Elon Musk.
 
-Antagonists: selfishly resist new tools to defend their wealth, power, and prestige. Antagonists often manage companies or institutions based on dated technologies and think working on the frontline is beneath them. We don't identify them. I invented "Darth Blockbuster" so we can.
+Antagonists: people who selfishly resist new tools to defend their wealth, power, and prestige. Antagonists often manage companies or institutions based on dated technologies and think working on the frontline is beneath them. They hide behind rules which they work to control. We don't often identify them. I invented "Darth Blockbuster" so we can.
 
 Extras: everybody in the middle of a battle between two tools. Because they have no direct interest in either side, they can pick winners and losers. Usually extras are in the middle class; not so poor as to be desperate, but not so powerful they want to keep the world the same. Sadly, extras don't realize their power.
 
-## Need To You Know
+Techvolution: a new philosophy empowering seemless human technological evolution by ridding Darth Blockbuster of his power, by empowering extras to decide when society should upgrade to new tools.
 
-So humanity evolves with tools. Some people help, others hurt. Upgrading a technology isn't a big deal. Sedan's and SUV's, tube televisons's and LCD's, are basically the same. But when we upgrade enough technologies, like microchips, touchscreens, batteries, and WiFi, we unlock a new tool, ala smartphones. And this is a big deal.
+## Short Story
+
+So humanity evolves with tools. Some people help, others hurt. It's important, nobody gets really cars when we upgrade a technology. Sedan's and SUV's, tube televisons's and LCD's, are basically the same. But when we upgrade enough technologies, like microchips, touchscreens, batteries, and WiFi, we unlock a new tool, ala smartphones. And this is a big deal.
 
 ![The March of Technology](/img\prologue\techvolution-new-tool-creation-pc.png)
 
@@ -104,7 +120,7 @@ Today the extras aren't self-aware of their power. I'll show you how important y
 
 ## Extras Killed Wikipedia's Evil Twin
 
-People always have some nagging question. Like why are movie theatres so lonely, or is a candy apple a real apple. Constant questions are a problem and we need a reference tool to solve it. True to ourselves, we make one with the technology available and upgrade it when possible.
+People always have some nagging question. Like why are movie theatres so expensive, or is a candy apple a real apple. Constant questions are a problem and we need a reference tool to solve it. True to ourselves, we make one with the technology available and upgrade it when possible.
 
 Our first reference tools was the wisdom of elders. The first technological upgrades were papyrus and ink (500 BC) and books (500), which turned elders into experts like Hippocrates and Aristotle. When wood-pulp paper (1200) and printing press (1456) were invented, humanity unlocked mass produced books. Now experts could share knowledge and educate the masses. We called the reference books encyclopedias.
 
@@ -126,7 +142,7 @@ That's the story Wikipedia. Made by new protagoinsts, made the standard referenc
 
 ![New Tools Mean New Powers](/img\prologue\techvolution-enclyclopedia-book-wiki.png)
 
-## An All To Uncommon Story
+## Extras Power Is The Pain
 
 Lots of other new tools had the same antagonism as Wikipedia. When AT&T controlled America's phone lines in the 1960's-1980's, it impeded the internet every chance it got. In 1979 Xerox gave upstart Apple the designs for the modern personal computer because the photocopier was the future of office work. In 2008 Blockbuster laughed at Netflix because HD-DVD and Blu-Ray were the future of movies. iTunes, Uber, AirBnB, Tesla all had similar stories.
 
@@ -146,108 +162,14 @@ Our lives cut across thousands to millions of problems. Thus, our villians are n
 
 Historically their cautionary tales. In real time, they're villians holding society back. Ones I call Darth Blockbuster. They are the enemy of this book.
 
-![New Tools Mean New Powers](/img\prologue\techvolution-battle-scene.png)
-
-## Finding Darth Blockbuster
-
 Darth Blockbuster appears every time someone defends a bad tool. This could be inside a company, institution, country, or civilization. His action delays upgrading society. Problems pile up, causing strikes, bankruptcies, civil wars, and revolutions. Darth Blockbuster is either misguided, or a selfish asshole. Either way he causes the delays in upgrading society, and thus encourages political and economic hatred instead of cooperation.
 
 But finding him is hard. Nobody thinks they're an antagonsist. Even Darth Vader thought he was a hero!
-
-So how does Darth Blockbuster hide from us, and himself, so well? Let's read a story filled with heroes, villians, and extras fighting over technology. It's a few pages, but it's worth it. For one its a great story, and two, you'll learn where Darth Blockbuster's secret hideout is.
-
-## The Boy Frederick
-
-Our story is about a Maryland farm boy overcoming ignorance. The farm is one of those classic farms you might you'll see everytime you watch "Little House on the Prarire". Salt of the earth farmers raising crops and families in 19th century rural America. Definitely no Wikipedia or Khan Academy to log into. Not even many books either.
-
-The boy Frederick worked the fields with his mother. It was hard labour of course, there weren't many machines back in the 19th Century, but humanity is used to sweeting when cultivating the Earth. The boy worked hard, he wanted to keep his mother happy and fed. She wanted the same for her boy.
-
-In a few years, the boy was sent to work with a relative in Baltimore. The house was large and the young family could use a hand around the house; cleaning, shopping, doing chores. It made his mother happy he wouldn't sweat so much, yet the boy was a farmer and unsure of the big city.
-
-The father of the house was Hugh. He wasn't around much though. His new wife Sophia was. She was a foreigner used to colder climates, who didn't know many people yet, so she stayed in a lot. Sophia was nice and treated the boy nice too. Not as a farmer, but as a interesting person; not something farm hands were used to from rich people. She made Frederick feel at ease.
-
-One day, Sophia handed Frederick a list of items to pick up from the store. Frederick's eyes looked down, his shoulders slouched, like a dog who disappointed its masters. Frederick mumbled "I can't read miss Sophia."
-
-Sophia responded, "My God, well that won't do! Reading is good. How else can a person give and receive information from... from... the world! I'll teach you, we'll do it together." So Sophia taught Frederick to read. Just a few weeks, and he got the basics.
-
-The world indeed! All those markings in the store, on street corners, in books, in newspapers, in the Holy Bible, they're each a new world! Go left, turn right, open, closed, discounted, welcome, and Salvation, all this stuff a door to a new world.
-
-Frederick danced to the store, he whisked himself to do his chores, because he was learning more everyday. The world kept getting bigger, information kept pouring in.
-
-One day Hugh came home early. He saw Sophia and Frederick reading at the dinner table.
-
-Hugh walked into the room. "Boy, get out, and wait in the hallway. Face the wall."
-
-Frederick got out, waited outside, and faced the wall. Seconds turned to minutes. Frederick rolled the newspaper in his hands tighter. He didn't want to go back to the farm. But even more, he didn't want his angel to get in trouble.
-
-Inside the room, Sophia was curious "What is it? Everyone learns to read in Ohio"
-
-Hugh responded "This isn't Ohio. He is a slave. What do you think happens when slaves reads. Do you think he won't start thinking."
-
-Sophia's eyes went wide. "I didn't know the rules."
-
-Hugh responded "Teach him."
-
-As Frederick heard the hallway door open, he grips his newspaper.
-
-Sophia said, in no angelic voice, "Turn around."
-
-Frederick does, and looks at his angel, the one who talked with him like he was a person. And she looked back and only saw _her boy_.
-
-Sophia slaped the newspaper from her boy's hand. He didn't let go. She slapped again, and again and again. Each slap hurt more than a dozen whips on his scarred back.
-
-She slapped, and slapped, and slapped, and slapped. She will not do evil. She will not break the rules. Frederick's angel became a demon. Sophia was clicked by society's rules. Now she was a believer philosophy of racism to justify human slavery.
-
-Frederick's world shut. The one white person ignorant enough to treat him like a person, was now an educated convert to the rules that put him into chains. Physical chains if needed, but evil prefers mental chains of ignorance; they stay on so much easier.
-
-Weeks later Frederick was still in despair. His daily routine was the same. Yet, working under demonic masters is just different. He didn't dance to the store, he didn't whisk to do his chores, and he never saw Sophia smile again. Demons are always on guard.
-
-One day, Frederick saw a newspaper, the avenue to knowledge whose path Fredereick was once on. He looked at the markings, saw some words he knew, and one word he didn't. Yet he still stared at it. Why?
-
-The answer slapped him harder than the demon ever did, he read the words "The Freedom States in the North". He heard the word freedom before, but he didn't know freedom was a real place.
-
-A shockwave went through him when he realized if slavery was a place, then so must freedom be a place too. Here Frederick realized he could break his own chains. Because ignorance was always his demon, and knowledge was always his angel. And he fought ignorance, and received knowledge, whenever he read.
-
-So, Frederick taught himself to read. He practiced with ignorant white kids on the streets. He practiced reading items at the grocery store. He practiced on every street sign. And he practiced everytime he was at the Baltimore dock; the dock I said, you know the place, where ships will take you anywhere in the world. If you can read the schedule.
-
-One day Sophia waited for her boy to return. But the boy died when the man Frederick Douglass walked onto the ship headed north to freedom. The man knew the exact time, place, and fare he needed to get on. He read it, himself, on the schedule. Reading opened the world to Frederick, and now the free world was opened to him.
-
-The story gets better. Frederick Douglass becomes a brilliant orator and writer. In a world with no radio, video, or telephones, he travels the Northern States and Europe telling everyone the truth about slavery. When the American Civil War (1861-1865) broke out, his books help make Britain reject recognizing the South, and thus deprived it of a much needed support. The irony of a slave educating people about slavery, and thereby helping to end slavery is amazing to me.
-
-That's probably my favourite story. There is much more inside the book _A Narative of the Life of Frederick Douglass_, but the essense is all there. It would make a great movie. But the book is always better and it's been around since 1845. So, give it a read. It's free on the internet too. How fitting.
-
-## Darth Blockbuster's Secret Hideout
-
-That's probably my favourite story. There is much more inside the book _A Narative of the Life of Frederick Douglass_, but the essense is all there. It would make a great movie. But the book is always better and it's been around since 1845. So, give it a read. It's free on the internet too. How fitting.
-
-Let's get back to our story. Of course Douglas was the hero, Hugh the antagonist, and Sophia the extra. I used their story to add another important element to our list, philosophy. Notice how Sophia wasn't a bad person by nature, but when she changed her tools, she had to change her philosophy. Like we control a tool, its philosophy controls us. Even when it makes us evil.
-
-Because we are cyborgs who keep changing our tools, and philosophy is how we connect with them. Guns, sports cars, airplanes, books, wikis, DVD's, online streaming, each have a philosophy to form a connection with their users. Use a tool, depend on a tool, and its philosophy warps your world with definitions of good and bad, like it did for Douglass, Hugh, and Sophia.
-
-Here's the super-important realization. Once a new tool does arrive, the old tool only has its philosophy left to fight back with. And here is where Darth Blockbuster hides.
-
-Thus, attacking Darth Blockbuster isn't a technical battle, it's a philosophical one. But it takes time to write the philosophy for new tools. And extras on the frontline like Sophia follow established philosophies until a new philosophy steals them away.
-
-That's why I wrote Techvolution. Because we already have the tools of the future. Yet inventors of digital tools struggle because they don't have a philosophy to tell the extras why open-source programming on GitHub, local manufacturing with 3D printing, maker controlled content on Vimeo and podcasts, managerless work on Lyft, Uber, AirBnB, and privacy protection on Firefox, should be their protagonists.
-
-Techvolution is that philosophy. It's the philosophy for new and powerful digital tools to fight Darth Blockbuster for the love of society's extras.
-
-![Story of Civilization](/img\prologue\techvolution-antagonists-protagonists-extras-close-up.png)
-
-## Raiding Darth Blockbuster's Secret Hideout
-
-Despite holding super powerful tools like bio-monitors, artifical intelligence, virtual reality, 3D printing, high-speed internet, bitcoin, advanced encryption, in your hands, heck I should say our hands, feel powerless.
-
-We pass the time by fiddling with our phones. Checking email, Twitter feeds, WhatsApp messages with cramped necks and bored minds. But we the people aren't addicted to our shiny new tools. We're holding lightsabers, learning their basics, waiting for a new philosophy to turn them on.
-
-Here it is. Here's the goal of Techvolution.
-
-- Understand how we create new tools.
-- Understand how we should distribute new tools in society.
-- Kill Darth Blockbuster.
 
 If I do this, I can say I made a new philosophy. But it'll be up to the extra's to pick a new one over the many old ones.
 
 They should. We can dismantle Darth Blockbuster, while making a new philosophy so he'll never come back. I know this because our battle with today's Darth Blockbuster was fought generations ago with his master, Darth King.
 
 Darth King lived inside castles and palaces. His absolute power hidden inside an old philosophy of the "noble's divine right to rule". Slowly, as protagonists invented scientific instruments, books, and guns, new ideas formed into a new philosophy. A philosophy of science, enlightenment, equality, and democracy made real when the protagonists and extras fought as one in the American and French Revolutions. These revolutions are our guide to kill Darth Blockbuster for good. They were inspired by the new ideas of Jean-Jacques Rousseau.
+
+![New Tools Mean New Powers](/img\prologue\techvolution-battle-scene.png)

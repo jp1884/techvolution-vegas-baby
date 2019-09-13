@@ -117,6 +117,7 @@ Despite holding super powerful tools like bio-monitors, artifical intelligence, 
 
 We pass the time by fiddling with our phones. Checking email, Twitter feeds, WhatsApp messages with cramped necks and bored minds. But we the people aren't addicted to our shiny new tools. We're holding lightsabers, learning their basics, waiting for a new philosophy to turn them on.
 
+
 If I do this, I can say I made a new philosophy. But it'll be up to the extra's to pick a new one over the many old ones.
 
 They should. We can dismantle Darth Blockbuster, while making a new philosophy so he'll never come back. I know this because our battle with today's Darth Blockbuster was fought generations ago with his master, Darth King.
