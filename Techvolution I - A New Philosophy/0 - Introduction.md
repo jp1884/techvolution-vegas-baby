@@ -36,3 +36,11 @@ Revolutions happen because of delayed sharing. For example, when the printing pr
 There's a lesson. Although new technology enables a new philosphy, it's not until the extras realize the potential that a change happens. Change is thus triggered when a great thinker writes “magic words” inside seminal books that make extras realize the new options provided by transformative technology. Whether these options are scientific, political, or economic, they give new answers to insert into a civilization’s DNA. If enough people believe in the magic, change happens.
 
 So let's get to work, and create a new philosophy, but telling you a story about the new world our new tools make possible, once the extras feel their hearts sing together.
+
+## Our Ruling Philosophy
+
+Today the red blue philosophy can be summarized like this, taken from a Bloomberg BusinessWeek article a few years back.
+
+>The United States has no purpose. That is, perhaps, its greatest achievement. America’s founding document, its Declaration of Independence, allows the state to exist only to secure life, liberty, and the pursuit of happiness. That’s it. There’s a curious lack of ambition in those words. The United States was not founded for the greater glory of anything or as the necessary outcome of history; it was founded for the freedom to collect figurines, to join a clogging troupe, to take a road trip. Yet these words, which carry no ideology whatsoever, are the ones that keep winning (against other political and economic systems, such as fascism and communism). This is the lesson of the past 10 years...The most successful organizing principle the world has ever known is a simple guarantee that we can buy and do things that have no purpose greater than the satisfaction of our own happiness.
+
+We'll discover where this came from, why it's holding us back, and how we can overcome it, throughout this book.
