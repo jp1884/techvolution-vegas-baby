@@ -604,3 +604,4 @@ I won't go into details. Instead I wrote this book. It was hard, but still way e
 Here's why. Politics is a story, and an election is the climax. And if we can't tell the difference, there's something wrong.
 
 We care so much in _Romeo and Juliet_ and _Star Wars_, because either young love is embraced, or it dies. Either the rebellion is saved, or the rebels all die. These stories will live forever, because everyone appreciates what's at stake. There's nothing at stake in blue vs red, because they're not differenct enough.
+

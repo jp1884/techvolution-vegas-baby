@@ -116,3 +116,9 @@ Techvolution is that philosophy. It's the philosophy for new and powerful digita
 ## Weight Cutting
 
 As a way to showcase how strong habit and stanford experiment/cave is.
+
+## Sugar tasting food and cars
+
+Seeing "through" or up the pyramid, to deconstruct society. Everyone has a hint of the functionality above, but often stays loyal to the ruling philosophy because of the love of an art below.
+
+"What's the difference between gas V8 cars, and sugar food?"
