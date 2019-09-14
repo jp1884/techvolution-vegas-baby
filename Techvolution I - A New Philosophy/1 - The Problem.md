@@ -1,7 +1,7 @@
 
 # CHAPTER ONE - THE PROBLEM
 
-## What Do We See
+## What's Our Problem
 
 How old are you. Simple question solved by simple math. Start from your birth day and count how many times you've circled the Sun. It's a fact in all our laws, religions, and science. When we compare each other, objects, or thoughts, we use birthdays. That is how we tell time.
 
@@ -35,7 +35,7 @@ Let's look at the past for a glimpse into our future. When the first mirror show
 
 ## How It Happened Before
 
-The Sun used to revolve around the Earth. Every birthday party was a celebration the Sun revolved around you. The Earth was stationary, and the stars, galaxies, and Universe that surround our little solar system was basically a lightshow. That's all we could see with our eyes.
+Every birthday party used to be  a celebration the Sun revolved around you. The Earth was stationary, and the stars, galaxies, and Universe that surround our little solar system was basically a lightshow. That's all we could see with our eyes.
 
 Ancent Greek astronomer and mathematician Aristarchus of Samos (310-230 BC) said otherwise. Among his achivements he correctly figured out the relative sizes of the Moon, Sun, and Earth. Every year a well in Egypt had no shadow. He reasoned the Sun is directly above it. On the same day he measured the shadow the great Tower of Alexandria. He measured the distances and heights of everything, used the pythgorean theorem, and voila, the Sun is 80 times the size of Earth, and the Moon is one forth. Aristarchus thereafter said why would the Sun move if it's so much bigger.
 
@@ -79,11 +79,9 @@ The self-declared smart will probably never get techvolution. For the same reaso
 
 The extras in the story of society are the only ones free enough to make themselves into the futures protagonists. And today's extras are the struggling middle class. And the question is, will they. They certainly should. But we only find out if they will in the story's climax.
 
-
 ## Techvolution Wanted
 
 The Digital Revolution started decades ago. Computers, the internet, 3D printing, and other wondrous tech, is even more transformative than the telescope or gun because they improve exponentially faster. The Digital Revolution is changing our society every day, yet we haven’t changed our ruling philosophy one bit to keep up.
 
 - because of so many DB's, we have an excess of tech upgrades waiting to happen
 - this either builds up a revolution, or we can have a techvolution
-

@@ -5,7 +5,7 @@
 
 I want to keep this book as snippy as possible. So instead of long histories, I'll highlight the battle over new tools in short bursts. Here's one about Paul Baran. A glasses wearing geek who was a real life Luke Skywalker.
 
----
+===
 
 There are many ways of sending data through a network. The simplest is how phone systems do it, with a direct circuit link between two phones. A call's connection only stops when someone hangs up.
 
@@ -32,6 +32,10 @@ Techvolution's job is to be the first explicit philosophy of the internet and ot
 _Paul Baran's story was adapted from Walter Isaacson's awesome book_ The Innovators, _Chapter 7._
 
 ## The Boy Frederick
+
+Where do our philosphies come from. Let's find out
+
+===
 
 Our story is about a Maryland farm boy overcoming ignorance. The farm is one of those classic farms you might you'll see everytime you watch "Little House on the Prarire". Salt of the earth farmers raising crops and families in 19th century rural America. Definitely no Wikipedia or Khan Academy to log into. Not even many books either.
 
@@ -89,19 +93,17 @@ One day Sophia waited for her boy to return. But the boy died when the man Frede
 
 The story gets better. Frederick Douglass becomes a brilliant orator and writer. In a world with no radio, video, or telephones, he travels the Northern States and Europe telling everyone the truth about slavery. When the American Civil War (1861-1865) broke out, his books help make Britain reject recognizing the South, and thus deprived it of a much needed support. The irony of a slave educating people about slavery, and thereby helping to end slavery is amazing to me.
 
----
+===
 
-That's probably my favourite story. There is much more inside the book _A Narative of the Life of Frederick Douglass_, but the essense is all there. It would make a great movie. But the book is always better and it's been around since 1845. So, give it a read. It's free on the internet too. How fitting.
+Adapted from _A Narative of the Life of Frederick Douglass_. Free on Project Gutenburg.
 
 ### Darth Blockbuster's Secret Hideout
 
-That's probably my favourite story. There is much more inside the book _A Narative of the Life of Frederick Douglass_, but the essense is all there. It would make a great movie. But the book is always better and it's been around since 1845. So, give it a read. It's free on the internet too. How fitting.
-
-Let's get back to our story. Of course Douglas was the hero, Hugh the antagonist, and Sophia the extra. I used their story to add another important element to our list, philosophy. Notice how Sophia wasn't a bad person by nature, but when she changed her tools, she had to change her philosophy. Like we control a tool, its philosophy controls us. Even when it makes us evil.
+Of course Douglas was the hero, Hugh the antagonist, and Sophia the extra. I used their story to show you where philosophy comes from. Notice how Sophia wasn't a bad person by nature, but when she changed her tools, she had to change her philosophy to vile racism. Like we control a tool, its philosophy controls us. Even when it makes us evil.
 
 Because we are cyborgs who keep changing our tools, and philosophy is how we connect with them. Guns, sports cars, airplanes, books, wikis, DVD's, online streaming, each have a philosophy to form a connection with their users. Use a tool, depend on a tool, and its philosophy warps your world with definitions of good and bad, like it did for Douglass, Hugh, and Sophia.
 
-Here's the super-important realization. Once a new tool does arrive, the old tool only has its philosophy left to fight back with. And here is where Darth Blockbuster hides.
+Here's the super-important realization. Once a new tool does arrive, the old tool only has its ruling philosophy left to fight back with. And here is where Darth Blockbuster hides.
 
 Thus, attacking Darth Blockbuster isn't a technical battle, it's a philosophical one. But it takes time to write the philosophy for new tools. And extras on the frontline like Sophia follow established philosophies until a new philosophy steals them away.
 
@@ -109,19 +111,7 @@ That's why I wrote Techvolution. Because we already have the tools of the future
 
 Techvolution is that philosophy. It's the philosophy for new and powerful digital tools to fight Darth Blockbuster for the love of society's extras.
 
-![Story of Civilization](/img\prologue\techvolution-antagonists-protagonists-extras-close-up.png)
-
-### Raiding Darth Blockbuster's Secret Hideout
-
-Despite holding super powerful tools like bio-monitors, artifical intelligence, virtual reality, 3D printing, high-speed internet, bitcoin, advanced encryption, in your hands, heck I should say our hands, feel powerless.
-
-We pass the time by fiddling with our phones. Checking email, Twitter feeds, WhatsApp messages with cramped necks and bored minds. But we the people aren't addicted to our shiny new tools. We're holding lightsabers, learning their basics, waiting for a new philosophy to turn them on.
-
-If I do this, I can say I made a new philosophy. But it'll be up to the extra's to pick a new one over the many old ones.
-
-They should. We can dismantle Darth Blockbuster, while making a new philosophy so he'll never come back. I know this because our battle with today's Darth Blockbuster was fought generations ago with his master, Darth King.
-
-Darth King lived inside castles and palaces. His absolute power hidden inside an old philosophy of the "noble's divine right to rule". Slowly, as protagonists invented scientific instruments, books, and guns, new ideas formed into a new philosophy. A philosophy of science, enlightenment, equality, and democracy made real when the protagonists and extras fought as one in the American and French Revolutions. These revolutions are our guide to kill Darth Blockbuster for good. They were inspired by the new ideas of Jean-Jacques Rousseau.
+![Story of Civilization](/img\interlocutors\techvolution-antagonists-protagonists-extras-close-up-douglass.png)
 
 ## Weight Cutting
 
