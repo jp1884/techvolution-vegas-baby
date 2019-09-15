@@ -2,45 +2,68 @@
 
 ## The Writer
 
-If we're going to master the human story, but proactively changing to its twists and turns via techvolution, we have should understand how our story is written. Like any story ours has props, emotions, dialogue, motivations, characters, and plot. By deconstructing stories, we'll understand our own.
+If we're going to master the human story, but proactively changing to its twists and turns via techvolution, we should understand how our story is written. By deconstructing stories, we'll understand our own.
 
 ## The Nature of Storytelling
 
-A story is a character addressing a problem through a series of events. The events are organized in three parts. The first is the introduction of the protagonist who realizes a problem she wants to solve, and the antagonist who wants to keep things the same. The second part is where both characters and their supporters fight over the problem. The third part is the conclusion, where we find out which side will win. Both the characters and the viewers enjoy, or dread, the drama of not knowing which side will win. The goal and art of storytellng is making the audience always wonder that's going to happen next because nobody can be sure.
+A story is a protagonist fighting to solve a problem an antagonist defends. They fight in three parts. The first is an introduction to the problem and characters. The second is the battle between good and bad sides. The third part ist he conclusoin, where we find out which side will win. Both the characters and the viewers enjoy, or dread, the drama of not knowing which side will win.
 
-![Cinderella's Story](\../img\thewriter\story-cinderella.png)
-_In_ Cinderella _the forces of good organize to defeat the forces of her evil step-family. A classic rags to riches tale._
+So, Cinderella wants to go to the ball to have fun, and her evil step-family doesn’t want her to. Both main characters and their supporters fight whether she'll go and live a happier life,  until the conclusion, where we find out which side will win. Will the glass slipper fit Cinderella or an evil step-sister? Oh the drama, because whoever has the perfect fit, gets to marry the prince!
 
-Good storytelling makes us wonder by telling a surprising, yet rational, story. Believability in turn allows the audience to invest their emotions. That's why a well-told story makes us feel surprised, intrigued, mad, disgusted, joyous, and so on. Look at the faces of people during a good movie and you'll see how transfixed they are. It's because the movie is very believable and the audience is wondering what's going to happen next. Wondering what's going to happen next makes the audience minds open to the different ways of life inside foreign cities, mythical worlds, and galaxies far far away.
+In good storytelling, be it fairy tale, romance, or comedy, the sequence of events must be unexpected enough to be interesting, yet logical enough to be believable. Balancing the two is the art of good storytelling.
+
+So, we watch and read stories to be surprised. At the same time, we need the story to be logical to a certain extent. That means every story element, plot, backstory, dialogue etc. needs a reason to exist, even if we don’t initially understand it while watching the movie. And here’s the connection with techvolution. Because understanding all the reasoning hidden in stories, helps us understand all the reasoning hidden in our society.
+
+Life is a story full of problems, from finding water to understanding calculus. And life solves problems with technology. Technology is thus the goal of characters in real life. We’re seeking the glass slipper that will solve our problems. We dig a well to get water, or watch a YouTube video to understand calculus. An invented technology is a problem solved, letting us move onto to a new problem and a new story.
+
+So let's understand our live, but understanding stories teach our minds to master the different ways of life inside our foreign cities, mythical worlds, and galaxies far far away, and help extras choose which story they'll support.
 
 ## Story Parts
 
 We've already learned how antagonists, protagonists, extras, and philosophies exist in stories. There are several more elements we need to learn to help extras make their choice.
 
-Items: are the props, of the story. Broom sticks, magic hats, shoes, clothes, houses. Sleds, cars, animals, custumes; any material thing whether special effects or real, are items. Put them all together and items make the setting, like ancient Rome, galactic space, as suburb, or the ever-changing Eden.
+Items: are the props, of the story. Broom sticks, magic hats, houses. Sleds, cars, animals, custumes; any material thing whether special effects or real, are items. Put them all together and items make the setting, like ancient Rome, galactic space, as suburb, or the ever-changing Eden.
 
-Think stormtroopers in _Star Wars_, or the people stuck inside the _The Matrix_, or the French villagers in _Beauty and the Beast_. Extras, whether props or people in a story only get meaning when someone has gifts them passion. Thereafter they start to come alive.
+Think stormtroopers in _Star Wars_, or the people stuck inside the _The Matrix_. Extras, whether props or people in a story only get meaning when someone has gifts them passion. Thereafter they start to come alive.
 
 Passion: Items come alive when somebody gives them passion. Think of the American flag waving overtop Philadelphia, or the wedding ring on your figure, or the Nobel prize so many scientists dream about. Just items, until someone feels passion about them.
 
-People fight for their passions. Things like a guitar to a guitarist, a gun to a soldier, a stove to a baker, or a Wikipedia edit to a educator. As a person's passion is actualized with items, that person also becomes less of an extra and more of a character. Characters with passion, promote and defend their passions in their dialogue.
+People fight for their passions, like guitarist for his guitar, a gun to a soldier, or  Wikipedia to an educator. As a person's passion is actualized with items, that person also becomes less of an extra and more of a character. Characters with passion, promote and defend their passions in their dialogue.
 
-Dialogue: is the powerful words, whether written of spoken, between characters fighting for their passions. Dialogue is how characters communicate, like Hugh telling Sophia teaching a slave to read is bad. Dialogue is authority. The ruling philosophy polices itself with dialogie. Think of all the words you can't say at a red or blue rally. Like "higher taxes are good!" or "Immigrants are bad!"
+Dialogue: is the powerful words, whether written of spoken, between characters fighting for their passions. Dialogue is how characters communicate, like Hugh telling Sophia teaching a slave to read is bad. Dialogue is authority. The ruling philosophy polices itself with dialogie. Think of all the words you can't say at a red or blue rally. Like "higher taxes are good!" or "Immigrants are bad!".
+
+Because once an idea is spoken, it can spread and become politcal. Tyrants start by controlling the speech. They fall first in the words. Like Rousseau, who was dangerous because he wrote good dialogue.
+
+Antagonist: defends the society against the protagonists changes. They use items, passions, and dialogue to do it. However, since an antagonist defends the stories problem, he's bound by the society's ruling philosophy.
+
+Ruling philosphy: is the philosophy that sets society's rules. Like the "Dark Side" controlling the empire in _Star Wars_. The ruling philosophy isn't created in the story. It already exists. Inside this cave is the reality most people live inside. Ruling philosoph is how the society acts together to solve problems. The ruling philosophy so powerful it controls anyone not a protagonist.
+
+Protagonist: the rulebreakers who see a problem with the ruling philosophy, and fight to replace it with a new one. Like Luke Skywalker who attacks the Dark Side, with the Light Side. That's why the protagonist is the story's leader, whose success determines if society will change or not.
+
+Plot: the series of battles between protagonist and antagonist. Usually the plot, and the battles, is about a tool whose creation, or destruction, determines the winner of the story. If Luke Skywalker destroys the Death Star in _Star Wars_, the Light Side wins. Or if the glass slipper in _Cinderella_, fits the protagonists, then she, not her evil step sisters, will live happily ever after.
 
 ## APPLICATIONS
 
 Let's see what the full triangle looks like.
 
 ![The Matrix](img\thewriter\triangle-the-matrix.png)
-**The Matrix:**  The perfect example for us. The story is about machines that enslave humanity, and keep us inside a virtual prison called The Matrix.  The real world is a dystopia, were people are power generators for the machines. The items of the story are 1999 western society, and a dystopia setting. The passions are human emotions empowering individuals against slavery. Dialogue is very human vs machine. The antagonist machine leader wants to preserve the slaver. The philosophy is to keep people in slavery for their own, and machines, good. The protagonist Neo slowly realizes ways to master The Matrix's philosophy and overpowers the ignorant antagonists. The plot is about cutting the cord that lets the machines control human prisoners.
+**The Matrix:** The story is about machines that enslave humanity inside a virtual prison that looks like 1990's America. Humans are connected with a connection into our skulls. The real world is a dystopia, were people are power generators for the machines.
+
+The antagonist machine leader likes the matrix, and defends the ruling philosophy of slavery. The protagonist Neo slowly realizes ways to master The Matrix's philosophy and overpowers the ignorant antagonists. The plot is about cutting the cord that lets the machines control human prisoners.
 
 ![Star War](\../img\thewriter\triangle-star-wars.png)
-**Star Wars:** An entire galaxy is controlled by a evil Empire. Evildoers keep control with their superweapon Death Star. Meagre resistance fighters stole its schematics and might find a weakness. The items are space ships, and alien planets. Passions are forces bewteen the Light and Dark Sides. Dialogue reinforces the do or die battle. The antagonist is Darth Vader who needs to save the Death Star to keep the Dark Side on top of the eternal philosophy battle between Light and Dark Sides. The protagonist Luke slowly realizes how to master the Light Side and become strong enough to defeat Darth Vader. The plot concludes when Luke shoots a missle and destroys the Death Star.
+**Star Wars:** An entire galaxy is controlled by a evil Empire. Evildoers keep control with their superweapon Death Star. Meagre resistance fighters stole its schematics and might find a weakness. The antagonist is Darth Vader who needs to save the Death Star to keep the Dark Side on top of the eternal philosophy battle between Light and Dark Sides. The protagonist Luke slowly realizes how to master the Light Side and become strong enough to defeat Darth Vader. The plot depends of if Luke's missle will destroy the Death Star.
 
 ![Argh](\../img\thewriter\triangle-office-space.png)
-**Office Space:**  This is a story about modern life. Items is everything from a condo, to car, to a cubicle. Passions are the desire for a better, more interesting life. Dialogue is the passive aggressive rules of doing what your boss says, regardless of how stupid it is. The antagonist is the boss who grinds his employess. Philosophy is the drive for profits of corporations who the boss services. The protagonist is the guy who says fuck it, I can't stand this bullshit. And the plot, is getting the money to quit.
+**Office Space:**  Hits close to home, the story about the boring drugery of modern suburban life and office work. The ruling philosophy is commercialism that gives workers moderate repetitive tasks and keeps them in line with absurd office culture and just enough money to pay their bills. The antagonist is the boss who gets a disapproatio amount of money, prestige, and power.
 
-This is what an extra must see through, in order to make their choice. How do they learn the difference?
+The protagonist is the guy who values his freedom and relationships more then money. The plot rests on whether the protagonist will control the tool, money, to free himself from having to work anymore.
+
+## The Extras
+
+This triangle represents every story, and thus every society. Starting from items, passions, dialogue, antagonists, ruling philosophy, and plot/tool. This is what an extra must see through, in order to make their choice.
+
+Now we have to teach ourselves the difference?
 
 ## Charting Stories
 
@@ -56,21 +79,19 @@ Here's a legend.
 
 **Protagonist philosophy** - The good guy acts out his philosophy.
 
-**Antagonist philosophy** -  The bad guy acts out his philosophy.
+**Antagonist philosophy** -  The bad guy acts out his philosophy. The two philosophies balance out until the conclusion decides who wins.
 
-**Realizations** -  Moments when a character sees a new reality.
-
-**Plot** - The collection of actions of all characters.
+**Realizations** -  Moments when a character realizes something.
 
 **Suffering of the Protagonist** - Long periods when the protagonists suffers.
 
-**Reversal of Situations** - Short periods where the plot changes big time.
+**Reversal of Situations** - When the plot changes big time.
 
-**Free will** - The time allowed where the character can decide how to respond to plot events. Bigger spreads mean more options.
+**Free will** - The time allowed where the character can decide how to respond to plot events. Short spread means less choices, bigger spreads mean more options.
 
 **Conclusion** - Convergence of plot and character to decide the result of the story.
 
-**New Society** - The result of the battle between protagonist and antagonist. Regardless who wins, they effected each other, and the new reality's philosophy will be different.
+**New Society** - The result of the battle.
 
 This is the how story's look like. We'll map out the fight over new tools soon. First we have to see the three difference kinds of stories we'll encounter.
 
@@ -109,3 +130,4 @@ Importantly, since spectacle and art stories don't have stories, they can't have
 And that's what Rousseau noticed. That society was past due its moment of conclusion, and as a result, it was living in a philosophy of art, to justify it's non-functioning society.
 
 Let's draw it out.
+

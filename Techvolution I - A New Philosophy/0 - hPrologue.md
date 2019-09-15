@@ -102,6 +102,8 @@ Antagonists: people who selfishly resist new tools to defend their wealth, power
 
 Extras: everybody in the middle of a battle between two tools. Because they have no direct interest in either side, they can pick winners and losers. Usually extras are in the middle class; not so poor as to be desperate, but not so powerful they want to keep the world the same. Sadly, extras don't realize their power.
 
+Frontline: The place where things of consequence happen. 
+
 Techvolution: a new philosophy empowering seemless human technological evolution by ridding Darth Blockbuster of his power, by empowering extras to decide when society should upgrade to new tools.
 
 ## Short Story
