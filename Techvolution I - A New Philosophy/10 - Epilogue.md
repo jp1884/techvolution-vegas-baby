@@ -11,7 +11,7 @@ See, after a car accident, two drivers don't know what to do, so they don't ofte
 
 The job sucks. Drivers are "hallowed customers" who want normal now! The only tools we adjusters had was telephone, email, voicemail, checkbook, google, and a supervisor telling us to hurry up or get fired.
 
-Beyond st-st-stress ~~stressful~~. Very emotionally taxing. Until you speak with a driver who is a real person.
+Beyond st-st-stress ~~stressful~~, very emotionally taxing. Until you speak with a driver who is a real person.
 
 Real people, whose car accident wasn't an inconvience, but a life changing horror. Maybe they lost an arm. Maybe their friend is in the Intensive Care Unit, maybe their kid burned alive twelve hours ago.
 

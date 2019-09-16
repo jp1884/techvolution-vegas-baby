@@ -2,7 +2,7 @@
 
 ## The Writer
 
-If we're going to master the human story, but proactively changing to its twists and turns via techvolution, we should understand how our story is written. By deconstructing stories, we'll understand our own.
+If we're going to master the human story, but proactively changing to its twists and turns via techvolution, we should understand how our story is written because by deconstructing stories, we'll understand our own.
 
 ## The Nature of Storytelling
 
@@ -127,7 +127,22 @@ For example, in _Star Wars_ Once the Death Star is blown up, Luke is no longer t
 
 Importantly, since spectacle and art stories don't have stories, they can't have conclusions. So they continue growing indefinitely. Thus art is followed with more art, and spectacle is followed with more spectacle. They never end.
 
-And that's what Rousseau noticed. That society was past due its moment of conclusion, and as a result, it was living in a philosophy of art, to justify it's non-functioning society.
+## Small example
 
-Let's draw it out.
+Taking what we've learned, let's apply the full triangle, and a spectacle, functional, and art story to the creation and distribution of new tools.
 
+Spectacle is how tools are first made. Basically we toy with new technology, making toys of it, trying to figure out what it can do. Spectacle works best here because it's easy and cheap. Pornography was one of the first book topics printed, and online pornography quickly spread on the early world wide web.
+
+After toying around, we learn what the tool is capable of, and start applying it to real world problems. Here a new tool enters the functional stage. Where protagonists question society, and continually break the rules to push society forward.
+
+Then comes the third stage, art. A new tool only has so much function to give. Eventually it's used up. Thereafter it's owners resort to art. The tool gets more decorative, ornamental, and personal.
+
+Here's what it looks like on our diagrams of new tools.
+
+![After the story ends](\../img\thewriter\techvolution-story-types-applied.png)
+
+And that's what Rousseau noticed. That society was past due its moment of conclusion. That instead of protagonists becoming equal again, and distributing the proceeds of a new tool throughout society, the leaders descendants kept it for themselves.
+
+And that is Darth King responsible holding back upgrades by using his control of the ruling philosophy to extra more power and money of so many of society's new tools for himself. The result was opulancent houses made into palaces, playing exquisite music, during very many banquets and balls. All the while society was increasingly non-functioning, behind it's potential.
+
+Until a poor write made the extras realize their inaction was to blame, and wrote magic words to make them realize it. Let's find out how this story, and ours, happened in Wester Civilization, by looking at our backstory.

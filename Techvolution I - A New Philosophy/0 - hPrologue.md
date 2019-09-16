@@ -68,6 +68,8 @@ With Techvolution, you'll fight political battles not with bristol boards or pai
 
 People often say we're addicted to our phones. We aren't. We getting to know them. They are our lightsabres. We've just been waiting for a new philosophy to turn them on.
 
+>Think of this. Rousseau, Jefferson, Madison, Washington, and the countless other revolutionary heroes, never used a toilet, turned on a light-bulb, watched a movie, wore rubber shoes, touched plastic, flew in a plane, drove a car, made a phone call, opened a fridge, took a picture, used penicillin, had an x-ray, started a motor, or listened to the radio.
+
 ## Mastering Our Tools With Techvolution
 
 I want to empower you with tools. Yet, this is not a book about how to invent tools. Amazing books like _Rework_, and _Zero to One_ already do that. Nor is it a book about the history of invention. _The Innovators_ does that better than I could dream. If you want a brilliant critique of our society, _The Incerto_ and _The Great Degeneration_ are already waiting for you. Instead, this is a book about how new tools empower society, and how we can distribute their power to improve the lives of regular people today.
@@ -102,7 +104,7 @@ Antagonists: people who selfishly resist new tools to defend their wealth, power
 
 Extras: everybody in the middle of a battle between two tools. Because they have no direct interest in either side, they can pick winners and losers. Usually extras are in the middle class; not so poor as to be desperate, but not so powerful they want to keep the world the same. Sadly, extras don't realize their power.
 
-Frontline: The place where things of consequence happen. 
+Frontline: The place of contact between a tool and the problem. A movie usher talking to moviegoers, police chasing a robber, soldiers on the battlefield.
 
 Techvolution: a new philosophy empowering seemless human technological evolution by ridding Darth Blockbuster of his power, by empowering extras to decide when society should upgrade to new tools.
 
