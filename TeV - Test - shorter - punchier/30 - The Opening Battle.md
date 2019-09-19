@@ -3,11 +3,13 @@
 
 ## Introduction
 
-All stories start with an opening battle. It helps the audience understand the story'e problem, and meet the good and bad guys fighting over it. For us, the problem is the invention of new technology, and creation of new tools. So, let's see how the a battle looks like.
+The antagonists are sending some fighters called objections. The objection here is politics is about making the just and good society. The implication is. Justice is created from a blank slate. That we reason and make a society the tools are immaterial. Have you ever heard a politician say, we don't need 
+
+Marxists, capitalists, conservatives and progressives are all options limited by their tools. I'll show you, by analyzing the political battle over new tools.
 
 ## New Tools Start The Fight
 
-So humanity evolves with tools. Some people help, others hurt.
+Humanity, and our politics, evolves with tools.
 
 Upgrading a technology isn't a big deal. Sedan's and SUV's, tube televisons's and LCD's, are basically the same. But when we upgrade enough technologies, like microchips, touchscreens, batteries, and WiFi, we unlock a new tool, ala smartphones. And this is a big deal.
 
