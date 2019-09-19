@@ -1,6 +1,0 @@
-
-# PROLOGUE
-
-## Dedication
-
-## Hi Again

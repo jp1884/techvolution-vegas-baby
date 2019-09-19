@@ -10,15 +10,15 @@ To the extras. I pray you pick the right side.
 
 ## The Start
 
-It all started with a door in the face. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product they were never going to buy.
+It all started with a door in the face. I few more actually. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product they were never going to buy.
 
 Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I had done the frontline job it worked for.
 
-I figured out how to solve a problem, and save 100 million dollars, 30,000 hours of productivity, and even several lives, with an app that was virtually free. All I wanted was to give it away. I wrote (another) book about the untapped possibilities of new tech like apps, bio-monitors, and bitcoin. I wanted real-world proof, and maybe get some real-world credentials, to help validate my ideas.
+I figured out how to solve a problem, and save 100 million dollars, 300,000 hours of productivity, and even several lives, with an app that was virtually free. All I wanted was to give it away. I wrote (another) book about the untapped possibilities of new tech like apps, bio-monitors, and bitcoin. I wanted real-world proof, and maybe get some real-world credentials, to help validate my ideas.
 
-But I was a fool. I wasn't even knocking on doors. I was knocking on gates.See, I wasn't talking to the frontline workers suffering through the problem I solved, but bureaucrats, lawyers, managers, and executives, who were paid to deal with problems. Solving problems was asking them to fire themselves. Hence the gates they kept closed to new tools.
+But I was a fool. I wasn't even knocking on doors. I was knocking on gates. See, I wasn't talking to the frontline workers suffering through the problem I solved, but bureaucrats, lawyers, managers, and executives, who were paid to deal with problems. Actually solving anything was asking them to fire themselves. Hence the gates they kept closed to new tools.
 
-That's why they never said no to me. No needs a reason. Instead they said it was against the rules to say yes. Obscure ones hidden inside regulations and contracts. They believed in these rules, especially the one against letting frontline workers to decide for themselves.
+That's why they never said no to me. No needs a reason. Instead they said it was against the rules to say yes. Obscure ones hidden inside regulations and contracts. They believed in these rules, especially the one against letting frontline workers decide for themselves.
 
 I'm not going to talk about my experience too much. All that's important is there was a problem, a big one wasting millions of your dollars, weeks of workers time (lots of it unpaid overtime), and maybe even your life, and it was against the rules to solve it.
 
@@ -26,7 +26,7 @@ I'm not going to talk about my experience too much. All that's important is ther
 
 Do you love stories? I think it's a safe bet. Who doesn't? They entertain us after hard days of work, bring us together to share our joys, and my favroite, open our minds to the different rules and philosophies of foreign cities, mythical worlds, and galaxies far far away.
 
-Stories are so powerful because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. Stories aren't debates. We take the protagonists side. Thus, Romeo and Juliet's love is beautiful and worth dying for, while their familes feud is ignorant and stupid. Luke Skywalker's rebellion is good and worth fighting for, while Darth Vader's empire is wicked deserves to die.
+Stories are so powerful because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. Stories aren't debates. We take the protagonists side. Thus, Romeo and Juliet's love is beautiful and worth dying for, while their familes feud is ignorant and stupid. Luke Skywalker's rebellion is good and worth fighting for, while Darth Vader's empire is wicked and deserves to die.
 
 Moral clarity about a problem turns protagonists into our heroes, and antagonists into our villians. We thus watch their story with strong emotions, which burst out at the climax, where we find out who wins.
 
@@ -38,7 +38,7 @@ Will our hero reach it, or will our enemy? We in the audience, like extras in th
 
 The rules. We think they control us. They don't. I'll show you.
 
-Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll say something like "if the red team wins this one, education, healthcare, infrastructure, everything will go to shit." What he means is elections decide the rule makers and blue rules are good, and red rules are evil.
+Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll say something like "if the red team wins this one, education, healthcare, infrastructure, everything will go to shit." What he means is elections decide the rule makers, and blue rules are good, red rules are evil.
 
 If you buy it, most of us have at some time, you watch blue cable news, read blue blogs, listen to blue talk radio. You fill your head with blue's philosophy. Soon enough, your face is painted blue, your waving a blue bristol board while yelling blue chants at rallies, marches, and protests. You feel like a hero! You're fighting evil red philosophy!
 
@@ -52,25 +52,25 @@ If you don't like the choir, or you're starting to wonder if blaming the other c
 
 Whichever color wins an election today and writes the rules, regular people still pay taxes, have a mortage, drive in traffic, don't sleep enough, buy unhealthy food, watch climate change, over pay for questionable education, can't understand their health insurance, get abused by unhappy customers, work unpaid overtime, don't know their health records, are micro-managed, and hope a job we likely hate isn't downsized or outsourced.
 
-Under blue or red rules, our lifestyle stays the same, because the tools in which we live our lives, like suburban homes, gas cars, call centres, paper based tax forms, mass produced unhealthy food, television for entertainment, an increasing education industry, and everything else in suburban America and Canada, stays the same.
+Under blue or red rules, our lifestyle stays the same, because the tools in which we live our lives, stay the same. Blue and red rules promote a suburban, 9-5, way of life. That means single detached homes homes, gas cars, call centres, paper based tax forms, mass produced unhealthy food, television for entertainment, an increasing education industry, and everything else in suburban America and Canada sprawl.
 
-The rules, no matter what color, don't control us. The tools we live our life with do. And nothing changes between red and blue, because neither's philosophy, from conservatism to progressivism, capitalism to marxism, is about putting new tools into our hands.
+Neither red and blue can improve middle class lives, because their philosophies, from conservatism to progressivism, capitalism to marxism, does not put new tools into our hands.
 
 It's not their fault. All of them were invented before we had many tools. Horse and carriages, ships pushed by wind, the moon as a nightlite, were common tools when red and blue were born. Think of it, their philosophical fathers like Adam Smith, Edmund Burke, John Stuart Mill, Karl Marx, never turned on a light-bulb, watched a movie, wore rubber shoes, touched plastic, flew in a plane, drove a car, made a phone call, opened a fridge, took a picture, used penicillin, had an x-ray, started a motor, or listened to the radio.
 
-Red and blue philosphies were invented to group society into a massive collection action. With red and blue philosophies we came together, industrialized, and built the first rudimentary tools like toilets, gas cars, black and white televisions, and computers the size of rooms. The masses needed to be extras, regulated and managed inside massive color coded parties because our tools were few, and couldn't be shared with everyone. To their credit, blue and red philosophies at least gave extras a voice in how our tools factories, regulations, and profits, were controlled.
+Red and blue philosphies were invented to group society into a massive collection action. With red and blue philosophies we came together, industrialized, and built the first rudimentary tools like toilets, gas cars, black and white televisions, and computers the size of rooms. The masses needed to be extras, regulated and managed inside massive color coded parties because our tools were few, and couldn't be shared with everyone. To their credit, blue and red philosophies at least gave extras a voice in how our tools factories, regulations, and profits, were controlled. Even if the voice was one among many in protests and rallies.
 
-Yet today with live in a world far far away from limited tools. Digital tools are so easy to make we can customize them for every person's individual problems. Netflix, Lyft, Skype, WhatsApp, 3D printing, bio-monitors, air quality sensors, GPS trackers, Kickstarter, YouTube, Khan Academy, smart watches, GitHub, AirBnB, or Firefox are amazingly powerful new tools that are so easy to make, we don't need to fight to control them, but fight to spread them. We can't, because the rules of old philosophies based on fighting over, not sharing, tools.
+Yet today with live in a world far far away from limited tools. Digital tools are so easy to make we can customize them for every person's individual problems. Netflix, Lyft, Skype, WhatsApp, 3D printing, bio-monitors, air quality sensors, GPS trackers, Kickstarter, YouTube, Khan Academy, smart watches, GitHub, AirBnB, or Firefox are amazingly powerful new tools that are so easy to make, we don't need to fight to control them, but fight to spread and teach them.
 
 Techvolution is a new philosphy about making regular people the hero of their own story. By empowering them with new tools.
 
 With Techvolution, you wont fight political battles with bristol boards or painted faces. You'll economically exercise your right to vote, by deciding which tools best solve your problem at home and work. Unlike me, you'll never see any gatekeepers, because you won't have to knock at anyone's door asking permission to do what's best for you.
 
-I'm not talking about an idealic world from storytime. This place of sharing tools already exists. Wikipedia, YouTube, StackOverflow, GitHub, Linux, Mozilla are only a few examples of the wonderful world of cooperation. It's called the open-source community because software is "openly shared" to help create new tools. Millions of creators and contributors, designers and coders, are already working and living inside a fundamentally new story that's responsible for our online world. I only want to rid our society of old philosophies holding it back, to let these protagonists prosper.
+I'm not talking about an idealic world from storytime. This place of sharing tools already exists. Wikipedia, YouTube, StackOverflow, GitHub, Linux, Mozilla are only a few examples of the wonderful world of cooperation today called the open-source community. It's a place where even for profit companies are realie the power of sharing to help create new tools. Millions of creators and contributors, designers and coders, are already working and living inside a fundamentally new story that's responsible for our online world. I only want to rid our society of old philosophies holding it back, to let these protagonists prosper.
 
 People often say we're addicted to our phones. We aren't. We getting to know them. They are lightsabres set to destroy the gatekeepers of old philosophies. We've just been waiting for a new philosophy to turn them on. That's techvolution.
 
-## Mastering Our Tools With Techvolution
+## INTRODUCTION
 
 I want to empower you with tools. Yet, this is not a book about how to invent tools. Amazing books like _Rework_, and _Zero to One_ already do that. Nor is it a book about the history of invention. _The Innovators_ does that better than I could dream. If you want brilliant critiques of our society, _The Incerto_ and _The Great Degeneration_ are already waiting for you. Instead, this is a book about how new tools empower society, and how we can distribute their power to improve the lives of regular people today.
 
@@ -78,19 +78,21 @@ That means changing the rules of our society with a new philosophy. Todays philo
 
 We start our new philosophy in nature. Notice gatekeeper's don't exist there. Evolution doesn't have anyone telling a cheetah she's running too fast, that the ants are too cooperative, or a camel is too water efficient. Lifeforms adapt as best they can to their own problems and the winners survive. No middleman, no gatekeepers, just problem solvers.
 
-Human biological adaptions have stopped. We'll never evolve to fly, do advanced calculations, or breath Martian air. Humanity continues lifes evolution with tools. We're basically cyborgs who adapt and solve problems by upgrading our tools to the lastest problem in transportation, calculation, and breathing.
+Human biological adaptions have stopped. We'll never evolve to fly, do advanced calculations, or breath Martian air. Humanity continues lifes evolution with tools. We're basically cyborgs who adapt and solve problems by upgrading our tools to the lastest problem in transportation, calculation, and breathing. Hold a hammer, gun, or calculator and you're a different cyborg each time.
 
-However, our problem solving is held back by old philosophies that empower gatekeepers. People in control of old tools like Blockbuster, getting to decide when, and if, humanity will upgrade our tools. I actually don't like the term gatekeepers. Some gates are good.
+However, our problem solving is held back by old philosophies that empower gatekeepers. People in control of old tools like Blockbuster, getting to decide when, and if, humanity will upgrade our tools. I actually don't like the term gatekeepers. Some gates are good. I use a different term.
 
-In _Star Wars_, the Force, is an all powerful energy field. The Jedi like Luke Skywalker, harness the light side of the force to help others, while the evil Sith like Darth Vader harness the dark side, to increase their powers. Thus, I call antagonists to our technological evolution Darth Blockbuster. People who prevent human evolution for their self-interest.
+In _Star Wars_, the Force is an all powerful energy field. The Jedi like Luke Skywalker, harness the light side of the force to help others, while the evil Sith like Darth Vader harness the dark side to help themselves.
+
+Tools empower humanity. We already call technological protagonsts "trailblazers" who invent new tools for us cyborgs to hold.  But we don't have a term for the antagonists. Thus, I call antagonists to our technological evolution Darth Blockbuster. Assholes who prevent human evolution for their self-interest.
 
 We call biological upgrades and adaptions evolution. I call human technological evolution _Techvolution_. This book is about inventing techvolution, a philosophy to re-write the rules of society, to forever kill Darth Blockbuster, so regular people can solve our problems with technological upgrades as smoothly in human society, as evolution does in nature.
 
-## Definitions
+## CAST OF IDEAS AND CHARACTERS
 
 Before we go any futher, I want to layout the philosophy our clearly. Here's what we need to know:
 
-Philosophy: the largley unspoken ideals that tells members of society what's right and wrong, good and bad, in science, art, morals, politics and economics. A collective consciouness that makes up a civilizations DNA, used by members to make rules around questions like: what is scientific truth? Who should govern? And how should resources be organized?
+Philosophy: the largley unspoken ideals that tells members of society what's right and wrong, good and bad, in science, art, morals, politics and economics. Used by members to make rules around questions like: what is scientific truth? Who should govern? And how should resources be organized? These answers create a collective consciouness of a civilization.
 
 Ruling philospophy: is a civilization's chosen philosophy. One that all factions agree on. Like the "Divine Rights of Kings" derived from Christian theology used in royalist Europe, "Marxist-Leninism" of the Soviet Union, or the combination of "red blue" philosophies of our philosophy today.
 
