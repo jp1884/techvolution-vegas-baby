@@ -35,7 +35,7 @@ With machine learning and artifical intelligence, we'd find trends to the millio
 
 People who don't feel the pain. People happy with the way things are. Seeing the blank faces, the clueless looks, the complete arrogance of the executives, lawyers, marketers, and consultants who stood in the way of the frontline workers, and the unlucky ones grieving in pain, waiting for this solution, merged years of political theory in my mind and let me see a new ruling philosophy called Techvolution clearly in my head.
 
-It was still hard writing this book. It was condensing so much history and political theory in such a short book. I was mentally very tired and a little bitter to be honest. Then I watched an episode of Netflix's _Black Mirror_, and went back to work.
+It was still hard writing this book. It was condensing so much history and political theory in such a short space. I was mentally very tired and despite indulging in Jack Jones' "The Impossible Dream" too much, a little bitter. Then I watched an episode of Netflix's _Black Mirror_, and went back to work.
 
 This episode was the tale of a crazed man, out to talk with the powerful CEO of an app called Smithereens. He holds a company intern hostage awaiting his call. Police surround him, corporate lackies try to deflect him, shots are fired at him, but he still wants his phone call. Nobody knows why.
 
@@ -47,7 +47,7 @@ I didn't guess it was his own distracted driving, but I knew the pain the actor 
 
 I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer. Darth Blockbuster stopped it. He'll never say that, or even know it. To him the frontline is a place to stand above, not live within.
 
-I did my best as a protagonist. I still wonder how many lives were lost because I failed going all the way, but I did my best. The point isn't self-pity. The point is self-pity doesn't need to exist in the digital age. For the philosophy of digital tools isn't a place of heroic individuals with a mass of extras behind them. I pushed as far as I could. It's someone else's turn now. Everyone is either an extra choosing the best tools, or heroes in waiting in the ruling philosophy of techvolution.
+I did my best as a protagonist. I still wonder how many lives were lost because I failed going all the way, but I did my best. The point isn't self-pity. The point is self-pity doesn't need to exist in the digital age. For the philosophy of digital tools isn't a place of heroic individuals with a mass of extras behind them. I pushed as far as I could. Someone better can pick up and keep going. Everyone is either an extra choosing the best tools, or a hero in waiting, in the ruling philosophy of techvolution.
 
 Rest assured, the millions of the protagonists inside the open-source community will soon make a app far more powerful than my little thing. Darth Blockbuster can't stop it. The question is, now that the Sith are defeated, how do we empower you Jedi in the open-source community, to build the future faster.
 

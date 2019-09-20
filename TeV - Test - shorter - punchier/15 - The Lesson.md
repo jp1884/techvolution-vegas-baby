@@ -69,9 +69,11 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 ## Lessons
 
-What did we learn from Frederick Douglass. Bravery, intelligence, persistence. He's an examplar of humanity. We can take one more lesson from him, and remembering it is like learning the force, mastering the matrix, or having a fairy godmother.
+Frederick Douglass had bravery, intelligence, persistence. He's an examplar of humanity. We can take one more lesson from him, and remembering it is like learning the force, mastering the matrix, or having a fairy godmother.
 
-The lesson is our ruling philosophies are determined by our tools. Douglass was the protagonist, Hugh the antangonist, and Sophia the extra, because of their relationship to tools. Hugh was a conscious racist slaver, because he wanted to own the product of manual labour. Douglass wanted to empower himself, and everyone, to progress towards better tools instead. Sophia was the extra stuck in the middle.
+The lesson is our ruling philosophies are determined by our tools. It's most obvious when the tool is a person, but it applies everytime.
+
+Douglass was the protagonist, Hugh the antangonist, and Sophia the extra, because of their relationship to tools. Hugh was a conscious racist slaver, because he wanted to own the product of someone else's manual labour. Douglass wanted to empower himself with knowledge and therefore had to believe in personal freedom. Sophia was the extra stuck in the middle.
 
 Morality, justice, political and economic theory, are all subservient to the creation and sharing of tools. You can even notice how Sophia's frontline life, let her educate Frederisk because it solved a practical problem. It was Hugh, and other slavers, who held it back for their own benefit.
 

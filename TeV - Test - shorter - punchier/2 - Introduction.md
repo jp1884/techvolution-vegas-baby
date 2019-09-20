@@ -11,10 +11,10 @@ Human biological adaptions have stopped. We'll never evolve to fly, do advanced 
 
 Our problem solving is held back by old philosophies that empower gatekeepers. People in control of old tools like Blockbuster, getting to decide when, and if, humanity will upgrade our tools. I actually don't like the term gatekeepers. Some gates are good. I use a different term.
 
-In _Star Wars_, the Force is an all powerful energy field. The Jedi like Luke Skywalker, harness the light side to help others, while the evil Sith like Darth Vader harness the dark side to help themselves.
+In _Star Wars_, the Force is an all powerful energy field. Luke Skywalker's Jedi order, harness the light side to help others, Darth Vader's evil Sith, harness the dark side to help themselves.
 
-We already call technological protagonsts "trailblazers" who empower us cyborgs with new tools. But we don't have a term for the antagonists. I call antagonists to our technological evolution Darth Blockbuster. Assholes who prevent human evolution for their self-interest.
+We already call technological protagonsts "trailblazers" who empower us cyborgs with new tools. But we don't have a term for the antagonists. So I call antagonists to our technological evolution Darth Blockbuster. Assholes who prevent human evolution for their self-interest.
 
 Biological upgrades and adaptions is called evolution. I call human technological evolution _Techvolution_. This book is about inventing techvolution, a philosophy to re-write the rules of society, to forever kill Darth Blockbuster, so regular people can solve our problems with technological upgrades as smoothly in human society, as evolution does in nature.
 
-And to make it happen, you have to join the fight.
+And to make it happen, you, the extra, have to join the fight. Because victory depends on you picking the right side.

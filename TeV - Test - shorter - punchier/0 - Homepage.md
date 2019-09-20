@@ -11,7 +11,7 @@
 
 ## Chapter 3 - The Damaged World
 
-## Chapter 4 -
+## Chapter 4 - Opening Battle
 
 ## Chapter 5 -
 

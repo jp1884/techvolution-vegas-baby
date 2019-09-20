@@ -3,9 +3,11 @@
 
 ## Introduction
 
-The antagonists are sending some fighters called objections. The objection here is politics is about making the just and good society. The implication is. Justice is created from a blank slate. That we reason and make a society the tools are immaterial. Have you ever heard a politician say, we don't need 
+Every day since 1970's, Americans and Canadians have felt a little less happy. That's when the internet, transitor, personal computer, stated to be invented. At first they were weak. But they kept getting stronger. Darth Blockbuster blocked them from transforming society. Thus, our society wasn't transforming to our technological capabilities.
 
-Marxists, capitalists, conservatives and progressives are all options limited by their tools. I'll show you, by analyzing the political battle over new tools.
+The result is an increasingly non-functioning society. Like in education, our way of transportation, insurance, food production, governance, hasn't changed despite radically new tools available. Darth Blockbuster has been very successful since the 1970's.
+
+Gladly, some Jedi fought back. They're our example to keep winning more battles.
 
 ## New Tools Start The Fight
 
@@ -47,7 +49,7 @@ That's the story Wikipedia. Made by new protagoinsts, made the standard referenc
 
 ![Wikipedia development](/img\prologue\techvolution-enclyclopedia-book-wiki.png)
 
-## What Happens Next
+## You Can Win!
 
 Fighting to spread the power of new tools is an archetypal human story. Galileo fought a religious establisment with a telescope, George Washington fought a political establishment with a musket, and Steve Jobs fought a economic establishment with an iPod.
 

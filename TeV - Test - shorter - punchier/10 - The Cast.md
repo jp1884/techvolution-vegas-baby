@@ -3,11 +3,13 @@
 
 ## Introduction
 
-I'm being serious, you are literally the hero of this story. Like Luke Skywalker working on his farm, Neo typing inside his cubicle, or Cinderella cleaning the chateau. Extras in the story, suffering under evil antagonists, until the story needs them to step up, and take charage, and win their, and everyone's, freedom.
+I'm being serious, you are literally the hero of this story. The one who will change the world.
+
+Don't worry. All heroes start as extras. Luke Skywalker worked on his farm, Neo typed at his cubicle, Cinderella cleaned the chateau. All heroes suffer under evil antagonists, until the story needed them to step up, and take charage, and win their, and everyone's, freedom.
 
 Before we change the world, I want to layout cast and ideas clearly, so you know what's ahead. Here's what we need to know:
 
-Philosophy: the largley unspoken ideals that tells members of society what's right and wrong, good and bad, in science, art, morals, politics and economics. Used by members to make rules around questions like: what is scientific truth? Who should govern? And how should resources be organized? These answers create a collective consciouness of a civilization.
+Philosophy: the largley unspoken ideals that tells members of society what's right and wrong, good and bad, in science, art, morals, politics and economics. Used to make rules around questions like: what is scientific truth? Who should govern? How should resources be organized?
 
 Ruling philospophy: is a civilization's chosen philosophy. One that all factions agree on. Like the "Divine Rights of Kings" derived from Christian theology used in royalist Europe, "Marxist-Leninism" of the Soviet Union, or the combination of "red vs blue" of our political and economic philosophy today.
 
@@ -17,7 +19,7 @@ Tool: a catchall term for things we create with technology to solve a problem, l
 
 Frontline: The place of contact between a tool and the problem. A movie usher talking to moviegoers, nurses talking to patients, cleaners cleaning a bus, police chasing a robber, soldiers on the battlefield.
 
-Hierarchy: Every tool develops a power structure. We usually reward those who rise in it with more power and prestige. Feudalism castles and their rigid hierarchy of nobles, church, knights, merchants and peasants is easiest example. Distance from the frontline breds Darth Blockbusters, who makes rules to protect himseld. And finds ways to keep taking money from old tools.
+Hierarchy: Every tool develops a power structure. We usually reward those who rise in it with more power and prestige. Feudalism castles and their rigid hierarchy of nobles, church, knights, merchants and peasants is easiest example.
 
 Civilization story: The invention of new technology and creation of new tools to overcome whatever problem troubles us. We use tools to evolve.
 
