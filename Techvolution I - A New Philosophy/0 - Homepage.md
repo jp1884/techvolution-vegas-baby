@@ -5,22 +5,22 @@
 
 ## Introduction
 
-## Chapter 1 - The Writer
+## Chapter 1 - The Cast
 
-## Chapter 2 - The Backstory
+## Chapter 2 - The Lesson
 
-## Chapter 3 - The Problem
+## Chapter 3 - The Damaged World
 
-## Chapter 4 - The Protagonist
+## Chapter 4 - Opening Battle
 
-## Chapter 5 - The Plot
+## Chapter 5 -
 
-## Chapter 6 - The Antagonist
+## Chapter 6 -
 
-## Chapter 7 - The Big Picture
+## Chapter 7 -
 
-## Chapter 8 - The Extras
+## Chapter 8 -
 
-## Chapter 9 - The Climax
+## Chapter 9 -
 
 ## Epilogue

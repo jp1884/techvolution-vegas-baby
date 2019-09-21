@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Characters, even heroes like you, must empower themselves to change the world. Luke Skywalker had to learn the Force, to go up against Darth Vader. Neo had to learn the Matrix, to fight the agents. Cinderella had to call up a fairy godmother. We can go on and on, the hero of the story needs to master the real world before they can defeat the antagonists fighting to keep it the same.
+Characters, even heroes like you, must empower themselves before they can change the world. Luke Skywalker had to learn the Force, to go up against Darth Vader. Neo had to learn the Matrix, to fight the agents. Cinderella had to call up a fairy godmother, to meet her prince. We can go on and on. The hero of the story needs to master the real world before they can defeat the antagonists fighting to keep it the same.
 
 Before you can confront the villian of our story, and change our ruling philosophy, you must learn where they come from. This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
 
@@ -69,16 +69,16 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 ## Lessons
 
-Frederick Douglass had bravery, intelligence, persistence. He's an examplar of humanity. We can take one more lesson from him, and remembering it is like learning the force, mastering the matrix, or having a fairy godmother.
+Frederick Douglass had bravery, intelligence, persistence. He's an examplar of humanity. We can take one more lesson from him, and remembering it is like learning the force, mastering the matrix, or having a fairy godmother. Since philosophy is how we cyborgs connect with our tools, true political science, should look into the politics a tool requires to form a connection. Douglass can't be a slave, and love to read. Nor can Hugh be a teacher, if he wants to own slaves.
 
-The lesson is our ruling philosophies are determined by our tools. It's most obvious when the tool is a person, but it applies everytime.
+The lesson is our personal philosophies are determined by our tools. I told this story because that lesson is most obvious when the tool is a person. But, asking someone's politics is really asking what tools they use or think other people should use.
 
-Douglass was the protagonist, Hugh the antangonist, and Sophia the extra, because of their relationship to tools. Hugh was a conscious racist slaver, because he wanted to own the product of someone else's manual labour. Douglass wanted to empower himself with knowledge and therefore had to believe in personal freedom. Sophia was the extra stuck in the middle.
+It's not a coincidence many univeristy professors and students are Bernie Sanders socialists. Nor that corporate executives are free market, low tax, CNBC economists. Each is using tools, be it lecture halls and libraries, or spreadsheets and tax havens, as their tools.
 
-Morality, justice, political and economic theory, are all subservient to the creation and sharing of tools. You can even notice how Sophia's frontline life, let her educate Frederisk because it solved a practical problem. It was Hugh, and other slavers, who held it back for their own benefit.
+Instead of arguing over what's a better tool, lecture halls or YouTube videos, tax havens or digital tax laws, today's red and blue hide their politics. They talk on and on within Marxist or free-market ideologies. These often self-referencing ideas are spoken with passion. And regular people assume passion in rallies, marches and protests is substance.
 
-We don't act like this today. Never has a politician or executive said, a new tool's been created, so we can get rid of an old program or product. Can you imagine a politician, union rep, activist, or businessman saying YouTube, Khan Academy, and Wikipedia are here, so we can now get rid of high-school?
+It's so easy to fall into that bullshit. Everytime you find yourself like Sophia, unsure what to do, think of Douglass story. Douglass was the protagonist, Hugh the antangonist, and Sophia the extra, because of their relationship to tools. Hugh wanted to own Douglass, a living tool, while Douglass wanted to read, so he can learn to be a cyborg and use more tools. That where their true philosophies. Don't follow the pack like Sophia. Do what's right like Douglass.
 
-All political actors assume their favored programs and policies will never end, and then when new tools arrive, they fight to stay alive. The transition to new ruling philosophies is asking for retroactive revolutions.
+Ever hear the saying "judge a person by her actions, not her words." In politics that means asking a person their tools, and you'll know their true politics. Today, all political actors fight to keep tools alive. That's why they march and rally. Protest and lobby. They want subsidies and bailouts for their tools.
 
-To kill Darth Blockbuster, and empower the seemless upgrading of your tools via techvolution, we have to master how we transition our ruling philosophies. That means we have to see it coming, and plan ahead, to have proactive techvolutions.
+That's why today we have an hierarchy increaingly out of step with the frontline, defending a ruling philosophy that has to hide itself from its own dysfunction. The world suffers. This is where the story needs a hero.
