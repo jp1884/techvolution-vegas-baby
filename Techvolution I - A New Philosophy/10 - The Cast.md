@@ -7,7 +7,7 @@ Before we go any futher, I want to lay out the philosophy of Techvolution more c
 
 ===
 
-Philosophy: the largely unspoken ideals that tell members of society what’s right and wrong, good and bad, in science, art, morals, politics and economics. A civilization's collective consciouness used by members to make rules around questions like: what is scientific truth? Who should govern? And how should resources be organized?
+Philosophy: the largely unspoken ideals that tell members of society what’s right and wrong, good and bad, in science, art, morals, politics and economics. Philosophy is a civilization's collective consciouness used by members to make rules around questions like: what is scientific truth? Who should govern? And how should resources be organized?
 
 Ruling philospophy: is a civilization’s chosen philosophy. One that all factions agree on. Like the “Divine Rights of Kings” derived from Christian theology used in royalist Europe, “Marxist-Leninism” of the Soviet Union, or the combination of “red / blue” philosophies of our philosophy today.
 
@@ -17,7 +17,7 @@ Tool: a catchall term for things we create with technology to solve a problem, l
 
 Frontline: The point of contact between a tool and the problem. A movie usher talking to moviegoers, nurses talking to patients, cleaners cleaning a bus, police chasing a robber, soldiers on the battlefield. People on the frontline have jobs to solve problems.
 
-Hierarchy: Every tool develops a power structure to manage its use in society. Feudalism's castles and their rigid hierarchy of nobles, church, knights, merchants and peasants is an easy example. We usually reward those who rise in a hierarchy with power and prestige. Leaders naturally become distanced from the frontline, and struggle to relate to reality. People inside have titles to mark their positions in power.
+Hierarchy: Every tool develops a power structure to manage its use in society. Feudalism's castles and their gates for example. We usually reward those who rise in a hierarchy with power and prestige. Leaders become distanced from the frontline, and struggle to relate to the frontline. People inside have titles like prince and executive, to mark their positions inside the power structure.
 
 Civilization story: The invention of new technology and creation of new tools to overcome whatever problem troubles us. We use tools to evolve.
 

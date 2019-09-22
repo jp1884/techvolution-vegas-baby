@@ -47,13 +47,15 @@ I didn't guess it was his own distracted driving, but I knew the pain the actor 
 
 I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer. Darth Blockbuster stopped it. He'll never say that, or even know it. To him the frontline is a place to stand above, not live within.
 
-I did my best as a protagonist. I still wonder how many lives were lost because I failed going all the way, but I did my best. The point isn't self-pity. The point is self-pity doesn't need to exist in the digital age. For the philosophy of digital tools isn't a place of heroic individuals with a mass of extras behind them. I pushed as far as I could. Someone better suited to the problem can pick up where I left off and keep going. Everyone is either an extra choosing the best tools, or a hero working to earn their favour, in the ruling philosophy of techvolution.
+I did my best as a protagonist. I still wonder how many lives were lost because I failed going all the way, but I did my best. The point isn't self-pity. The point is self-pity doesn't need to exist in the digital age. For the philosophy of digital tools isn't a place of heroic individuals with a mass of extras behind them. I pushed as far as I could. Someone better suited to the problem can now pick up where I left off. Everyone is either an extra choosing the best tools, or a hero working to earn their favour, in the ruling philosophy of techvolution.
 
-Rest assured, the millions of the protagonists inside the open-source community will soon make a app far more powerful than my little thing. Darth Blockbuster can't stop it. The question is, now that the Sith are defeated, how do we empower you Jedi in the open-source community, to build the future faster.
+Rest assured, the millions of the protagonists inside the open-source community will soon make a app far more powerful than my little thing. Darth Blockbuster can't stop it, because the Sith are defeated. The question is, free of fighting the Sith, how do we empower you Jedi in the open-source community, to build the future faster.
 
-I mean how do we empower ourselves to the Moon, Mars and beyond. Travelling the stars needs a new way of life. All us geeks have seen it, and wish to live in it, everytime we watch not a galaxy far far away, but the one with the continuing mission to explore strange new worlds with Captain Picard.
+The Moon, Mars and beyond is our future. Travelling the stars needs a way of life. Techvolution.
 
-That's coming up in the sequel, the book I originally wrote, _Techvolution: Building Starfleet_.
+Good thing, all us geeks have seen it, and wish to live in it, everytime we watch not a galaxy far far away, but the one with the continuing mission to explore strange new worlds with Captain Picard.
+
+That's coming up in the sequel, the book I originally wrote, about the new way of life digital tools empowers, _Techvolution: Building Starfleet_.
 
 ### Personal Note on Political Philosophy, The Prince, and the Executive
 

@@ -605,3 +605,16 @@ Here's why. Politics is a story, and an election is the climax. And if we can't 
 
 We care so much in _Romeo and Juliet_ and _Star Wars_, because either young love is embraced, or it dies. Either the rebellion is saved, or the rebels all die. These stories will live forever, because everyone appreciates what's at stake. There's nothing at stake in blue vs red, because they're not differenct enough.
 
+## Frontline
+
+Our world's in a bad state. And it wont get better until we fight back.  The view from the frontline is the same. That's why I'm (grudingly) grateful a nagging stutter made me too shy to leave the frontline. In retrospect, it's a great place to see pain from so many different places.
+
+The people are disadvantaged. We deal with problems, from small pots on our roads, to waiting on hold with our health insurance. Workers expect to get outsourced by bosses so busy looking up to the prince, they don't even know what the job at the bottom is.
+
+So, although we work for companies, we are actually tool users. I mean, say you're a newspaper printer at the New York Times. You could go to the New York Post and do the same job. So although newspapers compete with each other, they're tied to the same technology.
+
+You can see this divide yourself. Tell your co-workers and company you're leaving for a new industry. They'll give you well wishes and a good bye cake. Tell them you're going to a competitor. They'll make fun of you, and probably give you a good bye cake. Now tell them you invented digital newspapers. You've questioned their livelihoods, and they'll be scared.
+
+But not everyone. Some people will be curious, some happy, and some will even fight back. And this battle over technologies is where the protagoinsts, antagonists, and extras of the playout the grandstory of humanity.
+
+Good thing some protagonsits already have. Let's go to the war room and see the battle scared and the path to victory.

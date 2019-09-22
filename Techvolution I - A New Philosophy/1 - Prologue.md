@@ -12,11 +12,11 @@ To the extras. When it’s time for you to act, I pray you pick the right side.
 
 It all started with a door in the face. I few more actually. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product upper management were never going to buy.
 
-Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I had done the frontline insurance claims adjuster job it worked for.
+Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I had done the frontline job it worked for.
 
-I figured out how to solve a problem—and save 100 million dollars, 300,000 hours of productivity, and even several lives—with an app that was virtually free. All I wanted was to give it away. After years of working on political and economic theory, I’ve written (another) book about the untapped possibilities of new tech like apps, bio-monitors, and bitcoin. I wanted real-world proof, and maybe get some real-world credentials, to help validate my ideas, and help our society move forward.
+I figured out how to solve a problem—and save 100 million dollars, 300,000 hours of productivity, and even several lives—with an app that was virtually free. All I wanted was to give it away. After years of working on political and economic theory, I’ve written (another) book about the untapped possibilities of new tech like apps, bio-monitors, and bitcoin. I wanted real-world proof, and maybe get some real-world credentials, to help validate my ideas.
 
-But I was a fool. I wasn’t even knocking on doors. I was knocking on gates, and they were a good distance from the doors of opportunity themselves. See, I wasn’t talking to the frontline workers suffering through the problem I solved, but the bureaucrats, lawyers, managers, and executives, who were paid to “deal” with those problems. Solving their problems was asking them to fire themselves.  The gates were in place to shut out innovation.
+But I was a fool. I wasn’t even knocking on doors. I was knocking on gates. See, I wasn’t talking to the frontline workers suffering through the problem I solved, but the bureaucrats, lawyers, managers, and executives, who were paid to “deal” with those problems. Solving their problems was asking them to fire themselves. The gates were in place to shut out innovation.
 
 In fact, they never said _no_ to me. _No_ needs a reason. Instead, they said it was against the rules to say yes. Obscure rules, hidden inside regulations and contracts. They believed in these rules, especially the one against letting frontline workers to decide for themselves.
 
@@ -24,15 +24,15 @@ I'm not going to talk about my experience too much. All that's important is ther
 
 ## The Power Of Stories
 
-Do you love stories?  I think it’s a safe bet to say that you do. Who doesn’t? They entertain us after a hard day of work, bring us together to share our joys, and (my favorite) open our minds to the different rules and philosophies of foreign cities, mythical worlds, and galaxies far, far away.
+Do you love stories? I think it’s a safe bet to say that you do. Who doesn’t? They entertain us after a hard day of work, bring us together to share our joys, and (my favorite) open our minds to the different rules and philosophies of foreign cities, mythical worlds, and galaxies far, far away.
 
 Stories are so powerful because they’re so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don’t. Stories aren’t debates. We take the protagonist’s side. Thus, Romeo and Juliet’s love is beautiful and worth dying for, while their families’ feud is ignorant and stupid. Luke Skywalker’s rebellion is good and worth fighting for, while Darth Vader’s empire is wicked and deserves to be destroyed.
 
 Our moral clarity about a problem turns the protagonists into our heroes and the antagonists into our villians. We thus follow their story with strong emotions, which burst out at the climax, where we find out who wins.
 
-Our hero fights hard to defeat the story’s problem, but his superior morality, justice, and heroism isn’t enough. He’s often too weak or unskilled, and the villian beats him bloody. On the verge of failure, the hero needs to find something, something that’ll turn the tide. He searches, sees, and reaches for his salvation: a tool or a weapon—whether it’s a sword, gun, lightsaber, magic, or a source of knowledge.
+Our hero fights hard to defeat the story’s problem, but his superior morality, justice, and heroism isn’t enough. He’s often too weak or unskilled, and the villian beats him bloody. On the verge of failure, the hero needs to find something, something that’ll turn the tide. He searches, sees, and reaches for his salvation: a tool or a weapon—whether it’s a sword, gun, lightsaber, or magic book.
 
-Will our hero reach it first, or will the enemy? We in the audience, like extras in the story, hold our breath because the story’s society is controlled not by desires, opinions, or rules, but by which character holds the tools. The wielder is the victor. The victor writes history. It’s a lesson we need to learn for ourselves.
+Will our hero reach it first, or will the enemy? We in the audience, like extras in the story, hold our breath because the story’s society is controlled not by desires, opinions, or rules, but by which character holds the tools. The wielder is the victor. The victor writes the rules. It’s a lesson we need to learn for ourselves.
 
 ## A New Empowering Philosophy Called Techvolution
 
@@ -46,19 +46,19 @@ Let me ask you, if you’re a regular middle-class person, and you ignored the e
 
 I mean today, when team blue wins, does traffic suddenly disappear? When team red wins, does everyone suddenly eat healthy? Do you breathe fresher air, or see healthier neighbors, i.e. do your real-life problems get solved, when one color’s philosophy writes the rules?
 
-If you think yes, if you think the red vs blue story is an edge of your seat thriller deciding the future of our society, you can stop reading . There’s lots of blogs, shows, and books waiting to sing to their choir, telling you to fight the enemy until you’re blue in the face.
+If you think yes, if you think the red vs blue story is an edge of your seat thriller deciding the future of our society, you can stop reading. There’s lots of blogs, shows, and books waiting to sing to their choir, telling you to fight the enemy until you’re blue in the face.
 
 If you don’t like the choir, or you’re starting to wonder if blaming the other color is a convenient excuse for both red and blue to distract from middle class stagnation, you’d probably like to keep reading. I wrote this book for you.
 
-Whichever color wins an election today and re-writes  the rules, regular people will still pay taxes, have a mortage, drive in traffic, not sleep enough, buy unhealthy food, watch climate change, overpay for questionable education, fail to understand their health insurance, get abused by unhappy customers, work unpaid overtime, be ignorant of their health records, remain micro-managed, and hope their job (which they likely hate) isn’t downsized or outsourced.
+Whichever color wins an election today and re-writes the rules, regular people will still pay taxes, have a mortage, drive in traffic, not sleep enough, buy unhealthy food, watch climate change, overpay for questionable education, fail to understand their health insurance, get abused by unhappy customers, work unpaid overtime, be ignorant of their health records, remain micro-managed, and hope their job (which they likely hate) isn’t downsized or outsourced.
 
-Under blue or red rules, our lifestyle stays the same, because the tools in which we live our lives, like suburban homes, gas cars, call centres, paper based tax forms, mass produced unhealthy food, television for entertainment, an increasing education industry, and everything else in suburban America and Canada, stays the same.
+Under blue or red rules, our lifestyle stays the same, because the tools in which we live our lives, like suburban homes, gas cars, call centres, paper based tax forms, mass produced unhealthy food, television for entertainment, an insatible education industry, and everything else in suburban America and Canada, stays the same.
 
 The rules, no matter what color, don’t control us. The tools we live our life with do. And nothing changes between red and blue, because neither’s philosophy—from conservatism to progressivism, capitalism to Marxism—is about putting new tools into our hands.
 
-It’s not their  fault. All of them were invented before we had many tools. Horses and carriages, ships pushed by wind, the moon as a nightlite, were common tools when red and blue were born. Think of it; their philosophical fathers like Adam Smith, Edmund Burke, John Stuart Mill, Karl Marx, never turned on a light-bulb, watched a movie, wore rubber shoes, touched plastic, flew in a plane, drove a car, made a phone call, opened a fridge, took a picture, used penicillin, had an x-ray, started a motor, or listened to the radio.
+It’s not our politicians fault. The philosophies they follow were invented before we had many tools. Horses and carriages, ships pushed by wind, the moon as a nightlite, were common tools when red and blue were born. Think of it; their philosophical fathers like Adam Smith, Edmund Burke, John Stuart Mill, Karl Marx, never turned on a light-bulb, watched a movie, listened to music, wore rubber shoes, touched plastic, flew in a plane, drove a car, made a phone call, opened a fridge, took a picture, used penicillin, had an x-ray, started a motor, or typed on a keyboard. If they were around today, we'd say their rural country folk. Yet we follow their rules.
 
-Red and blue philosphies were invented to group society into a massive collection action. With red and blue philosophies we came together, industrialized, and built the first rudimentary tools like toilets, gas cars, black and white televisions, and computers the size of rooms. The masses needed to be extras, regulated and managed inside massive color coded parties because our tools were few, and couldn’t be shared with everyone.  To their credit, blue and red philosophies at least gave extras a voice in how our tools’ factories, regulations, and profits were controlled.
+Red and blue philosphies were invented to group society into a massive collection action. With red and blue philosophies we came together, industrialized, and built the first rudimentary tools like toilets, gas cars, black and white televisions, and computers the size of rooms. The masses needed to be extras, regulated and managed inside massive color coded parties because our tools were few, and couldn’t be shared with everyone. To their credit, blue and red philosophies at least gave extras a voice in how our tools’ factories, regulations, and profits were controlled.
 
 Yet today with live in a world far far away from limited tools. Digital tools are so easy to make that we can customize them for every person’s individual problems. Netflix, Lyft, Skype, WhatsApp, 3D printing, bio-monitors, air quality sensors, GPS trackers, Kickstarter, YouTube, Khan Academy, smart watches, GitHub, AirBnB, and Firefox are amazingly powerful new tools that are so easy to make, we don’t need to fight to control them, but fight to spread them. This doesn’t come naturally to us, however, because the rules of old philosophies are based on fighting over, not sharing, tools.
 

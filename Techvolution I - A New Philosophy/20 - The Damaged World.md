@@ -22,21 +22,14 @@ US - trust in each other
 
 ## Frontline
 
-Our world's in a bad state. And it wont get better until we fight back.  The view from the frontline is the same. I'm nobody special..... 
+Our world's in a bad state. And it wont get better until we fight back.  The view from the frontline is the same. That's why I'm (grudingly) grateful a nagging stutter made me too shy to leave the frontline. In retrospect, it's a great place to see pain from so many different places.
 
-I like being middle class. Raised by parents who fled the communists of Eastern Europe, I learned to love their lovable mentality people should work only when there's free time. Kidding aside (not really), they showed me common people can fight for the good guys when put the job before themselves. People who care demand better tools. Being middle class means you're happy not controlling them.
+The people are disadvantaged. We deal with problems, from small pots on our roads, to waiting on hold with our health insurance. Workers expect to get outsourced by bosses so busy looking up to the prince, they don't even know what the job at the bottom is.
 
-I learned this dedication at endless building and cleaning sites. Like most middle class kids, I tried to keep it alive in my jobs. I was a newspaper boy, a movie theater usher, a projectionist, a bunch of factories and warehouses, an office clerk, an account manager, a claims adjuster. I was happily one of those co-workers you sometimes forget about because they just do their job.
-
-That's why I'm (grudingly) grateful a nagging stutter made me too shy to leave the frontline. In retrospect, it's a great place to see where protagonists and antagonists come from.
-
-
-
-Like most middle class people, I've been working since I was a kid. First helping my father at construction job sites (hurray to the 5:00am wake up call). Then I've been a movie usher, a projectionist, a programmer, a clerk, a claims adjuster. Although we work for companies, we are actually technology users. I mean, say you're a newspaper printer at the New York Times. You could go to the New York Post and do the same job. So although newspapers compete with each other, they're tied to the same technology.
+So, although we work for companies, we are actually tool users. I mean, say you're a newspaper printer at the New York Times. You could go to the New York Post and do the same job. So although newspapers compete with each other, they're tied to the same technology.
 
 You can see this divide yourself. Tell your co-workers and company you're leaving for a new industry. They'll give you well wishes and a good bye cake. Tell them you're going to a competitor. They'll make fun of you, and probably give you a good bye cake. Now tell them you invented digital newspapers. You've questioned their livelihoods, and they'll be scared.
 
 But not everyone. Some people will be curious, some happy, and some will even fight back. And this battle over technologies is where the protagoinsts, antagonists, and extras of the playout the grandstory of humanity.
-
 
 Good thing some protagonsits already have. Let's go to the war room and see the battle scared and the path to victory.

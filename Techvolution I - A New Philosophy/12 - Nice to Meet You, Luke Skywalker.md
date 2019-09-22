@@ -1,10 +1,16 @@
 
 # Nice to Meet You, Luke Skywalker
 
-I'm being serious, you are literally the hero of this story. The one who will change the world.
+I don't know you. Not personally anyway. You could be a book worm or a gear head. A cook or an mechanic. But if you're middle class, I know you pretty well.
 
-It's not surprising. All heroes start as extras. Luke Skywalker worked on his farm, Neo typed at his cubicle, Cinderella cleaned the chateau. All regular people suffering under evil antagonists, until the story needed them to step up, take charge and win their, and everyone's, freedom.
+I'm middle class. I was a cleaner, drywaller, a movie theater usher, a projectionist, a bunch of factories and warehouses, an account manager, a claims adjuster. I was happily one of those co-workers you sometimes forget about because they just do their job.
 
-So this is the cast of ideas and characters for the creation of Techvolution. It's a battle the protagonists are always fighting. To win it, the extras need join them. And that means you. Because regular people today are suffering under evil antagonists, and the story needs them all to step up, take charge and win their, and everyone's, freedom.
+So I know today the middle class are extras, being overseen by Darth Blockbusters. To change the world, we have to skip the political rallies, and start solving problems on the frontline with the best tools possible. Millions of problems, solved not by presidents or executives, but by the person feeling the pain on the frontline.
 
-HOW DO YOU MAKE TECVOLUTION REAL. WHAT DOES IT MEAN IN REAL LIFE. HOW DO YOU DEFEAT DARTH BLOCKBUSTER.
+That means you, and everyone, in the middle class are the heroes of Techvolution.
+
+And that's poetic. All real heroes are regular people who rise to the occasion. Luke Skywalker, Neo, and Cinderella were regular people, suffering under evil antagonists, until the story needs them to step up, take charge and win their, and everyone's, freedom.
+
+You are Luke Skywalker, Neo, and Cinderella. I'm merely Obi-Wan, Morpheus, and the fairy godmother. The one who will teach you how to use lightsabres, change the matrix, get into the ball. My success is your greatness. Techvolution is only made real through you.
+
+So it's time to leave the farm young Skywalker, and join the rebellion.
