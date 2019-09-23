@@ -15,9 +15,9 @@ Technology: a catchall term for things we make tools from, like concrete, lumber
 
 Tool: a catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to record and pass on knowlege, and houses to shelter in.
 
-Frontline: The point of contact between a tool and the problem. A movie usher talking to moviegoers, nurses talking to patients, cleaners cleaning a bus, police chasing a robber, soldiers on the battlefield. People on the frontline have jobs to solve problems.
+Frontline: The point of contact between a tool and the problem. A movie usher talking to moviegoers, nurses testing blood pressure, cleaners cleaning a bus, police chasing a robber, soldiers on the battlefield. People on the frontline have jobs to solve problems.
 
-Hierarchy: Every tool develops a power structure to manage its use in society. Feudalism's castles and their gates for example. We usually reward those who rise in a hierarchy with power and prestige. Leaders become distanced from the frontline, and struggle to relate to the frontline. People inside have titles like prince and executive, to mark their positions inside the power structure.
+Hierarchy: Every tool develops a power structure to manage its use in society. Feudalism's castles and their gates for example. We reward those who rise away from the frontline with power and prestige. People in the hierachy have titles like prince and executive, to mark their positions inside the power structure.
 
 Civilization story: The invention of new technology and creation of new tools to overcome whatever problem troubles us. We use tools to evolve.
 

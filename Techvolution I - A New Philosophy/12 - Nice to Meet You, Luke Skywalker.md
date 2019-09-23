@@ -1,16 +1,20 @@
 
 # Nice to Meet You, Luke Skywalker
 
-I don't know you. Not personally anyway. You could be a book worm or a gear head. A cook or an mechanic. But if you're middle class, I know you pretty well.
+You could be a book worm or a gear head. A cook or a mechanic. A trekie or Star Wars fan boy. Everyone has different hobbies and interests. Whatever yours are, as long as your happy to be middle class, you're a potential hero.
 
-I'm middle class. I was a cleaner, drywaller, a movie theater usher, a projectionist, a bunch of factories and warehouses, an account manager, a claims adjuster. I was happily one of those co-workers you sometimes forget about because they just do their job.
+I'm happily born and raised middle class. I'd much rather live in a rich society than a rich household. That's why, although I studied at the University of Toronto, I learned far more while working on the frontline. I've been a cleaner, drywaller, a movie theater usher, a projectionist, a bunch of factories and warehouses, an account manager, a claims adjuster. I was kept on the frontine by a nagging stutter that made me too shy to leave the trenches. I was one of those co-workers you sometimes forget about because they just do their job.
 
-So I know today the middle class are extras, being overseen by Darth Blockbusters. To change the world, we have to skip the political rallies, and start solving problems on the frontline with the best tools possible. Millions of problems, solved not by presidents or executives, but by the person feeling the pain on the frontline.
+To move human evolution forward, extras need to skip the political rallies, and earn the freedom to solve frontline problems with the best tools possible. Presidents or executives can't do this, only the person feeling the pain on the frontline.
 
-That means you, and everyone, in the middle class are the heroes of Techvolution.
+That means you, and everyone in the middle class, are the only ones who can make Techvolution.
 
-And that's poetic. All real heroes are regular people who rise to the occasion. Luke Skywalker, Neo, and Cinderella were regular people, suffering under evil antagonists, until the story needs them to step up, take charge and win their, and everyone's, freedom.
+It's not suprising. Luke Skywalker, Neo, and Cinderella were regular people, suffering under evil antagonists, until the story needs them to step up and win everyone's freedom.
 
-You are Luke Skywalker, Neo, and Cinderella. I'm merely Obi-Wan, Morpheus, and the fairy godmother. The one who will teach you how to use lightsabres, change the matrix, get into the ball. My success is your greatness. Techvolution is only made real through you.
+I'm merely a guide. Like Obi-Wan Kenobi, Morpheus, or the fairy godmother. The one who teaches the hero the tools he needs to defeat the villian.
 
 So it's time to leave the farm young Skywalker, and join the rebellion.
+
+What is the rebellion. It's definitely not rallies, marches or protests. It's a rebellion of the mind, to change the ruling philosophy, so middle class heroes write their own rules using the philosophy of Techvolution.
+
+In fact, you know how movies have plot device, something everyone chases like the Death Star's secret plans. Ours will be a blank rule book, and our job will be to fill it with new rules.
