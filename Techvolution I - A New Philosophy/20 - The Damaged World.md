@@ -1,11 +1,13 @@
 
-# The Damaged World
+# A World With No Majic
 
-Evolution lets life react to a changing environment. Human evolution is interrupted by Darth Blockbuster and his creation of rules to prevent new tools from spreading to the hands of extras. Something I called majic. Techvolution empowers everyone on the frontline to choose which tool best solves problems.
+Evolution lets life react to a changing environment. The faster life reacts the better.
 
-We need Techvolution. Our environment is changing and we aren't adapting to it. Since the creation of digital technology in the 1970's, our heirarchy has turned into Darth Blockbusters, to protect their power based of old tools, by using the ruling philosophy, to create rules of protection.
+Human evolution is interrupted by Darth Blockbuster and his creation of rules to prevent new tools from spreading to the hands of extras feeling the pain of a changing environment. Darth Blockbuster attacks majic. Techvolution empowers majic, but letting everyone on the frontline to choose which tool best solves problems.
 
-Now our world is hurting. You can see it best in our politics and climate. Two things that should always be healthy. Notice the problems start in the 1970's and it keep getting worse. All because new tools aren't getting into the hands of extras.
+We need Techvolution Skywalker. Our environment is changing and we aren't adapting to it. Since the creation of digital technology in the 1970 we haven't adapt. Instead, Darth Blockbuster has created ever more rules to protect his pre-digital tools of books, lecture halls, and voting once every four years.
+
+Now our world is hurting. Since the 1970's our environemtn has changed and we haven't adapted nearly fast enough. You can see it best in our politics and climate.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tEczkhfLwqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -23,3 +25,5 @@ US - trust in each other
 Our world's in a bad state. And it wont get better until we fight back.  The view from the frontline is the same.
 
 The people are disadvantaged. We deal with problems, from small pots on our roads, to waiting on hold with our health insurance. Workers expect to get outsourced by bosses so busy looking up to the prince, they don't even know what the job at the bottom is.
+
+Our problem isn't lack of innovation. It's lack of majic. Extras are held back from connecting to new tools, and evolving life.

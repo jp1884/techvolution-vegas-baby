@@ -9,7 +9,7 @@ It all comes down to changing the rules of our society with a new philosophy. To
 
 Techvolution is inspired by Nature. Notice gatekeeper’s don’t exist there. Evolution doesn’t have anyone telling a cheetah she’s running too fast, that the ants are too cooperative, or that a camel is too water efficient. Lifeforms adapt as best they can to their own problems and the winners survive. There are no middleman, no gatekeepers, just problem solvers. And the problem solvers prevail.
 
-Human biological adaptions have stopped. Unless you're willing to wait millions of years we'll never evolve to fly, do advanced calculations, or breath Martian air. Humanity continues lifes evolution with tools. We're basically cyborgs who adapt and solve problems by upgrading our tools to the lastest problem in transportation, calculation, and breathing. Hold a plane joystick, calculator, or air tank, and you're a different cyborg each time.
+Human biological adaptions have stopped. Unless you're willing to wait millions of years we'll never evolve to fly, do advanced calculations, or breath Martian air. Humanity continues lifes evolution with tools. We're basically cyborgs who adapt and solve problems by upgrading our tools to the lastest problem in transportation, calculation, and breathing. Hold a plane joystick, calculator, or space suit, and you're a different cyborg each time.
 
 However, our problem solving is held back by old philosophies that empower gatekeepers. People in control of old tools like Blockbuster, getting to decide when, and if, humanity will upgrade our tools. To be fair, not all gatekeepers are bad. Some security measures are necessary. Some gates are good.
 

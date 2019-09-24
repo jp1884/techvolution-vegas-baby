@@ -1,9 +1,9 @@
 
 # Nice to Meet You, Luke Skywalker
 
-Hi Luke. Hope your having a good day. A little about me first. I'm nobody special. In my youth I was a cleaner, drywaller, movie usher, and die-hard ideologue. After dropping that bad habit, I studied philosophy at the University of Toronto, but learned far more continuing to work on the frontline as a line worker, an account manager, a claims adjuster. A nagging stutter made me too shy to leave. I was one those co-workers you sometimes forget about because they just do their job. I'm grateful, because that's where I learned Techvolution.
+Hi Luke. Hope your having a good day. A little about me first. I'm nobody special. In my youth I was a cleaner, drywaller, movie usher, and die-hard ideologue. After dropping that bad habit, I studied political philosophy at the University of Toronto, but learned far more continuing to work on the frontline as a line worker, an account manager, and a claims adjuster. A nagging stutter made me too shy to leave. I was one those co-workers you sometimes forget about because they just do their job. I'm grateful, because that's where I learned Techvolution.
 
-So that's a snapshot. But it's not important, because you are the hero of this story. Because from car detailing, to internet technical support, only people on the frontline know the tools our society needs to invent, keep, or throw away to fix our many problems.
+So that's a snapshot. But it's not important, you are the hero. Because from car detailing, to internet technical support, only people on the frontline know the tools our society needs to invent, keep, or throw away, to fix our many problems.
 
 Regular people are always the heroes. Skywalker, Neo, and Cinderella the list goes on. Each stepped up when called up to defeat the bad guys.
 

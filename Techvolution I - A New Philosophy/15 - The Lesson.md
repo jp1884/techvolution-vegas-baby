@@ -1,9 +1,9 @@
 
 # THE LESSON
 
-Evolution is how life adapts on Earth. Majic is how human cyborgs choose to upgrade themselves. Techvolution let's humanity to freely decide what tool they want to connect with. Darth Blockbuster knows this. That's why he keeps the tools for himself.
+Society needs a ruling philosophy, laws, and rules. Darth Blockbuster fights to control the rulebook to keep the tools he controls, and therefore himself, in power. Darth Blockbuster doesn't necesarily shut down innovation, he shuts down majic, or the process by way extras upgrade their cyborgology. Techvolution is the philosophy to liberate majic in our society.
 
-Before you can confront Darth Blockbuster you must learn his tactics. We already know he uses the rules to hide his selfishness. But how are the extras controlled by the antagonists.
+So what does all this theory look like on the frontline. We know what the rules are. Darth Blockbuster writes corporate manuals, univeristy guidelines, social justice blogs every chance he gets. Yet, what does majic look like? And how can we encourage people to follow it, more than Darth Blockbuster's rules?
 
 This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
 
@@ -65,18 +65,18 @@ One day Sophia waited for her boy to return. But the boy died when the man Frede
 
 The story gets better. Frederick Douglass becomes a brilliant orator and writer. In a world with no radio, video, or telephones, he travels the Northern States and Europe telling everyone the truth about slavery. When the American Civil War (1861-1865) broke out, his books help make Britain reject recognizing the South, and thus deprived it of a much needed support. The irony of a slave educating people about slavery, and thereby helping to end slavery is amazing to me.
 
+Note innovation wasn't Douglass' problem. Using a tool was.
+
 Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Project Gutenburg.
 
 ## Lessons
 
-Frederick Douglass had bravery, intelligence, persistence. He's an examplar of humanity. What he teaches us, once cyborgs majically connect with a tool, it's very hard to break that connection. Mastering Techvolution means understaind the philosophy that connects us to our tools.
+Frederick Douglass teaches the endless possibilities waiting inside humanity with his bravery, intelligence, and persistence. The lesson we need to learn here is the difference between the rules and majic. And Douglass teaches it like a hero.
 
-It's not a coincidence many university professors and students are Bernie Sanders socialists. Nor that corporate executives are foriegn labour, low tax, CNBC economists. Each is using tools, be it lecture halls and libraries, or spreadsheets and tax havens, as their tools.
+First off, humanity will always need rules. In no way can a society exist without them. But on their own, it's hard to tell the difference between good and bad rules. If we're asking the extras to ignore Darth Blockbuster's rules, we need to help them decide.
 
-Asking someone's politics is really asking what tools they use or think other people should use. The noise of red/blue politics is smokescreen.
+Douglass was the protagonist, Hugh the antangonist, and Sophia the extra because of their relationship to tools. You can also see the difference between rules and majic in their relationship. Particularly for Sophia.
 
-It's so easy to get lost. Douglass was the protagonist, Hugh the antangonist, and Sophia the extra, because of their relationship to tools. Everytime you find yourself like Sophia, unsure what to do, think of Douglass story. Hugh wanted to own Douglass, a living tool, while Douglass wanted to read, so he can learn and become his own cyborg.
+On her own, Sophia taught Douglass to read. It felt natural because majic is natural. Evolution always wants variations. Therefore, the more tools humanity tries, the more variations life is trying. Yet human made rules say peasant farmer can't have a musket, that a parishoner can't read a science book, that a kid can't download a digital song, and that a mother can't telecommute.
 
-Douglass is a hero because he expanded life's adaptions. Hugh was evil because he didn't. The rules don't matter. What rule in nature says evolution is bad?
-
- - what Hugh will do to not change his mind, and break the rules.
+So while we can't go through every rule in society, we can notice no rule in nature says evolution is bad. So to promote majic, what we can say, follow your instincts Skywalker, and when someone steps in your way, ask them why they don't fell the majic of teaching and learning new tools. It's up to you to decide if the rule is valid or not. But by default, majic makes us happy, rules don't, that should help your decision.
