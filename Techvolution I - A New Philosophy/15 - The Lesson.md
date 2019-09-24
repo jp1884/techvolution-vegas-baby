@@ -1,11 +1,9 @@
 
 # THE LESSON
 
-## Introduction
+Evolution is how life adapts on Earth. Majic is how human cyborgs choose to upgrade themselves. Techvolution let's humanity to freely decide what tool they want to connect with. Darth Blockbuster knows this. That's why he keeps the tools for himself.
 
-Evolution is the Force. To promote human technological evolution, it Techvolution, we must evolve freely. Easier said then done. See Darth Blockbuster knows evolution is powerful, that's why he keeps the tools for himself.
-
-Before you can confront Darth Blockbuster you must learn his tactics. We already know he uses the rules to keep the power of tools for himself. But what does that look like. To be the hero you need to be Skywalker, you have to learn how the extras are controlled by the antagonists.
+Before you can confront Darth Blockbuster you must learn his tactics. We already know he uses the rules to hide his selfishness. But how are the extras controlled by the antagonists.
 
 This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
 
@@ -71,9 +69,9 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 ## Lessons
 
-Frederick Douglass had bravery, intelligence, persistence. He's an examplar of humanity. What he teaches us, is philosophy is how we cyborgs connect with our tools. And it's very hard to break that connection. Mastering Techvolution means understaind the philosophy that connects us to our tools.
+Frederick Douglass had bravery, intelligence, persistence. He's an examplar of humanity. What he teaches us, once cyborgs majically connect with a tool, it's very hard to break that connection. Mastering Techvolution means understaind the philosophy that connects us to our tools.
 
-It's not a coincidence many univeristy professors and students are Bernie Sanders socialists. Nor that corporate executives are foriegn labour, low tax, CNBC economists. Each is using tools, be it lecture halls and libraries, or spreadsheets and tax havens, as their tools.
+It's not a coincidence many university professors and students are Bernie Sanders socialists. Nor that corporate executives are foriegn labour, low tax, CNBC economists. Each is using tools, be it lecture halls and libraries, or spreadsheets and tax havens, as their tools.
 
 Asking someone's politics is really asking what tools they use or think other people should use. The noise of red/blue politics is smokescreen.
 

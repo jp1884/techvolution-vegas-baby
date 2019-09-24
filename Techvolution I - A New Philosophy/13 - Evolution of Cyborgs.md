@@ -1,23 +1,30 @@
 
-# Evolution of Cyborgs
+# The Magic of Evolution
 
-Well, Skywalker, you need to master the all powerful energy field inside every lifeform. _Star Wars_ calls it the Force. You probably recognize it by its other name, evolution.
+Well, Skywalker, you need to step up. But before you go off and face Darth Blockbuster, you must understand magic. No not the Force. I mean evolution.
 
-Evolution gives every new lifeforms a slightly different variation. This empowers life to test for environmental changes, and since only the fittest survive, evolution empowers life's adaption to new environments. With evolution life reacts to change, but can't anticipate it. Sadly, polar bears can't see the trend of meling ice and start to plan ahead.
+Evolution is kind of magic. It gives every new lifeform a slightly different variation. Remember every lifeform lives on the frontline, so every variation empower life to test for environmental changes. And since only the fittest survive, evolution is how life naturally selects which lifeforms represent life on Earth.
 
-Evolution divides life into domains, kingdoms, classes, orders, families, genuses, and species. All lifeforms share a common ancestor, but are related to each differently. With so many lifeforms, life can work together to keep probing, and therefore adapting, to the environment. Lifeforms work together to keep making new lifeforms, by being very effificent with resources. In fact, lifeforms work together in a system of checks and balances inside ecosystems to be sure no lifeforms turn selfish and overconsumes resources and limits life's evolution.
+With evolution, life went from a single-cell organism, to millions of species, each harnessing resources slightly differently. Biodiversity means life can better probe, and therefore better adapt to changing environments and therefore be more anti-fragile to disasters.
 
-Evolution works like magic. It brought life from a single-cell organism, to a world with billions of lifeforms and millions of species. The only drawback is time. Biological variations take many generations. Polar bears evolved over 11 million years.
+However, lifeforms don't understand their situation. They need a caretaker to prevent things like overconsumption or stupid adaptions. Thus, nature put a system of checks and balances in place called ecosystems, so for example if the zebra population surges and starts to over graze, the lions check that with more kills. Ecosystems are how life protects biodiversity.
 
-Because humanity is aware of time, we want to speed it up. Would you wait for a biological solution to a famine or plague? Me neither. We imagine a better world and thus create our own adaptions (called tools) with technology.
+With biodiveristy and ecosytems, evolution is pretty close to magic. Without any lifeform being aware of its tricks, evolution made a lifeless rock into an oasis. The drawback is time. Biological variations take millions of years to respond to environmental changes. Think of the poor polar bears. They'll never understand why the ice isn't coming. Evolution doesn't let them proactively change their biology.
 
-While evolution maybe magical, creating new tools, and teaching people to use them isn't. It's intentional. It means we're experiencing a problem, and solving it ourselves. I call this majic, because we solve problem with our willpower.
+In contrast, humanity can change. Not our biology. But our "cyborgology" if you will. And while evolution maybe magical, creating new tools isn't. It's intentional. We can reflect on our problems, and adapt ourself to solve them.
 
-Techvolution is empowering human technological evolution by ridding Darth Blockbuster of his power, by empowering extras to decide when society should upgrade our tools. That means Skywalker we must promote the majical creation of new tools.
+We can intentionally evolve. I new form of evolution that isn't a magical mystery, like evolution is to the polar bear, but something we can master. We need a term for intentional evolution with technology. I call it majic.
 
-The more the better, because like biodiversity, the more tools on the frontline, means the more problems we're solving.
+## The Majic of Techvolution
 
-In summary Skywalker, humans are cyborgs. The more cyborgs there are, the more anti-fragile life is. Thus our job is to create new tools, and get them into the hands of those who need them.
+When a person has a leaky roof, or is sick of scratched DVD's, they're a lifeform struggling to harness resources. When that person doesn't suffer fate, but asseses the problem and creates a new tool to solve it, they become a protagonist.
 
-- lifeform teamwork, checks and balances inside ecosytem
-- life needs variations, duplications die.
+We call this innovation. We understand and celebrate it already.
+
+However, protagonists can't force humanity to adopt this new adaption. It's up to the extras to select it or not. Techvolution is the new philosophy to empower them to freely decide. However, the decision of a cyborg to evolve by droping one tool, and picking up another, needs a term. Innovating a new tool isn't enough. We need people to use new tools to evolve life.
+
+Connecting with new tools isn't magic, because extras can understand they're discarding the DVD player and attaching ourselves to Netflix. But it's still amazing, so I call it majic. Pronounced the same, it's the intentional process by which extras decide what tools they should hold to complete their cyborg selves and evolve life on earth. Majic is the second part after innovation.
+
+So Skywalker, we can sketch these new rules into our rule book. Humans evolve with tools. We need an ecosystem to keep us in check. The more tools we create, the more cyborgs we majically create, the more anti-fragile humanity is. Thus, our job is to create new tools and get them into the hands of those who need them, so humanity can keep evolving life on, and beyond, Earth.
+
+* Note: Majic is my family name. It's egotistical to use it, but I couldn't think of a better word. I'm especially using it for my parents. All their life they cleaned and built stuff with care even though Darth Blockbuster usually micro managed and underpaid them. I wanted to help them retire. Instead, I'll name the act of an extra choosing to improve humanity after them.

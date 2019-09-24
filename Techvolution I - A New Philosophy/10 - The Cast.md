@@ -7,7 +7,7 @@ Before we go any futher, I want to lay out the philosophy of Techvolution more c
 
 ===
 
-Philosophy: the largely unspoken ideals that tell members of society what’s right and wrong, good and bad, in science, art, morals, politics and economics. Philosophy is a civilization's collective consciouness used by members to make rules around questions like: what is scientific truth? Who should govern? And how should resources be organized?
+Philosophy: the largely unspoken ideals that tell members of society what’s right and wrong, good and bad, in science, art, morals, politics and economics. Philosophy is a civilization's collective consciousness used by members to make rules around questions like: what is scientific truth? Who should govern? And how should resources be organized?
 
 Ruling philospophy: is a civilization’s chosen philosophy. One that all factions agree on. Like the “Divine Rights of Kings” derived from Christian theology used in royalist Europe, “Marxist-Leninism” of the Soviet Union, or the combination of “red / blue” philosophies of our philosophy today.
 
