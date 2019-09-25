@@ -1,9 +1,9 @@
 
 # THE LESSON
 
-Society needs a ruling philosophy, laws, and rules. Darth Blockbuster fights to control the rulebook to keep the tools he controls, and therefore himself, in power. Darth Blockbuster doesn't necesarily shut down innovation, he shuts down majic, or the process by way extras upgrade the tools they use.
+Society needs a ruling philosophy. Darth Blockbuster fights to control it to write rules to keep the tools he controls, and therefore himself, in power. Darth Blockbuster often shuts down innovation, but he especially shuts down majic, extras upgrading the tools they use.
 
-Life doesn't come with labels. So what does all this theory look like. We know what the rules are. Darth Blockbuster writes corporate manuals, univeristy guidelines, social justice tolerable pronouns blogs every chance he gets. Yet, what does majic look like?
+Life doesn't come with labels. So what does all this theory look like. We know what the rules are. Darth Blockbuster writes corporate manuals, univeristy guidelines, social justice  blogs every chance he gets. We know what innovation looks like. Yet, what does majic look like?
 
 This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
 
@@ -71,12 +71,12 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 ## Lessons
 
-Skywalker you're cool, but Frederick Douglass is true Jedi Masster. His bravery, intelligence, and persistence teach humanity's endless potential. The lesson we need to learn here is the difference between the rules and majic. And Douglass teaches it to us.
+Skywalker you're cool, but Frederick Douglass is a true Jedi Masster. His bravery, intelligence, and persistence teach humanity's endless potential. The lesson we need to learn here is the difference between the rules and majic. And Douglass teaches it to us.
 
 First off, humanity will always need rules. In no way can a society exist without them. But on their own, it's hard to tell the difference between good and bad rules. If we're asking the extras to ignore Darth Blockbuster's rules, we need to help them decide.
 
 We can by noticing the majic inside this story.
 
-Sophia taught Douglass to read. She majically connected Douglass with literacy. She wasn't told to, she did it because majic feels natural. People love to teach another to read, knit, or fish. It's the great joy a parent. Yet human made rules can say otherwise. Peasant farmer can't have a musket, a parishoner can't read a science book, a kid can't download a digital song, or a mother can't telecommute.
+Sophia taught Douglass to read. She majically connected Douglass with literacy. She wasn't told to, she did it because helping majic feels natural. People love to teach another to read, knit, or fish. It's the great joy of being a parent. Yet human made rules can say otherwise like peasant farmer can't have a musket, a parishoner can't read a science book, a kid can't download a digital song, or a mother can't telecommute.
 
-We can't write a simple new rule in our Techvolution rulebook. Instead we can say, follow your instincts Skywalker, and when someone steps in your way, ask them why they don't fell the majic of teaching and learning new tools. It's up to you to decide if the rule is valid or not. But majic makes us feel happy, following the rules makes us feel safe, that should help your decision.
+The lesson Skywalker is we can't easily know the difference between good and bad rules. So, follow your instincts and teach, and spread new tools. When someone steps in your way with a rule, ask them why they don't fell the majic of teaching and learning new tools. Perhaps there's a good reason. But keep Sophia in mind. Majic made her happy following the rules makes her feel safe. Even though she taught one of history's great writers and orators to read, she died a miserable death. That should help your decision.

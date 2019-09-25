@@ -3,11 +3,9 @@
 
 ## Introduction
 
-Every day since 1970's, Americans and Canadians have felt a little less happy. That's when the internet, transitor, personal computer, we're all invented at ready to transform society. At first they were weak, so the changes should have been small. But instead they were very limited. Darth Blockbuster kept blocking them from transforming society. Thus, our society wasn't transforming to our technological capabilities. Our ruling philosphy was getting more out of date.
+Every day on the frontline since the 1970's has gotten worse. That's when the internet, transitor, personal computer, we're all invented at ready to transform society. Instead, Darth Blockbuster used the ruling philosophy to prevent extras majically connecting with new tools to solve their problems. Our riling philosophy has gotten increasingly out of date.
 
-People were less happy, because they were an increasingly living in a non-functioning society.  Like in education, our transportation, insurance, food production, governance, and so many industries hasn't changed despite the radically new tools available.
-
-Gladly, some Jedi fought back. They're our example to keep winning more battles.
+Gladly, the Jedi kept fighting. Here's how the fought to create new tools, so the extras can majically uprade themselves and society too.
 
 ## How New Tools Start the Fight
 
