@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Every day since 1970's, Americans and Canadians have felt a little less happy. That's when the internet, transitor, personal computer, we're all invented at ready to transform society. At first they were weak, so the changes should have been small. But instead they were limited. Darth Blockbuster kept blocking them from transforming society. Thus, our society wasn't transforming to our technological capabilities. Our ruling philosphy was getting more out of date.
+Every day since 1970's, Americans and Canadians have felt a little less happy. That's when the internet, transitor, personal computer, we're all invented at ready to transform society. At first they were weak, so the changes should have been small. But instead they were very limited. Darth Blockbuster kept blocking them from transforming society. Thus, our society wasn't transforming to our technological capabilities. Our ruling philosphy was getting more out of date.
 
 People were less happy, because they were an increasingly living in a non-functioning society.  Like in education, our transportation, insurance, food production, governance, and so many industries hasn't changed despite the radically new tools available.
 
@@ -49,7 +49,7 @@ That’s the story of Wikipedia. Made by new protagoinsts, made the standard ref
 
 ![Wikipedia development](/img\prologue\techvolution-enclyclopedia-book-wiki.png)
 
-## You Can Win!
+## You Can Win
 
 Fighting to spread the power of new tools is an archetypal human story. Galileo fought a religious establisment with a telescope, George Washington fought a political establishment with a musket, and Steve Jobs fought a economic establishment with an iPod.
 

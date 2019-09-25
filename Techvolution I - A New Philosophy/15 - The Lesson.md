@@ -1,9 +1,9 @@
 
 # THE LESSON
 
-Society needs a ruling philosophy, laws, and rules. Darth Blockbuster fights to control the rulebook to keep the tools he controls, and therefore himself, in power. Darth Blockbuster doesn't necesarily shut down innovation, he shuts down majic, or the process by way extras upgrade their cyborgology. Techvolution is the philosophy to liberate majic in our society.
+Society needs a ruling philosophy, laws, and rules. Darth Blockbuster fights to control the rulebook to keep the tools he controls, and therefore himself, in power. Darth Blockbuster doesn't necesarily shut down innovation, he shuts down majic, or the process by way extras upgrade the tools they use.
 
-So what does all this theory look like on the frontline. We know what the rules are. Darth Blockbuster writes corporate manuals, univeristy guidelines, social justice blogs every chance he gets. Yet, what does majic look like? And how can we encourage people to follow it, more than Darth Blockbuster's rules?
+Life doesn't come with labels. So what does all this theory look like. We know what the rules are. Darth Blockbuster writes corporate manuals, univeristy guidelines, social justice tolerable pronouns blogs every chance he gets. Yet, what does majic look like?
 
 This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
 
@@ -71,12 +71,12 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 ## Lessons
 
-Frederick Douglass teaches the endless possibilities waiting inside humanity with his bravery, intelligence, and persistence. The lesson we need to learn here is the difference between the rules and majic. And Douglass teaches it like a hero.
+Skywalker you're cool, but Frederick Douglass is true Jedi Masster. His bravery, intelligence, and persistence teach humanity's endless potential. The lesson we need to learn here is the difference between the rules and majic. And Douglass teaches it to us.
 
 First off, humanity will always need rules. In no way can a society exist without them. But on their own, it's hard to tell the difference between good and bad rules. If we're asking the extras to ignore Darth Blockbuster's rules, we need to help them decide.
 
-Douglass was the protagonist, Hugh the antangonist, and Sophia the extra because of their relationship to tools. You can also see the difference between rules and majic in their relationship. Particularly for Sophia.
+We can by noticing the majic inside this story.
 
-On her own, Sophia taught Douglass to read. It felt natural because majic is natural. Evolution always wants variations. Therefore, the more tools humanity tries, the more variations life is trying. Yet human made rules say peasant farmer can't have a musket, that a parishoner can't read a science book, that a kid can't download a digital song, and that a mother can't telecommute.
+Sophia taught Douglass to read. She majically connected Douglass with literacy. She wasn't told to, she did it because majic feels natural. People love to teach another to read, knit, or fish. It's the great joy a parent. Yet human made rules can say otherwise. Peasant farmer can't have a musket, a parishoner can't read a science book, a kid can't download a digital song, or a mother can't telecommute.
 
-So while we can't go through every rule in society, we can notice no rule in nature says evolution is bad. So to promote majic, what we can say, follow your instincts Skywalker, and when someone steps in your way, ask them why they don't fell the majic of teaching and learning new tools. It's up to you to decide if the rule is valid or not. But by default, majic makes us happy, rules don't, that should help your decision.
+We can't write a simple new rule in our Techvolution rulebook. Instead we can say, follow your instincts Skywalker, and when someone steps in your way, ask them why they don't fell the majic of teaching and learning new tools. It's up to you to decide if the rule is valid or not. But majic makes us feel happy, following the rules makes us feel safe, that should help your decision.

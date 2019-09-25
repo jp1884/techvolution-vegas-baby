@@ -1,34 +1,40 @@
 
 # The Magic of Evolution
 
-Well, Skywalker, you need to step up. But before you go off and face Darth Blockbuster, you got to train, and learn the ways of Techvolution. The most important is the all powerful energy field inside every lifeform. No not the Force. I mean evolution.
+Well, Skywalker, you need to step up. But before you go off and face Darth Blockbuster, you have to learn the  force. The all powerful energy field inside every lifeform. You probably know it by it's other name, evolution.
 
 Evolution gives every new lifeform a slightly different variation. Variations empower life to test for environmental changes by only letting the fittest survive. Evolution is how life naturally selects which lifeforms best represent life on Earth.
 
-With evolution, life went from a single-cell organism to millions of species harnessing resources differently. Biodiversity means life can better probe and therefore better adapt to changing environments. Higher biodiversity makes life more anti-fragile to disasters.
+With evolution, life went from a single-cell organism to millions of species. Because each harnesses resources differently, higher biodiversity means life can better probe and therefore better adapt to changing environments, and become more anti-fragile to disasters.
 
-However, lifeforms don't understand their situation. They need a caretaker to prevent things like overconsumption or stupid adaptions. Thus, nature put a system of checks and balances in place called ecosystems. This way if the zebra population surges and starts to over graze, the lions check that with more kills. If lions kill zebras for jokes, their waste is balanced out with wasted calories and the jokesters die off. Ecosystems are how life protects biodiversity.
+However, to avoid overconsumption or stupid adaptions, lifeforms needs a caretaker. Thus, nature locked lifeforms inside system of checks and balances called ecosystems. This way, for example, if the zebra population surges and starts to over graze, the lions check that with more kills. If lions kill zebras for jokes, their waste is balanced out with wasted calories and the jokesters die off. Ecosystems are how life protects biodiversity.
 
-Evolution is magical. Without any lifeform being aware of its tricks, evolution made a lifeless rock into an oasis. The drawback is time. Biological variations take millions of years to respond to environmental changes. Think of the poor polar bears. They'll never understand why the ice isn't coming, and evolution doesn't empower them to proactively change their biology.
+Evolution may not be the force, but it's certainly magical. Without any lifeform being aware of its tricks, evolution turns a rock into an life's oasis. The big drawback is time. Biological variations take millions of years to respond to environmental changes. Think of the poor polar bears. They'll never understand why the ice isn't coming. Sadly, evolution doesn't empower them to proactively change their biology.
 
-In contrast, humanity can change. Not our biology. But our "cyborgology" if you will. And while evolution maybe magical, creating new tools isn't. It's intentional. We can reflect on our problems, and adapt ourself to solve them.
+In contrast, humanity can change. Not our biology. But our "cyborgology" if you will. And while evolution maybe magical, creating new tools isn't. It's intentional. We reflect on our problems, and adapt our cyborgology to solve them.
 
-We can intentionally evolve. I new form of evolution that isn't a magical mystery, like evolution is to the polar bear, but something we can master. We need a term for intentional evolution with technology. I call it majic.
+Humanity can intentionally evolve. I better form of evolution that isn't a magical mystery, like evolution is to polar bears, but something we can master. We need a term for intentional evolution with technology. I call it majic.
+
+![Wikipedia development](/img\evolution\techvolution-evolution-innovation.png)
 
 ## The Majic of Techvolution
 
-When a person has a leaky roof, or is sick of scratched DVD's, they're a lifeform struggling to harness resources. When that person doesn't suffer fate, but asseses the problem and creates a new tool like metal roofs or internet streaming to solve it, they become a protagonist.
+When a person has a leaky roof, or is sick of scratched DVD's, they're a lifeform struggling to harness resources. When that person doesn't suffer fate, but asseses the problem and creates a new tool, like metal roofs or internet streaming, to solve it, they become a protagonist.
 
-Creating new tools is called innovation. We already understand and celebrate innovation. Even Darth Blockbuster often calls himself an innovator. But innovating a new tool isn't our goal. We need people to use new tools to evolve life.
+Creating new tools is called innovation. We already understand and celebrate innovation. Even Darth Blockbuster calls himself an innovator. But innovating a new tool isn't our goal. We need people to use them.
 
-Protagonists can't force humanity to use innovatiosnew adaption. Darth Blockbuster can try and stop them. Yet, it's up to the extras to select their tools. Techvolution is the new philosophy to empower them to freely decide. However, the decision of a cyborg drop one tool, and pick up another, needs a term. Using an innovation is what actually evolves humanity.
+Neither protagonists or Darth Blockbuster should decide which innovations society adopts. Only the extras should. Only they feel the pain of the frontlin, and can unbiasly decide which tools best solves it. Techvolution is a new ruling philosophy to empowers them to naturally select their own tools.
 
-Connecting with new tools is sort of mystical. A person is choosing to evolve themselves. But its not magic, because we can understand we're discarding a DVD player and attaching ourselves to Netflix. So, I call it majic. Pronounced the same, it's the intentional process by which extras decide what tools they should hold to complete their cyborg selves and evolve life on earth. Majic completes innovation.
+Extras deciding to drop one tool, and pick up another, needs a term. It needs to be mystical. Because like lifeforms, extras don't really understand their own pain. But its not magic, because extras still understand they're discarding a DVD player and attaching ourselves to Netflix.
 
-As I said before. This book isn't about helping protagonists innovate. It's about getting innovations into the real world. Now we have a term for that, majic. Majic is what Darth Blockbuster wants to control. But while he may hide behind rules, and claims of his innovation, will Darth Blockbuster ever call himself a majician? He can't. It's an idea made to defeat him.
+I called extras deciding to change their cyborgology majic. Pronounced the same, it's the intentional process by which extras decide what tools they should hold to complete their cyborg selves. Majic completes innovation.
 
-So Skywalker, we can sketch these new rules into our rule book. Humans evolve with tools. We need an ecosystem to keep us in check. The more innovation we have, the more options cyborgs have, the more antifragile humanity can be. Techvolution liberates the extras from old rules, so they can freely decide their tools. But it's majic that completes humanity's evolution of life on, and beyond, Earth.
+As I said before. This book isn't about helping protagonists innovate. It's about getting innovations into the real world. Now we have a term for that, majic. Majic is what Darth Blockbuster hates. But while he can hide behind rules, and even claim to be an innovator, will Darth Blockbuster ever call himself a majician? He can't. Majic is the freedom to chose one's own tools. It's a term made to defeat Darth Blockbuster.
 
-* Note: Majic is my family name. It's egotistical to use it I know, but I couldn't think of a better word. I'm especially using it for my parents. They've been overworked all their life yet still always cleaned and built stuff with care; even though Darth Blockbuster usually micro managed and underpaid them. I wanted to help them retire. Instead, I can name the act by which an extra purposefully evolves humanity after them.
+So Skywalker, we can sketch these new rules into our rule book. Humans evolve with tools. We need an ecosystem to keep us in check. The more innovation we have, the more options cyborgs have, the more antifragile humanity can be. Techvolution liberates the extras from old rules, so they can freely decide their tools. But it's the majicical connection between extra and new tool to solve a problem, that continues humanity's evolution on, and beyond, Earth.
 
-  Sticking it to their and my personal Darth Blockbuster also makes me smile too.
+![Wikipedia development](/img\evolution\techvolution-majic.png)
+
+* Note: Majić is my family name. It's kinda egotistical to use it here I know, but I couldn't think of a better word. I'm especially using it for my parents. They've been overworked all their life yet still always cleaned and built stuff with care, even though Darth Blockbuster usually micro managed and underpaid them. I wanted to help them retire. Instead, I can name the act by which an extra purposefully evolves humanity in their name.
+
+* Sticking it to my personal Darth Blockbuster also makes me smile too.

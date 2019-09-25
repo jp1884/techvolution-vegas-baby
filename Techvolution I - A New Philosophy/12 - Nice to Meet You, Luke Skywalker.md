@@ -9,4 +9,4 @@ Regular people are always the heroes. Skywalker, Neo, and Cinderella the list go
 
 And our story is calling you now. That's why I wrote this book. Like Obi-Wan Kenobi, Morpheus, or the fairy godmother, I'm merel the guide. My job is to teach you how to defeat the villians. So the time is now young Skywalker, to leave the farm, and join the rebellion.
 
-What is the rebellion. It's definitely not rallies, marches or protests. It's a rebellion of the mind. Together we have to erase Darth Blockbuster's rulebook, and write a new one every frontline worker can refer to, when their acting out Techvolution.
+What is the rebellion. It's definitely not rallies, marches or protests. It's a rebellion of the mind to change our ruling philosophy. Together we have to erase Darth Blockbuster's rulebook, and write a new one every frontline worker can refer to, when their acting out Techvolution.
