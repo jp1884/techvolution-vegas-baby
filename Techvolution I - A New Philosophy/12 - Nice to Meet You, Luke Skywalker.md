@@ -1,7 +1,7 @@
 
 # Nice to Meet You, Luke Skywalker
 
-Hi Luke. Hope your having a good day. A little about me first. I'm nobody special. In my youth I was a cleaner, drywaller, movie usher, and die-hard ideologue. After dropping that bad habit, I studied political philosophy at the University of Toronto. A nagging stutter made me too shy to leave frontine jobs. I'm (grudginly) grateful. I learned far more being a line worker, an account manager, a claims adjuster. I was one those co-workers you sometimes forget about because they just do their job. Happily living on the frontline taught me Techvolution.
+Hi Luke. Hope your having a good day. A little about me first. I'm nobody special. In my youth I was a cleaner, drywaller, movie usher, and die-hard ideologue. After dropping that bad habit, I studied political philosophy at the University of Toronto. A nagging stutter made me too shy to leave frontine jobs. I'm (grudginly) grateful. I learned far more about our politics and economics being a line worker, an account manager, a claims adjuster. I was one those co-workers you sometimes forget about because they just do their job. Living on the frontline taught me Techvolution.
 
 So that's a snapshot. But it's not important. You are the hero. Because from car detailing to internet technical support, nursing to adjusting, only workers on the frontline know the tools our society needs to invent, keep, or throw away, to fix our many problems.
 

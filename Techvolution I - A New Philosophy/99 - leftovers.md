@@ -618,3 +618,7 @@ You can see this divide yourself. Tell your co-workers and company you're leavin
 But not everyone. Some people will be curious, some happy, and some will even fight back. And this battle over technologies is where the protagoinsts, antagonists, and extras of the playout the grandstory of humanity.
 
 Good thing some protagonsits already have. Let's go to the war room and see the battle scared and the path to victory.
+
+## Majic
+
+While Darth Blockbuster can claim to be a innovator, he can't claim to be a majician.

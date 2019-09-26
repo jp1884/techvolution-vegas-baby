@@ -6,9 +6,9 @@
 
 Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility’s many banquets and balls. This was the image of opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the the fairy tale, the extras didn’t have a fairy Godmother to make their dreams come true. Instead, the commoners cleaned the noble’s vast libraries, used guns while dying in their wars, and wondered what it looked like through a telescope. The extras were excluded from the power of new tools because they believed their beloved Holy Bible said only noble people had the “divine right to rule”.
 
-Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other extra—you could argue—who rose above the masses and became the ultimate protagonist.  Who is to say that other extras can’t live up to their own potential? Books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists. The self-proclaimed “divine nobility” didn’t like hearing that. This powerful self-protecting community of Darth Kings declared Rousseau a banquet-pooper, and chased him out of Switzerland, France, and England. Maybe that’s why Rousseau rented instead of owned.
+Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other extra—you could argue—who rose above the masses and became the ultimate protagonist. Who is to say that other extras can’t live up to their own potential? Rousseay said books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists. The self-proclaimed “divine nobility” didn’t like hearing that. This powerful self-protecting community of Darth Kings declared Rousseau a banquet-pooper, and chased him out of Switzerland, France, and England. Maybe that’s why Rousseau rented instead of owned.
 
-Starting in 1776, within Rousseau’s lifetime, Darth King started to face the music when the American people started a revolution. One year after he died, the French had toothier own revolution in 1789. And on it went from country to country because Rousseau, and others like him, discovered the magic words for extras to realize they should become protagonists in a civilization “of the people, for the people, by the people”. Cinderella soon forgot about the fancy ball, and instead played the music of freedom, in a choir of equals that sounded something like this:
+Starting in 1776, within Rousseau’s lifetime, Darth King started to face the music when the American people started a revolution. One year after he died, the French had their own revolution in 1789. And on it went from country to country because Rousseau, and others like him, make the extras realize they should become protagonists in a civilization “of the people, for the people, by the people”. Cinderella soon forgot about the fancy ball, and instead played the music of freedom, in a choir of equals that sounded something like this:
 
 >Do you hear the people sing?
 Singing a song of angry men?
@@ -31,10 +31,8 @@ The question for us is, how did Rousseau do it?
 
 The easy answer is he made people realized they lived on the frontline today, and the ruling philosophy was from the past. See, even though the people didn't have telescopes, guns, or books, society did. Thus the people were continually disadvantaged. It's like a student at University today. He can use Wikipedia to find an answer, but still isn't allowed to reference it in term-paper. So he spends hours searching through books instead.
 
-Likewise, even though French and Americans could read up on current events, they still couldn't vote their opinion. Rousseau made the people realize the society they lived in, the one filled with tools, was reality, while the ruling philsophy was behind the times.
+Likewise, even though French and Americans could read up on current events, they still couldn't vote their opinion. Even though they could use muskters to defend their own land, they were fighting wars to expand the king's glory instead. Rousseau made the people realize this was bullshit.
 
-This change required started revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the others in the 19th centuries were so violent, because the divide between ruling philosophy, and frontline society, was so wide.
+This change started revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the others in the 19th centuries were so violent, because the divide between ruling philosophy, and frontline society, was so wide.
 
-Here's the extras choice in the battle of revolutions. Here's what you're choice will look like for techvolution.
-
-![Blank Triangles](/img\prologue\techvolution-antagonists-protagonists-extras-close-up.png)
+It's a lesson for us, as we start this Techvolution.

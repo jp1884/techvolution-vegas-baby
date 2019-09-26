@@ -1,17 +1,21 @@
 
-# THE OPENING BATTLE
+# First Battle Scene
 
 ## Introduction
 
-Every day on the frontline since the 1970's has gotten worse. That's when the internet, transitor, personal computer, we're all invented at ready to transform society. Instead, Darth Blockbuster used the ruling philosophy to prevent extras majically connecting with new tools to solve their problems. Our riling philosophy has gotten increasingly out of date.
+In the 1970's the transistor, internet, screens, and other digital technology, started to leave labs and research centres and make their way into products. Finally, after centuries of limited tools, society had ones cheap enough to mass produce, yet were powerful enough to change our way of life. Of course, that's when Darth Blockbuster appeared and went to work defending his way of life.
 
-Gladly, the Jedi kept fighting. Here's how the fought to create new tools, so the extras can majically uprade themselves and society too.
+Some examples. In the 1970's AT&T successfully lobbied to ban American from using internet modems. In 1984 the entertainment industry attacked home video recorders in "Sony Corp. of America v. Universal City Studios, Inc.". In 2001, the music industry attacked digital songs in "A&M Records, Inc. v. Napster, Inc.". Throughout society, the antagonists found ways to prevent the majical possibilities digital tools offered society.
+
+Even when offered help the antagonists resisted. When setting up iTunes Steve Jobs described dealing with music executives like this "I've never spent so much of my time trying to convince people to do the right thing for themselves".
+
+From Galileo to Washington, Tesla to Jobs, the battle  between antagonits, protagoinsts, and extras has been the same. Here's what it looks like.
 
 ## How New Tools Start the Fight
 
-Humanity, and our politics, evolves with tools.
+Technological evolution is similar to its biological cousin. We have adaptations of existing lifeforms, and then totally new lifeforms. In technology this the difference between a new technology and new tool.
 
-Upgrading a technology isn't a big deal. Sedan's and SUV's, tube televisons's and LCD's, VHS and DVD's, are basically the same. But when we upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, we unlocked a new tool: smartphones. And this is a big deal.
+Upgrading a technology isn't a big deal. Sedan's and SUV's, tube televisons's and LCD's, VHS and DVD's, are basically the same. Different technologically, but they do the same job in society. But when we upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, we unlocked a new tool: smartphones. And this is a big deal.
 
 ![New Tool Creation](/img\prologue\techvolution-new-tool-creation-pc.png)
 
@@ -49,15 +53,11 @@ That’s the story of Wikipedia. Made by new protagoinsts, made the standard ref
 
 ## You Can Win
 
-Fighting to spread the power of new tools is an archetypal human story. Galileo fought a religious establisment with a telescope, George Washington fought a political establishment with a musket, and Steve Jobs fought a economic establishment with an iPod.
+Wikipedia's victory is another example of an archetypal human story. Like Galileo and his telescope, George Washington and his musket, and Steve Jobs and his iPod. Wikipedia was a victory for protagonists against antagonists. What makes it especially cool, is the extras played such a big part.
 
-And that’s the story I want to empower all the extras to join with lightsabers a-blazin’, dicing up old tools like the evil storm troopers they are, to smooth out humanity’s natural evolution. It’s vital to realize the story is about problems and tools, not people. So while professors were antagonists to a better reference tool, many of Wikipedia’s facts were discovered by professors, so they’re hardly pure villains.
+And that’s the story I want to empower all the extras to join with lightsabers a-blazin’, dicing up old tools like the evil storm troopers they are, to smooth out humanity’s natural evolution. Note however, our lives cut across thousands to millions of problems. Thus, our villians are not in a massive group like “the rich” or the “the unions” as old philosophies label. Instead we have villians inside thousands of companies, institutions, and organizations, withholding new tools, so they can keep their version of the DVD alive.
 
-Our lives cut across thousands to millions of problems. Thus, our villians are not in a massive group like “the rich” or the “the unions” as old philosophies label. Instead we have “micro-villians” inside thousands of companies, institutions, and organizations, withholding new tools, so they can keep their version of the DVD alive.
-
-While, I’ll show the Jedi in the open-source community how to fight Darth Blockbuster better, my audience is the extras. They are the power brokers in our society. They should understand the apps they use, the tools they fund, and the rules they follow all drive our society’s future more than any political election ever will.
-
-The extras can kill Darth Blockbuster. I know this because our battle today was fought generations ago with his master, Darth King.
+The extras can kill all these Darth Blockbuster's. I know this because our battle today was fought generations ago with his master, Darth King.
 
 Darth King lived inside palaces, using society’s money to host splendid banquests and balls. His absolute power was hidden inside a ruling philosophy of the “noble’s divine right to rule”. Slowly, as protagonists invented scientific instruments, books, and guns, a new philosophy was born. A philosophy of science, enlightenment, equality, and democracy made real when the protagonists and extras fought as one in the American and French Revolutions. They were inspired by the new philosophy of Jean-Jacques Rousseau.
 
