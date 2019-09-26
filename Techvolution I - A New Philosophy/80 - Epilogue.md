@@ -51,7 +51,7 @@ Rest assured, the millions of the protagonists inside the open-source community 
 
 I mean our life on The Moon, Mars and beyond. Without Darth Blockbuster, we can travel the stars. What tools should we use when we're there? What way of life should be have?
 
-All us geeks have seen it, and wish to live in it, everytime we watch not a galaxy far far away, but the one with the continuing mission to explore strange new worlds with Captain Picard. Now we can build it.
+All us geeks have seen it, and wish to live in it, everytime we watch not a galaxy far far away, but the one with the continuing mission to explore strange new worlds with Captain Picard. Now we can build it for ourselves.
 
 That's coming up in the sequel, the book I originally wrote, about the new way of life digital tools empowers, _Techvolution: Building Starfleet_.
 

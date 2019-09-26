@@ -17,11 +17,11 @@ Tool: a catchall term for things we create with technology to solve a problem, l
 
 Frontline: The point of contact between a tool and the problem. A movie usher talking to moviegoers, nurses testing blood pressure, cleaners cleaning a city bus, police chasing a robber, soldiers on the battlefield. People on the frontline have jobs to solve problems.
 
-Hierarchy: Every tool develops a power structure to manage its use in society. Feudalism's castles and their gates for example. We reward those who rise in them with power and prestige. People in the hierachy have titles like the prince and the executive, to mark their positions inside the power structure.
+Hierarchy: Every tool develops a power structure to manage its use in society. Kings and queens having the keys to the all important castle for example. We reward those who rise in hierarchies with power and prestige. People in the hierachy have titles like prince and executive, to mark their position inside the power structure.
 
 Civilization story: The invention of new technology and creation of new tools to overcome whatever problem troubles us. We use tools to evolve.
 
-Protagonists: people who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. We call their leaders trailblazers who often skirt the rules; Nikola Tesla, Steve Jobs, Elon Musk.
+Protagonists: people who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. We call their leaders trailblazers who often skirt the rules; Nikola Tesla, Steve Jobs, Michael S. Hart, Bill Gates, Elon Musk.
 
 Antagonists: people who selfishly resist new tools to defend their wealth, power, and prestige. Often called establishment or elites, antagonists usually manage companies or institutions based on dated technologies and think working on the frontline is beneath them. They hide behind rules, which they work to control. We don't often individually identify them. I invented "Darth Blockbuster" so we can.
 

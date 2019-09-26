@@ -3,7 +3,7 @@
 
 ## We Dream To Fight in The Grandstory
 
-communities needed, think membranes. _One Strange Rock_
+communities needed, think membranes. ecosystems, _One Strange Rock_
 
 Why do we dreamers do it. Think of the foolishness. Luke Skywalker was a farmer, fighting an evil galactic empire. Romeo and Juliette died for love, at 15. There are lot of Cinderella's who dream of their prince, years into their marriage.
 

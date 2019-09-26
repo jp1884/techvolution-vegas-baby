@@ -1,15 +1,13 @@
 
 # A World With No Majic
 
-Life wants many different lifeforms. High biodiveristy empowers life to better respond to environment changes. Evolution makes it happen.
+Life wants biodiveristy. Evolution is life's tool to get it. Lots of lifeforms empowers life to better respond to frontline problem when the environment changes. Biological evolution takes time, but at least there's no one saying its wrong. The only natural rule is natural selection.
 
-Human evolution, what I call Techvolution, is interrupted by Darth Blockbuster. He uses rules to distract people from their love of majically teaching and learning new tools. This sucks for extras and protagonists. But it's absolutely horrible for society.
+Humanity evolves with tools via Techvolution. Protagonists experience frontine problems, and invent new tools to solve them. Extras feel the pain of frontline problems, and majic makes them love the work of learning and then teaching new tools.
 
-Because we don't evolve to our environment. Digtal tools burst onto our world in in the 1970's. The 1970's is when the transitor, integrated circuit, microchip, internet were cheap enough to let protagonists create new tools. The extras should have been selecting new tools to combate road traffic, expensive education, incomprehsible health insurance plans, and so forth.
+Yet Techvolution is interrupted by Darth Blockbuster. He takes hold of society's ruling philosophy, and uses it to make rules that distract extras from their love of majic. This sucks for extras and protagonists. But it's absolutely horrible for society. Especially ours today.
 
-Instead, Darth Blockbuster kept writing rules to protect his pre-digital tools of huge tax codes, books, broadcasting, and lecture halls.
-
-Now our society is hurting. Predicatably, since the 1970's our politics and climate have gone to shit. Looks at these trends.
+Without extras naturally selecting their own tools, we haven't been adapting our changing environment. Our society's many problems, like personal isolation, political hatred, climate change, all started in the 1970's. Look.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tEczkhfLwqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -24,12 +22,12 @@ US - trust in each other
 
 ## Frontline
 
-Red blue politics used old ruling philosophies. One's based on limited tools, and trying to figure out how to "fairly" allocate the control, regulation, and profits of society's limited tools. Who should get into University, and how should it be paid, is an easy example.
+Red blue politics use old philosophies. One's trying to figure out how to "fairly" allocate the control, regulation, and profits of society's limited tools. For example, when libraries and lecture halls were the only means of education, old philosophies needed to debate who should get into university, and how  the masive expense should be paid. Endless battles over affirmative action, student loan rates, state subsidies are the result.
 
-Without changing their ruling philosophy, our politics is unable to work together. They increasingly blamed each other for their shared inability to update society to the new environment of digital tools.
+Digital tools greatly open up our options. Sticking with old philosophies holds them back. Our politics thus can't work. Politicians increasingly blame each other for their shared inability to update society to digital tools. Frontline problems go unsolved. Red blames blue and vice versa in an vicious cycle.
 
-That means our society is forced to us use pre-digital tools. Mass produced gas cars and inefficient suburban housing, used by millions stuck in traffic going to and from 9-5 jobs. Our climate is changing because our ruling philosophy is not.
+Darth Blockbuster is happy as our society is forced to keep using his pre-digital tools.
 
-A date ruling philosophy causes more problems on the frontline. Incomprehensible tax codes that keep legons of accounts and lawyers employed. Education system charging teenagers tens of thousands of dollars. A banking industry ready to load kids the money because the rules say kids can never declare bankruptcy on it. Highways citizens keep paying to expand, yet commute times keep getting longer.
+And thus our climate suffers. We keep using Darth Blockbuster's mass produced gas cars, college education, inefficient cookie cutter suburban housing, unnutrious fast food. Despite frontline problems of too much carbon in the atmostphere, housing bubble bursts, massive student debt, and horrible individual health. We overuse Earth's resources. Our climate is changing because our ruling philosophy is not.
 
-The people are disadvantaged. Our problem isn't lack of innovation per se. It's lack of majic, because the extras are held back from connecting to new tools, because of the rules. Middle class quality of life, political cooperation, and climate change, won't get better until the extras join the antagonists in stepping up to the antagonists, and change the world.
+The people are disadvantaged. Middle class quality of life, political cooperation, and climate change, won't get better until the extras join the antagonists in stepping up to the antagonists, and change the world.

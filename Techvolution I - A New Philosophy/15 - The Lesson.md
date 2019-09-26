@@ -1,9 +1,9 @@
 
 # THE LESSON
 
-Society needs a ruling philosophy. Darth Blockbuster fights to control it to write rules to keep the tools he controls, and therefore himself, in power. When he can, Darth Blockbuster writes corporate manuals, univeristy guidelines, social justice blogs and other rules for his protection.
+Society needs a ruling philosophy. Darth Blockbuster fights to control it to write rules to keep the tools he controls, and therefore himself, in power. Corporate manuals, univeristy guidelines, social justice blogs are among the pages of his rule book.
 
-Maybe. Whose to know which are the bad ones. That's why we needed to identity majic. Because while rules are human made, majic is innate, and thereby lets us always judge the rules. But, what does majic look like?
+Maybe. Whose to know which are the bad ones. That's why we needed to identity majic. Because while rules are human made, majic is innate. Nobody tells us to learn new tools. Majic is always inside us. Thereby it lets us always judge the rules. But, what does majic look like?
 
 This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
 
@@ -71,16 +71,14 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 ## Lessons
 
-Frederick Douglass is a true Jedi Masster. His bravery, intelligence, and persistence teach humanity's endless potential. The lesson we need to learn here is the difference between the rules and majic. Of course Douglass teaches it to us.
+Frederick Douglass is a true Jedi Master. His bravery, intelligence, and persistence teach humanity's endless potential. The big lesson we need to learn is the difference between rules and majic.
 
-Notice the difference between rules and majic inside this story.
+Sophia connected Douglass with books. She wasn't told to. She did it because we naturally love teaching new tools, like reading, knitting, or fishing, to our fellow humans. We love it because we're performing majic.
 
-Sophia majically connected Douglass with literacy. She wasn't told to. She did it because we naturally perform majic and teach new tools, like reading, knitting, or fishing, to our fellow humans.
+Yet human made rules _sometimes_ say otherwise. Peasant farmer couldn't have a musket, a parishoner couldn't read a science book, a kid couldn't download a digital song. Today millions of tired mothers can't telecommute.
 
-Yet human made rules _can_ say otherwise. Peasant farmer couldn't have a musket, a parishoner couldn't read a science book, a kid couldn't download a digital song. Today millions of tired mothers can't telecommute.
+The lesson Skywalker is it'll never be easy to know the difference between good and bad rules. Our best judge, is our love og majic. It usually makes people smile. From teaching a kid to walk, to learning to use Skype to watch our grandkids first steps, teaching and learning new tools opens our hearts because it solves problems, and improves our way of life.
 
-The lesson Skywalker, it'll never be easy to know the difference between good and bad rules. Our best judge, is our love of majic. It makes people smile.
+So, when someone steps in your way with a rule, ask yoursel if you feel majic, and if you, ask the rulemaker why he doesn't. Perhaps there's a good reason. But keep Sophia in mind. Performing majic felt good, while following the rules only made her feel safe.
 
-So, when someone steps in your way with a rule, ask them why they don't fell the majic of teaching and learning new tools. Perhaps there's a good reason. But keep Sophia in mind. Performing majic felt good, following the rules only made her feel safe.
-
-Safety was fleeting. She gave one of our greatest writers and orators his start, yet she lived a miserable life afterwards always feeling she broke the rules. That should help you decide which rules are worth following.
+Safety was fleeting. She gave one of our greatest writers and orators his start, yet she lived a miserable life watching him succeed because she broke the rules. That should help you decide which rules are worth following.

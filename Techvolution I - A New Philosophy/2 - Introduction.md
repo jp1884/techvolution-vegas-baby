@@ -9,13 +9,13 @@ It all comes down to changing the rules of our society with a new philosophy. To
 
 Techvolution is inspired by Nature. Notice gatekeeper’s don’t exist there. Evolution doesn’t have anyone telling a cheetah she’s running too fast, that the ants are too cooperative, or that a camel is too water efficient. Lifeforms adapt as best they can to their own problems and the winners survive. There are no middleman, no gatekeepers, just problem solvers. And the problem solvers prevail.
 
-Human biological adaptions have stopped. Unless you're willing to wait millions of years we'll never evolve to fly, do advanced calculations, or breath Martian air. Humanity continues lifes evolution with tools. We're basically cyborgs who adapt and solve problems by upgrading our tools to the lastest problem in transportation, calculation, and breathing. Hold a plane joystick, calculator, or space suit, and you're a different cyborg each time.
+Unless you're willing to wait millions of years we'll never evolve to fly, do advanced calculations, or breath Martian air. Human biological adaptions have effectively stopped. Humanity continues lifes evolution with tools. We're basically cyborgs who adapt and solve problems by upgrading our tools to the lastest problem in transportation, calculation, and breathing. Hold a plane joystick, calculator, or space suit, and you're a different cyborg each time.
 
-However, our problem solving is held back by old philosophies that empower gatekeepers. People in control of old tools like Blockbuster, getting to decide when, and if, humanity will upgrade our tools. To be fair, not all gatekeepers are bad. Some security measures are necessary. Some gates are good.
+However, our problem solving is held back by old philosophies that empower gatekeepers. People in control of old tools like Blockbuster, getting to decide when, and if, humanity will upgrade our tools.
 
 In _Star Wars_, the Force is an all powerful energy field. Luke Skywalker's Jedi warriors harness the light side to help others. Darth Vader's evil Sith harness the dark side to help themselves.
 
-We call technological protagonsts "trailblazers". Like Jedi, they empower us cyborgs with new tools. But we don't have a term for the antagonists. Thus, I call antagonists to our technological evolution Darth Blockbuster. They are the people who prevent human evolution for their self-interest.
+We call technological protagonsts "trailblazers". Like Jedi, they empower us cyborgs with new tools. But since some gates are good, mainly the security ones, we don't have a good term for the antagonists. Thus, I call antagonists to our technological evolution Darth Blockbuster. They are the people who prevent human evolution for their self-interest.
 
 For years we've called biological upgrades and adaptions evolution. I call human technological evolution _Techvolution_. This book is about inventing Techvolution, a philosophy to re-write the rules of society, to kill Darth Blockbuster, so regular people can solve our problems with technological upgrades as smoothly in human society, as natural selection does in nature.
 
