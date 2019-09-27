@@ -622,3 +622,19 @@ Good thing some protagonsits already have. Let's go to the war room and see the 
 ## Majic
 
 While Darth Blockbuster can claim to be a innovator, he can't claim to be a majician.
+
+## Listerine
+
+You ever use Listerine? It's a good idea too. It kills 99.9% of bacteria. Actually I'm not a dentist or doctor, so maybe it's a good idea, I can't say for sure. It's definitely a good idea to santize your wounds by killing all the bacteria.
+
+There's a link. The mouthwash is named after Joseph Lister. He was born a Quaker in 1827 England, trained to be a surgeon, and entered the Royal College of Surgeons in 1853. On his honeymoon, the new doctor visted medical research facilties, and fell in love with medical research, as did is wife Agnes, who was his life long lab partner.
+
+From the beginning of time, to mid-1800's, doctors didn't wash their hands. Even when removing a limb, doctors would show up with blood stained gowns, surgical tools, and go to work in a small stadium. Surguries were so spectular people off the street would watch. No sanitation anywhere.
+
+Nobody knew about microbiology. The general assumption was infections were caused by "bad air", so hospitals would be aired out, but never disinfected. The horror.
+
+Lister read about Louis Pasteur's experiments with fermenting milk. Pasteur discovered the start of microbiology, and how to prevent food spoilage as a result (that's why we call milk "pasteurized").
+
+Lister, and several others, connected the dots, and found a chemical solution to kill bacteria on human wounds. He experimented by cleaning surgical instruments and wounds and no surprise to us, his patients didn't get infections nearly as much. After some more research surgery became antiseptic. Today we don't watch it off the street, but behind television screens.
+
+Except it took years to get the surgeons on board. Lister was mocked. The idea of "microorganisms" was incredible. Few people bought it and continued to air out hospitals instead. Even when President Garfield was shot, his surgeons worked on him for months

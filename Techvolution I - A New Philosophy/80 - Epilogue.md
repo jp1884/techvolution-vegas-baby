@@ -55,7 +55,7 @@ All us geeks have seen it, and wish to live in it, everytime we watch not a gala
 
 That's coming up in the sequel, the book I originally wrote, about the new way of life digital tools empowers, _Techvolution: Building Starfleet_.
 
-### Personal Note on Political Philosophy, The Prince, and the Executive
+### Personal Note on Political Philosophy: The Prince and the Executive
 
 This was the the executive. It will do for economics what the prince did for science and later on for politics. putting humans below the story, and letting the truth of the world as seen and sensed by tools, to determine our truths. human affairs, especially economic ones of what we make and use, needs the same transition as science, and democracy has today.
 

@@ -1,4 +1,4 @@
-# HEAR THE PEOPLE
+# ROUSSEAU'S EXTRAS
 
 ## Freeing Cinderella
 
@@ -29,10 +29,10 @@ The question for us is, how did Rousseau do it?
 
 ## The Road to Techvolution, and the Death of Revolutions
 
-The easy answer is he made people realized they lived on the frontline today, and the ruling philosophy was from the past. See, even though the people didn't have telescopes, guns, or books, society did. Thus the people were continually disadvantaged. It's like a student at University today. He can use Wikipedia to find an answer, but still isn't allowed to reference it in term-paper. So he spends hours searching through books instead.
+The easy answer is he made people realized they lived on the frontline today, and the ruling philosophy was from the past. See, even though the people didn't have telescopes, guns, or books, society did. Thus the people were continually disadvantaged. It's like a student at University today. He can use Wikipedia to find an answer, but still isn't allowed to reference it in term-paper. So he spends hours searching through books instead. The same thing applies to internet music and movies, each was introduced by supposed pirates.
 
-Likewise, even though French and Americans could read up on current events, they still couldn't vote their opinion. Even though they could use muskters to defend their own land, they were fighting wars to expand the king's glory instead. Rousseau made the people realize this was bullshit.
+Likewise, even though French and Americans could read up on current events, they still couldn't vote. Even though they could use muskters to defend their own land, they were fighting wars to expand the king's glory instead. Rousseau made the people realize this was bullshit.
 
-This change started revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the others in the 19th centuries were so violent, because the divide between ruling philosophy, and frontline society, was so wide.
+This change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the others in the 19th centuries were so violent, because the divide between ruling philosophy, and frontline society, was so wide.
 
-It's a lesson for us, as we start this Techvolution.
+It's a lesson for us, as we start this Techvolution, to hurry up. Because the longer we wait to update our ruling philosophy to to digital tools, the more out of touch the frontline and ruling philosophy gets. The result is revolution. All the more reason for a Techvolution.
