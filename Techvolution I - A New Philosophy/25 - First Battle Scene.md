@@ -3,19 +3,19 @@
 
 ## Introduction
 
-In the 1970's the transistor, internet, color monitors, and other digital technology, started to leave labs and research centres and make their way into products. Finally, after centuries of limited tools, society had ones cheap enough to mass produce, yet powerful enough to change our way of life. Of course, that's when Darth Blockbuster appeared and went to work defending his way of life.
+In the 1970's the transistor, internet, computer monitors, and other digital technology, started to leave labs and research centres and make their way into products. Finally, after centuries of limited tools, society had ones cheap enough to mass produce, yet powerful enough to change our way of life. Of course, that's when Darth Blockbuster appeared and went to work defending his way of life.
 
-Some examples. In the 1970's AT&T successfully lobbied to ban Americans from using internet modems to defend telephone calls. In 1984, the entertainment industry defended broadcast television by suing home video recorders. In 2001, the music industry defended Compact Discs by suing digital songs. Throughout society the antagonists found ways to prevent the majical possibilities digital tools offered society to follow Techvolution.
+Some examples. In the 1970's AT&T defended their telephone monopoly by successfully lobbying to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by suing home video recorders. In 2001, the music industry defended Compact Discs by suing digital songs. Throughout society the antagonists found ways to prevent the majical possibilities digital tools offered society to technologically evolve.
 
-The antagonists resisted even when offered help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to formalize digital songs with iTunes. Music executives had already tried and failed horribly. Despite the supposed crisis, Jobs said about dealing with music executives he'd "never spent so much of my time trying to convince people to do the right thing for themselves". Antagonism is what antagonists do.
+The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to formalize digital songs with iTunes. Music executives had already tried and failed horribly. Despite the supposed crisis, Jobs said about dealing with music executives he'd "never spent so much of my time trying to convince people to do the right thing for themselves". New tools questioned who should be on top. Antagonist respond for self-interest, antagonism is what antagonists do.
 
-From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has been the same. Here's how the it breaks down.
+From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has been the same. Here's how it breaks down.
 
 ## How New Tools Start the Fight
 
 Technological evolution is like its biological cousin. There are adaptations of existing lifeforms and totally new lifeforms. In technology this the difference between a new technology and a new tool.
 
-Upgrading a technology is like going from Sedan's to SUV's, tube televisons's to LCD's, VHS to DVD's. Each is different technologically, but they do the same job in society. New technology isn't a big deal. But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, we unlocked a new tool: smartphones. And this is a big deal.
+Upgrading a technology is like going from Sedan's to SUV's, tube televisons's to LCD's, VHS to DVD's. Each is different technologically, but they do the same job, so new technology isn't a big deal in society. But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, we unlocked a new tool: smartphones. And this is a big deal.
 
 ![New Tool Creation](/img\prologue\techvolution-new-tool-creation-pc.png)
 
@@ -29,7 +29,7 @@ Today the extras are not self-aware of their power to decide the winner. I’ll 
 
 ## Extras Killed Wikipedia's Evil Twin
 
-People always have some nagging question. Like what diseases do ticks carry, or why did World War II start. Constant questions are a problem and we need a reference tool to solve it. True to ourselves, we make one with the technology available and upgrade it when possible.
+Life likes to ask questions. With its lifeforms it probes the environment to see if its getting colder or wetter, or if the food supply changing. Similarly, people always have some nagging question. Like what diseases do ticks carry, or why did World War II start. Constant questions are a problem and we need a reference tool to solve it. True to ourselves, we make one with the technology available and upgrade it when possible.
 
 Our first reference tool was the wisdom of our elders. The first technological upgrades were papyrus scrolls and ink (500 BC) and books (500), which turned some elders into experts like Hippocrates and Aristotle. When wood-pulp paper (1200) and the printing press (1456) were invented, humanity unleashed mass-produced books. Now experts could share knowledge between themselves and educate the masses. We called the reference books encyclopedias.
 

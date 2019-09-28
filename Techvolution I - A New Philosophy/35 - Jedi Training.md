@@ -2,9 +2,11 @@
 
 ## Introduction
 
-If you're going to topple Darth Blockbuster, you need to train more. Only then will you master the human technological story, and proactively change to its twists and turns via techvolution.
+If you're going to topple Darth Blockbuster, you need to train more. Only then will you master the human technological story, and proactively change to its twists and turns via Techvolution. We want to master technological evolution. We can, once we understand our ruling philosophies and the technological development that will discredit them.
 
-Here's how stories work. Mastering them is how Jedi Rousseau toppled Darth King, so take note.
+And it all comes down to stories. So I hope you like movies, because you're apart to master how they're made, and why they're so powerful.
+
+Mastering stories is how Rousseau toppled Darth King. We have to do better to topple Darth Blockbuster.
 
 ## The Nature of Storytelling
 
