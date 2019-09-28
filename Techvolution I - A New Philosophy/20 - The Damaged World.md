@@ -3,11 +3,13 @@
 
 Life wants biodiveristy. Evolution is life's tool to get it. Lots of lifeforms empowers life to better respond to frontline problem when the environment changes. Biological evolution takes time, but at least there's no one saying its wrong. The only natural rule is natural selection.
 
-Humanity evolves with tools via Techvolution. Protagonists experience frontine problems, and invent new tools to solve them. Extras feel the pain of frontline problems, and majic makes them love the work of learning and then teaching new tools.
+Humanity evolves with tools via Techvolution. Protagonists experience frontine problems, and invent new tools to solve them. Extras feel the pain of frontline problems, and majic makes them love the work of learning and teaching new tools.
 
-Yet Techvolution is interrupted by Darth Blockbuster. He takes hold of society's ruling philosophy, and uses it to make rules that distract extras from their love of majic. This sucks for extras and protagonists. But it's absolutely horrible for society. Especially ours today.
+Yet Techvolution is interrupted by Darth Blockbuster. He takes hold of society's ruling philosophy, and uses it to make rules that distract extras, and thwart new tools from improving the world. This sucks for extras and protagonists. But it's absolutely horrible for society. Especially ours today.
 
-Without extras naturally selecting their own tools, we haven't been adapting our changing environment. Our society's many problems, like personal isolation, political hatred, climate change, all started in the 1970's. Look.
+Without extras naturally selecting their own tools, we haven't been adapting our changing environment. Our society's many problems, like personal isolation, political hatred, climate change, all started in the 1970's. That's when digital tools were created en masse. And when Darth Blockbuster showed up.
+
+Look at the affects on our politics and climate.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tEczkhfLwqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
