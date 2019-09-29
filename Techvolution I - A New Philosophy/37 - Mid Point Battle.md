@@ -1,17 +1,17 @@
 
 # The Death Star
 
-Midway through _Star Wars_, the ship taking Skywalker, Obi-Wan, Leia, and Solo is captured by the very ship their secret plans were stolen to destroy. The predictament, they have to escape it, so they can destroy it.
+Midway through _Star Wars_, the ship taking Skywalker, Obi-Wan, Leia, and Solo is captured by the very ship their secret plans were stolen to destroy. It's great writing. Because, they now have to escape it, so they can destroy it.
 
-Well I hope you took notes Skywalker. Because they got me. The antagonists have me in a Darth Blockbuster choke hold. And I'm in trouble.
+Well I hope you took notes Skywalker. Because they got me! The antagonists have me in a Darth Blockbuster choke hold. And I'm in trouble.
 
 I broke the rules, and they sent their stormtroopers, and I was over powered. Not by superior reasoning, philosophy, or ethics. No, they over powered me because the extras joined them!
 
-I'm here, like Rapunzel, trapped. I'm being well treated and feed, other than being forced to listen to red / blue cable news. Can you go up against Darth Blockbuster and save me?
+I'm here, like Rapunzel, trapped. I'm being well treated and feed, other than being forced to listen to red / blue cable news. Can you face Darth Blockbuster. Can you save me?
 
-Oh what did I do? I downloaded a movie from pirate bay.
+Oh what did I do? I downloaded a movie from pirate bay. And that's against the rules. But should it be?
 
-Hurry up! They're showing protesters flying into a Climate Change Strike. I don't know how much longer I got, nevermind the polar bears. Although I think they'll realize the stupidity before the walking bristol boards do. Move it!
+Hurry up! Blue / red cable news is showing protesters flying into a Climate Change Strike. I don't know how much longer I got, nevermind the polar bears. Although I think the bears will realize the stupidity before the walking bristol boards with all the air miles do. Move it!
 
 ## Skywalker Turns on His Lightsaber
 
@@ -19,7 +19,7 @@ Fucking Obi-Wan. How'd he get caught? Caught, I didn't even know they were chasi
 
 So he broke the rules, and the extras agreed, and now he's trapped, and I have to get him out.
 
-He broke the rules. Or better put he broke their rules. And watched a digital movie. The first step is intelligence. Let's go on YouTube and see what we can find on Darth Blockbuster.
+He broke the rules. Or better put he broke their rules, and watched a digital movie. The first step is intelligence. Let's go on YouTube and see what we can find on Darth Blockbuster.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r1mLa9Gk4Ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -119,3 +119,6 @@ And that's the characters and setting of techvolution. To understand the journey
 So here's a video, that hopefully is much stronger than words. This ability, to proactively change ourselves to reach the stars. “Man is born free; and everywhere he is free.” Free of being subjugated by our own ruling philosphy, as we live a endless story of techvolution.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5KdE0p2joJw?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- bring up dark majic, ie advertising. trying to solve pain that doesn't exist, to continue the use of a bygone tool.
+  

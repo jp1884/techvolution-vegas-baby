@@ -638,3 +638,15 @@ Lister read about Louis Pasteur's experiments with fermenting milk. Pasteur disc
 Lister, and several others, connected the dots, and found a chemical solution to kill bacteria on human wounds. He experimented by cleaning surgical instruments and wounds and no surprise to us, his patients didn't get infections nearly as much. After some more research surgery became antiseptic. Today we don't watch it off the street, but behind television screens.
 
 Except it took years to get the surgeons on board. Lister was mocked. The idea of "microorganisms" was incredible. Few people bought it and continued to air out hospitals instead. Even when President Garfield was shot, his surgeons worked on him for months
+
+## Nobles divinity stories
+
+All because society couldn't proactively change their ruling philosophy. The nobles divine right to rule was set to go on forever. When the anarchy of Rome's collapse was solved with a return to civilization, the "noble" rulers were divine without reason.
+
+Like any story, our ruling philosophy should have a goal. With goals come a natural conclusion. Protagonists are heroes because they set to overcome's the stories problem, and achieve it's goal. It's only while the hero fights the villians, is she rightfully considered divine.
+
+However, in stories when the problem is overcome, the hero returns to being a regular person, and loses his divinity. Unfortunately, people took the nobles divine right to rule literally. It wasn't a story of overcoming a problem, who thereafter had a No story.there wasn't a clause in the nobles divine right to rule to explain why these protagoinsts were divine (returning law and order), and thus there was no conclusion to the nobles divinity. Stuck inside their ruling philosophy, the nobles were protagonsits in their eyes, while being "Darth Kings" to history.
+
+Similarly, on ruling philosophy as no conclusion built in. Ask any Darth Blockbuster you want, managing partnet at a consultanting firm, high priced lawyer, music executive, Professor of Distinguished Chair of Media Studies, when the problem that makes them an protagoinsts is overcome,so they can return to being a regular person. They won't even know what the fuck you're talking about. They're divine.
+
+Thus, Skywalker we're doomed to the same fate. That's why we have to master the human story, to help the extras participate in Techvolution, and pick the real protagonists in the open source community.

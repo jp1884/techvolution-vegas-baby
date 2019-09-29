@@ -3,9 +3,11 @@
 
 Well young Skywalker, before you go off and face Darth Blockbuster, you have to learn some things first. The most important being the all powerful energy field inside every lifeform. No not the Force. I mean evolution.
 
-Evolution empowers life by giving every new lifeform a slightly different variation. This way life can constantly test for environmental changes in things like water levels, temperature, food supply. The variations who can't cut it slowly die, while the fittest survive. That's how evolution naturally selects which lifeforms best represent life on Earth.
+Evolution empowers life by giving every new lifeform a slightly different variation. This way life can constantly test for environmental changes in things like water levels, temperature, food supply. The variations who can't cut it slowly die, while the fittest survive. Evolution naturally selects which lifeforms best represent life on Earth.
 
-Evolutions works so well because it creates biodiversity. More lifeforms means life can better probe and therefore better adapt to environmental changes. When temperatures increase or rain patterns change, high biodiversity means more lifeform feel the pain, and respond faster, and keep life's evolution alive.
+Evolutions works so well because it creates biodiversity. More lifeforms means life can better probe and therefore better adapt to environmental changes. When temperatures increase or rain patterns change, high biodiversity means more lifeform feel the pain, and respond faster, and keep life's evolution going.
+
+If the environment is stable, lifeforms need a caretaker. Someone to keep them in shape, ready to act for when the environment does changes. Good thing nature has a system of checks and balances in place called ecosystems. Ecosystems have a closed off food chain of plants, herbivores, carinvores, and decomposers, all checking out accesses and balance the system to keep everyone healthy. Because each is accountable for their actions, while having to reciprocate to earn their calories, inside ecosystems is where life evolves.
 
 Evolution may not be the Force, but it's certainly magical. Without any lifeform being aware of its tricks, evolution turned a lifeless planet into an oasis. The big drawback is time. Biological variations take millions of years to respond to environmental changes. Think of the poor polar bears. They'll never understand why the ice isn't coming. And even if they could, no lifeform can proactively change their biology.
 
@@ -17,17 +19,17 @@ Techvolution is therefore intentional evolution. A better form of evolution that
 
 ## The Majic of Techvolution
 
-Creating new tools is called innovation. Happily trailblazers are self-motivated, and we already celebrate their innovations. Heck, even Darth Blockbuster often loves new tools. But innovation isn't the only step to Techvolution. Only when the extras use a tool do we evolve.
+New tools are created when someone assembles existing technology in a new way. We call this person genius for creating an innovation. Happily these trailblazers are self-motivated, and we already celebrate their genius and innovations. Heck, even Darth Blockbuster often loves their new tools. But innovation isn't the only step to Techvolution. Only when the extras use a tool do we evolve.
 
-So what trick does nature play on the extras to make them risk Darth Blockbuster's wrath, and use new tools. The trick has to live within all our souls, but is only held back by human actions.
+So what trick does nature play on the extras to make them risk Darth Blockbuster's wrath, and use new tools. Like evolution, the trick has to live within all our souls. It's only held back by human actions.
 
-It's not the magic of evolution, because extras understand they're dropping one tool, and putting in another; like swopping out the DVD player for Netlix. Yet, there's still something wonderfully mystical about choosing to leave ones's comfort zone, and learn to be a new person. It's like a desert fox putting a swimsuit on, leaving for the jungle, and saying "I'll figure it all out when I get there".
+The trick is not the magic of evolution, because extras understand they're dropping one tool, and putting in another; like swopping out the DVD player for Netlix. Yet, there's still something wonderfully mystical about choosing to leave ones's comfort zone, and learn to be a new cyborg. It's like a desert fox putting a swimsuit on, leaving for the jungle, and saying "I'll figure it all out when I get there".
 
-It's so wonderfully brave, mysterious, and difficult, I call it majic. Pronounced like magic, but different so we know it's the free choice of a regular person to use a new tool and continue humanity's evolution.
+Changing our tools is so wonderfully brave, mysterious, and difficult, I call it majic. Pronounced like magic, but different so we know it's the free choice of a regular person to use a new tool and continue humanity's evolution.
 
-Think of it like this. Carbon atoms help unite other atoms to form new molecules. When protagonists take existing ideas and combine them differently, innovation in the mind, makes a new tool in reality. When an extra decides to bound with innovative new tool, that's majic.
+Think of it like this. Carbon atoms help unite other atoms to form new molecules. When protagonists take existing ideas and combine them differently, genius in their mind, makes a new tool in reality. And when an extra decides to bound with innovative new tool, that's majic.
 
-The question for us young Skywalker, is how we do encourage majic when the rules say it's wrong?
+Innovation is not our goal. Techvolution is. The question for us young Skywalker, is how we do encourage majic when today's rules say it's wrong?
 
 ![Wikipedia development](/img\evolution\techvolution-majic.png)
 

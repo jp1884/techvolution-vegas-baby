@@ -2,7 +2,7 @@
 
 ## Introduction
 
-If you're going to topple Darth Blockbuster, you need to train more. Only then will you master the human technological story, and proactively change to its twists and turns via Techvolution. We want to master technological evolution. We can, once we understand our ruling philosophies and the technological development that will discredit them.
+Skywalker, you're doing well. But if you're going to topple Darth Blockbuster, you need to train the advanced stuff. Only then will you master the human technological story, and proactively change to its twists and turns via Techvolution. We want to master technological evolution. We can, once we understand our ruling philosophies and the technological development that will discredit them.
 
 And it all comes down to stories. So I hope you like movies, because you're apart to master how they're made, and why they're so powerful.
 
@@ -146,6 +146,18 @@ Here's what it looks like on our diagrams of new tools.
 ![After the story ends](\../img\thewriter\techvolution-story-types-applied.png)
 
 And that's what Rousseau noticed. That society was past due its moment of conclusion. That instead of protagonists becoming equal again, and distributing the proceeds of a new tool throughout society, the leaders descendants kept it for themselves.
+
+## Rousseau's Story
+
+ll because society couldn't proactively change their ruling philosophy. The nobles divine right to rule was set to go on forever. When the anarchy of Rome's collapse was solved with a return to civilization, the "noble" rulers were divine without reason.
+
+Like any story, our ruling philosophy should have a goal. With goals come a natural conclusion. Protagonists are heroes because they set to overcome's the stories problem, and achieve it's goal. It's only while the hero fights the villians, is she rightfully considered divine.
+
+However, in stories when the problem is overcome, the hero returns to being a regular person, and loses his divinity. Unfortunately, people took the nobles divine right to rule literally. It wasn't a story of overcoming a problem, who thereafter had a No story.there wasn't a clause in the nobles divine right to rule to explain why these protagoinsts were divine (returning law and order), and thus there was no conclusion to the nobles divinity. Stuck inside their ruling philosophy, the nobles were protagonsits in their eyes, while being "Darth Kings" to history.
+
+Similarly, on ruling philosophy as no conclusion built in. Ask any Darth Blockbuster you want, managing partnet at a consultanting firm, high priced lawyer, music executive, Professor of Distinguished Chair of Media Studies, when the problem that makes them an protagoinsts is overcome,so they can return to being a regular person. They won't even know what the fuck you're talking about. They're divine.
+
+Thus, Skywalker we're doomed to the same fate. That's why we have to master the human story, to help the extras participate in Techvolution, and pick the real protagonists in the open source community.
 
 And that is Darth King responsible holding back upgrades by using his control of the ruling philosophy to extra more power and money of so many of society's new tools for himself. The result was opulancent houses made into palaces, playing exquisite music, during very many banquets and balls. All the while society was increasingly non-functioning, behind it's potential.
 

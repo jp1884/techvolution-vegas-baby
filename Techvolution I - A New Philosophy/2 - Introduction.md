@@ -15,8 +15,8 @@ However, our problem solving is held back by old philosophies that empower gatek
 
 In _Star Wars_, the Force is an all powerful energy field. Luke Skywalker's Jedi warriors harness the light side to help others. Darth Vader's evil Sith harness the dark side to help themselves.
 
-We call technological protagonsts "trailblazers". Like Jedi, they empower us cyborgs with new tools. But since some gates are good, mainly the security ones, we don't have a good term for the antagonists. Thus, I call antagonists to our technological evolution Darth Blockbuster. They are the people who prevent human evolution for their self-interest.
+We call technological protagonsts "trailblazers". Like Jedi, they empower us cyborgs with new tools. But since some gates are good, mainly the security ones, we don't have a political name for the antagonists. Thus, I call antagonists to our technological evolution Darth Blockbuster. They are the people who prevent human evolution for their self-interest.
 
 For years we've called biological upgrades and adaptions evolution. I call human technological evolution _Techvolution_. This book is about inventing Techvolution, a philosophy to re-write the rules of society, to kill Darth Blockbuster, so regular people can solve our problems with technological upgrades as smoothly in human society, as natural selection does in nature.
 
-And to make it happen, you, the current extra, have to join the fight. Because victory depends on you picking the right side between an old ruling philosophy, and this modern one.
+And to make it happen, you, the current extra, have to join the fight. Because victory depends on you picking the right side between an old ruling philosophy, and this new one.
