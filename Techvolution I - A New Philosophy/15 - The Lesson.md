@@ -3,7 +3,7 @@
 
 Society needs a ruling philosophy. Darth Blockbuster fights to control it. When he does, he write rules to keep the tools he controls, and therefore himself, in power. Corporate manuals, univeristy guidelines, social justice blogs are among the pages of his rule book. These rules interfere with regular people majically forming bounds with new tools.
 
-Maybe. Whose to know which rules are the bad ones. Maybe they're interfering with majic. Maybe they're just good rules. Darth Blockbuster hardly proclaims he wants to hurt humanity's evolution. So we need to identify the difference between majic, and the rules.
+Maybe. Whose to know which rules are the bad ones. Maybe they're interfering with majic. Maybe they're just good rules. Darth Blockbuster hardly proclaims he wants to hurt humanity's evolution. So we need to clearly identify the difference between majic and the rules, to know the difference.
 
 This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
 
@@ -73,14 +73,14 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 Frederick Douglass is a true Jedi Master. His bravery, intelligence, and persistence teach humanity's endless potential. The big lesson we need to learn here is the difference between rules and majic.
 
-Sophia connected Douglass with books. She wasn't told to. She did it because we naturally love teaching new tools. Whatever our joys are, for reading, knitting, or fishing, we love explaining them. We love it, because we're performing majic.
+Sophia connected Douglass with books. She wasn't told to. She did it because we naturally love teaching new tools. Whatever our joys are, from reading, knitting, or fishing, we love explaining them. We love it, because we're performing majic.
 
-Contrast these two scearios. When a magician makes a playing card disappear, or escapes from a straight jacket, we're awed because the magician makes us wonder. However, when a majician connects someone with reading, or computer programming, they've similarly performed a trick. They've upgraded someone's cyborgology. Effectively, created a new person.
+Contrast these two scenarios. When a magician makes a playing card disappear, or escapes from a straight jacket, we're awed because the magician made us wonder. However, when a majician connects someone with reading, or computer programming, they've similarly performed a trick. They've upgraded someone's cyborgology and effectively created a new person.
 
 Yet human made rules _sometimes_ say that's wrong. Peasant farmers couldn't have a musket, medieval parishoners couldn't read a science book, a kid couldn't download a digital song. Today millions of tired mothers can't telecommute. Why?
 
-There is no easy answer. The lesson Skywalker is it'll never be easy to know the difference between good and bad rules. Our best judge, is majic. It makes us smile. From teaching a kid to walk, to learning to use Skype to watch our grandkids first steps, teaching and learning new tools opens our hearts because it solves problems, and improves our way of life.
+There is no easy answer. The lesson Skywalker is it'll never be easy to know the difference between good and bad rules. Our best judge is majic. It naturally makes us smile. From teaching a kid to walk, to teaching grandparent to use Skype to watch our her grandkids first steps, teaching and learning new tools opens our hearts because it solves problems, and improves our way of life.
 
 So, when teaching or learning a new tool, someone steps in your way with a rule, ask yourself if you feel majic, and if you do, ask the rulemaker why he doesn't. Perhaps there's a good reason. But keep Sophia in mind. Performing majic made her fell good, while following the rules only made her feel safe.
 
-Safety was fleeting because the rules are fleeting. Sophia gave one of our greatest writers and orators his start, yet she lived a miserable life watching him succeed because she broke the rules. And she's remembers as evil. That should help you decide which rules are worth following.
+Safety was fleeting because the rules are fleeting because no ruling philosophy lasts forever. Sophia gave one of our greatest writers and orators his start, yet she lived a miserable life watching him succeed because she broke the rules. That should help you decide which rules are worth following.

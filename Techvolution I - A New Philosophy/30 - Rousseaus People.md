@@ -2,7 +2,7 @@
 
 ## Freeing Cinderella
 
-“Extras are born free; and everywhere they are in chains.” That’s paraphrasing Jean-Jacques Rousseau, who wrote that in 1762. Was Rosseau the King of France? He wasn’t. Was her richest man in England? Absolutely not. Rousseau was a poor writer who copied sheets of music to make the rent. More than 300 years later, he is recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
+“Extras are born free; and everywhere they are in chains.” That’s paraphrasing Jean-Jacques Rousseau, who wrote that in 1762. Was Rosseau the King of France? He wasn’t. Was he the richest man in England? Absolutely not. Rousseau was a poor writer who copied sheets of music to make the rent. More than 300 years later, he is recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
 
 Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility’s many banquets and balls. This was the image of opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the the fairy tale, the extras didn’t have a fairy Godmother to make their dreams come true. Instead, the commoners cleaned the noble’s vast libraries, used guns while dying in their wars, and wondered what it looked like through a telescope. The extras were excluded from the power of new tools because they believed their beloved Holy Bible said only noble people had the “divine right to rule”.
 
@@ -29,10 +29,10 @@ The question for us is, how did Rousseau do it?
 
 ## The Road to Techvolution, and the Death of Revolutions
 
-The easy answer is he made people realized they lived on the frontline today, and the ruling philosophy was from the past. See, even though the people didn't have telescopes, guns, or books, society did. Thus the people were continually disadvantaged. It's like a student at University today. He can use Wikipedia to find an answer, but still isn't allowed to reference it in term-paper. So he spends hours searching through books instead. The same thing applies to internet music and movies, each was introduced by supposed pirates.
+Rousseau, a poor writer, changed history by making the people realize they suffered on the frontline because the ruling philosophy was old. See, even though the people didn't have telescopes, guns, or books, society did. Thus, the people were continually disadvantaged. It's like a student at university today. He can use Wikipedia to find an answer, but still isn't allowed to reference it in term-papers. So he spends hours searching through books instead.
 
-Likewise, even though French and Americans could read up on current events, they still couldn't vote. Even though they could use muskters to defend their own land, they were fighting wars to expand the king's glory instead. Rousseau made the people realize this was bullshit.
+Likewise, even though French and Americans could read up on current events, they still couldn't vote. Even though they could use muskets to defend their own land, they were fighting wars to expand the king's glory. Rousseau made the people realize this was bullshit.
 
-This change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the others in the 19th centuries were so violent, because the divide between ruling philosophy, and frontline society, was so wide.
+The people's demand for change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the others in the 19th centuries were violent, because the divide between ruling philosophy, and frontline society, was so wide.
 
-It's a lesson for us, as we start this Techvolution, to hurry up. Because the longer we wait to update our ruling philosophy to to digital tools, the more out of touch the frontline and ruling philosophy gets. The result is revolution. All the more reason for a Techvolution.
+It's a lesson for us, as we start this Techvolution. We have to hurry up. Because the longer we wait to update our ruling philosophy to digital tools, the more out of touch the frontline and ruling philosophy gets. The result is needless revolution. All the more reason for a Techvolution now.

@@ -7,21 +7,25 @@ In the 1970's the transistor, internet, computer monitors, and other digital tec
 
 Some examples. In the 1970's AT&T defended their telephone monopoly by successfully lobbying to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by suing home video recorders. In 2001, the music industry defended Compact Discs by suing digital songs. Throughout society the antagonists found ways to prevent the majical possibilities digital tools offered society to technologically evolve.
 
-The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to formalize digital songs with iTunes. Music executives had already tried and failed horribly. Despite the supposed crisis, Jobs said about dealing with music executives he'd "never spent so much of my time trying to convince people to do the right thing for themselves". New tools questioned who should be on top. Antagonist respond for self-interest, antagonism is what antagonists do.
+The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to improve digital songs with iTunes. Music executives had already tried and failed horribly. With no options, and despite the supposed crisis of Napster, Jobs said this about dealing with music executives "I never spent so much of my time trying to convince people to do the right thing for themselves". New tools questioned who should be on top. Fear of change is antagonism, and is what antagonists do.
 
-From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has been the same. Here's how it breaks down.
+From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Here's how it breaks down.
 
 ## How New Tools Start the Fight
 
-Technological evolution is like its biological cousin. There are adaptations of existing lifeforms and totally new lifeforms. In technology this the difference between a new technology and a new tool.
+Technological evolution is like its biological cousin. There are adaptations of existing lifeforms, and totally new lifeforms. In technology this the difference between a new technology, and a new tool.
 
-Upgrading a technology is like going from Sedan's to SUV's, tube televisons's to LCD's, VHS to DVD's. Each is different technologically, but they do the same job, so new technology isn't a big deal in society. But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, we unlocked a new tool: smartphones. And this is a big deal.
+Upgrading a technology is an iterative chance. It's important but not political going from Sedan's to SUV's, tube televisons's to LCD's, VHS to DVD's. Each is different technologically, but they do the same job, so no political battles are started. No new majic is required to attract users.
+
+But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, a genius unlocks a new tool: smartphones. And this is a big deal.
 
 ![New Tool Creation](/img\prologue\techvolution-new-tool-creation-pc.png)
 
-Why? Well, because creating a new tool asks a climactic and political question: who controls it? After all, whoever does, is more powerful. Thus, while civilization is a struggle to overcome problems by upgrading technology and inventing new tools, it’s also a battle to control them. The people with the old tool usually want to retain their power, while inventors and innovators imagine a new society that shares it.
+Why? Well, because creating a new tool asks a climactic and political question: who controls it? After all, whoever does, is more powerful. They can let extras majically connect with new tools to solve their problems. Or can destroy new tools, and convince the extras to keep using old tools with techniques like advertising, spectable, and a culture that says the old is still cool, and the new is geeky; all techniques I call dark majic.
 
-The eternal story of civilization is thus protagonists making new tools, antagonists attacking new tools, and many extras watching them fight. Our politics is an ongoing history of technological change, with inventor and gatekeeper both reaching for the tool to make themselves the winner.
+Thus, while civilization is a struggle to overcome problems by upgrading technology and inventing new tools, it’s also a battle to control them. The people with the old tool fight to retain their power, while inventors and innovators imagine a new society that shares it.
+
+The eternal story of civilization is thus protagonists making new tools, antagonists attacking new tools, and many extras watching them fight. Our politics is an ongoing history of technological change, with protagonist and antagonist both reaching for the tool to make themselves the winner.
 
 Today the extras are not self-aware of their power to decide the winner. I’ll show you how important you are. Here’s how you changed the world just by being curious and loving majic.
 
@@ -55,10 +59,10 @@ That’s the story of Wikipedia. Made by new protagoinsts, made the standard ref
 
 Wikipedia's victory is another example of the archetypal human story. Like Galileo and his telescope, George Washington and his musket, and Steve Jobs and his iTunes. Wikipedia was a victory for protagonists against antagonists. What makes it especially cool, is the extras played such a big part.
 
-And that’s the story Skywalker I want you to join with lightsabers a-blazin’, dicing up old tools like the evil storm troopers they are, to smooth out humanity’s natural evolution. Note however, our lives cut across thousands to millions of problems. Thus, our villians are not in a massive group like “the rich” or the “the unions” as old philosophies label. Instead we have smaller villians inside thousands of companies, institutions, and organizations, withholding new tools, so they can keep their version of the DVD alive.
+And that’s the story Skywalker I want you to join with lightsabers a-blazin’, dicing up old tools like evil storm troopers, to smooth out humanity’s natural evolution. Note however, our lives cut across thousands to millions of problems. Thus, our villians are not in a massive group like “the rich” or the “the unions” as old philosophies label. Our villians decide themselves inside thousands of companies, institutions, and organizations, by suppressing majic of new tools, so they can keep their version of the DVD alive.
 
 The extras can kill all these Darth Blockbuster's. I know this because our battle today was fought generations ago with his master, Darth King.
 
-Darth King lived inside palaces, using society’s money to host splendid banquests and balls. His absolute power was hidden inside a ruling philosophy of the “noble’s divine right to rule”. Slowly, as protagonists invented scientific instruments, books, and guns, a new philosophy was born. A philosophy of science, enlightenment, equality, and democracy made real when the protagonists and extras fought as one in the American and French Revolutions. They were inspired by the new philosophy of Jean-Jacques Rousseau.
+Darth King lived inside palaces, using society’s money to host splendid banquests and balls. His absolute power was hidden inside a ruling philosophy of the “noble’s divine right to rule”. Slowly, as protagonists invented scientific instruments, books, and guns, a new philosophy was born. A philosophy of science and enlightenment, political equality and democracy, made real when the protagonists and extras fought as one in the American and French Revolutions. They were inspired by the new philosophy of Jean-Jacques Rousseau.
 
 ![Battle Scene](/img\prologue\techvolution-battle-scene.png)

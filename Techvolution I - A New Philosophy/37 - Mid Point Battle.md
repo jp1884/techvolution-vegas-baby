@@ -5,13 +5,13 @@ Midway through _Star Wars_, the ship taking Skywalker, Obi-Wan, Leia, and Solo i
 
 Well I hope you took notes Skywalker. Because they got me! The antagonists have me in a Darth Blockbuster choke hold. And I'm in trouble.
 
-I broke the rules, and they sent their stormtroopers, and I was over powered. Not by superior reasoning, philosophy, or ethics. No, they over powered me because the extras joined them!
+See, I broke the rules, and they sent their stormtroopers, and I was over powered. Not by superior reasoning, philosophy, or ethics. No, they over powered me because the extras joined them!
 
-I'm here, like Rapunzel, trapped. I'm being well treated and feed, other than being forced to listen to red / blue cable news. Can you face Darth Blockbuster. Can you save me?
+I'm here, like Rapunzel, trapped. I'm being well treated and feed, other than being forced to listen to red / blue cable news. Can you face Darth Blockbuster. Can you convince the extras I'm a good guy? Can you save me?
 
-Oh what did I do? I downloaded a movie from pirate bay. And that's against the rules. But should it be?
+Oh what did I do? I downloaded a movie from pirate bay.
 
-Hurry up! Blue / red cable news is showing protesters flying into a Climate Change Strike. I don't know how much longer I got, nevermind the polar bears. Although I think the bears will realize the stupidity before the walking bristol boards with all the air miles do. Move it!
+Hurry up! Blue / red cable news is showing protesters flying into a Climate Change Strike. I don't know how much longer I got, nevermind the polar bears. Although I think the bears will realize the stupidity before the walking bristol boards, with lots of air miles, do. Move it!
 
 ## Skywalker Turns on His Lightsaber
 
@@ -19,11 +19,11 @@ Fucking Obi-Wan. How'd he get caught? Caught, I didn't even know they were chasi
 
 So he broke the rules, and the extras agreed, and now he's trapped, and I have to get him out.
 
-He broke the rules. Or better put he broke their rules, and watched a digital movie. The first step is intelligence. Let's go on YouTube and see what we can find on Darth Blockbuster.
+Or better put, he broke their rules, and watched a digital movie. The first step is intelligence. Let's go on YouTube and see what we can find on Darth Blockbuster.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r1mLa9Gk4Ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A reporter, talking to executives and artists complaining about a new tool. That's how the extras saw them. Okay, so we got the basics. Lets use Techvolution, to see if we can get free Obi-Wan, and change the extras mind.
+A, official reporter, talking to executives and artists complaining about a new tool. That's how the extras saw them. Okay, so we got the basics. Lets use Techvolution, to see if we can get free Obi-Wan, and change the extras mind.
 
 ## Technological History of the Movies
 

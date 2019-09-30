@@ -5,6 +5,7 @@
 
 I want to keep this book as snippy as possible. So instead of long histories, I'll highlight the battle over new tools in short bursts. Here's one about Paul Baran. A glasses wearing geek who was a real life Luke Skywalker.
 
+read innovators page 253 "They assumed at some point..."
 ===
 
 There are many ways of sending data through a network. The simplest is how phone systems do it, with a direct circuit link between two phones. A call's connection only stops when someone hangs up.
