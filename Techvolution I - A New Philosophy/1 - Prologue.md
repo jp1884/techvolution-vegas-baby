@@ -2,7 +2,7 @@
 
 ## Dedication
 
-For the protagonists. The people in the open-source community. For the unspoken philosophy you handed down to me. For caring so unconditionally when updating Wikipedia, writing free software, and building cool new tech for us all. For showing me who the protagonists are. It’s the best education a political guy can get. I hope I learned enough.
+For the people in the open-source community. For the unspoken philosophy you handed down to me. For caring so unconditionally when updating Wikipedia, writing free software, and building cool new tech for us all. For showing me who the protagonists are. It’s the best education a political guy can get. I hope I learned enough.
 
 For the antagonists, the self-entitled delegators keeping Blockbuster alive, thanks for causing history to repeat itself yet again. I hope you learn something.
 

@@ -650,3 +650,7 @@ However, in stories when the problem is overcome, the hero returns to being a re
 Similarly, on ruling philosophy as no conclusion built in. Ask any Darth Blockbuster you want, managing partnet at a consultanting firm, high priced lawyer, music executive, Professor of Distinguished Chair of Media Studies, when the problem that makes them an protagoinsts is overcome,so they can return to being a regular person. They won't even know what the fuck you're talking about. They're divine.
 
 Thus, Skywalker we're doomed to the same fate. That's why we have to master the human story, to help the extras participate in Techvolution, and pick the real protagonists in the open source community.
+
+## Sid Meier's Civilization
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5KdE0p2joJw?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

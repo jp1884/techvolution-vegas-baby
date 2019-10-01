@@ -1,17 +1,17 @@
 
 # The Death Star
 
-Midway through _Star Wars_, the ship taking Skywalker, Obi-Wan, Leia, and Solo is captured by the very ship their secret plans were stolen to destroy. It's great writing. Because, they now have to escape it, so they can destroy it.
+Midway through _Star Wars_, the ship taking Skywalker, Obi-Wan, Leia, and Solo is captured by the very ship their secret plans were stolen to destroy. It's great writing, because, they have to escape it, so they can destroy it.
 
 Well I hope you took notes Skywalker. Because they got me! The antagonists have me in a Darth Blockbuster choke hold. And I'm in trouble.
 
-See, I broke the rules, and they sent their stormtroopers, and I was over powered. Not by superior reasoning, philosophy, or ethics. No, they over powered me because the extras joined them!
+See, I broke the rules, and they sent their stormtroopers, and I was over powered. Not by superior reasoning, philosophy, or ethics. No, they over powered me because some extras joined them!
 
 I'm here, like Rapunzel, trapped. I'm being well treated and feed, other than being forced to listen to red / blue cable news. Can you face Darth Blockbuster. Can you convince the extras I'm a good guy? Can you save me?
 
 Oh what did I do? I downloaded a movie from pirate bay.
 
-Hurry up! Blue / red cable news is showing protesters flying into a Climate Change Strike. I don't know how much longer I got, nevermind the polar bears. Although I think the bears will realize the stupidity before the walking bristol boards, with lots of air miles, do. Move it!
+Hurry up! Blue / red cable news is showing protesters flying into a Climate Change Strike. I don't know how much longer I got, nevermind the polar bears. Although I think the bears will realize the stupidity before the bristol boards with all the air miles do. Help!
 
 ## Skywalker Turns on His Lightsaber
 
@@ -23,65 +23,69 @@ Or better put, he broke their rules, and watched a digital movie. The first step
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r1mLa9Gk4Ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A, official reporter, talking to executives and artists complaining about a new tool. That's how the extras saw them. Okay, so we got the basics. Lets use Techvolution, to see if we can get free Obi-Wan, and change the extras mind.
+An official reporter, talking to executives and artists complaining about a new tool. That's how the extras saw them. Okay, so we got the basics. Lets use Techvolution, to see if we can get free Obi-Wan, and change the extras mind.
 
 ## Technological History of the Movies
 
-I'm sitting at this laptop. Trying to figure out how the movies technologically evolved. Wikipedia is great, this would take days or weeks at a library.
+It's funny how going to YouTube so quickly solved me problem. Again, I'm sitting at this laptop, trying to figure out how the movies technologically evolved, and all I need is Wikipedia, this would take days or weeks at a library.
 
-It's been 25 minutes and I've got some answers. Rubish indeed professors! So this is what we know.
+It's been 25 minutes and I've got many "good enough" answers, and added some of my own in return. Wikipedia is rubish indeed professors!
 
-Movies are a creation of three pieces of technology. Data transmission, data storage, and data viewing. Movies started when Thomas Edison's laboratory invented the kinetoscope in 1894. It could move pictures through a light source fast enough to give the impression of seamless movement. Hence the name "moving pictures", simplified as "movies".
+So this is what we know to help Obi-Wan escape.
 
-The kinetoscope was like a vending machine for movies. Customers would look through a peep hole to see clips of boxing matches, or dance routines. It was a popular noveltly, kinda like GIFs on Instagram. Edison owned the patents, and created the Motion Picture Patent Corporation, to make sure everyone in the young movie industry paid their patent dues.
+Movies are a creation of three pieces of technology. Data transmission, data storage, and data viewing. Movies started when Thomas Edison's laboratory invented the kinetoscope in 1894. It could move pictures through a light source fast enough to give the impression of seamless movement. Hence the name "motion pictures", simplified as "movies".
 
-After a few years MPPC's interference and legal threats, in what amounted to shakedowns, movie companies moved to Los Angeles to get away from Edison. And as new projector technology came, Edison lost his patent monopoly anyway, and the movie industry was free to grow in a place with good weather, and open spaces, great for outdoor shots.
+The kinetoscope was like a vending machine for movies. Customers would look through a peep hole to see clips of boxing matches or dance routines. It was a popular noveltly, kinda like GIFs on Instagram. Edison owned the patents, and created the Motion Picture Patent Corporation (MPPC) to make sure everyone in the young movie industry paid their patent dues.
 
-The new projectors were big enough to project unto rooms. Although reels weren't long enough yet to show long movies (they'd often jam). Movie theaters called Nickelodeons opened up (because admission cost a nickel). The movies were still novelties, showing horses running in fields, news reels, or sports highlights, but getting better.
+After a few years MPPC's interference and legal threats, in what amounted to shakedowns, movie companies moved to Los Angeles to get away. And as new projector technology came, MPPC lost its patent monopoly anyway, and the movie industry was free to grow in LA's good weather, open spaces, and no hierachies to keep antagonizing the new industry.
 
-By the 1920's film reels were long enough to show three act stories. Since sound couldn't be synch with the moving images, there was no spoken dialogue. Instead had captions and live music to communicate plot points.
+Technology kept improving. New projectors could show movies on huge screens. Although reels weren't long enough yet to show long movies (they'd often jam). With the new projectors, movie theaters called Nickelodeons opened up (because admission cost a nickel). The movies were still novelties, showing horses running in fields, news reels, or sports highlights, but getting better.
 
-In 1927 film was synchronized with sound. Thereafter, the movies had dialogue and music, and thus told full three act stories. once limited to a physical theatre, at any movie theatre in the world. Finally, a new tool was created.
+By the 1920's film reels were long enough to show three act stories. Sound still couldn't be synch with the moving images, so there was no spoken dialogue or music. Instead movies had dialogue captions and theatres had live music, to communicate plot points.
 
-While the tool certainly wasn't under control of the people, the people had much control. Their tastes and loves were catered to by the studio's. Studio chiefs like Harry Cohn, David O. Selznick, and Irving Thalberg obsessed over making functional stories. Which they did consistently by organizing the other protagonists, artists, technologists, technicians all responsible for bringing well-told stories to the people. Antagonists were restricted to religious people trying to force ethical standards on the storytelling.
+In 1927 film was finally synchronized with sound. Thereafter, the movies had dialogue and music, and thus told full three act stories that were no longer limited to a physical theatre. Any movie theatre in the world, could show any story it had the film for. The ability to show any story, was when a new tool was created.
 
-The people certainly felt movie majic. The movies attracted millions every week. Leading actors became stars. American culture was slowly told through the weekly attractions, all viewable for a ticket to the silver screen. Of course, all this technology was physical. Data storage, transport, and viewing was prints, light projectors, and delivery trucks.
+While the tool certainly wasn't under control of the people, the people had much control. Their tastes and loves were catered to by the studio's. Studio chiefs like Harry Cohn, David O. Selznick, and Irving Thalberg obsessed over making functional stories. They did this inside the studio system. The film industy's antagonists were mainly religious people, writing rules like the Hayes Code, to force ethical standards.
 
-To steal anything meant physical theft. Obi-Wan didn't do that. Let's keep going.
+The people certainly felt movie majic. The movies attracted millions every week. Leading actors became stars. American culture was slowly told through the weekly attractions, all viewable for a ticket to the silver screen. Of course, all this technology was physical. Data storage, transport, and viewing was physical film, light projectors, and delivery trucks.
 
-In 1948, when a new tool was born called television. Televisions used a different mixture of technologies. Huge magnetic tape reels stored content. Radio transmitted content over the airwaves. And televisions recieved the transmissions and displayed the content on screens. That's how broadcasters like NBC, ABC, and CBS started. People loved television.
+To steal anything meant physical theft. Was this what Obi-Wan did? I don't know. Let's keep going.
 
-Yet, still there wasn't any antagonists. Films and broadcast television were very expensive, and thus very centralized. There was no one yet with anything to protect.
+In 1948, a new tool was born called television. Televisions used a different mixture of technologies. Huge magnetic tape reels stored content. Radio transmitted content over the airwaves. And televisions recieved the transmissions and displayed the content on screens. Unlike the movies, television broadcasts from companies like NBC, ABC, and CBS, weren't physical objects. Either way, the people, slowly moving away from the cities packed with movie theatres, into the suburbs with a tv room, turned on the television to get their stories.
 
-From the 1950's to the early 1980's movie and television technologies improved. Film reels got clearer, color, widescreen, and even 3D; although film was still physical data. Likewise, televisions got bigger, and bandwidth improved. But, still the upgrades were technological. Thus, while some technologies improved, people couldn't choose, or produce, their own content. Thus, there wasn't a new tool yet.
+Television didn't have many antagonists making rules. Ethical standards were unofficially enforced by advertisers desire to sell to "middle America". Government did force stations to have news programs, and banned indecent content because televisions were broadcasted.
 
-Then came the 1980's. The magentic tapes the broadcasters stored their content on had gotten small, so small they were made into consumer products. Televisions now got a friend, the Betamac/VHS magnetic tape reader. It therefore cut out the broadcaster, who sued in 1984 and lost.
+From the 1950's to the early 1980's movie and television nothing much changed. Each industries technologies improved. Film reels got clearer, color, widescreen, and even 3D. Likewise, televisions got bigger, and bandwidth improved. Thus, people couldn't choose, or produce, their own content.
 
-Now when a person wanted to watch their own movie, they could buy or rent a video tape. Renting movies in the 1980's and 1990's was popular. The most successful video rental company took the name "Blockbuster"; the common term for popular movies.
+Then came new tools. The magentic tapes the broadcasters stored their content on had gotten small, so small they were made into consumer products. Televisions now got a friend, the Betamax/VHS magnetic tape reader. It therefore cut out the broadcaster, who sued Betamax for letting people record television and "time shift", and thereby broke copyright laws. The cast ended up in the Supreme Court, Sony Corp. of America v. Universal City Studios, Inc. in 1984. Sony won by one vote.
 
-It wasn't long before even more technology was unlocked, with DVD's and flatscreen televisions. DVD's worked similar to videotapes, except they were plastic disc whose information was digital. Meaning data was stored as "1 or 0", hence the world digital. Plasma or LCD flatscreens televisions were much bigger then tube televisions, and since they were digital too, they showed DVD content in great quality. Mixing DVD's and home theatres was a huge fad. Blockbuster rental stores spawned up everywhere. People drove miles, and paid millions, to watch the stories they wanted, and movie theatre attendence naturally dropped.
+Extras added the VCR to their televisions cyborgology. Now when a person wanted to watch their own content, or television show, or movie, they could record, buy or rent a video tape. Renting movies in the 1980's and 1990's was very popular. The most successful video rental company took the name "Blockbuster"; the common term for popular movies. The entertainment industry forgot about its objection to the VCR.
 
-The entertainment production and renting industry loved the windfall. People who wanted lots of stories could finally get them nearly on demand. If they bought the DVD's en masse. The technological tree for entertainment enabled home theatres because it was nearly all figital, digital screens, digital storage, but the distribution was still the same motor vehicle that dropped off film reels way back in the 1920's. Hence, people still needed to concentrate around movie theatres, or rental stores, i.e. the castles with the gatekeepres, to acccess their data.
+Home entertainment kept getting better. Soon came DVD's and flatscreen televisions. DVD's were more advanced CD's, and worked similar to videotapes, except they were digital. Meaning data was stored as "1 or 0", hence the word digital. Plasma or LCD flatscreens televisions were much bigger then tube televisions, and since they were digital too, they were High Definition.
+
+The people rushed to upgrade their cyborgology with DVD's and home theatres. Blockbuster rental stores spawned up everywhere. People drove miles, and paid millions, to watch the stories they wanted. Movie theatre attendence dropped.
+
+The entertainment industry's objection, once so strong it went to the Supreme Court, was totally forgotten. People spent billions on DVD players, flatscreens, and hundreds of DVD's. People's basements turned into libraries of DVD's. If they didn't buy, they rented. People who wanted lots of stories could finally get them nearly on demand. The industry loved the windfall
+
+They did't notice something obvious. Home theatres were completely digital, digital screens, digital storage, and digital content. Except one part was still physical. Like in the Kinectoscope, movie distribution was still physical content. While television programming increased their offerings, they were still broadcasters. Hence, people still needed to concentrate around movie theatres, rental stores, or TV guides, i.e. the castles with gatekeepers, to acccess their data.
 
 Until they didn't.
 
-The internet, the transfer of digital information that was used for email and webpages since the 1970's, had kept getting better and faster. And in the early 2000's the internet could finally transfer so many 1's and 0's, with hi-speed internet attached to personal computers, it could transfer the contents of a DVD faster then someone driving to pick one up. People could download movies onto their own computers. And within a few years, most people could stream movies in real time.
+The internet, the transfer of digital information that was used for email and webpages since the 1970's, had kept getting better and faster. And in the early 2000's the internet could finally transfer enough 1's and 0's, it could transfer the contents of a DVD faster then someone driving to pick one up. People could download, or stream, their own content.
 
-Here enters Netflix. At first Netflix mailed DVD's to people, yet still used the Netflix because they knew the internet was going to keep getting faster and let individuals stream their own content. It seemed obvious to Netflix internet streaming was the future. After all for 100 years, technology had kept making storytelling more easy to access. This lesson wasn't obvious to everyone. Gatekeepers think their job is to be gatekeepers, like Hugh telling Sophia reading is dangerous.
+Here enters Netflix. At first Netflix mailed DVD's to people, yet still used the Netflix because they knew the internet was going to keep getting faster. But not to the antagonists. Once again they found a problem with majic. Once it didn't keep them in control it was wrong.
 
-Please watch this clip. After 100 years of billions of consumer dollars buying movie tickets, televisions, speakers, home theatres, VHS, DVD's, the customers were called thieves. Just please remember the words of King Charles I, and other nobles, who couldn't fanthom no longer being gatekeepers to the castle.
+Despite the exact same technological trends hitting the music industry, and iTunes showing how it could be saved, the entertainment industry still antagonized the future.
 
-Because we hindsight everyone agrees home streaming is better then renting DVD's. Yet the entire movie industry disagreed. Instead of inserting digital data distribution (internet) along with digital data storage (DVD), and digital projection (LCD), they did the opposite. They made the DVD bigger with HD-DVD and Blu-ray. The industry was so stupid they couldn't even agree on a new DVD standard and expected customers to get two new players.
+In complete ignorance. Instead of inserting digital data distribution (internet) along with digital data storage (DVD), and digital projection (LCD), they did the opposite. They made the DVD bigger with HD-DVD and Blu-ray. The industry was so stupid they couldn't even agree on a new DVD standard and expected customers to get two new players.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r1mLa9Gk4Ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The change wasn't on technological. Netflix made quality stories again. The entertainment industry was no longer operated by storytellers, but executives who were simply good at raising the ranks of a hierarchy. Netflix made quality stories again, and that's the ultimate reason for its success. It made quality easy to watch at a fair price. Just like iTunes did.
 
-A official reporter, talking to an official executive, during an official news broadcast. Not a moment of reflection, even when they mention how the music industry was just "decimated" for the same reasons. The technological upgrades hit music son song files are smaller then video ones, otherwise the technological trends are the same. What you watched is humanity not mastering our ruling philosophy. A techvolution would make proactive changes to businesses based on the possibiliies of technology.
+Because the executives in power couldn't do that. Because they didn't know how to code programs, design applications, they fought society upgrading its tools. Despite over 100 years of technological development trending towards smaller and faster technology that empowers individuals, despite digital technology being used throughout the movie industry, despite the massive savings digital movie production and distribution the industry was benefitting from, the ruling nobility in the industry expected individuals to fucking drive to and from blockbuster everytime they wanted to watch one fucking movie.
 
-By the way, Hollywood owes itself most to a guy named Irving Thalberg. He ran MGM studios in the Golden Age of Hollywood. His productions were so good, it told everyone high quality is the industry's path to profitability. He was so good, the Oscars named their award for making lots of high end movies, in his name. The Thalberg Award, has been awarded once in a generation. Hollywood has no interest in making quality movies. Priracy has nothing to do with it, it's a structual problem, and being run by executives who think people have to choose their product.
+Just for perspective, every movie rented took 10 miles of driving. That means American's drove 600 billion miles every year renting DVD's. That's 90,000 accidents, and 1,000 deaths, costing 15 billion in compensation and repairs, nevermind the increasein traffic.
 
-And the ruling nobility getting enriched and empowered at the expense of the middle class is in ours. Despite over 100 years of technological development trending towards smaller and faster technology that empowers individuals, despite digital technology being used throughout the movie industry, despite the massive savings digital movie production and distribution the industry was benefitting from, the ruling nobility in the industry expected individuals to fucking drive to and from blockbuster everytime they wanted to watch one fucking movie.
-
-Pirates you might say! People are evil, people are lazy, people are thieves! Really?
+But the people were stealing! Just because it's digital doesn't mean it's not theft! It was against the rules to download movies! Pirates you might say! People are evil, people are lazy, people are thieves! Really?
 
  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script>
  <script type="text/javascript">
@@ -90,35 +94,18 @@ Pirates you might say! People are evil, people are lazy, people are thieves! Rea
 
 Then explain the graph above. If middle class Americans, Canadians are pirates, why didn't Blockbuster stores have steal bars? The same reason why they don't steal Netflix. Blockbuster was a fair deal, until data streaming was possible. Then Netflix was.
 
-The masses are _happy_ with Netflix because the player god did their job; use new technology to help people live better lives. Thats' why "pirates" paid for Netflix, because it used modern technology to help us live better, easier, affordable lives. Happiness is finding making microstories, in line with the grandstory of humanity. The masses became _unhappy_ with Blockbuster because they realized it makes our lives harder, managed, regulated, and expensive.
-
-When we hit the Digital Age in 1968, iTunes, Netflix, Steam and other digital distribution methods became possible. Still far off, but possible to start having a society that empowers individuals with open access, distributed, democratized technology. Tax forms, insurance claims, wedding invitations, doctor questions and answers, university lectures, textbooks, online voting, and so many other things were possible. The quick victory of Netflix shows how ready the masses are to upgrade their society's functions to the digital age. The happy ruling nobility are happy ignoring that, while the unhappy yearn to hurry up distributing the upgrades.
-
-And that's why I made you read a few pages of somewhat dull history. It's the essence of this book and the massive problem our society is enountering today; adapting to the capabilities of technological, and not expecting the old ruling philosophy to keep going.
+The people elected to download movies, because it was a upgrade available to their cyborgology. The only natural rule is natural selection. The people choose the best tool because with new majic, they were better cyborgs. It's not their job to wait for a industry to catch up to nature. But the other way around.
 
 ## Checks and Balances
 
-So streaming movies, was illegal and piracy. The official news broadcast said so, the official movie makers said so. Their own viewers, their own funders, the people whose money they were spending on many banquets and balls of The Oscars and Correspondence Dinners, were breaking the rules.
+When we hit the Digital Age in the 1970's, iTunes, Netflix, Steam and other digital distribution methods became possible. Still far off, but possible to start having a society that empowers individuals with open access, distributed, democratized technology. Tax forms, insurance claims, wedding invitations, doctor questions and answers, university lectures, textbooks, online voting, and so many other things were possible. The quick victory of Netflix shows how ready the masses are to upgrade to the digital age. The happy ruling nobility are happy antagonising the future instead.
 
-Of course, the ruling nobility adapted and now they sell digital streaming. So digital streaming is okay. That sounds like a change was made, based on the people's actions. What was it John Locke said about checks and balances on government. That the people can have political security of an all powerful Leviathan, while keeping individual liberty, if political power was divided between executive, legislative, judges, and the people voted their preferences.
+While the people were being "pirates". The entertainment had endless movie opening nights, talk shows, award shows, and launch parties. The Oscars, Correspondence Dinners, Emmy's, Golden Globes, Cannes Film Festival, Sundance Film Festival, Toronto International Film Festival, and so many others, all modern version of banquets and balls, with gates to keep you away, and rules put in place to make the good times going.
 
-So was digital streaming priacy. The economic government said it was. Until the people voted otherwise. That's the simple power of digital technology. It lets people control their own Leviathan.
+By the way, while the entertainment industry was calling regular people thieves from the party box, were lobbying the people's government to give them tax credits. Between 2000-2009, California went from having 2/3 of production, to 1/3. The entertainment industry went from state to state, country to country, moving to whichever charged the least tax. It's so low now, they basically pay no taxes.
 
-## Leviathan, Darth Vader, and Luke Skywalker on Main Street
+This has nothing to do with saving money. It's because the executives in charge know nothing about storytelling. They use special effects, mass marketing, remakes, sequals, celebrities, and gore porn, which all costs ever more money. Online downloading was merely a check and balance against their own incompetence.
 
-We're on a journey to understand society better. We need to understand all the changes that usually cause revolutions, so we can change society before these failures happen.
+## Decision
 
-And that's where this drawing came from. It shows the human story. The king is the player god, life, or Leviathan, who is really the shared consciouness of the community, filled with extras. Then there's Luke Skywalker and Darth Vader. While both are the protagonists of their own story. Life, has a clear winner. The one who helps invent, and spread new technology. That's why there really is a protagonist and antagonist to humanity's development. Revolutions happen when Darth Vader refuses to give up being a gatekeepers, once new technology destroys the job, with better technology. Like digital streaming did for movies, and Blockbuster vs Netflix. Vader refuses to return to being an equal member of the shared consciousness. And then there's concentration of castles, and distributed main st. Anarchy needs concentration for shared security, while technological development inevitably means distribution power to main street.
-
-Techvolution understands this recurring story. It lets us all see, in others and ourselves, when we're Luke Skywalker and Darth Vader. Not right away, not like some divine interpreation. But through engaging more inside microstories, to see which way the resolutions are trending. This lets the extras choose sides better.
-
-And that's the characters and setting of techvolution. To understand the journey of society, as we play the game of civilization, we must understand the story of these characters. And that leads us to the beauty of a well told story.
-
-“Man is born free; and everywhere he is in chains.” Jean-Jacques Rousseau wrote that in 1762, to help inspire people passed the confines of aged ruling philosophy. All he had was words to fight back with. If we want to step on Mars, cure cancer, stop global warming, we'll never do it with liberal free-market economics. Never. If fucking internet streaming was called criminal by its rulers, they'll never let our species advanced into the stars.
-
-So here's a video, that hopefully is much stronger than words. This ability, to proactively change ourselves to reach the stars. “Man is born free; and everywhere he is free.” Free of being subjugated by our own ruling philosphy, as we live a endless story of techvolution.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5KdE0p2joJw?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- bring up dark majic, ie advertising. trying to solve pain that doesn't exist, to continue the use of a bygone tool.
-  
+Well the choice was already made. The extras decided downloading online is good. They voted with their actions. They pushed technology forward, overtop antagonists objections, and forced them lazy industries to adapt. But, it doesn't matter. The rules were broken. Obi-Wan is captured by the nobility. How can we change their mind, to accept checks and balances, on their rule.
