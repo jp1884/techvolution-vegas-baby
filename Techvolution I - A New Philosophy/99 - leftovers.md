@@ -654,3 +654,15 @@ Thus, Skywalker we're doomed to the same fate. That's why we have to master the 
 ## Sid Meier's Civilization
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5KdE0p2joJw?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## APPLICATIONS
+
+Let's see what the full triangle looks like.
+
+![The Matrix](\../img\thewriter\triangle-the-matrix.png)
+**The Matrix:** The story is about machines that enslave humanity inside a virtual prison that looks like 1990's America. Humans are connected with a connection into our skulls. The real world is a dystopia and people are power generators for the machines.
+
+The antagonist machine leader likes the matrix, and defends the ruling philosophy of slavery. The protagonist Neo slowly realizes ways to master The Matrix's philosophy and overpowers the ignorant antagonists. The plot is about cutting the cord that lets the machines control human prisoners.
+
+![Star War](\../img\thewriter\triangle-star-wars.png)
+**Star Wars:** An entire galaxy is controlled by a evil Empire. Evildoers keep control with their superweapon Death Star. Meagre resistance fighters stole its schematics and might find a weakness. The antagonist is Darth Vader who needs to save the Death Star to keep the Dark Side on top of the eternal philosophy battle between Light and Dark Sides. The protagonist Luke slowly realizes how to master the Light Side and become strong enough to defeat Darth Vader. The plot depends of if Luke's missle will destroy the Death Star.

@@ -1,23 +1,27 @@
 
 # King's Choice
 
+## Place in line
+
 Once peace and security returned to western Europe, the nobility's storyline ended. Thus, the nobility should have proactively done what Rousseau said, and return to being equal members of a peaceful, self-governing, democratic, society. They didn't of course. And history used many violent revolutions to right that wrong.
 
 Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. It's like a gremlin holding an electrical cord connecting your thoughts and your tongue; sometimes the electricity flows, and sometimes it doesn't. In practice this means some words are easy to say, some are ~~difficult~~ hard, and some decide which at the last mili-mili-mili-second.
 
-Talking with a stutter is like playing guitar, except the music notes are written on the fly by a drunk friend. The randomness of sayable, non sayable, and maybe sayable, rush toward the speaker in real time. Fail and you stutter. And far worst is getting  _that_ look from people when it happens, the "what the fuck is wrong with you?" look. Succeed and people hear the wonderful music of smooth talking.
+Talking with a stutter is like playing guitar, except the music notes are written on the fly by a drunk tone-deaf friend. The randomness of sayable, non sayable, and maybe sayable words rush toward the speaker in real time. Fail and you stutter. Which sucks. One's body convulses. It's like git with a mini-stun gun.
+
+What's far worst is getting  _that_ look from people. The "what the fuck is wrong with you?" look. But when you jump around fast enough, people hear the wonderful music of smooth talking.
 
 Hello, my ~~name~~ I go by John-ne. I wa-want ~~can~~ want to help ~~master~~ human evol-ution. I've been ~~writ~~ trying to write this book for ~~about~~ ah ~~five~~ six months...
 
-The prospect of talking, except to yourself and a dog, which Charles had two of, causes huge anxiety as you can imagine. _The King's Speech_ showed it well. The impediment usually forces a person to be shy, passive, eager to please, and come up with weired reasons for their erratic speaking like hand gestures, random silence, drinking, and swear words (which for some reason never cause a stutter). It's entirely possible King Charles' relationship with Parliament was so bad because he simply didn't want to talk with them. Not that he would ever admit he had a problem. After all, he was a king!
+The prospect of talking, except to yourself and a dog, which Charles had two of, causes huge anxiety. _The King's Speech_ showed it well. The impediment usually forces a person to be shy, passive, eager to please, and come up with weired reasons for their erratic speaking like hand gestures, random silence, drinking, and swear words (which for some reason never cause a stutter). It's entirely possible King Charles' relationship with Parliament was so bad because he simply didn't want to talk with them. Not that he would ever admit he had a problem. After all, he was a king!
 
-I know this all because luckily enough (kidding) I have the same affliction as King Charles. It was the reason I got a job in a car insurance claim department. After a Vice President at an old company secretly told my supervisor I wasn't allowed to talk to customers, for fear of embarrasing the company, I was like shit I guess I don't have this damn gremlin under control. I wasn't even that mad about it (although I was that they were not upfront). I never told anyone I had the impediment, so despite therapy as a kid, it was obviously still a problem.
+I know this all because luckily enough (kidding) I have the same affliction as King Charles. It was the reason I got a job in a car insurance claim department. After a Vice President at an old company secretly told my supervisor I wasn't allowed to talk to customers, for fear of embarrasing the company, I was like shit I guess I don't have this damn gremlin under control. I wasn't even that mad about it (although I was that they lied about it for over a year). I never told anyone I had the impediment, so despite therapy as a kid, it was obviously still a problem.
 
-So fuck it. Jump into the deep end and sink or swim. A car insurance claim call-centre was like the Olympic trials for a stutterer. So I jumped in and had a daily workout of huge emotional outbursts from customers, all day phone calls, customer service expectations, no "outs" like swear words, booze, or wonky behavior to hide behind.
+So fuck it. Jump into the deep end and sink or swim. A car insurance claim call-centre was like the Olympic trials for a stutterer. So I jumped in and had a daily workout of all day phone calls, huge emotional outbursts from customers, customer service expectations, no "outs" like swear words, booze, or wonky behavior to hide behind.
 
-And it was far worse then I thought. The insurance company would ring a monotone digital "bell" all day because... I don't know, to de-sensitize us to customers pleas for more money, or to bully us to hurry up maybe. Management used it as punishment; "answer more phone calls or we'll make the bell louder!". I'm being serious by the way. Back then, car adjusters were often more stressed then the person who just had a car crash.
+And it was far worse then I thought. The insurance company would ring a monotone digital "bell" all day because... I don't know, to de-sensitize us to customers, or to make us hurry up maybe. Management used it as punishment; "answer more phone calls or we'll make the bell faster and louder!". I'm being serious by the way. We were often more stressed then the person who just had a car crash.
 
-Whatever the reason, DING-DING-DING-DING all day, which gave people who weren't stutterers huge anxiety, breakdowns, sick leaves; one guy had a frickin heart attack. Most days like the stock market crashed. Some calls were actually nice, some were horrible, most the time you and the caller just wanted to hurry up and go about your day.
+Whatever the reason, DING-DING-DING-DING all day, which gave people who weren't stutterers huge anxiety, breakdowns, sick leaves; one guy had a frickin heart attack. Most days were like the stock market crashed. Some calls were actually nice, most the time you and the caller just wanted to hurry up and go about your day.
 
 Super-shock speech therapy! After about a year I didn't have to massage my jaws at night to release it from all the teeth shattering jaw-clenches I did to divert vocal stuttering. I was cured!
 

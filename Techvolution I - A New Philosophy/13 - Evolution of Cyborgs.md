@@ -1,7 +1,7 @@
 
 # The Magic of Evolution
 
-Well young Skywalker, before you go off and face Darth Blockbuster, you have to learn some things. The most important being the all powerful energy field inside every lifeform. No not the Force. I mean evolution.
+Well young Skywalker, the first step is to defeat Darth Blockbuster. But before you go off and face him, you have to learn some things. The most important being the all powerful energy field inside every lifeform. No not the Force. I mean evolution.
 
 Evolution empowers life by giving every new lifeform a slightly different variation. This way life can constantly test for environmental changes in things like water levels, temperature, and food supply. The variations who can't cut it die off, while the fittest survive. This natural selection is how evolution finds which lifeforms best represent life on Earth.
 
@@ -27,7 +27,7 @@ Unlike evolution, the trick is not magic, because extras understand they're drop
 
 Changing our tools is so wonderfully brave, mysterious, and difficult, I call it majic. Pronounced like magic, but different so we know it's the free choice of a regular person to use a new tool and continue humanity's evolution.
 
-Think of it like different bonding agents. Carbon atoms bond other atoms to form molecules. Genius in the protagonists minds bonds existing ideas into a new tool. And its majic when extras bond with a new tool.
+Think of it like different bonding agents. Carbon atoms bond other atoms to form molecules. Genius in the protagonists minds bonds existing ideas into a new tool. And its majic when extras bond with a new tool. It's unobstructed, free, majic that will build our Lifestar.
 
 Keep in mind, innovation is not our goal. Spreading new tools to the masses it. Techvolution is the ruling philosophy letting them decide for themselves what tools they need. The question for us young Skywalker, is how we do encourage the extras majical connection with new tools, when today's rules say it's wrong?
 

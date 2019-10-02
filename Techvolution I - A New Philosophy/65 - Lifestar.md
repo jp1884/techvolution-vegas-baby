@@ -1,5 +1,7 @@
 # CHAPTER FOUR - THE PLOT
 
+THIS LIFESTAR IS THE MACGUFFIN SO TO SPEAK. IT'S A TOOL THAT UPDATES THE DEATHSTAR/RULEBOOK OF DB.
+
 ## Galileo
 
 In the midst of the Scientific Revolution, the ruling philosophy was suffering another attack. One of its most important DNA points was being questioned. The Earth moved. Quite the statement, the Eden of life, was moving, and spinning, like a rock being thrashed around by an ocean called space.

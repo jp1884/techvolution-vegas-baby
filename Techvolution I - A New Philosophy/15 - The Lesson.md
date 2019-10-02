@@ -1,7 +1,7 @@
 
 # THE LESSON
 
-This is what we now so far Skywalker. Society needs a ruling philosophy. Darth Blockbuster fights to control it. When he does, he write rules to keep the tools he controls, and therefore himself, in power. Corporate manuals, univeristy guidelines, social justice blogs are among the pages of his rule book. These rules interfere with regular people majically forming bounds with new tools.
+Despite our problems with our own, society always needs a ruling philosophy. Darth Blockbuster fights to control it. When he does, he write rules to keep the tools he controls, and therefore himself, in power. Corporate manuals, univeristy guidelines, social justice blogs are among the pages of his Death Star rule book. These rules interfere with regular people majically forming bounds with new tools.
 
 Maybe. Whose to know which rules are the bad ones. Maybe they're interfering with majic. Maybe they're just good rules. Darth Blockbuster hardly proclaims he wants to hurt humanity's evolution. So we need to clearly identify the difference between majic and rules, to know the difference.
 
@@ -75,12 +75,12 @@ Frederick Douglass is a true Jedi Master. His bravery, intelligence, and persist
 
 Sophia connected Douglass with books. She wasn't told to. She did it because we naturally love teaching tools. Whatever our joys are, from reading, knitting, or fishing, we love explaining them. We love it, because performing majic is even cooler than a magic show.
 
-Contrast these two scenarios. When a magician makes a playing card disappear, or escapes from a straight jacket, we're awed because the magician made us wonder. However, when a majician connects someone with reading, or computer programming, they've similarly performed, but not a trick; they've upgraded someone's cyborgology and effectively created a new person.
+Contrast these two scenarios. When a magician makes a playing card disappear, we're awed because the magician made us wonder. However, when a majician connects someone with reading, they've similarly performed, not a trick; they've upgraded someone's cyborgology and effectively created a new and improved person.
 
 Yet human made rules _sometimes_ say upgrading to a new tool is wrong. Peasant farmers couldn't have a musket, medieval parishoners couldn't read a science book, a 1990's kid couldn't download a digital song. Today millions of tired mothers can't telecommute. Why?
 
-There is no easy answer. The lesson Skywalker is it'll never be easy to know the difference between good and bad rules. There are millions of rules, that change per location and time. Our best judge is majic. It naturally makes us smile. From teaching a kid to walk, to teaching a grandmother to use Skype and watch her grandkids first steps, teaching and learning new tools opens our hearts because it solves problems, and improves our way of life.
+There is no easy answer. The Death Star of rules doesn't proclaim itself evil. The lesson Skywalker is it'll never be easy to know the difference between good and bad rules. There are millions of rules. Our best judge is majic. It naturally makes us smile. From teaching a kid to walk, to teaching a grandmother to use Skype and watch her grandkids first steps, teaching and learning new tools opens our hearts because it solves problems, and improves our way of life.
 
 So, when teaching or learning a new tool, and someone steps in your way with a rule, ask yourself if you feel majic, and if you do, ask the rulemaker why he doesn't. Perhaps there's a good reason. But keep Sophia in mind. Performing majic made her fell good, while following the rules only made her feel safe.
 
-Safety is fleeting Skywalker. No ruling philosophy lasts forever, thus all rules are set to expire. Majic never will. Look at poor Sophia. She gave one of our greatest writers and orators his start, yet she lived a miserable life watching him succeed because she believed she broke the rules. That should help you decide which rules are worth following.
+Safety is fleeting Skywalker. No ruling philosophy lasts forever, thus all rules are set to expire. Majic never will. Look at poor Sophia. She gave one of our greatest writers and orators his start, yet she lived a miserable life watching him succeed because she believed she broke the rules. That should help you decide which rules are worth following. Expecially because only with majic, can we build our Lifestar.
