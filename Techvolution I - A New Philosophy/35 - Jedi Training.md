@@ -2,27 +2,31 @@
 
 ## Introduction
 
-Skywalker, you're doing well. But if you're going to topple Darth Blockbuster, you need to learn the advanced stuff. In the first battle scene, the one with Wikipedia, we learned new technology is made into new tools. When a new tool is created, there's a battle between protagonists and antagonists, both reaching for the new tool to make themselves the winner.
+Skywalker, you're doing well. But if you're going to topple Darth Blockbuster, you need to learn the advanced stuff. In the first battle scene, the one with Wikipedia, we learned how new technology is made into new tools, and when a new tool is created, there's a battle between protagonists and antagonists, both reaching for the new tool to make themselves the winner.
 
-Europe's divine nobles kept winning this battle, delaying the distribution of new tools power. The nobles spent society's money on their personal banquets, balls, and palaces, until the people revolted with bent up rage. With the benefit of hindsight, the American and French Revolutions are obvious to us. But in real-time, they weren't. It's very hard to interpret the society you're living in. It's not like the nobles wanted to have their heads chopped off.
+Europe's divine nobles kept winning this battle. The nobles spent society's money on their personal banquets, balls, and palaces, until the people revolted with bent up rage. With the benefit of hindsight, the American and French Revolutions are obvious to us. But in real-time, they weren't. It's very hard to interpret the society you're living in. It's not like the nobles wanted to have their heads chopped off.
 
-So, how can we interpret our society better. Ideally we'd have a microscope for society. Fuck it, let's build one. If the 
+So, to interpret our society better we need a tool. As we're destroyng the Death Star, we need to replace its rules with better answers from our Life Star. Like a telescope or microscope replaced human made rules about the Universe and Nautre, the Life Star will replace the human made rules, with answers rooted in Nature and empower us to see and understand our society better.
 
-We already have the tools, but we need to know how to design and calibrate the microcope. The question is, how can we tell if we're distributing the power of new tools or not, in near real-time. Once we understand this question, we can topple Darth Blockbuster, before he causes a revolution of bent of rage.
+The Life Star starts by learning the power of stories.
 
 ## Storytelling Indicators
 
 Here's why stories increase our insight into our society.
 
-A story is a protagonist fighting to solve a problem an antagonist defends. They fight in three parts. The first is an introduction to the problem and characters. The second is the battle between good and bad sides. The third part is the conclusoin, where we find out which side will win.
+A story is a protagonist fighting to solve a problem an antagonist defends. They fight in three parts. The first is an introduction to the problem and characters. The second is the battle between good and bad sides. The third part is the conclusoin, where we find out which side wins.
 
 In good storytelling, be it fairy tale, romance, or comedy, the sequence of events must be unexpected enough to be interesting, yet logical enough to be believable. Balancing the two is the art of good storytelling because it makes audiences wonder, and care, what's going to happen next.
 
-So, stories surprise us, but at the same time, they need to be logical. That means every story element needs a reason to exist, even if we don’t initially understand it. And here’s the connection with Techvolution and our microscope. Because understanding all the reasoning hidden in stories, helps us understand all the reasoning hidden in our society.
+So, stories surprise us, but at the same time, they need to be logical. That means every story element needs a reason to exist, even if we don’t initially understand it. And here’s the connection with Techvolution and our Life Star. Because understanding all the reasoning hidden in stories, helps us understand all the reasoning hidden in our society.
 
-Because we solve problems with new tools. Inventing, and distributing new tools is a story. One is fueld by genius, the other by majic, both have antagonists. To master these stories, we have to fully understand all stories. Once we we do, we'll help the extras choose which side they'll support by giving them a microscope to better understand our society.
+Because we solve problems with new tools. Inventing, and distributing new tools is a story. Invention is fueld by genius, distribution by majic, and both fight antagonists to be created. To master these stories, we have to fully understand stories.
 
-What stor
+Stories are valuable because they explain why humans act the way we do. The human subconscious will always try to find meaning to any series of events, be it a movie, or a life. The conscious mind will always perceive a series of events. Thus, if a story is logical story, an audiences unconsicous and conscious minds are in alignment, a link develops between the story, and the viewer. When a story isn't logical, is a bad story, it requires bullshit to keep the audience engage. Like how modern blockbuster movies pour on more special effects and stars. The stories suck, but the audience is distracted with the spectacle of explosions, sex, gore porn, and celebreties.
+
+This same thing happens in human societys. When society's story is logical, people inside will function without too much oversight. When however society is non-functioning, spectacle is used to distract the people, and rules are used to keep them in line.
+
+Now, we have to breakdown stories, so we can later make the Life Star.
 
 ## Story Parts
 

@@ -23,8 +23,12 @@ Civilization story: The invention of new technology and creation of new tools to
 
 Protagonists: people who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. We call their leaders trailblazers who often skirt the rules; Nikola Tesla, Steve Jobs, Michael S. Hart, Bill Gates, Elon Musk.
 
-Antagonists: people who selfishly resist new tools to defend their wealth, power, and prestige. Often called establishment or elites, antagonists usually manage companies or institutions based on dated technologies and think working on the frontline is beneath them. They hide behind rules, which they work to control. We don't often individually identify them. I invented "Darth Blockbuster" so we can.
+Antagonists: people who selfishly resist new tools to defend their wealth, power, and prestige. Often called establishment or elites, antagonists usually manage companies or institutions based on dated technologies and think working on the frontline is beneath them. They work to control rule making so they can hide behind them. We don't often individually identify them. I invented "Darth Blockbuster" so we can.
 
 Extras: everybody in the middle of a battle between antagonist and protagonist. Because they have no direct loyalty to either side or their tools, extras can pick winners and losers. Usually extras are in the middle class; not so poor as to be desperate, but not so powerful they want to keep the world the same. Sadly, extras don't realize their power.
 
+Death Star: Darth Blockbuster's rule book inside countless government regulations, corporation manuals, and social etiquette that prevent new tools being used by people.
+
 Techvolution: a new philosophy empowering seemless human technological evolution by ridding Darth Blockbuster of his power, by empowering extras to decide when society should upgrade our tools.
+
+Life Star: a microscope in thought, made to let people see a world using Techvolution as its rulig philosophy.
