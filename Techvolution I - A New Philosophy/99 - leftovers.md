@@ -666,3 +666,19 @@ The antagonist machine leader likes the matrix, and defends the ruling philosoph
 
 ![Star War](\../img\thewriter\triangle-star-wars.png)
 **Star Wars:** An entire galaxy is controlled by a evil Empire. Evildoers keep control with their superweapon Death Star. Meagre resistance fighters stole its schematics and might find a weakness. The antagonist is Darth Vader who needs to save the Death Star to keep the Dark Side on top of the eternal philosophy battle between Light and Dark Sides. The protagonist Luke slowly realizes how to master the Light Side and become strong enough to defeat Darth Vader. The plot depends of if Luke's missle will destroy the Death Star.
+
+## Checks and Balances in the entertainment industry
+
+When we hit the Digital Age in the 1970's, iTunes, Netflix, Steam and other digital distribution methods became possible. Still far off, but possible to start having a society that empowers individuals with open access, distributed, democratized technology. Tax forms, insurance claims, wedding invitations, doctor questions and answers, university lectures, textbooks, online voting, and so many other things were possible. The quick victory of Netflix shows how ready the masses are to upgrade to the digital age. The happy ruling nobility are happy antagonising the future instead.
+
+While the people were being "pirates". The entertainment had endless banquets and balls. Movie premieres, talk shows, award shows, and launch parties. The Oscars, Correspondence Dinners, Emmy's, Golden Globes, Cannes Film Festival, Sundance Film Festival, Toronto International Film Festival, and so many others, all modern version of banquets and balls, with gates to keep you out, and rules put in place to make the good times going.
+
+By the way, while the entertainment industry was calling regular people thieves from the party box, they were lobbying the people's government to give them tax credits. Between 2000-2009, California went from having 2/3 of production, to 1/3 because they didn't give in. The entertainment industry went from state to state, country to country, moving to whichever charged the least tax. It's so low now, they basically pay no taxes.
+
+Also, you know the string of company names before a movie. Lile Acme Entertainment, those are tax shelters. Companies studios setup to make this one movie. Acme pays the studio a fee for the licensing rights of the story. Through a huge array of creative accounting, Acme always loses money, avoid taxes, and the studio keeps it fee.
+
+Creative accounting, keeping wages low, and increasing prices on regular people is what defines a succesful movie executive. Old executives, like Harry Cohn, David O. Selznick, and Irving Thalberg were master storytellers. No surprised, since the 1970's, movie executives can't tell good stories. They use special effects, mass marketing, remakes, sequals, celebrities, and gore porn, to hide that fact. I'll let John Wayne explain it.
+
+  > All the real motion picture people have always made family pictures. But the downbeats and the so-called intelligentsia got in when the government stupidly split up the production companies and the theaters. The old giants like Mayer, Thalberg, even Harry Cohn, despite the fact that personally I couldn't stand him—were good for this industry. Now the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it
+
+Online downloading was merely a check and balance against antagonists. Once a company came along made a new tool that distributed the power to the people, the people happily formed a majic bond with it. And if they get abused again, the people know where to go to check the excess.

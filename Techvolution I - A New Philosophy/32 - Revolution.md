@@ -1,13 +1,15 @@
 
 # Revolution
 
-Skywalker, you look tense. I get why. Revolutions are tough. Maybe we should get the bristol boards out, smear the face paint, and fight! Fight for free college education! Fight for less regulations! Fight for affordable health insurance! Fight for tax cuts! Let's go march and yell!
+Skywalker, you look tense. I get why. Revolutions are tough. Maybe we should get the bristol boards out, smear the face paint, and fight! Fight for free college education! Fight for less regulations! Fight for affordable health insurance! Fight for tax cuts! Let's march and yell!
 
-What color do you want. See the trap there? You can't win. Whatever color you pick, you pick a hopeless fight. There is no answer for contemporary problems using old philosophies. I know it's easy and comfortable, but if you want that, cable news and their wise pundits are waiting.
+What color do you want. See the trap there? No matter how hard one side pushes, the other side matches. A recipe for inaction, which Darth Blockbuster funds to keep himself in power.
 
-We're inspired by, but not repeatting, _Les Miserables_. Fighting for change doesn't mean to grab hold of the commanding heights of limited tools. We have digital tools. We can make endless products and apps to solve problems of each individual person. Once we have Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure.
+There is no answer for contemporary problems using old philosophies. I know red /blue is easy and comfortable, but if you want that, cable news and their wise pundits are waiting.
 
-We might have too choices actually. Windows or Mac? iPhone or Android? Tesla or Ford? Car or walking? Mailing wedding invitations, or call and ask your friends to the party? Milk or rice milk? What shoes to buy. Which podcasts to listen to. Should you really skip university, and self-learn? If the generic "American Dream" is bad, the specific one is daunting. We have to filter the good choices and tools, from the bad.
+So keep the marches and protests of red / blue out of your mind. We're inspired by, but not repeatting, _Les Miserables_. Fighting for change doesn't mean to grab hold of the commanding heights of limited tools. We have digital tools. We can make endless products and apps to solve each peron's individual problems. Once we have Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure.
+
+We might have too many choices actually. Windows or Mac? iPhone or Android? Tesla or Ford? Car or walking? Uber of Lyft? Mailing wedding invitations, or call and ask your friends to the party? Milk or rice milk? What shoes to buy. Which podcasts to listen to. Should you really skip university and self-learn? If the generic "American Dream" is bad, the specific one is daunting. We have to filter the good choices and tools, from the bad.
 
 We will. And we'll use Rousseau to do it.
 

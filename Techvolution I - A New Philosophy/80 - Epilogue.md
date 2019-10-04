@@ -7,31 +7,29 @@ My app. Using modern web development, it took but a few weeks of work. Take some
 
 The tool wasn't polished because new tools never are. It was, would have been, so effective because it came directly from the frontline. A place far away from today's ruling philosophy.
 
-Here's how it worked. Today's car insurance claim system depends on drivers exchanging information like names or insurance policy numbers after a car accident. Drivers are scared and frazzled so they usually don't. My adjusting job was talking to these drivers to process their insurance claims. The one supposed to return drivers back to normal. Or at least as best to normal as money can get them. A big problem was simply knowing who the other driver and adjuster were. Since we often didn't know, we had to search for it, literally calling around, or hoping someone calls you. Delays pile up like crazy.
+Here's how it worked. Today's car insurance claim system depends on drivers exchanging information like names or insurance policy numbers after a car accident. Drivers are frazzled and scared of strangers, so they usually don't. My adjusting job was talking to these drivers to process their insurance claims. The one supposed to return drivers back to normal. Or at least as best to normal as money can get them. A big problem was simply knowing who the other driver and adjuster were. Since we often didn't know, we had to search for it, literally calling around, or hoping someone calls you. Delays pile up like crazy.
 
 Adjusting sucks. The only tools we adjusters had are telephone, email, voicemail, checkbook, google, and a supervisor telling us to hurry up or get fired. Beyond st-st-stress ~~stressful~~, very emotionally taxing.
 
 Until you speak with a driver who is a real person.
 
-Real people because their accident wasn't an inconvenience, but a life changing horror. Maybe they lost an arm, or their friend is in the Intensive Care Unit, or their kid burned alive twelve hours ago.
+Real person because their accident wasn't an inconvenience, but a life changing horror. Maybe they lost an arm, or their friend is in the Intensive Care Unit, or their kid burned alive twelve hours ago.
 
-You're mind disregards Darth Blockbuster the moment you talk to this real person. They have a problem and your soul wants to help.
+You're mind shuts Darth Blockbuster up the moment you talk to this real person. They have a problem and your soul wants to help.
 
-Why did this happen? That's all they want to know. Was someone trying to beat a red light? Was the road not salted for ice. Was it drunk driving? What's the reason for the sudden terror of pain. Better the knowing why, is knowing it won't happen again.
+Why did this happen? That's all the driver want to know. Was someone trying to beat a red light? Was the road not salted for ice. Was it drunk driving? What's the reason for the sudden terror of pain. And every single grief stricken driver feels that better than knowing why the accident happened, is knowing it won't happen again.
 
-My app combined several technologies. Email, internet, GPS, google maps, and web apps, to make a new tool.
-
-It let insurance adjusters post an accident on a google map, and verified their identity by their work email. Since every accident shares the GPS coordinates, all adjusters, regardless what drivers do, can find each other. It's minimal operating cost was paid for by rental car companies and repair shops, who loved the ability to email invoices directly to adjusters without have to call first.
+My app combined several existing technologies, email, internet, GPS, google maps, and web apps, to make a new tool. It let insurance adjusters post an accident on a google map, and verified their identity by their work email. Since every accident shares the GPS coordinates, all adjusters, regardless what drivers do, can find each other. It's minimal operating cost was paid for by rental car companies and repair shops, who loved the ability to email invoices directly to adjusters without have to call first.
 
 A simple new tool that only someone on the frontline would ever feel the pain to make.
 
-Society would have save hundreds of millions in insurance claim operating costs. That's cool. Adjusters's would save hours of their day. That's cool too. But this is the part worth fighting over. With my app, for the first time, we'd have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, and many other databases. We'd finally learn why car accidents happens, and start to fight back.
+Society would have save hundreds of millions in insurance claim operating costs. That's cool. Adjusters's would save hours of their day. That's cool too. But this is the part worth fighting over. With my app, for the first time, we'd have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, demographics, and many other databases. We'd finally learn why car accidents happens, and start to fight back.
 
 This database doesn't exist today. So when branches grow over stop signs, tires are faulty, intersections jam up too much, roads aren't salted, or anything else repeatedly causing accidents, we don't even know.
 
-With machine learning and artifical intelligence, we'd find trends to the millions of accidents, and tens of thousands of deaths, that happen every year. Who loses?
+With machine learning and artifical intelligence, we'd find trends to the millions of accidents, and tens of thousands of deaths that happen every year. Who loses?
 
-People happy with the way things are. Seeing the blank faces, the clueless looks, the complete arrogance of the executives, lawyers, marketers, and consultants who stood in the way of the frontline workers and the unlucky ones grieving in pain waiting for this solution, merged years of political theory in my mind, and let me see a new ruling philosophy called Techvolution clearly in my head.
+People happy with the way things are. Seeing the blank faces, the clueless looks, the complete arrogance of the executives, lawyers, marketers, and consultants who stood in the way of the frontline workers and the unlucky ones grieving in pain waiting for this solution, merged years of political theory in my mind, and let me see a new ruling philosophy called Techvolution clearly in these words.
 
 It was still hard writing this book. It was condensing so much history and political theory in such a short space. I was mentally very tired and despite indulging in Jack Jones' "The Impossible Dream" too much, a little bitter. Then I watched an episode of Netflix's _Black Mirror_ and went back to work.
 

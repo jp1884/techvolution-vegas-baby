@@ -5,13 +5,11 @@
 
 In the 1970's the transistor, internet, computer monitors, and other digital technology, started to leave labs and research centres and make their way into products. Finally, after centuries of limited tools, society had ones cheap enough to mass produce, yet powerful enough to change our way of life. Of course, that's when Darth Blockbuster appeared and went to work defending his way of life.
 
-Some examples. In the 1970's AT&T defended their telephone monopoly by successfully lobbying to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by suing home video recorders. In 2001, the music industry defended music Compact Discs by suing digital songs. Throughout society the antagonists found ways to prevent the majical possibilities digital tools offered society to technologically evolve.
+Some examples. In the 1970's AT&T defended their telephone monopoly by successfully lobbying government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by unsuccessfuly suing home video recorders. In 2001, the music industry defended music Compact Discs by successfully suing digital songs. Throughout society the antagonists found ways to prevent the majical possibilities digital tools offered society to technologically evolve.
 
-The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to improve digital songs with iTunes. Music executives had already tried and failed horribly. With no options, and despite the supposed crisis of Napster, Jobs said this about dealing with music executives "I never spent so much of my time trying to convince people to do the right thing for themselves".
+The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to improve digital songs with iTunes. Music executives had already tried and failed horribly. With no options, and despite the supposed crisis of Napster, Jobs said he'd " never spent so much of my time trying to convince people [music exceutives] to do the right thing for themselves".
 
-The problem wasn't Napster. It was Darth Blockbuster. New tools questioned who should be on top. So the the people on top resisted change, even from Steve Jobs.
-
-From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Here's how it breaks down.
+The problem wasn't Napster. It was Darth Blockbuster. New tools questioned who should be on top. So the the people on top resisted change, even from Steve Jobs. From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Here's how it breaks down.
 
 ## How New Tools Start the Fight
 

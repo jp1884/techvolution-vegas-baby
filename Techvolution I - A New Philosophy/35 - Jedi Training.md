@@ -6,7 +6,7 @@ Skywalker, you're doing well. But if you're going to topple Darth Blockbuster, y
 
 Europe's divine nobles kept winning this battle. The nobles spent society's money on their personal banquets, balls, and palaces, until the people revolted with bent up rage. With the benefit of hindsight, the American and French Revolutions are obvious to us. But in real-time, they weren't. It's very hard to interpret the society you're living in. It's not like the nobles wanted to have their heads chopped off.
 
-So, to interpret our society better we need a tool. As we're destroyng the Death Star, we need to replace its rules with better answers from our Life Star. Like a telescope or microscope replaced human made rules about the Universe and Nautre, the Life Star will replace the human made rules, with answers rooted in Nature and empower us to see and understand our society better.
+So, to interpret our society better we need a tool. And that's our Life Star. It will give extras better rules to follow, because their rooted in Nature. Like a telescope or microscope replaced human made rules about the Universe and Nautre, the Life Star will replace the human made rules, with answers rooted in Nature and empower us to see and understand our society better.
 
 The Life Star starts by learning the power of stories.
 
@@ -16,7 +16,7 @@ Here's why stories increase our insight into our society.
 
 A story is a protagonist fighting to solve a problem an antagonist defends. They fight in three parts. The first is an introduction to the problem and characters. The second is the battle between good and bad sides. The third part is the conclusoin, where we find out which side wins.
 
-In good storytelling, be it fairy tale, romance, or comedy, the sequence of events must be unexpected enough to be interesting, yet logical enough to be believable. Balancing the two is the art of good storytelling because it makes audiences wonder, and care, what's going to happen next.
+In good storytelling, be it fantasy, romance, or comedy, the sequence of events must be unexpected enough to be interesting, yet logical enough to be believable. Balancing the two is the art of good storytelling because it makes audiences wonder, care, but comprehend, what's going to happen next.
 
 So, stories surprise us, but at the same time, they need to be logical. That means every story element needs a reason to exist, even if we don’t initially understand it. And here’s the connection with Techvolution and our Life Star. Because understanding all the reasoning hidden in stories, helps us understand all the reasoning hidden in our society.
 
