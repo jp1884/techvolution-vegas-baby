@@ -1,6 +1,10 @@
 
 # The Rationality of Irrationality, and Walking on Eggshells
 
+- outsiders have perspection.
+- society needs genetic outsiders, who can't accept the rules, because they're irrational
+- when society is irrational, individual irrationality is a chance to right the ship.
+
 ## The Rationality of Irrationality
 
 The Sun used to rotate the Earth. Every birthday party was a celebration the Sun revolved around you. The Earth was stationary, and the stars, galaxies, and Universe that surround our little solar system was basically a lightshow. That's all we could see with our eyes.
