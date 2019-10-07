@@ -23,9 +23,9 @@ Charles didn't budge. He was the descedant of 1,000 years of noble blood. He was
 
 Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. It's annoying to listen to. Like your speaker wire is frayed, and the music is choppy.
 
-That's because talking with a stutter is like playing guitar with music notes written on the fly by a gremlin. Some words are easy to say, some are ~~difficult~~ hard, and some decide which at the last mili-mili-mili-second. The stutterer has to jump around the words in real time. Fail and you miss a beat.
+That's because talking with a stutter is like playing guitar with music notes written on the fly by a gremlin. Some words are easy to say, some are ~~difficult~~ hard, and some decide which at the last mili-mili-mili-second. The stutterer has to jump around the words in real time. Fail and you miss a --- beat.
 
-But a stutter isn't just pauses. Stuttering feels like getting hit with a stun gun, or having a mini-seizure. You're body seizes. Your neck tenses. You stop breathing. It's horrible and it can happen every fourth word.
+But a stutter isn't just pauses. Stuttering is like getting hit with a stun gun or having a mini-seizure. You're body seizes. Your neck tenses. You stop breathing. It's horrible. And it can happen every fourth word.
 
 The physical pain isn't even the worst. Getting _that_ look from people is. The "what the fuck is wrong with you?" look.
 
@@ -35,21 +35,21 @@ The prospect of talking, except to yourself and a dog, which Charles had two of,
 
 I know this all because luckily enough (kidding) I have the same affliction as Charles. It was the reason I got a job in a car insurance claim department. After a vice president at an old company secretly told my supervisor I wasn't allowed to talk to customers, for fear of embarrasing the company, I was like shit I guess I don't have this damn gremlin under control. I wasn't even that mad about it (although I was that it was an open secret for over a year). I never told anyone I had the impediment, so despite therapy as a kid, it was obviously still a problem.
 
-So fuck it. I decided to jump in the pool and sink or swim. A car insurance claim call-centre is like the Olympic trials for a stutterer. A daily workout of all day phone calls, angry drivers, customer service expectations, no "outs" like swear words, booze, or wonky behavior to hide behind.
+So fuck it. I decided to jump in the pool and sink or swim. A car insurance claim call-centre is like climbing Mount Everest for a stutterer. A daily workout of all day phone calls, angry drivers, customer service expectations, no "outs" like swear words, booze, or wonky behavior to hide behind.
 
 And it was far worse then I thought. The insurance company wanted adjusters to answer ever more phone calls. To incentize us, they'd ring a monotone "bell" because... I don't know. They never said why, we employees learned questioning "the bell" was a bad idea. Management used it as punishment; "answer more phone calls or we'll make the bell faster and louder!".
 
-I'm being serious by the way. We were often more stressed then the person who just had a car crash. Whatever the reason, DING-DING-DING-DING all day, which gave people who weren't stutterers huge anxiety, breakdowns, and stress leaves.
+I'm being serious by the way. We were often more stressed then the person who just had a car crash. Whatever the reason, DING-DING-DING-DING almost all day, which gave people who weren't stutterers huge anxiety, breakdowns, and stress leaves.
 
 Super-shock speech therapy! After about a year I didn't have to massage my jaws at night to release it from all the teeth shattering jaw-clenches I did to divert vocal stuttering. I was cured!
 
 The point is this. That's what it took for me to mostly, except when pretenious cultures limit my word choices, never stutter. It's like night and day. The anxiety washed away the more pitch perfect things I said. A hidden outgoing personality was brought out and frankly is fun, although still surreal, to be.
 
-Yet Charles never had this lesson. He was famoulsy shy, quiet, and anxious his whole life because the gremlin likes it that way. Even when fighting for 16 years defending his ruling philosophy, Charles still probably had to massage his strained jaws every night. I can sympathize. The gremlin is a bully.
+Yet Charles never had this lesson. In addition to being arrogant about his nobility, he was famoulsy shy, and quiet his whole life because the gremlin likes it that way. Even when fighting for 16 years defending his ruling philosophy, Charles still probably had to massage his strained jaws every night. I can sympathize. The gremlin is a bully.
 
-At Charles trial, a Christian king, faced a Christian uprising. However, while the soldiers were inspired by sermons from the Bible, Charles was accused of being "a Tyrant, A Traitor, Murderer, and a public enemy to the Commonwealth of England". Not a bad Christian king but a bad ruler. The people of England, empowered with many books, scientific instruments, and especially guns of a healthy civilization, were firing their leader. A novel ideal at the time.
+At Charles trial, a Christian king, faced a Christian uprising. However, while the soldiers were inspired by sermons from the Bible, Charles was accused of being "a Tyrant, A Traitor, Murderer, and a public enemy to the Commonwealth of England". Not a bad Christian king, but a bad ruler. The people of England, empowered with many books, scientific instruments, and especially guns of a healthy civilization, were firing their leader. A novel ideal at the time.
 
-The prosecutors didn't have Rousseau's new ruling philosophy to reference, but nor did they use a Christian one either. They simple said Charles didn't have a "divine right to rule" and asked for the death penalty. Charles wouldn't even acknowledge the trial. He didn't believe his life was on the chopping block. Kings don't answer to children.
+The prosecutors didn't have Rousseau's new ruling philosophy to explain their dreams of a fairer society. They simple said Charles didn't have a "divine right to rule" and asked for the death penalty. Charles wouldn't even acknowledge the trial. He didn't believe his life was on the chopping block. Kings don't answer to children.
 
 Charles wasn't pretending or bluffing. He wasn't proud, or stubborn. He psychologically couldn't understand even the idea of being wrong. He lived in a different story with a different ruling philosophy. One that made him the protagonist.
 
@@ -61,26 +61,34 @@ He didn't just speak, he spoke so eloquently many people, even those who hated h
 
 > Truly I desire their (the people’s) liberty and freedom as much as anybody whomsoever; but I must tell you their liberty and freedom consist in having of government, those laws by which their life and their goods may be most their own. It is not for having a share in government, Sir, that is nothing pertaining to them. A subject and a ruler are clear different things...therefore I tell you that I am the Martyr of the people. I die a Christian according to the profession of the Church of England, as I found it left me by my father... I have a good Cause and I have a gracious God. I will say no more.
 
-Clealr spoken words of being behind the times. Charles was not needed. His people could rule themselves. He should have been happy his children grew up. Instead he used their money to hire foreigners to kill them. Like a comedians who thinks he's funny because he never listens to the crowd.
+Clealr spoken words about being behind the times. Kings were no longer needed. The people could rule themselves. Charles should have been happy his children grew up. Instead he used their money to hire foreigners to kill them.
 
-Yet Charles was merely defending the rules as defined by the ruling philosophy. Despite massive government debt, a restless population, and many chances for compromise, he didn't want to fix frontline problems, but protect the rules. He was an antagonist. The extras followed the protagonists, reached for new tools, fought and won their empowerment.
+Charles was merely defending the rules as defined by the ruling philosophy. Despite massive government debt, a restless population, and many chances for compromise, he didn't want to fix frontline problems, but protect the rules. He was an antagonist. The extras followed the protagonists, reached for new tools, fought and won their empowerment.
 
-Later kings still didn't learn. Even more distanced from the frontline inside their palaces and banquets and balls, their heads filled with gremlins tell them the rules are just, good, and last forever. Country wide banktrupcies, food shortages, and revolutions didn't kill these gremlins. Like Charles each faced the chopping block with the voice of God calling them martyrs.
+Later kings still didn't learn. Even more distanced from the frontline inside their palaces and banquets and balls, their heads filled with gremlins that said the rules are just, good, and will never end. France, Spain, Russia had country wide banktrupcies, food shortages, and revolutions, and it didn't matter. The ultimate gremlin is isolation from the frontline. So many Darth Kings faced the chopping block with the voice of God calling them martyrs.
 
 So tell me, why did you ever think Darth Blockbuster was ever going to let Obi-Wan go?
 
-Whenever the Death Star is struck down, a new heirachy forms around the new tools. And when human technological evolution surpasses these tools, the Sith use societ's rule book to keep themselves at the top, and the supposed children on the bottom.
+## Walking On Eggshells
 
-So Darth Blockbuster hands Obi-Wan his weapon, and offers a duel.
+The battle scene. A new tool empowers the people, the Sith fight to retain their power, the Jedi fight to distribute it. If the former wins, the people's cyborgology stays dependant. If the latter wins, the people upgrade their powers to solve frontline problems.
 
-And one more time a Jedi knight fights a Sith lord. They swipe, slice, jump and leap. Obi-Wan is doing well. But he knows he can't win this fight alone. For as long as the hierarchy exists, killing one king, only lets another take his place.
+Remember philosophy is the largely unspoken ideals that tell members of society what’s right and wrong, a civilization's collective consciousness used by members to make rules.
 
-The Death Star is a tool, a rule book that keeps new tools down, and the extras distracted from their natural Techvolution. To trule defeat Darth Blockbuster and the Sith, we must make a tool that replaces the Death Star, and continually enforces our natural evolution. We need Techvolution's rule book.
+The more the Sith win, the bigger there Death Star rule book gets, the wider the lines between old and new society get. These lines represent increasingly different realities, existing at the same time.
 
-And only we, the extras, can build it. Thus, as Obi-Wan looks over at his student, he knows his job is done. He looks over at you Skywalker, and he sees not the kid asking about the rebellion of the mind, but the kid who will win the rebellion with a new tool.
+When someone has their own version of reality separate from society, we call it a mental illness. Dealing with this person is said to be like "walking on eggshells", because it's very hard to socialize with a unique version of right and wrong. The lesson is when Techvolution is held back, and society gets more out of whack, the Sith and Jedi are walking on egg shells with each other. Compromise is impossible.
 
-Obi-Wan lifts his sword. Darth Blockbuster quickly strikes him down, and kills the Jedi master.
+So with that, Darth Blockbuster hands Obi-Wan his weapon, and offers a duel.
 
-Now, Skywalker you have to build the tool to forever defeat the Death Star. It keeps coming back, interfering with Techvolution. While Techvolution is the new philosophy that literally empowers humanity to technological evolve, without a tool to make it real, the Sith will return with a new Death Star of rules.
+Obi-Wan grabs his weapon. But he knows this fight will be different. In the past, whenever the Death Star is destroyed by a new tool, a new heirachy forms around it. And when human technological evolution surpasses these tools, the Sith have formed around it, and made a new Death Star to protect their power and keep and keep their supposed children on the bottom.
 
-Now, we can build the Jedi's Life Star by asking a simple question, the same one that killed Darth King. How old are you?
+Obi-Wan knows, for as long as the hierarchies exists, killing one king, only lets another take his place.
+
+The Death Star is a tool, a rule book that keeps new tools down, and the extras distracted from their natural Techvolution. To trule defeat Darth Blockbuster and the Sith, we must stop destroying the Death Star, and instead make a tool that replaces the Death Star. One that continually enforces our natural evolution where Techvolution is perpetual ruling philosophy.
+
+And only the extras can build it. If we stay out of the battle, we force the Jedi to re-fight the same battle. Thus, as Obi-Wan looks over at his student, he knows his job is done. He looks over at you Skywalker, and he sees not the kid asking about the rebellion of the mind, but the kid who will win the rebellion with a new tool.
+
+Obi-Wan lifts his sword. And smiles as coming eternal rest, and eternal victory, as Darth Blockbuster strikes him down.
+
+Now, Skywalker you have to build the Life Star. We're going to start, by asking a simple question, the same one that killed Darth King. How old are you?
