@@ -682,3 +682,9 @@ Creative accounting, keeping wages low, and increasing prices on regular people 
   > All the real motion picture people have always made family pictures. But the downbeats and the so-called intelligentsia got in when the government stupidly split up the production companies and the theaters. The old giants like Mayer, Thalberg, even Harry Cohn, despite the fact that personally I couldn't stand him—were good for this industry. Now the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it
 
 Online downloading was merely a check and balance against antagonists. Once a company came along made a new tool that distributed the power to the people, the people happily formed a majic bond with it. And if they get abused again, the people know where to go to check the excess.
+
+## Social Capital
+
+Social capital - USA
+<iframe src="https://ourworldindata.org/grapher/trust-attitudes-in-the-us?time=1972..2014" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Social capital is the trust people have in each other. The more people socialize, the more trust they'll have with each other. It's often called "Bowling Alone".

@@ -4,18 +4,21 @@
 Have to integrate the next several chapters into a Life Star sequence, and use these topics as filters, toggles, moons of Jupiter, to showcase a ruling philosophy that, like a physicist and biologist does today, uses science to find the truth, not personal opinions absent of better sensory input like telescopes, microscopes and such...
 
 - There's something about Life Star, and Sun, and knowledge, telling us the age/rules. The Sun tell us our age in revolutions, but Life Star tells us our scientific age.
+- Notably, once Techvolution frees people to choose their own tools, it's the majic of millions of people, that builds our Life Star.
 
 ==
 
-Light is the opposite of dark. Full is the opposite of empty. Frozen is the opposit of wet. Knowing one, defines the other. The Death Star is a rule book written by Sith Lords, bent on keeping power for themselves. The Life Star is the opposite of the Death Star.
+That damn Obi-Wan. He probably turned into a ghost like in the movie and went on vacation or wherever. But no worries. For I am Skywalker, the person destined to save the galaxy and bring balance to human evolution. So here we go. We're going to build the Life Star.
 
-So what is it? The Life Star is a rule book no one controls. Rules can't be added, fudged, or abused, only uncovered. Happily, we already use this rule book. It has helped us truly understand our world in areas like chemistry, biology and physics. Of course this rule book is Nature.
+Light is the opposite of dark the same way full is the opposite of empty. Knowing one, defines the other. The Death Star is a rule book written by Sith Lords. The Life Star is the opposite of the Death Star.
 
-And of course we learned Nature with the evolution of our cyborgology. It was microscopes, telescopes, and all the other scientific tools, that merged with our natural senses, to probe Nature, and let us uncover its rules in every more detail.
+So what is it? The Life Star is a rule book no one can control. Rules can't be added, fudged, or abused, only uncovered. Happily, we already use this rule book. It has helped us truly understanding our world in areas like chemistry, biology and physics. Of course I'm speaking about Nature.
 
-These tools slowly undercut Darth Kings divinity. Now our digital tools under cut not only Darth Blockbuster's, but also his ability to make future Death Stars. Because once we build the Life Star, there's no room left for its opposite.
+And of course we learned Nature with tools. It was microscopes, telescopes, and all the other scientific tools that merged with our natural senses, to probe Nature, and let us uncover its rules in every more detail.
 
-I'll explain this all by asking you a question you can't answer. How old are you?
+Unlocking Nature's rules slowly undercut Darth Kings divinity. Now our digital tools under cut not only Darth Blockbuster's, but also the Sith's ability to make future Death Stars. Because once we build the Life Star, there's no room left for human made rules. The only rule will be natural selection of our own tools with unhindered Techvolution.
+
+I'll explain the Life Star by asking you a question you can't answer. How old are you?
 
 ## The Life Star's First Brick
 
@@ -45,6 +48,16 @@ The truth is we'll probably never know our deathday. But we'll get close. We'll 
 
 ## More
 
-Our bodies represent Nature. They are biology. We can't control our bodies anymore than we can control the stars. We can manipulate ourselves, but it's only with tools that we change our cyborgology.
+That was just a creative way to say we don't know jack. And it's only with tools we learn anything. How old are we is asking one of a million questions we simply don't know. Not because we can't know. We just don't have the tools yet to prove Nature and find the truth.
 
-Yet, with old philosophies we ignore our Nature. We say Darth Blockbuster is our leader. We let culture determine our food. We let and other stuff. breaktime....
+For example, every birthday party used to be a celebration the Sun revolved around you. Think of how silly it is the Earth being  stationary, and the stars, galaxies, and Universe revolve around us. But the truth that was, when we could probe the Universe with our eyes.
+
+We thought of the truth. Ancent Greek astronomer and mathematician Aristarchus of Samos (310-230 BC) said the Earth moved. He correctly figured out the relative sizes of the Moon, Sun, and Earth. He did it by testing a well in Egypt that once a year had no shadow. He reasoned the Sun is directly above it. On the same day he measured the shadow of the great Tower of Alexandria. He measured the distances and heights of everything, used the pythgorean theorem, and voila, the Sun is 80 times the size of Earth, and the Moon is one forth. Aristarchus thereafter said why would the Sun move if it's so much bigger.
+
+Aristarchus was right, but his argument still lost because we didn't have the tools yet to see the truth. Aristotle said if the Earth moved so much, why don't the stars move in the sky. Aristarchus said the truth was the stars are extemely far away. But the truth was unbelieveable to people who measured things in feet so Aristotle won. The rule was thus the Sun revolved us on our birthdays.
+
+Geocentrism was a big rule. It was rooted in the Bible, which was the basis of the ruling nobility's power too. When Copernicus used mathematics to question geo-centrism, it wasn't enough. When Galileo used the telescope it helped alot. However, it was only when telescopes got powerful and cheap enough the people could see the truth themselves, that we accepted we revolved around the Earth on our birthdays. Thereafter the rulebook coldn't be corrupted with human interpratations of the truth. Science took over to explain illness, disease, gravity, and the stars. Darth King's days were set the day kids started to get telescopes for their birthdays.
+
+## IDK
+
+So the Life Star needs tools, to probe the truth of our actions...
