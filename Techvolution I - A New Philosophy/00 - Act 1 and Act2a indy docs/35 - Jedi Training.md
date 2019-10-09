@@ -36,7 +36,7 @@ Items: are the props, of the story. Broom sticks, magic hats, houses. Put them a
 
 Passion: Items come alive when somebody gives them passion. The American flag, wedding rings, Nobel prizes. Just items, until someone feels passion about them. People promote and defend their passions in their dialogue.
 
-Dialogue: is the powerful words, whether written of spoken, between characters fighting for their passions. Like Douglass learning to read, and Hugh telling Sophia teaching a slave to read is bad. Dialogue is authority. Because once an idea is spoken, it can spread and become political. Tyrants start by burning books, and controlling the free speech. Change happens first in dialogue. Like Rousseau, who was only dangerous because he wrote good dialogue, to topple the antagonists to change.
+Dialogue: society's rule book. is the powerful words, whether written of spoken, between characters fighting for their passions. Like Douglass learning to read, and Hugh telling Sophia teaching a slave to read is bad. Dialogue is authority. Because once an idea is spoken, it can spread and become political. Tyrants start by burning books, and controlling the free speech. Change happens first in dialogue. Like Rousseau, who was only dangerous because he wrote good dialogue, to topple the antagonists to change.
 
 Antagonist: defends the society against changes. They use items, passions, and dialogue to do it. However, since an antagonist defends society, he is a servant of, and thus bound by the society's ruling philosophy.
 

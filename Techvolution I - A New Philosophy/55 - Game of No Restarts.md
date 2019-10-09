@@ -1,7 +1,7 @@
 
 # Game of No Restarts
 
-Noble refuse to play evolution. In any game, the start resets after each contest. That happens when new tools are invented, but is rejected by the player who thinks he's gold medals are a birthright to his noble blood.
+Nobles refuse to play evolution. In any game, the start resets after each contest. That happens when new tools are invented, but is rejected by the player who thinks he's gold medals are a birthright to his noble blood.
 
 If a lie of omission is a lie, then lied to you a while back. In the evolution of cyborgs chapter, I told you evolution lives inside all lifeforms, making variations to constantly probe for environmental changes. This is how life adapts.
 

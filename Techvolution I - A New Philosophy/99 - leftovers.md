@@ -688,3 +688,13 @@ Online downloading was merely a check and balance against antagonists. Once a co
 Social capital - USA
 <iframe src="https://ourworldindata.org/grapher/trust-attitudes-in-the-us?time=1972..2014" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 Social capital is the trust people have in each other. The more people socialize, the more trust they'll have with each other. It's often called "Bowling Alone".
+
+## Aristarchus Birthdays
+
+For example, every birthday party used to be a celebration the Sun revolved around you. Think of how silly it is the Earth being  stationary, and the stars, galaxies, and Universe revolve around us. But the truth that was, when we could probe the Universe with our eyes.
+
+We thought of the truth. Ancent Greek astronomer and mathematician Aristarchus of Samos (310-230 BC) said the Earth moved. He correctly figured out the relative sizes of the Moon, Sun, and Earth. He did it by testing a well in Egypt that once a year had no shadow. He reasoned the Sun is directly above it. On the same day he measured the shadow of the great Tower of Alexandria. He measured the distances and heights of everything, used the pythgorean theorem, and voila, the Sun is 80 times the size of Earth, and the Moon is one forth. Aristarchus thereafter said why would the Sun move if it's so much bigger.
+
+Aristarchus was right, but his argument still lost because we didn't have the tools yet to see the truth. Aristotle said if the Earth moved so much, why don't the stars move in the sky. Aristarchus said the truth was the stars are extemely far away. But the truth was unbelieveable to people who measured things in feet so Aristotle won. The rule was thus the Sun revolved us on our birthdays.
+
+Geocentrism was a big rule. It was rooted in the Bible, which was the basis of the ruling nobility's power too. When Copernicus used mathematics to question geo-centrism, it wasn't enough. When Galileo used the telescope it helped alot. However, it was only when telescopes got powerful and cheap enough the people could see the truth themselves, that we accepted we revolved around the Earth on our birthdays. Thereafter the rulebook coldn't be corrupted with human interpratations of the truth. Science took over to explain illness, disease, gravity, and the stars. Darth King's days were set the day kids started to get telescopes for their birthdays.
