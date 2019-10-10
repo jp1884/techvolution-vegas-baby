@@ -200,63 +200,57 @@ To answer that, we need to clearly identify the difference between majic and rul
 
 ===
 
-Our story is about a Maryland farm boy overcoming ignorance with tools. The farm is one of those classic farms you might have seen on shows like "Little House on the Prarire". Salt of the earth farmers raising crops and families in 19th century rural America. Wikipedia or Khan Academy or didn't exist. Not even many books either. So, you only knew about your own way of life.
+Our story is about a Maryland farm boy named Frederick using tools to overcme ignorance. His farm is one of those you might have seen on shows like _Little House on the Prarire_. Salt of the earth farmers raising crops and families in 19th century rural America. No internet, no school systems, no much to learn by how to survive.
 
-The boy Frederick worked the fields with his mother. It was hard labour of course, there weren't many machines back in the 19th Century, but humanity is used to sweeting when cultivating the Earth. The boy worked hard, he wanted to keep his mother happy and fed. She wanted the same for her boy.
+Frederick worked the fields with his mother. It was hard labour of course, there weren't many machines around, so he had to work hard, for himself and his mother.
 
-In a few years, the boy was sent to work with a relative in Baltimore. The house was large and the young family could use a hand around the house; cleaning, shopping, doing chores. It made his mother happy he wouldn't sweat so much, yet the boy was a farmer and unsure of the big city.
+In a few years, Frederick was sent to work with a relative in Baltimore. The house was large and the young family could use a hand cleaning, shopping, doing chores. It made his mother happy he wouldn't sweat so much, yet Frederick was a farmer and unsure of the big city.
 
-The father of the house was Hugh. He wasn't around much though. His new wife Sophia was. She was a foreigner used to colder climates, who didn't know many people yet, so she stayed in a lot. Sophia was nice and treated the boy nice too. Not as a farmer, but as a interesting person; not something farm hands were used to from rich people. She made Frederick feel at ease.
+The father of the house was Hugh. He wasn't around much. His new wife Sophia was. She was a foreigner used to colder climates who didn't know many people yet, so she stayed in a lot. Sophia was nice and treated Frederick nice too. Not as a farmer, but as a interesting person. She made Frederick feel at ease.
 
-One day, Sophia handed Frederick a list of items to pick up from the store. Frederick's eyes looked down, his shoulders slouched, like a dog who disappointed its masters. Frederick mumbled "I can't read miss Sophia."
+One day, Sophia handed Frederick a list of items to pick up from the store. Frederick's eyes looked down, his shoulders slouched, like a dog who disappointed its masters. Frederick mumbled "I can't read."
 
-Sophia responded, "My God, well that won't do! Reading is good. How else can a person give and receive information from... from... the world! I'll teach you, we'll do it together." So Sophia taught Frederick to read. Just a few weeks, and he got the basics.
+"My God, well that won't do!" Sophia responded, then continued "Reading is good. How else can a person give and receive information from... from... the world! I'll teach you, we'll do it together." So Sophia taught Frederick to read. Just a few weeks, and he got the basics. Sophia performed majic and was overjoyed.
 
-The world indeed! All those markings in the store, on street corners, in books, in newspapers, in the Holy Bible, they're each a new world! Go left, turn right, open, closed, discounted, welcome, and Salvation, all this stuff a door to a new world.
+Frederick even more so! Finally all those markings in the store, on street corners, in books, in newspapers, in the Holy Bible, mean something, a new world! Go left, turn right, open, closed, discounted, welcome, and Salvation, all a doors to a new world.
 
-Frederick danced to the store, he whisked himself to do his chores, because he was learning more everyday. The world kept getting bigger, information kept pouring in.
+Now Frederick danced to the store, he whisked himself to do his chores, because he was learning to read a little more everyday. He loved how the world kept getting bigger, and information kept pouring in.
 
-One day Hugh came home early. He saw Sophia and Frederick reading at the dinner table.
+One day Hugh came home early. He saw Sophia and Frederick reading at the dinner table. Hugh walked into the room. "Boy, get out, and wait in the hallway. Face the wall."
 
-Hugh walked into the room. "Boy, get out, and wait in the hallway. Face the wall."
+Frederick got out, went outside, and faced the wall. Seconds turned to minutes. Frederick rolled the newspaper in his hands tighter. He didn't want to go back to the farm. But even more, he didn't want his angel to get in trouble.
 
-Frederick got out, waited outside, and faced the wall. Seconds turned to minutes. Frederick rolled the newspaper in his hands tighter. He didn't want to go back to the farm. But even more, he didn't want his angel to get in trouble.
+Inside the room, Sophia was curious "What is it?". Hugh responded "This isn't Ohio...Darling you can't do that. We could get in a lot of trouble. You can't teach them to read."
 
-Inside the room, Sophia was curious "What is it? Everyone learns to read in Ohio"
+Sophia responded "everyone learns to read in Ohio."
 
-Hugh responded "This isn't Ohio. He is a slave. What do you think happens when slaves reads. Do you think he won't start thinking."
+Hugh takes a seat. "This isn't a free State. He is a slave. What do you think happens when slaves read. Don't you think they'll start thinking." Sophia's eyes went wide. Hugh continued "It's against the rules to teach a slave to read.... now teach the boy."
 
-Sophia's eyes went wide. "I didn't know the rules."
+As Frederick heard the hallway door open, he straightens up, and grips his newspaper.
 
-Hugh responded "Teach him."
-
-As Frederick heard the hallway door open, he grips his newspaper.
-
-Sophia said, in no angelic voice, "Turn around."
+Sophia says "Turn around."
 
 Frederick does, and looks at his angel, the one who talked with him like he was a person. And she looked back and only saw _her boy_.
 
-Sophia slaped the newspaper from her boy's hand. He didn't let go. She slapped again, and again and again. Each slap hurt more than a dozen whips on his scarred back.
+Sophia slapped the newspaper from her boy's hand. He didn't let go. She slapped again, and again and again. Each slap hurt more than a dozen whips on his scarred back.
 
-She slapped, and slapped, and slapped, and slapped. She will not do evil. She will not break the rules. Frederick's angel became a demon. Sophia was clicked by society's rules. Now she was a believer philosophy of racism to justify human slavery.
+She slapped, and slapped, and slapped, and slapped. She will not do evil. Sophia was clicked by society's rule book. Now she was a demon protector of vile racism to justify human slavery.
 
-Frederick's world shut. The one white person ignorant enough to treat him like a person, was now an educated convert to the rules that put him into chains. Physical chains if needed, but evil prefers mental chains of ignorance; they stay on so much easier.
+Frederick's world shutdown again. The one white person ignorant enough to treat him like a person, was now an educated convert to the rules that put him into chains. Physical chains if needed, but evil prefers mental chains of ignorance; they stay on so much easier.
 
-Weeks later Frederick was still in despair. His daily routine was the same. Yet, working under demonic masters is just different. He didn't dance to the store, he didn't whisk to do his chores, and he never saw Sophia smile again. Demons are always on guard.
+Weeks later Frederick was in despair. His daily routine was the same. Yet, working under demonic masters is just different. He didn't dance to the store, he didn't whisk to do his chores, and he never saw Sophia smile again. Demons are always on guard.
 
-One day, Frederick saw a newspaper, the avenue to knowledge whose path Fredereick was once on. He looked at the markings, saw some words he knew, and one word he didn't. Yet he still stared at it. Why?
+One day while doing his chores, Frederick saw a newspaper, the avenue to knowledge whose path Fredereick was once on. He looked at the markings, saw some words he knew, and one word he didn't. Yet he still stared at it. Why?
 
-The answer slapped him harder than the demon ever did, he read the words "The Freedom States in the North". He heard the word freedom before, but he didn't know freedom was a real place.
+The answer slapped him harder than the demon ever did, he read the words "The Free States in the North". He heard the word freedom before, but he didn't know freedom was a real place.
 
-A shockwave went through him when he realized if slavery was a place, then so must freedom be a place too. Here Frederick realized he could break his own chains. Because ignorance was always his demon, and knowledge was always his angel. And he fought ignorance, and received knowledge, whenever he read.
+A shockwave went through him when he realized if slavery was a place, then so must freedom be a place too. Frederick realized he could break chains. Because ignorance was always his demon, and knowledge was always his angel. And he fought ignorance, and received knowledge, whenever he read.
 
 So, Frederick taught himself to read. He practiced with ignorant white kids on the streets. He practiced reading items at the grocery store. He practiced on every street sign. And he practiced everytime he was at the Baltimore dock; the dock I said, you know the place, where ships will take you anywhere in the world. If you can read the schedule.
 
 One day Sophia waited for her boy to return. But the boy died when the man Frederick Douglass walked onto the ship headed north to freedom. The man knew the exact time, place, and fare he needed to get on. He read it, himself, on the schedule. Reading opened the world to Frederick, and now the free world was opened to him.
 
-The story gets better. Frederick Douglass becomes a brilliant orator and writer. In a world with no radio, video, or telephones, he travels the Northern States and Europe telling everyone the truth about slavery. When the American Civil War (1861-1865) broke out, his books help make Britain reject recognizing the South, and thus deprived it of a much needed support. The irony of a slave educating people about slavery, and thereby helping to end slavery is amazing to me.
-
-Note innovation wasn't Douglass' problem. Using a tool was.
+The story gets better. Frederick Douglass becomes a brilliant orator and writer. In a world with no radio, video, or telephones, he travels the Northern States and Europe telling everyone the truth about slavery. When the American Civil War (1861-1865) broke out, his books helped Britain reject recognizing the South, and thus deprived it of much needed support. The irony of a slave educating people about slavery, and thereby helping to end slavery, is the cherry on top of this great story.
 
 Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Project Gutenburg.
 
@@ -328,8 +322,7 @@ Our society suffers keeping the imagined world of 1959 baby-boomer suburbia goin
 
 Middle class quality of life, political cooperation, and climate change, won't get better until the extras join the protagonists, step-up to the antagonists, and start to use digital tools that actually solve problems. To do that, we need a rule book written from Techvolution.
 
-We can win Skywalker. I'll show you one of the battles in which we already have.
-
+We can win Skywalker. I'll show you.
 
 # A TECHVOLUTION BATTLE SCENE
 
@@ -337,19 +330,19 @@ We can win Skywalker. I'll show you one of the battles in which we already have.
 
 In the 1970's the transistor, internet, computer monitors, and other digital technology, started to leave labs and research centres and make their way into products. Finally, after centuries of primitive tools, society had ones cheap enough to mass produce, yet powerful enough to change our way of life. Of course, that's when Darth Blockbuster appeared and went to work defending his way of life.
 
-Some examples. In the 1970's AT&T defended their telephone monopoly by successfully lobbying government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by, unsuccessfuly, suing home video cassette recorders. In 2001, the music industry defended music compact discs by successfully suing digital songs. Throughout society the antagonists found ways to prevent the possibilities digital tools offered society to technologically evolve.
+Some examples. In the 1970's AT&T defended their telephone monopoly by successfully lobbying government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by, unsuccessfuly, suing home video cassette recorders. In 2001, the music industry defended music compact discs by successfully suing digital songs. Throughout society the antagonists found ways to keep digital tools from the hands of the people.
 
-The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to improve digital songs with iTunes. Music executives had already tried and failed horribly to make their own platform. With no options, and despite the supposed crisis of Napster, Jobs said he'd "never spent so much of my time trying to convince people [music exceutives] to do the right thing for themselves".
+The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to improve digital songs with iTunes. Music executives had already tried and failed horribly to make their own platform. Despite the supposed crisis of Napster, Jobs said he'd "never spent so much of my time trying to convince people [music exceutives] to do the right thing for themselves".
 
-The problem wasn't Napster. It was Darth Blockbuster. He didn't know anything about new technology. New tools questioned why he was still the leader. So he resisted change, even from Steve Jobs while hiding behind the rules. From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Let's learn how this story looks in a little more detail.
+The problem wasn't Napster. It was Darth Blockbuster. He didn't know anything about new technology. New tools questioned why he was still the leader. So he resisted change even from Steve Jobs. He masked his selfishness by citing the rules. From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Let's learn how this story looks in a little more detail.
 
 ## How New Tools Start the Fight
 
-Technological evolution is like its biological cousin. There are adaptations of existing lifeforms and totally new lifeforms. In Techvolution this the difference between a new technology and a new tool.
+In biological evolution there are adaptations of existing lifeforms and new lifeforms. In Techvolution this the difference between a new technology and a new tool.
 
-Upgrading a technology is an iterative change, like going from Sedan's to SUV's, VHS to DVD's, tube televisons's to LCD's. Each is different technologically, but they do the same job, so no new majic is needed to attract users. As a result no political battles are started.
+Upgrading a technology is an iterative change; like going from Sedan's to SUV's, VHS to DVD's, tube televisons's to LCD's. Each is different technologically, but they do the same job, so no new majic is needed to attract users. As a result no political battles are started.
 
-But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, a genius comes along and unlock a new tool like smartphones. And this is does require majic and is thus a big deal.
+But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, a genius unlocks a new tool like smartphones. And this requires new majic and is thus a big deal.
 
 ![New Tool Creation](/img\prologue\techvolution-new-tool-creation-pc.png)
 
@@ -357,72 +350,76 @@ Why? Well, because creating a new tool asks a climactic and political question: 
 
 Thus, while civilization is a struggle to overcome problems by upgrading technology and inventing new tools, it’s also a battle to control them. The people with the old tool fight to retain their power, while inventors and innovators imagine a new society that shares it.
 
-The eternal story of civilization is thus protagonists making new tools, antagonists attacking new tools, and many extras watching them fight. Our politics is an ongoing history of technological change, with protagonist and antagonist both reaching for the tool to make themselves the winner.
+The eternal story of civilization is thus protagonists like Jobs making new tools, antagonists like music company executives attacking new tools, and many extras watching them fight. Our politics is an ongoing history of technological change, with protagonist and antagonist both reaching for the tool to make themselves the winner.
 
 Today the extras are not self-aware of their power to decide the winner. I’ll show you how important you are. Here’s how you changed the world just by being curious and loving majic.
 
 ![Dist-vs-retention](/img\prologue\techvolution-distribution-vs-rentention-2.png)
 
-### Extras Killed Wikipedia's Evil Twin
+## Extras Killed Wikipedia's Evil Twin
 
-The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, people always have some nagging question. Like how does Tesla engine work, or what happened to the electric car. Constant questions are a problem and we need a reference tool to solve it. True to ourselves, we make one with the technology available and upgrade it when possible.
+The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, people always have questions. Like who was Nikola Tesla, or why are Tesla cars so safe. Constant questions are a problem and we need a tool to solve it. True to ourselves, we make a reference tool with the technology available and upgrade it when possible.
 
 Our first reference tool was the wisdom of our elders. The first technological upgrades were papyrus scrolls and ink (500 BC) and books (500), which turned some elders into experts like Hippocrates and Aristotle. When wood-pulp paper (1200) and the printing press (1456) were invented, humanity unleashed mass-produced books. Now experts could share knowledge between themselves and educate the masses. We called the reference books encyclopedias.
 
-People loved encyclopedias. They were a great tool. For the first time, many answers were available on demand. The _Encyclopedia Britannica_ (1878) was the standard. It went into continuous publication (1933) to keep people updated to the latest facts. In the following decades, the computer, digital printer, and telecommunications meant encyclopedias were written and stored digitally. But they remained a set of printed books and CD's controlled by experts.
+People loved encyclopedias. They answered many questions. The _Encyclopedia Britannica_ (1878) was the standard. It went into continuous publication (1933) to keep people updated to the latest facts. In the following decades, the computer, digital printer, and telecommunications meant encyclopedias were written and stored digitally. But they remained a set of printed books and CD's controlled by experts.
 
 Then came the world wide web (1991), a new technology that unlocked many new tools like websites, forums, blogs, and something called “wikis”. Wiki software lets anyone write or edit a webpage by pressing “edit now”. All changes are saved, so anyone can erase errors or vandalism by pressing “undo now”. For years programmers used wikis to collaboratively write technical manuals.
 
-As web tools boomed in the late ’90’s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us who were curious about things electric cars know our quest ends with a free online encyclopedia anyone can edit called Wikipedia. But it didn’t start out that way.
+As web tools boomed in the late ’90’s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us who were curious about things like Tesla car safety know our quest ends with a free online encyclopedia anyone can edit called Wikipedia. But it didn’t start out that way.
 
 Wikipedia started as Nupedia (2000). Nupedia was a free online copycat of Encyclopedia Britannica where only “expert” professors made articles. Wikipedia (2001) was a side project. Only programmers knew “community content creation” would work.
 
-Everyone else assumed regular people would only read the work of professors. The first issue with this theory was that the professors didn’t like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000, which most professors loved to belittle as rubbish. Professors even disallowed students from referencing Wikipedia artilcles in their papers. Yet professors refused to improve, or to assign students to improve, Wikipedia.
+Everyone else assumed regular people would only read the work of professors, and definitely couldn't be trusted to write articles. The first issue with this theory was that the professors didn’t like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000, which most professors loved to belittle as rubbish. Professors even disallowed students from referencing Wikipedia's articles in their papers. Yet professors refused to improve, or to assign students to improve, Wikipedia.
 
-The second issue was that it turned out “expert” answers and “regular” answers are the same. Electric cars us A/C motors no matter who says it. And thirdly, most importantly, Wikipedia was so easy to use, many extras became protagonists! A huge community of non-academics voluntarily shared their knowledge one “edit now” at a time and fiercely protected their common knowledge with “undo now”. Nobody told them, paid them or made a rule to encourage it. Because performing majic is its own reward.
+The second issue was that it turned out “expert” answers and “regular” answers are the same. Among other reasons, Tesla's are so safe because with the engine and battery at the bottom, their centre of gravity is  low.
 
-And lastly, the remaining extras flocked to Wikipedia. While most people didn't contribute, they still ignored the rules, and felt the majic of learning a new tool to help them answer their questions. The extra’s mass support quickly made Wikipedia king, while giving Nupedia and Encyclopedia Britannica quick deaths.
+Thirdly, Wikipedia was so easy to use, many extras became protagonists! A huge community of non-academics voluntarily shared their knowledge one “edit now” at a time and fiercely protected their common knowledge with “undo now”. Nobody told them, paid them, or made a rule to force it. Because performing majic proved itself again to be its own reward.
 
-That’s the story of Wikipedia. Made by new protagoinsts, made the standard reference tool by empowered extras. Few believed it was possible, because even professors don’t understand new tools always unpower the few, to empower the rest. Interestingly, after I finally conceded temporary defeat to my personal Darth Blockbuster, I uploaded a few pages to Wikipedia instead. Not as helpful as my app, but it took just a few weeks of work, and one “edit now” button, to make it real. It felt majical to bypass the rules.
+And lastly, while most people didn't contribute, they still ignored the rules, and flocked to Wikipedia's answers. They still felt majic learning a new tool. The extra’s mass support quickly made Wikipedia king, while giving Nupedia and Encyclopedia Britannica quick deaths.
+
+That’s the story of Wikipedia. Made by new protagoinsts, made the standard reference tool by extras. Few believed it was possible, because even professors don’t understand new tools always unpower the few, to empower the rest. Interestingly, after I finally conceded temporary defeat to my personal Darth Blockbuster, I uploaded a few pages to Wikipedia instead. Not as helpful as my app, but it took just a few weeks of work, and one “edit now” button, to make it real. It felt majical to bypass the rules.
 
 ![Wikipedia development](/img\prologue\techvolution-enclyclopedia-book-wiki.png)
 
 ### You Can Win
 
-Wikipedia's victory is another example of the archetypal human story. Like Galileo and his telescope, George Washington and his musket, and Steve Jobs and his iTunes. Wikipedia was a victory for protagonists. What makes it especially cool, is the extras played such a big part.
+Wikipedia's victory is another example of the archetypal Techvolution story. Like Galileo and his telescope, George Washington and his musket, and Steve Jobs and his iTunes. Wikipedia was a victory for protagonists. What makes it especially cool, is the extras played such a big part.
 
-And that’s the story Skywalker I want you to join with lightsabers a-blazin’, dicing up old tools like evil storm troopers, to smooth out humanity’s natural evolution. The protagonists are Wikipedia have many other allies in need of help. The open-source community inside StackOverflow, GitHub, Firefox, Khan Academy, Bitbucket, Vimeo, and many others are empowering individuals. But they are facing down Darth Blockbuster on their own. To help them change society they need as much help as Wikiepdia got.
+Skywalker, that’s the story Skywalker I want you to join with lightsabers a-blazin’, dicing up old tools like evil storm troopers, to smooth out humanity’s natural evolution. The open-source community are empowering individuals. But they are facing down Darth Blockbuster on their own. To help them change our world, they need as much help as Wikipedia got.
 
-Note however, our lives cut across thousands to millions of problems. Thus, our villians are not in a massive group like “the rich” or the “the unions” as old philosophies label. Our villians reveal themselves inside thousands of companies, institutions, and organizations, by suppressing the majic of new tools to keep their version of the DVD alive.
+Note however, our lives cut across thousands to millions of problems. Thus, our villians are not in a massive group like “the rich” or the “the unions” as old philosophies label. Our villians reveal themselves inside thousands of companies, institutions, and organizations, by suppressing new tools to keep their version of the DVD alive.
 
-Working with today's protagonists, the extras can kill all these Darth Blockbusters. I know this because our battle today was fought generations ago with his master, Darth King.
+Together, protagonists and extras can kill all these Darth Blockbusters. I know this because our battle today was fought generations ago with his master, Darth King.
 
-Darth King lived inside palaces, using society’s money to host splendid banquests and balls. His absolute power was hidden inside a ruling philosophy of the “noble’s divine right to rule”. Slowly, as protagonists invented scientific instruments, books, and guns, a new philosophy was born. A philosophy of science and enlightenment, political equality and democracy, made real when the protagonists and extras fought as one in the American and French Revolutions. They were inspired by the new philosophy of Jean-Jacques Rousseau.
+Darth King lived inside palaces, using society’s money to host splendid banquests and balls. His absolute power was hidden inside a ruling philosophy of the “noble’s divine right to rule”. Slowly, as protagonists invented scientific instruments, books, and guns, a new philosophy was born. A philosophy of science, enlightenment, equality, and democracy, made real when the protagonists and extras fought as one in the American and French Revolutions. They were inspired by the new philosophy of Jean-Jacques Rousseau.
 
 ![Battle Scene](/img\prologue\techvolution-battle-scene.png)
 
-## Rousseau's Extras
+# ROUSSEAU'S EXTRAS
 
-### Freeing Cinderella
+## Freeing Cinderella
 
-“Extras are born free; and everywhere they are in chains.” That’s paraphrasing Jean-Jacques Rousseau, who wrote that in 1762. Was Rosseau the King of France? He wasn’t. Was he the richest man in England? Absolutely not. Rousseau was a poor writer who copied sheets of music to make the rent. More than 300 years later, he is recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
+“Extras are born free; and everywhere they are in chains.” Jean-Jacques Rousseau wrote that in 1762. He was the King of France. No he wasn’t. Was he the richest man in England? Absolutely not. Rousseau was a poor writer who copied sheets of music to make the rent. More than 300 years later, he is recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
 
 Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility’s many banquets and balls. This was the image of opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the the fairy tale, the extras didn’t have a fairy Godmother to make their dreams come true. Instead, the commoners cleaned the noble’s vast libraries, used guns while dying in their wars, and wondered what it looked like through a telescope. The extras were excluded from the power of new tools because they believed their beloved Holy Bible said only noble people had the “divine right to rule”.
 
-Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other extra—you could argue—who rose above the masses and became the ultimate protagonist. Who is to say that other extras can’t live up to their own potential? Rousseau said books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists. The self-proclaimed “divine nobility” didn’t like hearing that. This powerful self-protecting community of Darth Kings declared Rousseau a banquet-pooper, and chased him out of Switzerland, France, and England. Maybe that’s why Rousseau rented instead of owned.
+Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other extra—you could argue—who rose to become the ultimate protagonist. Who is to say that other extras can’t live up to their own potential? Rousseau said books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists. The self-proclaimed “divine nobility” didn’t like hearing that. This powerful self-protecting community of Darth Kings declared Rousseau a banquet-pooper, and chased him out of Switzerland, France, and England. Maybe that’s why Rousseau rented instead of owned.
 
 Starting in 1776, within Rousseau’s lifetime, Darth King started to face the music when the American people started a revolution. One year after he died, the French had their own revolution in 1789. And on it went from country to country because Rousseau, and others like him, make the extras realize they should become protagonists in a civilization “of the people, for the people, by the people”. Cinderella soon forgot about the fancy ball, and instead played the music of freedom, in a choir of equals that sounded something like this:
 
->Do you hear the people sing?
-Singing a song of angry men?
-It is the music of a people
-Who will not be slaves again
-When the beating of your heart
-Echo’s the beating of the drums
-There is a life about to start
-When tomorrow comes!
+  What does this horde of slaves,
+  Of traitors and conspiring kings want?
+  For whom have these vile chains,
+  These irons, been long prepared? (repeat)
+  Frenchmen, for us, ah! What outrage
+  What furious action it must arouse!
+  It is to us they dare plan
+  A return to the old slavery!
 
-Revolutionary songs like this spread the people’s liberty, equality, and fraternity throughout the world. In a few years, civilization changed its philosphy from knowing the nobles were divine, to knowing they were villians. When the people took control of books, guns, and science, they put presidents and senators, judges and sherriffs in power, who ruled at the request of new protagonists who built a civilization with checks and balances, because no one was divine. A change empowered by tools, thought of in philosophy, yet made real with the bloodshed of revolutions.
+  To arms, citizens ...
+
+Revolutionary songs like this spread the people’s liberty, equality, and fraternity throughout the world. In a few years, civilization changed its philosphy from knowing the nobles were divine, to knowing they were villians who resorted to hiring mercenaries rather than realize the people didn't want them anymore. When the people took control of books, guns, and science, they put presidents and senators, judges and sherriffs in power, who ruled at the request of new protagonists who built a civilization with checks and balances, because no one was divine. A change empowered by tools, thought of in philosophy, yet made real with the bloodshed of revolutions.
 
 Rousseau died never having found a home. After they won their revolutions, a population of heroes put him to rest inside the glorious Panthéon, heralding him as a renowned breaker of chains, in a free world he helped build. Where any guy can be the prince, and any girl can be Cinderella.
 
@@ -432,59 +429,34 @@ The question for us is, how did Rousseau do it?
 
 ## The Road to Techvolution, and the Death of Revolutions
 
-Rousseau, a poor writer, changed history by making the people realize they suffered on the frontline because the ruling philosophy was old. Even though French and Americans could read pamplets, newspapers, and books about on current events, they still couldn't vote. Even though they could use guns to expand the king's land, they weren't allowed to use guns to defend themselve against the king. The people's cyborgolgy was held back by Darth King's rules. Rousseau made the people realize this was bullshit.
+Rousseau, who was only ever a poor writer with no political power, changed history by making the people realize they suffered on the frontline because the ruling philosophy was old. Even though French and Americans could read pamplets, newspapers, and books about on current events, they still couldn't vote. Even though they could use guns to expand the king's land, they weren't allowed to use guns to defend themselve against the king. The people's cyborgolgy was held back by Darth King's rules. Rousseau made the people realize this was bullshit.
 
-The people's demand for change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the others in the 19th centuries were violent, because the divide between ruling philosophy, and frontline society, was so wide.
+The people's demand for change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the other revolutions in the 19th centuries were violent, because the divide between ruling philosophy, and frontline society, was so wide.
 
 It's a lesson for us, as we start this Techvolution. We have to hurry up. Because the longer we wait to update our ruling philosophy to digital tools, the more out of touch the frontline and ruling philosophy gets. The result is needless revolution. All the more reason for a Techvolution now.
 
-## Revolution
+## ~~Revolution~~ Techvolution
 
 Skywalker, you look tense. I get why. Revolutions are tough. Maybe we should get the bristol boards out, smear the face paint, and fight! Fight for free college education! Fight for less regulations! Fight for affordable health insurance! Fight for tax cuts! Let's march and yell!
 
 What color do you want. See the trap there? No matter how hard one side pushes, the other side matches. Red and blue is recipe for inaction Darth Blockbuster uses to keep himself in power.
 
-There is no answer for contemporary problems using old philosophies. I know red /blue is easy and comfortable, but if you want that, cable news and their pundits are waiting. They can explain why it's the other sides fault you can't afford health insurance. Just don't ask them for five dollars to help you it.
+There is no answer for contemporary problems using old philosophies. I know red /blue is easy and comfortable, but if you want that, cable news and their pundits are waiting. They can explain why it's the other sides fault you can't afford health insurance. Just don't ask them to bet five of their own dollars there color will solve the problem.
 
-Nevermind that, they wouldn't give you a dime. So keep the marches and protests of red / blue out of your mind. We're inspired by, but not repeatting, _Les Miserables_. Fighting for change doesn't mean to grab hold of the commanding heights of primitive tools. We have digital tools. We have the technology to make tools to solve each peron's individual problems. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure.
+Keep the marches and protests of red / blue out of your mind. We're inspired by, but not repeatting, _Les Miserables_. Fighting for change doesn't mean to grab hold of the commanding heights of primitive tools. We have digital tools. We have the technology to make tools to solve each peron's individual problems. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we want is the ultimate revolution.
 
-We might have too many choices between tools actually. Windows or Mac? iPhone or Android? Tesla or Ford? Car or walking? Uber of Lyft? Milk or rice milk? What shoes to buy. Which podcasts to listen to. Should you really skip university and self-learn? If the generic "American Dream" is bad. We have to filter the good choices and tools, from the bad, to make your "Extra Dream" come true.
+# STORIES
 
-We will. And we'll use Rousseau to do it.
+Good stories versus bad stories. You can find them out by asking "what's your favorite line" in Star Wars it's likely "May the Force be with you". In The Empire Strikes Back it might be "I love you" "I know". This isbecause this storise are good, they reveal character, and don't use effects to hide themselves.
 
-## Ruling Philosophy
+This happens in societies too....
 
-Rousseau said the nobility were con artists. They hid behind divinity to rule society for their self interest. Yet noble families ruled every European country. There had to be some reason for it, and there was. At first these families were declared holy by the people, because they were holy.
 
-I'll tell a quick story to explain. It starts with the fall of Western Rome. Rome started as a republic in 753 BC and became a Empire in 27 BC. After several centuries of great prosperity, around 180, the Roman Empire started to suffer a general decline caused by frequent civil wars, declining population, bloated civil administration, greedy military, lazy civilians, stupid emperors, relentless barbarian invasions, and the pacificying effects of Christianty. Finally in 476 western Rome fell apart. The water didn't run. The judges didn't rule. The military didn't defend. It was chaos. Almost like a zombie apocolypse movie.
 
-No kidding. Vikings raided, Arabs invaded, Vandals roamed. This is when the Dark Ages (500 - 1000) started. We call it the Dark Ages, because there is literally almost no record of anything. Few people wrote records, histories, manuscripts, laws; Western Europe went "dark". In times of such anarchy, the people needed security above all else. Whoever stopped the zombies must surely be holy.
 
-The former Roman province of Gaul was at the centre of chaos. Native Celts were pushed out to Wales, Scotland, and Ireland by invading Germanic tribes. These tribes added to the chaos by warring with each other. Eventually however, the Franks won when their leader Clovis I (466-511), established a new kingdom. His dynasty ruled for centuries. Each new generation returned more law and order, and military protection, to the Kingdom of France.
 
-The kingdom was backed by the one remaining Roman institution, the Roman Catholic Church. The churhes priests told the people to cherish their nobility. Sermons told the people the Bible says kings are God's chosen representatives. The people couldn't read the Bible themselves, or even understand the Latin of sermons, but it didn't take much convincing anyway. Raids, invasions, and attacks were less and less. With peace came better farming, trade, and growth. The nobles divine right to rule had the people's support. They could see the defeated invaders, and feel the full stomachs for themselves. Divinity was a logical reality.
 
-The problem with the story of the nobles divine right to rule, wasn't the divinity of the original nobles. France's Kings after Clovis I, like Charles Martel (688-741) and Charlemagne (742-814), all fought on many battlefields to protect their people while making rules to help them prosper. Of course they were protecting their power and taxpayers too. But that's the point. The leaders and the people had a symbiotic relationship.
 
-They worked well together. Soon after Charlemagne, Europe left the Dark Ages and entered the High Middle Ages (1000 - 1300). This time wasn't all the bad to live in, with relative peace, security, and wealth not seen since Rome's peak. We still celebrate it with "Medieval Times" and "Game of Thrones" romanticized stories.
-
-The problem with the nobles's divine story, is the nobles divine right to rule didn't have a conclusion. As Europe kept improving through the High Middle Ages, Late Middle Ages, Renaissance, Enlightenment, it got more peaceful and richer.
-
-But all the wealth was going to the divine nobility. Now long removed from fighting Vikings or Vandals, these nobles told themselves they were divine because of their "noble blood". The nobility that Rousseau knew didn't live in castles wearing dirty body armour of war heroes. They lived in opulant palaces and enjoyed endless banquets and balls. Cinderella wasn't even allowed in!
-
-Here's a few paintings to showcase the change. One's of Charles Martel, and his people. The other of Louis XVI (1754-1793), and his people. You can see the difference in their clothing, and homes.
-
-![Martel to Louis](/img\diagrams/techvolution-martel-louis.png)
-
-Opulance and wealth. They're like signs of a ruling philosophy gone on too long. Early nobles wrote rules to encourage new tools forming majically connections with regular people and improving society for everyone. In the Middle Ages, peasant farmers were supposed to make tills to harvest more food, use screws to dig good wells, work iron to make lots of barrels.
-
-However, as new tools kept getting more powerful, the nobles wrote rules to keep them away from the extras. Books, muskets, scientific instruments were all very empowering. They were kept away from the people by dark majic like fancier cathedrals and royal palaces. Tricks to prevent the people from connecting with new tools, to upgrade their cyborgology.
-
-Here's an example of the divide. Louis XIV made a program to let French peasants visit the Palace at Versailles. Tours were free, and only required a hat and coat (spares were available for rent). Louis wanted "his people" to see how glorious his kingdom was. He thought once the people saw entire rooms made of gold, and hallways of mirrors, they'd see how lucky they were to live in his kingdom.
-
-Ironcially, most peasants didn't have a mirror, and rarely saw their own face. When they saw the Hall of Mirrors at Versailles they saw all the needed in the splendid art and spectacle. The fact the royalty didn't pay taxes, and they did, meant something was wrong with the rules.
-
-The large divide between ruling philosophy, and frontline problems, marked the impending end of the nobles divine right to rule. It was a change seen in the change of early nobles castles and armour, used to defend their people, into palaces and dresses, used to enjoy a fun time at society's expense. Banquets and balls marked the impending end of Darth King. We need to understand exactly why to help forecast our problems. And our answer is in mastering stories.
 
 ## JEDI TRAINING
 
@@ -859,3 +831,6 @@ That's what I wanted to teach you Skywalker. To use the battles of good and evil
 And only the extras can build it. Only the majic of many extras can defend against a corrupted rule book. And now I look at you and see not the kid asking about the rebellion of the mind, but the kid who will forever win the rebellion against the Death Star with our very own tool. The opposite of the Death Star. An uncorruptable rule book, governed by Techvolution. The Life Star.
 
 So I lift my sword, and smile. I smile at eternal rest. Because the Jedi will no longer face down the Sith. It's the extras job now. So I raise my sword, and Darth Blockbuster strikes me down. You know the lesson. The person who holds the tools wins. The civilization that makes the Life Star will win forever.
+
+- if evolution doesn't have Darth Blockbuster, then why should Techvolution?
+  

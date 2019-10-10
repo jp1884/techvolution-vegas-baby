@@ -148,3 +148,9 @@ This happens. When movies started, they left the stiffling rule book of East Coa
 It happened again in California half a century later, in a place we know call Silicon Valley. Here's how.
 
 "But Noyce's most enduring legacy cannot be measured in buildings, accolades, awards, or honors, not in dollars earned or given away, nor in stock price or market share. It cannot be etched in silicon or printed on microchips. There is an informal soft of generational succession in Silicon Valley that places Noyce near the top of the family tree. A few years ago, for example, the founders of Google asked Steve Jobs for advice and mentorship in the same way Jobs had come to Noyce when Apple was young. And even when there is no such explicit tie back to Noyce-even if the latest generation of entrepreneurs do not know his name-his influence endures in a set of ideals that have become an indelible part of American high-tech culture: knowing trumps hierarchy, evey idea can be taken farther, new and interesting is better than established and safe, go for broke or don't go at all. There are countless other influences of course, but Noyce's vision is embedded deep in the eye of the swirling energy that is Silicon Valley, his spirit quietly urging anyone who might listen to 'go off and do something wonderful'." _The Man Behind the Microchip_ page 307
+
+## Original Darth Blockbuster
+
+Whenever I need a pick-me-up I go over to Wikipedia and hit the "random article" button. One of the five million options comes up. From a deserted island, to the tailor who invented the cumberbum, whatever it is, to the frontline these things were important enough to say "people gotta know".
+
+It makes me smile because I know I'd never see Darth Blockbuster. Hierarchical success is nothing. A mirage. Nobody ever thought of him "people need to know".

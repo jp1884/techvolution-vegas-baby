@@ -698,3 +698,63 @@ We thought of the truth. Ancent Greek astronomer and mathematician Aristarchus o
 Aristarchus was right, but his argument still lost because we didn't have the tools yet to see the truth. Aristotle said if the Earth moved so much, why don't the stars move in the sky. Aristarchus said the truth was the stars are extemely far away. But the truth was unbelieveable to people who measured things in feet so Aristotle won. The rule was thus the Sun revolved us on our birthdays.
 
 Geocentrism was a big rule. It was rooted in the Bible, which was the basis of the ruling nobility's power too. When Copernicus used mathematics to question geo-centrism, it wasn't enough. When Galileo used the telescope it helped alot. However, it was only when telescopes got powerful and cheap enough the people could see the truth themselves, that we accepted we revolved around the Earth on our birthdays. Thereafter the rulebook coldn't be corrupted with human interpratations of the truth. Science took over to explain illness, disease, gravity, and the stars. Darth King's days were set the day kids started to get telescopes for their birthdays.
+
+## Life Star
+
+That damn Obi-Wan. He probably turned into a ghost like in the movie and went on vacation or wherever. But no worries. For I am Skywalker, destined to save the galaxy and bring balance to human evolution. So here we go. Let's build the Life Star.
+
+We don't know exactly what it is. Yet we have a great starting point. It's opposite. Light is the opposite of dark the same way full is the opposite of empty. Knowing one, defines the other. The Death Star is a rule book written humans. The Life Star is the opposite of the Death Star.
+
+So what is it? The Life Star is a rule book no human can write. Rules can't be added, fudged, or abused, only uncovered. Happily, we already use this rule book. It's  helped us truly understand our world in so many ways, in areas like chemistry, biology and physics. Of course I'm speaking about Nature.
+
+Nature doesn't change. Gravity, thermodynamics, mitosis, are all rules. But no one can scratch them out and put in there own. Today a person can't say objects on Earth fall at 20 meters squared. The answer is 9.8 m2, and anyone can test it. The powerful are those who master the Truth, not those who write it.
+
+It use to be the opposite. Before the telescope, microscope, and scientific method the powerful could tell everyone what the rules of Nature were. In Renaissance Europe, Friar Bruno (1548-1600) went from country to country telling everyone the human rules were wrong. The Earth revolved the Sun, and worst, there was other solar systems with other planets out there. God's Creation is a limitless Universe. He got burned alive for heresy against human made rules.
+
+We know better today. Not because we're smarter, or wiser, or have better morals and ethics. We know better because we have better cyborgology. Like a ecosystem with more lifeforms, our tools can sense Nature better, and thereby probe it for answers.
+
+We learned Nature with tools. It was microscopes, telescopes, and all the other scientific tools that merged with our natural senses, to probe Nature, and let us uncover its rules in every more detail.
+
+Unlocking Nature's rules slowly undercut Darth Kings divinity. Soon they were the ones facing death for breaking Nature's rules.
+
+Now it is digital tools the empower us to sense and probe Nature. Free of Darth Blockbuster's interference, the extras can spread sensory input with digital tools throughout our society. Since only the people on the frontline will decide good from bad, we'll start to understand what solves traffic, heart attacks, and climate change.
+
+This economic enlightenment will under cut not only Darth Blockbuster's, but also the Sith's ability to corrupt society's man made rule book. Economic policies and political ideologies will cease to be human mande rules. The rules of that bring sustainable human life on Earth will
+
+ Death Stars. Because once we build the Life Star, there's no room left for human made rules. The only rule will be natural selection of our own tools with unhindered Techvolution.
+
+I'll explain the Life Star by asking you a question you can't answer. How old are you?
+
+## Ruling Philosophy Rousseau
+
+Rousseau said the nobility were con artists. They hid behind divinity to rule society for their self interest. Yet noble families ruled every European country. There had to be some reason for it, and there was. At first these families were declared holy by the people, because they were holy.
+
+I'll tell a quick story to explain. It starts with the fall of Western Rome. Rome started as a republic in 753 BC and became a Empire in 27 BC. After several centuries of great prosperity, around 180, the Roman Empire started to suffer a general decline caused by frequent civil wars, declining population, bloated civil administration, greedy military, lazy civilians, stupid emperors, relentless barbarian invasions, and the pacificying effects of Christianty. Finally in 476 western Rome fell apart. The water didn't run. The judges didn't rule. The military didn't defend. It was chaos. Almost like a zombie apocolypse movie.
+
+No kidding. Vikings raided, Arabs invaded, Vandals roamed. This is when the Dark Ages (500 - 1000) started. We call it the Dark Ages, because there is literally almost no record of anything. Few people wrote records, histories, manuscripts, laws; Western Europe went "dark". In times of such anarchy, the people needed security above all else. Whoever stopped the zombies must surely be holy.
+
+The former Roman province of Gaul was at the centre of chaos. Native Celts were pushed out to Wales, Scotland, and Ireland by invading Germanic tribes. These tribes added to the chaos by warring with each other. Eventually however, the Franks won when their leader Clovis I (466-511), established a new kingdom. His dynasty ruled for centuries. Each new generation returned more law and order, and military protection, to the Kingdom of France.
+
+The kingdom was backed by the one remaining Roman institution, the Roman Catholic Church. The churhes priests told the people to cherish their nobility. Sermons told the people the Bible says kings are God's chosen representatives. The people couldn't read the Bible themselves, or even understand the Latin of sermons, but it didn't take much convincing anyway. Raids, invasions, and attacks were less and less. With peace came better farming, trade, and growth. The nobles divine right to rule had the people's support. They could see the defeated invaders, and feel the full stomachs for themselves. Divinity was a logical reality.
+
+The problem with the story of the nobles divine right to rule, wasn't the divinity of the original nobles. France's Kings after Clovis I, like Charles Martel (688-741) and Charlemagne (742-814), all fought on many battlefields to protect their people while making rules to help them prosper. Of course they were protecting their power and taxpayers too. But that's the point. The leaders and the people had a symbiotic relationship.
+
+They worked well together. Soon after Charlemagne, Europe left the Dark Ages and entered the High Middle Ages (1000 - 1300). This time wasn't all the bad to live in, with relative peace, security, and wealth not seen since Rome's peak. We still celebrate it with "Medieval Times" and "Game of Thrones" romanticized stories.
+
+The problem with the nobles's divine story, is the nobles divine right to rule didn't have a conclusion. As Europe kept improving through the High Middle Ages, Late Middle Ages, Renaissance, Enlightenment, it got more peaceful and richer.
+
+But all the wealth was going to the divine nobility. Now long removed from fighting Vikings or Vandals, these nobles told themselves they were divine because of their "noble blood". The nobility that Rousseau knew didn't live in castles wearing dirty body armour of war heroes. They lived in opulant palaces and enjoyed endless banquets and balls. Cinderella wasn't even allowed in!
+
+Here's a few paintings to showcase the change. One's of Charles Martel, and his people. The other of Louis XVI (1754-1793), and his people. You can see the difference in their clothing, and homes.
+
+![Martel to Louis](/img\diagrams/techvolution-martel-louis.png)
+
+Opulance and wealth. They're like signs of a ruling philosophy gone on too long. Early nobles wrote rules to encourage new tools forming majically connections with regular people and improving society for everyone. In the Middle Ages, peasant farmers were supposed to make tills to harvest more food, use screws to dig good wells, work iron to make lots of barrels.
+
+However, as new tools kept getting more powerful, the nobles wrote rules to keep them away from the extras. Books, muskets, scientific instruments were all very empowering. They were kept away from the people by dark majic like fancier cathedrals and royal palaces. Tricks to prevent the people from connecting with new tools, to upgrade their cyborgology.
+
+Here's an example of the divide. Louis XIV made a program to let French peasants visit the Palace at Versailles. Tours were free, and only required a hat and coat (spares were available for rent). Louis wanted "his people" to see how glorious his kingdom was. He thought once the people saw entire rooms made of gold, and hallways of mirrors, they'd see how lucky they were to live in his kingdom.
+
+Ironcially, most peasants didn't have a mirror, and rarely saw their own face. When they saw the Hall of Mirrors at Versailles they saw all the needed in the splendid art and spectacle. The fact the royalty didn't pay taxes, and they did, meant something was wrong with the rules.
+
+The large divide between ruling philosophy, and frontline problems, marked the impending end of the nobles divine right to rule. It was a change seen in the change of early nobles castles and armour, used to defend their people, into palaces and dresses, used to enjoy a fun time at society's expense. Banquets and balls marked the impending end of Darth King. We need to understand exactly why to help forecast our problems. And our answer is in mastering stories.
