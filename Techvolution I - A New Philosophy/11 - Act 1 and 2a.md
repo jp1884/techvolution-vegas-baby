@@ -12,7 +12,7 @@ For the people in the open-source community. For the unspoken philosophy you han
 
 For the antagonists, the self-entitled delegators keeping Blockbuster alive, thanks for causing history to repeat itself yet again. I hope you learn something.
 
-To the extras. When it’s time for you to act, I pray you pick the right side.
+To the extras. When the time comes, I pray you pick the right side.
 
 ## The Beginning
 
@@ -186,7 +186,7 @@ Techvolution is the ruling philosophy letting extras majically bond with any too
 
 ![New Tool/majic](/img\diagrams\techvolution-majic.png)
 
-* Note: Majić is my family name. I lucked out it reads like "magic" in english. It's egotistical to use it here I know, but I couldn't think of a better word. I'm especially using it for my parents. They've been overworked all their life yet still always cleaned and built stuff for other people with care. I wanted to retire them. Instead, I can name the act by which a regular person evolves humanity in their name.
+* Note: Majić is my family name. I lucked out it reads like "magic" in english. It's egotistical to use it here I know, but I couldn't think of a better word. I'm especially using it for my parents. They've been overworked all their life yet still always cleaned and built stuff for other people with care. I wanted to retire them. Instead, I can name the act by which a regular person improves humanity in their name.
 
 * Sticking it to my personal Darth Blockbuster makes me smile too.
 
@@ -196,7 +196,7 @@ Despite our problems with our current one, society always needs a ruling philoso
 
 Maybe. Whose to know which rules are the bad ones. Maybe they're interfering with majic. Maybe they're just good rules. Darth Blockbuster doesn't tell people he's Darth Blockbuster. Instead he says he's an an Executive Vice President, Human Resources Representative, or expert lawyer. Are these people genuine authority figures, or simply out to protect their paychecks?
 
-To answer that, we need to clearly identify the difference between majic and rules, and thereby filter out the good and bad rules. This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
+To answer that, we need to clearly identify the difference between majic and rules to filter out the good and bad rules. This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
 
 ===
 
@@ -258,33 +258,37 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 Frederick Douglass is a true Jedi Master. His great bravery, persistence, and intelligence showcase humanity's endless potential. The big lesson we need to learn here Skywalker, is using majic to tell the difference between good and bad rules.
 
-Sophia taught Douglass to read. She wasn't told to. She did it because we naturally love teaching tools. Whatever our joys are, from boxing, fishing, or reading, we love spreading them. We love it because spreading majic is even cooler than performing magic.
+Sophia taught Douglass to read. She wasn't told to. She did it because we naturally love teaching tools. Whatever our joys are, from boxing, fishing, or reading, we love spreading them. We love it because we're all supposed to spread majic.
 
-When a magician makes a playing card disappear, we smile in awe and childish wonder. That's really cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with reading, they've similarly performed something awesome, but its not a trick; they've upgraded someone's cyborgology and effectively created a new and improved person. This makes us smile for a long time.
+When a magician makes a playing card disappear, we smile in awe and childish wonder. That's really cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with reading, they've similarly performed something awesome, but its not a trick; they've upgraded someone's cyborgology and effectively created a new and improved person. This makes us smile for a long time. Majic is a long lasting dopamine rush.
 
-Yet human made rules _sometimes_ say upgrading to a new tool is wrong. Medieval parishoners couldn't read a science book, peasant farmers couldn't have a musket, a 1990's kid couldn't download a digital song. Today millions of tired mothers can't telecommute. Why?
+Yet human made rules _sometimes_ say upgrading to a new tool is wrong. Medieval parishoners couldn't read a science book, peasant farmers couldn't have a musket, a 1990's kid couldn't download a digital song. Today kids can't repair his laptop and millions of tired mothers can't telecommute. Why?
 
-There is no easy answer. Society's rule book doesn't proclaim itself to be a Death Star. It never will. Remember in no story does a antagonist proclaim themselves to be evil. The lesson Skywalker is it'll never be easy to know the difference between good and bad rules. We make them to ever filter out the bad ones.
+There is no easy answer. Society's rule book doesn't proclaim itself to be a Death Star. It never will; remember in no story does a antagonist proclaim herself evil. The lesson Skywalker is it'll never be easy to know the difference between good and bad rules. Humans make rules so easily in speech, regulations, laws, to ever easily filter out the bad ones.
 
-Majic is our best judge of the rules. It naturally makes us smile. From teaching a kid to walk, to teaching a grandmother to use Skype to watch her grandkids first steps, teaching and learning new tools opens our hearts because it solves problems and improves our way of life.
+Majic is thus our best judge of the rules. It naturally makes us smile. From teaching a kid to walk, to teaching a grandmother to use Skype to watch her grandkids first steps, teaching and learning new tools opens our hearts because it solves problems and improves our way of life.
 
 So, when you're teaching or learning a new tool and someone steps in your way with a rule, ask yourself if you feel majic, and if you do, ask the rulemaker why he doesn't. Perhaps there's a good reason. But keep Sophia in mind. Performing majic made her fell good, while following the rules only made her feel safe.
 
-And safety is fleeting Skywalker. No ruling philosophy lasts forever, thus all rule books eventually expire. Majic never will. It always was, and always will be, in our souls. It's how we naturallt test our rule book. Alternating current, the microchip, the iPhone were all made by people who avoided the rules. Spreading the majic of new tools made Tesla, Noyce, Jobs change our world.
+And safety is fleeting Skywalker. No ruling philosophy lasts forever, thus all rule books eventually expire. Majic never will. It always was, and always will be, in our souls. It's how we naturallt test our rule book. Alternating current, the microchip, the iPhone were all made by people who avoided the rules yet we celebrate Tesla, Noyce, Jobs today because they help us feel and spread majic.
 
 Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers and orators his start, yet she lived a miserable life watching him succeed because she broke the rules. That should help you decide which rules are worth following.
 
-## A World With No Majic
+## A World With Little Majic
 
 Skywalker, the extras are struggling. We already have Jedi in the open-source community creating new tools to solve frontline problems. We already have extras feeling the pain of frontline problems. What we don't have is the freedom of extras to majically form bonds with new tools. For that we need Techvolution.
 
-We need it badly. Darth Blockbuster has turned society's rule book into his Death Star. Ever since the first digital protagonists like Grace Hopper, Jay Last, Vint Cerf, and Al Alcorn created digital tools en masse in the 1970's, Darth Blockbuster has written contracts nobody can understand, regulations nobody can read, and enforces politically correct behavior nobody likes. All to keep his primitive tools in use, and himself in power.
+But let's talk about the good news. There's always good news and its vital to mention to fend off negativity. It's safer to live now then in any other point in human history. The amount of us dying violent deaths has consistently gotten lower. In the Stone Age, about 10-20% of people died violently, most often by murder. In Rome's peak civilization it was around 2-5%. After Rome's collapse it passed 5% again, but by the 18th century it was back to under 5%. Now, less than 1% of us die violently. All because as civilization grows, we make better justice systems, distribute more wealth, and especially make better tools.
 
-Our society's biggest problems like personal isolation, political hatred, and climate change, are wounds of the Death Star's many attacks. Let's look at the world going south since the 1970ss.
+And now we have the good news of enormously powerful digital tools that keep getting faster. In 1972 a microchip had about 3,000 transistors. In 2018 it could have 10 billion. In 46 years, we've increase computer power by 3 million percent. It's only because of old philosophies that we're not using this power to solve our problems.
+
+Digital protagonists like Grace Hopper, Jay Last, and Al Alcorn created digital tools en masse in the 1970's. That's when Darth Blockbuster showed up and made his Death Star. He's written contracts nobody can understand, regulations nobody can read, and enforces politically correct behavior nobody likes. All to keep his primitive tools in use and himself in power.
+
+Our society's biggest problems like personal isolation, political hatred, and climate change, are wounds of the Death Star's many attacks. But keep in mind, we can solve them with digital uses and Techvolution. Let's look at some stats to better understand our wounds.
 
 Moore's Law - transistor count
 <iframe src="https://ourworldindata.org/grapher/transistors-per-microprocessor?time=1971..2017" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-Moore's Law - Transistor's power electronics. Roughly every two years Jedi can double the amount inside a microship. This exponential increase showcases how much more powerful digital tools are, requiring Darth Blockbuster to increasingly use his Death Star to keep his tools in power.
+Moore's Law - Transistor's power electronics. Roughly every two years Jedi can double the amount inside a microship. This exponential increase showcases how much more powerful digital tools are. It services two purposes. One it shows when Darth Blockbuster came, and how much harder he's had to work to keep his tools in power. And two, how despite it all humanity is improving life on Earth, so stay positive. Techvolution is about making the already good things happen better.
 
 Red Tape monitor
 ![Red Tape Monitor](/img\diagrams\GWRegStudies-PagesPublishedintheCFR-6.12.19.png)
@@ -308,21 +312,21 @@ We keep using old tools, thus our problems pile up. Loyalty to old philosophies 
 
 ## Things Won't Change, Until
 
-Most of our problems started in the 1970's for a reason. That's when protagonists's created digital tools, and Darth Blockbuster showed up to keep our car driving, suburban living, broadcast television watching, 9-5 working, two car garage home building, unhealthy food eating, univeristy admission test taking lifestyle going. Despite totally new tools, the American way of life hasn't changed. It's still the "American Dream" to live in a post World War II baby boomer suburb.
+Most of our problems started in the 1970's for a reason. That's when protagonists's created digital tools, and Darth Blockbuster showed up to keep our car driving, suburban living, broadcast television watching, 9-5 working, two car garage home building, unhealthy food eating, central power station buying, univeristy admission test taking lifestyle going. Despite totally new tools, the American way of life hasn't changed. It's still the "American Dream" to live in a post World War II baby boomer suburb.
 
-Our environment, resources, tools are completely different. Yet we live the same. That's like trying to make a camel live in the Amazon and wondering why it struggles to survive. There's nothing wrong with either, but they simply aren't adapted to each other.
+Our environment, resources, tools are completely different. Yet we live the same. That's like trying to make a camel live in the Amazon. There's nothing wrong with either, but they simply aren't adapted to each other.
 
-Thus, red / blue politics are stuck trying to subsidize a wet and very stubborn camel. They fight to keep suburbia alive. For example, because university libraries and lecture halls are still considered "formal education", red / blue endlessly debate who should get into university and how the masive expense should be paid. Endless battles over affirmative action, student loan rates, and state education subsidies are the result.
+Darth Blockbuster is the camel. He controls adaption, in this case the 1959 suburban lifestyle, that is outdated. Rather than return to the drawing board, and try to figure how how to succeed, Darth Blockbuster  co-opts society's rule book to keep himself in power. Thus, our red / blue politics is about subsidizing a wet and very selfish camel.
 
-While better tools are ignored. Digital tools can educate anyone willing. Wikipedia, YouTube, Khan Academy, Udemy, Skillshare, Brilliant, The Great Courses, are merely the first new digital education tools. They do wonderful jobs, yet are funded for a tiny fraction of formal education, and get no official support. We don't teach kids to read or update Wikipedia in schools. We don't track their progress in Khan Academy's micro-lessons. We defintely don't recognize "degrees" from Udemy, or YouTube, even though most programmers and designers learn far more there then in any college classroom.
+For example, because university libraries and lecture halls are still considered "formal education", red / blue endlessly debate who should get into university and how the masive expense should be paid. Endless battles over affirmative action, student loan rates, and state education subsidies are the result.
 
-And thus it goes. Our politics promotes gas cars, and talks about ending traffic and climate change. Our typical homes don't generate a volt of electricity or collect their own water, yet the increase in value. We use health insurance but have no idea whose abusing it to cause premiums to keep going up.
+All while better tools are ignored. Digital tools can educate anyone willing. Wikipedia, YouTube, Khan Academy, Udemy, Skillshare, Brilliant, The Great Courses, are merely the first new digital education tools. They do wonderful jobs, yet are funded for a tiny fraction of formal education, and get no official support. We don't teach kids to read or update Wikipedia in schools. We don't track student progress in Khan Academy's micro-lessons. We defintely don't recognize "degrees" from Udemy, or YouTube, even though most programmers and designers learn far more there then in any college classroom.
 
-Our society suffers keeping the imagined world of 1959 baby-boomer suburbia going. Despite way too much carbon in the atmostphere, gridlocked roads, housing bubble bursts, massive student debt, and horrible individual health, we keep living the same way, under the rules of an old ruling philosophy, written by antagonists to keep the tools they control in power. Our entire climate is changing because our ruling philosophy is not.
+Our society suffers keeping the imagined world of 1959 baby-boomer suburbia going. Despite way too much carbon in the atmostphere, gridlocked roads, housing bubble bursts, massive student debt, and horrible individual health, our politics keeps us using gas cars, mass produced homes with no solar panels or water collection built in, super-expensive college education, and very confusing health insurance. Our entire climate is changing because our ruling philosophy is not.
 
-Middle class quality of life, political cooperation, and climate change, won't get better until the extras join the protagonists, step-up to the antagonists, and start to use digital tools that actually solve problems. To do that, we need a rule book written from Techvolution.
+Middle class quality of life, political cooperation, and climate change, won't get better until the extras join the protagonists, step-up to the antagonists, and start to use digital tools that actually solve problems. To do that, we need a rule book written from Techvolution. Until we do, we're basically camels trying to live in the Amazon.
 
-We can win Skywalker. I'll show you.
+But don't despaire. The good news is, we can win Skywalker. I'll show you.
 
 # A TECHVOLUTION BATTLE SCENE
 
@@ -394,7 +398,7 @@ Together, protagonists and extras can kill all these Darth Blockbusters. I know 
 
 Darth King lived inside palaces, using society’s money to host splendid banquests and balls. His absolute power was hidden inside a ruling philosophy of the “noble’s divine right to rule”. Slowly, as protagonists invented scientific instruments, books, and guns, a new philosophy was born. A philosophy of science, enlightenment, equality, and democracy, made real when the protagonists and extras fought as one in the American and French Revolutions. They were inspired by the new philosophy of Jean-Jacques Rousseau.
 
-![Battle Scene](/img\prologue\techvolution-battle-scene.png)
+![Battle Scene](/img\diagrams\techvolution-battle.png)
 
 # ROUSSEAU'S EXTRAS
 
@@ -425,81 +429,60 @@ Rousseau died never having found a home. After they won their revolutions, a pop
 
 The question for us is, how did Rousseau do it?
 
-![Revolutions!](/img\diagrams\techvolution-revolution.png)
-
 ## The Road to Techvolution, and the Death of Revolutions
 
-Rousseau, who was only ever a poor writer with no political power, changed history by making the people realize they suffered on the frontline because the ruling philosophy was old. Even though French and Americans could read pamplets, newspapers, and books about on current events, they still couldn't vote. Even though they could use guns to expand the king's land, they weren't allowed to use guns to defend themselve against the king. The people's cyborgolgy was held back by Darth King's rules. Rousseau made the people realize this was bullshit.
+Rousseau, who was only ever a poor writer with no political power, changed history by making the people realize they suffered on the frontline because of an old ruling philosophy. Even though French and Americans could read pamplets, newspapers, and books and understand current events, they still couldn't vote. Even though they could use guns to expand the king's land, they weren't allowed to use guns to defend themselve against the king. The people's cyborgolgy was held back by Darth King's rules. Rousseau made the people realize this was bullshit.
 
 The people's demand for change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the other revolutions in the 19th centuries were violent, because the divide between ruling philosophy, and frontline society, was so wide.
 
-It's a lesson for us, as we start this Techvolution. We have to hurry up. Because the longer we wait to update our ruling philosophy to digital tools, the more out of touch the frontline and ruling philosophy gets. The result is needless revolution. All the more reason for a Techvolution now.
+It's a lesson for us. We have to hurry up. Because the longer we wait to update our ruling philosophy to digital tools, the more out of touch the frontline and ruling philosophy gets. The result is needless revolution. All the more reason for a Techvolution now.
+
+![Revolutions!](/img\diagrams\techvolution-revolution.png)
 
 ## ~~Revolution~~ Techvolution
 
-Skywalker, you look tense. I get why. Revolutions are tough. Maybe we should get the bristol boards out, smear the face paint, and fight! Fight for free college education! Fight for less regulations! Fight for affordable health insurance! Fight for tax cuts! Let's march and yell!
+Skywalker, you look tense. I get why. Revolutions are tough. Maybe we should get the bristol boards out, smear the face paint, and fight! Fight for free college education! Fight for less regulations! Fight for public option health insurance! Fight for tax cuts! Let's march and yell!
 
-What color do you want. See the trap there? No matter how hard one side pushes, the other side matches. Red and blue is recipe for inaction Darth Blockbuster uses to keep himself in power.
+What color do you want. See the trap there? Red / blue each have one paddle in the same canoe. The harder one side pushes, the other has to match. Fighting over tools is supposed ensure their shared canoe goes forward, which worked for centuries, until digital tools meant they have to start cooperating, not competing. Now red and blue is recipe for inaction Darth Blockbuster uses to keep himself in power.
 
-There is no answer for contemporary problems using old philosophies. I know red /blue is easy and comfortable, but if you want that, cable news and their pundits are waiting. They can explain why it's the other sides fault you can't afford health insurance. Just don't ask them to bet five of their own dollars there color will solve the problem.
+There is no answer for pur problems using old philosophies. I know red / blue is easy and comfortable, but if you want that, cable news and their pundits are waiting. They can easily explain why health insurance is too expensive, or why traffic exists, because it's other sides fault all day to you. Just be sure to keep watching the commercial break about a new presciption drug you should ask your doctor about, or get that new fancy car to wait in traffic in.
 
 Keep the marches and protests of red / blue out of your mind. We're inspired by, but not repeatting, _Les Miserables_. Fighting for change doesn't mean to grab hold of the commanding heights of primitive tools. We have digital tools. We have the technology to make tools to solve each peron's individual problems. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we want is the ultimate revolution.
 
 # STORIES
 
-Good stories versus bad stories. You can find them out by asking "what's your favorite line" in Star Wars it's likely "May the Force be with you". In The Empire Strikes Back it might be "I love you" "I know". This isbecause this storise are good, they reveal character, and don't use effects to hide themselves.
+Rousseau said the nobility were con artists. They hid behind divinity to rule society for their self interest. Yet noble families ruled every European country. There had to be some reason for it, and there was. At first these families were declared holy by the people, because they were holy. I'll explain that story, by explaining what makes stories good and bad.
 
-This happens in societies too....
+## Jedi Training
 
+Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, laugn, jump, yell, it's a good story. When thousands of people walk out talking about twists, turns, and cool lines you know the story made memories.
 
+Memorable twists, turns, and lines make a good movie. _Star Wars_ has "May the Force be with you", it's sequel _In The Empire Strikes Back_ has Leia finally saying "I love you", and Solo's perfect reply, "I know". Moments like this let's us communicate our interests, beliefs, and personalities. That's the power of stories.
 
+However, people often like movies with no twists, turns, or good lines. As I stood outside the recent Star Wars movies, there was much excitement, but almost no one raved about anything, not really even the effects, which aren't so special anymore. Although we assume, especially in popular culture, the movies still contribute to our culture, most don't make us scream, laugh, or yell. The ability to explain why is the difference between a Jedi with a training sword, and a Jedi who understands why Darth Blockbuster loves fancy palaces, and how Rousseau spoil his party.
 
+## Digital Tools Become Lightsabres
 
+A story is sequence of events where a protagonist fights to change something an antagonist fights to preserve. They fight in three parts. The first is an introduction to the problem and characters. The second is the battle between good and bad sides. The third part is the conclusion, where we find out which side wins.
 
+In good storytelling, be it fantasy, romance, or comedy, the sequence of events must be unexpected enough to be interesting, yet logical enough to be believable. Balancing the two makes audiences wonder, but still comprehend, what's going to happen next.
 
+Telling the difference between good and bad stories is hard. Everything seems like a story, because everything happens in a series events. Yet, only when the series is created to have a logicical and surprising progression is it a story because it connects to our subconscious and unlocks our emotions.
 
-## JEDI TRAINING
+Thus, we don't naturally know the difference between good and bad stories. It takes time to understand what makes a logical, but surprsing, series of events. When we do however, we understand good stories are powerful through simplicity, and bad stories require distractions to keep audiences engaged.
 
-### Jedi Introduction
+Regardless of being good or bad however, every story element has a reason to exist, even if we don’t initially understand it. And here’s the connection with Techvolution. Because understanding all the reasoning hidden in stories, helps us understand all the reasoning hidden in our society. From rightfully divine kings, to stupidly loser ones. idk.
 
-Skywalker, you're doing well. But if you're going to topple Darth Blockbuster, you need to learn the advanced stuff.
+## Stories Under the Microscope
 
-We already know protagonist and antagonists fight over tools. Europe's divine nobles won this battle for centuries, and increasingly spent society's money on their banquets and balls until the people revolted with bent up rage. With the benefit of hindsight, the American and French Revolutions are obvious to us. But in real-time, they weren't. It's very hard to interpret the society you're living in. It's not like the nobles wanted to have their heads chopped off.
+Look at pin under a microsope, and you'll see scratches and dents. They were always there, just couldn't be seen with our biological eyes. Likewise, look at a story with a better tool, and you'll see unseen details too. But in layers. The deeper you go, the more you'll understand.
 
-So what does a healthy and unhealthy society look like. What are the physical manifestations that let us navigate our own ruling philosophies. We're going to find out using stories.
+The first layer is the most obvious. It's everything we see. I'm talking brooms, shoes, buildings, clothes. All items that make up a setting like Renaissance Italy, or modern suburbia. The next layer is the important items. The ones people are passionate it about. like guitars to a guitarist, or guns to a soldiers. The next layer is the rulebook, what people are allowed and not allowed to say. After that comes the antagonist, the person using the rules to keep things the same. Next layer is the ruling philosphy, which the antagonist is a believer in and likes its determination for the definitions of right and wrong. Then there's the protagonist who sees above the ruling philosophy and wants to change it to change the world. And the last layer is the tool or weapon, like the Death Star plans, or the glass slipper, the means of power everyone is fighting to control.
 
-### Storytelling Indicators
+Let's see all these layers in a few movies.
 
-A story is a protagonist fighting to solve a problem an antagonist defends. They fight in three parts. The first is an introduction to the problem and characters. The second is the battle between good and bad sides. The third part is the conclusoin, where we find out which side wins.
-
-In good storytelling, be it fantasy, romance, or comedy, the sequence of events must be unexpected enough to be interesting, yet logical enough to be believable. Balancing the two is the art of good storytelling because it makes audiences wonder, care, but comprehend, what's going to happen next.
-
-So, stories surprise us, but at the same time, they need to be logical. That means every story element needs a reason to exist, even if we don’t initially understand it. And here’s the connection with Techvolution. Because understanding all the reasoning hidden in stories, helps us understand all the reasoning hidden in our society.
-
-Because we solve problems with new tools. Inventing, and distributing new tools is a story. Invention is fueld by genius, distribution by majic, and both fight antagonists to change society. To master these stories, we have to fully understand stories.
-
-Stories are valuable because they explain why humans act the way we do. The conscious mind will always perceive a series of events. The human subconscious will always try to find meaning to any series of events. Thus, if a story is logical, an audiences unconsicous and conscious minds are in alignment and a link develops between the story and the viewer. When a story isn't logical, it requires something to keep the audience engage.
-
-If we put stories under a microscope, what would we see. What parts are more important than others. Here's how Aristotle dissected stories in _Poetics_. Here's the list from the least to the most important to the stories.
-
-Items: are the props, of the story, that put together makes the setting, like ancient Rome, galactic space, or suburan American. Items are like a veil. To understand society, means to be able to look past the setting and spot the important items..
-
-Passions: are the items people care about. The American flag, wedding rings, Palace at Versailles. People's passions are usually defined by the stories's rule book.
-
-Rulebook: society's rule book, whether written of spoken. Like Douglass learning to read, and Hugh telling Sophia teaching a slave to read is bad. Dialogue is authority antagonists fight to control.
-
-Antagonist: defends the society against changes. They use items, passions, and dialogue to do it. However, since an antagonist defends society, he is a servant of, and thus bound by the society's ruling philosophy.
-
-Ruling philosphy: is the philosophy that sets society's rules. Like the "Dark Side" controlling the empire in _Star Wars_, the machines controlling _The Matrix_, or the evil step-family controlling Cinderella. The ruling philosophy isn't created in the story. It already exists. Inside this cave is the reality most people live inside. The ruling philosophy so powerful it controls anyone not a protagonist.
-
-Protagonist: the rulebreakers who see a problem with the ruling philosophy, and fight to replace it with a new one, like Luke Skywalker, Neo, Cinderella. Only protagonists can rise above the ruling philosophy. That's why the protagonist is the story's leader. Their success determines if society will change or not.
-
-Plot: the series of battles between protagonist and antagonist. Usually the plot is over a tool whose creation, or destruction, determines the winner of the story. The Death Star, matrix, and glass slipper, are all tools. Whoever controls them, is the winner of the story.
-
-We can visual this order like this. Remember this heirachy is relative to a fictional story. We'll re-jig these tools later to analyze our reality.
-
-![The Matrix](\../img\aristotle-dialectics\triangle-the-matrix.png)
-**The Matrix:** The story is about machines that enslave humanity inside a virtual prison that looks like 1990's America. Humans are connected with a connection into our skulls. The real world is a dystopia and people are power generators for the machines.
+![The Matrix](\../img\aristotle-dialectics\techvolution-the-matrix-layers.png)
+**The Matrix:** The story is about machines that enslave humanity inside a virtual prison that looks like 1990's America. Humans are connected with a connection into our brains. The real world is a dystopia and people are power generators for "the machines".
 
 The antagonist machine leader likes the matrix, and defends the ruling philosophy of slavery. The protagonist Neo slowly realizes ways to master The Matrix's philosophy and overpowers the ignorant antagonists. The plot is about cutting the cord that lets the machines control human prisoners.
 
@@ -584,6 +567,15 @@ Unless distribution is held back by Darth Blockbuster. When it is, like it was b
 ![After the story ends](\../img\aristotle-dialectics\techvolution-story-types-applied.png)
 
 This was all for the extra's benefits. The ones like Sophia who are in between the battle between two tools. Once the extras defend their natural majic of learning and spraeding new tools, and also the can tell teh difference between the good and bad guys society can lost the wasteful art and spectacle and have more functional stories.
+
+## Rousseau The Butler
+
+Stories are a series of events where a protagonist tries to solve a problem, and an antagonist fighting to keep things the same. The conscious mind will always perceive a series of events. The human subconscious will always try to find meaning to any series of events. Thus, if a story is logical, an audiences unconsicous and conscious minds are in alignment and a link develops between the story and the viewer. When a story isn't logical, it requires something to keep the audience engage.
+
+
+
+This happens in societies too....
+
 
 # THE BIG FIGHT
 
@@ -832,5 +824,4 @@ And only the extras can build it. Only the majic of many extras can defend again
 
 So I lift my sword, and smile. I smile at eternal rest. Because the Jedi will no longer face down the Sith. It's the extras job now. So I raise my sword, and Darth Blockbuster strikes me down. You know the lesson. The person who holds the tools wins. The civilization that makes the Life Star will win forever.
 
-- if evolution doesn't have Darth Blockbuster, then why should Techvolution?
-  
+* if evolution doesn't have Darth Blockbuster, then why should Techvolution?
