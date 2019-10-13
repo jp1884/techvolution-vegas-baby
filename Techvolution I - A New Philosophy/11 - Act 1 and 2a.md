@@ -455,25 +455,39 @@ Keep the marches and protests of red / blue out of your mind. We're inspired by,
 
 # STORIES
 
-Rousseau said the nobility were con artists. They hid behind divinity to rule society for their self interest. Yet noble families ruled every European country. There had to be some reason for it, and there was. At first these families were declared holy by the people because they were holy. I'll explain that story, by explaining what makes stories good and bad.
+Rousseau said the nobility were con artists who hid behind divinity to rule society for their self interest. Yet noble families ruled every European country. There had to be some reason for it, and there was. At first these families were declared holy by the people because they were holy. I'll explain that story, by explaining the difference between good and bad stories.
 
-## Jedi Training
+## Good vs Bad Stories
 
-Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, laugh, yell, cry, it's a good story. Even more telling, when moviegoers walked out talking about twists, turns, and cool lines you know the story was really good, because it turned fiction into real memories.
+Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, laugh, yell, cry, it's a good story. Even more telling was when moviegoers walk out. If they were talking about twists, turns, and cool lines you know the story was really good, because it turned fiction into real memories.
 
-Good stories makes us follow them. _Star Wars_ does it lines like "May the Force be with you". _The Matrix_ does it with one question "what is the matrix?". Each story is so powerful we follow it by using these fictional lines in our real lives.
+Good stories makes us follow them. Every surprising victory, or gut-wrenching defeat, captures an audience's mind and puts ideas and memories inside it. That's why simple lines like "May the Force be with you" and "What is the matrix?" can still uplift a friend, or help question reality, in the real-world today.
 
-However, people often like movies with no twists, turns, or good lines. Although we assume, especially in popular culture, the movies still contribute to our culture, become a projectionist and you'll see most don't make us follow them anymore. For example, as I stood outside the recent Star Wars movie, there was much excitement, but no one mentioned newly created memories. People were only excited about "May the Force be with you" out of habit, which is also what the matrix is. Rules we follow out of habit, and frontline problems break our bad habits.
+However, people often like movies with no twists, turns, or good lines. Although we assume, especially in popular culture, the movies still contribute to our culture, become a projectionist and you'll see most don't make us follow them anymore. For example, as I stood outside the recent Star Wars movie, there was much excitement, but no one mentioned newly created memories. People were only excited about "May the Force be with you" out of habit. And that's what the matrix is. Rules we follow out of habit. And historically it's frontline problems that break our bad habits.
 
-## Digital Tools Become Lightsabres
+## The Difference Between Good and Bad
 
 A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. They fight in three parts. The first is an introduction to the problem and characters. The second is the battle between good and bad sides. The third part is the conclusion, where we find out which side wins.
 
-Telling the difference between good and bad stories is hard. Everything can seem like a story, because everything happens in a sequence of events. Good stories are a specific sequence that are naturally rare and hard to create. They have to be unexpected enough to be interesting, yet logical enough to be believable.
+Telling the difference between good and bad stories is hard. The problem is anything can seem like legitimate story because everything happens in a sequence of events. However, good stories are a specific sequence that are naturally rare and especially hard to create. They have to be unexpected enough to be interesting, yet reasonable enough to be believable. One too many slip ups and the audience either doesn't care, and doesn't believe, what happens next.
 
-Opening our minds with comprehensable new information is how good stories unlock our emotions and make memories. Bad stories can't do this, so they need to distract us. That's why the first _Star Wars_ was a budget movie that made so many memories, while their descendants use effects, marketing, and old memories, to get attention.
+Good stories thus walk a fine line. They first must open our minds with believability but still use creative twists to insert new information. However, when done right this mixture unlocks our emotions and makes memories. Moviegoers cry or scream because they believe the story is real, they talk on about twists because they didn't see it coming.
 
-And here’s the connection with Techvolution. We like good stories because they make sense, and lead us to new emotions, ideas, and memories. We have to be tricked into liking bad ones because they exploit our old memories. And that's the difference between the kings we loved, to the ones we hated. We'll see it better when we look at stories under a microscope.
+Bad stories can't do this so they need to distract us. While they are a sequence of events and can seem like legitmate stories, they are not reasonable nor suprising, and thus can't unlock emotions or create new memories. It doesn't matter the first _Star Wars_ had tiny budget with weird names and funny effects. It was a good story and so audiences loved it. While its descendants have limitless budgets but need use effects, marketing, and old memories, to get any attention.
+
+This divide is why early European kings were holy, and later ones assumed they were. We can explain this divide by further going into the divide between majic and dark majic.
+
+## Majic vs Dark Majic
+
+Good movies are often called movie magic. Among the other reasons, I used majic for this reason. See what happened there, a logical twist increased the impact on the reader.
+
+We can understand how and why someone bonds with a new tool by understanding a person bonds with a story that continually surprises the audience with logical revelations. I won't mention any spolier alerts because they ruin the ride.
+
+Likewise, when someone bonds with a new tool. It's not because they know what's going to happen next, but because they believe they'll find new uses and benefits the more hold the tool. That's the majic of stories, and the majic of tools, only different because movies are fake, while tools are real.
+
+Bad stories, and old tools are similarly related. Without memorable twists, turns, and good lines, bad movies have to take advantage of old memories, fancy effects, or mass marketing to attract attention. And this is degenerative, more of it is needed every time. Likewise, old tools that aren't the best at solving a frontline problem anymore, use these same techniques to distract from their dysfunction. The former is a boring movie, the later is dark majic because it keeps a problem alive longer.
+
+And here’s the connection with Techvolution. We like good stories because they make sense, and lead us to new emotions, ideas, and memories. We have to be tricked into liking bad ones because they exploit our old memories. And that's the difference between the kings we loved, to the ones we hated. We'll see it better when we peel away the layers of stories to see the majic and majic behind both.
 
 ## Reality of Stories
 
