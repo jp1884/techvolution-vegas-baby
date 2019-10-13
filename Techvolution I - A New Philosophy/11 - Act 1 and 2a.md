@@ -6,13 +6,17 @@ October 2019
 
 # PROLOGUE
 
+## Quote
+
+"We are really the revolutionaries in the world today-not the kids with long hair and beards who were wrecking the schools a few years ago." Gordon Moore, co-founder of Intel, 1973.
+
 ## Dedication
 
 For the people in the open-source community. For the unspoken philosophy you handed down to me. For caring so unconditionally when updating Wikipedia, writing free software, and building cool new tech for us all. For showing me who the protagonists are. It’s the best education a political guy can get. I hope I learned enough.
 
 For the antagonists, the self-entitled delegators keeping Blockbuster alive, thanks for causing history to repeat itself yet again. I hope you learn something.
 
-To the extras. When the time comes, I pray you pick the right side.
+To the extras. When it's time for you to act, I pray you pick the right side.
 
 ## The Beginning
 
@@ -451,100 +455,92 @@ Keep the marches and protests of red / blue out of your mind. We're inspired by,
 
 # STORIES
 
-Rousseau said the nobility were con artists. They hid behind divinity to rule society for their self interest. Yet noble families ruled every European country. There had to be some reason for it, and there was. At first these families were declared holy by the people, because they were holy. I'll explain that story, by explaining what makes stories good and bad.
+Rousseau said the nobility were con artists. They hid behind divinity to rule society for their self interest. Yet noble families ruled every European country. There had to be some reason for it, and there was. At first these families were declared holy by the people because they were holy. I'll explain that story, by explaining what makes stories good and bad.
 
 ## Jedi Training
 
-Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, laugn, jump, yell, it's a good story. When thousands of people walk out talking about twists, turns, and cool lines you know the story made memories.
+Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, laugh, yell, cry, it's a good story. Even more telling, when moviegoers walked out talking about twists, turns, and cool lines you know the story was really good, because it turned fiction into real memories.
 
-Memorable twists, turns, and lines make a good movie. _Star Wars_ has "May the Force be with you", it's sequel _In The Empire Strikes Back_ has Leia finally saying "I love you", and Solo's perfect reply, "I know". Moments like this let's us communicate our interests, beliefs, and personalities. That's the power of stories.
+Good stories makes us follow them. _Star Wars_ does it lines like "May the Force be with you". _The Matrix_ does it with one question "what is the matrix?". Each story is so powerful we follow it by using these fictional lines in our real lives.
 
-However, people often like movies with no twists, turns, or good lines. As I stood outside the recent Star Wars movies, there was much excitement, but almost no one raved about anything, not really even the effects, which aren't so special anymore. Although we assume, especially in popular culture, the movies still contribute to our culture, most don't make us scream, laugh, or yell. The ability to explain why is the difference between a Jedi with a training sword, and a Jedi who understands why Darth Blockbuster loves fancy palaces, and how Rousseau spoil his party.
+However, people often like movies with no twists, turns, or good lines. Although we assume, especially in popular culture, the movies still contribute to our culture, become a projectionist and you'll see most don't make us follow them anymore. For example, as I stood outside the recent Star Wars movie, there was much excitement, but no one mentioned newly created memories. People were only excited about "May the Force be with you" out of habit, which is also what the matrix is. Rules we follow out of habit, and frontline problems break our bad habits.
 
 ## Digital Tools Become Lightsabres
 
-A story is sequence of events where a protagonist fights to change something an antagonist fights to preserve. They fight in three parts. The first is an introduction to the problem and characters. The second is the battle between good and bad sides. The third part is the conclusion, where we find out which side wins.
+A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. They fight in three parts. The first is an introduction to the problem and characters. The second is the battle between good and bad sides. The third part is the conclusion, where we find out which side wins.
 
-In good storytelling, be it fantasy, romance, or comedy, the sequence of events must be unexpected enough to be interesting, yet logical enough to be believable. Balancing the two makes audiences wonder, but still comprehend, what's going to happen next.
+Telling the difference between good and bad stories is hard. Everything can seem like a story, because everything happens in a sequence of events. Good stories are a specific sequence that are naturally rare and hard to create. They have to be unexpected enough to be interesting, yet logical enough to be believable.
 
-Telling the difference between good and bad stories is hard. Everything seems like a story, because everything happens in a series events. Yet, only when the series is created to have a logicical and surprising progression is it a story because it connects to our subconscious and unlocks our emotions.
+Opening our minds with comprehensable new information is how good stories unlock our emotions and make memories. Bad stories can't do this, so they need to distract us. That's why the first _Star Wars_ was a budget movie that made so many memories, while their descendants use effects, marketing, and old memories, to get attention.
 
-Thus, we don't naturally know the difference between good and bad stories. It takes time to understand what makes a logical, but surprsing, series of events. When we do however, we understand good stories are powerful through simplicity, and bad stories require distractions to keep audiences engaged.
+And here’s the connection with Techvolution. We like good stories because they make sense, and lead us to new emotions, ideas, and memories. We have to be tricked into liking bad ones because they exploit our old memories. And that's the difference between the kings we loved, to the ones we hated. We'll see it better when we look at stories under a microscope.
 
-Regardless of being good or bad however, every story element has a reason to exist, even if we don’t initially understand it. And here’s the connection with Techvolution. Because understanding all the reasoning hidden in stories, helps us understand all the reasoning hidden in our society. From rightfully divine kings, to stupidly loser ones. idk.
+## Reality of Stories
 
-## Stories Under the Microscope
+Stories are about changing reality. Their realiy has layers; a mixture of dialogue, characters, and props. The difference between good and bad stories is properly aligning these layers in their order of importance.
 
-Look at pin under a microsope, and you'll see scratches and dents. They were always there, just couldn't be seen with our biological eyes. Likewise, look at a story with a better tool, and you'll see unseen details too. But in layers. The deeper you go, the more you'll understand.
-
-The first layer is the most obvious. It's everything we see. I'm talking brooms, shoes, buildings, clothes. All items that make up a setting like Renaissance Italy, or modern suburbia. The next layer is the important items. The ones people are passionate it about. like guitars to a guitarist, or guns to a soldiers. The next layer is the rulebook, what people are allowed and not allowed to say. After that comes the antagonist, the person using the rules to keep things the same. Next layer is the ruling philosphy, which the antagonist is a believer in and likes its determination for the definitions of right and wrong. Then there's the protagonist who sees above the ruling philosophy and wants to change it to change the world. And the last layer is the tool or weapon, like the Death Star plans, or the glass slipper, the means of power everyone is fighting to control.
+The first layer is the most obvious. It's everything we see. I'm talking clothes, ships, food, beds. All items that make up a setting like Renaissance Italy, or modern suburbia. The next layer is the items people are passionate about like guitars to a guitarist, guns to a soldiers, planes to a rebel. The next layer is the rulebook, what people are allowed and not allowed to say; no storm trooper said "May the Force be with you" to Vader. After that comes the antagonist, the person using the rules to keep things the same, like Vader. Next layer is the ruling philosphy, which the antagonist is a believer in, like the Dark Side. Then there's the protagonist, like Luke Skywalker, who sees above the ruling philosophy and wants to change the world. And the last layer is the tool or weapon, like the Death Star plans, the means of power everyone is fighting to control.
 
 Let's see all these layers in a few movies.
 
-![The Matrix](\../img\aristotle-dialectics\techvolution-the-matrix-layers.png)
-**The Matrix:** The story is about machines that enslave humanity inside a virtual prison that looks like 1990's America. Humans are connected with a connection into our brains. The real world is a dystopia and people are power generators for "the machines".
+![The Matrix](\../img\breakdowns\techvolution-the-matrix-layers.png)
 
-The antagonist machine leader likes the matrix, and defends the ruling philosophy of slavery. The protagonist Neo slowly realizes ways to master The Matrix's philosophy and overpowers the ignorant antagonists. The plot is about cutting the cord that lets the machines control human prisoners.
+![Star War](\../img\breakdowns\techvolution-star-wars-layers.png)
 
-![Star War](\../img\aristotle-dialectics\triangle-star-wars.png)
-**Star Wars:** An entire galaxy is controlled by a evil Empire. Evildoers keep control with their superweapon Death Star. Meagre resistance fighters stole its schematics and might find a weakness. The antagonist is Darth Vader who needs to save the Death Star to keep the Dark Side on top of the eternal philosophy battle between Light and Dark Sides. The protagonist Luke slowly realizes how to master the Light Side and become strong enough to defeat Darth Vader. The plot depends of if Luke's missle will destroy the Death Star.
+These are the layers of a good movie. And while no one can master the alchemy of creating stories, no good story that passes the test of time like Cinderella, Star Wars, or The Matrix, breaks this order.
 
-![Argh](\../img\aristotle-dialectics\triangle-office-space.png)
-**Office Space:**  Hits close to home, the story about the boring drugery of modern suburban life and office work. The ruling philosophy is commercialism that gives workers repetitive tasks and keeps them in line with absurd office culture and just enough money to pay their bills. The antagonist is the boss who gets a disproportionate amount of money, prestige, and power.
+Following it is what got Europe's noble familes in power. Breaking it got them out of power. We'll get the full picture once we undertand the functional way a good movie is assembled, and the art and spectacle of bad ones.
 
-The protagonist is the guy who values his freedom more then money. The plot rests on whether the protagonist will control the tool, money, to free himself from having to work anymore.
+## Charting Stories
 
-### Charting Stories
-
-What does a healthy story, its events, philosophies, characters, and items, work together.
+Here's what the sequence of events looks like.
 
 Here's a legend.
 
-![Legend](\../img\aristotle-dialectics\story-legend.png)
+![Legend](\../img\breakdowns\story-legend.png)
 
 **Old Society** - The society before the story starts.
 **Beginning** - When the protagonist breaks from society.
 **Protagonist philosophy** - The good guy acts out his philosophy.
 **Antagonist philosophy** -  The bad guy acts out his philosophy.
-**Realizations** -  Moments when a character realizes something.
-**Suffering of the Protagonist** - Long periods when the protagonists suffers.
-**Reversal of Situations** - When the plot changes big time.
+**Build up** - Long periods when the protagonists suffers.
+**Realizations** -  When the plot changes and we realize something new.
 **Free will** - The time character's have to act. Small spread is grave danger, big is nothing matters.
 **Conclusion** - The final battle.
 **New Society** - The result of the battle.
 
-This is the how story's look like. We'll map out the fight over new tools soon. First we have to see the three difference kinds of stories we'll encounter.
+Now, here's what this sequence of events looks like for functional, spectacle, and art movies.
 
-### Three Kings of Stories
-
-There are three kinds of stories. One that works, and two that don't for different reasons.
-
-![Functional Story](\../img\aristotle-dialectics\story-functional.png)
+![Functional Story](\../img\breakdowns\story-functional.png)
 *Functional:* Story parts are well ordered. The story is about an explicit problem. The protagonist wants to change something, and the antagonist doesn't. Both have passion, making them a believable person. As protagonist and antagonist battle, they make a logical yet surprising plot.
 
-The stories problems are logical, and thus the character has time to figure them out. Because it's a functional story the audience cares about the story and its characters. Ex. Cinderella, Shawshank Redemption, Star Wars, Pixar, Game of Thrones, Breaking Bad, etc.
+Because the story's problem is logical, and thus the character has time to figure them out, also because it's functional the audience cares about the story and its characters. Ex. Cinderella, Shawshank Redemption, Star Wars, Pixar. etc.
 
-![Art Story](\../img\aristotle-dialectics\story-art.png)
-**Art:** Story elements are disordered. Character are are emphasized over plot. The story doesn't have an explicit problem. Thus, art stories emphasize character's selfish passions, and are less stories than personal diaries about loves, hobbies, and interests.
+![Art Story](\../img\breakdowns\story-art.png)
+**Art:** Story elements are disordered. The story doesn't have an explicit problem, and thus no tool for protagonist and antagonist to fight over. Thus, art stories emphasize character's selfish passions, and are less stories than personal diaries about loves, hobbies, and interests. Tell us it's more important than we are.
 
-Since there is no battle between protagonist and antagonist, the plot is often illogical and inconsequential to outsiders. The separation between plot and character is wide because noting is at stake. The conclusion doesn't change the original reality very much. Ex. "The Cinema", Snow Angels, Wrecked, Spanglish, many Sundance, and TIFF films, etc.
+Since there is no battle, the plot is illogical. The separation between plot and character is wide because noting is at stake. The conclusion doesn't change reality. Ex. Many Sundance, Cannes, and TIFF films, Wrecked, Snow Angels, etc.
 
-![Spectacle Story](\../img\aristotle-dialectics\story-spectacle.png)
-**Spectacle:** Story elements are disordered. The story is about an obvious problem like the world is ending. Because the problem is so simple, neither the protagonist or antagonist has much character. The divide between character and plot is small.
+![Spectacle Story](\../img\breakdowns\story-spectacle.png)
+**Spectacle:** Story elements are disordered. The story is about an obvious problem like the world is ending. Because the problem is so simple, neither the protagonist or antagonist has much room for individual character. Distract us with effects.
 
-Spectacle stories emphasize items and effects. The story is about how the protagonist wins, not if. Spectacle is like learning a new toy. It's about having fun with no purpose in mind. Ex. Transformers 1-8, Star Wars 1-3 / 7-9, most sequels and remakes.
+Spectacle stories emphasize items and effects. Spectacle is like learning a new toy. It's about having fun with no purpose in mind. Ex. Transformers 1-8, Star Wars 1-3 / 7-9, most sequels and remakes.
 
 **Conclusion:** Art stories don't have a real beginning. Since they aren't about a specific problem they could start at any moment. Spectacle stories have a beginning but are about fighting for survival and not fighting for a new reality. Only functional stories have real beginnings. Because functional stories have a protagonist fighting to replace a reality with their own.
 
-Likewise, only functional stories have conclusions. Conclusions require mixing two proposed realities and making a new one. Conclusions are also where plot and character share importance. Because at the conclusion the characters actions are so important, they directly affect the plot.
+Likewise, only functional stories have conclusions. Conclusions require mixing two proposed realities and making a new one.
 
-![After the story ends](\../img/aristotle-dialectics/distribution-star_wars.png)
+![After the story ends](\../img/stories/distribution-star_wars.png)
 
-And this is the important part. When any story ends, all story elements, all characters, all items and thoughts, return to being equal. Because the plot that bound them is over, and thus each waits for a new story to give them life and purpose, and give anyone the chance to be the new hero.
+And this is the important part. Since functional stories have beginning and endings, all story elements, passions, rules, characters, and philosphies become equal. Because the plot that bound them is over, and thus each waits for a new story to give them life and purpose, and give anyone the chance to be the new hero.
 
-For example, in _Star Wars_ Once the Death Star is blown up, Light Side defeated the Dark side. Thus, Luke is no longer the protagonist, Vader isn't the antagonist, dialogue isn't controlled by the need to destroy/save the Death Star, passions can follow something else, and items are just things again. The hierarchy becomes a circle in a time of equality.
+For example, in _Star Wars_ Once the Death Star is blown up, Light Side defeated the Dark side. Thus, Luke is no longer the protagonist, Vader isn't the antagonist, rules don't to be about destroying/saving the Death Star, passions can follow something else. The hierarchy becomes a circle in a time of equality.
 
-Importantly, since spectacle and art stories don't have stories, they can't have conclusions. So they continue growing indefinitely. Thus art is followed with more art, and spectacle is followed with more spectacle. They never end.
+Since spectacle and art stories don't question and change reality, they can't have conclusions. So to keep interest they have to grow indefinitely. This is why art films get weirder and weirder, and spectacle films get more effects, more porn, more depravity; all tricks in what writer David Mamet says "has to take up the slack by making each subsequent event more diverting than the last; to trick the audience into paying attention."
+
+The human mind wants to make sense of every series of events it sees. When the story is about something real, we will follow along because we're getting emotions, and realizations out of it.
+
+When the story is bad, it's either trying to distract us with spectacle, or tell us a personal diary that says it's more important then we are.
 
 This same thing happens in human societys. When society's story is logical, people inside will function without too many rules. When however society is non-functioning, spectacle is used to distract the people, and artificial rules are used to keep them in line. ALl the while the rule makers indulge themselves in art. Be it at banquets and balls, or film premieres and film festivals. Until people inside reality realize the divine nobles bankrupted their entire society.
 
@@ -564,7 +560,7 @@ After toying around, we learn what the tool is capable of, and start applying it
 
 Unless distribution is held back by Darth Blockbuster. When it is, like it was by Darth King, society enters art and spectacle. Like in storytelling, art and spectacle stories are unnatural stories that have to amplify their art and spectacle to distract from their non-function. As a result, the people watching either share in the psychosis, and require an every increasing rulebook to keep everyone else in line.
 
-![After the story ends](\../img\aristotle-dialectics\techvolution-story-types-applied.png)
+![After the story ends](\../img\breakdowns\techvolution-story-types-applied.png)
 
 This was all for the extra's benefits. The ones like Sophia who are in between the battle between two tools. Once the extras defend their natural majic of learning and spraeding new tools, and also the can tell teh difference between the good and bad guys society can lost the wasteful art and spectacle and have more functional stories.
 

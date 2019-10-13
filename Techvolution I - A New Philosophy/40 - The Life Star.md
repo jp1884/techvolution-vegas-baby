@@ -12,7 +12,9 @@ That damn Obi-Wan. He probably turned into a ghost like in the movie and went on
 
 We don't know exactly what it is. Yet we have a great starting point. It's opposite. Light is the opposite of dark the same way full is the opposite of empty. Knowing one, defines the other. The Death Star is a rule book written humans. The Life Star is the opposite of the Death Star.
 
-So what is it? The Life Star is a rule book no human can write. Rules can't be added, fudged, or abused, only uncovered. Happily, we already use this rule book. It's helped us truly understand our world in so many ways, in areas like chemistry, biology and physics. Of course I'm speaking about Nature. Where scientists often feel the majic of discovering rules. Since majic is the best judge of the rules, then making the rule book Nature, means filter out human rules the more we look at Nature's rulebook, and not some smuck's. Enigeers don't argue, and debate. They test and test. And happily think "failure is always an option" or "tap and learn".
+So what is it? The Life Star is a rule book no human can write. Rules can't be added, fudged, or abused, only uncovered. Happily, we already use this rule book. It's helped us truly understand our world in areas like chemistry, biology and physics. Of course I'm speaking about Nature; where scientists often feel the majic of discovering rules. Thus we replace human-made rule book, which Darth Blockbuster can so easily corrupt, with one that is uncorruptable.
+
+The chemists, physists, doctors, and engineers who already use Nature often argue, and debate. They settle their differences much more often with tests of the uncorruptable rule book. Many happily think "failure is always an option", because while we can't add rules to Nature, we can strike off possibilities and thus get closer to an answer.
 
 I'll explain how we use Nature to make the Life Star by asking you a question you can't answer. How old are you?
 

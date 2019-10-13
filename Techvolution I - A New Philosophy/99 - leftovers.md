@@ -758,3 +758,31 @@ Here's an example of the divide. Louis XIV made a program to let French peasants
 Ironcially, most peasants didn't have a mirror, and rarely saw their own face. When they saw the Hall of Mirrors at Versailles they saw all the needed in the splendid art and spectacle. The fact the royalty didn't pay taxes, and they did, meant something was wrong with the rules.
 
 The large divide between ruling philosophy, and frontline problems, marked the impending end of the nobles divine right to rule. It was a change seen in the change of early nobles castles and armour, used to defend their people, into palaces and dresses, used to enjoy a fun time at society's expense. Banquets and balls marked the impending end of Darth King. We need to understand exactly why to help forecast our problems. And our answer is in mastering stories.
+
+## Office Space
+
+![Argh](\../img\stories\triangle-office-space.png)
+**Office Space:**  Hits close to home, the story about the boring drugery of modern suburban life and office work. The ruling philosophy is commercialism that gives workers repetitive tasks and keeps them in line with absurd office culture and just enough money to pay their bills. The antagonist is the boss who gets a disproportionate amount of money, prestige, and power.
+
+The protagonist is the guy who values his freedom more then money. The plot rests on whether the protagonist will control the tool, money, to free himself from having to work anymore.
+
+## Charting Stories
+
+What does a healthy story, its events, philosophies, characters, and items, work together.
+
+Here's a legend.
+
+![Legend](\../img\breakdowns\story-legend.png)
+
+**Old Society** - The society before the story starts.
+**Beginning** - When the protagonist breaks from society.
+**Protagonist philosophy** - The good guy acts out his philosophy.
+**Antagonist philosophy** -  The bad guy acts out his philosophy.
+**Realizations** -  Moments when a character realizes something.
+**Suffering of the Protagonist** - Long periods when the protagonists suffers.
+**Reversal of Situations** - When the plot changes big time.
+**Free will** - The time character's have to act. Small spread is grave danger, big is nothing matters.
+**Conclusion** - The final battle.
+**New Society** - The result of the battle.
+
+This is the how story's look like. We'll map out the fight over new tools soon. First we have to see the three difference kinds of stories we'll encounter.
