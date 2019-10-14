@@ -394,7 +394,7 @@ That’s the story of Wikipedia. Made by new protagoinsts, made the standard ref
 
 Wikipedia's victory is another example of the archetypal Techvolution story. Like Galileo and his telescope, George Washington and his musket, and Steve Jobs and his iTunes. Wikipedia was a victory for protagonists. What makes it especially cool, is the extras played such a big part.
 
-Skywalker, that’s the story Skywalker I want you to join with lightsabers a-blazin’, dicing up old tools like evil storm troopers, to smooth out humanity’s natural evolution. The open-source community are empowering individuals. But they are facing down Darth Blockbuster on their own. To help them change our world, they need as much help as Wikipedia got.
+That’s the story Skywalker I want you to join with lightsabers a-blazin’, dicing up old tools like evil storm troopers, to smooth out humanity’s natural evolution. The open-source community are empowering individuals. But they are facing down Darth Blockbuster on their own. To help them change our world, they need as much help as Wikipedia got.
 
 Note however, our lives cut across thousands to millions of problems. Thus, our villians are not in a massive group like “the rich” or the “the unions” as old philosophies label. Our villians reveal themselves inside thousands of companies, institutions, and organizations, by suppressing new tools to keep their version of the DVD alive.
 
@@ -410,7 +410,7 @@ Darth King lived inside palaces, using society’s money to host splendid banque
 
 “Extras are born free; and everywhere they are in chains.” Jean-Jacques Rousseau wrote that in 1762. He was the King of France. No he wasn’t. Was he the richest man in England? Absolutely not. Rousseau was a poor writer who copied sheets of music to make the rent. More than 300 years later, he is recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
 
-Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility’s many banquets and balls. This was the image of opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the the fairy tale, the extras didn’t have a fairy Godmother to make their dreams come true. Instead, the commoners cleaned the noble’s vast libraries, used guns while dying in their wars, and wondered what it looked like through a telescope. The extras were excluded from the power of new tools because they believed their beloved Holy Bible said only noble people had the “divine right to rule”.
+Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility’s many banquets and balls. This was the image of opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the the fairy tale, the extras didn’t have a fairy Godmother to make their dreams come true. Instead, the commoners cleaned the noble’s vast libraries, used guns while dying in their wars, and were told to ignore what the telescope revealed. The extras were excluded from the power of new tools because they believed their beloved Holy Bible said only noble people had the “divine right to rule”.
 
 Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other extra—you could argue—who rose to become the ultimate protagonist. Who is to say that other extras can’t live up to their own potential? Rousseau said books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists. The self-proclaimed “divine nobility” didn’t like hearing that. This powerful self-protecting community of Darth Kings declared Rousseau a banquet-pooper, and chased him out of Switzerland, France, and England. Maybe that’s why Rousseau rented instead of owned.
 
@@ -427,7 +427,7 @@ Starting in 1776, within Rousseau’s lifetime, Darth King started to face the m
 
   To arms, citizens ...
 
-Revolutionary songs like this spread the people’s liberty, equality, and fraternity throughout the world. In a few years, civilization changed its philosphy from knowing the nobles were divine, to knowing they were villians who resorted to hiring mercenaries rather than realize the people didn't want them anymore. When the people took control of books, guns, and science, they put presidents and senators, judges and sherriffs in power, who ruled at the request of new protagonists who built a civilization with checks and balances, because no one was divine. A change empowered by tools, thought of in philosophy, yet made real with the bloodshed of revolutions.
+Revolutionary songs like this spread the people’s liberty, equality, and fraternity throughout the world. In a few years, civilization changed its philosphy from knowing the nobles were divine, to knowing they were villians who resorted to hiring mercenaries rather than realize the people didn't need them anymore. When the people took control of books, guns, and science, they put presidents and senators, judges and sherriffs in power, who ruled at the request of new protagonists who built a civilization with checks and balances, because no one was divine. A change empowered by tools, thought of in philosophy, yet made real with the bloodshed of revolutions.
 
 Rousseau died never having found a home. After they won their revolutions, a population of heroes put him to rest inside the glorious Panthéon, heralding him as a renowned breaker of chains, in a free world he helped build. Where any guy can be the prince, and any girl can be Cinderella.
 
@@ -435,7 +435,7 @@ The question for us is, how did Rousseau do it?
 
 ## The Road to Techvolution, and the Death of Revolutions
 
-Rousseau, who was only ever a poor writer with no political power, changed history by making the people realize they suffered on the frontline because of an old ruling philosophy. Even though French and Americans could read pamplets, newspapers, and books and understand current events, they still couldn't vote. Even though they could use guns to expand the king's land, they weren't allowed to use guns to defend themselve against the king. The people's cyborgolgy was held back by Darth King's rules. Rousseau made the people realize this was bullshit.
+Rousseau changed history by making the people realize they suffered on the frontline because of an old ruling philosophy. Even though French and Americans could read pamplets, newspapers, and books and understood current events, they still couldn't vote. Even though they could use guns to expand the king's land, they weren't allowed to use guns to defend themselve against the king. Even though science starting revealing hte truth of Nature, they were told to follow society's rules instead. The people's cyborgolgy was held back by Darth King's rules. Rousseau made the people realize this was bullshit.
 
 The people's demand for change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the other revolutions in the 19th centuries were violent, because the divide between ruling philosophy, and frontline society, was so wide.
 
@@ -445,49 +445,51 @@ It's a lesson for us. We have to hurry up. Because the longer we wait to update 
 
 ## ~~Revolution~~ Techvolution
 
-Skywalker, you look tense. I get why. Revolutions are tough. Maybe we should get the bristol boards out, smear the face paint, and fight! Fight for free college education! Fight for less regulations! Fight for public option health insurance! Fight for tax cuts! Let's march and yell!
+Skywalker, you look tense. I get why. Revolutions are tough. Maybe we should get the bristol boards out, smear the face paint, and fight! Fight for free college education! Fight for less regulations! Fight for public health insurance! Fight for tax cuts! Let's march and yell!
 
-What color do you want. See the trap there? Red / blue each have one paddle in the same canoe. The harder one side pushes, the other has to match. Fighting over tools is supposed ensure their shared canoe goes forward, which worked for centuries, until digital tools meant they have to start cooperating, not competing. Now red and blue is recipe for inaction Darth Blockbuster uses to keep himself in power.
+I don't think so. Keep the marches and protests of red / blue out of your mind. We're inspired by, but not repeatting, _Les Miserables_. Fighting for change doesn't mean to grab hold of the commanding heights of primitive tools. We have digital tools. We have the technology to make tools to solve each peron's individual problems. Affordable blood tests, easy air quality tests, cheap telecommunications, and so much more, ready and waiting.
 
-There is no answer for pur problems using old philosophies. I know red / blue is easy and comfortable, but if you want that, cable news and their pundits are waiting. They can easily explain why health insurance is too expensive, or why traffic exists, because it's other sides fault all day to you. Just be sure to keep watching the commercial break about a new presciption drug you should ask your doctor about, or get that new fancy car to wait in traffic in.
-
-Keep the marches and protests of red / blue out of your mind. We're inspired by, but not repeatting, _Les Miserables_. Fighting for change doesn't mean to grab hold of the commanding heights of primitive tools. We have digital tools. We have the technology to make tools to solve each peron's individual problems. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we want is the ultimate revolution.
+Waiting for you to contorl your own tools, your own cyborgology, and decide what is best for you. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we want is the ultimate revolution.
 
 # STORIES
 
-Rousseau said the nobility were con artists who hid behind divinity to rule society for their self interest. Yet noble families ruled every European country. There had to be some reason for it, and there was. At first these families were declared holy by the people because they were holy. I'll explain that story, by explaining the difference between good and bad stories.
+Rousseau said the nobility were con artists who hid behind divinity. Yet "holy" noble families ruled every European country. There had to be some reason for it, and there was. After western Rome fell in 476 western Europe had no water supplies, no court system, and no military protection. Civilization was gone. Anarchy ruled.
+
+Western Europe entered the Dark Ages (500-1000). It was the original nobles like Clovis I, Charles Martel, and Alfred the Great that took charge. They fought battles against invaders, headed governments that kept the peace, built castles to protect the newly remade wells, hospitals, and markets. The people were increasingly safe, fed, and thus happily declared the nobles holy.
+
+This arrangement came to be called feuldalism. You've probably seen it in Robin Hood, Monty Python, or Game of Thrones. It slowly let Europe prosper. Civilization was back.
+
+The invaders were gone, the water was running, the roads were clean, but the rules stayed the same. The nobles weren't battle scared military leaders, but simply born with "noble blood", who used peace and prosperity to replace armour with dresses, castles with palaces, and battlefields with danquets and balls. Unless they were fighting other nobles for personal glory, which was common.
+
+These later nobles conned the people, and themselves, into believing the rules were sent from God and should never end, and not created by the people fighting off anarchy and should end when peace came back. Understanding this story is pivotal to Techvolution. To explain this story, I need to explain the difference between a good night and bad night at the movies.
 
 ## Good vs Bad Stories
 
-Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, laugh, yell, cry, it's a good story. Even more telling was when moviegoers walk out. If they were talking about twists, turns, and cool lines you know the story was really good, because it turned fiction into real memories.
+Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, cry, laugh, yell, it's a good story. Even more telling was when moviegoers walk out. If they talked about twists, turns, and cool lines you know the story was really good, because it turned fiction into real memories.
 
-Good stories makes us follow them. Every surprising victory, or gut-wrenching defeat, captures an audience's mind and puts ideas and memories inside it. That's why simple lines like "May the Force be with you" and "What is the matrix?" can still uplift a friend, or help question reality, in the real-world today.
+When good stories spread throughout society a social memory is created. That's why simple lines like "May the Force be with you" and "What is the matrix?" can still uplift a friend, or help question reality, in the real-world today.
 
-However, people often like movies with no twists, turns, or good lines. Although we assume, especially in popular culture, the movies still contribute to our culture, become a projectionist and you'll see most don't make us follow them anymore. For example, as I stood outside the recent Star Wars movie, there was much excitement, but no one mentioned newly created memories. People were only excited about "May the Force be with you" out of habit. And that's what the matrix is. Rules we follow out of habit. And historically it's frontline problems that break our bad habits.
+However, people often like movies with no twists, turns, or good lines. Or they think they do. Become a projectionist and you'll see and hear most movies today don't create memories. For example, as I stood outside the recent Star Wars movie, there was much excitement, but no new memories. People were only excited about "May the Force be with you" out of loyalty to an old memory. The process of losing a social memory is what happened to later kings, who like most of today's moviemakers, took their audience for granted.
+
+We can explain how this happened, by see whying one Star Wars made memories, while their descendants use them up.
 
 ## The Difference Between Good and Bad
 
-A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. They fight in three parts. The first is an introduction to the problem and characters. The second is the battle between good and bad sides. The third part is the conclusion, where we find out which side wins.
+A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change/defend reality happens in three parts. The first is an introduction to the problem and characters. The second is the battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
 
-Telling the difference between good and bad stories is hard. The problem is anything can seem like legitimate story because everything happens in a sequence of events. However, good stories are a specific sequence that are naturally rare and especially hard to create. They have to be unexpected enough to be interesting, yet reasonable enough to be believable. One too many slip ups and the audience either doesn't care, and doesn't believe, what happens next.
+Telling the difference between good and bad stories is hard. It's not like people want to be boring with bad punch lines and confusing tales.
 
-Good stories thus walk a fine line. They first must open our minds with believability but still use creative twists to insert new information. However, when done right this mixture unlocks our emotions and makes memories. Moviegoers cry or scream because they believe the story is real, they talk on about twists because they didn't see it coming.
+The problem is anything can seem like a legitimate story because everything happens in a sequence of events. However, good stories have to be unexpected enough to keep us guessing, yet reasonable enough to be believable when the unexpected happens. The delight of logical surprises gives us emotions and memories, and is why good stories have "spoilers".
 
-Bad stories can't do this so they need to distract us. While they are a sequence of events and can seem like legitmate stories, they are not reasonable nor suprising, and thus can't unlock emotions or create new memories. It doesn't matter the first _Star Wars_ had tiny budget with weird names and funny effects. It was a good story and so audiences loved it. While its descendants have limitless budgets but need use effects, marketing, and old memories, to get any attention.
+And bad stories can't. Without logical surprises, they keep our interest by distracting us with effects, celebrities, and mass-marketing. Thus, it doesn't matter the first _Star Wars_ was a budget movie, while its descendants have limitless budgets. One is a good story that made huge social memories, while the others are bad stories staying alive by using over using effects, mass-marketing, and social memories of former glory.
 
-This divide is why early European kings were holy, and later ones assumed they were. We can explain this divide by further going into the divide between majic and dark majic.
+In short, the movies became popular because they were good stories. The original Star Wars, Indiana Jones, Die Hard were good stories that connected with the audience, who formed a majical bond with the movies as a storytelling tools.
 
-## Majic vs Dark Majic
+As moviemakers wanted to make sequels, remakes, and prequels to maxmize short term profits, they tricked the audience using dark majic. Ever more effects, celebrities, and mass marketing to use up old memories. This all started in the 1970's by the way.
 
-Good movies are often called movie magic. Among the other reasons, I used majic for this reason. See what happened there, a logical twist increased the impact on the reader.
+Here's what John Wayne said this about it "...the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it"
 
-We can understand how and why someone bonds with a new tool by understanding a person bonds with a story that continually surprises the audience with logical revelations. I won't mention any spolier alerts because they ruin the ride.
-
-Likewise, when someone bonds with a new tool. It's not because they know what's going to happen next, but because they believe they'll find new uses and benefits the more hold the tool. That's the majic of stories, and the majic of tools, only different because movies are fake, while tools are real.
-
-Bad stories, and old tools are similarly related. Without memorable twists, turns, and good lines, bad movies have to take advantage of old memories, fancy effects, or mass marketing to attract attention. And this is degenerative, more of it is needed every time. Likewise, old tools that aren't the best at solving a frontline problem anymore, use these same techniques to distract from their dysfunction. The former is a boring movie, the later is dark majic because it keeps a problem alive longer.
-
-And here’s the connection with Techvolution. We like good stories because they make sense, and lead us to new emotions, ideas, and memories. We have to be tricked into liking bad ones because they exploit our old memories. And that's the difference between the kings we loved, to the ones we hated. We'll see it better when we peel away the layers of stories to see the majic and majic behind both.
+The kings Rousseau hated did the same thing. They, were descendants of former glory, who partied it up, thinking the good times were the rule. Now for Techvolution's sake, we have to get out an imaginary microscope and assess stories in more detail. When we do, we'll see there are only three.
 
 ## Reality of Stories
 

@@ -786,3 +786,16 @@ Here's a legend.
 **New Society** - The result of the battle.
 
 This is the how story's look like. We'll map out the fight over new tools soon. First we have to see the three difference kinds of stories we'll encounter.
+
+## Majic vs Dark Majic
+
+Good movies are often called movie magic. Among the other reasons, I used the name majic for this reason. We know a person needs a story to continually surprise with reasonable revelations to connect with it. It turns out the same thing applies for anyone to majically bond with a tool. Understanding one, helps understand the other.
+
+When someone bonds with a new tool, it's not because they know what's going to happen next, but because they reasonable believe they'll find surprising new uses and benefits.
+
+Bad stories, and old tools are similarly related. Without memorable twists, turns, and good lines, bad movies have to take advantage of old memories, fancy effects, or mass marketing to attract attention. And this is degenerative like an addiction. That's why blockbuster movies keeping piling on the effects.
+
+Likewise, old tools use these same techniques to distract from their dysfunction. Thus, we like good stories because they make sense, and lead us to new emotions, ideas, and memories, and we have to be tricked into liking bad ones because they exploit our old memories.
+
+Thus, later kings were like a boring party guest. They told stories about their divinity and used dark majic techniques to distract from the fact that the people increasingly heard as bad stories. And that's the difference between the kings we loved, to the ones we hated. We'll see it better when we peel away the layers of stories.
+
