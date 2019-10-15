@@ -162,3 +162,9 @@ We get paid by companies, but we are actually tool users. I mean, say you're a n
 You can see this divide yourself. Tell your co-workers and company you're leaving for a new industry. They'll give you well wishes and a good bye cake. Tell them you're going to a competitor. They'll make fun of you, and probably give you a good bye cake. Now tell them you invented digital newspapers. You've questioned their livelihoods, and they'll be scared.
 
 But not everyone. Some people will be curious, some happy, and some will even fight back. And this battle over technologies is where the protagoinsts, antagonists, and extras reveal themselves.
+
+## The Moment of Philosophy
+
+What color is your car?
+
+What kind of car was the other guy?

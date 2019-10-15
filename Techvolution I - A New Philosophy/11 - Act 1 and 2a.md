@@ -8,7 +8,9 @@ October 2019
 
 ## Quote
 
-"We are really the revolutionaries in the world today-not the kids with long hair and beards who were wrecking the schools a few years ago." Gordon Moore, co-founder of Intel, 1973.
+_We are really the revolutionaries in the world today—not the kids with long hair and beards who were wrecking the schools a few years ago._
+
+Gordon Moore, co-founder of Intel, 1973.
 
 ## Dedication
 
@@ -22,13 +24,13 @@ To the extras. When it's time for you to act, I pray you pick the right side.
 
 It all started with a door in the face. I few more actually. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product upper management were never going to buy.
 
-Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I had done the frontline job it worked for.
+Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I spent years doing the frontline job it worked for.
 
 I figured out how to solve a problem—and save 100 million dollars, 300,000 hours of productivity, and even several lives—with an app that was virtually free. All I wanted was to give it away. After years of working on political and economic theory, I’ve written (another) book about the untapped possibilities of new tech like apps, bio-monitors, and bitcoin. I wanted real-world proof, and maybe get some real-world credentials, to help validate my ideas.
 
 But I was a fool. I wasn’t even knocking on doors. I was knocking on gates. See, I wasn’t talking to the frontline workers suffering through the problem I solved, but the bureaucrats, lawyers, managers, and executives, who were paid to “deal” with those problems. Solving their problems was asking them to fire themselves. The gates were in place to shut out innovation.
 
-In fact, they never said _no_ to me. _No_ needs a reason. Instead, they said it was against the rules to say yes. Obscure rules, hidden inside regulations and contracts. They believed in these rules, especially the one against letting frontline workers to decide for themselves.
+In fact, they never said _no_ to me. _No_ needs a reason. Instead, they said it was against the rules to say yes. Obscure rules, hidden inside regulations and contracts. They believed in these rules, especially the one against letting frontline workers, who I already knew loved it, to decide for themselves.
 
 I'm not going to talk about my experience too much. All that's important is there was a problem, a big one wasting millions of your dollars, weeks of workers time (lots of it unpaid overtime), and maybe even your life, and it was against the rules to solve it.
 
@@ -58,29 +60,29 @@ I mean today, when team blue wins, does traffic suddenly disappear? When team re
 
 If you think yes, if you think the red vs blue story is an edge of your seat thriller deciding the future of our society, you can stop reading. There’s lots of blogs, shows, and books waiting to sing to their choir, telling you to fight the enemy until you’re blue in the face.
 
-If you don’t like the choir, or you’re starting to realize the "other side" actually suffers many of the same unsolved middle class problems you do, you’d probably like to keep reading. I wrote this book for you.
+If you don’t like the choir, or you’re starting to realize the "other side" is part of the same struggling middle class, you’d probably like to keep reading. I wrote this book for you.
 
 Whichever color wins an election today and re-writes the rules, regular people will still pay taxes, have a mortage, waste hours in traffic, pay increasing energy bills, under sleep, buy unhealthy food, watch climate change, overpay for questionable education, get pushed around by their health insurance, endure customer abuse, work unpaid overtime, remain micro-managed, and hope their job (which they likely hate) isn’t downsized or outsourced.
 
-Under blue or red rules, our lifestyle stays the same, because the tools in which we live our lives, like suburban homes, gas cars, call centres, centralized power generation, paper based tax forms, mass produced unhealthy food, occasional doctor check ups, television for entertainment, an insatible education industry, and everything else in suburban America and Canada, stays the same.
+Under blue or red rules, our lifestyle stays the same, because the tools in which we live our lives, like suburban homes, gas cars, call centres, centralized power stations, paper based tax forms, mass produced unhealthy food, occasional doctor check ups, television for entertainment, an insatible education industry, and everything else in suburban America and Canada, stays the same.
 
 The rules, no matter what color, don’t control us. The tools we live our life with do. And nothing changes between red and blue, because neither’s philosophy—from conservatism to progressivism, capitalism to Marxism—is about putting new tools into our hands.
 
-It’s not our politicians fault. The philosophies they follow were invented before we had many tools. Horses, carriages, and sailboats moved our stuff around. Abacuses and chalkboards did our calculations. The moon lite our way to outdoor latrine pits. These were our primitive tools when red and blue were born. Think of it; their philosophical fathers like Adam Smith, Edmund Burke, John Stuart Mill, Karl Marx, never listened to music, read an eBook, made a phone call, opened a fridge, used electronics, had a genetic test, santized their wounds, took penicillin, knew about electricity, started a motor, learned about evolution, or typed on a keyboard. Yet we let these thinkers guide us in the digital age.
+It’s not our politicians fault. The philosophies they follow were invented before we had many tools. Horses, carriages, and sailboats were their transportation. Abacuses and chalkboards their calculations. The moon lite their way to outdoor latrine pits. Humanity had primitive tools when red and blue were born. Think of it; their philosophical fathers like Adam Smith, Edmund Burke, John Stuart Mill, Karl Marx, never listened to music, read an eBook, made a phone call, opened a fridge, used electronics, had a genetic test, santized their wounds, took penicillin, knew about electricity, started a motor, learned about evolution, or typed on a keyboard. Yet we let these thinkers guide us in the digital age.
 
-Red and blue philosphies were invented to group humanity into a massive collection action. With red and blue philosophies our farming ancestors came together, industrialized, and built the first rudimentary tools like steam engines, gas cars, indoor toilets, broadcast televisions, and computers the size of rooms. The masses needed to be extras, regulated and managed inside simplistic color coded parties because our tools were primitive. Thus, we couldn’t share with everyone but had to regulate access. To their credit, blue and red philosophies at least gave extras a voice in how our tools’ factories, regulations, and profits were controlled.
+Red and blue philosphies were invented to group humanity into a massive collection action. With red and blue philosophies our farming ancestors came together, industrialized, and built the first rudimentary tools like steam engines, gas cars, indoor toilets, broadcast televisions, and computers the size of rooms. The masses needed to be extras, regulated and managed inside simplistic color coded parties because our tools were so primitive. Thus, we couldn’t share with everyone but had to regulate access. To their credit, blue and red philosophies at least gave extras a voice in how our tools’ factories, regulations, and profits were controlled.
 
-Yet today with live in a world far far away from primitive tools. Digital tools are so easy to make that we can customize them for every person’s individual problems. Technologies like high-speed internet, smartphones, machine learning, computer programming, cloud computing, heart rate monitors, 3D printing, genetic tests, air quality sensors, GPS trackers, smart watches, finger-print scanners, thermal cameras, have made tools like Skype, iPhones, Lyft, WhatsApp, Kickstarter, YouTube, Khan Academy, GoogleWear, GitHub, AirBnB, and Firefox so extremely powerful and so easy to make, we don’t need to fight to control them, but fight to spread them. This doesn’t come naturally to us, however, because the rules of old philosophies are based on fighting over, not sharing, tools.
+Yet today with live in a world far far away from primitive tools. Digital tools are so easy to make that we can customize them for every person’s individual problems. Technologies like high-speed internet, smartphones, machine learning, computer programming, cloud computing, heart rate monitors, 3D printing, genetic tests, air quality sensors, GPS trackers, smart watches, finger-print scanners, thermal cameras, have made tools like Skype, iPhones, Lyft, WhatsApp, Kickstarter, YouTube, 23 and Me, ButcherBox, blood tests, Khan Academy, Google Wear, GitHub, AirBnB, and Firefox so extremely powerful and so easy to make, we don’t need to fight to control them, but fight to spread them. This doesn’t come naturally to us, however, because the rules of old philosophies are based on fighting over, not sharing, tools.
 
 Techvolution is a new philosphy about making regular people the hero of their own story. It does so by empowering them with new tools.
 
-With Techvolution, you won’t fight political battles with bristol boards or painted faces. You’ll economically exercise your right to vote, by deciding which tools best solve your problem at home and work. Unlike me, you’ll never need to deal with any gatekeepers, because you won’t have to knock at anyone’s door asking permission to do what’s best for you.
+With Techvolution, you won’t fight political battles with bristol boards or painted faces. You’ll economically exercise your right to vote and free speech, by deciding which tools best solve your problem at home and work. Unlike me, you’ll never need to deal with any gatekeepers, because you won’t have to knock at anyone’s door asking permission to do what’s best for you.
 
-I’m not talking about an idealic world from storytime. This place of sharing tools already exists. Wikipedia, YouTube, StackOverflow, GitHub, Linux, Mozilla are only a few examples of the wonderful world of cooperation. It’s called the open-source community because software and ideas are “openly shared” to help create new tools. Millions of creators and contributors, designers and coders, who don't care about titles or status but only how well a person solves problems, are already working and living inside a fundamentally new story that’s responsible for our online world. I only want to rid our society of old philosophies holding it back, to let these protagonists prosper.
+I’m not talking about an idealic world from storytime. This place of sharing tools already exists. Wikipedia, YouTube, StackOverflow, GitHub, Linux, Mozilla are only a few examples of the wonderful world of cooperation that exists today. It’s called the open-source community because software and ideas are “openly shared” to help create new tools. Millions of creators and contributors, designers and coders, who don't care about titles or status but only how well a person solves problems, are already working and living inside a fundamentally new story that’s responsible for our online world. I only want to rid our society of old philosophies holding it back, to let these protagonists prosper.
 
 People often say regular people are addicted to our phones. We aren’t. Checking news feeds, downloading ping-pong games, taking endless photos, is regular people toying around with our new tools and learning what they can do. Our ancestors did the same with printed books, cheap muskets, and telescopes. Soon enough they were empowered to read, fight tyrants, and see the universe for themselves. We toy with new tools before we use them to change the world.
 
-So, we're not addicted to our phones. We're learning to use them. New tools are like lightsabers, we just need a new philosophy to turn them on. For us today, that’s Techvolution.
+So, we're not addicted to our phones. We're learning to use them. New tools are like lightsabers, when a new philosophy turns them on. For us today, that’s Techvolution.
 
 # ACT ONE
 
@@ -104,9 +106,9 @@ We call technological protagonsts "trailblazers". Like Jedi, they empower us cyb
 
 Biological upgrades and adaptions is called evolution. I call human technological evolution _Techvolution_. This book is about inventing Techvolution, a philosophy to re-write the rules of society, to kill Darth Blockbuster, so regular people can solve our problems with technological upgrades as smoothly in human society, as natural selection does in nature.
 
-And to make it happen, you, the current extra, have to join the fight. Because victory depends on you picking the right side between an old ruling philosophy and this new one.
+And to make it happen, you, the current extra, have to join the fight. Human evolution depends on you picking the right side between old ruling philosophy filled with rules why you can't solve your problems, and this new one telling you solving your problems is the only thing that matters.
 
-# CAST OF IDEAS AND CHARACTERS
+## Cast of Ideas and Characters
 
 Before we go any futher, I want to lay out the philosophy of Techvolution more clearly. To do so, here are a few terms that will enable us to all be on the same page:
 
@@ -124,11 +126,11 @@ Tool: a catchall term for things we create with technology to solve a problem, l
 
 Frontline: The point of contact between a tool and the problem. A movie usher talking to moviegoers, nurses giving vaccines, cleaners cleaning a city bus, police chasing a robber, soldiers on the battlefield. People on the frontline have jobs to solve problems.
 
-Hierarchy: Every tool develops a power structure to manage its use in society. Kings and queens having the keys to the castle for example. We reward those who rise in hierarchies with power and prestige. People in the hierachy have titles like prince and executive to mark their position inside the power structure.
+Hierarchy: Every tool develops a power structure to manage its use in society. Kings and queens having the keys to the castle for example. People in the hierachy have titles like prince and executive to mark their position inside the power structure.
 
 Civilization story: The invention of new technology and creation of new tools to overcome whatever problem troubles us. We use tools to evolve.
 
-Protagonists: people who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. I call them Jedi. We call their leaders trailblazers who often skirt the rules; Nikola Tesla, Steve Jobs, Michael S. Hart, Bill Gates, Linus Torvalds, Elon Musk.
+Protagonists: people who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. I call them Jedi, we call their leaders trailblazers who often skirt the rules; Nikola Tesla, Steve Jobs, Michael S. Hart, Bill Gates, Linus Torvalds, Elon Musk.
 
 Antagonists: people who selfishly resist new tools to defend their wealth, power, and prestige. Often called establishment or elites, antagonists usually manage companies or institutions based on dated technologies and think working on the frontline is beneath them. They work to control the rule book so they can hide behind it. We don't often individually identify them. I invented "Darth Blockbuster" so we can.
 
@@ -140,17 +142,17 @@ Techvolution: a new philosophy empowering seemless human technological evolution
 
 ## Nice to Meet You, Skywalker
 
-And the story is about to begin. Not in a foreign city, mythical world, or galaxy far far away. Right here and now, whereever you are on this Earth. We need to change up ruling philosophy to take advantage of digital tools. Only you can make it happen.
+And the story is about to begin. Not in a foreign city, mythical world, or galaxy far far away. Right here and now, where ever you are on this Earth. We need to change our ruling philosophy to take advantage of digital tools. Only you can make it happen.
 
-A little about me first. I'm nobody special. In my youth I was a cleaner, drywaller, movie usher, and die-hard ideologue. After dropping that bad habit, I studied technological innovation at the University of Toronto, mostly while working full-time. I'm grateful I never the frontine after graduation. I learned far more about innovation as a line worker, an account manager, a claims adjuster. Making an app and meeting my personal Darth Blockbuster was an education unto itself. All this taught me Techvolution.
+A little about me first. I'm nobody special. In my youth I was a cleaner, drywaller, movie usher, and die-hard ideologue. After dropping that bad habit, I studied political philosophy and innovation at the University of Toronto, usually while working full-time. Happily, because I learned far more about innovation on the frontline as a line worker, an account manager, a claims adjuster. Making an app and meeting my personal Darth Blockbuster was an education unto itself. All this taught me Techvolution. Watching friends struggle using, owning, maintaining, and working with the old tools of an old philosophy motivated me to write it down.
 
 So that's a snapshot. But I'm not important. You are. Because from hospital cleaners, to internet technical support, nursing to adjusting, only workers on the frontline know the tools our society needs to fix our many problems.
 
-So although today you're an extra in battle between Jedi and Sith, you are the hero of Techvolution. It's not surprising. Average joes are always the heroes. Luke Skywalker, Princess Leia, Neo, and Cinderella were regular people. They became heroes when called upon to defeat the bad guys.
+So although today you're an extra in the battle between Jedi and Sith, you are the hero of Techvolution. It's not surprising. Average joes are always the heroes. Luke Skywalker, Princess Leia, Neo, and Cinderella were regular people. They became heroes when called upon to defeat the bad guys.
 
 Now you're called upon. Like Obi-Wan Kenobi, Morpheus, or the fairy godmother, I'm merely the guide to teach you how to defeat the villians. So the time is now young Skywalker, to leave the farm, and join the rebellion.
 
-What is the rebellion. It's definitely not rallies, marches, or protests. It's a rebellion of the mind. We have to change our ruling philosophy. We have to destroy Darth Blockbuster's rule book, what I call the Death Star, for it keeps him in power, and prevents us all using new tools to solve the many frontline problems that stagnates the middle class. And that's needless and worth fighting over.
+What is the rebellion. It's definitely not rallies, marches, or protests. It's a rebellion of the mind. We have to change our ruling philosophy. We have to destroy the Death Star; Darth Blockbuster's rule book that keeps him in power and prevents us all using new tools to solve frontline problems. When it's gone, the middle class will flourish once again. And that's worth fighting over.
 
 # BLOWING UP THE DEATH STAR
 
@@ -158,35 +160,35 @@ What is the rebellion. It's definitely not rallies, marches, or protests. It's a
 
 Well young Skywalker, before you go off and face Darth Blockbuster and blow up his Death Star, you have to learn some things. The most important being the all powerful energy field inside every lifeform. No not the Force. I'm talking about evolution.
 
-Evolution empowers life by giving every new lifeform a slightly different variationss. This way life can constantly test for environmental changes in things like water levels, temperature, and food supply. The variations unfit for the frontline die off, while the fittest survive. This natural selection is how evolution finds which lifeforms best represent life on Earth.
+Evolution empowers life by giving every new lifeform a slightly different variation. With variations life can constantly test for environmental changes in things like water levels, temperature, and food supply. The variations unfit for the frontline die off. The fittest survive. This natural selection is how evolution finds which lifeforms best represent life on Earth.
 
-Evolutions works so well because it creates biodiversity. The more lifeforms there are, the more life can probe and therefore better adapt to environmental changes. When temperatures increase or rain patterns change, high biodiversity means more lifeforms feel frontline pain. Thereby life's evolution responds faster to problems.
+Evolutions works so well because it creates biodiversity. The more lifeforms there are, the more life can probe and therefore better adapt to environmental changes. When temperatures increase or rain patterns change, low biodiversity means life may not even know; high biodiversity means many lifeforms feel the pain, and therefore life can evole a solution to the frontline problem.
 
 However, if the environment is stable, lifeforms need a caretaker. Someone to keep them in shape, ready to act for when the environment does change. That's why nature put in a system of checks and balances called ecosystems. Inside ecosystems is where lifeforms make communities and cooperate to mimick environmental changes by keeping each other on their toes.
 
-Ecosystems are a food chain of different plants, herbivores, carinvores, and decomposers. Each lifeform checks the other's excesses and makes sure everyone reciprocates to keep the ecosystems' nutrients flowing in balance. Checks, balances, and reciprocation is how ecosystems make sure life keeps evolving in good times.
+Ecosystems are a food chain of different plants, herbivores, carinvores, and decomposers. Each lifeform checks the other's excesses and makes sure everyone reciprocates to keep the ecosystems' nutrients flowing in balance. Checks, balances, and reciprocation is how ecosystems make sure life stays in shape and keeps evolving even in good times.
 
-Evolution may not be the Force, but it's certainly magical. Without any lifeform being aware of its tricks, evolution turned a lifeless planet into an oasis. The big drawback is time. Biological variations take millions of years to respond to environmental changes. Think of the poor polar bears. They'll never understand why the ice isn't coming. And even if they could, no lifeform can proactively change their biology.
+Evolution may not be the Force, but it's certainly magical. Without any lifeform being aware of its tricks, evolution turned a lifeless planet into an oasis. The big drawback is time. Biological variations can take millions of years to respond to environmental changes. Think of the poor polar bears. They'll never understand why the ice isn't coming. And even if they could, no lifeform can proactively change their biology.
 
-In contrast, humanity can change (hopefully in time to help the polar bears). Not our biology. But our "cyborgology" if you will, because we feel frontline pain, reflect on the problems causing them, and create a new tool to overcome.
+In contrast, humanity can change (hopefully in time to help the polar bears). Not our biology. But our "cyborgology" if you will, because we feel frontline pain, reflect on the problems causing them, and can create a new tool to overcome.
 
 Techvolution is therefore intentional evolution. A better form of evolution that isn't a magical mystery, like evolution is to polar bears, but something we can understand. Question is, what drives us to evolve, when the rules often say it's wrong?
 
-![Wikipedia development](/img\diagrams\techvolution-evolution-magic.png)
+![Wikipedia development](/img\diagrams\techvolution-genius-innovation.png)
 
 ## The Majic of Techvolution
 
 We call it genius when someone uses existing technology to make a new tool. Happily these trailblazers are self-motivated, and we already celebrate their genius and innovations. Heck, even Darth Blockbuster often loves their work. But innovation isn't the only step to Techvolution. Only when the extras use a tool do we evolve.
 
-So what trick does nature play on the extras to use new tools and risk Darth Blockbuster's wrath. Like evolution, the trick lives within our souls.
+So what trick does nature play on the extras to use new tools and risk Darth Blockbuster's wrath. The answer is a trick inside our souls.
 
-Unlike evolution, the trick is not magic, because extras understand they're dropping one tool and attaching another; like swapping out the DVD player for Netlix. Yet, there's still something wonderfully mystical about choosing to leave ones's comfort zone and learn a new cyborgolgy. It's like a desert fox putting on a swimsuit, flippers, and goggles, and diving into the ocean yelling "I can do this!".
+Unlike evolution, the trick is not magic, because extras understand they're dropping one tool and attaching another; like swapping out the DVD player for Netlix. Yet, there's still something wonderfully mystical about choosing to leave ones's comfort zone and learning a new cyborgolgy. It's like a desert fox putting on a swimsuit, flippers, and goggles before diving into the ocean yelling "I can do this!".
 
 Changing our tools is so wonderfully brave, mysterious, and difficult, I call it majic. Pronounced like magic, but different so we know it's the free choice of a regular person to upgrade to a new tool and continue humanity's evolution.
 
-Think of majic like a bonding agent. Carbon atoms are sticky and thereby bond other atoms to form the Universe's many molecules. Genius in the protagonists minds bonds existing ideas into original ones. Good storytelling bonds audiences with different worlds and characters. And majic bonds extras with a new tool.
+Think of majic like a bonding agent. Carbon atoms are sticky and thereby bond other atoms to form the Universe's many molecules. Genius in the protagonists minds bonds existing ideas into original ones. Good storytelling bonds audiences with different worlds and characters. And majic bonds extras with new tools.
 
-Techvolution is the ruling philosophy letting extras majically bond with any tool that helps them solve frontline problems. And even though the rules can get in the way, we can sort that out with a short lesson.
+Techvolution is the ruling philosophy letting extras majically bond with any tool so they can solve frontline problems. And when the rules say its wrong, we can get them out of the way with a short lesson.
 
 ![New Tool/majic](/img\diagrams\techvolution-majic.png)
 
@@ -196,11 +198,13 @@ Techvolution is the ruling philosophy letting extras majically bond with any too
 
 ## The Lesson
 
-Despite our problems with our current one, society always needs a ruling philosophy. Darth Blockbuster fights to control it. When he does, he write rules to keep the tools he controls, and therefore himself, in power. Corporate manuals, univeristy guidelines, social justice blogs are among the pages of his Death Star rule book. These rules interfere with regular people majically forming bounds with new tools.
+Despite our problems with our current one, society always needs a ruling philosophy. It glues society together, let's thousand or millions work together by following the same rules.
 
-Maybe. Whose to know which rules are the bad ones. Maybe they're interfering with majic. Maybe they're just good rules. Darth Blockbuster doesn't tell people he's Darth Blockbuster. Instead he says he's an an Executive Vice President, Human Resources Representative, or expert lawyer. Are these people genuine authority figures, or simply out to protect their paychecks?
+That's why Darth Blockbuster fights to control it. When he does, he write rules to keep the tools he controls, and therefore himself, in power. Corporate manuals, univeristy guidelines, social justice blogs are among the pages of his Death Star rule book. These rules interfere with regular people majically bonding with new tools.
 
-To answer that, we need to clearly identify the difference between majic and rules to filter out the good and bad rules. This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
+Maybe. Whose to know which rules are the bad ones. Maybe they're interfering with majic. Maybe they're just good rules. Darth Blockbuster doesn't tell people he's Darth Blockbuster. Instead he says he's an an Executive Vice President, Human Resources Representative, or expert lawyer. Are these people genuine authority figures protecting society, or Darth Blockbusters protecting their paychecks?
+
+To answer that, we need to cleary identify he difference between majic and rules. This way we can filter out the good and bad rules. This lessons takes us to small farm in Maryland, and a young boy who worked hard to better himself.
 
 ===
 
@@ -262,19 +266,19 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 Frederick Douglass is a true Jedi Master. His great bravery, persistence, and intelligence showcase humanity's endless potential. The big lesson we need to learn here Skywalker, is using majic to tell the difference between good and bad rules.
 
-Sophia taught Douglass to read. She wasn't told to. She did it because we naturally love teaching tools. Whatever our joys are, from boxing, fishing, or reading, we love spreading them. We love it because we're all supposed to spread majic.
+Sophia taught Douglass to read. She wasn't told to. She did it because we naturally love teaching tools. Whatever our joys are, from boxing, fishing, or reading, we love spreading them. We love it because we're supposed to spread majic.
 
 When a magician makes a playing card disappear, we smile in awe and childish wonder. That's really cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with reading, they've similarly performed something awesome, but its not a trick; they've upgraded someone's cyborgology and effectively created a new and improved person. This makes us smile for a long time. Majic is a long lasting dopamine rush.
 
-Yet human made rules _sometimes_ say upgrading to a new tool is wrong. Medieval parishoners couldn't read a science book, peasant farmers couldn't have a musket, a 1990's kid couldn't download a digital song. Today kids can't repair his laptop and millions of tired mothers can't telecommute. Why?
+Yet human made rules _sometimes_ say upgrading to a new tool is wrong. Medieval parishoners couldn't read a science book, peasant farmers couldn't have a musket, a 1990's kid couldn't download a digital song. Today millions of tired mothers can't telecommute. Why?
 
-There is no easy answer. Society's rule book doesn't proclaim itself to be a Death Star. It never will; remember in no story does a antagonist proclaim herself evil. The lesson Skywalker is it'll never be easy to know the difference between good and bad rules. Humans make rules so easily in speech, regulations, laws, to ever easily filter out the bad ones.
+There is no easy answer. Society's rule book will never call itself a Death Star. Remember in no story does someone say their evil. The lesson Skywalker is it'll never be easy to know the difference between good and bad rules. Humans make rules so easily in speech, regulations, laws, to easily filter out the bad ones.
 
-Majic is thus our best judge of the rules. It naturally makes us smile. From teaching a kid to walk, to teaching a grandmother to use Skype to watch her grandkids first steps, teaching and learning new tools opens our hearts because it solves problems and improves our way of life.
+Majic is thus our best judge of the rules. It naturally makes us smile. From teaching a kid to walk, to teaching a grandmother to use Skype to watch her grandkids first steps; teaching and learning new tools opens our hearts because it solves problems and improves our way of life.
 
 So, when you're teaching or learning a new tool and someone steps in your way with a rule, ask yourself if you feel majic, and if you do, ask the rulemaker why he doesn't. Perhaps there's a good reason. But keep Sophia in mind. Performing majic made her fell good, while following the rules only made her feel safe.
 
-And safety is fleeting Skywalker. No ruling philosophy lasts forever, thus all rule books eventually expire. Majic never will. It always was, and always will be, in our souls. It's how we naturallt test our rule book. Alternating current, the microchip, the iPhone were all made by people who avoided the rules yet we celebrate Tesla, Noyce, Jobs today because they help us feel and spread majic.
+And safety is fleeting Skywalker. No ruling philosophy lasts forever, thus all rule books eventually expire. Majic never will. It always was, and always will be, in our souls. It's how we naturally test our rule book. Electricity, the microchip, the iPhone were all made by people who skirted the rules. Yet we celebrate Tesla, Noyce, Jobs today because they invented a new tool that let us feel and spread majic.
 
 Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers and orators his start, yet she lived a miserable life watching him succeed because she broke the rules. That should help you decide which rules are worth following.
 
@@ -282,21 +286,23 @@ Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers
 
 Skywalker, the extras are struggling. We already have Jedi in the open-source community creating new tools to solve frontline problems. We already have extras feeling the pain of frontline problems. What we don't have is the freedom of extras to majically form bonds with new tools. For that we need Techvolution.
 
-But let's talk about the good news. There's always good news and its vital to mention to fend off negativity. It's safer to live now then in any other point in human history. The amount of us dying violent deaths has consistently gotten lower. In the Stone Age, about 10-20% of people died violently, most often by murder. In Rome's peak civilization it was around 2-5%. After Rome's collapse it passed 5% again, but by the 18th century it was back to under 5%. Now, less than 1% of us die violently. All because as civilization grows, we make better justice systems, distribute more wealth, and especially make better tools.
+But let's talk about the good news. There's always good news. Its vital to mention to fend off negativity and despair. It's safer to live now then in any other point in human history. The amount of us dying violent deaths has consistently gotten lower. In the Stone Age, about 10-20% of people died violently, most often by murder. In Rome's peak civilization it was around 2-5%. In the Dark Ages it was above 5%. But by the 18th century it was under 5% again. Now, less than 1% of us die violently. All because as civilization grows, we make better justice systems, distribute more wealth, and especially make better tools.
 
-And now we have the good news of enormously powerful digital tools that keep getting faster. In 1972 a microchip had about 3,000 transistors. In 2018 it could have 10 billion. In 46 years, we've increase computer power by 3 million percent. It's only because of old philosophies that we're not using this power to solve our problems.
+More good news. We have enormously powerful digital tools that keep getting better. Transistors are responsble. They power digital tools. In 1972 a microchip had about 3,000 transistors. In 2018 they had 10 billion. In 46 years, we've increase computer power by 3 million percent.
 
-Digital protagonists like Grace Hopper, Jay Last, and Al Alcorn created digital tools en masse in the 1970's. That's when Darth Blockbuster showed up and made his Death Star. He's written contracts nobody can understand, regulations nobody can read, and enforces politically correct behavior nobody likes. All to keep his primitive tools in use and himself in power.
+Protagonists like Grace Hopper, Jay Last, and Al Alcorn created digital tools en masse in the 1970's. And that's the bad news. Because of old philosophies, these new tools were a threat not a salvation. Thus, Darth Blockbuster showed up and made his Death Star and wrote contracts nobody can understand, regulations nobody can read, and enforces politically correctness nobody likes. All to keep his primitive tools in use and himself in power.
 
-Our society's biggest problems like personal isolation, political hatred, and climate change, are wounds of the Death Star's many attacks. But keep in mind, we can solve them with digital uses and Techvolution. Let's look at some stats to better understand our wounds.
+Our society's biggest problems like personal isolation, political hatred, and climate change, are wounds of the Death Star's many attacks. But stay positive. We can solve them all when we liberte digital uses with Techvolution.
+
+Let's look at some stats to better understand our wounds.
 
 Moore's Law - transistor count
 <iframe src="https://ourworldindata.org/grapher/transistors-per-microprocessor?time=1971..2017" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-Moore's Law - Transistor's power electronics. Roughly every two years Jedi can double the amount inside a microship. This exponential increase showcases how much more powerful digital tools are. It services two purposes. One it shows when Darth Blockbuster came, and how much harder he's had to work to keep his tools in power. And two, how despite it all humanity is improving life on Earth, so stay positive. Techvolution is about making the already good things happen better.
+Moore's Law - Transistor's power electronics. They amount in a microchip can roughly double every two years. Although this will be ending soon, it's still given us lightsabres waiting to be turned on with Techvolution.
 
 Red Tape monitor
 ![Red Tape Monitor](/img\diagrams\GWRegStudies-PagesPublishedintheCFR-6.12.19.png)
-The Code of Federal Regulations (CFR) is the codification of the general and permanent rules promulgated by the departments and agencies of the federal government. The number of total pages published in the CFR annually provides a sense of the volume of existing regulations with which American businesses, workers, consumers, and other regulated entities must comply.
+The Code of Federal Regulations is the rule book of the federal government's department and agencies. The number of total pages published provides a sense of the volume of existing regulations with which American businesses, workers, consumers, and other regulated entities must comply.
 
 Social capital - USA
 <iframe src="https://ourworldindata.org/grapher/trust-attitudes-in-the-us?time=1972..2014" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -304,69 +310,79 @@ Social capital is the trust people have in each other. The more people socialize
 
 Blue red hatred - Congress
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tEczkhfLwqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Red and blue increasingly hate each other since the 1970's. They blame each other for their shared outdatedness. Note, the red and blue color code for progressives and conservaties changes in USA, Canada, Austrialia, United Kingdom, but the trend is the same.
-
-CO2 - 1801
-<iframe src="https://ourworldindata.org/grapher/co2-concentration-long-term?time=1801..2018" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-Carbon Dioxide emissions since 1800. Notice the spike in the 1970's. Even several oil shocks didn't force us to replace old tools for digital ones. Our climate will change before Darth Blockbuster will let us techvolve.
+Since the 1970's red and blue increasingly hate each other. Note, the red and blue color code for progressives and conservaties changes in USA, Canada, Austrialia, United Kingdom, but the trend is the same.
 
 US - trust in DC
 <iframe src="https://ourworldindata.org/grapher/public-trust-in-government?time=1958..2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-We keep using old tools, thus our problems pile up. Loyalty to old philosophies disables government's ability to help. The public's trust in their own government declines as a result.
+Attached to old philoosphies, government is inable to solve frontline problems. The public's trust in their own government declines as a result.
+
+Miles driven
+![Miles driven](/img\diagrams\US-VMT-per-capita.png)
+The Code of Federal Regulations is the rule book of the federal government's department and agencies. The number of total pages published provides a sense of the volume of existing regulations with which American businesses, workers, consumers, and other regulated entities must comply.
+
+Suburbanization
+![Miles driven](/img\diagrams\US-VMT-per-capita.png)
+The Code of Federal Regulations is the rule book of the federal government's department and agencies. The number of total pages published provides a sense of the volume of existing regulations with which American businesses, workers, consumers, and other regulated entities must comply.
+
+CO2 - 1801
+<iframe src="https://ourworldindata.org/grapher/co2-concentration-long-term?time=1801..2018" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Carbon Dioxide emissions since 1800. Notice the spike in the 1970's. Even several oil shocks didn't force us to replace old tools for digital ones.
 
 ## Things Won't Change, Until
 
 Most of our problems started in the 1970's for a reason. That's when protagonists's created digital tools, and Darth Blockbuster showed up to keep our car driving, suburban living, broadcast television watching, 9-5 working, two car garage home building, unhealthy food eating, central power station buying, univeristy admission test taking lifestyle going. Despite totally new tools, the American way of life hasn't changed. It's still the "American Dream" to live in a post World War II baby boomer suburb.
 
-Our environment, resources, tools are completely different. Yet we live the same. That's like trying to make a camel live in the Amazon. There's nothing wrong with either, but they simply aren't adapted to each other.
+Our environment is changing, resources are depleting, and tools are completely different. Yet we live the same. That's like trying to make a camel live in the Amazon. There's nothing wrong with either, but they simply aren't adapted to each other.
 
-Darth Blockbuster is the camel. He controls adaption, in this case the 1959 suburban lifestyle, that is outdated. Rather than return to the drawing board, and try to figure how how to succeed, Darth Blockbuster  co-opts society's rule book to keep himself in power. Thus, our red / blue politics is about subsidizing a wet and very selfish camel.
+Darth Blockbuster is the camel forcing us to keep his suburban lifestyle "desert" in power to prevent having to compete in the Amazon of digital tools. Done because Darth Blockbuster co-opts society's rule book to keep old tools in power. That's how our society subsidizes a wet and very selfish camel.
 
-For example, because university libraries and lecture halls are still considered "formal education", red / blue endlessly debate who should get into university and how the masive expense should be paid. Endless battles over affirmative action, student loan rates, and state education subsidies are the result.
+Addicted to fighting over the controls to old tool, our politics doesn't notice. For example, because university libraries and lecture halls are still considered "formal education", red / blue endlessly debate who should get into university and how the masive expense should be paid. Endless battles over affirmative action, student loan rates, and state education subsidies are the result.
 
-All while better tools are ignored. Digital tools can educate anyone willing. Wikipedia, YouTube, Khan Academy, Udemy, Skillshare, Brilliant, The Great Courses, are merely the first new digital education tools. They do wonderful jobs, yet are funded for a tiny fraction of formal education, and get no official support. We don't teach kids to read or update Wikipedia in schools. We don't track student progress in Khan Academy's micro-lessons. We defintely don't recognize "degrees" from Udemy, or YouTube, even though most programmers and designers learn far more there then in any college classroom.
+All while better tools are ignored. Digital tools can educate anyone willing. Wikipedia, YouTube, Khan Academy, Udemy, Skillshare, Brilliant, The Great Courses, are merely the first new digital education tools. They do wonderful jobs while costing a tiny fraction of formal education and getting no official support. We don't teach kids to read or update Wikipedia in schools. We don't track student progress in Khan Academy's micro-lessons. We defintely don't recognize "degrees" from Udemy, or YouTube, even though most programmers and designers learn far more there then in any college classroom.
 
-Our society suffers keeping the imagined world of 1959 baby-boomer suburbia going. Despite way too much carbon in the atmostphere, gridlocked roads, housing bubble bursts, massive student debt, and horrible individual health, our politics keeps us using gas cars, mass produced homes with no solar panels or water collection built in, super-expensive college education, and very confusing health insurance. Our entire climate is changing because our ruling philosophy is not.
+Our society suffers keeping the imagined world baby-boomer suburbia alive. Despite way too much carbon in the atmostphere, gridlocked roads, housing bubble bursts, massive student debt, and horrible individual health, our politics keeps us using gas cars, mass produced homes with no solar panels or water collection built in, super-expensive college education, and very confusing health insurance. Our entire frickin climate is changing because our ruling philosophy is not.
 
-Middle class quality of life, political cooperation, and climate change, won't get better until the extras join the protagonists, step-up to the antagonists, and start to use digital tools that actually solve problems. To do that, we need a rule book written from Techvolution. Until we do, we're basically camels trying to live in the Amazon.
+Middle class quality of life, political cooperation, and climate change, won't get better until the extras join the protagonists, step-up to the antagonists, and start to use digital tools that solve frontline problems. To do that, we need Techvolution. Until then, we're basically camels trying to live in the Amazon.
 
-But don't despaire. The good news is, we can win Skywalker. I'll show you.
+But don't despair. The good news is, we can win Skywalker. I'll show you.
 
 # A TECHVOLUTION BATTLE SCENE
 
-## Introductionnn
+## Battle Introduction
 
 In the 1970's the transistor, internet, computer monitors, and other digital technology, started to leave labs and research centres and make their way into products. Finally, after centuries of primitive tools, society had ones cheap enough to mass produce, yet powerful enough to change our way of life. Of course, that's when Darth Blockbuster appeared and went to work defending his way of life.
 
-Some examples. In the 1970's AT&T defended their telephone monopoly by successfully lobbying government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by, unsuccessfuly, suing home video cassette recorders. In 2001, the music industry defended music compact discs by successfully suing digital songs. Throughout society the antagonists found ways to keep digital tools from the hands of the people.
+Some examples. In the 1970's AT&T defended their telephone monopoly by successfully lobbying government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by, unsuccessfuly, suing home video cassette recorders. In 2001, the music industry defended music compact discs by successfully suing digital songs. Likewise, Tesla, Uber, AirBnB biggest competition has been in the courtroom. Throughout society the antagonists found ways to keep digital tools from the hands of the people.
 
-The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to improve digital songs with iTunes. Music executives had already tried and failed horribly to make their own platform. Despite the supposed crisis of Napster, Jobs said he'd "never spent so much of my time trying to convince people [music exceutives] to do the right thing for themselves".
+The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to improve digital songs with iTunes. Music executives had already tried and failed horribly to make their own platform. Despite the supposed crisis of Napster, Jobs said he'd "never spent so much of my time trying to convince people [music executives] to do the right thing for themselves".
 
-The problem wasn't Napster. It was Darth Blockbuster. He didn't know anything about new technology. New tools questioned why he was still the leader. So he resisted change even from Steve Jobs. He masked his selfishness by citing the rules. From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Let's learn how this story looks in a little more detail.
+The problem wasn't Napster. It was Darth Blockbuster. To be fair, he knew how to manage a huge corporation filled with competing interests, collect money to get employees paid, and fought for its continued survival. Yet he didn't know anything about new technology and fought back with rules, not tools.
+
+So Darth Blockbuster resisted change even from Steve Jobs. From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Let's learn how this story looks in a little more detail.
 
 ## How New Tools Start the Fight
 
-In biological evolution there are adaptations of existing lifeforms and new lifeforms. In Techvolution this the difference between a new technology and a new tool.
+In biological evolution there are continual adaptations of existing lifeforms, and then less often entirely new lifeforms. In Techvolution this is the difference between a new technology, and a new tool.
 
 Upgrading a technology is an iterative change; like going from Sedan's to SUV's, VHS to DVD's, tube televisons's to LCD's. Each is different technologically, but they do the same job, so no new majic is needed to attract users. As a result no political battles are started.
 
-But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, a genius unlocks a new tool like smartphones. And this requires new majic and is thus a big deal.
+But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, genius can unlock a new tool like smartphones. And this requires new majic and is thus a big deal.
 
-![New Tool Creation](/img\prologue\techvolution-new-tool-creation-pc.png)
+![New Tool Creation](/img\diagrams\techvolution-new-tool-creation-pc.png)
 
 Why? Well, because creating a new tool asks a climactic and political question: who controls it? After all, whoever does, is more powerful. The weilder of the new tool can let extras majically connect with it to solve their problems. Or withold it and convince the extras to keep using old tools. Like muscle cars trying to keep customers away from Tesla with techniques like mass advertising, car culture, and spectacle filled V8 cars. Techniques I call dark majic.
 
 Thus, while civilization is a struggle to overcome problems by upgrading technology and inventing new tools, it’s also a battle to control them. The people with the old tool fight to retain their power, while inventors and innovators imagine a new society that shares it.
 
-The eternal story of civilization is thus protagonists like Jobs making new tools, antagonists like music company executives attacking new tools, and many extras watching them fight. Our politics is an ongoing history of technological change, with protagonist and antagonist both reaching for the tool to make themselves the winner.
+The eternal story of civilization is thus protagonists like Jobs making new tools, antagonists like music company executives attacking new tools, and many extras watching them fight. Our politics is an ongoing history of technological change, with protagonist and antagonist both reaching to control the tool and make themselves the winner.
 
 Today the extras are not self-aware of their power to decide the winner. I’ll show you how important you are. Here’s how you changed the world just by being curious and loving majic.
 
-![Dist-vs-retention](/img\prologue\techvolution-distribution-vs-rentention-2.png)
+![Dist-vs-retention](/img\diagrams\techvolution-distribution-vs-rentention-2.png)
 
 ## Extras Killed Wikipedia's Evil Twin
 
-The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, people always have questions. Like who was Nikola Tesla, or why are Tesla cars so safe. Constant questions are a problem and we need a tool to solve it. True to ourselves, we make a reference tool with the technology available and upgrade it when possible.
+The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, people always have questions. Like who was Nikola Tesla or why are Tesla cars so safe. Constant questions are a problem and we need a tool to solve it. True to ourselves, we make a reference tool with the technology available and upgrade it when possible.
 
 Our first reference tool was the wisdom of our elders. The first technological upgrades were papyrus scrolls and ink (500 BC) and books (500), which turned some elders into experts like Hippocrates and Aristotle. When wood-pulp paper (1200) and the printing press (1456) were invented, humanity unleashed mass-produced books. Now experts could share knowledge between themselves and educate the masses. We called the reference books encyclopedias.
 
@@ -374,27 +390,27 @@ People loved encyclopedias. They answered many questions. The _Encyclopedia Brit
 
 Then came the world wide web (1991), a new technology that unlocked many new tools like websites, forums, blogs, and something called “wikis”. Wiki software lets anyone write or edit a webpage by pressing “edit now”. All changes are saved, so anyone can erase errors or vandalism by pressing “undo now”. For years programmers used wikis to collaboratively write technical manuals.
 
-As web tools boomed in the late ’90’s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us who were curious about things like Tesla car safety know our quest ends with a free online encyclopedia anyone can edit called Wikipedia. But it didn’t start out that way.
+As web tools boomed in the late ’90’s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us who were curious about things like Tesla's know our quest ends with a free online encyclopedia anyone can edit called Wikipedia. But it didn’t start out that way.
 
 Wikipedia started as Nupedia (2000). Nupedia was a free online copycat of Encyclopedia Britannica where only “expert” professors made articles. Wikipedia (2001) was a side project. Only programmers knew “community content creation” would work.
 
-Everyone else assumed regular people would only read the work of professors, and definitely couldn't be trusted to write articles. The first issue with this theory was that the professors didn’t like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000, which most professors loved to belittle as rubbish. Professors even disallowed students from referencing Wikipedia's articles in their papers. Yet professors refused to improve, or to assign students to improve, Wikipedia.
+Everyone else assumed regular people would only read the work of professors. The first issue with this theory was that the professors didn’t like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000, which most professors loved to belittle as rubbish. Professors even disallowed students from referencing Wikipedia's articles in their papers. Yet professors refused to improve, or to assign students to improve, Wikipedia.
 
-The second issue was that it turned out “expert” answers and “regular” answers are the same. Among other reasons, Tesla's are so safe because with the engine and battery at the bottom, their centre of gravity is  low.
+The second issue was that it turned out “expert” answers and “regular” answers are the same. Among other reasons, Tesla's are so safe because with the engine and battery at the bottom. This makes them hard to flip, and leaves lots of room for impact absorting frames.
 
-Thirdly, Wikipedia was so easy to use, many extras became protagonists! A huge community of non-academics voluntarily shared their knowledge one “edit now” at a time and fiercely protected their common knowledge with “undo now”. Nobody told them, paid them, or made a rule to force it. Because performing majic proved itself again to be its own reward.
+Thirdly, Wikipedia was so easy to use many extras became protagonists! A huge community of non-academics voluntarily shared their knowledge one “edit now” at a time and fiercely protected their common knowledge with “undo now”. Nobody told them, paid them, or made a rule to force it. Because performing majic was again its own reward.
 
-And lastly, while most people didn't contribute, they still ignored the rules, and flocked to Wikipedia's answers. They still felt majic learning a new tool. The extra’s mass support quickly made Wikipedia king, while giving Nupedia and Encyclopedia Britannica quick deaths.
+And lastly, so many people loved the performance, flocked to Wikipedia's answers. The extra’s mass support quickly made Wikipedia king, while giving Nupedia and Encyclopedia Britannica quick deaths.
 
 That’s the story of Wikipedia. Made by new protagoinsts, made the standard reference tool by extras. Few believed it was possible, because even professors don’t understand new tools always unpower the few, to empower the rest. Interestingly, after I finally conceded temporary defeat to my personal Darth Blockbuster, I uploaded a few pages to Wikipedia instead. Not as helpful as my app, but it took just a few weeks of work, and one “edit now” button, to make it real. It felt majical to bypass the rules.
 
-![Wikipedia development](/img\prologue\techvolution-enclyclopedia-book-wiki.png)
+![Wikipedia development](/img\diagrams\techvolution-enclyclopedia-book-wiki.png)
 
 ### You Can Win
 
 Wikipedia's victory is another example of the archetypal Techvolution story. Like Galileo and his telescope, George Washington and his musket, and Steve Jobs and his iTunes. Wikipedia was a victory for protagonists. What makes it especially cool, is the extras played such a big part.
 
-That’s the story Skywalker I want you to join with lightsabers a-blazin’, dicing up old tools like evil storm troopers, to smooth out humanity’s natural evolution. The open-source community are empowering individuals. But they are facing down Darth Blockbuster on their own. To help them change our world, they need as much help as Wikipedia got.
+That’s the story Skywalker I want you to join with lightsabers a-blazin’, dicing up old tools like evil storm troopers, to smooth out humanity’s natural evolution. The open-source community are making new tools. But they are facing down Darth Blockbuster on their own. To help them change our world, they need as much help as Wikipedia got.
 
 Note however, our lives cut across thousands to millions of problems. Thus, our villians are not in a massive group like “the rich” or the “the unions” as old philosophies label. Our villians reveal themselves inside thousands of companies, institutions, and organizations, by suppressing new tools to keep their version of the DVD alive.
 
@@ -410,24 +426,25 @@ Darth King lived inside palaces, using society’s money to host splendid banque
 
 “Extras are born free; and everywhere they are in chains.” Jean-Jacques Rousseau wrote that in 1762. He was the King of France. No he wasn’t. Was he the richest man in England? Absolutely not. Rousseau was a poor writer who copied sheets of music to make the rent. More than 300 years later, he is recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
 
-Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility’s many banquets and balls. This was the image of opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the the fairy tale, the extras didn’t have a fairy Godmother to make their dreams come true. Instead, the commoners cleaned the noble’s vast libraries, used guns while dying in their wars, and were told to ignore what the telescope revealed. The extras were excluded from the power of new tools because they believed their beloved Holy Bible said only noble people had the “divine right to rule”.
+Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility’s many banquets and balls. This was the image of opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the the fairy tale, the extras didn’t have a fairy Godmother to make their dreams come true. Instead, the commoners cleaned the noble’s vast libraries, used guns while dying in their wars, and were told to ignore what the telescope revealed. The extras were excluded from the power of new tools because they believed their beloved Holy Bible said only Darth King had the “divine right to rule”.
 
-Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other extra—you could argue—who rose to become the ultimate protagonist. Who is to say that other extras can’t live up to their own potential? Rousseau said books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists. The self-proclaimed “divine nobility” didn’t like hearing that. This powerful self-protecting community of Darth Kings declared Rousseau a banquet-pooper, and chased him out of Switzerland, France, and England. Maybe that’s why Rousseau rented instead of owned.
+Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other extra—you could argue—who rose to become the ultimate protagonist. Who is to say that other extras can’t live up to their own potential? Rousseau said books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists. The self-proclaimed “divine nobility” didn’t like hearing that. This powerful self-protecting community declared Rousseau a banquet-pooper, and chased him out of Switzerland, France, and England. Maybe that’s why Rousseau rented instead of owned.
 
-Starting in 1776, within Rousseau’s lifetime, Darth King started to face the music when the American people started a revolution. One year after he died, the French had their own revolution in 1789. And on it went from country to country because Rousseau, and others like him, make the extras realize they should become protagonists in a civilization “of the people, for the people, by the people”. Cinderella soon forgot about the fancy ball, and instead played the music of freedom, in a choir of equals that sounded something like this:
+Starting in 1776, within Rousseau’s lifetime, Darth King started to face the music when the American people started a revolution. One year after he died, the French had their own revolution in 1789. And on it went from country to country because Rousseau, and others like him, make the extras realize they should become protagonists with a ruling philosophy “of the people, for the people, by the people”. Cinderella soon forgot about the fancy ball, and instead played the music of freedom, in a choir of equals that sounded something like this:
 
   What does this horde of slaves,
-  Of traitors and conspiring kings want?
+  traitors and conspiring kings want?
   For whom have these vile chains,
-  These irons, been long prepared? (repeat)
+  These irons, been long prepared?
   Frenchmen, for us, ah! What outrage
   What furious action it must arouse!
   It is to us they dare plan
   A return to the old slavery!
+  To arms, citizens!
 
-  To arms, citizens ...
+Revolutionary songs like this spread the people’s liberty, equality, and fraternity throughout the world. In a few years, civilization changed its ruling philosphy from knowing the nobles were divine, to knowing they were villians who resorted to hiring mercenaries rather than realize the people didn't need them anymore.
 
-Revolutionary songs like this spread the people’s liberty, equality, and fraternity throughout the world. In a few years, civilization changed its philosphy from knowing the nobles were divine, to knowing they were villians who resorted to hiring mercenaries rather than realize the people didn't need them anymore. When the people took control of books, guns, and science, they put presidents and senators, judges and sherriffs in power, who ruled at the request of new protagonists who built a civilization with checks and balances, because no one was divine. A change empowered by tools, thought of in philosophy, yet made real with the bloodshed of revolutions.
+When the people took control of books, guns, and science, they put presidents and senators, judges and sherriffs in power, who ruled at the request of new protagonists who built a civilization with checks and balances, because no one was divine. A change empowered by tools, thought of in philosophy, yet made real with the bloodshed of revolutions.
 
 Rousseau died never having found a home. After they won their revolutions, a population of heroes put him to rest inside the glorious Panthéon, heralding him as a renowned breaker of chains, in a free world he helped build. Where any guy can be the prince, and any girl can be Cinderella.
 
@@ -435,9 +452,9 @@ The question for us is, how did Rousseau do it?
 
 ## The Road to Techvolution, and the Death of Revolutions
 
-Rousseau changed history by making the people realize they suffered on the frontline because of an old ruling philosophy. Even though French and Americans could read pamplets, newspapers, and books and understood current events, they still couldn't vote. Even though they could use guns to expand the king's land, they weren't allowed to use guns to defend themselve against the king. Even though science starting revealing hte truth of Nature, they were told to follow society's rules instead. The people's cyborgolgy was held back by Darth King's rules. Rousseau made the people realize this was bullshit.
+Rousseau changed history by making the people realize they suffered on the frontline because of an old ruling philosophy. Even though French and Americans could read pamplets, newspapers, and books they still couldn't vote. Even though they could use guns to expand the king's land, they weren't allowed to use guns to defend themselve against the king. Even though science starting revealing the truth about Nature, they were told to follow society's rules instead. The people's cyborgolgy was held back by Darth King's rules. Rousseau made the people realize this was bullshit.
 
-The people's demand for change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the other revolutions in the 19th centuries were violent, because the divide between ruling philosophy, and frontline society, was so wide.
+The people's demand for change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the other revolutions in the 19th centuries were violent, because the divide between ruling philosophy and frontline society was very wide.
 
 It's a lesson for us. We have to hurry up. Because the longer we wait to update our ruling philosophy to digital tools, the more out of touch the frontline and ruling philosophy gets. The result is needless revolution. All the more reason for a Techvolution now.
 
@@ -445,55 +462,66 @@ It's a lesson for us. We have to hurry up. Because the longer we wait to update 
 
 ## ~~Revolution~~ Techvolution
 
-Skywalker, you look tense. I get why. Revolutions are tough. Maybe we should get the bristol boards out, smear the face paint, and fight! Fight for free college education! Fight for less regulations! Fight for public health insurance! Fight for tax cuts! Let's march and yell!
+Skywalker, you look disappointed. You think revolutions are fun! Maybe we should get the bristol boards out, smear the face paint, and fight! Fight for free college education! Fight for less regulations! Fight for public health insurance! Fight for tax cuts! Let's march and yell!
 
-I don't think so. Keep the marches and protests of red / blue out of your mind. We're inspired by, but not repeatting, _Les Miserables_. Fighting for change doesn't mean to grab hold of the commanding heights of primitive tools. We have digital tools. We have the technology to make tools to solve each peron's individual problems. Affordable blood tests, easy air quality tests, cheap telecommunications, and so much more, ready and waiting.
+I don't think so. Keep the marches, protests, demonstrations, and activists of red / blue out of your mind. We're inspired by, but not repeatting, _Les Miserables_. Fighting for change doesn't mean to grab hold of the commanding heights of primitive tools. We have digital tools. Solar panels, air quality testors, EKG monitors, repairable laptops, waterless toilets improve the world just by being used.
 
-Waiting for you to contorl your own tools, your own cyborgology, and decide what is best for you. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we want is the ultimate revolution.
+Digital tools are ready and waiting for the people to control their own cyborgology, and decide what is best for themselves. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we want is the ultimate revolution.
 
 # STORIES
 
-Rousseau said the nobility were con artists who hid behind divinity. Yet "holy" noble families ruled every European country. There had to be some reason for it, and there was. After western Rome fell in 476 western Europe had no water supplies, no court system, and no military protection. Civilization was gone. Anarchy ruled.
+Rousseau said the nobility were con artists who hid behind divinity. Yet "holy" noble families ruled every European country. There had to be some reason for it, and there was. After western Rome fell in 476 western Europe Western Europe entered the Dark Ages (500-1000). So called because there was no books, ink, or literate people to write anything down. Likewaise there was no sanitation system, court system, or military. Civilization was gone. Anarchy ruled.
 
-Western Europe entered the Dark Ages (500-1000). It was the original nobles like Clovis I, Charles Martel, and Alfred the Great that took charge. They fought battles against invaders, headed governments that kept the peace, built castles to protect the newly remade wells, hospitals, and markets. The people were increasingly safe, fed, and thus happily declared the nobles holy.
+People like Clovis I, Charles Martel, and Alfred the Great took charge. They were the best at using swords, bows, armour, and calvary fight off invaders. They headed governments that kept some peace. They built castles to protect the newly remade wells, hospitals, and markets. The people were increasingly safe, warm, and fed as tools returned the people's cyborgology.
 
-This arrangement came to be called feuldalism. You've probably seen it in Robin Hood, Monty Python, or Game of Thrones. It slowly let Europe prosper. Civilization was back.
+Fittingly, a heirarchy formed around society's use of this primitive tools. We call it feuldalism. You've probably seen it in Robin Hood, Monty Python, or Game of Thrones. A strong heirarchy of kings, bishops, dukes, trademen, sherrifs, priests, and peasants that kept the peace and slowly brought civilization back. The people happily declared the leaders holy, for they saw the holiness with warm beds and full stomachs.
 
-The invaders were gone, the water was running, the roads were clean, but the rules stayed the same. The nobles weren't battle scared military leaders, but simply born with "noble blood", who used peace and prosperity to replace armour with dresses, castles with palaces, and battlefields with danquets and balls. Unless they were fighting other nobles for personal glory, which was common.
+As Europe went through the Middle Ages, the Renaissance, the Enlightenment, the invaders were gone, the water was running, the roads were clean. Europe had vastly better tools of a vastly better civilization. The only thing that didn't change was the rules.
 
-These later nobles conned the people, and themselves, into believing the rules were sent from God and should never end, and not created by the people fighting off anarchy and should end when peace came back. Understanding this story is pivotal to Techvolution. To explain this story, I need to explain the difference between a good night and bad night at the movies.
+Depsite the fact the nobles were no longer battle scared military leaders, but simply born with "noble blood", the rules didn't change. Except when they waged war against each other, most usually for personal glory, the nobles used relative peace and prosperity to replace armour with dresses, castles with palaces, and battlefields with danquets and balls.
+
+These later nobles conned the people, and themselves, into believing the rules were sent from God, and should thus never end. The practical reason that divinty was believed in because their ancestors fought off anarchy didn't occur to them. Mastering this loss of reasonable rules is pivotal to Techvolution. I can explain it best by explaining the difference between a good and bad night at the movies.
 
 ## Good vs Bad Stories
 
-Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, cry, laugh, yell, it's a good story. Even more telling was when moviegoers walk out. If they talked about twists, turns, and cool lines you know the story was really good, because it turned fiction into real memories.
+Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, cry, laugh, yell, it's a good story. Even more telling was when moviegoers walked out. If they talked about twists, turns, and cool lines you know the story was really good, because it turned fiction into reality.
 
-When good stories spread throughout society a social memory is created. That's why simple lines like "May the Force be with you" and "What is the matrix?" can still uplift a friend, or help question reality, in the real-world today.
+The audience is never wrong. They can't be. No one chooses to laugh, miss a twist, or remember a great line. If they could, they wouldn't need stories. It's the storytellers job to tell a good story. When anyone does, their audience is automatically hooked.
 
-However, people often like movies with no twists, turns, or good lines. Or they think they do. Become a projectionist and you'll see and hear most movies today don't create memories. For example, as I stood outside the recent Star Wars movie, there was much excitement, but no new memories. People were only excited about "May the Force be with you" out of loyalty to an old memory. The process of losing a social memory is what happened to later kings, who like most of today's moviemakers, took their audience for granted.
+That's what the original nobles did. They told a good story. Europe was in anarchy. The kings said follow me I'll keep you safe and give you tools to improve your life. Slowly but surely, they did. The people didn't choose to call them "divine" for it. They were an audience who watched fiction become reality and automatically rewarded the storyteller. Divinty was the logical reaction, like laughter is to a comedy.
 
-We can explain how this happened, by see whying one Star Wars made memories, while their descendants use them up.
+However, the people kept believing in divinty well after anarchy was gone. They did so because people often like, or are tricked to like, stories with no twists, turns, or good lines. Become a projectionist and you'll notice most movies today are simply bad. That's not an opinion, audiences simply don't laugh, cry, and rave much anymore. Explaining why people like bad stories, also tells us why the nobles lost their audience.
 
 ## The Difference Between Good and Bad
 
-A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change/defend reality happens in three parts. The first is an introduction to the problem and characters. The second is the battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
+A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. They fight to change and defend reality happens in three parts. The first is an introduction to the problem and characters. The second is the battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
 
-Telling the difference between good and bad stories is hard. It's not like people want to be boring with bad punch lines and confusing tales.
+The original nobles were protagaonist who fought off invaders. Per their audience, the people, they story went like this. Anarchy. Protagonist says he'll defeat the anarchists and grant people safe homes, simple tools, and the safety to farm the land. The king and his co-stars fough invaders, and after many decades, finally defeated them.
 
-The problem is anything can seem like a legitimate story because everything happens in a sequence of events. However, good stories have to be unexpected enough to keep us guessing, yet reasonable enough to be believable when the unexpected happens. The delight of logical surprises gives us emotions and memories, and is why good stories have "spoilers".
+The problem was, by the time the conclusion was achieved, the people forgot how the story started. And it's not like the nobles were anymore self aware either. They bought into "divine noble blood" more than anybody.
 
-And bad stories can't. Without logical surprises, they keep our interest by distracting us with effects, celebrities, and mass-marketing. Thus, it doesn't matter the first _Star Wars_ was a budget movie, while its descendants have limitless budgets. One is a good story that made huge social memories, while the others are bad stories staying alive by using over using effects, mass-marketing, and social memories of former glory.
+But with no great story to tell, how could the later nobles keep their audience entertained? Their only option was to tell bad stories.
 
-In short, the movies became popular because they were good stories. The original Star Wars, Indiana Jones, Die Hard were good stories that connected with the audience, who formed a majical bond with the movies as a storytelling tools.
+Lucky for him, telling the difference between good and bad stories is actually hard. It's not anyones wants to tell boring stories, anymore than anyone wants to sit through a stinker.
 
-As moviemakers wanted to make sequels, remakes, and prequels to maxmize short term profits, they tricked the audience using dark majic. Ever more effects, celebrities, and mass marketing to use up old memories. This all started in the 1970's by the way.
+The problem is anything can seem like a legitimate story because everything happens in a sequence of events. However, good stories are specific sequences that are unexpected enough to keep us guessing, (will King Alfred defeat the Vikings?) yet still believable when the unexpected happens (of course he did, he's divine!).
 
-Here's what John Wayne said this about it "...the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it"
+Bad stories are either too simple, or too unbelievable, to do either. They aren't about a specific problem, so they keep our interest they distract us with ever more dark majic techniques like effects, celebrities, pretenious culture, and mass-marketing.
 
-The kings Rousseau hated did the same thing. They, were descendants of former glory, who partied it up, thinking the good times were the rule. Now for Techvolution's sake, we have to get out an imaginary microscope and assess stories in more detail. When we do, we'll see there are only three.
+In movies, you can see this change in Star Wars. The original was a budget film, but it was a good story that rung true with society who themselves made it "divine" in their culture. Fast forward to today, and Star Wars movies aren't good. Like most blockbusters, they're effects filled, mass marketed, stories that don't make people scream, yell, cry, or talk about. Yet they remain celebrated inside festivals, premieres, and award shows and a cohort of fans who watch out of habit.
+
+Star Wars, and most movies today, takes the people for granted. It stays alives using childhood memories of a good story. As the luster wears off, it reveals how the people also lost their attachment to the nobles. They simply found emotions and memories with heroes who were solving their problems in real life.
+
+yawn. START HERE
+
+And this leads us back to Darth King and Rousseau. These later kings were descendants of former glory who lived in art and distracted with spectacle. They partied it up inside banquets and balls, while distracting the people with more specular fashion, cathedrals, and palaces. Fittingly, Darth Blockbuster is thus a sequel. We can pin down even more when we breakdown stories even more.
 
 ## Reality of Stories
 
-Stories are about changing reality. Their realiy has layers; a mixture of dialogue, characters, and props. The difference between good and bad stories is properly aligning these layers in their order of importance.
+Stories are about changing reality. A story is a sequence of events where a protagonist fights an antagonist to overcome a problem.The fight to change/defend reality happens in three parts. The first is an introduction to the problem and characters. The second is the battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
+
+
+Their realiy has layers; a mixture of dialogue, characters, and props. The difference between good and bad stories is properly aligning these layers in their order of importance.
 
 The first layer is the most obvious. It's everything we see. I'm talking clothes, ships, food, beds. All items that make up a setting like Renaissance Italy, or modern suburbia. The next layer is the items people are passionate about like guitars to a guitarist, guns to a soldiers, planes to a rebel. The next layer is the rulebook, what people are allowed and not allowed to say; no storm trooper said "May the Force be with you" to Vader. After that comes the antagonist, the person using the rules to keep things the same, like Vader. Next layer is the ruling philosphy, which the antagonist is a believer in, like the Dark Side. Then there's the protagonist, like Luke Skywalker, who sees above the ruling philosophy and wants to change the world. And the last layer is the tool or weapon, like the Death Star plans, the means of power everyone is fighting to control.
 
@@ -593,15 +621,17 @@ This happens in societies too....
 
 ## Obi Wan In Trouble
 
-Midway through _Star Wars_, the ship taking Skywalker, Obi-Wan, Leia, and the rest is captured by the Death Star; the very ship the secret plans were stolen to destroy. It's great writing, because, the heroes have to escape it, so they can destroy it.
+Midway through _Star Wars_, the ship taking Skywalker, Obi-Wan, Leia, and the rest is captured by the Death Star; the very ship the secret plans were stolen to destroy. It's great writing, because the heroes have to escape it, so they can destroy it.
 
 Well I hope you took notes Skywalker. Because they got me! The antagonists have me in a Darth Blockbuster choke hold. And I'm in trouble.
 
-See, I broke the rules. The Death Star shot a laser blast. Worst, Darth Blockbuster sent stormtroopers and I was over powered. Not by superior reasoning, philosophy, or ethics. No, they over powered me because some extras joined them! I'm here, like Rapunzel, trapped in the Death Star, under the watch of extras. You have to the secret plans to the rule book. And now have to find its weakness, in order to free me. I'm being well treated and feed, other than being forced to listen to red / blue cable news. Can you convince the extras I'm a good guy? Can you save me?
+See, I broke the rules. Darth Blockbuster shot his Death Star and sent stormtroopers and I was over powered. Not by superior reasoning, philosophy, or ethics. No, they over powered me because some extras joined them!
+
+I'm here, like Rapunzel, trapped in the Death Star, under the watch of extras. You have to the secret plans to the rule book. And now have to find its weakness, in order to free me. I'm being well treated and feed, other than being forced to listen to red / blue cable news. Can you convince the extras I'm a good guy? Can you save me?
 
 Oh what did I do? I downloaded a movie from the pirate bay.
 
-Hurry up! Blue / red cable news is showing a debate. It's on broadcast television with two minute timers! Why not use YouTube and let them talk! Now their debating climate change. I don't know how much longer I got, nevermind the polar bears. Help!
+Hurry up! Protestors are flying to protest climate change. I don't know how much longer I got, nevermind the polar bears. Help!
 
 ### Skywalker Turns on His Lightsaber
 
