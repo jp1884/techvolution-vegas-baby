@@ -72,7 +72,7 @@ It’s not our politicians fault. The philosophies they follow were invented bef
 
 Red and blue philosphies were invented to group humanity into a massive collection action. With red and blue philosophies our farming ancestors came together, industrialized, and built the first rudimentary tools like steam engines, gas cars, indoor toilets, broadcast televisions, and computers the size of rooms. The masses needed to be extras, regulated and managed inside simplistic color coded parties because our tools were so primitive. Thus, we couldn’t share with everyone but had to regulate access. To their credit, blue and red philosophies at least gave extras a voice in how our tools’ factories, regulations, and profits were controlled.
 
-Yet today with live in a world far far away from primitive tools. Digital tools are so easy to make that we can customize them for every person’s individual problems. Technologies like high-speed internet, smartphones, machine learning, computer programming, cloud computing, heart rate monitors, 3D printing, genetic tests, air quality sensors, GPS trackers, smart watches, finger-print scanners, thermal cameras, have made tools like Skype, iPhones, Lyft, WhatsApp, Kickstarter, YouTube, 23 and Me, ButcherBox, blood tests, Khan Academy, Google Wear, GitHub, AirBnB, and Firefox so extremely powerful and so easy to make, we don’t need to fight to control them, but fight to spread them. This doesn’t come naturally to us, however, because the rules of old philosophies are based on fighting over, not sharing, tools.
+Yet today with live in a world far far away from primitive tools. Digital tools are so easy to make that we can customize them for every person’s individual problems. Technologies like high-speed internet, smartphones, machine learning, computer programming, cloud computing, heart rate monitors, 3D printing, genetic tests, air quality sensors, GPS trackers, smart watches, finger-print scanners, thermal cameras, have made tools like Skype, iPhones, Lyft, WhatsApp, Kickstarter, YouTube, 23 and Me, ButcherBox, blood tests, Khan Academy, Google Wear, GitHub, SquareSpace, AirBnB, and Firefox so extremely powerful and so easy to make, we don’t need to fight to control them, but fight to spread them. This doesn’t come naturally to us, however, because the rules of old philosophies are based on fighting over, not sharing, tools.
 
 Techvolution is a new philosphy about making regular people the hero of their own story. It does so by empowering them with new tools.
 
@@ -338,7 +338,7 @@ Darth Blockbuster is the camel forcing us to keep his suburban lifestyle "desert
 
 Addicted to fighting over the controls to old tool, our politics doesn't notice. For example, because university libraries and lecture halls are still considered "formal education", red / blue endlessly debate who should get into university and how the masive expense should be paid. Endless battles over affirmative action, student loan rates, and state education subsidies are the result.
 
-All while better tools are ignored. Digital tools can educate anyone willing. Wikipedia, YouTube, Khan Academy, Udemy, Skillshare, Brilliant, The Great Courses, are merely the first new digital education tools. They do wonderful jobs while costing a tiny fraction of formal education and getting no official support. We don't teach kids to read or update Wikipedia in schools. We don't track student progress in Khan Academy's micro-lessons. We defintely don't recognize "degrees" from Udemy, or YouTube, even though most programmers and designers learn far more there then in any college classroom.
+All while better tools are ignored. Digital tools can educate anyone willing. Wikipedia, YouTube, Khan Academy, Udemy, Skillshare, Curiosity Stream, Brilliant, The Great Courses, are merely the first new digital education tools. They do wonderful jobs while costing a tiny fraction of formal education and getting no official support. We don't teach kids to read or update Wikipedia in schools. We don't track student progress in Khan Academy's micro-lessons. We defintely don't recognize "degrees" from Udemy, or YouTube, even though most programmers and designers learn far more there then in any college classroom.
 
 Our society suffers keeping the imagined world baby-boomer suburbia alive. Despite way too much carbon in the atmostphere, gridlocked roads, housing bubble bursts, massive student debt, and horrible individual health, our politics keeps us using gas cars, mass produced homes with no solar panels or water collection built in, super-expensive college education, and very confusing health insurance. Our entire frickin climate is changing because our ruling philosophy is not.
 
@@ -462,68 +462,89 @@ It's a lesson for us. We have to hurry up. Because the longer we wait to update 
 
 ## ~~Revolution~~ Techvolution
 
-Skywalker, you look disappointed. You think revolutions are fun! Maybe we should get the bristol boards out, smear the face paint, and fight! Fight for free college education! Fight for less regulations! Fight for public health insurance! Fight for tax cuts! Let's march and yell!
+Skywalker, you look disappointed. Revolutions are fun, we should follow _Les Miserables_! Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less regulations! Affordable health insurance! Tax cuts! We march and yell and it'll happen. Once we defeat the other side.
 
-I don't think so. Keep the marches, protests, demonstrations, and activists of red / blue out of your mind. We're inspired by, but not repeatting, _Les Miserables_. Fighting for change doesn't mean to grab hold of the commanding heights of primitive tools. We have digital tools. Solar panels, air quality testors, EKG monitors, repairable laptops, waterless toilets improve the world just by being used.
+Ignore them! Resist the self-gratification of blaming "the other side" for society's problems. Even if you do win, laws, policies, regulations, marches do little in comparison to digital tools. Solar panels, air quality testors, EKG monitors, repairable laptops, waterless toilets, and so much more improve the world for real. The rest is talk.
 
-Digital tools are ready and waiting for the people to control their own cyborgology, and decide what is best for themselves. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we want is the ultimate revolution.
+Digital tools are ready and waiting for the people to control their own cyborgology, and decide what is best for themselves. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we need is the ultimate revolution. We learn from the past so we don't repeat it.
 
 # STORIES
 
-Rousseau said the nobility were con artists who hid behind divinity. Yet "holy" noble families ruled every European country. There had to be some reason for it, and there was. After western Rome fell in 476 western Europe Western Europe entered the Dark Ages (500-1000). So called because there was no books, ink, or literate people to write anything down. Likewaise there was no sanitation system, court system, or military. Civilization was gone. Anarchy ruled.
+The past was a series of revolutions, inspired by Rousseau who said the nobility were con artists who hid behind divinity. Yet "holy" noble families ruled every European country. There had to be some reason for it, and there was. After western Rome fell in 476 western Europe entered the Dark Ages (500-1000). So called because there was no books, ink, or literate people to write anything down. Likewise there was no sanitation system, court system, or military. Civilization was gone. Anarchy ruled.
 
-People like Clovis I, Charles Martel, and Alfred the Great took charge. They were the best at using swords, bows, armour, and calvary fight off invaders. They headed governments that kept some peace. They built castles to protect the newly remade wells, hospitals, and markets. The people were increasingly safe, warm, and fed as tools returned the people's cyborgology.
+People like Clovis I, Charles Martel, and Alfred the Great took charge. They were the best at using swords, bows, armour, and calvary to fight off invaders. They headed governments that kept some peace. They built castles to protect the newly remade wells, hospitals, and markets. The people were increasingly safe, warm, and fed as tools returned to the people's cyborgology.
 
-Fittingly, a heirarchy formed around society's use of this primitive tools. We call it feuldalism. You've probably seen it in Robin Hood, Monty Python, or Game of Thrones. A strong heirarchy of kings, bishops, dukes, trademen, sherrifs, priests, and peasants that kept the peace and slowly brought civilization back. The people happily declared the leaders holy, for they saw the holiness with warm beds and full stomachs.
+Fittingly, a heirarchy formed around society's use of these primitive tools we call feuldalism. You've probably seen it in Robin Hood, Monty Python, or Game of Thrones. A rigid heirarchy of kings, bishops, dukes, sherrifs, knights, priests, tradesman, and peasants that kept the peace and slowly brought civilization back. The people happily declared the leaders holy, for they saw the holiness with warm beds and full stomachs.
 
-As Europe went through the Middle Ages, the Renaissance, the Enlightenment, the invaders were gone, the water was running, the roads were clean. Europe had vastly better tools of a vastly better civilization. The only thing that didn't change was the rules.
+As Europe went through the Middle Ages, the Renaissance, the Enlightenment, the invaders were increasingly gone, the water was running, the roads were clean. Europe had vastly better tools of a vastly better civilization. The only thing that didn't change was the rules.
 
-Depsite the fact the nobles were no longer battle scared military leaders, but simply born with "noble blood", the rules didn't change. Except when they waged war against each other, most usually for personal glory, the nobles used relative peace and prosperity to replace armour with dresses, castles with palaces, and battlefields with danquets and balls.
+The nobles were no longer military leaders fighting off Vandals, Vikings, and brigand, but simply born with "noble blood" who usually waged war against each other for personal glory. The nobles used relative peace and prosperity to replace armour with dresses, castles with palaces, and battlefields with banquets and balls.
 
-These later nobles conned the people, and themselves, into believing the rules were sent from God, and should thus never end. The practical reason that divinty was believed in because their ancestors fought off anarchy didn't occur to them. Mastering this loss of reasonable rules is pivotal to Techvolution. I can explain it best by explaining the difference between a good and bad night at the movies.
+These later nobles conned the people, and themselves, into believing the rules were sent from God, and should thus never end. The practical reason that divinty was believed in because their ancestors fought off anarchy didn't occur to them. The nobles lost the plot of their own stories. It cost them their heads, and sent their civilizations into revolution.
+
+I can explain it best by explaining the difference between a good and bad night at the movies.
 
 ## Good vs Bad Stories
 
-Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, cry, laugh, yell, it's a good story. Even more telling was when moviegoers walked out. If they talked about twists, turns, and cool lines you know the story was really good, because it turned fiction into reality.
+Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, cry, laugh, yell, it's a good story. Even more telling was listening to moviegoers walk out. If they talked about twists, turns, and cool lines you know the story was really good because it turned fiction into reality.
 
-The audience is never wrong. They can't be. No one chooses to laugh, miss a twist, or remember a great line. If they could, they wouldn't need stories. It's the storytellers job to tell a good story. When anyone does, their audience is automatically hooked.
+The audience is never wrong. They can't be. No one chooses to laugh, love a twist, or remember a great line. If they could, stories wouldn't work. It's the storytellers job to give its audience a good story. When anyone does, their audience is automatically hooked.
 
-That's what the original nobles did. They told a good story. Europe was in anarchy. The kings said follow me I'll keep you safe and give you tools to improve your life. Slowly but surely, they did. The people didn't choose to call them "divine" for it. They were an audience who watched fiction become reality and automatically rewarded the storyteller. Divinty was the logical reaction, like laughter is to a comedy.
+That's what the original nobles did. They told a good story. Europe was in anarchy. Evildoers raided on the regular. Lawlessness was the norm. Tools like irrigation, libraries, and money didn't exist. The people were extras watching antagonists have their way.
 
-However, the people kept believing in divinty well after anarchy was gone. They did so because people often like, or are tricked to like, stories with no twists, turns, or good lines. Become a projectionist and you'll notice most movies today are simply bad. That's not an opinion, audiences simply don't laugh, cry, and rave much anymore. Explaining why people like bad stories, also tells us why the nobles lost their audience.
+The kings said follow me! My heirarchy will keep you safe and give you tools to improve your life.
+
+Slowly but surely, they did. The people didn't choose to call them "divine" for it. They were an audience who watched fiction become reality. Divinty was the logical reaction, like laughter is to comedy.
+
+With comedy we can look back at he extras who kept believing in divinty because of religious superstituion. They did so because people often like, or are tricked to like, bad stories.
+
+Don't laugh too hard. Become a projectionist and you'll notice most movies are bad. That's not an opinion, audiences simply don't laugh, cry, and rave much anymore. Yet we still praise movie actors as artists who transform themselves, we label them celebrities and pay them millions. They pretend, it's not that hard. Let them try working insurance.
+
+Explaining why people like bad stories, and for how long, also tells us why the nobles lost their audience and stopped being society's heroes.
 
 ## The Difference Between Good and Bad
 
-A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. They fight to change and defend reality happens in three parts. The first is an introduction to the problem and characters. The second is the battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
+A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change reality happens in three parts. The first is an introduction. The second is the back and forth battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
 
-The original nobles were protagaonist who fought off invaders. Per their audience, the people, they story went like this. Anarchy. Protagonist says he'll defeat the anarchists and grant people safe homes, simple tools, and the safety to farm the land. The king and his co-stars fough invaders, and after many decades, finally defeated them.
+Good stories are specific sequences that are unexpected enough to keep us guessing, yet still believable when the unexpected happens. The kind of story doesn't matter. Comedies, dramas, tragedies. As long as the stories sequence of events is logical, an audience will believe in aliens and space operas, machines and virtual realities, or kings and kingdoms.
 
-The problem was, by the time the conclusion was achieved, the people forgot how the story started. And it's not like the nobles were anymore self aware either. They bought into "divine noble blood" more than anybody.
+The problem for the Feuldalism extras was, by the time the conclusion was achieved, everyone forgot why the story started. Divinity was inherited by heroes who never fought for it, who followed the divine ruling philosophy and assumed their blood was noble. Who could prove otherwise.
 
-But with no great story to tell, how could the later nobles keep their audience entertained? Their only option was to tell bad stories.
+Trapped inside divinity, the perfumed heirarchy couldn't be the protagonist of the next great story and distribute political power to the extras and let them majically bond with books, guns, and scientific instruments.
 
-Lucky for him, telling the difference between good and bad stories is actually hard. It's not anyones wants to tell boring stories, anymore than anyone wants to sit through a stinker.
+Instead, Starting in the renaissance, they used the ruling philosophy to make the rules to interfere with majic. Gun ownership was not allowed. Books had to be approved. Science was suspect. Left out of the naturally good story, the pompeous nobles tried to entertained their audience with bad stories.
 
-The problem is anything can seem like a legitimate story because everything happens in a sequence of events. However, good stories are specific sequences that are unexpected enough to keep us guessing, (will King Alfred defeat the Vikings?) yet still believable when the unexpected happens (of course he did, he's divine!).
+Lucky for them telling the difference between good and bad stories is actually hard. That friend who tells confusing and endless stories doesn't mean it. Nor does the obnoxious guy who talk about himself and his stuff all night.
 
-Bad stories are either too simple, or too unbelievable, to do either. They aren't about a specific problem, so they keep our interest they distract us with ever more dark majic techniques like effects, celebrities, pretenious culture, and mass-marketing.
+They do for the same reason it's hard to make good stories. Bad stories can seem legitimate because everything happens in a sequence of events. Yet, bad stories are either too simple, or too unbelievable, to make us care about them. To keep our interest they distract us with ever more dark majic techniques like effects, celebrities, pretenious culture, and mass-marketing. Not surpising this started in the 1970's, which John Wayne described thusly:
 
-In movies, you can see this change in Star Wars. The original was a budget film, but it was a good story that rung true with society who themselves made it "divine" in their culture. Fast forward to today, and Star Wars movies aren't good. Like most blockbusters, they're effects filled, mass marketed, stories that don't make people scream, yell, cry, or talk about. Yet they remain celebrated inside festivals, premieres, and award shows and a cohort of fans who watch out of habit.
+  >Now the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it.
 
-Star Wars, and most movies today, takes the people for granted. It stays alives using childhood memories of a good story. As the luster wears off, it reveals how the people also lost their attachment to the nobles. They simply found emotions and memories with heroes who were solving their problems in real life.
+You can see this change from good to bad movies inside Star Wars. The original was a budget film. But it didn't matter. It was a good story that rung true with society who made it "divine" in their culture. Lines like "May the Force be with you", Jedi mind tricks, star destroyers, the opening text crawl, lightsabre duals, everything was believed in because Star Wars was a good story.
 
-yawn. START HERE
+Fast forward to today and Star Wars movies aren't good. Like most blockbusters, they're effects filled, mass marketed, stories that don't make people scream, yell, cry, or rave anymore.
 
-And this leads us back to Darth King and Rousseau. These later kings were descendants of former glory who lived in art and distracted with spectacle. They partied it up inside banquets and balls, while distracting the people with more specular fashion, cathedrals, and palaces. Fittingly, Darth Blockbuster is thus a sequel. We can pin down even more when we breakdown stories even more.
+For simple proof, what's your favorite line or moment from a recent Star Wars movie? Even if you didn't see it 40 years ago, you'd still have an answer because fans didn't shut up about it.
 
-## Reality of Stories
+Yet movies officially remain celebrated inside festivals, premieres, and award shows, all versions of "banquets and balls". Movies today take the people for granted. They stay alive using childhood memories.
 
-Stories are about changing reality. A story is a sequence of events where a protagonist fights an antagonist to overcome a problem.The fight to change/defend reality happens in three parts. The first is an introduction to the problem and characters. The second is the battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
+As the luster wears off for Star Wars, it reveals how the people lost their attachment to the nobles. They simply found emotions and memories with new heroes. Leaders like George Washington and Rousseau who said, "Follow me and we'll improve your life with better tools."
 
+They fought antagonists, and  helped the people majically connect with new tools inside a new ruling philosophy, the way movies used to connect us with new ideas, worlds, and galaxies far far away. If society could see the layers of society, we'll avoid the bad story of revolutions.
 
-Their realiy has layers; a mixture of dialogue, characters, and props. The difference between good and bad stories is properly aligning these layers in their order of importance.
+## The Layers of Reality
 
-The first layer is the most obvious. It's everything we see. I'm talking clothes, ships, food, beds. All items that make up a setting like Renaissance Italy, or modern suburbia. The next layer is the items people are passionate about like guitars to a guitarist, guns to a soldiers, planes to a rebel. The next layer is the rulebook, what people are allowed and not allowed to say; no storm trooper said "May the Force be with you" to Vader. After that comes the antagonist, the person using the rules to keep things the same, like Vader. Next layer is the ruling philosphy, which the antagonist is a believer in, like the Dark Side. Then there's the protagonist, like Luke Skywalker, who sees above the ruling philosophy and wants to change the world. And the last layer is the tool or weapon, like the Death Star plans, the means of power everyone is fighting to control.
+The best way to tell the difference between good and bad stories is to watch it. But who wants to do that for every story, especially when the story is our life. It'll help to dissect stories, and the see how good and bad are made.
+
+First off, here are the layers to every story, good and bad.
+
+1. Spectacle: the most obvious layer. It's everything we see like clothes, ships, food, explosions, nudity, swords, weapons, whether props or special effects.
+2. Passion: the items people are passionate about like guitars to a guitarist or rifles to a sniper.
+3. Rule book: what people are allowed and not allowed to say or write. Expressed as dialogue in a movie, but laws, regulations, books and speech in life.
+4. Antagonist: the person writing the rule book to keep reality the same.
+5. Ruling philosphy: the antagonist's belief system. Like Darth Vader and the Dark Side.
+6. Protagonist: the person who sees above the ruling philosophy and wants to change the world with a new ruling philosophy. Like Luke Skywalker and the Light Side.
+7. Plot: the sequence of reasonable, yet surprising, events between hero and villian. Since whoever controls the tools, wins, the plot is usually centered on a tool like the glass slipper.
 
 Let's see all these layers in a few movies.
 
@@ -531,15 +552,13 @@ Let's see all these layers in a few movies.
 
 ![Star War](\../img\breakdowns\techvolution-star-wars-layers.png)
 
-These are the layers of a good movie. And while no one can master the alchemy of creating stories, no good story that passes the test of time like Cinderella, Star Wars, or The Matrix, breaks this order.
+These are the layers of every story. The difference between good and bad stories is how they follow this order. Good stories emphasize plot, and are about a fight between hero and villian.
 
-Following it is what got Europe's noble familes in power. Breaking it got them out of power. We'll get the full picture once we undertand the functional way a good movie is assembled, and the art and spectacle of bad ones.
+Bad stories are like the boring party guest. They emphasize either spectacle or characters. We'll see this better when we chart how good and bad stories look like.
 
 ## Charting Stories
 
-Here's what the sequence of events looks like.
-
-Here's a legend.
+Here's a legend of stories.
 
 ![Legend](\../img\breakdowns\story-legend.png)
 
@@ -549,26 +568,28 @@ Here's a legend.
 **Antagonist philosophy** -  The bad guy acts out his philosophy.
 **Build up** - Long periods when the protagonists suffers.
 **Realizations** -  When the plot changes and we realize something new.
-**Free will** - The time character's have to act. Small spread is grave danger, big is nothing matters.
+**Free will** - The time character's have to intrepret his philosophy and respond to plot events with dialogue or actions. Small spread is grave danger, big spread is nothing matters.
 **Conclusion** - The final battle.
-**New Society** - The result of the battle.
+**New Society** - The society after battle.
 
 Now, here's what this sequence of events looks like for functional, spectacle, and art movies.
 
 ![Functional Story](\../img\breakdowns\story-functional.png)
-*Functional:* Story parts are well ordered. The story is about an explicit problem. The protagonist wants to change something, and the antagonist doesn't. Both have passion, making them a believable person. As protagonist and antagonist battle, they make a logical yet surprising plot.
+*Functional:* The story is about an explicit problem. The protagonist wants to change something and the antagonist doesn't. The story is introduced and slowly revealed as protagonist and antagonist battle inside a logical yet surprising plot.
 
-Because the story's problem is logical, and thus the character has time to figure them out, also because it's functional the audience cares about the story and its characters. Ex. Cinderella, Shawshank Redemption, Star Wars, Pixar. etc.
+Since the story is logical, the characters has time to figure them out themselves, and the good and bad guys free choices surprise us. The story ends with a conclusion. Ex. Cinderella, Shawshank Redemption, The Matrix, Star Wars, Pixar etc.
 
 ![Art Story](\../img\breakdowns\story-art.png)
-**Art:** Story elements are disordered. The story doesn't have an explicit problem, and thus no tool for protagonist and antagonist to fight over. Thus, art stories emphasize character's selfish passions, and are less stories than personal diaries about loves, hobbies, and interests. Tell us it's more important than we are.
+**Art:** The story doesn't have an explicit problem, and thus no tool for protagonist and antagonist to fight over. Art stories emphasize character's selfish passions and idiosyncracies, and are less stories than personal diaries about not being loved, or having a quarky personality.
 
-Since there is no battle, the plot is illogical. The separation between plot and character is wide because noting is at stake. The conclusion doesn't change reality. Ex. Many Sundance, Cannes, and TIFF films, Wrecked, Snow Angels, etc.
+Without a clear problem, the plot is not tied together with a reason. Without a problem to solve or defend, the characters are free to act as they want, so the audience is constantly surprised. The ending doesn change reality because reality wasn't in question. Art stories surround themselves with claims of being cultured to distract from their inability to logically surprise their audiences. Ex. Many Sundance, Cannes, and TIFF films, Wrecked, Snow Angels, etc.
 
 ![Spectacle Story](\../img\breakdowns\story-spectacle.png)
-**Spectacle:** Story elements are disordered. The story is about an obvious problem like the world is ending. Because the problem is so simple, neither the protagonist or antagonist has much room for individual character. Distract us with effects.
+**Spectacle:** The story is about an obvious problem; the world is ending, Godzilla is coming. Run! Because the problem is so simple, character responses are instinctual.
 
-Spectacle stories emphasize items and effects. Spectacle is like learning a new toy. It's about having fun with no purpose in mind. Ex. Transformers 1-8, Star Wars 1-3 / 7-9, most sequels and remakes.
+The plot is thus always logical, run!, but this leaves out the freedom for characters to respond as they want, meaning the audience can't be surprised.
+
+To maintain interest, spectacle stories emphasize special effects, gore, and rauchness. Ex. Transformers 1-8, Star Wars 1-3 / 7-9, most sequels and remakes.
 
 **Conclusion:** Art stories don't have a real beginning. Since they aren't about a specific problem they could start at any moment. Spectacle stories have a beginning but are about fighting for survival and not fighting for a new reality. Only functional stories have real beginnings. Because functional stories have a protagonist fighting to replace a reality with their own.
 
@@ -602,7 +623,7 @@ Specatacle and funtion works like this. Spectacle is how tools are first made. B
 
 After toying around, we learn what the tool is capable of, and start applying it to real world problems. Here a new tool enters the functional stage. Where protagonists question society, and continually break the rules to push society forward. As each new tools is created, the spectacle then function phase is naturally repeated. With every protagonist returning to equality when their contribution is over.
 
-Unless distribution is held back by Darth Blockbuster. When it is, like it was by Darth King, society enters art and spectacle. Like in storytelling, art and spectacle stories are unnatural stories that have to amplify their art and spectacle to distract from their non-function. As a result, the people watching either share in the psychosis, and require an every increasing rulebook to keep everyone else in line.
+Unless distribution is held back by Darth Blockbuster. When it is, like it was by Darth King, society enters art and spectacle. Like in storytelling, art and spectacle stories are unnatural stories that have to amplify their art and spectacle to distract from their non-function. As a result, the people watching either share in the psychosis, and require an every increasing rule book to keep everyone else in line.
 
 ![After the story ends](\../img\breakdowns\techvolution-story-types-applied.png)
 
@@ -844,7 +865,7 @@ So I fight the Sith lord. We jump up and down. Slice left and right. Slash, kick
 
 I mentioned this several times but never pointed it out. This battle between protagonists and antagonists is ages old. It was fought when we invented swords, bows and arrows, the printing press, muskets, telescopes, rifles, microscopes, anti-virals, the internet. Like clockwork, whenever we create a new tool, the Sith fight to retain power, the Jedi fight to distribute it. When the former wins, the people's cyborgology stays the same. If the latter wins, the people upgrade their powers to solve frontline problems better.
 
-Galileo, John Locke, Oliver Cromwell, Jean-Jacques Rousseau, George Washington, Frederick Douglas and so many other great people and armies have fought for the Sith. Yet the Sith keep coming back. It's so easy for them to take over society's rulebook.
+Galileo, John Locke, Oliver Cromwell, Jean-Jacques Rousseau, George Washington, Frederick Douglas and so many other great people and armies have fought for the Sith. Yet the Sith keep coming back. It's so easy for them to take over society's rule book.
 
 The Sith's frequent victories mean the line between old and imagined new societies gets wide. These wider lines represent increasingly different realities. Officially, we follow the Sith's rules out of fear of his Death Star. Yet evolution stops for no one. Thus, humanity still dreams and works towards distributing the power of new tools. Old and new society's co-exist, but live ever wide apart.
 
@@ -867,3 +888,4 @@ And only the extras can build it. Only the majic of many extras can defend again
 So I lift my sword, and smile. I smile at eternal rest. Because the Jedi will no longer face down the Sith. It's the extras job now. So I raise my sword, and Darth Blockbuster strikes me down. You know the lesson. The person who holds the tools wins. The civilization that makes the Life Star will win forever.
 
 * if evolution doesn't have Darth Blockbuster, then why should Techvolution?
+* up to Darth Blockbuster, we'd all be paying for long distance, writing directions on napkins, waving down cabs, paying for late charges...
