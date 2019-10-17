@@ -799,3 +799,24 @@ Likewise, old tools use these same techniques to distract from their dysfunction
 
 Thus, later kings were like a boring party guest. They told stories about their divinity and used dark majic techniques to distract from the fact that the people increasingly heard as bad stories. And that's the difference between the kings we loved, to the ones we hated. We'll see it better when we peel away the layers of stories.
 
+## storytelling and majic
+
+Trapped inside divinity, the nobles missed the opportunity to be the protagonists of the next great story in humanity. Starting in the Renaissance amazing new tools like mass printed books, guns, and scientific instruments, were ready and waiting to upgrade the people's cyborology. Society had millions of people like Frederick Douglas, waiting to learn the learn the majic of new tools. The nobles could have been the heroes of our history, and proactively changed society.
+
+Instead, they used the ruling philosophy to make rules to block majic, and became our history's villians. Gun ownership was not allowed. Books had to be approved. Science was suspect. Left out of the naturally good story, the pompeous nobles tried to entertain their audience of extras with bad stories.
+
+While the original nobles lived a functional story, the perfumed ones didn't. Starting in the renassaince they made spectacle for the masses with brilliant cathedrals and stuff, while increasingly living artful lives unbound from having to solve any problems. The majic of new tools was thus hidden from the people.
+
+You can see this change from good to bad movies inside Star Wars. The original was a budget film. But it didn't matter. It was a good story that rung true with society who made it "divine" in their culture. Lines like "May the Force be with you", Jedi mind tricks, star destroyers, the opening text crawl, lightsabre duals, everything was believed in because Star Wars was a good story.
+
+Fast forward to today and Star Wars movies aren't good. Like most blockbusters, they're effects filled, mass marketed, stories that don't make people scream, yell, cry, or rave anymore.
+
+For simple proof, what's your favorite line or moment from a recent Star Wars movie? Even if you didn't see it 40 years ago, you'd still have an answer because fans didn't shut up about it.
+
+Yet movies officially remain celebrated inside festivals, premieres, and award shows, all versions of "banquets and balls". Movies today take the people for granted. They stay alive using childhood memories.
+
+As the luster wears off for Star Wars, it reveals how the people lost their attachment to the nobles. They simply found emotions and memories with new heroes. Leaders like George Washington and Rousseau who said, "Follow me and we'll improve your life with better tools."
+
+And this same change also happened in movies. Today's sequels, remakes, are spectacle movies, and the award shows, performance work is art film. Both keep our interest t with dark majic techniques like effects, celebrities, awards, and mass-marketing. Not surpising this started in the 1970's, which John Wayne described thusly:
+
+>Now the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it.

@@ -5,6 +5,7 @@ Have to integrate the next several chapters into a Life Star sequence, and use t
 
 - There's something about Life Star, and Sun, and knowledge, telling us the age/rules. The Sun tell us our age in revolutions, but Life Star tells us our scientific age.
 - Notably, once Techvolution frees people to choose their own tools, it's the majic of millions of people, that builds our Life Star.
+- Life Star is technological representation of nature. Like an ecosystem, it enforces accountability and reciprocation between lifeforms and thereby the Techvolution of life.
 
 ==
 
