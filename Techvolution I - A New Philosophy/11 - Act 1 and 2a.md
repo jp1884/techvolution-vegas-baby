@@ -24,7 +24,7 @@ To the extras. When it's time for you to act, I pray you pick the right side.
 
 It all started with a door in the face. I few more actually. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product upper management were never going to buy.
 
-Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I spent years doing the frontline job it worked for.
+Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I spent years in a cubicle processing insurance claims for the frontline job it worked for.
 
 I figured out how to solve a problem—and save 100 million dollars, 300,000 hours of productivity, and even several lives—with an app that was virtually free. All I wanted was to give it away. After years of working on political and economic theory, I’ve written (another) book about the untapped possibilities of new tech like apps, bio-monitors, and bitcoin. I wanted real-world proof, and maybe get some real-world credentials, to help validate my ideas.
 
@@ -48,7 +48,7 @@ Will our hero reach it first, or will the enemy? We in the audience, like extras
 
 ## A New Empowering Philosophy Called Techvolution
 
-The rules. We think they control us. They don’t. And I’ll show you why.
+The rules. We think they control us. They don’t. I'll show you why.
 
 Talk to any political junkie, no matter when, and they’ll say there’s a big election coming up. They’ll say something like “if the red team wins this one, then education, healthcare, infrastructure, and everything else will go to shit.” What he means is elections decide the rule makers, and that blue rules are good while red rules are evil.
 
@@ -58,11 +58,11 @@ Let me ask you, if you’re a regular middle-class person, and you ignored the e
 
 I mean today, when team blue wins, does traffic suddenly disappear? When team red wins, does everyone suddenly eat healthy? Do you breathe fresher air, or see healthier neighbors, i.e. do your real-life problems get solved, when one color’s philosophy writes the rules?
 
-If you think yes, if you think the red vs blue story is an edge of your seat thriller deciding the future of our society, you can stop reading. There’s lots of blogs, shows, and books waiting to sing to their choir, telling you to fight the enemy until you’re blue in the face.
+If you think regulations, laws, and marches change the world; if you think the red vs blue storyline decides the future of our society, you can stop reading. There’s lots of blogs, shows, and books waiting to sing to their choir, telling you to fight the enemy until you’re blue in the face.
 
 If you don’t like the choir, or you’re starting to realize the "other side" is part of the same struggling middle class, you’d probably like to keep reading. I wrote this book for you.
 
-Whichever color wins an election today and re-writes the rules, regular people will still pay taxes, have a mortage, waste hours in traffic, pay increasing energy bills, under sleep, buy unhealthy food, watch climate change, overpay for questionable education, get pushed around by their health insurance, endure customer abuse, work unpaid overtime, still get micro-managed, and hope their job (which they likely hate) isn’t downsized or outsourced.
+Whichever color wins an election today and re-writes the regulations, laws, and rules, regular people will still pay taxes, have a mortage, waste hours in traffic, pay increasing energy bills, under sleep, buy unhealthy food, watch climate change, overpay for questionable education, get pushed around by their health insurance, endure customer abuse, work unpaid overtime, still get micro-managed, and hope their job (which they likely hate) isn’t downsized or outsourced.
 
 Under blue or red rules, the struggling middle class lifestyle stays the same, because the tools in which we live our lives, like suburban homes, gas cars, call centres, centralized power stations, paper based tax forms, mass produced unhealthy food, occasional doctor check ups, television for entertainment, an insatible education industry, and everything else in suburban America and Canada, stays the same.
 
@@ -182,9 +182,9 @@ We call it genius when someone uses existing technology to make a new tool. Happ
 
 So what trick does nature play on the extras to use new tools and risk Darth Blockbuster's wrath. The answer is a trick inside our souls.
 
-Unlike evolution, the trick is not magic, because extras understand they're dropping one tool and attaching another; like swapping out the DVD player for Netlix. Yet, there's still something wonderfully mystical about choosing to leave ones's comfort zone and learning a new cyborgolgy. It's like a desert fox putting on a swimsuit, flippers, and goggles before diving into the ocean yelling "I can do this!".
+Unlike evolution, the trick is not magic, because extras understand they're dropping one tool and attaching another; like swapping out the DVD player for Netlix. Yet, there's still something wonderfully mystical about choosing to leave ones's comfort zone and learning a new cyborgolgy. It's like a desert fox putting on a swimsuit, attaching flippers, and slipping on swimming goggles and then diving into the ocean yelling "I can do this!".
 
-Changing our tools is so wonderfully brave, mysterious, and difficult, I call it majic. Pronounced like magic, but different so we know it's the free choice of a regular person to upgrade to a new tool and continue humanity's evolution.
+Changing our tools is so wonderfully brave, mysterious, and difficult, I call it majic. Pronounced like magic, but different so we know it's the free choice of a regular person to upgrade to a new tool and continue humanity's evolution. Majic is real life magic.
 
 Think of majic like a bonding agent. Carbon atoms are sticky and thereby bond other atoms to form the Universe's many molecules. Genius in the protagonists minds bonds existing ideas into original ones. Good storytelling bonds audiences with different worlds and characters. And majic bonds extras with new tools.
 
@@ -382,7 +382,7 @@ Today the extras are not self-aware of their power to decide the winner. I’ll 
 
 ## Extras Killed Wikipedia's Evil Twin
 
-The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, people always have questions. Like who was Nikola Tesla or why are Tesla cars so safe. Constant questions are a problem and we need a tool to solve it. True to ourselves, we make a reference tool with the technology available and upgrade it when possible.
+The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, people always have questions. Why are movies so expensive, or more importantly how do magnets and cooper wire make batteries. Constant questions are a problem and we need a tool to solve it. True to ourselves, we make a reference tool with the technology available and upgrade it when possible.
 
 Our first reference tool was the wisdom of our elders. The first technological upgrades were papyrus scrolls and ink (500 BC) and books (500), which turned some elders into experts like Hippocrates and Aristotle. When wood-pulp paper (1200) and the printing press (1456) were invented, humanity unleashed mass-produced books. Now experts could share knowledge between themselves and educate the masses. We called the reference books encyclopedias.
 
@@ -390,13 +390,13 @@ People loved encyclopedias. They answered many questions. The _Encyclopedia Brit
 
 Then came the world wide web (1991), a new technology that unlocked many new tools like websites, forums, blogs, and something called “wikis”. Wiki software lets anyone write or edit a webpage by pressing “edit now”. All changes are saved, so anyone can erase errors or vandalism by pressing “undo now”. For years programmers used wikis to collaboratively write technical manuals.
 
-As web tools boomed in the late ’90’s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us who were curious about things like Tesla's know our quest ends with a free online encyclopedia anyone can edit called Wikipedia. But it didn’t start out that way.
+As web tools boomed in the late ’90’s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us who were curious about things like electromagnetism know our quest ends with a free online encyclopedia anyone can edit called Wikipedia. But it didn’t start out that way.
 
 Wikipedia started as Nupedia (2000). Nupedia was a free online copycat of Encyclopedia Britannica where only “expert” professors made articles. Wikipedia (2001) was a side project. Only programmers knew “community content creation” would work.
 
 Everyone else assumed regular people would only read the work of professors. The first issue with this theory was that the professors didn’t like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000, which most professors loved to belittle as rubbish. Professors even disallowed students from referencing Wikipedia's articles in their papers. Yet professors refused to improve, or to assign students to improve, Wikipedia.
 
-The second issue was that it turned out “expert” answers and “regular” answers are the same. Among other reasons, Tesla's are so safe because with the engine and battery at the bottom. This makes them hard to flip, and leaves lots of room for impact absorting frames.
+The second issue was that it turned out “expert” answers and “regular” answers are the same. Batteries and cooper wire arranged properly manipulate the electromagnetic field and force eletronns to move, making electricity from anything that spins. Be it a gas turbine, or fan inside a small creek in Cameroon.
 
 Thirdly, Wikipedia was so easy to use many extras became protagonists! A huge community of non-academics voluntarily shared their knowledge one “edit now” at a time and fiercely protected their common knowledge with “undo now”. Nobody told them, paid them, or made a rule to force it. Because performing majic was again its own reward.
 
@@ -490,53 +490,49 @@ We need to learn from this grave mistake. I can explain how by explaining the di
 
 Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, cry, laugh, yell, it's a good story. Even more telling was listening to moviegoers walk out. If they marvelled about twists, turns, and cool lines, you know the story was really good because it turned fiction into reality.
 
-The audience is never wrong. They can't be. No one chooses to laugh, love a twist, or remember a line. If they could, they wouldn't need stories. It's the storytellers job to give its audience these emotions and memories.
+The audience is never wrong. They can't be. Laughing, being surprised, remembering cool lines is not audience's job. They're the audience, they wait for good stories. It's the storytellers job to give its audience emotions and memories.
 
-That's what the original nobles did. They told a good story. Europe was in anarchy. Evildoers raided on the regular. Lawlessness was the norm. Tools like irrigation, libraries, and money didn't exist. The people were extras watching antagonists have their way.
+That's what the original nobles did. They told a good story. Europe was in anarchy. Evildoers raided on the regular. Lawlessness was the norm. Tools like irrigation, libraries, and money were damaged, stolen, or didn't even exist. The people were extras watching antagonists have their way.
 
 Kings said follow me! My heirarchy will keep you safe and give you tools to improve your life.
 
-Slowly but surely, they did. The people were an audience who watched fiction become reality; believing in divinty was the logical reaction, like laughter is to comedy.
+Slowly but surely, they did. The people were an audience who watched fiction become reality; believing in divinty was the logical reaction, like laughter is to comedy. However, the story took generations to finish. By the Middle Ages nobody could remember why it started.
 
-Until Rousseau the people kept watching the sequels of divine nobility. They were too distracted by the hype and self-gratulations to notice the nobles bad storytelling.
+Although increasingly unhappy, the people kept watching the sequels of divine nobility until Rousseau told reminded them everyone starts off equally, thus perpetual heirarchy is bullshit. Until him, the people were too distracted by the spectacle and art of nobles bad storytelling.
 
-We can sympathize. Become a projectionist and you'll notice most movies today are bad. That's not an opinion, audiences simply don't laugh, cry, and rave much anymore. Yet we still celebrate movie actors as artists, watch them win awards they give themselves, and pay them millions for their celebrity. Yet, all they do is pretend. It's not that hard. Let them try working insurance.
+We can sympathize. Become a projectionist and you'll notice most movies today are bad. That's not an opinion, audiences simply don't laugh, cry, and rave much anymore. Yet we still celebrate movie actors as hallowed artists, watch them win awards they give themselves, and pay them millions for their celebrity. Yet, all they do is pretend. It's not that hard. Let them try working insurance.
 
-Explaining why people like bad stories tells us why the nobles lost their audience and stopped being society's heroes.
+It's not always their fault. Actors are expected to be award attendees, spokesman, marketers to serve the dark majic of others. Explaining why people like bad stories tells us why the nobles lost their audience and stopped being society's heroes.
 
 ## The Difference Between Good and Bad
 
-A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. They fight to change reality happens in three parts. The first is an introduction of problem and characters. The second is the back and forth battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
+A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change reality happens in three parts. The first is an introduction of problem and characters. The second is the back and forth battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
 
-Stories are thus simply the essential progression of incidents that happen to the hero in pursuit of his one goal. Action scenes, or character performances, are merely spices, only to be added in moderation. To have any impact, stories must tell a logical sequence of events.
+Stories are thus simply the essential progression of incidents that happen to the hero in pursuit of his one goal. Action scenes, or character performances, are merely spices, only to be added in moderation.
 
-That is surprising, otherwise the audience will fall asleep. We get surprises during the back and forth between hero and villian which reveals the character of each, and thereby changes the conflict. Mixing logic and surprises is how stories become "reasonably uncertain" and thus fun to watch.
+But stories aren't simply logical problem solving. The antagonist fights back. The fight reveals the character of each as being extremely vengeful, very resourseful, or surprising conniving, which in turn changes the conflict. So goes the cycle; like two boxers adjusting to each other's tactics. Mixing the logic of problem solving, with the surprises of conflict, is how stories become "reasonably uncertain", and thus fun to watch.
 
 The kind of story doesn't matter. Comedies, dramas, tragedies. As long as the sequence of events is logically surprising, an audience will believe in aliens and space operas, machines and virtual realities, or kings and kingdoms.
 
-The problem for the story of Feuldalism was, by the time its problem was solved, everyone forgot why the story started. Divinity was simply inherited by people who assumed—like everyone else—their blood was better. Who could prove otherwise.
+The problem for the story of Feuldalism was, by the time its problem was solved, everyone forgot why the story started. Divinity was simply inherited by people who assumed—like everyone else—their blood was better. Whose story was better then divinity?
 
-Lucky for them telling the difference between good and bad stories is actually hard. It's not like anyone wants to tell boring or obnoxious stories. They do because bad stories can seem legitimate because everything happens in a sequence of events.
+Lucky for them telling the difference between good and bad stories is actually hard. It's not like anyone wants to tell unbelievable, boring, or obnoxious stories. They do because bad stories can seem legitimate because everything happens in a sequence of events.
 
-Bad stories are either too resonable or too uncertain. We experience the two as spectacle movies or art films. Spectacle movies have too much logical problem solving. They've very simple because the problem is very simple; ie. Godzilla is attacking, to which every person responds the same; by running like hell. There's no room for characters to reveal themselves and change the story. The result is logical, but never uncertain, story.
+Bad stories are either too resonable or too uncertain, a fault hidden by either over spicing with action scenes or character performances. Per writer David Mamet, without logical surprises, these spectacle and art stories have "to take up the slack by making each subsequent event more diverting than the last; to trick the audience into paying attention." After not too long, the "The end of this is obscenity...over the course of a culture, it forces the culture to degenerate into depravity."
 
-Art films do the opposite. They're not about any specific problem. Nominally they're about a boy who can't get date, or a self-described freak whose lonely, but without the gutso to change, these main characters are not protagonists. Freed from having to solve a problem, art film characters act however they want. This makes art story's highly uncertain, but also gives them little logic to tie the events together.
-
-Per writer David Mamet, without logical surprises, spectacle and art stories have "to take up the slack by making each subsequent event more diverting than the last; to trick the audience into paying attention." After not too long, the "The end of this is obscenity...over the course of a culture, it forces the culture to degenerate into depravity."
-
-Bad stories is how the divine nobles surived for so long. The people were distracted until the depravity of banquets and balls made them demand protagonists who returned to actually solving real-life problems on the frontline. To save ourselves that lesson, let's look deeper into stories.
+Bad stories is how the divine nobles surived for so long. The people were distracted until the depravity of banquets and balls made them demand protagonists who actually solved real-life problems on the frontline. To save ourselves that lesson, let's look deeper into stories.
 
 ## The Layers of Reality
 
-Functional, spectacle, and art stories all share the same layers. They just emphasize some over others. Here they are, in their order of importance.
+All stories share the same layers. They just emphasize some over others. Here they are, in their order of importance.
 
-1. Plot: the sequence of reasonable, yet surprising, events between hero and villian. Since whoever controls the tools, wins, the plot is usually centered on a tool like the glass slipper in Cinderella, or the One Ring in Lord of the Rings.
-2. Protagonist: the person who sees above the ruling philosophy and wants to change the world with a new ruling philosophy. Like Luke Skywalker and the Light Side.
-3. Ruling philosphy: the antagonist's belief system. Like Darth Vader and the Dark Side.
-4. Antagonist: the person writing the rule book to keep reality the same.
-5. Rule book: what people are allowed and not allowed to say or write. Expressed as dialogue in a movie, but laws, regulations, books and speech in life.
-6. Passion: the items people are passionate about like guitars to a guitarist or rifles to a sniper.
-7. Spectacle: the most obvious layer. It's everything we see like clothes, ships, food, explosions, nudity, swords, weapons, whether props or special effects.
+1. Plot: the sequence of reasonable, yet surprising, events between hero and villian. Since whoever controls the tools wins, the plot is usually centered on a tool like the glass slipper in Cinderella, or the One Ring in Lord of the Rings.
+2. Protagonist: the person who sees above the ruling philosophy and wants to change the world with a new ruling philosophy. Like Romeo and Juliette bring their families to peace.
+3. Ruling philosphy: the antagonist's belief system. The hatred between Capulet's and Montegue's.
+4. Antagonist: the person writing the rule book to keep reality the same. Cinderella's step family.
+5. Rule book: what people are "officially" allowed to say. Expressed as dialogue in a movie, "Juliette, stay away from Romeo!"; "I love him and I don't care what you say!", but written into laws, regulations, and books in life.
+6. Passion: the items people are passionate about, like guitars to a guitarist, or flowers to a romantic.
+7. Spectacle: the most visible layer. It's everything we see like clothes, ships, food, explosions, nudity, swords, weapons. Whether props or special effects, these make up the story's typical lifestyle.
 
 Let's see all these layers in a few movies.
 
@@ -544,62 +540,76 @@ Let's see all these layers in a few movies.
 
 ![Star War](\../img\breakdowns\techvolution-star-wars-layers.png)
 
-These are the layers of every story. The difference between good and bad stories is how they follow this order. Good stories emphasize plot, and are about a fight between hero and villian.
+From top to bottom these are the layers of every story. The difference between good and bad stories is how they follow this order. Good stories use them to tell the logical surprises in the fight between hero and villian.
 
-Bad stories are like the boring party guest. They emphasize either spectacle or characters. We'll see this better when we chart how good and bad stories look like.
+Bad stories can't, so they compensate by over spicing. Spectacle stories with the botton later of special effects and such,art films over emphasize protagonists and belittle plots. We'll see this better when we chart how good and bad stories look like.
 
 ## Charting Stories
 
-Here's a legend of stories.
+Here's a legend for the story charts.
 
 ![Legend](\../img\breakdowns\story-legend.png)
 
-**Old Society** - The society before the story starts.
-**Beginning** - When the protagonist breaks from society.
-**Protagonist philosophy** - The good guy acts out his philosophy.
-**Antagonist philosophy** -  The bad guy acts out his philosophy.
-**Build up** - Long periods when the protagonists suffers.
-**Realizations** -  When the plot changes and we realize something new.
-**Free will** - The time character's have to intrepret his philosophy and respond to plot events with dialogue or actions. Small spread is grave danger, big spread is nothing matters.
-**Conclusion** - The final battle.
-**New Society** - The society after battle.
+**Story Organization**
+_Old Society_ - The society before the story starts.
+_Beginning_ - When the protagonist breaks from society.
+_Conclusion_ - The final battle.
+_New Society_ - The society after battle.
+
+**Surprises**
+_Protagonist philosophy_ - Where the good guy gets his ideas. Where surprising choices come from.
+_Antagonist philosophy_ -  Where the bad guy gets his ideas. Where surprising choices come from.
+_Free will_ - The time character's have to intrepret his philosophy and do something to win. Small spread is grave danger, big spread is nothing matters, moderate spread is time to think, and a requirement to act.
+
+**Logic/plot**
+_The plot_ - The sequence of events. More area means more "logical surprises" are available.
+_Build up_ - Long periods when the protagonists suffers, or makes a plan.
+_Twist and Turn_ -  When the plot suddenly surprises us and we realize something new.
 
 Now, here's what this sequence of events looks like for functional, spectacle, and art movies.
 
-![Functional Story](\../img\breakdowns\story-functional.png)
-*Functional:* The story is about an explicit problem. The protagonist wants to change something and the antagonist doesn't. The story is introduced and slowly revealed as protagonist and antagonist battle inside a logical yet surprising plot.
-
-Since the story is logical, the characters has time to figure them out themselves, and the good and bad guys free choices surprise us. The story ends with a conclusion. Ex. Cinderella, Shawshank Redemption, The Matrix, Star Wars, Pixar etc.
-
 ![Art Story](\../img\breakdowns\story-art.png)
-**Art:** The story doesn't have an explicit problem, and thus no tool for protagonist and antagonist to fight over. Art stories emphasize character's selfish passions and idiosyncracies, and are less stories than personal diaries about not being loved, or having a quarky personality.
+*Art:* not about any specific problem. Art films are about the protagonist, not what problem they overcame or antagonist they defeated. This makes them more personal journals of "a weirdo growing up " or "suffering through high school". Free from overcoming a problem, and revealing new sides to themselves, art heroes act as they want. The result is very surprising idiosyncractic behavior, and storylines with little logic to tie them together. The result is surprising, but illogical, stories.
 
-Without a clear problem, the plot is not tied together with a reason. Without a problem to solve or defend, the characters are free to act as they want, so the audience is constantly surprised. The ending doesn change reality because reality wasn't in question. Art stories surround themselves with claims of being cultured to distract from their inability to logically surprise their audiences. Ex. Many Sundance, Cannes, and TIFF films, Wrecked, Snow Angels, etc.
+To maintain interest art stories get weirder and weirder. To fend off critcism, they surround themselves with ever more awards, granduer, and claims of being cultured, or fighting for a social justice cause. Ex. Many Sundance, Cannes, and TIFF films.
 
 ![Spectacle Story](\../img\breakdowns\story-spectacle.png)
-**Spectacle:** The story is about an obvious problem; the world is ending, Godzilla is coming. Run! Because the problem is so simple, character responses are instinctual.
+*Spectacle:* about a obvious problem. Spectacle movies are very logical because the problem is very simple; ie. Godzilla is here, so run like hell! And keep running until the movie is over. Since the antagonist is so evil, and the action is so instrictual, there's no room for the protagoinst to reveal new sides of himself and change the story. The result is logical, but never suprising, stories.
 
-The plot is thus always logical, run!, but this leaves out the freedom for characters to respond as they want, meaning the audience can't be surprised.
+To maintain interest, spectacle movies keep ramping up special effects, gore, and rauchiness. They and fend off critcism by (falsely) claiming each ramp-up is more popular in mass marketing campaigns. Ex. Most franchise movies, sequels, and remakes.
 
-To maintain interest, spectacle stories emphasize special effects, gore, and rauchness. Ex. Transformers 1-8, Star Wars 1-3 / 7-9, most sequels and remakes.
+![Functional Story](\../img\breakdowns\story-functional.png)
+*Functional:* about a questional problem that divides a rational protagonist and antagonist. They want to defeat the other, but have time to figure out their next steps. The back and forth storyline give the audience logical surprises, until the conclusion, were we find out if reality will change or not.
+
+There's no way to know which functional stories will reasonate with audiences, but only functional stories can truly reasonate with audiences and become classics. Ex. Cinderella, Romeo and Juliette, The Matrix, Star Wars.
 
 ## After the Story Ends
 
-And this is the important part. Since functional stories have beginning and endings, all story elements, passions, rules, characters, and philosphies become equal. Because the plot that bound them is over, and thus each waits for a new story to give them life and purpose, and give anyone the chance to be the new hero.
+Art has too many surprises and spectacle too much logic. Functional mixes the two and make good stories. That's why the art/spectacle can't have "spoilers", while we want to "go in fresh" for functional stories.
 
-For example, in _Star Wars_ Once the Death Star is blown up, Light Side defeated the Dark side. Thus, Luke is no longer the protagonist, Vader isn't the antagonist, rules don't to be about destroying/saving the Death Star, passions can follow something else. The hierarchy becomes a circle in a time of equality.
+The conclusion easily tells them apart. Does the world change, are the people different, can they "never go back", can you? Imagine Romeo listening to his family, or Juliette suddenly falling in love with another guy. Both are possible in art/spectacle movies, but not in functional because it's about two loved obessed people overcoming antagonists to create new love.
 
-Since spectacle and art stories don't question and change reality, they can't have conclusions. So to keep interest they have to grow indefinitely. This is why art films get weirder and weirder, and spectacle films get more effects, more porn, more depravity; all tricks in what writer David Mamet says "has to take up the slack by making each subsequent event more diverting than the last; to trick the audience into paying attention."
+The conclusion is so important for two reasons. One, it tells us what was at stake, true love in _Romeo and Juliette_, the galaxy's freedom in _Star Wars_. But more important, it tells us the story is over, and everyone and everthing can return to being equal.
 
-The human mind wants to make sense of every series of events it sees. When the story is about something real, we will follow along because we're getting emotions, and realizations out of it.
+Since functional stories have a beginning they form special hierarchy's to overcome the problem. Regular people become heroes, rally support, and fight to defeat the antagonist and change the world, often by controlling a pivotal tool.
 
-When the story is bad, it's either trying to distract us with spectacle, or tell us a personal diary that says it's more important then we are.
+Since functional stories have problems, they also endings. That means the hierarchy, has a set time where they all become equal again. When the next story comes, anyone can be the hero.
 
-This same thing happens in human societys. When society's story is logical, people inside will function without too many rules. When however society is non-functioning, spectacle is used to distract the people, and artificial rules are used to keep them in line. ALl the while the rule makers indulge themselves in art. Be it at banquets and balls, or film premieres and film festivals. Until people inside reality realize the divine nobles bankrupted their entire society.
+For example, in _Star Wars_ once the Death Star is blown up, the story is done. Light Side defeated the Dark side. Luke is no longer the protagonist, Vader isn't the antagonist, the rules have been rewritten, passions can follow something else. The hierarchy becomes a circle in a time of equality.
+
+Art, spectacle, and functional stories happen in the human story too. Like a movie audience we're only distracted for so long, eventually we realize every hierarchy falls, and we all return to being equal.
 
 ![After the story ends](\../img/stories/distribution-star_wars.png)
 
 ### Applying All This Stuff
+
+ - spectacle and art have their purposes, or at least, benefits. spectacle happens, and maybe art is enlightening
+ - love story with art, spectacle, and function
+ -  Functional stories question, and can change reality, in fiction and 
+
+This same thing happens in human societys. When society's story is logical, people inside will function without too many rules. When however society is non-functioning, spectacle is used to distract the people, and artificial rules are used to keep them in line. ALl the while the rule makers indulge themselves in art. Be it at banquets and balls, or film premieres and film festivals. Until people inside reality realize the divine nobles bankrupted their entire society.
+
+Function is true love. While spectacle is gifts, and art never even asking....
 
 Now, here's how we apply this Techvolution. Remember we need to empower extras, who are supposed to simply watch the story, jump up and decide winners. From their perspective there isn't one story going on, but two people claiming to be society's protagonists.
 
