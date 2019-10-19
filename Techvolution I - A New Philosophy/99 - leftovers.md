@@ -820,3 +820,64 @@ As the luster wears off for Star Wars, it reveals how the people lost their atta
 And this same change also happened in movies. Today's sequels, remakes, are spectacle movies, and the award shows, performance work is art film. Both keep our interest t with dark majic techniques like effects, celebrities, awards, and mass-marketing. Not surpising this started in the 1970's, which John Wayne described thusly:
 
 >Now the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it.
+
+## Estates General
+
+By 1778, France was in so much in debt, Louis XVI called the "Estate General". A ancient meeting of the "people of the realm". Finally the people cried our voices and pain will be heard. There were three castes. The nobility (400 representatives, 1% of population), the clergy (300 representatives, 1% of population, and the people (800 representatives, 98% of the population).
+
+At question was money. The French government had none. The nobles wanted to raise taxes. The people said what if the nobles and clergy stopped being tax exempt. That's right the rich and powerful didn't pay taxes. The nobles, and (richer) clergy, said why don't we vote on it.
+
+The people said okay, we have more representives, us plus the many priests who lived on the frontline who supported them. The nobles and clergy said
+
+## Charting Storiesss
+
+Here's a legend for the story charts.
+
+![Legend](\../img\breakdowns\story-legend.png)
+
+**Story Organization**
+_Old Society_ - The society before the story starts.
+_Beginning_ - When the protagonist breaks from society.
+_Conclusion_ - The final battle.
+_New Society_ - The society after battle.
+
+**Surprises**
+_Protagonist philosophy_ - Where the good guy gets his ideas. Where surprising choices come from.
+_Antagonist philosophy_ -  Where the bad guy gets his ideas. Where surprising choices come from.
+_Free will_ - The time character's have to intrepret his philosophy and do something to win. Small spread is grave danger, big spread is nothing matters, moderate spread is time to think, and a requirement to act.
+
+**Logic/plot**
+_The plot_ - The sequence of events. More area means more "logical surprises" are available.
+_Build up_ - Long periods when the protagonists suffers, or makes a plan.
+_Twist and Turn_ -  When the plot suddenly surprises us and we realize something new.
+
+
+![Spectacle Story](\../img\breakdowns\story-spectacle.png)
+![Functional Story](\../img\breakdowns\story-functional.png)
+
+All stories share the same layers. They just emphasize some over others. Here they are, in their order of importance.
+
+1. Plot: the sequence of reasonable, yet surprising, events between hero and villian. Since whoever controls the tools wins, the plot is usually centered on a tool like the glass slipper in Cinderella, or the One Ring in Lord of the Rings.
+2. Protagonist: the person who sees above the ruling philosophy and wants to change the world with a new ruling philosophy. Like Romeo and Juliette bring their families to peace.
+3. Ruling philosphy: the antagonist's belief system. The hatred between Capulet's and Montegue's.
+4. Antagonist: the person writing the rule book to keep reality the same. Cinderella's step family.
+5. Rule book: what people are "officially" allowed to say. Expressed as dialogue in a movie, "Juliette, stay away from Romeo!"; "I love him and I don't care what you say!", but written into laws, regulations, and books in life.
+6. Passion: the items people are passionate about, like guitars to a guitarist, or flowers to a romantic.
+7. Spectacle: the most visible layer. It's everything we see like clothes, ships, food, explosions, nudity, swords, weapons. Whether props or special effects, these make up the story's typical lifestyle.
+
+Let's see all these layers in a few movies.
+
+## Battle Inside Stories
+
+Let's take a break from Star Wars comparisons for a short while and use another geek story. The Matrix. This story depicts a dystopian future in which most of humanity is unknowingly trapped inside a simulated reality, the Matrix, created by AI machines to distract humans while using their bodies as an energy source. Ne" is recruited to help the few untapped humans rebel against the machines by making the masses inside the Matrix realize their reality is fake.
+
+
+If you were to look at a good story, here's what you'd see.
+
+![The Matrix](\../img\breakdowns\techvolution-the-matrix-layers.png)
+
+Although increasingly unhappy, the people kept watching the sequels of divine nobility until Rousseau told reminded them everyone starts off equally, thus perpetual heirarchy is bullshit. Until him, the people were too distracted by the spectacle and art of nobles' bad storytelling.
+
+We can sympathize. Become a projectionist and you'll notice most movies today are bad. That's not an opinion, audiences simply don't laugh, cry, and rave much anymore. Yet we still celebrate movie actors as hallowed artists, watch them win awards they give themselves, and pay them millions for their celebrity. Yet, all they do is pretend. It's not that hard. Let them try working insurance.
+
+It's not always their fault. Actors are expected to be award attendees, spokesman, marketers to serve the dark majic of others. Explaining why people like bad stories tells us why the nobles lost their audience and stopped being society's heroes.
