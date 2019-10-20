@@ -108,7 +108,7 @@ We call technological protagonsts "trailblazers". Like Jedi, they empower us cyb
 
 Biological upgrades and adaptions is called evolution. I call human technological evolution _Techvolution_. This book is about inventing Techvolution, a philosophy to re-write the rules of society, to kill Darth Blockbuster, so regular people can solve our problems with technological upgrades as smoothly in human society, as natural selection does in nature.
 
-And to make it happen, you, the current extra, have to join the fight. Human evolution depends on you picking the right side between a old ruling philosophy filled with rules to keep your problems alive, and this new one that says solving your real-life problems makes you a hero.
+And to make it happen, you, the current extra, have to join the fight. Human evolution depends on you picking the right side between a old ruling philosophy filled with rules to keep your frontline problems alive, and this new one that says solving your real-life problems makes you a hero.
 
 ## Cast of Ideas and Characters
 
@@ -120,7 +120,7 @@ Philosophy: the largely unspoken ideals that tell members of society what’s ri
 
 Ruling philospophy: is a civilization’s chosen philosophy. One that all factions agree on. Like the “Divine Rights of Kings” derived from Christian theology used in royalist Europe, “Marxist-Leninism” of the Soviet Union, or the combination of “red / blue” philosophies of our philosophy today.
 
-Rule book: the largely unspoken etiquette, workplace, and social rules that govern everyday life. The rule book is interpreted from the ruling philosophy.
+Rule book: the written and unwritten etiquette, workplace, and legal rules that govern everyday life. The rule book is interpreted from the ruling philosophy.
 
 Technology: a catchall term for things we make tools from, like concrete, lumber, nails, shingles, insulation, and bricks.
 
@@ -132,9 +132,9 @@ Hierarchy: Every tool develops a power structure to manage its use in society. K
 
 The story of civilization: The invention of new technology and creation of new tools to overcome whatever problem troubles us. We use tools to evolve.
 
-Protagonists: people who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. I call them Jedi, we call their leaders trailblazers who often skirt the rules; Nikola Tesla, Steve Jobs, Michael S. Hart, Bill Gates, Linus Torvalds, Elon Musk.
+Protagonists: people who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. I call them Jedi. We call their leaders trailblazers who often skirt the rules; Nikola Tesla, Steve Jobs, Michael S. Hart, Bill Gates, Linus Torvalds, Elon Musk.
 
-Antagonists: people who selfishly resist new tools to defend their wealth, power, and prestige. Often called establishment or elites, antagonists usually manage companies or institutions based on dated technologies and think working on the frontline is beneath them. They work to control the rule book so they can hide behind it. We don't often individually identify them. I invented "Darth Blockbuster" so we can.
+Antagonists: people who selfishly resist new tools to defend their wealth, power, and prestige. Often called establishment, elites, antagonists usually manage companies or institutions based on dated technologies and think working on the frontline is beneath them. They work to control the rule book so they can hide behind it. We don't often individually identify them. I invented "Darth Blockbuster" so we can.
 
 Extras: everybody in the middle of a battle between antagonist and protagonist. Because they have no direct loyalty to either side or their tools, extras can pick winners and losers. Usually extras are in the middle class; not so poor as to be desperate, but not so powerful they want to keep the world the same. Sadly, extras don't realize their power.
 
@@ -146,33 +146,33 @@ Techvolution: a new philosophy empowering seemless human technological evolution
 
 And the story is about to begin. Not in a foreign city, mythical world, or galaxy far far away. Right here and now, where ever you are on this Earth. We need to change our ruling philosophy to take advantage of digital tools. Only you can make it happen.
 
-A little about me first. I'm nobody special. In my youth I was a cleaner, drywaller, movie usher/projectionist, and die-hard ideologue. After dropping that bad habit, I studied political philosophy and innovation at the University of Toronto, usually while working full-time. However, I learned far more about innovation on the frontline as a line worker, an account manager, a claims adjuster. I was the co-worker you sometimes forget about because they just do their job. Making an app and meeting my personal Darth Blockbuster was an education unto itself. All this taught me Techvolution. Watching friends struggle using, owning, maintaining, and working with the old tools of an old philosophy motivated me to write it down for you.
+A little about me first. I'm nobody special. In my youth I was a cleaner, drywaller, movie usher/projectionist, and die-hard ideologue. After dropping that bad habit, I studied political philosophy and innovation at the University of Toronto, usually while working full-time. It's a good thing, I learned far more about innovation on the frontline as a line worker, an account manager, a claims adjuster. I was the co-worker you sometimes forget about because they just do their job. Making an app and meeting my personal Darth Blockbuster was an education unto itself. All this taught me Techvolution. Watching my friends struggle using, owning, maintaining, and working with the old tools motivated me to write it down for you.
 
 So that's a snapshot. But I'm not important. You are. Because from hospital cleaners, to internet technical support, nursing to adjusting, only workers on the frontline know the tools our society needs to fix our many problems.
 
 So although today you're an extra in the battle between Jedi and Sith, you are the hero of Techvolution. It's not surprising. Average joes are always the heroes. Luke Skywalker, Princess Leia, Neo, and Cinderella were regular people. They became heroes when called upon to defeat the bad guys.
 
-Now you're called upon. Like Obi-Wan Kenobi, Morpheus, or the fairy godmother, I'm merely the guide to teach you how to defeat the villians. So the time is now young Skywalker, to leave the farm, and join the rebellion.
+Now you're called upon. Like Obi-Wan Kenobi, Morpheus, or the fairy godmother, I, Marius, am merely the guide to teach you how to defeat the villians. So the time is now young Alexis Stargazer (that's what I'm calling you), to leave the farm, and join the rebellion.
 
-What is the rebellion. It's definitely not rallies, marches, or protests. It's a rebellion of the mind. We have to change our ruling philosophy. We have to destroy the Death Star; Darth Blockbuster's rule book that keeps his old tools in power and prevents us all using new tools to solve frontline problems. When the Death Star is gone, the middle class will flourish once again. And that's worth fighting over.
+What is the rebellion. It's definitely not rallies, marches, or protests. It's a rebellion of the mind. We have to change our ruling philosophy. We have to destroy the Death Star that keeps his old tools in power and prevents us all using new tools to solve frontline problems. When the Death Star is gone, the middle class will flourish once again.
 
 # BLOWING UP THE DEATH STAR
 
 ## The Magic of Evolution
 
-Well young Skywalker, before you go off and face Darth Blockbuster and blow up his Death Star, you have to learn some things. The most important being the all powerful energy field inside every lifeform. No not the Force. I'm talking about evolution.
+Well young Stargazer, before you go off and face Darth Blockbuster and blow up his Death Star, you have to learn some things. The most important being the all powerful energy field inside every lifeform. No not the Force. I'm talking about evolution.
 
 Evolution empowers life by giving every new lifeform a slightly different variation. With variations life can constantly test for environmental changes in things like water levels, temperature, and food supply. The variations unfit for the frontline die off. The fittest survive. This natural selection is how evolution finds which lifeforms best represent life on Earth.
 
-Evolutions works so well because it creates biodiversity. The more lifeforms there are, the more life can probe and therefore better adapt to environmental changes. When temperatures increase or rain patterns change, low biodiversity decreases respons times; high biodiversity increases it becacause more lifeforms feel the pain, and therefore life can sooner evovle a solution to the frontline problem.
+Evolutions works so well because it creates biodiversity. The more lifeforms there are, the more life can probe and therefore better adapt to environmental changes. When temperatures increase or rain patterns change, low biodiversity decreases respons times, and high biodiversity increases it because more lifeforms feel the pain, and therefore life can sooner evolve a solution to the frontline problem.
 
-However, if the environment is stable, lifeforms need a caretaker. Someone to keep them in shape, ready to act for when the environment does change. That's why nature put in a system of checks and balances called ecosystems. Inside ecosystems is where lifeforms form communities and cooperate keep each other on their toes.
+However, if the environment is stable, lifeforms need a caretaker. Someone to keep them in shape, ready to act for when the environment does change. That's why nature put in a system of checks and balances called ecosystems. Inside ecosystems is where lifeforms form communities and cooperate to keep each other on their toes.
 
 Ecosystems are a food chain of different plants, herbivores, carinvores, and decomposers. Each lifeform checks the other's excesses and makes sure everyone reciprocates to keep the ecosystems' nutrients flowing. Checks, balances, and reciprocation is how ecosystems make sure life stays in shape and keeps evolving even in good times.
 
 Evolution may not be the Force, but it's certainly magical. Without any lifeform being aware of its tricks, evolution turned a lifeless planet into an oasis. The big drawback is time. Biological variations can take millions of years to respond to environmental changes. Think of the poor polar bears. They'll never understand why the ice isn't coming. And even if they could, no lifeform can proactively change their biology.
 
-In contrast, humanity can change (hopefully in time to help the polar bears). Not our biology. But our "cyborgology" if you will, because we feel frontline pain, reflect on the problems causing them, and can create a new tool to overcome.
+In contrast, humanity can change (hopefully in time to help the polar bears). Not our biology. But our "cyborgology" if you will; we feel frontline pain, reflect on the problems causing it, and create a new tool to overcome the problem.
 
 Techvolution is therefore intentional evolution. A better form of evolution that isn't a magical mystery, like evolution is to polar bears, but something we can understand. Question is, what drives us to evolve, when the rules often say it's wrong?
 
@@ -180,15 +180,15 @@ Techvolution is therefore intentional evolution. A better form of evolution that
 
 ## The Majic of Techvolution
 
-We call it genius when someone uses existing technology to make a new tool. Happily these trailblazers are self-motivated, and we already celebrate their genius and innovations. Heck, even Darth Blockbuster often loves their work. But innovation isn't the only step to Techvolution. Only when the extras use a tool do we evolve.
+We call it genius when someone uses existing technology to make a new tool. Happily these trailblazers are self-motivated and we already celebrate their genius and innovations. Heck, even Darth Blockbuster often loves their work. But innovation isn't the only step to Techvolution. Only when the extras use a tool do we evolve.
 
-So what trick does nature play on the extras to use new tools and risk Darth Blockbuster's wrath. The answer is a trick inside our souls.
+So what trick does Nature play on extras to reach for new tools and risk Darth Blockbuster's wrath. The answer is a trick inside our souls.
 
-Unlike evolution, the trick is not magic, because extras understand they're dropping one tool and attaching another; like swapping out the DVD player for Netlix. Yet, there's still something wonderfully mystical about choosing to leave ones's comfort zone and learning a new cyborgolgy. It's like a desert fox putting on a swimsuit, attaching flippers, and slipping on swimming goggles and then diving into the ocean yelling "I can do this!".
+Unlike evolution, the trick is not magic, because extras understand they're dropping one tool and attaching another; like swapping out the DVD player for Netlix. Yet, there's still something wonderfully mystical about choosing to leave ones's comfort zone and learning a new cyborgolgy. It's like a desert fox putting on a swimsuit, attaching flippers, and slipping on swimming goggles, then diving into the ocean yelling "I can do this!".
 
-Changing our tools is so wonderfully brave, mysterious, and difficult, I call it majic. Pronounced like magic, but different so we know it's the free choice of a regular person to upgrade to a new tool and continue humanity's evolution.
+Changing our tools is so wonderfully brave, mysterious, and difficult, I call it majic. Pronounced like magic, but spelled different so we know it's the free choice of a regular person to upgrade to a new tool and continue humanity's evolution.
 
-Think of majic like a bonding agent. Carbon atoms are sticky and thereby bond other atoms to form the Universe's many molecules. Genius in the protagonists minds bonds existing ideas into original ones. Good storytelling bonds audiences with different worlds and characters. And majic bonds people's minds and bosies with new tools.
+Think of majic like a bonding agent. Carbon atoms are sticky and thereby bond other atoms to form the Universe's many molecules. Genius in the protagonists minds bonds existing ideas into original ones. Good storytelling bonds audiences with different worlds and glues them to their seats. And majic bonds people's minds and bodies with new tools.
 
 Techvolution is the ruling philosophy letting extras majically bond with any tool so they can solve frontline problems. And when the rules say its wrong, we can get them out of the way with a short lesson.
 
@@ -200,9 +200,9 @@ Techvolution is the ruling philosophy letting extras majically bond with any too
 
 ## The Lesson
 
-Despite our problems with our current one, society always needs a ruling philosophy. We use it to create the rules that glues society together so thousand or millions of us can work together.
+Despite our problems with our current one, society always needs a ruling philosophy. We use them to create the rules that glues society together. Without it the story of civilization would degrade into chaos.
 
-That's why Darth Blockbuster fights to control the ruling philsoophy. When he does, he write rules to keep the tools he controls, and therefore himself, in power. Corporate manuals, univeristy guidelines, social justice blogs are among the pages of his Death Star rule book. These rules interfere with regular people majically bonding with new tools.
+It's too bad Darth Blockbuster fights to control the ruling philsoophy. When he succeeds, he writes rules to keep the tools he controls, and therefore himself, in power. Corporate manuals, univeristy guidelines, social justice blogs are among the pages of his Death Star rule book. These rules interfere with regular people majically bonding with new tools.
 
 Maybe. Whose to know which rules are the bad ones. Maybe they're interfering with majic. Maybe they're just good rules. Darth Blockbuster doesn't tell people he's Darth Blockbuster. Instead he says he's an an Executive Vice President, Human Resources Representative, or expert lawyer. Are these people genuine authority figures protecting society, or Darth Blockbusters protecting their paychecks?
 
@@ -266,37 +266,39 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 ## Douglass' Lessons
 
-Frederick Douglass is a true Jedi Master. His great bravery, persistence, and intelligence showcase humanity's endless potential. The big lesson we need to learn here Skywalker, is using majic to tell the difference between good and bad rules.
+Frederick Douglass is a true Jedi Master. His great bravery, persistence, and intelligence showcase humanity's endless potential. The big lesson we need to learn here Stargazer, is using majic to tell the difference between good and bad rules.
 
-Sophia taught Douglass to read. She wasn't told to. She did it because whatever our joys are, from boxing, fishing, or reading, we naturally love teaching our chosen tools. We love it because Nature wants us spreading the majic to continue its evolution.
+Sophia taught Douglass to read. She wasn't told to. She did it because whatever our joys are, from boxing, fishing, or reading, we naturally love teaching our chosen tools. Our cyborgology isn't a choice, it defines our interests, emotions, and passions. We love spreading our tools because Nature wants us spreading them to continue its evolution.
 
 When a magician makes a playing card disappear, we smile in awe and childish wonder. That's really cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with reading, they've similarly performed something awesome, but its not a trick; they've upgraded someone's cyborgology and effectively created a new and improved person. This makes us smile for a long time. Majic is Nature's long lasting dopamine fix.
 
-Yet human made rules _sometimes_ say upgrading to a new tool is wrong. Medieval parishoners couldn't read a science book, peasant farmers couldn't have a musket, a 1990's kid couldn't download a digital song. Today millions of tired mothers can't telecommute. Why?
+Yet human made rules _sometimes_ say upgrading to a new tool is wrong. Medieval parishoners couldn't read a science book, French peasant farmers couldn't have a musket, a 1990's kid couldn't download a digital song. Today millions of tired mothers can't telecommute. Why?
 
-There is no easy answer. Society's rule book will never call itself a Death Star. Remember in no story does someone say their evil. The lesson Skywalker is it'll never be easy to know the difference between good and bad rules. Humans make rules too easily in speech, regulations, laws, to easily filter out the bad ones.
+There is no easy answer. Society's rule book will never call itself a Death Star. Remember in no story does someone say their evil. The lesson Stargazer is it'll never be easy to know the difference between good and bad rules. Humans make rules too easily in speech, regulations, laws, to easily filter out the bad ones.
 
 Majic is thus our best judge of the rules. It naturally makes us smile. From teaching a kid to walk, to teaching a grandmother to "Skype in" and watch her grandkids first steps; teaching and learning new tools opens our hearts because it solves problems and improves our way of life.
 
 So, when you're teaching or learning a new tool and someone steps in your way with a rule, ask yourself if you feel majic, and if you do, ask the rulemaker why he doesn't. Perhaps there's a good reason. But keep Sophia in mind. Performing majic made her fell good, while following the rules only made her feel safe.
 
-And safety is fleeting Skywalker. No ruling philosophy lasts forever, thus all rule books eventually expire. Majic never will. It always was, and always will be, in our souls. It's how we naturally test our rule book. Electricity, the microchip, the iPhone were all made by people who skirted the rules. Yet we celebrate their innovators (Tesla, Noyce, Jobs) today because they invented a new tool that let us feel and spread majic.
+And safety is fleeting Stargazer. No ruling philosophy lasts forever, thus all rule books eventually expire. Majic never will. It always was, and always will be, in our souls. It's how we naturally test our rule book. Electricity, the microchip, the iPhone were all made by people who skirted the rules. Yet we celebrate their innovators (Tesla, Noyce, Jobs) today because they invented new tools that let us feel and spread majic.
 
-Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers and orators his start, yet she lived a miserable life watching him succeed because she broke the rules. Which is better?
+Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers and orators his start, yet she lived a miserable life watching him achieve greatness because she broke the rules. Which is better?
 
 ## A World With Little Majic
 
-Skywalker, the extras are struggling. We already have Jedi in the open-source community creating new tools to solve frontline problems. We already have extras feeling the pain of frontline problems. What we don't have is the freedom of extras to majically form bonds with new tools. For that we need Techvolution.
+Stargazer, the extras are struggling. The story of civilization is stalling. We already have Jedi in the open-source community creating new tools to solve frontline problems. We already have extras feeling the pain of frontline problems. What we don't have is the freedom of extras to majically form bonds with new tools. For that we need Techvolution.
 
-But let's talk about the good news. There's always good news and it's vital to mention to fend off negativity and despair. It's safer to live now then in any other point in human history. The amount of us dying violent deaths has consistently gotten lower. In the Stone Age, about 10-20% of people died violently, most often by murder. In Rome's peak civilization it was around 2-5%. In the Dark Ages it was above 5%. But by the 18th century it was under 5% again. Now, less than 1% of us die violently. All because as civilization grows, we make better tools to improve our way of life.
+But let's talk about the good news. There's always good news and it's vital to mention to fend off negativity and despair. It's safer to live now then in any other point in human history. The amount of us dying violent deaths has consistently gotten lower.
 
-More good news. We have enormously powerful digital tools that get better very quickly. This is mostly because it gets easier putting more transistors on the microchips that power digital tools. In 1972 a microchip had about 3,000 transistors. In 2018 they had 10 billion. In 46 years, we've increase computer power by three million percent.
+Think about this, in the Stone Age, about 10-20% of people died violently, most often by murder. In Rome's peak civilization it was around 2-5%. In the Dark Ages it was above 5%. But by the 18th century, when the Industrial Revolution started to mass produce tools for the first time, it went well under 5% again. Now, less than 1% of us die violently. See how making better tools improves our way of life.
 
-It was with microchips that protagonists like Grace Hopper, Jay Last, and Al Alcorn created the first digital tools in the 1970's. And since then we're gotten many more tools like email, GPS, blogs, and smartphones.
+More good news. We have enormously powerful digital tools now! And they keep getting better, mostly because it gets easier putting more transistors on the microchips that power digital tools. In 1972, we could put 3,000 transitors on a microchip. In 2018 we could put 10 billion. In 46 years, we've increase computer power by three million percent.
 
-And now for the bad news. Because of old philosophies, these new tools were seen as a threat not a salvation. Thus, Darth Blockbuster showed up and made his Death Star and wrote contracts nobody can understand, regulations nobody can read, and enforces politically correctness nobody likes. All to keep his primitive tools like gas cars, call-centres, paper-based tax forms, legalese regulations, and massive suburban housing, in use and himself in power.
+Starting in the 1970's, protagonists like Grace Hopper, Vint Cerf, and Al Alcorn used microchips to create the first digital tools like computer games, personal computers, the internet, and email.
 
-Our society's biggest problems like personal isolation, political hatred, and climate change, are wounds of the Death Star's many attacks. But stay positive. We can solve them all when we liberate digital uses with Techvolution.
+And now for the bad news. Because of old philosophies, these new tools were seen as a threat. Thus, Darth Blockbuster showed up, and and made his Death Star. He wrote contracts nobody can understand, regulations nobody can read, and enforced politically correctness nobody liked. All to keep his primitive tools like gas cars, call-centres, paper-based tax forms, legalese regulations, and massive suburban housing, in use and himself in power.
+
+The digial revolution changed our leisure time, but not our way of live. Our society's biggest problems like personal isolation, political hatred, and climate change, are wounds of the Death Star's many attacks. But stay positive. We can solve them all once we liberate digital uses with Techvolution.
 
 Let's look at some stats to better understand our wounds.
 
@@ -334,77 +336,77 @@ Carbon Dioxide emissions since 1800. Notice the spike in the 1970's. Even severa
 
 ## Things Won't Change, Until
 
-Most of our problems started in the 1970's for a reason. That's when protagonists's created digital tools, and Darth Blockbuster showed up to keep our car driving, suburban living, broadcast television watching, 9-5 working, two car garage home building, unhealthy food eating, central power station buying, univeristy admission test taking lifestyle going. Despite totally new tools, the American way of life hasn't changed. It's still the "American Dream" to live in a post World War II baby boomer suburb.
+Most of our problems started in the 1970's for a reason. That's when protagonists's created digital tools, and Darth Blockbuster showed up to keep our car driving, suburban living, broadcast television watching, 9-5 working, two car garage home living, unhealthy food eating, central power station buying, univeristy admission test taking lifestyle going. Despite totally new tools, the American way of life hasn't changed. It's still the "American Dream" to live in a post World War II baby boomer suburb.
 
-Our environment is changing, available resources are depleting, and our tools are completely different. Yet we live the same. That's like trying to make a camel live in the Amazon. There's nothing wrong with either, but they simply aren't adapted to each other.
+Our roads are motionless, neighbors are strangers, resources depleting, and our tools are completely different. Yet we live the same. That's like trying to make a camel live in the Amazon. There's nothing wrong with either, but they simply aren't adapted to each other.
 
-Darth Blockbuster is the camel forcing us to keep his suburban lifestyle "desert" in power to prevent having to compete in the Amazon of digital tools. Done because Darth Blockbuster co-opts society's rule book to keep old tools in power. That's how our society subsidizes a wet and very selfish camel.
+Darth Blockbuster is the camel forcing us to keep his suburban lifestyle "desert" in power to prevent having to compete in the Amazon of digital tools. Done because he co-opts society's rule book to keep old tools in power. Our society subsidizes a wet and very selfish camel.
 
-Addicted to fighting over the controls to old tool, our politics doesn't notice. For example, because university libraries and lecture halls are still considered "formal education", so red / blue endlessly debate who should get into university and how the masive expense should be paid. Endless battles over affirmative action, student loan rates, and state education subsidies are the result.
+Addicted to fighting over old tool, our politics doesn't notice. For example, because university libraries and lecture halls are still considered "formal education", red / blue endlessly debate who should get into university and how the masive expense should be paid. Endless battles over affirmative action, student loan rates, and state education subsidies are the result.
 
-All while better tools are ignored. Digital tools can educate anyone willing. Wikipedia, YouTube, Khan Academy, Udemy, Skillshare, Curiosity Stream, Brilliant, The Great Courses, are merely the first new digital education tools. They do wonderful jobs while costing a tiny fraction of formal education and getting no official support. Yet, we don't teach kids to read or update Wikipedia in schools. We don't track student progress in Khan Academy's micro-lessons. We defintely don't recognize "degrees" from Udemy, or YouTube, even though most programmers and designers learn far more there then in any college classroom.
+All while better tools are ignored. Digital tools can educate anyone willing. Wikipedia, YouTube, Khan Academy, Udemy, Skillshare, Curiosity Stream, Brilliant, Project Gutenburg, The Great Courses, are merely the first new digital education tools. They do wonderful jobs while costing a tiny fraction of formal education and getting no official support. Yet, we don't teach kids to read or update Wikipedia in schools. We don't track student progress in Khan Academy's micro-lessons. We defintely don't recognize "degrees" from Udemy, or YouTube, even though most computer programmers and designers learn far more there then in any college classroom. I used these resources to write this book, and never once looked back at my university lecture notes.
 
 Our society suffers keeping the imagined world baby-boomer suburban desert alive. Despite way too much carbon in the atmostphere, gridlocked roads, housing bubble bursts, massive student debt, and horrible individual health, our politics keeps us using gas cars, mass produced homes with no solar panels or water collection built in, super-expensive college education, and very confusing health insurance. Our entire frickin climate is changing because our ruling philosophy is not.
 
 Middle class quality of life, political cooperation, and climate change, won't get better until the extras join the protagonists, step-up to the antagonists, and start to use digital tools that solve frontline problems. To do that, we need Techvolution. Until then, we're basically camels trying to live in the Amazon.
 
-But don't despair. The good news is, we can win Skywalker. I'll show you.
+But don't despair. The good news is, we can win Stargazer. I'll show you.
 
 # A TECHVOLUTION BATTLE SCENE
 
 ## Battle Introduction
 
-In the 1970's the transistor, internet, computer monitors, and other digital technology, started to leave labs and research centres and make their way into products. Finally, after centuries of primitive tools, society had ones cheap enough to mass produce, yet powerful enough to change our way of life. Of course, that's when Darth Blockbuster appeared and went to work defending his way of life.
+In the 1970's the transistor, internet, computer monitors, microchips, and other digital technology, started to leave labs and research centres and make their way into new tools. Finally, after centuries of primitive tools, society had ones cheap enough to mass produce, yet powerful enough to change our way of life. Of course, that's when Darth Blockbuster appeared and went to work defending his way of life.
 
-Some examples. In the 1970's AT&T defended the telephone communications by successfully lobbying government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by suing home video cassette recorders-only losing by one vote in the Supreme Court. In 2001, the music industry defended music compact discs by successfully suing digital songs. Likewise, Tesla, Uber, AirBnB biggest competition has been in the courtroom. Throughout society the antagonists found ways to keep digital tools from the hands of the people.
+Some examples. In the 1970's AT&T defended the telephone communications by successfully lobbying government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by suing home video cassette recorders (VCRs) and only losing by one vote in the Supreme Court. In 2001, the music industry defended music compact discs (CDs) by successfully suing digital songs. Likewise, Tesla, Uber, AirBnB biggest competition has been in the courtroom. Throughout society the antagonists found ways to keep digital tools from the hands of the people.
 
 The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to improve digital songs with iTunes. Music executives had already tried and failed horribly to make their own platform. Despite the supposed crisis of Napster, Jobs said he'd "never spent so much of my time trying to convince people [music executives] to do the right thing for themselves".
 
-The problem wasn't Napster. It was Darth Blockbuster. To be fair, he knew how to manage a huge corporation, collect money to get employees paid, and make a product people wanted. Yet he didn't know anything about new technology and so fought back with rules, not tools.
+The problem wasn't Napster. It was Darth Blockbuster. To be fair, he knew how to manage a huge corporation, collect money to get employees paid, and make a product people wanted. Yet he didn't know anything about new technology and so fought against falling behind with rules, not tools.
 
-Darth Blockbuster's antagonism to new tools was so strong he resisted change even from Steve Jobs. From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Let's learn how this story looks in a little more detail.
+Darth Blockbuster's antagonism was so strong he even fought Steve Jobs who was trying to-and really did-help him. From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Let's look at the story in a little more detail.
 
 ## How New Tools Start the Fight
 
 In biological evolution there are continual adaptations of existing lifeforms, and then sometimes entirely new lifeforms. In Techvolution this is the difference between a new technology, and a new tool.
 
-Upgrading a technology is an iterative change; like going from Sedan's to SUV's, VHS to DVD's, tube televisons's to LCD's. Each is different technologically, but they do the same job, so no new majic is needed to attract users. As a result no political battles are started.
+Upgrading a technology is an iterative change; like going from sedan's to SUV's, VHS to DVD's, tube TV's to LCD's. Each is different technologically, but they do the same job, so no new majic is needed to attract users. As a result no political battles are started.
 
 But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and WiFi, a genius can unlock a new tool like smartphones. And this requires new majic and thus is a big deal.
 
 ![New Tool Creation](/img\diagrams\techvolution-new-tool-creation-pc.png)
 
-Why? Well, because creating a new tool asks a climactic and political question: who controls it? After all, whoever does, is more powerful. The weilder of the new tool can let extras majically connect with it to solve their problems. Or withold it and convince the extras to keep using old tools. Like muscle cars trying to keep customers away from Tesla with techniques like mass advertising, car culture, and spectacle filled V8 cars. Techniques I call dark majic.
+Why? Well, because creating a new tool asks a climactic and political question: who controls it? After all, whoever does, is more powerful. The weilder of the new tool can let extras connect with it to solve their problems. Or withold it and convince the extras to keep using old tools. Like muscle cars trying to keep customers away from Tesla with techniques like mass advertising, car culture, and spectacular chromes platedd V8 power! I call these techniques to keep people away from new tools dark majic.
 
 Thus, while civilization is a struggle to overcome problems by upgrading technology and inventing new tools, it’s also a battle to control them. The people with the old tool fight to retain their power, while inventors and innovators imagine a new society that shares it.
 
 The eternal story of civilization is thus protagonists like Jobs making new tools, antagonists like music company executives attacking new tools, and many extras watching them fight. Our politics is an ongoing history of technological change, with protagonist and antagonist both reaching to control the tool and make themselves the winner.
 
-Today the extras are not self-aware of their power to decide the winner. I’ll show you how important you are. Here’s how you changed the world just by being curious and loving majic.
+Today the extras are not self-aware of their power to decide the outcome. I’ll show Stargazer how important they are. Here’s how they can change the world just by being curious and loving majic.
 
 ![Dist-vs-retention](/img\diagrams\techvolution-distribution-vs-rentention-2.png)
 
 ## Extras Killed Wikipedia's Evil Twin
 
-The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, people always have questions like why are movies so expensive, or more importantly how does malaria spread and what are proven techniques to not get infected. Constant questions are a problem and we need a tool to solve it. True to ourselves, we make a reference tool with the technology available and upgrade it when possible.
+The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, people always have questions; like why are the movies so expensive, or more importantly what are proven techniques to stop malaria infections. Constant questions are a problem and we need a tool to solve it. True to ourselves, we make a reference tool with the technology available and upgrade it when possible.
 
 Our first reference tool was the wisdom of our elders. The first technological upgrades were papyrus scrolls and ink (500 BC) and books (500), which turned some elders into experts like Hippocrates and Aristotle. When wood-pulp paper (1200) and the printing press (1456) were invented, humanity unleashed mass-produced books. Now experts could share knowledge between themselves and educate the masses. We called the reference books encyclopedias.
 
-People loved encyclopedias. They answered many questions. The _Encyclopedia Britannica_ (1878) was the standard. It went into continuous publication (1933) to keep people updated to the latest facts. In the following decades, the computer, digital printer, and telecommunications meant encyclopedias were written and stored digitally. But they remained a set of printed books and CD's controlled by experts.
+People loved encyclopedias. Of course they did, they answered many questions. The _Encyclopedia Britannica_ (1878) was the standard. It went into continuous publication (1933) to keep people updated to the latest facts. In the following decades, the computer, digital printer, and telecommunications meant encyclopedias were written and stored digitally. But they remained a set of printed books and CD's controlled by experts.
 
 Then came the world wide web (1991), a new technology that unlocked many new tools like websites, forums, blogs, and something called “wikis”. Wiki software lets anyone write or edit a webpage by pressing “edit now”. All changes are saved, so anyone can erase errors or vandalism by pressing “undo now”. For years programmers used wikis to collaboratively write technical manuals.
 
-As web tools boomed in the late ’90’s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us who were curious about things like electromagnetism know our quest ends with a free online encyclopedia anyone can edit called Wikipedia. But it didn’t start out that way.
+As web tools boomed in the late ’90’s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us who were curious about things like the movies or malaria know this story ends with a free online encyclopedia anyone can edit called Wikipedia. But it didn’t start out that way.
 
 Wikipedia started as Nupedia (2000). Nupedia was a free online copycat of Encyclopedia Britannica where only “expert” professors made articles. Wikipedia (2001) was a side project. Only programmers knew “community content creation” would work.
 
-Everyone else assumed regular people would only read the work of professors. The first issue with this theory was that the professors didn’t like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000, which most professors loved to belittle as rubbish. Professors even disallowed students from referencing Wikipedia's articles in their papers. Yet professors refused to improve, or to assign students to improve, Wikipedia.
+Everyone else assumed regular people would only read the work of professors. The first issue with this theory was that the professors didn’t like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000, which most professors loved to belittle as rubbish. Professors even disallowed students from referencing Wikipedia's articles in their school work. Yet professors refused to improve, or to assign students to improve, Wikipedia.
 
-The second issue was that it turned out “expert” answers and “regular” answers are the same. Mosquitto nets are a simple and effective tool against malaria infections.
+The second issue was that it turned out “expert” answers and “regular” answers are the same. The movies are expensive because of a 1948 government rule banning studio's from owning or collaborating with theatres-so they can't vary ticket prices regardless of movie budgets- and Mosquitto nets are a simple and effective tool against malaria infections.
 
-Thirdly, Wikipedia was so easy to use many extras became protagonists! A huge community of non-academics voluntarily shared their knowledge one “edit now” at a time and fiercely protected their common knowledge with “undo now”. Nobody told them, paid them, or made a rule to force it. Because performing majic, and expanding someone elses cyborgolgy with things like mosquitto nets, is again its own reward.
+Thirdly, Wikipedia was so easy to use many extras became protagonists! A huge community of non-academics voluntarily shared their knowledge one “edit now” at a time and fiercely protected their common knowledge with “undo now”. Nobody told them, paid them, or made a rule to force it. Because performing majic, and expanding someone elses cyborgolgy with things like millions of Wikipedia articles, is Nature's dopimine rush.
 
-And lastly, so many people loved the performance, flocked to Wikipedia's answers. The extra’s mass support quickly made Wikipedia king, while giving Nupedia and Encyclopedia Britannica quick deaths.
+And lastly, so many people loved the performance and flocked to Wikipedia's answers. The extra’s mass support quickly made Wikipedia king, while giving Nupedia and Encyclopedia Britannica quick deaths.
 
 That’s the story of Wikipedia. Made by new protagoinsts, made the standard reference tool by extras. Few believed it was possible, because even professors don’t understand new tools always unpower the few, to empower the rest. Interestingly, after I finally conceded temporary defeat to my personal Darth Blockbuster, I uploaded a few pages to Wikipedia instead. Not as helpful as my app, but it took just a few weeks of work, and one “edit now” button, to make it real. It felt majical to bypass the rules.
 
@@ -412,9 +414,9 @@ That’s the story of Wikipedia. Made by new protagoinsts, made the standard ref
 
 ### You Can Win
 
-Wikipedia's victory is another example of the archetypal Techvolution story. Like Galileo and his telescope, George Washington and his musket, and Steve Jobs and his iTunes. Wikipedia was a victory for protagonists. What makes it especially cool, is digital tools made it quite easy to empower today's extras.
+Wikipedia's victory is another example of the archetypal Techvolution story. Like Galileo and his telescope, George Washington and his musket, and Steve Jobs and his iTunes. Wikipedia was a victory for protagonists. What makes it especially cool, is digital tools made it so easy to empower today's extras.
 
-Imagine when digital tools are let free! That’s the story Skywalker I want you to make happen with lightsabers a-blazin’, dicing up old tools like evil storm troopers, to smooth out humanity’s natural evolution. The open-source community are making new tools. But they are facing down Darth Blockbuster on their own. To help them change our world, they need as much help as Wikipedia got.
+Now imagine when digital tools are let free! Stargazer, that’s the story you have to jump into with lightsabers a-blazin’, dicing up old tools like evil storm troopers, to smooth out humanity’s natural evolution. The open-source community are making new tools. But they are facing down Darth Blockbuster on their own. They need as much help as Wikipedia got.
 
 Note however, our lives cut across thousands to millions of problems. Thus, our villians are not in a massive group like “the rich” or the “the unions” as old philosophies label. Our villians reveal themselves inside thousands of companies, institutions, and organizations, by suppressing new tools to keep their version of the DVD alive.
 
@@ -457,11 +459,11 @@ The question for us is, how did Rousseau actually make an entire people change t
 
 ## ~~Revolution~~ Techvolution
 
-Skywalker, you look disappointed. You think revolutions are fun. You want to follow _Les Miserables_ and march in the street! Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less regulations! Affordable health insurance! Tax cuts! We march and yell and it'll happen.
+Stargaxer, you look disappointed. You think revolutions are fun. You want to follow _Les Miserables_ and march in the street! Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less regulations! Affordable health insurance! Tax cuts! Let's save the planet, save the national debt!.
 
 We'll write it down in regulations, laws, and blog posts and "poof" it'll happen like magic.
 
-And selling fast ending magic is how red / blue survive. Without giving new tools to the people, today's politics is only about fighting, not solving frontline problems. Solar panels, air quality testors, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets, all improve the real-world. The rest is talk.
+And selling magic is how red / blue survive. Without giving new tools to the people, today's politics is only about fighting, not solving frontline problems. Solar panels, air quality testors, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets. These tools improve life on earth at the point of contact between a problem, and the person suffering it. Anything but a better tools in the hands of frontline people is just talk.
 
 Ignore revolutions! Resist the self-gratification of blaming "the other side" for society's problems using primitive tools.
 
@@ -469,13 +471,17 @@ Digital tools are ready and waiting for the people to solve our many frontline p
 
 ## Good and Bad Stories
 
-And that's in short what Rousseau said; let the people prosper, and return the nobility to their natural equality inside a democracy. But he was ignored until frontine anger turned into violent revolutions.
+And that, in short, is what Rousseau said; let the people prosper with new tools. And let the nobility return to their natural equality with the people inside a democracy. This was of course ignored until frontine anger turned into violent revolutions.
 
-We can learn from him and put his lessons into Techvolution's DNA.
+Crucially, he wasn't only hated by the nobles. Lots of extras didn't like his ideas either. And this is where we can improve on Rousseau, using Rousseau. Because like with Wikipedia, the extras are our source of change.
 
-Importantly, in addition to being a philosoper, Rousseau was also a novelist. And what he did in his philosophy was tell the different between good and bad stories. Not in literature, but in human societies. Let's take a look ourselves Skywalker, using movies because that's what most people will know.
+Importantly, in addition to being a philosoper, Rousseau was also a novelist. And what he did in his philosophy was tell the difference between good and bad stories. Not in literature, but in human societies. Understanding this difference will help us get the extras to stop liking the bad stories of the Sith, and get them addicted to the magic of good storytelling. We'll keeping using movies here because that's what most people will know.
 
 ===
+HERE
+
+
+
 
 All stories are a sequence of events, where a protagonist fights an antagonist, to overcome a problem. The fight to change reality happens in three parts. The first is an introduction of problem and characters. The second is the back and forth battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
 
@@ -498,6 +504,8 @@ To maintain interest, spectacle movies have to keep ramping up fancy props, spec
 ![All three stories!](/img\diagrams\techvolution-all-stories.png)
 
 ===
+
+HAVE TO NOTE THAT GOOD STORIES IS WHAT WON THE WIKIPEDIA, and other BATTLEs
 
 In storytelling, logic and surprises counter-balance each other. Withholding one makes art films that are self-important, and withholding the other makes spectacle movies that are  simple. Classic stories are good because they mix the two and create "logical surprises" that open our minds and change things. This is why art/spectacle stories don't have "spoilers", while we want to "go in fresh" for classic stories.
 
@@ -530,6 +538,10 @@ Of course this story is a exactly the same as Frederick Douglass, Mister Auld, a
 Douglass is Neo! And so was Rousseau. He woke people up to the reality. That spectacle and art is bullshit, while heroes who solve problems return to being equal once the job is done. And that's our problem. We can't simply say anyone who heads a heirarchy is bad, because they may be a legitimate hero. How do we know when they aren't? When the extras decide to wake up and realize their frontline problems.
 
 People didn't listen to Rousseau before the extras rose up in revolutions. Like reminding ourself of good news, it's important to note that real heroes do exist. Even the ancestors of Darth King were heroes. Here's a quick history to explain why.
+
+* Dark Ages Church was not spectacle, but loyalty to the group, that together was overcoming anarch and restaring the story of civilization.
+* ecosystems, checks and balances, democracy, good stories, equality, reciprocation
+* HAVE TO NOTE THAT GOOD STORIES IS WHAT WON THE WIKIPEDIA, and other BATTLEs
 
 ![Classic heroes](/img\diagrams\techvolution-battle-douglass.png)
 
@@ -818,7 +830,7 @@ When someone has their own version of reality, we call it a mental illness. Deal
 
 Techvolution only works when everyone, like in Nature, seemingless drops bad tools for new better ones.
 
-Thus, it was never my goal to defeat _this_ Death Star or _this_ Sith Lord. For as long as our civilization uses a human created rule book, killing one king, only lets another take his place.
+Thus, it was never my goal to defeat _this_ Death Star or _this_ Sith Lord. We walked about Rousseau, Darth King, not because it will help us beat Darth Blockbuster, but to realize we can never beat the Sith. For as long as our civilization uses a human created rule book, killing one king, only lets another take his place. We can never wake the extras up to every Sith lord.
 
 To truly win, we must create a better tool that replaces the Death Star. One that continually enforces our natural evolution. Where the only rule is natural selection.
 
@@ -830,4 +842,8 @@ You can build it. I can't. It can't be made by old heroes, but only the extras, 
 
 So I lift my sword, and smile. I smile at eternal rest. Because the Jedi will no longer face down the Sith. It's the extras job now, so make a tool that will forever kill them.
 
-So I raise my sword, and Darth Blockbuster, the ignorance protagonist of a dead ruling philosophy, strikes me down.I did happy. Because you know the lesson. The person who holds the tools wins. Build the Life Star and you'll never face a Sith Lord again.
+So I raise my sword, and Darth Blockbuster, the ignorance protagonist of a dead ruling philosophy, strikes me down.I did happy. Because you know the lesson. The person who holds the tools wins. Build the Life Star and you'll never face a Sith Lord again. The Life Star, it's life with perpetual democracy.
+
+PICTURE, LIKE DOUGLASS' BUT WITH LIGHTSTAR AND A BLANK HEIRARCHY
+
+* and civilization story gets a big upgrade.  We need to change our ruling philosophy to take advantage of digital tools. Only you can make it happen. That doesn't mean we replace red / blue, it means we disable the Sith from every coming back.
