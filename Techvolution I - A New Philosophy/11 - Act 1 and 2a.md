@@ -66,7 +66,9 @@ Whichever color wins an election today and re-writes the regulations, laws, and 
 
 Under blue or red rules, the struggling middle class lifestyle stays the same, because the tools in which we live our lives, like suburban homes, gas cars, call centres, centralized power stations, paper based tax forms, mass produced unhealthy food, occasional doctor check ups, television for entertainment, an insatible education industry, and everything else in suburban America and Canada, stays the same.
 
-The rules, no matter what color, don’t control us. The tools we live our life with do. And nothing changes in our daily life if either red and blue write the rules, because neither’s philosophy—from conservatism to progressivism, capitalism to Marxism—is about putting new tools into our hands.
+There's a reason Skywalker and Vader don't fight over a rule book. A reason why we go to a mechanic to fix our cars. Or contractors to make our porches. Tools change lives.
+
+Likewise, the rules, no matter what color, don’t control us. The tools we ues to live our life with do. And nothing changes in our daily life if either red and blue write the rules, because neither’s philosophy—from conservatism to progressivism, capitalism to Marxism—is about putting new tools into our hands.
 
 It’s not our politicians fault. The philosophies they follow were invented before we had the tools to improve our lives. Back the, horses, carriages, and sailboats were their transportation. Abacuses and chalkboards did their calculations. The moon lite their way to outdoor latrine pits. Humanity had primitive tools when red and blue were born; their philosophical fathers like Adam Smith, Edmund Burke, John Stuart Mill, Karl Marx, never listened to music, read an eBook, made a phone call, opened a fridge, used electronics, had a genetic test, santized their wounds, took penicillin, knew about electricity, started a motor, learned about evolution, or typed on a keyboard. Yet we let these thinkers ideas guide us in the digital age.
 
@@ -428,7 +430,7 @@ Darth King lived inside palaces, using society’s money to host splendid banque
 
 “Extras are born free; and everywhere they are in chains.” Jean-Jacques Rousseau wrote that in 1762. He was the King of France. No he wasn’t. Was he the richest man in England? Absolutely not. Rousseau was a poor writer who copied sheets of music to make the rent. More than 300 years later, he is recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
 
-Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility’s many banquets and balls. This was the image of opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the the fairy tale, the extras didn’t have a fairy Godmother to make their dreams come true. Instead, the commoners cleaned the noble’s vast libraries, used guns while dying in their wars, and were told to ignore what the telescope revealed. The extras were excluded from the power of new tools because they believed their beloved Holy Bible said only Darth King had the “divine right to rule”.
+Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility’s many banquets and balls. This was the opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the the fairy tale, the extras didn’t have a fairy Godmother to make their dreams come true. Instead, the commoners cleaned the noble’s vast libraries, used guns while dying in their wars, and were told to ignore what science revealed. The extras were excluded from the power of new tools because they believed their beloved Holy Bible said only Darth King had the “divine right to rule”.
 
 Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other extra—you could argue—who rose to become the ultimate protagonist. Who is anyone to say that other extras can’t live up to their own potential? Rousseau said books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists. The self-proclaimed “divine nobility” didn’t like hearing that. This powerful self-protecting community declared Rousseau a banquet-pooper, and chased him out of Switzerland, France, and England. Maybe that’s why Rousseau rented instead of owned.
 
@@ -445,157 +447,135 @@ Starting in 1776, within Rousseau’s lifetime, Darth King started to face the m
 
 Revolutionary songs like this spread the people’s liberty, equality, and fraternity throughout the world. In a few years, civilization changed its ruling philosphy from knowing the nobles were divine, to knowing they were villians who resorted to hiring mercenaries rather than realize the people didn't need them anymore.
 
-When the people took control of books, guns, and science, they put presidents and senators, judges and sherriffs in power, who ruled at the request of new protagonists who inside a civilization with checks and balances, because no one was divine. A change empowered by tools, thought of in philosophy, yet made real with the bloodshed of revolutions on the frontline.
+When the people took control of books, guns, and science, they put presidents and senators, judges and sherriffs in power, who ruled at the request of new protagonists who built a civilization of democracy, equality, and checks and balances, because no one was divine. A change empowered by tools, thought of in philosophy, yet made real with the bloodshed of revolutions on the frontline.
 
 Rousseau died never having found a home. After they won their revolutions, a population of heroes put him to rest inside the glorious Panthéon, heralding him as a renowned breaker of chains, in a free world he helped build. Where any guy can be the prince, and any girl can be Cinderella.
 
-The question for us is, how did Rousseau do it?
-
-## The Road to Techvolution, and the Death of Revolutions
-
-Rousseau changed history by making the people realize they suffered on the frontline because of an old ruling philosophy. Even though French and Americans could read pamplets, newspapers, and books they still couldn't vote. Even though they could use guns to fight for the king's personal glory in wars like The War of the Spanish Succession (1701–1714), The War of the Austrian Succession (1740–1748), and the Seven Years War (1756-1763), they weren't allowed to use guns to defend themselve against the king. Even though science starting revealing the truth about Nature, they were told to follow society's religious rules instead. The people's cyborgolgy was held back by Darth King's rules. Rousseau made the people realize this was bullshit. Everyone is equal in Nature.
-
-The people's demand for change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the other revolutions in the 19th centuries were violent, because the divide between ruling philosophy and frontline society was very wide.
-
-It's a lesson for us. We have to hurry up. Because the longer we wait to update our ruling philosophy to digital tools, the more out of touch the frontline and ruling philosophy gets. The result is needless revolution. All the more reason for a Techvolution now.
+The question for us is, how did Rousseau actually make an entire people change their ruling philosophy, and how can we do it better, because I'd really like to avoid a revolution.
 
 ![Revolutions!](/img\diagrams\techvolution-revolution.png)
 
 ## ~~Revolution~~ Techvolution
 
-Skywalker, you look disappointed. You think revolutions are fun. You want to follow _Les Miserables_ and march in the street! Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less regulations! Affordable health insurance! Tax cuts! We march and yell and it'll happen. Once we defeat the other side.
+Skywalker, you look disappointed. You think revolutions are fun. You want to follow _Les Miserables_ and march in the street! Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less regulations! Affordable health insurance! Tax cuts! We march and yell and it'll happen.
 
-Notice the trap there. Without giving new tools to the people, today's politics is only about fighting, not solving frontline problems. Solar panels, air quality testors, EKG monitors, repairable laptops, waterless toilets, improve the world for real. The rest is talk.
+We'll write it down in regulations, laws, and blog posts and "poof" it'll happen like magic.
 
-Ignore revolutions! Resist the self-gratification of blaming "the other side" for society's problems using primitive tools. Even if you do win, laws, policies, regulations, corporate meetings, do almost nothing.
+And selling fast ending magic is how red / blue survive. Without giving new tools to the people, today's politics is only about fighting, not solving frontline problems. Solar panels, air quality testors, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets, all improve the real-world. The rest is talk.
 
-Digital tools are ready and waiting for the people to control their own cyborgology, and decide what is best for themselves, to solve our many frontline problems. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we want, is the ultimate revolution.
+Ignore revolutions! Resist the self-gratification of blaming "the other side" for society's problems using primitive tools.
 
-There's more we can learn from Rousseau, the ability to see a noble, not in the pages of history, but in the faces of our real life story today. This will help more people see Darth Blockbuster for themselves.
+Digital tools are ready and waiting for the people to solve our many frontline problems. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we want, is the ultimate revolution.
 
-## The Good Kings
+## Good and Bad Stories
 
-Rousseau inspired revolutions. He said the nobility were con artists who hid behind divinity. In Rousseau's time they of course were. Yet, "holy" noble families ruled every European country. There had to be some reason for it, and there was. After western Rome fell in 476 western Europe entered the Dark Ages (500-1000). So called because there was no books, ink, or literate people to write anything down. Nor was there much else, no sanitation, military, judicial system. Civilization was gone. Anarchy ruled. The Dark Ages indeed.
+And that's in short what Rousseau said; let the people prosper, and return the nobility to their natural equality inside a democracy. But he was ignored until frontine anger turned into violent revolutions.
 
-People like Clovis I, Charles Martel, and Alfred the Great took charge. They were master warriors who uses swords, bows, armour, and calvary to fight off invaders. Even better, they headed large families who kept some peace. They soon built castles to protect the newly remade wells, hospitals, and markets. With these protections, the people's cyborgolgy returned with shovels, oxen, thatched houses, buckets, sickels, and more.
+We can learn from him and put his lessons into Techvolution's DNA.
 
-Fittingly, a hierarchy formed around society's use of these primitive tools. We call it feuldalism. You've probably seen it in Robin Hood, Monty Python, or Game of Thrones. Feuldalism was a rigid heirarchy of kings, bishops, dukes, sherrifs, knights, priests, tradesman, and peasants that kept the peace and slowly brought civilization back. The people happily declared the leaders holy, for they experienced the holiness with ever warmer beds and fuller stomachs.
+Importantly, in addition to being a philosoper, Rousseau was also a novelist. And what he did in his philosophy was tell the different between good and bad stories. Not in literature, but in human societies. Let's take a look ourselves Skywalker, using movies because that's what most people will know.
+
+===
+
+All stories are a sequence of events, where a protagonist fights an antagonist, to overcome a problem. The fight to change reality happens in three parts. The first is an introduction of problem and characters. The second is the back and forth battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
+
+Althought its easier to see in some than others, all stories have this make up. The difference between good and bad stories is something else. It depends how much logic and surprise the writer puts into his story. Good stories mix it up, while bad either has too much of one or the other.
+
+**Classic stories:** are about a real-life problem. Protagonist and antagonist think of new ideas, and act on them in a back and forth battle. New ideas give the stories surprises, while fighting to win requires logical actions.
+
+Both characters keep challenging each other, revealing new sides of themselves. This keeps opening up possibilities for what's going to happen next, and giving the audience many "logical surprises".  Audiences are naturally engaged in the magic of good stortelling. The conclusion can be a big victory for the good or bad guys, or somewhere in between.
+
+There's no way to know which stories will reasonate with audiences, but only these stories can reasonate with audiences and become classics like Cinderella, Romeo and Juliette, The Matrix, Star Wars.
+
+**Art stories:** are not about any specific problem. Art films are more about the protagonist's ideas, not acting to overcome a problem. The result is very surprising idiosyncractic behavior, but storylines with no problem solving to logically tie events together. The result is surprising but pointless stories that can't change reality.
+
+Few people like art stories. The ones who do surround themselves with ever more awards, granduer, titles, and elitist culture that needs to get weirder and weirder to maintain interest. Film festivals like Cannes, Sundance, Toronto mainly show art films.
+
+**Spectacle stories:** are about an obvious problem, ie. Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are thus very logical because the problem is very simple; survive or die. Since the action is so instinctual, there's no time for the protagoinst to think of new ideas. The result is very logical but unsuprising stories that can't change reality.
+
+To maintain interest, spectacle movies have to keep ramping up fancy props, special effects, gore, and rauchiness. It doesn't work for too long, so they're usually looking for new customers with mass marketing campaigns. Today most franchise movies, sequels, and remakes are spectacle movies.
+
+![All three stories!](/img\diagrams\techvolution-all-stories.png)
+
+===
+
+In storytelling, logic and surprises counter-balance each other. Withholding one makes art films that are self-important, and withholding the other makes spectacle movies that are  simple. Classic stories are good because they mix the two and create "logical surprises" that open our minds and change things. This is why art/spectacle stories don't have "spoilers", while we want to "go in fresh" for classic stories.
+
+Rousseau noticed society has these three stories. This was important because one works for equality and democracy, and the other two work to enrich the rich and distract the masses.
+
+![Classic heroes](/img\diagrams\techvolution-protagonist-comparison.png)
+
+## Politics of Stories
+
+Politics lives inside these stories. Classic stories are about equality and democracy.
+
+This is because they're based on solving a problem by be controlling a tool. Let's use a different example, _The Matrix_. This story depicts a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the matrix. It's created by machines to distract humans while using their bodies as an energy source. Neo is recruited to help the few untapped humans rebel against the machines. His job is to make the sleeping masses inside the Matrix realize their reality is fake.
+
+The plug into the matrix is the tool that controls the story. Neo must make the people realize they are plugged in. Only they can wake themselves up.
+
+The good guys fight to solve this problem. They choose Neo as their leader and form a hierarchy around him because the matrix is nothing but a rule book the machines write to keep the people asleep. But the good guys know the machines can't see above their ruling philosophy of slavery.
+
+Neo can. He can rise above the matrix's rules, and not only control the matrix, but rewrite the rules!
+
+Neo does it, defeats the machines by control the storry's pivotal tool. And once the problem is solved, Neo returns to being equal members of the community. His hierarchy of support was temporary, being based on solving a frontline problem.
+
+Perhaps he'll be the hero of the next story, but maybe not. It depends on the problem, and who the people decide who will best solve it and be their hero. After every classic story ends, the heirarchy returns everyone to equality.
+
+Spectacle and art stories do not solve frontline problems. Thus, their heirarchies can go on for as long as they can convince people to watch them, or live inside them. Just like the people stuck inside the matrix are watching spectacle. A fake world full of shiny cars, loud music, and 9-5 work days.
+
+The real world sucks, and Neo has to convince the people living in the sucky reality is better than the pleasant fiction. Meanwhile the machines are living an art story of being elites, whose hierachies can go on forever because they're using amazing spectacle to distract the masses.
+
+Of course this story is a exactly the same as Frederick Douglass, Mister Auld, and Sophia. Auld being the antagonist to freedom, Douglass the protagoinst responsible for waking himself, and everyone else up. And Sophia is the masses, who follow the rules even when it causes themselve harm.
+
+Douglass is Neo! And so was Rousseau. He woke people up to the reality. That spectacle and art is bullshit, while heroes who solve problems return to being equal once the job is done. And that's our problem. We can't simply say anyone who heads a heirarchy is bad, because they may be a legitimate hero. How do we know when they aren't? When the extras decide to wake up and realize their frontline problems.
+
+People didn't listen to Rousseau before the extras rose up in revolutions. Like reminding ourself of good news, it's important to note that real heroes do exist. Even the ancestors of Darth King were heroes. Here's a quick history to explain why.
+
+![Classic heroes](/img\diagrams\techvolution-battle-douglass.png)
+
+## Protagonist Kings
+
+In Rousseau's time "holy" noble families ruled every European country. But they were in power because of their ancestors. After western Rome fell in 476 western Europe entered the Dark Ages (500-1000). So called because there was no books, ink, or literate people to write anything down. Nor was there much else, like sanitation, military, judicial systems. Civilization was gone. Anarchy ruled. The Dark Ages sucked.
+
+People like Clovis I, Charles Martel, and Alfred the Great took charge. They were master warriors who uses swords, bows, armour, and calvary to fight off invaders. Even better, they headed large families who kept some peace. They built castles to protect the newly remade wells, hospitals, and markets.
+
+This was a classic story. A hero saw a real-life problem, was determined to change it, rallied supporters, and took on the evil villians. All stories have this heirarchy because the protagonist is in charge and their success at grabbing hold of the all-powerful tools, determines if society improves or not.
+
+Fittingly, a hierarchy formed around society's use of these primitive tools. We call it feuldalism. You've probably seen it in Robin Hood, Monty Python, or Game of Thrones. Feuldalism was a rigid heirarchy of kings, bishops, dukes, sherrifs, knights, priests, tradesman, and peasants. In return for loyalty, the people got was called the "King's peace", which slowly let the people update their cyborgolgy with shovels, oxen, thatched houses, buckets, sickels, and more.
+
+The people happily declared the leaders holy, for they experienced the holiness with ever warmer beds and fuller stomachs. And until their society had politcal institutions like dependable judicial systems and government, the personal rule of the nobilty was a needed stand in. Kind of like a mafia.
+
+The people were an audience who watched fiction become reality; believing in divinty was the logical reaction, like laughter is to comedy. However, the story took generations to finish. By the Renaissance nobody could remember why it started.
 
 As Europe went through the Middle Ages, the Renaissance, the Enlightenment, the invaders were increasingly gone, the water was running, the roads were clean, the markets were busy. Europe had vastly better tools of a vastly better civilization. The only thing that didn't change was the rules.
 
-The nobles were no longer military leaders fighting off Vandals, Vikings, and brigands, but simply born with "noble blood". They only waged war against each other, usually for personal glory. But otherwise they sat atop a hierachy who paid no taxes, did no work, and answered to no one. The nobles used relative peace and prosperity to replace armour with dresses, castles with palaces, and battlefields with banquets and balls.
+## Antagonist Kings
 
-Loving life, and without opposition, these nobles conned the people, and themselves, into believing the rules that made it all possible were sent from God, and should thus never end. The practical reason for noble divinity, fighting off anarchy, was ignored. The nobles lost the plot of their own stories. They held their people back from learning and adopting new tools. It sent Darth King's civilizations into revolutions, and cost him his head.
+The nobles were no longer military leaders fighting off Vandals, Vikings, and brigands, but simply born with "noble blood". They only waged war against each other, and usually only for personal glory. But otherwise they sat atop a hierachy who paid no taxes, did no work, and answered to no one. The nobles used relative peace and prosperity to replace armour with dresses, castles with palaces, and battlefields with banquets and balls.
 
-That's a horrible ending no one deserves or wants. Not even Darth Blockbuster. We need to learn from humanty's past mistakes. I can explain how by explaining the difference between a good and bad night at the movies.
+Loving life, and without opposition, these nobles conned the people, and themselves, with art and spectacle. They lived inside an art culture, where ever more self-importance, eccentricity, gossip, and titles, was the norm. And they distracted the people with spectacle to watch. Brilliant cathedrals, palaces, and wars against other kingdoms to keep the masses occupied. Like franchise movies, these got more intense to keep the story interesting.
 
-## Good vs Bad Stories
-
-Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, cry, laugh, yell, it's a good story. Even more telling was listening to moviegoers walk out. If they marvelled about twists, turns, and cool lines, you know the story was really good because it turned fiction into reality.
-
-The audience is never wrong. They can't be. Laughing, being surprised, remembering cool lines is not audience's job. They're jobs is only to watch. It's the storytellers job to give its audience emotions and memories.
-
-That's what the original nobles did. They told a good story. Europe was in anarchy. Evildoers raided on the regular. Lawlessness was the norm. Tools like irrigation, libraries, and money were damaged, stolen, or didn't even exist. The people were extras watching antagonists have their way.
-
-Kings said follow me! My heirarchy will keep you safe and give you tools to improve your life.
-
-Slowly but surely, they did, today we call it the "King's peace". The people were an audience who watched fiction become reality; believing in divinty was the logical reaction, like laughter is to comedy. However, the story took generations to finish. By the Renaissance nobody could remember why it started.
-
-And that applies to us too. It's important to note, while Rousseau's followers may have been political free, they were economically poor. Hunger, disease, unemployment, illiteracy, were all rampant. The time was basically "economic anarchy".
-
-Like how society loved the original kings for winning the "King's peace", the original economic kings were heroes for winning massive economic growth. They said follow me, recognize my property rights, let me run the economy, my company's will keep you employed and improve your life with new tools like lightbulbs, and toaster ovens.
-
-Slowly but surely, they did. They told a good story during the Industrial Revolutions. The people were again an audience who watched fiction become reality as we overcame economic anarchy. And we did that with many of the primitive tools of today. Schools, colleges, and universities educated the masses. Gas trucks and cars moved resources and products much faster. Oil and coal powered everything.
-
-Darth Blockbuster's forebears like Andrew Stanton, Andrew Carnegie, Vanderbilt, did what Clovis I and the rest did. And like how Darth King was only exposed when new tools empowered the extras so they didn't need to be peasants anymore, Darth Blockbuster was only revealed when digital tools were so powerful, the extras didn't need to be 9-5 working, consumers anymore.
-
-## The Difference Between Good and Bad
-
-A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change reality happens in three parts. The first is an introduction of problem and characters. The second is the back and forth battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
-
-Stories are thus simply the essential progression of incidents that happen to the hero in pursuit of his one goal. Action scenes, or character performances, are merely spices, only to be added in moderation. Like two boxers adjusting to each other's tactics. Mixing the logic of problem solving, with the surprises of conflict, is how good stories become "logically surprising", and thus fun to watch.
-
-The kind of story doesn't matter. Comedies, dramas, tragedies. As long as the sequence of events is logically surprising, an audience will believe in aliens and space operas, machines and virtual realities, or kings and kingdoms.
-
-Telling the difference between good and bad stories is actually hard. Bad stories can seem legitimate because everything happens in a sequence of events. Since we're living inside a bad story, we need to learn the difference between the bad stories with too much logic, too many surprises, and the good ones with the right mixture of both.
-
-**Art:** not about any specific problem. Art films are more about the protagonist, not what problem they overcame or antagonist they defeated. This makes them more like personal journals of "a weirdo growing up " or "suffering through high school". Free from overcoming a problem, and revealing new sides to themselves, art heroes act as they want. The result is very surprising idiosyncractic behavior and storylines with little logic to tie events together. The result is surprising, but illogical, stories.
-
-To maintain interest art stories get weirder and weirder. To fend off critcism, they surround themselves with ever more awards, granduer, and claims of being cultured or being divine. This culture survives by creating superficial social rules for behavior and fashion. Gossip survives as people invariably break these rules and create endless controversy. In Rousseau's time it was liking Beethoven's scandalous music, or not having enough servants.
-
-In our time, you can just watch any entertainment show and count how many time "scandal" or "in fashion" is said.
-
-**Spectacle:** about a obvious problem. Spectacle movies are very logical because the problem is very simple; ie. Godzilla is here, so run like hell and keep running until the movie is over. Since the antagonist is so evil, and the action is so instinctual, there's no room for the protagoinst to reveal new sides of himself and change how the story progresses. The result is logical, but unsuprising, stories.
-
-source of distractions
-
-To maintain interest, spectacle movies keep ramping up props, items, special effects, gore, and rauchiness. They fend off critcism by (falsely) claiming each ramp-up is more popular in mass marketing campaigns. Ex. Most franchise movies, sequels, and remakes.
-
-In our time, you can just watch any infotainment show and count how many time "breaking news" is said.
-
-**Functional:** about a questional problem that divides a rational protagonist and antagonist. Eachs acts to defeat the other, but have time to figure out how. The back and forth storyline give the audience logical surprises, until the conclusion, were we find out if reality will change or not.
-
-Source of equality
-
-There's no way to know which functional stories will reasonate with audiences, but only functional stories can truly reasonate with audiences and become classics. Ex. Cinderella, Romeo and Juliette, The Matrix, Star Wars.
-
-Logic and surprises counter-balance each other. Withholding one makes art films that are often too weird, and withholding the other makes spectacle movies that are often too simple. Functional stories work so well because they mix the two and create "logical surprises". It's why the art/spectacle don't have "spoilers", while we want to "go in fresh" for functional stories. For Techvolusion, and our mission of distributing the power of new tools to the masses, the key difference between stories is their conclusions.
-
-## After the Story Ends
-
-The most important difference between stories is their conclusions. Art films don't overcome problems, so can end whenever they want. Spectacle movies overcome problems, but only very basic problems. However, functional stories are about overcoming a real-life problem, thus have a natural conclusion; did the protagonist win?
-
-Functional stories form temporary hierarchy's to solve a problem. A regular person sees a problem with society, decides to change it, rallies support, and becomes the hero by taking on the antagonist. At the conclusion we find out who wins, by seeing who holds the pivotal tool that controls society's fate.
-
-Take _Star Wars_ for example. It's about saving the rebellion by destroying the Death Star. Once the pivital tool is destroyed, the story is done. Luke is no longer the protagonist, Vader isn't the antagonist. Light Side defeated the Dark side, nullying the old rules, and passions can follow something else.
-
-Only functional stories create hierarchies for a reason, and therefore can disband when that reason ends. Once disbanded everyone returns to equality. When the next problem arrives, a new heirarchy can form and create entirely new heroes and villians, inside a new story. Maybe Darth Vader will return to being a good guy, maybe Han Solo gets bribed by the bad guys. Or maybe we never hear from these people again.
-
-But what if the heroes don't want to become normal again. What if they want their status to go on forever. They have to stop telling good functional stories, but the most resort to bad stories via art and spectacle.
-
-And that's what happened with Darth King.
-
-### Loving the King, or Loving the King's Peace
-
-So that's how a good and bad night at the movies explains what happened to Darth King. At first he wasn't "Darth" at all. You could even say the early nobles were Jedi. While they weren't perfect, they were the protagonists inside functional stories that rebuilt civilizations, and for the most part let the people prosper with their own tools. They created the "Kings peace" from anarchy because they solved problems inside a good story.
-
-It's just the story took many generations to finish. When the functional story ended, nobody rememered they were even living it anymore. The natural conclusion of divine nobility was over, but the main characters didn't want it to end. When the Renaissance, and Enlightenment greatly created new tools, and increased society's wealth, they especially didn't want the good times to end, so the nobles used art and spectacle to keep themselves in power.
-
-Visit European functional castles and extravadent palaces, modest churches and brilliant cathedrals, and you'll see the transformation from function to spectacle in Europe's buildings. Compare the clothes of armoured clad Charles Martel, and the dress wearing Louis XIV, and you'll see the transformation from function to art.
+Visit European classic castles and extravadent palaces, modest churches and brilliant cathedrals, and you'll see the transformation from function to spectacle in Europe's buildings. Compare the clothes of armoured clad Charles Martel, and the dress wearing Louis XIV, and you'll see the transformation from function to art.
 
 Frontline problems piled up. The people's situation barely changed, and arguably got worse, from 1000 to 1778. Their houses were still thatched. Their still used hand tools. They still paid the vast majority of the society's taxes. They were still banned from advancing in official society. Feuldalism became a caste system controlled by con artists who are rightfully called Darth King for fought against natural equality and distributing the power of new tools to the people.
 
-## The Extra's Choice
+Darth King used art to tell themselves the the rules were sent from God, and should thus never end. The practical reason for noble divinity, fighting off anarchy, was ignored. The nobles lost the plot of their own stories. They held their people back from learning and adopting new tools. It sent Darth King's civilizations into revolutions, and cost him his head.
 
-Now, here's how we apply this Techvolution. Remember we need to empower extras to jump up and decide winners. From their perspective there isn't one story going on, but two people claiming to be society's leaders.
+## Our Story
 
-But now, we can help the extras see through bullshit better. Not only can extras use majic to decide which person to support, but she will also know that art and spectacle is a bad sign, while function and equality is a good sign.
+ALl this applies to us too. It's important to note, while Rousseau's followers may have been political free, they were economically poor. Hunger, disease, unemployment, illiteracy, were all rampant. The time was basically "economic anarchy".
 
-Here's how the extras should see their choice. I'll use Sophia as an example again. The fact that Douglass wants to read, while Hugh wanted him not too, means Hugh was Darth Slavery, while Douglass was a Jedi. While Sophia did use majic to tell her to teach Douglass, she fell to the rules of a old ruling philosophy. In addition to majic, the Hugh vs Douglass story had other qualities showcases hero and villian.
+Like how society loved the original kings for winning the "King's peace", the original economic kings were heroes for winning massive economic growth. They said follow me, recognize my property rights, let me run the economy, my company's will keep you employed and improve your life with new tools like lightbulbs, stoves, and toaster ovens.
 
-Hugh loves never ending hierarchy (represented as a triangle). While, Douglass equality and distributing power (represented as a circle). Hugh lives in a high-society with its own banquet and ball lifestyle, that survives by keeping manual labour in use despite the existence of machinery, education, to do a better job.
+Slowly but surely, they did. They told a good story during the Industrial Revolutions. The people were again an audience who watched fiction become reality as we overcame economic anarchy. And we did that with many of the primitive tools of today. Schools, colleges, and universities educated the masses. Gas trucks and cars moved resources and products much faster. Oil and coal powered everything.
 
-And yes, that's the problem we have now, with Darth Blockbuster.
+Darth Blockbuster's forebears like Andrew Stanton, Andrew Carnegie, Cornelius Vanderbilt, did what Clovis I and the rest did. And like how Darth King was only exposed when new tools empowered the extras so they didn't need to be peasants anymore, Darth Blockbuster was only revealed when digital tools were so powerful, the extras didn't need to be 9-5 working, consumers anymore.
 
-![Sophia's Choice](\../img\diagrams\techvolution-antagonists-protagonists-extras-close-up-douglass.png)
-
-## Our Tools and Story
-
-Our problem today is Darth Blockbuser. He actively chooses to fight against new digital tools changing our way of life. Although we have amazingly powerful new technologies, using these technologies to create new tools is hard. The majic of new digital tools improving everyone's cyborgology is thus rare at home, work, and leisure.
-
-However, prohibiting majic is not Darth Blockbuster's only weapon. He also surrounds himself with art, and distracts the extras with spectacle. Both are bad stories, which require them to ramp up their weirdness, and spectacle, to keep going. The problem solving and equality loving functional stories are put on hold, so that Darth Blockbuster's hold tools can stick around, and keep him in power.
-
-And this same change to art and spectacle started in the 1970's, when digital tools should have been changing our way of life. Here's how John Wayne saw it at the time:
+To defend his today's primitive tools, he surrounds himself with story of self-importance, and distracts the people with spectacle. John Wayne noticed this started, not suprisingly, in the 1970's for movies:
 
 >Now the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it.
 
-The movies kept using ever more spectacle, they turned good stories like Star Wars, Die Hard, Indiana Jones, Predator, Spider-Man, Batman, and so many others, into a never ending list of sequals and remakes, each with higher marketing and production budgest to produce the spectacle that keeps it alive.
-
-The movies, also become ever more artful. When moviemakers weren't selling out to spectacle movies, they compensated for its boring stories, with ever more artful ones. Sundance, Toronto, Cannes and other film festivals celerated films, while the public only watched them walk the red carpet.
-
-This same mixture of spectacle and art expanded through all pre-digital tools in suburbia. Detached homes got ever more spectular, bigger sizes, designer fashion. Cars got bigger, more size, more chrome, more horsepower. Televisions increase in size. All these were used to promote a "Desperate Housewives" suburban lifestyle of drinking win, holding house parties, and being a office worker who didn't do manual labour but talked alot of saving the world via red / blue politics.
-
-All tools that existed pre 1970, grew their spectacle and art to save themselves from being surpassesd by digital tools. Houses didn't come made with solar panels. Cars were not allowed to go electric. Televisions couldn't connect to streaming services. The power of digital tools was withheld from the extras by Darth Blockbuster's majical interference, and with the use of spectualr and artful stories.
+This same thing happened through suburnan "American Dream". Detached homes got ever more spectular, bigger sizes, designer fashion. Cars got bigger, more size, more chrome, more horsepower. Televisions increase in size. All these were used to promote a "Desperate Housewives" suburban lifestyle of drinking win, holding house parties, and being a office worker who didn't do manual labour but talked alot of saving the world via red / blue politics.
 
 And, if we're going to change that, we need to realize all bad stories eventually end badly, so.... shit something is wrong...
 
@@ -639,35 +619,33 @@ The movies, and later television, are merely tools that help tell stories. Each 
 
 The kinetoscope was like a vending machine for movies. Customers looked through a peep hole to see clips of boxing matches or dance routines. It was a popular noveltly, kinda like GIFs on Instagram. Edison owned the patents and created the New Jersey based Motion Picture Patent Corporation (MPPC) to make sure everyone in the young movie industry paid their dues.
 
-After a few years of MPPC's interference and legal threats, in what amounted to shakedowns, movie companies moved to Los Angeles to get away. And as new projector technology came, MPPC lost its patent monopoly anyway, and the movie industry was free to grow in LA's good weather, cheap land, and no stiffling East Coast corporate hierachies.
+After a few years of MPPC's interference and legal threats, in what amounted to shakedowns, movie companies moved to Los Angeles to get away. As new projector technology came, MPPC lost its patent monopoly anyway. The movie industry was free to grow in LA's good weather, cheap land, and no stiffling East Coast corporate hierarchies.
 
-And best yet technology kept improving. New projectors could show movies on huge screens. Although reels weren't long enough yet to show long movies. With the new projectors, movie theaters called Nickelodeons (because admission cost a nickel) opened up across the country. The movies were still novelties, showing exotic animals, news reels, or sports highlights, but getting better. Kind of like YouTube videos instead of GIFs.
+And best yet technology kept improving. New projectors could show movies on huge screens. Although reels weren't long enough yet to show long movies. With the new projectors, movie theaters called Nickelodeons (because admission cost a nickel) opened up across the country. The movies were still novelties, showing exotic animals, news reels, or sports highlights, but getting better, like Instagram stories, instead of GIFs.
 
-By the 1920's film reels were long enough to show three act stories. Sound still wasn't synched with film. Instead movies had subtitled dialogue and theatres used live music bands to communicate plot points.
+By the 1920's film reels were long enough to show three act stories. Although sound still wasn't synched with film, so movies had subtitled dialogue and theatres used live music bands to communicate emotions.
 
 In 1927 film was finally synchronized with sound, giving movies dialogue and music. For the first time in history, full stories were not limited to a physical theatre. Any movie theatre in the world could show any story. A new storytelling tool was thus created.
 
-The people certainly felt movie majic. No longer a novelty, the movies were like Netflix, and attracted millions every week. American industry rushed to control the booming industry. American culture was told on the silver screen. Leading actors became cultural icons. The industry exploded with profits. Although the people controlled none of it, their interest and loyalty made it happen one movie ticket at a time
+Like Instagram or Netflix popularity today, the people certainly felt the magic of good storytelling, and the majic of needing the theatre. No longer a novelty, the movies attracted millions every week. American industry rushed to control the booming industry. American culture was told on the silver screen. Leading actors became cultural icons. The industry exploded with profits. Although the people controlled none of it, their interest and loyalty made it happen one movie ticket at a time
 
 Of course, all the technology that made the movie industry so rich and powerful was physical. Data storage, transport, and viewing was physical film, light projectors, and delivery trucks.
 
-This didn't change until a new tool was born in 1948. Televisions used a different mixture of technologies. Huge magnetic tape reels stored content. Radio transmitted content over the airwaves. And televisions recieved the transmissions and displayed the content on tube televisions.
+This didn't change until a new tool was born in 1948. Televisions used a different mixture of technologies. Huge magnetic tape reels stored content. Radio transmitted content over the airwaves. And televisions recieved the transmissions, and displayed the content on tube televisions.
 
 Broadcasts television companies like NBC, ABC, and CBS, now competed with movie theatres. TV story quality wasn't as good, but the convenience was huge; especially as Americans slowly moved away from the cities packed with movie theatres into the suburbs packed with TV's.
 
 From the 1950's to the early 1980's nothing much changed in the entertainment industry. Movies and television got better technologies. Film reels got clearer, color, and widescreen. Likewise, televisions got bigger and bandwidth improved with cable. But no new tools were created. The people still couldn't choose or produce their own content.
 
-Then came new tools. The magentic tapes databases broadcasters used got small enough to make home video cassette recorder (VCR). VCR's cut out the broadcaster, who of course sued the manufacturer Sony for letting people break the rules and "time shift" television shows. The case ended up in the Supreme Court in 1984.
+Then came new tools. The magentic tapes databases that stored TV broadcasters content, got small enough to make home video cassette recorder (VCR). VCR's cut out the broadcaster, who of course sued the manufacturer Sony for letting people break the rules and "time shift" television shows. The case ended up in the Supreme Court in 1984.
 
-In a 5-4 vote, the extras were free to add the VCR to their cyborgology. The power to record and watch videos was distributed to the people. Of course VCRs, home cameras, and renting movies became very popular in the late 1980's. The most successful video rental company took the name "Blockbuster", the common term for popular movies. The entertainment industry forgot about its objections, and gladly put its content on Blockbuster's busy shelves.
+In a 5-4 vote the power to record and watch videos was distributed to the people; the extras were free to add the VCR to their cyborgology. VCRs, home cameras, and renting movies became very popular in the late 1980's. The most successful video rental company took the name "Blockbuster", the common term for popular movies. The entertainment industry quickly forgot about its VCR objections, and gladly put its content on Blockbuster's busy shelves.
 
-Home entertainment kept getting better. In the late 1990's came DVD's and flatscreen televisions. DVD's were more advanced CD's, and worked similar to videotapes, except they were digital. Meaning data was stored as "1 or 0". Plasma or LCD flatscreens televisions were much bigger then tube televisions, and since they were digital too, they were High Definition.
+Home entertainment tools kept getting better. In the late 1990's came DVD's and flatscreen televisions. DVD's were more advanced CD's, and worked similar to videotapes, except they were digital. Meaning data was stored as "1 or 0". Plasma or LCD flatscreens televisions were much bigger then tube televisions, and since they were digital too, they were High Definition.
 
-Even more people rushed to upgrade their cyborgology with DVD's and home theatres. Blockbuster rental stores got even more packed. And people started buying hundreds of DVD's for home libraries. The entertainment industry loved it. They didn't even care movie theatre attendence dropped heavily. In fact, they started to use theatres as marketing hype. The money was in DVD sales.
+Even more people rushed to upgrade their cyborgology with DVD's and home theatres. Blockbuster rental stores were even busier, especially as people started buying hundreds of DVD's for home libraries. The entertainment industry loved it. They didn't even care movie theatre attendence dropped heavily and many went banktrupt. In fact, they started to use theatres as marketing hype. The money was in DVD sales.
 
-Movie theatres struggled because of DVD. Studio's are not allowed to own or even coordinate with movie theatres. It was a rule made in 1948 called the Parmount Consent Degrees. It's the reason why a movie ticket and popcorn are so expensive. Studio's get 80% of the former and theatres live on the latter.
-
-It's also why the studio's loved DVD sales, because they kept most of it themselves. Yet they didn't notice, that the data transmission, data storage, and data viewing technologies that of the movie industry was was now almost entirely digital.
+Yet they didn't notice, that the data transmission, data storage, and data viewing technologies of the movie industry was now almost entirely digital.
 
 Except movie distribution. People still had to drive to pick up their DVD's or visit a movie theatre. Hence, people still needed to concentrate around movie theatres, rental stores, or TV guides (i.e. the castles with gatekeepers), to acccess their digital data.
 
@@ -675,34 +653,36 @@ Until they didn't.
 
 The internet, the transfer of digital information that was used for email and webpages since the 1970's, had kept getting better and faster. And in the early 2000's the internet got High Speed, and could finally transfer 1's and 0's of a DVD faster then someone driving to pick one up.
 
-And here enters places like The Pirate Bay (2003). Like Napster, it introduced digital movies to people first. Altough the entertainment industry used digital camera's, film projectors, email, webpages, YouTube, they wanted the people to keep using DVD's; they even nice enough to make two new ones called Blu-Ray (2006) and HD-DVD (2006).
+And here enters The Pirate Bay (2003). Like Napster, it introduced digital movies to people first. Altough the entertainment industry used digital camera's, film projectors, email, webpages, YouTube for years, they didn't want people using a new tool, but to keep using their profitable DVD technology; they even made two new ones called Blu-Ray (2006) and HD-DVD (2006).
 
 The people wanted the better tool. Pirate Bay was the first to offer it. It was a pain, it was hard to learn, but it was better than driving.
 
-Pirates you might say! People are evil, people are lazy, people are thieves! Really? Then explain the graph below, the one what shows how the evil people responded with protagonist Reed Hastings made a new internet tool and distributed its powers to the people. What we call Netflix.
+Pirates you might say! People are evil, people are cheap, people are thieves! Really? Then explain the graph below, the one what shows how the evil people responded with protagonist Reed Hastings made a new internet tool and gave internet movies to the people. What we call Netflix.
 
     <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script>
     <script type="text/javascript">
       trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Torrent","geo":"US","time":"2004-01-01 2018-11-04"},{"keyword":"Netflix","geo":"US","time":"2004-01-01 2018-11-04"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=Torrent,Netflix&hl=en-US","guestPath":"https://trends.google.com:443/trends/embed/"});
     </script>
 
-If middle class Americans, Canadians are pirates, why didn't Blockbuster stores have steal bars? The same reason why we don't steal Netflix. Blockbuster was a fair deal, until data streaming was possible. Then Netflix was.
+If middle class Americans, Canadians are pirates, why didn't Blockbuster stores have steal bars? The same reason why we don't steal Netflix. Blockbuster was a fair deal, until data streaming movies was possible. Then Netflix was.
 
 The people elected to download movies from pirate bay because it was a upgrade available to their cyborgology. The only natural rule is natural selection. The people choose the best tool because with majic, they evole into better cyborgs. It's not the people's job to wait for an industry to catch up to nature. But the other way around.
 
-Maybe the industry would have noticed that, if they weren't so busy at so many movie premieres, talk shows, award shows, and launch parties. The Oscars, Correspondence Dinners, Emmy's, Golden Globes, Cannes Film Festival, Sundance Film Festival, Toronto International Film Festival, and so many others. All modern version of banquets and balls, with gates to keep you out, and rules put in place to make the good times of the DVD going. Party loving, profit loving, foresight lacking is a recipe for antagonism, hence Darth Blockbuster rose up.
+Maybe the industry would have noticed that. But they surrounded themselves with art and wanted people to being distracted with spectacle (Blu-Ray, HD-DVD). While calling their own customer's thieves, the movie industrt held countless banquets and balls on the people's DVD dollars; movie premieres, talk shows, award shows, and launch parties. The Oscars, Correspondence Dinners, Emmy's, Golden Globes, Cannes Film Festival, Sundance Film Festival, Toronto International Film Festival, and so many others. All modern version of banquets and balls, with gates to keep you out, and rules put in place to make the good times of the DVD going. Party loving, profit loving, foresight lacking is a recipe for antagonism, hence Darth Blockbuster rose up.
 
-Digital tools empowered the extras to fight back, and check his selfishness. Techvolution tells them its right to do it. As for it being against the rules, it was, and maybe it should be, I was naive back then and actually never did download a movie. I was the smuch buying DVD's. Hey, do you think Darth Blockbuster will buy back all those DVDs, Blu-Rays, and HD-DVDs he tole me, and us, was better then illegal downloading?
+While the spectacle of Blu-Ray and HD-DVD tricked some people. Like with Wikipedia, the vast majority followed the natural majic of online movie streaming instead, even when it was against the rules to improve society.
+
+Digital tools empowered the extras to fight back, and check his self-important art story. Techvolution tells them its right to do it. As for it being against the rules, it was, and maybe it should be, I was naive back then and only ever downloaded a few movies. I was the smuck buying DVD's. Hey, do you think Darth Blockbuster will buy back all those DVDs, Blu-Rays, and HD-DVDs he told me, and us, was better then downloading? I'll take half-price.
 
 ### Decision Time
 
-Well extras, stormtroopers, that's your master. He's a Sith Lord. While he may be a great person, nice to you and his employees, wears nice clothing, tips well, whoever he is doesn't matter. He is an antagonist to society. He fought against video tapes, interet songs, and internet streaming.
+Well extras, stormtroopers, that's your master. He's a Sith Lord. While he may be a great person, nice to you and his employees, wears nice clothing, tips well, whoever he is doesn't matter. He is an antagonist to society. He fought against video tapes, interet songs, and internet streaming. If society was up to Darth Blockbuster, we'd all be paying for long distance, writing directions on napkins, waving down cabs, paying for late charges, and putting quarters into pay phones.
 
 What's going to happen when 3D printing threatens his merchandising. Or when Virtual Reality let's people live their own stories. Or whatever! We shouldn't have to argue for new tools!
 
-You remember world with no majic. The giant downturn our society started in the 1970's. Darth Blockbuster was the guy who slowly lost. Yet, the Sith live on. It's why our politics is filled with hatred. We people work two jobs to pay the bills. Why our climate is changing. Because we as digital tools are invented, the Sith keep writing laws, regulations, and fighting lawsuits to try and made us live like it's 1970 forever.
+But since the 1970's our society, our politics, has been falling apart because of Darth Blockbuster. We try to fix things with red / blue politics, but they don't undertand real politics is the control of new tools.
 
-You fight the Sith now, or we will.
+So we the people work two jobs to pay the bills. Why our climate is changing. Why our roads are traffic jammed. Because we as digital tools are invented, the Sith keep writing laws, regulations, and fighting lawsuits to try and made us live like it's 1970 forever.
 
 Let Obi-Wan go!
 
@@ -744,7 +724,7 @@ _Paul Baran's story was adapted from Walter Isaacson's awesome book_ The Innovat
   
 # DARTH KING CHARLES
 
-Although I like to think this has all been pretty convincing. I really like Obi-Wan, so I'm going to mention how antagonists may be well intetioned, but they'll never change their mind. Indeed, the problems we're having in our world with no majic has happened before. Let's go back the ruling philosophy of the nobles divine right, see how it all worked out for Darth King Charles.
+Although I like to think this has all been pretty convincing. I really like Obi-Wan, so I'm going to mention how antagonists may be well intentioned, but they'll never change their mind. Indeed, the problems we're having in our world with no majic has happened before. Let's go back the ruling philosophy of the nobles divine right, see how it all worked out for Darth King Charles.
 
 ## Place in Line
 
@@ -768,17 +748,17 @@ But then Darth King Charles did speak, and that fact, showcases how set the Sith
 
 ### Charles Speaks
 
-Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. It's annoying to listen to. Like choppy music coming from a damaged speaker.
+Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. It's annoying to listen to. Like music coming from a damaged stereo speaker.
 
-That's because for a stutter, talking is like playing guitar with music notes written by a gremlin. Some words are easy to say, some are ~~difficult~~ hard, and some decide which at the last mili-mili-mili-second. The stutterer has to jump around the words in real time. Fail and you miss a --- beat.
+That's because for a stutterer, talking is like playing guitar with music notes written on the fly by a gremlin. Some words are easy to say, some are ~~difficult~~ hard, and some decide which at the last mili-mili-mili-second. The stutterer has to jump around the words in real time. Fail and you miss a --- beat.
 
-But a stutter isn't just pauses. Stuttering is like getting hit with a stun gun or having a mini-seizure. You're body seizes. Your neck tenses. You stop breathing. It's horrible. And it can happen every fourth word.
+But a stutter isn't just pauses. Stuttering is like getting hit with a stun gun and having a mini-seizure. You're body seizes. Your neck tenses. You stop breathing. It's horrible.
 
 The physical pain isn't even the worst. Getting _that_ look from people is. The "what the fuck is wrong with you?" look.
 
 Hello, my ~~name~~ I go by John-ne. I wa-want ~~can~~ want to help ~~master~~ human evol-ution. I've been ~~writ~~ trying to write this book for ~~about~~ ah ~~five~~...
 
-The prospect of talking, except to yourself and a dog, which Charles had two of, causes huge anxiety. The idea of never conversing with anyone causes huge loneliness and depression. _The King's Speech_ showed it well. Stuttering usually forces a person to be shy, passive, eager to please, and come up with weired reasons for their erratic speaking like hand gestures, random silence, binge drinking, and swear words (which for some reason never cause a stutter). It's entirely possible Charles' relationship with Parliament was so bad because he simply didn't want to talk with them. Not that he would ever admit he had a impediment. After all, he was a king!
+The prospect of talking, except to yourself and a dog, which Charles had two of, causes huge anxiety. The idea of never conversing with anyone causes huge loneliness and depression. _The King's Speech_ showed it well. Stuttering usually forces a person to be shy, passive, eager to please, and come up with weired reasons for their erratic speaking like hand gestures, random silence, binge drinking, and swear words (which like being alone or dogs, for some reason never cause a stutter). It's entirely possible Charles' relationship with Parliament was so bad because he simply didn't want to talk with them. Not that he would ever admit he had a impediment. After all, he was a king!
 
 I know this all because luckily enough (kidding) I have the same affliction as Charles. It was the reason I got a job in a car insurance claim department. After a vice president at an old company secretly told my supervisor I wasn't allowed to talk to customers, for fear of embarrasing the company, I was like shit I guess I don't have this damn gremlin under control. I wasn't even that mad about it (although I was that it was an open secret for over a year). I never told anyone I had the impediment, so despite therapy as a kid, it was obviously still a problem.
 
@@ -792,61 +772,62 @@ Super-shock speech therapy! After about a year I didn't have to massage my jaws 
 
 The point is this. That's what it took for me to mostly, except when pretenious cultures limit my word choices, never stutter. It's like night and day. The anxiety washed away. A hidden outgoing personality was brought out and frankly is fun, although still surreal, to be.
 
-Yet Charles never had this lesson. Despite being adament he was God's chosen leader (or perhaps because of it), he was famoulsy shy and quiet his whole life because the gremlin likes it that way. Even when fighting for 16 years defending his ruling philosophy, Charles still probably had to massage his strained jaws every night. I can sympathize. The gremlin is a bully.
+Yet Charles never had this lesson. Despite being adament he was God's chosen leader (or perhaps because of it), he was famoulsy shy and quiet his whole life because the gremlin likes it that way. Even when fighting for 16 years defending his ruling philosophy, Charles still probably had to massage his strained jaws every night. I can sympathize. The gremlin is an asshole.
 
-At Charles trial, he was accused of being "a Tyrant, A Traitor, Murderer, and a public enemy to the Commonwealth of England". Not a bad king, but a bad ruler. The people of England, empowered with many books, scientific instruments, and especially guns of a healthy civilization, were firing their leader. A novel ideal at the time.
+At Charles trial, he was accused of being "a Tyrant, A Traitor, Murderer, and a public enemy to the Commonwealth of England". Not a bad king, but a bad ruler. The people of England, empowered with many books, scientific instruments, and especially guns of a healthy civilization, were replacing their leader. A novel ideal at the time.
 
-The prosecutors didn't have Rousseau's new ruling philosophy to explain their dreams of a firing a leader. They simply said Charles didn't have a "divine right to rule" and asked for the death penalty. Charles wouldn't even acknowledge the trial. He didn't believe his life was on the chopping block. Kings don't answer to children.
+The prosecutors didn't have Rousseau's new ruling philosophy to replace the "divine rights of nobles". They simply said Charles was a tyrant and asked for the death penalty. Charles wouldn't even acknowledge the trial. He didn't believe his life was on the chopping block. Kings don't answer to children.
 
-Charles wasn't pretending or bluffing. He wasn't proud, or stubborn. He psychologically couldn't understand even the idea of being wrong. He lived in a different story with a different ruling philosophy. One that made him the protagonist.
+Charles wasn't pretending or bluffing. He wasn't proud, or stubborn. He psychologically couldn't understand even the idea of being wrong. Like Mr. Auld, he lived in a different story with a different ruling philosophy. One that made him the protagonist.
 
-The judges convicted Charles anyway. He was sentenced to death by removing the head from the body. Charles was flabbergasted. He finally spoke in his defense at the execution. Fuck the ringing bell of a claims department, Charles only had words to justify himself to his (supposed) subjects, and to history. And... and... no stutter. Not once!
+The judges convicted Charles anyway. He was sentenced to death by removing the head from the body. Charles was flabbergasted. He finally spoke at the execution. Fuck the ringing bell of a claims department, Charles only had words to justify himself to his (supposed) subjects and to history. And... and... no stutter. Not once!
 
 Charles freely, openely, spoke the music of his mind.
 
-He didn't just speak, he spoke so eloquently many people, even those who hated him, were impressed. He spoke so well, so clearly, people heard no gremlin! Fuck... I'm happy for him. It must have felt like God killed the gremlin. What vindication! Indeed Charles's last words were a clearly spoken:
+He didn't just speak, he spoke so eloquently many people, even those who hated him, were impressed. He spoke so well, so clearly, the people heard him speak! Fuck... I'm happy for him. It must have felt like God killed the gremlin. What vindication! Indeed Charles's last words were a clearly spoken:
 
 > Truly I desire their (the people’s) liberty and freedom as much as anybody whomsoever; but I must tell you their liberty and freedom consist in having of government, those laws by which their life and their goods may be most their own. It is not for having a share in government, Sir, that is nothing pertaining to them. A subject and a ruler are clear different things...therefore I tell you that I am the Martyr of the people. I die a Christian according to the profession of the Church of England, as I found it left me by my father... I have a good Cause and I have a gracious God. I will say no more.
 
-Clealr spoken words about being totally behind the times. Kings were no longer needed. The people could rule themselves. Charles should have been happy his children grew up. He could have helped them grow up by conceding powers to Parliament and avoiding 16 years of war. Instead he used their money to hire foreigners to kill them.
+Clealr spoken words about being totally behind the times. Kings were no longer needed. The people could rule themselves. Charles should have been happy his children grew up. He could have helped them grow up by conceding powers to Parliament and avoiding 16 years of war. Instead he live in splendour, hide behind spectacle, used the people's money to hire foreigners to kill them.
 
-Later kings still didn't learn. Even more distanced from the frontline inside their palaces, banquets and balls, their heads filled with gremlins that said the rules are just, good, and will never end. France, Spain, Russia had country wide banktrupcies, food shortages, and revolutions, and it didn't matter. The ultimate gremlin is isolation from the frontline. Many more Darth Kings faced the chopping block with the voice of God calling them martyrs.
+Later kings still didn't learn. Even more distanced from the frontline inside their palaces, banquets and balls, their heads filled with different gremlins that said the rules are just, good, and will never end. France, Spain, Russia had country wide banktrupcies, food shortages, and revolutions, and it didn't matter. The ultimate gremlin is isolation from the frontline. Many more Darth Kings faced the chopping block with the voice of God calling them martyrs.
 
 So why did you think Darth Blockbuster would ever let Obi-Wan go?
 
-# OBI-WAN FIGHTS ON EGGSHELS
+# OBI-WAN FIGHTS
 
 The battle scene. I Obi-Wan face Darth Blockbuster. He stares back with hate. I'm still bound. He could strike me down. Instead he lifts his finger, and my cuffs release.
 
 My lightsabre is on a table. I grab it. Turn it on. He does too. The light of both hum together, a nice tune that foretells violence.
 
-Why didn't he strike me down. He wants to prove something. Skywalker and I were making good points. Darth Blockbuster needs people to follow his rules, and no better way than for them to see him the hero, and his rules as just. Hero's don't murder, they avenge wrong doing.
+He didn't he strike me down because he wants to prove something. Skywalker and I were making good points. Darth Blockbuster needs people to follow his rules, and no better way than for them to see him the hero, and his rules as just. Hero's don't murder, they avenge wrong doing. I must die in open combat inside a court of the rules.
 
-So I fight the Sith lord. We jump up and down. Slice left and right. Slash, kick, punch, we're both beating the other bloody. Nothing divides our powers. Neither is reaching for salvation. We both have the same tools. And that's been the problem all along Skywalker.
+So I fight the Sith lord. We jump up and down. Slice left and right. Slash, kick, punch; we're beating each other bloody. Nothing divides our powers. Neither is reaching for salvation. We both have the same tools. And that's been the problem all along Skywalker.
 
-I mentioned this several times but never pointed it out. This battle between protagonists and antagonists is ages old. It was fought when we invented swords, bows and arrows, the printing press, muskets, telescopes, rifles, microscopes, anti-virals, the internet. Like clockwork, whenever we create a new tool, the Sith fight to retain power, the Jedi fight to distribute it. When the former wins, the people's cyborgology stays the same. If the latter wins, the people upgrade their powers to solve frontline problems better.
+I mentioned this several times. This battle between protagonists and antagonists is ages old. It was fought when we invented swords, bows and arrows, the printing press, muskets, telescopes, rifles, microscopes, anti-virals, the internet... Like clockwork, whenever we create a new tool, the Sith fight to retain power, the Jedi fight to distribute it. When the former wins, the people's cyborgology stays the same. If the latter wins, the people upgrade their powers to solve frontline problems better.
 
-Galileo, John Locke, Oliver Cromwell, Jean-Jacques Rousseau, George Washington, Frederick Douglas and so many other great people and armies have fought for the Sith. Yet the Sith keep coming back. It's so easy for them to take over society's rule book.
+Galileo, John Locke, Oliver Cromwell, Jean-Jacques Rousseau, George Washington, Frederick Douglas and so many other great people and armies have fought the Sith. Yet the Sith keep coming back. It's too easy for them to take control of society's rule book and but the extra's back in the matrix of bad stories and bad rules.
 
-The Sith's frequent victories mean the line between old and imagined new societies gets wide. These wider lines represent increasingly different realities. Officially, we follow the Sith's rules out of fear of his Death Star. Yet evolution stops for no one. Thus, humanity still dreams and works towards distributing the power of new tools. Old and new society's co-exist, but live ever wide apart.
+The Sith's frequent victories mean the line between old and imagined new societies gets wide. We follow the Sith's rules out of fear of his Death Star. Yet evolution still keeps us adapting. Which means we keep fighitng the same fight. To distribute the power of new tools. No matter how hard it's going to be.
 
-When someone has their own version of reality, we call it a mental illness. Dealing with this person is said to be like "walking on eggshells", because it's very hard to socialize with a unique version of right and wrong. The lesson is when Techvolution is held back, and society gets more out of whack, the Sith and Jedi are walking on egg shells with each other. Compromise is impossible.
+PICTURE
 
-Wide lines brings more violent battle scenes like civil wars and revolutions. Human technological evolution thus happens in jumps. Techvolution only works when we all seeminglessly drop bad tools for new ones.
+## LIFE STAR OVER EGGSHELLS
 
-Thus, it was never my goal to defeat _this_ Death Star. Destroy one and like in the _Star Wars_ movies the Sith just make another one. The real reason Darth Blockbuster let me go, because even if I strike him down and Techvolution becomes a ruling philosophy, another Darth will return and corrupt society's rule book again.
+When someone has their own version of reality, we call it a mental illness. Dealing with this person is said to be like "walking on eggshells", because it's very hard to socialize with their unique version of right and wrong. The lesson is when Techvolution is held back, and society gets more out of whack, the Sith and Jedi are walking on egg shells with each other. Compromise is impossible.
 
-I, Obi-Wan knows, for as long as human created rule book exists, killing one king, only delays another one taking his place.
+Techvolution only works when everyone, like in Nature, seemingless drops bad tools for new better ones.
 
-The Death Star is a tool, a corrupt rule book that keeps new tools down, and the extras distracted from their natural Techvolution. But it's a tool nonetheless. Thus, we can fight the Sith for eternity trying to keep it clean. But our society shouldn't keep fighting this fight.
+Thus, it was never my goal to defeat _this_ Death Star or _this_ Sith Lord. For as long as our civilization uses a human created rule book, killing one king, only lets another take his place.
 
-To truly learn the lesson we must create a tool that replaces the Death Star. One that continually enforces our natural evolution. Where the only rule is natural selection.
+To truly win, we must create a better tool that replaces the Death Star. One that continually enforces our natural evolution. Where the only rule is natural selection.
 
 That's what I wanted to teach you Skywalker. To use the battles of good and evil in history, to understand Techvolution, to not only make it a ruling philosophy, but to make a tool that will keep it in power and forever kill the Sith.
 
-And only the extras can build it. Only the majic of many extras can defend against a corrupted rule book. And now I look at you and see not the kid asking about the rebellion of the mind, but the kid who will forever win the rebellion against the Death Star with our very own tool. The opposite of the Death Star. An uncorruptable rule book, governed by Techvolution. The Life Star.
+And now I look at you and see not the kid asking about the rebellion of the mind, but the kid who will forever win the rebellion against the Death Star with our very own tool. The opposite of the Death Star. An uncorruptable rule book, governed by Nature and Techvolution. The Life Star.
 
-So I lift my sword, and smile. I smile at eternal rest. Because the Jedi will no longer face down the Sith. It's the extras job now. So I raise my sword, and Darth Blockbuster strikes me down. You know the lesson. The person who holds the tools wins. The civilization that makes the Life Star will win forever.
+You can build it. I can't. It can't be made by old heroes, but only the extras, and the freedom and demand to majically connect with any tool they want. It's the ultimate revolution.
 
-* if evolution doesn't have Darth Blockbuster, then why should Techvolution?
-* up to Darth Blockbuster, we'd all be paying for long distance, writing directions on napkins, waving down cabs, paying for late charges...
+So I lift my sword, and smile. I smile at eternal rest. Because the Jedi will no longer face down the Sith. It's the extras job now, so make a tool that will forever kill them.
+
+So I raise my sword, and Darth Blockbuster, the ignorance protagonist of a dead ruling philosophy, strikes me down.I did happy. Because you know the lesson. The person who holds the tools wins. Build the Life Star and you'll never face a Sith Lord again.

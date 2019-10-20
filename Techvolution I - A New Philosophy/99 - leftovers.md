@@ -851,7 +851,6 @@ _The plot_ - The sequence of events. More area means more "logical surprises" ar
 _Build up_ - Long periods when the protagonists suffers, or makes a plan.
 _Twist and Turn_ -  When the plot suddenly surprises us and we realize something new.
 
-
 ![Spectacle Story](\../img\breakdowns\story-spectacle.png)
 ![Functional Story](\../img\breakdowns\story-functional.png)
 
@@ -871,7 +870,6 @@ Let's see all these layers in a few movies.
 
 Let's take a break from Star Wars comparisons for a short while and use another geek story. The Matrix. This story depicts a dystopian future in which most of humanity is unknowingly trapped inside a simulated reality, the Matrix, created by AI machines to distract humans while using their bodies as an energy source. Ne" is recruited to help the few untapped humans rebel against the machines by making the masses inside the Matrix realize their reality is fake.
 
-
 If you were to look at a good story, here's what you'd see.
 
 ![The Matrix](\../img\breakdowns\techvolution-the-matrix-layers.png)
@@ -881,3 +879,126 @@ Although increasingly unhappy, the people kept watching the sequels of divine no
 We can sympathize. Become a projectionist and you'll notice most movies today are bad. That's not an opinion, audiences simply don't laugh, cry, and rave much anymore. Yet we still celebrate movie actors as hallowed artists, watch them win awards they give themselves, and pay them millions for their celebrity. Yet, all they do is pretend. It's not that hard. Let them try working insurance.
 
 It's not always their fault. Actors are expected to be award attendees, spokesman, marketers to serve the dark majic of others. Explaining why people like bad stories tells us why the nobles lost their audience and stopped being society's heroes.
+
+## The Road to Techvolution, and the Death of Revolutions
+
+Rousseau changed history by making the people realize they suffered on the frontline because of an old ruling philosophy. Even though French and Americans could read pamplets, newspapers, and books they still couldn't vote. Even though they could use guns to fight for the king's personal glory in wars like The War of the Spanish Succession (1701–1714), and The War of the Austrian Succession (1740–1748), they weren't allowed to use guns to defend themselve against the king. Even though science starting revealing the truth about Nature, they were told to follow society's religious rules instead. The people's cyborgolgy was held back by Darth King's rules.
+
+The people's demand for change started a revolution, a sudden questioning of a civilization’s ruling philosophy. The American, French and all the other revolutions in the 19th centuries were violent, because the divide between ruling philosophy and frontline society was very wide.
+
+It's a lesson for us. We have to hurry up. Because the longer we wait to update our ruling philosophy to digital tools, the more out of touch the frontline and ruling philosophy gets. The result is needless revolution. All the more reason for a Techvolution now.
+
+Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, cry, laugh, yell, it's a good story. Even more telling was listening to moviegoers walk out. If they marvelled about twists, turns, and cool lines, you know the story was really good because it turned fiction into reality.
+
+The audience is never wrong. They can't be. Laughing, being surprised, remembering cool lines is not audience's job. They're jobs is only to watch. It's the storytellers job to give its audience emotions and memories.
+
+A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change reality happens in three parts. The first is an introduction of problem and characters. The second is the back and forth battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
+
+Stories are thus simply the essential progression of incidents that happen to the hero in pursuit of his one goal. Action scenes, or character performances, are merely spices, only to be added in moderation. Like two boxers adjusting to each other's tactics. Mixing the logic of problem solving, with the surprises of conflict, is how good stories become "logically surprising", and thus fun to watch.
+
+The kind of story doesn't matter. Comedies, dramas, tragedies. As long as the sequence of events is logically surprising, an audience will believe in aliens and space operas, machines and virtual realities, or kings and kingdoms.
+
+Telling the difference between good and bad stories is actually hard. Bad stories can seem legitimate because everything happens in a sequence of events. Since we're living inside a bad story, we need to learn the difference between the bad stories with too much logic, too many surprises, and the good ones with the right mixture of both.
+
+He said the nobility were con artists who hid behind divinity. And equality was natural. He was right, let's really understand why. Equality, and divinity, come and do based no good stories. And survive based on bad stories.
+
+## The Difference Between Good and Bad
+
+A story is a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change reality happens in three parts. The first is an introduction of problem and characters. The second is the back and forth battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
+
+Stories are thus simply the essential progression of incidents that happen to the hero in pursuit of his one goal. Action scenes, or character performances, are merely spices, only to be added in moderation. Like two boxers adjusting to each other's tactics. Mixing the logic of problem solving, with the surprises of conflict, is how good stories become "logically surprising", and thus fun to watch.
+
+The kind of story doesn't matter. Comedies, dramas, tragedies. As long as the sequence of events is logically surprising, an audience will believe in aliens and space operas, machines and virtual realities, or kings and kingdoms.
+
+Telling the difference between good and bad stories is actually hard. Bad stories can seem legitimate because everything happens in a sequence of events. Since we're living inside a bad story, we need to learn the difference between the bad stories with too much logic, too many surprises, and the good ones with the right mixture of both.
+
+**Art:** not about any specific problem. Art films are more about the protagonist, not what problem they overcame or antagonist they defeated. This makes them more like personal journals of "a weirdo growing up " or "suffering through high school". Free from overcoming a problem, and revealing new sides to themselves, art heroes act as they want. The result is very surprising idiosyncractic behavior and storylines with little logic to tie events together. The result is surprising, but illogical, stories.
+
+To maintain interest art stories get weirder and weirder. To fend off critcism, they surround themselves with ever more awards, granduer, and claims of being cultured or being divine. This culture survives by creating superficial social rules for behavior and fashion. Gossip survives as people invariably break these rules and create endless controversy. In Rousseau's time it was liking Beethoven's scandalous music, or not having enough servants.
+
+In our time, you can just watch any entertainment show and count how many time "scandal" or "in fashion" is said.
+
+**Spectacle:** about a obvious problem. Spectacle movies are very logical because the problem is very simple; ie. Godzilla is here, so run like hell and keep running until the movie is over. Since the antagonist is so evil, and the action is so instinctual, there's no room for the protagoinst to reveal new sides of himself and change how the story progresses. The result is logical, but unsuprising, stories.
+
+source of distractions, housing prices....
+
+To maintain interest, spectacle movies keep ramping up props, items, special effects, gore, and rauchiness. They fend off critcism by (falsely) claiming each ramp-up is more popular in mass marketing campaigns. Ex. Most franchise movies, sequels, and remakes.
+
+In our time, you can just watch any infotainment show and count how many time "breaking news" is said.
+
+**Functional:** about a questional problem that divides a rational protagonist and antagonist. Eachs acts to defeat the other, but have time to figure out how. The back and forth storyline give the audience logical surprises, until the conclusion, were we find out if reality will change or not.
+
+Source of equality
+
+There's no way to know which functional stories will reasonate with audiences, but only functional stories can truly reasonate with audiences and become classics. Ex. Cinderella, Romeo and Juliette, The Matrix, Star Wars.
+
+Logic and surprises counter-balance each other. Withholding one makes art films that are often too weird, and withholding the other makes spectacle movies that are often too simple. Functional stories work so well because they mix the two and create "logical surprises". It's why the art/spectacle don't have "spoilers", while we want to "go in fresh" for functional stories. For Techvolusion, and our mission of distributing the power of new tools to the masses, the key difference between stories is their conclusions.
+
+
+## The Extra's Choice
+
+Now, here's how we apply this Techvolution. Remember we need to empower extras to jump up and decide winners. From their perspective there isn't one story going on, but two people claiming to be society's leaders.
+
+But now, we can help the extras see through bullshit better. Not only can extras use majic to decide which person to support, but she will also know that art and spectacle is a bad sign, while function and equality is a good sign.
+
+Here's how the extras should see their choice. I'll use Sophia as an example again. The fact that Douglass wants to read, while Hugh wanted him not too, means Hugh was Darth Slavery, while Douglass was a Jedi. While Sophia did use majic to tell her to teach Douglass, she fell to the rules of a old ruling philosophy. In addition to majic, the Hugh vs Douglass story had other qualities showcases hero and villian.
+
+Hugh loves never ending hierarchy (represented as a triangle). While, Douglass equality and distributing power (represented as a circle). Hugh lives in a high-society with its own banquet and ball lifestyle, that survives by keeping manual labour in use despite the existence of machinery, education, to do a better job.
+
+And yes, that's the problem we have now, with Darth Blockbuster.
+
+![Sophia's Choice](\../img\diagrams\techvolution-antagonists-protagonists-extras-close-up-douglass.png)
+
+## Our Story
+
+ALl this applies to us too. It's important to note, while Rousseau's followers may have been political free, they were economically poor. Hunger, disease, unemployment, illiteracy, were all rampant. The time was basically "economic anarchy".
+
+Like how society loved the original kings for winning the "King's peace", the original economic kings were heroes for winning massive economic growth. They said follow me, recognize my property rights, let me run the economy, my company's will keep you employed and improve your life with new tools like lightbulbs, and toaster ovens.
+
+Slowly but surely, they did. They told a good story during the Industrial Revolutions. The people were again an audience who watched fiction become reality as we overcame economic anarchy. And we did that with many of the primitive tools of today. Schools, colleges, and universities educated the masses. Gas trucks and cars moved resources and products much faster. Oil and coal powered everything.
+
+Darth Blockbuster's forebears like Andrew Stanton, Andrew Carnegie, Vanderbilt, did what Clovis I and the rest did. And like how Darth King was only exposed when new tools empowered the extras so they didn't need to be peasants anymore, Darth Blockbuster was only revealed when digital tools were so powerful, the extras didn't need to be 9-5 working, consumers anymore.
+
+Our problem today is Darth Blockbuser. He actively chooses to fight against new digital tools changing our way of life. Although we have amazingly powerful new technologies, using these technologies to create new tools is hard. The majic of new digital tools improving everyone's cyborgology is thus rare at home, work, and leisure.
+
+However, prohibiting majic is not Darth Blockbuster's only weapon. He also surrounds himself with art, and distracts the extras with spectacle. Both are bad stories, which require them to ramp up their weirdness, and spectacle, to keep going. The problem solving and equality loving classic stories are put on hold, so that Darth Blockbuster's hold tools can stick around, and keep him in power.
+
+And this same change to art and spectacle started in the 1970's, when digital tools should have been changing our way of life. Here's how John Wayne saw it at the time:
+
+>Now the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it.
+
+The movies kept using ever more spectacle, they turned good stories like Star Wars, Die Hard, Indiana Jones, Predator, Spider-Man, Batman, and so many others, into a never ending list of sequals and remakes, each with higher marketing and production budgest to produce the spectacle that keeps it alive.
+
+The movies, also become ever more artful. When moviemakers weren't selling out to spectacle movies, they compensated for its boring stories, with ever more artful ones. Sundance, Toronto, Cannes and other film festivals celerated films, while the public only watched them walk the red carpet.
+
+This same mixture of spectacle and art expanded through all pre-digital tools in suburbia. Detached homes got ever more spectular, bigger sizes, designer fashion. Cars got bigger, more size, more chrome, more horsepower. Televisions increase in size. All these were used to promote a "Desperate Housewives" suburban lifestyle of drinking win, holding house parties, and being a office worker who didn't do manual labour but talked alot of saving the world via red / blue politics.
+
+All tools that existed pre 1970, grew their spectacle and art to save themselves from being surpassesd by digital tools. Houses didn't come made with solar panels. Cars were not allowed to go electric. Televisions couldn't connect to streaming services. The power of digital tools was withheld from the extras by Darth Blockbuster's majical interference, and with the use of spectualr and artful stories.
+
+And, if we're going to change that, we need to realize all bad stories eventually end badly, so.... shit something is wrong...
+
+## Paramount
+
+Movie theatres struggled because of DVD. Studio's are not allowed to own or even coordinate with movie theatres. It was a rule made in 1948 called the Parmount Consent Degrees. It's the reason why a movie ticket and popcorn are so expensive. Studio's get 80% of the former and theatres live on the latter.
+
+It's also why the studio's loved DVD sales, because they kept most of it themselves.
+
+## Rousseau on Stories
+
+The difference between good stories (classic) and bad stories (art and spectacle) is the difference between magic and dark magic. Good stories attract people themselves, they last forever, and span cultures, because they speak to our natural love of stories and the battle between good and evil.
+
+To keep our interest in bad stories, people use dark magic, non-storytelling methods to keep people interested in art and spectacle stories. Awards, titles, elitist culture or art, and the re-using old icons, names, graphics surrounded by flashy production, of spectacle stories.
+
+There only difference between magic, and majic, is that the the former happens in fictional stories, and the later happens in real life. Notice how much dark majic there is in art films that few people ever watch. Just watch any entertainment award show television coverage and how many time "scandal" or "in fashion" is said, then ask anyone if they saw the films. Few people every do, it's not why their watching.
+
+You can also see the same thing about spectacle and news infotainment. Watch them and you'll see commercials for super-horsepower cars, or prescription drugsfancy new gadgets, and how many time "breaking news" is said with flash letters graphics, dramatic music, and scared faces to understand how these bad stories survive.
+
+## Good and Bad Storiess
+
+Good stories versus bad stories. When I was a projectionist I (and any other) could tell the difference without ever seeing the movie. We just watched the audience's reactions. If they scream, cry, laugh, yell, it's a good story. Even more telling was listening to moviegoers walk out. If they marvelled about twists, turns, and cool lines, you know the story was really good because it turned fiction into reality. Only classic stories every did this.
+
+While some people learn to appreciate art films, and others love the distraction of spectacle, neither created many emotions or raving fans. And they're never wrong. They can't be. Laughing, being surprised, remembering cool lines is not by choice. It's the storytellers job to give its audience new emotions and memories with good stories.
+
+Watching a movie theatre audience is watching the frontline. So when the people rave about art and spectacle stories you know something is wrong. Rousseau was beloved by the people, and hated by the nobility, for noticing the people were raving about spectacle, and thinking the art society was better, instead of being stuck up shitheads.
+
+This was important because one works for equality and democracy, and the other two work to enrich the rich and distract the masses.
