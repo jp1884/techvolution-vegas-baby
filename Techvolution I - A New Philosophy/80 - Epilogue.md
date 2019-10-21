@@ -31,25 +31,25 @@ People happy with the way things are, who've never spoken with a driver, and don
 
 It was still hard writing this book. It was condensing so much political and economic theory and history into such a short space. I was mentally very tired, and despite indulging in Jack Jones' "The Impossible Dream" too much, a little bitter. Then I watched an episode of Netflix's _Black Mirror_ and went back to work.
 
-This episode was the tale of a crazed man, who wants a phone call with the powerful CEO of an Instagram like app called Smithereens. He holds a company intern hostage awaiting his call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
+This episode was the tale of a crazed man, who wants to talk with the powerful CEO of an Instagram like app called Smithereens. He holds a company intern hostage awaiting the CEO's call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
 
-I started to cry. I soon wept. I knew why because I knew this crazed man.
+I started to cry. I soon wept. I knew why. Because I knew this crazed man.
 
 I knew distracted driving killed someone close to him. The crazed man had been driving, and he checked his Smithereen feed, saw a picture of a dog or something, and he missed a drunk running a stop sign, and his beloved fiancee died.
 
 I didn't know it was his own distracted driving, but I knew the pain the actor played out so well. He just wanted to tell someone why it happened, so maybe it wouldn't happen again. I knew that because I used my soul to ease this person's pain for years.
 
-I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer. Darth Blockbuster stopped it. I was so eager to help prevent car accidents, because it is small example of what the Life Star will do for humanity. But Darth Blockbuster stopped it.
+I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer. The help, and the example of the Life Star I wanted to show, was against the rules, so Darth Blockbuster stopped it.
 
-He'll never say that, or even know it. He thinks frontline pain is a place to stand above and not ever feel and solve with new tools.
+He'll never say that, or even know it. He thinks frontline pain is a thing to manage not ever feel and solve with new tools.
 
 I did my best as a protagonist. Not good enough to prevent anyone's accident, but I did my best. The point isn't self-pity. The point is self-pity doesn't need to exist in the digital age. For the philosophy of digital tools isn't a place of sword weilding heroes with a mass of peasants behind them. I pushed as far and high as I could. Now another protagonist can pick up where I left off. Everyone is either an extra choosing the best tools, or a hero working to earn their favour, in the ruling philosophy of Techvolution.
 
 Rest assured, the millions of protagonists inside the open-source community are making an app far more powerful than my little thing. Darth Blockbuster can't stop it, because the Sith are defeated. The're lawsuits, corporate rules, red / blue marches, worked to suppress digital tools since the 1970's. No more.
 
-The question is, now that Darth Blockbuster isn't weighing us down, what should we build? What should we do with the immense knowledge and resources the Life Star gives us. What should the Jedi in the open-source community mobilize around.
+The question is, now that Darth Blockbuster isn't weighing us down, what should we do with the immense knowledge and resources the Life Star gives us. What future should the Jedi in the open-source community build.
 
-All us geeks have dreamed of it everytime we watch not a galaxy far far away, but the one with the continuing mission to explore strange new worlds. I think we all want to go to the Moon, Mars, and beyond. I think we want live in the world of Captain Picard, a rational society, science over profit, respect for our individual strengths, all achieved not with human rules, but science, technology and tools.
+All us geeks have dreamed of it everytime we watch not a galaxy far far away, but the one with the continuing mission to explore strange new worlds. We have to start somewhere; like the Moon, Mars, and beyond. I think we all want live in the world of Captain Picard's a rational society, where problem-solving trumps rules, individuals always contributeths, but science, technology and tools govern the story of civlization.
 
 That's coming up in the sequel, the book I originally wrote, _Techvolution: Starting Starfleet_.
 

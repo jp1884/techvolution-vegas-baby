@@ -1002,3 +1002,13 @@ While some people learn to appreciate art films, and others love the distraction
 Watching a movie theatre audience is watching the frontline. So when the people rave about art and spectacle stories you know something is wrong. Rousseau was beloved by the people, and hated by the nobility, for noticing the people were raving about spectacle, and thinking the art society was better, instead of being stuck up shitheads.
 
 This was important because one works for equality and democracy, and the other two work to enrich the rich and distract the masses.
+
+## Darth Compact Disc
+
+So let's recap Darth Compact Disc with the above in mind. A new tool let customer's listen to individual songs. Music executive's business model was make two good songs, packaged with 10 fillers, and charged for 12 song CD's.
+
+Internet came. He had no idea what it was, so it was a threat. He sued Napster and won. Internet still a threat. He tries to make a tool from it. Failes. Internet still a threat. Steve Jobs comes to him. Still a threat. Jobs wins anyway.
+
+Darth CD was living a art story. He couldn't solve a problem, making money from the internet, but he didn't want to give up his place as a hero. Thus his story was one of self-importance and complaining about his inability to act. He used spectacle, lawsuits, media interviews, marketing compaigns to try and make CD's stay cool, to try and distract the masses from a better tool.
+
+A hero in a classic story would have let someone else try. Which is what history did, Steve Jobs, and the other people behind iPods, iTunes, and now Spotify.

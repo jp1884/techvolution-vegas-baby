@@ -22,7 +22,7 @@ To the extras. When it's time for you to act, I pray you pick the right side.
 
 ## The Beginning
 
-It all started with a door in the face. I few more actually. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product upper management were never going to buy.
+It all started with a door in the face. My face. I few more actually. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product upper management were never going to buy.
 
 Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I had spent years in a cubicle doing the frontline job it worked for.
 
@@ -30,7 +30,7 @@ I figured out how to solve a problem—and save 100 million dollars, 300,000 hou
 
 But I was a fool. I wasn’t even knocking on doors. I was knocking on gates. See, I wasn’t talking to the frontline workers suffering through the problem I solved, but the bureaucrats, lawyers, managers, and executives, who were paid to “deal” with those problems. Solving their problems was asking them to fire themselves. The gates were in place to shut out innovation.
 
-In fact, they never said _no_ to me. _No_ needs a reason. Instead, they said it was against the rules to say yes. Obscure rules, hidden inside regulations and contracts. They believed in these rules, especially the one against letting frontline workers to decide for themselves.
+In fact, they never said _no_ to me. _No_ needs a reason. Instead, they said it was against the rules to say yes. Obscure rules, hidden inside regulations and contracts. They believed in these rules, especially the one against letting frontline workers decide what tools they want to use.
 
 I'm not going to talk about my experience too much. All that's important is there was a problem, a big one wasting millions of your dollars, weeks of workers time (lots of it unpaid overtime), and maybe even your life, and it was against the rules to solve it.
 
@@ -56,7 +56,7 @@ If you buy it—and most of us have at some point—you watch blue cable news, r
 
 Let me ask you, if you’re a regular middle-class person, and you ignored the election, how much would you bet, that you would know who won, just by living your life.
 
-I mean today, when team blue wins, does traffic suddenly disappear? When team red wins, does everyone suddenly eat healthy? Do you breathe fresher air, or see healthier neighbors, i.e. do your real-life problems get solved, when one color’s philosophy writes the rules?
+I mean today, when team blue wins, does traffic suddenly disappear? When team red wins, does everyone suddenly eat healthy? Do you breathe fresher air, or see happier neighbors, i.e. do your real-life problems get solved, when one color’s philosophy writes the rules?
 
 If you think regulations, laws, and marches change the world; if you think the red vs blue storyline decides the future of our society, you can stop reading. There’s lots of blogs, shows, and books waiting to sing to their choir, telling you to fight the enemy until you’re blue in the face.
 
@@ -356,15 +356,15 @@ But don't despair. The good news is, we can win Stargazer. I'll show you.
 
 ## Battle Introduction
 
-In the 1970's the transistor, internet, computer monitors, microchips, and other digital technology, started to leave labs and research centres and make their way into new tools. Finally, after centuries of primitive tools, society had ones cheap enough to mass produce, yet powerful enough to change our way of life. Of course, that's when Darth Blockbuster appeared and went to work defending his way of life.
+In the 1970's the transistor, internet, computer monitors, microchips, and other digital technology, started to leave labs and research centres and make their way into new tools. Finally, after centuries of primitive calculators, brakepads, pocket watches, typewriters, printers, etc. society had tools cheap enough to mass produce, yet powerful enough to change our way of life. Of course, that's when Darth Blockbuster appeared and went to work defending his way of life.
 
-Some examples. In the 1970's AT&T defended the telephone communications by successfully lobbying government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by suing home video cassette recorders (VCRs) and only losing by one vote in the Supreme Court. In 2001, the music industry defended music compact discs (CDs) by successfully suing digital songs. Likewise, Tesla, Uber, AirBnB biggest competition has been in the courtroom. Throughout society the antagonists found ways to keep digital tools from the hands of the people.
+Some examples. In the 1970's AT&T defended the telephone communications by successfully lobbying government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by suing home video cassette recorders (VCRs), and only losing by one vote in the Supreme Court. In 2001, the music industry defended music compact discs (CDs) by successfully suing digital songs. Likewise, Tesla, Uber, AirBnB biggest competition has been in the courtroom. Throughout society the antagonists found ways to keep digital tools from the people.
 
 The antagonists even resisted help. As Napster was introducing digital songs to America, and being sued for it, Steve Jobs wanted to improve digital songs with iTunes. Music executives had already tried and failed horribly to make their own platform. Despite the supposed crisis of Napster, Jobs said he'd "never spent so much of my time trying to convince people [music executives] to do the right thing for themselves".
 
-The problem wasn't Napster. It was Darth Blockbuster. To be fair, he knew how to manage a huge corporation, collect money to get employees paid, and make a product people wanted. Yet he didn't know anything about new technology and so fought against falling behind with rules, not tools.
+The problem wasn't Napster. It was Darth Blockbuster. To be fair, he knew how to manage a huge corporation, collect money to get employees paid, and make a product people-had-wanted. Yet he didn't know anything about new technology and so fought against losing his job with rules, not tools.
 
-Darth Blockbuster's antagonism was so strong he even fought Steve Jobs who was trying to-and really did-help him. From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Let's look at the story in a little more detail.
+Darth Blockbuster's antagonism was so strong he even fought Steve Jobs who-and did-help him. From Galileo to Washington, Tesla to Jobs, the battle between antagonits, protagoinsts, and extras has always been the same. Let's look at the story in a little more detail.
 
 ## How New Tools Start the Fight
 
@@ -459,93 +459,99 @@ The question for us is, how did Rousseau actually make an entire people change t
 
 ## ~~Revolution~~ Techvolution
 
-Stargaxer, you look disappointed. You think revolutions are fun. You want to follow _Les Miserables_ and march in the street! Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less regulations! Affordable health insurance! Tax cuts! Let's save the planet, save the national debt!.
+Stargazer, you look disappointed. You think revolutions are fun. You want to follow _Les Miserables_ and march in the street. Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less regulations! Affordable health insurance! Tax cuts! You save the planet and I'll save the government's credit rating!
 
-We'll write it down in regulations, laws, and blog posts and "poof" it'll happen like magic.
+It'll be fun. We'll write the solutions in regulations, laws, and blog posts and "poof" it'll happen like magic.
 
-And selling magic is how red / blue survive. Without giving new tools to the people, today's politics is only about fighting, not solving frontline problems. Solar panels, air quality testors, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets. These tools improve life on earth at the point of contact between a problem, and the person suffering it. Anything but a better tools in the hands of frontline people is just talk.
+When you're car breaks down, you call a mechanic for help. If he shows up with no tools you'd get mad. No arguments, no discussions, nothing else matters. No tools, means no problem-solving.
 
-Ignore revolutions! Resist the self-gratification of blaming "the other side" for society's problems using primitive tools.
+Red / blue philosophies show up with no tools. You shouldn't care about their regulations, bristol boards, and speeches, anymore then you should care about seeing the mechanic's company manual.
 
-Digital tools are ready and waiting for the people to solve our many frontline problems. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. Majically bonding with whatever tool we want, is the ultimate revolution.
+Solar panels, air quality testors, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets. These improve our ranking in the story of civilization.
+
+Ignore revolutions! Resist the self-gratification of blaming "the other side" for society's problems.
+
+Digital tools and their many Jedi innovators are ready and waiting to solve real-life problems. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. The people majically bonding with whatever tool they want, is the ultimate revolution.
 
 ## Good and Bad Stories
 
-And that, in short, is what Rousseau said; let the people prosper with new tools. And let the nobility return to their natural equality with the people inside a democracy. This was of course ignored until frontine anger turned into violent revolutions.
+And that, in short, is what Rousseau said; let the people prosper with new tools. Let the nobility return to their natural equality inside a democracy. Rousseau was right, this did happen, but only through violent revolutions.
 
-Crucially, he wasn't only hated by the nobles. Lots of extras didn't like his ideas either. And this is where we can improve on Rousseau, using Rousseau. Because like with Wikipedia, the extras are our source of change.
+It's funny to note, Rousseau wasn't only hated by the nobles. Lots of extras didn't like his ideas either. And this is where we can improve on Rousseau, using Rousseau. Because like with Wikipedia, the extras are our source of change.
 
-Importantly, in addition to being a philosoper, Rousseau was also a novelist. And what he did in his philosophy was tell the difference between good and bad stories. Not in literature, but in human societies. Understanding this difference will help us get the extras to stop liking the bad stories of the Sith, and get them addicted to the magic of good storytelling. We'll keeping using movies here because that's what most people will know.
+We improve Rousseau by understanding, in addition to being a philosoper, Rousseau was also a novelist. A skill he used (maybe unintentially) in his philosophy. What his philosophy did was tell the difference between good and bad stories; not in literature, but in human societies. Understanding this difference will help us get the extras to stop liking the bad stories of Darth Blockbuster, and get them addicted to the magic of good storytelling. We'll keeping learning with movies because that's what most people will know.
 
-===
-HERE
+## One Good Story, Two Bad
 
+All stories are a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change reality happens in three parts. The first is the introduction of the problem and characters. The second is the cycle of thinking of new plans, and attacking the enemy, that heroes and villians do; until the third part in the conclusion, where we find out which side wins. Although its easier to see in some more than others, all stories have this make up.
 
+The difference between good and bad stories is how much thinking and attacking each character does. Good stories mix it up, while bad stories have too much of one or the other.
 
+**Classic movies:** are fights over real-life problems. Protagonist and antagonist think of new ideas and act on them in a back and forth battle. New ideas give the stories surprises, while fighting to win requires logical actions.
 
-All stories are a sequence of events, where a protagonist fights an antagonist, to overcome a problem. The fight to change reality happens in three parts. The first is an introduction of problem and characters. The second is the back and forth battle between heroes and villians. The third part is the conclusion, where we find out which side wins.
-
-Althought its easier to see in some than others, all stories have this make up. The difference between good and bad stories is something else. It depends how much logic and surprise the writer puts into his story. Good stories mix it up, while bad either has too much of one or the other.
-
-**Classic stories:** are about a real-life problem. Protagonist and antagonist think of new ideas, and act on them in a back and forth battle. New ideas give the stories surprises, while fighting to win requires logical actions.
-
-Both characters keep challenging each other, revealing new sides of themselves. This keeps opening up possibilities for what's going to happen next, and giving the audience many "logical surprises".  Audiences are naturally engaged in the magic of good stortelling. The conclusion can be a big victory for the good or bad guys, or somewhere in between.
+Mixing logical problem solving, with new ideas, gives classic stories "logical surprises", otherwise called plot twists. Audiences are naturally engaged in the magic of this good stortelling. Always unsure of what's going to happen next, the conclusion can be a big victory for the good or bad guys, or somewhere in between.
 
 There's no way to know which stories will reasonate with audiences, but only these stories can reasonate with audiences and become classics like Cinderella, Romeo and Juliette, The Matrix, Star Wars.
 
-**Art stories:** are not about any specific problem. Art films are more about the protagonist's ideas, not acting to overcome a problem. The result is very surprising idiosyncractic behavior, but storylines with no problem solving to logically tie events together. The result is surprising but pointless stories that can't change reality.
+**Art films:** are not about any specific problem. Like personal journals they're more about the protagonist's thoughts, not her acting to overcome a problem. The result is very surprising idiosyncratic behavior, but storylines with no problem solving to logically tie events together. The result is surprising but pointless stories with conclusion that can't change reality.
 
-Few people like art stories. The ones who do surround themselves with ever more awards, granduer, titles, and elitist culture that needs to get weirder and weirder to maintain interest. Film festivals like Cannes, Sundance, Toronto mainly show art films.
+Without logical surpries, art films needs to get weirder and weirder to maintain interest. To insulate themselves from criticism art filmmakers usually give themselves ever more awards, granduer, and titles and end up like their protagoinsts, on stages talking about themselves. Film festivals like Cannes, Sundance, Toronto mainly show art films.
 
-**Spectacle stories:** are about an obvious problem, ie. Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are thus very logical because the problem is very simple; survive or die. Since the action is so instinctual, there's no time for the protagoinst to think of new ideas. The result is very logical but unsuprising stories that can't change reality.
+**Spectacle movies:** are about an obvious problem, ie. Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are thus very logical because the problem is very simple; survive or die. However, since the action is so instinctual, there's no time for the protagoinst to think of new ideas. The result is very logical but unsuprising stories that can't change reality.
 
-To maintain interest, spectacle movies have to keep ramping up fancy props, special effects, gore, and rauchiness. It doesn't work for too long, so they're usually looking for new customers with mass marketing campaigns. Today most franchise movies, sequels, and remakes are spectacle movies.
+To maintain interest, spectacle movies have to keep ramping up special effects, gore, and rauchiness, while reusing old successful stories and characters. It doesn't work for too long, so spectacle producers usually looking for new customers with hype filled mass marketing campaigns. Today most franchise movies, sequels, and remakes are spectacle movies.
 
 ![All three stories!](/img\diagrams\techvolution-all-stories.png)
 
 ===
 
-HAVE TO NOTE THAT GOOD STORIES IS WHAT WON THE WIKIPEDIA, and other BATTLEs
+In storytelling, logic and surprises counter-balance each other. Withholding one makes art films that are self-important, and withholding the other makes spectacle movies that are simple. Classic stories are good because they mix the two and create "logical surprises" that open our minds and change things. This is why art/spectacle stories don't have "spoilers", while we want to "go in fresh" for classic stories.
 
-In storytelling, logic and surprises counter-balance each other. Withholding one makes art films that are self-important, and withholding the other makes spectacle movies that are  simple. Classic stories are good because they mix the two and create "logical surprises" that open our minds and change things. This is why art/spectacle stories don't have "spoilers", while we want to "go in fresh" for classic stories.
+You can see the difference in your favourite sitcom: _The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory._ whichever. They start off as classic stories, with characters who deal with relatable problems like not liking their jobs or being tired of dating. As these characters keep encountering problems, we learn more about them.
 
-Rousseau noticed society has these three stories. This was important because one works for equality and democracy, and the other two work to enrich the rich and distract the masses.
+However, in later seasons, to keep their-now popular-characters alive, the sitcoms keep them doing the same things. Kramer can't get a job, Raj can't get a girl, Michael Scott can't get self-aware. Here sitcoms become art and spectacle stories. Art, as in these characters can't overcome problems anymore. And, spectacle, because we the audience keep watching even though we already know what's going to happen each time.
+
+Rousseau noticed society has classic, art, and spectacle stories, and goes through the same transitions. He also noticed how one works for equality and democracy, and the other two work to enrich the rich and distract the masses.
 
 ![Classic heroes](/img\diagrams\techvolution-protagonist-comparison.png)
 
 ## Politics of Stories
 
-Politics lives inside these stories. Classic stories are about equality and democracy.
+Classic stories solve real-life problems. Art stories solve nothing. Spectacle is only a distraction.
 
-This is because they're based on solving a problem by be controlling a tool. Let's use a different example, _The Matrix_. This story depicts a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the matrix. It's created by machines to distract humans while using their bodies as an energy source. Neo is recruited to help the few untapped humans rebel against the machines. His job is to make the sleeping masses inside the Matrix realize their reality is fake.
+For politics, this means classic stories are about equality and democracy, while art and spectacle are about maintaining a heirarchy. I'll explain why.
 
-The plug into the matrix is the tool that controls the story. Neo must make the people realize they are plugged in. Only they can wake themselves up.
+Let's use _The Matrix_ for this example. This story depicts a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the matrix. It's created by machines to distract humans while using their bodies as an energy source. Neo is recruited to help the few untapped humans rebel against the machines. His job is to make the sleeping masses inside the matrix realize their reality is fake.
 
-The good guys fight to solve this problem. They choose Neo as their leader and form a hierarchy around him because the matrix is nothing but a rule book the machines write to keep the people asleep. But the good guys know the machines can't see above their ruling philosophy of slavery.
+This story is basically majic vs. the rules. Neo wants the masses to realize the matrix's rules are bullshit. When they do they can remove the plug, and re-learn the majic of using tools to live a free life.
 
-Neo can. He can rise above the matrix's rules, and not only control the matrix, but rewrite the rules!
+The machines antagonist, Agent Smith, can control much of the matrix, but not all of it. Enforcing the rules of the ruling philosophy of slavery, makes "the agents" bound to the rules too. Neo has a new ruling philosophy of freedom. Thus, he isn't bound by the matrix's rule book. A freedom he wants to teach others.
 
-Neo does it, defeats the machines by control the storry's pivotal tool. And once the problem is solved, Neo returns to being equal members of the community. His hierarchy of support was temporary, being based on solving a frontline problem.
+Neo takes on, and defeats the machines. Unbound by its ruling philosophy, he manipulates the matrix, and defeats the agents.
 
-Perhaps he'll be the hero of the next story, but maybe not. It depends on the problem, and who the people decide who will best solve it and be their hero. After every classic story ends, the heirarchy returns everyone to equality.
+And once he's done, him and his friends return to being equal members of the community. Neo's hierarchy of support was temporary, being based on solving a frontline problem. Perhaps he'll be the hero of the next story, but maybe not. It depends on the problem and who the people decide will be the hero to solve it.
 
-Spectacle and art stories do not solve frontline problems. Thus, their heirarchies can go on for as long as they can convince people to watch them, or live inside them. Just like the people stuck inside the matrix are watching spectacle. A fake world full of shiny cars, loud music, and 9-5 work days.
+Spectacle and art stories do not solve frontline problems. Thus, their heirarchies can go on for as long as they can convince people to watch them, or live inside them. Just like the people stuck inside the matrix who are are distracted from the truth with a world full of shiny cars, loud music, 9-5 work days, and The Office, Friends, or other reruns.
 
-The real world sucks, and Neo has to convince the people living in the sucky reality is better than the pleasant fiction. Meanwhile the machines are living an art story of being elites, whose hierachies can go on forever because they're using amazing spectacle to distract the masses.
+This is the hard side of majic. Real life is not always easier or more comfortable. The real-world in the matrix is cold, dark, and damp. Neo has to convince the people this unpleasant reality is better than the pleasant fiction full of the spectacle of dark majic.
 
-Of course this story is a exactly the same as Frederick Douglass, Mister Auld, and Sophia. Auld being the antagonist to freedom, Douglass the protagoinst responsible for waking himself, and everyone else up. And Sophia is the masses, who follow the rules even when it causes themselve harm.
+THe longer the spectacle lasts, the longer the self-important artists can go on talking about themselves. They're happy with the way things are. The machines want their hero status atop the hierachy to go on forever.
 
-Douglass is Neo! And so was Rousseau. He woke people up to the reality. That spectacle and art is bullshit, while heroes who solve problems return to being equal once the job is done. And that's our problem. We can't simply say anyone who heads a heirarchy is bad, because they may be a legitimate hero. How do we know when they aren't? When the extras decide to wake up and realize their frontline problems.
+But like an aging sitcom, it never lasts.
 
-People didn't listen to Rousseau before the extras rose up in revolutions. Like reminding ourself of good news, it's important to note that real heroes do exist. Even the ancestors of Darth King were heroes. Here's a quick history to explain why.
+## Neo Douglass
 
-* Dark Ages Church was not spectacle, but loyalty to the group, that together was overcoming anarch and restaring the story of civilization.
-* ecosystems, checks and balances, democracy, good stories, equality, reciprocation
-* HAVE TO NOTE THAT GOOD STORIES IS WHAT WON THE WIKIPEDIA, and other BATTLEs
+The story of the matrix is a common one. Most oppressed people's could sympathize with it. Frederick Douglass certainly could. Mister Auld was the agent of slavery, Douglass the hero responsible for waking himself and everyone else up. And Sophia is the masses, who have to choose between majic and the rules.
+
+Douglass, and Rousseau, are Neo. They both woke people up to the reality that spectacle and art is bullshit, and society should about solving real-life problems by empowering people with tools. Real heroes fight for this individual empowerment, and when done let their heirarchies melt away into the free soil of equality.
+
+Telling the difference between a "classic hero" and a selfish one can be hard. That's why we worked to improve Rousseau. To tell the difference, we only need to know, what story are we in. Rousseau defeated Darth King, by making the people realize they were watching re-runs while the nobility was in banquets and balls.
 
 ![Classic heroes](/img\diagrams\techvolution-battle-douglass.png)
 
 ## Protagonist Kings
+
+It's important not to be too negative. It leads people to blame and hate someone else for their problems. It's what the marches with megaphones do. So we're going to take some time to appreciate the good kings.
 
 In Rousseau's time "holy" noble families ruled every European country. But they were in power because of their ancestors. After western Rome fell in 476 western Europe entered the Dark Ages (500-1000). So called because there was no books, ink, or literate people to write anything down. Nor was there much else, like sanitation, military, judicial systems. Civilization was gone. Anarchy ruled. The Dark Ages sucked.
 
@@ -605,7 +611,7 @@ I'm here, like Rapunzel, trapped in the Death Star, under the watch of extras. Y
 
 Oh what did I do? I downloaded a movie from the pirate bay.
 
-Hurry up! Cable news is showing protestors are flying to protest climate change. I don't know how much longer I got, nevermind the polar bears. Help!
+Hurry up! Cable news is showing people fly to protest climate change. I don't know how much longer I can take this, nevermind the polar bears. Help!
 
 ### Skywalker Turns on His Lightsaber
 
