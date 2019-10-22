@@ -22,15 +22,15 @@ To the extras. When it's time for you to act, I pray you pick the right side.
 
 ## The Beginning
 
-It all started with a door in the face. My face. I few more actually. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product upper management were never going to buy.
+It all started with a door in the face. I few more actually. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product upper management were never going to buy.
 
 Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I had spent years in a cubicle doing the frontline job it worked for.
 
 I figured out how to solve a problem—and save 100 million dollars, 300,000 hours of productivity, and even several lives—with an app that was virtually free. All I wanted was to give it away. After years of working on political and economic theory, I’ve written (another) book about the untapped possibilities of new tech like apps, bio-monitors, and bitcoin. I wanted real-world proof, and maybe get some real-world credentials, to help validate my ideas.
 
-But I was a fool. I wasn’t even knocking on doors. I was knocking on gates. See, I wasn’t talking to the frontline workers suffering through the problem I solved, but the bureaucrats, lawyers, managers, and executives, who were paid to “deal” with those problems. Solving their problems was asking them to fire themselves. The gates were in place to shut out innovation.
+But I was a fool. I wasn’t even knocking on doors. I was knocking on gates. See, I wasn’t talking to the frontline workers suffering through the problem I solved, but the bureaucrats, lawyers, managers, and executives, who were paid to “deal” with those problems. Solving their problems was asking them to fire themselves. They put up gates to shut out, not promote, innovation.
 
-In fact, they never said _no_ to me. _No_ needs a reason. Instead, they said it was against the rules to say yes. Obscure rules, hidden inside regulations and contracts. They believed in these rules, especially the one against letting frontline workers decide what tools they want to use.
+In fact, they never said _no_ to me. _No_ needs a reason. Instead, they said it was against the rules to say yes. Obscure rules, hidden inside regulations and contracts. They believed in these rules, especially the one against frontline workers taking matters into their own hands.
 
 I'm not going to talk about my experience too much. All that's important is there was a problem, a big one wasting millions of your dollars, weeks of workers time (lots of it unpaid overtime), and maybe even your life, and it was against the rules to solve it.
 
@@ -52,39 +52,37 @@ The rules. We think they control us. They don’t. I'll show you why.
 
 Talk to any political junkie, no matter when, and they’ll say there’s a big election coming up. They’ll say something like “if the red team wins this one, then education, healthcare, infrastructure, and everything else will go to shit.” What he means is elections decide the rule makers, and that blue rules are good while red rules are evil.
 
-If you buy it—and most of us have at some point—you watch blue cable news, read blue blogs, listen to blue talk radio. You fill your head with blue’s philosophy. Soon enough, your face is painted blue, you’re waving a blue bristol board while yelling blue chants at rallies, marches, and protests. You feel like a hero! You’re fighting against the evil red philosophy!
+If you buy it—and most of us have at some point—you watch blue cable news, read blue blogs, listen to blue talk radio. You fill your head with blue’s philosophy. Soon enough, your car has blue bumper stickers, you’re waving blue bristol boards while screaming blue chants at rallies, marches, and protests. You feel like a hero! You’re fighting against the evil red philosophy!
 
 Let me ask you, if you’re a regular middle-class person, and you ignored the election, how much would you bet, that you would know who won, just by living your life.
 
-I mean today, when team blue wins, does traffic suddenly disappear? When team red wins, does everyone suddenly eat healthy? Do you breathe fresher air, or see happier neighbors, i.e. do your real-life problems get solved, when one color’s philosophy writes the rules?
+I mean when team blue wins, does traffic suddenly disappear? When team red wins, does everyone suddenly eat healthy? Do you breathe fresher air, or see fitter neighbors, i.e. do your real-life problems get solved, when one color’s philosophy writes the rules?
 
 If you think regulations, laws, and marches change the world; if you think the red vs blue storyline decides the future of our society, you can stop reading. There’s lots of blogs, shows, and books waiting to sing to their choir, telling you to fight the enemy until you’re blue in the face.
 
 If you don’t like the choir, or you’re starting to realize the "other side" is part of the same struggling middle class, you’d probably like to keep reading. I wrote this book for you.
 
-Whichever color wins an election today and re-writes the regulations, laws, and rules, regular people will still pay taxes, have a mortage, waste hours in traffic, pay increasing energy bills, under sleep, buy unhealthy food, watch climate change, overpay for questionable education, get pushed around by their health insurance, endure customer abuse, work unpaid overtime, still get micro-managed, and hope their job (which they likely hate) isn’t downsized or outsourced.
+Whichever color wins an election today and re-writes the regulations, laws, and rules, regular people will still pay taxes, have a huge mortage, waste hours in traffic, pay increasing energy bills, under sleep, buy unhealthy food, watch climate change, overpay for questionable education, get pushed around by their health insurance, endure customer abuse, work unpaid overtime, get micro-managed by ever more managers, and hope their job (which they likely hate) isn’t downsized or outsourced.
 
-Under blue or red rules, the struggling middle class lifestyle stays the same, because the tools in which we live our lives, like suburban homes, gas cars, call centres, centralized power stations, paper based tax forms, mass produced unhealthy food, occasional doctor check ups, television for entertainment, an insatible education industry, and everything else in suburban America and Canada, stays the same.
+Under blue or red rules, the struggling middle class lifestyle stays the same, because the tools in which we live our lives, like suburban homes, gas cars, call centres, centralized power stations, paper based tax forms, mass produced unhealthy food, movies remakes and sequals, occasional doctor check ups, television for entertainment, an insatible education industry, and everything else in suburban America and Canada, stays the same.
 
-There's a reason Skywalker and Vader don't fight over a rule book. A reason why we go to a mechanic to fix our cars. Or contractors to make our porches. Tools change lives.
+The rules, no matter what color, don’t control us for the same reason Skywalker and Vader don't fight over a rule book. Tools control our lives. Our way of life doesn't change when either red and blue write the rules because neither’s philosophy—from conservatism to progressivism, capitalism to Marxism—is about putting new tools into our hands.
 
-Likewise, the rules, no matter what color, don’t control us. The tools we ues to live our life with do. And nothing changes in our daily life if either red and blue write the rules, because neither’s philosophy—from conservatism to progressivism, capitalism to Marxism—is about putting new tools into our hands.
+It’s not our politicians fault. The philosophies they follow were invented before we had many tools. Roads were mud. Roofs were thatched. Medicine was leeches. No jokes. Walking, horses, and sailboats were transportation. Abacuses and chalkboards did calculations. The moon lite the way to  latrine pits. Humanity had primitive tools when red and blue were born; their philosophical fathers like Adam Smith, Edmund Burke, John Stuart Mill, Karl Marx, never had running water, listened to music, read an eBook, made a phone call, opened a fridge, used electronics, had a genetic test, santized their wounds, took penicillin, knew about electricity, started a motor, learned about evolution, or typed on a keyboard.
 
-It’s not our politicians fault. The philosophies they follow were invented before we had the tools to improve our lives. Back the, horses, carriages, and sailboats were their transportation. Abacuses and chalkboards did their calculations. The moon lite their way to outdoor latrine pits. Humanity had primitive tools when red and blue were born; their philosophical fathers like Adam Smith, Edmund Burke, John Stuart Mill, Karl Marx, never listened to music, read an eBook, made a phone call, opened a fridge, used electronics, had a genetic test, santized their wounds, took penicillin, knew about electricity, started a motor, learned about evolution, or typed on a keyboard. Yet we let these thinkers ideas guide us in the digital age.
+Red and blue philosphies were invented to invent new tools, not use them. They grouped humanity into a massive industrialization. With red and blue philosophies our farming ancestors came together and built the first rudimentary tools like steam engines, gas cars, sanitation systems, broadcast televisions, and computers the size of rooms. The masses needed to be extras, regulated and managed inside simplistic color coded parties because we had to work on making tools before we could share them. To their credit, blue and red philosophies at least gave extras a voice in how our tools’ factories, regulations, and profits were controlled.
 
-Red and blue philosphies were invented to group humanity into a massive collection action. With red and blue philosophies our farming ancestors came together, industrialized, and built the first rudimentary tools like steam engines, gas cars, indoor toilets, broadcast televisions, and computers the size of rooms. The masses needed to be extras, regulated and managed inside simplistic color coded parties because our tools were so primitive we took turns holding them. Thus, we couldn’t share with everyone but had to regulate access. To their credit, blue and red philosophies at least gave extras a voice in how our tools’ factories, regulations, and profits were controlled.
+Today the goal of industrialization is here. Hpapily, with live in a world far far away from primitive tools. Digital tools are so easy to make that we can customize them for every person’s individual problems. Technologies like high-speed internet, smartphones, machine learning, computer programming, cloud computing, microchips, bluetooth, heart rate monitors, 3D printing, genetic tests, air quality sensors, GPS trackers, smart watches, finger-print scanners, thermal cameras, have made tools like Skype, iPhones, Tesla Solar Roofs, Lyft, WhatsApp, Kickstarter, YouTube, 23 and Me, Snapmaker, ButcherBox, Khan Academy, Podcasts, Nano Membrane Toilet, Google Wear, GitHub, Sanitation Now!, SquareSpace, Onnit, AirBnB, and Firefox so extremely powerful and so easy to make, we don’t need to fight to control them, but fight to spread them. This doesn’t come naturally to us, however, because the rules of old philosophies are based on fighting over, not sharing, tools.
 
-Yet today with live in a world far far away from primitive tools. Digital tools are so easy to make that we can customize them for every person’s individual problems. Technologies like high-speed internet, smartphones, machine learning, computer programming, cloud computing, bluetooth, heart rate monitors, 3D printing, genetic tests, air quality sensors, GPS trackers, smart watches, finger-print scanners, thermal cameras, have made tools like Skype, iPhones, Lyft, WhatsApp, Kickstarter, YouTube, 23 and Me, ButcherBox, blood tests, Khan Academy, Google Wear, GitHub, SquareSpace, AirBnB, and Firefox so extremely powerful and so easy to make, we don’t need to fight to control them, but fight to spread them. This doesn’t come naturally to us, however, because the rules of old philosophies are based on fighting over, not sharing, tools.
+Techvolution is a new philosphy about making regular people the hero of their own story. It does so by empowering them with new tools. It's written to solve frontline problems.
 
-Techvolution is a new philosphy about making regular people the hero of their own story. It does so by empowering them with new tools.
+With Techvolution, you won’t fight political battles with bristol boards or painted faces. You’ll economically exercise your right to vote, by deciding which tools best solve your problem at home, work, and play. Unlike me, you’ll never need to deal with any gatekeepers, because you won’t have to knock at anyone’s door asking permission to do what’s best for you.
 
-With Techvolution, you won’t fight political battles with bristol boards or painted faces. You’ll economically exercise your right to speak your mind and vote your conscious, by deciding which tools best solve your problem at home and work. Unlike me, you’ll never need to deal with any gatekeepers, because you won’t have to knock at anyone’s door asking permission to do what’s best for you.
+I’m not talking about an idealic world from storytime. This place of sharing tools already exists. Wikipedia, YouTube, StackOverflow, VS Code, GitHub, Linux, Mozilla are only a few examples of the wonderful world of cooperation that exists today. It’s called the open-source community because software and ideas are “openly shared” to help create new tools. Millions of creators and contributors, designers and coders, who don't care about a person's title but only how well they solve problems, are already working and living inside a fundamentally new story that’s responsible for our online world. I only want to rid our society of old philosophies holding it back, to let these protagonists prosper.
 
-I’m not talking about an idealic world from storytime. This place of sharing tools already exists. Wikipedia, YouTube, StackOverflow, VS Code, GitHub, Linux, Mozilla are only a few examples of the wonderful world of cooperation that exists today. It’s called the open-source community because software and ideas are “openly shared” to help create new tools. Millions of creators and contributors, designers and coders, who don't care about a persona's title but only how well a person solves problems, are already working and living inside a fundamentally new story that’s responsible for our online world. I only want to rid our society of old philosophies holding it back, to let these protagonists prosper.
+People often say we're addicted to our phones. We aren’t. Checking news feeds, downloading ping-pong games, taking endless photos is regular people learning what our new tools can do. Our ancestors did the same with printed books, telescopes, and muskets.
 
-People often say regular people are addicted to our phones. We aren’t. Checking news feeds, downloading ping-pong games, taking endless photos, is regular people toying around with our new tools to learn what they can do. Our ancestors did the same with printed books, telescopes, and muskets. Soon enough they were empowered to read, ee the Universe for themselves, and fight tyrants. We toy with new tools before we use them to change the world.
-
-We're not addicted to our phones. We're learning to use our new tool. When a new philosophy turns them on they become lightsabres. For us today, that’s Techvolution.
+These were simply addicting toys until new philosophies turned them into lightsabres. Despite the rules, these new tools empowered the people to read unknown history, see the Universe for themselves, and fight kings. We can stop using our tools, and start weilding lightsabres to fight for a better life, with the new philosophy of Techvolution.
 
 # ACT ONE
 
@@ -94,21 +92,21 @@ Fighting to spread the power of new tools is an archetypal human story. Galileo 
 
 Likewise, I want to empower you with tools. Yet, this is not a book about how to invent tools. Amazing books like _Rework_ and _Zero to One_ already do that. Nor is it a book about the history of invention. _The Innovators_ does that better than I could dream. If you want brilliant critiques of our society, _The Incerto_ and _The Great Degeneration_ are already waiting for you. Instead, this is a book about how new tools empower society, and how we can distribute their power to improve the lives of regular people today.
 
-It all comes down to changing the rules of our society with a new philosophy. Todays philosophies don’t mix well with modern technology. They consider us, the middle class, as extras. People who are just around to watch the story unwind around them. Even if we watch our problems pile up at home and at work, we’re not supposed to solve them until we pass through the gatekeepers of old tools in government bureaucracies, bloated corporations, high-end lawyer offices, or endless consultant meetings. This is the equivalent of Blockbuster writing rules to protect itself and keep on reigning in an era of YouTube and Netflix; basically, the opposite of evolution.
+It all comes down to changing the rules of our society with a new philosophy. Todays philosophies don’t mix well with modern technology. They consider us, the middle class, as extras. People who are just around to watch the story unwind around them. Even if we watch our problems pile up at home and at work, we’re not supposed to solve them until we pass through the gatekeepers of old tools in government bureaucracies, bloated corporations, high-end lawyer offices, or endless consultant meetings. This is the equivalent of Blockbuster writing rules to make us keep renting DVD's instead of saving time and money with YouTube and Netflix; basically, the opposite of evolution.
 
 Techvolution is inspired by Nature. Notice gatekeeper’s don’t exist there. Evolution doesn’t have anyone telling a cheetah she’s running too fast, that the ants are too cooperative, or that a camel is too water efficient. Lifeforms adapt as best they can to their own problems and the winners survive. There are no middleman, no gatekeepers, just problem solvers. And the problem solvers prevail.
 
-However, human biological adaptions take thousands of years, so ours have effectively stopped. We'll never biologically evolve to fly, do advanced calculations, or breath Martian air. Humanity continues life's evolution with tools. We're basically cyborgs who adapt and solve problems by upgrading our tools to the lastest problem in transportation, calculation, and breathing. Hold a pen, calculator, smarthphone, plane joystick, space suit, and you're a different cyborg each time.
+However, human biological adaptions take thousans of years, so ours have effectively stopped. We'll never biologically evolve to fly, do advanced calculations, or breath Martian air. Humanity continues life's evolution with tools. We're basically cyborgs who adapt and solve problems by upgrading our tools to the lastest problem in transportation, calculation, and breathing. Hold a pen, calculator, smarthphone, plane joystick, space suit, and you're a different cyborg each time.
 
 However, our problem solving is held back by old philosophies that empower gatekeepers. People in control of old tools like Blockbuster, getting to decide when, and if, humanity will upgrade our tools.
 
-In _Star Wars_, the Force is an all powerful energy field. Luke Skywalker's Jedi warriors harness the light side to help others. Darth Vader's evil Sith harness the dark side to help themselves.
+In _Star Wars_, the Force is an all powerful energy field. Luke Skywalker's Jedi warriors harness the light side to help others. Darth Vader's evil Sith lords harness the dark side to help themselves.
 
-We call technological protagonsts "trailblazers". Like Jedi, they empower us cyborgs with new tools. But since some gates are good, like the security ones, we don't have a political name for the antagonists. Thus, I call antagonists to our technological evolution Darth Blockbuster. They are the people who prevent human evolution for their self-interest.
+We call technological protagonsts "trailblazers". Like Jedi, they empower us cyborgs with new tools. But since some gates are good, like the security ones, we don't have a political name for the antagonists. Thus, I call antagonists to our technological evolution Darth Blockbuster; people who prevent human evolution for their self-interest.
 
 Biological upgrades and adaptions is called evolution. I call human technological evolution _Techvolution_. This book is about inventing Techvolution, a philosophy to re-write the rules of society, to kill Darth Blockbuster, so regular people can solve our problems with technological upgrades as smoothly in human society, as natural selection does in nature.
 
-And to make it happen, you, the current extra, have to join the fight. Human evolution depends on you picking the right side between a old ruling philosophy filled with rules to keep your frontline problems alive, and this new one that says solving your real-life problems makes you a hero.
+And to make it happen, you, the current extra, have to join the fight. Human evolution depends on you picking the right side between an old ruling philosophy filled with rules to keep your frontline problems alive, and this new one that says solving real-life problems makes you a hero.
 
 ## Cast of Ideas and Characters
 
@@ -120,33 +118,33 @@ Philosophy: the largely unspoken ideals that tell members of society what’s ri
 
 Ruling philospophy: is a civilization’s chosen philosophy. One that all factions agree on. Like the “Divine Rights of Kings” derived from Christian theology used in royalist Europe, “Marxist-Leninism” of the Soviet Union, or the combination of “red / blue” philosophies of our philosophy today.
 
-Rule book: the written and unwritten etiquette, workplace, and legal rules that govern everyday life. The rule book is interpreted from the ruling philosophy.
+Rule book: the written and unwritten social, workplace, and legal rules that govern everyday life. The rule book is interpreted from the ruling philosophy.
 
 Technology: a catchall term for things we make tools from, like concrete, lumber, nails, shingles, insulation, and bricks.
 
 Tool: a catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to record and pass on knowlege, and houses to shelter in.
 
-Frontline: The point of contact between a tool and the problem. A movie usher talking to moviegoers, nurses giving vaccines, cleaners cleaning a city bus, police chasing a robber, soldiers on the battlefield. People on the frontline have jobs to solve problems.
+Frontline: The point of contact between a tool and the problem. Nurses giving vaccines, cleaners cleaning a city bus, soldiers on the battlefield. People on the frontline have jobs to solve problems.
 
-Hierarchy: Every tool develops a power structure to manage its use in society. Kings and queens having the keys to the castle for example. People in the hierachy have titles like prince and executive to mark their position inside the power structure.
+Hierarchy: Every tool develops a power structure to manage its use in society. Kings and queens having the keys to the castle for example. People in the hierachy have titles like prince and executive to mark their position in the power structure.
 
 The story of civilization: The invention of new technology and creation of new tools to overcome whatever problem troubles us. We use tools to evolve.
 
 Protagonists: people who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly improves life on Earth. I call them Jedi. We call their leaders trailblazers who often skirt the rules; Nikola Tesla, Steve Jobs, Michael S. Hart, Bill Gates, Linus Torvalds, Elon Musk.
 
-Antagonists: people who selfishly resist new tools to defend their wealth, power, and prestige. Often called establishment, elites, antagonists usually manage companies or institutions based on dated technologies and think working on the frontline is beneath them. They work to control the rule book so they can hide behind it. We don't often individually identify them. I invented "Darth Blockbuster" so we can.
+Antagonists: people who selfishly resist new tools to defend their wealth, power, and prestige. Often called establishment or elites, antagonists usually manage companies or institutions based on dated technologies and think working on the frontline is beneath them. They work to control the rule book so they can hide behind it. We don't often individually identify them. I invented "Darth Blockbuster" so we can.
 
 Extras: everybody in the middle of a battle between antagonist and protagonist. Because they have no direct loyalty to either side or their tools, extras can pick winners and losers. Usually extras are in the middle class; not so poor as to be desperate, but not so powerful they want to keep the world the same. Sadly, extras don't realize their power.
 
-The Death Star: The rule book when its controlled by Darth Blockbuster. Today it exists inside countless government regulations, laws, and corporation manuals, that prevent new tools being used by people.
+The Death Star: The rule book when its controlled by Darth Blockbuster. Today it exists inside countless regulations, contracts, laws, and manuals that prevent new tools being used by people.
 
 Techvolution: a new philosophy empowering seemless human technological evolution by ridding Darth Blockbuster of his power, by empowering extras to decide when society should upgrade our tools.
 
 ## Nice to Meet You, Skywalker
 
-And the story is about to begin. Not in a foreign city, mythical world, or galaxy far far away. Right here and now, where ever you are on this Earth. We need to change our ruling philosophy to take advantage of digital tools. Only you can make it happen.
+And the story is about to begin. Not in a foreign city, mythical world, or galaxy far far away. Right here and now whereever you are on this Earth. We need to change our ruling philosophy to take advantage of digital tools. Only you can make it happen.
 
-A little about me first. I'm nobody special. In my youth I was a cleaner, drywaller, movie usher/projectionist, and die-hard ideologue. After dropping that bad habit, I studied political philosophy and innovation at the University of Toronto, usually while working full-time. It's a good thing, I learned far more about innovation on the frontline as a line worker, an account manager, a claims adjuster. I was the co-worker you sometimes forget about because they just do their job. Making an app and meeting my personal Darth Blockbuster was an education unto itself. All this taught me Techvolution. Watching my friends struggle using, owning, maintaining, and working with the old tools motivated me to write it down for you.
+A little about me first. I'm nobody special. In my youth I was a cleaner, drywaller, movie usher/projectionist, and die-hard ideologue. After dropping that bad habit, I studied political philosophy and innovation at the University of Toronto, usually while working full-time. I lucked out, because I learned far more about innovation continuing to work on the frontline as a line worker, an account manager, a claims adjuster. I was the co-worker you sometimes forget about because they just do their job. Making an app and meeting my personal Darth Blockbuster was an education unto itself. All this taught me Techvolution. Watching my friends struggle owning, maintaining, and working with the old tools motivated me to write it down for you.
 
 So that's a snapshot. But I'm not important. You are. Because from hospital cleaners, to internet technical support, nursing to adjusting, only workers on the frontline know the tools our society needs to fix our many problems.
 
@@ -453,53 +451,63 @@ When the people took control of books, guns, and science, they put presidents an
 
 Rousseau died never having found a home. After they won their revolutions, a population of heroes put him to rest inside the glorious Panthéon, heralding him as a renowned breaker of chains, in a free world he helped build. Where any guy can be the prince, and any girl can be Cinderella.
 
-The question for us is, how did Rousseau actually make an entire people change their ruling philosophy, and how can we do it better, because I'd really like to avoid a revolution.
+The question for us is, how did Rousseau actually make an entire people change their ruling philosophy, and how can we do it better, because I'd really like to skip revolutions.
 
 ![Revolutions!](/img\diagrams\techvolution-revolution.png)
 
 ## ~~Revolution~~ Techvolution
 
-Stargazer, you look disappointed. You think revolutions are fun. You want to follow _Les Miserables_ and march in the street. Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less regulations! Affordable health insurance! Tax cuts! You save the planet and I'll save the government's credit rating!
+Stargazer you look disappointed. You think revolutions are fun. You want to follow _Les Miserables_ and march in the streets. Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less bank regulations! Affordable health insurance! Tax cuts! We'll save the planet and the government's credit rating!
 
-It'll be fun. We'll write the solutions in regulations, laws, and blog posts and "poof" it'll happen like magic.
+It'll be fun. We'll write the solutions in regulations, talk on cable news, and "poof" it'll all happen.
 
-When you're car breaks down, you call a mechanic for help. If he shows up with no tools you'd get mad. No arguments, no discussions, nothing else matters. No tools, means no problem-solving.
+When your cars breaks down, you call a mechanic for help. If he shows up with no tools you'd get mad. No arguments, no discussions. Nothing else matters. No tools, means no problem-solving.
 
-Red / blue philosophies show up with no tools. You shouldn't care about their regulations, bristol boards, and speeches, anymore then you should care about seeing the mechanic's company manual.
+Middle class people have a host of problems like water, prescription drug, and tutoring bills. You need solutions. When someone says they can help, you should ask what tool they have, or will give you, that will help. You don't need regulations, laws, or blog posts anymore then you need to see the mechanic's favorite manual. You need tools.
 
-Solar panels, air quality testors, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets. These improve our ranking in the story of civilization.
+Now consider that with a new digital car, like a Tesla, the car could call the mechanic, give him a diagnostic, and he'd tell what the problem is, and most importantly, what you need to do next.
 
-Ignore revolutions! Resist the self-gratification of blaming "the other side" for society's problems.
+Now consider it's often against the rules to solve problems so simply.
 
-Digital tools and their many Jedi innovators are ready and waiting to solve real-life problems. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. The people majically bonding with whatever tool they want, is the ultimate revolution.
+Please realize what we're missing out on. Here's a exercise that'll help. Everytime you want to watch a Netflix show or YouTube video, get in your car, drive five miles, wait 10 minutes, throw away six bucks, drive back home, and then press play. That's what DVDs were like.
+
+Netflix was a big victory. But a rare one. Today, how we pay taxes, recognize education, repair electronics, transfer home ownership, decide our investments, sign sales contracts, get hired, fire someone, use car insurance, access medical records, and so much more, works like a DVD. A unneccessary and expensive pain in the ass enforced by a Death Star of rules.
+
+Not because red / blue leaders and supporters don't care. But because their philosophies don't know, so they basically tell the middle class to walk to the nearest gas station. It's the solution they're familiar with.
+
+The power of internet connected digital cars, solar panel roofs, air quality testors, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets, online education, is impossible to harness with old philosophies obessed with growing and protecting limited tools. Thus, we're held back in the story of civilization.
+
+Ignore revolutions! Resist the self-gratification and fun of blaming "the other side" for society's problems.
+
+Digital tools and their many Jedi innovators are ready and waiting to solve real-life problems, it's intoxicating to them. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. The people majically bonding with whatever tool they want, is the ultimate revolution.
 
 ## Good and Bad Stories
 
-And that, in short, is what Rousseau said; let the people prosper with new tools. Let the nobility return to their natural equality inside a democracy. Rousseau was right, this did happen, but only through violent revolutions.
+And that, in short, is what Rousseau said; let the people prosper with new tools. Let the nobility return to their natural equality inside a democracy. This happened of course, but only through violent revolutions.
 
-It's funny to note, Rousseau wasn't only hated by the nobles. Lots of extras didn't like his ideas either. And this is where we can improve on Rousseau, using Rousseau. Because like with Wikipedia, the extras are our source of change.
+It's important to note, it wasn't only the nobles who hated Rousseau. Some extras did too. And this is where we have to improve on Rousseau, using Rousseau. Because like with Wikipedia, empowered extras are the source of proactive change, so we need lots on our side.
 
-We improve Rousseau by understanding, in addition to being a philosoper, Rousseau was also a novelist. A skill he used (maybe unintentially) in his philosophy. What his philosophy did was tell the difference between good and bad stories; not in literature, but in human societies. Understanding this difference will help us get the extras to stop liking the bad stories of Darth Blockbuster, and get them addicted to the magic of good storytelling. We'll keeping learning with movies because that's what most people will know.
+We engage the extras by noting Rousseau was also a novelist. A skill he used in his philosophy by telling the difference between good and bad stories; not in literature, but in human societies. Understanding this difference will help us disengage any extras distracted by Darth Blockbuster's dark majic, and get them addicted to the majic of new tools.
 
 ## One Good Story, Two Bad
 
-All stories are a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change reality happens in three parts. The first is the introduction of the problem and characters. The second is the cycle of thinking of new plans, and attacking the enemy, that heroes and villians do; until the third part in the conclusion, where we find out which side wins. Although its easier to see in some more than others, all stories have this make up.
+Every story is a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change reality happens in three parts. The first is the introduction of the problem and characters. The second is the cycle of thinking of new plans, and attacking the enemy, that heroes and villians do; until the third part in the conclusion, where we find out which side wins. Although its easier to see in some more than others, all stories have this structure.
 
-The difference between good and bad stories is how much thinking and attacking each character does. Good stories mix it up, while bad stories have too much of one or the other.
+The difference between good and bad stories is how much thinking and acting each character does. Good stories mix it up, while bad stories have too much of one or the other.
 
-**Classic movies:** are fights over real-life problems. Protagonist and antagonist think of new ideas and act on them in a back and forth battle. New ideas give the stories surprises, while fighting to win requires logical actions.
+**Classic movies:** are fights over real-life problems. Protagonist and antagonist repeatedly think of new ideas and act on them in a back and forth battle. New ideas give the stories surprises, while fighting to win requires logical actions.
 
-Mixing logical problem solving, with new ideas, gives classic stories "logical surprises", otherwise called plot twists. Audiences are naturally engaged in the magic of this good stortelling. Always unsure of what's going to happen next, the conclusion can be a big victory for the good or bad guys, or somewhere in between.
+Mixing logical problem solving, with new ideas, gives classic stories "logical surprises" otherwise called plot twists. Audiences are engaged by not knowing what's going to happen next. The conclusion can be a big victory for the good or bad guys, or anywhere in between.
 
 There's no way to know which stories will reasonate with audiences, but only these stories can reasonate with audiences and become classics like Cinderella, Romeo and Juliette, The Matrix, Star Wars.
 
-**Art films:** are not about any specific problem. Like personal journals they're more about the protagonist's thoughts, not her acting to overcome a problem. The result is very surprising idiosyncratic behavior, but storylines with no problem solving to logically tie events together. The result is surprising but pointless stories with conclusion that can't change reality.
+**Art films:** are not about any specific problem. Like personal journals they're more about the protagonist's thoughts, not her acting to overcome a problem. The result is very surprising idiosyncratic behavior, but storylines with no problem solving to logically tie events together. The result is surprising but pointless stories with conclusion that can't change reality because the hero refused to try.
 
-Without logical surpries, art films needs to get weirder and weirder to maintain interest. To insulate themselves from criticism art filmmakers usually give themselves ever more awards, granduer, and titles and end up like their protagoinsts, on stages talking about themselves. Film festivals like Cannes, Sundance, Toronto mainly show art films.
+Without logical surprises, art films needs to get weirder and weirder to maintain interest. To insulate themselves from criticism art filmmakers usually give themselves ever more awards, granduer, and titles and end up like their protagoinsts, on stages talking about themselves. Film festivals like Cannes, Sundance, Toronto mainly show art films.
 
-**Spectacle movies:** are about an obvious problem, ie. Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are thus very logical because the problem is very simple; survive or die. However, since the action is so instinctual, there's no time for the protagoinst to think of new ideas. The result is very logical but unsuprising stories that can't change reality.
+**Spectacle movies:** are about an obvious problem, ie. Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are thus very logical because the problem is very simple; survive or die. However, since the action is so instinctual, there's no time for the protagoinst to think of new ideas. The result is very logical but unsuprising stories that can't change reality because no new ideas were introduced.
 
-To maintain interest, spectacle movies have to keep ramping up special effects, gore, and rauchiness, while reusing old successful stories and characters. It doesn't work for too long, so spectacle producers usually looking for new customers with hype filled mass marketing campaigns. Today most franchise movies, sequels, and remakes are spectacle movies.
+To maintain interest, spectacle movies have to keep ramping up special effects, gore, and rauchiness, while reusing old successful stories and characters. It doesn't work for too long, so spectacle producers look for new customers with hype filled mass marketing campaigns. Most franchise movies, sequels, and remakes are spectacle movies.
 
 ![All three stories!](/img\diagrams\techvolution-all-stories.png)
 
@@ -507,17 +515,17 @@ To maintain interest, spectacle movies have to keep ramping up special effects, 
 
 In storytelling, logic and surprises counter-balance each other. Withholding one makes art films that are self-important, and withholding the other makes spectacle movies that are simple. Classic stories are good because they mix the two and create "logical surprises" that open our minds and change things. This is why art/spectacle stories don't have "spoilers", while we want to "go in fresh" for classic stories.
 
-You can see the difference in your favourite sitcom: _The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory._ whichever. They start off as classic stories, with characters who deal with relatable problems like not liking their jobs or being tired of dating. As these characters keep encountering problems, we learn more about them.
+You can see the difference in your favourite sitcom such as _The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory_. They start off as classic stories, with characters who deal with relatable problems like not liking their jobs or being tired of dating. As these characters keep encountering common problems, we learn more about them.
 
-However, in later seasons, to keep their-now popular-characters alive, the sitcoms keep them doing the same things. Kramer can't get a job, Raj can't get a girl, Michael Scott can't get self-aware. Here sitcoms become art and spectacle stories. Art, as in these characters can't overcome problems anymore. And, spectacle, because we the audience keep watching even though we already know what's going to happen each time.
+However, in later seasons, to keep their now popular characters alive, the sitcoms keep them living the same stories. Kramer can't get a job, Raj can't get a girl, Michael Scott can't get self-aware. Here sitcoms become art and spectacle stories. Art, as in these characters can't overcome problems. And, spectacle, because we the audience keep watching even though we already know what's going to happen.
 
-Rousseau noticed society has classic, art, and spectacle stories, and goes through the same transitions. He also noticed how one works for equality and democracy, and the other two work to enrich the rich and distract the masses.
+Rousseau noticed society has classic, art, and spectacle stories, and goes through the same transition as long running sitcoms. Rousseau also noticed how one story works for equality and democracy, and the other two work to enrich the artists and distract the masses.
 
 ![Classic heroes](/img\diagrams\techvolution-protagonist-comparison.png)
 
 ## Politics of Stories
 
-Classic stories solve real-life problems. Art stories solve nothing. Spectacle is only a distraction.
+Classic stories tackle real-life problems. Art stories talk about themselves. Spectacle stories are a distraction.
 
 For politics, this means classic stories are about equality and democracy, while art and spectacle are about maintaining a heirarchy. I'll explain why.
 
@@ -853,3 +861,6 @@ So I raise my sword, and Darth Blockbuster, the ignorance protagonist of a dead 
 PICTURE, LIKE DOUGLASS' BUT WITH LIGHTSTAR AND A BLANK HEIRARCHY
 
 * and civilization story gets a big upgrade.  We need to change our ruling philosophy to take advantage of digital tools. Only you can make it happen. That doesn't mean we replace red / blue, it means we disable the Sith from every coming back.
+* People will never stop following the rules. Anarchy doesn't work. The key to victory is changing the source of the rule book, from human rules, to Nature's. Just like science did.
+* the way to fight back against human rules/philosophies, is not to have a philosphical argugment of "better", simply track resources like in Nature. ex. how many laptops are totally replaced, rather then repaired, because repairability is so hard. and factor in this number/cost when buying/insuring the tool.
+* Rossman, think of neighbors as my source of help, not my source of competition. we have to know each other's "business" to have each other's back. Fight back with Life Star knowledge is power, not only regulation battles.

@@ -47,9 +47,9 @@ I did my best as a protagonist. Not good enough to prevent anyone's accident, bu
 
 Rest assured, the millions of protagonists inside the open-source community are making an app far more powerful than my little thing. Darth Blockbuster can't stop it, because the Sith are defeated. The're lawsuits, corporate rules, red / blue marches, worked to suppress digital tools since the 1970's. No more.
 
-The question is, now that Darth Blockbuster isn't weighing us down, what should we do with the immense knowledge and resources the Life Star gives us. What future should the Jedi in the open-source community build.
+The question is, now that Darth Blockbuster isn't weighing us down, what should we do with the immense knowledge and resources the Life Star gives us. What future should the open-source community build.
 
-All us geeks have dreamed of it everytime we watch not a galaxy far far away, but the one with the continuing mission to explore strange new worlds. We have to start somewhere; like the Moon, Mars, and beyond. I think we all want live in the world of Captain Picard's a rational society, where problem-solving trumps rules, individuals always contributeths, but science, technology and tools govern the story of civlization.
+All us geeks have dreamed of it everytime we watch not a galaxy far far away, but the one with the continuing mission to explore strange new worlds. We have to start exporing the next frontier sometime. I think we all want live in the world of Captain Picard's a rational society, where problem-solving trumps rules, individuals always contribute, and science, technology and tools govern the story of civlization.
 
 That's coming up in the sequel, the book I originally wrote, _Techvolution: Starting Starfleet_.
 
