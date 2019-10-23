@@ -21,6 +21,8 @@ However, come the 1970's movie theatres were almost dead. They needed to attract
 
 The bankers did. When Jaws, Star Wars, Indiana Jones were massive hits, they said, give me more of that. What else could anyone do. Making classic stories requires taking chance to see what works, and that requires showing movies to audience. Takng these chances is not allowed per the rules.
 
+* That hole, make classic stories and see which stick, was antithetical to Darth Blockbuster's expectations on returns. He'd prefer to buy up, use up, and move out.
+
 So, here we are today, watching the same blockbuster stories, but with more effects, and spectacle each time, so hopefully we wont notice the stories kinda suck. Studio's keep making them, because they can tell theatres. Studio executives are no longer classic storytellers, but agents and dealmakers fighting to control the rights to our 1970's culture.
 
 And as they made ever more spectacle movies, the movie industry compensated by making ever more art films. These from Sundance, Cannes, Toronto, Tribeca and whereever else they like holding parties and panels. Films that get weirder and weirder, where the hero talks about themselves and doesn't solve regular problems.

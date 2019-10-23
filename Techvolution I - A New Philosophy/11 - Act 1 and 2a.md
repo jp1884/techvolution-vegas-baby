@@ -22,7 +22,7 @@ To the extras. When it's time for you to act, I pray you pick the right side.
 
 ## The Beginning
 
-It all started with a door in the face. I few more actually. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product upper management were never going to buy.
+It all started with a door in my face. I few more actually. I'm either too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a product upper management were never going to buy.
 
 Before you wonder, it wasn't the price, there was no price. It wasn't the competition. None of that either. And I can promise it worked, because I had spent years in a cubicle doing the frontline job it worked for.
 
@@ -74,7 +74,7 @@ Red and blue philosphies were invented to invent new tools, not use them. They g
 
 Today the goal of industrialization is here. Hpapily, with live in a world far far away from primitive tools. Digital tools are so easy to make that we can customize them for every person’s individual problems. Technologies like high-speed internet, smartphones, machine learning, computer programming, cloud computing, microchips, bluetooth, heart rate monitors, 3D printing, genetic tests, air quality sensors, GPS trackers, smart watches, finger-print scanners, thermal cameras, have made tools like Skype, iPhones, Tesla Solar Roofs, Lyft, WhatsApp, Kickstarter, YouTube, 23 and Me, Snapmaker, ButcherBox, Khan Academy, Podcasts, Nano Membrane Toilet, Google Wear, GitHub, Sanitation Now!, SquareSpace, Onnit, AirBnB, and Firefox so extremely powerful and so easy to make, we don’t need to fight to control them, but fight to spread them. This doesn’t come naturally to us, however, because the rules of old philosophies are based on fighting over, not sharing, tools.
 
-Techvolution is a new philosphy about making regular people the hero of their own story. It does so by empowering them with new tools. It's written to solve frontline problems.
+Techvolution is a new philosphy about making regular people the hero of their own story. It does so by empowering them with new tools.
 
 With Techvolution, you won’t fight political battles with bristol boards or painted faces. You’ll economically exercise your right to vote, by deciding which tools best solve your problem at home, work, and play. Unlike me, you’ll never need to deal with any gatekeepers, because you won’t have to knock at anyone’s door asking permission to do what’s best for you.
 
@@ -158,19 +158,19 @@ What is the rebellion. It's definitely not rallies, marches, or protests. It's a
 
 ## The Magic of Evolution
 
-Well young Stargazer, before you go off and face Darth Blockbuster and blow up his Death Star, you have to learn some things. The most important being the all powerful energy field inside every lifeform. No not the Force. I'm talking about evolution.
+Well young Stargazer, before you face Darth Blockbuster and blow up his Death Star, you have to learn some things. The most important being the all powerful energy field inside every lifeform. No not the Force. I'm talking about evolution.
 
-Evolution empowers life by giving every new lifeform a slightly different variation. With variations life can constantly test for environmental changes in things like water levels, temperature, and food supply. The variations unfit for the frontline die off. The fittest survive. This natural selection is how evolution finds which lifeforms best represent life on Earth.
+Evolution empowers life by giving every new lifeform a slightly different variation. With variations life can constantly test for environmental changes in things like water levels, temperature, and food supply. The variations unfit for the frontline die off and the fittest survive. This natural selection finds which lifeforms best represent life on Earth.
 
-Evolutions works so well because it creates biodiversity. The more lifeforms there are, the more life can probe and therefore better adapt to environmental changes. When temperatures increase or rain patterns change, low biodiversity decreases respons times, and high biodiversity increases it because more lifeforms feel the pain, and therefore life can sooner evolve a solution to the frontline problem.
+Evolutions works so well because constant variations create biodiversity. The more lifeforms there are, the more life can probe and better adapt to environmental changes. When temperatures increase or rain patterns change, the more lifeforms there are that feel the pain, the sooner life can evolve a solution to the frontline problem.
 
-However, if the environment is stable, lifeforms need a caretaker. Someone to keep them in shape, ready to act for when the environment does change. That's why nature put in a system of checks and balances called ecosystems. Inside ecosystems is where lifeforms form communities and cooperate to keep each other on their toes.
+However, if the environment is stable, lifeforms need a caretaker; someone to keep them in shape, ready to act for when the environment does change. That's why nature put in a system of checks and balances called ecosystems. Inside ecosystems is where lifeforms form communities and cooperate to keep each other on their toes.
 
-Ecosystems are a food chain of different plants, herbivores, carinvores, and decomposers. Each lifeform checks the other's excesses and makes sure everyone reciprocates to keep the ecosystems' nutrients flowing. Checks, balances, and reciprocation is how ecosystems make sure life stays in shape and keeps evolving even in good times.
+Ecosystems are a food chain of many different plants, herbivores, carinvores, and decomposers. Each must reciprocate to stay in the community. Enforced reciprocation is how lifeforms in stable times stay in shape, ready to respond to any environmental changes as soon as possible.
 
-Evolution may not be the Force, but it's certainly magical. Without any lifeform being aware of its tricks, evolution turned a lifeless planet into an oasis. The big drawback is time. Biological variations can take millions of years to respond to environmental changes. Think of the poor polar bears. They'll never understand why the ice isn't coming. And even if they could, no lifeform can proactively change their biology.
+Evolution may not be the Force, but it's certainly magical. Without any lifeform being aware of its tricks, evolution turned a lifeless planet into an oasis. The big drawback is time. Biological variations can take millions of years to respond to environmental changes. Think of the poor polar bears. They'll never understand why Artic ice isn't coming. And even if they could, no lifeform can proactively change their biology.
 
-In contrast, humanity can change (hopefully in time to help the polar bears). Not our biology. But our "cyborgology" if you will; we feel frontline pain, reflect on the problems causing it, and create a new tool to overcome the problem.
+In contrast, humanity can change (hopefully in time to help the polar bears). Not our biology; but our "cyborgology" if you will. We feel frontline pain, reflect on the problems causing it, and create a new tool to overcome the problem.
 
 Techvolution is therefore intentional evolution. A better form of evolution that isn't a magical mystery, like evolution is to polar bears, but something we can understand. Question is, what drives us to evolve, when the rules often say it's wrong?
 
@@ -178,17 +178,17 @@ Techvolution is therefore intentional evolution. A better form of evolution that
 
 ## The Majic of Techvolution
 
-We call it genius when someone uses existing technology to make a new tool. Happily these trailblazers are self-motivated and we already celebrate their genius and innovations. Heck, even Darth Blockbuster often loves their work. But innovation isn't the only step to Techvolution. Only when the extras use a tool do we evolve.
+We call it genius when someone uses existing technology to make a new tool. Happily these trailblazers are self-motivated, and we already celebrate their genius and innovations. But innovation isn't the only step to Techvolution. Only when the extras use a tool do we evolve.
 
-So what trick does Nature play on extras to reach for new tools and risk Darth Blockbuster's wrath. The answer is a trick inside our souls.
+So what trick does Nature play on extras to reach for new tools and risk Darth Blockbuster's wrath. The answer is the force inside our souls.
 
-Unlike evolution, the trick is not magic, because extras understand they're dropping one tool and attaching another; like swapping out the DVD player for Netlix. Yet, there's still something wonderfully mystical about choosing to leave ones's comfort zone and learning a new cyborgolgy. It's like a desert fox putting on a swimsuit, attaching flippers, and slipping on swimming goggles, then diving into the ocean yelling "I can do this!".
+Unlike evolution, the trick is not magic, because extras understand they're dropping one tool and attaching another; like swapping out the DVD player for Netlix. Yet, there's still something wonderfully mystical about choosing to leave ones's comfort zone to learn a new cyborgolgy, I call it majic. Pronounced like magic, but spelled differently to note it's the free choice of a regular person to evolve life, even if they don't know how.
 
-Changing our tools is so wonderfully brave, mysterious, and difficult, I call it majic. Pronounced like magic, but spelled different so we know it's the free choice of a regular person to upgrade to a new tool and continue humanity's evolution.
+We underappreciate our cyborgology. But everytime we learn a new tool we're a desert fox wearing swimsuit, fins, and goggles diving into the ocean yelling "Don't worry, I'll learn!". And it's majic that attracts us to new tools.
 
-Think of majic like a bonding agent. Carbon atoms are sticky and thereby bond other atoms to form the Universe's many molecules. Genius in the protagonists minds bonds existing ideas into original ones. Good storytelling bonds audiences with different worlds and glues them to their seats. And majic bonds people's minds and bodies with new tools.
+Think of majic like a bonding agent. Carbon atoms are sticky and thereby bond other atoms to form the Universe's many molecules. Genius in the protagonists minds bonds existing ideas into original ones. Good storytelling bonds audiences with different worlds and glues them to their seats. And majic bonds people's minds and bodies with new tools to advance life's ability to prosper.
 
-Techvolution is the ruling philosophy letting extras majically bond with any tool so they can solve frontline problems. And when the rules say its wrong, we can get them out of the way with a short lesson.
+Techvolution is the ruling philosophy letting extras majically bond with any tool they want so they can solve frontline problems. And when the rules say its wrong, we can get them out of the way with a short lesson.
 
 ![New Tool/majic](/img\diagrams\techvolution-majic.png)
 
@@ -198,7 +198,7 @@ Techvolution is the ruling philosophy letting extras majically bond with any too
 
 ## The Lesson
 
-Despite our problems with our current one, society always needs a ruling philosophy. We use them to create the rules that glues society together. Without it the story of civilization would degrade into chaos.
+Despite our problems with our current one, society always needs a ruling philosophy. We use it to create the rules that glue society together. Without a ruling philosophy the story of civilization would be a story of chaos.
 
 It's too bad Darth Blockbuster fights to control the ruling philsoophy. When he succeeds, he writes rules to keep the tools he controls, and therefore himself, in power. Corporate manuals, univeristy guidelines, social justice blogs are among the pages of his Death Star rule book. These rules interfere with regular people majically bonding with new tools.
 
@@ -264,23 +264,23 @@ Story adapted from _A Narative of the Life of Frederick Douglass_. Free on Proje
 
 ## Douglass' Lessons
 
-Frederick Douglass is a true Jedi Master. His great bravery, persistence, and intelligence showcase humanity's endless potential. The big lesson we need to learn here Stargazer, is using majic to tell the difference between good and bad rules.
+Frederick Douglass is a true Jedi Master. His great bravery, persistence, and intelligence showcase humanity's endless potential. The big lesson we need to learn here Stargazer, is how to use majic to tell the difference between good and bad rules.
 
-Sophia taught Douglass to read. She wasn't told to. She did it because whatever our joys are, from boxing, fishing, or reading, we naturally love teaching our chosen tools. Our cyborgology isn't a choice, it defines our interests, emotions, and passions. We love spreading our tools because Nature wants us spreading them to continue its evolution.
+Sophia taught Douglass to read. She wasn't told to. She did it because we love teaching our chosen tools. Our cyborgology defines our interests, emotions, and passions. It's how we help evolve life on Earth.
 
 When a magician makes a playing card disappear, we smile in awe and childish wonder. That's really cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with reading, they've similarly performed something awesome, but its not a trick; they've upgraded someone's cyborgology and effectively created a new and improved person. This makes us smile for a long time. Majic is Nature's long lasting dopamine fix.
 
 Yet human made rules _sometimes_ say upgrading to a new tool is wrong. Medieval parishoners couldn't read a science book, French peasant farmers couldn't have a musket, a 1990's kid couldn't download a digital song. Today millions of tired mothers can't telecommute. Why?
 
-There is no easy answer. Society's rule book will never call itself a Death Star. Remember in no story does someone say their evil. The lesson Stargazer is it'll never be easy to know the difference between good and bad rules. Humans make rules too easily in speech, regulations, laws, to easily filter out the bad ones.
+There is no easy answer. Remember in no story does someone say their evil. Society's rule book will never call itself a Death Star. The lesson Stargazer is it'll never be easy to know the difference between good and bad rules. Humans too easily speak, and write rules to filter out the bad ones.
 
 Majic is thus our best judge of the rules. It naturally makes us smile. From teaching a kid to walk, to teaching a grandmother to "Skype in" and watch her grandkids first steps; teaching and learning new tools opens our hearts because it solves problems and improves our way of life.
 
 So, when you're teaching or learning a new tool and someone steps in your way with a rule, ask yourself if you feel majic, and if you do, ask the rulemaker why he doesn't. Perhaps there's a good reason. But keep Sophia in mind. Performing majic made her fell good, while following the rules only made her feel safe.
 
-And safety is fleeting Stargazer. No ruling philosophy lasts forever, thus all rule books eventually expire. Majic never will. It always was, and always will be, in our souls. It's how we naturally test our rule book. Electricity, the microchip, the iPhone were all made by people who skirted the rules. Yet we celebrate their innovators (Tesla, Noyce, Jobs) today because they invented new tools that let us feel and spread majic.
+And safety is fleeting Stargazer. No ruling philosophy lasts forever, thus all rule books eventually expire. Majic never will. It always was, and always will be, in our souls. It's how we naturally test our rule book. Electricity, the microchip, the iPhone were all made by people who skirted the rules. Yet we celebrate their innovators today because they invented new tools that let us feel and spread majic.
 
-Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers and orators his start, yet she lived a miserable life watching him achieve greatness because she broke the rules. Which is better?
+Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers and orators his start, yet she lived a miserable life watching him achieve greatness because she broke the rules. A fitting punishment to someone who blindly followed the rules.
 
 ## A World With Little Majic
 
@@ -288,11 +288,11 @@ Stargazer, the extras are struggling. The story of civilization is stalling. We 
 
 But let's talk about the good news. There's always good news and it's vital to mention to fend off negativity and despair. It's safer to live now then in any other point in human history. The amount of us dying violent deaths has consistently gotten lower.
 
-Think about this, in the Stone Age, about 10-20% of people died violently, most often by murder. In Rome's peak civilization it was around 2-5%. In the Dark Ages it was above 5%. But by the 18th century, when the Industrial Revolution started to mass produce tools for the first time, it went well under 5% again. Now, less than 1% of us die violently. See how making better tools improves our way of life.
+Think about this, in the Stone Age, about 10-20% of people died violently, most often by murder. In Rome's peak civilization it was around 2-5%. In the Dark Ages it was above 5%. But by the 18th century, when the Industrial Revolution started to mass produce tools for the first time, it went well under 5%. Now, less than 1% of us die violently.
 
-More good news. We have enormously powerful digital tools now! And they keep getting better, mostly because it gets easier putting more transistors on the microchips that power digital tools. In 1972, we could put 3,000 transitors on a microchip. In 2018 we could put 10 billion. In 46 years, we've increase computer power by three million percent.
+More good news. We have enormously powerful digital tools now! And they keep getting better. Look at microchips, the "brains" of a computer. It keeps getting easier to put more transistors on them. In 1972, we 3,000 transitors on a microchip. In 2018 we put 10 billion. In 46 years, we've increase computer power by three million percent.
 
-Starting in the 1970's, protagonists like Grace Hopper, Vint Cerf, and Al Alcorn used microchips to create the first digital tools like computer games, personal computers, the internet, and email.
+Digital tools hit their stride in the 1970's. That's whn protagonists like Grace Hopper, Vint Cerf, and Al Alcorn used microchips to created computer games, personal computers, the internet, and email.
 
 And now for the bad news. Because of old philosophies, these new tools were seen as a threat. Thus, Darth Blockbuster showed up, and and made his Death Star. He wrote contracts nobody can understand, regulations nobody can read, and enforced politically correctness nobody liked. All to keep his primitive tools like gas cars, call-centres, paper-based tax forms, legalese regulations, and massive suburban housing, in use and himself in power.
 
@@ -318,7 +318,7 @@ Since the 1970's red and blue increasingly hate each other. Note, the red and bl
 
 US - trust in DC
 <iframe src="https://ourworldindata.org/grapher/public-trust-in-government?time=1958..2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-Attached to old philoosphies, government is inable to solve frontline problems. The public's trust in their own government declines as a result.
+Attached to old philosophies, government is inable to solve frontline problems. The public's trust in their own government declines as a result.
 
 Miles driven
 ![Miles driven](/img\diagrams\US-VMT-per-capita.png)
@@ -459,27 +459,25 @@ The question for us is, how did Rousseau actually make an entire people change t
 
 Stargazer you look disappointed. You think revolutions are fun. You want to follow _Les Miserables_ and march in the streets. Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less bank regulations! Affordable health insurance! Tax cuts! We'll save the planet and the government's credit rating!
 
-It'll be fun. We'll write the solutions in regulations, talk on cable news, and "poof" it'll all happen.
+When your cars breaks down, you call a mechanic for help. If he shows up with no tools you'd get mad. No arguments, no discussions. Nothing else matters. Because no tools, means no problem-solving.
 
-When your cars breaks down, you call a mechanic for help. If he shows up with no tools you'd get mad. No arguments, no discussions. Nothing else matters. No tools, means no problem-solving.
+Middle class people have a host of problems like water, prescription drug, and tutoring bills. You need solutions. When someone says they can help, you should ask what tool they have, or will give you, that will help. You don't need regulations, laws, or blog posts anymore then you need to see the mechanic's favorite car repair manual. You need tools.
 
-Middle class people have a host of problems like water, prescription drug, and tutoring bills. You need solutions. When someone says they can help, you should ask what tool they have, or will give you, that will help. You don't need regulations, laws, or blog posts anymore then you need to see the mechanic's favorite manual. You need tools.
+Red / blue philosophies show up with no tools. Not because red / blue leaders and supporters don't care. But because their philosophies don't know. Stuck on old tools, they tell the middle class to walk to the nearest gas station and hope for help.
 
-Now consider that with a new digital car, like a Tesla, the car could call the mechanic, give him a diagnostic, and he'd tell what the problem is, and most importantly, what you need to do next.
+Now consider that with a new digital car, like a Tesla, the car could call the mechanic, give him a diagnostic, and he'd tell what the problem is, and most importantly, what to do next.
 
-Now consider it's often against the rules to solve problems so simply.
+Now consider it's often against the rules to solve problems so simply. Patent laws, insurance regulations, nondisclosure agreements; a mountain of unknown rules any antagonist can use to say keep us pretending it's 1969.
 
-Please realize what we're missing out on. Here's a exercise that'll help. Everytime you want to watch a Netflix show or YouTube video, get in your car, drive five miles, wait 10 minutes, throw away six bucks, drive back home, and then press play. That's what DVDs were like.
+Please realize how much new digital tools help. Here's a exercise to do it. Everytime you want to watch a Netflix show or YouTube video, get in your car, drive five miles, wait 10 minutes, throw away six bucks, drive back home, and then press play. Easy to forget, but that's what DVDs were like.
 
-Netflix was a big victory. But a rare one. Today, how we pay taxes, recognize education, repair electronics, transfer home ownership, decide our investments, sign sales contracts, get hired, fire someone, use car insurance, access medical records, and so much more, works like a DVD. A unneccessary and expensive pain in the ass enforced by a Death Star of rules.
+Netflix was a big victory. But a rare one. Today, how we pay taxes, recognize education, repair electronics, transfer home ownership, decide our investments, sign sales contracts, get hired, fire someone, use warranties, access medical records, and so much more, works like a DVD. A unneccessary and expensive pain in the ass enforced by a Death Star of rules. Just like our ancestors were told voting, reading science books, owning a musket was against the rules.
 
-Not because red / blue leaders and supporters don't care. But because their philosophies don't know, so they basically tell the middle class to walk to the nearest gas station. It's the solution they're familiar with.
-
-The power of internet connected digital cars, solar panel roofs, air quality testors, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets, online education, is impossible to harness with old philosophies obessed with growing and protecting limited tools. Thus, we're held back in the story of civilization.
+It doesn't have to be politicians job to create, make, market new tools. Just get the Death Star out of the way. Until it's gone, the power of internet connected digital cars, solar panel roofs, air quality testors, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets, online education, is impossible to harness with old philosophies obessed with protecting limited tools, and holding us back in the story of civilization.
 
 Ignore revolutions! Resist the self-gratification and fun of blaming "the other side" for society's problems.
 
-Digital tools and their many Jedi innovators are ready and waiting to solve real-life problems, it's intoxicating to them. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. The people majically bonding with whatever tool they want, is the ultimate revolution.
+Digital tools and their many Jedi innovators, coders, technicians, designers, repair shops, are ready and waiting to solve real-life problems, it's intoxicating to them. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. The people majically bonding with whatever tool they want, is the ultimate revolution.
 
 ## Good and Bad Stories
 
@@ -501,7 +499,7 @@ Mixing logical problem solving, with new ideas, gives classic stories "logical s
 
 There's no way to know which stories will reasonate with audiences, but only these stories can reasonate with audiences and become classics like Cinderella, Romeo and Juliette, The Matrix, Star Wars.
 
-**Art films:** are not about any specific problem. Like personal journals they're more about the protagonist's thoughts, not her acting to overcome a problem. The result is very surprising idiosyncratic behavior, but storylines with no problem solving to logically tie events together. The result is surprising but pointless stories with conclusion that can't change reality because the hero refused to try.
+**Art films:** are not about any specific problem. Like personal journals they're more about the protagonist's thoughts, and not acting to overcome a problem. The result is surprising idiosyncratic behavior, but storylines with no problem solving to logically tie events together. Without action, these stories are surprising to the point of being weired with conclusion that can't change reality because the hero refused to try.
 
 Without logical surprises, art films needs to get weirder and weirder to maintain interest. To insulate themselves from criticism art filmmakers usually give themselves ever more awards, granduer, and titles and end up like their protagoinsts, on stages talking about themselves. Film festivals like Cannes, Sundance, Toronto mainly show art films.
 
@@ -864,3 +862,4 @@ PICTURE, LIKE DOUGLASS' BUT WITH LIGHTSTAR AND A BLANK HEIRARCHY
 * People will never stop following the rules. Anarchy doesn't work. The key to victory is changing the source of the rule book, from human rules, to Nature's. Just like science did.
 * the way to fight back against human rules/philosophies, is not to have a philosphical argugment of "better", simply track resources like in Nature. ex. how many laptops are totally replaced, rather then repaired, because repairability is so hard. and factor in this number/cost when buying/insuring the tool.
 * Rossman, think of neighbors as my source of help, not my source of competition. we have to know each other's "business" to have each other's back. Fight back with Life Star knowledge is power, not only regulation battles.
+* With Techvolution, you won’t fight political battles with bristol boards or painted faces. You’ll economically exercise your right to vote, by deciding which tools best solve your problem at home, work, and play. Unlike me, you’ll never need to deal with any gatekeepers, because you won’t have to knock at anyone’s door asking permission to do what’s best for you. Only nature's rules will end the gatekeepers.

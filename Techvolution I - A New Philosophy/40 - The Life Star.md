@@ -10,6 +10,34 @@ Have to integrate the next several chapters into a Life Star sequence, and use t
 
 ==
 
+## Fish Eyes
+
+How did life evolve eyes. It's not like one day a lifeform woke up and had 20/20 vision. Adaptions are gradual. The first eyes were cells in a bacteria that simply said light and dark. But this new tool let these bateria cells probe the environment and sense day and night, and up and down. It worked wonders in the story of life because they found resources better. It's why most lifeforms today have eyes.
+
+Tools increase our senses. Fast forward hundreds of millions of years, humanity had excellent 20/20 vision. We could sense colors, distance, and depth. It's not like these things weren't always there. Life just couldn't sense them before.
+
+Yet our excellent eyes could only see so far. Looking at the brilliant universe, our minds wanted to make sense of the colors, lights, and revolution of the sky. Myths abounded about running foxes, warring giants, and fireflies struck up there. The biggest question was the simplest. Are we moving, or is the Universe? Our eyes couldn't tell.
+
+Ancient Greek's had two big ideas. Aristotle said the Earth stood still. If it moved, why don't stars in the sky change position. Aristarchus said the Sun is way bigger than the Earth, surely we must revolve around it, and the stars don't-look like-they move because they're extremely far away.
+
+The best minds in the world choose the wrong answer. From Aristotle in 300 BC, to Issac Newton in 1600. The Sun revolved around the Earth. They believed it so much they said the Holy Bible even agreed. People used Plotemy's "epicycles" to explain the planet's movements and make navigation and weather pattern charts. They worked well enough, but since the premise was wrong they had to change the math every once and a while.
+
+When Copernicus rediscovered Artistarchus, he thought maybe if the Earth revolved around the Sun, the math would make more sense. He tried it, and it did, although he kept assuming planets move in perfect circles so it wasn't perfect. He was scared, so only publised his work on his deathbed. The powers that be didn't like questioning a huge pilar of science, religious, and political mythology. When Friar Bruno went from city to city proclaiming the Earth moved, the Universe had many worlds, and lots of other stuff, Darth Geocentric burned him alive. Let the others be warned.
+
+Then Galileo made his telescope. It was a primitive telescope with hazy lenses made from hazy glass, but magnified our excellent 20/20 vision. We were no longer primitive lifeforms with insufficient senses. Instead of merely telling the difference between up and down, day or night; we could now tell the difference between moving and not moving.
+
+Many Sith lords tried to stop the new truth of new tools with a mountain of rules. Yet the people majically bonded anyway. They probed the environment and sensed the many errors inside the ruling philosophy, mainly the "nobles right to rule", that was enforced to keep the art loving and spectacle making, heirarchy alive. The classic story of tools solving real life problems won out like always.
+
+With no tools like the telecope, microscope, spectro, and other scientific instruments, any and all human made rule books to explain the Universe in physics, biology, chemistry, botany fell down. With enough senses, even basic ones, was enough to probe the rule book called Nature.
+
+Before digital tools, we may have had bacteria eyes to indicate light and dark, but we had no telescopes to probe for clear economic and political answers. We did our best with human made rule books and learned by trial and error in the dark. We searched for visions of the just and good society and did very well finding it at times with strong human virtues, but most of our battles was against Darth Blockbuster, not against Nature.
+
+Digital tools are to politics and economics, what the telescope was to astronomy and physics. The Life Star isn't about bringing any heirarchies down, it's about bringing the frontline out of the dark. I can show you what I mean by asking you a question. How old are you?
+
+* Evolution empowers life by giving every new lifeform a slightly different variation. With variations life can constantly test for environmental changes in things like water levels, temperature, and food supply. The variations unfit for the frontline die off. The fittest survive. This natural selection is how evolution finds which lifeforms best represent life on Earth.
+
+## What Happens Next
+
 That damn Obi-Wan. He probably turned into a ghost like in the movie and went on vacation or wherever. But no worries. For I am Skywalker, destined to save the galaxy and bring the Force to human evolution. So here we go. Let's build the Life Star.
 
 We don't know exactly what it is. Yet we have a great starting point. It's opposite. Light is the opposite of dark the same way full is the opposite of empty. Knowing one, defines the other. The Death Star is a rule book written humans. The Life Star is the opposite of the Death Star.
