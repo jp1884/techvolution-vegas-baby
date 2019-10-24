@@ -302,7 +302,7 @@ This is why digital tools hit their stride in the 1970's. That's when protagonis
 
 And now for the bad news. Digital tools were seen as a threat. It was in the 1970's Darth Blockbuster showed up and started making his Death Star. The transition from an industrializing economy mass producting primitive tools, to a knowledge economy making customized digital tools that could liberate the extras didn't sit well with him. He didn't control digital tools.
 
-So he started writing contracts nobody can understand, regulations nobody can find, and enforced politically correctness nobody likes. All to keep his primitive tools like gas cars, call-centres, paper-based tax forms in use and himself in power.
+So he started writing contracts nobody can understand, regulations nobody can find, and enforced politically correctness nobody likes. All to keep his primitive tools like gas cars, call-centres, endless powerpoint meetings, and compay manuals made with Word instead of websites, in use and himself in power.
 
 Our society's biggest problems are wounds of the Death Star's many attacks. But stay positive. We can solve them all once we liberate digital uses with Techvolution. Let's look at some stats to better understand our problems.
 
@@ -515,7 +515,7 @@ To summarize, in storytelling, logic and surprises counter-balance each other. W
 
 You can see the difference in your favourite sitcom such as _The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory_. They start off as classic stories, with characters who deal with relatable problems like not liking their jobs or being tired of dating. As these characters keep encountering common problems, we learn more about them.
 
-However, in later seasons, to keep their now popular characters alive, the sitcoms keep them living the same stories. Kramer can't get a job, Raj can't get a girl, Michael Scott can't get self-aware. Here sitcoms become art and spectacle stories. Art, as in these characters can't overcome their problems. And, spectacle, because we the audience keep watching our favorite actors, characters, sets, catch-phrases. It's comfortable, even though we already know what's going to happen.
+However, in later seasons, to keep their now popular characters alive, the sitcoms keep them living the same stories. Kramer can't get a job, Raj can't get a girl, Michael Scott can't get self-aware. Here sitcoms become art and spectacle stories. Art, as in these characters can't overcome their problems. And, spectacle, because we the audience keep watching even though we already know what's going to happen. We watch our favorite actors, characters, sets, catch-phrases, instead of waiting for logical surprises.
 
 Rousseau noticed society has these classic, art, and spectacle stories, and that human society's travel through them; like happens in long running sitcoms. Rousseau also noticed how one story works for equality and democracy, and the other two work to enrich the artists and distract the masses.
 
@@ -529,21 +529,27 @@ For politics, this means classic stories are about equality and democracy, while
 
 Let's use _The Matrix_ for this example. This story depicts a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the matrix. It's created by machines to distract humans while using their bodies as an energy source. Neo is recruited to help the few untapped humans rebel against the machines. His job is to make the sleeping masses inside the matrix realize their reality is fake.
 
-This story is basically majic vs. the rules. Neo wants the masses to realize the matrix's rules are bullshit. When they do they can remove the plug, and re-learn the majic of using tools to live a free life.
+This story is basically majic vs. the rules. Neo wants the masses to realize the matrix's rules are bullshit. When they do, they can remove the plug, and re-learn the majic of using their own tools to live a free life.
 
-The machines antagonist, Agent Smith, can control much of the matrix, but not all of it. Enforcing the rules of the ruling philosophy of slavery, makes "the agents" bound to the rules too. Neo has a new ruling philosophy of freedom. Thus, he isn't bound by the matrix's rule book. A freedom he wants to teach others.
+The machines antagonist, Agent Smith, can control much of the matrix, but not all of it. Enforcing the rules of the ruling philosophy of slavery, makes "the agents" bound to its rules too. Neo has a new ruling philosophy of freedom. Thus, he isn't bound by the matrix's rule book. A freedom he wants to teach others.
 
-Neo takes on, and defeats the machines. Unbound by its ruling philosophy, he manipulates the matrix, and defeats the agents.
+Neo takes on the machines. Unbound by its ruling philosophy, he learns to manipulates the matrix better and better. He jump higher, runs faster, and dodged bullets. The machines, unable to match his wisdom, fight back with dark majic.
 
-And once he's done, him and his friends return to being equal members of the community. Neo's hierarchy of support was temporary, being based on solving a frontline problem. Perhaps he'll be the hero of the next story, but maybe not. It depends on the problem and who the people decide will be the hero to solve it.
+They get one of the freed humans to turn on Neo and his supporters. Not with the allure of power, but with the allure of going back into the comfortable matrix. The machines will plug him back in, where he can enjoy the pleasures of pretending to "be someone important, like an actor" and enjoy eating steak again because "ignorance is bliss".
 
-Spectacle and art stories do not solve frontline problems. Thus, their heirarchies can go on for as long as they can convince people to watch them, or live inside them. Just like the people stuck inside the matrix who are are distracted from the truth with a world full of shiny cars, loud music, 9-5 work days, and The Office, Friends, or other reruns.
+The deception losses. Neo is too powerful. In the final battle with Agent Smith, he not only can dodge bullets, but stop them. He completely sees past the "spectacle" of items that the traitor said was "bliss", and only sees the matrix's code, and can thus rewrite it as he wants. Neo kills the agents, and ends with a phone call, to the machines:
 
-This is the hard side of majic. Real life is not always easier or more comfortable. The real-world in the matrix is cold, dark, and damp. Neo has to convince the people this unpleasant reality is better than the pleasant fiction full of the spectacle of dark majic.
+  >I came here to tell you how this is going to begin. I'm going to hang up this phone. And then I'm going to show these people what you don't want them to see. I'm going to show them a world without you. A world without rules and controls, without border or boundaries A world where anything is possible. Where we go from there, is a choice I leave to you.
 
-THe longer the spectacle lasts, the longer the self-important artists can go on talking about themselves. They're happy with the way things are. The machines want their hero status atop the hierachy to go on forever.
+And once he's done showing the people, him and his friends return to being equal members of the free community. Neo's hierarchy of support was temporary, being based on solving a frontline problem. Perhaps he'll be the hero of the next story, but maybe not. It depends on the problem and who the people decide is their hero to solve it.
 
-But like an aging sitcom, it never lasts.
+Spectacle and art stories do not solve frontline problems. Thus, their heirarchies can go on for as long as they can convince people to watch them, or live inside them. The leaders self-important, self-involved artists who don't have to solve problems to be on top, and the masses are just like the people stuck inside the matrix distracted from the truth with a world full of shiny cars, loud music, 9-5 work days, and The Office, Friends, or other reruns.
+
+This is the hard side of majic. The real-world in the matrix is cold, dark, and damp. Neo has to convince the people this unpleasant reality is better than the pleasant fiction full of the spectacle of dark majic.
+
+The longer the spectacle lasts, the longer the self-important artists, like Darth King, and Darth Blockbuster, can go on talking about themselves. They're happy with the way things are. The machines want their hero status atop the hierachy to go on forever.
+
+But like an aging sitcom, it never lasts. Eventually the people's problems pile up, and they need the hero of the classic stories again.
 
 ## Neo Douglass
 
@@ -840,32 +846,36 @@ Galileo, Thomas Hobbes, Friar Bruno, John Locke, Oliver Cromwell, Jean-Jacques R
 
 But the majic of Techvolution still calls us forward, and we keep fighitng the same fight to distribute the power of new tools. But, when will it end?
 
-When we use a rule book no one can corrupt.
+Remember, in when we said Stargaxer, in no story does one side think their evil. Well that's not totally true is it. In no story between two human forces, does one side think their evil.
+
+To send the Jedi vs. Sith storyline then, we have to use rule book nobody writes.
 
 ## No More Eggshells
 
-When someone has their own version of reality, a totally unique perspective, we call them nuts. Dealing with this person is said to be like "walking on eggshells", because it's very hard to socialize with their singular version of right and wrong. The lesson is, the Sith and Jedi are always walking on egg shells with each other. We fight wars over it-mostly ridicules ones; "therefore I tell you that I am the Martyr of the people."
+When someone has their own version of reality, a totally unique perspective, we call them nuts. Dealing with this person is said to be like "walking on eggshells", because it's very hard to socialize with their singular version of right and wrong. The lesson is, the Sith and Jedi are always walking on egg shells with each other. 
 
-Don't laugh, we fight over VCRs, CDs, and repair laptops. All episodes of walking on eggshells.
+They each have their own matrix with their own rule book. We fight wars over them. Mostly ridicules ones where one person thinks God sent them to party in banquets and balls while still believed "I am the Martyr of the people."
 
-Techvolution only works when everyone seemingless drops bad tools for better ones. No biological lifeforms every walk on eggsheels. It's why we have to keep them in cages. They miss the rationality of Nature.
+Don't laugh, we fight over VCRs, CDs. It's currently against the rules to repair your own laptop. All episodes of walking on eggshells because we fight to fill society's rule book with our own ideas of right and wrong.
 
-Thus, it was never my goal to defeat Darth Blockbuster and _this_ Death Star. We talked about Rousseau and Darth King to realize we can never beat the Sith. For as long as our civilization uses a human created rule book for its politics and economics, killing one king only awaits the formation of another.
+Techvolution only works when everyone seemingless drops bad tools for better ones. No biological lifeforms in Nature ever walk on eggsheels. They search for resources using their biology of tools, nobody cheats, everyone plays equally inside the fair reciprocation of ecosystems. It's why we have to keep animals in cages. They miss the fairness and rationality of Nature.
+
+Thus, it was never my goal to defeat Darth Blockbuster and _this_ Death Star. We talked about past battles like Rousseau vs. Darth King, Frederick Douglass vs. Mister Auld, to realize we can never beat the Sith. For as long as our civilization uses a human created rule book for its politics and economics, killing one king only let's another come back.
 
 To truly win, we mustn't destroy the Death Star, but replace it. We need a new rule book that continually enforces our natural evolution. Where the only rule is natural selection.
 
-That's what I wanted to teach you Stargazer. To make this tool that will forever kill the Sith. It's only possible because of digital tools.
+That's what I wanted to teach you Stargazer. How to make a tool that will forever kill the Sith. And the time is now, because it's only possible to build, because of digital tools.
 
 ## The End
 
 It's on your shoulders Stargazer.
 
-Don't worry. I look at you and see not a kid, but the man who will forever win the war against the Sith, with an uncorruptable rule book, where no human can write the rules. Where the only rule is natural selection. The Life Star.
+Don't worry. I look at you and see not a kid, but the man who will forever win the war against the Sith. You will make an uncorruptable rule book. Where the only rule is natural selection. We call it the Life Star.
 
-You have questions. Big ones. Every journey starts and ends with one footstep. You know what the Life Star is. You can build it. And I can't be there for you.
+You have questions. Big ones. Every journey starts and ends with one footstep. So go off and walk towards the future; I can't be there for you.
 
-The future can't be made by old war torn heroes sick and embittered by old philosopies, but only new ones who demand to majically connect with any tool they want. The Life Star is the ultimate revolution because it's the last revolution.
+The future can't be made by old war torn heroes, sick and embittered by old philosopies. Only new heroes can build the future. The new heroes of the people who think majically connecting with any tool they want is as natural as voting.
 
-So I lift my sword, and smile my eternal rest. I know the new Jedi will no longer face down the Sith, instead they'll fight to expose the rules of Nature with their Life Star.
+So I lift my sword, and smile my eternal rest.
 
-I'm still smiling as Darth Blockbuster, the ignorant protagonist of a dead ruling philosophy, strikes me down. I die happy. Because you know the lesson. The person who holds the tools wins. Build the Life Star and you'll never face a Sith lord again. The Life Star, it's life with perpetual democracy, and perpetual profit.
+I'm still smiling as Darth Blockbuster, the ignorant protagonist of a dead ruling philosophy, strikes me down. I die happy. Because you know the lesson. The person who holds the tools wins. Build the Life Star and you'll never face a Sith lord again. The Life Star, it's life with perpetual democracy and perpetual profit.
