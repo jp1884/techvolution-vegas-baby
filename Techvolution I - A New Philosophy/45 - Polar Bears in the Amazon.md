@@ -1,5 +1,15 @@
 
-# Polar Bears in the Amazon
+# Ecosystems
+
+Around March 2011, Donald Trump and his family were guests on The Oprah Winfrey Show. He and his family were answering questions and giving their views on modern culture and politics. It was just before President Obama's re-election. I imagine Trump was testing the waters to see if he should enter the 2012 election.
+
+During the internew Trump said something along the lines of "In South Korea, we have thousands of troops, and I ask, why aren't they paying us for this?"
+
+This one question was all I needed to hear. Whenever he decided to run, Donald Trump would be President. The frontline would hear a rational question. The heirarchy would hear an irrational one. All he had to do was keep up this "irrational rationality" and he'd win.
+
+The reason is also the same one why we can't save the polar bears by sending them to the Amazon, or even to Antartica. Species, and cyborgs, need their own ecosystems.
+
+## Polar Bears in the Amazon
 
 If you were to see camels in Norway, tree frogs in Mongolia, or polar bears in the Amazon you'd automatically see something wrong. Not with the lifeform, we take our kids to visit these cuties in the zoo, but you'd see an obivous mix-match of a lifeform in a foreign ecosystem.
 
@@ -32,3 +42,7 @@ They of course won't. They'll say they earned their place. And that reveals thei
 But Techvolution is about frontline people solving frontline problems with digital tools. No heirachries, just problem solving. So when you are confronted by the heirarchy wanting you to be a polar bear in the Amazon, just ask them to switch spots.
 
 I don't know everything in life. I don't know much at all. But I do know you'll always still be here. And that should tell you all you need to know.
+
+- without an economic ecosystem, we're individuals trying to win at a team game, and being blamed for our troubles.
+- our cyborgology. We see our ever expanding toolboxes, but not the expanded ecosystem of cyborgs it empowers.
+- The march of civilization needed an answer. Thus, needed an protagonist to find one. The antagonists would yell about the rules. Social, ethical, economic, political, anything they could use in the spectacle of cable news, newspapers, bureaucarcies, people with the titles of a heirarchy defending their power from an logical question.

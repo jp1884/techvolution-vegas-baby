@@ -7,6 +7,11 @@ Have to integrate the next several chapters into a Life Star sequence, and use t
 - Notably, once Techvolution frees people to choose their own tools, it's the majic of millions of people, that builds our Life Star.
 - Life Star is technological representation of nature. Like an ecosystem, it enforces accountability and reciprocation between lifeforms and thereby the Techvolution of life.
 - red / blue, start seeing individuals as contractors, going through life, not 9-5 people who need to and from work and find something to do on the weekends.
+- and civilization story gets a big upgrade.  We need to change our ruling philosophy to take advantage of digital tools. Only you can make it happen. That doesn't mean we replace red/blue, it means we disable the Sith from every coming back.
+- People will never stop following the rules. Anarchy doesn't work. The key to victory is changing the source of the rule book, from human rules, to Nature's. Just like science did.
+- the way to fight back against human rules/philosophies, is not to have a philosphical argugment of "better", simply track resources like in Nature. ex. how many laptops are totally replaced, rather then repaired, because repairability is so hard. and factor in this number/cost when buying/insuring the tool.
+- Rossman, think of neighbors as my source of help, not my source of competition. we have to know each other's "business" to have each other's back. Fight back with Life Star knowledge is power, not only regulation battles.
+- With Techvolution, you won’t fight political battles with bristol boards or painted faces. You’ll economically exercise your right to vote, by deciding which tools best solve your problem at home, work, and play. Unlike me, you’ll never need to deal with any gatekeepers, because you won’t have to knock at anyone’s door asking permission to do what’s best for you. Only nature's rules will end the gatekeepers.
 
 ==
 
@@ -22,7 +27,7 @@ Ancient Greek's had two big ideas. Aristotle said the Earth stood still. If it m
 
 The best minds in the world choose the wrong answer. From Aristotle in 300 BC, to Issac Newton in 1600. The Sun revolved around the Earth. They believed it so much they said the Holy Bible even agreed. People used Plotemy's "epicycles" to explain the planet's movements and make navigation and weather pattern charts. They worked well enough, but since the premise was wrong they had to change the math every once and a while.
 
-When Copernicus rediscovered Artistarchus, he thought maybe if the Earth revolved around the Sun, the math would make more sense. He tried it, and it did, although he kept assuming planets move in perfect circles so it wasn't perfect. He was scared, so only publised his work on his deathbed. The powers that be didn't like questioning a huge pilar of science, religious, and political mythology. When Friar Bruno went from city to city proclaiming the Earth moved, the Universe had many worlds, and lots of other stuff, Darth Geocentric burned him alive. Let the others be warned.
+When Copernicus rediscovered Artistarchus, he thought maybe if the Earth revolved around the Sun, the math would make more sense. He tried it, and it did, although he kept assuming planets move in perfect circles so it wasn't perfect. He was scared, so only publised his work on his deathbed. The powers that be didn't like questioning a huge pilar of science, religious, and political mythology. When Friar Bruno (your name sake) went from city to city proclaiming the Earth moved, the Universe had many worlds, and lots of other stuff, Darth Geocentric burned him alive. Let the others be warned.
 
 Then Galileo made his telescope. It was a primitive telescope with hazy lenses made from hazy glass, but magnified our excellent 20/20 vision. We were no longer primitive lifeforms with insufficient senses. Instead of merely telling the difference between up and down, day or night; we could now tell the difference between moving and not moving.
 
@@ -34,7 +39,7 @@ Before digital tools, we may have had bacteria eyes to indicate light and dark, 
 
 Digital tools are to politics and economics, what the telescope was to astronomy and physics. The Life Star isn't about bringing any heirarchies down, it's about bringing the frontline out of the dark. I can show you what I mean by asking you a question. How old are you?
 
-* Evolution empowers life by giving every new lifeform a slightly different variation. With variations life can constantly test for environmental changes in things like water levels, temperature, and food supply. The variations unfit for the frontline die off. The fittest survive. This natural selection is how evolution finds which lifeforms best represent life on Earth.
+- Evolution empowers life by giving every new lifeform a slightly different variation. With variations life can constantly test for environmental changes in things like water levels, temperature, and food supply. The variations unfit for the frontline die off. The fittest survive. This natural selection is how evolution finds which lifeforms best represent life on Earth.
 
 ## What Happens Next
 
