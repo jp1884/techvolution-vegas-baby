@@ -328,7 +328,7 @@ Attached to old philosophies, government is inable to solve frontline problems. 
 
 Miles driven
 ![Miles driven](/img\diagrams\US-VMT-per-capita.png)
-The Code of Federal Regulations is the rule book of the federal government's department and agencies. The number of total pages published provides a sense of the volume of existing regulations with which American businesses, workers, consumers, and other regulated entities must comply.
+The number of miles Americans must drive each year.
 
 CO2 - 1801
 <iframe src="https://ourworldindata.org/grapher/co2-concentration-long-term?time=1801..2018" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -457,7 +457,7 @@ The question for us is, how did Rousseau actually make an entire people change t
 
 Stargazer you look disappointed. You think revolutions are fun. You want to follow _Les Miserables_ and march in the streets. Maybe we should. You get the bristol boards, I'll get the paint, and we'll change the world! Free college education! Less bank regulations! Affordable health insurance! Continuous tax cuts! We'll save the planet and the government's credit rating!
 
-Listen to me. When your cars breaks down, you call a mechanic for help, right? If he showed up with no tools you'd get mad. No arguments, no discussions. Nothing else matters because no tools means no problem-solving.
+Listen to me. When your car breaks down, you call a mechanic for help, right? If he showed up with no tools you'd get mad. No arguments, no discussions. Nothing else matters because no tools means no problem-solving.
 
 Middle class people have a host of problems like increasing insurance, prescription drug, and tutoring bills. You need solutions. When someone says they can help, you must ask what tool they have, or will give you, that will help. Anything else is smoke and mirrors. You don't need to see regulations, laws, or blog posts anymore then you need to see the mechanic's favorite car repair manual. You need tools.
 
@@ -465,7 +465,11 @@ Red / blue philosophies show up with no tools. Not because red/blue leaders and 
 
 That's not horrible, until you consider that with a new digital car, like a Tesla, our broken cars can now call the mechanic, give him a diagnostic to his smartphone immediately, and he'd tell what the problem is, and most importantly, what to do next.
 
-Now consider it's often against the rules to solve our problems so simply. Patent laws, insurance regulations, nondisclosure agreements, non-compete clauses; a mountain of rules any antagonist search through so he can force us to keep walking to gas stations.
+Now consider it's often against the rules to solve our problems so simply. Patent laws, insurance regulations, nondisclosure agreements, non-compete clauses; a mountain of rules any antagonist can search through so he can force us to keep walking to gas stations.
+
+Darth Blockbuster is in control. He's dedicated to keeping control. And he's no protagonist. He can't be a hero, because unlike Neo, Cinderella, Romeo and Juliette he's not mentally capable of rising above the situation, and seeing a solution to what he thinks is a fact of life. Cars break down, deal with it. And when someone asks him to solve the problem, his face goes blank. He can't pass that question on the test. He can't run fast enough to make the team. He can't throw a spiral. So his dad comes over and asks the coach to do him a favor on put him on the team anyway. That favour is the rules Darth Blockbuster asks government, corporations, and culture to keep the extras using old tools.
+
+That's why a small company like Tesla had to bring modern cars to America. They didn't have early access to new technology, different tools, a magic wans. Tesls is run by people who _can_ see problems. They can answer that question on the test, they can run fast enough, they can throw a spiral. So they're father sits proudly in the seats. Darth Blockbuster should be beside him. Yet, he gets to be captain because he pays for it.
 
 Please realize how much new digital tools help. Here's a exercise to do it. Everytime you want to watch a Netflix show or YouTube video, get in your car, drive five miles, wait 10 minutes, throw away six bucks, drive back home, and then press play. Easy to forget, but that's what DVDs were like.
 
@@ -473,7 +477,7 @@ Netflix was a big victory. But a rare one. Today, how we pay taxes, recognize ed
 
 It doesn't have to be politicians job to create, make, market new tools. Just get the Death Star out of the way. Until it's gone, the power of internet connected digital cars, solar panel roofs, air quality testors, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets, online education, is impossible to harness with old philosophies obessed with protecting limited tools, and holding us back in the story of civilization.
 
-Ignore revolutions! Digital tools and their many Jedi innovators, coders, technicians, designers, repair shops, are ready and waiting to solve real-life problems, it's intoxicating to them. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. The people majically bonding with whatever tool they want, is the ultimate revolution.
+Ignore revolutions! Digital tools and their many Jedi innovators, coders, technicians, designers, repair shops, are ready and waiting to solve real-life problems, it's intoxicating to them. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. The people ignoring red/blue talk, and only demanding tools to solve their problems, with the freedom to majically bonding with whatever tool they want, is the ultimate revolution.
 
 ## Good and Bad Stories
 
@@ -501,7 +505,7 @@ There's no way to know which stories will reasonate with audiences, but only goo
 
 **Art films:*- are not about any specific problem. Like personal journals, they're more about the protagonist's thoughts; not acting to overcome a problem. The result is surprising idiosyncratic behavior, but storylines with no problem solving to logically tie events together. Without action, these stories are surprising to the point of being weired, with conclusion that can't change reality because the hero didn't try.
 
-Without logical surprises, art films needs to get weirder and weirder to maintain interest. To insulate themselves from criticism art filmmakers usually give themselves ever more awards, granduer, and titles and end up-like their protagoinsts-on stages talking about themselves. Film festivals like Cannes, Sundance, Toronto mainly show art films.
+Without logical surprises, art films needs to get weirder and weirder to maintain interest. To insulate themselves from criticism they say true art is relativistic, and art filmmakers usually give themselves ever more awards, granduer, and titles and end up-like their protagoinsts-on stages talking about themselves. Film festivals like Cannes, Sundance, Toronto mainly show art films.
 
 **Spectacle movies:*- are about an obvious problem, ie. Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are thus very logical because the problem is very simple; survive or die. However, since the action is so instinctual, there's no time for the protagoinst to think of new ideas. The result is very logical but unsuprising stories that can't change reality because no new ideas were introduced.
 
@@ -879,3 +883,5 @@ The future can't be made by old war torn heroes, sick and embittered by old phil
 So I lift my sword, and smile my eternal rest.
 
 I'm still smiling as Darth Blockbuster, the ignorant protagonist of a dead ruling philosophy, strikes me down. I die happy. Because you know the lesson. The person who holds the tools wins. Build the Life Star and you'll never face a Sith lord again. The Life Star, it's life with perpetual democracy and perpetual profit.
+
+- Every era has new political ideals. I hope this is, or contributes to, the one for the digital age.

@@ -29,7 +29,7 @@ And as they made ever more spectacle movies, the movie industry compensated by m
 
 That's why movies are so expenseive. Movie studio's want their production money back. So they sign deals giving them 90% of ticket revenne on the first weekend. 80% on the second and so forth. That's why they market movies like crazy, to get people in when the studio's get the money.
 
-The theatres thus fight for revenue with popcorn price higher than sushi. 
+The theatres thus fight for revenue with popcorn price higher than sushi.
 
 A movie industry forced to make spectacle and art films because a rule in 1948. How many more rules are out there holding us back?
 
@@ -56,4 +56,3 @@ The movies got super popular being a affordable, and dependable, night out. Peop
 Whether or not the movie's should re-open up their own stores is an open question. The fact they we customers, other than the very few guys with an interest, should be ale to see the rules isn't. The only thing keeping the paramount rules on the book, is the public doesn't realize how much it changes their econonmy.
 
 The Life Star would tell us. Every rule written would have a rationale, and it would be connected to teh industry in which it governs, just like aline of computer code. And everyone could see what rule the effect is having with experiments, not a belief system.
-

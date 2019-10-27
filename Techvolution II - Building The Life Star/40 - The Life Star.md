@@ -43,7 +43,7 @@ Digital tools are to politics and economics, what the telescope was to astronomy
 
 ## What Happens Next
 
-That damn Le-Marius. He probably turned into a ghost like in the movie and went on vacation or wherever. But no worries. For I am Skywalker, destined to save the galaxy and bring the Force to human evolution. So here we go. Let's build the Life Star.
+That damn Le-Marius. He probably turned into a ghost like in the movie and went on vacation or wherever. But no worries. For I am Stargazer, destined to save the galaxy and bring the Force to human evolution. So here we go. Let's build the Life Star.
 
 We don't know exactly what it is. Yet we have a great starting point. It's opposite. Light is the opposite of dark the same way full is the opposite of empty. Knowing one, defines the other. The Death Star is a rule book written humans. The Life Star is the opposite of the Death Star.
 
