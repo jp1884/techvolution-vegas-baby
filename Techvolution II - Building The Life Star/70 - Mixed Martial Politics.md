@@ -3,71 +3,79 @@
 
 ## Voting For a Hamburger
 
-I'm going to make a complex political point in a simple way. We've all ordered a meal at a restaurant. It's simple. We look over the options, think it over, and say "hamburger with fries". The waitress writes it down, and you wait.
+I'm going to make a complex political point in a simple way. By ordering a meal at a restaurant. We've all done it; look over the options, think it over, and we say "hamburger with fries" to the waitress Amanda, who writes it down, walks away and you wait.
 
 While you wait you read a book, listen to music, talk with your friends, joke with your spouse, watch your kids draw on the napkins. You're free to do whatever you want. Because while your meal is being made, you have no involvement whatsoever.
 
-In 20-30 minutes the waitress Amanda returns, serves and the food, smiles and says "enjoy". You and you're friends are happy and chow down.
+In 20-30 minutes Amanda returns, serves and the food with a smile and says "enjoy". You and you're friends chow down.
 
-Ordering a meal is how you should think of voting.
+Ordering a meal is how you should vote. You have a problem. You make your choice. You put people in charge to come back with an object that solves your problem.
 
-You sit down with a problem. You make your choice. The people you put in charge, come back with an object that solves your problem.
+The success or failure of the people in charge is entirely dependent on the object they bring you; and you expect the problem to be solved. And vitally your own senses tell you about any problems. The burger is raw, or fries are mushy because you feel, taste, or smell something wrong.
 
-Tge success or failure of the people in charge is entirely dependent on the object they bring you. And you determine any problems by your senses. If the burger is raw, or the fries are mushy, or the mayo is foul, you touch, taste, or smell the object and say "Hey Amanda, something's wrong".
+If you do sense a problem you say, "Hey Amanda, something's wrong".
 
-When Amanda comes, you tell her the problem and expect it to be re-solved, because that's what the object was supposed to do; solve a problem.
+You don't use your intution. You actually smell the object and tell Amanda "smells off doesn't it?", and expect the problem be re-solved because that's what the object was supposed to do; solve a problem.
 
-Now, what if Amanda she were to say "well our cook used the proper cooking techniques, so it's not our fault. It must be the supply company."
+Now here's the political lesson we learn from ordering a burger' what if Amanda she were to say "well our cook used the proper cooking techniques, so it's not our fault. It must be the supply company, or maybe the stove wasn't hot enough, talk to them."
 
 Would you ever say "okay, well you did your best, I still support red/blue restaurant!"
 
-Of course not. Yet, we think of voting this way. Not because the politicians don't care, spend time with them and you'll see first hand they do care and it's not an easy job. It's the old philosophies we all follow causing us to fight. I'll explain it best by getting into your corner in a MMA fight.
+Of course not. Yet, we think of voting this way. We vote, our problems go unsolved, and politicians say "well I followed red philosophy so it must be something else... Blue, it must be blue's fault!"
+
+We've bought this excuse since the 1970's. Politicians use it, not because they don't care, but because they use old philosophies obsessed with mass producing primitive tools, not distributing powerful digital ones. As problems pile up for polar bears living in the Amazon, they need a reason, and without a new philosophy, they blame each other.
+
+Spend time with a politician during their work day and you'll see first hand who old philosophies punish them; maybe most of all. They do care and it's not an easy job hearing the polar bears complain about raw burgerss and mushy fries. I'll explain it best, and how to fix it, by getting into your corner in a street fight.
 
 ## Martial Arts
 
-Lifeforms fight each other. Resources are limited, and whichever lifeforms get them first win. So, they fight to be first. Fighting gives resource efficiency, which fuels more lifeforms to live, gives life more biodiversity to probe for environmental changes.
+Lifeforms in nature often fight each other. This can be over mates, territory, or food. Fighting enforces fitness, letting Nature afford to field more lifeforms. Higher biodiverity lets life probe for more environmental changes.
 
-Fighting is how lifeforms cooperate. After all, they're _forms_ of life. We lifeforms are merely life's minions to find the best form to represent life in the current environment. To do that, we need to probe the environment and those who can harvest resources the best, that means we cooperate together by fighting each other, for natural selection.
+Fighting is thus how lifeforms cooperate. After all, we're _forms_ of life. All species of animals, plants, fungi are merely life's minions to find the best form to represent life in the current environment. To do that, we need to probe the environment to see who should be on the field. All lifeforms thus play on the same team. We fight because we want the best players on the field.
 
-MMA fighters call this idea "iron sharpens iron". Because fighting, in competition or in practice, is simply cooperating to both get better.
+Fighters call this idea "iron sharpens iron". Because fighting, in competition or in practice, is simply both sides cooperating to get better.
 
-Species agree how to fight each other. Most obviously seen during mating season. Males fight with whatever weapon they share, like horns, paws, or heads. They don't act outside this agreed dueling method. It's there instict. A smaller male lion doesn't attack the bigger one at night, and effectively murder the competition.
+Ever notice how species fight the same way. Most obviously seen at mating season when males fight with whatever tool they have like horns, paws, or hooves. They don't act outside this agreed dueling method. A smaller male lion doesn't attack the bigger one at night and murder the star player to get on the team.
 
-This agreement explains how human combat systems like boxing, kickboxing, judo, karate, tak-won-do, jiu-jitsu, and wrestling. Each is fighting to win, yet has a set of rules in which to play. Boxing is punches only. Kickboxing doesn't let you hit a downed opponet. Tak-won-do is mainly kicking with no take-downs. Judo is take-downs with no punching. Jiu-jitsu is trying to submission someone, wrestling is trying to man handle them.
+This agreement explains human combat systems. Everything from boxing, kickboxing, judo, karate, tak-won-do, jiu-jitsu, and wrestling. Each teaches to fight and win, yet has a set of rules in which to compete. Boxing is punches only. Kickboxing doesn't let you hit a downed opponet. Tak-won-do is mainly kicking with no take-downs. Judo is take-downs with no kicking. Jiu-jitsu is trying to submit someone, wrestling is trying to man handle them.
 
-Each martial art uses the same human body to defeat an opponent. Yet each has a long list of rules fighters agree on. This is kind of like species, who also agree that the winner males gets to mate, or the oldest female runs the group.
+Each martial art uses the same human body to defeat another in combat. Yet each has a long list of rules both fighters agree on. This is like species, who also agree that the male who charges the hardest, or hits the longest gets to mate because it's agreed the best within the rules gets to start.
 
-However, between species in the wild there is no rule book. Each is trying to sharpen each other's species, thus all (fake) rules are off. Natural selection rules, only the fittest survive.
+This seems natural. We pick hockey, soccer, spelling-bee, stars based on their respective rule books.
 
-In the early 1990's, someone had the idea to throw away the rule book in marital arts. They wanted to fight between "species" without any rule books. This started the current sport of Mixed Martial Arts.
+But it's not natural because between species there is no rule book. Each is always trying to sharpen each other to find the best star players. Natural selection always rules; only the fittest survive.
+
+This happened in martial arts, when in the early 1990's, someone had the idea to throw away all the rule book and find out which was the best when they fought each other. Throwing away a fake rule book started Mixed Martial Arts.
 
 ## Mixed Martial Arts
 
-MMA started by accident. People were curious which martial art was the best. They were several different companies out there. Vale Tudo in Brazil. Pancrase in Japan, but the biggest was the Ultimate Fighting Championship in American.
+Like most discoveries, MMA was an accident. A few people were simply were curious which martial art was the best. Brazil had Vale Tudo. Japan had Pancrase and America had the Ultimate Fighting Championship.
 
-After several years of no-holds barred, people found the answer for the best martial arts. Mixed. The answer was to throw away the rule book.
+After several years of no-holds barred tournamets, people found the answer; throw away the rule book.
 
-In MMA, there are very few outside rules (basically no weapons, eye gouching, or groin strikes). Fighters are free to do almost anything to win. Punches, knees, submissions, clinches, holds, chokes, locks, throws, taunts, insults, work rate, kicks. Choosing which technique is best, depends on the environment (i.e. the opponent) and the problems at any given moment.
+In MMA, there are very few outside rules (basically no weapons, eye gouching, or groin strikes). Fighters are free to do almost anything to win. Punches, knees, submissions, clinches, holds, chokes, locks, throws, taunts, insults, work rate, kicks, cart wheels, whatever. Choosing which technique is best, depends on the environment (i.e. the opponent) and the problem at any given moment.
 
-Thus, "submit and learn" is a strongly believed mantra to MMA fighters. MMA fighters cross train every discipline like boxing and jiu-jitsu, all the while concentrating on mixing it all together into their own fighting variation. The sport of MMA has changed so much in just a few years because the main source of success is asking what works best. This is why today, MMA fighters will defeat any other kind of specialized fighter.
+The fighter who best adapts wins.
 
-The lesson is, like in nature, there is no rule book between species. Whatever wins, is the effectual truth.
+Thus, "submit and learn" is a strongly believed mantra to MMA fighters. Each martial art is still trained, and still very revered, but MMA fighters mix them all together into their own style. MMA has changed so much in just a few years because fighters either adapt or lose. This is why MMA fighters will defeat any specialized fighter in open combat.
 
-This lesson teaches is about political ideologies, mixing it with ordering a meal, teaches us extras how improve our lifethe frontline with our orders.
+Some martial arts stay ignoreant. Surrounded by a mystical belief system, they delude themselves. Te worst offender may be Akido. A quick YouTube search (sadly) showcases a touch love lesson; in nature, there is no rule book. Whatever wins, is the effectual truth.
 
-## Mixed Martial Politics
+Ordering a meal, and learning about MMA, teaching frontline workers how politicians can be expected to get our orders for better tools right, the answer is Mixed Ideological Politics.
 
-Species and martial arts have rule books. That why when they fight each other they follow the rules. Political ideologies are the exact same thing. They're rule books, meant to solve specific problems a unique way, while ignoring most other possibilities, just like martial arts.
+## Mixed Ideological Politics
 
-Conservatism is ...
+Species and martial arts have rule books. That why when they fight each other they follow the rules. Political ideologies are the exact same thing. They're rule books, meant to solve specific problems a unique way.
 
-Progresssivms is ...
+Conservatism is preoccupied with wealth generation, they pay little attention to how it should be distributed. This state of indecision between going back and going slow is the characteristic dilemma of the conservative, visible in every issue today.
+
+Progresssivms is ... Progressives argue that wealth is unjustly distributed, for example, but they overlook the need to generate wealth. They also argue for individual liberty and also for progress toward liberty. 
 
 Marix is ...
 
 Capitalism is ...
 
-
+His difficulty is that progress requires enlightenment and the gradual defeat of prejudice—whereas liberty requires openness to all opinions, including prejudiced ones. What should a good liberal do for a conservative, teach him to think better or let him be as he is? Here is a conundrum always present to liberals.
 
 But in truth, life wants us to ignore the rules when outside our bubbles.
 
@@ -104,6 +112,10 @@ Loyalty gets you no where. We lose more fights. The environment changed. We need
 Just like life. By assessing the situation on the frontline as fast and accuratrely as possible. That means empowering the extras on the frontline with whatever tool they want, electing politicians who follow orders, and judging results by our senses, and tracking results in something called the Life Star.
 
 We'll build it in the next book.
+
+That means we all must be protagonsits, solving problems....the story is more important than the characters. The fight is more important then the coach or his rule book. Life is more important than any life form.
+
+We either tap and learn, or we become antagonist citing a rule book history wont care about anymore than life cares about all the lifeforms gone extinct before we showed up...
 
 ## Left over
 
