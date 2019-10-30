@@ -3,111 +3,111 @@
 
 ## Voting For a Hamburger
 
-I'm going to make a complex political point in a simple way. By ordering a meal at a restaurant. We've all done it; look over the options, think it over, and we say "hamburger with fries" to the waitress Amanda, who writes it down, walks away and you wait.
+I'm going to make a complex point by order food at a restaurant.
 
-While you wait you read a book, listen to music, talk with your friends, joke with your spouse, watch your kids draw on the napkins. You're free to do whatever you want. Because while your meal is being made, you have no involvement whatsoever.
+We've all sat down and joked with friends while looking over the options and saying "hamburger with fries". The waitress Amanda writes it down, smiles, and walks away.
 
-In 20-30 minutes Amanda returns, serves and the food with a smile and says "enjoy". You and you're friends chow down.
+While you wait you read a book, talk with your friends, joke with your spouse, watch your kids draw on the napkins. You're free to do whatever you want. You have no job or even say how your meal is made.
 
-Ordering a meal is how you should vote. You have a problem. You make your choice. You put people in charge to come back with an object that solves your problem.
+In 20-30 minutes Amanda returns, serves the food with a smile and says "enjoy". Ordering meals is only so simple because it's so wise.
 
-The success or failure of the people in charge is entirely dependent on the object they bring you; and you expect the problem to be solved. And vitally your own senses tell you about any problems. The burger is raw, or fries are mushy because you feel, taste, or smell something wrong.
+And it's how you should vote. You have a problem. You look over the options. You make your choice. And you put an expert in charge to come back with something that solves your problem.
 
-If you do sense a problem you say, "Hey Amanda, something's wrong".
+The success or failure of the people in charge is entirely dependent on the thing they bring you. Vitally, you judge their success with your own sense; the burger and fries is good or bad based on your touch, taste, and smell.
 
-You don't use your intution. You actually smell the object and tell Amanda "smells off doesn't it?", and expect the problem be re-solved because that's what the object was supposed to do; solve a problem.
+And if you do sense a problem you say, "Hey Amanda, something's wrong".
 
-Now here's the political lesson we learn from ordering a burger' what if Amanda she were to say "well our cook used the proper cooking techniques, so it's not our fault. It must be the supply company, or maybe the stove wasn't hot enough, talk to them."
+You don't use your intution or listen to marketing. You actually smell something and tell Amanda; "smells off doesn't it?". Because you're using a common sense, Amanda can now smell the object and test it herself.
+
+What if Amanda were to say "well our cook used the proper cooking techniques, so it's not our fault. It must be the supply company, go talk to them."
 
 Would you ever say "okay, well you did your best, I still support red/blue restaurant!"
 
-Of course not. Yet, we think of voting this way. We vote, our problems go unsolved, and politicians say "well I followed red philosophy so it must be something else... Blue, it must be blue's fault!"
+Of course not. Yet, we think of voting this way. We vote, our problems go unsolved and politicians say "well I followed red philosophy so it must be something else... blue, it must be blue's fault!"
 
-We've bought this excuse since the 1970's. Politicians use it, not because they don't care, but because they use old philosophies obsessed with mass producing primitive tools, not distributing powerful digital ones. As problems pile up for polar bears living in the Amazon, they need a reason, and without a new philosophy, they blame each other.
+Seens ridicules, yet the struggling middle class has heard this excuse since the 1970's. Politicians use it, not because they don't care, but because they use old philosophies. Obsessed with mass producing primitive tools, not distributing powerful digital ones, our problems pile up for us, the provervial polar bear living in the Amazon.
 
-Spend time with a politician during their work day and you'll see first hand who old philosophies punish them; maybe most of all. They do care and it's not an easy job hearing the polar bears complain about raw burgerss and mushy fries. I'll explain it best, and how to fix it, by getting into your corner in a street fight.
+It harms them as much as anyone. Spend time with some councilmans, state senators, small-town mayors and you'll see first hand they try to do right. It's not an easy to keep hearing the polar bears complain about raw burgerss and mushy fries when the tools your support are the ones causing the problem. Old philosophies of old tools are a useless playbook. Without a new philosophy, red/blue can only blame each other.
+
+I'll explain how to give them a new playbook by getting in your corner.
 
 ## Martial Arts
 
-Lifeforms in nature often fight each other. This can be over mates, territory, or food. Fighting enforces fitness, letting Nature afford to field more lifeforms. Higher biodiverity lets life probe for more environmental changes.
+Lifeforms often fight. Usually over mates, territory, or food. We've already learned fighting enforces fitness, empowering Nature to better probe the environmental for changes with more players on the field so to speak.
 
-Fighting is thus how lifeforms cooperate. After all, we're _forms_ of life. All species of animals, plants, fungi are merely life's minions to find the best form to represent life in the current environment. To do that, we need to probe the environment to see who should be on the field. All lifeforms thus play on the same team. We fight because we want the best players on the field.
+Sadly, no lifeform is guaranteed playing time. We're all merely _forms_ fighting for a spot on the team. Lifeforms help each other stay sharp. We cooperate byway of competition.
 
-Fighters call this idea "iron sharpens iron". Because fighting, in competition or in practice, is simply both sides cooperating to get better.
+Fighters call this "iron sharpens iron". Because fighting, in competition or in practice, is simply both sides cooperating to get better.
 
-Ever notice how species fight the same way. Most obviously seen at mating season when males fight with whatever tool they have like horns, paws, or hooves. They don't act outside this agreed dueling method. A smaller male lion doesn't attack the bigger one at night and murder the star player to get on the team.
+Ever notice how species fight each other. Like two western gun slingers, they have a ritual. For example, males at mating season use whatever their paws, hooves, or horns to kick, claw, or ram each other. They never fight outside the ritual. A benchwarming lion doesn't murder the star player via a late night ambush.
 
-This agreement explains human combat systems. Everything from boxing, kickboxing, judo, karate, tak-won-do, jiu-jitsu, and wrestling. Each teaches to fight and win, yet has a set of rules in which to compete. Boxing is punches only. Kickboxing doesn't let you hit a downed opponet. Tak-won-do is mainly kicking with no take-downs. Judo is take-downs with no kicking. Jiu-jitsu is trying to submit someone, wrestling is trying to man handle them.
+Humans also have agreed upon combat methods. Martial arts in boxing, kickboxing, judo, karate, tak-won-do, jiu-jitsu, and wrestling. Each teaches its students to fight and win; yet has a set of rules in which to compete. Some examples are boxing is punches only. Kickboxing doesn't let you hit a downed opponet. Tak-won-do is mainly kicking with no take-downs. Judo is take-downs with no kicking. Jiu-jitsu is trying to submit someone, wrestling is trying to pin them down.
 
-Each martial art uses the same human body to defeat another in combat. Yet each has a long list of rules both fighters agree on. This is like species, who also agree that the male who charges the hardest, or hits the longest gets to mate because it's agreed the best within the rules gets to start.
+Each martial art uses the same human body to defeat another in combat. Yet each has a long list of rules both fighters agree on. This is like species, who also agree that the one who wins the ritual gets to mate, or lead the pack, or simply win.
 
-This seems natural. We pick hockey, soccer, spelling-bee, stars based on their respective rule books.
+But it's not a natural way to fight. Because in fights between species there is no rule book. The biggest lion, or the toughest ram, doesn't automatically win the day. Dozens of hyenas can ambush a lion. Thousands of ants can harrass the hyenas. One ant eater would eat not run.
 
-But it's not natural because between species there is no rule book. Each is always trying to sharpen each other to find the best star players. Natural selection always rules; only the fittest survive.
+Nature as no rule book but natural selection. All lifeforms are always trying to sharpen each other to find the best star players for life. It's a hard realization for any lifeform who thinks being the king of the species makes him a king in Nature.
 
-This happened in martial arts, when in the early 1990's, someone had the idea to throw away all the rule book and find out which was the best when they fought each other. Throwing away a fake rule book started Mixed Martial Arts.
+Martial arts learned this lesson in the early 1990's when someone wanted to find out which system was the best. The answer was, none of them.
 
 ## Mixed Martial Arts
 
-Like most discoveries, MMA was an accident. A few people were simply were curious which martial art was the best. Brazil had Vale Tudo. Japan had Pancrase and America had the Ultimate Fighting Championship.
+Like most ideas, the search to find the best martial art happened in several different areas. Brazil had Vale Tudo. Japan had Pancrase, and America had the Ultimate Fighting Championship.
 
-After several years of no-holds barred tournamets, people found the answer; throw away the rule book.
+And fitting of any good story, after several years of no-holds barred tournamets, people were surprised by the answer; throw away the rule book, and mix all the martial arts together.
 
-In MMA, there are very few outside rules (basically no weapons, eye gouching, or groin strikes). Fighters are free to do almost anything to win. Punches, knees, submissions, clinches, holds, chokes, locks, throws, taunts, insults, work rate, kicks, cart wheels, whatever. Choosing which technique is best, depends on the environment (i.e. the opponent) and the problem at any given moment.
+That's why in Mixed Martial Arts (MMA), there are very few outside rules (basically no eye gouching, biting, or low blows). Fighters are free to do almost anything to win. Punches, knees, submissions, clinches, holds, chokes, locks, throws, taunts, insults, work rate, kicks, cart wheels, whatever. Because in a real fight, anybody would do anything to win.
 
-The fighter who best adapts wins.
+Fighters win by choosing which technique is best, which depends on the problem and environment (i.e. the opponent), at any given moment. The fighter who best adapts wins.
 
-Thus, "submit and learn" is a strongly believed mantra to MMA fighters. Each martial art is still trained, and still very revered, but MMA fighters mix them all together into their own style. MMA has changed so much in just a few years because fighters either adapt or lose. This is why MMA fighters will defeat any specialized fighter in open combat.
+Thus, "submit and learn" is another strongly believed mantra to MMA fighters. Each martial art is still trained, and still very revered, but MMA fighters mix them all together into their own style. Evolution in the sport is very fast. This is why MMA fighters defeat any specialized fighter in open combat.
 
-Some martial arts stay ignoreant. Surrounded by a mystical belief system, they delude themselves. Te worst offender may be Akido. A quick YouTube search (sadly) showcases a touch love lesson; in nature, there is no rule book. Whatever wins, is the effectual truth.
+Even so, some martial arts stay ignorant. While boxing or jiu-jitsu know they're limited, they aim to excel inside they're limitations. They're expertise is what MMA fighters harness. However other martial arts reject the lesson. The worst offender may be Akido. A quick YouTube search (sadly) showcases a tough lesson. Watching an Akido master get their ass kicked by a MMA fighter is like watching a peacock getting caught by a tiger and thinking "but my plumb was brighter".
 
-Ordering a meal, and learning about MMA, teaching frontline workers how politicians can be expected to get our orders for better tools right, the answer is Mixed Ideological Politics.
+In Nature, whether on the Savanah, or on the streets, there is no rule book. Whatever wins, is the effectual truth. It's a hard won lesson that's easy to forget if anyone thinks the rules protect them.
+
+The ultimate lesson for us to learn is this. Ordering a meal, and learning about MMA, teaches us frontline workers how politicians can be expected to get our orders right. The answer is Mixed Ideological Politics.
 
 ## Mixed Ideological Politics
 
-Species and martial arts have rule books. That why when they fight each other they follow the rules. Political ideologies are the exact same thing. They're rule books, meant to solve specific problems a unique way.
+Frontline people have many problems. Crushing personal debt, housing payments they can't keep up with, living next to strangers in suburbia. Because of past heroes, we have the political power to demand help.
 
-Conservatism is preoccupied with wealth generation, they pay little attention to how it should be distributed. This state of indecision between going back and going slow is the characteristic dilemma of the conservative, visible in every issue today.
+We vote for help, politicians get in office, and when we ask were our order is, we're told "We used the best red philosophy... go talk to blue, it's their fault!
 
-Progresssivms is ... Progressives argue that wealth is unjustly distributed, for example, but they overlook the need to generate wealth. They also argue for individual liberty and also for progress toward liberty. 
+Political ideologies, whether red, blue, purple, or green, are the same as martial arts like kickboxing or judo. They're rule books meant to solve specific problems a unique way. Here's a run down.
 
-Marix is ...
+Conservatism is preoccupied with wealth generation and pays little attention to how it should be spread around. On social changes, conservatism prefers slow and prudent adjustments to make sure society stays steady. They thus have a constant state of indecision between going back and going slow, visible in most every issue today. People happy with their paychecks, the way things were, or who wish to join the ranks, are usually conservatives.
 
-Capitalism is ...
+Progresssivms is preoccupied with spreading the wealth, and usually believe it's unjustly controlled by greedy people. Yet they overlook the need to generate wealth. On the social front, they say why should oppressed and disadvantaged people patiently wait to be liberted. Thus, progressives argue for individual liberty and constant progress toward liberty. They however don't know what to do with a person who disagrees with them, because liberty requires different opinions, even ones against progress.
 
-His difficulty is that progress requires enlightenment and the gradual defeat of prejudice—whereas liberty requires openness to all opinions, including prejudiced ones. What should a good liberal do for a conservative, teach him to think better or let him be as he is? Here is a conundrum always present to liberals.
+Capitalism saw mud roads, herbal medicines, and hand made wool jackets and said this is bullshit. Humanity can do better. We must do better to be life's star players. It's ideas would be familiar to any farmer or botanist.
 
-But in truth, life wants us to ignore the rules when outside our bubbles.
+Because remember tools are a lifeforms. So to propagate more tools, we only need to what all lifeforms do to get more, propagate many young and protect them against harm. This is the basis of sacrocent property rights of modern economics. The more we protect early lifeforms, the more they die, and their resulting biomass fertilizes a larger and large ecosystem.
 
-The more tools we make, the more cyborgs we make. Human cyborgology keeps expanding. The more rule books each will have. This makes our politics breakdown. We have to learn we can't just following the "rule book" of being a corporate HR cyborg, or a ticket-taker movie usher, or a Blockbuster store manager.
+Marism agrees with capitalism. That concentrating property into a few hands will cause it to grow every wider. However, Marx says the workers should get a fair share of the wealth generated.
 
-And this return us to ordering anything on the frontline. You're not playing red / blue ideological martial arts. You have a problem. If you vote for a person to represent your interests, they should not every say, "it's not my fault "red/blue" isn't following the rules".
+Liking wealth generation and keeping it in the hands of those who traditionally have it is why most conservatives are proud capitalists. Thinking the world should be fairer, even if that means forcefully, is why many progressives like Marxism.
 
-Of course they aren't! They aren't the same species. They hold other tools. They have different rule books. Each species has a different outlook.
+No ideology is self-sufficient. Conservatives would have lower classes fend for scraps, while Progressives would tax the rich to join them. Capitalists think any and all property is hallowed, even the spectacle of modern gas cars, houses, and movies. Marxists want to find new ways why history keeps being wrong instead of their theory.
 
-Yet iron sharpens iron. The more we fight/debate/argue is good, to see which ideas hold fast. But, inaction is not allowed. An elected representative didn't get yourvote, they got your order. I have problems, whether it being hungry at lunch, small business expenses, or child care.
-
-Either the representative brings back an object to solve that problem, or can point to someone who has, or they don't. Blaming the other side for breaking the rules makes no more sense then a waitress blaming the supply truck for a raw hamburger, or a wrestler saying a kickboxer cheated during an MMA fight.
-
-Political ideologies are tool kits. Ways of potentially solving a problems. Ours are so old they're based on turning mud roads, paper libraries, horse and carriage into a better civlilzatin. Regardless, your on the frontline, you need tools to solve problems.
-
-It's the politicans job to work with other species. Iron sharpens iron. Debate, argue, back stab, whatever. Yet, like in a kitchen or a martial arts fight, the oly thing that matters is the result.
-
-For the extras in the middle class, that means a tool to solve a problem.
+For the frontline voter, none of this matters any more than finding out what stove, or cooking technique the burger joint is using. We're the ones in the ring fighting for our survival.
 
 ## Beaten Bloody Extras
 
-Fighters have cornermen. People actually in their corner during a fight giving them advice and holding the spit bucket.
+Fighters have cornermen. Coaches and advisers giving them advice before and during a fight.
 
-Imagine what would happen if a karate coach was in someone's corner during a MMA fight, but refused to recognize karate rules don't apply. He'd end up yelling about the rule book to the referee "Hey no holding!" "Hey no choke holds!"
+Imagine what would happen if a karate coach refused to recognize karate rules don't apply in a MMA fight. He'd yell to the referee; "Hey no choke holds!"
 
-And then he'd be yelling at you "Hey keep it up, your technique is great, your katra's are perfect. this guys cheating, you're gonna win by default"
+And then he'd be yelling at you "Keep it up, your technique is great, this guys cheating, you're gonna win by default!"
 
-And then the fight is over, your broken up, and you lose. The coach starts yelling the system is corrupt, that this is all bullshit.
+And when the fight is over, and your beaten bloody, and the other girl gets her hand raised. The coach starts yelling the system is corrupt, that this is all bullshit, and that you did everything properly. The other guy is to blame.
 
-That's why politics is like today. The people are on the frontline, and their ideologies are in teh corner tell them shit that makes no sense anymore. We're not living in the red/blue world. We're getting our asses kicked. And we stay loyal to our long time coach.
+That's what politics is today. Coaches using different ideological rule books yelling about the rules.
 
-Loyalty gets you no where. We lose more fights. The environment changed. We need a new coach, tellins us to do whatever is best for us. We need to pick and choose whatever ideology works. We need Mixed Martial Politics. And how do we judge which works.
+And the people are in the ring, on the frontline honestly taking the advice of experts, who can't realize in Nature, there are no rule books by the effectual truth. We're getting our asses kicked. And we stay loyal to our long time coach. We need to use Mixed Ideological Politics.
+
+## Techvolution in Your Corner
 
 Just like life. By assessing the situation on the frontline as fast and accuratrely as possible. That means empowering the extras on the frontline with whatever tool they want, electing politicians who follow orders, and judging results by our senses, and tracking results in something called the Life Star.
 
@@ -117,9 +117,29 @@ That means we all must be protagonsits, solving problems....the story is more im
 
 We either tap and learn, or we become antagonist citing a rule book history wont care about anymore than life cares about all the lifeforms gone extinct before we showed up...
 
+Techvolution is about expanding the people's toolbox by letting them use whatever tool best solves their problem. We should demand our politics uses whatever playbook needed to get us there.
+
+## How to make red/blue agree
+
+Lifestar, use a common sense. Senses....
+
+## Techvolution in Your Corner2
+
+And this return us to ordering anything on the frontline. You're not playing red / blue ideological martial arts. You have a problem. If you vote for a person to represent your interests, they should not every say, "it's not my fault "red/blue" isn't following the rules".
+
+Of course they aren't! Their from a different sport with different rule books. The skill is to mix them.
+
+How, that's not your problem. An elected representative didn't get your vote, they got your order. Whether it being hungry at lunch, rising small business expenses, or incompentent bosses giving themselves raises paid for by unpaid overtime.
+
+Either the representative brings back an object to solve that problem, or can point to someone who has, or they don't. Blaming the other side for breaking the rules makes no more sense then a waitress blaming the supply truck for a raw hamburger, or a wrestler saying a kickboxer cheated during an MMA fight.
+
+Political ideologies are tool kits. Ways of potentially solving a problems. Ours are so old they're based on turning mud roads, paper libraries, horse and carriage into a better civlilzatin. Regardless, your on the frontline, you need tools to solve problems.
+
+It's the politicans job to work with other species. Iron sharpens iron. Debate, argue, back stab, whatever. Yet, like in a kitchen or a martial arts fight, the only thing that matters is the result.
+
+
+
 ## Left over
-
-
 
 We have to learn to  there is out there,
 
@@ -152,5 +172,3 @@ I, and you, shouldn't care at all what methods, ideologies, beliefs, or opinions
 All this happeneings are trackable now. And thus, we can track the results of our politial and economic leaders in making them happen. Raise taxes, cut taxes, private health insurance, public health insurance. Whatever way the cook, fighter, or doctor wants is good with the rules.
 
 And based on history, and theory, the ultimate answer to each will be more individual empowerement to pick one's own tools. Only the cook, the fighter, the doctor, the person encountering the problem, knows what tools. And like in any ecosystem, our job isn't tell enforce human rules, but in making sure other lifeforms are being efficient with resources, so we all keep adapting life on, and beyond, Earth.
-
-We haven't adapted a ruling philospohy to help us make use of our tools. We're like a fighter trying to fight judo to win an MMA fight. It's...
