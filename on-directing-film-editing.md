@@ -53,48 +53,45 @@ The chapter ends by Mamet saying a film is a dream sequence. Platoon, is not any
 
 Titled "Where Do You Put the Camera?", this chapter is a dialogue with students from the Columbia University Film School about constructing a film. It puts Mamet's ideas into practice.
 
-Mamet It starts by asking the students to look around, and create a scene about their situation; a teacher and his students inside a university classroom. A student replies they should put the camera above, to show the entire classroom and because it's a novel place to put the camera.
+Mamet starts by asking the students to look around and create a scene about their situation; a teacher and his students inside a university classroom. A student replies they should put the camera above, to show the entire classroom and because it's a novel place to put the camera.
 
-Mamet rejects the idea because the question was a trick. You can't put the camera anywhere until you've written the scene and done a shot list. Asking "where to put the camera" is really asking, what the scene is about. And asking what the scene means is really asking what does the protagonist want. Choosing a shot first is indulging on impulse, which is what performance artists do.
+Mamet rejects the idea because the question was a trick. Asking "where to put the camera" is really asking what the scene is about. And asking what the scene means is really asking what does the protagonist want. You can't put the camera anywhere until you've written the scene with these details. Choosing a shot first is indulging on impulse, which is what performance artists do.
 
 To get things going, Mamet decides the scene is about a student who wants to earn the instructor's respect.
 
 Showing the progression of these incidents in a movie breaks down like this.
 
-The beat/shot is the smallest unit of a movie.
+A beat/shot is the smallest unit of a movie.
 Each beat has an objective.
-The scene is a collection of beats.
+A scene is a collection of beats.
 Each scene has a super objective.
-The movie is a collection of scenes about the character fighting to get what he wants.
+A movie is a collection of scenes about the character fighting to get what he wants.
 
-
-
-
-By understanding the superobjective of their scene, a student earning his instructor's respect, they can think of smaller beats/objectives to get the hero what he wants. Finding of the list of beats answers the question "where to put the camera".
+Thus, only by understanding the superobjective of their scene, a student earning his instructor's respect, can the class think of good beats/shots for the scene. Finding the good beats automatically answers the question "where to put the camera" because the camera simply needs to shoot the require shot and move on.
 
 At the start, Mamet repeatedly rejects student ideas that are too interesting, and encourages them to find the simplest shot to represent the objective and super-objective of the beat and scene respectively.
 
-For example, Mamet rejects the idea of the professor having a prosthetic arm which falls off and the protagonist retrieves it to impress him. It's too interesting, too unusually, making it something a typical  audience couldn't relate to. Mamet turns this rejection into a wider rejection of a movie script trying to "establish the character". Referencing Aristotle, Mamet says character doesn't exist in stories. The a story's character is literally what the hero does in pursuit of their goal. Backstory or personality doesn't matter, because talking about them isn't telling a story anymore than talking about yourself is.
+For example, Mamet rejects the idea of the professor having a prosthetic arm which falls off and the protagonist retrieves it to impress him. It tries too hard to be interesting, meaning it's too unusual for most the audience to relate to. Mamet turns this rejection into a wider rejection of a movie script trying to "establish the character". Referencing Aristotle, Mamet says character doesn't even exist in stories. The story's character is literally what the hero does in pursuit of their goal.
 
 To Mamet, movie scripts should not establish a character with descriptions like "A fellow, trim, fit, obviously enamored of the good things in life...". A movie script should simply describe the images an audience sees on screen.
 
-An example, "A fellow goes to a whorehouse, asks 'what can I get for five bucks', and the madam responds 'you should have been here yesterday, because...'. You don't care if this hero is trim, fit, and enamored of the good things in life. His action of going to a whorehouse with five bucks tells you everything you need to know about him. He could be anyone. Not given him characterizations lets the audience put themselves in his shoes. Now the audience can imagine themselves perhaps doing the same thing, and thus can wonder if their hero will get what he wants, and therefore enjoy the story.
+He explains by saying; "A fellow goes to a whorehouse, asks 'what can I get for five bucks', and the madam responds 'you should have been here yesterday, because...'. You don't care if this hero is trim, fit, and enamored of the good things in life. His action of going to a whorehouse with five bucks tells you everything you need to know about him. He could be anyone. Not giving him characterizations lets the audience put themselves in his shoes. Now the audience can imagine themselves, or someone they know, doing the same thing. Letting the audience enter into a stories reality is the magic of storytelling.
 
-Simple characters are natural to stories. Characterizations get in the way.
+In short, simple characters make it easy to tell and listen to stories. Too many characterizations get in the way of a person's imagination.
 
-Mamet tells his students to remove characterizations by using KISS (Keep It Simple Stupid). KISS reminds writers to only find the meaning of beat and scene, and simply show the series of events of the protagonist trying to get what he wants. Only giving the essential story beats, and withholding information overload, respects the audience, and keeps them guessing what's going to happen next. which is why they're watching the story in the first place.
+Mamet tells his students to remove characterizations by using KISS (Keep It Simple Stupid). Repeatedly using KISS reminds writers to only find the meaning of beat and scene to tell the series of events of the protagonist trying to get what he wants. KISS withholds information overload, respects the audience, and keeps them guessing what's going to happen next; which is why they're watching the story in the first place.
 
-Mamet continues by taking in ideas to show the next beat of his "impress the professor" scene, which is preparing for class. He explains why his student's initial ideas, showing labels and name tags, are too narrative, or ideas like combing hair, too vague. When a student suggets writing on a notepad, Mamet likes it, especially when the he tells the students to withhold showing what the student is written because it keeps the audience in suspense.
+Mamet continues by taking considering ideas for the "preparing for class" beat in the "impress the professor" scene. He explains why his student's initial ideas, showing labels and name tags, are too narrative, or ideas like combing hair, too vague. When a student suggets writing on a notepad, Mamet likes it, especially when the he tells the students to withhold showing what the student is written because it keeps the audience in suspense about what he's writing and why's he writing it.
 
-For the third beat of the scene, Mamet emphasizes the need to keep it logical. The superobjective is to gain the professor's respect. The first beat is to arrive to class early. The second is to prepare. And to get the third we use the litmus test of a logical beat to achieve the superobjective. The next beat is decided to be homage.
+For the next beat, Mamet emphasizes the need to keep it logical. The superobjective is to gain the professor's respect. The first beat is to arrive to class early. The second is to prepare. And to get the third we use the litmus test of a logical beat to achieve the superobjective. The next beat is decided to be paying homage to the professor.
 
-The class delves into the meaning of himage to find a shot that represents it. Mamet explains like a dream, the shot can be anything that represents homage. The director isn't limited to what the protagonist is doing, but can represent the beat anyway the audience will understand it once it's juxtaposed with the other shots. In line with KISS, the class decides "walking feet", follow by "student stands up", depict homage.
+The class delves into the meaning of homage to find a shot that represents it. Mamet explains like a dream, the shot of homage, or anything other beat, can be anything. The director isn't limited to what the protagonist is doing, but can represent the beat anyway the audience will understand it once it's juxtaposed with the other shots. In line with KISS, the class decides "walking feet", followed by "student stands up", most easily depicts homage.
 
-To create the next beat, Mamet reminds the class, to first ask what the superobjective is "to the win the respect of the professor". After dismissing the student's ideas as too generic, he then thinks of a fantasy life, what would the student do if unbound by contemporary social rules, to gain the respect of someone. Fantasy is good to image, because audiences like stories different than a typical life.
+To create the next beat, Mamet tells the class to stay on topic, by remembering the superobjective is "to the win the respect of the professor". After dismissing the students first ideas as too generic, he tells them to think of a fantasy life; what would the hero of the story do if unbound by contemporary social rules to gain the respect of his professor. Mamet says fantasy is good because audiences like stories different than a typical life.
 
-To help the students think of the next beat, he tells them to create a material goal for the protagoinst. Something tanglible to hold, have, and fight over. Thus, the student no longer simple wants the professor's respect, but wants the professor to change a grade. Giving "respect" a real-life manifestation makes the story easier write and represent in shots. Either the professor changes the grade, or doesn't. Thus the writer, and the audience, easily knows what the scene is about and when then scene is over.
+To help the students think of the next beat, he tells them to create a material goal for the protagonist. Something tanglible to hold, have, and fight over. Thus, the student no longer simple wants the professor's respect, but wants the professor to change a grade. Giving "respect" a real-life manifestation into a school-paper makes the story easier to write and represent in shots. Either the professor changes the grade, or doesn't. With a notepad the writer, and the audience, easily knows what the scene is about and when then scene is over.
 
-Mamet then explains a goal is a MacGuffin. A commonly used plot device, like a "secret briefcase", used to carry the action of a story. Simply knowing the protagonist needs the MacGuffin is good. The audience doesn't need to know why. It's better to leave out details about goals, because like with too much characterizations, leaving stuff out lets the audience find their own meaning. Everyone can cheer for a hero, but call the hero reall tall, or really short, and now the audience relates less.
+Mamet then explains the notebook is a MacGuffin. A commonly used plot device, like a "secret briefcase", used to carry the action of a story. Simply knowing the protagonist needs the MacGuffin is good. The audience doesn't need to know why. It's better to leave out details about goals, because like with too much characterizations, leaving stuff out lets the audience find their own meaning. Everyone can cheer for a hero, but call the hero really tall, or really short, and now the audience relates less.
 
 Mamet returns to making their "change a grade" scene. The next beat is getting a retraction from the professor. Using KISS again, the next beat is the student asking for one.
 
