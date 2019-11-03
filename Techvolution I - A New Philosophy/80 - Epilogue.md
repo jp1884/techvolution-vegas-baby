@@ -3,60 +3,51 @@
 
 ## My App
 
-My app. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in "tech".
+My app. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in “tech”.
 
-The tool wasn't polished because new tools never are. It was, would have been, so effective because it came directly from the frontline. A place far away from today's ruling philosophy.
+The tool wasn’t polished because new tools never are. But it was, and would have been, so effective because it came directly from the frontline. A place far away from today’s ruling philosophy.
 
-Here's how it worked. Today's car insurance claim system depends on drivers exchanging information like names or insurance policy numbers after a car accident. Drivers are frazzled and scared of strangers so they usually don't. My adjusting job was talking to these drivers to process their insurance claims. The one supposed to return drivers back to normal; at least as best to normal as money can get them. A big problem was simply knowing who the other driver and adjuster were. Since we often didn't know, we had to search for it; literally calling around or hoping someone calls you. Delays piled up like crazy.
+Here’s how it worked. Today’s car insurance claim system depends on drivers exchanging information like names or insurance policy numbers after a car accident. Drivers are frazzled so they usually don’t. My adjusting job was talking to these drivers to process their insurance claims. The one supposed to return drivers back to normal; at least as best to normal as money can get them. A big problem was simply knowing who the other driver and adjuster were. Since we often didn’t know, we had to search for it; literally calling around or hoping someone calls you. Delays piled up like crazy.
 
-Adjusting sucks. People assume we try to short change them, but the truth is we overpaid to compensate for processing delays. Our only tools were a telephone, email, voicemail, checkbook, google, and a supervisor telling us to hurry up or get fired. Beyond st-st-stress ~~stressful~~, very emotionally taxing.
+Adjusting sucks. Our only tools were a telephone, email, voicemail, checkbook, google, and a supervisor telling us to hurry up or get fired. Beyond st-st-stress stressful, very emotionally taxing.
 
 Until you speak with a driver who is a real person.
 
-Real person because their accident wasn't an inconvenience, but a life changing horror. Maybe their arm was amputated, or their friend was ejected from the car, or their kid burned alive twelve hours ago.
+Real person because their accident wasn’t an inconvenience but a life changing horror. Maybe their arm was amputated, or their friend was ejected from the car, or their kid burned alive twelve hours ago.
 
-You're mind shuts Darth Blockbuster up the moment you talk to this real person. They have a problem and your soul wants to help.
+You’re mind shuts up Darth Call Centre the moment you talk to this real person. They have a problem and your soul wants to help.
 
-Why did this happen? That's all drivers want to know. Was someone trying to beat a red light? Was the road not salted for ice. Was it drunk driving? What's the reason for the sudden terror of pain. It's soothes people to  know why the accident happened, it really helps knowing it won't happen again.
+Why did this happen? That’s all drivers want to know. Was someone trying to beat a red light? Was the road not salted for ice. Was it drunk driving? What’s the reason for the sudden terror of pain? It’s soothes people to know why the accident happened; it really helps knowing it won’t happen again.
 
-My app combined several existing technologies, email, internet, GPS, google maps, and web apps, to make a new tool. It let insurance adjusters post an accident on a google map, and verified their identity by their work email. Since every accident shares the GPS coordinates, all adjusters, regardless what drivers do, can find each other. It's minimal operating cost was paid for by rental car companies and repair shops, who loved the ability to email invoices directly to adjusters without having to call first.
+My app combined several existing technologies, email, internet, GPS, google maps, and web apps, to make a new tool. It let insurance adjusters post an accident on a google map, and verified their identity by their work email. Since every accident shares the GPS coordinates, all adjusters, regardless what drivers do, can find each other. It’s minimal operating cost was paid for by rental car companies and repair shops, who loved the ability to email invoices directly to adjusters without having to call first.
 
 A simple new tool that only someone on the frontline would ever feel the pain to make.
 
-Society would have save hundreds of millions in insurance claim operating costs. That's cool. Adjusters's and drivers would save hours of their day. That's cool too. But this is the part worth fighting over. With my app, for the first time, we'd have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, demographics, and many other databases. We'd finally learn why car accidents happen, and start to fight back.
+Society would have saved hundreds of millions in insurance claim operating costs. That’s cool. Adjuster’s and drivers would save hours of their day. That’s cool too. But this is the part worth fighting over. With my app, for the first time, we’d have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, demographics, and many other databases. We’d finally learn why car accidents happen, and start to fight back.
 
-This database doesn't exist today. So when tree branches grow over stop signs, tires are faulty, intersections jam up too much, roads aren't salted, or anything else repeatedly causes accidents, we don't even know. Mix a database with machine learning and artifical intelligence and we'd find trends to the millions of accidents, and tens of thousands of deaths that happen every year. Who loses?
+This database doesn’t exist today. So, when tree branches grow over stop signs, tires are faulty, intersections jam up too much, pot holes get too big, or anything else repeatedly causes accidents, we don’t even know . With machine learning and artificial intelligence, we’d find trends to the millions of accidents, and tens of thousands of deaths that happen every year.
 
-People who don't feel frontline pain. In my case executives, lawyers, marketers, and consultants. Their blank faces, clueless looks, arrogant smirks angered me so much it merged years of political theory in my mind, and let me see a new ruling philosophy called Techvolution in my head.
+In a world held a bit steadier and comforted just a little more by such an app, who would be the loser?
 
-It was still hard writing this book. It was condensing so much political and economic theory and history into such a short space. I was mentally very tired, and despite indulging in Jack Jones' "The Impossible Dream" too much, a little bitter. Then I watched an episode of Netflix's _Black Mirror_ and went back to work.
+People who don’t feel frontline pain. In my case executives, lawyers, marketers, and consultants. Like Darth Blockbuster, they didn’t know one thing about their own industry. Not one. It existed only to stand above in an art film of self-entitlement. Their self-entitlement, blank faces, clueless looks, arrogant smirks angered me so much it merged years of political theory in my mind, and let me see a new ruling philosophy called Techvolution in my head.
 
-This episode was the tale of a crazed man, who wants to talk with the powerful CEO of an Instagram like app called Smithereens. He holds a company intern hostage awaiting the CEO's call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
+It was still hard writing this book. It involved condensing so much political and economic theory and history (there’s a lot) into such a short space. I was mentally pretty tired, and despite indulging in Jack Jones’ “The Impossible Dream” too much, a little bitter. Then I watched an episode of Netflix’s _Black Mirror_ and went back to work.
 
-I started to cry. I soon wept. I knew why, because I knew this crazed man.
+This episode was the tale of a crazed man, who wants to talk with the powerful CEO of an Instagram-like app called Smithereens. He holds a company intern hostage, awaiting the CEO’s call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
 
-I knew distracted driving killed someone close to him. The crazed man had been driving, and he checked his Smithereen feed, saw a picture of a dog or something, and he missed a drunk running a stop sign, and his beloved fiancee died.
+I started to cry. I soon wept. I understood this man and I knew why he went crazy.
 
-I didn't know it was his own distracted driving, but I knew the pain the actor played out so well. He just wanted to tell someone why it happened, so maybe it wouldn't happen again. I knew that because he told me it dozens of time while I used my soul to ease his pain.
+I knew distracted driving had killed someone close to him. The man had been driving, and he checked his Smithereen feed, saw a picture of a dog or something, and he missed a drunk running a stop sign, and his beloved fiancée died.
 
-I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer. The help, and the example of the Life Star I wanted to show, was against the rules, so Darth Blockbuster stopped it.
+I didn’t know it was his own distracted driving, but I knew the pain the actor played out so well. I knew that because I heard it through the same crazy cries from mothers and daughters, husbands and sons. Each just wanted to tell someone why it happened, so maybe it wouldn’t happen again. 
 
-He'll never say that, or even know it. He thinks frontline pain is a thing to stand above, not ever feel and solve with new tools.
+I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer. It was against the rules because solving problems is a good story the makes people realize art and spectacle is what Darth Blockbuster lives on is bullshit.
 
-I did my best as a protagonist. Not good enough to prevent anyone's accident, but I did my best. The point isn't self-pity. The point is self-pity doesn't need to exist in the digital age. For the philosophy of digital tools isn't a place of sword weilding heroes with a mass of peasants behind them. I pushed as far and high as I could. Now other protagonists can pick up where I left off. Everyone is either an extra choosing the best tools, or a hero working to earn their favour, in the ruling philosophy of Techvolution.
+He’ll never say that, or even know it. He thinks frontline pain is a thing to stand above, not ever feel and solve with new tools. Darth is nothing if not detached. He is the epitome of apathy in the face of others’ pain. That’s his worst and most irredeemable quality.
 
-Rest assured, the millions of protagonists inside the open-source community are making an app far more powerful than my little thing. Darth Blockbuster can't stop it, because the Sith are defeated. Their lawsuits, corporate rules, red / blue marches worked to suppress digital tools since the 1970's. No more.
+I did my best as a protagonist. I was not good enough to prevent anyone’s Smithereens, but I did my best. The point isn’t that I wallowed in self-pity or guilt. The point is that neither self-pity nor guilt need to exist in the digital age. We can do better! The philosophy of digital tools isn’t a place of sword wielding heroes with a mass of peasants behind them. I pushed as far and high as I could.
 
-The question is, now that Darth Blockbuster isn't weighing us down, what should we do with the immense knowledge and resources the Life Star gives us. What future should the open-source community build.
+Am I done fighting? No. I’ve picked up another tool, though, one that fits better in my hand and that may allow me to still reach out to many others who feel the need to evolve: a book. But I am just a speck in the sea that’s got to rise up and rinse the world of old sins and false beliefs. Other protagonists can pick up where I left off—they can go further than I could even dream of. That’s how society truly evolves: a pyramid of helping hands, not a pyramid of chopped limbs and ripped-up ideas. Everyone  is either an extra choosing the best tools, or a hero working to earn their  favor, in the ruling philosophy of Techvolution.
 
-All us geeks have dreamed of it everytime we watch not a galaxy far far away, but the one with the continuing mission to explore strange new worlds. We have to start exporing the next frontier sometime. Why should we wait to live in the world of Captain Picard's a rational society, where problem-solving trumps rules, individuals are always valued, and science, reason, and Techvolution govern which tools we make in the story of civlization.
-
-That's coming up in the sequel, the book I originally wrote, _Techvolution: Starting Starfleet_.
-
-### Personal Note on Political Philosophy: The Prince and the Executive
-
-This was the the executive. It will do for economics what the prince did for science and later on for politics. putting humans below the story, and letting the truth of the world as seen and sensed by tools, to determine our truths. human affairs, especially economic ones of what we make and use, needs the same transition as science, and democracy has today.
-
-If it was called and presented that, you'd likely seen it through red and blue eyes. I hoped to showcase how the prince changed and belittled human thinking but that meant to empower it with science that has done more to improve humanity's progress than anything else in history.
-
-I wish this book means humanity will never need another lesson. That's probably too idealistic. So hopefully this books will make it easier the next time human hubris gets in the way of heavenly progress.
+Who are you, Stargazer? Who will you be?
+<!-- read notes, be holder, as this is the final words -->
