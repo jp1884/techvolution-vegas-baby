@@ -1012,3 +1012,19 @@ Internet came. He had no idea what it was, so it was a threat. He sued Napster a
 Darth CD was living a art story. He couldn't solve a problem, making money from the internet, but he didn't want to give up his place as a hero. Thus his story was one of self-importance and complaining about his inability to act. He used spectacle, lawsuits, media interviews, marketing compaigns to try and make CD's stay cool, to try and distract the masses from a better tool.
 
 A hero in a classic story would have let someone else try. Which is what history did, Steve Jobs, and the other people behind iPods, iTunes, and now Spotify.
+
+## Prologue
+
+Yet when I wrote this book I used VS Code, Quora, Wikipedia, Betterworldbooks, and other digital tools for free or just about. When I needed some editing help and cool illustrations it was a click away on 99 Designs and Upwork. No meetings, no resumes, no office politics. I told people my problem, used chat, email, Figma and Word, and boom, like magic, world class drawings and a book that is far more readable. Best yet, I'm not their boss but collaborator.
+
+And I literally live next to a college specializing in creative writing and illustration. Yet the digital economy is easier and cheaper then trying to work with them. They're filled with adminstrators, bureaucrats, and teachers who live to delegate work.
+
+    As a kid I helped my family clean office buildings, warehouses, and factories. My job was to pick up garbages and blueboxes. A simple job I got done before reading PC Gamer. Blue collar people usually cleaned up after themselves. Offices not so much. They didn't like "working beneath them".
+
+    Later on, when I was the working in warehouses, factories, and offices, I saw the same thing. In one office job the cleaners were short staffed. Layers of management spent hours in meetings and eventually emailed out this:
+
+    >We are working through some issues with our office garbage pickup. As a result some of our bins have not been emptied. If you see that the bin is full, please refrain from adding more to the bin. Thank you for your patience. I am working on getting this resolved.
+
+    At nine I had the problem figured out.
+
+    Funny until you realize people who _want_ to delegate work control huge parts of our economy. They like old technology because it gives them the stream of problems they get to manage. And they know digital tools threaten their status.

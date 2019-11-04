@@ -44,9 +44,10 @@ There are many Darth Blockbuster’s in this class of artists. They live by inhe
 
 The people are distracted like fans of an old sitcom to notice we don’t get tools to solve our problems. We’re so use to seeing the same political family names, cable news shows, 60 Minute interviews, gas car product logos, to notice our story isn’t a classic one with people overcoming problems anymore.
 
-We fight back best with a new philosophy. To make it a ruling philosophy we need to build the Life Star, the rule book only Gods  can make, and humans can discover.
+The aim is simple. When you're talking about your job to a regular person, I want you to be able to say to "I am empowering you with new tools to help you live a better life" with a well deserved confident smile" then adding "and _they_ are holding you back". And if they question who and why, just tell them to read _Techvolution_.
 
 - crowdsourcing
+- community forums
 
 ## The Beginning
 
