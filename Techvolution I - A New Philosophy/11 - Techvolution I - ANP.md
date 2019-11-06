@@ -216,7 +216,7 @@ Techvolution is therefore intentional evolution. It’s like a more advanced and
 
 ## The Majic of Techvolution
 
-We call someone a _genius_ when he or she uses existing technology to make a new tool. Happily, these trailblazers are self-motivated and we already celebrate their intellect and innovations. But innovation isn’t the only step toward Techvolution. We truly evolve only when the extras choose to accept and use a new tool.
+Geniuses mimick nature in their minds. They're constant thoughts make constant variations, which they used to turn existing technology into a new tools. Happily, these trailblazers are self-motivated and we already celebrate their intellect and innovations. But innovation isn’t the only step toward Techvolution. We truly evolve only when the extras choose to accept and use a new tool.
 
 There were lots of smartphones on the market before the iPhone. Yet it was the amazing execution of the iPhone that had people lining up to grab hold of it, and since then, hardly every let go.
 
@@ -229,6 +229,8 @@ Typically, we underappreciate how cool it is to learn new tools. But every time 
 Techvolution is the ruling philosophy that encourages extras to “majically” bond with any tool they want so they can solve frontline problems.
 
 Yet what do we do when the Death Star say it’s wrong?
+
+Majic: The natural inclination of a person learn, use, and hold new tools to increase their natural abilities.
 
 ![New Tool/majic](/img\diagrams\techvolution-majic.png)
 
@@ -393,9 +395,10 @@ This was wrong. Inside the ruling philosophy of Techvolution, the extras would h
 
 The antagonists even resisted help. As Napster was introducing digital songs to America-and being sued for it- Steve Jobs wanted to improve digital songs with iTunes. Music executives had already tried and failed horribly to make their own platform. Despite the supposed crisis of Napster, Jobs said he’d “never spent so much of my time trying to convince people [music executives] to do the right thing for themselves”.
 
-The problem wasn’t Napster. It was Darth Blockbuster. To be fair, he knew how to manage a huge corporation, make a product people (had) wanted to buy, and got his employees paid. Yet he didn’t know anything about new technology and so fought against losing his job with rules, not tools.
+The problem wasn’t Napster. It was Darth Blockbuster. To be fair, he knew how to manage a huge corporation, make a product people (had) wanted to buy, and got his employees paid. Yet he didn’t know anything about new technology and so fought against losing his position with rules, not tools.
 
-From Galileo to Washington, Tesla to Jobs, the battle between antagonist, protagonists, and extras has always been the same. We have to win it again to reverse our bad trends that started in the 1970’s. READ NOTES clarify bad trends, and tie in with "classic" battle...Let’s look at how the classic battle  happens before we go fight it ourselves.
+From Galileo to Washington, Tesla to Jobs, the battle between antagonist, protagonists, and extras has always been the same. We have to win it again to reverse our bad trends that started in the 1970’s.
+<!-- READ NOTES clarify bad trends, and tie in with "classic" battle...Let’s look at how the classic battle  happens before we go fight it ourselves. -->
 
 ## How New Tools Start the Fight
 
@@ -409,13 +412,13 @@ But when we’ve upgraded enough technologies, like microchips, touchscreens, ba
 
 Why? Well, because creating a new tool asks a climactic and political question: who controls it? After all, whoever does, is more powerful. The weilder of the new tool can let extras connect with it to solve their problems. Or withold it and convince the extras to keep using old tools. Like muscle cars trying to keep customers away from Tesla with techniques like mass advertising, car culture, and spectacular chromes platedd V8 power! I call these techniques to keep people away from new tools "dark majic".
 
-**Dark Majic**: Methods and techniques to keep a person using a tool for the benefit of the tool's controller and not the user.
-
 Thus, while the story of civilization can be described as the struggle to overcome problems by upgrading technology and inventing new tools, it’s also about the battle to control them. The people with the old tool fight to retain their power, while inventors and innovators imagine a new society that shares it.
 
 The eternal story of civilization is thus protagonists like Steve Jobs making new tools, antagonists like music company executives attacking new tools, and many extras watching them fight. Our politics is an ongoing history of technological change, with protagonist and antagonist both reaching to control the tool and make themselves the winner.
 
 Today the extras lack self-awareness regarding their power to decide the battle’s outcome. I’ll show you, Stargazer, how important they are. They can change the world just by being curious and loving majic. Not too long ago, extras killed Wikipedia’s evil twin.
+
+**Dark Majic**: Methods and techniques to keep a person using a tool for the benefit of the tool's controller and not the user.
 
 ![Dist-vs-retention](/img\diagrams\techvolution-distribution-vs-rentention-2.png)
 
@@ -528,9 +531,9 @@ Thus, Rousseau understood stories—not just fictional ones, but real-world ones
 Every story contains a plot: a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change reality happens in three parts. The first is the introduction of the problem and characters. The second is protagonist and antagonist thinking up plans and attacking each other. The third part is the conclusion, where we find out which side wins. Although it’s easier to see in some more than in others, all stories have this structure.
 
 <!-- clarify, expand on this -->
-The difference between good and bad stories is it's place on the dial. While some stories are non stop action scenes, and others are non stop talking scenes, others mix the two up to tell a logical and surprisng story.
+The difference between good and bad stories is it's place on the dial. While some stories are non stop action scenes, and others are non stop talking scenes, others mix the two up to tell a logical and surprisng story. The plot thickens.
 
-**Classic movies:** are fights over real-life problems. Protagonist and antagonist repeatedly think of new ideas and act on them in a back and forth battle. New ideas give the stories surprises, while fighting to win requires logical actions.
+**Classic movies:** are fights over real-life problems. Protagonist and antagonist repeatedly think of new ideas and act on them in a back and forth battle. New ideas give the stories surprises, while fighting to win requires logical actions.  
 
 Mixing logical problem solving, with new ideas, gives classic stories “logical surprises”. These plot twists make what’s going to happen next unknown which keeps audiences glued to their seats. The conclusion can be a big victory for the good or bad guys, or anywhere in between.
 
@@ -538,7 +541,7 @@ There’s no way to know which stories will resonate with audiences, but only go
 
 **Art films:*- are not about any specific problem. Like personal journals, they’re more about the protagonist’s thoughts; not acting to overcome a problem. The result is surprising idiosyncratic behavior, but storylines with no problem solving to logically tie events together. Without action, these stories are surprising to the point of being weird, with conclusion that never change the reality inside the story because the hero didn’t even try to. Likewise, the audience can't question their own lives either.
 
-Without logical surprises, art films need to get weirder and weirder to maintain interest. To insulate themselves from criticism art filmmakers usually give themselves ever more awards, grandeur, and titles and end up-like their protagonists-on stages talking about themselves. Film festivals like Cannes, Sundance, Toronto mainly show art films.
+Without logical surprises, art films need to get weirder and weirder to maintain interest. To insulate themselves from criticism art filmmakers usually give themselves ever more awards, grandeur, and titles and end up-like their protagonists-on stages talking about themselves in a bout of self-gratification. Film festivals like Cannes, Sundance, Toronto mainly show art films.
 
 **Spectacle movies:*- are about an obvious problem, i.e. Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are thus very logical because the problem is very simple; survive or die. However, since the action is so instinctual, there’s no time for the protagonist to think of new ideas. The result is very logical but unsurprising stories that can’t change reality because no new ideas were introduced.
 
@@ -550,7 +553,7 @@ To maintain interest, spectacle movies have to keep reusing successful stories a
 
 In storytelling, logic and surprises counter-balance each other. Withholding logic makes self-important art films , and withholding surprise makes simple spectacle movies. Classic stories are good because they mix the two and create “logical surprises” that open our minds and change things. This is why art/spectacle stories don’t have “spoilers”, while we want to “go in fresh” for classic stories.
 
-You can see the difference in your favorite sitcom such as The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory. They start off as classic stories, with characters who deal with relatable problems like not liking their jobs or being tired of dating. As these characters keep encountering common problems, we learn more about them.
+You can see the difference in your favorite sitcom such as The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory. They start off as classic stories, with characters who deal with relatable problems like not liking their jobs or being tired of dating. As these characters keep encountering common problems, we enjoy learn more about them and sometimes ourselves as well.
 
 However, in later seasons, to keep their now popular characters alive, the sitcoms keep them living the same stories. Kramer can’t get a job, Raj can’t get a girl, Michael Scott can’t get self-aware. Here sitcoms become art and spectacle stories. Art, as in these characters can’t overcome their problems. And, spectacle, because we the audience keep watching even though we already know what’s going to happen. We watch our favorite  actors, characters, sets, catch-phrases, instead of waiting for logical surprises. You keep watching because you've grown accustomed to them.
 
@@ -877,21 +880,15 @@ So the question now is… why did you think Darth Blockbuster would ever admit h
 
 # The End
 
-Rest assured, the protagonists inside the open-source community are making an app far more powerful than my little thing. We might not know what it is yet, but be sure we’ll soon find out. Darth Blockbuster can’t stop it, because the Sith are defeated. Their lawsuits, corporate rules, red / blue marches worked to suppress digital tools since the 1970’s. No more. Because we won’t use a human-written philosophy to discuss what’s right and wrong for him to corrupt. It’s always been there. We just couldn’t sense it too well. Digital tools let us.
+<!-- read the three stories section "This seems to mirror the structure of your manuscript. Nice!" and reference it here, who wins? no one unless we change the story and create a new tool -->
 
-That’s coming up in the sequel, the book I originally wrote, Techvolution: Building the Life Star.
+Rememer when we said the third part is the conclusion, where we find out which side wins. We'll who wins?
 
-It’s on your shoulders, Stargazer. Do you feel it—the weight of the world? The mantle of fate?
+Is Darth Blockbuster dead? It’s on your shoulders, Stargazer. Do you feel it—the weight of the world? The mantle of fate?
 
-Don’t worry. I look at you and see not a pupil, but the master who will forever win the war against the Sith. You will make an incorruptible rule book. Where the only rule is natural selection. Just do me a favor. Call it the Life Star  because it fosters evolution, not kill it like its opposite.
+You shouldn't. For this book was merely a lesson in the history of political philosophy. If humanity is going to truly evolve with digital tools, we can't repeat history. We must change it.
 
-You have questions. Big ones. Every journey starts and ends with one footstep. So, go off and walk towards the future; I can’t be there for you.
-
-The future can’t be made by old war-torn heroes, sick and embittered by old philosophies. Only new heroes can build the future. The new heroes of the people who think majically connecting with any tool they want is as natural as voting.
-
-So, I lift my sword, and smile my eternal rest.
-
-A logical conclusion, in my opinion, would be something along the lines of Come along, Stargazer. Our work has just begun.
+So come along, Stargazer. Our real work has just begun.
 
 ## The Problem
 
@@ -940,6 +937,7 @@ The future can’t be made by old war-torn heroes, sick and embittered by old ph
 So, I lift my sword, and smile my eternal rest.
 
 - Every era has new political ideals. I hope this is, or contributes to, the one for the digital age.
+- Star Wars was against the rules. Steven Spielberg directing Star Wars was against the rules. Here some experiments that showcase how people will follow rules, or not.... So we need to change who can make the rules, to be sure they always have a good reason, and are thus always classic stories.
 
 # EPILOGUE
 

@@ -1028,3 +1028,28 @@ And I literally live next to a college specializing in creative writing and illu
     At nine I had the problem figured out.
 
     Funny until you realize people who _want_ to delegate work control huge parts of our economy. They like old technology because it gives them the stream of problems they get to manage. And they know digital tools threaten their status.
+
+    Another big motivation for me to write this was it pisses me off red/blue politics seeps into your political conversations and thoughts.
+
+Those philosophies are very old. That's why their supporters yell so much. Ignorant about digital tools solve problems, they keep people interested by giving them drama. What the middle class needs is to become their own heroes with new tools. Ways to understand how their taxes work, analyze why there's so many regulations, and protect their data from being sold to the highest bidder.
+
+## Star Fleet
+
+Here's the breakdown. In the first drawing I wanted the show what happens when humans change their perception because of new tools. With the telescope we saw the Earth moves,and we digital tools we'll see our obession with self-gratification.
+
+So for example, car insurance claim adjusters are often by lied to by bad drivers who swear "the light was green!". With only the liars word to go by, the worker is forced to appease them. But with new tools like dashboard cameras, the truth isn't a person's opinion, but something everyone can see with their own eyes. Hence why the "customer service representative" is discarding the mask and holding the cards.
+
+I'm starting conceptualize the article now, and changed from talking about what new world we'll see with digital tools, to what new world we'll build. So the article is now called "Starting Starfleet".
+
+In summary, I think once we're freed of rampant self-gratication, we'll supercharge people like Elon Musk to build the future, which I'm saying is how "Starfleet" actually starts, and hence what we'll see in the future is ourselves in the stars.
+
+Everything in the image can stay the same. Luckily Star Trek  often showed people playing cards. I just need the image to be wearing a Star Trek uniform, and looking back at us saying "hurry up, the future is so much fun".
+
+## Prologue jpm story
+
+Here's an example of it. As a kid I helped my family clean office buildings, warehouses, and factories. My job was to pick up garbages and blueboxes. A simple job I got done before running off to read PC Gamer or Maximum PC. Blue collar people usually kept a clean workspace. Offices not so much. Salesman, supervisors, and executives insisted on lived on image, and didn't like doing anything "beneath" their position.
+
+Later on, when I was the working in warehouses, factories, and offices, I saw the same thing. In one office job, cleaners were in short supply. Layers of management stared at full garbage bins, spent hours in meetings, and eventually emailed out this:
+
+>We are working through some issues with our office garbage pickup. As a result some of our bins have not been emptied. If you see that the bin is full, please refrain from adding more to the bin. Thank you for your patience. We are working on getting this resolved.
+
