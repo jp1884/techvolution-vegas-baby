@@ -3,59 +3,59 @@
 
 David Mamet
 
-The book opens a quote from an Anthony Trollope novel He Knew He Was Right:
+The book opens with a quote from the Anthony Trollope novel _He Knew He Was Right_:
 
 "They are most happy who have no story to tell".
 
 ## Preface ==
 
-On Directing Film is based on a series of lectures Mamet gave for a Film Directing class at Columbia University in the fall of 1987. He had just finished directing his second film and felt he was knowledgeable on the subject but still "not enough to realize the extent of my ignorance", and so he compensated for his lack of directing knowledge with his extensive writing experience.
+Mamet opens On Directing Film saying its based on a series of lectures he gave for a Film Directing class at Columbia University in the fall of 1987. He had just finished directing his second film and felt he was knowledgeable on the subject but still "not enough to realize the extent of my ignorance", and so he compensated for his lack of directing knowledge with his extensive writing experience.
 
-Mamets says the key to both writing and directing is not to think of pretty visuals, but to imagine the logical steps in a story, which is why even a blind author could become a screenwriter. Too often directors ignore this, and rush to use distracting pictorial images.
+Throughout the book, Mamet called screenwriting and directing "very much the same trade". They key to both is to to imagine the logical steps in a story. Too often directors ignore this, and rush to use distracting pictorial images instead.
 
-Instead of pretty images, Mamet says the job of the director is to understand what the story and its scenes mean and stage. Movies should be the collection of clearly meaningful scenes instead of pretty visuals whose logical progression is hard to tie together into a story. The idea is summed up by a Hemingway quote "Write the story, take out all the good lines, and see if it still works."
+Instead of pretty images, Mamet says the job of the director is to understand what the story and its scenes mean and stage it. Movies should be the collection of clearly meaningful scenes instead of pretty visuals whose logical progression is hard to tie together into a story. The idea is summed up by a Hemingway quote "Write the story, take out all the good lines, and see if it still works."
 
-Mamet emphasizes leaving out as much detail as possible. A good writer gets better only by learning to cut the ornamental, descriptive, narrative and especially the deeply personal. Mament agrees with Aristotle who says stories are about what happens to the hero fighting for what he wants, not what the writer thinks is interesting. Mamet doesn't here give example of "interesting" but given later examples it's anything from needless scenery shots, wordy dialogue, over-acting, and directors following the protagonist around, anything that isn't "the essential progression of incidents that occur to the hero in pursuit of his one goal".
+Mamet emphasizes leaving out as much detail as possible. A good writer gets better only by learning to cut the ornamental, descriptive, narrative and especially the deeply personal. Mament agrees with Aristotle who says stories are about what happens to the hero fighting for what he wants, not what the writer thinks is interesting. Mamet doesn't here give an example of "interesting" but given later examples it's anything from needless scenery shots, wordy dialogue, over-acting, backstory, and directors following the protagonist around; anything that isn't "the essential progression of incidents that occur to the hero in pursuit of his one goal".
 
-Mamet believes, and argues throughout the book, storytelling is a craft just like building a chair or house. It has natural rules to follow and thus master. While self-described artists claim any rules are a limitation to their self-expression, a true craftsman masters rules to give what their audience is looking for.
+Mamet believes, and argues throughout the book, storytelling is a craft just like building a house. It has natural rules to follow and thus master. While self-described artists claim any rules are a limitation to their self-expression, a true craftsman masters rules to give what their audience is looking for.
 
-Hence, to make a good story, a writer or director doesn't need make pretty visuals, but only imagine a logical progression of incidents. "Screenwriting is craft based on logic. It consists of the assiduous application of several very basic questions: What does the hero want? What hinders him from getting it? What happens if he does not get it?." A writer's ego answers these questions in a logical progression to make a story. When done, he let's his id write the more artistic, and less important, dialogue.
+Hence, to make a good story a writer or director doesn't need make pretty visuals, but only imagine a logical progression of incidents. "Screenwriting is craft based on logic. It consists of the assiduous application of several very basic questions: What does the hero want? What hinders him from getting it? What happens if he does not get it?." A writer's ego answers these questions in a logical progression to make a story. When done, he let's his id write the more artistic, and less important, dialogue.
 
-The hand off between ego and id is analogous to a screenwriter giving a director a screenplay. The director's job is to present the story as the writer wrote it, and find simple visual shots to show the essential progression of incidents that happen to the hero while trying to get his one goal. Directing is thus the "joyful extension of screenwriter". Which is how Mamet says he taught his course and wrote this book.
+The hand off between ego and id is analogous to a screenwriter giving a director a screenplay. The director's job is to present the story as the writer wrote it, and find simple visual shots to show it. Directing is thus the "joyful extension of screenwriter". Which is how Mamet says he taught his course and wrote this book.
 
 ## Chapter 1 ==
 
-Titled storytelling, this chapter aims to explain Mamet's views on directing. Inline with his belief screenplays and directing are tools to tell a story, Mamet says the montage theory of directing developed by Sergei Eisenstein is the best way to direct a movie. He uses it to oppose how most American movies "[follow] the protagonist around", and try to figure out how to make scenes interesting, instead of finding a logical progression of incidents that is interesting.
+Titled _Storytelling_, this chapter aims to explain Mamet's views on directing. Inline with his belief screenplays and directing are tools to tell a story, Mamet says the montage theory of directing, developed by Sergei Eisenstein, is the best way to direct a movie. He uses it to oppose how most American movies "[follow] the protagonist around", and try to figure out how to make scenes interesting, instead of finding a logical progression of incidents that is interesting.
 
-Per Mamet, Eisenstein's montage method "is a succession of images juxtaposed so that the contrast between these images moves the story foward in the mind of the audience." Directing becomes a series of uninflected shots. A teacup, a fork, a door; and these uninflected shots tell a story.
+Per Mamet, Eisenstein's montage method "is a succession of images juxtaposed so that the contrast between these images moves the story foward in the mind of the audience." Directing becomes a series of uninflected shots. A teacup, a fork, a door; and these simple shots tell a story.
 
-Which is how natural storytellers do it; "'I'm standing on the corner. It's a foggy day. A bunch of people are running around crazy. Might have been the full moon. All of a sudden, a car comes up, and the guy next to me says...'". Juxtaposition implies something's coming next, but leaves the audience in suspense. It's good to make the audience wonder. Let them be wait for each new event and be surprised as it happens.
+Which is how natural storytellers do it; "I'm standing on the corner. It's a foggy day. A bunch of people are running around crazy. Might have been the full moon. All of a sudden, a car comes up, and the guy next to me says...". Juxtaposition implies something's coming next, but leaves the audience in suspense to find out what. It's good to make the audience wonder. Let them be wait for each new event and be surprised as it happens.
 
-Mamet compares montage theory to Nature documentaries, where the action of a bird snapping a twig, then a deer raising it's head, tells the story of alertness, and implies impending danger, all inside two shots that by themselves are unrelated. In contrast, American filmmaking too often follows the deer or bird around in their day, instead of picking out the parts relevant to a story.
+Mamet compares montage theory to Nature documentaries, where the action of a bird snapping a twig, then a deer raising it's head, tells the story of alertness, and implies impending danger inside two shots that by themselves are unrelated. In contrast, American filmmaking too often follows the deer or bird around for hours, instead of picking out the parts of their day relevant to a story.
 
 Mamet then calls most movie scripts garbage. Instead of telling a sequence of events that together makes a story, they tell narration like "Nick, a young fellow in his thirties with a flair for the unusual". Such descriptions are useless to any director because it's impossible to shot on set. People write these narrative scripts for movie executives, who Mamet emphasizes, can't read stories because it requires some cinematic education or humility to learn, "neither of which is going to be found in the studio executive".
 
-When the screenwriter does their job, and writes the logical progression of incidents of a story, the director's work is simply compiling a list of shots to represent the events already imagined by the screenwriter. The director's work on set is nothing but sticking with this plan.
+When the screenwriter does their job, and writes the logical progression of incidents of a story, the director's work is to simply compile a list of shots to represent the events already imagined by the screenwriter. The director's work on set is nothing but sticking with this plan.
 
 To emphasize his lack of trust in typical storytelling processes, Mamet says he suspects film schools are useless because he found drama schools to be useless. Drama schools he says "refrain from insulting the gentleman or gentlewoman student of liberal arts by offering instructions in a demonstrable skill", like writing good stories. Instead, drama schools teach "things that will be learned by anyone in the normal course of events".
 
-Mamet than blames technology, especially the SteadiCam, for enabling bad storytelling. Instead of doing the hard work and imagining a logical progression of incidents, filmmakers can use technology "because it makes it so easy to follow the protagonist around". Because of technology, directors think they can skip making a shot list, and use their self-proclaimed artistic genius to decide where to put the camera when arriving on set. This means they're left making the story in the editing room with the film avaiable. A process which is better done before shooting.
+Mamet than blames technology, especially the SteadiCam, for enabling bad storytelling. Instead of doing the hard work and imagining a logical progression of incidents and making a shot list, filmmakers can use easy technology "because it makes it so easy to follow the protagonist around". Because of technology, directors use their self-proclaimed artistic genius to decide where to put the camera when arriving on set. This means they're left making the story in the editing room with the film avaiable. A process which is better done before shooting.
 
 Mamet then turns philosophical. He explains when a writer ignore Nature's rules of storytelling, they're likely to follow other people's opinions of high-class art (like performance artists do) or follow arbitrary rules to appease employers and get hired (like writing for ignorant studio executives). Writers will do this because they consciously want to please these groups and thus become risk-averse and use cliches.
 
 The importance of following proper storytelling technique is to free the mind from these bad influences. Once the human mind follows Nature's rules, it's "allowed true creativity", because their creation will be truly meaningful to an audience and stand the test of time.
 
-Mamet says true storytelling is told through uninflected shots; which is how dreams work and why they have so much power. Dreams are unrelated images that themselves have little meaning until their assembled together. It's the juxtaposition of images that gives dreams so much terror and beauty. Dreams aren't narrated, nor do they follow a person around for a day. Dreams are a series of shots that imply meaning. Thus, studying psychoanalysis, like The Interpretations of Dream, The Uses of Enchantment, and Memories, Dreams, Reflections, will help a filmmaker hone their craft and tell powerful stories.
+Mamet says stories with uninflected shots are natural and is why dreams have so much power. Dreams are unrelated images that themselves have little meaning. It's the juxtaposition of images that gives dreams so much terror and beauty. Dreams aren't narrated, nor do they follow a person around for a day. Dreams are a series of shots that imply meaning. Thus, studying psychoanalysis, like _The Interpretations of Dream, The Uses of Enchantment,_ and _Memories, Dreams, Reflections_, will help a filmmaker hone their craft and tell powerful stories.
 
-The chapter ends by Mamet saying a film is a dream sequence. Platoon, is not any more or less realistic then Dumbo, both just tell a logical and surprising progression of incidents with uninflected shots. All stories are thus make-believe, the question Mamet asks is "how good make-believe is it going to be?"
+The chapter ends by Mamet saying a film is a dream sequence. _Platoon_, is not any more or less realistic then _Dumbo,_ both just tell a logical and surprising progression of incidents with uninflected shots. All stories are thus make-believe, the question Mamet asks is "how good make-believe is it going to be?"
 
 ## Chapter 2 ==
 
-Titled "Where Do You Put the Camera?", this chapter is a dialogue with Mamet and his students. They put Mamet's ideas to practice as they work together to construct a scene.
+Titled _Where Do You Put the Camera?_, this chapter is a dialogue with Mamet and his students. They put Mamet's ideas to practice as they work together to construct a scene.
 
 Mamet starts by asking the students to look around and create a scene about their situation; a teacher and his students inside a university classroom. A student replies they should put the camera above, to show the entire classroom and because it's an interesting angle.
 
-Mamet rejects the idea outright because the question was a trick. Asking "where to put the camera" is really asking what the scene is about. And asking what the scene means is really asking what the protagonist wants. Thus, you can't put the camera anywhere until you've written the scene with these details cleary understood. Choosing a shot first is indulging on impulse, which is what performance artists do.
+Mamet rejects the idea outright because the question was a trick. Asking "where to put the camera" is really asking what the scene is about. And asking what the scene means is really asking what the protagonist wants. Thus, you can't put the camera anywhere until you've written a scene with these details. Choosing a shot first is indulging on impulse, which is what performance artists do.
 
 To get things going, Mamet decides the scene is about a student who wants to earn the instructor's respect.
 
@@ -69,74 +69,78 @@ Thus, only by understanding the super-objective of their scene can a filmmaker t
 
 At the start, Mamet repeatedly rejects student ideas that are too interesting, and encourages them to find the simplest shot to represent the objective and super-objective of the beat and scene respectively.
 
-For example, Mamet rejects the idea of the professor having a prosthetic arm that falls off. This idea tries too hard to be interesting, meaning it's too unusual for most the audience to relate to. Mamet turns this rejection into a wider rejection of a movie script trying to "establish the character". Referencing Aristotle, Mamet says character doesn't even exist in stories. The story's character is literally what the hero does, not who they were before the story started.
+For example, Mamet rejects the idea of the professor having a prosthetic arm that falls off, giving the hero the change to pick it up for him. This idea tries too hard to be interesting, meaning it's too unusual for most the audience to relate to. Mamet turns this rejection into a wider rejection of a movie script trying to "establish the character". Referencing Aristotle, Mamet says character doesn't even exist in stories. The story's character is literally what the hero does in the story, not who they were before the story started.
 
 To Mamet, movie scripts should not establish a character with descriptions like "A fellow, trim, fit, obviously enamored of the good things in life...". A movie script should simply tell the heroes story in images.
 
-He explains by saying; "A fellow goes to a whorehouse, asks 'what can I get for five bucks', and the madam responds 'you should have been here yesterday, because...'. You don't care if this hero is trim, fit, and enamored of the good things in life. His action of going to a whorehouse with five bucks tells you everything you need to know about him. He could be anyone. Not giving him characterizations lets the audience put themselves in his shoes. Now the audience can imagine themselves, or someone they know, doing the same thing. This is how audiences enter into a stories reality and is thus the magic of storytelling.
+He explains by saying; "A fellow goes to a whorehouse, asks 'what can I get for five bucks', and the madam responds 'you should have been here yesterday, because...'. You don't care if this hero is trim, fit, and enamored of the good things in life. His action of going to a whorehouse with five bucks tells you everything you need to know about him. Not giving him characterizations lets the audience imagine him to be  themselves, or someone they know. This is how audiences enter into a stories reality and is thus the magic of storytelling.
 
-In short, simple characters make it easy to tell and listen to stories. Too many characterizations get in the way of story and make a story less relatable.
+In short, simple characters make it easy to tell and listen to stories. Too many characterizations get in the way of story and make it less relatable.
 
-Mamet tells his students to remove characterizations by using KISS (Keep It Simple Stupid). Repeatedly using KISS reminds writers to only find the meaning of each beat and scene of a story. KISS withholds information overload, respects the audience, and keeps them guessing what's going to happen next; which is why they're watching the story in the first place.
+Mamet tells his students to remove characterizations by using KISS (Keep It Simple Stupid). Repeatedly using KISS reminds writers to only find the meaning of each beat and scene. KISS prevents information overload from interfering with the audience understanding the story.
 
-Mamet then returns to the classes exercise, make a scene about a student impressing his professor. The first beat is decided to be "student preparing for class". He explains why his student's initial ideas like showing labels and name tags, are too narrative, while or ideas like combing hair are too vague. When a student suggets writing on a notepad, Mamet likes it, especially when he tells the students to withhold showing what the student is writting because it keeps the audience in suspense.
+Mamet then returns to making a scene about a student impressing his professor. The first beat is decided to be a _arriving early to class_. With a objective to meet, the class now needs a shot to show it. He explains why his student's initial ideas like the hero walking down an empty street at sunrise as too vague, and the hero nervously looking at his watch as too interesting. When a student says "A shot of the man coming down a hall.  A shot of a door, he tries it, it's locked, it doesn't open. He sits down? That's it." Mamet analyzses with the class if these shots represent _arriviing early to class_ and decides that it doesn.
 
-For the next beat, Mamet emphasizes the need to keep it logical and keep the superobjective in mind whichi is to gain the professor's respect. If the first beat is to _arrive to class early_. The second must be _prepare for class_. After discussing what's the logical step after that, he next beat is decided to be _paying homage to the professor_.
+When students ask if they can add more to the scene, Mamet tells them repeatedly to without information, and only tell the story, because that's onlywhat the audience wants.
+
+For the next beat, Mamet emphasizes the need to keep it logical and keep the superobjective _to gain the professor's respect_ in mind. If the first beat is to _arrive to class early_. The second must be _prepare for class_. Mamet says the student's first ideas of "brushing up on the professors methodology" as too vague, and ideas like "reading the professors book" as too narrative. When a student suggets "writing on a notebook", Mamet likes it, especially when he tells the students to withhold showing what the student is writting because it keeps the audience in suspense.
+
+After discussing what's the logical step after that, he next beat is decided to be _paying homage to the professor_.
 
 The class delves into the meaning of homage to find a shot that represents it. Mamet explains like a dream, the shot of homage, or any other beat, can be anything. The director isn't limited to what the protagonist is doing, but can represent the beat anyway the audience will understand it once it's juxtaposed with the other shots. The class decides _walking feet_ followed by _student stands up_ depicts homage and Mamet agrees.
 
-To create the next beat, Mamet tells the class keep the superobjective in mind. After dismissing the students ideas, like show affection and bragging, as too generic, he tells them to think of a fantasy life; what would the hero of the story do if unbound by contemporary social rules to gain the respect of his professor. Fantasy is good because audiences like stories different than a typical life.
+To create the next beat, Mamet reminds the class keep the superobjective in mind. After dismissing the students ideas, like show affection and bragging, as too generic, he tells them to think of a fantasy life; what would the hero of the story do if unbound by contemporary social rules to gain the respect of his professor. Fantasy is good because audiences like stories different than a typical life.
 
-To help the students think of the next beat, he tells them to create a material goal for the protagonist. Something tanglible to hold, have, and fight over. Thus, the class says their hero no longer simply wants the professor's respect. Instead the student wants the professor to change a grade. Giving "respect" a real-life manifestation into a school-paper makes the story easier to write, act, and represent in shots because either the professor changes the grade on the paper, or doesn't. Now the writer, and the audience, easily knows what the scene is about and when then scene is over.
+To help the students think of the next beat, he tells them to create a material goal for the protagonist. Something tanglible to hold, have, and fight over. Thus, the class says their hero no longer simply wants the professor's respect. Instead the student wants the professor to change a grade of a term paper. Giving "respect" a real-life manifestation into a term-paper makes the story easier to write, act, and represent in shots because either the professor changes the grade on the paper, or doesn't. Now the writer, and the audience, easily knows what the scene is about and when then scene is over.
 
-Mamet then explains the notebook with the school-paper is a MacGuffin; a commonly used plot device, like a "secret briefcase", used to carry the action of a story. Simply knowing the protagonist needs the MacGuffin is good. The audience doesn't need to know why. It's better to leave out details about goals, because like with too much characterizations, leaving stuff out lets the audience think of themselves in the story. Everyone can cheer for a hero, but call the hero really tall, or really short, and now the audience relates less.
+Mamet then explains the notebook with the term-paper is a MacGuffin; a commonly used plot device, like a "secret briefcase", used to carry the action of a story. Simply knowing the protagonist needs the MacGuffin is good. The audience doesn't need to know why. It's better to leave out details about goals, because like with too much characterizations, leaving stuff out lets the audience think of themselves in the story. Everyone can cheer for a hero, but call the hero really tall, or really short, and now the audience relates less.
 
-Mamet returns to making their change a grade scene. The latest beat was _paying homage_ to the professor. Using KISS again, the next beat should be the student _asking for a re-grade_.
+Mamet returns to writing the scene with his students. The latest beat was _paying homage_ to the professor. Using KISS again, the next beat should be the student _asking for a re-grade_.
 
-With a clear goal, the beats have more context. The hero is the student. The antagonist is the professor. The hero's superobjective is to get a new grade. The beats breakdown as:
+Because the term-paper makes the hero's goal a physical object, each beat is easier to understand. The hero is the student. The antagonist is the professor. The hero's superobjective is to get a new grade. The MacGuffin is the notebook with the term-paper inside it. The beats breakdown as:
 
 1. show up early/try door handle.
 2. prepare/write in notebook.
 3. pay homage/rise when professor approaches.
 4. plead case/hand over notebook.
 
-With the scene partially constructed, Mamet asks the students about making props, partularly the student's notepad. He rejects ideas to make the loko like a "regrading notebook", or a "prepared notepad". These are again characterizations unfit for a story. The notepad only needs be regular notepad with just enough distinction to be recognizable as _our_ notepad because it's now the empodiment of the scene and is therefore more important then the protagonist. A director could only shoot shots of the notepad for this scene and still get the point across.
+With the scene partially constructed, Mamet asks the students about making props, partularly the student's notebook. He rejects ideas to make the loko like a "regrading notebook", or a "prepared notebook". These are again characterizations unfit for a story. The notebook only needs be regular notebook with just enough distinction to be recognizable as _our_ notebook. Recognition is vita because our notebook is now the empodiment of the scene and is therefore more important then the protagonist. A director could only shoot shots of the notebook and still get the point across.
 
-With all the above in mind, and after some work, the students and Mamet expand their shot list.
+With all the above in mind, and after some more work, the students and Mamet expand their shot list.
 
-1. Showing up early: Student walks down hall, shot of a hand on a doorknob, student sits down on a bench.
-2. Preparing: Student takes the notebook out, rips out a tab, writes something down on a tab, puts the tab in the plastic holder, closes the tab.
-3. Paying homage: Student looking and getting up. Student runs to a glass door. He opens the door, professor walks through.
-4. Present the case for re-grading: An empty desk. The notebook put on the desk. Professor sits down, grabs it, and looks at the notebook.
+1. _Showing up early_: Student walks down hall, shot of a hand on a doorknob, student sits down on a bench.
+2. _Preparing for class_: Student takes the notebook out, rips out a tab, writes something down on a tab, puts the tab in the plastic holder, closes the tab.
+3. _Paying homage to the professor_: Student looking and getting up. Student runs to a class door. He opens the door, professor walks through.
+4. _Present the case for re-grading_: An empty desk. The notebook put on the desk. Professor sits down, grabs it, and looks at the notebook.
 
-The last beat is conclusion. What will the professor do? Mamet dismisses the idea the professor merely agrees to re-consider the grade later, and instead says the professor should make judgement then and there because its dramatic. Mamet reminds his students the audience can be told of the fifth beat without following the protagonist around. The class decides the last beats as.
+The last beat is has to be the conclusion. What will the professor do? Mamet dismisses the idea the professor only agrees consider the question, and instead says the professor should make judgement then and there because its more dramatic. Mamet reminds his students the audience can be told of the fifth beat without following the protagonist around. The class decides the last beats are.
 
-5. Judgement: Shot of kids outside the classroom door. They look at each other. Hero/student standing in the classroom with professor looking at him.
-6. Conclusion: Professor opens notebook. Opens desk drawer. Takes out stamp, and stamps the notebook. The student smiles, picks up the notebook, goes to his seat, and the professor calls the waiting kids into the classroom.
+5. _Professor giving his judgement_: Shot of kids outside the classroom door. They look at each other. Hero/student standing in the classroom with professor looking at him.
+6. _Conclusion_: Professor opens notebook. Opens desk drawer. Takes out stamp, and stamps the notebook. The student smiles, picks up the notebook, goes to his seat, and the professor calls the waiting kids into the classroom.
 
 The chapter ends with a student asking Mamet what if the hero didn't get his new grade. To which Mamet responds "I don't know. It's our first movie. Let's make it a happy ending, what the hell. And now we're done, and that was excellent work".
 
-By which Mamet means no unncessary characterizations, "interesting ideas", or pandering to an ignorant executive. A simple scene about a common problem that anyone can relate to and thus enjoy.
+By which Mamet means they made a story with no unnecessary characterizations, "interesting ideas", or pandering to an ignorant executive. A simple scene about a common problem that anyone can relate to and thus enjoy.
 
 ## Chapter 3 ==
 
-Titled, Countercultural Architecture and Dramatic Structure, this chapter serves to remind the reader of Mamet's main points.
+Titled, _Countercultural Architecture and Dramatic Structure_, this chapter serves to expand Mamet's main points about writing and directing stories.
 
-Mament starts off by saying he attended a counter cultural college in the 1960's. A time when some people thought traditional architecture was too stifling. Unsuprisingly, counter cultural archecture proved to unliveable. It's buildings were not designed with human habitation in mind, but from the architect's feelings and impulses. Mamet asserts these buildings either "fell down or are falling down or should be torn down".
+Mament starts off by saying he attended a counter cultural college in the 1960's. A time when some people thought traditional architecture was too stifling. Unsuprisingly, counter cultural archecture proved to be unliveable because it's buildings were not designed with human habitation in mind, but from the architect's feelings and impulses. Mamet asserts these buildings either "fell down or are falling down or should be torn down".
 
-Mamet contrasts counter-cultural buildings with his own. Built two hundred years ago by hand and with no nails, it will stand for another two hundred years because it was made by craftsman with respect for "wood, weather, and human domestic requirements".
+Mamet contrasts counter-cultural buildings with his own. Built two hundred years ago by hand and with no nails, he says it'll stand for another two hundred years because it was made by craftsman with respect for "wood, weather, and human domestic requirements".
 
-This is the basic premise of the chapter, and indeed book. That just like archetecture, storytelling has a natural construction which is often countered by a creator's impulses. However making anything has natural a person should follow, for roof's that's "understand[ing] a little bit about the effects of gravity and the effects of precipitation". It's the creator's job to master these natural rules and not suppose they're smarter than Nature.
+This is the basic premise of the chapter, and indeed book. That just like architecture, storytelling has a natural construction which is often countered by a creator's impulses. However making anything has natural rules a person should learn about. For roof's that those lessons are "understand[ing] a little bit about the effects of gravity and the effects of precipitation". It's the creator's job to master these natural rules and not suppose they're smarter than Nature.
 
-Mamet says again, the purpose of a story is a hero who wants something, and the drama is finding out if she'll get it. That means every shot has to be a stepping stone in the journey. Signs, dubbed words, or anything supposedly "artistically interesting" is, like counter cultural buildings, unnatural. The only thing the audience cares about-and what the writer/director has to create-is a story and "the nature of the dramatic art [is to] to tell a story. That's all it's good for. People have tried for centuries to use drama to change people's lives, to influence, to comment, to express themselves. It doesn't work. It might be nice if it worked for those things, but it doesn't. The only thing the dramatic form is good for is telling a story."
+Mamet says again, the purpose of a story is a hero who wants something, and the drama is finding out if she'll get it. That means every shot has to be a stepping stone in the journey. Signs, dubbed words, or anything supposedly "artistically interesting" is, like counter cultural buildings, unnatural. The only thing the audience cares about-and what the writer/director has to create-is a story. As for any other motives Mamet says their impossible to achieve with drama; "the nature of the dramatic art [is to] to tell a story. That's all it's good for. People have tried for centuries to use drama to change people's lives, to influence, to comment, to express themselves. It doesn't work. It might be nice if it worked for those things, but it doesn't. The only thing the dramatic form is good for is telling a story."
 
 The job of the film director is thus to tell a story through the juxtaposition of uninflected images. Movies work like this, because human perception works to perceive two events, determine a progression, and want to know what happens next in the progression.
 
 In contrast, performance art works like neurosis, which perceives events but appliess an overiding precondition. Like a person who assumes their ugly, and when people walk by them, assume other people agree. The simple observation that the neurotic walked and ignored the other people too doesn't matter. Such is the unreasonable effect of a pre-condition.
 
-That's why bad movies can still find an audience. The audience either shares the neurosis of the artists "message" of being ugly or whatever other precondition the artist wants. Or, because the audience will work to find meaning, even if the writer and director didn't put any inside the story.
+That's why bad movies can still find an audience. The audience either shares the neurosis of the artists "message" of being ugly or whatever other precondition the artist indulged. Or, because the audience will work to find meaning in a movie, even if the writer and director didn't put any inside the story.
 
-That's why good writer/director masters human perception of uninflected images, and constructs a story with it; saving the audience from having to struggle to find meaning. Poor craftsmanship forces storytellers to try to be "interesting" or tell a neurotic message.
+The audience's desire to find a story, is why good writer/director should masters human perception of uninflected images, and constructs a story with it; saving the audience from having to struggle to find meaning. Poor craftsmanship forces storytellers to try to be "interesting" or tell a neurotic message.
 
 Mamet continues by saying a logical person building a building in Vermont uses slopped roofs, so the annual snow falls will easily slide off. However, many counter cultural buildings in Vermont have flat roofs and thus fall down. Similarly, Mamet says the American film industry is not following logical storytelling, and is caught in a spiral of degeneration. Because without logical storytelling, the writer/director has to resort to ever greater diversions, the end of which is obscenity. "Let's really see their genitals, let's really endanger the actor through stunts, let's really set the building on fire." Over a movie, this makes it more bizzare. Over a career, more outre. Over of a culture it brings on depravity".
 
@@ -267,6 +271,8 @@ The only thing under anyone's control is craft; i.e. following the right philoso
 
 It would seem creating a story means one is also in a story as well, whether our real-life story is good or bad, depends on the tools at hand, the problems on the frontline, and ruling philosophy in power.
 
+- 
+
 # DEFINITIONS
 
 Throughout the book, Mamet defines several terms, many are referenced below.
@@ -311,3 +317,33 @@ Talent: "If you're correct in the small things, the smallest of which in this ca
 Editing: "We said that the scene is the correct unit of study. If you understand the scene, you understand the play or movie. When the problem posited by the scene is over, the scene is over. A lot of times in movies you want to get out of the scene before the problem is over and have it answered in the next scene, as a matter of fact. Why? So that the audience will follow you. They, you will remember, want to know what happens next." page 64
 
 What drama is good for: "[Frank Captra] wants to tell a story, which is the nature of the dramatic art—to tell a story. That's all it's good for. People have tried for centuries to use drama to change people's lives, to influence, to comment, to express themselves. It doesn't work. It might be nice if it worked for those things, but it doesn't. The only thing the dramatic form is good for is telling a story." page 64-65
+
+# How to See the Matrix
+
+Let's start by reading some of On Directing Film straight from Mamet. We'll talk about what this means to real-life afterwards. Just keep note what a writer has to discard and keep, to create a worthy product.
+
+"There was a newspaper review lately of a book about the career of a novelist who went to Hollywood and tried to succeed at writing screenplays. He was deluded, the reviewer said, in this pursuit—how could he have hoped to succeed as a screenwriter when he was nearly blind!
+
+The reviewer exhibited a profound ignorance of the craft of screenwriting. One does not have to be able to see to write films; one has to be able to imagine.
+
+There is a wonderful book called _The Profession of the Stage Director_, by Georgi Tovstonogov, who writes that a director may fall into one of the deepest pits by rushing immediately to visual or pictorial solutions.
+
+This statement influenced and aided me greatly in my career as a stage director; and, subsequently, in my work as a screenwriter. If one understands _what the scene means_, and stages that, Mr. Tovstonogov was saying, one will be doing one's job for both the author and the viewer. If one rushes, first, into a pretty, or pictorial, or even descriptive staging, one may be hard-pressed to integrate that staging into the logical progression of the play. And, fiirther, while so hard-pressed, and while working to include the pretty picture, one will undoubtedly become wedded to its eventual inclusion, to the detriment of the piece as a whole.
+
+This concept was also stated by Hemingway as, "Write the story, take out all the good lines, and see if it still works."
+
+My experience as a director, and as a dramatist, is this: the piece is moving in proportion to how much the author can leave out.
+
+A good writer gets better only by learning to _cut_, to remove the ornamental, the descriptive, the narrative, and _especially _the deeply felt and meaningful. What remains? The story remains. What is the story? The story is the _essential progression ojincidents_ that occur to the hero in pursuit of his one goal.
+
+The point, as Aristotle told us, is what happens to the hero . . . not what happens to the writer.
+
+One does not have to be able to see to write such a story. One has to be able to think."
+
+This process of learning to leave out the deeply personal, heartfelt, to learn to cut to the problem and solution a person is applying to that problem is a microcosm of the story of life. Life does the same thing via evolution. It gives lifeforms many variations, and through the story of life, see which ones need to be cut out/naturally selected, to continue the story.
+
+And human life is the same. Every confict, failure, war, invasion, invention, discovery, revolution, is humanity cutting to the essential progression of incidents.
+
+The art and spectacle of life, the corporate meetings, aristocractic lifestyles, palaces, banquets and balls, all that bullshit, is like a single story, what life is cutting out via conflict.
+
+Life is a writer. And it writes with its lifeforms. Here's how it plays out for humanity. Seeing this truth, means seeing behind the stage and looking into how the magic happens.
