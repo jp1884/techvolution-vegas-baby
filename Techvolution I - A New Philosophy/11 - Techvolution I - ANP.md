@@ -20,43 +20,41 @@ To the extras. When it's time for you to act, I pray you pick the right side.
 
 # Prologue
 
-I wrote this for the people on GitHub, Udemy, Slack, Firefox, Sketch and whatever else you Jedi are working on. Learning your ecosystem of new tools was cool. Learning your unspoken philosophy was even cooler.
+I wrote this for the people on GitHub, Wikipedia, Udemy, Stackoverflow, Slack, Dribbble and whatever else you internet Jedi are working on. Learning your ecosystem of digital tools was cool. Learning your unspoken philosophy was even cooler.
 
-Most people don't yet understand how much your work changes the world. Like an animal in a new environment it's too different. Regular people still think stuff like news, manufacturing, and education is something only government or businesses can do. Yet because of open-source any person can use GitHub, YouTube, StackOverflow, or thousands of other tools to create anything they can imagine. It's a new world. One where Cinderella goes to the ball simply because she wanted to have fun.
+You've change the world. Regular people just don't know it yet. They still think stuff like news, manufacturing, and education is only for government or big business. Yet because of you, there's countless digital tools for the people to take control of their own lives. It's truly amazing living in a time when Cinderella goes to the ball simply because she wants to have fun.
 
-Open-source has no guards because it wants everyone to contribute. From Ryan Dahl making Node, to a coder improving a Rails gem, to a grandpa writing a Wikipedia article. The more people contribute, the more problems are solved, means the better the party gets.
+You're like Yoda! I'm being serious. Whether its moms learning to repair iPads, or laid off workers learning to code, you've enabled extras used to watching stories, to become protagonists in their own lives.
 
-Open-source works because ideas, plans, and results are shared. Everyone thus knows whose responsibile and where help is needed. It's not perfect; some people are dicks, projects die off, politics gets involved. But that's humanity. At least nobody thinks they’re a king, or there's no boss trying to keep his job relevant with some bullshit marketing meeting. By empowering us with better tools do we empower our better sides to flourish.
+I'm one of them. I'm a lone politics, history, and philosophy geek who spends his days thinking about what's next in the story of civilization. With Project Gutenberg, YouTube, Wikipedia, and Edge I can do my own research. With Markdown, VS Code, and Ghost I can write and host my own work. With Word and Figma I can collaborate with world-class illustrators and writers to make it better. My book is a by-product of your ecosystem.
 
-And people flourish using your tools. There's no middleman. Just power at everyone's fingertips turning extras into protagonists.
+Academic institution, corporations, and militaries kicked started the digital revolution, and aren't going anywhere (nor should they). But it's open-source that's the next step in human evolution because it's a check and balance against middleman making gates to the party; like when Darth Blockbuster tried to keep us all driving to pick up and drop off DVDs.
 
-I'm one of them. I'm a lone philosophy, politics, and history geek who spends his days thinking about political philosophy. With Markdown, VS Code (amazing to write with), and Ghost I can write and host my work. With Word and Figma I can collaborate with world-class illustrators and writers to make it better. It's very fitting a book promoting open-source only exists because of your own tools.
+Open-source should being growing. But organizations like Wikipedia, Mozilla, Khan Academy. Channels like Real Engineering, CodeCademy, and Traversy Media. The countless people uploading to NPM, RubyGems and elsewhere, often need donations just to keep going. All while old tools like universities, television broadcasters, and movie studios get massive subsidies, tax credits, and bailouts.
 
-Open-source still can’t run the world. In _The Innovators_ Walter Isaacson explains how the trifecta of militaries, academic institutions, and private corporations created the digital revolution. Likewise, it was for profit companies, academic institutions, and open-source programmers who kept it going.
+This difference signifies our society's great divide; the Sith fight to put up gates so people keep using his old tools like CD's, DVDs, road maps, lecture halls, gas cars, paper insurance forms, and the always busy call-centers because he owns these tools, he profits from these tools, and he has no idea what Javascript is, so he never wants his users to leave and send him back to equality.
 
-But open-source is the next step in human evolution. It’s so pivotal because it’s a check against middleman making gates to the party. With open-source these Darth Blockbusters couldn’t stop a few hackers from giving the world internet streaming. An upgrade that saved society billions of needless miles picking up and dropping off DVDs.
+Then there's open-source making new tools to usurp gates and distribute power to the people.
 
-Yet open-source struggles. Organizations like Wikipedia, Mozilla, Ghost. Channels like Real Engineering, CodeCademy, and Traversy Media. The countless people making new programs throughout the internet. These protagonists often need donations just to keep going. All while old tools like universities, television broadcasters, and movie studios get subsidies, tax credits, and bailouts.
+At first I only wanted to learn about open-source's work. Now I want to liberate it. Because to keep changing the world, you can't just _make_ new tools; you have to _replace_ old tools. Thus, it's you _versus_ them, it's Jedi vs Sith. There’s no difference between the soldiers who fought Darth King George III and you, the modern minuteman who work so regular people can empower themselves and better their families.
 
-This difference signifies our society's great divide; Darth Blockbusters fight to keep themselves in power, while open-source makes new tools to distribute that power to the people.
+You all feel the “majic” of new tools but have a hard time explaining why; because humanity still doesn’t understand how our “cyborgology” changes us when we pick up a radio, a smartphone, or a lightsaber (one day!). That's why I turned your unspoken philosophy into a new political philosophy. Like a web framework, it uses terms like “Darth Blockbuster”, “Death Star rule book”, “internet Jedi” to make it easier for the struggling middle class to understand the new world you made for them.
 
-At first I only wanted to learn about open-source's fight. Now I want to unite you. There’s no difference between the soldiers who fought Darth King George III and you, the modern minuteman who work so regular people can control their own lives and better their families.
+We need a new philosophy. Neither regular people or open-source will go anywhere with typical "red/blue" politics. These philosphies are very outdated. Their believers march and yell like its Woodstock in 1969, because technologically speaking they love 1969. Gas cars, nightly newscasts, 9-5 work days, two car garages; their ideal way of life is a never ending _Simpsons_ episode. But no one's going to tax-cut or flower-power their way past the future's antagonists.
 
-You all feel the “majic” of new tools but have a hard time explaining why. Humanity still doesn’t understand how our “cyborgology” changes us when we pick up a radio, a smartphone, or a lightsaber (one day!). With Techvolution, people will know why open-source are the good guys. The philosophy is baked in like a framework. Terms like “Darth Blockbuster”, “Death Star rule book”, “internet Jedi”, make the world easier to understand for the struggling middle class treated like extras in their own lives.
+The true political question of our time isn't "are you for red, or blue, politics?". The true question is "are you for, or against, using digital tools to upgrade our way of life?".
 
-We need a new philosophy to win the fight. Neither regular people or open-source will go anywhere with typical "red/blue" politics. These philosphies are very outdated. Their believers march and yell like its Woodstock in 1969, because technologically speaking they love 1969. Gas cars, nightly newscasts, 9-5 work days, two car garages; their ideal way of life is a never ending _Simpsons_ episode. Open-source can't use these philosophies to change the world. You're not going to tax-cut or flower-power your way past the future's antagonists.
+Darth Blockbuster fears open-source because he can't own it. And he does so with the outmost sincerity and conviction that he's a “martyr of the people”. The power of digital tools is as lost to him as books, guns, and telescopes was to Darth King. Although they’re usually very well-intentioned people who follow the rules, they can't appreciate the digital era has made them old lifeforms in a new ecosystem.
 
-The true political question isn't "are you for the red or blue side?". It's "are you for or against new tools?".
+Like fans of an aging sitcom, the people are too used to seeing the "dark majic show" of the same political rhetoric, cable news shows, 60 Minute interviews, car commercials, fantasy football stats to notice the new ecoystem for themselves and swell your ranks.
 
-To overcome the antagonists open-source has to realize it's you _versus_ them. Darth Blockbuster lives to make people use their old tools like DVDs, road maps, lecture halls, paper insurance forms, and always busy call-centers. They fear open-source tools sending them back to equality. They do so with the outmost sincerity and conviction that they’re the “martyrs of the people”. The power of digital tools is as lost to them as books, guns, and telescopes was to Darth King. Although they’re usually very well-intentioned people, they can't appreciate a new era has come. They are lifeforms in a changed environment.
+My job is to make them look up and take notice.
 
-Like fans of an aging sitcom, the people are too distracted to notice we need a new story with new characters. We're all too used to seeing the same political family names, cable news shows, 60 Minute interviews, car commercials, fantasy football stats to notice digital tools can replace our old and suffering economy and empower the middle class to new heights.
+Our opportunity comes when a regular person has yet another problem with their tax forms, car radiator, ashphalt shingles, or whatever old tool the antagonists are keeping alive. This is when the pain of living on the frontline makes regular people search for a better way to live.
 
-We need their support. Our opportunity is everytime a regular person has yet another problem with their tax forms, car radiator, ashphalt shingles, or whatever old tool the antagonists are keeping alive. This is when the pain of living on the frontline makes regular people search for a better way to live.
+This moment is where I want to return the favour and empower everyone in open-source. Because this is where all its coders, designers, testers, and contributors can gain a member by saying "I am part of the open-source movement inventing new tools to solve problems like this... and we need your help... because something is holding us all back".
 
-This moment is where I want to return the favour and empower open-source. Because this is where all its coders, designers, testers, and contributors can gain a member by saying "I am part of the open-source movement inventing new tools to solve problems like this... and we need your help... because something is holding us all back".
-
-And if the regular person asks what they heck you're talking about, you can tell them to read Techvolution, then go back to changing the world.
+And when the regular person asks what they heck you're talking about, you can tell them to read Techvolution, then go back to changing the world.
 
 ## The Beginning
 
@@ -312,9 +310,9 @@ One day Sophia waited for her boy to return. But the boy died when the man Frede
 
 The story gets better. Frederick Douglass becomes a brilliant orator and writer. In a world with no radio, video, or telephones, he travels the Northern States and Europe telling everyone the truth about slavery. When the American Civil War (1861-1865) broke out, his books helped Britain reject recognizing the South, and thus deprived it of much needed support. The irony of a slave educating people about slavery, and thereby helping to end slavery, is the cherry on top of this great story.
 
-Story adapted from A Narrative of the Life of Frederick Douglass. Free on Project Gutenberg.
+_Story adapted from A Narrative of the Life of Frederick Douglass. Free on Project Gutenberg._
 
- Frederick Douglass was a true Jedi Master. His great bravery, persistence, and intelligence helped to showcase humanity’s endless potential. The big lesson we need to learn here, Stargazer, is how to use majic to tell the difference between good and bad rules.
+Frederick Douglass was a true Jedi Master. His great bravery, persistence, and intelligence helped to showcase humanity’s endless potential. The big lesson we need to learn here, Stargazer, is how to use majic to tell the difference between good and bad rules.
 
 Sophia taught Douglass to read. She wasn’t told to. She did it because we love teaching our chosen tools. It’s as natural to spread our tools, as it is for a species to propagate.
 
