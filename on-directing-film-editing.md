@@ -25,7 +25,7 @@ The hand off between ego and id is analogous to a screenwriter giving a director
 
 ## Chapter 1 ==
 
-Titled _Storytelling_, this chapter aims to explain Mamet's views on directing. Inline with his belief screenplays and directing are tools to tell a story, Mamet says the montage theory of directing, developed by Sergei Eisenstein, is the best way to direct a movie. He uses it to oppose how most American movies "[follow] the protagonist around", and try to figure out how to make scenes interesting, instead of finding a logical progression of incidents that is interesting.
+Titled _Storytelling_, in this chapter Mamet explains his views on directing. Inline with his belief screenplays and directing are only tools to tell a story, Mamet says the montage theory of directing, developed by Sergei Eisenstein, is the best way to direct a movie because it focuses on storytelling. He uses it to oppose how most American movies "[follow] the protagonist around", and try to figure out how to make scenes interesting, instead of finding a logical progression of incidents that is interesting.
 
 Per Mamet, Eisenstein's montage method "is a succession of images juxtaposed so that the contrast between these images moves the story foward in the mind of the audience." Directing becomes a series of uninflected shots. A teacup, a fork, a door; and these simple shots tell a story.
 

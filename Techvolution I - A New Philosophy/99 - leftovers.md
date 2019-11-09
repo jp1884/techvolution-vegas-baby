@@ -1083,3 +1083,15 @@ The aim is simple. When you're talking about your job to a regular person, I wan
 
 - crowdsourcing
 - community forums
+
+- so people keep using his old tools like CD's, DVDs, road maps, lecture halls, gas cars, paper forms, and call-centers because he owns these tools, he profits from these tools, and he has no idea what Javascript is, so he never wants his users to leave and send him back to equality.
+- I'm one of them. I'm a lone politics, history, and philosophy geek who spends his days thinking about what's coming next in the story of civilization. With Firefox, Project Gutenberg, YouTube, and Wikipedia I can do my own research. With Markdown, VS Code, and Ghost I can write, design, and host my own work. With Word and Figma I can collaborate with world-class illustrators and writers to make it better. This book is a byproduct of your own ecosystem.
+- Open-source isn't perfect. People are dicks, projects die off, politics gets involved. But that's humanity. Open-source works because it gives us freedom, which is the only way human virtues like accountability, ingenuity, and work-ethic flourish.
+
+
+## Tesla 
+
+<!-- include this? -->
+  Darth Blockbuster is in control. He's dedicated to keeping control. And he's no protagonist. He can't be a hero, because unlike Neo, Cinderella, Romeo and Juliette he's not mentally capable of rising above the situation, and seeing a solution to what he thinks is a fact of life. Cars break down, deal with it. And when someone asks him to solve the problem, his face goes blank. He can't pass that question on the test. He can't run fast enough to make the team. He can't throw a spiral. So his dad comes over and asks the coach to do him a favor on put him on the team anyway. That favour is the rules Darth Blockbuster asks government, corporations, and culture to keep the extras using old tools.
+
+  That's why a small company like Tesla had to bring modern cars to America. They didn't have early access to new technology, different tools, a magic wans. Tesls is run by people who _can_ see problems. They can answer that question on the test, they can run fast enough, they can throw a spiral. So they're father sits proudly in the seats. Darth Blockbuster should be beside him. Yet, he gets to be captain because he pays for it.

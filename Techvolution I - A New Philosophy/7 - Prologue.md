@@ -30,6 +30,6 @@ Like fans of an aging sitcom, the people are too distracted to notice our aging 
 
 We have a chance to gain support. Everytime a regular person has yet another problem with their tax forms, car radiator, ashphalt shingles, or whatever old tool the antagonists are keeping alive, is when the pain of living on the frontline makes regular people search for a better way to live.
 
-This moment is where I want to return the favour and empower open-source. Because this is where all its coders, designers, testers, and contributors can gain a member by saying "I am part of the open-source movement inventing new tools to solve problems like this... and we need your help... because someone is holding us all back".
+This moment is where I want to return the favour and empower open-source. Because this is where all its coders, designers, testers, and contributors can gain a member by saying "I am part of the open-source movement inventing new tools to solve problems like this... and we need your help... because our own ruling philosophy is holding us all back".
 
 And if the regular person asks what they heck you're talking about, you can tell them to read Techvolution, then go back to changing the world.
