@@ -1,29 +1,19 @@
+# Ending
 
-# The Interview
+## The Problem
 
-A real life depiction juxtaposition of getting a job/interviewing with Darth Blockbuster, and not. Or better yet, a day in the life of red / blue under Darth Blockbuster, and then under the Life Star.
+So do you think Darth Blockbuster is dead? Do you think he'll ever die? Do you feel the weight of the questin on your shoulders, Stargazer. Do you feel it—the weight of the world? The mantle of fate? As we create a new philosophy to rule our society's deepest definitions of right and wrong in all areas from politics to economics?
 
-Example:
+You shouldn't. For this book was merely a lesson in the history of political philosophy. Which is history of sequels.
 
-- wake up with alarm clock / wake up when rested.
-- drive to work regarldess of time / drive to gathering, but decide to Skype in because weather is bad.
-- listen to "hawaian" shirt day / wear what you want.
-- listen to customer complain / tell customer they're the problem.
-- waste gas, drive by accident / walk at lunch.
-- job interview, showcase loyalty / talk about the problems you solved faster and better.
-- go to CIP class / learn a new skill.
-- tell friends to come over and watch TV / go on an adventure.
-- etc...
+I didn't write this book to create a new ruling philosophy that we'll use to make a new rule book. Socrates, Plato, Aristotle, Cicero, St. Augustine, Francis Bacon, John Locke, even my favorite Rousseau could't make a political philosophy that, when applied inside a rule book, was agreed upon by everyone.
 
-## TAKEN FROM BROKEN CAR EXAMPLE
+Protagonists and antagonists still fought over tools, and the extras were stuck in between trying to figure out who the bad guys were. Most of political philosophy is basically new version of my "one good story, and two bad stories" explanation. The point is in the 2300 years of politcal philosophy we're still here aruging over if its okay for someone to download download a movie or not.
 
-Now consider it's often against the rules to solve our problems so simply. Patent laws, insurance regulations, nondisclosure agreements, non-compete clauses; a mountain of rules any antagonist can search through so he can force us to keep walking to gas stations.
+Regardless of the political philosophy, human frailty taints its application when writing the rulebook to govern everyday life. Power corrupts man, turning once classical heroes (and especially their descendants) into self-important "art" film characters who use their money to distract the masses with spectacle. When spectacle doesn't work they use their Death Star rule book to hold on for as long as possible.
 
-Darth Blockbuster is in control. He's dedicated to keeping control. And he's no protagonist. He can't be a hero, because unlike Neo, Cinderella, Romeo and Juliette he's not mentally capable of rising above the situation, and seeing a solution to what he thinks is a fact of life. Cars break down, deal with it. And when someone asks him to solve the problem, his face goes blank. He can't pass that question on the test. He can't run fast enough to make the team. He can't throw a spiral. So his dad comes over and asks the coach to do him a favor on put him on the team anyway. That favour is the rules Darth Blockbuster asks government, corporations, and culture to keep the extras using old tools.
+Thus, I didn't write this so Techvolution will replace red/blue politics with its own rule book. Even though it would be an improvement, it wouldn't all that digital tools make possible. I only wrote this book to wipe old rule books away.
 
-That's why a small company like Tesla had to bring modern cars to America. They didn't have early access to new technology, different tools, a magic wans. Tesls is run by people who _can_ see problems. They can answer that question on the test, they can run fast enough, they can throw a spiral. So they're father sits proudly in the seats. Darth Blockbuster should be beside him. Yet, he gets to be captain because he pays for it.
+Because digital tools are the telescope showing us the Nature in a new light. One that finally let's us finally see the "visions of the just and good society" the philosophers dreamed about.
 
-Ignore revolutions! Digital tools and their many Jedi innovators, coders, technicians, designers, repair shops, are ready and waiting to solve real-life problems, it's intoxicating to them. We just need Techvolution, the freedom to choose the best tools to solve our problems at home, work, and leisure. The people ignoring red/blue talk, and only demanding tools to solve their problems, with the freedom to majically bonding with whatever tool they want, is the ultimate revolution.
-
-
-
+So come Stargazer, with your mind wipe clean up old philosophies, and human written rule books, we can now find true answers to the human condition as we tear the mask of Nature, and stare into the face of God.

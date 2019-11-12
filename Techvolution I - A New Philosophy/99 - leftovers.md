@@ -1088,6 +1088,11 @@ The aim is simple. When you're talking about your job to a regular person, I wan
 - I'm one of them. I'm a lone politics, history, and philosophy geek who spends his days thinking about what's coming next in the story of civilization. With Firefox, Project Gutenberg, YouTube, and Wikipedia I can do my own research. With Markdown, VS Code, and Ghost I can write, design, and host my own work. With Word and Figma I can collaborate with world-class illustrators and writers to make it better. This book is a byproduct of your own ecosystem.
 - Open-source isn't perfect. People are dicks, projects die off, politics gets involved. But that's humanity. Open-source works because it gives us freedom, which is the only way human virtues like accountability, ingenuity, and work-ethic flourish.
 
+## Prologue PC Gamer
+
+I helped clean office buildings as kid. Kind of, I just picked up the garbages and blue-bins before reading PC Gamer. Years later when working at a big office, the cleaners were short staffed. Management spent many hours meeting about the "garbage problem". It was funny, if it wasn't another example of the bad story of modern management addiction to petty problems.
+
+Using today's software and open-source philosophy work becomes a good story. People are free to come and go, so each project has to have a clear purpose. All problems, communication, and contributions are in the open, peole can assess where their character is best needed. Free, empowered, peope work have made made tools like Firefox, Linux, and Wikipedia.
 
 ## Tesla 
 

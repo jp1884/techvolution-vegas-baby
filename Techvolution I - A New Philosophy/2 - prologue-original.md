@@ -1,0 +1,27 @@
+# Prologue Original
+
+I wrote this for the people on GitHub, Bitbucket, Slack, Figma, Sketch, and whatever else you Jedi are working on. Learning the ecosystem of your tools was super cool. Learning your unspoken philosophy was even cooler.
+
+Most people don’t yet know the power of digital tools. It’s too different, like an animal inside a different ecosystem. The fact any person can visit GitHub, go to the Ruby on Rails site, and download it for free is like owning your own newspaper. Not only that, the fact you can see the people who are working on it, what every person did, and when, and even contribute your own help, is a world as different as Cinderella walking into the banquet because she wanted to, not because a fairy said so could.
+
+Open source still can’t run the world. Read The _Innovators_ and Walker Isaacson will explain how the trifecta of academic institutions, private corporations, and the military was perfect to create the digital revolution. Likewise, it was for profit companies, academic institutions, and open-source programmers who kept it going.
+
+But open-source the next step in human evolution. It’s so pivotal because it’s a check and balance to anyone trying to control too much. Darth Blockbuster literally couldn’t stop a few hackers from giving the world internet streaming. A upgrade that’ll we’ll see in the next book actually saved tens of millions of dollars and a few hundred lives (in short, less car accidents).
+
+Even cooler with open-source, work is tracked, ideas are debated, results are shared. Some people are dicks for sure, but nobody thinks they’re a king. People work when and where the want, and we all get and give better results because of it. No uniform requirements. No “BEEP-BEEP” of bell. No boss trying to keep his job relevant with some bullshit marketing meaning. It’s not perfect. Shit happens. But try working elsewhere on the frontline and you’ll see a big difference.
+
+Open-source is the new world. One that I only wanted to learn about. Now I want to liberate. There’s no difference between the soldiers who fought Darth King Charles, George III, or Louis XVI and you, the modern minuteman who doesn’t work for money, but to advance human evolution.
+
+You all feel the “majic” of new tools, yet have a hard time explaining to regular people, because humanity still doesn’t really understand how our “cyborgology” changes us every time we pick up a radio, a smartphone, a lightsaber (one day!).
+
+Another big motivation for me to write this was it pisses me off red / blue politics seeps into your political conversations and thoughts. Those philosophies are older then Cobol, and worth nothing to anyone building the future. They want to keep people watching the news, rather than living their own story. For anyone to become their own hero, they need tools. Way to understand how their taxes work, analyze which politician is voting for what bills, and protect their data from being sold to the highest bidder.
+
+My hope is that with Techvolution, you can better explain why open-source is making the world a better place to extras wondering why you work so hard making Deno, Node modules, Common Voice, or the endless projects piecing together a brighter future like so many Wikipedia articles, one edit now at a time. Terms like “Darth Blockbuster”, “Death Star rule book”, “internet Jedi”, and soon to come “Life Star” put the world in a black and white way, not based on color, but which person gives the people tools to live a better life. Which person fights to let them use tools to improve their lives.
+
+Avoid the red/blue philosophies. They march like its Woodstock in in 1969, because technologically speaking they never want us to move passed 1969. The power of digital tools is completely unseen to them. You could transfer them back in time and they wouldn’t notice. Gas cars, broadcast televisions, 9-5 work days, two car garages homes, retirement savings; their ideal way of life is a never ending The Simpsons episode. Red/blue, equally and without difference, are now self-entitled characters in an art film living a life of banquets and balls.
+
+There are many Darth Blockbuster’s in this class of artists. They live by inheriting the control of DVD stores, accounting companies, insurance brokers, bureaucratic office jobs, and the like. They write rules to stop the hierarchy of old tools sending them back to equality. They do so with the outmost sincerity and conviction that they’re the “martyrs of the people”. The power of digital tools is as lost to them as books, guns, and telescopes was to Darth King. It’s too bad. They’re usually very well-intentioned people, but they’re just way behind the times.
+
+The people are distracted like fans of an old sitcom to notice we don’t get tools to solve our problems. We’re so use to seeing the same political family names, cable news shows, 60 Minute interviews, gas car product logos, to notice our story isn’t a classic one with people overcoming problems anymore.
+
+The aim is simple. When you're talking about your job to a regular person, I want you to be able to say to "I am empowering you with new tools to help you live a better life" with a well deserved confident smile" then adding "and _they_ are holding you back". And if they question who and why, just tell them to read _Techvolution_.
