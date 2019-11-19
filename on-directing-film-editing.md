@@ -126,29 +126,29 @@ By which Mamet means they made a story with no unnecessary characterizations, "i
 
 ## Chapter 3 ==
 
-Titled, _Countercultural Architecture and Dramatic Structure_, this chapter serves to expand Mamet's main points about writing and directing stories.
+Titled, _Countercultural Architecture and Dramatic Structure_, Mamet in this chapter expands main points about writing and directing stories.
 
-Mament starts off by saying he attended a counter cultural college in the 1960's. A time when some people thought traditional architecture was too stifling. Unsuprisingly, counter cultural archecture proved to be unliveable because it's buildings were not designed with human habitation in mind, but from the architect's feelings and impulses. Mamet asserts these buildings either "fell down or are falling down or should be torn down".
+Mament starts off by saying he attended a counter cultural college in the 1960's. A time when some people thought traditional architecture was too stifling. Unsuprisingly, counter cultural archecture proved to be unliveable. It's buildings were not designed with human habitation in mind, but from the architect's feelings and impulses. Mamet asserts these buildings either "fell down or are falling down or should be torn down".
 
 Mamet contrasts counter-cultural buildings with his own. Built two hundred years ago by hand and with no nails, he says it'll stand for another two hundred years because it was made by craftsman with respect for "wood, weather, and human domestic requirements".
 
-This is the basic premise of the chapter, and indeed book. That just like architecture, storytelling has a natural construction which is often countered by a person's impulses. However making anything has natural rules a person should learn about. For roof's that those lessons are "understand[ing] a little bit about the effects of gravity and the effects of precipitation". It's person's job to master these natural rules and not suppose they're impulses are more important.
+This is the basic premise of the chapter, and indeed book. That just like architecture, storytelling has a natural construction which is often countered by a person's impulses. However making anything has natural rules a person should learn and master. When building a roof a person should "understand a little bit about the effects of gravity and the effects of precipitation". It's person's job to master these natural rules and not suppose they're impulses are more important.
 
-Mamet says again, the purpose of a story is a hero who wants something, and the drama is finding out if she'll get it. That means every shot has to be a stepping stone in the journey. Signs, dubbed words, or anything supposedly "artistically interesting" is, like counter cultural buildings, unnatural. The only thing the audience cares about-and what the writer/director has to create-is a story about a person rising to the occasion and fighting to solve a new found problem.
+Mamet says again, a story is a hero who wants something and the drama is finding out if she'll get it. That means every shot has to be a stepping stone in the journey. Signs, dubbed words, or anything supposedly "artistically interesting" is, like counter cultural buildings, unnatural. The only thing the audience cares about-and what the writer/director has to create-is a story about a person rising to the occasion and fighting to get what she wants.
 
 As for any other motives Mamet says their impossible to achieve with drama; "the nature of the dramatic art [is to] to tell a story. That's all it's good for. People have tried for centuries to use drama to change people's lives, to influence, to comment, to express themselves. It doesn't work. It might be nice if it worked for those things, but it doesn't. The only thing the dramatic form is good for is telling a story."
 
 The job of the film director is thus to tell a story through the juxtaposition of uninflected images. Movies work like this, because human perception works to perceive two events, determine a progression, and want to know what happens next in the progression.
 
-In contrast, performance art works like neurosis, which perceives events but applies an overiding precondition. Like a person who assumes their ugly, and when people walk by them, assume other people agree. The simple observation that the neurotic ignored the other people too doesn't matter. Such is the unreasonable effect of a pre-condition.
+In contrast, performance art works like neurosis, which perceives events but applies an overiding precondition. Like a person who assumes their ugly, and when people walk by them, knows other people agree. The simple observation that the neurotic ignored the other people too doesn't matter. Such is the unreasonable effect of a pre-condition.
 
 That's why bad movies can still find an audience. The audience either shares the neurosis of the artists "message" of being ugly or whatever other precondition the artist indulged. Or, because the audience will work to find meaning in a movie, even if the writer and director didn't put any inside the story.
 
-The audience's desire to find a story, is why good writer/director should masters human perception of uninflected images and constructs a story with it; saving the audience from having to struggle to find meaning. Poor craftsmanship forces storytellers to try to be "interesting" or tell a neurotic message.
+The audience's has a strong desire to find a story in every series of incidents. This is why good a writer/director should masters human perception of uninflected images and constructs a story with it; saving the audience from having to struggle to find meaning. Poor craftsmanship forces storytellers to try to be "interesting" or tell a neurotic message.
 
-Mamet continues by saying a logical person building a building in Vermont uses slopped roofs so the annual snow falls will easily slide off. However, many counter cultural buildings in Vermont have flat roofs and thus fall down. Similarly, Mamet says the American film industry is not following logical storytelling, and is caught in a spiral of degeneration. Because without logical storytelling, the writer/director has to resort to ever greater diversions, the end of which is obscenity. "Let's really see their genitals, let's really endanger the actor through stunts, let's really set the building on fire." Over a movie, this makes it more bizzare. Over a career, more outre. Over of a culture it brings on depravity".
+Mamet continues by saying a logical person building a structure in Vermont uses slopped roofs so the annual snow falls will slide off. However, many counter cultural buildings in Vermont have flat roofs and thus fall down. Similarly, Mamet says the American film industry is not following logical storytelling, and is caught in a spiral of degeneration. Because without logical storytelling, the writer/director has to resort to ever greater diversions, the end of which is obscenity. "Let's really see their genitals, let's really endanger the actor through stunts, let's really set the building on fire." Over a movie, this makes it more bizzare. Over a career, more outre. Over of a culture it brings on depravity".
 
-In summary, the human conscious mind will always perceive a series of events. While the subconscious will always try to find meaning to a series of events. Thus, if the storyteller constructed a logical story, an audiences unconsicous and conscious minds are in alignment and the audience is perceiving the story just as the storyteller constructed it. This makes a magical link between the story and the viewer; and requires neither inducement in the form of spectacle, or explanation, in the form of the performance artist's narration about their self-importance.
+In summary, the human conscious mind will always perceive a series of events. While the subconscious will always try to find meaning to a series of events. Thus, if the storyteller constructed a logical story, an audiences unconsicous and conscious minds are in alignment and the audience is perceiving the story just as the storyteller constructed it. This makes a magical link between the story and the viewer; and requires neither inducement in the form of spectacle, or explanation in the form of the performance artist's narration about their self-importance.
 
 Mamet ends the chapter by saying a story wants to be simply told through a series of uninflected images logically strung together to tell a story. He says it's very hard to do these very simple things. But "the mastery of them is the beginning of the mastery of the art of film".
 
@@ -156,19 +156,19 @@ Mamet ends the chapter by saying a story wants to be simply told through a serie
 
 This chapter is titled "The Tasks of the Director - what to tell the actors and where to put the camera." It's a practical guide on what directors should do on a movie set.
 
-This chapter starts by Mamet saying many directors don't keep it simple, don't write proper movie scripts, don't make a shot list, and thus get stuck shoting too many takes because "they don't know what they want to take a picture of". If they were to follow KISS, and find the objective of the scene before going on set, they'd only need a few takes. For example, if a scene is to _arrive early_, then the director tells the actor "go to the door, try the door, and sit down. That is literally what you tell him. Nothing more."
+This chapter starts by Mamet saying many directors don't keep it simple and write proper movie scripts, make a good shot list, and thus get stuck shoting too many takes because "they don't know what they want to take a picture of". If they were to follow KISS, and find the objective of the scene before going on set, they'd only need a few takes. For example, if a scene is to _arrive early_, then the director tells the actor "go to the door, try the door, and sit down. That is literally what you tell him. Nothing more."
 
-Mamet here wants to help directors work with actors; particularly if actors over-act and try to make the scene about them and not the objective. Over-acting ruins a movie by distracting the audience. Nails, lumber, and shingles come together to make a house. Likewise, writers, directors, and actors should stay on task and work together to make a story. When components keep it simple, you'll have a well constructed house and movie.
+Mamet here wants to help directors work with actors; particularly if actors over-act and try to make the scene about them and not the objective. Over-acting ruins a movie by distracting the audience. Nails, lumber, and shingles come together to make a house. A craftsman would never use lumber for a roof, or shingles for a frame. Likewise, writers, directors, and actors should do their job and work together to make a story. When components keep it simple, you'll have a well constructed house and movie.
 
-Old-time movies were good at keeping things simple. Actors were thus effective and memorable. Similarly, the director doesn't need to over think his directions. When the actor in the _get a retraction_ scene asks "how do I walk down the hallway?", the director can, because he's read the script and worked hard to create the shot list, listen to his subconcious that's already worked on that question, and say what he thinks "I don't know...quickly." That's how making a good movie can seem like luck, but is really the result of working hard on the script and the shot list.
+Old-time movies were good at keeping things simple. Actors were thus effective and memorable. Similarly, the director doesn't need to over think his directions. When the actor in the _get a retraction_ scene asks "how do I walk down the hallway?", the director can, because he's read the script and worked hard to create the shot list, listen to his subconcious that's already worked on that question, and say what he thinks "I don't know...quickly." That's how making a good movie can seem like luck and "talent", but is really the result of working hard on the script and the shot list.
 
-For whatever reason, usually lack of formal theatre stage training, underemploymnet, and anxiety to advance their careers, contemporary actors too often resort to performance acting and try to 'emote', and 'discover', when their job is to simply act each beat as simply as possible. The contemporary director's job then is containing the contemporary impulses of actors.
+For whatever reason, usually lack of formal theatre stage training, underemploymnet, and anxiety to advance their careers, contemporary actors too often resort to performance acting and try to 'emote', and 'discover', when their job is to simply act each beat as simply as possible. The contemporary director's job is thus containing the impulses of actors.
 
-Like acting, dialogue should be direct. Dialogue should not be spoken diaries of a character's idosyncratic thoughts. Nor should they talk about the plot. Dialogue is simple statements about what the character wants. Let the audience wonder why he wants what he does. When the director makes a good shot list, and tells the story with pictures, the dialogue is "sprinkles on the ice cream cone". Basically, a good movie still make sense if watched on mute.
+Like acting, dialogue should be direct and simple. Dialogue should not be spoken diaries of a character's idosyncratic thoughts. Nor should they talk about the plot. Dialogue is simple statements about what the character wants. Let the audience wonder why he wants what he does. When the director makes a good shot list, and tells the story with pictures, the dialogue is "sprinkles on the ice cream cone". Basically, a good movie still make sense if watched on mute.
 
-Mamet now answers what a director should tell the crew. Particularly when they repeatedly ask "where do I put the camera". Like with answering actors questions, this question is best answered by the subconscious whose thought about the script and shot list in great detail, thus the answer is usally a well justified "over there". Mamet admits he's a writer, and not a brilliant visual director, so he says he's telling the reader what he knows; which is to keep things simple, and shot the basic shot as per the shot list. Mamet reiterates again there is no such thing as a interesting angle. The movie should be interesting, not individual shots. Just keep things simple and shoot the shot.
+Mamet now answers what a director should tell the crew. Particularly when they-repeatedly-ask "where do I put the camera". Like with answering actors questions, this question is best answered by the subconscious whose thought about the script and shot list in great detail. Thus the answer is usally a well justified "over there". Mamet admits he's a writer, and not a brilliant visual director, so he says he's telling the reader what he knows; which is to keep things simple, and shot the basic shot as per the shot list. Mamet reiterates again there is no such thing as a interesting angle. The movie should be interesting, not individual shots. Director's should Just keep things simple and shoot the shot.
 
-Mamet's ideal movie set is like a photo shoot. Thing of these shots"
+Mamet's ideal movie set is like a photo shoot. Think of these shots:
 
 1. Shot of a hallway.
 2. Actoring walking down it.
@@ -177,51 +177,51 @@ Mamet's ideal movie set is like a photo shoot. Thing of these shots"
 
 Just simple shots. It's the string of shots that makes the movie good or not, not the location or angle of the camera. Cameras don't need fancy angles the same way actors don't need charactizations.
 
-Here Mamet tells a Humphrey Bogart story. The legendary actor described how a famous scene in _Casablanca_ was shot; the one where his French customers sing France's national anthem in the faces of their Nazi overlords. Even though the scene is so powerful, the director only told Bogart to nod when asked if his bar could play the anthemn. Yet the scene has huge impact because Bogart didn't overact. The scene was about the French singing in defiance of the Nazi's, not at all about Bogart's character, which Mamet praised for its simplicity because Bogart "was required to nod, he nodded. There you have it. The audience is terribly moved by his simple restraint in an emotional situation—and this is the essence of good theater".
+Here Mamet tells a Humphrey Bogart story when the legendary actor described how a famous scene in _Casablanca_ was shot; the one where his French customers sing France's national anthem in the faces of their Nazi overlords. Even though the scene is so powerful, the director only told Bogart to nod when asked if his bar could play the anthemn._ The scene_ has huge impact because Bogart didn't overact. The scene was about the French singing in defiance of the Nazi's, not about Bogart's character who was simple "required to nod, he nodded. There you have it. The audience is terribly moved by his simple restraint in an emotional situation—and this is the essence of good theater".
 
-In contrast, "Contemporary playwriting, filmmaking, and acting tend to offer us the reverse—people performing mundane and predictable actions in an overblown way." A good director would counter that trend by doing his homework, make his shot list, tell the actor to keep it simple, and then put the camera in the simplest place to get the shot.
+In contrast, "Contemporary playwriting, filmmaking, and acting tend to offer us the reverse—people performing mundane and predictable actions in an overblown way." A good director should counter that trend by doing his homework, make his shot list, tell the actor to keep it simple, and then put the camera in the simplest place to get the shot.
 
-Lastly, Mamet says to the reader to learn these lessons and go make a movie. Either the reader will find someone who knows the steps, or will learn them himself. Mamet insists there's no mastery to moviemaking. No genius required. Like playing the piano, anyone can learn. Some will be better than others, but anyone can learn. The components of moviemaking, like cinematography and sound mixing, are just technical skills, and "directing is just a technical skill. Make your shot list."
+Mamet says to the reader to learn these lessons and go make a movie. Either the reader will find someone who knows the steps, or will learn them himself. Mamet insists there's no mastery to moviemaking. No genius required. Like playing the piano, anyone can learn. Some will be better than others, but anyone can learn. The components of moviemaking, like cinematography and sound mixing, are just technical skills, and "directing is just a technical skill. Make your shot list."
 
 ## CHAPTER 5
 
-This chapter uses Mamet's storytelling and directing rules to make a story called _Pig-The Movie_.
+This chapter uses Mamet's rules for writing and directing to make a story called _Pig-The Movie_.
 
-Before thinking of ideas for the story, Mamet tells his students to always think "why now?", why does your idea for the a story, force a person to leave their typical day and personality, and challenge themselves to raise to the occasions and overcome a new found problem. Knowing what's so important to change a person's life, is knowing what is and isn't essential. This let's the writer/director keep things simple and learn what to cut.
+Mamet says the first step is to create a movies throughline. But before thinking of any throughline ideas he tells his students to always think "why now?", why does your idea for the a story, force a person to leave their typical day and personality, and challenge themselves to rise to the occasion and overcome a new found problem. Knowing the specific event that forces someone to step-up let's the writer/director keep things simple and learn what to cut when writing their story.
 
-Mamet then says directors should study classic myths. He uses _Dumbo_ as an example. Dumbo wants to overcome his large ears. He meets friends along his journey for a cure.  In the end, his story turns out to be about self-discovery, for Dumbo learns he can fly with his large ears, making him no worse, or better, than anyone else. Just different. Once Dumbo is okay with his ears, his problem is over, and so is the story.
+Mamet then says directors should study classic myths and uses _Dumbo_ as an example. Dumbo is a story about a elephant in the circus who wants to overcome his large ears. He meets friends along his journey for a cure. In the end, his story turns out to be about self-discovery, for Dumbo learns he can fly with his large ears, making him no worse, or better, than anyone else. Just different. Once Dumbo is okay with his ears, his problem is over, and so is the story.
 
-Once the story is over, the protagoinst is free to return to being whatever personality he wants. These are the unhindered character traits performance artists think are so interesting, but isn't worth watching a movie. Only if a new problem forces him to raise to become a hero again will we hear a story about Dumbo again.
+Once the story is over, the protagoinst is free to return to being whatever personality he wants. These are the unhindered character traits performance artists think are so interesting, but aren't worth watching a movie about. Only if Dumbo rises to face down another problem will we hear a story about Dumbo again.
 
-Cartoons like _Dumbo_ are a great reference for directors. Since there's no actors, directors don't have to contain artistic impulses. Better yet, since there's no cameras, the directors can unleash pure imagination when choosing their shot list. Cartoons, especially ones about classic myths and fairy tales, showcase the rewards to directors who keep things simple. That's why only clasic stories ever become immortal.
+Cartoons like _Dumbo_ are a great reference for directors. Since there's no actors, directors don't have to contain artistic impulses. Better yet, since there's no cameras, the directors have to do a shot list, and can unleash pure imagination when choosing it. Cartoons, especially ones about classic myths and fairy tales, showcase the rewards to directors who keep things simple. That's why only classic stories ever become immortal.
 
-With all this in mind, Mamet says storytellers must know when to start their story. There must be an external event that causes a problem the protagonist wants to solve like "the plague on Thebes, the big ears, the death of Charles Foster Kane." Not starting a story on a major event, leaves dead air, which is usually filled with useless back story.
+With all this in mind, Mamet tells his students to think about "why now?" again. Storytellers must know the answer when starting their story. There must be an external event that causes a problem the protagonist wants to solve like "the plague on Thebes, the big ears, the death of Charles Foster Kane." Not starting a story on a major event, leaves dead air, which is usually filled with useless back story.
 
-That's why fairy tales start with the perfect opening "Once upon a time, there was a..." because this kick starts the story right away. Characterizations and backstory are left out, and thus left up to the audiences imagination. The story starts, and ends, when the main characters rights their world and lives happily ever after. How they do it is the fun part, not details about their pre-story personality.
+That's why fairy tales start with the perfect opening "Once upon a time, there was a..." because this kick starts the story right away. Characterizations and backstory are left out, and thus left up to the audiences imagination. The story starts when the people challenge their world; and ends, when the main characters right their world (or not). How they do it is the fun part, not details about their pre-story personality.
 
-With all these lessons in mind, Mamet now starts to create _Pig The Movie_ with his students. Mamet starts them off with by saying the story is about "Once there was a farmer who wanted to sell his pig." With a clear desire, the story has a natural beginning, middle, and end. It also has a long list of things not to include; anything not about a farmer selling a pig. <!-- added - maybe we think the farmer was a huge football fan, but since that's not about selling a pig, we don't include any details like that in a story about selling a pig -->
+With all these lessons in mind, Mamet now starts to create _Pig The Movie_ with his students. Mamet starts them off with by saying the story is about "Once there was a farmer who wanted to sell his pig." With a clear desire, the story has a natural beginning, middle, and end. It also has a long list of things not to include; anything not about a farmer selling a pig. <!-- added - maybe we think the farmer was a huge football fan, but since that's not about selling a pig, so unless we tie it in somehow, and for good reason, we don't include any details like that in a story about selling a pig -->
 
 A student recommends establishing the farm as the first shot. Mamet shoots that idea down outright. Like when asking "where to put the camera" the writer must first understand his story before deciding on any shots. Thus, finding out why the man has to sell the pig is their current job.
 
-Mamet than changes the throughline to _Once there was a farmer who had to sell his pig_. Making the farmer have to sell the pig makes it a stronger story. He advises the students that semantics are vital because words are like forks in the road, and being concise and purposeful is very important to be sure you're on the road you want to be on.
+Mamet than changes the throughline to _Once there was a farmer who had to sell his pig_. Making the farmer _have_ to sell the pig makes it a stronger story. He advises the students that semantics are vital because words are like forks in the road, and being concise and purposeful is very important to be sure you're on the road you want to be on.
 
 A student then recommends shots of the farmer posting "for sale" signs, to which Mamet says explaining a story is like a comedian explaining a joke. After the explanation the comic's audience may get why the joke would be funny, but they came to laugh, not understand. Likewise people watch stories to wonder what's going to happen next. Signs are explanations and not stories.
 
-To find a better answer, Mamet reminds the students to find the story's reason. Why does the farmer have to sell his pigs? Don't concentrate on "he has too many pigs", or something else superficial, but ask what pigs mean to him, and why does he have to sell it? Reasons are relateble, because most of an audience wont own pigs, but they have their own comparable things.
+To find a better answer, Mamet reminds the students to find the story's reason. Why does the farmer have to sell his pigs? He says don't think of reasons like "he has too many pigs" because they're superficial. Instead ask what do pigs mean to him, and why does he have to sell it? Reasons are relatable, because most of an audience won't own pigs, but they have their own comparable things.
 
-Thus, writers should search for the deeper meaning of the story. Has the man fallen on hard times, or maybe he had to leave his ancestral home. The more a writer uncovers the story's essence, the more he can find specific images to tell the story of a man who falls on hard times, which is a story most people can relate to, versus a man who wants go get rid of a pig, which most people can't.
+Thus, writers should search for their stories deeper meaning. Like maybe the man has fallen on hard times, or maybe he had to leave his ancestral home. The more a writer uncovers the story's essence, the more he can find specific images to tell the story of a man who falls on hard times, which is a story most people can relate to, versus a man who wants get rid of a pig, which most people can't.
 
 Without finding the essence of the problem, the writer will not enter into the mind of the protagonist. Any story created will be superficial, like a stranger who tells you how to fix a problem you're having before learning anything about you.
 
-Mamet then tries to find a good reason why a farmer would need to sell a pig. It can't be out hunger, because why not kill the pig. It can't be a over due bank letter, because how's one pig going to help pay off a bank loan. But the search is vital because finding a good reason for having to sell the pig means the protagonist will have a reason for his actions, and the writer will have a good reason to start his story.
+Mamet then tries to find a good reason why a farmer would need to sell a pig. It can't be out hunger, because why not kill the pig. It can't be a over due bank letter, because how's one pig going to help pay off a bank loan. But the search is vital because finding a good reason for having to sell the pig means the protagonist will have a reason for his actions and the writer will have a good reason to start his story.
 
-As student's give their ideas, Mamets jumps on the idea that the pig is a troublemaker and attack's the farmer's daughter. Mamet likes the idea and the class decides to use it as the reason for selling the pig.
+As student's give their ideas Mamets jumps on the idea that the pig is a troublemaker and attack's the farmer's daughter, the class does too, and everyone agrees to use it as the reason for their main characters selling his pig.
 
 A student says the family should also be going hungry. To which Mamet replies a story shouldn't have two problems, because the protagonist can only want one thing.
 
 Now the throughline becomes _Once upon a time a man had to sell a dangerous pig_, which is an improvement because the language is more precise and thus helps create a more believable story.
 
-The class creates shots for the stories beginning thusly:
+The class creates the first shots for the story thusly:
 
 1. Pig attacks the farmer's daugter.
 2. The pig's owner (John) walking down the country road with the pig.
@@ -231,27 +231,27 @@ The class creates shots for the stories beginning thusly:
 6. The pig bites the buyer.
 7. John walking down the road again with the unsold troublemaker pig.
 
-Continuing to filter student shot suggestions, the class settles on another man on the road. This one fixing his car. After seeing the new potential buyer, John wipes the pigs face and puts a hankerchief around it. Mamet says this is good because it uses a prop to show what the protagonist wants; to capitalize on his luck and this time sell his pig.
+Continuing to filter student shot suggestions, the class settles on John coming across another man on the road. This one is fixing his car. After seeing the new potential buyer, John wipes the pigs face and puts a hankerchief around it. Mamet says this is good because it uses a prop to show what the protagonist wants; to capitalize on his luck and sell his pig.
 
 To help his chances even more, John helps the prospective buyer fix his broken cart. Afterwards, the two gentleman talk, the buyer picks up the pig, and puts it into his cart. As the buyer reaches for his wallet, the pig's face turns nasty, and then... we see John walking down the road with his troublemaker pig.
 
-Happy with the work they've done so far, Mamet updates the throughline to be _"once there was a farmer who tried everything he could to sell a dangerous pig_".
+Happy with the work they've done so far, Mamet updates the throughline to be _once there was a farmer who tried everything he could to sell a dangerous pig_.
 
-The class discusses what comes next. They decides on lots of walking. This helps emphasize John's punishment for not selling his pig. Farmer John ends up arriving at the slaughterhouse with a large pig pen. But it's night time.
+The class then discusses what should come next. They decide on lots of walking. This helps emphasize John's punishment for not selling his pig. Farmer John ends up arriving at the slaughterhouse with a large pig pen, only arrving past nightfall.
 
 The beat at the slaughterhouse becomes _end of a weary quest_. The entrance is locked, and the farmer only sees a small office light on. Mamet again rejects ideas of putting up "slaughterhouse signs", because all that's important is John wanted to get here and there's a pig pen. A good story reveals logical events and doesn't explain them.
 
-Mamet is excited when a student suggests John should tie up the pig and go for a drink. When John's at the bar, the man with the broken cart walks in, the guy John's pig bite. He starts a fight with farmer John. Mamet loves the idea because it could happen, so it's both logical and surprising. It gets even better when the pig breaks free and runs to fight side by side with farmer John!
+Mamet is excited when a student suggests John should tie up the pig and go for a drink. And when John's at the bar, the man with the broken cart and pig bite-mark walks in and immediately starts a fight with John. Mamet loves the idea because it could happen, so it's both logical and surprising. It gets even better when the pig breaks free and runs to fight side by side with John!
 
-For the next beat, Mamet tells the students to stay away from adding more fights. It's too easy to repeat beats. Besides, the throughline is about getting rid of a dangerous pig, not fighting people. It was a great idea, don't diminish it by repeating it.
+For the next beat, Mamet tells the students to stay away from adding more fights. It's too easy to repeat good beats. Besides, the throughline is about getting rid of a dangerous pig, not fighting people. It was a great idea, don't diminish it by repeating it he says.
 
-Mamet then explains stories are a series of problem solving attempts. The first are the easiet, and as they fail, the protagonist tries harder and harder solutions to solve his problem. With this in mind Mamet adds a scene after the pig bites the John's daughter. He says a logical person would have tried setting the pig free in the woods; which John tries. The troublemaker pig makes his way back, forcing John to try and sell it.
+Mamet then explains stories are a series of problem solving attempts. The first are the easiet, and as they fail, the protagonist tries harder and harder solutions to solve his problem. With this in mind Mamet adds a scene after the pig bites John's daughter. He says a logical person would have tried setting the pig free in the woods. John tried that first, but the troublemaker pig made his way back, forcing John to try and sell it.
 
-To wrap things up Mamet finishes the _Pig-The Movie_ like this.
+To wrap the lectur up Mamet finishes the _Pig-The Movie_ like this.
 
-John was sleeping at the slaughterhouse, and he wakes up and his pig is gone. John is hurt, because now the pig isn't just a pig, but a friend who stood up for him. The slaughterhouse owner says he took the pig because he thought John was a drunk who stole it, and thus dismisses John's demand for the pig to be returned. John fights the slaughterhouse owned to get his buddy back. The next scene is a bloodied John walking back down the road with his pig.
+John was sleeping at the slaughterhouse, and he wakes up and his pig is gone. John is angry, because now the pig isn't just a pig, but a friend who stood up for him. The slaughterhouse owner says he took the pig because he thought John was a drunk who stole it, and thus dismisses John's demand for the pig to be returned. John fights the slaughterhouse owner to get his buddy back. The next scene is a bloodied John walking back down the road with his pig.
 
-Then the pig stops, and looks back at the slaughterhouse, and won't look away.
+Then the pig stops, and looks back at the slaughterhouse and won't look away.
 
 The next shot is John at the slaughterhouse paying the bruised owner money. John then goes inside a pen and takes out a new pig.
 
@@ -259,34 +259,34 @@ The next shot is the two pigs kissing at the farm. The next shot is many piglets
 
 The story is good because the dangerous pig is gone. He's now a happy pig. A logical, yet surprising, turn of events.
 
-Mamet comments, that by staying loyal to KISS, creating the story was easier. Instead of trying to find interesting ways for everything, the class created reasons why someone would need to sell a pig. Since there are many good reasons, the story can be both reasonable and surprising, as well as relatedable to anyone dealing with a troublemaker.
+Mamet comments, once the class created reasons why someone would need to sell a pig, creating the story was easier than trying to find interesting ways for everything. Since there are many good reasons, the story can be both reasonable and surprising, as well as relatedable to anyone dealing with a troublemaker.
 
 In summary the objectives to each scene were:
 
 1. A man tries to rid himself of danger.
-2. A man triess the easy solution to a difficult problem.
+2. A man tries the easy solution to a difficult problem.
 3. A man tries to capitalize on a golden opportunity.
 4. A man comes to the end of a long quest.
 5. A man tries to regain possession
 6. A man rewards a good deed.
 
-The chapter ends with Mamet saying "Anybody with a [camera] can take a picture of a 'pig'". As long as they tell a story of the hero's persistence in a difficult world, and keep it simple with a logical series of uninflected shots strung together to make a story.
+The chapter ends with Mamet saying "Anybody with a [camera] can make a movie of a 'pig'". As long as they tell a story of the hero's persistence in a difficult world, and keep it simple with a logical series of uninflected shots strung together to make a story.
 
 ## CONCLUSION ==
 
-Mamet starts the last chapter by saying every storyteller have a choice. Follow craft, or follow their impulses and join the "'Cult of Self'... the cult of how interesting you and your consciousness are".
+Mamet starts the final chapter by saying every storyteller has a choice. Follow craft, or follow their impulses and join the "'Cult of Self'... the cult of how interesting you and your consciousness are".
 
 Ship captains have the same choice when stearing through dangerous river waters. Of course captains "stick with the channel" because it's marked by buoys. And so should directors.
 
 Because among all the options a storyteller can choose, most are marked; "The river channel is the super-objective of the hero, and the marker buoys are the small objectives of each scene".
 
-The director's toolkit is only the shot. And the choice of shots is the only power a director has; they "can't make it more interseting [in] the editing room". Nor can a director rely on actors over-acting to make a boring story better. Director's must follow craft, and not rely on God's invervention, or supposed talent, to make up for not following the marked buoys.
+The director's toolkit is only the shot. Yhe choice of shots is the only power a director has; they "can't make it more interesting [in] the editing room". Nor can a director rely on actors over-acting to make a boring story better. Director's must follow craft, and not rely on God's invervention, or supposed talent, to make up for not following the marked buoys.
 
 Mamet insists there is a trade to screenwriting and a trade to directing. Both of which are very similar. Like any trade, anyone can learn it. If anyone tries hard enough the required type of "analytical thinking" will get easier. Directors must simply follow it, securing a throughline as a foothold, and moving on up the mountain; one step at a time will eventually get anyone to the top.
 
 Knowing your craft, and applying it to your story, means you're subconscious will know many of the answers a director needs to know when working with editors, actors, and financiers. This is different from impulses of artists, but is mastery of a craftsman who knows where the buoys are.
 
-Yet a storyteller can do everything right and still make a bad movie. Mamet says that's true, but that doesn't mean to avoid using craft in favour of impulses. He asks if a general were to be told by the gods he was going to lose tomorrow's battle, should he not still fight it with sound military tactics instead of trying to be interesting?
+Yet when asked if a a storyteller can do everything right and still make a bad movie Mamet says yes, but that doesn't mean to avoid using craft in favour of impulses. He asks if a general were to be told by the gods he was going to lose a coming battle, should he not still fight it with sound military tactics instead of trying to be interesting?
 
 The only thing under anyone's control is craft; i.e. following the right philosophy of Nature. Good or bad outcomes is not under our control. All individuals can do is our job as best we can, and when done, go home. Which is Mamet explains is "exactly the same principle as the throughline. Understand your specific task, work until it's done, and then stop."
 
