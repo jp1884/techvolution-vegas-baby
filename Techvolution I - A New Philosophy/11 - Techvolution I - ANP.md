@@ -262,6 +262,8 @@ Remember open-source brings strangers together around a common goal. It doesn't 
 
 Cinderella doesn't need a fairy godmother to get into the party. It makes the old gatekeepers keep up with us as we dance the night away to progress instead of campaign promises.
 
+<!-- below not sent for proofreading -->
+
 # ACT TWO - BLOWING UP THE DEATH STAR
 
 ## The Magic of Evolution
@@ -401,6 +403,8 @@ Stargazer, the story of civilization is stalling. We already have Jedi in the op
 But let’s talk about the good news. There’s always good news and it’s vital to mention to fend off negativity and despair. In most of the world, it’s safer to live now than in any other point in human history. The amount of us dying violent deaths has consistently decreased.
 
 Think about this, in the Stone Age, about 10-20% of people died violently, most often by murder. In Rome’s peak civilization it was around 2-5%. In the Dark Ages it was above 5%. But by the 18th century, when the Industrial Revolution started, it went well under 5%. Now, less than 1% of us die violently. All those figures are worldwide and include wars.
+
+Add poverty reduction...
 
 More good news. We have enormously powerful digital tools that keep getting better. Look at microchips, the "brains" of a computer. In 1972, we could put 3,000 transistors on a microchip. In 2018 we put 10 billion. In 46 years, we’ve increase computer power by three million percent. Digital tools thus hit their stride in the 1970’s, when protagonists like Grace Hopper, Vint Cerf, and Al Alcorn used microchips to created personal computers, the internet, and email.
 
@@ -638,7 +642,7 @@ Rousseau noticed society has these classic, art, and spectacle stories, and that
 
 ## The Politics of Stories
 
-So these are the three categories in a nutshell. Classic stories tackle real-life problems. Art stories talk about themselves. Spectacle stories are a distraction.
+So these are the three categories in a nutshell. Classic heroes tackle real-life problems. Art heroes are self-obsessed. Spectacle heroes are a distraction.
 
 Their purpose and meaning do not end there. In the world of politics, this means the ruling philosophy of classic stories are about equality and democracy, while a ruling philosophy art and spectacle stories are about maintaining a hierarchy.
 
@@ -656,17 +660,17 @@ The traitor losses. Neo is too powerful. In the final battle with Agent Smith, h
 
   >I came here to tell you how this is going to begin. I'm going to hang up this phone. And then I'm going to show these people what you don't want them to see. I'm going to show them a world without you. A world without rules and controls, without border or boundaries A world where anything is possible. Where we go from there, is a choice I leave to you.
 
-Since this is a classic story, once Nero’s done showing the people, him and his friends return to being equal members of the free community. Neo’s hierarchy of support was temporary, being based on solving a frontline problem. Perhaps he’ll be the hero of the next story, but maybe not. It depends on the problem and who the people want to be their problem solving hero to be. Regardless by stepping up, Neo can continue being the protagonist of his own life, by deciding who he'll follow, not letting the agents decide for him.
+Since this is a classic story, once Nero’s done freeing the people, him and his friends return to being equal members of the free community. Neo’s hierarchy of support was temporary, being based on solving a frontline problem. Perhaps he’ll be the hero of the next story, but maybe not. It depends on the problem and who the people want to be their problem solving hero to be. Regardless by stepping up, Neo can continue being the protagonist of his own life, by deciding who he'll follow, not letting the agents decide for him.
 
 Spectacle and art stories do not solve frontline problems. Thus, their hierarchies can go on for as long as their storytellers can convince people to watch them, or live inside them. These storytellers, who are the leaders, are self-important, self-involved, who can’t solve problems, and the masses are just like the people stuck inside the matrix; distracted from the truth with a world of spectacle like shiny cars, copyrighted music, 9-5 work days, and sitcom re-runs, which people stay attached to via dark majic of advertisements, marketing, and loyalty to an old culture.
 
 This is the harsh reality of majic. The real-world in the matrix is cold, dark, and damp. Neo must convince the people living in freedom inside this unpleasant reality is better than the tyranny of a pleasant fiction full of the spectacle and dark majic.
 
-The longer the spectacle lasts, the longer the self-important artists, like Darth King, and Darth Blockbuster, can go on talking about themselves. They’re happy with the way things are. They want to be heroes atop the hierarchy forever.
+The longer the spectacle lasts, the longer the self-important artists, like Darth King, and Darth Blockbuster, can go on living inside self-obsessed stories. They’re happy with the way things are. They want to be heroes atop the hierarchy forever.
 
 But like an aging sitcom, it never lasts. Eventually the people’s problems pile up, and they soon need a true hero again.
 
-- have to include who new tools are welcomed in good stories (because they get to achieve victory), while disliked in art (because they force a story) and spectacle idk.
+Whether living inside a story, or looking at one, we can tell the difference betweed classic, art, and spectacle by looking at how new tools are treated. Classic stories embrace new tools because they solve problems. Art stories dislike new tools because they force self-obsessed people into a story which thus questions their status as main characters. And spectacle loves new tools but uses them to ramp up the spectacle so the masses don't ask for the power themselves.
 
 **Good ruling philosophy**: Meant to facilitate the creation and distribution of new tools. It's lead by individuals selected by the people, who rise to the occasion to become protagonists. Once the story is over, leaders willfully returns to being an equal member of the community.
 
@@ -716,9 +720,13 @@ Darth King used art to tell themselves the the rules were sent from God, and sho
 
 ## Our Story
 
-The Devil was once an angel. Named Lucifer he lived with God up in the clouds. But once he grew vain he challenged God and was punished by being thrown down from Heaven to be the dark lord. That's not all. He can assume and form, and be anyone, for all humanity is tainted with the greed to be aasu,e they can be gods. At least that's the Christian tale. But there are many other stories of fallen angels. Lord Voldermort, Lord Sauron, and Lord Vader were all once heroes; each unwilling to give back their power when corrupted by evil ambitions of lifelong supremacy. It's probably so common in literature because it's so common in humanity; power often corrupts.
+The Devil was once an angel named Lucifer. He lived with God up in the clouds. Lucifer grew vain and greedy. So vain he challenged God and was punished by being thrown down from Heaven to be the dark lord of hell.
 
-This same story sadly happened to kings of Europe and it's repeating itself in our modern times as well. Our antagonists are also fallen heroes.
+That's not all. As the Devil, Lucifer can assume any form, and be anyone, at any time. See, all humanity is tainted with the greed to be think they can be gods.
+
+At least that's the Christian tale of good versus evil. It's been echoed throughout Wester literature. Lord Voldermort, Lord Sauron, and Lord Vader were all once heroes. Each grew evil as they were unwilling to give back their power when corrupted by evil ambitions of lifelong supremacy. It's probably so common in literature because it's so common in humanity; power often corrupts.
+
+This same story happened to kings of Europe. It's repeating itself in our modern times as well. Our antagonists are also fallen heroes.
 
 It’s important to note, while Rousseau’s followers may have been political free, they were economically poor. Hunger, disease, unemployment, illiteracy, were all rampant. The time was basically one of "economic anarchy".
 
@@ -728,17 +736,19 @@ Slowly but surely, they did. They told a good story during the Industrial Revolu
 
 Darth Blockbuster’s forebears like Andrew Carnegie, Cornelius Vanderbilt, Louis B. Mayer, did what Clovis I and the rest did. And like how Darth King was only exposed when new tools empowered the extras so they didn’t need to be peasants anymore, Darth Blockbuster was only revealed when digital tools were so powerful, the extras didn’t need to be 9-5 working consumers anymore.
 
-To defend today’s primitive tools, Darth Blockbuster surrounds himself with story of self-importance, and distracts the people with spectacle. John Wayne noticed this started, not surprisingly, in the 1970’s for movies:
+Both stories were one of fallen angels.
+
+Today, Darth Blockbuster defends primitive tools because he controls them. He surrounds himself with story of self-importance, and distracts the people with spectacle. John Wayne noticed this started, not surprisingly, in the 1970’s for movies:
 
 >Now the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it.
 
-This same story happened throughout the suburban "American Dream". Detached homes got ever more specular, bigger sizes, designer fashion. Cars got bigger, more size, more chrome, more horsepower. Televisions increase in size. Rather than transform society to the capabilties of digital tools, Darth Gas Cars, Darth Telephone, Darth Suburban Home, made their tools more spectular.
+This same story happened throughout the suburban "American Dream". Detached homes got ever more specular, McMansions, designer kitchens. Cars got bigger, more size, more chrome, more horsepower. Televisions increase in size. Food portions increased, sugar was added to everything. Rather than transform society to the capabilties of digital tools, Darth Gas Cars, Darth Telephone, Darth Suburban Home, made their tools more spectular.
 
-These antagonists to new tools thus distracted the mases, while they lived in an increasingly self-important lifesystle like a performance actor in an art film, where the main character is selected by the people to overcome a problem, before returning to equality, but is just the main character because he wants to be...
+These antagonists to new tools thus distracted the mases, while they lived in an increasingly self-important lifesystle like a performance actor in an art film, who is the main character because he wants to be, not because he's stepping up to defeat a villian on behalf of the people.
 
-And, if we’re going to change that, we need to realize all bad stories eventually end badly.
+The story of power's corruption, the story the fallen ange is ages old. And, if we’re going to change that trend, we the people need to realize spectacle is a sign of undeserved leaders ruling by way of a bad ruling philosophy.
 
-But before we get to that, there’s something else. Something that’s gone very wrong...”
+But before we get to that, there’s something else. Something that’s gone very wrong...
 
 # THE BIG FIGHT
 
@@ -746,33 +756,39 @@ But before we get to that, there’s something else. Something that’s gone ver
 
 I'm not perfect. Far from it. Johnny Majic is just a regular guy. For whatever reason I've always been pretty good at retaining knowledge and analyzing history and politics. But other than working to hone that skill, I'm just a regular guy who likes to see the world getting better.
 
-What I'm basically saying in this book is many people in positions of "power" are like Blockbuster in 2009, living on borrowed time. They don't know it because, like characters in an art film, are stuck in a role of self-importance, which is like what happened to the late kings of Europe. And Self-important living at the top, comes with spectacle of fancy cathedrals or car shows to distract the bottom.
+What I'm basically saying in this book is many people in positions of "power" are like Blockbuster in 2009, living on borrowed time. They don't know it because, like characters in an art film, they are stuck in a role of self-importance, which is like what happened to the late kings of Europe. Art at the top comes with spectacle to distract the bottom; whether fancy cathedrals or car shows.
 
-Art film culture insulate themselves from pleas for a classic stories with a culture. This culture gets weirder and weirder to non-fans, but make more and more sense to people inside. After all, it's all singing to the choir, recycle old ideas dengenerates like photocopies.
+Art film culture insulate themselves from pleas for a classic stories with a culture. This culture gets weirder and weirder to non-fans, but make more and more sense to people inside. After all, it's all singing to the choir. But recycling old ideas dengenerates each successive photocopies.
 
-That's why "Breaking News" is always on the cable news shows. They are finding new examples for the choir to keep singing. It's pretty telling that the two impeacements since living memory are over a sex life and phone call, meanwhile American has been gutted because red/blue philosophies wont let her upgrade everyday life to digital tools.
+This is where red/blue philosophies are today. Their partnership with industrialization and economic growth go them this far. But with digital tools transforming both those eras into an obesession with individual empowerment and a thirst for economic efficiency, red/blue are trying to mantain their status as a ruling philosophy with spectacle.
 
-The point is this. When someone says it's time to move on; its time to end the story of red/blue philosophies and start to upgrade our ruling philosophy to the possibilities of new tools, they fight back with personal attacks.
+That's why they're so dramatic with the name calling and yelling. That's why "Breaking News" is always on the cable news shows. They are finding new examples for the choir to keep singing. It's pretty telling that the two impeacements since living memory are over a sex life and phone call, meanwhile American industry has been gutted, wars have been fought for dubious reasons, stock market manipulation is accepts.
 
-To to get it over with, I'll shame myself with their rules. Among the many rules I've broken, like driving a shit car, not having (or wanting) much money, maybe even being a closet socialist progressive, or intolerant conservative!
+Digital tools should be empowering extras to be their own heroes. Open-source and others are fighting to distribute digital tools to the people. To keep the extras hooked on the Woodstock era lifestyle red/blue know and understand they're served spectacular politics 24/7 on cable news, talk radio, and other choir benches.
 
-But those are boring. What both sides truly hate is their choir watching YouTube or Netflix instead. So what the rule I broke? I downloaded a movie from the pirate bay. You think that was that wrong?
+The point is this. When someone says it's time to move on and end the story of red/blue philosophies and start to upgrade our ruling philosophy to the possibilities of new tools, they fight back with personal attacks. Because like a art story, people inside red or blue storylines are so neurotic and introverted, that they think the world is defined from their own philosophies.
+
+To to get it over with, I'll shame myself with their rules. So if by chance Techvolution is read and followed, both red and blue with tell their choirs I'm  a closet socialist progressive, or intolerant conservative! Or some other reason to shame me personally.
+
+Resorting to personal attacks are good signs of a bad ruling philosophy.
+
+But they can be distracting. What both red and blue truly hate is their choir watching YouTube, Netflix, or even worse living their own lives. But nonetheless they'll shame me anyway.
+
+So let's get this over with. What rule did I break? I downloaded a movie from the pirate bay. You think that was that wrong?
 
 ### Stargazer Turns on His Lightsaber
 
-It's amazing to think about, but think about this everytime two hours of today's Netflix today, was once watched after driving to pickup a DVD.
+It's amazing to think about, but think about this everytime you watch Netflix today, was once watched after driving to pickup a DVD.
 
 DVD's were a major revenue stream for movies. Heck people were filling their basements of DVD's. In 2008, hackers put together BitTorrents. A technology that spliced files into tiny bits, and let people share their content. It was an amazing new tool, that was most often used to distribute songs and movies. The studio's saw the record companies fall to Napster and adopt iTunes, but didn't learn from the lesson.
 
-I don't want to actually personalize "Darth Blockbuster". But it might be a good idea for you to take a minute and visit YouTube and search around for "movie piracy" videos. It was once a hot topic and news broadcasters did lots of reports about the impending doom to society's movies because of BitTorrents.
+I don't want to actually personalize anyone as "Darth Blockbuster" (especially if I never met them). But it might be a good idea for you to take a minute and visit YouTube and search around for "movie piracy" documentaries. It was once a hot topic and news broadcasters did lots of reports about losing the movies to the doom of BitTorrents.
 
-Hollywood is of course still around. Although, like Blockbuster, they're living on fumes. It's problem was and is, it's product suck, and it only survived because it had a monopoly on storytelling technology. BitTorrents only exposed that problem.
+The big concern was loss of of revenue. From their perpective DVD sales kept the industry afloat. Replacing them with streaming, especially illegal streaming, was in their eyes people sneaking into the movie en masse. And this wasn't just an industry problem. The movies are the cultural backbone of the world. They need to be protected.
 
-Anyone could see it on the frontline. People don't just like classic stories, we need them. People will buy them if they're reasonably priced and most important, good.
+Thus, they called movie downloaders pirates. Even though most had been loyal customers for generations, all of a sudden these same people were thieves and criminals.
 
-When I was a projectionist I (and any other) could tell which movies were good or bad without ever seeing them. We just watched the audience's reactions. If they scream, cry, laugh, yell, it's a good story. Even more telling was listening to moviegoers walk out. If they marvelled about twists, turns, and cool lines, you know the story was really good because it turned fiction into reality.
-
-Most movies at the theatre got hum reactions. Here's why that was and why people ended up flocking to internet streaming.
+Luckily I was a usher and projectionist in a movie theatre around this time. When added to some history and analysis, we get to peak behind the curtain of the movie industry.
 
 ### Technological History of the Movies
 
@@ -814,7 +830,7 @@ Even more people rushed to upgrade their cyborgology with DVD’s and home theat
 
 Yet they didn’t notice, that the data transmission, data storage, and data viewing technologies of the movie industry was now almost entirely digital.
 
-Except movie distribution. People still had to drive to pick up their DVD’s or visit a movie theatre. Hence, people still needed to concentrate around movie theatres, rental stores, or TV guides (i.e. the castles with gatekeepers), to access their digital data.
+Except movie distribution. People still had to drive to pick up their DVD’s or less likely visit a movie theatre. Hence, people still needed to concentrate around movie theatres, rental stores, or TV guides (i.e. the castles with gatekeepers), to access their digital data.
 
 Until they didn’t.
 
@@ -822,9 +838,9 @@ The internet, the transfer of digital information that was used for email and we
 
 And here enters The Pirate Bay (2003). Like Napster, it introduced digital movies to people first. Although the entertainment industry used digital cameras, film projectors, email, webpages, YouTube for years, they didn’t want people using a new tool, but to keep using their profitable DVD technology; they even made two new ones called Blu-Ray (2006) and HD-DVD (2006).
 
-The people wanted the better tool. The one that made their life more profitable. After all the countless hours invented new digital tools was mostly done on their tax dollars in government labs and military funding and university institutions. Pirate Bay was the first to offer the new technoogy as a new tool to the people. It was a pain, it was hard to learn, but it was better than driving.
+The people wanted the better tool. The one that made their life more profitable. After all the countless hours needed to invent new digital tools was mostly done on their tax dollars in government labs and military funding and university institutions. Pirate Bay was the first to offer the new technology as a new tool to the people. It was a pain, it was hard to learn, but it was better than driving.
 
-Remember the 60 Minutes report! Customers are pirates! People are evil, people are cheap, people are thieves! Really? Then explain the graph below, the one what shows how the evil people responded with protagonist Reed Hastings in 2005 made a new internet tool and gave internet movies to the people. What we call Netflix, by 2009, when Hollywood was panicking about BitTorrents, the people were finally given internet streaming. This was the same fucking time as Darth Blockbuster and the industry was complaining about human evolution.
+Remember the industry called this people thieves! Customers are pirates! People are evil, people are cheap, people are thieves! Really? Then explain the graph below, the one what shows how the evil people responded with protagonist Reed Hastings in 2005 made a new internet tool and gave internet movies to the people. What we call Netflix, by 2009, when Hollywood was panicking about BitTorrents, the people were finally given internet streaming. This was the same fucking time as Darth Blockbuster and the industry was complaining about human evolution.
 
     <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script>
     <script type="text/javascript">
@@ -835,15 +851,35 @@ If middle class Americans and Canadians are pirates, why didn’t Blockbuster st
 
 The people elected to download movies from pirate bay because it was an upgrade available to their cyborgology. The only natural rule is natural selection. When people choose the best tool, they evolve into better cyborgs. It’s not the people’s job to wait for an industry to catch up to Nature. It should be the other way around.
 
-Maybe the industry would have noticed that. Instead, they were too busy surrounding  themselves with art and wanted people to being distracted with spectacle (Blu-Ray, HD-DVD). While calling their own customer’s thieves, the movie industry held countless banquets and balls on the people’s DVD dollars; movie premieres, talk shows, award shows, and launch parties. Read books like Hollywood Interrupted and the revelation of the #MeToo movement, and these parties were, never mind self-congratulatory, but often even evil.
+Maybe the industry would have noticed that. Instead, they were too busy surrounding themselves with art and wanted people to being distracted with spectacle (Blu-Ray, HD-DVD). While calling their own customer’s thieves, the movie industry held countless banquets and balls on the people’s DVD dollars; movie premieres, talk shows, award shows, and launch parties. Read books like Hollywood Interrupted and the revelation of the #MeToo movement, and these parties were, never mind self-congratulatory, but often even evil.
+
+The industry became self-obessed artists patting themselves on the back for making every weirder films, while manufacturing cheap spectacle to distract the masses. The masks of royalty appeared again. Success wasn't defined by those on the frontline, but by politicking and ingratiating oneself to the putrid politics of a aged industry.
 
 The Oscars, Correspondence Dinners, Emmy’s, Golden Globes, Cannes Film Festival, Sundance Film Festival, Toronto International Film Festival, and so many others. All modern version of banquets and balls, with gates to keep you out, and rules put in place to make the good times of the DVD going. Party loving, profit loving, foresight lacking is a recipe for antagonism, hence Darth Blockbuster rose up.
 
 While the spectacle of Blu-Ray and HD-DVD tricked some extras, like with Wikipedia attracting people despite the supposed experts objections, the vast majority followed the natural majic of online movie streaming instead, even when it was against the rules to improve society.
 
-Digital tools empowered the extras to fight back, and check his self-important art story. Techvolution tells them its right to do it. As for it being against the rules, it was, and maybe it should be,  I was naive back then and never downloaded any movies. I was the sucker buying DVD’s.
+Digital tools empowered the extras to fight back, and check his self-important art story. Nevermind that the people flocked to HBO and Netflix not only for the better technology and value, but because these companies emulated early Hollywood and told classic stories like _The Sopranoes_, _Breaking Bad_, and _Game of Thrones_. The people sought out these products.
+
+In short, the movie industry was led by people who didn't know how to tell stories. They re-used past hits to squeeze as much out of the glory days as possible. Hence, so many movies were sequals and remakes that were simply bad stories.
+
+The artists inside the industry got back at them with a system of "one for them, one for me" and made increasingly weired, unenjoyable, and politically charged art films.
+
+Here's the frontline difference between spectacle/art, and classic stories.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Apc8OU98r54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/78juOpTM3tE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+If rying to make people shake in their seats by adding a motor isn't bullshit... So the people revolvted to new leaders. Heroes that used modern tools to do a good job and tell quality stories.
+
+Techvolution tells them its right to do it. As for it being against the rules, it was, but the rules weren't updated to digital tools so who cares.
+
+As for me. I was naive back then and never downloaded any movies. I was the sucker buying DVD’s.
 
 Hey, do you think Darth Blockbuster will buy back all those DVDs, Blu-Rays, and HD-DVDs he told me, and us, was better than downloading? I wonder did those go up, or down, in value?
+
+![Behind the Curtain](img\sketches\frontline-movies.full.jpg)
 
 ### Decision Time
 
