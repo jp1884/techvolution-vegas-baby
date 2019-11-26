@@ -229,63 +229,25 @@ Before we go any further, I want to lay out the philosophy of Techvolution more 
 
 ## Nice to Meet You, Stargazer
 
-You might be a quiet protagonist, Stargazer. You might be a powerless extra. Whoever you are, you need to know that the story of the journey to master human technological evolution begins with you. You won’t be transported to a foreign city, mythical world, or a galaxy far, far away. Right here and now, wherever you are on Earth—that’s exactly where you need to be. The time has come to change our ruling philosophy to take advantage of digital tools.
+You might be a quiet protagonist or bored extra, either way I'm calling you Stargazer. It's a name in honour of a curious person who sees the beauty of Nature, whether it's in the endless sparkle of a clear night sky, or the face of a young girl taking her first steps. Only people willing to think of a better world are the ones willing to work for it.
 
-Whether you’ve realized it or not, the truth is that you have the power to undertake this journey. You will be given the tools. Do you have the will to use them for a better tomorrow?
+Whoever you are Stagazer, you need to know that the story of the journey to master human technological evolution can only begin with you. You won’t be transported to a foreign city, mythical world, or a galaxy far, far away. Right here and now, wherever you are on Earth—that’s exactly where you need to be. The time has come to change our ruling philosophy to take advantage of digital tools.
 
-And who am I to tell you all this? I’m nobody special. I haven’t led the country and you haven’t seen me on the news. In my youth, I was a cleaner, drywaller, movie usher/projectionist, and die-hard ideologue. After dropping the latter bad habit, I studied political philosophy and innovation at the University of Toronto, usually while working full-time. I have a strong dislike for garbage meetings and other excuses people make up to not contribute and get to work, but am curious and nice enough to uncover the philosophy that fuels them rather than dismiss them. The truth is, however, I learned far more about innovation by working at the frontline as a line worker, an account manager, and a claims adjuster. Making an app and meeting my personal Darth Blockbuster was an education unto itself.
+Whether you’ve realized it or not, the truth is that you have the power to undertake this journey. You will be given the tools. It's up to you to use them to make a better tomorrow.
+
+And who am I to tell you all this? I’m nobody special. I haven’t led the country and you haven’t seen me on the news. In my youth, I was a cleaner, drywaller, movie usher/projectionist, and die-hard ideologue. After dropping the latter bad habit, I studied political philosophy and innovation at the University of Toronto, usually while working full-time. I have a strong dislike for garbage meetings and other excuses people make-up to avoid work. I think I'm curious and nice enough to uncover the philosophy of lazy antagonists to help the extras avoid them and join the protagonists fighting to improve life on Earth. That's why I learned far more about innovation by working at the frontline as a line worker, an account manager, and a claims adjuster. Making an app and meeting my personal Darth Blockbuster was an education unto itself.
 
 My life’s experience began to teach me Techvolution. Watching my friends struggle with owning, maintaining, and working with the old tools—and knowing that the open-source community was meanwhile showing us a different way, a collectively better and more liberating way—ultimately motivated me to sit at the keyboard and uncover the political philosophy that could connect the people with amazingly empowering digital tools.
 
 But this book is not about me. It’s about you. You are in a position where you wield a diversity of incredible and cutting-edge tools, even if you’re unaware of it right now. From hospital cleaners to internet technical support, from nursing to claims adjusting, the bottom line is that you are at the frontline. Only workers on the frontline know firsthand the exact tools our society needs to keep us healthy and evolving in the story of civilization. The daily pain of work makes you uniquely powerful. Only you know what tools our society needs. A piece of knowledge Darth Blockbuster will never understand.
 
-If you choose to be so, you are the hero of Techvolution. Don’t be surprised. Average Joes and Janes are always the heroes. Luke Skywalker, Princess Leia, Neo, and Cinderella were all regular people. Heroes aren’t born. They’re stargazers, dreamers, believers, and achievers. They became heroes when they step up when called upon to defeat the bad guys.
+That's why you Stargazer, if you want it, you are the hero of Techvolution. Don’t be surprised. Average Joes and Janes are always the heroes. Luke Skywalker, Princess Leia, Neo, and Cinderella were all regular people. Heroes aren’t born. They’re stargazers, dreamers, believers, and achievers. They became heroes when they step up to defeat the bad guys.
 
-History is calling someone to step up now. Climate change, individual isolation, traffic jammed roads, massive government debt, and our society’s other structural problems won’t get solved unless the middle-class steps up. So why not you?
+History is calling someone to step up now. Climate change, polluted oceans, individual isolation, traffic jammed roads, massive government debt, domestic terrorism, trust in government and our society’s other structural problems won’t get solved unless the middle-class steps up. So why not you?
 
 You are not alone. There are many like you, myriads of regular people on the frontlines ready to improve their lives and their society’s health. I’m like Obi-Wan Kenobi, Morpheus, or the fairy godmother; merely a guide who exists to teach you how to defeat the villains. So the time is now, Stargazer, to leave the farm and join the rebellion.
 
-The rebellion I speak of might be different than what automatically comes to mind. It is not a physical revolt. It does not involve rallies, marches, or protests. It’s a rebellion of the mind.  Darth Blockbuster and his Death Star stagnate progress and evolution by retaining old tools and preventing us from using new ones to solve frontline problems efficiently and effectively. We must defy him and destroy it. We must change our ruling philosophy. Only when Darth Blockbuster is gone will the middle class have the breathing space to flourish once again.
-
-## Summary
-
-I'm going to sum up what we need to know so far by telling a few stories.
-
-I saw this on a BBC Nature documentary. Cheetah's usually hunt solo. Lately they've learned to hunt in groups. Their prey aren't use to this yet. So the ostrich's keep getting tricked and end up running into ambushes. Either the Ostrich's will learn or die off.
-
-Race car driving started taking off in the late 1940's. After World War II taught everyone to make powerful engines cars were blazing fast, and blazingly unsafe. Fires, crashes, and deaths were common. Cars could go fast, but nobody knew how to keep them on the road. Centre of gravities were high and the cars would often spin out of control. The 1950 accident in Zurich killed 30 spectators almost got car racing banned worldwide.
-
-In 1953 a race car driver and engineer named Hans thought of a solution. He put a giant wing on top of his race car and called it a aerowing. It forced the car down, keeping it from losing control and actually increasing speed and handling because tires got more grip. He started to win races, and he was safer to boot.
-
-After six wins Porsche got his car banned by having it declared against the rules. When Porsche caught up and invented their own win three years later the ban was conveniently lifted. Porsche competed by using rules and not tools. Now all race cars in some way use the aerowing. Cars mimic the look with "spoilers".
-
-Human beings have always fought each other. We've developed many combat systems for hand to hand combat. Karate, kickboxing, wrestling, jiu-jitsu, judo, boxing being among the most common today. These disciplines have rules their participants have to follow.
-
-In the early 1990's combat fans started to ask which system was the best. Meaning what if someone threw away the rule books and put a kickboxing against a wrestler?
-
-After several years of "no rules" tournaments the answer was a natural one. No system was the best. Or better put, all systems were. Meaning the best fighters were ones who trained all disciplines and used whatever technique they thought would defeat their opponent based on the situation.
-
-The realization that in Nature there are no rules, was the start of today's sport of Mixed Martial Arts. While there are some rules (no headbuts, eyepokes, low blows) MMA mostly closely mimicks a true fight to the death all combat systems say their good for. Yet if you want to learn to punch, a MMA fighter can teach you, but a boxer will do it better. Same for a choke-hold, a MMA fighter knows his stuff, but a jiu-jitsu teacher is still the specialist.
-
-Here's what we should take from these three stories. The middle-class has several systematic problems. Meaning problems that keep getting worse. Climate change, road traffic, rising cost of living, consumer debt, and so forth. When we vote for a politician today we often decide based on their "red", "blue", "green" or whatever ideology. As our problems go unsolved we thus listen to the excuse "it's not my fault, the other color didn't let me use my ideology to solve the problem". Basically our politicians say they broke the rules by inhibiting tax cuts, or raising taxes. By putting in too many regulations, or whatever.
-
-This let's politicians off the hook. You're not electing an ideology. You're electing a problem-solver to fight on your behalf. What techniques they use to solve a problem shouldn't matter anymore than what techniques a MMA fighter uses.
-
-Because Nature doesn't have a rule book. We often think it does, but like the ostrich's are trying to learn, it doesn't. Things change, new ideas come up, and new tools are developed.
-
-Humanity does adapt to our problems. But like Hans shows, our solutions are very often suppressed by people in power declaring solutions are against the rules out of purely self interest.
-
-These Darth No-aerowings, or Darth Blockbusters, find a happy friend in political and economc ideologies who are like judo and fighting, simply specialists, who think their rules are natural.
-
-The people need to use mixed ideological politics to fight back. You're the only ones who know which problems humanity has and which tools solve it. Be selfish. Not for yourself, but for humanity. You're the fleeing prey. If you don't solve your problems, humanity doesn't evolve.
-
-Open-source are like Hans. people who invent cool new shit, yet they need you to start using their tools and help make even better ones.
-
-Because unless you're holding a tool that fights climate change, or fights autism, or fights drug addicition, or you're not fighting these problems at all. The opportunity digital tools is that we can invent any tool, to fix any problem. From affordable greenhouse gas air samplers, to digital laws that track regulations, we can solve our problems.
-
-Once we through away old rule books Darth Blockbuster uses to keep himself the running cheetah, that teels the people it's wrong to better their own lives.
-
-
+The rebellion I speak of might be different than what automatically comes to mind. It is not a physical revolt. It does not involve rallies, marches, or protests. It’s a rebellion of the mind.  Darth Blockbuster and his Death Star rule book stagnate progress and evolution by retaining old tools and preventing us from using new ones to solve frontline problems efficiently and effectively. We must defy him and destroy it. We must change our ruling philosophy. Only when Darth Blockbuster is gone will the middle class have the breathing space to flourish once again.
 
 # ACT TWO - BLOWING UP THE DEATH STAR
 

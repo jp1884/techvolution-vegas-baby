@@ -1121,3 +1121,51 @@ My only skill that might step me apart to talk about things like ruling philosop
 But it’s not. Like diving in soccer, weight cutting at first was harmless. It slowly crept into the combat sports over decades. But after decades of using it and watching it, it’s as accepted as gloves, shorts, and spit buckets. It took me all of one second to realize weight cutting was a cancer. All from one comment I overheard my gym teacher say years earlier when the class was weighing ourselves. He said in wrestling his teammates used to make weight by dropping to their underwear. They were trying to gain every advantage, as MMA fighters did.
 
 Most people can’t see through culture easily. The reason to weigh fighters is so they’re equal size. Fighting didn’t start with and is not about who’s the best weight-cutter. Yet it exists nonetheless because most people take what’s given. So MMA fans watch fighters nearly dead walk to “make weight” one day before a cage match. I can’t do math in my head, I can’t read music, I can’t be a professional fighter, but I can tell the bullshit from the reason pretty well.
+
+## Summary
+
+We've come quite a way in the story so far. So let's take a minute and recap what we need to know. I'm going do this with three stories.
+
+The first is from a BBC Earth documentary. Most people know lions hunt in prides and take down large animals with teamwork while cheetahs use pure speed to run down small prey by themselves. The BBC documentary showed some cheetah's have learned to hunt in groups. Like the audience, their prey, particularly ostrich's, are surprised by the new development. The ostrich's pay with their lives because they haven't adapted. The moral of the story is either the ostrich's will learn or slowly die off.
+
+Onto the next story. Race car driving use to be extremely dangerous. In the 1940's and 50's cars were blazingly fast but incredibly dangerous because nobody knew how to keep them on the road. Centre of gravities were high and the cars would often spin out of control. The 1955 Le Mans disaster alone killed 83 spectactors and one driver. The disaster got car racing banned in several countries.
+
+In 1956 a race car driver and engineer named Michael May thought of a solution. He put a giant wing on top of his Porsche race car. It created huge downforce, giving his car far more grip to stay on the road. He beat all other Porchses on its first race with a car that was much safer. Seemed like a win win.
+
+Except Porche's factory team got Michael's innovation declared against the rules. It wasn't until 1963 when another driver, Jim Hall, used the wing in his car and won that year's Le Mans race that people retought of the race wing. Quickly all manufacturers went back to the drawing board to redesign their cars to get downforce. Many cars mimic the look today with "spoilers".
+
+Now for the last story. Unfortunately, humans have always fought each other. So much so we've developed many combat systems for hand to hand fights. Karate, kickboxing, wrestling, jiu-jitsu, judo, and boxing being among the most common today. Each of these disciplines use the same human body, but teach certain techniques like punching or choke-holds to defeat their opponents. When competing each discipline creates rules that say only their techniques are allowed; there's no kicking in a boxing match for example.
+
+In the early 1990's the fight community started to ask whose system system was best: would a boxer beat a kickboxer? What would happen if a wrestler fought a karate guy? What these people were asking is what if we threw away the rule book and just fought a fight.
+
+On reflection, it seems funny that this was an original idea. But before the 1990's people just assumed boxers or wrestlers weren't allowed to fight outside their rulebook in a real fight. Fighters were supposed to be ideological loyal and pure to their discipline, even if getting their ass kicked.
+
+So the fight community held many "no rules" tournaments; the most popular being called the Ultimate Fighting Championship. After several years these tournaments found their answer. No system was the best. Or better put, all systems were. Meaning the best fighters were ones who trained all disciplines and used whatever technique they thought would defeat their opponent based on the exact moment they were fighting them. A large toolbox of techniques and the open mind to adapt as fast as possible proved to be the best system.
+
+This realization was the start of Mixed Martial Arts (MMA). MMA fighters will beat any other fighter in a streetfight because while MMA has some rules (no headbuts, eyepokes, low blows) MMA mostly closely mimicks a true fight. Yet if you want to learn to punch, a boxer will do it better than a MMA fighter. Same for a choke-hold, a MMA fighter knows his stuff, but a jiu-jitsu teacher is still the specialist. So MMA can't exist alone. It feeds off of specialities.
+
+Here's what we should take from these three stories. The middle-class has many systematic problems that keep getting worse. Climate change, road traffic, rising cost of living, consumer debt, and so forth. Today we often decide our politician based on their "red", "blue", "green" or whatever ideology. And this is why we're getting our asses kicked.
+
+Because we believe in one ideology, we accept the excuses of politicians and their ideological marching bands when we ask why middle-class problems are getting solved when they said "it's the other color's fault for breaking the rules". Basically our politicians say the other side broke the rules by inhibiting tax cuts, green regulations, or whatever ideological solution they wanted to use.
+
+Like I said above. All ideologies were invented when tools were so limited only one person could have their hand on the power station, or telecommunications system. Thus colors fought to regulate it according to their particular ideology.
+
+But with the digital revolution, tools are widespread. So we need to spread them, not fight over them.
+
+Yet real life has no rules. Ideologies are like fighting disciplines. Merely specialists, but not the answer to every problem. Listening to excuses let's politicians off the hook. Because we the people are not electing an ideology. We're electing a problem-solver to fight on our behalf. What techniques they use to solve a problem shouldn't matter anymore than what techniques a MMA fighter uses to win a fight.
+
+Now, this gets especially bad not only do we let politicians off the hook. We let them work with Darth Blockbuster. Because natural problem-solvers like Michael May keep inventing tools to solve our problems. When the Darth Blockbusters want to fight back, they find a find a happy friend in political and economc ideologies. See when Darth Blockbuster needs to find a rule, he can easily whisper in the ear of an ideologue that the new tool "is anti-red" and thus dangerous to society.
+
+By letting our politicians off the hook by believing in their disciplines, we let Darth Blockbuster piggy-back on these same excuses.
+
+The people need to adapt. Because Nature doens't care about the rule book. We're the ones on the frontline suffering with unsolved problems. Thus to mimick Nature, we should use mixed ideological politics. Meaning, we should be like MMA fighters and choose whichever disciplines best solves our problems.
+
+We don't have to forget and leave all our ideologies behind. We have to recognise we're in a no rules fight. Blue, red, green can be specialists, yet that's all they are. Simply options. We don't have to use them. But if someone else does they aren't breaking the rules, they're simply using what speciality they think is best.
+
+The important thing is the problem. Is it solved or not. And Stargazer, you're problems are the only ones that matter. Be selfish. Not for yourself, but for humanity. You're the fleeing prey. If you don't solve your problems, humanity doesn't evolve.
+
+Open-source are like Michael May. They loved to invent invent cool new shit, yet they keep getting blocked by self-entitled antagonists.
+
+And the ultimate lesson is this. With mixed ideological politics, we should only care about what tool we're holding. Tools matter not ideologies. So if you want to fight climate change, or government waste, or dirty oceans if you're not fighting with a tool you're holding in your own hand, you're not fighting them at all.
+
+The opportunity digital tools is that we can invent any tool, to fix any problem. From affordable greenhouse gas air samplers, to digital laws that track regulations, we can solve our problems. Once we through away old rule books Darth Blockbuster uses to keep himself the running cheetah, that teels the people it's wrong to better their own lives.
