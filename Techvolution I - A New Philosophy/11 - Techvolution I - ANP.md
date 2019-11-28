@@ -50,7 +50,7 @@ The most dangerous thing right now is ignorance. People don’t know about you o
 
 You in the open-source community don’t march for change. Your digital tools force it. Granted, it’s hard to explain why. We don’t yet understand how our "cyborgology" changes us as we pick up a radio, a smartphone, or a ticket to Mars. That’s why I was so fascinated by your unspoken philosophy. You reject the conventional wisdom to become well-paid gatekeepers because you understand better than anyone the "majic" of new digital tools and thus you want to distribute digital tools to the hands of the people feeling the pain of inaction. You know there’s nobody better placed to help humanity evolve past our problems.
 
-I worked hard to turn your glorious mindset into a new political philosophy which I call Techvolution. It’s custom-made for open-source and digital tools. It works like a web framework for political philosophy. Terms like "Darth Blockbuster," the "Death Star Rulebook," and "Jedi vs. Sith" are like web components that make it easier for people to relate and to ask themselves the biggest political question of our time.
+I worked hard to turn your glorious mindset into a new political philosophy which I call Techvolution. It’s custom-made for open-source and digital tools. It works like a web framework for political philosophy. Terms like "Darth Blockbuster," the "Death Star Rulebook," and "Jedi vs. Sith" are like web components that make it easier for people to relate to their society and to ask themselves the biggest political question of our time.
 
 It’s not the worn-out and drab "Am I for red or blue politics?" Instead, it’s something far more powerful and relevant: "Am I going to step up and use digital tools to transform and vastly improve my society’s way of life?"
 
@@ -251,6 +251,34 @@ History is calling someone to step up now. Climate change, polluted oceans, indi
 You are not alone. There are many like you, myriads of regular people on the frontlines ready to improve their lives and their society’s health. I’m like Obi-Wan Kenobi, Morpheus, or the fairy godmother; merely a guide who exists to teach you how to defeat the villains. So the time is now, Stargazer, to leave the farm and join the rebellion.
 
 The rebellion I speak of might be different than what automatically comes to mind. It is not a physical revolt. It does not involve rallies, marches, or protests. It’s a rebellion of the mind.  Darth Blockbuster and his Death Star rule book stagnate progress and evolution by retaining old tools and preventing us from using new ones to solve frontline problems efficiently and effectively. We must defy him and destroy it. We must change our ruling philosophy. Only when Darth Blockbuster is gone will the middle class have the breathing space to flourish once again.
+
+## Heroes Reach for the Tools
+
+We’ve come quite a way in the story Stargazer. Let’s take a minute and answer some questions you might be thinking.
+
+When a new ruling philosophy comes, that doesn’t mean you throw away all the old stuff. For example, Aristotle’s work, even his science stuff, is still valuable to read. Like his and all other old philosophies, red/blue can still teach us many lessons; it just should not be our ruling philosophy.
+
+Here’s how replacing them with Techvolution looks like using an example from martial arts.
+
+Humanity has many martial arts: karate, kickboxing, wrestling, jiu-jitsu, judo, and boxing. Each of these teach certain techniques like punching or choke-holds. Each also create rules in their competitions so only their techniques are allowed; there’s no kicking in a boxing match for example.
+
+In the early 1990’s the fight community started to ask whose martial art would win a real fight. On reflection, it seems funny that this was an original idea, but before the 1990’s people just assumed boxers or wrestlers weren’t allowed to fight outside their rulebook. Fighters were supposed to be ideologically loyal to their discipline, even if getting their ass kicked in a real fight.
+
+After hosting many “no rules” tournaments the fight community found the best martial art. The answer was none of them; or all of them. Meaning the best fighters were ones who trained all techniques and used the ones they thought would defeat their opponent based on the exact moment they were fighting them. A large toolbox of techniques and an open mind to adapt proved to be the best martial art. This realization was the start of Mixed Martial Arts (MMA) which is so effective its practitioners will defeat any other kind of fighter.
+
+You can think of Techvolution like “mixed philosophical politics”. Like an MMA fighter can learn from a karate teacher, we can still learn from past philosophies. But like karate, past philosophies can’t be the ruling philosophy, because they depend on fake rule books when in truth Nature has none. There are no rules in a street fight, like there are none in Nature, and there should be none that says a person can't use a tool that makes their life easier or more efficient.
+
+And once we concentrate on own personal evolution, we’ll quickly find tools that solve our problems. Here are some today waiting for us today.
+
+Recently, The Bill and Melinda Gates Foundation funded TerraPower, a new nuclear reactor fueled by depleted uranium. Because they could use supercomputers to design it, TerraPower made nuclear power much safer. Should we us it? I don’t know, I’m no expert. But breathing in smog and ejecting greenhouse gases is hardly a good thing. New power generations tools like TerraPower are out there. We should be looking for them ourselves instead of thinking government will for us.
+
+3D printers are like inkjet printers, except they fuse together small particles, and thus can print 3D objects; even ones as complicated as a violin. They’re common in industrial prototyping, yet they could help regular people by printing lost buttons, toy action figures imagined by kids, or hand tools custom designed for our specific needs. Best part, no factories, cargo ships, marketing, or retail stores needed; just print whatever you need when needed. Sadly, most people have never even seen a 3D printer never mind used one. It’s a shame we should fix.
+
+I didn’t draw any of the illustrations you see, I’ve never met the artists who did, or even spoken with them. Instead I used paint.net to edit photos and put them together in design software called Figma. Then I found illustrators on online marketplaces and said “please draw me this”. Within days I had the illustrations I needed. Today anyone can work with experts to write computer code, or design a custom drywall tool. All with no job interviews, management oversight, or upfront cost. Online collaboration is that easy; once we think to look for it.
+
+These are just some of the tools waiting for the middle-class to jump in and use. That’s what Techvolution is. It’s a rebellion inside your mind that says you should be searching for new and better tools because life isn’t a red/blue ideological fight any more than a street fight is a boxing match.
+
+Yet we’ve all seen antagonists do their thing and disallow telecommuting, force workers to use old tools they understand, or waste hours on garbage meetings. Until we start to call out “Darth Blockbuster” middle-class problems will pile-up. In short Stargazer, the tools we need to prosper are out there. To use them we must blow the Death Star. So, let’s go have some fun.
 
 # ACT TWO - BLOWING UP THE DEATH STAR
 
