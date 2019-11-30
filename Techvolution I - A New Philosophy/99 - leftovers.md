@@ -1179,12 +1179,51 @@ Ideologues often scream out "socialist" or "intolerant" to re-inforce their beli
 
 To win the war Stagazer, we have to blow the Death Star.
 
+## The Power of Philosophies Is Either to Hold Us Back or Push Us Forward
+
+Why must philosophies be revamped? Let me explain with a little more history. Our philosophies can only be as good as what we can prove. Of course, philosophers can debate and argue all day long about whatever they want; they aren’t on the frontline trying to make a living as a fisherman, seamstress, or welder. The people need a ruling philosophy to organize their daily lives, and for everyone to believe in a philosophy, it must make sense to everyone and help them live a better life.
+
+Thus, when in ancient Greece Aristarchus of Samos said the Earth moved around the Sun nobody believed him. Instead they believed Aristotle who said the Earth stood still. A moving Sun made more sense to people, because for one, it looks like it moves, and two if the Earth moves, why can’t we see the stars move their position in the sky. The answer that they’re extremely far away is impossible to see with the eye, and nearly impossible to imagine. Thus, the average person sided with Aristotle because he made more sense. Especially because back then people navigated by the stars, and it’s easier to assume the Earth is stationary when doing so. Even today’s nautical maps are based on a motionless Earth.
+
+Of course, everything changed when Galileo invented the telescope during the Renaissance. Although since rich and powerful were followers of Aristotle and refused to look threw it, the telescope let everyone else see, and therefore believe, the Earth moves. As the telescope got better and cheaper, society’s ruling philosophy switched from the “geo-centrism” of Aristotle, to the “helio-centrism” of Aristarchus.
+
+You might scoff at people who refused to accept the Earth moves. But that’s the difference new tools have on our ruling philosophy. Whatever philosophy makes sense to most people gets their support; especially when it also improves their lives. Helio-centrism made more sense to telescope empowered people, and it improved daily life with better calendars, mathematics, and physics. Thus, the people used it as their ruling philosophy. The lesson is we update our philosophy to the capabilities of new tools.
+
+In 2019, we have the same problem. The telescope showed us a dazzling universe. Now we’re no longer happy to just look at it. We want to explore it. But space travel isn’t just cool; it’s a vital next step in humanity’s evolution. Reaching for the stars means better satellites, worldwide internet accessibility, and ensuring intelligent life doesn’t put all its eggs in our one earthly basket. Getting off the planet requires an affordable lift-off.
+
+It was private companies like SpaceX and Blue Origin (funded by a few rich guys) who answered the call and constructed some relatively cheap rockets. To make them cheap enough to change the course of human history, these rockets also had to be reusable. This was no small feat, especially for SpaceX; their Falcon 9 rockets were seven stories high and would have to launch into space, land back on Earth, and relaunch all over again.
+
+SpaceX tried several times and kept failing. But on December 22nd, 2015, they did it! They succeeded in the incredible achievement of landing a rocket. This was hailed as one of humanity’s greatest milestones by SpaceX’s fans who realize the importance of advancing technology. But many people, especially politicians, didn’t care.
+
+When you’re obsessed with old philosophies, you’re also confined to its old tools and lived within its old narratives. Today the red/blue philosophy obsesses over tax cuts, government regulations, and media soundbites because those are the tools their philosophy says to fight over. New and super-powerful technologies like SpaceX are just a novelty act that fall beyond the practitioners of old philosophies comprehension and comfort zones. Like the telescope was to the followers of Aristotle.
+
+That’s the power of a ruling philosophy. It filters out the good and bad for people in everyday life. But we need to update the ruling philosophy when new tools change how everyday people live their life. Today, we need a new philosophy that harnesses our new innovative and powerful digital tools so we can improve life on, and beyond, Earth.
+
+## Terms of Reading
+
+There are none. I don't know which license to use yet, but it'll be an open-source one. I don't have any trackers or website counters. My way to tell if this book is being read, is if our politics transforms to be about who contributed to fighting climate change or increasing social capital more as tracked and verified by open-source software, instead of yelling matches and sob stories about whose to blame for humanity's problems.
+
+If I helped bring about that transformation, then I'm happy.
+
+I would ask to read with an open mind. The future isn't going to bring along all of our current philosophies, ideals, opinions and gripes about the past. There's isn't room to pack things like "colonialization is to blame", or "those damn communists ruined everything with the New Deal". Let our descendants debate those questions if they're so important.
+I'm more worried about packing our descendants a better planet to take into the future. That means people today are going to be, one way or another, shedding lots of baggage. People only think it's important to pack all our histories, languages, customs, and traditions because we don't realize our power to decide what we should bring.
+
+If you're loyal to your way of life, that's fine, then show how it contributed more to earn your loyalty to get an outsiders respect.
+
+All of us are too use to taking the way of life we've been given. Yet there's no monarchs, tyrants, devils to blame for our problems anymore. Digital tools gives the people the power to decide our fates. And with power comes responsibility because we can't blame the past for the world we give the future.
+
+So there's no terms to reading. No number is high enough to compensate for the better future we threw away unless Techvolution, or something similar or better, replaces our ruling philosophy.
+
+
 ## Ask
 
-I need a favour. I've spent some time writing a book and need some feedback. I've already finished it, but it's taking me a lot more time (it's why i've been kinda absent lately) to polish it than I thought it would. So before I do anymore, I'd like to know if it's worth it.
+Hi ya'll,
 
-It's on politics and technology and written for regular people. I worked hard to make it readable and enjoyable to read. I'm just not sure if it's good enough that people will actually read it.
+I need a favour. I've spent some time writing a book and need some feedback. I've already finished it, but it's taking a lot more time (it's why i've been kinda absent lately) to polish it than I thought it would. So before I do anymore, I'd like to know if it's worth it.
+
+It's about how we can make empower the middle-class to make the cost of living more affordable. I worked hard to make it readable, I'm just not sure if it's good enough that people will actually read it.
 
 The sample is about 20 pages, so if you're up for it, I'd appreciate some help. DM me and I'll send a link.
 
 Cheers!
+
