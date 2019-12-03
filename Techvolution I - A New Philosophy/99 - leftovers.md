@@ -1219,11 +1219,11 @@ So there's no terms to reading. No number is high enough to compensate for the b
 
 Hi ya'll,
 
-I need a favour. I've spent some time writing a book and need some feedback. I've already finished it, but it's taking a lot more time (it's why i've been kinda absent lately) to polish it than I thought it would. So before I do anymore, I'd like to know if it's worth it.
+I could use a favour. I've spent some time writing a book and need some feedback. I've already finished it, but it's taking more time (it's why I’ve been kinda absent lately) to polish it than I thought it would. So, before I do anymore, I'd like to know if it's worth it.
 
-It's about how we can make empower the middle-class to make the cost of living more affordable. I worked hard to make it readable, I'm just not sure if it's good enough that people will actually read it.
+It's about technology and politics, and how the middle-class can get a better deal when dealing with government and businesses. I worked hard to make it readable, I'm just not sure if it's good enough that people will actually read it.
 
-The sample is about 20 pages, so if you're up for it, I'd appreciate some help. DM me and I'll send a link.
+The sample is about 25 pages, so if you're up for it, I'd appreciate some help. DM me and I'll send a link.
 
 Cheers!
 
