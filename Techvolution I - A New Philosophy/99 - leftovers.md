@@ -1,19 +1,17 @@
 
 # Magic Connections Make Stories
 
-First dates are amazing. Even the generic dinner and movie ones are wondrous. Sitting there in your nice sweater, eating a medium steak, sipping water, and across from you is a stem-cell. What the fuck? Yep. Stem-cell. She, (or he), could be your Juliette.  This moment might start a story where in a few days, you might pay your soul to prevent even a frown on this stranger's heavenly face.  Such is the power of romances.
+First dates are amazing. Even the generic dinner and movie ones are wondrous. Sitting there in your nice sweater, eating a medium steak, sipping water, and across from you is a stem-cell. What the fuck? Yep. Stem-cell. She, (or he), could be your Juliette. This moment might start a story where in a few days, you might pay your soul to prevent even a frown on this stranger's heavenly face. Such is the power of romances.
 
-Or this moment might end with a five year divorce with true accusations of infidelity where you eat beans for breakfast, bitters for lunch and dinner, and see your kids once a week. Your own offspring thinking you're a stranger because of this demon.  Such is the power of tragedies.
+Or this moment might end with a five year divorce with true accusations of infidelity where you eat beans for breakfast, bitters for lunch and dinner, and see your kids once a week. Your own offspring thinking you're a stranger because of this demon. Such is the power of tragedies.
 
-In truth, most stories are somewhere in between two extremes; but that's beside the point. The point is every story starts with a connection.  If human life is a tapestry of stories, both grand and small, we have to understand how we make and keep people connected to their stories.
+In truth, most stories are somewhere in between two extremes; but that's beside the point. The point is every story starts with a connection. If human life is a tapestry of stories, both grand and small, we have to understand how we make and keep people connected to their stories.
 
-It's question of reason. A connection is made when a story is on the borderline. One that is unexpected enough to be interesting, yet reasonable enough to be understood.  People, viewers, readers, don't have to be conscious of every element. A good story takes a person over.  That's why we often loose ourselves to the romance.  Of course people want to stay in a happy story, and exit an unhappy one.
+It's question of reason. A connection is made when a story is on the borderline. One that is unexpected enough to be interesting, yet reasonable enough to be understood. People, viewers, readers, don't have to be conscious of every element. A good story takes a person over. That's why we often loose ourselves to the romance or the tragies.
 
 So to get someone connected to a story, we must make them happy. Easy enough. Everyone likes happiness.
 
-That's easy to know, hard to achieve. Your Juliette could think your a loser.  Your Romeo might be ignoring her text messages. The point is we can't make happiness, we can't force a connection. Happiness is a magical connection between you, and a person, product, achievement, leader, or society, that forces a person to stay inside a story.
-
-People want to leave bad stories, live horrors, tragedies, and dramas, because it is achieving little. Yet we want to stay inside good stories; romances, comedies, adventures because of a magical connection that takes there willpower and harnesses it to fuel a good story.
+That's easy to know, hard to achieve. Your Juliette could think your a loser. Your Romeo might be ignoring your text messages. The point is we can't make happiness, we can't force a connection. Happiness is a magical connection between you, and a person, product, achievement, leader, or society, that forces a person to stay inside a story.
 
 Happy stories are magical. So the question is, are you happy with yours?
 
@@ -62,13 +60,13 @@ Our ancestors felt their ruling philosophy had to go. They felt it in their live
 
 What about you now, in your life. Is it obvious to you, as a character in the story, why you live the life you do. Let's find out how can you might tell.
 
-Your spend most of your life going to, sitting at your place of work. When you're there, do you feel like you're helping society?  Do you see the reason for spending your life at work?  Or do you see chains keeping you from a better life.  That question started the French Revolution.  And now you need to answer it before we have our own.
+Your spend most of your life going to, sitting at your place of work. When you're there, do you feel like you're helping society?  Do you see the reason for spending your life at work?  Or do you see chains keeping you from a better life. That question started the French Revolution. And now you need to answer it before we have our own.
 
 ## Think Carefully
 
-When you're asked are you happy, please don't think things will change or get better.  No matter what happens, today's nobility will not change themselves.  You can try to sell modern technology to a old bureaucracy or corporation to see it.  But here's a easier, and more drastic way to tell just how convinced we all get into our stories.
+When you're asked are you happy, please don't think things will change or get better. No matter what happens, today's nobility will not change themselves. You can try to sell modern technology to a old bureaucracy or corporation to see it. But here's a easier, and more drastic way to tell just how convinced we all get into our stories.
 
-You read about King Charles I. The king who died rather than apologize. We're using King Charles to showcase how nobles couldn't understand any objections to their rule because they didn't understand their role in the story of life had a natural conclusion.  
+You read about King Charles I. The king who died rather than apologize. We're using King Charles to showcase how nobles couldn't understand any objections to their rule because they didn't understand their role in the story of life had a natural conclusion. 
 
 Meaning, once peace and security returned to western Europe, the nobility's storyline ended. Thus, the nobility should have proactively done what Rousseau said, and return to being equal members of society. They didn't of course. And history used many violent revolutions to right that wrong.
 
@@ -76,9 +74,9 @@ Charles had a speech impediment. Often called a stammer or studder. No one then,
 
 Hello, my ~~name~~ I go by John-ne. I wa-want to help ~~master~~ destroy revolutions. I've been ~~writ~~ trying to write this book for ~~about~~ a ~~year~~ six months...
 
-The prospect of talking, accept to yourself and a dog, causes huge anxiety as you can imagine.  _The King's Speech_ show it all well enough.
+The prospect of talking, accept to yourself and a dog, causes huge anxiety as you can imagine. _The King's Speech_ show it all well enough.
 
-I know this because luckily enough (kidding) I have the same affliction as King Charles. Ironically it was the reason I got a job in a car insurance claim department. After a Vice President at an old company secretly told my supervisor I wasn't allowed to talk to customers, for fear of embarrasing the company, I was like shit I guess I don't have this damn thing under control.  I wasn't even that mad about it (although I was that they were not upfront). I never told anyone I had the impediment, so it obviously was an problem.
+I know this because luckily enough (kidding) I have the same affliction as King Charles. Ironically it was the reason I got a job in a car insurance claim department. After a Vice President at an old company secretly told my supervisor I wasn't allowed to talk to customers, for fear of embarrasing the company, I was like shit I guess I don't have this damn thing under control. I wasn't even that mad about it (although I was that they were not upfront). I never told anyone I had the impediment, so it obviously was an problem.
 
 So fuck it. Jump into the deep end and sick or swim. Car insurance claim call-centre was like the Olympic trails for a stutterer, so I jumped in. Huge emotions, all day phone calls, customer service expectations, no "outs" like swear words or wonky behavior to hide behind.
 
@@ -92,7 +90,7 @@ Yet, when on trial for his life, Charles did not stutter. Oliver Cromwell, a Nap
 
 Charles spoke clearly because he believed in something. He was wrong, dead wrong. Pun intended. His and his peers ignorance caused so much destruction we'll be studying it for centuries. Yet he still believed in making a better society. He died believing in it while speaking his last words without a hint of a stutter.
 
-So when you answer the question, are you happy today, imagine yourself, and your kids, living like today for the rest of their lives.  Otherwise, the ruling philosophy will never change until one day, we hit a revolution.
+So when you answer the question, are you happy today, imagine yourself, and your kids, living like today for the rest of their lives. Otherwise, the ruling philosophy will never change until one day, we hit a revolution.
 
 ===
 
@@ -163,7 +161,7 @@ You can't say the past is evil, while being like Sophie and accepting the presen
 
 One day, many workers from another department were asked to visit a hotel. Hundreds of people filtered in, and were directed to the conference room. Actually two conference rooms; either #101 or #102. Each room had water bottles and snacks. Yet why two rooms? Friends in each were texting back and forth, comparing, trying to spot the differences that might reveal the reason for their divide.
 
-About 45 minutes later, Human Resources representatives appear. One group in each room. One says "you all have jobs", while the other says "as we all know, technology is advancing greatly, and this inevitably means automating lots of jobs. Like Netflix, we all love Netflix don't we, well unfortunately...".  A mass firing of front-line workers.
+About 45 minutes later, Human Resources representatives appear. One group in each room. One says "you all have jobs", while the other says "as we all know, technology is advancing greatly, and this inevitably means automating lots of jobs. Like Netflix, we all love Netflix don't we, well unfortunately...". A mass firing of front-line workers.
 
 It hit so hard, we adjusters felt it. Especially since it kept happening. The supervisors felt the bern. The SNAP-SNAP-SNAP-SNAP got a little faster. Everyone got extra hooked on being sure they'd pay the rent.
 
@@ -607,7 +605,7 @@ We care so much in _Romeo and Juliet_ and _Star Wars_, because either young love
 
 ## Frontline
 
-Our world's in a bad state. And it wont get better until we fight back.  The view from the frontline is the same. That's why I'm (grudingly) grateful a nagging stutter made me too shy to leave the frontline. In retrospect, it's a great place to see pain from so many different places.
+Our world's in a bad state. And it wont get better until we fight back. The view from the frontline is the same. That's why I'm (grudingly) grateful a nagging stutter made me too shy to leave the frontline. In retrospect, it's a great place to see pain from so many different places.
 
 The people are disadvantaged. We deal with problems, from small pots on our roads, to waiting on hold with our health insurance. Workers expect to get outsourced by bosses so busy looking up to the prince, they don't even know what the job at the bottom is.
 
@@ -1213,6 +1211,61 @@ If you're loyal to your way of life, that's fine, then show how it contributed m
 All of us are too use to taking the way of life we've been given. Yet there's no monarchs, tyrants, devils to blame for our problems anymore. Digital tools gives the people the power to decide our fates. And with power comes responsibility because we can't blame the past for the world we give the future.
 
 So there's no terms to reading. No number is high enough to compensate for the better future we threw away unless Techvolution, or something similar or better, replaces our ruling philosophy.
+
+## Graphs
+
+Moore's Law - transistor count
+<iframe src="https://ourworldindata.org/grapher/transistors-per-microprocessor?time=1971..2017" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Moore's Law - Transistor's power electronics. They amount in a microchip can roughly double every two years. Although this will be ending soon, it's still given us lightsabres waiting to be turned on with Techvolution.
+
+Red Tape monitor
+![Red Tape Monitor](/img\diagrams\GWRegStudies-PagesPublishedintheCFR-6.12.19.png)
+The Code of Federal Regulations is the rule book of the federal government's department and agencies. The number of total pages published provides a sense of the volume of existing regulations with which American businesses, workers, consumers, and other regulated entities must comply.
+
+Social capital - USA
+<iframe src="https://ourworldindata.org/grapher/trust-attitudes-in-the-us?time=1972..2014" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Social capital is the trust people have in each other. The more people socialize, the more trust they'll have with each other. It's often called "Bowling Alone". Technology has distracted us for sure, but our suburban, 9-5, car lifestyle is by far more responsible.
+
+Blue red hatred - Congress
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tEczkhfLwqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Since the 1970's red and blue increasingly hate each other. Note, the red and blue color code for progressives and conservaties changes in USA, Canada, Austrialia, United Kingdom, but the trend is the same.
+
+US - trust in DC
+<iframe src="https://ourworldindata.org/grapher/public-trust-in-government?time=1958..2015" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Attached to old philosophies, government is inable to solve frontline problems. The public's trust in their own government declines as a result.
+
+Miles driven
+![Miles driven](/img\diagrams\US-VMT-per-capita.png)
+The number of miles Americans must drive each year.
+
+CO2 - 1801
+<iframe src="https://ourworldindata.org/grapher/co2-concentration-long-term?time=1801..2018" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## Things Won't Get Better, Until
+
+Most of our problems started in the 1970s for a reason. That’s when protagonists created digital tools, and Darth Blockbuster showed up with his Death Star to keep our Woodstock era way of life unchanged. Despite a plethora of new tools, the "American Dream" is still to live in a post-World War II baby boomer suburb.
+
+I'm going to keep repeating this because it's so easy to forget; better tools are out there. We'd majically connect with them to solve our problems if we didn't believe in old philosophies that said their old tools like gas cars and The Oscars were our (supposed) culture, or if new tools weren't against "the rules".
+
+Look at education. We kill ourselves to be admitted into colleges and universities. We use up years of our young lives wrapped in coursework. Our politics uses up so much attention with funding, subsidies, loan agreements, teacher strikes, school shutdowns. And yet at after graduation so many media studies, English, and yes even political science grads never look at their courework again.
+
+All the while Wikipedia, YouTube, Khan Academy, Udemy, Skillshare, Curiosity Stream, Brilliant, Project Gutenberg, The Great Courses, do wonderful jobs while costing a tiny fraction of formal education. Yet, we don’t teach kids to read or update Wikipedia in schools. We don’t track student progress in Khan Academy’s micro-lessons. We don’t recognize "degrees" from Udemy, or YouTube, even though most computer programmers and designers learn far more there than in any college classroom. Yet we assume a stamp of university "graduate" is like getting a perpetual ticket to the ball as a member of some sort of royalty.
+
+Those balls only last so long. Eventually the tools we use have to help us live a more efficient life. I used digital tools to write this book and never once looked back at my university lecture notes. Not out of malice, there's much knowledge there, but reading through notes scribbled on paper takes too long, so despite spending all those years writing, that knowledge is slowly fading away.
+
+This mix match between available tools, and the ones we use in everyday life is a major problem. We aren't adapting but stagnating. Like the poor polar bears unable to foresee the Artic's ice decline, the more we wait to adapt, the more time we'll have to make up until we're basically be like polar bears trying to live in the Amazon.
+
+Our society suffers keeping the old philosophies of the baby-boomer suburban dream alive. Despite way too much carbon in the atmosphere, gridlocked roads, housing bubble bursts, massive student debt, our politics keeps us using gas cars, mass produced homes with no solar panels, super-expensive college education, and very confusing health insurance. Our entire frickin climate is changing because our ruling philosophy is not.
+
+Things like middle class quality of life, political cooperation, and climate change, won’t get better until the extras join the protagonists, step-up to the antagonists, and freely use digital tools to solve frontline problems. To change our cyborgology, we need Techvolution. Without it, we have a mix-match using tools with basically be polar bears trying to survive in the Amazon.
+
+## IDK random
+
+Digital tools were a totally new tool. One that the ruling philosophy didn't know how to handle. It was in the 1970’s Darth Blockbuster showed up and started making his Death Star.
+
+Writing contracts nobody can understand, regulations nobody can find, and enforced politically correctness nobody likes. Despite a three million perfect increase in computer power, our society has more traffic on our roads, we drive more miles every year, we see our friends and families less and less, we have less trust in government every year, and our carbon emissions are so high the planet is actually burning.
+
+All of this is because we can't adapt solutions to these problems because it's against the rules. Our old philosophies, who ignore the possibilies of digital tools, blame each other. Look at this graphic below and notice how the divine between red and blue started in the the 1970's, and as our problems multiply, has only gotten worse.
 
 
 ## Ask
