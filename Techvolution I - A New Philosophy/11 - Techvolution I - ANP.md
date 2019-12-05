@@ -6,7 +6,7 @@ December 2019
 
 ## Backpage
 
-Are you happy? On the outside the middle-class has flashy products and stable politics. On the inside ever more Westerners deal with stagnate wages, crushing debts, increasing inequality, antisocial behavior, political hatred, unhappy lifestyles. We have the freedom to vote any ideology, and we've tried them all, yet our problems keep increasing. In this book I argue the middle-class needs a totally new philosophy, one that says we either steps up to solve our own problems, or suffer the unknowns of a degenerating society.
+Are you happy? On the outside Westerners have flashy products, full employment, and stable politics. On the inside our middle-class deals with stagnate wages, crushing debts, increasing inequality, antisocial behavior, political hatred, unhappy rat race lifestyles, climate change. We have the freedom to vote any ideology, and we've tried them all, yet our problems keep increasing. In this book I argue the middle-class needs a totally new philosophy, one that says we either step up to solve our own problems, or keep suffering the unknowns of a degenerating society.
 
 ## Dedication
 
@@ -407,11 +407,11 @@ Frederick Douglass was a true Jedi Master. His great bravery, persistence, and i
 
 Sophia taught Douglass to read. She wasn’t told to. She did it because we love teaching our chosen tools, whether they're soccer balls, new apps, or how to tape drywall. It’s as natural to spread our tools, as it is for a species to propagate.
 
-Teaching is more meaningful than tricks. When a magician makes a playing card disappear, we smile in awe and childish wonder. That’s cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with typing, building, or reading, they’ve similarly performed something awesome, but it’s not a temporary trick to be enjoyed in the moment; they’ve upgraded someone’s cyborgology and effectively created a new and improved person. This makes us smile for a long time. Majic is Nature’s long-lasting dopamine fix.
+Teaching and learning is very meaningful because it's the moment of creation. When a magician makes a playing card disappear, we smile in awe and childish wonder. That’s cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with typing, building, or reading, they’ve similarly performed something awesome, but it’s not a temporary trick to be enjoyed in the moment; they’ve upgraded someone’s cyborgology and effectively created a new and improved person. This makes us smile for a long time. Creation is majic, majic is Nature’s long-lasting dopamine fix.
 
 Yet human made rules _sometimes_ say upgrading to a new tool is wrong. Upgrades aren’t "allowed"—and this decree may be issued either directly or indirectly. Medieval parishioners couldn’t read a science book, French peasant farmers couldn’t have a musket, a 1990’s kid couldn’t download a digital song. Today millions of tired mothers can’t telecommute.
 
-Rather... they technoical can, they all have high-speed internet and home computers, but they don’t.
+Rather... they can, they all have high-speed internet and home computers, but they don’t.
 
 The question is: why not?
 
@@ -421,67 +421,51 @@ Majic is thus our best judge of the rules. Majic feels right. It naturally makes
 
 So, when you’re teaching or learning a new tool and someone steps in your way with a rule, ask yourself if you feel wonderfully inspiring majic, and if you do, ask the rule maker why he doesn’t. Perhaps there’s a good reason. But keep Sophia in mind. Performing majic made her feel good, while following the rules only made her feel safe. The Death Star operates by fear.
 
-And safety is fleeting Stargazer. No ruling philosophy lasts forever, thus all rule books eventually expire. Majic never will. It always was, and always will be, in our souls. It’s how we naturally test our rule book. Electricity, the microchip, the iPhone were all made by people who broke the rules. Yet we celebrate their innovators today because they invented new tools that let us feel and spread majic.
+And safety is fleeting Stargazer. No ruling philosophy lasts forever, thus all rule books eventually expire. Majic never will. It always was, and always will be, in our souls. It’s how we naturally test our rule book. Electricity, the microchip, the iPhone were all made by people who broke the rules. Yet we celebrate their innovators today because they invented new tools that let us feel and spread majic today.
 
-Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers and orators his start, yet she lived a miserable life watching him achieve greatness because she broke the rules. Unhappiness is the inevitable punishment to everyone who ignores the joy of learning or helping others learn new tools that's in all our souls.
-
-## Soulful Connections
-
-I think first dates are amazing. Even the generic dinner and movie ones are wondrous. Sitting there in your nice sweater, eating a medium steak, sipping water, and across from you is a stem-cell. What the fuck? Yep I said stem-cell. Because he, (or she), could be your Romeo or Juliette. In a few days, you might use your soul to prevent even a frown on this stranger's heavenly face. Such is the power of romances.
-
-Watch out though. Stem-cells can become anything. This date moment might in fact end with a five year divorce with true accusations of infidelity where you eat beans for breakfast, bitters for lunch and dinner, and see your kids once a week; your own offspring thinking you're a stranger because of this demon. Such is the power of tragedies.
-
-In truth, most stories are somewhere in between these two extremes; but that's beside the point. The point is every story starts with a connection. If human life is a tapestry of stories, both grand and small, we have to understand how we make and keep people connected to their stories.
-
-It's question of reason. A connection is made when a story is on the borderline. One that is unexpected enough to be interesting, yet reasonable enough to be understood. People, viewers, readers, don't have to be conscious of every element. A good story takes a person over. That's why we often loose ourselves to a romance or a tragedy.
-
-So to get someone connected to a story, we must make them happy. Easy enough. Everyone likes happiness.
-
-That's easy to know, hard to achieve. Your Juliette could think your a loser. Your Romeo might be ignoring your text messages. The point is we can't make happiness, we can't force a connection. Happiness is a magical connection between you, and a person, product, achievement, leader, or society, that forces a person to stay inside a story.
-
-Happy stories are magical. So the question is, are you happy with yours?
-
-I don't ask because I care--I do by the way-- I ask because it's important. Evolution is entirely natural. There doesn't need to be a rule book because every lifeform knows the rules. Survive or die, and do it any which way you want. Yet the Death Star is a rule book, that changes per year, location, and however Darth Blockbuster feels like. I think that's why captive animals need cages, they miss the rationality of life with no artificial rule book.
+Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers and orators his start, yet she lived a miserable life watching him achieve greatness because she broke the rules. Unhappiness is the inevitable punishment to everyone who ignores the joy of learning, or helping others learn, new tools that sits inside in all our souls.
 
 ## A World Without Majic
 
-Stargazer, let's recap your mission. We have to fight for Techvolution, first and foremost in your head. Techvolution says the most important political right and responsibility is to use digital tools to solve your frontline problems without anyone getting in your way.
+Stargazer, let's recap your mission. We have to fight for Techvolution, first and foremost in your head. Techvolution says the most important political right and responsibility is to use digital tools to solve your frontline problems without anyone getting in your way. The open-source community gives us the ability to make our own products.
 
-Because humanity isn't perfect, we need to make rules from the ruling philosophy to organize society. People with the power to make the rules, sometimes use their power to make-up rules that benefit their self-interest. We call this rule book the Death Star because it gets in the way of natural evolution.
+Because humanity isn't perfect, we need to make rules from the ruling philosophy to organize society. People with the power to make the rules, sometimes use their power to make-up rules that benefit their self-interest, for which we call them Darth Blockbuster, and we call his fake rule book the Death Star because it gets in the way of humanity's natural evolution.
 
-For the middle-class to prosper once again, we must blow up this Death Star. We got a test to find it when we learned majic is the natural yearning to learn and teach how to use new tools and add them to our cyborgology. If we feel this majic, we can be sure no rule in its way is just, and therefore it must be the Death Star.
+For the middle-class to prosper once again, we must blow up this Death Star. To find it we learned about majic; which is the natural yearning to learn and teach new tools and add them to our cyborgology. If we feel majic, we know no rule in its way is just, and therefore must be part of the Death Star we're out to destroy.
 
-Therefore the Death Star, and your happiness are inversely related. The happy you are, the less of a Death Star there is. Your happiness because life with a Death Star is a rational one, like it is for some many lifeforms in Nature.
+Therefore the Death Star and your happiness are opposites. The unhappier you are, the less humanity is adapting, and therefore the more of a Death Star there must be around you. The happier you are, the less of a Death Star there is, because humanity is evolving. Your happiness isn't the flashy products, awards, or recognition, those are cool but only give temporary smiles. You happiness is the freedom to adapt. Basically life without a Death Star is a rational one, where stresses are practicl problems all lifeforms understand like finding water supplies or shelter. With the Death Star life is being forced to do stupid things like commuting two hours to work, or pretend to be interested in a five hour garbage meeting.
 
-What do we do when we find it? Old philosophies say to march, protest, or fight a war. We thankfully don't need to do that. We can simply use digital tools. Because nobody owns them, we can make them as we need, and hence skip the rules and majically connect with the tools we need.
-
-In short, you since you're on the frontline, your happiness is like a homing beacon for Luke Skywalker's torpedo.
-
-Let's try to understand the size of this Death Star before we go off fighting it.
+So that's our mission then is to destroy today's Death Star. How big do you think it is?
 
 ## The Size of the Death Star
 
-The world isn't one big Death Star. The filter of a for-profit news program can make it seem like it is. Disregard that bullshut. There's lots of good news. In most of the world, it’s safer to live now than in any other point in human history. The amount of us dying violent deaths has consistently decreased.
+The world isn't one big Death Star. That's so important to realize. We live in a good time with mostly good things happning. Living a rat race and watching infotainment can make it seem like it is. Disregard that bullshit. There's lots of good news.
 
-Think about this, in the Stone Age, about 10-20% of people died violently, most often by murder. In Rome’s peak civilization it was around 2-5%. In the Dark Ages it was above 5%. But by the 18th century, when the Industrial Revolution started, it went well under 5%. Now, less than 1% of us die violently. All those figures are worldwide and include wars. Add poverty reduction is similarly down too. In 1990 36% of the world lived in extreme poverty. In 2015 it was 9.9%. In similar trends, we're eliminating illiteracy, diseases, and hunger throughout the world.
+Think about this, in most of the world, it’s safer to live now than in any other point in human history. The amount of us dying violent deaths has consistently decreased. That's a big deal. In the Stone Age, about 10-20% of people died violently, most often by murder. In Rome’s peak civilization it was around 2-5%. In the Dark Ages it was above 5%. But by the 18th century, when the Industrial Revolution started, it went well under 5%. Now, less than 1% of us die violently. All those figures are worldwide and include wars. Poverty reduction is similarly down too. In 1990 36% of the world lived in extreme poverty. In 2015 it was 9.9%. With similar trends, we're eliminating illiteracy, diseases, and hunger throughout the world because our tools keep getting better.
 
-More good news. Digital tools keep getting more powerful. Look at microchips, the "brains" of a computer. In 1972, we could put 3,000 transistors on a microchip. In 2018 we put 10 billion. In 46 years, we’ve increase computer power by three million percent. That's great fucking news, all indicators of the Life Star we'll get to meet later on.
+More good news. Digital tools keep getting more powerful too. Look at microchips, the "brains" of a computer. In 1972, we could put 3,000 transistors on a microchip. In 2018 we put 10 billion. In 46 years, we’ve increase computer power by three million percent.
 
-After we deal with this Death Star. It was in the 1970’s Darth Blockbuster showed up. Writing contracts nobody can understand, regulations nobody can find, and enforced politically correctness nobody likes. Despite a three million perfect increase in computer power, our society has more traffic on our roads, we drive more miles every year, we see our friends and families less and less, we have less trust in government every year, and our carbon emissions are so high the planet is actually burning.
+These are just a snippet of a mountain of great news so many hard working scientists, craftsman, volunteers fight for every day. All this good news are indicators of Techvolution's Life Star we'll get to meet later on--after we deal with Darth Blockbuster's Death Star.
+
+As we already learned, it was in the 1970’s Darth Blockbuster showed up to keep his tools in power by writing contracts nobody can understand, regulations nobody can find, and enforced politically correctness nobody likes. Despite a three million perfect increase in computer power, our society has more traffic on our roads, we work longer hours, cost of living is up, we see our friends and families less, we have less trust in government. Overusing these old tools is emitting so much carbon emissions our planet is burning.
 
 1**GRAPHS**
 
-But here's the worst trend for our society. Currently, the only options for problem solving is voting either red/blue politics. As already discussed, these are unable to solve our problems because they can't harness digital tools. And that means they each blame each other for their shared failure.
+But here's the worst trend. It won't get better because our political ideologies are stuck in a blame fest. Red/blue are equally unable to solve our problems because they can't harness digital tools, and instead blame each other for their shared failure.
 
-They're like a pre-MMA boxer and wrestler, who can't understand all rules apply, and thus they blame the other side for cheating or being ignorant. As a quick aside, this is fucking horrible as it chances civil war. Perhaps a bit dramatic, but look at the effect of a growing Death Star has on our politics, which no surprise started in 1970 when digital tools hit our economy.
+They're like a pre-MMA boxer or wrestler, who can't understand their ideological rulebook isn't the only game in town, and thus they blame the other side for "cheating" or "being ignorant" instead of embracing the evolution mantra "admit defeat and learn", something they could do with mixed philosophy politics.
 
 Blue red hatred - Congress
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tEczkhfLwqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Since the 1970's red and blue increasingly hate each other. Note, the red and blue color code for progressives and conservaties changes in USA, Canada, Austrialia, United Kingdom, but the trend is the same.
 
-So, are you happy? Our elected represenatives are and aren't happy. They're happy to be singing to their choirs but unhappy that the other side is ruining their society.
+As a quick aside, this is a fucking horrible trend. Two halves blaming each other when they're both equally at fault is edging us towards political breakdown and civil war. Perhaps a bit dramatic, but what other choices do commited ideologue's have; realize their errors and apologize for the past thirty years of mud-slinging, or dig in their heels and fight it out.
 
-Of course we know that's not true. If any are still around, red/blue fans have the same problem. They're
+So, are you happy? We have a world of good news, and some very bad trends. Do you feel happy with your daily life Our elected represenatives are happy because they sing to their choirs and blame the other side as things go wrong. Darth Blockbuster is happy because a distracted political system let's him protect his tools and power. But you're happiness is all that matters. You're the one on the frontline.
+
+I think most middle-class people today are unhappy for the same reason most captive animals run back to Nature when let free. They miss the challenges of real life. Thus, the size of the Death is related to your own happiness. And if middle-class happiness is a indicator of a Death Star, than I'd say it's frickin huge right now. From office workers, to teachers, to welders, to bus drivers.
+
+And again, it's the open-source movement that is making new tools, and showing the rest of us how we can do the same despite the massive rule book telling not to. It's time we study this 
 
 # A TECHVOLUTION BATTLE SCENE
 
@@ -489,17 +473,15 @@ In the 1970’s the transistor, internet, computer monitors, microchips, and oth
 
 Some examples. In the 1970’s AT&T defended the telephone communications by successfully lobbying government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by suing home video cassette recorders (VCRs) and only losing by one vote in the Supreme Court. In 2001, the music industry defended music compact discs (CDs) by successfully suing digital songs. Likewise, Tesla, Uber, AirBnB biggest competition has been in the courtroom. Throughout society the antagonists found ways to keep digital tools from the people.
 
-This was wrong. Inside the ruling philosophy of Techvolution, the extras would have fought back harder, because they'd understand it was their cyborgology being held back.
+This was wrong. Inside the ruling philosophy of Techvolution, the extras would have fought back harder, because they'd understand it was their cyborgology being held back. But nonetheless it happened. Sadly, the antagonists even resisted help. As Napster was introducing digital songs to America--and being sued for it--the people were majically bonding with Napster because it had no scratches, no driving, and no buying 18 songs to get the 2 good ones you really wanted.
 
-The antagonists even resisted help. As Napster was introducing digital songs to America--and being sued for it--the people were majically bonding with a far better music tool because it had no scratches, no driving, and no buying 18 songs to get the 2 good ones you really wanted.
+Music executives had already tried to make their own platform. They didn't know technology so they kept failing. Steve Jobs stepped in with iTunes to make "thieving customers" buying customers again. Despite the crisis of Napster, Jobs said he’d "never spent so much of my time trying to convince people [music executives] to do the right thing for themselves".
 
-Music executives had already tried and failed horribly to make their own platform. They couldn't provide digital songs to people. Steve Jobs stepped in to make these "thieving customers" buying customers again with iTunes. Despite the crisis of Napster, Jobs said he’d "never spent so much of my time trying to convince people [music executives] to do the right thing for themselves".
+The problem wasn’t Napster. It was Darth Compact Disc. To be fair, he knew how to manage a huge corporation, make a product people (had) wanted to buy, and get his employees paid. Yet he didn’t know anything about new technology and so fought against losing his position with rules, not tools.
 
-The problem wasn’t Napster. It was Darth Compact Disc. To be fair, he knew how to manage a huge corporation, make a product people (had) wanted to buy, and got his employees paid. Yet he didn’t know anything about new technology and so fought against losing his position with rules, not tools.
+iTunes was successful. People were willing to pay for a quality digital song distribution. Not because the rules. But because it was better cyborgolgy. It's a lesson for us as we begin to update from Darth Blockbuster's other old tools. Here's how the battle looks, one that we'll have to fight a few more times on our way to happy middle-class life.
 
-iTunes was successful. People were willing to pay for a quality digital song distribution. Here's how the battle to upgrade a tool looks.
-
-## How New Tools Ignite the Fight
+## Inventing Adaptations
 
 In biological evolution there are continual adaptations of existing lifeforms, and then sometimes fully new lifeforms. In Techvolution this is the difference between upgraded technology, and an entirely new tool.
 
@@ -515,7 +497,7 @@ Thus, while the story of civilization can be described as the struggle to overco
 
 This is why the eternal story of civilization is protagonists like Steve Jobs making new tools, antagonists like music company executives attacking new tools, and many extras watching them fight. Our politics is an ongoing history of technological change, with protagonist and antagonist both reaching to control the tool and make themselves the winner.
 
-Today the extras lack self-awareness regarding their power to decide the battle’s outcome. I’ll show you, Stargazer, how important you are. You can change the world just by being curious and loving majic. Not too long ago, extras killed Wikipedia’s evil twin.
+Today the extras lack self-awareness regarding their power to decide the battle’s outcome. I’ll show you Stargazer, how important you are. Not too long ago, it was protagonists and extras who worked to invent a and implement a new tool just by being curious and loving majic.
 
 **Dark Majic**: Methods and techniques to keep a person using a tool for the benefit of the tool's controller and not the user.
 
@@ -523,11 +505,11 @@ Today the extras lack self-awareness regarding their power to decide the battle�
 
 ## The Extras’ Extraordinary Potential
 
-The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, people always have questions; like why are the movies so expensive, or more importantly what are proven techniques to stop malaria infections. Constant questions are a problem and we need a tool to solve it. True to ourselves, we tackle this challenge by wielding our available technology to create a reference tool and upgrade it when possible.
+The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, the human environment keeps changing, and so humans also have to probe for answers. We ask questions like why are the movies so expensive, or more importantly what are proven techniques to stop malaria infections. We need a way to answer our questions and true to ourselves, we tackle this challenge by using our available technology to create a reference tool and upgrade it when possible.
 
 Our first reference tool was the wisdom of our elders. The first technological upgrades were papyrus scrolls and ink (around 2300 BC) and books (around 300 BC), which turned some elders into experts like Hippocrates and Aristotle. When wood-pulp paper (1200) and the printing press (1456) were invented, humanity unleashed mass-produced books. Now experts could share knowledge between themselves and educate the masses. We called the reference books encyclopedias.
 
-Encyclopedias were a massive hit; up until a generation or so ago, practically all well-read households proudly included a physical collection of such volumes in their library. _The Encyclopedia Britannica_ (1878) was the standard. It went into continuous publication (1933) to keep people updated to the latest facts. In the following decades, the computer, digital printer, and telecommunications meant encyclopedias were written and stored digitally. But they remained a set of printed books and CD’s controlled by experts.
+Encyclopedias were a massive hit; up until a generation or so ago, many households proudly included a physical encyclopedia collection in their library. _The Encyclopedia Britannica_ (1878) was the standard. In 1933 it started to be re-publihsed every to keep people updated to the latest facts. In the following decades, the computer, digital printer, and telecommunications meant encyclopedias were written and stored digitally. But they remained a set of printed books and CD’s controlled by experts.
 
 Then came the world wide web (1991), a new technology that unlocked many new tools like websites, forums, blogs, and something called "wikis". Wiki software lets anyone write or edit a webpage by pressing "edit now". All changes are saved, so anyone can erase errors or vandalism by pressing "undo now". For years programmers used wikis to collaboratively write technical manuals.
 
@@ -535,25 +517,31 @@ As web tools boomed in the late ’90’s, protagonist Jimmy Wales wondered if t
 
 Wikipedia started as Nupedia (2000). Nupedia was a free online copycat of Encyclopedia Britannica where only "expert" professors made articles. Wikipedia (2001) was a side project. Only programmers knew "community content creation" would work.
 
-Everyone else assumed regular people would only read the work of professors. The first issue with this theory was that the professors didn’t like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000, which most professors loved to belittle as rubbish. Professors even disallowed students from referencing Wikipedia’s articles in their school work. Yet professors refused to improve, or to assign students to improve, Wikipedia.
+Everyone else assumed regular people would only read the work of professors. The first issue with this theory was that the professors didn’t like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000, which most professors, performing dark majic, loved to belittle as rubbish. Professors even went further into the dark arts and disallowed students from referencing Wikipedia’s articles in their school work. Yet professors refused to improve, or to assign students to improve, Wikipedia.
 
-The second issue was that it turned out "expert" answers and "regular" answers are the same. The movies are expensive because of a 1948 government rule banning studio’s from owning or collaborating with theatres--so they can’t vary ticket prices regardless of movie budgets--and mosquito nets are a simple and effective tool against malaria infections.
+The second issue was that it turned out "expert" answers and "regular" answers are the same. The movies are expensive because of a 1948 government rule banning studio’s working with theatres--so they can’t vary ticket prices regardless of movie budgets--and mosquito nets are a simple and effective tool against malaria infections.
 
 Thirdly, Wikipedia was so easy to use many extras became protagonists! A huge community of non-academics voluntarily shared their knowledge one "edit now" at a time and fiercely protected their common knowledge with "undo now". Nobody told them, paid them, or made a rule to force it. Because performing majic, and expanding someone else’s cyborgolgy with things like millions of Wikipedia articles, is Nature’s dopamine rush.
 
 And lastly, so many people loved the performance and flocked to Wikipedia’s answers. The extra’s mass support quickly made Wikipedia king, while giving the technological gates of Nupedia and Encyclopedia Britannica quick deaths.
 
-That’s the story of Wikipedia. Made by new protagonists, made the standard reference tool by empowered extras. Few believed it was possible, because even professors don’t understand new tools always unpower the few, to empower the rest. Interestingly, after I finally conceded temporary defeat to my personal Darth Blockbuster, I uploaded a few pages to Wikipedia instead. Not as helpful as my app, but it took just a few weeks of work, and one "edit now" button, to make it real. It felt majical to bypass the rules.
+That’s the story of Wikipedia. Made by new protagonists, made the standard reference tool by empowered extras. Few believed it was possible, because even professors don’t understand new tools always unpower the few, to empower the rest. Interestingly, after I finally conceded temporary defeat to my personal Darth Blockbuster, I uploaded a few pages to Wikipedia instead. Not as helpful as my app, but it took just a few weeks of work, and one "edit now" button, to make it real. It felt majical to bypass the rules. It also put a smile on my face.
 
 ![Wikipedia development](/img\diagrams\techvolution-enclyclopedia-book-wiki.png)
 
+- The Encyclopedia Britannica was a physical book with limited pages. That means there was a debate what to include, and all updates required printing a new book. Wikipedia is totally different. It has limitless pages and updates instantly. This difference showcases why red/blue politics can't harness digital tools. Both ideologies were invented to deal with physical property like books. Conservatism says protecting personal property keeps society rich because everyone has incentive to create new property or keep what they have in good condition. Hence conservaties don't like things like taxes or regulation that intefere with their "I know what's best" mentality. Progressives think different. They say property really belongs to the community and so they want to regulate it to be sure selfish people (conservaties) don't control it.
+  
+Neither of these solutions are valid for digital property. It doesn't spoil, so there's no reason to "own" it. And it's limitless, so there's no reason to "regulate" it. Yet property protection, and property regulation, are what both conservatives and progressives know how to do. Since they control our ruling philosphy we're missing out on using digital tools to make many other kinds of Encyclopedia Britannica to Wikipedias upgrades.
+
 ### You Can Win
 
-Wikipedia’s victory is another example of the archetypal Techvolution story. Like Galileo and his telescope, George Washington and his musket, and Steve Jobs and his iTunes, Wikipedia was a victory for protagonists. What makes this era especially interesting—and what makes preparation for this battle all the more urgent—is the ease with which extras can seize and command digital tools if they would so desire, empowering and evolving themselves.
+So that's how we won a battle in the fight for Techvolution. It's a battle that made me, and everyone else who write and read Wikipedia, happy because we're evolving humanity is natural for us. The excuses and rules in the way of evolution are made by old cyborgs, who either don't want to drop their tools and learn new ones, or who perform dark majic to convince other people to do the same.
+
+Wikipedia’s victory is another example of the this archetypal story of technological evolution. Like Galileo and his telescope, George Washington and his musket, and Steve Jobs and his iTunes, Wikipedia was a victory for protagonists. What makes this era especially interesting—and what makes preparation for this battle all the more urgent—is the ease with which extras can seize and command digital tools if they would so desire, empowering and evolving themselves.
 
 Now imagine a world in which digital tools are set free! Stargazer, that’s the story you must jump into with lightsabers a-blazin’, dicing up old evil storm-trooping tools, to smooth out humanity’s natural evolution. The open-source community are making new tools. But they are facing down Darth Blockbuster on their own. They need as much support as Wikipedia received.
 
-Note however, our lives cut across thousands to millions of problems. Thus, our villains are not in a massive group like "the rich" or the "the unions" as old philosophies label. Our villains reveal themselves inside thousands of companies, institutions, and organizations, and they fight back by suppressing new tools to keep their version of the DVD alive.
+Note however, our lives cut across thousands to millions of problems. Thus, our villains are not in a massive group like "the rich" or the "the unions" as old philosophies label. Our villains reveal themselves inside thousands of companies, institutions, and organizations, and they fight back by suppressing new tools to keep their version of the Encyclopedia Britannica or DVD alive.
 
 Together, protagonists and extras can end all these Darth Blockbusters. I know this is possible because history has proven it. Our battle today was fought generations ago with Darth Blockbuster’s master: Darth King.
 
@@ -1030,6 +1018,63 @@ Later kings still didn’t learn. Even more distanced from the frontline inside 
 So the question now is... why did you think Darth Blockbuster would ever admit he was wrong and change his ways?
 
 # ACT THREE
+
+## 
+
+I'm going to cut this short.
+
+The USA really is headed towards a civil war. But not a repeat of its first one. A repeat of something far worse, and something all countries that have red/blue politics is going towards, a shared civil war across borders that's the Thirty Years War (1618–1648). It was our medieval ancestors horror show, remiscient of World War II. The people were pissed off, and they were looking for a better society. Two political parties existed back then the people would vote for, accept voting meant belief, and changing their vote meant conversion. Red/blue parties back then weren't conservative or progressive, but protestant and catholic. The people were sick of the nobility, sick of their divine right to rule, sick of their banquets and balls. So in the millions they slaughtered each other because their anger and frustration had two outlets, and each time they flipped their coin, protestant or catholic--heads of tales--, they still got the divine right to rule. So they blamed the other side for what to us both sides failure.
+
+If you went back in time, what would you tell all those Germans, French, English, Swedes. etc? You would tell them all the shit I've been trying to tell you.
+
+Because we're in the exact same spot. Once upon a time, being loyal to the king was as rational as being loyal to Neo in the Matrix. Yet, as soon as the problem the king was declared leader for, political anarchy, was solved, nobody knew how the fuck to tell Neo to go away. Thus an protagonist, became a fallen angel, and became a antagonist. Likewise we similarly don't know how to tell our economic leaders, once our protagonists, that the people can grow up, because everytime we flipped our political coin, we always get red or blue, and then blame each other for the inaction.
+
+Our ancestors don't have the lessons of history to learn from. All i've done here is take the lessons that made our ancestors stop having civil wars in support of a protestant or catholic king, and start having revolutions against all kings. because their problem wasn't the king was the wrong faith, but that he was a king who thought he was forever the leader of the human story.
+
+All i've done here is take the lessons our ancestors worked to hard to collect, and went back in time to tell you, the modern extra/consumer, what anyone would tell a extra/peasant in 1610. You don't need to fight for the king, you have to fight for yourself.
+
+Here are the lessons.
+
+The frontline is Nicolo Machiavelli's "effectual truth". Machiavelli cae from a poor family, whose father gave him many books from the recent printing press. Machiavelli was the first philosoper to get to read lots of different philosophy and history books, and he noticed trends. He told superstitious people, they didn't need to put their faith in God, because we can keep lookin for trends, master them, and start to overcome problems like hunger, disease, and all that.
+
+Soon later Galileo, Francis Bacon, and lots of other people, read this insight, and invented the Scientific Method, which systemized looking for "effectual truth" by simply testing Nature with instruments, and discovering the truth, not inventing it with reason.
+
+Natural equality, the extras, is from Thomas Hobbes. He lived during the English Civil War, when people were again sick of the king but didn't have easy options to get rid of him. Hobbes invented human equality by saying in Nature (he called it the State of Nature), all lifeforms live freely, thus why shouldn't humans. Hobbes said people should still be loyal to a king, yet not because he's divine, but because it's in the best interest to have a stable and firm government because when that goes away--as Hobbes was personally seeing--people turn horrible. Because the king wasn't divine, his power to rule came from the consent of the goverened, who are like him, equals.
+
+Something ... comes from John Locke. He came after Hobbes and agreed with his State of Nature, but said the people didn't need to put all their trust into a person as leader, but instead put their trust in the institution as leader. Meaning, the people should follow a president, not a king. That way the people can elect, new leaders while still getting the stability of government. Hence, the leader can always be a protagonist, and anyone who fights the will of the people, the people on the frontline, is an antagonist.
+
+Ruling philosophy, old philosopheis, comes from Rousseau. Rousseau merged all the thinking from Machiavelli to Locke, and said the people can't rule within the confines of an old philosophy. Thus, even though philosophers from Machiavelli to Locke were giving new philosophy, they didn't say to breakfree from the past. Rousseau say change it all, which is why the people used him during their revolutions, and why I talked about him above. We also need to change it all.
+
+The Sith and Jedi, protagonist and antagonist, is Hegel's Thesis, Antithesis, Synthesis dialectics. After centuries of histories, looked back at the trends, and said there was a ruling philosophy, whose problems manifested into a competitor, the two would eventually fight it out, and make a new ruling philosphy that merged the two together. He also said master–slave is a relationship that recurs throughout humanity, and is the reason we looked at Frederick Douglas, who while was the physical slave, his captors were the mental ones, bound to a horrible social system as much as Frederick was. Frederick's process of self-discovery, was how slaves realize their status and break free.
+
+Cyborgology, and majic, are Darwinism. The evolution of lifeforms based on their tools to collect resources. Life started out as simple organisms, and as these primitive lifeforms struggled to survive, they adapted better --biological--tools to do so. Eventually the benefits of biology maxed out with us, and so we have to continue evolution with tools. We similarly started to evolve (techvolve) with primitive tools, which slowly got better and better.
+
+Death star and dark majic comes from modern psychology. Experiments like the Milgram Experiment, where people are told they're partcipating in a science experiment trying to figure out if pain helps people learn. The "teacher" asks the "student" questions, and when the answer is wrong, the teacher gives a electric shock to see if that'll help the student learn. The shocks move from minor, all the way up to electric chair certain death. When the teacher asks questions or protests the "scientist/authority figure" says the experiment requires he continues. No threats just prompts to continue.
+
+The teacher is set-up, there is no shocks. But he thinks there are. Milgram was the son of Jewish refugees after WWII, trying to figure out how humanity could be so horrible to each other. The answer is we follow orders well. Before the Milgram experiment psychologists predicted less than 1 of in a hundred teachers would kill the student. Over 50 did, and everyone started the test, only stopped when the (fake) cries of the student prompted them to stop despite the scientists prompts. Now imagine if the scientist was a general or president. Most people would probably keep going.
+
+Darth Blockbuser is comes from the Lucifer Effect.... and the stanform experiment....
+
+That's the history and philosophy behind all the terms you've been reading, hopefully making them more understandable, and especially more integrated, so we can understand. It's not my own insights, just a the benefit of hindsight.
+
+And this is what I would tell a European peasant, sick of their life in Europe, before they went off and fought a catholic king, to replace him with a protestant king, and that's what I'm telling you today.
+
+My only insight to write Techvolution is the story of civilization. Which is that that tools are what driving force behind all human events. And that tools grow and adapt like any biological lifeform. The first step is very competitive as lifeforms spread as fast as they can in a winner takes all battle. The winners mark their territory, plants set their roots, animals roam and protect their territory, and once the lifeforms are secured, do they settle downa nd start to life a regular life. As they life, they then start to adapt to the area.
+
+And here is when lifeforms stop competiting and start collaborating inside ecosystems. An ecosystem has borders and a strict divide between members and non-members, locals and foriegners. Locals know the game, and they settle down into a flow. This way each can harvest resources in a special way, and pass on the resources to another lifeform in the ecosystem. The constant flow keeps all lifeforms in check and balance, and makes sure they're all adapting even though there's no natural disaster to adapt to. There has to be members and non-members otherwise the lifeforms couldn't work together. That's why foreign species, like..., are so devastating. They simply don't know the rules of the ecosystem's game.
+
+And this transition from competition, winners takes all, to the collaboration of an ecosystem, happens to human society's too. But with tools. When things are barren and desperate, our cybogology is weak, and thus we form strong hierarchies around the few people (protagonits) who control the few tools/adaptions. If the tools evolve, they get stronger, and thus more of the people can also evolve, and become their own protagonists. When enough people are protagonists, they're lifeforms, they need to switch over from the competition phase, to the collaboration phase. This is why after the Thirty Years War, humanity put up borders around their countries. They were forming an ecosystem, with members and non-members, so that they could collaborate.
+
+Then we kept evolving, and when our tools were economic, we again spread them in the competition phase throughout the globe, and followed the early protagonists. But as economic tools evolved, more people could become protagonists, which is what happened in the 1970's and digital tools. And once enough of use were empowered by digital tools, we wanted to form ecosystems, economic this time, so we could collaborate. which is why Brexit, and Trump's election were so predictable and inevitable. The story of civilization is something we don't have a handle on, but it's the story of evolution simply with tools and humanity. Growth in a competive phase, then collaboration inside ecosystems. But humanity is like a blank canvas of lifeforms. We fill in the roles of lifeforms, and morph as required...
+
+And this is what I'd tell a European peasant before hte Thirty Years War. They wouldn't understand it. So I'd tell them to be selfish. "What are you getting" if a protestant/catholic king wins. They'd respond with some dark majic answer about getting a better church, or going to heaven. Then I'd ask him to show me his daily life. And he'd show me his trip to the well everyday where he walks 10 litres of water to bring back to his house. He'd show me his manually labour cutting hay for his horses. And he'd show me this and that. And i'd tell him "the only thing you need to fight for, and better tools, better water systems, toilets, heating, insulation, because that's the only way God's creatures fight off the Devil, the rest is all talk."
+
+He still wouldn't understand. He'd be like so many in the Milgram experiemtn and simply follow authority figures who think they're protagonists, but are really Lucifers. He wouldn't have the benefit of so much hindsight.
+
+You do. All you have to do, is seek out digital tools to improve your life.Be selfish, because every animal in teh world is selfish, and that's what evolution is. That means we'll start to form economic ecosystems so we can collaborate. Some of that will be online, but most will have borders. It's the only way our social problems will get solved. Like overthrowing the antagonist kings, its going to happen.
+
+I just hope we don't live through a Thirty Years War, before we realize we were fighting the wrong fight.
+
 
 ## A Fight Over No Tools
 

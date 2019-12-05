@@ -1267,6 +1267,23 @@ Writing contracts nobody can understand, regulations nobody can find, and enforc
 
 All of this is because we can't adapt solutions to these problems because it's against the rules. Our old philosophies, who ignore the possibilies of digital tools, blame each other. Look at this graphic below and notice how the divine between red and blue started in the the 1970's, and as our problems multiply, has only gotten worse.
 
+## Soulful Connections
+
+I think first dates are amazing. Even the generic dinner and movie ones are wondrous. Sitting there in your nice sweater, eating a medium steak, sipping water, and across from your maybe Romeo or Juliette. In a few days, you might use your soul to prevent even a frown on this stranger's heavenly face. Such is the power of romances.
+
+This date moment might in fact end with a five year divorce with true accusations of infidelity where you eat beans for breakfast, bitters for lunch and dinner, and see your kids once a week; your own offspring thinking you're a stranger because of this demon. Such is the power of tragedies.
+
+In truth, most stories are somewhere in between these two extremes; but that's beside the point. The point is every story starts with a connection. If human life is a tapestry of stories, both grand and small, we have to understand how we make and keep people connected to their stories.
+
+It's question of reason. A connection is made when a story is held in a story that's unexpected enough to be interesting, yet reasonable enough to be understood. People, viewers, readers, don't have to be conscious of every element. A good story takes a person over. That's why we often loose ourselves to a romance or a tragedy.
+
+So to get someone connected to a story, we must make them happy. Easy enough. Everyone likes happiness.
+
+That's easy to know, hard to achieve. Your Juliette could think your a loser. Your Romeo might be ignoring your text messages. The point is we can't make happiness, we can't force a connection. Happiness in a fictional story is a magical connection between you, and the story. Happiness in life, is a majical connection between you and your friends, family, job, products, leader, and society, that forces a person to stay inside a story.
+
+Happy stories are wonderful, it's why people seek them out, but in fictional stories of first dates, and real ones too. So the question is, are you happy with your story Stargazer?
+
+I don't ask because I care—I do of course—I ask because it's important. You are the audience of the today's society. If you don't like it, that only means society is edging towards not a beautiful romance, but a awful tragedy.
 
 ## Ask
 
