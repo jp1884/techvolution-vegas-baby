@@ -24,6 +24,24 @@ Gordon Moore, co-founder of Intel, 1973.
 
 # Prologue
 
+## Look Up
+
+How do we develop through technological Ages? Going from the Stone Age to the Bronze Age or the Medieval Age to Scientific Age happens over generations—it's hard to get our head around. I've been thinking about it for years and only now have a grasp. There's a lot to think about when a civilization's entire way of life upgrades to new technology.
+
+Play games like Age of Empires, Anno 1800, and Civilization and you’ll get a good idea of how it works. You’ll be the player “god” that saves up the resources, invests in the science, and decides when to click “upgrade”. Then, like magic, civilization instantly transforms. Every house, factory, building, road, library, school is suddenly new and improved.
+
+The above is just a game of course. But we're in there somewhere, looking up from Main St. trying to figure out how to earn a living while society transforms around us. It's hard—there is no player god and no magic button. Instead, we, the people inside the game, must collect the resources, do the research, and manually upgrade every part of our civilization bit by bit—with blood, sweat, and tears. We can't sit back, click, and watch.  We must live it.
+
+The story of civilization has many ups and downs. Society often has one foot in the old era and one foot in the new. And this is the world of politics and philosophy, civil wars and revolutions I want to explain to you. Because in 1970 we entered the Digital Age. Since then digital innovators, geeks, and hackers have been upgrading our society with digital tools—while the powers that be have been holding them back.
+
+And that’s the reason the life of the middle-class has gotten worse. Things will only improve once we finish the Digital Age upgrade. There's no game, cheats, or gimmicks. There’s just you, and your friends, that have to get out the sweat-bands, work gloves, and new ideas to upgrade every piece of our civilization, bit by bit.
+
+The job before us is as natural as evolution. New and improved lifeforms always fight to replace the old ones; its how life adapts. Likewise, right now our civilization is moving from the Industrial Age to the Digital Age. You can only help it along, or old it back.
+
+This book is your guide. It integrates technology, history, politics, and philosophy; but it's not written for any buff. It uses the power of stories to help the people inside the game—today's middle-class—who want to see their better life now. The first step is a new mindset. Because we already have digital tools. We only need a new philosophy to enjoy all the wonders of the Digital Age.
+
+## Digital Heroes
+
 I wrote this for the people on GitHub, Wikipedia, Dribbble, Udemy, Stack Overflow, Unsplash, Slack, and wherever else you open-source Jedi like to work and gather. Learning your ecosystem of digital tools was cool. Learning your philosophy was even cooler.
 
 You’ve changed the world, even if the world doesn’t know it yet. Most people still think that retail stores, manufacturing, and education are industries only for governments or big businesses to control. Yet because of you, there are countless new tools available for the people to take control of their own products, identities, and lives. It’s truly a new world, one where Cinderella can go to the ball simply because… everyone can.
@@ -62,7 +80,7 @@ The people don’t see this question. They’re too distracted by the “dark ma
 
 Our opportunity comes when a regular person has yet another problem with their tax form, car radiator, asphalt shingles, or the countless other Woodstock era tools the gatekeepers maintain for their self-interest. This is when the pain of living on today’s frontline makes regular people search for a better way to live. And this moment is where I want to contribute back to the open-source community. This is where we can swell our ranks by educating others:
 
-  >Old tools suck. You don’t have to take it. You don’t have to be an extra waiting on hold, getting caught by the fine print, commuting through hellish traffic only to be micro-managed by eight different bosses. All that’s bullshit. You can take charge of your life. My friends and I invent new tools so we can live a simpler, fairer, healthier, greener, happier life. But we need your help… because the only thing holding us back is our own ruling philosophy.
+  >Old tools suck. You don’t have to take it. You don’t have to be an extra waiting on hold, getting caught by the fine print, commuting through hellish traffic only to be micro-managed by eight different bosses. All that’s bullshit. You can take charge of your life. My friends and I invent new tools so we can live a simpler, fairer, healthier, greener, happier life. But we need your help... because the only thing holding us back is our own ruling philosophy.
 
 And when the regular person asks what the heck you’re talking about, you can tell them to read about Techvolution. Tell them it’s a new political philosophy to help the world realize how you’ve empowered workers, creators, and contributors—basically, the people who are willing to step up to become protagonists, and not be left behind in a world the open-source movement has only begun to change.
 
@@ -258,6 +276,7 @@ We’ve come some way in the story Stargazer. Let’s take a minute and answer s
 First off, a new ruling philosophy doesn’t mean you throw away all the old stuff. Old philosophies, red/blue among them, will always teach us lessons, help us do our jobs better, and enlighten our personal opinions. Today old philosophies should not be our ruling philosophy because they weren’t created with digital tools in mind.
 
 Techvolution is. It’s designed to make the best use of digital tools. Let me explain how Techvolution can be our ruling political philosophy by discussing evolution in martial arts.
+
 Humanity has many martial arts: karate, kickboxing, wrestling, jiu-jitsu, judo, and boxing being among the most popular. Each martial art adapts the human body to do specific technique like punches or choke-holds. Each martial art also makes rules so only their chosen techniques are allowed during competition; there’s no kicking in a boxing match for example.
 
 In the early 1990’s the martial arts community got curious and wondered whose martial art would win a real fight. On reflection, it seems funny that this was an original idea, but before the 1990’s people just assumed boxers or wrestlers could not fight outside their rulebook. All fighters were supposed to be ideologically loyal and sing to their choirs about their techniques being the best. If a fighter got their ass kicked in a real fight, they’d often blame themselves or say the other guy “broke the rules” and “cheated”.
@@ -293,19 +312,19 @@ That’s why controlling tools is the nature of all political battles. Whether i
 
 # ACT TWO - BLOWING UP THE DEATH STAR
 
-## The Magic of Evolution
-
 Before you face Darth Blockbuster and try to blow up his Death Star rule book, Stargazer, you must learn what weapons you have at your disposal. The most formidable? The all-powerful energy field inside every lifeform. No, not the Force. I’m talking about evolution.
+
+## The Magic of Evolution
 
 Evolution empowers life by giving every new lifeform a slightly different variation. With variations, life can constantly test for environmental changes in things like water levels, temperature, and food supply. The variations unfit for the changed frontline die off and the fittest survive. This natural selection help life find which lifeforms best represent it on Earth.
 
-Evolutions works so well because its constant variation production creates biodiversity. The more lifeforms there are, the more life can probe and better adapt to environmental changes. When temperatures increase or rain patterns change, the more lifeforms feel the pain, and therefore the sooner life can adapt a solution to the frontline problem. More lifeforms mean more workers on the frontline adapting to problems.
+Evolutions works so well because its constant variation production creates biodiversity. The more lifeforms there are, the more life can probe and better adapt to environmental changes. When temperatures increase or rain patterns change, the more lifeforms feel the pain, and therefore the sooner life can adapt a solution to the frontline problem.
 
-However, if the environment is stable, lifeforms need a caretaker. Someone to keep them in shape, ready to act when the environment does change. That’s one reason Nature has a system of checks and balances called ecosystems. Within ecosystems, lifeforms form communities and cooperate to keep each other on their toes.
+When enough lifeforms populate an area, all the available resources are harvested. Increasingly, lifeforms depend on each other, and start to collaborate instead of compete for resources. So flowers depend on bees and vice versa. At this point Nature divides up an area in ecosystems.
 
-Ecosystems can be described as a cyclical food chain of many different plants, herbivores, carnivores, and decomposers, with each resource feeding the next resource. To keep an ecosystem sustainable, each species must reciprocate. Grass turns light, water, nutrients, into biomass, eaten by the grazer, who feeds and is kept in check by the predator, who itself eventually dies, as do all lifeforms, returning all the nutrients back into the soil for the grass to keep growing. Each lifeforms checks the other to be sure no one hoards or freeloads. Reciprocation inside ecosystems is what keep lifeforms adaptable in the face of environments that could change slowly or suddenly.
+Ecosystems can be described as a cyclical food chain of many different plants, herbivores, carnivores, and decomposers, with each resource feeding the next resource. To keep an ecosystem sustainable, each species must reciprocate. Grass turns light, water, nutrients, into biomass, eaten by the grazer, who feeds and is kept in check by the predator, who itself eventually dies, as do all lifeforms, returning all the nutrients back into the soil for the grass to keep growing. Each lifeforms checks the other to be sure no one hoards or freeloads. Foreign species mess up this balance, sometimes being so invasive they wipe out parts of the ecosystem.
 
-Evolution may not be the Force, but it’s certainly magical. In tune to Nature’s own special rhyme and reason, evolution turned a lifeless planet into an oasis. The big drawback is time. Biological variations can take millions of years to respond to environmental changes. Think of the poor polar bears. They’ll never understand why Artic ice isn’t reforming as massively each year. And even if they could, no lifeform can proactively change their biology.
+Evolution may not be the Force, but it’s certainly magical. In tune to Nature’s own special rhyme and reason, evolution turned a lifeless planet into an oasis of many different ecosystems. The big drawback is time. Biological variations can take millions of years to respond to environmental changes. Think of the poor polar bears. They’ll never understand why Artic ice isn’t reforming as massively each year. And even if they could, no lifeform can proactively change their biology. And it's not like we can just send them somewhere else like the Amazon because that's ridicules, but we can't send them to Antartica either, because they'd run avoc on the local ecosystem as an invasive species. The polar bears need a healthy, and very cold, Artic ecosystem, or they die.
 
 In contrast, humanity can change—not our biology, but our "cyborgology," if you will (and hopefully in time to help the polar bears). We have the power to feel frontline pain, reflect on the problems causing it, and create a new tool to overcome the problem.
 
@@ -427,45 +446,9 @@ Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers
 
 ## A World Without Majic
 
-Stargazer, let's recap your mission. We have to fight for Techvolution, first and foremost in your head. Techvolution says the most important political right and responsibility is to use digital tools to solve your frontline problems without anyone getting in your way. The open-source community gives us the ability to make our own products.
+Stargazer, this recuring story of is what Frederick Douglass was doing. Relative to use it's an extreme example, but he had societal role he didn't like, and once empowered to break it, he did and joined a community of equals inside a democracy with members and non-members.
 
-Because humanity isn't perfect, we need to make rules from the ruling philosophy to organize society. People with the power to make the rules, sometimes use their power to make-up rules that benefit their self-interest, for which we call them Darth Blockbuster, and we call his fake rule book the Death Star because it gets in the way of humanity's natural evolution.
-
-For the middle-class to prosper once again, we must blow up this Death Star. To find it we learned about majic; which is the natural yearning to learn and teach new tools and add them to our cyborgology. If we feel majic, we know no rule in its way is just, and therefore must be part of the Death Star we're out to destroy.
-
-Therefore the Death Star and your happiness are opposites. The unhappier you are, the less humanity is adapting, and therefore the more of a Death Star there must be around you. The happier you are, the less of a Death Star there is, because humanity is evolving. Your happiness isn't the flashy products, awards, or recognition, those are cool but only give temporary smiles. You happiness is the freedom to adapt. Basically life without a Death Star is a rational one, where stresses are practicl problems all lifeforms understand like finding water supplies or shelter. With the Death Star life is being forced to do stupid things like commuting two hours to work, or pretend to be interested in a five hour garbage meeting.
-
-So that's our mission then is to destroy today's Death Star. How big do you think it is?
-
-## The Size of the Death Star
-
-The world isn't one big Death Star. That's so important to realize. We live in a good time with mostly good things happning. Living a rat race and watching infotainment can make it seem like it is. Disregard that bullshit. There's lots of good news.
-
-Think about this, in most of the world, it’s safer to live now than in any other point in human history. The amount of us dying violent deaths has consistently decreased. That's a big deal. In the Stone Age, about 10-20% of people died violently, most often by murder. In Rome’s peak civilization it was around 2-5%. In the Dark Ages it was above 5%. But by the 18th century, when the Industrial Revolution started, it went well under 5%. Now, less than 1% of us die violently. All those figures are worldwide and include wars. Poverty reduction is similarly down too. In 1990 36% of the world lived in extreme poverty. In 2015 it was 9.9%. With similar trends, we're eliminating illiteracy, diseases, and hunger throughout the world because our tools keep getting better.
-
-More good news. Digital tools keep getting more powerful too. Look at microchips, the "brains" of a computer. In 1972, we could put 3,000 transistors on a microchip. In 2018 we put 10 billion. In 46 years, we’ve increase computer power by three million percent.
-
-These are just a snippet of a mountain of great news so many hard working scientists, craftsman, volunteers fight for every day. All this good news are indicators of Techvolution's Life Star we'll get to meet later on--after we deal with Darth Blockbuster's Death Star.
-
-As we already learned, it was in the 1970’s Darth Blockbuster showed up to keep his tools in power by writing contracts nobody can understand, regulations nobody can find, and enforced politically correctness nobody likes. Despite a three million perfect increase in computer power, our society has more traffic on our roads, we work longer hours, cost of living is up, we see our friends and families less, we have less trust in government. Overusing these old tools is emitting so much carbon emissions our planet is burning.
-
-1**GRAPHS**
-
-But here's the worst trend. It won't get better because our political ideologies are stuck in a blame fest. Red/blue are equally unable to solve our problems because they can't harness digital tools, and instead blame each other for their shared failure.
-
-They're like a pre-MMA boxer or wrestler, who can't understand their ideological rulebook isn't the only game in town, and thus they blame the other side for "cheating" or "being ignorant" instead of embracing the evolution mantra "admit defeat and learn", something they could do with mixed philosophy politics.
-
-Blue red hatred - Congress
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tEczkhfLwqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Since the 1970's red and blue increasingly hate each other. Note, the red and blue color code for progressives and conservaties changes in USA, Canada, Austrialia, United Kingdom, but the trend is the same.
-
-As a quick aside, this is a fucking horrible trend. Two halves blaming each other when they're both equally at fault is edging us towards political breakdown and civil war. Perhaps a bit dramatic, but what other choices do commited ideologue's have; realize their errors and apologize for the past thirty years of mud-slinging, or dig in their heels and fight it out.
-
-So, are you happy? We have a world of good news, and some very bad trends. Do you feel happy with your daily life Our elected represenatives are happy because they sing to their choirs and blame the other side as things go wrong. Darth Blockbuster is happy because a distracted political system let's him protect his tools and power. But you're happiness is all that matters. You're the one on the frontline.
-
-I think most middle-class people today are unhappy for the same reason most captive animals run back to Nature when let free. They miss the challenges of real life. Thus, the size of the Death is related to your own happiness. And if middle-class happiness is a indicator of a Death Star, than I'd say it's frickin huge right now. From office workers, to teachers, to welders, to bus drivers.
-
-And again, it's the open-source movement that is making new tools, and showing the rest of us how we can do the same despite the massive rule book telling not to. It's time we study this 
+So, asking if you're happy is asking if you're happy with your place in society. If you're not, it's a sign we're trying to make a new ecosystem. And that's exactly what we're trying to do with digital tools, trying to make a economic ecosystem with members and non-members, where each lifeform is free to live as they want, because each person has a job to do in a food web. I don't think most people are happy. But we can be, and to destroy the Death Star holding back humanity, we must be. And here's how the open-source movement fought back, and showed us how we don't have to wait to improve our own lives and put smiles back on our faces.
 
 # A TECHVOLUTION BATTLE SCENE
 
@@ -581,28 +564,6 @@ Rousseau died never having found a home. After they won their revolutions, a pop
 The question for us is, how did Rousseau make an entire people change their ruling philosophy, and how can we do it better, because I’d really like to skip horrible revolutions.
 
 ![Revolutions!](/img\diagrams\techvolution-revolution.png)
-
-## ~~Revolution~~ Techvolution
-
-Stargazer, you look disappointed. You think revolutions are fun. You want to follow _Les Misérables_ and march in the streets. Maybe we should. You get the bristol boards, I’ll get the paint, and we’ll change the world! Free college education! Less bank regulations! Affordable health insurance! Continuous tax cuts! We’ll save the planet _and_ the government’s credit rating!
-
-Listen to me. When your cars breaks down, you call a mechanic for help, right? If he showed up with no tools, you’d get mad. You wouldn't ask his reasons for not bringing tools, nor would you discuss the weather with him. You needed "Mike the mechanic" to show up and solve your problem. Without the tools he's just "Mike the person", and frankly useless to you.
-
-Middle class people have a host of problems like increasing insurance, prescription drug, and tutoring bills. You need solutions. When someone says they can help, you must ask what tool they have, or will give you, that will help. Anything else is smoke and mirrors. You don’t need to see regulations, laws, or blog posts anymore then you need to see the mechanic’s favorite car repair manual. You need tools.
-
-Red/blue philosophies show up with no tools. Not because red/blue leaders and supporters don’t care. But because their philosophies don’t know better. Stuck on old tools, they tell the middle class to walk to the nearest gas station and hope for help, and they promptly blame the opposing political party when we complain.
-
-That’s not horrible, until you consider that with a new digital car, like a Tesla, our broken cars can now call the mechanic, give him a diagnostic to his smartphone immediately, and he’d be able to tell what the problem is, and most importantly, tell the scared person the side of the road, what to do next.
-
-Now consider it’s often against the rules to solve our problems so simply. Patent laws, insurance regulations, nondisclosure agreements, non-compete clauses; a mountain of rules any antagonist can search through so he can force us to keep walking to gas stations.
-
-We must realize how much new digital tools help. Here’s an exercise to do it. Every time you want to watch a Netflix show or YouTube video, get in your car, drive five miles, wait 10 minutes, throw away six bucks, drive back home, and then press play. Watch the movie and do it again within 24 hours or get charged a late fee. Easy to forget, but that’s what renting videocassettes and DVDs was like.
-
-Netflix was a big victory. But a rare one. Today, how we pay taxes, recognize education, repair electronics, transfer home ownership, decide our investments, sign sales contracts, get hired, fire someone, use warranties, access medical records, and so much more, works like how we rented a DVD. An unnecessary and expensive pain in the ass enforced by a Death Star of rules. It echoes the philosophy that preached to our ancestors that voting, reading science books, and owning a musket were all against the rules. Totally bullshtt, a veil made by con-artists.
-
-It doesn’t have to be politicians’ job to create, make, market new tools. Just get the Death Star out of the way. Until it’s gone, the power of internet connected digital cars, solar panel roofs, air quality testers, EKG monitors, repairable laptops, safe nuclear reactors, easy to manufacture vaccines, waterless toilets, online education, is impossible to harness with old philosophies obsessed with protecting limited tools, and holding us back in the story of civilization.
-
-Ignore red/blue's romaticism of revolutions! Use Techvolution to truly change the world. Let the people choose whichever tools best solve your problem. Digital tools and their many Jedi innovators, coders, technicians, designers, repair shops, are ready and waiting to solve real-life problems; it’s intoxicating to them. We just need a new philosophy, giving us the freedom to choose the best tools to solve our problems at home, work, and leisure. The people majically bonding with whatever tool they want, is the ultimate ~~revolution~~ Techvolution.
 
 ## Society’s Three Stories
 
@@ -1017,144 +978,80 @@ Later kings still didn’t learn. Even more distanced from the frontline inside 
 
 So the question now is... why did you think Darth Blockbuster would ever admit he was wrong and change his ways?
 
-# ACT THREE
-
-## 
+## Summary
 
 I'm going to cut this short.
 
-The USA really is headed towards a civil war. But not a repeat of its first one. A repeat of something far worse, and something all countries that have red/blue politics is going towards, a shared civil war across borders that's the Thirty Years War (1618–1648). It was our medieval ancestors horror show, remiscient of World War II. The people were pissed off, and they were looking for a better society. Two political parties existed back then the people would vote for, accept voting meant belief, and changing their vote meant conversion. Red/blue parties back then weren't conservative or progressive, but protestant and catholic. The people were sick of the nobility, sick of their divine right to rule, sick of their banquets and balls. So in the millions they slaughtered each other because their anger and frustration had two outlets, and each time they flipped their coin, protestant or catholic--heads of tales--, they still got the divine right to rule. So they blamed the other side for what to us both sides failure.
+Listen to me. When your cars breaks down, you call a mechanic for help, right? If he showed up with no tools, you’d get mad. You wouldn't ask his reasons for not bringing tools, nor would you discuss the weather with him. You needed "Mike the mechanic" to show up and solve your problem. Without the tools he's just "Mike the person", and frankly useless to you.
 
-If you went back in time, what would you tell all those Germans, French, English, Swedes. etc? You would tell them all the shit I've been trying to tell you.
+If there were no tools, you'd have to resort to regulations and campaigning to get people to help you. But with tools, all you need is the tools and a person who can use them. Tools are political problem solvers. Tools are political power.
 
-Because we're in the exact same spot. Once upon a time, being loyal to the king was as rational as being loyal to Neo in the Matrix. Yet, as soon as the problem the king was declared leader for, political anarchy, was solved, nobody knew how the fuck to tell Neo to go away. Thus an protagonist, became a fallen angel, and became a antagonist. Likewise we similarly don't know how to tell our economic leaders, once our protagonists, that the people can grow up, because everytime we flipped our political coin, we always get red or blue, and then blame each other for the inaction.
+Middle class people have a host of problems like increasing insurance, prescription drug, and tutoring bills. You need solutions. When someone says they can help, you must ask what tool they have, or will give you, that will help. Anything else is smoke and mirrors. You don’t need to see regulations, laws, or blog posts anymore then you need to see the mechanic’s favorite car repair manual. You need tools.
 
-Our ancestors don't have the lessons of history to learn from. All i've done here is take the lessons that made our ancestors stop having civil wars in support of a protestant or catholic king, and start having revolutions against all kings. because their problem wasn't the king was the wrong faith, but that he was a king who thought he was forever the leader of the human story.
+Red/blue philosophies show up with no tools. Not because red/blue leaders and supporters don’t care. But because their philosophies don’t know better. They're stuck inside an old ecosystem before the Digital Age. Thus they believe in a political ecosystem with members and non-members, but an economic island still trying to grow. But digital tools make economic ecosystems possible. But since our ruling philosophy is old, it's stuck on old tools, and thus they tell the middle class to walk to the nearest gas station and hope for help, and they promptly blame the opposing political party when we complain.
 
-All i've done here is take the lessons our ancestors worked to hard to collect, and went back in time to tell you, the modern extra/consumer, what anyone would tell a extra/peasant in 1610. You don't need to fight for the king, you have to fight for yourself.
+That’s not horrible, until you consider that with a new digital car, like a Tesla, our broken cars can now call the mechanic, give him a diagnostic to his smartphone immediately, and he’d be able to tell what the problem is, and most importantly, tell the scared person the side of the road, what to do next.
 
-Here are the lessons.
+Now consider it’s often against the rules to solve our problems so simply. Patent laws, insurance regulations, nondisclosure agreements, non-compete clauses; a mountain of rules any antagonist can search through so he can force us to keep walking to gas stations.
 
-The frontline is Nicolo Machiavelli's "effectual truth". Machiavelli cae from a poor family, whose father gave him many books from the recent printing press. Machiavelli was the first philosoper to get to read lots of different philosophy and history books, and he noticed trends. He told superstitious people, they didn't need to put their faith in God, because we can keep lookin for trends, master them, and start to overcome problems like hunger, disease, and all that.
+We must realize how much new digital tools help. Here’s an exercise to do it. Every time you want to watch a Netflix show or YouTube video, get in your car, drive five miles, wait 10 minutes, throw away six bucks, drive back home, and then press play. Watch the movie, drive back within 24 hours or get charged a late fee. Easy to forget, but that’s what watching content on demand with videocassettes and DVDs was like.
 
-Soon later Galileo, Francis Bacon, and lots of other people, read this insight, and invented the Scientific Method, which systemized looking for "effectual truth" by simply testing Nature with instruments, and discovering the truth, not inventing it with reason.
+Netflix was a big victory. But a rare one. Today, how we pay taxes, recognize education, repair electronics, transfer home ownership, decide our investments, sign sales contracts, get hired, fire someone, use warranties, access medical records, and so much more, works like how we rented a DVD. An unnecessary and expensive pain in the ass enforced by a Death Star of rules. It echoes the philosophy that preached to our ancestors that voting, reading science books, and owning a musket were all against the rules. Totally bullshit, and holding us all back from the land of equality, responsibilties, freedom, and accountability  we want to live in. And we will, once we think of politics as holding tools.
 
-Natural equality, the extras, is from Thomas Hobbes. He lived during the English Civil War, when people were again sick of the king but didn't have easy options to get rid of him. Hobbes invented human equality by saying in Nature (he called it the State of Nature), all lifeforms live freely, thus why shouldn't humans. Hobbes said people should still be loyal to a king, yet not because he's divine, but because it's in the best interest to have a stable and firm government because when that goes away--as Hobbes was personally seeing--people turn horrible. Because the king wasn't divine, his power to rule came from the consent of the goverened, who are like him, equals.
+# ACT THREE - CLIMAX
+
+# Climax
+
+If someone were to tell you how to vote, while looking over your shoulder, you'd be weirded out and call the police. And society in general would agree nobody should tell you, nor force you, how to vote. You yourself haven't done anything to earn that right. It's a byproduct of living inside a political ecosystem with guns used by recognized policeman, fair judges of a court system, and the absence of invasions or desperation that lets every member of the community cast a vote.
+
+Your life wont get better until you think of a tools in the same way. The solution to your political and economic problems. Using red/blue philosophies is a recipe for living in the past.
+
+Everytime you listen to a political speech just notice how many times they talk. Once you ask yourself what tool am I getting to bring down taxes, cap the debt ceiling, fight climate change, then you'll talking solutions. Until then you'll be experincing societal collapse.
+
+## Lessons
+
+I can't fix an engine. I can't cook a tasty meal. I can't do a hand-stand. I can't juggle. I can't do math in my head. I can't do most things out there. At almost everything I'm average, at many things I suck, and a few things I'm good. My special skills are abstract reasoning, an understanding of social rules, and being polite. Put this together with a decent memory, and an interest in history and political philosophy and you get this book.
+
+I tried to make the history lesson as readable as possible. Almost all the topics and subjects are metaphors for the lessons Europe learned from going to the divine rights of kings, to the rousseau philosophy of political democracy and equality we live in today. Here they are:
+
+The frontline is Nicolo Machiavelli's "effectual truth". Machiavelli came from a poor family, whose father gave him many books from the recent printing press. Machiavelli was the first philosoper to get to read lots of different philosophy and history books, and he noticed trends. He told superstitious Europeans, they didn't need to put their faith in God, because we can keep looking for trends, master them, and start to overcome problems like hunger, disease, and all that.
+
+Soon later Galileo, Francis Bacon, and lots of other people, read this insight, and invented the Scientific Method, which systemized looking for "effectual truth" by simply testing Nature with instruments, and discovering the truth, not inventing it with reason. Hence it's the "point of contact" between a tool and it's use is an experiment. Thus the truth of the experiment is our guide, not the rules of the social heirarchy.
+
+Natural equality, the extras waiting to become protagonists, is from Thomas Hobbes. He lived during the English Civil War, when people were again sick of the king but didn't have different ruling philosophy to replace him with. Hobbes invented human equality by saying in Nature (he called it the State of Nature), all lifeforms live freely, thus why shouldn't humans. Hobbes said people should still be loyal to a king, yet not because he's divine, but because it's in the best interest to have a stable and firm government because when that goes away--as Hobbes was personally seeing--people turn horrible. Because the king wasn't divine, his power to rule came from the consent of the goverened, who are like him, equals.
 
 Something ... comes from John Locke. He came after Hobbes and agreed with his State of Nature, but said the people didn't need to put all their trust into a person as leader, but instead put their trust in the institution as leader. Meaning, the people should follow a president, not a king. That way the people can elect, new leaders while still getting the stability of government. Hence, the leader can always be a protagonist, and anyone who fights the will of the people, the people on the frontline, is an antagonist.
 
 Ruling philosophy, old philosopheis, comes from Rousseau. Rousseau merged all the thinking from Machiavelli to Locke, and said the people can't rule within the confines of an old philosophy. Thus, even though philosophers from Machiavelli to Locke were giving new philosophy, they didn't say to breakfree from the past. Rousseau say change it all, which is why the people used him during their revolutions, and why I talked about him above. We also need to change it all.
 
-The Sith and Jedi, protagonist and antagonist, is Hegel's Thesis, Antithesis, Synthesis dialectics. After centuries of histories, looked back at the trends, and said there was a ruling philosophy, whose problems manifested into a competitor, the two would eventually fight it out, and make a new ruling philosphy that merged the two together. He also said master–slave is a relationship that recurs throughout humanity, and is the reason we looked at Frederick Douglas, who while was the physical slave, his captors were the mental ones, bound to a horrible social system as much as Frederick was. Frederick's process of self-discovery, was how slaves realize their status and break free.
+The Sith and Jedi, protagonist and antagonist, is Hegel's Thesis, Antithesis, Synthesis dialectics. After centuries of histories, looked back at the trends, and said there was a ruling philosophy, whose problems manifested into a competitor, the two would eventually fight it out, and make a new ruling philosphy that merged the two together. He also said master–slave is a relationship that recurs throughout humanity, and is the reason we looked at Frederick Douglas and Neo, who while was the physical slave, his captors were the mental ones, bound to a horrible social system as much as Frederick was. Frederick's process of self-discovery, was how slaves realize their status and break free.
 
 Cyborgology, and majic, are Darwinism. The evolution of lifeforms based on their tools to collect resources. Life started out as simple organisms, and as these primitive lifeforms struggled to survive, they adapted better --biological--tools to do so. Eventually the benefits of biology maxed out with us, and so we have to continue evolution with tools. We similarly started to evolve (techvolve) with primitive tools, which slowly got better and better.
 
-Death star and dark majic comes from modern psychology. Experiments like the Milgram Experiment, where people are told they're partcipating in a science experiment trying to figure out if pain helps people learn. The "teacher" asks the "student" questions, and when the answer is wrong, the teacher gives a electric shock to see if that'll help the student learn. The shocks move from minor, all the way up to electric chair certain death. When the teacher asks questions or protests the "scientist/authority figure" says the experiment requires he continues. No threats just prompts to continue.
+Death star, Darth Blockbuster, and dark majic come from modern psychology. And this is the real reason I wrote this book.
 
-The teacher is set-up, there is no shocks. But he thinks there are. Milgram was the son of Jewish refugees after WWII, trying to figure out how humanity could be so horrible to each other. The answer is we follow orders well. Before the Milgram experiment psychologists predicted less than 1 of in a hundred teachers would kill the student. Over 50 did, and everyone started the test, only stopped when the (fake) cries of the student prompted them to stop despite the scientists prompts. Now imagine if the scientist was a general or president. Most people would probably keep going.
+All of this is hard to understand. It seems simple because it's your life, and you think your opinions matter. But there's a reason we go to the doctor when we're feeling sick. They know the human antonmy, and we don't, even though we own one.
 
-Darth Blockbuser is comes from the Lucifer Effect.... and the stanform experiment....
+So the question is, if these are the characters inside the repeating story of civlization, which one do you think you are?
 
-That's the history and philosophy behind all the terms you've been reading, hopefully making them more understandable, and especially more integrated, so we can understand. It's not my own insights, just a the benefit of hindsight.
+## Stargazer
+<!-- talk   abou who are you, as the larger question -->
 
-And this is what I would tell a European peasant, sick of their life in Europe, before they went off and fought a catholic king, to replace him with a protestant king, and that's what I'm telling you today.
+Stargazer, once upon a time everyone was an astronomer. Anyone could look up at the sky, see the amazing show up there, and make up whatever they wanted. Some answers make more sense, but explaining what was up there, from angels to fireflies, is impossible to see, so impossible to disprove.
 
-My only insight to write Techvolution is the story of civilization. Which is that that tools are what driving force behind all human events. And that tools grow and adapt like any biological lifeform. The first step is very competitive as lifeforms spread as fast as they can in a winner takes all battle. The winners mark their territory, plants set their roots, animals roam and protect their territory, and once the lifeforms are secured, do they settle downa nd start to life a regular life. As they life, they then start to adapt to the area.
+What digital tools will do, is tell us who we are. It will track our individual decisions, and reveal us to ourselves. And are people going to want to learn the lesson, and step out of their own matrix, or are they going to justify their belief system the way so many justified the Earth being the centre of the Universe.
 
-And here is when lifeforms stop competiting and start collaborating inside ecosystems. An ecosystem has borders and a strict divide between members and non-members, locals and foriegners. Locals know the game, and they settle down into a flow. This way each can harvest resources in a special way, and pass on the resources to another lifeform in the ecosystem. The constant flow keeps all lifeforms in check and balance, and makes sure they're all adapting even though there's no natural disaster to adapt to. There has to be members and non-members otherwise the lifeforms couldn't work together. That's why foreign species, like..., are so devastating. They simply don't know the rules of the ecosystem's game.
+And that's the climax. A question as big as any ever asked. What's going to happen when we start to realize how much Death Stars and dark majic our political decisions are made under. Religions, philosophies, corporate manuals, and so forth making people press the button because they can't say no.
 
-And this transition from competition, winners takes all, to the collaboration of an ecosystem, happens to human society's too. But with tools. When things are barren and desperate, our cybogology is weak, and thus we form strong hierarchies around the few people (protagonits) who control the few tools/adaptions. If the tools evolve, they get stronger, and thus more of the people can also evolve, and become their own protagonists. When enough people are protagonists, they're lifeforms, they need to switch over from the competition phase, to the collaboration phase. This is why after the Thirty Years War, humanity put up borders around their countries. They were forming an ecosystem, with members and non-members, so that they could collaborate.
-
-Then we kept evolving, and when our tools were economic, we again spread them in the competition phase throughout the globe, and followed the early protagonists. But as economic tools evolved, more people could become protagonists, which is what happened in the 1970's and digital tools. And once enough of use were empowered by digital tools, we wanted to form ecosystems, economic this time, so we could collaborate. which is why Brexit, and Trump's election were so predictable and inevitable. The story of civilization is something we don't have a handle on, but it's the story of evolution simply with tools and humanity. Growth in a competive phase, then collaboration inside ecosystems. But humanity is like a blank canvas of lifeforms. We fill in the roles of lifeforms, and morph as required...
-
-And this is what I'd tell a European peasant before hte Thirty Years War. They wouldn't understand it. So I'd tell them to be selfish. "What are you getting" if a protestant/catholic king wins. They'd respond with some dark majic answer about getting a better church, or going to heaven. Then I'd ask him to show me his daily life. And he'd show me his trip to the well everyday where he walks 10 litres of water to bring back to his house. He'd show me his manually labour cutting hay for his horses. And he'd show me this and that. And i'd tell him "the only thing you need to fight for, and better tools, better water systems, toilets, heating, insulation, because that's the only way God's creatures fight off the Devil, the rest is all talk."
-
-He still wouldn't understand. He'd be like so many in the Milgram experiemtn and simply follow authority figures who think they're protagonists, but are really Lucifers. He wouldn't have the benefit of so much hindsight.
-
-You do. All you have to do, is seek out digital tools to improve your life.Be selfish, because every animal in teh world is selfish, and that's what evolution is. That means we'll start to form economic ecosystems so we can collaborate. Some of that will be online, but most will have borders. It's the only way our social problems will get solved. Like overthrowing the antagonist kings, its going to happen.
-
-I just hope we don't live through a Thirty Years War, before we realize we were fighting the wrong fight.
-
-
-## A Fight Over No Tools
-
-- stories can be big, or small, but each is structured the same....
-
-So do you think Darth Blockbuster is dead? Do you think he'll ever die?
-
-Do you feel the weight of the questin on your shoulders, Stargazer. Do you feel it—the weight of the world? The mantle of fate? As we create a new philosophy to rule our society's deepest definitions of right and wrong in all areas from politics to economics?
-
-You shouldn't.
-
-At the start of this journey, I told you characters fight over tools. In every story from The Illiad to Star Wars, the character who holds the tools is the victor who writes the rules.
-
-So what tool have I given you to defeat the Sith?
-
-Sure it's easy to mock Darth King Charles. It's easy to mock Darth Blockbuster. We have the cyborgology of history books and news articles to see their stupidity.
-
-But who is the Darth in your life that'll you'll stand up to and saw "Hey listen asshole, clean out the garbage can and let someone else take command".
-
-For Techvolution to be real, that has to happen.
-
-The ruling philosophy hasn't been updated since America ran on dirt roads. It assumes unexplored horizons filled with wilderness that needs to be tamed in a land rush. Economic growth was paramount, hallowed in our culture protected in our rule book.
-
-That's not the world we live in. We know America is 330,000,000 square miles. We know what resources there are. Growth has stopped. Now we need efficiency. Yet without a new ruling philosophy the salesman, the brokers, the spenders, are prioritized over the makers, the savers.
-
-In 1973, when Gordon Moore said "We are really the revolutionaries in the world today—not the kids with long hair and beards who were wrecking the schools a few years ago." Most of the world's electronics was researched, designed, and made in America. Within twenty years that was barely the case.
-
-That was the watershed moment in Western societies. The digital revolution didn't come with a political one. Rather than using digital tools to transform American, we exported America to keep old philosophies alive. We should have changed to obess about efficiency.
-
-But that wasn't what corporate aristocracy knew how to do. Without a new ruling philosophy they went for the self-importance of performance art and the spectacle to distract the masses. That's why gas car brands multiplied, models were "redesigned" every year, all so the marketers, salesman and brokers had ever more ammo for their garbage meetings.
-
-They rejected digital tools for the same reason kings rejected science books and people owning muskets. It meant there was nothing left to manage.
-
-- success of the ruling philosophy, jumlbes the definition of success. it is serving hte heirarchy of the new tools, or making even newer tools? when does a story jump the shark?
-
-All the while American should have been making Tesla's, and even better, started to build communities were digital tools like telecommunications over jam packed roads and mental illness inducing traffic.
-
-When the spectacle would wear off on frontline people suffering in the "rust belt", the answer was always to bring in new people. Hence why I was cleaning office buildings as a kid. It was always easier to clean up after blue collar workers, they took pride in their workstations and stuff. Office workers had positions, so didn't like working "down".
-
-They used a Death Star rule book to help themselves have meetings, and keep the workers away.
-
-So how can the workers on the frontline fight back?
-
-Techvolution in their hearts, but that still needs tool. So what's a tool to help the workers?
-
-## The Anti-Death Star
-
-Political philosophy is often called "visions of the just and good society". Every political philosophy imagines a world "classic stories" where the leaders are selfless and use their powers to benefit the community.
-
-Socrates and Plato called these heroes the "philosopher kings", Aristotle called them "". Machiavelli called them a "educated prince". They each in their own way admonished selfish leaders, people who I called the Sith. None, not even my favorite Rousseau, could make a political philosophy that, when applied inside a rule book, killed the Sith forever.
-
-The repeating story of civilization has been a society that embraces a ruling philosophy lead by true heroes using new tools to better their societies like Clovis I and George Washington. But eventually the story shifts. The leaders become self-important like Darth King Charles, and Darth Blockbuster and use spectacle to distract the masses.
-
-Thus, even after the Jedi won, it wasn't long before the protagonists and antagonists again fought over tools, and the extras are stuck in between trying to figure out who the bad guys were.
-
-So asking you to pick the right side? How can the people ever get it right.
-
-That's why I never planned on writing this book. I only wrote this book to wipe all old philosophies and their rule books away. The people who don't understand the SpaceX landing a rocket is more important than any regulation reforms. That health-insurance doesn't mean a healthy population. That to advance humanity we need to let us majically advance our cyborgology any way we want.
-
-Because the truth is, the Sith only survive because we have "visions" of a just and good society. Digital tools let's use actual see these visions and apply them to common senses.
-
-Techvolution is the next ruling philosophy. It empowers seamless human technological evolution by ridding Darth Blockbuster of his power, by empowering extras to decide when society should upgrade our tools.
-
-But it does so not with a rule book written by me, you, a manager, or a president. It does so with what I said at the very start every story is about. A new tool that changes the game. The only thing that can forever kill the Sith is a tool. A tool I say.
-
-And what is this tool?
-
-- i wrote this book to tell you what this new tool will do, and how it will be designed. It's a tool of perpetual stories, with heroes who overcome problems and return to equality without a fight.
-- The political question of every time period was the same, are we going to change society to make the best use of new tools. And for use today, we're faced with the same question.
-- the differetn stories, of classic, art/spectcle never understand each other. There's no common sense, sense as in the actual sense pain or smell, because their cyborgology is different. Not until the selfish rulers cause so many problems on the frontline, did enough people ignore the spectacle to demand change in the name of a new ruling philosophy designed to distribute the powers of new tools and thereby upgrade human's cyrborgology to solve back log of problems. Sometimes this huge outburts as in France, or small as in England.
-- The point is, it's not possible to cross these stories. Power corrupts. Not everyone, but once it finds a host in human greed and short sightedness, getting it out is very hard, because the Death Star really exists. Its mountains of theology, or families bloodlines or inheritances and jurisprudence.
-- The key then is give everyone a common sense to feel the pains of society, so the extras are not distracted by spectacle as the leaders ramp up the spectacle to mask their selfishness.
-
-So come Stargazer, with your mind wipe clean up old philosophies and human written rule books, we can now find true answers to the human condition as we tear the mask of Nature, and stare into the face of God. While the Sith survive from their Death Star, we will kill them by a tool the Jedi can control, the Life Star.
-
-- we've used stories to understand these ideas, and here's another, the please join us next week for the sequel, Life Star.
+Let's take a look.
 
 # EPILOGUE
 
 ## My App
+
+I never wanted to write this book. I wrote a similar book years ago "A Non Functioning Society: Why the 2008 Economic Crisis Was Only the Beginning". All the lessons from here are there. For example, it predicts the western world is trying to assert a economic ecosystem, and thus needs borders. Trump and Brexit were as predictable as the orbit of Mars once Newton wrote gravity's equations.
+
+I wanted to showcase how we can make smooth out our economic problems making solving real world problems with digital tools. Which be definition means people solving their own problems "Think Global Act Local". "Techvolution" would be a way to make digital products. That didn't work out.
 
 My app. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in "tech".
 
@@ -1204,6 +1101,10 @@ Am I done fighting? No. I’ve picked up another tool, though, one that fits bet
 
 Who are you, Stargazer? Who will you be?
 
-For we have to make a new tool that kills Darth Blockbuster and the Sith. If he has his Death Star to enforce his envy, fraility, and greed upon the world, then what is the tool by which we can enforce ingenuity, honesty, and work-ethic?
+<!-- segway into Life Star/Milgram -->
 
-Don’t worry. I look at you and see not a pupil, but the master who will forever win the war against the Sith. You will make an incorruptible rule book. Where the only rule is natural selection. It fosters evolution, not kill it like its opposite. I called it the Life Star.
+Every person I spoke to was being rational. They were simply following orders. I was the outsider trying to tell them they don't need to. But were perfectly happy to keep doing so, and felt justified. In an industry so dependant on old tools, following orders was the means to success. Free thinkers were dangerous. New tools were a mortal threat.
+
+I never wanted to write this book. There's no way to make people realize which character they are. Protagonist, extras, antagonist, Darth Blockbuster, all that is hidden by dark majic and social rules.
+
+It doesn't tell us the philosphy that need, it's telling us the philosphy digital tools will show us. Just like scientific instruments revealed the Natural world to us, digital tools will reveal us to ourselves. We'll be challenged us to act based on our contributions to a higher purpose, instead of our psychological bent. Like scientists today use instruments to uncover the rulebook, digital tools will help us uncover who we are, and what our politics and economic tools and leaders should be. A rule-book already in use by open-source because it fosters evolution, not kill it like its opposite. I called it the Life Star.
