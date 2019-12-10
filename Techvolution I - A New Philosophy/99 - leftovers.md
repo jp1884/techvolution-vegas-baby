@@ -1520,3 +1520,19 @@ The sample is about 25 pages, so if you're up for it, I'd appreciate some help. 
 
 Cheers!
 
+## Thirty Years War
+
+## Read Now or Read Later
+
+There's a heck of a lot of political emotions in today's Western Civilization. Conservative and Progressive are worldwide ideologies in disarray. Their believers march and scream just as much after elections as before them. I'd put our situation right before the Thirty Years War (1618-1648). A time when Catholicism and Protestantism spanned the globe, and their believers back at home were so discontent they fought against evil "Catholic" or "Protestant" kings.
+
+What the people really wanted was a new political philosphy. But there's no mental switch. It was only after Europeans questioned their kings, that they realized their all kings were assholes. Soon the people demanded freedom inside their own countries and so they fought the American (1776) and French Revolutions (1789).
+
+Why didn't they just fight the kings? For the same reason we just just pick up the keys to a space ship today. There's research and development involved for our philosophies. It involves living a life on the frontline, experiencing all it's the problems, using the tools that could solve them, and using reason to create a readable explanation for the new rules that should govern our lives. If that happened sooner Europe may have avoided a lot of bloodshed.
+
+Right now, each person on the Main Street has a choice. It's not support Conservative or Progressive because these are just like picking a protestant or catholic king. I never meant to or wanted to write this book. It's not written as a political philosophy or history book. I could have but didn't want to. Instead it's written for everyone on Main Street to look up and realize your smartphone, augmented reality, 4k video camera aren't just toys. They're the start of the Digital Age.
+
+We achieved great things in the Industrial Age. It wasn't perfect, but new tools in medicine, physics, sanitation, education, agriculture empowered us to fight disease, ignorance, and hunger. But we're not in the Industrial Age anymore. Using old philosophies to solve our problems makes as much sense as using theology did to our ancestors all those years ago. We need a new philosophy, one that inspires people to think of the big picture again.
+
+Political philosophies start with books. It was a series of books that lead Medieveal commoners to believe and undestand how they could control their own socieities. Either this is the one, or another one is. But it's not two aged, old, and bygone political beliefs go down fighting and take us all with thems.
+

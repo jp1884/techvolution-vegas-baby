@@ -6,7 +6,7 @@ December 2019
 
 ## Backpage
 
-Are you happy? On the outside Westerners have flashy products, full employment, and stable politics. On the inside our middle-class deals with stagnate wages, crushing debts, increasing inequality, antisocial behavior, political hatred, unhappy rat race lifestyles, climate change. We have the freedom to vote any ideology, and we've tried them all, yet our problems keep increasing. In this book I argue the middle-class needs a totally new philosophy, one that says we either step up to solve our own problems, or keep suffering the unknowns of a degenerating society.
+Are you happy? On the outside Westerners have flashy products, full employment, and stable politics. On the inside our middle-class deals with stagnate wages, crushing debts, increasing inequality, antisocial behavior, political hatred, rat race lifestyles, climate change. We have the freedom to vote any ideology, and we've tried them all, yet our problems keep increasing. In this book I argue the middle-class needs a totally new philosophy, one that says we either step up to solve our own problems, or keep suffering the unknowns of a degenerating society.
 
 ## Dedication
 
@@ -28,61 +28,67 @@ Gordon Moore, co-founder of Intel, 1973.
 
 How do we develop through technological Ages? Going from the Stone Age to the Bronze Age or the Medieval Age to Scientific Age happens over generations—it's hard to get our head around. I've been thinking about it for years and only now have a grasp. There's a lot to think about when a civilization's entire way of life upgrades to new technology.
 
-Play games like _Age of Empires, Anno 1800_, and _Civilization_ and you’ll get a good idea of how it works. You’ll be the player “god” that saves up the resources, invests in the science, and decides when to click “upgrade”. Then, like magic, civilization instantly transforms. Every house, factory, building, road, library, school is suddenly new and improved.
+Play games like Age of Empires, Anno 1800, and Civilization, and you'll get a good idea of how civilizations develop. You'll be the player "god" that saves up the resources, invests in the science, and decides when to click "upgrade." When you do civilization instantly transforms. Like magic every house, factory, building, road, library, school is suddenly new and improved.
 
-The above is just a game of course. But we're all in there somewhere, looking up from Main Street, trying to figure out how to earn a living while society transforms around us. It's hard—there is no player god and no magic button. Instead, we, the people inside the game, must collect the resources, do the research, and manually upgrade every part of our civilization bit by bit—with blood, sweat, and tears. We can't sit back, click, and watch. We must live it.
+The above is just a game, of course. But we're all in there somewhere, trying to figure out how to earn a living while our society transforms around us. It's hard—there is no player god and no magic button. Instead, we, the people inside the game, must collect the resources, do the research, and manually upgrade every part of our civilization bit by bit with blood, sweat, and tears. We can't sit back, click, and watch. We must live it.
 
-Improving technology is hard, but we understand how research and development works. But changing politics is hard to understand when society one foot in the old era and one foot in the new. And this is the world of politics and philosophy, civil wars and revolutions I want to explain to you. Because in 1970 we entered the Digital Age. Since then digital innovators, geeks, and hackers have been upgrading our society with digital tools—while the powers that be have been holding them back.
+Improving technology is hard work, but at least we understand how to do research and development. Improving politics isn't so straightforward. Politics is the relationship among all the people in the game. It's contentious; especially when society has one foot in an old and new era. This is the world of politics and philosophy, civil wars and revolutions I want to help you make better sense of. Because in 1970, we entered the Digital Age. Since then, digital innovators, geeks, and hackers have been upgrading our society with digital tools—while the powers that be have been holding them back.
 
-And that’s the reason life for the middle-class has gotten worse. Things will only improve once we finish the Digital Age upgrade. There's no game, cheats, or gimmicks. There’s just you, and your friends, that have to get out the sweat-bands, work gloves, and new ideas to upgrade every piece of our civilization, bit by bit.
+And that's the reason life for the middle-class has gotten worse. Things will only improve once we finish the Digital Age upgrade. There's no game, cheats, or gimmicks. There's just you, and your friends on Main Street, that have to get out the sweat-bands, work gloves, and new ideas to upgrade every piece of our civilization, bit by bit.
 
-The job before us is as natural as evolution. Life only adapts and diversifies when new and improved lifeforms replace the old ones. Likewise, right now our civilization is moving from the Industrial Age to the Digital Age. You can only help our evolution or old it back.
+The job before us is as natural as evolution. Life only adapts and diversifies when new and improved lifeforms replace old ones. Likewise, right now, our civilization is moving from the Industrial Age to the Digital Age. You can't sit out. Either you help our evolution, or old it back.
 
-This book is your guide. It integrates technology, history, politics, and philosophy; but it's not written for any buff. It uses the power of stories to help the people inside the game—today's middle-class—who want to see their better life now. The first step is a new mindset. Because we already have digital tools. We only need a new philosophy to enjoy all the wonders of the Digital Age.
+This book integrates technology, history, politics, and philosophy, but it's not written for any buff. It uses the power of stories to help the people inside the game—today's middle-class—improve their own lives. The first step is a new mindset. Because we already have digital tools. We only need a modern philosophy to get all the wonders of the Digital Age.  
 
-## Political Philosophy
+## Looking Up to Political Philosophy
 
-This book's illustration has a regular person, standing on Main Street, looking up, hoping for guideance. He sees two options, the heroes and the villians fighting each other. In the sky above them is the "player god" who determines the winner.
+This book's illustration has a regular person standing on Main Street. He's supposed to help society upgrade but isn't sure how. So he's looking up, hoping for guidance. He sees two options—the heroes and the villains—fighting each other. In the sky high above is the "player god" who determines the winner.
 
-In the game when the player god presses the upgrade button, every character gets all new tools. Quills become pens, shovels become excavators, telegrams become telephones. It's what we do when shopping, reading previews, and "saving up" for a new cool thing. These are everday choices to us. And they determine the health of our entire civilization. Yet we don't think of ourselves as being "player gods"; that it's all our individual choices that makes up the "player god".
+In the computer game, when the player god presses the upgrade button, every character gets all new tools: quills become pens, telephones become smartphones and so on. It's what we do when shopping, reading reviews, and "saving up" for a new cool thing. This is how our everyday choices determine the health of our entire civilization. Yet we don't think of ourselves as being "player gods"; in fact it's all our individual choices that make up the "player god."
 
-The more individuals realize the "big picture", and act like their actions matter, the healthier their society. And the job of giving them perspective is the world of political philosophy. And it's a mysterious world with one clear goal, make people act with the big picture in mind.
+The more individuals realize the "big picture" and act like their actions matter, the healthier their society. And the job of giving them perspective is the world of political philosophy. And it's a mysterious world with one clear goal; make people act with the big picture in mind.
 
-But what the heck is the big picture and who knows it best. In everyday life, everyone says their fighting for the good. No one says they're evil. But when we look back at history, we see good guys and bad. So both must exist in the present. We just don't know who is who.
+But what the heck is the big picture, and who knows it best? In everyday life, everyone says their fighting for good—no one says they're evil. But looking back at history and the villains and heroes easily pop out. Both must exist today. But who is who?
 
-So there you are, on Main Street, look up, trying to figure if Donald Trump is evil, or if the United Nation is trying to make world government. Is Fox fake news, or maybe "all of them" are fake news. If so, what's real news?
+So there you are, on Main Street, looking up, trying to figure if Donald Trump is evil, or if the United Nations is trying to make a world government. You ask if Fox News is manufacturing fake news, or maybe "all of them" are. If so, what's real news? Do you join the trolls, fight them, or... what other options are there?
 
-It's all very confusing and emotional. Sad part is you have to pick sides. After all you're the one supposed to upgrade civlization to the Digital Age. Wouldn't it be cool to know difference between good and bad. It is, it's calming to understand politics. And that's one reason why I wrote this book for you.
+It's all very confusing and emotional. Sad part is you have to pick sides. After all, you're the one supposed to upgrade civilization to the Digital Age. Wouldn't it be cool to know the difference between good and evil? It is, it's calming to understand politics. And that's one reason why I wrote this book for you.
 
 ## Your Politics
 
-When a computer player presses "upgrade" to a new Age technology changes. But we can't see a philosophy change; it's not as easy as dropping a telegraph for a telephone.
+When a computer player "upgrades" to a new Age, we can see technology changed. Damning a river, or putting up telephone poles is very obvious.
 
-Yet we do change our philosophies. And this is where you are, and where you're political opinions come from. And like the player doesn't see the change in his game, we don't see the change in our own minds. People are good at expressing and fighting for their mindset. But understanding where it comes from is entirely different.
+When civilization replaces philosophy's—going from dictatorship to democracy for example—the change is in our minds. And that's much harder to see. Yet this unseen place is also where our political opinions come from. People are good at expressing and fighting for their mindset. But understanding where the mindset comes from is entirely different. Everyone assumes they're fighting with the "big picture". But somebody isn't.
 
-Everyone assumes they're fighting with the "big picture" in mind. But nobody can see it anymore than a single lifeform can understand what life has in mind.
+Who isn't? Nobody ever says, at least in public, "I'm a bureaucrat, so I don't want change." Instead, the person says, "The department of such and such is vital for your interest and we need more funding." Nobody says, "I'm an anxious person whose overly polite to mask my insecurities, so I don't like Donald Trump because he's mean", instead that person says; "Trump is not presidential."
 
-Nobody ever says, at least in public, "I'm a bureaucrat so I don't want change". Instead we say, "The department of such and such does great work and must have more funding". Nobody says, "I'm a really anxious person whose overly polite to mask my insecurities, so I don't like Donald Trump for being so mean", instead that person says; "Trump is not presidential".
+The point is, the reason for your political opinions is hard to know. It's a byproduct of your psychology, job, skillset, family, culture, ethnicity, religion, and time-period. Who can understand why one parent cries tears of sadness, the other of joy, on the same election night?
 
-The point is, the reason for your political opinions is hard to know. They're byproducts of your psychology, job, skillset, family, culture, ethnicity, religion, and time-period. I can't explain where each person get's there politics. But I can't explain where you fall in the story of civilization. Because when a new Age comes, civlization always has the same cast of characters. People who want to retain or distribute power. And people who conform or reject authority.
+I can't explain it either. But I can say where you are in the story of civilization. Because starting a new Age always has the same cast of characters. People who fight to retain or distribute power. And regular people on Main Street who either help the good guys, or don't. Whatever the reason for not getting involved doesn't matter. Evolution only has protagonists fight to adapt and diversify life.
 
-Today this translates to technologists distributing the power of new technology, and establishment wanting to keep it. This also means the people on Main Street are divided between "revolutionaries" and "loyalists" based on how capable they are to let go of the past.
-
-The Old Age is the authority who can write the rules because the have the power of established society. They own the industries, have the relationships, and like the way things are.
+Today this translates to technologists distributing the power of new technology. The people on Main Street have a choice, do they step up to help them, or not.
 
 ## Read Now or Read Later
 
-There's a heck of a lot of political emotions in today's Western Civilization. Conservative and Progressive ideologies hate each other worldwide. Their believers march and scream just as much after elections as before them. I'd put our situation right before the Thirty Years War (1618-1648), when Catholics and Protestants killed each other in a horror show even though they shared so much in common today we can barely tell them apart.
+There's a heck of a lot of emotions in Western politics today. It's actually better to say people fucking hate each other. And few of those people know why; they're just so mad. And not mad in the "I stepped in the puddle" way. Mad in the supervillian way.
 
-And they hate each other because upgrading a political philosophy isn't like picking up a new tool. There's no mental switch. After Europeans stopped fight for "good" Protestant or Catholic Kings, they soon realized all kings are assholes and prompty protestant and catholic countries alike fight their once holy kings in the American (1776) and French Revolutions (1789).
+Let's get some perspective. Conservativism and progressivism helped the Industrial Age spread worldwide. Now, at the start of the Digital Age, rather than rethink hundreds of years of "left vs. right" politics, each side blames each other for their shared outdatedness. We can make a comparison to past feuds within philosophies (the Thirty Years War comes to my mind), but this is a horrible place for our society to be in. The rantings and ravings of ideologues disengage ever more Westerners from politics.
 
-Why didn't they just fight the kings? For the same reason we just just pick up the keys to a space ship today. There's research and development involved for our philosophies. It involves living a life on the frontline, experiencing all the problems there, and using reason to create a readable explanation for the new rules that should govern our lives. If that happened sooner Europe may have avoided 30 years of bloodshed.
+We achieved great things in the Industrial Age. It wasn't perfect, but new tools in medicine, physics, sanitation, education, agriculture empowered us to fight disease, ignorance, and hunger. But we're not in the Industrial Age anymore. There's a great reason why Civilization games are about players building new cities, farms, sewers, and roads. These are the things that make a civilization great.
 
-Right now, each person on the Main Street has a choice. It's not support Conservative or Progressive anymore than picking a Protestant or Catholic king matter. We're at an entirely new age, a Digital Age. We have to change our philosophy. Doing something is thinking of the big picture. Doing nothing supports the past.
+Political philosophy is just a way to let the people on Main Street see the big picture. Today that big picture is we need a new philosophy. One that isn't spoken by battle worn ideologues, or doesn't scare regular people away with "the other side is evil". We need one that looks ahead towards the boundless horizon. One that sees Tesla, SpaceX, Blue Origin, as a sneak peak for the future each person is supposed to help build bit by bit.
 
-It's another reason why I wrote this book. I never meant to or wanted to. It's not written as a political philosophy or history book. I could have but didn't want to. Instead it's written for everyone on Main Street to look up and realize your smartphone, augmented reality, 4k video camera aren't just toys. They're the start of the Digital Age. We need a new philosophy to go with it. So they either support the digital age technologies or they keep us behind the times. That's the big picture.
+I could have written this has a political theory book or a history book. But I didn't. I felt forced to write it actually. It's written to the people on Main Street right now. Particularly the ones sick of politics and who love playing games before checking out what Elon is up to lately. Beause you realize you're the player god, and only you determine our civilization's future. And if you don't step up, at least you'll be able to see what we all could have done when regretting the past in a big picture of remorse.
 
-And if no one listens, and two aged, old, and bygone political beliefs go down fighting and take us all with them in another Thirty Years War, it's written so you can go back and realize what we could have done to avoid that useless bullshit.
+===
+
+Techvolution has has three parts:
+
+**A New Philosophy**: Upgrades our political philosophy. Empowers digital protagonists like Gates, Torvalds, and Musk with the mass support of Main Street.
+
+**Building the Life Star**: Explains the political and economic truth that'll we'll see in the Digital Age. This truth will show us the difference between right and wrong when we look up into the sky.
+
+**Starting Starfleet**: Shows the wondrous world of perpetual profit awaiting us when we stop wasting our money on old "red/blue" philosophies and keeping the Industiral Age economy alive. We'll make products that make the Digital Age a way of life for regular people. And use the massive saving to Musk and his protegees, and hence start Starfleet.
 
 # Prologue
 
