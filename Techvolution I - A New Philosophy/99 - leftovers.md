@@ -1536,3 +1536,6 @@ We achieved great things in the Industrial Age. It wasn't perfect, but new tools
 
 Political philosophies start with books. It was a series of books that lead Medieveal commoners to believe and undestand how they could control their own socieities. Either this is the one, or another one is. But it's not two aged, old, and bygone political beliefs go down fighting and take us all with thems.
 
+## Open-Source Paragraph
+
+I'm not talking about an idealist, imaginary world envisioned from storybooks. The Digital Age has already started to form. We've already seen how worker-to-worker collaboration already exists. We're living in its midst. Wikipedia, YouTube, Quora, Stack Overflow, VS Code, Firefox, Wikipedia, Common Voice, USB Implementers Forum, GitHub, Andriod, LibreOffice, and Linux are only a few examples of the wonderful world of cooperation working today. It's called the open-source community because software and ideas are "openly shared" to help create new tools. Millions of people are already working and living inside a fundamentally new way of life that's responsible for our awesome online world. There's no reason more industries can't adopt this worker-to-worker collaboration mindset.
