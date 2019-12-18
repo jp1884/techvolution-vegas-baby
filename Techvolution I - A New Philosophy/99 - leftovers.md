@@ -1543,3 +1543,59 @@ I'm not talking about an idealist, imaginary world envisioned from storybooks. T
 ## Space X dual landing
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/AdmirableEquatorialBlacklab' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/admirableequatorialblacklab">via Gfycat</a></p>
+
+## Property Generation and Regulation Nulled by Digital Property
+
+Conservatism says protecting personal property keeps society rich because everyone has incentive to create new property or keep what they have in good condition. Hence conservaties don't like things like taxes or regulation that intefere with their "I know what's best" mentality. Progressives think different property really belongs to the community that worked in the mines, factories, stories and so forth, so Progressives want to regulate property to be sure selfish people (conservaties) don't control it to keep themselves rich.
+  
+Neither of these idea apply digital property. Digital property doesn't spoil, so there's no reason to "own" it. And it's limitless, so there's no reason to "regulate" it. Yet property protection, and property regulation, are what both conservatives and progressives know how to do, and thus they have to find phantoms to fight.
+
+## Jedi Paul Baran
+
+The internet has many protagonists. Paul Baran is one of the big ones. Here’s why.
+
+The internet is a network. There are many ways of sending data through a network. The simplest is how phone systems do it with a direct circuit link between two phones. A call’s connection only stops when someone hangs up.
+
+Alexander Graham Bell invented "direct circuit links" in 1876 and put it into action when he co-founded the American Telephone & Telegraph (AT&T) in 1885. For generations direct links was how all telecommunications worked. But when the Soviets tested a hydrogen bomb in 1955, Paul Baran took it upon himself to make a new tool to help prevent a nuclear holocaust.
+
+Baran realized to prevent nuclear war, the world needed a communications network that would survive an atomic attack. Only robust and reliable communications would ease American and Soviet trigger fingers during tense times.
+
+Baran worked alone after work. By 1960 he came up with the two ideas he needed. The first was that his network should have no hubs or organizations (like telephone’s have) to control the flow of information. Central hubs make systems vulnerable to attack or failure. Instead data flow should be completely distributed so every node can send and receive information equally. Baran’s nodes network looks like a fishnet. When each  node has three or four links, the network can survive any attack.
+
+Next Baran had to figure out how to send information across the network. This led to his second idea, which was to break up the data into standard-size little packets. Each message would be broken into many packets, each of which would scurry along different paths through the network’s nodes and be reassembled when they got to their destination. If one packet didn’t get there in time, it was quickly resent. This way there’d be no "dropped calls" and communication would always stay open. Baran published his ideas into very detailed technical specs and made sure everyone, especially the Soviets, could copy his work.
+
+Baran then walked into a nest of villains in America. When Baran’s employer RAND recommended his "node-packet data network" idea to the Air Force (in control of America’s nuclear missiles) they wanted to build it. But when the Department of Defense got itself and the Defense Communications Agency involved Baran soon found out working with so many bureaucrats was hopeless.
+
+So Baran tried to convince AT&T, in control of America’s telephone network, to supplement their system with his node-packet data network. "They fought it tooth and nail," he recalled. "They tried all sorts of things to stop it". They would not even let RAND use the maps of its circuits, so Baran had to use a pirated set. He made several trips to AT&T headquarters in lower Manhattan. On one of them, a senior executive who was an old engineer looked stunned when Baran explained that his system would mean that data could go back and forth without a dedicated link remaining open. "He looked at his colleagues in the room while his eyeballs rolled up sending a signal of his utter disbelief," according to Baran. After a pause, the executive said, "Son, here’s how a telephone works," and explained a patronizing and simplistic description.
+
+The metaphorical Death Star rule book became real! It was against the rules to make a reliable communication network that might help prevent a nuclear holocaust. Good thing Jedi’s don’t give up. Baran continued to push. AT&T finally had him and other outsiders to a series of seminars explaining how its telephone system really worked. "It took ninety-four separate speakers to describe the entire system," Baran marveled. When it was over, the AT&T executives asked Baran, "Now do you see why packet switching wouldn’t work?" To their great disappointment, Baran simply replied, "No".
+
+To heck with Darth Telephone!
+
+A decade later Baran’s network was built when the US government’s Advanced Research Projects Agency (ARPA) saw the wisdom in a node-packet distributed communications network. In 1969 ARPA used Baran’s technical specs to build ARPAnet, the first version of the internet. The people who made it were hellbent on empowering individuals, and the made sure the internet could not be controlled by any government or corporation.
+
+Baran’s network is why our smartphones, websites, Wikipedia, any digital tool connected to the internet empower individuals. In the DNA of the internet is a distributed node network that nobody can control or shutdown. An individual has the exact same access as any corporation or government.
+
+That’s why the internet is majical. Whoever uses it, is automatically empowered.
+
+_Paul Baran's story was adapted from Walter Isaacson's awesome book_ The Innovators, _Chapter 7._
+
+## Summary
+
+I'm going to cut this short.
+
+Listen to me. When your cars breaks down, you call a mechanic for help, right? If he showed up with no tools, you’d get mad. You wouldn't ask his reasons for not bringing tools, nor would you discuss the weather with him. You needed "Mike the mechanic" to show up and solve your problem. Without the tools he's just "Mike the person", and frankly useless to you.
+
+If there were no tools, you'd have to resort to regulations and campaigning to get people to help you. But with tools, all you need is the tools and a person who can use them. Tools are political problem solvers. Tools are political power.
+
+Middle class people have a host of problems like increasing insurance, prescription drug, and tutoring bills. You need solutions. When someone says they can help, you must ask what tool they have, or will give you, that will help. Anything else is smoke and mirrors. You don’t need to see regulations, laws, or blog posts anymore then you need to see the mechanic’s favorite car repair manual. You need tools.
+
+Red/blue philosophies show up with no tools. Not because red/blue leaders and supporters don’t care. But because their philosophies don’t know better. They're stuck inside an old ecosystem before the Digital Age. Thus they believe in a political ecosystem with members and non-members, but an economic island still trying to grow. But digital tools make economic ecosystems possible. But since our ruling philosophy is old, it's stuck on old tools, and thus they tell the middle class to walk to the nearest gas station and hope for help, and they promptly blame the opposing political party when we complain.
+
+That’s not horrible, until you consider that with a new digital car, like a Tesla, our broken cars can now call the mechanic, give him a diagnostic to his smartphone immediately, and he’d be able to tell what the problem is, and most importantly, tell the scared person the side of the road, what to do next.
+
+Now consider it’s often against the rules to solve our problems so simply. Patent laws, insurance regulations, nondisclosure agreements, non-compete clauses; a mountain of rules any antagonist can search through so he can force us to keep walking to gas stations.
+
+We must realize how much new digital tools help. Here’s an exercise to do it. Every time you want to watch a Netflix show or YouTube video, get in your car, drive five miles, wait 10 minutes, throw away six bucks, drive back home, and then press play. Watch the movie, drive back within 24 hours or get charged a late fee. Easy to forget, but that’s what watching content on demand with videocassettes and DVDs was like.
+
+Netflix was a big victory. But a rare one. Today, how we pay taxes, recognize education, repair electronics, transfer home ownership, decide our investments, sign sales contracts, get hired, fire someone, use warranties, access medical records, and so much more, works like how we rented a DVD. An unnecessary and expensive pain in the ass enforced by a Death Star of rules. It echoes the philosophy that preached to our ancestors that voting, reading science books, and owning a musket were all against the rules. Totally bullshit, and holding us all back from the land of equality, responsibilties, freedom, and accountability  we want to live in. And we will, once we think of politics as holding tools.
