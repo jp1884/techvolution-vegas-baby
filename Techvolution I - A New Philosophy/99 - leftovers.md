@@ -1539,3 +1539,7 @@ Political philosophies start with books. It was a series of books that lead Medi
 ## Open-Source Paragraph
 
 I'm not talking about an idealist, imaginary world envisioned from storybooks. The Digital Age has already started to form. We've already seen how worker-to-worker collaboration already exists. We're living in its midst. Wikipedia, YouTube, Quora, Stack Overflow, VS Code, Firefox, Wikipedia, Common Voice, USB Implementers Forum, GitHub, Andriod, LibreOffice, and Linux are only a few examples of the wonderful world of cooperation working today. It's called the open-source community because software and ideas are "openly shared" to help create new tools. Millions of people are already working and living inside a fundamentally new way of life that's responsible for our awesome online world. There's no reason more industries can't adopt this worker-to-worker collaboration mindset.
+
+## Space X dual landing
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/AdmirableEquatorialBlacklab' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/admirableequatorialblacklab">via Gfycat</a></p>
