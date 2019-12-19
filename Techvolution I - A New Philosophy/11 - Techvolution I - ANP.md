@@ -44,7 +44,7 @@ Gordon Moore, co-founder of Intel, 1973.
 
 # Introduction
 
-## Looking Up
+## Looking Up - How does civilization develop?i
 
 How do we develop through technological Ages? Going from the Stone Age to the Bronze Age or the Medieval Age to Scientific Age happens over generations—it can be hard to get our head around. I've been thinking about it for years and only now have a grasp. There's a lot to think about when a civilization's entire way of life upgrades to new technology.
 
@@ -60,7 +60,7 @@ Holding back technological and social development is why middle-class life is ge
 
 This book integrates lessons from the history, politics, and philosophy of prior upgrades, but it's not written for any buff. It uses the power of stories to help the people inside today's game—the middle-class—improve their own lives. The first step is a new mindset. Because we already have digital tools. We only need to believe in a modern philosophy to enjoy all the wonders of the Digital Age.
 
-## Looking Up at Philosophy
+## Looking Up at Philosophy - We develop with new tools and philosophys
 
 This book's illustration is a regular person standing on Main Street-a single person in the game of civilization. His or her job is to do what's best for themselves, and help society prosper. She's looking up for guidance and sees two options—heroes and villains. In the sky high above is the mythical "player god" whose playing the game. Will he play to benefit society or to benefit himself?
 
@@ -76,7 +76,7 @@ So there you are, on Main Street, looking up, trying to figure if Donald Trump i
 
 It's all very confusing and emotional. Yet you have to pick sides. After all, you're part of the player god as much as anyone else. Wouldn't it be cool if a philosophy showed you the difference between good and bad politics today? It is cool; it's calming to understand politics. And it's one reason why I wrote this book. So I, and whoever reads it, can better understand what's wrong with our society today. Because I wrote a new philosophy so we can finish the upgrade, and finally enjoy the glorious Digital Age.
 
-## Your Politics
+## Your Politics - it's hard to see new philosophies, we're the ones who change
 
 When a computer player in a civilization game upgrades technology, we can see technology changed. Installing a sewer, damning a river, building a road, is very obvious.
 
@@ -96,7 +96,7 @@ I can't explain it either. But I can tell where you are in the story of civiliza
 
 Today digital technologists are fighting to give the power of digital technology to Main Street. The people who control Industrial Age technology are fighting them off. And the people on Main Street have a choice, do they step up to help the good guys? When we upgrade to a new age, the answer to that question is the only political opinion that matters. To help the most, the people must believe in a new philosophy.
 
-## Read Now or Read Later
+## Read Now or Read Later - We either change our minds now, or we fail the game
 
 There's a heck of a lot of emotions in Western politics today. Better put—people fucking hate each other. And many of those people don't know why. They're just mad. And not mad in the "I stepped in the puddle" sort of way. Mad in the comic book supervillain whose plans for world domination are going up in smoke "because the other side is ruining everything!" sort of way.
 
@@ -120,19 +120,19 @@ Dreaming about our civilization's future is not a joke. Only you can solve your 
 
 And if we keep fighting imagined ideological enemies, at least with this book, we can read what we could have done as we regret the choices of player gods who lost the game.
 
-===
+## Book Summary
 
 Writer David Mamet once said being free from trying to please a group means being free to concentrate on Nature. So I embraced obscurity and was quite ambitious when writing this book. Saying that Techvolution is divided into three parts:
 
-**A New Philosophy:** This part upgrades our political philosophy to the Digital Age. It gets Main Street to see the big picture that they're all player gods who must use digital tools to solve their own problems.
+**I. A New Philosophy:** This part upgrades our political philosophy to the Digital Age. It gets Main Street to see the big picture that they're all player gods who must use digital tools to solve their own problems.
 
-**Building the Life Star:** Explains the new political and economic truth we'll see in the Digital Age. When digital tools like apps, bio-monitors, and big data, the Life Star will show us where our political opinions come from. We'll be able to create definitions of political and economic right and wrong objectively. This will help us remove much political uncertainty in society. In short, the Life Star will do for politics and economics what scientific instruments did for physics and chemistry. The troubling part is many people won't accept what this new telescope shows us.
+**II. Building the Life Star:** Explains the new political and economic truth we'll see in the Digital Age. When digital tools like apps, bio-monitors, and big data, the Life Star will show us where our political opinions come from. We'll be able to create definitions of political and economic right and wrong objectively. This will help us remove much political uncertainty in society. In short, the Life Star will do for politics and economics what scientific instruments did for physics and chemistry. The troubling part is many people won't accept what this new telescope shows us.
 
-**Starting Starfleet:** We'll conceptualize digital tools totally detached from the Industrial Age. These products will make The Digital Age lifestyle one of "perpetual profit." We'll send the massive savings to Musk and his protegees and hence, start Starfleet.
+**III. Starting Starfleet:** We'll conceptualize digital tools totally detached from the Industrial Age. These products will make The Digital Age lifestyle one of "perpetual profit." We'll send the massive savings to Musk and his protegees and hence, start Starfleet.
 
 ===
 
-This book's goal is pretty high. So, I want to be crystal clear about its purpose. We're in the new and wondrous Digital Age. But we're using the philosophy of the Industrial Age to run our society. That means not since the Conservatism (1791), and Progressivism (1859) philosophy cards were clicked have we had fundamentally new ideas in politics.
+Book I, A New Philosophy, has a pretty high goal. So, I want to be crystal clear about its purpose. We're in the new and wondrous Digital Age. But we're using the philosophy of the Industrial Age to run our society. That means not since the Conservatism (1791), and Progressivism (1859) philosophy cards were clicked have we had fundamentally new ideas in politics.
 
 We need a new philosophy that factors in all the wondrous possibilities of digital technology, a philosophy that builds on the accomplishments of the past. We need a philosophy that empowers the people on Main Street to again see the big picture; that they're player gods whose choices determine the health of society. Watching TV isn't politics. Making good choices is politics. You should still vote, still debate what's best for your community, but using digital tools to improve your life, is your most potent political power. If other people don't follow, get them on board. If they yell out in Twitter comments that "you can't change the world!" leave them behind. Evolution sure will.
 
@@ -147,7 +147,7 @@ _These guys run a popular YouTube channel about computer hardware. They didn't l
 
 # Prologue
 
-## Collaboration in The Digital Age
+## Fighting For The Digital Age - Our philosophy is already generations behind technology
 
 We entered the Digital Age in 1970. Personal computers, the internet, email, and so much other digital technology all got their start in the 1970s. After years of imagining the future, science fiction became real products.
 
@@ -157,7 +157,7 @@ Even though they're different, digital tools have been brought up within the Ind
 
 Several generations from the start of the Digital Age, items like smartphones, laptops, and smartwatches are so standard, the collaboration philosophy they foster is part of our lifestyle. That's why WikiHow, IMDB, YouTube integrate so easily integrate into our lives. Collaboration is today's big picture, the basic principle of the Digital Age's new philosophy. The people who see this best is the open-source community.
 
-## Open-Source Player Gods
+## Open-Source Player Gods - Open-Source is pushing us forward
 
 Open-source is a community digital inventors, designers, and programmers. They are the successors of the first digital protagonists—the player gods leading us into the Digital Age. They live, breath, and promote collaboration at places like GitHub, Wikipedia, Dribbble, Udemy, Stack Overflow, Unsplash, and Slack.
 
@@ -169,7 +169,7 @@ In short, the open-source community has empowered people used to be extras in th
 
 I'm one of them. I'm a politics, history, and philosophy geek who spends far too much time thinking about his interests. Digital tools let me research, write, and host my own work. Better yet, I can find and work with world-class writers and illustrators to make that work even better. A few decades ago, I'd be in a library scribbling notes on cue cards and dreaming up ways to get a professor, publisher, or newscaster to look my way. Instead, I can share what I've learned with a Ghost Foundation website so anyone curious can access it from anywhere in the world. It may not seem like it, but we're both on Main Street, collaborating about where to take the "player god." All for virtually free.
 
-## Mass Production Replaced by Mass Collaboration
+## Mass Production Replaced by Mass Collaboration - Digital Age philosophy is collaboration/awesome
 
 As a kid, I helped my family clean office buildings. My simple role was to pick up the garbage and blue bins. It was straightforward. Years later, when working at a big office, the cleaners were short-staffed for a few weeks. Management spent hours meeting about and discussing the "garbage problem" instead of just wrapping it up (pun intended) and moving on.
 
@@ -191,7 +191,7 @@ Open source is the good guys. The Jedi of our society. The modern minutemen beca
 
 To bring on the era of mass collaboration. Open-source needs to be flush with cash, and the support of the middle class.
 
-## Fighting for The Future
+## Fighting for The Future - The Collaboration Future Won't Just Happen
 
 This difference between how the old and new tools are treated signifies our society's significant problem. We should be jumping into the Digital Age. But open-source heroes have to struggle against the odds to dismantle the gates Industrial Age antagonists are paid to maintain.
 
@@ -208,7 +208,7 @@ To do it, they have to believe in a new philosophy. One that rewards workers, cr
 https://www.youtube.com/watch?v=1oo59slGufc
 _This is Louis Rossmann. He repairs computers, which saves his customers lots of money. More than that, he advocates electronics should be better built and easy to repair. Some manufacturers, notably Apple, make it hard to repair our computers because they want us to replace them. Louis testifies before legislative committees and posts videos about his business and thoughts. He also teaches others how to open up their own repair business. You don't have to support his "right to repair" campaign (you should though). The point is because of digital technology and open-source, he easily collaborates with supporters, runs a business, and thereby changes his society. Another example of a player god doing real politics._
 
-## Open-Source Lets Us Bust Open Gates
+## Open-Source Lets Us Bust Open Gates - We can force the future now
 
 Currently, when you phone a call center, everything is recorded. The company has access to the recording; you don't. Likewise, when the employee logs in and out of the office, that, too, is recorded. Management automatically has access to these timesheets; the employee doesn't.
 
@@ -225,7 +225,7 @@ Once we do, all workers—from waitresses, mechanics, teachers—will start to b
 ![old philosophy in a new world](img\diagrams\git-hub-rails.png)
 _This is the GitHub "repo" for Ruby on Rails, the technology that helps run apps like Basecamp, Airbnb, and Shopify. A core team of paid pros maintains and does much of the programming. But all programmers, from elite to novice, individually ask questions, find bugs, contribute their work, and it all comes together via GitHub's software with minimal supervision. The process works similarly to Wikipedia. It's very organized; even with over 5,000 contributors over 15 years, you can see who has done what and when. Ruby on Rails software is priceless and is yours to use however you want. Get familiar with how open-source works. It's a tell-tale sign for the openness, responsibility, and immense value of work cultures coming in the Digital Age. You should be happy! Once you experience how easy, effective, and powerful worker-to-worker collaboration is, it makes work much better. And the best part, no garbage meetings or delegators are needed._
 
-## The Setup to our Story
+## The Setup to our Story - How do we get to the future
 
 Let's recap all the above. We are in a new age. We all have to step up and upgrade our way of life to the Digital Age. If we don't, we'll keep suffering the pains of a degenerating society.  We do need to stop blaming "the other side." But our biggest roadblock is Darth Blockbuster—the self-entitled holdover from the Industrial Age.
 
@@ -233,9 +233,47 @@ Like Darth King before him, Darth Blockbuster has made a career of making up rul
 
 And that's the set-up to the story of your life, civilization, and Techvolution. I really hope you pick the right side.
 
+## Cast of Ideas and Characters
+
+Here are a few terms that will put us all on the same page:
+
+===
+
+**Player god:** Imagine a person playing a computer "civilization building" game with our society and deciding where to put roads or how much to fund cancer research. Of course, there is no such player. In reality, it's the choices of individuals that decide what the community does. The player god is thus the collective consciousness of society.
+
+**Philosophy:** The largely unspoken ideals that tell individuals what’s right and wrong, good and bad, in science, art, morals, politics, and economics. Philosophy is supposed to unite individuals to see the big picture; that everyone's choices matter, because everyone is a player god.
+
+**Ruling philosophy**: A civilization’s chosen philosophy. One that all factions agree on. Examples include the "Divine Rights of Kings," derived from Christian theology and used in royalist Europe; "Marxist-Leninism" of the Soviet Union; and the combination of "red/blue" philosophies of the Western world today.
+
+**Rule book**: The written and unwritten social, workplace, and legal rules that govern everyday life. The rule book is interpreted from the ruling philosophy.
+
+**Technology:** A catchall term for things we make tools from, like concrete, lumber, nails, shingles, insulation, and bricks.
+
+**Tool**: A catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to record and pass on knowledge, and houses to shelter in.
+
+**Frontline:** The point of contact between a tool and the problem. Nurses giving vaccines, cleaners cleaning a city bus, and soldiers on the battlefield are all examples of frontline settings. People on the frontline work no Main Street with jobs that solve specific problems with a demonstrable skillset.
+
+**Hierarchy**: A power structure that manages every tool’s use by society. Kings and queens with the keys to the castle, for example. As hierarchies grow larger, the bigger its authority gets, but also the more detached it gets from the frontline. People in the regime have titles like prince and executive, baron, and supervisor to mark their position—and, in a sense, their territory and "rights" in the power structure.
+
+**The story of civilization**: The invention of new technology and the creation of new tools to overcome the most recent frontline problems. Civilization develops in technological ages; as new tools are adopted, they topple the hierarchies based on the tools of the prior age. We use tools to evolve.
+
+**Protagonists**: People who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly and collectively improves life on Earth. I call them this world’s Jedi knights. We call their leaders trailblazers who often skirt the rules; Galileo, Nikola Tesla, Jay Last, Michael S. Hart, Steve Jobs, Linus Torvalds, and Elon Musk are among their number.
+
+**Antagonists**: People who selfishly resist new tools to defend their wealth, power, and prestige atop a hierarchy. Antagonists usually manage companies or institutions based on dated technologies and think that working on the frontline is beneath them. They work to control the rule book, so they can hide behind it. We don’t often individually identify them. I coined the term "Darth Blockbuster" so we can.
+
+**Extras**: Everybody in the middle of a battle between antagonists and protagonists. Because they have no direct loyalty to either side or their tools, extras can pick winners and losers. Usually, extras are in the middle class, not so poor as to be desperate, but not so powerful that they want to keep the world the same. Sadly, extras don’t realize their power. When they do, they become player gods.
+
+**The Death Star**: The rule book when it’s controlled by Darth Blockbuster. Today it exists inside countless regulations, agreements, contracts, laws, and manuals that prevent new tools being used by people. The Death Star works to keep the Industrial Age alive.
+
+**Techvolution**: A new philosophy empowering seamless human technological evolution by ridding Darth Blockbuster of his power, by giving extras the right and duty to decide when society should upgrade our tools.
+
+**The Life Star**: A rule book based on Techvolution, governed by human technological adaption and natural selection that makes sure humanity never stalls when upgrading to the next technological age.
+
+**Plot**: Getting the extras to step up, replace their ruling philosophy, and establish the Digital Age.
+
 # ACT ONE
 
-## A Small Upgrade
+## A Small Upgrade - What happens when we try to upgrade to the digital age
 
 It all started with a door in my face. And then, actually, a few more. I was either being too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a web app that those in upper management weren't going to buy.
 
@@ -257,7 +295,7 @@ So instead, I'm going to talk about winning the war. Because this is hardly the 
 
 I learned my lesson and wrote this book. Because despite already having the digital technology to transform our way of life, antagonists maintain gates all over the place to protect the pre-digital "Woodstock of 1969" way of life. They know—even if subconsciously—they lose their status, positions, and identity in a Digital Age economy. To improve our lives then, the people need a new ruling philosophy... one that says improving our society is the only rule that matters.
 
-## The Power Of Stories
+## The Power Of Stories - To upgrade, we'll need to control the tools
 
 Do you love stories? I think it’s a safe bet to say that you do. Who doesn’t? They entertain us after a hard day of work, bring us together to share our joys, and (my favorite) open our minds to the different rules and philosophies of foreign cities, mythical worlds, and galaxies far, far away.
 
@@ -269,7 +307,7 @@ Our hero fights hard to defeat the bad guys, but his superior morality, justice,
 
 Will our hero reach it first, or will the enemy? We in the audience, like extras in the story, hold our breath because the story’s society is controlled not by desires, opinions, or rules, but by which character holds the tools. The wielder is the victor. The victor writes the rules. It’s the lesson that we the people need to learn for ourselves. It’s the only way we’ll stop being extras and start being player god protagonists inside a Digital Age civilization.
 
-## Put Down the Remote, It Controls You
+## Put Down the Remote, It Controls You - to reach for the tools, we have to drop the phantoms
 
 We live under the rules of red/blue society. We let these rules they control us. We shouldn't. I'll show you why.
 
@@ -310,7 +348,7 @@ Just so, we can also stop using our tools as toys and start wielding them as lig
 https://www.youtube.com/watch?v=J2Pjudf0810
 _Here's a small sample of cable news coverage. The topic this time was a campaign speech by Ms. Obama. It showcases how petty (and outdated) both political sides are today. It was just a speech. How could it change the world either for better or worse? Since Right and Left ideologues can't make Floatplane, or repair your broken laptop, or make any product you might need. They can only stay alive by fighting each other._
 
-## The Power of Philosophies Is Either to Hold Us Back or Push Us Forward
+## Philosophies Either to Hold Us Back or Push Us Forward - once we believe in a new philosophy, we'll reach for the stars
 
 Darth Blockbuster, outdated ideologies, and phantom enemies are not a new story. We've fought them off when upgrading society in the past. Here's one example.
 
@@ -327,7 +365,7 @@ Space travel is a significant step for humanity. It means better satellites, wor
 Red/blue political culture was unable to deliver an affordable rocket. They can talk about speeches all day, but rocket science doesn't fit into soundbites. It was private companies like SpaceX and Blue Origin (funded by a few rich guys) who answered the call. They harnessed digital technology and fostered collaboration to make rockets 10 times cheaper then red/blue politicians were doing. The rocket building newcomers even learned to land their rockets so they can be reused, a monumental achievement that makes space travel even more possible. But many people, especially red/blue politicians, still didn't care. In fact, they often tried to stop these companies by saying they broke the rules.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/TerrificFinishedCaracal' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-_This is when SpaceX landed it's second rocket. Enable the sound to really get a feel how important this event was. A major step for the Digital Age._
+_This is when SpaceX landed it's second rocket. Enable the sound to really get a feel how important this event was. It was a major step for the Digital Age._
 
 When you're dependent on old philosophies, you're also confined to its old tools and live within its old narratives. Today red/blue politics obsesses over tiny tax cuts, pages of government regulations, and endless media soundbites because their philosophy says they're essential. New and super-powerful technologies like SpaceX are just a novelty act that falls beyond the believers of old philosophies comprehension and comfort zones. Like telescopes once were to our political leaders.
 
@@ -336,7 +374,7 @@ That's the power of philosophy. It filters the definition of good and bad for it
 ![old philosophy in a new world](/img\diagrams\techvolution-old-philosophy-new-world.png)
 _The possibilities of the Digital Age are lost on those obsessed with the political battles of the Industrial Age. Here’s one example from a personal Twitter feed from December 22, 2015, when SpaceX landed its first rocket. At the exact same time, red/blue ideologue Bernie Sanders was ranting about regulation battles with Wall Street. He should have been taking a minute to appreciate all the new solutions SpaceX just opened to humanity. I happened to be following Sanders, so I don’t mean to pick on him. The middle-class needs to stop putting their faith in old philosophies and instead follow today’s digital protagonists empowering us all with incredible new tools. Like we followed Galileo generations ago._
 
-## Your Place in the Struggle
+## This Is an Eternal War - Techvolution is a fight as natural as evolution
 
 Fighting to transform society with new tools is a classic human story. It happens every time we enter into a new technological age. It happened when Galileo fought a religious establishment with a telescope, George Washington fought a political establishment with a musket, Steve Jobs fought an economic establishment with an iPod.
 
@@ -358,47 +396,11 @@ Since biological adaptions and upgrades are evolution, I've called human technol
 
 And using Techvolution, the people can kill Darth Blockbuster.
 
-## Cast of Ideas and Characters
 
-Before we go any further, I want to lay out the philosophy of Techvolution more clearly. To do so, here are a few terms that will put us all on the same page:
 
-===
+## Nice to Meet You, Stargazer - And you're the hero, because you're the player god
 
-**Player god:** Imagine a person playing a computer "civilization building" game with our society and deciding where to put roads or how much to fund cancer research. Of course, there is no such player. In reality, it's the choices of individuals that decide what the community does. The player god is thus the collective consciousness of society.
-
-**Philosophy:** The largely unspoken ideals that tell individuals what’s right and wrong, good and bad, in science, art, morals, politics, and economics. Philosophy is supposed to unite individuals to see the big picture; that everyone's choices matter, because everyone is a player god.
-
-**Ruling philosophy**: A civilization’s chosen philosophy. One that all factions agree on. Examples include the "Divine Rights of Kings," derived from Christian theology and used in royalist Europe; "Marxist-Leninism" of the Soviet Union; and the combination of "red/blue" philosophies of the Western world today.
-
-**Rule book**: The written and unwritten social, workplace, and legal rules that govern everyday life. The rule book is interpreted from the ruling philosophy.
-
-**Technology:** A catchall term for things we make tools from, like concrete, lumber, nails, shingles, insulation, and bricks.
-
-**Tool**: A catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to record and pass on knowledge, and houses to shelter in.
-
-**Frontline:** The point of contact between a tool and the problem. Nurses giving vaccines, cleaners cleaning a city bus, and soldiers on the battlefield are all examples of frontline settings. People on the frontline work no Main Street with jobs that solve specific problems with a demonstrable skillset.
-
-**Hierarchy**: A power structure that manages every tool’s use by society. Kings and queens with the keys to the castle, for example. As hierarchies grow larger, the bigger its authority gets, but also the more detached it gets from the frontline. People in the regime have titles like prince and executive, baron, and supervisor to mark their position—and, in a sense, their territory and "rights" in the power structure.
-
-**The story of civilization**: The invention of new technology and the creation of new tools to overcome the most recent frontline problems. Civilization develops in technological ages; as new tools are adopted, they topple the hierarchies based on the tools of the prior age. We use tools to evolve.
-
-**Protagonists**: People who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly and collectively improves life on Earth. I call them this world’s Jedi knights. We call their leaders trailblazers who often skirt the rules; Galileo, Nikola Tesla, Jay Last, Michael S. Hart, Steve Jobs, Linus Torvalds, and Elon Musk are among their number.
-
-**Antagonists**: People who selfishly resist new tools to defend their wealth, power, and prestige atop a hierarchy. Antagonists usually manage companies or institutions based on dated technologies and think that working on the frontline is beneath them. They work to control the rule book, so they can hide behind it. We don’t often individually identify them. I coined the term "Darth Blockbuster" so we can.
-
-**Extras**: Everybody in the middle of a battle between antagonists and protagonists. Because they have no direct loyalty to either side or their tools, extras can pick winners and losers. Usually, extras are in the middle class, not so poor as to be desperate, but not so powerful that they want to keep the world the same. Sadly, extras don’t realize their power. When they do, they become player gods.
-
-**The Death Star**: The rule book when it’s controlled by Darth Blockbuster. Today it exists inside countless regulations, agreements, contracts, laws, and manuals that prevent new tools being used by people. The Death Star works to keep the Industrial Age alive.
-
-**Techvolution**: A new philosophy empowering seamless human technological evolution by ridding Darth Blockbuster of his power, by giving extras the right and duty to decide when society should upgrade our tools.
-
-**The Life Star**: A rule book based on Techvolution, governed by human technological adaption and natural selection that makes sure humanity never stalls when upgrading to the next technological age.
-
-**Plot**: Getting the extras to step up, replace their ruling philosophy, and establish the Digital Age.
-
-## Nice to Meet You, Stargazer
-
-You might be an open-source protagonist or an extra looking for work, either way, I'm calling you Stargazer. It's a name in honor of our ancestors like Copernicus, Galileo, and Friar Bruno, who toppled the Medieval Age because they looked up at the night sky. Their sense of wonder made them ask questions and answering those questions brought on the Scientific Age that still improves all our lives.
+You might be an open-source protagonist or an extra looking for work, either way, I'm calling you Stargazer. It's a name in honor of our ancestors like Copernicus, Galileo, and Friar Bruno, who toppled the Medieval Age because they looked up at the night sky. Their sense of wonder made them ask questions and answering those questions brought on the Scientific Age that still improves all our lives. This generation are great examples of player gods.
 
 Whoever you are, Stargazer, you need to know that the story to advance human technological evolution into the Digital Age can only begin with you.
 
@@ -412,7 +414,7 @@ That's why you, Stargazer, are the hero of Techvolution. Don't be surprised. Ave
 
 The rebellion I speak of might be different than what automatically comes to mind. It is not a physical revolt. It does not involve rallies, marches, or protests. It's a rebellion of the mind. The Digital Age is held back by Darth Blockbuster, and his Death Star rule book. That's the reason the middle class is unhappy. Because we feel the Digital Age in our hearts but are forced to live in the Industrial Age to keep Darth Blockbuster happy. You're the one on Main Street. And you're happiness matters more. To earn it, we need to spark a rebellion in your mind.
 
-## Heroes Reach for the Tools
+## Mix Philosophical Politics - We build on the past, we don't erase it
 
 Let's take a minute and answer some questions you might be thinking.
 
@@ -461,9 +463,9 @@ _This is politics. A regular person using a modern tool to find where he can imp
 
 # ACT TWO - BLOWING UP THE DEATH STAR
 
-## The Rules
+## Evolution Is on Our Side - When rules are in our way, we use evolution to defeat them
 
-LIfe's been evolving for billions of years. Humanity continues life's evolution with our creation of new tools. We develop in technological stages. Unfortunately, transitioning between stages is hard. The powers of the old age hold back the modern era. Since we've entered the Digital Age in 1970, Darth Blockbuster has made continuously defended his mechanical tools by making digital tools against the rules.
+Life's been evolving for billions of years. Humanity continues life's evolution with our creation of new tools. We develop in technological stages. Unfortunately, transitioning between stages is hard. The powers of the old age hold back the modern era. Since we've entered the Digital Age in 1970, Darth Blockbuster has made continuously defended his mechanical tools by making digital tools against the rules.
 
 Some examples. In the 1970s, AT&T defended its mechanical telephone system monopoly by successfully lobbying the government to ban Americans from using internet modems. In 1984, the entertainment industry defended broadcast television by suing to try and ban home video cassette recorders (VCRs) and only losing by one vote in the Supreme Court. In 2001, the music industry defended compact discs (CDs) by successfully suing digital songs. Likewise, Tesla, Uber, SpaceX, Airbnb's most significant competition has been in the courtroom. Throughout society, antagonists have found rules to keep people using mechanical Industrial Age tools.
 
@@ -471,7 +473,7 @@ This endless list of rules is the Death Star. This antagonism is why life on Mai
 
 But before you face Darth Blockbuster and blow up his Death Star, Stargazer, you must learn what weapons you have at your disposal. The most formidable? The all-powerful energy field inside every lifeform. No, not the Force. I'm talking about evolution.
 
-## The Magic of Evolution
+## The Magic of Evolution - How evolution works
 
 Evolution is life's secret weapon. Evolution empowers life by giving every new lifeform a slightly different variation. With variations, life can continually test for environmental changes in things like water levels, temperature, and food supply. The variations unfit for the changed frontline die off, and the fittest survive. This natural selection helps life find which lifeforms are best suited to survive on Earth.
 
@@ -489,7 +491,7 @@ Techvolution is, therefore, intentional evolution. It's a more advanced and quic
 
 ![genius-innovation](/img\diagrams\techvolution-genius-innovation.png)
 
-## The Majic of Techvolution
+## The Majic of Techvolution - How human techvolution works
 
 We call someone a _genius_ when he or she uses existing technology to make a new tool. Happily, these trailblazers are self-motivated, and we already celebrate their intellect and innovations. But innovation isn't the only step toward Techvolution. We only truly evolve when the extras choose to accept and use a new tool.
 
@@ -513,7 +515,7 @@ Techvolution is the ruling philosophy that encourages extras to "majically" bond
 
 - Sticking it to my personal Darth Blockbuster makes me smile too.
 
-## Using Majic to Filter the Rules
+## Using Majic to Filter the Rules - How to tell the good from the bad rules
 
 Despite our problems with our current philosophy, society always needs one philosophy that reigns above the rest. We use it to create the ground rules that glue us all together. Without a ruling philosophy, the story of mankind would be a story of chaos. There would be no such thing as civilization.
 
@@ -605,13 +607,13 @@ Ignore majic at your peril. Look at Sophia, she gave one of our greatest writers
 
 It's a lesson for us to take in when we're stuck in traffic, or doing whatever else is giving us such unhappy lives.
 
-# A World Without Majic
+## Our Path Is Set - now we know the difference between good and, it's time to use it
 
 Stargazer, you're not Frederick Douglass. You're not enslaved. You're not beaten. But you're job is the same. You have to follow majic, and evolve humanity past Darth Blockbuster and into the Digital Age.
 
 Thankfully, we've already been doing it. We'll read how we won a battle in the story below. Once we understand how it's done, we'll be that much closer to winning the war and blowing up the Death Star.
 
-## Inventing Adaptations
+## Inventing Adaptations - How humans evolve with technology and tools
 
 We've upgraded from one age to the next many times. There is a trend in the transformation. It comes down to the difference between upgrading technology and upgrading tools.
 
@@ -637,7 +639,7 @@ Today the extras lack self-awareness regarding their power to decide the battle�
 
 # MID POINT
 
-## A Techvolution Battle Scene
+## A Techvolution Battle Scene - Wikipedia vs. Books, and an old philosophy
 
 The environment keeps changing. Life needs to know how and uses its lifeforms to probe for answers. Similarly, the human environment keeps changing, and so humans also have to probe for answers. We ask questions like why are the movies so expensive, or more importantly what are proven techniques to stop malaria infections. We need a way to answer our questions and true to ourselves, we tackle this challenge by using our available technology to create a reference tool and upgrade it when possible.
 
@@ -679,9 +681,9 @@ Darth King lived inside palaces, using society’s money to host splendid banque
 
 ![Battle Scene](/img\diagrams\techvolution-battle.png)
 
-# ROUSSEAU'S EXTRAS
+## Rousseau's Extras - We've defeated the Sith before, Darth King
 
-## Freeing Cinderella
+## Freeing Cinderella - We've been in this position before
 
 "Extras are born free; and everywhere they are in chains". Actually, he didn’t. But he would have, if he’d thought to label the people he was describing as "extras" in a play. Rousseau was neither the king of France nor the richest man in England. Instead, he was a poor writer who copied sheets of music to make the rent. More than 300 years later, he is at last recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
 
@@ -712,7 +714,7 @@ The question for us is, how did Rousseau make an entire people change their ruli
 
 ![Revolutions!](/img\diagrams\techvolution-revolution.png)
 
-## Society’s Three Stories
+## Society’s Three Stories - How we can judge our lives in real time (difference from majic?)
 
 In light of the above, Rousseau’s words echo this sentiment: let the people prosper with new tools. Let the nobility return to their natural equality inside a democracy where anyone is free to be the the ruler, or a rich businessman, if they can solve problems and thereby earn the public's approval and consent. Rousseau never said there shouldn't be leaders; but that leaders should earn it.
 
@@ -758,7 +760,7 @@ Rousseau noticed society has these classic, art, and spectacle stories, and that
 
 ![Classic heroes](/img\diagrams\techvolution-protagonist-comparison.png)
 
-## The Politics of Stories
+## The Politics of Stories - this is what we learned from the last time, so we can chart our course
 
 So these are the three categories in a nutshell. Classic heroes tackle real-life problems. Art heroes are self-obsessed. Spectacle heroes are a distraction.
 
@@ -796,7 +798,7 @@ So let's use our understanding of stories, to understand the political philosoph
 
 **Bad ruling philosophy**: Meant to withhold the creation and especially distribution of new tools. Led by leaders who don't want to empower the people or and return to equality. Instead hey distract the masses from their unearned, and increasingly self-serving leadership, with spectacle.
 
-## Neo Douglass
+## Neo Douglass - The people act when they see the matrix
 
 The story of the matrix is a common one. Most oppressed peoples could sympathize with it. Frederick Douglass certainly could. Mister Auld was the agent of slavery, Douglass the hero responsible for waking himself and everyone else up. And Sophia is the masses, the extras, who must choose between majic and the rules.
 
@@ -806,7 +808,7 @@ Telling the difference between a true hero like Douglass, whose given political 
 
 ![Classic heroes](/img\diagrams\techvolution-battle-douglass.png)
 
-## Protagonist Kings
+## Protagonist Kings - There is a time for growth and extras
 
 Not all kings are con artists. We remember Medieval Time fondly in childhood stories of gallant knights for good reason. These kings were the heroes of a classic story because they defeated monsters to create a peaceful country for people to live in.
 
@@ -824,7 +826,7 @@ Under the rule of Protagonist Kings, Western Civilization rebuilt poltical insti
 
 As Europe went through the Middle Ages, the Renaissance, the Enlightenment, the invaders were increasingly gone, the water was running, the roads were clean, the markets were busy. The once Protagoinst Kings, were now merely executives of a very large, bureaucractic governments. The only thing that didn't change was the culture of noble divinity. The leaders had the title of king, but were not protagonists. They instead were villains protecting their privledge, who refused to let society grow out of the "nobles divine right to rule", and became Antagonist Kings.
 
-## Antagonist Kings
+## Antagonist Kings - growth/heirarchy/extras are temporary, people get their lives back inside ecosystems
 
 During the Renaissance nobility was established as a divine right or a hereditary gift. The nobles were no longer military leaders fighting off Vandals, Vikings, and brigands, but simply born with "noble blood". They only waged war against each other, and usually only for personal glory. But otherwise they sat atop a hierarchy who paid no taxes, did no work, and answered to no one. The nobles used relative peace and prosperity to replace armor with dresses, churches with cathedrals, castles with palaces, and battlefields with banquets and balls.
 
@@ -838,7 +840,7 @@ In short, Darth King told themselves they were literally sent from God, and thus
 
 ![Revolutions!](/img\diagrams\techvolution-martel-louis.png)
 
-## Our Story
+## Repeat Story - We also had growth/heirarchy/extras, and now we get our lives back/ecosystems
 
 I'm not sure if you know this Stargazer, but the Devil was once an angel named Lucifer. He lived with God up in the clouds with the rest of the heavenly beings. Rejecting God's commands, Lucifer grew vain and greedy and actually the supremacy of God. God thrown Lucifer down from Heaven to be the dark lord of hell.
 
@@ -870,33 +872,15 @@ The good news is, where not at a revolutionary let's burn down society point yet
 
 But before we get to that, there’s something else. Something that’s gone very wrong...
 
-# THE BIG FIGHT
+# ACT THREE
 
-## Breaking News
+## Breaking News - Collaboration is natural, and held back, time to act Stargazer
 
 I'm not perfect. Far from it. Johnny Majic is just a regular guy. For whatever reason I've always been pretty good at retaining knowledge and analyzing history and politics. But I can't do math in my head, nor a million other things.
 
-What I'm basically saying in this book is many people in positions of "power" are like Blockbuster in 2009, living on borrowed time. They don't know it because, like characters in an art film, they are stuck in a role of self-importance, which is like what happened to the late kings of Europe. Art at the top comes with spectacle to distract the bottom; whether fancy cathedrals or car shows.
+If the antagonists think this is wrong, they'll create a rule. If that doesn't work, they'll attack the messenger. So let's get this over with. What rule did I break? I downloaded a movie from the pirate bay. You think that was that wrong?
 
-Art protagonists culture insulate themselves from pleas for a classic stories with a culture. This culture gets weirder and weirder to non-fans, but make more and more sense to people inside. After all, it's all singing to the choir. But recycling old ideas dengenerates each successive photocopy.
-
-This is where red/blue philosophies are today. Their partnership with industrialization and economic growth go them this far. But with digital tools transforming both those eras into an obesession with individual empowerment and a thirst for economic efficiency, red/blue are trying to mantain their status as a ruling philosophy with spectacle.
-
-That's why they're so dramatic with the name calling and yelling. That's why "Breaking News" is always on the cable news shows. They are finding new examples for the choir to keep singing. It's pretty telling that the two impeacements in living memory are over a sex life and phone call, meanwhile American industry has been gutted, wars have been fought for dubious reasons, stock market manipulation is accepted, so many other problems that directly affect the middle-class is accepted.
-
-Digital tools should be empowering extras to be their own heroes. Open-source and others are fighting to distribute digital tools to the people. To keep the extras hooked on the Woodstock era lifestyle red/blue know and understand they're served spectacular politics 24/7 on cable news, talk radio, and other choir benches.
-
-The point is this. When someone says it's time to move on and end the story of red/blue philosophies and start to upgrade our ruling philosophy to the possibilities of new tools, they fight back with personal attacks. Because like a art story, people inside red or blue storylines are so neurotic and introverted, that they think the world is defined from their own philosophies.
-
-To to get it over with, I'll shame myself with their rules. So if by chance Techvolution is read and followed, both red and blue with tell their choirs I'm  a closet socialist progressive, or intolerant conservative! Or some other reason to shame me personally.
-
-Resorting to personal attacks are good signs of a bad ruling philosophy.
-
-But they can be distracting. What both red and blue truly hate is their choir watching YouTube, Netflix, or even worse living their own lives. But nonetheless they'll shame me anyway.
-
-So let's get this over with. What rule did I break? I downloaded a movie from the pirate bay. You think that was that wrong?
-
-### Stargazer Turns on His Lightsaber
+## The Rules Said to Rent DVD's Forever - we either had to take it or.. wait, no we didn't
 
 It's amazing to think about, but think about this everytime you watch Netflix today, was once watched after driving to pickup a DVD.
 
@@ -910,7 +894,7 @@ Thus, they called movie downloaders pirates. Even though most had been loyal cus
 
 Luckily I was a usher and projectionist in a movie theatre around this time. When added to some history and analysis, we get to peak behind the curtain of the movie industry.
 
-### Technological History of the Movies
+## Technological History of the Movies - Using what weve learned
 
 Assuming you tried, it's funny how easy it was to find Darth Blockbuster on YouTube. Now, I need to know how movies and television technologically evolved. This would take weeks at a library. But I have Wikipedia so it'll take a few hours. Rubbish indeed professors.
 
@@ -1001,29 +985,15 @@ Hey, do you think Darth Blockbuster will buy back all those DVDs, Blu-Rays, and 
 
 ![Behind the Curtain](img\sketches\frontline-movies.full.jpg)
 
-### Decision Time
-
-Your Darth—in whatever industry and in whatever outfit he may be—is a Sith Lord. While he may be a great person, nice to you and his employees, wears nice clothing, tips well, whoever he is doesn’t matter. He is an antagonist to the progress of society. He fought against video tapes, interest songs, and internet streaming. If society was up to Darth Blockbuster, we’d all be paying for long distance, writing directions on napkins, waving down cabs, paying for late charges, and putting quarters into pay phones.
-
-<!-- elaborate, that futre advacenments is Darth going to attack next -->What’s going to happen when 3D printing threatens his merchandising. Or when Virtual Reality let’s people live their own stories. Or whatever! We shouldn’t have to argue for new tools!
-
-But since the 1970’s our society, our politics, has been falling apart because of Darth Blockbuster. We try to fix things with red/blue politics, but they don’t understand real politics is the control of new tools.
-
-So we the people work two jobs to pay the bills. While our climate is changing. Why our roads are traffic jammed. Because we as digital tools are invented, the Sith keep writing laws, regulations, and fighting lawsuits to try and made us live like it’s 1970 forever.
-
-<!-- use an expediency warning that good majic will witheld until the Sith are defeated -->
-
-# A SURE VICTORY
+## Evolution Doesn't Happen Without Fighting - Main street has to act
 
 Can't make up your mind. This will help. The force is strong with whoever holds digital tools. And that by design. The thousands of protagonists who built digital tools wanted to empower individual people like you.
 
 The very foundation of the internet is based on the rock-solid value of individual empowerment. And this fact means Darth Blockbuster never did, and never will, stand a chance against today’s internet Jedi.
 
-## Darth King Charles
+## Darth King Charles - Main Street Tried to be Patient - antagonists don't leave their stories
 
 Antagonists may be well intentioned, but they’ll never change their minds. Indeed, the problems we’re having in our world right now, new powerful tools being witheld from the people's hands by the leaders of old ruling philosophies, has happened before. Let’s go back the ruling philosophy of the noble’s divine right, see how it all worked out for Darth King Charles.
-
-## Place in Line
 
 When Rousseau was being chased around Europe in the 1760-70’s, King Louis XVI rule France and King George III ruled England. Both faced revolutions inspired by the pain on the frontline their high-spending lifestyles and government mismanagement caused. However, these weren’t the first kings to face revolts.
 
@@ -1043,7 +1013,7 @@ Charles didn’t budge. The rules were on his side. The Bible said he was God’
 
 But then Darth King Charles did speak, and that fact, showcases how set the Sith are in their stories.
 
-### Charles Speaks
+## Charles Speaks - The Proof is in the Words
 
 Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. It's a piece of biological cyborgology that doesn't work properly. A person can talk fine when alone or with pets, there's sometimes a mental block in the mind when people are around.
 
@@ -1095,9 +1065,7 @@ Later kings still didn’t learn. Even more distanced from the frontline inside 
 
 So the question now is... why did you think Darth Blockbuster would ever admit he was wrong and change his ways?
 
-# ACT THREE
-
-# Climax - Polar Bears in the Amazon
+## Climax - Polar Bears in the Amazon, Collaboration is the future, as is ecosystems
 
 If someone were to tell you how to vote, while looking over your shoulder, you'd be weirded out and call the police. And society in general would agree nobody should tell you, nor force you, how to vote. You yourself haven't done anything to earn that right. It's a byproduct of living inside a political ecosystem with guns used by recognized policeman, fair judges of a court system, and the absence of invasions or desperation that lets every member of the community cast a vote.
 
@@ -1105,9 +1073,7 @@ Your life wont get better until you think of a tools in the same way. The soluti
 
 Everytime you listen to a political speech just notice how many times they talk. Once you ask yourself what tool am I getting to bring down taxes, cap the debt ceiling, fight climate change, then you'll talking solutions. Until then you'll be experincing societal collapse.
 
-## Lessons
-
-I can't fix an engine. I can't cook a tasty meal. I can't do a hand-stand. I can't juggle. I can't do math in my head. I can't do most things out there. At almost everything I'm average, at many things I suck, and a few things I'm good. My special skills are abstract reasoning, an understanding of social rules, and being polite. Put this together with a decent memory, and an interest in history and political philosophy and you get this book.
+## A Fond Farewell - Listing all the metaphors and saying goodbye
 
 I tried to make the history lesson as readable as possible. Almost all the topics and subjects are metaphors for the lessons Europe learned from going to the divine rights of kings, to the rousseau philosophy of political democracy and equality we live in today. Here they are:
 
@@ -1131,8 +1097,9 @@ All of this is hard to understand. It seems simple because it's your life, and y
 
 So the question is, if these are the characters inside the repeating story of civlization, which one do you think you are?
 
-## Stargazer
-<!-- talk   abou who are you, as the larger question -->
+# EPILOGUE
+
+## Stargazer Let's Look Through the Life Star
 
 Stargazer, once upon a time everyone was an astronomer. Anyone could look up at the sky, see the amazing show up there, and make up whatever they wanted. Some answers make more sense, but explaining what was up there, from angels to fireflies, is impossible to see, so impossible to disprove.
 
@@ -1142,9 +1109,7 @@ And that's the climax. A question as big as any ever asked. What's going to happ
 
 Let's take a look.
 
-# EPILOGUE
-
-## My App
+## My App - showcase the lessons along the way
 
 I never wanted to write this book. I wrote a similar book years ago "A Non Functioning Society: Why the 2008 Economic Crisis Was Only the Beginning". All the lessons from here are there. For example, it predicts the western world is trying to assert a economic ecosystem, and thus needs borders. Trump and Brexit were as predictable as the orbit of Mars once Newton wrote gravity's equations.
 
