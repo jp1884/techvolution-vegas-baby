@@ -5,6 +5,8 @@
 
 This ended sooner than I thought, so why not take some time to fill any holes. Let's have a conversation and flesh out the ideas inside Techvolution a little.
 
+ - A comdedy stage is a fission in the matrix, a place where no ruling philosophies lives.
+
 Maybe a Rogan interview? Why not.
 
 ROGAN
