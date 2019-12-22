@@ -1617,3 +1617,16 @@ Thus, I didn't write this so Techvolution will replace red/blue politics with it
 Because digital tools are the telescope showing us the Nature in a new light. One that finally let's us finally see the "visions of the just and good society" the philosophers dreamed about.
 
 So come Stargazer, with your mind wipe clean up old philosophies, and human written rule books, we can now find true answers to the human condition as we tear the mask of Nature, and stare into the face of God.
+
+## Quotes on Thirty Years War
+
+“Though they are now largely silent, the voices from the seventeenth century still speak to us from the innumerable texts and images we are fortunate to possess. They offer a warning of the dangers of entrusting power to those who feel summoned by God to war, or feel that their sense of justice and order is the only one valid.”
+― Peter H. Wilson, Europe's Tragedy: A New History of the Thirty Years War
+
+“Protestant propaganda presented the Thirty Years War as a papal crusade, with the Jesuits as the pontiff’s storm troopers.”
+― Peter H. Wilson, Europe's Tragedy: A New History of the Thirty Years War
+
+## explaining philosophy
+
+The political ideologies we have today—Conservative, Progressive, Socialist, Marxist—are just like the Athens Democracy, Roman Republic, and Divine Monarch. They are merely options we can choose from to our society. With every technological era, comes a new philosophy to (try) and get people to see the big picture, that everyone should be the player god. This is important to remember. Our politics changes with technological development.
+
