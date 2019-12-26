@@ -30,7 +30,7 @@ Here it is. Its big lesson is this. The middle-class has to step up and use digi
 
 ## Dedication
 
-_This book is for the people in the open-source community. For the collaboration philosophy, you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Computer Age. You gave the best education a political guy can get. I hope I've learned enough to write this book._
+_This book is for the people in the open-source community. For the collaboration philosophy you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Computer Age. You gave the best education a political guy can get. I hope I've learned enough to write this book._
 
 _For the antagonists, the self-entitled delegators keeping Blockbuster—and it's Industrial Age mentality—alive, thanks for causing history to repeat itself yet again. I hope you learn something._
 
@@ -42,19 +42,23 @@ _This is especially dedicated to the extras on Main Street. Because when it's ti
 
 Gordon Moore, co-founder of Intel, 1973.
 
+## Note to the reader
+
+I use videos throughout this book. I think it's easier to communicate ideas. But each was made by someone else, and all credit for the video production goes to them.
+
 # Introduction
 
 ## Looking Up
 
 How do we develop through technological Ages? Going from the Stone Age to the Bronze Age or the Medieval Age to Science Age happens over generations—it can be hard to get our head around. I've been thinking about it for years and only now have a grasp. There's a lot to think about when a civilization's entire way of life upgrades to new technology.
 
-Play computer games like _Age of Empires, Anno 1800_, and _Civilization_, and you'll get to see how civilizations develop. You'll be the "player god" who organizes society, gives people orders, saves up resources, invests in research, and decides when to click "upgrade". When you do, your civilization instantly transforms. Like magic, every house, factory, building, road, library, school is suddenly new and improved by the technology of a new age.
+Play computer games like _Age of Empires, Anno 1800_, and _Civilization_, and you'll get to see how civilizations develop. You'll be the "player god" of a civilization; a virtual divine being who knows all, sees all, and whose general will is society's command. As a player god you'll give people orders, manage resources, invest in research, and finally decide when to click "upgrade". When you do, your civilization instantly transforms. Like magic, every house, factory, building, road, library, school is suddenly new and improved by the technology of a new age. Here take a look at a person being the player god in the game Anno 1800.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FortunateFluffyAfricanporcupine' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 The above is a game, of course, but it represents reality pretty well. We're all in there somewhere right now, trying to figure out how to earn a living while our society changes around us. It's hard—there is no player god and no magic button. Instead, we, the people inside the game, must collect the resources, do the research, and manually transform every part of our civilization bit by bit with blood, sweat, and tears. We can't sit back, click, and watch. We must live it.
 
-Improving technology is hard work, but at least we understand how to do research and development. Improving politics isn't so straightforward, especially when society has one foot in an old era and one foot in a new one. This is a time of politics and philosophy, civil wars, and revolutions I want to help you understand your importance in. Because in 1970, we entered the Computer Age. Since then, computer geeks, innovators, and hackers have been upgrading our society with ever more powerful electronic tools. All the while, established companies and bureaucracies of the Industrial Age have been holding them back.
+Improving technology is hard work, but at least we understand how to do research and development. Improving politics isn't so straightforward. Upgrading politics and philosophy is a time of civil wars and revolutions. And I want to help you understand your importance in it all. Because in 1970, we entered the Computer Age. Since then, computer geeks, innovators, and hackers have been upgrading our society with ever more powerful electronic tools. All the while, established companies and bureaucracies of the Industrial Age have been holding them back.
 
 Being forced to use old Industrial Age mechanical tools is why middle-class life is getting worse. Things will only improve once we finish the Computer Age upgrade. There's no shortcuts, cheats, or gimmicks. There's just you and your friends on Main Street. We all have to get out the sweat-bands, work gloves, and new ideas to upgrade every piece of our civilization to the Computer Age, bit by bit.
 
@@ -62,7 +66,7 @@ This book integrates lessons from the history, politics, and philosophy of prior
 
 ## Looking Up at Philosophy - We develop with new tools and philosophys
 
-This book's illustration is a regular person standing on Main Street-a single person in civilization. His or her job is to do what's best for themselves, and help society prosper. She's looking up for guidance and sees two options—heroes and villains. In the sky high above is the mythical "player god" whose ultimately the one making the decisions. Will the player god act to benefit society or to benefit himself?
+This book's illustration is a regular person standing on Main Street—a single person in civilization. His or her job is to do what's best for themselves, and help society prosper. The regular person is looking up for guidance and sees two options—heroes and villains. In the sky high above is the mythical "player god" whose ultimately the one making the decisions. Will the player god act to benefit society or to benefit himself?
 
 ILLUSTRATION
 
@@ -74,7 +78,7 @@ So what the heck are good political choices today? Who are the good guys? Every 
 
 So there you are, on Main Street, looking up, trying to figure if Donald Trump is evil, or if the United Nations is trying to make a world government. You ask if Fox News is manufacturing fake news, or maybe "all of them" are. If so, what's real news? The questions never stop. Should the government-run health insurance, or a big corporation regulated by the government? Is climate change real? If so, why does my "green" obsessed company force me to drive to work every day?
 
-It's all very confusing and emotional. Yet you have to pick sides. After all, you're part of the player god as much as anyone else. Wouldn't it be cool if a philosophy showed you the difference between good and bad politics today? It is cool; it's calming to understand politics. And it's one reason why I wrote this book. So I, and whoever reads it, can better understand what's wrong with our society today. I also wrote this book to create a new philosophy. Once that'll let us upgrade to, and finally enjoy, the glorious Computer Age.
+It's all very confusing and emotional. Yet you have to pick sides. After all, you're part of the player god as much as anyone else. Wouldn't it be cool if a philosophy showed you the difference between good and bad politics today? It is cool; it's calming to understand politics. And it's one reason why I wrote this book. So I, and whoever reads it, can better understand what's wrong with our society today. I also wrote this book to create a new philosophy. Once that'll let us upgrade to, and finally enjoy the greater independence, dignity, and freedom, of the glorious Computer Age.
 
 ## Your Politics Is Hard to See, Because You Are Changing
 
@@ -86,7 +90,7 @@ For example, we all believe in a philosophy of "Life, liberty, and the pursuit o
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GrimyHonestFallowdeer' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-We can see buildings grow, expand, transform. Like in the game above choosing which technology and philosophy you want really is as simple as clicking it as the player does in the clip above. It's just so damn hard to see when it comes to philosophy and politics because it's our minds that are changing.
+We can see buildings grow, expand, transform. Similarly, choosing which technology and philosophy you want is also a simple click. It's just so damn hard to see when it comes to philosophy and politics because it's our minds that are changing.
 
 That being said, people are good at picking an ideology and then fighting for their political opinions. It's relatively easy to argue, vote, watch TV, and listen to radio shows. But understanding our political views is entirely different. Few people say, "My family is old money. I have a huge trust fund. So I'm coasting through life.". Instead, that person says, "White privilege doesn't exist stupid!" Nobody says, "I'm gullible, and I work with lots of Liberal Arts graduates, so I don't like Trump because the crowd hates him." Instead, that person says, "Trump is not presidential!"
 
@@ -666,19 +670,27 @@ Many people buy cars and see themselves as being standouts. Yet nobody else on t
 
 https://www.youtube.com/watch?v=VzY4jkQs8wU
 
-## Open Source Projects
-
-Here are some open-source projects changing the world today.
-
-Galaxy Zoo: https://www.zooniverse.org
-
-Common Voice: https://voice.mozilla.org/en
-
-Wikipedia: https://www.wikipedia.org/
-
-Kickstarter: https://www.kickstarter.com/
-
 # MID POINT
+
+## The Era of Mass Collaboration Is Here, in Bits and Pieces, But It's Here
+
+Let's take a break. We've learned we're in the Computer Age, stuck using the philosophy of the Industrial Age. That means we still over-value management and competition. But we're still in the technologically in the Computer Age. So it's philosophy of mass collaboration is seeding itself in the open-source community, whose selflessness is pushing into the future.
+
+Saying all that, here are some mass collaboration, crowd-sourcing, websites online right now. Not only should you take a minute to search through them and contribute some of your time. You should sit back and realize what you're doing. Because with no managers, consultants, and timesheets, you can help advance humanity with nothing but a laptop, the internet, and you.
+
+Galaxy Zoo: https://www.zooniverse.org : That show in the night sky is of course amazing. It's looks wonderful because there's so much stuff going on. Our telescopes are collecting massive amounts of data about this massive Universe. Astronomers can't look through it all. So they're asking for help.
+
+Right now, you can go onto Zooiverse, and help astronomers classify stars and galaxies. Some contributors will truly be the first to discover something new. All contributors will help civilization move forward.
+
+Common Voice: https://voice.mozilla.org/en : We can now give voice commands to our computers. Before that happens, programmers need people's voices to teach computers our commands. Big companies like Google have their own databases, but average companies can't afford to do it.
+
+Common Voice let's anyone donate their voice. It's annoymous of course, but a free and independent voice database let's any company give their programs voice commands.
+
+Wikipedia: https://www.wikipedia.org/ : Everyone's favourite way to settle a bar bet. Thousands of programmers work on Wikipedia's software called MediaWiki. But many more people contribute by writing and updating articles. Everyone's an expert at something. Give it a shot.
+
+Kickstarter: https://www.kickstarter.com/ : Kickstarter connects regular people trying to solve a problem, with regular people waiting for a solution. A few bucks could fund a product you could need. The software of this website, Ghost Foundation, was started on Kickstarter.
+
+The point is the era of mass collabroation is coming. We just aren't jumping in yet. Below we'll talk about how mass collaboration won a battle, which will help us see how to win the war and finally jump into the Computer Age.
 
 ## A Techvolution Battle Scene. Wikipedia vs. Books. Computer Age vs. Industrial Age
 
