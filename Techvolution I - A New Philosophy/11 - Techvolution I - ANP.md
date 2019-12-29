@@ -8,7 +8,7 @@ December 2019
 
 Are you happy? On the outside, Westerners have flashy products, full employment, and stable politics. On the inside, our middle-class deals with stagnate wages, crushing debts, antisocial behavior, political hatred, climate change. We have the freedom to vote Left or Right, moderate or extreme, and we've tried them all, but none have helped.
 
-In this book, I argue our unhappiness is a sign of a bigger problem. Our ideologies are very outdated. They were created in the Industrial Age, and since 1970, we've been in the Computer Age. Our ideologies are holding us back, which is causing our frustrating lifestyles and massive social problems. We need a new philosophy—one created to harness the remarkable potential of electronic tools.
+In this book, I argue our unhappiness is a sign of a bigger problem. Our ideologies are very outdated. They were created in the Industrial Age, and since 1970, we've been in the Computer Age. Our ideologies are holding us back, which is causing our frustrating lifestyles and growing social problems. We need a new philosophy—one created to harness the remarkable potential of electronic tools.
 
 Here it is. Its big lesson is this. The middle-class has to step up and use digital technology to solve our own problems. If we don't, we'll keep suffering the pains of civilization running on old—ideological—fumes.
 
@@ -50,9 +50,11 @@ I use videos throughout this book. Animated diagrams, clips from shows, product 
 
 ## Politics
 
-Donald Trump is the savior of Western Civilization. If that turns your emotions on, positively or negatively, then you are missing the point of politics. Politics isn't voting for a political party, advocating for a political cause, and it's definitely not screaming at a television. How you live your life defines your politics. Voting, marching, reading a blog may change the world. But exercising, composting, teaching your kids mathematics does change the world. Deciding how to live your life is the only political power you truly have. Your personal choices are you best political weapon.
+Donald Trump is the savior of Western Civilization. If that turns your emotions on, with tears or cheers, then you are missing the point of politics. Politics isn't voting for a political party, advocating for a political cause, and it's definitely not screaming at a television. How you live your life defines your politics. Voting, marching, reading a blog may change the world. But exercising, composting, teaching your kids mathematics does change the world. Deciding how to live your life is the only political power you truly have. Your personal choices are you best political weapon.
 
-The question is how do we increase your powers. The answer, we'll find out in this book, is better technology, and the self-awareness to use it to improve your life. So this isn't a self-help book about making you happy. Our problem requires we go back to basics and understand how politics help us steer our civilization towards human happiness. Rethinking society, with a modern mentality, to have us grab hold of modern tools is required with every new age. This is when your personal choices change the course of life on Earth.
+When a new person, or a new party, is elected, not much can change in society. Government is so big. All the million of government regulations, programs, and plans don't suddenly await new orders. For everyone one newly elected politician, there are tens of thousands of civil servants who go about doing their job. And ask yourself, do you know who the board of directors is at your job? Maybe.
+
+Your choices are your best weapon against an unhappy life. The question is how do we increase your powers. The answer, we'll find out in this book, is better technology and the self-awareness to use it. But this isn't a self-help book about making you "happy". It's about making your powerful so you can earn your happiness. And we all need this today. Because we're in a new age, and that means we have to rethink society with a modern mentality so we all grab hold of modern tools to upgrade our civilization.
 
 ## Looking Up
 
