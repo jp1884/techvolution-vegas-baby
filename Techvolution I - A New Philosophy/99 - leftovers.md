@@ -1770,6 +1770,99 @@ So come Stargazer, with your mind wipe clean up old philosophies, and human writ
 
 The political ideologies we have today—Conservative, Progressive, Socialist, Marxist—are just like the Athens Democracy, Roman Republic, and Divine Monarch. They are merely options we can choose from to our society. With every technological era, comes a new philosophy to (try) and get people to see the big picture, that everyone should be the player god. This is important to remember. Our politics changes with technological development.
 
+## Technological History of the Movies - Using what weve learned
 
+Assuming you tried, it's funny how easy it was to find Darth Blockbuster on YouTube. Now, I need to know how movies and television technologically evolved. This would take weeks at a library. But I have Wikipedia so it'll take a few hours. Rubbish indeed professors.
 
+So let's go.
 
+The first thing to understand, is movies didn't invent stories. We've always, and always will, tell stories. They help us understand our lives and societies. Religious sermons, epic poetry, and stage plays have filled our need of stories throughout the years.
+
+The movies, and later television, are merely tools that help tell stories. Each is a creation of three pieces of technology. Data transmission, data storage, and data viewing. Movies started in 1894 when Thomas Edison’s laboratory invented the kinetoscope; the first machine that moved pictures through a light source fast enough to give the impression of seamless movement. Hence the name "moving pictures", simplified as "movies".
+
+The kinetoscope was like a vending machine for movies. Customers looked through a peep hole to see clips of boxing matches or dance routines. It was a popular novelty, kind of like GIFs on Instagram. Edison owned the patents and created the New Jersey based Motion Picture Patent Corporation (MPPC) to make sure everyone in the young movie industry paid their dues.
+
+After a few years of MPPC’s interference and legal threats, in what amounted to shakedowns, movie companies moved to Los Angeles to get away. As new projector technology came, MPPC lost its patent monopoly anyway. The movie industry was free to grow in LA’s good weather, cheap land, and no stifling East Coast corporate hierarchies.
+
+And best yet technology kept improving. New projectors could show movies on huge screens. Although reels weren’t long enough yet to show long movies. With the new projectors, movie theaters called Nickelodeons (because admission cost a nickel) opened up across the country. The movies were still novelties, showing exotic animals, news reels, or sports highlights, but getting better, like Instagram stories, instead of GIFs.
+
+By the 1920’s film reels were long enough to show three act stories. Although sound still wasn’t synched with film, so movies had subtitled dialogue and theatres used live music bands to communicate emotions.
+
+In 1927 film was finally synchronized with sound, giving movies dialogue and music. For the first time in history, full stories were not limited to a physical theatre. Any movie theatre in the world could show any story. A new storytelling tool was thus created.
+
+Like Instagram or Netflix popularity today, the people certainly felt the magic of good storytelling, and the majic of needing the theatre. No longer a novelty, the movies attracted millions every week. American industry rushed to control the booming industry. American culture was told on the silver screen. Leading actors became cultural icons. The industry exploded with profits. Although the people controlled none of it, their interest and loyalty made it happen one movie ticket at a time.
+
+Of course, all the technology that made the movie industry so rich and powerful was physical. Data storage, transport, and viewing was physical film, light projectors, and delivery trucks.
+
+This didn’t change until a new tool was born in 1948. Televisions used a different mixture of technologies. Huge magnetic tape reels stored content. Radio transmitted content over the airwaves. And televisions received the transmissions, and displayed the content on tube televisions.
+
+Broadcasts television companies like NBC, ABC, and CBS, now competed with movie theatres. TV story quality wasn’t as good, but the convenience was huge; especially as Americans slowly moved away from the cities packed with movie theatres into the suburbs packed with TV’s.
+
+From the 1950’s to the early 1980’s nothing much changed in the entertainment industry. Movies and television got better technologies. Film reels got clearer, color, and widescreen. Likewise, televisions got bigger and bandwidth improved with cable. But no new tools were created. The people still couldn’t choose or produce their own content.
+
+Then came new tools. The magnetic tapes databases that stored TV broadcasters’ content, got small enough to make home video cassette recorder (VCR). VCR’s cut out the broadcaster, who of course sued the manufacturer Sony for letting people break the rules and "time shift" television shows. The case ended up in the Supreme Court in 1984.
+
+In a 5-4 vote the power to record and watch videos was distributed to the people; the extras were free to add the VCR to their cyborgology. VCRs, home cameras, and renting movies became very popular in the late 1980’s. The most successful video rental company took the name "Blockbuster", the common term for popular movies. The entertainment industry quickly forgot about its VCR objections, and gladly put its content on Blockbuster’s busy shelves.
+
+Home entertainment tools kept getting better. In the late 1990’s came DVD’s and flat screen televisions. DVD’s were more advanced CD’s, and worked like videotapes, except they were digital. Meaning data was stored as "1 or 0". Plasma or LCD flat screens televisions were much bigger than tube televisions, and since they were digital too, they were High Definition.
+
+Even more people rushed to upgrade their cyborgology with DVD’s and home theatres. Blockbuster rental stores were even busier, especially as people started buying hundreds of DVD’s for home libraries. The entertainment industry loved it. They didn’t even care movie theatre attendance dropped heavily and many went bankrupt. In fact, they started to use theatres as marketing hype. The money was in DVD sales.
+
+Yet they didn’t notice, that the data transmission, data storage, and data viewing technologies of the movie industry was now almost entirely digital.
+
+Except movie distribution. People still had to drive to pick up their DVD’s or less likely visit a movie theatre. Hence, people still needed to concentrate around movie theatres, rental stores, or TV guides (i.e. the castles with gatekeepers), to access their digital data.
+
+Until they didn’t.
+
+The internet, the transfer of digital information that was used for email and webpages since the 1970’s, had kept getting better and faster. And in the early 2000’s the internet got High Speed, and could finally transfer 1’s and 0’s of a DVD faster then someone driving to pick one up.
+
+And here enters The Pirate Bay (2003). Like Napster, it introduced digital movies to people first. Although the entertainment industry used digital cameras, film projectors, email, webpages, YouTube for years, they didn’t want people using a new tool, but to keep using their profitable DVD technology; they even made two new ones called Blu-Ray (2006) and HD-DVD (2006).
+
+The people wanted the better tool. The one that made their life more profitable. After all the countless hours needed to invent new digital tools was mostly done on their tax dollars in government labs and military funding and university institutions. Pirate Bay was the first to offer the new technology as a new tool to the people. It was a pain, it was hard to learn, but it was better than driving.
+
+Remember the industry called this people thieves! Customers are pirates! People are evil, people are cheap, people are thieves! Really? Then explain the graph below, the one what shows how the evil people responded with protagonist Reed Hastings in 2005 made a new internet tool and gave internet movies to the people. What we call Netflix, by 2009, when Hollywood was panicking about BitTorrents, the people were finally given internet streaming. This was the same fucking time as Darth Blockbuster and the industry was complaining about human evolution.
+
+    <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script>
+    <script type="text/javascript">
+      trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Torrent","geo":"US","time":"2004-01-01 2018-11-04"},{"keyword":"Netflix","geo":"US","time":"2004-01-01 2018-11-04"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=Torrent,Netflix&hl=en-US","guestPath":"https://trends.google.com:443/trends/embed/"});
+    </script>
+
+If middle class Americans and Canadians are pirates, why didn’t Blockbuster stores have steel bars? The same reason why we don’t steal Netflix. Blockbuster was a fair deal, until data streaming movies was possible. Then Netflix was.
+
+The people elected to download movies from pirate bay because it was an upgrade available to their cyborgology. The only natural rule is natural selection. When people choose the best tool, they evolve into better cyborgs. It’s not the people’s job to wait for an industry to catch up to Nature. It should be the other way around.
+
+Maybe the industry would have noticed that. Instead, they were too busy surrounding themselves with art and wanted people to being distracted with spectacle (Blu-Ray, HD-DVD). While calling their own customer’s thieves, the movie industry held countless banquets and balls on the people’s DVD dollars; movie premieres, talk shows, award shows, and launch parties. Read books like Hollywood Interrupted and the revelation of the #MeToo movement, and these parties were, never mind self-congratulatory, but often even evil.
+
+The industry became self-obessed artists patting themselves on the back for making every weirder films, while manufacturing cheap spectacle to distract the masses. The masks of royalty appeared again. Success wasn't defined by those on the frontline, but by politicking and ingratiating oneself to the putrid politics of a aged industry.
+
+The Oscars, Correspondence Dinners, Emmy’s, Golden Globes, Cannes Film Festival, Sundance Film Festival, Toronto International Film Festival, and so many others. All modern version of banquets and balls, with gates to keep you out, and rules put in place to make the good times of the DVD going. Party loving, profit loving, foresight lacking is a recipe for antagonism, hence Darth Blockbuster rose up.
+
+While the spectacle of Blu-Ray and HD-DVD tricked some extras, like with Wikipedia attracting people despite the supposed experts objections, the vast majority followed the natural majic of online movie streaming instead, even when it was against the rules to improve society.
+
+Digital tools empowered the extras to fight back, and check his self-important art story. Nevermind that the people flocked to HBO and Netflix not only for the better technology and value, but because these companies emulated early Hollywood and told classic stories like _The Sopranoes_, _Breaking Bad_, and _Game of Thrones_. The people sought out these products.
+
+In short, the movie industry was led by people who didn't know how to tell stories. They re-used past hits to squeeze as much out of the glory days as possible. Hence, so many movies were sequals and remakes that were simply bad stories.
+
+The artists inside the industry got back at them with a system of "one for them, one for me" and made increasingly weired, unenjoyable, and politically charged art films.
+
+Here's the frontline difference between spectacle/art, and classic stories.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Apc8OU98r54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/78juOpTM3tE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+If rying to make people shake in their seats by adding a motor isn't bullshit... So the people revolvted to new leaders. Heroes that used modern tools to do a good job and tell quality stories.
+
+Techvolution tells them its right to do it. As for it being against the rules, it was, but the rules weren't updated to digital tools so who cares.
+
+As for me. I was naive back then and never downloaded any movies. I was the sucker buying DVD’s.
+
+Hey, do you think Darth Blockbuster will buy back all those DVDs, Blu-Rays, and HD-DVDs he told me, and us, was better than downloading? I wonder did those go up, or down, in value?
+
+![Behind the Curtain](img\sketches\frontline-movies.full.jpg)
+
+- The Computer Age was started by traitors. It's true. History calls them, with a grin of course, the Traitorous Eight. They were eight young kids, working for Shockley Semi-conductor in the 1950s. Shockley had helped invent the transistor and commercializing it. Sadly, he'd fallen into paranoia and made his workers miserable, They weren't happy because they knew they could change the world. So these eight unknown chemists, physicits, machinists, engineers, left Shockley and started their own company. It was still the Industrial Age, and hence these workers were supposed to be extras doing what they were told. Society yelled at them "this is a shameful act".
+
+Who cares what the Sophia's of the world say today. These kids became protagonists of the Computer Age. These eight people are directly responsible for Intel, AMD, Kleiner Perkins, National Semiconductors, and many more companies. Indirectly, they seeded Silicon Valley with Apple, Microsoft, Oracle, and so on. Every Computer Age protagonist and player god today owes these eight people a debt of gratitude.
+
+PICTURE
