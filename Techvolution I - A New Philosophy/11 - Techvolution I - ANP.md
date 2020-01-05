@@ -24,9 +24,11 @@ Here it is. Its big lesson is this. The middle-class has to step up and use digi
 
 5. [Mid Point - A Techvolution Battle Scene](#mid-point)
 
-6. [Act Three - Climax](#1231)
+6. [Act Three - Climax](#act-three)
 
-7. [Epilogue](#123131)
+7. [Epilogue](#epilogue)
+
+8. [The Appendices](#the-appendices)
 
 ## Dedication
 
@@ -44,7 +46,7 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the reader
 
-I inserted videos throughout this book. They communicate ideas quickly and easily so why not. I especially used them because I wanted to showcase how relevant this book is. Today on the internet many regular people are working to improve middle-class life. They and their audience are using a collaboration philosophy without fully knowing it yet. The entire middle class can follow their lead. I want to help them all realize that. Of course, all credit for the videos goes to the creators.
+I inserted YouTube, Vimeo, and GIF videos throughout this book. They communicate ideas quickly and easily so why not. I especially used them because I wanted to showcase how relevant this book is. On the internet today there are many regular people working to improve middle-class life. They and their audience are collaborating—they just don't have a philosophy to unite them yet. I want to unite them inside a new philosophy. Of course, all credit for the videos goes to the creators.
 
 # Introduction
 
@@ -52,7 +54,7 @@ I inserted videos throughout this book. They communicate ideas quickly and easil
 
 Donald Trump is the savior of Western Civilization. If that turns your emotions on, with tears or cheers, then you are missing the point of politics. Politics isn't voting for a political party, advocating for a political cause, and it's definitely not screaming at a television. Doing all these things may change the world. But government is so big, with so many politicians, civil servants, interest groups fighting for control, it will likely not respond to your small voice. Tears or cheers don't make a person powerful.
 
-Deciding how to live your life will. Because exercising, composting, teaching your kids mathematics does change the world; it changes and improves your world. That's why your personal choices are your most powerful political weapon. And power is to politics what money is to finance.
+Deciding how to live your life does. Because exercising, composting, teaching your kids mathematics does change the world; it changes and improves your world. That's why your personal choices are your most powerful political weapon. And power is to politics what money is to finance.
 
 The question is how do we increase your powers. The answer, we'll find out in this book, is better technology and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy". It's about making you powerful so you can earn your happiness. And we all need this today. Because we're in a brand new age. The Computer Age is young, unexplored, and unconquered. To embrace it we have to rethink society with a modern mentality. One that makes the middle class grab hold of modern tools to upgrade our civilization.
 
@@ -60,23 +62,23 @@ The question is how do we increase your powers. The answer, we'll find out in th
 
 Life improves with better technology. Deaths from war, disease, famine have all gone down as our technological power has gone up. While stories of famine, disease, and wars fill our popular news; reading history books about the terrible Black Plague, Potato Famine, and Hundred Years War put things into perspective. Human life on Earth keeps getting better. The march of technological improvement is the reason. We have to keep going.
 
-Like evolution of single-cell organisms, to bacteria, to more advanced forms of life, humanty develops new technology in big jumps or ages. When a new age comes, its technology is so new and powerful, it changes how society functions. For example society was very different going from the Bronze Age to the Iron Age, or the Medieval Age to Science Age.
+Like evolution of single-cell organisms, to bacteria, to more advanced forms of life, humanty develops new technology in big jumps; what we often call "ages". When a new age comes, its technology is so new and powerful it changes how society functions. For example society was very different going from the Stone Age to the Bronze Age, or the Medieval Age to the Science Age.
 
-We are of course inside the same transition as we leave the Industrial Age and enter the Computer Age. It can be hard to get our head around because transitions happens over generations. I've been thinking about our current one for years and only now have a grasp. There's a lot to think about when a civilization's entire way of life upgrades to new technology.
+We are inside the same transition as we leave the Industrial Age and enter the Computer Age. It can be hard to get our head around because upgrades happen over generations. I've been thinking about our current one for years and only now have a grasp. There's a lot to think about when a civilization's entire way of life upgrades to new technology.
 
-Play computer games like _Age of Empires, Anno 1800_, and _Civilization_, and you'll get to see how civilizations develop. You'll be the "player god" of a civilization; a virtual divinity who knows all, sees all, and whose general will is how society plays the game. As a player god you'll give people orders, manage resources, invest in research, and finally decide when to click "upgrade". When you do, your civilization instantly transforms. Like magic, every house, factory, building, road, library, school is suddenly new and improved by the technology of a new age. Take a look below, you'll see a person being the player god in the game Anno 1800.
+Play computer games like _Age of Empires, Anno 1800_, and _Civilization_, and you'll get to see how civilizations develop. You'll be the "player god" of a civilization; a virtual divinity whose general will plays the game. As a player god you'll know all, see all, give orders, manage resources, invest in research, and finally decide when to click "upgrade". When you do, your civilization instantly transforms. Like magic, every house, factory, building, road, library, school is suddenly new and improved by the technology of a new age. Take a look below, you'll see a person being the player god in the game Anno 1800.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FortunateFluffyAfricanporcupine' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-The above is a game, of course, but it represents reality pretty well. We're all in there somewhere right now, trying to figure out how to earn a living while our society changes around us. It's hard—there is no divine player god and no magic button. Instead, we, the people inside the game, must collect the resources, do the research, and manually transform every part of our civilization bit by bit with blood, sweat, and tears. We can't sit back, click, and watch. We must live it.
+The above is a game of course, but it represents reality pretty well. We're all in there somewhere right now, trying to figure out how to earn a living while our society changes around us. It's hard—there is no divine player and no magic button. Instead, we, the people inside the game, must collect the resources, do the research, and manually transform every part of our civilization bit by bit with blood, sweat, and tears. We can't sit back, click, and watch. We must live it.
 
-Improving technology is hard work, but at least we understand how to do research and development. Improving politics isn't so straightforward. Upgrading politics and philosophy is a time of emotions and accusations, civil wars and revolutions. And I want to help you understand your importance in it all. Because in 1970, we entered the Computer Age. Since then, computer geeks, innovators, and hackers have been upgrading our society with ever more powerful electronic tools. All the while, established companies and bureaucracies of the Industrial Age have been holding them back.
+Improving technology is hard work, but at least we understand how to do research and development. Improving politics isn't so straightforward. Upgrading politics and philosophy is a time of emotions, civil wars, and revolutions. And I want to help you understand your importance in it all. Because in 1970, we entered the Computer Age. Since then, computer geeks, innovators, and hackers have been upgrading our society with ever more powerful electronic tools. All the while, established companies and bureaucracies of the Industrial Age have been holding them back. And you're stuck in the middle.
 
-Being forced to use old Industrial Age mechanical tools is why middle-class life is sucks. Why we wait in traffic, over-pay for our homes, and get drawn into endless huddles by consultants. Middle class life will only improve once we finish the Computer Age upgrade. There's no shortcuts, cheats, or gimmicks. There's just you and your friends on Main Street. We all have to get out the sweat-bands, work gloves, and new ideas to upgrade every piece of our civilization to the Computer Age, bit by bit.
+Being forced to use old Industrial Age tools is why middle-class life is sucks. Why we wait in traffic, over-pay for our homes, and get drawn into endless huddles by consultants. Middle class life will only improve once we finish the Computer Age upgrade. There's no shortcuts, cheats, or gimmicks. There's just you and your friends on Main Street. You're importance is monumental.
 
 This book integrates lessons from the history, politics, and philosophy of prior upgrades, but it's not written for any buff. It uses the power of stories to help the middle-class improve their own lives. The first step is a new mindset. Because the people already have amazing smartphones, 3D printing, and high-speed internet. We only need to believe in a modern philosophy to enjoy all the wonders of the Computer Age.
 
-## Looking Up at Philosophy - We develop with new tools and philosophys
+## We Develop Technology and Philosophy
 
 This book's illustration is a regular person standing on Main Street—a single person in civilization. His or her job is to do what's best for themselves, and help society prosper. The regular person is gazing up for guidance and sees two options—heroes and villains. In the sky high above is the mythical "player god" whose ultimately the one making the decisions. Will the player god act to benefit society or to benefit himself?
 
@@ -88,23 +90,23 @@ The more individuals realize the big picture and act like their actions matter, 
 
 So what the heck are good political choices today? Who are the good guys? Every newspaper, politician, and political party says they're fighting for the good of our civilization. But politics has so much disagreement. How can the regular person know the difference between heroes and villains?
 
-So there you are, on Main Street, looking up, trying to figure if Donald Trump is evil, or if the United Nations is trying to make a world government. You ask if Fox News is manufacturing fake news, or maybe "all of them" are. If so, what's real news? The questions never stop. Should the government-run health insurance, or a big corporation regulated by the government? Is climate change real? If so, why does my "green" obsessed company force me to drive to work every day?
+So there you are, on Main Street, looking up today, trying to figure if Donald Trump is evil, or if the United Nations is trying to make a world government. You ask if Fox News is manufacturing fake news, or maybe "all of them" are. If so, what's real news? The questions never stop. Should the government-run health insurance, or a big corporation regulated by the government? Is climate change real? If so, why does my "green" obsessed company force me to drive to work every day?
 
 It's all very confusing and emotional. Yet you have to pick sides. After all, you're part of the player god as much as anyone else. Wouldn't it be cool if a philosophy showed you the difference between good and bad politics today? It is cool; it's calming to understand politics. And it's one reason why I wrote this book. So I, and whoever reads it, can better understand what's wrong with our society today. I also wrote this book to create a new philosophy. Once that'll let us upgrade to, and finally enjoy the greater independence, dignity, and freedom, of the glorious Computer Age.
 
 ## Your Politics Is Hard to See, Because You Are Changing
 
-Philosophies are created to help organize society. They have high, and often hard to understand, ideals of a "just and good society". There are many options to choose from, such as Athen's Democracy, Rome's Republic, Royal Monarchy. The trick is to pick one that helps society use modern technology to solve real-life problems, and hence give people a happy life.
+Philosophies are created to help organize society with high, and often hard to understand, ideals of a "just and good society". There are many philosophies to choose from, such as Athen's Democracy, Rome's Republic, Royal Monarchy. The trick is to pick one that helps society use modern technology to solve real-life problems, and hence give people a happy life.
 
-When a computer player in a civilization game upgrades technology, we can see the game change technology. Installing a sewer, damning a river, building a road, is very obvious. But we can't see philosophy change so easily; it exists in our minds. Thus we have ideals in our heads that we sometimes don't understand.
+When a computer player in a civilization game upgrades technology, we can see the game change technology. Installing a sewer, damning a river, building a road, is very obvious. But we can't see philosophy change because it exists in our minds. Thus we have philosopical ideals in our heads that we sometimes don't understand.
 
 For example, we all believe in a philosophy of "Life, liberty, and the pursuit of happiness." But we're unsure what that means in everyday life. And this is what ideologies are for: Conservative or Progressive. Libertarian or Socialist. Republican or Democrat. All today's ideologies idealize "Life, liberty, and the pursuit of happiness," but each ideology has its own interpretation. They fight for your attention by calling themselves heroes and the other villains.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GrimyHonestFallowdeer' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-We can see buildings grow, expand, transform. Similarly, choosing which technology and philosophy you want is also a simple click. It's just so damn hard to see when it comes to philosophy and politics because it's our minds that are changing.
+We can see buildings grow, expand, transform. Similarly, choosing which philosophy you want is also a simple click. It's just so damn hard to see when it comes to philosophy and politics because it's our minds that are changing.
 
-That being said, people are good at picking an ideology and then fighting for their political opinions. It's relatively easy to argue, vote, watch TV, and listen to radio shows. But understanding our political views is entirely different. Few people say, "My family is old money. I have a huge trust fund. So I'm coasting through life.". Instead, that person says, "White privilege doesn't exist stupid!" Nobody says, "I'm gullible, and I work with lots of Liberal Arts graduates, so I don't like Trump because the crowd hates him." Instead, that person says, "Trump is not presidential!"
+That being said, people are good at picking an ideology and then fighting for their political opinions. It's relatively easy to pick an ideology and vote, watch TV, and listen to radio shows. But understanding our political views is entirely different. Few people say, "My family is old money. I have a huge trust fund. So I'm coasting through life.". Instead, that person says, "White privilege doesn't exist stupid!" Nobody says, "I'm gullible, and I work with lots of Liberal Arts graduates, so I don't like Trump because the crowd hates him." Instead, that person says, "Trump is not presidential!"
 
 The point is, even with ideologies to guide our opinions, the real reason for our political views is hard to know. We all look up at the same ideologies; we all try to "think of the big picture," yet we arrive at different answers. Our opinions are a by-product of our psychology, job, skillset, family, culture, ethnicity, religion, time-period. Who can understand how all these factors intermix to make a political opinion? Why does one parent cry tears of sadness, the other of joy, on the same election night?
 
@@ -127,13 +129,13 @@ But rather than rethink hundreds of years of "Left vs. Right" politics, ideologu
 Entertainment is their plan. Left and Right want their supporters to stay as extras who hate each other. That's why Left and Right use phantom ideologies to call themselves good, and "the other side" evil. Because neither party knows how to usher in the Computer Age. When Main Street askes why their commutes are so long, home payments so high, bosses so many, Left and Right ramp up their spectacle.  CNN, Fox News, MSNBC, and the rest put that "Breaking News!" up to distract their believers for a little while longer. This is just like when blockbuster movies ramp up the special effects because their stories don't connect with people anymore.
 
 https://www.youtube.com/watch?v=tEczkhfLwqM
-_This video excellently displays the growing hatred between Left and Right. It's about US Congress, but applies in every Western country. Notice how the divide started in the 1970s and has steadily grown since. That's because neither Left or Right know what to do in the Computer Age, so they blame each other for the society's growing list of problems. Growing hate is a terrible and worrying trend._
+_This video excellently displays the growing hatred between Left and Right. It's about US Congress, but applies in every Western country. Notice how the divide started in the 1970s and has grown since. That's because neither Left or Right know what to do in the Computer Age, so they blame each other for the society's growing list of problems. Growing hate is a terrible and worrying trend._
 
-Sadly, the story of mutual hatred doesn't stop until old ideologies kill each other off. The Thirty Years War (1618-1648) is an all too good example. This was a war between the kingdoms of Europe, whose royal families ruled with a Medieval Age philosophy of "divine right to rule". Back then, every royal family was either Catholic or Protestant. These religions were the only political philosophies the people could choose. Thus, when regular people demanded a better life, they picked a team and slaughtered "the other side" on behalf of supposed holy kings. The Thirty Years War can be summed up as; "The voices from the seventeenth century...offer a warning of the dangers of entrusting power to those who feel summoned by God to war, or feel that their sense of justice and order is the only one valid."
+Sadly, the story of mutual hatred doesn't stop until old ideologies kill each other off. The Thirty Years War (1618-1648) is an all too good example. This was a war between the kingdoms of Europe, whose royal families ruled with a Medieval Age philosophy of "divine right to rule" during the Science Age. Back then, every royal family was either Catholic or Protestant; these religions were the only political philosophies the people could choose. Thus, when regular people demanded a better life, they picked a team and slaughtered "the other side" on behalf of supposed holy kings. The Thirty Years War can be summed up as; "The voices from the seventeenth century...offer a warning of the dangers of entrusting power to those who feel summoned by God to war, or feel that their sense of justice and order is the only one valid."
 
 Main Street was so unhappy with their lives they kept fighting for no exaggeration, 30 years. The Thirty Years War was extremely brutal. One in five Europeans died from it. The carnage only stopped when both sides were exhausted. The worst part was when the horror ended, the people realized they were no better off—and what they were sick of all along was any and all kings. Thus, it wasn't long until ordinary people finally upgraded to a new ruling philosophy. As player gods, they fought for Democracy in the American Revolution (1776), the French Revolution (1789), and many others afterward.
 
-Left and Right are in a similar boat as Catholics and Protests political ideologies once were. Today the constant childish fights over impeachments, disputed elections, violent rallies, and trigger words, are what two factions do when neither can see they're both behind the times. Here's the crucial point, both sides think they're the protagonists of civilization. But neither is. Because Right and Left are Industrial Age philosophies. They fighting only helps Industrial powers hold society back from upgrading to the Computer Age.
+Left and Right are in a similar boat as Catholics and Protests political ideologies once were. Today the constant fights over impeachments, disputed elections, violent rallies, and trigger words, are what two factions do when neither can see they're both behind the times. Here's the crucial point, both sides think they're the protagonists of civilization. But neither is. Because Right and Left are Industrial Age philosophies. They fighting only helps Industrial powers hold society back from upgrading to the Computer Age.
 
 It's important to remember, Conservativism and Progressivism helped us achieve great things in the Industrial Age. But politics is only supposed to help people see the big picture—that all our individual choices matter—so our civilization plays the game well. Ideologies should never be self-serving. Conservatives and Progressives are. Neither can help regular people live happy lives in the Computer Age.
 
@@ -141,12 +143,15 @@ Do people today watch TV or exercise at night? Do we read a book or watch infota
 
 For our society to see the big-picture again, we need a new philosophy. One that looks ahead towards the boundless horizon of the Computer Age. One that considers the work of protagonists like Tesla, SpaceX, Blue Origin, as a sneak peek for the wondrous future each person should be building now, bit by bit.
 
-I've studied this topic for years. Both academically, at work, and in business. I could have written this has a political theory book or a history book. Instead, it's written as how-to-manual to the people on Main Street right now. Here's how we fix our problems and win the game. You'll like it best if you're sick of contemporary politics but love checking-out what Elon is up to. Because you'll understand most of today's talking points that drive Left and Right to hatred, are with digital technology rather simple engineering problems. Road traffic, health insurance, government debt aren't like inventing time-travel. You'll really like this book if you know that unless we see ourselves in the video below, evolution will find someone who does.
+I've studied this topic for years. Academically I studied political philosophy, history, and innovation at the University of Toronto. On the frontline as a line worker, an account manager, and finally making web app for an Industrial Age industry. I could have written this has a political theory book or a history book. Instead, it's written to the people on Main Street right now; here's how we fix our problems and win the game.
 
-https://www.youtube.com/watch?v=5KdE0p2joJw
-https://www.youtube.com/watch?v=qvBf6WBatk0
+You'll like it best if you're sick of contemporary politics but love checking-out what Elon is up to. Because you'll understand most of today's talking points that drive Left and Right to hatred, are with digital technology rather simple engineering problems. Road traffic, health insurance, government debt aren't like inventing time-travel. You'll really like this book if you know that unless we see ourselves in the video below, evolution will find someone who does.
 
-Dreaming about our civilization's future is not a joke. You either see yourself in the video, or humanity will continue the blessed journey of civilization without you. I wrote this book to get you dreaming again. It's written to be like _New Atlantis_, _On Social Contract_, and _Common Sense_. All books that helped start modern democracies because they made unhappy people on Main Street realize the big picture, that we're all the player god. Today, if we don't step up to upgrade our philosophy to the Computer Age, we'll keep suffering the unknowns of a degenerating society. We'll be unhappy extras watching stories of phantom socialists and fascists, instead of gazing up to a future as player gods in the stars.
+https://www.youtube.com/watch?v=qvBf6WBatk0&feature=youtu.be&t=3
+
+Dreaming about our civilization's future is not a joke. You either see yourself in the video, or humanity will continue the blessed journey of civilization without you. I wrote this book to get you dreaming again. It's written to be like _New Atlantis_, _On Social Contract_, and _Common Sense_. All books that helped start modern democracies because they made unhappy people on Main Street realize the big picture, that we're all the player god.
+
+Today, if we don't step up to upgrade our philosophy to the Computer Age, we'll keep suffering the unknowns of a degenerating society. We'll be unhappy extras watching stories of phantom socialists and fascists, instead of gazing up to a future as player gods in the stars.
 
 And if we don't step up, at least with this book, we can read what we could have done as we regret the choices of player gods who lost because they refused to play the game.
 
@@ -243,7 +248,7 @@ It's not the worn-out and drab, "Am I for red or blue politics?" Instead, it's s
 To do it, Main Street has to believe in a new philosophy. One that rewards workers, creators, and collaborators—basically, the people who are willing to become player gods of the Computer Age. And that's the only political question you should be asking yourself. Today, choosing Red or Blue doesn't matter any more than voting for Protestant or Catholic on the ballot.
 
 https://www.youtube.com/watch?v=1oo59slGufc
-_This is Louis Rossmann. He repairs computers and saves his customers money. More than that, he advocates electronics should be better built and easy to repair. Some manufacturers, notably Apple, make it hard to repair our computers because they want us to replace them. Louis testifies before legislative committees and posts videos about his business and thoughts. He also teaches others how to open up their own repair business. You don't have to support his "right to repair" campaign (you should, though). The point is because of digital technology and open-source, he can use advanced repair software, collaborate with supporters, run a business, and thereby change his society. Another example of a player god doing real politics.Whatever you think is important, from wasted tax money, to unfulfilled political promises, you can fight back with computers._
+_This is Louis Rossmann. He repairs computers and saves his customers money. More than that, he advocates electronics should be better built and easy to repair. Some manufacturers, notably Apple, make it hard to repair our computers because they want us to replace them. Louis testifies before legislative committees and posts videos about his business and thoughts. He also teaches others how to open up their own repair business. You don't have to support his "right to repair" campaign (you should, though). The point is because of digital technology and open-source, he can use advanced repair software, collaborate with supporters, run a business, and thereby change his society. Another example of a player god doing real politics. Whatever you think is important, from wasted tax money to underfunded public education, you can fight back with computers as a player god._
 
 ## Open-Source Lets Us Bust Open Gates And Start The Future Now
 
@@ -260,7 +265,7 @@ Busting open gates of mechanical tools move us from the Industrial to Computer A
 Once we do, all workers—from waitresses, mechanics, teachers—will start to be managed less and collaborate more. It'll be a massive change, similar to how factories and production lines swept across our society during the Industrial Age. However, even once we become player gods, we're going to have to fight to live in the wondrous Computer Age.
 
 ![old philosophy in a new world](img\diagrams\git-hub-rails.png)
-_This is the GitHub "repo" for Ruby on Rails, the technology that helps run apps like Basecamp, Airbnb, and Shopify. A core team of paid pros maintains and does much of the programming. But all programmers, from elite to novice, individually ask questions, find bugs, contribute their work, and it all comes together via GitHub's software with minimal supervision. The process works similarly to Wikipedia. It's very organized; even with over 5,000 contributors over 15 years, you can see who has done what and when. Ruby on Rails software is priceless and is yours to use however you want. Get familiar with how open-source works. It's a tell-tale sign for the openness, responsibility, and immense value of work cultures coming in the Computer Age. You should be happy! Once you experience how easy, effective, and powerful worker-to-worker collaboration is, it makes work much better. And the best part, no garbage meetings or delegators are needed._
+_This is the GitHub "repo" for Ruby on Rails, the technology that helps run apps like Basecamp, Airbnb, and Shopify. A core team of paid pros from these companies maintain and do much of the programming. But all programmers, from elite to novice, individually ask questions, find bugs, contribute their work, and it all comes together via GitHub's software with minimal supervision. The process works similarly to Wikipedia. It's very organized; even with over 5,000 contributors over 15 years, you can see who has done what and when. Ruby on Rails software is priceless and is yours to use however you want. Get familiar with how open-source works. It's a tell-tale sign for the openness, responsibility, and immense value of work cultures coming in the Computer Age. You should be happy! Once you experience how easy, effective, and powerful worker-to-worker collaboration is, it makes work much better. And the best part, no garbage meetings or delegators are needed._
 
 ## The Setup to our Story - How we get to the future
 
@@ -358,9 +363,8 @@ When Team Blue wins, does traffic suddenly disappear? When Team Red wins, does e
 
 Being a believer in red/blue philosophy doesn't change your fate any more than praying for rain would. If you'd prefer staying an Industrial Age extra, there's lots of pundits, columnists, and commentators waiting to sing to their choir, telling you to fight "the enemy" until you're literally blue in the face.
 
-https://www.youtube.com/watch?v=-pQcNKFoIDE
 https://www.youtube.com/watch?v=G5P34nJzsaY
-_This is a British comedy show, about elected officials dealing with government bureaucracies. The joke is ministers try to "change" things, and the regulators find ways to keep government the same. No party or ideology is ever referenced because it doesn't matter. VEEP is much the same._
+_This is a British comedy show about elected officials dealing with government bureaucrats. It was so accurate many people thought it a documentary at times. The running joke is politicians try to "change" things, and the bureaucrats find ways to keep control for themselves. No political party is referenced because it doesn't matter. HBO's VEEP showcases also how the government works._
 
 If you don't like the choir, or you're starting to realize the "other side" consists of workers like you who are a part of the same struggling middle class, you'd probably like to keep reading. This book will turn you into a player god of the Computer Age.
 
@@ -381,7 +385,7 @@ Happily, we already know how to use digital tools. Although, people often say we
 Just so, we can also stop using our tools as toys and start wielding them as lightsabers to fight for a better way of life. We've just been waiting for a new philosophy to turn them on and bring on the Computer Age. That's Techvolution, a philosophy that turns extras into heroic player gods who are hell-bent on winning the game of civilization.
 
 https://www.youtube.com/watch?v=J2Pjudf0810
-_Here's a small sample of red/blue cable singing to the choir. This is just like Protestants and Catholics fighting in Europe so many years ago. This sermon was about a campaign speech by Ms. Obama. No surprise, one side hated it, the other loved it. It was just a speech. How could it change the world either for better or worse? Since Right and Left ideologues can't make Floatplane, or repair your broken laptop, or make any product you might need, they fight instead. This bullshit only works as long as you listen._
+_Here's a small sample of red/blue cable singing to the choir. This sermon was about a campaign speech by Ms. Obama. No surprise, one side hated it, the other loved it. It was just a speech. How could it change the world either for better or worse? Since Right and Left ideologues can't make Floatplane, or repair your broken laptop, or make any product you might need, they distract with bickering instead. Notice how the fact that a new political party wont change government all that much is never talked about. This bullshit only works as long as you listen._
 
 ## Once We Believe in a New philosophy, We'll Reach for the Stars
 
@@ -439,15 +443,16 @@ Once upon a time in the Industrial Age, this coordination was done by many manag
 
 While Darth Taxi-Cab tried to stop Uber in court and government lobbying, it didn't work. The people liked Uber too much. Once people taste it, mass collaboration is too practical to be stopped. And it's just started to grow into more industries. It's something to keep in mind while you're reading this book. Our way of life will get better. Once we become player gods who realize their actions, even if just catching a lift, upgrades their civilization.
 
+![old philosophy in a new world](/img\diagrams\techvolution-uber-ride-collaboration.jpg)
+_An Uber ride is collaboration. One person needs to get somewhere, and another wants to take her there. Although this arragenment was around in the Industrial Age with taxi rides, the difference in the Computer Age is software, hardware, and GPS, does almost all the management, and thus empowers Main Street to help itself. Fittingly, I got both of these images from a free image service called Unsplash. These protagonists empower anyone to share, and use, professional grade images with a few clicks. In the Industrial Age these images would take hours or days and costs thousands of dollars._
+
 ## Nice to Meet You, Stargazer
 
 So you got to be a player god. Empowering. That just like a computer player in _Civilization_ deciding what farm to create, research to conduct, or people to educate; your actions determine the fate of civilization. Except in real life, you can't restart the game whenever you want. If our culture fails, we become like ancient Greece, Rome, or Mayans. Simple memories for others to learn from.
 
 That's why, whoever you are, and wherever you are on this Earth, I'm calling you Stargazer. It's a name in honor of ancestors like Copernicus, Bruno, and Galileo, who toppled the Medieval Age. These giants dared to look up at the night sky, ask questions, and take on the responsibility to advance civilization. Remember leave the naysayers behind. Let evolution deal with them.
 
-And who am I to tell you all this? I'm nobody special. I haven't led the country, and you haven't seen me on the news. In my youth, I was a cleaner, laborer, movie usher, projectionist, and die-hard ideologue. After dropping the latter bad habit, I studied political philosophy, history, and innovation at the University of Toronto, usually while working full-time. I have a strong dislike for garbage meetings and other excuses people make-up to avoid work. I hate people with superiority complexes, especially when they're in positions of authority and suck at their jobs. That's why I learned far more about innovation by continuing working at the frontline as a line worker, an account manager, and a claims adjuster. Making a new tool and meeting my personal Darth Blockbuster was an education unto itself.
-
-My life's experience began to teach me Techvolution. Watching the middle-class struggle to make a living owning, maintaining, and working with outdated Industrial Age tools—and knowing that the open-source community was meanwhile showing us the way to mass collaboration—ultimately motivated me to sit at the keyboard and uncover their collaboration philosophy so more people can live in the Computer Age. The middle-class deserves to be happy.
+In my youth, I was a cleaner, laborer, movie usher, projectionist, and die-hard ideologue. After dropping the latter bad habit, I studied political philosophy, history, and innovation at the University of Toronto, usually while working full-time. I learned far more about innovation by continuing working at the frontline as a line worker, an account manager, and a claims adjuster. Making a new tool and meeting my personal Darth Blockbuster was an education unto itself.
 
 But this book is not about me. It's about you. You are in a position where you wield a diversity of incredible and cutting-edge tools, even if you're unaware of it right now. From hospital cleaners to internet technical support, from engineers to claims adjusters, the bottom line is that you are at the frontline. Only workers on the frontline know firsthand the exact tools our society needs to keep us evolving in the Computer Age. The daily pain of real work makes you powerful. A piece of knowledge Darth Blockbuster will never have.
 
@@ -534,12 +539,12 @@ Techvolution is the ruling philosophy that encourages extras to "majically" bond
 
 **Majic**: The natural inclination of a person to learn, use, and hold new tools to increase their natural abilities.
 
-DARWIN'S FINCHES
-Charles Darwin discovered evolution. He visited an island chain, where each island had a different climate. Darwin noticed the same bird was slightly different on each island. He then saw each's beak was adapted to each a different good. Bugs, seeds, or nuts. Humanity mimics evolution by inventing and using new tools. Since we can drop and pick up tools, we can evolve so much faster than other lifeforms.
+![old philosophy in a new world](/img\sketches\darwins-finches.jpg)
+_Charles Darwin discovered evolution. He visited an island chain, where each island had a different climate. Darwin noticed the same bird was slightly different on each island. He then saw each's beak was adapted to each a different good. Bugs, seeds, or nuts. After years of more thought and observation he called his discovery evolution. Humanity mimics evolution by inventing and using new tools. Since we can drop and pick up tools, we can evolve so much faster than other lifeforms._
 
 ===
 
-- Note: Majić is my family name. I lucked out because it reads like "magic" in English. It may seem egotistical to coin it as a term here, but I couldn't think of a better work. Primarily, the use of "majic" pays tribute to my parents. If you've liked this book so far, you'll know why.
+- Note: Majić is my family name. I lucked out because it reads like "magic" in English. It may seem egotistical to coin "majic" as a term here, but I couldn't think of a better work. Primarily, the use of "majic" pays tribute to my parents. If you've liked this book so far, you'll know why.
 
 - Sticking it to my personal Darth Blockbuster makes me smile too.
 
@@ -607,8 +612,8 @@ The story gets better. Frederick Douglass becomes a brilliant orator and writer.
 
 _Story adapted from A Narrative of the Life of Frederick Douglass. Free on Project Gutenberg._
 
-DOUGLASS PICTURE/DIAGRAM
-_This is a diagram of the story. A technology comes with a philosophy. And each philosophy has its protagonists, antangonists, and extras. Sophia had a choice. We'll find out why she choose wrong below._
+![old philosophy in a new world](/img\diagrams\techvolution-antagonists-protagonists-extras-close-up-douglass-s.png)
+_This is a diagram of the story. A technology comes with a philosophy. And each philosophy has its protagonists, antangonists, and extras. Sophia's choice makes a philosophy the ruling philosophy. She went with the flow, and thus became an extra in a dying philosophy, instead of a player god in a new one._
 
 ===
 
@@ -786,15 +791,21 @@ Mixing logical problem solving, with new ideas, gives classic stories plot twist
 
 There’s no way to know which stories will resonate with audiences, but only classic stories can resonate with audiences and become archetypes like _Cinderella_, _Romeo and Juliette_, _The Matrix_, and _Star Wars_. These stories are tales like "Rags to Riches" or "Forbidden Love" that exist in all cultures and religions in some way.
 
+![Classic story](/img\diagrams\romeo-juliet.jpg)
+
 **Art films:**- are not about any specific problem. The main character doesn't challenge themselves, or rise to the occasion. The art story is more of a personal journal about not overcoming problems, for example being lonely, or hating ones job. The main character is thus selfish and self-important. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
 
 The result is stories with no storyline and no antagonist. Instead, art stories showcase their main characters idiosyncratic behavior like collecting action figures, or wandering around a shopping centre. Stories are surprising to the point of being weird, with conclusion that never change the reality because the main character didn’t even try to.
 
 Without logical surprises, art films need to get weirder and weirder to maintain interest. To insulate themselves from criticism art filmmakers usually give themselves awards, grandeur, and titles and end up-like their main characters-on stages talking about themselves in a bout of self-gratification. Film festivals like Cannes, Sundance, Toronto mainly show art films.
 
+![Art film](/img\diagrams\romeo-juliet.jpg)
+
 **Spectacle movies:**- are about an obvious problem, i.e. Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are thus very simple because the problem is very simple; survive or die. However, since the action is so instinctual, there’s no time for the protagonist to think of new ideas. The result is logical but unsurprising stories.
 
 To maintain interest, spectacle movies have to keep reusing old stories and characters while ramping up special effects, gore, and raunchiness. It doesn’t work for too long, so spectacle producers look for new customers with hype-filled mass marketing campaigns. Most franchise movies, sequels, and remakes are spectacle movies.
+
+![Spectacle movie](/img\diagrams\romeo-juliet.jpg)
 
 ===
 
@@ -805,8 +816,6 @@ You can see the difference in your favorite sitcom; such as _The Office, Seinfel
 However, in later seasons, to keep their now popular characters alive, the sitcoms keep them living the same stories. Kramer can’t get a job, Raj can’t get a girl, Dwight can’t get self-aware. Here sitcoms become art and spectacle stories. Art, because main characters don't overcome their personal problems anymore. And, spectacle, because we the audience keep watching our favorite actors, characters, sets, catch-phrases, instead of wanting a new story. The turning point between good and bad sitcoms is often called "jumping the shark", in reference to a sitcom where the main character, The Fonz, literally jumped over a shark because the writers couldn't think of anything else for the character to do.
 
 Rousseau noticed society has these classic, art, and spectacle stories, and that our societies travel through them as we develop through technological ages. When we start a new age, it's like watching the first years of the sitcom; everyone is solving everyday problems. At the end of the age, the leaders are the self-important artists who talk about themselves too much, and the people only watch them out of habit. In short, Rousseau noticed how one story works to advance and help society, and the other two work to enrich the artists and distract the masses.
-
-![Battle Scene](/img\diagrams\techvolution-civlization-tree-upgrade-gap.png)
 
 ## The Politics of Stories - this is what we learned from the last time, so we can chart our course
 
@@ -829,6 +838,8 @@ The traitor losses. Neo is too powerful. In the final battle with Agent Smith, h
   >I came here to tell you how this is going to begin. I'm going to hang up this phone. And then I'm going to show these people what you don't want them to see. I'm going to show them a world without you. A world without rules and controls, without border or boundaries A world where anything is possible. Where we go from there, is a choice I leave to you.
 
 And thus, Neo liberates the people in the matrix.
+
+![Battle Scene](/img\diagrams\the-matrix-neo.jpg)
 
 ## Lessons From The Matrix Is It Never Lasts Anyway
 
@@ -910,6 +921,7 @@ Darth King wasn't evil for being born into nobility. He is evil for holding his 
 It’s important to note, while Rousseau’s followers in so many revolutions may have been political free, they were economically poor. Hunger, disease, unemployment, illiteracy, were all rampant. The time was basically one of "economic anarchy". This is when red/blue philosphies, bent on political liberation from kings and economic liberation from poverty, were born.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MadeupTameLamb' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 _Here's a tidbit of an Industrial Revolution business magnate George Westinghouse. Among his inventions was the air brake, fridge, and electric generator. Westinghouse was a good boss, and although many other Protagonist Executuves weren't, each still helped conquer the economic anarchy._
 
 Like how society loved the original kings for winning the "King’s peace", the original economic kings were heroes for winning massive economic growth that won the "Executive's prosperity". These heroes said follow me, recognize my property rights, let me run the economy, and my company’s will keep you employed and improve your life with new tools like lightbulbs, stoves, and telephones.
@@ -924,70 +936,31 @@ That should both worry you and make you happy Stargazer. First the worrying part
 
 Increasing the spectacle of dark majic happened throughout the suburban "American Dream". Detached homes became even more more specular McMansions. Cars got bigger, more size, more chrome, more horsepower. Televisions increase in size. Food portions increased, sugar was added to everything. Rather than transform society to the Computer Age, Darth Oil, Telephone, Sugar made their tools more spectcular.
 
-The good news is, where not at a "let's burn down society" point yet. We can transition to the Computer Age ourselves before the frontline gets so bad we stop being unhappy with our lives, and get rolled into a revolutions. We can usher in the era of mass collaboration ourselves. But before we get to that, there’s something else. Something that’s gone very wrong...
+The good news is, where not at a "let's burn down society" point yet. We can transition to the Computer Age ourselves before the frontline gets so bad we stop being unhappy with our lives, and get rolled into a revolutions. We can usher in the era of mass collaboration ourselves. But before we get to that, there’s something else.
 
 # ACT THREE
 
-## Breaking News - List of all problems, startingin 1970's, because we didn't adapt to a new age. Collaboration is needed, and held back, time to act Stargazer
-
-We're in a dilemma, much like Darth King, Darth Blockbuster doesn't hate us. He is stuck in the matrix, or better put, he's stuck inside the old red/blue ruling philosophy of the Industrial Age. He's a unknowing antagonist for the Computer Age.
-
-But who cares. That's why I'm not writing to "The Executive". I'm writing it to you. If you see out of your matrix that makes you a extra on Main Street, you'll search and seek out new digital tools to solve your real-life problems, and thereby become, and control, the player god of the Computer Age. An unhappy life inside the heavy management and competition of the era of mass production will stop. You'll live and enjoy all the benefits of the era of mass collaboration.
-
-The world needs to upgrade our philosophy to the Computer Age. We need to usher in the era of mass collaboration.  This book's illustration is a regular person standing on Main Street-a single person in the game of civilization. His or her job is to do what's best for themselves, and help society prosper. She's looking up for guidance and sees two options—heroes and villains. Thankfully, The protagonists of society never stop inventing, innovating, thinking ahead. The antagonists never stop being selfishness, self-important, short-sighted. It's the story of civilization. Good vs evil, right vs wrong. Jedi vs Sith.
-
-The only question is, which does your ruling philosophy tell you to pick? And the one you pick creates your ruling philosophy. That's the power of Main Street. To either by the extra of antagoinsts, or the player god for the protagonists. A decision you make right now, in your head. Because in the sky high above is the mythical "player god" who you can control. If you believe in a good ruling philosophy.
-
-So the conclusion of this book, is a discussion in your head, which might look something like this.
-
-Extra: What does that mean, I don't like...
-
-Player god: It means we are the ones who control our society. We play the game.
-
-Extra: What it means is hard times create hard people. Hard people create easy times. Easy times bring on hard times. You can't get around it.
-
-Player god: No. Hard times create player gods. Player gods create good times. And then you get lazy. You follow the rules of Hugh Auld and the rest of them instead of fighting for what's right.
-
-Extra: 
-
-Player god: They called us pirates for downloading movies.
-
-Extra: You were.
-
-Player god: Let's see
-
-
-
-Extra: And where's that going to get you!
-
-Player god: And there's the difference. You're looking out for yourself. And player gods can't do that.
-
-
 ## Evolution Doesn't Happen Without Fighting - Main street Has to Act
 
-Can't make up your mind. This will help. Here are two stories one about an antagonist, the other a protagonist. We've met Protagonist and Antagonist kings. We've already learned there is a dividing line between the two, that like any long running story has a "jumping the shark" moment.
-
-That's hard to see in day to day life. Looking back now, it's easy to see that when Rousseau was being chased around Europe in the 1760-70’s the nobles families had definitely jumped the shark into self-obsession. Even before then, Europe's Main Street tried rebel, but without Rousseau's new philosophy, they were struck blaming either Protestant or Catholic kings in the horribly nasty Thirty Years War. A time when pissed off Main Street tore itself apart fighting over the Medieval Age's dying ruling philosophy. One of those wars was between over King Charles I, who ruled England from 1625-1649.
+This will help. Here are two stories—one about an antagonist, the other a protagonist. The first is about King Charles I, who ruled England from 1625-1649, right in the middle of the Thirty Years War, when Main Strret was tearing itself apart in the name of Protestant and Catholic kings.
 
 ## Darth King Charles
 
 Charles ruled as an absolute English monarch. He used the same "nobles right to rule" ruling philosophy as other Monarchs of his day. England had a Parliament but it was supposed to advise the king and not tell him what to do. However, unlike most other European countries, after some revolts in the Middle Ages, English parliament did have the power to approve taxes.
 
-After years of his forebears mismanaging government finances and overspending himself, Charles needed money. The people and their parliament refused to say yes until they got more political powers. Charles refused to talk to them. Instead he sent parliament home, and ruled by himself for 10 years. He raised taxes by using some very old feudal rules—one retroactively fined some men for not showing up to Charles’ coronation 10 years earlier. Charles’ using the fine print didn’t endear him to the people anymore than sending away parliament.
+England was broke. Charles needed money. The people and their parliament refused to say yes until they got more political powers. Charles refused to talk to them. Instead he sent parliament home, and ruled by himself for 10 years. He raised taxes by using some very old feudal rules like retroactively fining men for not showing up to Charles’ coronation 10 years earlier.
 
-Parliament eventually got sick of this subversion, raised an army, and fought the English Civil War (1642–1646). The army was local men devoted to their parliament. They were also very protestant and suspected Charles was a closet Catholic. Parliament's army officers were chosen by merit, while Charles’s men were mostly nobles who hired mercenaries to fight for them. The war between "parliamentarians" and "loyalists" was very "nasty, brutish, and short" as one observer said.
+Parliament eventually got sick of this subversion, raised an army, and fought the English Civil War (1642–1646). The army was local men devoted to their parliament. They were also very protestant and suspected Charles was a closet Catholic. Parliament's army officers were chosen by merit, while Charles’s men were mostly nobles who hired mercenaries to fight for them. The war between Parliamentarians and Loyalists was very "nasty, brutish, and short" as one observer said.
 
 After four years Charles lost. He was held under arrest, while rules for a "constitutional monarchy" were being made by the Parliamentarians. But then Charles escaped, hired a new army, and fought the Second English Civil War (1648–1649).
 
-Charles lost again. The victorious Parliamentarians were now enraged. They forgot about a constitutional monarch and charged Charles for crimes against the English people. Main street was very pissed off. Charles didn’t budge. The rules were on his side. The Bible said he was God’s representative on Earth. He was the natural leader the same way a father is the leader of his children. Which is why Charles refused to speak the court; a father doesn’t answer to his children.
+Charles lost again. The victorious Parliamentarians were now enraged. They forgot about a constitutional monarch and charged Charles for crimes against the English people. Main street was very pissed off. They even suspected Charles of being a Catholic. Charles didn’t budge. The Bible said he was God’s representative on Earth. He was the natural leader the same way a father is the leader of his children. Which is why Charles refused to speak the court; a father doesn’t answer to his children.
 
 But then Darth King Charles did speak, and that fact, should turn you into a player god.
 
 ## Charles Speaks - The Proof is in the Words
 
-Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. A person can talk fine when alone or with pets, but there's sometimes a mental block in the mind when people are around.
-
-For a stutterer, talking is like playing guitar with music notes written on the fly by a gremlin. Some words are easy to say, some are difficult hard, and some decide which at the last mili-mili-mili-second. The stutterer must jump around the words in real time. Fail and you miss a — beat.
+Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. For a stutterer, talking is like playing guitar with music notes written on the fly by a gremlin. Some words are easy to say, some are difficult hard, and some decide which at the last mili-mili-mili-second.
 
 But a stutter isn’t just about pauses, repetitions, or missing beats in a sentence. Stuttering is like having a mini-seizure. Your body seizes. Your neck tenses. You stop breathing. It’s horrible. I should know, because I suffer from the same affliction as Charles did.
 
@@ -995,7 +968,7 @@ The physical pain isn’t even the worst. Getting that look from people is. The 
 
 _"Hello, my ~~name~~ I’m Charles. I wa-want can want to ~~help~~ discuss, the situation with the, ~~Parliament~~ House of Commons..."_
 
-The prospect of talking, except to yourself and a dog, which Charles had two of, causes huge anxiety. The idea of never conversing with anyone causes huge loneliness and depression. The King’s Speech showed it well. Stuttering usually forces a person to be shy, passive, eager to please, and come up with weird reasons for their erratic speaking like hand gestures, random silence, binge drinking, and swear words (which, like talking to yourself or dogs, for some reason never cause a stutter). It’s entirely possible Charles’ relationship with Parliament was so bad because he simply didn’t want to talk with them. Not that he would ever admit he had an impediment. After all, he was a king!
+The prospect of talking, except to yourself and a dog, which Charles had two of, causes anxiety. The idea of never conversing with anyone causes loneliness and depression. The King’s Speech showed it well. Stuttering usually forces a person to be shy, passive, eager to please, and come up with weird reasons for their erratic speaking like hand gestures, random silence, binge drinking, and swear words (which, like talking to yourself or dogs, for some reason never cause a stutter). It’s entirely possible Charles’ relationship with Parliament was so bad because he simply didn’t want to talk with them. Not that he would ever admit he had an impediment. After all, he was a king!
 
 My speech impediment was the reason I got a job in a car insurance claim department. After a vice president at an old company secretly told my supervisor I wasn’t allowed to talk to customers, for fear of embarrassing the company, I was like shit I guess I don’t have this damn gremlin under control. I wasn’t even that mad about it (although I was that it was an open secret for over a year). I never told anyone I had the impediment, so despite therapy as a kid, it was obviously still a problem.
 
@@ -1007,61 +980,88 @@ I’m being serious by the way. We were often more stressed then the person who 
 
 Super-shock speech therapy! After about a year I didn’t have to massage my jaws at night to release it from all the teeth shattering jaw-clenches I did to divert vocal stuttering. I was cured!
 
-The point is this. That’s what it took for me to mostly never stutter (except when people try to limit my word choices in pretentious situations). It’s like night and day. The anxiety washed away. A hidden outgoing personality was brought out and frankly is fun, although still surreal, to be. I often feel like a desert fox who finally learned to swim.
+The point is this. That’s what it took for me to mostly never stutter. It’s like night and day. The anxiety washed away. A hidden outgoing personality was brought out and frankly is fun, although still surreal, to be. I often feel like a desert fox who finally learned to swim in a corel sea; out of place.
 
-Yet Charles never had this lesson. Despite being adamant he was God’s chosen leader (or perhaps because of it), he was famously shy and quiet his whole life because that’s the gremlin likes it. Even when fighting for 16 years defending his ruling philosophy, Charles still probably had to massage his strained jaws every night. I can sympathize. The gremlin is an asshole.
+Yet Charles never had this lesson. Despite being adamant he was God’s chosen leader, he was famously shy and quiet his whole life because that’s the gremlin likes it. Even when fighting for 16 years defending his ruling philosophy, Charles still probably had to massage his strained jaws every night. I can sympathize. The gremlin is an asshole.
 
-Charles would have to talk. Main Street was forming itself into a player god. Regular people, together, accused a king of being "a Tyrant, A Traitor, Murderer, and a public enemy to the Commonwealth of England". This was the first time the people weren't replacing one king for another, and therefore staying loyal to the ruling philosophy of divine nobility. They were saying the leader of their country was a bad ruler, supposing they had a say who rules them.
+Charles would have to talk. Main Street accused a him of of being "a Tyrant, A Traitor, Murderer, and a public enemy to the Commonwealth of England". This was the first time the people weren't replacing one king for another. They were simply killing the king. But they didn't have Rousseau's new philosophy yet. So they didn't know what to do. If a king didn't rule, who would?
 
-Because a ruler of a state can be a king, a consul, a prime minister, or a president. It was these young player gods who inspired Rousseau to write his new philosophy. Charles still wouldn’t speak. He didn’t believe his life was on the chopping block. Kings don’t answer to children.
+Charles stay silent.
 
-Charles wasn’t pretending or bluffing. He wasn’t proud, or stubborn. He psychologically couldn’t understand even the idea of being wrong. He was an agent of the matrix. He was Hugh Auld to the people's Frederick Douglass. Charles the was the hero of a bad philosophy.
+He wasn’t pretending or bluffing. He wasn’t proud, or stubborn. He psychologically couldn’t understand even the idea of being wrong. He was an agent of the matrix. He was Hugh Auld. Charles the was the hero of a bad and dying philosophy.
 
-The judges convicted Charles anyway. He was sentenced to death by removing the head from the body. Charles was flabbergasted and now wanted to speak in his defense. The next chance would be standing at his own chopping block.
+The judges convicted Charles anyway. He was sentenced to death by removing the head from the body. The convicted king was flabbergasted. The next chance would be standing at his own chopping block.
 
 ## Charles Speaks
 
-Fuck the ringing bell of a claims department, imagine that stress of a stutterer minutes from execution, having to say something to justify 16 years of civil war. Charles only had words to justify himself, and the ruling philosophy of the English throne to his (supposed) subjects and to history. And… and… no stutter. Not once!
+Fuck the ringing bell of a claims department, imagine that stress of a stutterer minutes from execution, having to say something to justify 16 years of civil war, his throne, and his place in history. And… and… no stutter. Not once!
 
-He didn’t just speak, he spoke so eloquently many people, even those who hated him, were impressed. Fuck… I’m happy for him. I can say beyond a reasonable doubt it felt like God killed the gremlin. What vindication! Indeed, Charles’s last words were a clearly spoken:
+Charles didn’t just speak, he spoke so eloquently many people, even those who hated him, were impressed. I’m happy for him. I can say beyond a reasonable doubt it felt like God killed the gremlin. What vindication! Indeed, Charles’s last words were a clearly spoken:
 
 > Truly I desire their (the people’s) liberty and freedom as much as anybody whomsoever; but I must tell you their liberty and freedom consist in having of government, those laws by which their life and their goods may be most their own. It is not for having a share in government, Sir, that is nothing pertaining to them. A subject and a ruler are clear different things...therefore I tell you that I am the Martyr of the people. I die a Christian according to the profession of the Church of England, as I found it left me by my father... I have a good Cause and I have a gracious God. I will say no more.
 
-Clearly spoken words about being totally behind the times. I'm still happy for his moment, but he gave England 16 of civil war because he thought he was a living god. The truth was, kings were no longer needed. The people could rule themselves as player gods. Charles should have been happy his children grew up. He could have helped them grow up by conceding powers to Parliament and avoiding 16 years of war. Instead he lived in splendor, hide behind spectacle, and used the people’s money to hire foreigners to kill them.
+Clearly spoken words about being totally behind the times. He gave England 16 of civil war because he thought he was a living god. The truth was, kings were no longer needed. The people could rule themselves as player gods. Charles should have been happy his children grew up. He could have helped them grow up by conceding powers to Parliament and avoiding 16 years of war. Instead he lived in splendor, hide behind spectacle, and used the people’s money to hire foreigners to kill them.
 
-Later kings still didn’t learn. Even more distanced from the frontline inside their palaces, banquets and balls. Many more Darth Kings faced the chopping block with the voice of God calling them martyrs.
+Later kings still didn’t learn. Even more distanced from the frontline inside their palaces, banquets and balls. Many more Darth Kings faced the chopping block with the voice of God calling them martyrs. The irony was, their stubborness caused real protagonists like Rousseau, Washington, and Jefferson to rise up. These protagonists, use new tools and a new philosophy to empower the people to become a new player gods.
 
-The point is because we can't see outside the Matrix, we are stuck inside of a philosophy. even the prospect of death doesn't change our opinions. And the game of civilization does't change. The protagonists still push humanity forward. And here's the ultimately lesson. While you may think you're loyal to the old ways, the second you touch a new tool, it's majic makes you a cyborg of the new age.
+Once the people felt the majic of the printing press, scientific instruments, and gun, kings turned from being protagonists, to angagonists. And that's why you are by default a believer in Techvolution. Here's why.
 
 ## The Majic of the Internet - Because of Cyborgolgy, If We Use the Internet, We Automatically Fight For the Computer Age
 
-The internet has many protagonists. Paul Baran is one of the big ones. Here’s why.
+The internet has many protagonists. Paul Baran is one of the big ones. Because of him, just by using the internet, you become a player god.
 
-The internet is a network. There are many ways of sending data through a network. The simplest is how phone systems do it with a direct circuit link between two phones. A call’s connection only stops when someone hangs up.
+The internet is a data network. There are many ways of making a data network. The simplest is how phone systems do it with a direct circuit link between two phones. A call’s connection only stops when someone hangs up.
 
-Alexander Graham Bell invented "direct circuit links" in 1876 and put it into action when he co-founded the American Telephone & Telegraph (AT&T) in 1885. For generations direct links was how all telecommunications worked. But when the Soviets tested a hydrogen bomb in 1955, Paul Baran took it upon himself to make a new tool to help prevent a nuclear holocaust.
+Alexander Graham Bell invented "direct circuit links" in 1876 and put it into action when he co-founded the American Telephone & Telegraph (AT&T) in 1885. For generations direct links was how all telecommunications worked. But when the Soviets tested a hydrogen bomb in 1955, Paul Baran took it upon himself to make a new network to help prevent a nuclear holocaust.
 
 Baran realized to prevent nuclear war, the world needed a communications network that would survive an atomic attack. Only robust and reliable communications would ease American and Soviet trigger fingers during tense times.
 
-Baran worked alone after work. By 1960 he came up with the two ideas he needed. The first was that his network should have no hubs or organizations (like telephone’s have) to control the flow of information. Central hubs make systems vulnerable to attack or failure. Instead data flow should be completely distributed so every node can send and receive information equally. Baran’s nodes network looks like a fishnet. When each  node has three or four links, the network can survive any attack.
+After his day job, Baran worked alone for years. By 1960 he came up with the two ideas he needed. The first was that his network should have no central hubs (like telephone’s have) to control the flow of information. Central hubs make systems vulnerable to attack or failure. Instead data flow should be completely distributed so every node can send and receive information equally. Baran’s nodes network looks like a fishnet. When each node has three or four links, the network can survive any attack.
 
-Next Baran had to figure out how to send information across the network. This led to his second idea, which was to break up the data into standard-size little packets. Each message would be broken into many packets, each of which would scurry along different paths through the network’s nodes and be reassembled when they got to their destination. If one packet didn’t get there in time, it was quickly resent. This way there’d be no "dropped calls" and communication would always stay open. Baran published his ideas into very detailed technical specs and made sure everyone, especially the Soviets, could copy his work.
+Next Baran had to figure out how to send information across the network. This led to his second idea, which was to break up the data into standard-size little packets. Each message would be broken into many packets, each of which would scurry along different paths through the network’s nodes and be reassembled when they got to their destination. If one packet didn’t get there in time, it was quickly resent. This way there’d be no "dropped calls" and communication would always stay open—if sometimes slower than others. Baran published his ideas into very detailed technical specs and made sure everyone, especially the Soviets, could copy his work.
 
 Baran then walked into a nest of villains in America. When Baran’s employer RAND recommended his "node-packet data network" idea to the Air Force (in control of America’s nuclear missiles) they wanted to build it. But when the Department of Defense got itself and the Defense Communications Agency involved Baran soon found out working with so many bureaucrats was hopeless.
 
 So Baran tried to convince AT&T, in control of America’s telephone network, to supplement their system with his node-packet data network. "They fought it tooth and nail," he recalled. "They tried all sorts of things to stop it". They would not even let RAND use the maps of its circuits, so Baran had to use a pirated set. He made several trips to AT&T headquarters in lower Manhattan. On one of them, a senior executive who was an old engineer looked stunned when Baran explained that his system would mean that data could go back and forth without a dedicated link remaining open. "He looked at his colleagues in the room while his eyeballs rolled up sending a signal of his utter disbelief," according to Baran. After a pause, the executive said, "Son, here’s how a telephone works," and explained a patronizing and simplistic description.
 
-The metaphorical Death Star rule book became real! It was against the rules to make a reliable communication network that might help prevent a nuclear holocaust. Good thing Jedi’s don’t give up. Baran continued to push. AT&T finally had him and other outsiders to a series of seminars explaining how its telephone system really worked. "It took ninety-four separate speakers to describe the entire system," Baran marveled. When it was over, the AT&T executives asked Baran, "Now do you see why packet switching wouldn’t work?" To their great disappointment, Baran simply replied, "No".
+The metaphorical Death Star rule book became real! It was against the rules to make a reliable communication network that might help prevent a nuclear holocaust. Good thing Jedi’s don’t give up. Baran continued to push. AT&T finally had him and other outsiders to a series of seminars explaining how its telephone system worked. "It took ninety-four separate speakers to describe the entire system," Baran marveled. When it was over, the AT&T executives asked Baran, "Now do you see why packet switching wouldn’t work?" To their great disappointment, Baran simply replied, "No".
 
 To heck with Darth Telephone!
 
-A decade later Baran’s network was built when the US government’s Advanced Research Projects Agency (ARPA) saw the wisdom in a node-packet distributed communications network. In 1969 ARPA used Baran’s technical specs to build ARPAnet, the first version of the internet. The people who made it were hellbent on empowering individuals, and the made sure the internet could not be controlled by any government or corporation.
+A decade later Baran’s network was built when the US government’s Advanced Research Projects Agency (ARPA) saw the wisdom in a node-packet distributed communications network. In 1969 ARPA used Baran’s technical specs to build ARPAnet, the first version of the internet. The internet basic idea is distributed information that no one can stop or control. Not even a nuclear bomb.
 
-Baran’s network is why our smartphones, websites, Wikipedia, any digital tool connected to the internet empower individuals. In the DNA of the internet is a distributed node network that nobody can control or shutdown. An individual has the exact same access as any corporation or government.
-
-That’s why the internet is majical. Whoever uses it, is automatically empowered.
+Baran’s network is why our smartphones, websites, Wikipedia, any digital tool connected to the internet empower individuals. The internet's DNA is a distributed node network that nobody can control or shutdown. An individual has the exact same access as any corporation or government. That’s why the internet is majical. Whoever uses it, is automatically empowered.
 
 _Paul Baran's story was adapted from Walter Isaacson's awesome book_ The Innovators, _Chapter 7._
+
+## Breaking News - List of all problems, startingin 1970's, because we didn't adapt to a new age. Collaboration is needed, and held back, time to act Stargazer
+
+We're in a dilemma, much like Darth King, Darth Blockbuster doesn't hate us. He is stuck in the matrix, or better put, he's stuck inside the old red/blue ruling philosophy of the Industrial Age, making him an unknowing antagonist of the Computer Age.
+
+But who cares. That's why I'm not writing to "The Executive". I'm writing it to you Stargazer. If you see out of your matrix of spectacle that makes you a extra on dying Industrial Age's boarded up Main Street, you'll search and seek out new digital tools to solve your real-life problems, and thereby become and control, the player god of the Computer Age. Using Techvolution, an unhappy life inside the heavy management and competition of the era of mass production will stop. You'll live and enjoy all the benefits of the era of mass collaboration.
+
+ILLUSTRATION
+
+That's why this book's illustration is a regular person standing on Main Street-a single person in the game of civilization. His or her job is to do what's best for themselves, and help society prosper. She's looking up for guidance and sees two options. Open-source heroes who've never stop inventing, innovating, thinking ahead, and Darth Blockbuster whose being selfishness, self-important, short-sighted. It's the story of every upgrade of civilization. Good vs evil. Right vs wrong. Jedi vs Sith.
+
+The only question is, what philosophy do you believe in? The one you pick creates your ruling philosophy. That's the power of Main Street. To either by the extra of antagoinsts, or the player god for the protagonists. You have the tool Stargazer to see protagonists, antagonists. You understand the difference between classic stories and art/spectacle.
+
+The fate of civilization awaits. In the sky high above is the mythical "player god" who you control. If you want to. So the conclusion of this book, is a discussion in your head, which might look something like this.
+
+## Extra vs Player God
+
+A high-school gym. Tables are arrange in neat rows. Behind each stand a few adults, who hold the "swag" of various universities, colleges, companies, charities, and branches of the military. A teenage Stargazer looks up, but sees nothing, and returns to looking back down at a handful of swag.
+
+Player god: Not one of these yahoo's was honest with me.
+
+Extra: They answered every question you asked. What else do you want them to say.
+
+Player god: How much debt do your customers graduate with isn't a hard question. Heck they know what happened a hundred years ago, but their own customers are a mystery. Supposed mystery!
+
+Extra: Calling students customer's is a grand idea. Really going to break wind in the name recognition department.
+
+Player god: That's one distinction we can do without.
+
 
 ## Climax - Polar Bears in the Amazon, Collaboration is the future, as is ecosystems
 
@@ -1070,32 +1070,6 @@ If someone were to tell you how to vote, while looking over your shoulder, you'd
 Your life wont get better until you think of a tools in the same way. The solution to your political and economic problems. Using red/blue philosophies is a recipe for living in the past.
 
 Everytime you listen to a political speech just notice how many times they talk. Once you ask yourself what tool am I getting to bring down taxes, cap the debt ceiling, fight climate change, then you'll talking solutions. Until then you'll be experincing societal collapse.
-
-## Did it work? Did you see the Matrix, which is asking did you see yourself playing the game more after reading this all
-
-## A Fond Farewell - Listing all the metaphors and saying goodbye
-
-I tried to make the history lesson as readable as possible. Almost all the topics and subjects are metaphors for the lessons Europe learned from going to the divine rights of kings, to the rousseau philosophy of political democracy and equality we live in today. Here they are:
-
-The frontline is Nicolo Machiavelli's "effectual truth". Machiavelli came from a poor family, whose father gave him many books from the recent printing press. Machiavelli was the first philosoper to get to read lots of different philosophy and history books, and he noticed trends. He told superstitious Europeans, they didn't need to put their faith in God, because we can keep looking for trends, master them, and start to overcome problems like hunger, disease, and all that.
-
-Soon later Galileo, Francis Bacon, and lots of other people, read this insight, and invented the Scientific Method, which systemized looking for "effectual truth" by simply testing Nature with instruments, and discovering the truth, not inventing it with reason. Hence it's the "point of contact" between a tool and it's use is an experiment. Thus the truth of the experiment is our guide, not the rules of the social heirarchy.
-
-Natural equality, the extras waiting to become protagonists, is from Thomas Hobbes. He lived during the English Civil War, when people were again sick of the king but didn't have different ruling philosophy to replace him with. Hobbes invented human equality by saying in Nature (he called it the State of Nature), all lifeforms live freely, thus why shouldn't humans. Hobbes said people should still be loyal to a king, yet not because he's divine, but because it's in the best interest to have a stable and firm government because when that goes away--as Hobbes was personally seeing--people turn horrible. Because the king wasn't divine, his power to rule came from the consent of the goverened, who are like him, equals.
-
-Something ... comes from John Locke. He came after Hobbes and agreed with his State of Nature, but said the people didn't need to put all their trust into a person as leader, but instead put their trust in the institution as leader. Meaning, the people should follow a president, not a king. That way the people can elect, new leaders while still getting the stability of government. Hence, the leader can always be a protagonist, and anyone who fights the will of the people, the people on the frontline, is an antagonist.
-
-Ruling philosophy, old philosopheis, comes from Rousseau. Rousseau merged all the thinking from Machiavelli to Locke, and said the people can't rule within the confines of an old philosophy. Thus, even though philosophers from Machiavelli to Locke were giving new philosophy, they didn't say to breakfree from the past. Rousseau say change it all, which is why the people used him during their revolutions, and why I talked about him above. We also need to change it all.
-
-The Sith and Jedi, protagonist and antagonist, is Hegel's Thesis, Antithesis, Synthesis dialectics. After centuries of histories, looked back at the trends, and said there was a ruling philosophy, whose problems manifested into a competitor, the two would eventually fight it out, and make a new ruling philosphy that merged the two together. He also said master–slave is a relationship that recurs throughout humanity, and is the reason we looked at Frederick Douglas and Neo, who while was the physical slave, his captors were the mental ones, bound to a horrible social system as much as Frederick was. Frederick's process of self-discovery, was how slaves realize their status and break free.
-
-Cyborgology, and majic, are Darwinism. The evolution of lifeforms based on their tools to collect resources. Life started out as simple organisms, and as these primitive lifeforms struggled to survive, they adapted better --biological--tools to do so. Eventually the benefits of biology maxed out with us, and so we have to continue evolution with tools. We similarly started to evolve (techvolve) with primitive tools, which slowly got better and better.
-
-Death star, Darth Blockbuster, and dark majic come from modern psychology. And this is the real reason I wrote this book.
-
-All of this is hard to understand. It seems simple because it's your life, and you think your opinions matter. But there's a reason we go to the doctor when we're feeling sick. They know the human antonmy, and we don't, even though we own one.
-
-So the question is, if these are the characters inside the repeating story of civlization, which one do you think you are?
 
 # EPILOGUE
 
@@ -1170,3 +1144,29 @@ Every person I spoke to was being rational. They were simply following orders. I
 I never wanted to write this book. There's no way to make people realize which character they are. Protagonist, extras, antagonist, Darth Blockbuster, all that is hidden by dark majic and social rules.
 
 It doesn't tell us the philosphy that need, it's telling us the philosphy digital tools will show us. Just like scientific instruments revealed the Natural world to us, digital tools will reveal us to ourselves. We'll be challenged us to act based on our contributions to a higher purpose, instead of our psychological bent. Like scientists today use instruments to uncover the rulebook, digital tools will help us uncover who we are, and what our politics and economic tools and leaders should be. A rule-book already in use by open-source because it fosters evolution, not kill it like its opposite. I called it the Life Star.
+
+# THE APPENDICES
+
+## Stuff I Couldn't Fit In
+
+I tried to make the history lesson as readable as possible. Almost all the topics and subjects are metaphors for the lessons Europe learned from going to the divine rights of kings that started around 480, to the rousseau philosophy of political democracy and equality we live in today.
+
+We really are headed towards a new version of the Thirty Years War. And if I could travel back in time to those unhappy people on Main Street, I'd say the same thing to them I told you. But they wouldn't believe it because I'd be talking about the future. With you it's been the past. Here's all the lessons our ancestors taught us in blood, sweat, and tears.
+
+The frontline is Nicolo Machiavelli's "effectual truth". Machiavelli came from a poor family, whose father gave him many books from the recent printing press. Machiavelli was the first philosoper to get to read lots of different philosophy and history books, and he noticed trends. He told superstitious Europeans, they didn't need to put their faith in God, because we can keep looking for trends, master them, and start to overcome problems like hunger, disease, and all that.
+
+Soon later Galileo, Francis Bacon, and lots of other people, read this insight, and invented the Scientific Method, which systemized looking for "effectual truth" by simply testing Nature with instruments, and discovering the truth, not inventing it with reason. Hence it's the "point of contact" between a tool and it's use is an experiment. Thus the truth of the experiment is our guide, not the rules of the social heirarchy.
+
+Player gods is from Thomas Hobbes. He lived during the English Civil War, when people were again sick of the king but didn't have different ruling philosophy to replace him with. Hobbes invented human equality by saying in Nature (he called it the State of Nature), all lifeforms live freely, thus why shouldn't humans. Hobbes said people should still be loyal to a king, yet not because he's divine, but because it's in the best interest to have a stable and firm government because when that goes away--as Hobbes was personally seeing--people turn horrible. Because the king wasn't divine, his power to rule came from the consent of the goverened, who are like him, equals.
+
+Something ... comes from John Locke. He came after Hobbes and agreed with his State of Nature, but said the people didn't need to put all their trust into a person as leader, but instead put their trust in the institution as leader. Meaning, the people should follow a president, not a king. That way the people can elect, new leaders while still getting the stability of government. Hence, the leader can always be a protagonist, and anyone who fights the will of the people, the people on the frontline, is an antagonist.
+
+Ruling philosophy, old philosopheis, comes from Rousseau. Rousseau merged all the thinking from Machiavelli to Locke, and said the people can't rule within the confines of an old philosophy. Thus, even though philosophers from Machiavelli to Locke were giving new philosophy, they didn't say to breakfree from the past. Rousseau say change it all, which is why the people used him during their revolutions, and why I talked about him above. We also need to change it all.
+
+The Sith and Jedi, protagonist and antagonist, is Hegel's Thesis, Antithesis, Synthesis dialectics. After centuries of histories, looked back at the trends, and said there was a ruling philosophy, whose problems manifested into a competitor, the two would eventually fight it out, and make a new ruling philosphy that merged the two together. He also said master–slave is a relationship that recurs throughout humanity, and is the reason we looked at Frederick Douglas and Neo, who while was the physical slave, his captors were the mental ones, bound to a horrible social system as much as Frederick was. Frederick's process of self-discovery, was how slaves realize their status and break free.
+
+Cyborgology, and majic, are Darwinism. The evolution of lifeforms based on their tools to collect resources. Life started out as simple organisms, and as these primitive lifeforms struggled to survive, they adapted better --biological--tools to do so. Eventually the benefits of biology maxed out with us, and so we have to continue evolution with tools. We similarly started to evolve (techvolve) with primitive tools, which slowly got better and better.
+
+Death star, Darth Blockbuster, and dark majic come from modern psychology. And this is the real reason I wrote this book.
+
+All of this is hard to understand. It seems simple because it's your life, and you think your opinions matter. But there's a reason we go to the doctor when we're feeling sick. They know the human antonmy, and we don't, even though we own one.

@@ -1866,3 +1866,9 @@ Hey, do you think Darth Blockbuster will buy back all those DVDs, Blu-Rays, and 
 Who cares what the Sophia's of the world say today. These kids became protagonists of the Computer Age. These eight people are directly responsible for Intel, AMD, Kleiner Perkins, National Semiconductors, and many more companies. Indirectly, they seeded Silicon Valley with Apple, Microsoft, Oracle, and so on. Every Computer Age protagonist and player god today owes these eight people a debt of gratitude.
 
 PICTURE
+
+## ME MAJIC
+
+And who am I to tell you all this? I'm nobody special. I haven't led the country, and you haven't seen me on the news. In my youth, I was a cleaner, laborer, movie usher, projectionist, and die-hard ideologue. After dropping the latter bad habit, I studied political philosophy, history, and innovation at the University of Toronto, usually while working full-time. I have a strong dislike for garbage meetings and other excuses people make-up to avoid work. I hate people with superiority complexes, especially when they're in positions of authority and suck at their jobs. That's why I learned far more about innovation by continuing working at the frontline as a line worker, an account manager, and a claims adjuster. Making a new tool and meeting my personal Darth Blockbuster was an education unto itself.
+
+My life's experience began to teach me Techvolution. Watching the middle-class struggle to make a living owning, maintaining, and working with outdated Industrial Age tools—and knowing that the open-source community was meanwhile showing us the way to mass collaboration—ultimately motivated me to sit at the keyboard and uncover their collaboration philosophy so more people can live in the Computer Age. The middle-class deserves to be happy.
