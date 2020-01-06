@@ -1,4 +1,0 @@
-
-# EPILOGUE
-
-## Building Star Fleet

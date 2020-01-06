@@ -1,6 +1,63 @@
-# Mamet
 
-Preface
+# HOW TO SEE THE MATRIX
+
+by Johnny Majic
+
+## Backpage
+
+One person and one perspective. That's all you're going to have to understand your place in humanity. There's lots of areas to know about, from relationships to business. This book will teach you about your place in politics and in history. It mixes the classic storytelling book, Aristotle's Poetics, with the Dialetical view on history.
+
+It's a much more detailed philosophy explained in Techvolution.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+
+2. [Stories Are Life](#stories-are-life)
+
+3. [Act One - The Beginning](#act-one)
+
+4. [Act Two - Blowing Up the DeathStar](#act-two)
+
+## Dedication
+
+_For my parents. And probably your parents too._
+
+## Quote
+
+_They are most happy who have no story to tell._
+
+Anthony Trollope, He Knew He Was Right.
+
+## Note to the reader
+
+I inserted YouTube, Vimeo, and GIF videos throughout this book. They communicate ideas quickly and easily so why not. I especially used them because I wanted to showcase how relevant this book is. On the internet today there are many regular people working to improve middle-class life. They and their audience are collaborating—they just don't have a philosophy to unite them yet. I want to unite them inside a new philosophy. Of course, all credit for the videos goes to the creators.
+
+# Introduction
+
+## The Matrix
+
+The Matrix was a 1999 film that depicts a dystopian future in which humanity is unknowingly trapped inside a simulated reality, the Matrix, created by intelligent machines to distract humans while using their bodies as an energy source.  When computer programmer Thomas Anderson, under the hacker alias "Neo", uncovers the truth, he is drawn into a rebellion against the machines along with other people who have been freed from the Matrix.
+
+The Matrix was a huge success. I never watched it in theatres (I was still a loyal Star Wars fan boy back then) but I still remember a friend raving about it for hours in a away no Star Wars kid could. I saw The Matrix probably dozens of times when it was released on home video and of course loved it. The movie made people think. It drew heavily on philosophy. It was all about the battle between perception versus reality and once a person learns to see the truth, their powers expand greatly.
+
+The Matrix is the world of shadows, falsehoods, and lies. It's a world most of use live in for the simple fact it's hard to know reality at every moment when living inside a regular life. But we can with philosophy, and we'll find out later in the book, technology. Philosophy let us change our own perceptions. The philosophical mind filters out the lies of the matrix, and see the truth of reality.
+
+The image of this book is person using a telescope, and seeing the matrix. He's amazed, because technology also shows us reality. It's technology that shows us the world of physics, chemistry, biology. Yet technology doesn't understand anything. Telescopes, spectrographs, x-rays, are simply tools. Thus, to use philosophy and technology to is trule decode the matrix. I will explain how we can do that in this book.
+
+In Techvolution I tried very hard to summarize hundreds of years of humanity history and thought to help casual observers better understand their world and their place inside it. I'm pretty happy with how it turned out althought don't think anyone will read it anyway. I don't have any of those save the world aspirations for this book. I don't write to "Stargazer". I simply explain where all that theory in more detail. This is how human perception works. The funny part is, it's a world technology will be showing us anyway, this time the telescope will be pointed not up at the stars, but down at us. And we aren't ready for what it's going to reveal. This book will help learn our lesson.
+
+# Stories
+
+## Past Knowledge
+
+This book leans heavily on past knowledge. I don't pretend to originate nearly any of it. I just wanted to meld it together to help the reader better understand their political world. If you read Techvolution you should already know humanity develops in technological ages. That we fracture into four groups, the wealthy antagonists who want to keep the world the same. The idealistic protagonists who want to improve humanity. The extras who stay out of the fight, often distracted by spectacle. And the player gods, the people on Main Street who act in concert to support the protagonists because everyone believes in a modern philosophy.
+
+To interpret this world, and your place in it, we have to understand stories. I mean really understand them. I did the work years ago and found the best teacher to be Aristotle Poetics, playwright David Mamet, and most importantly, writing.
+
+Below is a long summary of Mamet's book _On Directing Film_. For the first part of this book, we'll going to use Mamet's to teach us about stories. At the end of this chapter, you'll understand what divides a good story from a bad one, and even learn how to write your own if you want to. After this chapter, we'll go to work to use our newfound storytelling skills to explain your place in the matrix.
+
+## Mamet on Stories
 
 Mamet starts On Directing Film by saying the book is based on a series of film directing lectures he gave at Columbia University in the fall of 1987. He had only just finished directing his second film and felt he was "like the pilot with two hundred hours of flying time, I was the most dangerous thing around"[1]. So, when directing his movies and writing this book on directing, he compensated for his lack of directing knowledge with his extensive writing experience.
 
