@@ -717,4 +717,3 @@ This book is called Techvolution because we can update ourselves now.  We can se
 Techvolution is conscious evolution.
 
 Techvolution is proactive revolution.
-
