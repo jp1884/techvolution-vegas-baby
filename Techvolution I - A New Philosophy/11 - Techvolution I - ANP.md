@@ -8,9 +8,9 @@ December 2019
 
 Are you happy? On the outside, Westerners have flashy products, full employment, and stable politics. On the inside, our middle-class deals with stagnate wages, crushing debts, antisocial behavior, political hatred, climate change. We have the freedom to vote Left or Right, moderate and extreme, and we've tried them all, but none have helped.
 
-In this book, I argue our unhappiness is a sign of a bigger problem. Our ideologies are very outdated. They were created in the Industrial Age, and since 1970, we've been in the Computer Age. Our ideologies are holding us back, which is causing our frustrating lifestyles and growing social problems. We need a new philosophy—one created to harness the remarkable potential of electronic tools.
+This book argues our unhappiness is a sign of a bigger problem. Our ideologies are very outdated. They were created in the Industrial Age, and since 1970, we've been in the Computer Age. Our ideologies are holding us back, which is causing our frustrating lifestyles and growing social problems. We need a new philosophy—one created to harness the remarkable potential of electronic tools.
 
-Here it is. Its big lesson is this. The middle-class has to step up and use digital technology to solve our own problems. If we don't, we'll keep suffering the pains of civilization running on old—ideological—fumes.
+Here it is. Its big lesson is this. The middle-class has to step up and use digital technology to collaborate and solve our own problems. If we don't, we'll keep suffering the pains of civilization running on old ideological fumes.
 
 # Table of Contents
 
@@ -219,7 +219,7 @@ The Industrial Age only had mechanical tools. Although they are increasingly Mas
 
 Today's excessive management is a holdover from an age gone by. It's out of habit that our workplaces over-value control and delegation instead of contribution and collaboration. Excessive management turns leaders into gatekeepers. Gatekeepers seek to hold tickets and manage who'll "get access" to things like news services, retail stores, formal education, and especially the higher "positions" of corporate employment. Today's there's an entire class of middle-men, consultants, managers, and executives who don't know the skills of their industry like nursing, teaching, and (definitely not) cleaning. Their power is to manage an Industrial Age technology that puts workers and customers behind gates.
 
-In contrast, the Computer Age demands mass collaboration—sometimes called "Wikinomics." Open-source shows us how easy and effective mass collaboration is. Here's the gist. The open-source community works together on a core technology that's free to use. People then use the core technology to create their own specialized products. For example, a large open-source community creates MediaWiki software. Then separate groups use MediaWiki to create Wikipedia, WikiHow, and Fandom—or any other website you can think of. After all, MediaWiki is free for anyone to use however they want. And you don't have to be a programmer to contribute. If you can't write software, write a Wikipedia article. If you can't write well, then draw a diagram. If you can't do that, then send in helpful feedback. Wikipedia wants to "store the sum of all human knowledge," there's alway lots of work to do. Mass collaboration works so well; Wikipedia wrote millions of articles in just a few years.
+In contrast, the Computer Age demands mass collaboration—sometimes called "Wikinomics." Open-source shows us how easy and effective mass collaboration is. Here's the gist. The open-source community works together on a core technology. People then use the core technology to create their own specialized products. For example, a large open-source community creates MediaWiki software. Then separate groups use MediaWiki to create Wikipedia, WikiHow, and Fandom—or any other website you can think of. After all, MediaWiki is free for anyone to use however they want. And you don't have to be a programmer to contribute. Writers, designers, guardians are all needed. Mass collaboration works so well Wikipedia wrote millions of articles in just a few years. Linux is on billions of devices. YouTube is filled with helpful review and how-to videos.
 
 This is not to say that open-source communities are perfect and can run the world. Some of its people are too rude, projects die off, personalities clash, and so forth. In _The Innovators_, author Walker Isaacson explains how the trifecta of academia, corporations, and militaries was optimal for creating the digital revolution. Likewise, it was the government, big business, and open-source organizing structures that worked to keep that revolution going. Open-source is only a part of the ecosystem bringing the Digitial Age and mass collaboration to life. There will always be big companies like Google, Microsoft with large corporate structures, always be government services running health care plans, and installing traffic lights.
 
@@ -232,7 +232,7 @@ Open source is the good guys. The Jedi of our society. The modern minutemen beca
 To bring on the era of mass collaboration. Open-source needs to be flush with cash, and the support of the middle class. That means you have to become a player god.
 
 https://vimeo.com/366560857
-_Figma is a product to design websites and apps. It fosters collaboration. In the past, designers, writers, programmers all spoke through managers and had endless meetings. With Figma and other products, worker-to-worker collaboration is easy. Your workplace can, and will, one day foster worker collaboration._
+_Figma is a website and design tool. In the past, designers, writers, programmers all spoke through managers. With Figma and other products, worker-to-worker collaboration becomes easy. Your workplace can, and will, one day foster worker collaboration like this._
 
 ## Fighting for The Future - The Collaboration Future Won't Just Happen
 
@@ -710,6 +710,38 @@ Kickstarter: https://www.kickstarter.com/ : Kickstarter connects regular people 
 
 The era of mass collaboration is coming. We just aren't jumping in yet. Below we'll talk about how mass collaboration won a battle, which will help us see how to win the war and finally jump into the Computer Age.
 
+## Old Philosophy vs. New Philosophy
+
+Techvolution is a philosophy book. I don't directly reference much of past books though. Like any topic it takes some practice to read— people like Socrates or Hegel aren't very easy to understand. However, let's take a short detour to appreciate the actions of past protagonists and antagonists.
+
+The snippets below will help explaind how someone can think themselves so right, when history proves them so wrong. I won't comment on the passages. Just know both of these writers motivated people to fight to the death. Philosophy makes people into its minions. But remember we can choose our beliefs. When we do, we can become player gods of society. Also, keep in mind that history always does repeat itself.
+
+===
+
+SINCE the time that religious learning began to flourish there has been a common opinion maintained which affirms: "Mankind is naturally endowed and born with freedom from all subjection, and at liberty to choose what form of government it please, and that the power which any one man hath over others was at first bestowed according to the discretion of the people."
+
+But how this vulgar opinion has of late obtained a great reputation, it is not to be found in the ancient fathers and doctors of the true Church. It contradicts the doctrine and history of the Holy Scriptures, the practice of all ancient monarchies, and the very principles of the law of nature. It is hard to say whether it is more erroneous in divinity or dangerous in policy.
+
+This desperate assertion whereby kings are made subject to the censures and deprivations of their subjects follows as a necessary consequence of foolhardy position of the supposed natural equality and freedom of mankind, and liberty to choose what form of government it please.
+
+Patricia, Or the Natural Power of Kings
+by Robert Filmer
+1680
+https://www.constitution.org/eng/patriarcha.htm
+
+===
+
+THESE are the times that try men's souls. The summer soldier and the sunshine patriot will, in this crisis, shrink from the service of their country; but he that stands by it now, deserves the love and thanks of man and woman. Tyranny, like hell, is not easily conquered; yet we have this consolation with us, that the harder the conflict, the more glorious the triumph. What we obtain too cheap, we esteem too lightly: it is dearness only that gives every thing its value. Heaven knows how to put a proper price upon its goods; and it would be strange indeed if so celestial an article as FREEDOM should not be highly rated. Britain, with an army to enforce her tyranny, has declared that she has a right (not only to TAX) but "to BIND us in ALL CASES WHATSOEVER" and if being bound in that manner, is not slavery, then is there not such a thing as slavery upon earth.
+
+The American Crisis
+by Thomas Paine
+December 23, 1776
+https://www.ushistory.org/Paine/crisis/c-01.htm
+
+===
+
+Just some food for thought. History has many philosophies. The belief in nobles divine rights wasn't simple tyranny. A lot of smart people believed in it and wrote philosophy to justify giving one person absolute power. Something to remember as we try to empower the middle-class today. There are people who oppose it. And they don't think they're being bad.
+
 ## A Techvolution Battle Scene. Wikipedia vs. Books. Computer Age vs. Industrial Age
 
 The environment keeps changing. Life needs to know-how and uses its lifeforms to probe for answers. Similarly, the social climate keeps changing, and so humans also have to probe for answers. We ask questions like, why are the movies so expensive, or, more importantly, what are proven techniques to stop malaria infections. We find answers by creating a reference tool.
@@ -1021,55 +1053,55 @@ And you already are. Once the people felt the majic of the printing press, scien
 
 ## The Majic of the Internet - Because of Cyborgolgy, If We Use the Internet, We Automatically Fight For the Computer Age
 
-The Computer Age has many protagonists. Paul Baran is one of the big ones. Because of him, just by using the internet, you become a player god.
+The Computer Age has many protagonists. Paul Baran is one of the big ones. Because of him, just by using the internet, you become a player god. No kidding around. Personal freedom, responsibility, and collaboration are built into the DNA of the internet.
 
-The internet is a data network. There are many ways of making a data network. The simplest is how phone systems do it with a direct circuit link between two phones. A call's connection only stops when someone hangs up.
+On the face of it, the internet is a data network. There are many ways of making a data network. The simplest is how phone systems do it with a direct circuit link between two phones. With this data network all connections go through a central hub, and connections break when someone hangs up.
 
 Alexander Graham Bell invented "direct circuit links" in 1876. He put it into action when he co-founded the American Telephone & Telegraph (AT&T) in 1885. For generations, direct links were how all telecommunications worked. But when the Soviets tested a hydrogen bomb in 1955, Paul Baran took it upon himself to make a new network to help prevent a nuclear holocaust.
 
 Baran realized to prevent nuclear war, the world needed a communications network that would survive an atomic attack. Only robust and reliable communications would ease American and Soviet trigger fingers during tense times.
 
-After his day job, Baran worked alone for years. By 1960 he came up with the two ideas he needed. The first was that his network should have no central hubs (like telephones have) to control the flow of information. Central hubs make systems vulnerable to attack or failure. Instead data flow should be wholly distributed so every node can send and receive information equally. Baran's nodes network looks like a fishnet. When each node has three or four links, the system can survive any attack.
+For years, after his day job, Baran worked alone. By 1960 he came up with the two ideas he needed. The first was that his network should have no central hubs (like telephones have) to control the flow of information. Central hubs make systems vulnerable to attack or failure. Instead data flow should be wholly distributed so every node can send and receive information equally. Baran's nodes network looks like a fishnet. When each node has three or four links, the system can survive any attack.
 
-Next, Baran had to figure out how to send information across the network. This led to his second idea, which was to break up the data into standard-size little packets. Each message would be broken into many packets, each of which would scurry along different paths through the network's nodes and be reassembled when they got to their destination. If one packet didn't get there in time, it was quickly resent. This way, there'd be no "dropped calls" and communication would always stay open—if sometimes slower than others. Baran published his ideas into very detailed technical specs and made sure everyone, especially the Soviets, could copy his work.
+Next, Baran had to figure out how to send information across the network. This led to his second idea, which was to break up the data into standard-size little packets. Each message would be broken into many packets, each of which would scurry along different paths through the network's nodes and be reassembled when they got to their destination. If one packet didn't get there in time, it was quickly resent. This way, there'd be no "dropped calls" and communication would always stay open. Baran published his ideas into very detailed technical specs and made sure everyone, especially the Soviets, could copy his work. These specs created the internet—but only in theory.
 
-Baran then walked into a nest of villains in America. When Baran's employer RAND recommended his "node-packet data network" idea to the Air Force (in control of America's nuclear missiles), they wanted to build it. But when the Department of Defense got itself and the Defense Communications Agency involved Baran soon found out working with so many bureaucrats was hopeless.
+When Baran went to have it made, he walked into a nest of antagonists. When Baran's employer RAND recommended his "node-packet data network" idea to the Air Force (in control of America's nuclear missiles), they wanted to build it. But when the Department of Defense got itself and the Defense Communications Agency involved Baran soon found out working with so many bureaucrats was hopeless.
 
-So Baran tried to convince AT&T, in control of America's telephone network, to supplement their system with his node-packet data network. "They fought it tooth and nail," he recalled. "They tried all sorts of things to stop it". They would not even let RAND use the maps of its circuits, so Baran had to use a pirated set. He made several trips to AT&T headquarters in lower Manhattan. On one of them, a senior executive who was an old engineer looked stunned when Baran explained that his system would mean that data could go back and forth without a dedicated link remaining open. "He looked at his colleagues in the room while his eyeballs rolled up, sending a signal of his utter disbelief," according to Baran. After a pause, the executive said, "Son, here's how a telephone works," and explained a patronizing and simplistic description.
+So Baran tried to convince AT&T, in control of America's telephone network, to supplement their system with his node-packet data network. "They fought it tooth and nail," he recalled. "They tried all sorts of things to stop it". They would not even let RAND use the maps of its circuits, so Baran had to use a pirated set. Baran made several trips to AT&T headquarters in lower Manhattan. On one of them, a senior executive—who was an old engineer—looked stunned when Baran explained that his system would mean that data could go back and forth without a dedicated link remaining open. "He looked at his colleagues in the room while his eyeballs rolled up, sending a signal of his utter disbelief," according to Baran. After a pause, the executive said, "Son, here's how a telephone works," and explained a patronizing and simplistic description.
 
-The metaphorical Death Star rule book became real! It was against the rules to make a reliable communication network that might help prevent a nuclear holocaust. Good thing, Jedi's don't give up. Baran continued to push. AT&T finally had him and other outsiders to a series of seminars explaining how its telephone system worked. "It took ninety-four separate speakers to describe the entire system," Baran marveled. When it was over, the AT&T executives asked Baran, "Now do you see why packet switching wouldn't work?" To their great disappointment, Baran simply replied, "No".
+Good thing Jedi's don't give up. Baran continued to push. AT&T finally had him and other outsiders to a series of seminars explaining how its telephone system worked. "It took ninety-four separate speakers to describe the entire system," Baran marveled. When it was over, the AT&T executives asked Baran, "Now do you see why packet switching wouldn't work?" To their great disappointment, Baran simply replied, "No".
 
 To heck with Darth Telephone!
 
-A decade later, Baran's network was built when the US government's Advanced Research Projects Agency (ARPA) saw the wisdom in a node-packet distributed communications network. In 1969 ARPA used Baran's technical specs to build ARPAnet, the first version of the internet. The internet's basic idea is distributed information that no one can stop or control. Not even a nuclear bomb.
+A decade later, Baran's network was built when the US government's Advanced Research Projects Agency (ARPA) saw the wisdom in a node-packet distributed communications network. In 1969 ARPA used Baran's technical specs to build ARPAnet, the first version of the internet. Not much has changed since then. Within the very DNA of the inernet is distributed information that no one can control.
 
-Baran's network is why our smartphones, websites, Wikipedia, any digital tool connected to the internet empower individuals. The internet's DNA is a distributed node network that nobody can control or shutdown. An individual has the exact same access as any corporation or government. That's why the internet is majical. Whoever uses it, is automatically empowered.
+The majic of the internet attracts us all. We use laptops, smartphones, iMessage, Facetime, Reddit, and so many other internet services. We evolve our cyborgology everytime we learn a new app. Yet, we also don't appreciate how much our tools change our mentality. Our technology changes us. Free speech, the right to vote, love of scientific truth, all came once we held their corresponding tools.
+
+The internet was created to survive a nuclear bomb. No one can control it. No professor, executive, president, or king. An individual has the exact same access as any corporation or government. The internet lets individuals communicate, work, and collaborate together with no middlemen in between. That's why the internet is majical. Whoever uses it, is automatically evolved with Techvolution, and empowered to live inside the Computer Age's era of mass collaboration.
 
 _Paul Baran's story was adapted from Walter Isaacson's awesome book_ The Innovators, _Chapter 7._
 
 ## Breaking News - List of all problems, startingin 1970's, because we didn't adapt to a new age. Collaboration is needed, and held back, time to act Stargazer
 
-So you're a believer in Techvolution. I know what because you're using a computer and the internet to read this now. You were drawn to learn both by the majic of learning cool new tools. You upgraded you're cyborgology, which also updated you're personal philosophy to Techvolution; whether you realize it or not.
+So you're a believer in Techvolution. I know what because you're using a computer and the internet to read this now. Majic got you to learn both. You're upgraded cyborgology evolved life on Earth. Whether you realize it or not, you're new digital tools also make you believe in Techvolution.
 
 Darth Blockbuster stands in Techvolution's way. He uses dark majic to keep you using Industrial Age tools. When the spectacle wears off, he uses his Death Star to make the Computer Age tools and mentalities against the rules.
 
-We're in a dilemma, much like Darth King, Darth Blockbuster doesn't hate us. He's stuck in the matrix, or better put, he's stuck inside the old red/blue philosophy of the Industrial Age. Darth Blockbuster is an unknowing antagonist of the Computer Age.
+We're in a dilemma, much like Darth King, Darth Blockbuster doesn't hate us. He's stuck in the matrix—or better put, he's stuck inside the old red/blue philosophy of the Industrial Age. Darth Blockbuster is an unknowing antagonist of the future. It's kind of tragic if you think about it. He'll never see his error.
 
-But who cares. That's why I'm not writing to "The Executive". I'm writing it to you Stargazer. All you have to do, is see the matrix that makes you an extra of the dying Industrial Age. Using Techvolution, an unhappy life inside the heavy management and competition of the era of mass production will end. You'll finally enjoy all the benefits of mass collaboration inside the Computer Age.
+But that's why I'm not writing to "The Executive". I'm writing to you Stargazer. All you have to do, is see the matrix that makes you an extra of the Industrial Age. Using, promoting, and fighting for Techvolution, an unhappy life inside the heavy management and competition of the era of mass production will end. You'll finally enjoy all the benefits of the Computer Age inside an era of mass collaboration.
 
 ILLUSTRATION
 
-That's you in the illustration. Your job is to do what's best for yourself, and help society prosper. You're looking up for guidance and see two options. Open-source heroes who've never stop inventing, innovating, thinking ahead, and Darth Blockbuster who is selfish, self-important, short-sighted. It's the same story everytime we upgrade our civilization.
+That's you in the illustration. Your job is to do what's best for yourself, and help society prosper. You're looking up for guidance and see two options. Open-source heroes who've never stopped innovating and thinking ahead. And the self-importance and short-sightedness of Darth Blockbuster. Protagonist versus antagonist—the classic story everytime we upgrade civilization.
 
-The only question is, what philosophy do you believe in? The one that clicks creates your ruling philosophy. Remember, in the sky high above is the mythical "player god" who you control. If you want to. That's the power of an empowered Main Street—empowered now with the tools to see the difference between Good vs. evil. Inventor vs. Noble. Jedi vs. Sith.
+The only question is, what philosophy do you believe in? The one that clicks creates your ruling philosophy. The ruling philosophy is is mythical "player god" in the sky. Who you control, if you decide which philosophyt you want to use in your society. Deciding the ruling philosophy is the power of an empowered Main Street—empowered now with the tools to see the difference between Good vs. evil. Inventor vs. Noble. Jedi vs. Sith.
 
-The fate of civilization awaits your choice Stargazer. So the conclusion of this book is a discussion in your head, which might look something like this.
+The fate of civilization is then, rather simple. Who will be your hero Stargazer? We all await your choice. The conclusion of Techvolution: A New Philosophy is a discussion in your head. Which might look something like this.
 
 ## Extra vs Player God
 
-Our story takes us to Anytown in Western Civilization. From Austrailia's high heat, to England's rainy shores, to coast to coast in the United States of America. Our story plays out anywhere capitalist democracies promote red/blue philosophy, obession with mass production, and the goal of rising in the global heirarchy. All relics from the Industrial Age.
-
-We all live inside this culture. And in that
+Our story takes us to Anytown in Western Civilization. From Austrailia's high heat, to England's rainy shores, to coast to coast in the United States of America. Our story plays out anywhere the kings of Europe planted their flags and left behind wealthy capitalist democracies who use red/blue philosophy, obesses about mass production, and tell their members to compete to rise inside a heirarchy. All relics from the Industrial Age. Anyone in the West, lives inside this Industrial Age culture, that peaked in 1969.
 
 Off we go to a high-school gym. The middle step of an education system that has kids from kindergarden to college senior year.
 
@@ -1285,6 +1317,8 @@ A simple new tool that only someone on the frontline would ever feel the pain to
 
 Society would have saved hundreds of millions in insurance claim operating costs. That’s cool. Adjuster’s and drivers would save hours of their day. That’s cool too. But this is the part worth fighting over. With my app, for the first time, we’d have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, demographics, and many other databases. We’d finally learn why car accidents happen, and start to fight back.
 
+<a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 This database doesn’t exist today. So many people just assume "they" record it as apart of the accident invesigation, but inside a 200 billion dollar industry, no one does. So, when tree branches grow over stop signs, tires are faulty, intersections jam up too much, pot holes get too big, or anything else repeatedly causes accidents, we don’t even know. With machine learning and artificial intelligence, we’d find trends to the millions of accidents, and tens of thousands of deaths that happen every year.
 
 And THAT is politics. That is a problem you, I, everyone, can solve to make the world better. Who would be the loser?
@@ -1313,9 +1347,9 @@ Am I done fighting? No. I’ve picked up another tool, though, one that fits bet
 
 Who are you, Stargazer? Who will you be?
 
-Before you answer—notice something about my app? Did the Google Map look familiar? At the start I said Civilization games are a pretty accurate look at society. A place where the player god knows all and sees all, and individuals go about their day. These games are not a place of fiction. We do live inside them. And now with computers, we see it for ourselves. That's what I wanted to do with my app. Foster worker-to-worker collaboration. I wanted to make everyone see the real-life player god.
+Before you answer—notice something about my app? Did the Google Map look familiar? At the start I said Civilization games are a pretty accurate look at society. A place where the player god knows all and sees all, while individuals go about their day. Of course we are the player god if we realize our power. And now with computers, we can see ourselves. We can track our accidents, contributions, roles, jobs, resources, for everyone to see. That's what I wanted to do with my app. Foster worker-to-worker collaboration because in the game via technology, and build the first Life Star. I wanted everyone see the real-life player god.
 
-So when I asked who will you be Stargazer. You can answer that yourself for now. Soon, the player god will know. And then the Computer Age will start.
+So when I asked who will you be Stargazer. You can answer that yourself for now. Soon however, the player god will know. And then the Computer Age will start.
 
 # THE APPENDICES
 
