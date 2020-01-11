@@ -144,7 +144,7 @@ You'll like it best if you're sick of contemporary politics but love checking-ou
 
 https://www.youtube.com/watch?v=qvBf6WBatk0&feature=youtu.be&t=3
 
-Dreaming about our civilization's future is not a joke. You either see yourself in the video, or humanity will continue the blessed journey of civilization without you. I wrote this book to get you dreaming again. It's written to be like _New Atlantis_, _On Social Contract_, and _Common Sense_. All books that helped start modern democracies because they made unhappy people on Main Street realize the big picture, that we're all the player god.
+Dreaming about our civilization's future is not a joke. If you hate technology, hate your job, see conspiracies... fine, you've spotted a problem. But now what? You are the player god. Only you can make improvements. But evolution doesn't stop. Life needs better ways to harvest resources, and keep away death. That means new and improved technology. You either see yourself in the video, or humanity will continue the blessed journey of civilization without you. I wrote this book to get you dreaming again. It's written to be like _New Atlantis_, _On Social Contract_, and _Common Sense_. All books that helped start modern democracies because they made unhappy people on Main Street realize the big picture, that we're all the player god.
 
 Today, if we don't step up to upgrade our philosophy to the Computer Age, we'll keep suffering the unknowns of a degenerating society. We'll be unhappy extras watching stories of phantom communists and fascists, instead of gazing up to a future as player gods in the stars.
 
@@ -207,7 +207,7 @@ I'm one of them. I'm a politics, history, and philosophy geek who spends far too
 
 As a kid, I helped my family clean office buildings. My simple role was to pick up the garbage and blue bins. It was straightforward. Years later, when working at a big office, the cleaners were short-staffed for a few weeks. Management spent hours meeting about and discussing the "garbage problem" instead of just wrapping it up (pun intended) and moving on.
 
-The Industrial Age only had mechanical tools. Although they are increasingly Mass producing clothes, cars, newspapers needed lots of people handling the machines and thus lots of managers. However, today software can now replace much of that managerial work and let workers coordinate with each other directly.
+The Industrial Age only had mechanical tools. Mass producing clothes, cars, newspapers needed lots of manpower and thus lots of managers. However, today software can now replace much of that managerial work and let workers coordinate with each other directly.
 
 <div style='position:relative; padding-bottom:calc(76.67% + 44px)'><iframe src='https://gfycat.com/ifr/ObedientNiftyBlackbear' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/obedientniftyblackbear">via Gfycat</a></p>
 
@@ -669,31 +669,33 @@ Today the people lack self-awareness. Too many are extras watching the battle. W
 
 ## Calling Dark Majic
 
-Before we talk about a vitory, let's take small break and review some information. First is, the difference between majic and dark majic. The former helps humanity progress technology and become player gods who win the game of civilization. The latter stalls technological progress and turns us into mere extras in our own societies and make us lose the game of civilization. Seeing the difference between majic and dark majic is hard, however. Here's a story that'll make it a bit easier.
+Before we talk about a vitory, let's take small break and review some information. First is the difference between majic and dark majic. The former helps humanity progress technology and become player gods who win the game of civilization. The latter stalls technological progress, turns us into mere extras in our own societies, and make us lose the game of civilization. Seeing the difference between majic and dark majic is hard, however. Here's a story that'll make it a bit easier.
 
-Car commercials are everywhere. And they're a great example of old industries spicing up old tools. I've processed about 10,000 car accident insurance claims. When I'd ask about the caller's vehicle color, brand, etc. I'd usually get told stuff like "it's epic midnight silver with the special edition package." Sometimes I'd play stupid and have fun by asking, "are you sure it was epic morning silver?." To which people usually responded, "no, I'm quite sure it was the midnight." Many people relly believed made-up marketing colors were somehwere inside the rainbow.
+Car commercials are everywhere. And they're a great example of old industries spicing up old tools. I've processed about 10,000 car accident insurance claims. When I'd ask about the caller's vehicle color, brand, etc. I'd usually get told stuff like "it's epic midnight silver with the special edition package." Sometimes I'd play stupid and have fun by asking, "are you sure it was epic morning silver?." To which people usually responded, "no, I'm quite sure it was the midnight." Many people really believed made-up marketing colors were inside the rainbow.
 
-The real funny part was when I'd ask, "what was the other guy driving?" and nine times out of 10, I'd hear, "you know what, I don't know." Not like they don't know the bullshit marketing color. The person didn't know the anything about the other car. They didn't know if it was an SUV or a pickup truck, a sedan, or a crossover. It was a pain in the ass because my job was to get this information. My customer simply couldn't remember. When a person hit a horse, they'd remember it was a horse. But a car? None would stand out.
+The real funny part was when I'd ask, "what was the other guy driving?" and eight times out of 10, I'd hear, "you know what, I don't know." Not like they don't know the marketing color, they didn't know anything. They didn't know if it was an SUV or a pickup truck, a sedan, or a crossover, white or red. It was a pain in the ass because my job was to get this information. My customer simply couldn't remember. But when a person hit a horse, they'd remember it was a horse. But a car? None would stand out.
 
-Many people buy cars and see themselves as being standouts. Yet few people even notice. Darth Blockbuster has to splurge on marketing because the fact is you are the same cyborg before and after you buy a new car. I know this as well because when someone's car was damaged after an accident, they wanted any car rental ASAP. Fancy features and made up colors didn't matter; they just needed to get around. In short, heavy and fancy marketing is a telltale sign of dark majic. Which is a telltale sign of a tool struggling to survive inside a new age. It's when dark majic fails that Darth Blockbuster fires up his Death Star rulebook.
+Many people buy cars and see themselves as being standouts. Yet what really sets a car apart is personal relationships. How easy was the buying experience. How well does your mechanic service it. Are you going to return to the dealership. Extras like more chrome or touch display, are important. But only to you. The truth is, you're the same cyborg with almost any car. Dark majic makes you overvalue frills. Majic valuestechnology based on how much it empowers you with better reliability, fuel mileage, and re-sellability.
+
+I know majic is better, because when someone's car was damaged after an accident, they wanted any car rental ASAP. Fancy features and made up colors didn't matter; they just needed to get around, and get on with their lives.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SpanishIdealisticAgouti' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/spanishidealisticagouti">via Gfycat</a></p>
 
-_This is dark majic. A lot of antagonists earn their living making, spreading, and believing in it. A player god of the Computer Age has to learn to filter this bullshit out._
+_This is dark majic. A player god of the Computer Age has to learn to filter this bullshit out._
 
 # Intermission
 
 ## Old Philosophy vs. New Philosophy
 
-Techvolution is a philosophy book. I don't directly reference past philosophy books though. Like any topic it takes some practice to read because its filled with jargon. However, let's time some time to appreciate the beliefs of past protagonists and antagonists.
+Techvolution is a philosophy book. I don't directly reference past philosophy books though. Like any topic it takes some practice to read because its filled with jargon. However, let's time some time to appreciate the strong beliefs of past protagonists and antagonists.
 
-Below is two snippets from two famous philosophers, Robert Filmer and Thomas Paine. The passages will help explain how someone can think themselves so right, when history proves them so wrong. I won't comment on either passage. Just know both writers motivated generations of followers to fight to the death. When a philosophy clicks, it makes people into its followers. But remember we can choose our beliefs. When we do, we can become player gods of society that's winning the game of civilization.
+Below are two snippets from famous philosophers Robert Filmer and Thomas Paine. The passages will help explain how someone can think themselves so right, when history proves them so wrong. I won't comment on either passage. Just know when a philosophy clicks, it makes people into its followers. Both writers motivated generations of followers to fight to the death. But remember we can choose our beliefs. When we do, we can become player gods of society that's winning the game of civilization.
 
 ===
 
-SINCE the time that religious learning began to flourish there has been a common opinion maintained which affirms: "Mankind is naturally endowed and born with freedom from all subjection, and at liberty to choose what form of government it please, and that the power which any one man hath over others was at first bestowed according to the discretion of the people."
+SINCE the time that learning began to flourish there has been a common opinion maintained which affirms: "Mankind is naturally endowed and born with freedom, and at liberty to choose what form of government it please, and that the power which any one man has over others was at first bestowed according to the discretion of the people."
 
-But how this vulgar opinion has of late obtained a great reputation, it is not to be found in the ancient fathers and doctors of the true Church. It contradicts the doctrine and history of the Holy Scriptures, the practice of all ancient monarchies, and the very principles of the law of nature. It is hard to say whether it is more erroneous in divinity or dangerous in policy.
+But how this vulgar opinion has of late obtained a great reputation is unknown to me. It is not to be found in the ancient fathers and doctors of the true Church. It contradicts the doctrine and history of the Holy Scriptures, the practice of all ancient monarchies, and the very principles of the law of nature. It is hard to say whether it is more erroneous in divinity or dangerous in policy.
 
 This desperate assertion whereby kings are made subject to the judgements and deprivations of their subjects follows as a necessary consequence of foolhardy position of the supposed natural equality and freedom of mankind, and liberty to choose what form of government it please.
 
@@ -713,13 +715,13 @@ https://www.ushistory.org/Paine/crisis/c-01.htm
 
 ===
 
-The belief in nobles divine rights wasn't simple tyranny. The rules that kept royalty in power didn't call themselves a Death Star. A lot of smart people wrote philosophy to justify giving one person absolute power.
+The belief in nobles divine rights wasn't simple selfishness. A lot of smart people wrote philosophy to justify giving one person having absolute power. The rules that kept royalty in power didn't call themselves a Death Star, the rules had a based in philosophy.
 
 Today, the rules that make our products hard to repair, tell us to wait on hold, have us sign confusing contracts, is our Death Star. While all these rules exist to keep us in the Industrial Age—they aren't arbitrary rules. They are justified inside the Industrial Age philosophy. Something to remember as we push the middle-class into the Computer Age. The antagonists feel good about using the Death Star.
 
 ## The Era of Mass Collaboration Is Already Here
 
-The era of mass collaboration is here and growing. I included some examples below. Not only should you take a minute to search through them and contribute some of your time. You should sit back and realize what you're doing. Because with no managers, consultants, and timesheets, you can help advance humanity with nothing but a laptop, the internet, and you. One day soon, you're job will likewise require so little travel, stress, and time. And no, you won't lose your job. It's the head-office types who are unneeded in the era of mass collaboration. That's why the fear the Computer Age so much.
+The era of mass collaboration is here and growing. I included some examples below. Not only should you take a minute to contribute some of your time. You should sit back and realize what you're doing. Because with no managers, consultants, and timesheets, you can help advance humanity with nothing but a laptop, the internet, and you. One day soon, you're job will likewise require so little travel, stress, and time. And no, you won't lose your job. It's the head-office types, the HR reps, the eight different bosses, the people with no frontline skills, who are unneeded in the era of mass collaboration. That's why the fear the Computer Age so much.
 
 Galaxy Zoo: https://www.zooniverse.org : The univerise is amazing. Our telescopes are collecting massive amounts of data about it. Astronomers can't look through it all. So they're asking for help. Right now, you can go onto Zooiverse and help astronomers classify stars and galaxies. You might even be the first to discover something new.
 
@@ -730,6 +732,25 @@ Wikipedia: https://www.wikipedia.org/ : Everyone's favorite way to settle a bar 
 Kickstarter: https://www.kickstarter.com/ : Kickstarter connects regular people trying to solve a problem, with regular people waiting for a solution. A few bucks could fund a product you could need. The software of this website, Ghost Foundation, was started on Kickstarter.
 
 The era of mass collaboration is here. We just aren't jumping in yet. Below we'll talk about how you won a battle against the Death Star, which will help us see how to win the war and finally leap into the Computer Age.
+
+## The Era of Mass Collaboration Is (Almost) Here in Your Everyday Life
+
+Let's summarize things. Say you just moved into a new townhouse and want work on your backyard. You shop around and think about what work you want done. You're neighbors are doing the same. Over the summer months, everyone gets to work, installing patio stones, assembling lawn furniture, hiring contractors, putting in pools, fences, and whatever else you dream up.
+
+We will always have homes, and will always make choices about how to live inside them. The question is, when making our choices, do we consider the big picture—that our choices matter? Today, if we decide to put in flowering bushes, we help out our hurting bee population. If we buy American made, that means our stuff uses greener manufacturing processes and no slave labour. If we install Tesla Solar Roofs, we're helping combat climate change and earn American energy independence. If we make these decisions, we're attracted to the majic of new technologies, and become player gods. If we only care about trendy looks, brand names, and pretending to live inside Marth Stewart Living, then we're being an extra, whose attracted by dark majic. The former is good, the later bad for our civilization.
+
+Let's see the difference between good and bad politics. What rules are individuals told to follow when working on their homes. Labour laws, signing contracts, insurance requirements, product warranties, city by-laws. Do these various rules promote good decisions or bad? Who is writing the rules, and who interprets them? Does the rulebook get in the way? From the top down, doing up our backyards really is as simply as this gameplay from realistic city-builder _Cities: Skylines_.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ClassicSecretKarakul' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+Enter Darth Blockbuster. He wants to keep us in the generic Woodstock of 1969 lifestyle. So, he uses society's rulebook to keep the Computer Age far away. Thus even when player gods choose to buy solar power roofs, start a 3D printing business in the backyard, install a Hydroloop water resuser in their garage, today's rulebook often gets in the way. Do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does?
+
+Enter Techvolution. Red/blue philosophies are still bent on promoting the mass production of the Industrial Age. Thus, as Darth Blockbuster turns society's rulebook against Computer Age upgrades, regular people get no help from Left or Right. Making it hard to improve our own unhappy lives. Techvolution is the new philosophy that says, people should be player gods, and the rules should always protect their actions on the frontline to make good decisions.
+
+Techvolution will usher in the era of mass-collaboration. Technologically speaking, there's no reason why regular people on the frontline at home and at work, can't work as quickly as the clip above. Contractors, roofers, homeowners, bank tellers, insurance underwriters, people actually doing the work in the clip, don't need many of Darth Blockbusters resources anymore. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, YouTube videos, empower individuals to work much more independently. It will only be a happy reality, once the people believe in Techvolution. And to get there, we have to defeat Darth Blockbuster and blow up his Death Star. Which takes us to the battle below.
+
+https://www.youtube.com/watch?v=ggrkTLEfFXA
+_Here's Louis Rossmann again. He's building a new store for his repair company. In this video he explains how a complete internet stranger did a better design job than a professional architectural company. Much like GitHub and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies wont disappear. We'll always need big organizations. They'll just be checked and balanced to be sure their performing better. Which they'll have to do once the frontline is connected in mass-collaboration. We'll make that connection a little later, in Techvolution II: Building the Life Star._
 
 # Mid Point
 
@@ -1331,30 +1352,36 @@ So when I asked who will you be Stargazer. You can answer that yourself for now.
 
 I tried to make the history lesson as readable as possible. Almost all the topics and subjects are metaphors for the lessons Europe learned going from the Dark Ages, through the Medieval Ages, to the Science Age, Enlightenment Age, and finally the Industrial Age.
 
-We really are headed towards a new version of the Thirty Years War. And if I could travel back in time to those unhappy people on Main Street, I'd say the same thing to them I told you. But they wouldn't believe it because I'd be talking about the future. With you it's been the past. Here's all the lessons our ancestors taught us in blood, sweat, and tears.
+We really are headed towards a big societal failure, a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosss using our history. Every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god. Unless we create one, we stay ahead of our problems and people will fight for a better life using the philosophy of the past. Evolution needs constant modernization of technology and philosophy.
+
+If I could travel back in time to those unhappy people on Main Street, I'd say the same thing to them I told you. But they wouldn't believe it because I'd be talking about the future. With you it's been the past. Here's all the lessons our ancestors taught us in blood, sweat, and tears.
 
 ===
 
-Phantom Communists and Fascists
+**Phantom Communists and Fascists**: Nicolo Machiavelli "Imagine Principalities".
 
-The frontline is Nicolo Machiavelli's "effectual truth." Machiavelli came from a poor family, whose father gave him many books from the recent printing press. Machiavelli was the first philosoper to get to read lots of different philosophy and history books, and he noticed trends. He told superstitious Europeans, they didn't need to put their faith in God, because we can keep looking for trends, master them, and start to overcome problems like hunger, disease, and all that.
+**Frontline**: is Nicolo Machiavelli's "effectual truth." Machiavelli came from a poor family, whose father gave him many books from the recent printing press. Machiavelli was the first philosoper to get to read lots of different philosophy and history books, and he noticed trends. He told superstitious Europeans, they didn't need to put their faith in God, because we can keep looking for trends, master them, and start to overcome problems like hunger, disease, and all that.
 
 Soon later Galileo, Francis Bacon, and lots of other people, read this insight, and invented the Scientific Method, which systemized looking for "effectual truth" by simply testing Nature with instruments, and discovering the truth, not inventing it with reason. Hence it's the "point of contact" between a tool and it's use is an experiment. Thus the truth of the experiment is our guide, not the rules of the social heirarchy.
 
-Player gods is from Thomas Hobbes. He lived during the English Civil War, when people were again sick of the king but didn't have different ruling philosophy to replace him with. Hobbes invented human equality by saying in Nature (he called it the State of Nature), all lifeforms live freely, thus why shouldn't humans. Hobbes said people should still be loyal to a king, yet not because he's divine, but because it's in the best interest to have a stable and firm government because when that goes away--as Hobbes was personally seeing--people turn horrible. Because the king wasn't divine, his power to rule came from the consent of the goverened, who are like him, equals.
+**Player god**: Is my way of saying political community, what Plato called "politia". My version comes from Thomas Hobbes. He lived during the English Civil War, when people were again sick of the king but didn't have different ruling philosophy to replace him with. Hobbes invented human equality by saying in Nature (he called it the State of Nature), all lifeforms live freely, thus why shouldn't humans. Hobbes said people should still be loyal to a king, yet not because he's divine, but because it's in the best interest to have a stable and firm government because when that goes away--as Hobbes was personally seeing--people turn horrible. Because the king wasn't divine, his power to rule came from the consent of the goverened, who are like him, equals.
 
 Something ... comes from John Locke. He came after Hobbes and agreed with his State of Nature, but said the people didn't need to put all their trust into a person as leader, but instead put their trust in the institution as leader. Meaning, the people should follow a president, not a king. That way the people can elect, new leaders while still getting the stability of government. Hence, the leader can always be a protagonist, and anyone who fights the will of the people, the people on the frontline, is an antagonist.
 
-Ruling philosophy, old philosopheis, comes from Rousseau. Rousseau merged all the thinking from Machiavelli to Locke, and said the people can't rule within the confines of an old philosophy. Thus, even though philosophers from Machiavelli to Locke were giving new philosophy, they didn't say to breakfree from the past. Rousseau say change it all, which is why the people used him during their revolutions, and why I talked about him above. We also need to change it all.
+**Heirarchy and Frontline, good and bad decisions:**: is from the friction of distance. Feeling the pain is the best way to respond to it. The further one is from the frontline, the less natural morality and ethics will prompt a humane response. We use products made by slave labour because we don't feel or see it.
 
-The Sith and Jedi, protagonist and antagonist, is Hegel's Thesis, Antithesis, Synthesis dialectics. After centuries of histories, looked back at the trends, and said there was a ruling philosophy, whose problems manifested into a competitor, the two would eventually fight it out, and make a new ruling philosphy that merged the two together. He also said master–slave is a relationship that recurs throughout humanity, and is the reason we looked at Frederick Douglas and Neo, who while was the physical slave, his captors were the mental ones, bound to a horrible social system as much as Frederick was. Frederick's process of self-discovery, was how slaves realize their status and break free.
+**Ruling philosophy**: comes from Rousseau. Rousseau merged all the thinking from Machiavelli to Locke, and said the people can't rule within the confines of an old philosophy. Thus, even though philosophers from Machiavelli to Locke were giving new philosophy, they didn't say to breakfree from the past. Rousseau say change it all, which is why the people used him during their revolutions, and why I talked about him above. We also need to change it all.
 
-Cyborgology, and majic, are Darwinism. The evolution of lifeforms based on their tools to collect resources. Life started out as simple organisms, and as these primitive lifeforms struggled to survive, they adapted better --biological--tools to do so. Eventually the benefits of biology maxed out with us, and so we have to continue evolution with tools. We similarly started to evolve (techvolve) with primitive tools, which slowly got better and better.
+**Protagonist and antagonist**: is Hegel's Thesis, Antithesis, Synthesis dialectics. After centuries of histories, looked back at the trends, and said there was a ruling philosophy, whose problems manifested into a competitor, the two would eventually fight it out, and make a new ruling philosphy that merged the two together. He also said master–slave is a relationship that recurs throughout humanity, and is the reason we looked at Frederick Douglas and Neo, who while was the physical slave, his captors were the mental ones, bound to a horrible social system as much as Frederick was. Frederick's process of self-discovery, was how slaves realize their status and break free.
 
-Death star, Darth Blockbuster, and dark majic come from modern psychology. And this is the real reason I wrote this book.
+**Cyborgology and majic**: are Darwinism. The evolution of lifeforms based on their tools to collect resources. Life started out as simple organisms, and as these primitive lifeforms struggled to survive, they adapted better —biological—tools to do so. Eventually the benefits of biology maxed out with us, and so we have to continue evolution with tools. We similarly started to evolve (techvolve) with primitive tools, which slowly got better and better.
 
-All of this is hard to understand. It seems simple because it's your life, and you think your opinions matter. But there's a reason we go to the doctor when we're feeling sick. They know the human antonmy, and we don't, even though we own one.
+**Death Star**:  
 
+**Freedom to use any tool**: Comes from freedom of religion and speech. John Locke gets the nod here.
 
+**Darth Blockbuster, and dark majic**: come from modern psychology. All of this is hard to understand. It seems simple because it's your life, and you think your opinions matter. But there's a reason we go to the doctor when we're feeling sick. They know the human antonmy, and we don't, even though we own one.
+
+**Techvolution**: Comes from me. It synthesizes all that we've learned, into a new philosophy for a modern age. I attributed much of it to playing computer games and reading and watching science fiction as a child. Playing, reading, and living in the future made the old philosophies of 20th Century politics so old fashioned. Putting it all together into a book took lots of reading, thinking, and working. Some intelligence helped, but it was the stubborness to keep going, and the belief in a higher power, that deserves the most credit. I hope it was worth it.
 
 - Firefox’s Enhanced Tracking Protection marks a major new milestone in our battle against cross-site tracking: we now block fingerprinting scripts by default for all users, taking a new bold step in the fight for our users’ privacy.
