@@ -27,16 +27,19 @@ We'll conceptualize digital tools totally detached from the Industrial Age. Thes
 
 9. [The Watch](#the-watch)
 
-
 ## Dedication
 
 To everyone who works, sweats, dreams about that first step on Mars.
 
 ## Quote
 
-"_We are really the revolutionaries in the world today—not the kids with long hair and beards who were wrecking the schools a few years ago._"
+"_People are angry man! Most people's lives suck. Even if like the economy is doing better, the vast majority of people aren't doing what they want with their lives._"
 
-Gordon Moore, co-founder of Intel, 1973.
+Joe Rogan, https://youtu.be/-0sKkbjQYqw?t=1243
+
+_"I feel like I'm in a fucking circus"._
+
+co-worker
 
 # Introduction
 

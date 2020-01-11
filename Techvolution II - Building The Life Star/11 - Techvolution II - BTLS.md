@@ -29,13 +29,9 @@ For Friar Bruno
 
 ## Quote
 
-"_People are angry man! Most people's lives suck. Even if like the economy is doing better, the vast majority of people aren't doing what they want with their lives._"
+"_Hard people created easy times. Easy times create easy people. Easy people create hard times._"
 
-Joe Rogan, https://youtu.be/-0sKkbjQYqw?t=1243
-
-_"I feel like I'm in a fucking circus"._
-
-co-worker
+Tim Kennedy, US Army Ranger
 
 # Introduction
 
@@ -58,6 +54,7 @@ What problems do we have? Not enough people go to college. Read the newspaper. G
 
 Have to integrate the next several chapters into a Life Star sequence, and use these topics as filters, toggles, moons of Jupiter, to showcase a ruling philosophy that, like a physicist and biologist does today, uses science to find the truth, not personal opinions absent of better sensory input like telescopes, microscopes and such...
 
+- Adapative radiation, happens in humanity inside every new age.
 - There's something about Life Star, and Sun, and knowledge, telling us the age/rules. The Sun tell us our age in revolutions, but Life Star tells us our scientific age.
 - Notably, once Techvolution frees people to choose their own tools, it's the majic of millions of people, that builds our Life Star.
 - Life Star is technological representation of nature. Like an ecosystem, it enforces accountability and reciprocation between lifeforms and thereby the Techvolution of life.
@@ -186,6 +183,12 @@ Like inside any ecosystem, the more lifeforms there are, the faster the pain of 
 Now, imagine people prone to depression, eating disorders, or stupid economic policies. Today these people only meet their specialist after suffering years of depression, being way over or under weight, or with needle marks in the arms. They suffer because they don't know themselves. And everyone's got a thing to work on, be it arrogance, self-pity, shyness, or whatever.
 
 - protagonist always used the Nature rule book. They invent new tools to solve problems. Onec an only solve problems by assessing reality, not the imagined worlds of human made rules.
+
+## Adaptive Radiation
+
+Adapative radiation happens everytime we hit new age.
+
+https://www.youtube.com/watch?v=moxu_uTemNg
   
 # Rousseau's Teachers
 
