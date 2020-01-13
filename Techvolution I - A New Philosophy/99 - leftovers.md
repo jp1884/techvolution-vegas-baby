@@ -1958,3 +1958,16 @@ Maybe the industry would have noticed that. But they surrounded themselves with 
 While the spectacle of Blu-Ray and HD-DVD tricked some people. Like with Wikipedia, the vast majority followed the natural majic of online movie streaming instead, even when it was against the rules to improve society.
 
 Digital tools empowered the extras to fight back, and check his self-important art story. Techvolution tells them its right to do it. As for it being against the rules, it was, and maybe it should be, I was naive back then and only ever downloaded a few movies. I was the smuck buying DVD's. Hey, do you think Darth Blockbuster will buy back all those DVDs, Blu-Rays, and HD-DVDs he told me, and us, was better then downloading? I'll take half-price.
+
+It was protagonists who gave the people internet streaming. Called movie pirates by the industry, these unpaid programmers on bitorrents did the work to save the people from billions of miles driven, late fees, and basements full of DVDs.
+
+Thieves you might be thinking. They broke the rules. No. Rules are supposed to facilitate civilization upgrades. The movie industry's rules were the Death Star—the fictious prop that once saved the movies, was now killing it in reality. Because when another protagonist, Reed Hastings, started Netflix. This happened.
+
+    <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script>
+    <script type="text/javascript">
+      trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Torrent","geo":"US","time":"2004-01-01 2018-11-04"},{"keyword":"Netflix","geo":"US","time":"2004-01-01 2018-11-04"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=Torrent,Netflix&hl=en-US","guestPath":"https://trends.google.com:443/trends/embed/"});
+    </script>
+
+Of course not. That didn't happen. The industry was controlled by Industrial Age businessman. And here is the birth of Darth Blockbuster. Because instead of embracing civilization, they turned on it and became comitted antagonists. The wanted, needed, no... demanded the Industrial Age never end. The twats addicted to remakes, even remade the DVD. Twice. But the HD-DVD and Blu-Ray both bombed.
+
+And then it happened. The people were empowered. Because wouldn't you know it, the march of technology didn't stop. The internet, around since 1969, got high speed for Main Street. Like iTunes had already shown them was possible, the movie industry jumped at the opportunity to give their customers a better product at a cheaper price. Finally, the American public could watch their stories on demand through the internet. Storytelling entered the Computer Age.
