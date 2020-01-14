@@ -1971,3 +1971,7 @@ Thieves you might be thinking. They broke the rules. No. Rules are supposed to f
 Of course not. That didn't happen. The industry was controlled by Industrial Age businessman. And here is the birth of Darth Blockbuster. Because instead of embracing civilization, they turned on it and became comitted antagonists. The wanted, needed, no... demanded the Industrial Age never end. The twats addicted to remakes, even remade the DVD. Twice. But the HD-DVD and Blu-Ray both bombed.
 
 And then it happened. The people were empowered. Because wouldn't you know it, the march of technology didn't stop. The internet, around since 1969, got high speed for Main Street. Like iTunes had already shown them was possible, the movie industry jumped at the opportunity to give their customers a better product at a cheaper price. Finally, the American public could watch their stories on demand through the internet. Storytelling entered the Computer Age.
+
+## The End
+
+Donald Trump is the savior of Western Civilization. Not because of his policies. Not because he makes you happy or angry. Some are good and some are bad. He's correct America sold itself since the 1970s. He's right to favour American manufacturing. He's wrong to mock climate change. He should use climate change as a way to modernize American manufacturing and lifestyle and make each much more self-sufficient. He's wrong to be vicious in his attacks against the Industrial Age media. He should ignore them completely and engage with Main Street directly. But none of that, or anything else, actually matters.

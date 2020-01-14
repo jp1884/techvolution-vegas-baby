@@ -29,6 +29,10 @@ For Friar Bruno
 
 ## Quote
 
+_The unknown knowns. These are the things we don't know, that we know. This category (of knowledge) absolutely fascinates me. One of the things that we already have the knowledge or the tools to understand, but don't yet._
+
+Dr. Becky Smethurst, Astrophysicist
+
 "_Hard people created easy times. Easy times create easy people. Easy people create hard times._"
 
 Tim Kennedy, US Army Ranger

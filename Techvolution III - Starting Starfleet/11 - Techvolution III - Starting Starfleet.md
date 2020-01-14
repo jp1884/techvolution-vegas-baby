@@ -33,6 +33,10 @@ To everyone who works, sweats, dreams about that first step on Mars.
 
 ## Quote
 
+"_Hard people created easy times. Easy times create easy people. Easy people create hard times._"
+
+Tim Kennedy, US Army Ranger
+
 "_People are angry man! Most people's lives suck. Even if like the economy is doing better, the vast majority of people aren't doing what they want with their lives._"
 
 Joe Rogan, https://youtu.be/-0sKkbjQYqw?t=1243

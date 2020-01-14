@@ -296,3 +296,6 @@ Now, imagine people prone to depression, eating disorders, or stupid economic po
 
 - protagonist always used the Nature rule book. They invent new tools to solve problems. Onec an only solve problems by assessing reality, not the imagined worlds of human made rules.
   
+_The unknown knowns. These are the things we don't know, that we know. This category (of knowledge) absolutely fascinates me. One of the things that we already have the knowledge or the tools to understand, but don't yet. For example, before we know that galaxies were seperate islands of stars outside of our own milky way. A meticulous chap named Messier in 1771, classified all the fuzzy things in the sky that weren't stars. The 58th object, in his extremely detailed list, was actually a galaxy that was 68 million lightyears away. This was the most distant observed object in the universe at the time, he just didn't know it._
+
+Dr. Becky Smethurst

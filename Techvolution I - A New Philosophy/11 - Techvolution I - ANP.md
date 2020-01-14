@@ -8,9 +8,9 @@ December 2019
 
 Are you happy? On the outside, Westerners have flashy products, full employment, and stable politics. On the inside, our middle-class deals with stagnate wages, crushing debts, antisocial behavior, political hatred, climate change. We have the freedom to vote Left or Right, moderate and extreme, and we've tried them all, but none have helped.
 
-This book argues our unhappiness is a sign of a bigger problem. Our ideologies like Conservatism, Progressivsm, and Socialism, were created in the Industrial Age, and since 1970, we've been in the Computer Age. Our own political beliefs are outdated, which is causing our frustrating lifestyles and growing social problems. We need a new philosophy—one created to harness the remarkable potential of electronic tools.
+This book argues our unhappiness is a sign of a bigger problem. Our political ideologies were created in the Industrial Age, and since 1970, we've been in the Computer Age. Obsolete political beliefs are causing our frustrating lifestyles and growing social problems. We need a new philosophy—one created to harness the remarkable potential of electronic tools.
 
-Here it is. Its big lesson is this. The middle-class needs to step up and solve our own problems. If we don't, we'll keep suffering the pains of civilization running on old ideological fumes.
+Here it is. Its big lesson is this. The middle-class needs to step up and use digital technology to solve our own problems. If we don't, we'll keep suffering the pains of a civilization running on old ideological fumes.
 
 # Table of Contents
 
@@ -25,7 +25,7 @@ Here it is. Its big lesson is this. The middle-class needs to step up and solve 
 
 ## Dedication
 
-_This book is for the people in the open-source community. For the collaboration philosophy you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Computer Age. You gave the best education a political guy can get. I hope I've learned enough to write this book for you._
+_This book is for the people in the open-source community. For the mass-collaboration philosophy you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Computer Age. You gave the best education a political guy can get. I hope I've learned enough to write this book for you._
 
 _For the antagonists, the self-entitled delegators keeping Blockbuster—and it's Industrial Age mentality—alive, thanks for causing history to repeat itself yet again. I hope you learn something._
 
@@ -39,33 +39,33 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the reader
 
-I used YouTube, Vimeo, and GIF videos throughout this book. They communicate ideas quickly so why not. I especially used videos because I wanted to showcase how relevant this book is. On the internet today, many regular people are working hard to improve middle-class life. With every honest product review, step-by-step instruction video, and science lesson these creators and their audiences are showing us how powerful the middle-class can be. Of course, all credit for the videos goes to the creators.
+I used YouTube, Vimeo, GIF, and other media throughout this book. I wanted to showcase how relevant it is. I write about middle-class self-empowerment and it's already well on the way. Millions of content creators and their audiences are collaborating with honest product reviews, instruction videos, history lesson. I could have written about all this, but it's more impactful to see. While I want to help everyone realize how historic their work is, of course, all credit for the videos goes to the creators.
 
 # Introduction
 
 ## Politics
 
-Donald Trump is the savior of Western Civilization. If that turns your emotions on, with tears or cheers, then you are missing the point of politics. Politics isn't voting for a political party, advocating for a political cause, and it's definitely not screaming at a TV political pundit. Doing all these things may change the world. But the government is so big, with so many politicians, civil servants, and interest groups fighting for control, it likely won't respond to your small voice. Tears or cheers don't make a person powerful.
+Donald Trump is the savior of Western Civilization. If that turns your emotions on, with tears or cheers, then you are missing the point of politics. Politics isn't voting for a political party, advocating for a political cause, and it's definitely not screaming at a TV. Doing all these things may change the world. But the government is so big, with so many politicians, civil servants, and interest groups fighting for control, it likely won't respond to your small voice. Tears or cheers don't make a person powerful.
 
-Deciding how to live your life does. Because exercising, composting, teaching your kids mathematics does change the world. Good decisions change and improve your world. Better yet, they give you freedom from dependency and control over a small part of your society. And power is to politics what money is to finance. Your personal choices are your most powerful political weapon.
+Deciding how to live your life does. Because exercising, composting, teaching your kids mathematics does change the world. Good decisions change and improve your world. Better yet, they give you freedom from dependency, and control over your small part of society. And power is to politics what money is to finance. Your personal choices are your most powerful political weapon.
 
-The question is, how do we increase your powers. The answer, we'll find out in this book, is better technology and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy." It's about making you powerful so you can earn your happiness. All of Main Street needs to step-up today. Because we're in a brand new age. The Computer Age is young, unexplored, and unconquered. To earn happy lives inside it, we have to rethink society with a modern mentality. One that makes the middle-class grab hold of modern tools and work hard to upgrade our entire civilization— so that we're the ones who control it.
+The question is, how do we increase your powers. The answer, we'll find out in this book, is better technology and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy." It's about making you powerful so you can earn your happiness. All of Main Street needs to step-up today. Because we're in a brand new age. The Computer Age is young, unexplored, and unconquered. To earn happy lives inside it, we have to rethink society with a modern mentality. One that makes the middle-class grab hold of modern tools and work hard to upgrade our entire civilization.
 
 ## Looking Up
 
-Life improves with better technology. Deaths from war, disease, famine have all gone down as our technological power has gone up. While naysayers and the media love to tell us negative news, reading history puts things into perspective. The Black Plague of the Medieval Age killed 30-60% of Europe's population in a decade. The Spanish colonization of the Americas killed about 80% of the native population die, mostly through diseases. Murderous wars were once typical and expected throughout the world. We haven't had a big one in generations. Computer power has increased by three million percent since 1972. Human life on Earth is getting better. We can fight infections, hunger, and ignorance because of the march of new and better technology. We have to keep inventing.
+Life improves with better technology. Deaths from war, disease, famine have all gone down as our technological power has gone up. While naysayers love to spread negative news, reading history puts things into perspective. Plagues used to wipe out 30-80% of our populations. Murderous wars were once typical and expected throughout the world. Now we have vaccines for many diseases and haven't had large war in generations. Technology is the reason. And consider that computer power has increased by three million percent since 1972. With computers we can fight infections, hunger, and ignorance with an ever an stronger march of new and better technology. We have to keep inventing.
 
-Life evolves in jumps. Likewise humanity develops new technology in jumps; what we call "ages." When a new age comes, its technology is so unique and powerful, it changes how society functions. Things were very different in the Stone Age in comparison to the Bronze Age for example.
+In Nature, lifeforms often evolve in jumps. Likewise humanity develops new technology in jumps; what we call "ages." When a new age comes, its technology is so unique and powerful, it changes how society functions. Things were very different in the Stone Age in comparison to the Bronze Age for example.
 
-Today we're going from the Industrial Age to the Computer Age. There's a lot to think about when a civilization's entire way of life upgrades to new technology. I've been thinking about ours for years and only now have a grasp.
+Today we're going from the Industrial Age to the Computer Age. It can be hard to appreciate. There's a lot to think about when a civilization's entire way of life upgrades to new technology. I've been thinking about our evolution for years and only now have a grasp.
 
-Play computer games like _Age of Empires, Anno 1800_, and _Civilization_, and you'll get a better understanding of how humanity develops. You'll be the "player god" of a civilization—a virtual divinity whose general will plays the game. As a player god, you'll know all and see all. You'll give orders, manage resources, invest in research, and finally decide when to click "upgrade." When you do, your civilization instantly transforms. Like magic, every house, factory, building, road, library, school is suddenly new and improved by the technology of a new age. Below, you'll see a person being the player god in the game _Anno 1800_.
+Play computer games like _Age of Empires, Anno 1800_, and _Civilization_, and you'll get a better understanding of how humanity develops. You'll be the "player god" of a civilization—a virtual divinity whose general will plays the game. As a player god you'll know all and see all. Your job it to give orders, manage resources, invest in research, and finally decide when to click "upgrade." When you do, your civilization instantly transforms. Like magic, every house, factory, building, road, library, school is suddenly new and improved by the technology of a new age. Below, you'll see a person being the player god in the game _Anno 1800_.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FragrantOldEmeraldtreeskink' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 The above is a game, of course, but it represents reality pretty well. We're all in there somewhere right now, trying to figure out how to earn a living while our society changes around us. It's hard—there is no divine player and no magic button. Instead, we, the people inside the game, must collect the resources, do the research, and manually transform every part of our civilization bit by bit with blood, sweat, and tears. We can't sit back, click, and watch. We must live it.
 
-Improving technology is hard work, but at least we understand how to do research and development. Improving politics isn't so straightforward. Upgrading politics and philosophy is a time of emotions, civil wars, and revolutions. And I want to help you understand your importance in it all. Because in 1970, we entered the Computer Age. Since then, computer geeks, innovators, and hackers have been upgrading our society with ever more powerful electronic tools. All the while, established companies and bureaucracies of the Industrial Age have been holding them back; to keep Main Street using their old and dated products.
+Improving technology is hard work, but at least we understand how to do research and development. Improving politics isn't so straightforward. Upgrading politics and philosophy is a time of strong emotions, civil wars, and violent revolutions. And I want to help you understand your importance in it all. Because in 1970, we entered the Computer Age. Since then, computer geeks, innovators, and hackers have been upgrading our society with ever more powerful electronic tools. All the while, established companies and bureaucracies of the Industrial Age have been holding them back; to keep Main Street using their old and dated products.
 
 And this is why middle-class life sucks: it's why we wait in traffic, over-pay for our homes, and get drawn into endless meetings. Middle-class life will only improve once we finish the Computer Age upgrade. There's no shortcuts, cheats, or gimmicks. There's just you and your friends on Main Street who have to do the work.
 
@@ -89,7 +89,7 @@ It's all very confusing and emotional. Yet you have to pick sides. After all, yo
 
 ## Your Politics Is Hard to See, Because You Are Changing
 
-Philosophies are created to help organize civilization with high—and often hard to understand—ideals of a "just and good society." There are many philosophies to choose from, such as Athen's Democracy, Rome's Republic, Royal Monarchy, Soviet Oligarchy. The trick is to pick one that helps society use modern technology to solve real-life problems, and hence give people a happy life.
+Philosophies are created to help organize civilization with high—and often hard to understand—ideals of a "just and good society." There are many philosophies to choose from, such as Greek Democracy, British Aristocracy, French Monarchy, Soviet Oligarchy. The trick is to pick one that helps society use modern technology to solve real-life problems, and hence give people a happy life.
 
 When a computer player in a civilization game upgrades technology, we can see the game change technology. Installing a sewer, damning a river, building a road, is very obvious. But we can't see philosophy change because so easily; because it's our own minds that change. Thus we have philosophical ideas in our heads that we sometimes don't understand.
 
@@ -398,18 +398,18 @@ Space travel is a significant step for humanity. It means better satellites, wor
 
 Red/blue political culture was unable to deliver an affordable rocket. They can gossip about speeches all day, but rocket science doesn't fit into soundbites. It was private companies like SpaceX and Blue Origin (funded by a few rich protagonists) who answered the call. They harnessed digital technology and fostered collaboration to make rockets 10 times cheaper then red/blue politicians were doing. The rocket making newcomers even learned to land their rockets so they can be reused, a monumental achievement that makes space travel even more possible. But many people, especially red/blue politicians, still didn't care. In fact, they often tried to stop these companies by saying they broke the rules.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/TerrificFinishedCaracal' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/JauntyImmaculateGreatargus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 https://www.youtube.com/watch?v=ANv5UfZsvZQ
 
-_This was when SpaceX landed its second rocket. Enable the sound to really get a feel on how important this event was. It was a significant step for the Computer Age._
+_This was when SpaceX landed its first rocket. Enable the sound to really get a feel on how important this event was; a significant step for the Computer Age._
 
 When you're dependent on old philosophies, you're also confined to its old tools and live within its old narratives. Today red/blue politics obsesses over tiny tax cuts, pages of government regulations, and endless media soundbites because their philosophy says they're essential. New and super-powerful technologies like SpaceX are talked about, but more as a novelty act that falls beyond the believers of old philosophies comprehension and comfort zones.
 
 That's the power of philosophy. It filters the definition of good and bad for its followers. Today, red/blue Industrial Age philosophies hold back the incredible, world-changing, happiness granting potential of the Computer Age. Affordable rockets are just one example. Up and down our economy, we use Industrial Age heavy management practices when digital collaboration is far better. The lesson is, once we believe in a philosophy that embraces the Computer Age, we'll soar to the stars.
 
 ![old philosophy in a new world](/img\diagrams\techvolution-old-philosophy-new-world.png)
-_Here’s a screenshot from my Twitter feed when SpaceX landed its first and second rocket. At the exact same time, red/blue ideologue Bernie Sanders was ranting about regulation battles with Wall Street. He should have been taking a minute to appreciate all the new solutions SpaceX just opened to humanity. I happened to be following Sanders, so I don’t mean to pick on him. The middle-class needs to stop putting their faith in old philosophies and instead become player gods with tools digital protagonists are giving us today. Like we did when we looked through Galileo telescope generations ago._
+_Here’s a screenshot from my Twitter feed when SpaceX landed its first and second rocket. At the exact same time, red/blue ideologue Bernie Sanders was ranting about regulation battles with Wall Street. He should have been taking a minute to appreciate all the new solutions SpaceX just opened to humanity. I happened to be following Sanders, so I don’t mean to pick on him. The middle-class needs to stop putting their faith in old philosophies and instead become player gods with the tools digital protagonists are giving us today. Like we followed Galileo generations ago._
 
 ## Techvolution is a Fight as Natural as Evolution
 
@@ -690,20 +690,20 @@ Of course it wasn't long before hi-speed internet (2004) came to Main Street. Te
 
 A decade before the music industry was in the same spot. Record stores and sales died when customers got the internet and refused to wait for digital distribution and so used Napster. When Steve Jobs made iTunes to help save the music industry, he said he'd "never spent so much of my time trying to convince people [music executives] to do the right thing for themselves".
 
-Darth Blockbuster reacted the same way. Antagonism is what obsolete people do. So that's the situation Stargazer. Dark majic got people watching bad movies. The Computer Age gave the people a better product. Industrial Age power refused to innovate in favour of Main Street. And rule book says it was wrong for the people to take matter into their own hands. But we've got a long way, so let's take a short break before facing down the Death Star.
+A large and profitable business is faced with a choice. But we've got a long way, so let's take a short break before facing down the Death Star.
 
 ![New Tool Creation](/img\sketches\frontline-movies-full.jpg)
 _Most movies stink, most theatres are dead. That's you Stargazer, looking at the frontline after removing the dark magic mask that had you watching pointless movie award shows._
 
 # Intermission
 
-Let's consider some things during our short rest. 
+Let's consider some things during our short rest.
 
 ## Old Philosophy vs. New Philosophy
 
-Techvolution is a philosophy book. I don't directly reference past philosophy books though. Like any topic it takes some practice to read. However, let's time some time to appreciate the strong beliefs of past protagonists and antagonists.
+Techvolution is a philosophy book. I don't directly reference past philosophy books though. Like any topic it takes some practice to read. However, let's take a peek and appreciate the strong beliefs of past protagonists and antagonists.
 
-Below are two snippets from famous philosophers Robert Filmer and Thomas Paine. The passages will help explain how someone can think themselves so right, when history proves them so wrong. I won't comment on either passage. Just know when a philosophy clicks, it makes people into its followers, and both these writers motivated generations of followers to fight to the death.
+Below are two snippets from influential philosophers Robert Filmer and Thomas Paine. The passages will help explain how someone can think themselves so right, when history proves them so wrong. I won't comment on either passage. Just know when a philosophy clicks, it makes people into its followers, and both these writers motivated generations of followers to fight to the death.
 
 ===
 
@@ -743,6 +743,8 @@ Common Voice: https://voice.mozilla.org/en : We can now give our computers voice
 
 Wikipedia: https://www.wikipedia.org/ : Everyone's favorite way to settle a bar bet. Thousands of programmers work on Wikipedia's software called MediaWiki. But many more people contribute by writing and updating articles. Everyone's an expert at something. Edit an article. Give it a shot.
 
+Stack Overflow: https://stackoverflow.com : Programming is hard. Everyone from beginner to expert have questions only other programmers can answer. Stack Overflow lets anyone ask a question, and rewards those who give the best answers. This mass-collaboration will soon connect you with other people doing your frontline job. Together you'll help each other do better and faster work.
+
 Kickstarter: https://www.kickstarter.com/ : Kickstarter connects regular people trying to solve a problem, with regular people waiting for a solution. A few bucks could fund a product you could need. The software of this website, Ghost Foundation, was started on Kickstarter.
 
 The era of mass collaboration is here. We just aren't jumping into the Computer Age yet.
@@ -759,7 +761,7 @@ If we make these decisions, we're attracted to the majic of new technologies, an
 
 The question is, what rules are individuals told to follow: labour laws, work contracts, insurance requirements, product warranties, city by-laws. Do these various rules promote good decisions or bad?
 
-Enter Darth Blockbuster. He wants to keep us in the generic Woodstock of 1969 lifestyle. When dark majic fails, he uses society's rulebook to keep the Computer Age far far away. Thus even when player gods choose to buy solar power roofs, start a 3D printing business in the backyard, install a Hydroloop water resuser in their garage, today's rulebook often gets in the way. Do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? I've been a property adjuster too and the answer would surprise you.
+Enter Darth Blockbuster. He wants to keep us in the generic Woodstock of 1969 lifestyle. When dark majic fails, he uses society's rulebook to keep the Computer Age far far away. Thus even when player gods choose to buy solar power roofs, start a 3D printing business in the backyard, install a Hydroloop water resuser in their garage, today's rulebook often gets in the way. Do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? What about tree by-laws, construction codes, labour regulations. All things we need, that remain confusing and inaccessible, because they are the Death Star. 
 
 Enter politics. Red/blue philosophies can help motivate you, but they can't help you. They're bent on promoting the mass production of the Industrial Age. Thus, while you're fighting for a better backyard, they're telling you to fight phantoms. You can practice good politics, by fighting for rules that let you make good decisions, that increase your freedom, independence, and power. Techvolution unifies the frontline to act as one.
 
@@ -864,9 +866,9 @@ There's no way to know which stories will resonate with audiences. Still, only c
 ![Classic story](/img\diagrams\romeo-juliet.jpg)
 _Good stories will always be told._
 
-**Art films:**- are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. The art story is more of a personal journal about not overcoming obstacles, for example, being lonely, or hating one's job. The main character is thus selfish and self-important. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
+**Art films:**- are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think they have all the answers and don't need to test them out. The art story is more of a personal journal about not overcoming obstacles, for example, being lonely, or hating one's job. The main character is thus selfish and self-important. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
 
-The result is stories with no storyline and no antagonist. Instead, art stories showcase their main characters' idiosyncratic behavior, like collecting action figures or wandering around a shopping center. Stories are surprising to the point of being weird, with a conclusion that never changes the reality because the main character didn't even try to.
+The result is stories with no storyline and no antagonist. Instead, art stories showcase their main characters' idiosyncratic behavior, like collecting action figures or their political rantings. Stories are surprising to the point of being weird, with a conclusion that never changes the reality because the main character didn't even try to.
 
 Without logical surprises, art films need to get weirder and weirder to maintain interest. To insulate themselves from criticism, art filmmakers usually give themselves awards, grandeur, and titles. They dream of being like their main characters—on stages talking about themselves in a bout of self-gratification. Film festivals like Cannes, Sundance, Toronto mainly show art films.
 
@@ -1282,9 +1284,6 @@ People in Boston in 1776 didn't want people in London telling them how to live. 
 
 Why aren't their camels in the Amazon? A different environment needs different adaptions. Why can't we send the endangered polar bears to freezing antartica? Because the pengiuns there would be decimated by the invasive species. So why do people in Boston buy cars designed in California but made in China, and fueled by Iran? Adaptability applies to human cyborgology. And to continue evolution, we need borders, because all ecosystems have members and non-members. And that's why Trump won. The natural progression we're going through is to form an ecosystem. We don't see this. And neither did our ancestors. That's why Antagonist Kings needed to hire foreigners to do their fighting. The local people had evolved past them....
 
-
-
-
 ## Polar Bears in the Amazon, Collaboration is the future, as is ecosystems
 
 If someone were to tell you how to vote, while looking over your shoulder, you'd be weirded out and call the police. And society in general would agree nobody should tell you, nor force you, how to vote. You yourself haven't done anything to earn that right. It's a byproduct of living inside a political ecosystem with guns used by recognized policeman, fair judges of a court system, and the absence of invasions or desperation that lets every member of the community cast a vote.
@@ -1292,6 +1291,14 @@ If someone were to tell you how to vote, while looking over your shoulder, you'd
 Your life wont get better until you think of a tools in the same way. The solution to your political and economic problems. Using red/blue philosophies is a recipe for living in the past.
 
 Everytime you listen to a political speech just notice how many times they talk. Once you ask yourself what tool am I getting to bring down taxes, cap the debt ceiling, fight climate change, then you'll talking solutions. Until then you'll be experincing societal collapse.
+
+## The End
+
+Donald Trump is the savior of Western Civilization. Not because of his policies. Not because he makes you happy or angry. Trump's a savior because he broke the Right/Left mold. The Industrial Age philosophes were degenerating our society towards collapse. Neither will ever understand the Computer Age and mass-collaboration. Trump may not either, but he's made us think, "what politics do I want?". And that question is the first step to increasing your political power, so you can makes yourself happy inside a modern Computer Age society.
+
+We'll get there, if you stop watching the story of civlization. Only you can upgrade us to the Computer Age. Whereever you are, look around, and see old drafty windows, gas engine car, cable news, mass-producted toys, eight different bosses, car traffic, endless red-tape. Do you see the Industrial Age? Do you now need collaborate and upgrade your slice of the world to the Computer Age? Or do you want to return to the comfort and safety of following the rules and being an uninvolved extra of Conservative/Progressive politics. The fate of your future, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
+
+If you do, we win. If you don't, we lose.
 
 # EPILOGUE
 
@@ -1309,7 +1316,7 @@ The tool wasn’t polished because new tools never are. But it was, and would ha
 
 Here’s how my app worked. Today’s car insurance claim system depends on drivers exchanging information like names or insurance policy numbers after a car accident. Drivers are frazzled so they usually don’t. My adjusting job was talking to these drivers to process their insurance claims. The one supposed to return drivers back to normal; at least as best to normal as money can get them. A big problem was simply knowing who the other driver and adjuster were. Since adjusters often didn’t know, we had to search for it; literally calling around or hoping someone calls you. Delays piled up like crazy.
 
-![New Tool Creation](/img\diagrams\techvolution-whitehall-charles.jpg)
+![New Tool Creation](/img\diagrams\techvolution-civilization-is-here.jpg)
 _Look familiar?_
 
 Adjusting sucks. Our only tools were a telephone, email, voicemail, checkbook, google, and a supervisor telling us to hurry up or get fired. Beyond st-st-stress stressful, very emotionally taxing.
@@ -1354,6 +1361,8 @@ He’ll never say that, or even know it. He thinks frontline pain is a thing to 
 
 I did my best as a protagonist. I was not good enough to prevent anyone’s Smithereens, but I did my best. The point isn’t that I wallowed in self-pity or guilt. The point is that neither self-pity nor guilt need to exist in the Computer Age. The philosophy of digital tools isn’t a place of sword wielding heroes with a mass of peasants behind them. I pushed as far and high as I could.
 
+## The End
+
 Am I done fighting? No. I’ve picked up another tool, though, one that fits better in my hand and that may allow me to still reach out to many others who feel the need to evolve: a book. But I am just a speck in the sea that’s got to rise up and rinse the world of old sins and false beliefs. Other protagonists can pick up where I left off—they can go further than I could even dream of. That’s how society truly evolves: a pyramid of helping hands, not a pyramid of chopped limbs and ripped-up ideas. Everyone is either an extra waiting for life to change blaming phantom fascists or communists, or a player god solving real-life problems. If enough of us join in, then Techvolution is our new ruling philosophy.
 
 Who are you, Stargazer? Who will you be?
@@ -1366,13 +1375,19 @@ So when I asked who will you be Stargazer. You can answer that yourself for now.
 
 ## Stuff I Couldn't Fit In
 
-I tried to make the history lesson as readable as possible. Almost all the topics and subjects are metaphors for the lessons Europe learned going from the Dark Ages, through the Medieval Ages, to the Science Age, Enlightenment Age, and finally the Industrial Age.
+I tried to make Techvolution very readable. Almost all the topics and subjects are metaphors for the lessons Europe learned going from the Dark Ages, through the Medieval Ages, to the Science Age, Enlightenment Age, and finally the Industrial Age. So there was a lot of stuff to fit it. But by keeping things simple, i was forced to better understand the content.
 
-We really are headed towards a big societal failure, a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosss using our history. Every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god. Unless we create one, we stay ahead of our problems and people will fight for a better life using the philosophy of the past. Evolution needs constant modernization of technology and philosophy.
+We really are headed towards a big societal failure, a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosis using our history. Every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god. Unless we create a player god in an era of mass collaborationone soon, we wont stay ahead of our problems and people will fight for a better life using the philosophy of the past; just like our ancestors used Catholicism and Protestantism for no good end. Evolution needs constant modernization of technology and philosophy.
 
-If I could travel back in time to those unhappy people on Main Street, I'd say the same thing to them I told you. But they wouldn't believe it because I'd be talking about the future. With you it's been the past. Here's all the lessons our ancestors taught us in blood, sweat, and tears.
+If I could travel back in time to those unhappy Europeans on Main Street in 1618, I'd say the same thing to them I told you. But they wouldn't believe it because I'd be talking about the future. With you it's been the past. There's a better chance it'll all click.
+
+For reference, here's all the lessons our ancestors taught us in blood, sweat, and tears.
 
 ===
+
+**Modernity**: 
+
+**Your Happiness**: Is a gauge on how healthy the player god is.
 
 **Phantom Communists and Fascists**: Nicolo Machiavelli "Imagine Principalities".
 
@@ -1380,7 +1395,7 @@ If I could travel back in time to those unhappy people on Main Street, I'd say t
 
 Soon later Galileo, Francis Bacon, and lots of other people, read this insight, and invented the Scientific Method, which systemized looking for "effectual truth" by simply testing Nature with instruments, and discovering the truth, not inventing it with reason. Hence it's the "point of contact" between a tool and it's use is an experiment. Thus the truth of the experiment is our guide, not the rules of the social heirarchy.
 
-**Player god**: Is my way of saying political community, what Plato called "politia". My version comes from Thomas Hobbes. He lived during the English Civil War, when people were again sick of the king but didn't have different ruling philosophy to replace him with. Hobbes invented human equality by saying in Nature (he called it the State of Nature), all lifeforms live freely, thus why shouldn't humans. Hobbes said people should still be loyal to a king, yet not because he's divine, but because it's in the best interest to have a stable and firm government because when that goes away--as Hobbes was personally seeing--people turn horrible. Because the king wasn't divine, his power to rule came from the consent of the goverened, who are like him, equals.
+**Player god**: Is my way of saying political community, what Plato called "politia". My version comes from Thomas Hobbes. He lived during the English Civil War, when people were again sick of the king but didn't have different ruling philosophy to replace him with. Hobbes invented human equality by saying in Nature (he called it the State of Nature), all lifeforms live freely, thus why shouldn't humans. Hobbes said people should still be loyal to a king, yet not because he's divine, but because it's in the best interest to have a stable and firm government because when that goes away—as Hobbes was personally seeing—people turn horrible. Because the king wasn't divine, his power to rule came from the consent of the goverened, who are like him, equals.
 
 Something ... comes from John Locke. He came after Hobbes and agreed with his State of Nature, but said the people didn't need to put all their trust into a person as leader, but instead put their trust in the institution as leader. Meaning, the people should follow a president, not a king. That way the people can elect, new leaders while still getting the stability of government. Hence, the leader can always be a protagonist, and anyone who fights the will of the people, the people on the frontline, is an antagonist.
 
