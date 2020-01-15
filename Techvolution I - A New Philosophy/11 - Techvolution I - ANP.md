@@ -207,7 +207,7 @@ In short, the open-source community has empowered Main Street. No longer are we 
 
 I'm one of them. I'm a politics, history, and philosophy geek who spends far too much time thinking about this stuff. Digital tools let me research, write, and host my own work. Better yet, I can find and work with world-class writers and illustrators to make that work even better. A few decades ago, I'd be in a library scribbling notes on cue cards and dreaming up ways to get a professor, publisher, or newscaster to look my way. Now I can share what I've learned with a website so anyone can access it from anywhere in the world. It may not seem like it, but you, the reader, and I, the writer, are on Main Street right now, collaborating about where to take the "player god." All for virtually free. And that's all because the open-source heroes put new tools into both our hands.
 
-## Mass Production Replaced by Mass Collaboration Makes Us Happy
+## Mass Production Replaced by mass-collaboration Makes Us Happy
 
 As a kid, I helped my family clean office buildings. My simple role was to pick up the garbage and blue bins. It was straightforward. Years later, when working at a big office, the cleaners were short-staffed for a few weeks. Management spent hours meeting about and discussing the "garbage problem" instead of just wrapping it up (pun intended) and moving on.
 
@@ -217,9 +217,9 @@ The Industrial Age only had mechanical tools. Mass producing clothes, cars, news
 
 Today's excessive management is a holdover from an age gone by. It's out of habit that our workplaces over-value control and delegation instead of contribution and collaboration. Excessive management turns leaders into gatekeepers. Gatekeepers seek to hold tickets and manage who'll "get access" to things like news services, retail stores, formal education, and especially the higher "positions" of corporate employment. Today's there's an entire class of middle-men, consultants, managers, and executives who don't know the skills of their industry like nursing, teaching, and (definitely not) cleaning. Their power is to manage an Industrial Age technology that puts workers and customers behind gates.
 
-In contrast, the Computer Age demands mass collaboration—sometimes called "Wikinomics." Open-source shows us how easy and effective mass collaboration is. Here's the gist. The open-source community works together on a core technology. People then use the core technology to create their own specialized products. For example, a large open-source community creates MediaWiki software. Then separate groups use MediaWiki to create Wikipedia, WikiHow, and Fandom—or any other website you can think of. After all, MediaWiki is free for anyone to use however they want. And you don't have to be a programmer to contribute. Writers, designers, guardians are all needed. Mass collaboration works so well Wikipedia wrote millions of articles in just a few years. Linux is on billions of devices. YouTube is filled with helpful review and how-to videos.
+In contrast, the Computer Age demands mass-collaboration—sometimes called "Wikinomics." Open-source shows us how easy and effective mass-collaboration is. Here's the gist. The open-source community works together on a core technology. People then use the core technology to create their own specialized products. For example, a large open-source community creates MediaWiki software. Then separate groups use MediaWiki to create Wikipedia, WikiHow, and Fandom—or any other website you can think of. After all, MediaWiki is free for anyone to use however they want. And you don't have to be a programmer to contribute. Writers, designers, guardians are all needed. mass-collaboration works so well Wikipedia wrote millions of articles in just a few years. Linux is on billions of devices. YouTube is filled with helpful review and how-to videos.
 
-This is not to say that open-source communities are perfect and can run the world. Some of its people are too rude, projects die off, personalities clash, and so forth. In _The Innovators_, author Walker Isaacson explains how the trifecta of academia, corporations, and militaries was optimal for creating the digital revolution. Likewise, it was the government, big business, and open-source organizing structures that worked to keep that revolution going. Open-source is only a part of the ecosystem bringing the Digitial Age and mass collaboration to life. There will always be big companies like Google, Microsoft with large corporate structures, always be government services running health care plans, and installing traffic lights.
+This is not to say that open-source communities are perfect and can run the world. Some of its people are too rude, projects die off, personalities clash, and so forth. In _The Innovators_, author Walker Isaacson explains how the trifecta of academia, corporations, and militaries was optimal for creating the digital revolution. Likewise, it was the government, big business, and open-source organizing structures that worked to keep that revolution going. Open-source is only a part of the ecosystem bringing the Digitial Age and mass-collaboration to life. There will always be big companies like Google, Microsoft with large corporate structures, always be government services running health care plans, and installing traffic lights.
 
 That said, open-source is vital.
 
@@ -227,7 +227,7 @@ Precisely because nobody owns its technology. Server software, operating systems
 
 Open source is the good guys. The Jedi of our society. The modern minutemen because they enable individual empowerment and collaboration. They should be self-sufficient and very well-funded. But they are not. Many people in the open-source community who write articles, answer forum questions and make programs do it as a hobby, not a job. Even their leading organizations need donations to stay afloat. Meanwhile, old tools such as universities, television broadcasters, and insurance companies get massive subsidies, tax credits, and bailouts.
 
-To bring on the era of mass collaboration. Open-source needs to be flush with cash, and the support of the middle class. That means you have to become a player god.
+To bring on the era of mass-collaboration. Open-source needs to be flush with cash, and the support of the middle class. That means you have to become a player god.
 
 https://vimeo.com/366560857
 _Figma is a website and design tool. In the past, designers, writers, programmers all spoke through managers. With Figma and other products, worker-to-worker collaboration becomes easy. Your workplace can, and will, one day foster worker collaboration like this._
@@ -236,7 +236,7 @@ _Figma is a website and design tool. In the past, designers, writers, programmer
 
 This difference between how the old and new tools are treated signifies our society's significant problem. We should be jumping into the Computer Age. But open-source heroes have to struggle against the odds to dismantle the gates Industrial Age antagonists are paid to maintain.
 
-Once upon a time, I only wanted to learn about the open-source fight. Now I want to empower its protagonists. Mass collaboration, telecommuting, the right to repair, home power generation, and real internet privacy are just the tip of the iceberg. A better world is waiting once the open-source community has the resources to not only make new digital tools but to replace old Industrial Age tools. The open-source community must get political, get mad, and learn to be selfish. Because today's political battle is about upgrading society to the Computer Age. It's a story about New Age versus Old Age. Protagonists versus antagonists. Jedi versus Sith.
+Once upon a time, I only wanted to learn about the open-source fight. Now I want to empower its protagonists. mass-collaboration, telecommuting, the right to repair, home power generation, and real internet privacy are just the tip of the iceberg. A better world is waiting once the open-source community has the resources to not only make new digital tools but to replace old Industrial Age tools. The open-source community must get political, get mad, and learn to be selfish. Because today's political battle is about upgrading society to the Computer Age. It's a story about New Age versus Old Age. Protagonists versus antagonists. Jedi versus Sith.
 
 The most dangerous thing right now is ignorance. People don't know about open-source or the future they're fighting for. The people are stuck on "right vs. left" or "red vs. blue" politics. Red/blue leaders tout their horns, and the believers march and yell like it's Woodstock in 1969, because that was the end of the Industrial Age, and hence was the peak of their philosophy. The Woodstock way of life of single detached homes, 9-5 jobs, gas cars, long commutes, retail shopping, centralized power stations, and advertisement funded nightly news is a memory of "the glory days." It's no wonder Main Street has suffered from outsourcing, micro-managing, and climate change when the political stage fights to keep the past alive.
 
@@ -268,7 +268,7 @@ _This is the GitHub "repo" for Ruby on Rails, the technology that helps run apps
 
 ## The Setup to our Story - How we get to the future
 
-We all have to step up and upgrade our way of life to the Computer Age. If we don't, we'll keep suffering the pains of a degenerating society. This means Main Street has to stop watching phantom communists and fascists on television and become player gods who take responsibility for their culture. That's a hard step, but as open-source projects like Wikipedia, Linux, and Andriod show, is slowly happening anyway, so why not jump in and embrace the era of mass collaboration.
+We all have to step up and upgrade our way of life to the Computer Age. If we don't, we'll keep suffering the pains of a degenerating society. This means Main Street has to stop watching phantom communists and fascists on television and become player gods who take responsibility for their culture. That's a hard step, but as open-source projects like Wikipedia, Linux, and Andriod show, is slowly happening anyway, so why not jump in and embrace the era of mass-collaboration.
 
 The biggest roadblock to the Computer Age is Darth Blockbuster—the self-entitled holdover from the Industrial Age. Like Darth King before him, Darth Blockbuster has made a career of making up rules to keep his Industrial Age tools, and himself, in power. Before we can enter the Computer Age, we have to get rid of him.
 
@@ -377,7 +377,7 @@ Instead, our red/blue philosophical fathers had mud roads, grandfather clocks, a
 
 During the Industrial Age, the people needed to be managed inside huge corporations and color-coded parties. Someone needed to be on the factory floors and filling the desk jobs using primitive tools to make much better ones. To their credit, the blue and red philosophies at least gave people a voice in how their factories, regulations, and profits were controlled.
 
-Today, however, we live inside the world the Industrial Age dreamed of making. We've grown a massive ecosystem of cities, factories, offices, telecommunications, and layers of infrastructure. The Industrial Age has done its job. It's time to transform the people into player gods using the digital tools they worked so hard to create. Mass collaboration and economic efficiency is the Computer Age's big picture we should all believe in now.
+Today, however, we live inside the world the Industrial Age dreamed of making. We've grown a massive ecosystem of cities, factories, offices, telecommunications, and layers of infrastructure. The Industrial Age has done its job. It's time to transform the people into player gods using the digital tools they worked so hard to create. mass-collaboration and economic efficiency is the Computer Age's big picture we should all believe in now.
 
 Happily, we already know how to use digital tools. Although, people often say we're all addicted to our phones. We aren't. Checking news feeds, playing games, flying drones, and taking endless photos are acts of regular people learning to be player gods. Our ancestors did the same the last time they were extras, learning about printed books, telescopes, and muskets. Those were merely addictive toys until new philosophies turned them into the lightsabers that brought down Darth King and the Medieval Age. It was controlling new tools that empowered Main Street to read unknown history, see the universe for themselves, and revolt against royalty. The people became player gods who took responsibility for their civilization.
 
@@ -437,11 +437,11 @@ Have you ever taken an Uber? If you haven't, it's a smartphone app that connects
 
 Jim drives to George, who gets in, and Jim drops him off where he needs to go. They can chat or not chat. It doesn't matter. Once there, George gets out. Uber manages the payment. George and Jim rate each other and then go about their lives.
 
-That's an Uber ride. And if you've ever taken one, you've participated in Computer Age mass collaboration. Seriously, think about it. George needed to get somewhere; a friend's house, job interview, babysitting. Jim helped him get there. And software facilitated the collaboration between two strangers.
+That's an Uber ride. And if you've ever taken one, you've participated in Computer Age mass-collaboration. Seriously, think about it. George needed to get somewhere; a friend's house, job interview, babysitting. Jim helped him get there. And software facilitated the collaboration between two strangers.
 
 Once upon a time in the Industrial Age, this coordination was done by many managers at a taxi, media, and automotive companies. Driver timesheets, dispatch call-centers, complaint resolution, company marketing, vehicle licensing. In the Computer Age, all this paperwork is handled by Uber's (mostly open-source) software. The company Uber still has to staff managers, marketers, executives, and whatnot. But the proportion is far less.
 
-While Darth Taxi-Cab tried to stop Uber in court and government lobbying, it didn't work. The people liked Uber too much. Once people taste it, mass collaboration is too practical to be stopped. And it's just started to grow into more industries. It's something to keep in mind while you're reading this book. Our way of life will get better. Once we become player gods who realize their actions, even if just catching a lift, upgrades their civilization.
+While Darth Taxi-Cab tried to stop Uber in court and government lobbying, it didn't work. The people liked Uber too much. Once people taste it, mass-collaboration is too practical to be stopped. And it's just started to grow into more industries. It's something to keep in mind while you're reading this book. Our way of life will get better. Once we become player gods who realize their actions, even if just catching a lift, upgrades their civilization.
 
 ![old philosophy in a new world](/img\diagrams\techvolution-uber-ride-collaboration.jpg)
 _An Uber ride is collaboration. One person needs to get somewhere, and another wants to take her there. Although this arrangement was around in the Industrial Age with taxi rides, the difference in the Computer Age is software, hardware, and GPS, does almost all the management, and thus empowers Main Street to help itself using a simple to download app. Fittingly, I got these images from a free image service called Unsplash. Unsplash protagonists empower anyone to share and use professional-grade images with a few clicks. In the Industrial Age, these images would cost thousands of dollars._
@@ -643,7 +643,7 @@ It's a lesson for us to take in when we're stuck in traffic, getting the gears f
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PopularImpressiveAdeliepenguin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_The joy of majic. This YouTuber learns new skills then posts videos of his experience. Look how happy he is once he finally does it. We're unhappy today because we don't get to learn stuff because our workplaces still think it's the Industrial Age. In the Computer Age we all should be learning new tools to improve things on the frontline in an era of mass collaboration. If someone holds back majic at work, it's a good sign they're the ones with the problem._
+_The joy of majic. This YouTuber learns new skills then posts videos of his experience. Look how happy he is once he finally does it. We're unhappy today because we don't get to learn stuff because our workplaces still think it's the Industrial Age. In the Computer Age we all should be learning new tools to improve things on the frontline in an era of mass-collaboration. If someone holds back majic at work, it's a good sign they're the ones with the problem._
 
 ## Now We Know the Difference Between Good and Bad, It's Time to Use It
 
@@ -738,9 +738,9 @@ The belief in nobles divine rights wasn't simple selfishness. A lot of smart peo
 
 Today, the rules that make our products hard to repair, tell us to wait on hold, have us sign confusing contracts, is our rulebook. While all these rules exist to keep us in the Industrial Age—they aren't arbitrary rules. They come from Industrial Age philosophy. Something to remember as we push the middle-class into the Computer Age. The antagonists feel justified using their Death Star.
 
-## The Era of Mass Collaboration Is Already Here
+## The Era of mass-collaboration Is Already Here
 
-The era of mass collaboration is here and growing. I included some examples below. Not only should you take a minute to contribute some of your time. You should sit back and realize what you're doing. Because with no managers, consultants, and timesheets, you can help advance humanity with nothing but a laptop, the internet, and you. One day soon, you're job will likewise require so little travel, stress, and time. And no, you won't lose your job. It's the head-office types, the HR reps, the eight different bosses, the people with no frontline skills, who are unneeded in the era of mass collaboration. That's why the fear the Computer Age so much.
+The era of mass-collaboration is here and growing. I included some examples below. Not only should you take a minute to contribute some of your time. You should sit back and realize what you're doing. Because with no managers, consultants, and timesheets, you can help advance humanity with nothing but a laptop, the internet, and you. One day soon, you're job will likewise require so little travel, stress, and time. And no, you won't lose your job. It's the head-office types, the HR reps, the eight different bosses, the people with no frontline skills, who are unneeded in the era of mass-collaboration. That's why the fear the Computer Age so much.
 
 Galaxy Zoo: https://www.zooniverse.org : The univerise is amazing. Our telescopes are collecting massive amounts of data about it. Astronomers can't look through it all. So they're asking for help. Right now, you can go onto Zooiverse and help astronomers classify stars and galaxies. You might even be the first to discover something new.
 
@@ -752,9 +752,9 @@ Stack Overflow: https://stackoverflow.com : Programming is hard. Everyone from b
 
 Kickstarter: https://www.kickstarter.com/ : Kickstarter connects regular people trying to solve a problem, with regular people waiting for a solution. A few bucks could fund a product you could need. The software of this website, Ghost Foundation, was started on Kickstarter.
 
-There are many more examples of digital products connecting people on the frontline. The era of mass collaboration is here. We just aren't jumping into the Computer Age yet.
+There are many more examples of digital products connecting people on the frontline. The era of mass-collaboration is here. We just aren't jumping into the Computer Age yet.
 
-## The Era of Mass Collaboration Is (Almost) Here in Your Everyday Life
+## The Era of mass-collaboration Is (Almost) Here in Your Everyday Life
 
 Say you just moved into a new townhouse and want work on your backyard. You shop around and think about what work you want done. You're neighbors are doing the same. Over the summer months, everyone gets to work, installing patio stones, assembling lawn furniture, hiring contractors, putting in pools, fences, and whatever else you dream up.
 
@@ -787,9 +787,9 @@ Encyclopedias were a massive hit; up until a generation or so ago, many househol
 
 Then came the world wide web (1991), a new technology that brought the internet, and the Computer Age, directly to Main Street. The internet unlocked many new tools like websites, forums, blogs, and something called "wikis." Wiki software lets anyone write or edit a webpage by pressing "edit now." All changes are saved, so anyone can erase errors or vandalism by pressing "undo now." For years programmers used wikis to write technical manuals collaboratively.
 
-As web boomed in the late '90s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us who were curious about things like the movies or malaria know this story ends with a free online encyclopedia anyone can edit called Wikipedia. Wikipedia being the poster child for the era of mass collaboration in the Computer Age. But it didn't start out that way.
+As web boomed in the late '90s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us who were curious about things like the movies or malaria know this story ends with a free online encyclopedia anyone can edit called Wikipedia. Wikipedia being the poster child for the era of mass-collaboration in the Computer Age. But it didn't start out that way.
 
-Wikipedia started as Nupedia (2000) as a free online copycat of Encyclopedia Britannica. It followed the Industrial Age rationale of making gates. It said only "expert" professors were qualified to write articles. Wikipedia (2001) was a side project. Only the programmers, designers, innovators of the Computer Age knew mass collaboration was the way of the future.
+Wikipedia started as Nupedia (2000) as a free online copycat of Encyclopedia Britannica. It followed the Industrial Age rationale of making gates. It said only "expert" professors were qualified to write articles. Wikipedia (2001) was a side project. Only the programmers, designers, innovators of the Computer Age knew mass-collaboration was the way of the future.
 
 Everyone else didn't realize that with new technological age, comes a modern philosophy as well. The first sign of a problem with Nupedia was that the professors didn't like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000, which most professors loved to belittle as rubbish. Professors even used the Death Star and disallowed students from referencing Wikipedia's materials in their school work. Yet professors refused to improve, or to assign students to improve, Wikipedia. The professors continued their antagonism and performed dark majic. They tried, and still try, to convince people to not use Wikipedia. They'd prefer students pay to compete to get published in "elite" academic journals. A student pressing "edit now" is offensive to elitist professors.
 
@@ -803,17 +803,42 @@ That's the story of Wikipedia. Invented by protagonists, established as the stan
 
 ![Wikipedia development](/img\diagrams\techvolution-enclyclopedia-book-wiki.png)
 
-## We've Won a Battle, Now Here's How We Win the War
+## Death Star Goes Ka Boom
 
-So Stargazer, that's how we won a battle in the fight for the Computer Age. It's a battle that made me, and everyone else who write and read Wikipedia happy. Because evolving humanity puts smiles on our faces. The frequent excuses and rules in the way of evolution are made by those who benefit from old tools. They perform dark majic, or use the Death Star, to keep themselves in power. But evolution eventually wins out.
+Main Street are the frontline. The ones feeling the pain evolution is supposed to solve. We flocked to Wikipedia because it solved frontline problems faster. Society's rulebook got in the way. The formal education industry ignored and in some ways suppressed an open and free enclyclopedia. Despite being given billions in subsidies and being charged with educating society, the industry became antagonists of the Computer Age.
 
-Wikipedia was a big victory. But there's so much more to do. Imagine when Main Street uses digital tools and mass collaboration to solve our agonizing commutes, confusing loan contracts, super-expensive education, rising home energy bills. Stargazer, that's a war you must jump into with lightsabers a-blazin', dicing up old evil storm-trooping tools, to supercharge humanity into the Computer Age.
+To continue upgrading education to the Computer Age, Main Street needs to keep going. Industrial Age tools are so expensive they're dragging us into miserale lives. Student debt in America is estimated to be $1.5 trillion. Wikipedia's yearly budget is $65 million. We need to keep suporting the protagonists who will keeping inventing more and better Wikipedias like Skillshare, Brilliant, Khan Academy, Master Class. Because there is a Death Star in their way. And it was player gods who blew it up.
+
+Player gods have the political power. That's the point of Techvolution. Extras march and complain. Player gods act and control. When player gods ignore the antagonists, we blow up his Death Star!
+
+We even blew up Darth Blockbuster and his Death Star of anti-piracy rules, legislation, and lawsuits against the middle-class. The same people who bought billions of DVDs were suddenly thieves in teh eyes of Indsutrial Age antagonists. The industry, filled with self-congratulatory and splend banquets and awards shows, bad movies, empty theatres, tax-cheats, sexual predators was calling Main Street the bad guys.
+
+No. The middle-class are rational beings who feel the pain of everyday life. We search for better tools that evolve humanity. Once Netflix (2005) gave the public internet streaming at a fair price, and made good stories again, the frontline stepped up. Look at the graph below. You'll see the Industrial Age transforming into the Computer Age. A huge victory in the game of civilization. That's the happy changes player gods and Techvolution can do.
+
+    <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script>
+    <script type="text/javascript">
+      trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Torrent","geo":"US","time":"2004-01-01 2018-11-04"},{"keyword":"Netflix","geo":"US","time":"2004-01-01 2018-11-04"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=Torrent,Netflix&hl=en-US","guestPath":"https://trends.google.com:443/trends/embed/"});
+    </script>
+
+During this transformation, I was one of the smucks working for minimum wage at the movie theate, and buying DVDs when I could afford them. Like most of Main Street, I got dozens collecting dust somewhere. Darth Blockbuster was of course telling us all DVDs were better than streaming. I wonder, do you think Darth Blockbuster will buy them back from us? Like Sophia, following the rules means little to in the face of the rules of evolution.
+
+Now Bittorents aren't dead. While most people don't bother with torrent sites anymore—because Netflix is so much easier—civilization holds torrents in reserve. They're there to check and balance the economy in the Computer Age, to be sure Main Street isn't taken advantage of. That's the motivation for this insightful GIF here.
+
+![Battle Scene](/img\diagrams\techvolution-battle.png)
+
+So the middle-class can destroy the Death Star. But the question isn't just blowing up the few attacking online education and entertainment. To bring on the era of mass-collaboration in the Computer Age, we need to transform our entire society. And that takes a bit more work.
+
+## We've Blown Up One Death Star, Now Here's How We Win the War
+
+So Stargazer, that's how we won a few battles in the fight for the Computer Age. It's a battle that made me, and everyone else who write and read Wikipedia, and watch Netflix, happy. Because evolving humanity puts smiles on our faces. The frequent excuses and rules in the way of evolution are made by those who benefit from old tools. They perform dark majic, or use the Death Star, to keep themselves in power. But evolution eventually wins out.
+
+Wikipedia and Netflix were big victories. But there's so much more to do. Imagine when Main Street uses digital tools and mass-collaboration to solve our agonizing commutes, confusing loan contracts, rising home energy bills. Stargazer, that's a war you must jump into with lightsabers a-blazin', dicing up old evil storm-trooping tools, to supercharge humanity into the Computer Age.
 
 Note, our lives cut across thousands to millions of problems. Thus, our villains are not in a massive group like "the rich" or the "the unions" as old philosophies label. Our villains reveal themselves inside thousands of companies, institutions, and organizations of the Industrial Age who fight to keep their version of the Encyclopedia Britannica or DVD alive.
 
 This is the entire class of middle-men, consultants, managers, and executives who don't know the skills of their industry like nursing, teaching, and (definitely not) cleaning. Their power is to manage the gates of an Industrial Age technology. And to keep us competing to be included in their corporate ladder.
 
-Together, protagonists and extras can overcome these Darth Blockbusters to bring on the Computer Age. I know this is possible because history has proven it. Our struggle to upgrade our civilization was fought generations ago with Darth Blockbuster's master: Darth King.
+Together, protagonists and extras can overcome these Darth Blockbusters and their Death Stars to bring on the Computer Age. I know this is possible because history has proven it. Our struggle to upgrade our civilization was fought generations ago with Darth Blockbuster's master: Darth King.
 
 Darth King ruled atop a huge hierarchy. He lived inside palaces, using society's money to host splendid banquets and balls. His absolute power was hidden inside the Medieval Age's ruling philosophy of the nobility's "divine right to rule". The royal Death Star had the power of life and death in its hands.
 
@@ -899,7 +924,7 @@ Rousseau noticed society has these classic, art, and spectacle stories, and that
 
 We're already technically in the Computer Age. A quite glance at your smartphone shows that. Our society is in trouble because we're stuck inside the outdated red/blue, mass-production, philosophy of the Industrial Age. Antagonists keep themselves alive byway of a Death Star rulebook and dark majic.
 
-We know that the embracing the majic of new tools is our best defense against the Death Star. However, how do we fight back against dark majic? To be attracted to majical new tools, we need to avoid the distraction of spectacular old ones. Only when we do, will we stop being extras and become player gods inside the era of mass collaboration of the Computer Age.
+We know that the embracing the majic of new tools is our best defense against the Death Star. However, how do we fight back against dark majic? To be attracted to majical new tools, we need to avoid the distraction of spectacular old ones. Only when we do, will we stop being extras and become player gods inside the era of mass-collaboration of the Computer Age.
 
 It's really hard to live inside spectacle and see through it. The mass marketing of the Super Bowl as a national holiday, the glamour of luxurious cars you don't need, the self-gratification of a title like "executive vice president", is called dark majic for a good reason. The best example seeing through all this bullshit is the movie The Matrix.
 
@@ -1017,7 +1042,7 @@ That should both worry you and make you happy, Stargazer. First the worrying par
 
 Since, entering the Computer Age, dark majic has skyrocketed. The once humble American Dream to own a home and make a honest living, became a lifestyle of spectacle. Small homes became McMansions with luxury baths and kitches. Cars got bigger, with more chrome, more horsepower. Televisions increased in size to ludicrious proportions. Food got supersized. Sugar was added to everything we eat. Instead of using digital technology to improve life on Earth, technology was used to make a matrix of dark majic that survived by increasing diabetes, laziness, and greed. All because Darth Oil, Telephone, Suburbs, Sugar needed to distract the people from making a new player god to upgrade, and enjoy the freedom, self-sufficiency, and collaboration of the Computer Age.
 
-The good news is, where not at a "let's burn down society" point yet. We can transition to the Computer Age ourselves before the frontline gets so bad and so ununhappy we stat a revolution. We can usher in the era of mass collaboration ourselves.
+The good news is, where not at a "let's burn down society" point yet. We can transition to the Computer Age ourselves before the frontline gets so bad and so ununhappy we stat a revolution. We can usher in the era of mass-collaboration ourselves.
 
 https://www.youtube.com/watch?v=A25EUhZGBws
 _This is a clip from The Big Short. About the Housing Crisis in 2008. This guy is our modern day Antagonist Executive. You're not supposed to understand the economic rationale of CDOs that makes him super wealthy, because there is none. Like the divine rights of nobility, it's just the justification of a self-important hero. By the way, the 2008 economic risis was always going to happen. A world of dark majic spectacle, like McMansions, only lasts so long. And our economy will only get worst until we upgrade to the Computer Age via Techvolution._
@@ -1026,7 +1051,7 @@ _This is a clip from The Big Short. About the Housing Crisis in 2008. This guy i
 
 ## Evolution Doesn't Happen Without Fighting - Main street Has to Act
 
-Do you think red/blue philosophy old and played out? Is cable news valuable or useless? Do you live in the Matrix to keep the powers of the Industrial Age alive? Can we live happy lives inside the era of mass collaboration if we embrace Techvolution and leap into the Computer Age? Do you seek to destroy the Death Star one again?
+Do you believe in Techvolution? Do you think red/blue philosophy old and played out? Is cable news valuable or useless? Do you live in the Matrix to keep the powers of the Industrial Age alive? Can we live happy lives inside the era of mass-collaboration if we embrace Techvolution and leap into the Computer Age? Do you seek to destroy the Death Star one again?
 
 You are the hero of civilization Stargazer. These are the questions history is asking you. To help you answer them, here are two stories—one about an antagonist, the other a protagonist. The first is about King Charles I, who ruled England from 1625-1649. Remember the Thirty Years War, when Main Street was tearing itself apart in the name of Protestant and Catholic kings. Well, adding to that anarchy was King Charles. He led England into a civil war to defend his self-image of being a god on Earth. His story teaches us about ours, and should help you answer the questions history is asking you decide.
 
@@ -1121,7 +1146,7 @@ Years later, Baran's network was built when the US government's Advanced Researc
 
 The majic of the internet attracts us all. We use laptops, smartphones, iMessage, Facetime, Reddit, and so many other internet services. We evolve our cyborgology everytime we use a new online tool. Yet, we also don't appreciate how much our tools change our mentality. Free speech, the right to vote, love of scientific truth, all came once we held their corresponding tools. The majic of learning new tools also gives us a new philosophy. We don't realize it until a Douglas, Rousseau or Neo explain the new philosophy to us.
 
-The internet was created to survive a nuclear bomb. Think of how powerful it must be. No one can control it. No professor, executive, president, or king can shut it down. An individual has the exact same access as any corporation or government. The internet lets individuals communicate, work, and collaborate together with no middlemen. That's why the internet is majical. Whoever uses it, is automatically evolved. You already believe in Techvolution. You're already empowered to live inside the Computer Age's era of mass collaboration. But only when you realize it.
+The internet was created to survive a nuclear bomb. Think of how powerful it must be. No one can control it. No professor, executive, president, or king can shut it down. An individual has the exact same access as any corporation or government. The internet lets individuals communicate, work, and collaborate together with no middlemen. That's why the internet is majical. Whoever uses it, is automatically evolved. You already believe in Techvolution. You're already empowered to live inside the Computer Age's era of mass-collaboration. But only when you realize it.
 
 _Paul Baran's story was adapted from Walter Isaacson's awesome book_ The Innovators: Chapter 7.
 
@@ -1133,7 +1158,7 @@ Darth Blockbuster stands in Techvolution's way. He uses dark majic to keep you u
 
 We're in a dilemma, much like Darth King, Darth Blockbuster doesn't hate us. He's stuck in the Matrix. Or better put, he's stuck inside the old red/blue philosophy of the Industrial Age. Darth Blockbuster is an unknowing antagonist of the future. It's kind of tragic if you think about it. He'll never see his error. It's almost like Nature made him so blind, so the people on the frontline have to look for a new and better way to live.
 
-That's why I'm not writing to "The Executive." I'm writing to you Stargazer. All you have to do, is see the Matrix that makes you an extra of the Industrial Age. If you use, promote, and fight for Techvolution, an unhappy life inside the heavy management and competition of the era of mass production will end. You'll finally enjoy all the benefits of the Computer Age and its facilitation of mass collaboration.
+That's why I'm not writing to "The Executive." I'm writing to you Stargazer. All you have to do, is see the Matrix that makes you an extra of the Industrial Age. If you use, promote, and fight for Techvolution, an unhappy life inside the heavy management and competition of the era of mass production will end. You'll finally enjoy all the benefits of the Computer Age and its facilitation of mass-collaboration.
 
 ILLUSTRATION
 
@@ -1382,7 +1407,7 @@ So when I asked who will you be Stargazer. You can answer that yourself for now.
 
 I tried to make Techvolution very readable. Almost all the topics and subjects are metaphors for the lessons Europe learned going from the Dark Ages, through the Medieval Ages, to the Science Age, Enlightenment Age, and finally the Industrial Age. So there was a lot of stuff to fit it. By keeping things simple, I was forced to better understand the content.
 
-We really are headed towards societal failure, a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosis using our history. Every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god. Unless we create a player god in an era of mass collaborationone soon, we wont stay ahead of our problems and people will fight for a better life using the philosophy of the past; just like our ancestors used Catholicism and Protestantism for no good end. Evolution needs constant modernization of technology and philosophy.
+We really are headed towards societal failure, a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosis using our history. Every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god. Unless we create a player god in an era of mass-collaborationone soon, we wont stay ahead of our problems and people will fight for a better life using the philosophy of the past; just like our ancestors used Catholicism and Protestantism for no good end. Evolution needs constant modernization of technology and philosophy.
 
 If I could travel back in time to those unhappy Europeans on Main Street in 1618, I'd say the same thing to them I told you. But they wouldn't believe it because I'd be talking about the future. With you it's been the past. There's a better chance it'll all click.
 
