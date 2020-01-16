@@ -1975,3 +1975,7 @@ And then it happened. The people were empowered. Because wouldn't you know it, t
 ## The End
 
 Donald Trump is the savior of Western Civilization. Not because of his policies. Not because he makes you happy or angry. Some are good and some are bad. He's correct America sold itself since the 1970s. He's right to favour American manufacturing. He's wrong to mock climate change. He should use climate change as a way to modernize American manufacturing and lifestyle and make each much more self-sufficient. He's wrong to be vicious in his attacks against the Industrial Age media. He should ignore them completely and engage with Main Street directly. But none of that, or anything else, actually matters.
+
+## First World Problems
+
+"First world problems" is a funny way of saying we indulge our pettiness. But we do have problems, the biggest is taking our first world civilization for granted.
