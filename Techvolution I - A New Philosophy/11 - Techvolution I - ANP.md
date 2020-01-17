@@ -39,9 +39,9 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the reader
 
-The middle-class needs to step up. Much of Main Street already is. Millions of creators are already making honest product reviews, instruction videos, history lessons. I insert their YouTube, Vimeo, GIF, and other media throughout this book. It was the best way to to showcase how relevant it is. While I want to help creators and their audiences realize how historic their work is, of course, all credit for the videos goes to the them.
+I used many videos and images throughout this book. They help explain information faster so why not. I especially used them because they're a window into how the world is transforming. Millions of creators are already using modern technology to make honest product reviews, instruction videos, history lessons, and more. While I want to help creators and their audiences realize how historic their work is, of course, all credit for the media goes to them.
 
-Also, I use Star Wars, Star Trek, and other pop culture references to help explain some topics. If you're not a fan, don't worry too much. If were in Ancient Greece, I'd reference Zeus and Apollo.
+Also, I use Star Wars, Star Trek, and other pop culture references. If you're not a fan, don't worry too much. If we were in Ancient Greece, I'd reference Greek Mythology. If it was Victorian Britain; Shakespeare. Using common stories is just a way to explain topics than would otherwise be pretty dry.
 
 # Introduction
 
@@ -537,7 +537,7 @@ Typically, we underappreciate how cool it is to learn new tools. But every time 
 
 Techvolution is the ruling philosophy that encourages extras to "majically" bond with any tool they want so they can solve frontline problems as player gods. Yet what do we do when the Death Star says it's wrong?
 
-**Majic**: The natural inclination of a person to learn, use, and hold new tools to increase their natural abilities. Majic inspires people to evolve humanity and solve frontline problems.
+**Majic**: The natural inclination of a person to learn, use, and hold new tools to increase their natural abilities. Majic inspires people to become player gods who evolve humanity and solve frontline problems. A majician teaches people their potential.
 
 ![old philosophy in a new world](/img\sketches\darwins-finches.jpg)
 _Charles Darwin discovered evolution. He visited an island chain, where each island had a different climate. Darwin noticed the same bird was slightly different on each island. He then saw each's beak was adapted to eat bugs, seeds, or nuts. Darwin called his discovery evolution. Humanity mimics evolution by inventing and using new tools. Since we can drop and pick up tools, we can evolve so much faster than other lifeforms. It's majic that gets us learning new tools._
@@ -641,65 +641,73 @@ It's a lesson for us to take in when we're stuck in traffic, getting the gears f
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PopularImpressiveAdeliepenguin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_The joy of majic. This YouTuber learns new skills then posts videos of his experience. Look how happy he is once he finally does it. We're unhappy today because our workplaces still think it's the Industrial Age. In the Computer Age we all should be learning new tools to improve things on the frontline in an era of mass-collaboration. If someone holds back majic at work, it's a good sign they're the ones with the problem._
+_The joy of majic. This YouTuber learns new skills then posts videos of his experience. Look how happy he is once he finally does it. We're unhappy today because our workplaces still treat employees like dones in Industrial Age's era of mass-production. In the Computer Age we all should be learning new tools to improve things on the frontline in an era of mass-collaboration. If someone holds back majic at work, it's a good sign they're the ones with the problem._
 
 ## Now We Know the Difference Between Good and Bad, It's Time to Use It
 
-Stargazer, you're not Frederick Douglass. You're not enslaved. You're not beaten. But that doesn't mean we should be happy with our lives any more than Douglass should have been content with his personal freedom. Our society needs player gods to solve today's problems. So you have the same job as Douglass had. That means you have to follow majic, become a player god, and evolve humanity past Darth Blockbuster and into the Computer Age.
+Stargazer, you're not Frederick Douglass. You're not enslaved. You're not beaten. But that doesn't mean we should be happy with our lives any more than Douglass should have been content with his personal freedom. Our society needs player gods to solve today's problems. So you have the same job Douglass did. That means you have to follow majic, become a player god, and evolve humanity past Darth Blockbuster and into the Computer Age.
 
-Thankfully, we've already been doing it. We've defeated the Death Star many times already. Once we understand how it's done, and repeat it lots of times, we'll be that much closer to winning the war, and upgrading to the Computer Age.
+One big problem arises. Sometimes we feel the wrong majic, and therefore don't see, nevermind fight, Darth Blockbuster and his Death Star. Both are concealed when our love of new and interesting technology is co-opted by a very unnnatural, and anti-evolutionary force. One I call dark majic.
 
-<!-- The above has been pretty direct. This section below was the precuror to adding Ages, and thus now seems out of place. can't erase, but must adapt it. -->
+## Dark Majic Hides the Death Star
 
-## Because We Know the Difference Between Majic and Rules, We Can Adapt Faster
+In Nature there are continual adaptations of existing lifeforms, and then sometimes entirely new lifeforms. In Techvolution, this is the difference between upgraded technology and an entirely new tool.
 
-We've upgraded from one age to the next many times. There is a trend in the transformation. It follows biological evolution, where there are continual adaptations of existing lifeforms, and then sometimes entirely new lifeforms. Likewise, in Techvolution, this is the difference between upgraded technology and an entirely new tool.
+Upgrading a technology, such as going from sedans to SUVs, VHS to DVD's, tube TV's to LCD's, is a small change. Each product is different technologically, but they do the same job. Users are the same cyborgs. No new political battles are started with new technology. The Death Star isn't fired up so to speak.
 
-Upgrading a technology, such as going from sedans to SUVs, VHS to DVD's, tube TV's to LCD's, is an iterative change. Each product is different technologically, but they do the same job, so no new majic is needed to attract users. As a result, there are no political battles with any antagonists.
-
-But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and Wi-Fi, a genius can unlock a new tool like smartphones. And this requires new skills to learn, thus new majic to attract people to learn the new device, and this is a big deal.
+But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and Wi-Fi, a protagonist can unlock a new tool; like smartphones. New tools solves problems in a new way. And this is a big deal.
 
 ![New Tool Creation](/img\diagrams\techvolution-new-tool-creation-pc-s.png)
 _New technology is continually invented. When enough separate technology is invented, a new tools is created._
 
-Because creating a new tool asks a climactic and political question: who controls it? After all, whoever does is more powerful. The wielder of the new tool can let people connect with it to solve their problems. Or withhold it and force or convince people to keep using old tools. Like muscle cars trying to keep customers away from Tesla with techniques like mass advertising, fancy auto shows, and spectacular chromes plated V8 power! Because of how anti-evolutionary these techniques are, I call them "dark majic."
+Because new tools prompt a question: who controls it? After all, whoever does is more powerful. While the story of civilization is the struggle to overcome problems by upgrading technology and inventing new tools, politics is about the battle to control them. The people with the old tool fight to retain their power. While the inventors and innovators imagine a new society that shares it.
 
-Thus, while the story of civilization is the struggle to overcome problems by upgrading technology and inventing new tools, it's also about the battle to control them. Unfortunately, the people with the old tool fight to retain their power. At the same time, inventors and innovators imagine a new society that shares it.
+Darth Blockbuster is ready to use society's rulebook to suppress new tools. But lawsuits, firings, lobbying, and other techniques take time and money. It's better for the antagnoists if Main Street's love of majic is misdirected for a love of old technology. Like muscle cars trying to keep customers away from Tesla with techniques like mass advertising, fancy auto shows, and spectacular chromes plated V8 power! I call these anti-evolution techniques "dark majic."
 
-Today the people lack self-awareness. Too many are extras watching the battle. When they step up, they become player gods who decide what society will do. I'll show you Stargazer how important you are. Not too long ago, you implemented a new tool just by being curious and loving majic.
+In addition to the Death Star of corporate manuals, regulations, government red-tape that drive Main Street bonkers today. Darth Blockbuster also has dark. Dark majic is the pomp, pagantry, and spectacle that surrounds today's Industrial Age tools, like insurance advertisements, car commercials, auto shows, credit car rewards. This fake majic is a more insidious technique to prevent upgrades. It gives people the joy of learning about old technology, but is considered safe. But it doesn't threaten the antagonists.
 
-**Dark Majic**: Methods and techniques to keep a person using a tool for the benefit of the tool's controller and not the user. dark majic
+**Dark majic**: Methods and techniques to keep a person using an old tool. Dark majic gives regular people a fake sense of joy and accomplisment, so they don't become player gods. A dark majician tricks people into being extras.
 
 ## Dark Majic by Darth Blockbuster
 
-I've processed over 10,000 car accident insurance claims. Things get emotional in insurance. People just want to get back to normal. Drivers call a call center, adjusters ask them questions to get them back on the road. When I'd ask customers their car's color, I'd often hear something like "it's blazing blue". I'd play around and ask "you sure it wasn't stunning blue?" The customer would replay "No, it's blazing".
+I've processed about 10,000 car accident insurance claims. Drivers call a call center, adjusters (me) ask them questions to get them back on the road. When I'd ask customers their car's color, I'd often hear something like "it's moonshine blue". I'd play around and ask "you sure it wasn't sunrise blue?" The customer would replay "No, it's the moonshine."
 
-When I'd ask what the other car's color was, I'd usually hear "I have no idea." It was a pain because my job was to get this information. But customers usually didn't remember the other persons make, model, even if it was a sedan or SUV. When a driver hit a horse, they'd remember what they hit, but a car? They're all so similar few stand out. But we think ours is special. And that's dark majic.
+A chuckle would turn into amazement when I'd ask what the other car's color was. I'd almost always be told "I have no idea." It was a pain because my job was to get this information. But even though they'd were just in a car accident, customers usually didn't remember a thing about the other car. I mean nothing. Not the make, model, color, not even if it was a sedan or SUV. When a driver hit a horse, they'd remember what they hit, but a car? Usually I'd input "unknown" and move on.
 
-Because to civilization, what makes a car stand out is it's reliability, how well a mechanic maintains it, how good your dealer treated you. The frills don't really matter. You're the same cyborg with almost any car. Driver's admitted as much, because what they wanted most of all was a rental car. Fancy features and made up colors didn't matter; they just needed to get around, and get on with their lives.
+We think our vehicles are unique and special. It's not a car, it's "The original Sports Activity Vehicle®: a fearless leader and stylish benchmark. A BMW x5Drive50i, with Phytonic Blue Metallic paint". I'm not kidding. People would talk like that, while not know a thing about the other car.
 
-Industrial Age industries use dark majic to keep their customers attached. The movie industry does it today too. In the 1930s and 40s, master storytellers like Samual Goldwyn, David O. Selnick, Irving Thalberg used projector, sound, and film technology to make movies a worldwide sensation. Like Steve Jobs created the world of apps that has us fixated on our phones, these guys created a world of stories that glued people to their theatre seats.
+And that's dark majic.
 
-Over the next decades things changed. Television came in 1948, which hurt movie theatres. Worst, was the government (foolishly) made a rule banning studios from owning, or even collaborating with, movie theatres, which broke up the studio system that worked so well. By the 1970s the movies were hurting. They added color, widescreen, 3D to theatres but it didn't help. It was good movies like Jaws (1975) and Star Wars (1977) that brought some people back to the theatre.
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/DarkPopularBandicoot' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/darkpopularbandicoot"></a></p>
 
-By this time the movies weren't run by master storytellers but businessman obsessed with mass-production. The industry lost it's ability to tell original stories. Instead they made sequels, remakes, and franchises. Each new release had to use more rauchiness, special effects, and celebrities, to attract attention. The magic of the movies became the dark majic of the movies. Movie attendence didn't rise—theatres chains often went bankrupt—but studios didn't care. They made money outside of theatres.
+_Professional driver on a closed course. And still a gas car, with four wheels._
 
-Studios get 90% of ticket revenue on a movies first weekend, 80% on second and so on. So studios overhype their movies to jam into the audience early on. That's why popcorn costs so much, theatres are tying to keep the lights on. The movie studios, and movie theaters worked against each other by over-charging their shared customers. It got worse when the public flocked to VHS, and rushed to rent from Blockbuster. Now studio's only used theatres to hype up their more profitable rental business.
+The truth is cars are all so similar, few stand out. Because to civilization, what makes a car special is it's reliability, how well a mechanic maintains it, how good your dealer treated you. The frills are interesting, enjoyable, but in the end don't really matter. You're the same cyborg with almost any car. Driver's admitted as much, because after an accident, what they wanted most of all was a rental car. Fancy features and made up colors didn't matter; they just needed to get around, and get on with their lives. Dark majic makes us think we're participating in the game of civlization as important player gods, but we're really just distracted extras.
 
-When the DVD and flatscreen televisions came (1999), the industry was gleeful. Every consumer wanted a home theatre, and bought billions of DVDs. And here was the sweet spot of the Industrial Age powers. They got to use computers to lower their labour, production, and distribution costs, while still charging their customers Industrial Age prices for movie tickets and DVDs.
+Industrial Age industries use dark majic to keep their customers attached to an aging product. The movie industry uses much dark majic today. In the 1930s and 40s, master storytellers like Samual Goldwyn, David O. Selnick, Irving Thalberg used projector, sound, and film technology to make movies a worldwide sensation. Like Steve Jobs created the world of apps that has us fixated on our phones, early Hollywood's studio system created a world of stories that glued people to their theatre seats.
 
-Because the DVD was a physical product, customers were still dependent. People still had to drive to Blockbuster to buy or rent an expensive DVD. Of course it wasn't long before hi-speed internet (2004) came to Main Street. Home internet streaming was now possible. Finally, the frontline could benefit from the Computer Age.
+Over the next decades things changed. Television came in 1948, which hurt movie theatres. Worst, was the government (foolishly) made a rule banning studios from owning, or even collaborating with, movie theatres, which broke up the studio system that worked so well. By the 1970s the movie industry was hurting. It was good movies like The Godfather (1972), Jaws (1975), Star Wars (1977) that brought some people back to the theatre.
 
-What do you think happened next? Scratch that, we know what happened next. I was an movie theatre usher/projectionist at this time so saw it all first hand. Most movies stunk. Theatres were over-priced and often empty. The industry gave themselve lavish paychecks, banquets, and award shows, all paid for by DVD profits. But the DVD was going to soon die; it was no comparison to home streaming. The businessman of Blockbuster and the movie industry didn't care.
+By this time the movies were no longer run by master storytellers but by businessman obsessed with mass-production. The industry lost it's ability to tell original stories. Instead, they made sequels, remakes, and franchises. Each new release had to use more rauchiness, special effects, and celebrities to attract attention. Movie attendence didn't rise in the 1980s and 90s—jacked up popcorn prices weren't enough, theatres chains often went bankrupt—but studios didn't care. They made money outside the theatre.
 
-Insteads, they doubledowned on the DVD. So arrogant were they, they actually made two different versions, HD-DVD and Blu-Ray (2006). When the public rejected both in favour of internet streaming byway of BitTorrent sites, the movie industry made a Death Star. They wrote rules, put FBI warnings on their products, lobbyied government for harsh punishments, and demanded the public feel ashamed for not buying DVDs anymore. They even used their Death Star; customers were sued, threats of lawsutis were mailed out. The industry called their own customers disloyal thieves.
+Because the public rushed to rent VHS tapes from Blockbuster. Studio's used theatres even more to hype up the growing rental business. When the DVD and flatscreen televisions came (1999), the industry was gleeful. As the public crazed over home theatres, the public bought billions of DVDs; they loved watching their favorite stories at home.
 
-A decade before the music industry was in the same spot. Record stores and CD sales died when customers got the internet and flocked to BitTorrent sites like Napster. Music executives tried, and failed miserably, to make their own online music platform. When Steve Jobs made iTunes to help save the music industry, he said he'd "never spent so much of my time trying to convince people [music executives] to do the right thing for themselves". Eventually Jobs got them on board. Of course iTunes was very well received by the public.
+Fundamentally speaking, movie theatres and home theatres, were technologically the same. The customer still need to drive to a physical product, be it a film reel or DVD. And here was the sweet spot of the Industrial Age powers. The industry could use digital technology to lower the costs of mass-production, while still charging premium prices. Why would they adopt more convienent distribution, or tell better stories?
 
-But the movie industry rejected that lesson. They used the Death Star instead. Being a bully is the easier choice when new technology benefits Main Street at the expense of a heirarchy. But before we find out who won, DVDs or internet streaming (I know you know the answer, but indulge me), let's take a short break before facing down Darth Blockbuster's Death Star.
+No reason, except when hi-speed internet (2004) finally came to Main Street; home internet streaming was now possible. True to form, a new tool asked a huge political question, who controls it?
+
+I was a theatre usher/projectionist at this time and saw it all first hand. Most movies stunk: comedies, tradegies, dramas, suspense, usually fell flat. Theatres were over-priced and often empty. The industry didn't care. They gave themselves lavish paychecks, banquets, and award shows. Any consideration of the upgrading their customers to the Computer Age was non-existant.
+
+So no, they wouldn't throw away the DVD. Instead, they doubledowned on it. Twice! They made HD-DVD and Blu-Ray (2006). The increased the dark majic of marketing, DVD packaging, and celebrity featurettes. The heck with internet streaming! But then protagonists stepped up. Unknown and unpaid technologists created BitTorrent sites, that although filled with computer viruses, bad picture quality, and poorly designed user interfaces, gave regular people movies on the internet. Here, the built up dark majic of an old tool, faced off against the majic of a new one.
+
+A decade before the music industry was in the same spot. Record stores and CD sales died when customers got the internet and flocked to torrent sites like Napster. Music executives tried—and failed miserably—to make their own online music platform. When Steve Jobs made iTunes to help save the music industry, he said he'd "never spent so much of my time trying to convince people [music executives] to do the right thing for themselves". Eventually Jobs got them on board, and the iPod, iTunes, and AppleMusic is of course history.
+
+But the movie industry rejected that lesson. When dark majic didn't work, the industry fired up the Death Star. The same public who bought billions of dollars on DVDs and merchanise. That created fan clubs, and attended movie conventions, was declared evil. The industry FBI warnings on their products, lobbyied government for harsh punishments, and demanded the public feel ashamed for not buying DVDs anymore. Customers were sued, threats of lawsutis were mailed out. The industry called their own customers disloyal thieves.
+
+And here was born Darth Blockbuster. He was actively and knowingly preventing human evolution for the sake of his self-interest. Before we find if the villian could save the DVD and keep away internet streaming (I know you know the answer, but indulge me), let's take a short break.
 
 ![New Tool Creation](/img\sketches\frontline-movies-full.jpg)
-_Most movies stink, most theatres are dead. That's you Stargazer, looking at the frontline after removing the dark magic mask that had you watching pointless movie award shows._
+_Most movies stink, most theatres are dead. That's you Stargazer, looking at the frontline after removing the dark majic mask that had you watching pompeous award shows._
 
 # Intermission
 
@@ -707,9 +715,9 @@ Let's consider some things during our short rest.
 
 ## Old Philosophy vs. New Philosophy
 
-Techvolution is a philosophy book. It says human evolves with technology in ages, and that every new age requires a new philosophy. Since the frontline feels the pain of regular life, we are thus responsible for updating society's ruling philosophy. We do so by supporting the innovators at the expense of the nobles. I don't directly reference past ruling philosophies. Like any topic it takes some practice to read. However, let's take a peek and appreciate the strong beliefs of past protagonists and antagonists.
+Techvolution is a philosophy book. One that enables seamless human technological evolution by turning extras into players gods who have the right and duty to decide when society should upgrade our tools. I don't reference past philosophies though. Like any topic it takes some practice to read. However, let's take a peek and appreciate the strong beliefs of past protagonists and antagonists.
 
-Below are two snippets from Robert Filmer and Thomas Paine. The passages will help explain how someone can think themselves so right, when history proves them so wrong. I won't comment on either passage. Just know when a philosophy clicks, it makes people into its followers, and both these writers motivated generations of followers to fight to the death.
+Below are two snippets from Robert Filmer and Thomas Paine. The passages will help explain how an antagonist can think themselves so right, when history proves them so wrong. I won't comment on either passage. Just know when a philosophy clicks, it makes people into its followers. Both of these writers motivated generations of followers to fight to the death.
 
 ===
 
@@ -736,13 +744,15 @@ https://www.ushistory.org/Paine/crisis/c-01.htm
 
 ===
 
-The belief in nobles divine rights wasn't simple selfishness. A lot of smart people wrote philosophy to justify one person having absolute power. The rules that kept royalty in power didn't call themselves a Death Star. The royal rulebook was based in philosophy.
+The belief in nobles divine rights wasn't simple selfishness. A lot of smart people wrote philosophy to justify one person having absolute power. The rules that kept royalty in power didn't call themselves a Death Star. The royal rulebook was based in a respected philosophy.
 
 Today, the rules that make our products hard to repair, tell us to wait on hold, have us sign confusing contracts, is our rulebook. While all these rules exist to keep us in the Industrial Age—they aren't arbitrary rules. They come from Industrial Age philosophy. Something to remember as we push the middle-class into the Computer Age. The antagonists feel justified using their Death Star.
 
 ## The Era of mass-collaboration Is Already Here
 
-The era of mass-collaboration is here and growing. I included some examples below. Not only should you take a minute to contribute some of your time. You should sit back and realize what you're doing. Because with no managers, consultants, and timesheets, you can help advance humanity with nothing but a laptop, the internet, and you. One day soon, you're job will likewise require so little travel, stress, and time. And no, you won't lose your job. It's the head-office types, the HR reps, the eight different bosses, the people with no frontline skills, who are unneeded in the era of mass-collaboration. That's why the fear the Computer Age so much.
+The era of mass-collaboration is here and growing. I included some examples of collaboration projects below. You can contribute to any of them. Not only should you take a minute to contribute, you should sit back and realize what you're doing. Because with no managers, consultants, and timesheets, you can help advance humanity with nothing but a laptop, the internet, and you.
+
+One day soon, you're job will likewise require so little travel, stress, and time. And no, you won't lose your job. It's the head-office types, the HR reps, the eight different bosses, the people with no frontline skills, who are unneeded in the era of mass-collaboration. That's why the fear the Computer Age so much.
 
 Galaxy Zoo: https://www.zooniverse.org : The univerise is amazing. Our telescopes are collecting massive amounts of data about it. Astronomers can't look through it all. So they're asking for help. Right now, you can go onto Zooiverse and help astronomers classify stars and galaxies. You might even be the first to discover something new.
 
@@ -762,24 +772,32 @@ Say you just moved into a new townhouse and want work on your backyard. You shop
 
 We will always have homes, furniture, renovations etc. The question is, when making our purchases, do we consider the big picture—that our choices matter? Today, if we decide to put in native flowering bushes, we help out our hurting bee population. If we buy American made, that means our stuff uses greener manufacturing processes and no slave labour. If we install Tesla Solar Roofs, we're helping combat climate change and earn American energy independence.
 
-If we make these decisions, we're attracted to the majic of new technologies, and become player gods. If we care about trendy looks, brand names, and pretending to live inside Marth Stewart Living, then we're being an extra, whose attracted by dark majic. The former is good, the later bad for our civilization. All told, from the top down, working on our backyards really is as simply as this gameplay from the city-builder _Cities: Skylines_.
+If we make these decisions, we're attracted to the majic of new technologies, and become player gods. If we care about trendy looks, brand names, and pretending to live inside Marth Stewart Living, then we're being an extra, attracted by dark majic. The former is good, the later bad for our civilization. All told, from the top down, working on our backyards really is as simply as this gameplay from the city-builder _Cities: Skylines_.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ClassicSecretKarakul' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-The question is for you today, what rules you told to follow? Labour laws, work contracts, insurance requirements, product warranties, city by-laws, and so on. Do these various rules promote good decisions or bad?
+The question is for you today, what rules do you work under? What labour laws, work contracts, insurance requirements, product warranties, city by-laws, and so on. Do these various rules promote good decisions or bad?
 
-Enter Darth Blockbuster. He wants to keep us using his generic Woodstock of 1969 tools. When dark majic fails, he uses society's rulebook to keep the Computer Age far far away. Thus even when player gods choose to buy solar power roofs, start a 3D printing business in the backyard, install a Hydroloop water resuser in their garage, today's rulebook often gets in the way. Do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? What are your local tree by-laws, construction codes, labour regulations, tax laws. Do you live under threat of making a mistake, and being hit by a Death Star code violation, lawsuit, or audit?
+Enter Darth Blockbuster. He wants to keep us using his mass-produced tools. When dark majic fails, he uses society's rulebook to keep the Computer Age far far away. Thus even when player gods choose to buy solar power roofs, start a 3D printing business in the backyard, install a Hydroloop water resuser in their garage, today's rulebook often gets in the way. Do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? What are your local tree by-laws, construction codes, tax laws. Do you live under threat of making a mistake, and being hit by a code violation, lawsuit, or audit?
 
-Enter politics. Red/blue philosophies can't help you work faster and easier. They're bent on promoting the mass production of the Industrial Age. Thus, while you're fighting for a better backyard, they're telling you to fight phantoms. You can fight back by fighting for rules that let you make decisions, that increase your freedom, independence, and power. Techvolution is the new philosophy that unifies the frontline to act as one.
+Enter politics. Red/blue philosophies can't help you. They're bent on promoting the mass production of the Industrial Age. Thus, while you're fighting for a better backyard, they're telling you to fight phantom communists and fascists. You can fight back with Techvolution, the new philosophy that unifies the frontline to fight for the ability to make good decisions without any middleman saying otherwise.
 
-Thereby, Techvolution will usher in the era of mass-collaboration. Technologically speaking, there's no reason why regular people on the frontline can't work as quickly as the _Cities: Skylines_ clip above. Contractors, roofers, homeowners, don't need Darth Blockbusters Industrial Age tools anymore. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, YouTube videos, empower individuals to work much more independently. But Main Street freedom will only be a happy reality once we avoid dark majic, and blow up the Death Star that it all our way. Which takes us back to the our mission Stargazer.
+Thereby, Techvolution will usher in the era of mass-collaboration. Technologically speaking, there's no reason why regular people can't work as quickly as the _Cities: Skylines_ clip above. Contractors, roofers, homeowners, don't need Darth Blockbusters Industrial Age tools anymore. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, YouTube videos, empower individuals to work much more independently. But this freedom will only be a happy reality once Main Streets understands how to avoid dark majic, and blow up the Death Star. Which takes us back to the our mission Stargazer.
 
 https://www.youtube.com/watch?v=ggrkTLEfFXA
-_Here's Louis Rossmann again. He's building a new store for his repair company. In this video he explains how a complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies wont disappear in the future—we'll always need big organizations. They'll just be checked and balanced by individuals and small companies. Which they'll have to do once the frontline is connected in mass-collaboration. We'll make that connection a little later, in Techvolution II: Building the Life Star._
+_Here's Louis Rossmann again. He's building a new store for his repair company. In this video he explains how a complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies wont disappear in the future—we'll always need big organizations. They'll just be checked and balanced by individuals and small companies connected in mass-collaboration. We'll make that connection a little later, in Techvolution II: Building the Life Star._
+
+## Click
+
+What makes something click in a person's mind? It's an emotional response. Like the love between Romeo and Juliette. Comedy, tragedy, drama are other connections. I'm hoping Techvolution is clicking in your mind. Here's a stand-up. Notice how gleeful connections are.
+
+https://www.youtube.com/watch?v=ZOiPQ8nqB1s 
 
 # Mid Point
 
 ## A Techvolution Battle Scene. Wikipedia vs. Books. Computer Age vs. Industrial Age
+
+Before we return to the battle with Darth Blockbuster, let's talk about another battle in support of the Computer Age.
 
 The environment keeps changing. Life needs to know-how and uses its lifeforms to probe for answers. So we humans also have to probe for answers. We ask questions like, why are the movies so expensive, are candy applies real applies, or, more importantly, what are proven techniques to stop malaria infections. We find answers by creating a reference tool.
 
@@ -809,52 +827,54 @@ That's the story of Wikipedia. Invented by protagonists, established as the stan
 
 Main Street are the frontline. The ones feeling the pain evolution is supposed to solve. We flocked to Wikipedia because it solved frontline problems faster. Society's rulebook got in the way. The formal education industry ignored and in some ways suppressed an open and free enclyclopedia. Despite being given billions in subsidies and being charged with educating society, the industry became antagonists of the Computer Age.
 
-To continue upgrading education to the Computer Age, Main Street needs to keep going. Industrial Age tools are so expensive they're dragging us into miserale lives. Student debt in America is estimated to be $1.5 trillion. Wikipedia's yearly budget is $65 million. We need to keep suporting the protagonists inventing more and better Wikipedias like Skillshare, Brilliant, Khan Academy, Master Class. Because there is a Death Star in their way. And its player gods who can blow it up.
+To continue upgrading education to the Computer Age, Main Street needs to keep going. Industrial Age tools are so expensive they're dragging us into miserale lives. Student debt in America is estimated to be $1.5 trillion. Wikipedia's yearly budget is $65 million. We need to keep suporting the protagonists inventing more and better Wikipedias like Skillshare, Brilliant, Khan Academy, Master Class. There is a Death Star in these protagonists way way, and its player gods who can blow it up.
 
-Player gods have the political power. That's the point of Techvolution. Extras march and complain. Player gods act and control. When player gods follow the majic of new tools, make our lives happier on the frontline, we ignore antagonists, and we blow up his Death Star! And that's human technological evolution, or what we now call Techvolution.
+Player gods have the political power. That's the point of Techvolution. Extras march and complain. Player gods act and control. When player gods follow the majic of new tools, make our lives happier on the frontline, we ignore antagonists, and blow up his Death Star! And that's human technological evolution, or what we now call Techvolution.
 
-Techvolution killed Darth Blockbuster and blew up his Death Star of anti-piracy rules, legislation, and lawsuits against the middle-class. The same people who bought billions of DVDs were suddenly thieves in teh eyes of Indsutrial Age antagonists. The industry, filled with self-congratulatory and splend banquets and awards shows, bad movies, empty theatres, tax-cheats, sexual predators was calling Main Street the bad guys.
+Techvolution killed Darth Blockbuster and blew up his Death Star of anti-piracy rules, legislation, and lawsuits against the middle-class. The same people who bought billions of DVDs were suddenly thieves in the eyes of Indsutrial Age antagonists. The industry, filled with self-congratulatory and splend banquets and balls, bad movies, empty theatres, tax-cheats, sexual predators was calling Main Street the bad guys.
 
-No. The middle-class are rational beings who feel the pain of everyday life. We search for better tools that evolve humanity. Once Netflix (2005) gave the public internet streaming at a fair price, and made good stories again, the frontline stepped up. Look at the graph below. You'll see the Industrial Age transforming into the Computer Age. A huge victory in the game of civilization. That's the happy changes player gods and Techvolution can do.
+No. The middle-class are rational beings who feel the pain of everyday life. We search for better tools that evolve humanity. We had already rejected the dark majic of Blu-ray and HD-DVD, and endured the Death Star attacks as well when using BitTorrents. And once Netflix (2008) gave the public internet streaming at a fair price, we proved our superior ethics and morality.
+
+Look at the graph below. Darth Blockbuster can't explain it. You'll see the Industrial Age transforming into the Computer Age. A huge victory in the game of civilization. That's the happy changes protagonists, player gods, and Techvolution can do.
 
     <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script>
     <script type="text/javascript">
       trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Torrent","geo":"US","time":"2004-01-01 2018-11-04"},{"keyword":"Netflix","geo":"US","time":"2004-01-01 2018-11-04"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=Torrent,Netflix&hl=en-US","guestPath":"https://trends.google.com:443/trends/embed/"});
     </script>
 
-During this transformation, I was one of the smucks working for minimum wage at the movie theate, and buying DVDs when I could afford them. Like most of Main Street, I got dozens collecting dust somewhere. Darth Blockbuster was of course telling us all DVDs were better than streaming. I wonder, do you think Darth Blockbuster will buy them back from us? Like Sophia, following the rules means little to in the face of the rules of evolution.
+During this transformation, I was one of the smucks working for minimum wage at the movie theate, and buying DVDs when I could afford them. Like most of Main Street, I got dozens collecting dust somewhere. Darth Blockbuster was of course telling us all DVDs were better than streaming. I wonder, do you think the Sith Lord will buy them back? I'll talk half-price.
 
-Now Bittorents aren't dead. While most people don't bother with torrent sites anymore—because Netflix is so much easier—civilization holds torrents in reserve. They're there to check and balance the economy in the Computer Age, to be sure Main Street isn't taken advantage of. That's the motivation for this insightful GIF here.
+Notice Bittorents aren't dead. While most people don't bother with torrent sites anymore—because Netflix is so much easier—civilization holds torrents in reserve. They're there to check and balance the economy in the Computer Age, to be sure Main Street isn't taken advantage of again. That's the motivation for this insightful GIF here.
 
 ![Battle Scene](/img\diagrams\techvolution-battle.png)
 
-So the middle-class can destroy the Death Star. But the question isn't just blowing up the few attacking online education and entertainment. To bring on the era of mass-collaboration in the Computer Age, we need to transform our entire society. And that takes a bit more work.
+So the middle-class can ignore dark majic and destroy the Death Star. But the question isn't just blowing up the few attacking online education and entertainment. To bring on the era of mass-collaboration in the Computer Age, we need to transform our entire society. And that takes a bit more work to earn that click to convince you to be a player god for Techvolution.
 
 ## We've Blown Up One Death Star, Now Here's How We Win the War
 
-So Stargazer, that's how we won a few battles in the fight for the Computer Age. It's a battle that made me, and everyone else who write and read Wikipedia, and watch Netflix, happy. Because evolving humanity puts smiles on our faces. The frequent excuses and rules in the way of evolution are made by those who benefit from old tools. They perform dark majic, or use the Death Star, to keep themselves in power. But evolution eventually wins out.
+So Stargazer, that's how we won a few battles in the fight for the Computer Age. It's a battle that made me, and everyone else who write and read Wikipedia, and watch Netflix, happy. Because evolving humanity puts smiles on our faces. The frequent excuses and rules in the way of evolution are made by those who benefit from old tools. They perform dark majic, or use the Death Star, to keep themselves in power. But evolution eventually wins out. DVDs, and enclyclopedia books tools of the Industrial Age. They never had a chance.
 
-Wikipedia and Netflix were big victories. But there's so much more to do. Imagine when Main Street uses digital tools and mass-collaboration to solve our agonizing commutes, confusing loan contracts, rising home energy bills. Stargazer, that's a war you must jump into with lightsabers a-blazin', dicing up old evil storm-trooping tools, to supercharge humanity into the Computer Age.
+Wikipedia and Netflix were big victories. But there's so much more to do. Imagine our lives Main Street uses digital tools and mass-collaboration to solve our agonizing commutes, confusing insurance contracts, and rising home energy bills. Stargazer, that's a war you must jump into with lightsabers a-blazin', dicing up old evil storm-trooping tools, to supercharge humanity into the Computer Age.
 
 Note, our lives cut across thousands to millions of problems. Thus, our villains are not in a massive group like "the rich" or the "the unions" as old philosophies label. Our villains reveal themselves inside thousands of companies, institutions, and organizations of the Industrial Age who fight to keep their version of the Encyclopedia Britannica or DVD alive.
 
-This is the entire class of middle-men, consultants, managers, and executives who don't know the skills of their industry like nursing, teaching, and (definitely not) cleaning. Their power is to manage the gates of an Industrial Age technology. And to keep us competing to be included in their corporate ladder.
+This is the entire class of middle-men, consultants, managers, and executives who don't know the skills of their industry like nursing, teaching, and (definitely not) cleaning. Their power comes from managing the gates of an Industrial Age technology. And to keep us competing to be included in their corporate heirarchy.
 
-Together, protagonists and extras can overcome these Darth Blockbusters and their Death Stars to bring on the Computer Age. I know this is possible because history has proven it. Our struggle to upgrade our civilization was fought generations ago with Darth Blockbuster's master: Darth King.
+Together, protagonists and extras can overcome these antagonists and their dark majic and Death Stars, to bring on the Computer Age. I know this is possible because history has proven it. Our struggle to upgrade our civilization was fought generations ago with Darth Blockbuster's master: Darth King.
 
-Darth King ruled atop a huge hierarchy. He lived inside palaces, using society's money to host splendid banquets and balls. His absolute power was hidden inside the Medieval Age's ruling philosophy of the nobility's "divine right to rule". The royal Death Star had the power of life and death in its hands.
+Darth King ruled atop a huge hierarchy. He lived inside palaces, using society's money to host splendid banquets and balls. His absolute power was hidden inside the Medieval Age's ruling philosophy of the nobility's "divine right to rule". The royal dark majic was corrupted religious believes. The noble Death Star had the power of life and death in its hands.
 
 Slowly, as protagonists invented scientific instruments, books, and guns, the Age of Enlightenment was born. With it came values of science, equality, and democracy that turned the people into player gods in the American and French Revolutions. These revolutionaries were inspired by the new philosophy of Jean-Jacques Rousseau.
 
 ![Battle Scene](/img\diagrams\techvolution-battle.png)
 
-## Freeing Rousseau's Cinderella By Defeating Another Sith Lord, Darth King
+## Freeing Cinderella
 
-"Player gods are born free, and everywhere they are tricked into being extras." Rousseau said that in 1762. Actually, he didn't. He said "people are born free and everywhere they are in chains." But the idea is the same. Rousseau was a poor writer who copied sheets of music to make the rent. More than 300 years later, he is at last recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
+"Player gods are born free, and everywhere they are tricked into being extras." Rousseau said that in 1762. Actually, he didn't. He said "people are born free and everywhere they are in chains." But the idea is the same. Rousseau was a poor writer who copied sheets of music to make his rent. More than 300 years later, he is still recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
 
-Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility's many banquets and balls. This was the opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the fairy tale, the people didn't have a Fairy Godmother to make their dreams come true. Instead, the commoners cleaned the nobles' vast libraries, used guns while dying in their wars, and were told to ignore what scientific instruments revealed. As extras in the story of civilization, they were excluded from the power of new tools because they believed their beloved Holy Bible said only Darth King had the "divine right to rule."
+Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility's many banquets and balls. This was the opulence that had Cinderella dreaming her days away as she cleaned a dirty chateau. Sadly, unlike the fairy tale, the people didn't have a Fairy Godmother to make their dreams come true. Instead, the commoners cleaned the nobles' vast libraries, used guns while dying in their wars, and were told to ignore what scientific instruments revealed. As extras in the story of civilization, they were distracted from the power of new tools by dark majic. They believed their beloved Holy Bible said only Darth King had the "divine right to rule."
 
-Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other person. Who is anyone to say extras can't live up to their own potential and become player gods? Rousseau believed that books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists. The self-proclaimed "divine nobility" didn't like hearing that. This powerful self-protecting community declared Rousseau a banquet-pooper, a rule breaker, and chased him out of Switzerland, France, and England. Maybe that's why Rousseau rented instead of owned.
+Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other person. Who is anyone to say extras can't live up to their own potential and become player gods? Like a true majician, Rousseau made people understand that books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists; dark majicians. The self-proclaimed "divine nobility" didn't like hearing that. This powerful self-protecting community declared Rousseau a banquet-pooper, a rule breaker, and chased him out of Switzerland, France, and England. Maybe that's why Rousseau rented instead of owned.
 
 It didn't matter. The nobility was in the dying days of their Medieval Age ruling philosophy. Starting in 1776, within Rousseau's lifetime, Darth King started to face the music when the American people started a revolution. One year after Rousseau died, the French had their own revolution in 1789. And on it went from country to country because Rousseau, and others like him, made the extras realize they should become player gods in a country "of the people, for the people, by the people." Cinderella soon forgot about the fancy ball, and instead sung the music of freedom in a choir of equals, that sounded something like this:
 
@@ -863,44 +883,42 @@ https://soundcloud.com/morteza-ab/les-miserables-2012-do-you
 
 _Extras singing about becoming player gods._
 
-Revolutionary songs like this spread the people's liberty, equality, and fraternity throughout the world. In a few years, the Medieval Age was finally gone. The royal Death Star was destroyed. Church and state were separate. Civilization embraced a new ruling philosophy of Rousseau and Democracy.
+Revolutionary songs like this spread the people's liberty, equality, and fraternity throughout the world. In a few years, the Medieval Age was finally gone. The royal Death Star was destroyed. Church and state were separate. Civilization embraced a new ruling philosophy of Rousseau and Democracy. When the people took control of books, guns, and science, they collaborated to run a safe society that didn't run on oppression. Main Street put presidents and senators, judges, and sheriffs in power, who ruled at the request of the people. The people formed rotary clubs, quilting societies, and other civil organizations that let the people run society as player gods.
 
-When the people took control of books, guns, and science, they collaborated to run a safe society that didn't run on oppression. Main Street put presidents and senators, judges, and sheriffs in power, who ruled at the request of the people. The people formed rotary clubs, quilting societies, and other civil organizations that let the people run society as player gods.
-
-Rousseau died never having found a home. After they won their revolutions, a population of player gods put him to rest inside the glorious Panthéon. He was heralded as a renowned breaker of chains, destroyer of Death Stars, in a world where any guy can be the prince, and any girl can be Cinderella.
+Rousseau died never having found a home. After they won their revolutions, a population of player gods put him to rest inside the glorious Panthéon. He was heralded as a renowned breaker of chains, a revealer of dark majic, destroyer of Death Stars, in a world where any guy can be the prince, and any girl can be Cinderella.
 
 The question for us is, how did Rousseau help an entire people embrace a new age, become player gods, and change their ruling philosophy? I'd especially like to know how we do it better because I'd really like to skip horrible wars and revolutions as we venture into the Computer Age.
 
 ## Society’s Three Stories Tell Us If We're Watching the Story of Civilization, or Playing the Game of Civilization
 
-Entering a new age doesn't require an actual war. But conflict usually brings down the old age and rings in the new. To avoid it while entering the Computer Age, we have to see our society better than Rousseau did. We can do that because we can learn from him.
+Entering a new age doesn't require war. But conflict usually brings down the old age and rings in the new. To avoid it while entering the Computer Age, we have to see our society better than Rousseau did. We can do that because we can learn from him.
 
-Rousseau's words echo this sentiment: let society enter into the Age of Enlightenment. Let the people prosper with new tools. Let the nobility return to their natural equality inside a democracy. Let anyone be the ruler—if they can solve problems and thereby earn the public's approval and consent. Rousseau never said there shouldn't be leaders. He said leaders should deserve their spot.
+Rousseau's words echo this sentiment: let society enter into the Age of Enlightenment. Let the people prosper as player gods who use electronic to improve their work and home lives. Let the nobility return to their natural equality. Let anyone lead society—if they can solve problems and thereby earn the public's approval and consent. Rousseau never said there shouldn't be leaders. He said leaders should deserve their spot.
 
-He didn't phrase it like this, of course, but that's what Rousseau basically said. Once we accept society transitions through technological ages, we also acknowledge we get a new philosophy and new leaders. Rousseau used stories to show us how we can transition to a new age. It shouldn't come as a big surprise that he was also a novelist.
+He didn't phrase it like this, of course, but that's what Rousseau basically said. He understaood every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god. Rousseau used stories to show us how humanity transitions from extras of an old age, into player gods of a new one. It shouldn't come as a big surprise that he was also a novelist.
 
 Thus, Rousseau understood stories—fictional and real-world ones—best explained the fabrication and inner workings of any society. He understood, too, that there are good and bad stories. And that each stems from a storyteller who has a very particular purpose.
 
 So let's explain stories. Every story contains a plot: a sequence of events where a protagonist fights an antagonist to overcome a problem. The fight to change reality happens in three parts. The first is the introduction of the problem and the characters. The second is the protagonist and antagonist thinking up plans and attacking each other. The third part is the conclusion, where we find out which side wins. Although it's easier to see in some more than in others, all stories have this structure.
 
-The difference between good and bad stories is how much it mixes things up to keep you in guessing what's going to happen next. While some bad stories are non-stop action scenes, and some stories are non-stop talking scenes, good stories mix the two up to tell a coherent and surprising story with a thick plot. Here are the three different kinds of stories.
+The difference between good and bad stories is how much it mixes things up to keep you guessing what's going to happen next. While some bad stories are non-stop action scenes or non-stop talking scenes, good stories mix the two up to tell a coherent and surprising story with a thick plot. Here are the three different kinds of stories.
 
 ===
 
-**Classic movies**: are good stories with fights about real-life problems. A protagonist leaves their typical day, changes their personality, and rises to the occasion to overcome a newfound problem on behalf of humanity. Antagonists, of course, fight to keep the status quo the same.
+**Classic movies**: are good stories about real-life problems. A protagonist leaves their typical day, grows a pair, and rises to the occasion to overcome a newfound problem on behalf of humanity. Antagonists, of course, fight to keep the status quo the same.
 
 In a classic story, the protagonist and antagonist repeatedly think of new ideas and act on them. Usually, this means both characters fight to create and control tools like magic books, secret plans, or a big bomb.
 
-Mixing logical problem solving, with new ideas, gives classic stories plot twists that keep audiences glued to their seats. No one knows if the good or bad guys will win. This is why good stories have a "thick plot." It's so hard to guess what's going to happen next.
+Mixing logical problem solving, with new ideas, gives classic stories plot twists that keep audiences glued to their seats. No one knows if the good or bad guys will win. This is why good stories have a thick plot; it's interesting to find out what's going to happen next.
 
-There's no way to know which stories will resonate with audiences. Still, only classic stories can resonate with audiences and become archetypes like _Cinderella_, _Romeo and Juliette_, _The Matrix_, and _Star Wars_. Real-life people find it easy to relate these majical stories because at they're core, the tales of "Rags to Riches" or "Forbidden Love", are very human. That's why they exist in all cultures and religions in some way.
+There's no way to know which stories will resonate with audiences. Still, only classic stories can resonate with audiences and become archetypes like _Cinderella_, _Romeo and Juliette_, _The Matrix_, and _Star Wars_. Real-life people find it easy to relate to these stories because at they're core, they're very human tales of "Rags to Riches" or "Forbidden Love". That's why they exist in all cultures and religions in some way.
 
 ![Classic story](/img\diagrams\romeo-juliet.jpg)
 _Good stories will always be told._
 
-**Art films**:- are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think they have all the answers and don't need to test them out. The art story is more of a personal journal about not overcoming obstacles, for example, being lonely, or hating one's job. The main character is thus selfish and self-important. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
+**Art films**: are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think they have all the answers and don't need to test them out. The art story is more of a personal journal about not overcoming obstacles, for example, of being lonely, or hating one's job. The main character is thus selfish, self-important. A con-artist and dark majician. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
 
-The result is stories with no storyline and no antagonist. Instead, art stories showcase their main characters' idiosyncratic behavior, like collecting action figures or their political rantings. Stories are surprising to the point of being weird, with a conclusion that never changes the reality because the main character didn't even try to.
+The result is stories with no storyline and no antagonist. Instead, art stories showcase their main characters' idiosyncratic behavior, like collecting action figures or raging political rantings. Art stories are surprising to the point of being weird, with a conclusion that never changes the reality because the main character didn't even try to. 
 
 Without logical surprises, art films need to get weirder and weirder to maintain interest. To insulate themselves from criticism, art filmmakers usually give themselves awards, grandeur, and titles. They dream of being like their main characters—on stages talking about themselves in a bout of self-gratification. Film festivals like Cannes, Sundance, Toronto mainly show art films.
 
@@ -908,43 +926,43 @@ Without logical surprises, art films need to get weirder and weirder to maintain
 
 **Spectacle movies**:- is about an obvious problem, i.e., Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are straightforward because the problem is straightforward; survive or die. However, since the action is so instinctual, there's no time for the protagonist to think of new ideas. The result is logical but unsurprising stories.
 
-Spectacle movies have to keep reusing old stories and characters to keep their audiences interested. Each new sequel has to ramp up special effects, gore, and raunchiness. It doesn't work for too long, so spectacle producers look for new customers with hype-filled, dark majic using, mass marketing campaigns. Most franchise movies, sequels, and remakes are spectacle movies.
+Spectacle movies reuse old stories and characters. They usually ramp up special effects, gore, and raunchiness to try and keep their audiences interested. It doesn't work for too long, so spectacle producers look for new customers with hype-filled, dark majic using, mass marketing campaigns. Most franchise movies, sequels, and remakes are spectacle movies.
 
-![Spectacle movie](/img\diagrams\romeo-juliet.jpg)
+- Show spectacle movie stats?
 
 ===
 
-These are the three-story categories in a nutshell. Classic stories tackle real-life problems. Art stories are self-obsessed. Spectacle stories are a distraction. This is why art/spectacle stories don't have "spoilers", while we want to "go in fresh" for classic stories.
+These are the three-story categories. In a nutshell, classic stories tackle real-life problems. Art stories are self-obsessed. Spectacle stories are a distraction. This is why art/spectacle stories don't have "spoilers", while we want to "go in fresh" for classic stories.
 
 You can see the difference in your favorite sitcom, such as _The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory_. They start off as classic stories, with characters who deal with relatable problems like not liking their jobs or being tired of dating. We see ourselves in these characters. We cry, laugh, and all that because we know it could also happen to us too.
 
-However, in later seasons, to keep their now popular characters alive, the sitcoms keep them living the same stories. Kramer can't get a job, Raj can't get a girl, Dwight can't get self-aware. Here sitcoms become art and spectacle stories. Art, because the main characters don't overcome their personal problems anymore. And, spectacle, because we the audience keep watching our favorite actors, characters, sets, catch-phrases, instead of wanting a new story. The turning point between good and bad story is often called "jumping the shark".
+However, in later seasons, to keep their now popular characters alive, the sitcoms keep them living the same stories. Kramer can't get a job, Raj can't get a girl, Dwight can't get self-aware. Here sitcoms become art and spectacle stories. Art, because the main characters don't overcome their personal problems anymore. And, spectacle, because we the audience keep watching our favorite actors, characters, sets, catch-phrases, instead of wanting a new story. The turning point between classic story and art/spectacle storyy is often called "jumping the shark".
 
-Rousseau noticed society has these classic, art, and spectacle stories, and that our communities travel through them as we develop through technological ages. When we start a new age, it's like watching the first years of the sitcom; everyone is solving everyday problems. Everyone is a player god in their lives. At the end of the age, the leaders are self-important, and the people's political involvemet is being extra, who stay loyal out of habit. In short, Rousseau noticed how one story works to advance and help society, and the other two work to enrich the artists and distract the masses.
+Rousseau noticed society has these classic, art, and spectacle stories, and that our communities travel through them as we develop through technological ages. When we start a new age, it's like watching the first years of the sitcom; everyone is solving everyday problems. Everyone is a player god, and the main characters have earned their spot. At the end of the age, the leaders are self-important, and the people's political involvemet is being extra who stays loyal out of habit because of liking a dark majic story. In short, Rousseau noticed how one story works to advance and help society, and the other two work to enrich the artists and distract the masses.
 
-## Moving Ourselves From Spectacle, to Classic, Stories Stories
+## Leaving the Spectacle of the Industrial Age Story
 
-We're already technically in the Computer Age. A quite glance at your smartphone shows that. Our society is in trouble because we're stuck inside the outdated red/blue, mass-production, philosophy of the Industrial Age. Antagonists keep themselves alive byway of a Death Star rulebook and dark majic.
+We're already technically in the Computer Age. A quite glance at your smartphone shows that. Our society is in trouble because we're stuck inside the outdated Right/Left, mass-production, philosophy of the Industrial Age. Antagonists live inside a art story of self-importance. Main Street lives inside a spectacle story to keep us distracted extras. See through this is quite a bit harder then the dark majic of DVDs, and enclyclopedias. But we have to. Only when we do, will we be player gods enjoying the era of mass-collaboration.
 
-We know that the embracing the majic of new tools is our best defense against the Death Star. However, how do we fight back against dark majic? To be attracted to majical new tools, we need to avoid the distraction of spectacular old ones. Only when we do, will we stop being extras and become player gods inside the era of mass-collaboration of the Computer Age.
+It's really hard to live inside art and spectacle and see through it. We have to see the leaders as self-obsessed, and the people as distracted drones. The belief that the Super Bowl is a national holiday, the glamour of luxurious cars you don't need, the self-gratification of a title like "executive vice president", is our current way of life. The best example seeing through all this bullshit is the movie The Matrix.
 
-It's really hard to live inside spectacle and see through it. The mass marketing of the Super Bowl as a national holiday, the glamour of luxurious cars you don't need, the self-gratification of a title like "executive vice president", is called dark majic for a good reason. The best example seeing through all this bullshit is the movie The Matrix.
+The Matrix shows a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the Matrix. The dream world is created by machines to distract humans while using their bodies as an energy source. The story's hero is Neo. A regular person who keeps wondering "what is the Matrix?". His willingness to question reality, eventually gets him recruited by the few untapped humans rebel against the machines.
 
-The Matrix shows a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the Matrix. The dream world is created by machines to distract humans while using their bodies as an energy source. The Matrix is basicially a world of dark majic. The story's hero is Neo. A regular person who asks "what is the Matrix?". He's recruited to help the few untapped humans rebel against the machines.
+<div style='position:relative; padding-bottom:calc(41.60% + 44px)'><iframe src='https://gfycat.com/ifr/ImpossibleOpenHoverfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/matrix-gifs">from Matrix GIFs</a> <a href="https://gfycat.com/impossibleopenhoverfly-the-matrix-laurence-fishburne-carrie-anne-moss">via Gfycat</a></p>
 
-Neo wants the masses to realize the Matrix is fake. When they do, they can remove the plug, and re-learn the joy of being player gods in the game of civilization. And that's why the machines antagonist, Agent Smith, chases Neo. Agent Smith wants to keep people extras, who keep watching the Matrix and feeding it with power.
+The rebel Morpheus teachs Neo what the Matrix is. A world of dark majic, to distract the masses from their slavery. Neo at first freaks out. How can the entire world be fake? Soon, Neo realizes the truth, and wants the masses to realize the Matrix is fake. When they do, they can remove the plug, and re-learn the joy of being player gods in control of their own lives. And that's why the machines antagonist, Agent Smith, chases Neo. Agent Smith wants to keep people extras, who keep watching the Matrix and feeding it with power.
 
 Agent Smith can control much of the Matrix, but not all of it. Enforcing the rules of the ruling philosophy of slavery, makes "the agents" bound to its rules too. Neo has a new ruling philosophy of freedom. Thus, he isn't bound by the Matrix's rulebook, a freedom he wants to use to liberate others.
 
-Neo is a lesson in majic. Because he's not tricked by the Matrix simulation, he can learn any skill he wants. Neo majically jumps higher, fights better, shoots straighter, and soon dodges bullets. The machines, unable to match his skills, fight back with dark majic.
+Neo is a lesson in majic. Because he's not tricked by the Matrix simulation, he can learn any skill he wants. Neo majically jumps higher, fights better, shoots straighter, and soon dodges bullets. The machines, unable to match his skills, fight back with more dark majic.
 
 They get one of the freed humans to turn on Neo and his supporters. Not with the allure of power, but with the lure of going back into the comfortable Matrix. The familiar spectacle of Rolling Stone concerts, television sitcoms, and V8 engines is all this modern Judas wants. The traitor knows its fake, but will accept it because "ignorance is bliss."
 
-The traitor losses. Neo is too powerful. In the final battle with Agent Smith, Neo can not only dodge bullets but he can stop them in mid-air. In the end, Neo only sees the Matrix's code, it's rulebook, and can thus rewrite the rules as he wants. Neo soon kills the agents, calls the machines leaders, and says:
+The traitor losses. Neo is too powerful. In the final battle with Agent Smith, Neo can not only dodge bullets but he can stop them in mid-air. In the end, Neo can see the Matrix's computer code, it's rulebook, and can thus rewrite the rules as he wants. Neo soon kills the agents. As an an powerful protagonists, he calls the machines leaders, and tells the antagonists:
 
   >I know you're out there. I can feel you now. I know you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how this is going to begin. I'm going to hang up this phone. And then I'm going to show these people what you don't want them to see. I'm going to show them a world without you. A world without rules and controls, without borders or boundaries A world where anything is possible. Where we go from there, is a choice I leave to you.
 
-And thus, Neo shows the people the Matrix is dark majic show, and liberates them.
+And thus, Neo works to show the people the Matrix is dark majic show. A lesson that liberates them. Just as Rousseau did for us.
 
 <div style='position:relative; padding-bottom:calc(41.67% + 44px)'><iframe src='https://gfycat.com/ifr/OblongGrimyHalibut' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/fight-gifs">from Fight GIFs</a> <a href="https://gfycat.com/oblonggrimyhalibut-the-Matrix">via Gfycat</a></p>
 
@@ -952,21 +970,21 @@ _Neo learned so much, he sees through the rulebook and so can easily defeat Agen
 
 ## Lessons From The Matrix
 
-The Matrix is a classic story. Among its lessons is showcasing how good leaders come and go. Neo was the hero chosen from the masses. So once Neo is done freeing the people, he and his friends return to being equal members of the community. Neo's hierarchy of support was temporary, being based on solving a frontline problem. Perhaps he'll be the hero of the next story, but maybe not. It depends on the problem and who the people decide their hero should be.
+The Matrix is a classic story. Among its lessons is showcasing how good leaders come and go. Neo was the hero chosen from the masses. Once Neo freed the people, he and his friends return to being equal members of the community. Neo's hierarchy of support was temporary, being based on solving a frontline problem. Perhaps he'll be the hero of the next story, but maybe not. It depends on the problem and who the people decide their hero should be.
 
-Neither art or spectacle stories solve frontline problems. Thus, their hierarchies can go on for as long as their storytellers can convince people to watch them or live inside them. These storytellers, who are the leaders, are self-important. The masses are just like the people stuck inside the Matrix. Distracted from the truth with a dark majic show of shiny cars, pop culture music, 9-5 workdays, and sitcom reruns, which people stay attached to via advertisements, marketing, and loyalty to an old culture.
+Neither art or spectacle stories solve frontline problems. Thus, their hierarchies can go on for as long as their storytellers can convince people to watch them, or live inside them. These storytellers, who are the leaders, are self-important. The masses are just like the people stuck inside the Matrix. Distracted from the truth with a dark majic show.
 
 The longer the spectacle lasts, the longer the self-important artists, like Darth King, and Darth Blockbuster, can go on living inside self-obsessed stories. They're happy with the way things are. They want to be heroes atop the hierarchy forever.
 
-But like an aging sitcom, it never lasts. Eventually, the people's problems pile up, and they soon need a true hero again. That means a hero who can see through the spectacle of the ruling philosophy, and lead the people to become player gods in a new society that solves problems and helps people live happy lives.
+But like an aging sitcom, it never lasts. Eventually, the people's problems pile up, and they soon need a true hero again. That means a hero who can see through the spectacle of the ruling philosophy, and lead the people to become player gods in a new society rule by a new philosophy  helps Main Street live happy lives.
 
 The lesson is Stargazer your happiness is the best indicator of which story you're currently in. That's why how much money you have, your job title, the university you graduated from, all this is not the definition of happiness. Happiness only happens when a ruling philosophy helps people contribute to a classic story that helps humanity evolve life on Earth.
 
-So we can use majic to find and fight back agaist Darth Blockbuster's rule book. And we can use our understanding of classic and spectacle/art stories to tell the difference between majic and dark majic. Our Industrial Age red/blue philosophies obessed with mass-production is the Matrix. To get out, we have to stop watching the spectacle, ignore the artists, and become player gods of our own society.
+So we can use our understanding of classic and spectacle/art stories to judge society. It's better to judge our society after reading about its history.
 
 **Good ruling philosophy**: Embraces the modern technological age. Empowers the people with advanced tools so they can be player gods who solve problems on the frontline. Civilization is lead by individuals who rise to the occasion to become protagonists. Once their specific problem is over, leaders willfully return to being an equal member of the community.
 
-**Bad ruling philosophy**: Meant to stop humanity progressing to a new age. Led by leaders who don't want to empower the people with modern tools or and return to equality. Instead, the leaders distract the masses from their self-serving leadership, with spectacle.
+**Bad ruling philosophy**: Meant to stop humanity progressing to a new age. Led by leaders who don't want to empower the people with modern tools or ever return to equality. Instead, the leaders distract the masses from their self-serving leadership, with spectacle.
 
 ## Protagonist Kings
 
@@ -984,7 +1002,7 @@ Since society had no political institutions like dependable judicial systems, st
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmJubilantIrrawaddydolphin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_You'd believe in divine kings too if Vikings were at your doorstep._
+_You'd believe in divine kings if Vikings were at your doorstep._
 
 Under the rule of Protagonist Kings, Western Civilization rebuilt political institutions like court systems, town councils, sanitation departments. But it was slow going. By the time Western Europe had a fully functioning civilization again at the Renaissance (1400-1600), nobody could remember why the story of divine nobility had started. Who could blame them, the story's start was a 1000 years in the past. Do you remember what happened 1000 years ago?
 
