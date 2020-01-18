@@ -402,7 +402,7 @@ Space travel is a significant step for humanity. It means better satellites, wor
 
 Red/blue political culture was unable to deliver an affordable rocket. They can gossip about speeches all day, but rocket science doesn't fit into soundbites. It was private companies like SpaceX and Blue Origin (funded by a few rich protagonists) who answered the call. They harnessed digital technology and fostered collaboration to make rockets 10 times cheaper then red/blue politicians were doing. The protagonists even learned to land their rockets so they can be reused, a monumental achievement that makes space travel even more possible. But many people, especially red/blue politicians, still didn't care.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/JauntyImmaculateGreatargus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/DeliriousOffbeatHedgehog' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 https://www.youtube.com/watch?v=ANv5UfZsvZQ
 
@@ -789,15 +789,19 @@ _Here's Louis Rossmann again. He's building a new store for his repair company. 
 
 ## Click
 
-What makes something click in a person's mind? It's an emotional response. Like the love between Romeo and Juliette. Comedy, tragedy, drama are other connections. I'm hoping Techvolution is clicking in your mind. Here's a stand-up. Notice how gleeful connections are.
+What makes something click in a person's mind? It's an emotional response. Like the love between Romeo and Juliette. Comedy, tragedy, drama are other connections. I'm hoping Techvolution is clicking in your mind. Here's some stand-up. Notice how gleeful connections are.
 
 https://www.youtube.com/watch?v=ZOiPQ8nqB1s 
+
+Extras of the Industrial Age complain. We call them consumers. Since the age is over, there's no work left to do, and thus they're just useless and selfish. Player gods ignore these people. Evolution won't keep their mentality around for too much longer.
+
+Back to clicking. When does something click? When you can't go back. And could you ever drop Netflix and do back to Blockbuster? Now, let's return to the book. That's about making you dropping Left/Right politics because Techvolution clicked.
 
 # Mid Point
 
 ## A Techvolution Battle Scene. Wikipedia vs. Books. Computer Age vs. Industrial Age
 
-Before we return to the battle with Darth Blockbuster, let's talk about another battle in support of the Computer Age.
+Before we return to the battle with the real Darth Blockbuster, let's talk about another battle in support of the Computer Age.
 
 The environment keeps changing. Life needs to know-how and uses its lifeforms to probe for answers. So we humans also have to probe for answers. We ask questions like, why are the movies so expensive, are candy applies real applies, or, more importantly, what are proven techniques to stop malaria infections. We find answers by creating a reference tool.
 
@@ -976,11 +980,11 @@ Neither art or spectacle stories solve frontline problems. Thus, their hierarchi
 
 The longer the spectacle lasts, the longer the self-important artists, like Darth King, and Darth Blockbuster, can go on living inside self-obsessed stories. They're happy with the way things are. They want to be heroes atop the hierarchy forever.
 
-But like an aging sitcom, it never lasts. Eventually, the people's problems pile up, and they soon need a true hero again. That means a hero who can see through the spectacle of the ruling philosophy, and lead the people to become player gods in a new society rule by a new philosophy  helps Main Street live happy lives.
+But like an aging sitcom, it never lasts. Eventually, the people's problems pile up, and they soon need a true hero again. That means a hero who can see through the spectacle of the ruling philosophy, and lead the people to become player gods in a new society rule by a new philosophy  helps Main Street live happy lives. 
 
 The lesson is Stargazer your happiness is the best indicator of which story you're currently in. That's why how much money you have, your job title, the university you graduated from, all this is not the definition of happiness. Happiness only happens when a ruling philosophy helps people contribute to a classic story that helps humanity evolve life on Earth.
 
-So we can use our understanding of classic and spectacle/art stories to judge society. It's better to judge our society after reading about its history.
+So to defeat Darth Blockuser, we can use our understanding of classic and spectacle/art stories to judge our society. Only when a new philosophy clicks, will we disregard his dark majic and fight off his Death Star; and thereby usher in the Computer Age. But hold off, it's better to judge our society after reading about its history. Frederick Douglass broke from the Matrix, Mister Auld was its Agent, while Sophia Auld choose the wrong side.
 
 **Good ruling philosophy**: Embraces the modern technological age. Empowers the people with advanced tools so they can be player gods who solve problems on the frontline. Civilization is lead by individuals who rise to the occasion to become protagonists. Once their specific problem is over, leaders willfully return to being an equal member of the community.
 
@@ -1344,9 +1348,11 @@ Everytime you listen to a political speech just notice how many times they talk.
 
 ## The End
 
-Donald Trump is the savior of Western Civilization. Not because of his policies. Not because he makes you happy or angry. Trump's a savior because he broke the Right/Left mold. The Industrial Age philosophes were degenerating our society towards collapse. Neither will ever understand the Computer Age and mass-collaboration. Trump may not either, but he's made us think, "what politics do I want?". And that question is the first step to increasing your political power, so you can makes yourself happy inside a modern Computer Age society.
+Donald Trump is the savior of Western Civilization. This time that statement isn't rhetorical. Trump is our saviour; not because of his policies. Not because he makes you happy or angry. Trump's a savior because he broke the Right/Left mold. The Industrial Age philosophes are degenerating our society towards collapse. Neither will ever understand the Computer Age and mass-collaboration. Trump may not either, but he's made us think, "what politics do I want?". And that question is the first step to increasing your political power, so you can makes yourself happy inside a modern Computer Age society.
 
-We'll get there, if you stop watching the story of civlization. Only you can upgrade us to the Computer Age. Whereever you are, look around, and see old drafty windows, gas engine car, cable news, mass-producted toys, eight different bosses, car traffic, endless red-tape. Do you see the Industrial Age? Do you now need collaborate and upgrade your slice of the world to the Computer Age? Or do you want to return to the comfort and safety of following the rules and being an uninvolved extra of Conservative/Progressive politics. The fate of your future, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
+We can all enjoy the era of mass-collaboration now, if you stop watching the story of civlization. No revolutions or wars. Not even marches or protests. Whereever you are, look around, and see old drafty windows, gas engine car, cable news, mass-producted toys, eight different bosses, car traffic, endless red-tape.
+
+Do you see the Industrial Age? Do you now feel the need to upgrade your small part of the world to the Computer Age, and understand how control your part makes you politically powerful? Or do you want to return to the comfort and safety of following the rules and being an uninvolved extra of Conservative/Progressive chasing phantoms. Did Techvolution click? The fate of your life, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
 
 If you do, we win. If you don't, we lose.
 
@@ -1356,7 +1362,17 @@ https://www.youtube.com/watch?v=2SybklT8k1k
 
 ## My App - showcase the lessons along the way
 
-I never wanted to write this book. I wrote a similar one, "Why the 2008 Economic Crisis Was Only the Beginning" years ago (that I never showed anyone). All the lessons from here are there. For example, it predicts the western world is trying to assert a economic ecosystem, and thus needs borders. Trump and Brexit were as predictable as the orbit of Mars was once Newton wrote gravity's equations.
+Usually, you'd be free to say leave me alone. Techvolution didn't click. I'm going back to my life and none of this player god nosense is my problem. Historically, in politics, our judges are ourselves and the philosophy we choose. Using it, we can bullshit ourselves out of healthy eating, self-reflection, and civic virtue.
+
+But in the future, the near future, our judge won't be a philosophy. No. It will be Nature. And Mother Nature doesn't take bullshit.
+
+Soon Evolution will be your rulebook. No middleman. No subsidies. No dark majic. No Death Star. No Darth Blockbuster. Would you be a player god, if the only person judging you, was the same person that judges cheetahs, polar bears, and ash trees?
+
+And welcome to the Life Star. A rulebook based on Techvolution, governed by human technological adaption and natural selection that makes sure humanity never stalls when upgrading to the next technological age. This rulebook, is why, I guarantee you, Techvolution will click in the future. Here's the reason why.
+
+===
+
+I never wanted to write this book. I wrote a similar one, "Why the 2008 Economic Crisis Was Only the Beginning" years ago (although I never showed anyone). All the lessons from here are there. For example, it predicts the western world is trying to assert a economic ecosystem, and thus wants borders. Trump and Brexit were as predictable as the orbit of Mars was once Newton wrote gravity's equations.
 
 I wanted, and am, writing "Building the Life Star" and "Starting Starfleet." Which in summary say, digital tools will start giving us objective facts about whose civilization is more efficient, which will let us start investing on mass into space age technology, and thus send us to the stars.
 
@@ -1415,11 +1431,7 @@ I did my best as a protagonist. I was not good enough to prevent anyone’s Smit
 
 Am I done fighting? No. I’ve picked up another tool, though, one that fits better in my hand and that may allow me to still reach out to many others who feel the need to evolve: a book. But I am just a speck in the sea that’s got to rise up and rinse the world of old sins and false beliefs. Other protagonists can pick up where I left off—they can go further than I could even dream of. That’s how society truly evolves: a pyramid of helping hands, not a pyramid of chopped limbs and ripped-up ideas. Everyone is either an extra waiting for life to change blaming phantom fascists or communists, or a player god solving real-life problems. If enough of us join in, then Techvolution is our new ruling philosophy.
 
-Who are you, Stargazer? Who will you be?
-
-Before you answer—notice something about my app? Did the Google Map look familiar? At the start I said Civilization games are a pretty accurate look at society. A place where the player god knows all and sees all, while individuals go about their day. Of course we are the player god if we realize our power. And now with computers, we can see ourselves. We can track our accidents, contributions, roles, jobs, resources, for everyone to see. That's what I wanted to do with my app. Foster worker-to-worker collaboration because in the game via technology, and build the first Life Star. I wanted everyone see the real-life player god.
-
-So when I asked who will you be Stargazer. You can answer that yourself for now. Soon however, the player god will know. And then the Computer Age will start.
+Who are you, Stargazer? Who will you be? So when I asked who will you be Stargazer. You can answer that yourself for now. Soon however, the player god will know. And then the Computer Age will start.
 
 # THE APPENDICES
 
