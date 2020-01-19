@@ -1979,3 +1979,16 @@ Donald Trump is the savior of Western Civilization. Not because of his policies.
 ## First World Problems
 
 "First world problems" is a funny way of saying we indulge our pettiness. But we do have problems, the biggest is taking our first world civilization for granted.
+
+## Spectacle Spider-Man
+
+| Title                             | Budget       | Gross Revenue| % of Budget |
+|-----------------------------------|--------------|--------------|-------------|
+| Spider-Man (2002)                 | $139,000,000 | $403,706,375 | 34%         |
+| Spider-Man 2 (2004)               | $200,000,000 | $373,585,825 | 54%         |
+| Spider-Man 3 (2007)               | $258,000,000 | $336,530,303 | 77%         |
+| The Amazing Spide-Man (2012)      | $230,000,000 | $262,030,663 | 88%         |
+| The Amazing Spide-Man 2 (2014)    | $260,000,000 | $202,853,933 | 128%        |
+| Untitled Spider-Man Sequel (2021) | tba          | tba          | tba         |
+
+_This is a typical hollywood movie today. A success is remade, effects and celebrities are increased, until the public just doesn't care anymore. This is domestic grosses, doesn't include inflation or marketing cost, which is usually the same as production budget. All figures from boxofficemojo.com_
