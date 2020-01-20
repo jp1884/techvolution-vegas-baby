@@ -437,16 +437,16 @@ Since biological adaptions and upgrades are evolution, I've called human technol
 
 Have you ever taken an Uber? If you haven't, it's a smartphone app that connects a person needing a ride, with a person willing to drive them. So say Julia needs a lift. She opens up Uber and inputs where she needs to go. Uber assigns Jack. Julia and Jack are now connected and can see each other's history, rating, vehicle, and GPS location.
 
-Hack drives Julia where she needs to go. They can chat or not chat. It doesn't matter. Once there, Julia gets out. Uber manages the payment. Julia and Jack rate each other and then go about their lives.
+Jack drives Julia where she needs to go. They can talk or not, it doesn't matter. Once there, Julia gets out. Uber manages the payment. Julia and Jack rate each other and then go about their lives.
 
 That's an Uber ride. And if you've ever taken one, you've participated in Internet Age mass-collaboration. Seriously, think about it. Julia needed to get somewhere; a friend's house, job interview, babysitting. Jack helped her get there. And software facilitated the collaboration between two strangers.
 
 Once upon a time in the Industrial Age, this coordination was done by many managers at taxi, media, and automotive companies. Driver timesheets, dispatch call-centers, complaint resolution, company marketing, vehicle licensing. In the Internet Age, all this paperwork is handled by Uber's (mostly open-source) software. The company Uber still has to staff managers, marketers, executives, and whatnot. But the proportion is far less.
 
-While Darth Taxi-Cab tried to stop Uber in court and government lobbying, it didn't work. The people liked Uber too much. Once people taste it, mass-collaboration is too practical to be stopped. And it's just started to grow into more industries. It's something to keep in mind while you're reading this book. Our way of life will get better. Once we become player gods who realize their actions, even if just catching a lift, upgrades their civilization.
+While Darth Taxi-Cab tried to stop Uber in court and government lobbying, it didn't work. The people liked Uber too much. Once people use it, mass-collaboration is too practical to be stopped. And it's just started to grow into more industries. It's something to keep in mind while you're reading this book. Our way of life will get better. Once we become player gods who realize their actions, even if just catching a lift, upgrades their civilization.
 
 ![old philosophy in a new world](/img\diagrams\techvolution-uber-ride-collaboration.jpg)
-_An Uber ride is collaboration. One person needs to get somewhere, and another wants to take her there. Although this arrangement was around in the Industrial Age with taxi rides, the difference in the Internet Age is software, hardware, and GPS, does almost all the management, and thus empowers Main Street to help itself using software. Fittingly, I got these images from a free image service called Unsplash. Unsplash protagonists empower anyone to share and use professional-grade images. In the Industrial Age, these images would cost thousands of dollars._
+_An Uber ride is collaboration. The Internate Age empowers Main Street cut out the middlemen. Fittingly, I got these images from a free image service called Unsplash. Unsplash protagonists empower anyone to share and use professional-grade images. In the Industrial Age, these images would cost thousands of dollars._
 
 ## Nice to Meet You, Stargazer
 
@@ -527,20 +527,20 @@ Techvolution is, therefore, intentional evolution. It's a more advanced and quic
 
 We call someone a _genius_ when he or she uses existing technology to make a new tool. Happily, these trailblazing protagonsts are self-motivated, and we already celebrate their intellect and innovations. But innovation isn't the only step toward Techvolution. We only truly evolve when regular people choose to use a new tool.
 
-For example, think of computers. Before they could change the world, people needed to use them, which means learning to type. In fact, when stuffy Xerox execs saw the world's first personal computer—the Xerox Alto—they refused to use it because the photocopier was the future of office work, and especially because "typing was women's work". Happily, many Alto engineers fled to Apple and helped make the first MacIntosh. The point is if everyone refused to learn to type, computers would be useless. Society only upgrades when individuals decide to learn how to use a tool and integrate it into their lifestyles.
+For example, think of computers. Before they could change the world, people needed to use them, which means learning to type. In fact, when stuffy Xerox execs (all males) saw the world's first personal computer in 1977—the Xerox Alto—they refused to use it. The photocopier was the future of office work they said, and besides "typing was women's work". Happily, many Alto engineers fled to Apple and helped make the first MacIntosh. The point is if everyone refused to learn to type, computers would be useless. Society only upgrades when individuals decide to learn how to use a tool and integrate it into their lifestyles.
 
-So, what trick does Nature play on extras to reach for new tools when so often would be risking Darth Blockbuster's, or in this case, Darth Photocopier's wrath? The answer is a force found within us all.
+So, what trick does Nature play on extras to reach for new tools when so often would be risking Darth Blockbuster's, or in this case, Darth Photocopier's, wrath? The answer is a force found within us all.
 
 Unlike evolution, the trick is not actually akin to magic. We, humans, understand we're dropping one tool and familiarizing ourselves with another, like when swapping out the DVD player for Netflix. Yet there's still something wonderfully mystical about choosing to leave one's comfort zone to learn a new cyborgolgy. I call it majic; it's pronounced like magic, but spelled differently to note a critical difference: majic is the free choice of a regular person to proactively and intentionally evolve, even if they don't fully understand how they're upgrading civilization. Majic encompasses our yearning to explore, to learn, to grow, to live to our fullest potential.
 
-Typically, we underappreciate how cool it is to learn new tools. But every time we try, we're like a drowning desert fox wearing fins and goggles, yelling out, "I'm getting better!" as he flounders in the water. Pushing our boundaries is what life is all about. It's majic that keeps us jumping back into the water and out of our comfort zone.
+Typically, we underappreciate how cool it is to learn new tools. But every time we try, we're like a drowning desert fox wearing fins and goggles, yelling out, "I'm getting better!" as he fulfills his dream of learning to swim. Pushing our boundaries is what life is all about. It's majic that keeps us jumping back into the water and out of our comfort zone.
 
 Techvolution is the ruling philosophy that encourages extras to "majically" bond with any tool they want so they can solve frontline problems as player gods. Yet what do we do when the Death Star says it's wrong?
 
-**Majic**: The natural inclination of a person to learn, use, and hold new tools to increase their natural abilities. Majic inspires people to become player gods who evolve humanity and solve frontline problems. A majician teaches people their potential.
+**Majic**: The natural inclination of a person to learn, use, and hold new tools to increase their natural abilities. Majic inspires people to become player gods who evolve humanity and solve frontline problems. A majician teaches themselves, or other people, new tools.
 
 ![old philosophy in a new world](/img\sketches\darwins-finches.jpg)
-_Charles Darwin discovered evolution. He visited an island chain, where each island had a different climate. Darwin noticed the same bird was slightly different on each island. He then saw each's beak was adapted to eat bugs, seeds, or nuts. Darwin called his discovery evolution. Humanity mimics evolution by inventing and using new tools. Since we can drop and pick up tools, we can evolve so much faster than other lifeforms. It's majic that gets us learning new tools._
+_Charles Darwin visited the Galapagos islands in 1835. Each island had a different environment. Darwin noticed the same bird was slightly different on each island. He then saw each birds beak was adapted to eat the one type of food on each island like bugs, seeds, or nuts. After years of study, Darwin explained the differences using his theory of evolution (1859). Humanity mimics evolution by inventing and using new tools. Since we can drop and pick up tools, we can evolve so much faster than other lifeforms. It's majic that keep us learning new tools._
 
 ===
 
@@ -550,9 +550,9 @@ _Charles Darwin discovered evolution. He visited an island chain, where each isl
 
 ## Using Majic to Filter the Rules - How to tell the good from the bad rules
 
-Despite our problems with our current philosophy, society always needs one philosophy that reigns above the rest. We use it to create the ground rules that glue us all together. Without a ruling philosophy, there would be no player god. The story of mankind would be a story of chaos. There would be no such thing as civilization.
+Despite our problems with our current philosophy, society always needs one philosophy that reigns above the rest. We use it to create the ground rules that glue us all together. Without a ruling philosophy, there would be no player god. The game of civilization would be a story of chaos.
 
-Darth Blockbuster fights to control the ruling philosophy. When he succeeds, he writes rules to keep the tools he commands, and therefore himself, in power. Corporate manuals, university guidelines, social justice blogs are among the pages of his Death Star rulebook fighting off the Internet Age. These rules interfere with regular people's majically bonding with new tools. But how can you tell if a rule is good or bad? How can you pinpoint a rulebook as a Death Star? Darth Blockbuster doesn't tell people he's Darth Blockbuster. Instead, he says he's the prince, or the executive. Are these people genuine authority figures in the story of civilization, or Darth Blockbusters protecting their paychecks?
+Darth Blockbuster fights to control the ruling philosophy. When he succeeds, he writes rules to keep the tools he commands, and therefore himself, in power. Corporate manuals, university guidelines, social justice blogs are among the pages of his Death Star rulebook fighting off the Internet Age. These rules interfere with regular people's majically bonding with new tools. But how can you tell if a rule is good or bad? How can a regular person pinpoint a rulebook as a Death Star? Darth Blockbuster doesn't tell people he's Darth Blockbuster. Instead, he says he's the prince or the executive. Are these people genuine authority figures in society, or Darth Blockbusters protecting their paychecks?
 
 It's essential to filter out the good from the bad rules throughout our everyday lives. It takes practice, and it demands cultivating our integrity and inner truths. Yet it's a struggle that's been taking place for centuries. As an example, you needn't look further than this story of a Maryland farm boy named Frederick, who was born approximately two centuries ago.
 
@@ -713,9 +713,17 @@ _Most movies stink, most theatres are dead. That's you Stargazer, looking at the
 
 Let's consider some things during our short rest.
 
+## Techvolution
+
+I grew up writing all my book reports, projects, ann essays with Microsoft Word. When I learned to program I needed to learn a code editor. VS Code, a free-to-use open source project run by Microsoft, is probably the best today. So I learned it. It turns out, writing with VS Code is amazing. Word is good to format content for printing, VS Code to far better to actually create. Now my cyborgology has VS Code inside it, and believe my I'm never letting it go.
+
+Me learning VS Code was majical. Me using it to write a book, was technological evolution. The thousands of programmers who write, update, and collaborate to make VS Code are protagonists. If anyone told me I had to use Word, they would be antagonists. If Microsft stepped in to convince writers to use Word, they'd be using dark majic. If they banned writers using VS Code to protect Word (a paid product), they would be Darth Word.
+
+But they didn't. Microsoft is doing very well to promote the era of mass collaboration. They understand the more tools there are, the more adaptations humans can use to solve frontline problems. Techvolution is the new philosophy that makes all the above click in Main Street's mind, so we demand the duty and freedom to evolve civilization as player gods of the Internet Age. What's holding us back, is our belief in the outdated Left/Right philosophy of the Industrial Age, and that's a really big roadblock to move past.
+
 ## Old Philosophy vs. New Philosophy
 
-Techvolution is a philosophy book. One that enables seamless human technological evolution by turning extras into players gods who have the right and duty to decide when society should upgrade our tools. I don't reference past philosophies though. Like any topic it takes some practice to read. However, let's take a peek and appreciate the strong beliefs of past protagonists and antagonists.
+Techvolution is a philosophy book. I don't reference past philosophies though. Like any topic it takes some practice to read. However, let's take a peek and appreciate the strong beliefs of past protagonists and antagonists.
 
 Below are two snippets from Robert Filmer and Thomas Paine. The passages will help explain how an antagonist can think themselves so right, when history proves them so wrong. I won't comment on either passage. Just know when a philosophy clicks, it makes people into its followers. Both of these writers motivated generations of followers to fight to the death.
 
@@ -744,9 +752,9 @@ https://www.ushistory.org/Paine/crisis/c-01.htm
 
 ===
 
-The belief in nobles divine rights wasn't simple selfishness. A lot of smart people wrote philosophy to justify one person having absolute power. The rules that kept royalty in power didn't call themselves a Death Star. The royal rulebook was based in a respected philosophy.
+The belief in nobles divine rights wasn't simple selfishness. A lot of smart people wrote philosophy to justify one person having absolute power. The rules that kept royalty in power didn't call themselves a Death Star. The royal rulebook was based on a respected philosophy.
 
-Today, the rules that make our products hard to repair, tell us to wait on hold, have us sign confusing contracts, is our rulebook. While all these rules exist to keep us in the Industrial Age—they aren't arbitrary rules. They come from Industrial Age philosophy. Something to remember as we push the middle-class into the Internet Age. The antagonists feel justified using their Death Star.
+Today, the rules that make our products hard to repair, tell us to wait on hold, make us sign confusing contracts, is our rulebook. Many of these rules exist to keep the Industrial Age alive, they aren't arbitrary rules. They come from Industrial Age philosophy. Something to remember as we push the middle-class into the Internet Age. The antagonists feel justified using their Death Star. And they'll keep winning, until we believe in a new philosophy.
 
 ## The Era of mass-collaboration Is Already Here
 
@@ -768,7 +776,7 @@ There are many more examples of digital products connecting people on the frontl
 
 ## The Era of mass-collaboration Is (Almost) Here in Your Everyday Life
 
-Say you just moved into a new townhouse and want work on your backyard. You shop around and think about what work you want done. You're neighbors are doing the same. Over the summer months, everyone gets to work, installing patio stones, assembling lawn furniture, hiring contractors, putting in pools, fences, and whatever else you dream up.
+Say you moved into a new townhouse and want to finish your backyard. Typically, you'd shop around and think about what work you want done. You're neighbors are doing the same. Over the summer months, everyone starts installing patio stones, assembling lawn furniture, hiring contractors, putting in pools, fences, and whatever else you dream up.
 
 We will always have homes, furniture, renovations etc. The question is, when making our purchases, do we consider the big picture—that our choices matter? Today, if we decide to put in native flowering bushes, we help out our hurting bee population. If we buy American made, that means our stuff uses greener manufacturing processes and no slave labour. If we install Tesla Solar Roofs, we're helping combat climate change and earn American energy independence.
 
@@ -776,11 +784,11 @@ If we make these decisions, we're attracted to the majic of new technologies, an
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ClassicSecretKarakul' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-The question is for you today, what rules do you work under? What labour laws, work contracts, insurance requirements, product warranties, city by-laws, and so on. Do these various rules promote good decisions or bad?
+The question for Main Street is, what rules do you work under? What labour laws, work contracts, insurance requirements, product warranties, city by-laws, and so on. Do these various rules promote good decisions or bad?
 
-Enter Darth Blockbuster. He wants to keep us using his mass-produced tools. When dark majic fails, he uses society's rulebook to keep the Internet Age far far away. Thus even when player gods choose to buy solar power roofs, start a 3D printing business in the backyard, install a Hydroloop water resuser in their garage, today's rulebook often gets in the way. Do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? What are your local tree by-laws, construction codes, tax laws. Do you live under threat of making a mistake, and being hit by a code violation, lawsuit, or audit?
+Enter Darth Blockbuster. He wants to keep us using his mass-produced tools. When dark majic fails, he uses society's rulebook to keep the Internet Age far far away. Thus even when player gods choose to buy solar power roofs, start a 3D printing business in the backyard, install a Hydroloop water resuser in their garage, today's rulebook often gets in the way. Do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? What are your local tree by-laws, construction codes, tax laws? Do you live under threat of making a mistake, and being hit by a code violation, lawsuit, or audit?
 
-Enter politics. Red/blue philosophies can't help you. They're bent on promoting the mass production of the Industrial Age. Thus, while you're fighting for a better backyard, they're telling you to fight phantom communists and fascists. You can fight back with Techvolution, the new philosophy that unifies the frontline to fight for the ability to make good decisions without any middleman saying otherwise.
+Enter politics. Red/blue philosophies can't help you. They're bent on promoting the mass production of the Industrial Age. Thus, while you're fighting your insurance adjuster to pay for your hail damaged solar roof, they're telling you to fight phantom communists and fascists. You can fight back with Techvolution, the new philosophy that unifies the frontline to fight for the ability to make good decisions without any middleman saying otherwise.
 
 Thereby, Techvolution will usher in the era of mass-collaboration. Technologically speaking, there's no reason why regular people can't work as quickly as the _Cities: Skylines_ clip above. Contractors, roofers, homeowners, don't need Darth Blockbusters Industrial Age tools anymore. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, YouTube videos, empower individuals to work much more independently. But this freedom will only be a happy reality once Main Streets understands how to avoid dark majic, and blow up the Death Star. Which takes us back to the our mission Stargazer.
 
@@ -789,13 +797,13 @@ _Here's Louis Rossmann again. He's building a new store for his repair company. 
 
 ## Click
 
-What makes something click in a person's mind? It's an emotional response. Like the love between Romeo and Juliette. Comedy, tragedy, drama are other connections. I'm hoping Techvolution is clicking in your mind. Here's some stand-up. Notice how gleeful connections are.
+What makes something click in a person's mind? If only we knew. We can't decide to fall in love, laugh, or even cry. We wait for a connection. I'm hoping this new philosophy is clicking in your mind. Here's some stand-up that'll probably make you laugh, and appreciate how connections work, and how they can sound like.
 
-https://www.youtube.com/watch?v=ZOiPQ8nqB1s 
+https://www.youtube.com/watch?v=ZOiPQ8nqB1s
 
-Extras of the Industrial Age complain. We call them consumers. Since the age is over, there's no work left to do, and thus they're just useless and selfish. Player gods ignore these people. Evolution won't keep their mentality around for too much longer.
+Extras of the Industrial Age complain. Because the age is over, there's no work left to do, and thus they live unfulfilled, unhappy lives on the frontine. Believing in Techvolution is their salvation.
 
-Back to clicking. When does something click? When you can't go back. And could you ever drop Netflix and do back to Blockbuster? Now, let's return to the book. That's about making you dropping Left/Right politics because Techvolution clicked.
+When does something click? When you can't go back. And could you ever drop Netflix and do back to Blockbuster? Now, let's return to the book. That's about you dropping Left/Right politics because Techvolution made a connection, and clicked.
 
 # Mid Point
 
@@ -941,7 +949,7 @@ Spectacle movies reuse old stories and characters. They usually ramp up special 
 | The Amazing Spide-Man 2 (2014)    | $260,000,000 | $202,853,933 | 128%        |
 | Untitled Spider-Man Sequel (2021) | tba          | tba          | tba         |
 
-_This is a typical hollywood movie today. A success is remade, effects and celebrities are increased, until the public just doesn't care anymore. This is domestic grosses, doesn't include inflation or marketing cost, which is usually the same as production budget. All figures from boxofficemojo.com_
+_This is a typical hollywood movie today. A movie is remade and remade, while effects and celebrities are increased, until the public just doesn't care anymore. These are domestic grosses and don't include inflation or marketing cost, which is usually the same as production budget. All figures from boxofficemojo.com_
 
 ===
 
@@ -1033,7 +1041,7 @@ Visit European castles and extravagant palaces, modest churches, and brilliant c
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/LavishIncomparableBumblebee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_Louis XIV (1643-1715) spent an estimated 50% of France's annual Gross National Product to build and maintain his Palace at Versailles. Even though he paid no taxes. He was a self-described god on earth. The people could even buy tickets to tour the palace. It wasn't long before the country "heard the people sing" as they became player gods._
+_Louis XIV (1643-1715) spent an estimated 50% of France's annual Gross National Product to build and maintain his Palace at Versailles. Even though he paid no taxes. He was a self-described god on earth. The people could even buy tickets to tour the palace. It wasn't long before the country "heard the people sing" as the people became player gods._
 
 During this transformation, frontline problems piled up for the people. Their situation barely changed, and arguably got worse from 1000 to 1778. Their houses were still thatched. They did manual labor all day. They still paid almost all the taxes but were banned from advancing in official society. Feudalism became a caste system controlled by con artists. They fought against distributing the benefits of an advancing civilization to the people doing the work on the frontline. We rightfully call Antagonist Kings Darth King.
 
@@ -1078,23 +1086,23 @@ Since, entering the Internet Age, dark majic has skyrocketed. The once humble Am
 The good news is, where not at a "let's burn down society" point yet. We can transition to the Internet Age ourselves before the frontline gets so bad and so ununhappy we stat a revolution. We can usher in the era of mass-collaboration ourselves.
 
 https://www.youtube.com/watch?v=A25EUhZGBws
-_This is a clip from The Big Short. About the Housing Crisis in 2008. This guy is our modern day Antagonist Executive. You're not supposed to understand the economic rationale of CDOs that makes him super wealthy, because there is none. Like the divine rights of nobility, it's just the justification of a self-important hero. By the way, the 2008 economic risis was always going to happen. A world of dark majic spectacle, like McMansions, only lasts so long. And our economy will only get worst until we upgrade to the Internet Age via Techvolution._
+_This is a clip from The Big Short. About the Housing Crisis in 2008. This guy is our modern day Antagonist Executive. You're not supposed to understand the economic rationale of CDOs that makes him super wealthy, because there is none. Like the divine rights of nobility, it's just the justification of a self-important hero. By the way, it's not a coincidence Louis palace, and our houses, caused so much economic problems are the end of an age. The 2008 economic risis was always going to happen. A world of dark majic spectacle, like McMansions, only lasts so long. Life on Main Street will only get worst until we upgrade to the Internet Age via Techvolution._
 
 # ACT THREE
 
 ## Evolution Doesn't Happen Without Fighting - Main street Has to Act
 
-Do you believe in Techvolution? Do you think red/blue philosophy old and played out? Is cable news valuable or useless? Do you live in the Matrix to keep the powers of the Industrial Age alive? Can we live happy lives inside the era of mass-collaboration if we embrace Techvolution and leap into the Internet Age? Do you seek to destroy the Death Star one again?
+Do you believe in Techvolution? Do you think red/blue philosophy old and played out? Is cable news valuable or useless? Do you live in the Matrix to keep the powers of the Industrial Age alive? Can we live happy lives inside the era of mass-collaboration if we embrace Techvolution and leap into the Internet Age? Do you seek to destroy the Death Star?
 
-You are the hero of civilization Stargazer. These are the questions history is asking you. To help you answer them, here are two stories—one about an antagonist, the other a protagonist. The first is about King Charles I, who ruled England from 1625-1649. Remember the Thirty Years War, when Main Street was tearing itself apart in the name of Protestant and Catholic kings. Well, adding to that anarchy was King Charles. He led England into a civil war to defend his self-image of being a god on Earth. His story teaches us about ours, and should help you answer the questions history is asking you decide.
+You are the hero of civilization Stargazer. These are the questions history is asking you. To help you answer them, here are two stories—one about an antagonist, the other a protagonist. The first is about King Charles I, who ruled England from 1625-1649. Remember the Thirty Years War, when Main Street was tearing itself apart in the name of Protestant and Catholic kings; adding to that anarchy was King Charles. He led England into a civil war to defend his self-image of being a god on Earth. His story teaches us about ours, and should help you answer the questions history is asking you decide.
 
 ## Darth King Charles
 
-Charles ruled as an absolute English monarch. He used the same "nobles right to rule" ruling philosophy as other monarchs of his day. England had a Parliament, but it was only supposed to advise the king and not tell him what to do. However, after some revolts in the Middle Ages, the English parliament uniquely did have the power to approve taxes.
+Charles was a Protestant King, who ruled England using the same "nobles right to rule" ruling philosophy as other monarchs of his day. England had a Parliament, but it was only supposed to advise the king and not tell him what to do. However, after some revolts in the Middle Ages, the English parliament uniquely did have the power to approve taxes.
 
-England was broke in 1610. Charles and his father used up all the money, and now Charles needed to raise taxes. The people and their parliament refused to say yes until they got more political powers. Charles refused to talk to them. Instead, he sent parliament home and ruled by himself for 10 years. The king raised taxes by using ancient feudal rules. One example, he fined men for missing his coronation.
+England was broke in 1610. Like most kings, Charles and his father spent quite lavishly. Now Charles needed to raise taxes. The people and their parliament refused to say yes until they got more political powers. Charles refused to talk to them. Instead, he sent parliament home and ruled by himself for 10 years. The king raised taxes by using ancient feudal rules. One example, he fined men for missing his coronation.
 
-Parliament eventually got sick of this subversion, raised an army, and fought the English Civil War (1642–1646). The parliamentary army was local men devoted to democracy and on their way to becoming player gods. They were also very Protestant and suspected Charles was a closet Catholic. Parliament's army officers were chosen by merit, while Charles's men were mostly nobles who hired mercenaries to fight for them. The war between Parliamentarians and Loyalists was "nasty, brutish, and short" as one observer said.
+Parliament eventually got sick of this subversion, raised an army, and fought the English Civil War (1642–1646). The parliamentary army was local men devoted to democracy; and on their way to becoming player gods. Parliament's army officers were chosen by merit, while Charles's men were mostly nobles who hired mercenaries to fight for them. The war between Parliamentarians and Loyalists gave both sides a life that was "nasty, brutish, and short" as one observer said.
 
 After four years of battles and bloodshed, Charles lost. He was held under arrest, while rules for a less powerful "constitutional monarchy" were being made by the Parliamentarians. Charles then escaped, hired a new army, and fought the Second English Civil War (1648–1649).
 
@@ -1106,17 +1114,17 @@ But then Darth King Charles did speak, and that fact should turn you into a play
 
 Charles had a speech impediment. Often called a stammer or stutter. No one then, or even now, understands what causes it. For a stutterer, talking is like playing guitar with music notes written on the fly by a gremlin. Some words are easy to say, some are ~~difficult~~ hard, and some decide which at the last mili-mili-mili-second.
 
-But a stutter isn't just about pauses, repetitions, or missing beats in a sentence. Stuttering is like having a mini-seizure. Your body flexes. Your neck tenses. You stop breathing. It's horrible. I should know because I suffer from the same affliction as Charles did.
+But a stutter isn't just about pauses, repetitions, or missing words in a sentence. Stuttering is like having a mini-seizure. Your body flexes. Your neck tenses. You stop breathing. It's horrible. I should know because I suffer from the same affliction as Charles did.
 
 The physical pain isn't even the worst. Getting _that_ look from people is. The "what the fuck is wrong with you?" look.
 
-_ "Hello, my ~~name~~ I'm Charles. I wa-want can want to ~~help~~ discuss, the situation with the, ~~Parliament~~ House of Parliament or Commons..."_
+_"Hello, my ~~name~~ I'm Charles. I wa-want can want to ~~help~~ discuss, the situation with the, ~~Parliament~~ House of Parliament or Commons..."_
 
-The prospect of talking, except to yourself and a dog, which Charles had two of, causes huge anxiety. The idea of never conversing with anyone causes loneliness and depression. The movie The King's Speech showed it well. Stuttering usually forces a person to be shy, passive, eager to please, and come up with weird reasons for their erratic speaking like hand gestures, random silence, binge drinking, and swear words (which, like talking to yourself or dogs, for some reason never cause a stutter). It's entirely possible Charles' relationship with Parliament was so bad because he simply didn't want to talk with them. Not that he would ever admit he had an impediment. After all, he was a king!
+The prospect of talking, except to yourself and a dog—which Charles had two of—causes huge anxiety. Living a life wondering about all the words you didn't say, causes loneliness and depression. The movie The King's Speech showed it well. Stuttering usually forces a person to be shy, passive, eager to please, and come up with weird reasons for their erratic speaking like hand gestures, random silence, binge drinking, and swear words (which, like talking to yourself or dogs, for some reason never cause a stutter). It's entirely possible Charles' relationship with Parliament was so bad because he simply didn't want to talk with them. Not that he would ever admit he had an impediment. After all, he was a king!
 
 My speech impediment was the reason I got a job in a car insurance claim department. After a vice president at an old company secretly told my supervisor I wasn't allowed to talk to customers—for fear of embarrassing the company—I was like shit I guess I don't have this damn gremlin under control. I wasn't even that mad about it (although I was that it was an open secret for over a year). I never told anyone I had the impediment, so, despite therapy as a kid, it was obviously still a problem.
 
-So, fuck it. I decided to jump into the ocean and sink or swim. A car insurance claim call-center for a stutterer is like a desert fox swimming the open ocean. A daily workout of all-day phone calls, angry drivers, customer service expectations, no "outs" like swear words, drinking games, or wonky behavior to hide behind. I was like that desert fox learning to swim, telling myself, "I'm getting better!."
+So, fuck it. I decided to jump into the ocean and sink or swim. A car insurance claim call-center for a stutterer was scary. A daily workout of all-day phone calls, angry drivers, customer service expectations, no "outs" like swear words, drinking games, or wonky behavior to hide behind. I was like that desert fox learning to swim, telling himself, "I'm getting better!."
 
 And it was far worse than I thought. The insurance company wanted adjusters to answer ever more phone calls. To incentive us, they'd ring a monotone "bell" because… I don't know.  They never said why, we employees learned questioning "the bell" was a bad idea. Management used it as punishment; "answer more phone calls or we'll make the bell faster and louder!"
 
@@ -1124,26 +1132,26 @@ I'm being serious by the way. We were often more stressed then the person who ju
 
 Super-shock speech therapy! After about a year, I didn't have to massage my jaws at night to release it from all the teeth shattering jaw-clenches I did to divert vocal stuttering. I was cured!
 
-The point is this. That's what it took for me to mostly never stutter. It's like night and day. The anxiety washed away. A hidden outgoing personality was brought out and frankly is fun, although still surreal, to be. I often feel out of place—like a desert fox scuba diving.
+The point is this. That's what it took for me to mostly never stutter. It's like night and day. The anxiety washed away. A hidden outgoing personality was brought out and frankly is fun, although still surreal, to be. I often feel out of place—like a desert fox joining a scuba diving club.
 
 Charles never had this lesson. Despite being adamant he was God's chosen leader, he was famously shy and quiet his whole life because that's how the gremlin likes it. Even when fighting for 16 years defending his ruling philosophy, Charles still probably had to massage his strained jaws every night. I can sympathize. The gremlin is an asshole.
 
-But Charles would have to talk. He was accused him of being "a Tyrant, A Traitor, Murderer, and a public enemy to the Commonwealth of England." This was a watershed moment in modern human history. For the first time the people weren't replacing one king for another. They were killing the king, and replacing him with themselves. The people would be their own player god.
+Charles was accused of being "a Tyrant, A Traitor, Murderer, and a public enemy to the Commonwealth of England." This was a watershed moment in modern human history. For the first time the people weren't replacing one king for another. They were killing the king, and replacing him with themselves. The people would be their own player god.
 
-And at this historic moment, Charles wasn't pretending or bluffing to not understand his supposed charges of tyranny. He wasn't proud or stubborn. Like Hugh Auld, or Agent Smith, he was a honest defender of the Matrix. Charles was the hero of a corrupt and dying philosophy. Thus, Charles could not even psychologically understand being wrong. In his mind Antagonist Kings were impossible. So at his trial he said nothing.
+And at this historic moment, Charles wasn't pretending or bluffing to not understand his supposed charges of tyranny. He wasn't proud or stubborn. Like Hugh Auld, or Agent Smith, he was a honest defender of the Matrix. Charles was the hero of a dying philosophy. Thus, Charles could not psychologically understand being wrong. In his mind Antagonist Kings were impossible. So at his trial he said nothing.
 
-The judges convicted Charles anyway. He was sentenced to death by removing the head from the body. The convicted king was astounded. His next chance to speak would be standing at his own chopping block.
+The judges convicted Charles anyway. He was sentenced to death by removing the head from the body. The convicted king was astounded. His next chance to speak would be at his own chopping block.
 
 ![New Tool Creation](/img\diagrams\techvolution-whitehall-charles.jpg)
-_This is Whitehall. A palace built by Henry VIII. Charles was executed on a scaffold outside this room. He waited here for his death. On the ceiling is a painting commissioned by his father James I, which shows Charles dad being taken to heaven by angels. Charles was thus raised his entire life to be a divine king. Could you see outside the divine rights of nobles if you were him?_
+_This is Whitehall. A palace built by Henry VIII. Charles waited here for his death, he was executed on a scaffold outside this room. On the ceiling is a painting commissioned by his father James I, which shows Charles' dad being taken to heaven by angels. Charles was raised his entire life to be a divine king. Could you see outside the divine rights of nobles if you were him?_
 
 ## Charles Speaks
 
-Fuck the ringing bell of a claims department, imagine that stress of a stutterer minutes from execution, having to say something to defend 16 years of civil war, his throne, and his family's place in history. I can't explain how anxious he would have been. I think feared the gremlin keeping him silent more than getting his head chopped off.
+Fuck the ringing bell of a claims department, imagine the stress of a stutterer minutes from execution, having to say something to defend 16 years of civil war, his throne, and his family's place in history. I can't explain how anxious he would have been. He feared the gremlin keeping him silent more than getting his head chopped off.
 
 And… and… no stutter. Not once!
 
-Charles didn't just speak, he spoke so eloquently many people, even those who hated him, were impressed. I must say I'm happy for him. I can say beyond any doubt he was in that gorgeous room, looking up at his father's painting, praying to say the thoughts in his mind—and when Charles spoke clearly, it for sure felt like the angels killed the gremlin for him. In his mind, it was divine intervention. What vindication! Indeed, Charles's last words were a clearly spoken:
+Charles didn't just speak, he spoke so eloquently many people, even those who hated him, were impressed. I must say I'm happy for him. I can say beyond any doubt he was in that gorgeous room, looking up at his father's painting, praying to say the thoughts in his mind—and when Charles spoke clearly, it for sure felt like the angels killed the gremlin for him. In his mind, not stuttering felt like divine intervention. What vindication! Indeed, Charles's last words were a clearly spoken:
 
 > Truly I desire their (the people's) liberty and freedom as much as anybody whomsoever; but I must tell you their liberty and freedom consist in having of government, those laws by which their life and their goods may be most their own. It is not for having a share in government, Sir, that is nothing pertaining to them. A subject and a ruler are clear different things... therefore I tell you that I am the Martyr of the people. I die a Christian according to the profession of the Church of England, as I found it left me by my father... I have a good Cause and I have a gracious God. I will say no more.
 
@@ -1151,7 +1159,7 @@ Clearly spoken words about being totally behind the times. He gave England 16 of
 
 Later kings still didn't learn. Even more distanced from the frontline inside their palaces, banquets and balls. Many more Darth Kings faced the chopping block with the voice of God calling them martyrs. The irony was, their stubbornness caused real protagonists like Rousseau, Washington, and Jefferson to rise up. These protagonists used new tools and a new philosophy to empower the people to become player gods and share in the responsibility of government.
 
-Remember this story. Darth Blockbuster won't "see the light" until you become a player god and take responsibility for the politics of your community. And you already are. It was when the people felt the majic of the printing press, scientific instruments, and gun, they became player gods. And that's why you are by default a believer in Techvolution. Because you're using computers and the internet. The tools of the Internet Age that empower you to become a today's new player god.
+Remember this story. Darth Blockbuster won't "see the light".  You have to become a player god and take responsibility for the politics of your community. And you already are. It was when the people felt the majic of the printing press, scientific instruments, and gun, they became player gods. And that's why you are by default a believer in Techvolution. Because you're using computers and the internet. The tools of the Internet Age that empower you to become today's new player god.
 
 ## The Majic of the Internet - If We Use the Internet, We Automatically Fight For the Internet Age
 
@@ -1369,6 +1377,8 @@ If you do, we win. If you don't, we lose.
 
 https://www.youtube.com/watch?v=2SybklT8k1k
 
+INPUT STATS ON CRASHES
+
 ## My App - showcase the lessons along the way
 
 Usually, you'd be free to say leave me alone. Techvolution didn't click. I'm going back to my life and none of this player god nosense is my problem. Historically, in politics, our judges are ourselves and the philosophy we choose. Using it, we can bullshit ourselves out of healthy eating, self-reflection, and civic virtue.
@@ -1392,7 +1402,7 @@ The tool wasn’t polished because new tools never are. But it was, and would ha
 Here’s how my app worked. Today’s car insurance claim system depends on drivers exchanging information like names or insurance policy numbers after a car accident. Drivers are frazzled so they usually don’t. My adjusting job was talking to these drivers to process their insurance claims. The one supposed to return drivers back to normal; at least as best to normal as money can get them. A big problem was simply knowing who the other driver and adjuster were. Since adjusters often didn’t know, we had to search for it; literally calling around or hoping someone calls you. Delays piled up like crazy.
 
 ![New Tool Creation](/img\diagrams\techvolution-civilization-is-here.jpg)
-_Look familiar?_
+_Look familiar? I told you computers games teach us about the Internet Age._
 
 Adjusting sucks. Our only tools were a telephone, email, voicemail, checkbook, google, and a supervisor telling us to hurry up or get fired. Beyond st-st-stress stressful, very emotionally taxing.
 
@@ -1410,7 +1420,7 @@ A simple new tool that only someone on the frontline would ever feel the pain to
 
 Society would have saved hundreds of millions in insurance claim operating costs. That’s cool. Adjuster’s and drivers would save hours of their day. That’s cool too. But this is the part worth fighting over. With my app, for the first time, we’d have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, demographics, and many other databases. We’d finally learn why car accidents happen, and start to fight back.
 
-<a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This database doesn’t exist today. So many people just assume "they" record it as apart of the accident invesigation, but inside a 200 billion dollar industry, no one does. So, when tree branches grow over stop signs, tires are faulty, intersections jam up too much, pot holes get too big, or anything else repeatedly causes accidents, we don’t even know. With machine learning and artificial intelligence, we’d find trends to the millions of accidents, and tens of thousands of deaths that happen every year.
 
@@ -1437,6 +1447,8 @@ He’ll never say that, or even know it. He thinks frontline pain is a thing to 
 I did my best as a protagonist. I was not good enough to prevent anyone’s Smithereens, but I did my best. The point isn’t that I wallowed in self-pity or guilt. The point is that neither self-pity nor guilt need to exist in the Internet Age. The philosophy of digital tools isn’t a place of sword wielding heroes with a mass of peasants behind them. I pushed as far and high as I could.
 
 ## The End and the Beginning
+
+Philosophy is a gift. It lets humanity invent and use new and better tools. Ancient Greece got it first, then it went to Rome, then to Middle East, back to Italy, where it spread to what we call Western Civilization.
 
 The Western World, is a made up term. Don't get me wrong, it's a good way to describe the shared culture of France, Britain, Holland, America, Austrialia and the other members of the political unit we call "The West". But if you look down at the globe, these landmasses wouldn't look united. The West is a human creation. There was no "Western Europe" in Roman times. The entire Mediterranean and surrouning land was unified by all-weather roads, a postal system, a religion, and language.
 
