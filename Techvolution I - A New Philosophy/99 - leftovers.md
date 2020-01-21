@@ -1992,3 +1992,12 @@ Donald Trump is the savior of Western Civilization. Not because of his policies.
 | Untitled Spider-Man Sequel (2021) | tba          | tba          | tba         |
 
 _This is a typical hollywood movie today. A success is remade, effects and celebrities are increased, until the public just doesn't care anymore. This is domestic grosses, doesn't include inflation or marketing cost, which is usually the same as production budget. All figures from boxofficemojo.com_
+
+## Intermission
+
+Enter Darth Blockbuster. He wants to keep us using his mass-produced tools. When dark majic fails, he uses society's rulebook to keep the Internet Age far far away. Thus even when player gods choose to buy solar-power roofs, start a 3D printing business in the garge, install a Hydroloop water resuser, today's rulebook often gets in the way. Do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? What are your local tree by-laws, construction codes, tax laws? Do you live under threat of making a mistake, and being hit by a code violation, lawsuit, or audit?
+
+Enter politics. Red/blue philosophies can't help you. They're bent on promoting the mass production of the Industrial Age. Thus, while you're fighting your insurance adjuster to pay for your hail damaged solar roof, they're telling you to fight phantom communists and fascists. You can fight back with Techvolution, the new philosophy that unifies the frontline to fight for the ability to make good decisions without any middleman saying otherwise.
+
+Thereby, Techvolution will usher in the era of mass-collaboration. 
+
