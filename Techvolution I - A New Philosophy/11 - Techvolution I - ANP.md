@@ -941,7 +941,7 @@ The result is stories with no storyline and no antagonist. Instead, art stories 
 
 Without logical surprises, art films need to get weirder and more self-obessesd to maintain interest. To insulate themselves from criticism, art filmmakers usually give themselves awards, grandeur, and titles. They dream of being like their main characters—on stages talking about themselves in a bout of self-gratification. Film festivals like Cannes, Sundance, Toronto mainly show art films.
 
-![Art film](/img\diagrams\romeo-juliet.jpg)
+Gervais
 
 **Spectacle movies**:- is about an obvious problem, i.e., Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are straightforward because the problem is straightforward; survive or die. However, since the action is so instinctual, there's no time for the protagonist to think of new ideas. The result is logical but unsurprising stories.
 
@@ -970,31 +970,31 @@ Rousseau explained how society has these classic, art, and spectacle stories, an
 
 ## Leaving the Spectacle of the Industrial Age Story
 
-We're already technically in the Internet Age. A quite glance at your smartphone shows that. Our society is in trouble because we're stuck inside the outdated Right/Left, mass-production, philosophy of the Industrial Age. Antagonists live inside a art story of self-importance. Main Street lives inside a spectacle story to keep us distracted extras. See through this is quite a bit harder then the dark majic of DVDs, and enclyclopedias. But we have to. Only when we do, will we be player gods enjoying the era of mass-collaboration.
+We're already technically in the Internet Age. A quite glance at your smartphone shows that. Our society is in trouble because we're stuck inside the outdated Right/Left, mass-production, philosophy of the Industrial Age. Antagonists don't care, because they're happy inside their stories of self-importance. Main Street doesn't notice because they live inside a spectacle story.
 
-It's really hard to live inside art and spectacle and see through it. We have to see the leaders as self-obsessed, and the people as distracted drones. The belief that the Super Bowl is a national holiday, the glamour of luxurious cars you don't need, the self-gratification of a title like "executive vice president", is our current way of life. The best example seeing through all this bullshit is the movie The Matrix.
+Spectacle runs on dark majic. It's really hard to see through. Today people have to question if the Super Bowl should be a national holiday, if the glamour of luxurious cars is still a good thing, if a title like "executive vice president" is real or pompeous. Everything in our way of life is opened to be questioned. The best example seeing through society the movie The Matrix.
 
-The Matrix shows a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the Matrix. The dream world is created by machines to distract humans while using their bodies as an energy source. The story's hero is Neo. A regular person who keeps wondering "what is the Matrix?". His willingness to question reality, eventually gets him recruited by the few untapped humans rebel against the machines.
+The Matrix shows a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the Matrix. The dream world is created by machines to distract humans while using their bodies as an energy source. The story's hero is Neo. A regular person who asks "what is the Matrix?". His willingness to question reality, eventually gets him recruited by the few untapped humans rebel against the machines.
 
 <div style='position:relative; padding-bottom:calc(41.60% + 44px)'><iframe src='https://gfycat.com/ifr/ImpossibleOpenHoverfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/matrix-gifs">from Matrix GIFs</a> <a href="https://gfycat.com/impossibleopenhoverfly-the-matrix-laurence-fishburne-carrie-anne-moss">via Gfycat</a></p>
 
-The rebel Morpheus teachs Neo what the Matrix is. A world of dark majic, to distract the masses from their slavery. Neo at first freaks out. How can the entire world be fake? Soon, Neo realizes the truth, and wants the masses to realize the Matrix is fake. When they do, they can remove the plug, and re-learn the joy of being player gods in control of their own lives. And that's why the machines antagonist, Agent Smith, chases Neo. Agent Smith wants to keep people extras, who keep watching the Matrix and feeding it with power.
+The rebel Morpheus teachs Neo what the Matrix is. A world of dark majic, to distract the masses from their slavery. Neo at first freaks out. How can the entire world be fake? Soon, Neo realizes the truth, and wants the masses to realize it as well. He believes when they do, they can remove the plug, and re-learn the joy of being player gods in control of their own lives. The machines antagonist, Agent Smith, chases Neo. This Sith Lord wants to keep people extras, who keep watching the Matrix and feeding it with power.
 
-Agent Smith can control much of the Matrix, but not all of it. Enforcing the rules of the ruling philosophy of slavery, makes "the agents" bound to its rules too. Neo has a new ruling philosophy of freedom. Thus, he isn't bound by the Matrix's rulebook, a freedom he wants to use to liberate others.
+Agent Smith can control much of the Matrix, but not all of it. Enforcing the rules of the ruling philosophy of slavery, makes "the agents" bound to its rules too. Neo has a new ruling philosophy of freedom. Thus, he isn't bound by the Matrix's rulebook, a freedom he uses to liberate his oppressed humans.
 
-Neo is a lesson in majic. Because he's not tricked by the Matrix simulation, he can learn any skill he wants. Neo majically jumps higher, fights better, shoots straighter, and soon dodges bullets. The machines, unable to match his skills, fight back with more dark majic.
+Neo is a lesson in majic. Because he's not tricked by the Matrix, he can learn any skill he wants. Neo majically jumps higher, fights better, shoots straighter, and soon dodges bullets. The machines, unable to match his skills, fight back with more dark majic.
 
-They get one of the freed humans to turn on Neo and his supporters. Not with the allure of power, but with the lure of going back into the comfortable Matrix. The familiar spectacle of Rolling Stone concerts, television sitcoms, and V8 engines is all this modern Judas wants. The traitor knows its fake, but will accept it because "ignorance is bliss."
+They get one of the freed humans to turn on Neo and his supporters. Not with the allure of power, but with the lure of going back into the comfortable fake world. The familiar spectacle of Rolling Stone concerts, television sitcoms, and V8 engines is all this modern Judas wants. The traitor knows its fake, but will accept it because "ignorance is bliss."
 
-The traitor losses. Neo is too powerful. In the final battle with Agent Smith, Neo can not only dodge bullets but he can stop them in mid-air. In the end, Neo can see the Matrix's computer code, it's rulebook, and can thus rewrite the rules as he wants. Neo soon kills the agents. As an an powerful protagonists, he calls the machines leaders, and tells the antagonists:
+The traitor losses. Neo is too powerful. In the final battle with Agent Smith, Neo can not only dodge bullets but he can stop them in mid-air. Even better, Neo can see the Matrix's computer code, it's rulebook, and can thus rewrite the rules as he wants. Neo soon kills Agent Smith. At the end of the story, Neo calls the machines leaders, and tells the antagonists:
 
   >I know you're out there. I can feel you now. I know you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how this is going to begin. I'm going to hang up this phone. And then I'm going to show these people what you don't want them to see. I'm going to show them a world without you. A world without rules and controls, without borders or boundaries A world where anything is possible. Where we go from there, is a choice I leave to you.
 
-And thus, Neo works to show the people the Matrix is dark majic show. A lesson that liberates them. Just as Rousseau did for us.
+Neo shows the people the Matrix is a lie. A dark majic show to distract the people from the true political power, which is to be player gods weldingh the tools of protagonists, to live happier lives on the frontline. The Matrix is a lesson in liberation. Just as Rousseau was.
 
 <div style='position:relative; padding-bottom:calc(41.67% + 44px)'><iframe src='https://gfycat.com/ifr/OblongGrimyHalibut' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/fight-gifs">from Fight GIFs</a> <a href="https://gfycat.com/oblonggrimyhalibut-the-Matrix">via Gfycat</a></p>
 
-_Neo learned so much, he sees through the rulebook and so can easily defeat Agent Smith. Another version of Darth Blockbuster._
+_Neo learned so much, he sees through the rulebook and so can easily defeat Agent Smith._
 
 ## Lessons From The Matrix
 
@@ -1002,9 +1002,9 @@ The Matrix is a classic story. Among its lessons is showcasing how good leaders 
 
 Neither art or spectacle stories solve frontline problems. Thus, their hierarchies can go on for as long as their storytellers can convince people to watch them, or live inside them. These storytellers, who are the leaders, are self-important. The masses are just like the people stuck inside the Matrix. Distracted from the truth with a dark majic show.
 
-The longer the spectacle lasts, the longer the self-important artists, like Darth King, and Darth Blockbuster, can go on living inside self-obsessed stories. They're happy with the way things are. They want to be heroes atop the hierarchy forever.
+The longer the spectacle lasts, the longer the self-important artists, like Darth King, and Darth Blockbuster, can go on living inside self-obsessed stories. They're happy with the way things are. They want to be heroes atop the hierarchy forever. The longer the story goes, the more pretentious they get.
 
-But like an aging sitcom, it never lasts. Eventually, the people's problems pile up, and they soon need a true hero again. That means a hero who can see through the spectacle of the ruling philosophy, and lead the people to become player gods in a new society rule by a new philosophy  helps Main Street live happy lives. 
+But like an aging sitcom, it never lasts. Eventually, the people's problems pile up, and they soon need a true hero again. That means a hero who can see through the spectacle of the ruling philosophy, and lead the people to become player gods in a new society ruled by a new philosophy that helps Main Street live happy lives.
 
 The lesson is Stargazer your happiness is the best indicator of which story you're currently in. That's why how much money you have, your job title, the university you graduated from, all this is not the definition of happiness. Happiness only happens when a ruling philosophy helps people contribute to a classic story that helps humanity evolve life on Earth.
 
@@ -1127,7 +1127,7 @@ The physical pain isn't even the worst. Getting _that_ look from people is. The 
 
 _"Hello, my ~~name~~ I'm Charles. I wa-want can want to ~~help~~ discuss, the situation with the, ~~Parliament~~ House of Parliament or Commons..."_
 
-The prospect of talking, except to yourself and a dog—which Charles had two of—causes huge anxiety. Living a life wondering about all the words you ~~didn't~~ couldn't say, causes loneliness and depression. The movie The King's Speech showed it well. Stuttering usually forces a person to be shy, passive, eager to please, and come up with weird reasons for their erratic speaking like hand gestures, random silence, binge drinking, and swear words (which, like talking to yourself or dogs, for some reason never cause a stutter). It's entirely possible Charles' relationship with Parliament was so bad because he simply didn't want to talk with them. Not that he would ever admit he had an impediment. After all, he was a king!
+The prospect of talking, except to yourself and a dog—which Charles had two of—causes huge anxiety. Living a life wondering about all the words you ~~didn't~~ couldn't say, causes loneliness and depression. The movie The King's Speech showed it well. Stuttering usually forces a person to be shy, passive, eager to please, and come up with weird reasons for their erratic speaking like hand gestures, random silence, binge drinking, and swear words (which, like talking to yourself, speaking in an accent, or dogs, for some reason never cause a stutter). It's entirely possible Charles' relationship with Parliament was so bad because he simply didn't want to talk with them. Not that he would ever admit he had an impediment. After all, he was a king!
 
 My speech impediment was the reason I got a job in a car insurance claim department. After a vice president at an old company secretly told my supervisor I wasn't allowed to talk to customers—for fear of embarrassing the company—I was like shit I guess I don't have this damn gremlin under control. I wasn't even that mad about it (although I was that it was an open secret for over a year). I never told anyone I had the impediment, so, despite therapy as a kid, it was obviously still a problem.
 
@@ -1139,7 +1139,7 @@ I'm being serious by the way. We were often more stressed then the person who ju
 
 Super-shock speech therapy! After about a year, I didn't have to massage my jaws at night to release it from all the teeth shattering jaw-clenches I did to divert vocal stuttering. I was cured!
 
-The point is this. That's what it took for me to mostly never stutter. It's like night and day. The anxiety washed away. A hidden outgoing personality was brought out and frankly is fun, although still surreal, to be. I often feel out of place and of two minds—like a desert fox joining a scuba diving club.
+The point is this. That's what it took for me to improve my fluency greatly. It's like night and day. The anxiety washed away. A hidden outgoing personality was brought out and frankly is fun, although still surreal, to be. I often feel out of place and of two minds—like a desert fox joining a scuba diving club.
 
 Charles never had this lesson. Despite being adamant he was God's chosen leader, he was famously shy and quiet his whole life because that's how the gremlin likes it. Even when fighting for 16 years defending his ruling philosophy, Charles still probably had to massage his strained jaws every night. I can sympathize. The gremlin is an asshole.
 
@@ -1150,7 +1150,7 @@ And at this historic moment, Charles wasn't pretending or bluffing to not unders
 The judges convicted Charles anyway. He was sentenced to death by removing the head from the body. The convicted king was astounded. His next chance to speak would be at his own chopping block.
 
 ![New Tool Creation](/img\diagrams\techvolution-whitehall-charles.jpg)
-_This is Whitehall. A palace built by Henry VIII. Charles waited here for his death and was executed on a scaffold outside this room. On the ceiling is a painting commissioned by his father which shows Charles' dad being taken to heaven by angels. Charles was raised his entire life to be a divine king. Could you see outside the divine rights of nobles if you were him?_
+_This is Whitehall. A palace built by Henry VIII. Charles waited here for his death; was executed on a scaffold outside this room. On the ceiling is a painting commissioned by his father which shows James I being taken to heaven by angels. Charles was raised his entire life to be a divine king. Could you see outside the divine rights of nobles if you were him?_
 
 ## Charles Speaks
 
@@ -1218,179 +1218,28 @@ The fate of civilization is then, rather simple. Who is your hero Stargazer? Wil
 
 ## Extra vs Player God
 
-Our story takes us to Anytown in Western Civilization. From Austrailia's high heat, to England's rainy shores, to coast to coast in the United States of America. Our story plays out anywhere the kings of Europe planted their flags and seeded todays wealthy capitalist democracies who use red/blue philosophy, obesses about mass production, and tell their members to compete to rise inside a bureaucratic or corporate heirarchy. All relics from the Industrial Age culture, that peaked in 1969.
+Our story takes us to Anytown in Western Civilization. From Austrailia's high heat, to England's rainy shores, to coast to coast in the United States of America. Our story plays out in Western Civilization. Where today's wealthy capitalist democracies who use red/blue philosophy, obesses about mass production, and tell their members to compete to rise inside a bureaucratic or corporate heirarchy. All relics from the Industrial Age culture, that peaked in 1969.
 
-===
 
-Off we go to a high-school gym. Seniors walk around. Their accents don't matter. The school logo doesn't matter. Everyone is wearing the same fashion, listening to the same music, buying the same products. This is happening right now, across the world that the Industrial Age worked so hard to globalize.
 
-The kids walk between neatly arranged tables. Behind each stand a few adults who hold the "swag" of various universities. A teenage Stargazer looks up, and sees a big "Your Future, Your Choice" sign.
-
-A perky college recruiter, Sam, breaks Stargazer's wonderment "You look like a thinker. We'll let me tell you, Bedwick College has everything you're looking for."
-
-Stargazer responds "What am I looking for?", Sam responds "The education of a lifetime, and the prestige of being part of a renowned cutting edge institution. And we have some of the best financial aid...."
-
-Player god: This magic moment. Right here and now, you get to decide what tool, and what philosophy you want to join with.
-
-Extra: Really specific. Maybe we join the military?
-
-
-
-===
-
-Stargazer sits in a college classroom. A few years older now. Wearing a sweater of some college while taking notes as a professor lectures, "As we know from the recent paper by Johnson, the Film Noir is it's own genre of film. This revelations leads us towards many interesting discoveries in the history of French Normandy Cultural filmmaking of the 1990's..."
-
-We jump forward. Stargazer is in a circle of student activists on a campus ground. The Activist Leader is of course dressed in hippie gear, shouting out "We took away the natives land, and we need native justice right now!"
-
-The Crowd ROARS.
-
-Activist Leader goes on "We've destroyed the planet, and we need climate justice right now!"
-
-The Crowd ROARS. An Activist Member cries out "We're doing it. This is just like Woodstock!"
-
-Player god "I have no hope of countering this tribalism. But I'm going to remember these moments for later." Extra inquires "When, why later?"
-
-Player god, "You'll see.
-
-===
-
-A old regal building. The kind where ivy climbs the beautiful stonework, the windows are stained glass, and cobblestone paths edge out gardended green grass. Students walk about, to and from the many buildings. Many walk towrads the the door that says "Financial Aid" on it.
-
-Stargazer sits acriss from a fifty year old administrator. "I'm a $80,000 in debt?". The administrator responds "Yes, the interest payments will acrue six months after your graduation date. The information packet will discuss the recommended payment schedule.
-
-Stargazer flips through the many packages of the packet, stops on "Student Loan Delinquency and Default: Loans must be repaid."
-
-Player god: It means they got you. Screw Wikipedia, Brilliant, Skillshare. Education of the Internet Age. This stamp of approval will get you paid better. You're got a title now. You're a squire of the Industrial Age heirarchy. Let's go scheme our way up it.
-
-### A Career
-
-EXT: CORPORATE OFFICE - DAY
-
-Stargazer sits in a row of chairs. Older now. Folder in hand. Resume inside. A bunch of other squires all doing the same thing.
-
-INT: GYM - NIGHT
-
-Stargazer works out. All fit. Sits on the mat, and stares at the phone.
-
-EXT: COFFEE SHOP - NIGHT
-
-Stargazer is sipping a late. Wearing winter clothes. On a laptop, working on the resume. The phone rings. Someone talks. And talks. And...
-
-Stargazer: Of course, I'm very happy to accept your offer.
-
-Extra: I fucking told you! We got it. I'm a Customer Service Representative.
-
-Player god: You work at a call centre hearing complaints about something.
-
-Extra: It's entry level. Shut up. You were wrong! I'm in.
-
-INT: CALL CENTRE - DAY
-
-Phone are ringing. Stargazer is on the phone. YELLING is coming from the other end. Stargazer is reading from a script with a big corporate leaderhead on it.
-
-Stargazer: I do appreciate your comments and we'll be sure to include them in our...
-
-EXT: TRAFFIC - DAY
-
-Stargazer is stuck in traffic. The car is entry-level Honda Civic.
-
-INT: MORTGAGE OFFICE - DAY
-
-You are the proud owner of a new condo!
-
-EXT: TRAFFIC - SUNRISE
-
-Traffic again.
-
-INT: CALL CENTRE - NIGHT
-
-On the phone again. More yelling. Stargazer is in the supervisors position.
-
-Stargazer: Hey! listen, that has nothing to do with me, but i'll help you out. I got to get home, I'm finally moving out of my condo. Inside deal. This is what you gotta do.
-
-EXT: CONFERENCE CENTRE - DAY
-
-Hundreds of employees are walking into the conference centre. Taxi's and security guards wait outside. There are several desks with Human Resources people giving out room numbers.
-
-Human Resources: Come and find your number. One or two!
-
-The employees file in. The faces get panicky.
-
-Co-worker: Oh my god! Is this a mass firing?
-
-INT: WASHROOM STALL - MINUTES LATER
-
-Player god: Don't worry. You're an assistant regional manager. That's like walking on water.
-
-Extra: Shut up! On my god. There giving us numbers like we're fucking cattle.
-
-Player god: You have no power. You get no value. Just leave. Sell your stupid ass house with the upgraded kitchen and ...
-
-Extra: And what? You talk like there's a job waiting for us.
-
-Player god: There's problems waiting for us. If we learn to solve them.
-
-Extra: What and start a business. Smuck around like nobodies. Be a fucking loser all that... all that debt we have to...
-
-Player god: And you said it. They got us. So go out. Maybe we're in the good room.
-
-EXT: CAR LOT - DAY
-
-Stargazer. A bit older. Roaming the new cars.
-
-INT: FAMILY ROOM - NIGHT
-
-Player god: Now it's my turn. Now what. Kicked the can to the next generation. Climate change. Government debt. Failing infrastructure. Businesses that still think workers on a production line. Collaboration killed. The Internet Age stalled. Now what. You're passing this all to your kids...
-
-===
-
-Stargazer sits and watches televison with the family. Coffee in hand. On screen is Oprah Winfrey, interviewing Donald Trump and his family sometime in 2011.
-
-Trump says "and I look around, and this is in South Korea, they have all these factories, roads, bridges, and we built all this for them, and we have this huge base, 30,000 Americans there. I ask, why aren't they paying us for this?"
-
-Player god responds "He'll be President." Extra chimes in "You're a quack." Player god responds "Camels in the Amazon. Camels in the Amazon."
-
-We fast forward, November 8th, 2016. It's late, kids are a bit older, one is awake, two are sleeping on their parents. Stargazer is again watching television, the 2016 election night coverage, TRUMP WINS.
-
-Player god, "Camels in the Amazon. Told you." There is no smugness in Player god's words, although given the stunned faces on screen, maybe there should be. Extra starts shedding a tear, then says "How'd you know? And don't say anything about camels." Stargazer responds, "Fine, polars Bears in Antartica. What do you think is happening now... When does a species become foreign? Take a new island. No life. No nothing. Just water, sun, and warmth. Lifeforms would slowly arrive right. First grasses, mosses, then insects, birds, trees, nuts, fruit. It's a land rush right? Nothing is native, anyone can earn their place. Sharp elbows, first one there wins. But eventually, a balance forms. There's no longer a land rush. Forests are planted, beaches have forme, meadows are meadowy. That baren rock now has an ecosystem. A food web. Lifeforms no longer compete for a spot. They are born into a spot, and born into a role. Lifeforms, like bees to the flowers, start collaborating. Like when we watch all those BBC Planet Earth documentaries, and find out how integrated lifeforms inside the Great Plains, Shallow Seas, and Antartica are. One small change, like a foreign and invasive species, can turn the ecosystem upside down."
-
-PICTURE OF INVASIVE SPECIES DEVASTATION
-
-The same process. A mad dash of growth, then collaboration happens in humanity too. The Protagonist Kings and Executives mastered the growth stage. The kings established political power. The exectutives economic power. The kings spread their power across the globe in colonialism and conquest. And the executives did the same with globalization and cosmopolitianism. But evetually, the land fills up with any lifeforms, and a ecosystem forms. That's why the revolutions that formed democracies formed borders. To say whose a member of this ecosystem.
-
-People in Boston in 1776 didn't want people in London telling them how to live. Well, now, the people on Main Street need their own products and services custom made for their ecosystem.
-
-Why aren't their camels in the Amazon? A different environment needs different adaptions. Why can't we send the endangered polar bears to freezing antartica? Because the pengiuns there would be decimated by the invasive species. So why do people in Boston buy cars designed in California but made in China, and fueled by Iran? Adaptability applies to human cyborgology. And to continue evolution, we need borders, because all ecosystems have members and non-members. And that's why Trump won. The natural progression we're going through is to form an ecosystem. We don't see this. And neither did our ancestors. That's why Antagonist Kings needed to hire foreigners to do their fighting. The local people had evolved past them....
-
-## Polar Bears in the Amazon, Collaboration is the future, as is ecosystems
-
-If someone were to tell you how to vote, while looking over your shoulder, you'd be weirded out and call the police. And society in general would agree nobody should tell you, nor force you, how to vote. You yourself haven't done anything to earn that right. It's a byproduct of living inside a political ecosystem with guns used by recognized policeman, fair judges of a court system, and the absence of invasions or desperation that lets every member of the community cast a vote.
-
-Your life wont get better until you think of a tools in the same way. The solution to your political and economic problems. Using red/blue philosophies is a recipe for living in the past.
-
-Everytime you listen to a political speech just notice how many times they talk. Once you ask yourself what tool am I getting to bring down taxes, cap the debt ceiling, fight climate change, then you'll talking solutions. Until then you'll be experincing societal collapse.
 
 ## The End
 
-Donald Trump is the savior of Western Civilization. This time that statement isn't rhetorical. Trump is our saviour; not because of his policies. Not because he makes you happy or angry. Trump's a savior because he broke the Right/Left mold. The Industrial Age philosophes are degenerating our society towards collapse. Neither will ever understand the Internet Age and mass-collaboration. Trump may not either, but he's made us think, "what politics do I want?". And that question is the first step to increasing your political power, so you can makes yourself happy inside a modern Internet Age society.
+If someone were to tell you how to vote, while looking over your shoulder, you'd be weirded out and call the police. And society in general would agree nobody should tell you, nor force you, how to vote. You yourself haven't done anything to earn that right. It's something our Rousseau inspired player god ancestors earned for us.
+
+Now it's our turn. The solution to our political and economic problems is upgrading to a new philosophy. Using red/blue philosophies is a recipe for living in the past.
+
+Donald Trump is thus savior of Western Civilization. This time that statement isn't rhetorical. Trump is our saviour; not because of his policies. Not because he makes you happy or angry. Trump's a savior because he's such a departure from the Red/Blue decaying mold, he makes us think, "what politics do I want?". And that question is the first step to increasing your political power.
 
 We can all enjoy the era of mass-collaboration now, if you stop watching the story of civlization. No revolutions or wars. Not even marches or protests. Whereever you are, look around, and see old drafty windows, gas engine car, cable news, mass-producted toys, eight different bosses, car traffic, endless red-tape.
 
-Do you see the Industrial Age? Do you now feel the need to upgrade your small part of the world to the Internet Age, and understand how control your part makes you politically powerful? Or do you want to return to the comfort and safety of following the rules and being an uninvolved extra of Conservative/Progressive chasing phantoms. Did Techvolution click? The fate of your life, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
+Do you see the Industrial Age? Do you now feel the need to upgrade your small part of the world to the Internet Age, and understand that if you control your part of society, that makes you politically powerful to keep demanding the freedom to invent and use what tools you want, the same way you can vote any way you want?
+
+Or do you want to return to the comfort and safety of following the rules and being an uninvolved extra of Conservative/Progressive chasing phantoms. Did Techvolution click? The fate of your life, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
 
 If you do, we win. If you don't, we lose.
 
 # EPILOGUE
-
-## Techvolution and The Lifestar
-
-Usually, you'd be free to say Techvolution didn't click and so leave me alone because I'm going back to my life and none of this player god nosense is my problem. Historically, in politics, our judges are ourselves and we can bullshit ourselves out of healthy eating, self-reflection, and definitely all the attention it takes to be a player god.
-
-But in the future, the near future, our judge won't be ourselves or the philosophy that clicks. No. It will be Nature. And Mother Nature doesn't take bullshit.
-
-Soon Evolution will be your rulebook. No middleman. No subsidies. No dark majic. No Death Star. No Darth Blockbuster. Would you be a player god, if the only person judging you, was the same person that judges oak trees, cheetahs, and polar bears? You would be, or Evolution will get rid of you.
-
-And welcome to the Life Star. A rulebook based on Techvolution, governed by human technological adaption and natural selection that makes sure humanity never stalls when upgrading to the next technological age. It's better if Techvolution clicks now, but even if it doesn't, its rulebook coming, and I guarantee you, Techvolution will click in the future. Here's the reason why.
 
 ## Frontline Pain Kickstarts Evolution
 
@@ -1400,70 +1249,50 @@ This episode was the tale of a crazed man, who wants to talk with the powerful C
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/TheseColossalHousefly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-New technology is either our salvation. Or our distraction. The clip is about one car accident. They kill tens of thousands of people each year. Hounds of thousands more are injured. And million of lives are changed. We spend about 200 billion every year on car accident insurance claims. That's about ten times NASA's budget.
+New technology is either our salvation. Or our distraction. These are the poor souls car insurance adjusters speak to. Most aren't so devastated, but many are. Crashes, deaths, hijackings, murders, drive-bys, car fires, everyone calls into insurance eventually. And all the while BEEP BEEP BEEP BEEP BEEP BEEP.
 
-At it's heart, Smithereens is a story about an extra. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. "They" only your interest at heart if you bring power to the table, that forces them to make a deal with you. And to have power you must control a tool that makes you powerful; you must be a player god.
+Car crashes kill tens of thousands of people each year. Hundreds of thousands more are injured. And million of lives are changed. We spend about 200 billion every year on car accident insurance claims. That's about ten times NASA's budget.
 
-When I watched Smithereens I knew within a few minutes the main character lost someone close to him in a car crash. I knew because I spent years talking to that person. When I realized it, I actually wept. This was the reason I made my app. I wanted to showcase how the future of technology will help us solve things like horrible, useless, and preventable car crashes with something called the Life Star; and only player gods are welcome to use this evolutionary rulebook.
+At it's heart, Smithereens is a story about an extra. The tortured main character assumes Smithereens will care. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. "They" only have your interest at heart if you bring power to the table, that forces them to make a deal with you. And to have power you must control a tool that makes you powerful; you must support the the Jedi so new and better tools are invented, and reach for it to become a player god.
+
+When I watched Smithereens, I actually wept. I knew so early on the plot twist, because I'd spoken with this guy so many times. This was the reason I made my app. I wanted to showcase how the future of technology will help us solve things like horrible, useless, and preventable car crashes with something called the Life Star. What I learned is befor we get there, we'll need player gods using Techvolution.
 
 ## My App - A Taste of the Life Star
 
-I never wanted to write this book. I wrote a similar one, "Why the 2008 Economic Crisis Was Only the Beginning" years ago (although I never showed anyone). All the lessons from here are there, althought it's not written very well.
+I never intended to write this book. I wrote a similar one, "Why the 2008 Economic Crisis Was Only the Beginning" years ago (although I never showed anyone). All the points from here are there—althought it's not written quite as well.
 
-I wanted (and am), writing "Building the Life Star" and "Starting Starfleet." Which in summary say, digital tools will start giving us objective facts about whose civilization and whose individual lives are more efficient, which will let us start saving oddles of money, and thus empower us to invest in space age technology. With all these savings, we'll send ourselves to the Space Exploration Age.
+I wanted (and am), writing "Building the Life Star" and "Starting Starfleet." Which in summary say, digital tools will start giving us objective facts about whose civilization and whose individual lives are more efficient, which will let us start saving oddles of money, and thus empower us to have much more efficient civilizations. With all the savings, we'll start Space Exploration Age.
 
 So I made my app to showcase to demonstrate those two facts. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in "tech."
 
-The tool wasn’t polished because new tools never are. But it was, and would have been, so effective because it came directly from the frontline. A place far away from today’s ruling philosophy. And while I always knew head office people were hostile to Internet Age upgrades. I didn't realize they actively feared it.
+The tool wasn’t polished because new tools never are. But it was, and would have been, so effective because it came directly from the frontline. The place where evolution happens, but a a place far away from today’s gatekeepers. And while I always knew the heirarchy on top of head office were hostile to Internet Age upgrades. I didn't realize they actively feared evolution.
 
-Here’s how my app worked. Today’s car insurance claim system depends on drivers exchanging information like names or insurance policy numbers after a car accident. Drivers are frazzled so they usually don’t. My adjusting job was talking to these drivers to process their insurance claims. The one supposed to return drivers back to normal; at least as best to normal as money can get them. A big problem was simply knowing who the other driver and adjuster were. Since adjusters often didn’t know, we had to search for it; literally calling around or hoping someone calls you. Delays piled up like crazy; making an already stressful situation worse.
+Here’s how my app worked. Today’s car insurance claim system depends on drivers exchanging information after a car accident. Drivers are frazzled so they usually don’t. A simple mistake that causes a big problem because we adjusters had to search for each other; literally calling around or hoping someone calls you. Delays piled up like crazy.
+
+My app combined several existing technologies, email, internet, GPS, google maps, and web apps, to make a new tool. It let insurance adjusters post an accident on a google map. Since every accident shares the GPS coordinates, all adjusters, regardless of what drivers do, can find each other. It’s minimal operating cost was paid for by rental car companies and repair shops, who loved the ability to email invoices directly to adjusters without having to call first.
 
 ![New Tool Creation](/img\diagrams\techvolution-civilization-is-here.jpg)
 _Look familiar? I told you computers games teach us about the Internet Age. A sneak peek at the Lifestar._
 
-Adjusting sucks. Our only tools were a telephone, email, voicemail, checkbook, google, and a supervisor telling us to hurry up or get fired. Beyond st-st-stress ~~stressful~~, very emotionally taxing.
+A simple new tool that only someone on the frontline would ever feel the pain to make. A bit of human technological evolution, and evidence to showcase the era of mass-collaboration. With no exaggeration, society would have saved hundreds of millions in insurance claim operating costs. That’s cool. Adjusters, service reps, and drivers would save hours of their day. That’s cool too; all ways to make middle-class life happier.
 
-Until you speak with a driver who is a real person. Real person because their accident was a life changing horror. Maybe their arm was amputated, or their friend was ejected from the car, or their kid burned alive twelve hours ago.
-
-You’re mind shuts up Darth Call Centre the moment you talk to this real person. They have a problem and your soul wants to help.
-
-Why did this happen? That’s all drivers want to know. Was someone trying to beat a red light? Was the road not salted for ice. Was it drunk driving? What’s the reason for the sudden terror of pain? It’s soothes people to know why the accident happened; it helps knowing it won’t happen again.
-
-My app combined several existing technologies, email, internet, GPS, google maps, and web apps, to make a new tool. It let insurance adjusters post an accident on a google map. Since every accident shares the GPS coordinates, all adjusters, regardless of what drivers do, can find each other. And that's the era of mass-collaboration. All these strangers can work together with no middlemen like Call Centre supervisors. It’s minimal operating cost was paid for by rental car companies and repair shops, who loved the ability to email invoices directly to adjusters without having to call first.
-
-A simple new tool that only someone on the frontline would ever feel the pain to make. A bit of human technological evolution.
-
-With no exaggeration, society would have saved hundreds of millions in insurance claim operating costs. That’s cool. Adjuster’s and drivers would save hours of their day. That’s cool too. But this is the part especially worth fighting over. With my app, for the first time, we’d have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, demographics, and many other databases. We’d finally learn why car accidents happen, and start to fight back.
+But this is the part especially worth fighting over. This is the small part of the Life Star I wanted to show to the world. With my app, for the first time, we’d have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, demographics, and many other databases. We’d finally learn why car accidents happen, and start to fight back.
 
 <a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 _Ontario police use Twitter to tell the public car crashes. People in this feed, are going through what the Netflix clip above showcases. And the Death Star said it was moral and just to stop it._
 
-A database of accident locations, and reasons doesn’t exist today. Government regulators don't care about it. Insurance company managers don't care about it. And extras tell themselves "they" are doing it all. So, when tree branches grow over stop signs, tires are faulty, intersections jam up too much, pot holes get too big, or anything else repeatedly causes accidents, we don’t even know. But with a database, and using machine learning and artificial intelligence, we’d find trends to the millions of accidents, and tens of thousands of deaths that happen every year.
+A database of accident locations, and reasons doesn’t exist today. Government regulators don't care about it. Insurance company managers don't care about it. And extras tell themselves "they" are doing it all. So, when tree branches grow over stop signs, tires are faulty, intersections jam up too much, pot holes get too big, or anything else repeatedly causes accidents, we don’t even know. But with a database, machine learning and artificial intelligence, we’d find trends to the millions of accidents, and tens of thousands of deaths that happen every year.
 
-Making a tool, using the tool, and controling the tool is good politics. Car accidents are a problem you, I, everyone, can solve to make the world better. But without Techvolution, the right and duty to invent new tools, all the potential of the Internet Age will continue to be held back by the powers of the Industrial Age.
+But without Techvolution, the right and duty to invent new tools, it was held back by the powers of the Industrial Age.
 
-These powers don’t feel frontline pain. In my case executives, lawyers, marketers, and consultants. All they had was reasons and excuses. Like Darth Blockbuster, they didn’t know one thing about their own industry. Not one. Car accidents are a mystery—like how to take out their own trash. Their self-entitlement, blank faces, clueless looks, arrogant smirks angered me so much it merged years of political theory in my mind, and let me see a new ruling philosophy called Techvolution in my head. And that's why I wrote this book. It's a blueprint for the world under the rulebook of the Life Star.
+These powers don’t feel frontline pain. In my case executives, lawyers, brokers, marketers, and consultants. All they had was reasons and excuses. Like Darth Blockbuster, they didn’t care about the future, and didn't know one thing about their own industry. Not one. Car accidents are as mysterious as how to take out the trash. Their self-entitlement, blank faces, clueless looks, arrogant smirks angered me so much it merged years of political theory in my mind, and let me see a new ruling philosophy called Techvolution in my head. And that's why I wrote this book. It's a blueprint for the world under the rulebook of the Life Star.
 
-I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer to solving car accidents. But Darth got in the way. He’ll never say that, or even know it. He thinks frontline pain is a thing to stand above, not ever feel and solve with new tools. Darth is nothing if not detached. He is the epitome of apathy in the face of others’ pain. Self-declared main characters think extras are expendable.
+I did my best as a protagonist. I was not good enough to prevent anyone’s Smithereens, but I did my best. The point isn’t that I wallowed in self-pity or guilt. The point is that neither self-pity nor guilt need to exist in the Internet Age. Because the Life Star will make frontline pain the only judge of right and wrong. Antagonists will be accountable for their positions, jobs, and their actions.
 
-I did my best as a protagonist. I was not good enough to prevent anyone’s Smithereens, but I did my best. The point isn’t that I wallowed in self-pity or guilt. The point is that neither self-pity nor guilt need to exist in the Internet Age. Because the Life Star will make frontline pain the only judge of right and wrong. Antagonists will be accountable for their positions, jobs, and their actions. Thus, Techvolution is the last ruling philosophy we'll need. You'll read about in Techvolution: Building the Lifestar.
+Because soon Evolution will be our rulebook. No middleman. No phantom chasing. No dark majic. No Death Star. No Darth Blockbuster. Would you be a player god, if the only person judging you, was the same person that judges oak trees, cheetahs, and polar bears? You would be, or Evolution will get rid of you. That's the Life Star. The technological re-creation of Evolution; a rulebook to enforce Techvolution. While it's better if Techvolution clicks now, but even if it didn't, I guarantee you, this new philosophy will click in the future. You'll read all about it in the next book.
 
 # THE APPENDICES
-
-## The End and the Beginning
-
-Philosophy is a gift. It lets humanity invent and use new and better tools. Ancient Greece got it first, then it went to Rome, then to Middle East, back to Italy, where it spread to what we call Western Civilization.
-
-The Western World, is a made up term. Don't get me wrong, it's a good way to describe the shared culture of France, Britain, Holland, America, Austrialia and the other members of the political unit we call "The West". But if you look down at the globe, these landmasses wouldn't look united. The West is a human creation. There was no "Western Europe" in Roman times. The entire Mediterranean and surrouning land was unified by all-weather roads, a postal system, a religion, and language.
-
-It wasn't until western Rome half fell in 476, and North Africa was conquered in the 700s, that what we call Western Europe was isolated, and hence got its own identity. It was these once barbarian germanic tribes, newly converted to Christianity, who laid the seeds for Western Civilization. The first kings of Western Europe survived the Dark Ages. They slowly returned civilization in the Medieval Ages. By the time the Renaissance Age came, they were well to do. But it was in the Science Age and the Industrial Age, they saw their power grow, and cement themselves world wide.
-
-They won. Western Europe didn't have a head star. They didn't have any sort of advantage other than maybe geography. They simply used modern technology better than any other civilization, and more importantly they updated their ruling philosophy to harvest new tools. Although there were antagonists, new philosophies made the West, a term known around the world.
-
-And now, we are at a entirely new age. The Internet Age is just as big as a history moment as the Science Age. Africa, South American, East Asia, Middle East, India, Eastern Europe any place in the world is no better off then Western Europe was. The winner of the Internet Age is up for grabs. I don't know who will win. I do suspect though, the people of the West, seem to be dead-set on holding on to their ancestors glory, and going down with the ship that was Western Civilization.
-
-- Mention Greek Philosophy, moving from Greece, to Rome, to Middle East, to Western Europe, and now to?
-
 
 ## Stuff I Couldn't Fit In
 
@@ -1477,9 +1306,9 @@ For reference, here's all the lessons our ancestors taught us in blood, sweat, a
 
 ===
 
-**Modernity**: 
+**Modernity**: The point when we got modern technology and made modern philosophies. The printing-press, telescope, microscope, and so forth, let humanity develop better philosophies to explain Nature. While this happened in the physical sciences with Galileo, with computers, it'll now soon happen with humanity.
 
-**Your Happiness**: Is a gauge on how healthy the player god is.
+**Your Happiness**: The best gauge on how healthy the player god is.
 
 **Phantom Communists and Fascists**: Nicolo Machiavelli "Imagine Principalities".
 
@@ -1507,4 +1336,20 @@ Something ... comes from John Locke. He came after Hobbes and agreed with his St
 
 **Techvolution**: Comes from me. It synthesizes all that we've learned, into a new philosophy for a modern age. I attributed much of it to playing computer games, reading and watching science fiction, and working lots of frontline jobs. Playing, reading, and living in the future made the old philosophies of 20th Century politics so old fashioned. Putting it all together into a book took lots of reading, thinking, and working. Some intelligence helped, but it was the stubborness to keep going, and the belief in a higher power, that deserves the most credit. I hope it was worth it.
 
-- Firefox’s Enhanced Tracking Protection marks a major new milestone in our battle against cross-site tracking: we now block fingerprinting scripts by default for all users, taking a new bold step in the fight for our users’ privacy.
+## The End and the Beginning
+
+The Western World is a made up term. Don't get me wrong, it's a good way to describe the shared culture of France, Britain, Holland, America, Austrialia and the other members of the political unit we call "The West". But if you look down at the globe, these landmasses wouldn't look united. The West is a human creation. There was no "Western Europe" in Roman times. The entire Mediterranean and surrouning land was unified by all-weather roads, a postal system, religion, language, army, and political system.
+
+It wasn't until western Rome fell in 476, and North Africa was conquered in the 700s, that what we call Western Europe was isolated, and hence got its own identity. It was these once barbarian germanic tribes, newly converted to Christianity and loyal to the idea of Rome, who laid the seeds for Western Civilization. The first kings of Western Europe survived the Dark Ages. They slowly returned civilization in the Medieval Ages. By the time the Renaissance Age came, Western Europe was doing quite well. But it was in the Science Age and the Industrial Age, the West saw their power grow, and cement themselves world wide.
+
+If the game ended in 1900, The West would have won the game of civilization. Western Europe didn't have a head start. They didn't have any sort of advantage. If it's geography, resources, genes, or whatever were the reason for the West's rise to power, why did western Rome fall?
+
+Western Europe simply used modern technology better than any other civilization. That's because philosophy is a gift. It lets humanity invent and use new and better tools. Ancient Greece got it first, then it went to Rome, then to Middle East in the Islamic Golden Age, back to Italy in the Renaissance, where it spread to what we call Western Civilization during the Science and Industrial Age.
+
+Updating, or "clicking", philosophy is required in civilization building games for a reason. Society has to keeping doing it. Because the game of civilization never ends. Clicking new philosophies is the only way to keeping inventing new tools, harvesting more resources, and surviving the game. Although there are antagonists, the rest of society either defeats them, or their civilization is replaced by another player.
+
+Playing Civilzation, Anno 1800, or any other game is a better education than the best schooling today. Our culture is so entrenched in the Industrial Age, people simply don't want to work to upgrade our philosophy. Or they want someone else to. But rest assured, the West is in the process of losing the game.
+
+Beause now, we are in an entirely new age. The Internet Age is just as historical as the Science Age. And nobody has earned victory over it yet. Africa, South America, East Asia, Middle East, India, Eastern Europe any place in the world is no better off then the West. I'd say, the West is far behind. In all my schooling, reading, discussing, working, in all my life, the ancestors of the barbarian kings, the ones whose grand parents worked 365 days a year in horrible factories, who suffered famines, draughts, and wars; their grandkids today simple don't want to feel frontline pain. It's why so many of todays Western protagonists are foreigners.
+
+ Modern technology is so powerful, it overcomes any natural drawback like language, geography, or history. That means the winner of the Internet Age is up for grabs. I don't know who will win. I do suspect though, the people of the West are dead-set on celebrating away their ancestors glory, and going down with the ship that was Western Civilization. One thing I do know, that which ever society throws away old memories, excuses, and philosphies and embraces Techvolution and the era of mass-collaboration, will be the winner of the Internet Age. And it's this player god that will happily reign supreme in the never ending game of civilization. I smile, thinking of all those bakers, tailors, roofers, repairmen, and maybe even a few majicians, smiling on a new and empowered Main Street.

@@ -2001,3 +2001,26 @@ Enter politics. Red/blue philosophies can't help you. They're bent on promoting 
 
 Thereby, Techvolution will usher in the era of mass-collaboration. 
 
+## Techvolution and The Lifestar
+
+Usually, you'd be free to say Techvolution didn't click and so leave me alone because I'm going back to my life and none of this player god nosense is my problem. Historically, in politics, our judges are ourselves and we can bullshit ourselves out of healthy eating, self-reflection, and definitely all the attention it takes to be a player god.
+
+But in the future, the near future, our judge won't be ourselves or the philosophy that clicks. No. It will be Nature. And Mother Nature doesn't take bullshit.
+
+Soon Evolution will be your rulebook. No middleman. No subsidies. No dark majic. No Death Star. No Darth Blockbuster. Would you be a player god, if the only person judging you, was the same person that judges oak trees, cheetahs, and polar bears? You would be, or Evolution will get rid of you.
+
+And welcome to the Life Star. A rulebook based on Techvolution, governed by human technological adaption and natural selection that makes sure humanity never stalls when upgrading to the next technological age. It's better if Techvolution clicks now, but even if it doesn't, its rulebook coming, and I guarantee you, Techvolution will click in the future. Here's the reason why.
+
+
+
+Adjusting sucks. Our only tools were a telephone, email, voicemail, checkbook, google, and a supervisor telling us to hurry up or get fired. Beyond st-st-stress ~~stressful~~, very emotionally taxing.
+
+Until you speak with a driver who is a real person. Real person because their accident was a life changing horror. Maybe their arm was amputated, or their friend was ejected from the car, or their kid burned alive twelve hours ago.
+
+You’re mind shuts up Darth Call Centre the moment you talk to this real person. They have a problem and your soul wants to help.
+
+Why did this happen? That’s all drivers want to know. Was someone trying to beat a red light? Was the road not salted for ice. Was it drunk driving? What’s the reason for the sudden terror of pain? It’s soothes people to know why the accident happened; it helps knowing it won’t happen again.
+
+
+
+I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer to solving car accidents. But Darth got in the way. He’ll never say that, or even know it. He thinks frontline pain is a thing to stand above, not ever feel and solve with new tools. Darth is nothing if not detached. He is the epitome of apathy in the face of others’ pain. Self-declared main characters think extras are expendable.
