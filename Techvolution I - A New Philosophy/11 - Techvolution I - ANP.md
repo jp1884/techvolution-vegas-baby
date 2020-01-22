@@ -715,11 +715,19 @@ Let's consider some things during our short rest.
 
 ## Summary So Far
 
-I grew up writing all my book reports, projects, and essays with Microsoft Word. When I learned to program I needed to learn a code editor. VS Code, a free-to-use open source project run by Microsoft, is probably the best today. So I learned it. It turns out, writing with VS Code is amazing. Now my cyborgology now includes VS Code.
+We've been in the Internet Age since 1970. However, we're using the philosophy of the Industrial Age. To defend their power, the Industrial Age powers use dark majic to distract Main Street, and a huge, expensive, and growing rulebook to prevent our civilization evolving.
 
-Me learning VS Code was majical. The thousands of programmers who teach VS Code lessons are majicians, the others who collaborate and program VS Code are protagonists. If anyone told me I should be using Word, they'd be dark majicians. If Microsft banned writers using VS Code to protect Word, they'd would be Darth Word.
+Techvolution is the new philosophy that gives the right, and the duty, to evolve humanity in the hands of the people feeling the pain of frontline life. Whether customers or workers, we feel the majic of new tools, and are best placed to decide which improve how our society functions. Our society should be fostering the era of frontline mass-collaboration. It's the only way to make our civilization healthier, and our people happier.
 
-Techvolution is the new philosophy that makes all the above click in Main Street's mind, so we demand the duty and freedom to evolve civilization as player gods of the Internet Age. What's holding us back, is our belief in the outdated Left/Right, mass production, philosophy of the Industrial Age, and philosophy is a really big roadblock to move past.
+Of course, the Death Star is meant to prevent all that. While the Internet Age has made life more complex, its ability to make life simpler has been innored. Growing regulations, endless tax codes, confusing credit card agreements, run on privacy policies, all effectually make frontline life one about survival, not adaptation. To give you a sense of how big Main Street's nemesis is, here are some real-world stats.
+
+![GWRegStudies](/img\diagrams\GWRegStudies-PagesPublishedinFederalRegister-6.12.19.png)
+![US-VMT-per-capita](/img\diagrams\US-VMT-per-capita.png)
+![public-trust](/img\diagrams\public-trust-in-government.png)
+![plastic-production](/img\diagrams\plastic-production-by-sector.png)
+![global-plastics](/img\diagrams\global-plastics-production.png)
+![annual-co2-emissions](/img\diagrams\annual-co2-emissions-per-country.png)
+_There's no way to gauge the dark majic or the Death Star rulebook. You're happiness is actually the only, and best statistic for that. But note, as the Internet Age gave us digital records, and telecommunications, the middle-class has had to deal with more government and corporate red tape, senseless daily commutes, product packaging, distrust in government, and climate change. All connected to us trying to make old Industrial Age philosophies past their expiration date._
 
 ## Old Philosophy vs. New Philosophy
 
@@ -754,7 +762,7 @@ https://www.ushistory.org/Paine/crisis/c-01.htm
 
 The belief in nobles divine rights wasn't simple selfishness. A lot of smart people wrote philosophy to justify one person having absolute power. The royal rulebook didn't have to call itself a Death Star; it was based on a respected philosophy.
 
-Today, our rulebook makes our products hard to repair, tells us to get certified for a useless accreditation, makes us sign confusing contracts. These rules exist to keep the Industrial Age alive—but they aren't arbitrary rules. They come from Industrial Age philosophy. I'm important to remember as we push for the Internet Age. The antagonists feel justified using their Death Star. And they'll keep winning, until we believe in a new philosophy.
+Today, our Death Star rulebook aren't arbitrary rules. They come from Industrial Age philosophy. I'm important to remember as we push for the Internet Age. The antagonists feel justified using their Death Star. And they'll keep winning, until we believe in a new philosophy.
 
 ## The Era of Mass-Collaboration Is Already Here
 
@@ -776,19 +784,19 @@ There are many more examples of digital products connecting people on the frontl
 
 ## The Era of Mass-Collaboration Is (Almost) Here in Your Everyday Life
 
-Say you moved into a new townhouse and want to finish your backyard. You're neighbors are doing the same. Over the summer months, everyone starts installing patio stones, assembling lawn furniture, hiring contractors, putting in pools, fences, sheds, and whatever else you dream up.
+Say you moved into a new townhouse and want to finish your backyard. You're neighbors are doing the same. Soon enough, wveryone starts installing patio stones, assembling lawn furniture, hiring contractors, putting in pools, fences, sheds, and whatever else you dream up.
 
 The question is, when making our purchases, do we consider the big picture—that our choices matter?
 
-If we choose new and better products, we're attracted to the majic of new technologies, and become player gods. If we care about trendy looks, brand names, and pretending to live inside Marth Stewart Living, then we're being an extra, attracted by dark majic. The former is good, the later bad for our civilization. Watch this clip of a user building a backyard in  the city-builder _Cities: Skylines_.
+If we choose new and better products, we're attracted to the majic of new technologies, and become player gods. If we care about trendy looks, brand names, and pretending to live inside Martha Stewart Living, then we're being an extra, attracted by dark majic. The former is good, the later bad for our civilization. Watch this clip of a user building a backyard in the city-builder _Cities: Skylines_.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ClassicSecretKarakul' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-For us today, doing all this work in the real-world, do the rules encourage, or discourage, player gods?
+For us today, doing all this work in the real-world, do the rules encourage player gods? Or is the rulebook so big and confusing, that regular people are encourage to go with the flow, and stay extras of the Industrial Age?
 
-Evolution needs us to buy solar-power roofs, start a 3D printing business in the garge, install a Hydroloop water resuser. But do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? What are your local business by-laws, construction codes, tax laws? Our society rulebook is so large and dense, we all live under the threat of making a mistake, and being hit by a code violation, lawsuit, or audit. Being an extra is easy. Being a player god takes work.
+Evolution needs us to buy solar-power roofs, start a 3D printing business in the garge, install a Hydroloop water resuser. But do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? What are your local business by-laws, construction codes, tax laws? Our society rulebook is so large and dense, we all live under the threat of making a mistake, and being hit by a code violation, lawsuit, or audit. Being an extra is easy. Being a player god is risky.
 
-Technologically speaking, there's no reason why regular people can't collaborate as easily as the _Cities: Skylines_ clip above. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, YouTube videos, can make the Internet Age rulebook seemless. But this will only be a happy reality once Main Streets understands how to avoid dark majic, and blow up the confusing rulebook I call the Death Star.
+Technologically speaking, there's no reason why regular people can't work as easily as the _Cities: Skylines_ clip above. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, YouTube videos, can make the Internet Age rulebook seemless. But this will only be a happy reality once Main Streets understands how to avoid dark majic, blow up the confusing rulebook I call the Death Star, and embrace the era of mass-collaboration.
 
 https://www.youtube.com/watch?v=ggrkTLEfFXA
 _Here's Louis Rossmann again. He's building a new store for his repair company. A complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies wont disappear in the future—we'll always need big organizations. They'll just be checked and balanced by individuals and small companies connected in mass-collaboration. We'll make that rulebook a little later, in Techvolution II: Building the Life Star._
@@ -797,11 +805,11 @@ _Here's Louis Rossmann again. He's building a new store for his repair company. 
 
 What makes something click in a person's mind? If only we knew. We can't decide to love, cry, or laugh. We must wait for a connection. Here's some stand-up that'll probably make you laugh, I'll make a point afterwards.
 
-https://www.youtube.com/watch?v=ZOiPQ8nqB1s
+https://www.youtube.com/watch?v=ZOiPQ8nqB1s&feature=youtu.be&t=19
 
-Note, followers of the Industrial Age complain because the age is over—they can't contribute anymore and instead live unfulfilled, unhappy lives as mere extras.
+Note, followers of the Industrial Age complain because theeir time is over—they can't contribute to society anymore and instead live unfulfilled, unhappy lives as mere extras.
 
-Here's my point, nobody knows how or why something clicks. However, we do understand when it does—when we can't go back. And could you ever drop Netflix and do back to Blockbuster? What about flipping through encyclopedia books. Of course not, and that's a good sign you're a believer in the Internet Age. Lets return to the book and our mission Stargazer, that's about you dropping the phantom chancing of Left/Right politics because Techvolution made a connection, and clicked you into believing in a new philosophy for the Internet Age.
+Here's my point, nobody knows how or why something clicks. However, we do understand when it does—when we can't go back. And could you ever drop Netflix and do back to Blockbuster? What about flipping through encyclopedia books. Of course not, and that's a good sign you're a believer in the Internet Age. So, lets return to the book and our mission, that's about you dropping the phantom chancing of Left/Right politics for Techvolution, a new philosophy for the Internet Age.
 
 # Mid Point
 
@@ -1374,77 +1382,73 @@ If you do, we win. If you don't, we lose.
 
 # EPILOGUE
 
-https://www.youtube.com/watch?v=2SybklT8k1k
+## Techvolution and The Lifestar
 
-Car accidents. They killed tens of thousands of people each year. Hounds of thousands more are injured. And million of lives are changed. We spend about 200 billion every year on car accident insurance claims. That's about ten times NASA's budget.
+Usually, you'd be free to say Techvolution didn't click and so leave me alone because I'm going back to my life and none of this player god nosense is my problem. Historically, in politics, our judges are ourselves and we can bullshit ourselves out of healthy eating, self-reflection, and definitely all the attention it takes to be a player god.
 
-## My App - showcase the lessons along the way
+But in the future, the near future, our judge won't be ourselves or the philosophy that clicks. No. It will be Nature. And Mother Nature doesn't take bullshit.
 
-Usually, you'd be free to say Techvolution didn't click; leave me alone. I don't like politics, and I'm going back to my life and none of this player god nosense is my problem. Historically, in politics, our judges are ourselves and we can bullshit ourselves out of healthy eating, self-reflection, and civic virtue.
+Soon Evolution will be your rulebook. No middleman. No subsidies. No dark majic. No Death Star. No Darth Blockbuster. Would you be a player god, if the only person judging you, was the same person that judges oak trees, cheetahs, and polar bears? You would be, or Evolution will get rid of you.
 
-But in the future, the near future, our judge won't be a philosophy. No. It will be Nature. And Mother Nature doesn't take bullshit.
+And welcome to the Life Star. A rulebook based on Techvolution, governed by human technological adaption and natural selection that makes sure humanity never stalls when upgrading to the next technological age. It's better if Techvolution clicks now, but even if it doesn't, its rulebook coming, and I guarantee you, Techvolution will click in the future. Here's the reason why.
 
-Soon Evolution will be your rulebook. No middleman. No subsidies. No dark majic. No Death Star. No Darth Blockbuster. Would you be a player god, if the only person judging you, was the same person that judges cheetahs, polar bears, and ash trees? You would be, or evolution would get rid of you.
+## Frontline Pain Kickstarts Evolution
 
-And welcome to the Life Star. A rulebook based on Techvolution, governed by human technological adaption and natural selection that makes sure humanity never stalls when upgrading to the next technological age. This rulebook, is why, I guarantee you, Techvolution will click in the future. Here's the reason why.
+I had a heck of a time writing this book. It really does condense so much political theory. I was pretty tired, and kind of bitter. Then I watched an episode of Netflix’s _Black Mirror_ and went back to work.
 
-===
+This episode was the tale of a crazed man, who wants to talk with the powerful CEO of an Instagram-like app called Smithereens. He holds a company intern hostage, awaiting the CEO’s call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
 
-I never wanted to write this book. I wrote a similar one, "Why the 2008 Economic Crisis Was Only the Beginning" years ago (although I never showed anyone). All the lessons from here are there. For example, it predicts the western world is trying to assert an economic ecosystem, and thus wants borders. Trump and Brexit were as predictable as the orbit of Mars was once Newton wrote gravity's equations.
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/TheseColossalHousefly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-I wanted (and am), writing "Building the Life Star" and "Starting Starfleet." Which in summary say, digital tools will start giving us objective facts about whose civilization and whose individual lives are more efficient, which will let us start investing on mass into space age technology. With all these savings, we'll send ourselves to the Space Settlement Age.
+New technology is either our salvation. Or our distraction. The clip is about one car accident. They kill tens of thousands of people each year. Hounds of thousands more are injured. And million of lives are changed. We spend about 200 billion every year on car accident insurance claims. That's about ten times NASA's budget.
+
+At it's heart, Smithereens is a story about an extra. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. "They" only your interest at heart if you bring power to the table, that forces them to make a deal with you. And to have power you must control a tool that makes you powerful; you must be a player god.
+
+When I watched Smithereens I knew within a few minutes the main character lost someone close to him in a car crash. I knew because I spent years talking to that person. When I realized it, I actually wept. This was the reason I made my app. I wanted to showcase how the future of technology will help us solve things like horrible, useless, and preventable car crashes with something called the Life Star; and only player gods are welcome to use this evolutionary rulebook.
+
+## My App - A Taste of the Life Star
+
+I never wanted to write this book. I wrote a similar one, "Why the 2008 Economic Crisis Was Only the Beginning" years ago (although I never showed anyone). All the lessons from here are there, althought it's not written very well.
+
+I wanted (and am), writing "Building the Life Star" and "Starting Starfleet." Which in summary say, digital tools will start giving us objective facts about whose civilization and whose individual lives are more efficient, which will let us start saving oddles of money, and thus empower us to invest in space age technology. With all these savings, we'll send ourselves to the Space Exploration Age.
 
 So I made my app to showcase to demonstrate those two facts. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in "tech."
 
 The tool wasn’t polished because new tools never are. But it was, and would have been, so effective because it came directly from the frontline. A place far away from today’s ruling philosophy. And while I always knew head office people were hostile to Internet Age upgrades. I didn't realize they actively feared it.
 
-Here’s how my app worked. Today’s car insurance claim system depends on drivers exchanging information like names or insurance policy numbers after a car accident. Drivers are frazzled so they usually don’t. My adjusting job was talking to these drivers to process their insurance claims. The one supposed to return drivers back to normal; at least as best to normal as money can get them. A big problem was simply knowing who the other driver and adjuster were. Since adjusters often didn’t know, we had to search for it; literally calling around or hoping someone calls you. Delays piled up like crazy. Making an already stressful situation worse.
+Here’s how my app worked. Today’s car insurance claim system depends on drivers exchanging information like names or insurance policy numbers after a car accident. Drivers are frazzled so they usually don’t. My adjusting job was talking to these drivers to process their insurance claims. The one supposed to return drivers back to normal; at least as best to normal as money can get them. A big problem was simply knowing who the other driver and adjuster were. Since adjusters often didn’t know, we had to search for it; literally calling around or hoping someone calls you. Delays piled up like crazy; making an already stressful situation worse.
 
 ![New Tool Creation](/img\diagrams\techvolution-civilization-is-here.jpg)
 _Look familiar? I told you computers games teach us about the Internet Age. A sneak peek at the Lifestar._
 
 Adjusting sucks. Our only tools were a telephone, email, voicemail, checkbook, google, and a supervisor telling us to hurry up or get fired. Beyond st-st-stress ~~stressful~~, very emotionally taxing.
 
-Until you speak with a driver who is a real person.
-
-Real person because their accident wasn’t an inconvenience but a life changing horror. Maybe their arm was amputated, or their friend was ejected from the car, or their kid burned alive twelve hours ago.
+Until you speak with a driver who is a real person. Real person because their accident was a life changing horror. Maybe their arm was amputated, or their friend was ejected from the car, or their kid burned alive twelve hours ago.
 
 You’re mind shuts up Darth Call Centre the moment you talk to this real person. They have a problem and your soul wants to help.
 
-Why did this happen? That’s all drivers want to know. Was someone trying to beat a red light? Was the road not salted for ice. Was it drunk driving? What’s the reason for the sudden terror of pain? It’s soothes people to know why the accident happened; it really helps knowing it won’t happen again.
+Why did this happen? That’s all drivers want to know. Was someone trying to beat a red light? Was the road not salted for ice. Was it drunk driving? What’s the reason for the sudden terror of pain? It’s soothes people to know why the accident happened; it helps knowing it won’t happen again.
 
-My app combined several existing technologies, email, internet, GPS, google maps, and web apps, to make a new tool. It let insurance adjusters post an accident on a google map, and verified their identity by their work email. Since every accident shares the GPS coordinates, all adjusters, regardless of what drivers do, can find each other. It’s minimal operating cost was paid for by rental car companies and repair shops, who loved the ability to email invoices directly to adjusters without having to call first.
+My app combined several existing technologies, email, internet, GPS, google maps, and web apps, to make a new tool. It let insurance adjusters post an accident on a google map. Since every accident shares the GPS coordinates, all adjusters, regardless of what drivers do, can find each other. And that's the era of mass-collaboration. All these strangers can work together with no middlemen like Call Centre supervisors. It’s minimal operating cost was paid for by rental car companies and repair shops, who loved the ability to email invoices directly to adjusters without having to call first.
 
-A simple new tool that only someone on the frontline would ever feel the pain to make.
+A simple new tool that only someone on the frontline would ever feel the pain to make. A bit of human technological evolution.
 
 With no exaggeration, society would have saved hundreds of millions in insurance claim operating costs. That’s cool. Adjuster’s and drivers would save hours of their day. That’s cool too. But this is the part especially worth fighting over. With my app, for the first time, we’d have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, demographics, and many other databases. We’d finally learn why car accidents happen, and start to fight back.
 
 <a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-Ontario police use Twitter to tell the public car crashes. People in this feed, are going through what the Netflix clip above showcases. And the Death Star said it was moral and just to stop it.
+_Ontario police use Twitter to tell the public car crashes. People in this feed, are going through what the Netflix clip above showcases. And the Death Star said it was moral and just to stop it._
 
-A database of accident locations, and reasons doesn’t exist today. So many people just assume "they" (government or corporations) record it as apart of the accident invesigation, but no one does. So, when tree branches grow over stop signs, tires are faulty, intersections jam up too much, pot holes get too big, or anything else repeatedly causes accidents, we don’t even know. With machine learning and artificial intelligence, we’d find trends to the millions of accidents, and tens of thousands of deaths that happen every year.
+A database of accident locations, and reasons doesn’t exist today. Government regulators don't care about it. Insurance company managers don't care about it. And extras tell themselves "they" are doing it all. So, when tree branches grow over stop signs, tires are faulty, intersections jam up too much, pot holes get too big, or anything else repeatedly causes accidents, we don’t even know. But with a database, and using machine learning and artificial intelligence, we’d find trends to the millions of accidents, and tens of thousands of deaths that happen every year.
 
-Making a tool. Using the tool, and controling the tool IS POLITICS. Car accidents are a problem you, I, everyone, can solve to make the world better. Who would be the loser?
+Making a tool, using the tool, and controling the tool is good politics. Car accidents are a problem you, I, everyone, can solve to make the world better. But without Techvolution, the right and duty to invent new tools, all the potential of the Internet Age will continue to be held back by the powers of the Industrial Age.
 
-People who don’t feel frontline pain. In my case executives, lawyers, marketers, and consultants. Like Darth Blockbuster, they didn’t know one thing about their own industry. Not one. Car accidents are a mystery like how to take out the trash. Their self-entitlement, blank faces, clueless looks, arrogant smirks angered me so much it merged years of political theory in my mind, and let me see a new ruling philosophy called Techvolution in my head. And that's why I wrote this book.
+These powers don’t feel frontline pain. In my case executives, lawyers, marketers, and consultants. All they had was reasons and excuses. Like Darth Blockbuster, they didn’t know one thing about their own industry. Not one. Car accidents are a mystery—like how to take out their own trash. Their self-entitlement, blank faces, clueless looks, arrogant smirks angered me so much it merged years of political theory in my mind, and let me see a new ruling philosophy called Techvolution in my head. And that's why I wrote this book. It's a blueprint for the world under the rulebook of the Life Star.
 
-Because unless you, the reader, ignores Left/Right phantoms, and starts giving a shit about real life, our world is truly going to get horrible. The Industrial Age won't just go away. Even though tens of thousands of people die from car accidents. Millions get hurt. Everyone wastes hours in traffic because of them. Darth Industrial Age doesn't car. And solving car accidents is politics. Solving that problem gives you power. Power makes you a player god. Cheering or tearing over red/blue gossip makes you an extra.
+I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer to solving car accidents. But Darth got in the way. He’ll never say that, or even know it. He thinks frontline pain is a thing to stand above, not ever feel and solve with new tools. Darth is nothing if not detached. He is the epitome of apathy in the face of others’ pain. Self-declared main characters think extras are expendable.
 
-It was still hard writing this book. It involved condensing so much political and economic theory and history (there’s a lot) into such a short space. I was mentally pretty tired, and despite indulging in Jack Jones’ "The Impossible Dream" too much, a little bitter. Then I watched an episode of Netflix’s _Black Mirror_ and went to work.
+I did my best as a protagonist. I was not good enough to prevent anyone’s Smithereens, but I did my best. The point isn’t that I wallowed in self-pity or guilt. The point is that neither self-pity nor guilt need to exist in the Internet Age. Because the Life Star will make frontline pain the only judge of right and wrong. Antagonists will be accountable for their positions, jobs, and their actions. Thus, Techvolution is the last ruling philosophy we'll need. You'll read about in Techvolution: Building the Lifestar.
 
-This episode was the tale of a crazed man, who wants to talk with the powerful CEO of an Instagram-like app called Smithereens. He holds a company intern hostage, awaiting the CEO’s call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
-
-I started to cry. I soon wept. I understood this man and I knew why he went crazy.
-
-I knew distracted driving had killed someone close to him. The man had been driving, and he checked his Smithereen feed, saw a picture of a dog or something, and he missed a drunk running a stop sign, and his beloved fiancée died.
-
-I didn’t know it was his own distracted driving, but I knew the pain the actor played out so well. I knew that because I heard it through the same crazy cries from mothers and daughters, husbands and sons. Each just wanted to tell someone why it happened, so maybe it wouldn’t happen again.
-
-I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer. It was against the rules because solving problems is a good story and Darth Blockbuster survives on bullshit.
-
-He’ll never say that, or even know it. He thinks frontline pain is a thing to stand above, not ever feel and solve with new tools. Darth is nothing if not detached. He is the epitome of apathy in the face of others’ pain. Self-declared main characters think extras are expendable.
-
-I did my best as a protagonist. I was not good enough to prevent anyone’s Smithereens, but I did my best. The point isn’t that I wallowed in self-pity or guilt. The point is that neither self-pity nor guilt need to exist in the Internet Age. The philosophy of digital tools isn’t a place of sword wielding heroes with a mass of peasants behind them. I pushed as far and high as I could. Now it's time for the big guns to come out, that you'll read about in Techvolution: Building the Lifestar.
+# THE APPENDICES
 
 ## The End and the Beginning
 
@@ -1460,7 +1464,6 @@ And now, we are at a entirely new age. The Internet Age is just as big as a hist
 
 - Mention Greek Philosophy, moving from Greece, to Rome, to Middle East, to Western Europe, and now to?
 
-# THE APPENDICES
 
 ## Stuff I Couldn't Fit In
 
