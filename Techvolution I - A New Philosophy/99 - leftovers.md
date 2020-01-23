@@ -2011,8 +2011,6 @@ Soon Evolution will be your rulebook. No middleman. No subsidies. No dark majic.
 
 And welcome to the Life Star. A rulebook based on Techvolution, governed by human technological adaption and natural selection that makes sure humanity never stalls when upgrading to the next technological age. It's better if Techvolution clicks now, but even if it doesn't, its rulebook coming, and I guarantee you, Techvolution will click in the future. Here's the reason why.
 
-
-
 Adjusting sucks. Our only tools were a telephone, email, voicemail, checkbook, google, and a supervisor telling us to hurry up or get fired. Beyond st-st-stress ~~stressful~~, very emotionally taxing.
 
 Until you speak with a driver who is a real person. Real person because their accident was a life changing horror. Maybe their arm was amputated, or their friend was ejected from the car, or their kid burned alive twelve hours ago.
@@ -2021,6 +2019,39 @@ You’re mind shuts up Darth Call Centre the moment you talk to this real person
 
 Why did this happen? That’s all drivers want to know. Was someone trying to beat a red light? Was the road not salted for ice. Was it drunk driving? What’s the reason for the sudden terror of pain? It’s soothes people to know why the accident happened; it helps knowing it won’t happen again.
 
+## Mixed Philosophical Politics
+
+Let me explain how Techvolution can be our ruling philosophy by discussing evolution in martial arts.
+
+Humanity has many martial arts: karate, kickboxing, wrestling, jiu-jitsu, judo, and boxing being among the most popular. Each martial art adapts the human body to do specific techniques like punches or choke-holds. Each martial art also makes rules, so only their chosen methods are allowed during competition; there's no kicking in a boxing match, for example.
+
+In the early 1990s, the martial arts community got curious and wondered whose martial art would win a real fight. On reflection, it seems funny that this was an original idea. But before the 1990s, people just assumed boxers or wrestlers could not fight outside their rulebook. All fighters were supposed to be ideologically loyal and sing to their choirs about their techniques being the best. If a fighter got their ass kicked in a real fight, they'd often blame themselves or say the other guy "broke the rules" and "cheated."
+
+The martial art community evolved. They held "no rules" tournaments and were fittingly rewarded with Nature's officially best martial art. The best martial art was none of them; or all of them. Meaning, the best fighters trained all techniques and used the ones they thought would defeat their opponent based on the exact moment they were fighting them. A large toolbox of techniques and an open mind to adapt proved to be the best martial art. Fighters soon embraced adaption and natural selection.
+
+This was the start of Mixed Martial Arts (MMA). A new sport that cherishes the evolution mantra "admit defeat and learn." And while boxers still punch the best, and kickboxers kick the best, evolution empowered MMA fighters will almost always win in a street fight.
+
+Red/blue ideologies are like non-MMA martial arts. They teach a limited number of techniques, limit themselves to their own rulebook, and often think "the other side" is ignorant. Ideologues even accuse non-believers of cheating after losing a vote or election. However, in their area of expertise red/blue have a massive reservoir of know-how. The ideals and openness of Progressivism helps bring new peoples into Western culture, while giving a leg up to those already inside. The practicality and steady hand of Conservatives helps insure our society keeps working. Moreover, each side has immense knowledge on monetary policy, farm regulation, labor relations. This single book can't replace all that knowledge. It would be laughable to suggest it could.
+
+But we still need a new ruling philosophy. One created from the lessons of evolution and digital tools old philosophies could not factor in. Hence why this book is about making human technological evolution, Techvolution, the most protected political right and responsibility today. There's no other way to enter into the Internet Age.
+
+You can think of Techvolution as "mixed philosophy politics." Under Techvolution, a player god is encouraged to study and believe in old philosophies. Ideals like equality, liberty, equity, family values, social justice, are all still valid if they motivate you to improve civilization. But no one should let the rule books of old philosophies determine right and wrong when up against a person's right to evolve on the frontline. Like voting our interests in elections, we the people on the frontline today—the people in the real fight—need the freedom to decide which tool best solves a problem. The right and duty to evolve must trump all other considerations.
 
 
 I made a new tool that would have helped. Not solved. Not actual magic, but it majically would have gotten us closer to solving car accidents. But Darth got in the way. He’ll never say that, or even know it. He thinks frontline pain is a thing to stand above, not ever feel and solve with new tools. Darth is nothing if not detached. He is the epitome of apathy in the face of others’ pain. Self-declared main characters think extras are expendable.
+
+## Thomas Paine
+
+===
+
+  >SINCE the time that learning began to flourish there has been a common opinion maintained which affirms: "Mankind is naturally endowed and born with freedom, and at liberty to choose what form of government it please, and that the power which any one man has over others was at first bestowed according to the discretion of the people."
+
+  But how this vulgar opinion has of late obtained a great reputation is unknown to me. It is not to be found in the ancient fathers and doctors of the true Church. It contradicts the doctrine and history of the Holy Scriptures, the practice of all ancient monarchies, and the very principles of the law of nature. It is hard to say whether it is more erroneous in divinity or dangerous in policy.
+
+  This desperate assertion whereby kings are made subject to the judgements and deprivations of their subjects follows as a necessary consequence of foolhardy position of the supposed natural equality and freedom of mankind, and liberty to choose what form of government it please.
+
+Patricia, Or the Natural Power of Kings
+by Robert Filmer
+1680
+(I made some edits for readability's sake)
+https://www.constitution.org/eng/patriarcha.htm
