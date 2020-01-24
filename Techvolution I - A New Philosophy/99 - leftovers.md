@@ -2055,3 +2055,13 @@ by Robert Filmer
 1680
 (I made some edits for readability's sake)
 https://www.constitution.org/eng/patriarcha.htm
+
+## Oscars
+
+| Best Picture Winners | Average Theatre Gross  |
+|----------------------|------------------------|
+| 1990s                | $ 188,752,801          |
+| 2000s                | $ 142,705,937          |
+| 2010s                | $ 64,035,754           |
+
+_Less people care every year for the art films, because art films are more self-indulgent every year. While these numbers don't include streaming or DVD rentals, they also don't include inflation. ALl numbers from boxofficemojo.com_
