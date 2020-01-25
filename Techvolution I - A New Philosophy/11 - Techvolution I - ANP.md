@@ -289,7 +289,7 @@ Before we plunge into the story of Techvolution, here are a few terms that will 
 
 ===
 
-**Player god**: Imagine a person playing a computer "civilization building" game with our society. They would hold all the levers of power, and thus decide where to put roads, what to teach our kids, or how much to fund cancer research. Of course, there is no such player. In reality, it's the choices of individuals that decide what the community does. Player gods make the collective consciousness of society—but only if real-life people on Main Street choose to become player gods and take responsibility for their society. If we do, we "play the game" of civilization. evolve as required, and win.
+**Player god**: Imagine a person playing a computer "civilization building" game with our society. They would hold all the levers of power, and thus decide where to put roads, what to teach our kids, or when houses all get solar panels. Of course, there is no such player. In reality, it's the choices of individuals that decide what the community does. Player gods make-up the collective consciousness of society—but only if Main Street decides to become player gods and take responsibility for their society. If we do, we "play the game" of civilization, evolve as required, and win.
 
 **Philosophy**: The largely unspoken ideals that tell individuals what’s right and wrong, good and bad, in science, art, morals, politics, and economics. Philosophy is supposed to unite individuals to see the big picture; that everyone's choices matter, because everyone is a player god.
 
@@ -301,7 +301,7 @@ Before we plunge into the story of Techvolution, here are a few terms that will 
 
 **Technology**: A catchall term for things we make tools from, like concrete, lumber, nails, shingles, insulation, and bricks.
 
-**Tool**: A catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to record and pass on knowledge, and houses to shelter in.
+**Tool**: A catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to record and pass on knowledge, and houses to shelter in. The latest, most powerful tools, are society's levers of power.
 
 **Frontline**: The point of contact between a tool and the problem. Nurses giving vaccines, cleaners cleaning a city bus, and soldiers on the battlefield are all examples of frontline settings. People on the frontline work on Main Street with jobs that solve specific problems with a demonstrable skillset. Today the frontline is waiting for the era of mass-collaboration to start.
 
@@ -311,7 +311,7 @@ Before we plunge into the story of Techvolution, here are a few terms that will 
 
 **Protagonists**: People who invent, spread, and use new technology and new tools for the greater good. Usually close to the problems on the frontline, they individually struggle, but their continued self-sacrifice slowly and collectively improves life on Earth. I call them this world’s Jedi knights. We call their leaders trailblazers who often skirt the rules; Galileo, Nikola Tesla, Jay Last, Michael S. Hart, Bill Gates, Steve Jobs, Linus Torvalds, and Elon Musk are among their number.
 
-**Antagonists**: People who selfishly resist new tools to defend their wealth, power, and prestige atop a hierarchy. Antagonists usually manage companies or institutions based on dated technologies and think that working on the frontline is beneath them. They work to control the rulebook so they can hide behind it. We don’t often individually identify them. I coined the term "Darth Blockbuster" so we can.
+**Antagonists**: People who selfishly defend their wealth, power, and prestige atop a hierarchy. Antagonists manage companies or institutions based on dated technologies and think that working on the frontline is beneath them. They work to control the rulebook so they use it, to keep new tools from the hands of Main Street. We don’t often individually identify them. I coined the term "Darth Blockbuster" so we can.
 
 **Extras**: Everybody in the middle of a battle between antagonists and protagonists. Because they have no direct loyalty to either side, extras can pick winners and losers. Usually, extras are in the middle class, not so poor as to be desperate, but not so powerful that they want to keep the world the same. Sadly, extras don’t realize their power. When they do, they become player gods. If they don't, they stay extras, and the game of civilization turns into a story they merely watch. Extras blame phantom ideologies for their real-life problems.
 
@@ -321,7 +321,7 @@ Before we plunge into the story of Techvolution, here are a few terms that will 
 
 **The Life Star**: A rulebook based on Techvolution, governed by human technological adaption and natural selection that makes sure humanity never stalls when upgrading to the next technological age.
 
-**Plot**: Getting the extras to step up, become player gods, and grab hold of the levers of power by replacing their ruling philosophy with Techvolution to establish the era of mass-collaboration inside the Internet Age.
+**Plot**: Getting the extras to step up, grab hold of society's levers of power, and become player gods. They do this by replacing their ruling philosophy with Techvolution to establish the era of mass-collaboration inside the Internet Age.
 
 # ACT ONE
 
@@ -331,9 +331,9 @@ It all started with a door in my face. And then, actually, a few more. I was eit
 
 Before you wonder, it wasn't a matter of price, because there was no price. It wasn't a question of competition. None of that either. And I can promise it worked, because I had spent years in a cubicle doing the frontline job it serviced. After years of thinking about political and economic theory in the Internet Age, I'd written a book (Starting Starfleet) about some untapped possibilities of new tech like smartwatch apps, bio-monitors, and bitcoin. I only made this simple web app (using open-source technologies) to validate some of my ideas.
 
-I was right to. They were good ideas. I figured out how to solve a problem and save 100 million dollars, 300,000 hours of worker productivity, and even dozens of lives. All I did was  enable worker-to-worker collaboration with an app that was virtually free. Why wouldn't I want to tell people about the theory behind it?
+I was right to. They were good ideas. I figured out how to solve a problem and save 100 million dollars, 300,000 hours of worker productivity, and even dozens of lives. All I did was enable worker-to-worker collaboration with an app that was virtually free. Why wouldn't I want to tell people about the theory behind it?
 
-Sadly, I was a fool. I didn't know it at the time, but I wasn't even knocking on doors. I was knocking on gates. See, I wasn't talking to the frontline workers (who thanked me). But to the bureaucrats, lawyers, managers, and executives who were well paid to "meet, discuss, delegate" about such "garbage" problems. As holdovers from the management of the Industrial Age, I went against all they stood for; solving their problems was asking them to fire themselves. Worse, I was asking them to invalidate their identity as being "superiors." They put up gates to shut out, not promote, Internet Age innovation. The levers of power, even small ones, was theirs by right.
+Sadly, I was a fool. I didn't know it at the time, but I wasn't even knocking on doors. I was knocking on gates. See, I wasn't talking to the frontline workers (who thanked me). But to the bureaucrats, lawyers, managers, and executives who were well paid to "meet, discuss, delegate" about such "garbage problems". As holdovers from the management of the Industrial Age, I went against all they stood for; solving their problems was asking them to fire themselves. Worse, I was asking them to invalidate their identity as being "superiors." They put up gates to shut out, not promote, Internet Age innovation. The levers of power, even small ones, was theirs by right.
 
 In retrospect, all this antagonism was damn interesting. I was standing at a historic moment in time. Here the Industrial Age was taking its last stand against human evolution.
 
@@ -358,6 +358,8 @@ Our moral clarity about a problem turns the protagonists into our heroes and the
 Our hero fights hard to defeat the bad guys, but his superior morality, justice, and heroism aren’t enough. He’s often too weak or unskilled, and the villain beats him bloody. On the verge of failure, the hero needs to find something that’ll turn the tide in his favor. He seeks, sees, and reaches for his salvation: a tool or a weapon, like a gun, magic book, or lightsaber.
 
 Will our hero reach it first, or will the enemy? We in the audience, like extras in the story, hold our breath because the story’s society is controlled not by desires, opinions, or rules, but by which character holds the tools. The wielder is the victor. The victor writes the rules. It’s the lesson that we the people need to learn for ourselves. Reaching, and holding the tools—the levers of power—is how we stop being extras and start being player gods who upgrade our civilization to the Internet Age.
+
+- picture of heroes holding the tools.
 
 ## Player Gods Reach for the Tools and Don't Chase Phantoms
 
@@ -675,13 +677,13 @@ A chuckle would turn into amazement when I'd ask what the other car. I'd almost 
 
 We think our vehicles are so unique and special. It's not a car, it's "The original Sports Activity Vehicle®: a fearless leader and stylish benchmark. A BMW x5Drive50i, with Phytonic Blue Metallic paint". I'm not kidding. People would talk like that. And not know a thing about the other car.
 
-And that's dark majic.
+And that's dark majic. People a person living in 2020, is acting like it's 1969, when cars were new, interesting, and majical. When people cruised the roads, because traffic didn't exist, travelling anywhere on demand was a novelty, and road trips were still a treat. But it's not 1969, you're not in _Grease_, or _American Graffiti_, and you're not James Dean.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/DarkPopularBandicoot' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/darkpopularbandicoot"></a></p>
 
 _Professional driver on a closed course. And still a gas car, with four wheels, probably stuck in traffic._
 
-The truth is cars are all so similar, few stand out. Because to civilization, what makes a car special is it's reliability, how well a mechanic maintains it, how good your dealer treated you. The frills are interesting, enjoyable, but in the end don't really matter. You're the same cyborg with almost any car. Driver's admitted as much, because after an accident, what they wanted most of all was a rental car. Fancy features and made up colors didn't matter; they just needed to get around, and get on with their lives. Dark majic makes us think we're participating in the game of civlization as important player gods, but we're really just distracted extras.
+The truth is cars are all so similar today, few stand out. Because to civilization in 2020, what makes a car special is it's reliability, how well a mechanic maintains it, how good your dealer treated you. The frills are interesting, enjoyable, but in the end don't really matter. You're the same cyborg with almost any car. Driver's admitted as much, because after an accident, what they wanted most of all was a rental car. Fancy features and made up colors didn't matter; they just needed to get around and get on with their lives. Dark majic makes us think we're participating in the game of civlization as important player gods, but we're really just distracted extras living in the past.
 
 Industrial Age industries use dark majic to keep their customers attached to an aging product. Hollywood is a great example. In the 1930s and 40s, master storytellers like Samual Goldwyn, David O. Selnick, and Irving Thalberg headed studios that used projector, sound, and film technology to make movies a worldwide sensation. Like Steve Jobs created the world of apps that has us fixated on our phones, early Hollywood's studio system created a world of stories that glued people to their theatre seats.
 
@@ -705,12 +707,21 @@ In swoops today's internet Jedi on an ethernet chandlier. Unknown and unpaid tec
 
 A decade before the music industry was in the same spot. Record stores and CD sales died when customers got the internet and flocked to torrent sites like Napster. Music executives tried—and failed miserably—to make their own online music platform. When Steve Jobs made iTunes to help save the music industry, he said he'd "never spent so much of my time trying to convince people [music executives] to do the right thing for themselves". Eventually Jobs got them on board, and the iPod, iTunes, and AppleMusic is of course history.
 
+| Best Picture Winners | Average Theatre Gross  |
+|----------------------|------------------------|
+| 1990s                | $ 188,752,801          |
+| 2000s                | $ 142,705,937          |
+| 2010s                | $ 64,035,754           |
+
+_Average gross for each Best Picture winner. As the movies were dying, the industry fought back with excuses and lawsuits, instead of innovation and evolution. ALl numbers from boxofficemojo.com._
+
 The movie industry rejected the lesson. When DVD dark majic lost out to the majic of streaming, the industry fired up the Death Star. The same public who bought billions of dollars on DVDs and merchanise. That created fan clubs and flocked to comic-cons, was declared evil. The movie industry put FBI warnings on their products, lobbyied government for harsh punishments, and demanded the public feel ashamed for not buying DVDs anymore. Customers were sued, threats of lawsutis were mailed out. The industry called their own customers disloyal thieves.
 
 And here was born Darth Blockbuster. He was actively and knowingly preventing human evolution for the sake of his self-interest. A small band of people, we're getting in the way of our society upgrading to the Internet Age. But before we find if the villian could save the DVD (I know you know the answer, but indulge me), let's take a short break.
 
 ![Frontline movies full](/img\sketches\frontline-movies-full.jpg)
-_The movies that won awards, used to be popular movies. Today, most movies stink, most theatres are dead. That's you Stargazer, looking at the frontline after removing the dark majic mask that had you watching pompeous banquets, giving out awards to movies you've likely not even seen._
+
+_Today, most movies stink, most theatres are dead, most people don't even stream or "steal" movies anymore. They're watching good stories on Netflix. That's you Stargazer, looking at the frontline after removing the dark majic mask that had you watching pompeous banquets giving out awards to movies you've likely not even seen._
 
 # Intermission
 
@@ -718,17 +729,19 @@ Let's consider some things during our short rest.
 
 ## Polar Bears in the Amazon
 
-We've been in the Internet Age since 1970. However, we're using the philosophy of the Industrial Age. To defend their status, the Industrial Age powers use dark majic to distract Main Street, and when that fails, they pick a rule from the Death Star to prevent change.
+We've been in the Internet Age since 1970. However, we're still using the philosophy of the Industrial Age. Because the powers of the Industrial Age powers are defending their status by way of dark majic to distract Main Street, and when that fails, they pick a rule from the Death Star to prevent change.
 
-There's no way to know for sure how big the Death Star is, but there are some indicators. Like the explosion of regulations since 1970. The huge increase in trademarks, copyrights, and patents. And think of this, lobbyists didn't exist in 1969, and now many people they run the government.
+There's no way to know for sure how big the Death Star is, but there are some indicators. Like the explosion of regulations since 1970. The huge increase in trademarks, copyrights, and patents. And think of this, lobbyists didn't exist in 1969, and now many people think a few thousand lobbyists run the government.
 
-While the Death Star doesn't declare itself, we see it by proxy. Mainly, how unhappy Main Street is. Since 1969, road traffic is gotten far worse. Plastic production and pollution is filling up the oceans. Climate change is roasting our planet. The world's fucking climate is changing, because our ruling philosophy is not.
+All these things may be the Death Star, but since it doesn't declare itself it's hard to tell. We can tell by judging how happy Main Street is. Since 1969, road traffic is gotten far worse. Plastic production and pollution is filling up the oceans. Climate change is roasting our planet. Think of that last point; the world's fucking climate is changing, because humanity is not allowed to evolve.
 
-We're basically polar bears in the Amazon. Seriously—think of it, our environment is different, our societies are different, and our cyborgology is different. We are a different kind of people, being forced to live as if it were 1969. There's nothing wrong with polar bears, or the Amazon, but neither is adapted for each other. Same goes for a person in 2020, with a 4G connected Intel i5 laptop in the rear seat, driving through two hours of traffic, to work at a call-centre. The Woodstock, Leave it to Beaver, America of 1969, is gone. But Darth Blockbuster won't let humanity evolve. Hopefully we do in time to save the actual polar bears.
+We're basically polar bears in the Amazon. Seriously—think of it, our environment is different, our societies are different, and our cyborgology is different. We are a different kind of people, being forced to live as if it were 1969. There's nothing wrong with polar bears, or the Amazon, but neither is adapted for each other. Same goes for a person in 2020, with a Intel i5 laptop, hi-speed internet, VR glasses, who is driving through two hours of traffic, to work at a call-centre.
+
+The Woodstock, Leave it to Beaver, America of 1969, is gone. But Darth Blockbuster won't let humanity evolve. Hopefully we do in time to save the actual polar bears.
 
 PICTURE
 
-Techvolution is the new philosophy that gives the right, and the duty, to evolve humanity in the hands of the people feeling the pain of frontline life. The open-source community lets the public build its own levers of power, acting to check and balance the antagonism of Industrial Age heirarchies. Only by embracing Techvolution will our society foster the era of mass-collaboration and catapult us all into the Internet Age. A society of players gods is the only way to evolve humanity.
+Techvolution is the new philosophy that gives the right, and the duty, to evolve humanity in the hands of the people feeling the pain of frontline life. The open-source community lets the public build its own levers of power, so we don't have to wait for persmission to do what's right. Only by embracing Techvolution will our society foster the era of mass-collaboration and catapult us all into the Internet Age. A society of players gods is the only way to evolve humanity.
 
 ![GWRegStudies](/img\diagrams\GWRegStudies-PagesPublishedinFederalRegister-6.12.19.png)
 ![US-VMT-per-capita](/img\diagrams\US-VMT-per-capita.png)
@@ -913,7 +926,7 @@ https://soundcloud.com/morteza-ab/les-miserables-2012-do-you
 https://www.youtube-nocookie.com/embed/47E2tfK5QAg?start=5
 https://www.youtube.com/watch?v=47E2tfK5QAg?start=5
 
-_Extras singing about becoming player gods._
+_Extras singing about becoming player gods. Notice them holding that lever of power called a musket._
 
 Revolutionary songs like this spread the people's liberty, equality, and fraternity throughout the world. In a few years, the Medieval Age was finally gone. The royal Death Star was destroyed. Church and state were separate. Government had checks and balances. Civilization embraced a new ruling philosophy of Democracy. Main Street put presidents and senators, judges, and sheriffs in power, who ruled at the request of the people. The people formed rotary clubs, quilting societies, and other civil organizations that let them run society as player gods.
 
@@ -964,12 +977,12 @@ Spectacle movies reuse old stories and characters. They usually start off as goo
 
 | Title                             | Budget       | Gross Revenue| % of Budget |
 |-----------------------------------|--------------|--------------|-------------|
-| Spider-Man (2002)                 | $139,000,000 | $403,706,375 | 34%         |
+| Spider-Man   (2002)               | $139,000,000 | $403,706,375 | 34%         |
 | Spider-Man 2 (2004)               | $200,000,000 | $373,585,825 | 54%         |
 | Spider-Man 3 (2007)               | $258,000,000 | $336,530,303 | 77%         |
 | The Amazing Spide-Man (2012)      | $230,000,000 | $262,030,663 | 88%         |
 | The Amazing Spide-Man 2 (2014)    | $260,000,000 | $202,853,933 | 128%        |
-| Untitled Spider-Man Sequel (2021) | tba          | tba          | tba         |
+| Untitled Spider-Man Sequel (2021) | tbd          | tbd          | tbd         |
 
 _This is a typical hollywood movie today. A movie is remade and remade, with more effects and celebrities, until the public just doesn't care anymore. These are domestic grosses and don't include inflation or marketing cost. All figures from boxofficemojo.com._
 
@@ -1207,6 +1220,8 @@ To heck with Darth Telephone!
 
 Years later, Baran's network was built when the US government's Advanced Research Projects Agency (ARPA) saw the wisdom in a node-packet distributed communications network. In 1969 ARPA used Baran's technical specs to build ARPAnet, the first version of the internet. Although it's grown bigger and faster, the internet is still technically unchanged from its 1969 version. That's why within the DNA of the internet we use everyday, is an information netwowrk no one can control.
 
+But the internet wasn't built by lone geniuses. It was a culture of collaboration that kickstarted the Internet Act. At places like Bell Labs, IBM, Fairchild Semiconductor, Intel, and Apple, millions of technicians, welders, engineers, electrical workers, tool makers, physicists, chemists, designers, marketers, machinists. The Internet Age was born, when Main Street collaborated to invent the future. Just a taste for what greatness the era of mass-collaboration will do for our unhappy civilization.
+
 The majic of the internet attracts us all. We use laptops, smartphones, iMessage, Facetime, Reddit, and so many other internet services. We evolve our cyborgology everytime we use a new online tool. Yet, we also don't appreciate how much our tools change our mentality. Free speech, the right to vote, love of scientific truth, all came once we held their corresponding tools. The majic of learning new tools also gives us a new philosophy. We don't realize it until a Douglas, Rousseau or Neo explain the new philosophy to us.
 
 The internet was created to survive a nuclear bomb. Think of how powerful it must be. No one can control it. No professor, executive, president, or king can shut it down. An individual has the exact same access as any corporation or government. The internet lets individuals communicate, work, and collaborate together with no middlemen. That's why the internet is majical. Whoever uses it, is automatically evolved. You already believe in Techvolution. You're already empowered to live inside the Internet Age's era of mass-collaboration. But only when you realize it.
@@ -1235,8 +1250,9 @@ The fate of civilization is then, rather simple. Who is your hero Stargazer? Wil
 
 Our story takes us to Anytown in Western Civilization. From Austrailia's high heat, to England's rainy shores, to coast to coast in the United States of America. Our story plays out in Western Civilization. Where today's wealthy capitalist democracies who use red/blue philosophy, obesses about mass production, and tell their members to compete to rise inside a bureaucratic or corporate heirarchy. All relics from the Industrial Age culture, that peaked in 1969.
 
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmNippyCockatiel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-
+_Watch the entire thing if you can. Ricky Gervais is yelling at a heirarchy, who are so distanced from the frontline, they've lost touch. They virtue signal, as Christian nobility once did, to make themselves feel better._
 
 ## The End
 
@@ -1244,15 +1260,17 @@ If someone were to tell you how to vote, while looking over your shoulder, you'd
 
 Now it's our turn. The solution to our political and economic problems is upgrading to the Internet Age and embracing the era of mass-collaboration. To do that, we need Techvolution, a new philosophy that gives the right, and duty, to frontline people to use digital tools to solve their real-life problems. Letting antagonists decide is stupid. Believing in Left/Right philosophies is a recipe for living in the past.
 
-Donald Trump is thus, really the savior of Western Civilization. This time that statement isn't rhetorical. Trump is our saviour; not because of his policies, but because he's such a departure from the Right/Left mold, he makes us think, "what politics do I want?". And asking that question is the first step to becoming a player god.
+Donald Trump is thus, really the savior of Western Civilization. This time that statement isn't rhetorical. Trump is our saviour; not because of his policies, but because he's such a departure from the Right/Left mold, he makes us think, "what politics do I want?". And asking that question is the first step. No president, if you cheer or fear, is ever the hero. You are. If you take the job of a player god. Donald Trump is the hero, only because he let us ask, "do I want to be the hero of Western Civilization?"
 
 We can all enjoy the era of mass-collaboration now, if you stop watching the story of civlization as an extra. We don't need revolutions or wars. Not even marches or protests. Whereever you are, look around, and see old drafty windows, gas engine car, cable news, mass-producted toys, eight different bosses, car traffic, endless red-tape...
 
-Do you see the Industrial Age? Do you now feel the need to upgrade your small part of the world to the Internet Age. Do you understand that if you control your part of society, that makes you politically powerful. Simply reaching for the Internet Age tool, destroyed Darth Blockbuster. Do you want to keep doing it?
+Do you see the Industrial Age? Are you willing to drop the tools of 1969 cyborg, and ask yourself, what cyborg do I need to be, to solve frontline problems, and evolve my civilization to the era of mass-collaboration in the Internet Age? Do you understand that if you control your part of society, that makes you politically powerful. Simply reaching for the Internet Age tool, destroyed Darth Blockbuster. Do you want to keep doing it?
 
-Or do you want to return to the comfort and safety of following the antagonists rules and being an phantom chasing extra of Conservative/Progressive politics. Did Techvolution click? The fate of your life, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
+Or do you want to return to the comfort and safety of being a 1969 cyborg, bragging about gas cars, and granite countertops, while following the antagonists rules, and chasing the phantoms of Conservative/Progressive politics. Did Techvolution click? The fate of your life, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
 
 If you do, we win. If you don't, we lose.
+
+- GIF of Anno 1800 peeps?
 
 # EPILOGUE
 
