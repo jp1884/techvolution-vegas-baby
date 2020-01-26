@@ -2065,3 +2065,11 @@ https://www.constitution.org/eng/patriarcha.htm
 | 2010s                | $ 64,035,754           |
 
 _Less people care every year for the art films, because art films are more self-indulgent every year. While these numbers don't include streaming or DVD rentals, they also don't include inflation. ALl numbers from boxofficemojo.com_
+
+## Synthesis
+
+Just to drive home the point some more. Anybody can use modern technology to fight for a cause. So what do Left/Right ideologies make? Do Conservatives empower you to fight against government waste, tax-hikes, or over regulation with a website? Do Progressives let you contribute to better environmental regulation, health-reform, or track real-time carbon levels? What levers of power does Right/Left politics put in your hand?
+
+The idea doesn't even exist, because they think its 1969, when the levers of power weren't available to Main Street. Ideologues (if they're still reading) are right now trying to figure how to discount this point. I promise, some Conservatives look at Common Voice and see "common" and will yell out they found Communism in America! A Progressive looks at Kickstarter raising money for something, and will scream "see, the rich are getting richer!". Knee-jerk reactions like this are expected from people born and raised with red/blue filters.
+
+Neither can understand the Internet Age and mass-collaboration is the best of both ideologies. Modern technology let's people help their civilization prosper, as Progressives dream, and also better themselves, as Conservatives demand. Mixing ideologies is how Techvolution builds on the past, and helps Main Street prosper once again. Now let's see what this means for regular person working on Main Street.
