@@ -713,11 +713,11 @@ A decade before the music industry was in the same spot. Record stores and CD sa
 | 2000s                | $ 142,705,937          |
 | 2010s                | $ 64,035,754           |
 
-_Average gross for each Best Picture winner. As the movies were dying, the industry fought back with excuses and lawsuits, instead of innovation and evolution. ALl numbers from boxofficemojo.com._
+_Average gross for each Best Picture winner. As the movies were dying, the industry fought back with excuses and lawsuits, instead of innovation and evolution. People didn't even bother watching Oscar movies on Netflix either. ALl numbers from boxofficemojo.com._
 
 The movie industry rejected the lesson. When DVD dark majic lost out to the majic of streaming, the industry fired up the Death Star. The same public who bought billions of dollars on DVDs and merchanise. That created fan clubs and flocked to comic-cons, was declared evil. The movie industry put FBI warnings on their products, lobbyied government for harsh punishments, and demanded the public feel ashamed for not buying DVDs anymore. Customers were sued, threats of lawsutis were mailed out. The industry called their own customers disloyal thieves.
 
-And here was born Darth Blockbuster. He was actively and knowingly preventing human evolution for the sake of his self-interest. A small band of people, we're getting in the way of our society upgrading to the Internet Age. But before we find if the villian could save the DVD (I know you know the answer, but indulge me), let's take a short break.
+And here was born Darth Blockbuster. He was actively and knowingly trying to force humanity to keep using his old tools in our cyborgology. Rather than gluing us in our seats with good stories, Hollywood he was gluing DVDs is our hands with the Death Star, and preventing society upgrading to the Internet Age. But before we find if the villian could save the DVD (I know you know the answer, but indulge me), let's take a short break.
 
 ![Frontline movies full](/img\sketches\frontline-movies-full.jpg)
 
@@ -729,19 +729,19 @@ Let's consider some things during our short rest.
 
 ## Polar Bears in the Amazon
 
-We've been in the Internet Age since 1970. However, we're still using the philosophy of the Industrial Age. Because the powers of the Industrial Age powers are defending their status by way of dark majic to distract Main Street, and when that fails, they pick a rule from the Death Star to prevent change.
+We've been in the Internet Age since 1970. However, we're still using the philosophy of Left/Right politics, and era of mass-production economics, both hallmarks of the Industrial Age. The powers of the Industrial Age keep their tools as the levers of power by way of dark majic to distract Main Street, and when that fails, they pick a rule from the Death Star to prevent change.
 
-There's no way to know for sure how big the Death Star is, but there are some indicators. Like the explosion of regulations since 1970. The huge increase in trademarks, copyrights, and patents. And think of this, lobbyists didn't exist in 1969, and now many people think a few thousand lobbyists run the government.
+The Death Star can be seen in the explosion of regulations since 1970. The huge increase in trademarks, copyrights, and patents. And think of this, lobbyists didn't exist in 1969, and now many people think a few thousand of them run our governments.
 
-All these things may be the Death Star, but since it doesn't declare itself it's hard to tell. We can tell by judging how happy Main Street is. Since 1969, road traffic is gotten far worse. Plastic production and pollution is filling up the oceans. Climate change is roasting our planet. Think of that last point; the world's fucking climate is changing, because humanity is not allowed to evolve.
+The Death Star holds back evolution. The result is an unhappy life on Main Street. Since 1969, road traffic is gotten far worse. Plastic production and pollution is filling up the oceans. Climate change is roasting our planet. Consider that last point; the world's fucking climate is changing, because humanity is not allowed to evolve.
 
-We're basically polar bears in the Amazon. Seriously—think of it, our environment is different, our societies are different, and our cyborgology is different. We are a different kind of people, being forced to live as if it were 1969. There's nothing wrong with polar bears, or the Amazon, but neither is adapted for each other. Same goes for a person in 2020, with a Intel i5 laptop, hi-speed internet, VR glasses, who is driving through two hours of traffic, to work at a call-centre.
+We're basically polar bears in the Amazon. Seriously—think of it, our environment is different, our societies are different, and our cyborgology is different. We are a different people, being forced to live as if it were 1969. There's nothing wrong with polar bears, or the Amazon, but neither is adapted for each other. Same goes for a person in 2020, with a Intel i5 laptop, hi-speed internet, VR glasses, who is driving through two hours of traffic, to work at a call-centre.
 
-The Woodstock, Leave it to Beaver, America of 1969, is gone. But Darth Blockbuster won't let humanity evolve. Hopefully we do in time to save the actual polar bears.
+The Woodstock and _Leave it to Beaver_ America of 1969, is gone. But Darth Blockbuster won't let go. Hopefully Main Street wakes up. Especially in time to save the actual polar bears.
 
 PICTURE
 
-Techvolution is the new philosophy that gives the right, and the duty, to evolve humanity in the hands of the people feeling the pain of frontline life. The open-source community lets the public build its own levers of power, so we don't have to wait for persmission to do what's right. Only by embracing Techvolution will our society foster the era of mass-collaboration and catapult us all into the Internet Age. A society of players gods is the only way to evolve humanity.
+Techvolution is the new philosophy that mimics evolution. It gives gives the right, and the duty, to the people feeling the pain of frontline life to evolve humanity with new and better tools. Crucially, it's the open-source community who lets the public build its own levers of power, so we don't have to wait for persmission to do what's right. Only by embracing Techvolution will our society foster the era of mass-collaboration and catapult us all into the Internet Age. Only a society of players gods can evolve humanity past our problems, and give Main Street a happy life.
 
 ![GWRegStudies](/img\diagrams\GWRegStudies-PagesPublishedinFederalRegister-6.12.19.png)
 ![US-VMT-per-capita](/img\diagrams\US-VMT-per-capita.png)
@@ -751,11 +751,11 @@ Techvolution is the new philosophy that gives the right, and the duty, to evolve
 ![transistors-per-micro](/img\diagrams\img\diagrams\transistors-per-microprocessor.png)
 ![technology-adoption](/img\diagrams\technology-adoption-by-households-in-the-united-states.png)
 
-_There's no way to gauge the dark majic or the Death Star rulebook. You're happiness is actually the only, and best statistic, for that. But here are some stats to show our struggle against stagnation._
+_You're happiness is the statistic about our civlization's health. Here are some stats to show our struggle against stagnation._
 
 ## Old Philosophy vs. New Philosophy
 
-Techvolution is a philosophy book. I don't reference past philosophies though. Like any topic it takes some practice to read. However, let's have a peek and appreciate the strong beliefs of past protagonists and antagonists.
+Techvolution is a philosophy book. I use stories to note their ideas, but don't directly reference past philosophies. Like any topic it takes some practice to read. However, let's have a peek and appreciate the strong beliefs of past protagonists and antagonists.
 
 Below are two snippets from two influential philosophers. The passages will help explain how an antagonist can think themselves so right, when history proves them so wrong. I won't comment much on either passage. Just know both of these writers motivated generations of followers to fight to the death.
 
@@ -790,11 +790,9 @@ Today, our Death Star rulebook aren't arbitrary rules. They come from Industrial
 
 ## The Era of Mass-Collaboration Is Already Here
 
-While the antagonists are fighting it, the Internet Age and its era of mass-collaboration is already here and growing. It won't replace any and all businesses and jobs. But it will check and balance them to the benefit of Main Street.
+While the antagonists are fighting it, the Internet Age and its era of mass-collaboration is already here and growing. I included some examples of collaboration projects below. You can contribute to any of them. Not only should you take a minute to try, you should sit back and realize what you're doing. Because with no managers, consultants, and timesheets, you can work will others to advance humanity with nothing but a laptop, the internet, and you.
 
-I included some examples of collaboration projects below. You can contribute to any of them. Not only should you take a minute to try, you should sit back and realize what you're doing. Because with no managers, consultants, and timesheets, you can work will others to advance humanity with nothing but a laptop, the internet, and you.
-
-One day soon, your job will likewise require so little travel, stress, and time. And no, you won't lose your job. It's the head-office types, the HR reps, the eight different bosses, the people with no frontline skills, whose skills are unneeded in the era of mass-collaboration. That's why the fear the Internet Age so much.
+One day soon, your job will likewise require so little travel, stress, and time. And no, you won't lose your job. It's the head-office types, the HR reps, the eight different bosses, the people with no frontline skills, whose meetings, delays, and arrogance are unneeded in the era of mass-collaboration. That's why the fear the Internet Age so much.
 
 Galaxy Zoo: https://www.zooniverse.org : Help astronomers classify stars and galaxies. You might even be the first to discover something new.
 
@@ -806,42 +804,52 @@ Kickstarter: https://www.kickstarter.com/ : Kickstarter connects regular people 
 
 There are many more examples of digital products connecting people on the frontline. The era of mass-collaboration is here. We just aren't jumping into the Internet Age yet.
 
+Just to drive home the point some more. Anybody can use modern technology to fight for a cause. So what do Left/Right ideologies make? Do Conservatives empower you to fight against government waste, tax-hikes, or over regulation with a website? Do Progressives let you contribute to better environmental regulation, health-reform, or track real-time carbon levels? What levers of power does Right/Left politics put in your hand?
+
+The idea doesn't even exist, because they think its 1969, when the levers of power weren't available to Main Street. Ideologues (if they're still reading) are right now trying to figure how to discount this point. I promise, some Conservatives look at Common Voice and see "common" and will yell out they found Communism in America! A Progressive looks at Kickstarter raising money for something, and will scream "see, the rich are getting richer!". Knee-jerk reactions like this are expected from people born and raised with red/blue filters.
+
+Neither can understand the Internet Age and mass-collaboration is the best of both ideologies. Modern technology let's people help their civilization prosper, as Progressives dream, and also better themselves, as Conservatives demand. Mixing ideologies is how Techvolution builds on the past, and helps Main Street prosper once again. Now let's see what this means for regular person working on Main Street.
+
 ## The Era of Mass-Collaboration Is (Almost) Here in Your Everyday Life
 
-Say you moved into a new townhouse and want to finish your backyard. You're neighbors are doing the same. Soon enough, everyone starts installing assembling lawn furniture, hiring contractors, putting in decks, pools, fences, sheds, and whatever else you dream up.
+Say you moved into a new townhouse. You and you're new neighbors all want to finish your backyard. Soon enough, everyone starts installing assembling lawn furniture, hiring contractors, putting in decks, pools, fences, sheds, and whatever else you dream up.
 
-We now know we're playing the game of civilization. So, the question is, when making our purchases, do we consider the big picture—that our choices matter?
+We know we individuals are always playing the game of civilization. So, the question is, do we realize that? Do we we consider the big picture, when deciding what to do in the backyard?
 
 If we choose new and better products, we're attracted to the majic of new tools, and become player gods. If we care about trendy looks, brand names, and pretending to live inside Martha Stewart Living, then we're being an extra, attracted by dark majic. The former is good, the later bad for our civilization. Watch this clip of a user building a backyard in the city-builder _Cities: Skylines_.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ClassicSecretKarakul' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-For us today, doing all this work in the real-world, we have to ask, do the rules encourage us to be player gods? Or is the rulebook so big and confusing, that regular people are encourage to go with the flow, and stay extras of the Industrial Age?
+For us today—doing all this work in the real-world—do the rules encourage us to be player gods? Or is the rulebook so big and confusing, that regular people are encourage to go with the flow, and stay extras of the Industrial Age?
 
-Evolution needs us to buy solar-power roofs, start a 3D printing business in the garge, install a Hydroloop water resuser. But do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? Do you know what your local business by-laws, construction codes, tax laws are? Our society rulebook is so large and dense, we all live under the threat of making a mistake, and being hit by a code violation, lawsuit, or audit. Today being an extra is easy, while being a player god is risky.
+Evolution needs us to buy solar-power roofs, start a 3D printing business in the garage, install a Hydroloop water resuser. But do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? Do you know what your local business by-laws, construction codes, tax laws are? Most people have no idea, and deal with problems as they arise.
 
-Technologically speaking, there's no reason why regular people can't work as easily as the _Cities: Skylines_ clip above. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, YouTube videos, can make the Internet Age rulebook seemless. But this will only be a happy reality once Main Streets understands how to avoid dark majic, blow up the the Death Star, and embrace the era of mass-collaboration using Techvolution as their shield and motivation.
+In fact, our society's rulebook is so large and dense, we all live under the threat of making a mistake, and being hit by a code violation, claim denial, lawsuit, or audit. Being an extra is easy today; being a player god is risky.
+
+Technologically speaking, there's no reason for this. Regular people ca work as easily as the _Cities: Skylines_ clip above. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, YouTube videos, can make the Internet Age rulebook seemless. We can have the levers of power in our hands!
+
+But this will only be a happy reality once Main Streets understands how to avoid dark majic, blow up the the Death Star, and embrace the era of mass-collaboration using Techvolution as their shield and motivation.
 
 https://www.youtube.com/watch?v=ggrkTLEfFXA
 _Here's Louis Rossmann again. He's building a new store for his repair company. A complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies wont disappear in the future—we'll always need big organizations. They'll just be checked and balanced by individuals and small companies connected in mass-collaboration. We'll make the Internet Age rulebook a little later, in Techvolution II: Building the Life Star._
 
 ## Click
 
-What makes something click in a person's mind? If only we knew. We can't decide to love, cry, or laugh. We must wait for a connection. Here's some stand-up that'll probably make you laugh, I'll make a point afterwards.
+What makes something click in a person's mind? If only we knew. Sadly, we can't decide to love, cry, or laugh. We must wait for a connection. Here's some stand-up that'll probably make you laugh, I'll make a point afterwards.
 
 https://www.youtube.com/watch?v=ZOiPQ8nqB1s&feature=youtu.be&t=19
 
 Note, followers of the Industrial Age complain because their time period is over, so they can't contribute to society anymore and instead live unfulfilled, unhappy lives as mere extras.
 
-Here's my point, nobody knows how or why something clicks. However, we do understand when it does—when we can't go back. And could you ever drop Netflix and do back to Blockbuster? What about flipping through encyclopedia books? Or calling a taxi-cab? Of course not, and that's a good sign you're a believer in the Internet Age. So, lets return to the book and our mission, that's about you dropping the phantom chasing of Left/Right politics for Techvolution, a new philosophy, that gives Main Street the right and duty to upgrade our civilization to the Internet Age.
+Here's my point, nobody knows how or why something clicks. However, we do understand when it does—when we can't go back. And could you ever drop Netflix and do back to Blockbuster? What about flipping through encyclopedia books? Or calling a taxi-cab? Of course not, and that's a good sign you're a believer in the Internet Age. So, lets return to the book and our mission, that's about you dropping the phantom chasing of Left/Right politics for Techvolution, a new philosophy, that gives Main Street the right and duty to upgrade our civilization to the Internet Age because you, are the true, and rigtful player god. The antagonists are just pretenders.
 
 # Mid Point
 
 ## A Techvolution Battle Scene. Wikipedia vs. Books. Internet Age vs. Industrial Age
 
-Before we return to the battle with the real Darth Blockbuster, let's talk about another battle in support of the Internet Age.
+Before we return to the battle with Darth Blockbuster, let's talk about another battle in support of the Internet Age. the fight against Darth Enclyclopedia.
 
-The environment keeps changing. Life needs to know-how and uses its lifeforms to probe for answers. Likewise, we humans also ask questions like why are the movies so expensive, are candy applies real applies, or, more importantly, what are proven techniques to stop malaria infections. We find answers by creating a reference tool.
+Humanity needs a tool to collect and pass on knowledge. Today we ask questions like why are the movies so expensive, are candy applies real apples, or, more importantly, what are proven techniques to stop malaria infections. We record and find answers by creating a reference tool.
 
 Our first reference tool was the wisdom of our elders. The first technological upgrades were papyrus scrolls and ink (around 2300 BC) and books (about 300 BC), which turned some elders into experts like Hippocrates and Aristotle. When wood-pulp paper (1200) and the printing press (1456) were invented, humanity unleashed mass-produced books. Now experts could share knowledge between themselves and educate the masses. We called the reference books encyclopedias.
 
@@ -869,13 +877,13 @@ That's the story of Wikipedia. Invented by protagonists, established as the stan
 
 Main Street feels the pain life of real-life. Think about how important pain is in Nature. Does a penquin in a zoo evolve to Antartica's ever changing environment? Of course not, it's up to the lifeforms on the frontline to adapt, and keep the species alive.
 
-The middle-class flocked to Wikipedia and made it a worldwide force. Then we gave internet streaming to our society. Not by marches or protests, but by practicing good politics. We reached for new tools, and thereby empowered ourselves, and evolved humanity. We destroy the Death Star when we simply do what's best for us. And we're right to be so selfish, because we're the ones feeling frontline pain.
+The middle-class flocked to Wikipedia and made it a worldwide force. Then we gave internet streaming to our society. Not by marches or protests, but by practicing good politics. We reached for new tools, held the levers of power, and thereby evolved humanity. We destroy the Death Star when we simply do what's best for us. And we're right to be so selfish, because we're the ones feeling frontline pain.
 
-Of course, the antagonists will disagree. But that's why they're Sith Lords. The formal education industry has given American students 1.5 trillion in student debt. Hollywood is given billions in subsidies despite having empty theatres, bad movies, and many self-congratulatory and splend banquets and balls; not to mention a culture of tax-cheats and sexual predators.
+Of course, the antagonists will disagree. But that's why they're Sith Lords. The formal education industry has given American students 1.5 trillion in student debt. Hollywood is given billions in subsidies despite having empty theatres, bad movies, off-shored production, and many self-congratulatory and splend banquets and balls; not to mention a culture of tax-cheats and sexual predators.
 
-The middle-class doesn't have ulterior motives. We are rational beings because we feel the pain of everyday life. We rightfully rejected the lure of dark majic Blu-ray and HD-DVD, and endured the Death Star attacks when using BitTorrent, and worked to evolve humanity. And if you still doubt evolution being inherently just—once Netflix (2008) gave the public internet streaming at a fair price, the middle-class proved our superior ethics and morality.
+The middle-class doesn't have ulterior motives. We are rational beings because we feel the pain of everyday life. We rightfully rejected the lure of dark majic Blu-ray and HD-DVD, and endured the Death Star attacks when using BitTorrent, and worked to evolve humanity. And if you still doubt Main Street being inherently just—once protagonist Reed Hastings gave the public internet streaming at a fair price with Netflix (2008) the middle-class proved our superior ethics and morality.
 
-Look at the graph below. You'll see the Industrial Age evolving into the Internet Age because Main Street acted on its best interests. This is the power of an empowered middle-class practicing good politics. Evolution is always right in Nature, and Techvolution is always right when playing the game of civilization.
+Look at the graph below. You'll see the Industrial Age evolving into the Internet Age because Main Street acted on its best interests. This is the power of an empowered middle-class practicing good politics. Evolution is always right in Nature, and Techvolution is always right in the game of civilization.
 
     <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script>
     <script type="text/javascript">
@@ -884,15 +892,15 @@ Look at the graph below. You'll see the Industrial Age evolving into the Interne
 
 Main Street flocked to Netflix because it was a fair deal and a much better product.
 
-During this transformation, I was one of the smucks working at the movie theate and buying DVDs when I could afford them. Like most of Main Street, I got dozens collecting dust somewhere. Darth Blockbuster was telling us all DVDs were better. I wonder, do you think the Sith Lord will buy them all back? I'll talk half-price.
+During this transformation, I was one of the smucks working at the movie theate and buying DVDs when I could afford them. Like most of Main Street, I got dozens collecting dust somewhere. Darth Blockbuster was telling us all DVDs were better and moral. I wonder, do you think the Sith Lord will buy them all back? I'll talk half-price.
 
 Notice Bittorents aren't dead. While most people don't bother with torrent sites anymore—because Netflix is so much easier—civilization holds torrents in reserve. Torrents check and balance the economy in the Internet Age, to be sure Main Street isn't taken advantage of again. Fairness is the motivation for this insightful GIF here.
 
 ![Battle Scene](/img\diagrams\checks-and-balances-storytelling.jpg)
 
-If you're wondering, streaming companies are returning the studio system to Hollywood, except the home theatre is replacing the movie theatre. The problem is storytelling is getting segmented, making it harder for our society to have impactful trends. The Studio System should never have been outlawed in the first place. But that's a topic for a different book.
+If you're wondering, streaming companies are returning the studio system to Hollywood, except the home theatre is replacing the movie theatre. The problem is storytelling is getting segmented, making it harder for our society to have impactful trends like Uncle Tom's Cabin, or Forgotten Sprin. The Studio System should never have been outlawed in the first place. But that's a topic for a different book.
 
-Wikipedia and Netflix show how the middle-class can ignore dark majic and destroy the Darth Blockbuster and his Death Star. We ignored bad rules, and instead used the better tool—which soon became the new standard. But these are small victories. To bring on the era of mass-collaboration in the Internet Age, we need to transform our society's entire rulebook. And that takes a bit more work.
+Wikipedia and Netflix show how the middle-class can ignore dark majic, defeat Darth Blockbuster and destroy his Death Star. We ignored bad rules, and instead used the better tool—which soon became the new standard. While we don't have all the levers of power, we have a lot more then we did just a few years ago. But these are small victories. To bring on the era of mass-collaboration in the Internet Age, we need to transform our society's entire rulebook. And that takes a bit more work.
 
 ## We've Blown Up One Death Star, Now Here's How We Win the War
 
@@ -1022,7 +1030,7 @@ Neo shows the people the Matrix is a lie. A dark majic show to distract the peop
 
 <div style='position:relative; padding-bottom:calc(41.67% + 44px)'><iframe src='https://gfycat.com/ifr/OblongGrimyHalibut' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/fight-gifs">from Fight GIFs</a> <a href="https://gfycat.com/oblonggrimyhalibut-the-Matrix">via Gfycat</a></p>
 
-_Neo learned so much, he sees through the rulebook and so can easily defeat Agent Smith._
+_Neo learned so much, he sees through the rulebook, and so can easily defeat Agent Smith._
 
 ## Lessons From The Matrix
 
@@ -1058,7 +1066,7 @@ To have political power, the kings needed to create it. Since society had no pol
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmJubilantIrrawaddydolphin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_You'd believe in divine kings too, if Vikings were at your doorstep._
+_You'd believe in holy kings too, if barbarians, Vandals, or Vikings were at your doorstep._
 
 Under the rule of Protagonist Kings, Western Civilization rebuilt political institutions like court systems, town councils, sanitation departments. But it was slow going. By the time Western Europe had a fully functioning civilization again at the Renaissance (1400-1600), nobody could remember why the story of divine nobility had started. Who could blame them, the story was already a 1000 years old. Do you remember what happened 1000 years ago?
 
@@ -1121,13 +1129,14 @@ Since, entering the Internet Age, dark majic has skyrocketed. The once humble Am
 The good news is, where not at a "let's burn down society" point yet. We can transition to the Internet Age ourselves before the frontline gets so bad and so ununhappy we stat a revolution. We can usher in the era of mass-collaboration ourselves.
 
 https://www.youtube.com/watch?v=A25EUhZGBws
-_This is a clip from The Big Short. About the Housing Crisis in 2008. This guy is our modern day Antagonist Executive. You're not supposed to understand the economic rationale of CDOs that makes him super wealthy, because there is none. Like the divine rights of nobility, it's just the justification of a self-important hero. By the way, it's not a coincidence Louis palace, and our houses, caused so much economic problems at the end of an age. The 2008 economic risis was always going to happen. A world of dark majic spectacle, like McMansions, only lasts so long. Life on Main Street will only get worst until we upgrade to the Internet Age via Techvolution._
+https://youtu.be/A25EUhZGBws?t=7
+_This is a clip from The Big Short. About the Financial Crisis in 2008. This guy is our modern day Antagonist Executive. You're not supposed to understand the economic rationale of CDOs that makes him super wealthy, because there is none. Like the divine rights of nobility, it's just the justification of a self-important hero. By the way, it's not a coincidence Louis palace, and our houses, caused so much economic problems at the end of an age. The 2008 economic risis was always going to happen. A world of dark majic spectacle, like McMansions, only lasts so long. 2008 was nothing. Life on Main Street will only get worse, until we upgrade to the Internet Age via Techvolution._
 
 # ACT THREE
 
 ## Evolution Doesn't Happen Without Fighting - Main street Has to Act
 
-Do you believe in Techvolution? Do you think red/blue philosophy old and played out? Is cable news valuable or useless? Can we live happy lives inside the era of mass-collaboration if we embrace Techvolution and leap into the Internet Age? Do you see through the endless rules of the Industrial Age. Like Neo in the Matrix, do you see that these rules are designed to keep the past alive for the benefit of a few antagonists?
+Do you believe in Techvolution? Do you think red/blue philosophy old and played out? Do you want to hold levers of power in our society. Do you think we can live happy lives inside the era of mass-collaboration if we leap into the Internet Age? Do you see through the endless rules of the Industrial Age as being bullshit. Like Neo in the Matrix, do you see that these rules are designed to keep the past alive for the benefit of a few antagonists?
 
 You are the hero of civilization Stargazer. These are the questions history is asking you. To help you answer them, here are two stories—one about an antagonist, the other a protagonist. The first is about King Charles I, who ruled England from 1625-1649. Remember the Thirty Years War, when Main Street was tearing itself apart in the name of Protestant and Catholic kings; adding to that anarchy was King Charles. He led England into a civil war to defend his self-image of being god on Earth. His story teaches us about ours, and should help you answer the questions history is asking you to decide.
 
@@ -1161,7 +1170,7 @@ My speech impediment was the reason I got a job in a car insurance claim departm
 
 So, fuck it. I decided to jump into the ocean and sink or swim. A car insurance claim call-center for a stutterer was scary. A daily workout of all-day phone calls, angry drivers, customer service expectations, no "outs" like swear words, drinking games, or wonky behavior to hide behind. I was like that desert fox learning to swim, telling himself, "I'm getting better!."
 
-And it was far worse than I thought. The insurance company wanted adjusters to answer ever more phone calls. To incentive us, they'd ring a monotone "bell" because… I don't know.  They never said why, we employees learned questioning "the bell" was a bad idea. Management used it as punishment; "answer more phone calls or we'll make the bell faster and louder!"
+And it was far worse than I thought. The insurance company wanted adjusters to answer ever more phone calls. To incentive us, they'd ring a monotone "bell" because… I don't know.  They never said why (probably because they're stuck in the Industrial Age) we employees learned questioning "the bell" was a bad idea. Management used it as punishment; "answer more phone calls or we'll make the bell faster and louder!"
 
 I'm being serious by the way. We were often more stressed then the person who just had a car crash. Whatever the reason, DING-DING-DING-DING almost all day, which gave people who weren't stutterers tremendous anxiety, breakdowns, and stress leaves.
 
