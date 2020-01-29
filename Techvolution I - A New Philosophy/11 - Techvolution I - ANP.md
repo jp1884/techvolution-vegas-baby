@@ -1101,7 +1101,9 @@ But Lucifer rejected God's teachings. He grew vain, greedy, and deceptive. Soon 
 
 Free from the restrictions of justice, fairness, and good, Lucifer grew his evil powers. Soon he was the Devil, who taught humanity vanity, greed, hubris, selfishness they'd need to become antagonists and extras. But Lucifer kept is angelic form. The Devil can thus be anyone, at any time. Humanity is a mixture of angels and demons. All humanity is has the grace of God, and the greed to think we can be divine.
 
-The trick for humanity is to resist our demons and embrace our angels. To not make "deals with the Devil" so to speak. That's how we can be player gods who do what's best for ourselves, and help society prosper.
+![Lucifer](/img\diagrams\lucifer-falls.jpg)
+
+The trick for humanity is to resist our demons and embrace our angels; not make "deals with the Devil" so to speak. That's how we can be player gods who do what's best for ourselves, and help society prosper.
 
 Angels and demons is the Christian tale of good and evil. I'm sure many religions share a similar story. The story of Lucifer echoes throughout literature. Harry Potter's Lord Voldermort, The Lord of the Rings Lord Sauron, and Star War's Lord Vader were all once heroes. Each grew evil because they were unwilling to give up their power. They were corrupted by ambitions of lifelong supremacy. It's probably so prevalent in our religions and literature because it's so common in humanity; power often corrupts. Absolute power corrupts absolutely.
 
@@ -1139,59 +1141,57 @@ _This is a clip from The Big Short. About the Financial Crisis in 2008. This guy
 
 ## Evolution Doesn't Happen Without Fighting - Main street Has to Act
 
-Do you believe in Techvolution? Do you think Right/Left philosophy is outdated? Do you see why the era of mass-production should be replaced by mass-collaboration? Do you want to hold levers of power in your society, instead of protestig to get the powerbrokers to do the right thing. Do you see through the endless rules of the Industrial Age as being bullshit. Can you see the dark majic around gas cars, 9-5 workdays, call-centres, paper-forms—the entire 1969 way of life that keeps us all in the Industrial Age?
+Do you believe in Techvolution? Do you think Right/Left philosophy is outdated? Do you see why the era of mass-production should be replaced by mass-collaboration? Do you want to hold levers of power in your society, instead of complaining, protestig, and begging the powerbrokers do what you want. Do you see through the endless rules of the Industrial Age as being bullshit. Can you see the dark majic around gas cars, 9-5 workdays, call-centres, paper-forms—the entire 1969 way of life that keeps us all in the Industrial Age?
 
 You are the hero of civilization Stargazer. Here are two stories, that'll help you answer the questions history is putting on your shoulders.
 
-# The Majic of the Internet - If We Use the Internet, We Automatically Fight For the Internet Age
+# Your Cyborgology Can Survive A Nuclear Bomb
 
 The Internet Age has many protagonists. Paul Baran (1926-2011) is one of the big ones. Because of him, just by using the internet, you become a player god. No kidding around. Personal freedom, responsibility, and collaboration are built into the DNA of the internet we all use everyday.
 
-On the face of it, the internet is a boring data network. There are many ways of making a data network. The simplest is how phone systems do it with a direct circuit link between two phones. With this kind of network, all connections go through a central hub. Each connection is a direct link between two people that stops the moment the connection drops.
+On the face of it, the internet is a simple data network. Most networks use direct circuit link between two phones. With this kind of network, all connections go through a central hub. Alexander Graham Bell invented these "direct circuit links" in 1876. He put it into action when he co-founded the American Telephone & Telegraph (AT&T) in 1885. For generations, direct links were how all telecommunications worked. But when the Soviets tested a hydrogen bomb in 1955, Baran took it upon himself to make a new network. He wanted to prevent a nuclear holocaust; quite the protagonist I must say.
 
-Alexander Graham Bell invented these "direct circuit links" in 1876. He put it into action when he co-founded the American Telephone & Telegraph (AT&T) in 1885. For generations, direct links were how all telecommunications worked. But when the Soviets tested a hydrogen bomb in 1955, Baran took it upon himself to make a new network. He wanted to prevent a nuclear holocaust; quite the protagonist I must say.
+![Nuke](/img\diagrams\nuke.jpg)
 
 Baran realized to prevent nuclear war, the world needed a communications network that would survive an atomic attack. Only robust and reliable communications would ease American and Soviet trigger fingers during tense times.
 
-For years, after his day job, Baran worked all alone. By 1960 he came up with the two ideas he needed. The first was that his network should have no central hubs (like telephones have) to control the flow of information. Central hubs make systems vulnerable to attack or failure. Instead data flow should be distributed so every node can send and receive information equally. Baran's nodes network looks like a fishnet. Because its distributed, it can survive any attack.
+For years after his day job, Baran worked all alone. By 1960 he came up with the two ideas he needed. The first was that his network should have no central hubs (like telephones have) to control the flow of information. Instead data flow should be distributed so every node can send and receive information equally
 
-Next, Baran had to figure out how to send information across the network. This led to his second idea, which was to break up the data into standard-size little packets. Each message would be broken into many packets, each of which would scurry along different paths through the network's nodes and be reassembled when they got to their destination. If one packet didn't get there in time, it was quickly resent. This way, there'd be no "dropped calls" and communication would always stay open. Baran published his ideas into very detailed technical specs and made sure everyone, especially the Soviets, could copy his work. These specs created the internet. But only in theory.
+Next, Baran broke up up the data into standard-size little packets. Each message would scurry along different paths through the network's nodes and be reassembled when they got to their destination. This way communication would never cease, like with "dropped calls" of a telephone system. Baran published his ideas into very detailed technical specs and made sure everyone, especially the Soviets, could copy his work. These specs created the theory behind our internet.
 
-When Baran tried to give his specs away, he walked into a nest of antagonists. When Baran's employer RAND recommended his "node-packet data network" idea to the Air Force (in control of America's nuclear missiles), they wanted to build it. But when the Department of Defense got itself and the Defense Communications Agency involved Baran soon found out working with so many bureaucrats was hopeless.
-
-So Baran tried to convince AT&T, in control of America's telephone network, to supplement their system with his node-packet data network. "They fought it tooth and nail," he recalled. "They tried all sorts of things to stop it." They would not even let RAND use the maps of its circuits, so Baran had to use a pirated set. Baran made several trips to AT&T headquarters in lower Manhattan. On one of them, a senior executive—who was an old engineer—looked stunned when Baran explained that his system would mean that data could go back and forth without a dedicated link remaining open. "He looked at his colleagues in the room while his eyeballs rolled up, sending a signal of his utter disbelief," according to Baran. After a pause, the executive said, "Son, here's how a telephone works," and explained a patronizing and simplistic description.
+When Baran tried to give his specs away, he walked into a nest of antagonists. The Department of Defense was a sea of very unhelpful bureaucrats. So Baran tried to convince AT&T, in control of America's telephone network, to supplement their system with his node-packet data network. "They fought it tooth and nail," he recalled. "They tried all sorts of things to stop it." One engineer "eyeballs rolled up, sending a signal of his utter disbelief" at Baran's ideas.
 
 Good thing Jedi's don't give up. Baran continued to push. AT&T finally had him and other outsiders to a series of seminars explaining how its telephone system worked. "It took ninety-four separate speakers to describe the entire system," Baran marveled. When it was over, the AT&T executives asked Baran, "Now do you see why packet switching wouldn't work?" To their great disappointment, Baran simply replied, "No."
 
 To heck with Darth Telephone!
 
-Years later, Baran's network was built when the US government's Advanced Research Projects Agency (ARPA) saw the wisdom in a node-packet distributed communications network. In 1969 ARPA used Baran's technical specs to build ARPAnet, the first version of the internet. Although it's grown bigger and faster, the internet is still technically unchanged from its 1969 version. That's why within the DNA of the internet we use everyday, is an information netwowrk no one can control.
-
-But the internet wasn't built by lone geniuses. It was a culture of collaboration that kickstarted the Internet Act. At places like Bell Labs, IBM, Fairchild Semiconductor, Intel, and Apple, millions of technicians, welders, engineers, electrical workers, tool makers, physicists, chemists, designers, marketers, machinists. The Internet Age was born, when Main Street collaborated to invent the future. Just a taste for what greatness the era of mass-collaboration will do for our unhappy civilization.
+The point is this. Baran's network was eventually built the US government's Advanced Research Projects Agency (ARPA) saw the wisdom upgrading America's communication system. In 1969 ARPA used Baran's technical specs to build ARPAnet, the first version of the internet. Although it's grown bigger and faster, the internet is still technically unchanged. That's why within the DNA of the internet we use everyday, is your freedom.
 
 The majic of the internet attracts us all. We use laptops, smartphones, iMessage, Facetime, Reddit, and so many other internet services. We evolve our cyborgology everytime we use a new online tool. Yet, we also don't appreciate how much our tools change our mentality. Free speech, the right to vote, love of scientific truth, all came once we held their corresponding tools. The majic of learning new tools also gives us a new philosophy. We don't realize it until a Douglas, Rousseau or Neo explain the new philosophy to us.
 
-The internet was created to survive a nuclear bomb. Think of how powerful it must be. No one can control it. No professor, executive, president, or king can shut it down. An individual has the exact same access as any corporation or government. The internet lets individuals communicate, work, and collaborate together. That's why the internet is majical. Whoever uses it, is automatically evolved. You already believe in Techvolution. You're already empowered to live inside the Internet Age's era of mass-collaboration. But only when you realize it, and refuse to go back into the Matrix.
+The internet was created to survive a nuclear bomb. Think of how powerful it must be. And therefore realize how powerful you are. No one can control you on the internet. No professor, executive, president, or king can shut you down. You have the exact same access as any corporation or government. The internet lets Main Street communicate, work, and collaborate together. That's why the internet is majical. Whoever uses it, is automatically evolved. You're already empowered an Internet Cyborg. You've already addicted to the majic of the protagonists new tools. You're already player god in waiting.
 
-And this takes us to King Charles I, who ruled England from 1625-1649. Remember the Thirty Years War, when Main Street was tearing itself apart in the name of Protestant and Catholic kings; adding to that anarchy was King Charles. He led England into a civil war to defend his self-image of being god on Earth against the uppity commoners. His story teaches something special. Stargazer, the future of civilization is truly in your own hands.
+The self-important ones who want you to be their extras. If you decide not shirk away from Techvolution, you're putting your life in their hands. And this takes us to King Charles I, who ruled England from 1625-1649. Remember the Thirty Years War, when Main Street was tearing itself apart in the name of Protestant and Catholic kings; adding to that anarchy was King Charles. He led England into a civil war to defend his self-image of being god on Earth against the uppity commoners. His story teaches something special. The future of civilization Stargazer is truly in your own hands.
 
 _Paul Baran's story was adapted from Walter Isaacson's awesome book_ The Innovators: Chapter 7.
 
 ## Darth King Charles
 
-Charles ruled England as a proud protestant. He was brought up to believe in the "nobles right to rule". His father, King James, was after-all the person who commissioned the "King James Version" Holy Bible. The first Bible written in English, and readable by the masses. Although a Kingdom, England did however, have an elected Parliament. But in Charle's eyes it was only supposed to advise the king and not tell him what to do. But Parliament held a lever of power. After some revolts in the Middle Ages, the elected representatives did have the power to approve new taxes.
+Charles ruled England as a proud protestant. He was brought up by his father to believe in the "nobles right to rule" as a matter of faith, not self-interest. His father, King James, was after-all the person who commissioned the "King James Version" Holy Bible. A Bible written in English and readable by the masses so they could understand a king is the father of the people.
 
-Like most kings, Charles and his father spent quite lavishly. It wasn't long before Charles' kingdom was broke, and he needed to raise new taxes. Parliament, filling up with idealic commoners, wouldn't say yes until they got more political powers. In turn, Charles refused to talk to them. Outright ignored them. In fact, the king sent parliament home and ruled by himself for 10 years. The king got his money by using ancient feudal rules. One example, he fined men who didn't come to his royal coronation.
+The Kingdom of England did have an elected Parliament. But in Charle's eyes it was only supposed to advise the king and not tell him what to do. Good thing Parliament held a lever of power. After some revolts in the Middle Ages, the elected representatives had the power to approve new taxes.
 
-Parliament eventually got sick of this subversion. Ideals of more power using the political system, was turned into real political power by raising an army. Charles did the same,and the two sides fought the English Civil War (1642–1646). The parliamentary army was local men devoted to democracy—and on their way to becoming player gods—who chose their own protagonists. Charles's men were mostly nobles who hired mercenaries to fight for them. Just as how unhappy Main Street made the Thirty Years War especially brutal, so was the war between Parliamentarians and Royalists.
+Like most kings, Charles and his father spent lavishly. So it wasn't long before Charles' kingdom was broke, and he needed to raise new taxes. Parliament, filling up with idealistic commoners (Christian Purtitans, the ones who soon fled to America and started Thanksgiving) wouldn't say yes until they got more political powers. In turn, Charles refused to talk to them. In fact, the king sent parliament home and ruled by himself for 10 years. The king got his money by using ancient feudal rules. One example, he fined men who didn't come to his royal coronation.
 
-After four years of grusome battles and bloodshed, Charles lost. He was held under arrest, while rules for a less powerful "constitutional monarchy" were being made by the Parliamentarians. Charles then escaped, hired a new army, and fought the Second English Civil War (1648–1649).
+Parliament eventually got sick of this subversion. They raised an army. Charles did the same, and the two sides fought the English Civil War (1642–1646). The Parliamentary Army was local men devoted to democracy—and on their way to becoming player gods—who chose their own leaders by merit. Charles's Royalist Army were mostly nobles who hired mercenaries to fight for them.
 
-Charles lost again. The victorious Parliamentarians were now enraged. They forgot about making a constitutional monarchy, and instead charged Charles for crimes against the English people. These newly minted player gods wanted all the levers of power, military and political. Charles didn't budge. The Bible—his father's Bible!—said he was God's chosen representative. How much better could these uppity commoners be told HE was the natural leader; the father of the nation. So, Charles refused to speak the court; a father doesn't answer to his children.
+After four years of grusome battles and bloodshed, Charles lost. He was held under arrest, while rules for a less powerful "constitutional monarchy" were being made by the Parliamentarians. Charles then escaped, hired a new army, and fought the Second English Civil War (1648–1649). Charles lost again. The victorious Parliamentarians were now enraged.
 
-But then Darth King Charles did speak, and that fact should turn you into a player god today. If it doesn't, I don't think anything else will.
+They forgot about making a constitutional monarchy, and instead charged Charles for crimes against the English people. These newly minted player gods wanted all the levers of power. Charles didn't budge. The Bible—his father's Bible!—said he was God's chosen representative. How much more cleaer could these commoners be told he was their father. So, Charles refused to speak the court; a father doesn't answer to his children.
 
 https://www.youtube.com/watch?v=zjxu1De8npY
+
+But then Darth King Charles did speak, and that fact should turn you into a player god today. If it doesn't, I don't think anything else will.
 
 ## Charles Speaks - The Proof is in the Words
 
@@ -1223,7 +1223,7 @@ And now, Charles, God's King, was accused of being "a Tyrant, A Traitor, Murdere
 
 At this historic moment, Charles wasn't pretending or bluffing to not understand his charges. He wasn't proud or stubborn. Like Hugh Auld and Agent Smitht, he was a honest defender of the Matrix. He knew God's rulebook was just. His father was nice enough to print it out for the people to read!
 
-Poor Charles. He was the hero of a dying philosophy. Just a regular person, who was brought up to believe in his divinity. How could he through this story? In his mind Antagonist Kings were impossible. So at his trial he (on purpose) said nothing.
+Poor Charles. He was the hero of a dying philosophy. Just a regular person, who was brought up to believe in his divinity. In his mind Antagonist Kings were impossible. So at his trial he (on purpose) said nothing.
 
 The judges convicted Charles anyway. He was sentenced to death by removing the head from the body. The convicted king was astounded. His next chance to speak would be at his own chopping block.
 
@@ -1234,59 +1234,51 @@ _This is Whitehall. A palace built by Henry VIII. Charles waited here for his de
 
 Fuck the ringing bell of a claims department, imagine the stress of a stutterer minutes from execution, having to say something to defend 16 years of civil war, his throne, and his family's place in history. I can't explain how anxious he would have been. I'm sure he feared the emotional pain of not saying anything more than getting his head chopped off.
 
-Standing on the scaffold, at his own chopping block, he now had his last chance to say thing. And... And... he said this.
+![Charles speaks](/img\diagrams\techvolution-charles-speaks.jpg)
 
-PICTURE
+As if public speaking isn't hard enough. Charles standing before the young player god, on the scaffold, at his own chopping block, he now had his last chance to say something to the people he wanted to be his extras. And... And... he said this.
 
 > Truly I desire their (the people's) liberty and freedom as much as anybody whomsoever; but I must tell you their liberty and freedom consist in having of government, those laws by which their life and their goods may be most their own. It is not for having a share in government, Sir, that is nothing pertaining to them. A subject and a ruler are clear different things... therefore I tell you that I am the Martyr of the people. I die a Christian according to the profession of the Church of England, as I found it left me by my father... I have a good Cause and I have a gracious God. I will say no more.
 
-Charles didn't just speak, he spoke so eloquently many people, even those who hated him, were impressed. I must say I'm happy for him. Speaking his mind for sure felt like the angels killed finally the gremlin. He died happy knowing not stuttering was a reward for his loyality to justice.
+Charles didn't just speak, he spoke so eloquently many people, even the protagonists who hated him, were impressed. I must say I'm happy for him. Speaking his mind for sure felt like the angels finally his gremlin. He died happy knowing not stuttering was a reward for his loyality to a just rulebook.
 
-Charles trick himself into clarity. His surety killed the gremlin. The game of civilization, the classic story of inventing new solutions to the never ending problems life has on Earth, meant nothing to him. Why would it? He never felt frontline pain—not in even the battles he caused. He was the leader now and always. The people were just extras. Even though they wanted to be player gods, who cares. Charles lived in splendor, hide behind spectacle, and used the people's money to hire foreigners to kill these uppity player gods.
+Charles trick himself into clarity. His ignorant surety killed the gremlin. The game of civilization, the classic story of inventing new solutions to the never ending problems life has on Earth, meant nothing to him. Why would it? He never felt frontline pain—not in even the battles he caused. He was the leader now and always. The people were just extras. Even though they wanted to be player gods, who cares. Charles lived in splendor, hide behind spectacle, and used the people's money to hire foreigners to kill these uppity player gods.
 
-Later kings still didn't learn. Even more distanced from the frontline inside their palaces, banquets and balls. Many more Darth Kings faced the chopping block with the voice of God calling them martyrs. Antagonism is what antagonist do.
+Such was the life and death of Darth King. Later kings were even more distanced from the frontline inside their palaces, banquets and balls. Many more nobles faced the chopping block with the voice of God calling them martyrs. Antagonism is what antagonist do.
 
 The question is, what are you going to do?
 
 ## Time to Act Stargazer
 
-I told you the Baran story to emphasize how you won't throw away the internet, smartphones, Netflix. I told Charle story to make you realize Darth Blockbuster will never, ever, ever, "see the light". That's why I'm not writing to "The Executive." I'm writing to you Stargazer. You're the player god.
+I told you the Baran story to emphasize how you won't throw away the internet, smartphones, Netflix because you are an internet cyborg. I told Charles' story to make you realize Darth Blockbuster will never, ever, ever, "see the light". It's why I'm not writing to "The Executive." I'm writing to you Stargazer. You're the player god.
 
 ![Illustration](/img\sketches\playergod-stargazer.jpg)
 
-That's you. The fate of civilization on your shoulders. Your job is to do what's best for yourself, and help society prosper. You're looking up for guidance and see two options. Open-source heroes of the Internet Age who keep innovating, thinking ahead, while fiiling the world with the real-life majic! And the self-importance, short-sightedness of Darth Blockbuster, the fallen and stubborn hero of the Industrial Age who uses the trickery of dark majic and corrupted rulebook to keep himself in power.
+That's why the fate of civilization is on your shoulders. Your job is to do what's best for yourself, and help society prosper. Looking up for guidance you see two options. Open-source heroes of the Internet Age who keep innovating, thinking ahead, while fiiling the world majic that you love. And the self-importance, short-sightedness of Darth Blockbuster, the fallen and stubborn hero of the Industrial Age who uses the trickery of dark majic and corrupted rulebook to keep himself in power.
 
-The only question is, what philosophy do you believe in? The one that clicks creates your ruling philosophy. Deciding the ruling philosophy is the power of an empowered Main Street—empowered now with the tools to see the difference between Protagonist vs. Antagonist. Inventor vs. Noble. Jedi vs. Sith.
+You an internet cyborg, inside the Industrial Age philosophy. The only question is, what philosophy do you believe in? The one that clicks creates your ruling philosophy. Deciding the ruling philosophy is the power of an empowered Main Street—empowered now with the tools to see the difference between Protagonist vs. Antagonist. Inventor vs. Noble. Jedi vs. Sith.
 
 The fate of civilization is then, rather simple. Who is your hero Stargazer? Will you be a player god or an extra? We all await your choice. The conclusion of Techvolution: A New Philosophy is thus a simple discussion inside your head. Which might look something like this.
 
 ## The Battle Inside Stargazer's Head
 
-I want yo write you several dialogues. Like the famous ones Plato wrote thousands of years ago. I would uncover the difference between majic and dark majic in education versus schooling, or nutrition versus junk food. I'd love to write a drama between Antagonists and Protagonists offering themselves to Stargazer, with Stargazer having an internal discussion between Extra and Player god. The excitement being which side would Stargazer listen to. Like the Last Temptation of Christ.
+I want to write you dialogues, like the famous ones Plato wrote. I would uncover the difference between majic and dark majic. I would explain why Darth Blockbuster exported America. I'd love to write ones of Antagonists and Protagonists offering themselves to Stargazer, who has an internal discussion between the benefits and drawbacks of being an extra or player god.
 
-I would love to write a Netflix series of cyborgolosits, techvolutionaries, majicians (whatever we call them) transforming society like Johnny Appleseed. Running around and tirelessly bringing regular people together with modern technology, and thereby upgrading society. Linus Tech Tips on steriords, teaching roofers to use drones to inspect for damages. Cleaners uses IR cameras to inspect for bacteria. Doctors using cloud storage, to review a patients entire medical history. And all with minimal supervision and no garbage problems.
+I would love to write a Netflix series of cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society, and planting us into the Internet Age like Johnny Appleseed. Imagine it like Linus Tech Tips on steroids because today's "geeks" are really majicians just waiting to teach Main Street how to jump into the Internet Age.
 
-But I can't think for you. Nor do I want to keep holding your hand. This book has been informative enough. The future is on your shoulders, and now you know why it is. If I get a chance, I'll write more later. But this book isn't a product, nor are you my customer. I personally just want to live in a place were life prospers, and hope you do too.
+Millions of people need new cyborgologies to join the era of mass-collaboration. Think of roofers using drones to inspect for damages, cleaners uses IR cameras to inspect for bacteria, doctors using cloud storage to review a patients entire medical history. Techvolutionaries making modern cyborgs, bringing on the era of mass-collarboration. No eight different bosses. No DING-DING-DING. No garbage problems.
 
-## The End
+But I don't have all this written. But more importantly, I can't think for you. Nor do I want to keep holding your hand. This book has been informative enough. You understand that when our hands drop old tools, and pick up new ones, we control the levers of power. But to pull those levers, we need a new philosophy that turns us into player gods of the game.
 
-If someone were to tell you how to vote, while looking over your shoulder, you'd be weirded out. You'd call the police and society would rush to defend you, because we all agree nobody should tell you, nor force you, how to vote. You yourself haven't done anything to earn that right. It's something our Rousseau inspired player god ancestors earned for us.
+So, the future is on your shoulders. Antagonists will never stop. Open-source protagonists have done their job. I personally just want to live in a place were life prospers. That's why I pray you decide to play the game, like our ancestors did for us so many times.
 
-Now it's our turn. The solution to our political and economic problems is upgrading to the Internet Age and embracing the era of mass-collaboration. To do that, we need Techvolution, a new philosophy that gives the right, and duty, to frontline people to use digital tools to solve their real-life problems. Letting antagonists decide is stupid, while believing in Left/Right philosophies is a recipe for living in the past.
+Now it's our turn. The solution to our unhappiness is upgrading to the Internet Age and embracing the era of mass-collaboration. To do that, we need Techvolution, a new philosophy that gives the right, and duty, to frontline people to use digital tools to solve their real-life problems. Letting antagonists decide is stupid, while believing in Left/Right philosophies is a recipe for living in the past.
 
-Donald Trump is thus the savior of Western Civilization. This time that statement isn't rhetorical. Trump is our saviour; not because his policies are good or bad, but because he's such a departure from the Right/Left mold, he makes us think, "what politics do I want?". And asking that question is the first step to being a player god.
-
-We can all enjoy the era of mass-collaboration now, if you stop watching the story of civlization as an extra. We don't need revolutions or wars. Not even marches or protests. Whereever you are, look around, and see old drafty windows, gas engine car, cable news, mass-producted toys, eight different bosses, car traffic, endless red-tape...
-
-Do you see the Industrial Age? Are you willing to drop the tools of 1969 cyborg, and become a Internet Age cyborg who solves todays frontline problems? Adapting is evolution, and the civilization that evolves wins the game. So, do you want the job to defeat Darth Blockbuster?
-
-PICTURES OF SKYWALKER, POTTER, ETC....
+Llook around, and see old drafty windows, gas engine car, cable news, mass-producted toys, eight different bosses, car traffic, endless red-tape... Do you see the Industrial Age? Are you willing to drop the tools of 1969 cyborg, and become a proud Internet Age cyborg who solves todays frontline problems? Do you want the job to defeat Darth Blockbuster?
 
 Or do you want to return to the comfort and safety of being a 1969 cyborg, bragging about gas cars, fake job titles, and McMansions, while following the antagonists rules, and chasing the phantoms of Conservative/Progressive politics. Did Techvolution click? The fate of your life, your kids, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
 
 If you do, we win. If you don't, we lose.
-
-- GIF of Anno 1800 peeps?
 
 # EPILOGUE
 
@@ -1343,6 +1335,19 @@ Because soon Evolution will be our rulebook. No middleman. No phantom chasing. N
 
 # THE APPENDICES
 
+## The End of our Game of Civilization Because There Are No Polar Bears in the Amazon
+
+If you stepped up, and decided to play the game. Thank you. Here's what you need to know about our world today. The player god is already forming against the Industrial Age powers. But it doesn't have a new philosophy to properly guide it. Like those Christian Puritans who dethroned Charles, our current political movements are extreme believers in the current ruling philosophy.
+
+Think of today, if someone were to tell you how to vote, while looking over your shoulder, you'd be weirded out. If the criminal didn't leave, you'd call the police and society would rush to defend you. We all agree nobody should tell you, nor force you, how to vote. You yourself haven't done anything to earn that right. It's something our Rousseau inspired player god ancestors earned for us.
+
+The reason is the same reason we can't send the suffering polar bears to the Amazon, or Antartica.
+
+<div style="width:100%;height:0;padding-bottom:44%;position:relative;"><iframe src="https://giphy.com/embed/eSItBDecz3oJy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/maps-cartography-territories-eSItBDecz3oJy">via GIPHY</a></p>
+
+While I plan to write a textbook on Techvolution (How to See the Matrix), I'd love to now delve into the the game of civilization for you right now. The game defines our lives in so many ways, because it determines the roles we play in our lives. The accident of birth to parents, geography, or time-period makes us antagonists, protagonists, extras and player gods. Few people understand their role, and a insight might help you choose Techvolution.
+
+
 ## The End of One Game, and the Beginning of a New One
 
 This section is my personal opinion, so take it for what it's worth to you.
@@ -1380,7 +1385,7 @@ Hopefully they'll colonize the West, and so, bring on the Internet Age to the wo
 
 I tried to make Techvolution very readable. Almost all the topics and subjects are metaphors for the lessons Europe learned going from the Dark Ages, through the Medieval Ages, to the Science Age, Enlightenment Age, and finally the Industrial Age. So there was a lot of stuff to fit it. If you're a history or philosophy nerd, I hope you realize why I synthesized things the way I did. The benefit was, by keeping things simple, I was forced to better understand the content.
 
-Without changing our path (which I mentioned above, I can only hope is coming) The West really is headed towards societal failure, a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosis using our history. Every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god. Unless we create a player god in an era of mass-collaborationone soon, we wont stay ahead of our problems and people will fight for a better life using the philosophy of the past; just like our ancestors fought against Catholicism and Protestantism when the real enemy was selfish, effeminate nobility.
+Without changing our path (which I mentioned above, I can only hope is coming) The West really is headed towards societal failure, a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosis using our history. Every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god. Unless we create a player god in an era of mass-collaboration soon, we wont stay ahead of our problems and people will fight for a better life using the philosophy of the past; just like our ancestors fought against Catholicism and Protestantism when the real enemy was selfish, effeminate nobility.
 
 If I could travel back to 1618 to those very unhappy Europeans on Main Street, I'd say the same thing to them I told you. But they wouldn't believe it because I'd be talking about the future. With you it's been the past. There's a better chance it'll all click.
 
@@ -1412,9 +1417,11 @@ Rousseau later came and said a true democracy is made up of the people. Unlike H
 
 While Rousseau's visions lead to a lot of social engineering disasters. Modern technology and especially open-source, is so liberating, and so individually empowering, we can make a good and just player god. We can have the best of both worlds, a stable government and society, that doesn't need to, and in fact can't, oppress the people.
 
-**The Game of Civilization**: Hegel's March of Reason.
+**The Game of Civilization**: Hegel's March of Reason. G. W. F. Hegel (1770– 1831) distinguished mere fact from history, or from what he called World History. He was the master of the philosophy of history. Rather than let fact silence reason, he tried to infuse reason into fact; he saw the “march of Reason” in the facts of World History. World History, he tried to show, developed in “dialectical” stages until the Rational State was perfected—which by good chance (so Mansfield says) turned out to be the very state of Prussia in which Hegel was living. Here was the end (in the sense of the completion) of history: a state without parties in which there is nothing fundamental left to dispute. Yet as soon as the rational state was announced, everybody—Marx and Nietzsche in the forefront—scrambled to dispute it. Even as Hegel was writing, Tocqueville reproved the sort of democratic history that subjects human events to impersonal forces over which men have no control and that levels mankind to a herd of impotent individuals.
 
-**The Game of Civilization vs. The Story of Civilization**: Machiavelli's "wised up". Meaning when a civilization is self-aware it takes its survival seriously and not for granted, and thus plays the game, instead of passively watching the events as if it can't determine it's own outcome.
+I never read Marx or Nietzche. There was something about inspiring evil that had me stay away. Instead I read science fiction writers, they had the imagination to see the future based on our tools, not on the history of philosophy.
+
+**The Game of Civilization vs. The Story of Civilization**: Or being a player god vs. being an extra. This is Machiavelli's "wised up". Meaning when a civilization is self-aware it takes its survival seriously and not for granted, and thus plays the game, instead of passively watching the events as if it can't determine it's own outcome.
 
 **Your Happiness**: The best gauge on how healthy the player god is.
 
