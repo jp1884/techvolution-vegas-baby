@@ -2073,3 +2073,49 @@ Just to drive home the point some more. Anybody can use modern technology to fig
 The idea doesn't even exist, because they think its 1969, when the levers of power weren't available to Main Street. Ideologues (if they're still reading) are right now trying to figure how to discount this point. I promise, some Conservatives look at Common Voice and see "common" and will yell out they found Communism in America! A Progressive looks at Kickstarter raising money for something, and will scream "see, the rich are getting richer!". Knee-jerk reactions like this are expected from people born and raised with red/blue filters.
 
 Neither can understand the Internet Age and mass-collaboration is the best of both ideologies. Modern technology let's people help their civilization prosper, as Progressives dream, and also better themselves, as Conservatives demand. Mixing ideologies is how Techvolution builds on the past, and helps Main Street prosper once again. Now let's see what this means for regular person working on Main Street.
+
+## Baran
+
+When Baran tried to give his specs away, he walked into a nest of antagonists. The Department of Defense was a sea of very unhelpful bureaucrats. So Baran tried to convince AT&T, in control of America's telephone network, to supplement their system with his node-packet data network. "They fought it tooth and nail," he recalled. "They tried all sorts of things to stop it." One engineer "eyeballs rolled up, sending a signal of his utter disbelief" at Baran's ideas.
+
+Good thing Jedi's don't give up. Baran continued to push. AT&T finally had him and other outsiders to a series of seminars explaining how its telephone system worked. "It took ninety-four separate speakers to describe the entire system," Baran marveled. When it was over, the AT&T executives asked Baran, "Now do you see why packet switching wouldn't work?" To their great disappointment, Baran simply replied, "No."
+
+To heck with Darth Telephone!
+
+The point is this. Baran's network was eventually built the US government's Advanced Research Projects Agency (ARPA) saw the wisdom upgrading America's communication system. In 1969 ARPA used Baran's technical specs to build ARPAnet, the first version of the internet. Although it's grown bigger and faster, the internet is still technically unchanged. That's why within the DNA of the internet we use everyday, is your freedom.
+
+## Converation bd
+
+Player: We have to do something about climate change.
+Extra:  That's the right-wing's fault.
+Player: And? Hw does giving up reduce global temperatures?
+Extra:  Once we defeat them, we'll worry about that.
+Player: Let em guess you want a campaign contribution or for me to watch more "Breaking News"
+Extra:  MSNBC rocks!
+
+Player: How about we make a carbon tester, start collecting samples, put them online, and we'll have a Third Party, independent way to gauge carbon emissions. Then we can hold politicians and businesses accountable.
+Extra: How about we fly to Washington D.C. Walk in a huge crowd of people, and yell into the air while holding signs up, and maybe we'll get on CNN.
+Player: This isn't the WWE.
+
+Extra: Climate change isn't even real. It's a Left-Wing conspiracy.
+Player: Welcome the other side of the coin. Okay, screw the scientists. What's wrong with harvesting American energy.
+Extra: Then let's us drill baby!
+Player: Long-term, think beyond. Electrifying our economy. Tesla.
+Extra: Hippie! I want the rumble of the engine asshole. That's a man rumble!
+Player: Now that's dark majic; you communist!
+Extra: Me a communist?! I watch Fox News asshole!
+Player: The place where the brag about exporting American manufacturing—the factories and workforce that built made America great in the Industrial Age—and sent it all to China, a communist country. Thumbs up. Just so they could be what? What skillset do those people have?
+Extra: They're experts.
+Player: If Noah's Ark happens again, none of them would get a seat. If we had to evacuate Earth, none of them would get the pick. As we're planning to colonize Mars, none of those people are getting the call-up.
+
+Player: In the 1970s, 80s, and 90s, the Industrial Age was over, our resource count was dropping. The people in charge didn't know what to do. So they started selling stuff like a yard sale. Leftists wanted to regulate, Rightists wanted an easy buck.
+Extra: They had good reasons.
+
+Player: Even kids who play a computer game know, if you don't have factories, technicians, craftsmen, engineers—but are full of marketers, lawyers, and HR reps, what you have is a Civilization on its last legs. Tesla was always going to succeed. Because they started small, attracted talent, and a mission. Upgrade civilization to the Internet Age. We have to keep doing that.
+
+Extra: But I like the rumble of V8 power.
+Player: Do play Anno 1800, Starcraft, or anything based on likes, or requirements. Well then shut the fuck up. Think about your kids.
+Extra: I don't want children.
+Player: What about your cyborg kids.
+Extra: Huh?
+Player: We're cyborgs. Our DNA doesn't just live on with our biological kids. It lives on in the cyborgs we create today, who will be picked up by other people, and evolve....
