@@ -41,7 +41,7 @@ Gordon Moore, co-founder of Intel, 1973.
 
 I used many videos and images throughout this book. They help explain information faster, so why not. Keep in mind some videos have sound which you may have to enable to hear. I especially used media to showcase how life changing the internet is. Today, millions of regular people are communicating billions of ideas, opinions, and information with no middle-men. It's like the printing press spreading books to Main Street. While I very much want to help creators and their audiences realize how historic their work is, of course all credit for the media goes to them.
 
-Also, I use Star Wars, Star Trek, Harry Potter, and other pop culture stories. If you're not a fan, don't worry too much. If we were in Ancient Greece, I'd use Greek Mythology. If we were in Victorian Britain, I'd use Shakespeare. Using familiar stories is a more natural way to explain philosophy, politics, and real-life. Of course, all due credit goes to the media's owners.
+Also, I use Star Wars, Star Trek, Harry Potter, and other pop culture stories. If you're not a fan, don't worry too much. If we were in Ancient Greece I'd use Greek Mythology. If we were in Victorian Britain I'd use Shakespeare. Using familiar stories is a more natural way to explain philosophy, politics, and real-life. Of course, all due credit goes to the media's owners.
 
 # Introduction
 
@@ -1265,16 +1265,18 @@ The fate of civilization is then, rather simple. Who is your hero Stargazer? Wil
 
 ## The End
 
-I want to write dialogues like Plato's. I'd love to write ones of Antagonists and Protagonists debating with Stargazer, who has an internal discussion between the benefits and drawbacks of being an extra or player god—or the joys of majic and dark majic.
+I want to write dialogues like Plato's. I'd love to write ones of Antagonists and Protagonists debating with Stargazer, who has an internal discussion between the benefits and drawbacks of being an extra or player god, and the joys of majic and dark majic.
 
-I would love to write stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society, to transform us into the Internet Age. Imagine it like Linus Tech Tips on steroids. Because today's "geeks" are really majicians in waiting. Waiting to attach roofers with drones, cleanerst with IR cameras, craftsman with 3D printers. Majicians make modern cyborg-makers, living to bringing on the era of mass-collarboration.
+I would love to write stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society, to transform us into the Internet Age with all the heroic drive our problems deman. Imagine it like Linus Tech Tips on steroids. Because today's "geeks" are really majicians in waiting. Waiting to attach roofers with drones, cleanerst with IR cameras, craftsman with 3D printers. Majicians make modern cyborg-makers, bring on the era of mass-collarboration.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/whimsicalleadingfirebelliedtoad">via Gfycat</a></p>
 _An ideallized era of mass collaboration. No antagonists or extras, just protagonists and player gods._
 
-But I can't think for you. Nor do I want to keep holding your hand. This book has been informative enough. You only have oney question you have to ask yourself. Are you happy? On the surface we have flashy products, full employment, and stable politics. On the inside, our middle-class deals with stagnate wages, crushing debts, antisocial behavior, political hatred, and climate change.
+But I can't think for you. Nor do I want to keep holding your hand. This book has been informative enough. At the start I asked are you happy? Now you have to ask "Am I going to do something about it?"
 
-Antagonists will never stop. Open-source protagonists have done their job. I personally just want to live in a place were life prospers. That's why I pray you decide to play the game, like our ancestors did for us so many times.
+On the surface we have flashy products, full employment, and stable politics. On the inside, our middle-class deals with stagnate wages, crushing debts, antisocial behavior, political hatred, and climate change. Are you going to do something about it?
+
+Antagonists will never stop. Open-source protagonists have given you the tools. I personally just want to live in a place were life prospers. That's why I pray you decide to play the game, like our ancestors did for us so many times.
 
 Now it's our turn. Our unhappiness is a big huge sign. We must upgrade to the Internet Age and embrace the era of mass-collaboration. To do that, we need Techvolution, a new philosophy that gives the right, and duty, to frontline people to use digital tools to solve their real-life problems.
 
@@ -1288,33 +1290,47 @@ If you do, we win. If you don't, we lose.
 
 ## Crash and Die
 
-I had a heck of a time writing this book. It really does condense so much political theory. I was pretty tired, and kind of bitter to be honest. While I can't tell you exactly what Techvolution and the era of mass-collaboration looks like in your industry, I can for my old one. Car insurance claims. And let me tell you about Techvolution and mass-collaboration.
+I said above, philosophy has lofty and sometimes hard to undertand ideals of a "just and good society". I tried my best to use real-world examples, media, and popular stories to make Techvolution relatable. But you still have to venture out and find out what it means to be a player god.
 
-First watch this. A clip from Netflix's _Black Mirror_. A story of a crazed man, who wants to talk with the powerful CEO of an Instagram-like app called Smithereens. He holds a company intern hostage, awaiting the CEO’s call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
+It'll be a journey to stand-up to a stupid consultant, fight climate change, or collaborate with a nutritionist. While, I can't tell you exactly what Techvolution and the era of mass-collaboration looks like in your life and job. I can for one for car insurance claims. You can use its transformation as your guide.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/TheseColossalHousefly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+First watch this. A clip from Netflix's _Black Mirror_. A story of a crazed man, who wants to talk with the powerful CEO of an Instagram-like app called Smithereen. He holds a company intern hostage, awaiting the CEO’s call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
 
-New technology is either our salvation. Or our distraction. These are the poor souls car insurance adjusters speak to. While most aren't so devastated, far too many are. Crashes, deaths, hijackings, murders, drive-bys, car fires, everyone calls into insurance eventually. And all the while BEEP-BEEP-BEEP-BEEP-BEEP-BEEP-BEEP-BEEP-BEEP.
+https://www.youtube.com/watch?v=_gF1oGQ2hAA&feature=youtu.be&t=50
 
-Car crashes kill tens of thousands of people each year. Hundreds of thousands more are injured. And million of lives are changed. We spend about 200 billion every year on car accident insurance claims. That's about ten times NASA's budget.
+New technology is either our salvation. Or our distraction. These are the poor souls car insurance adjusters speak to. While most aren't so devastated, far too many are. Deadly crashes, mutilations, hijackings, murders, drive-bys, car fires, every human tragedy calls an insurance adjuster eventually. And all the while DING-DING-DING-DING-DING-DING-DING-DING.
 
-At it's heart, Smithereens is a story about an extra. The tortured man assumes the company Smithereens will care about his problem. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. "They" only have your interest at heart if you hold levers of power.
+Human work and stress, happiness and pain is reality. It's the frontline of civilization. This is the pain evolution is supposed to solve. The game of civlization is won or lost based on our Techvolution to feel pain, adapt, and keep going. What the Internet Age allows, is what Galileo did all those years ago why he admitted to himself "we don't know until we test, so let's use instruments to test what we think we know."
 
-I wept while watching the story. Full out crying. I knew what the plot twist was—that someone died in a car crash—because I'd spoken with this person too many times. It was actually the reason I made my app. I wanted to showcase how the future of technology will help us solve things like horrible, useless, and preventable car crashes with something called the Life Star. What I ended up learning, is before we get to the Internet Age and mass-collaboration, we have to defeat the antagonists, with a army of player gods believing in Techvolution.
+Using instruments to find the truth, means the truth no longer comes from leaders opinions. And this is what Industrial Age antagonists fear most of all.
 
-Here's why.
+But the Internet Age doesn't stop for antagonists. It's only held back, because as regular people keep buying, learning, and using modern tools, they push us farther into the Internet Age. Look below, and you'll see the Twitter feed of the Ontario Police. They use it to tell the public about car crashes.
+
+<a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw" target="_blank">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The point is, I have no control over this Twitter feed. I can't gatekeep it's information from you. It's facts we either use to evolve, or not. And right now, these are live crashes. The people in these crashes are in some level, living through Smithereen.
+
+At it's heart, Smithereens is a story about an extra. The tortured man assumes the company Smithereen will care about his problem. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. "They" only have your interest at heart if you hold the levers of power.
+
+I wept while watching the story; full out tears. I knew what the plot twist was—that someone died in a car crash—because I'd spoken with this person too many times. It was actually the motivation for me to make my app. I wanted to showcase how the future of technology will help us solve things like horrible, useless, and preventable car crashes with something called the Life Star. What I ended up learning, is before we get to the Internet Age, we have to defeat the antagonists, with a army of player gods believing in Techvolution, and weilding the levers of power inside the era of mass-collaboration.
+
+Here's how we can in car crashes. It's only a guide for you to do the same..
 
 ## My App
 
-I never intended to write this book. I wrote a similar one, "Why the 2008 Economic Crisis Was Only the Beginning" years ago (although I never showed anyone). All the points from here are there—but it's not written quite as well.
+I never intended to write this book. I wrote a similar one, "Why the 2008 Economic Crisis Was Only the Beginning" in 2009 (although I never showed anyone). All the points from here are there—but it's not written quite nearly as well.
 
-I wanted (and am), writing "Building the Life Star" and "Starting Starfleet." Which in summary say, digital tools will start enabling mass-collaboration, give us objective facts whose lives and civilizations are more efficient, and therefore let us start saving oddles of money. With all the savings, we'll start the Space Exploration Age.
+I wanted (and am), writing "Building the Life Star" and "Starting Starfleet." Which in summary say, digital tools will start enabling mass-collaboration, give us objective facts whose lives and civilizations are more efficient, and therefore let us start saving our money and lives. With all the savings, we'll start the Space Exploration Age.
 
 So I made my app to demonstrate these simple facts. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in "tech."
 
 The tool wasn’t polished because new tools never are. But it was, and would have been, so effective because it came directly from the frontline. The place where evolution happens, but a place far away from today’s antagonists.
 
-Here’s how my app worked. Today’s car insurance claim system uses telephones, voicemails, and emailsto communucate between drivers and adjusters. After an accident, drivers are expected to exchange information. They're usually frazzled so they often don’t. A simple mistake that causes huge headaches. Adjusters have to search for each other. Literally calling around or hoping someone calls you. Delays piled up like crazy—causing most of the maddening DING DING DING DING DING DING.
+Here’s how my app worked. After an accident, drivers are expected to exchange information. They're usually frazzled so they often don’t. A simple mistake that causes huge headaches because today’s car insurance claim system is based on Industrial Age tools. Drivers and adjusters communicate via telephones, voicemails, and emails. Without the other driver's info, adjusters have to search for each other. Literally calling around or hoping someone calls you. Delays piled up like crazy—causing most of the maddening DING-DING-DING-DING-DING-DING.
+
+Why do you think this is? Because a call-centre is a lever of power. And the pain of its eternal hold times, and never ending DINGS, is controlled by people who never hear them. I don't know what the stat is, but I'd guess for every adjuster collaborating with drivers to process their claim checks, there's 20 administrators, HR reps, marketers, managers, and executives taking money of the pot for themselves. When these highly paid head-office people asked where adjusters work, it was common to hear back "what's claims?".
+
+So
 
 So what do you think is going to happen? After reading Techvolution, you should know, if a person doesn't hold a lever of power, they're disregarded. Drivers have no power. Although they've paid tens of thousands in insurance every year. But, they're dependent on the copmany to give their money back. Without power, they're left waiting on hold. Just like the guy in Smitereens.
 
@@ -1333,9 +1349,6 @@ It would have been very helpful. With no exaggeration, society would have saved 
 
 But this is especially why its worth fighting for. With my small little app, for the first time, we’d have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, demographics, and many other databases. We’d finally learn why car accidents happen, and start to fight back.
 
-<a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-_Ontario police use Twitter to tell the public car crashes. People in this feed, are going through what the Netflix clip above showcases. And the today's Death Star said it was moral and just to stop it._
 
 A database of accident locations and causes doesn’t exist today. Government regulators don't care about it. Insurance company managers don't care about it. Extras tell themselves "they" are doing it all. So, when tires are faulty, intersections jam up too much, pot holes get too big, or anything else repeatedly causes accidents, we don’t even know. With a database, machine learning and artificial intelligence, we’d find trends to the millions of accidents, and tens of thousands of deaths that happen every year.
 
