@@ -2119,3 +2119,23 @@ Extra: I don't want children.
 Player: What about your cyborg kids.
 Extra: Huh?
 Player: We're cyborgs. Our DNA doesn't just live on with our biological kids. It lives on in the cyborgs we create today, who will be picked up by other people, and evolve....
+
+## Lever of Power
+
+First off a lesson about the industry. Insurance is nothing but a bank account. We deposit money to use later. But instead of withdrawing it to buy something, we withdraw money after an accident, usually a crash. Thus, when a crash happens, you've activated the withdrawal and are immediately owed your money. The claim is all paperwork to confirm what's already happened.
+
+And that's the problem. How do you access your money? With a lever you don't control. When I tried to democratize—ever so slightly—that lever of power, I got to see the Industrial Age fighting to keep it's sweetspot alive. Because while customers pay insurance with direct electronic payments on time, slowing the payments out, is good business.
+
+Why do you think this is? Because a call-centre is a lever of power. And the pain of its long hold times, and never ending DINGS, is controlled by people who never hear them. I don't know what the stat is, but I'd guess for every adjuster collaborating with drivers to process their claim checks, there's 20 administrators, HR reps, marketers, managers, and executives taking money from the pot for themselves.
+
+So what do you think is going to happen? After reading Techvolution, you should know, if a person doesn't hold a lever of power, they're disregarded. Because they're on the frontline, adjusters are powerless. Turnover is constant.
+
+Drivers  have no power. Although they've paid tens of thousands in insurance every year. But, they're dependent on the copmany to give their money back. Without power, they're left waiting on hold. Just like the guy in Smitereens.
+
+Industrial Age antagonists like standing above the frontline. Adjusters and drivers alike. Thus Main Street should stop being extras, and reach for the levers of power, and become player gods.
+
+## The Appendices
+
+If you stepped up, and decided to play the game, here's what you need to know about our world today. The player god is already forming against the Industrial Age powers. But it doesn't have a new philosophy to properly guide it. Like those Christian Puritans who dethroned Charles, our current political movements are extreme believers in the current ruling philosophy.
+
+Think of today, if someone were to tell you how to vote, while looking over your shoulder, you'd be weirded out. If the criminal didn't leave, you'd call the police and society would rush to defend you. We all agree nobody should tell you, nor force you, how to vote. You yourself haven't done anything to earn that right. It's something our Rousseau inspired player god ancestors earned for us.
