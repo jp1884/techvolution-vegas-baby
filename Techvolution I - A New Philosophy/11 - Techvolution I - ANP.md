@@ -990,9 +990,9 @@ The difference between good and bad stories is how much it mixes things up to ke
 
 ===
 
-**Classic movies**: are good stories about real-life problems. A protagonist leaves their typical day, builds up courage, and rises to the occasion to overcome a newfound problem on behalf of humanity. Antagonists, of course, fight to keep the status quo the same.
+**Classic movies**: are good stories about real-life problems. A protagonist leaves their typical day, builds up courage, and rises to the occasion to overcome a newfound problem on behalf of humanity. Heroes, and their supporters, have the big-picture in mind, that all their actions matter. Antagonists, of course, fight to keep the status quo the same.
 
-In a classic story, the protagonist and antagonist repeatedly think of new ideas and act on them. Usually, both characters fight to create or control powerful tools like magic books or big bombs.
+In a classic story, the protagonist and antagonist repeatedly think of new ideas and act on them. Usually, both characters fight to create or control levers of power like magic books or big bombs.
 
 Mixing logical problem solving, with new ideas, gives classic stories plot twists that keep audiences glued to their seats. Since no one knows if the good or bad guys will win, good stories have a thick plot; people happily watch classic stories precisely _because_ they don't know what's going to happen next.
 
@@ -1001,7 +1001,7 @@ There's no way to know which stories will resonate with audiences. Still, only c
 ![Classic story](/img\diagrams\romeo-juliet.jpg)
 _Good stories will always be told._
 
-**Art films**: are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think they already have all the answers. The art story is about not overcoming obstacles of being lonely, or hating one's job. The main character is thus selfish and self-important; a con-artist. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
+**Art films**: are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think they already have all the answers, and the big-picture is doing what they want. The art story is about not overcoming obstacles of being lonely, or hating one's job. The main character is thus selfish and self-important; a con-artist. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
 
 The result is stories with no storyline and no antagonist. Instead, art stories showcase the main characters' idiosyncratic behavior. Art stories are surprising to the point of being weird, with a conclusion that doesn't improve reality because the main character didn't even try to.
 
@@ -1175,48 +1175,49 @@ _This is a clip from The Big Short, a movie about the 2008 Financial Crisis. Thi
 
 ## Evolution Yea or Nea
 
-Act Three. This is where the forces of good and bad muster up, face off, and the winners of the story are crowned. The winners being those who control the levers of power: Jedi fight Sith, Hogwarts fights Voldemort, and Open-Source fights Darth Blockbuster.
+Act Three. This is where the forces of good and bad muster up, face off, and fight to control the levers of power. Jedi fight Sith, Hogwarts fights Voldemort, and in our reality, open-source is fighting Darth Blockbuster.
 
-You are the deciding factor. Thus, Act three is a simple question. Do you believe in Techvolution? Do you think Right/Left philosophy is outdated? Do you see why the era of mass-production should be replaced by mass-collaboration? Do you want to hold levers of power in your society, instead of complaining, protesting, and begging. Do you think our rules, regulations, codes, and laws should be seemless, not a weapon to hold back progress. Can you see the dark majic around gas cars, 9-5 workdays, call-centres, paper-forms—the entire 1969 way of life that keeps us all in the Industrial Age?
+You are the deciding factor. Thus, Act three is a simple question. Do you believe in Techvolution? Do you think Right/Left philosophy is outdated? Do you see why the era of mass-production should be replaced by mass-collaboration? Do you want to hold levers of power in your society, instead of complaining, protesting, and begging. Do you think our rules, regulations, codes, and laws should be seemless, not a weapon to hold back progress. Can you see the dark majic around gas cars, 9-5 workdays, call-centres, paper-forms—the entire 1969 way of life that keeps us in the Industrial Age?
 
-Do you appreciate your importance to humanity and no joke, life on Eart? Without you on the frontline having the right, and duty, to solve your problems with modern tools, that we're stuck using adaptions as stupid as Artic bred polar bears, sweating to death in the Savanah. Likewise, commuting to work in Boston blizzards, forcing non-English speakers to call into a call-centre, depending on doctor writing to record our medical histories are what? Expecting a fish live out of water.
+Do you appreciate your importance to not only humanity, but life on Earth? Do you realize without you on the frontline having the right, and duty, to solve your problems with modern tools, we're stuck using adaptions as out of place as Artic bred polar bears sweating to death in the Savanah. Likewise, commuting to work in Boston blizzards, forcing non-English speakers to call into a call-centre, depending on doctor writing to record our medical histories are likewise anti-evolution? Like expecting a fish live out of water.
 
-I think you do. So, the conclusion comes down to one simple question. Do you want to be a player god whose job is to adapts humanity? The first step is to believe in a modern philosophy. So here are two stories, to make you realize the power of modern day player gods, and the hopelesness of Industrial Age extras.
+I think you do understand all this. So, the conclusion comes down to one simple question. Do you want to be a player god whose job adaptating humanity? The first step is believing in a modern philosophy. To help you decide, here are two stories to make you realize the power of Internet Age player gods, and the hopelesness of Industrial Age extras.
 
-## Option 1 - Being a Super Human Player God Cyborg
+## Option 1 - Player God
 
-The Internet Age has many protagonists. Paul Baran (1926-2011) is one of the big ones. Because of him, just by using the internet, you become a player god. No kidding around. Personal freedom, responsibility, and collaboration are built into the DNA of the internet we all use everyday.
+The Internet Age has many protagonists. Paul Baran (1926-2011) is one of the big ones. Because of him, personal freedom, responsibility, and collaboration are built into the DNA of the internet we all use everyday.
 
-On the face of it, the internet is a simple data network. Most networks use direct circuit link between two phones. With this kind of network, all connections go through a central hub. For generations, direct links were how all telecommunications worked. But when the Soviets tested a hydrogen bomb in 1955, Baran took it upon himself to make a new network. He wanted to prevent a nuclear holocaust; quite the protagonist I must say.
+When the Soviets tested a hydrogen bomb in 1955, Baran took it upon himself to make a new network, to help prevent a nuclear holocaust. No kidding. What a guy. Baran realized only robust and reliable communications would ease American and Soviet trigger fingers during tense times.
 
-Baran realized to prevent nuclear war, the world needed a communications network that would survive an atomic attack. Only robust and reliable communications would ease American and Soviet trigger fingers during tense times.
+He worked all alone, and by 1960 came up the internet's two core ideas. Fully distributed data networks, and packet communication. The first eliminated central hubs or hierarchy, the second made sure no information would be lost during transmission. Sadly, the Defense Department surrounded him with red-tape, and AT&T showed him away to protect their telephone monopoly. Happily, in the Advanced Research Projects Agency eventually built it.
 
-![Nuke](/img\diagrams\nuke.jpg)
-_No match for the internet_
+By late 1969, as the world was dealing with Woodstock, Vietnam, and the Moon land, the ARPAnet, the first version of the internet, went online. Fitting few people in the last days of the Industrial Age signified the start of the Internet Age.
 
-After his day job, Baran worked all alone. By 1960 he came up with the two ideas he needed. The first was that his network should have no central hubs (like telephones have) to control the flow of information. Instead data flow should be distributed so every node can send and receive information equally.
+Think of that when you use the internt. It was created to survive a nuclear bomb. Think of how powerful it must be. And therefore realize how powerful you are. No one can control you on the internet. No professor, executive, president, or king can shut you down. BitTorrents, Netflix, Wikipedia, all these will keep getting better. You will always have its majic. And the internet keeps getting better.
 
-Next, Baran broke up up the data into standard-size little packets. Each message would scurry along different paths through the network's nodes and be reassembled when they got to their destination. This way communication would never cease, like with "dropped calls" of a telephone system. Baran published his ideas into very detailed technical specs and made sure everyone, especially the Soviets, could copy his work. These specs created the theory behind our internet.
+Now think of the rest of your technology. Those high-flying drones, sensor filled smartwatches, 20 megapixel cameras, and super computer gaming systems are your cyborgology. If you had those at Woodstock in 1969, not even those drugged up hippies would have believe your super powers. You are a unique lifeform in this history, and this Universe.
 
-Baran was a Jedi, and he met lots of Antagoniststo prove it. The Department of Defence put streams of bureaucrats in his way. So he tried AT&T, who controlled America's entire telephone network. They actively fought off Baran. Darth Telephone won that battle. But Baran of course kept pushing past the closed doors and won the war. In late 1969, as the world was dealing with Woodstock, Vietnam, and the Moon land, the ARPAnet, the first version of the internet, went online. Fitting few people in the last days of the Industrial Age signified the start of the Internet Age.
+As Gordon Moore said in 1973 "We are really the revolutionaries in the world today—not the kids with long hair and beards who were wrecking the schools a few years ago." In fact, it's Moore's Law that shows us how powerful you got. He predicted that every 12-18 months, the power of computers would double. And he was right. That's why our digital technology is over three million times faster now, then in 1969.
 
-The internet has only grown faster and easier to access every year. It was created to survive a nuclear bomb. Think of how powerful it must be. And therefore realize how powerful you are. No one can control you on the internet. No professor, executive, president, or king can shut you down. You have the is majic. It turns you into a Super Hero.
+You're already a super human Internet Cyborg. You've already addicted to the majic of the protagonists new tools. You're ready to be a player god. All it takes to jump into the Internet Age, is the click of a new philosophy to have you seize the levers of power in your society.
 
-![Internet Hero](/img\diagrams\internet-hero.jpg)
+VIDEO
 
-You're already a powerful Internet Cyborg. You've already addicted to the majic of the protagonists new tools. You're already a player god.
+If you decide not shirk away from being a player god playing the game of civilization, then you've chosen being an extra watching the story of civilization. You've chosen to live with your unhappy life and follow the rules and dark majic. There's nothing just about that decision, because a good ruling philosophy is one that facilitates evolution.
 
-If you decide not shirk away from Techvolution, you're putting your life, your family, your society in the antagonists hands. And this takes us to King Charles I. Remember the Thirty Years War, when Main Street was tearing itself apart in the name of Protestant and Catholic kings; adding to that anarchy was King Charles. His story teaches something special. The antagonists will never be on your side.
+But, alas, you can be an extra. And if you're sure that's the correct choice. Here's your future.
 
 ## Being an Extra Forever With Darth King Charles
 
-Charles ruled England as a proud protestant king. His father taught him the "nobles right to rule" was a matter of faith, not self-interest. His father, King James, commissioned the "King James Version" Holy Bible. A Bible written in English so regular people could understand the king is their natural leader.
+Remember the Thirty Years War, when an unhappy Main Street was tearing itself apart in the name of Protestant and Catholic kings; adding to that anarchy was King Charles. And his story shows us the stories today's extras think they want to watch.
 
-England did have an elected Parliament. But in Charle's eyes it was only supposed to advise the king. To bad for him, Parliament held a lever of power. After some revolts in the Middle Ages, the elected representatives had the power to approve new taxes.
+Charles ruled England as a proud protestant king. His father King James taught him from birth that the "nobles right to rule" was a matter of faith, not self-interest. In fact it was King James who commissioned the "King James Version" Holy Bible so regular people could read the holy Word themselves, and among other lessons, understand why kings are their natural leaders. The people loved King James' Bible. It's still widely read, and considered a work of art by Catholics and Protestants a like.
 
-Like most kings, Charles and his father spent lavishly. So it wasn't long before Charles' kingdom was broke, and he needed to raise new taxes. Parliament, filling up with idealistic commoners (Christian Purtitans, the ones who soon fled to America and started Thanksgiving) wouldn't say yes until they got more political powers. In turn, Charles refused to talk to them. In fact, the king sent parliament home and ruled by himself for 10 years. The king got his money by using the ancient feudal rulebook. One example, he fined men who didn't come to his royal coronation.
+England at the time has plenty of Christians from all sects. All of whom believed in a kings right to rule. However, England did have elected Parliament. But in Charle's eyes it was only supposed to advise the king. Most everyone agreed. But Parliament held a lever of power. After some revolts in the Middle Ages, the elected representatives had the power to approve new taxes.
 
-Parliament eventually got sick of this subversion. They raised an army. Charles did the same, and the two sides fought the English Civil War (1642–1646). The Parliamentary Army was local men devoted to democracy—and on their way to becoming player gods—who chose their own leaders by merit. Charles's Royalist Army were mostly nobles who hired mercenaries to fight for them.
+Like most kings, Charles and his father spent lavishly. England went broke under Charles' watch, and he needed to raise new taxes. Parliament, filling up with idealistic Christian commoners (especially Purtitans, the ones who fled to America and started Thanksgiving) wouldn't say yes until they got more political powers. In turn, Charles refused to talk to them. In fact, the king sent parliament home and ruled by himself for over 10 years. The king got his money by using the ancient feudal rulebook. One example, he fined men who didn't come to his royal coronation.
+
+Parliament eventually got sick of this subversion. They raised an army. Charles did the same, and the two sides fought the English Civil War (1642–1646). The Parliamentary Army was local Protestants devoted to democracy—and on their way to becoming player gods—who chose their own leaders by merit, and suspected Charles was a closet Catholic. Charles's Royalist Army were mostly nobles who hired foreign mercenaries to fight for them.
 
 https://www.youtube.com/watch?v=7Cx2kkgO5_Y
 _Before Rousseau's new philosophy, the people had a hard time justifying being player gods._
@@ -1227,11 +1228,11 @@ They forgot about making a constitutional monarchy, and instead charged Charles 
 
 https://www.youtube.com/watch?v=zjxu1De8npY
 
-Darth King Charles stood before a crowd of thousands—at the foot of his own chopping block no less—and spoke in his defense. And that fact should turn you into a player god today. If it doesn't, I don't think anything else will.
+Soon, Darth King Charles stood before a crowd of thousands—at the foot of his own chopping block no less—and spoke in his defense. And it was quite the show.
 
 ## Charles Speaks - The Proof is in the Words
 
-Public speaking is hard for most everyone. For Charles it was impossible, because he had a speech impediment. Often called a stammer or stutter. No one then, or even now, understands what causes it. For a stutterer, talking is like playing guitar with music notes written on the spot by a gremlin. Some words are easy to say, some are ~~difficult~~ hard, and some decide which at the last mili-mili-mili-second.
+Public speaking is hard for most everyone, and for Charles it was near impossible. See Charles had a speech impediment. Often called a stammer or stutter. No one then, or even now, understands what causes it. For a stutterer, talking is like playing guitar with music notes written on the spot by a gremlin. Some words are easy to say, some are ~~difficult~~ hard, and some decide which at the last mili-mili-mili-second.
 
 But a stutter isn't just about pauses, repetitions, or missing words in a sentence. Stuttering is like having a mini-seizure. Your body flexes. Your neck tenses. You stop breathing. It's horrible. I should know because I suffer from the same affliction as Charles did.
 
@@ -1239,7 +1240,7 @@ The physical pain isn't even the worst. Getting _that_ look from people is. The 
 
 _"Hello, my ~~name~~ I'm Charles. I wa-want can want to ~~help~~ discuss, the situation with the, ~~Parliament~~ House of Parliament or the-the-the-the people inside, theeee Commons..."_
 
-Stuttering usually forces a person to be quiet, shy, passive, and eager to please. It's very frustrating because one doesn't stutter when alone, swearing, talking to a dog (Charles had two), or sometimes speaking through a "character". But still, the gremlin forces erratic speaking, random silence, binge drinking, and hopelessness. It's entirely possible Charles' relationship with Parliament was so bad because he simply didn't want to face the gremlin. I mean, should a divine king have one?
+Stuttering usually forces a person to be quiet, shy, passive, and eager to please. It's very frustrating because one doesn't stutter when alone, swearing, singing, talking to a dog (Charles had two), or sometimes speaking through a "character". But still, the gremlin forces erratic speaking, random silence, binge drinking, and hopelessness. It's entirely possible Charles' relationship with Parliament was so bad because he simply didn't want to face the gremlin. I mean, should a divine king have one?
 
 My speech impediment was why I got a job in a car insurance claim department. After a vice-president at an old company secretly told my supervisor I wasn't allowed to talk to customers—for fear of embarrassing the company—I was like shit, I guess I don't have this damn gremlin under control. Of course I was hurt, but I never told anyone I had the impediment, so, despite therapy as a kid, it was obviously still a problem.
 
@@ -1278,7 +1279,7 @@ What really happened is Charles trick himself into clarity. His complete certain
 
 The point to this story is this. History is songs we sing, words we write down, images we see on screens. We can't time travel. We can't go into Julius Caesar's or Cleopatra's minds and understand their motives. But, I can go into Charles' mind. And one of history's most evil Antagoinst Kings, was a moral man.
 
-Charles was victim. A regular person told he was king, and asked to throw away his Matrix for no good reason but the complaints of his subjects. In truth, he was so high up the heirarchy, the game of civilization meant nothing to him. Why would it? He never felt frontline pain—not in even the battles he caused.
+Charles was a victim. A regular person told he was king, and asked to throw away his Matrix for no good reason but the complaints of his subjects. In truth, he was so high up the heirarchy, the game of civilization meant nothing to him. Why would it? He never felt frontline pain—not in even the battles he caused.
 
 Later kings were even more distanced from the frontline inside their palaces, banquets and balls. Many more nobles faced the chopping block with the voice of God calling them martyrs. Antagonism is what antagonist do.
 
