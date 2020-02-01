@@ -2,7 +2,7 @@
 # TECHVOLUTION: A NEW PHILOSOPHY
 
 by Johnny Majic
-December 2019
+Janurary 2019
 
 ## Backpage
 
@@ -41,7 +41,7 @@ Gordon Moore, co-founder of Intel, 1973.
 
 I used many videos, computer games, and images throughout this book. They help explain information faster, so why not. Keep in mind some videos have sound which you may have to enable to hear. I especially used media to showcase how life changing the internet is. Today, millions of regular people are communicating billions of ideas, opinions, and information with no middle-men. This open communication is just like the printing press mass producing books for the first time. While I very much want to help creators and their audiences realize how historic their work is, of course all credit for the media goes to them.
 
-Also, I use Star Wars, Star Trek, Harry Potter, and other pop culture stories. If you're not a fan, don't worry too much. If we were in Ancient Greece I'd use Greek Mythology. If we were in Victorian Britain I'd use Shakespeare. Using familiar stories is a more natural way to explain philosophy, politics, and real-life. Of course, all due credit goes to the media's owners.
+Also, I use Star Wars, Star Trek, Harry Potter, and other pop culture stories. If you're not a fan, don't worry too much. If we were in Ancient Greece I'd use Greek Mythology. If we were in Victorian Britain I'd use Shakespeare. Using familiar stories is a more natural way to explain philosophy, politics, and relateto each other. Of course, all due credit goes to the media's owners.
 
 # Introduction
 
@@ -53,17 +53,17 @@ Deciding how to live your life does. Because exercising, composting, teaching yo
 
 The question is, how do we increase your powers. The answer, we'll find out in this book, is better technology, and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy." It's about making you powerful so you can earn your happiness.
 
-Because civilization needs you. The Internet Age is trying to grow, but the established powers of the Industrial Age is suppressing it. The middle-class has to grab hold of modern tools and work together to regain control of our society. We won't be given happy lives— we have to earn them, by upgrading our entire civilization to a new age.
+Because civilization needs you. The Internet Age is trying to grow, but the established powers of the Industrial Age is suppressing it. The middle-class has to grab hold of modern tools to regain control of our society. We won't be given happy lives—we have to earn them, by upgrading our entire civilization to a new age.
 
 ## Looking Up
 
-Life improves with better technology. Deaths from disease, famine, and war have all gone down as our technological power has gone up. While naysayers love to spread depressing news about our world today, reading history justifies much human optimistism. Plagues used to wipe out 30-80% of our population. Famines were expected as a fact of life. The wonders of Nature were a complete mystery. For crying out loud, the month of March is named after "marching" to war because our ancestors did it so often. We have many problems today, but our technology in medicine, agriculture, education has empowered humanity with a much healthier and safer life.
+Life improves with better technology. Deaths from disease, famine, and war have all gone down as our technological power has gone up. While naysayers love to spread depressing news about our world today, reading history justifies optimistism. Plagues used to wipe out 30-80% of our population. Famines were expected as a fact of life. Not long ago the wonders of Nature were a complete mystery. For crying out loud, the month of March is named after "marching" to war because our ancestors did it so often. We have many problems today, but our technology in medicine, agriculture, education has empowered humanity with a much healthier and safer life.
 
-Now we have computers and the internet. They are game-changers. Computers are three million times faster today than just 50 years ago. The internet is likewise getting so much faster and cheaper. Modern technology lets us keep fighting off pandemics, hunger, ignorance, and war—but only if we use them to keep inventing, and stay ahead of our problems.
+Now we have computers and the internet. They are game-changers. Computers, the internet, digital cameras, scanners, sensors are million of times better than just 50 years ago. Modern technology lets us keep fighting off pandemics, hunger, ignorance, and war—but only if we use them to keep inventing, and stay ahead of our problems.
 
 In Nature, lifeforms often evolve in jumps called eras and epochs. Likewise, humanity develops new technology in leaps; what we call "ages." When a new age comes, its technology is so unique and powerful, it changes how society functions. Things were very different in the Stone Age in comparison to the Bronze Age, for example.
 
-Today we're going from the Industrial Age to the Internet Age. It can be hard to appreciate all the changes. There's a lot to think about when civilization's entire way of life upgrades to new technology. I've been thinking about our evolution for years and only now have a grasp.
+Today we're going from the Industrial Age (1760-1969) to the Internet Age (1970-). It can be hard to appreciate all the changes. There's a lot to think about when civilization's entire way of life upgrades to new technology. I've been thinking about our evolution for years and only now have a grasp.
 
 Play computer games like _Age of Empires, Anno 1800_, and _Civilization_, and you'll get a great understanding of how humanity evolves. You'll be the "player god" of a civilization—a virtual divinity who knows all, sees all, and whose general will plays the game. As the player god, your job is to give orders, manage resources, invest in research, and finally decide when to click "upgrade." When you do, your civilization instantly transforms. Like magic, every house, factory, building, road, library, vehicle, school is suddenly new and improved by the technology of a new age. Below, you'll see a person being the player god in the game _Anno 1800_.
 
@@ -91,7 +91,7 @@ So what the heck are good political decisions today? Who are the good guys? Ever
 
 So there you are, on Main Street, looking up today, trying to figure if Donald Trump is evil, or if the United Nations is trying to make a world government. You ask if Fox News is manufacturing fake news, or maybe "all of them" are. If so, what's real news? The questions never stop. Should the government-run health insurance, or a big corporation regulated by the government? Is climate change real? If so, why does my "green" obsessed company force me to drive to work every day?
 
-It's all very confusing and emotional. Yet you have to pick sides. After all, you're part of the player god as much as anyone else. Wouldn't it be cool if a philosophy showed you the difference between good and bad politics today? It is cool; it's calming to understand politics. And it's one reason why I wrote this book. So I, and whoever reads it, can better understand what's wrong with our society today. I also wrote this book to create a new philosophy. One that will upgrade our civilization—so we on Main Street can finally enjoy the greater productivity, dignity, and freedom, of the glorious Internet Age.
+It's all very confusing and emotional. Yet you have to pick sides. After all, you're part of the player god as much as anyone else. Wouldn't it be cool if a philosophy showed you the difference between good and bad politics today? It is cool; it's calming to understand politics. And it's one reason why I wrote this book. So I, and whoever reads it, can better understand what's wrong with our society today. I also wrote this book to create a new philosophy. One that will upgrade our civilization, Main Street can finally enjoy the greater productivity, dignity, and freedom, of the glorious Internet Age. We will once we undestand good politics is controlling the levers of power.
 
 ## Your Politics Is Hard to See, Because You Are Changing
 
@@ -99,11 +99,11 @@ Philosophies are created to help organize civilization. They do so with high—a
 
 When a player in a civilization game upgrades technology, we can see the changes. Installing a sewer, damning a river, building a road, is very obvious. But we can't see philosophy change so easily; because it's our own minds that keep evolving.
 
-For example, we all believe in a philosophy of "Life, liberty, and the pursuit of happiness." But what does that mean in everyday life? Giving people political guidelines is what ideologies are for. Conservative or Progressive. Libertarian or Socialist. Republican or Democrat. Each ideology supports "Life, liberty, and the pursuit of happiness". But each also gives their followers a list of policies to fight for, or against, like health-care reform, gun-rights, or a environmental regulations.
+For example, we all believe in a philosophy of "Life, liberty, and the pursuit of happiness." But what does that mean in everyday life? Giving people guidelines is what ideologies are for. Conservative or Progressive. Libertarian or Socialist. Republican or Democrat. Each ideology supports "Life, liberty, and the pursuit of happiness". But each also gives their followers a list of policies to fight for—or against—like health-care reform, gun-rights, or environmental regulations.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/CandidFeistyBuckeyebutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-That's a technology tree. It shows how interlinked our technology, tools, and philosophy are. It might not seem like we upgrade our philosophy with a "click", but we do. It's just so damn hard to see in philosophy because it's our minds that are evolving.
+That's a technology tree of technology, tools, and philosophy upgrades. The player picks which to invest in as he plays the game. It might not seem like we upgrade our philosophy with a such a simple "click"; but we do. It's just so damn hard to see in philosophy because it's our minds that are evolving.
 
 The point is, even with ideologies to guide our opinions, the real reason for our political views is hard to know. We all look up at the same ideologies; we all try to "think of the big picture,", yet we arrive at different answers. Our opinions are a by-product of our psychology, job, skillset, family, geography, culture, ethnicity, religion, time-period. Who can understand how all these factors intermix to make a political opinion? Why does one parent cry tears of sadness, the other of joy, on the same election night?
 
@@ -300,7 +300,7 @@ Before we plunge into the story of Techvolution, here are a few terms that will 
 
 **Ruling philosophy**: A civilization's chosen philosophy. One that all factions/ideologies agree on. Examples include the "Divine Rights of Kings," derived from Christian theology and used in royalist Europe; "Marxist-Leninism" of the Soviet Union; and the combination of "Right/Left" philosophies of the Western world today. The ruling philosophy is supposed to help society win the game of civilization.
 
-**Happiness**: The test of how well the ruling philosophy is doing its job.
+**Happiness**: The test of how well the ruling philosophy is doing its job. Time with family, trusting friends, loving spouse, and kids who look forward to their future.
 
 **Rulebook**: The written and unwritten social, workplace, and legal rules that govern everyday life. The rulebook is interpreted from the ruling philosophy.
 
@@ -722,7 +722,7 @@ A decade before the music industry was in the same spot. Record stores and CD sa
 | 2000s                | $ 142,705,937          |
 | 2010s                | $ 64,035,754           |
 
-_Average gross for each Best Picture winner. As the movies were dying, the industry fought back with excuses and lawsuits, instead of innovation and evolution. People didn't even bother watching Oscar movies on Netflix either. ALl numbers from boxofficemojo.com._
+_Average North American theater gross for each Oscar Best Picture winner. As the movies were dying, the industry fought back with excuses and lawsuits, instead of innovation and evolution. People didn't even bother watching Oscar movies on Netflix either. All numbers from boxofficemojo.com._
 
 The movie industry rejected the lesson. Ever notice how online movies don't include opening credits, red-carpet interviews, and political charged speeches. That's the people erasing dark majic, and enjoying the simple majic of a new, and better tool, telling the story they want so badly.
 
@@ -740,19 +740,19 @@ Let's consider some things during our short rest.
 
 ## Polar Bears in the Amazon
 
-We've been in the Internet Age since 1970. However, we're still using the philosophy of Left/Right politics, and era of mass-production economics, both hallmarks of the Industrial Age. The powers of the Industrial Age. like newspapers, television, call-centres, keep their tools as the levers of power by way of dark majic to distract Main Street, and when that fails, they use rules from the Death Star to prevent change.
+We've been in the Internet Age since 1970. However, we're still using the philosophy of Left/Right politics, and era of mass-production economics, both hallmarks of the Industrial Age. The powers of the Industrial Age, keep their tools as the levers of power by way of dark majic to distract Main Street, and when that fails, they use rules from the Death Star to prevent change.
 
-The Death Star can be seen in the explosion of regulations since 1970. The huge increase in trademarks, copyrights, and patents. And think of this, lobbyists didn't exist in 1969—and now many people think a few thousand of them run our governments. All of these are bullets of resistence for Darth Blockbuster.
+The Death Star can be seen in the explosion of government regulations since 1970. The huge increase in trademarks, copyrights, and patents. And think of this, lobbyists didn't exist in 1969—and now many people think a few thousand of them run our governments.
 
-Antagonists hold back our evolution. The result is an unhappy life on Main Street. Since 1969, road traffic has gotten far worse. Plastic production and pollution is filling up the oceans. Climate change is roasting our planet. Consider that last point; the world's fucking climate is changing, because humanity is not allowed to evolve.
+Antagonists pick and choose from among these rules to hold back our evolution. The result is an unhappy life on Main Street. Since 1969, road traffic has consistenyly gotten far worse. Plastic production and pollution is filling up the oceans. Climate change is roasting our planet. Consider that last point; the world's fucking climate is changing, because humanity is not allowed to find more efficient ways of life inside the era of mass-collaboration.
 
-We're basically polar bears in the Amazon. Seriously—think of it, our environment is different, our societies are different, and our cyborgology is different. We are a different people being forced to live as if it were 1969. There's nothing wrong with polar bears, or the Amazon, but neither is adapted for each other. Same goes for a person in 2020—who owns a great laptop, hi-speed internet, VR glasses—is driving through two hours of traffic, to work at a call-centre.
+We're basically polar bears in the Amazon. Seriously—think of it, our environment is different, our societies are different, and our cyborgology is different. We are a different people being forced to live as if it were 1969. There's nothing wrong with polar bears, or the Amazon, but neither is adapted for each other. Same goes for a person in 2020—who owns a fast laptop, hi-speed internet, VR glasses—but is driving through two hours of traffic, to work at a call-centre.
 
-The Woodstock and Leave it to Beaver America of 1969, is gone. But Darth Blockbuster won't let go. Hopefully Main Street wakes up. Especially in time to save the actual polar bears.
+If you'd see adaptions like a camel's water retaining hump near the Great Lakes, or a eagle eyes inside a cave system, you'd stop and wonder; "why are these biologies here?". When you likewise see out of place cyborgologies like textbooks, fax machines, and paper-checks in our societies, you should now know something is wrong. Likely it's that Darth Blockbuster stopped our evolution, to keep his cyborgologies in power.
 
 PICTURE
 
-Techvolution is the new philosophy that mimics evolution. It gives gives the right, and the duty, to the people feeling the pain of frontline life to evolve humanity with new and better tools. Crucially, it's the open-source community who lets the public build its own levers of power, so we don't have to wait for persmission to do what's right. Only by embracing Techvolution will our society foster the era of mass-collaboration and catapult us all into the Internet Age. Only a society of players gods can evolve humanity past our problems, and give Main Street a happy life.
+Techvolution is the new philosophy that mimics evolution. It gives gives the right, and the duty, to the people feeling the pain of frontline life to evolve humanity with new and better tools. Crucially, it's the open-source community who lets the public build its own levers of power, so we don't have to wait for persmission to do what's right. Only by embracing Techvolution will our society foster the era of mass-collaboration and catapult us all into the Internet Age. Only a society of players gods can evolve humanity past our problems, and give Main Street a happy life. Hopefully we can celebrate saving the polar bears.
 
 ![GWRegStudies](/img\diagrams\GWRegStudies-PagesPublishedinFederalRegister-6.12.19.png)
 ![US-VMT-per-capita](/img\diagrams\US-VMT-per-capita.png)
@@ -766,11 +766,29 @@ _You're happiness is the best statistic about our civlization's health. But here
 
 ## What's That Called
 
-I used to worked at a call-center. Customers had just had a car accident and I'd process their claim over the phone. Often I needed a copy of an invoice or report. When I told customers that, they'd ask themselves where to get a scanner, or a fax machine.
+I used to worked at a call-center. Customers had a car accident and I'd process their claim over the phone. Often I needed a copy of an invoice or report. When I told customers that, they'd ask themselves where to get a scanner or a fax machine.
 
-I'd remind them, their smartphone has a camera—they could just snap a photo and email me. The customer would have a "eureka" moment; "that's right, I can do that, thanks! I'll get that too you right now".
+I'd remind them their smartphone has a camera—they could just snap a photo and email me. The customer would have a "eureka" moment; "that's right, I can do that, thanks! I'll get that too you right now".
 
-That's what I mean by cyborgology and majic. A innovatie new tool is in our hand, giving us a new ability, and cyborgolgy; like sending paperwork with a photo. But we need to be taught how to use or new abilities. We can either learn the majic of new tools ourselves, or a majician can teach us. Scanning, faxing, calling all have words. But there's still none for snapping a photo of paperwork. Because this new ability is still evolving. Cool huh?
+That's what I mean by cyborgology and majic. A innovatie new tool is in our hand, giving us a new ability, and cyborgolgy; like sending paperwork with a digital photo. But we need to be taught how to use or new abilities. We can either learn the majic of new tools ourselves, or a majician can teach us. While scanning, faxing, calling all have words, there's still none for snapping a photo of paperwork. Because this new ability of our cyborgolgy is still evolving. Cool huh?
+
+## The End of Black History Month
+
+The era of mass-production requires limitation. For example, there's only so many books we can print and text books we can buy. That means what goes inside these books is fought over—like with Black History Month, which was a just fight to get important people and their history recognition. But to keep fighting for space inside textbooks, values the limitation and mass production of the Industrial Age, when we should be teaching ourselves the value contribution and collaboration of the Internet Age.
+
+Wikipedia, YouTube, Wordpress, have no page limit. Anyone can create learning material for anything and anyone in history. Their is no "official" history books in the Internet Age. People of the past are remembered by their ability to teach us about the future. And whoever inspires us more, will inspire more player gods, and thus win the future.
+
+By fighting for space inside textbooks, broadcast television, we live in the past and empower the antagonists who thrive off of "gatekeeping" who'll get the Oscar Award, Broadcast Special, or a few pages in the text book.
+
+Don't honour the past, by living in it. Move forward—it's the dream of every great person in history. At the ones worth reading about.
+
+## Medical Records
+
+Where are your medical records? Who has your medical records? Does anyone have your records?
+
+Think about that the next time you're seeing a doctor or nurse. No one has a complete list of your sicknesses, diseases, shots, and treatments. Why would "they", if you dont?
+
+In the Industrial Age that carrying your medical history around was impossible—too much paperwork. In the Internet Age it's a matter of extras, becoming player gods and wanting it their own records.
 
 ## Old Philosophy vs. New Philosophy
 
@@ -823,34 +841,34 @@ Kickstarter: https://www.kickstarter.com/ : Kickstarter connects regular people 
 
 These websites put the levers of power in your hand. The era of mass-collaboration is already here. We just aren't jumping into the Internet Age yet. You don't have to join every collaboration. But by picking a few, you can actually start solving real-life problems.
 
-Just to drive home the point, what levers of power does Right/Left politics put in your hand? The idea doesn't even exist, because they think its 1969, when the levers of power weren't for Main Street to hold. Neither side can understand the Internet Age and mass-collaboration is the best of both ideologies. Modern technology improves social welfare; as Progressives dream. Digital tools also put the onus on individuals to work; what Conservatives demand. Mixing ideologies is how Techvolution builds on the past, and helps Main Street prosper once again.
+Just to drive home the point, what levers of power does Right/Left politics put in your hand? The idea doesn't even exist, because they think its 1969, when the levers of power weren't for Main Street to hold. Neither side can understand the Internet Age and mass-collaboration is the best of both ideologies. Modern technology improves social welfare; as Progressives dream. Digital tools also put the onus on individuals to improve themselves; as Conservatives demand. Mixing ideologies is how Techvolution builds on the past, and helps Main Street prosper once again.
 
 ## The Era of Mass-Collaboration Is (Almost) Here in Your Everyday Life
 
-New houses are built everyday. Say you bought a new townhouse in a newly built area. You and you're new neighbors would be anxious too move in, renovate, and finish the backyard. Soon enough, everyone is assembling lawn furniture, hiring contractors, putting in decks, pools, fences, sheds, and whatever else you dream up.
+Say you bought a new townhouse in a newly built area. Most likely, you and you're new neighbors would be anxious too move in, bring in your appliances and furniture, and of course finish the backyard. Soon enough, everyone is assembling lawn furniture, hiring contractors, putting in decks, pools, fences, sheds, and whatever else you dream up.
 
-In the game of civlization, do we consider the big picture when deciding what to do in the backyard? Do we realze our choices are important?
+The question is, in the game of civlization, do we consider the big picture when making our choices?
 
-If we choose new and better products, we're attracted to the majic of new tools, and become player gods in the game of civilization. If we care about trendy looks, brand names, and pretending to live inside Martha Stewart Living, then we're being extras attracted by dark majic Watch this clip of a user building a backyard in the city-builder _Cities: Skylines_.
+If we choose new and better products, we're attracted to the majic of new tools, and become player gods in the game of civilization. If we care about trendy looks, brand names, and pretending to live inside Martha Stewart Living, then we're being extras attracted by dark majic. Watch this clip of a user building a backyard in the city-builder _Cities: Skylines_.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ClassicSecretKarakul' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-For us today—doing all this work in the real-world—do the rules encourage us to be player gods? Or is the rulebook so big and confusing, that regular people are encourage to go with the flow, and stay extras of the Industrial Age?
+Now, what does the rulebook encourage—for us to be player gods of the young and growing Internet Age, or to stay extras of the Industrial Age?
 
-Evolution needs us to buy solar-power roofs, start a 3D printing business in the garage, install a Hydroloop water resuser. These are the tiny levers of power, everyone on Main Street can start to control. But do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? Do you know what your local business by-laws, construction codes, tax laws are?
+Evolution needs us to buy solar-power roofs, start a 3D printing business in the garage, install a Hydroloop water resuser. These are the new technologies that will help solve our problems. They're also levers of power everyone on Main Street can control. But do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? Where do you find your local business by-laws, building codes, tax laws?
 
-Our society's rulebook is so large and dense, we all live under the threat of making a mistake, and being hit by a code violation, claim denial, lawsuit, or audit. Being an extra is easy today; being a player god is risky.
+Our society's rulebook is so large and dense, we all live under the threat of making a mistake, and being hit by a code violation, claim denial, lawsuit, or audit. Our rulebook makes being an extra is easy today; whole being a player god is risky.
 
-Technologically speaking there's no reason for this. Regular people can work as easily as the _Cities: Skylines_ clip above. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, YouTube videos. Today we can make the Internet Age rulebook seemless. We can have the levers of power in our hands!
+Technologically speaking there's no reason for this. Regular people can work as easily as the _Cities: Skylines_ clip above. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, SQL databases. Today we can make the Internet Age rulebook seemless. We can have so many levers of power in our hands!
 
-But this will only be a happy reality once Main Streets embrace the era of mass-collaboration using Techvolution as their shield and motivation.
+But an easy to use, friendly, reasonable list of rules, codes, regulations, and by-laws will only be a happy reality once Main Streets embrace the era of mass-collaboration using Techvolution as their shield and motivation.
 
 https://www.youtube.com/watch?v=ggrkTLEfFXA
 _Here's Louis Rossmann again. He's building a new store for his repair company. A complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies wont disappear in the future—we'll always need big organizations. They'll just be checked and balanced by individuals and small companies connected in mass-collaboration. We'll make the Internet Age rulebook a little later, in Techvolution II: Building the Life Star._
 
 ## Click
 
-What makes something click in a person's mind? If only we knew. Sadly, we can't decide to cry, scream, or love. We must wait for a connection in a story, or in everyday life. Here's some stand-up that'll probably make you laugh, I'll make a point afterwards.
+What makes something click in a person's mind? If only we knew. Sadly, we can't decide to cry, scream, or love. We must wait for a connection. A handshake between two friends, or a glance across the dinner table of a first date. Here's some stand-up that'll probably make you laugh, I'll make a point afterwards.
 
 https://www.youtube.com/watch?v=ZOiPQ8nqB1s&feature=youtu.be&t=19
 
@@ -921,7 +939,7 @@ Wikipedia and Netflix show how the middle-class can ignore dark majic, defeat Da
 
 So Stargazer, that's how we won a few battles in the fight for the Internet Age. It's a battle that made me, and everyone else who write and read Wikipedia and watch Netflix, happy. Because evolving humanity puts smiles on our faces.
 
-Imagine how happy Main Street will be when we use digital tools and mass-collaboration to solve our agonizing commutes, confusing insurance contracts, and rising global temperatures. That's the war you must jump into with lightsabers a-blazin', dicing up old evil tools, to supercharge humanity into the Internet Age.
+Imagine how happy Main Street will be when we use digital tools and mass-collaboration to solve our agonizing commutes, confusing insurance contracts, over consumption, and rising global temperatures. That's the war you must jump into with lightsabers a-blazin', dicing up old evil tools, to supercharge humanity into the Internet Age.
 
 Note, our lives cut across thousands to millions of problems. Thus, our villains are not in a massive group like "the rich" or the "the unions" as old philosophies label. Our villains reveal themselves inside thousands of companies, institutions, and organizations of the Industrial Age who fight to keep their version of the Encyclopedia Britannica or DVD alive.
 
@@ -946,7 +964,6 @@ Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like 
 It didn't matter. The nobility was in the dying days of their Medieval Age ruling philosophy. Starting in 1776, within Rousseau's lifetime, Darth King started to face the music when the American people started a revolution. One year after Rousseau died, the French had their own revolution in 1789. And on it went from country to country because Rousseau, and others like him, made extras realize they should become player gods in a country "of the people, for the people, by the people." Cinderella soon forgot about the fancy ball, and instead sung the music of freedom in a choir of equals, that sounded something like this:
 
 https://soundcloud.com/morteza-ab/les-miserables-2012-do-you
-https://www.youtube-nocookie.com/embed/47E2tfK5QAg?start=5
 https://www.youtube.com/watch?v=47E2tfK5QAg?start=5
 
 _Extras singing about becoming player gods. Notice them holding that lever of power called a musket._
@@ -984,15 +1001,15 @@ There's no way to know which stories will resonate with audiences. Still, only c
 ![Classic story](/img\diagrams\romeo-juliet.jpg)
 _Good stories will always be told._
 
-**Art films**: are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think they have all the answers and don't need to test them out. The art story is about not overcoming obstacles of being lonely, or hating one's job. The main character is thus selfish, self-important; a con-artist. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
+**Art films**: are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think they already have all the answers. The art story is about not overcoming obstacles of being lonely, or hating one's job. The main character is thus selfish and self-important; a con-artist. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
 
 The result is stories with no storyline and no antagonist. Instead, art stories showcase the main characters' idiosyncratic behavior. Art stories are surprising to the point of being weird, with a conclusion that doesn't improve reality because the main character didn't even try to.
 
-Without logical surprises, art films need to get weirder and more self-obessesd to maintain interest. To insulate themselves from criticism, art filmmakers usually give themselves awards, grandeur, and titles. They dream of being like their main characters—on stages talking about themselves in a bout of self-gratification. Film festivals like Cannes, Sundance, Toronto mainly show art films.
+Without a hero fighting to overcome a problem, art films need to get weirder and more self-obessesd to maintain interest. To insulate themselves from criticism, art filmmakers usually give themselves awards, grandeur, and titles. They dream of being like their main characters—on stages talking about themselves in a bout of self-gratification. Film festivals like Cannes, Sundance, Toronto mainly show art films.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmNippyCockatiel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_Watch the entire thing if you can. Ricky Gervais is yelling at a heirarchy, who are so distanced from the frontline, they've lost touch. They virtue signal, as Christian nobility once did, to make themselves feel better._
+_Ricky Gervais is yelling at a heirarchy, who are so distanced from the frontline, they've lost touch. They virtue signal, as Christian nobility once did, to justify their unjustifiable wealth and prestige. There are alot of parrells between Hollywood elite and late European royals._
 
 **Spectacle movies**:- is about an obvious problem, i.e., Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are straightforward because the problem is straightforward; survive or die. However, since the action is so instinctual, there's no time for the protagonist to think of new ideas. The result is logical but unsurprising stories.
 
@@ -1003,7 +1020,7 @@ Spectacle movies reuse old stories and characters. They usually start off as goo
 | Spider-Man   (2002)               | $139,000,000 | $403,706,375 | 34%         |
 | Spider-Man 2 (2004)               | $200,000,000 | $373,585,825 | 54%         |
 | Spider-Man 3 (2007)               | $258,000,000 | $336,530,303 | 77%         |
-| The Amazing Spide-Man (2012)      | $230,000,000 | $262,030,663 | 88%         |
+| The Amazing Spide-Man   (2012)    | $230,000,000 | $262,030,663 | 88%         |
 | The Amazing Spide-Man 2 (2014)    | $260,000,000 | $202,853,933 | 128%        |
 | Untitled Spider-Man Sequel (2021) | tbd          | tbd          | tbd         |
 
@@ -1013,38 +1030,40 @@ _This is a typical hollywood movie today. A movie is remade and remade, with mor
 
 These are the three-story categories. In a nutshell, classic stories tackle real-life problems. Art stories are self-obsessed. Spectacle stories are a distraction. This is why art/spectacle stories don't have "spoilers", while we want to "go in fresh" for classic stories.
 
-Society transitions from classic, to art/spectacle inside ages. You can see the transition most easily in your favorite sitcom, such as _The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory_. They start off as classic stories, with characters who deal with relatable problems like not liking their jobs or being tired of dating. We see ourselves in these characters, so we cry, laugh, and all that because we know it could also happen to us too—we're living the same life on Main Street.
+Society transitions from classic, to art/spectacle inside ages. You can see the transition most easily in your favorite sitcom, such as _The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory_. They start off as classic stories, with characters who deal with relatable problems like not liking their jobs or being tired of dating. We see ourselves in these characters, so we cry and laugh because we know the stories could also happen to us too—we're living the same life on Main Street.
 
 However, in later seasons, to keep their now popular characters alive, the sitcom characters stop evolving. Kramer can never get a job, Raj can't get a girl, Dwight can't get self-aware. Here sitcoms become art and spectacle stories. Art, because the main characters don't overcome problems anymore. And, spectacle, because we the audience keep watching our favorite actors, characters, sets, catch-phrases, instead of wanting a new story. The turning point between classic story and art/spectacle story is often called "jumping the shark".
 
 ![GoT horse](/img\diagrams\jumping-shark-got.png)
 _Game of Thrones wasn't a sitcom, but it went from great to horrible because the characters slowly became more important then the story._
 
-Rousseau explained how society has these classic, art, and spectacle stories, and that our communities travel through them as we develop through technological ages. When we start a new age, it's like watching the first years of the sitcom; everyone is solving everyday problems, and the main characters have earned their spot. At the end of the age, the leaders are self-important, and the people are loyal out of habit. In short, Rousseau noticed how one story works to advance and help society, and the other two work to enrich the artists and distract the masses. And that's where we are today. At that's the problem Techvolution is going to solve.
+Rousseau explained how society has these classic, art, and spectacle stories, and that our communities travel through them as we develop through technological ages. When we start a new age, it's like watching the first years of the sitcom; everyone is solving everyday problems, and the main characters have earned their spot. At the end of the age, the leaders are self-important, and the people are loyal out of habit. In short, Rousseau noticed how one story works to advance and help society, and the other two work to enrich the artists and distract the masses. And that's where we are today. At that's the problem Techvolution has to solve with a click.
 
 ## Leaving the Spectacle of the Industrial Age Story
 
 We're already technically in the Internet Age. A quite glance at your smartphone shows that. Our society is in trouble because we're stuck inside the outdated Right/Left, mass-production, philosophy of the Industrial Age. Antagonists don't care, because they're happy inside their stories of self-importance. Main Street doesn't notice because they live inside a story full of spectacle and habit.
 
-Spectacle runs on dark majic. It's really hard to see through. Is the Super Bowl really a national holiday? Are luxurious cars worthy of praise? Is have a Bachelors of Arts worth tens of thousands of dollars and four years of life? By questioning our society, our entire way of life is questioned. The best example of how to do this, is the movie The Matrix.
+Spectacle runs on dark majic. It's really hard to see through. Is the Super Bowl really a national holiday? Are luxurious cars worthy of praise? Is a Bachelors of Arts worth tens of thousands of dollars and four years of life? We can only tell by questioning our society. The best example of how to do this, is the movie The Matrix.
 
-The Matrix shows a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the Matrix. The dream world is created by machines to distract humans while using their bodies as an energy source. The story's hero is Neo. A regular person who asks "what is the Matrix?". His willingness to question reality, eventually gets him recruited by the few untapped humans rebel against the machines.
+The Matrix shows a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the Matrix. The dream world is created by machines to distract humans while using their bodies as an energy source. The story's hero is Neo. A regular person who asks "what is the Matrix?". His willingness to question reality, eventually gets him recruited by the few untapped humans rebeling against the machines.
 
 <div style='position:relative; padding-bottom:calc(41.60% + 44px)'><iframe src='https://gfycat.com/ifr/ImpossibleOpenHoverfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/matrix-gifs">from Matrix GIFs</a> 
 
-The rebel Morpheus teachs Neo what the Matrix is. A world of dark majic, to distract the masses from their slavery. Neo at first freaks out. How can the entire world be fake? Soon, Neo realizes the truth, and wants the masses to realize it as well. He believes when they do, they can remove the plug, and re-learn the joy of being player gods in control of their own lives. The machines antagonist, Agent Smith, chases Neo. This Sith Lord wants to keep people extras, who keep watching the Matrix and feeding it with power.
+The rebel Morpheus teachs Neo what the Matrix is. A world of dark majic, to distract the masses from their slavery. Neo at first freaks out. How can the entire world be fake? Soon, Neo realizes the truth, and wants the masses to realize it as well. He believes when the people wake up, they can remove the plug, and re-learn the joy of being player gods in control of their own lives. The machines antagonist, Agent Smith, chases Neo. This antagonist wants to keep people extras, who keep watching the Matrix, and feeding it with power.
 
 Agent Smith can control much of the Matrix, but not all of it. Enforcing the rules of the ruling philosophy of slavery, makes "the agents" bound to its rules too. Neo has a new ruling philosophy of freedom. Thus, he isn't bound by the Matrix's rulebook, a freedom he uses to liberate his oppressed humans.
 
-Neo is a lesson in majic. Because he's not tricked by the Matrix, he can learn any skill he wants. Neo majically jumps higher, fights better, shoots straighter, and soon dodges bullets. The machines, unable to match his skills, fight back with more dark majic.
+Neo is a lesson in majic. Because Neo knows learning is his ultimate power. Neo majically learns to jump higher, fight better, shoot straighter, and soon dodges bullets. The machines, unable to match his skills, fight back with more dark majic.
 
 They get one of the freed humans to turn on Neo and his supporters. Not with the allure of power, but with the lure of going back into the comfortable fake world. The familiar spectacle of Rolling Stone concerts, television sitcoms, and V8 engines is all this modern Judas wants. The traitor knows its fake, but will accept it because "ignorance is bliss."
 
-The traitor losses. Neo is too powerful. In the final battle with Agent Smith, Neo can not only dodge bullets but he can stop them in mid-air. Even better, Neo can see the Matrix's computer code, it's rulebook, and can thus rewrite the rules as he wants. Neo soon kills Agent Smith. At the end of the story, Neo calls the machines leaders, and tells the antagonists:
+The traitor losses. Neo is too powerful. In the final battle with Agent Smith, Neo is so powerful, he can stop bullets in mid-air. Even better, Neo can see the Matrix's rulebook—the famous green computer code—and can thus rewrite the rules as he wants. A power he uses to kill Agent Smith.
+
+At the end of the story, Neo calls the machines leaders, and tells the antagonists:
 
   >I know you're out there. I can feel you now. I know you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how this is going to begin. I'm going to hang up this phone. And then I'm going to show these people what you don't want them to see. I'm going to show them a world without you. A world without rules and controls, without borders or boundaries A world where anything is possible. Where we go from there, is a choice I leave to you.
 
-Neo shows the people the Matrix is a lie. A dark majic show to distract the people from the true political power, which is to be player gods weldingh the tools of protagonists, to live happier lives on the frontline. The Matrix is a lesson in liberation. Just as Rousseau was.
+Neo hungs up and starts his new journey. To show the people the Matrix is a lie. A dark majic show to distract them from true political power, which is to be player gods welding levers of power. Only then can they live happier lives on the frontline. In the end, The Matrix is a lesson in liberation. Just as Rousseau's new philosophy was in the real-world.
 
 <div style='position:relative; padding-bottom:calc(41.67% + 44px)'><iframe src='https://gfycat.com/ifr/OblongGrimyHalibut' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/fight-gifs">from Fight GIFs</a> <a href="https://gfycat.com/oblonggrimyhalibut-the-Matrix">via Gfycat</a></p>
 
@@ -1052,19 +1071,19 @@ _Neo learned so much, he sees through the rulebook, and so can easily defeat Age
 
 ## Lessons From The Matrix
 
-The Matrix is a classic story. Among its lessons is showcasing how good leaders come and go. Neo was the hero chosen from the masses. Once Neo freed the people, he and his friends return to being equal members of the community. Neo's hierarchy of support was temporary, being based on solving a frontline problem. Perhaps he'll be the hero of the next story, but maybe not. It depends on the problem and who the people decide their hero should be.
+The Matrix is a classic story. Among its lessons, it well showcases how good leaders come and go. Neo was the hero chosen from the masses. Once Neo freed the people, he and his friends return to being equal members of the community. Neo's hierarchy of support was temporary, being based on solving a frontline problem. Perhaps he'll be the hero of the next story, but maybe not. It depends on the problem and who the people decide their hero should be.
 
-Neither art or spectacle stories solve frontline problems. Thus, their hierarchies can go on for as long as their storytellers can convince people to watch them, or live inside them. These storytellers, who are the leaders, are self-important. The masses are just like the people stuck inside the Matrix. Distracted from the truth with a dark majic show.
+Neither art or spectacle stories solve frontline problems. Thus, their hierarchies only last for as long as their storytellers can convince people to watch them, or live inside them. These storytellers are self-important leaders. The masses are just like the people stuck inside the Matrix. Distracted from the truth with a dark majic show, and kept in line with a corrupted rulebook.
 
 The longer the spectacle lasts, the longer the self-important artists, like Darth King, and Darth Blockbuster, can go on living inside self-obsessed stories. They're happy with the way things are. They want to be heroes atop the hierarchy forever. The longer the story goes, the more pretentious they get.
 
 But like an aging sitcom, it never lasts. Eventually, the people's problems pile up, and they soon need a true hero again. That means a hero who can see through the spectacle of the ruling philosophy, and lead the people to become player gods in a new society ruled by a new philosophy that helps Main Street live happy lives.
 
-The lesson is Stargazer your happiness is the best indicator of which story you're currently in. That's why how much money you have, your job title, the university you graduated from, all this is not the definition of happiness. Happiness only happens when a ruling philosophy helps people contribute to a classic story that helps humanity evolve life on Earth.
+The lesson is Stargazer your happiness is the best indicator of which story you're currently in. That's why how much money you have, your job title, the university you graduated from, all this is not the definition of happiness. Happiness only happens when a ruling philosophy helps people contribute to a classic story that helps humanity evolve life on Earth. True happiness is being with trusting friends, a loving spouse, healthy kids and hope for an even brighter future.
 
-So to defeat Darth Blockuser, we can use our understanding of classic and spectacle/art stories to judge our society. Only when a new philosophy clicks, will we disregard his dark majic and fight off his Death Star; and thereby usher in the Internet Age. But hold off, it's better to judge our society after reading about its history. Frederick Douglass broke from the Matrix, Mister Auld was its Agent, while Sophia Auld choose the wrong side.
+To defeat Darth Blockuser, we can use our understanding of classic and spectacle/art stories to judge our society. Only when a new philosophy clicks, will we disregard his dark majic and fight off his Death Star rulebook; and thereby usher in the Internet Age. But hold off, it's better to judge our society after reading about its history.
 
-**Good ruling philosophy**: Embraces the modern technological age. Empowers the people with advanced tools so they can be player gods who solve problems on the frontline. Civilization is lead by individuals who rise to the occasion to become protagonists. Once their specific problem is over, leaders willfully return to being an equal member of the community.
+**Good ruling philosophy**: Embraces the modern technological age. Empowers the people with levers of power so they can be player gods who solve problems on the frontline. Civilization is lead by individuals who rise to the occasion to become protagonists. Once their specific problem is over, leaders willfully return to being an equal member of the community.
 
 **Bad ruling philosophy**: Meant to stop humanity progressing to a new age. Led by leaders who don't want to empower the people with modern tools or ever return to equality. Instead, the leaders distract the masses from their self-serving leadership, with spectacle.
 
@@ -1072,15 +1091,15 @@ So to defeat Darth Blockuser, we can use our understanding of classic and specta
 
 Not all kings are con artists. There's a good reason we tell ourselves stories of gallant knights and dreamy princesses. At first, the Medieval Age was led by heroes of a classic tale. These kings and their nobles defeated monsters to create a peaceful country for the people to live in.
 
-In Rousseau's time, noble families ruled every European country. They were in power because of their ancestors. After western Rome fell in 476, western Europe entered the Early Medieval Ages (500-1000). Often called the Dark Ages because there few books, ink, or even literate people to write anything down. In fact, maintaining the existing infrastructure like sanitation, roads, and farmswas hard enough. Advanced civilization was gone. Anarchy ruled.
+In Rousseau's time, noble families ruled every European country. They had absolute power because of their ancestors. After western Rome fell in 476, western Europe entered the Early Medieval Ages (500-1000). Often called the Dark Ages because there few books, ink, or even literate people to write anything down. In fact, maintaining the existing Roman infrastructure like sanitation, roads, and farms was hard enough. Advanced civilization was mostly gone. Anarchy ruled where Rome's Caesars once did.
 
-People like Clovis I, Charles Martel, and Alfred the Great took charge. They were master warriors who used swords, bows, armor, and cavalry to expand their kingdoms, keep away vandals, and fight off invadering Vikings. Even better, they headed large families who kept some peace. The best thing they did was to build castles to protect the newly remade cities, markets, and hospitals.
+People like Clovis I, Charles Martel, and Alfred the Great took charge. They were master warriors who used swords, bows, armor, and cavalry to expand their kingdoms, keep away vandals, and fight off invading Vikings and Arabs. Even better, they headed large families who kept a growing peace. Soon they built castles to protect the newly remade cities, markets, and hospitals.
 
-The Early Medieval Ages was a classic story because heroes saw real-life problems. They rose to the occasion, rallied supporters, and fought the evil villains with swords, lances, and castle walls. Fittingly, a hierarchy formed around these tools. We call it feudalism. You've probably seen it in shows like Robin Hood, Vikings, or Game of Thrones. Feudalism was a rigid hierarchy of kings, bishops, dukes, sheriffs, knights, priests, tradesman, and peasants. In return for loyalty, the people at the bottom got what was called the "King's Peace." Peace started to return civilization, which made new and better shovels, oxen, thatched houses, buckets, sickles, and other tools for the people to expand their cyborgolgy.
+The Early Medieval Ages was a classic story because heroes saw real-life problems. They rose to the occasion, rallied supporters, and fought the evil villains with swords, lances, and castle walls. Fittingly, a hierarchy formed around these tools. We call it feudalism. You've probably seen it in shows like Robin Hood, Vikings, or Game of Thrones. Feudalism was a rigid hierarchy of kings, bishops, dukes, sheriffs, knights, priests, tradesman, and peasants. In return for loyalty, the people at the bottom got what was called the "King's Peace." It was a good deal. The growing peace returned civilization. Soon the people had new and better shovels, oxen, thatched houses, buckets, sickles, and other tools to expand their cyborgolgy.
 
-The people happily declared the leaders holy because the country's stability was vested into the heroes' own person. The first kings were basically like mafia bosses. These kings didn't rule inside an official parliament or bureaucracy. Like an Odysseus, Robin Hood, or Neo, they themselves were society's protagonists, making them Protagonist Kings. This was the start of the "noble divine right to rule."
+The first kings were basically like mafia bosses. These kings didn't rule inside an official parliament or bureaucracy. Like an Odysseus, Robin Hood, or Neo, they themselves were society's protagonists, making them Protagonist Kings. This was the start of the "noble divine right to rule."
 
-To have political power, the kings needed to create it. Since society had no political institutions like dependable judicial systems, standing police force, or governmental departments, the increasing personal rule of the nobility was holy. If they disappeared, so did the re-growing civilization keeping millions of peasants safe. And while it will be hard for us to appreciate, going to church, and believing the holiness of kings, made hard-working peasants player gods thinking of the big-picture. Their subservience rebuilt society with every new thatched home, cabage patch, and newly dug well. And the kings weren't bad guys. They had many battle scars to prove it.
+The game of civilization gave them leaders this deal, because to have political power, the kings needed to create it. Since society had no political institutions like dependable judicial systems, standing police force, or governmental departments, the increasing personal rule of the nobility was definitely holy. If they disappeared, so did the re-growing civilization keeping millions of peasants safe. And while it will be hard for us to appreciate, going to church, and believing the holiness of kings, made everyone, even lowly peasants, player gods. Their subservience rebuilt society with every new thatched home, cabage patch, and newly dug well. The kings weren't bad guys. They had many battle scars to prove it.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmJubilantIrrawaddydolphin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
@@ -1088,11 +1107,11 @@ _You'd believe in holy kings too, if barbarians, Vandals, or Vikings were at you
 
 Under the rule of Protagonist Kings, Western Civilization rebuilt political institutions like court systems, town councils, sanitation departments. But it was slow going. By the time Western Europe had a fully functioning civilization again at the Renaissance (1400-1600), nobody could remember why the story of divine nobility had started. Who could blame them, the story was already a 1000 years old. Do you remember what happened 1000 years ago?
 
-As Europe went through the Renaissance, the Age of Science, the Age of Enlightenment, the invaders were increasingly gone, fresh water was available, the roads were clean, the markets were busy. The once Protagoinst Kings, were now merely executives of extensive and bureaucratic governments. The only thing that didn't change was the culture of royalty. The leaders had the title of king but were no longer protagonists. They became villains protecting their privilege, who refused to let society grow out of the "nobles divine right to rule", and thus became Antagonist Kings.
+As Europe went through the Renaissance, the Age of Science, the Age of Enlightenment, the invaders were increasingly gone, fresh water was available, the roads were clean, the markets were busy. The once Protagoinst Kings, were now merely executives of extensive and bureaucratic civilized governments. The only thing that didn't change was the culture of royalty. The leaders had the title of king but were no longer protagonists. They became villains protecting their privilege, who refused to let society grow out of the "nobles divine right to rule", and thus became Antagonist Kings.
 
 ## Antagonist Kings
 
-When Western Rome fell, the story of civilization went back to near zero. Picture Syria today, and you'll get an idea of the mayhem. Protagonist Kings had a job—grow a new country as fast as possible. Viking raids, Arab invasions, civil wars, famines, the Black Death were all huge setbacks. But over the next 1000 years, Protagonist Kings and the feudal system they headed, rebuilt civilization.
+When Western Rome fell, the story of civilization went back to near zero. Picture Syria today and you'll get an idea of the mayhem. Protagonist Kings had a job—grow a new country as fast as possible. Viking raids, Arab invasions, civil wars, famines, the Black Death were all huge setbacks. But over the next 1000 years, Protagonist Kings and the feudal system they headed, rebuilt civilization.
 
 By the time Europe entered the Renaissance, the system had done its job. The nobles were no longer protagonists, but merely average people who happened to be born with "noble blood." For the most part, they only waged war against each other, and usually only for personal glory. Otherwise, they sat atop a hierarchy who paid no taxes, did not work, and answered to no one. These antagonist nobles used relative peace and prosperity to replace armor with dresses, churches with cathedrals, castles with palaces, and battlefields with banquets and balls.
 
@@ -1102,19 +1121,19 @@ Visit European castles and extravagant palaces, modest churches, and brilliant c
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/LavishIncomparableBumblebee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_Louis XIV (1643-1715) spent an estimated 50% of France's annual Gross National Product to build and maintain his Palace at Versailles, he didn't even pay taxes. He was a self-described god on earth. The people could even buy tickets to tour the palace. It wasn't long before the country "heard the people sing" as the people became player gods._
+_Louis XIV (1643-1715) spent an estimated 50% of France's annual Gross National Product to build and maintain his Palace at Versailles, he didn't even pay taxes. He was a self-described god on earth. The people could even buy tickets to tour the palace. It wasn't long before the country "heard the people sing" as the people became player gods by reaching for the levers of power._
 
-During this transformation, frontline problems piled up for the people. Their situation barely changed, and arguably got worse from 1000 to 1778. Their houses were still thatched. They did manual labor all day. They still paid almost all the taxes but were banned from advancing in official society. Feudalism became a caste system controlled by con artists. They fought against distributing the benefits of an advancing civilization to the people doing the work on the frontline. We rightfully call Antagonist Kings Darth King.
+During this transformation, frontline problems piled up for the people. Their situation barely changed, and arguably got worse from 1000 to 1778. Their houses were still thatched. They did manual labor all day. They still paid almost all the taxes but were banned from advancing in official society. Feudalism became a caste system controlled by con artists. The leaders fought against distributing the benefits of an advancing civilization to the people doing the work on the frontline. We rightfully call Antagonist Kings Darth King.
 
-When the people were under the Protagonist Kings they tended the fields, make the barrels, and fought the barbarians, they were being player gods. They were helping their civilization prosper. With each new era, came more powerful tools. Along the way of progress, society's ruling philosophy of "nobles divine right to rule" flipped from being a classic story to an art and spectacle one. The practical reason for noble divinity, fighting off anarchy, was ignored. The nobles lost the plot of their own stories. They turned their people from player gods into extras. It sent Darth King's civilizations into revolutions, and cost him his head.
+When the people were under the Protagonist Kings they tended the fields, make the barrels, and fought the barbarians, they were player gods. They were helping their civilization prosper. With each new era, came more powerful tools. Along the way of progress, society's ruling philosophy of "nobles divine right to rule" flipped from being a classic story to an art and spectacle one. The practical reason for noble divinity, fighting off anarchy, was ignored. The nobles lost the plot of their own stories. They turned their people from player gods into extras. It sent Darth King's civilizations into revolutions, and cost him his head.
 
 ## Repeat Story
 
-I'm not sure if you know this Stargazer, but the Devil was once an angel. I'm serious. The angel Lucifer was his name. He lived with God up in the clouds with the rest of the heavenly beings. All these angles communicated God's will to his people below; teaching them the virtue, morality, and ethics they'd need to become protagonists and player gods.
+I'm not sure if you know this Stargazer, but the Devil was once an angel. I'm serious. The angel Lucifer was his name. He lived with God up in the clouds with the rest of the heavenly beings. All these angles communicated God's will to His people below; teaching them the virtue, morality, and ethics they'd need to become protagonists and player gods.
 
 But Lucifer rejected God's teachings. He grew vain, greedy, and deceptive. Soon he even challenged God's supremacy. God threw Lucifer down from Heaven to be the Dark Lord of hell.
 
-Free from the restrictions of justice, fairness, and good, Lucifer grew his evil powers. Soon he was the Devil, who taught humanity vanity, greed, hubris, selfishness they'd need to become antagonists and extras. But Lucifer kept is angelic form. The Devil can thus be anyone, at any time. Humanity is a mixture of angels and demons. All humanity is has the grace of God, and the greed to think we can be divine.
+Free from the restrictions of justice, fairness, and virtue, Lucifer grew his evil powers. Soon he was the Devil, who taught humanity the vanity, greed, hubris, selfishness they'd need to become antagonists and extras. But Lucifer kept his angelic form. The Devil can thus be anyone, at any time. Humanity is a mixture of angels and demons.
 
 ![Lucifer](/img\diagrams\lucifer-falls.jpg)
 
@@ -1138,29 +1157,33 @@ Society loved the original kings for winning the "King's Peace". Likewise, the i
 
 The original leaders of the Industrial Age told a good story, and thus the people were again player gods. Protagonists like Andrew Carnegie, Cornelius Vanderbilt, Louis B. Mayer, are basically the economical versions of original warrior kings like Clovis I, Charles Martel, and Charlemagne.
 
->When we hit the Internet Age, Protagonist Executives, become antagonist Darth Blockbusters. Another story of a fallen angel.
+But when we hit the Internet Age, Protagonist Executives, become antagonist Darth Blockbusters. Another story of a fallen angel.
 
 That should both worry you and make you happy, Stargazer. First the worrying part; Darth Blockbuster defends the Industrial Age because he makes him powerful. He surrounds himself with a story of self-importance and distracts the people with the dark majic of spectacle. Actor John Wayne noticed this started, not surprisingly, in the 1970s for movies:
 
 >Now the goddamned stock manipulators have taken over. They don't know a goddamned thing about making movies. They make something dirty, and it makes money, and they say, 'Jesus, let's make one a little dirtier, maybe it'll make more money.' And now even the bankers are getting their noses into it.
 
-Since, entering the Internet Age, dark majic has skyrocketed. The once humble American Dream to own a home and make a honest living, became a lifestyle of spectacle. Small homes became McMansions with luxury baths and kitches. Cars got bigger, with more chrome, more horsepower. Televisions increased in size to ludicrious proportions. Food got supersized. Sugar was added to everything we eat. Instead of using digital technology to improve life on Earth, technology was used to make a matrix of dark majic that survived by increasing diabetes, laziness, and greed. All because Darth Oil, Telephone, Suburbs, Sugar needed to distract the people from making a new player god to upgrade, and enjoy the freedom, self-sufficiency, and collaboration of the Internet Age.
+Since, entering the Internet Age, dark majic has skyrocketed in our society. The once humble American Dream to own a home and make a honest living, became a lifestyle of spectacle. Small homes became McMansions with luxury baths and kitches. Cars got bigger, with more chrome, more horsepower. Televisions increased in size to ludicrious proportions. Food got supersized. Sugar was added to everything we eat. Instead of using digital technology to improve life on Earth, technology was used to make a matrix of dark majic that survived by increasing diabetes, laziness, and greed. All because Darth Oil, Telephone, Suburbs, Sugar needed to distract the people from making a new player god to upgrade, and enjoy the freedom, self-sufficiency, and collaboration of the Internet Age.
 
-The good news is, where not at a "let's burn down society" point yet. We can transition to the Internet Age ourselves before the frontline gets so bad and so ununhappy we stat a revolution. We can usher in the era of mass-collaboration ourselves.
+The good news is, where not at a "let's burn down society" point yet. We can transition to the Internet Age ourselves before the frontline gets so bad and so ununhappy we start a bloody revolution. We can usher in the era of mass-collaboration ourselves. And that's a strength and a weakness.
 
 https://www.youtube.com/watch?v=A25EUhZGBws
 https://youtu.be/A25EUhZGBws?t=7
-_This is a clip from The Big Short. About the Financial Crisis in 2008. This guy is one of our modern day Antagonist Executive. You're not supposed to understand the rationale of CDOs that makes him super wealthy, because there is none. Like the divine rights of nobility, it's just the justification of a self-important hero. By the way, it's not a coincidence Louis' palace, and our houses, caused so much economic problems at the end of an age. The 2008 economic risis was always going to happen. A world of dark majic spectacle, like McMansions, only lasts so long. The scare of 2008 was nothing. Life on Main Street will only get worse, until we upgrade to the Internet Age via Techvolution._
+_This is a clip from The Big Short, a movie about the 2008 Financial Crisis. This guy is one of our modern day Antagonist Executive. You're not supposed to understand the rationale of CDOs that makes him super wealthy, because there is none. Like the divine rights of nobility, it's just the justification of a self-important hero. By the way, it's not a coincidence King Louis' palace, and our houses, caused so much economic problems at the end of an age. The 2008 economic risis was always going to happen. A world of dark majic spectacle, like McMansions, only lasts so long. The scare of 2008 was nothing. Life on Main Street will only get worse, until we upgrade to the Internet Age via Techvolution._
 
 # ACT THREE
 
-## Evolution Doesn't Happen Without Fighting - Main street Has to Act
+## Evolution Yea or Nea
 
-Do you believe in Techvolution? Do you think Right/Left philosophy is outdated? Do you see why the era of mass-production should be replaced by mass-collaboration? Do you want to hold levers of power in your society, instead of complaining, protestig, and begging the powerbrokers do what you want. Do you see through the endless rules of the Industrial Age as being bullshit. Can you see the dark majic around gas cars, 9-5 workdays, call-centres, paper-forms—the entire 1969 way of life that keeps us all in the Industrial Age?
+Act Three. This is where the forces of good and bad muster up, face off, and the winners of the story are crowned. The winners being those who control the levers of power: Jedi fight Sith, Hogwarts fights Voldemort, and Open-Source fights Darth Blockbuster.
 
-You are the hero of civilization Stargazer. Here are two stories, that'll help you answer the questions history is putting on your shoulders.
+You are the deciding factor. Thus, Act three is a simple question. Do you believe in Techvolution? Do you think Right/Left philosophy is outdated? Do you see why the era of mass-production should be replaced by mass-collaboration? Do you want to hold levers of power in your society, instead of complaining, protesting, and begging. Do you think our rules, regulations, codes, and laws should be seemless, not a weapon to hold back progress. Can you see the dark majic around gas cars, 9-5 workdays, call-centres, paper-forms—the entire 1969 way of life that keeps us all in the Industrial Age?
 
-## Your Cyborgology Can Survive A Nuclear Bomb
+Do you appreciate your importance to humanity and no joke, life on Eart? Without you on the frontline having the right, and duty, to solve your problems with modern tools, that we're stuck using adaptions as stupid as Artic bred polar bears, sweating to death in the Savanah. Likewise, commuting to work in Boston blizzards, forcing non-English speakers to call into a call-centre, depending on doctor writing to record our medical histories are what? Expecting a fish live out of water.
+
+I think you do. So, the conclusion comes down to one simple question. Do you want to be a player god whose job is to adapts humanity? The first step is to believe in a modern philosophy. So here are two stories, to make you realize the power of modern day player gods, and the hopelesness of Industrial Age extras.
+
+## Option 1 - Being a Super Human Player God Cyborg
 
 The Internet Age has many protagonists. Paul Baran (1926-2011) is one of the big ones. Because of him, just by using the internet, you become a player god. No kidding around. Personal freedom, responsibility, and collaboration are built into the DNA of the internet we all use everyday.
 
@@ -1185,7 +1208,7 @@ You're already a powerful Internet Cyborg. You've already addicted to the majic 
 
 If you decide not shirk away from Techvolution, you're putting your life, your family, your society in the antagonists hands. And this takes us to King Charles I. Remember the Thirty Years War, when Main Street was tearing itself apart in the name of Protestant and Catholic kings; adding to that anarchy was King Charles. His story teaches something special. The antagonists will never be on your side.
 
-## Darth King Charles
+## Being an Extra Forever With Darth King Charles
 
 Charles ruled England as a proud protestant king. His father taught him the "nobles right to rule" was a matter of faith, not self-interest. His father, King James, commissioned the "King James Version" Holy Bible. A Bible written in English so regular people could understand the king is their natural leader.
 
@@ -1265,7 +1288,7 @@ The question is, with Darth Blockbuster holding onto the Industrial Age, giving 
 
 I know one thing. Thanks to to Internet Age protagonists, you can't go back to snail mail, telephones, or Blockbuster. You're an internet cyborg! You hands hold smartphones, Wikipedia, Netflix, and whatever other majic the Internet Age is yet to create. You'll never let go. We've been updating our society bit by bit to the Internet Age since 1970. It's tools are everywhere. Levers of power waiting for your to grab.
 
-And Darth Blockbuster fights to keep his Industrial age alive. And now we know, he will never, ever, ever, "see the light". But I don't care. The game of civilization must be played. It's why I'm not writing to "The Executive." I'm writing to you Stargazer. You're the player god!
+And Darth Blockbuster fights to keep his Industrial age alive. And we know, he will never, ever, ever, "see the light". But I don't care. The game of civilization must be played. It's why I'm not writing to "The Executive." I'm writing to you Stargazer. You're the player god!
 
 ![Illustration](/img\sketches\playergod-stargazer.jpg)
 
@@ -1275,22 +1298,22 @@ The fate of civilization is then, rather simple. Who is your hero Stargazer? Wil
 
 ## The End
 
-I want to write dialogues like Plato's. I'd love to write ones of Antagonists and Protagonists debating with Stargazer, who has an internal discussion between the benefits and drawbacks of being an extra or player god, and the joys of majic and dark majic.
+I want to write dialogues like Plato's. I'd love to write ones with many Antagonists and Protagonists debating with Stargazer, who has an internal discussion between the benefits and drawbacks of being an extra or player god, and the joys of majic and dark majic.
 
-I would love to write stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society, to transform us into the Internet Age with all the heroic drive our problems deman. Imagine it like Linus Tech Tips on steroids. Because today's "geeks" are really majicians in waiting. Waiting to attach roofers with drones, cleanerst with IR cameras, craftsman with 3D printers. Majicians make modern cyborg-makers, bring on the era of mass-collarboration.
+I would love to write stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society, to transform us into the Internet Age with heroic drive. Imagine it like Linus Tech Tips on steroids. Today's "geeks" are really majicians in waiting. Waiting to attach roofers with drones, cleaners with IR cameras, craftsman with 3D printers. Majicians make modern cyborgs and bring on the era of mass-collarboration that will find which digital tools best solve our many problems.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/whimsicalleadingfirebelliedtoad">via Gfycat</a></p>
-_An ideallized era of mass collaboration. No antagonists or extras, just protagonists and player gods._
+_An ideallized view of mass collaboration. No antagonists or extras, just protagonists and player gods._
 
-But I can't think for you. Nor do I want to keep holding your hand. This book has been informative enough. At the start I asked are you happy? Now you have to ask "Am I going to do something about it?"
+But I can't think for you. Nor do I want to keep holding your hand. This book has been informative enough. At the start I asked are you happy? Now you have to ask your own question "Am I going to do something about it?"
 
-On the surface we have flashy products, full employment, and stable politics. On the inside, our middle-class deals with stagnate wages, crushing debts, antisocial behavior, political hatred, and climate change. Are you going to do something about it?
+On the surface we have flashy products, full employment, and stable politics. On the inside, our middle-class deals with stagnate wages, crushing debts, failing infrastruture, huge red-tape, antisocial behavior, political hatred, and climate change. Are you going to do something about it?
 
 Antagonists will never stop. Open-source protagonists have given you the tools. I personally just want to live in a place were life prospers. That's why I pray you decide to play the game, like our ancestors did for us so many times.
 
-Now it's our turn. Our unhappiness is a big huge sign. We must upgrade to the Internet Age and embrace the era of mass-collaboration. To do that, we need Techvolution, a new philosophy that gives the right, and duty, to frontline people to use digital tools to solve their real-life problems.
+Our unhappiness is a fire alarm. We must upgrade to the Internet Age and embrace the era of mass-collaboration. To do that, we need Techvolution, a new philosophy that gives the right, and duty, to frontline people to use digital tools to solve their real-life problems.
 
-Look around, and see old drafty windows, gas engine cars, call-centres, cable news, mass-producted toys, eight different bosses, car traffic, endless red-tape... Do you see the Industrial Age? Are you willing to ignore dark majic, the Death Star, drop the tools of 1969 cyborg, and become a proud Internet Age cyborg?
+Look around, and see old drafty windows, gas engine cars, call-centres, cable news, mass-producted toys, stupid commercials, eight different bosses, car traffic, endless red-tape... Do you see the Industrial Age? Are you willing to ignore dark majic, the Death Star, drop the tools of 1969 cyborg, and become a proud Internet Age cyborg?
 
 Or do you want to return to the comfort and safety of being a 1969, bragging about gas cars, fake job titles, and McMansions, while following the antagonists rules, and chasing the phantoms of Left/Right politics. Did Techvolution click? The fate of your life, your kids, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
 
@@ -1300,11 +1323,11 @@ If you do, we win. If you don't, we lose.
 
 ## Crash and Die
 
-I said above, philosophy has lofty and sometimes hard to undertand ideals of a "just and good society". I tried my best to use real-world examples, media, and popular stories to make Techvolution relatable. But you still have to venture out and find out what it means to be a player god.
+I said above, philosophy has lofty and sometimes hard to undertand ideals of a "just and good society". I tried my best to use real-world examples, media, and popular stories to make Techvolution relatable. If indeed this new philosophy clicked, you still have to venture out and find out what it means to be a player god.
 
 It'll be a journey. While, I can't tell you exactly what Techvolution and the era of mass-collaboration looks like in your life and job. I can for car insurance claims. You can use its transformation as your guide.
 
-First watch this. A clip from Netflix's _Black Mirror_. The episode is called Smithereens. A story of a crazed man, who wants to talk with the powerful CEO of an Instagram-like app called Smithereen. He holds a company intern hostage, awaiting the CEO’s call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
+First watch this. A clip from Netflix's _Black Mirror_. It's a story of a crazed man, who wants to talk with the powerful CEO of an Instagram-like app called Smithereen. He holds a company intern hostage awaiting the CEO’s call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
 
 https://www.youtube.com/watch?v=_gF1oGQ2hAA&feature=youtu.be&t=50
 
@@ -1312,19 +1335,19 @@ New technology is either our salvation. Or our distraction. These are the poor s
 
 Smithereens displays the frontline of civilization. This is the pain evolution is supposed to solve. In fact, the game of civlization is won or lost based on our ability feel pain, adapt a solution, and keep going. What the Internet Age allows, is what Galileo did all those years ago why he admitted to himself "we don't know until we test, so let's use instruments to test what we think we know."
 
-Using instruments to find the truth, means the truth no longer comes from leaders opinions. And this is what Industrial Age antagonists fear most of all. Because it lets the people feeling frontline pain, solve problems without asking for permission.
+Using instruments to find the truth, means the truth no longer comes from leaders opinions. And this is what Industrial Age antagonists fear most of all. Because it lets the people feeling frontline pain, solve problem solve it themselves because everyone holds their own levers of power.
 
 For decades regular people have been buying, learning, and using modern tools. Each new digital tool pushes us deeper into the Internet Age. One example is the Twitter feed below. It's run by the Ontario Police to tell the public about car crashes.
 
 <a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw" target="_blank">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The point is, I have no control over this Twitter feed. I can't make up the information. Nor can I gatekeep it from you. These are simply facts in our society, that because of the internet, anyone can see, feel, and collaborate around. The people in these crashes are in some level, living through Smithereens. We either use these facts to evolve, or fall behind.
+The point is, I have no control over this Twitter feed. I can't make up the information. Nor can I gatekeep it from you. These are simply objective facts in our society, that because of the internet, anyone can see, feel, and collaborate around. The people in these crashes are in some level, living through Smithereens. We either use these facts to evolve, or fall behind.
 
 At it's heart, Smithereens is a story about an extra. The tortured man assumes the company Smithereen will care about his problem. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. "They" only have your interest at heart if you hold the levers of power. "They" is the player god. You're either a member, or you're a nobody.
 
-I wept while watching the Smithereens; full out tears. I knew what the plot twist was—that a loved one died in a car crash—because I'd spoken with this person too many times. It was actually the motivation for me to make my app. I wanted to showcase how the future of technology will help us solve things like horrible, useless, and preventable car crashes with something (now called) the Life Star. What I ended up learning, is before we get to the Internet Age, we have to defeat the antagonists, with a army of player gods believing in Techvolution, and weilding the levers of power inside the era of mass-collaboration.
+I wept while watching Smithereens; full out tears. I knew what the plot twist was—that a loved one died in a car crash—because I'd spoken with this person too many times. It was actually the motivation for me to make my app. I wanted to showcase how the future of technology will help us solve things like horrible, useless, and preventable car crashes with something (I now call) the Life Star. What I ended up learning, is before we get to the Internet Age, we have to defeat the antagonists, with an army of player gods believing in Techvolution, and wielding the levers of power inside the era of mass-collaboration.
 
-Here's how we can in car crashes. It's only a guide for you to do the same somewhere else
+Here's how we can in car crashes. It's only a guide for you to do the same everywhere else.
 
 ## My App
 
@@ -1332,19 +1355,19 @@ I never intended to write this book. I wrote a similar one, "Why the 2008 Econom
 
 I wanted (and am), writing "Building the Life Star" and "Starting Starfleet." Which in summary say, digital tools enable mass-collaboration, and give us objective facts whose lives and civilizations are more efficient. With this info we'll learn social truths. With all the savings, we'll start the Space Exploration Age.
 
-For example, the Smithereens crash cost society two cars, hundreds of worker hours, hours of traffic jams, millions of dollars, and three lives. One crash of the hundreds of thousands that happen every year. Preventing one crash is hugely valuable. To prevent accidents, you need to know where, when, and why they happened.
+For example, the Smithereens crash cost society two cars, hundreds of worker hours, a huge traffic jam, millions of dollars, and three lives. One crash of the hundreds of thousands that happen every year. Preventing crashes is a virtual gold mine. But to prevent accidents, you need to know where, when, and why they happened.
 
 So I made my app to fight back. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in "tech."
 
 The tool wasn’t polished because new tools never are. But it was, and would have been, so effective because it came directly from the frontline. A place far away from today’s antagonists. But also the only place where evolution happens.
 
-Here’s how my app worked. After an accident, drivers are expected to exchange information. They're usually frazzled so they often don’t. A simple mistake that causes huge headaches because today’s car insurance claim system is based on Industrial Age tools. Without the other driver's info, adjusters have to search for each other. Literally calling around or hoping someone calls you. Delays piled up like crazy—causing most of the maddening DING-DING-DING-DING-DING-DING.
+Here’s how my app worked. After an accident, drivers are expected to exchange information. They're usually frazzled so they often don’t. A simple mistake that causes huge headaches. Without the other driver's info, adjusters have to search for each other. Literally calling around or hoping someone calls you. Delays piled up like crazy—causing most of the maddening DING-DING-DING-DING-DING-DING.
 
 ## A Taste of the Life Star
 
 My app combined several existing technologies, email, internet, GPS, google maps, and web apps, to make a new tool. It let insurance adjusters post an accident on a google map. Since every accident shares the GPS coordinates, all adjusters, regardless of what drivers do, can find each other. It’s minimal operating cost was paid for by rental car companies and repair shops, who loved the ability to email invoices directly to adjusters without having to call first.
 
-Frontline communcation, just like in Uber, Airbnb, and so many other apps. The start of the era of mass-collaboration. A simple new tool that only someone on the frontline would ever feel the pain to make. A bit of human technological evolution.
+A simple app to create frontline communcation, just like in Uber, Airbnb, and so many other apps. A stepping stone for the era of mass-collaboration. A simple new tool that only someone on the frontline would ever feel the pain to make. A bit of human technological evolution.
 
 ![New Tool Creation](/img\diagrams\techvolution-civilization-is-here.jpg)
 _Look familiar? Uber, Airbnb, and my app, all used GPS maps. Kinda looks like the game of Civilization doesn't it? No surprise there. I told you computers games teach us about the Internet Age. A sneak peek at the Life Star._
@@ -1359,9 +1382,11 @@ And that's the small example of the Life Star. Like how scientific instruments s
 
 Antagonists stepped on my app with bullshit reasons and excuses. They didn’t care about the future of technology, and didn't know one thing about their own industry. Not one. Car accidents are as mysterious to them as how to take out the trash. Their self-entitlement, blank faces, clueless looks, arrogant smirks, finally made me realize. Without Techvolution, the Life Star will be a computer game forever.
 
-Politics is finding out who controls the levers of power. The levers that distribute resources throughout society. It's no accident, that my app made claims far faster, and was thwarted. Insurance companies don't make more money the faster they pay claims. That's why they take electronic payments, but snail-mail out paper checks. And like with Darth Blockbuster, transfering the levers of power is the key to bringin on the Internet Age. And that will happen across all industries very soon.
+Politics is finding out who controls the levers of power. The levers that distribute resources throughout society. It's no accident, that my app made claims far faster, and was thwarted. Insurance companies don't make more money the faster they pay claims (yet). That's why they take electronic payments from Main Street, but snail-mail paper checks back to us. And like with Darth Blockbuster, transfering the levers of power is the key to bringin on the Internet Age in insurance, like will happen across all industries soon.
 
-Because with the Life Star soon Evolution will be our rulebook. No middleman. No phantom chasing. No dark majic. No Death Star. No Darth Blockbuster. Would you be a antagonist, extra, or player god, if the only person judging you, was the same person that judges oak trees, cheetahs, and polar bears? You'd pick player god, or Evolution will get rid of you. That's the Life Star. The technological re-creation of Evolution; a rulebook to enforce Techvolution. While it's better if Techvolution clicks now, if it didn't, I guarantee you, this new ruling philosophy will click in the future. You'll read all about it in the next book.
+Because with the Life Star soon Evolution will be our rulebook. No middleman. No phantom chasing. No dark majic. No Death Star. No Darth Blockbuster. Would you be a antagonist, extra, or player god, if the only person judging you, was the same person that judges oak trees, cheetahs, and polar bears? You'd pick player god, or Evolution will get rid of you. That's the Life Star. The technological re-creation of Evolution; a rulebook to enforce Techvolution. You ever notice how animals flee captivity to return to Nature, because it's the rational state, and it's a fact that rationality makes lifeforms happy.
+
+While it's better if Techvolution clicks now, if it didn't, I guarantee you, this new ruling philosophy will click in the future. You'll read all about it in the next book.
 
 # THE APPENDICES
 
@@ -1414,9 +1439,9 @@ Our culture is very entrenched in the Industrial Age. So many people live to tak
 
 We are in an entirely new age. The Internet Age is just as historical and powerful as the Science Age. And nobody has earned victory over it yet. Africa, South America, East Asia, Middle East, India, Eastern Europe, any civilization in the world is no better off then the West. Actually, I'd say, the West is far behind in the race to win the Internet Age
 
-In all my schooling, reading, discussing, working, in all my life, the ancestors of the barbarian kings, the ones whose grand parents worked 365 days a year in horrible English factories, who suffered famines in Ireland, draughts in France, and wars throughout Europe, the ones who did work in the labs in New York, who worked the mines of Pennsylvania, the lines of Michigan, who solve millionsd of different problems during the Science and Industrial Ages as player gods; their grandkids today simple don't want to feel frontline pain. As one sharp observer noted to me "it's like they've folded their cards."
+In all my schooling, reading, discussing, working, in all my life, the ancestors of the barbarian kings, the ones whose grand parents worked 365 days a year in horrible English factories, who suffered famines in Ireland, draughts in France, and wars throughout Europe, the ones who did work in the labs in New York, who worked the mines of Pennsylvania, the lines of Michigan, who solved millions of different problems during the Science and Industrial Ages as player gods; their grandkids today simple don't want to feel frontline pain. As one sharp observer noted to me "it's like they've folded their cards."
 
-It's why so many of todays Western protagonists and player gods are foreigners. Also why so many tortured souls are born with irrationality (mental illness) in western society. Society is using their curse, to be irrational against the corrupt rulebook, and start involuntarily discovering the just rulebook of the next Age. Irrational people are the most likely to see through the Matrix and start the rebellion. The curse is to live the rebellion of the mind history demands somebody makes. That's the rationality of irrationality. The longer we hold off upgrading, the most cursed minds our player god is forced to make to starting winning the game again.
+It's why so many of todays Western protagonists and player gods are foreigners. Also why so many tortured souls are born with irrationality (mental illness) in western society. Society is using their curse, to be irrational against the corrupt rulebook, and start involuntarily discovering the just rulebook of the next Age. Irrational people are the most likely to see through the Matrix and start the rebellion. The curse is to live the rebellion of the mind history demands somebody be mad. That's the rationality of irrationality. The longer we hold off upgrading, the most cursed minds our player god is forced to make to starting winning the game again.
 
 Fighting to delay the upgrade, is also why so many antagonists import extras (illegal immigration, migrant crisis, legal immigration) into the West, because they know desperate people are inherent extras, and only a society of extras, keeps antagonists of the Internet Age in power in the 21st Century.
 
