@@ -2139,3 +2139,53 @@ Industrial Age antagonists like standing above the frontline. Adjusters and driv
 If you stepped up, and decided to play the game, here's what you need to know about our world today. The player god is already forming against the Industrial Age powers. But it doesn't have a new philosophy to properly guide it. Like those Christian Puritans who dethroned Charles, our current political movements are extreme believers in the current ruling philosophy.
 
 Think of today, if someone were to tell you how to vote, while looking over your shoulder, you'd be weirded out. If the criminal didn't leave, you'd call the police and society would rush to defend you. We all agree nobody should tell you, nor force you, how to vote. You yourself haven't done anything to earn that right. It's something our Rousseau inspired player god ancestors earned for us.
+
+## Polar Bears in the Amazon
+
+- Pick up and hold your blender, chef knife, or watch. You're holding your cyborgolgy; an extension of your biological tools. You're notice several marking on your item: trademark, copyright, patent, privacy policy, terms of service, and made in.
+
+Ancient pottery doesn't have these markings; except Made in. The rest have their start in the Industrial Age as rules to promote the creation of more and more tools. And it's these markings that largely define our rulebook today. Our Antagonists don't want us to drop their Industrial Age tools, for Internet Age ones. They use their control of these markings to prevent it.
+
+We've been in the Internet Age since 1970. However, we're still using the philosophy of Left/Right politics, and era of mass-production economics, both hallmarks of the Industrial Age. The powers of the Industrial Age, keep their tools as the levers of power by way of dark majic, and when that fails, they use rules from the Death Star to prevent change.
+
+The Death Star is the list of government, legal, and corporate rules. Most were started early in the Industrial Age, intended to help civilization prosper as we started up the first machines of industry. And these rules did their job. But for us today, that means we have anti-trust, copyright, labour, and many other laws, regulations, guidelines based in a time when carrier pigeons still existed. It's funny to think about, but it's also very true.
+
+When the Internet Age came, society was technicially transforming bit by bit. Without a new philosophy, our politics was managing the computerization of our civilization, with rules of meant for industrialization. Hence, why starting in 1970 there was huge explosion of government regulations, trademarks, copyrights, and patents. And think of this, lobbyists didn't exist in 1969—and now many people think a few thousand of them run our governments.
+
+Because Industrial Age powers want to hold back our evolution to keep the Industrial Age alive for as long as possible. That's why they exported American industry, hyped up
+
+We're basically polar bears in the Amazon. Seriously, think of it—our environment is different, our societies are different, and our cyborgology is different. We are a different people being forced to live as if it were 1969. There's nothing wrong with polar bears, or the Amazon, but neither is adapted for each other. Same goes for a person in 2020—who owns a laptop, hi-speed internet, VR glasses—but is driving through two hours of traffic, to work at a call-centre.
+
+If you would see adaptions like a camel's water retaining hump near the Great Lakes, or a eagle eyes inside a cave system, you'd stop and wonder; "why are these biologies here?". When you likewise see out of place cyborgologies like textbooks, fax machines, and paper-checks in our societies, you should now know something is wrong. Likely it's that Darth Blockbuster stopped our evolution, to keep his cyborgologies in power.
+
+PICTURE
+
+Techvolution is the new philosophy that mimics evolution. It gives the right, and the duty, to the people feeling the pain of frontline life to evolve humanity with new and better tools. Crucially, it's the open-source community who lets the public build its own levers of power, so we don't have to wait for persmission to do what's right.
+
+Only by embracing Techvolution will our society foster the era of mass-collaboration and catapult ouselves all into the Internet Age. Only a society of players gods can evolve humanity past our problems, and give Main Street a happy life. Hopefully we can move fast enough to celebrate saving the polar bears.
+
+![GWRegStudies](/img\diagrams\GWRegStudies-PagesPublishedinFederalRegister-6.12.19.png)
+![US-VMT-per-capita](/img\diagrams\US-VMT-per-capita.png)
+![public-trust](/img\diagrams\public-trust-in-government.png)
+![global-plastics](/img\diagrams\global-plastics-production.png)
+![annual-co2-emissions](/img\diagrams\annual-co2-emissions-per-country.png)
+![transistors-per-micro](/img\diagrams\img\diagrams\transistors-per-microprocessor.png)
+![technology-adoption](/img\diagrams\technology-adoption-by-households-in-the-united-states.png)
+
+_You're happiness is the best statistic about our civlization's health. But here are some stats to show our stagnation._
+
+## Made In America
+
+Pick up and hold your blender, chef knife, or shoes. You're holding your cyborgolgy; an extension of your biological tools. You're notice several marking on your item: trademark, copyright, patent, privacy policy, terms of service, and made in. Except Made In, Roman or Greek pottery doesn't have these markings. They started in the Industrial Age, meant to promote the creation of more and more property. And their stamping on our tools today, showcases Main Streets battle to reach the Internet Age.
+
+Each marking signifies control over that item. So while you bought it, in some manner someone else controls it. But why does a blender need a trademark? A book, need a 90 year copyright, a paper-clip need a patent? Maybe, I don't know about that specific item. But the lawsuits they allow certainly get many antagonists paid.
+
+What you should really be asking is why each marking is written by an American, but the Made In has since 1970 increasingly not said "Made In America". While there is a mountaing of economic theory to rationalize exporting American factories, design houses, industry, I find it funny how trademarkets, patents, and copyrights, were never exported. It's because Made In is the one marking Main Street controlled, and thus the one marking exported as soon as we hit the Internet Age.
+
+## Made In America
+
+Pick up and hold your blender, chef knife, or shoes. You're holding your cyborgolgy; an extension of your biological tools. You're notice several marking on your item: trademark, copyright, patent, and made in. Each marking signifies control over that item. So while you bought it, in some manner someone else controls it.
+
+Now, since 1970, Made In has increasingly not said "America" at the end of it. What that means today is patent lawers are getting well paid. Copyright owners are getting well paid. Marketer coming up with another boring trademark name, are getting well paid. But the welders, craftsman, technicians who actually make stuff, are not. If the endless pages of economic theory that justified exporting American industry to encourage Main Street prosperity, why is Made In, the only marking today that's not done by an American?
+
+Because exporting American industry was about keeping Main Street away from our tools, so we wouldn't do the rational thing, and starting updating our tools to the Internet Age.
