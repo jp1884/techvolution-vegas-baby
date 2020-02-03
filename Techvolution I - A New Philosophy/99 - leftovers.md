@@ -2189,3 +2189,12 @@ Pick up and hold your blender, chef knife, or shoes. You're holding your cyborgo
 Now, since 1970, Made In has increasingly not said "America" at the end of it. What that means today is patent lawers are getting well paid. Copyright owners are getting well paid. Marketer coming up with another boring trademark name, are getting well paid. But the welders, craftsman, technicians who actually make stuff, are not. If the endless pages of economic theory that justified exporting American industry to encourage Main Street prosperity, why is Made In, the only marking today that's not done by an American?
 
 Because exporting American industry was about keeping Main Street away from our tools, so we wouldn't do the rational thing, and starting updating our tools to the Internet Age.
+
+## Cognitive Dissonance
+
+Ruling philosophies are very powerful. With their high ideals, they make strong believers of people, who often have a hard time applying their philosophy to new developments in human knowledge. One example is Lysenkoism. This was a pseudo-science in the Soviet Union that assumed our genes inherit learned traits. So if you lived in a hot climate, your genes would morph to sweat more.
+
+Darwin said our genes are set in stone, and it's the fittest who survive. Soviets didn't want to believe that though, because it sounded like elitism, which their communist ideology said was unnatural. The result was Soviet agriculture didn't get better seeds, genetic research was suppresed, and thousands of Soviet biologists were sent to labour camps. All to protect the ruling philosophy.
+
+The further we go into the Internet Age, the more Progressive and Conservative ideologies get more out of date. You can already see them protecting their ideologies via phantom chasing for racists and socialists behind every corner. Fat-shaming, trigger words, death taxes, Some people will go to extremes against others to protect their own identities. Watch out.
+

@@ -744,9 +744,9 @@ Let's consider some things during our short rest. Hopefully this will make Techv
 
 ## The Death Star
 
-We have a beautiful society. Our police, education, judicial systems work. Laws get passed. Public consultantions are done. There's a reason why many people throughout the world rush, chance, and dream of coming to Western Civilization.
+We have a beautiful society. Our police, education, judicial systems work. Laws get passed. Public consultantions are done. We have sanitation, health, and electrical infrasture only dreamed about just a few generations ago. There's a reason why many people throughout the world rush, chance, and dream of coming to Western Civilization.
 
-We simply have a big problem. Western Civilization peaked in the Industrial Age, and has not yet changed our ruling philosophy to the Internet Age since 1970. Without a new philosophy, our politics was managing the computerization of our civilization, with rules of meant for industrialization. Hence why, starting in 1970, there was huge explosion of government regulations, trademarks, copyrights, patents, and think of this, government lobbyists didn't even exist in 1969.
+We simply have a big problem. Western Civilization peaked in the Industrial Age, and has not yet changed its ruling philosophy to the Internet Age. Without a new philosophy, our politics was managing the computerization of our civilization, with rules of meant for industrialization. Hence why, starting in 1970, there was huge explosion of government regulations, corporate rules, political media, and so much more. Think of this, government lobbyists didn't even exist in 1969.
 
 The point is, our huge rulebook of business regulations over commercial planes, insurance contracts over our homes, employment contracts for our workers, are all based on an Industrial Age society. None of our rules are seek to be bad. They're just so many of them, and they're often so outdated, it's easy for antagonists to use them to resist change.
 
@@ -762,7 +762,7 @@ _You're happiness is the best statistic about our civlization's health. But here
 
 ## Polar Bears in the Amazon
 
-Using Industrial Age philosophies as our ruling philosophy makes us polar bears in the Amazon. Seriously, think of it—our environment is different, our societies are different, and our cyborgology is different. We are a different people being forced to live as if it were 1969. There's nothing wrong with polar bears, or the Amazon, but neither is adapted for each other. Same goes for a person in 2020—who owns a laptop, hi-speed internet, VR glasses—but is driving through two hours of traffic, to work at a call-centre.
+Using Industrial Age philosophies as our ruling philosophy makes us polar bears in the Amazon. Seriously, think of it— in 2020, our environment is different, our societies are different, and our cyborgology is different. We are a different people being forced to live as if it were 1969. It can be hard to see, because there's nothing wrong with polar bears, or the Amazon; but neither is adapted for each other. Same goes for a person in 2020—who owns a laptop, hi-speed internet, VR glasses—but is driving through two hours of traffic, to work at a call-centre.
 
 If you would see adaptions like a camel's water retaining hump near the Great Lakes, or a eagle eyes inside a cave system, you'd stop and wonder; "why are these biologies here?". When you likewise see out of place cyborgologies like textbooks, fax machines, and checks in our societies, you should now know something is wrong. Likely it's that Darth Blockbuster stopped our evolution, to keep his cyborgologies in power. Hopefully we can defeat him in time to celebrate saving the polar bears.
 
@@ -770,15 +770,15 @@ If you would see adaptions like a camel's water retaining hump near the Great La
 
 Pick up and hold your blender, chef knife, or shoes. You're holding your cyborgolgy; an extension of your biological tools. Look close, and you'll notice several marking on each item: trademark, copyright, patent, and made in.
 
-Patents, copyrights, trademarks are very expensive. In fact, even Google, Apple, and Amazon spend more money on lawyers then they do on research and development. So, why are patents, copyrights, and trademarks "made in america", but the actually items are not?
+Patents, copyrights, trademarks are very expensive. In fact, even Google, Apple, and Amazon spend more money on lawyers then they do on research and development. So, why are patents, copyrights, and trademarks "made in america", but the actually items are very often not?
 
-There are endless pages of economic theory that justified exporting American industry. I think it's all bullshit. There's never been a history, or a computer game, where the society full of marketers, lawyers, and copyright owners, defeats the society full of engineers, builders, and technicians. Darth Blockbuster is a rulemaker, not a creator. Thus, he kept himself around, and exported everyone else.
+There are endless pages of economic theory that justified exporting American industry. I think it's all bullshit. There's never been a time—in history or in a computer game—where the society full of marketers, lawyers, and copyright owners, defeats the society full of engineers, builders, and technicians. Yet after 1969, our society gave power to the former, and exported the latter.
 
 To start winning the game in the Internet Age, Main Street must demand "Made In America". It's a great sign we've started to control our own levers of power.
 
 https://www.youtube.com/watch?v=QKcneQ6N50Q&feature=youtu.be&t=50
 
-_A re-creation of American Industrial Age powers doing business in 1960. Trying to figure our how to Industrial Age happiness. The juniors of this world, with no idea how to make anything, kept doing business inside marketing meetings and boardrooms after the Internet Age hit, sold out their industries, and became Darth Blockbuster._
+_A re-creation of American Industrial Age powers doing business in the 1960s. Trying to figure our how to Industrial Age happiness. The juniors of this world, with no idea how to make anything, kept doing business inside marketing meetings and boardrooms after the Internet Age hit, sold out their industries, and became Darth Blockbusters._
 
 ## What's That Called
 
@@ -803,16 +803,6 @@ In the Industrial Age carrying around your medical history was impossible—too 
 When you think of politics, you should think of tools. When you think of tools, you should think of levers of power. And when you think of levers of power, you should think "who controls mine?". Water, heat, food, electricity. These are our absolute requirements.
 
 In the Internet Age, we can start to control our own levers of powers with Hyrdroloop Water reclaimers, custom designed hoems, Agrigrow agriculture, and Tesla Solar Panels. Once we believe in Techvolution, we'll be player gods in our minds. Once we control our own levers of power, we'll be player gods in reality.
-
-## The End of Celebrity
-
-Industrial tools have limits. There's only so many pages in a books, room on a store shelf, shows and songs to broadcast, or awards to be given. We celebrated the winners of the race of limitation as noted authors, business owners, gold-record singers, and Oscar winners.
-
-Internet Age tools have no limits. Wikipedia, YouTube, Wordpress, Soundcloud has enough space for anyone. Thus, we no longer need to celebrate celebrities. There is no #1 Movie in America, record breaking song, or "official history" inside textbooks. You can watch, read, listen to watever you want.
-
-It'll take time to forget about old-school celebrities. But soon we'll only celebrate peolpe who helps you improve your slice of the world.
-
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PleasantRegularGibbon' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 ## Old Philosophy vs. New Philosophy
 
@@ -1201,70 +1191,72 @@ _This is a clip from The Big Short, a movie about the 2008 Financial Crisis. Thi
 
 ## Evolution Yea or Nea
 
-Act Three. This is where the forces of good and bad muster up, face off, and fight to control the levers of power. Jedi fight Sith, the Ministry of Magic fights Voldemort, and in our reality, open-source is fighting Darth Blockbuster.
+Act three is the nail bitter. The time when a good writer rewards audiences with cries, screams, or laughs. Act three is when the forces of good and bad fight for final control of the lever of power. Noble Jedi's fight the Sith, the Ministry of Magic fights Voldemort, and in our reality, open-source fights Darth Blockbuster.
 
-You are the deciding factor. Act three is a simple question. Do you believe in Techvolution? Do you think Right/Left philosophy is outdated? Do you see why the era of mass-production should be replaced by the era of mass-collaboration? Do you want to hold levers of power in your society, instead of complaining, protesting, and begging. Do you think our rules, regulations, codes, and laws should encourage good choices, not be a weapon to hold back progress. Can you see the dark majic around gas cars, 9-5 workdays, call-centres, paper-forms—the entire 1969 way of life that keeps us in the Industrial Age?
+You are the deciding factor in our story Stargazer. Act three in 2020, is a simple question; do you believe in Techvolution? Do you think Right/Left philosophy is outdated? Do you see why the era of mass-production must be replaced by the era of mass-collaboration? Do you want to hold levers of power in your society, instead of complaining, protesting, and begging. Do you think our rules, regulations, codes, and laws should updated so they encourage good choices, not be a weapon to hold back progress. When you look at the 1969 way of life—gas cars, 9-5 workdays, McMansions—do you see dark majic design tokeeps us in the Industrial Age forever?
 
-Do you appreciate your importance to not only humanity, but life on Earth? Do you realize without you on the frontline having the right, and duty, to solve your problems with modern tools, we're stuck using adaptions as out of place as Artic polar bears sweating to death in the Savanah. What do you think of our commuting to work in Boston blizzards, forcing non-English speakers to call into a call-centre, depending on doctor writing to record our medical histories? Are these common practices pro-evoltuion or expecting a fish live out of water?
+This final battle has an even simpler question. Do you appreciate your importance to not only humanity, but life on Earth? Do you realize you must have the right, and duty, to solve your problems with modern tools. If you don't, we're stuck using adaptions as out of place as Artic polar bears sweating to death in the Savanah. Driving to work in Boston blizzards, forcing non-English speakers to call into a call-centre, depending on doctor writing to record our medical histories. All that's anti-evolution!
 
-There is no magic button. No divine player who'll do the work. You are the player god. You are the one in the game that's supposed to do the hard work, and update society bit by bit to the new age, with the majic of new tools.
+Society has no magic button. No divine player who'll evolve for us. You are on the frontline. You are the one in the game that's supposed to do the hard work and update society bit by bit to the new age, with the majic of new tools.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FragrantOldEmeraldtreeskink' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-I think you do understand all this. So, the conclusion comes down to one simple question. Do you want to be a player god? To help you decide, here are two stories to make you realize the power of Internet Age player gods, and the hopelesness of Industrial Age extras.
+I think you do understand all this. So, act three comes down to one simple question. Do you want to be a player god? That's a choice you have to make. It's a choice as big as any you're ever going to make. Because if we don't upgrade now, it only means your kids and your grandkids will live even unhappier lives. The burden of transforming society will only fall on their shoulders.
+
+To help you decide, here are two stories. One to make you realize how easily Internet Age player gods can improve our society today. And soul-crushing regret Industrial Age extras will have for not stepping up.
 
 ## Option 1 - Player God
 
-The Internet Age has many protagonists. Paul Baran is one of the big ones. When the Soviets tested a hydrogen bomb in 1955, Baran took it upon himself to prevent a nuclear holocaust. No kidding. What a guy. Baran realized only an updated, robust, and reliable communications would ease American and Soviet trigger fingers during tense times.
+The Internet Age has many protagonists. Paul Baran is one of the big ones. He's a real-life Jedi if ever there was one. Seriously, Baran took it upon himself to prevent a nuclear holocaust. No kidding. When the Soviets tested a hydrogen bomb in 1955, Baran realized only an updated, robust, and reliable communications would ease American and Soviet trigger fingers during extremely tense stand offs.
 
-Baran worked all alone for five years. By 1960 he came up the internet's two core ideas. Fully distributed data networks, and packet communication. The first eliminated central hubs and hierarchy, the second made sure no information would be lost during transmission. With many pages of technical specifications on hand he went to give his ideas away. Sadly, the Defense Department surrounded him with red-tape, and AT&T, in control of America's telephone network, repeatedly said his ideas were impossible. Happily, the Advanced Research Projects Agency eventually saw the brilliance and built Baran's new network.
+Baran worked all alone for five years. By 1960 he came up the internet's two core ideas. Fully distributed data networks, and packet communication. The first eliminated central hubs and hierarchy, the second made sure no information would be lost during transmission. With many pages of technical specifications on hand he went to give his ideas away. Sadly, the Defense Department surrounded him with red-tape, and AT&T, who controlled America's telephone network, repeatedly said his ideas were impossible. Happily, the Advanced Research Projects Agency eventually saw the brilliance and built Baran's new network.
 
-By late 1969, as the world was dealing with Woodstock, Vietnam, and the Moon land, ARPAnet, the first version of the internet, went online. Reliable communication with no central hub was born. A true game-changer. Few people in the last days of the Industrial Age understood how their world, way of life, and philosophy, had been replaced. The Internet Age was here.
+By late 1969, as the world was watching Woodstock, Vietnam, and the Moon landing, ARPAnet, the first version of the internet, went online. Reliable communication with no central hub was born. Few people in the last days of the Industrial Age understood how their world, way of life, and philosophy, had been replaced. The Internet Age was here.
 
-Think of that when you use the internet. It was created to survive a nuclear holocause. Think of how powerful it must be. And therefore realize how powerful you are. No one can control you on the internet. No professor, executive, president, or king can shut you down. BitTorrents, Netflix, Wikipedia, all these beat Darth Blockbuster, and will only keep getting better. You will always have its majic.
+Think of that when you search Google. The internet was created to survive a nuclear holocaust. Realize how powerful it must be, and therefore realize how powerful you are. The internet is your New World. A place of eternal equality because no one can control you. No professor, executive, president, or king can shut you down. BitTorrents, Netflix, and Wikipedia, all beat Darth Blockbuster, and will only keep winning battles in the war to establish the Internet Age.
 
-Now think of the rest of your technology. Those high-flying drones, sensor filled smartwatches, 20 megapixel cameras, and super computer gaming systems. These tools are your Internet Age cyborgology. If you had those at Woodstock in 1969, not even those drugged up hippies would believe your super powers. You are a unique lifeform in this history, and this Universe.
-
-While psychotic communists and fascists we're trying to improve the world with their murderous social engineering programs and racial genocide, the human species was already evolving peacefully. Anyone can use modern tools to be a modern cyborg.
+Now think of the rest of your technology. Those high-flying drones, sensor filled smartwatches, 20 megapixel cameras, and super-computer gaming systems. These tools are your Internet Age cyborgology. If you had those at Woodstock in 1969, not even those drugged-up hippies would believe your mutant powers. You are a unique lifeform on Earth, and in the Universe!
 
 As Gordon Moore said in 1973 "We are really the revolutionaries in the world today—not the kids with long hair and beards who were wrecking the schools a few years ago." In fact, it's Moore's Law that shows us how much better electronics keeps getting. He predicted that every 12-18 months, the power of computers would double. And he was right. That's why our digital technology is over three million times faster now, then in 1969.
 
-Gordon Moore was part of the "Traitorous Eight" a group of young inventors who founded Silicon Valley. They each had a pivotal hand in creating the integrated circuit, microprocessor, and personal computer. Intel, AMD, National Semiconductor, Eugene Kleiner Perkins, and dozens of other historic companies started by their hands. More than that, they bucked the rigid corporate heiracrchies of the day, and treated every employee as a member. They started companies based on collaboration.
+Gordon Moore was part of the "Traitorous Eight" a group of young inventors who founded Silicon Valley. They each had a pivotal hand in creating the technology like the integrated circuit, microprocessor, and personal computer. Intel, AMD, National Semiconductor, Eugene Kleiner Perkins, and dozens of other historic companies were started by their hands. More than that, they bucked the rigid corporate heiracrchies of the day, and treated every employee as a member. They started companies based on collaboration.
 
-And they broke the rules to do it all. In the late 50's, being an employee meant following orders. The era of mass-production was still in full swing. Everyone was a line worker—a cog in the wheel of machinery. The company told you what to wear, who to socialize with, even what furntiure your office was allowed to have. The company owned you, and had the rulebook to prove it.
+And they broke the rules to do it all. In the late 50's, the era of mass-production was still in full swing. Everyone was a line worker—a cog in the wheel of machinery. The company told you what to wear, who to socialize with, even what furntiure your office was allowed to have. The company owned it's employees, and had the rulebook to prove it.
 
-The heck with all that. The game of civilization rewards inventions, to conformity. The eight young PhD's left to start their own company. And so changed the world.
+The heck with all that. The game of civilization rewards invention and risk, not conformity and business-as-usual. The eight young PhD's left to start their own company. And so changed the world.
 
 SILICON VALLERY VIDEO
-keep in mind, this is not neccesarily an endorsemetn of modern silicon valley
+This is not neccesarily an endorsement of modern silicon valley.
 
-Traitors. Troublemakers. Shameful act. Equality over heirarchy. Invention over the tried and true. Look at your smartphone or laptop. These are the morals that invented that device. Don't take it for granted. Other cultures were investing billions and we have no idea who they are today. Because they using the philosophy of the era of mass production they invented nothing worth holding today. The Traitorous Eight—only eight guys!—were using the new philosophy of mass-collaboration, and thus started the Internet Age.
+Traitors. Troublemakers. Shameful act. Equality over heirarchy. Invention over the tried and true. Look at your smartphone or laptop. These are the morals that invented that device. Don't take it for granted. Other business cultures were investing billions and we have hold any of their tools today. Because they used the philosophy of the era of mass production. Whereas the Traitorous Eight—only eight guys!—used the new philosophy of mass-collaboration, they helped start the Internet Age.
 
-You're already a super human cyborg. You've already addicted to the majic of the protagonists new tools. You already believe in mass-collaboration. You're ready to be a player god. All it takes to jump into the Internet Age, is the click of a new ideals that tell individuals what's right and wrong, good and bad, in science, art, morals, politics, and economics. Philosophy is supposed to unite individuals to see the big picture; that everyone's choices matter, because everyone is a player god. When all factions/ideologies agree, society can win the game of civilization.
+Mixing the internet with personal computers makes you a super human cyborg. All it takes to jump into the Internet Age, is the click of a new set of ideals of right and wrong, good and bad, in science, art, morals, politics, and economics. Only a new ruling philosophy will unite us to see the big picture; that all our  choices matter, because we're all player god. Only player gods can win the game of civilization.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/DetailedAnyIndianpangolin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 _This is Moore's Law as seen through video games. Every improvement means better processors, memory, artificial intelligence, and so much more. Each improvement also means better education, schooling, cancer research, crime fighting, electricity generation, product design and manufacturing and so on. We've technically evolved so fast, we've far outpaced our politics. We need to click a new philosophy to make use of our technology._
 
-We have all this power, and we're marching for change? Letting useless political pundits tell us if climate change is real? Listening to leaders who've never invented anything or risked anything? We're letting Darth Blockbuster tell us to... what? Follow his rules that only make him king? That's like thinking the casino games are fair and balanced and not designed to in the houses favour.
+We have all this power, and we're letting political pundits tell us if climate change is real? Listening to radio talk show hosts who've never invented anything or risked anything? We're letting Darth Blockbuster tell us to... what? Follow his rules that make him king? That's like thinking casino games aren't designed in the houses favour.
 
-Climate change, human migrations, widespread obesity, antisocial behavior, soaring national debt, unhappy marriages, traffic filled roads. Our list of problems is huge, because we the people aren't using the stupendous power of modern technology, to update our way of life to the Internet Age.
+Climate change, human migrations, widespread obesity, antisocial behavior, soaring national debt, unhappy marriages, traffic filled roads. Our list of problems is huge, because we the people aren't using the stupendous power of modern technology, to evolve our civilization.
 
-If you chicken-out from having the right and duty to think of the big-picture, play the game of civilization, and improve your slice of the world, then you've chosen to be an extra watching the story of civilization. You've chosen an unhappy life because you think someone else will solve our problems. There's nothing moral about that decision, because a ruling philosophy worth following is one that facilitates evolution, and Right/Left philosophies, and the rules of the era of mass-production, no longer do that.
+If you chicken-out from playing the game of civilization, and improve your slice of the world, then you've chosen to be an extra watching the story of civilization. You've chosen an unhappy life because you think someone else will solve our problems. There's nothing moral about that decision, because a ruling philosophy worth following is one that facilitates evolution; and Right/Left philosophies, and the era of mass-production, no longer do that.
 
-If want to be an extra. Here's our future.
+But if want to be an extra. Here's our future.
 
-## Being an Extra Forever With Darth King Charles
+## Option 2 - Extra
 
-Remember the Thirty Years War, when an unhappy Main Street was tearing itself apart in the name of Protestant and Catholic kings; adding to that anarchy was King Charles. He shows us the story today's extras think they want to watch.
+Remember the Thirty Years War, when an unhappy Main Street was tearing itself apart in the name of Protestant and Catholic kings; adding to that anarchy was King Charles. He shows us the story today's extras think they can stomach.
 
-Charles ruled England as a proud protestant king. His father King James taught him from birth that the "nobles right to rule" was a matter of faith, not self-interest. In fact it was King James who commissioned the "King James Version" Holy Bible. James wanted regular people to read the holy Word, and among other lessons, understand why kings are their natural leaders.
+Charles ruled England as a proud protestant king. His father King James taught him from birth the "nobles right to rule" was a matter of faith, not self-interest. In fact it was King James who commissioned the "King James Version" Holy Bible that's still considered a great work of literature. James made it beause he wanted regular people to, and among other lessons, understand why kings are their natural leaders.
 
-England has a variety of Christians. All of whom believed in a kings right to rule. However, England did have an elected Parliament. But in Charle's eyes it was only supposed to advise the king. Parliament however hold a lever of power. After some revolts in the Middle Ages, the elected representatives had the power to approve new taxes.
+At the England had a variety versions of Christianity. They all of whom believed in a kings right to rule. However, England did have an elected Parliament. But in Charle's eyes it was only supposed to advise the king. Parliament did, but it also held a lever of power. After some revolts in the Middle Ages, the elected representatives had the power to approve, or reject, new taxes.
 
-Like most kings, Charles and his father spent lavishly. England went broke under Charles' watch, and he needed to raise new taxes. Parliament, filling up with idealistic Christians (especially Purtitans, the ones who fled to America and started Thanksgiving) wouldn't say yes until they got more political powers. In turn, Charles refused to talk to them. In fact, the king sent parliament home and ruled by himself for over 10 years. The king got his money by using the ancient feudal rulebook. One example, he fined men who didn't come to his royal coronation.
+Like most kings, Charles and his father spent lavishly; palaces and jewelery don't come cheap. With the Thirty Years War raging, it wasn't long before England went broke and Charles he needed to raise new taxes. Parliament, filling up with idealistic Christians (especially Purtitans, the ones who fled to America and started Thanksgiving) wouldn't say yes until they got more political powers. In turn, Charles refused to talk to them. In fact, the king sent parliament home and ruled by himself for over 10 years. The king got his money by using the ancient feudal rulebook. One example, he fined men who didn't come to his royal coronation.
 
-And here is the break in society extras should fear. There was no room in the ruling philosophy to resolve this disagreement. The people felt empowered by modern technology, they lived in a improving civilization, they frontline pain, but their ruling philosophy was based on the environment of anarchy of Rome's fall. Without Rousseau's new philosophy, the people and the leaders could only resort to war, to solve their political problems.
+And here is point in history we all should fear. Government was broke. It needed more money. England wasn't broke. If was in the middle of the Science Age, and thus enjoying all the benefits of better calenders, recod keeping, navigation equipment and so forth. It was precisely because England was upgrading to more advanced ages that caused the government problem.
+
+Inside the Science Age, Main Street were very empowered by modern technology. Not since Roman times were so many people reading philosophy, literature, and geography. Buying pots, knives, clothes from around the world. Regular people were thriving, but their ruling philosophy was based on the anarchy of Rome's fall. Kings were the leaders. No one knew any better. And without Rousseau's new philosophy, the pissed off people and the self-important leaders could only resort to war, to solve their political problems.
 
 Which is what happened. Parliament eventually got sick being avoided. They raised an army. Charles did the same, and the two sides fought the English Civil War (1642–1646). The Parliamentary Army was local Protestants devoted to democracy—and on their way to becoming player gods—who chose their own leaders by merit, and suspected Charles was a closet Catholic. Charles's Royalist Army were mostly nobles who hired foreign mercenaries to fight for them.
 
@@ -1273,13 +1265,13 @@ _Before Rousseau's new philosophy, the people had a hard time justifying being p
 
 After four years of grusome battles and bloodshed, Charles lost. He was held under arrest, while rules for a less powerful "constitutional monarchy" were being made by the Parliamentarians. Charles then escaped, hired a new army, and fought the Second English Civil War (1648–1649). Charles lost again. The victorious Parliamentarians were now enraged.
 
-They forgot about making a constitutional monarchy, and instead charged Charles for crimes against the English people. These newly minted player gods wanted all the levers of power. Charles didn't budge. The ruling philosophy said he was king. The Bible—his father's Bible!—said so. So, Charles refused to speak to the court; a father doesn't answer to his children.
+They forgot about making a constitutional monarchy, and instead charged Charles for crimes against the English people. These newly minted player gods wanted all the levers of power. Charles didn't budge. The ruling philosophy said he was king. The Bible—his father's Bible!—said so in plain English. So, Charles refused to speak to the court; a father doesn't answer to his children.
 
 https://www.youtube.com/watch?v=zjxu1De8npY
 
-Soon, Darth King Charles stood before a crowd of thousands. At the foot of his own chopping block. And it was quite the show.
+Soon, Darth King Charles stood at the foot of his own chopping block. And helps us understand being an extra is by far the worst path for anyone to pick.
 
-## Charles Speaks - The Proof is in the Words
+## Charles Speaks His Antagonist- The Proof is in the Words
 
 Public speaking is hard for most everyone, and for Charles it was near impossible. Charles had a speech impediment. Often called a stammer or stutter. No one then, or even now, understands what causes it. For a stutterer, talking is like playing guitar with music notes written on the spot by a gremlin. Some words are easy to say, some are ~~difficult~~ hard, and some decide which at the last mili-mili-mili-second.
 
@@ -1289,62 +1281,70 @@ The physical pain isn't even the worst. Getting _that_ look from people is. The 
 
 _"Hello, my ~~name~~ I'm Charles. I wa-want can want to ~~help~~ discuss, the situation with the, ~~Parliament~~ House of Parliament or the-the-the-the people inside, theeee Commons..."_
 
-And the worst part is, you know you'll talk to people about your problem. That's why stuttering forces a person to be quiet, shy, passive, and eager to please. It's very frustrating because one doesn't stutter when alone, swearing, singing, talking to a dog (Charles had two), or—sometimes—speaking through a "character".
+Actually, the worst part is, you know you'll never talk to people about your problem. That's why stuttering forces a person to be quiet, shy, passive, and eager to please. It's very frustrating because one doesn't stutter when alone, swearing, singing, talking to a dog (Charles had two), or—sometimes—speaking through a "character".
 
-But, in average conversation, the gremlin forces erratic speaking, random silence, binge drinking, and hopelessness. It's entirely possible Charles' relationship with Parliament was so bad because he simply didn't want to face the gremlin. I mean, should a divine king have one?
+But for some damn reason, in everyday conversation, the gremlin forces erratic speaking, random silence, binge drinking, and hopelessness. It's entirely possible Charles' relationship with Parliament was so bad because he simply didn't want to face the gremlin. I mean, should a king have one?
 
 My speech impediment was why I got a job in a car insurance claim department. After a vice-president at an old company secretly told my supervisor I wasn't allowed to talk to customers—for fear of embarrassing the company—I was like shit, I guess I don't have this damn gremlin under control. Of course I was hurt, but I never told anyone I had the impediment, so, despite therapy as a kid, it was obviously still a problem.
 
-So, fuck it. I decided to jump in the ocean and sink or swim. The call-center was scary. Like a horror movie. Gremlins waiting aroung every corner. A daily workout of all-day phone calls, angry drivers, customer service expectations, no "outs" like swear words, drinking games, or wonky behavior to hide behind. I was like that desert fox learning to swim, who keeps telling himself, "I'm getting better!."
+So, fuck it. I decided to jump in the ocean and sink or swim in the scary waters of a call-center. Like a horror movie, gremlins waiting aroung every corner. A daily workout of all-day phone calls, angry drivers, customer service expectations, no "outs" like swear words, drinking games, or wonky behavior to hide behind. But I stayed with it, like that desert fox learning to swim, who keeps telling himself, "I'm getting better!."
 
 And it was far worse than I thought possible. The insurance company wanted adjusters to answer ever more phone calls. To incentive us, they'd ring a monotone "bell" because… I don't know.  They never said why (probably because they're stuck in the Industrial Age) we employees learned questioning "the bell" was a bad idea. Management used it as punishment; "answer more phone calls or we'll make the bell faster and louder!"
 
 I'm being serious by the way. We were often more stressed then the person who just had a car crash. Whatever the reason, DING-DING-DING-DING-DING-DING-DING-DING almost all day—which gave people who weren't stutterers tremendous anxiety, breakdowns, and stress leaves.
 
-Super-shock speech therapy! After about a year, I didn't have to massage my jaws at night to release it from all the teeth shattering jaw-clenches I did to divert vocal stuttering. I killed that fucking gremlin! And that's what it took for me to greatly improve my fluency. Like a desert fox joining a scuba diving club, I walked around a new, happier, person.
+Super-shock speech therapy! After about a year, I didn't have to massage my jaws at night to release it from all the teeth shattering jaw-clenches I did to divert vocal stuttering. I killed that fucking gremlin! And that's what it took for me to greatly improve my fluency. Like a desert fox swimming with Nemo, I walked around a new, happier, person.
 
-Yet, Charles never had this lesson. In fact, he didn't have any lessons. No therapy lessons to learn "turtle talk". No field trips to practice ordering pizza with professional guideance. He's gremlin didn't even have a name like "speech impediment". Like everyone without professional help, he was all alone trying to make sense of Nature's gremlins.
+Yet, Charles never had this lesson. In fact, he didn't have any lessons. No therapy lessons to learn "turtle talk". No field trips to practice ordering pizza with professional guideance. He's gremlin didn't even have a name like "speech impediment". Like everyone back in the day when doctors prescribed blood-sucking leeches, he was all alone trying to make sense of Nature's gremlins.
 
 Charles adapted as anyone would. He was famously shy, quiet, and antisocial his whole life. Even when fighting for 16 years defending his ruling philosophy, Charles still probably had to massage his strained jaws every night.
 
 And now, Charles, God's King, was accused of being "a Tyrant, A Traitor, Murderer, and a public enemy to the Commonwealth of England." This was a watershed moment in modern human history. For the first time the people weren't replacing one king for another. They were killing the king, and replacing him with themselves. The people would control all the levers of people and be their own player god.
 
-Charles was devoted to his father, his faith, and his conscience. Being a king was his responsibility, his burden. So at his trial he (on purpose) said nothing. The judges convicted Charles anyway. The convicted king was astounded. To Charles, and most everyone else, killing a king would be like us seeing the laws of physics being broken.
+This was a total shock to Charles. It would be like us letting a doctor put leeches on our kid to cure a cold; or watching the laws of physics being broken. It simply makes no sense that a king, isn't the king. There's no rule to reference, no justification to use. The ruling philosophy is the Matrix, and the Matrix is supposed to keep everyone in line.
+
+Charles wasn't going to break ranks. He was devoted to his father, his faith, and his conscience. Being a king was his responsibility. So at his trial he (on purpose) said nothing. The judges convicted Charles anyway. The convicted king was astounded.
 
 Charles next chance to speak would be at his own chopping block.
 
-![New Tool Creation](/img\diagrams\techvolution-whitehall-charles.jpg)
-_This is Whitehall. A palace built by Henry VIII. Charles waited here before he was executed on a scaffold outside the room. On the ceiling is a painting commissioned by his father which shows him being taken to heaven by angels. Charles was raised his entire life to be a divine king. Could you see outside the divine rights of nobles if you were him?_
+![Whitehall](/img\diagrams\techvolution-whitehall-charles.jpg)
+_This is Whitehall. A palace built by Henry VIII. Charles walked through here to a scaffold and his chopping block. On the ceiling is a painting commissioned by his father which shows James being taken to heaven by angels. Charles was raised his entire life to be a divine king. Could you see outside the divine rights of nobles if you were him?_
 
 ## Charles Speaks
 
 Fuck the ringing bell of a claims department, imagine the stress of a stutterer minutes from execution, having to say something to defend civil wars, his throne, and his family's place in history. I can't explain how anxious he would have been. For sure he feared the emotional pain of silence, more than getting his head chopped off.
 
-Now Charles had to stand before these uppity, sinning, want to be player gods, at his own chopping block. He had one last chance to say something. And he said this:
+ ![Charles Speaks](img\diagrams\techvolution-charles-speaks.jpg)
+
+Now Charles had to stand before these uppity, sinning, want-to-be player gods. He had one last chance to say something. And he said this:
 
 > Truly I desire their (the people's) liberty and freedom as much as anybody whomsoever; but I must tell you their liberty and freedom consist in having of government, those laws by which their life and their goods may be most their own. It is not for having a share in government, Sir, that is nothing pertaining to them. A subject and a ruler are clear different things... therefore I tell you that I am the Martyr of the people. I die a Christian according to the profession of the Church of England, as I found it left me by my father... I have a good Cause and I have a gracious God...I go from a corruptable to a incorruptable crown.
 
-Charles spoke eloquently everyone was impressed. He'd never spoken with such clarity and passion before. I must say I'm happy for him. In Charles' head, the angels about to take him to heaven, killed his gremlin. I know the feeling; it is heavenly to say what's on your mind.
+Charles spoke so eloquently everyone was impressed. He'd rarely spoken with such clarity and passion before. In Charles' head, the angels about to take him to heaven, killed his gremlin before lifting off. I must say I'm happy for him; it is heavenly to say what's on your mind.
 
-What really happened is amazing. What should have been extremely stressful; the crowds, the soldiers, his lost royalty, and his executioner, were Charles' freedom. He knew nobles had the divine right to rule. Everyone else had gone mad, and why be anxious around madmen?
+There were no angles, and no gremlin either. Stuttering is an anxiety disorder. So what really happened is amazing. What should have been extremely stressful; the crowds, the soldiers, his lost royalty, and his executioner, were Charles' freedom. He was 100 percent positive nobles had the divine right to rule. Everyone else had gone mad, and why be anxious around madmen?
 
 We do our best to understand history with songs, books, and images. But we can't time travel. We can't go into Julius Caesar's or Cleopatra's minds and fully understand their motives. But, by luck or good fortune, I can go into Charles' mind at this moment in history. And one of history's most evil Antagoinst Kings, was a moral man. He had no hate in his heart. In fact, it was his morality that killed the gremlin. It's the only way he could have spoken a word on that scaffold.
 
 Charles was a victim. A regular person told he was king. When asked to throw that away, it was like being asked to wake up from the Matrix. Could you do any better?
 
-Being so high up the heirarchy, the game of civilization meant nothing to him. Why would it? He never felt frontline pain—not in even the battles he caused. And that's the  point, it's not his job to decide when to upgrade civlization. He's not on the frontline. You are.
+Being so high up the heirarchy, the game of civilization meant nothing to him. Why would it? He never felt frontline pain, not in even the battles he caused. And that's the point, it's not his job to decide when to upgrade civlization. He's not on the frontline. You are.
 
-Without the new philosophy of Rousseau, Main Street kept fighting and murdering each other for generations; all in the name of the king. In fact, When the Puritan democracy ended in 1658, Charles son James II, was put on the throne. It wasn't long before he took his revenge--all those who signed Charles' death warrant, were killed.
+## Extras Die Off
+
+And that's the choice Extra make today. Because without the new philosophy of Rousseau, Main Street kept fighting and murdering each other for generations; all in the name of the king. In fact, When the Puritan democracy ended in 1658, Charles son James II, was put back on the throne. No one knew any better. It wasn't long before he took his revenge—everyone who signed Charles' death warrant was killed.
 
 And that's the point to this story. Even though Main Street was inside a new age, very unhappy, and victorious in the two civil wars, without a new philosophy, the antagonists still ended up winning.
 
 So, if you stay an extra, that's your fate. You'll limit your politics to the current system of Left and Right. You'll argue with antagonists. You'll march and scream for change. Eventually you'll gather and fight. And in the end, nothing will change.
 
-Because every new age, needs a new ruling philosophy, and we can upgrade right now, because we can learn from our ancestors on Main Street who used Rousseau to "hear the people sing". Techvolution is made a philosophy for a modern age, one custom built to harness the amazing tools that the Traiterous Eight, and Internet Age protagonists put in our hands in our real-life game of civilization.
+Because every new age, needs a new ruling philosophy, and we can upgrade right now, because we can learn from our ancestors on Main Street who used Rousseau to "hear the people sing". Techvolution is a philosophy for a modern age, one custom built to harness the amazing tools that the Traiterous Eight, and Internet Age protagonists put in our hands in our real-life game of civilization.
+
+You are the player god. Politics is meant to solve our problems. Political power is controlling the levers of power. If Main Street reaches for digital tools and solves their own problems, we'll be player gods and usher in the Internet Age.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/CandidFeistyBuckeyebutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-The question is, is it going to click?
+The question is, did Techvolution click?
 
 ## Time to Act Stargazer
 
@@ -1364,7 +1364,7 @@ I wanted to write dialogues for you here. I'd love to have Antagonists and Prota
 
 I would love to write stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society, to transform our society into the Internet Age.
 
-Imagine it like Linus Tech Tips on steroids. In fact, today's "geeks" are really majicians in waiting. Waiting to attach roofers with drones, cleaners with IR cameras, craftsman with 3D printers. Majicians make modern cyborg makers; they bring on the era of mass-collarboration like Jedi warriors.
+Imagine these heroes as Linus Tech Tips on steroids. In fact, today's "geeks" are really majicians in waiting. Like revolutionaries of old, these are the people will attach roofers with drones, cleaners with IR cameras, craftsman with 3D printers. Majicians make modern cyborg makers; they bring on the era of mass-collarboration like Jedi warriors.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/whimsicalleadingfirebelliedtoad">via Gfycat</a></p>
 _An ideallized view of mass collaboration. No antagonists or extras, just protagonists and player gods._
@@ -1373,9 +1373,9 @@ But I can't keep thinking for you. Nor do I want to keep holding your hand. This
 
 Our unhappiness is a fire alarm. Left and Right will take us down as they fight to stay alive in the Internet Age. To reverse our fortunes, we must upgrade to the Internet Age ourselves, and embrace the era of mass-collaboration. To do that, we need Techvolution, a new philosophy that gives the right, and duty, to frontline people to use digital tools to solve their real-life problems.
 
-Look around, and see old drafty windows, gas engine cars, call-centres, cable news, mass-producted toys, stupid commercials, eight different bosses, another corporate meeting, car traffic, leaky windows... Do you see the Industrial Age? Do you want to improve your part of the world with new tools, and use these tools as a lever of power to affect more evolution?
+Look around, and see old drafty windows, gas engine cars, call-centres, cable news, mass-producted toys, stupid commercials, eight different bosses, another corporate meeting, car traffic, leaky faucets... Do you see the Industrial Age? Do you want to improve your part of the world with new tools, and use these tools as a lever of power to affect more evolution?
 
-Or do you want to return to the comfort and safety of being a 1969, bragging about gas cars, fake job titles, and McMansions, while following the antagonists rules, and chasing the phantoms of Left/Right politics. Did Techvolution click? The fate of your life, your kids, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
+Or do you want to return to the comfort and safety of being a 1969 extra, bragging about gas cars, fake job titles, and McMansions, while following the antagonists rules, and chasing the phantoms of Left/Right politics. Did Techvolution click? The fate of your life, your kids, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
 
 If you do, we win. If you don't, we lose.
 
@@ -1572,7 +1572,7 @@ Feeling the pain is the best way to respond to it. The further one is from the f
 
 **The Power of Stories**: Aristotle's Poetics, and especially David Mamet's On Directing Film. Learning storytelling so darn well, it's layers and components, characters and motivations, is what I used to intepret Hegelian dialectics. I'm writing "How to See the Matrix" using these tools. It's much more detailed analysis of all this stuff.
 
-**Ruling philosophy**: comes from Aristotle's regmine. Regime is the form of government or the set of rules, cultural or social norms, etc. that regulate the operation of a government or institution and its interactions with society. Aristotle noted  the forms of government are democracy, oligarchy, aristocracy, monarchy. The supreme right to judge and decide is with with either a part or the whole of one or other of these governing powers; which together make up a socieyt's regmine or ruling philosophy.
+**Ruling philosophy**: comes from Aristotle's regime. Regime is the form of government or the set of rules, cultural or social norms, etc. that regulate the operation of a government or institution and its interactions with society. Aristotle noted  the forms of government are democracy, oligarchy, aristocracy, monarchy. The supreme right to judge and decide is with with either a part or the whole of one or other of these governing powers; which together make up a socieyt's regmine or ruling philosophy.
 
 A Democracy is a form of government under which the citizens distribute the offices of state among themselves, whereas under oligarchy there is a property qualification, under aristocracy one of education. By education I mean that education which is laid down by the law; for it is those who have been loyal to the national institutions that hold office under an aristocracy. These are bound to be looked upon as 'the best men', and it is from this fact that this form of government has derived its name ('the rule of the best'). Monarchy, as the word implies, is a rule which one man has authority over all. There are two forms of monarchy: kingship, which is limited by prescribed conditions, and 'tyranny', which is not limited by anything.
 
@@ -1581,6 +1581,8 @@ We must also notice the ends which the various forms of government pursue. The e
 **Protagonist and antagonist**: is Hegel's Thesis, Antithesis, Synthesis dialectics. After centuries of histories, looked back at the trends, and said there was a ruling philosophy, whose problems manifested into a competitor, the two would eventually fight it out, and make a new ruling philosphy that merged the two together. He also said master–slave is a relationship that recurs throughout humanity, and is the reason we looked at Frederick Douglas and Neo, who while was the physical slave, his captors were the mental ones, bound to a horrible social system as much as Frederick was. Frederick's process of self-discovery, was how slaves realize their status and break free.
 
 **Cyborgology, majic, frontline**: are Darwinism. The evolution of lifeforms based on their tools to collect resources. Life started out as simple organisms, and as these primitive lifeforms struggled to survive, they adapted better —biological—tools to do so. Eventually the benefits of biology maxed out with us, and so we have to continue evolution with tools. We similarly started to evolve (techvolve) with primitive tools, which slowly got better and better.
+
+**Mixed Ideological Politics**: This didn't make it into ANP. But it's based on the separation of Church and State. Except now it's the separation of ideology and economy.
 
 **The Death Star**: working insurance :)
 

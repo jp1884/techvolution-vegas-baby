@@ -69,6 +69,7 @@ Have to integrate the next several chapters into a Life Star sequence, and use t
 - Rossman, think of neighbors as my source of help, not my source of competition. we have to know each other's "business" to have each other's back. Fight back with Life Star knowledge is power, not only regulation battles.
 - With Techvolution, you won’t fight political battles with bristol boards or painted faces. You’ll economically exercise your right to vote, by deciding which tools best solve your problem at home, work, and play. Unlike me, you’ll never need to deal with any gatekeepers, because you won’t have to knock at anyone’s door asking permission to do what’s best for you. Only nature's rules will end the gatekeepers.
 - https://soundcloud.com/bloomberg-business/episode-5-the-world-isnt-getting-pricier-fast-enough geo-centric economist trying to make the numbers keep working
+- You can thus think of the collection of player gods as an ecosystem. Either your lifeform actively working to harvest resources inside a food chain, or an extra who doesn't belong.
 
 ==
 
