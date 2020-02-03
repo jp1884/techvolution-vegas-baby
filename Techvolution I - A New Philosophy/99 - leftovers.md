@@ -2198,3 +2198,6 @@ Darwin said our genes are set in stone, and it's the fittest who survive. Soviet
 
 The further we go into the Internet Age, the more Progressive and Conservative ideologies get more out of date. You can already see them protecting their ideologies via phantom chasing for racists and socialists behind every corner. Fat-shaming, trigger words, death taxes, Some people will go to extremes against others to protect their own identities. Watch out.
 
+## The End1
+
+Our unhappiness is a fire alarm. Left and Right will take us down as they fight to stay alive in the Internet Age. To reverse our fortunes, we must upgrade to the Internet Age ourselves, and embrace the era of mass-collaboration. To do that, we need Techvolution, a new philosophy that gives the right, and duty, to frontline people to use digital tools to solve their real-life problems.

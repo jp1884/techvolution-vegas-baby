@@ -704,7 +704,7 @@ Over the next decades things changed. Television came in 1948, which hurt movie 
 
 By this time the movies were no longer run by master storytellers but by businessman obsessed with mass-production. The industry lost it's ability to tell original stories. Instead, they made sequels, remakes, and franchises. Each new release had to use more rauchiness, special effects, and celebrities to attract attention. Movie attendence didn't rise in the 1980s and 90s—jacked up popcorn prices weren't enough to save many theatres chains from going bankrupt—but studios didn't care. They made money outside the theatre.
 
-Because the public rushed to rent VHS tapes from Blockbuster. Even though they sued VCRs, studio's happily used theatres to hype up the growing rental business, especially Blockbuster (1985) who rose to VHS rental dominace by using bar-codes to keep track of thousands of videos. Which let them distribute far more titles, and charge millions in late-fees. When the DVD and flatscreen televisions came (1999), the industry was gleeful. As the public abandoned movie theatres and crazed over home theatres, they bought billions of DVDs and gleefully watched their favorite stories at home.
+Because the public rushed to rent VHS tapes from Blockbuster. Even though they sued VCRs, studio's happily used theatres to hype up the growing rental business, especially Blockbuster (1985). Blockbuster rose to VHS rental dominace by using bar-codes to keep track of thousands of videos. Which let them distribute far more titles, and charge millions in late-fees. When the DVD and flatscreen televisions came (1999), the industry was gleeful. As the public abandoned movie theatres and crazed over home theatres, they bought billions of DVDs and happily watched their favorite stories at home.
 
 Fundamentally speaking, movie theatres and home theatres, were technologically the same. The customer still needs to drive to a physical product, be it a film reel or DVD. And here was the sweet spot of the Industrial Age powers. The industry could use digital technology to lower the costs of mass-production, while still charging premium prices. Why would movie studios or Blockbuster more convienent distribution, or tell better stories?
 
@@ -712,9 +712,9 @@ No reason except evolution. Because true to form, technology kept getting better
 
 ![Techvolution battle](/img\diagrams\techvolution-battle.png)
 
-I was a theatre usher/projectionist back then and saw it all first hand. Most movies stunk: comedies, tradegies, dramas, suspense, usually fell flat. Theatres were over-priced and often empty. Customers were unhappy. The industry didn't care. They gave themselves lavish paychecks, banquets, and award shows. Any consideration of the upgrading their customers to the Internet Age was non-existant.
+I was a theatre usher/projectionist back then and saw it all first hand. Most movies stunk: comedies, tradegies, dramas, suspense, usually fell flat. Theatres were over-priced and often empty. Customers were unhappy and often told me so. The industry didn't care. They gave themselves lavish paychecks, banquets, and award shows. Any consideration of the upgrading their customers to the Internet Age was non-existant.
 
-So no, the industry wouldn't throw away the DVD. Instead, they doubledowned on it. Twice! They made HD-DVD and Blu-Ray (2006). The increased the dark majic of marketing, DVD packaging, and celebrity featurettes.
+So no, the industry wouldn't throw away the DVD. Instead, they doubledowned on it. Twice! They made HD-DVD and Blu-Ray (2006). The increased the dark majic of marketing, DVD packaging, and celebrity featurettes. The tops of the movie heirarchy were happy the way things were.
 
 In swoops today's internet Jedi on an ethernet chandlier. Unknown and unpaid technologists created BitTorrent sites, that although filled with computer viruses, bad picture quality, and poorly designed user interfaces, gave regular people movies on the internet. Here, the dark majic of DVDs, faced off against the majic of internet streaming.
 
@@ -728,15 +728,19 @@ A decade before the music industry was in the same spot. Record stores and CD sa
 
 _Average North American theater gross for each Oscar Best Picture winner. As the movies were dying, the industry fought back with excuses and lawsuits, instead of innovation and evolution. People didn't even bother watching Oscar movies on Netflix either. All numbers from boxofficemojo.com._
 
-The movie industry rejected the lesson. Ever notice how online movies don't include opening credits, red-carpet interviews, and political charged speeches. That's the people erasing dark majic, and enjoying the simple majic of a new, and better tool, telling the story they want so badly.
+The movie industry rejected the lesson. Ever notice how online movies don't include opening credits, red-carpet interviews, and political charged speeches. When the controlled movies, the first thing they did was erase useless dark majic, so they can enjoy the simple majic of a new story.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PleasantRegularGibbon' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+_Modern movies versus premium television. Here's is Game of Thrones reactions. People love good stories because they make us shake in our seats. Not because the seats shake. But movie theatres get what Hollywood gives them, so they do what they can._
 
 When DVD dark majic lost out to the majic of streaming, the industry fired up the Death Star. The same public who bought billions of dollars on DVDs and merchanise. That was paying 800 million a year in DVD late fees. That created fan clubs and flocked to comic-cons, was declared evil. The movie industry put FBI warnings on their products, lobbyied government for harsh punishments, and demanded the public feel ashamed for not buying DVDs anymore. Customers were sued, threats of lawsuits were mailed out. The industry refused to evolve, and so called their own customers disloyal thieves.
 
-And here was born Darth Blockbuster. He was actively and knowingly trying to force humanity to keep using his old tools in our cyborgology. Rather than gluing us in our seats with good stories, Hollywood he was gluing DVDs is our hands with the Death Star, and preventing society upgrading to the Internet Age. But before we find if the villian could save the DVD (I know you know the answer, but indulge me), let's take a short break.
+And here was born Darth Blockbuster. He was actively and knowingly trying to force humanity to keep using his old tools in our cyborgology. Rather than gluing us in our seats with good stories, Hollywood he was gluing DVDs is our hands with electric seat motors and the Death Star, and preventing society upgrading to the Internet Age. But before we find if the villian could save the DVD (I know you know the answer, but indulge me), let's take a short break.
 
 ![Frontline movies full](/img\sketches\frontline-movies-full.jpg)
 
-_Today, most movies stink, most theatres are dead, most people don't even stream or "steal" movies anymore. They're watching good stories on Netflix. That's you Stargazer, looking at the frontline after removing the dark majic mask that had you watching pompeous banquets giving out awards to movies you've likely not even seen._
+_Today, most movies stink, most theatres are dead, most people don't even stream or "steal" movies anymore. They're watching good stories on HBO Go, and Netflix. That's you Stargazer, looking at the frontline after removing the dark majic mask that had you watching pompeous banquets giving out awards to movies you've likely not even seen._
 
 # Intermission
 
@@ -764,7 +768,7 @@ _You're happiness is the best statistic about our civlization's health. But here
 
 Using Industrial Age philosophies as our ruling philosophy makes us polar bears in the Amazon. Seriously, think of it— in 2020, our environment is different, our societies are different, and our cyborgology is different. We are a different people being forced to live as if it were 1969. It can be hard to see, because there's nothing wrong with polar bears, or the Amazon; but neither is adapted for each other. Same goes for a person in 2020—who owns a laptop, hi-speed internet, VR glasses—but is driving through two hours of traffic, to work at a call-centre.
 
-If you would see adaptions like a camel's water retaining hump near the Great Lakes, or a eagle eyes inside a cave system, you'd stop and wonder; "why are these biologies here?". When you likewise see out of place cyborgologies like textbooks, fax machines, and checks in our societies, you should now know something is wrong. Likely it's that Darth Blockbuster stopped our evolution, to keep his cyborgologies in power. Hopefully we can defeat him in time to celebrate saving the polar bears.
+If you would see adaptions like a camel's water retaining hump near the Great Lakes, or a eagle eyes inside a cave system, you'd stop and wonder; "why are these biologies here?". When you likewise see out of place cyborgologies like textbooks, fax machines, and checks in our societies, you should now know something is wrong. Likely it's that Darth Blockbuster stopped our evolution, to keep his obsolete cyborgologies in power. Hopefully we can defeat him in time to celebrate saving the polar bears.
 
 ## Made In America
 
@@ -778,7 +782,7 @@ To start winning the game in the Internet Age, Main Street must demand "Made In 
 
 https://www.youtube.com/watch?v=QKcneQ6N50Q&feature=youtu.be&t=50
 
-_A re-creation of American Industrial Age powers doing business in the 1960s. Trying to figure our how to Industrial Age happiness. The juniors of this world, with no idea how to make anything, kept doing business inside marketing meetings and boardrooms after the Internet Age hit, sold out their industries, and became Darth Blockbusters._
+_A re-creation of American Industrial Age powers doing business in the 1960s. They are trying to figure out how to keep their obsolete products relevant. When the Internet Age hit in 1969, the "juniors" of this world, with no idea how to make anything, kept doing business the same way. They sold out their factories, engineers, and plants, and became Darth Blockbusters._
 
 ## What's That Called
 
@@ -804,40 +808,27 @@ When you think of politics, you should think of tools. When you think of tools, 
 
 In the Internet Age, we can start to control our own levers of powers with Hyrdroloop Water reclaimers, custom designed hoems, Agrigrow agriculture, and Tesla Solar Panels. Once we believe in Techvolution, we'll be player gods in our minds. Once we control our own levers of power, we'll be player gods in reality.
 
-## Old Philosophy vs. New Philosophy
+## Does The World Needs to Know
 
-Techvolution is a philosophy book, but I don't directly reference past philosophies. Like any topic it takes some practice to read. However, let's have a peek and appreciate the strong beliefs of past protagonists and antagonists.
+Dart Blockbuster heads a heiarchiy. There's lots of people inside who fight for his cause. Dealing with these people is sometimes hard. They define success as rising up the ranks. If you're "beneath" them, they assume they're better than you and act like it.
 
-Below are two snippets from two influential philosophers. The passages will help explain how an antagonist can think themselves so right, when history proves them so wrong. I won't comment much on either passage. Just know both of these writers motivated generations of followers to fight to the death.
+If you feel intimidated by one of these peopel, just press the button below.
 
-===
+<a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank" class="button primary large">Equalizer Button</a>
 
-  >SINCE the time that learning began to flourish there has been a common opinion maintained which affirms: "Mankind is naturally endowed and born with freedom, and at liberty to choose what form of government it please, and that the power which any one man has over others was at first bestowed according to the discretion of the people."
+It randomly selects a Wikipedia article. I got Lorenz Nieberl a German bobsledder, Sandamías a village in northern Spain with 67 residents, and Aartsenia arctica, a sea snail. Anyone can make a Wikipedia article. So someone out there said, "the world needs to know" about these people, places, and things and made one. But, no one has ever thought that about your personal Darth Blockbuster. You haven't, have you?
 
-  But how this vulgar opinion has of late obtained a great reputation is unknown to me. It is not to be found in the ancient fathers and doctors of the true Church. It contradicts the doctrine and history of the Holy Scriptures, the practice of all ancient monarchies, and the very principles of the law of nature. It is hard to say whether it is more erroneous in divinity or dangerous in policy.
+That should put things into perspective for you. The game of civilization doesn't care about self-image, only contributions to win the game—which is what makes people think "the worlds needs to know".
 
-  This desperate assertion whereby kings are made subject to the judgements and deprivations of their subjects follows as a necessary consequence of foolhardy position of the supposed natural equality and freedom of mankind, and liberty to choose what form of government it please.
+## Ideological Filters Are Deadly
 
-Patricia, Or the Natural Power of Kings
-by Robert Filmer
-1680
-(I made some edits for readability's sake)
-https://www.constitution.org/eng/patriarcha.htm
+Ruling philosophies are very powerful. They make strong believers of people, who often have a hard time applying an abstract philosophy to a changing world. One example is Lysenkoism. This was a pseudo-science in the Soviet Union that assumed genetics can learn traits. So if you lived in a hot climate, your genes would morph to sweat more.
 
-===
+Charles Darwin said our genes are set in stone, and it's the fittest who survive. Soviets didn't want to believe that because it sounded like elitism, which their communist ideology said was unnatural. The result was genetic research in the Soviet Union was so filtered by the heirarchy, it was useless.
 
-  >We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. —That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, —That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.
+On the frontline it meant farmers didn't get better seeds, genetic therapy didn't exist, and thousands of Soviet biologists were sent to labour camps for asking honest questions. All to protect the ruling philosophy.
 
-Declaration of Independence
-by Thomas Jefferson
-July 4, 1776
-https://www.archives.gov/founding-docs/declaration-transcript
-
-===
-
-The belief in nobles divine rights wasn't simple selfishness. A lot of smart people wrote philosophy to justify one person having absolute power. The royal rulebook didn't have to call itself a Death Star; it was based on a respected philosophy.
-
-Today, our Death Star rulebook aren't arbitrary rules. They come from Industrial Age philosophy and the era of mass-production. It's important to remember as we push for the Internet Age. The antagonists feel justified using their Death Star. And they'll keep winning, until we believe in a new philosophy.
+The further we go into the Internet Age, the more Progressive and Conservative ideologies get out of date. You can already see them protecting their ideologies via phantom chasing for racists and socialists, trigger words, gay preachers, war on drugs, green new deals, Some people will go to extremes to protect their ideological filters. All the more reason to make sure the ruling philosophy is adapted to the modern technological age.
 
 ## The Era of Mass-Collaboration Is Already Here
 
@@ -880,7 +871,7 @@ Technologically speaking there's no reason for this. Regular people can work as 
 But an easy to use, friendly, reasonable list of rules, codes, regulations, and by-laws will only be a happy reality once Main Streets embrace the era of mass-collaboration using Techvolution as their shield and motivation.
 
 https://www.youtube.com/watch?v=ggrkTLEfFXA
-_Here's Louis Rossmann again. He's building a new store. A complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies wont disappear in the future—we'll always need big organizations. They'll just be checked and balanced by individuals and small companies connected in mass-collaboration. We'll make the Internet Age rulebook a little later, in Techvolution II: Building the Life Star._
+_Here's Louis Rossmann again. He's building a new store and a complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies wont disappear in the future—we'll always need big organizations. They'll just be checked and balanced by individuals and small companies connected in mass-collaboration. We'll make the Internet Age rulebook a little later, in Techvolution II: Building the Life Star._
 
 ## Click
 
@@ -989,6 +980,41 @@ Revolutionary songs like this spread the people's liberty, equality, and fratern
 Rousseau died never having found a home. After they won their revolutions, the people put him to rest inside the glorious Panthéon. He was heralded as a renowned breaker of chains, destroyer of corrupted rulebooks, with his new philosophy that said any guy can be the prince, and any girl can be Cinderella.
 
 The question for us is, how did Rousseau help an entire people embrace a new age, become player gods, and change their ruling philosophy? I'd especially like to know how we do it better because I'd really like to skip horrible wars and revolutions as we venture into the Internet Age.
+
+## Old Philosophy vs. New Philosophy
+
+Techvolution is a philosophy book, but I don't directly reference past philosophies. Like any topic it takes some practice to read. However, let's have a peek and appreciate the strong beliefs of past protagonists and antagonists.
+
+Below are two snippets from two influential philosophers. The passages will help explain how an antagonist can think themselves so right, when history proves them so wrong. I won't comment much on either passage. Just know both of these writers motivated generations of followers to fight to the death.
+
+===
+
+  >SINCE the time that learning began to flourish there has been a common opinion maintained which affirms: "Mankind is naturally endowed and born with freedom, and at liberty to choose what form of government it please, and that the power which any one man has over others was at first bestowed according to the discretion of the people."
+
+  But how this vulgar opinion has of late obtained a great reputation is unknown to me. It is not to be found in the ancient fathers and doctors of the true Church. It contradicts the doctrine and history of the Holy Scriptures, the practice of all ancient monarchies, and the very principles of the law of nature. It is hard to say whether it is more erroneous in divinity or dangerous in policy.
+
+  This desperate assertion whereby kings are made subject to the judgements and deprivations of their subjects follows as a necessary consequence of foolhardy position of the supposed natural equality and freedom of mankind, and liberty to choose what form of government it please.
+
+Patricia, Or the Natural Power of Kings
+by Robert Filmer
+1680
+(I made some edits for readability's sake)
+https://www.constitution.org/eng/patriarcha.htm
+
+===
+
+  >We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. —That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, —That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.
+
+Declaration of Independence
+by Thomas Jefferson
+July 4, 1776
+https://www.archives.gov/founding-docs/declaration-transcript
+
+===
+
+The belief in nobles divine rights wasn't simple selfishness. A lot of smart people wrote philosophy to justify one person having absolute power. The royal rulebook didn't have to call itself a Death Star; it was based on a respected philosophy.
+
+Today, our Death Star rulebook aren't arbitrary rules. They come from Industrial Age philosophy and the era of mass-production. It's important to remember as we push for the Internet Age. The antagonists feel justified using their Death Star. And they'll keep winning, until we believe in a new philosophy.
 
 ## Society’s Three Stories Tell Us If We're Watching the Story of Civilization, or Playing the Game of Civilization
 
@@ -1318,29 +1344,36 @@ Fuck the ringing bell of a claims department, imagine the stress of a stutterer 
 
 Now Charles had to stand before these uppity, sinning, want-to-be player gods. He had one last chance to say something. And he said this:
 
-> Truly I desire their (the people's) liberty and freedom as much as anybody whomsoever; but I must tell you their liberty and freedom consist in having of government, those laws by which their life and their goods may be most their own. It is not for having a share in government, Sir, that is nothing pertaining to them. A subject and a ruler are clear different things... therefore I tell you that I am the Martyr of the people. I die a Christian according to the profession of the Church of England, as I found it left me by my father... I have a good Cause and I have a gracious God...I go from a corruptable to a incorruptable crown.
+> Truly I desire their (the people's) liberty and freedom as much as anybody whomsoever; but I must tell you their liberty and freedom consist in having of government, those laws by which their life and their goods may be most their own. It is not for having a share in government, Sir, that is nothing pertaining to them. A subject and a ruler are clear different things... therefore I tell you that I am the Martyr of the people. I die a Christian according to the profession of the Church of England, as I found it left me by my father... I have a good Cause and I have a gracious God...I go from a corruptable to an incorruptable crown where no disturbance can be, no disturbance in the world.
 
-Charles spoke so eloquently everyone was impressed. He'd rarely spoken with such clarity and passion before. In Charles' head, the angels about to take him to heaven, killed his gremlin before lifting off. I must say I'm happy for him; it is heavenly to say what's on your mind.
+Charles spoke so eloquently everyone was impressed. He'd rarely spoken with such clarity and passion before. In Charles' head, the angels about to take him to heaven, killed his gremlin before lifting him to Heaven. I must say I'm happy for him; it is heavenly to say what's on your mind.
 
-There were no angles, and no gremlin either. Stuttering is an anxiety disorder. So what really happened is amazing. What should have been extremely stressful; the crowds, the soldiers, his lost royalty, and his executioner, were Charles' freedom. He was 100 percent positive nobles had the divine right to rule. Everyone else had gone mad, and why be anxious around madmen?
+But there were no angles, and no gremlin either. Stuttering is an anxiety disorder. So what really happened is amazing. What should have been extremely stressful; the crowds, the soldiers, his lost royalty, and his executioner, were Charles' freedom. He was 100 percent positive nobles had the divine right to rule. Everyone else had gone mad, and why be anxious around madmen?
 
 We do our best to understand history with songs, books, and images. But we can't time travel. We can't go into Julius Caesar's or Cleopatra's minds and fully understand their motives. But, by luck or good fortune, I can go into Charles' mind at this moment in history. And one of history's most evil Antagoinst Kings, was a moral man. He had no hate in his heart. In fact, it was his morality that killed the gremlin. It's the only way he could have spoken a word on that scaffold.
 
 Charles was a victim. A regular person told he was king. When asked to throw that away, it was like being asked to wake up from the Matrix. Could you do any better?
 
-Being so high up the heirarchy, the game of civilization meant nothing to him. Why would it? He never felt frontline pain, not in even the battles he caused. And that's the point, it's not his job to decide when to upgrade civlization. He's not on the frontline. You are.
+Only a few leaders ever have. Often called "philosopher kings" they have the wisdom to emphasize with frontline pain. Like good army generals they use their power to help win the war on the front, instead using command to benefit themselves.
+
+But philosopher kings are very rare. Most everyone in a heirarchy, get detached from the game of civilization. The higher you go, the more detached you get. This happened to Charles. He never felt frontline pain, not in even the battles he caused. And that's the point, it's not his job to decide when to upgrade civlization. He's not on the frontline. You are.
 
 ## Extras Die Off
 
-And that's the choice Extra make today. Because without the new philosophy of Rousseau, Main Street kept fighting and murdering each other for generations; all in the name of the king. In fact, When the Puritan democracy ended in 1658, Charles son James II, was put back on the throne. No one knew any better. It wasn't long before he took his revenge—everyone who signed Charles' death warrant was killed.
+Without the new philosophy of Rousseau, Main Street kept fighting and murdering each other for generations; all in the name of the king. In fact, When the Puritan led democracy ended in 1658, Charles son James II, was put back on the throne. Without a new ruling philosophy, no one had any better ideas. It wasn't long before the new king took his revenge—everyone who signed his fathers' death warrant was beheaded.
 
 And that's the point to this story. Even though Main Street was inside a new age, very unhappy, and victorious in the two civil wars, without a new philosophy, the antagonists still ended up winning.
 
-So, if you stay an extra, that's your fate. You'll limit your politics to the current system of Left and Right. You'll argue with antagonists. You'll march and scream for change. Eventually you'll gather and fight. And in the end, nothing will change.
+So, if you stay an extra, that's your fate. You'll limit your politics phantom chasing for either Left and Right. You'll argue with antagonists at work but get no where. You'll get so frustrated you'll march and scream for change. Eventually after another financial crisis, debt crisis, migrant crisis, disputed election, constituional amendment; some crisis, the West will reach the end of kicking the can down the road, that leads to a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosis using our history.
 
-Because every new age, needs a new ruling philosophy, and we can upgrade right now, because we can learn from our ancestors on Main Street who used Rousseau to "hear the people sing". Techvolution is a philosophy for a modern age, one custom built to harness the amazing tools that the Traiterous Eight, and Internet Age protagonists put in our hands in our real-life game of civilization.
+And extras will be forced to stop watching their civilization, and join in, as we tear ourselves apart.
 
-You are the player god. Politics is meant to solve our problems. Political power is controlling the levers of power. If Main Street reaches for digital tools and solves their own problems, we'll be player gods and usher in the Internet Age.
+https://www.youtube.com/watch?v=tEczkhfLwqM
+_You don't have to watch this again. But how much longer do you think before Red/Left politics completely breaks down? Why not upgrade now, and never find out?_
+
+And in the end, nothing will change. Because every new age, needs a new ruling philosophy. We can skip all that nonsense, and can upgrade right now, because we can learn from our ancestors on Main Street who used Rousseau to "hear the people sing". Techvolution is a philosophy for a modern age, one custom built to harness the amazing tools that the Traiterous Eight and other Internet Age protagonists put in our hands.
+
+You are the player god. Politics is meant to solve our problems. Political power is controlling the levers of power. If Main Street reaches for digital tools and solves their own problems, we'll usher in the era of mass-collaboration of Internet Age in our real-life game of civilization.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/CandidFeistyBuckeyebutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
@@ -1348,7 +1381,7 @@ The question is, did Techvolution click?
 
 ## Time to Act Stargazer
 
-I know one thing. Thanks to to Internet Age protagonists, you can't go back to snail mail, telephones, or Blockbuster. You're a modern cyborg whose been updating our society since 1970 to the Internet Age. It's tools are everywhere. Levers of power waiting for you to grab.
+I know one thing. Thanks to to Internet Age protagonists, you can't go back to snail mail, telephones, or Blockbuster. You're a modern cyborg. The tools of the Internet Age are everywhere. Levers of power waiting for you to grab.
 
 Darth Blockbuster will never, ever, ever, "see the light". But that's why I'm not writing to "The Executive." I'm writing to you Stargazer. You're the player god!
 
@@ -1371,9 +1404,7 @@ _An ideallized view of mass collaboration. No antagonists or extras, just protag
 
 But I can't keep thinking for you. Nor do I want to keep holding your hand. This book has been informative enough. At the start I asked "are you happy?" Now you have to ask yourself "Am I going to do something about it?"
 
-Our unhappiness is a fire alarm. Left and Right will take us down as they fight to stay alive in the Internet Age. To reverse our fortunes, we must upgrade to the Internet Age ourselves, and embrace the era of mass-collaboration. To do that, we need Techvolution, a new philosophy that gives the right, and duty, to frontline people to use digital tools to solve their real-life problems.
-
-Look around, and see old drafty windows, gas engine cars, call-centres, cable news, mass-producted toys, stupid commercials, eight different bosses, another corporate meeting, car traffic, leaky faucets... Do you see the Industrial Age? Do you want to improve your part of the world with new tools, and use these tools as a lever of power to affect more evolution?
+Our unhappiness is a fire alarm. Look around, and see old drafty windows, gas engine cars, call-centres, cable news, mass-producted toys, stupid commercials, eight different bosses, another corporate meeting, car traffic, leaky faucets... Do you see the Industrial Age? Do you want to improve your part of the world with new tools, and use these tools as a lever of power to affect more evolution?
 
 Or do you want to return to the comfort and safety of being a 1969 extra, bragging about gas cars, fake job titles, and McMansions, while following the antagonists rules, and chasing the phantoms of Left/Right politics. Did Techvolution click? The fate of your life, your kids, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
 
@@ -1385,7 +1416,9 @@ If you do, we win. If you don't, we lose.
 
 I said above, philosophy has lofty and sometimes hard to undertand ideals of a "just and good society". I tried my best to use real-world examples, media, and popular stories to make Techvolution relatable. If indeed this new philosophy clicked—and I hope it did—that doesn't mean it has all the answers. You are a unique lifeform. Only you know what'll mean to be a player god in your life.
 
-It'll be a fun journey with many ups and downs. I'm not a specialist in your slice of the world. I don't know how you can improve your commute, diet, or workplace. That's up to you to figure out. You will though, because the hardest of being a player god, is choosing to be. The rest is just steps along the journey. You can follow mine, because I am a specialist in one slice of the world, car insurance claims. You can use my little journey as your guide..
+It'll be a fun journey with many ups and downs. I'm not a specialist in your slice of the world. I don't know how you can improve your commute, diet, or workplace. That's up to you to figure out. You will though, because the hardest of being a player god, is choosing to be. The rest is just steps along the journey. You can follow mine, because I am a specialist in one slice of the world, car insurance claims. You can use my little journey as your guide.
+
+And to win the internet age, we need some tools for ourselves. If Darth Blockbuster uses the rulebook to his advantage, we need to use our own. The Life Star.
 
 First watch this. A clip from Netflix's _Black Mirror_. It's a story of a crazed man, who wants to talk with the CEO of an Instagram-like app called Smithereen. He holds a company intern hostage awaiting the CEO’s call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why.
 
