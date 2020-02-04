@@ -2201,3 +2201,39 @@ The further we go into the Internet Age, the more Progressive and Conservative i
 ## The End1
 
 Our unhappiness is a fire alarm. Left and Right will take us down as they fight to stay alive in the Internet Age. To reverse our fortunes, we must upgrade to the Internet Age ourselves, and embrace the era of mass-collaboration. To do that, we need Techvolution, a new philosophy that gives the right, and duty, to frontline people to use digital tools to solve their real-life problems.
+
+## Ideological Filters Are Deadly
+
+Ruling philosophies are very powerful. They make strong believers of people, who often have a hard time applying an abstract philosophy to a changing world. One example is Lysenkoism. This was a pseudo-science in the Soviet Union that assumed genetics can learn traits. So if you lived in a hot climate, your genes would morph to sweat more.
+
+Charles Darwin said our genes are set in stone, and it's the fittest who survive. Soviets didn't want to believe that because it sounded like elitism, which their communist ideology said was unnatural. The result was genetic research in the Soviet Union was so filtered by the heirarchy, it was useless.
+
+On the frontline it meant farmers didn't get better seeds, genetic therapy didn't exist, and thousands of Soviet biologists were sent to labour camps for asking honest questions. All to protect the ruling philosophy.
+
+The further we go into the Internet Age, the more Progressive and Conservative ideologies get out of date. You can already see them protecting their ideologies via phantom chasing for racists and socialists, trigger words, gay preachers, war on drugs, green new deals, Some people will go to extremes to protect their ideological filters. All the more reason to make sure the ruling philosophy is adapted to the modern technological age.
+
+## Epilogue
+
+What the Internet Age allows for the first time, is what Galileo did all those years ago when he said; "we don't know until we test, so let's use instruments to test what we think we know."
+
+Using instruments to find the truth, means the truth no longer comes from leaders opinions. This is what Industrial Age antagonists fear most of all. Because the Internet Age, lets us track and measure frontline pain, making it the definition of right and wrong. And in summary, this is the Life Star.
+
+You can see it already budding today. One example is the Twitter feed below. It's run by the Ontario Police to tell the public about car crashes.
+
+<a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw" target="_blank">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Notice, I have no control over this Twitter feed. I can't make up the information. Nor can I gatekeep it from you. These are simply objective facts in our society, that because of the internet, anyone can see, feel, and collaborate around. Crucially, and painfully, the people in these crashes are in some level, living through Smithereens. Solving their pain with modern tools is Techvolution. Tracking and measuring their pain, is the Life Star.
+
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MeanMasculineCamel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/meanmasculinecamel-google-driverless-car-project">via Gfycat</a></p>
+
+_This is what modern technology is good for. Player gods demand this kind of life saving power._
+
+
+That's of course bullshit. And the Internet Age gives us the ability to prove it.
+
+At it's heart, Smithereens is a story about an extra. The tortured man assumes the company Smithereen will care about his problem. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. "They" only have your interest at heart if you hold the levers of power, because "they" is the player god. You're either a member, or you're not.
+
+I wept while watching Smithereens; full out tears. I knew what the plot twist was—that a loved one died in a car crash—because I'd spoken with this person too many times. It was actually the motivation for me to make my app. I wanted to showcase how the Internet Age will help us solve things like horrible, useless, and preventable car crashes with something (I now call) the Life Star. What I ended up learning, is before we get to the future, we have to defeat the antagonists with an army of player gods believing in Techvolution, and wielding the levers of power inside the era of mass-collaboration.
+
+Antagonists stepped on my app with bullshit reasons and excuses. They didn’t care about the future of technology, and didn't know one thing about their own industry. Not one. Car accidents are as mysterious to them as how to take out the trash. Their self-entitlement, blank faces, clueless looks, arrogant smirks was like talking to Charles, or Louis.
