@@ -2237,3 +2237,10 @@ At it's heart, Smithereens is a story about an extra. The tortured man assumes t
 I wept while watching Smithereens; full out tears. I knew what the plot twist was—that a loved one died in a car crash—because I'd spoken with this person too many times. It was actually the motivation for me to make my app. I wanted to showcase how the Internet Age will help us solve things like horrible, useless, and preventable car crashes with something (I now call) the Life Star. What I ended up learning, is before we get to the future, we have to defeat the antagonists with an army of player gods believing in Techvolution, and wielding the levers of power inside the era of mass-collaboration.
 
 Antagonists stepped on my app with bullshit reasons and excuses. They didn’t care about the future of technology, and didn't know one thing about their own industry. Not one. Car accidents are as mysterious to them as how to take out the trash. Their self-entitlement, blank faces, clueless looks, arrogant smirks was like talking to Charles, or Louis.
+
+
+I never intended to write this book. I wrote a similar one, "Why the 2008 Economic Crisis Was Only the Beginning" years ago (although I never showed anyone). All the points from here are there—but it's not written quite as well.
+
+I wanted (and am), writing "Building the Life Star" and "Starting Starfleet." Which in summary say, digital tools will start enabling mass-collaboration, give us objective facts whose lives and civilizations are more efficient, and therefore let us start saving oddles of money. With all the savings, we'll start the Space Exploration Age.
+
+So I made my app to demonstrate these simple facts. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in "tech."
