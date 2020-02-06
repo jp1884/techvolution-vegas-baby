@@ -743,13 +743,13 @@ Let's consider some things during our short rest. Hopefully this will make Techv
 
 ## The Death Star
 
-We have a beautiful society. Our police, education, judicial systems work. Laws get passed. Public consultantions are done. We have sanitation, health, and electrical infrasture only dreamed about just a few generations ago. There's a reason why many people throughout the world rush, chance, and dream of coming to Western Civilization.
+We have a beautiful society. Our police, education, judicial systems work. Our legislatures pass laws with public consultantions. We have sanitation, health, and electrical infrasture only dreamed about just a few generations ago. There's a reason why many people throughout the world dream of coming to Western Civilization.
 
-We simply have a big problem. Western Civilization peaked in the Industrial Age, and has not yet changed its ruling philosophy to the Internet Age. Without a new philosophy, our politics was managing the computerization of our civilization, with rules of meant for industrialization. Hence why, starting in 1970, there was huge explosion of government regulations, corporate rules, political media, and so much more. Think of this, government lobbyists didn't even exist in 1969.
+We simply have a big problem. Western Civilization peaked in the Industrial Age, and has not yet changed its ruling philosophy to the Internet Age. Without a new philosophy, our politics is managing the computerization of our civilization, with rules of meant for industrialization. Hence why, starting in 1970, there was huge explosion of government regulations, corporate rules, political media, and so much more. Think of this, business lobbyists didn't even exist in 1969.
 
-The point is, our huge rulebook of business regulations over commercial planes, insurance contracts over our homes, employment contracts for our workers, are all based on an Industrial Age society. None of our rules are seek to be bad. They're just so many of them, and they're often so outdated, it's easy for antagonists to use them to resist change.
+The point is, Industrial Age powers want to keep their jobs. And that's kill our society's evolution. So many jobs inside massive corporations and governmetn bureaucracies are based on dealing with huge government regulations, confusing warranty contracts, managing their workers retirement funds. Each person has an incentive to keep adding layers of rules; as they do, they make it easier for antagonists to survive, and harder for protagonists to thrive.
 
-Our large, confusing, and outdated rulebook is our Death Star. It's used by Industrial Age antagonists to prevent us on the frontline to use modern tools to solve our problems. Right/Left politics is of no help. Thus, our problems keep getting worse. You'll some stats of the increase in rules, and the increase in our problems, below.
+The result is a unhappy society. Here are some stats of the increase in rules, and the increase in our problems.
 
 ![GWRegStudies](/img\diagrams\GWRegStudies-PagesPublishedinFederalRegister-6.12.19.png)
 ![US-VMT-per-capita](/img\diagrams\US-VMT-per-capita.png)
@@ -761,33 +761,35 @@ _You're happiness is the best statistic about our civlization's health. But here
 
 ## Polar Bears in the Amazon
 
-Using Industrial Age philosophies as our ruling philosophy makes us polar bears in the Amazon. Seriously, think of it— in 2020, our environment is different, our societies are different, and our cyborgology is different. We are a different people being forced to live as if it were 1969. It can be hard to see, because there's nothing wrong with polar bears, or the Amazon; but neither is adapted for each other. Same goes for a person in 2020—who owns a laptop, hi-speed internet, VR glasses—but is driving through two hours of traffic, to work at a call-centre.
+We are polar bears in the Amazon. Seriously, there's nothing wrong with polar bears or the Amazon, they simply aren't adapted for each other. Likewise, just think of all the people who own a laptop, hi-speed internet, VR glasses, but are driving through two hours of traffic, to work at a call-centre. In 2020 our environment is different, our societies are different, and our cyborgology is different. We are a different lifeform being forced to live as if it were 1969.
 
-If you would see adaptions like a camel's water retaining hump near the Great Lakes, or a eagle eyes inside a cave system, you'd stop and wonder; "why are these biologies here?". When you likewise see out of place cyborgologies like textbooks, fax machines, and checks in our societies, you should now know something is wrong. Likely it's that Darth Blockbuster stopped our evolution, to keep his obsolete cyborgologies in power. Hopefully we can defeat him in time to celebrate saving the polar bears.
+If you'd see a camel's near the Great Lakes, eagles inside a cave system, or polar bears in the Amazon, you'd stop and wonder; "why are these biologies here?". When you likewise see out of place cyborgologies like textbooks, fax machines, and check books in our societies, you should now know something is wrong.
+
+Likely it's that Darth Blockbuster stopped evolution, to keep his obsolete cyborgologies in power. Techvolution is designed to match evolution so that adaptions match their habitats. Hopefully we can defeat evolution's antagonists in time to save the polar bears.
 
 ## Made In America
 
 Pick up and hold your blender, chef knife, or shoes. You're holding your cyborgolgy; an extension of your biological tools. Look close, and you'll notice several marking on each item: trademark, copyright, patent, and made in.
 
-Patents, copyrights, trademarks are very expensive. In fact, even Google, Apple, and Amazon spend more money on lawyers then they do on research and development. So, why are patents, copyrights, and trademarks "made in america", but the actually items are very often not?
+Patents, copyrights, trademarks are very expensive. So expensive that in 2011 Apple and Google spent more on lawsuits and payments involving patents than they did on research and development of new products. So, why are patents, copyrights, and trademarks "made in america", but the actually items are very often not?
 
-There are endless pages of economic theory that justified exporting American industry. I think it's all bullshit. There's never been a time—in history or in a computer game—where the society full of marketers, lawyers, and copyright owners, defeats the society full of engineers, builders, and technicians. Yet after 1969, our society gave power to the former, and exported the latter.
+There are endless pages of economic theory that justify exporting American industry. All of it's bullshit. There's never been a time—in history or in a computer game—where the society full of marketers, lawyers, and economists, defeats the society full of engineers, builders, and technicians. Yet after 1969, our society gave power to the former, and exported the latter.
 
 To start winning the game in the Internet Age, Main Street must demand "Made In America". It's a great sign we've started to control our own levers of power.
 
 https://www.youtube.com/watch?v=QKcneQ6N50Q&feature=youtu.be&t=50
 
-_A re-creation of American Industrial Age powers doing business in the 1960s. They are trying to figure out how to keep their obsolete products relevant. When the Internet Age hit in 1969, the "juniors" of this world, with no idea how to make anything, kept doing business the same way. They sold out their factories, engineers, and plants, and became Darth Blockbusters._
+_A re-creation of American Industrial Age powers doing business in the 1960s. They are trying to figure out how to keep their obsolete products relevant. When the Internet Age hit in 1969, the "juniors" of this world, with no idea how to make anything, kept doing business the same way. They sold out their factories, engineers, and plants. Too often they became Darth Blockbusters, abusing trademarks, copyrights, patents to suppress new and better products._
 
 ## What's That Called
 
 I used to worked at a call-center. Customers had a car accident and I'd process their claim over the phone. When customers had a paper invoice or report, I usually needed a copy. Customers always would ask themselves where to get a scanner or a fax machine.
 
-I'd remind them their smartphone has a great camera—they could just snap a photo and email me. This always sparked a eureka moment; "that's right, I can do that, thanks! I'll get that too you right now".
+I'd remind them their smartphone has a great camera—they could just snap a photo and email me. This always sparked a eureka moment; "that's right, I can do that, thanks John! I'll get that too you right now".
 
 That's what I mean by cyborgology, majic, and technological evolution. When a new tool is in our hand, it gives us a new ability, and therefore increases our cyborgolgy. But we need to be taught how to use our new abilities. We can either learn the majic of new tools ourselves, or a majician can teach us.
 
-While most people know about scanning, and faxing, there's still no word for snapping a photo of paperwork. Because this new ability of our cyborgology is still evolving. Cool huh?
+While most people know about scanning and faxing, there's still no word for snapping a photo of paperwork. Because this new ability of our cyborgology is still evolving. Cool huh?
 
 ## Medical Records
 
@@ -795,13 +797,13 @@ Where are your medical records? Who has your medical records? Does anyone have y
 
 Think about that the next time you're seeing a nurse, doctor, or pharmacist. No one has a complete list of your sicknesses, diseases, shots, treatments and pills. After all, why would "they", if you don't?
 
-In the Industrial Age carrying around your medical history was impossible—too much paperwork. In the Internet Age it's a matter of extras becoming player gods and wanting to control their own levers of power. Controlling our own medical records, is one of the many levers waiting to be made in the Internet Age.
+In the Industrial Age carrying around your medical history was impossible—too much paperwork. In the Internet Age it's a matter of extras becoming player gods and wanting to control their own levers of power. Controlling our own medical records, is one of the many levers waiting to be made and contolled by Main Street, in the Internet Age.
 
 ## Levers of Power
 
-When you think of politics, you should think of tools. When you think of tools, you should think of levers of power. And when you think of levers of power, you should think "who controls mine?". Water, heat, food, electricity, healthcare. These are our absolute requirements.
+When you think of politics, you should think of tools. When you think of tools, you should think of levers of power. And when you think of levers of power, you should think "who controls mine?". Water, heat, food, electricity, healthcare; these are our absolute requirements.
 
-In the Internet Age, we can start to control our own levers of powers with Hyrdroloop Water reclaimers, custom designed homes, Agrigrow agriculture, and Tesla Solar Panels, and whoever makes a healthcare database. Once we believe in Techvolution, we'll be player gods in our minds. Once we control our own levers of power, we'll be player gods in reality.
+In the Internet Age, we can start to control our own levers of powers with Hyrdroloop Water reclaimers, homes designed to maximize the Sun's enery, Agrigrow agriculture, Tesla Solar Panels, and medical records app. Once we believe in Techvolution, we'll be player gods in our minds. Once we control our own levers of power, we'll be player gods in reality.
 
 ## Does The World Need to Know
 
@@ -811,13 +813,13 @@ If you feel intimidated by one of these people, just press the button below.
 
 <a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank" class="button primary large">Equalizer Button</a>
 
-It randomly selects a Wikipedia article. With three clicks I got Lorenz Nieberl. a German bobsledder, Sandamías. a village in northern Spain with 67 residents, and Aartsenia arctica, a sea snail. Anyone can make a Wikipedia article, so someone out there said, "the world needs to know!" about these people, places, and things. But, no one has ever thought that about your personal Darth Blockbuster. You haven't, have you?
+It randomly selects a Wikipedia article. With three clicks I got Lorenz Nieberl. a German bobsledder. Sandamías, a village in northern Spain with 67 residents, and Aartsenia arctica, a sea snail. Anyone can make a Wikipedia article, so someone out there said, "the world needs to know!" about these people, places, and things. But, no one has ever thought that about your personal Darth Blockbuster. You haven't, have you?
 
-That should put things into perspective for you. Ignore pompeous pricks. The game of civilization doesn't care about self-image; only contributions that help win the game. Contributions is what make most everyone think "the worlds needs to know".
+That should put things into perspective for you. Ignore pompeous pricks who gives themselves participation trophies and act like their gold medals. The game of civilization doesn't care about their arrogant self-image; only contributions that help win the game. Contributions is what makes people think "the worlds needs to know".
 
 ## New and Old Celebrities
 
-We'll always celebrate the people we look up to. In the Industrial Age society, celebrities were often decided for us. The limitations of the era of mass-production, only let so many people make movies, release albums, get their names in the newspapers.
+We'll always celebrate the people we look up to. In the Industrial Age society, celebrities were often decided for us. The limitations of the era of mass-production only let so many people make movies, release albums, get their names in the newspapers.
 
 Internet Age celebrities are different. While we can make fun of Instagram models, silly YouTubers, Twitter trolls, at least we decide which people to follow and pay attention to. In the Internet Age, people watch, listen, read what they want, which also means we celebrate who we want. Personally, I follow people like Sailing La Vagabonde, Adam Savage’s Tested, The Joe Rogan Experience, Kirsten Dirksen, Taylor Tries, largely because they're people doing cool stuff who'd never consider themselves celebrities.
 
@@ -825,21 +827,21 @@ The next time you hear "celebritiy" ask yourself if they're one of yours. The In
 
 ## Frontline Pain
 
-If you have to buy a home; who would you ask to give you advice? Maybe even take a look at the thing and see if its any good? A builder, carpenter, engineer? Or a consultant, reporter, executive?
+If you have to buy a home; who would you ask to give you advice? A builder, carpenter, engineer? Or a consultant, reporter, executive?
 
-We ask the opinion of the person who actually builds the thing we need. Day in and day out these are the people who feel the pain of work, and live to solve that pain with better tools and expertise. Yet at our coffee shops, bus routes, cleaning departments, it's so often the second "professional" group making key decisions. That's a silly thing in the era of mass-collaboration, because frontline pain is a gold mine of knowledge and experience.
+We all ask the person who actually builds homes. Day in and day out these are the people who feel the pain of work, and live to solve that pain with better tools and expertise. Yet at our coffee shops, bus routes, cleaning departments, it's so often the second "professional" group making key decisions. That's a silly thing in the era of mass-collaboration, because frontline pain is a gold mine of knowledge and experience.
 
-We all know ask the experts in our personal lives, and soon the experts will be back in control in their work lives too.
+This means in the era of mass-collaboration "mom and pop" stores will have a resurgence. I smile, thinking of all those bakers, tailors, designers, roofers, engineers, cleaners, repairmen, and maybe even a few majicians, smiling on a new and empowered Main Street. Each using frontline pain, to evolve better ways to work in he Internet Age.
 
 ## Traffic
 
-The Industrial Age's levers of power were very centralized, generic, and expensive. Education meant government run schools, textbooks, teacher unions. Health care meant hospitals, nurses, doctors. Transportation meant vehicles, roads, and airports. These were the only levers of power for generations.
+The Industrial Age's levers of power were very centralized, generic, and expensive. Education meant schools, textbooks, teacher unions. Health care meant hospitals, nurses, doctors. Transportation meant vehicles, roads, and airports.
 
-For years, if we wanted to improve education, health-care, or transportation, it meant more government funding. Because in the era of mass-production more was always better. The eternal fight between Left and Right was fighting over whose supporters, unions, corporations, constituencies, would win these contracts.
+For years, if we wanted to improve any of these areas, it meant more government funding. Because in the era of mass-production more was always better. The eternal fight between Left and Right was fighting over whose supporters—unions, corporations, constituencies—would win these contracts.
 
 Keep that in mind as we adapt ourselves to the Internet Age. More spending for school textbooks, hospital beds, road construction are not always good things. In fact, they're often signs we're sticking with "Woodstock" lifestyle, instead of thinking up more efficient ways to live our lives.
 
-- Industrial Age industries defending their sweetspots.
+In fact, the huge Industrialzed Age powers are often the biggest antagonists. Like Blockbuster with the DVD—when he got use internet Age technology for himself, but could still Industrial Age pricing for the DVD—these power are in the sweetspot. They'll fight to defend it, and get away with it, until Main Street calls them out.
 
 ![Frontline movies full](/img\diagrams\traffic.jpg)
 _I don't have to tell you where this is, because it's everywhere. More roads doesn't solve our transportation problems. Thinking it does, only limits your options as a player god._
@@ -848,9 +850,9 @@ _I don't have to tell you where this is, because it's everywhere. More roads doe
 
 While the antagonists are fighting it, the Internet Age and its era of mass-collaboration is already here and growing. I included some collaboration projects below. Not only should you take a minute to try them out, you should sit back and realize what you're doing. Because with no managers, consultants, and timesheets, you can work with others to advance humanity with nothing but a laptop, the internet, and you.
 
-One day soon, your job will likewise require so little travel, stress, and time. And no, you won't lose your job. It's the head-office types, the HR reps, the eight different bosses, the people with no frontline skills, whose meetings, delays, and arrogance are unneeded in the era of mass-collaboration. That's why the fear the Internet Age so much.
+One day soon, your job will likewise require so little travel, stress, and time. And no, you won't lose your job. It's the head-office types, the HR reps, the eight different bosses, the people with no frontline skills who are unneeded in the era of mass-collaboration. That's why they fear the Internet Age so much.
 
-Galaxy Zoo: https://www.zooniverse.org : Help astronomers classify stars and galaxies. You might even be the first to discover something new.
+[Galaxy Zoo](https://www.zooniverse.org" target="_blank): Help astronomers classify stars and galaxies. You might even be the first to discover something new.
 
 Common Voice: https://voice.mozilla.org/en : Help inventors give their apps voice commands by donating your voice, anonymously of course. A free voice database lets anyone improve their software.
 
@@ -858,7 +860,7 @@ Stack Overflow: https://stackoverflow.com : Stack Overflow lets programmers ask 
 
 Wikipedia: https://wikipedia.org : Everyone's an expert at something. Starting or editing a Wikipedia page is a lot easier then you think. Try it out.
 
-Kickstarter: https://www.kickstarter.com/ : Kickstarter connects regular people trying to solve a problem, with regular people waiting for a solution. A few bucks could fund a product you could need. The software of this website, Ghost Foundation, was started on Kickstarter.
+Kickstarter: https://www.kickstarter.com/ : Kickstarter connects regular people trying to solve a problem, with regular people waiting for a solution. You can be your own investor; a few bucks could fund a product you want. The software of this website, Ghost Foundation, was started on Kickstarter.
 
 These websites put the levers of power in your hand. Wit their data, knowledge, communication, commadariere, you can use these services to empower yourself in so many ways. The era of mass-collaboration is already here. We just aren't jumping into the Internet Age yet.
 
@@ -880,13 +882,13 @@ Take a second and watch this clip of a user building a backyard in the city-buil
 
 Now, what does our realworld rulebook encourage? For us to be player gods of the young and growing Internet Age, or to stay extras of the tried and true Industrial Age?
 
-Evolution needs us to buy solar-power roofs, start a 3D printing business in the garage, install a Hydroloop water resuser. These are the new technologies that will help solve our problems, and thereby be levers of power Main Street controls. But, do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? Do you know where to find your local business by-laws, building codes, tax laws?
+Evolution needs us to buy solar-power roofs, start a 3D printing business in the garage, install a Hydroloop water resuser. These are the new technologies that will help solve our problems and thereby be levers of power Main Street controls. But, do you now if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? Do you know where to find your local business by-laws, building codes, tax laws?
 
-Our society's rulebook is so large and dense, we all live under the threat of making a mistake, and being hit by a code violation, claim denial, lawsuit, or audit. Our rulebook makes being a player god risky. It's easier to be an extra, buy generic consumer goods, get a job, commute to work, and get a second job when things get tough.
+Our society's rulebook is so large and dense, we all live under the threat of making a mistake, and being hit by a code violation, claim denial, lawsuit, or audit; in short being a player god is risky. It's easier to be an extra, buy generic consumer goods, and get a second job when things get tough.
 
-Technologically speaking there's no reason for this. Regular people can work as freely as the _Cities: Skylines_ clip above. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, MySQL databases. Today we can make the Internet Age rulebook seemless. We can have so many levers of power in our hands, helping us make our lives more efficient, resourceful, and sustainable, and act like a legitimate source of income.
+Technologically speaking there's no reason for this. Regular people can work as freely as the _Cities: Skylines_ clip above. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, MySQL databases. Today we can make the Internet Age rulebook seemless. We can have so many levers of power in our hands, helping us make our lives more efficient, resourceful, and sustainable lives.
 
-But an easy to use, friendly, reasonable list of rules, codes, regulations, and by-laws will only be a happy reality once Main Streets embrace the era of mass-collaboration using Techvolution as their shield and motivation.
+But an easy to use, friendly, reasonable list of rules, codes, regulations, and by-laws will only be a happy reality once Main Streets uses Techvolution as their shield and motivation to bring on the era of mass-collaboration.
 
 https://www.youtube.com/watch?v=ggrkTLEfFXA
 _Here's Louis Rossmann again. He's building a new store and a complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies wont disappear in the future—we'll always need big organizations. They'll just be checked and balanced by individuals and small companies connected in mass-collaboration. We'll make the Internet Age rulebook a little later, in Techvolution II: Building the Life Star._
@@ -1426,7 +1428,7 @@ I would love to write stories about cyborgologists, techvolutionaries, majicians
 Imagine these guys as Linus Tech Tips venturing out into Main Street to liberate people from the Matrix. In fact, today's "geeks" are really majicians in waiting. Like revolutionaries of old, these are the people who know how powerful modern computers are. Darth Blockbuster's excuses mean nothing to them. Soon, they'll live to attach roofers with drones, cleaners with IR cameras, craftsman with 3D printers. As majicians they'll make modern cyborgs to work inside the era of mass-collarboration. Because of these people Main Street will earn more money, save more time, and be free to live happy lives once again.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/whimsicalleadingfirebelliedtoad">via Gfycat</a></p>
-_An ideallized view of mass collaboration. No antagonists or extras, just protagonists and player gods._
+_An ideallized view of mass-collaboration. No antagonists or extras, just protagonists and player gods._
 
 I want to write all this. But I can't keep thinking for you. Nor do I want to keep holding your hand. This book has been informative enough. At the start I asked "are you happy?" Now you have to ask yourself "Am I going to do something about it?"
 
