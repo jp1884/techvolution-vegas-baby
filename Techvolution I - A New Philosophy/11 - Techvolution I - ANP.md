@@ -847,7 +847,7 @@ Ruling philosophies are very powerful. With their high ideals, they make strong 
 
 Darwin said the opposite. That our genes are set in stone, and it's the fittest who survive. Soviets didn't want to believe that because it sounded like elitism, which their communist ideology said was unnatural. The result was Soviet agriculture didn't get better seeds, genetic research was suppresed, and thousands of Soviet biologists were sent to labour camps because they asked too many questions.
 
-The further we go into the Internet Age, the more Progressive and Conservative ideologies get more out of date. And these ideologues don't know "the weather patters" of civilization. They can't see how every ruling philosophy dies as its Civilization falls.
+The further we go into the Internet Age, the more Progressive and Conservative ideologies get more out of date. And these ideologues don't know "the weather patters" of civilization. They can't see how every ruling philosophy dies as its Civilization falls, so they fight to keep their ideologies alive past its life expectancy.
 
 You can already see these people trying to keep ideologies alive via phantom chasing racists and socialists. Trigger words, taxpayer marches, free speech restrictions, woke culture, toxic campuses and boardrooms, revisionist histories. People will keep protecting their own political identities with strong emotions, rules, and even punishments until a new philosophy is clicked. Watch out.
 
@@ -925,7 +925,7 @@ A modern rulebook will encourages the middle-class to put levers of power in our
 But an easy to use, friendly, reasonable list of rules, codes, regulations, and by-laws will only be a happy reality once Main Street uses Techvolution as their shield and motivation to bring on the era of mass-collaboration.
 
 https://www.youtube.com/watch?v=ggrkTLEfFXA
-_Here's Louis Rossmann again. He's building a new store and a complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies won't disappear in the future—we'll always need big organizations. They'll just be checked and balanced by individuals and small companies connected in mass-collaboration. We'll make the Internet Age rulebook a little later, in Techvolution II: Building the Life Star._
+_Here's Louis Rossmann again. He's building a new store and a complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. Companies won't disappear in the future—we'll always need big organizations. They'll just be checked and balanced by individuals and small business connected in mass-collaboration. We'll make the Internet Age rulebook a little later, in Techvolution II: Building the Life Star._
 
 ## Click
 
@@ -1498,11 +1498,14 @@ I wept while watching Smithereens; full out tears. I knew what the plot twist wa
 
 Here's why I failed; and here's why I'll succeed.
 
+<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/GrandUnknownHagfish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/grandunknownhagfish">via Gfycat</a></p>
+_This is the what digital technology is good for. Only player gods will reach for it._
+
 ## My App
 
 My app was very simple. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in "tech."
 
-Here’s how it worked. Today's insurance industry is entirely based in the Industrial Age. So after an accident, drivers are expected to exchange information. Because they're (understandably) frazzled they often don’t. Adjusters have to search for each other—literally calling around or hoping someone calls you. Delays pile up like crazy, causing most of the maddening DING-DING-DING-DING-DING-DING.
+Here’s how it worked. Today's insurance industry is entirely based in the Industrial Age. So after an accident, drivers are expected to exchange information. Because they're (understandably) frazzled they often don’t. Adjusters have to search for each other—literally calling around or hoping someone calls you. Delays pile up like crazy, causing most of the maddening DING-DING-DING-DING.
 
 Like Uber uses online maps, mine let insurance adjusters post an accident on a google map. Since every accident shares the GPS coordinates, all adjusters, regardless of what drivers do, can find and email each other. It’s minimal cost was paid for by rental car companies and repair shops who loved the ability to communicate with adjusters via email instead of waiting on hold.
 
@@ -1517,15 +1520,14 @@ _Look familiar? Uber, Airbnb, and my app, all used GPS maps. Kinda looks like th
 
 ## Attacking a Lever of Power
 
-Adjusters hold the insurance checkbook in their hand. They decide how much to payout on every claim. Making the outside world use a telephone to call isn't an accident. Heck most insurance companies still use paper-checks and snail mail. It's a huge lever of power to say "call me when I'm available", and "it's in the mail". By easing congestion, and lessening the DINGS, I was in effect taking away the insurance company's ability to create friction for anyone trying to take money out. And, sadly, reducing car accidents doesn't increase company revenue, so less crashes wasn't exactly a selling point.
+Adjusters hold the insurance checkbook in their hand. They decide how much to payout on every claim. Making the outside world use a telephone to call isn't an accident. It's a huge lever of power to say "call me when I'm available". By easing congestion, and lessening the DINGS, I was in effect taking away the insurance company's ability to create friction for anyone trying to take money out. And to be fair, it's not the insurance industry's job to fight car accidents, they aren't the ones behind the wheel.
 
-Before you come up with excuses for Darth Call Centre, here's how your insurance dollars are spent. About 50% is paid back to you in claims, while 50%  goes to taxes, administration fees, and sales commissions. Moreoever, the insurance company makes most its money from investing in Wall St. bonds, thus more accidents, means more claims, means more revenue, means more money to invest. In short, preventing accidents doesn't pay.
+This was never officially said to me. Remember being far from the frontline makes people not realize the consequences of their actions. In fact, most insurance people today have never even spoken with a customer, nevermind processed a claim. They'd watch Smithereens with no tearful recognition. With no pain felt, there was no problem to solve.
 
-This was never officially said. Remember being far from the frontline makes people not realize the consequences of their actions. In fact, most insurance people today have never even spoken with a customer, nevermind processed a claim. They'd watch Smithereens with no tearful recognition.
-
-Thus, while my journey took me to question a lever of power, and fail. I now know how to fix my failure. The key to success, for me and you Stargazer, is making a modern lever of power, then making frontline pain, common knowledge.
+Thus, while my journey took me to question a lever of power and fail. But I now I know how to fix my failure. The key to success, for me and you Stargazer, is making a modern lever of power, then making frontline pain, common knowledge.
 
 <a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw" target="_blank">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+_This is a Twitter feed for the Ontario Police. They use it to tell the public about crashes in real-time. People on this list are right now, living through Smithereens in some way, but we don't capture this information to learn and prevent crashes. We will, with the new life saving rules of the Life Star._
 
 ## The Life Star
 
@@ -1533,29 +1535,29 @@ At it's heart, Smithereens is a story about an extra. The tortured man assumes t
 
 And that's the subject for the next book. Because for all the antagonist blustering and excuses, once a regular person becomes a player god, the game is won. Because the only reason Smithereens happens, the only reason those damn DINGs are still ringing, is because Main Street accepts what the antagonists give.
 
-This book made you a player god in mind, the next will make you a player god in reality. We'll do that by putting many levers of in your hand, first and foremost for car crashes. No middleman. No phantom chasing. No dark majic. No Death Star. No Darth Blockbuster. Just you in control of your destiny. Just like a person playing _Civilization, Anno 1800, or Cities: Skylines_, clicking all the levers they think will help them win the game.
+This book made you a player god in mind, the next will make you a player god in reality. We'll do that by putting many levers of power in your hand, first and foremost for car crashes. No middleman. No phantom chasing. No dark majic. No Death Star. No Darth Blockbuster. Just you in control of your destiny—exactly like a person playing _Civilization, Anno 1800, or Cities: Skylines_, who has all the levers of power they need to win the game.
 
-The Life Star is the technological re-creation of Evolution; a rulebook to enforce Techvolution, that lets everyone play, understand, and master the game of civilization; fair and understandable rules gives everyone a chance to win, and thus makes everybody happy. Philosophers call it the rational state, earned through years of thesis, antithesis, and synthesis. I call it the state of nature, where all lifeforms are happy to be alive. You'll read all about it in Techvolution: Building the Life Star.
+The Life Star is the technological re-creation of Evolution; a rulebook to enforce Techvolution, that lets everyone play, understand, and master the game of civilization; fair and understandable rules gives everyone a chance to win, and thus makes everybody happy. Philosophers call it the rational state earned through years of thesis, antithesis, and synthesis. It is a rational state, one I also call the state of nature; because all lifeforms are happy to live in it. You'll read all about it in Techvolution: Building the Life Star.
 
 # THE APPENDICES
 
 ## Other Stuff
 
-Hello. Thanks for sticking around. The appendices is some stuff I couldn't fit into the narrative of the book, but I thought might be cool to know. Just aheads up, It'll be more abstract then usually.
+Hello. Thanks for sticking around. The appendices is some stuff I couldn't fit into the narrative of the book, but I thought might be cool to know. Just aheads up, It'll be more abstract then usual.
 
 ## Bears Everywhere, Polar Bears Only In Some Places
 
-Most of this book is based on combinining the lessons of evolutionary biology, with human my take on political societies. It's work I did years ago. There's a lot to it, a genuine work of science, but it's original thinking will need the objective data from the Life Star to prove. Although I've tried to explain it to people, I've had rare successes.
+Most of this book is based on combinining the lessons of evolutionary biology, with human my take on political societies earned by using Aristotle's Poetics to better understand Hegelian Dialectics. It's work I did years ago. There's a lot to it—a genuine work of science forthcoming in _How to See the Matrix_—but it's original thinking will need the objective data from the Life Star to prove. Although I've tried to explain it to people, I've had rare success.
 
 Most people are extremely bad at understanding their political opinions. While it's kinda of easy to get people to question their ideas using for example the Socratic Method, they'll revert once released back into the community. Psychology, upbringing, temperment, education, life experience, and all that intermix to form our politics. The Life Star will help us decode this jumble. But there's one thing that is far stronger than our opinions that determines our actions in political community.
 
-The game of civilization, another way of saying human evolution. Which is another way to say how human life gathers resources, grows, and diversifies. And it's this last point that has proven to hard for me to explain.
+The game of civilization, another way of saying human evolution. Which is how human life does what all lifeforms do and gathers resources, grows, and diversifies. And it's this last point that has proven to hard for me to explain.
 
 There's no way around the game of civilization. Like evolution to lifeforms, we all are inside it. It's paint by numbers. Tracks on the road we're bound to follow. We all live and die under it's demands. Playing a Civilization computer game is really the best way to understand it. In the game, every player starts off small, then gathers resources, invests them smartly, and grows. Playing the game teaches the importance of geography, technological upgrades, adopting modern philosophies, defeating everyone who opposes you, investing in research and development, avoiding building palaces to host jewellery laden banquets and balls.
 
-But no computer game is about diversification. In every game—a player tries to take over the world with his one civilization. Never does the player haves to segment himself into different civilization. This civilization life-cycle of seed, growth, then adaption and diversificationns happens to all civilizations. Few people realize how human cyborgology is the same as biology.
+But no computer game forces the player into diversification or "adaptive radiation." In every game—a player tries to take over the world with his one civilization. Never does the player haves to segment himself into different civilizations. This civilization life-cycle of seed, growth, then adaption and diversificationns happens to all lifeforms and thus all civilizations. Few people realize how human cyborgology is the same as biology.
 
-Polar Bears are nearly identitical to Brown Bears. But they're polar for a good reason. If they didn't adapt to the cold, water, and food supply, they've never live in the Artic. Thus, life diversified them. Adaptation is why we can't send the suffering polar bears to the Amazon, or even Antartica. They are adapted to the climate in one area, and the ecosystem in the other. Imagine penguins with a few antartic polar bears walking around. Happy feet indeed.
+Polar Bears are nearly identitical to Brown Bears. But they're polar for a good reason. If they didn't adapt to the cold, water, and food supply, they've never live in the Artic. Thus, life diversified them. Adaptation is why we can't send the suffering polar bears to the Amazon, or even Antartica. They are not adapted to the climate in one area, and the ecosystem in the other. Imagine penguins with a few antartic polar bears walking around. Happy feet indeed.
 
 The point is this. We evolve just like any other lifeform. But we evolve with tools, and we evolve in ages. So we start off small, grow, and diversity in waves. Each new age, is like new lifeforms, new cyborgs, spreading across the world for the first time. Look at the European Powers below, who colonized the world a few generations ago during the Age of Discovery.
 
@@ -1568,9 +1570,9 @@ So life spreads far and wide with no consideration for the lifeforms already the
 
 Life thus has a two step process. One age of growth, the other of diversification. And this explains sooooo much of our politics today. The Industrial Age was one of world-wide growth. The second step, Internet Age, is one of diversification. And we're in this diversification phase right now. But nobody knows it, because we still use the Right/Left, era of mass-production philosophy of the Industrial Age.
 
-So Trump and Brexit were unconscious choices made by people who want diversification of the Industrial Age. This is part of the game of civilization we all play, but few see the entireity of. That's why the established powers of the Industrial Age were so suprised, and have so much hatred, for nativist politics in the West. Although nativist politics isn't the future. Like the English Civil War, they're using old philosophies to try and make fundamental change. Only Techvolution, conscious adaptation using modern tools, is the new philosophy for our new Internet Age.
+So Trump and Brexit were inevitable. Our society wants to diversity after the Industrial Age. This is part of the game of civilization we all play, but few see the entireity of. That's why the established powers of the Industrial Age were so suprised, and have so much hatred, for nativist politics in the West. Although nativist politics isn't the future. Like the English Civil War, they're using old philosophies to try and make fundamental change. Only Techvolution, conscious adaptation using modern tools, is the new philosophy for our new Internet Age.
 
-I plan to write a textbook on Techvolution (How to See the Matrix), I'll love to now delve more into the the game of civilization for you. And teach you how to decode the trends of history. What a civil war is, how to predict a revolution, and so forth. The game defines our lives in so many ways, because it determines the roles we play in our lives. The accident of birth to parents, geography, or time-period makes us antagonists, protagonists, extras and player gods. Few people understand their role, and a insight might help you choose Techvolution. But that'll come later. Hopefully.
+I plan to write a textbook on Techvolution (How to See the Matrix), I'll love to now delve more into the the game of civilization for you., and teach you how to decode the trends of history: what a civil war is, how to predict a revolution, and so forth. The game defines our lives in so many ways, because it determines the roles we play in our lives. The accident of birth to parents, geography, or time-period makes us antagonists, protagonists, extras and player gods. Few people understand their role, and a insight might help you choose Techvolution. But that'll come later. Hopefully.
 
 ## The End of One Game, and the Beginning of a New One
 
@@ -1680,3 +1682,5 @@ We must also notice the ends which the various forms of government pursue. The e
 ===
 
 So, that's where it all came from. Machiavelli taught regular people to stop hoping for a better life, and start making one. Hobbes/Locke taught us our government can be instruments for liberty. Rousseau said we, the people, could make up government if we empowered our better natures. Hegel taught us the difference between Protagonsits and Antagonists, Player Gods, and Extras. Galileo taught us to use tools to see the Truth. Darwin taught us life is nothing but the evolution of new tools. And Majic, he taught us that technology is an extension of life, that player gods can use to improve this world, once we believe in ourselves. Or he wasted far too much time writing to himself. Either way, it's confusing and fitting Faith made him keep going.
+
+I spent my 20's wondering what the next few pages of "A Student's Guide to Political Philosophy" were going to be. Even weireder, like Newton using his own eyes for lenses, I used myself as a proxy for life under the Life Star. A life of austerity, simplicity, childish honesty, and self induced hypersensity to all frontline pain so easily brushed aside by extras. I feel confident to say I now know the next few pages, because I wrote and lived it—although I'd never pay the price again.
