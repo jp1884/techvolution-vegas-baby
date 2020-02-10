@@ -2244,3 +2244,16 @@ I never intended to write this book. I wrote a similar one, "Why the 2008 Econom
 I wanted (and am), writing "Building the Life Star" and "Starting Starfleet." Which in summary say, digital tools will start enabling mass-collaboration, give us objective facts whose lives and civilizations are more efficient, and therefore let us start saving oddles of money. With all the savings, we'll start the Space Exploration Age.
 
 So I made my app to demonstrate these simple facts. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in "tech."
+
+## Protagonists Wanted
+
+Tesla isn't a company, it's the manifestation of the general will of so many people to get on with the Internet Age. Same with places like SpaceX, Linux Foundation, OpenAI. Like movie audiences looking for good stories, everyday people on Main Street are looking for companies and protagonists to believe in.
+
+They public is always hiring protagonists to follow. Keep that in mind when hearing antagonists overhype another franchise movie, or blame insurance fraud for their problems. Maybe they're just aren't up to the job of being a leader.
+
+## I Want to Work at Blockbuster, I Want to Use Netflix
+
+Everyone knows the world is changing. We hear a lot of the computerization of work, the growth of Artificial Intelligence and Machine Learning, and the end of the "one job for life" mentality. What doesn't exist is a self-realization that _your_ job is changing. There are still lots of Blockbusters in the world today, and the people inside often think they'll work there forever even though they watch Netflix every night.
+
+While I want Techvolution to help change our future, one thing I really hope it does, it make Main Street aware, they can't get away with thinking the future isn't coming. Eventually, society gets just as sick paying for your Blockbuster, as it did the original one.
+
