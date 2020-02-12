@@ -2257,3 +2257,16 @@ Everyone knows the world is changing. We hear a lot of the computerization of wo
 
 While I want Techvolution to help change our future, one thing I really hope it does, it make Main Street aware, they can't get away with thinking the future isn't coming. Eventually, society gets just as sick paying for your Blockbuster, as it did the original one.
 
+But there's a roadblock; do you know if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? Do you know where to find your local business by-laws, building codes, tax laws?
+
+Even without antagonists, our society's rulebook is so large and dense, we all live under the threat of making a mistake, and being hit by a code violation, claim denial, warranty rejection, lawsuit, or audit. And what if antagonists want to attack us? It's so easy for anyone with the resources to find "a mistake" and use their Death Star to start a lawsuit, deny a claim, or shut your worksite down.
+
+ Some of these services are on the internet, but they don't empower regular people. Like Blockbuster having a website, regular people still need to call an insurance adjuster, wait for a code inspection, or hope we can afford a good lawyer.
+
+Technologically speaking there's absolutely no reason for this. Linux software is worth billions, it quite literally runs the internet, and even so, we can download it by pressing this button... while accessing the our home insurance policy is a complete mystery.
+
+Only because one industry believes in making you a player god, the other an extra. The truth is, regular people can work as freely as the _Cities: Skylines_ clip above. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, MySQL databases can literally put the power to work without gates or antagonists in your hands!
+
+We could easily make a rulebook that's easy to use, friendly, and reasonable. It could guide you so you fully understand what you should be doing, let you ask informed questions if something doens't make sense, and especially fight back if you think something is wrong.
+
+But this updated rulebook will only be a happy reality once Main Street uses Techvolution as their shield and motivation to bring on the era of mass-collaboration. A modern rulebook is the absolutely the best weapon against Darth Blockbuster, which is why it's worth fighting for.
