@@ -1463,28 +1463,26 @@ The truth, then and now is, evolution happens on the frontline. Pompeous leaders
 
 ## Extras Die Off
 
-During the Thirty Years War Main Street kept fighting and murdering each other for generations; all in the name of the king. In fact, When democracy ended in 1658, Charles son James II was put back on the throne. Without Rousseau's new ruling philosophy, no one had any better ideas. It wasn't long before the new king took his revenge—everyone who signed his fathers' death warrant was beheaded.
+While Charles was fighting his wars, Europe was fighting the Thirty Years War. A time when Main Street kept fighting and murdering each other for generations; all in the name of the king. Sadly, when the Purtitan democracy ended in 1658, Charles son James II was put back on the throne. Without Rousseau's new ruling philosophy, no one had any better ideas. It wasn't long before the new king took his revenge—everyone who signed his fathers' death warrant was beheaded.
 
 And that's the point to this story. Even though Main Street was inside a new age, very unhappy, and victorious in the two civil wars, without a new philosophy, the antagonists still ended up winning.
 
-So, if you stay an extra, that's your fate. You'll limit your politics to only see Progressivsm or Conservatism. You'll become radicalized, and end up chasing their phantoms in the nightly news, rallies, and demonstrations. You'll argue with antagonists at work but get no where. You'll get so frustrated you'll march and scream for change. Eventually, after another financial crisis, debt crisis, migrant crisis, disputed election, constituional amendment; some crisis or another, the West will reach the end of kicking the can down the road, and live through a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosis using our history.
+So, if you stay an extra, that's your fate. You'll limit your politics to only see Progressivsm or Conservatism. You'll slowly become radicalized, and end up chasing phantoms in the nightly news, rallies, and demonstrations. You'll argue with antagonists at work but get no where. You'll get so frustrated you'll march and scream for change. Eventually, after another financial crisis, debt crisis, migrant crisis, disputed election, constituional amendment; some crisis or another, the West will reach the end of kicking the can down the road, and live through a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosis using our history. 
 
 And regardless of "wanting to stay out of it" extras will be forced to stop watching their civilization, and join in, as our society tears itself apart.
 
 https://www.youtube.com/watch?v=tEczkhfLwqM
-_How much longer do you think before Red/Left politics completely breaks down? Look at their devoted followers raging at each other, do you want to let them decide your fate?_
+_"A warning of the dangers of entrusting power to those who feel summoned by God to war, or feel that their sense of justice and order is the only one valid." How much longer do you think before Red/Left politics completely breaks down? Look at their devoted followers raging at each other, do you want to let them decide your fate?_
 
-And in the end, Left and Right will quite literally kill each other off. Because we're in a new age, and every new age, eventually gets a a new ruling philosophy. We can skip war between Left and Right, and upgrade right now, because we can learn from our ancestors on Main Street who used Rousseau to "hear the people sing" demanding their happiness. Which they got when a new philosophy told them reach for the levers of power and become player gods.
+And in the end, Left and Right will quite literally kill each other off. Because we're in a new age, and every new age, eventually gets a a new ruling philosophy. We can skip all that bullshit, and upgrade right now, because we can learn from our ancestors on Main Street who used Rousseau to sing to demand their happiness. Which they got when a new philosophy told them reach for the levers of power and become player gods.
 
 ## Look Up
 
 Look up. Whereever you are, look up. Do you see the "mythical player god"? No you don't, and you never will. You are that player, you're choices determine what happens in the game. If you eat a salad over a cheesesteak, that means health statistics get better. If you walk to the store instead of drive, you improve road traffic. If you read instead of binge watch, society gets more educated.
 
-You are the lifeform playing the game of civilization. And doing the typical thing is losing us the game. Reaching for the fancy car, bigger home, more expensive schooling is not, and will not, bring us victory. You car is causing climate change. Your home is a money pit causing financial crises. Your expensive schooling is buying prestige and not education. Getting the 9-5 job, obeying your boss, buying retirement fund, and living 40 years in the rat-race, isn't enough to call yourself a success in the Internet Age.
+You are the lifeform playing the game of civilization. And doing the typical thing is losing us the game. Your soul already feels this. It's why we're getting so unhappy. We know we could be doing so much better. We are in a new age. Which means our habitat has changed. You, me, everyone has to adapt in the exact same way a polar bear would have to adapt in the Amazon.
 
-Your soul already feels this. It's why we're getting so unhappy. We know we could be doing so much better. We are in a new age. Which means our habitat has changed. You, me, everyone has to adapt in the exact same way a polar bear would have to adapt in the Amazon.
-
-That's what Techvolution is. The self-awareness that we are all the mythical player god. It's therefore our right, and duty, to do whatever we must to win the game. You don't have to change the entire world. You only have to do what you can, to improve your slice of it. And the compass that shows you the way, is your own happiness. Not the pretend happiness that has to brag to about getting more stuff. The happiness inside your soul that smiles when it majically contributes to evolving life on Earth.
+That's what Techvolution is. The self-awareness that we are all the mythical player god. It's therefore our right, and duty, to do whatever we must to win the game. You don't have to change the entire world. You only have to do what you can, to improve your slice of it. And the compass that shows you the way, is your own happiness. Not the pretend happiness that has to brag to about getting more stuff. The happiness inside your soul that smiles when it majically contributes to evolving life on Earth. It's not race, but a never ending journey.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/CandidFeistyBuckeyebutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
@@ -1496,7 +1494,7 @@ Darth Blockbuster will never, ever, ever, "see the light". But that's why I'm no
 
 ![Illustration](/img\sketches\playergod-stargazer.jpg)
 
-The fate of civilization is on your shoulders. Your job is to do what's best for yourself, and help society prosper. Looking up for guidance you see two options. Open-source Jedi who've never stopped innovating, thinking ahead, and filling the world we majic. And the self-importance, short-sightedness of Darth Blockbuster—the fallen hero of the Industrial Age who uses the trickery of dark majic and a corrupted rulebook to keep himself in power.
+The fate of civilization is on your shoulders. Your job is to do what's best for yourself, and help society prosper. Looking up for guidance you see two options. Open-source Jedi who've never stopped strugglinh, innovating, and filling the world we majic. And the self-importance, short-sightedness of Darth Blockbuster—the fallen hero of the Industrial Age who uses the trickery of dark majic and a corrupted rulebook to keep himself in power.
 
 The fate of civilization is then, rather simple. Who is your hero Stargazer? Will you be a player god or an extra? We all await your choice. The conclusion of Techvolution A New Philosophy is thus a simple discussion inside your head. Which might look something like this...
 
@@ -1504,11 +1502,12 @@ The fate of civilization is then, rather simple. Who is your hero Stargazer? Wil
 
 I wanted to write dialogues for you here. I'd love to have Antagonists and Protagonists debating with Stargazer, who has an internal discussion between the benefits and drawbacks of being an extra or player god, and the joys of majic versus dark majic.
 
-I would love to write stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society, and fighting like Neo to bring people out of the Matrix and into the Internet Age.
+I would love to write stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society, and fighting to bring people out of the Matrix and into the Internet Age.
 
-Imagine these guys as Linus Tech Tips and Morpheus mixed together. In fact, today's "geeks" are really majicians in waiting. Like revolutionaries of old, these are the people who know how powerful modern computers are. Darth Blockbuster's excuses mean nothing to them. Soon, they'll live to attach roofers with drones, cleaners with IR cameras, craftsman with 3D printers. As majicians they'll make modern cyborgs who will will earn more money, see their kids more, and live inside the era of mass-collaboration.
+Imagine these guys as a weaponized Linus Tech Tips. In fact, today's "geeks" are really majicians in waiting. Like revolutionaries of old, these are the people who know how powerful modern computers are. Darth Blockbuster's excuses mean nothing to them. Soon, they'll live to bring Main Street to the era of mass-collaboration. They'll attach roofers with drones, cleaners with IR cameras, craftsman with 3D printers—so the middle-class once again likes their jobs, feed their families, and give their kids an optimistic future.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/whimsicalleadingfirebelliedtoad">via Gfycat</a></p>
+
 _An ideallized view of mass-collaboration. No antagonists or extras, just protagonists and player gods._
 
 I want to write all this stuff, but I can't keep thinking for you. Nor do I want to keep holding your hand. This book has been informative enough. At the start I asked "are you happy?" Now you have to ask yourself "Am I going to do something about it?"
@@ -1525,17 +1524,17 @@ If you do, we win. If you don't, we lose.
 
 Hello Stargazer! I'm glad you came aboard. If it wasn't for you, the future would exist only in science fiction. Now because of you, we can start Techvolution. While I dearly hope Left/Right politics gets better, I don't think we should wait and see. It's much safer to make the future happen now.
 
-There's lots of work ahead. I unfortunately can't tell you what your journey will be like. It's your job to upgrade your slice of the world to the Internet Age. You can however follow my trek to make our society happier.
+There's lots of work ahead. I unfortunately can't tell you what your journey will be like. It's your job to upgrade your slice of the world to the Internet Age. You can however follow my trek to make our society better.
 
 ## My Frontline Problem
 
-Watch this clip from Netflix's _Black Mirror_. It's a story of a crazed man who wants to talk with the CEO of an Instagram-like app called Smithereen. He holds a company intern hostage awaiting the CEO’s call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. Nobody knows why. They only know he was hit by a drunk driver years before.
+Watch this clip from Netflix's _Black Mirror_. It's a story of a crazed man who wants to talk with the CEO of an Instagram-like app called Smithereen. He holds a company intern hostage awaiting the CEO’s call. Police surround him, corporate lackies try to deflect him, bullets are fired at him, but he still wants his phone call. The only thing people know is he hit by a drunk driver years before.
 
 https://www.youtube.com/watch?v=_gF1oGQ2hAA&feature=youtu.be&t=57
 
-New technology is either our salvation. Or our distraction. This is frontline pain. It's not caused by Progressives, or Conservatives. It's neither someone else problem, or bad luck. This is our society's pain. Pain is what evolution uses to force it's lifeforms to adapt, and if we refuse, life finds someone else to carry it's banner.
+New technology is either our salvation. Or our distraction. This is frontline pain. It's not caused by Progressives, or Conservatives. It's neither someone else problem, or bad luck. This is our society's pain felt by everyday people living a regular life. Pain is what evolution uses to force it's lifeforms to adapt, and if we refuse, life finds someone else to carry it's banner.
 
-These are the poor souls car insurance adjusters speak to all day. While most aren't so devastated; far too many are (in fact many adjusters don't use social media because of threats from callers, sadly a kidnapping isn't not too outlandish. Some people send thank-you flowers though so there's good and bad). Deadly crashes, mutilations, hijackings, murders, drive-bys, drunk driving, car fires, and yes, distracted driving. Every human tragedy eventually calls an insurance adjuster. And all the while DING-DING-DING-DING-DING-DING.
+These are the poor souls car insurance adjusters speak to all day. While most aren't so devastated; far too many are (in fact many adjusters don't use social media because of threats from callers, sadly a kidnapping isn't not too outlandish. Some callers send thank-you flowers though so there's good and bad). Deadly crashes, hijackings, murders, drive-bys, drunk driving, car fires, running red lights, and yes, distracted driving. Every human tragedy eventually calls an insurance adjuster. And all the while DING-DING-DING-DING-DING-DING.
 
 I wept while watching Smithereens; full out tears. I knew what the plot twist was—that distracted driving killed a loved one—because I'd spoken with this person too many times. This was the motivation for me to make my app. I wanted to help solve horrible, useless, and preventable car crashes with something (I now call) the Life Star.
 
@@ -1546,17 +1545,17 @@ _This is the what digital technology is good for. Only player gods will reach fo
 
 ## My App
 
-My app was very simple. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was simple. Might not even get me a job in "tech."
+My app was very simple. Using modern web development, it took just a few months of work. Take some free code from GitHub, an inexpensive cloud computing account, and the design skills of a novice. It was so simple, it might not even get me a job in "tech."
 
-Here’s how it worked. Today's insurance industry is entirely based in the Industrial Age. So after an accident, drivers are expected to exchange information. Because they're (understandably) frazzled they often don’t. Adjusters have to search for each other—literally calling around or hoping someone calls you. Delays pile up like crazy, causing most of the maddening DING-DING-DING-DING.
+Here’s how it worked. Today's insurance industry is entirely based in the Industrial Age. So after an accident, drivers are expected to exchange information. Because they're (understandably) frazzled they often don’t. Adjusters have to search for each other—literally calling around or hoping someone calls you. Delays pile up like crazy; causing most of the maddening DING-DING-DING-DING.
 
-Like Uber uses online maps, mine let insurance adjusters post an accident on a google map. Since every accident shares the GPS coordinates, all adjusters, regardless of what drivers do, can find and email each other. It’s minimal cost was paid for by rental car companies and repair shops who loved the ability to communicate with adjusters via email instead of waiting on hold.
+Like Uber uses online maps, mine let insurance adjusters post an accident on a google map. Since every accident shares the GPS coordinates, all adjusters, regardless of what drivers do, can find and email each other. It’s minimal cost was paid for by rental car companies and repair shops who loved the ability to communicate with adjusters online instead of waiting on hold.
 
 Fostering collaboration like this made workers smile. The best part thought was something much better. With digital collaboration we can start getting very important information on our economy. For example, with my small little app, for the first time, we’d have a database of the exact location and causes of car accidents. Thereafter we could cross reference with weather, traffic, demographics, and many other databases. We’d finally learn why car accidents happen, and start to fight back.
 
 A database of accident locations and causes doesn’t exist today. Government regulators don't care about it. Insurance company managers don't care about it. Extras tell themselves "they" are solving their problems. So, when tires are faulty, intersections jam up too much, pot holes get too big, or anything else repeatedly causes accidents, we don’t even know.
 
-My little app would hav done this all. A happy upgrade in the game of civilization; but not good enough. Or more likely, too good. Frontline workers loved it. My biggest problem was I messed with a lever of power. Because of Techvolution, that's also our salvation.
+My little app was a happy upgrade in the game of civilization; but not good enough. Or more likely, too good. Frontline workers loved it. My biggest problem was I messed with a lever of power. Because of Techvolution, player gods now know what to fight for.
 
 ![New Tool Creation](/img\diagrams\techvolution-civilization-is-here.jpg)
 _Look familiar? Uber, Airbnb, and my app, all used GPS maps. Kinda looks like the game of Civilization doesn't it? No surprise there. I told you computers games teach us about the Internet Age. A sneak peek at the Life Star._
@@ -1565,24 +1564,26 @@ _Look familiar? Uber, Airbnb, and my app, all used GPS maps. Kinda looks like th
 
 Adjusters hold the insurance checkbook in their hand. They decide how much to payout on every claim. Making the outside world use a telephone to call isn't an accident. It's a huge lever of power to say "call me when I'm available". By easing congestion, and lessening the DINGS, I was in effect taking away the insurance company's ability to create friction for anyone withdrawing money. Nor was lessening crashes much of a selling point. But to be fair, it's not the insurance industry's job to fight them; they aren't the ones behind the wheel.
 
-This was never officially said to me. Remember being far from the frontline makes people not realize the consequences of their actions. In fact, most insurance decision-makers today are have never even spoken with a customer, nevermind processed a claim. They'd watch Smithereens with no tearful recognition. With no pain felt, there was no problem to solve.
+This was never officially said to me. Remember being far from the frontline makes people not realize the consequences of their actions. In fact, most insurance decision-makers today are have never even spoken with a customer, nevermind processed a claim. They'd watch Smithereens with no tearful recognition. Simply put, With no pain felt, there was no problem to solve.
 
-Thus, while my journey took me to question a lever of power and fail. But I now I know how to fix my failure. The key to success, for me and you Stargazer, is making a modern lever of power, then making frontline pain, common knowledge.
+Thus, now I know how to fix my failure. The key to success, for me and you Stargazer, is making a modern lever of power, then making frontline pain, common knowledge.
 
 <a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw" target="_blank">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_This is a Twitter feed for the Ontario Police. They use it to tell the public about crashes in real-time. People on this list are right now, living through Smithereens in some way, but we don't capture this information to learn and prevent crashes. We will, with the new life saving rules of the Life Star._
+_This is a Twitter feed for the Ontario Police. They use it to tell the public about crashes in real-time. People on this list are right now are living through Smithereens in some way. That pain used to only be felt by families, now everyone can fell it, and do something about it with the life saving rules of the Life Star._
 
 ## The Life Star
 
-At it's heart, Smithereens is a story about an extra. The tortured man assumes the company Smithereen will care about his problem. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. "They" only have your interest at heart if you're holding levers of power.
+At it's heart, Smithereens is a story about an extra. The tortured man assumes the company Smithereen will care about his problem. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. The truth is, "They" only have your interest at heart if you're holding levers of power.
 
 And that's the subject for the next book. Because for all the antagonist blustering and excuses, once a regular person becomes a player god, the game is won. Because the only reason Smithereens happens, the only reason those damn DINGs are still ringing, is because Main Street accepts what the antagonists give.
 
+Consider this, for every dollar Main Street puts into car insurance, we get back 50 cents in claims. Hopefully by now, you know the middle-class doesn't have to accept losing all that money anymore.
+
 This book made you a player god in mind, the next will make you a player god in reality. We'll do that by putting many levers of power in your hand, first and foremost for car crashes. No middleman. No phantom chasing. No dark majic. No Death Star. No Darth Call Centre. Just you in control of your destiny.
 
-Frederick Douglass taught us knowledge is the ultimate super-weapon. So we'll give you all the information on insurane coverages, regulations, payments; hold you accountable, and start savings lives with new technology—exactly like a person playing _Civilization, Anno 1800, or Cities: Skylines_, who has all the levers of power they need to win the game.
+Frederick Douglass taught us knowledge is the ultimate super-weapon. So we'll give you all the information you need to deal with a crash—exactly like a person playing _Civilization, Anno 1800, or Cities: Skylines_, who has all the levers of power they need to win the game.
 
-The Life Star is the technological re-creation of Evolution; a rulebook to enforce Techvolution, that lets everyone play, understand, and master the game of civilization; fair and understandable rules gives everyone a chance to win, and thus makes everybody happy. Philosophers call it the rational state earned through years of thesis, antithesis, and synthesis. I also call it the state of nature—because all lifeforms are happy to live in it. You'll read all about it in Techvolution: Building the Life Star.
+The Life Star is the technological re-creation of Evolution; a rulebook to enforce Techvolution, that lets everyone play, understand, and master the game of civilization; fair and understandable rules gives everyone a chance to win, and thus makes everybody happy. Philosophers call it the rational state earned through years of thesis, antithesis, and synthesis. I also call it the state of nature—because all lifeforms happily live in it. You'll read all about it in Techvolution: Building the Life Star.
 
 # THE APPENDICES
 
@@ -1592,7 +1593,7 @@ Hello. Thanks for sticking around. The appendices is some stuff I couldn't fit i
 
 ## Bears Everywhere, Polar Bears Only In Some Places
 
-Most of this book is based on combinining the lessons of evolutionary biology, with human my take on political societies earned by using Aristotle's Poetics to better understand Hegelian Dialectics. It's work I did years ago. There's a lot to it—a genuine work of science forthcoming in _How to See the Matrix_—but it's original thinking will need the objective data from the Life Star to prove. Although I've tried to explain it to people, I've had rare success.
+I never wanted to write this book. Most of this book is based on combinining the lessons of evolutionary biology and political philosophy. I think they're the same field of study, so similar they suggest a supreme physical life field of some kind. I used my take on political societies earned by using Aristotle's Poetics to better understand Hegelian Dialectics. It's work I did years ago. There's a lot to it—a genuine work of science forthcoming in _How to See the Matrix_—but it's original thinking will need the objective data from the Life Star to prove. Although I've tried to explain it to people, I've had rare success.
 
 Most people are extremely bad at understanding their political opinions. While it's kinda of easy to get people to question their ideas using for example the Socratic Method, they'll revert once released back into the community. Psychology, upbringing, temperment, education, life experience, and all that intermix to form our politics. The Life Star will help us decode this jumble. But there's one thing that is far stronger than our opinions that determines our actions in political community.
 
