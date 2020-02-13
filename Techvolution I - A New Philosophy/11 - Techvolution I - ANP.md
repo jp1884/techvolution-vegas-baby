@@ -850,7 +850,15 @@ Where are your medical records? Who has your medical records? Does anyone have y
 
 Think about that the next time you're seeing a nurse, doctor, or pharmacist. No one has a complete list of your sicknesses, diseases, shots, treatments and pills. After all, why would "they", if you don't?
 
-In the Industrial Age carrying around your medical history was impossible—too much paperwork. In the Internet Age it's a matter of extras and becoming player gods. Controlling our own medical records is one of the many levers waiting to be made and contolled by Main Street in the Internet Age. The finally we can start tracking our health, along side things like GDP. Something to look forward to I'd say.
+In the Industrial Age carrying around your medical history was impossible—too much paperwork. In the Internet Age it's a matter of extras and becoming player gods. Controlling our own medical records is one of the many levers waiting to be made and contolled by Main Street in the Internet Age. The finally we can start tracking our health, along side things like GDP. Better health is something to make us happier I'd say.
+
+## Good Jobs
+
+People get and leave jobs all the time. We start our new job by being introduced to our workplaces, tasks, and co-workers. One thing is missing, we almost never speak with the person whose job we're replacing.
+
+Does this make sense? Just out of practicality, why not get talk about tasks, shortcuts, lessons, and other expertise like if the boss is a jerk, incompentent, or a sexual predator.
+
+Something to think about. Why aren't we asked to, expected, or even allowed to speak to someone that'll help us learn our new job. When the frontline speaks to each other in the era of mass-collaboration we will learn our jobs better and faster, but also check and balance bad bosses with nothing but a conversation.
 
 ## Does The World Need to Know
 
@@ -880,23 +888,23 @@ Internet Age celebrities are different. While we can make fun of Instagram model
 
 The next time you hear "celebritiy" ask yourself if they're one of yours. The Internet Age gives you that power.
 
-## The Weather Patterns Inside the Game of Civilization
+## The Game of Civilization Life Cycle
 
-Our Earth has predictable weather patterns, Winter, Spring, Summer and Fall happen every year like clockwork.
+We all accept life and death. We welcome babies in the world with smiles, knowing that they may be the ones crying when we pass on. Oak trees, otters, orangutans, all lifeforms evolve by seeding themselves, growing, and then eventually dying. It's up to the living to seed themselves before death catches up.
 
-Likewise, the game of civilization also has patterns. Humanity evolves with technology. We make new technology in ages. Protagonists invent powerful new tools, which attracts people via the majic of new cyborgology. Antagonists resist change to protect their social status by increasing the dark majic attraction of old tools, and using the established social rules to keep new tools from become new levers of power. Which works until a new philosophy helps rewrite the rules, and thus lets society step into the new age.
+Our societies are also in the same cycle as we grow inside new technology ages. Keep this in mind as we leave the Industrial Age, and upgrade ourselves to the Internet Age. The never ending game of civiliation also has life-cycle of growth, adaptation, and then death. We don't have a choice to stop the life-cycle.
 
-The weather patterns of history look like this. Keep this in mind as we uprade ourselves to the Internet Age. We don't have a choice to stop the season. We're all inside a never ending game of civliation. Like all lifeforms our society adapts or dies.
+You can see the rise and fall of the British Empire in the video below. It's a life-cycle we're part of ourselves. We win, by evolving into the next age before death catches up to us.
 
 <div style="width:100%;height:0;padding-bottom:44%;position:relative;"><iframe src="https://giphy.com/embed/6psF6vcajCX7y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/evolution-maps-cartography-6psF6vcajCX7y">via GIPHY</a></p>
 
-## Cognitive Dissonance Doesn't Know About the Weather
+## Cognitive Dissonance Doesn't Care About the Life-Cycle
 
 Ruling philosophies are very powerful. They can make strong believers of people who sometimes have a hard time applying their philosophy to the real-world. One example is Lysenkoism. This was a pseudo-science in the Soviet Union that assumed our genes inherit learned traits. So for example, if you lived in a hot climate, your genes would morph to sweat more.
 
 Darwin said the opposite. That our genes are set in stone, and it's the fittest who survive. Soviets didn't want to believe that because it sounded like elitism; which their communist ideology said was unnatural. The result was Soviet agriculture didn't get better seeds, genetic research didn't exist, and thousands of Soviet biologists were sent to labour camps because they asked too many questions.
 
-The further we go into the Internet Age, the more out of date Progressive and Conservative ideologies get. And these ideologues don't know—or care—about the "weather patterns of civilization", so they fight to keep their ideologies alive past their life expectancy.
+The further we go into the Internet Age, the more out of date Progressive and Conservative ideologies get. And these ideologues don't know—or care—about the "life cycles of civilization", so they fight to keep their ideologies alive past their life expectancy.
 
 As notes above, this kind of fight got so serious it set Europe aflame in the Thirty Years Way. Now we have rallies around trigger words, taxpayer marches, free speech restrictions, woke culture, toxic campuses and boardrooms, revisionist histories. These misguided people will keep raising tensions, until we click a new philosophy. Watch out.
 
@@ -1589,7 +1597,7 @@ _This is a Twitter feed for the Ontario Police. They use it to tell the public a
 
 ## The Life Star
 
-At it's heart, Smithereens is a story about an extra. The tortured man assumes the company Smithereen will care about his problem. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. The truth is, "they" only have your interest at heart if you're holding levers of power.
+At it's heart, Smithereens is a story about an extra. The tortured man assumes the company Smithereen will care about his problem. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. The truth is, "they" only have your interest at heart if you're holding levers of power; because only then does "they" become "we".
 
 And that's the subject for the next book. Because for all the antagonists blustering and excuses, once a regular person becomes a player god, the game is won. Because the only reason Smithereens happens, the only reason those damn DINGs are still ringing, is because Main Street accepts what the antagonists give.
 
