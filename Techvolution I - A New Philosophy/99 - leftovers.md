@@ -2270,3 +2270,9 @@ Only because one industry believes in making you a player god, the other an extr
 We could easily make a rulebook that's easy to use, friendly, and reasonable. It could guide you so you fully understand what you should be doing, let you ask informed questions if something doens't make sense, and especially fight back if you think something is wrong.
 
 But this updated rulebook will only be a happy reality once Main Street uses Techvolution as their shield and motivation to bring on the era of mass-collaboration. A modern rulebook is the absolutely the best weapon against Darth Blockbuster, which is why it's worth fighting for.
+
+## Disruption
+
+As a special note to the tech community. Disruption isn't enough anymore. The belief new technology will eventually transform society assumes there's no staunch antagonism fighting for their survival. Disruption mainly replaced low-hanging fruit like consumer goods, but has done nothing for entire industries like legal services, government regulations, corporate employment, public education. After all, lawyers, bureaucrats, human resource reps, unionzed teachers depend on 19th century technology like paper forms, faxes, unreadable contracts, textbooks and chalkboards; they'll never disrupt themselves, why would they?
+
+Techvolution is disruption with the added element that the person being sued, using a regulation, working for a company, raising their kids, is being sold to; not as a consumer, but as a full-blown player god whose fully informed, empowered, and accountable to make choices that change our society. Uber and Airbnb overcoming resistence showcase what I mean. But those are small in comparison to what's need to establish the Internet Age. That's why Techvolution turns extras into player gods; while distuption kept Main Street out of the fight, it's only with their support that you protagonists will defeat the antagonists in our real-life game of civilization.

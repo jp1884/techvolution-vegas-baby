@@ -199,7 +199,7 @@ Now that we're several generations from the start of the Internet Age, items lik
 
 ## Open-Source Protagonists Are Pushing Us Into the Internet Age
 
-Open-source is a community of inventors, designers, and programmers. They are the successors of the first computer protagonists. With honest hearts and genius minds, they're leading us all into the Internet Age. These modern day heroes live, breath, and promote collaboration at places like GitHub, Wikipedia, Dribbble, Udemy, Stack Overflow, Unsplash, and Slack.
+Open-source is a community of inventors, designers, and programmers. They are the successors of the first computer protagonists. With honest hearts and genius minds, they're leading us all into the Internet Age. These modern day Jedi live, breath, and promote collaboration at places like GitHub, Wikipedia, Dribbble, Udemy, Stack Overflow, Unsplash, and Slack.
 
 Open-source has given Main Street the levers of power to control the Internet Age; even if the people don't realize it yet. Most people still think that retail stores, manufacturing, and education are industries only for governments or big businesses to control. However, because of the open-source community, there are countless new tools available for the people to take control of their own products, identities, and lives. The Internet Age is our new reality, one where Cinderella can stop praying her fairy godmother gets her past the palace gates. Today she can have fun any time she wants, because open-source gives everyone an invitation to the party.
 
@@ -208,6 +208,12 @@ The open-source community lives to democratize technology. Everyday they find ne
 In short, the open-source community has empowered Main Street. No longer are we bound to be extras in the Industrial Age hoping for a better life. Now we can become player gods in the Internet Age making a better life.
 
 I'm one of them. I'm a politics, history, and philosophy geek who spends far too much time thinking about this stuff. Digital tools let me write, research, host my own work. I can easily find world-class writers and illustrators to add the professional touch. Heck, think of the connection between you, and I. You're reading my ideas with no middle-men, and for virtually free. Because open-source heroes put new tools in both our hands.
+
+===
+
+A special note to the tech community. Disruption isn't enough anymore. I applaud the movement for opening up many gates, but it's also mainly replaced low-hanging fruit like consumer goods and done nothing for entire industries like legal services, government regulations, or corporate employment. And most of our lives are controlled by lawyers, bureaucrats, human resource reps who depend on 19th century technology; they'll never disrupt themselves, why would they?
+
+To put things into context, techvolution is more powerful disruption. It turns the user being sued, using a regulation, working for a company, into full-blown player god whose fully informed, empowered, and accountable to make choices that change our society. Uber and Airbnb are a small example of what it'll take to establish the Internet Age. Only with an empowered Main Street will you protagonists be able to continue the digital revolution.
 
 ## Mass-Production Replaced by Mass-Collaboration Makes Us Happy
 
@@ -886,13 +892,13 @@ The weather patterns of history look like this. Keep this in mind as we uprade o
 
 ## Cognitive Dissonance Doesn't Know About the Weather
 
-Ruling philosophies are very powerful. They make strong believers of people who often have a hard time applying their philosophy to the real-world. One example is Lysenkoism. This was a pseudo-science in the Soviet Union that assumed our genes inherit learned traits. So for example, if you lived in a hot climate, your genes would morph to sweat more.
+Ruling philosophies are very powerful. They can make strong believers of people who sometimes have a hard time applying their philosophy to the real-world. One example is Lysenkoism. This was a pseudo-science in the Soviet Union that assumed our genes inherit learned traits. So for example, if you lived in a hot climate, your genes would morph to sweat more.
 
 Darwin said the opposite. That our genes are set in stone, and it's the fittest who survive. Soviets didn't want to believe that because it sounded like elitism; which their communist ideology said was unnatural. The result was Soviet agriculture didn't get better seeds, genetic research didn't exist, and thousands of Soviet biologists were sent to labour camps because they asked too many questions.
 
 The further we go into the Internet Age, the more out of date Progressive and Conservative ideologies get. And these ideologues don't know—or care—about the "weather patterns of civilization", so they fight to keep their ideologies alive past their life expectancy.
 
-As notes above, this kind of fight got so serious it set Europe aflame in the Thirty Years Way. Now we have rallies around trigger words, taxpayer marches, free speech restrictions, woke culture, toxic campuses and boardrooms, revisionist histories. These misguided people will keep at it, until we click a new philosophy. Watch out.
+As notes above, this kind of fight got so serious it set Europe aflame in the Thirty Years Way. Now we have rallies around trigger words, taxpayer marches, free speech restrictions, woke culture, toxic campuses and boardrooms, revisionist histories. These misguided people will keep raising tensions, until we click a new philosophy. Watch out.
 
 <div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/AgileFeminineAlpineroadguidetigerbeetle' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/agilefemininealpineroadguidetigerbeetle">via Gfycat</a></p>
 
@@ -906,9 +912,13 @@ Once we embrace the era of mass-collaboration, "mom and pop" stores and small bu
 
 ## You Can't to Work at Blockbuster, And Use Netflix Forever
 
-Everyone knows the world is changing. We hear a lot of the computerization of work, the growth of Artificial Intelligence and Machine Learning, and the end of the "one job for life" mentality. What doesn't exist is a self-realization that _your_ job is changing. There are still lots of Blockbusters in the world today, and the people inside often think they'll work there forever; even though they watch Netflix every night.
+Everyone knows the world is changing. We hear a lot of the computerization of work, the growth of Artificial Intelligence and Machine Learning, and the end of the "one job for life" mentality. What doesn't exist is a self-realization that _your_ job is changing. There are still lots of Blockbusters in the world today, and the workers inside often think they'll be there forever; even though they watch Netflix every night.
 
-While I want Techvolution to help change our future, one thing I really hope it does, it make Main Street aware, they can't get away with thinking the future isn't coming. Eventually, society gets just as sick paying for your Blockbuster, as it did the original one.
+Just keep in mind, eventually society gets just as sick paying for your Blockbuster, as it did the original one.
+
+Oh, and discount hunting, sales events, Black Friday, is also going away—for the straightforward reason that deals are paid for by workers working for nothing. Deals were a good thing in the era of mass-production, because buying more meant the price per unit goes down for everybody. But in the era of mass-collaboration player gods want to make quality products, live a life, and not over produce garbage.
+
+This isn't happening now already. Netflix is one price all the time because it's not trying to oversell DVDs. In the Internet Age, everyone is frees from finding, or producing. And we'll be happier because of it.
 
 ## Traffic Has Different Solutions
 
@@ -920,6 +930,12 @@ Keep that in mind as we adapt ourselves to the Internet Age. More spending for s
 
 ![Frontline movies full](/img\diagrams\traffic.jpg)
 _I don't have to tell you where this is, because it's everywhere. More roads doesn't solve our transportation problems. Thinking it does, only limits your options as a player god._
+
+## Hastag Techvolution
+
+Techvolution requires people to become "player gods". It may sound high minded, but in reality it's just living life understanding the consequences of our actions. It's not unheard of; in fact we're always improving ourselves. We already learned how Abolitionism ended slavery, but we also did a great job cleaning up society with Environmentalism in the 1960s, and attacking drunk driving and homophobia in the 1980s and 1990s. Each of these movements made us happy in the end.
+
+Millions today Tweet, Post, and Hastag stuff about home renovations, all-inclusive vacations, college graduations. We do these things because other people care to know. Upgrading our society to the Internet Age requires the same communication. Just about new stuff like being debt free, installing solar panels, opening a new small-business. And we should happily let the people know, because it's their society you're improving.
 
 ## The Era of Mass-Collaboration Is Already Here
 
