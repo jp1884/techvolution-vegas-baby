@@ -1377,9 +1377,9 @@ Now it's your turn. We first toy around with new technology. Checking news feeds
 
 All it takes tois the click of a new set of ideals of right and wrong, good and bad, in science, art, morals, politics, and economics. Only a new ruling philosophy will unite us to see the big picture; that all our choices matter, because we're all the player god, and only we can win our game of civilization.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/DetailedAnyIndianpangolin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SlimGleefulDuiker' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_As each game looks more real, the Internet Age becomes more real. Each improvement also means better education, cancer research, crime fighting, electricity generation, product design and manufacturing and so on. We've technically evolved so fast, we've far outpaced our politics. We need to click a new philosophy to make use of our technology._
+_It's like a time-lapse of your cyborgology growing up. Each game improvement means better education, cancer research, crime fighting, electricity generation, product design and manufacturing and so much more. The point is, we've technically evolved so fast, we've far outpaced our politics. We need to click a new philosophy, to turn amazing computer games into a happy lives in our real-life game of civilization._
 
 We have all this amazing power at our finger tips—and we're letting political pundits tell us if climate change is real? We're listening to the opinions of people who've never invented anything or risked anything? We're letting Darth Blockbuster tell us to... what? Follow his rules that make him king, instead of realizing our own power to change our own world?
 
@@ -1574,7 +1574,7 @@ A database of accident locations and causes doesn’t exist today. Government re
 My little app was a happy upgrade in the game of civilization; but not good enough. Or more likely, too good. Frontline workers loved it. My biggest problem was I messed with a lever of power. Because of Techvolution, player gods now know what to fight for.
 
 ![New Tool Creation](/img\diagrams\techvolution-civilization-is-here.jpg)
-_Look familiar? Uber, Airbnb, and my app, all used GPS maps. Kinda looks like the game of Civilization doesn't it? No surprise there. I told you computers games teach us about the Internet Age. A sneak peek at the Life Star._
+_Look familiar? Uber, Airbnb, and my app, all use GPS maps. Kinda looks like the game of Civilization doesn't it? Didn't I tell you computers games teach us how we'll live in the Internet Age. A sneak peek at the Life Star._
 
 ## Attacking a Lever of Power
 
@@ -1585,21 +1585,19 @@ This was never officially said to me. Remember being far from the frontline make
 Thus, now I know how to fix my failure. The key to success, for me and you Stargazer, is making a modern lever of power, then making frontline pain, common knowledge.
 
 <a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/OPP_GTATraffic?ref_src=twsrc%5Etfw" target="_blank">Tweets by OPP_GTATraffic</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-_This is a Twitter feed for the Ontario Police. They use it to tell the public about crashes in real-time. People on this list are right now are living through Smithereens in some way. That pain used to only be felt by families, now everyone can fell it, and do something about it with the life saving rules of the Life Star._
+_This is a Twitter feed for the Ontario Police. They use it to tell the public about crashes in real-time. People on this list are right now are living through Smithereens in some way. That pain used to only be felt by families, soon everyone will fell it, and do something about it, with the life saving rules of the Life Star._
 
 ## The Life Star
 
-At it's heart, Smithereens is a story about an extra. The tortured man assumes the company Smithereen will care about his problem. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. The truth is, "They" only have your interest at heart if you're holding levers of power.
+At it's heart, Smithereens is a story about an extra. The tortured man assumes the company Smithereen will care about his problem. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporations. "They" someone else. The truth is, "they" only have your interest at heart if you're holding levers of power.
 
-And that's the subject for the next book. Because for all the antagonist blustering and excuses, once a regular person becomes a player god, the game is won. Because the only reason Smithereens happens, the only reason those damn DINGs are still ringing, is because Main Street accepts what the antagonists give.
+And that's the subject for the next book. Because for all the antagonists blustering and excuses, once a regular person becomes a player god, the game is won. Because the only reason Smithereens happens, the only reason those damn DINGs are still ringing, is because Main Street accepts what the antagonists give.
 
-Consider this, for every dollar Main Street puts into car insurance, we get back 50 cents in claims. Hopefully by now, you know the middle-class doesn't have to accept losing all that money anymore.
+Consider this, for every dollar Main Street puts into car insurance, we only get back 50 cents in claims; the rest goes to taxes, marketing, and fees. And we still have to wait on hold, with no idea about our regulations or coverages. Hopefully by now, you know the middle-class has to do better if we're going to win the game.
 
-This book made you a player god in mind, the next will make you a player god in reality. We'll do that by putting many levers of power in your hand, first and foremost for car crashes. No middleman. No phantom chasing. No dark majic. No Death Star. No Darth Call Centre. Just you in control of your destiny.
+This book made you a player god in mind, the next will make you a player god in reality. We'll do that by putting many levers of power in your hand, first and foremost for car crashes. No middleman. No phantom chasing. No dark majic. No Death Star. No Darth Call Centre. Just you in control of your destiny—exactly like a person playing _Civilization, Anno 1800, or Cities: Skylines_ who always has all the levers of power they need to win the game.
 
-Frederick Douglass taught us knowledge is the ultimate super-weapon. So we'll give you all the information you need to deal with a crash—exactly like a person playing _Civilization, Anno 1800, or Cities: Skylines_, who has all the levers of power they need to win the game.
-
-The Life Star is the technological re-creation of Evolution; a rulebook to enforce Techvolution, that lets everyone play, understand, and master the game of civilization; fair and understandable rules gives everyone a chance to win, and thus makes everybody happy. Philosophers call it the rational state earned through years of thesis, antithesis, and synthesis. I also call it the state of nature—because all lifeforms happily live in it. You'll read all about it in Techvolution: Building the Life Star.
+That's what the Life Star is—the technological re-creation of Evolution; a rulebook to enforce Techvolution, that lets everyone play, understand, and master the game of civilization; fair and understandable rules gives everyone a chance to win, and thus makes everybody happy. Philosophers call it the rational state earned through years of thesis, antithesis, and synthesis. I also call it the state of nature—because all lifeforms happily live inside a place without Darth Blockbuster. You'll read all about it in Techvolution: Building the Life Star.
 
 # THE APPENDICES
 
