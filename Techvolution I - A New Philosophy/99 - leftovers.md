@@ -2278,3 +2278,27 @@ As a special note to the tech community. Disruption isn't enough anymore. The be
 Techvolution is disruption with the added element that the person being sued, using a regulation, working for a company, raising their kids, is being sold to; not as a consumer, but as a full-blown player god whose fully informed, empowered, and accountable to make choices that change our society. Uber and Airbnb overcoming resistence showcase what I mean. But those are small in comparison to what's need to establish the Internet Age. That's why Techvolution turns extras into player gods; while distuption kept Main Street out of the fight, it's only with their support that you protagonists will defeat the antagonists in our real-life game of civilization.
 
 Black Mirror is the future looked at through the eyes of the past.
+
+## Good Jobs
+
+People get and leave jobs all the time. We start our new job by being introduced to our workplaces, tasks, and co-workers. One thing is missing, we almost never speak with the person whose job we're replacing.
+
+Does this make sense? Just out of practicality, why not get talk about tasks, shortcuts, lessons, and other expertise like if the boss is a shy, a jerk, or a sexual predator.
+
+Something to think about. Because in the era of mass-collaboration we will all learn our jobs better and faster by opening up communication with frontline workers. And we'll also check and balance bad bosses with nothing but a conversation.
+
+## New and Old Celebrities
+
+We celebrate the people we look up to. In the Industrial Age society, our celebrities were often decided for us. The era of mass-production only let a few people make movies, release albums, or get their names in the newspapers.
+
+Internet Age celebrities are different. While we can make fun of Instagram models, silly YouTubers, Twitter trolls, obscure podcasts, but at least in the Internet Age, people watch, listen, read what they want; which also means we celebrate who we want. Personally, I follow people like Sailing La Vagabonde, Adam Savage’s Tested, The Joe Rogan Experience, Dave 2D, Kirsten Dirksen, Taylor Tries, largely because they're people doing cool stuff who'd never consider themselves celebrities.
+
+The next time you hear "celebritiy" ask yourself if they're one of yours. The Internet Age gives you that power.
+
+## #Techvolution, #HappyLife
+
+Techvolution requires people to become "player gods". It may sound high minded, but in reality it's just living life understanding the consequences of our actions. It's not unheard of; in fact we're always improving ourselves. We already learned how Abolitionism ended slavery, but we also did a great job cleaning up society with Environmentalism in the 1960s, and attacking drunk driving and homophobia in the 1980s and 1990s. Today the sustainability culture is helping make people more eco-aware. Each of these movements made us happy in the end.
+
+Millions today Tweet, Post, and Hastag about home renovations, all-inclusive vacations, college graduations because other people care to know. Upgrading our society to the Internet Age requires the same communication. Just about stuff like being debt free, installing solar panels, opening a new small-business.
+
+And we should happily let the people know, because it's their society you're improving.
