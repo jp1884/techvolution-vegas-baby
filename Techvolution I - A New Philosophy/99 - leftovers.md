@@ -2302,3 +2302,9 @@ Techvolution requires people to become "player gods". It may sound high minded, 
 Millions today Tweet, Post, and Hastag about home renovations, all-inclusive vacations, college graduations because other people care to know. Upgrading our society to the Internet Age requires the same communication. Just about stuff like being debt free, installing solar panels, opening a new small-business.
 
 And we should happily let the people know, because it's their society you're improving.
+
+## Introduction
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FragrantOldEmeraldtreeskink' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+The above is a game, of course, but it represents reality pretty well. We're all in there somewhere right now, trying to figure out how to earn a living while the game is played around us. Life can be hard because there is no divine player and no magic buttons. Instead, we, the people inside the game, must collect the resources, do the research, and manually transform every part of our civilization bit by bit, with blood, sweat, and tears. We can't sit back, click, and watch. We must live it.
