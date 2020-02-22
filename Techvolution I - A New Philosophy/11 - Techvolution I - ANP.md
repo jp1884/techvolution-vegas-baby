@@ -6,11 +6,11 @@ Janurary 2019
 
 ## Backpage
 
-Are you happy? On the surface, Westerners have flashy products, full employment, and stable politics. On the inside, our middle-class deals with stagnate wages, crushing debts, drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, illegal immigration, climate change. We have the freedom to vote Left-wing or Right-wing, moderate or extreme, and we've tried them all, but none have made Main Street--all of us--happy with our society.
+Are you happy? On the surface, Westerners have luxurious homes, full employment, and stable politics. On the inside, our middle-class has jobs we hate, crushing debts, drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, illegal immigration, climate change. We have the freedom to vote Left-wing or Right-wing, moderate or extreme, and we've tried them all, but nothing has made Main Street—all of us—happy with our society.
 
-Liking our lives isn't only for fairytale ending, it's a sign of a healthy society; we should be happy. This book argues what's standing in our is our political ideologies. They were created in the Industrial Age, and since 1970 we've been in the Internet Age. Our ideologies are so outdated, they're actually causing our frustrating lifestyles and growing social unrest. We need a new philosophy; one built to harness the remarkable potential of computers and the internet.
+Liking our lives isn't asking too much. In fact, it's a sign of a healthy society. This book argues what's standing in our way is our political ideologies. They were created in the Industrial Age, and since 1970 we've been in the Internet Age. Our ideologies are so outdated they're actually causing our frustrating lifestyles and growing social unrest. We need a new philosophy; one built to harness the remarkable potential of digital technology.
 
-Here it is. Its big lesson is this. The middle-class needs to step up and use modern websites, apps, and electronics to solve our own problems. If we don't, we'll keep suffering the unhappiness of a civilization running on old—ideological—fumes.
+Here it is. Its big lesson is this. The middle-class needs to step up and use modern websites, apps, and electronics to solve our own problems. If we don't, we'll soon be suffering something much worse than unhappiness; there's only so long we can run our civilization on old—ideological—fumes.
 
 # Table of Contents
 
@@ -39,9 +39,9 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the reader
 
-I used many images and videos throughout the book to help explain some ideas. I primarily used media to showcase how life-changing the internet is. Today, millions of regular people are communicating ideas, opinions, and information with no middle-men to control their messages. Not since the printing-press has information empowered ordinary people so much. While I very much want to help creators and their audiences realize how historic their work is, of course, all credit for the media goes to them.
+I used many images and videos throughout the book to help explain some ideas. I primarily did so, to showcase how life-changing the internet is. Today, millions of regular people are communicating ideas, opinions, and information with no middle-men to control their messages. Not since the printing-press has information empowered ordinary people so much. While I very much want to help all creators and their audiences realize how historic their work is, of course, all credit for the media goes to them.
 
-Also, I use Star Wars, Star Trek, Harry Potter, and other popular stories throughout the. If you're not a fan, don't worry too much. If we were in Ancient Greece, I'd use Greek Mythology. If we were in Victorian Britain, I'd use Shakespeare. Using familiar stories is a more natural way to explain philosophy, politics, and to relate to one another. Of course, all due credit goes to the media's owners.
+Also, I use Star Wars, Star Trek, Harry Potter, and other popular stories throughout the. If you're not a fan, don't worry too much. If we were in Ancient Greece, I'd use Greek Mythology. If we were in Victorian Britain, I'd use Shakespeare. Using familiar stories is an easier way to explain philosophy, politics, and to relate to one another. Of course, all due credit goes to the media's owners.
 
 # Introduction
 
@@ -123,9 +123,9 @@ A bit heavy to pull on your parental heartstrings, but it's true. Life on Main S
 
 Politics is quite emotional today. From the disputed elections of the American government to the radicalization of European politics, Westerners fucking hate each other, and many don't know why. They're just angry. And not in the "I stepped in the puddle" sort of way. Mad in the supervillain whose plans for world domination are going up in smoke "because the other side is ruining everything!" kind of way.
 
-Let's get some perspective. Today, regular people are increasingly unhappy. We pick an ideology to help us. Conservatism and Progressivism are the big choices—both spanned the world on the back of the Industrial Age and the era of mass-production. Conservatives fight for free-markets to help society create more property, Progressives fight for property redistribution to make our community fair. This divide causes a tug of war over regulations, tax rates, subsidies, and other government policies.
+Let's get some perspective. Today, regular people are increasingly unhappy. We pick an ideology to help us. Conservatism and Progressivism are the big choices—both spanned the world on the back of the Industrial Age and the era of mass-production. Conservatives fight for free-markets to help society create more property, Progressives fight for property redistribution to keep our community fair. This divide causes a tug of war over regulations, tax rates, subsidies, and other government policies.
 
-However, property creation and distribution are increasingly easy with digital technology. Digital books, knowledge, paperwork, money, and so on, is so much easier to create and distribute than physical property is. As our world becomes more virtual in the Internet Age, Industrial Age mentalities grow obsolete.
+However, digital property can't be mass-produced, or redistributed. Digital books, knowledge, paperwork, video, and so on, is automatically both. As our world becomes more virtual in the Internet Age, Industrial Age mentalities grow obsolete.
 
 But rather than rethink hundreds of years of "Left vs. Right" politics double-down on their beliefs. Old-school businessmen rally their Conservative troops with constant stories of "fighting evil communists who are coming for your money!." De-regulation, tax-cuts, free-trade are among the more popular right-wing rallying calls. In contrast, social justice warriors keep left-wing politics exciting by "fighting racist fascists who want to oppress you!." Their choir forms around demands for justice, regulation, and the redistribution of wealth.
 
@@ -755,45 +755,51 @@ _Today, most movies stink, and most theatres are dead. That's you Stargazer, loo
 
 # Intermission
 
-Intermissions are a good time to stretch our legs, buy a snack and also ask some questions about the story so far. Here, I want to define more terms, characters, and emphasize how many of our problems are caused by refeusing to upgrade our philosophy.
+Intermissions are a good time to stretch our legs, buy a snack, and also ask some questions about the story so far. Here, I want to define more terms, characters, and emphasize how many of our problems are caused by refusing to upgrade our philosophy.
 
 ## Recap
 
 Always keep in mind that we have a beautiful society. There's a reason why people throughout the world fantasize about living in the West. We simply have a big problem. Western Civilization peaked in the Industrial Age, and we haven't updated our ruling philosophy to the Internet Age. Still obessed with the era of mass-production, we've been managing the digitalization of our society using policies meant to encourage the industrialziation of our society.
 
-GDP growth, employment numbers, Dow Jones Industrial Average, Union membership ratese are among the hallowed stats of the era of mass-production. It's not surprising both Left and Right think these numbers define happiness on Main Street. But, these numbers aren't enough. They don't tell us if people have more savings every month, drive less miles in traffic, have less heart attacks, all of which tell us if our lives are happier.
+GDP growth, employment numbers, Dow Jones Industrial Average, Union membership rates are among the hallowed stats of the era of mass-production. It's not surprising both Left and Right think these numbers define happiness on Main Street. But, these statistics aren't enough to tell us if we're winning the game of civilization. They don't tell us if people have more savings every month, drive less miles in traffic, have less heart attacks or in general tell us if our lives are happier.
 
-Only player gods can add new and improved progress indicators. The Internet Age gives us the power to add any happiness statistic we want. Before we do that, we have to finish our upgrade to the Internet Age with the "click" of a new philosophy
+Only Main Street can add new and improved statistics. The Internet Age gives us the power to start measuring our happiness. Before we do that, we have to finish our upgrade to the Internet Age with the "click" of a new philosophy that makes us player gods.
 
 ![US-VMT-per-capita](/img\diagrams\US-VMT-per-capita.png)
 _You'll never hear this stat on CNBC, but it means so much wasted times and money. It's a stat we'll be talking about in the Internet Age._
 
 ## The Rulebook
 
-The rulebook is what governs everyday life. Since entering the Internet Age our rulebook has kept growing. Government regulations have shot up, political correctness is enforced in campsus and boardrooms, barbers need licenses, office workers absurd ceritfications, and think of think of this, business lobbysists didn't even exist in 1969, now many people think they run our governments.
+The rulebook is what governs everyday life. Since entering the Internet Age our rulebook has kept growing. Government regulations have shot up, political correctness is enforced in campsus and boardrooms, barbers need government licenses, office workers study years to get absurd ceritfications, and think of think of this, business lobbysists didn't even exist in 1969, now many people think they run our governments.
 
-Our rulebook is huge. And you're probably used to it. We all sign loan contracts, terms of service, credit card agreements every day without reading them. We live under so many by-laws, regulations, and laws who knows how many. We buy products filled with so many copyrights, trademarks, patents. We live under the jurisdiction of a big rulebook. But big isn't always bad. It's bad is when it's used against us.
+Our rulebook is huge, and you're probably used to it be over your head. We all sign loan contracts, terms of service, credit card agreements without reading them. We live under so many by-laws, regulations, and laws nobody knows how many. We buy products filled with so many copyrights, trademarks, patents it's hard to understand what we're actually buying. We live under the jurisdiction of a very big rulebook. But big isn't always bad. It's bad is when it's used against us.
 
 ![old philosophy in a new world](/img\diagrams\GWRegStudies-PagesPublishedinFederalRegister-6.12.19.png)
 _Federal government regulations. An example of our rulebook's growth_
 
 ## The Death Star
 
-A big rulebook maybe annoying at times—or even helpful at times—but it's not automatically a Death Star.
+A big rulebook makes the rules so convulted they become open to interpretation. Today, it's lawyers who benefit from a big rulebook. They interpret laws, and argue for one side in a dispute, thus have the power to decide right and wrong. But big is still not automatically a Death Star.
 
 It became one when Industrial Age powers wanted to keep themselves in power. Far removed from the original industrialists, they relied on controlling existing levers of power; not inventing new ones. This scene from Mad Men, taking place in 1960, shows it well.
 
 https://www.youtube.com/watch?v=QKcneQ6N50Q&feature=youtu.be&t=50
 
-You can see this same conversation at Chrysler, General Motors, Levi's, Gilette Razers, Universal Pictures and many other once upon a time innovative products who wanted to keep the good times going. To do so Industrial Age leaders resorted to dark majic—aka the "mad men"—and when the Internet Age hit in 1969, the juniors of this world, with no idea how to make anything new, had to up their dark majic show. Because they weren't protagonists with new ideas, they had to use their money to attack the new digital levers of power. Henceforth, a large, confusing, and ever growing rulebook became their superweapon.
+You can see this same conversation at Chrysler, General Motors, Levi's, Gilette Razers, Universal Pictures and many other "once upon a time" innovative companies. After the Industrial Age ended they wanted to keep the good times going. To do so the juniors of this world, with no idea how to make anything new, had to up their Mad Men dark majic show. And when that didn't work, a large, confusing, and ever growing rulebook became their superweapon to defend their gates.
 
-## Traffic Has Different Solutions
+Only these companies had the money to buy the lawers who could intepret the rulebook in their favour. Hence forth, the large rulebook of society became a Death Star to the Internet Age. And we all lived unhappier lives as "junior" became Darth Blockbuster, who held back evolution for his self-interest.
 
-The Industrial Age's levers of power were very generic. Education meant schools, textbooks, teachers. Health care meant hospitals, nurses, doctors. Transportation meant vehicles, roads, and airports.
+The solution is Main Street grabbing hold of society's new levers of power. The extremely powerful tools and software the open-source community is already making for us.
 
-If we wanted to improve these areas, it meant buying, building, or funding more. In the era of mass-production more was always better.
+## The Levers of Power Aren't Always More Stuff
 
-Keep that in mind as we adapt ourselves to the Internet Age. More spending for school textbooks, hospital beds, or roadways are not always good things. In fact, they're often signs we're sticking with "Woodstock" 1969 lifestyle, instead of thinking up more efficient ways to live our lives that the era of mass-collaboration makes possible.
+The Industrial Age's levers of power were all physical things. Education meant schools, textbooks, teachers. Health care meant hospitals, nurses, doctors. Transportation meant vehicles, roads, and airports.
+
+If we wanted to improve education, health, and transportation, it meant buying, building, or funding more stuff. In the era of mass-production more was always better.
+
+Keep that in mind as we adapt ourselves to the Internet Age. More spending for school textbooks, hospital beds, or roadways are not always good things. In fact, they're often signs we're sticking with "Woodstock" 1969 lifestyle, instead of thinking up more efficient ways to live.
+
+The modern levers of power aren't always more stuff, but learning new ways to live that free us from dependency. A great example is roads. Despite spending hundreds of billions building more of them, we're stuck in more traffic each year. To live happier lives, means finding—and demanding—joining the era of mass-collaboration that doesn't require driving so much. Which in puts more levers of apps, tools, and business practices in our hands, and thus more money in our pockets.
 
 ![Frontline movies full](/img\diagrams\traffic.jpg)
 _I don't have to tell you where this is, because it's everywhere. More roads doesn't solve our transportation problems. Thinking it does, only limits your options as a player god._
@@ -802,9 +808,9 @@ _I don't have to tell you where this is, because it's everywhere. More roads doe
 
 How did antagonists make profits by re-selling the same products? They lowered their labour costs by exporting their factories and calling it profitability.
 
-There are endless pages of economic theory that justify exporting American industry. All of it's bullshit. If lower costs are such a good thing, why aren't trademarks, registered trademarks, copyrights, patents filed in cheaper markets? Lawyers charge a lot less in India then New York's $500/hr. It's only because the rationale to export factories, was made by the professionals who kept the savings for themselves. The powers of the Industrial Age exported American because they go got to relive the Industrial Age inside places like China and India.
+There are endless pages of economic theory that justify exporting American industry. All of it's bullshit. If lower costs are such a good thing, why aren't trademarks, registered trademarks, copyrights, patents filed in cheaper markets? Lawyers charge a lot less in India then New York's $500/hr. It's only because the rationale to export factories, let the antagonists keep their power. China and India was seen as the land of the never ending Industrial Age, the perfect solution to Darth Blockbuster's problems.
 
-But we win the game by constantly evolving new technology. That's why there's never been a time—in history or in a computer game—where the society full of marketers, managers, and economists, defeated the society full of tradesman, craftsman, and technicians.
+But replaying old games isn't how humanity wins the game of civlization. We win the game by constantly evolving new technology. That's why there's never been a time—in history or in a computer game—where the society full of marketers, managers, and economists, defeated the society full of tradesman, craftsman, and technicians.
 
 Industrial Age antagonists exported what they didn't know, and paid themselves and their mad men the savings. That's why we have dozens of remarketed toothbrushes, running shoes, staplers with endless trademarks, slogans, and marketing campaigns; as if these are the products that help us win the game.
 
@@ -815,36 +821,38 @@ _Both are enjoying the baseball game, but one side is paying more than just a ti
 
 ## Kicking the Can
 
-Left and Right used to cooperate during the Industrial Age, but have increasingly blame the other side for their shared inability to help our society prosper in the Internet Age.
+Left and Right used to cooperate during the Industrial Age, but increasingly blame the other side for their shared inability to help our society prosper in the Internet Age.
 
-In response, politicians have decided to kick the can down the road. Meaning, they're borrowed money instead of solving systematic problems like rising in college tuition, underfunded social security programs, and rising temperatures.
+In response, politicians from both sides have agreed to kick the can down the road. Meaning, they're borrowed money instead of admitting they can't solve systematic problems like growing college tuition, underfunded social security programs, and rising temperatures.
 
-National debts used to go up because of wars, or great depressions; but debt wold soon come down again. Ours keeps rising because we're delaying making the Internet Age upgrade. It'll only get worse until we do.
+National debts used to go up because of wars or great depressions, but debt would come down ocne the crisis was solved. Ours keeps rising because we're delaying making the Internet Age upgrade; it would stop until we do.
 
 ![Government debt](https://en.wikipedia.org/wiki/Consumer_debt#/media/File:Consumer_and_Government_Debt_as_a_%_of_GDP.png)
-_Industrial Age tools like suburban houses, gas cars, and junk food are too generic to give a return on their investment. We borrow to avoid doing the hard work of finding more efficient ways of living._
+_Industrial Age tools like suburban houses, gas cars, and junk food are too generic to give a return on their investment. We borrow to avoid doing the hard work of finding more efficient ways of living and working in the era of mass-collaboration._
 
 ## Polar Bears in the Amazon
 
-While doing some construction work, I jammed my hand behind some concrete and scratched my everyday Timex watch. So what do I do?
+While doing some construction work, I jammed my hand behind some concrete and scratched my watch. So what do I do about it?
 
-The Industrial Age tells me to throw it away, and go buy a new watch. This thinking goes, I should use my job to pay for some a mass-production machine to make me another watch.
+The Industrial Age tells me to throw it away, and go buy a new watch. This thinking goes, I should use my job to pay for a mass-production machine to make me another watch.
 
 But, I'm in the Internet Age. So I search "repair scratched watchface", and within a few seconds find out rubbing toothpaste varnishes the scratch away (who the heck would have thought that!).
 
-And this one small examples, shows why we're all polar bears in the Amazon. Seriously, just think of all the people who would have thrown the watch away. Just look out your car window at all the fellwow commuters who own a laptop, hi-speed internet, VR glasses, but are driving through hours of traffic to work in a cubicle.
+And this one small examples, shows why we're all polar bears in the Amazon. Seriously, just think of all the people who would have thrown the watch, fridge, or television away. Just look out your car window at all the fellow commuters who own a laptop, hi-speed internet, VR glasses, but are driving through hours of traffic to work in a cubicle.
 
-PETER GIBBONS
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/HonoredIndolentBabirusa' frameborder='0' scrolling='no' width='60%' height='60%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/honoredindolentbabirusa-ron-livingston-office-space-endless">via Gfycat</a></p>
 
-If any of us would a camel near the Great Lakes, eagles inside a cave system, or polar bears in the Amazon, we'd stop and wonder; "why are these biologies here?". Likewise, when we see out of place cyborgologies like textbooks, fax machines, and traffic jammed roads in our societies, we should know something is wrong.
+If any of us would see a camel near the Great Lakes, eagles inside a cave system, or polar bears in the Amazon, we'd stop and wonder; "why are these biologies here?". Likewise, when we see out of place cyborgologies like textbooks, fax machines, and traffic jammed roads in our societies, we should know something is wrong.
 
-Likely it's that Darth Blockbuster stopped evolution, to keep his obsolete tools in power. The era of mass-production can't let us decide to do the easy thing like repair watches, or work from home. But, until we're free to evolve our technology, we're basically polar bears trying to live in the Amazon
+Likely it's that Darth Blockbuster stopped evolution, to keep his obsolete tools in power. The era of mass-production can't let us decide to do the easy thing like repair watches, or work from home. But, until we're free to evolve our lifestyles to do exactly that, we're basically polar bears trying to live in the Amazon
 
 ## We're Causing Global Warming
 
 Because we refuse to let go of the Woodstock lifestyle, we're causing our unhappiness to rise, and our planet to burn. Seriously, it's our refusal to adapt new and more efficient ways of life that forces us to use more resources than we should.
 
-Look at the graph below. It displays plastic production needed to keep making all the dark majic consumer items of Darth Blockbuster. Of course much of this is economic growth. But if that helped America so much, why are we stuck in so much traffic, so in debt, and in general unhappy?
+Look at the graph below. It displays plastic production. Of course much of this is economic growth. But if that helped America so much, why are we stuck in so much traffic, so in debt, and in general unhappy?
+
+The truth is, to keep his products interesting, Darth Blockbuster has to keep uping the spectacle of his dark majic show.
 
 ![plastics production](/img\diagrams\global-plastics-production.png)
 
@@ -856,15 +864,15 @@ In the Industrial Age you'd complain, speak with the manager, and have days of a
 
 ## Levers of Power
 
-In the Industrial Age, when regular people thought of politics, they had to think of ideologies. This was because government policy was society's biggest lever of power. Main Street could only support Right or Left to at least have a say in what that lever choose to do; be it raise income taxes on high-earners, write new environmental regulations, or lower tariffs.
+In the Industrial Age, when regular people thought of politics, they had to think of ideologies. This was because government policy was society's biggest lever of power. Main Street could only support Right or Left to have a say in what that lever choose to do; be it raise income taxes on high-earners, write new environmental regulations, or lower tariffs.
 
-The Internet Age changes the power dynamic. Now when you think of politics Stargazer, you should not think of ideology, but of apps, websites, and electronics. These are the new levers of power, and should ask yourself "who controls mine?".
+The Internet Age changes the power dynamic. Now when you think of politics Stargazer, you should not think of ideology, but of apps, websites, and electronics. These are the new levers of power. And, the most important political question of our time is asking "who controls mine?".
 
 The middle-class can start to control our own levers of powers with Hyrdroloop Water reclaimers, Agrigrow agriculture, and Tesla Solar Panels. Once we believe in Techvolution, we'll be player gods in our minds. But only when we control our own levers of power, will we be player gods in reality.
 
 ## What's That Called
 
-When I worked at a call-center, my customers often had a paper invoice or report that I needed to see. Customers would usually ask themselves where to get a scanner or a fax machine.
+When I worked at a call-center, my customers often had a paper invoice or report. When I told them I needed to see it, they'd usually ask themselves where they could get a scanner or a fax machine.
 
 I'd remind them their smartphone has a great camera—they could just snap a photo and email me. This always sparked a eureka moment; "that's right, I can do that, thanks John!"
 
@@ -872,7 +880,7 @@ That's what I mean by cyborgology, majic, and technological evolution. When a ne
 
 While most people know about scanning and faxing, there's still no word for snapping a photo of paperwork. Because this new ability of our cyborgology is still evolving. Cool huh?
 
-Techvolution gives us the right and duty to decide what tools give us a happy life. We need this new philosophy because there's so much more our Internet Age cyborgolies are capable of. For example, do you know what happens at the doctors?
+Techvolution gives us the right and duty to decide what tools give us a happy life. We need this new philosophy because there's so much more our Internet Age cyborgolies are capable of. Like telecommuting for work, steaming movies instead of renting DVDs, and finding what happens at the doctors.
 
 ## Medical Records
 
@@ -884,11 +892,11 @@ In the Industrial Age carrying around your medical history was impossible—too 
 
 ## Does The World Need to Know
 
-Dart Blockbuster heads a heirarchy. There's lots of people inside who fight for his cause. Dealing with these junior execs or MBA students is sometimes hard. They define success as rising up the ranks. If you're "beneath" them, they assume they're better than you and act like it.
+Dart Blockbuster heads a heirarchy. There's lots of people inside who fight for his cause. Dealing with these BMW drivers, junior execs, or MBA students is sometimes hard. They define success as rising up the ranks. If you're "beneath" them, they assume they're better than you and act like it.
 
 If they ever intimidate you, just press the button below.
 
-<a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank" class="button primary large">The Great Big Equalizer Button</a>
+<a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank" class="button primary large">The Funny Wakeup Button</a>
 
 It randomly selects a Wikipedia article. With three clicks I got:
 
@@ -898,21 +906,21 @@ It randomly selects a Wikipedia article. With three clicks I got:
 
 Anyone can make a Wikipedia article, so someone out there said, "the world needs to know" about this stuff. But, no one has ever thought that about your personal Darth Blockbuster. You haven't, have you?
 
-Ignore arrogant pricks. They're not even smart enough to realize their collecting and polishing participation trophies. Contributions to win the game of civlization is the only thing that makes people think; "the worlds needs to know".
+Ignore arrogant pricks. They're not even smart enough to realize their collecting and polishing participation trophies. Now and always, its contributions to win the game of civlization that makes people think; "the worlds needs to know".
 
 ## New and Old Celebrities
 
 We celebrate the people we look up to. In the Industrial Age society, our celebrities were often decided for us. The era of mass-production only let a few people make movies, release albums, or get their names in the newspapers.
 
-Internet Age celebrities are different. While we can make fun of Instagram models, silly YouTubers, Twitter trolls, obscure podcasts, but at least in the Internet Age, people watch, listen, read what they want; which also means we celebrate who we want. Heck with no gates to overcome anyone can be a musician, artists, comedian or "celebrity." Personally, I follow people like Sailing La Vagabonde, Adam Savage’s Tested, The Joe Rogan Experience, Dave 2D, Kirsten Dirksen, Taylor Tries, largely because they're people doing cool stuff who'd never consider themselves celebrities.
+Internet Age celebrities are different. While we can make fun of Instagram models, silly YouTubers, Twitter trolls, obscure podcasts but at least we can watch, listen, read who we want; which also means we celebrate who we want. Heck with no gates to overcome anyone can be a musician, artists, comedian or "celebrity." Personally, I follow people like Sailing La Vagabonde, Adam Savage’s Tested, The Joe Rogan Experience, Dave 2D, Kirsten Dirksen, Taylor Tries, largely because they're people doing cool stuff who'd never consider themselves celebrities.
 
 The next time you hear "celebritiy" ask yourself if they're one of yours. The Internet Age gives you that power.
 
 ## The Game of Civilization Life Cycle
 
-All lifeforms—from oak trees to otters—survive by growing into new areas, and then adapting to their new environment. The never ending game of civiliation also has life-cycle of growth and adaptation. The civilization that first masters the technology of a new age, usually spreads itself at the expense of others to slow to evolve. But eventually, just like in Nature, the spread of a civilization, leads to the adaption of new civilizations.
+All lifeforms—from oak trees to otters—survive by growing into new areas, and then adapting to their new environment. The never ending game of civiliation also has life-cycle of growth and adaptation. The civilization that first masters the technology of a new age, usually spreads itself at the expense of others slow to evolve. But eventually, just like in Nature, the spread of a civilization, leads to the adaption of new civilizations.
 
-You can see the rise of the British Empire during the Science Age, and adaption into different countries like the USA, Austrialia, South Africa, and Canada. It's a life-cycle we're always our civlization is—and will always be—apart of. Which means ruling philosophies eventually end; even if their supporters love to fight the inevitable.
+In the video below, you can see the huge rise of the British Empire during the Science Age, and then the slow adaption into different countries like the USA, Austrialia, South Africa, and Canada. It's a life-cycle our civlization will always be apart of. Which means ruling philosophies eventually end; even if their supporters love to fight the inevitable.
 
 <div style="width:100%;height:0;padding-bottom:44%;position:relative;"><iframe src="https://giphy.com/embed/6psF6vcajCX7y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/evolution-maps-cartography-6psF6vcajCX7y">via GIPHY</a></p>
 
@@ -924,7 +932,7 @@ Darwin said the opposite. He said said our genes are set in stone and it's the f
 
 The further we go into the Internet Age, the more out-of-date Progressive and Conservative ideologies get. And these ideologues don't know—or care—about the "life cycles of civilization", so they fight to keep their ideologies alive past their life expectancy.
 
-These fights get very serious, like it the one that set Europe aflame in the Thirty Years War. Now we have extreme Progressives and Conservatives rallying around trigger words, taxpayer marches, free speech restrictions, woke culture, toxic campuses and boardrooms, revisionist histories. These misguided people will keep raising tensions, until we click a new philosophy for our new age. Watch out.
+These fights get very serious, like when Europe set itself aflame in the Thirty Years War. Now we have extreme Progressives and Conservatives rallying around trigger words, tea-party marches, free speech restrictions, woke culture, toxic campuses and boardrooms, revisionist histories. These misguided people will keep raising tensions, until we click a new philosophy for our new age. Watch out.
 
 <div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/AgileFeminineAlpineroadguidetigerbeetle' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/agilefemininealpineroadguidetigerbeetle">via Gfycat</a></p>
 
@@ -938,13 +946,13 @@ Once we discard old ideologies, embrace the era of mass-collaboration with the "
 
 ## You Can't to Work at Blockbuster, And Use Netflix Forever
 
-Everyone knows the world is changing. We hear a lot of the computerization of work, the growth of Artificial Intelligence and Robotics and the end of the "one job for life" mentality. What doesn't exist is a self-realization that _your_ job is changing. There are still lots of Blockbusters in the world today, and the workers inside often think they'll be there forever; even though they watch Netflix every night.
+Everyone knows the world is changing. We hear a lot of the computerization of work, the growth of artificial intelligence and robotics and the end of the "one job for life" mentality. What doesn't exist is a self-realization that _your_ job is changing. There are still lots of Blockbusters in the world today, and the workers inside often think they'll be there forever even though they watch Netflix every night.
 
 Just keep in mind, eventually society gets just as sick paying for your Blockbuster, as it did the original one.
 
-Oh, and discount hunting, sales events, Black Friday marathan, is also going away—for the straightforward reason that deals are paid for by workers working for nothing. Deals were a good thing in the era of mass-production, because buying more meant the price per unit goes down for everybody. But in the era of mass-collaboration Main Street wants to make quality products, live a life, and not over-produce garbage.
+Oh, and discount hunting, sales events, Black Friday marathans, is also going away—for the straightforward reason that deals are paid for by workers working for cheap if not nothing. Deals were a good thing in the era of mass-production, because buying more meant the price per unit goes down for everybody. But in the era of mass-collaboration Main Street wants to make quality products then go live a happy life, and not over-produce garbage.
 
-Deal-hunting is basically frontline workes kicking each other in their own paychecks. A happy Main Street will charge a fair price and go home to see the family.
+Deal-hunting today is basically frontline workers kicking each other in their own paychecks. A happy Main Street will charge a fair price and go home to see the family.
 
 ## The Era of Mass-Collaboration Is Already Seeded
 
@@ -962,15 +970,15 @@ Wikipedia: https://wikipedia.org : Everyone's an expert at something. Starting o
 
 Kickstarter: https://www.kickstarter.com/ : Kickstarter connects regular people trying to solve a problem, with regular people waiting for a solution. You can be your own investor; a few bucks could fund a product you want. The software of this website, Ghost Foundation, was started on Kickstarter.
 
-Naysayers will to point out problems here. They'll say Wikipedia is full of errors, or Kickstarter funds bad products. Ignore people who find a reason the future won't happen. I mean, compare errors and delayed product release, to Industrial Age industries like banks, cars, and insurance that get billions in bails outs every generation. All the websites above are very young and inexpensive, but they still put levers of power in your hand. As they improve, they will only increase your control over your slice of the world, which directly increases your political power.
+Naysayers will to point out problems here. They'll say Wikipedia is full of errors, or Kickstarter funds bad products. Ignore people who find a reason the future won't happen. I mean, compare some errors and delayed product release, to Industrial Age industries like banks, cars, and insurance that get billions in bails outs every generation. All the websites above are very young and inexpensive, but they still put levers of power in your hand. As they improve, they will only increase your control over your slice of the world, which directly increases your political power.
 
-Just to drive home the point, what levers of power does Right/Left politics put in your hand? All those reporters and commentators take up hours of our time, but what real-life object do you get back from them? Do you get a tool to monitor government regulations? What about one to fight against income inequality?
+Just to drive home the point, what levers of power does Right/Left politics put in your hand? All those reporters and commentators take up hours of our time, but what real-life object do you get back from them? Do you get a tool to help lower taxes? What about one to fight against income inequality?
 
 The idea doesn't even exist, because both sides think its 1969, when the levers of power weren't for Main Street to hold. Neither Left or Right can understand the Internet Age and mass-collaboration is the best of both ideologies. Modern technology improves social welfare; as Progressives dream, but it also puts the onus on individuals to improve themselves; as Conservatives demand. Mixing ideologies is how Techvolution builds on the past, and helps Main Street prosper once again.
 
 ## The Era of Mass-Collaboration Is Only Waiting for a New Rulebook
 
-A better life is waiting for us all once we evolve to the Internet Age by clicking a new philosophy and installing a new rulebook. I'll show you an example.
+Our happiness isn't a fairytale. It's a sign of a healthy society, and a better way of life is waiting for us all, once we evolve to the Internet Age by clicking a new philosophy and installing a new rulebook. I'll show you an example.
 
 When we buy new house, we can't wait to move in, bring in our furniture, and start renovations. Soon enough, everyone's putting in decks, pools, fences, sheds, and whatever else we dream up.
 
@@ -982,26 +990,28 @@ Evolution needs us to buy solar-power roofs, install a Hydroloop water resuser, 
 
 But there's a roadblock; do you know if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? Do you where to get your local business by-laws, building codes, tax laws?
 
-Even without antagonists, our society's rulebook is so large and dense, we all live under the threat of making a mistake for "not reading the fine-print" and being hit by a code violation, claim denial, warranty rejection, lawsuit, or audit. And what if antagonists want to attack us? It's so easy for anyone with the resources to find "a problem" and use their Death Star to start a lawsuit, deny a claim, or shut your business down.
+Even without antagonists, our society's rulebook is so large and dense, we all live under the threat of making a mistake by "not reading the fine-print" and being hit by a code violation, claim denial, warranty rejection, lawsuit, or audit. And what if antagonists want to attack us? It's so easy for anyone with the resources to find "a problem" and use their Death Star to start a lawsuit, deny a claim, or shut your business down.
 
-Technologically speaking there's absolutely no reason for this. How is it that Linux software is worth billions, literally runs the internet, operates every Android phone; and you can download it by pressing this button.
+Technologically speaking there's absolutely no reason for this. How is it that Linux software is worth billions, operates every Android phone, and literally runs the internet; and you can download it by pressing this button.
 
 <a href="https://github.com/torvalds/linux/archive/master.zip" target="_blank" class="button primary large">Instantly Download Billion Dollar Software For Free</a>
 
-But to access our our home insurance policy we do what? What does it take to get the blueprints to our home? The rules, regulations, laws, that govern our lives is a complete mystery to most people. And that makes us dependent on people like claims adjusters, building inspectors, or lawyers.
+But to access our our car insurance policy we do what? What does it take to get the blueprints to our home? Now how do we apply the building code to our renovations?
+
+The rules, regulations, laws, that govern our lives is a complete mystery to most people. And that makes us dependent on people like claims adjusters, building inspectors, or lawyers.
 
 The truth is, regular people can work as freely as the _Cities: Skylines_ clip above. Open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, MySQL databases can literally put the power in our hands!
 
-We'll make a rulebook that's easy to use, friendly, and reasonable. This rulebook empowers Main Street to fully understand what we should be doing, lets us ask informed questions if something doesn't make sense, and fight back if we think something is wrong.
+Once we hold Internet Age levers of power, we'll make a rulebook that's friendly and reasonable. This rulebook will empower Main Street to fully understand what we should be doing, lets us ask informed questions if something doesn't make sense, and fight back if we think something is wrong.
 
-But this updated rulebook will only be a happy reality once Main Street uses Techvolution as their shield and motivation to bring-on the era of mass-collaboration.
+I call this rulebook the Life Star. But it'll only be a happy reality once Main Street uses Techvolution as their shield and motivation to bring-on the era of mass-collaboration.
 
 https://www.youtube.com/watch?v=ggrkTLEfFXA
 _Here's Louis Rossmann again. He's building a new store and a complete internet stranger did a better design job than a professional architectural company. Much like Uber, GitHub, and Figma, digital tools like email, YouTube, and Autodesk, make this worker-to-customer, and worker-to-worker collaboration, much easier. By empowering us to become player gods, we make better choices, and increase our independence. The more we us digital tools the more we can integrate "rules" like building codes into our apps. We'll talk about making the Internet Age rulebook a little later, in Techvolution II: Building the Life Star._
 
 ## Click
 
-What makes something click in a person's mind? If only we knew. Sadly, we can't decide to cry, scream, or love. Ww all must wait for a connection. Here's some stand-up that'll probably make you laugh, I'll make a point afterwards.
+What makes something click in a person's mind? If only we knew. Sadly, we can't decide to cry, scream, or love. We all must wait for a connection. Here's some stand-up that'll probably make you laugh, I'll make a point afterwards.
 
 https://www.youtube.com/watch?v=ZOiPQ8nqB1s&feature=youtu.be&t=15
 
@@ -1009,7 +1019,7 @@ Note, it's the extras of the Industrial Age who complain about everything becaus
 
 Here's my point, nobody knows how or why something clicks. However, we do understand when it does—when we can't go back. And could you ever drop Netflix and do back to Blockbuster? What about flipping through encyclopedia books, or calling a taxi-cab? Of course not, and that's a good sign you're already a believer in the Internet Age.
 
-So, lets return to the book and our mission. I want you to drop the era of mass-production and Left/Right politics for Techvolution—a new philosophy that gives Main Street the right and duty to upgrade our civilization to the Internet Age and lets Main Street work in the era of mass-collaboration. You are the player god who should control our society's levers of power. The antagonists are just pretenders.
+So, lets return to the book and our mission. I want you to drop the era of mass-production and Left/Right politics for Techvolution—a new philosophy that gives you the right and duty to upgrade our civilization to the Internet Age. Only the will Man Street work together in the era of mass-collaboration as player god who should control our society's levers of power.
 
 # Mid Point
 
