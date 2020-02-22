@@ -6,11 +6,11 @@ Janurary 2019
 
 ## Backpage
 
-Are you happy? On the surface, Westerners have flashy products, full employment, and stable politics. On the inside, our middle-class deals with stagnate wages, crushing debts, drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, climate change. We have the freedom to vote Left-wing or Right-wing, moderate or extreme, and we've tried them all, but none have helped make all of Main Street happy with their society.
+Are you happy? On the surface, Westerners have flashy products, full employment, and stable politics. On the inside, our middle-class deals with stagnate wages, crushing debts, drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, illegal immigration, climate change. We have the freedom to vote Left-wing or Right-wing, moderate or extreme, and we've tried them all, but none have made Main Street--all of us--happy with our society.
 
-This book argues middle-class unhappiness is a sign of a severe problem. Our political ideologies were created in the Industrial Age, and since 1970 we've been in the Internet Age. Our ideologies are too outdated to solve our frustrating lifestyles and growing social unrest. We need a new philosophy;  one built to harness the remarkable potential of computers and the internet.
+Liking our lives isn't only for fairytale ending, it's a sign of a healthy society; we should be happy. This book argues what's standing in our is our political ideologies. They were created in the Industrial Age, and since 1970 we've been in the Internet Age. Our ideologies are so outdated, they're actually causing our frustrating lifestyles and growing social unrest. We need a new philosophy; one built to harness the remarkable potential of computers and the internet.
 
-Here it is. Its big lesson is this. The middle-class needs to step up and use digital technology to solve our own problems. If we don't, we'll keep suffering the pains of a degenerating civilization running on old—ideological—fumes.
+Here it is. Its big lesson is this. The middle-class needs to step up and use modern websites, apps, and electronics to solve our own problems. If we don't, we'll keep suffering the unhappiness of a civilization running on old—ideological—fumes.
 
 # Table of Contents
 
@@ -162,7 +162,7 @@ And if we stay extras, at least with this book, our kids can read what their par
 
 ## Here's the Grand Mission of Techvolution
 
-Writer David Mamet once said being free from trying to please a group means being open to see Nature. So I embraced being a regular guy and was quite ambitious when writing this book. Saying that Techvolution has three parts:
+Writer David Mamet once said being free from trying to please a group means being free to see Nature. So I embraced being a regular guy and was quite ambitious when writing this book. Saying that Techvolution has three parts:
 
 **I. A New Philosophy**: This part upgrades our philosophy to the Internet Age. It gets Main Street to see the big picture; that we're all player gods who must use digital tools to solve our own problems.
 
@@ -170,18 +170,20 @@ Writer David Mamet once said being free from trying to please a group means bein
 
 **III. Starting Starfleet**: We'll design digital tools detached from the Industrial Age. As the Industrial Age's material abundance helped us live in so-called "perpetual peace," Internet Age products will make our lifestyle one of "perpetual profit." We'll send the massive savings to Musk and his protegees and hence jumpstart the Space Exploration Age—or as I like to say, "Start Starfleet."
 
+**How to See the Matrix**: To Techvolution, I mixed Aristotle's Poetics, to better understand Hegelian dialetics--then I added some evolutionary biology. If that bores you to pieces, that's cool, you don't need to read more about it. But just so you know, Techvolution is based on a full-blown philosophy that I'll explain in another book called _How to See the Matrix_.
+
 ===
 
 Techvolution A New Philosophy has a very high goal. So, I want to be crystal clear about its purpose. We're in the new and wondrous Internet Age. But we're still using the philosophy of the Industrial Age to run our society. Conservatism (1791), and Progressivism (1859) philosophy cards were clicked many years ago. It's no longer good enough for Main Street to watch infotainment news, go to a political rally, donate to a social cause, and assume our political system will solve our civlization's problems.
 
-To improve our world, we need a new ruling philosophy. One built on the accomplishments of past philosophies and ideologies, but that factors in the wondrous possibilities of digital technology. Our new way of thinking must unite Main Street to see the big picture again; that we're all player gods whose choices determine the health of our society. We should still vote and debate what's best for our community. But reaching for the levers of power is our most potent political power.
+To improve our world, we need a new ruling philosophy. One built on the accomplishments of our past, but that factors in the wondrous possibilities of digital technology. Our new way of thinking must unite Main Street to again see the big picture; that we're all player gods whose choices determine the health of our society. We should still vote and debate what's best for our community. But reaching for the levers of power is our most potent political power.
 
-We great power comes great responsibility—that's why Main Street must use Techvolution to usher improve our world. The duty to solve our growing problems also requires the freedom to choose any tool we want.
+We great power comes great responsibility—that's why Main Street must use work so hard improve our world. The duty to solve our growing problems also requires the freedom to choose any tool we want.
 
-Tools can be anything: a thermal camera to spot leaky windows, the Waze app to lessen gridlock, or 3D printing a custom tool. The desire to seek out new tools is human evolution. Civilization evolves when its members read a modern philosophy telling them to become a player god of the modern age. We've upgraded our philosophy many times before. This book is the best way I know how to do it for our society today. I hope it's good enough to click.
+Tools can be anything: a thermal camera to spot leaky windows, the Waze app to lessen gridlock, or 3D printing a custom tool to sell in our garage. The desire to seek out new tools is human evolution. Civilization evolves when its members read a modern philosophy telling them to become a player god of the modern age. We've upgraded our philosophy many times before. This book is the best way I know how to do it for our society today. I hope it's good enough to click.
 
 <https://youtu.be/oOOOfZWXPu4?t=8>
-_These guys run a popular YouTube channel about computer hardware. They didn't like how YouTube changed in recent years and decided to make a new video service called Floatplane. They thus became Internet Age protagonists, and they're customers would be player gods. This is real politics. Because it promotes evolution. It doesn't matter if Floatplane thrives or dies. We, as individuals, can only try new ideas and see what works. Marching against climate change, screaming about Trump, or watching infotainment television is merely being an extra. The struggle within our society today is regular people don't think to act like protagonists or player gods. And even worse, it's often against the rules to because Industrial Age companies want us to keep using their obsolete stuff. We'll overcome these antagonists below._
+_These guys run a popular YouTube channel about computer hardware. They didn't like how YouTube changed and decided to make a new video service called Floatplane. They thus became Internet Age protagonists. This is real politics. Because it promotes evolution. It doesn't matter if Floatplane thrives or dies. We, as individuals, can only try new ideas and see what works. Marching against climate change, screaming about Trump, or watching infotainment television is merely being an extra. The struggle with our society is regular people don't think to act like protagonists or player gods. And even worse, it's often against the rules to because Industrial Age companies want us to keep using their obsolete stuff. We'll overcome these antagonists below._
 
 ===
 
@@ -824,11 +826,19 @@ _Industrial Age tools like suburban houses, gas cars, and junk food are too gene
 
 ## Polar Bears in the Amazon
 
-Rising debt shows why we're all polar bears in the Amazon. Seriously, just think of all the people who own a laptop, hi-speed internet, VR glasses, but are driving through hours of traffic to work in a cubicle.
+While doing some construction work, I jammed my hand behind some concrete and scratched my everyday Timex watch. So what do I do?
 
-And we all know that already. If you'd see a camel's near the Great Lakes, eagles inside a cave system, or polar bears in the Amazon, you'd stop and wonder; "why are these biologies here?". When you see out of place cyborgologies like textbooks, fax machines, and check books in our societies, you should know something is wrong.
+The Industrial Age tells me to throw it away, and go buy a new watch. This thinking goes, I should use my job to pay for some a mass-production machine to make me another watch.
 
-Likely it's that Darth Blockbuster stopped evolution, to keep his obsolete tools in power. Until we're free to evolve our technology, we're basically polar bears trying to live in the Amazon
+But, I'm in the Internet Age. So I search "repair scratched watchface", and within a few seconds find out rubbing toothpaste varnishes the scratch away (who the heck would have thought that!).
+
+And this one small examples, shows why we're all polar bears in the Amazon. Seriously, just think of all the people who would have thrown the watch away. Just look out your car window at all the fellwow commuters who own a laptop, hi-speed internet, VR glasses, but are driving through hours of traffic to work in a cubicle.
+
+PETER GIBBONS
+
+If any of us would a camel near the Great Lakes, eagles inside a cave system, or polar bears in the Amazon, we'd stop and wonder; "why are these biologies here?". Likewise, when we see out of place cyborgologies like textbooks, fax machines, and traffic jammed roads in our societies, we should know something is wrong.
+
+Likely it's that Darth Blockbuster stopped evolution, to keep his obsolete tools in power. The era of mass-production can't let us decide to do the easy thing like repair watches, or work from home. But, until we're free to evolve our technology, we're basically polar bears trying to live in the Amazon
 
 ## We're Causing Global Warming
 
