@@ -2308,3 +2308,96 @@ And we should happily let the people know, because it's their society you're imp
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FragrantOldEmeraldtreeskink' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 The above is a game, of course, but it represents reality pretty well. We're all in there somewhere right now, trying to figure out how to earn a living while the game is played around us. Life can be hard because there is no divine player and no magic buttons. Instead, we, the people inside the game, must collect the resources, do the research, and manually transform every part of our civilization bit by bit, with blood, sweat, and tears. We can't sit back, click, and watch. We must live it.
+
+## Polar Bears in the Amazon
+
+While doing some construction work, I jammed my hand behind some concrete and scratched my watch. So what do I do about it?
+
+The Industrial Age tells me to throw it away, and go buy a new watch. This thinking goes, I should use my job to pay for a mass-production machine to make me another watch.
+
+But, I'm in the Internet Age. So I search "repair scratched watchface", and within a few seconds find out rubbing toothpaste varnishes the scratch away (who the heck would have thought that!).
+
+And this one small examples, shows why we're all polar bears in the Amazon. Seriously, just think of all the people who would have thrown the watch, fridge, or television away. Just look out your car window at all the fellow commuters who own a laptop, hi-speed internet, VR glasses, but are driving through hours of traffic to work in a cubicle.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/HonoredIndolentBabirusa' frameborder='0' scrolling='no' width='60%' height='60%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/honoredindolentbabirusa-ron-livingston-office-space-endless">via Gfycat</a></p>
+
+If any of us would see a camel near the Great Lakes, eagles inside a cave system, or polar bears in the Amazon, we'd stop and wonder; "why are these biologies here?". Likewise, when we see out of place cyborgologies like textbooks, fax machines, and traffic jammed roads in our societies, we should know something is wrong.
+
+Likely it's that Darth Blockbuster stopped evolution, to keep his obsolete tools in power. The era of mass-production can't let us decide to do the easy thing like repair watches, or work from home. But, until we're free to evolve our lifestyles to do exactly that, we're basically polar bears trying to live in the Amazon
+
+## We're Causing Global Warming
+
+Because we refuse to let go of the Woodstock lifestyle, we're causing our unhappiness to rise, and our planet to burn. Seriously, it's our refusal to adapt new and more efficient ways of life that forces us to use more resources than we should.
+
+Look at the graph below. It displays plastic production. Of course much of this is economic growth. But if that helped America so much, why are we stuck in so much traffic, so in debt, and in general unhappy?
+
+The truth is, to keep his products interesting, Darth Blockbuster has to keep uping the spectacle of his dark majic show.
+
+![plastics production](/img\diagrams\global-plastics-production.png)
+
+## The Game of Civilization Life Cycle
+
+All lifeforms—from oak trees to otters—survive by growing into new areas, and then adapting to their new environment. The never ending game of civiliation also has life-cycle of growth and adaptation. The civilization that first masters the technology of a new age, usually spreads itself at the expense of others slow to evolve. But eventually, just like in Nature, the spread of a civilization, leads to the adaption of new civilizations.
+
+In the video below, you can see the huge rise of the British Empire during the Science Age, and then the slow adaption into different countries like the USA, Austrialia, South Africa, and Canada. It's a life-cycle our civlization will always be apart of. Which means ruling philosophies eventually end; even if their supporters love to fight the inevitable.
+
+<div style="width:100%;height:0;padding-bottom:44%;position:relative;"><iframe src="https://giphy.com/embed/6psF6vcajCX7y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/evolution-maps-cartography-6psF6vcajCX7y">via GIPHY</a></p>
+
+## Frontline Pain
+
+If you have to buy a home, who would you ask to inspect it? A builder, carpenter, engineer? Or a consultant, reporter, executive?
+
+I think most us ask the people who actually build homes. Day in and day out these are the persons who feel the pain of work, and live to solve that pain with better tools and expertise. Yet, at so many of our franchised coffee shops, city bus routes, hospital cleaning departments, it's the second "professional" group making all the decisions. That's a silly thing in the era of mass-collaboration, because frontline pain is a gold mine of knowledge and experience.
+
+Once we discard old ideologies, embrace the era of mass-collaboration with the "click" of a new philosophy, Mom and Pop stores and small businesses will have a resurgence. I smile, thinking of all those bakers, tailors, designers, roofers, engineers, repairmen happily working on a new and empowered Main Street. Each using frontline pain, and Techvolution, to evolve better ways to work in the Internet Age.
+
+## The Levers of Power Isn't More Stuff
+
+The Industrial Age's levers of power were all physical things. Education meant schools, textbooks, teachers. Health care meant hospitals, nurses, doctors. Transportation meant vehicles, roads, and airports.
+
+If we wanted to improve education, health, and transportation, it meant buying, building, or funding more stuff. In the era of mass-production more was always better.
+
+Keep that in mind as we adapt ourselves to the Internet Age. More spending for school textbooks, hospital beds, or roadways are not always good things. In fact, they're often signs we're sticking with "Woodstock" 1969 lifestyle, instead of thinking up more efficient ways to live in the era of mass-collaboration.
+
+![Frontline movies full](/img\diagrams\traffic.jpg)
+_I don't have to tell you where this is, because it's everywhere. More roads doesn't solve our transportation problems. Thinking it does, only limits your options as a player god._
+
+## Evolving Society
+
+You get a phone call. It's a collection agency rep who says you owe $23.93 to your old phone company. You remember having a conversation three months ago with another rep who said she waived the charges because you were oversees when the bills were coming in and never made a phone call. But, now this rep is saying you owe money; what do you do?
+
+From experience, I know extras today would have to complain, speak with the manager, and have days of angry phone calls. In the Internet Age, wouldn't it be nice to always have a record of what was said and what your obligations are? It would be, and that's what mass-collaboration requires, but we'll need grab hold of the levers of power of to get there.
+
+## Does The World Need to Know
+
+Darth Blockbuster fights to prevent us reaching for new levers of power. We won't often see him, he heads a heirarchy. There's lots of people inside who fight his cause. Dealing with these BMW drivers, junior execs, or MBA students is sometimes hard. They define success as rising up the ranks. If you're "beneath" them, they assume they're better than you and act like it.
+
+If they ever intimidate you, just press the button below.
+
+<a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank" class="button primary large">The Funny Wakeup Button</a>
+
+It randomly selects a Wikipedia article. With three clicks I got:
+
+- Lorenz Nieberl, a German bobsledder.
+- Sandamías, a village in northern Spain with 67 residents.
+- Aartsenia arctica, a sea snail.
+
+Anyone can make a Wikipedia article, so someone out there said, "the world needs to know" about this stuff. But, no one has ever thought that about your personal antagonist. You haven't, have you?
+
+Ignore arrogant pricks. They're not even smart enough to realize their collecting and polishing participation trophies. Now and always, its contributions to win the game of civlization that makes people think; "the worlds needs to know".
+
+## New and Old Celebrities
+
+We celebrate the people we look up to. In the Industrial Age society, our celebrities were often decided for us. The era of mass-production only let a few people make movies, release albums, or get their names in the newspapers.
+
+Internet Age celebrities are different. While we can make fun of Instagram models, silly YouTubers, Twitter trolls, obscure podcasts but at least we can follow who we want; which also means we celebrate who we want. Heck with no gates to overcome anyone can be a musician, artists, comedian or "celebrity." Personally, I follow people like Sailing La Vagabonde, Adam Savage’s Tested, The Joe Rogan Experience, Dave 2D, Kirsten Dirksen, Taylor Tries, Dr. Becky largely because they're real people doing cool stuff who'd never consider themselves celebrities.
+
+The next time you hear "celebritiy" ask yourself if they're one of yours. The Internet Age gives you that power.
+
+## Many More Levers to Make
+
+Where are your medical records? Who has your medical records? Does anyone have your records?
+
+Think about that the next time you're seeing a nurse, doctor, or pharmacist. No one has a complete list of your sicknesses, diseases, shots, sick days, treatments, and pills. After all, why would "they", if you don't?
+
+In the Industrial Age carrying around your medical history was impossible—too much paperwork. In the Internet Age it's a matter of extras becoming player gods. Controlling our own medical records is one of the many levers waiting to be made and contolled by Main Street in the Internet Age.
