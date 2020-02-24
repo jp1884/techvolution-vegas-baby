@@ -2401,3 +2401,107 @@ Where are your medical records? Who has your medical records? Does anyone have y
 Think about that the next time you're seeing a nurse, doctor, or pharmacist. No one has a complete list of your sicknesses, diseases, shots, sick days, treatments, and pills. After all, why would "they", if you don't?
 
 In the Industrial Age carrying around your medical history was impossible—too much paperwork. In the Internet Age it's a matter of extras becoming player gods. Controlling our own medical records is one of the many levers waiting to be made and contolled by Main Street in the Internet Age.
+
+## Mixing Ideologies
+
+Just to drive home the point, what levers of power does Right/Left politics put in your hand? All those reporters and commentators take up hours of our time, but what real-life object do you get back from them? Do you get a tool to help lower taxes? What about one to fight against income inequality?
+
+The idea doesn't even exist, because both sides think its 1969, when the levers of power weren't for Main Street to hold. Neither Left or Right can understand the Internet Age and mass-collaboration is the best of both ideologies. Modern technology improves social welfare; as Progressives dream, but it also puts the onus on individuals to improve themselves; as Conservatives demand. Mixing ideologies is how Techvolution builds on the past, and helps Main Street prosper once again.#
+
+## Spider-Man
+
+| Title                             | Budget       | Gross Revenue| % of Budget |
+|-----------------------------------|--------------|--------------|-------------|
+| Spider-Man   (2002)               | $139,000,000 | $403,706,375 | 34%         |
+| Spider-Man 2 (2004)               | $200,000,000 | $373,585,825 | 54%         |
+| Spider-Man 3 (2007)               | $258,000,000 | $336,530,303 | 77%         |
+| The Amazing Spide-Man   (2012)    | $230,000,000 | $262,030,663 | 88%         |
+| The Amazing Spide-Man 2 (2014)    | $260,000,000 | $202,853,933 | 128%        |
+| Untitled Spider-Man Sequel (2021) | tbd          | tbd          | tbd         |
+
+_This is a typical hollywood movie today. A movie is remade and remade, with more effects and celebrities, until the public just doesn't care anymore. These are domestic grosses and don't include inflation or marketing cost. All figures from boxofficemojo.com._
+
+## Old Philosophy vs. New Philosophy
+
+Techvolution is a philosophy book, but I don't directly reference past philosophies. Like any topic it takes some practice to read. However, let's have a peek and appreciate the strong beliefs of past protagonists and antagonists.
+
+Below are two snippets from two influential philosophers. The passages will help explain how an antagonist can think themselves so right, when history proves them so wrong. I won't comment much on either passage. Just know both of these writers motivated generations of followers to fight to the death.
+
+===
+
+  >SINCE the time that learning began to flourish there has been a common opinion maintained which affirms: "Mankind is naturally endowed and born with freedom, and at liberty to choose what form of government it please, and that the power which any one man has over others was at first bestowed according to the discretion of the people."
+
+  But how this vulgar opinion has of late obtained a great reputation is unknown to me. It is not to be found in the ancient fathers and doctors of the true Church. It contradicts the doctrine and history of the Holy Scriptures, the practice of all ancient monarchies, and the very principles of the law of nature. It is hard to say whether it is more erroneous in divinity or dangerous in policy.
+
+  This desperate assertion whereby kings are made subject to the judgements and deprivations of their subjects follows as a necessary consequence of foolhardy position of the supposed natural equality and freedom of mankind, and liberty to choose what form of government it please.
+
+Patricia, Or the Natural Power of Kings
+by Robert Filmer
+1680
+(I made some edits for readability's sake)
+https://www.constitution.org/eng/patriarcha.htm
+
+===
+
+  >We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. —That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, —That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.
+
+Declaration of Independence
+by Thomas Jefferson
+July 4, 1776
+https://www.archives.gov/founding-docs/declaration-transcript
+
+===
+
+The belief in nobles divine rights wasn't simple selfishness. A lot of smart people wrote philosophy to justify one person having absolute power. The royal rulebook didn't have to call itself a Death Star; it was based on a respected philosophy.
+
+Today, our Death Star rulebook aren't arbitrary rules. They come from Industrial Age philosophy and the era of mass-production. It's important to remember as we push for the Internet Age. The antagonists feel justified using their Death Star. And they'll keep winning, until we believe in a new philosophy. Thomas Jefferson wrote America's new rules, after reading Rousseau's new philosophy.
+
+## The Matrix
+
+## Leaving the Spectacle of the Industrial Age Story
+
+We're already technically in the Internet Age. A quite glance at your smartphone shows that. Our society is in trouble because we're stuck inside the outdated Right/Left, mass-production, philosophy of the Industrial Age. Antagonists don't care, because they're happy inside their stories of self-importance. Main Street doesn't notice because they live inside a story full of spectacle and habit.
+
+Spectacle runs on dark majic. It's really hard to see through. Is the Super Bowl really a national holiday? Are luxurious cars worthy of praise? Is a Bachelors of Arts worth tens of thousands of dollars and four years of life? We can only tell by questioning our society. The best example of how to do this, is the movie The Matrix.
+
+The Matrix shows a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the Matrix. The dream world is created by machines to distract humans while using their bodies as an energy source. The story's hero is Neo. A regular person who asks "what is the Matrix?". His willingness to question reality, eventually gets him recruited by the few untapped humans rebeling against the machines.
+
+<div style='position:relative; padding-bottom:calc(41.60% + 44px)'><iframe src='https://gfycat.com/ifr/ImpossibleOpenHoverfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/matrix-gifs">from Matrix GIFs</a> 
+
+The rebel Morpheus teachs Neo what the Matrix is. A world of dark majic, to distract the masses from their slavery. Neo at first freaks out. How can the entire world be fake? Soon, Neo realizes the truth, and wants the masses to realize it as well. He believes when the people wake up, they can remove the plug, and re-learn the joy of being player gods in control of their own lives. The machines antagonist, Agent Smith, chases Neo. This antagonist wants to keep people extras, who keep watching the Matrix, and feeding it with power.
+
+Agent Smith can control much of the Matrix, but not all of it. Enforcing the rules of the ruling philosophy of slavery, makes "the agents" bound to its rules too. Neo has a new ruling philosophy of freedom. Thus, he isn't bound by the Matrix's rulebook, a freedom he uses to liberate his oppressed humans.
+
+Neo is a lesson in majic. Because Neo knows learning is his ultimate power. Neo majically learns to jump higher, fight better, shoot straighter, and soon dodges bullets. The machines, unable to match his skills, fight back with more dark majic.
+
+They get one of the freed humans to turn on Neo and his supporters. Not with the allure of power, but with the lure of going back into the comfortable fake world. The familiar spectacle of Rolling Stone concerts, television sitcoms, and V8 engines is all this modern Judas wants. The traitor knows its fake, but will accept it because "ignorance is bliss."
+
+The traitor losses. Neo is too powerful. In the final battle with Agent Smith, Neo is so powerful, he can stop bullets in mid-air. Even better, Neo can see the Matrix's rulebook—the famous green computer code—and can thus rewrite the rules as he wants. A power he uses to kill Agent Smith.
+
+At the end of the story, Neo calls the machines leaders, and tells the antagonists:
+
+  >I know you're out there. I can feel you now. I know you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how this is going to begin. I'm going to hang up this phone. And then I'm going to show these people what you don't want them to see. I'm going to show them a world without you. A world without rules and controls, without borders or boundaries A world where anything is possible. Where we go from there, is a choice I leave to you.
+
+Neo hungs up and starts his new journey. To show the people the Matrix is a lie. A dark majic show to distract them from true political power, which is to be player gods welding levers of power. Only then can they live happier lives on the frontline. In the end, The Matrix is a lesson in liberation. Just as Rousseau's new philosophy was in the real-world.
+
+<div style='position:relative; padding-bottom:calc(41.67% + 44px)'><iframe src='https://gfycat.com/ifr/OblongGrimyHalibut' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p><a href="https://gfycat.com/discover/fight-gifs">from Fight GIFs</a> <a href="https://gfycat.com/oblonggrimyhalibut-the-Matrix">via Gfycat</a></p>
+
+_Neo learned so much, he sees through the rulebook, and so can easily defeat Agent Smith._
+
+## Lessons From The Matrix
+
+The Matrix is a classic story. Among its lessons, it well showcases how good leaders come and go. Neo was the hero chosen from the masses. Once Neo freed the people, he and his friends return to being equal members of the community. Neo's hierarchy of support was temporary, being based on solving a frontline problem. Perhaps he'll be the hero of the next story, but maybe not. It depends on the problem and who the people decide their hero should be.
+
+Neither art or spectacle stories solve frontline problems. Thus, their hierarchies only last for as long as their storytellers can convince people to watch them, or live inside them. These storytellers are self-important leaders. The masses are just like the people stuck inside the Matrix. Distracted from the truth with a dark majic show, and kept in line with a corrupted rulebook.
+
+The longer the spectacle lasts, the longer the self-important artists, like Darth King, and Darth Blockbuster, can go on living inside self-obsessed stories. They're happy with the way things are. They want to be heroes atop the hierarchy forever. The longer the story goes, the more pretentious they get.
+
+But like an aging sitcom, it never lasts. Eventually, the people's problems pile up, and they soon need a true hero again. That means a hero who can see through the spectacle of the ruling philosophy, and lead the people to become player gods in a new society ruled by a new philosophy that helps Main Street live happy lives.
+
+The lesson is Stargazer your happiness is the best indicator of which story you're currently in. That's why how much money you have, your job title, the university you graduated from, all this is not the definition of happiness. Happiness only happens when a ruling philosophy helps people contribute to a classic story that helps humanity evolve life on Earth. True happiness is being with trusting friends, a loving spouse, healthy kids and hope for an even brighter future.
+
+To defeat Darth Blockuser, we can use our understanding of classic and spectacle/art stories to judge our society. Only when a new philosophy clicks, will we disregard his dark majic and fight off his Death Star rulebook; and thereby usher in the Internet Age. But hold off, it's better to judge our society after reading about its history.
+
+**Good ruling philosophy**: Embraces the modern technological age. Empowers the people with levers of power so they can be player gods who solve problems on the frontline. Civilization is lead by individuals who rise to the occasion to become protagonists. Once their specific problem is over, leaders willfully return to being an equal member of the community.
+
+**Bad ruling philosophy**: Meant to stop humanity progressing to a new age. Led by leaders who don't want to empower the people with modern tools or ever return to equality. Instead, the leaders distract the masses from their selfish leadership, with spectacle.
