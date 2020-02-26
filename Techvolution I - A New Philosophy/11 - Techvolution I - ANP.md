@@ -204,7 +204,7 @@ Digital devices enable a new philosophy, one that fosters not a competition, but
 Now, several generations into the Internet Age, items like smartphones, laptops, and smartwatches are everywhere. That's why the collaboration websites like WikiHow, Facebook, and YouTube integrate so easily into our lives. A few minutes to learn the basics and we're learning, communicating with the world! Collaboration is today's big picture, the basic principle of the Internet Age's new philosophy. The people who understand this best are the open-source community.
 
 ![old philosophy in a new world]((https://i.pinimg.com/736x/02/79/3a/02793a3e97abcbdffb67194e225961de--alien-concept-art-science-fiction-sci-fi-concept-art.jpg)
-_We're never going to get there with Left/Right politics. The future we do get, depends entirely on the present we choose._
+_The land of perpetual profit. We're never going to get there with Left/Right politics._
 
 ## Open-Source Protagonists Are Pushing Us Into the Internet Age
 
@@ -437,7 +437,7 @@ Left/Right political culture was unable to explore space. They can gossip about 
 
 _This was when SpaceX landed its first rocket. Enable the sound to really get a feel on how important this event was; a significant step for the Internet Age._
 
-When you're dependent on old philosophies, you're also confined to its old tools and live within its old narratives. Today Left/Right politics obsesses over tax cuts, pages of government regulations, and endless media soundbites because their philosophy says these are the levers of power. New and super-powerful technologies like SpaceX are talked about, but more as a novelty act that falls beyond the believers of old philosophies comprehension and comfort zones.
+When you're dependent on old philosophies, you're also confined to its old tools and live within its old narratives. Today Left/Right politics obsesses over tax cuts, health insurance plans, pages of government regulations, and endless media soundbites because their philosophy says these are society's only levers of power. New and super-powerful technologies like SpaceX are talked about, but more as a novelty act that falls beyond the believers of old philosophies comprehension and comfort zones.
 
 That's the power of philosophy. It tells people which tools are important, and which should be ignored. Today, Industrial Age philosophies hold back the incredible, world-changing, happiness granting potential of the Internet Age. Up and down our economy, we use Industrial Age heavy management practices when mass-collaboration is far better. The lesson is, once we believe in a new philosophy that embraces the Internet Age, we'll control our society's true levers of power, and soar to the stars.
 
@@ -468,30 +468,32 @@ Have you ever taken an Uber? If you haven't, it's a smartphone app that connects
 
 Jack drives Julia where she needs to go. They can talk or not, it doesn't matter. Once there, Julia gets out. Uber manages the payment, and Julia and Jack rate each other and then go about their lives.
 
-That's an Uber ride. And if you've ever taken one, you've participated in mass-collaboration as an Interne Age cyborg. Seriously, think about it. Julia needed to get somewhere and Jack helped her get there, and they collaborated using smartphones.
+That's an Uber ride. And if you've ever taken one, you've participated in mass-collaboration as an Internet Age cyborg. Seriously, think about it. Julia needed to get somewhere and Jack helped her get there, and they collaborated using smartphones.
 
 Once upon a time in the Industrial Age, this coordination was done by many managers at taxi, media, and automotive companies. Driver timesheets, dispatch call-centers, complaint resolution, company marketing, vehicle licensing. In the Internet Age, all this paperwork is handled by Uber's (mostly open-source) software. The company Uber still has to staff managers, marketers, executives, and whatnot. But the proportion is far less.
 
 While Darth Taxi-Cab tried to stop Uber in court and government lobbying, it didn't work. The people liked Uber too much. Once people use mass-collaboration, it's too practical to be stopped. It's something to keep in mind while you're reading this book. Our way of life will get better. Once we become player gods who realize their actions, even if just catching a lift, upgrades their civilization to the Internet Age.
 
-With all this in mind, it's time meet the hero of Techvolution. The chosen one who'll defeat evil Darth Blockbuster.
+Also, notice how similar apps like Door Dash and Uber Eats help "the little guy" use open-source software to share resources once only open to big companies. More apps like these will keep bringing on the era of mass-collaboration between the player gods of Main Street.
+
+With all this in mind, it's time meet the hero of Techvolution. The one who'll defeat evil Darth Blockbuster.
 
 ![old philosophy in a new world](/img\diagrams\techvolution-uber-ride-collaboration.jpg)
 _An Uber ride is collaboration. The Internate Age empowers Main Street cut out the middlemen. Fittingly, I got these images from a free image service called Unsplash. Unsplash protagonists empower anyone to share and use professional-grade images. In the Industrial Age, these images would cost thousands of dollars._
 
 ## Nice to Meet You, Stargazer
 
-You're the hero! You're the one who can bring happy lives to Main Street. It's my mission to make you realize you're the player god.
+You're the hero! You're the one who can bring happy lives to Main Street. Do a sit-up and eat a banana, you just upgraded society's heatlh statistics. It's my mission to make you realize you're the player god capable of so much more.
 
-That's why, whoever you are, and wherever you are on this Earth, I'm calling you Stargazer. It's a name in honor of ancestors like Copernicus, Bruno, and Galileo, who toppled Darth King by looking up at the stars and asking questions. These giants took on the responsibility to advance civilization and let evolution deal with the naysayers.
+That's why, whoever you are, and wherever you are on this Earth, I'm calling you Stargazer. It's a name in honor of ancestors like Copernicus, Bruno, and Galileo who toppled Darth King by looking up at the stars and asking questions. These giants took on the responsibility to advance civilization and let evolution deal with the naysayers.
 
 You can topple Darth Blockbuster. Not only do you already wield much power with eReadesrs, smartphones, and hi-speed internet, you hold the strongest lever of power ever. From hospital cleaners to internet technical support, from civil engineers to claims adjusters, you are at the frontline—the place that creates political power.
 
-I'm being very serious. Remember when I said, "power is to politics what money is to finance". Well being on the frontline is why you're so important Stargazer. Only you know the exact tools we need to finish the Internet Age upgrade. The daily pain of real work gives you knowledge. Knowledge makes you powerful—a power Darth Blockbuster will never have. It's cool to realize that while you're grabbing for the new levers of power, all the antagonists can do is play defense.
+I'm being very serious. Remember when I said, "power is to politics what money is to finance". Well being on the frontline is why you're so important Stargazer. Only you know the exact tools we need to finish the Internet Age upgrade. The daily pain of real work gives you knowledge. Knowledge makes you powerful—a power Darth Blockbuster will never have. Realize that while you're taking hold of the new levers of power, all the antagonists can do is play defense because they don't work for a living.
 
 That's why you, Stargazer, are the hero of Techvolution. That's the way it should be. Average Joes and Janes are always the heroes. Luke Skywalker, Princess Leia, Neo, and Cinderella were all regular people. Heroes aren't born. They're stargazers, dreamers, believers, and achievers. They become heroes when they step up to defeat the bad guys. I'm like Obi-Wan Kenobi, Morpheus, or the fairy godmother, merely a guide to teaching you how to overcome the villains. So, the time is now, Stargazer, to leave the farm and join the rebellion.
 
-The rebellion I speak of might be different than what automatically comes to mind. It is not a physical revolt. It does not involve rallies, marches, or protests. It's a rebellion of the mind. The Internet Age is held back by Darth Blockbuster and his Death Star rulebook. To earn our happiness, we need to turn you into a Internet Age player god. But to do that, you have to feel the click of "eureka! I believe in Techvolution, and the freedom to evolve humanity to the Internet Age. And its worth fighting for."
+The rebellion I speak of might be different than what automatically comes to mind. It is not a physical revolt. It does not involve rallies, marches, or protests. It's a rebellion of the mind. The Internet Age is held back by Darth Blockbuster and his Death Star rulebook. To earn our happiness, we need to turn you into a Internet Age player god. But to do that, you have to feel the click of "eureka!" I believe in Techvolution, and must have the freedom to evolve humanity to the Internet Age because winning the game is worth fighting for.
 
 ## Techvolution Builds on the Past
 
@@ -499,7 +501,7 @@ The world's on your shoulders, Stargazer. But let's take a minute and ease some 
 
 Exercising, saving for a rainy day, helping a customer understand their loan application, buying locally grown produce. These are actions of a player god. And they're not that complicated. So while yes, being a player god is hard, it's also rather straightforward. And many of us are doing it already.
 
-The difference with Techvolution is, we expect ourselves, and each other, to behave more responsibly. More importantly, we demand the freedom to take responsibility for our home and work lives whenever a Sith Lord says helping our society is against the rules.
+The difference with Techvolution is, we expect ourselves, and each other, to bring on the era of mass-collaboration. Vitally, we demand the freedom to take responsibility for our home and work lives whenever a Sith Lord says helping our society is against the rules.
 
 But none of this means you Stargazer have to re-invent society. We aren't throwing away any philosophy you, or anyone else, may believe in. Old philosophies, Protestant/Catholic, Right/Left among them, will always teach us lessons, help us do our jobs better, and enlighten our personal opinions. The ideals and openness of Progressivism helps bring new peoples into Western culture, while giving a helping hand to those already inside. The practicality and steady hand of Conservatives helps insure our society keeps working and doesn't derail from too much idealism. Moreover, each side has immense undestanding of complex fields like monetary policy, farm regulation, labor relations, and more. This single book can't replace all that knowledge. It would be laughable to suggest it could.
 
@@ -524,7 +526,7 @@ City by-laws, industry certifications, insurance regulations, labour laws, gover
 
 https://www.youtube.com/watch?v=zD578MutMAk&list=PL4E3463842B01E133&index=14
 
-_I don't want to personify Darth Blockbuster. But here's an ad for an online investment brokerage. I have no idea if they're any good or not, but the ad displays the scenario that makes a person think "how can I stop this from happening" and hence become an antagonist. Making new tools, and empowering Main Street with a new philosophy, is how we overcome this selfish—albeit understandable—side of human nature._
+_I don't want to personify Darth Blockbuster. But here's an ad for an online investment brokerage. I have no idea if they're any good or not, but the ad displays the scenario that makes a person think "how can I stop this change from happening" and hence become an antagonist. Making new tools, and empowering Main Street with a new philosophy, is how we overcome this selfish—albeit understandable—side of human nature._
 
 ## The Magic of Evolution - How Evolution Works
 
@@ -548,8 +550,7 @@ So, what trick does Nature play on extras to reach for new tools when they would
 
 Unlike evolution, the trick is not actually akin to magic. We, humans, understand we're dropping one tool and familiarizing ourselves with another, like when swapping out typewriters for personal computers. Yet there's still something wonderfully mystical about choosing to leave one's comfort zone to learn a new cyborgolgy. I call it majic; it's pronounced like magic, but spelled differently to note a critical difference: majic is the free choice of a regular person to proactively and intentionally evolve, even if they don't fully understand how they're upgrading civilization. Majic encompasses our yearning to explore, to learn, to grow, to live to our fullest potential.
 
-<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/ExhaustedWaryCatfish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/exhaustedwarycatfish-3d-printer">via Gfycat</a></p>
-
+<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/KeenAmpleHusky' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/keenamplehusky">via Gfycat</a></p>
 _There's magic and majic. Both are cool, but one's fake and the other is actual creation. This is truly majical._
 
 Typically, we underappreciate how cool it is to learn new tools. But every time we try, we're like a drowning desert fox wearing fins and goggles, yelling out, "I'm getting better!" as he fulfills his dream of learning to swim. Pushing our boundaries is what life is all about. It's majic that keeps us jumping back into the water and out of our comfort zone. It's the majical joy of overcoming obstacles, learning new skills, starting over, that keeps us playing the game of civilization.
@@ -762,11 +763,13 @@ Intermissions are a good time to stretch our legs, buy a snack, and also ask som
 
 ## Recap
 
-Always keep in mind that we have a beautiful society. There's a reason why people throughout the world fantasize about living in the West. We simply have a big problem. Western Civilization peaked in the Industrial Age, and we haven't updated our ruling philosophy to the Internet Age. Still obessed with the era of mass-production, we've been managing the digitization of our society using policies meant to encourage the industrialziation of our society.
+The game of civilization never stops. It goes on forever because it's the game of life; evolve or die. Thus, we're always that person on Main Street trying to figure out what's best for ourselves while trying to help our society prosper. I think we all try our best to work out or eat healthy, or join movements like sustainability and non-GMO. Likewise, Tesla isn't a "company", it's how protagonists and some player gods are upgrading our transportation system. Literally, imagine a player pressing "upgrade" and that's what Tesla is to our society. We did the same thing when moving our factories from steam power to electricity.
 
-GDP growth, employment numbers, Dow Jones Industrial Average, Union membership rates are among the hallowed stats of the era of mass-production. It's not surprising both Left and Right politicians and media still think these numbers define happiness on Main Street. These statistics aren't enough to tell us if we're winning the game of civilization. They don't tell us if people have more savings every month, how well our infrastructure is maintained, if we're having less heart attacks, or in general if our lives are happier.
+See, we're still playing the game, we have a beautiful society. We simply have a big proble; we're running out of time. Western Civilization peaked in the Industrial Age, and we haven't updated our ruling philosophy to the Internet Age. Still obessed with the era of mass-production, we've been managing the digitization of our society using policies meant to encourage the industrialziation of our society.
 
-The Internet Age gives us the power to start measuring our happiness, which tells us how well the ruling philosophy is working. Before we do that, we have to finish our upgrade to the Internet Age with the "click" of a new philosophy that makes us player gods.
+Today we still measure our success by GDP growth, employment numbers, Dow Jones Industrial Average, Union membership rates. These stats don't tell us if people have more savings every month, how well our infrastructure is maintained, if we're having less heart attacks, or in general if we're living are happier lives.
+
+The Internet Age gives us the power to start measuring our happiness. Before we do that, we have to finish our upgrade to the Internet Age with the "click" of a new philosophy—we need many more player gods to help us rewrite the rules and win the game.
 
 ![US-VMT-per-capita](/img\diagrams\US-VMT-per-capita.png)
 _You'll never hear this stat on CNBC, but it means so much wasted times and money. It's a number we'll be talking much about in the Internet Age._
@@ -1094,7 +1097,7 @@ There's no way to know which stories will resonate with audiences. Still, only c
 ![Classic story](/img\diagrams\romeo-juliet.jpg)
 _Good stories will always be told._
 
-**Art stories**: are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think they already have all the answers and the big-picture is doing whateeve they want. The main character is selfish and self-important; a con-artist. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
+**Art stories**: are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think heroes are born, and thus already have all the answers and the big-picture is doing whatever they want. The main character is selfish and self-important; a con-artist. Not because they do not take on a problem, but because they want to be the protagonist even though they aren't leading the way for others to follow.
 
 The result is stories with no storyline and no antagonist. Instead, art stories showcase the main characters' idiosyncratic behavior. Art stories are surprising to the point of being weird, with a conclusion that doesn't improve reality because the main character didn't even try to.
 
