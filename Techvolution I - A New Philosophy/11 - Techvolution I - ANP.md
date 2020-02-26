@@ -383,7 +383,7 @@ _Levers of power. Whoever holds them, wins._
 
 ## Player Gods Reach for the Tools and Don't Chase Phantoms
 
-If you still think the rules, regulations, and laws of society control our destiny. They don't. I'll show you why.
+The difference between revolution and Techvolution is this. Revolution is about changing the government rulemakers, Techvolution about distributing new levers of power. Techvolution is better. Because if you still think the rules, regulations, and laws of society control our destiny. They don't. I'll show you why.
 
 Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll say something like, "if the red team wins this one, then education, healthcare, infrastructure, and everything else will go to shit." What he means is elections decide the rule-makers, and that blue rules make a good society while red rules make a bad one.
 
@@ -1414,7 +1414,7 @@ The fate of civilization is then, rather simple. Who is your hero Stargazer? Wil
 
 I wanted to write beautiful Platonic dialogues for you here. I'd love to have Antagonists and Protagonists debating with Stargazer, who has an internal discussion between the benefits and drawbacks of being an extra or player god, and the joys of majic versus dark majic.
 
-I'd also love to write stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society, and fighting to bring people out of the Matrix and into the Internet Age.
+I'd also love to write "Black Mirror" stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society, and fighting to bring people out of the Matrix and into the Internet Age.
 
 Imagine these guys as Linus Tech Tips on after burners. In fact, today's "geeks" are really majicians in waiting. Like revolutionaries of old, these are the people who know how powerful modern computers are. Darth Blockbuster's excuses mean nothing to them. Soon, they'll bring Main Street into the era of mass-collaboration; roofers will learn to use drones, cleaners IR cameras, craftsman 3D printers. Because of yesterday's geeks, the middle-class will like their jobs, raise their families, and give their kids a brighter future on a newly empowered Main Street.
 
