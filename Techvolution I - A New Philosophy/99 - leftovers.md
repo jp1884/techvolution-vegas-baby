@@ -2505,3 +2505,9 @@ To defeat Darth Blockuser, we can use our understanding of classic and spectacle
 **Good ruling philosophy**: Embraces the modern technological age. Empowers the people with levers of power so they can be player gods who solve problems on the frontline. Civilization is lead by individuals who rise to the occasion to become protagonists. Once their specific problem is over, leaders willfully return to being an equal member of the community.
 
 **Bad ruling philosophy**: Meant to stop humanity progressing to a new age. Led by leaders who don't want to empower the people with modern tools or ever return to equality. Instead, the leaders distract the masses from their selfish leadership, with spectacle.
+
+## Ricky
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmNippyCockatiel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+_Ricky Gervais is yelling at a (entertainment) heirarchy so distanced from the frontline, they've completely lost touch with regular people. They virtue signal, as Christian nobility once did, to justify their huge wealth and prestige. There are a lot of parallels between Hollywood elite and late European royals._
