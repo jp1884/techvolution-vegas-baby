@@ -1218,7 +1218,7 @@ But, once the Industrial Age was over, Protagonist Executives, become antagonist
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmNippyCockatiel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-That should both worry you and make you happy, Stargazer. First the worrying part; Darth Blockbuster defends the Industrial Age because it makes him powerful. He surrounds himself with a story of self-importance and distracts the people with the dark majic of spectacle.
+That should both worry you and make you happy Stargazer. First the worrying part; Darth Blockbuster defends the Industrial Age because it makes him powerful. He surrounds himself with a story of self-importance and distracts the people with the dark majic of spectacle.
 
 Since, entering the Internet Age, dark majic has skyrocketed in our society. The once humble American Dream to own a home and make a honest living, became a lifestyle of spectacle. Small homes became McMansions with luxury baths and kitches. Cars got way bigger, with more chrome, more horsepower. Televisions increased in size to ludicrious proportions. Food got supersized. Sugar was added to everything we eat. Movies became franchise stories that were retold over and over. Instead of using digital technology to improve life on Earth, technology was used to make a matrix of dark majic that survived by increasing diabetes, laziness, and greed. All because Darth Oil, Telephone, Suburbs, Sugar needed to distract the people from making a new player god to upgrade and enjoy the freedom, self-sufficiency, and collaboration of the Internet Age.
 
