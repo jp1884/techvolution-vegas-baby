@@ -79,7 +79,7 @@ There's a lot to realize when thinking about human evolution. I found it very he
 
 I didn't just imagine a better perspective; I got to see it. Play computer games like _Age of Empires, Anno 1800_, and _Civilization_, and you'll get to as well. You'll be the "player god" of a civilization. A virtual divinity who knows all and sees all, and who puts its general will into action using an array of buttons, switches, and toggles. As you play the game, you'll use these levers of power to decide what to research, where to place buildings, and, most notable, when to click "upgrade" to a new age. Pressing that most important button magically transforms, every factory, hospital, road, house, citizen, to the technology of the modern era. Below, you'll see a person being the player god in the game _Anno 1800_.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PeriodicTightElver' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GrandioseTinyApisdorsatalaboriosa' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 The above is a computer game, of course, but it represents reality pretty well. We're all in there somewhere right now, trying to figure out how to earn a living while the game plays around us.
 
@@ -105,7 +105,7 @@ When a player in Anno 1800 upgrades technology, we can see the changes. Installi
 
 For example, we all believe in a philosophy of "Life, liberty, and the pursuit of happiness." But what does that mean in everyday life? Giving people political guidelines is why we invented ideologies. Conservative or Progressive. Libertarian or Socialist. Republican or Democrat. Eaches doctrine supports "Life, liberty, and the pursuit of happiness." Ideologies go in detail by while giving their believers a list of specific policies to fight for (or against) like universal health-care, gun-rights, or strict environmental regulations.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/CandidFeistyBuckeyebutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ShamelessGrotesqueBluegill' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 That's a "tech tree" of new technologies, tools, and philosophy upgrades. All games use them to give the player the choice of which to use in their game. Just like improving our technology, we also upgrade our philosophy with a simple "click." It's just so damn hard to see philosophy change because it's our minds that are evolving.
 
@@ -186,8 +186,9 @@ With great power comes great responsibility—that's why the duty to solve our g
 
 Tools can be anything: a thermal camera to spot leaky windows, the Waze app to lessen gridlock, or 3D printing a tool to sell to a neighbor. The desire to seek out new tools is human evolution. Civilization evolves when its members read a modern philosophy telling them to become a player god of the modern age. We've upgraded our philosophy many times before. This book is the best way I know how to do it for our society today. I hope it's good enough to click.
 
-<https://youtu.be/oOOOfZWXPu4?t=8>
-_These guys run a popular YouTube channel about computer hardware. They didn't like how YouTube changed and decided to make a new video service called Floatplane. They thus became Internet Age protagonists. This is real politics. Because it promotes evolution. It doesn't matter if Floatplane thrives or dies. We, as individuals, can only try new ideas and see what works. Marching against climate change, or watching infotainment television is merely being an extra. The struggle with our society is regular people don't think to act like protagonists or player gods. And even worse, it's often against the rules to because Industrial Age companies want us to keep using their obsolete products. We'll overcome these antagonists below._
+<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/KeenAmpleHusky' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/keenamplehusky">via Gfycat</a></p>
+
+_Like magic, or even the Force, this machine can make hammers, wrenches, replacement parts, almost anything you need. Using new tools to solve your problems is real politics. Because it promotes evolution. It doesn't matter if you thrive or die while trying. We, as individuals, can only try new ideas and see what works. Marching against climate change, or watching infotainment television is merely being an extra. The struggle with our society is regular people don't think to act like protagonists or player gods. And even worse, it's often against the rules to because Industrial Age companies want us to keep using their obsolete products. We'll overcome these antagonists below._
 
 ===
 
@@ -285,8 +286,8 @@ Distributing the levers of power moves us into the Internet Age. It treats peopl
 
 Once we do, all workers—from waitresses, mechanics, and teachers—will start to be managed less and collaborate more. Mass-collaboration will be similar to how factories and production lines swept across our society in just a few decades during the Industrial Age and the era of mass-production. It's the future science fiction we can build for ourselves.
 
-![old philosophy in a new world](/img\diagrams\techvolution-github-repo-rails.jpg)
-_This is the GitHub "repo" for Ruby on Rails, the free technology that runs apps like Basecamp, Airbnb, and Shopify. GitHub empowers programmers to work together, keep each other honest, and manage each other. Get familiar with how open-source works. It's a tell-tale sign for the openness, responsibility, and immense value of all work cultures coming in the Internet Age. You should be happy! Once you experience how easy, effective, and powerful mass-collaboration is, it makes work much better. And the best part, no garbage meetings or professional delegators are needed._
+![old philosophy in a new world](/img\diagrams\github-repo-rails2.jpg)
+_This is the GitHub "repo" for Ruby on Rails, the free technology that runs apps like Basecamp, Airbnb, and Shopify. It's billion dollar software anyone can use for free, and people build it together with no delegators or garbage meetings. This is how simple mass-collaboration can be._
 
 ## The Setup to our Story — Making Techvolution and Player Gods
 
@@ -345,6 +346,21 @@ Before we make you a player god, here are a few terms that will put us all on th
 
 ![frontline](/img\diagrams\techvolution-frontline2.jpg)
 _Our civilizations have always had problems. It's up to regular people to use new tools to solve them. It's simply our turn to today. Let's get started._
+
+## This is Real
+
+Please take a few minutes and watch this video. It's from Salman Khan, whose online website—Khan Academy—has been giving the world free education in all subjects and grades, since 2008.
+
+https://www.youtube.com/watch?v=-MTRxRO5SRA
+
+I asked you to watch that video to emphasize how real the game of civilization is. The Industrial Age is truly over. It's vital we at the "bottom of the pyramid" learn to live and work in what (I call) the Internet Age and the era of mass-collaboration. When we do, it'll definitely be a "pretty exciting time to be alive."
+
+But, our evolution to new ways of life—like using Khan Academy—is never smooth. Just look at education. For all the kids using Khan Academy, there are far more going through the old-school education system. The gap is huge. One disturbing statistic is how an entire generation of young Americans now have 1.5 trillion in college debt.
+
+That's not an accident. It's a stark contrast between the Industrial Age and Internet Age that we're living in today. The past's expensive and obsolete products won't go away on their own. Especially if we keep using them.
+
+To change our world, we the people _have_ to become player gods and take hold of the levers of power for education, working hours, contracts, all of them. Techvolution will show you how to overcome the antagonists and live happy lives again—I mean imagine math class was easy for everyone!
+
 
 # ACT ONE
 
@@ -423,7 +439,7 @@ Happily, we already are. That's the reason we're so addicted to new technology. 
 Our addicting toys are also levers of power. They're so powerful, we can use these proverbial lightsabers to earn a happier life without revolutions. We will, once we forget about Left/Right phantoms, and use Techvolution to defeat Darth Blockbuster, his Death Star, and upgrade to the Internet Age.
 
 https://www.youtube.com/watch?v=J2Pjudf0810
-_Here's a sample of Left/Right leaders singing to the choirs. Since ideologues can't make Floatplane, or repair your broken laptop, or make any product you might need, they distract with bickering instead. This bullshit only works as long as you listen._
+_Here's a sample of Left/Right commentators singing to their choirs. Since ideologues can't make Khan Academy, or repair your broken laptop, or make any product you might need, they distract with bickering instead. This bullshit only works as long as you listen._
 
 ## Once We Believe in a New philosophy, We'll Reach for the Stars
 
@@ -556,8 +572,8 @@ So, what trick does Nature play on extras to reach for new tools when they would
 
 Unlike evolution, the trick is not actually akin to magic. We, humans, understand we're dropping one tool and familiarizing ourselves with another, like when swapping out typewriters for personal computers. Yet there's still something wonderfully mystical about choosing to leave one's comfort zone to learn a new cyborgolgy. I call it majic; it's pronounced like magic, but spelled differently to note a critical difference: majic is the free choice of a regular person to proactively and intentionally evolve, even if they don't fully understand how they're upgrading civilization. Majic encompasses our yearning to explore, to learn, to grow, to live to our fullest potential.
 
-<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/KeenAmpleHusky' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/keenamplehusky">via Gfycat</a></p>
-_There's magic and majic. Both are cool, but one's fake and the other is actual creation. This is truly majical._
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BrokenElderlyFallowdeer' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/brokenelderlyfallowdeer">via Gfycat</a></p>
+_Creating something new. This is truly majical._
 
 Typically, we underappreciate how cool it is to learn new tools. But every time we try, we're like a drowning desert fox wearing fins and goggles, yelling out, "I'm getting better!" as he fulfills his dream of learning to swim. Pushing our boundaries is what life is all about. It's majic that keeps us jumping back into the water and out of our comfort zone. It's the majical joy of overcoming obstacles, learning new skills, starting over, that keeps us playing the game of civilization.
 
