@@ -528,7 +528,9 @@ The difference with Techvolution is, we expect ourselves, and each other, to bri
 
 But none of this means you Stargazer have to re-invent society. We aren't throwing away any philosophy you, or anyone else, may believe in. Old philosophies, Protestant/Catholic, Right/Left among them, will always teach us lessons, help us do our jobs better, and enlighten our personal opinions. The ideals and openness of Progressivism helps bring new peoples into Western culture, while giving a helping hand to those already inside. The practicality and steady hand of Conservatives helps insure our society keeps working and doesn't derail from too much idealism. Moreover, each side has immense undestanding of complex fields like monetary policy, farm regulation, labor relations, and more. This single book can't replace all that knowledge. It would be laughable to suggest it could.
 
-But no one should let the rulebooks of old philosophies determine right and wrong when up against a person's right to evolve on the frontline. Like voting our interests in elections, we the people on the frontline today need the freedom to decide which tool best solves a problem. The right and duty to evolve must trump all other considerations. Today old philosophies should not be our ruling philosophy simply because they weren't created with the Internet Age in mind.
+Moreover, and this is the crucial point for people inside government, Techvolution frees you to start solving problems. For most anyone, ideology dies away as soon as they see governments massive unfunded social programs, bridges and roads that desperately need repair, and especially how unhappy citizens are. Antagonists block practical solutions to these problems, whether it be stubborn teachers unions or corpororate lobbysists. When I say Left/Right politics, it's usually not politicians, but outside ideologues with a simplistic view of our world who I take aim at. These are the people who radicalize what is still a very good political system.
+
+The solution to radicalization is giving power to the frontline. Like voting our interests in elections, we the people on the frontline today need the freedom to decide which tool best solves a problem. The right and duty to evolve must trump all other considerations. Today old philosophies should not be our ruling philosophy simply because they weren't created with the Internet Age in mind.
 
 We're already starting to use digital tools to improve our lives. YouTube product reviews. Wikipedia articles. Cutting off cable and using Netflix. But there's so much more to do. By controlling modern tools, the middle-class is starting to take control of society's new levers of power. Wanting to control their lives, instead of chasing Right/Left phantoms, is the rebellion inside our mind we need to establish the Internet Age.
 
@@ -848,7 +850,7 @@ In short, can you imagine all the debt a polar bear would need to live in the Sa
 ![Government debt](https://en.wikipedia.org/wiki/Consumer_debt#/media/File:Consumer_and_Government_Debt_as_a_%_of_GDP.png)
 _Industrial Age tools like suburban houses, gas cars, and junk food are too generic to give a return on their investment. We borrow to avoid doing the hard work of finding more efficient ways of living and working in the era of mass-collaboration._
 
-## Ideologues Doesn't Care About Evolution
+## Ideologues Don't Care About Evolution
 
 Ruling philosophies are very powerful. They can make strong believers of people who sometimes have a hard time applying their philosophy to the real-world. One example is Lysenkoism. This was a pseudo-science in the Soviet Union that assumed our genes inherit learned traits. So for example, if you lived in a hot climate, your genes would morph to sweat more.
 
@@ -885,19 +887,29 @@ Internet Age celebrities are different. While we can make fun of Instagram model
 
 The next time you hear "celebritiy" ask yourself if they're one of yours. Modern technology gives you that power.
 
+## I Want to Work at Blockbuster, I Want to Use Netflix
+
+Everyone knows the world is changing. We hear a lot of the computerization of work and the end of the "one job for life" mentality. What doesn't exist is a self-realization that _your_ job is changing. There are still lots of Blockbusters in the world today, and the people inside often think they'll work there forever even though they watch Netflix every night.
+
+This doesn't mean you'll lose your job. If you have a actual skillset and work on the frontline, it just means you're job and income will adapt because eventually, society gets just as sick paying for your Blockbuster's admin and late fees, as it did the original one.
+
+That means working 3-4 days a week is the new pay raise. That instead of dealing with rising health insurance costs with higher paychecks—and therefore higher prices—we get more time to make ourselves healthy. With the extra time you can work to make your life more efficient. Sleep more, tutor a neighbors kids, work in the garden growing your own food.
+
+You can't work at Blockbuster and use Netflix forever. Don't worry, they'll be lots of patriots running around, teaching you how to make a living with modern tech.
+
 ## Modern Patriots
 
 I recently damaged my watch. I was putting up drywall, and scratched the watch face against the concrete wall. It still worked fine, but the numbers were hard to read.
 
 The Industrial Age tells me to throw it away, and use some of the money I was earning to buy a new watch. Because it's made overseas it's so cheap it'll "save me money".
 
-I was about to. Then I googled "repair watchface", and found a old YouTube video of a guy using toothpaste to polish scratches from a watch. Who would have thought it worked great! That's how the Internet Age's mass-collaboration helps Main Street save money.
+I was about to. Then I googled "repair watchface", and found a old YouTube video of a guy using toothpaste to polish scratches from a watch. Who would have thought it, but it worked great! That's how the Internet Age's mass-collaboration helps Main Street save money.
 
-However, as technology gets ever more advanced, doing a Google search wont be enough. Who is going to teach Main Street all the possibilities behind artificial intelligence, machine learning, robotics, 3D printing, augmented reality, and so on.
+However, as technology gets ever more advanced, doing a Google search wont be enough. Who is going to teach Main Street all the possibilities behind artificial intelligence, machine learning, robotics, 3D printing, augmented reality, and whatever else the protagonist wizards invent.
 
-Since Techvolution liberates frontline workers from head office oversight, that means there's a need for a new role in society. Someone to master the latest and greatest in tech, and evangelize it to change the point of contact between a tool and society. Plumbers, roofers, doctors, shoemakers, therapists, these people already master their field, and they something to connect them to the majic of modern levers of power.
+Since Techvolution liberates frontline workers from head office oversight, that means there's a need for a new role in society. Someone to master the latest and greatest in tech, and evangelize it to change the point of contact between a tool and society. Plumbers, roofers, doctors, shoemakers, therapists, these people already master their field, so they need someone to connect them to the majic of modern levers of power.
 
-We couldc all these wonderful people cyborgologists, techvolutionaries, or maybe, majicians.
+We could all these wonderful people cyborgologists, techvolutionaries, or maybe, majicians.
 
 LINUS CLIP ON LOOKING GLASS
 
