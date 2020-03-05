@@ -19,9 +19,9 @@ Here it is. Its big lesson is this. The middle-class has to step up and use digi
 
 3. [Rousseau's Teachers](#rousseaus-teachers)
 
-5. [Polar Bears in the Amazon](#polar-bears-in-the-amazon)
+4. [Polar Bears in the Amazon](#polar-bears-in-the-amazon)
 
-4. [Open Source Checks and Balances](#open-source-checks-and-balance)
+5. [Open Source Checks and Balances](#open-source-checks-and-balance)
 
 ## Dedication
 
