@@ -12,7 +12,7 @@ Do you think the beloved comedian and podcaster is right? Are people angry? Are 
 
 Let me ask the question differently. Are you happy? I'm not asking if you're comfortable or are "happy enough." Do you jump out of bed every morning, are you respected at your job, are your bills paid up. And most importantly, are you confident your kids will inherit a happier life.
 
-On the surface, Westerners have luxurious homes, full employment, and stable politics. On the inside, our middle-class deals with boring jobs, growing debts, mindless bureaucracies, and horrible commutes. Our lives do often suck. But, it's made so much worse because unlike our hard-working ancestors, we're also seeing our society decline. We watch unchecked drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, climate change.
+On the surface, Westerners have luxurious homes, full employment, and stable politics. On the inside, our middle-class deals with boring jobs, growing debts, mindless bureaucracies, and horrible commutes. Our lives do often suck. But, it's made so much worse because unlike our hard-working ancestors, we're also seeing our society decline. Everyday we watch bad trends get worse like drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, and climate change.
 
 Luckily, we have the freedom to vote for government solutions. We've tried Left-wing or Right-wing, moderate, and extreme, but none have helped. Main Street is still unhappy.
 
@@ -471,7 +471,7 @@ Left/Right political culture was unable to meet the challenge. They can gossip a
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GaseousAgreeableEarthworm' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_This was when SpaceX landed its first rocket. Enable the sound to really get a feel on how important this event was, a significant step for the Internet Age in our real-life game of civilization. And, did you notice how happy those people were._
+_Enable the sound. This was when SpaceX landed its first rocket. This was a significant step for the Internet Age in our real-life game of civilization. Notice how happy those people were too, hint for our live in mass-collaboration._
 
 When you're dependent on old philosophies, you're also confined to its old tools and live within its old narratives. Today Left/Right politics obsesses over tax cuts, health insurance plans, pages of government regulations, and endless media soundbites because their philosophy says these are society's only levers of power. New and super-powerful technologies like landing rockets are talked about, but more as a novelty act that falls beyond the believers of old philosophies comprehension and comfort zones.
 
@@ -748,7 +748,7 @@ The truth is cars aren't new and exciting. They're already integrated into our l
 The Industrial Age powers want to distract us. To be a happy community again, Main Street has to wake-up to dark majic and survive the Death Star. Let's see how we did against Darth Blockbuster himself.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/HarmlessBlueFanworms' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-_Most of our physical infratructure was built in the late 1800s early 1900s. Being saved from this massive cost is one reason baby-boomers could afford their expensive Woodstock lifestyles. However, like Right/Left politics, our industructure is now past its life expectancy. Which means while bragging about our luxury cars, we've let the roads, bridges, and tunnels their driving on fall a part. Building infrastructuree is the most important thing about civilization games. If neglecting ours isn't proof we're extras instead of player gods, I don't know what is._
+_Enable sound. Most of our physical infratructure was built in the late 1800s early 1900s. Not having to pay this massive cost is one reason baby-boomers could afford their expensive Woodstock lifestyles. However, like Right/Left politics, our infrastructure is now well past its life expectancy. Which means while bragging about our luxury cars, we've let the roads, bridges, and tunnels their driving on fall a part. Building infrastructuree is the most important thing about civilization games. If neglecting ours isn't proof we're extras instead of player gods, I don't know what is._
 
 ## Darth Blockbuster Uses Dark Majic and the Death Star
 
@@ -914,9 +914,9 @@ The next time you hear "celebrity," ask yourself if they're one of yours. Modern
 
 ## I Want to Work at Blockbuster, I Want to Use Netflix
 
-Some people call Main Street employees, consumers, and taxpayers. Those are all different names for non-playing characters because there's no achievement or responsibility in any of them. Player gods call themselves workers, owners, citizens because these roles seek out more political power to improve themselves and their society.
+Some people call Main Street employees, consumers, and taxpayers. Those are all different names for non-playing characters because there's no achievement or responsibility in them. Player gods call themselves workers, owners, and citizens. These are roles where people seek out more political power to improve themselves and their society.
 
-With that in mind, everyone knows the world is changing. We hear a lot of the computerization of work and the end of the "one job for life" mentality. What doesn't exist is the self-realization that _your_ job is changing. There are still lots of Blockbusters in the world today. They sustain themselves on hidden fees, pushy sales commissions, and high mark-ups. And the employees inside often think they'll work there forever even though they watch Netflix every night.
+With that in mind, everyone knows the world is changing. We hear a lot of the computerization of work and the end of the "one job for life" mentality. What doesn't exist is the self-realization that _your_ job is changing. There are still lots of Blockbusters in the world today. They sustain themselves on hidden fees, pushy sales commissions, and high mark-ups. And the employees inside often think they'll work there forever even though they watch Netflix every night. Employeess get to trick themselves, but player gods know the truth. Times are always changing.
 
 This doesn't mean you'll lose your job. If you have an actual skillset, you'll be okay. You'll just have to adapt because society will eventually get just as sick paying for your Blockbuster as it did the original one.
 
@@ -941,6 +941,7 @@ You know how we ask Home Depot workers for DIY advice? Well, who does a plumber 
 Linus Tech Tips is an example of someone already doing this. There's a big job for someone doing this all day on Main Street; the patriot of mass-collaboration.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SophisticatedInfatuatedCurassow' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+_Enable the sound. Geeks, nerds, and dorks will be the ones teaching you how to make a better, productive, happier life in the era of mass-collaboration._
 
 ## Does The World Need to Know
 
@@ -1083,13 +1084,27 @@ Notice BitTorents aren't dead. While most people don't bother with torrent sites
 
 ![Battle Scene](/img\diagrams\checks-and-balances-storytelling.jpg)
 
-If you're wondering, streaming companies are returning the studio system to Hollywood, except the home theatre is replacing the movie theatre. The problem is storytelling is getting segmented, making it harder for our society to create new popular stories that update our culture. The Studio System should never have been outlawed in the first place. But that's a topic for a different book.
+If you're wondering, streaming companies are returning the studio system to Hollywood, except the home theatre is replacing the movie theatre. The problem is storytelling in our society is getting segmented, making it harder for us to create new popular stories that update our culture. The Studio System should never have been outlawed in the first place. But that's a topic for a different book.
 
-Wikipedia and Netflix show how the middle-class can ignore dark majic, defeat Darth Blockbuster, and destroy his Death Star. We ignored bad rules, and instead used the better tool—which soon became the new standard. Uber, Netflix, YouTube, Airbnb, Wikipedia etc., don't give us all the levers of power. But we have a lot more then we did just a few years ago. Yet, these cool apps are small victories. To bring on the era of mass-collaboration in the Internet Age, we need to transform our society's entire rulebook. And that takes a bit more work.
+## Test
+
+It's time for a quick test. I'm going to show you a current problem, and I want you to think what the solution is. Look at this graph below. It's about the kinds of workers in the American health care system.
+
+What this chart shows is when a patient went to see their doctor, lots of middle-men put themselves in between.
+
+The old Stargazer, the pre-Techvolution person, might look at this and blame Progressives and their "big-goverment" regulations. Or, you'd blame Conservatives and their love of big corporations. Or perhaps you'd say "it is what it is, and it's not my problem".
+
+But the player god Stargazer knows the truth. As we entered the Internet Age in 1970, computers started to automate much of our production work. Hospital administrators, insurance adjusters, regulation attorneys, all found a reason to get themselves more in between you and your doctor.
+
+With your own money. Remeber, while these faceless administrators are telling you what to do, collecting your health information, your paying for them to do it.
+
+Many of these jobs are needed. Most are not. And using Techvolution, you should know the solution to this problem is getting the doctor and patient new levers of power in their hands. Made for the people, by the people. Only new apps, electronics, and websites inspired by Techvolution will check and balance administrators in the era of mass-collaboration.
+
+And we can do it. Wikipedia and Netflix show how the middle-class can ignore dark majic, defeat Darth Blockbuster, and destroy his Death Star. We ignored bad rules, and instead used the better tool—which soon became the new standard. Uber, Netflix, YouTube, Airbnb, Wikipedia etc., don't give us all the levers of power. But we have a lot more then we did just a few years ago. Yet, these cool apps are small victories. To bring on the era of mass-collaboration in the Internet Age, we need to transform our society's entire rulebook. And that takes a bit more work.
 
 ## We've Blown Up One Death Star, Now Here's How We Win the War
 
-So Stargazer, that's how we won a few battles in the fight for the Internet Age. It's a battle that made me, and everyone else who write and read Wikipedia and watch Netflix, happy. Because evolving humanity puts smiles on our faces.
+So Stargazer, to turn the tide on rising health insurance costs, we'll need copy what we did with Wikipedia and Netflix. Put new levers of power in the frontline's hands. It's a battle that makes us happy because evolving humanity puts smiles on our face.
 
 Imagine how happy we'll be on Main Street once we use digital tools and mass-collaboration to solve our agonizing commutes, confusing insurance contracts, over-consumption, and rising global temperatures. That's the war you must jump into with lightsabers a-blazin', dicing up old evil tools, to supercharge humanity into the Internet Age.
 
@@ -1391,17 +1406,17 @@ The truth then, now, and forever is that evolution happens on the frontline. Lea
 
 ## Option 2 - Player God
 
-Main Street can choose to become player gods because of Internet Age protagonists. Paul Baran is one of the big ones; a true Jedi. This one guy took it upon himself to prevent humanity's nuclear holocaust (talk about stepping up). When the Soviets tested a hydrogen bomb in 1955, Baran realized only an updated, robust, and reliable communications network would ease American and Soviet trigger fingers during tense stand offs.
+Main Street can choose to become player gods because of Internet Age protagonists. Paul Baran is one of the big ones; a true Jedi. This one guy took it upon himself to prevent a nuclear holocaust (talk about stepping up). When the Soviets tested a hydrogen bomb in 1955, Baran realized only an updated, robust, and reliable communications network would ease American and Soviet trigger fingers during tense stand offs.
 
 Baran worked all alone for years. By 1960 he came up with his new network's two core ideas; fully distributed data networks, and packet communication. The first eliminated central hubs and hierarchy, the second made sure no information would be lost during transmission. With many pages of technical specifications on hand he went to give his work away. Sadly, the Defense Department surrounded him with red-tape, and AT&T, with a monopoly over America's telephone network, repeatedly said his ideas were impossible. These antagonists shut Baran down until years later the Advanced Research Projects Agency (ARPA) saw the brilliance and built Baran's new network.
 
-By late 1969, as the world was watching Woodstock, Vietnam, and the Moon landing, ARPAnet, the first version of the internet, went online. Reliable communication with no central hubs was born. Few people in the last days of the Industrial Age understood how their world, way of life, and philosophy, had been replaced. The Internet Age was here.
+By late 1969, as the world was watching Woodstock, Vietnam, and the Moon landing, ARPAnet, the first version of the internet, went online. Reliable communication with no central hubs was born. For the first time in history individuals could communicate without any middlemen to control their information or message. Few people in the last days of the Industrial Age understood how their world, way of life, and philosophy, had been replaced. The Internet Age was here.
 
-Think of that when you browse the web. The internet was created to survive a nuclear holocaust. Realize how powerful it must be, and therefore realize how powerful you are. The internet is your New World. A place of eternal equality because no one can control you. No professor, executive, president, or king can shut you down. BitTorrents, Netflix, and Wikipedia, all beat Darth Blockbuster, and will keep winning in the war to establish the Internet Age, and a "distributed" player god.
+Think of that when you browse the web. The internet was created to survive a nuclear holocaust. Realize how powerful it must be, and therefore realize how powerful you are. The internet is your New World. A place of eternal equality because no one can control you. No professor, executive, president, or king can shut you down. BitTorrents, Netflix, and Wikipedia all beat Darth Blockbuster, They will keep winning in the war to establish the Internet Age.
 
-Now think of the rest of your technology. Those high-flying drones, sensor filled smartwatches, 20 megapixel cameras, and super-computer gaming systems. These tools are your Internet Age cyborgology. If you had those at Woodstock in 1969, not even those drugged-up hippies would believe your mutant powers. You are a unique lifeform on Earth—for all we know, you're the most advanced lifeform ever to exist.
+Now think of the rest of your technology. Those high-flying drones, sensor filled smartwatches, 20 megapixel cameras, and super-computer gaming systems. These tools are your Internet Age cyborgology. If you had those at Woodstock in 1969, not even those drugged-up hippies would believe your mutant powers. You are a unique lifeform on Earth. For all we know, you're the most advanced lifeform ever to exist.
 
-As Gordon Moore said in 1973 "We are really the revolutionaries in the world today—not the kids with long hair and beards who were wrecking the schools a few years ago." In fact, it's Moore's Law that shows us how much better our cyborgologies keep getting. He predicted that every 12-18 months the power of computers would double. And he was right. That's why our digital technology and internet speed is over three million times faster now, then in 1969.
+As Gordon Moore said in 1973 "We are really the revolutionaries in the world today—not the kids with long hair and beards who were wrecking the schools a few years ago." In fact, it's Moore's Law that shows us how much better our cyborgologies will keep getting. He predicted that every 12-18 months the power of computers would double. And he was right. That's why our digital technology and internet speed is over three million times faster now, then in 1969.
 
 Gordon Moore was part of the "Traitorous Eight" a group of young inventors who founded Silicon Valley. They each had a pivotal hand in creating technology like the integrated circuit, microprocessor, and personal computer. Intel, AMD, Amelco, Eugene Kleiner Perkins, and dozens of other historic companies were started by their hands. More than that, they bucked the rigid corporate heiracrchies of the day, and treated every employee as a member. They started companies based on collaboration.
 
@@ -1410,7 +1425,7 @@ And they broke the rules to do it all. In the late 50's, the era of mass-product
 These eight guys said to heck with all that. The game of civilization rewards invention and risk, not conformity and business-as-usual. They left to start their own companies. And so changed the world.
 
 SILICON VALLERY VIDEO
-_This is edited down from American Experience: Silicon Valley. Note, this is not neccesarily an endorsement of modern silicon valley._
+_This is edited down from American Experience: Silicon Valley._
 
 Traitors. Troublemakers. Shameful act. Equality over heirarchy. Invention over the tried and true: look at your home assisstant, smartphone, or laptop, these morals invented your cyborgology. Don't take it for granted. Other cultures were investing billions into research and development back in 1969, and are now totally forgotten. The Traitorous Eight and their followers are heroes, because they went beyond inventing technology. They merged new technology with a new philosophy to create the Internet Age.
 
@@ -1426,9 +1441,9 @@ We have all this amazing power at our finger tips and we're letting political pu
 
 Look at the video above; we can change our own world!
 
-Global warming, human migrations, widespread obesity, antisocial behavior, soaring national and personal debt, high divorce rates, traffic filled roads, hopeless kids shooting up their schools. Our list of problems keeps growing, because the people aren't using the stupendous power of modern technology, to evolve our civilization.
+Global warming, human migrations, widespread obesity, antisocial behavior, soaring national and personal debt, high divorce rates, traffic filled roads, rising insurance rates, hopeless kids shooting up their schools. Our list of problems keeps growing, because the people aren't using the stupendous power of modern technology, to evolve our civilization.
 
-If you chicken-out from playing the game of civilization, then you've chosen to be an non-playing character extra watching the story of civilization. You've chosen an unhappy life because you think someone else will solve our problems. There's nothing moral about that decision, because a ruling philosophy worth following is one that facilitates evolution; and Right/Left philosophies, and the era of mass-production, no longer do that.
+If you chicken-out from playing the game of civilization, then you've chosen to be an non-playing character extra watching your civilization as if it was a story in a movie theatre. You've chosen an unhappy life because you think someone else will solve our problems. There's nothing moral about that decision, because a ruling philosophy worth following is one that facilitates evolution; and Right/Left philosophies, and the era of mass-production, no longer do that.
 
 Techvolution does, if you believe in yourself.
 
