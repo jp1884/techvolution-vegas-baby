@@ -786,7 +786,7 @@ The sweet spot wasn't going to last. Because true to the game of civilization, t
 
 I was a theatre usher/projectionist back then and saw it all first hand. Some movies were great, but most were bland: comedies, tragedies, dramas, suspense, all usually fell flat. Theatres were over-priced and often empty. Customers were unhappy, and often told me so. The industry didn't care. They gave themselves lavish paychecks, banquets, and award shows. Any consideration of upgrading their customers to the Internet Age was not-existent.
 
-The industry wasn't going to throw away the DVD. Instead, they double-downed on it. Twice! They made HD-DVD and Blu-Ray (2006). They increased the dark majic of marketing, special effects, and celebrity culture. The Hollywood hierarchy was happy the way things were. They (thought) they controlled the digital technology lever of power.
+The industry wasn't going to throw away the DVD. Instead, they double-downed on it. Twice! They made HD-DVD and Blu-Ray (2006). They increased the dark majic of marketing, special effects, and celebrity culture. The Hollywood hierarchy was happy the way things were. They (thought) they controlled the digital technology lever of power. Their business model was to ration access with structrued theatre, DVD, and television release dates with orchestrated advertising campaigns and  exclusive celebrity interviews.
 
 In swoops today's internet Jedi on an ethernet chandelier. Unknown and unpaid technologists created BitTorrent sites (2008). Although filled with computer viruses, lousy picture quality, and poorly designed user interfaces, these sites gave regular people movies on the internet. With the lever of power in both hands, DVDs faced off against internet streaming.
 
@@ -861,20 +861,20 @@ The middle-class can start to control their society with water reclaimers, home 
 
 ## Polar Bears in the Amazon
 
-The era of mass-production is over. But politicians went along with Darth Blockbuster's antagonism.
+The era of mass-production is over. But politicians went along with Darth Blockbuster's antagonism. Instead of adapting solutions to local problems, we've replicated past products and tried to live with the unhappy outcomes.
 
-Unable to evolve, our society kept mass-producing the past and using ever more dark majic to prevent people from noticing. Thus, to look like we we're improving education, we put up more prestigious colleges. To speed up transportation, we sold more luxury cars. To make people "happy," we built more glamorous suburban homes. The Woodstock 1969 lifestyle put on a veneer of luxury while going global to keep Industrial Age production lines busy enough to stay in business.
+Unfree to evolve, our society used ever more dark majic to try and make people happy. Thus, to look like we we're improving education, we put up more prestigious colleges. To deal with traffic jammed, decaying roads, we sold more luxury cars. To make people "happy," we built more glamorous suburban homes.
 
 ![suburbs](/img\diagrams\suburbs.jpg)
 _Guess where these pictures were taken. You can't! Mass-production brought mass-uniformity that's very unusual in our history, and in Nature._
 
-If we saw a camel drinking from the Great Lakes, eagles flying inside a cave system, or polar bears swimming in the Amazon, we'd stop and wonder, "why are these biologies here?". Likewise, when we see the same modes of transportation, working hours, and houses, in Boston and Phoenix, we should see something is out of place. Different geographies, demographics, and weather give different problems and thus give custom biologies. So, it should also create custom cyborgologies too.
+If we saw a camel drinking from the Great Lakes, eagles flying inside a cave system, or polar bears swimming in the Amazon, we'd stop and wonder, "why are these biologies here?". Likewise, when we see the same modes of transportation, working hours, and houses, in Boston and Phoenix, we should see something is out of place. Different geographies, demographics, and weather give different problems and thus give custom biologies. So, we should also create custom cyborgologies for the same reason.
+
+If you're asking how our cyborgologies should evolve, I don't know. That's your choice. It's up to free lifeforms to adapt. I am sure an archeologist digging us up would have a heck of time telling the difference between Miami and Toronto, or Auckland and Calgary lifestyles. We have none of the splendid diversity of life in Nature, the ancient world, or Middle-Earth. (This is a hint of the beautiful place we'll build in the era of mass-collaboration and enjoy in the lands of perpetual profit.)
 
 <div style='position:relative; padding-bottom:calc(54.69% + 44px)'><iframe src='https://gfycat.com/ifr/BriefPersonalAlleycat' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/briefpersonalalleycat">via Gfycat</a></p>
 
-If you're asking how our cyborgologies should evolve, I don't know. That's your choice. It's up to free lifeforms to adapt. I am sure an archeologist digging us up would have a heck of time telling the difference between Miami and Toronto, or San Diego and Calgary lifestyles. We have none of the splendid diversity of life in Nature, the ancient world, or Middle-Earth. (This is a hint of the beautiful place we'll build in the era of mass-collaboration and enjoy in the lands of perpetual profit.)
-
-The Western world's mass uniformity is why we're unhappy. We're forced to live a generic lifestyle, unfree to adapt our housing, work schedules, transportation methods, food supply, etc. to the problems of our environment. We're as unhappy as a camel would be if forced to live in the Amazon.
+The Western world's mass uniformity is why we're unhappy. Replication over adaption is unnatural. But ee're forced to live a generic lifestyle, unfree to adapt our housing, work schedules, transportation methods, food supply, etc. to the problems of our environment. We live a life of fragility. We're as unhappy as a camel would be if forced to live in the Amazon.
 
 It's expensive for a lifeform to live outside of its ecosystem. That's why despite disagreeing on everything else, our politicians have agreed to keep borrowing more money. They want to keep the Industrial Age, the era of mass-production, and their ruling philosophy alive. Unable to adapt is also why regular people owe so much money.
 
