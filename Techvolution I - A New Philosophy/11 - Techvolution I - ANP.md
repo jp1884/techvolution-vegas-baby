@@ -10,15 +10,15 @@ February 2019
 
 Do you think the beloved comedian and podcaster is right? Are people angry? Are your friends and family? Are you?
 
-Let me approach the question differently. Are you happy? I'm not asking if you're comfortable or "happy enough." Do you jump out of bed every morning, are you respected at your job, are your bills paid up. And most importantly, how sure are you that your kids will inherit a happier life.
+Let me approach the question differently. Are you happy? I'm not asking if you're comfortable or "happy enough." Do you jump out of bed every morning, are you respected at your job, how well do you weather catastrophes. And most importantly, do you think your kids will inherit a better life.
 
-On the surface, Westerners have luxurious homes, full employment, and stable politics. On the inside, our middle-class deals with boring jobs, growing debts, mindless bureaucracies, and horrible commutes. Our lives often do suck. It's made so much worse because, unlike our ancestors, we're also watching our society decline. Everyday bad trends get worse, like drug epidemics, crumbling infrastructure, aching depression, antisocial behavior, political hatred, and climate change.
+On the surface, Westerners have luxurious homes, full employment, and stable politics. On the inside, our middle-class deals with boring jobs, growing debts, horrible commutes, and mindless bureaucracies. Our lives do often suck. It's made so much worse because, unlike our ancestors, we're also watching our society decline. Everyday bad trends get worse, like drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, and climate change.
 
-Luckily, we have the freedom to vote for government solutions and regulations. We've tried Left-wing and Right-wing, moderate, and extreme, but none have helped. No matter if we regulate our economy, or let businesses run free, Main Street keeps getting unhappier.
+Luckily, we have free politics, so we can vote for government solutions and regulations. We've tried giving Left-wing and Right-wing, moderate, and extreme, the levers of power. But no matter if we regulate our economy, or let businesses run free, Main Street keeps getting unhappier.
 
-Living happy lives isn't an unrealistic fairytale. In fact, it's a sign of a healthy society. What's standing in our way _is_ Left and Right ideologies. They were created in the Industrial Age, and since 1970 we've been in the Internet Age. Our ideologies are so outdated they're actually causing our frustrating lifestyles and growing social unrest. We need a new philosophy. One designed to harness the remarkable potential of digital technology.
+Living happy lives isn't an unrealistic fairytale. In fact, it's a sign of a healthy society. The truth is Left, and Right levers of power are outdated. They were created in the Industrial Age, and since 1970 we've been in the Internet Age. We need a new philosophy. One designed to activate the awesome power of digital technology.
 
-Here it is. Its big lesson is this. The middle-class needs to step up and use modern apps, computers, and the internet to solve our problems now. If we don't, we'll soon be suffering something much worse than unhappiness. There's only so long we can keep running our civilization on old—ideological—fumes.
+Here it is. Its big lesson is this. The middle-class must step up and start making and pulling the levers of modern power; as apps, computers, and the internet. If we don't, we'll soon be suffering something much worse than unhappiness. There's only so long we can keep running our civilization on old—ideological—fumes.
 
 ## Table of Contents
 
@@ -57,7 +57,7 @@ Also, I use Star Wars, Star Trek, Harry Potter, Civilization, and other popular 
 
 Donald Trump is the savior of Western Civilization. If that turns your emotions on, with tears or cheers, then you are missing the point of politics. Politics isn't voting for a political party, advocating for a political cause, and it's definitely not screaming at a TV. Doing all these things may change the world. But the government is so big—with so many politicians, civil servants, companies, and interest groups fighting for control, it will never respond to your small voice. Tears or cheers don't make a person powerful.
 
-Deciding how to live your life does. Because exercising, composting, teaching your kids mathematics does change the world. Good decisions change and improve your world—giving you freedom from dependency and power over your part of society. And, since power is to politics what money is to finance, your personal choices are always your most potent political weapon.
+Deciding how to live your life does. Because exercising, composting, teaching your kids mathematics does change the world. Good decisions change and improve your world—giving you freedom from dependency and power over your part of society. And, since power is to politics what money is to finance, your personal choices are always your most important political weapon.
 
 The question is, how do we increase your powers. The answer, we'll find out in this book, is better technology, and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy." It's about making you powerful so you can earn your happiness.
 
@@ -270,7 +270,7 @@ _Figma is a design tool for websites and apps. In the past, designers, writers, 
 
 ## Fighting for The Future - The Era of Mass-Collaboration Won't Just Happen
 
-Once upon a time, I only wanted to learn about the open-source fight. Now I want to push it forward. Mass-collaboration, telecommuting, right to repair, home power generation, and real internet privacy are just the tips of the iceberg. The visions of science fiction will only be a reality once we replace old Industrial Age tools. The open-source community must get political, get mad, and learn to be selfish because they're the leaders in the age-old story about New versus Old. Protagonists versus Antagonists. Jedi versus Sith.
+Once upon a time, I only wanted to learn about the open-source fight. Now I want to push it forward. Mass-collaboration, telecommuting, right to repair, home power generation, and real internet privacy are just the tips of the iceberg. The visions of science fiction will only be a reality once we replace old Industrial Age tools. The open-source community must get political, get mad, and learn to be selfish because they're the leaders in the age-old story about Protagonists versus Antagonists. Industrial Age versus Internet Age. Blockbuster versus Netflix. Jedi versus Sith.
 
 ![old philosophy in a new world](/img\diagrams\suburbs-idealized.jpg)
 _The American Dream, if you want to live in 1969 forever. There are lots of antagonists in this photo. Newspapers, broadcasters, oil, gas cars, k-university education are among today's largest Industrial Age holdovers._
@@ -306,7 +306,7 @@ The middle-class has to step up and upgrade our way of life to the Internet Age.
 
 The biggest roadblock to the Internet Age is Darth Blockbuster, the self-entitled holdover from the Industrial Age. He antagonizes the future by writing rules to keep his Industrial Age tools, and himself, in power. These rules are like a Death Star. They concentrate the legal departments, HR reps, corporate lobbyists of a bygone age, to keep Main Street away from a happier life inside the era of mass-collaboration. Therefore, before our civilization can evolve, we need to defeat blow up Darth Blockbuster's super-weapon.
 
-And that's the setup to the story of your life. Will you become a player god and fight to control our society's levers of power like timesheets, health records, and power generation? The antagonists are already playing. And this battle is the game of every civilization either wins or dies. It's not at all dramatic to say this; the fate of your children, culture, and civilization is on your shoulders.
+And that's the setup to the story of your life. Will you become a player god and fight to control our society's levers of power like timesheets, health records, and power generation? The antagonists are already playing, and this battle is the game of every civilization either wins or dies. It's not at all dramatic to say this; the fate of your children, culture, and civilization is on your shoulders.
 
 I'll explain the philosophy you need to win, but whether you decide to become a player god is up to you. Once you make up your mind, the journey to win the game starts below.
 
@@ -323,7 +323,7 @@ Before we make you a player god, here are a few terms that will put us all on th
 
 **Philosophy**: The largely unspoken ideals that tell individuals what's right and wrong, good and bad, in science, art, morals, politics, and economics. Philosophy is supposed to unite individuals to see the big picture; that everyone's choices matter, because everyone is a player god.
 
-**Ruling philosophy**: A civilization's chosen philosophy. One that all factions/ideologies agree on. Examples include the "Divine Rights of Kings," derived from Christian theology and used in royalist Europe; "Marxist-Leninism" of the Soviet Union; and the combination of "Right/Left" philosophies of the Western world today. The ruling philosophy is supposed to help society win the game of civilization.
+**Ruling philosophy**: A civilization's chosen philosophy. One that "clicks" for all factions/ideologies. Examples include the "Divine Rights of Kings," derived from Christian theology and used in royalist Europe; "Marxist-Leninism" of the Soviet Union; and the combination of "Right/Left" philosophies of the Western world today. The ruling philosophy is supposed to help society win the game of civilization.
 
 **Happiness**: The test of how well the ruling philosophy is doing its job. Spending quality time with family, having good friends, working a steady job, being in good physical and mental health, looking forward to the future. These are all signs of (genuine) happiness.
 
@@ -368,7 +368,7 @@ I asked you to watch that video to emphasize how real the game of civilization i
 
 But, our evolution to new ways of life is never smooth. Just look at education. For all the kids using online courses, there are so many more only using the old-school education system. The gap is enormous. One disturbing statistic is how an entire generation of young Americans now have 1.5 trillion in college debt. That's disgusting. It's far more money then America spent rebuilding Europe after World War II!
 
-That should make your eyes open wide. The hierarchies of the past won't go away on their own. My contribution to our game is teaching everyone—even protagonists like Khan—we don't just evolve better technologies. Humanity has antagonists, and we need a new philosophy to overcome them before living in a new age.
+That should make your eyes open wide. The hierarchies of the past won't go away on their own. My contribution to our game is teaching everyone—even protagonists like Khan—we don't just evolve better technologies. Humanity has people who benefit from holding us back, and we need a new philosophy to overcome these antagonists before we can live in a new age.
 
 Techvolution will show you how to become a player god. And we must, because only when we take hold of the levers of power will we win the game and live happy lives again. I mean, imagine education was more natural for everyone!
 
@@ -819,11 +819,11 @@ Intermissions are an excellent time to stretch our legs, buy a snack, and also a
 
 ## Recap
 
-The game of civilization never stops. It goes on forever because it's the game of life; evolve or die. Thus, we're always that person on Main Street trying to figure out what's right for ourselves while trying to help our society prosper. I think we all try our best. We try to educate ourselves, eat well, or join movements like sustainable agriculture and renewable energy.
+The game of civilization never stops. It goes on forever because it's the game of life; evolve or die. Thus, we're always that person on Main Street trying to figure out what's right for ourselves while trying to help our society prosper. I think we all try our best. We try to educate ourselves, eat well, use green products, and join movements like sustainable agriculture and renewable energy.
 
-That's good news because even though human evolution is (currently) hard to see, we're still nonetheless playing the game. We simply have a huge problem—we're running out of time. Western Civilization peaked in the Industrial Age, and we haven't updated our ruling philosophy to the Internet Age. Still obsessed with the era of mass-production, we've been digitizing our society using ideas meant to industrialize it.
+That's good news because even though human evolution is (currently) hard to see, we're still nonetheless playing the game. We simply have a huge problem—we're running out of time. Western Civilization peaked in the Industrial Age, and we haven't updated our ruling philosophy to the Internet Age. Still obsessed with the era of mass-production, we've been digitizing our society using ideas designed to industrialize it.
 
-That's why still measure our success by the Industrial Age stats like GDP growth, employment numbers, Dow Jones Industrial Average, union membership rates. These numbers don't tell us anything about ourselves. They don't say if we have more savings, better-maintained infrastructure, fewer heart attacks, or if we're living happier lives.
+That's why still measure our success by the Industrial Age stats like GDP growth, employment numbers, Dow Jones Industrial Average, union membership rates. These numbers don't tell us anything about ourselves. They don't say if we have more savings, better-maintained infrastructure, fewer heart attacks, more reliable medical supplies, or if we're living happier lives.
 
 The Internet Age gives us the power to start measuring our happiness and therefore our civilizatoin's health. To get there, we have to finish our upgrade with the "click" of a new philosophy. One that says improving our lives is our right and our duty.
 
@@ -847,7 +847,7 @@ It became one when Industrial Age powers wanted to keep themselves in power. Far
 
 https://www.youtube.com/watch?v=QKcneQ6N50Q&feature=youtu.be&t=50
 
-You can see this same conversation at a car, clothing, appliance, entertainment, cosmetic, and other once upon a time cutting edge companies. After the Industrial Age ended in 1969, they wanted to keep the good times going. To do so, the juniors of this world, with no idea how their industry worked, or how to make anything new, paid for more "mad men" dark majic shows. And when that didn't work—a large, confusing, and ever-growing rulebook became their superweapon to defend their gates against new technology.
+You can see this same conversation at a car, clothing, appliance, entertainment, cosmetic, and other once upon a time cutting edge companies. After the Industrial Age ended in 1969, they wanted to keep their time in the sun going. To do so, the juniors of this world, with no idea how their industry worked, or how to make anything new, paid for more "mad men" dark majic shows. And when that didn't work, a large, confusing, and ever-growing rulebook became their superweapon to defend their gates against new technology.
 
 Only established Industrial Age companies had the money to buy the lawyers who could interpret the rulebook in their favor. Henceforth, the massive rulebook of society became a Death Star to the Internet Age. Leaders like "junior" became Darth Blockbusters, who held back evolution for their self-interest, not caring that his antagonism made life ever unhappier on Main Street.
 
@@ -855,7 +855,7 @@ Only established Industrial Age companies had the money to buy the lawyers who c
 
 In the Industrial Age, when regular people thought of politics, they had to think of ideologies. This was because government policy was society's biggest lever of power. To have any say in what that lever did, Main Street could only support Right or Left.
 
-The Internet Age changes the power dynamic. Now when you think of politics Stargazer, you should not think of ideology but of apps, websites, and electronics. These are the new levers of power. Thus, the most important political question of our time is asking "who controls mine?".
+The Internet Age changes the power dynamic. Now when you think of politics Stargazer, you should not think of ideology, nightly news broadcasts, or what commentators think. You must think of of apps, websites, and electronics. These are the new levers of power. Thus, the most important political question of our time is asking "who controls mine?".
 
 The middle-class can start to control their society with water reclaimers, home agriculture, solar panels, and records of communication. Once we believe in Techvolution, we'll be player gods in our minds. But only when we control our own levers of power, will we be player gods in reality.
 
@@ -863,7 +863,7 @@ The middle-class can start to control their society with water reclaimers, home 
 
 The era of mass-production is over. But politicians went along with Darth Blockbuster's antagonism. Instead of adapting solutions to local problems, we've replicated past products and tried to live with the unhappy outcomes.
 
-Unfree to evolve, our society used ever more dark majic to try and make people happy. Thus, to look like we we're improving education, we put up more prestigious colleges. To deal with traffic jammed, decaying roads, we sold more luxury cars. To make people "happy," we built more glamorous suburban homes.
+Our society used dark majic to try and make people happy. Thus, to look like we're improving education, we put up more prestigious colleges. To deal with traffic jammed and decaying roads, we sold more luxury cars. To make people "happy," we built more glamorous generic suburban homes.
 
 ![suburbs](/img\diagrams\suburbs.jpg)
 _Guess where these pictures were taken. You can't! Mass-production brought mass-uniformity that's very unusual in our history, and in Nature._
@@ -874,14 +874,26 @@ If you're asking how our cyborgologies should evolve, I don't know. That's your 
 
 <div style='position:relative; padding-bottom:calc(54.69% + 44px)'><iframe src='https://gfycat.com/ifr/BriefPersonalAlleycat' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/briefpersonalalleycat">via Gfycat</a></p>
 
-The Western world's mass uniformity is why we're unhappy. Replication over adaption is unnatural. But ee're forced to live a generic lifestyle, unfree to adapt our housing, work schedules, transportation methods, food supply, etc. to the problems of our environment. We live a life of fragility. We're as unhappy as a camel would be if forced to live in the Amazon.
+The Western world's mass uniformity is why we're unhappy. We're forced to live in a world so interconnected with "just in time" economics our lives have little antifragility. One plant does down, one port is closed, one virus pops up and the world feels massive pain. All because we're unfree to adapt our housing, work schedules, transportation methods, food supply, power generation etc. to our local environment.
 
-It's expensive for a lifeform to live outside of its ecosystem. That's why despite disagreeing on everything else, our politicians have agreed to keep borrowing more money. They want to keep the Industrial Age, the era of mass-production, and their ruling philosophy alive. Unable to adapt is also why regular people owe so much money.
+Keeping the era of mass-production going gives us a easy life in the good times, but great fragility when anything goes wrong. We're as unhappy as a camel would be if forced to live in the Amazon.
 
-In short, can you imagine all the debt a polar bear would rack-up to live in the Sahara? You don't have to, just look down.
+It's expensive for a lifeform to live a life of fragility outside of its ecosystem. That's why despite disagreeing on everything else, our politicians have agreed to keep borrowing more money. They want to keep the Industrial Age, the era of mass-production, and their ruling philosophy alive. Unable to adapt is also why regular people have so much debt.
+
+In short, can you imagine all the money a polar bear would owe trying to live in the Sahara? Or a camel in the Amazon? You don't have to, just look down.
 
 ![Government debt](https://en.wikipedia.org/wiki/Consumer_debt#/media/File:Consumer_and_Government_Debt_as_a_%_of_GDP.png)
 _Industrial Age tools like suburban houses, gas cars, and junk food are too generic to give a return on their investment. We borrow to avoid doing the hard work of finding more efficient ways of living and working in the era of mass-collaboration._
+
+## Happy Camels
+
+What makes a lifeform happy. The freedom to play the game of life.
+
+What holds Progressives and Conservatives back from letting us evolve locally, it's their addiction to choice. See, when Left and Right were born, the world was poor, hungry, and mostly untamed wilderness. By liberating people from the grips of the "nobles divine rights", Left/Right ideologies empowered our ancestors to tame the land with industrialization.
+
+During that era, free choice was always connected with a real-time problem. The majic of a new tool was created because candelight, famine, or blizzards were hard to live with. But as the era of mass-production made people warm, fed, and entertained, human choices lost their evolutionary partner of frontline problems.
+
+To make a happy camel, you need to put in its habitat. A place where it's adapted to live. And same for us. We need our own unique ecosystems, our own economies that are customized for our way of life. I call this "local need solved by local greed." It's great to make money, but only when its because of an adaption that increases the communities welfare and antifragility. That means the era of mass-collaboration will, as the saying does, "think global act local" and let camels live in the damn desert.
 
 ## Ideologues Don't Care About Evolution
 
@@ -903,7 +915,7 @@ There are endless pages of economic theory that justify exporting the American i
 
 Left and Right politicians agreed. Unable to adapt our lifestyle to the Internet Age, they saw cheap labor as a way to sustain the "American Dream" babyboomer lifestyle they sold to voters. Thus, in addition to borrowing money, free-trade was their answer to Main Street's money problems, even when it meant selling off Main Street.
 
-But, no matter how cheap we make Industrial Age living, it's still outdated. We don't win the game by replaying bygone ages. We win by continually evolving technology and ourselves. That's why there's never been a time where the society full of marketers, managers, and economists, defeated the nation full of engineers, craftsmen, and technicians.
+But, no matter how cheap we make Industrial Age living, it's still outdated. Nature demands adaption not replication. We don't win the game by replaying bygone ages. We win by continually evolving technology and ourselves. That's why there's never been a time where the society full of marketers, managers, and economists, defeated the nation full of engineers, craftsmen, and technicians.
 
 To start winning the game in the Internet Age, Main Street must demand more "Made In America." Buying each other's products is a great sign we're controlling our society's new Internet Age levers of power. I smile, thinking of all those bakers, tailors, designers, engineers, repairmen happily working on a new empowered Main Street.
 
@@ -1144,19 +1156,19 @@ Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like 
 
 It didn't matter. The nobility was in the dying days of their Medieval Age ruling philosophy. Starting in 1776, within Rousseau's lifetime, Darth King started to face the music when the American people started a revolution. One year after Rousseau died, the French had their own revolution in 1789. And, on it went from country to country because Rousseau, and others like him, made extras realize they should become player gods in a country "of the people, for the people, by the people." Cinderella soon forgot about the fancy ball, and instead sung the music of freedom in a choir of equals, that sounded something like this:
 
-https://www.youtube.com/watch?v=47E2tfK5QAg?start=5
-
-_Les Miserables is a story of antagonists, protagonists, and extras singing about becoming player gods. Notice them holding that lever of power called a musket._
-
 Revolution spread the people's liberty, equality, and fraternity throughout the world. In a few years, the Medieval Age was finally gone. The royal Death Star was destroyed. Church and state were separate. Government had checks and balances. Civilization embraced a new ruling philosophy of Democracy. Main Street put presidents and senators, judges, and sheriffs in power, who ruled at the request of the people because the people were player gods.
 
 Rousseau died never having found a home. After they won their revolutions, the people put him to rest inside the glorious Panthéon. He was heralded as a renowned breaker of chains, destroyer of corrupted rulebooks, and liberator of player gods with his new philosophy that said any guy can be the prince, and any girl can be Cinderella.
 
 The question for us is, how did Rousseau help an entire people embrace a new age, become player gods, and change their ruling philosophy? I'd especially like to know how we do it better because I'd really like to skip horrible wars and revolutions as we venture into the Internet Age.
 
+Civ6-politics+LesMis GIF
+
+_Les Miserables is a story of antagonists, protagonists, and of course extras singing about becoming player gods. Notice after a new philosophy clicked, they made it real with that lever of power called a musket._
+
 ## Old Philosophy vs. New Philosophy
 
-Techvolution is a philosophy book, but I don't directly reference past philosophies. Like any topic it takes some practice to read. However, I thought it might help to study a little. Below are snippets from two influential philosophers. One who hated Rousseau, and another who loved him.
+Techvolution is a philosophy book, but I don't directly reference past philosophies. Like any topic it takes some practice to read. However, I thought it might help to study a little. Below are snippets from two influential philosophers. One who hated Rousseau's ideas, and another who loved him.
 
 ===
 
@@ -1323,9 +1335,7 @@ You are the deciding factor Stargazer. Act three in 2020, is a simple question; 
 
 This final battle has an even simpler question. Do you appreciate your importance to life on Earth? Do you realize you must have the right, and duty, to solve your problems with modern tools. If you don't, we're stuck using adaptions as out of place as camels trying to swim in the Amazon. Driving to work in Boston blizzards, forcing non-English speakers to call into a call-centre, depending on doctor writing to record our medical histories. All that's anti-evolution.
 
-Society has no magic button. No divine player who'll evolve for us. You are on the frontline. You are the one in the game that's supposed to do the hard work and update society bit by bit to the new age with the majic of new tools. That's you and your society.
-
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FragrantOldEmeraldtreeskink' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+Society has no magic button. No divine player who'll evolve for us. You are on the frontline. You are the one in the game that's supposed to do the hard work and update society bit by bit to the new age with the majic of new tools.
 
 I think you do understand all this. So, act three comes down to one simple question. Do you want to be a player god? That's a choice you have to make. It's a choice as big as any you're ever going to make. Because if we don't upgrade now, it only means your kids and your grandkids will live even unhappier lives as the burden of transforming society falls on their shoulders.
 
@@ -1421,9 +1431,9 @@ The truth then, now, and forever is that evolution happens on the frontline. Lea
 
 Main Street can choose to become player gods because of Internet Age protagonists. Paul Baran is one of the big ones; a true Jedi. This one guy took it upon himself to prevent a nuclear holocaust (talk about stepping up). When the Soviets tested a hydrogen bomb in 1955, Baran realized only an updated, robust, and reliable communications network would ease American and Soviet trigger fingers during tense stand offs.
 
-Baran worked all alone for years. By 1960 he came up with his new network's two core ideas; fully distributed data networks, and packet communication. The first eliminated central hubs and hierarchy, the second made sure no information would be lost during transmission. With many pages of technical specifications on hand he went to give his work away. Sadly, the Defense Department surrounded him with red-tape, and AT&T, with a monopoly over America's telephone network, repeatedly said his ideas were impossible. These antagonists shut Baran down until years later the Advanced Research Projects Agency (ARPA) saw the brilliance and built Baran's new network.
+Baran worked all alone for years. By 1960 he came up with his new network's two core ideas; fully distributed data networks, and packet communication. The first eliminated central hubs and hierarchy, the second made sure no information would be lost during transmission. With many pages of technical specifications on hand he went to give his work away. Sadly, the Defense Department surrounded him with red-tape, and AT&T, with a monopoly over America's telephone network, repeatedly said his ideas were impossible. These antagonists shut Baran down until years later the Advanced Research Projects Agency (ARPA) saw the brilliance and built Baran's distributed communications network.
 
-By late 1969, as the world was watching Woodstock, Vietnam, and the Moon landing, ARPAnet, the first version of the internet, went online. Reliable communication with no central hubs was born. For the first time in history individuals could communicate without any middlemen to control their information or message. Few people in the last days of the Industrial Age understood how their world, way of life, and philosophy, had been replaced. The Internet Age was here.
+By late 1969, as the world was watching Woodstock, Vietnam, and the Moon landing, ARPAnet, the first version of the internet, went online. Reliable communication with no central hubs was born. For the first time in history individuals could communicate with no middlemen to control their information or message. Few people in the last days of the Industrial Age understood how their world, way of life, and philosophy, had been replaced. The Internet Age was here.
 
 Think of that when you browse the web. The internet was created to survive a nuclear holocaust. Realize how powerful it must be, and therefore realize how powerful you are. The internet is your New World. A place of eternal equality because no one can control you. No professor, executive, president, or king can shut you down. BitTorrents, Netflix, and Wikipedia all beat Darth Blockbuster, They will keep winning in the war to establish the Internet Age.
 
@@ -1468,7 +1478,7 @@ And that's the point giving you two options. Even though Main Street was inside 
 
 We're having that same fight right now. No Conservative or Progressive ideologue is going to sacrifice their ideological platform, projects, and politics to pay for our 1969 lifestyle that keeps racking up IOUs to stay alive.
 
-So, if you stay an extra of the Industrial Age, that's your fate. You'll limit your politics to only see Progressivsm or Conservatism. You'll slowly become radicalized, and end up chasing phantoms in the news, rallies, and demonstrations. You'll argue with antagonists at work but get no where. You'll get so frustrated you'll march and scream for change. Eventually, after another financial crisis, debt crisis, migrant crisis, disputed election, constituional amendment; some crisis or another, the West will reach the end of kicking the can down the road, and live through a new version of the Thirty Years War or English Civil War. That's not supposed to sound alarmist. It's a diagnosis using our history.
+So, if you stay an extra of the Industrial Age, that's your fate. You'll limit your politics to only see Progressivsm or Conservatism. You'll slowly become radicalized, and end up chasing phantoms in the news, rallies, and demonstrations. You'll argue with antagonists at work but get no where. You'll get so frustrated you'll march and scream for change. Eventually, after another financial crisis, debt crisis, migrant crisis, pandemic, disputed election, constituional amendment; some crisis or another, the West will reach the end of kicking the can down the road, and live through a new version of the Thirty Years War or English Civil War. That's not supposed to sound alarmist. It's a diagnosis using our history.
 
 And regardless of "wanting to stay out of it" extras will be forced to stop watching their civilization, and join in, as our society tears itself apart.
 
@@ -1479,7 +1489,7 @@ And in the end, Left and Right will quite literally kill each other off. Because
 
 ## Look Up
 
-Look up. Whereever you are, look up. Do you see the "mythical player god"? No you don't, and you never will. You are that player; you're choices determine what happens in the game. If you eat a salad over a cheesesteak, that means health statistics get better. If you install solar panels, you improve the power system. If you read instead of binge watch, society gets more educated.
+Look up. Whereever you are, look up. Do you see the "mythical player god"? No you don't, and you never will. You are that player; you're choices determine what happens in the game. If you eat a salad over a cheesesteak, that means health statistics get better. If you install solar panels, you improve our antifragility against disasters. If you read instead of binge watch, society gets more educated.
 
 You are the lifeform playing the game of civilization. And doing the typical thing of suburban house, soccer practice, 9-5 commute, 401k, saving up for college, television every night, is losing us the game. Your soul already feels it—it's why we're so unhappy because we know we aren't living up to the potential of the Internet Age. To win again, everyone has to adapt in the exact same way a polar bear would have to adapt in the Amazon. Find friends who believe in the same purpose, and form a new community who takes evolution one step at a time.
 
@@ -1498,7 +1508,7 @@ It's up to you to take hold. Darth Blockbuster will never, ever, ever, "see the 
 
 The fate of civilization is fully on your shoulders. Your job is to do what's best for yourself, and help society prosper. Looking up for guidance you see two options. Open-source Jedi who've never stopped struggling, innovating, and filling the world we majic. And the self-importance, short-sightedness of Darth Blockbuster—the fallen hero of the Industrial Age who uses the trickery of dark majic and a corrupted rulebook to keep himself in power.
 
-Our game's fate then is rather simple. Who is your hero Stargazer? Will you be an extra of the Industrial Age, or a player god of the Internet Age? We all await your choice. The conclusion of Techvolution A New Philosophy is thus a simple discussion inside your head. Which might look something like this...
+Our game's fate then is rather simple. Who is your hero Stargazer?
 
 ## The End
 
@@ -1514,11 +1524,17 @@ _An idealized view of mass-collaboration. Although we'll lose the suburban lifes
 
 I want to write all this stuff, but I can't keep thinking for you. Nor do I want to keep holding your hand. This book has been informative enough. At the start I asked "are you happy?" Now you have to ask yourself "Am I going to do something about it?"
 
-Our unhappiness is a fire alarm. Look around, and see old drafty windows, gas engine cars, call-centres, cable news, fake drama television, mass advertisement compaigns, mass-producted toys, eight different bosses, another corporate meeting, huge forest fires, idiotic rush hour traffic, endless suburban houses, boiling temperatures, hungry polar bears, leaky faucets, consultant huddles, hopeless kids... Do you see unnecessary problems? Do you want to solve them in your life with new Internet Age levers of power?
+Our unhappiness is a fire alarm. Look around, and see old drafty windows, gas engine cars, call-centres, cable news, fake drama television, mass-producted toys, eight different bosses, another corporate meeting, idiotic rush hour traffic, endless suburban houses, boiling temperatures, hungry polar bears, leaky faucets, consultant huddles, hopeless kids... Do you see unnecessary problems? Do you want to solve them with Internet Age levers of power?
 
-Or, do you want to return to the comfort and safety of being a Industrial Age extra, bragging about gas cars, fake job titles, and McMansions, while following the antagonists rules, and chasing the phantoms of Left/Right politics. Did Techvolution click? The fate of your life, your kids, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
+Or, do you want to return to the comfort and safety of being a Industrial Age extra, bragging about gas cars, fake job titles, and McMansions, while following the antagonists rules, and chasing the phantoms of Left/Right politics.
+
+Do you see that era of mass-production must be replaced by mass-collaboration. And that Left/Right politics has to be upgraded with your right and duty to solve your own problems using apps, computers and the internet.
+
+The fate of your life, your kids, and of your society, rests on the simple question—will you step up and become a player god in the game of civlization?
 
 If you do, we win. If you don't, we lose.
+
+https://www.youtube.com/watch?v=2HubIBlnvko
 
 # EPILOGUE
 
