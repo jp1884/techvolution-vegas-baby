@@ -360,19 +360,45 @@ _Our civilizations have always had problems. It's up to regular people to use ne
 
 ## This is Real
 
-Please take a few minutes and watch this video. It's from Salman Khan, who in the early 2000s was making videos to tutor his cousins. In 2006 he uploaded them to YouTube. They got so popular he (using open-source software) started Khan Academy, a website that gives the world free education in all subjects. After Bill Gates and others funded it, it now empowers us to learn in a better way.
+We're in a pandemic. People are shocked, scared, and quite unhappy. It's like watching a good movie. One that  has us wondering what's going to happen next. But this is isn't fiction; it's real-life. And it could have been so much easier.
 
-https://www.youtube.com/watch?v=-MTRxRO5SRA
+I'll tell you why.
 
-I asked you to watch that video to emphasize how real the game of civilization is. The Industrial Age is truly over. It's vital we at the "bottom of the pyramid" learn to live and work in what (I call) the Internet Age and the era of mass-collaboration. When we do, it'll definitely be a "pretty exciting time to be alive."
+First do me a favour. Get all your medical records ready. Okay good. Now, collect all your health metrics like weight, fitness, and quality of sleep from your FitBit or Apple Watch. Great, now let's evaluate how much of a risk Covid-19 is to your life by comparing your statistics, to the records of sick people; especially the ones around your area. Know to top-off this investigation, what does your doctor say about your chances?
 
-But, our evolution to new ways of life is never smooth. Just look at education. For all the kids using online courses, there are so many more only using the old-school education system. The gap is enormous. One disturbing statistic is how an entire generation of young Americans now have 1.5 trillion in college debt. That's disgusting. It's far more money then America spent rebuilding Europe after World War II!
+Since I don't know you, so I can only hope you have a low risk of death. But, in the worst case scenario, if you're a high risk, at least now you've been told so by your doctor. Knowledge is the great lever of power after all.
 
-That should make your eyes open wide. The hierarchies of the past won't go away on their own. My contribution to our game is teaching everyone—even protagonists like Khan—we don't just evolve better technologies. Humanity has people who benefit from holding us back, and we need a new philosophy to overcome these antagonists before we can live in a new age.
+Wait, wait. Is the lever stuck? This is a pandemic, a motherfucking pandemic! A real-life movie! Complete uncertainy! And you don't have your medical records! Where the fuck are they? You don't even know! Well at least your doctor is... shit, your doctor hasn't even reviewed your risk factor. Fuck this! Dude, are you just waiting around watching CNN and reading random bullshit on the internet while a novel disease is seaching for human hosts?
 
-Techvolution will show you how to become a player god. And we must, because only when we take hold of the levers of power will we win the game and live happy lives again. I mean, imagine education was more natural for everyone!
+You are. I am. We all are. We entered the Internet Age in 1970. And despite using it's awesome technology to tweet, post, and stream everyday, we're still using Industrial Age philosophies to run our lives. For generations, we've thought health-care meant arguing for private or public health insurance. Yet, with both, every person is still reading mass-produced broadcasts instead of interacting with health professionals.
 
-But imaginations aren't reality. To live in the beautiful Internet Age, we must fight our nemesis, Darth Blockbuster.
+Here's why your living blind during the Great Pandemic of 2020.
+
+In this TED talk by a doctor Doctor Alieta Eck says when she started medical school in the early 80's, she thought being a doctor meant connecting with her patients. She dreamed of being deeply involved to help us live healthier lives. She pictured examinations, home visits, and phone calls.
+
+However, since she entered practiced, she's increasingly gotten something far different.
+
+Dr. Eck started medicine in the early 1980s. Towards the beginning of a growing trend that has seen ever more people putting themselves in the middle of doctors and patients. Administers have gone up every single year. Today, doctors spend far more time doing paperwork then dealing with their patients health.
+
+![Health Admins](/img\diagrams\healthcare-administrators.png)
+
+That's called administrative creep. Government regulators, project managers, hospital administrators, claims adjusters, insurance underwriters, lawyers, and more meetings then anyone can imagine. All these people are doing work that digital technology can replace like robotics did for manufacturing. Yet, as digital technology has given us a more advanced health-system, the people inside it have given themselves control over that systems levers of power; like medical records, health-costs, and records of communication.
+
+Technological speaking, there is absolutely no reason for this. There's also no reason whatsoever your health records and metrics can't be cross-referenced against your health statistics to tell you your risk factor to Covid-19. And, if doctors weren't spending so much damn time with paperwork, they could talk to their patients proactively and help the ones in most need to weather this storm.
+
+And the Internet Age has even more power to offer. Like renting someone's room on Airbnb, Uber arranging drives, or Quora answering one of our questions, when the people control the levers of power, we can collaborate to help ourselves to great effect. For example, watch _The Pharmicist_ on Netflix, and you'll see how a simple online database of prescriptions identified and stopped Oxycontin pill mills. Too bad it took years to make. If done sooner the oxycontin epidemic could very well have been stopped dead.
+
+We don't because since entering the Internet Age, we've been held back by holdovers of the era of mass-production. Managers, consultants, and administrators who antagonist our progress. I call them Darth Blockbuster because they hold our civilization back for simple self-interest.
+
+Please don't tell me that doctors have something better to do then review your status. Or that having your health records means someone might steal them. Of course doctors are still busy, but if you're risk factor is low, at least you know it officially. And, what if your risk factor changes, wouldn't that be nice to know, officially. We're paying hundreds of billions in administrative costs, and if Facebook can track my purchases to sell stupid ads, how is personalized health updates (even basic ones) during a pandemic asking too much.
+
+Second, all your health records are online, spread around clinics, hospitals, and insurance companies. Workers at each have the passwords. The last person who does is you.
+
+The definition of a healthy civilization is your personal happiness. And right now, people are beyond unhappy. Pandemics will never go away, but when we upgrade our way of life Techvolution, then we'll learn to deal with them far better.
+
+Only when we take hold of the levers of power will we win the game and live happy lives again. I mean, imagine you had specialized health-care right now instead of watching sensentionlised news broadcasts. Leave the drama for stories, and make the game of life a easier on yourself
+
+But to live in the beautiful Internet Age, we must fight our way out of the Industrial Age and our nemesis, Darth Blockbuster.
 
 ![Illustration](/img\sketches\playergod-stargazer.jpg)
 
@@ -1351,7 +1377,7 @@ Remember this was before Rousseau. There was no alternatives. Although, England 
 
 Like most kings, Charles and his father spent lavishly; jewelery, palaces, banquets and balls never come cheap. With the Thirty Years War raging, it wasn't long before England went broke and Charles needed more money. Parliament, filling up with idealistic Christians (especially Purtitans, the people who fled to America and started Thanksgiving) wouldn't say yes until they got more political powers. In turn, Charles refused to talk to them. In fact, the king sent parliament home and ruled by himself for over 10 years. The king got his money by using the ancient feudal rulebook. One example, he fined men who didn't come to his royal coronation.
 
-And here is the moment we all should fear. Government was broke. The struggle between king and parliament was very simple; who should pick up the bill?. England was rather wealthy, so both sides could pay the debt by sacrificing, but both sides thought it was the others responsibility. Sadly for Charles, the people were no longer desperate. After all, they were in the middle of the Science Age, and thus enjoying all the benefits of better calenders, record keeping, navigation equipment and so forth. It was precisely because the English people were empowered by new tools, that they could stand up to the king.
+And here is the moment we all should fear. Government was broke. The struggle between king and parliament was very simple; who should pick up the bill?. England was rather wealthy; both sides could pay the debt by sacrificing for the good of the country. But both sides thought it was the others responsibility. Sadly for Charles, the people were no longer desperate. After all, they were in the middle of the Science Age, and thus enjoying all the benefits of better calenders, record keeping, navigation equipment, and gunpowder. It was precisely because the English people were empowered by new levers of power, that they could stand up to the king.
 
 But without Rousseau's new philosophy to explain themselves, the people were left asking for change from a king who thought he was a god. Parliament eventually got sick of being ignored while paying the governments bills. So they raised an army, Charles did the same, and the two sides fought the English Civil War (1642–1646). The Parliamentary Army was local Protestants devoted to democracy—on their way to becoming player gods—who chose their own leaders by merit, and suspected Charles was a closet Catholic. Charles's Royalist Army were mostly nobles who hired foreign mercenaries, and suspected the Parliamentarians had gone mad.
 
@@ -1423,7 +1449,7 @@ Charles was a victim. A regular person told he was king. When asked to throw tha
 
 Only a few leaders ever have. Often called "philosopher kings" they have the wisdom and kindness to emphasize with frontline pain. Like good army generals, they use their power to help win the war on the frontline, instead of living in palaces and holding many banquets and balls.
 
-But philosopher kings are very rare. In times of general peace, most everyone in a heirarchy get detached from the game of civilization. This happened to Charles. He never felt frontline pain, not even in the battles he caused; and that's the point. It's not the job of detached leaders to decide when to upgrade civlization. Why would they want to? Left and Right leaders are usually really want to improve the world. Their philosophy is simply behind the times.
+But philosopher kings are very rare. In times of general peace, most everyone in a heirarchy get detached from the game of civilization. This happened to Charles. He never felt frontline pain, not even in the battles he caused; and that's the point. It's not the job of detached leaders to decide when to upgrade civlization. Why would they want to?
 
 The truth then, now, and forever is that evolution happens on the frontline. Leaders aren't there. You are.
 
@@ -1474,9 +1500,11 @@ Techvolution does, if you believe in yourself.
 
 While Charles was fighting his wars, Europe was fighting the Thirty Years War. A time when Main Street kept fighting and murdering each other for generations; all in the name of a Catholic of Protestant king. Sadly, when the Purtitan Democracy ended in 1658, Charles son Charles II was put on the throne. Without Rousseau's new ruling philosophy, no one had any better ideas. It wasn't long before the new king took his revenge—most everyone who signed his fathers' death warrant was punished; nine were drawn, quartered, and beheaded.
 
-And that's the point giving you two options. Even though Main Street was inside a new age, very unhappy, and victorious in the two civil wars, without a new philosophy, the antagonists still ended up winning. And remember the English Civil War started over a simple question, "who should pay for the government's massive debt?"
+And that's the point giving you two options. Even though the English commoners were victorious in the two civil wars, without a new philosophy, the antagonists still ended up winning. And remember the English Civil War started over a simple question, "who should pay for the government's massive debt?"
 
-We're having that same fight right now. No Conservative or Progressive ideologue is going to sacrifice their ideological platform, projects, and politics to pay for our 1969 lifestyle that keeps racking up IOUs to stay alive.
+It's when the money runs out that ruling philosophies change. Only then do the people get so unhappy, they see through the dark majic, and demand an upgrade. The divine rights of nobility of Royalist Europe, Marxist-Leninism of the Soviet Union, all went down when the money ran out.
+
+And we're having that same fight now. No Conservative or Progressive ideologue is going to sacrifice their ideological platform, projects, and politics to pay for our 1969 lifestyle that keeps racking up IOUs to stay alive.
 
 So, if you stay an extra of the Industrial Age, that's your fate. You'll limit your politics to only see Progressivsm or Conservatism. You'll slowly become radicalized, and end up chasing phantoms in the news, rallies, and demonstrations. You'll argue with antagonists at work but get no where. You'll get so frustrated you'll march and scream for change. Eventually, after another financial crisis, debt crisis, migrant crisis, pandemic, disputed election, constituional amendment; some crisis or another, the West will reach the end of kicking the can down the road, and live through a new version of the Thirty Years War or English Civil War. That's not supposed to sound alarmist. It's a diagnosis using our history.
 
