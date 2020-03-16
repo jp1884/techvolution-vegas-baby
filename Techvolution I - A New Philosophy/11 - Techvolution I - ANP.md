@@ -2,7 +2,7 @@
 # TECHVOLUTION: A NEW PHILOSOPHY
 
 by Johnny Majic
-February 2019
+March 2019
 
 ## Backpage
 
@@ -12,11 +12,11 @@ Do you think the beloved comedian and podcaster is right? Are people angry? Are 
 
 Let me approach the question differently. Are you happy? I'm not asking if you're comfortable or "happy enough." Do you jump out of bed every morning, are you respected at your job, how well do you weather catastrophes. And most importantly, do you think your kids will inherit a better life.
 
-On the surface, Westerners have luxurious homes, full employment, and stable politics. On the inside, our middle-class deals with boring jobs, growing debts, horrible commutes, and mindless bureaucracies. Our lives do often suck. It's made so much worse because, unlike our ancestors, we're also watching our society decline. Everyday bad trends get worse, like drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, and climate change.
+On the surface, Westerners <!-- clarify who --> have luxurious homes, full employment, and stable politics. On the inside, our middle-class deals with boring jobs, growing debts, horrible commutes, and mindless bureaucracies. Our lives do often suck. It's made so much worse because, unlike our ancestors, we're also watching our society decline. Everyday bad trends get worse, like drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, and climate change.
 
 Luckily, we have free politics, so we can vote for government solutions and regulations. We've tried giving Left-wing and Right-wing, moderate, and extreme, the levers of power. But no matter if we regulate our economy, or let businesses run free, Main Street keeps getting unhappier.
 
-Living happy lives isn't an unrealistic fairytale. In fact, it's a sign of a healthy society. The truth is Left, and Right levers of power are outdated. They were created in the Industrial Age, and since 1970 we've been in the Internet Age. We need a new philosophy. One designed to activate the awesome power of digital technology.
+Living happy lives isn't an unrealistic fairytale. In fact, it's a sign of a healthy society. The truth is Left, and Right levers of power are outdated. They were created in the Industrial Age, and since 1970 we've been in the Internet Age. We need a new philosophy. One designed to activate the awesome power of digital technology. <!-- give tangible how we're being held back, pandemic is a good one -->
 
 Here it is. Its big lesson is this. The middle-class must step up and start making and pulling the levers of modern power; as apps, computers, and the internet. If we don't, we'll soon be suffering something much worse than unhappiness. There's only so long we can keep running our civilization on old—ideological—fumes.
 
@@ -35,9 +35,9 @@ Here it is. Its big lesson is this. The middle-class must step up and start maki
 
 _This book is for the people in the open-source community. For the collaboration philosophy you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Internet Age. You gave the best education a political guy can get. I hope I've learned enough to write this book for you._
 
-_For the antagonists, the self-entitled delegators keeping Blockbuster—and it's Industrial Age mentality—alive, thanks for causing history to repeat itself yet again. I hope you learn something._
+_For the antagonists, the self-entitled delegators keeping Blockbuster—and it's Industrial Age mentality—alive, thanks for making history to repeat itself yet again. I hope you learn something._
 
-_This book is especially dedicated to the extras on Main Street. Because when it's time for you to act, I pray you decide to play the game._
+_This book is especially dedicated to the extras on Main Street. When it's time for you to act, I pray you decide to play the game._
 
 ## Quote
 
@@ -47,25 +47,29 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the reader
 
-I used many images and videos throughout the book. They help explain ideas, so why not. I especially did so, to showcase how life-changing the internet is. Today, millions of regular people are communicating views, opinions, and information with no middlemen in government or business to control their messages. Not since the printing-press has information empowered ordinary people so much. While I very much want to help creators and their audiences realize how historic their work is, of course, all credit for the media goes to them.
+I used many images and videos throughout the book. My reasons are twofold: visuals help explain ideas, and they exemplify the life-changing flexibility and immediacy that the Internet has given to storytelling. Today, millions of regular people are communicating views, opinions, and information with no middlemen in government or business to control their messages. Not since the printing-press has information empowered ordinary people so much. These content creators and their audiences are doing historic work is. And of course, all credit for the media goes to them.
 
-Also, I use Star Wars, Star Trek, Harry Potter, Civilization, and other popular stories and computer games. If you're not a fan, don't worry too much. If we were in Ancient Greece, I'd use Greek Mythology. If we were in Victorian Britain, I'd use Shakespeare. Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. Of course, all due credit goes to the media's owners.
+Also, I use pop culture references such as those of Star Wars, Star Trek, Harry Potter, and computer games (e.g. Civilization). If you're not a fan, don't worry too much. If we were in Ancient Greece, I'd use Greek Mythology. If we were in Victorian Britain, I'd use Shakespeare. Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. Of course, all due credit goes to the media's owners.
 
 # Introduction
 
 ## Politics
 
-Donald Trump is the savior of Western Civilization. If that turns your emotions on, with tears or cheers, then you are missing the point of politics. Politics isn't voting for a political party, advocating for a political cause, and it's definitely not screaming at a TV. Doing all these things may change the world. But the government is so big—with so many politicians, civil servants, companies, and interest groups fighting for control, it will never respond to your small voice. Tears or cheers don't make a person powerful.
+Donald Trump is the savior of Western Civilization. If that turns your emotions on, with tears or cheers, then you are missing the point of politics. Politics isn't about voting for a political party, advocating for a political cause, and it's definitely not screaming at a TV. The government is so big—with so many politicians, civil servants, companies, and interest groups fighting for control, it will never respond to your small voice.
 
-Deciding how to live your life does. Because exercising, composting, teaching your kids mathematics does change the world. Good decisions change and improve your world—giving you freedom from dependency and power over your part of society. And, since power is to politics what money is to finance, your personal choices are always your most important political weapon.
+Tears or cheers don't make a person powerful.
+
+On the contrary, you see, exercising, composting, teaching your kids mathematics _does_ change the world. Good decisions change and improve your world—giving you freedom from dependency and power over your part of society. And, since power is to politics what money is to finance, your personal choices are always your most potent political weapon.
 
 The question is, how do we increase your powers. The answer, we'll find out in this book, is better technology, and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy." It's about making you powerful so you can earn your happiness.
 
-Our way of life is trying to evolve into the Internet Age. But, the established powers of the Industrial Age is holding us back. Our civilization is offering the middle-class a deal. If we grab hold of modern tools and join the fight to upgrade our society, we can live happy lives again. It's a good deal, one we should all smile about.
+Our way of life is trying to evolve into the Internet Age. But, the established powers of the Industrial Age is holding us back. Within our current state of affairs, however, the middle class has a unique opportunity: to grapple with this crisis and morph it into an opportunity.
+
+Our civilization is offering the middle-class a deal. If we grab hold of modern tools and join the fight to upgrade our society, we can live happy lives again. It's a good opportunity, one we should all smile about.
 
 ## New Tech, New Age, New Philosophy
 
-Life improves with better technology. Deaths from disease, famine, and war have all gone down as our technological power has gone up. While naysayers love to spread depressing news about our world today, there are lots of good reasons to be optimistic. Plagues used to wipe out 30-80% of our population. Famines were once a fact of life. It wasn't long ago that reading and writing were only for the rich. For crying out loud, the month of March is named after "marching" to war because our ancestors did it so often. We have many problems today, but our technology in medicine, agriculture, education has given us lives our ancestors would envy.
+Life improves with better technology. Deaths from disease, famine, and war all decrease as our technological power has gone up. Even with this pandemic we can have knowledge and can expect a vaccine sometime in the future. Before 1890, nobody even knew bacteria existed. Doctors didn't even wash their hands before surgeries. Most people disease was caused by "stale air" and would open windows in hospitals instead of using disinfectants. We still have many problems today, but our technology in medicine, agriculture, education has given us lives our ancestors would envy.
 
 Now we have computers and the internet. They are game-changers. Laptops, digital cameras, tablets, drones, digital sensors are all millions of times better than just 30 years ago. Modern technology dramatically empowers us to keep fighting off pandemics, hunger, ignorance, and war. But, only if we use them to keep inventing and staying ahead of our problems.
 
@@ -101,56 +105,60 @@ So, what the heck are good political decisions today? Who are the good guys? Eve
 
 Today, we're all looking up from Main Street, trying to figure if Donald Trump is evil, or if the United Nations is trying to make a world government. We ask if CNN is manufacturing fake news, or maybe "all of them" are. If so, what's real news? Our questions never stop. Should the government-run health insurance, or a big corporation regulated by the government? Is climate change real? If the world is suffering so bad, why do "green" obsessed workplaces force us to drive instead of telecommuting?
 
-It's all very confusing and emotional. Yet we all have to pick an answer. After all, you, me, and everyone else are the player god. Wouldn't it be cool if a philosophy helped us decide between good and bad politics? It is cool, it's calming to understand politics. Helping people understand why there's so much hate in our politics is one reason I wrote this book. But the bigger reason I did was to create Main Street's new philosophy. One that bypasses today's "current events" news cycle, and makes us take hold of the new digital levers of power. Because only when we control our own fates, will we finally enjoy the greater freedom, dignity, productivity, and happiness, of the glorious Internet Age.
+It's all very confusing and emotional. Yet we all have to pick an answer. After all, you, me, and everyone else are the player god. Wouldn't it be cool if a philosophy helped us decide between good and bad politics? Helping people understand why there's so much hate in our politics is one reason I wrote this book. But my main motivation is creating Main Street's new philosophy. One that bypasses today's "current events" news cycle, and makes us take hold of the new digital levers of power. Because only when we control our own fates, will we finally enjoy the greater freedom, dignity, productivity, and happiness, of the glorious Internet Age.
 
-## Your Politics Is Hard to See Because You Are Changing
+## Politics Are a Moving Target Because You’re the One Who’s Moving
 
-We create philosophies to organize civilization. Philosophy's high ideals of a "just and good society" get everyone literally on the same page. There are always plenty of theories to choose from. The player god must pick one that empowers its members to use modern technology to solve real-life problems. Only then we society live a good life.
+We create philosophies to organize civilization. Philosophy's high ideals of a "just and good society" get everyone on the same page. There are always plenty of theories to choose from. The player god—we, collectively—  must pick one that empowers its members to use modern technology to solve real-life problems. Only then we society live a good life.
 
-When a player in Anno 1800 upgrades technology, we can see the changes. Installing a sewer, damning a river, building a road, is very obvious. But we can't see philosophy change so easily; because it's our minds that evolve.
+When a player in Anno 1800 upgrades technology, we can see the changes. Installing a sewer, damming a river, building a road, is very obvious. But we can't see philosophy change so easily; because it's our minds that evolve.
 
-For example, we all believe in a philosophy of "Life, liberty, and the pursuit of happiness." But what does that mean in everyday life? Giving people political guidelines is why we invented ideologies. Conservative or Progressive. Libertarian or Socialist. Republican or Democrat. Eaches doctrine supports "Life, liberty, and the pursuit of happiness." but goes into detail by giving a list of specific policies to fight for (or against) like free health-care or gun-rights.
+For example, we all believe in a philosophy of "Life, liberty, and the pursuit of happiness." But what does that mean in everyday life? ? We invented ideologies to give people political guidelines. Conservative or Progressive. Libertarian or Socialist. Republican or Democrat. Each ideology supports "Life, liberty, and the pursuit of happiness." but goes into detail by giving a list of specific policies to fight for (or against) like free health-care or gun-rights. Supposedly we all want the same thing—life, liberty, health, happiness, and prosperity—right? What differs is our approach.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ThickSecondaryChrysomelid' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-That's a "tech tree" of new technologies, tools, and philosophy upgrades. All games use them to give the player the choice of which to use in their game. Just like improving our technology, we also upgrade our philosophy with a "click." It's just so damn hard to see because it's our minds that are evolving.
+The video above shows a “tech tree” of new technologies, tools, and philosophy upgrades. All games use them to give the player the choice of which elements to use in their game. In the real world, just like improving our technology, we also upgrade our philosophy with a “click.” Again: it’s just so damn hard to see because it’s our minds that are evolving.
 
 The point is, even with ideologies to guide our philosophical opinions, understanding our political views is hard. We all look up at the same doctrines—we all try to "think of the big picture," yet we arrive at different answers. Our opinions are a by-product of our psychology, job, skillset, family, geography, culture, ethnicity, religion, time-period. Who can understand how all these factors intermix to make a political opinion? Why does one parent cry tears of sadness, the other of joy, on the same election night?
 
-I can't explain it either. But I can help you understand politics today. We live inside the game of civilization, and inside this game, we develop in ages. At the dawn of a new age, a wealthy establishment always fights idealistic inventors. Both want their philosophy to click with the people and become the ruling philosophy of society. The establishment uses the rules of the old philosophy to persuade, or force, the people to keep the rich in power. At the same time, inventors distribute new technology to lure people away from the past. And here is when everyone on Main Street makes a big choice.
+I can't explain it either. But I can help you understand politics today. We live inside our own game of civilization, and inside this game, we develop in ages. At the dawn of a new age, a wealthy establishment always fights idealistic inventors. Both want their philosophy to click with the people and become the ruling philosophy of society. The establishment uses the rules of the old philosophy to persuade, or force, the people to keep the rich in power. At the same time, inventors distribute new technology to lure people away from the past.
 
-Does the regular person help the protagonists evolve civilization by reaching for modern tools, or help the antagonists hold back progress by following old lifestyles and rules? If you stay out of the fight, you support the establishment keep things the way they are and are thus what's computer games call a "non-playing character". Which means you're essentially an extra watching your civilization as if it was a movie you can't control. But, if you grab hold of the new levers of power and upgrade society, you're a player god, playing the game of civilization and helping society evolve.
+And here is when everyone on Main Street makes a big choice.
 
-We hit the Internet Age in 1970. Since then, hackers, geniuses, and geeks have been fighting to give the incredible power of computers to Main Street. The people who control Industrial Age technology are fighting them off with things like copyright laws, non-disclosure agreements, and political lobbying. And the people on Main Street have a choice; do they step up to help the heroes?
+Does the regular person help the protagonists evolve civilization by reaching for modern tools, or help the antagonists hold back progress by following old lifestyles and rules?
+
+If you stay out of the fight, you support the establishment by keeping things the way they are and are thus what computer games call a “non-playing character”. Which means you’re essentially an extra watching your civilization as if it was a movie you can’t control. That’s your choice, remember. If you grab hold of the new levers of power and upgrade society, you’re a player god, playing the game of civilization and helping society evolve.
+
+We hit the Internet Age in 1970. Since then, hackers, geniuses, and geeks have been fighting to give the incredible power of computers to Main Street. The people who control Industrial Age technology are fighting them off with things like copyright laws, non-disclosure agreements, and political lobbying. The war has arrived to the homefront. People of Main Street, do you step up to help the heroes?
 
 That's a choice you, the person reading this right now, has to make. It's a choice as big as any you're ever going to make. Because if we don't upgrade now, it only means your kids and your grandkids will live even unhappier lives. The burden of transforming society will only fall on their shoulders.
 
-A bit heavy to pull on your parental heartstrings, but it's true. Life on Main Street will keep getting worse until we upgrade to the Internet Age. Evil things like debt, depression, disease, and war only stay away if we keep evolving our technology and philosophy.
+A bit heavy to pull on your parental heartstrings, but it’s true. Life on Main Street will keep getting worse until we upgrade to the Internet Age. We can keep evil things like debt, depression, disease, and war at bay only if we keep evolving our technology and philosophy to be up to par.
 
-Don't worry. We can finish the Internet Age upgrade. The people only need to believe in a new philosophy that turns us all into player gods. My job is to make it click.
+Don’t worry. We can finish the Internet Age upgrade. People only need to believe in a new philosophy that teaches us our innate power as player gods. My job is to make it click.
 
 ## We Upgrade our Politics Now, or We Lose the Game
 
-Politics is quite emotional today. Actually, from the disputed elections of the American government to the radicalization of European politics, I think it's better to say Westerners fucking hate each other. And many don't know why. They're just angry. And not in the "I stepped in the puddle" sort of way. Mad "because the other side is ruining everything!" kind of way.
+Politics is currently quite emotional. Actually, from the disputed elections of the American government to the radicalization of European politics, I think it's better to say Westerners fucking hate each other. And many don't know why. They're just angry. And not in the "I stepped in the puddle" sort of way. Mad "because the other side is ruining everything!" kind of way.
 
-Let's get some perspective. Today, regular people are increasingly unhappy. We pick an ideology to help us. Conservatism and Progressivism are the big choices because both spanned the world on the back of the Industrial Age and the era of mass-production. Conservatives fight for free-markets to help society create more property, Progressives fight for property redistribution to keep our community fair. This divide causes a tug of war over regulations, tax rates, subsidies, and other government policies.
+Let’s get some perspective. Today, regular people are increasingly unhappy. To cope, we pick an ideology to help us. Conservatism and Progressivism are the big choices because both spanned the world on the back of the Industrial Age and the era of mass-production. Conservatives fight for free-markets to help society create more property, Progressives fight for property redistribution to keep our community fair. This divide causes a tug of war over regulations, tax rates, subsidies, and other government policies.
 
-However, digital property can't be mass-produced or redistributed. Digital books, paperwork, audio, and video is automatically both. As our world becomes more virtual in the Internet Age, Industrial Age mentalities grow obsolete.
+However, digital property can't be mass-produced or redistributed. Digital books, paperwork, audio, and video are automatically both. As our world becomes more virtual in the Internet Age, Industrial Age mentalities grow obsolete.
 
 But rather than rethink hundreds of years of "Left vs. Right" politics, both sides turn extremist. Old-school businessmen keep their Conservative troops loyal with constant stories of "fighting evil communists who are coming for your money!" De-regulation, tax-cuts, free-trade are among the right-wing rallying calls. In contrast, social justice warriors keep left-wing politics exciting by "fighting racist fascists who want to oppress you!." Their choir forms around demands for climate justice, diversity indoctrination, and free college schooling.
 
-Fascism and communism (thankfully) died decades ago. Meaning few people in Western societies call _themselves_ fascist or communist. Left and Right call their enemies these names because neither understands digital technology helps our nation prosper (as Progressives dream) by forcing us to better ourselves (as Conservatives demand). Left and Right need to keep their believers in the choir singing against "the other side." Fighting phantoms distract the people with great television.
+In our communities, nationwide fascism and communism (thankfully) died decades ago. Meaning few people in Western societies call themselves fascist or communist. Left and Right call their enemies these names because neither understands digital technology helps our nation prosper (as Progressives dream) by forcing us to better ourselves (as Conservatives demand). Left and Right need to keep their believers in the choir singing against “the other side.” Fighting phantoms distract the people with great television.
 
-Spectacular entertainment is their plan. Left and Right don't want regular people to become player gods of the Internet Age. They want their supporters to stay extras in the Industrial Age. When Main Street complains about how much modern life sucks, CNN, Fox News, MSNBC, and the rest put up "Breaking News! The Other Side Is Ruining Our Country!" to distract their believers from the fact both Left and Right are out of date. Blockbuster sequels and remakes do the same thing when they jack up special effects because their stories no longer connect with Main Street.
+Their strategy? Spectacular entertainment. Left and Right don’t want regular people to become player gods of the Internet Age. They want their supporters to stay extras in the Industrial Age. When Main Street complains about how much modern life sucks, CNN, Fox News, MSNBC, and the rest put up “Breaking News! The Other Side Is Ruining Our Country!” to distract their believers from the fact both Left and Right are out of date. Blockbuster sequels and remakes do the same thing when they jack up special effects because their stories no longer connect with Main Street.
 
 https://www.youtube.com/watch?v=tEczkhfLwqM
 _In the Industrial Age, Left and Right used to cooperate all the time. Not anymore. This video excellently shows the growing hatred between them. It's about the US Congress but applies in every Western country. Notice how the divide started in the 1970s and has grown since. That's because neither Left or Right knows what to do in the Internet Age, so they blame each other for the society's growing list of problems. Left/Right politics (both sides) is why we're increasingly unhappy._
 
-The answer to hateful ideologies is to upgrade our philosophy. Sadly, in history, upgrading only happens when old doctrines kill each other off. The Thirty Years War (1618-1648) is an all too good example. This horrible war was fought during the Science Age between the kingdoms of Europe. Politics hadn't upgraded yet, so Europe was run by powerful nobility who still justified their rule using the Medieval Age philosophy of "nobles divine right to rule."
+The answer to countering hateful ideologies is to upgrade our philosophy. Sadly, in history, upgrading only happens when old doctrines kill each other off. The Thirty Years War (1618-1648) is an all too good example. This horrible war was fought during the Science Age between the kingdoms of Europe. Politics hadn't upgraded yet, so Europe was run by powerful nobility who still justified their rule using the Medieval Age philosophy of "nobles divine right to rule."
 
 When Main Street demanded a better life, the ruling philosophy only had two options to choose from; Catholicism and Protestantism. Regular people picked a team and slaughtered "the other side" on behalf of "holy" kings. One author summarized The Thirty Years War as "a warning of the dangers of entrusting power to those who feel summoned by God to war, or feel that their sense of justice and order is the only one valid."
 
-The Thirty Years War was extremely brutal. One in five Europeans died from it. The carnage only stopped when both sides were exhausted. The worst part was when the horror ended, the people realized they were no better off, and their problem was actually all kings. So, philosophers wrote a new philosophy of Democracy, and it wasn't long until ordinary people put it in place as their new ruling philosophy. As player gods, they fought against divine kings in the American Revolution (1776), the French Revolution (1789), and many more afterward.
+The Thirty Years War was extremely brutal. One in five Europeans died from it. The carnage only stopped when both sides were exhausted. The worst part was when the horror ended, the people realized they were no better off, and their problem was actually all kings. So, philosophers wrote an upgraded philosophy of Democracy, and it wasn't long until ordinary people adopted it as their new ruling philosophy. As player gods, these people fought against divine kings in the American Revolution (1776), the French Revolution (1789), and many more such uprisings afterward.
 
 The hatred between Catholics and Protestants should sound scarily similar to the relationship between Left and Right ideologies today. Today's fights over presidential impeachments, border walls, and trigger words are a smokescreen. Neither Right or Left can see or admit; they're both very similar because both are way behind the times in our modern age.
 
@@ -158,7 +166,7 @@ The hatred between Catholics and Protestants should sound scarily similar to the
 
 For our society to see the big picture again, we need a new philosophy. One that looks ahead towards the boundless horizon of the Internet Age. One that considers the work of protagonists like Tesla, SpaceX, Blue Origin, as a sneak peek for the wondrous future each person should be building now, bit by bit.
 
-I've studied this topic for years. Academically, at the University of Toronto, I worked on political philosophy, history, and innovation. But I learned far more on the frontline as a projectionist, contractor, line worker, account manager, claims adjuster, and especially making a digital tool for an Industrial Age industry. I wrote this book to my fellow people on Main Street today; here's how we fix our problems and win the game.
+I've studied this topic for years. Academically, at the University of Toronto, I worked on political philosophy, history, and innovation. But I learned far more on the frontline as a projectionist, contractor, line worker, account manager, claims adjuster, and especially when inventing a digital tool for an Industrial Age industry. I wrote this book to my fellow people on Main Street today; here's how we fix our problems and win the game.
 
 You'll like it best if you're sick of contemporary infotainment politics but love checking-out what Elon is up to. Because you'll understand most of today's problems are—with digital technology—quite simple engineering problems. We don't have to invent impossible technology like time-travel to solve road traffic, rising health insurance costs, or personal loneliness. You'll really like this book if you know that unless we see ourselves in the video below, evolution will find someone who does.
 
@@ -172,31 +180,35 @@ Today, if we don't step up to upgrade our politics, we'll keep suffering the unk
 
 And if we stay non-playing characters, at least with this book, our kids can read what their parents could have done as they regret the choices of player gods who lost because they refused to play the game.
 
-## Here's the Grand Mission of Techvolution
+## The Grand Mission of Techvolution
 
-Writer David Mamet once said being free from trying to please a group means being open to see Nature. So I embraced being a regular guy and was quite ambitious when writing this book. Saying that Techvolution has three parts:
+Writer David Mamet once said being free from trying to please a group means being open to see Nature <!-- explain -->. So I embraced being a regular guy with no one to please, and was quite ambitious when writing this book. Saying that Techvolution has three parts:
 
-**I. A New Philosophy**: This part upgrades our philosophy to the Internet Age. It gets Main Street to see the big picture; that we're all player gods who must use apps, electronics, and the internet to solve our problems. Fittingly, the best indicator of our progress, is how happy our lives are.
+**I. A New Philosophy**: This part shows how to upgrade our philosophy to the Internet Age. Its purpose is to enable Main Street to see the big picture: that we’re all player gods who must use apps, electronics, and the internet to solve our problems. Fittingly, the best indicator of our progress, is how happy we are with our lives.
 
-**II. Building the Life Star**: Explains the new political and economic truth we'll see in the Internet Age with technologies like apps, bio-monitors, and big data. With these digital tools, we'll be able to create objective definitions of political and economic right and wrong. In short, the Life Star will do for politics and economics what scientific instruments did for physics, chemistry, biology, etc. The troubling part is many people—especially phantom storytellers of old philosophies—won't accept what this new telescope shows us.
+**II. Building the Life Star**: This section explains the new political and economic truths we’ll see in the Internet Age with technologies like apps, bio-monitors, and big data. With these digital tools, we’ll be enabled to create objective definitions of political and economic “right and wrong”. In short, the Life Star will do for politics and economics what scientific instruments (such as the telescope) did for physics, chemistry, biology, etc. The troubling part is many people—especially phantom storytellers of old philosophies—won’t accept what this new telescope shows us.
 
-**III. Starting Starfleet**: We'll design digital tools detached from the Industrial Age. As the Industrial Age's material abundance helped us live in so-called "perpetual peace," Internet Age products will make our lifestyle one of "perpetual profit." We'll send the massive savings to Musk and his protegees and hence jumpstart the Space Exploration Age—or as I like to say, "Start Starfleet."
+**III. Starting Starfleet**: Once we can see ourselves in the "Life Star telescope" we'll use tt to design digital tools detached from the Industrial Age. As the Industrial Age’s material abundance helped us live in so-called “perpetual peace,” Internet Age products will make our lifestyle one of “perpetual profit.” We’ll send the massive savings to Musk and his protegees and hence jumpstart the Space Exploration Age—or as I like to say, “Start Starfleet.”
 
 **How to See the Matrix**: To write Techvolution, I used Aristotle's Poetics to better understand Hegelian dialectics, and then I added some evolutionary biology. If that bores you to pieces, that's cool, you don't need to read more about it. But just so you know, Techvolution is based on a full-blown philosophy that I'll explain in another book called _How to See the Matrix_.
 
+**No More Magic**: 
+
+**The 2008 Economic Crisis Was Only the Beginning**: 
+
 ===
 
-Techvolution A New Philosophy has a very high goal. So, I want to be crystal clear about its purpose. We're in the new and wondrous Internet Age. But we're still using the philosophy of the Industrial Age to run our society. Conservatism (1791), and Progressivism (1859) philosophy cards were clicked many years ago. It's thus no longer good enough for Main Street to watch infotainment news, donate to a social cause, march in a demonstration, and think they're improving the world.
+_Techvolution A New Philosophy_ has a very high goal. So, I want to be crystal clear about its purpose. We're in the new and wondrous Internet Age. But we're still using the philosophy of the Industrial Age to run our society. Conservatism (1791), and Progressivism (1859) philosophy cards were clicked many years ago. It's thus no longer good enough for Main Street to watch infotainment news, donate to a social cause, march in a demonstration, and think they're improving the world.
 
-To make a difference, we need a new ruling philosophy. One built on the accomplishments of our past, but that factors in the wondrous possibilities of digital technology. Our new way of thinking must unite Main Street to again see the big picture; that we're all player gods whose choices determine the health of our society. We must still vote and debate what's best for our community. But reaching for the Internet Age levers of power is our most potent political power. When we hold them, we, the people on Main Street, will solve our problems and live happy lives.
+To make a difference, we need a new ruling philosophy. One built on the accomplishments of our past, but that factors in the wondrous possibilities of digital technology. Our new way of thinking must unite Main Street to again see the big picture; that we're all player gods whose choices determine the health of our society. We must still vote and debate what's best for our community. But reaching for the Internet Age levers of power is our most potent political power. When we hold them, we, the people on Main Street, will solve our problems and live happy lives. <!-- shorten up top two paragraphs -->
 
 With great power comes great responsibility—that's why the duty to solve our growing problems also requires the freedom to choose any tool we want.
 
-Tools can be anything: a thermal camera to spot leaky windows, the Waze app to lessen gridlock, or 3D printing a tool to sell to a neighbor. The desire to seek out new tools is human evolution. Civilization evolves when its members read a modern philosophy telling them to become a player god of the modern age. We've upgraded our philosophy many times before. This book is the best way I know how to do it for our society today. I hope it's good enough to click.
+Tools can be anything: a thermal camera to spot leaky windows, the Waze app to lessen traffic congestion, or 3D printing a tool to sell to a neighbor. The desire to seek out new tools is human evolution. Civilization evolves when its members adapt a modern philosophy telling them to become a player god of the modern age. We've upgraded our philosophy many times before, and it's simply time to do it again.
 
 <div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/KeenAmpleHusky' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/keenamplehusky">via Gfycat</a></p>
 
-_Like magic, this machine can make hammers, wrenches, replacement parts, almost anything you need. Using new tools to solve your problems is real politics. Because it promotes evolution. It doesn't matter if you thrive or die while trying. We, as individuals, can only try new ideas and see what works. Marching against climate change, or watching infotainment television is merely being a non-playing character. The struggle with our society is regular people don't think to act like protagonists or player gods. And even worse, it's often against the rules to because Industrial Age companies want us to keep using their obsolete products. We'll overcome these antagonists below._
+_Like magic, or even the Force, this machine can make hammers, wrenches, replacement parts, and almost anything else. Using new technology is real politics. Because it promotes evolution. It doesn't matter if you thrive or die while trying. We, as individuals, can only try new ideas and see what works. Marching against climate change, or watching infotainment television is merely being an extra. The struggle with our society is regular people don't think to act like protagonists or player gods. And even worse, it's often against the rules to because Industrial Age companies want us to keep using their obsolete stuff. We'll overcome these antagonists below._
 
 ===
 
@@ -210,14 +222,14 @@ These authors' stories, such as _War of the Worlds_, _I, Robot_, and _Star Trek_
 
 With every purchase, renovation, and Christmas gift since 1970, we've been filling our society with fundamentally different technology. It's easy to under-appreciate how just a laptop can be so many machines: a typewriter, radio, recorder, book, television, photo album, database, calculator. In contrast, mechanical tools of the Industrial Age are single-use, can't be easily shared, and need many workers and managers to work.
 
-Corporations populated the world with mechanical products during the Industrial Age. They put in colossal production lines and supply chains that spread across the globe to maximize how much stuff we could make. This era of mass-production was so competitive that only a few companies could survive. If you've ever watched CNBC, you've seen their desire for ever more sales and profits. Businesses must compete really hard to stay alive in the era of mass-production.
+Corporations populated the world with mechanical products during the Industrial Age. They put in colossal production lines and supply chains that spread across the globe to maximize how much stuff we could make. This era of mass-production was so competitive that only a few companies could survive. If you've ever watched business news like CNBC, you've seen their per the minute stock price tracking. Every nuanced detail about sales and profits is reacted to. Most businesses, especially those on the stock market, must compete really hard to stay alive in the era of mass-production.
 
 Digital devices enable a new philosophy, one that fosters not a competition, but collaboration. Using computers and the internet for online collaboration is our future because it saves us from the redundant work of mechanical tools. For example, with Wikipedia, the world can use one website for its general knowledge, instead of reprinting, shipping, and buying millions of encyclopedia books every year.
 
 Now, several generations into the Internet Age, items like smartphones, laptops, and smartwatches are everywhere. That's why the collaboration websites like WikiHow, Facebook, and YouTube integrate so easily into our lives. Collaboration is today's big picture, the basic principle of the Internet Age's new philosophy. The people who understand this best are the open-source community.
 
-![old philosophy in a new world]((https://i.pinimg.com/736x/02/79/3a/02793a3e97abcbdffb67194e225961de--alien-concept-art-science-fiction-sci-fi-concept-art.jpg)
-_The land of perpetual profit. We're never going to get there with Left/Right politics._
+![old philosophy in a new world]((https://www.deviantart.com/philipstraub/art/Command-and-Conquer-Concept-Art-406881632)
+_The land of perpetual profit. We're never going to get there with Left/Right politics. By Philip Straub._
 
 ## Open-Source Protagonists Are Pushing Us Into the Internet Age
 
@@ -229,117 +241,134 @@ Open-source heroes live to democratize technology. Every day they find new ways 
 
 The open-source community has super-charged Main Street. No longer are we bound to be extras in the Industrial Age, hoping for a better life. Now we can become player gods in the Internet Age, making a better life.
 
-I'm one of them. I'm a politics, history, and philosophy geek who spends far too much time thinking about this stuff. Digital tools let me write, research, host my work. I can very easily find world-class writers and illustrators to add a professional touch. Heck, think of the connection between you and I. You're reading my ideas with no middlemen and for virtually free. All because open-source heroes put the power of new tools in both our hands.
+They made me a player god (and later we'll see an inventor too). I'm a politics, history, and philosophy geek who spends far too much time thinking about this stuff. Because of easy to use digital tools I can write, research, host my work. I can very easily find world-class writers and illustrators to add a professional touch. Heck, think of the connection between you and I. You're reading my ideas with no middlemen and for virtually free. All because open-source heroes put the power of new tools in both our hands.
 
-The tech community calls this disruption. While disruption has thankfully torn down many gates, it mainly replaced low-hanging fruit like consumer goods. To keep pushing us into the Internet Age, we need to upgrade disruption with Techvolution. Only a society full of power-hungry player gods will finally turn the fantastic world of science fiction into Main Street's new reality.
+The tech community calls this disruption. While disruption has thankfully torn down many gates, it mainly replaced low-hanging fruit like consumer goods. To keep pushing us into the Internet Age, we need to upgrade disruption with Techvolution. Only a society full of power-hungry player gods will finally turn the fantastic world of science fiction into Main Street's new reality. Note, we don't need the demonic . Player gods are hungry for their own liberty, and hence power over their own levers of power.
 
-![Illustration](/img\diagrams\gates.jpg)
-_Pitch meetings, job interviews, and call-centers are examples of levers of power. People with control get to decide which entertainment gets broadcasted, person hired, or when a service is accessed. These positions were necessary for the era of mass production, but are often targets for open-source in the Internet Age._
+https://www.instagram.com/p/B9qC71BJcfQ/?utm_source=ig_web_copy_link
 
-## Mass-Production Replaced by Mass-Collaboration Makes Us Happy
+_While open-source loves to topple gates and let anyone post videos, send emails, levers of power don't have to be complicated. That's why modern political "power" isn't dictatorial power over our neighbors. Player gods are hungry for their own libery, and thus power is simply the necessities of life. Internet Age tools like solar panels or online instruction videos let anyone learn to be more self-suffcient, and thus control more of their slice of the world. This makes is so much harder for dictators to control you and your community. And disasters less scary._
 
-As a kid, I helped my family clean office buildings. My simple role was to pick up the garbage and blue bins. Other than the still hating the smell of old coffee, I really appreciate growing up doing honest work. Years later, when working at a big office, the cleaners were short-staffed for a few weeks. Management spent hours meeting about and discussing the "garbage problem" instead of just wrapping it up (pun intended) and moving on.
+## Mass-Production Replaced by Mass-Collaboration Helps Us Thrive
 
-The Industrial Age started when the steam engine powered the world's first production lines of wheels, lathes, drills, and presses. Even with this mechanical power, mass-producing trains, clothes, and newspapers needed a lot of manpower, which thus required a lot of managers. Look below, and you'll see a typical production line our ancestors worked.
+As a kid, I helped my family clean office buildings. My simple role was to pick up the garbage and recycling bins. Other than still hating the smell of old coffee, I really appreciate growing up doing honest work. Years later, when working at a big office, the cleaners were short-staffed for a few weeks. Management spent hours meeting about and discussing the “garbage problem” instead of just wrapping it up (pun intended) and moving on.
+
+This sort of mentality unearthed a long time ago. The Industrial Age started when the steam engine powered the world’s first production lines of wheels, lathes, drills, and presses. Even with this mechanical power, mass-producing trains, clothes, and newspapers needed a lot of manpower, which thus required a lot of managers. Workers were machines, and thus managers needed to be task-masters to be sure people were coordinated to a strict rhythm. Look below, and you’ll see a typical production line our ancestors worked.
 
 <div style='position:relative; padding-bottom:calc(76.67% + 44px)'><iframe src='https://gfycat.com/ifr/ObedientNiftyBlackbear' frameborder='0' scrolling='no' width='70%' height='70%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/obedientniftyblackbear"></a></p>
 
-Today we don't work on the assembly line with bulky steam engines or massive presses. Much of industrial production is automated (or, sadly, outsourced). Most Westerners right now work in hospitals, construction sites, or in an office. And it's time for these workplaces to transform the same way the manufacturing already has. We modernize today's economy by empowering workers and customers to collaborate directly. Just as the Industrial Age had mass-production, the Internet Age has mass-collaboration.
+Today we don’t work on the assembly line with bulky steam engines or massive presses. Much of industrial production is automated (or, sadly, outsourced). Most Westerners right in the service economy inside in hospitals, retail stores [https://www.bls.gov/emp/tables/employment-by-major-industry-sector.htm], or in an office. We’ve begun working outside the box, yet most of us are still literally in boxes! It’s time for these workplaces to transform the same way the manufacturing already has. We modernize today’s economy by empowering workers and customers to collaborate directly. Just as the Industrial Age enabled mass-production, the Internet Age enables mass-collaboration.
 
-Main Street is already starting to collaborate. For example, we Google everything. Yet it's easy to forget, the search engine only finds answers real-people have made for us on their own websites. What prevents this kind of mass-collaboration at work is excessive management, which is a needless holdover from the Industrial Age. It's only out of habit that our workplaces still over-value control and delegation instead of contribution and collaboration.
+Main Street is already starting to collaborate. For example, we Google everything because the search engine helps us find answers other people people have made on their own websites. That's how Google facilitates mass-collaboration. What prevents this kind of time-savings at work is excessive management, which is a needless holdover from the Industrial Age. It's only out of habit that our workplaces still over-value control and delegation instead of contribution and collaboration.
 
-A culture of micro-management by layers of management is rotting our economy. Today there's an entire class of consultants, administrators, managers, and executives who don't know the skills of their industry like nursing, teaching, and (definitely not) cleaning. Their power is to be middlemen keeping the people gated behind an Industrial Age technology like broadcast television, newspapers, or call-centers.
+A culture of micro-management by layers of management is rotting our economy. While authority figures, mentors, administrators will always be needed. There's been a bureaucratic creep since 1970. Our industries have too many coaches and not enough players. Today there’s an entire class of consultants, administrators, managers, and executives who don’t know the skills of their respective industry like nursing, teaching, and (definitely not) cleaning. Their power is simply to be middlemen of old technology like broadcast television, call-centers, TPS reports.
 
-This desire to keep things the same creates much antagonism. Because we can see mass-collaboration working already. Often called "Wikinomics," it's sweeping through our economy. For example, the open-source community has hundreds of thousands of active projects. Each project showcases collaboration. The community comes together to make a core technology. Groups then use the core technology to create specialized products.
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RadiantEasyAtlanticblackgoby' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+The realness of "Office Space" can only be appreciated by people working on today's frontline. And that movie is from 1999. The trend has only gotten worst. In the Industrial Age, managers made more money. So, because we stil use the mass-production mentality, more people have found a way to get into management—even though the Internet Age "flips the pyramid". Now true management is leadership and mentorship. Task-managers need not apply. A coach and her staff are still supposed to coach the players well. But they must let them grow-up and play, so to speak.
+
+The class of managers desire to keep things the same creates much antagonism—primarily because we can see mass-collaboration working already. It typically goes by the name  “Wikinomics,” and it’s sweeping through our economy. There are countless examples, given that the open-source community has hundreds of thousands of active projects. Each project showcases collaboration. The community comes together to make a core technology. Groups then use the core technology to create specialized products.
+
+For example, a large open-source community creates MediaWiki software. Then separate groups use MediaWiki to create Wikipedia, WikiHow, Fandom, and any other website you can think of. After all, MediaWiki is free for anyone to use however they want; gatekeepers be damned! And this aspect of mass collaboration hasn’t just been embraced by programmers. Mass-collaboration is how the Wikipedia community of writers, researchers, and editors wrote millions of articles in only a few years. It’s also how Linux, Android, Chrome, and many other excellent services work too.
 
 ![old philosophy in a new world](/img\diagrams\techvolution-open-source-projects.jpg)
 _Some of the more famous open-source projects. Most of this software, worth many hundreds of billions, you can download and use for free. If you can't program, it only takes hiring a few to get whatever product you can imagine._
 
-For example, a large open-source community creates MediaWiki software. Then separate groups use MediaWiki to create Wikipedia, WikiHow, Fandom, and any other website you can think of. After all, MediaWiki is free for anyone to use however they want; gatekeepers be damned! More than just programmers, mass-collaboration is how the Wikipedia community of writers, researchers, and editors wrote millions of articles in only a few years. It's also how Linux, Android, Chrome, and many other excellent services work too.
-
 All this praise doesn't mean open-source communities are perfect and can run the world. Open-source is only a part of the ecosystem bringing the Internet Age and mass-collaboration to life. There will always be significant energy, manufacturing, and software companies with large corporate structures, mass-producing our essential products. Likewise, the government will still run social programs and install traffic lights.
 
-That said, open-source is vital.
+Within that big picture, however, open-source is vital.
 
-Precisely because nobody owns its server software, operating systems, web apps, and so many other remarkable technologies. That means Industrial Age gatekeepers can't stop digital inventors from empowering more player gods. Whether it's with a simple rotating list of persons to take out the trash. An online encyclopedia with millions of helpful articles. Or software to give society internet streaming—as when a few hackers tore down "Darth Blockbuster's" gate when he tried to keep us buying and borrowing his DVDs.
+Its key value lies in the fact that precisely nobody owns its server software, operating systems, web apps, and so many other remarkable technologies. That means Industrial Age gatekeepers can’t stop digital inventors from empowering more player gods. Whether it’s with a simple rotating list of persons to take out the trash. An online encyclopedia with millions of helpful articles. Or software to give society internet streaming—as when a few hackers tore down “Darth Blockbuster’s” gate when he tried to keep us buying and borrowing his DVDs.
 
-To continue opening gates, building the era of mass-collaboration, and pushing us into the Internet Age, the open-source community needs our support. We can't ask any more of them. The Jedi have done their job. Main Street needs to step up and flock to their banner and grab hold of the levers of power they've made for us. We will, once we become player gods.
+To continue opening gates, building the era of mass-collaboration, and ushering us into the Internet Age, the open-source community needs our support. We can't ask any more of them. The Jedi have done their job. Main Street needs to step up and flock to their banner and grab hold of the levers of power they've made for us.
+
+We can, once we become player gods.
 
 https://vimeo.com/366560857
-_Figma is a design tool for websites and apps. In the past, designers, writers, programmers all spoke through many managers. With Figma, worker-to-worker collaboration becomes super-easy. Your workplace can, and will, one-day foster cooperation like this. And it's the open-source mentality that lets us build it for ourselves._
+_Figma is a design tool for websites and apps. In the past, designers, writers, programmers all spoke through many managers. With Figma there are no "eight different bosses" needed.  Worker-to-worker collaboration becomes super-easy. The few managers can review progress in real-time, meaning far less "Hello Peter, what's happending" are needed. Your workplace can, and will, one-day foster cooperation like this. And it's the open-source mentality that lets us build it for ourselves._
 
 ## Fighting for The Future - The Era of Mass-Collaboration Won't Just Happen
 
-Once upon a time, I only wanted to learn about the open-source fight. Now I want to push it forward. Mass-collaboration, telecommuting, right to repair, home power generation, and real internet privacy are just the tips of the iceberg. The visions of science fiction will only be a reality once we replace old Industrial Age tools. The open-source community must get political, get mad, and learn to be selfish because they're the leaders in the age-old story about Protagonists versus Antagonists. Industrial Age versus Internet Age. Blockbuster versus Netflix. Jedi versus Sith.
+Once upon a time, I only wanted to learn about the open-source fight. Now I, too, want to push it forward. Mass-collaboration, telecommuting, right to repair, home power generation, and real internet privacy are just the tips of the iceberg. The visions of science fiction will only become reality once we replace old Industrial Age tools. The open-source community must get political, get mad, and learn to be selfish because they’re the leaders in the age-old story about New versus Old. Protagonists versus Antagonists. Jedi versus Sith.
 
 ![old philosophy in a new world](/img\diagrams\suburbs-idealized.jpg)
-_The American Dream, if you want to live in 1969 forever. There are lots of antagonists in this photo. Newspapers, broadcasters, oil, gas cars, k-university education are among today's largest Industrial Age holdovers._
+_The American Dream, if you want to live in 1969 forever. There are lots of antagonists in this photo. Newspapers, broadcasters, oil, gas cars, k-university education are among today's largest Industrial Age holdovers. Many are filled with layers of management._
 
 The most dangerous thing right now is ignorance. People don't know about open-source or the future they're fighting for. The people are stuck fighting phantoms on behalf of outdated Left vs. Right politics. Both sides idolize 1969 because that was the end of the Industrial Age, and hence when they both peaked. Leftists think public life is one long Woodstock "activism" festival. At the same time, rightists really feel the perfect _Leave it to Beaver_ suburb will return once "the socialists" are defeated. Both Left and Right make up phantoms to keep themselves relevant.
 
-To live happy lives again, Main Street has to believe in a new philosophy. One that gives the levers of power to bakers and butchers over factory food owners. Tailors and sewists over sweatshops. Store owners and clerks over franchises. Engineers and designers over executive bean-counters. We'll finally upgrade our civilization to the Internet Age when all Main Street holds the levers of power as player gods in the era of mass-collaboration.
+If you’re waiting for society to change, this is your chance. Once you take the tools in hand, you'll be the player god of a new society.
+
+To live thriving, prosperous, happy lives again, Main Street has to bypass the middlemen. and embrace a mentality that gives the levers of power to bakers and butchers over factory food owners. Tailors and sewists over sweatshops. Store owners and clerks over franchises. Engineers and designers over executive bean-counters. We’ll upgrade our civilization when we fully enter an era of mass-collaboration.
 
 https://www.youtube.com/watch?v=nndvhbLSlpk
 
-_This is Louis Rossmann. He repairs computers—but some manufacturers make it hard to because they want us to replace them instead. Louis advocates for customers having the "right to repair." Because of digital technology and open-source, regular people like him and his followers can band together as player-gods. Take a look, and you'll see mass-collaboration is already starting to happen on Instagram, Reddit, and Twitter posts. I admit it can be hard to spot through all the noise. But it's still there and growing._
+_This is Louis Rossmann. He repairs computers—but some manufacturers make it hard to because they want customers to replace them instead. Louis advocates for us all having the "right to repair." Because of digital technology and open-source, regular people like him and his followers can band together as player-gods. Take a look, and you'll see mass-collaboration is already starting to happen on Instagram, Reddit, and Twitter posts. I admit it can be hard to spot through all the noise. But it's still there and growing._
 
-## Open-Source Lets Us Bust Open Gates And Start The Internet Age
+## Open-Source Lets Us Bust Open Gates And Initiate The Internet Age
 
 Currently, when you phone a call center, everything is recorded. The company has access to the recording; you don't. Likewise, when the employee logs in and out of the office, that, too, is recorded. Management automatically has access to these timesheets; the employee doesn't.
 
-Access to things like phone recordings and timesheets are levers of power. Today, management and corporations put "gates" around our levers. These gates, and gatekeepers, are holdovers from the mechanical tools of the Industrial Age. Today they needlessly give power to one person over another. Customers can't confirm what was agreed to during their last phone call, and employees can be grilled for a long lunch. Yet, the same manager quickly forgets unpaid overtime.
+Access to things like phone recordings and timesheets are levers of power. They decide how resources are distributed in our society. True authority figures will have access to different levers for things like loan approvals or medical board certifications. But today so management and corporations put "gates" around many of _our_ levers. They needlessly give power to one person over another for things that could be routine. Is there a good reason why customers can't confirm what was agreed to during their last phone call, or employees can be grilled for a long lunch when the same manager quickly forgets unpaid overtime.
 
-A lopsided balance of power allows customers and employees to be taken advantage of, encouraging mistrust, bad products, and inefficient workplaces. Uneven power makes collaboration impossible.
+A lopsided balance of power for everday events allows customers and employees to be taken advantage of, encouraging mistrust, bad products, and inefficient workplaces. Uneven power makes mass-collaboration impossible.
 
 The greatness of the open-source community is threefold. First, it sets a great example because it entrusts everyone with all available information. Second, open-source wants more members, so the community loves to dismantle gates and distribute levers of power to regular people. And third, since no one owns open-source technology, the people can empower ourselves with levers of power, only big companies used to control. Such has call recordings and timesheets.
 
-Distributing the levers of power moves us into the Internet Age. It treats people like adults and expects them to act like it. We have the technology to do this now in our warranty contracts, tax-laws, employment agreements, and so on. We need the people to step up, participate, and demand it as player gods.
+Distributing the levers of power moves us into the Internet Age. It treats people like adults and expects them to act like it. And if they don't, well it's not like they can complain about mistreatment. All the records are open and transparent. When that player god goes to the "coach" or authority figure, they have to reference facts instead of conjecture and emotion.
 
-Once we do, all workers—from waitresses, mechanics, and teachers—will start to be managed less and collaborate more. Mass-collaboration will be similar to how factories and production lines swept across our society in just a few decades during the Industrial Age and the era of mass-production. It's the world of science fiction regular people can build for ourselves. It's the only way we'll live happy lives again.
+In my experience (and this is after processing 10,000 insurance claims) the vast majority of people just want to go on with their lives. It's only when they're misled, disadvantaged, and left in the dark that drives people to act out. Open information with easy to follow rules is reasonable and thus gets the most out of people, not least because it takes away cheating all the harder.
+
+People working well for apparently unselfish reasons is not new. Evolutionary biology is uncovering ever more ways humanity is naturally altruistic and often self-governing. Early America was blessed with communal barn-raising, quilting societies, and fraternal associations. Open-source software, and mass-collaboration simply adopts these same incentives.
+
+Open-source hero Linus Torvalds explained it as “Money is not the greatest of motivator. Folks do their best work when they are driven by passion. When they are having fun. This is as true for playwrights and sculptors and entrepreneurs as it is for software engineers.” Of course, everybody also wants to impress their peers and associates too. It's the job of leaders to insprire passion, and make sure people trust your decisions. Bad leaders blame their players when their leadership fails. Torvalds concludes “What astonishes so many people is that the open source model actually works. People know who has been active and who they can trust, and it just happens. No voting. No orders. No recounts.”
+
+The truth is, we have the technology to do have open access to the levers of power in in our warranty contracts, tax-laws, employment agreements, and so on. We only need the people to step up, participate, and demand it as player gods.
+
+Once we do, all workers—from waitresses, mechanics, and teachers—will start to be managed less and collaborate more. Mass-collaboration will be similar to how factories and production lines swept across our society in just a few decades during the Industrial Age and the era of mass-production. It's the world of science fiction regular people can build for ourselves. It's the only way we'll live thriving and happy lives again.
 
 ![old philosophy in a new world](/img\diagrams\github-repo-rails2.jpg)
 _This is the GitHub "repo" for Ruby on Rails, the free technology that runs apps like Basecamp, Airbnb, and Shopify. It's built with no delegators or garbage meetings. This is how simple and effective mass-collaboration is._
 
-## The Setup to our Story — Making Techvolution and Player Gods
+## The Context to our Story — Launching Techvolution and Making Player Gods
 
 The middle-class has to step up and upgrade our way of life to the Internet Age. We must grab hold of the levers of power the open-source community has made for us. Only then will we live in the era of mass-collaboration. If we don't, we'll keep suffering the pains of a degenerating society. Stepping up means Main Street stops blaming phantom communists and fascists for our problems. Instead, regular people must believe in a new philosophy that makes them player gods who take control and responsibility for their culture.
 
-The biggest roadblock to the Internet Age is Darth Blockbuster, the self-entitled holdover from the Industrial Age. He antagonizes the future by writing rules to keep his Industrial Age tools, and himself, in power. These rules are like a Death Star. They concentrate the legal departments, HR reps, corporate lobbyists of a bygone age, to keep Main Street away from a happier life inside the era of mass-collaboration. Therefore, before our civilization can evolve, we need to defeat blow up Darth Blockbuster's super-weapon.
+The biggest roadblock to the Internet Age is Darth Blockbuster, the self-entitled holdover from the Industrial Age. He antagonizes the future by writing rules to keep his Industrial Age tools, and himself, in power. These rules are like a Death Star. They concentrate the legal departments, HR reps, corporate lobbyists of a bygone age, to keep Main Street away from a happier life inside the era of mass-collaboration. Therefore, before our civilization can evolve, we need to defeat Darth Blockbuster and blow up his weapon.
 
-And that's the setup to the story of your life. Will you become a player god and fight to control our society's levers of power like timesheets, health records, and power generation? The antagonists are already playing, and this battle is the game of every civilization either wins or dies. It's not at all dramatic to say this; the fate of your children, culture, and civilization is on your shoulders.
+That’s the setting of your life’s story. The plot remains to be written, whether you’re brave enough to write it yourself or you’ll let others write it for you. Will you become a player god and fight to control our society’s levers of power like timesheets, health records, and power generation? The antagonists are already playing. And this battle is the game of every civilization: it either wins or dies. It’s not at all dramatic to say this; the fate of your children, culture, and civilization is on your shoulders.
 
-I'll explain the philosophy you need to win, but whether you decide to become a player god is up to you. Once you make up your mind, the journey to win the game starts below.
+I’ll explain the philosophy we need to win, but whether you decide to become a player god is up to you. If you’re ready, keep reading. It’s time to strategize.
 
 ![old philosophy in a new world](/img\diagrams\techvolution-main-street2.jpg)
 _Lots of player gods have come before us. They did their job. Most recently, in the era of mass-production. Now it's our time._
 
 ## Cast of Ideas and Characters
 
-Before we make you a player god, here are a few terms that will put us all on the same page:
+Before you set up to the role of a player god, here are a few terms that will put us all on the same page:
 
 ===
 
-**Player god**: Imagine a person playing a computer "civilization building" game with our society. They would hold all the levers of power and thus decide where to put roads, what food to grow, and when houses get solar panels. Of course, there is no such deity. In reality, it's the choices of individuals that decide what the community does. However, only when a person takes responsibility for their actions, do they become player gods who "play the game" of civilization.
+**Player god**: Imagine a person playing a computer "civilization building" game with our society. They would hold all the levers of power and thus decide where to put roads, what food to grow, and when houses get solar panels. Of course, there is no such deity. In reality, it's the choices of individuals that decide what the community does. We decide to emit too much CO2, eat too much fast-food, to let take on too much debt. It's only when a person takes responsibility for their actions, do they become player gods who "play the game" of civilization.
 
-**Philosophy**: The largely unspoken ideals that tell individuals what's right and wrong, good and bad, in science, art, morals, politics, and economics. Philosophy is supposed to unite individuals to see the big picture; that everyone's choices matter, because everyone is a player god.
+**Philosophy**: The largely unspoken ideals that tell individuals what's right and wrong, good and bad, in science, art, morals, politics, and economics. Inside books, declarations, and constituions philosophy is supposed to unite individuals to see the big picture and reveal how everyone’s choices matter, because everyone is a player god.
 
 **Ruling philosophy**: A civilization's chosen philosophy. One that "clicks" for all factions/ideologies. Examples include the "Divine Rights of Kings," derived from Christian theology and used in royalist Europe; "Marxist-Leninism" of the Soviet Union; and the combination of "Right/Left" philosophies of the Western world today. The ruling philosophy is supposed to help society win the game of civilization.
 
-**Happiness**: The test of how well the ruling philosophy is doing its job. Spending quality time with family, having good friends, working a steady job, being in good physical and mental health, looking forward to the future. These are all signs of (genuine) happiness.
+**Happiness**: The test of how well the ruling philosophy is doing its job. Spending quality time with family, having good friends, working a steady job, being in good physical and mental health, and looking forward to the future are all signs of (genuine) happiness.
 
-**Rulebook**: The written and unwritten social, workplace, and legal rules that govern everyday life. People write the rulebook by interpreting the ruling philosophy. Some examples are city parking by-laws, workplace seniority rules, and environmental regulations.
+**Rulebook**: The written and unwritten social, professional, and legal rules that govern everyday life. People write the rulebook by interpreting the ruling philosophy. Some examples are city parking by-laws, workplace seniority rules, and environmental regulations.
 
 **Technology**: A catchall term for things we make tools from, like concrete, lumber, nails, shingles, insulation, and bricks.
 
 **Tool**: A catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to record and pass on knowledge, and houses to shelter in. We use tools to evolve.
 
-**Levers of Power**: The most powerful tools; the ones that control society. In Civilization games, these are the buttons, toggles, and sliders players use to play. In reality, levers of power are the tools that power, educate, inform, feed, and transport resources in our society.
+**Levers of Power**: The most powerful tools; the ones that control society. In Civilization games, these are the buttons, toggles, and sliders players use to play. In reality, levers of power are the tools that power, educate, inform, feed, and transport resources in our society. The more levers a person controls, the more self-sufficient they are, and hence more free to become a player god.
 
 **Frontline**: The point of contact between a tool and the problem. Nurses giving vaccines, cleaners cleaning a city bus, and soldiers on the battlefield are all examples of frontline settings. People on the frontline work on Main Street with jobs that solve specific problems with a proven skillset. Frontline workers physically hold the levers of power, but don't always control them—they will, once the era of mass-collaboration starts.
 
 **Hierarchy**: A power structure that manages every lever of power's use by society. Kings and queens with the keys to the castle, or the corporate ladder at Blockbuster controlling DVD rentals, are examples of past hierarchies. As hierarchies grow, they get more detached from the frontline and start forming gates to protect their tool being replaced as a lever of power. People in the regime give themselves titles like prince and executive, baron, and supervisor to mark their position—and, in a sense, their territory and "rights" in the power structure.
 
-**The Game of Civilization**: The invention of technology, and the creation of tools, to overcome frontline problems. Civilization develops new technology in ages. As new technology makes new tools, they create new levers of power which inventors use to open the gates and topple the hierarchies—of the prior era.
+**The Game of Civilization**: The invention of technology, and the creation of tools, to overcome frontline problems. Civilization develops new technology in ages. As new technology makes new tools, these tools in turn create new levers of power which inventors use to open the gates and topple the hierarchies of the prior era.
 
 **Protagonists**: People who invent, spread, and use new technology for the greater good. Usually close to the problems on the frontline, they individually struggle. Still, their continued self-sacrifice slowly improves life on Earth. I call them this world's Jedi knights. We call their leaders trailblazers who often skirt the rules. Galileo, Nikola Tesla, Michael Faraday, Jay Last, Grace Hopper, Michael S. Hart, Dennis Ritchie, Bill Gates, Steve Jobs, Linus Torvalds, Salman Khan, Jeff Bezos, and Elon Musk are among their number.
 
@@ -356,51 +385,66 @@ Before we make you a player god, here are a few terms that will put us all on th
 **Plot**: Getting the extras to step up, grab hold of society's new digital levers of power, and become player gods who replace their ruling philosophy with Techvolution and thereby establish the era of mass-collaboration inside the Internet Age.
 
 ![frontline](/img\diagrams\techvolution-frontline2.jpg)
-_Our civilizations have always had problems. It's up to regular people to use new tools to solve them. It's simply our turn to today. Let's get started._
+_Our civilizations have always had problems. It’s up to regular people to use new tools to solve them. Today, it’s our turn. Let’s get started._
 
 ## This is Real
 
-We're in a pandemic. People are shocked, scared, and quite unhappy. It's like watching a good movie. One that  has us wondering what's going to happen next. But this is isn't fiction; it's real-life. And it could have been so much easier.
+There are many new Internet Age products fighting for a place in our economy. Each empowers individuals with a more customized product. Online education from Khan Academy, for example, lets kids learn math, history, and science at their own pace. This philosophy closes the "swiss cheese" gaps traditional school creates as they push us through its pre-set schedule of classes and grades.
+
+The Internet Age is all about customizations. With apps, electronics, and the internet, we can tailor adaptions to our individual problems. This solves our problems, and makes us happier. But only if we reach for our evolution.
+
+Let's look at today. The world is in a pandemic. Nearly everyone is shocked, scared, and quite unhappy. It's like watching a good movie, and the world is wondering what's going to happen next. But this isn't fiction; it's real life. And it could have been so much easier.
 
 I'll tell you why.
 
-First do me a favour. Get all your medical records ready. Okay good. Now, collect all your health metrics like weight, fitness, and quality of sleep from your FitBit or Apple Watch. Great, now let's evaluate how much of a risk Covid-19 is to your life by comparing your statistics, to the records of sick people; especially the ones around your area. Know to top-off this investigation, what does your doctor say about your chances?
+First, do me a favor. Get all your medical records ready. I'll wait for a minute or two. Okay good. Now, collect all your health metrics like weight, fitness, and quality of sleep from your FitBit or Apple Watch. Great, now let's evaluate how much of a risk Covid-19 is to you by comparing your statistics to the records of sick people, especially the ones in your community. Now to complete this investigation, what does your doctor, the person who knows your health beyond statistics, say about your chances?
 
-Since I don't know you, so I can only hope you have a low risk of death. But, in the worst case scenario, if you're a high risk, at least now you've been told so by your doctor. Knowledge is the great lever of power after all.
+I can only hope you have a low risk of death. But, if you're a high risk, at least now you've been told so by your doctor, with a statistical report to back it up. Knowledge is the greatest lever of power, after all.
 
-Wait, wait. Is the lever stuck? This is a pandemic, a motherfucking pandemic! A real-life movie! Complete uncertainy! And you don't have your medical records! Where the fuck are they? You don't even know! Well at least your doctor is... shit, your doctor hasn't even reviewed your risk factor. Fuck this! Dude, are you just waiting around watching CNN and reading random bullshit on the internet while a novel disease is seaching for human hosts?
+Wait, wait, wait. Is the lever stuck? This is a pandemic! A real-life movie! You're suffering complete uncertainty! And you don't have your medical records! Where the fuck are they? You don't even know! Well, at least your doctor has... shit, your doctor hasn't yet reviewed your risk factor. Fuck this! Dude, are you just waiting around watching CNN and reading random bullshit on the internet while a novel disease is searching the globe for human hosts?
 
-You are. I am. We all are. We entered the Internet Age in 1970. And despite using it's awesome technology to tweet, post, and stream everyday, we're still using Industrial Age philosophies to run our lives. For generations, we've thought health-care meant arguing for private or public health insurance. Yet, with both, every person is still reading mass-produced broadcasts instead of interacting with health professionals.
+You are. I am. We all are. Because despite entering the Internet Age in 1970, and using it's awesome technology to tweet, post, and stream every day, we're still using Industrial Age philosophies to run our lives. Meaning we have generic mass-produced products for entertainment, education, and most disturbingly, health-care.
 
-Here's why your living blind during the Great Pandemic of 2020.
+It's our fault. For generations, we've thought of working for better health care meant arguing and voting for private or public health insurance. I've worked in (property and car) insurance for nearly a decade, and it's basically the same whether managed by government or a corporation. With both, every person is a customer, kept in the dark until disaster strikes. Even then, during ice storms, blizzards, floods, and great fires, "my customers" waited in long lines to get answers. Likewise, during this crisis, everyone with private or public health insurance are using infotainment broadcasts to understand their risk factor, instead of interacting with health professionals via Internet Age technologies.
 
-In this TED talk by a doctor Doctor Alieta Eck says when she started medical school in the early 80's, she thought being a doctor meant connecting with her patients. She dreamed of being deeply involved to help us live healthier lives. She pictured examinations, home visits, and phone calls.
+We've already reviewed how Industrial Age holdovers are holding us back. Specially, here's why we're all living blind during the Great Pandemic of 2020.
+
+In this TED talk, doctor Doctor Alieta Eck says when she started medical school in the early '80s, she thought being a doctor meant making deep connections with her patients. She dreamed about helping her people live healthier lives. She pictured detailed examinations, home visits, and phone calls.
 
 However, since she entered practiced, she's increasingly gotten something far different.
 
-Dr. Eck started medicine in the early 1980s. Towards the beginning of a growing trend that has seen ever more people putting themselves in the middle of doctors and patients. Administers have gone up every single year. Today, doctors spend far more time doing paperwork then dealing with their patients health.
+Dr. Eck started medicine toward the beginning of a trend. Since 1970, ever more bureaucrats have been putting themselves in between doctors and patients. Today, doctors spend far more time doing the bureaucrats paperwork than dealing with their patients' health.
 
 ![Health Admins](/img\diagrams\healthcare-administrators.png)
+_"Eight different bosses" talking about "TPS reports" all day._
 
-That's called administrative creep. Government regulators, project managers, hospital administrators, claims adjusters, insurance underwriters, lawyers, and more meetings then anyone can imagine. All these people are doing work that digital technology can replace like robotics did for manufacturing. Yet, as digital technology has given us a more advanced health-system, the people inside it have given themselves control over that systems levers of power; like medical records, health-costs, and records of communication.
+Government regulators, project managers, hospital administrators, claims adjusters, insurance underwriters, lawyers, and more meetings then anyone can imagine. Many of these people are needed. Many are not. Like robotics has automated much of manufacturing, digital technology can replace most paperwork. Instead, the middle-men have given themselves control over that our health system's levers of power, like medical records, health-costs, and records of communication.
 
-Technological speaking, there is absolutely no reason for this. There's also no reason whatsoever your health records and metrics can't be cross-referenced against your health statistics to tell you your risk factor to Covid-19. And, if doctors weren't spending so much damn time with paperwork, they could talk to their patients proactively and help the ones in most need to weather this storm.
+Technological speaking, there is absolutely no reason for this. In the Industrial Age, it was impossible to carry around all your paper. But in the Internet Age, there's no reason whatsoever your health records and metrics can't be cross-referenced against your health statistics to tell you your risk factor to Covid-19. Even a simplistic identifier would help. Different diseases affect us all differently. Spanish Flu killed healthy people more often, AIDS was originally called "Gay Related Immune Diffiency", and Covid-19 (apparently) affects the elderly most. Even a basic identifier is so much better than people with no medical training reading infotainment news broadcasts during a pandemic.
 
-And the Internet Age has even more power to offer. Like renting someone's room on Airbnb, Uber arranging drives, or Quora answering one of our questions, when the people control the levers of power, we can collaborate to help ourselves to great effect. For example, watch _The Pharmicist_ on Netflix, and you'll see how a simple online database of prescriptions identified and stopped Oxycontin pill mills. Too bad it took years to make. If done sooner the oxycontin epidemic could very well have been stopped dead.
+And, the Internet Age has far more power to offer. Like renting someone's room on Airbnb, or Quora connecting questions to answers, when the people control the levers of power, we can collaborate to help ourselves. For example, watch _The Pharmicist_ on Netflix, and you'll see how a simple online database of prescriptions stopped Oxycontin pill mills. Too bad it took government many years to make. If done sooner (or if the people banded together proactively) we'd have found out which corrupt doctors were responsible for the oxycontin epidemic. We could have prevented the 500,000 overdoses so far.
 
-We don't because since entering the Internet Age, we've been held back by holdovers of the era of mass-production. Managers, consultants, and administrators who antagonist our progress. I call them Darth Blockbuster because they hold our civilization back for simple self-interest.
+Main Street doesn't think of controlling our health-care system with so authority. Since entering the Internet Age, we've been held back by holdovers of the era of mass-production. Managers, consultants, and administrators antagonize our upgrades in the game of civilization. I call them Darth Blockbuster because they hold our culture back from the era of mass-collaboration.
 
-Please don't tell me that doctors have something better to do then review your status. Or that having your health records means someone might steal them. Of course doctors are still busy, but if you're risk factor is low, at least you know it officially. And, what if your risk factor changes, wouldn't that be nice to know, officially. We're paying hundreds of billions in administrative costs, and if Facebook can track my purchases to sell stupid ads, how is personalized health updates (even basic ones) during a pandemic asking too much.
+That's why Techvolution is about. Getting you to realize that like watching politics or a pandemic on TV makes you an extra to your own life. We're buying toilet paper like extras in a disaster/comedy film. We have no control over the levers of power. Player gods would. And today, with open-source software, we all can do things like have our medical records. After all, we're paying for them.
 
-Second, all your health records are online, spread around clinics, hospitals, and insurance companies. Workers at each have the passwords. The last person who does is you.
+So, when going to a doctor's office and they say "fill out these forms", we should soon say "okay, and here's here's my form. And if you want my money, you'll share all your info into my medical database."
 
-The definition of a healthy civilization is your personal happiness. And right now, people are beyond unhappy. Pandemics will never go away, but when we upgrade our way of life Techvolution, then we'll learn to deal with them far better.
+Yes, it's okay to say that. In fact, it's your right and responsibility. There's no other way to evolve our civilization to better deal with things like pandemics.
 
-Only when we take hold of the levers of power will we win the game and live happy lives again. I mean, imagine you had specialized health-care right now instead of watching sensentionlised news broadcasts. Leave the drama for stories, and make the game of life a easier on yourself
+Please don't tell me that doctors have something better to do then review your status. Or, that having your health records means someone might steal them. Of course, doctors are still busy, but we're paying hundreds of billions in health-care. And it's filled with non-medical people. How is a basic personalized health update during a pandemic asking too much? And if it is, I want to hear that from my doctor.
 
-But to live in the beautiful Internet Age, we must fight our way out of the Industrial Age and our nemesis, Darth Blockbuster.
+Second, all your health records are already online. They're spread around clinics, hospitals, and insurance companies. Workers at each have the passwords. The last person who does is you and the ER doctor treating you.
 
-![Illustration](/img\sketches\playergod-stargazer.jpg)
+The definition of a healthy civilization is your happiness. And right now, people are beyond unhappy. Only when we take hold of the levers of power will we live happy lives again. To boot, once individuals start using customized products, we'll be more independent and thus less fragile when disasters strike.
+
+My contribution to our civilization is this lesson. The game of civilization is the game of life, and wars, famines, and pandemics will always come. We only deal with them if we keep evolving new and better technology, and politics.
+
+But, unlike in the computer game, in the real "tech tree" of new technologies and policies, we don't merely press "upgrade." We have to overcome the power brokers of the past. In the way of our better life inside the Internet Age is the philosophy of mass-production, Left/Right politics, and our nemesis, Darth Blockbuster.
+
+You ready for the fight of your life.
+
+CIV 6 - tech and policies intermix.
 
 # ACT ONE
 
@@ -1241,13 +1285,13 @@ So let's explain the three different stories:
 
 ===
 
-**Classic stories**: are good stories about real-life problems. A protagonist—and their supporters—leave their typical day, and build up the courage to think of the big-picture; either they act overcome a newfound problem or no one else will. The ice-caps are melting says the heroic polar bear, and I'm going to teach us all to fish!
+**Classic stories**: are good stories about real-life problems. A protagonist—and their supporters—leave their typical day, and build up the courage to think of the big picture; either they act overcome a newfound problem or no one else will. The ice-caps are melting says the heroic polar bear, and I'm going to teach us all to fish!
 
 In a classic story, the protagonist and antagonist repeatedly think of new ideas and act on them. No one knows who'll win, which makes the heroes all the braver for fighting. Both sides fight to create or control levers of power like magic books, big bombs, or the secret lesson that'll teach polar bears how to fish.
 
 There's no way to know which stories will resonate with audiences. Still, only classic stories can resonate with audiences and become archetypes like _Cinderella_, _Romeo and Juliette_, _The Matrix_, and _Star Wars_.
 
-**Art stories**: are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think the big-picture is doing whatever they want. The main character is thus selfish and self-important; a con-artist. Not because they do not help others, but because they want to be the hero even though they aren't teaching the polar bears to fish, so to speak.
+**Art stories**: are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think the big picture is doing whatever they want. The main character is thus selfish and self-important; a con-artist. Not because they do not help others, but because they want to be the hero even though they aren't teaching the polar bears to fish, so to speak.
 
 The result is stories with no levers of power. Instead, art stories showcase the main characters' idiosyncratic behavior. Art stories are surprising to the point of being weird, with a conclusion that doesn't improve the world because the main character didn't even try to. Film festivals like Cannes, Sundance, and Toronto mainly show selfish films.
 
@@ -1682,7 +1726,7 @@ Western Europe conqured the world, because it used modern technology better than
 
 Updating, or "clicking", a new philosophy is pivotal when playing civilization games for a good reason. Our real-life societies have to keep upgrading. Because the game of civilization never ends. Famines, wars, prosperity, climate change; clicking new philosophies is the only way to keeping inventing new tools, harvesting more resources, and surviving the game. There are antagonists inside every society. That's no excuse to stop playing. The rest of society either defeats them, or their civilization is replaced by another player and the idle extras still lose; their biological DNA (what genes we pass on) and cyborlogical DNA (what tools we pass on) is out of the gene pool either way.
 
-Playing Civilzation, Anno 1800, or any other game is a better education than the best schooling today. These games mimick real-life, and thus integrate so many lessons. They force players to think of the big-picture that's so hard to appreciate in real-life. It's an invaluable perspective, especially to our society which is so obessed with itself, inside our spectacle, and art stories.
+Playing Civilzation, Anno 1800, or any other game is a better education than the best schooling today. These games mimick real-life, and thus integrate so many lessons. They force players to think of the big picture that's so hard to appreciate in real-life. It's an invaluable perspective, especially to our society which is so obessed with itself, inside our spectacle, and art stories.
 
 Our culture is very entrenched in the Industrial Age. So many people live to take credit for titles, instead of accomplisments. Professors, managers, executives, union leaders, all cherish the title of Industrial Age heirarchies. These well-intentioned people don't want to return back to equality that happens at the start of every new age. They refuse to upgrade our philosophy. Or they want someone else to do the hard work. The result is, the West is in the process of losing the game.
 

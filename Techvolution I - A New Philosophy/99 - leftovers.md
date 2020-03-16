@@ -2516,3 +2516,19 @@ _Ricky Gervais is yelling at a (entertainment) heirarchy so distanced from the f
 
 <https://youtu.be/oOOOfZWXPu4?t=8>
 _These guys run a popular YouTube channel about computer hardware. They didn't like how YouTube changed and decided to make a new video service called Floatplane. They thus became Internet Age protagonists. This is real politics. Because it promotes evolution. It doesn't matter if Floatplane thrives or dies. We, as individuals, can only try new ideas and see what works. Marching against climate change, or watching infotainment television is merely being an extra. The struggle with our society is regular people don't think to act like protagonists or player gods. And even worse, it's often against the rules to because Industrial Age companies want us to keep using their obsolete products. We'll overcome these antagonists below._
+
+## Khan
+
+Please take a few minutes and watch this video. It's from Salman Khan, who in the early 2000s was making videos to tutor his cousins. In 2006 he uploaded them to YouTube. They got so popular he (using open-source software) started Khan Academy, a website that gives the world free education in all subjects. After Bill Gates and others funded it, it now empowers us to learn in a better way.
+
+https://www.youtube.com/watch?v=-MTRxRO5SRA
+
+I asked you to watch that video to emphasize how real the game of civilization is. The Industrial Age is truly over. It's vital we at the "bottom of the pyramid" learn to live and work in what (I call) the Internet Age and the era of mass-collaboration. When we do, it'll definitely be a "pretty exciting time to be alive."
+
+But, our evolution to new ways of life is never smooth. Just look at education. For all the kids using online courses, there are so many more only using the old-school education system. The gap is enormous. One disturbing statistic is how an entire generation of young Americans now have 1.5 trillion in college debt. That's disgusting. It's far more money then America spent rebuilding Europe after World War II!
+
+That should make your eyes open wide. The hierarchies of the past won't go away on their own. My contribution to our game is teaching everyone—even protagonists like Khan—we don't just evolve better technologies. Humanity has people who benefit from holding us back, and we need a new philosophy to overcome these antagonists before we can live in a new age.
+
+Techvolution will show you how to become a player god. And we must, because only when we take hold of the levers of power will we win the game and live happy lives again. I mean, imagine education was more natural for everyone!
+
+But imaginations aren't reality. To live in the beautiful Internet Age, we must fight our nemesis, Darth Blockbuster.
