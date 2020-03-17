@@ -10,15 +10,21 @@ March 2019
 
 Do you think the beloved comedian and podcaster is right? Are people angry? Are your friends and family? Are you?
 
-Let me approach the question differently. Are you happy? I'm not asking if you're comfortable or "happy enough." Do you jump out of bed every morning, are you respected at your job, how well do you weather catastrophes. And most importantly, do you think your kids will inherit a better life.
+Let me approach the question differently. Are you happy? I'm not asking if you're comfortable or "happy enough." Do you jump out of bed every morning, are you respected at your job, are your bills paid up. And most importantly, do you think your kids will inherit a better life.
 
-On the surface, Westerners <!-- clarify who --> have luxurious homes, full employment, and stable politics. On the inside, our middle-class deals with boring jobs, growing debts, horrible commutes, and mindless bureaucracies. Our lives do often suck. It's made so much worse because, unlike our ancestors, we're also watching our society decline. Everyday bad trends get worse, like drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, and climate change.
+On the surface, North Americans have luxurious homes, full employment, and stable politics. On the inside, our middle-class deals with boring jobs, growing debts, horrible commutes, and mindless bureaucracies. Our lives do often suck. It's made so much worse because unlike our ancestors, we're also watching our society decline. Everyday bad trends get worse, like drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, and climate change.
 
-Luckily, we have free politics, so we can vote for government solutions and regulations. We've tried giving Left-wing and Right-wing, moderate, and extreme, the levers of power. But no matter if we regulate our economy, or let businesses run free, Main Street keeps getting unhappier.
+Luckily, we have free politics, so we can vote for government solutions and regulations. We've tried giving Left-wing and Right-wing the levers of power. But no matter which we choose, Main Street keeps getting unhappier.
 
-Living happy lives isn't an unrealistic fairytale. In fact, it's a sign of a healthy society. The truth is Left, and Right levers of power are outdated. They were created in the Industrial Age, and since 1970 we've been in the Internet Age. We need a new philosophy. One designed to activate the awesome power of digital technology. <!-- give tangible how we're being held back, pandemic is a good one -->
+Living happy lives isn't an unrealistic fairytale. In fact, it's a sign of a healthy society. The truth is neither Left or Right ideologies' can help us. They're based in the Industrial Age, when government regulations or free-market economics where the only levers of power. Today, these levers aren't strong enough to solve our problems. If no regulation allows traffic jams, how can a new one open-up our roads? Ask yourself how many corporate boardrooms want their employees to be financial independent—so how is more corporation employment the best way to secure our livelihoods?
 
-Here it is. Its big lesson is this. The middle-class must step up and start making and pulling the levers of modern power; as apps, computers, and the internet. If we don't, we'll soon be suffering something much worse than unhappiness. There's only so long we can keep running our civilization on old—ideological—fumes.
+Now we have a worldwide pandemic. And despite marching and voting for Left/Right politics for generations, Main Street's only levers of power are reading the news, searching store shelves, and not much else.
+
+We could be doing so much better. We've been in the Internet Age since 1970. With digital technology we can create amazing tools to eliminate nasty commutes, liberate us from boring jobs, and yes weather this horrible pandemic with knowledge and power instead of fear and loathing.
+
+There is an strong Industrial Age establishment. But they aren't the biggest obstacle to a better life. Because like when printing press, telescope, and musket were invented, the biggest roadblock to our evolution is finding a new philosophy. Only a new way of thinking makes people realize their best option isn't demanding the powerful treat them better. It's the self-realization holding modern levers of power is their only salvation.
+
+Here is our new philosophy. Its big lesson is this. The middle-class must grab hold of apps, computers, and the internet to solve our problems now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on old—ideological—fumes.
 
 ## Table of Contents
 
@@ -356,7 +362,7 @@ Before you set up to the role of a player god, here are a few terms that will pu
 
 ===
 
-**Player god**: Imagine a person playing a computer "civilization building" game with our society. They would hold all the levers of power and thus decide where to put roads, what food to grow, and when houses get solar panels. Of course, there is no such deity. In reality, it's the choices of individuals that decide what the community does. We decide to emit too much CO2, eat too much fast-food, to let take on too much debt. It's only when a person takes responsibility for their actions, do they become player gods who "play the game" of civilization.
+**Player god**: Imagine a person playing a computer "civilization building" game with our society. They would hold all the levers of power and thus decide where to put roads, what food to grow, and when houses get solar panels. Of course, there is no such deity. In reality, it's the choices of individuals that decide what the community does. We decide to emit too much CO2, eat healthy good, or learn a new skill. It's only when a person takes responsibility for their actions, do they become player gods who "play the game" of civilization. _The player god_ is a community playing the game together because they're united by the same philosophy.
 
 **Philosophy**: The largely unspoken ideals that tell individuals what's right and wrong, good and bad, in science, art, morals, politics, and economics. Inside books, declarations, and constituions philosophy is supposed to unite individuals to see the big picture and reveal how everyone’s choices matter, because everyone is a player god.
 
