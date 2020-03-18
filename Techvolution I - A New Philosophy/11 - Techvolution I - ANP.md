@@ -8,23 +8,90 @@ March 2019
 
 "_People are angry, man! Most people's lives suck...Even if like the economy is doing better, the vast majority of people aren't doing what they want to do with their lives._" Joe Rogan, November 2019.
 
-Do you think the beloved comedian and podcaster is right? Are people angry? Are your friends and family? Are you?
+I was going to open up this book by asking if you think the beloved comedian and podcaster is right. Are regular people angry with their lives? Are their friends and family? Are you?
 
-Let me approach the question differently. Are you happy? I'm not asking if you're comfortable or "happy enough." Do you jump out of bed every morning, are you respected at your job, are your bills paid up. And most importantly, do you think your kids will inherit a better life.
+Then came the Great 2020 Pandemic. Now, instead of having to ask if you're happy, I know you're not. In fact, nevermind being unhappy, you're likely downright scared.
 
-On the surface, North Americans have luxurious homes, full employment, and stable politics. On the inside, our middle-class deals with boring jobs, growing debts, horrible commutes, and mindless bureaucracies. Our lives do often suck. It's made so much worse because unlike our ancestors, we're also watching our society decline. Everyday bad trends get worse, like drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, and climate change.
+For years, North Americans lived with bad trends like micro-management at work, antisocial behavior, and political hatred. We got by because on the surface we have luxurious homes, full employment, and stable politics. Whenever things got too bad, and we got too unhappy, we'd turn to our free elections to put in a new government. We tried giving Left-wing and Right-wing the levers of power. But no matter which we choose, Main Street kept getting unhappier.
 
-Luckily, we have free politics, so we can vote for government solutions and regulations. We've tried giving Left-wing and Right-wing the levers of power. But no matter which we choose, Main Street keeps getting unhappier.
+Now we're in this mess.
 
-Living happy lives isn't an unrealistic fairytale. In fact, it's a sign of a healthy society. The truth is neither Left or Right ideologies' can help us. They're based in the Industrial Age, when government regulations or free-market economics where the only levers of power. Today, these levers aren't strong enough to solve our problems. If no regulation allows traffic jams, how can a new one open-up our roads? Ask yourself how many corporate boardrooms want their employees to be financial independent—so how is more corporation employment the best way to secure our livelihoods?
+Happy lives isn't an unrealistic fairytale. In fact, it's a sign of a healthy society. The truth is neither Left or Right ideologies' can help us. I started writing this book in July 2019, and wanted to (somehow) convince enough people to re-think politics in Western Civilization to make a difference. I dreamed of doing what great authors like Thomas Paine or Jean-Jacques Rousseau did and start kickstart a higher awareness in ...
 
-Now we have a worldwide pandemic. And despite marching and voting for Left/Right politics for generations, Main Street's only levers of power are reading the news, searching store shelves, and not much else.
+Instead, I rewrote some of this book to explain why the fuck you're so scared. There have been thousands of pandemics in history. Our society forgot that. Because our politics is too hold. And this is just a warning call. Our civilizations's ability to deal with life's inevitable pitfalls (like pandemics) will only get worse until we completely change what you think is politics.
 
-We could be doing so much better. We've been in the Internet Age since 1970. With digital technology we can create amazing tools to eliminate nasty commutes, liberate us from boring jobs, and yes weather this horrible pandemic with knowledge and power instead of fear and loathing.
+## Our Levers of Power
 
-There is an strong Industrial Age establishment. But they aren't the biggest obstacle to a better life. Because like when printing press, telescope, and musket were invented, the biggest roadblock to our evolution is finding a new philosophy. Only a new way of thinking makes people realize their best option isn't demanding the powerful treat them better. It's the self-realization holding modern levers of power is their only salvation.
+Do me a favor. Open up your Instagram feed. Good, okay now open up Netflix. Great. These both work correct? You can get live TV,  chat with friends, or watch a documentary on your computer, iPad, or smartphone.
 
-Here is our new philosophy. Its big lesson is this. The middle-class must grab hold of apps, computers, and the internet to solve our problems now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on old—ideological—fumes.
+Now get all your medical records ready. Okay good. Now, collect all your health metrics like weight, fitness, and quality of sleep from your FitBit or Apple Watch. Great, now let's evaluate how much of a risk Covid-19 is to you by comparing your statistics to the records of those unlucky people who got sick, especially the ones in your community.
+
+I hope you're risk factor is good. But, if you're in trouble, what does your doctor say to do? What about your pharmacist? There's a possible drug shortage, are you going to be okay? After you've collaborated with these professionals, let me know what your health insurance company will pay for?I know
+
+Isn't it good to know all this stuff! I personall think knowledge is the greatest lever of power.
+
+Wait, wait, wait. Instragram worked. So did Netflix. But is the medical records lever stuck? You aren't in contact with your doctor? Pharmacist? Are you waiting on hold with your insurance company? Insurance is basically a bank-account for disasters, and you have no idea how much money you have inside?
+
+This all sounds like I'm talking to someone living through the Spanish Flu Pandemic in 1918! Well, at least many of us can work from home this time.
+
+WHAT! You've had the internet for generations, and you're still driving in to a centralized building. Aren't there any disaster procedures? I mean you have fire drills no, so why not pandmic plans? Are you just watching CNN, and reading random bullshit on the internet while a novel disease is searching the globe for human hosts?
+
+## The Great Wake-Up Pandemic of 2020
+
+We're all extras to this pandemic watching our lives on CNN, because we've been extras in politics for generations..
+
+Because despite entering the Internet Age in 1970, and using it's awesome technology to tweet, post, and stream every day, we're still using Industrial Age philosophies to run most of our lives. Meaning we live and work as if the last 50 years of technological progress was only meant to change how we filled our free-time.
+
+It's our fault. Especially for our dated health-care. For generations we've thought better health system meant arguing and voting for private or public health insurance. I worked in (property and car) insurance for nearly a decade, and it's basically the same whether managed by the government or a corporation. Having insurance is obviously important, but it's not nearly as imporantant as we think.
+
+Because with both, every person is a customer, kept in the dark until disaster strikes. Even then, during ice storms, blizzards, floods, and great fires, "my customers" waited in long lines to get any answers. Likewise, during this crisis, everyone with either private or public health insurance are using infotainment broadcasts to understand their risk factor, instead of interacting with health professionals via Internet Age technologies.
+
+We the people have no levers of power to help us in this crisis. Because we have no levers of power in our regular lives.
+
+At it's heart, this pandemic is a story about extras. We all assumed the health-care system will act in our best interests. Extras assume "they" have the people's best interest at heart. "They" in government bureaucracy. "They" in corporation burecracy. The truth is, "they" only have your interest at heart if you're holding levers of power. Because only then does "they" the powerful, becomes "we" the people at the table.
+
+Pandemics are always possible. We didn't need to be sp powerless when this one hit. So, this pandemic is wake-up call.
+
+## Our Age Old Health Care System
+
+In this TED talk, doctor Doctor Alieta Eck says when she started medical school in the early '80s, she thought being a doctor meant making deep connections with her patients. She dreamed about helping her people live healthier lives. She pictured detailed examinations, home visits, and phone calls.
+
+However, since she entered practiced, she (unsprisingly) got something far different. Like already discussed above, since 1970, ever more bureaucrats have been putting themselves into our economy. Even between doctors and patients.
+
+![Health Admins](/img\diagrams\healthcare-administrators.png)
+
+Government regulators, project managers, hospital administrators, claims adjusters, insurance underwriters, lawyers, and more meetings and memos then anyone can imagine. Many of these people are needed. Many are not. All of them have been sucking our healthc-are system dry for generations.
+
+We didn't notice because we've been obessed with Left/Right politics. Now, the hospital cleaners, nurses, and doctors—the people on the frontline are literally risking death for you right now.
+
+Internet Age technology can us deal with anything better. Even pandemics. Like renting someone's room on Airbnb, or Quora connecting questions to answers, when the people control the levers of power, we can collaborate to help ourselves. For example, watch _The Pharmicist_ on Netflix, and you'll see how a simple online database of prescriptions stopped Oxycontin pill mills. Too bad it took government many years to make. If done sooner (or if the people banded together proactively) we would have found out which corrupt doctors were responsible for the oxycontin epidemic. With open-source technology (like the stuff that makes Chrome or Linux) we could have made a simple and secure database and prevented 500,000 overdoses and endless ruined lives.
+
+And now today, despite screaming for Left/Right politics in endless health-care debates and spending billions on our system, we're all watching CNN and buying toilet paper. That's the actions of extras watching the story of their lives on TV.
+
+## A Wider Problem
+
+This pandemic is already horrible. And, it's just getting started.
+
+The wider problem is our conception of politics. The truth is, we're stuck in the Industrial Age, when government regulations or free-market economics were our only levers of power. Today, these levers aren't strong enough to solve our problems.
+
+Pandemics are inevitable, and we could never deal with any it well, because we haven't created the levers of power to do it.
+
+Ask yourself, if no government regulations allows traffic jams, how could a new one hope to open-up our roads? Consider how many corporate boardrooms want their employees to be financially independent—so how was more corporate employment ever the best way for us to secure our livelihoods?
+
+And, now we have a worldwide pandemic. A terrible disease is actually searching the world for human hosts. And despite generations of loyally marching and voting for Left/Right politics, Main Street's only levers of power are reading the news, searching store shelves, and not much else.
+
+We could be doing so much better. We've been in the Internet Age since 1970. With digital technology, we can create amazing tools that put power in our hands. We can do the small things like eliminate nasty commutes, liberate us from boring jobs, and yes, deal with live's horrible surprises like pandemics with knowledge and skill instead of fear and loathing.
+
+OFFICE SPACE
+_Please enable the sound._ Then, tell me how can a health-care system, and a society with so many  ever hope to suddenly deal with a pandemic?
+
+These Internet Age developments have been held back by a strong Industrial Age establishment. So, many of its managers, consultants, and executives have been preventing people working from home, new apps, and a better way of life our of pure self-interest.
+
+But the "establishment" aren't the biggest obstacle to a better life. Because, like when printing presses, telescopes, and muskets were invented, the biggest roadblock to our evolution is something else. Only when the people on Main Street realize their best option isn't demanding the powerful treat them better. It's the self-realization holding modern levers of power is their only salvation.
+
+To get there, we need a new philosophy.
+
+Here it is. Its big lesson is this. The middle-class must grab hold of apps, computers, and the internet to solve our problems now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on old—ideological—fumes.
 
 ## Table of Contents
 
@@ -53,7 +120,7 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the reader
 
-I used many images and videos throughout the book. My reasons are twofold: visuals help explain ideas, and they exemplify the life-changing flexibility and immediacy that the Internet has given to storytelling. Today, millions of regular people are communicating views, opinions, and information with no middlemen in government or business to control their messages. Not since the printing-press has information empowered ordinary people so much. These content creators and their audiences are doing historic work is. And of course, all credit for the media goes to them.
+I used many images and videos throughout the book. My reasons are twofold: visuals help explain ideas, and they exemplify the life-changing flexibility and immediacy that the Internet has given to our way of life. Today, millions of regular people are communicating views, opinions, and information with no middlemen in government or business to control their messages. Not since the printing-press has information empowered ordinary people so much. These content creators and their audiences are doing historic work is. And of course, all credit for the media goes to them.
 
 Also, I use pop culture references such as those of Star Wars, Star Trek, Harry Potter, and computer games (e.g. Civilization). If you're not a fan, don't worry too much. If we were in Ancient Greece, I'd use Greek Mythology. If we were in Victorian Britain, I'd use Shakespeare. Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. Of course, all due credit goes to the media's owners.
 
@@ -65,13 +132,15 @@ Donald Trump is the savior of Western Civilization. If that turns your emotions 
 
 Tears or cheers don't make a person powerful.
 
-On the contrary, you see, exercising, composting, teaching your kids mathematics _does_ change the world. Good decisions change and improve your world—giving you freedom from dependency and power over your part of society. And, since power is to politics what money is to finance, your personal choices are always your most potent political weapon.
+On the contrary, you see, exercising, composting, teaching your kids to prepare for the worst _does_ change the world. Good decisions change and improve your world—giving you freedom from dependency and power over your part of society. And, since power is to politics what money is to finance, your personal choices are always your most potent political weapon.
 
 The question is, how do we increase your powers. The answer, we'll find out in this book, is better technology, and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy." It's about making you powerful so you can earn your happiness.
 
-Our way of life is trying to evolve into the Internet Age. But, the established powers of the Industrial Age is holding us back. Within our current state of affairs, however, the middle class has a unique opportunity: to grapple with this crisis and morph it into an opportunity.
+Our way of life is trying to evolve into the Internet Age. But, the established powers of the Industrial Age have been holding us back. Our society's ability to deal with life's inevitable pitfalls (like pandemics) will only get worse until we completely change what you think is politics.
 
-Our civilization is offering the middle-class a deal. If we grab hold of modern tools and join the fight to upgrade our society, we can live happy lives again. It's a good opportunity, one we should all smile about.
+This current state of affairs, however, the middle class has a unique opportunity: to grapple with this dire crisis and morph it into an opportunity.
+
+If we grab hold of modern tools and join the fight to upgrade our society, we can live safer, more predictacle, and happy lives again. It's a good opportunity, one we should all jump at.
 
 ## New Tech, New Age, New Philosophy
 

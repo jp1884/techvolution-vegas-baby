@@ -2532,3 +2532,25 @@ That should make your eyes open wide. The hierarchies of the past won't go away 
 Techvolution will show you how to become a player god. And we must, because only when we take hold of the levers of power will we win the game and live happy lives again. I mean, imagine education was more natural for everyone!
 
 But imaginations aren't reality. To live in the beautiful Internet Age, we must fight our nemesis, Darth Blockbuster.
+
+## Backpage
+
+"_People are angry, man! Most people's lives suck...Even if like the economy is doing better, the vast majority of people aren't doing what they want to do with their lives._" Joe Rogan, November 2019.
+
+Do you think the beloved comedian and podcaster is right? Are people angry? Are your friends and family? Are you?
+
+Let me approach the question differently. Are you happy? I'm not asking if you're comfortable or "happy enough." Do you jump out of bed every morning, are you respected at your job, are your bills paid up. And most importantly, do you think your kids will inherit a better life.
+
+On the surface, North Americans have luxurious homes, full employment, and stable politics. On the inside, our middle-class deals with boring jobs, growing debts, horrible commutes, and mindless bureaucracies. Our lives do often suck. It's made so much worse because, unlike our ancestors, we're also watching our society decline. Everyday bad trends get worse, like drug epidemics, crumbling infrastructure, antisocial behavior, political hatred, and climate change.
+
+Luckily, we have free politics, so we can vote for government solutions and regulations. We've tried giving Left-wing and Right-wing the levers of power. But no matter which we choose, Main Street keeps getting unhappier.
+
+Living happy lives isn't an unrealistic fairytale. In fact, it's a sign of a healthy society. The truth is neither Left or Right ideologies' can help us. They're based in the Industrial Age when government regulations or free-market economics were our only levers of power. Today, these levers aren't strong enough to solve our problems. If no rule allows traffic jams, how can a new one open-up our roads? Ask yourself how many corporate boardrooms want their employees to be financially independent—so how is more corporate employment the best way to secure our livelihoods?
+
+And, now we have a worldwide pandemic. A terrible disease is actually searching the world for human hosts. And despite generations of loyally marching and voting for Left/Right politics, Main Street's only levers of power are reading the news, searching store shelves, and not much else.
+
+We could be doing so much better. We've been in the Internet Age since 1970. With digital technology, we can create amazing tools that put power in our hands. We can eliminate nasty commutes, liberate us from boring jobs, and yes, deal with horrible pandemics with knowledge and skill instead of fear and loathing.
+
+There is a strong Industrial Age establishment. They've been holding Internet Age upgrades back out of pure self-interest. But they aren't the biggest obstacle to a better life. Because, like when printing presses, telescopes, and muskets were invented, the biggest roadblock to our evolution is finding a new philosophy. Only a new way of thinking makes people realize their best option isn't demanding the establishment treat them better. It's the self-realization holding modern levers of power is their only salvation.
+
+Here is our new philosophy. Its big lesson is this. The middle-class must grab hold of apps, computers, and the internet to solve our problems now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on old—ideological—fumes.

@@ -38,3 +38,7 @@ The definition of a healthy civilization is your personal happiness. And right n
 Techvolution gives you the new philosophy to upgrade. One that makes you a player god so you have much more control of your own life.
 
 ![Illustration](/img\sketches\playergod-stargazer.jpg)
+
+## Post
+
+Our society's ability to deal with life's inevitable pitfalls (like pandemics) will only get worse until we completely change what you think is politics.
