@@ -12,68 +12,76 @@ I was going to start this book by asking if you thought the beloved comedian and
 
 Then came the Great 2020 Pandemic. Now, instead of having to ask if you're happy I know you're not. In fact, nevermind being unhappy, you're likely downright scared.
 
-For years, North Americans lived with bad trends like micro-management at work, antisocial behavior at home, and political hatred in government. We got by because (on the surface) we have full employment, luxurious homes, and stable politics. Whenever things got too bad, and we got too unhappy, we went shopping to ease the pain. If we were still angry, we'd put in a new government. We gave Left-wing and Right-wing the levers of power. But no matter which we choose, Main Street kept getting unhappier.
+For years, North Americans lived with bad trends like micro-management at work, antisocial behavior at home, and political hatred in government. We got by because (on the surface) we have full employment, luxurious homes, and stable politics. Whenever things got too bad and we got too unhappy, we went shopping to ease the pain. If we were still angry, we'd put in a new government. We gave Left-wing and Right-wing the levers of power.
 
-I wrote this book to say there is something fundamentally wrong with our society. That, like our ancestors did so many times before, we have to step-up and rethink our society's very foundations. The hardest part of writing the book wasn't explaining our problems or coming up with solutions. It was getting people to realize they should be happy. We've become so use to blaming "The Democrats" or "The Republicas" for our long commutes, confusing loan contracts, and government mis-management, that the idea of jumping out of bed every day was a fairytell.
+Still, no matter which we choose, Main Street kept getting unhappier.
 
-Now we're in this mess. And, our society's fundamental problems are being exposed by a virus.
+I wrote this book to say there is something fundamentally wrong with our society. That, like our ancestors did so many times before, we have to step-up and rethink our society's very foundations. The hardest part of writing the book wasn't explaining our problems or coming up with solutions. It was getting people to realize they should be happy.
 
-Happy lives wasn't, and still isn't, an unrealistic fairytale. In fact, it's a sign of a healthy society. The truth we give Left or Right ideologies' far too much credit. I started writing this book in September 2019, and wanted to (somehow) convince some people to disregard both ideologies. I'll explain in this book, but our most common ideologies are simply too hold to give us happy lives in a healthy society.
+Now we're in this mess. And, our society's fundamental problems are being exposed. A virus highlights are society's shaky foundations.
 
-There have been thousands of pandemics in history. And, yet we we're caught with our pants down. If we have fire drills throughout our society, why don't we have pandemic plans? Why Especially our hospitals. Because a few months ago the president was impeached for what? Even if you agreed with it then, does it seem like a good reason now? And when President Obama tried to overhaul the health-care system, did any commentator, stratgeists or politican talk about pandemic plans?
+Happy lives wasn't, and still isn't, an unrealistic fairytale. In fact, it's a sign of a healthy society. The truth we give Left or Right ideologies' far too much credit. I started writing this book in September 2019, and wanted to (somehow) convince some people to disregard both ideologies. I'll explain in this book, but our most common ideologies are simply too old to give us happy lives in a healthy society.
+
+There have been thousands of pandemics in history. And, yet we we're caught with our pants down. If we have fire drills throughout our society, why don't we have pandemic plans? Because a few months ago the president was impeached for what? Even if you agreed with it then, was that really what governmetn should have been doing only a few months ago?
+
+Both "sides" are the same. When President Obama tried to overhaul the health-care system, was any commentator, stratgeists or politicain talking about pandemic plans?
 
 Instead of governing our society, Left and Right ideologues, commentators, and politicians have been playing chicken with each other.
 
-Our political ideologies are old. Our society is both philosophicaly and now actually, sick. That means our civilizations's ability to deal with life's inevitable pitfalls (like pandemics) will only get worse. You'll keep getting unhappier. This pandemic is part of a trend that includes more financial crisis, recessions, depressions, and even wars.
+Our political ideologies are old. Our society is both philosophicaly and now actually, sick. That means our civilizations's ability to deal with life's inevitable pitfalls (like depressions, wars, and pandemics) will only get worse. I happened to be writing about this before the pandemic. Now, history has given a sad reality check.
 
-To fix this, we need to completely change what you think is politics.
+To fix our civlization, we need to completely change what you think is politics.
 
 ## Our Levers of Power
 
-Do me a favor. Open up Skype or FaceTime. Now check your Instagram feed. Good, okay now do the same for Netflix. 
+Do me a favor. Open up Skype or FaceTime. Now check your Instagram feed. Good, okay now do the same for Netflix.
 
 I'm being serious, open these apps up. Come back when you're done.
 
-Great. Now you chat with friends, get live TV,  or watch a documentary. Like your own organs, whereever you go, these apps and internet follow you. Powerful apps and internet connections are helpful levers of power to have. I mean, can you even imagine writing down driving directions on a napkin again?
+Great. Now you chat with friends, get live TV, or watch a documentary. Whereever you go, these apps and internet very helpful levers of power to have. I mean, can you even imagine writing down driving directions on a napkin again?
 
-We're not done. Now get your medical records ready. Okay good. Now, collect all your health metrics like weight, heart beats, temperature, and quality of sleep from your FitBit or Apple Watch. Excellent, now let's evaluate how much of a risk Covid-19 is to you by comparing your statistics to the records of those unlucky people who got sick; especially the ones in your community.
+Of course not.
 
-I hope your risk factor is good. But, if you're in trouble, what does your doctor say to do?
+Now get your medical records ready. Okay good. Now, collect all your health metrics like weight, heart rate, temperature, and sleep cycles from your FitBit or Apple Watch. Excellent, now let's evaluate how much of a risk Covid-19 is to you by comparing your statistics to the records of those unlucky people who got sick; especially the ones in your community.
 
-Keep in mind, there's a possible drug shortage. So, what does your pharmacist say? Do you have enough prescriptions in case things get really bad? What should you start doing now, to plan for the worse?
+I hope your risk factor is good. But, if you're in trouble, what does your doctor say to do? Don't tell me, but I hope it was helpful stuff.
 
-After you've collaborated with these professionals, quickly find out what your health insurance company will pay for.
+Hey, don't forget, there's a possible drug shortage. So, what does your pharmacist say? Do you have enough prescriptions in case things get really bad? What should you start doing now, to plan for the worse?
+
+After you've collaborated with these health professionals, quickly find out what your health insurance company will pay for.
 
 Phew, that was educational. Isn't it good to know all this stuff! I personally think knowledge is the greatest lever of power.
 
-Wait, wait, wait. FaceTime worked, so did Instragram and Netflix. But is the medical records "lever" stuck? Did I hear that right, you aren't in contact with your doctor? What about pharmacist? You're waiting on hold with your insurance company! Insurance is basically a bank-account for disasters, and you now during a pandemic you have no idea how much money you have inside?
+Wait, wait, wait. FaceTime worked, so did Instragram and Netflix. But is the medical records "lever" stuck? Did I hear that right, you aren't in contact with your doctor? What about pharmacist? You're waiting on hold with your insurance company! Insurance is basically a bank-account for disasters, and you now during a pandemic you have no idea how much money you have?
 
-This all sounds like I'm talking to someone living through the Spanish Flu Pandemic in 1918. It's like science-fiction in reverse. Because, if someone in 1918 was teleported to 2020, they'd fit in just fine.
+This all sounds like I'm talking to someone living through the 1918 Spanish Flu Pandemic. It's like science-fiction in reverse. Because, if someone in 1918 was teleported to 2020, they'd fit in just fine.
 
-Well, at least many of our workers can work from home this time.
+Well, at least many of our workers can work from home.
 
-WHAT! You're still driving to work! What the fuck is wrong with your laptop and internet at home? Oh, that's right, your boss loves to "check-in" on you.
+WHAT! You're still driving to work! What the fuck is wrong with your laptop and internet at home? Oh, that's right, your boss loves to "check-in" on you. All eight of them.
 
 OFFICE SPACE
 _Please enable the sound._
 
 ## Unhappy is a Sign of an Unhealthy Society
 
-This way of life made us unhappy. It also made us complacent. It's because of these "eight different bosses" that our economy is in free-fall. The micro-management culture has been running our hospitals, insurance companies, pharmacists, and so many other industries for generations.
+This way of life made us unhappy. I wrote a book to try to convince you, our way of life was also dangerously complacent too. And now, sadly, I don't have to.
 
-And you're unhappiness was a warning that our workplaces were never prepared for tough times.
+Our society is weak, because "eight different bosses" micro-management culture has been running our hospitals, insurance companies, pharmacists, and so many other industries for generations.
+
+And you're unhappiness was a warning that our society wasn't prepared for tough times.
 
 Because, instead of using Internet Age technologies to evolve a more antifragile way of life, we've done nothing. So, now, you're a person who has a super-advanced apps like Skype, Instagram, and Netflix, but are watching watching CNN, and reading random bullshit on the internet while a novel disease is searching the globe for human hosts.
 
-Internet Age technology can us deal with anything better. For example, watch _The Pharmicist_ on Netflix, and you'll see how a simple online database of prescriptions stopped Oxycontin pill mills. Too bad it took government many years to make. If done sooner (or if the people banded together proactively) we would have found out which corrupt doctors were responsible for the oxycontin epidemic. With open-source technology (the stuff that makes programs like Instagram or Chrome) we could have made a simple and secure database and prevented 500,000 overdoses and endless ruined lives.
+Internet Age technology can us deal with anything better. For example, watch _The Pharmicist_ on Netflix, and you'll see how a simple online database of prescriptions stopped Oxycontin pill mills. Too bad it took government many years to make. If done sooner (or if the people banded together proactively) we would have found out which corrupt doctors were responsible for the oxycontin epidemic. With open-source software (the free technology that makes programs like Instagram or Chrome possible) we could have made a simple and secure database and prevented 500,000 overdoses and endless ruined lives.
 
-And now we have a health-care system being put to the test.
+But, we didn't use internet technologies to upgrade our civlization. And now we have a old health-care system being put to the test.
 
 ## Our Age Old Health Care System
 
-In this TED talk, doctor Doctor Alieta Eck says when she started medical school in the early '80s, she thought being a doctor meant making deep connections with her patients. She dreamed about helping her people live healthier lives. She pictured detailed examinations, home visits, and phone calls.
+In this TED talk, doctor Doctor Alieta Eck says when she started medical school in the early '80s, she thought being a doctor meant making deep connections with her patients. She dreamed about helping her people live healthier lives. She pictured detailed examinations, home visits, and being there when needed most.
 
-However, since she entered practiced, she got something far different. Since 1970, ever more bureaucrats have been putting themselves into our economy. Instead of "InstaHealth" apps connecting patients with therapists, doctors, nurses, and pharmacists, we've got middlemen.
+However, since she started her practiced, she got something far different. Since 1970, ever more bureaucrats have been putting themselves into our economy. What Dr. Eck means is that instead of "InstaHealth" apps connecting patients with therapists, doctors, nurses, and pharmacists; we all got more middlemen.
 
 ![Health Admins](/img\diagrams\healthcare-administrators.png)
 _"Hello, Peter", memos, TPS reports, and eight different bosses. multiplied by 3500%._
@@ -84,41 +92,23 @@ We didn't notice because we've been obessed with Left/Right politics. Now, the h
 
 These people are risking death for you right now. And, the "eight different bosses" are...?
 
-And now today, despite screaming for Left/Right politics in endless health-care debates and spending billions on our system, we're all watching CNN and buying toilet paper. That's the actions of extras watching the story of their lives instead of being active players in it. It's sad if you think about it.
+Now today, despite screaming for Left/Right politics in endless health-care debates and spending billions on our system, we're all watching CNN and buying toilet paper. That's the actions of extras watching the story of their lives instead of being active players in it. It's sad if you think about it.
 
-I mean, what would someone teleported during the Spanish Flu Pandemic of 1918 say about us?
-
-## A Wider Problem
-
-This pandemic is already horrible. And, it's just getting started.
-
-The wider problem is our conception of politics. The truth is, our economy is stuck in the Industrial Age, when government regulations or free-market economics were our only levers of power. Today, these levers aren't strong enough to solve our problems nevermind prevent them.
-
-Pandemics are inevitable, and we could never deal with any it well, because we haven't created the levers of power to collaborate better, make "pandemic plans", and know how many stockpiles of resources we had in case we hit a shitstorm.
-
-Ask yourself, if no government regulations allows pandemics, how could any hope to help-us deal with one? Consider how many corporate boardrooms want their employees to be financially independent—so how was more corporate employment ever the best way for us to secure our livelihoods with home food stores, or solar panels?
-
-Think of that. We've been living paycheck to paycheck. Do we even have a right to be surprised. We can all google pandemic. Why are we so surprised to have hit one?
-
-We are. Because we've been living like non-playing characters in our own lives.
-
-RONDA
-
-And, now we have a worldwide pandemic. And despite generations of loyally marching and voting for Left/Right politics, Main Street's only levers of power are reading the news, searching store shelves, and not much else.
-
-We could be doing so much better. We've been in the Internet Age since 1970. With digital technology, we can create amazing tools that put power in our hands. We can do the small things like eliminate nasty commutes, liberate us from boring jobs, and yes, deal with live's horrible surprises like pandemics with knowledge and skill instead of fear and loathing.
+I mean, what would someone teleported from the Spanish Flu Pandemic of 1918 say about us listening to news broadcasts on supercomputers, HD cameras, and biometric sensors, we hold in our hands?
 
 ## Segway
 
 We could already be living in the Internet Age. But we've been held back by a strong Industrial Age establishment. The "eight different bosses" have been preventing people working from home, using new InstaHealth apps, and in general stopping our society evolving to a better way of life.
 
-Ask yourself, is this the society you want your kids to inherit? You can pass-on houses and trust-funds, but a society is something we all take as is. Is this the society your kids will prosper in?
+Ask yourself, is this the society you want your kids to inherit? You can pass-on houses and trust-funds, but a society is something rich and poor take as is.
 
-But in truth, the "establishment" aren't the biggest obstacle to a a brighter future. Because, like when printing presses, telescopes, and muskets were invented, the biggest roadblock to our progress is something much bigger. Only when the people on Main Street realize their best path to improving their lives isn't demanding the powerful treat them better. It's the self-realization holding modern levers of power is their only salvation.
+In truth, the "establishment" aren't the biggest obstacle to a a brighter future. Because, like when printing presses, telescopes, and muskets were invented, the biggest roadblock to human progress is something much bigger. It's the click in regular people mind's that they don't need the powerful anymore. Because, instead of watching the news, they can help themselves. If we grab hold of modern levers of power.
 
-To reach for telescopes against a religious establishment, or muskets against a royal one, the people needed a new philosophy to lead the way. I wrote one to inspire you to follow in our ancestors footsteps.
+Sadly, history has caught up with us. We've failed by Left/Right politics for generations and now we're paying for it. We've needed a new philosophy for many years. It's easier to consider that now, because we're all stuck inside wondering what the heck is going to happen next.
 
-Here it is. Its big lesson is this. The middle-class must grab hold of apps, computers, and the internet to solve our problems now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on old—ideological—fumes.
+For various reasons, I happened to be obessed with this topic while it might just get read.
+
+In these pages, you'll read a new philosophy custom made to help humanity prosper in the Internet Age. Its big lesson is this. The middle-class must grab hold of apps, computers, and the internet to solve our problems now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on old—ideological—fumes.
 
 ## Table of Contents
 
