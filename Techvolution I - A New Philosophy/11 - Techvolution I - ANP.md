@@ -92,9 +92,9 @@ In this TED talk, doctor Doctor Alieta Eck says when she started medical school 
 However, since she started her practice, she got something far different. Because for decades, ever more micro-managing bureaucrats and have been putting themselves into our economy. While Dr. Eck wanted more “InstaHealth” apps connecting patients with therapists, doctors, nurses, pharmacists, and nutritionists. Instead of working with her patients, what she got was more micro-managing middlemen.
 
 ![Health Admins](/img\diagrams\healthcare-administrators.png)
-_"Hello, Peter," memos, TPS reports, and eight different bosses. multiplied by 3500%._
+_"Hello, Peter," memos, and eight different bosses. Multiplied by 3500%._
 
-Government regulators, project managers, hospital administrators, claims adjusters, insurance underwriters, lawyers, and more memos then anyone can imagine. Many of these people are needed. Many are not. All of them have been sucking our health-care system dry for generations.
+The Left loves big government, the Right big business. The above is ther result. A small indications of the nearly countless government regulators, project managers, hospital administrators, claims adjusters, insurance underwriters, lawyers, and more memos then anyone can imagine. Many of these people are needed. Many are not. All of them have been sucking our health-care system dry for generations.
 
 We didn’t notice because we either thought politics was boring and someone else's problem. Or we’ve been obsessed with Left/Right politics. We thought “fighting for our health-care” meant picking a side between government or corporate-run health insurance. While we were distracted, our hospital cleaners, nurses, and doctors were being understaffed and underpowered.
 
@@ -183,9 +183,14 @@ This current state of affairs, however, the middle class has a unique opportunit
 
 If we grab hold of modern tools and join the fight to upgrade our society, we can live safer, more predictacle, and happy lives again. It's a good opportunity, one we should all jump at.
 
+https://www.youtube.com/watch?v=J2Pjudf0810
+_This isn't politics. But because we often listen to these commentators, reporters, and columists our elected politicians are forced to dance for these blowhards approval. Real politics puts levers of power in your own hands. And that means better technology._
+
 ## New Tech, New Age, New Philosophy
 
-Life improves with better technology. Deaths from disease, famine, and war all decrease as our technological power has gone up. Even with this pandemic we can have knowledge and can expect a vaccine sometime in the future. Before 1880, nobody even knew bacteria existed. Doctors didn't even wash their hands before surgeries. Most people thought disease was caused by "stale air" and would open windows in hospitals instead of using disinfectants. We still have many problems today, but our technology in medicine, agriculture, education has given us lives our ancestors would envy.
+Life improves with better technology. Deaths from disease, famine, and war all decrease as our technological power has gone up. Look at this corona pandemic. Before 1880, nobody even knew bacteria existed. Doctors didn't even wash their hands before surgeries. Most people thought disease was caused by "stale air" and would open windows in hospitals. In 2020 we're already working on a Covid-19 vaccine.
+
+We still have many problems today, but our technology in medicine, agriculture, education has given us lives our ancestors would envy.
 
 Now we have computers and the internet. They are game-changers. Laptops, digital cameras, tablets, drones, digital sensors are all millions of times better than just 30 years ago. Modern technology dramatically empowers us to keep fighting off pandemics, hunger, ignorance, and war. But, only if we use them to keep inventing and staying ahead of our problems.
 
@@ -193,9 +198,15 @@ In Nature, lifeforms evolve in jumps called eras or epochs. Likewise, humanity d
 
 Today we're going from the Industrial Age (1760-1969) to the Internet Age (1970-). It can be hard to appreciate all the changes. There's a lot to think about when civilization's entire way of life upgrades to new technology. I've been thinking about our evolution for years and only now have a grasp.
 
-Improving our technology is hard work, but at least we understand how to do research and development. Upgrading politics isn't so straightforward. Evolving new politics and philosophy happens with strong emotions, civil wars, and revolutions. I want to help you understand your importance in it all. Because in 1970, personal computers and the internet came online. Since then, computer geeks, hackers, and innovators have been upgrading our society to the Internet Age. All the while, Industrial Age companies, and bureaucracies have been holding us back to keep their obsolete products and services alive.
+Improving our technology is hard work, but at least we understand how to do research and development. Upgrading politics isn't so straightforward. Evolving new politics and philosophy happens with strong emotions, civil wars, and revolutions.
 
-Being forced to use outdated technology is why middle-class life is can be so unhappy. It's why we drive in endless traffic, still us so much oil for our energy, can't understand the tax code, and worry about our kids' futures. Middle-class life will only get better once we finish the Internet Age upgrade. There's no shortcuts, cheats, or gimmicks. There's just you and your friends on Main Street who must do the work.
+I want to help you understand your importance in it all.
+
+Because in 1970, personal computers and the internet came online. Since then, computer geeks, hackers, and innovators have been upgrading our society to the Internet Age. All the while, Industrial Age companies and government bureaucracies have been holding us back to keep their obsolete products and services alive.
+
+Being forced to use outdated technology is why middle-class life is can be so unhappy. It's why we drive in endless traffic, still us so much oil for our energy, can't understand the tax code, and worry about our kids' futures. Middle-class life will only get better once we finish the Internet Age upgrade.
+
+There's no shortcuts, cheats, or gimmicks. There's just you and your friends on Main Street who must do the work.
 
 The first step is a new mindset. Because we the people already have the amazingly powerful digital tools we need. We only need to believe in modern philosophy to upgrade to the Internet Age.
 
@@ -203,55 +214,94 @@ The first step is a new mindset. Because we the people already have the amazingl
 
 There's a lot to realize when thinking about human evolution. I found it very helpful to "look up" and imagine what our community looks like from above. Looking up lets you "look down" and gain a proper perspective on our society.
 
-I didn't just imagine this better perspective; I got to see it. Play computer games like _Age of Empires, Anno 1800_, and _Civilization_, and you'll get to as well. You'll be the "player god" of a civilization. A virtual divinity who knows all and sees all, and who puts its general will into action using an array of buttons, switches, and toggles. As you play the game, you'll use these levers of power to decide what to research, where to place buildings, and when to click "upgrade". Pressing that most important button magically transforms every factory, hospital, road, house, citizen, to the technology of the modern era. Below, you'll see a person being the player god in the game _Anno 1800_.
+I didn't just imagine this better perspective; I got to see it. Play computer games like _Age of Empires, Anno 1800_, and _Civilization_, and you'll get to as well.
+
+You'll be the "player god" of a civilization. A virtual divinity who knows all and sees all, and who puts its general will into action using an array of buttons, switches, and toggles. As you play the game, you'll use these levers of power to decide what to research, where to place buildings, and when to click "upgrade".
+
+Pressing that most important button magically transforms every factory, hospital, road, house, citizen, to the technology of the modern era. Below, you'll see a person being the player god in the game _Anno 1800_.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GrandioseTinyApisdorsatalaboriosa' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 The above is a computer game, of course, but it represents reality pretty well. We're all in there somewhere right now, trying to figure out how to earn a living while the game plays around us.
 
-That's why this book's cover page is a regular person standing on Main Street—a single guy or girl in civilization. His or her job is to do what's best for themself and help society prosper. Gazing up for guidance, you see heroes and villains. In the sky high above is the mythical "player god," whose ultimately the one making the decisions. Will the player god act to benefit society or himself?
+This pandemic is forcing us to really think (and maybe fear) asking this question for the first time in many years.
+
+That's why this book's cover page is a regular person standing on Main Street—a single guy or girl in civilization. His or her job is to do what's best for themself and help society prosper. Gazing up for guidance, you see heroes and villains. In the sky high above is the mythical "player god," whose ultimately the one making the decisions.
+
+Will the player god act to benefit society or himself?
 
 ![Illustration](/img\sketches\playergod-stargazer.jpg)
 
-In a computer game, the player god controls all levers of power. In reality, we change society when we buy clothes, do car maintenance, and build a home. Funny to think about, but our everyday choices determine what happens in our entire civilization. Yet we often don't think of ourselves as being "player gods." But that's the big picture, isn't it? It's so easy to forget, but it's all our individual choices that make up the player god in our real-life game of civilization.
+In a computer game, the player god controls all levers of power. In reality, we change society when we buy clothes, do car maintenance, and build a home. Funny to think about, but our everyday choices determine what happens in our entire civilization.
+
+Will enough of us decide to wash our hands and self-isolate to stop this pandemic?
+
+It's an open question. Because we often don't think of ourselves as being "player gods." But that's the big picture. It's all our individual choices that make up the player god in our real-life game of civilization.
 
 The more individuals realize the big picture and act like their actions matter, the happier their society. And the job of inspiring individuals to believe in the big picture is the work of philosophy.
 
+Think of the American Founding Fathers who got millions of strangers to form a new country. It was the philosophy inside the many pamphlets, the Declaration of Independence, and especially the US Consitution that made people spread throughout 13 states realize the big picture. To all prosper, they needed to start, and become Americans.
+
 So, what the heck are good political decisions today? Who are the good guys? Every newspaper, politician, and political party says they're fighting for the good of our society. But our politics have so much disagreement, how can a regular person know the difference between heroes and villains?
 
-Today, we're all looking up from Main Street, trying to figure if Donald Trump is evil, or if the United Nations is trying to make a world government. We ask if CNN is manufacturing fake news, or maybe "all of them" are. If so, what's real news? Our questions never stop. Should the government-run health insurance, or a big corporation regulated by the government? Is climate change real? If the world is suffering so bad, why do "green" obsessed workplaces force us to drive instead of telecommuting?
+Today, we're all looking up from Main Street, trying to figure if Donald Trump is evil, or if the United Nations is trying to make a world government. We ask if CNN is manufacturing fake news, or maybe "all of them" are. If so, what's real news?
 
-It's all very confusing and emotional. Yet we all have to pick an answer. After all, you, me, and everyone else are the player god. Wouldn't it be cool if a philosophy helped us decide between good and bad politics? Helping people understand why there's so much hate in our politics is one reason I wrote this book. But my main motivation is creating Main Street's new philosophy. One that bypasses today's "current events" news cycle, and makes us take hold of the new digital levers of power. Because only when we control our own fates, will we finally enjoy the greater freedom, dignity, productivity, and happiness, of the glorious Internet Age.
+Our questions never stop. Should the government-run health insurance, or a big corporation regulated by the government? Is climate change real? If the world is suffering so bad, why do "green" obsessed workplaces force us to drive instead of telecommuting?
+
+And now during this pandemic, many of us have (or soon will) stopped asking questions and started looking for better answers.
+
+Wouldn't it be cool if a philosophy helped us decide between good and bad politics? After all, we're all part of the player god. Helping people understand why there's so much hate in our politics is one reason I wrote this book. But my main motivation is creating Main Street's new philosophy. One that bypasses today's "current events" news media that gives people nothing to fight layoffs or empty store shelves.
+
+My philosophy gives wants you to take hold of the new digital levers of power.
+
+Because only when we control our own fates, will we finally enjoy the greater personal security, freedom, dignity, productivity, and happiness, of the glorious Internet Age.
 
 ## Politics Are a Moving Target Because You’re the One Who’s Moving
 
-We create philosophies to organize civilization. Philosophy's high ideals of a "just and good society" get everyone on the same page. There are always plenty of theories to choose from. The player god—we, collectively—  must pick one that empowers its members to use modern technology to solve real-life problems. Only then we society live a good life.
+We create philosophies to organize civilization. For example, "We believe these truths to be self-evident that all men are created equal", tells sociey that everyone should believe in equality.
+
+There are always plenty of theories to choose from. The player god—we, collectively—must pick one that empowers its members to use modern technology to solve real-life problems. Only then we society live a good life.
 
 When a player in Anno 1800 upgrades technology, we can see the changes. Installing a sewer, damming a river, building a road, is very obvious. But we can't see philosophy change so easily; because it's our minds that evolve.
 
-For example, we all believe in a philosophy of "Life, liberty, and the pursuit of happiness." But what does that mean in everyday life? ? We invented ideologies to give people political guidelines. Conservative or Progressive. Libertarian or Socialist. Republican or Democrat. Each ideology supports "Life, liberty, and the pursuit of happiness." but goes into detail by giving a list of specific policies to fight for (or against) like free health-care or gun-rights. Supposedly we all want the same thing—life, liberty, health, happiness, and prosperity—right? What differs is our approach.
+For example, we all believe in a philosophy in universal equality where we all have the right of "Life, liberty, and the pursuit of happiness." But what does that mean in everyday life? ? We invented ideologies to give people political guidelines. Conservative or Progressive. Libertarian or Socialist. Republican or Democrat. Each ideology supports "Life, liberty, and the pursuit of happiness." But goes into detail by giving a list of specific policies to fight for (or against) like free health-care or gun-rights.
+
+Supposedly we all want the same thing—life, liberty, health, happiness, and prosperity—right? What differs is our approach.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ThickSecondaryChrysomelid' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-The video above shows a “tech tree” of new technologies, tools, and philosophy upgrades. All games use them to give the player the choice of which elements to use in their game. In the real world, just like improving our technology, we also upgrade our philosophy with a “click.” Again: it’s just so damn hard to see because it’s our minds that are evolving.
+The video above shows a “tech tree” of new technologies, tools, civic and philosophy upgrades. All games use them to give the player the choice of which elements to use in their game.
 
-The point is, even with ideologies to guide our philosophical opinions, understanding our political views is hard. We all look up at the same doctrines—we all try to "think of the big picture," yet we arrive at different answers. Our opinions are a by-product of our psychology, job, skillset, family, geography, culture, ethnicity, religion, time-period. Who can understand how all these factors intermix to make a political opinion? Why does one parent cry tears of sadness, the other of joy, on the same election night?
+In the real world, just like improving our technology, we also upgrade our philosophy with a “click.” Again: it’s just so damn hard to see because it’s our minds that are evolving.
 
-I can't explain it either. But I can help you understand politics today. We live inside our own game of civilization, and inside this game, we develop in ages. At the dawn of a new age, a wealthy establishment always fights idealistic inventors. Both want their philosophy to click with the people and become the ruling philosophy of society. The establishment uses the rules of the old philosophy to persuade, or force, the people to keep the rich in power. At the same time, inventors distribute new technology to lure people away from the past.
+The point is, even with ideologies to guide our philosophical opinions, understanding our political views is hard. We all look up at the same doctrines—we all try to "think of the big picture," yet we arrive at different answers. Our opinions are a by-product of our psychology, job, skillset, family, geography, culture, ethnicity, religion, time-period. Who can understand how all these factors intermix to make a political opinion? Why does one friend cry tears of sadness, the other of joy, on the same election night?
+
+I can't explain it either. But I can help you understand politics today.
+
+We live inside our own game of civilization, and inside this game, we evolve in ages. The key to undertand how we play the game is that the tech trees of science/technology and philosophy/policies are intermixed. So, when we change a technology in real-life, it has huge political consequence.
+
+Because at the dawn of a new age, idealistic inventors create a flood of new technologies. And a wealthy establishment always fights back.
+
+Both sides want their philosophy to click with the people and become the ruling philosophy of society. The establishment uses the rules of the old philosophy to persuade, or force, the people to keep the rich in power. At the same time, inventors distribute new technology to lure people away from the past.
 
 And here is when everyone on Main Street makes a big choice.
 
-Does the regular person help the protagonists evolve civilization by reaching for modern tools, or help the antagonists hold back progress by following old lifestyles and rules?
+Does the regular person help the protagonists evolve civilization by using modern tools to change their how the live their life, or help the antagonists hold back progress by following old lifestyles and rules?
 
 If you stay out of the fight, you support the establishment by keeping things the way they are and are thus what computer games call a “non-playing character”. Which means you’re essentially an extra watching your civilization as if it was a movie you can’t control. That’s your choice, remember. If you grab hold of the new levers of power and upgrade society, you’re a player god, playing the game of civilization and helping society evolve.
 
-We hit the Internet Age in 1970. Since then, hackers, geniuses, and geeks have been fighting to give the incredible power of computers to Main Street. The people who control Industrial Age technology are fighting them off with things like copyright laws, non-disclosure agreements, and political lobbying. The war has arrived to the homefront. People of Main Street, do you step up to help the heroes?
+We hit the Internet Age in 1970. Since then, hackers, geniuses, and geeks have been fighting to give the incredible power of computers to Main Street. The people who control Industrial Age technology (the eight difference bosses in _Office Space_) are fighting them off with things like fancy marketing campaigns, copyright laws, and political lobbying.
+
+When the war arrives on the homefront, people of Main Street make a choice. Do you step up to help the heroes?
 
 That's a choice you, the person reading this right now, has to make. It's a choice as big as any you're ever going to make. Because if we don't upgrade now, it only means your kids and your grandkids will live even unhappier lives. The burden of transforming society will only fall on their shoulders.
 
-A bit heavy to pull on your parental heartstrings, but it’s true. Life on Main Street will keep getting worse until we upgrade to the Internet Age. We can keep evil things like debt, depression, disease, and war at bay only if we keep evolving our technology and philosophy to be up to par.
+A bit heavy to pull on your parental heartstrings, but it’s true. Life on Main Street will keep getting worse until we upgrade to the Internet Age. We can keep evil things like debt, depression, war, and pandemics at bay only if we keep evolving our technology and philosophy to be up to par.
 
-Don’t worry. We can finish the Internet Age upgrade. People only need to believe in a new philosophy that teaches us our innate power as player gods. My job is to make it click.
+Don’t worry. We can finish the Internet Age upgrade. Even now during this pandemic we can start to upgrade our way of life. People only need to believe in a new philosophy that teaches us our innate power as player gods.
+
+ANNO 1800 happiness video
+_When playing a civilization building game, players must change their policies to get happier citizens. The difference in real-life is there is no "player" except you and your friends who must change things._
 
 ## We Upgrade our Politics Now, or We Lose the Game
 
@@ -263,7 +313,7 @@ However, digital property can't be mass-produced or redistributed. Digital books
 
 But rather than rethink hundreds of years of "Left vs. Right" politics, both sides turn extremist. Old-school businessmen keep their Conservative troops loyal with constant stories of "fighting evil communists who are coming for your money!" De-regulation, tax-cuts, free-trade are among the right-wing rallying calls. In contrast, social justice warriors keep left-wing politics exciting by "fighting racist fascists who want to oppress you!." Their choir forms around demands for climate justice, diversity indoctrination, and free college schooling.
 
-In our communities, nationwide fascism and communism (thankfully) died decades ago. Meaning few people in Western societies call themselves fascist or communist. Left and Right call their enemies these names because neither understands digital technology helps our nation prosper (as Progressives dream) by forcing us to better ourselves (as Conservatives demand). Left and Right need to keep their believers in the choir singing against “the other side.” Fighting phantoms distract the people with great television.
+In our communities, nationwide fascism and communism (thankfully) died decades ago. Meaning few people in Western societies label themselves fascist or communist. Left and Right call their enemies these names because neither understands digital technology helps our nation prosper (as Progressives dream) by forcing us to better ourselves (as Conservatives demand). Left and Right need to keep their believers in the choir singing against “the other side.” Fighting phantoms distract the people with great television.
 
 Their strategy? Spectacular entertainment. Left and Right don’t want regular people to become player gods of the Internet Age. They want their supporters to stay extras in the Industrial Age. When Main Street complains about how much modern life sucks, CNN, Fox News, MSNBC, and the rest put up “Breaking News! The Other Side Is Ruining Our Country!” to distract their believers from the fact both Left and Right are out of date. Blockbuster sequels and remakes do the same thing when they jack up special effects because their stories no longer connect with Main Street.
 
