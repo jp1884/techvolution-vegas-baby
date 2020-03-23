@@ -2554,3 +2554,31 @@ We could be doing so much better. We've been in the Internet Age since 1970. Wit
 There is a strong Industrial Age establishment. They've been holding Internet Age upgrades back out of pure self-interest. But they aren't the biggest obstacle to a better life. Because, like when printing presses, telescopes, and muskets were invented, the biggest roadblock to our evolution is finding a new philosophy. Only a new way of thinking makes people realize their best option isn't demanding the establishment treat them better. It's the self-realization holding modern levers of power is their only salvation.
 
 Here is our new philosophy. Its big lesson is this. The middle-class must grab hold of apps, computers, and the internet to solve our problems now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on old—ideological—fumes.
+
+## Feedback
+
+- The third one seems to be the most “realistic” depiction – the sketch is so good someone might almost mistake it for a photograph.  (Just curious: Is the layer of detail or different style of sketching symbolic, e.g. in that the “Starfleet” is likewise advanced?)
+A: The drawing is us as seen through the new telescope/Life Star. Big data and other modern tech will be like a mirror to us. It will show us the conseqences of our actions, and thus let us evaluate ourselves according to the scientic method. So we can stop arguing whose methods are the best (liberalism, socialism, etc.) and start making decisions like a physicist would, based on the latest data from the Life Star.
+
+- I don’t think this is necessary. You don’t have to “explain” yourself to the reader for the metaphors you choose to use. The very next sentence in the paragraph is justification enough. 😊
+- I did this to juxtapose Internet Age v. Industrial Age. Being that the owners of the former group would love to have helped me write this book, while the latter group might look to sue for some reason. It's my comment on how heavy handed and silly I think modern copyright is. You can only enforce it if you're rich, which i think says it all. As one friend told me "we just right stuff and wait to get sued for it".
+
+- Again, I prefer “opportunity” over “deal” – mostly because I can’t envision the other party on the side of the deal (it takes two to make a deal, yes?).
+
+- It makes sense, but the "deal" we are making when making a new political community/player god of say the United States of American in 1776, is with each other. Both ideas apply though.
+
+I really like how you’ve stuck with one metaphor here, and commit to it consistently – e.g. “upgrade” fits perfectly with “game.” 😊
+
+-Thanks. But it's not a metaphor, at least it won't be in the future. The game is what we always play. It just easy to forget and not realize it. The Life Star will let us play the game better.
+
+I couldn’t find this quote online – can you point it out to me?
+- I think there's better ones, but below is what I found. It's from "On Directing Film" which is a book you'd probably like btw.
+ [If your objective is to succeed in the (movie) "industry," your work, and your soul, will be exposed to these destructive influences. If you desperately crave acceptance by that industry, you will likely become those things.]
+
+["It's a good thing that the people in Hollywood have no souls, so that they don't have to suffer through the lives they lead."]
+
+Hmm. I totally see what you mean here, but I’ve been conditioned to think of “power-hungry” as a negative thing for so long (power-hungry politicians and rulers often aren’t a good omen for their country’s/people’s future…) and perhaps your readers might too. Maybe even just add something like “power-hungry and well-meaning”? Then again, maybe your point is to just redefine how we all think about “power”. Not sure. What do you think?
+- I know what you mean, I changed the language a bit. Although, I think power is just another word for freedom. You can't have one without the other. Without their muskets, the descendents of Revolutionary Minutemen might be Canadians :) The trick is to be sure, the holders of power, don't use it to deprive other people. And that's why the philosophy that inspires us is so important. It must create freedom, so we don't have to take it from others.
+
+I’m not sure how relevant these images are in exemplifying people “overcoming” problems. I think they should be, because all the other visuals thus far have been very on-point. It might make more sense to show technology that’s cleaning oceans, technology that’s helping blind people see (braille), technology that’s launching us into space, technology that allows self check-out at the store, etc…
+- This was great advice.
