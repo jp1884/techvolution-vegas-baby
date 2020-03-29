@@ -14,29 +14,29 @@ Now we’ve hit the Great 2020 Pandemic. I don’t need to inquire about your ha
 
 For years, North Americans suffered under bad trends: micro-management at work, antisocial behavior at home, and political hatred in government. We got by because superficially we’re “doing great”: we have full employment, luxurious homes, and stable politics. Whenever things got too bad, and we got too unhappy, we visted the shopping mall for therapy. If we were still angry, we’d install a new political party. Over the years, we’ve given Left and Right the levers of power many times.
 
-No matter which we choose, Main Street remains unhappy.
+No matter which we choose, Main Street got unhappier.
 
 There is something fundamentally wrong with our society. Now, as our ancestors did so many times before, we have to step up and rethink our way of life. The hardest part isn’t about explaining our problems or coming up with solutions. It involves the realization that we should be happy with our jobs, government, and life.
 
 It’s our right to enjoy happy lives.
 
-Individual happiness is the ultimate sign of a healthy society. Interesting to note, our ancestors were often happier then we are; even though they were poor in comparison. Our grand-parents or great-grandparents weren't "simpler". Nor did they have lower standards. They were happier because they saw their society improve each year. Since life was getting better, their hard work was easier to bear.
+Because individual happiness is the ultimate sign of a healthy society. Interesting to note, our ancestors were often happier then we are even though they were poor in comparison. Our grand-parents or great-grandparents weren't "simpler". Nor did they have lower standards. They were content because they saw their society improve each year. Their hard work was easier to bear because their life was getting better.
 
-Our society isn't reaching its potential. The trends that makes us unhappy like horrible commutes, mindless bureaucracies, and expensive education keep getting worse. The first reason is because as employees and customers of big bureacracies or corporations were powerless to demand better. But the primary reason for our stagnation is thinking we're "fighting back" by picking a Left or Right political party.
+Our society isn't reaching its potential. The trends that makes us unhappy like horrible commutes, expensive education, and mindless bureaucracies keep getting worse. A large reason is because as employees and customers of big government bureacracies and corporations, we're powerless to demand better. But the bigger reason for our decline is our belief in Left and Right political ideologies.
 
-Nothing changes with either because the truth is we give Conservative and Progressive ideologies far too much credit. Following one (or hating another) is never going to solve our problems.
+We keep alternating which controls our governments. But nothing changes with either because the truth is we give Conservative and Progressive ideologies far too much credit. Main Street following one (or hating another) is never going to solve our problems.
 
 When I began writing this book in September 2019, I wanted to (somehow) convince regular people to stop putting so much faith in Left and Right writers, commentators, and parties. Both ideologies were invented centuries ago; before humanity even had electricity. These doctrines and ideas are simply too old and outdated to give us happiness in a modern, healthy society.
 
-It's okay to change our ideologies. There's nothing special about any of them. That's something most people don't realize. We are free to pick and choose between democratic socialism, conservative monarchy, or Left and Right because every ideology was created to help society prosper. If you're not happy, you can change your political ideology.
+It's okay to change our ideologies. Most people don't realize that we are free to pick and choose between democratic socialism, conservative monarchy, or Left and Right. There's nothing special about any of them because every ideology was created by a human being to help society prosper. If you're not happy, you're supposed to change your society's ideology.
 
 And now you should. Because today this novel virus is highlighting our society’s shaky foundations better than any writer could.
 
-There have been thousands of pandemics throughout history—and yet today we were caught with our pants down. I know our politics has been busy and getting constant public attention, after all the president was impeached! What was the reason again? Even if you agreed with it then, was that really what the government should have been obessed with only a few months ago?
+There have been thousands of pandemics throughout history—and yet today we were caught with our pants down. Why? Why was the president impeached? What was the reason again? Even if you agreed with it then, was that really what the government should have been obessed with only a few months ago?
 
-Both “sides” are the faces of the exact same coin. When President Obama tried to overhaul the healthcare system, was any commentator, strategists, or politicians talking about pandemic plans? We have fire drills throughout our society; why don’t we have pandemic plans?
+Both “sides” are the faces of the exact same coin. When President Obama tried to overhaul the healthcare system, was any commentator, strategist, or politician talking about pandemic plans? We have fire drills throughout our society; why don’t we have pandemic plans?
 
-Here’s why. Instead of governing our society, Left and Right ideologues, commentators, and politicians have been playing chicken with each other.
+Here’s why. Instead of governing our society, Left and Right ideologues, commentators, and columnists have been playing chicken with each other.
 
 Our political ideologies are outdated. Our society is so philosophically old, we're now literally sick from it. That means our civilization’s ability to deal with life’s inevitable pitfalls (e.g., depressions, wars, and pandemics) will only worsen. I happened to be writing this book long before the new corona virus. Suddenly history has given us all a sad reality check.
 
@@ -48,11 +48,11 @@ Do me a favor. Open up Skype or FaceTime. Now check your Instagram feed. Then ge
 
 I'm serious, open these apps up please. Come back when you're done.
 
-Within a few seconds you can chat with friends, get live TV, and be told excellent directions. Isn't it cool that wherever you go, you'll have these very important levers of power at your disposal. I mean, can you imagine writing down driving directions on a napkin? What about driving back and forth to Blockbuster everytime you want to watch a movie?
+Within a few seconds you can chat with friends, get live TV, and receive pin-point directions. Isn't it cool that wherever you go, you'll have these very important levers of power at your disposal. I mean, can you imagine writing down driving directions on a napkin? What about driving back and forth to Blockbuster everytime you want to watch a movie?
 
 Of course not. This isn't 1990.
 
-Now get your medical records ready. Okay good. Next up, collect all your recent health metrics like weight, heart rate, temperature, and sleep cycles from your FitBit or Apple Watch. Excellent, now let's evaluate your risk factor to Covid-19 by comparing your statistics to the records of those unlucky people who got sick; especially the ones who got really sick.
+Now get your medical records ready. Next up, collect all your recent health metrics like weight, heart rate, temperature, and sleep cycles from your FitBit or Apple Watch. Excellent, now let's evaluate your risk factor to Covid-19 by comparing your statistics to the records of those unlucky people who got sick; especially the ones who got really sick.
 
 What characteristics is this new disease targetting? Blood types, genetics, diet, lifestyles?
 
@@ -78,120 +78,122 @@ WHAT! You’re still driving to work! Or worse, your work or school is closed!
 
 What the fuck is wrong with your laptop and the internet at home? Wasn't there a plan to keep things moving in case of earthquakes (San Francisco 1989), riots (Vancouver 2011), hurricanes (New Orleans 2005), great fires (Fort McMurray 2016), floods (New Jersey 2012), and blizzards (every winter in North America)?
 
-Of course we didn't have a plan for Covid-19; because we don't have a plan for any disaster. And that's because our way of life is being controlled by a select amount of people looking to protect their high-paying jobs.
+Of course we didn't have a plan for this Covid-19 outbreak; because we don't have a plan for any disaster. And that's because our way of life is being controlled by a select amount of people looking to protect their high-paying jobs.
 
-I was insurance company claims adjuster for eight years. The person with the checkbook you talk to after car accidents or house fires. And even in an industry that supposed to plan for the worst and promote a low-risk lifestyle, all of us adjusters had to drive into an office during heat-waves, blizzards, and ice-storms.
+I was insurance company claims adjuster for eight years, the person with the checkbook you talk to after car accidents and house fires. And even in an industry that supposed to plan for the worst and promote a low-risk lifestyle, all of us adjusters had to drive into an office during heat-waves, blizzards, and ice-storms.
 
-It's quite surreal to speak with people who had a horrible car crash on the same roads your boss is demanding you drive. You can have a debate about telecommuting versus offices—but not when there's three feet of snow on the streets.
+It's quite surreal to speak with people who had a horrible car crash on the same roads your boss is demanding you drive. You can have a debate about telecommuting versus offices. But not when there's three feet of snow on the streets.
 
 This speaks to our society's fundamental problem. Regular people aren't ready for bad times because we aren't free to decide what's best for ourselves in the good times.
 
-It's our own fault. We're so powerless against the coronavirus pandemic, because we've given the levers of power in our schools, companies, bureaucracies, and hospitals to the same people making us unhappy with our lives.
+It's our own fault. We're so powerless against the coronavirus pandemic, because we've given the levers of power in our schools, companies, bureaucracies, and hospitals to the same people that were making us unhappy with our lives.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/JitteryBrokenFlickertailsquirrel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 _Please enable the sound._
 
 ## Unhappy is a Sign of an Unhealthy Society
 
-Our workplaces are riddled with too many bureaucrats and managers. This way of life made us very unhappy. I wrote a book to try to convince you, it also made us dangerously complacent too. And now, sadly, it's obvious for everyone to see and feel with every moment we hear "it's getting closer".
+Our workplaces are riddled with too many bureaucrats and managers. This way of life made us very unhappy. I wrote a book to try to convince you, it also made us dangerously complacent too. And now, sadly, it's obvious for everyone to see and feel everytime we hear "it's getting closer".
 
-Our society is fragile, because our "eight different bosses" micro-management culture has been running our hospitals, insurance companies, banks, and so many other industries, for generations. They have no incentive to change if they're living large on your dollar.
+Our society is fragile, because our "eight different bosses" micro-management culture has been running our hospitals, insurance companies, banks, and so many other industries, for generations.
 
 As a result, when do use our education system, make a claim, try to understand our mortgage, it's like we're still renting DVDs from Blockbuster. As in, we're stuck with the hours of operation, DVD selection, and corporate policies of the rich and powerful with no ability to have our say.
 
-Having our say makes all the difference in the world. It's difference between being lost at sea with a radio hearing other people decide where to search for you, and having a two-way radio telling them where you are and what you need.
+Having our say makes all the difference in the world. It's the difference between being lost at sea with a radio, hearing people decide where to search for you. And having a two-way radio communicating where you are.
 
-But, why would the eight different bosses give you the power to have your say? After all, the one with the money has the control, and the one who needs it, is under control.
+But, why would the eight different bosses give you the power to have your say? They're living large on money and prestige. Remember, the one with the money has the control, and the one who needs it, is under control.
 
-So, now, regular people have super-advanced apps like Skype, Instagram, and Google Maps in their private lives. But, we're all watching CNN, reading random bullshit, and wondering how we'll earn a livng, while a novel disease is searching the globe for human hosts.
+So, now, regular people have super-advanced apps like Skype, Instagram, and Google Maps in their private lives. But, we're all watching CNN, reading random bullshit, and wondering how we'll earn a livng while a novel disease is searching the globe for human hosts.
 
-That's so stupid. We've had Internet Age technologies for years. We could have been evolving a more prepared and antifragile way of life. If we didn't let self-interested bosses control our society.
+That's so stupid.
+
+We've had Internet Age technologies for years. We could have been evolving a more prepared and antifragile way of life.
 
 Internet Age technology can empower us against with crisis far better. For example, watch _The Pharmicist_ on Netflix, and you'll see how a simple online database of prescriptions stopped oxycontin pill mills. Too bad it took bureaucrats and politicians many years to make. If done sooner we would have found out which pushy drug salesman and corrupt doctors were responsible for the oxycontin epidemic.
 
 OXY EPIDEMIC
 
-In fact, with open-source software (the free technology that makes programs like Instagram possible), the public could have banded together and made a simple and secure prescription database. This prescription app would cost just a few million to make and operate.
-
-This price tag is free consiering it would have prevented 500,000 doctor prescribed heroin overdoses.
+In fact, with open-source software (the free technology that makes programs like Instagram possible), the public could have banded together and made a simple and secure prescription database. This prescription app would cost just a few million to make. A virtually free price considering it would could have prevented [500,000 doctor prescribed opiod overdoses.](https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States)
 
 But, the people on Main Street didn’t use internet technologies to upgrade our civilization. Instead, we listened to “eight different” bosses drone on about memos and mission statements.
 
-When nagging about TPS reports made us unhappy with our everyday lives we bought bigger TVs, cars, and houses. Many the middle-class got too angry we'd turn to Left and Right politics. We thought marching in a Tea Party parade, or watching a Bernie Sanders political speech, was doing our part to make society better.
+When nagging about TPS reports made us unhappy we bought bigger TVs, cars, and houses. When the middle-class got too angry we'd turn to Left and Right politics. We thought marching in a Tea Party parade, or watching a Bernie Sanders political speech, was doing our part to make society better.
 
 It wasn't.
 
-That's why year after year, the combination of self-interested bureaucrats and Left/Right politcs kept making us unhappier. And now we're paying for it, as we depend on our weakened health-care system to stop this pandemic.
+In fact, the combination of self-interested corporate and government bureaucrats stagnating our society, and Left/Right politics not improving anything kept making us unhappier.
+
+And now we're paying for it. Beause we're depending on our weakened health-care system to stop this pandemic.
 
 PICTURE
 _Over-buying stuff is what average people are told and expected to do. This might as well be Black Friday or Holiday shopping. Today, regular people should be collaborating with health professionals, their co-workers, their family to find out how we can best deal with this storm. We could if we believed in a new philosophy that freed us from heavy bureaucracy, and made us realize our salvation is reaching for new technologies._
 
 ## Our Old Health Care System
 
-In this TED talk, Dr. Alieta Eck talks about working in our medical system. She discusses how much of a let-down being a doctor is today. You see, when she started medical school in the early ’80s, she thought being a doctor meant making deep connections with her patients. She pictured detailed examinations, home visits, and being there when needed most.
+In this TED talk, Dr. Alieta Eck discusses how much of a let-down being a doctor is today. You see, when she started medical school in the early ’80s, she thought being a doctor meant making deep connections with patients. She pictured detailed examinations, home visits, and being there when needed most.
 
 Dr. Eck got something far different. To her sadness, the Main Street economy where customers directly dealt with specialists like carpenters, tailors, and doctors, was long gone.
 
-True to the trend ravaging our economy, what Dr. Eck got was ever more micro-managing bureaucrats. The valued administration of clincs and hopsitals was taken over by bureaucracies. Since 1970, these bureaucrats have created ever more paperwork, guidelines, and manuals to put themselves in between doctors and their patients. That's why our society doesn't have "Medical FaceTime" or “InstaHealth” apps connecting patients directly with their therapists, doctors, nurses, pharmacists, and nutritionists.
+True to the trend ravaging our economy, what Dr. Eck got was ever more micro-managing bureaucrats. Since 1970, the valuable administration of clincs and hopsitals was taken over by bureaucracies. Government and corporate bureaucrats created ever more paperwork to put themselves in between doctors and their patients. That's why our society doesn't have "Medical FaceTime" or “InstaHealth” apps connecting patients directly with their therapists, nurses, pharmacists, nutritionists, and doctors.
 
 These apps would put many micro-managing middlemen out of a job.
 
 ![Health Admins](/img\diagrams\healthcare-administrators.png)
 _"Hello, Peter," memos, and eight different bosses multiplied by 3500%, and trending up no matter which political party we elected into power._
 
-The above is the almost countless government regulators, project managers, hospital administrators, claims adjusters, corporate executives, insurance underwriters, lawyers, and more memos then anyone can imagine. Many of these people are needed. Many are not. All of them have been sucking our health-care system dry for generations while holding back new technologies.
+The above is the almost countless government regulators, project managers, hospital administrators, claims adjusters, corporate executives, insurance underwriters, lawyers, and more memos then anyone can imagine. Many of these people are needed. Many are not. All of them have been sucking our health-care system dry for generations while holding back new technologies from reaching the hands of the middle-class.
 
-We didn’t notice. Too many of us thought being a consumer meant it was okay to assume "they" in the medical system would work for our best interest. Or, we’ve been obsessed with Left/Right politics and thought "fighting for our health-care" meant picking a side for (or against) government or corporate health insurance.
+We didn’t notice. Too many of us on Main Street thought being a consumer meant it was okay to assume "they" in the medical system would work for our best interest. Or, we’ve been obsessed with Left/Right politics and thought "fighting for our health-care" meant picking a side for (or against) policies like Obama-care.
 
-In the end, being a consumer means having to follow the giant rules and regulations of big organizations. And, the Left's ideology of Big Government and the right's ideology of Big Business came together to make a philosophy of of "Big Problems" for Main Street. A 3500% increase in government and corporate middle-men means all our hospital cleaners, nurses, and doctors were being understaffed and underpowered for generations.
+In the end, the Left's ideology of Big Government and the right's ideology of Big Business came together to make a philosophy of Big Problems for Main Street. A 3500% increase in government and corporate middle-men means all our hospital cleaners, nurses, and doctors were being understaffed and underpowered for generations.
 
 > A lab inspector from the state came, and wanted to know who was running this (lab) machine. And she wanted to be sure they all have high-school diplomas. Well, we had RN degrees, MD degrees. That didn't suffice. She wanted to see high-school diplomas. That's an example of mindless bureaucray. Dr. Alieta Eck. https://youtu.be/mafghkNmKgo?t=54
 
-Talk to anyone on the frontline of today’s pandemic and ask them if they feel ready. Surgical masks are running low. Cleaners don't have enough disinfectant chemicals. Our medical system isn't a military operations with calling our the "pandmic plan B" from the playbook. Even with so many bureaucrats, no one was planning for a disaster. It sounds like the mayhem in car and property insurance after storms would hit, so I can sympathize with these brave people.
+Talk to anyone on the frontline of today’s pandemic and ask them if they feel ready. Surgical masks are running low. Cleaners don't have enough disinfectant chemicals. Hand sanitizers are empty. Our medical system isn't a military operation implementing "pandmic plan B" from the playbook. Even with so many bureaucrats, no one was planning for a disaster.
 
-So, despite loyally donating our time and money to the Left or Right in the health-care debate, and spending billions on our system, when our society is being put to the test, we’re all watching CNN or Fox News, buying toilet paper, and hoping for the best. That’s the actions of extras watching the story of their lives instead of being active players in it.
+It sounds like the mayhem in car and property insurance after storms would hit and I'd try to explain to customers why the insurance comany takes their money digitally, but insists on paying claims with paper checks sent via snail mail. 
+
+There is no good reason. But like I said, the powerful won't give the regular people a fair deal if you don't have to.
+
+That's why we're all watching the news waiting to see what happens next. Our jobs, livelihoods, and food supply are up in the air. That’s the actions of extras watching the story of their lives instead of being active players in it.
 
 It’s sad if you think about it.
 
 I mean, a person during the Spanish Flu Pandemic of 1918 got their news on radios and newspapers. What would they say about us doing the same while holding supercomputers, HD cameras, and biometric sensors in our hands?
 
-If you believe in Leftist politics, explain how more regulations, or single-payer health insurance will help us prepare for the next pandemic. Insurance is important, but have a vote on the issue and move on to improving other areas of our health-care system such as comparative analysis of treatments, or making every insurance easier to use.
+If you believe in Leftist politics, explain how more regulations, or single-payer health insurance will help us prepare for the next pandemic. Insurance is important, but have a vote on the issue and move on. There's many other ways to improve our health-care system such as comparative analysis of treatments, or making every insurance easier to use.
 
 If you're a Rightist, ask how many corporate boardrooms want their employees to be financially independent and capable of taking months off work when needed? Practically none is the answer. Then how is more corporate employment the best way to make regular people more secure in the future.
 
-Moreover, the Left's love of a government social safety net, and the Right's dedication to "the markets" as everyone's path to prosperity, is proving itself to be lacking. Assuming it comes at all, government help is weeks away, and hardly a guarantee regular people can depend on. And the stock markets recent plunge wiped out so many personal savings' even though we personally did nothing wrong. Why should regular people depend on undependenablee support systems?
+Moreover, the Left's love of a government safety net, and the Right's dedication to "the markets" is proving itself to be lacking. Neither are guarantees regular people can depend on. Government aid is weeks away, if it comes at all. And the stock markets recent plunge wiped out so many personal savings. Why should regular people depend on such undependenablee support systems?
 
-The truth is at this moment, people need solar panels, stores of food in their cellars, a reliable and local supply system, self-serve education systems, seamless communication with medical professionals, easy tests for the corona virus, and the ability to still make a living even if disaster strikes.
+The truth is, at this moment, people need solar panels, stores of food in their cellars, a reliable and local supply system, self-serve education system, seamless communication with medical professionals, easy tests for the corona virus, and the ability to still make a living even if disaster strikes.
 
-Regular people can have all of this with modern technology. That's the hidden secret of today's society. With todays electronics and software we don't need to depend on Big Government or Big Business.
+Regular people can have all of this with modern technology. That's the hidden secret of today's society. With todays electronics and software we don't need to depend on Big Government or Big Business. We can have it all without the middle-men.
 
-If someone from 1918 were to see us today, the'd marvel at the internet, FaceTime, and Youtube, before commenting that we have the tools of science fiction, just not the way of life yet.
+If someone from 1918 were to see us today, the'd marvel at tings like FaceTime and Youtube. But then they'd comment that we have the tools of science fiction, just not the way of life yet.
 
 Techvolution will give it to us.
 
 ## Segway
 
-Crisis should teach us to evolve. But, every crisis in recent memory, from the [Savings and Loan Crisis](https://en.wikipedia.org/wiki/Savings_and_loan_crisis), [Dot Com Crash](https://en.wikipedia.org/wiki/Dot-com_bubble), and the [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) our politcians borrowed more money, and bailed out more "too big to fail" business to prevent having to admit something was wrong with our society.
+Crisis should teach us to evolve. But, every crisis in recent memory, from the [Savings and Loan Crisis](https://en.wikipedia.org/wiki/Savings_and_loan_crisis), [Dot Com Crash](https://en.wikipedia.org/wiki/Dot-com_bubble), and the [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) our politcians borrowed more money, and bailed out more "too big to fail" manufacturers, insurance companies, and banks, to prevent having to admit something was wrong with our society.
 
-But this pandemic is something else. Printing more money can't kill a virus. Regular people literally can't go shopping to distract themselves from the bad news. After so many crisis were ignored, this one is actually shutting our society down. And, despite doing our jobs and paying our taxes, regular people have no idea what's going to happen next. Our retirement savings, medical plans, food supply, even our livelihoods are levers of power we don't control.
+But this pandemic is something else. Printing more money can't kill a virus. Regular people literally can't go shopping to distract themselves from the bad news. After so many crisis were ignored, this one is actually shutting our society down. And, despite doing our jobs and paying our taxes, regular people have no idea what's going to happen next.
 
-The corona virus shows us how weak Main Street is. We were, and are still, justified to be unhappy with our society. The pain of this crisis tells us how we must evolve.
+Main Street is powerless, because our retirement savings, medical plans, food supply, even our livelihoods are out of our control. On the bright side, the sudden pain of this crisis tells us how we must evolve to take control of our own levers of power.
 
 If you want to assume things will go back to normal soon, then please return to watching television broadcasts. I'm sure Conservative and Progressive commentators and politicians blaming each other for your problems will entertain you for years to come.
 
-Covid-19 is a wake-up call to those who want to hear it. The truth is, it's not good enough anymore for regular people to do their job, go shopping, vote every four years, and assume big government and big business will educate our kids, make a healthy medical system, and provide reliable livelihood.
+Covid-19 is a wake-up call to those who want to hear it. The truth is, it's not good enough anymore for regular people to do their job, go shopping, vote every four years, and assume big government and big business will educate our kids, make a healthy medical system, and provide a reliable livelihood.
 
-Happiness is our right, but it's our duty to pursure it and make it happen.
+It all comes down to this one historical fact. The Industrial Age ended in 1969. The Internet Age started in 1970. Since this handoff, the middle-class has gotten better technology at our fingertips in our private lives. But we haven't done the hard work and update our economics and politics to the modern age.
 
-It all comes down to this one historical fact. The Industrial Age ended in 1969. The Internet Age started in 1970. Since this handoff, the middle-class has gotten better and better technology at our fingertips in our private lives. But we haven't done the hard work and update our economics and politics to the modern age.
-
-As a result, our health-care system, work cultures, and in general, our way of life was held back by the bureaucratic establishment of the Industrial Age.
-
-We could be doing so much better. With digital technology we can unpower the middlemen and empower Main Street. Doctors, adjusters, mechanics, therapists, tailors, educators, everyone with a frontline skill can hold their levers of power once again. That's the only way we can pay down our debts, eliminate nasty commutes, liberate us from micro-management, and deal with horrible pandemics with knowledge and skill instead of fear and loathing.
+We could be doing so much better during this pandemic, but more importantly in our lives. With digital technology we can unpower the middlemen, and empower Main Street. Doctors, adjusters, mechanics, therapists, tailors, educators, everyone with a frontline skill can hold their levers of power once again. That's the only way we can pay down our debts, eliminate nasty commutes, liberate us from micro-management, and deal with horrible pandemics with knowledge and skill instead of fear and loathing.
 
 To get to this new world, Main Street needs a new philosophy.
 
-Here it is. Its big lesson is this. The middle-class must grab hold of apps, computers, and the internet to solve our problems now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on the fumes of Left/Right ideology.
+Here it is. Its big lesson is this. The middle-class must grab hold of apps, computers, and the internet to solve our problems now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on the fumes of Left and Right philosophy.
 
 ## Table of Contents
 
@@ -224,7 +226,7 @@ I used many images and videos throughout the book. My reasons are twofold: visua
 
 Also, I use pop culture references such as those of Star Wars, Star Trek, Harry Potter, and computer games (e.g. Civilization). If you're not a fan, don't worry too much. If we were in Ancient Greece, I'd use Greek Mythology. If we were in Victorian Britain, I'd use Shakespeare. Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. Of course, all due credit goes to the media's owners.
 
-Also I'm still getting feedback on this book, so if you notice anything amiss, please let me know.
+Also, I'm still getting reader feedback, so if you notice anything amiss, please let me know.
 
 # Introduction
 
@@ -238,7 +240,7 @@ On the contrary, you see, exercising, composting, teaching your kids to prepare 
 
 The question is, how do we increase your powers. The answer, we'll find out in this book, is better technology, and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy." It's about making you powerful so you can earn your happiness.
 
-Our way of life is trying to evolve into the Internet Age. But, the established powers of the Industrial Age have been holding us back. Our society's ability to deal with life's inevitable pitfalls (like pandemics) will only get worse until we completely change what you think is politics.
+For decades, our way of life has been trying to evolve to the Internet Age. But, the established powers of the Industrial Age have been holding us back. Our society's ability to deal with life's inevitable pitfalls (like pandemics) will only get worse until we completely change what you think is politics.
 
 Thus, this current state of affairs, gives the middle class a unique opportunity to learn a big lesson.
 
@@ -425,21 +427,21 @@ Writer David Mamet once said being free from trying to please a group means bein
 
 **How to See the Matrix**: To write Techvolution, I used Aristotle's Poetics to better understand Hegelian dialectics, and then I added some evolutionary biology. If that bores you to pieces, that's cool, you don't need to read more about it. But just so you know, Techvolution is based on a full-blown philosophy that I'll explain in another book called _How to See the Matrix_.
 
-**No More Magic - The End of Movies**: I learned about the tranistion from Industrial Age to the Internet Age, by studying the movie industry. Like Silicon Valley is today, Hollywood was once a pillar of innovation. By mastering modern technology "the movies" became an affordable and fun night out for the middle class. Now we've almost forgotten what movie seats feel like. All because the industry used Internet Age technologies to over sell blockbusters instead of telling better stories like HBO or Netflix. _No More Magic_ looks behind the curtain of a dying Industrial Age industry, and foreshadows what's to come if more of our industries don't upgrade soon._
+**No More Magic - The End of Movies**: I learned about the tranistion from Industrial Age to the Internet Age, by studying the movie industry. Like Silicon Valley is today, Hollywood was once a pillar of innovation. By mastering modern technology "the movies" became an affordable and fun night out for the middle class. Now we've almost forgotten what movie seats feel like. All because the industry used Internet Age technologies to over sell blockbusters instead of telling better stories like HBO or Netflix have done so well. _No More Magic_ looks behind the curtain of a dying Industrial Age industry, and foreshadows what's to come if more of our industries don't upgrade to the Internet Age soon._
 
-**The 2008 Economic Crisis Was Only the Beginning**: The 2008 housing, financial, and economic crises was a big shock to most people. But it needed have been. 2008 was a lesson that we can't keep the Industrail Age alive forever.
+**The 2008 Economic Crisis Was Only the Beginning**: The 2008 housing, financial, and economic crises was a big shock to most people. In fact, 2008 was a warning that we can't keep the Industrial Age alive forever.
 
-That's why the image for this article is the people of the "player god" waking up, while the leader is looking up in sadness. His time in the sun is over. Because like the sword and septre of the Medieveal Age leaders were replaced as the ultimate levers of power. The Industrial Age levers of great bank, insurance, and other  builings, are also being replaced by a distributed economy.
+That's why the image for this article is the people of the Industrial Age "player god" waking up, while the leader is looking up in sadness. His time in the sun is over, because like the sword and septre of the Medieveal Age leaders were replaced as the ultimate levers of power, in 2008 we should have learned levers of great bank, insurance, and other large office builings, were being replaced by a distributed "Main Street" economy.
 
-I was writing this in 2006 and finished up in 2009. Like _A New Philosophy_ it says 2008 it was an inevitable death of an old age, but is more crude in doing so.  
+I was writing this article in 2006 and finished up in 2009. Like _A New Philosophy_ it says we need to upgrade our way of life to digital technology, but is more crude in doing so.  
 
 ===
 
 _Techvolution A New Philosophy_ has a very high goal. So, I want to be crystal clear about its purpose. We're in the new and wondrous Internet Age. But we're still using the philosophy of the Industrial Age to run our society. Conservatism (1791), and Progressivism (1859) philosophy cards were clicked many years ago. It's thus no longer good enough for Main Street to watch infotainment news, donate to a social cause, march in a demonstration, and think they're improving the world.
 
-To make a difference, we need a new ruling philosophy. One built on the accomplishments of our past, but that factors in the wondrous possibilities of digital technology. Our new way of thinking must unite Main Street to again see the big picture; that we're all player gods whose choices determine the health of our society. We must still vote and debate what's best for our community. But reaching for the Internet Age levers of power is our most potent political power. When we hold them, we, the people on Main Street, will solve our problems and live happy lives.
+To make a difference, we need a new ruling philosophy. One built on the accomplishments of our past, but that factors in the wondrous possibilities of digital technology. Our new way of thinking must unite Main Street to again see the big picture; that we're all player gods whose choices determine the health of our society. We must still vote and debate what's best for our community. But reaching for the Internet Age levers of power is our most potent political power. When we hold them, we, the people on Main Street, will solve our problems and live happy lives in a improving society.
 
-With great power comes great responsibility—that's why the duty to solve our growing problems also requires the freedom to choose any tool we want.
+With great power comes great responsibility—that's why the duty to solve our growing problems also requires the freedom to choose any tool we want. Employees and consumers have to turn into specialists and collaborators who control and care about their contributions to society.
 
 Tools can be anything: a thermal camera to spot leaky windows, the Waze app to lessen traffic congestion, or 3D printing a tool to sell to a neighbor. The desire to seek out new tools is human evolution. Civilization evolves when its members adapt a modern philosophy telling them to become a player god of the modern age. We've upgraded our philosophy many times before, and it's simply time to do it again.
 
@@ -455,7 +457,7 @@ _Like magic, or even the Force, this machine can make hammers, wrenches, replace
 
 The Internet Age seeded itself a long time ago. Starting way back in 1843, inventors like Ada Lovelace, Vannevar Bush, and Alan Turing were building the first experimental computers. At the same time, writers like H.G. Wells, Isaac Asimov, and Gene Roddenberry imagined what life would be like once the Industrial Age ended and advanced computers ruled the world.
 
-These authors' stories, such as _War of the Worlds_, _I, Robot_, and _Star Trek_ thought of a future so hard to grasp people called it science fiction. Then came the 1970s; when personal computers, microprocessors, the internet, and other digital technology became real products, anyone could buy. Here started the Internet Age, and it transformed the world just as much as science fiction said it would.
+These authors' stories, such as _War of the Worlds_, _I, Robot_, and _Star Trek_ thought of a future so hard to grasp people called it science fiction. Then came the 1970s; when  microprocessors, personal computers, the internet, and other digital technology became real products anyone could buy. Here started the Internet Age, and it transformed the world just as much as science fiction said it would.
 
 With every purchase, renovation, and birthday gift since 1970, we've been filling our society with fundamentally different technology. It's easy to under-appreciate how just a laptop can be so many machines: a typewriter, radio, recorder, book, television, photo album, database, calculator. In contrast, mechanical tools of the Industrial Age are single-use, can't be easily shared, and need many workers and managers to work.
 
@@ -660,9 +662,9 @@ _Our civilizations have always had problems. It’s up to regular people to use 
 
 The Coronavirus Pandemic is a sign of things to come. We've been running on the old ideological fumes of the Industrial Age for generations. I can't think of a better time to upgrade then now.
 
-Unfortunately, unlike in computer games, in the real "tech tree" of new technologies and policies, we don't merely press "upgrade." When the time comes. We have to overcome the power brokers of the past. In the way of our better life inside the Internet Age is the philosophy of mass-production, Left/Right politics, and our nemesis, Darth Blockbuster.
+Unfortunately, unlike in computer games, in the real "tech tree" of new technologies and policies, we don't merely press "upgrade." When the time comes. We have to overcome the power brokers of the past. Stopping our progress into the Internet Age is the philosophy of mass-production, Left/Right politics, and our nemesis, Darth Blockbuster.
 
-Here's how to walk past them, and press upgrade on the Internet Age.
+Here's how to walk past them, and press upgrade to a better way of life.
 
 Walking past Lumburgh?
 
@@ -676,9 +678,9 @@ Before you wonder, it wasn't a matter of price, because there was no price. It w
 
 I was right to. They were good ideas. I figured out how to solve a problem and save 100 million dollars, 300,000 hours of worker productivity, and even dozens of lives. All I did was enable worker-to-worker collaboration with an app that was virtually free. Why wouldn't I want to tell people about the theory behind it?
 
-Sadly, I was a fool. I didn't know it at the time, but I wasn't even knocking on doors. I was knocking on gates. See, I wasn't talking to frontline workers (who thanked me). But to the layers of bureaucrats, lawyers, managers, and executives who were well paid to "meet, discuss, delegate" work around "garbage problems." As holdovers from the obsessive management of the Industrial Age, I went against all they stood for; solving their problems was asking them to fire themselves. Worse, I was asking them to invalidate their identity as being "superiors." It's why they put up gates to shut out Internet Age innovation. In their mind, the levers of power, even small ones, are theirs by right.
+Sadly, I was a fool. I didn't know it at the time, but I wasn't even knocking on doors. I was knocking on gates. See, I wasn't talking to frontline workers (who thanked me). But to the layers of bureaucrats, lawyers, managers, and executives who were well paid to meet, discuss, delegate about "garbage problems." As holdovers from the obsessive management of the Industrial Age, I went against all they stood for; solving industry problems was asking them to fire themselves. Worse, I was asking them to invalidate their identity as being "superiors." It's why they put up gates to shut out Internet Age innovation. In their mind, the levers of power, even small ones, are theirs by right.
 
-In retrospect, all this antagonism was damn exciting. I was standing at a historic moment in time. Here the Industrial Age was taking its last stand against human evolution.
+In retrospect, all this antagonism was very exciting. I was standing at a historic moment in time. Here the Industrial Age was taking its last stand against human evolution.
 
 That's why the head office people never said no to me. No needs a reason. Instead, they simply said it was against the rules to say yes. You know—those obscure rules, hidden inside regulations and contracts. They believed in the rules, especially the one against frontline workers acting with initiative, holding their own levers, and taking out their own garbage, so to speak.
 
@@ -688,7 +690,7 @@ I don't want to dwell on my experience too much. All that's important is this. T
 
 So instead, I'm going to talk about winning the war. Our hospitals, schools, repair-shops, government bureaucracies—our entire way of life is being held back from the Internet Age by a group of self-entitled holdovers of the Industrial Age.
 
-To help us win the game, I learned my lesson and wrote this book. Because despite already having the digital technology to improve our lives, antagonists maintain gates all over the place to protect the pre-digital "Woodstock of 1969" way of life. They know—even if subconsciously—they lose their coveted managerial status, executive positions, and superiority complexes in an Internet Age mass-collaboration economy. Being held back from this brighter future is why our lives can be so unhappy. To improve our days then, the people need a new ruling philosophy... one that says improving our society is the only rule that matters.
+To help us win the game, I learned my lesson and wrote this book. Because despite already having the digital technology to improve our lives, antagonists maintain gates all over the place to protect the pre-digital "Woodstock of 1969" way of life. They know—even if subconsciously—they lose their coveted managerial status, executive positions, and superiority complexes when Main Street returns in a mass-collaboration economy. Being held back from this brighter future is why our lives can be so unhappy. To improve our days then, the people need a new ruling philosophy... one that says improving our society is the only rule that matters.
 
 ## To Upgrade Our Civilization We Need To Reach for the Tools
 
@@ -702,14 +704,14 @@ Our hero fights hard to defeat the bad guys, but his superior morality, justice,
 
 Will our hero reach it first, or will the enemy? We, in the audience, like extras in the story, hold our breath because the story's society is controlled not by marches, protests, or rules, but by which character holds the tools. The wielder is the victor. The victor writes the rules. It's the lesson that we the people need to learn for ourselves.
 
-Because when we reach for and hold the levers of power, we stop watching our civlization on television, radio, marches and parades, and start playing it. Only then will we be player gods of the Internet Age.
+Because only when we reach for and hold the levers of power, do we stop watching our civlization on television, radio, marches and parades, and start playing it. Only when we hold our levers of power will we be player gods of the Internet Age.
 
 ![levers of power](/img\diagrams\techvolution-levers-of-power.jpg)
 _Levers of power. Whoever controls them, wins._
 
 ## Player Gods Reach for the Tools and Don't Chase Phantoms
 
-Many people know what a revolution is. The difference between it and Techvolution is a revolution fights to change the rule-makers, while Techvolution fights to distribute new levers of power. Techvolution is better. Because if you still think the rules, regulations, and laws of society control our destiny you're wrong. They don't. I'll show you why.
+Many people know what a revolution is. The difference between it and Techvolution is a revolution fights to change the rule-makers, while Techvolution fights to distribute new levers of power. Techvolution is better. Because if you still think the rules, regulations, and laws of society control our destiny you're wrong. They don't, and I'll show you why.
 
 Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll say something like, "if the red team wins this one, then education, healthcare, infrastructure, and everything else will go to shit." What he means is elections decide the rule-makers, and that blue rules make a good society while red rules make a bad one.
 

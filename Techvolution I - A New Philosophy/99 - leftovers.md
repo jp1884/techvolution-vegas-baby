@@ -2557,28 +2557,34 @@ Here is our new philosophy. Its big lesson is this. The middle-class must grab h
 
 ## Feedback
 
-- The third one seems to be the most “realistic” depiction – the sketch is so good someone might almost mistake it for a photograph.  (Just curious: Is the layer of detail or different style of sketching symbolic, e.g. in that the “Starfleet” is likewise advanced?)
-A: The drawing is us as seen through the new telescope/Life Star. Big data and other modern tech will be like a mirror to us. It will show us the conseqences of our actions, and thus let us evaluate ourselves according to the scientic method. So we can stop arguing whose methods are the best (liberalism, socialism, etc.) and start making decisions like a physicist would, based on the latest data from the Life Star.
+Below is the responses to your questions from the prior manuscript
 
-- I don’t think this is necessary. You don’t have to “explain” yourself to the reader for the metaphors you choose to use. The very next sentence in the paragraph is justification enough. 😊
-- I did this to juxtapose Internet Age v. Industrial Age. Being that the owners of the former group would love to have helped me write this book, while the latter group might look to sue for some reason. It's my comment on how heavy handed and silly I think modern copyright is. You can only enforce it if you're rich, which i think says it all. As one friend told me "we just right stuff and wait to get sued for it".
+- Comment: The third one seems to be the most “realistic” depiction – the sketch is so good someone might almost mistake it for a photograph.  (Just curious: Is the layer of detail or different style of sketching symbolic, e.g. in that the “Starfleet” is likewise advanced?)
+- Reply: Yep. The Starfleet drawing is humanity as seen through the new telescope/Life Star (that's why it's a circle, as if we're looking into our future). Meaning, we'll have far more clarity about ourselves because big data and other modern tech will be like a mirror to us. The Life Star will show us the conseqences of our actions, and thus let us evaluate ourselves according to the scientic method. So we can stop arguing whose methods are the best (liberalism, socialism, antheism, Christianity, etc.) and start making decisions like a physicist would, based on the latest data from the Life Star.
 
-- Again, I prefer “opportunity” over “deal” – mostly because I can’t envision the other party on the side of the deal (it takes two to make a deal, yes?).
+- Comment: I don’t think this is necessary. You don’t have to “explain” yourself to the reader for the metaphors you choose to use. The very next sentence in the paragraph is justification enough.
+- Reply: I mentioned YouTube creators, and Star Wars, Harry Potter copyright owners at the start to juxtapose Internet Age v. Industrial Age. Since the owners of the former group would likely love to be mentioned and have helped me write this book, the latter group might look to sue for self-interest. It's my comment on modern copyright, and how it's abused to inhibit creation, instead of promote it.
 
-- It makes sense, but the "deal" we are making when making a new political community/player god of say the United States of American in 1776, is with each other. Both ideas apply though.
+- Comment: Again, I prefer “opportunity” over “deal” – mostly because I can’t envision the other party on the side of the deal (it takes two to make a deal, yes?).
+- Reply: It makes sense, but the "deal" we are making when making a new political community/player god (for example the United States of American in 1776), is with each other. Both terms apply though.
 
-I really like how you’ve stuck with one metaphor here, and commit to it consistently – e.g. “upgrade” fits perfectly with “game.” 😊
+- Comment: I couldn’t find this quote online – can you point it out to me?
+- Reply: I think there's better ones, but below is what I found. It's from "On Directing Film" which is a book you'd probably like btw. It's where I learned the most about Aristotle's Poetics.
+[If your objective is to succeed in the (movie) "industry," your work, and your soul, will be exposed to these destructive influences. If you desperately crave acceptance by that industry, you will likely become those things..It's a good thing that the people in Hollywood have no souls, so that they don't have to suffer through the lives they lead.]
 
--Thanks. But it's not a metaphor, at least it won't be in the future. The game is what we always play. It just easy to forget and not realize it. The Life Star will let us play the game better.
+- Comment: Hmm. I totally see what you mean here, but I’ve been conditioned to think of “power-hungry” as a negative thing for so long (power-hungry politicians and rulers often aren’t a good omen for their country’s/people’s future…) and perhaps your readers might too. Maybe even just add something like “power-hungry and well-meaning”? Then again, maybe your point is to just redefine how we all think about “power”. Not sure. What do you think?
+- Reply: I know what you mean, I changed the language a bit. Although, personal power is another word for personal freedom because you can't have one without the other. So when i say power-hungry, I also mean being freedom-loving. After all, without the power of their muskets, the descendents of Revolutionary Minutemen might still be Canadians :) The trick is to be sure, the holders of power, don't use it to deprive other people. And that's why the ruling philosophy is so important. It must work to create more personal freedom, so individuals don't have to take it from others.
 
-I couldn’t find this quote online – can you point it out to me?
-- I think there's better ones, but below is what I found. It's from "On Directing Film" which is a book you'd probably like btw.
- [If your objective is to succeed in the (movie) "industry," your work, and your soul, will be exposed to these destructive influences. If you desperately crave acceptance by that industry, you will likely become those things.]
+- Comment: I’m not sure how relevant these images are in exemplifying people “overcoming” problems. I think they should be, because all the other visuals thus far have been very on-point. It might make more sense to show technology that’s cleaning oceans, technology that’s helping blind people see (braille), technology that’s launching us into space, technology that allows self check-out at the store, etc…
+- Reply: This was great advice.
 
-["It's a good thing that the people in Hollywood have no souls, so that they don't have to suffer through the lives they lead."]
+## Backpage 2
 
-Hmm. I totally see what you mean here, but I’ve been conditioned to think of “power-hungry” as a negative thing for so long (power-hungry politicians and rulers often aren’t a good omen for their country’s/people’s future…) and perhaps your readers might too. Maybe even just add something like “power-hungry and well-meaning”? Then again, maybe your point is to just redefine how we all think about “power”. Not sure. What do you think?
-- I know what you mean, I changed the language a bit. Although, I think power is just another word for freedom. You can't have one without the other. Without their muskets, the descendents of Revolutionary Minutemen might be Canadians :) The trick is to be sure, the holders of power, don't use it to deprive other people. And that's why the philosophy that inspires us is so important. It must create freedom, so we don't have to take it from others.
+These "eight different bosses" gave us unhappy lives. We are wrong to live with it. Because it wasn't only our lives that were being hurt. Our society was being wounded too. Now, instead of using the good times to create a more productive, prepared, and antifragile way of life, we have a scared population, massive economic decline, and general uncertainty in society.
 
-I’m not sure how relevant these images are in exemplifying people “overcoming” problems. I think they should be, because all the other visuals thus far have been very on-point. It might make more sense to show technology that’s cleaning oceans, technology that’s helping blind people see (braille), technology that’s launching us into space, technology that allows self check-out at the store, etc…
-- This was great advice.
+Many prople on Main Street through they were fighting for a better society. We thought marching in Tea Party parade, or watching a Bernie Sanders political speech was going our part to make things better. It wasn't, and it still isn't.
+
+The truth is, to upgrade our lives and our society, we need to upgrade our philosophy.
+
+A lab inspector from the state came, and wanted to know who was running this (lab) machine. And she wanted to be sure they all have high-school diplomas. Well, we had RN degrees, MD degrees. That didn't suffice. She wanted to see high-school diplomas. That's an example of mindless bureaucray. Dr. Eck.
+https://youtu.be/mafghkNmKgo?t=54
