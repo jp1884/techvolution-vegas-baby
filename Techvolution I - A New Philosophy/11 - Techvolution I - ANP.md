@@ -58,7 +58,7 @@ What characteristics is this new disease targetting? Blood types, genetics, diet
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/DemandingImpureBobwhite' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_Please enable sound. Credit JRE Clips._ https://www.youtube.com/watch?v=9PwTgpTlJBg
+_Please enable sound._[Credit JRE Clips.](https://www.youtube.com/watch?v=9PwTgpTlJBg)
 
 I hope your risk factor is good. But, if you're in trouble, what does your nurse or doctor say to do? Don't tell me, but I hope it was at least calming to hear specialized medical advice.
 
@@ -95,7 +95,7 @@ It's our own fault our society is shutting down during this coronavirus pandemic
 Should we really have expected better?
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/JitteryBrokenFlickertailsquirrel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-_Please enable the sound._
+_Please enable the sound._ [Credit Office Space](https://en.wikipedia.org/wiki/Office_Space)
 
 ## Unhappy is a Sign of an Unhealthy Society
 
@@ -149,7 +149,7 @@ We didn't notice it. Too many of us on Main Street thought being a consumer mean
 
 In the end, the Left's ideology of Big Government and the right's ideology of Big Business came together to make a philosophy of Big Problems for Main Street. A 3500% increase in government and corporate middlemen means hospital cleaners, nurses, and doctors have been understaffed, underfunded, and underpowered for generations.
 
-> A lab inspector from the state came and wanted to know who was running this (lab) machine. And she wanted to be sure they all have high-school diplomas. Well, we had RN degrees, MD degrees. That didn't suffice. She wanted to see high-school diplomas. That's an example of mindless bureaucracy. _Dr. Alieta Eck._ https://youtu.be/mafghkNmKgo?t=54
+> A lab inspector from the state came and wanted to know who was running this (lab) machine. And she wanted to be sure they all have high-school diplomas. Well, we had RN degrees, MD degrees. That didn't suffice. She wanted to see high-school diplomas. That's an example of mindless bureaucracy. [Dr. Alieta Eck.](https://youtu.be/mafghkNmKgo?t=54)
 
 Talk to anyone on the frontline of today's pandemic and ask them if they feel ready. Surgical masks are running low. Cleaners don't have enough disinfectant chemicals. Hand sanitizers are empty. Even with so many bureaucrats, no one was planning for a disaster.
 
@@ -175,21 +175,21 @@ If someone from 1918 were to see us today, they'd marvel at FaceTime and Youtube
 
 Techvolution will give it to us.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/UnevenDiligentGreendarnerdragonfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/UnevenDiligentGreendarnerdragonfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div> [Credit: Rossman Repair Group](https://www.youtube.com/watch?v=VJ_TGoqVoM8)
 
 ## Segway
 
-A crisis should teach us to evolve. But, so many big problems in recent memory, from the [Savings and Loan Crisis](https://en.wikipedia.org/wiki/Savings_and_loan_crisis), [Dot Com Crash](https://en.wikipedia.org/wiki/Dot-com_bubble), and the [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) our politicians borrowed more money. They bailed out more "too big to fail" manufacturers, insurance companies, and banks, to prevent having to admit something was wrong with our society.
+A crisis should teach us to evolve. But, the many in recent memory, from the [Savings and Loan Crisis](https://en.wikipedia.org/wiki/Savings_and_loan_crisis), [Dot Com Crash](https://en.wikipedia.org/wiki/Dot-com_bubble), and the [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) our politicians borrowed more money instead. They bailed out more "too big to fail" manufacturers, insurance companies, and banks, to prevent having to admit something was wrong with our society.
 
 But this pandemic is something else. Printing more money can't kill a virus. Regular people literally can't go shopping to distract themselves from the bad news. After so many crises were ignored, this one is actually shutting our society down.
 
 If you want to assume things will go back to normal soon, then please return to watching television broadcasts. I'm sure Conservative and Progressive commentators and politicians blaming each other for your problems will entertain you for years to come.
 
-Covid-19 is a wake-up call to those who want to hear it. The truth is regular people need to step up. Doing our job, shopping a lot, voting every four years is enough to get a healthy society. We can't assume nig government and big business will educate our kids, make a healthy medical system, and provide a reliable livelihood.
+Covid-19 is a wake-up call to those who want to hear it. The truth is regular people need to step up. Doing our job, shopping a lot, voting every four years is not enough to earn a healthy society. We can't assume big government or big business will educate our kids, make a healthy medical system, and provide a reliable livelihood.
 
 It all comes down to this one historical fact. The Industrial Age ended in 1969. The Internet Age started in 1970. Since this handoff, the middle-class has gotten better technology in our private lives. But we haven't updated our politics to the modern age.
 
-We could be doing so much better during this pandemic and in our lives. With digital technology, we can unpower the middlemen, and empower Main Street. Doctors, adjusters, mechanics, therapists, tailors, educators, everyone with a frontline skill can hold their levers of power once again. Only then will we pay down our debts, eliminate nasty commutes, erase micro-management, and deal with pandemics with skill.
+We could be doing so much better during in our lives. With digital technology, we can unpower the middlemen, and empower the specialists on Main Street. Doctors, mechanics, therapists, tailors, educators, everyone with a frontline skill can hold their levers of power once again. Only then will we pay down our debts, eliminate nasty commutes, erase micro-management, and deal with pandemics with professionalism.
 
 To get to this new world, Main Street needs a new philosophy.
 
@@ -283,6 +283,7 @@ You'll be the "player god" of a civilization. A virtual divinity who knows all a
 Pressing that most important button magically transforms every factory, hospital, road, house, citizen, to the technology of the modern era. Below, you'll see a person being the player god in the game _Anno 1800_.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GrandioseTinyApisdorsatalaboriosa' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+Credit: [Anno 1800](https://www.youtube.com/watch?v=EchYL334T7Q)
 
 The above is a computer game, of course, but it represents reality pretty well. We're all in there somewhere right now, trying to figure out how to earn a living while the game plays around us.
 
@@ -312,7 +313,7 @@ Today, we're all looking up from Main Street, trying to figure if Donald Trump i
 
 Our questions never stop. Should the government-run health insurance, or a big corporation regulated by the government? Is climate change real? If the world is suffering so bad, why do "green" obsessed workplaces force us to drive instead of telecommuting?
 
-And now, during this pandemic, many of us have (or soon will) stopped asking questions and started looking for better answers.
+And now, during this pandemic, many of us have stopped asking questions and started looking for better answers.
 
 Wouldn't it be cool if we could better decide between good and bad politics? After all, we're each a part of the player god as much as anyone else. Helping people understand why there's so much hate in our politics is one reason I wrote this book. But my primary motivation is creating Main Street's new philosophy.
 
@@ -320,9 +321,14 @@ One that bypasses today's "current events" news cycle, and childish bickering of
 
 Because only when we control our own fates, will we finally enjoy the greater personal security, freedom, dignity, productivity, and happiness, of the glorious Internet Age.
 
-## Politics Are a Moving Target Because You're the One Who's Moving
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PertinentObviousArrowcrab' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+Please enable sound. [Credit: Civilization 6](https://www.youtube.com/watch?v=yKUFvo3_FYQ)
 
-We create philosophies to organize civilization so it can "play the game". There are always plenty of philosophies to choose from. The player god—we, collectively—must pick one that empowers its members to use modern technology to solve real-life problems. Only then will society live a good life.
+## Good Politics Is a Moving Target Because You're the One Who's Moving
+
+In the real-world, we can't play the game of civilization all by ourself. Leaders, inventors, workers all need to be united by a common understanding. Thus we create philosophies to organize civilization so we can "play the game" together.
+
+There are always plenty of philosophies to choose from. The player god—we, collectively—must pick one that empowers its members to use modern technology to solve real-life problems. Only then will society live a good life.
 
 When a player in a computer game upgrades technology, we can see the changes. Installing a sewer, damming a river, building a road, is very obvious. But we can't see philosophy change so easily; because it's our minds that evolve.
 
@@ -330,13 +336,12 @@ Detaching yourself from the current ruling philosophy can be hard too. I know it
 
 We pick and choose them as we play to win the game:
 
-SEAN BEAN
-
-For example, we all believe in universal equality, where we all have the right to"Life, liberty, and the pursuit of happiness." But what does that mean in everyday life? We invented ideologies to give people political guidelines. Conservative or Progressive. Libertarian or Socialist. Republican or Democrat. Each ideology supports "Life, liberty, and the pursuit of happiness." But goes into detail by giving a list of specific policies to fight for (or against) like free health-care or unconditional gun-rights.
+For example, we all believe in universal equality, where we all have the right to"Life, liberty, and the pursuit of happiness." But what does that mean in everyday life? We invented ideologies to give people political guidelines. Conservative or Progressive. Libertarian or Socialist. Republican or Democrat. Each ideology supports "Life, liberty, and the pursuit of happiness" but goes into detail by giving a list of specific policies to fight for (or against) like free health-care or unconditional gun-rights.
 
 Supposedly we all want the same thing—life, liberty, health, happiness, and prosperity—right? What differs is our approach.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ThickSecondaryChrysomelid' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MindlessMarriedGharial' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+Please enable sound. [Credit: Civilization 6](https://www.youtube.com/watch?v=3NLoDMsqJkE)
 
 The video above shows a "tech tree" of new technologies, tools, civic, and philosophy upgrades. All games use them to give the player the choice of which elements to use in their game.
 
@@ -368,8 +373,9 @@ A bit heavy to pull on your parental heartstrings, but it's true. Life on Main S
 
 Don't worry. We can finish the Internet Age upgrade. Even now, during this pandemic, we can start to upgrade our way of life. People only need to believe in a new philosophy that teaches us our innate power as player gods.
 
-ANNO 1800 happiness video
-_When playing a civilization-building game, players must change their policies to get happier citizens. The difference in real-life is there is no "player" except you and your friends who must change things._
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MellowGloriousIndianelephant' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+_When playing a civilization-building game, players must change their policies to get happier citizens. The difference in real-life is there is no "player" except you and your friends. It's up to you to change things._ [Credit: Anno 1800.](https://www.youtube.com/watch?v=-EHuL2x5bOs)
 
 ## We Upgrade our Politics Now, or We Lose the Game
 
@@ -427,17 +433,15 @@ Writer David Mamet once said being free from trying to please a group means bein
 
 **III. Starting Starfleet**: Once we can see ourselves in the "Life Star telescope" we'll use tt to design digital tools detached from the Industrial Age. As the Industrial Age's material abundance helped us live in so-called "perpetual peace," Internet Age products will make our lifestyle one of "perpetual profit." We'll send the massive savings to Musk and his protegees and hence jumpstart the Space Exploration Age—or as I like to say, "Start Starfleet."
 
-**How to See the Matrix**: To write Techvolution, I used Aristotle's Poetics to better understand Hegelian dialectics, and then I added some evolutionary biology. If that bores you to pieces, that's cool, you don't need to read more about it. But just so you know, Techvolution is based on a full-blown philosophy that I'll explain in another book called _How to See the Matrix_.
+**How to See the Matrix**: To write Techvolution, I used Aristotle's Poetics to better understand Hegelian dialectics, and then I added some evolutionary biology because I think the fields are similar if not the same. If that bores you to pieces, that's cool, you don't need to read more about it. But just so you know, Techvolution is based on a full-blown philosophy that I'll explain in another book called _How to See the Matrix_.
 
 **No More Magic - The End of Movies**: I learned about the transition from the Industrial Age to the Internet Age by studying the movie industry. Like Silicon Valley is today, Hollywood was once a pillar of innovation. By mastering modern technology, "the movies" became an affordable and fun night out for the middle class. Now we've almost forgotten what movie seats feel like. All because the industry used Internet Age technologies to oversell blockbusters instead of telling better stories like HBO or Netflix have done so well. _No More Magic_ looks behind the curtain of a dying Industrial Age industry, and foreshadows what's to come if more of our industries don't upgrade to the Internet Age soon._
 
 **The 2008 Economic Crisis Was Only the Beginning**: The 2008 housing, financial, and economic crisis was a big shock to most people. In fact, 2008 was a warning that we can't keep the Industrial Age alive forever.
 
-That's why the image for this article is the people of the Industrial Age "player god" waking up, while the leader is looking up in sadness. His time in the sun is over. Like the sword and scepter of the Medieval Age were replaced as the ultimate levers of power, in 2008, the levers of the great bank, insurance, and other large office builings were being replaced by a distributed "Main Street" economy.
+That's why the image for this article is the people of the Industrial Age "player god" waking up, while the leader is looking up in sadness. His time in the sun is over. Like the sword and scepter of the Medieval Age were replaced as the ultimate levers of power by muskets of a civilizian military and the gavel of a fair justice. In 2008, the levers of the great bank, insurance, and other large office builings were failing.
 
-They got (temporarily) bailed out instead.
-
-I was writing this article in 2006 and finished up in 2009. Like _A New Philosophy_, it says we need to upgrade our way of life to digital technology but is cruder in doing so.  
+They got (temporarily) bailed out, because the game of civilization wanted us to upgrade to the era of mass-collaboration in a Main Street economy. I was writing this article in 2006 and finished up in 2009. Like _A New Philosophy_, it says we need to upgrade our way of life to digital technology but is cruder in doing so.  
 
 ===
 
@@ -445,11 +449,9 @@ _Techvolution A New Philosophy_ has a very high goal. So, I want to be crystal c
 
 To make a difference, we need a new ruling philosophy. One built on the accomplishments of our past, but that factors in the wondrous possibilities of digital technology.
 
-So, like how we demand voting and property rights. And how we think we must stand up against racism and sexism. We have to now develop new rights to protect people from finding new and more efficient ways to run our civilization.
+So, like how we demand voting and property rights. And how we feel obliged to stand up against racism and sexism. We now have to add new rights so regular people are protected when finding new and more efficient ways to run our civilization. Because it's our duty to see the big picture. That we're all player gods whose life choices determine the health of our society.
 
-Because the big picture is we're all player gods whose choices determine the health of our society. It's only by reaching for the Internet Age levers of power will Main Street solve our problems and live happy lives again.
-
-With great power comes great responsibility—that's why the duty to solve our growing problems also requires the freedom to choose any tool we want. 
+In short, with great power comes great responsibility—that's why the duty to solve our growing problems also requires the freedom to choose any tool we want.
 
 Tools can be anything: a thermal camera to spot leaky windows, the Waze app to lessen traffic congestion, or 3D printing a tool to sell to a neighbor. The desire to seek out new tools is human evolution. Civilization evolves when its members adopt a modern philosophy telling them to become a player god of the modern age. We've upgraded our philosophy many times before, and it's simply time to do it again.
 
@@ -476,7 +478,7 @@ Digital devices enable a new philosophy, one that fosters not a competition, but
 Now, several generations into the Internet Age, items like smartphones, laptops, and smartwatches are everywhere. That's why the collaboration websites like WikiHow, Facebook, and YouTube integrate so easily into our lives. Collaboration is today's big picture, the basic principle of the Internet Age's new philosophy. The people who understand this best are the open-source community.
 
 ![old philosophy in a new world]((https://www.deviantart.com/philipstraub/art/Command-and-Conquer-Concept-Art-406881632)
-_The land of perpetual profit. We're never going to get there with Left/Right politics. By Philip Straub._
+_The land of perpetual profit. We're never going to get there with Left/Right politics. [Credit: Philip Straub](https://www.deviantart.com/philipstraub/art/Command-and-Conquer-Concept-Art-406881632)._
 
 ## Open-Source Protagonists Are Pushing Us Into the Internet Age
 
@@ -498,7 +500,7 @@ Freedom needs power to defend it. Today, player gods can earn it with owning mod
 
 https://www.instagram.com/p/B9qC71BJcfQ/?utm_source=ig_web_copy_link
 
-_Open-source loves to topple gates and let anyone post their blogs or music videos. However, levers of power don't always have to be complicated. That's why modern political "power" isn't dictatorial power over our neighbors. Player gods are hungry for their own libery and thus true power are the necessities of life. This makes is so much harder for dictators to control you and your community. And, happily makes disasters less scary._
+_Open-source loves to topple gates and let anyone post their blogs or music videos. However, levers of power don't always have to be complicated. That's why modern political "power" isn't dictatorial power over our neighbors. Player gods are hungry for their own libery and thus want to control the necessities of life. This makes is so much harder for dictators to control you and your community. And, happily makes disasters less scary._
 
 ## Mass-Production Replaced by Mass-Collaboration Helps Us Thrive
 
@@ -568,7 +570,7 @@ _Figma is a design tool for websites and apps. In the past, designers, writers, 
 Once upon a time, I only wanted to learn about the open-source fight. Now I, too, want to push it forward. Mass-collaboration, telecommuting, right to repair, home power generation, and real internet privacy are just the tips of the iceberg. The visions of science fiction will only become reality once we replace old Industrial Age tools. The open-source community must get political, get mad, and learn to be selfish because they’re the leaders in the age-old story about New versus Old. Industrial Age versus Internet Age. Protagonists versus Antagonists. Jedi versus Sith.
 
 ![old philosophy in a new world](/img\diagrams\suburbs-idealized.jpg)
-_The American Dream, if you want to live in 1969 forever. There are lots of antagonists in this photo. Newspapers, broadcasters, oil, gas cars, k-university education are among today's largest Industrial Age holdovers. Many are filled with layers of management._
+_The American Dream, if you want to live in 1969 forever. There are lots of antagonists in this photo. Newspapers, broadcasters, oil, gas cars, k-university education are among today's largest Industrial Age holdovers filled with layers of middlemen._
 
 The most dangerous thing right now is ignorance. People don't know about open-source or the future they're fighting for. The people are stuck fighting phantoms on behalf of outdated Left vs. Right politics. Both sides idolize 1969 because that was the end of the Industrial Age, and hence when they both peaked. Leftists think public life is one long Woodstock "activism" festival. At the same time, rightists really feel the perfect _Leave it to Beaver_ suburb will return once "the socialists" are defeated. Both Left and Right make up phantoms to keep themselves relevant.
 
@@ -672,9 +674,7 @@ The Coronavirus Pandemic is a sign of things to come. We've been running on the 
 
 Unfortunately, unlike in computer games, in the real "tech tree" of new technologies and policies, we don't merely press "upgrade." When the time comes. We have to overcome the power brokers of the past. Stopping our progress into the Internet Age is the philosophy of mass-production, Left/Right politics, and our nemesis, Darth Blockbuster.
 
-Here's how to walk past them, and press upgrade to a better way of life.
-
-Walking past Lumburgh?
+<div style='position:relative; padding-bottom:calc(53.75% + 44px)'><iframe src='https://gfycat.com/ifr/FirmActualHart' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/firmactualhart-bill-lumbergh-office-space-gary-cole">via Gfycat</a></p>
 
 # ACT ONE
 
@@ -699,6 +699,9 @@ I don't want to dwell on my experience too much. All that's important is this. T
 So instead, I'm going to talk about winning the war. Our hospitals, schools, repair-shops, government bureaucracies—our entire way of life is being held back from the Internet Age by a group of self-entitled holdovers of the Industrial Age.
 
 To help us win the game, I learned my lesson and wrote this book. Because despite already having the digital technology to improve our lives, antagonists maintain gates all over the place to protect the pre-digital "Woodstock of 1969" way of life. They know—even if subconsciously—they lose their coveted managerial status, executive positions, and superiority complexes when Main Street returns in a mass-collaboration economy. Being held back from this brighter future is why our lives can be so unhappy. To improve our days then, the people need a new ruling philosophy... one that says improving our society is the only rule that matters.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GrippingJadedConey' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+This is what many antagonist filled "meetings" are like. Because if stagnation is their goal, what else is there to discuss other then nothing. If you don't get the joke, then you might be the butt of this one. Credit: [The Expert.](https://www.youtube.com/watch?v=BKorP55Aqvg)
 
 ## To Upgrade Our Civilization We Need To Reach for the Tools
 
@@ -779,7 +782,7 @@ Left/Right political culture was unable to meet the challenge. They can gossip a
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GaseousAgreeableEarthworm' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_Please enable the sound. This was when SpaceX landed its first rocket. This was a significant step for the Internet Age in our real-life game of civilization. Notice how happy those people were too, hint for our live using mass-collaboration._
+_Please enable the sound. This was when SpaceX landed its first rocket. This was a significant step for the Internet Age in our real-life game of civilization. Notice how happy those people were too, hint for our live using mass-collaboration. Credit: Civilization 6 and SpaceX_
 
 When you're dependent on old philosophies, you're also confined to its old tools and live within its old narratives. Today Left/Right politics obsesses over tax cuts, health insurance plans, pages of government regulations, and endless media soundbites because their philosophy says these are society's only levers of power. New and super-powerful technologies like landing rockets are talked about, but more as a novelty act that falls beyond the believers of old philosophies comprehension and comfort zones.
 
