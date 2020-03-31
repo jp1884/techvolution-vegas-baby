@@ -2588,3 +2588,23 @@ The truth is, to upgrade our lives and our society, we need to upgrade our philo
 
 A lab inspector from the state came, and wanted to know who was running this (lab) machine. And she wanted to be sure they all have high-school diplomas. Well, we had RN degrees, MD degrees. That didn't suffice. She wanted to see high-school diplomas. That's an example of mindless bureaucray. Dr. Eck.
 https://youtu.be/mafghkNmKgo?t=54
+
+## New Left/Right explanation/breakdown
+
+Policies, manuals, and guidelines aren't today's levers of power. There is no law that promotes climate change, allows unpaid overtime, or encourages car accidents.
+
+Thus, why should we use so much energy to sway government policy when we can grab hold of the new digital levers of power and become player gods who fight climate change, disallow unpaid overtime, and prevents car crashes ourselves?
+
+If you'd rather stay an extra, you can go back to watching the pundits, columnists, and commentators telling you to fight "the enemy" until you're literally blue in the face. You can stay triggered to "hot-topics" like gay marriage, health-care reform, or death taxes.
+
+Fighting for those policy's hasn't gotten Main Street anywhere. Nevermind the fact no matter how hard we push, the other side pushes back to our mutual stagnation. But our ability to say fight back against bad jobs, tax audits, lawsuits isn't increased one bit.
+
+## Louis Rossman
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/UnevenDiligentGreendarnerdragonfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div> [Credit: Rossman Repair Group](https://www.youtube.com/watch?v=VJ_TGoqVoM8)
+
+## Anno 1800 and Happiness
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MellowGloriousIndianelephant' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+_When playing a civilization-building game, players must change their policies to get happier citizens. The difference in real-life is there is no "player" except you and your friends. It's up to you all to change society._ [Credit: Anno 1800.](https://www.youtube.com/watch?v=-EHuL2x5bOs)
