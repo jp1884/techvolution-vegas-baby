@@ -190,13 +190,13 @@ I'm going to guess these aren't bureaucrats or managers. Photo by Tedward Quinn 
 
 ## Segway
 
-A crisis should teach us to evolve. But, the many in recent memory, from the [Savings and Loan Crisis](https://en.wikipedia.org/wiki/Savings_and_loan_crisis), [Dot Com Crash](https://en.wikipedia.org/wiki/Dot-com_bubble), and the [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) our politicians borrowed more money instead. They bailed out the "too big to fail" manufacturers, insurance companies, and banks, who caused the problems to prevent having to admit something was wrong with our society.
+A crisis should teach us to evolve. But, the many in recent memory, from the [loss of American manufacturing](https://en.wikipedia.org/wiki/Manufacturing_in_the_United_States), [Savings and Loan Crisis](https://en.wikipedia.org/wiki/Savings_and_loan_crisis), [Dot Com Crash](https://en.wikipedia.org/wiki/Dot-com_bubble), [rising cost of formal education](https://en.wikipedia.org/wiki/College_tuition_in_the_United_States), and the [Great Recession](https://en.wikipedia.org/wiki/Great_Recession) our politicians borrowed more money instead. They subsidized and bailed out the "too big to fail" manufacturers, insurance companies, colleges, and banks, or who caused the problems to prevent having to admit something was wrong with our society.
 
 But this pandemic is something else. Printing more money can't kill a virus. Regular people literally can't go shopping to distract themselves from the bad news. After so many crises were ignored, this one is actually shutting our society down.
 
-The social shutdown, and public scare from this pandemic as always going to happen. Our society has been getting more in debt, wasteful, surrounded by red-tape, and especially more unhappy for decades. The coronavirus is only exposing problems we've ignored for years.
+The social shutdown and public scare from this pandemic was always going to happen. Our society has been getting more in debt, wasteful, dependent on foreign manufacturing, surrounded by red-tape, and especially more unhappy for decades. The coronavirus is only exposing problems we've ignored for years.
 
-If you want to assume things will go back to normal soon, then please return to watching television broadcasts. I'm sure Conservative and Progressive commentators and politicians blaming each other for your problems will entertain you for years to come.
+If you want to assume things will go back to normal soon, then please return to watching television broadcasts. I'm sure Conservative and Progressive commentators and politicians blaming each other for your problems will entertain you for years to come. Eventually Starbucks will reopen and Sportsdesk will be back, and you can distract yourself until the next crisis hits.
 
 Covid-19 is a wake-up call to those who want to hear it. The truth is regular people need to step up. Doing our job, shopping a lot, voting every four years is not enough to earn a healthy society. We can't assume big government or big business will educate our kids, make a healthy medical system, or provide a reliable livelihood.
 
@@ -396,8 +396,8 @@ A bit heavy to pull on your parental heartstrings, but it's true. Life on Main S
 Don't worry. We can finish the Internet Age upgrade. Even now, during this pandemic, we can start to upgrade our way of life. People only need to believe in a new philosophy that teaches us our innate power as player gods.
 
 <!-- fix the description -->
-https://www.youtube.com/watch?v=ymI5Uv5cGU4
-This video lets you see the game of civlization in our history. You don't need to watch it all, but each change of a civlization, is a group of people changing their technology, policies, and ruling philosophy. Even if you disagree with conquest, you have to win the game in order to impose your preferred policies. Thus, you have to always evolve to be more resourceful, create better technology, and upgrade your philosophy, or fade away like the dinoseours.
+https://www.youtube.com/watch?v=ymI5Uv5cGU4?t=384
+_This video lets you see "the game of" civlization in our real history. You don't need to watch it all, but note how each new civlization, is a group of people changing their technology, policies, and ruling philosophy. Even if you disagree with this kind of conquest, you have to win the game in order to impose your preferred policies. Thus, regardless of your personal opinions, every civilization must evolve to be more resourceful, create better technology, and upgrade your philosophy; or fade away like the dinosaurs. It's important to note, although individual civlizations keep rising and falling, human civlization has still gotten better. And that's because new technology and politics is passed on from one player god to the next as humanity plays the game._
 
 ## We Upgrade our Politics Now, or We Lose the Game
 
@@ -424,12 +424,14 @@ The answer to countering hateful ideologies is to upgrade our philosophy. Sadly,
 
 When Main Street demanded a better life, the ruling philosophy only had two options to choose from; Catholicism and Protestantism. Regular people picked a team and slaughtered "the other side" on behalf of "divine" kings. One author summarized The Thirty Years War as "a warning of the dangers of entrusting power to those who feel summoned by God to war, or feel that their sense of justice and order is the only one valid."
 
-<!-- PICTURE -->
-La pendaison (The Hanging) by Jacques Callot. Created between 1632 and 1633. Credit: Wikipedia https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre
+[The Hanging](/img\diagrams\The_Hanging_by_Jacques_Callot.jpg)
+The Hanging by Jacques Callot. Created between 1632 and 1633 to show how regular people were treated by both "sides" during the war. Credit: Wikipedia https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre
 
-The Thirty Years War was extremely brutal. One in five Europeans died from unchecked battles, massacres, and pillaging. The carnage only stopped when both sides were exhausted. The worst part was when the horror ended, the people realized they were no better off, and their problem was actually all kings. That's why philosophers wrote an upgraded philosophy of Democracy, and it wasn't long until ordinary people adopted it as their new ruling philosophy. As player gods, these people fought against all divine kings in the American Revolution (1776), the French Revolution (1789), and many more such uprisings afterward.
+The Thirty Years War was extremely brutal. One in five Europeans died from unchecked battles, massacres, and pillaging. The carnage only stopped when both sides were exhausted. The worst part was when the horror ended, the people realized they were no better off, and their problem was actually all kings. That's why philosophers soon wrote an upgraded philosophy of Democracy, and it wasn't long until ordinary people adopted it as their new ruling philosophy. As player gods, these people fought against all divine kings in the American Revolution (1776), the French Revolution (1789), and many more such uprisings afterward.
 
 The hatred between Catholics and Protestants should sound scarily similar to the relationship between Left and Right ideologies today. Today's fights over presidential impeachments, border walls, and trigger words are a smokescreen. Neither Right or Left can see or admit; they're both very similar because both are way behind the times in our modern age.
+
+Their outdatedness and hatred is what's causing our civilization to struggle as it fades away.
 
 https://www.youtube.com/watch?v=J2Pjudf0810
 _This is what "Left/Right" philosophies have devolved to. This pettiness isn't politics. But because we often listen to these commentators, reporters, and columnists, our elected politicians are forced to care what they think. Real politics put levers of power of modern technology in our hands. Once we demand that, so will our politicians._
@@ -440,13 +442,15 @@ For our society to see the big picture again, we need a new philosophy. One that
 
 I've studied this topic for years. Academically, at the University of Toronto, I worked on political philosophy, history, and innovation. But I learned far more on the frontline as a projectionist, contractor, line worker, account manager, claims adjuster, and especially when inventing a digital tool for an Industrial Age industry. I wrote this book to my fellow people on Main Street today; here's how we fix our problems and win the game.
 
-You'll like it best if you're sick of contemporary infotainment politics but love checking-out what Elon is up to. Because you'll understand most of today's problems are—with digital technology—quite simple engineering problems. We don't have to invent impossible technology like time-travel to solve road traffic, rising health insurance costs, or personal loneliness. You'll really like this book if you know that unless we see ourselves in the video below, evolution will find someone who does.
+You'll like it best if you're sick of contemporary infotainment politics but love checking-out what Elon is up to. Because you'll understand most of today's problems are—with digital technology—quite simple engineering problems. We don't have to invent impossible technology like time-travel to solve road traffic, personal loneliness, or rising health-care costs. You'll really like this book if you know that unless we see ourselves in the video below, evolution will find someone who does.
 
 https://www.youtube.com/watch?v=5KdE0p2joJw
 
 That's our ancestors in the video, and it should be all of us today too. So, if you hate technology, despise your job, see conspiracies everywhere, worry about climate change, are intimidated by the uber-rich... fine, you've spotted a problem. What are you going to do about it?
 
-I wrote this book to get you dreaming again. It's written to be like _New Atlantis_, _On Social Contract_, and _Common Sense_. All books that helped start modern democracies. They made unhappy people on Main Street realize the big picture. That our choices are our most potent political weapon. That with advanced technology, our choices are, in fact, weapons for change. And when we all believe in a new philosophy, we'll become player gods holding the levers of power in the glorious Internet Age.
+For all the negatives of this pandemic, I think there's one big positive. Most people are stepping up, staying home, self-isolating, and social distancing. These ideas didn't exist a few weeks ago, and it's already taboo to flaunt these new expectations. We're still ready to adapt.
+
+I wrote this book to get you dreaming again so we can keep adapting. It's written to be like _New Atlantis_, _On Social Contract_, and _Common Sense_. All books that helped start modern democracies. They made unhappy people on Main Street realize the big picture. That our choices are our most potent political weapon. That with advanced technology, our choices are, in fact, weapons for change. And when we all believe in a new philosophy, we'll become player gods holding the levers of power in the glorious Internet Age.
 
 Today, if we don't step up to upgrade our politics, we'll keep suffering the unknowns of a degenerating Industrial age society. We'll stay unhappy extras watching stories of phantom communists and fascists, instead of gazing up to a future as player gods in the stars.
 
@@ -454,33 +458,31 @@ And if we stay non-playing characters, at least with this book, our kids can rea
 
 ## The Grand Mission of Techvolution
 
-Writer David Mamet once said being free from trying to please a group means being open to seeing Nature. So, I embraced that idea when writing this book. Meaning, since I wrote it for myself, I didn't try to please anyone other than my fellow people on Main Street. Saying that Techvolution has three parts:
+Writer David Mamet once said being free from trying to please a group means being open to seeing Nature. So, I embraced that idea when writing this book. Meaning, I didn't try to please any pundit or professor. I'm a regular guy who wrote this all for myself and my fellow people on Main Street. Saying that Techvolution has three parts:
 
 **I. A New Philosophy**: This part shows how to upgrade our philosophy to the Internet Age. Its purpose is to enable Main Street to see the big picture: that we're all player gods who must use apps, electronics, and the internet to solve our problems. Fittingly, the best indicator of our progress is how happy we are with our lives.
 
 **II. Building the Life Star**: This section explains the new political and economic truths we'll see in the Internet Age with technologies like apps, bio-monitors, and big data. With these digital tools, we'll be enabled to create objective definitions of political and economic "right and wrong." In short, the Life Star will do for politics and economics what scientific instruments (such as the telescope) did for physics, chemistry, biology, etc. The troubling part is many people—especially phantom storytellers of old philosophies—won't accept what this new telescope shows us.
 
-**III. Starting Starfleet**: Once we can see ourselves in the "Life Star telescope" we'll use tt to design digital tools detached from the Industrial Age. As the Industrial Age's material abundance helped us live in so-called "perpetual peace," Internet Age products will make our lifestyle one of "perpetual profit." We'll send the massive savings to Musk and his protegees and hence jumpstart the Space Exploration Age—or as I like to say, "Start Starfleet."
+**III. Starting Starfleet**: Once we can see ourselves in the "Life Star telescope" we'll use it to design digital tools detached from the Industrial Age. As the Industrial Age's material abundance helped us live in so-called "perpetual peace," Internet Age products will make our lifestyle one of "perpetual profit." We'll send the massive savings to Musk and his protegees and hence jumpstart the Space Exploration Age—or as I like to say, "Start Starfleet."
 
-**How to See the Matrix**: To write Techvolution, I used Aristotle's Poetics to better understand Hegelian dialectics, and then I added some evolutionary biology because I think the fields are similar if not the same. If that bores you to pieces, that's cool, you don't need to read more about it. But just so you know, Techvolution is based on a full-blown philosophy that I'll explain in another book called _How to See the Matrix_.
+**How to See the Matrix**: To write Techvolution, I used Aristotle's Poetics to better understand Hegelian dialectics, and then I added some evolutionary biology because I think the fields are similar, if not the same. If that bores you to pieces, that's cool, you don't need to read more about it. But just so you know, Techvolution is based on a full-blown philosophy that I'll explain in another book called _How to See the Matrix_.
 
 **No More Magic - The End of Movies**: I learned about the transition from the Industrial Age to the Internet Age by studying the movie industry. Like Silicon Valley is today, Hollywood was once a pillar of innovation. By mastering modern technology, "the movies" became an affordable and fun night out for the middle class. Now we've almost forgotten what movie seats feel like. All because the industry used Internet Age technologies to oversell blockbusters instead of telling better stories like HBO or Netflix have done so well. _No More Magic_ looks behind the curtain of a dying Industrial Age industry, and foreshadows what's to come if more of our industries don't upgrade to the Internet Age soon._
 
-**The 2008 Economic Crisis Was Only the Beginning**: The 2008 housing, financial, and economic crisis was a big shock to most people. In fact, 2008 was a warning that we can't keep the Industrial Age alive forever.
-
-That's why the image for this article is the people of the Industrial Age "player god" waking up, while the leader is looking up in sadness. His time in the sun is over. Like the sword and scepter of the Medieval Age were replaced as the ultimate levers of power by muskets of a civilizian military and the gavel of a fair justice. In 2008, the levers of the great bank, insurance, and other large office builings were failing.
-
-They got (temporarily) bailed out, because the game of civilization wanted us to upgrade to the era of mass-collaboration in a Main Street economy. I was writing this article in 2006 and finished up in 2009. Like _A New Philosophy_, it says we need to upgrade our way of life to digital technology but is cruder in doing so.  
+**The 2008 Economic Crisis Was Only the Beginning**: The 2008 economic crisis was inevitable, because we can't keep the Industrial Age alive forever. That's why the image for this article is the people of the Industrial Age "player god" waking up, while the leader is looking up in sadness. His time in the sun is over. Like the sword and scepter of the Medieval Age player god were replaced as the ultimate levers of power by the muskets of a civilizian military, and the gavel of a fair justice. In 2008, the levers of the great bank, insurance, and other large office builings were also losing their power in favour of Internet Age technology. I was writing this article in 2006 and finished up in 2009. Like _A New Philosophy_, it says we need to upgrade our way of life to digital technology but is cruder in doing so.  
 
 ===
 
-_Techvolution A New Philosophy_ has a very high goal. So, I want to be crystal clear about its purpose. We're in the new and wondrous Internet Age. But we're still using the philosophy of the Industrial Age to run our society. Conservatism (1791), and Progressivism (1859) philosophy cards were clicked many years ago. It's thus no longer good enough for Main Street to watch infotainment news, donate to a social cause, march in a demonstration, and think they're improving the world.
+_Techvolution A New Philosophy_ has a very high goal. So, I want to be crystal clear about its purpose. We're in the new and wondrous Internet Age. But we're still using the philosophy of the Industrial Age to run our society. Conservatism (1791), and Progressivism (1859) philosophy cards were clicked many years ago. It's thus no longer good enough for Main Street to watch infotainment news, donate to a social cause, march in a demonstration, and think we're improving the world.
 
 To make a difference, we need a new ruling philosophy. One built on the accomplishments of our past, but that factors in the wondrous possibilities of digital technology.
 
-So, like how we demand voting and property rights. And how we feel obliged to stand up against racism and sexism. We now have to add new rights so regular people are protected when finding new and more efficient ways to run our civilization. Because it's our duty to see the big picture. That we're all player gods whose life choices determine the health of our society.
+So, like how we demand voting and property rights. And how we feel obliged to stand up against racism and sexism. We now have to add new rights that protect regular people when using new and more efficient ways to run our civilization. Regular people need these protections because it's our duty to see the big picture. That we're all player gods who must now upgrade our way of life to the Internet Age.
 
-In short, with great power comes great responsibility—that's why the duty to solve our growing problems also requires the freedom to choose any tool we want.
+With great power comes great responsibility—that's why the duty to solve our growing problems also requires the freedom to choose any tool we want.
+
+<!-- Improve this section. -->
 
 Tools can be anything: a thermal camera to spot leaky windows, the Waze app to lessen traffic congestion, or 3D printing a tool to sell to a neighbor. The desire to seek out new tools is human evolution. Civilization evolves when its members adopt a modern philosophy telling them to become a player god of the modern age. We've upgraded our philosophy many times before, and it's simply time to do it again.
 
