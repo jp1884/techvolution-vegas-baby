@@ -2608,3 +2608,32 @@ Fighting for those policy's hasn't gotten Main Street anywhere. Nevermind the fa
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MellowGloriousIndianelephant' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 _When playing a civilization-building game, players must change their policies to get happier citizens. The difference in real-life is there is no "player" except you and your friends. It's up to you all to change society._ [Credit: Anno 1800.](https://www.youtube.com/watch?v=-EHuL2x5bOs)
+
+## Old Mud Roads
+
+
+
+A time when humans only had a few tools at hand. Red/blue 
+
+Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll say something like, "if the red team wins this one, then education, healthcare, infrastructure, and everything else will go to shit." What he means is elections decide the rule-makers, and that blue rules make a good society while red rules make a bad one.
+
+If you buy it—and most of us have at some point—you watch blue cable news, read blue blogs, listen to blue talk radio. You start seeing phantom enemies everywhere because your head is filled with blue's philosophy. Soon enough, your car has blue bumper stickers, and you're waving blue bristol boards while screaming blue chants at rallies, marches, and protests. You feel like a hero! You're fighting against the evil red philosophy!... Or, if you got sucked in by the other side, evil blue philosophy!
+
+CAMPAIGNS
+
+Let me ask you this: if you're a regular middle-class person and you ignored the election, how much would you bet that you would know who won just by continuing to live your life?
+
+When Team Blue wins, does traffic suddenly disappear? When Team Red succeeds, does everyone suddenly exercise? Do you breathe fresher air or see fitter neighbors? Do your real-life problems get solved when one color's philosophy writes the rules?
+
+Nothing changes when Main Street elects Conservatism or Progressivism because the truth is; regulations and laws aren't strong enough to solve today's problems. But these are the only levers of power Left and Right know how to use, which is why both ignore the potential of these digital tools.
+
+And it's not their fault.
+
+Right/Left philosophies were created at the start of the Industrial Age. A time when humans only had a few tools at hand. Red/blue philosophical fathers like Adam Smith, Edmund Burke, John Stuart Mill, and Karl Marx never had running water, listened to the radio, made a phone call, opened a fridge, took penicillin, started a motor, typed on a keyboard, or learned about evolution.
+
+![old philosophy in a new world](/img\diagrams\techvolution-mud-roads-sail-boats.jpg)
+_Cutting edge technology when Left/Right was born._
+
+Instead, our Right/Left philosophical fathers had mud roads, grandfather clocks, and abacus calculators. Being hungry and sick, cold, and ignorant was a way of life back then. That's why pure individual self-interest was so good at improving society. Rules and regulations could be limited because individuals were already determined to find new technology to help ease their pain.
+
+In fact, Left and Right came together to help them do it. That's why Rightists defend property rights so much. They argued if property is privatized, the more productive it'll be when feeding, employing, or making things for people. Progressive's chimed in, that society needs to share the wealth. Otherwise why would non-property owners be loyal to a community that excludes them.
