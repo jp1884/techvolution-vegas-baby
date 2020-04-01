@@ -739,9 +739,13 @@ I was right to. They were good ideas. I figured out how to solve a problem and s
 
 Sadly, I was a fool. I didn't know it at the time, but I wasn't even knocking on doors. I was knocking on gates. See, I wasn't talking to frontline workers (who thanked me). But to the layers of bureaucrats, lawyers, managers, and executives who were well paid to meet, discuss, delegate about "garbage problems." As holdovers from the obsessive management of the Industrial Age, I went against all they stood for; solving industry problems was asking them to fire themselves. Worse, I was asking them to invalidate their identity as being "superiors." It's why they put up gates to shut out Internet Age innovation. In their mind, the levers of power, even small ones, are theirs by right.
 
-In retrospect, all this antagonism was very exciting. I was standing at a historic moment in time. Here the Industrial Age was taking its last stand against human evolution. All my app did was replace a few dozen fax machines. Fax machines were invented before telephones! And car insurance companes were still making their adjusters send, receive, and transcrbe dozens of faxes everyday.
+In retrospect, what I encountered was pure antagonism. The ideological evil of our time as the Industrial Age takes its last stand against human evolution.
 
-That's why the head office people never said no to me. No needs a reason. Instead, they simply said it was against the rules to say yes. You know—those obscure rules, hidden inside regulations and contracts. They believed in the rules, especially the one against frontline workers acting with initiative, holding their own levers, and taking out their own garbage, so to speak.
+After all, all my app did was replace a few dozen fax machines with an online app. If the car adjusters had just used it themselves, nobody "above" would have even noticed.
+
+Society would have. Because car insurance claims would have gotten processed far faster and cheaper. But instead of getting an upgrade, our society was forced to keep waiting on hold and pay the price for increasing insurance costs because a few dozen managers wanted to defend their power.
+
+That's why the head office people never said no to me. No needs a reason. Instead, they simply said it was against the rules to say yes. You know—those obscure rules, hidden inside regulations and contracts. The antagonists believed in the rules, especially the one against frontline workers acting with initiative, holding their own levers, and taking out their own garbage, so to speak.
 
 Like anyone, I knew bringing new products to market is hard. I knew sales is difficult. I even knew antagonists exist. But I didn't realize how strongly the Internet Age was being held back. Antagonists do a good job masking their self-interest with self-righteous rules. In their eyes, I wasn't an innovator helping his society win the game, but just an "uppity extra" stepping out of his place in the hierarchy.
 
@@ -749,7 +753,7 @@ I don't want to dwell on my experience too much. All that's important is this. T
 
 So instead, I'm going to talk about winning the war. Our hospitals, schools, repair-shops, government bureaucracies—our entire way of life is being held back from the Internet Age by a group of self-entitled holdovers of the Industrial Age.
 
-To help us win the game, I learned my lesson and wrote this book. Because despite already having the digital technology to improve our lives, antagonists maintain gates all over the place to protect the pre-digital "Woodstock of 1969" way of life. They know—even if subconsciously—they lose their coveted managerial status, executive positions, and superiority complexes when Main Street returns in a mass-collaboration economy. Being held back from this brighter future is why our lives can be so unhappy. To improve our days then, the people need a new ruling philosophy... one that says improving our society is the only rule that matters.
+To help us win the game, I learned my lesson and wrote this book. Because despite already having the digital technology to improve our lives, antagonists maintain gates all over the place to protect the pre-digital "Woodstock of 1969" way of life. They know—even if subconsciously—they lose their coveted managerial status, executive positions, and superiority complexes when Main Street returns in a mass-collaboration economy. Being held back from this brighter future is why our lives can be so unhappy. To improve our days then, the people need Techvolution. A new ruling philosophy that says improving our society is the only rule that matters.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GrippingJadedConey' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 This is what many antagonist filled meetings are like. Because if stagnation is their goal, what else is there to discuss other then nothing. If you don't get the joke, then you might be the butt of this one. Credit: [The Expert.](https://www.youtube.com/watch?v=BKorP55Aqvg)
@@ -775,62 +779,64 @@ _Levers of power. Whoever controls them, wins._
 
 Many people know what a revolution is. The difference between it and Techvolution is a revolution fights to change the rule-makers, while Techvolution fights to distribute new levers of power. Techvolution is better. Because if you still think the rules, regulations, and laws of society control our destiny you're wrong; they don't. I'll show you why.
 
-MUDDY NEW YORK AND OPEN FRONTIER
+HARD TIMES GIF
 
-This is what America, Canada, Britain, and most of the world looked like in the 1800s. A time of mud roads, grandfather clocks, and abacus calculators. Being hungry and sick, cold, and ignorant was a way of life back then. Most people felt much daily pain.
+This is what America, Canada, Britain, and much of the world looked like in the 1800s. A time of mud roads, hand tools, and abacus calculators. Human perseverence and ingenuity filled in for limited technology. Being hungry and sick, cold and tired was an all to common way of life back then.
 
-That's why Right/Left philosophies were created during the Industrial Age. Their philosophical fathers like Adam Smith, Edmund Burke, John Stuart Mill, and Karl Marx never had running water, listened to the radio, made a phone call, opened a fridge, took penicillin, started a motor, typed on a keyboard, or learned about evolution.
+Solving this pain is why Right/Left ideologies were created. Their writers like Adam Smith, Edmund Burke, and John Stuart Mill lived the same life. They too never had running water, listened to the radio, made a phone call, opened a fridge, took penicillin, started a motor, typed on a keyboard, or learned about evolution.
 
-Giving individuals freedom let them loose to find solutions using new Industrial Age technology. That's why Rightists defend property rights so much. They argued if property is privatized, the more productive it'll be when feeding, employing, or making things for people. Progressive's chimed in that society needs to share the wealth and liberate women and minorities. Otherwise why would non-property owners be loyal to a community that excludes them.
+There was competition. Luddites wanted to hold back technology. Anarchists wanted to dismantle governments. Communists and Fascists wanted to socially engineer humanity. Left and Right went a different path. Their ideologies came together to make a philosophy that promoted and defended individual liberty.
 
-Together Left and Right brought together property-owners and the masses into the player god of the Industrial Age. The community of Western Civilization was so successful it quickly spread throughout the world. Conservatives would concentrate on creating new products, technology, and wealth. Progressives would make sure to open up new markets with their welcoming hand.
-
-Left and Right ideologies formed the ideal player god to win the game during the Industrial Age.
+Freedom worked wonders! Once individuals got freedom, they found many solutions to frontline pain using new Industrial Age technology. Left and Right didn't promote new technologies directly. They simply incentived it with their labour laws, and patent regulations.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SorrowfulPeacefulCuscus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-Right/Left motivated society to improve their primitive world with better tools. And, truth be told, they did! That's why our ancestors agreed on the same big picture; individuals need to globalize the world to industrialize society via mass-production.
+Today, however, we live inside the world the Industrial Age dreamed of making. We've grown a massive ecosystem of cities, factories, offices, telecommunications, and digital technology. The Industrial Age did its job very well.
 
-Soon enough society upgraded to steam engines, sanitation systems, science labs, telephone networks, broadcast televisions, and computers the size of rooms.
+And that's the problem. Left and Right ideologies don't include any notion of holding back individuality. They only get society out of the way.
 
-During the Industrial Age, the people needed to be managed inside huge corporations and color-coded parties. Although calling exhausted farmers and overworked factory workers player gods may seem silly, it's not. Someone needed to be using primitive tools to make better ones. To their credit, blue and red philosophies gave regular people a voice in how their factories, regulations, and profits were controlled.
+It's a problem because today we're all easily spoiled. It's simply to avoid feeling the pain any lifeform needs when playing the game. We don't depend on well water, wait on sailboats, or farm with donkeys. Yet we're molded by the philosphy meant to cure these problems.
 
-Today, however, we live inside the world the Industrial Age dreamed of making. We've grown a massive ecosystem of cities, factories, offices, telecommunications, and digital technology. The Industrial Age has done its job. And that's the problem.
+When Leftists rules and regulations empowered the disenfrachised it meant freeing millions of former slaves, indentured servants, illiterate farm hands, oppressed wives to play the game of civilization. As player gods these liberated people found new and better ways to farm, sew, educate, and in general participate in society.
 
-Left and Right ideologies don't include any notion of holding back. The daily problems of a world running on well water, sailboats, and wood stoves was assumed to exist. As we today live in great wealth, we've forgotten that the game of civilization never stops. We always evolve or die.
+When Righits laws protected property rights it gave reason for millions to take huge risks by opening new factories or inventing new technologies. Many industrialists and inventors failed, but many succeeded as well. All were player gods who helped their society play the game.
 
-Pick whatever Left and Right talking point you want. Gender pronouns, climate change deniers, both sides put the horse before the wagon. Meaning, they believe in their ideology without feeling the pain of everyday life. That's why neither side can evolve our civilization.
+These were the reasons Left and Right clicked for so many people in the Industrial Age. The rules and regulations of America, Canada, Britain and other countries only encouraged what regular people were already doing: finding new and cool technoogy to help them win the game, which in turn helped their society too.
 
-It would be like asking a zoo animal to evolve. A caged polar bear has no idea the artic is melting. It's impossible for it to adapt to a changing environment unless it lives there and feels the pain of being behind the times.
+OVID
 
-Winning the Industrial Age gave Western Civilization lots of wealth. Since hitting the Internet Age, we've kept squandering it. But we can still save ourselves so much future headaches once we empower Main Street using the digital tools the people worked so hard to create.
+Now however, neither Left or Right rules can discuss technological problem solving. That's why "nothing changes" when we elect one over the other. Both are competed to freeing "the oppressed", be it against fascists or socialists.
 
-Happily, we already are. That's the reason we're so addicted to new technology. Checking news feeds, flying drones, taking endless photos, playing hours of computer games are acts of extras mastering the tools of player gods. Our ancestors did the same when learning about printed books, telescopes, and muskets. Those were merely addictive toys until new philosophies turned them into the lightsabers that finally brought down Darth King and the Medieval Age. When regular people could read unknown history, see the universe for themselves, and revolt against royalty the game was won.
+Creating rules, regulations, and laws to fight phantoms keeps both sides safe. Rethinking philosophy (as you reader is being asked to do in _Techvolution_) is really hard. It's much easier to march against Trump, or rant against Clinton then it is to find the technology that eliminates traffic, reduces bureaucratic creep in our health-care system, or fights obesity.
 
-Our addicting toys are also new levers of power. They're so powerful, we can use these proverbial lightsabers to earn a happier life. We will, once we forget about Left/Right phantoms, and use Techvolution to defeat Darth Blockbuster, his Death Star, and upgrade to the Internet Age.
+In short, evolution is hard work! But finding better technology to harvest water, raise crops, generate energy, educate ourselves, is how our ancestors won the game, and the only way we will do the same.
+
+Happily, we've already been evolving. That's the reason we're so addicted to new technology. Checking news feeds, flying drones, taking endless photos, playing hours of computer games are acts of extras mastering the tools of player gods. Our ancestors did the same when learning about printed books, telescopes, and muskets. Those were merely addictive toys until new philosophies turned them into the lightsabers that finall brought down Darth King and the Medieval Age. When regular people could read unknown history, see the universe for themselves, and revolt against royalty the game was won.
+
+Our addicting toys are also new levers of power. They're so powerful, we can use these proverbial lightsabers to earn a happier life. We will, once we forget about Left/Right phantoms, and use Techvolution. Only with the right and duty to solve frontline problems will we defeat antagonism and upgrade to the Internet Age.
 
 https://youtu.be/CY9-y5zZkxs?t=7
 _Compare this person to Leftists marching for "climate justice" or Rightists for "lower energy taxes." Isn't this the person you'd want to play your game of civilization? A regular person using a modern tool to improve his energy efficiency, increase his power, and improve his society. And once we've done our daily work, we can play basketball, watch a movie, or do whatever else we want. We just shouldn't chase phantom communists or fascists. We're better off sealing or replacing our, or someone else's, drafty windows._
 
 ## Once We Believe in a New philosophy, We'll Reach for the Stars
 
-Darth Blockbuster appears every time we upgrade to a new age. He works hard to secure his power by preventing regular people taking control of the new levers of power. To fight the antagonists off, we need a modern philosophy. Here's one example of it.
+Darth Blockbuster and his antagonism appears every time we upgrade to a new age. He works hard to secure his power by preventing regular people taking control of the new levers of power. To fight the antagonists off, we need a modern philosophy. Here's one example of it.
 
 When you look up at the night sky, you see a dazzling show. It can seem to defy explanation. But even with the naked eye, you'll see trends. The stars never move, some "objects" (really planets) look to be wandering, and it seems like the Moon, Sun, and everything else revolves around you. With all this evidence, our ancestors were sure Earth was the center of the Universe. So much so, it was a pivotal part of the "Divine Rights of Kings" philosophy that ruled European Kingdoms starting in the Medieval Age (500-1400) and even into the Science Age (1543-1687).
 
 When you look at the night sky with a telescope, like Galileo (1564-1642) did, you see it differently. Jupiter has moons, Venus has phases, and it looks like Earth is just another planet. When Galileo told everyone these facts, the "divine kings" were threatened. By using a telescope, Galileo was saying, "we don't know until we test, so let's use instruments to test what we think we know." Scientific inquiry questioned the ruler's divine leadership. Although Catholics and Protestant political leaders hated each other, they worked together to suppress Galileo. Neither facilitated the new truths his new tools were discovering.
 
-Galileo is just one example of how an establishment finds it very hard to embrace a new era. The lesson is, to enter into a new age, civilization can't just use new technology. Main Street must welcome a modern philosophy too. Today we're also using an outdated philosophy from a Bygone Age. Here's an example of how that's hurting our everyday lives.
+Galileo is just one example of how an establishment finds it very hard to embrace a new era. The lesson is, to enter into a new age, civilization can't just use new technology. Main Street must welcome a modern philosophy too. Today we're also using an outdated philosophy from a bygone age. Here's an example of how that's hurting our everyday lives.
 
 Space travel is a significant step for humanity. It means better satellites, worldwide internet accessibility, and ensuring intelligent life doesn't put all its eggs in one earthly basket. All possible _if_ we can build an affordable and reusable rocket.
 
-Left/Right political culture was unable to meet the challenge. They can gossip about speeches, but rocket science doesn't fit into soundbites. It was new companies like SpaceX and Blue Origin (funded by a few protagonists) who answered the call. They harnessed digital technology and fostered collaboration to make rockets 10 times cheaper. The protagonists even learned how to land their rockets so they can be reused! Think about how cool it to land a frickin rocket. But many people, especially Left/Right politicians, still didn't care.
+Left/Right political culture was unable to meet the challenge. They can gossip about speeches, but rocket science doesn't fit into soundbites. It was new companies like SpaceX and Blue Origin (funded by a few protagonists) who answered the call. They harnessed digital technology and fostered collaboration to make rockets 10 times cheaper. The protagonists even learned how to land their rockets so they can be reused! Think about how cool it to safely land a frickin rocket. But many people, especially Left/Right politicians, still didn't care.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GaseousAgreeableEarthworm' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 _Please enable the sound. This was when SpaceX landed its first rocket. This was a significant step for the Internet Age in our real-life game of civilization. Notice how happy those people were too, hint for our live using mass-collaboration. Credit: Civilization 6 and SpaceX_
 
-When you're dependent on old philosophies, you're also confined to its old tools and live within its old narratives. Today Left/Right politics obsesses over tax cuts, health insurance plans, pages of government regulations, and endless media soundbites because their philosophy says these are society's only levers of power. New and super-powerful technologies like landing rockets are talked about, but more as a novelty act that falls beyond the believers of old philosophies comprehension and comfort zones.
+When you're dependent on old philosophies, you're also confined to its old tools and live within its old narratives. Today Left/Right politics obsesses over tax cuts, health insurance plans, gender pronouns, pages of government regulations, and endless media soundbites because their philosophy says these are society's only levers of power. New and super-powerful technologies like landing rockets are talked about, but more as a novelty act that falls beyond the believers of old philosophies comprehension and comfort zones.
 
 That's the power of philosophy. It tells people which tools are important, and which should be ignored. Today, Industrial Age philosophies hold back the incredible, world-changing, happiness granting potential of the Internet Age. Up and down our economy, we emphasize government policy, mass-production, and heavy management practices when mass-collaboration is far better. The lesson is, once we believe in a new philosophy that embraces the Internet Age, we'll control our society's true levers of power, and soar to the stars.
 
