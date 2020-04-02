@@ -668,7 +668,7 @@ Stepping up means Main Street stops blaming phantom communists and fascists for 
 
 The biggest roadblock to the Internet Age is Darth Blockbuster, the self-entitled holdover from the Industrial Age.
 
-The Sith Lord is the reason "antagonism" is our new evil. Darth Blockbuster stalls the future by writing rules to keep his Industrial Age tools, and himself, in power. These rules are like a Death Star. They concentrate the legal departments, HR reps, corporate lobbyists of a bygone age, to keep Main Street away from a happier life inside the era of mass-collaboration. Therefore, before our civilization can evolve, we need to defeat Darth Blockbuster and blow up his weapon.
+The Sith Lord is the reason "antagonism" is our new evil. Darth Blockbuster stalls the future by writing rules to keep his Industrial Age tools, and himself, in power. These rules are like a Death Star. They concentrate the legal departments, HR reps, corporate lobbyists of a bygone age, to keep Main Street away from a happier life inside the era of mass-collaboration. Therefore, before our civilization can evolve, we need to defeat Darth Blockbuster and blow up his super-weapon.
 
 That’s the setting of your life’s story. The plot remains to be written, whether you’re brave enough to write it yourself or you’ll let others write it for you. Will you become a player god and fight to control our society’s levers of power like timesheets, health records, and power generation? The antagonists are already playing. And this battle is the game of every civilization: it either wins or dies. It’s not at all dramatic to say this; the fate of your children, culture, and civilization is on your shoulders.
 
@@ -777,41 +777,31 @@ _Levers of power. Whoever controls them, wins._
 
 ## Player Gods Reach for the Tools and Don't Chase Phantoms
 
-Many people know what a revolution is. The difference between it and Techvolution is a revolution fights to change the rule-makers, while Techvolution fights to distribute new levers of power. Techvolution is better. Because if you still think the rules, regulations, and laws of society control our destiny you're wrong; they don't. I'll show you why.
+Many people know what a revolution is. The difference between it and Techvolution is a revolution fights to change the rule-makers, while Techvolution fights to distribute new levers of power. Techvolution is better. Because those with the power, get to make the rules. So why not go for the gold right away?
 
-HARD TIMES GIF
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/IgnorantCheerfulBilby' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-This is what America, Canada, Britain, and much of the world looked like in the 1800s. A time of mud roads, hand tools, and abacus calculators. Human perseverence and ingenuity filled in for limited technology. Being hungry and sick, cold and tired was an all to common way of life back then.
+This is what America, Canada, Britain, and much of the world looked like in the 1800s. A time of mud roads, hand tools, and abacus calculators. Much human perseverence and ingenuity filled in for limited technology. Being hungry and sick, cold and tired was an all to common way of life back then. These people's dreamed of owning some land, having the tools to work it, or getting a job in a factory.
 
 Solving this pain is why Right/Left ideologies were created. Their writers like Adam Smith, Edmund Burke, and John Stuart Mill lived the same life. They too never had running water, listened to the radio, made a phone call, opened a fridge, took penicillin, started a motor, typed on a keyboard, or learned about evolution.
 
-There was competition. Luddites wanted to hold back technology. Anarchists wanted to dismantle governments. Communists and Fascists wanted to socially engineer humanity. Left and Right went a different path. Their ideologies came together to make a philosophy that promoted and defended individual liberty.
+It's important to note, there were other philosophies competing for people's attention. Luddites wanted to hold back technology. Anarchists wanted to dismantle governments. Communists and Fascists wanted to socially engineer humanity.
 
-Freedom worked wonders! Once individuals got freedom, they found many solutions to frontline pain using new Industrial Age technology. Left and Right didn't promote new technologies directly. They simply incentived it with their labour laws, and patent regulations.
+Left and Right went a different path. Their ideologies came together to make a philosophy that promoted and defended individual liberty.
+
+The Left and Right ruling philosophy inspired a large list of rules, regulartions, and laws. Each was alway connected to large problems. For example, property insurance was born as British and American industrialists and individuals were investing huge sums intoindustrial equipment and homes. Because of city-wide fires used to be common, London in (1666), New York (1835) Toronto (1849) Chicago (1871) are some example.
+
+Left and Right responded. Government rulemakers didn't tell anyone to invent or operate insurance policies. They regulated the insurance business to be sure the public wasn't swindled. In return, the insurance industry lowered the risk of buying new industrial machines and new homes, and thus helped society upgrade to Industrial Age technologies faster.
+
+That's how the Left and Righ rulebook worked wonders! The philosophy usually didn't promote new products directly. They simply incentived it with things such as insurance regulations, labour laws, and patent rules.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SorrowfulPeacefulCuscus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-Today, however, we live inside the world the Industrial Age dreamed of making. We've grown a massive ecosystem of cities, factories, offices, telecommunications, and digital technology. The Industrial Age did its job very well.
+Today, however, we live inside the world the Industrial Age dreamed of making. But with Left and Right as our ruling philosophy, our rulebook is still focused on promoting the industrialization of society. We've already seen how dated and extreme Conservative and Progressive phantom chasing ideologues are today. And, until the middle-class reaches for the new power of open-source apps and electronics, we'll never have the power to upgrade our society and rewrite the rules to the modern age.
 
-And that's the problem. Left and Right ideologies don't include any notion of holding back individuality. They only get society out of the way.
+Happily, we've already been evolving to the Internet Age.
 
-It's a problem because today we're all easily spoiled. It's simply to avoid feeling the pain any lifeform needs when playing the game. We don't depend on well water, wait on sailboats, or farm with donkeys. Yet we're molded by the philosphy meant to cure these problems.
-
-When Leftists rules and regulations empowered the disenfrachised it meant freeing millions of former slaves, indentured servants, illiterate farm hands, oppressed wives to play the game of civilization. As player gods these liberated people found new and better ways to farm, sew, educate, and in general participate in society.
-
-When Righits laws protected property rights it gave reason for millions to take huge risks by opening new factories or inventing new technologies. Many industrialists and inventors failed, but many succeeded as well. All were player gods who helped their society play the game.
-
-These were the reasons Left and Right clicked for so many people in the Industrial Age. The rules and regulations of America, Canada, Britain and other countries only encouraged what regular people were already doing: finding new and cool technoogy to help them win the game, which in turn helped their society too.
-
-OVID
-
-Now however, neither Left or Right rules can discuss technological problem solving. That's why "nothing changes" when we elect one over the other. Both are competed to freeing "the oppressed", be it against fascists or socialists.
-
-Creating rules, regulations, and laws to fight phantoms keeps both sides safe. Rethinking philosophy (as you reader is being asked to do in _Techvolution_) is really hard. It's much easier to march against Trump, or rant against Clinton then it is to find the technology that eliminates traffic, reduces bureaucratic creep in our health-care system, or fights obesity.
-
-In short, evolution is hard work! But finding better technology to harvest water, raise crops, generate energy, educate ourselves, is how our ancestors won the game, and the only way we will do the same.
-
-Happily, we've already been evolving. That's the reason we're so addicted to new technology. Checking news feeds, flying drones, taking endless photos, playing hours of computer games are acts of extras mastering the tools of player gods. Our ancestors did the same when learning about printed books, telescopes, and muskets. Those were merely addictive toys until new philosophies turned them into the lightsabers that finall brought down Darth King and the Medieval Age. When regular people could read unknown history, see the universe for themselves, and revolt against royalty the game was won.
+That's the reason we're so addicted to new technology. Checking news feeds, flying drones, taking endless photos, playing hours of computer games are acts of extras mastering the tools of player gods. Our ancestors did the same when learning about printed books, telescopes, and muskets. Those were merely addictive toys until new philosophies turned them into the lightsabers that finall brought down Darth King and the Medieval Age. When regular people could read unknown history, see the universe for themselves, and revolt against royalty the game was won.
 
 Our addicting toys are also new levers of power. They're so powerful, we can use these proverbial lightsabers to earn a happier life. We will, once we forget about Left/Right phantoms, and use Techvolution. Only with the right and duty to solve frontline problems will we defeat antagonism and upgrade to the Internet Age.
 
@@ -853,7 +843,7 @@ This book is about pushing us into the Internet Age with a new philosophy that e
 
 Human biological adaptions take so long, however, that ours have effectively stopped. We'll never biologically evolve to fly, do advanced calculations, or breathe Martian air. Humanity continues life's evolution with tools. We're basically cyborgs who adapt by upgrading our tools to the latest problem. Hold a spear, then a gun, an abacus, then a calculator, an airplane joystick than a space ship joystick, and you're a different and more powerful cyborg each time.
 
-Nonetheless, our problem solving is held back when the power of bygone age holds back civilization's upgrades. This is the equivalent of Blockbuster getting to write rules to keep us renting DVDs instead of saving time and money with YouTube and Netflix; basically, the opposite of evolution.
+Nonetheless, our problem solving is held back when the power of bygone age holds back civilization's upgrades. This is the equivalent of Blockbuster getting to write rules to keep us renting DVDs instead of saving time and money with YouTube and Netflix. Antagonism is the opposite of evolution.
 
 This classic battle between old and new, good and evil, fills our stories from Greek Mythology to Shakespeare. Today the most famous story is Star Wars, so I use it most often in this book. Star Wars is about a galaxy with an all-powerful energy field called the Force. Luke Skywalker's Jedi warriors' harness "the light side" to help others. Darth Vader's evil Sith lords' harness "the dark side" to help themselves and hurt all who oppose them.
 
@@ -871,40 +861,55 @@ That's an Uber ride. And if you've ever taken one, you've participated in mass-c
 
 Once upon a time in the Industrial Age, this coordination was done by many managers at the taxi, media, and automotive companies. Driver timesheets, dispatch call-centers, complaint resolution, company marketing, vehicle licensing. In the Internet Age, all this paperwork is handled by Uber's (mostly open-source) software. The company Uber still has to staff managers, marketers, executives, and whatnot. But the proportion is far less.
 
-While Darth Taxi-Cab tried to stop Uber in court and government lobbying, it didn't work. Once people use mass-collaboration, it's too practical to be stopped. It's something to keep in mind while you're reading this book. Our way of life will get better. It'll get better much faster once we realize our actions, even if just catching a lift, upgrades our civilization to the Internet Age. Taking an Uber is how easy it is to become a player god.
+While Darth Taxi-Cab tried to stop Uber with lawsuits and government lobbying, it didn't work. Once people use mass-collaboration, it's too practical to be stopped. It's something to keep in mind while you're reading this book. Our way of life will get better. It'll get better much faster once we realize our actions, even if just catching a lift, upgrades our civilization to the Internet Age.
+
+Taking an Uber is how easy it is to become a player god.
 
 Also, notice how similar apps like Door Dash, Uber Eats, Airbnb help "the little guy" use open-source software to share resources once only open to big taxi, fast-food, and hotel companies. With all this in mind, it's time to meet the hero of Techvolution. The one who'll bring-on the era of mass-collaboration for the player gods of Main Street by defeating evil Darth Blockbuster.
 
 ![collaboration](/img\diagrams\techvolution-uber-ride-collaboration.jpg)
-_An Uber ride is collaboration. The Internet Age empowers Main Street to keep cutting out the middlemen. Fittingly, I got these images from a free image service called Unsplash. This website empowers anyone to share and use professional-grade images. In the Industrial Age, these images would cost thousands of dollars._
+_An Uber ride is collaboration. The Internet Age empowers Main Street to keep cutting out the middlemen. Fittingly, I got these images from a free image service called Unsplash. This website empowers anyone to share and use professional-grade images. In the Industrial Age, these images would cost thousands of dollars. Credit _
 
 ## Nice to Meet You, Stargazer
 
-You're the hero! You're the one who can bring happy lives to Main Street. If you go for a jog, you just upgraded society's health statistics. Walk to a friend's house, you've lowered traffic and socialized your community. It's my mission to make you realize you're the player god capable of so much more.
+You're the hero! You're the one who can bring happy lives to Main Street. If you go for a jog, you just upgraded society's health statistics. Walk to a friend's house, you've lowered traffic and socialized your community. Stay inside and socially distance, you've helped "slow the curve" on a pandemic.
+
+It's my mission to make you realize you're the player god capable of so much more.
 
 That's why, whoever you are, and wherever you are on this Earth, I'm calling you Stargazer. It's a name in honor of ancestors like Copernicus, Bruno, and Galileo, who toppled Darth King by simply looking up at the stars and asking questions. These giants took on the responsibility to advance civilization and let evolution deal with the naysayers.
 
 You can topple Darth Blockbuster. Not only do you already wield much power with eReaders, smartphones, and hi-speed internet, you hold the strongest lever of power ever. From hospital cleaners to internet technical support, from civil engineers to insurance underwriters, you are at the frontline—the place that creates political power.
 
-I'm being very serious Stargazer. Remember, when I said, "power is to politics what money is to finance." Well, being on the frontline is why you're so powerful. You are society's nervous system. Feeling the pain of real work tells you the exact tools we need to finish the Internet Age upgrade. Darth Blockbuster will never understand what you know. So, while you're taking hold of the new levers of power, all the antagonists can do is play defense.
+I'm being very serious Stargazer. Remember, when I said, "power is to politics what money is to finance." Well, being on the frontline is why you're so powerful. You are society's nervous system. Feeling the pain of real work tells you the exact tools we need to finish the Internet Age upgrade. Darth Blockbuster will never understand what you know.
 
-That's why you, Stargazer, are the hero of Techvolution. That's the way it should be. Average Joes and Janes are always the heroes. Luke Skywalker, Princess Leia, Neo, and Cinderella were all regular people feeling the pain of real-life. Heroes aren't born. They're stargazers, dreamers, believers, and achievers. They become heroes when they step up to defeat the bad guys. I'm like Obi-Wan Kenobi, Morpheus, or the fairy godmother, merely a guide teaching you how to overcome the villains. So, the time is now, Stargazer, to leave the farm and join the rebellion.
+Do you think corporate or government bureaucrats really understand the pain points of our health-care systems Covid-19 response? How could they, if they don't feel geniune fear everytime they punch their clock like cleaners, nurses, doctors?
 
-The rebellion I speak of might be different than what automatically comes to mind. It is not a physical revolt. It does not involve rallies, marches, or protests. It's a rebellion of the mind. The Internet Age is held back by Darth Blockbuster and his Death Star rulebook. To earn our happiness, we need to turn you into an Internet Age player god. But to do that, you have to feel the click of "Eureka! I'm the player god. I'm the one who must evolve humanity to the Internet Age. Or we lose the game of civilization."
+All we have to to is connect this frontline pain, with modern technology, and Main Street will once again hold the levers of power. And, all the antagonists can do is play defense.
 
-FIGHT CLUB-IN MY HAND?
+That's why you, Stargazer, are the hero of Techvolution. That's the way it should be. Average Joes and Janes are always the heroes. Luke Skywalker, Princess Leia, Neo, and Cinderella were all regular people feeling the pain of real-life. Heroes aren't born. They're stargazers, dreamers, believers, and achievers. They become heroes when they step up to defeat the bad guys. I'm like Obi-Wan Kenobi, Morpheus, or the fairy godmother, merely a guide teaching you how to overcome the villains.
+
+So, the time is now, Stargazer, to leave the farm and join the rebellion.
+
+The rebellion I speak of might be different than what automatically comes to mind. It is not a physical revolt. It does not involve rallies, marches, or protests. It's a rebellion of the mind. The Internet Age is held back by the antagonism of Darth Blockbuster and his Death Star rulebook. To earn our happiness, we need to turn you into an Internet Age player god.
+
+But to do that, you have to feel the click of "Eureka! I'm the player god. I'm the one who must evolve humanity to the Internet Age. If I don't, we lose the game of civilization."
+
+<div style="width:100%;height:0;padding-bottom:44%;position:relative;"><iframe src="https://giphy.com/embed/6psF6vcajCX7y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/evolution-maps-cartography-6psF6vcajCX7y">via GIPHY</a></p>
+_Civilizations always rise and fall. And nobody wants to be part of the end. To avoid ours, you need to step up and upgrade our society to the Internet Age._
 
 ## Techvolution Builds on the Past
 
-The world's on your shoulders, Stargazer. But let's take a minute and ease some of the burdens. First off, the world is always on your shoulders. Organizations like "the government" and "the market," say they're always going to be there for you, but we all know that's a marketing promise more than a reality. Being a player god means taking extreme ownership of your life because your actions are always the best way to improve your life.
+The world's on your shoulders, Stargazer. But let's take a minute and ease some of the burdens. First off, the world is always on your shoulders. Organizations like "the government" and "the market," say they're always going to be there for you, but we all know that's a marketing promise more than a reality. After all, what lever of power do you have against a giant insurance corporation, or Internal Revenue Service. These organizations write the rules and control the call-centres, forms, and databases you use to deal with them.
+
+That's why being a player god means taking extreme ownership of your life because your actions are always the best way to improve your slice of the world.
 
 Exercising, saving for a rainy day, helping a customer understand their loan application, buying locally grown produce. These are actions of a player god. And they're not that complicated. So while yes, being a player god is hard, it's also rather straightforward. And many of us are doing it already.
 
-The difference with Techvolution is, we expect ourselves, and each other, to bring on the era of mass-collaboration. Vitally, we also demand the freedom to take responsibility for our home and work lives whenever a Sith Lord says helping our society is against the rules.
+The difference with Techvolution is, we expect ourselves, and each other, to bring on the era of mass-collaboration. Vitally, player gods also demand the freedom to take responsibility for our home and work lives whenever a Sith Lord says helping our society is against the rules.
 
 But none of this means you Stargazer have to re-invent society. We aren't throwing away any philosophy you, or anyone else, may believe in. Old philosophies, Protestant/Catholic, Right/Left among them, will always teach us lessons, help us do our jobs better, and enlighten our personal opinions. The ideals and openness of Progressivism help bring new peoples into the Western culture while giving a helping hand to those already inside. The practicality and steady hand of Conservatives help ensure our society keeps working and doesn't derail from too much idealism. Moreover, each side has an immense understanding of complex fields like monetary policy, farm regulation, labor relations, and more. This single book can't replace all that knowledge. It would be laughable to suggest it could.
 
-Moreover, and this is the crucial point for people inside the government, Techvolution frees you to start solving problems. Ideology already dies pretty quickly when entering government. Seeing "the books" of massive unfunded social programs alone is quite sobering. Antagonists block practical solutions to tgovernments problems—whether it be stubborn teachers unions or corporate lobbyists—as much as they hold back Main street. When I say Left/Right politics, it's usually not those inside the government but outside ideologues with a simplistic view of our world who I take aim at. These are the people who radicalize what is still a well structured political system.
+Moreover, and this is the crucial point for people inside the government, Techvolution frees you to start solving problems. Ideology dies pretty quickly when entering government. Seeing "the books" of massive unfunded social programs alone is quite sobering. Antagonists block practical solutions to governments problems—whether it be stubborn teachers unions or corporate lobbyists—as much as they hold back Main street. When I say Left/Right politics, it's usually not those inside the government but outside ideologues with a simplistic view of our world who I take aim at. These are the people who radicalize what is still a well structured political system.
 
 ![protest](/img\diagrams\protests.jpg)
 _Unhelpful radicals. They're trying to improve the future with the philosophy of the past. When they fail, they blame the other side. A new philosophy needs much personal reflection._
@@ -913,9 +918,11 @@ The solution to radicalization is giving power to the frontline. Like voting our
 
 We're already starting to use digital tools to improve our lives. YouTube product reviews. Quora questions. Cutting cable cords and using Netflix. By controlling modern tools, the middle-class is starting to take control of society's new levers of power. Wanting to control more is the rebellion inside our mind we need to establish the Internet Age.
 
-That's why controlling tools is the Nature of all political battles. Whether in galaxies far far away, street fights in parking lots, wars between nations, or your own life. It's why antagonists make new tools against the rules. And why I needed to write a book to remind everyone philosophies and rules are supposed to empower player gods to push human evolution, not get in its way. But since many rules stall the Internet Age upgrade Stargazer, we must pack our bags, rally our friends, and get ready for a fight. It's time to blow up a Death Star and become immune to dark majic.
+That's why controlling tools is the Nature of all political battles. Whether in galaxies far far away, street fights in parking lots, wars between nations, or your own life. It's why antagonists make new tools against the rules. And why I needed to write a book to remind everyone philosophies and rules are supposed to empower player gods to push human evolution, not get in its way. But since many rules stall the Internet Age upgrade Stargazer, we must pack our bags, rally our friends, and get ready for a fight. It's time to blow up a Death Star.
 
-DIAGRAM
+First we have to become immune to something called dark majic.
+
+![Diagram](\img/diagrams/techvolution-upgrade-battle.png)
 
 # ACT TWO - BLOWING UP THE DEATH STAR
 
@@ -925,10 +932,12 @@ Life's been evolving for billions of years. Humanity continues life's evolution 
 
 Some examples. In the 1970s, AT&T defended its telephone monopoly by successfully lobbying the American government to ban internet modems. In 1984, the broadcast television industry tried to ban video cassette recorders (VCRs) and only lost by one vote in the Supreme Court. In 2001, the music industry defended compact discs (CDs) by successfully suing Napster for giving people digital songs. Likewise, Tesla, Uber, Airbnb's most significant competition has been in the courtroom. Throughout society, antagonists have found rules that force people to keep using Industrial Age tools.
 
-City by-laws, industry certifications, insurance regulations, labor laws, government lobbies full of lobbyists, the mountains of red-tape; the endless pages of today's rulebook is our society's Death Star because Darth Blockbuster uses it to prevent new and better technology reaching the frontline. But before you face Darth Blockbuster and blow up his superweapon, Stargazer, you must learn what weapons you have at your disposal. The most formidable? The all-powerful energy field inside every lifeform. No, not the Force. I'm talking about evolution.
+City by-laws, industry certifications, insurance regulations, labor laws, government lobbies full of lobbyists, the mountains of red-tape; the endless pages of today's rulebook is our society's Death Star because Darth Blockbuster uses it to prevent new and better technology reaching the frontline. But before you face Darth Blockbuster and blow up his superweapon, Stargazer, you must learn what weapons you have at your disposal. The most formidable? The all-powerful energy field inside every lifeform.
+
+No, not the Force. I'm talking about evolution.
 
 https://www.youtube.com/watch?v=zD578MutMAk&list=PL4E3463842B01E133&index=14
-_I don't want to personify Darth Blockbuster. But here's an ad for an online investment brokerage. I have no idea if they're any good or not, but the ad displays the scenario that makes a person think, "how can I stop this change from happening." Once common and esteemed positions of the Woodstock 1969 way of life, like reporters, professors, brokers, are facing this scenario. Only when Main Street has the right to always use better technology (Techvolution) can our society overcome the selfish—albeit understandable—side of human Nature that creates antagonists. Furthermore, when you see an antagonist fighting against new and better technology you should respond the same way Leftists do when hearing racism, or a Rightist do when hearing higher taxes, and fight for your rights._
+_I don't want to personify Darth Blockbuster. But here's an ad for an online investment brokerage. I have no idea if they're any good or not, but the ad displays the scenario that makes a person think, "how can I stop this change from happening." Once common and esteemed positions of the Woodstock 1969 way of life, like reporters, professors, brokers, are facing this scenario today. Only when Main Street has the right and duty to always use better technology (Techvolution) can our society overcome the selfish—albeit understandable—side of human Nature that creates antagonists. Furthermore, when you see an antagonism you should respond the same way Leftists do when hearing racism, or a Rightist do when hearing socialism, and fight for your rights._
 
 ## The Magic of Evolution - How Evolution Works
 
