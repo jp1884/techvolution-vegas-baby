@@ -2609,11 +2609,9 @@ Fighting for those policy's hasn't gotten Main Street anywhere. Nevermind the fa
 
 _When playing a civilization-building game, players must change their policies to get happier citizens. The difference in real-life is there is no "player" except you and your friends. It's up to you all to change society._ [Credit: Anno 1800.](https://www.youtube.com/watch?v=-EHuL2x5bOs)
 
-## Old Mud Roads
+## Player Gods Reach for the Tools and Don't Chase Phantoms
 
-
-
-A time when humans only had a few tools at hand. Red/blue 
+Many people know what a revolution is. The difference between it and Techvolution is a revolution fights to change the rule-makers, while Techvolution fights to distribute new levers of power. Techvolution is better. Because if you still think the rules, regulations, and laws of society control our destiny you're wrong; they don't. I'll show you why.
 
 Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll say something like, "if the red team wins this one, then education, healthcare, infrastructure, and everything else will go to shit." What he means is elections decide the rule-makers, and that blue rules make a good society while red rules make a bad one.
 
@@ -2637,3 +2635,32 @@ _Cutting edge technology when Left/Right was born._
 Instead, our Right/Left philosophical fathers had mud roads, grandfather clocks, and abacus calculators. Being hungry and sick, cold, and ignorant was a way of life back then. That's why pure individual self-interest was so good at improving society. Rules and regulations could be limited because individuals were already determined to find new technology to help ease their pain.
 
 In fact, Left and Right came together to help them do it. That's why Rightists defend property rights so much. They argued if property is privatized, the more productive it'll be when feeding, employing, or making things for people. Progressive's chimed in, that society needs to share the wealth. Otherwise why would non-property owners be loyal to a community that excludes them.
+
+During the Industrial Age, Left and Right ideologies formed the ideal player god to win the game.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SorrowfulPeacefulCuscus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+Right/Left motivated society to improve their primitive world with better tools. And, truth be told, they did! That's why our ancestors agreed on the same big picture; individuals need to globalize the world to industrialize society via mass-production.
+
+Soon enough society upgraded to steam engines, sanitation systems, science labs, telephone networks, broadcast televisions, and computers the size of rooms.
+
+During the Industrial Age, the people needed to be managed inside huge corporations and color-coded parties. Although calling exhausted farmers and overworked factory workers player gods may seem silly, it's not. Someone needed to be using primitive tools to make better ones. To their credit, blue and red philosophies gave regular people a voice in how their factories, regulations, and profits were controlled.
+
+Today, however, we live inside the world the Industrial Age dreamed of making. We've grown a massive ecosystem of cities, factories, offices, telecommunications, and digital technology. The Industrial Age has done its job. It's time to empower the people using the digital tools they worked so hard to create.
+
+Happily, we already are. That's the reason we're so addicted to new technology. Checking news feeds, flying drones, taking endless photos, playing hours of computer games are acts of extras mastering the tools of player gods. Our ancestors did the same when learning about printed books, telescopes, and muskets. Those were merely addictive toys until new philosophies turned them into the lightsabers that finally brought down Darth King and the Medieval Age. When regular people could read unknown history, see the universe for themselves, and revolt against royalty the game was won.
+
+Our addicting toys are also new levers of power. They're so powerful, we can use these proverbial lightsabers to earn a happier life. We will, once we forget about Left/Right phantoms, and use Techvolution to defeat Darth Blockbuster, his Death Star, and upgrade to the Internet Age.
+
+https://youtu.be/CY9-y5zZkxs?t=7
+_Compare this person to Leftists marching for "climate justice" or Rightists for "lower energy taxes." Isn't this the person you'd want to play your game of civilization? A regular person using a modern tool to improve his energy efficiency, increase his power, and improve his society. And once we've done our daily work, we can play basketball, watch a movie, or do whatever else we want. We just shouldn't chase phantom communists or fascists. We're better off sealing or replacing our, or someone else's, drafty windows. And if you think government regulations should force people to act like this, you'll end up fighting them. It's better to think of ways to make it easier, and more profitable, to make good decisions._
+
+Expecting Left and Right ideologies to help our evolve, would be like asking a captured animal to adapt to its native environment. A polar bear in a zoo has no idea the artic is melting. It's impossible for it to evolve to a changing environment unless it feels frontline pain.
+
+That's why Main Street must evolve on its own. We're the ones feeling the growing unhappiness of everyday life.frontline pain. Especially during this pandemic, we're being forced to find new ways to harvest resources so far unthought of in humanity.
+
+## Call Centre Example
+
+For example, one time in car claims, a customer called asking, "Why did you send me to collections!". I was baffled because I didn't, nor could I; I could only approve or deny claims. It turns out the rental car company didn't send their bill, and when it wasn't paid sent our mutual customer to a collections agency. I called the rental company told them they were idiots, and sent them their 100 odd dollars check.
+
+Even when the customer did nothing wrong, he still had to deal with three company call centres to fix a problem. Worse, he was left wondering what was going to happen to his credit rating. The rental car company, collections agency, credit rating company, and even me, faced no repercussions because the only lever of power the customer had was to complain.

@@ -594,15 +594,17 @@ And the Romans did all this with only several hundred state bureaucrats. Communi
 
 Also, the Roman army didn't have professional schools. For hundreds of years they were the world's best engineers and fighters. But all soldiers and officers a like all learned on the job, and did just fine.
 
-When given the chance, humanity is great at self-organizing. Picture it as a sports team. Because all members have a clear goal, to win the soccer game, everyone is capable at assessing each other's contribution. A clear mandate to win lets administrators, leaders, forward, defender, and ball-boys be assessed by the team, instead of a distant bureaucrat.
+When given the chance, humanity is great at self-organizing. Picture it as a sports team. When all members of a group have a clear goal, for example to win the soccer game, everyone is capable at assessing each other's contribution. A clear mandate to win lets administrators, trainers, coaches, captains, forwards, defenders, goalies can easily be assessed by the team, instead of a distant bureaucrat.
+
+Mass-collaboration, filled with people devoted to winning the game of civlization by evolving technological solutions to our many problems, can manage itself in the same way.
 
 But that's getting hard to do in today's bureaucratic world of "eight different bosses". Which is not an exaggeration. The next time you're at a fast-food place, ask to speak to the decision-maker; you'll get a corporate directory that never ends.
 
-Prior to the Industrial Age you'd speak with the cook or owner, get your answer, and go back to living your life. Which is also how the Internet Age will work too. Large corporations where once needed because Industrial Age technology was so bulky and expensive. But, since Internet Age technology gets cheaper and smaller it democratizes power.
+Prior to the Industrial Age you'd speak with the cook or owner, get your answer, and go back to living your life.
 
-Regardless, today's culture benefits managers, consultants, and executives. Thus, they want to keep things the same. And this creates much antagonism—primarily because we can see mass-collaboration of frontline specialists working already. It typically goes by the name share economy, crowd-sourcing, and Wikinomics.
+Today's culture benefits managers, consultants, and executives. Thus, they practice antagonism. Regardless mass-collaboration is already. It typically goes by the name share economy, crowd-sourcing, or Wikinomics.
 
-I call it the return of Main Street economics and it’s sweeping through our economy. In addition to popular apps like Airbnb and Etsy, there are countless examples in the open-source community alone. Each open-source project showcases mass-collaboration. The community comes together to make a core technology. Groups then use the core technology to create specialized products.
+I call it the return of Main Street economics and it’s sweeping through our society. In addition to popular apps like Airbnb and Etsy, there are countless examples in the open-source community alone. Each open-source project showcases mass-collaboration. The community comes together to make a core technology. Groups then use the core technology to create specialized products.
 
 For example, a large open-source community creates MediaWiki software. Then separate groups use MediaWiki to create Wikipedia, WikiHow, Fandom, and any other website you can think of. After all, MediaWiki is free for anyone to use however they want; gatekeepers be damned! And this aspect of mass collaboration hasn’t just been embraced by programmers. Mass-collaboration is how the Wikipedia community of writers, researchers, and editors wrote millions of articles in only a few years. It’s also how Linux, Android, Chrome, and many other excellent services work too.
 
@@ -613,7 +615,7 @@ All this praise doesn't mean open-source communities are perfect and can run the
 
 Within that in mind, however, open-source is vital.
 
-Its key value lies in the fact that nobody owns its server software, operating systems, web apps, and so many other remarkable technologies. That means Industrial Age managers can’t stop digital inventors from empowering more player gods. Whether it’s with a simple rotating list of persons to take out the trash. An app that let us rent someone's spare bedroom. An online encyclopedia with millions of helpful articles. Or software to give society internet streaming—as when a few hackers tore down “Darth Blockbuster’s” gate when he tried to keep us buying and borrowing his DVDs.
+Its key value lies in the fact that nobody owns its server software, operating systems, web apps, and so many other remarkable technologies. That means antagonists can’t stop digital inventors from empowering more player gods. Whether it’s with a simple rotating list of persons to take out the trash. An app that let us rent someone's spare bedroom. An online encyclopedia with millions of helpful articles. Or software to give society internet streaming—as when a few hackers tore down “Darth Blockbuster’s” gate when he tried to keep us buying and borrowing his DVDs.
 
 To continue opening gates, building the era of mass-collaboration, and ushering us into the Internet Age, the open-source community needs our support. We can't ask any more of them. The Jedi have done their job. Main Street needs to step up and flock to their banner and grab hold of the levers of power they've made for us.
 
@@ -624,12 +626,12 @@ _Figma is a design tool for websites and apps. In the past, designers, writers, 
 
 ## Fighting for The Future - The Era of Mass-Collaboration Won't Just Happen
 
-Once upon a time, I only wanted to learn about the open-source fight. Now I, too, want to push it forward. Mass-collaboration, telecommuting, right to repair, home power generation, and real internet privacy are just the tips of the iceberg. The visions of science fiction will only become reality once we replace old Industrial Age tools. The open-source community must get political, get mad, and learn to be selfish because they’re the leaders in the age-old story about New versus Old. Industrial Age versus Internet Age. Protagonists versus Antagonists. Jedi versus Sith.
+Once upon a time, I only wanted to learn about the open-source fight. Now I, too, want to push it forward. Mass-collaboration, telecommuting, right to repair, home power generation, and real internet privacy are just the tips of the iceberg. The visions of science fiction will only become reality once we replace old Industrial Age tools. The open-source community must get political, get mad, and learn to be selfish because they’re the leaders in the battle against antagonism: Industrial Age versus Internet Age. Protagonists versus Antagonists. Jedi versus Sith.
 
 ![old philosophy in a new world](/img\diagrams\suburbs-idealized.jpg)
 _The American Dream, if you want to live in 1969 forever. There are lots of antagonists in this photo. Newspapers, broadcasters, oil, gas cars, k-university education are among today's largest Industrial Age holdovers filled with layers of middlemen._
 
-The most dangerous thing right now is ignorance. People don't know about open-source or the future they're fighting for. The people are stuck fighting phantoms on behalf of outdated Left vs. Right politics. Both sides idolize 1969 because that was the end of the Industrial Age, and hence when they both peaked. Leftists think public life is one long Woodstock "activism" festival. At the same time, rightists really feel the perfect _Leave it to Beaver_ suburb will return once "the socialists" are defeated. Both Left and Right make up phantoms to keep themselves relevant.
+The most dangerous thing right now is ignorance. People don't know about open-source or the future they're fighting for. The people are stuck fighting phantoms on behalf of outdated Left vs. Right politics. Both sides idolize 1969 because that was the end of the Industrial Age, and hence when they both peaked. Leftists think public life is one long Woodstock "activism" festival. At the same time, rightists really feel the perfect _Leave it to Beaver_ suburb will return once "the communists" are defeated. Both Left and Right make up phantoms to keep themselves relevant.
 
 If you’re waiting for society to change, this is your chance. Once you take the tools in hand, you'll be the player god of a new society.
 
@@ -637,56 +639,52 @@ To live thriving, prosperous, happy lives again, Main Street has to bypass the m
 
 We’ll upgrade our civilization when we fully enter an era of mass-collaboration.
 
-https://www.youtube.com/watch?v=nndvhbLSlpk
+https://www.youtube.com/watch?v=ggrkTLEfFXA
 
-_This is Louis Rossmann. He repairs computers—but some manufacturers make it hard to because they want customers to replace them instead. Louis advocates for us all having the "right to repair." Because of digital technology and open-source, regular people like him and his followers can band together as player-gods. Take a look, and you'll see mass-collaboration is already starting to happen on Instagram, Reddit, and Twitter posts. I admit it can be hard to spot through all the noise. But it's still there and growing._
+_This is Louis Rossmann. He owns an electronics repair business. He's popular on YouTube because he teaches other people how to repair their electronics using open-source technology. When Louis needed a new store location, a random person did a better design job than a big firm. This is one example how modern technology lets regular people work together and facilitate their mutual happiness. This doesn't meant big firms will go away, but it does mean individuals or small businesses wont be stuck relying on them or their gated expertise._
 
 ## Open-Source Lets Us Bust Open Gates And Initiate The Internet Age
 
 Currently, when you phone a call center, everything is recorded. The company has access to the recording; you don't. Likewise, when the employee logs in and out of the office, that, too, is recorded. Management automatically has access to these timesheets; the employee doesn't.
 
-Access to things like phone recordings and timesheets are levers of power. They decide how resources are distributed in our society. Today management and corporations put "gates" around many of _our_ levers out of self-defense. Is there a good reason why customers can't confirm what was agreed to during their last phone call, or employees can be grilled for a long lunch when the same manager quickly forgets unpaid overtime.
-
-One time in car claims, a customer called asking, "Why did you send me to collections!". I was baffled because I didn't, nor could I; I could only deny claims. It turns out the rental car company sent their bill to the driver instead of me. I called them and told them to f*ck off, and sent them their 100 odd dollars. In any case, the customer did nothing wrong, but still had to deal with three company call centres to fix a problem. Worse, he was left wondering what was going to happen to his credit rating. The rental car company, collections agency, credit rating company, and even me, faced no repercussions because the only lever of power the customer had was to complain.
+Access to things like phone recordings and timesheets are levers of power. Levers decide how resources are distributed in our society. Today management and corporations put "gates" around many of _our_ levers out of self-defense. Is there a good reason why customers can't confirm what was agreed to during their last phone call, or employees can be grilled for a long lunch when the same manager quickly forgets unpaid overtime.
 
 This story is familiar to anyone who has dealt with government and corporate burecracies. This lopsided balance of power for everday events allows customers and employees to be taken advantage of, encouraging mistrust, bad products, and inefficient workplaces. Uneven power makes mass-collaboration impossible. Which is what Industrial Age holdovers want.
 
-The greatness of the open-source community is threefold. First, it sets a great example because it entrusts everyone with all available information. Second, open-source wants more members, so the community loves to dismantle gates and distribute levers of power to regular people. And third, since no one owns open-source technology, the people can empower ourselves with levers of power, only big companies used to control. Such has call recordings, timesheets, and records of claim payments.
+The greatness of the open-source community is threefold. First, it sets a great example because it entrusts everyone with all available information. Second, open-source wants more members, so the community loves to dismantle gates and distribute levers of power to regular people. And third, since no one owns open-source technology, the people can empower ourselves with levers of power only big institutions used to control. Such has call recordings and timesheets.
 
-Distributing the levers of power moves us into the Internet Age. It treats people like adults and expects them to act like it. And if they don't, well it's not like they can complain about mistreatment. With digital technology all the records are recorded. Once they're open and transparent a disgrunntled person has to reference facts instead of conjecture and emotion.
+Distributing the levers of power moves us into the Internet Age. It treats people like adults and expects them to act like it. And if they don't, well it's not like they can complain about mistreatment. With digital technology all the records are recorded. Once they're open and transparent a disgruntled person has to reference facts instead of conjecture and emotion.
 
 For example, I can't lie to you about starting this book in September 2019. It's all recorded by GitHub's "version control" system. Meaning, everyday I've uploaded the latest draft to a computer that timestamps everything. You can see all the versions if you want.
 
-This kind of open information makes lying to you, and myself, so much harder.
+Open information makes lying to you, and myself, so much harder.
 
 In my experience (and this is after processing 10,000 insurance claims) the vast majority of people just want to go on with their lives. It's only when they're misled, disadvantaged, and left in the dark that makes regular folk to lash out. Open information, with easy to follow rules, are reasonable and thus gets the most out of people. Especially because it makes cheating too hard for most people to bother with.
 
 People working for apparently unselfish reasons is not new. Evolutionary biology is uncovering ever more ways humanity is often altruistic and self-governing. Early America was blessed with communal barn-raising, quilting societies, and fraternal associations who goverened themselves in a Main Street economy. Open-source software and mass-collaboration simply adopts the same incentives. Because once our basic neccessities are met, most people want to improve their craft, gain respect of their peers, and pass-on their knowledge.
 
-Open-source hero Linus Torvalds explained it as “Money is not the greatest of motivators. Folks do their best work when they are driven by passion. When they are having fun. This is as true for playwrights and sculptors and entrepreneurs as it is for software engineers.” It's the job of leaders to inspire passion. It's poor or needless leaders who blame their workers for their bad leadership.
+Open-source hero Linus Torvalds explained it by pointing out “Money is not the greatest of motivators. Folks do their best work when they are driven by passion. When they are having fun. This is as true for playwrights and sculptors and entrepreneurs as it is for software engineers.” It's the job of leaders to inspire passion. It's poor or needless leaders who blame their workers for their bad leadership.
 
-Torvalds concludes by saying “What astonishes so many people is that the open source model actually works.”
+Do we accept coaches blaming their players for losing the game? We don't because as Torvalds concludes “What astonishes so many people is that the open source model actually works.” People will play hard, if their inspired by good leadership and good philosophy..
 
 With open-source we have the technology to create our own levers of power for our warranty contracts, tax-laws, employment agreements, claim systems, and so on. We only need the people to step up, participate, and demand it as player gods.
 
-So, when the doctor's office tells you to "fill in these forms", it's okay for you to say "here's my information and claim app, if you want my money, you'll use my system too."
-
-Once we step up, all workers—from waitresses, mechanics, and teachers—will finally end the Industrial Age. Mass-collaboration will be similar to how factories and production lines swept across our society in just a few decades during the era of mass-production. Fun and productive workdays is the world of science fiction regular people can build for ourselves. It's the only way we'll live thriving and happy lives again.
+Once we step up, all workers—from waitresses, mechanics, and teachers—will finally end the Industrial Age. Mass-collaboration will be similar to how factories and production lines swept across our society in just a few decades during the era of mass-production. Fun and productive workdays is the world regular people can build for ourselves. It's the only way we'll live thriving lives again.
 
 ![old philosophy in a new world](/img\diagrams\github-repo-rails2.jpg)
-_This is the GitHub "repo" for Ruby on Rails, the open-source technology that runs apps like Basecamp, Airbnb, and Shopify. This software is worth billions and totally free to use. Making it free adds value, because programmers contribute to each other's work, instead of repeating the same code. "Rails" does all this with few memos, delegators, or garbage meetings. This is how simple and effective mass-collaboration is._
+_This is the GitHub "repo" for Ruby on Rails, the open-source technology that runs apps like Basecamp, Airbnb, and Shopify. This software is worth billions and totally free to use. Making it free adds value, because programmers contribute to each other's work, instead of repeating the same code. Using GitHub's collaboration software, "Rails" does all this with few memos, delegators, or garbage meetings. Mass-collaboration can be this simple and effective._
 
-## The Context to our Story — Launching Techvolution and Making Player Gods
+## Our Story — Launching Techvolution and Making Player Gods
 
-The middle-class has to step up and upgrade our way of life to the Internet Age. We must grab hold of the levers of power the open-source community has made for us. Only then will we live in the era of mass-collaboration. If we don't, we'll keep suffering the pains of a degenerating society. This pandemic might only be the beginning.
+The middle-class has to step up and upgrade our way of life to the Internet Age. We must grab hold of the levers of power the open-source community has made for us. Only then will we live in the era of mass-collaboration. If we don't, we'll keep suffering the pains of a degenerating society. This pandemic will only drain more resources, cause more political hatred, and make our lives even unhappier.
 
-Stepping up means Main Street stops blaming phantom communists and fascists for our problems. Instead, regular people must believe in a new philosophy that makes them player gods who take control and responsibility of their culture. This means grabbing new apps, electronics, and gadgets to transform their way of life.
+Stepping up means Main Street stops blaming phantom communists and fascists for our problems. Instead, regular people must believe in a new philosophy that makes them player gods who take control and responsibility of their culture. This means grabbing new apps, electronics, and gadgets to transform our way of life.
 
 The biggest roadblock to the Internet Age is Darth Blockbuster, the self-entitled holdover from the Industrial Age.
 
-The Sith Lord is the reason "antagonism" is our new evil. Darth Blockbuster stalls the future by writing rules to keep his Industrial Age tools, and himself, in power. These rules are like a Death Star. They concentrate the legal departments, HR reps, corporate lobbyists of a bygone age, to keep Main Street away from a happier life inside the era of mass-collaboration. Therefore, before our civilization can evolve, we need to defeat Darth Blockbuster and blow up his super-weapon.
+The Sith Lord is the reason antagonism is our new evil. Darth Blockbuster stalls the future by writing rules to keep his Industrial Age tools, and himself, in power. These rules are like a Death Star. They concentrate the legal departments, HR reps, corporate lobbyists of a bygone age, to keep Main Street away from a happier life inside the era of mass-collaboration. Therefore, before our civilization can evolve, we need to defeat Darth Blockbuster and blow up his super-weapon.
 
-That’s the setting of your life’s story. The plot remains to be written, whether you’re brave enough to write it yourself or you’ll let others write it for you. Will you become a player god and fight to control our society’s levers of power like timesheets, health records, and power generation? The antagonists are already playing. And this battle is the game of every civilization: it either wins or dies. It’s not at all dramatic to say this; the fate of your children, culture, and civilization is on your shoulders.
+That’s the setting of your life’s story. The plot remains to be written, whether you’re brave enough to write it yourself or you’ll let others write it for you. Will you become a player god and fight to control our society’s levers of power like timesheets, health records, and power generation? The antagonists are already playing. And this battle is the game of every civilization either wins or dies. It’s not at all dramatic to say this; the fate of your children, culture, and civilization is on your shoulders.
 
 I’ll explain the philosophy we need to win, but whether you decide to become a player god is up to you. If you’re ready, keep reading. It’s time to strategize.
 
@@ -699,11 +697,11 @@ Before you set up to the role of a player god, here are a few terms that will pu
 
 ===
 
-**Player god**: Imagine a person playing a computer "civilization building" game with our society. They would hold all the levers of power and thus decide where to put roads, what food to grow, and when houses get solar panels. Of course, there is no such deity. In reality, it's the choices of individuals that decide what the community does. We decide to emit too much CO2, eat healthy good, or learn a new skill. It's only when a person takes responsibility for their actions, do they become player gods who "play the game" of civilization. _The player god_ is a community playing the game together because they're united by the same philosophy.
+**Player god**: Imagine a person playing a computer "civilization building" game with our society. They would hold all the levers of power and thus decide where to put roads, what food to grow, and when houses get solar panels. Of course, there is no such deity. In reality, it's the choices of individuals that decide what the community does. We decide to emit too much CO2, eat healthy good, or learn a new skill. It's only when a person takes responsibility for their actions, do they become player gods who "play the game" of civilization. Note, _the player god_ is a community of people playing the game together because they're united by the same philosophy.
 
-**Philosophy**: The largely unspoken ideals that tell individuals what's right and wrong, good and bad, in science, art, morals, politics, and economics. Inside books, declarations, and constituions philosophy is supposed to unite individuals to see the big picture and reveal how everyone’s choices matter, because everyone is a player god.
+**Philosophy**: The largely unspoken ideals that tell individuals what's right and wrong, good and bad, in science, art, morals, politics, and economics. Philosophy is created inside books, declarations, and constituions to unite individuals to see the big picture and reveal how everyone’s choices matter, because everyone can be a player god.
 
-**Ruling philosophy**: A civilization's chosen philosophy. One that "clicks" for all factions/ideologies. Examples include the "Divine Rights of Kings," derived from Christian theology and used in royalist Europe; "Marxist-Leninism" of the Soviet Union; and the combination of "Right/Left" philosophies of the Western world today. The ruling philosophy is supposed to help society win the game of civilization.
+**Ruling philosophy**: A civilization's chosen philosophy. One that "clicks" for all factions and ideologies. Examples include the "Divine Rights of Kings," derived from Christian theology and used in royalist Europe; "Marxist-Leninism" of the Soviet Union; and the combination of "Right/Left" philosophies of the Western world today. The ruling philosophy is supposed to help society keep evolving to win the game of civilization.
 
 **Happiness**: The test of how well the ruling philosophy is doing its job. Spending quality time with family, having good friends, working a steady job, being in good physical and mental health, and looking forward to the future are all signs of (genuine) happiness.
 
@@ -713,7 +711,7 @@ Before you set up to the role of a player god, here are a few terms that will pu
 
 **Tool**: A catchall term for things we create with technology to solve a problem, like guns to kill bad guys, books to record and pass on knowledge, and houses to shelter in. We use tools to evolve.
 
-**Levers of Power**: The most powerful tools; the ones that control society. In Civilization games, these are the buttons, toggles, and sliders players use to play. In reality, levers of power are the tools that power, educate, inform, feed, and transport resources in our society. The more levers a person controls, the more self-sufficient they are, and hence more free to become a player god.
+**Levers of Power**: The most powerful tools; the ones that control society. In Civilization games, these are the buttons, toggles, and sliders players use to play. In reality, levers of power are the tools that power, educate, inform, feed, and transport resources in our society. The more levers a person controls, the more self-sufficient they are, which gives them the freedom to be become a player god.
 
 **Frontline**: The point of contact between a tool and the problem. Nurses giving vaccines, cleaners cleaning a city bus, and soldiers on the battlefield are all examples of frontline settings. People on the frontline work jobs that solve specific problems with a proven skillset. Frontline workers physically hold the levers of power, but don't always control them—they will, once the era of mass-collaboration starts.
 
@@ -729,17 +727,17 @@ Before you set up to the role of a player god, here are a few terms that will pu
 
 **The Death Star**: The rulebook when it's controlled by Darth Blockbuster. Today it exists inside many regulations, agreements, manuals, contracts, and laws that prevent new levers of power from reaching Main Street. The Death Star is currently busy trying to keep the Industrial Age alive.
 
-**Techvolution**: A new philosophy empowering seamless human technological evolution by ridding Darth Blockbuster of his power, by giving player gods the right and duty to decide when society should upgrade our tools.
+**Antagonism**: Darth Blockbuser's official ideology. It's always hidden inside terminology and beliefs of an old ruling philosophy. For example, the (supposed) noble bloodlines of European royalty. Today, antagoism is Main Street's biggest political opponent.
 
-**The Life Star**: A rulebook based on Techvolution that's governed by human technological adaption and natural selection. It makes sure humanity never again creates antagonists who stall our upgrade to the next technological age.
+**Techvolution**: A new philosophy empowering seamless human technological evolution by ridding Darth Blockbuster of his power, by giving player gods the right and duty to decide when society should upgrade our policies and tools.
+
+**The Life Star**: A rulebook based on Techvolution that's governed by human technological adaption and natural selection. It makes sure humanity never again lets antagonism stall our upgrade to the next technological age.
 
 **Plot**: Getting the extras to step up, grab hold of society's new digital levers of power, and become player gods who replace their ruling philosophy with Techvolution and thereby establish the era of mass-collaboration inside the Internet Age.
 
 _Our civilizations have always had problems. It’s up to regular people to use new tools to solve them. Today, it’s our turn. Let’s get started. [Credit: Tech Insider](https://www.youtube.com/watch?v=2HubIBlnvko)_
 
-The Coronavirus Pandemic is a sign of things to come. We've been running on the old ideological fumes of the Industrial Age for generations. I can't think of a better time to upgrade then now.
-
-Unfortunately, unlike in computer games, in the real "tech tree" of new technologies and policies, we don't merely press "upgrade." When the time comes. We have to overcome the power brokers of the past. Stopping our progress into the Internet Age is the philosophy of mass-production, Left/Right politics, and our nemesis, Darth Blockbuster.
+<!-- unsure which to have, might be a gametime decision.-->
 
 <div style='position:relative; padding-bottom:calc(53.75% + 44px)'><iframe src='https://gfycat.com/ifr/FirmActualHart' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/firmactualhart-bill-lumbergh-office-space-gary-cole">via Gfycat</a></p>
 
