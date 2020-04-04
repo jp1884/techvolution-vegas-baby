@@ -71,6 +71,7 @@ Have to integrate the next several chapters into a Life Star sequence, and use t
 - https://soundcloud.com/bloomberg-business/episode-5-the-world-isnt-getting-pricier-fast-enough geo-centric economist trying to make the numbers keep working
 - You can thus think of the collection of player gods as an ecosystem. Either your lifeform actively working to harvest resources inside a food chain, or an extra who doesn't belong.
 - You ever notice how animals flee captivity to return to Nature? They do because Nature is the rational state that enforces fair, understandable, reasonable rules. A rational state makes everyone happy.
+- _Then came the Hush-A-Phone case. It involved a simple plastic mouthpiece that could be snapped onto a phone to amplify your voice while making it harder for those nearby to overhear you. It had been around for twenty years, causing no harm, but then an AT&T lawyer spotted one in a shopwindow, and the company decided to sue on the absurd ground that any external device, including a little plastic cone, could damage its network. It showed how far the company would go to protect its monopoly._ Correction: there are no monopolies in the game, just technologies. AT&T wasn't protecting it's monopoly, but its technology. It's more accurate to see our actions like this, then within the framework of companies.
 
 ==
 

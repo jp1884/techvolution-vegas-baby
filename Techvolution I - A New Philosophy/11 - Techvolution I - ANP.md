@@ -611,7 +611,7 @@ For example, a large open-source community creates MediaWiki software. Then sepa
 ![old philosophy in a new world](/img\diagrams\techvolution-open-source-projects.jpg)
 _Some of the more famous open-source projects. Most of this software, worth many hundreds of billions, you can download and use for free. If you can't program, it only takes hiring a few to get whatever product you can imagine._
 
-All this praise doesn't mean open-source communities are perfect and can run the world. Open-source is only a part of the ecosystem bringing the Internet Age and mass-collaboration to life. There will always be significant energy, manufacturing, and mining companies with large corporate structures, mass-producing our essential products. Likewise, the government will still run social programs and install traffic lights.
+All this praise doesn't mean open-source communities are perfect and can run the world. It has problems, [mainly that it's easy to free-load off its contributors](https://www.youtube.com/watch?v=MO8hZlgK5zc), discouraging growth. That's why open-source is only a part of the ecosystem bringing the Internet Age and mass-collaboration to life. There will always be significant energy, manufacturing, and mining companies with large corporate structures, mass-producing our essential products. Likewise, the government will still run social programs and install traffic lights.
 
 Within that in mind, however, open-source is vital.
 
@@ -1523,20 +1523,41 @@ Technologically speaking, there's absolutely no reason for this. How is it that 
 
 <a href="https://github.com/torvalds/linux/archive/master.zip" target="_blank" class="button primary large">Instantly Download Billion Dollar Software For Free, Go Ahead and Try It</a>
 
-But to access our health insurance policy, we do what? What does it take to get the blueprints to our home? How many people understand how their mortgage works?
+But to access our health insurance policy, we do what? What does it take to get the blueprints to our home? How many people understand how their mortgage works? Why can a city by-law officer tell a business to take down their car lifts after 9 years in operation?
 
 The rules, regulations, contracts, and laws that govern our lives are a complete mystery to most of Main Street. And that makes us dependent on the bureaucratic creep of Big Business and Big Government inside city-halls, mortgage companies, and law offices.
 
-The truth is, regular people can work as freely as the _Cities: Skylines_ clip above. Like taking an Uber, or renting an Airbnb, open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, MySQL databases can literally put the power in our hands!
+The truth is, regular people and small businesses can work as freely as the _Cities: Skylines_ clip above. Like taking an Uber, or renting an Airbnb, open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, MySQL databases can literally put the power to understand, follow, and question the rules in our hands!
 
-Once we hold Internet Age levers of power, we'll make a rulebook that's friendly and reasonable. We'll always need experts. But a modern rulebook will let us understand what we should be doing. Can ask informed questions if something doesn't make sense. Are empowered to fight back if we think something is wrong. And vitally, also makes sure we're held accountable for our actions.
+Once we hold Internet Age levers of power, we'll make a rulebook that's friendly and reasonable. A modern rulebook will let us understand what we should be doing. Can ask informed questions if something doesn't make sense. Are empowered to fight back if we think something is wrong. And vitally, also makes sure we're held accountable for our actions.
 
-The Life Star will let personal relationships once again be ultimate manager of the economy.
+Instead of dense company policies, drawn-out lawsuits, and vague employment contracts, the Life Star will let personal relationships once again be ultimate manager of our economy.
 
-This new rulebook will only be a happy reality once Main Street uses Techvolution as our shield and motivation to bring-on the era of mass-collaboration. We'll talk about making this Internet Age rulebook a little later, in Techvolution II: Building the Life Star.
+However, this new rulebook will only be a happy reality once Main Street uses Techvolution as our shield and motivation to bring-on the era of mass-collaboration. We'll talk about making this Internet Age rulebook a little later, in Techvolution II: Building the Life Star.
 
 https://www.youtube.com/watch?v=PgGLgygsqus
 _This scene is from the movie "The Big Short." It's a movie about a few investors who saw the 2008 financial crisis coming. The Industrial Age antagonists wanted to keep building the 1969 lifestyle. To get people to sign, they used BMW driving underlings to sell a confusing rulebook. If you trick a camel into buying a house in the Amazon, that doesn't solve the fact its living out of its ecosystem._
+
+## Pandemic Test
+
+We've already seen in the "eight different bosses" of _Office Space_, the 3500% increase of bureaucrats in our medical system, and the custom car maker in the Joe Rogan clip, over society's extreme bureaucratication has been a growing burden for decades.
+
+Now we're really hoping our engineers, innovators, and designers [can build enough ventilators for our sick](https://www.youtube.com/watch?v=7vLPefHYWpY). I can't say how much better they could be doing, but I'm confident that exporting so much manufacturing, writing ever more red-tape, and depending so much on dark majic, means our society is adapting slower than it woulc be.
+
+It didn't need to be this way. When you're society is playing the game well, it has the resources, expertise, and drive to respond to any crisis.
+
+For example, in 1941, American had a tiny military, a size comparable to Canada's today. But when Japan attacked, and the Nazi's declared war, the two "awoke a sleeping giant". Because although America's military was small, it's industrial base was large, technical expertise was precise, and most of all it's people were happy; and thus very motivated to fight.
+
+Led by industrialists like [William S. Knudsen](https://en.wikipedia.org/wiki/William_S._Knudsen), and [Henry J. Kaiser](https://en.wikipedia.org/wiki/Henry_J._Kaiser) (both with no formal education) America's "V for Victory" war production program, vastly outproduced the Axis countries. Even though Germany, Japan, and Italy were geared for war, the American worker was twice as productive as a German, and four times more than a Japanase. The Ford Motor Company made more war equipment then all of Italy.
+
+If you want to read more about transformation during World War II, there's [lots of stuff already out there](https://en.wikipedia.org/wiki/Home_front_during_World_War_II). The point is, American got into the war in late 1941, and it was all over by mid 1945. A big reason is the blazing speed in which America designed, built, and delivered new ships, plans, and tanks. More proof that the civlization that adapts the fastest wins.
+
+And today we're worried about getting enough ventilators.
+
+On the bright side, crisis are when humanity is forced to adapt. Among the technical innications, World War II is when women and black Americans were finally let into the workforce en masse. A change that help motivate the feminist and civil rights movements when the war was won.
+
+![Battle Scene](/img\diagrams\3660777028_ab476812f3_o-smaller.jpg)
+This photos was taken in 1943 in Pascagoula, Mississipi at the Ingalls Shipbuilding Corp. While German and many Japanese women were prohihited from working, America was adapting; its no surprise which philosophy won. Credit: [National Archives Catalog](https://catalog.archives.gov/id/522890)
 
 ## Click
 
@@ -1546,19 +1567,29 @@ https://www.youtube.com/watch?v=ZOiPQ8nqB1s&feature=youtu.be&t=15
 
 Note, it's the extras of the Industrial Age who complain about everything because they've forgotten how fun it is to play the game of civilization.
 
-Here's my point, nobody knows how or why something clicks. However, we do understand when it does—when we can't go back. And could you ever drop Netflix and do back to driving to Blockbuster and back (twice) to watch one movie? What about flipping through encyclopedia books, or calling a taxi-cab and wondering when it'll arrive?
+Here's my point, nobody knows how or why something clicks. However, we do understand when it does; when we can't go back. And could you ever drop Netflix and do back to DVDs? What about flipping through encyclopedia books or calling a taxi-cab and wondering when it'll arrive?
 
 Of course not, and that's a good sign you're already a believer in the Internet Age.
 
-So, let's return to the book and our mission. I want you to drop the era of mass-production and Left/Right politics for Techvolution. A new philosophy that gives you the right and duty to upgrade our civilization to the Internet Age.
+Our civilization has fought many battles to to liberate extras from old ways of life. The first was the fight against king's and their despotism. After we defeated the divine nobles many "commoners" (white males) had voting, property, and free speech rights. The fight against sexism and racism is now distributing these levers of power to everyone in our society.
 
-I want Main Street to spread their power with #debtfreeliving, #byebyedarthblockbuster, #ilovecollaboration because that's what happy player gods do when we control the levers of power.
+These movements weren't good simply "because". By liberating more persons, our civilization got more player gods. And, just like in Nature, the more lifeforms play the game of evolution, the more adaptions there are solving real-life problems, and therefore the more likely you are to win. Backing this movements is why Left and Right won the Industrial Age.
+
+Now as we upgrade to the Internet Age, we have another "ism" in our way; antagonism. This ideology is the various justifications and rationales used by the Industrial Age establishment to hold back our technological progress for its self-interest.
+
+Antagonism is focing the middle-class to live as if its 1969. Living in the past is why we're as unhappy as camels living in the Amazon. The economic shutdown, fragile supply chains, unprepared citizens, extremely bureaucratic health-care system; the Great Covid-19 Pandemic, is revealing our outdatedness for all to see.
+
+The good news is, we already have Internet Age technology, and the "click" of Netflix means you are already majically attached to it. This book is merely trying to make you fight for a philosophy you already believe in.
+
+So, let's return to our mission. I want you to drop the era of mass-production and Left/Right politics for Techvolution. A new philosophy that gives you the right and duty to upgrade our civilization to the Internet Age.
+
+At the end of this book, I'd love it if you'd #debtfreeliving, #byebyedarthblockbuster, #ilovecollaboration. Because that's what happy player gods do when we control the levers of power.
 
 # Mid Point
 
 ## A Techvolution Battle Scene. Wikipedia vs. Books. Internet Age vs. Industrial Age
 
-Before we return to the battle with Darth Blockbuster Stargazer, let's get more backstory on the war to upgrade our civlization to the Internet Age. There's lots more stuff to improve then just storytelling technology; like the tools we use to record and access our general knowledge.
+Before we return to the battle with Darth Blockbuster Stargazer, let's get more backstory on the war to upgrade our civlization to the Internet Age. There's lots more stuff to improve then just storytelling technology. Let's talk about how we upgraded the tools we use to record and access our general knowledge.
 
 Humanity is always asking questions. Some of those today might be, why are the movies so expensive, are candy applies real apples, or, more importantly, what are proven techniques to stop the coronavirus. Humanity deal with all these questions by creating a reference tool.
 
