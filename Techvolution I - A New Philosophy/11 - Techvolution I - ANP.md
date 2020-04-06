@@ -1698,9 +1698,11 @@ Rousseau got paid in the pages of history. Because more than 300 years after his
 
 Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility's many banquets and balls. This was the opulence Cinderella dreamed about about while cleaning a dirty chateau. Sadly, unlike the fairy tale, the people didn't have a Fairy Godmother to make their dreams come true. Instead, the commoners cleaned the nobles' vast libraries, used guns while dying in their wars, and were told to ignore what scientific instruments revealed.
 
-They were distracted from the power of new tools by dark majic. As extras, they truly believed their beloved Holy Bible said only Darth King had the right to rule.
+They were distracted from the power of new tools by dark majic. As extras, they truly believed their beloved Holy Bible said only Darth King had the right to rule. The commoners even accepted paying all the taxes.
 
-Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other person. So, why can't everyone live up to their potential and become player gods? Rousseau made the people understand that books, guns, and scientific instruments should liberate extras, who were only in chains for the happiness of con artists. The self-proclaimed "divine nobility" didn't like hearing that. They declared Rousseau a banquet-pooper, a rule breaker, and chased him out of Switzerland, France, and England. Maybe that's why the genius philosopher rented instead of owned.
+Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other person. So, why can't everyone live up to their potential and become player gods? Rousseau made the people understand that books, guns, and scientific instruments should liberate extras, who were only in chains for the happiness of con artists.
+
+The self-proclaimed "divine nobility" didn't like hearing that. Especially the idea of paying taxes. They declared Rousseau a banquet-pooper, a rule breaker, and chased him out of Switzerland, France, and England. Maybe that's why the genius philosopher rented instead of owned.
 
 It didn't matter. The nobility was in the dying days of their Medieval Age ruling philosophy.
 
@@ -1708,10 +1710,10 @@ Starting in 1776, within Rousseau's lifetime, Darth King started to face the mus
 
 Cinderella soon forgot about the fancy ball, and instead sung the music of freedom in a choir of equals, that sounded something like this:
 
-GIF
-_Les Miserables is a story of antagonists, protagonists, and of course extras singing about becoming player gods. Notice after a new philosophy clicked, they made it real with that lever of power called a musket._
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GleefulAcclaimedIndianspinyloach' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+_Les Miserables is a story of antagonists, protagonists, and especially extras singing about becoming player gods. Notice after a new philosophy clicked, they made it real with that lever of power called a musket. Credit: [Civilization 6](https://www.youtube.com/watch?v=MD9druFjSkg) and [Les Miserables](https://www.youtube.com/watch?v=1q82twrdr0U)._
 
-Revolution spread the people's liberty, equality, and fraternity throughout the world. In a few years, the Medieval Age was finally gone. The royal Death Star was destroyed. Church and state were separate. Government had checks and balances. Civilization embraced a new ruling philosophy of Democracy. Main Street put presidents and senators, judges, and sheriffs in power, who ruled at the request of the people because the people were player gods.
+Revolution spread the people's liberty, equality, and fraternity throughout the world. In a few years, the Medieval Age was finally gone. The dark majic of fake holiness was exposed. The royals Death Star rulebook was destroyed. Everyone paid taxes and was answerable to the law. Church and State were separate. Government had checks and balances. Civilization embraced a new ruling philosophy of Equality and Democracy. Main Street put presidents and senators, judges, and sheriffs in power, who ruled at the request of the people because the people were player gods.
 
 Rousseau died never having found a home. After they won their revolutions, the people put him to rest inside the glorious Panthéon. He was heralded as a renowned breaker of chains, destroyer of corrupted rulebooks, and liberator of player gods with his new philosophy.
 
@@ -1721,7 +1723,9 @@ The question for us is, how did Rousseau help an entire people embrace a new age
 
 ## Old Philosophy vs. New Philosophy
 
-Techvolution is a philosophy book, but I don't directly reference past philosophies. Like any topic it takes some practice to read. However, I thought it might help to study a little. Below are snippets from two influential philosophers. One who hated Rousseau's ideas, and another who loved them.
+Techvolution is a philosophy book, but I don't directly reference past philosophies. Like any topic it takes some practice to read. However, I thought it might help to study the topic a little. Below are snippets from two influential philosophers.
+
+One who hated Rousseau's ideas, and another who loved them.
 
 ===
 
@@ -1746,137 +1750,218 @@ July 4, 1776
 
 ===
 
-There are many philosophies to believe in. Only when the people become player gods do we get to declare which should be our ruling philosophy. Let's see how our ancestors on Main Street won their battle against noble kings, so we can honour their legacy and upgrade our sociey today.
+There are always many philosophies to believe in. Only when the people become player gods do we get to declare which should be our ruling philosophy.
+
+Let's see how our ancestors on Main Street won their battle against noble kings, so we can honour their legacy and upgrade our sociey today.
 
 ![Treaty of Paris](https://en.wikipedia.org/wiki/File:Treaty_of_Paris_by_Benjamin_West_1783.jpg)
 
-_The American Revolution ended when the USA and the United Kingdom signed the Treaty of Paris (1783). The arrogant British nobles were so insulted by the sight of "commoners", they refused to sit with the Americansn, and so weren't painted in the official portrait. Player gods get their place in history, antagonists erase themselves. I love it!_
+_The American Revolution ended when the USA and the United Kingdom signed the Treaty of Paris (1783). The arrogant British nobles were so insulted by the sight of "commoners", they refused to sit with the Americans, and so weren't painted in the official portrait. Player gods get their place in history, antagonists erase themselves. I love it!_
 
 ## Society’s Three Stories Tell Us If We're Watching the Story of Civilization, or Playing the Game of Civilization
 
 Entering a new age doesn't require war, peace treaties, and funny unfinished portraits. Unfortunately, conflict usually tears down the old age and rings in the new. To avoid it while entering the Internet Age, we have to see our society better than Rousseau did. We can do that because we can learn from him.
 
-Rousseau's words echo this sentiment: let society enter into the Age of Enlightenment. Let the people debate, argue, and collaborate to find out who should operate their goverment. Encourage individuals to become player gods who use modern tools to improve their work and home lives. Tell the nobility return to natural equality. Let anyone lead society—if they can solve problems and thereby earn the public's approval and consent. Rousseau never said there shouldn't be leaders. He said leaders should deserve their spot in charge of the player gods general will.
+Rousseau's words echo this sentiment: let society enter into the Age of Enlightenment. Let the people debate, argue, and collaborate to find out who should operate the government. Encourage individuals to become player gods who use modern tools to improve their work and home lives. Tell the nobility to return to natural equality. Let anyone lead society—if they can solve problems and thereby earn the public's approval and consent.
+
+Rousseau never said there shouldn't be leaders. He said leaders should deserve their spot in charge of the player gods general will.
 
 He didn't phrase it like this, of course, but that's what Rousseau basically said. He understaood every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god.
 
-Rousseau's new philosophy says only by updating their ruling philosophy, can the people live happy lives in a healthy society with things like cash in the bank, well maintained infrastructure, and a stable supply chain.
+Rousseau's new philosophy says only by updating their ruling philosophy, can the people live happy lives in a healthy society.
 
-To turn extras into player gods, Rousseau used stories. It shouldn't come as a big surprise that the troublemaking philosopher was also a novelist.
+To turn extras into player gods, Rousseau used stories. With all the talk of heroes and villians, extras and player gods, it shouldn't come as a big surprise that the troublemaking philosopher was also a great novelist.
 
 So let's explain the three different stories that let Rousseau change the world:
 
 ===
 
-**Classic stories**: are good stories about real-life problems. A protagonist—and their supporters—leave their typical day, and build up the courage to think of the big picture; either they act overcome a newfound problem or no one else will. The ice-caps are melting says the heroic polar bear, and I'm going to teach us all to fish!
+**Classic stories**: are good stories about real-life problems. A protagonist and their supporters leave their typical day, and build up the courage to think of the big picture; either they act to overcome a newfound problem or no one else will.
 
-In a classic story, the protagonist and antagonist repeatedly think of new ideas and act on them. No one knows who'll win, which makes the heroes all the braver for fighting. Both sides fight to create or control levers of power like magic books, big bombs, or the secret lesson that'll teach polar bears how to fish.
+The ice-caps are melting says the heroic polar bear, and I'm going to teach us all to fish!
+
+If only it was that simple. But that's the point. To a protagonst solutions are that simple, and he'll show everyone the way.
+
+In a classic story, the protagonist marches on, and antagonist repeatedly tries to stop her. No one knows who'll win, which makes the heroes all the braver for fighting. Both sides fight to create or control levers of power like magic books, big bombs, or the secret lesson that'll teach polar bears how to fish.
 
 There's no way to know which stories will resonate with audiences. Still, only classic stories can resonate with audiences and become archetypes like _Cinderella_, _Romeo and Juliette_, _The Matrix_, and _Star Wars_.
 
-**Art stories**: are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think the big picture is doing whatever they want. The main character is thus selfish and self-important; a con-artist. Not because they do not help others, but because they want to be the hero even though they aren't teaching the polar bears to fish, so to speak.
+**Selfish stories**: also called art films, these stories are not about any specific problem. The main character doesn't challenge themselves or rise to the occasion. They think the big picture is doing whatever they feel like doing.
 
-The result is stories with no levers of power. Instead, art stories showcase the main characters' idiosyncratic behavior. Art stories are surprising to the point of being weird, with a conclusion that doesn't improve the world because the main character didn't even try to. Film festivals like Cannes, Sundance, and Toronto mainly show selfish films.
+The main character is thus selfish and self-important; a con-artist. Not because they do not help others, but because they want to be centre of attention even though they don't risk anything to earn it.
 
-**Spectacle movies**:- is about an obvious problem, i.e., Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are straightforward because the problem is straightforward; survive or die. However, since the action is so instinctual, there's no time for the protagonist to think of new ideas. The result is logical but unsurprising stories.
+They're a polar bear who complains about climate change instead of venturing out to learn how to fish.
 
-In a spectacle movie, the polar bears may survive, but will never adapt a new lever of power to change their fate. Instead, spectacle movies reuse old stories and characters and tell the same story. Spectacle stories always lose interest over time, producers are always looking for new customers with hype-filled, dark majic using, mass marketing campaigns. Most franchise movies, sequels, and remakes are spectacle movies.
+The result is stories with no levers of power. Instead, art stories showcase the main characters' idiosyncratic behavior. Selfish stories are surprising to the point of being weird, and can't improve the world because the main character didn't even try to. Film festivals like Cannes, Sundance, and Toronto mainly show selfish films.
+
+**Spectacle movies**: also called blockbusters, are about an obvious problem, i.e., Godzilla is here, so run like hell and keep running until the movie is over. Spectacle movies are straightforward because the problem is straightforward; survive or die. However, since the action is so instinctual, there's no time for the protagonist to think of new ideas. The result is logical but unsurprising stories.
+
+In a spectacle movie, the polar bears may fight off Artic oil drilling, but these spectacular victories do not adapt a new lever of power to change their fate.
+
+Instead, blockbusters reuse old stories and characters. Each replicated story gets less interesting, forcing their producers to look for new customers with hype-filled, dark majic using, mass marketing campaigns. Most franchise movies, sequels, and remakes are spectacle movies.
 
 ===
 
-These are the three-story categories. In a nutshell, classic stories tackle real-life problems. Art stories are self-obsessed. Spectacle stories are a distraction. This is why art/spectacle stories don't have "spoilers", while we want to "go in fresh" for classic stories.
+These are the three-story categories. In a nutshell, classic stories tackle real-life problems. Selfish stories are self-obsessed. Spectacle stories are a distraction. This is why selfish/spectacle stories don't have "spoilers", while we want to "go in fresh" for classic stories.
 
-Society transitions from classic, to art/spectacle inside ages. You can see the transition most easily in your favorite sitcom, such as _The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory_. They start off as classic stories, with characters who deal with relatable problems like not liking their jobs or being tired of dating. We see ourselves in these characters, so we cry and laugh because we know the stories could also happen to us too—we're living the same life on Main Street.
+Society transitions from classic, to selfish/spectacle inside ages. You can see the transition most easily in your favorite sitcom, such as _The Office, Seinfeld, Friends, HIMYM, The Big Bang Theory_. They start off as classic stories, with characters who deal with relatable problems for example not liking their jobs or being tired of dating.
 
-However, in later seasons, to keep their now popular characters alive, the sitcom characters stop evolving. Kramer can never get a job, Raj can't get a girl, Dwight can't get self-aware. Here sitcoms become art and spectacle stories. Art, because the main characters don't overcome problems anymore. And, spectacle, because we the audience keep watching our favorite actors, characters, sets, catch-phrases, instead of wanting a new story. The turning point between classic story and art/spectacle story is often called "jumping the shark".
+We watch episode after episode because we see ourselves in these characters. We laugh and cry in recognition—we're living the same life on Main Street.
+
+However, in later seasons, to keep their now popular characters alive, the sitcom characters stop evolving.
+
+Kramer never gets a job, Raj can't get a girl, Dwight doesn't get self-aware. Here sitcoms become selfish and spectacle stories. Selfish, because the main characters don't overcome problems anymore. And, spectacle, because we the audience keep re-watching our favorite actors, characters, sets, catch-phrases, instead of watching a new story. The turning point between classic story and selfish/spectacle story is often called "jumping the shark".
 
 ![GoT horse](/img\diagrams\jumping-shark-got.png)
-_Game of Thrones went from great to horrible because the characters became more important then the story. Everyone kept watching though, which is why this pictures shows the transition from a majical product, to a dark majic one._
+_Game of Thrones went from great to horrible because the characters became more important then the story. Everyone fan felt this tranistion, and was saddened by it. But we (including me) kept watching though, which is why this pictures shows the transition from a majical product, to a dark majic one._
 
-Rousseau explained how society has these classic, art, and spectacle stories, and that our communities travel through them as we develop through technological ages. When we start a new age, it's like watching the first years of the sitcom; everyone is solving everyday problems, the main characters have earned their spot; the stories are therefore majical.
+Rousseau explained how society goes through classic, selfish, and spectacle stories as we develop through ages. When we start a new age, it's like watching the first years of the sitcom; everyone is solving everyday problems, and the main characters have earned their spot by taking risks.
 
-At the end of the age, the leaders are self-important, and the people are only loyal out of habit. In short, Rousseau noticed how one story works to advance and help society, and the other two work to enrich the artists and distract the masses. And that's where we are today. At that's the problem Techvolution has to solve with a click.
+At the end of the age, the leaders are self-important, and the people are only loyal out of habit.
 
-You can see this click in the movie called _The Matrix_. It's a story about a dystopian future in which most of humanity is unknowingly trapped inside a simulated 1990's reality called the Matrix. The dream world is created by machines to distract humans while using their bodies as an energy source. It's a wonderfully believable world of dark majic—a spectacle story told to keep the selfish machines in power.
+In short, Rousseau noticed how one story works to advance and help society, and the other two work to enrich the artists and distract the masses. And that's where we are today. At that's the problem Techvolution has to solve with a click.
 
-The story's hero is Neo. A regular person who asks "what is the Matrix?". His willingness to question reality, eventually gets him recruited by the few untapped humans rebeling against the machines. Neo rises to the occasion, and learns to see through dark majic so well, he learns many new abilities—so many that he even overpowers the evil Agent Smith. Neo finishes the story with a phone call to the antagonist leaders:
+## Clicking
+
+We've already seen this click above. When the player of Civilization 6 pressed upgrade, and the people were singing "do you hear the people sing" on the Paris Main Street.
+
+You can see this click in more detail in the movie called _The Matrix_. This classic story is about a dystopian future. Most of humanity is unknowingly trapped inside a simulated reality called the Matrix. The dream world is created by machines to distract humans while using their bodies as an energy source.
+
+The matrix looks and feels like 1990s America. It's a wonderfully believable world of dark majic—a never ending spectacle story to keep the selfish machines in power.
+
+The story's hero is a regular person named Neo, which means new. He's the hero because he risks asking a question, "what is the Matrix?".
+
+His willingness to question reality, eventually gets him recruited by the few untapped humans rebeling against the machines. Neo rises to the occasion, and learns to see through dark majic. He happens to be great at breaking down its false rules, its Death Star. Neo learns many new abilities like jumping high, moving fast, and soon even how to dodge bullets.
+
+His makes so many levers of power for himself, he even overpowers the antagonist Agent Smith. After defeating the antagonist, Neo finishes the story with a phone call his bosses:
 
   >I know you're out there. I can feel you now. I know you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how this is going to begin. I'm going to hang up this phone. And then I'm going to show these people what you don't want them to see. I'm going to show them a world without you. A world without rules and controls, without borders or boundaries A world where anything is possible. Where we go from there, is a choice I leave to you.
 
-Rousseau would have been proud. But let's see, how we can learn from the French philosopher and Neo, to click our new philosophy for ourselves.
+Rousseau would have been proud. Let's see, how we can learn from the French philosopher and Neo, to click our new philosophy for ourselves.
 
 ## Protagonist Kings
 
 Not all kings are con artists. There's a good reason we tell ourselves stories of gallant knights and dreamy princesses. At first, the Medieval Age was led by heroes of a classic tale. These kings and their nobles defeated monsters to create a peaceful country for the people to live in.
 
-In Rousseau's time, noble families ruled every European country. They had absolute power because of their ancestors. After western Rome fell in 476, western Europe entered the Early Medieval Ages (500-1000). Often called the Dark Ages because there were few books, ink, or even literate people to write anything down. In fact, maintaining the existing Roman infrastructure like sanitation, roads, and farms was hard enough. Advanced civilization was mostly gone, the levers of power of organized government were erased. Anarchy ruled where Rome's Caesars once did.
+Their countries needed peace. After western Rome fell in 476, western Europe entered the Early Medieval Ages (500-1000). Often called the Dark Ages because there were few books, ink, or even literate people to write anything down. In fact, maintaining the existing Roman infrastructure like sanitation, roads, and farms was hard enough. When Rome fell, advanced civilization was gone, the levers of power of organized government were erased. Anarchy ruled where Rome's Caesars once did.
 
-People like Clovis I, Charles Martel, and Alfred the Great took charge. They were master warriors who used swords, bows, armor, and cavalry to expand their kingdoms, keep away vandals, and fight off invading Vikings and Arabs. Even better, they headed large families who kept a growing peace. Soon they built castles to protect the newly remade cities, markets, and hospitals.
+People like Clovis I, Charles Martel, and Alfred the Great took charge. They stepped up and risked their lives to help their communities rebuild civilization.
 
-The Early Medieval Ages was a classic story because heroes solved real-life problems. They rose to the occasion, rallied supporters, and fought the evil villains with the only levers of power left; swords, lances, and castle walls. Fittingly, a hierarchy formed around these levers of power. We call it feudalism. You've probably seen it in stories like _Robin Hood_, or _Game of Thrones_. Feudalism was a rigid hierarchy of kings, bishops, dukes, sheriffs, knights, priests, tradesman, and peasants. In return for loyalty, the people at the bottom got what was called the "King's Peace." It was a good deal. The growing peace returned civilization. Soon the people had new and better shovels, oxen, thatched houses, buckets, sickles, and other tools to expand their cyborgolgy.
+These people were master warriors who used swords, bows, armor, and cavalry to expand their kingdoms, keep away vandals, and fight off invading Vikings and Arabs. Even better, they headed large families who kept a growing peace. Soon sons, nephews and cousins were busily rebuilding roads, bridges, castles, cities, markets, and hospitals.
 
-The first kings were basically like mafia bosses. These kings didn't rule inside an official parliament, police force, or bureaucracy. Like any literary hero, they themselves were society's protagonists; making them Protagonist Kings. This was the start of the "noble divine right to rule." The kings weren't bad guys. They had many battle scars to prove it.
+The Early Medieval Ages was a classic story because heroes solved real-life problems.
+
+Inevitably, the nobles who controlled the levers of power formed a heirarchy. We call it feudalism. You've probably seen it in stories like _Robin Hood_, or _Game of Thrones_. Feudalism cemented the personal rule of the first leaders with a rigid hierarchy of kings, bishops, dukes, sheriffs, knights, priests, tradesman, and peasants. In return for loyalty, the people at the bottom got what was called the "King's Peace."
+
+It was a good deal. The growing peace returned civilization to western Europe. Soon the people had new and better shovels, oxen, wood houses, buckets, sickles, and other tools to expand their cyborgolgy. Since the kings did such a good job, society happily recognized them heroes; or "Protagonist Kings".
+
+This was the start of the "noble divine right to rule." The kings weren't bad guys. They had many battle scars to prove it.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmJubilantIrrawaddydolphin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 _You'd believe in holy kings too, if barbarians, Vandals, or Vikings were at your doorstep._
 
-Under the rule of Protagonist Kings, Western Civilization rebuilt political institutions, court systems, town councils, sanitation departments. But it was slow going. By the time Western Europe had a fully functioning civilization again at the Renaissance (1400-1600), nobody could remember why the story of divine nobility started. Who could blame them, the story was already a 1000 years old. Do you remember what happened 1000 years ago?
+Under the rule of Protagonist Kings, Western Civilization rebuilt political institutions, court systems, town councils, sanitation departments. Peace let the player god save up the money to start pressing upgrade again.
 
-As Europe went through the Renaissance, the Age of Science, the Age of Enlightenment, the invaders were increasingly gone, fresh water was available, the roads were clean, the markets were busy. The once Protagoinst Kings, were now merely executives of extensive and bureaucratic civilized governments. The only thing that didn't change was the culture of royalty. The leaders had the title of king but were no longer protagonists. They became villains protecting their privilege, who refused to let society grow out of the "nobles divine right to rule", and thus became Antagonist Kings.
+But it was slow going. By the time Western Europe had a fully functioning civilization again at the Renaissance (1400-1600), nobody could remember why the story of divine nobility started. Who could blame them, the story was already a 1000 years old. Do you remember what happened 1000 years ago?
+
+As Europe went through the Renaissance, the Age of Science, the Age of Enlightenment, the invaders were increasingly gone, fresh water was available, the roads were clean, the markets were busy. The once Protagoinst Kings, were now merely executives of extensive and bureaucratic civilized governments.
+
+The only thing that didn't change was the culture of royalty. The leaders had the title of king but were no longer protagonists. They became villains protecting their privilege, who refused to let society grow out of the "nobles divine right to rule", and thus became Antagonist Kings.
 
 ## Antagonist Kings
 
-By the time Europe entered the Renaissance, the system had done its job. The nobles were no longer protagonists, but merely average people who happened to be born with "noble blood." For the most part, they only waged war against each other, and usually only for personal glory or "gloire" as they called it. Otherwise, they sat atop a hierarchy who paid no taxes, did not work, and answered to no one. These antagonist nobles used relative peace and prosperity to replace armor with dresses, churches with cathedrals, castles with palaces, and battlefields with banquets and balls.
+By the time Europe entered the Renaissance, the system had done its job. The nobles were no longer protagonists, but merely average people who happened to be born with "noble blood." For the most part, they only waged war against each other, and usually only for personal glory, or "gloire" as they called it. Otherwise, they sat atop a hierarchy who paid no taxes, did not work, and answered to no one. These antagonist nobles used relative peace and prosperity to replace armor with dresses, churches with cathedrals, castles with palaces, and battlefields with banquets and balls.
 
-Loving life, and without opposition, these nobles conned the people, and themselves, with art and spectacle. They lived inside a self-important culture, where increasing weird behavior, childish gossip, and useless titles, was the norm. And they distracted the people with spectacle. Brilliant cathedrals, royal palaces, and meaningless wars against other kingdoms kept the masses occupied. Like franchise movies, all these spectacles got more intense to keep the story interesting.
+Loving life, and without opposition, these nobles conned the people, and themselves, with art and spectacle. They lived inside a self-important culture, where increasing weird behavior, childish gossip, and useless titles, was the norm.
 
-Visit European castles and extravagant palaces, modest churches, and brilliant cathedrals, and you'll see the transformation civilization had from classic stories to spectacle in Europe's buildings. Compare the clothes of armored clad Charles Martel, and the dress-wearing Louis XIV, and you'll see the transformation from heroic protagonist to self-important Antagonist Kings. They took credit for the accomplishments of civilization, as though they, themselves, were the player god responsible for it all.
+And they distracted the people with spectacle. Brilliant cathedrals, royal palaces, and terrible and meaningless wars like the Thirty Years War, kept the masses occupied. Like franchise movies, all these spectacles got more intense, and so kept the story interesting.
+
+Visit European castles and extravagant palaces, modest churches, and brilliant cathedrals, and you'll see the transformation civilization had from classic stories to spectacle in Europe's buildings. Compare the clothes of armored clad [Charles Martel](https://en.wikipedia.org/wiki/Charles_Martel), and the dress-wearing [Louis XVI](https://en.wikipedia.org/wiki/Louis_XVI_of_France), and you'll see the transformation from heroic protagonist to self-important Antagonist Kings.
+
+These average people, with no personal achievements, took credit for the accomplishments of civilization, as though they, themselves, were the player god responsible for it all.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/LavishIncomparableBumblebee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_Louis XIV (1643-1715) spent an estimated 50% of France's annual Gross National Product to build and maintain his Palace at Versailles, he didn't even pay taxes. He was a self-described god on earth. I love to think what Protagonist Kings would think if they time-travelled to see this opulance._
+_Louis XIV (1643-1715) spent an estimated 50% of France's annual Gross National Product to build and maintain his Palace at Versailles. And he didn't even pay taxes. He was a self-described god on earth. I love to think what Protagonist Kings would think if they time-travelled to see this opulance._
 
-Most of society's money went to the leaders, and wasn't re-invested to help win the game of civilization. Main Street became increasingly unhappy as frontline problems piled up. Their houses were still thatched. They did manual labor all day. They still paid almost all the taxes but were banned from advancing in official society. Feudalism became a caste system controlled. The leaders fought against distributing the benefits of an advancing civilization to the people doing the work on the frontline. We thus rightfully call Antagonist Kings; Darth King. The nobles lost the plot of their own stories. They turned their people from player gods into extras. It sent Darth King's civilizations into revolutions, and cost him his head.
+Most of society's money went to the leaders, and wasn't re-invested to help win the game of civilization. Main Street became increasingly unhappy as frontline problems piled up. Their houses were still thatched. They did manual labor all day. They still paid almost all the taxes but were banned from advancing in official society.
+
+Feudalism became a caste system.
+
+The leaders fought against distributing the benefits of an advancing civilization to the people doing the work on the frontline. We thus rightfully call Antagonist Kings; Darth King. The nobles lost the plot of their own stories. They turned their people from player gods into extras.
+
+Trying to keep society in the Medieval Age forever sent Darth King's civilizations into revolutions, and cost him his head.
 
 ## Repeat Story
 
-I'm not sure if you know this Stargazer, but the Devil was once an angel. The angel Lucifer was his name. He lived with God up in the clouds with the rest of the heavenly beings. All these angels communicated God's will to His people below; teaching them the virtue, morality, and ethics they'd need to become protagonists and player gods.
+I'm not sure if you know this Stargazer, but the Devil was once an angel. The angel Lucifer was his name. He lived with God up in the clouds with the rest of the heavenly beings. These angels were tasked to educateus mortals about virtue, morality, and ethics so we can become protagonists and player gods.
+
+Following God's Will helps us win the game.
 
 But Lucifer rejected God's teachings. He grew vain, greedy, and deceptive. Soon he even challenged God's supremacy. In response, God threw Lucifer down from Heaven to be the Dark Lord of Hell.
 
-Free from the restrictions of justice, fairness, and virtue, Lucifer grew his evil powers. Soon he was the Devil, who taught humanity the vanity, greed, hubris, selfishness they'd need to become antagonists and extras. But Lucifer kept his angelic form. The Devil can thus be anyone, at any time—that is why humanity is a mixture of angels and demons, both rest on our shoulders, always attracting us to either side.
+Free from the God, Lucifer grew his evil powers. Soon he was the Devil, who taught humanity the vanity, greed, hubris, selfishness they'd need to become antagonists and extras.
 
-The trick for humanity is to resist our demons and embrace our angels; not make "deals with the Devil" so to speak. That's how we can be player gods who do what's best for ourselves, and help society prosper.
+But Lucifer kept his angelic form.
 
-Angels and demons is the Christian tale of good and evil. I'm sure many religions share a similar story. The story of Lucifer echoes throughout literature. Harry Potter's Lord Voldermort, The Lord of the Rings Lord Sauron, and Star War's Lord Vader were all once heroes. Each grew evil because they were unwilling to give up their power. They were corrupted by ambitions of lifelong supremacy. It's probably so prevalent in our religions and literature because it's so common in humanity; power often corrupts. Absolute power corrupts absolutely.
+The same way anyone can be a saint, anyone can be a demon. That is why the choice of good and evil, protagonist and atagonist, extra and player god, rest on our shoulders; always attracting us to either side.
 
-Darth King actually thought he was an angel. During the Age of Enlightenment, philosophers like Voltaire, Hume, and Rousseau were writing about improving humanity with ideals of freedom and compassion. The nobility read these ideals and liked them. After all, these leaders believed they were protectors of their flock. Absolute monarchs with the power of life and death over their subjects, such as Frederick I, Emperor Joseph II, and Catherine II, called themselves "enlighten monarchs." Their mentality was, "Everything for the people, nothing by the people."
+The trick for humanity is to resist our demons and embrace our angels. That's how we can be player gods who do what's best for ourselves, and help society prosper.
 
-We can see how self-serving this mentality is. Why couldn't the nobles pay taxes? Why couldn't the people have a fair judicial system? Enlightened monarchs preached one thing, and did another. The point is Darth King wasn't evil for being born into nobility. He is evil for holding his people back. He wanted them to be extras watching the story of civilization, and not player gods playing the game of civilization. The nobles thus became fallen heroes. And sadly, this story of fallen kings is repeating itself in our modern times as well. Our antagonists are also fallen heroes.
+Angels and demons is the Christian tale of good and evil. I'm sure many religions share a similar story. The point is the story of Lucifer echoes throughout human literature. Harry Potter's Lord Voldermort, The Lord of the Rings Lord Sauron, and Star War's Lord Vader were all once heroes. Each grew evil because they were unwilling to give up their power; they were corrupted by ambitions of lifelong supremacy. It's probably so prevalent in our religions and literature because it's so common in humanity; power often corrupts. Absolute power corrupts absolutely.
 
-It's important to note, while Rousseau's followers in so many revolutions may have been political free, they were economically desperate. Hunger, disease, unemployment, illiteracy were all rampant. Rousseau's time was basically one of "economic anarchy." This is when red/blue philosophies were born. They wanted political liberation from kings but were also obessed with economic growth to bring the people up from poverty.
+Darth King actually thought he was an angel.
+
+No joke. During the Age of Enlightenment, philosophers like Voltaire, Hume, and Rousseau were writing about improving humanity with ideals of freedom and compassion. Believe it or not, the nobility liked these ideals.
+
+After all, these leaders believed they were protectors of their flock. Absolute monarchs with the power of life and death over their subjects, such as Frederick I, Emperor Joseph II, and Catherine II, called themselves "enlighten monarchs."
+
+The trending royal mentality was, "Everything for the people, nothing by the people."
+
+We can see how self-serving this mentality is. Why couldn't the nobles pay taxes? Why couldn't the people have a fair judicial system? Enlightened monarchs preached one thing, and did another. The point is Darth King wasn't evil for being born into nobility. He is evil for holding his people back. He wanted them to be extras watching the story of civilization, and not player gods playing the game of civilization.
+
+When a regular person rose himself up with hard work and innovation, a royal felt justified to take ownership of his work and spend the rewards as he wanted.
+
+The nobles thus became fallen heroes. And sadly, this story of fallen kings is repeating itself in our modern times as well. Our antagonists are also fallen heroes.
+
+## Fallen Heroes
+
+It's important to note, while Rousseau's followers throught the world were political free, they were economically desperate. Hunger, disease, unemployment, illiteracy were all rampant. Rousseau's time was basically one of "economic anarchy." This is when red/blue philosophies were born. They wanted political liberation from kings but were also obessed with economic growth to bring the people up from poverty.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MadeupTameLamb' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_Here's a tidbit of an Industrial Revolution business magnate George Westinghouse. Among his inventions was the air brake, fridge, and electric generator. Westinghouse's massive company helped conquer economic anarchy._
+_Here's a tidbit of an Industrial Revolution business magnate [George Westinghouse](https://en.wikipedia.org/wiki/George_Westinghouse). Among his inventions was the air brake, fridge, and electric generator. Westinghouse's massive company helped conquer economic anarchy._
 
-Society loved the original kings for winning the "King's Peace". Likewise, the initial economic kings were heroes of the era of mass-production who won the "Executive's Prosperity." These heroes said follow me, recognize my property rights, work (hard as hell) for my company and we'll all be better off. The people did. Society got new tools like lightbulbs, stoves, and telephones.
+Society loved the original kings for winning the "King's Peace". Likewise, the initial economic kings were heroes of the era of mass-production who won the "Executive's Prosperity." These heroes said follow me, recognize my property rights, work (hard as hell) for my company and we'll all be better off.
 
-The original leaders of the Industrial Age told a good story, and thus the people were again player gods. Protagonists like Andrew Carnegie, Cornelius Vanderbilt, Louis B. Mayer are basically the economical versions of original warrior kings like Clovis I, Charles Martel, and Charlemagne.
+The people did. Society upgraded its technology very faster. Everyone got access to new tools like lightbulbs, stoves, and telephones.
 
-But, once the Industrial Age was over, Protagonist Executives, become antagonist Darth Blockbusters. Another story of a fallen angel. You can see it today in Hollywood. Someone told their elite as much:
+The original leaders of the Industrial Age told a good story, and the people were player gods inside society's new factories, warehouses, and offices. Protagonists like Andrew Carnegie, Cornelius Vanderbilt, Louis B. Mayer are basically the economical versions of original warrior kings like Clovis I, Charles Martel, and Charlemagne.
+
+But, the Industrial Age was soon over. Like we saw in the Mad Men clip about marketing tobacco, the children of the Protagonist Executives, didn't earn their spots as society's leaders. They didn't invent anything, or create anything new.
+
+That's when society got become antagonists again. Darth Blockbuster is another story of a fallen angel. You can see it today in Hollywood. Ricky Gervais just told these antagonists who they were are:
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmNippyCockatiel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+_Please enable the sound. This isn't a roast, it's a historical moment. Once leaders of society, Hollywood had no idea this is what their community now thinks of them._
 
 That should both worry you and make you happy Stargazer. First the worrying part; Darth Blockbuster defends the Industrial Age because it makes him powerful. He surrounds himself with a story of self-importance and distracts the people with the dark majic of spectacle.
 
-Since, entering the Internet Age, dark majic has skyrocketed in our society. The once humble American Dream to own a home and make a honest living, became a lifestyle of spectacle. Small homes became McMansions with luxury baths and kitches. Cars got way bigger, with more chrome, more horsepower. Televisions increased in size to ludicrious proportions. Food got supersized. Sugar was added to everything we eat. Movies became franchise stories that were retold over and over. Instead of using digital technology to improve life on Earth, technology was used to make a matrix of dark majic that survived by increasing diabetes, laziness, and greed. All because Darth Oil, Telephone, Suburbs, Sugar needed to distract the people from making a new player god to upgrade and enjoy the freedom, self-sufficiency, and collaboration of the Internet Age.
+Since, entering the Internet Age, dark majic has skyrocketed in our society. The once humble American Dream to own a home and make a honest living, became a lifestyle of spectacle.
 
-The good news is, where not at a "let's burn down society" point yet. We can transition to the Internet Age ourselves before the frontline gets so bad and so ununhappy we start a bloody revolution. We can usher in the era of mass-collaboration ourselves. And that's a strength and a weakness—because we're the ones who have to stand-up.
+Small homes became McMansions with luxury baths and kitches. Cars weren't one for a family, but one per a person and still got way bigger, with more chrome, more horsepower. Televisions increased in size to ludicrious proportions. Food got supersized. Sugar was added to everything we eat. Movies became franchise stories that were retold over and over.
+
+Instead of using digital technology to keep upgrading society, it was used to make a matrix of dark majic to keep the Industrial Age alive. A society of protagonists and player gods became a society of antagonist and extras.
+
+In return, the people got fancier stuff, with the added benefit of diabetes, traffic, and climate change. All because Darth Oil, Telephone, Suburbs, Sugar needed to distract the people from upgrading to the Internet Age and mass-collaboration.
+
+The good news is, where not at a "let's burn down society" point yet. We can transition to the Internet Age ourselves before the frontline gets so bad and so ununhappy we start a bloody revolution. We can usher in the era of mass-collaboration ourselves.
+
+And, that's a strength and a weakness. Because we're the ones who have to stand-up proactively, as in now.
 
 https://www.youtube.com/watch?v=A25EUhZGBws
-_This is another clip from The Big Short. This guy is one of our modern day Antagonists. You're not supposed to understand the rationale of CDOs that makes him super wealthy, because there is none. Like the divine rights of nobility, it's just the justification of a self-important hero._
+_This is another clip from The Big Short. This guy is one of our modern day antagonists. You're not supposed to understand the rationale of CDOs that makes him super wealthy, because there is none. Like the divine rights of nobility, it's just the justification of a self-important hero._
 
 # ACT THREE
 
