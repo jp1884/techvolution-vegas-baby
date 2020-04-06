@@ -1586,122 +1586,142 @@ _Please enable the sound. Faster evolution is our savior. And antagonism is our 
 
 ## A Techvolution Battle Scene. Wikipedia vs. Books. Internet Age vs. Industrial Age
 
-Before we return to the battle with Darth Blockbuster Stargazer, let's get more backstory on the war to upgrade our civlization to the Internet Age. There's lots more stuff to improve then just storytelling technology. Let's talk about how we upgraded the tools we use to record and access our general knowledge.
+Before we return to the battle with Darth Blockbuster Stargazer, let's learn from another battle in the war to upgrade to the Internet Age. Let's talk about how we upgraded used modern technology to better record and access knowledge.
 
-Humanity is always asking questions. Some of those today might be, why are the movies so expensive, are candy applies real apples, or, more importantly, what are proven techniques to stop the coronavirus. Humanity deal with all these questions by creating a reference tool.
+Humanity is always asking questions. Some of those today might be, why are the movies so expensive, are candy applies real apples, or, more importantly, what are proven techniques to stop the coronavirus. Humanity deals with all these questions by creating a reference tool.
 
-Our first reference tool was the wisdom of our elders. The first technological upgrades were papyrus scrolls and ink (around 2300 BC) and books (about 300 BC), which turned some elders into experts like Hippocrates and Aristotle. When wood-pulp paper (1200) and the printing press (1456) were invented, humanity unleashed mass-produced books. Now experts could share knowledge between themselves and educate the masses. We called the reference books encyclopedias. And as Douglass already showed us, knowledge is the greatest lever of power.
+Our first reference tool was the wisdom of our elders. We eventually upgraded when inventing papyrus scrolls and ink (around 2300 BC) and books (about 300 BC), which turned some elders into experts like Hippocrates and Aristotle. When wood-pulp paper (1200) and the printing press (1456) were invented, humanity unleashed mass-produced books. Now experts could share knowledge between themselves and educate the masses. We called the reference books encyclopedias.
 
-That's why encyclopedias were a massive hit; up until a generation ago, many households proudly included a physical encyclopedia collection in their library. _The Encyclopedia Britannica_ (1878) was the standard. In 1933 it started to be re-published every year to keep people updated to the latest facts. When the Internet Age hit in the 1970s, home computers, digital printers, and telecommunications meant encyclopedias were written and stored digitally. But they remained a set of printed books and CD's controlled by experts.
+Encyclopedias were a massive hit. Up until a generation ago, many households proudly included a physical encyclopedia collection in their library. _The Encyclopedia Britannica_ (1878) was the standard. In 1933 it started to be re-published every year to keep people updated to the latest facts. When the Internet Age hit in the 1970s, home computers, digital printers, and telecommunications meant encyclopedias were written and stored digitally. But they remained a set of printed books and CD's controlled by experts.
 
-Then came the world wide web (1991), a new technology that brought the internet, and the Internet Age, directly to Main Street. The web let anyone on Main Street send and receive information, and therefore unlocked many new tools like websites, forums, blogs, and something called "wikis." Wiki software lets anyone write or edit a webpage by pressing "edit now." All changes are saved, so anyone can erase errors or vandalism by pressing "undo now." For years programmers used wikis to write technical manuals collaboratively.
+Then came the world wide web (1991), a new technology that brought the internet, and the Internet Age, directly to Main Street. The web let ordinary people send and receive information. This new technology unlocked many new tools like websites, forums, blogs, and something called "wikis." Wiki software lets anyone write or edit a webpage by pressing "edit now." All changes are saved, so anyone can erase errors or vandalism by pressing "undo now." For years programmers used wikis to write technical manuals collaboratively.
 
-As web boomed in the late '90s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us curious about things like the movies or malaria know this story ends with a free online encyclopedia anyone can edit called Wikipedia. It became the poster child for the era of mass-collaboration. But it didn't start out that way.
+As the web boomed in the late '90s, protagonist Jimmy Wales wondered if the web could upgrade encyclopedias. Today, most of us curious about things like the movies or candy apples know this story ends with a free online encyclopedia anyone can edit called Wikipedia. Indeed the online enclyclopedia anyone can edit is the poster child for the era of mass-collaboration.
+
+But Wikipedia didn't start out as the favorite child.
 
 Wikipedia started as Nupedia (2000), a free online copycat of Encyclopedia Britannica. Nupedia followed the Industrial Age rationale of making gates. It said only "expert" professors were qualified to write articles. Wikipedia (2001) was a side project. Only the programmers, designers, innovators of the Internet Age knew mass-collaboration was the way of the future.
 
-Everyone else didn't realize that with a new technological age, comes a modern philosophy as well. The first sign of a problem with Nupedia was that the professors didn't like to share their knowledge. In its first year, Nupedia had 12 articles. Wikipedia had 40,000.
+Everyone else didn't realize that with a new technological age, comes a modern philosophy as well. The first sign of a problem with Nupedia was that the professors didn't like to share their knowledge. In its first year, Nupedia had 12 articles.
 
-Here rose Wikipedia's antagonists. Professors loved to belittle the public's articles as rubbish. They even used the Death Star and disallowed students from referencing Wikipedia's materials in their school work. Yet professors refused to improve, or to assign students to improve, Wikipedia. The professors also performed dark majic. Despite good referencing abilities and wide-spread adoption, they still try to convince people to not use Wikipedia. The lever of power was theirs by right.
+Wikipedia had 40,000.
 
-The second sign of a problem with Nupedia was that it turned out "expert" answers, and "regular" answers are the same. The movies are expensive because of a 1948 "Paramount Decrees" banning studios working with theatres. Candy apples are real apples. And mosquito nets are a simple and effective tool against malaria.
+Here rose Wikipedia's antagonists. Professors loved to belittle the public's articles as rubbish. They even used the Death Star and disallowed students from referencing Wikipedia's materials in their school work. Yet professors refused to improve, or to assign students to improve, Wikipedia.
 
-We can all look up these facts because Wikipedia put the levers of power into the hands of player gods! A massive community voluntarily shared their knowledge one "edit now" at a time and fiercely protected their common knowledge with "undo now." Nobody told them, paid them, or made a rule to force it. Because writing or reading a Wikipedia article, is Nature's majical dopamine rush.
+The professors also performed dark majic. Despite great referencing abilities and wide-spread adoption, the self-proclaimed experts still tried to convince people Wikipedia was garbage.
 
-That's the story of Wikipedia. Invented by protagonists, upgraded to society's reference tool by player gods. Few believed it was possible because even professors don't understand new tools always unpower the few, to empower the rest. Interestingly, after I finally conceded temporary defeat to my personal Darth Blockbuster, I uploaded a few pages to Wikipedia instead. Not as helpful as my app, but it took just a few weeks of work, and one "edit now" button, to make it real. It felt majical to bypass the rules of the Death Star. It also put a big smile on my face.
+The professors felt the lever of power over society's knowledge was theirs by right.
+
+The problem for the professors was it turned out "expert" answers, and "regular" answers are the same. The movies are expensive because of a 1948 "Paramount Decrees" banning studios working with theatres. Candy apples are real apples. And, washing hands, social distancing, and self-isolating is so far the best defense against Covid-19.
+
+It worked for Issac Newton, who discovered gravity and calculus when self-isolating himself during the [1665 Great Plague](https://en.wikipedia.org/wiki/Isaac_Newton#Early_life).
+
+We can all look up these facts because Wikipedia put the levers of power into our hands! A massive community voluntarily shared their knowledge one "edit now" at a time and fiercely protected their common knowledge with "undo now." Nobody told them, paid them, or made a rule to force it.
+
+Because writing or reading a Wikipedia article, is Nature's small dopamine rush.
+
+That's the story of Wikipedia. Invented by protagonists, upgraded to society's reference tool by player gods. Few believed it was possible because even professors don't understand new tools always unpower the few, to empower the rest.
+
+Interestingly, after I finally conceded temporary defeat to my personal Darth Blockbuster, I uploaded a few pages to Wikipedia instead. Not as helpful as my app, but it took just a few weeks of work, and one "edit now" button, to make it real.
+
+My Wikipedia pages ade car insurance policy rules and accident fault regulations a little easier to understand. By opening up society's rulebook I constructed a tiny piece of the Internet Age rulebook; the Life Star.
+
+That's probably why it felt so majical to press "edit now". With every piece of open and easy to read rules, the Death Star gets a little smaller.
+
+Doing that definitely put a big smile on my face.
 
 ## Death Star Goes Ka Boom
 
-Stargazer, think about how important pain is in Nature. Does a penquin in a zoo evolve to Antartica's ever changing environment? Of course not, it's up to the lifeforms on the frontline to adapt, and keep the species alive.
+Stargazer, let's take a second to appreciate the irony of pain. Every lifeform hates it, but without feeling hunger, thirst, or cold we wouldn't exist. Evolution is a problem solved with an adaption. Can a penquin in a zoo evolve to Antartica's ever changing environment?
 
-The middle-class flocked to Wikipedia and made it a worldwide force. Then we gave internet streaming to our society. We didn't need marches or protests. We only needed to reached for new tools, hold the levers of power, and thereby evolve humanity. We destroy the Death Star when we do what's best for us. And we're right to be so selfish, because we're the ones feeling frontline pain.
+The middle-class flocked to Wikipedia and made it a worldwide force. We also gave ourselves internet music and movies by using torrent sites. We didn't need marches or protests. We only needed to reached for a new tool, use the lever of power to evolve humanity. We bypass the Death Star when we do what's best for us.
 
-Of course, the antagonists will disagree. But that's why they're Sith Lords. The formal education industry has given American students 1.5 trillion in student debt. Hollywood is given billions in subsidies despite having empty theatres, bad movies, off-shored production, and many self-congratulatory and splendid banquets and balls; not to mention a culture of tax-cheats and sexual predators.
+And we're right to be selfish, because we're the ones feeling frontline pain.
 
-The middle-class doesn't have ulterior motives. We are rational beings because we feel the pain of everyday life. We rightfully rejected the dark majic of Blu-ray and HD-DVD, and endured the Death Star attacks when using BitTorrent and worked to evolve humanity. And if you still doubt Main Street being inherently just, once Jedi Reed Hastings gave the public internet streaming at a fair price with Netflix (2008) the middle-class proved the frontline's superior ethics and morality because we're willing to evolve.
+Of course, the antagonists will disagree. After all, the formal education industry has given American college [students 1.5 trillion in student debt](https://en.wikipedia.org/wiki/Student_debt). Hollywood is given billions in subsidies despite having empty theatres, bad movies, off-shored production, and many self-congratulatory and splendid banquets and balls; not to mention a culture of "creative accounting" and sexual predators.
 
-Look at the graph below. You'll see the Industrial Age evolving into the Internet Age because Main Street acted on its best interests. This is the power of an empowered middle-class practicing good politics and grabbing hold of the lever of power. Evolution is always right in Nature, and Techvolution is always right in the game of civilization.
+The middle-class is the beacon of evolution because we have no ulterior motives.
+
+We are rational beings because we feel the pain of everyday life. We rightfully rejected the dark majic of Blu-ray and HD-DVD, and endured the Death Star attacks when using BitTorrent and worked to evolve humanity. And if you still doubt Main Street being inherently just, once protagonist Reed Hastings gave the public internet streaming at a fair price with Netflix (2008) the middle-class proved the frontline's superior ethics and morality.
+
+Look at the graph below. You'll see the Industrial Age evolving into the Internet Age. This is the power of an empowered middle-class practicing good politics and grabbing hold of the lever of power. Evolution is always right in Nature, and Techvolution is always right in the game of civilization.
 
     <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script>
     <script type="text/javascript">
       trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Torrent","geo":"US","time":"2004-01-01 2018-11-04"},{"keyword":"Netflix","geo":"US","time":"2004-01-01 2018-11-04"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=Torrent,Netflix&hl=en-US","guestPath":"https://trends.google.com:443/trends/embed/"});
     </script>
 
-Main Street flocked to Netflix because it was a fair deal and a much better product.
+Main Street flocked to Netflix because it was a fair deal and a much better product then either DVDs or torrents. Film producers got and society's entertainment distribution system upgraded to the Internet Age.
 
-During this transformation, I was one of the smucks working at the movie theate and buying DVDs when I could afford them. Like most of Main Street, I got dozens collecting dust somewhere. Darth Blockbuster was telling us all DVDs were better and moral. I wonder, do you think the Sith Lord will buy them all back? I'll talk half-price.
+During this transformation, I was one working at the movie theate and buying DVDs when I could afford them. Like most of Main Street, I got dozens collecting dust somewhere. Darth Blockbuster never said he was wrong about DVDs being better and even more moral. I wonder, do you think the Sith Lord will buy them all back? I'll talk half-price.
 
-Notice BitTorents aren't dead. While most people don't bother with torrent sites anymore—because Netflix is so much easier and better—civilization holds torrents in reserve. Torrents check and balance the economy in the Internet Age to be sure Main Street isn't taken advantage of again. Fairness is the motivation for this insightful GIF.
+Of course not. Antagonsits hold back society as long as possible, but when evolution happens, they forget their objections and do what's best for themselves. And that's the point. We shouldn't listen to Darth Blockbsuter's complaints or excuses.
+
+The people on the frontline should follow copy antagonists actions and simply do what's best for ourselves.
+
+Fittinglt, that's why BitTorents aren't dead. While most people don't bother with torrent sites anymore—because Netflix is so much better—our civilization holds torrents in reserve. Torrents check and balance the economy in the Internet Age to be sure Main Street isn't taken advantage of again. Fairness is the motivation for this insightful GIF.
 
 ![Battle Scene](/img\diagrams\checks-and-balances-storytelling.jpg)
 
-If you're wondering, streaming companies are returning the studio system to Hollywood, except the home theatre is replacing the movie theatre. The problem is storytelling in our society is getting segmented, making it harder for us to create new popular stories that update our culture. The Studio System should never have been outlawed in the first place. But that's a topic for a different book.
+If you're wondering, streaming companies are returning the studio system to Hollywood, except the home theatre is replacing the movie theatre. The problem is with so many Netflix copy-cats, friends and families aren't watching stories at the same time. Making it harder to update our culture with new stories.
 
-## Test
-
-Can you do me a favour. Get collet all your medical records. What, you don't have them? You don't know where "they" put them. Does anyone? Like most everyone, they're likely spread around doctors, dentists, therapists, hospitals controlled by strangers.
-
-I'm going to show how many strangers. If you want to, you can watch this video from General Practioner doctor, but you don't need to. In the video she simply talks about her job. She thought being a doctor was going to mean fostering a solid relationship with her patients to help them live healthier lives. Instead over the years she's increasingly had administrator shoving themselves into the mix. She's complaining how unhelpful these middlemen are.
-
-![Marie Antoniette](/img\diagrams\healthcare-administrators.png)
-
-What you're seeing is government regulators, project managers, hospital administrators, claims adjusters, insurance underwriters, lawyers, and more meetings and manuals then anyone can imagine. All these people are middlemen who think themselves pivotal. Funny, because you're paying for these faceless administrators to keep the healthcare levers of power away from you.
-
-Administration is probably the biggest reason for rising health-care costs. So, what's the solution?
-
-- A. March, support, and vote for Progressive politics so they can put in a single-payer universal health-care system.
-- B. March, support, and vote for Conservative politics so they can put in a private health-care system.
-- C. Alternate your support and end up with a mixture of government and corporate health-care. (Which is what ended up happening).
-- D. Make new apps and electronics and put these levers of power directly into doctors and patients hands. Use the ethics of open-source to give individuals power of their healthcare, but also the responsibility to become healthier.
-
-Many health-care administration jobs are needed. Many are not. Using Techvolution, you should know the solution to this problem is changing who controls the levers of power. Only new apps, electronics, and websites made for the people, by the people, will check and balance administrators in the era of mass-collaboration and improve the health statistics of our culture.
-
-We can do it. Wikipedia and Netflix show how the middle-class can ignore dark majic and defeat antagonists. We ignored their bad rules, and instead used the better tool which soon became the new standard. Uber, YouTube, Airbnb, Wikipedia, Netflix etc., don't give us all the levers of power. But we have a lot more then we did just a few years ago.
-
-And yet, these cool apps are small victories. To bring on the era of mass-collaboration in the Internet Age across our entire society from health-care to working hours, we need to transform our society's entire rulebook. And that takes a bit more work.
+The biggiest problem is the Studio System should never have been outlawed in the first place. Which is the topic of my other book [History of the Movies](https://www.techvolution.io/history-of-the-movies/).
 
 ## We've Blown Up One Death Star, Now Here's How We Win the War
 
-So Stargazer, to turn the tide on rising health insurance costs, we'll need copy what we did with Wikipedia and Netflix. Put new levers of power in the frontline's hands. It's a battle that makes us happy because evolving humanity puts smiles on our face.
+So Stargazer, we did well with Wikipedia and Netflix. Despite antagonism, we upgraded two huge sectors of our society to the Internet Age. To keep the momentum going we have to keep making you happy.
 
-Imagine how happy we'll be on Main Street once we use digital tools and mass-collaboration to solve our agonizing commutes, confusing insurance contracts, over-consumption, and rising global temperatures. That's the war you must jump into with lightsabers a-blazin', dicing up old evil tools, to supercharge humanity into the Internet Age.
+Imagine if everything was as easy and affordable as Wikipedia and Netflix. That happy image will empower us to solve agonizing commutes, claryf confusing insurance contracts, and reduce our over-consumption. That's the war you must jump into with lightsabers a-blazin', dicing up old evil tools, to supercharge humanity into the Internet Age.
 
-Note, our lives cut across thousands to millions of problems. Thus, our villains are not in a massive group like "the rich" or the "the unions" as old philosophies label. Our villains reveal themselves inside thousands of companies, institutions, and organizations of the Industrial Age who fight to keep their version of the Encyclopedia Britannica or DVD alive. They choose to antagonize. There's lots of work to be done and glory to be earned in our never ending game of civilization.
+Note, our lives cut across thousands to millions of problems. Thus, our villains are not in a massive group like "the rich" or the "the unions" as old philosophies label. Our villains reveal themselves inside thousands of companies, institutions, and organizations of the Industrial Age who fight to keep their version of the Encyclopedia Britannica or DVD alive.
 
-But some people choose to antagonize. Today, this is the entire class of middlemen, consultants, administrators, managers, and executives who don't know the skills of their industry like nursing, teaching, and (definitely not) cleaning. Their power comes from managing the gates of an Industrial Age technology.
+There's no reason to antagonize. There's so much work to be done and glory to be earned in our never ending game of civilization.
 
-Together, protagonists and extras can overcome these antagonists to bring on the Internet Age. I know this is possible because history has proven it. Our struggle to upgrade civilization was fought generations ago with Darth Blockbuster's master: Darth King.
+Regardless, some people choose to hold humanity back. Today, there is an entire class of middlemen, consultants, administrators, managers, and executives who don't know the skills of their industry like nursing, teaching, and (definitely not) cleaning. Their power comes from guarding the gates of an Industrial Age technology.
+
+Together, protagonists and player gods can overcome these antagonists to bring on the Internet Age. I know this is possible because history has proven it. Our struggle to upgrade civilization was fought generations ago with Darth Blockbuster's master: Darth King.
 
 Darth King ruled atop a huge hierarchy. He lived inside gated palaces, using society's money to host splendid banquets and balls. His absolute control over society's levers of power was hidden by the Medieval Age's ruling philosophy of the "noble's divine right to rule."
 
-Slowly, as protagonists invented scientific instruments, books, and guns, the Age of Enlightenment was born. With it came values of science, equality, and democracy that turned the people into player gods in the American and French Revolutions. These revolutionaries were inspired by the new philosophy of Jean-Jacques Rousseau.
+Slowly, as protagonists invented scientific instruments, books, and guns, the Age of Enlightenment was born. With it came values of science, equality, and democracy that turned the people into player gods in the American and French Revolutions.
+
+These revolutionaries were inspired by the new philosophy of Jean-Jacques Rousseau.
 
 ![Marie Antoniette](https://4.bp.blogspot.com/-jhgHG65hfC8/VFT1nla3p8I/AAAAAAAAfwU/8BgnOdFSelo/s1600/Marie-Antoinette-marie-antoinette-27292491-1500-1000.jpg)
 _Player god, extra, protagonist or antagonist?_
 
 ## Freeing Cinderella
 
-"Player gods are born free, and everywhere they are tricked into being extras." Rousseau said that in 1762. Actually, he didn't. He said "people are born free and everywhere they are in chains." But the idea is the same. Rousseau was the son of a Swiss watchmaker who grew up to be a famous (or infamous) writer. Infamy didn't pay much so he often had to copy sheets of music to make his rent. More than 300 years later, he is recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
+"Player gods are born free, and everywhere they are tricked into being extras." Rousseau said that in 1762. Actually, he didn't. He said "people are born free and everywhere they are in chains." But the idea is the same. Rousseau was the son of a Swiss watchmaker who grew up to be a famous (or infamous) writer. Infamy didn't pay much so he often had to copy sheets of music to make his rent.
 
-Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility's many banquets and balls. This was the opulence Cinderella dreamed about about while cleaning a dirty chateau. Sadly, unlike the fairy tale, the people didn't have a Fairy Godmother to make their dreams come true. Instead, the commoners cleaned the nobles' vast libraries, used guns while dying in their wars, and were told to ignore what scientific instruments revealed. As extras in the story of civilization, they were distracted from the power of new tools by dark majic—the people believed their beloved Holy Bible said only Darth King had the right to rule.
+Rousseau got paid in the pages of history. Because more than 300 years after his death, he is recognized as being a great philosopher, a political visionary, and a protagonist who helped free the world with his new philosophy.
 
-Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other person. So, why can't everyone live up to their potential and become player gods? Rousseau made people understand that books, guns, and scientific instruments should liberate the extras who were only in chains for the happiness of con artists. The self-proclaimed "divine nobility" didn't like hearing that. They declared Rousseau a banquet-pooper, a rule breaker, and chased him out of Switzerland, France, and England. Maybe that's why the genius philosopher rented instead of owned.
+Rousseau lived when kings and queens, dukes and duchesses ruled civilization. A time when Mozart played inside exquisite palaces during the nobility's many banquets and balls. This was the opulence Cinderella dreamed about about while cleaning a dirty chateau. Sadly, unlike the fairy tale, the people didn't have a Fairy Godmother to make their dreams come true. Instead, the commoners cleaned the nobles' vast libraries, used guns while dying in their wars, and were told to ignore what scientific instruments revealed.
 
-It didn't matter. The nobility was in the dying days of their Medieval Age ruling philosophy. Starting in 1776, within Rousseau's lifetime, Darth King started to face the music when the American people started a revolution. One year after Rousseau died, the French had their own revolution in 1789. And, on it went from country to country because Rousseau, and others like him, made extras realize they should become player gods in a country "of the people, for the people, by the people." Cinderella soon forgot about the fancy ball, and instead sung the music of freedom in a choir of equals, that sounded something like this:
+They were distracted from the power of new tools by dark majic. As extras, they truly believed their beloved Holy Bible said only Darth King had the right to rule.
+
+Rousseau called bullshit. In truth, Jesus was a carpenter, a commoner just like any other person. So, why can't everyone live up to their potential and become player gods? Rousseau made the people understand that books, guns, and scientific instruments should liberate extras, who were only in chains for the happiness of con artists. The self-proclaimed "divine nobility" didn't like hearing that. They declared Rousseau a banquet-pooper, a rule breaker, and chased him out of Switzerland, France, and England. Maybe that's why the genius philosopher rented instead of owned.
+
+It didn't matter. The nobility was in the dying days of their Medieval Age ruling philosophy.
+
+Starting in 1776, within Rousseau's lifetime, Darth King started to face the music when the American people started a revolution. One year after Rousseau died, the French had their own uprising in 1789. And on it went from country to country because Rousseau, and others like him, made extras realize they should become player gods in a country "of the people, for the people, by the people."
+
+Cinderella soon forgot about the fancy ball, and instead sung the music of freedom in a choir of equals, that sounded something like this:
+
+GIF
+_Les Miserables is a story of antagonists, protagonists, and of course extras singing about becoming player gods. Notice after a new philosophy clicked, they made it real with that lever of power called a musket._
 
 Revolution spread the people's liberty, equality, and fraternity throughout the world. In a few years, the Medieval Age was finally gone. The royal Death Star was destroyed. Church and state were separate. Government had checks and balances. Civilization embraced a new ruling philosophy of Democracy. Main Street put presidents and senators, judges, and sheriffs in power, who ruled at the request of the people because the people were player gods.
 
-Rousseau died never having found a home. After they won their revolutions, the people put him to rest inside the glorious Panthéon. He was heralded as a renowned breaker of chains, destroyer of corrupted rulebooks, and liberator of player gods with his new philosophy that said any guy can be the prince, and any girl can be Cinderella.
+Rousseau died never having found a home. After they won their revolutions, the people put him to rest inside the glorious Panthéon. He was heralded as a renowned breaker of chains, destroyer of corrupted rulebooks, and liberator of player gods with his new philosophy.
+
+Rousseau made ordinary people realize any guy can be the prince, and any girl can be Cinderella.
 
 The question for us is, how did Rousseau help an entire people embrace a new age, become player gods, and change their ruling philosophy? I'd especially like to know how we do it better because I'd really like to skip horrible wars and revolutions as we venture into the Internet Age.
 
-Civ6-politics+LesMis GIF
-
-_Les Miserables is a story of antagonists, protagonists, and of course extras singing about becoming player gods. Notice after a new philosophy clicked, they made it real with that lever of power called a musket._
-
 ## Old Philosophy vs. New Philosophy
 
-Techvolution is a philosophy book, but I don't directly reference past philosophies. Like any topic it takes some practice to read. However, I thought it might help to study a little. Below are snippets from two influential philosophers. One who hated Rousseau's ideas, and another who loved him.
+Techvolution is a philosophy book, but I don't directly reference past philosophies. Like any topic it takes some practice to read. However, I thought it might help to study a little. Below are snippets from two influential philosophers. One who hated Rousseau's ideas, and another who loved them.
 
 ===
 
@@ -1711,40 +1731,40 @@ Techvolution is a philosophy book, but I don't directly reference past philosoph
 
   This desperate assertion whereby kings are made subject to the judgements and deprivations of their subjects follows as a necessary consequence of foolhardy position of the supposed natural equality and freedom of mankind. The people do not have the liberty to choose what form of government they please.
 
-Patricia, Or the Natural Power of Kings
+[Patricia, Or the Natural Power of Kings](https://www.constitution.org/eng/patriarcha.htm)
 by Robert Filmer
 1680
-(I made edits for readability's sake)
-https://www.constitution.org/eng/patriarcha.htm
+(I made small edits for readability's sake)
 
 ===
 
   >We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. —That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, —That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.
 
-Declaration of Independence
+[Declaration of Independence](https://www.archives.gov/founding-docs/declaration-transcript)
 by Thomas Jefferson
 July 4, 1776
-https://www.archives.gov/founding-docs/declaration-transcript
 
 ===
 
-Philosophies often live past their live expectancy. Only when the people become player gods do we get to choose which we like best. Let's see how our ancestors on Main Street won their battle against noble kings, so we can honour their legacy and upgrade our sociey today.
+There are many philosophies to believe in. Only when the people become player gods do we get to declare which should be our ruling philosophy. Let's see how our ancestors on Main Street won their battle against noble kings, so we can honour their legacy and upgrade our sociey today.
 
 ![Treaty of Paris](https://en.wikipedia.org/wiki/File:Treaty_of_Paris_by_Benjamin_West_1783.jpg)
 
-_The American Revolution ended when USA and the United Kingdom signed the Treaty of Paris (1783). The arrogant British nobles were so insulted, they refused to sit with the new player gods, and so weren't painted in the official portrait. Player gods get their place in history, antagonists erase themselves. I love it!_
+_The American Revolution ended when the USA and the United Kingdom signed the Treaty of Paris (1783). The arrogant British nobles were so insulted by the sight of "commoners", they refused to sit with the Americansn, and so weren't painted in the official portrait. Player gods get their place in history, antagonists erase themselves. I love it!_
 
 ## Society’s Three Stories Tell Us If We're Watching the Story of Civilization, or Playing the Game of Civilization
 
 Entering a new age doesn't require war, peace treaties, and funny unfinished portraits. Unfortunately, conflict usually tears down the old age and rings in the new. To avoid it while entering the Internet Age, we have to see our society better than Rousseau did. We can do that because we can learn from him.
 
-Rousseau's words echo this sentiment: let society enter into the Age of Enlightenment. Let the people prosper as player gods who use modern tools to improve their work and home lives. Let the nobility return to natural equality. Let anyone lead society—if they can solve problems and thereby earn the public's approval and consent. Rousseau never said there shouldn't be leaders. He said leaders should deserve their spot in charge of the player gods general will.
+Rousseau's words echo this sentiment: let society enter into the Age of Enlightenment. Let the people debate, argue, and collaborate to find out who should operate their goverment. Encourage individuals to become player gods who use modern tools to improve their work and home lives. Tell the nobility return to natural equality. Let anyone lead society—if they can solve problems and thereby earn the public's approval and consent. Rousseau never said there shouldn't be leaders. He said leaders should deserve their spot in charge of the player gods general will.
 
 He didn't phrase it like this, of course, but that's what Rousseau basically said. He understaood every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god.
 
-But, every new age comes with a battle, because the leaders of the old way of life refuse to earn their spot. Rousseau used stories to show us how humanity transitions from being antagonists and extras of an old age, into being protagonists and player gods of a new one. It shouldn't come as a big surprise that the troublemaking philosopher was also a novelist.
+Rousseau's new philosophy says only by updating their ruling philosophy, can the people live happy lives in a healthy society with things like cash in the bank, well maintained infrastructure, and a stable supply chain.
 
-So let's explain the three different stories:
+To turn extras into player gods, Rousseau used stories. It shouldn't come as a big surprise that the troublemaking philosopher was also a novelist.
+
+So let's explain the three different stories that let Rousseau change the world:
 
 ===
 
