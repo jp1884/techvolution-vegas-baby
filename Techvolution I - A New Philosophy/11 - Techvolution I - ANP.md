@@ -1113,7 +1113,7 @@ Frederick worked in the fields with his mother. It was hard labor, of course, th
 
 In a few years, Frederick was sent to work with a relative in Baltimore. The house was large, and the young family could use help cleaning, shopping, doing chores. It made his mother happy he wouldn't sweat so much, yet Frederick was a farmer and unsure of the big city.
 
-The patriarch of the house was named Hugh. He wasn't around much. His new wife Sophia was. She was a foreigner used to colder climates who didn't know many people yet, so she stayed in a lot. Sophia was nice and treated Frederick nicely too. Not as a farmer, but as an interesting person. She made Frederick feel at ease.
+The patriarch of the house was named Hugh. He wasn't around much. His new wife, Sophia, was. She was a foreigner used to colder climates who didn't know many people yet, so she stayed in a lot. Sophia was nice and treated Frederick nicely too. Not as a farmer, but as an interesting person. She made Frederick feel at ease.
 
 One day, Sophia handed Frederick a list of items to pick up from the store. Frederick's eyes looked down, his shoulders slouched, like a dog who disappointed its masters. Frederick mumbled, "I can't read."
 
@@ -1151,9 +1151,9 @@ One day while doing his chores, Frederick saw a newspaper, the avenue to knowled
 
 The answer slapped him harder than the demon ever did, he read the words "The Free States in the North." He heard the word freedom before, but he didn't know freedom was a real place.
 
-A shockwave went through him when he realized if slavery was a place, then so must freedom be a place too. Frederick realized he could break chains! Because ignorance was always his demon, and knowledge was always his angelic lever of power. And he fought ignorance and received knowledge, whenever he read.
+A shockwave went through him when he realized if slavery was a place, then so must freedom be a place too. Frederick realized he could break chains! Because ignorance was always his demon, and knowledge was always his angelic lever of power. And he fought ignorance and received wisdom, whenever he read.
 
-So, Frederick taught himself to read. He practiced with innocently "ignorant" white kids on the streets. He practiced reading items at the grocery store. He practiced on every street sign. And he practiced every time he was at the Baltimore dock; did you hear me Stargazer, the dock I said, you know the place, where ships will take you anywhere in the world.
+So, Frederick taught himself to read. He practiced with innocently "ignorant" white kids on the streets. H read items tags at the grocery store, and signs on the road. And he practiced every time he was at the Baltimore dock; did you hear me Stargazer, the dock I said, you know the place, where ships will take you anywhere in the world.
 
 If you can read the schedule.
 
@@ -1176,7 +1176,7 @@ Frederick Douglass was a true Jedi Master. His exceptional bravery, persistence,
 
 Among his many lessons Stargazer, Douglass teaches us how to use majic to tell the difference between good and evil rules.
 
-Sophia taught Douglass to read. She wasn't told to. She did it because we love teaching our chosen tools, whether they're pen and paper, new apps, or how to tape drywall. It's as natural to spread our cyborgology, as it is for a species to propagate their biology.
+Sophia taught Douglass to read. She wasn't told to. She did it because we love showing our chosen tools, whether they're pen and paper, new apps, or how to tape drywall. It's as natural to spread our cyborgology, as it is for a species to propagate their biology.
 
 When a magician makes a playing card disappear, we smile in awe and childish wonder. That's cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with typing, drawing, or reading, they've similarly performed something awesome. They've upgraded someone's cyborgology, helped them solve problems better, and effectively created a new and improved person. This makes us smile for a long time.
 
@@ -1186,7 +1186,7 @@ Yet human-made rules _sometimes_ say upgrading to a new tool is wrong. Medieval 
 
 Rather... the tired mothers can (as proven by the recent mad-dash to get workers online), they all have high-speed internet and home computers, but they don't. 
 
-he question is: why not?
+The question is: why not?
 
 <div style='position:relative; padding-bottom:calc(76.67% + 44px)'><iframe src='https://gfycat.com/ifr/AncientEnviousHornshark' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/ancientenvioushornshark-voldemort-potter-harry">via Gfycat</a></p>
 
@@ -1224,7 +1224,7 @@ One I call dark majic.
 
 In Nature, there are continual adaptations of existing lifeforms, and then sometimes entirely new lifeforms. In Techvolution, this is the difference between upgraded technology and an entirely new tool.
 
-Upgrading a technology, such as going from sedans to SUVs, VHS to DVD's is a small change. While each product is different technologically, they still do the same job. Someone inside an SUV is still driving to their destination, someone with a DVD player still needs to rent movies from Blockbuster. These users may have more style (or vanity), but all things considered, they have the same powers and are thus the same cyborgs. The point is, a brand new technology doesn't start a political battle. The Death Star isn't fired up, so to speak.
+Upgrading a technology, such as going from sedans to SUVs, VHS to DVD's is a small change. While each product is different technologically, they still do the same job. Someone inside an SUV is still driving to their destination, someone with a DVD player still needs to rent movies from Blockbuster. These users may have more style (or vanity), but all things considered, they have the same powers and are thus identical cyborgs. The point is, a brand new technology doesn't start a political battle. The Death Star isn't fired up, so to speak.
 
 But when we've upgraded enough technologies, like microchips, touchscreens, batteries, and Wi-Fi, a protagonist can unlock a new tool like smartphones. New tools solve problems in a new way. And this is a big deal.
 
@@ -1235,7 +1235,7 @@ Because new tools prompt a question: who controls it? After all, whoever does is
 
 Darth Blockbuster will fire up the Death Star to use society's rulebook to suppress new tools.
 
-But lawsuits, lobbying, and other techniques take time and money. It's better for the antagonists if Main Street's love of majic is misdirected for the continued love of old the technology antagonists still control.
+But lawsuits, lobbying, and other techniques take time and money. It's better for the antagonists if Main Street's love of majic is misdirected for the continued enjoyment of old technology.
 
 For example, muscle cars today keep customers away from Tesla with techniques like mass advertising, fancy auto shows, and spectacular chromes plated V8 power! Tesla's are a new and better tool because they can be fueled using renewable energy. With a Tesla Solar Roof, player gods can even fuel their own vehicles.
 
@@ -1285,7 +1285,7 @@ We already did. Against Darth Blockbuster himself. Let see who one that contest.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/HarmlessBlueFanworms' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div> Credit: [Civilization 6](https://www.youtube.com/watch?v=j6v5byyCyW4) and [VICE News](https://www.youtube.com/watch?v=EdvJSGc14xA).
 
-_Please enable sound. There's nothing wrong with cars, trucks, or tractor-trailers. We'll always need them in our society. But, we're buying too many vehicles, and stupidly neglecting our infrastructure to pay for all the frills. Most of our physical infrastructure was built in the late 1800s early 1900s. This means while bragging about our luxury cars, we've let the roads, bridges, and tunnels their driving on fall apart. Building infrastructure is the most important thing about civilization games. If neglecting ours in favor of 300 horsepower sports cars isn't proof we're extras instead of player gods, I don't know what is._
+_Please enable the sound. There's nothing wrong with cars, trucks, or tractor-trailers. We'll always need them in our society. But, we're buying too many vehicles, and stupidly neglecting our infrastructure to pay for all the frills. Most of our physical infrastructure was built in the late 1800s early 1900s. This means while bragging about our luxury cars, we've let the roads, bridges, and tunnels their driving on fall apart. Building infrastructure is the most essential thing about civilization games. If neglecting ours in favor of 300 horsepower sports cars isn't proof we're extras instead of player gods, I don't know what is._
 
 ## Darth Blockbuster Uses Dark Majic and the Death Star
 
@@ -1327,13 +1327,13 @@ And predictably, a new tool asked a substantial political question; who controls
 
 ![Techvolution battle](/img\diagrams\techvolution-battle.png)
 
-I was a theatre usher/projectionist back then and saw it all first hand. Some movies were great, but most were bland: comedies, tragedies, dramas, suspense, all genres usually fell flat. Theatres were over-priced and often empty. Customers were unhappy and often told me so. The industry didn't care. On the back of strong DVD sales, they gave themselves lavish paychecks, banquets, and award shows.
+I was a theatre usher/projectionist back then and saw it all first hand. Some movies were great, but most were bland: comedies, tragedies, dramas, suspense, all genres usually fell flat. Theatres were over-priced and often empty. Customers were unhappy and often told me so. Regardless, the industry didn't care because, on the back of strong DVD sales, they were busy enjoying lavish paychecks, banquets, and award shows.
 
 Any consideration of upgrading their customers to the Internet Age was not-existent.
 
 The industry wasn't going to throw away the DVD. Instead, they double-downed on it. Twice! They made HD-DVD and Blu-Ray (2006). They increased the dark majic of marketing, special effects, and celebrity culture. The Hollywood hierarchy was happy the way things were. They (thought) they controlled the digital technology lever of power. Their business model was to ration access to it. That's why a movie was released in theatres, then on DVD, and finally on television months and years apart.
 
-In swooped the internet Jedi on an ethernet chandelier. Unknown and unpaid technologists created BitTorrent sites (2008). Although filled with computer viruses, lousy picture quality, and poorly designed user interfaces, these sites gave regular people movies on the internet.
+In swooped internet Jedi on an ethernet chandelier. Unknown and unpaid technologists created BitTorrent sites (2008). Although filled with computer viruses, lousy picture quality, and poorly designed user interfaces, these sites gave regular people movies on the internet.
 
 With the lever of power in both hands, DVDs faced off against internet streaming. The Industrial Age faced off against the Internet Age.
 
@@ -1347,7 +1347,7 @@ A decade before, the music industry was in the same spot. Record stores and CD (
 
 _Average North American theater gross for each Oscar Best Picture winner. As the movies were dying, the industry fought back with excuses and lawsuits instead of innovation and evolution. Most people didn't even bother watching Oscar movies on Netflix either. All numbers from boxofficemojo.com._
 
-The movie industry rejected the lesson of Napster. Ever notice how online movies don't include opening credits, red-carpet interviews, and politically charged acceptance speeches. When the public controlled the lever of power, the first thing they did was erase this filler because its useless dark majic. When in control of the lever of power, the public downloads the simple majic of a new story.
+The movie industry rejected the lesson of Napster. Ever notice how online movies don't include opening credits, red-carpet interviews, and politically charged acceptance speeches. When the public controlled the lever of power, the first thing they did was erase this filler because of its useless dark majic. When in control of the lever of power, the public downloads the simple majic of a new story.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PleasantRegularGibbon' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
@@ -1427,6 +1427,9 @@ And when that didn't work, a large, confusing, and ever-growing rulebook became 
 Only established Industrial Age companies and bureaucracies had the money to buy the lawyers who could interpret the rulebook in their favor. Henceforth, the massive rulebook of society became a Death Star to the Internet Age. While "junior" became Darth Blockbusters who adopted antagonism as his ideology.
 
 We can only defeat him by reaching for modern levers of power.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/AncientSardonicEmperorpenguin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+Antagonism can pay well. But it's always in the short-term. If the society printing the money fails, everyone goes back to zero. No one uses Confederate or Soviet money do they? Credit: [VICE News](https://www.youtube.com/watch?v=mutpYD0Amfk).
 
 ## Levers of Power
 
@@ -1510,7 +1513,7 @@ New technology is already changing our society. By connecting people to the inte
 
 An example of this freedom is celebrities. We'll always celebrate the people we look up to. But, in the Industrial Age society, our stars were often decided for us. The era of mass-production only let a few people make movies, release albums, or get their names in "the papers."
 
-Internet Age celebrities are different. While we can make fun of Instagram models, silly YouTubers, Twitter trolls, and obscure podcasts, but at least we can follow who we want. Which also means we celebrate who we wish to. Heck, with no gates to overcome, anyone can be a musician, artist, comedian, or "celebrity." Personally, I follow people like Sailing La Vagabonde, Adam Savage's Tested, Linus Tech Tips, Kings and Generals, Historia Civilis, BatmanRealAccount, The Joe Rogan Experience, Dave 2D, Kirsten Dirksen, Traversy Media, Taylor Tries, Dr. Becky. I celebrate them because they're real people doing cool stuff who'd never consider themselves celebrities.
+Internet Age celebrities are different. While we can make fun of Instagram models, silly YouTubers, Twitter trolls, and obscure podcasts, but at least we can follow who we want. Which also means we celebrate who we wish to. Heck, with no gates to overcome, anyone can be a musician, artist, comedian, or "celebrity." Personally, I follow Sailing La Vagabonde, Adam Savage's Tested, Linus Tech Tips, Kings and Generals, Historia Civilis, BatmanRealAccount, Invicta, The Joe Rogan Experience, Dave 2D, Kirsten Dirksen, Traversy Media, Taylor Tries, RealEngineering, Dr. Becky. I celebrate them because they're real people doing cool stuff who'd never consider themselves celebrities.
 
 The next time you hear "celebrity," ask yourself if they're one of yours. Modern technology gives you that power.
 
@@ -1581,13 +1584,13 @@ Whether or not you contribute is up to you.
 
 While the antagonists are fighting it, the era of mass-collaboration is already here. We've already seen examples of Uber, Airbnb, and Wikipedia. But there are many more.
 
-These websites all let you change the world today. Right now.
+These websites let you change the world today. Right now.
 
 [Galaxy Zoo](https://www.zooniverse.org" target="_blank): Help astronomers classify stars and galaxies. You might even be the first to discover something new.
 
 [Common Voice:](https://voice.mozilla.org/en): Help inventors give their apps voice commands by donating your voice, anonymously, of course. A free voice database lets anyone improve their software.
 
-[Stack Overflow](https://stackoverflow.com): Stack Overflow lets programmers ask a question to other programmers. The person with the best answer gets rewarded. This kind of mass-collaboration will soon connect you with other people doing your frontline job.
+[Stack Overflow](https://stackoverflow.com): Stack Overflow lets programmers, engineers, customer support ask a question to colleagues. The person with the best answer gets rewarded. This kind of mass-collaboration will soon connect you with other people doing your frontline job.
 
 [Khan Academy](https://www.khanacademy.org/): Give yourself, or your kids, world-class education for free. You only need to login and start doing the work. Likewise, Udemy, Skillshare, The Great Courses all teach you programming, art design, photography, or anything else you need to know.
 
@@ -1616,7 +1619,7 @@ Evolution needs us to buy solar-power roofs, install a Hydroloop water reuser, s
 
 But there's a roadblock; do you know if your home insurance policy covers hail damage to newly installed solar panels? Do you even know where to find out if it does? Do you where to get your local business by-laws, building codes, tax laws?
 
-Even without antagonists, our society's rulebook is so vast and dense, we all live under the threat of "not reading the fine print." At any time, we could be hit by a code violation, claim denial, warranty rejection, patent lawsuit, or tax audit.
+Even without antagonists, our society's rulebook is so vast and dense, we all live under the threat of "not reading the fine print." At any time, we could be hit by a code violation, claim denial, warranty rejection, liability lawsuit, or tax audit.
 
 And what if antagonists want to attack us? It's so easy for anyone with the resources to find "a problem" and use their Death Star to start a lawsuit, find a violation, or lobby government against you.
 
@@ -1630,9 +1633,11 @@ The rules, regulations, contracts, and laws that govern our lives are a complete
 
 The truth is, regular people and small businesses can work as freely as the _Cities: Skylines_ clip above. With open-source software, GPS, smartphones, high-speed internet, AES security protocols, cloud computing, MySQL databases, the middle-class can literally put the power to read, understand, and question the rules in our own hands!
 
-Once we hold Internet Age levers of power, we'll make a rulebook that's friendly and reasonable. We will understand what we should be doing, be able to ask informed questions and fight back if we think something is wrong. Most vitally, everyone will be held accountable for their actions.
+Once we hold Internet Age levers of power, we'll make a rulebook that's friendly and reasonable. We will understand what we should be doing, be able to ask informed questions, and of course fight back if we think something is wrong.
 
-However, this new rulebook will only be a happy reality once Main Street uses Techvolution as our shield and motivation to bring-on the era of mass-collaboration. That's why we'll make in _Techvolution II: Building the Life Star_.
+Most vitally, everyone will be held accountable for their actions.
+
+However, this new rulebook will only be a happy reality once Main Street uses Techvolution as our shield and motivation to bring-on the era of mass-collaboration. That's why we'll make in the next book _Techvolution II: Building the Life Star_.
 
 https://www.youtube.com/watch?v=PgGLgygsqus
 _This scene is from the movie [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short_(film)). It's a movie about the 2008 housing crisis. The Industrial Age antagonists wanted to keep building the 1969 lifestyle. To get people to sign for generic suburban houses, they used BMW driving underlings to sell a confusing rulebook. 2008 is when I came up with the camel in the Amazon metaphor trying to explain why the crisis was always going to happen. Because if you trick a camel into buying a house in the Amazon, that doesn't solve the fact it's living out of its ecosystem._
@@ -1641,17 +1646,21 @@ _This scene is from the movie [The Big Short](https://en.wikipedia.org/wiki/The_
 
 Today we're counting on our industries to make more medical masks, hand sanitizer and [very quickly design, build, and distribute enough ventilators for our sick](https://www.youtube.com/watch?v=7vLPefHYWpY).
 
+The small "maker" community is stepping up to [print face shields for medical staff](https://www.opshieldsup.org/). Typically, they'd need untold hours and money, to get approved for use. But, after exporting our factories, there's not enough left to respond in time. So the middlemen have put their Death Star on hold.
+
 Our response to the coronavirus didn't need to be so uncertain. When a society is playing the game well, it has the resources, expertise, and drive to respond to any crisis.
 
-For example, in 1941, America had a tiny military. But when Japan attacked, and the Nazis declared war, the two "awoke a sleeping giant." This phrase describes America. It didn't matter her military was small. Because her industrial base was extensive, technical expertise was precise, and most importantly, her people were happy.
+For example, in 1941, America had a tiny military. No really, it was like the Canada of today. But when Japan attacked, and the Nazis declared war, the two "awoke a sleeping giant." This phrase describes America because it didn't matter the American military was small. Because her industrial base was extensive, her technical expertise was precise, and most importantly, her people were happy.
 
 Led by industrialists [William S. Knudsen](https://en.wikipedia.org/wiki/William_S._Knudsen), and [Henry J. Kaiser](https://en.wikipedia.org/wiki/Henry_J._Kaiser) (both with no formal education) America's "Victory" war production program quickly outproduced the Axis countries. Even though Germany, Japan, and Italy were already geared for war, the American worker was twice as productive as a German, and four times more than a Japanese. The Ford Motor Company alone made more war equipment than all of Italy.
 
 You can read more about America's [transformation during World War II](https://en.wikipedia.org/wiki/Home_front_during_World_War_II) on Wikipedia. The point is, America got into the war in late 1941, and it was all over within 3 and a half years. A big reason is the blazing speed America designed, built, and delivered new tanks, planes, and ships. More proof that the civilization that adapts the fastest wins.
 
-And today, we're struggling to figure out where to get more n95 masks, hand sanitizers, and ventilators.
+And today, we're struggling to figure out where to get more face masks, hand sanitizers, and ventilators.
 
-On the bright side, having our backs against the wall makes us adapt. Among the technical innovations, World War II is when American women and blacks got to show their full potential in the frontline of work and war. It's no surprise the equality, and civil rights movements pushed forward after the war was won.
+On the bright side, having our backs against the wall makes us adapt. Among the technical innovations, World War II is when America updated its culture. Finally, women and blacks got to show their full potential in the frontline of work and war.
+
+It's no surprise the equality, and civil rights movements upgraded even further after its people helped win the war.
 
 We can follow suit and start to remake our society during this pandemic by adopting a modern philosophy for the Internet Age.
 
@@ -1670,11 +1679,11 @@ Here's my point, nobody knows how or why something clicks. However, we do unders
 
 Of course not, and that's a good sign you're already a believer in the Internet Age.
 
-Our civilization has fought many battles to liberate extras. The first was the fight against kings and their despotism. Then it was the fight against sexism and racism. At each stage more people fought for the levers of power to become full members of their community; or what we now call player gods.
+Our civilization has fought many battles to liberate extras. The first was the fight against kings and their despotism. Then it was the fight against sexism and racism. At each stage, more people fought for the levers of power like books, telescopes, guns, and voting. Holding these tools let more people become full members of their community; what we now call player gods.
 
 Liberating people works because, just like in Nature, the more lifeforms play the game, the more upgrades we adapt to solve pressing problems.
 
-Now as we upgrade to the Internet Age, we have another "ism" in our way; antagonism. While racial prejudice and gender oppression will always need to be kept at bay, Darth Blockbuster's ideology is by far Main Street's biggest problem.
+Now, as we upgrade to the Internet Age, we have another "ism" in our way; antagonism. Despotism, racial prejudice, and gender oppression will always need to be kept at bay. But, Darth Blockbuster's ideology is by far Main Street's biggest problem.
 
 Look at what antagonism has forced upon us during this pandemic. A fragile supply chain. Months long unemployment claims reviews. And, an extremely bureaucratic health-care system.
 
@@ -1684,7 +1693,9 @@ The good news is, we already have Internet Age technology. You already love it; 
 
 So, let's return to our mission. I want you to drop the era of mass-production and Left/Right politics for Techvolution. A new philosophy that gives you the right and duty to upgrade our civilization to the Internet Age and the era of mass-collaboration.
 
-At the end of this book, I'd love it if you'd #debtfreeliving, #byebyedarthblockbuster, #ilovecollaboration. Because that's what happy player gods do when we control the levers of power.
+At the end of this book, I'd love it if you'd tell your claims adjuster, "Just to let you know, I'm recording this conversation. And I already have a copy of the policy I look forward to collaborating with you."
+
+Because that's what player gods say when we control the levers of power.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/HomelyHardtofindKakapo' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
