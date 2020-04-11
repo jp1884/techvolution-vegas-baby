@@ -2664,3 +2664,7 @@ That's why Main Street must evolve on its own. We're the ones feeling the growin
 For example, one time in car claims, a customer called asking, "Why did you send me to collections!". I was baffled because I didn't, nor could I; I could only approve or deny claims. It turns out the rental car company didn't send their bill, and when it wasn't paid sent our mutual customer to a collections agency. I called the rental company told them they were idiots, and sent them their 100 odd dollars check.
 
 Even when the customer did nothing wrong, he still had to deal with three company call centres to fix a problem. Worse, he was left wondering what was going to happen to his credit rating. The rental car company, collections agency, credit rating company, and even me, faced no repercussions because the only lever of power the customer had was to complain.
+
+## Fighting example
+
+The game of life is like a street-fight. No rules apply. Ideologues are like boxing, judo, or akido coaches. They train to fight, but only in their discipline. Without experience in real fighting, coaches trick themselves into believing kicking, chokeholds, or cheap shots are "against the rules."
