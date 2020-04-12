@@ -2002,11 +2002,9 @@ You can also see this click in the movie called _The Matrix_. This classic story
 
 The matrix looks and feels like 1990s America. It's a wonderfully believable world of dark majic. A never-ending spectacle story to keep the selfish machines in power.
 
-The story's hero is a regular person named Neo. Neo means new by the way. It's a fitting name because Neo starts his adventure to heroism by asking and innocent question, "what is the Matrix?"
+The story's hero is a regular person named Neo. Neo starts his adventure to heroism by asking and innocent question, "what is the Matrix?"
 
 This is a powerful question because if the rules are stacked against you, throw awaying ones beliefs, and rebuilding a new philosophy, is the only way regain the advantage.
-
-<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/2lkTXtXEzXooU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/movie-sci-fi-the-matrix-2lkTXtXEzXooU">via GIPHY</a></p>
 
 Neo's willingness to question reality eventually gets him recruited. Neo isn't alone. There are other untapped humans also rebelling against the machines.
 
@@ -2014,17 +2012,11 @@ Neo joins them. Soon he learns how to see through the dark majic of the matrix's
 
 By ignoring the rules, Neo learns many new abilities like jumping high, moving fast, and soon even how to dodge bullets.
 
-All because he questions the rules.
-
-<div class="tenor-gif-embed" data-postid="4621909" data-share-method="host" data-width="100%" data-aspect-ratio="2.4057971014492754"><a href="https://tenor.com/view/the-matrix-neo-keanu-reeves-morpheus-laurence-fishburne-gif-4621909">The Matrix Neo GIF</a> from <a href="https://tenor.com/search/thematrix-gifs">Thematrix GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 Neo soon gets noticed by the enforcers. The "Agents" who seek out rulebreakers and punish them with their powers of inhuman strength, speed, and loyalty of the people still stuck in the matrix. Neo counters by mastering more levers of power such as guns, explosions, and helicopters.
 
-Neo wins. Because while the Agents are powerful because they master the rules of the ruling philosophy, they are also bound by their own rulebook. Neo is making a new way of life, and is free to expand his horizons. Neo becomes so free, he can fully "decode the Matrix".
+Neo wins. Because knowing the rules makes Agents powerful, but also limits them as well. Since, Neo is making a new way of life, and is free to expand his horizons. Neo becomes so free, he can fully "decode the Matrix".
 
 As Frederick Douglass would agree, freedom of thought is the greatest power of all.
-
-<div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/fV0oSDsZ4UgdW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/the-matrix-neo-thomas-anderson-fV0oSDsZ4UgdW">via GIPHY</a></p>
 
 After Neo defeats Agent Smith, he calls the machine's bosses and says:
 
@@ -2032,7 +2024,11 @@ After Neo defeats Agent Smith, he calls the machine's bosses and says:
 
 Rousseau would have been proud.
 
-Let's see how we can learn from the French philosopher and Neo to click our new philosophy for ourselves.
+The point is this. Decoding dark majic and breaking the rules is often very hard. But, we automatically do both when we simply learn new tools, and do what's best for ourselves.
+
+You don't have to be a super-hero to be Neo. You simply have to use tools to solve your real-life problems. Evolution defeats antagonism all by itself.
+
+Let's see how our ancestors evolved and click Rousseau's new philosophy.
 
 ## Protagonist Kings
 
@@ -2471,8 +2467,6 @@ Look up. Wherever you are, look up. Do you see the "mythical player god"? No, yo
 
 That makes you the lifeform playing the game of civilization.
 
-The question is, did Techvolution click?
-
 Darth Blockbuster will never, ever, ever, "see the light" and play the game for you. That's why I'm not writing to "The Executive." I'm writing to you, Stargazer. You're the player god!
 
 ![Illustration](/img\sketches\playergod-stargazer.jpg)
@@ -2491,19 +2485,19 @@ A place where bullshit jobs don't exist.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/whimsicalleadingfirebelliedtoad">via Gfycat</a></p>
 
-_An idealized view of mass-collaboration. Although we'll lose the suburban lifestyle once there's no antagonists or extras, and just protagonists and player gods._
+_An idealized view of mass-collaboration and the Life Star. Although we'll lose the suburban lifestyle once there's no antagonists or extras, and just protagonists and player gods._
 
-I want to write all this stuff, but I can't keep thinking for you. Nor do I want to keep holding your hand. This book has been informative enough. At the start, I asked, "are you happy?" Now you have to ask yourself, "Am I going to do something about it?"
+I want to write all this stuff, but I didn't. This book has been informative enough. At the start, I asked, "are you happy?" Now you have to ask yourself, "Am I going to do something about it?"
 
-Our unhappiness is a fire alarm. Look around and see old drafty windows, gas engine cars, junk mail, call-centers, cable news, mass-produced toys. Keep looking, and you'll see eight different bosses, another meeting, endless suburban houses, consultant huddles, hopeless kids scared of working bullshit jobs...
+Our unhappiness is a fire alarm. This pandemic is a warning.
 
-Do you see Left/Right philosophy cause these problems? Do you want to solve them with Internet Age levers of power? Do you see that era of mass-production must be replaced by mass-collaboration?
+What's your way of thinking for solutions?
 
-WHAT DO YOU DO, COMPLAIN ABOUT INSURANCE, IRS, WHOEVER, OR EMPOWER YOURSELF?
+Are you waiting to vote for Left or Right? Are you going to post on social media corporations should treat their customers and employees better? Are you going to watch more infotainment about evil Big Business and Big Government?
 
 COMPLICATION GIF?
 
-Or, do you want to return to the comfort and safety of being an Industrial Age extra, watching yourself in _The Office_ reruns, and bragging about gas cars, fake job titles, and McMansions, while following the antagonist's rules, and chasing the phantoms of Left/Right politics.
+Or are you going to find, fund, or make new tools to solve whatever problem you have? Kickstarter, open-source technology, Khan Academy are only the beginning if you step up.
 
 The fate of your life, your kids, and of your society, rests on the simple question—will you step up and become a player god in the game of civilization?
 
@@ -2613,36 +2607,31 @@ _Levers of power. Whoever controls them, wins._
 
 ## Other Stuff
 
-Hello. Thanks for sticking around. The appendices is some stuff I couldn't fit into the narrative of the book, but I thought might be cool to know. Just aheads up, It'll be more abstract then usual.
+Hello. Thanks for sticking around. The appendices is some stuff I couldn't fit into the narrative of the book, but I thought might be cool to know.
 
 ## Bears Everywhere, Polar Bears Only In Some Places
 
-I never wanted to write this book. Most of this book is based on combinining the lessons of evolutionary biology and political philosophy. I think they're the same field of study, so similar they suggest a supreme physical life field of some kind. I used my take on political societies earned by using Aristotle's Poetics to better understand Hegelian Dialectics. It's work I did years ago. There's a lot to it—a genuine work of science forthcoming in _How to See the Matrix_—but it's original thinking will need the objective data from the Life Star to prove.
+I never wanted to write this book. Most of this book is based on combinining the lessons of evolutionary biology and political philosophy "How to See the Matrix".
 
-Most people are extremely bad at understanding their political opinions. While it's kinda of easy to get people to question their ideas using for example the Socratic Method, they'll revert once released back into the community. Psychology, upbringing, temperment, education, life experience, and all that intermix to form our politics The Life Star will help us decode this jumble. But there's one thing that is far stronger than our opinions that determines our actions in political community.
-
-The game of civilization; another way of saying human evolution. Human life does what all lifeforms do and gathers resources, grows, and diversifies. And it's this last point that has proven to hard for me to explain.
+I think they're the same field of study, so similar they suggest a supreme physical life field of some kind. That's the book I wanted to write. I used my take on political societies earned by using Aristotle's Poetics to better understand Hegelian Dialectics. It's work I did years ago. But it's original thinking will need the objective data from the Life Star to prove.
 
 There's no way around the game of civilization. Like evolution to lifeforms, we all are inside it. It's paint by numbers. Tracks on the road. We all live and die under it's demands. Playing a Civilization computer game is really the best way to understand it. In the game, every player starts off small, then gathers resources, invests them smartly, and grows. Playing the game teaches the importance of geography, technological upgrades, adopting modern philosophies, defeating everyone who opposes you, investing in research and development, avoiding building palaces to host jewellery laden banquets and balls.
 
-But no computer game forces the player into diversification or "adaptive radiation." In every game a player tries to take over the world with his one civilization. Never does the player have to segment himself into different civilizations. But, in natura this life-cycle of seed, growth, then adaption and diversificationns happens to all lifeforms and thus all civilizations. Few people realize how human cyborgology is the same as biology.
+But no computer game forces the player into diversification or "adaptive radiation." In every game a player tries to take over the world with his one civilization. Never does the player have to segment himself into different civilizations. But, in natura this life-cycle of seed, growth, then adaption and diversificationns happens to all lifeforms and thus all civilizations.
+
+Few people realize how human cyborgology is the same as biology.
 
 Polar Bears are nearly identitical to Brown Bears. But they're polar for a good reason. If they didn't adapt to the cold, water, and food supply, they've never live in the Artic. Thus, life diversified them. Adaptation is why we can't send the suffering polar bears to the Amazon, or even Antartica. They are not adapted to the climate in one area, and the ecosystem in the other. Imagine penguins with a few antartic polar bears walking around. Happy feet indeed.
 
 The point is this. We evolve just like any other lifeform. But we evolve with tools, and we evolve in ages. So we start off small, grow, and diversity in waves. Each new age, is like new lifeforms, new cyborgs, spreading across the world for the first time. Look at the European Powers below, who colonized the world a few generations ago during the Age of Discovery.
 
 <div style="width:100%;height:0;padding-bottom:44%;position:relative;"><iframe src="https://giphy.com/embed/eSItBDecz3oJy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/maps-cartography-territories-eSItBDecz3oJy">via GIPHY</a></p>
-_This same thing is happening to the world-wide economy. We just don't have the philosophy to understand why, so we fight back against forces of Nature and adaptation._
 
-The European Powers spread advanced civilization far and wide. Brutally in some cases—has anyone invented a way to spread new civilization or new life easily? But that's the point. Evolution doesn't care about individuals. Evolution is the rulebook by which life seeks out new and better ways to prosper.
-
-So life spreads far and wide with no consideration for the lifeforms already there. But once the victors are declared, life no longer needs to spread, but now diversify into many different ecosystems. Ecosystems is how life stays fit, ready to adapt to an dangerous world. Thus, when the Age of Discoverty ended, it started the Age of Revolutions. Revolutions was life making human ecosystems as the GIF shows above.
-
-Life thus has a two step process. One age of growth, the other of diversification. And this explains sooooo much of our politics today. The Industrial Age was one of world-wide growth. The second step, Internet Age, is one of diversification. And we're in this diversification phase right now. But nobody knows it, because we still use the Right/Left, era of mass-production philosophy of the Industrial Age.
+The European Powers spread advanced civilization far and wide. Brutally in some cases—has anyone invented a way to spread new civilization or new lifeform easily? But that's the point. Evolution doesn't care about individuals. Survival of the best adaptation is Nature's rulebook.
 
 So Trump and Brexit were inevitable. Our society wants to diversity after the Industrial Age. This is part of the game of civilization we all play, but few see the entireity of. That's why the established powers of the Industrial Age were so suprised, and have so much hatred, for nativist politics in the West. Although nativist politics isn't the future. Like the English Civil War, they're using old philosophies to try and make fundamental change. Only Techvolution, conscious adaptation using modern tools, is the new philosophy for our new Internet Age.
 
-I plan to write a textbook on Techvolution (How to See the Matrix), I'll love to now delve more into the game of civilization for you., and teach you how to decode the trends of history: what a civil war is, how to predict a revolution, and so forth. The game defines our lives in so many ways, because it determines the roles we play in our lives. The accident of birth to parents, geography, or time-period makes us antagonists, protagonists, extras and player gods. Few people understand their role, and a insight might help you choose Techvolution. But that'll come later. Hopefully.
+I plan to write a textbook on Techvolution (How to See the Matrix), I'll love to now delve more into the game of civilization for you., and teach you how to decode the trends of history: what a civil war is, how to predict a revolution, and so forth. The game defines our lives in so many ways, because it determines the roles we play in our lives. The accident of birth to parents, geography, or time-period makes us antagonists, protagonists, extras and player gods. Few people understand these roles. Once they can see it in the Life Star mirror, they'll be far more likely to choose Techvolution. But that'll come later. Hopefully.
 
 ## The End of One Game, and the Beginning of a New One
 
@@ -2650,109 +2639,103 @@ This section is my personal opinion, so take it for what it's worth to you.
 
 The Western World is a made up term. Don't get me wrong, it's a good way to describe the shared culture of France, Britain, Holland, America, Austrialia and the other members of the political unit we call "The West". But if you look down at the globe, these landmasses wouldn't look united. The West is a human creation. There was no "Western Europe" in Roman times. The entire Mediterranean Sea and surrounding land was unified under the Roman Empire.
 
-It wasn't until western Rome fell in 476, and North Africa was conquered in the 700s, that what we call Western Europe became isolated, and hence got its own identity. It was these once barbarian germanic tribes, newly converted to Christianity and loyal to the idea of Rome, who laid the seeds for Western Civilization. The first kings of Western Europe survived the Dark Ages. They slowly returned civilization in the Medieval Ages. By the time the Renaissance Age came, Western Europe was doing quite well. But it was in the Science Age and the Industrial Age that the West saw their power grow world wide.
-
 If the world had ended in 1900, The West would have won the game of civilization. Western Europe didn't have a head start. They didn't have any sort of advantage. If it's geography, resources, genes, or whatever were the reason for the West's rise to power, why did Rome fall. Why did Western Europe suffer so greatly in the Dark Ages if they had advantages available to no one else?
 
-Western Europe conqured the world, because it used modern technology better than any other civilization. That's because philosophy is a gift. It lets humanity invent and use new and better tools. Ancient Greece got it first, then it went to Rome, then to Middle East in the Islamic Golden Age, back to Italy in the Renaissance, where it spread to Western Civilization during the Science and Industrial Age, and thereafter to the world via European colonialization.
-
-Updating, or "clicking", a new philosophy is pivotal when playing civilization games for a good reason. Our real-life societies have to keep upgrading. Because the game of civilization never ends. Famines, wars, prosperity, climate change; clicking new philosophies is the only way to keeping inventing new tools, harvesting more resources, and surviving the game. There are antagonists inside every society. That's no excuse to stop playing. The rest of society either defeats them, or their civilization is replaced by another player and the idle extras still lose; their biological DNA (what genes we pass on) and cyborlogical DNA (what tools we pass on) is out of the gene pool either way.
+Western Europe conqured the world, because it used modern technology better than any other civilization. Their philosophy let them do that, and philosophy is a gift. It lets humanity invent and use new and better tools. Ancient Greece got it first, then it went to Rome, then to Middle East in the Islamic Golden Age, back to Italy in the Renaissance, where it spread to Western Civilization during the Science and Industrial Age, and thereafter to the world via European colonialization.
 
 Playing Civilzation, Anno 1800, or any other game is a better education than the best schooling today. These games mimick real-life, and thus integrate so many lessons. They force players to think of the big picture that's so hard to appreciate in real-life. It's an invaluable perspective, especially to our society which is so obessed with itself, inside our spectacle, and art stories.
 
-Our culture is very entrenched in the Industrial Age. So many people live to take credit for titles, instead of accomplisments. Professors, managers, executives, union leaders, all cherish the title of Industrial Age heirarchies. These well-intentioned people don't want to return back to equality that happens at the start of every new age. They refuse to upgrade our philosophy. Or they want someone else to do the hard work. The result is, the West is in the process of losing the game.
+Our culture is very entrenched in the Industrial Age. But, we're in an entirely new age. The Internet Age is just as historical and powerful as the Science Age. And nobody has earned victory over it yet. Africa, South America, East Asia, Middle East, India, Eastern Europe, any civilization in the world is no better off then the West. Actually, I'd say, the West is far behind in the race to win the era of mass-collaboration.
 
-We are in an entirely new age. The Internet Age is just as historical and powerful as the Science Age. And nobody has earned victory over it yet. Africa, South America, East Asia, Middle East, India, Eastern Europe, any civilization in the world is no better off then the West. Actually, I'd say, the West is far behind in the race to win the era of mass-collaboration.
+In all my schooling, reading, discussing, working, in all my life, the ancestors of the barbarian kings, the ones whose grand parents worked 365 days a year in horrible English factories, who suffered famines in Ireland, draughts in France, and wars throughout Europe, the ones who worked the labs in New York, who worked the mines of Pennsylvania, the lines of Michigan, who solved millions of different problems during the Science and Industrial Ages as player gods; their descendents today simple don't want to feel frontline pain.
 
-In all my schooling, reading, discussing, working, in all my life, the ancestors of the barbarian kings, the ones whose grand parents worked 365 days a year in horrible English factories, who suffered famines in Ireland, draughts in France, and wars throughout Europe, the ones who worked the labs in New York, who worked the mines of Pennsylvania, the lines of Michigan, who solved millions of different problems during the Science and Industrial Ages as player gods; their grandkids today simple don't want to feel frontline pain. And without pain, they fell no reason to change update to the Internet Age. As one sharp observer noted to me "it's like they've folded their cards."
+And without pain, these people fell no reason to update to the Internet Age. As one sharp observer noted to me, "it's like they've folded their cards."
 
-It's why so many of todays Western protagonists and player gods are foreigners. Also why so many tortured souls are born with irrationality (conspiracy theories and mental illness) in western society. Society is using their curse, to be irrational against the corrupt rulebook, and start (involuntarily) discovering the just rulebook of the next age. Irrational people are the most likely to see through the Matrix and start the rebellion. Their curse is to live the rebellion of the mind all the time. The laziness of their society, dooms them to miser. It's like these poor minds been clicked to find a new path for the rest of people to follow. That's the rationality of irrationality. The longer we hold off upgrading, the most cursed minds our society is forced to make.
-
-Fighting to delay the upgrade, is also why so many antagonists import extras (illegal immigration, migrant crisis, legal immigration) into the West, because they know desperate people are inherent extras, and only a society of extras, keeps antagonists of the Internet Age in power in the 21st Century. With so many non-members, the West will likely not be able to form a new Internet Age player god. Said differently, the West can't form a community again, because most everyone inside either thinks they individually are self-sufficient and can spend their days watching sports on TV, walking their dog, and having a few casual friends. Or people in the West have a hyphenated identity of Blank-American. A player god is a community, the era of mass-collaboration needs a community of members, and the West has little of community left.
-
-https://www.youtube.com/watch?v=BKorP55Aqvg
-_This the Antagonist Executive at work. No jokes, too many know how real this is. Darth Blockbuster's delusion of being the leader, despite personal incompetence, lasts until player gods rise up. I feel like I'm watching Charles trying to make battle plans. I can't help but see "the decline and fall" in this sketch._
-
-Modern technology is so powerful, it overcomes any natural drawback like language, geography, or history some places in the world have. That means the winner of the Internet Age is up for grabs. I don't know who will win. I do suspect though, the people of the West are dead-set on celebrating away their ancestors glory, quite literally living off their inheritance, and happily going down with the ship that was Western Civilization. With so much to gain from complacency, evolution is an unreasonable risk; especially when there's often no pain felt. I can't help but see "the decline and fall". Not of a state or government, but the civilization itself.
-
-One thing I do know, that whichever society throws away the memories, excuses, and philosphies of the past, and embraces Techvolution and the era of mass-collaboration, will be the winner of the Internet Age. It's their player god who will happily reign supreme for many years in the never ending game of civilization. I smile, thinking of all those bakers, tailors, designers, roofers, engineers, cleaners, repairmen, and maybe even a few majicians, smiling on a new and empowered Main Street.
-
-Hopefully they'll colonize the West, and so, bring on the Internet Age to the world. At least with this book, those people in what remains of the West, can read what their grandparents could have done as they regret the choices of player gods who lost because they refused to play the game.
+Whichever society throws away the memories, excuses, and philosphies of the past, and embraces Techvolution and the era of mass-collaboration, will be the winner of the Internet Age. It's their player god who will happily reign supreme for many years in the never ending game of civilization. I smile, thinking of all those bakers, tailors, designers, roofers, engineers, cleaners, repairmen, and maybe even a few majicians, smiling on a new and empowered Main Street.
 
 ## Stuff I Couldn't Fit In
 
-I tried to make Techvolution very readable. Almost all the topics and subjects are metaphors for the lessons Europe learned going from the Dark Ages, through the Medieval Ages, to the Science Age, Enlightenment Age, and finally the Industrial Age. So there was a lot of stuff to fit it. If you're a history or philosophy nerd, I hope you realize why I synthesized things the way I did. The benefit was, by keeping things simple, I was forced to better understand the content.
+I tried to make Techvolution very readable. Almost all the topics and subjects are metaphors for the lessons Europe learned going from the Dark Ages, through the Medieval Ages, to the Science Age, Enlightenment Age, and finally the Industrial Age. So there was a lot of stuff to fit it.
 
-Without changing our path (which I mentioned above, I can only hope is coming) The West really is headed towards societal failure, a new version of the Thirty Years War. That's not supposed to sound alarmist. It's a diagnosis using our history. Every new age needs a new philosophy that unites the people into thinking of the big picture and making a new player god. Unless we create a player god in an era of mass-collaboration soon, we wont stay ahead of our problems and people will fight for a better life using the philosophy of the past; just like our ancestors fought against Catholicism and Protestantism when the real enemy was selfish, effeminate nobility.
+If you're a history or philosophy nerd, I hope you realize why I synthesized things the way I did. The benefit was, by keeping things simple, I was forced to better understand the content.
 
-If I could travel back to 1618 to those very unhappy Europeans on Main Street, I'd say the same thing to them I told you. But they wouldn't believe it because I'd be talking about the future. With you it's been the past. There's a better chance it'll all click.
+If I could travel back to 1618 to those very unhappy Europeans before the Thirty Years War, and the English Civil Wars, I'd say the same thing to them that I told you.
 
-By clicking of course I mean upgrading our philosophy. While there are always lots of lessons in all philosophy books, in the game of civilization certain cards or philosophical upgrades are much more important than others. For reference, here's some of the lessons our ancestors taught us in blood, sweat, and tears, and I used in this book.
+But they wouldn't believe it because I'd be talking about the future. With you it's been the past. There's a better chance it'll all click.
+
+For reference, here's some of the lessons our ancestors taught us in blood, sweat, and tears, and I used in this book.
 
 ===
 
-**Modernity**: Inspired by the Renaissance, and started during the Age of Enlightenment. Modernity makes the point when we got modern technology and made modern philosophies. The printing-press, telescope, microscope, and so forth, let humanity develop better philosophies to explain Nature. If I were to have written this book another way, I'd have said modernity is hitting the social sciences, as it did years ago to the physical sciences. Postmodernism and its friends in Left and Right, are phantom chasing geocentrics trying to validate their bygone belief system against the rising tide of evidence a new philosophy is needed.
+**Phantom Communists and Fascists**: Machiavelli's "Imagined Principalities". Which is what Nicolo Machiavelli said to try and get people in the Renaissance to ignore the politics of the selfish religious leaders and political leaders. Watch the Borgias and you'll get a good idea how religion was used for political ends.
 
-The point it, we can take all the lessons of the first wave of modernity, and apply it to the second, which is what I did here by referencing the works from Machiavelli to Hegel, but excluded anyone after, because none of them integrated the technological possibilities of the Internet Age. They are like the geocentrics who tried to keep everyone believing the Earth stood still, even after a new and better philosophy was being discovered.
+These leaders used old philosophies like Catholicsm, and Aristotelism as literal words from God. That's why they called Galileo a heretic for using a telescope to uncover the truth. Likewse, so does our old philosophies stay alive by cries of "communists and fascists!" as modern technology reveals better truths.
 
-That's why science fiction writers are much better to study then any post modern (supposed) thinker.
+And, if by chance you've heard of Machiavelli or "Machiavellism", the philosopher has gotten a bad wrap. Although he's famous for being deceptive and conniving, it's only because political leaders hated him and so smeared him and his ideas far and wide.
 
-**Phantom Communists and Fascists**: The Renaissance, and Scienge Age, was kicked started by Nicolo Machiavelli, who was among the first to implore humanity study cause and effect, to improve our lives on Earth. He asked his contempories to ignore the  "Imagined Principalities" of religious people, who had the people ignoring their real-life pain, because of a belief they'll be rewarded in the afterlife. Any philosophy based on the way things ought to be, had people complain about the real-world, instead of accepting the facts of life, and trying to improve them. Machiavelli called heaven "Imagined Principalities".
+They even tortured him for weeks by hanging him by his shoulders. If that wasn't bad enough, the leaders told the public "Old Nick" was the Devil.
 
-Christian belief about an afterlife helped Medieval peasants stay loyal as their community was slowly rebuilding civlization. But by the Renaissance and afterward, only thikning of the afterlife was a needless distraction. Civilization had upgraded, and needed Main Street to start being selfish and take the lead as scientists, doctors, writers and so forth.
+Machiavelli was simply the first to say humanity should use history, and tools, to uncover truth, instead of listening to those in power. The real conniving and evil leaders didn't like someone looking behind their curtain and telling the public all their nastry tricks.
 
-I'm making the same point here. That Main Street is distracted from modern philosophy, by holdovers. Just as geocentrics stayed alive by telling the population about "heretic Galileo!", so does our old philosophies stay alive by cries of "they're evil". Instead of "Imagined Principalities" we have "Phantom Communists and Fascists".
+Machiavelli was a great writer, descent statemen, bad soldier, and was born and died middle-class. He inspired Galileo, Francis Bacon, and helped kickstart the Science Age. We owe him a better memory.
 
-**Frontline**: is Machiavelli's "effectual truth." Machiavelli came from a relatively poor family. But he was well educated, and his father gave him many books from the recent printing press. Machiavelli was the first philosoper to get to read lots of different philosophy and history books, and he noticed trends. He told superstitious Europeans, they didn't need to put their faith in God, because we can keep looking for trends, master them, and start to overcome problems like hunger, disease, and all that.
+**Frontline**: is Machiavelli's "effectual truth." Rather then believing what people say, this philosophy only cares about a person's actions. "Talk is cheap" is another way of putting it.
 
-Soon later Galileo, Francis Bacon, and lots of other people, read this insight, and invented the Scientific Method, which systemized looking for "effectual truth" by simply testing Nature with instruments, and discovering the truth, not inventing it with beliefs or reason. Hence, true truth is the "point of contact" between a tool and it's use. That's true in a scientific experiment that upgraded the physical sciences. And now, it's true in the second wave of modernity that will upgraded the social sciences. And for that, the frontline of everyday life is where we'll find the true answers; not the rules of the social or noble heirarchy.
+This simple disregard for talk, was the basis for Galileo, Francis Bacon, and lots of other people, to create the Scientific Method.
 
-**Player god**: Is my way of saying political community, what Plato called "politia". My version comes from Thomas Hobbes. He lived during the English Civil War, when people were again sick of the king but didn't yet have a different ruling philosophy to replace him with. Hobbes invented human equality by saying in Nature (he called it the State of Nature), all lifeforms live freely, thus why shouldn't humans. Hobbes said people should still be loyal to a king, but not because the king is divine, but because one person having absolute power is in everyone's best interest to have a stable and firm government. When that goes away—as Hobbes was personally seeing—people turn horrible.
+The effectual truth said truth is revealed at the "point of contact" between a tool and it's user. Thus, to know anything for sure, you must run experiments. This philosophy upgraded us to Science in physics, chemistry, biology etc.
 
-And this is what I mean by each philosophy contributed partial upgrades. Because while we don't have kings anymore, yet we use much of Hobbes reasoning. John Locke came after Hobbes and agreed with his State of Nature, but said the people didn't need to put all their trust into a person as leader, but instead put their trust in the institution as leader. Meaning, the people should follow a president, not a king. Moreever, government should be split into different responsibilities for executive, legislature, and judicial. This way, each will "check and balance" each other, and thus government will still function, but won't be easily corrupted and become worse than the anarchy it's supposed to solve.
+With the Life Star we'll be able to upgrade the social sciences too. Because the pain of frontline life is where we'll find the answers to good and evil in human affairs.
 
-Rousseau later came and said a true democracy is made up of the people. Unlike Hobbes/Locke, who said humanity was not born from a chaotic Nature, but a kind one. In fact, it's society that corrupts people into being evil. Thus, it's up the way society is structured to ensure the best of humanity is brought up, instead of repressed. Rousseau made the connection that individuals make up their society, so if each individual reformed themselves, they'd all make a better society.
+**Player god**: Is Rousseau's General Will. This started with comes from Thomas Hobbes. He lived during the English Civil War, and hated to see all the carnage. So Hobbes was hte one who started the creation of a new ruling philosophy. 
 
-While Rousseau's visions lead to a lot of social engineering disasters. Modern technology and especially open-source, is so liberating, and so individually empowering, we can make a good and just player god. We can have the best of both worlds, a stable government and society, that doesn't need to, and in fact can't, oppress the people.
+He said everyone is equal in Nature. Hobbes said people should still be loyal to a king, but not because the king is divine, but because one person having absolute power is in everyone's best interest.
 
-**The Game of Civilization**: Hegel's March of Reason. G. W. F. Hegel (1770– 1831) distinguished mere fact from history, or from what he called World History. He was the master of the philosophy of history. Rather than let fact silence reason, he tried to infuse reason into fact; he saw the “march of Reason” in the facts of World History. World History, he tried to show, developed in “dialectical” stages until the Rational State was perfected—which by good chance (so Mansfield says) turned out to be the very state of Prussia in which Hegel was living. Here was the end (in the sense of the completion) of history: a state without parties in which there is nothing fundamental left to dispute. Yet as soon as the rational state was announced, everybody—Marx and Nietzsche in the forefront—scrambled to dispute it. Even as Hegel was writing, Tocqueville reproved the sort of democratic history that subjects human events to impersonal forces over which men have no control and that levels mankind to a herd of impotent individuals.
+The people thus make a "social contract" to all of government. Give up natural freedom, for security guarantees.
 
-I never read Marx or Nietzche. There was something about inspiring evil that had me stay away. Instead I read science fiction writers, they had the imagination to see the future based on our tools, not on the history of philosophy.
+Hobbes's ideas were too extreme to work. But they still clicked new ideas in some people's minds. One was John Locke. He agreed people are naturally equal, but said government should not be a person, but an institution. Meaning, the people should elect a executive, legislature, and judicial. This way, each institution will "check and balance" each other, and thus government will still function, but won't be easily corrupted and become worse than the anarchy it's supposed to solve.
 
-**The Game of Civilization vs. The Story of Civilization**: Or being a player god vs. being an extra. This is Machiavelli's "wised up". Meaning when a civilization is self-aware it takes its survival seriously and not for granted, and thus plays the game, instead of passively watching the events as if it can't determine it's own outcome.
+Rousseau later adapted this idea. Rousseau, said a true democracy is made up of the people. Unlike Hobbes/Locke, who said humanity was born from a chaotic Nature, Rousseau said its society that makes people bad.
 
-**Your Happiness**: The best gauge on how healthy the player god is.
+Rousseau made the connection that individuals make up their society, so if each individual reformed themselves, together they'd make a better society, or "player god".
 
-**Heirarchy**:: is from the friction of distance. The farther people are from the pain, the more likely they're disregard it. So for all her faults, Sofia Auld did teach an enslaved person to read. That's only because she spent time with him everyday. Natural humanity comes out with empathy. And empathy needs to be seen, heard, and felt to exist. That sad truth was, the further away a slave owner was, the more terrible their treatments of slaves. I hate talking like this, and so did Douglass, but a house slave was treated better than a farm slave, who was better off than a plantation slave, who was better off than a colonial slave whose (asshole) "owners" were in a different country. Proximity brings more humanity.
+**The Game of Civilization**: Hegel's March of Reason. Hegel (1770– 1831) tried to decode World History, by giving a reason for our development. He saw the “march of Reason” in the facts of World History. World History, he tried to show, developed in “dialectical” stages until we reach the rational state.
 
-Feeling the pain is the best way to respond to it. The further one is from the frontline, the less natural morality and ethics will prompt a humane response. We use products made by slave labour because we don't feel or see it. Civlizations need heirachries, but with better technology, we don't as much. Thus as civilization needs better technology, that inevitable means dismantling heirarchies is progress.
+Hegel wrote before Evolution was discovered. Without knowing it, what he was uncovering was our Evolution. His rational state, is when Internet Age technology provides enough food, water, challenges so politics and chill the fuck out.
 
-**The Power of Stories**: Aristotle's Poetics, and especially David Mamet's On Directing Film. Learning storytelling so darn well, it's layers and components, characters and motivations, is what I used to intepret Hegelian dialectics. I'm writing "How to See the Matrix" using these tools. It's much more detailed analysis of all this stuff.
+**Going From Extras to Player Gods**: This is Machiavelli's "wised up". Only when persons learn to take hold of modern technology, will they have power over their lives.
 
-**Ruling philosophy**: comes from Aristotle's regime. Regime is the form of government or the set of rules, cultural or social norms, etc. that regulate the operation of a government or institution and its interactions with society. Aristotle noted  the forms of government are democracy, oligarchy, aristocracy, monarchy. The supreme right to judge and decide is with with either a part or the whole of one or other of these governing powers; which together make up a socieyt's regmine or ruling philosophy.
+**Your Happiness**: Machiavelli's "new modes and orders". The call to change the world to become more rational, and favourable to the little guy. The kings of his day didn't much care to inspired happiness in their subjects.
 
-A Democracy is a form of government under which the citizens distribute the offices of state among themselves, whereas under oligarchy there is a property qualification, under aristocracy one of education. By education I mean that education which is laid down by the law; for it is those who have been loyal to the national institutions that hold office under an aristocracy. These are bound to be looked upon as 'the best men', and it is from this fact that this form of government has derived its name ('the rule of the best'). Monarchy, as the word implies, is a rule which one man has authority over all. There are two forms of monarchy: kingship, which is limited by prescribed conditions, and 'tyranny', which is not limited by anything.
+Thus, when you're playing computer games like Civilization 6, it's a novel idea to succeed or fail according to the publics opinion of you. Reading history reveals this truth to be true too.
 
-We must also notice the ends which the various forms of government pursue. The end of democracy is freedom; of oligarchy, wealth; of aristocracy, the maintenance of power, education, and national institutions; of tyranny, the protection of the tyrant.
+**Heirarchy**:: is from the friction of distance. The farther people are from the pain, the more likely they're disregard it. So for all her faults, Sofia Auld did teach an enslaved person to read. That's only because she spent time with him everyday. Natural humanity comes out with empathy. And empathy needs to be seen, heard, and felt to exist.
+
+Feeling the pain is the best way to respond to it. The further one is from the frontline, the less natural morality and ethics will prompt a humane response. We use products made by slave labour because we don't feel or see it. Civlizations need heirachries, but with better technology, those heirarchies can become smaller.
+
+**The Power of Stories/Games**: Aristotle's Poetics, and especially David Mamet's On Directing Film. Learning storytelling so darn well, it's layers and components, characters and motivations, is what I used to intepret Hegelian dialectics. I'm writing "How to See the Matrix" using these tools. It's much more detailed analysis of all this stuff.
+
+**Ruling philosophy**: comes from Aristotle's regime. Regime is the form of government or the set of rules, cultural or social norms, etc. that regulate the operation of a government or institution and its interactions with society. Aristotle noted the end of democracy is freedom; of oligarchy, wealth; of aristocracy, the maintenance of power, education, and national institutions; of tyranny, the protection of the tyrant.
 
 **Protagonist and antagonist**: is Hegel's Thesis, Antithesis, Synthesis dialectics. After centuries of histories, looked back at the trends, and said there was a ruling philosophy, whose problems manifested into a competitor, the two would eventually fight it out, and make a new ruling philosphy that merged the two together. He also said master–slave is a relationship that recurs throughout humanity, and is the reason we looked at Frederick Douglas and Neo, who while was the physical slave, his captors were the mental ones, bound to a horrible social system as much as Frederick was. Frederick's process of self-discovery, was how slaves realize their status and break free.
 
-**Cyborgology, majic, frontline**: are Darwinism. The evolution of lifeforms based on their tools to collect resources. Life started out as simple organisms, and as these primitive lifeforms struggled to survive, they adapted better —biological—tools to do so. Eventually the benefits of biology maxed out with us, and so we have to continue evolution with tools. We similarly started to evolve (techvolve) with primitive tools, which slowly got better and better.
-
-**Mixed Ideological Politics**: This didn't make it into ANP. But it's based on the separation of Church and State. Except now it's the separation of ideology and economy.
+**Darth Blockbuster**: working insurance :)
 
 **The Death Star**: working insurance :)
 
+**Cyborgology**: is Darwinism. The evolution of lifeforms based on their tools to collect resources. Life started out as simple organisms, and as these primitive lifeforms struggled to survive, they adapted better —biological—tools to do so. Eventually the benefits of biology maxed out with us, and so we have to continue evolution with tools. We similarly started to evolve (techvolve) with primitive tools, which slowly got better and better.
+
 **Freedom to use any tool**: Comes from freedom of religion and speech. John Locke and his A Letter Concerning Toleration, gets the nod here.
 
-**Dark majic**: come from modern psychology. All of this is hard to understand. It seems simple because it's your life, and you think your opinions matter. But there's a reason we go to the doctor when we're feeling sick. They know the human antonmy, and we don't, even though we own one.
+**Majic**: Watching people learn. Not study, or do what they're told. But watching, and teaching people to actually connect with a book, pencil, computer, smartphone, and seeing their eyes open from the burst of life that learning a new cyborgology.
 
-**Techvolution**: Comes from me. It synthesizes all that we've learned, into a new philosophy for a modern age. I attributed much of it to playing computer games, reading and watching science fiction, and working lots of frontline jobs. Playing, reading, and living in the future made the old philosophies of 20th Century politics so old fashioned. Putting it all together into a book took lots of reading, thinking, and working. Some intelligence helped, but it was the stubborness to keep going, and the belief in a higher power, that deserves the most credit. I hope it was worth it.
+**Dark majic**: come from modern psychology. I'm no expert, but basic reading on The Milgram Experiment, Marshmellow Test, and the Standford Experiment helped come up with this.
+
+**The Life Star**: Francis Bacon's New Atlantis.
+
+**Techvolution**: Comes from me. It synthesizes all that we've learned, into a new philosophy for a modern age. I attributed much of it to playing computer games, reading and watching science fiction, and working lots of frontline jobs. Playing, reading, and living in the future made the old philosophies of 20th Century politics so old fashioned. Putting it all together into a book took lots of reading, thinking, and working. Some intelligence helped, but it was the stubborness to keep going, and the belief in a higher power, that deserves the most credit.
 
 ===
 
-So, that's where it all came from. Machiavelli taught regular people to stop hoping for a better life, and start making one. Hobbes/Locke taught us our government can be instruments for liberty. Rousseau said we, the people, could make up government if we empowered our better natures. Hegel taught us the difference between Protagonsits and Antagonists, Player Gods, and Extras. Galileo taught us to use tools to see the Truth. Darwin taught us life is nothing but the evolution of new tools. And Majic, he taught us that technology is an extension of life, that player gods can use to improve this world, once we believe in ourselves. Or he wasted far too much time writing to himself. Either way, it's confusing and fitting Faith made him keep going.
+So, that's where it all came from. Machiavelli taught regular people to stop hoping for a better life, and start making one. Hobbes/Locke taught us our government can be instruments for liberty. Rousseau said we, the people, could make up government if we empowered our better natures. Hegel taught us the difference between Protagonsits and Antagonists, Player Gods, and Extras. Galileo taught us to use tools to see the Truth. Darwin taught us life is nothing but the evolution of new tools. And Majic, he taught us that technology is an extension of life, that player gods can use to improve this world, once we believe in ourselves.
 
-I spent my 20's wondering what the next few pages of "A Student's Guide to Political Philosophy" were going to be. Even weirder, like Newton using his own eyes for lenses, I used myself as a proxy for life under the Life Star. A life of austerity, simplicity, childish honesty, great friendships, and self induced hypersensity to all frontline pain so easily brushed aside by extras. I feel confident to say I now know the next few pages of our political philosophy because I wrote and lived it; although I'd never pay the price again.
-
-Cheers.
