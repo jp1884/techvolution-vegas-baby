@@ -2828,3 +2828,34 @@ Let me ask you this: if you're a regular middle-class person and you ignored the
 When Team Blue wins, does traffic suddenly disappear? When Team Red succeeds, does everyone suddenly exercise? Do you breathe fresher air or see fitter neighbors? Do your real-life problems get solved when one color's philosophy writes the rules?
 
 Policies, manuals, and guidelines aren't today's levers of power. There is no law that promotes climate change, allows unpaid overtime, or encourages car accidents.
+
+## The Pharmacist
+
+TP PICTURE
+_Regular people should be collaborating with health professionals, their co-workers, their family to find out how we can best deal with this storm._
+
+We've had Internet Age technologies for years. We should have been evolving a more prepared and antifragile way of life. For example, most insurance companies pay claims in paper checks. Although not officially said, it's likely because the longer the insurance company delays giving out the money, the longer they make interest on it.
+
+This one quirk is (probably) a big reason why our society doesn't have digital processing for car, property, health, and unemployment claims. And, thus, why many today can't pay their bills during this crisis.
+
+Nevermind speeding up our lives, Internet Age technology can even proactively solve our problems. For example, watch [The Pharmicist](https://www.netflix.com/ca/title/81002576) on Netflix, and you'll see how a simple online database of prescriptions stopped oxycontin pill mills. Too bad it took bureaucrats and politicians many years to make. If done sooner, we would have found out which pushy drug salesman and corrupt doctors were responsible for the oxycontin epidemic.
+
+In fact, with open-source software (the free technology that makes programs like Instagram possible), the public could have banded together and built a secure and straightforward prescription database that would have prevented [500,000 doctors prescribed opioid overdoses.](https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States)
+
+But, the people on Main Street didn't use internet technologies to upgrade our civilization. Instead, we listened to Right and Left bicker, and "eight different" bosses drone on about paperwork, memos, and mission statements.
+
+## To Upgrade Our Civilization We Need To Reach for the Tools
+
+Do you love stories? I alread know you do. I think it's a safe bet to say that you do. Who doesn't? They entertain us after a hard day of work, bring us together to share our joys, and (my favorite) open our minds. Stories show us the different rules, philosophies, and technologies of foreign cities, mythical worlds, and galaxies far far away.
+
+Stories are so compelling because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. Stories aren't debates. We take the protagonist's side. Thus, Romeo and Juliet's love is beautiful and worth dying for, while their families' feud is ignorant and stupid. Luke Skywalker's rebellion is righteous and worth fighting for, while Darth Vader's empire is wicked and should be destroyed.
+
+Our moral clarity about a problem turns the protagonists into our heroes and the antagonists into our villains. We follow their story with strong emotions—which burst out at the climax as we find out who wins.
+
+Our hero fights hard to defeat the bad guys, but his superior morality, justice, and heroism aren't enough. He's often too weak or unskilled, and the villain beats him bloody. On the verge of failure, the hero needs to find something that'll turn the tide in his favor. He seeks, sees, and reaches for his salvation: a tool or a weapon, like a gun, magic book, or lightsaber.
+
+Will our hero reach it first, or will the enemy? We, in the audience, like extras in the story, hold our breath because the story's society is controlled not by marches, protests, or rules, but by which character holds the levers of power. The wielder is the victor. The victor writes the laws.
+
+It's the lesson that we the people need to learn for ourselves.
+
+Because only when we reach for and hold the levers of power, do we stop watching our civilization on television and radio, marches and parades, and start playing it. Only when we hold our levers of power will we be player gods of the Internet Age.
