@@ -4,20 +4,56 @@
 by Johnny Majic
 April 2019
 
-# Backpage
+# BACKPAGE
 
+Do you love stories? You probably do, who doesn't? Good stories so easily sweep us away into their amazing cities, fun worlds, and galaxies far far away.
 
+Stories are compelling because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't.
+
+Stories aren't debates. We take the protagonist's side. Thus, Romeo and Juliet's love is beautiful and worth dying for, while their families' feud is ignorant and stupid. Luke Skywalker's rebellion is righteous and worth fighting for, while Darth Vader's empire is wicked and should be destroyed.
+
+We love watching our hero fight the bad guys. Sadly, his bravery is often not enough.
+
+The antagonist has more resources, and uses them to beat the good guy bloody. On the verge of failure, the hero needs to find something that'll turn the tide in his favour.
+
+He sees and reaches for his salvation: often a gun, wand, or lightsaber. Will our hero reach it first. Or, will our enemy?
+
+We hold our breath. But the hero can't do the same. Because nobody wins by watching the fight. You see, life isn't a story, it's a game. And whoever masters technology, controls the levers of power, and wins the game.
+
+This is a lesson that we, the people on quarantined Main Street today, need to learn for ourselves.
+
+===
+
+Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll say something like, "if the Consertavies win this one, then education, healthcare, infrastructure, and everything else will go to shit."
+
+If you buy it—and most of us have at some point—you glue yourself to Progressive television, blogs, and radio. Filled with Progressive philosophy, you start seeing evil Conservatives everywhere. Or, if you got sucked in by the other side, you see evil Progressives everywhere.
+
+But, neither Left or Right is your enemy, because neither side is your hero.
+
+You ever notice, that depsite all the talk, Left or Right never talk for new technology? Instead they tell outsiders to donate, march, or tune-in.
+
+Like Galileo, Washington, or Luke Skywalker why shouldn't the middle-class reach for new technology to defeat our problems? Isn't our education, healthcare, and infrastructure worthy of upgrades?
+
+Of course they are. And, those upgrades define the true political game of our times. The feud between Left and Right is a entertaining, but in the end is nothing but a distracting story. True politics today is a game between the antagonists trying to keep you away from new technology, and protagonists trying to put it in your hands.
+
+This book will get you to join-in.
+
+It'll be a story worth telling, once you realize your life is a game worth winning.
+
+![levers of power](/img\diagrams\techvolution-levers-of-power.jpg)
+_Levers of power. Whoever controls them, wins._
 
 # Table of Contents
 
-1. [Introduction](#introduction)
-2. [Prologue](#prologue)
-3. [Act One - The Beginning](#act-one)
-4. [Act Two - Blowing Up the Death Star](#act-two)
-5. [Mid Point - A Techvolution Battle](#mid-point)
-6. [Act Three - Climax](#act-three)
-7. [Epilogue](#epilogue)
-8. [The Appendices](#the-appendices)
+1. [Preface](#preface)
+2. [Introduction](#introduction)
+3. [Prologue](#prologue)
+4. [Act One - The Beginning](#act-one)
+5. [Act Two - Blowing Up the Death Star](#act-two)
+6. [Mid Point - A Techvolution Battle](#mid-point)
+7. [Act Three - Climax](#act-three)
+8. [Epilogue](#epilogue)
+9. [The Appendices](#the-appendices)
 
 ## Dedication
 
@@ -33,7 +69,7 @@ _This book is especially dedicated to the extras on Main Street. When it's time 
 
 Gordon Moore, co-founder of Intel, 1973.
 
-# Preface
+# PREFACE
 
 "_People are angry, man! Most people's lives suck...Even if like the economy is doing better, the vast majority of people aren't doing what they want to do with their lives._" Joe Rogan, November 2019.
 
@@ -307,7 +343,7 @@ Also, I use pop culture references such as those of Star Wars, Star Trek, Harry 
 
 Also, I'm still getting reader feedback, so if you like to contribute, [let me know](https://www.techvolution.io/contact/). I'd love to hear from you on anything. Except for length to be honest. Even if could make this shorter, it's as brief as I can make it without going nuts.
 
-# Introduction
+# INTRODUCTION
 
 ## Politics
 
@@ -579,7 +615,7 @@ _Like magic, or even the Force, this machine can make hammers, wrenches, replace
 
 ===
 
-# Prologue
+# PROLOGUE
 
 ## Fighting For The Internet Age - Our Philosophy is Already Generations Behind Our Technology
 
@@ -871,7 +907,7 @@ _Antagonists love antagonism._
 
 ## To Upgrade Our Civilization We Need To Reach for the Tools
 
-Do you love stories? I think it's a safe bet to say that you do. Who doesn't? They entertain us after a hard day of work, bring us together to share our joys, and (my favorite) open our minds. Stories show us the different rules, philosophies, and technologies of foreign cities, mythical worlds, and galaxies far, far away.
+Do you love stories? I think it's a safe bet to say that you do. Who doesn't? They entertain us after a hard day of work, bring us together to share our joys, and (my favorite) open our minds. Stories show us the different rules, philosophies, and technologies of foreign cities, mythical worlds, and galaxies far far away.
 
 Stories are so compelling because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. Stories aren't debates. We take the protagonist's side. Thus, Romeo and Juliet's love is beautiful and worth dying for, while their families' feud is ignorant and stupid. Luke Skywalker's rebellion is righteous and worth fighting for, while Darth Vader's empire is wicked and should be destroyed.
 
@@ -879,7 +915,9 @@ Our moral clarity about a problem turns the protagonists into our heroes and the
 
 Our hero fights hard to defeat the bad guys, but his superior morality, justice, and heroism aren't enough. He's often too weak or unskilled, and the villain beats him bloody. On the verge of failure, the hero needs to find something that'll turn the tide in his favor. He seeks, sees, and reaches for his salvation: a tool or a weapon, like a gun, magic book, or lightsaber.
 
-Will our hero reach it first, or will the enemy? We, in the audience, like extras in the story, hold our breath because the story's society is controlled not by marches, protests, or rules, but by which character holds the lever of power. The wielder is the victor. The victor writes the laws. It's the lesson that we the people need to learn for ourselves.
+Will our hero reach it first, or will the enemy? We, in the audience, like extras in the story, hold our breath because the story's society is controlled not by marches, protests, or rules, but by which character holds the levers of power. The wielder is the victor. The victor writes the laws.
+
+It's the lesson that we the people need to learn for ourselves.
 
 Because only when we reach for and hold the levers of power, do we stop watching our civilization on television and radio, marches and parades, and start playing it. Only when we hold our levers of power will we be player gods of the Internet Age.
 
@@ -1056,7 +1094,9 @@ But since many rules stall the Internet Age upgrade Stargazer, we must pack our 
 
 It's time to blow up a Death Star.
 
-# ACT TWO - BLOWING UP THE DEATH STAR
+# ACT TWO
+
+## Blowing Up the Death Star
 
 ## When Rules Are In Our way, We Use Evolution to Defeat Them
 
@@ -1414,7 +1454,7 @@ It was quite the battle. Before we find if the villain could save the DVD (I kno
 ![Frontline movies full](/img\sketches\frontline-movies-3.jpg)
 _Today, most movies stink, and most theatres are dead. That's you Stargazer, looking at the frontline after removing the dark majic mask. The masks trickery had you watching banquets awarding movies you've likely not even seen._
 
-# Intermission
+# INTERMISSION
 
 Intermissions are an excellent time to stretch our legs, buy a snack, and also ask some questions about the story so far. Here, I want to go more in-depth on some terms and characters. I especially want to emphasize why reaching for modern levers of power and upgrading to the Internet Age will make us happy again.
 
@@ -1764,7 +1804,7 @@ Because that's what player gods say when we control the levers of power.
 
 _Please enable the sound. Faster evolution is our savior. And antagonism is our enemy. Credit: [Civlization 6](https://www.youtube.com/watch?v=3NLoDMsqJkE), and [Office Space](https://en.wikipedia.org/wiki/Office_Space)._
 
-# Mid Point
+# MID POINT
 
 ## A Techvolution Battle Scene. Internet Age vs. Industrial Age
 
@@ -2417,7 +2457,7 @@ And the Traitorous Eight broke the rules to do it all. In the late '50s, the era
 
 These eight guys said to heck with all that.
 
-The game of civilization rewards invention and risk, not conformity and business-as-usual. Protagonists beat antagonists if they keep innovating. So these eight guys left to start their own companies. And so changed the world.
+The game of civilization rewards invention and risk, not conformity and business-as-usual. Protagonists beat antagonists if they keep innovating. So "the eight" left to start their own companies, and so changed the world.
 
 SILICON VALLEY VIDEO
 _This is edited down from [American Experience: Silicon Valley](http://www.pbs.org/wgbh/americanexperience/films/silicon/)._
@@ -2763,4 +2803,3 @@ Feeling the pain is the best way to respond to it. The further one is from the f
 ===
 
 So, that's where it all came from. Machiavelli taught regular people to stop hoping for a better life, and start making one. Hobbes/Locke taught us our government can be instruments for liberty. Rousseau said we, the people, could make up government if we empowered our better natures. Hegel taught us the difference between Protagonsits and Antagonists, Player Gods, and Extras. Galileo taught us to use tools to see the Truth. Darwin taught us life is nothing but the evolution of new tools. And Majic, he taught us that technology is an extension of life, that player gods can use to improve this world, once we believe in ourselves.
-

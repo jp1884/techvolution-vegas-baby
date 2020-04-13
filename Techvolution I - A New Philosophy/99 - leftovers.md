@@ -2816,3 +2816,15 @@ So, that's where it all came from. Machiavelli taught regular people to stop hop
 I spent my 20's wondering what the next few pages of "A Student's Guide to Political Philosophy" were going to be. Even weirder, like Newton using his own eyes for lenses, I used myself as a proxy for life under the Life Star. A life of austerity, simplicity, childish honesty, great friendships, and self induced hypersensity to all frontline pain so easily brushed aside by extras. I feel confident to say I now know the next few pages of our political philosophy because I wrote and lived it; although I'd never pay the price again.
 
 Cheers.
+
+## new intro idk
+
+Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll say something like, "if the red team wins this one, then education, healthcare, infrastructure, and everything else will go to shit." What he means is elections decide the rule-makers, and that blue rules make a good society while red rules make a bad one.
+
+If you buy it—and most of us have at some point—you watch blue cable news, read blue blogs, listen to blue talk radio. You start seeing phantom enemies everywhere because your head is filled with blue's philosophy. Soon enough, your car has blue bumper stickers, and you're waving blue bristol boards while screaming blue chants at rallies, marches, and protests. You feel like a hero! You're fighting against the evil red philosophy!... Or, if you got sucked in by the other side, evil blue philosophy!
+
+Let me ask you this: if you're a regular middle-class person and you ignored the election, how much would you bet that you would know who won just by continuing to live your life?
+
+When Team Blue wins, does traffic suddenly disappear? When Team Red succeeds, does everyone suddenly exercise? Do you breathe fresher air or see fitter neighbors? Do your real-life problems get solved when one color's philosophy writes the rules?
+
+Policies, manuals, and guidelines aren't today's levers of power. There is no law that promotes climate change, allows unpaid overtime, or encourages car accidents.
