@@ -4,55 +4,61 @@
 by Johnny Majic
 April 2019
 
-## BACKPAGE
+# BACK PAGE
 
 You, me, and everyone else quarantined in their houses are anxiously waiting for the COVID-19 storm to pass.
 
 On the bright side, we have Netflix.
 
-Thanks to online streaming, our worries are easily replaced with tales of passionate love, wicked magic spells, and galaxies far far away.
+Thanks to our beloved online streaming, pandemic worries are easily replaced with tales of passionate love, wicked magic spells, and galaxies far far away.
 
-Stories are compelling because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't.
+Stories are compelling because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. This moral clarity tells us precisely who the heroes and villains are, and thus lets us commit our emotions.
 
-Stores aren't debates. Thus, Romeo and Juliet's love is beautiful and worth dying for! While their families' feud is ignorant and stupid. Luke Skywalker's rebellion is righteous and worth fighting for! While Darth Vader's empire is hellish and must be destroyed.
+We can cherish Romeo and Juliet because we understand their love is beautiful and worth dying for! While we also know their families' rivalry is ignorant and stupid. We see Luke Skywalker's rebellion is righteous and worth fighting for! While Darth Vader's empire because it's hellish and must be destroyed.
 
-Our heroes are brave. But that's not enough. That's why Hogwarts students and Jedi Knights always reach for their wands and lightsabers.
+But our emotions don't change the story. Even the main character's feelings mean so very little to the final outcome.
 
-But so does the enemy.
+That's why all characters, from Hogwarts students to Jedi Knights, reach for real objects like wands and lightsabers. And, of course, the enemy readies their tools and weapons too.
 
-We hold our breath and wonder who better controls the power of magic, the force, and most important, technology. But unlike us, the protagonists can't sit back and enjoy the drama.
+And that's why we watch Netflix. Because we enjoy the drama of discovering if the light or dark side better controls the power of magic, the Force, and, most important, technology.
 
-Because nobody ever won a battle by watching it. The victors are the ones who control the levers of power.
+But unlike us, the protagonists can't sit back and enjoy the story.
 
-And that is the big lesson Main Street must learn today. Otherwise, this pandemic was for nothing.
+Because nobody ever won a battle by watching it. The victors are the ones who control the levers of power. Cinderella used a slipper to defeat her treacherous step-family. While Harry Potter used a wand to defeat Lord Voldemort. And Luke Skywalker used a small ship to destroy the Death Star.
+
+When people master the levers of power, they overcome antagonists and solve problems. And, that is the clear lesson Main Street must learn today.
+
+Otherwise, this pandemic was for nothing.
 
 ===
 
-Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll tell you, "if the Right-wing wins, infrastructure, healthcare, everything will go to hell!"
+Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll tell you, "if the Right-wing triumphs, infrastructure, healthcare, everything will go to shit!"
 
-If you buy it—and most of us have at some point—you glue yourself to Left-wing blogs, radio, and TV. Filled with Left-wing philosophy, you start seeing evil Conservatives everywhere. Or, if you got sucked in by the other side, you see devilish Progressives instead.
+If you buy it—and most of us have at some point—you glue yourself to Left-wing blogs, radio, and TV. Filled with Left-wing philosophy, you start seeing sinister Conservatives all over the place. Or, if the other side sucked you in first, you start spotting sinful Progressives instead.
 
 But it's all bullshit.
 
-Despite Left/Right yelling matches, neither ideology is your enemy. Because neither is your hero. Both are happiest sending you one-way messages to tune-in, protest, or donate. Like a bad friend, Left/Right ideologues only want your attention and money.
+Despite Left/Right yelling matches, neither ideology is your enemy. Because neither is your hero. Both only care to send you one-way messages to tune-in, protest, or donate. Like a bad friend, Left/Right partisans only want your attention and money. Idealogues think you're an extra in your own political life.
 
-Galileo, George Washington, and Luke Skywalker reached for the power of new technology. So, why shouldn't the middle-class overcome its problems by holding modern levers of power? Isn't our healthcare, infrastructure, and especially our pandemic preparation, worthy of upgrades?
+Galileo, George Washington, and Luke Skywalker reached for the power of new technology. So, why shouldn't you? Even more important, why shouldn't the middle-class? Isn't our healthcare, infrastructure, and especially our pandemic preparation, worthy of upgrades?
 
 Of course they are. And, that's the point.
 
 The feud between Left and Right is a distraction. The politics of upgrading our lives (or not) is the real political game of our time.
 
-This contest started in 1970, when our civilization left the Industrial Age and entered the Internet Age.
+This contest started in 1970 when our civilization left the Industrial Age and entered the Internet Age.
 
-The owners of industrial age technology don't want like you having tools like Netflix. In fact, "Darth Blockbuster" is still working hard to antagonize all future technology. He wants the levers of power for himself.
+The owners of industrial age technology don't want you holding advanced tools. Netflix is too affordable. And even more threatening, it lets you decide what to watch and when. That's why "Darth Blockbuster" is working hard to antagonize all future upgrades. He wants to keep society's levers of power all to himself.
 
-Happily, many internet geeks are fighting him on your behalf.
+Happily, many internet geeks, hackers, and innovators have been fighting Darth Blockbuster's antagonism. But, they can't keep fighting your battles for you. Main Street must now jump-in and help the protagonists.
 
-But, Main Street must now jump-in and help the protagonists.
+There is no debate. The story is simple. We must upgrade our society now.
 
-There is no debate. Because if we don't upgrade our society soon, this pandemic only foreshadows a much more terrible storm to come. This book will teach you how to win the game, so we upgrade our entire civilization with amazing new technology.
+If we don't, this pandemic only foreshadows a much more terrible storm to come. Every year, month, and day we stall, only makes our technology, tools, and culture more outdated. It'll only get harder to respond and prevent things like recessions, depressions, and pandemics.
 
-It'll be a story worth telling once you realize politics is a game worth playing.
+This book will teach you how to upgrade our society to the Internet Age. Like conquering illiteracy, defeating slavery, and going to the Moon, upgrading our culture will be a glorious story to tell your grandkids.
+
+Once you realize politics is a game worth playing.
 
 ![levers of power](/img\diagrams\techvolution-levers-of-power.jpg)
 _Levers of power. Whoever controls them, wins._
