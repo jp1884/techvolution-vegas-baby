@@ -2859,3 +2859,21 @@ Will our hero reach it first, or will the enemy? We, in the audience, like extra
 It's the lesson that we the people need to learn for ourselves.
 
 Because only when we reach for and hold the levers of power, do we stop watching our civilization on television and radio, marches and parades, and start playing it. Only when we hold our levers of power will we be player gods of the Internet Age.
+
+## Segway 
+
+One asking regular people to step up. Because doing our job, shopping a lot, voting every four years is not enough to earn a healthy society. We can't assume Big Government or Big Business will educate our kids, make a healthy medical system, or provide a reliable livelihood.
+
+If we make relatively small changes now, we'll save ourselves so much grief in the future.
+
+I know this because of this one historical fact. The Industrial Age ended in 1969. The Internet Age started in 1970. Since this handoff, the middle-class has gotten better technology in our private lives. But, the Industrial Age middlemen have blocked our evolution to a digital way of life. We can't keep pushing back the upgrade.
+
+Thankfully regular people can unpower the middlemen with our own "two-way radios." Modern apps, computers, and the internet are that mighty.
+
+Only if the specialists on Main Street reach for the power. If they do, the doctors, mechanics, therapists, makers, sewists, technicians, plumbers, educators, everyone with a frontline skill, can hold our society's levers of power once again. Only then will the middle-class pay down our debts, eliminate nasty commutes, erase micro-management, and deal with pandemics with skill instead of makeshift plans.
+
+To get to this new world, Main Street needs a new philosophy.
+
+Here it is. Its big lesson is this. The middle-class must solve our problems with digital technology now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on the fumes of Left and Right ideology before our debts explode, or bureaucracies implode, and our bullshit jobs aren't worth working anymore.
+
+## OLD BACKPAGE
