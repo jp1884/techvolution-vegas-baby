@@ -1,5 +1,5 @@
 
-# TECHVOLUTION: A NEW PHILOSOPHY
+# Techvolution: A New Philosophy
 
 by Johnny Majic
 
@@ -72,10 +72,11 @@ _Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, 
 3. [Prologue](#prologue)
 4. [Act One - The Beginning](#act-one)
 5. [Act Two - Blowing Up the Death Star](#act-two)
-6. [Mid Point - A Techvolution Battle](#mid-point)
-7. [Act Three - Climax](#act-three)
-8. [Epilogue](#epilogue)
-9. [The Appendices](#the-appendices)
+6. [Intermission - Taking a Break](#intermission)
+7. [Mid Point - A Techvolution Battle](#mid-point)
+8. [Act Three - Climax](#act-three)
+9. [Epilogue](#epilogue)
+10. [The Appendices](#the-appendices)
 
 ---
 
@@ -440,7 +441,7 @@ That's why this book's cover page is a regular person standing on Main Street—
 
 Will the player god act to benefit society or himself?
 
-![Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
 
 In a computer game, all of civilization is the player's responsibility. The player must think of the greater good, save up money, and make plans for the future. That's why the player god controls all the levers of power. Such as what science to research, what culture to adopt, and what philosophy to use.
 
@@ -648,7 +649,7 @@ What a reason to party!
 
 Because, in the end, happy living wins the game of evolution. Civilization evolves when its members adopt a modern philosophy and become a player god of the modern age. We've upgraded our philosophy many times before, and it's simply time to do it again.
 
-<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/KeenAmpleHusky' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/keenamplehusky">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/KeenAmpleHusky' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/keenamplehusky"></a></p>
 
 _Like magic, or even the Force, this machine can make hammers, wrenches, replacement parts, and almost anything else. Using new technology is real politics. Because it promotes evolution. Marching against climate change, or watching infotainment television is merely being an extra. Main Street has forgotten what it's like being a protagonist or player god. And even worse, it's often against the rules to because Industrial Age companies want us to keep using their obsolete stuff. We'll overcome this antagonism below._
 
@@ -937,7 +938,7 @@ So instead, I'm going to talk about winning the war. Our hospitals, schools, rep
 
 To help us win the game, I learned my lesson and wrote this book. Because despite already having the digital technology to improve our lives, antagonists maintain gates all over the place to protect the pre-digital "Suburban 1969" way of life. They know—even if subconsciously—they lose their coveted managerial status, executive positions, and superiority complexes in a mass-collaboration economy. Being held back from this brighter future is why our lives can be so unhappy. To improve our days then, the people need Techvolution. A new ruling philosophy that says improving our society is the only rule that matters.
 
-<div style='position:relative; padding-bottom:calc(53.75% + 44px)'><iframe src='https://gfycat.com/ifr/FirmActualHart' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/firmactualhart-bill-lumbergh-office-space-gary-cole">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(53.75% + 44px)'><iframe src='https://gfycat.com/ifr/FirmActualHart' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/firmactualhart-bill-lumbergh-office-space-gary-cole"></a></p>
 
 _Antagonists love antagonism._
 
@@ -1295,7 +1296,7 @@ Rather... the tired mothers can (as proven by the recent mad-dash to get workers
 
 The question is: why not?
 
-<div style='position:relative; padding-bottom:calc(76.67% + 44px)'><iframe src='https://gfycat.com/ifr/AncientEnviousHornshark' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/ancientenvioushornshark-voldemort-potter-harry">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(76.67% + 44px)'><iframe src='https://gfycat.com/ifr/AncientEnviousHornshark' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/ancientenvioushornshark-voldemort-potter-harry"></a></p>
 
 _Credit: [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter)._
 
@@ -1317,7 +1318,7 @@ Player gods go on adventures, overcome challenges, and smile from genuine accomp
 
 This is why we need Techvolution, a modern philosophy that says holding back majic is evil.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BrokenElderlyFallowdeer' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/brokenelderlyfallowdeer">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BrokenElderlyFallowdeer' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/brokenelderlyfallowdeer"></a></p>
 
 _This is truly majical. We're unhappy today because our workplaces still treat employees like cogs in the era of mass-production. In the Internet Age, we all should be learning new tools to improve things on the frontline in the era of mass-collaboration. If someone preaches antagonism and to hold back majic at work, it's a good sign they're the ones with the problem._
 
@@ -1591,7 +1592,7 @@ Different geographies, demographics, and weather give unique problems and thus f
 
 If you're asking how humanity should evolve, I don't know. That's your choice. It's up to free lifeforms to adapt. But, I do know our cyborgology, has none of the splendid diversity of biology we've all watch in BBC Earth.
 
-<div style='position:relative; padding-bottom:calc(54.69% + 44px)'><iframe src='https://gfycat.com/ifr/BriefPersonalAlleycat' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/briefpersonalalleycat">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(54.69% + 44px)'><iframe src='https://gfycat.com/ifr/BriefPersonalAlleycat' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/briefpersonalalleycat"></a></p>
 
 _If this was a Nature show, you could tell the difference between desert, mountain, or coastal life. You can't with us today. And that's a big problem. Credit: [Office Space](https://en.wikipedia.org/wiki/Office_Space)._
 
@@ -1621,7 +1622,7 @@ The coronavirus will make it worse. Dealing with this pandemic will consume lots
 
 Watch out.
 
-<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/AgileFeminineAlpineroadguidetigerbeetle' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/agilefemininealpineroadguidetigerbeetle">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/AgileFeminineAlpineroadguidetigerbeetle' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/agilefemininealpineroadguidetigerbeetle"></a></p>
 
 ## Made In America
 
@@ -2612,7 +2613,7 @@ I'd also love to write "Black Mirror" stories about cyborgologists, techvolution
 
 A place where bullshit jobs don't exist.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/whimsicalleadingfirebelliedtoad">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/whimsicalleadingfirebelliedtoad"></a></p>
 
 _An idealized view of mass-collaboration and the Life Star. Although we'll lose the suburban lifestyle once there's no antagonists or extras, and just protagonists and player gods. Credit: [Cities: Skylines](https://www.youtube.com/channel/UCV9RoEcgAO1Uc7oxZGS8Lkw/videos)_
 
@@ -2664,7 +2665,7 @@ I wept while watching Smithereens, full out tears. I knew what the plot twist wa
 
 Here's why I failed, and here's why I'll succeed.
 
-<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/GrandUnknownHagfish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/grandunknownhagfish">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/GrandUnknownHagfish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/grandunknownhagfish"></a></p>
 
 _This is the what digital technology is good for. Only player gods will reach for it._
 
