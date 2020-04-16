@@ -1,13 +1,71 @@
 
 # Techvolution: A New Philosophy
 
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+
 by Johnny Majic
 
 April 2019 (manuscript)
 
-# Back Page
+[Homepage](https://techvolution.io/) | [Next Chapter](https://hackmd.io/@Techvolution/preface)
 
-You, me, and everyone else quarantined in their houses are anxiously waiting for the COVID-19 storm to pass.
+---
+
+## Back Page
+
+If I had a three wishes, I'd happily t used the first wishing you are proudly middle-class. IThe second would be that this is the first politics book you've every read. And, the third, that you're willing to except how important you are.
+
+I'll explain myself by asking, what's your favorite story? Maybe _Romeo and Juliet_, _Toy Story_, or another classic. It doesn't matter because every great story a regular person sees a problem and fights to overcome it. The characters are different, the problems are changed, but every story is about a newly made hero stepping up. If our hero's don't waste wishes on ending hunger or disease, why should we?
+
+If pay attention to politics or economics, most academics, reporters, politcians will saw our society is in trouble. Rising debt, growing inequality, aging populations. Everyone has diagnosis and solutions. Some are better than others. But this book is different.
+
+It's the only one that puts the power to change the world entirey in your hands.
+
+## Dedication
+
+_This book is for the people in the open-source community. For the collaboration philosophy you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Internet Age. You gave the best education a political guy can get. I hope I've learned enough to write this book for you._
+
+_For the antagonists, the self-entitled delegators keeping Blockbuster—and it's Industrial Age mentality—alive, thanks for making history to repeat itself yet again. I hope you learn something._
+
+_This book is especially dedicated to the extras on Main Street. When it's time for you to act, I pray you decide to play the game._
+
+---
+
+"_We are really the revolutionaries in the world today—not the kids with long hair and beards who were wrecking the schools a few years ago._"
+
+Gordon Moore, co-founder of Intel, 1973.
+
+---
+
+## Contents
+
+1. [Start](https://hackmd.io/@Techvolution/start)
+2. [Preface](https://hackmd.io/@Techvolution/preface)
+3. [Introduction](https://hackmd.io/@Techvolution/introduction)
+4. [Prologue](https://hackmd.io/@Techvolution/prologue)
+5. [Act One - The Beginning](https://hackmd.io/@Techvolution/act-one)
+6. [Act Two - Blowing Up the Death Star](https://hackmd.io/@Techvolution/act-two)
+7. [Intermission - Taking a Break](https://hackmd.io/@Techvolution/#intermission)
+8. [Mid Point - A Techvolution Battle](https://hackmd.io/@Techvolution/mid-point)
+9. [Act Three - Climax](https://hackmd.io/@Techvolution/act-three)
+10. [Epilogue](https://hackmd.io/@Techvolution/epilogue)
+11. [The Appendices](https://hackmd.io/@Techvolution/the-appendices)
+
+---
+
+## Note
+
+I used lots of images and videos. I want to emphasize I didn't make most of the media. It belongs to people of the "creator" community filling the internet up with useful articles and shows. I only used pieces to better explain some ideas. I've found pictures and videos can be worth a thousand words, so it saves us both some time.
+
+Also, I use pop culture references such as those of Star Wars, Star Trek, Harry Potter, The Office, and computer games (e.g., Civilization).Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. In all cases, all due credit goes to the media's owners.
+
+I'm still getting reader feedback, so if you like to contribute yours, there's the trusty [mailto](mailto:techvolution@outlook.com). Or, fitting to internet culture, you can give your notesdirectly within this webpage by clicking "edit". You can use a "burner" email to make an account. You can also delete your account and data once your down too.
+
+Lastly, keep in mind Chrome, Safari, Firefox each other "reader" modes. This lets you customize the screen as you like it. Some disable videos, so I put a link to them in the caption just in case.
+
+---
+
+**Y**ou, me, and everyone else quarantined in their houses are anxiously waiting for the COVID-19 storm to pass.
 
 On the bright side, we have Netflix.
 
@@ -65,34 +123,19 @@ Once you realize politics is a game worth playing.
 
 _Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, Unsplash._
 
-# Table of Contents
+---
 
-1. [Preface](#preface)
-2. [Introduction](#introduction)
-3. [Prologue](#prologue)
-4. [Act One - The Beginning](#act-one)
-5. [Act Two - Blowing Up the Death Star](#act-two)
-6. [Intermission - Taking a Break](#intermission)
-7. [Mid Point - A Techvolution Battle](#mid-point)
-8. [Act Three - Climax](#act-three)
-9. [Epilogue](#epilogue)
-10. [The Appendices](#the-appendices)
+[**Next Chapter**](https://hackmd.io/@Techvolution/preface)
+
+# Techvolution: A New Philosophy - Preface
+
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
 
 ---
 
-_This book is for the people in the open-source community. For the collaboration philosophy you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Internet Age. You gave the best education a political guy can get. I hope I've learned enough to write this book for you._
+[Prior Chapter](https://hackmd.io/@Techvolution/start) | [Next Chapter](https://hackmd.io/@Techvolution/introduction)
 
-_For the antagonists, the self-entitled delegators keeping Blockbuster—and it's Industrial Age mentality—alive, thanks for making history to repeat itself yet again. I hope you learn something._
-
-_This book is especially dedicated to the extras on Main Street. When it's time for you to act, I pray you decide to play the game._
-
----
-
-"_We are really the revolutionaries in the world today—not the kids with long hair and beards who were wrecking the schools a few years ago._"
-
-Gordon Moore, co-founder of Intel, 1973.
-
-# Preface
+## Preface
 
 "_People are angry, man! Most people's lives suck...Even if like the economy is doing better, the vast majority of people aren't doing what they want to do with their lives._" Joe Rogan, November 2019.
 
@@ -361,15 +404,17 @@ Here it is. Its big lesson is this. The middle-class must solve our problems wit
 
 _We have so many bullshit jobs because we still use Industrial Age culture. To make the most of modern technology, we need a new philosophy. If we don't evolve soon, we'll end up erased from history like the Soviets._ [Wisecrack](https://www.youtube.com/watch?v=_Lngf3J8vN4).
 
-## Note to the reader
+---
 
-As you've already seen, I used many images and videos throughout the book. I did so because visuals help explain ideas better. Also, since total strangers made the videos (I only edited them down), they exemplify how powerul the internet is. Today, millions of regular people are communicating their opinions and expertise directly. Not since the printing-press has information empowered ordinary people so much. These content creators and their audiences are doing historic work. Of course, all credit for the media goes to them.
+[Prior Chapter](https://hackmd.io/@Techvolution/start) | [**Next Chapter**](https://hackmd.io/@Techvolution/introduction)
 
-Also, I use pop culture references such as those of Star Wars, Star Trek, Harry Potter, The Office, and computer games (e.g., Civilization). If you're not a fan, don't worry too much. If we were in Ancient Greece, I'd use Greek Mythology. If we were in Victorian Britain, I'd use Shakespeare. Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. Of course, all due credit goes to the media's owners.
+# Techvolution: A New Philosophy - Introduction
 
-I am still getting reader feedback, so if you like to contribute anything [let me know](https://www.techvolution.io/contact/).
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
 
-# Introduction
+---
+
+[Prior Chapter](https://hackmd.io/@Techvolution/preface) | [**Next Chapter**](https://hackmd.io/@Techvolution/prologue)
 
 ## Politics
 
@@ -655,7 +700,15 @@ _Like magic, or even the Force, this machine can make hammers, wrenches, replace
 
 ---
 
-# Prologue
+[Prior Chapter](https://hackmd.io/@Techvolution/preface) | [**Next Chapter**](https://hackmd.io/@Techvolution/prologue)
+
+# Techvolution: A New Philosophy - Prologue
+
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+
+---
+
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/introduction) | [Next Chapter](https://hackmd.io/@Techvolution/act-one)
 
 ## Fighting For The Internet Age - Our Philosophy is Already Generations Behind Our Technology
 
@@ -910,7 +963,17 @@ Before you set up to the role of a player god, here are a few terms that will pu
 
 _Our civilizations have always had problems. It's up to regular people to use new tools to solve them. Today, it's our turn. Let's get started. [Credit: Tech Insider](https://www.youtube.com/watch?v=2HubIBlnvko)_
 
-# Act One
+---
+
+[Prior Chapter](https://hackmd.io/@Techvolution/introduction) | [**Next Chapter**](https://hackmd.io/@Techvolution/act-one)
+
+# Techvolution: A New Philosophy - Act One
+
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+
+---
+
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/prologue) | [Next Chapter](https://hackmd.io/@Techvolution/act-two)
 
 ## The Beginning
 
@@ -1140,7 +1203,17 @@ But since many rules stall the Internet Age upgrade Stargazer, we must pack our 
 
 It's time to blow up a Death Star.
 
-# Act Two
+---
+
+[Prior Chapter](https://hackmd.io/@Techvolution/prologue) | [**Next Chapter**](https://hackmd.io/@Techvolution/act-two)
+
+# Techvolution: A New Philosophy - Act Two
+
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+
+---
+
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/act-one) | [Next Chapter](https://hackmd.io/@Techvolution/intermission)
 
 ## Blowing Up the Death Star
 
@@ -1494,7 +1567,17 @@ It was quite the battle. Before we find if the villain could save the DVD (I kno
 
 _Today, most movies stink, and most theatres are dead. That's you Stargazer, looking at the frontline after removing the dark majic mask. The masks trickery had you watching banquets awarding movies you've likely not even seen._
 
-# Intermission
+---
+
+[Prior Chapter](https://hackmd.io/@Techvolution/act-one) | [**Next Chapter**](https://hackmd.io/@Techvolution/intermission)
+
+# Techvolution: A New Philosophy - Intermission
+
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+
+---
+
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/act-two) | [Next Chapter](https://hackmd.io/@Techvolution/mid-point)
 
 Intermissions are an excellent time to stretch our legs, buy a snack, and also ask some questions about the story so far. Here, I want to go more in-depth on some terms and characters. I especially want to emphasize why reaching for modern levers of power and upgrading to the Internet Age will make us happy again.
 
@@ -1854,7 +1937,17 @@ Because that's what player gods say when we control the levers of power.
 
 _Please enable the sound. Faster evolution is our savior. And antagonism is our enemy. Credit: [Civlization 6](https://www.youtube.com/watch?v=3NLoDMsqJkE), and [Office Space](https://en.wikipedia.org/wiki/Office_Space)._
 
-# Mid Point
+---
+
+[Prior Chapter](https://hackmd.io/@Techvolution/intermission) | [**Next Chapter**](https://hackmd.io/@Techvolution/mid-point)
+
+# Techvolution: A New Philosophy - Mid Point
+
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+
+---
+
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/intermission) | [Next Chapter](https://hackmd.io/@Techvolution/act-three)
 
 ## A Techvolution Battle Scene. Internet Age vs. Industrial Age
 
@@ -2276,7 +2369,17 @@ https://www.youtube.com/watch?v=A25EUhZGBws
 
 _This is another clip from the movie The Big Short. This "solid gold a**hole" is a modern-day antagonist. You're not supposed to understand the rationale of CDOs that makes him super-wealthy; because there is none. Like the divine rights of nobility, it's just the justification of a self-important hero. Credit: [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short_(film))._
 
-# Act Three
+---
+
+[Prior Chapter](https://hackmd.io/@Techvolution/intermission) | [Next Chapter](https://hackmd.io/@Techvolution/act-three)
+
+# Techvolution: A New Philosophy - Act Three
+
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+
+---
+
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/mid-point) | [Next Chapter](https://hackmd.io/@Techvolution/epilogue)
 
 ## Evolution Yea or Nea
 
@@ -2631,7 +2734,7 @@ The fate of your life, your kids, and of your society, rests on the simple quest
 
 If you do, we win. If you don't, we lose.
 
-# Epilogue
+# Techvolution: A New Philosophy - Epilogue
 
 ## Welcome
 
@@ -2737,7 +2840,17 @@ You'll soon hold my new app in your hand and read about your power to win the ga
 
 _Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, Unsplash._
 
-# The Appendices
+---
+
+[Prior Chapter](https://hackmd.io/@Techvolution/act-three) | [Next Chapter](https://hackmd.io/@Techvolution/the-appendenices)
+
+# # Techvolution: A New Philosophy - The Appendices
+
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+
+---
+
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/epilogue)
 
 ## Other Stuff
 
@@ -2872,3 +2985,7 @@ Feeling the pain is the best way to respond to it. The further one is from the f
 ---
 
 So, that's where it all came from. Machiavelli taught regular people to stop hoping for a better life, and start making one. Hobbes/Locke taught us our government can be instruments for liberty. Rousseau said we, the people, could make up government if we empowered our better natures. Hegel taught us the difference between Protagonsits and Antagonists, Player Gods, and Extras. Galileo taught us to use tools to see the Truth. Darwin taught us life is nothing but the evolution of new tools. And Majic, he taught us that technology is an extension of life, that player gods can use to improve this world, once we believe in ourselves.
+
+---
+
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/epilogue)

@@ -2876,4 +2876,17 @@ To get to this new world, Main Street needs a new philosophy.
 
 Here it is. Its big lesson is this. The middle-class must solve our problems with digital technology now. If we don't, we'll soon be suffering something much worse than unhappiness and scary pandemics. There's only so much longer we can keep running our civilization on the fumes of Left and Right ideology before our debts explode, or bureaucracies implode, and our bullshit jobs aren't worth working anymore.
 
-## OLD BACKPAGE
+## Old Ghost / Table of Contents
+
+1. [Preface](#preface)
+2. [Introduction](#introduction)
+3. [Prologue](#prologue)
+4. [Act One - The Beginning](#act-one)
+5. [Act Two - Blowing Up the Death Star](#act-two)
+6. [Intermission - Taking a Break](#intermission)
+7. [Mid Point - A Techvolution Battle](#mid-point)
+8. [Act Three - Climax](#act-three)
+9. [Epilogue](#epilogue)
+10. [The Appendices](#the-appendices)
+
+---
