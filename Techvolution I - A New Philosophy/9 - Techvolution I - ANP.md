@@ -13,13 +13,19 @@ April 2019 (manuscript)
 
 ## Back Page
 
-If I had a three wishes, I'd happily t used the first wishing you are proudly middle-class. IThe second would be that this is the first politics book you've every read. And, the third, that you're willing to except how important you are.
+If a genie granted me three wishes, I'd wish you are as sick of politics as I am. That you're proudly middle-class. And you think our society is full of wasted potential.
 
-I'll explain myself by asking, what's your favorite story? Maybe _Romeo and Juliet_, _Toy Story_, or another classic. It doesn't matter because every great story a regular person sees a problem and fights to overcome it. The characters are different, the problems are changed, but every story is about a newly made hero stepping up. If our hero's don't waste wishes on ending hunger or disease, why should we?
+Ending hunger, getting rich, and even halting this coronavirus wouldn't cross my mind. It may seem a waste, but it's not. From Cinderella to Braveheart, what hero ever dreamed their problems away?
 
-If pay attention to politics or economics, most academics, reporters, politcians will saw our society is in trouble. Rising debt, growing inequality, aging populations. Everyone has diagnosis and solutions. Some are better than others. But this book is different.
+The truth is the middle class needs to act. Main Street has massive untapped political power, and the sooner we realize it, the sooner our culture can start to heal.
 
-It's the only one that puts the power to change the world entirey in your hands.
+Symptons of our inaction are everywhere: rising debt, shaky employment, expensive health-care. Not too long ago, our political culture would solve problems like this. Not anymore. "Politics" is now ideologically obessesed reporters, columnists, and academics finding new ways to sing to their choirs.
+
+In _Techvolution_ we'll uncover why Left/Right politics is so extreme. But even better, we'll rework what's ethical in today's political world. By unmasking political nature, we'll understand why we must empower welders, nurses, everyone on the frontline, with new amazing new digital technology. Politics is good or bad based on how well it advances or holds back our technological evolution.
+
+In 1970, we entered the Internet Age and unlocked awesoe new technology. Left/Right are as obsolete as the horse and carriage. To prosper again, we need a new Internet Age philosophy.
+
+Here it is. And I wish it clicks with people like you.
 
 ## Dedication
 
@@ -55,17 +61,17 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note
 
-I used lots of images and videos. I want to emphasize I didn't make most of the media. It belongs to people of the "creator" community filling the internet up with useful articles and shows. I only used pieces to better explain some ideas. I've found pictures and videos can be worth a thousand words, so it saves us both some time.
+I used lots of images and videos in the book. I want to emphasize I didn't make most of the media. I only edited and borrowed from the so called creator community. The hard working, underpaid, makers filling the internet up with useful articles, shows, and lessons.
 
-Also, I use pop culture references such as those of Star Wars, Star Trek, Harry Potter, The Office, and computer games (e.g., Civilization).Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. In all cases, all due credit goes to the media's owners.
+Also, I use pop culture references such as those of Star Wars, Star Trek, Harry Potter, The Office, and computer games (e.g., Civilization). Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. In all cases, all due credit goes to the media's owners.
 
-I'm still getting reader feedback, so if you like to contribute yours, there's the trusty [mailto](mailto:techvolution@outlook.com). Or, fitting to internet culture, you can give your notesdirectly within this webpage by clicking "edit". You can use a "burner" email to make an account. You can also delete your account and data once your down too.
+I'm still getting reader feedback, they'll be some eras I'm not sure to keep or add to. If you like to contribute your thoughts, you can [email](mailto:techvolution@outlook.com). Or, fitting to internet culture, you can give your notes directly within this webpage by clicking "edit" at the top of each page. You'll need an account but can delete it and all your data once your done.
 
-Lastly, keep in mind Chrome, Safari, Firefox each other "reader" modes. This lets you customize the screen as you like it. Some disable videos, so I put a link to them in the caption just in case.
+Lastly, keep in mind Chrome, Safari, Firefox each other "reader" modes. For Firefox press _F9_, and Safari _Command-Shift-R_ to reader on/off. Chrome makes you install an [extension](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh). Reader mores lets you customize the screen as you like it. Some disable videos, so I put a link to them in the caption so you can see click and view the.
 
----
+## Inner Flap
 
-**Y**ou, me, and everyone else quarantined in their houses are anxiously waiting for the COVID-19 storm to pass.
+You, me, and everyone else quarantined in their houses are anxiously waiting for the COVID-19 storm to pass.
 
 On the bright side, we have Netflix.
 
@@ -73,17 +79,17 @@ Thanks to our beloved online streaming, pandemic worries are easily replaced wit
 
 Stories are compelling because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. This moral clarity tells us precisely who the heroes and villains are, and thus lets us commit our emotions.
 
-We can cherish Romeo and Juliet because we understand their love is beautiful and worth dying for! While we also know their families' rivalry is ignorant and stupid. We see Luke Skywalker's rebellion is righteous and worth fighting for! While Darth Vader's empire because it's hellish and must be destroyed.
+We can cherish Romeo and Juliet because we understand their love is beautiful and worth dying for! While their families' rivalry is ignorant and stupid. We get why Luke Skywalker's rebellion is righteous and worth fighting for! And know Darth Vader's empire it's hellish and must be destroyed.
 
 But our emotions don't change the story. Even the main character's feelings mean so very little to the final outcome.
 
-That's why all characters, from Hogwarts students to Jedi Knights, reach for real objects like wands and lightsabers. And, of course, the enemy readies their tools and weapons too.
+That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to the the Evil Empire, reach for real objects like wands and lightsabers.
 
 And that's why we watch Netflix. Because we enjoy the drama of discovering if the light or dark side better controls the power of magic, the Force, and, most important, technology.
 
 But unlike us, the protagonists can't sit back and enjoy the story.
 
-Because nobody ever won a battle by watching it. The victors are the ones who control the levers of power. Cinderella used a slipper to defeat her treacherous step-family. While Harry Potter used a wand to defeat Lord Voldemort. And Luke Skywalker used a small ship to destroy the Death Star.
+Because nobody ever won a battle by watching it. The victors are the ones who control the levers of power. Cinderella used a slipper to defeat her treacherous step-family. Harry Potter used a wand to defeat Lord Voldemort. And Luke Skywalker used a small ship to destroy the Death Star.
 
 When people master the levers of power, they overcome antagonists and solve problems. And, that is the clear lesson Main Street must learn today.
 
