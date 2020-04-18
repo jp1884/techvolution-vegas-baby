@@ -13,23 +13,27 @@ April 2019 (manuscript)
 
 ## Back Page
 
-If a genie granted me three wishes, I'd wish you are as sick of politics as I am. That you're proudly middle-class. And you think our society is full of wasted potential.
+If a genie granted me three wishes, I'd wish you've tuned out modern politics as much as I have. That you're proudly middle-class. And you're willing to accept how important you are.
 
-Ending hunger, getting rich, and even halting this coronavirus wouldn't cross my mind. It may seem a waste, but it's not. From Cinderella to Braveheart, what hero ever dreamed their problems away?
+It may seem a waste, but it's not. From Cinderella, Braveheart, to our ancestors who laid the foundations of our great nation, what hero ever needed magic to improve their society?
 
-The truth is the middle class needs to act. Main Street has massive untapped political power, and the sooner we realize it, the sooner our culture can start to heal.
+Middle America shouldn't be thinking about what to wish for, but what we can do, now, to improve our nation.
 
-Symptons of our inaction are everywhere: rising debt, shaky employment, expensive health-care. Not too long ago, our political culture would solve problems like this. Not anymore. "Politics" is now ideologically obessesed reporters, columnists, and academics finding new ways to sing to their choirs.
+Even before this pandemic we had many problems: rising debt, growing bureaucracies, expensive healthcare. Not too long ago, our political culture would solve these everyday problems. Not anymore. Today, our politics is ideologically obsessed reporters, columnists, and academics finding new ways to sing to their choirs.
 
-In _Techvolution_ we'll uncover why Left/Right politics is so extreme. But even better, we'll rework what's ethical in today's political world. By unmasking political nature, we'll understand why we must empower welders, nurses, everyone on the frontline, with new amazing new digital technology. Politics is good or bad based on how well it advances or holds back our technological evolution.
+In _Techvolution_ we'll uncover why Left/Right politics is so extreme. But even better, we'll rework our politics to once again benefit Main Street. By unmasking Conservative and Progressives echo chambers, we'll understand why middle-class salvation is to empower ourselves with digital and open-source technology.
 
-In 1970, we entered the Internet Age and unlocked awesoe new technology. Left/Right are as obsolete as the horse and carriage. To prosper again, we need a new Internet Age philosophy.
+We can do this, because in 1970, we entered the Internet Age and unlocked truly amazing technology. Left/Right are as obsolete as the horse and carriage, once we adopt a new Internet Age philosophy.
 
-Here it is. And I wish it clicks with people like you.
+Here it is. And I wish it clicks with powerful people like you.
+
+---
+
+
 
 ## Dedication
 
-_This book is for the people in the open-source community. For the collaboration philosophy you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Internet Age. You gave the best education a political guy can get. I hope I've learned enough to write this book for you._
+_This book is for the people in the open-source community. For the collaboration philosophy, you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Internet Age. You gave the best education a political guy can get. I hope I've learned enough to write this book for you._
 
 _For the antagonists, the self-entitled delegators keeping Blockbuster—and it's Industrial Age mentality—alive, thanks for making history to repeat itself yet again. I hope you learn something._
 
@@ -61,13 +65,15 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note
 
-I used lots of images and videos in the book. I want to emphasize I didn't make most of the media. I only edited and borrowed from the so called creator community. The hard working, underpaid, makers filling the internet up with useful articles, shows, and lessons.
+I used lots of images and videos in the book. I want to emphasize I didn't make most of the media. I only edited and borrowed from the hard-working creators filling the internet up with useful articles, shows, and lessons.
 
 Also, I use pop culture references such as those of Star Wars, Star Trek, Harry Potter, The Office, and computer games (e.g., Civilization). Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. In all cases, all due credit goes to the media's owners.
 
-I'm still getting reader feedback, they'll be some eras I'm not sure to keep or add to. If you like to contribute your thoughts, you can [email](mailto:techvolution@outlook.com). Or, fitting to internet culture, you can give your notes directly within this webpage by clicking "edit" at the top of each page. You'll need an account but can delete it and all your data once your done.
+You'll have to press play or enable sound on the videos. But since they're worth a thousand words, it's time well spent.
 
-Lastly, keep in mind Chrome, Safari, Firefox each other "reader" modes. For Firefox press _F9_, and Safari _Command-Shift-R_ to reader on/off. Chrome makes you install an [extension](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh). Reader mores lets you customize the screen as you like it. Some disable videos, so I put a link to them in the caption so you can see click and view the.
+I'm still getting reader feedback, they'll be some areas I'm not sure to keep or add to. If you like to contribute your thoughts, you can [email](mailto:techvolution@outlook.com). Or, fitting to internet culture, you can give your notes directly within this webpage by clicking "edit" at the top. You'll need an account but can delete it and all your data once you're done.
+
+Lastly, keep in mind Chrome, Safari, Firefox each other "reader" modes. For Firefox press _F9_, and Safari _Command-Shift-R_ to turn the reader on/off. Chrome makes you install an [extension](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh). Reader mode lets you customize the screen as you like it. Some disable videos, so I put a link to them in the caption for you to tap and watch.
 
 ## Inner Flap
 
@@ -83,7 +89,7 @@ We can cherish Romeo and Juliet because we understand their love is beautiful an
 
 But our emotions don't change the story. Even the main character's feelings mean so very little to the final outcome.
 
-That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to the the Evil Empire, reach for real objects like wands and lightsabers.
+That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to the Evil Empire, reach for real objects like wands and lightsabers.
 
 And that's why we watch Netflix. Because we enjoy the drama of discovering if the light or dark side better controls the power of magic, the Force, and, most important, technology.
 
@@ -129,6 +135,10 @@ Once you realize politics is a game worth playing.
 
 _Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, Unsplash._
 
+## About the Author
+
+I've studied political philosophy, history, and innovation for years. At the University of Toronto I concentrated on how storytelling went from Blockbuster to Netflix. But I learned far more about the divide between Industrial Age to Internet Age cultures on the frontline as a projectionist, contractor, line worker, account manager, claims adjuster, and especially when inventing a digital tool for an Industrial Age industry. I learned lots, and wrote this book to my fellow people on Main Street today; here's how we fix our growing problems on Main Street and win the game; the neverending contest I'll explain in _Techvolution_.
+
 ---
 
 [**Next Chapter**](https://hackmd.io/@Techvolution/preface)
@@ -139,7 +149,7 @@ _Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, 
 
 ---
 
-[Prior Chapter](https://hackmd.io/@Techvolution/start) | [Next Chapter](https://hackmd.io/@Techvolution/introduction)
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/start) | [Next Chapter](https://hackmd.io/@Techvolution/introduction)
 
 ## Preface
 
@@ -420,7 +430,7 @@ _We have so many bullshit jobs because we still use Industrial Age culture. To m
 
 ---
 
-[Prior Chapter](https://hackmd.io/@Techvolution/preface) | [**Next Chapter**](https://hackmd.io/@Techvolution/prologue)
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/preface) | [**Next Chapter**](https://hackmd.io/@Techvolution/prologue)
 
 ## Politics
 
@@ -632,11 +642,7 @@ _These yahoos are what "Left/Right" philosophies have devolved to. Ms. Obama gav
 
 ## The Internet Age Needs a New Philosophy
 
-For our society to see the big picture again, we need a new philosophy. One that looks ahead towards the boundless horizon of the Internet Age. One that considers the work of protagonists like Tesla, SpaceX, Blue Origin, as a sneak peek for the wondrous future each person should be building now, bit by bit.
-
-I've studied this topic for years. Academically, at the University of Toronto, I worked on political philosophy, history, and innovation. But I learned far more on the frontline as a projectionist, contractor, line worker, account manager, claims adjuster, and especially when inventing a digital tool for an Industrial Age industry. I wrote this book to my fellow people on Main Street today; here's how we fix our problems and win the game.
-
-You'll like it best if you're sick of contemporary infotainment politics but love checking-out what Elon is up to.
+For our society to see the big picture again, we need a new philosophy. One that looks ahead towards the boundless horizon of the Internet Age. One that considers the work of protagonists like Tesla, SpaceX, Blue Origin, as a sneak peek for the wondrous future each person should be building now, bit by bit. You'll like _Techvolution_ best, if you're sick of contemporary infotainment politics but love checking-out what Elon is up to.
 
 Because you'll understand most of today's problems are—with digital technology—quite simple engineering problems. We don't have to invent impossible technology like time-travel to solve road traffic, personal loneliness, or rising health-care costs.
 
@@ -2740,6 +2746,10 @@ The fate of your life, your kids, and of your society, rests on the simple quest
 
 If you do, we win. If you don't, we lose.
 
+---
+
+[Prior Chapter](https://hackmd.io/@Techvolution/act-three) | [Next Chapter](https://hackmd.io/@Techvolution/the-appendenices)
+
 # Techvolution: A New Philosophy - Epilogue
 
 ## Welcome
@@ -2848,7 +2858,7 @@ _Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, 
 
 ---
 
-[Prior Chapter](https://hackmd.io/@Techvolution/act-three) | [Next Chapter](https://hackmd.io/@Techvolution/the-appendenices)
+[Prior Chapter](https://hackmd.io/@Techvolution/act-three) | [**Next Chapter**](https://hackmd.io/@Techvolution/the-appendenices)
 
 # # Techvolution: A New Philosophy - The Appendices
 
