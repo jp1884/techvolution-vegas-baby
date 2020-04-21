@@ -13,19 +13,15 @@ April 2019 (manuscript)
 
 ## Back Page
 
-If a genie granted me three wishes, I'd wish you've tuned-out modern politics as much as I have. That you're proudly middle-class. And you're willing to accept how important you are.
+If a genie granted me three wishes, I'd wish you're as tired of modern politics as I am. That you're proudly middle-class. And you're willing to accept how powerful you are.
 
-It may seem a waste to not pick wealth, fame, or super-powers; but it's not. From Cinderella to Braveheart, to our hard-working ancestors, what hero ever depended on magic to improve their lives?
+Even before this pandemic middle-class Americans and Canadians had many problems: rising debt, growing bureaucracies, expensive healthcare. Not too long ago, we could depend our political culture would solve our everyday issues. Not anymore. Today, politics on both sides of the border are ideologically obsessed reporters, columnists, and academics finding new ways to sing to their Left-wing or Right-wing choirs.
 
-Middle America shouldn't be thinking about what to wish for. Instead we be thinking we can do, now, to improve ourselves and our country.
+COVID-19 will only make middle-class problems worse.
 
-Even before this pandemic we had many problems: rising debt, growing bureaucracies, expensive healthcare. Not too long ago, we could depend on our political culture to solve these everyday problems. Not anymore. Today, our politics is ideologically obsessed reporters, columnists, and academics finding new ways to sing to their choirs.
+In _Techvolution_ we'll understand why Left/Right can no longer empower Main Street. In short, they're both from the Industrial Age, and since 1970 the Wester has been in the Internet Age. Middle-class salvation rests on reaching for the power of modern apps and electronics. But to do that we'll need a new philosophy.
 
-In _Techvolution_ we'll uncover why Left/Right hate each other so much. Even better, by unmasking Conservative and Progressives echo chambers we'll understand why the middle-class should disregard them both. Our salvation is to empower _ourselves_ with open-source apps and electronics.
-
-Main Street can empower itself to new heights because in 1970 we entered the Internet Age and unlocked truly amazing technology. Left/Right aren't evil, they're both from the Industrial Age, and both will be as obsolete as the horse and carriage; once we adopt a new Internet Age philosophy.
-
-Here it is. And I wish it clicks with powerful people like you.
+Here it is. I wish it clicks with powerful people like you.
 
 ---
 
@@ -63,17 +59,15 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note
 
-I used lots of images and videos in the book. I want to emphasize I didn't make most of the media. I only edited and borrowed from the hard-working creators filling the internet up with useful articles, shows, and lessons.
+I used lots of images and videos in the book. I didn't make most of the media. I only edited and borrowed from the hard-working creators filling the internet up with useful articles, shows, and lessons.
 
-Also, I use pop culture references such as those of Star Wars, Star Trek, Harry Potter, The Office, and computer games (e.g., Civilization). Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. In all cases, all due credit goes to the media's owners.
+Also, I use pop culture references such as those of Star Wars, Harry Potter, The Office, and computer games (e.g., Civilization). Using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. In all cases, all due credit goes to the media's owners.
 
-You'll have to press play or enable sound on the videos. But since they're worth a thousand words, it's time well spent.
+Note, you'll have to press play or enable sound on the videos.
 
 I'm still getting reader feedback. If you like to contribute your thoughts on anything, you can [email](mailto:techvolution@outlook.com). Or, fitting to internet culture, you can write on this webpage by clicking "edit" at the top. You'll need an account but you can delete it, and all your data, whenever you want.
 
-I tried making this book as brief as possible. It's about 140 typical book pages. I am writing a shorter version of about 2,000 words.
-
-Lastly, keep in mind Chrome, Safari, Firefox each other "reader" modes. For Firefox press _F9_, and Safari _Command-Shift-R_ to turn the reader on/off. Chrome makes you install an [extension](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh). Reader mode lets you customize the screen as you like it. Some disable videos, so I put a link to them in the caption for you to tap and watch.
+Lastly, keep in mind Chrome, Safari, Firefox each other "reader" modes. For Firefox press _F9_, and Safari _Command-Shift-R_ to turn the reader on/off. Chrome makes you install an [extension](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh). Reader modes lets you customize the screen as you like it. Some disable videos, so I put a link to them in the caption for you to tap and watch.
 
 ---
 
@@ -91,7 +85,7 @@ We can cherish Romeo and Juliet because we understand their love is beautiful an
 
 But our emotions don't change the story. Even the main character's feelings mean so very little to the final outcome.
 
-That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to the Sith Lords, reach for real objects like wands and lightsabers.
+That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to Sith Lords, reach for real objects like wands and lightsabers.
 
 And that's why we all watch Netflix so much. Because we enjoy the drama of discovering if the light or dark side better controls the power of magic, the Force, and, most important, technology.
 
@@ -111,7 +105,7 @@ If you buy it—and most of us have at some point—you glue yourself to Left-wi
 
 But it's all bullshit.
 
-Despite Left/Right yelling matches, neither ideology is your enemy. Because neither is your hero. Both only care to send you one-way messages to tune-in, protest, or donate. Like a bad friend, Left/Right partisans only want your attention and money. Idealogues think you're a bystander; an extra in your own life.
+Despite Left/Right yelling matches, neither ideology is your enemy. Because neither is your hero. Both only care to send you one-way messages to tune-in, protest, or donate. Like a bad friend, Left/Right partisans only want your attention and money. Both sides think you're a bystander, an extra in your own life.
 
 Galileo, George Washington, and Luke Skywalker reached for the power of new technology. So, why shouldn't you? Even more important, why shouldn't the middle-class? Isn't our healthcare, infrastructure, and especially our pandemic preparation, worthy of upgrades?
 
@@ -127,11 +121,11 @@ Happily, many internet geeks, hackers, and innovators have been fighting Darth B
 
 There is no debate. The story is simple. We must upgrade our society now.
 
-If we don't, this pandemic only foreshadows a much more terrible storm to come. Every year, month, and day we stall, only makes our technology, tools, and culture more outdated. It will only get harder and harder to respond to, and prevent horrible events like recessions, depressions, and pandemics.
+If we don't, this pandemic only foreshadows a much more terrible storm to come. Every year, month, and day we wait, only makes our technology, tools, and culture more outdated. Responding to and preventing horrible events like recessions, depressions, and pandemics will only get harder.
 
-This book will teach you how to upgrade our society to the Internet Age. Like conquering illiteracy, defeating slavery, and going to the Moon, upgrading our culture will be a glorious story to tell your grandkids.
+This book will teach you how to upgrade our society to the Internet Age. Like conquering illiteracy, defeating slavery, and going to the Moon, upgrading our politics to the modern age be a glorious story to tell your grandkids.
 
-Once you realize politics is a game worth playing.
+I'll be easy too. Once you realize politics is a game worth playing.
 
 ![levers-of-power](https://techvolution.io/content/images/2020/04/levers-of-power.jpg)
 
@@ -139,7 +133,7 @@ _Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, 
 
 ## About the Author
 
-I've studied political philosophy, history, and innovation for years. At the University of Toronto I concentrated on how storytelling evolved into internet streaming, going from "Blockbuster to Netflix" so to speak. But I learned far more about the divide between Industrial Age to Internet Age cultures on the frontline as a projectionist, contractor, line worker, account manager, claims adjuster, and especially when inventing a digital tool for an Industrial Age industry. I learned a lot, and wrote this book to my fellow people on Main Street today; here's how we fix our growing problems on Main Street and win the game, which is the neverending contest I'll explain in _Techvolution_.
+I've studied political philosophy, history, and innovation for years. I graduated from the University of Toronto in political science, history, and geography. But I learned far more about the divide between Industrial Age to Internet Age on the frontline as a projectionist, contractor, adjuster, and especially when inventing a digital tool for an Industrial Age industry.
 
 ---
 
@@ -997,7 +991,7 @@ _Our civilizations have always had problems. It's up to regular people to use ne
 
 # Techvolution: A New Philosophy - Act One
 
-![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/perspective.jpg)
 
 ---
 
@@ -1017,7 +1011,7 @@ In retrospect, what I encountered was pure antagonism. The enemy of the middle c
 
 All my app did was replace a few dozen fax machines with an online app. If the car adjusters had just used it themselves, nobody "above" would have even noticed.
 
-Society would have. Because car insurance claims would have gotten processed far faster and cheaper. But instead of getting an upgrade, our nation was forced to keep waiting on hold and pay the price for increasing insurance costs. All because a few dozen managers wanted to defend their power.
+Society would have. Because car insurance claims would have gotten processed far faster and cheaper. But instead of getting an upgrade, our nation was forced to keep waiting on hold and pay the price for increasing insurance costs. All because a small group of middlemen wanted to defend their power.
 
 That's why the head office people never said no to me. No needs a reason. Instead, they simply said it was against the rules to say yes. You know—those obscure rules, hidden inside regulations and contracts. The antagonists believed in the rules, especially the one against frontline workers acting with initiative, holding their own levers, and taking out their own garbage, so to speak.
 
@@ -1025,17 +1019,17 @@ Like anyone, I knew bringing new products to market is hard. I knew sales is dif
 
 I don't want to dwell on my experience too much. All that's important is this. There was a huge problem costing millions of dollars, weeks of workers' time (lots of it unpaid overtime), and maybe even your life. And it was against the rules to solve it. If I had won this battle for the Internet Age, it would be a tiny victory.
 
-So instead, I'm going to talk about winning the war. Our hospitals, schools, repair-shops, government bureaucracies—our entire way of life is being held back from the Internet Age by a group of self-entitled holdovers of the Industrial Age.
+So instead, I'm going to talk about winning the war. Our hospitals, schools, repair-shops, government bureaucracies—our entire way of life is being held back from the Internet Age by a group of self-entitled holdovers of the Industrial Age. They're making decisions with our development that aren't there's to make.
 
-To help us win the game, I learned my lesson and wrote this book. Because despite already having the digital technology to improve our lives, antagonists maintain gates all over the place to protect the pre-digital "Suburban 1969" way of life. They know—even if subconsciously—they lose their coveted managerial status, executive positions, and superiority complexes in a mass-collaboration economy. Being held back from this brighter future is why our lives can be so unhappy. To improve our days then, the people need Techvolution. A new ruling philosophy that says improving our society is the only rule that matters.
+To help us win the game, we need to level the playing field. So, I learned my lessons and wrote this book. Because despite already having the digital technology to improve our lives, antagonists maintain gates all over the place to protect the pre-digital "Suburban 1969" way of life. They know—even if subconsciously—they lose their coveted managerial status, executive positions, and superiority complexes in a mass-collaboration economy. Being held back from this brighter future is why our lives can be so unhappy.
 
-<div style='position:relative; padding-bottom:calc(53.75% + 44px)'><iframe src='https://gfycat.com/ifr/FirmActualHart' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/firmactualhart-bill-lumbergh-office-space-gary-cole"></a></p>
+To improve our days then, the people need Techvolution. A new ruling philosophy that says improving our society is the only rule that matters.
 
-_Antagonists love antagonism._
+![Act One](https://techvolution.io/content/images/2020/04/act-one-diagram.png)
 
 ## To Upgrade Our Civilization We Need To Reach for the Tools
 
-Do you love stories? I alread know you do. I think it's a safe bet to say that you do. Who doesn't? They entertain us after a hard day of work, bring us together to share our joys, and (my favorite) open our minds. Stories show us the different rules, philosophies, and technologies of foreign cities, mythical worlds, and galaxies far far away.
+Do you love stories? I think it's a safe bet to say that you do. Who doesn't? They entertain us after a hard day of work, bring us together to share our joys, and (my favorite) open our minds. Stories show us the different rules, philosophies, and technologies of foreign cities, mythical worlds, and galaxies far far away.
 
 Stories are so compelling because they're so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. Stories aren't debates. We take the protagonist's side. Thus, Romeo and Juliet's love is beautiful and worth dying for, while their families' feud is ignorant and stupid. Luke Skywalker's rebellion is righteous and worth fighting for, while Darth Vader's empire is wicked and should be destroyed.
 
@@ -1237,7 +1231,7 @@ It's time to blow up a Death Star.
 
 # Techvolution: A New Philosophy - Act Two
 
-![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/evolution-techvolution.jpg)
 
 ---
 
@@ -1601,7 +1595,7 @@ _Today, most movies stink, and most theatres are dead. That's you Stargazer, loo
 
 # Techvolution: A New Philosophy - Intermission
 
-![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/see-the-matrix.jpg)
 
 ---
 
@@ -1767,7 +1761,7 @@ Internet Age celebrities are different. While we can make fun of Instagram model
 
 Heck, with no gates to overcome, anyone can be a musician, artist, comedian, or "celebrity."
 
-Personally, I follow Sailing La Vagabonde, Adam Savage's Tested, Linus Tech Tips, Kings and Generals, Historia Civilis, BatmanRealAccount, Invicta, The Joe Rogan Experience, Dave 2D, Kirsten Dirksen, Traversy Media, Taylor Tries, RealEngineering, Dr. Becky. I celebrate them because they're real people doing cool stuff who'd never consider themselves celebrities.
+Personally, I follow people like Sailing La Vagabonde, Adam Savage's Tested, Kings and Generals, Historia Civilis, BatmanRealAccount, Dave 2D, Kirsten Dirksen, Traversy Media, Taylor Tries, RealEngineering, Dr. Becky. I celebrate them because they're real people doing cool stuff who'd never consider themselves celebrities.
 
 The next time you hear "celebrity," ask yourself if they're one of yours. Modern technology gives you that power.
 
@@ -1823,7 +1817,7 @@ If they ever intimidate you, just press the button below.
 
 <a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank" class="button primary large">The Funny Wakeup Button</a>
 
-It randomly selects a Wikipedia article. With three clicks, I got:
+It randomly selects a Wikipedia article. With three taps, I got:
 
 - Lorenz Nieberl, a German bobsledder.
 - Sandamías, a village in northern Spain with 67 residents.
@@ -1971,7 +1965,7 @@ _Faster evolution is our savior. And antagonism is our enemy. Credit: [Civlizati
 
 # Techvolution: A New Philosophy - Mid Point
 
-![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/frontline-movies-full.jpg)
 
 ---
 
@@ -2403,7 +2397,7 @@ _This is another clip from the movie The Big Short. This "solid gold a**hole" is
 
 # Techvolution: A New Philosophy - Act Three
 
-![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/age-crumbles.jpg)
 
 ---
 
@@ -2767,6 +2761,12 @@ If you do, we win. If you don't, we lose.
 [Prior Chapter](https://hackmd.io/@Techvolution/act-three) | [Next Chapter](https://hackmd.io/@Techvolution/the-appendenices)
 
 # Techvolution: A New Philosophy - Epilogue
+
+![Stargazer Illustration](https://techvolution.io/content/images/2020/04/the_life_star.jpg)
+
+---
+
+[Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/mid-point) | [Next Chapter](https://hackmd.io/@Techvolution/epilogue)
 
 ## Welcome
 
