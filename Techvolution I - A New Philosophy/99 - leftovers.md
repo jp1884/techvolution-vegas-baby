@@ -2890,3 +2890,28 @@ Here it is. Its big lesson is this. The middle-class must solve our problems wit
 10. [The Appendices](#the-appendices)
 
 ---
+
+## Office Space
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/JitteryBrokenFlickertailsquirrel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+<a href="https://gfycat.com/ifr/JitteryBrokenFlickertailsquirrel" target="_blank" class="button small">Reader</a>
+
+_Credit: [Office Space](https://en.wikipedia.org/wiki/Office_Space)_
+
+
+
+
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ImpassionedSourBuck' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+<a href="https://gfycat.com/ifr/ImpassionedSourBuck" target="_blank" class="button small">Reader</a>
+
+_The rise of the middlemen. Credit: [Wisecrack](https://www.youtube.com/watch?v=_Lngf3J8vN4)._
+
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SorrowfulPeacefulCuscus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+<a href="https://gfycat.com/ifr/SorrowfulPeacefulCuscus" target="_blank" class="button small">Reader</a>
+
+_Credit: [Civilization 6](https://www.youtube.com/watch?v=3NLoDMsqJkE)_
