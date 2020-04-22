@@ -2915,3 +2915,35 @@ _The rise of the middlemen. Credit: [Wisecrack](https://www.youtube.com/watch?v=
 <a href="https://gfycat.com/ifr/SorrowfulPeacefulCuscus" target="_blank" class="button small">Reader</a>
 
 _Credit: [Civilization 6](https://www.youtube.com/watch?v=3NLoDMsqJkE)_
+
+## Angels and Demons On Our Shoulders
+
+I'm not sure if you know this Stargazer, but the Devil was once an angel. The angel Lucifer was his name. He lived with God up in the clouds with the rest of the heavenly beings. These angels were tasked to educate us about virtue, morality, and ethics so we can become protagonists and player gods.
+
+But Lucifer rejected God's teachings. He grew vain, greedy, and deceptive. Soon he even challenged God's will. In response, God threw Lucifer down from Heaven to be the Dark Lord of Hell.
+
+Free from God, Lucifer grew his evil powers. Soon he was the Devil, who taught humanity the vanity, greed, hubris, and selfishness they'd need to become antagonists and extras.
+
+But Lucifer kept his angelic form.
+
+So, while anyone can be a saint, anyone can also be a demon. That is why the choice of good and evil, protagonist and antagonist, extra and player god, always rest on our shoulders and attracts us to either side.
+
+The trick for humanity is to resist our demons and embrace our angels. That's how we can be player gods who do what's best for ourselves and help society prosper.
+
+Angels and demons are the Christian tales of good and evil. Most religions share a similar story though. The story of Lucifer even echoes throughout human literature. Harry Potter's Lord Voldermort, The Lord of the Rings Lord Sauron, and Star War's Lord Vader were all once heroes. Each grew evil because they were unwilling to give up their power; they were corrupted by ambitions of lifelong supremacy.
+
+The story of vanity, greed, and hubris is probably so prevalent in our religions and literature because it's so common in humanity; power often corrupts. Absolute power corrupts absolutely.
+
+Darth King thought he was an angel.
+
+No joke. During the Age of Enlightenment, philosophers like Voltaire, Hume, and Rousseau were writing about improving humanity with ideals of freedom and compassion. Believe it or not, the nobility liked these values.
+
+After all, the leaders believed they were protectors of their flock. That's why monarchs with the absolute power of life and death over their subjects, such as Frederick I, Emperor Joseph II, and Catherine II, called themselves "enlighten monarchs."
+
+The trending royal mentality was, "Everything for the people, nothing by the people."
+
+We can see how self-serving this mentality is. Why couldn't the nobles pay taxes? Why couldn't the people have a fair judicial system? Enlightened monarchs preached one thing and did another. The point is Darth King wasn't evil for being born into nobility. He is evil for holding his people back. He wanted them to be extras watching the story of civilization, and not player gods playing the game of civilization.
+
+When a regular person rose himself up with hard work and innovation, a royal felt justified to take ownership of his work and spend the rewards as he wanted.
+
+The nobles thus became fallen heroes. And sadly, this story of fallen kings is repeating itself in our modern times. Our antagonists are also heroes fallen from grace.
