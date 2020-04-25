@@ -2947,3 +2947,7 @@ We can see how self-serving this mentality is. Why couldn't the nobles pay taxes
 When a regular person rose himself up with hard work and innovation, a royal felt justified to take ownership of his work and spend the rewards as he wanted.
 
 The nobles thus became fallen heroes. And sadly, this story of fallen kings is repeating itself in our modern times. Our antagonists are also heroes fallen from grace.
+
+## Gangster Gardener
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oXcHwGjGhL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

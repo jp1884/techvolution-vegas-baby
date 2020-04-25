@@ -6,16 +6,16 @@
 
 # Table of Contents
 
-1. [Preface](#preface)
-2. [Introduction](#introduction)
-3. [Prologue](#prologue)
-4. [Act One - The Beginning](#act-one)
-5. [Act Two - Blowing Up the Death Star](#act-two)
-6. [Intermission - Taking a Break](#intermission)
-7. [Mid Point - A Techvolution Battle](#mid-point)
-8. [Act Three - Climax](#act-three)
-9. [Epilogue](#epilogue)
-10. [The Appendices](#the-appendices)
+1. [Preface](#a-new-philosophy-preface)
+2. [Introduction](#a-new-philosophy-introduction)
+3. [Prologue](#a-new-philosophy-prologue)
+4. [Act One - The Beginning](#a-new-philosophy-act-one)
+5. [Act Two - Blowing Up the Death Star](#a-new-philosophy-act-two)
+6. [Intermission - Taking a Break](#a-new-philosophy-intermission)
+7. [Mid Point - A Techvolution Battle](#a-new-philosophy-mid-point)
+8. [Act Three - Climax](#a-new-philosophy-act-three)
+9. [Epilogue](#a-new-philosophy-epilogue)
+10. [The Appendices](#a-new-philosophy-the-appendices)
 
 [Prior Chapter:](https://techvolution.io/preface) |
 [Prior Chapter:](https://techvolution.io/introduction) |
