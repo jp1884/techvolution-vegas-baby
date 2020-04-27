@@ -2951,3 +2951,37 @@ The nobles thus became fallen heroes. And sadly, this story of fallen kings is r
 ## Gangster Gardener
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oXcHwGjGhL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Telecommuting
+
+One thing I have to get off my mind. "Working from home" doesn't mean working in your PJs. Telecommuting is more about **not** working from a set place. Being free to work might mean working from your home office. But it also might mean working at a clients house after a house fire. Or maybe at a local shared office place to collaborate with colleagues for the day.
+
+We've already seen how custom designed software can oversee everyone's contributions better than "eight different bosses". Deciding where to work should consider the return on investment for fuel savings, insurance costs, vehicle wear and tear, and most important, saved time.
+
+## Rome's damn fall maybe I'll add if i can verify this, although it makes sense to me
+
+This was the start of the "noble divine right to rule." Believe it or not, divine nobility was an upgrade. The Roman Empire fell apart because its generals kept fighting each other to be Emperor. Rome had, on average, a civil war every four years. Making political power "divine" in the new European kingdoms may have excluded the ordinary people from having a say. Still, it at least stopped anyone with an army sending the country into chaos.
+
+## What You Can Do Today
+
+While the antagonists are fighting it, the era of mass-collaboration is already here. We've already seen examples of Uber, Airbnb, and Wikipedia. But there are many more.
+
+These websites below let you change the world today. Right now.
+
+User Feedback: Most apps and websites have a "Feedback" option. These buttons are not for show. In fact, designers and programmers love hearing from users. You can feel good about donating your thoughts. Because it saves tens, hundreds, to maybe millions of people from the same problem.
+
+[Galaxy Zoo](https://www.zooniverse.org" target="_blank): Help astronomers classify stars and galaxies. You might even be the first to discover something new.
+
+[Common Voice:](https://voice.mozilla.org/en): Help inventors give their apps audible commands by donating your voice, anonymously, of course. A free voice database lets anyone improve their software.
+
+[Stack Overflow](https://stackoverflow.com): Stack Overflow lets programmers, engineers, customer support ask a question to colleagues. The person with the best answer gets rewarded. This kind of mass-collaboration will soon connect you with other people doing your frontline job.
+
+[Khan Academy](https://www.khanacademy.org/): Give yourself, or your kids, world-class education for free. You only need to login and start doing the work. Likewise, Udemy, Skillshare, The Great Courses all teach you programming, art design, photography, or anything else you need to know.
+
+[Kickstarter](https://www.kickstarter.com/): You can fund your own levers of power. Kickstarter connects regular people trying to solve a problem, with ordinary people waiting for a solution. It only takes a few bucks to fund a product. The software of this website, Ghost Foundation, was started on Kickstarter.
+
+Naysayers will point out problems here. They'll say Wikipedia has errors, or Kickstarter funds weird products. Ignore people who find a reason the future won't happen. I mean, compare some errors and delayed product releases, to Industrial Age industries that get billions in bail-outs every generation.
+
+The mass-collaboration websites above are very young and inexpensive, yet they still put levers of power in your hand. As they improve, they will only increase your control over your slice of the world, which directly increases your political power.
+
+Holding political power is what founded America, ended slavery, gave civil rights, and soon, will make player gods of the Internet Age.
