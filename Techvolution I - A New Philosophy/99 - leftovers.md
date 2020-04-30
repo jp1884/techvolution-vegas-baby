@@ -2985,3 +2985,41 @@ Naysayers will point out problems here. They'll say Wikipedia has errors, or Kic
 The mass-collaboration websites above are very young and inexpensive, yet they still put levers of power in your hand. As they improve, they will only increase your control over your slice of the world, which directly increases your political power.
 
 Holding political power is what founded America, ended slavery, gave civil rights, and soon, will make player gods of the Internet Age.
+
+## New and Old Societies As Seen in Celebrities
+
+New technology is already changing our society. By connecting people to the internet, we've given ourselves the power to receive and send information on demand. Like a person holding a two-way radio in a life raft, we now have a voice.
+
+An example of this freedom is celebrities. In the Industrial Age society, our stars were often decided for us. The era of mass-production only let a few people make movies, release albums, or get their names in "the papers."
+
+Internet Age celebrities are different. While we can make fun of Instagram models, silly YouTubers, Twitter trolls, and obscure podcasts, but at least we can follow who we want. Which also means we celebrate who we wish to.
+
+Heck, with no gates to overcome, anyone can be a musician, artist, comedian, thinker, reviewer, or "celebrity."
+
+Personally, I follow people like Sailing La Vagabonde, Adam Savage's Tested, Kings and Generals, Historia Civilis, BatmanRealAccount, Dave 2D, Kirsten Dirksen, Traversy Media, Taylor Tries, RealEngineering, Dr. Becky. I celebrate them because they're real people doing cool stuff who'd never consider themselves celebrities.
+
+The next time you hear "celebrity," ask yourself if they're one of yours. Modern technology gives you that power.
+
+## Pandemic Test
+
+Today we're counting on our local industries to make more medical masks, hand sanitizer and [quickly design, build, and distribute enough ventilators for our sick](https://www.youtube.com/watch?v=7vLPefHYWpY).
+
+Our response to the coronavirus didn't need to be so uncertain. When a society is playing the game well, it has the resources, expertise, and drive to respond to any crisis.
+
+For example, let's look at American during one of its biggest crises, World War II (1939-1945).
+
+America didn't enter the war right away. In fact, several years into the conflict, the US still had a tiny military. But when Japan attacked in late 1941, and the Nazis declared war, the two "awoke a sleeping giant." This phrase describes America because it didn't matter the American military was small. Because her industrial base was extensive, her technical expertise was precise, and most importantly, her people were happy.
+
+Led by industrialists [William S. Knudsen](https://en.wikipedia.org/wiki/William_S._Knudsen), and [Henry J. Kaiser](https://en.wikipedia.org/wiki/Henry_J._Kaiser) (both had no formal education) America's "Victory" production program quickly outproduced everyone else. Even though Germany, Japan, and Italy were prepared for war, the American worker was twice as productive as a German, and four times more than a Japanese. The Ford Motor Company alone made more war equipment than all of Italy. General Motors manufactured even more, with the help of 16,000 suppliers, all in America.
+
+The point is, America got into the war in late 1941, and it was all over within three and a half years. A big reason is the blazing speed America designed, built, and delivered new tanks, planes, and ships. More proof that the civilization that adapts the fastest wins.
+
+And today, we're struggling to figure out where to get more face masks, hand sanitizers, and ventilators.
+
+On the bright side, having our backs against the wall makes us adapt. Among the technical innovations, World War II is when America updated its culture. Finally, female and black Americans got to show their full potential in battle and assembly line.
+
+It's no surprise the equality and civil rights movements upgraded our culture soon after the war was over. We can follow suit and start to remake our society during this pandemic by adopting a modern philosophy for the Internet Age.
+
+![WW2 Broke Barriers](https://techvolution.io/content/images/2020/04/ww2-shipyard.jpg)
+
+_This photo was taken in 1943 in Pascagoula Mississipi. While most German and Japanese women were prohibited from working, America was adapting away from old traditions. It's no surprise which philosophy won. Credit: [National Archives Catalog](https://catalog.archives.gov/id/522890)_
