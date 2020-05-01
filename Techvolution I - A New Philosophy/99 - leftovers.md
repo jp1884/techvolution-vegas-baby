@@ -3023,3 +3023,30 @@ It's no surprise the equality and civil rights movements upgraded our culture so
 ![WW2 Broke Barriers](https://techvolution.io/content/images/2020/04/ww2-shipyard.jpg)
 
 _This photo was taken in 1943 in Pascagoula Mississipi. While most German and Japanese women were prohibited from working, America was adapting away from old traditions. It's no surprise which philosophy won. Credit: [National Archives Catalog](https://catalog.archives.gov/id/522890)_
+
+## Linus T
+
+People working well together is nothing new. Early America was blessed with communal barn-raising, quilting societies, and fraternal associations. They governed themselves in a Main Street economy. Open-source software and mass-collaboration simply adopt the same incentives. Because once our basic necessities are met, most people want to improve their craft, gain the respect of their peers, and pass-on their knowledge.
+
+Open-source hero Linus Torvalds explained it by pointing out, "Money is not the greatest of motivators. Folks do their best work when they are driven by passion. When they are having fun. This is as true for playwrights and sculptors and entrepreneurs as it is for software engineers." Torvalds concludes, "What astonishes so many people is that the open-source model actually works."
+
+With open-source, we have the technology to create our own levers of power to understand and enforce our warranty contracts, tax-laws, education systems, employment agreements, claim systems, and so on.
+
+So, when the school board, doctor's office, the insurance company says, "fill in these forms," we should begin to say, "No, I want to use my open-source app. It let us both see timelines, appointments, and rules. If you don't want to use it, then I'll move my business. But if you do, I look forward to working with you."
+
+## Intro
+
+
+Talk to anyone on the frontline of today's pandemic and ask them if they feel ready. Face masks and disinfectants are already running low. More ventilators are needed, but no one knows where to get them. Patients show up, and no one knows where their medical records are. Even with so many bureaucrats and historical examples, no one was planning for a disaster.
+
+I can sympathize. Whenever there is a bad storm, our car and property insurance claim departments scramble to keep up. Even though there's a big storm every few months.
+
+As a result, long-time and loyal insurance customers can wait hours to speak with somebody and months to get their claim checks. During my time, I'd have to (somehow) explain to customers why the insurance company takes their money digitally but insists on paying claims with paper checks sent via snail mail.
+
+It sucked trying to explain the nonsense. These customers paid their bills, and their claim was approved. Yet, they were like a ship-wrecked man on a beach, desperately waving at passing ships because he has no levers of power to wield.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/TartTeemingAtlanticblackgoby' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+_Credit: [Cast Away](https://en.wikipedia.org/wiki/Cast_Away)._
+
+There is no good reason why my customers had to wait. But like I said above, powerful managers and executives won't give regular people a fair deal if they don't have to.
