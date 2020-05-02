@@ -717,11 +717,11 @@ The changing of the guard, from the Industrial Age to the Internet Age, is basic
 
 Antagonism is defeated when ordinary people have the right, duty, and protection to use the best tool to solve a problem in their home and work lives.
 
-This isn't too outlandish. Do you use the Waze app to help lower road congestion? Many people do, and that's how easy it is to bring on the Internet Age. Now, can an employer (openly) discriminate against race or gender? Of course not, there are protections against that.
+This isn't too outlandish. Do you use the Waze app to help lower road congestion? Many people do, and that's how easy it is to bring on the Internet Age. Now, can an employer (openly) discriminate against race or gender? Of course not, there are protections against that. Now what if your boss demands you use the buggy company traffic app that keeps making you late instead of the Waze app?
 
-Now, can a comedian leave a TV network to start his own internet podcast? Yes. Does your boss decide which apps you can use? Yes. Do you treat your plumber the same way? No, you simply care if the job is done to specifications or not.
+Would you ever treat a plumber in the same way? No, we hire builders to meet specifications and let the specialists choose their own tools. If there's a dispute, we judge according to which tool best solves the problem. The same government protections we have for gender and race can be upgraded to include protection for anyone using the best tool for the job.
 
-In practical terms, Techvolution means ordinary people return to being specialists. Our society empowers frontline workers by giving employees some freedom to select their own tools at work with government regulation. More importantly, however, we should all be protected, at work, and at home, with a new social understanding. One that says any person who prevents someone else from using modern technology to protect their status is wrong.
+More importantly, however, we should all be protected, at work, and at home, with a new social understanding. One that says any person who prevents someone else from using modern technology to protect their status is wrong.
 
 Techvolution also means local businesses on Main Street get prioritized over Big Government and Big Business. Small businesses can better upgrade our society to the Internet Age. They're not filled with layers of Industrial Age bureaucracy, consultants, and eight different "black-belt" bosses committed to stopping progress.
 
@@ -747,45 +747,41 @@ _Like magic, or even the Force, this machine can make face-masks, wrenches, repl
 
 [Contents](https://hackmd.io/@Techvolution/start) | [Prior Chapter](https://hackmd.io/@Techvolution/introduction) | [Next Chapter](https://hackmd.io/@Techvolution/act-one)
 
+## Goaline
+
+Techvolution gives us the power to upgrade our society. With this new philosophy, ordinary people on Main Street have the right and duty to upgrade our society with the almost magical possibilities of computers and the internet.
+
+Yet there is something missing.
+
+Techvolution is indeed the new politics of the Internt Age. But politics doesn't pay us money, generate electricity, or grow food to eat. To really live in the Internet Age, we need to also upgrade our economics. Only then will Main Street control their daily neccessities.
+
+With this in mind, it's proper to say, a modern economy for the middle-class is the goaline for Techvolution to reach.
+
+We'll learn about the Internet Age economy now. As an added bonus we'll see where antagonists come from as we prepare to fight for the economic freedom of Main Street.
+
 ## Economic Upgrade
 
-The Internet Age seeded itself a long time ago. Starting way back in 1843, inventors like Ada Lovelace, Vannevar Bush, and Alan Turing were building the first experimental computers. At the same time, writers like H.G. Wells, Isaac Asimov, and Gene Roddenberry imagined what life would be like once the Industrial Age ended and advanced computers ruled the world.
+Internet Age economics is centered on the simple fact that digital property doesn't expire and can be shared with anyone in the world. So, if YouTube existed in Sir Issac Newton's time, we'd all be learning about gravity from his videos.
 
-These authors' stories, such as _War of the Worlds_, _I, Robot_, and _Star Trek_ thought of a future so hard to grasp people called it science fiction. Then came the 1970s; when microprocessors, personal computers, the internet, and other digital technology became actual products on store shelves.
+If you can imagine how cool that is, you'll appreciate why the economic policy of the future is called digital mass-collaboration.
 
-Here started the Internet Age. And it transformed the world just as much as science fiction said it would.
-
-With every purchase, renovation, and birthday gift since 1970, we've been filling our society with fundamentally different technology. We've already discussed how this new technoloy empowers us to be player gods in our politics. Now it's time to understand how it let us take control of our economics too.
-
-Because if controlling the levers of power is the true nature of politics, controlling your own resources is the nature of economic empowerment.
-
-Fittingly, just as the Internet Age technology unlocked a new philosophy to empower Main Street in our politics. It also unlocked a new policy to give more power to the middle-class in our economics too; digital mass-collaboration
+But before we can learn about it, we must understand the Industrial Age economy its going to replace.
 
 ## The Era of Mass-Production
 
-Digital mass-collaboration is a major upgrade to our civilization. It saves you, me, everyone in the world from doing redundent work. Even better collaboration lets us all share our knowledge and building something much greater than anyone could create on their own.
+The Industrial Age started in the late 1700s. If you travelled back in time and looked down on society in the 1700s you would see a different place then the world you're used to.
 
-But to really understand mass-collaboration, we have to first take a look at what the Industrial Age's economic policy of mass-production. Because like in politics, to upgrade to the Internet Age in our economics, will require looking down on ourselves, and seeing the difference between the old way of life, and the new one we're trying to build together.
+It was a time of mud roads, hand tools, and abacus calculators. Human perseverance and ingenuity filled in for limited technology. Being hungry and sick, cold, and tired was an all too common way of life back then.
 
-The era of mass-production started when the steam engine powered the world's first production lines in the late 1700s. If you did look down on society back then, this is what you'd see.
+This is where Left/Right ideologies shine. You see, they were designed to turn the poverty of the 1700s into something much better. Left/Right writers like Adam Smith, Edmund Burke, and John Stuart Mill also never had running water, listened to the radio, made a phone call, opened a fridge, took penicillin, started a motor, typed on a keyboard, or learned about evolution.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/IgnorantCheerfulBilby' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>(https://gfycat.com/nauticallegalangora)
+The same way we often dream of "Space Age" technology, Left/Right writers dreamed of year-round food supply, running water, and clean clothes. To get these "Industrial Age" wonders, they upgraded to an economic policy called mass-production.
 
-<a href="https://gfycat.com/ifr/IgnorantCheerfulBilby" target="_blank" class="button small">Reader</a>
-
-_Credit: Men of Honor, Gangs of New York, Cold Mountain, Far and Away, Dances with Wolves, The Office, Office Space, Wisecrack._
-
-This is what America, Canada, Britain, and much of the world looked like before and during the early Industrial Age. It was a time of mud roads, hand tools, and abacus calculators. Human perseverance and ingenuity filled in for limited technology. Being hungry and sick, cold, and tired was an all too common way of life back then.
-
-This video is important to see. By no stretch of the imagintion were the Left/Right ideologies of the Industrial Age evil. Both were designed to turn what you see above, into something much better. Left/Right writers like Adam Smith, Edmund Burke, and John Stuart Mill were trying to solve serious problems everyone had. They also never had running water, listened to the radio, made a phone call, opened a fridge, took penicillin, started a motor, typed on a keyboard, or learned about evolution.
-
-The same way we often dream of "Space Age" technology, Left/Right writers dreamed of year-round food supply, running water, and clean clothes. To get these "Industrial Age" wonders, they dreamed up an economic policy called mass-production.
-
-The era of mass-production started when the steam engine powered the world's first production lines in the late 1700s. The clocklike movement of wheels, lathes, drills, and presses were mass-producing trains, clothes, and newspapers. They still however needed a lot of manpower. Throughout the 18th to 20th centuries, millions of farmers, craftsmen, and other specialists left their jobs to work at the thousands of factories being built around the world.
+But the era of mass-production could only startd when the steam engine powered the world's first production lines. Only then could the clocklike movement of wheels, lathes, drills, and presses mass-produce clothes, newspapers, and trains. These machines still however needed a lot of manpower. Throughout the 18th to 20th centuries, millions of farmers, craftsmen, and other specialists left their jobs to work at the thousands of factories being built around the world.
 
 Henceforth, most of Main Street worked huge machines of the production line. Coordinating every device, supply chain, and worker required a lot of oversight by a lot of managers. There was no other way to be sure all workers were organized to the strict rhythm of the production line. So, while ordinary people were benefiting from newer and better products, they had to sacrifice their individuality.
 
-Mass-production is when one-sided jobs with rigid oversight became embedded in our culture. In early assembly lines, supervisors even inspected toilets to be sure workers weren't lying.
+Mass-production is when one-sided jobs with rigid oversight became embedded in our work culture. In early assembly lines, supervisors even inspected toilets to be sure workers weren't lying.
 
 It sounds ridiculous, but it shows how vital coordination was. Workers were merely extensions of a great machine taking their society up from poverty. Any kink in the chain was a delay in the assembly line that might cause the whole factory to stop.
 
@@ -797,19 +793,45 @@ Look below, and you'll see how our factory working ancestors lived.
 
 Mass-production started in Britain and America. Big Government helped guide and regulate the Big Business that were running the factories. Corporations kept growing and installed colossal production lines and supply chains that spread across the globe to maximize how much stuff we could make. This era of mass-production chipped away at "Main Street" economics by centralizing production inside a few companies.
 
-If you've ever watched business news, and their per second stock price changes, remorseless take-over bids, and vicious drive for profits, you've seen how hard it is for a big company to stay alive in the Industrial Age. Mass-production only lets a few companies exist.
+However, when you look at the video clips above, it's easy to realize something very important. We don't ride horses anymore. Nor do we work shoulder to shoulder sewing dresses. In fact, we live in the world our ancestors dreamed of making. We have pave roads, sanitation systems, fresh water in our homes, steel reinforced buildings.
 
-However, when you look at the video clips above, it's easy to realize something very important, and obvious too. We don't ride horses anymore. Nor do we work shoulder to shoulder sewing dresses. In fact, we live in the world our ancestors dreamed of making. We have pave roads, sanitation systems, fresh water in our hoems, steel reinforced buildings.
+However, the era of mass-production is where antagonists want us to stay.
 
-All because those who came before us upgraded to Left/Right philosophies, and adopted to the era of mass-production. Their willingness to evolve got us to the Internet Age.
+## Holdover
 
-And now that we're here, we've unlocked a new economic policy.
+As a kid, I helped my family clean office buildings. My simple role was to pick up the garbage and recycling bins. Other than still hating the smell of old coffee, I really appreciate growing up doing honest work. Years later, when working at a big office, the cleaners were short-staffed for a few weeks. Management spent hours meeting about and discussing the "garbage problem" instead of just wrapping it up (pun intended) and moving on.
 
-The era of mass-collaboration.
+This little story helps explain an important point.
+
+We don't work on the assembly line with bulky steam engines or massive presses. Much of industrial production is automated (or, sadly, outsourced). Most Westerners work in the [inside in hospitals, retail stores, or in an office](https://www.bls.gov/emp/tables/employment-by-major-industry-sector.htm). And especially since personal computers, smartphones, and high-speed internet got so cheap and common, many workers don't need to work shoulder to shoulder any more.
+
+Yet, we still value the micro-management of the production line. In fact, to earn a better living today usually means to "move up" and get a higher position inside management. Although they're sometimes gatekeepers, most of the "eight different bosses" are ordinary people looking to better feed their families.
+
+Regardless, this is where antagonists come from. They're well-paid by the Industrial Age, and thus try to keep it alive as long as they can.
+
+Even if it drives our economy to shit, and makes our jobs suck.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FavorableDamagedFirefly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+<a href="https://gfycat.com/ifr/FavorableDamagedFirefly'" target="_blank" class="button small">Reader</a>
+
+_Digital technology automated much manufacturing and office work. But we've held onto the management culture of the era of mass-production. "Suffering" based employment will go away in the era of mass-collaboration. Credit: [Wisecrack](https://www.youtube.com/watch?v=_Lngf3J8vN4)_
 
 ## Upgrade
 
-Digital devices enable a new economic policy, one that fosters not a competition, but collaboration. We can readily share and contribute to each other's work because as already discussed, digital property never spoils and it can be accessed from anywhere.
+And that puts Left/Right and the era of mass-production in context. Together, they brought us up from poverty. Yet, like everything in the game of civilization, it wasn't supposed to last forever.
+
+Technological evolutions means we must upgrade our politics and economics too. Enter the Internet age.
+
+In fact, the Internet Age seeded itself a long time ago. Starting way back in 1843, inventors like Ada Lovelace, Vannevar Bush, and Alan Turing were building the first experimental computers. At the same time, writers like H.G. Wells, Isaac Asimov, and Gene Roddenberry imagined what life would be like once the Industrial Age ended and advanced computers ruled the world.
+
+These authors' stories, such as _War of the Worlds_, _I, Robot_, and _Star Trek_ thought of a future so hard to grasp people called it science fiction. Then came the 1970s; when microprocessors, personal computers, the internet, and other digital technology became actual products on store shelves.
+
+Here started the Internet Age. And it transformed the world just as much as science fiction said it would.
+
+With every purchase, renovation, and birthday gift since 1970, we've been filling our society with fundamentally different technology. It's easy to under-appreciate how a single laptop can be so many machines: a typewriter, radio, book, television, photo album, calculator, draft table, voice recorder. One modern person easily has all these capabilities at her disposal. An Internet Age person can be very self-sufficient.
+
+Digital devices thus enable a new economic policy, one that fosters not a ceaseless competition like in the Industrial Age, but digital collaboration. We can readily share and contribute to each other's work to our mutual benefit, because, as already discussed, digital property never spoils and it can be accessed from anywhere.
 
 There's good reason for everyone to collaborate. Working online saves us from the redundant work of mechanical tools. For example, with Wikipedia, the world can use one website for its general knowledge, instead of reprinting, shipping, and buying millions of encyclopedia books every year.
 
@@ -819,9 +841,13 @@ Because of digital property, humanity can contribute to a continuously updated r
 
 You can already see this new economy already forming. Several generations into the Internet Age, items like smartphones, laptops, and smartwatches are everywhere. That's why the collaboration websites like WikiHow, WhatsApp, and Quora integrate so easily into our lives.
 
-Moreover, we should collaborate because we don't work on the assembly line with bulky steam engines or massive presses. Much of industrial production is automated (or, sadly, outsourced). Most Westerners work in the [inside in hospitals, retail stores, or in an office](https://www.bls.gov/emp/tables/employment-by-major-industry-sector.htm). And especially since personal computers, smartphones, and high-speed internet got so cheap and common, many workers don't need to work shoulder to shoulder any more.
-
 Mass-collaboration is today's big picture, the basic principle of the Internet Age's economics. The people who understand this best are the open-source community.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/EnragedEverlastingDunnart' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+<a href="https://gfycat.com/ifr/EnragedEverlastingDunnart" target="_blank" class="button small">Reader</a>
+
+_Per the great Jeff Goldblum, "Life finds a way." Likewise, humanity always finds a way to kill the unhappiness of doing bullshit jobs. We smile most when making a contribution to our society. Because even small ones means we're helping humanity win the game of civilization. Credit: [Wisecrack](https://www.youtube.com/watch?v=_Lngf3J8vN4)_
 
 ## The Open-Source Community
 
