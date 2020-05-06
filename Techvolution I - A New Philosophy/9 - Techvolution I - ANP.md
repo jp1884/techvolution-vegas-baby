@@ -617,19 +617,19 @@ The answer to countering hateful ideologies is to upgrade our philosophy to the 
 
 Sadly, in history, upgrading only happens when old doctrines kill each other off. The Thirty Years War (1618-1648) is an all too good example. This horrible war between European kingdoms was fought during the Science Age. Sadly, politics hadn't upgraded yet. Europe was still run by a powerful nobility preaching the Medieval Age philosophy of "a nobles divine right to rule."
 
-When Main Street demanded a better life, the "divine right to rule" ruling philosophy only gave them two options to choose from; Catholicism and Protestantism. Regular people picked a team and slaughtered "the other side" on behalf of "divine" kings. Historian Peter H. Wilson summarized The Thirty Years War as "a warning of the dangers of entrusting power to those who feel summoned by God to war, or feel that their sense of justice and order is the only one valid."
+When Main Street demanded a better life, the "divine right to rule" ruling philosophy only gave them two options to choose from; Catholicism and Protestantism. Regular people picked a team and slaughtered "the other side" on behalf of "divine kings". Historian Peter H. Wilson summarized The Thirty Years War as "a warning of the dangers of entrusting power to those who feel summoned by God to war, or feel that their sense of justice and order is the only one valid."
 
 [The Hanging](https://techvolution.io/content/images/2020/04/The_Hanging_by_Jacques_Callot.jpg)
 
 _The Hanging by Jacques Callot. Created between 1632 and 1633 to show how regular people were treated by both "sides" during the war. Credit: [Wikipedia](https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre)._
 
-The Thirty Years War was extremely brutal. One in five Europeans died from its pillaging, battles, and massacres. The carnage only stopped when both sides were exhausted. The worst part was when the horror ended, the people realized they were no better off, and their problem was, in fact, being ruled by kings. That's why philosophers soon wrote an upgraded philosophy of Democracy. It wasn't long until it clicked between ordinary people, who therefore adopted Democracy as their new ruling philosophy. As player gods, the people fought against divine kings in the American Revolution (1776), the French Revolution (1789), and many more uprisings afterward.
+The Thirty Years War was extremely brutal. One in five Europeans died from its pillaging, battles, and massacres. The carnage only stopped when both sides were exhausted. The worst part was when the horror ended, the people realized they were no better off, and their problem was, in fact, being ruled by any and all kings. That's why philosophers soon wrote an upgraded philosophy of Democracy. It wasn't long until it clicked between ordinary people, who therefore adopted moderized Democracy as their new ruling philosophy. As player gods, the people fought against divine kings in the American Revolution (1776), the French Revolution (1789), and many more uprisings afterward.
 
 The hatred between Catholics and Protestants should sound scarily similar. Today's fights over presidential impeachments, border walls, and trigger words are a smokescreen. Left and Right hate each other because neither can see or admit they're both behind the times in our modern age.
 
-The ray of sunshine is, moderate Progressives and Conservatives are still the vast majority of people out there today. While many reasonable people find motivation in Left or Right ideologies, they concentrate on real-world problem solving and not ideological purity. Thus, it's much easier for moderate citizens to discard ideology, compromise, and "reach across the aisle" to solve a problem.
+The ray of sunshine is, most people out there today are moderate Progressives and Conservatives. While they these reasonable people find motivation in Left or Right ideologies, they concentrate on real-world problem solving and not ideological purity. Thus, it's much easier for these moderate citizens to discard ideology, compromise, and "reach across the aisle" to solve a problem, and then tackle the next issue on the list.
 
-However, as we keep using more Internet Age technology, it gets harder to rationalize aging ideological beliefs. The result is many moderate minded people abandoning politics, while loyalists watch the 24/7 media circus that's making our society hate itself.
+However, as we keep using more Internet Age technology, it gets harder to rationalize aging ideological beliefs. The result ideological loyalists watch the 24/7 media circus that's making our society hate itself, and moderate people keeping on abandoning politics all together.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J2Pjudf0810?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -741,37 +741,37 @@ _Like magic, or the Force, this machine can make face-masks, wrenches, replaceme
 
 Techvolution gives us the power to upgrade our society. With this new philosophy, every person on Main Street has the right and duty to upgrade their society with the almost magical possibilities of computers and the internet.
 
-Yet there is something missing.
+Yet, there is something very important missing.
 
-Techvolution is indeed the politics of the Internt Age. But politics doesn't open businesses, generate electricity, or grow food to eat. To really live in the Internet Age, we must also upgrade our economics. Only with a modernized way to work, play, and grow families will me and you ever be happy with our society like our ancestors were.
+Techvolution is indeed the politics of the Internt Age. But politics doesn't open businesses, generate electricity, or grow food to eat. To really live in the future, we must also upgrade our economics. Only with a modernized way to work and grow families will me and you ever be happy with our society again.
 
-We'll change our economics by learning a familar lesson. Being a consumer or employee makes us just as poweless as being a Left/Right ideologue. Your true economic power comes by deciding who gets your labour and money.
+We change our economics by learning a familar lesson. Your true economic power isn't being a consumer or becoming an employee with benefits and a retirement fund. Your choices either make you powerful or not. And in economics your choices means getting to decide who gets your labour and money.
 
-And just like in economics, to increase your economic influence, we must do it with levers of power that let you control exactly who you work for, whose products you buy, and under what terms you make these deals. This new economy is a place where individuals are as powerful as Big Business or Big Government. Making this Main Street so empowered is the goaline that Techvolution must fight for.
+To increase your economic influence, we must do it with levers of power that let you control exactly who you work for, whose products you buy, and under what terms you make these deals. This new economy is a place where individuals are as powerful as Big Business or Big Government. Making this Main Street so empowered is the goaline that Techvolution must fight for.
 
-Happily, you'll already starting to live in the economy of the future. And we have the internet protagonists to thank for building it.
+Happily, you'll already starting to live in the economy of the future. And we have the modern day protagonists to thank for building it.
 
 ## Economic Upgrade
 
-Internet Age economics is centered on two simple facts: digital property doesn't expire and it can be shared with anyone in the world. These innovations mean everyone, forever, can continually add to a single source of truth, like Wikipedia, instead of rewriting, reprinting, and rebuying enclyclopedias every year.
+Internet Age economics is centered on two simple facts: digital property doesn't expire and it can be shared with anyone in the world. These innovations mean everyone, forever, can continually add to a single source of truth, instead of rewriting, remaking, and rebuying the same old stuff year after year.
 
 If YouTube existed in Issac Newton's time, we'd all be learning about gravity from his videos.
 
 If you can imagine how cool that is, you'll appreciate why the economic policy of the future is called digital mass-collaboration.
 
-But before we can learn more about the economy of tomorrow, we must understand the Industrial Age economy its going to replace. As a fun bonus, we'll also get to see where antagonists come from too.
+But before we can learn more about the economy of tomorrow, we must understand the Industrial Age economy its going to improve. As a fun bonus, we'll also get to see where antagonists come from too.
 
 ## The Era of Mass-Production
 
-The Industrial Age started in the late 1700s. If you time travelled and "looked down" on society back then, you'd see a much different.
+The Industrial Age started in the late 1700s. If you time travelled and "looked down" on society back then, you'd see a much different world.
 
-It was a time of mud roads, hand tools, and abacus calculators. Human perseverance and ingenuity filled in for very limited technology. Being hungry, sick, and cold was an all too common way of life back then.
+It was a time of mud roads, hand tools, and abacus calculators. Human perseverance and ingenuity filled in for very limited technology. Being sick, cold, and hungry was an all too common way of life back then.
 
-This world is where Left/Right ideologies shined. You see, Left/Right writers like Adam Smith, Edmund Burke, and John Stuart Mill lived on the frontline like everyone else. They too never had running water, antibiotics, or fresh food in the winter. Feeling frontline pain motivated these philosopers to create the Industrial Age player god. Conservatives and Progressives were very committed to curing their society's poverty.
+This world is where Left/Right ideologies shined. You see, Left/Right writers like Adam Smith, Edmund Burke, and John Stuart Mill lived on the frontline like everyone else. They too never had running water, antibiotics, or fresh food in the winter. Feeling society's pain motivated these philosopers to create the Industrial Age player god. Conservatives and Progressives were born to solve poverty.
 
-The same way we often dream of "Space Age" technology, the people inside the young Left/Right player god dreamed of year-round food supply, hot bath water, and communications that didn't need a horse. To get these technological wonders, player gods of the Industrial Age upgraded their society with an economic policy called mass-production.
+The same way we often dream of "Space Age" technology, the people who clicked together inside the young Left/Right player god dreamed of year-round food supply, hot bath water, and communications that didn't need a horse. To get these technological wonders, player gods of the Industrial Age upgraded their society with an economic policy called mass-production.
 
-As fortune would have it, mass-production already seeded itself. The technology needed to mass produce anything, the piston steam engine (1712), was invented well before Left/Right were even born. As engineers, technicians and other protagonists make piston power stronger, they created steam and belt engines. These engines powered lathes, drills, and presses. These machines were put together like clockwork to mass-produce clothes, newspapers, and trains. However, although steam powered production was much faster than traditional manual labour, machines still needed a lot of manpower to work.
+As fortune would have it, the technology needed to mass produce anything, the piston steam engine (1712), already seeded the economic policy of mass-production. As engineers, technicians and other protagonists make piston engines more powerful, they created powered lathes, drills, and presses. These machines were put together like clockwork into production lines to mass-produce clothes, newspapers, and trains. However, although steam powered production was much faster than traditional manual labour, machines still needed a lot of manpower to work.
 
 That's why, throughout the 18th to 20th centuries, millions of farmers, craftsmen, and other specialists left their jobs in villiages and towns to work at one of the many factories being built in the cities of the world.
 
@@ -897,7 +897,9 @@ All because open-source heroes put new apps and electronics in both our hands.
 
 The tech community calls this disruption. While disruption has thankfully torn down many gates. It mainly replaced low-hanging fruit like consumer goods. To keep ushering us into the Internet Age, we need to upgrade disruption with Techvolution. Only a society full of player gods will finally turn the fantastic world of science fiction into Main Street's new reality.
 
-REACT BOILERPLATE
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RespectfulFlickeringAfricanbushviper' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+ _Here's a glimpse into the open-source community. Making money by solving problems together. Credit: [Honeypot](https://www.youtube.com/watch?v=ifq3xhik8tE)_
 
 ## The Era of Digital Mass Collaboration
 
@@ -1555,9 +1557,11 @@ But lawsuits, lobbying, and other techniques take time and money. It's better fo
 
 For example, muscle cars kept customers away from electric cars with techniques like mass advertising, fancy auto shows, and spectacular chromes plated V8 power! Electric vehicles like Tesla's are a new and better tool because they have far fewer parts and can be fueled using renewable energy. With a solar roof, player gods can even fuel their own vehicles.
 
-But because of intense marketing and muscle car culture in general, most Americans didn't (and sometimes still don't) see the majical potential of electric vehicles. Which is why I call anti-evolution persuasion techniques dark majic.
+But because of intense marketing and cultural bias in general, most Americans didn't (and sometimes still don't) see the majical potential of electric vehicles. Which is why I call anti-evolution persuasion techniques dark majic.
 
-Dark majic is the spectacle that surrounds today's Industrial Age tools. Soda marketing campaigns and credit card reward programs are easy examples. This fake majic is insidious. It gives people the joy of learning about technology but doesn't upgrade their cyborgology. Like a corrupted rule book, dark majic stalls our society in the game of civilization.
+Note, this doesn't mean muscle car culture is bad. It means the millions of people slogging themselve through bumper to bumper traffic everyday inside 300+ HP cars is silly. Instead of solving the underlying problem, a horrible commute, dark majic sugarcoats it with a old tool that might as well be a veil over our eyes.
+
+Dark majic is the spectacle that surrounds today's Industrial Age tools. Soda marketing campaigns and credit card reward programs are easy examples. This fake majic is insidious. It gives people the joy of learning about technology but doesn't upgrade their cyborgology. Dark majic rather sugar coats a bad life with false luxury. Like a corrupted rule book, dark majic stalls our society in the game of civilization.
 
 To destroy the Death Star Stargazer, we have to first remove the dark majic masks antagonists work so hard to put on us.
 
