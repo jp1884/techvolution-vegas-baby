@@ -979,7 +979,7 @@ This lopsided balance of power allows customers and employees to be taken advant
 
 The open-source community lets us fight back in three ways. First, it sets a great example because it entrusts everyone with all available information. Second, open-source wants more members, so the community loves to dismantle gates and distribute new tools to regular people. And third, since no one owns open-source technology, the people can empower ourselves with levers of power, only big institutions used to control. Such has call recordings and timesheets.
 
-Wouldn't you like to know if employees work unpaid overtime _before_ you apply to a job?
+Worplaces check your refereces (which is fair), but wouldn't you like to know if employees work unpaid overtime _before_ you apply to a job?
 
 Distributing the levers of power moves us into the Internet Age. It treats people like adults and expects them to act like it. And if they don't, well, it's not like they can complain about mistreatment. With digital technology, all the actions and contributions are recorded. Once records are open and transparent, a disgruntled person has to reference facts instead of conjecture and emotion.
 
@@ -995,19 +995,21 @@ Moreover, most people aren't bad customers either. In my experience (and this is
 
 With open-source, we have the technology to create our own levers of power to understand and enforce our warranty contracts, tax-laws, education systems, employment agreements, claim systems, and so on.
 
-So, when the school board or doctor's office says, "fill in these forms," we should begin to say, "No, I want to use my open-source app. With it, I control my own information. Don't worry, this app also lets us both see timelines, appointments, and rules. If you don't want to use it, then I'll move my business. But if you do, I look forward to working with you."
+Since 2000, 500,000 Americans have overdosed on opiods. Watch [The Pharmicist](https://www.netflix.com/ca/title/81002576) on Netflix, and you'll see how a simple online database of prescriptions stopped the oxycontin pill mills that started the epidemic. But it took 10 ears for Big Business and Big Goernment to make. With open-source software the public could have banded together, and in a few months built a secure and straightforward prescription database that would have prevented our friends and famlies from being devasted by a disgusing drug epidemic.
+
+The lesson is, when any institution, from a school board to doctor's office, says "fill in these forms," we should begin to say, "No, I want to use my open-source app. With it, I control my own information. Don't worry, this app also lets us both see timelines, appointments, rules, and communication. If you don't want to use it, then I'll move my business. But if you do, I look forward to working with you."
 
 Yes, it's perfectly okay for you to do that. It fact, it's your job as a player god.
 
-![old philosophy in a new world](https://techvolution.io/content/images/2020/04/github-repo-rails2.jpg)
+![Opiod epidemic](https://www.cdc.gov/drugoverdose/images/epidemic/2018-3-Wave-Lines-Mortality.png)
 
-_This is the [GitHub "repo" for Ruby on Rails](https://github.com/rails/rails/graphs/contributors), the open-source technology that runs apps like Basecamp, Airbnb, and Shopify. Visit that page, and you'll see all the thousands of people who've helped make the core technology, even though most have never met each other. Mass-collaboration is this simple and effective. And, this priceless software required almost no garbage meetings. That's why you're job will soon use mass-collaboration too._
+_This is one example of frontline pain. Frontline paid is what new technology is supposed to solve. To evolve solutions faster, Main Street must step up and become player gods who believe in a new philosophy. Credit: [CDC](https://www.cdc.gov/drugoverdose/epidemic/index.html)._
 
 ## Setting Up Our Story
 
-The world needed to change. We felt in the cold. We felt it in the hunger. We smelt it in the desperation. Humanity fought. We laboured in pre-robotic factories of the Industrial Age to evolve out of desperate poverty.
+The world needed to change. We felt in the cold. We felt it in the hunger. We smelt it in the desperation. Humanity fought for evolution as we laboured in the pre-robotic factories of the Industrial Age.
 
-After enough sacrifice was paid. When enough blood and sweat was spilled, we, everyone in Western Civilization, rich and poor a like, got to the summit, and unlocked computer technology to live a better way of life.
+After enough sacrifice was paid. When enough blood and sweat was spilled, we, everyone in Western Civilization, rich and poor a like, got to the summit, and unlocked the computer technology we needed to live a better way of life.
 
 The Internet Age was going to be marvellous. A place of easy education, simple regulations, and perhaps the best part, a place where ordinary people would work fulfilling jobs and enjoy happy lives.
 
@@ -1016,23 +1018,23 @@ Yet this dream was not allowed to be.
 ![old philosophy in a new world](https://techvolution.io/content/images/2020/04/GWRegStudies-PagesPublishedintheCFR-6.12.19.png)
 _Federal government regulations. Another example of all the "Death Star" rules our Industrial Age establishment makes._
 
-Because the protagonists of the Industrial Age buckled to hubris, and succumbed to complacency. Darth Blockbuster thus forged in secret, a rulebook to keep his Industrial Age levers of power in control. These rules concentrated the legal departments, HR reps, corporate lobbyists of the Industrial Age as a Death Star to evolution and change.
+Because the protagonists of the Industrial Age buckled to hubris, and succumbed to complacency. Darth Blockbuster thus forged in secret, a huge and vast rulebook to keep his Industrial Age levers of power in control. These rules concentrated the legal departments, HR reps, corporate lobbyists of the Industrial Age as a Death Star to evolution and change.
 
 Yet there were some who resisted.
 
-An open-source alliance of coders and designers rallied against the forces of stagnation. On the streets of America they fought for the freedom of middle-class.
+An open-source alliance of coders and designers rallied against the forces of stagnation. On the streets of America they fought for the freedom of the middle-class.
 
 Free and easy to use websites, apps, and technologies empowered the entire world to evolve to a digital mass-collaboration economy. The people loved it. Apps and iPhones spread across the world.
 
 Victory was near!
 
-Yet, the powers of Lord Blockbuster could not be undone. The Industrial Age way of life, with its Left/Right political pettiness, consumerism of useless products, and worst of all, its bullshit jobs, were forced on society with the blasts of the mighty Death Star. The world would not evolve. And thus, the climate started to change, economic growth started to stall, and the people were so unhappy that depressions and despair covered the land.
+Yet, the powers of Lord Blockbuster could not be undone. The Industrial Age way of life, with its Left/Right political pettiness, consumerism of useless products, and worst of all, its bullshit jobs, were forced on society with the blasts of the mighty Death Star. The world would not evolve. And thus, the climate started to change, economic growth started to stall, and the people were so unhappy that drugs, depression, and despair covered the land.
 
 It was in this moment. When all hope was lost, when the dreams of the Internet Age had faded, when the chance to evolve seemed gone, that something happened the antagonists did not intend.
 
 You picked up this book.
 
-In the hands of you, dear reader, is Techvolution, and thus the power to change the world. Society needs you to make an Internet Age player god by funding the new levers of power. Only the, will we blow up Darth Blockbuster's super-weapon and evolve.
+In the hands of you, dear reader, is Techvolution. The new philosophy you need to blow up Darth Blockbuster's super-weapon and evolve new open-source technologies to solve society's many frontline problems..
 
 For the time has come when ordinary people will shape the fortunes of all the in never-ending game of civilization.
 

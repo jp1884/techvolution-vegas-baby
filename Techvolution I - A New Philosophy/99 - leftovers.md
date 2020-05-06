@@ -3050,3 +3050,7 @@ It sucked trying to explain the nonsense. These customers paid their bills, and 
 _Credit: [Cast Away](https://en.wikipedia.org/wiki/Cast_Away)._
 
 There is no good reason why my customers had to wait. But like I said above, powerful managers and executives won't give regular people a fair deal if they don't have to.
+
+![Git-Hub Rails](https://techvolution.io/content/images/2020/04/github-repo-rails2.jpg)
+
+_This is the [GitHub "repo" for Ruby on Rails](https://github.com/rails/rails/graphs/contributors), the open-source technology that runs apps like Basecamp, Airbnb, and Shopify. Visit that page, and you'll see all the thousands of people who've helped make the core technology, even though most have never met each other. Mass-collaboration is this simple and effective. And, this priceless software required almost no garbage meetings. That's why you're job will soon use mass-collaboration too._
