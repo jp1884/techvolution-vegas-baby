@@ -59,11 +59,11 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the Reader
 
-I used lots of online videos and pop culture references in this book. I wanted to write a more academic book, but life didn't workout that way, and I found using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. In all cases, all due credit goes to the media's owners. Please keep in mind, you'll have to press play on the YouTube videos, and enable sound on the GIFs.
+I used lots of online videos and pop culture references in this book. I found using familiar stories is a more natural way to explain philosophy, politics, and in general, to relate to one another. In all cases, all due credit goes to the media's owners. Please keep in mind, you'll have to press play on the YouTube videos, and enable sound on the GIFs.
 
 Also note, I've finished writing the majority of the book, but I'm still getting reader feedback. If you like to contribute your thoughts on anything, you can [email me](mailto:techvolution@outlook.com) or, fitting to internet culture, you can write on this webpage by clicking "edit", then the paragraph you want to comment/edit. You can make an account on this website or not, that's up to you.
 
-I tried catching all the grammatical errors. If I missed any, it would be helpful if you'd make a quick note or correction. I'd especially appreciate knowing if the writing gets slow. I'd love to shave as many pages from this book as possible before paying an editor to polish the final draft.
+I haven't sent this to a editor yet for the final polish yet. If you spot any grammatical errors it would be helpful if you made a quick note. I'd especially appreciate knowing if the writing gets slow.
 
 Lastly, keep in mind all web browsers have "reader" modes that let you customize the screen. For Firefox press _F9_, Safari/Edge _Command-Shift-R_. Chrome makes you install an [extension](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh). Some readers disable videos, so I put a link to them so you can still tap and watch.
 
@@ -79,7 +79,7 @@ On the bright side, we have Netflix.
 
 Thanks to our beloved online streaming, our pandemic worries are easily replaced with tales of passionate love, fantastic magic spells, and galaxies far far away.
 
-Netflix is so compelling because stories are so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. There is no debate. We take the protagonists side. This moral clarity tells us precisely who the heroes and villains are, and therefore lets us commit our emotions.
+We find Netflix is so compelling because stories are so simple. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. There is no debate. We take the protagonists side. This moral clarity tells us precisely who the heroes and villains are, and therefore lets us commit our emotions.
 
 We can cherish Romeo and Juliet because we know their love is beautiful and worth dying for! While their families' rivalry is ignorant and stupid. We get why Luke Skywalker's rebellion is righteous and worth fighting for! And know Darth Vader's empire is hellish and must be destroyed.
 
@@ -741,13 +741,13 @@ _Like magic, or the Force, this machine can make face-masks, wrenches, replaceme
 
 Techvolution gives us the power to upgrade our society. With this new philosophy, every person on Main Street has the right and duty to upgrade their society with the almost magical possibilities of computers and the internet.
 
-Yet, there is something very important missing.
+Yet, something very important is missing.
 
-Techvolution is indeed the politics of the Internt Age. But politics doesn't open businesses, generate electricity, or grow food to eat. To really live in the future, we must also upgrade our economics. Only with a modernized way to work and grow families will me and you ever be happy with our society again.
+Techvolution is indeed the politics of the Internt Age. But politics doesn't open businesses, generate electricity, or grow food to eat. To live in the future, we must also upgrade our economics. Only with a modernized way to work and grow families will me and you ever be happy with our society again.
 
-We change our economics by learning a familar lesson. Your true economic power isn't being a consumer or becoming an employee with benefits and a retirement fund. Your choices either make you powerful or not. And in economics your choices means getting to decide who gets your labour and money.
+We change our economics by learning a familar lesson. Your true economic power isn't being a consumer or an employee. Your economic choices either make you powerful. And in economics your choices means getting to decide who gets your labour and money.
 
-To increase your economic influence, we must do it with levers of power that let you control exactly who you work for, whose products you buy, and under what terms you make these deals. This new economy is a place where individuals are as powerful as Big Business or Big Government. Making this Main Street so empowered is the goaline that Techvolution must fight for.
+To increase your economic power, we must create levers of power that let you control exactly who you work for, whose products you buy, and under what terms you make these deals. This new economy is a wonderful place. A place where individuals are as powerful as Big Business or Big Government. Empowering Main Street so much is the goaline that Techvolution must fight for.
 
 Happily, you'll already starting to live in the economy of the future. And we have the modern day protagonists to thank for building it.
 
@@ -1135,6 +1135,9 @@ Because despite already having the digital technology to improve our lives, anta
 
 To improve our days then, the people need Techvolution. A new ruling philosophy that says improving our society is our right and our duty.
 
+![old philosophy in a new world](https://techvolution.io/content/images/2020/04/suburbs-idealized.jpg)
+_This is our idealized suburb, where where most of us live today. And it's filled with antagonists. Newspaper pundits, infotainment broadcasters, oil for transportation, gas cars, k-university education, mortgages, and other powerbrokers, are today's Industrial Age holdovers_
+
 ## To Upgrade Our Civilization We Need To Reach for the Tools
 
 Do you love stories? I think it's a safe bet to say that you do. Who doesn't? They entertain us after a hard day of work, bring us together to share our joys, and (my favorite), open our minds to the different rules, philosophies, and technologies of foreign cities, mythical worlds, and galaxies far far away.
@@ -1155,31 +1158,19 @@ Because only when we fund our own open-source powered content, apps, and electro
 
 _Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, Unsplash._
 
-## Player Gods Reach for the Tools and Don't Chase Phantoms
+You maybe thinking I'm talking about a revolution. I'm not.
 
-Many people know what a revolution is. It's a sudden uprising to change the rule-makers in government. Techvolution is different. Instead of fighting for change, Techvolution simply distributes new levers of power. Techvolution is better. Because those with the power get to make the rules. So why not go for the gold right away?
-
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/IgnorantCheerfulBilby' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>(https://gfycat.com/nauticallegalangora)
-
-<a href="https://gfycat.com/ifr/IgnorantCheerfulBilby" target="_blank" class="button small">Reader</a>
-
-_Different time-periods have different lifestyles that need new philosophies to keep solving frontline problems. Credit: Men of Honor, Gangs of New York, Cold Mountain, Far and Away, Dances with Wolves, The Office, Office Space, Wisecrack._
-
-This is what America, Canada, Britain, and much of the world looked like in the 1800s. A time of mud roads, hand tools, and abacus calculators. Human perseverance and ingenuity filled in for limited technology. Being hungry and sick, cold, and tired was an all too common way of life back then. These people dreamed of owning some land and having the tools to work it. Or later on, ordinary people dreamed of getting a job in a factory and renting an apartment in the city.
-
-This video is important to see. Left/Right aren't evil ideologies. Both were designed to turn nothing into something. Their writers like Adam Smith, Edmund Burke, and John Stuart Mill also never had running water, listened to the radio, made a phone call, opened a fridge, took penicillin, started a motor, typed on a keyboard, or learned about evolution.
-
-Their philosophy was designed to upgrade society so everyone in the world would get better tools, and thus a better life.
-
-However, today, we live inside the world the Industrial Age dreamed of making. Yet by keeping Left and Right as our ruling philosophy, our rulebook is still focused on promoting the industrialization of society even though were generations into the Internet Age.
+A revolution is a sudden uprising to change the rule-makers in government. Techvolution is totally different. Instead of fighting for change, Techvolution simply distributes new levers of power. Techvolution is better. Because those with the power get to make the rules. So why not reach for the gold right away?
 
 Happily, we've already been evolving ourselves into the modern era.
 
-That's the reason we're so addicted to new technology. Checking news feeds, flying drones, taking endless photos, playing hours of computer games are acts of extras mastering the tools of player gods. Our ancestors did the same. They read many printed books, used scientific instruments, worked the land with metal tools, and owned muskets. At first, these were merely addictive toys until new philosophies turned them into the lightsabers that finally brought down the nobility of the Medieval Age.
+That's the reason we're so addicted to new technology. Checking news feeds, flying drones, taking endless photos, playing hours of computer games are acts of extras mastering the tools of player gods. Our ancestors did the same thing when they read many printed books, used scientific instruments, worked their own homesteads and owned muskets. At first, these were merely addictive toys until new philosophies turned them into the lightsabers that finally brought down the nobility of the Medieval Age.
 
 When regular people could read unknown history, see the Universe for themselves, work their own land, and revolt against royalty, the game was won.
 
-Our addicting toys are also new levers of power. They're so powerful, we can use these proverbial lightsabers to earn a happier life. We will, once we stop chasing Left/Right phantoms, adopt Techvolution, and buy our own levers of power. Only then will we defeat antagonism and upgrade to the Internet Age.
+Our addicting toys are also new levers of power. They're so powerful, we can use these proverbial lightsabers to earn a happier life today!
+
+We will, once we stop chasing Left/Right phantoms, adopt Techvolution, and buy our own levers of power. Only then will we defeat antagonism and upgrade to the Internet Age.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CY9-y5zZkxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
