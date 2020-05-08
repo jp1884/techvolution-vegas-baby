@@ -824,7 +824,7 @@ We don't work on the assembly line with bulky steam engines or massive presses. 
 
 Yet, we still value the micro-management of the production line.
 
-In fact, to earn a better living today usually means to "move up" and get a higher position inside management. Thus, although they're sometimes gatekeepers, most of the "eight different bosses" are ordinary people looking to better feed their families.
+In fact, to earn a better living today usually means to "move up" and get a higher position inside management. Thus, although they're sometimes gatekeepers, most of the "eight different bosses" are ordinary people looking to better feed their families. And it's not like they love working with their own bureaucracy anymore than people outside love dealing with them.
 
 Regardless, this is where antagonists come from.
 
@@ -878,7 +878,7 @@ Mass-collaboration is today's big picture, the basic principle of the Internet A
 
 <a href="https://gfycat.com/ifr/EnragedEverlastingDunnart" target="_blank" class="button small">Reader</a>
 
-_Per the great Jeff Goldblum, "Life finds a way." Likewise, we hate doing the BS jobs antagonist make us to, to justity staying with the policy of mass-production. To smile more, we need to adopt the economic policy of digital mass-collaboration. Open-source is how we can do it for ourselves. Credit: [Wisecrack](https://www.youtube.com/watch?v=_Lngf3J8vN4)_
+_Per the great Jeff Goldblum, "Life finds a way." Likewise, we hate doing the BS jobs antagonist have us do, to justity staying with the policy and culture of mass-production. To smile more, we need to adopt the economic policy of digital mass-collaboration. The open-source community is how we can upgrade ourselves. Credit: [Wisecrack](https://www.youtube.com/watch?v=_Lngf3J8vN4)_
 
 ## The Open-Source Community
 
@@ -888,27 +888,29 @@ These modern-day Jedi have given Main Street the levers of power we need to upgr
 
 Forget the bullshit jobs and eight different bosses. Cinderella can now stop praying her fairy godmother gets her past the palace gates because open-source has given everyone an invitation to the party of economic freedom.
 
-Open-source has blown the gates wide-open.
+For all intents and purposes, open-source has blown the gates wide-open.
 
-Look around and note the comedians producing their own podcasts. The parents who are educating their kids on Khan Academy. The moms learning how to repair iPads thanks to YouTube videos. The artists selling their products on Shopify websites. By distributing society's levers of power, open-source has turned many Industrial Age companies, products, and professionals into middlemen.
+Look around and note the comedians producing their own podcasts. The parents who are educating their kids on Khan Academy. The moms learning how to repair iPads thanks to YouTube videos. The artists selling their products on Shopify websites. By distributing society's levers of power, open-source has kickstarted the era of mass-collabroation and turned many Industrial Age companies, products, and professionals into middlemen.
 
 The open-source community has super-charged Main Street. No longer are we bound to be extras in the Industrial Age, hoping for a better life. Now we can become player gods in the Internet Age, making a better life.
 
-I know from experience. Open-source helped make me a player god (and later we'll see a protagonist too). I'm a politics, history, and philosophy geek who spends far too much time thinking about this stuff. Because of easy to use digital tools I can write, research, host my work. I can very easily find world-class writers and illustrators to add a professional touch. Heck, think of the connection between you and I. You're reading my ideas with no middlemen and for virtually free.
+I know from experience. Open-source made me a player god (and later we'll see a protagonist too). I'm a politics, history, and philosophy geek who spends far too much time thinking about this stuff. Because of easy to use digital tools I can write, research, host my work. I can very easily find world-class writers and illustrators to add a professional touch. Heck, think of the connection between you and I. You're reading my ideas with no middlemen and for virtually free.
 
 All because open-source heroes put new apps and electronics in both our hands.
 
-The tech community calls this disruption. While disruption has thankfully torn down many gates. It mainly replaced low-hanging fruit like consumer goods. To keep ushering us into the Internet Age, we need to upgrade disruption with Techvolution. Only a society full of player gods will finally turn the fantastic world of science fiction into Main Street's new reality.
+The tech community calls this disruption. While disruption has thankfully torn down many gates. It mainly replaced low-hanging fruit like consumer goods. To keep ushering us into the Internet Age, we need to upgrade disruption with Techvolution and digital mass-collaboration.
+
+Only a society full of collaborating player gods will finally turn the fantastic world of science fiction into Main Street's new reality.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RespectfulFlickeringAfricanbushviper' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
- _Here's a glimpse into the open-source community. Making money by solving problems together. Credit: [Honeypot](https://www.youtube.com/watch?v=ifq3xhik8tE)_
+ _Here's a glimpse into the open-source community. They make more money by solving more problems together. Credit: [Honeypot](https://www.youtube.com/watch?v=ifq3xhik8tE)_
 
 ## The Era of Digital Mass Collaboration
 
 With all this in mind, the digital mass-collaboration economy is already here and growing. It typically goes by the name share economy, crowd-sourcing, or Wikinomics. I call it the return of Main Street economics, and it's sweeping through our society.
 
-Before the Industrial Age, when you spoke with an innkeeper, taxi driver, blacksmith, there was nobody "above" them except perhaps the owner or master craftsman.  That's why Airbnb gives innkeepers, Uber gives coach drivers, and Etsy gives artists back the levers of power and lets them control their own business again. As mass-production kept increasing with faster machines, modern technolgy will continue to distribute new apps, electronics, and economic freedom to all other frontline specialists like programmers, underwriters, and contractors.
+Before the Industrial Age, when you spoke with an innkeeper, taxi driver, blacksmith, there was nobody "above" them except perhaps the owner or master craftsman.  That's why Airbnb gives innkeepers, Uber gives coach drivers, and Etsy gives artists back the levers of power and lets them control their own business again. As modern technolgy gets better, it will continue to distribute new apps, electronics, and economic freedom to all other frontline specialists like programmers, underwriters, and contractors.
 
 In addition to popular apps like Airbnb and Etsy, there are countless examples of mass-collaboration in the open-source community alone. The community comes together to make a core technology. [Programmers help where their skills are best suited](https://opensource.guide/how-to-contribute/). First-timers are often nervous, but soon feel a rush as they see their work improve a project. Working together, a single community makes an excellent piece of software no one would have if they worked alone.
 
@@ -922,15 +924,15 @@ For example, a large open-source community creates [MediaWiki software](https://
 
 _Some of the more famous open-source projects. Most of this software, worth many billions of dollars, you can download and use for free. If you can't program, it only takes hiring a few to get whatever product you can imagine._
 
-All this praise doesn't mean open-source communities are perfect and can run the world. It has problems. Mainly it's people can be too rude, and [it's too easy to free-load off its contributors](https://www.youtube.com/watch?v=MO8hZlgK5zc), discouraging growth.
+All this praise doesn't mean open-source communities are perfect and can run the world. It has problems. Mainly it's people can be too rude, with no central ownership projects can quickly die off, [it's too easy to free-load off its contributors](https://www.youtube.com/watch?v=MO8hZlgK5zc), discouraging growth.
 
-That's why open-source is only a part of the ecosystem bringing the Internet Age and mass-collaboration to life. There will always be significant energy, manufacturing, and mining companies with large corporate structures, mass-producing our essential products. Likewise, the government will always run social programs and install traffic lights.
+That's why open-source is only a part of the ecosystem bringing the Internet Age and mass-collaboration to life. There will always be significant energy, manufacturing, and mining companies with large corporate structures, mass-producing our essential products. There are plenty of business sector that need Big Business. Likewise, the government will always run social programs and install traffic lights.
 
 With that in mind, however, open-source is vital.
 
 Precisely because nobody owns its educational content, server software, operating systems, web apps, and so many other remarkable technologies. That means gatekeepers can't stop digital inventors from empowering more player gods. Whether it's with a simple rotating list of persons to take out the trash. An online encyclopedia with millions of helpful articles. Or software to give society internet streaming—as when a few hackers tore down "Darth Blockbuster's" gate when he tried to keep us buying and borrowing his DVDs.
 
-To continue opening gates, building the era of mass-collaboration, and ushering us into the Internet Age, the open-source community needs our support. We can't ask any more of them. The Jedi have done their job.
+To continue opening gates, building the era of digital mass-collaboration, and ushering us into the Internet Age, the open-source community needs our support. We can't ask any more of them. The Jedi have done their job.
 
 Main Street needs to step up and flock to the open-source banner and grab hold of the great levers of power they've made for us.
 
@@ -938,11 +940,11 @@ We can, once we become player gods.
 
 <iframe src="https://player.vimeo.com/video/366560857" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p><a href="https://vimeo.com/366560857">What is Figma?</a> from <a href="https://vimeo.com/user21703697">Enle Li</a> on <a href="https://vimeo.com">Vimeo</a></p>
 
-_Figma is a design tool for websites and apps. In the past, designers, writers, programmers all spoke through many managers. With Figma, worker-to-worker collaboration becomes super-easy. Management is lessened because anyone can review progress in real-time. Your workplace can, and will, one-day foster cooperation like this. And it's the open-source software that lets us build it for ourselves.
+_Figma is a design tool for websites and apps. In the past, designers, writers, programmers all spoke through many managers. With Figma, worker-to-worker collaboration becomes super-easy. The need for oversight and management is lessened because anyone can review progress in real-time. Your workplace can, and will, one-day foster cooperation like this. And it's the open-source software that lets us build it for ourselves._
 
 ## A Few Dollars to Buy the Internet Age
 
-Open-source lets Main Street make it's own content, apps, and electronics. We can empower bakers and butchers over factory food owners. Tailors and sewists over sweatshops. Store owners and clerks over franchises. And, engineers and designers over executive bean-counters.
+Open-source lets Main Street make it's own content, apps, and electronics. We can empower bakers and butchers over factory food. Tailors and sewists over sweatshops. Store owners and clerks over franchises. And, engineers and designers over executive bean-counters.
 
 I mean, wouldn't having a few urban farms in your suburb make you feel [a little more food secure right now](https://www.youtube.com/user/urbanfarmercstone/featured)?
 
@@ -952,13 +954,13 @@ The key to living in the era of mass-collaboration is for Main Street to start b
 
 Thus, tech companies, even giants like Google and Facebook, have to earn their money by selling ads, or worse, our data.
 
-Not paying for modern tools is ridiculous. We give thousands every year to Industrial Age companies like insurance companies and banks. We can all afford to pay open-source tech companies a few dollars. A few bucks are all it takes to control our content, apps, and lives.
+Not paying for modern tools is ridiculous. We give thousands every year to Industrial Age companies like insurance companies, banks, and universities. We can all afford to pay open-source tech companies a few dollars. A few bucks are all it takes to control our content, apps, and lives.
 
 Isn't that so funny? Open-source technology is so efficient, Main Street can become the player gods of the Internet Age, by paying a few dollars for our apps.
 
-Because, only when regular people fund a tool, do we get to make sure it solves our problems. Tax software, insurance claim systems, car maintenance records... we're the ones paying the bills anyway, so why shouldn't we be in the drivers seat?
+We have to pony up, because, only when regular people are the source of income, do we get to make sure it solves our problems. Tax software, employment contracts, insurance claim systems... we're the ones paying the bills anyway, so why shouldn't we be in the drivers seat?
 
-Only paying for the software directly, can we control the Internet Age levers of power.
+Only paying for the software and electronics directly, can we control the Internet Age levers of power.
 
 Buying a lever of power for a few dollars is a major bargain. When the middle-class steps up, we'll finally tear down the gates of the Industrial Age, become player gods, and live in the era of mass-collaboration.
 
@@ -970,7 +972,7 @@ All for a few bucks.
 
 <a href="https://www.youtube-nocookie.com/embed/ggrkTLEfFXA" target="_blank" class="button small">Reader</a>
 
-_This is Louis Rossmann. He owns an electronics repair business. He's a YouTuber who teaches people how to repair electronics. When Louis needed a new store location, he went to a big company but got better help online from a stranger. All because both persons control their own software._
+_This is Louis Rossmann. He owns an electronics repair business. He's also a YouTuber who teaches people how to repair electronics. When Louis needed a new store location, he went to a big company but got better help online from a stranger. All because both persons control their own software._
 
 ## Economic Levers of Power
 
@@ -978,29 +980,35 @@ Currently, when you phone a call center, everything is recorded. The company has
 
 Access to things like phone recordings and timesheets are levers of power because they control resources. Today management and corporations put "gates" around the levers out of self-defense. Is there a good reason why customers can't confirm what was agreed to during their last phone call? Why can employees be grilled for a long lunch when the same manager quickly forgets unpaid overtime.
 
-This lopsided balance of power allows customers and employees to be taken advantage of, encouraging mistrust, lackluster products, and inefficient workplaces. Uneven power makes mass-collaboration impossible.
+This lopsided balance of power allows customers and employees to be taken advantage of, encouraging mistrust, lackluster products, and inefficient workplaces.
 
-The open-source community lets us fight back in three ways. First, it sets a great example because it entrusts everyone with all available information. Second, open-source wants more members, so the community loves to dismantle gates and distribute new tools to regular people. And third, since no one owns open-source technology, the people can empower ourselves with levers of power, only big institutions used to control. Such has call recordings and timesheets.
+Uneven power makes mass-collaboration impossible.
 
-Worplaces check your refereces (which is fair), but wouldn't you like to know if employees work unpaid overtime _before_ you apply to a job?
+The open-source community lets us fight back in three ways. First, it sets a great example because it entrusts everyone with all available information. Second, open-source wants more members, so the community loves to dismantle gates and distribute new tools to regular people. And third, since no one owns open-source technology, the people can empower ourselves with levers of power, only big institutions used to control; such has call recordings and timesheets.
 
-Distributing the levers of power moves us into the Internet Age. It treats people like adults and expects them to act like it. And if they don't, well, it's not like they can complain about mistreatment. With digital technology, all the actions and contributions are recorded. Once records are open and transparent, a disgruntled person has to reference facts instead of conjecture and emotion.
+Worplaces check your refereces (which is fair), but wouldn't you like to know if employees work unpaid overtime _before_ you apply to a job? What about sexual harrassment allegations?
+
+Distributing the levers of power moves us into the Internet Age. It treats people like adults and expects them to act like it. And if a person doesn't, well, it's not like they can complain about mistreatment. With digital technology, all the actions and contributions are recorded. Once records are open and transparent, a disgruntled person has to reference facts instead of conjecture and emotion.
 
 For example, I can't lie to you about starting this book in September 2019. It's all recorded by GitHub's "version control" system. Meaning, every day, I've uploaded the latest draft to a computer that timestamps everything. You can see all the versions if you want.
 
 Open information makes lying to you, and myself, so much harder.
 
-I love hearing that "people don't want to work." That's total BS. We don't want to work BS jobs, being micro-managed for the sack of justifying "eight different bosses." Why do courier drivers have to wear corporate uniforms. Why do cooks at a fast-food restaurant have to follow the same recipes forever. Which adult would want to be controlled like this for forty years?
+I love hearing that "people don't want to work." That's total BS. Why did our great-grand parents suffer through horrible factories? We don't want to work BS jobs, being micro-managed for the sack of justifying "eight different bosses." Why do courier drivers have to wear corporate uniforms. Why do cooks at a fast-food restaurant have to follow the same recipes forever. Which adult would want to be controlled like this for forty years?
 
-Of course we need management, guidelines, coordination. But, again, we simply have too much of it.
+Of course we need management, guidelines, coordination. But, again, we simply have far too much of it.
 
 Moreover, most people aren't bad customers either. In my experience (and this is after processing 10,000 insurance claims), the vast majority of customers just want to go on with their lives. It's only when they're misled, disadvantaged, and left in the dark that makes customers lash out. Open information, with easy-to-follow rules, is reasonable and thus gets the most out of people. Particularly because it makes cheating (on both sides) too hard to bother with.
 
-With open-source, we have the technology to create our own levers of power to understand and enforce our warranty contracts, tax-laws, education systems, employment agreements, claim systems, and so on.
+With open-source, we have the technology to create our own levers of power to understand and enforce our warranty contracts, tax-laws, education systems, employment agreements, and so on.
 
-Since 2000, 500,000 Americans have overdosed on opiods. Watch [The Pharmicist](https://www.netflix.com/ca/title/81002576) on Netflix, and you'll see how a simple online database of prescriptions stopped the oxycontin pill mills that started the epidemic. But it took 10 ears for Big Business and Big Goernment to make. With open-source software the public could have banded together, and in a few months built a secure and straightforward prescription database that would have prevented our friends and famlies from being devasted by a disgusing drug epidemic.
+The benefits will be huge.
 
-The lesson is, when any institution, from a school board to doctor's office, says "fill in these forms," we should begin to say, "No, I want to use my open-source app. With it, I control my own information. Don't worry, this app also lets us both see timelines, appointments, rules, and communication. If you don't want to use it, then I'll move my business. But if you do, I look forward to working with you."
+For example, since 2000, 500,000 Americans have overdosed on opiods. Watch [The Pharmicist](https://www.netflix.com/ca/title/81002576) on Netflix, and you'll see how a simple online database of prescriptions stopped the oxycontin pill mills that fueled the epidemic. But it took 10 ears for Big Business and Big Goernment to step-up. With open-source software the public could have banded together, and in a few months built a secure and straightforward prescription database that would have prevented the epidemic from taking off.
+
+Open-source helps us make new tools to respond to frontline problems faster. That's what the era of digital mass-collabroation is all about. But to get there, we need people to believe in Techvolution. Only a player god will force change.
+
+Because when a modern day a institution, from a school board to doctor's office, says "fill in these forms," we need to start replaying with  "No, I want to use my open-source app. With it, I control my own information. Don't worry, this app also lets us both see timelines, appointments, rules, and communication. If you don't want to use it, then I'll move my business. But if you do, I look forward to working with you."
 
 Yes, it's perfectly okay for you to do that. It fact, it's your job as a player god.
 
@@ -1010,11 +1018,11 @@ _This is one example of frontline pain. Frontline paid is what new technology is
 
 ## Setting Up Our Story
 
-The world needed to change. We felt in the cold. We felt it in the hunger. We smelt it in the desperation. Humanity fought for evolution as we laboured in the pre-robotic factories of the Industrial Age.
+The world needed to change. We felt in the cold. We felt it in the hunger. We smelt it in the desperation. Humanity fought for a better life as we laboured in the pre-robotic factories of the Industrial Age.
 
 After enough sacrifice was paid. When enough blood and sweat was spilled, we, everyone in Western Civilization, rich and poor a like, got to the summit, and unlocked the computer technology we needed to live a better way of life.
 
-The Internet Age was going to be marvellous. A place of easy education, simple regulations, and perhaps the best part, a place where ordinary people would work fulfilling jobs and enjoy happy lives.
+The Internet Age was going to be marvellous. A place of easy education, simple regulations, and perhaps the best part, a place where ordinary people worked fulfilling jobs and enjoy happy lives.
 
 Yet this dream was not allowed to be.
 
@@ -1037,9 +1045,9 @@ It was in this moment. When all hope was lost, when the dreams of the Internet A
 
 You picked up this book.
 
-In the hands of you, dear reader, is Techvolution. The new philosophy you need to blow up Darth Blockbuster's super-weapon and evolve new open-source technologies to solve society's many frontline problems..
+In the hands of you, dear reader, is Techvolution. The new philosophy you need to blow up Darth Blockbuster's super-weapon and evolve new open-source tools that solve society's many frontline problems.
 
-For the time has come when ordinary people will shape the fortunes of all the in never-ending game of civilization.
+For the time has now come when ordinary people around the world will shape the fortunes of all the in never-ending game of civilization.
 
 ![old philosophy in a new world](https://techvolution.io/content/images/2020/04/main-street3.jpg)
 _Lots of player gods have come before us. They did their job. Most recently, in the era of mass-production. Now it's our time to step up and evolve our civilization._
@@ -1091,8 +1099,6 @@ Before we become player gods, here are a few terms that will put us all on the s
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/HatefulVibrantGemsbuck' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 <a href="https://gfycat.com/ifr/HatefulVibrantGemsbuck'" target="_blank" class="button small">Reader</a>
-
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/HatefulVibrantGemsbuck' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/hatefulvibrantgemsbuck">via Gfycat</a></p>
 
 _Our civilizations have always had problems. It's up to regular people to use new tools to solve them. Today, it's our turn. Let's get started.
 
