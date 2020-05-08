@@ -11,3 +11,7 @@ On the contrary, you see, exercising, composting, teaching your kids mathematics
 
 ![old philosophy in a new world](https://techvolution.io/content/images/2020/04/suburbs-idealized.jpg)
 _The American Dream, if you want to live in 1969 forever. There are lots of antagonists in this photo. Newspapers, broadcasters, oil, reporters, gas cars, k-university education are among today's largest Industrial Age holdovers._
+
+
+But the hearts of Men are easily corrupted. And the Ring of Power has a will of its own. 
+Much that once was is lost, for none now live who remember it
