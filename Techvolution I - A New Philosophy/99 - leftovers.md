@@ -3054,3 +3054,56 @@ There is no good reason why my customers had to wait. But like I said above, pow
 ![Git-Hub Rails](https://techvolution.io/content/images/2020/04/github-repo-rails2.jpg)
 
 _This is the [GitHub "repo" for Ruby on Rails](https://github.com/rails/rails/graphs/contributors), the open-source technology that runs apps like Basecamp, Airbnb, and Shopify. Visit that page, and you'll see all the thousands of people who've helped make the core technology, even though most have never met each other. Mass-collaboration is this simple and effective. And, this priceless software required almost no garbage meetings. That's why you're job will soon use mass-collaboration too._
+
+## Rome
+
+For historical context, in 100 AD, the Roman Empire ruled over a third of the world's population. This era of "[Roman Peace](https://en.wikipedia.org/wiki/Pax_Romana)" was a time of great prosperity not seen again until about 1700. Most outsiders dreamed about becoming Roman citizens.
+
+And the Romans did all this with only several hundred state bureaucrats.
+
+No kidding. Local communities, businesses, families mostly regulated their own lives with personal relationships. Not a direct comparison since our worlds are much different. But that should make you think. Meeting a Roman bureaucrat was like us meeting a physicist. They're out there when needed, but aren't relied upon up to live a daily life.
+
+## Proof of Industrial Player Gods Dismantling
+
+Social capital is measures how healthy a society's personal relationships, and its sense of identity is. Social capital is a form of capital that produces public goods for a common good. The more social capital, the more united the player god is around the ruling philosophy.
+
+A classic example is people used to bowl in leagues. Now we increadingly "bowl alone."
+
+And unsurpringly, America's social capital has be decline since entering the Internet Age. While "technology" like television and internet browsing is often blamed for people being more isolated, the real reason is that computers and the internet are used to  distract us from the fact our ruling philosophy needs to change.
+
+You can tell by the huge rise in societys dark majic.
+
+Since entering the Internet Age here are some stats.
+Obestiy has doubled.
+
+
+These are all examples of the social cohesion of the industrial age community falling apart because, well, we're not in the Industrial Age anymore.
+
+## Proof of Industrial Player Gods Dismantling2
+
+Financial capital measures how much money a person, company, or society has.
+
+Political capital measures how much popular support a politican or movement has.
+
+Less commonly known is "Social capital". This measures how healthy a society's personal relationships are. Do people have a sense of identity is? Do members of the society treat each other like they want to be treated?
+
+The more social capital, the more united the player god is.
+
+And our society has been losing social capital for decades. A classic example is people used to bowl in leagues. Now we increadingly "bowl alone."
+
+## 576575
+
+We have all incredible power at our fingertips, and we're letting bozo Left/Right political pundits tell us if climate change is real? We're stuck in two hours of traffic going to bullshit jobs because Michael Scott wants to have friends to boss around?
+
+We're letting Darth Blockbuster tell us to... what? Follow rules that are hundreds of years old?
+
+Then comes this pandemic. Our society is wondering how to make ventilators, face masks, and hand sanitizer? Like serious what the hell, why we're our factories packed up and sent to foreign lands? Who did this benefit?
+
+Look at the video above; we can change our own world!
+
+Pandemics, global warming, human migrations, widespread obesity, antisocial behavior, soaring national and personal debt, high divorce rates, traffic-filled roads, rising insurance rates, hopeless kids shooting up their own schools.
+
+Our list of problems keeps growing because ordinary people aren't using the miraculous power of modern technology to evolve our civilization.
+
+There's nothing rational or moral about staying an extra of the Industrial Age. A ruling philosophy is only worth following if it facilitates evolution; and Left/Right philosophies, and the era of mass-production, no longer do that.
+
