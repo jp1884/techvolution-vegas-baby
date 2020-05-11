@@ -648,7 +648,9 @@ You'll really like this book if you know that unless we see ourselves in the vid
 
 That's our ancestors in the video, and it should be all of us today too. So, if you despise your job, believe in conspiracy theories, worry about climate change, get intimidated by the uber-rich, are scared about COVID-19... fine, you've spotted a problem.
 
-What are you going to do about it? Wait to cast a vote in an election, yell at a TV, or find, fund, make, and use a new tool to solve the problem? What would Harry Potter do?
+What are you going to do about it? Wait to cast a vote in an election, yell at a TV, or find, fund, and use a new tool to solve the problem?
+
+What would Harry Potter do?
 
 You have the power to stand up and solve society's long list of problems.
 
@@ -688,11 +690,11 @@ _The land of perpetual profit. We're never going to get there with Left/Right po
 
 _Techvolution A New Philosophy_ has a very high goal. So, I want to be crystal clear about its purpose. We're in the new and wondrous Internet Age. But we're still using the philosophy of the Industrial Age to run our society. Conservatism (1791), and Progressivism (1859) philosophy cards were clicked many years ago. It's thus no longer good enough for the middle-class to watch infotainment news, donate to a social cause, march in a demonstration, and think we're improving the world.
 
-To have a better society, we need a new ruling philosophy. One that gives people the right and duty to evolve our culture to the Internet Age by building and owning content, apps, and electronics custom-designed to improve life on the frontline.
+To have a better society, we need a new ruling philosophy. One that gives people the right and duty to evolve our culture to the Internet Age by funding, building, and owning content, apps, and electronics custom-designed to improve life on the frontline.
 
 In line with that goal, our new philosophy must target today's most significant political enemy; antagonism. Like despotism, racism, and sexism, opposition to our technological evolution needs to be eliminated.
 
-Antagonism is created when the "eight different bosses" of the Industrial Age choose to guard the gates of old technology. These antagonists reject the opportunity of building the Internet Age and instead fight to keep Industrial Age products, like TPS reports and broadcast TV, alive.
+Antagonism is created when the "eight different bosses" of the Industrial Age choose to guard the gates of old technology. These antagonists reject the opportunity to build the Internet Age. Instead, they fight to keep Industrial Age products, like TPS reports and broadcast TV, alive.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RapidUnrealisticBedlingtonterrier' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
@@ -704,25 +706,17 @@ The changing of the guard, from the Industrial Age to the Internet Age, is basic
 
 Antagonism is defeated when ordinary people have the right, duty, and protection to use the best tool to solve a problem in their home and work lives.
 
-This isn't too outlandish. Do you use the Waze app to help lower road congestion? Many people do, and that's how easy it is to bring on the Internet Age. Now, can an employer (openly) discriminate against race or gender? Of course not, there are protections against that. Now, what if your boss demands you use the buggy company traffic app that keeps making you late?
+Normally we'd be talking about government regulations and laws. However, that gets us back to lobbying for change. So, instead of hoping for the Internet Age to come to us, the middle-class must go to it. Getting our hands on many new apps and electronics is the future.
 
-Right now, we'd risk being fired for using the better tool. But does the same company ever treat a plumber in the same way?
+Hence, why podcasts are exploding, and broadcast TV is dying.
 
-No, we hire builders to meet specifications and let the specialists choose their own tools. If there's a disagreement on the job site, we settle it by judging which tool best solves the problem. Just as the government protects against gender and race discrimination, we must protect anyone using the best tool for the job.
-
-Being able to more easily judge whose tool is better is what the _Techvolution II: Building the Life Star_ is about. Before we can use the Life Star, however, we must evolve a new social understanding. One that says anyone who prevents someone else from using modern technology to protect their Industrial Age position, is wrong.
-
-Techvolution also means local businesses on Main Street get prioritized over Big Government and Big Business. Small businesses can better upgrade our society to the Internet Age. They're not filled with layers of Industrial Age bureaucracy, consultants, and eight different "black-belt" bosses committed to stopping progress.
-
-Once we empower the frontline to use modern tools, we'll evolve solutions to road traffic, government debt, climate change. What a bunch of great reasons to be happy!
-
-Ordinary people living happy lives wins the game of evolution. To get there, we need to adopt a modern philosophy and become player gods of the modern age. We've upgraded our philosophy many times before, and it's simply time to do it again.
+However, to distribute more apps, electronics, and other levers of power to Main Street, we must evolve more than just new politics.
 
 <div style='position:relative; padding-bottom:calc(57.50% + 44px)'><iframe src='https://gfycat.com/ifr/KeenAmpleHusky' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/keenamplehusky"></a></p>
 
 <a href="https://gfycat.com/ifr/KeenAmpleHusky" target="_blank" class="button small">Reader</a>
 
-_Like magic, or the Force, this machine can make face-masks, wrenches, replacement parts, and almost anything else. Using new technology is real politics. Because it promotes evolution. Sadly, new tools are often against the rules because Industrial Age companies want us to keep using their obsolete stuff. We'll overcome this antagonism below._
+_Like magic, or the Force, this machine can make face-masks, wrenches, replacement parts, and almost anything else. Using new technology is real politics. Because it promotes evolution. But we need a new economic policy to help player gods spread tools like this throughout society._
 
 ---
 
@@ -738,81 +732,91 @@ _Like magic, or the Force, this machine can make face-masks, wrenches, replaceme
 
 ## Goalline
 
-Techvolution gives us the power to upgrade our society. With this new philosophy, every person on Main Street has the right and duty to upgrade their society with the almost magical possibilities of computers and the internet.
+Techvolution gives us the political justification to upgrade our society. With this new philosophy, every person on Main Street has the moral right and duty to upgrade their society with the almost magical possibilities of computers and the internet.
 
 Yet, something essential is missing.
 
-Techvolution is indeed the politics of the Internet Age. But politics doesn't open businesses, generate electricity, or grow food to eat. To live in the future, America, Canada, and the rest of the Western world must also upgrade our economics. Only with a modernized way to work and grow families will me and you ever be happy with our society again.
+Techvolution is indeed the politics of the Internet Age. But politics doesn't open businesses, generate electricity, or grow food to eat. To live in the future, America, Canada, and the rest of the Western world must also upgrade our economics. Only with a modernized way to work and grow families will you and I be happy with our society in the future.
 
-We change our economics by learning a familiar lesson. Your real economic power isn't being a consumer or an employee. Brand loyalty and retirement funds don't make a person powerful. Like in politics, your choices do.
+We change our economics by learning a familiar lesson. Your real economic power isn't being a consumer or an employee. Brand loyalty and retirement funds don't make a person powerful.
 
-And to increase your economic power, we must create levers of power. One that lets you control exactly who you work for, whose products you buy, and under what terms you make these deals. This new economy is a wonderful place. A place where individuals are as powerful as Big Business or Big Government.
+Like in politics, your choices give you real economic power.
 
-In fact, empowering Main Street with a new economy is the goalline that Techvolution fights for.
+And to increase your economic influence, Internet Age tools must let you control exactly who you work for, whose products you buy, and under what terms you make these deals. This new economy is an incredible place where individuals are as powerful as Big Business or Big Government.
+
+That's why empowering Main Street with a modern economy is the goalline that Techvolution fights for.
 
 Happily, we're already living in the economy of the future. And we have the modern-day protagonists to thank. They've been building it for years.
 
 ## Economic Upgrade
 
-Internet Age economics is centered on two simple facts: digital property doesn't expire, and it can be shared with anyone in the world. These innovations mean everyone, forever, can continually add to a single source of truth instead of rewriting, remaking, and rebuying the same old stuff year after year.
+Internet Age economics is centered on two simple facts: digital property doesn't expire, and it can be shared with anyone in the world for virtually free. These innovations mean everyone, forever, can continually add to a single source of truth instead of rewriting, remaking, and rebuying the same old stuff year after year.
 
 If YouTube existed in Issac Newton's time, we'd all be learning about gravity from his videos.
 
-If you can imagine how cool that is, you'll appreciate why the economic policy of the future is called digital mass-collaboration.
+If you take a second to imagine how cool that is, you'll appreciate why the economic policy of the future is called digital mass-collaboration.
 
-But before we can learn more about the economy of tomorrow, we must understand the Industrial Age economy it's going to improve. As a fun bonus, we'll also get to see where antagonists come from too.
+But before we can learn more about the economy of tomorrow, we must understand the Industrial Age economy it's going to upgrade. As a fun bonus, we'll also get to see where antagonists come from too.
 
 ## The Era of Mass-Production
 
 The Industrial Age started in the late 1700s. If you time traveled and "looked down" on society back then, you'd see a much different world.
 
-It was a time of mud roads, hand tools, and abacus calculators. Human perseverance and ingenuity filled in for minimal technology. Being sick, cold, and hungry was an all too common way of life back then.
+It was a time of mud roads, hand tools, and abacus calculators. Being sick, cold, and exhausted was a way of life because human perseverance and ingenuity had to fill in for minimal technology.
 
-This world is where Left/Right ideologies shined. You see, Left/Right writers like Adam Smith, Edmund Burke, and John Stuart Mill lived on the frontline like everyone else. They too never had running water, antibiotics, or fresh food in the winter. Feeling society's pain motivated these philosophers to create the Industrial Age player god. Conservatives and Progressives were born to solve poverty with industrialization.
+This world is where Left/Right ideologies shined. You see, Left/Right writers like Adam Smith, Edmund Burke, and John Stuart Mill lived on the frontline like everyone else. They too never had running water, antibiotics, or fresh food in the winter.
 
-The same way we often dream of "Space Age" technology, the people who clicked together inside the young Left/Right player god imagined new technologies. Among their dreams were year-round food supply, hot bath water, and communications that didn't need a horse. To get these technological wonders, player gods of the Industrial Age upgraded their society with an economic policy called mass-production.
+Solving this hard life is what spawned Conservatives and Progressives. They were both invented to solve humanity's poverty.
 
-As fortune would have it, the technology needed to mass-produce anything, the piston steam engine (1712), had already seeded a new economy. As engineers, technicians, and other protagonists make piston engines more powerful, they created steam-powered lathes, drills, and presses. These machines were put together like clockwork into production lines to mass-produce clothes, newspapers, and trains. However, although steam-powered production was much faster than traditional manual labor, machines still needed a lot of manpower to work.
+In fact, the same way we often dream of "Space Age" technology, the people who clicked together inside the Left/Right player god imagined a new world. One filled with year-round food supply, hot bath water, and communications that didn't need a horse.
 
-That's why, throughout the 18th to 20th centuries, millions of farmers, craftsmen, and other specialists left their jobs in villages and towns. In the Industrial Age, the opportunity was to work inside a factory.
+To get these technological wonders, player gods of the Industrial Age upgraded their society with an economic policy called mass-production.
 
-Look below, and you'll see how our factory bound ancestors worked.
+As fortune would have it, the technology needed to mass-produce anything, the piston steam engine (1712), had already been invented. As engineers, machinists, and other protagonists made piston engines more powerful, they created steam-powered lathes, drills, and presses. These machines were put together like clockwork into production lines to mass-produce clothes, newspapers, and trains. However, steam-powered production machines still needed a lot of manpower to work.
 
-<div style='position:relative; padding-bottom:calc(76.67% + 44px)'><iframe src='https://gfycat.com/ifr/ObedientNiftyBlackbear' frameborder='0' scrolling='no' width='70%' height='70%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/obedientniftyblackbear"></a></p>
+As industrialization out-produced hand-made products, millions of farmers, craftsmen, and other specialists left their professions to find jobs in manufacturing.
 
-<a href="https://gfycat.com/ifr/ObedientNiftyBlackbear" target="_blank" class="button small">Reader</a>
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BlandInconsequentialHoneyeater' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-Decade after decade, more people left farms and their craft jobs and entered a factory. After that, most ordinary people worked huge machines on the production line.
+<a href="https://gfycat.com/ifr/BlandInconsequentialHoneyeater" target="_blank" class="button small">Reader</a>
 
-Coordinating all these machines and workers required a lot of oversight, and hence a lot of managers. There was no other way to be sure workers were organized to the strict rhythm of the production line. So, while ordinary people were benefiting from newer and better products, they had to sacrifice the individuality they once enjoyed as specialists on Main Street.
+_Credit: Civilization 6._
+
+Decade after decade, more people left farms and their specialist jobs and operated huge machines on the production line.
+
+Coordinating all this equipment and workers required a lot of oversight, and hence a lot of managers. There was no other way to be sure workers were organized to the strict rhythm of the production line. So, while ordinary people were benefiting from newer and better products, they had to sacrifice the individuality they once enjoyed as specialists on Main Street.
 
 The mass-production of the Industrial Age is when one-sided jobs with rigid oversight became embedded in our work culture. In early assembly lines, supervisors even inspected toilets to be sure workers weren't lying.
 
-It sounds ridiculous, but it shows how vital coordination was. Workers were merely extensions of a great machine with strict orders from the Industrial Age player god to cure its poverty. Any kink in the chain was a delay in the assembly line that might cause the whole machine to stop and society to suffer.
+It sounds ridiculous, but it shows how vital coordination was. Workers were merely extensions of a great machine with strict orders from the player god to cure its poverty. Any kink in the chain was a delay in the production line that might cause the whole machine to stop and society to suffer.
 
-Even with its apparent drawbacks, mass-production worked wonders. By concentrating production in a few factories, and only making a few standardized products, the Industrial Age player god got much for efficient. With the profits of efficiency, society could keep upgrading its technology. As a result, roads got paved, mail was delivered in trucks, and fridges kept food fresh year-round. Mass-production was so successful it quickly spread itself around the world.
+Even with its apparent drawbacks, mass-production worked wonders. By concentrating production in a few factories, and only making a few standardized products, mass-production was much more efficient. With the profits of efficiency, society could keep upgrading its technology. As a result, roads got paved, mail was delivered in trucks, and fridges kept food fresh year-round.
 
-Enter Big Government and Big Business. The former helped regulate the latter as companies installed colossal production lines and supply chains across the globe. Most people call the expansion of mass-production as a global economic policy, globalization.
+Mass-production was so successful it quickly spread around the world.
 
-Globalization accelerated after World War II (1939-1945). After defeating truly evil fascism, Left and Right helped spread the policy of mass-production to places like South American and East Asia. When the Soviet Union collapsed (1991), Left/Right spread mass-production to almost every part of the globe, using a mentality that "greed is good". Meaning greed will help cure the world's poverty.
+Enter Big Government and Big Business. The former helped regulate the latter as companies installed colossal production lines and supply chains across America, Canada, Britain, France, and many other countries in the Western World.
 
-Big Government and Big Business thought the world was as a single ecosystem.
+Most people call the expansion of mass-production as a global economic policy, globalization.
 
-The competition between massive corporations to be the "fittest" who survived in the world economy was intense. As a result of this cut-through competition, mass-production chipped away at "Main Street" economics everywhere. The welders, craftsman, and other specialists on Main Street were (supposedly) officially obsolete.
+Globalization accelerated after World War II (1939-1945). When the genuinely evil fascism was defeated, Left and Right spread the policy of mass-production to Western Europe and East Asia. These countries soon opened up their own factories and enjoyed huge economic growth, often called a ["Miracle"](https://en.wikipedia.org/wiki/Japanese_economic_miracle). When the Soviet Union collapsed (1991), Left/Right spread mass-production and opened up many more factories from Africa to China.
 
-However, living an ordinary life on Main Street today makes it easy to realize something extremely important, but also quite obvious.
+Big Government and Big Business turned the world's economies into a single ecosystem, all geared towards mass-production.
+
+The competition between corporations to be the "fittest" who survived in the new world economy was intense. As a result of this cut-through competition, mass-production chipped away at "Main Street" economics everywhere. Left and Right didn't mind. Both sides believed the welders, craftsmen, and other specialists on Main Street were obsolete in a globalized economy.
+
+However, living an ordinary life on Main Street today makes it easy to realize something extremely important. But also quite obvious.
 
 We don't ride horses anymore. Nor do we use steam power lathes to build our stuff. In fact, we live in the world our ancestors dreamed of making. We have high-speed internet, sanitation systems, fresh water, and most noteworthy, advanced robotics.
 
-Of all the problems we have today, too little food, too cold houses, too slow transportation aren't on the list. Instead, we suffer different issues on the frontline.
+We have many problems today. But too little food, too cold houses, too slow transportation aren't on the list. However, even though we've largely overcome poverty, we still follow the policy of mass-production.
 
-We only keep the policy of mass-production because some people (guess who) like it.
+All because of some people (guess who) like the economy of the past.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/IgnorantCheerfulBilby' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>(https://gfycat.com/nauticallegalangora)
 
 <a href="https://gfycat.com/ifr/IgnorantCheerfulBilby" target="_blank" class="button small">Reader</a>
 
-_The frontline in the 1700-1800s, and today. Credit: Men of Honor, Gangs of New York, Cold Mountain, Far and Away, Dances with Wolves, The Office, Office Space, Wisecrack._
+_The frontline in the 1700-1800s, and today. A different set of problems requires a different economic policy. Credit: Men of Honor, Gangs of New York, Cold Mountain, Far and Away, Dances with Wolves, The Office, Office Space, Wisecrack._
 
 ## Holdovers
 
@@ -820,15 +824,15 @@ As a kid, I helped my family clean office buildings. My simple role was to pick 
 
 This little story helps explain an important point.
 
-We don't work on the assembly line with bulky steam engines or massive presses. Much of industrial production is automated (or, sadly, outsourced). Most Westerners work in the [inside in hospitals, retail stores, or in an office](https://www.bls.gov/emp/tables/employment-by-major-industry-sector.htm). And especially since personal computers, smartphones, and high-speed internet got so cheap and common, many workers don't need to work shoulder to shoulder any more.
+Most of us don't work on the assembly line, using bulky steam engines or massive presses. Much of industrial production is automated and quite a bit safer too. Most Westerners earn a living [inside hospitals, retail stores, or in an office](https://www.bls.gov/emp/tables/employment-by-major-industry-sector.htm). Thus, many workers today don't work shoulder to shoulder in a clockwork of machines that need strict oversight.
 
-Yet, we still value the micro-management of the production line.
+Yet, our culture still values the micro-management of the production line.
 
-In fact, to earn a better living today usually means to "move up" and get a higher position inside management. Thus, although they're sometimes gatekeepers, most of the "eight different bosses" are ordinary people looking to better feed their families. And it's not like they love working with their own bureaucracy any more than people outside love dealing with them.
+In fact, to earn a better living today usually means to "move up" in management. Thus, although they're sometimes gatekeepers, most of the "eight different bosses" are ordinary people looking to better feed their families.
 
-Regardless, this is where antagonists come from.
+Even so, we're literally paying people to become antagonists.
 
-And since their skillset is to maneuver and jostle for position in the hierarchy of a large shoe company or a fridge company, their skills are not obviously transferable in the Internet Age. Thus, these people often try to keep the past alive as long as they can.
+Because since a manager's skill set is to maneuver for higher "positions" in the hierarchy of a large company, their corporate management skills are not obviously transferable to the Internet Age. Thus, these people often try to keep the past alive as long as they can.
 
 Even if it drives our economy to shit, and makes our jobs suck.
 
@@ -840,37 +844,41 @@ _Digital technology automated much manufacturing and office work. But we've held
 
 ## Upgrade
 
-Now we've put Left/Right and the economic policy of mass-production in context. Together, these two made a player god that was custom-designed to defeat poverty.
+Left/Right and the economic policy of mass-production together made a player god that was custom-designed to defeat poverty.
 
-It worked! And, along the path to victory fascism and communism player gods were (thankfully!) defeated as well. Yet, despite all the success, like everything in the game of civilization, the Industrial Age Left/Right and mass-production player god wasn't supposed to last forever.
+It worked! We should all be thankful for how hard our ancestors worked in the Industrial Age. And this is all our ancestors, from every country, nationality, and religion in the world.
 
-The reason is simple. As we already know, new tools change our society's functions. Thus to maximize society's production requires upgrading politics and economics as well. It was true for the Industrial Age, and it's true for the Internet Age too.
+But now we all have new technology and a new list of problems. To overcome them, we have to evolve our work culture to use modern technology more productively. It was true in the Industrial Age, and it's true for the Internet Age as well.
 
-And that's why we need to upgrade to our economic policy to digital mass-collaboration.
+This new economic policy is what Techvolution fights for. And here's why it's called digital mass-collaboration.
 
-It's a good thing that, just like the steam engine was invented before mass-production officially started. Internet Age technology seeded digital mass-collaboration a long time ago. Starting way back in 1843, inventors like Ada Lovelace, Vannevar Bush, and Alan Turing were already building the first experimental computers. At the same time, writers like H.G. Wells, Isaac Asimov, and Gene Roddenberry imagined what politics, economics, and life would be like when advanced computers powered the world.
+Just like the steam engine was invented before mass-production officially started. Internet Age technology seeded digital mass-collaboration a long time ago. Starting way back in 1843, inventors like Ada Lovelace, Vannevar Bush, and Alan Turing were already building the first experimental computers. At the same time, writers like H.G. Wells, Isaac Asimov, and Gene Roddenberry imagined what politics, economics, and life would be like when advanced computers powered the world.
 
-These authors' stories, such as _War of the Worlds_, _I, Robot_, and _Star Trek_ thought of a future so hard to grasp people called it science fiction. Then came the 1970s; when microprocessors, personal computers, the internet, and other digital technology left the research labs and became actual products on store shelves.
+These authors' stories, such as _War of the Worlds_, _I, Robot_, and _Star Trek_ thought of a future so hard to grasp people called it science fiction.
 
-Here started the Internet Age and mass-collaboration. And it transformed the world just as much as science fiction said it would.
+Then came the 1970s; when microprocessors, personal computers, the internet, and other digital technology left the research labs and became actual products on store shelves.
 
-With every purchase, renovation, and birthday gift since 1970, we've been filling our society with fundamentally different technology. It's easy to under-appreciate how different our world has become. A person who buys a single laptop can hold so many different machines: a typewriter, radio, book, television, photo album, calculator, draft table, voice recorder. One modern person easily has all these capabilities at her disposal.
+Here started the Internet Age and digital mass-collaboration. And it transformed the world just as much as science fiction said it would.
 
-With only a few pieces of digital equipment, a modern person can be incredibly self-sufficient.
+It's easy to under-appreciate how different our world has become. With every purchase, renovation, and birthday gift since 1970, we've been filling our society with fundamentally different technology. A person who buys a single laptop can hold so many different machines: a typewriter, radio, book, television, photo album, calculator, draft table, voice recorder.
 
-Digital devices thus enable a new economic policy, one that increases production by not fostering ceaseless competition like in the Industrial Age, but continual collaboration. With digital mass-collaboration, we can easily share and contribute to each other's work to our mutual benefit. This is because, as already discussed, the digital property never spoils, and it can be accessed from anywhere.
+One modern person with just a few more pieces of hardware can be incredibly self-sufficient.
+
+Digital devices thus enable a new economic policy, one that increases production by not fostering ceaseless competition like in the Industrial Age, but continual collaboration. With digital mass-collaboration, we can easily share and contribute to each other's work to our mutual benefit.
+
+This is because, as already discussed, the digital property never spoils, and it can be accessed from anywhere.
 
 There's a good reason for everyone to collaborate. Working online together saves us from the redundant work of mechanical tools. For example, with Wikipedia, the world can use one website for its general knowledge, instead of reprinting, shipping, and buying millions of encyclopedia books every year.
 
 With modern technology racing to mass-produce most anything like encyclopedias, text-books, or smartphone apps makes no sense. Instead, we can find topics with unwritten books, subjects with no Wikipedia page, problems with no apps, and contribute something new.
 
-Because of digital property, humanity can contribute to a continuously updated repository of human knowledge, programs, and anything else you can design on a computer. And, with each new tool, that modern person with a laptop and smartphone can become even more self-sufficient.
+Because of digital property, humanity can contribute to a single source of truth for car designs, educational courses, computer programs, and anything else you can design on a computer.
 
-Instead of trying to make the world a single ecosystem, digital technology lets individuals adapt to whatever problems we have in our local ecosystem.
+And, with each new tool we create, each modern person with a laptop and smartphone can become even more self-sufficient.
+
+Thus, instead of trying to make the world a single ecosystem, digital technology lets individuals adapt to whatever problems we have in our local ecosystem.
 
 You can already see this new economy already forming. Several generations into the Internet Age, items like smartphones, laptops, and smartwatches are everywhere. That's why the collaboration websites like WikiHow, WhatsApp, and Quora integrate so easily into our lives.
-
-If the era of mass-production was about spreading industrialization across the world by saying "greed is good". Digital mass-collaboration motto could be "local need should be solved by local greed."
 
 Mass-collaboration is today's big picture, the basic principle of the Internet Age's economics. The people who understand this best are the open-source community.
 
@@ -878,13 +886,13 @@ Mass-collaboration is today's big picture, the basic principle of the Internet A
 
 <a href="https://gfycat.com/ifr/EnragedEverlastingDunnart" target="_blank" class="button small">Reader</a>
 
-_Per the great Jeff Goldblum, "Life finds a way." Likewise, we hate doing the BS jobs antagonist have us do, to justify staying with the policy and culture of mass-production. To smile more, we need to adopt the economic policy of digital mass-collaboration. The open-source community is how we can upgrade ourselves. Credit: [Wisecrack](https://www.youtube.com/watch?v=_Lngf3J8vN4)_
+_Per the great Jeff Goldblum, "Life finds a way." Likewise, we hate doing the BS jobs antagonist make us do to justify staying with the work culture of mass-production. To smile more, we need to adopt the economic policy of digital mass-collaboration. The open-source community is already building it for us. Credit: [Wisecrack](https://www.youtube.com/watch?v=_Lngf3J8vN4)_
 
 ## The Open-Source Community
 
 Open-source is a growing community of inventors, designers, and programmers. They are the successors of the first Internet Age protagonists. With honest hearts and genius minds, they're leading us all into the modern age. They live, breath, and promote collaboration at places like GitHub, Wikipedia, Discord, Dribbble, Udemy, Stack Overflow, and Discourse.
 
-These modern-day Jedi have given Main Street the levers of power we need to upgrade ourselves to digital mass-collaboration. Even if not too many people don't realize it yet. Most of you and your friends still think things like retail stores, manufacturing, and education are industries only for Big Governments or Big Business to control. However, because of the open-source community, there are already countless new tools for ordinary people to take control of their work, education, identities, and lives.
+These modern-day Jedi have given Main Street the levers of power we need to upgrade ourselves to digital mass-collaboration. Even if not too many people don't realize it yet. Most people still think things like retail stores, manufacturing, and education are industries only for Big Governments or Big Business to control. However, because of the open-source community, there are already countless new tools for ordinary people to take control of their work, education, identities, and lives.
 
 Forget the bullshit jobs and eight different bosses. Cinderella can now stop praying her fairy godmother gets her past the palace gates because open-source has given everyone an invitation to the party of economic freedom.
 
@@ -904,40 +912,48 @@ Only a society full of collaborating player gods will finally turn the fantastic
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RespectfulFlickeringAfricanbushviper' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
- _Here's a glimpse into the open-source community. They make more money by solving more problems together. Credit: [Honeypot](https://www.youtube.com/watch?v=ifq3xhik8tE)_
+ _Here's a glimpse into the open-source community. They make more money because they together we can solve more problems than ever before. Credit: [Honeypot](https://www.youtube.com/watch?v=ifq3xhik8tE)_
 
 ## The Era of Digital Mass Collaboration
 
-With all this in mind, the digital mass-collaboration economy is already here and growing. It typically goes by the name share economy, crowd-sourcing, or Wikinomics. I call it the return of Main Street economics, and it's sweeping through our society.
+The digital mass-collaboration economy is already here and growing. It typically goes by the name share economy, crowd-sourcing, or Wikinomics. I call it the return of Main Street economics, and it's sweeping through our society.
 
-Before the Industrial Age, when you spoke with an innkeeper, taxi driver, blacksmith, there was nobody "above" them except perhaps the owner or master craftsman.  That's why Airbnb gives innkeepers, Uber gives coach drivers, and Etsy gives artists back the levers of power and lets them control their own business again. As modern technology gets better, it will continue to distribute new apps, electronics, and economic freedom to all other frontline specialists like programmers, underwriters, and contractors.
+During the Industrial Age, and even today, when we ask for the decision-maker at most hotels, taxi companies, or manufacturers, we get a corporate directory that never ends. Yet before industrialization, when you spoke with an innkeeper, taxi driver, blacksmith, there was rarely anybody "above" them except perhaps the owner or master craftsman.
 
-In addition to popular apps like Airbnb and Etsy, there are countless examples of mass-collaboration in the open-source community alone. The community comes together to make a core technology. [Programmers help where their skills are best suited](https://opensource.guide/how-to-contribute/). First-timers are often nervous, but soon feel a rush as they see their work improve a project. Working together, a single community makes an excellent piece of software no one would have if they worked alone.
+Digital mass-collaboration is a return to a more traditional way of working.
+
+That's why Airbnb gives innkeepers, Uber gives coach drivers, and Etsy gives blacksmiths back the levers of power and lets them control their own business again. As modern technology gets better, it will continue to distribute new apps, electronics, and economic freedom to other frontline specialists like programmers, underwriters, and contractors.
+
+Apps Airbnb and Uber are made possible because of the open-source community. The community comes together to create a core technology. [Programmers help where their skills are best suited](https://opensource.guide/how-to-contribute/). Working together, this community of veterans and newbies makes an excellent piece of software no one would have if they worked alone.
 
 The community then uses the core technology to create their own specialized products.
 
 >At its core, open-source is about collaboration. Whether it's version control, licenses, or issue trackers—everything exists to support people working with each other. Open source embodies a model for people to work together, building something greater than they can [create on their own](https://github.blog/2016-06-23-the-shape-of-open-source/).
 
-For example, a large open-source community creates [MediaWiki software](https://www.mediawiki.org/wiki/MediaWiki). Then separate groups use MediaWiki to create Wikipedia, WikiHow, Fandom, and any other website you can think of. After all, MediaWiki is free for anyone to use; gatekeepers be damned! And this aspect of mass-collaboration hasn't just been embraced by programmers. Mass-collaboration is how the Wikipedia community of writers, researchers, and editors wrote millions of articles in only a few years.
+For example, a large open-source community creates MediaWiki software. Then separate groups use MediaWiki to create Wikipedia, WikiHow, Fandom, and any other website you can think of. After all, MediaWiki is free for anyone to use; gatekeepers be damned! Not just for programmers, mass-collaboration is how writers, researchers, and editors wrote millions of Wikipedia articles in only a few years.
 
 ![Open-source projects](https://techvolution.io/content/images/2020/04/open-source-projects.jpg)
 
-Some of the more famous open-source projects. Most of this software, worth many billions of dollars, you can download and use for free. If you can't program, it only takes hiring a few to get whatever product you can imagine. For reference, most open-source computer codes are kept in "Git" websites like GitHub. Some links are below.
+Some of the more famous open-source projects. Most of this software, worth many billions of dollars, you can download and use for free. If you can't program, it only takes hiring a few to get whatever product you can imagine.
+
+Here are the download links:
 
 - [Download Chrome's code here](https://www.chromium.org/getting-involved/download-chromium).
 - [The code for Andriod phones is here](https://source.android.com/setup/build/downloading).
 - [MediaWiki, which runs Wikipedia, is here](https://github.com/wikimedia/mediawiki)
 - [Shopify, Twitch, Airbnb, Basecamp all use this code](https://github.com/rails/rails)
 
-You can even see which individual person contributed what code, idea, or bug report to the project. That's why less management is needed. Modern software makes accountability so much easier.
+With these websites, you can even see which individual person contributed what code, idea, or bug report to the project.
+
+This is why mass-collaboration requires less management. Modern software makes accountability so much easier.
 
 All this praise doesn't mean open-source communities are perfect and can run the world. It has problems. Mainly it's people can be too rude, with no central ownership projects can quickly die off, and [it's also easy to free-load off its contributors](https://www.youtube.com/watch?v=MO8hZlgK5zc), discouraging growth.
 
-That's why open-source is only a part of the ecosystem bringing the Internet Age and mass-collaboration to life. There will always be significant energy, manufacturing, and mining companies mass-producing our essential products. There are plenty of business sectors that need huge corporations and hierarchies, especially as we venture into the unknowns like space exploration. Likewise, the government will always run social programs and install traffic lights. We will always need Big Business and Big Government.
+That's why open-source is only a part of the ecosystem bringing the Internet Age and mass-collaboration to life. There will always be significant energy, manufacturing, and mining companies mass-producing our essential products. There are plenty of business sectors that need huge corporations and hierarchies, especially as we venture into the unknowns of space exploration. Likewise, the government will always run research institutions, social programs, and install traffic lights. We will always need Big Business and Big Government.
 
 With that in mind, however, open-source is vital.
 
-Precisely because nobody owns its educational content, server software, operating systems, web apps, and so many other remarkable technologies. That means gatekeepers can't stop digital inventors from empowering more player gods. Whether it's with a simple rotating list of persons to take out the trash. An online encyclopedia with millions of helpful articles. Or software to give society internet streaming—as when a few hackers tore down "Darth Blockbuster's" gate when he tried to keep us buying and borrowing his DVDs.
+Precisely because nobody owns its educational content, server software, operating systems, web apps, and so many other remarkable technologies. That means gatekeepers can't stop protagonists from empowering more player gods. Whether it's with a simple rotating list of persons to take out the trash. An online encyclopedia with millions of helpful articles. Or software to give society internet streaming—as when a few hackers tore down "Darth Blockbuster's" gate when he tried to keep us buying and borrowing his DVDs.
 
 To continue opening gates, building the era of digital mass-collaboration, and ushering us into the Internet Age, the open-source community needs our support. We can't ask any more of them. The Jedi have done their job.
 
@@ -951,23 +967,25 @@ _Figma is a design tool for websites and apps. In the past, designers, writers, 
 
 ## A Few Dollars to Buy the Internet Age
 
-Open-source lets Main Street make its own content, apps, and electronics. We can empower bakers and butchers over factory food. Tailors and sewists over sweatshops. Store owners and clerks over franchises. And, engineers and designers over executive bean-counters.
+Open-source lets Main Street make its own content, apps, and electronics. Let how early America fostered Main Street to work together. We can today empower bakers and butchers over factory food. Tailors and sewists over sweatshops. Store owners and clerks over franchises. And, engineers and designers over executive bean-counters.
 
 I mean, wouldn't having a few urban farms in your suburb make you feel [a little more food secure right now](https://www.youtube.com/user/urbanfarmercstone/featured)?
 
-Empowering frontline specialists will usher in the era of mass-collaboration. It's a happier, more productive life with fewer bullshit jobs and layers of micro-managers.
+Empowering frontline specialists will usher in the era of mass-collaboration. It's a happier, more productive life with fewer bullshit jobs and fewer layers of micro-managers.
 
 The key to living in the era of mass-collaboration is for Main Street to start buying our content, apps, and electronics. As of now, it's rare for ordinary people to purchase apps on the iOS AppStore, Google PlayStore, and everywhere else on the internet.
 
-Thus, tech companies, even giants like Google and Facebook, have to earn their money by selling ads, or worse, our data.
+Thus, tech companies, even giants like Google and Facebook, have to earn their money by selling ads or by selling to Big Business or Big Government.
 
-Not paying for modern tools is ridiculous. We give thousands every year to Industrial Age companies like insurance companies, banks, and universities. We can all afford to pay open-source tech companies a few dollars. A few bucks are all it takes to control our content, apps, and lives.
+Ordinary people not paying for modern tools is ridiculous.
+
+We give thousands every year to Industrial Age companies like insurance companies, banks, and universities. We can all afford to pay open-source tech companies a few dollars. A few bucks are all it takes to control our content, apps, and lives.
 
 Isn't that so funny? Open-source technology is so efficient, Main Street can become the player gods of the Internet Age, by paying a few dollars for our apps.
 
-We have to pony up, because, only when regular people are the source of income, do we get to make sure it solves our problems. Tax software, employment contracts, insurance claim systems... we're the ones paying the bills anyway, so why shouldn't we be in the driver's seat?
+We have to pony up, because, only when regular people are the source of income, do we get to make sure a product serves our interest. Tax software, employment contracts, insurance claim systems... we're the ones paying the bills anyway. Why shouldn't we own the software and hardware puts ourselves in the driver's seat?
 
-Only paying for the software and electronics directly, can we control the Internet Age levers of power.
+Simply put, the open-source community needs our money so they can make our Internet Age levers of power.
 
 Buying a lever of power for a few dollars is a major bargain. When the middle-class steps up, we'll finally tear down the gates of the Industrial Age, become player gods, and live in the era of mass-collaboration.
 
@@ -993,17 +1011,19 @@ Uneven power makes mass-collaboration impossible.
 
 The open-source community lets us fight back in three ways. First, it sets a great example because it entrusts everyone with all available information. Second, open-source wants more members, so the community loves to dismantle gates and distribute new tools to regular people. And third, since no one owns open-source technology, the people can empower ourselves with levers of power only big institutions used to control. Such as call recordings and timesheets.
 
-Workplaces check your references (which is fair), but wouldn't you like to know if employees work unpaid overtime _before_ you apply to a job? What about sexual harassment allegations? We often don't even talk to the person whose job we're replacing.
+Workplaces check your references (which is fair). So, wouldn't you like to know if employees work unpaid overtime, are getting harassed, or have "eight different bosses" _before_ you apply to a job?
 
-Distributing the levers of power moves us into the Internet Age. It treats people like adults and expects them to act like it. And if a person doesn't, well, it's not like they can complain about mistreatment. With digital technology, all the actions and contributions are recorded. Once records are open and transparent, a disgruntled person has to reference facts instead of conjecture and emotion.
+Distributing the levers of power moves us into the Internet Age. It treats people like adults and expects them to act like it. And if a person doesn't, well, it's not like they can complain about mistreatment. With digital technology, everyone's actions and contributions are recorded. This is good. Like in a small-town, with open records, people's reputations follow them around. Something quite rare in today's urban sprawl world.
+
+With transparent digital records, a disgruntled person has to reference facts instead of conjecture and emotion.
 
 For example, I can't lie to you about starting this book in September 2019. It's all recorded by GitHub's "version control" system. Meaning, every day, I've uploaded the latest draft to a computer that timestamps everything. You can see all the versions if you want.
 
 Open information makes lying to you, and myself, so much harder.
 
-I love hearing that "people don't want to work." That's total BS. We have the same genes as our grandparents who suffered through horrible factories? The reality is, we don't want to work BS jobs, being micro-managed for the sack of justifying "eight different bosses." Why do courier drivers have to wear corporate uniforms? Why do cooks at a fast-food restaurant have to follow the same recipes forever? Which adult would want to be controlled like this for forty years if we're no longer in the era of mass-production?
+I love hearing that "people don't want to work." That's total BS. We have the same genes as our grandparents, who suffered through horrible factories. Yes, many people aren't self-motivated. But the reality is, we nobody wants to work BS jobs, being micro-managed for the sack of justifying "eight different bosses."
 
-Of course, we need management, guidelines, coordination. But, again, we simply have far too much of it.
+Of course, we need management, guidelines, coordination. But, again, most workplaces simply have far too much of it because our work culture is still based on the era of mass-production.
 
 Moreover, most people aren't bad customers either. In my experience (and this is after processing 10,000 insurance claims), the vast majority of customers just want to go on with their lives. It's only when they're misled, disadvantaged, and left in the dark that makes customers lash out. Open information, with easy-to-follow rules, is reasonable and thus gets the most out of people. Particularly because it makes cheating (on both sides) too hard to bother with.
 
@@ -1011,13 +1031,17 @@ With open-source, we have the technology to create our own levers of power to un
 
 The benefits will be huge.
 
-For example, since 2000, 500,000 Americans have overdosed on opioids. Watch [The Pharmicist](https://www.netflix.com/ca/title/81002576) on Netflix, and you'll see how a simple online database of prescriptions stopped the oxycontin pill mills that fueled the epidemic. But it took 10 years for Big Business and Big Government to step-up. With open-source software, the public could have banded together, and in a few months, created a secure and straightforward prescription database. We could have prevented the epidemic from ever taking off.
+For example, since 2000, 500,000 Americans have overdosed on opioids. Watch [The Pharmicist](https://www.netflix.com/ca/title/81002576) on Netflix, and you'll see how a simple online database of prescriptions stopped the oxycontin pill mills that fueled the epidemic. But it took 10 years for Big Business and Big Government to step-up. With open-source software, the public could have banded together, and in a few months, created a secure and straightforward prescription database.
 
-Open-source helps us make new tools to respond to frontline problems faster. That's what the era of digital mass-collaboration is all about. But to get there, we need people to believe in Techvolution. Only a player god will force change.
+With open-source software, we could have prevented the epidemic from ever taking off.
+
+Open-source helps us make new tools to respond to frontline problems faster. That's what the era of digital mass-collaboration is all about. But to get to this new economy, we need people to believe in Techvolution. Only a player god can evolve our civilization into the Internet Age.
 
 Because when a modern-day institution, from a school board to a doctor's office, says "fill in these forms," we need to start replaying with  "No, I want to use my open-source app. With it, I control my own information. Don't worry, this app also lets us both see timelines, appointments, rules, and communication. If you don't want to use it, then I'll move my business. But if you do, I look forward to working with you."
 
-Yes, it's perfectly okay for you to do that. It fact, it's your job as a player god.
+Yes, it's perfectly okay for you to do that.
+
+It fact, it's your job as a player god.
 
 ![Opiod epidemic](https://www.cdc.gov/drugoverdose/images/epidemic/2018-3-Wave-Lines-Mortality.png)
 
@@ -1025,9 +1049,9 @@ _This is one example of frontline pain. Frontline paid is what new technology is
 
 ## Setting Up Our Story
 
-The world needed to change. We felt in the cold. We felt it in our hunger. We smelt it in our desperation. Humanity labored for a better life in the harsh factories of the Industrial Age.
+The world needed to change. We felt in the cold. We felt it in our hunger. We smelt it in our desperation.
 
-After enough sacrifice was paid. When enough blood and sweat were spilled, we, everyone in Western Civilization, rich and poor alike, got to the summit. Together we unlocked the computer technology needed to live a better life.
+After enough sacrifice was paid. When enough blood and sweat were spilled on the harsh factory floors of the Industrial Age, we, everyone in Western Civilization, rich and poor alike, got to the summit. Together we unlocked the computer technology needed to live a better life.
 
 The Internet Age was going to be marvelous. A place of easy to access education, simple regulations, and perhaps the best part, a place where ordinary people worked fulfilling jobs and enjoyed happy lives.
 
@@ -1036,17 +1060,19 @@ Yet this dream was not allowed to be.
 ![old philosophy in a new world](https://techvolution.io/content/images/2020/04/GWRegStudies-PagesPublishedintheCFR-6.12.19.png)
 _Federal government regulations. Another example of all the "Death Star" rules our Industrial Age establishment makes._
 
-Because the hearts of Men are easily corrupted. And the Industrial Age Lever of Power has a will of its own. Darth Blockbuster thus forged in secret, a vast rulebook to keep himself in power. These rules concentrated the legal departments, HR reps, corporate lobbyists of the Industrial Age as a Death Star to evolution and change.
+Because the hearts of Men are easily corrupted. And the Industrial Age Lever of Power has a will of its own. Darth Blockbuster thus forged in secret, a vast rulebook to rule us all. In it, he poured his ego, his shortsightedness, and his will for the era of mass-production to never end.
 
-Yet there were some... who resisted.
+These rules concentrated the legal departments, HR reps, corporate lobbyists of the Industrial Age as a Death Star to evolution and change.
 
-An open-source alliance of coders and designers rallied against the forces of stagnation. On the streets of America, they fought for the freedom of the middle-class.
+But there were some... who resisted.
 
-Free and easy to use websites, apps, and technologies enabled our evolution to a digital mass-collaboration economy. The people loved it. Apps and iPhones spread across the world.
+An open-source alliance of coders and designers rallied against the forces of antagonism. On the streets of America, they fought for the freedom of the middle-class.
+
+Free and easy to use websites, apps, and electronics enabled our evolution to a digital mass-collaboration economy. The people loved it. Apps and iPhones spread across the world.
 
 Victory was near!
 
-Yet, the powers of Lord Blockbuster could not be undone. The Industrial Age way of life, with its Left/Right political pettiness, consumerism of useless products, and worst of all, its bullshit jobs, were forced on society with the blasts of the mighty Death Star; one rulebook to rule them all.
+Yet, the powers of Lord Blockbuster could not be undone. The Industrial Age way of life, with its Left/Right political pettiness, consumerism of useless products, and worst of all, its bullshit jobs, were forced on society with the blasts of the mighty Death Star.
 
 And thus, the climate started to change, economic growth began to stall, wealth disparity started to grow, and the people were so unhappy that drugs, depression, and despair covered the land.
 
@@ -1054,7 +1080,7 @@ It was in this moment. When all hope was lost, when the dreams of the Internet A
 
 You picked up this book.
 
-In the hands of you, dear reader, is Techvolution. The new philosophy you need to blow up the Death Star and evolve new tools to solve society's many problems.
+In the hands of you, dear reader, is Techvolution. The philosophy you need to blow up the Death Star and evolve new tools to solve society's many problems.
 
 For the time has come when ordinary people will shape the fortunes of all, in the never-ending game of civilization.
 
@@ -1087,7 +1113,7 @@ Before we become player gods, here are a few terms that will put us all on the s
 
 **The Game of Civilization**: The invention of new technology, cultures, and philosophies to better overcome frontline problems. Civilization develops in ages.
 
-**Economic Policy**: The accepted way to make a living in a society. Working under strict management as an employee, getting information updates from newspapers and broadcast TV, watching professional sports, working 9-5 Monday to Friday. These are all part of our dated mass-production policy that's waiting to be replaced for mass-collaboration. Economic policies change when protagonists create new technologies.
+**Economic Policy**: The official work culture in a society. An economic policy decides how people get their resources. The policy of mass-production, with its expectations of employment, heavy management, working 9-5 jobs, Monday to Friday. These are parts of our dated mass-production policy, that's waiting to be improved by the culture of mass-collaboration. Economic policies evolve when protagonists create new technologies.
 
 **Protagonists**: People who invent, spread, and use new technology for the greater good. Usually close to the problems on the frontline, they individually struggle. Still, their continued self-sacrifice slowly improves life on Earth. I call them this world's Jedi knights. We call their leaders trailblazers who relish skirting the rules. Galileo, Michael Faraday, Nikola Tesla, Jay Last, Grace Hopper, Michael S. Hart, Dennis Ritchie, Bill Gates, Steve Jobs, Linus Torvalds, Salman Khan, Jeff Bezos, and Elon Musk are among their number.
 
@@ -1432,7 +1458,7 @@ Yet what do ordinary people do when antagonists say improving society is wrong?
 
 ![old philosophy in a new world](https://techvolution.io/content/images/2020/04/darwins-finches.jpg)
 
-_[Charles Darwin's famous finches](https://en.wikipedia.org/wiki/Darwin%27s_finches). Each bird is adapted to eat one type of food like bugs, seeds, or nuts. After years of study, Darwin explained the differences using his theory of evolution (1859). Humanity mimics evolution by inventing and using new tools. It's majic that keeps us creating, learning, and evolving new tools._
+_[Charles Darwin's famous finches](https://en.wikipedia.org/wiki/Darwin%27s_finches). Each bird is adapted to eat one type of food like bugs, seeds, or nuts. After years of study, Darwin explained the differences in biology using his theory of evolution (1859). Humanity mimics evolution by inventing and using new tools in our cyborgology. It's majic that keeps us creating, learning, and evolving new tools. And it's Techvolution that gives us the freedom to decide which cyborgology works best for us._
 
 - Note: Majić is my family name. I lucked out because it reads like "magic" in English. It may seem egotistical to coin "majic" as a term here, but I couldn't think of a better work (I swear). Primarily, the use of "majic" pays tribute to my parents. If you've liked this book so far, probably yours as well.
 
@@ -2075,11 +2101,13 @@ That's why we'll make the modern rulebook in the next chapter _Techvolution II: 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PgGLgygsqus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a href="https://www.youtube-nocookie.com/embed/PgGLgygsqus" target="_blank" class="button small">Reader</a>
+
 _This scene is from the movie The Big Short. It's a movie about the 2008 housing crisis. The Industrial Age antagonists wanted to keep building the 1969 lifestyle. To get people to sign for the loans, they used underlings to sell a confusing rulebook. Credit [The Big Short](https://en.wikipedia.org/wiki/The_Big_Short_(film))_
 
 ## We Can Forget How to Win the Game
 
-The game of civilization never stops. Ancient Greece, the Persian Empire, the British Empire all played the game very well. Likewise, we've had a great run. But everything ends. Civilizations rise with protagonists and player gods and fall with antagonists and extras, and we've been the latter for decades now.
+The game of civilization never stops. Ancient Greece, the Persian Empire, the British Empire all played the game very well. Likewise, we've had a great run. But everything ends. Civilizations rise with protagonists and player gods and fall with antagonists and extras. And we've been the latter for decades now.
 
 Most people know about ancient Rome. We've all seen the Roman baths, palaces, bridges, aqueducts, and especially the Coliseum. Most of that was made between 100 BC to 180 AD when the Roman Empire ruled over a third of the world's population. This era of "[Roman Peace](https://en.wikipedia.org/wiki/Pax_Romana)" was a time of great prosperity not seen again until about 1700. Most outsiders dreamed about becoming Roman citizens and flooded into its borders to prove it.
 
@@ -2087,11 +2115,11 @@ Rome's civilization won the Classical Age hands down. We still learn from their 
 
 No kidding. Not a direct comparison because our times are much different, but that should make you think. Meeting a Roman bureaucrat was like us meeting a physicist. They're out there when needed, but aren't relied upon up to live a daily life.
 
-The rest of society was busy building things. Early Rome was mostly farmers, shipwrights, cobblers, coopers, builders, and especially engineers. Rome's military conquered the known world, and it didn't even have a professional school. Like most everyone else in society, people learned on the job and did just fine.
+The rest of society was busy building things. Early Rome was mostly farmers, shipwrights, cobblers, coopers, stonemasons, and especially engineers. Rome's military conquered the known world, and it didn't even have a professional school. Like most everyone else in society, people learned on the job and did just fine.
 
 Yet, Rome fell.
 
-And you can see it, in its infrastructure. You can't visit many Roman amphitheaters or mausoleums built after 300, because Rome stopped making new things. In fact, Romans basically forgot how. By the time Rome fell in 476, Rome had 30,000 bureaucrats and barely any builders.
+And you can see it's decline in its infrastructure. You can't visit many Roman amphitheaters or mausoleums built after 250, because Rome stopped making new things. Romans started living under thatched roofs instead of tiled. By the time Rome fell in 476, Rome had over 30,000 bureaucrats and barely any builders.
 
 Antagonists and extras replaced protagonists and player gods.
 
@@ -2101,11 +2129,17 @@ As one professor of civil engineering at Princeton said to economist Paul Volcke
 
 Volcker responded, "Well The trouble with the United States recently is we spent several decades not producing many civil engineers and producing a huge number of financial engineers. And the result is shitty bridges and a shitty financial system!'"
 
-The fact is, we have lots of lawyers, bureaucrats, and financial engineers who master an ever-increasing and ridiculous rulebook. But too few people who actually build things.
+The fact is, we have lots of lawyers, bureaucrats, and financial engineers who master an ever-increasing and ridiculous rulebook. Yet, when they vacation they visit museums filled with art, pottery, and technologies. Or, places like the Coliseum or the Pantheon. That speaks volumes to what really keeps a civilization great.
+
+Today, we have far too few people who build things.
 
 This is horrible because we've only started the Internet Age, and should be transforming society from top to bottom with modern technologies.
 
-_Even genius billionaires can't reverse the tide of our stagnation and decline. Credit: [JRE](https://www.youtube.com/watch?v=1v--NMCwXqw)_
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ChiefGleamingDamselfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+<a href="https://gfycat.com/ifr/ChiefGleamingDamselfly" target="_blank" class="button small">Reader</a>
+
+_Even genius billionaires can't reverse the tide of our stagnation and decline. The lesson is we have to get rid of that Death Star rulebook now. Credit: [JRE](https://www.youtube.com/watch?v=1v--NMCwXqw)_
 
 ## Click
 
@@ -2114,6 +2148,8 @@ What makes something click in a person's mind? If only we knew. Sadly, we can't 
 Here's some stand-up. I'll make a point afterward.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZOiPQ8nqB1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://www.youtube-nocookie.com/embed/ZOiPQ8nqB1s" target="_blank" class="button small">Reader</a>
 
 Note, it's the extras of the Industrial Age who complain because they've forgotten how fun it is to play the game of civilization.
 
@@ -2365,7 +2401,9 @@ This unrelenting drive attracts supporters, and together the good guys move forw
 
 Both sides fight to create or control levers of power like magic books, love potions, or the secret lesson to make humans use renewable energy.
 
-It all comes to a climax. Both sides risk it all to win. And if the protagonist fails, their leadership expires, and someone else can take a crack at the problem.
+It all comes to a climax. Both sides risk it all to win.
+
+And if the protagonist wins, a problem is solved, and the hero returns to being a equal member of the community. If she fails, their leadership expires, and someone else can take a crack at the problem.
 
 There's no way to know which stories will resonate with audiences. Still, only classic stories can resonate with audiences and become archetypes like _Cinderella_, _Romeo and Juliette_, _The Matrix_, _Harry Potter_, and _Star Wars_.
 
@@ -2553,7 +2591,7 @@ But, the Industrial Age eventually ended.
 
 Within a few generations, lightbulbs, stoves, and telephones were no longer new. Like we saw in the _Mad Men_ clip about marketing tobacco, the children of the Protagonist Executives didn't earn their spots as society's leaders. They couldn't invent anything to help their community prosper in the Internet Age.
 
-Starting in 1970, society thus began to be lead by antagonists again. Being lead by antagonists should both worry and make you happy, Stargazer.
+Starting in 1970, society thus began to be lead by antagonists again. These leaders often fight for personal profit, or "greed is good" as they call it. Being lead by antagonists should both worry and make you happy, Stargazer.
 
 First, the worrying part. Darth Blockbuster defends the Industrial Age because it makes him powerful. He surrounds himself with a story of self-importance (like award shows) and funds ways to distracts the people (like spectacle movies).
 
@@ -2601,15 +2639,15 @@ Even more important, do you want to hold the levers of power in your society ins
 
 Do you want to live a happy life?
 
-Open up Instagram, YouTube, or WhatsApp. So easy and effective.
+Open up Instagram, YouTube, or WhatsApp. So majical.
 
-Now, when you look at tax-codes, city by-laws, insurance rules, employment agreements. Do you the advertisements and slogans around these products as dark majic designed to hold back upgrades and keep us in the Industrial Age forever?
+Now, when you look at tax-codes, city by-laws, insurance rules, employment agreements. Do you see the advertisements and slogans around these products as dark majic designed to hold back upgrades and keep us in the Industrial Age forever?
 
-You can hold these levers of power in your hand!
+You should, because Darth Blockbuster is the hero of selfish story. He nevers wants his time in the Sun to end.
 
 This final battle has an even more straightforward question. Do you appreciate your importance to life on Earth? Do you realize you must solve your problems with modern tools? Do you know it's your natural right to have a happy life?
 
-If you don't, we're stuck using adaptions as out of place as camels trying to swim in the Amazon. Burning coal in the Sunshine State. Driving to work in Boston blizzards. Forcing people to call into call-centers after a car crash. Depending on doctor writing to record our medical histories.
+If you don't, we're stuck using a cyborgology as out of place as camels trying to swim in the Amazon. Burning coal in the Sunshine State. Driving to work in Boston blizzards. Forcing people to call into call-centers after a car crash. Depending on doctor writing to record our medical histories.
 
 All that's old technology. If we keep using it, we'll lose the game. This shouldn't sound dramatic. I'm not trying to scare you. But seriously, if we stop playing evolution, what do you think happens?
 
@@ -2621,7 +2659,7 @@ When the player gods of these civilizations lost their games, all that paper mon
 
 You are on the frontline. You are the one in the game that's supposed to keep doing the hard work and update society bit by bit to the new age with the majic of new tools.
 
-I think you do understand all this. So, act three comes down to a straightforward question. Do you want to be a player god?
+I think you do understand all this. So, act three comes down to a straightforward question. Do you want to be a modern day player god?
 
 That's a choice you have to make. It's a choice as big as any you're ever going to make. Because if we don't upgrade to a new philosophy now, it only means your kids and your grandkids will live even unhappier lives. The burden of transforming our culture will only fall on their shoulders.
 
@@ -2747,11 +2785,11 @@ And now, Charles, God's King, was accused of being "a Tyrant, A Traitor, Murdere
 
 This was a watershed moment in modern human history. For the first time ever, the people weren't replacing one king for another. They were killing the king and replacing him with themselves. The people would control all the levers of people and be their own player god!
 
-Charles was totally shocked by this idea. It would be like us watching the laws of physics being broken. It simply makes no sense that a king isn't the player god. There was no rule to reference, no justification to use. The old ruling philosophy is the Matrix, and the Matrix is supposed to keep everyone happy. But all of a sudden, some people were waking up and calling the Matrix a lie.
+Charles was totally shocked by this idea. It would be like us watching the laws of physics being broken. It simply makes no sense that a king isn't the player god. Forever. There was no rule to reference, no justification to make the king earn his spot as leader. The old ruling philosophy is the Matrix, and the Matrix is supposed to keep everyone happy. But all of a sudden, some people were waking up and calling the Matrix a lie.
 
-A noble lie perhaps, but still a lie. Charles simply couldn't make any sense of the people's complaints.
+A noble lie perhaps, but still a lie. Charles simply couldn't make any sense of the people's complaints about his leadership.
 
-Charles was devoted to his father, his Faith, and his conscience. Being a king was his responsibility, and he thus obligated to defend his country and its holy rulebook. So at his trial, Charles only asked by what rule was he being tried? That's all Charles wanted to know.
+To us Charles was a selfish leader. But himself he was not. He was devoted to his father, his Faith, and his conscience. Being a king was his responsibility, and he was thus obligated to defend his country and its holy rulebook. So at his trial, Charles only asked by what rule was he being tried? That's all Charles wanted to know.
 
 The judge said, "the people," and dropped his gavel.
 
@@ -2803,9 +2841,11 @@ Only a few leaders ever have. Often called "philosopher kings," they have the wi
 
 But philosopher kings are very rare. In times of general peace, most everyone in a hierarchy gets detached from the game of civilization. This detachment from life breeds ignorance, shortsightedness, hubris, and therefore, antagonism.
 
+Few people are truly evil. Antagonists are real, but they're almost always victims of human Nature.
+
 This happened to Charles. He never felt frontline pain, not even in the battles he caused. And that's the point. It's not the job of detached leaders, whether "eight different bosses", Darth King, or Darth Blockbuster, to decide when to upgrade civilization. Why would they want to?
 
-The truth then, now, and forever is that evolution happens on the frontline. The people in power aren't there.
+The truth has always been, will always be, that evolution happens on the frontline. The people in power aren't there.
 
 You are.
 
@@ -2936,7 +2976,11 @@ I wanted to write beautiful Platonic dialogues for you here. I'd love to have An
 
 I'd also love to write "Black Mirror" stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society. History is waiting for nerds to bring people out of the Matrix and into the era of mass-collaboration. Roofers will learn to use drones, cleaners to use IR cameras, craftsmen to use 3D printers. Because of majicians, the middle-class will like their jobs and give their kids a brighter future on a newly empowered Main Street.
 
-A happy place where everyone lives a compelling story worthy of a Netflix series. The new Main Street is a place where everyone is their own hero, and thus has a simple definition of right and wrong. Whoever helps you is a protagonist, and whoever gets in your way is an antagonist.
+This new economy is a happy place where everyone lives a compelling story worthy of a Netflix series.
+
+The new Main Street is a place where everyone is their own hero, and thus has a simple definition of right and wrong.
+
+Whoever helps you is a protagonist, and whoever gets in your way is an antagonist.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/whimsicalleadingfirebelliedtoad"></a></p>
 
@@ -2948,18 +2992,18 @@ I want to write all this stuff, but I haven't. This book has been informative en
 
 The fate of your life, your kids, and of your society, rests on the simple question. Are you on a mission to establish the Internat Age? Will you step up and make the choices of a player god in the game of evolution?
 
-Do you want to keep solving problems with digital mass-collaboration and new open-source tools:
+Do you want to keep evolving humanity's cyborgology with new open-source tools:
 
 - ~~Renting DVDs~~
 - ~~Watching broadcast television~~
 - ~~Calling a taxi-cab~~
 - ~~Writing directions on napkins~~
-- Pandemic plans.
-- Global warming.
-- Failing infrastructure.
-- Confusing mortgage contracts.
-- Shaky supply chain.
-- Car accidents.
+- Pandemic plans
+- Global warming
+- Failing infrastructur
+- Confusing mortgage contracts
+- Shaky supply chain
+- Car accidents
 
 If you do, we win. If you don't, we lose.
 
@@ -3027,11 +3071,11 @@ The best part was something that Frederick Douglass would love; learning more ab
 
 And that's the best part, because my small little app, for the first time, we'd have a database of the exact time, location, and causes of car crashes. After that, we could collaborate with weather, traffic, demographics, and many other databases.
 
-We'd finally learn why car crashes happen and start to fight back.
+We'd finally learn why car crashes happen and start to fight back. How many lives could be saved? We won't know until we try, but it's definitely more than zero.
 
-A database of crash locations and causes doesn't exist today. Big Government regulators don't care about it, any more than Big Business insurance company managers do. Which is funny, because extras justify not caring because "they" do care. So, when tires are faulty, intersections jam up too much, potholes get too big, or anything else repeatedly causes crashes, we don't even know.
+A database of crash locations and causes doesn't exist today. Big Government regulators don't care about it any more than Big Business insurance company managers do. Which is funny, because extras justify not caring because "they" do care. So, when tires are faulty, intersections jam up too much, potholes get too big, or anything else repeatedly causes crashes, we don't even know.
 
-My little app was a happy upgrade in the game of civilization, but not good enough. Or more likely, too good. My biggest problem was I messed with a lever of power. Now because of open-source and Techvolution, I can depend on player gods to help me fight back.
+My little app was a happy upgrade in the cyborgology of humanity, but not good enough. Or more likely, too good. My biggest problem was I messed with a lever of power. Now because of open-source and Techvolution, I can depend on player gods to help me fight back.
 
 ![New Tool Creation](https://techvolution.io/content/images/2020/04/civilization-is-here.jpg)
 
@@ -3057,11 +3101,13 @@ At its heart, Smithereens is a story about an extra. The tortured man assumes th
 
 Only then does "they" the powerful, becomes "we" the player god.
 
-And that's the subject for the next book. For all the antagonists blustering and excuses, once a regular person becomes a player god, and controls levers of power, the game is won.
+And that's the subject for the next book. For all the antagonists blustering and excuses, once a regular person becomes a player god, and controls levers of power in their cyborgology, the game is won.
 
 Consider this, for every dollar Main Street puts into car insurance, we only get back 50 cents in claims; the rest goes to taxes, marketing, and administration fees.
 
-This book made you a player god in mind, the next will make you a player god in reality. Now you'll finally pay for and thus control many levers of power in your hand. I'll do this for car crashes. No middleman. No phantom chasing. No dark majic. No Death Star. No Darth Call Centre. No bullshit jobs.
+This book made you a player god in mind, the next will make you a player god in reality. Because now that you'll finally pay for apps, that means you'll control many levers of power in your hand.
+
+I'll do this for car crashes. No middleman. No phantom chasing. No dark majic. No Death Star. No Darth Call Centre. No bullshit jobs.
 
 Just you in control of your destiny—exactly like a person playing _Civilization, Anno 1800, or Cities: Skylines_ who always has all the levers of power they need to win the game.
 
@@ -3069,7 +3115,9 @@ That's what the Life Star is—the technological re-creation of Evolution, a rul
 
 The Life Star is a modern rulebook that makes everybody happy.
 
-Philosophers call it the rational state earned through years of thesis, antithesis, and synthesis in the march of new, better, and reasonable technology and economic policies. I also call it the State of Nature. A place where all lifeforms happily work frontline jobs because Darth Blockbuster isn't allowed to play.
+Philosophers call the Life Star the rational state earned through years of thesis, antithesis, and synthesis in the march of better, and reasonable technology and economic policies. I also call it the State of Nature. A place where all lifeforms happily work frontline jobs because Darth Blockbuster isn't allowed to play.
+
+The Life Star is what will give us the money to start Star Fleet, and begin exploring the stars.
 
 You'll soon hold my new app in your hand and read about your power to win the game of civilization in Techvolution II: Building the Life Star.
 
