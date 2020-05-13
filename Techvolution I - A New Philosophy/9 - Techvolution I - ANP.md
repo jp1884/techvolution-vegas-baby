@@ -21,11 +21,11 @@ Here it is.
 
 ## Dedication
 
-_This book is for the people in the open-source community. For the collaboration philosophy you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Internet Age. You gave the best education a political guy can get. I hope I've learned enough to write this book for you._
+This book is for the people in the open-source community. For the collaboration philosophy you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Internet Age. You gave the best education a political guy can get. I hope I've learned enough to write this book for you.
 
-_For the antagonists, the self-entitled delegators keeping Blockbuster—and it's Industrial Age gatekeeping mentality—alive, thanks for making history to repeat itself yet again. I hope you learn something._
+For the antagonists, the self-entitled delegators keeping Blockbuster—and it's Industrial Age mentality—alive, thanks for making history to repeat itself yet again. I hope you learn something.
 
-_This book is especially dedicated to the extras on Main Street. When it's time for you to act, I pray you decide to play the game._
+This book is especially dedicated to the extras on Main Street. When it's time for you to act, I pray you decide to play the game.
 
 ---
 
@@ -49,9 +49,9 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the Reader
 
-I used lots of online videos and story referenceswhen writing this book. Using familiar stories is a more natural way to explain philosophy, and politics. And it makes points hit-home more too. Keep in mind, you'll have to press play on the YouTube videos, and turn the sound on/off for the GIFs. And of course, in all cases, all due credit goes to the media's owners.
+I used lots of online videos and story referenceswhen writing this book. Using familiar stories is a more natural way to explain philosophy, and politics, and I think makes points hit-home a little more. Keep in mind, you'll have to press play on the YouTube videos, and turn the sound on/off for the GIFs. And of course, in all cases, all due credit goes to the media's owners.
 
-Also note, I've finished writing the majority of the book, but I'm still getting reader feedback. If you like to contribute your thoughts on anything, you can [email me here](mailto:techvolution@outlook.com). I haven't sent this to an editor yet for the final proofread. If you spot any grammatical errors, it would be helpful if you made a quick note. I'd especially appreciate knowing where the writing gets slow or if the videos are too many.
+Also note, I've finished writing the majority of the book, but I'm still getting reader feedback. If you like to contribute your thoughts on anything, you can [email me here](mailto:techvolution@outlook.com). I haven't sent this to an editor yet for the final proofread. If you spot any grammatical errors, it would be helpful if you send a quick note. I'd especially appreciate knowing where the writing gets slow or if the videos are too many.
 
 Lastly, keep in mind all web browsers have "reader" modes that let you customize the screen. For Firefox press _F9_, Safari/Edge _Command-Shift-R_. Chrome makes you install an [extension](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh). Some readers disable videos, so I put a link labelled "Reader Mode" in the caption so you can still tap and watch.
 
@@ -63,9 +63,9 @@ You, me, and everyone else quarantined in their houses are anxiously waiting for
 
 On the bright side, we have Netflix.
 
-Thanks to our beloved online streaming, our pandemic worries are easily replaced with tales of passionate love, fantastic magic spells, and galaxies far far away.
+Thanks to our beloved online streaming, our pandemic worries are easily replaced with tales of passionate first loves, fantastic magic spells, and galaxies far far away.
 
-We find Netflix is so compelling because stories are so clear. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. There is no debate. We always take the protagonists' side. This moral clarity tells us precisely who the heroes and villains are, and therefore lets us commit our emotions.
+We find Netflix so compelling because stories are so clear. Protagonists are good because they want to fix a problem. Antagonists are bad because they don't. There is no debate. We take the protagonists' side every time. This moral clarity tells us precisely who the heroes and villains are, and therefore lets us commit our emotions.
 
 For example, we can cherish Romeo and Juliet because we know their love is beautiful and worth dying for! While their families' rivalry is ignorant and stupid. We also get why Luke Skywalker's rebellion is righteous and worth fighting for! And know Darth Vader's empire is hellish and must be destroyed.
 
@@ -73,7 +73,7 @@ But our emotions don't change the story. Even the main character's feelings mean
 
 That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to Sith Lords, don't battle using emotions. They fight using real objects like wands and lightsabers.
 
-Watching the good and bad guys fight is exciting stuff. It's why we can binge-watch for hours. But unlike us, the protagonists can't sit back and enjoy seeing the events unfold.
+Watching the good and bad guys fight is exciting. It's why we can binge-watch for hours. But unlike us, the protagonists can't sit back and enjoy seeing the events unfold.
 
 Because nobody ever won a battle by watching it. The victors are the ones who control technology because tools are the levers of power in every story. Cinderella used a slipper to defeat her treacherous step-family. Harry Potter used a wand to defeat "He Who Must Not Be Named." And Luke Skywalker used a small ship to destroy the Death Star. When heroes control the levers of power, they overcome antagonists and solve problems.
 
@@ -99,17 +99,19 @@ The feud between Left and Right ideologues is a distraction. The politics of upg
 
 This contest started in 1970 when our civilization left the Industrial Age and entered the Internet Age.
 
-The owners of industrial age technology don't want you holding advanced tools like Netflix. There's a simple reason, gatekeeping access to thinks like movies, education, and insurance is very profitable. That's why many Industrial Age power brokers are working hard to antagonize all future upgrades. These "Darth Blockbusters" want society's levers of power all to themselves.
+The owners of industrial age technology don't want you holding advanced tools like Netflix. There's a simple reason. Gatekeeping access to thinks like movies, education, and insurance is very profitable. That's why many Industrial Age power brokers are working hard to antagonize all future upgrades. These "Darth Blockbusters" want society's levers of power all to themselves.
 
-Happily, many internet geeks, hackers, and innovators have already been fighting Darth Blockbuster's gatekeeping and antagonism. The open-source community alone has made hundreds of thousands of tools that empower every person to live a better life. But, these protagonists can't keep fighting your battles for you. Main Street must jump into the fight.
+Happily, many internet geeks, hackers, and innovators have been fighting Darth Blockbuster's gatekeeping and antagonism for years. The open-source community alone has made hundreds of thousands of tools that empower the middle-class to live a better life. But, these protagonists can't keep fighting your battles for you. Main Street must jump into the fight.
 
 There is no debate. The story is simple, and the morality is clear. We must upgrade our society now.
 
 If we don't, this pandemic only foreshadows a much more terrible storm to come. Every year, month, and day we delay our evolution only makes our technology, tools, and culture more outdated. Responding to and preventing horrible events like depressions, storms, wars, and pandemics like COVID-19, will only get harder if we keep using Darth Blockbuster's Industrial Age technology.
 
-This book will teach you how to upgrade our society to the glorious Internet Age. Like conquering illiteracy, defeating slavery, and going to the Moon, upgrading our way of life will be a compelling story for your grandkids to one day watch on Netflix.
+This book will teach you how to upgrade our society to the glorious Internet Age. Like conquering illiteracy, defeating slavery, and going to the Moon, upgrading our way of life will be a compelling story for your grandkids to watch on Netflix.
 
-But you have to make it happen first. To start, all you have to do is realize politics isn't a show to watch, but a game well worth playing.
+But you have to make it happen first.
+
+To start, all you have to do is realize politics isn't a show to watch, but a game well worth playing.
 
 ![levers-of-power](https://techvolution.io/content/images/2020/04/levers-of-power.jpg)
 
@@ -133,7 +135,7 @@ I graduated from the University of Toronto in political science, history, and ge
 
 This book was going to deal with your levels of anger and happiness in life. It was going to begin with analyzing your take on the economy, nation, and life at large.
 
-Now we've hit the Great 2020 Pandemic. I don't need to inquire about your happiness anymore. If you're like most Americans and Canadians, you're likely downright terrified about getting sick, and perhaps more frightening, wondering what's going to happen next in the economy or international relations.
+Now we've hit the Great 2020 Pandemic. I don't need to inquire about your happiness anymore. If you're like most Americans and Canadians, you're likely downright terrified about getting sick, and perhaps more frightening, wondering what's going to happen next.
 
 For years, North Americans suffered under troubling trends: micro-management at work, antisocial behavior at home, political hatred in government. We got by because superficially we're "doing great": we have full employment, luxurious homes, and stable politics. Whenever things got too bad, and we got too unhappy, we visited the shopping mall for therapy. If we were still angry, we'd install a new political party. Over the years, Canadians and Americans gave Left and Right control of our government again and again.
 
@@ -465,11 +467,11 @@ In reality, we change society when we do yoga, save up for rainy days, check-up 
 
 You can see the power of a single person in this pandemic. Will enough of us decide to wash our hands and self-isolate to "slow the curve"?
 
-It's an open question. Because we often don't think of ourselves as being "player gods." It's easy for regular people to forget how important our lives really are. But that's the big picture. It's all our individual choices that make up the player god in our real-life game of civilization.
+It's an open question. Because we often don't think of ourselves as being "player gods." It's easy for regular people to forget how important our lives really are. But that's the big picture, isn't it? It's all our individual choices that make up the player god in our real-life game of civilization.
 
 The more individuals realize the big picture and act like their actions matter, the happier their society. And the job of inspiring individuals to believe in the big picture is the job of philosophy.
 
-It's a distinct philosophy that makes people care about something bigger than themselves. Nationalism did it for Revolutionary France. Communism created the (impossible) dreams of the Soviet Union.
+It's a distinct philosophy that makes a group of people care about something bigger than themselves. Nationalism did it for Revolutionary France. Communism created the (impossible) dreams of the Soviet Union.
 
 Think of America's Founding Fathers. They didn't merely force 13 colonies to come together and make a new country. It was the philosophy written in many pamphlets, newspapers, books, the Declaration of Independence, and the Consitution that made strangers realize the big picture. That to all prosper, they needed to become Americans who believed in:
 
@@ -477,9 +479,9 @@ Think of America's Founding Fathers. They didn't merely force 13 colonies to com
 
 This new philosophy is how the United States formed a new political community. And this "Liberty Bell" player god kicked ass in the game of civilization during the Industrial Age. That's why the rest of Western Civilization, more or less, followed America's example.
 
-So contemporary Americans, Canadians, Brits, Aussies, Kiwis, can learn from the lesson. If we ever want to independent from the Industrial Age power brokers inside Big Government and Big Business, we'll need to make a new Internet Age player god.
+Contemporary Americans, Canadians, Brits, Aussies, Kiwis, can learn from this lesson. If we ever want to be independent from the Industrial Age power brokers inside Big Government and Big Business, we'll need to make a new Internet Age player god.
 
-And if order to do that, regular people need to click a new philosophy. Once we install a new way of thinking, we'll bee able to "look up" again see ourselves as the player gods of our civilization.
+And, in order to do that, we need to follow the Internet Age protagonists and click a new philosophy. Only then will wee able to look up and see ourselves as the player gods of our civilization again.
 
 <div style='position:relative; padding-bottom:calc(47.25% + 44px)'><iframe src='https://gfycat.com/ifr/PertinentObviousArrowcrab' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
@@ -487,11 +489,11 @@ _This video displays how the game of politics is played. Player gods always have
 
 ## Good Politics Is a Moving Target Because You're the One Who's Moving
 
-A common philosophy unites player gods. Only when joined with a shared understanding of right and wrong do we all think of the same big picture and "play the game" together. There are always plenty of options when deciding which to install as the ruling philosophy. The player god—we, collectively—must pick one that empowers its members to solve real-life problems using modern technology. Only then will society live a good life.
+A common philosophy unites people with a shared understanding of right and wrong. Only when united with the same "ruling philosophy" does a community think of the same big picture and "play the game" together. There are always plenty of philosophies to choose from. The player god—we, collectively—must pick one that empowers its members to solve real-life problems using modern technology. Only then will society live a good life.
 
 It's easy to see technology change. Installing a sewer, damming a river, building a road, is very obvious. But we can't see philosophy change so easily; because it's our minds that evolve to believe in a new way of thinking.
 
-Astronauts often talk about how life-changing it is to see Earth as nothing but a dot in space. However, we can't yet travel to the Moon to rethink human affairs on Earth. For now, Playing Anno 1800 or Civilization 6 is the best way to give yourself a boost when detaching yourself from the current ruling philosophy.
+Astronauts often say how life-changing it is to see Earth as nothing but a green and blue dot in space. When orbiting the Moon Jim Lovell "covered up everything he knew with his thumb." However, we can't yet travel to the Moon to rethink human affairs on Earth. For now, Playing Anno 1800 or Civilization 6 is the best way to give yourself a boost when rethinking your current ruling philosophy.
 
 When you play a computer game, you'll see every ruling philosophy is temporary. You'll understand this because you'll experience first-hand that each civilization lasts many generations. Every person in the game, and therefore in real life, is always working to bring on the next era. Thus, just as a sailboat is a stepping stone to a steamship, every person's philosophical beliefs are a stepping stone to something better.
 
@@ -507,27 +509,29 @@ Still, even with ideologies to guide our philosophical opinions, understanding o
 
 I can't explain it either. But I can help you understand politics today.
 
-Because the dawn of every new age is the same. Idealistic inventors create a flood of new technologies, and a wealthy establishment fights to maintain its control over society.
+Because the dawn of every new age is always the same. Idealistic inventors create a flood of new technologies. And a wealthy establishment uses the rules of the old philosophy to persuade, or force, the people to keep them in power. Inventors don't stop, and keep distributing new technology to lure people away from the past.
 
-Innovators and establishment both want their philosophy to click with the people and become the ruling philosophy. The establishment uses the rules of the old philosophy to persuade, or force, the people to keep the rich in power. At the same time, inventors distribute new technology to lure people away from the past.
+At first the new tools, products, and services are more like toys. But as the technology improves, it starts replacing the levers of power in society. And, when a new philosophy is written telling people to use modern technology to update all of society's operations, from power generation, to education, a fork in the road of a civilization created.
 
-And here is when everyone on Main Street makes a huge choice.
+Because with two philosophies to choose from, old and new, everyone on Main Street makes the choice of a lifetime.
 
-Does the regular person help the protagonists evolve civilization by using modern tools to change their way of life? Or, does the average person let the antagonists hold back progress by following old lifestyles and rules?
+Does the regular person help the protagonists evolve civilization by using modern tools to upgrade how they live their lives? Or, does the average person let the antagonists hold back progress by following old lifestyles and rules?
 
-If you stay out of the fight, you support the establishment by keeping things the way they are. That makes you what computer games call a "non-playing character". Which means you're basically an extra watching your civilization as if it was a movie you can't control. However, if you grab hold of the new levers of power, you're a player god, playing the game of civilization.
+If you stay out of the fight, you support the antagonists by keeping things the way they are. That makes you what computer games call a "non-playing character". Which means you're basically an extra watching your civilization as if it was a movie you can't control. However, if you rally behind the protagonists, and grab hold of the new levers of power, you're a player god, playing the game of civilization.
 
-Player gods help evolve their society.
+Player gods work to evolve their society.
 
 We hit the Internet Age in 1970. Since then, hackers, geniuses, and geeks have been fighting to give the incredible power of computers to Main Street. The middlemen who control Industrial Age technology are fighting them off with things like fancy marketing campaigns, copyright laws, and political lobbying.
 
 And everyone on Main Street today makes a choice. Do they step up and help the heroes or not?
 
-That's a choice you, the person reading this right now, has to make. It's a choice as big as any you're ever going to make. Because if we don't upgrade now, it only means your kids and your grandkids are destined to live even unhappier lives. The burden of transforming society will only fall on their shoulders.
+That's a choice you, the person reading this right now, has to make. It's a choice as big as any you're ever going to make. Because if we don't upgrade now, it only means your kids and your grandkids are destined to live even unhappier lives.
 
-A bit heavy to pull on your parental heartstrings, but it's true. Life on Main Street will keep getting worse until we upgrade to the Internet Age. Evil things like debt and depression, hatred and hunger, wars, and pandemics, only stay away if we keep evolving our technology and culture.
+The burden of transforming society will only fall on their shoulders.
 
-Don't worry. We can finish the Internet Age upgrade. Even now, during this pandemic, we can start to upgrade our way of life. People only need to believe in a new philosophy. One that teaches us how great the world will be when we finally control the Internet Age levers of power as player gods.
+A bit heavy to pull on your parental heartstrings, but it's true. Life on Main Street will keep getting worse until we upgrade to the Internet Age. Truly evil things like debt and depression, hatred and hunger, wars and pandemics, only stay away if we keep evolving our technology and culture.
+
+Don't worry. We can finish the Internet Age upgrade. Even now, during this pandemic, we can start to upgrade our way of life. People only need to believe in a new philosophy. One that teaches us how great the world will be, for everyone, when our civilization finally clicks "upgrade" on the Internet Age.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ymI5Uv5cGU4?start=613" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -537,7 +541,7 @@ _This video lets you see "the game" of civilization in our real history. You don
 
 Politics is currently quite emotional. Actually, from the disputed elections of the American government to the radicalization of European politics, I think it's better to say Westerners across the world fucking hate each other. And many don't know why. They're just angry. And not in the "I stepped in the puddle" sort of way. Mad "because the other side is ruining everything!" kind of way.
 
-Let's get some perspective. Today, regular people are increasingly unhappy. To cope, we often pick an ideology to help us. Conservatism and Progressivism are the big choices because both were the best at industrializing the world during the Industrial Age and the era of mass-production. Conservatives fight for free-markets to help society create more houses, cars, and consumer products, Progressives fight to redistribution this property to keep our community fair. This divide causes a tug of war over regulations, tax rates, subsidies, and other government policies.
+Let's get some perspective. Today, regular people are increasingly unhappy. To cope, we often pick an ideology to help us. Conservatism and Progressivism are the big choices because both were the best at industrializing the world during the Industrial Age and the era of mass-production. Conservatives fight for free-markets to help society create more houses, cars, and consumer products, Progressives fight to redistribute this property to keep our community fair. This divide causes a tug of war over regulations, tax rates, subsidies, and other government policies.
 
 However, digital property is automatically distributed and mass-produced. Even better, digital stuff such as ebooks, websites, and videos never spoil and can be accessed from anywhere. As our world becomes more virtual in the Internet Age, Industrial Age policies to mass-produce and redistribute, grow obsolete.
 
@@ -559,9 +563,9 @@ Blockbuster movie sequels do the same thing. Without more special effects and se
 
 _In the Industrial Age, Left and Right used to cooperate all the time. Not anymore. This video excellently shows the growing hatred between them. It's about the US Congress but applies in every Western country. Notice how the divide started in the 1970s and has grown since. That's because neither Left or Right knows what to do in the Internet Age, so they blame each other for the society's growing list of problems. Credit: [Business Insider](https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA). [Reader Mode.](https://youtu.be/tEczkhfLwqM)_
 
-The answer to countering hateful ideologies is to upgrade our philosophy to the modern age.
+Left/Right are not antagonists. They are a distraction. Although the ideologuaes don't realize it, they're trying to get people to keep caring about Industrial Age politics. We need to move on from the past, and upgrade our politics with a new philosophy so Main Street sees their duty to establish the Internet Age.
 
-Sadly, in history, upgrading only happens when old doctrines kill each other off. The Thirty Years War (1618-1648) is an all too good example. This horrible war between European kingdoms was fought during the Science Age. But politics hadn't upgraded yet. Europe was still run by a powerful nobility preaching the Medieval Age philosophy of "a nobles divine right to rule."
+Sadly, in history, upgrading our politics only happens when old doctrines kill each other off. The Thirty Years War (1618-1648) is an all too good example. This horrible war between European kingdoms was fought during the Science Age. But politics hadn't upgraded yet. Europe was still run by a powerful nobility preaching the Medieval Age philosophy of "a nobles divine right to rule."
 
 When Main Street demanded a better life, the "divine right to rule" ruling philosophy only gave them two options to choose from; Catholicism and Protestantism. Regular people picked a team and slaughtered "the other side" on behalf of "divine kings". Historian Peter H. Wilson summarized The Thirty Years War as "a warning of the dangers of entrusting power to those who feel summoned by God to war, or feel that their sense of justice and order is the only one valid."
 
@@ -571,11 +575,11 @@ _The Hanging by Jacques Callot. Created between 1632 and 1633 to show how regula
 
 The Thirty Years War was extremely brutal. One in five Europeans died from its pillaging, battles, and massacres. The carnage only stopped when both sides were exhausted. The worst part was when the horror ended, the people realized they were no better off, and their problem was, in fact, being ruled by any and all kings. That's why philosophers soon wrote an upgraded philosophy of Democracy. It wasn't long until it clicked between ordinary people, who therefore adopted modernized Democracy as their new ruling philosophy. As player gods, the people fought against divine kings in the American Revolution (1776), the French Revolution (1789), and many more uprisings afterward.
 
-The hatred between Catholics and Protestants should sound scarily similar. Today's fights over presidential impeachments, border walls, and trigger words are a smokescreen. Left and Right hate each other because neither can see or admit they're both behind the times in our modern age.
+The hatred between Catholics and Protestants should sound scarily familiar. Today's fights over presidential impeachments, border walls, and trigger words are a smokescreen. Left and Right hate each other because neither can see or admit they're both behind the times in our modern age.
 
-The ray of sunshine is, most people today are moderate Progressives and Conservatives. While these reasonable people find motivation in Left or Right ideologies, they concentrate on real-world problem solving and not ideological purity. It's much easier for moderate citizens to discard ideology, compromise, and "reach across the aisle" to solve a problem. And then tackle the next issue on the list.
+The ray of sunshine is, most people today are moderate Progressives and Conservatives. While these reasonable people find motivation in Left or Right ideologies, they concentrate on real-world problem solving and not ideological purity. It's much easier for moderate citizens to discard ideology, compromise, and "reach across the aisle" to solve a problem, and then move on to the next issue on the list.
 
-However, as we keep using more Internet Age technology, it gets harder to rationalize aging ideological beliefs. The result is ideological loyalists devoutly watch the 24/7 media circus that's making our society hate itself, and moderate people keep abandoning politics.
+However, as we keep using more Internet Age technology, it gets harder to rationalize aging ideological beliefs. The result is Left/Right ideological loyalists devoutly watch the 24/7 media circus that's making our society hate itself. And moderate people keep abandoning politics.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J2Pjudf0810?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -583,9 +587,11 @@ _This is what Left/Right has devolved to. Keep in mind, commentators, reporters,
 
 ## The Internet Age Needs a New Philosophy
 
-For Techvolution to be our new Internet Age philosophy, it must inspire everyone in the middle-class to see the big picture again. Left/Right are whiners who'd you never select to start a new civilization, and so really should not be in control of our current one. The big-picture today is realizing our future is being built by the people working at Tesla, SpaceX, Deno, Mozilla, OpenAI, and Blue Origin. Everyone who wants to live in the Internet Age should be following these heroes' example.
+For Techvolution to be our new Internet Age philosophy, it must inspire everyone in the middle-class to see the big picture again. Left/Right pundits are whiners who'd you never select to start a new civilization, and so really should not be in control of our current one. Seeing the big-picture today means realizing our future is being built by the people at Tesla, SpaceX, Deno, Mozilla, OpenAI, and Blue Origin.
 
-Therefore, regular people should fund, make, and use modern levers of power. Examples are home solar panels to power an urban farm. A car maintenance app to know which cars and mechanics are best. And openly available management performance reviews to help keep our companies honest.
+Everyone who wants to live in the Internet Age should be following these heroes' example.
+
+Therefore, regular people should fund, make, and use modern levers of power. Examples are home solar panels to power an urban farm. A car maintenance app to know which cars and mechanic shops are best. And an website with openly available management performance reviews to help keep our companies honest.
 
 Techvolution will work best if you're sick of contemporary infotainment politics but love checking-out what Elon is up to.
 
@@ -642,6 +648,8 @@ _The land of perpetual profit. We're never going to get there with Left/Right po
 _Techvolution A New Philosophy_ has a very high goal. So, I want to be crystal clear about its purpose. We're in the new and wondrous Internet Age. But we're still using the philosophy of the Industrial Age to run our society. Conservatism (1791), and Progressivism (1859) philosophy cards were clicked many years ago. It's thus no longer good enough for the middle-class to watch infotainment news, donate to a social cause, march in a demonstration, and think we're improving the world.
 
 To have a better society, we need a new ruling philosophy. One that gives people the right and duty to evolve our culture to the Internet Age by funding, building, and owning content, apps, and electronics custom-designed to improve life on the frontline.
+
+What's the point of all this great technology like Waze's traffic app, if ordinary people aren't more free to decide when and how they travel and work?
 
 In line with that goal, our new philosophy must target today's most significant political enemy; antagonism. Like despotism, racism, and sexism, opposition to our technological evolution needs to be eliminated.
 
@@ -843,7 +851,7 @@ All because open-source heroes put new apps and electronics in both our hands.
 
 The tech community calls this disruption. While disruption has thankfully torn down many gates. It mainly replaced low-hanging fruit like consumer goods. To keep ushering us into the Internet Age, we need to upgrade disruption with Techvolution and digital mass-collaboration.
 
-Only a new breed of apps custom-designed to solve real-life problems. And a society full player gods using them on the frontline, will turn the fantastic world of science fiction into Main Street's new reality.
+Only a new breed of open-source apps custom-designed to solve real-life problems, and a society of player gods paying for them, will turn the fantastic world of science fiction into Main Street's new reality.
 
 <div style='position:relative; padding-bottom:calc(47.25% + 44px)'><iframe src='' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
@@ -2450,7 +2458,7 @@ If we click a new philosophy, we can usher in the era of mass-collaboration ours
 
 <div style='position:relative; padding-bottom:calc(47.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmNippyCockatiel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-_Here's one example of an industry full of fallen angels. I obviously love the movies, and despite all this criticism, it saddens me how they're hurting today. Credit: [Fire Films](https://www.youtube.com/watch?v=sR6UeVptzRg). [Reader Mode.](https://gfycat.com/ifr/WarmNippyCockatiel)_
+_Here's one example of an industry full of fallen angels. I obviously love the movies, and despite all this criticism, it saddens me how they're hurting today. But once they're over their addiction to mass-producing blockbusters, they'll be back. Credit: [Fire Films](https://www.youtube.com/watch?v=sR6UeVptzRg). [Reader Mode.](https://gfycat.com/ifr/WarmNippyCockatiel)_
 
 [Prior Chapter](https://www.techvolution.io/a-new-philosophy-intermission) | [Next Chapter](https://www.techvolution.io/a-new-philosophy-act-three)
 
@@ -2797,7 +2805,7 @@ The fate of civilization is entirely on your shoulders. Your job is to do what's
 
 Our act three is thus a rather simple question. Who's your hero, Stargazer?
 
-## The End
+## What's Your Conclusion, Stargazer
 
 I wanted to write beautiful Platonic dialogues for you here. I'd love to have Antagonists and Protagonists debating with Stargazer, who has an internal discussion between the benefits and drawbacks of being an extra or player god, and the joys of majic versus dark majic.
 

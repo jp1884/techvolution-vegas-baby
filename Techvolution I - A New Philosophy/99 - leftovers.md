@@ -3107,3 +3107,6 @@ Our list of problems keeps growing because ordinary people aren't using the mira
 
 There's nothing rational or moral about staying an extra of the Industrial Age. A ruling philosophy is only worth following if it facilitates evolution; and Left/Right philosophies, and the era of mass-production, no longer do that.
 
+## Mass Collaboration
+
+As mentioned above, since digital property doesn't expire, and it can be shared with anyone in the world, all of us can stop competiting to mass-produce the same old products. Instead we can continually add to a single source of truth for anything can be digitized. From car designs, educational courses, to computer programs.
