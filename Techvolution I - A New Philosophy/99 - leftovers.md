@@ -3110,3 +3110,273 @@ There's nothing rational or moral about staying an extra of the Industrial Age. 
 ## Mass Collaboration
 
 As mentioned above, since digital property doesn't expire, and it can be shared with anyone in the world, all of us can stop competiting to mass-produce the same old products. Instead we can continually add to a single source of truth for anything can be digitized. From car designs, educational courses, to computer programs.
+
+## Note to the Reader
+
+I wanted to write a academic book on the history of philosophy. But that was taking too long, and as you'll find out in the book, I didn't get the evidence I needed to finish it anyway. So, I wrote this book to help people understand what's happening with our society today.
+
+This version uses lots of videos and story references. Using familiar stories is a more natural way to explain philosophy, and politics, and I think makes points hit-home a little more. Using fiction makes things sound dramatic, so please don't let your imagination run away too much when reading this.
+
+Don't worry. We can finish the Internet Age upgrade. Even now, during this pandemic, we can start to upgrade our way of life. People only need to believe in a new philosophy. One that teaches us how great the world will be when we finally control the Internet Age levers of power as player gods.
+
+## Sean Bean
+
+<div style='position:relative; padding-bottom:calc(47.25% + 44px)'><iframe src='https://gfycat.com/ifr/PertinentObviousArrowcrab' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+_This video displays how the game of politics is played. Player gods always have a list of different technologies, cultures, and policies to choose from. Only when Main Street holds the levers of power can we pick the best ones for ourselves. Credit: [Civilization 6](https://www.youtube.com/watch?v=yKUFvo3_FYQ). [Reader Mode.](https://gfycat.com/ifr/PertinentObviousArrowcrab)_
+
+<div style='position:relative; padding-bottom:calc(47.25% + 44px)'><iframe src='https://gfycat.com/ifr/DishonestObedientCaterpillar' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+_Credit: [Cast Away](https://en.wikipedia.org/wiki/Cast_Away). [Reader Mode.](https://gfycat.com/dishonestobedientcaterpillar)_
+
+<div style='position:relative; padding-bottom:calc(47.25% + 44px)'><iframe src='https://gfycat.com/ifr/AgitatedWhirlwindCalf' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+_Credit: [Cast Away](https://en.wikipedia.org/wiki/Cast_Away). [Reader Mode.](https://gfycat.com/ifr/AgitatedWhirlwindCalf)_
+
+## New and Old Societies As Seen in Celebrities
+
+New technology put two-way radios in all our hands. Like a person in a life raft, we now have a voice in our fates.
+
+An example of this freedom is celebrities. In the Industrial Age society, our stars were often decided for us. The era of mass-production only let a few people make movies, release albums, or get their names in "the papers."
+
+Internet Age celebrities are different. While we can make fun of Instagram models, silly YouTubers, Twitter trolls, and obscure podcasts, but at least we can follow who we want. Which also means we celebrate who we wish to.
+
+Heck, with no gates to overcome, anyone can be a musician, artist, comedian, thinker, reviewer, or "celebrity."
+
+I follow people like Sailing La Vagabonde, Historia Civilis, BatmanRealAccount, Dave 2D, Traversy Media, RealEngineering, and Dr. Becky. I celebrate them because they're real people doing cool stuff who'd never consider themselves celebrities.
+
+The next time you hear "celebrity," ask yourself if they're one of yours. It can be anyone you want. Because modern technology gives you that power.
+
+## What You Can Do Today
+
+Writing a book is hard. One of the things that kept me motivated was realizing how many other people are working to build the Main Street economy. Some small examples are below.
+
+[Galaxy Zoo](https://www.zooniverse.org"): Gives anyone the chance to classify stars and galaxies. You might even be the first to discover something new.
+
+[Common Voice](https://voice.mozilla.org/en): Lets anyone donate their voice, anonymously, of course. Now even small companies can improve their software with audible commands.
+
+[Stack Overflow](https://stackoverflow.com): People can ask any question and get a reliable answer from an expert.
+
+[Kickstarter](https://www.kickstarter.com/): Lets the people be their own investment group and fund their own products.
+
+These sites aren't perfect, of course. But they're young, getting better every day, and quickly put the majical power of modern tools into the hands of the middle-class.
+
+Add these communities to all the cooks in food trucks, making exciting food. Singer song-writers creating a new culture for us to enjoy. Podcasters interviewing experts and teaching us more about knitting, shipbuilding, or the immigrant mentality. Makers fabricating quality hand-tools we'd much rather repair than ever throw away.
+
+Add these to the many other awesome workers hustling to make an honest living doing what they love, and you get the era of mass-collaboration.
+
+To empower all these great people, even more, we need a new and improved rulebook.
+
+https://techvolution.io/content/images/2020/05/google-trends-blockbuster-torrent-netflix1.png
+
+## Code Injection
+
+<script type="text/javascript" src="/assets/js/jquery-3.5.1.min.js"></script>
+
+<style>
+
+/*home page big header  
+    .page-head-title {
+	margin: 0;
+	font-size: 4.2rem;
+	color: #fff;
+}*/
+
+/*post/page big header  
+.post-content-title {
+	margin: 0 0 3vw;
+	color: #fff;
+	text-align: center;
+}*/
+        
+/* body background */    
+    
+body {
+
+    background: #0b0d0e;
+    background: #edeaea;
+    
+    }
+
+/* CONTENT */
+.post-content {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 6vw 0;
+}
+     
+ /* CAPTIONS 
+.kg-card figcaption {
+    padding: 1.5rem;
+    font-size: 1.5rem;
+    line-height: 1.9em;
+    font-weight: 600;
+    color: #131313;
+    text-align: center;
+    opacity: .7;
+} */
+     
+/* BODY TEXT */
+/* desktop */
+.post-content-body {
+    font-size: 2.5rem;
+    line-height: 1.75em;
+}
+/* tablet */     
+@media (max-width: 950px) {
+.post-content-body {
+    font-size: 1.9rem;
+    font-weight: 400;
+    }
+}
+/* smartphone */
+@media (max-width: 500px) {
+    .post-content-body {
+        font-size: 1.65rem;
+        font-weight: 400;
+    }
+}
+/* body text defaults */ 
+body {
+    color: #f7f7f7;
+    color: #454545;
+    
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif;
+    font-size: 2.3rem;
+    line-height: 1.70em;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0;
+    text-rendering: optimizeLegibility;
+    -moz-font-feature-settings: "liga" on;
+}
+
+/* H1 Headline */
+/* desktop */
+h1 {
+    margin: 0 0 0.5em 0;
+    font-size: 5.7rem;
+    font-weight: 800;
+    color: ;
+}
+/* tablet */
+@media (max-width: 950px) {
+    h1 {
+        font-size: 3.7rem;
+        color: ;
+    }
+}   
+/* smartphone */     
+@media (max-width: 500px) {
+    h1 {
+        font-size: 2.7rem;
+        color: ;
+    }
+}
+     
+/* H2 Headline */ 
+/* desktop */
+h2 {
+    margin: 1.5em 0 0.5em 0;
+    font-size: 4rem;
+    color: ;
+}
+/* tablet */  
+@media (max-width: 950px) {
+    h2 {
+        font-size: 3.1rem;
+        color: ;
+    }
+} 
+/* smartphone */     
+@media (max-width: 500px) {
+    h2 {
+        font-size: 2rem;
+        color: ;
+    }
+}
+     
+/* H3 Headline */
+/* desktop*/
+h3 {
+    margin: 1.5em 0 1em 0;
+    font-size: 3.2rem;
+    color: ;
+}
+/* tablet */ 
+@media (max-width: 950px) {
+    h3 {
+        font-size: 2.3rem;
+        color: ;
+    }
+}
+/* smartphone */
+@media (max-width: 500px) {
+    h3 {
+        font-size: 1.8rem;
+    }
+}
+    
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+    
+/* img padding */
+img {
+        padding-top: 3%;
+  		padding-right: 0px;
+      	padding-bottom: 0px;
+ 		padding-left: 0px;
+    }
+
+/* line break, hr */
+.post-content-body hr::after {
+    content: "";
+    position: absolute;
+    top: -15px;
+    left: 50%;
+    display: block;
+    margin-left: -10px;
+    width: 3px;
+    height: 30px;
+    background: #3a3a3a;
+    -webkit-box-shadow: #fff 0 0 0 5px;
+    box-shadow: 0 0 0 0px #fff;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(80deg);
+    }
+
+/* subtitle. em, front sizing */
+    
+    em{
+        font-size: 85%;
+		font-family: verdana;
+        line-height: 1.20em;
+        font-weight: 400;
+    }
+    
+/* headline color*/
+    
+.post-content-body h1, .post-content-body h2, .post-content-body h3, .post-content-body h4, .post-content-body h5, .post-content-body h6 {
+	color: ;
+}
+
+</style>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('a[href^="http://"], a[href^="https://"]').not('a[href*=ericmathison\\.com]').attr('target','_blank');
+  });
+</script>
+
+## NExt
