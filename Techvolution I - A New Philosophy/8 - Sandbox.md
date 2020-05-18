@@ -1,135 +1,35 @@
+## YouTube
 
-/* CONTENT */
-.post-content {
-    max-width: 940px;
-    margin: 0 auto;
-    padding: 6vw 0;
-}
-     
- /* CAPTIONS */
-.kg-card figcaption {
-    padding: 1.5rem;
-    font-size: 1.5rem;
-    line-height: 1.9em;
-    font-weight: 600;
-    color: #131313;
-    text-align: center;
-    opacity: .7;
-}
-     
-/* BODY TEXT */
-/* desktop */
-.post-content-body {
-    font-size: 2.5rem;
-    line-height: 1.65em;
-}
-/* tablet */     
-@media (max-width: 950px) {
-.post-content-body {
-    font-size: 1.9rem;
-    font-weight: 400;
-    }
-}
-/* smartphone */
-@media (max-width: 500px) {
-    .post-content-body {
-        font-size: 1.65rem;
-        font-weight: 400;
-    }
-}
-/* body text defaults */ 
-body {
-    color: #454545;
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif;
-    font-size: 2.3rem;
-    line-height: 1.65em;
-    font-weight: 600;
-    font-style: normal;
-    letter-spacing: 0;
-    text-rendering: optimizeLegibility;
-    -moz-font-feature-settings: "liga" on;
-}
+Lorem Ipsum. Lorem Ipsum.Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum
 
-/* H1 Headline */
-/* desktop */
-h1 {
-    margin: 0 0 0.5em 0;
-    font-size: 5.7rem;
-    font-weight: 800;
-}
-/* tablet */
-@media (max-width: 950px) {
-    h1 {
-        font-size: 3.7rem;
-    }
-}   
-/* smartphone */     
-@media (max-width: 500px) {
-    h1 {
-        font-size: 2.7rem;
-    }
-}
-     
-/* H2 Headline */ 
-/* desktop */
-h2 {
-    margin: 1.5em 0 0.5em 0;
-    font-size: 4rem;
-}
-/* tablet */  
-@media (max-width: 950px) {
-    h2 {
-        font-size: 3.1rem;
-    }
-} 
-/* smartphone */     
-@media (max-width: 500px) {
-    h2 {
-        font-size: 2rem;
-    }
-}
-     
-/* H3 Headline */
-/* desktop*/
-h3 {
-    margin: 1.5em 0 1em 0;
-    font-size: 3.2rem;
-}
-/* tablet */ 
-@media (max-width: 950px) {
-    h3 {
-        font-size: 2.3rem;
-    }
-}
-/* smartphone */
-@media (max-width: 500px) {
-    h3 {
-        font-size: 1.8rem;
-    }
-}
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QKcneQ6N50Q?start=50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p><figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 
-/* I FRAME
+_Credit: Mad Men. [Reader Mode.](https://www.youtube.com/watch?v=QKcneQ6N50Q?start=50)_
 
-.post-content-body iframe {
-    margin: 0 auto !important;
-    width: 600px;
-    height: 380px;
-}
-     
+Lorem Ipsum. Lorem Ipsum.Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum
 
-@media (max-width: 950px) {
-.post-content-body iframe {
-    margin: 0 auto !important;
-    width: 400px;
-    height: 250px;
-}
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QKcneQ6N50Q?start=50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p><figcaption>Credit: Mad Men.<a href="https://www.youtube.com/watch?v=QKcneQ6N50Q?start=50">Reader Mode</a></figcaption>
 
-@media (max-width: 500px) {
-.post-content-body iframe {
-    margin: 0 auto !important;
-    width: 400px;
-    height: 250px;
-}
- */
+## GIF
 
- 
+When a magician makes a playing card disappear, we smile in awe and childish wonder. That's cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with typing, drawing, or reading, they've similarly performed something awesome. They've upgraded someone's cyborgology, helped them solve problems better, and effectively created a new and improved person. This makes us smile for a long time.
+
+<div style='position:relative; padding-bottom:calc(32.25% + 44px)'><iframe src='https://gfycat.com/ifr/ImmaterialDazzlingCopperbutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<figcaption>The majic of evolution Credit: <a href="https://en.wikipedia.org/wiki/Cast_Away">Cast Away</a><a href="https://en.wikipedia.org/wiki/Cast_Away">Reader.</a><a href="https://www.youtube.com/watch?v=QKcneQ6N50Q?start=50">Reader Mode</a></figcaption> 
+
+In short, majic is Nature's long-lasting dopamine fix to motivate us to keep playing the game of civilization.
+
+Yet human-made rules _sometimes_ say upgrading to a new tool is wrong. Medieval parishioners couldn't read a science book, French peasant farmers couldn't have a musket, a 1990's kid couldn't download a digital song. I can imagine only a few cavemen were "allowed" to hold the flint that starter the fire.
+
+<div style='position:relative; padding-bottom:calc(32.25% + 44px)'><iframe src='https://gfycat.com/ifr/ImmaterialDazzlingCopperbutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+<a href="https://gfycat.com/immaterialdazzlingcopperbutterfly'" target="_blank" class="button small">Reader</a>
+
+_The majic of evolution. Credit: [Cast Away](https://en.wikipedia.org/wiki/Cast_Away). [Reader](https://gfycat.com/immaterialdazzlingcopperbutterfly)._
+
+
+
