@@ -3379,4 +3379,12 @@ img {
   });
 </script>
 
-## NExt
+## Next
+
+The best managers figure how to get great outcomes by setting the appropriate context, rather than by trying to control their people. Reed Hastings.
+
+
+<figcaption>Credit: Mad Men.<a href="https://www.youtube.com/watch?v=QKcneQ6N50Q?t=50">Reader Mode</a></figcaption>
+</div>
+
+Lorem Ipsum. Lorem Ipsum.Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum

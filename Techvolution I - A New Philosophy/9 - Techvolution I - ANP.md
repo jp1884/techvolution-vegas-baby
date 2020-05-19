@@ -853,13 +853,13 @@ One modern person with just a few more pieces of hardware can be incredibly self
 
 Digital devices thus enable a new economic policy, one that increases production by not fostering ceaseless competition like in the Industrial Age, but continual collaboration. With digital mass-collaboration, we can share and contribute to each other's work to our mutual benefit.
 
-This is because, as already discussed, the digital property never spoils, and it can be accessed from anywhere. For example of the huge difference, tou only get your mail at home. But email is yours where _you_ are.
+This is because, as already discussed, the digital property never spoils, and it can be accessed from anywhere. For example of the huge difference, you only get your mail at home. But email is yours where _you_ are. With the internet, digital property is in a sense attached to you physically.
 
 There's a good reason for everyone to collaborate. Working online together saves us from the redundant work of mechanical tools. For example, with Wikipedia, the world can use one website for its general knowledge, instead of reprinting, shipping, and buying millions of encyclopedia books every year.
 
 With modern technology racing to mass-produce most anything like encyclopedias, text-books, or smartphone apps makes no sense. Instead, we can find topics with unwritten books, subjects with no Wikipedia page, problems with no apps, and contribute something new.
 
-Because of digital property, humanity can contribute to a single source of truth for car designs, educational courses, computer programs, and anything else you can design on a computer.
+Scientists already do this. When a discovery is made, the scientific community moves on to something else. Likewise, with digital property, humanity can do the same thing with economics. We contribute to a single source of truth for car designs, educational courses, computer programs, and anything else you can design on a computer.
 
 With each new tool we create, each modern person with a laptop and smartphone can become even more independent of the production lines of the Industrial Age.
 
@@ -923,10 +923,11 @@ Some of the more famous open-source projects. If you can't program, it only take
 
 There are hundreds of thousands of open-source programs free to download. Here are some download links to give you an idea what's out there:
 
-- [Download Chrome's code here](https://www.chromium.org/getting-involved/download-chromium).
-- [The code for Andriod phones is here](https://source.android.com/setup/build/downloading).
+- [Download Chrome's code here](https://www.chromium.org/getting-involved/download-chromium)
+- [The code for Andriod phones is here](https://source.android.com/setup/build/downloading)
 - [MediaWiki, which runs Wikipedia, is here](https://github.com/wikimedia/mediawiki)
 - [Shopify, Twitch, Airbnb, Basecamp all use this code](https://github.com/rails/rails)
+- [And of course Netflix](https://netflix.github.io/)
 
 These internet websites let anyone see which individual contributed to what code, idea, or bug report. This is why mass-collaboration requires less management. Modern software makes accountability so much easier.
 
@@ -1373,7 +1374,7 @@ Evolution works so well because it creates biodiversity. Biodiversity means life
 
 Evolution may not be the Force, but it's positively magical. In tune with Nature's own special rhyme and reason, evolution turned a lifeless planet into an oasis of many different ecosystems. The big drawback is time. Biological variations can take millions of years to respond to environmental changes. Think of the poor polar bears. They'll never understand why Arctic ice isn't reforming as massively each year. And even if they could, no lifeform can proactively change their biology.
 
-In contrast, humanity can change—not our biology, but our "cyborgology," if you will. We have the power to feel frontline pain, reflect on its causes, and create a new tool to overcome the problem. Hopefully, we can do this in time to save the polar bears, Holland, and many of the [US military's most important ports and bases](https://www.youtube.com/watch?v=pKEEzW0IiV4)).
+In contrast, humanity can change—not our biology, but our "cyborgology," if you will. We have the power to feel frontline pain, reflect on its causes, and create a new tool to overcome the problem. Hopefully, we can do this in time to save the polar bears, Holland, and many of the [US military's most important ports and bases](https://www.youtube.com/watch?v=pKEEzW0IiV4).
 
 That's why you are so important, Stargazer. Your unhappiness is pain, and life uses pain to determine what tools to evolve.
 
@@ -2156,7 +2157,7 @@ Nobody tells them, pays them, or forces them to.
 
 Because writing or reading a Wikipedia article, is Nature's majic, and thus it's own reward. It's not perfect, there's still room for improvement, but Wikipedia is far better than buying an encyclopedia set every few years. Heck, while writing this book, I've used YouTube, Project Gutenberg, and Wikipedia dozens of times and never checked my university lecture notes or course readers once. Not out of malice, digital tools are simply faster to search through.
 
-That's the story of Wikipedia. Invented by protagonists, upgraded to society's reference tool by player gods. Few believed it was possible because even professional educators don't understand new tools always unpower the few, to empower the rest.
+That's the story of Wikipedia. Invented by protagonists, upgraded to society's reference tool by player gods. Few believed it was possible because even professional educators can't admit new tools are supposed to unpower the few, to empower the rest.
 
 Interestingly, after I finally conceded temporary defeat to my personal Darth Blockbuster, I uploaded a few pages to Wikipedia instead. Not as helpful as my app, but it took just a few weeks of work, and one "edit now" button, to make it real.
 
