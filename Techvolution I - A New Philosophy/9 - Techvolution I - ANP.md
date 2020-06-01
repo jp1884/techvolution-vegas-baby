@@ -15,7 +15,9 @@ COVID-19 will only make middle-class problems worse, making traditional Left/Rig
 
 What can ordinary people do?
 
-In _Techvolution_, we'll see how everyone on Main Street today has a big choice to make. We can either pick a side in the increasingly nasty Left/Right war. Or, we can start funding and using apps and electronics that we custom-design to solve our everyday problems. But before the middle-class can choose the better option and reach for the incredible power of modern technology, we need to redefine what's good and bad in our politics. To do that, we must adopt a new philosophy.
+In _Techvolution_, we'll see how everyone on Main Street today has a big choice to make. We can either pick a side in the increasingly nasty Left/Right war. Or, we can start funding and using apps and electronics that we custom-design to solve our everyday problems. But before the middle-class can choose the better option and reach for the incredible power of modern technology, we need to redefine what's good and bad in our politics.
+
+To do that, we must adopt a new political philosophy.
 
 Here it is.
 
@@ -49,15 +51,11 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the Reader
 
-This book mixes Aristotle's Poetics, with Hegelian dialetics. Which just means I used storytelling to better understand our history, politics, and civilization.
-
-Thus there's lots of videos and and story references. I think videos make points hit-home more too. However, please don't let your imagination run too wild with
+This book uses lots of videos and story references. I found familiar stories a more natural way to explain philosophy and politics.
 
 Keep in mind, you'll have to press play on the videos and turn the sound on/off for the GIFs. And of course, in all cases, all due credit goes to the media's owners.
 
-Also note, I've finished writing this book, but I'm still getting reader feedback. If you like to contribute your thoughts on anything, you can [email here](mailto:techvolution@outlook.com). I haven't sent this to an editor yet for the final proofread. If you spot any grammatical errors, it would be helpful if you send a quick note. I'd especially appreciate knowing where the writing gets slow or if the videos are too many.
-
-Lastly, all browsers have "reader" modes. Some miss chapter headings on this website for some reason (I'm working on figuring out why) and also disable videos/GIFs. So if you like reader modes, I put a link labeled "Reader Mode" in the caption so you can tap and watch the videos.
+Internet browsers reader modes disable videos. If you use that feature, I put a link called "Reader Mode" in the caption so you can still watch the media content.
 
 Thanks for reading. I hope you enjoy.
 
@@ -122,24 +120,10 @@ This book will teach you how to upgrade our society to the very powerful Interne
 
 But for your grandkids to ever watch it on Netflix one day, _you_ have to make it happen first.
 
-The first step on this journey is to realize politics isn't a show to watch, but a game well worth playing.
-
----
-
-Please take a minute to watch this comedian.
+Because politics isn't a show to watch, but a game well worth playing.
 
 <div class="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOiPQ8nqB1s?&start=22&end=65&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><figcaption>Credit: Netflix. <a href="https://www.youtube.com/embed/ZOiPQ8nqB1s?&start=22&end=65&rel=0">Reader Mode.</a></figcaption>
-
-Remember that "Netflix" moment. That's the realization, the "clicking" in our head, that this book wants to recreate many times.
-
-Because Netflix isn't just any other product. It represents what the Internet Age is capable of. It's a powerful yet easy to use tool we can all afford. By reaching for it, the middle-class liberated ourselves from unnecessary driving, broadcast schedules, and late fees hidden in the fine-print.
-
-But getting more Netflix in our society requires rethinking a lot of our daily lives. We're all very used to living an Industrial Age, aka Blockbuster, way of life. It's a comfortable life, but it's also why we're so unhappy we "hate everything".
-
-In fact, realizing our happiness is the bellwether for good and evil in the game of politics is the second step to living in the Internet Age.
-
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOiPQ8nqB1s?&start=22&end=65&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><figcaption>Remember that "Netflix" moment. That's the realization, the "clicking" in our head, that this book wants to recreate many times as we venture to create a new philosophy for the Internet Age. Because getting more Netflix in our lives means leaving the Industrial Age, aka Blockbuster, way of life. It's a comfortable life because choices are pre-determined. Work is 9-5, cars are cool, and going to college means being educated. But behind the scenes our culture makes us so unhappy we "hate everything". Funny enough, our happiness is the bellwether for what defines good and evil in our new politics. Credit: Netflix. <a href="https://www.youtube.com/embed/ZOiPQ8nqB1s?&start=22&end=65&rel=0">Reader Mode.</a></figcaption>
 
 ## About the Author
 
@@ -269,7 +253,7 @@ Should we really have expected better?
 
 <div class="center">
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PracticalShockingDorado' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
-<figcaption>Credit: <a href="https://en.wikipedia.org/wiki/Office_Space">Office Space.</a> <a href="https://gfycat.com/PracticalShockingDorado">Reader Mode.</a>
+<figcaption>A classic for a all too good reason. Credit: <a href="https://en.wikipedia.org/wiki/Office_Space">Office Space.</a> <a href="https://gfycat.com/PracticalShockingDorado">Reader Mode.</a>
 </figcaption>
 
 ## Unhappiness Means We Have an Unhealthy Society
@@ -282,11 +266,11 @@ As a result, when using our education system, making a claim, signing a mortgage
 
 Having our say makes all the difference in the world. It's the difference between being lost at sea with a radio hearing the search parties. And holding a two-way radio so you can tell the rescuers where you are.
 
-But, the eight different bosses of the Industrial Age will never use Internet Age technology to empower you with a "two-way radio". Blockbuster didn't want internet streaming. Newspapers didn't adopt online classifieds. Universities didn't institute web-based education.
+But, the eight different bosses of the Industrial Age will never empower you with a Internet Age "two-way radio". Blockbuster didn't want internet streaming. Newspapers didn't adopt online classifieds. Universities didn't institute web-based education.
 
 Why would Industrial Age institutions and businesses upgrade you? It just means they'd downgrade themselves.
 
-This is why regular people have super-advanced apps like Skype, Instagram, and Google Maps in our private lives. But, we're rushing to figure out how to educate our kids online, checking mailboxes for insurance checks, and wondering how we'll earn a living. All while a killer disease searches the globe for human hosts.
+This is why regular people have super-advanced apps like Skype, Instagram, and Google Maps in our private lives. But, we're rushing to figure out how to educate our kids online, checking mailboxes for insurance checks, and wondering how we'll earn a living while a killer disease searches the globe for human hosts.
 
 Being so powerless is needless bullshit, to say the least.
 
@@ -337,9 +321,9 @@ Talk to anyone on the frontline of today's pandemic and ask them if they feel re
 
 I can sympathize. Whenever there is a bad storm, our car and property insurance claim departments scramble to keep up. Even though there's a big storm every few months.
 
-As a result, long-time and loyal insurance customers can wait hours to speak with somebody and months to get their claim checks. During my time, I'd have to (somehow) explain to why the insurance company takes customer's money digitally but insists on paying claims with paper checks sent via snail mail.
+As a result, long-time and loyal insurance customers can wait hours to speak with somebody and months to get their claim checks. During my time, I'd have to (somehow) explain why the insurance company takes customer's money digitally but insists on paying claims with paper checks sent via snail mail.
 
-It sucked trying to explain the nonsense. These customers paid their bills, and their claim was approved. Yet, they were like a ship-wrecked man on a beach, desperately waving at passing boats because he doesn't control a lever of power. In this case, a digital claim check, or a two-way radio.
+It sucked trying to explain the nonsense. These customers paid their bills, and their claim was approved. Yet, they were like a ship-wrecked man on a beach, desperately waving at passing boats because he doesn't have a two-way radio.
 
 There was no technical reason why my customers couldn't be sent their money instantly. But like I said above, why would powerful managers and executives give regular people a fair deal if they don't have to.
 
@@ -369,13 +353,13 @@ As the saying goes, we all either evolve or perish.
 
 Sadly until now, we've chosen to perish. We're living on borrowed time. Instead of admitting we needed to fundamentally rework our society with modern technology, we used money to sweep our problems under the rug.
 
-We the people decided to believe Big Business and Big Government we're looking out for our best interest. All we did was pay bailouts and work BS jobs to prevent evolving a new way of life.
+We the people decided to believe Big Business and Big Government we're looking out for our best interest. All we did was fund bailouts and work BS jobs to prevent evolving a new way of life.
 
 But now we can't sweep anything, anywhere. This pandemic is something different.
 
 Printing more money can't kill a virus. Regular people literally can't go shopping or watch professional sports to distract themselves from the bad news. After so many crises were ignored, this one is actually shutting our society down.
 
-The public scare, economic fall, and makeshift plans caused by this pandemic is not a surprise. Our society has been getting more in debt, surrounded by red-tape, dependent on foreign manufacturing, and micro-managed for years.
+The public scare, economic fall, and makeshift plans caused by this pandemic is not a surprise. Our society has been getting more in debt, surrounded by red-tape, dependent on foreign manufacturing, and micro-managed, for many years.
 
 The coronavirus is only exposing problems we've ignored for far too long.
 
@@ -385,9 +369,10 @@ Happily, there is no reason to despair. Internet Age technology is truly wondrou
 - ~~Watching broadcast television~~
 - ~~Calling a taxi-cab~~
 - ~~Writing directions on napkins~~
-- Rising insurance rates.
-- Shaky supply chain.
-- Car accidents.
+- Rising insurance rates
+- Expensive education
+- Shaky global supply chain
+- Car accidents
 
 But, to get to this new world, Main Street needs to believe in a new philosophy.
 
@@ -2062,7 +2047,9 @@ We have many lawyers, bureaucrats, and other people who work to control mortgage
 
 Today, we have far too few people who build things.
 
-This is horrible because we've only started the Internet Age, and should be transforming society from top to bottom with modern technologies. If we don't hurry up, we could literally forget how to build new and better things.
+This is horrible because we've only started the Internet Age, and should be transforming society from top to bottom with modern technologies. But, the farther we get from the heyday of American manufacturing, the harder it gets to remember how to use a hammer, draft table, or build a bridge.
+
+Literally, if we don't hurry up, we'll literally be unable to build the Internet Age.
 
 <div class="center">
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ChiefGleamingDamselfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
@@ -2622,7 +2609,7 @@ The Parliamentarians were now enraged.
 
 <div class="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Cx2kkgO5_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<figcaption>Before Rousseau's new philosophy, the people had a hard time justifying being player gods. Credit: <a href="https://en.wikipedia.org/wiki/Cromwell_(film)">Cromwell.</a> <a href="https://www.youtube.com/embed/7Cx2kkgO5_Y">Reader Mode.</a></figcaption>
+<figcaption>Before Rousseau's new philosophy, the people had a hard time justifying being player gods and declaring their independence. Credit: <a href="https://en.wikipedia.org/wiki/Cromwell_(film)">Cromwell.</a> <a href="https://www.youtube.com/embed/7Cx2kkgO5_Y">Reader Mode.</a></figcaption>
 
 They forgot about making a constitutional monarchy, and instead signed a warrant charging Charles for crimes against the English people. These newly minted player gods wanted all the levers of power.
 
