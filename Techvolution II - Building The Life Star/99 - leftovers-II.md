@@ -5,6 +5,29 @@
 
 The more tools we make, the more cyborgs we make. Human cyborgology keeps expanding. The more rule books each will have. This makes our politics breakdown. We have to learn we can't just following the "rule book" of being a corporate HR cyborg, or a ticket-taker movie usher, or a Blockbuster store manager.
 
+# LIFE STAR
+
+Have to integrate the next several chapters into a Life Star sequence, and use these topics as filters, toggles, moons of Jupiter, to showcase a ruling philosophy that, like a physicist and biologist does today, uses science to find the truth, not personal opinions absent of better sensory input like telescopes, microscopes and such...
+
+- Adapative radiation, happens in humanity inside every new age.
+- There's something about Life Star, and Sun, and knowledge, telling us the age/rules. The Sun tell us our age in revolutions, but Life Star tells us our scientific age.
+- Notably, once Techvolution frees people to choose their own tools, it's the majic of millions of people, that builds our Life Star.
+- Life Star is technological representation of nature. Like an ecosystem, it enforces accountability and reciprocation between lifeforms and thereby the Techvolution of life.
+- red / blue, start seeing individuals as contractors, going through life, not 9-5 people who need to and from work and find something to do on the weekends.
+- and civilization story gets a big upgrade.  We need to change our ruling philosophy to take advantage of digital tools. Only you can make it happen. That doesn't mean we replace red/blue, it means we disable the Sith from every coming back.
+- People will never stop following the rules. Anarchy doesn't work. The key to victory is changing the source of the rule book, from human rules, to Nature's. Just like science did.
+- the way to fight back against human rules/philosophies, is not to have a philosphical argugment of "better", simply track resources like in Nature. ex. how many laptops are totally replaced, rather then repaired, because repairability is so hard. and factor in this number/cost when buying/insuring the tool.
+- Rossman, think of neighbors as my source of help, not my source of competition. we have to know each other's "business" to have each other's back. Fight back with Life Star knowledge is power, not only regulation battles.
+- With Techvolution, you won’t fight political battles with bristol boards or painted faces. You’ll economically exercise your right to vote, by deciding which tools best solve your problem at home, work, and play. Unlike me, you’ll never need to deal with any gatekeepers, because you won’t have to knock at anyone’s door asking permission to do what’s best for you. Only nature's rules will end the gatekeepers.
+- https://soundcloud.com/bloomberg-business/episode-5-the-world-isnt-getting-pricier-fast-enough geo-centric economist trying to make the numbers keep working
+- You can thus think of the collection of player gods as an ecosystem. Either your lifeform actively working to harvest resources inside a food chain, or an extra who doesn't belong.
+- You ever notice how animals flee captivity to return to Nature? They do because Nature is the rational state that enforces fair, understandable, reasonable rules. A rational state makes everyone happy.
+- _Then came the Hush-A-Phone case. It involved a simple plastic mouthpiece that could be snapped onto a phone to amplify your voice while making it harder for those nearby to overhear you. It had been around for twenty years, causing no harm, but then an AT&T lawyer spotted one in a shopwindow, and the company decided to sue on the absurd ground that any external device, including a little plastic cone, could damage its network. It showed how far the company would go to protect its monopoly._ Correction: there are no monopolies in the game, just technologies. AT&T wasn't protecting it's monopoly, but its technology. It's more accurate to see our actions like this, then within the framework of companies.
+
+==
+
+
+
 ## Techvolution in Your Corner2
 
 And this return us to ordering anything on the frontline. You're not playing red / blue ideological martial arts. You have a problem. If you vote for a person to represent your interests, they should not every say, "it's not my fault "red/blue" isn't following the rules".

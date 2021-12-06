@@ -1,107 +1,6 @@
 
 # HOW TO SEE THE MATRIX
 
-by Johnny Majic
-
-## Backpage
-
-You, me, and everyone else just one person with one perspective. That's all we get to understand our place in the story of humanity. Thousands of years of history to look back on. Billion of people living today trying to make a living. Making sense of the mayhem may seem impossible.
-
-Read this book and you'll understand the craziness of human civilization. From the wars that ravage us to the creation that drive us to the politics that inflames us. The lesson starts off by understanding human civilization is a conglomeration of many smaller ones. From the Roman to the Ottoman to the French, each is fighting for their survival. Each was, and is, constantly vying for their turn leading humanity's technological evolution.
-
-This "techvolution" is the continuation of life's evolution. Human civilization has gone from Stone Age wanderers to Martian explorers in the blink of a dinosaur's eye.
-
-Human civilization's story is not between kings, consuls, and sultans acting like gods controlling us all. Every society is made up of regular people like you and me. Every society is simply a collection of people living their lives. Be those lives surviving the mayhem of invasion, conquest, or commuting to work. Everyone is always just another animal on Earth looking for resources and a better place to live.
-
-If regular people are actors inside the story of civilization, *How to See the Matrix* shows you how the script is written. Because it's not kings or queens that rule our everyday lives. It's religions, ideologies, and philosophies that unite people into a civilization filled with leaders, followers, judges, and troublemakers.
-
-Being sucked into a philosophy what drove Romans to build their infamous roads across half the world.  It's what drove Galileo to invent ways to expand our minds. Philosophy drives us today to search the cosmos for other lifeforms.
-
-Yet philosophy isn't perfect. When Mongols tore down roads, when priests set Friar Bruno on fire, and when humanity enslaved each other, it was ideals of "just and good society" that motivated us. When stuck inside a matrix, we do things that seem so rational in the present yet become so utterly ridiculous when looking back at ourselves with only a few years of hindsight.
-
-There are good and bad philosophies. Biased storytelling is a "matrix" around our eyes that causes humanity and our civilizations to fail so often. Read this book, and you'll see the glimmers of the matrix. No longer will you have just one perspective to understand humanity. You'll see how the bad storytelling of slavery, oppression, and racism always loses. And why hard work, invention, and the truth turn us into heroes who always win at the end of a great story.
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-
-2. [Stories Are Life](#stories-are-life)
-
-3. [Act One - The Beginning](#act-one)
-
-4. [Act Two - Blowing Up the DeathStar](#act-two)
-
-## Dedication
-
-_For everyone on the front lines._
-
-## Quote
-
-_They are most happy who have no story to tell._
-
-Anthony Trollope, He Knew He Was Right.
-
-# Introduction
-
-## The Matrix
-
-_The Matrix_ was a 1999 film that depicts a dystopian future. In the story, humanity is trapped inside a simulated reality called the Matrix that was created by intelligent machines. These AI driven machines built the fake world to distract humans while using our bodies as energy.
-
-Then, one day, when computer programmer Thomas Anderson, under the hacker alias "Neo", uncovers the truth, everything starts to change.
-
-Neo joins small rebellion against the machines. You see, some people can see through the illusion and live free lives outside the Matrix.
-
-The Matrix is the world of shadows, falsehoods, and lies. The matrix is a bad story told by corrupted leaders.
-
-This book's point is to say, yes, we live in the Matrix, but it's very hard to see. Seeing the truth in our daily lives is hard. Seeing the truth in our political lives is all the more challenging. Seeing the only true story, that of humanity's technological evolution, is extremely hard.
-
-The difficulty comes by asking "Who knows best?" We all want what's best for ourselves, and of course we all want what's best for our kids. Who or what can tell us these answers?
-
-Philosophy. A well thought out philosophy is the best way to understand the world we live in. A good philosophy shows us the truth, frees our mind, and gives us liberty. A good philosophy is one that tells humanity to evolve better technology to make life on Earth healthier, safer, and more anti-fragile.
-
-A good philosophy tells a good story. One where the leaders of humanity make sure we're all in the game, helping humanity evolve new technology, to help us advance civilization. A good philosophy makes sure the leaders don't lead for themselves.
-
-But philosophies are hard to understand. I mean, who's going to read Plato all day?
-
-The good thing is, philosophy isn't only intellectual. It's also technological.
-
-The book's cover page is person using a telescope, and seeing the Matrix. He's amazed because technology shows any and all of us a better, more accurate, reality in physics, chemistry, biology.
-
-Yet technology doesn't understand anything. Telescopes, spectrographs, x-rays are simply tools. Only when we free human minds are we open to see the truth as shown to us by technology.
-
-That's what this book is about. It will let you see the world in a different light. Making his telescope let Galileo see through the Matrix of religiosity and start the Scientific Revolution. Likewise, we're also on the cusp of a new revolution. But it won't be physics or astronomy that change. This time technology will transform politics, economics, and other topics dealing with humanity.
-
-We can see the matrix today once we train ourselves to accept the truth new technology is showing us today. Who is in shape and healthy, and who isn't. Who is hustling to start new companies, and who isn't. Who is selfish and who is selfless. Which people, cultures, society's and civilizations are slacking, and which are advancing human civilization?
-
-In _Techvolution_ I tried very hard to summarize hundreds of years of human history and thought to help casual observers better understand their world and their place inside it. I'm pretty happy with how it turned out (although don't think anyone will read it).
-
-In summary I said, today in 2020, we are well past the end of the Industrial Age. Yet, the Conservative and Progressive ideologies-born to serve the Industrial Age-refuse to die. Thus, they're both fighting the Internet Age, and blame each other for their shared inability to run a modern, prosperous, and more important, happy society.
-
-Without a new ruling philosophy to replace them, Progressives and Conservatives will extinguish themselves just as the Catholics and Protestants did during Galileo's time. With war and bloodshed. I dreamed of a way to skip that horrible waste with _Techvolution: A New Philosophy_.
-
-I don't have any of those "save the world" aspirations for this book.
-
-This time I will simply explain where the philosophy of Techvolution came from. _How to See the Matrix_ helps persons understand their place in the never-ending story of life's evolution. After reading this book, the reader will understand politics and economics as well as the people started to understood astronomy after looking through Galileo's telescope.
-
-No jokes. And the key to understanding the story of evolution starts by understanding what stories are, how they work, and what makes them reveal the difference between the matrix, and the truth.
-
-# Stories
-
-## Past Knowledge
-
-This book leans heavily on past knowledge. I don't pretend to originate nearly any of it. I just wanted to meld it together to help the reader better understand their political and economic world. If you read _Techvolution_ you should already know humanity develops in technological Ages. Inside these Ages we fracture into four groups.
-
-- Antagonists who want to keep humanity using old tools. Think people like King Louis XVI who refused to give regular people a vote.
-- Protagonists who want to improve human life with new and better tools. thing Nikola Tesla who gave the world electricity yet died in poverty.
-- Extras who stay out of the fight, often distracted by the spectacle and dark majic of old tools. People like Royalists in Europe's Revolutionary Wars.
-- Player gods, the people on Main Street who act in concert to support the protagonists and use the majic of new tools to upgrade life on Earth. The open-source community today, who spend their days writing and using Wikipedia articles or making free programming tutorials on YouTube.
-
-All these people are a cast of characters in the ongoing story of humanity's techvolution. 
-
-And to interpret this world, and your place in it, we must understand stories like we understand Newton's physics today.
-
-To master stories I've summarizes David Mamet's book _On Directing Film_. We'll use Mamet to teach us about stories. At the end of this chapter you'll understand what divides a good story from a bad one, and even learn how to write your own if you want to. After this chapter, we'll go to work to use our newfound storytelling skills to explain your place in story techvolution, and make sure no one ever lives in the Matrix again.
-
 ## Mamet on Stories
 
 Mamet starts _On Directing Film_ by saying the book is based on a series of film directing lectures he gave at Columbia University in the fall of 1987. He had just finished directing his second film and felt he was "like the pilot with two hundred hours of flying time, I was the most dangerous thing around"[1]. So, when directing his movies and writing this book on directing, Mamet compensated for his lack of directing knowledge with his extensive writing experience.
@@ -117,8 +16,6 @@ Mamet believes storytelling is a craft just like building a house. It has natura
 Hence, to make a good story, a writer or director doesn't need to make pretty visuals, but only imagine a logical progression of incidents. "Screenwriting is craft based on logic. It consists of the assiduous application of several very basic questions: What does the hero want? What hinders him from getting it? What happens if he does not get it?." A writer's ego answers these questions in a logical progression to make a story. When done, he lets his id write the more artistic, and less critical, dialogue.
 
 The hand-off between ego and id is analogous to a screenwriter giving a director a screenplay. The director's job is to present the story as the writer wrote it, and find simple visual shots to show it. Directing is thus the "joyful extension of screen writing." Which is how Mamet says he taught his course and wrote this book.
-
-So, let's go to the next chapter of _On Directing Film_, so keep learning about stories, and therefore better see the Matrix.
 
 ## Chapter 1 - Storytelling
 
@@ -147,8 +44,6 @@ The importance of following proper storytelling technique is to free the mind fr
 Mamet says stories with uninflected shots are natural; which is why dreams have so much power. Dreams are unrelated images that themselves have little meaning. It's the juxtaposition of images that gives dreams their terror and beauty. Dreams don't have narration, nor do they follow a person around for a day. Dreams are a series of shots that imply meaning. Thus, studying psychoanalysis, like _The Interpretation of Dreams, The Uses of Enchantment_, and _Memories, Dreams, Reflections_ will help a filmmaker hone their craft and tell powerful stories.
 
 The first chapter ends by Mamet saying a film is a dream sequence. _Platoon_ is not any more or less realistic then _Dumbo_; both tell a logical and surprising progression of incidents with uninflected shots. All stories are thus make-believe; the question Mamet asks is, "how good make-believe is it going to be?"
-
-Make believe is what the Matrix is. Thus by understanding why stories can be so powerful, we've gotten a little closed to seeing through the story of our lives inside the Matrix.
 
 ## Chapter 2 - Where Do You Put the Camera
 
@@ -238,15 +133,7 @@ The chapter ends with a student asking Mamet what if the hero didn't get his new
 
 By which Mamet means the class made a story with no unnecessary characterizations, "interesting ideas," or pandering to an ignorant executive. A simple scene about a common problem that anyone can relate to and thus enjoy.
 
-And now you better understand how to see the Matrix of everyday life. Always keep in mind every story has a super-objective, and the MacGuffin is more important then the hero. Thus, you are not the hero of your own story. The technology you create is more important, because new tools are what life needs to better evolve. Evolving new tools is the super-objective of life, and you're just a character inside.
-
-By reading this book, I want you to realize you can decide what character you want to be in the never-ending, beautiful, awesome story of life.
-
-Antagonsists are happy with the way society is today. They hold the levers of power and don't see why things have to change. Idealistic Protagonists imagine a better world, a place where more people hold levers of power; be it with science books, clean drinking water, or solar panels.
-
-Regular people are left in the middle, trying to decide which side to support. The typical world run by the people in power, or the new and innovative world run by unknown heroes? To gather support, Protagonists give speeches of hope, change, and a majical world. To keep things the same, Antagonists give speeches of hope, change, and a majical world.
-
-One side is being honest, the other side is not. But they both look and sound the same. The idea of _How to See the Matrix_, is to empower you to see the difference for yourself.
+Always keep in mind every story has a super-objective, and the MacGuffin is more important then the hero. Thus, you are not the hero of your own story. The technology you create is more important, because new tools are what life needs to better evolve. Evolving new tools is the super-objective of life, and you're just a character inside.
 
 ## Chapter 3 - Counter-cultural Architecture and Dramatic Structure
 
@@ -319,10 +206,6 @@ Here Mamet tells a Humphrey Bogart story. The legendary actor described how a fa
 In contrast, "Contemporary playwriting, filmmaking, and acting tend to offer us the reverse—people performing mundane and predictable actions in an overblown way." A good director should counter that trend by doing his homework, make his shot list, tell the actor to keep it simple, and then put the camera in the most straightforward place to get the shot.
 
 Mamet now tell the reader to learn these lessons and go make a movie. Either the reader will find someone who knows all technical (and learnable) steps involved or will learn them himself. Mamet insists there's no unique skill required to make tell a story. There's no genius required. Like playing the piano, anyone can learn. Some will be better than others, but anyone can learn. Likewise, the components of movie-making, like cinematography and sound mixing, are just technical skills, and "directing is just a technical skill. Make your shot list."[16]
-
-So, Stargazer, let's use Mamet's lessons to make a movie. After all, Antagonists and Protagonists are both telling us a story. To tell the difference between the good and bad, it'll help a lot to know how to make a story ourselves.
-
-And if anyone can tell a story, anyone can see the Matrix.
 
 ## Chapter 5 - Pig-The Movie
 
@@ -496,33 +379,9 @@ Yes, that is how I see 'producers.' They are 'let me take that cow to the fair f
 
 **Talent**: "If you're correct in the small things, the smallest of which in this case is the choice of a single uninflected shot, then you will be correct in the larger things. And then your film will be as correct and as ordered and as well-intentioned as you are. It can never be more so, but it can be less so if you desire to manipulate the material, or hope that God wall intervene and save you, which is what most people mean when they talk about 'talent.'"[35]
 
-# How to See the Matrix
+## Aristotle
 
-Now we know what stories are and how to tell them. In summary, a story is started by an inciting event that forces a person to solve a newfound problem. While many things may happen to the heroes character along the way, the audience only cares about the events relevant to solving the problem. As soon as the problem is solved (or not), the story is done.
-
-Anyone can study and master the rules of storytelling. A good writer makes her audience happy, by focusing on craft instead of indulging in impulses.
-
-How to see the Matrix is as simple as seeing the story of human civilization. We structure our societies to solve problems, such as finding water, or building shelter. And ust as _Pig-The Movie_ was solved with a material thing (another pig), humanity solves our problems with irrigation, or insulated concrete walls.
-
-The search for and fight over the material things to solve problems (or not) is the root of understanding storytelling in movies and human societies.
-
-The first lesson is to realize evolution is the through-line of life's story. Evolving better adaptions is what life demands from all its representatives. That means any and all lifeforms must always find new and better ways to harvest resources.
-
-But life has no writer. No storytelling master like Mamet exists to write the story of humanity. The story of right and wrong, good and bad inside human politics and economics is written by other humans.
-
-And these are the Protagonists and Antagonists. Each fights over the adaptations, the tools we use in our society, and they each fight by telling us a story.
-
-One side tells a good story about solving a problem. The other side tells a bad story filled with personal impulses, silly characterizations, and useless backstory.
-
-And now you're well on the way to telling difference between good and bad, and seeing the Matrix.
-
-You'll be much better along the path to freeing your mind, once you take an even closer look at storytelling.
-
-## Continued
-
-Mamet helps understand what a story is and how to create it. He, like most screenwriters, say Aristotle's _Poetics_ is the only book anyone hopeful storyteller needs to read.
-
-Despite it being 2300 years old, _Poetics_ is deconstruts the nature of stories in the kind of detail we need to see the Matrix.
+Mamet helps understand what a story is and how to create it. He, like most screenwriters, say Aristotle's _Poetics_ is the only book any hopeful storyteller needs to read.
 
 Like Mamet, a story to Aristotle is a character addressing a problem through a series of events. The events are organized in three acts. The first act is the introduction of the problem, the protagonist who fights to overcome it, and the antagonist who fights against the protagonist. The second act is where both characters and their supporters fight over the problem. In the third act, the question of which side will win is answered in the climax. Throughout this process, drama is created by constant questions about how the events will progress and whether the problem will be overcome. The story is thus exciting, because it yields surprises as the events unfold. Crucially, Aristotle notes that the more unexpected, yet logical, the events are, the better the story becomes, because a logical story is a believable one. Believability in turn allows the audience to invest their emotions into the story; hence, a well-told story makes us feel surprised, intrigued, mad, disgusted, joyous, or any other emotion.
 
@@ -568,31 +427,9 @@ Dialogue is how characters demand what they want. The most memorable moments of 
 <figcaption>Props manifest the story in the real world, making it easier to follow and understand</figcaption>
 </figure>
 
-_Braveheart_ showcases how a prop can help tell a story. After Williams father died, Murron gave him a flower at the funeral. William leaves Scotland for several years, but returns as a young adult and quickly sets to wooing Murron. One way William tries to prove his love, is by returning the flower Murron gave him all those years ago. Willian even puts it inside a cloth for Murron.
+Not all props are mere spectacle however. As Mamet taught us inside the "Get a Retraction Scene" and its term paper inside a notebook, some props manifest the entire story. These props must stand out, and be recognizable.
 
-It worked, and Murron was very smitten.
+A great example is the movie _Braveheart_. To showcase the love of William Wallace and Murron, the movie uses a simple flower and cloth. They're the gifts each lover gave to the other. And as Wallace fights off the English tyranny, the cloth is a reminder of the wholesome life the Scots are fighting for.
 
-Too smitten in fact, because to get at the young and dangerous Wallace, the English kill Murron. The murdering English magistrate even wipes Murrons blood from his blade with the cloth.
+However, the point here is that the actual prop, be it a cloth, flower, or a Death Star, is easier to make then knowing how to use spectacle to advance a story. Most movies today concentrate on the effect/prop and forget it’s suppose to mean something, and help advance a story.
 
-In response, William kills the English garrison and forever keeps the cloth to remember his beloved.
-
-William keeps fighting the English; holding his cloth. Even after William loses the climactic battle, and is being dismembered for treason, he still clasps to hold the Murron's cloth.
-
-At the end of the _Braveheart_, the Scottish king finally gets the courage to fight the English. He's motivated by gripping Williams and Murrons cloth.
-
-Thus, just as Mamet taught us, a simple MacGuffin, whose only notable feature is being easily identifiable, helps the audience experience the story of _Braveheart_. The flower/cloth helps the view understand the entire story because it was the actualization of the story into a physical object.
-
-However the point here is that the actual prop, be it a cloth, flower, or a Death Star, is easier to make then knowing how to use spectacle to advance a story. Most movies today concentrate on the effect/prop and forget it’s suppose to mean something, and help advance a story.
-
-## Today's Horrible, and Ideological, Stories
-
-> "That's hardly a scientific observation commander"
-
->"Caption. The most elementary and valuable statement in science, the beginning of wisdom is 'I do not know'. I do not know what that is sir."
-*source: Star Trek: TNG https://www.youtube.com/watch?v=ZcV25N37-C4*
-
-How often does a Conservative or Progressive ever say, they don't know?
-
-If you're doctor or botanist said they knew everything, they'd be shits. The truth is the more someone knows, the more likely they understand how little anyone can really know for sure.
-
-But human created version of Truth can be redefined to fit the minds of the corrupted storyteller.

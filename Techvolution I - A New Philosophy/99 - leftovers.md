@@ -3388,3 +3388,47 @@ The best managers figure how to get great outcomes by setting the appropriate co
 </div>
 
 Lorem Ipsum. Lorem Ipsum.Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum
+
+## Bears Everywhere, Polar Bears Only In Some Places
+
+I never wanted to write this book. Most of this book is based on combinining the lessons of evolutionary biology and political philosophy "How to See the Matrix".
+
+I think they're the same field of study, so similar they suggest a supreme physical life field of some kind. That's the book I wanted to write. I used my take on political societies earned by using Aristotle's Poetics to better understand Hegelian Dialectics. It's work I did years ago. But it's original thinking will need the objective data from the Life Star to prove.
+
+There's no way around the game of civilization. Like evolution to lifeforms, we all are inside it. It's paint by numbers. Tracks on the road. We all live and die under it's demands. Playing a Civilization computer game is really the best way to understand it. In the game, every player starts off small, then gathers resources, invests them smartly, and grows. Playing the game teaches the importance of geography, technological upgrades, adopting modern philosophies, defeating everyone who opposes you, investing in research and development, avoiding building palaces to host jewellery laden banquets and balls.
+
+But no computer game forces the player into diversification or "adaptive radiation." In every game a player tries to take over the world with his one civilization. Never does the player have to segment himself into different civilizations. But, in natura this life-cycle of seed, growth, then adaption and diversificationns happens to all lifeforms and thus all civilizations.
+
+Few people realize how human cyborgology is the same as biology.
+
+Polar Bears are nearly identitical to Brown Bears. But they're polar for a good reason. If they didn't adapt to the cold, water, and food supply, they've never live in the Artic. Thus, life diversified them. Adaptation is why we can't send the suffering polar bears to the Amazon, or even Antartica. They are not adapted to the climate in one area, and the ecosystem in the other. Imagine penguins with a few antartic polar bears walking around. Happy feet indeed.
+
+The point is this. We evolve just like any other lifeform. But we evolve with tools, and we evolve in ages. So we start off small, grow, and diversity in waves. Each new age, is like new lifeforms, new cyborgs, spreading across the world for the first time. Look at the European Powers below, who colonized the world a few generations ago during the Age of Discovery.
+
+<div style="width:100%;height:0;padding-bottom:44%;position:relative;"><iframe src="https://giphy.com/embed/eSItBDecz3oJy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/maps-cartography-territories-eSItBDecz3oJy">via GIPHY</a></p>
+
+The European Powers spread advanced civilization far and wide. Brutally in some cases—has anyone invented a way to spread new civilization or new lifeform easily? But that's the point. Evolution doesn't care about individuals. Survival of the best adaptation is Nature's rulebook.
+
+So Trump and Brexit were inevitable. Our society wants to diversity after the Industrial Age. This is part of the game of civilization we all play, but few see the entireity of. That's why the established powers of the Industrial Age were so suprised, and have so much hatred, for nativist politics in the West. Although nativist politics isn't the future. Like the English Civil War, they're using old philosophies to try and make fundamental change. Only Techvolution, conscious adaptation using modern tools, is the new philosophy for our new Internet Age.
+
+I plan to write a textbook on Techvolution (How to See the Matrix), I'll love to now delve more into the game of civilization for you., and teach you how to decode the trends of history: what a civil war is, how to predict a revolution, and so forth. The game defines our lives in so many ways, because it determines the roles we play in our lives. The accident of birth to parents, geography, or time-period makes us antagonists, protagonists, extras and player gods. Few people understand these roles. Once they can see it in the Life Star mirror, they'll be far more likely to choose Techvolution. But that'll come later. Hopefully.
+
+## The End of One Game, and the Beginning of a New One
+
+This section is my personal opinion, so take it for what it's worth to you.
+
+The Western World is a made up term. Don't get me wrong, it's a good way to describe the shared culture of France, Britain, Holland, America, Austrialia and the other members of the political unit we call "The West". But if you look down at the globe, these landmasses wouldn't look united. The West is a human creation. There was no "Western Europe" in Roman times. The entire Mediterranean Sea and surrounding land was unified under the Roman Empire.
+
+If the world had ended in 1900, The West would have won the game of civilization. Western Europe didn't have a head start. They didn't have any sort of advantage. If it's geography, resources, genes, or whatever were the reason for the West's rise to power, why did Rome fall. Why did Western Europe suffer so greatly in the Dark Ages if they had advantages available to no one else?
+
+Western Europe conqured the world, because it used modern technology better than any other civilization. Their philosophy let them do that, and philosophy is a gift. It lets humanity invent and use new and better tools. Ancient Greece got it first, then it went to Rome, then to Middle East in the Islamic Golden Age, back to Italy in the Renaissance, where it spread to Western Civilization during the Science and Industrial Age, and thereafter to the world via European colonialization.
+
+Playing Civilzation, Anno 1800, or any other game is a better education than the best schooling today. These games mimick real-life, and thus integrate so many lessons. They force players to think of the big picture that's so hard to appreciate in real-life. It's an invaluable perspective, especially to our society which is so obessed with itself, inside our spectacle, and art stories.
+
+Our culture is very entrenched in the Industrial Age. But, we're in an entirely new age. The Internet Age is just as historical and powerful as the Science Age. And nobody has earned victory over it yet. Africa, South America, East Asia, Middle East, India, Eastern Europe, any civilization in the world is no better off then the West. Actually, I'd say, the West is far behind in the race to win the era of mass-collaboration.
+
+In all my schooling, reading, discussing, working, in all my life, the ancestors of the barbarian kings, the ones whose grand parents worked 365 days a year in horrible English factories, who suffered famines in Ireland, draughts in France, and wars throughout Europe, the ones who worked the labs in New York, who worked the mines of Pennsylvania, the lines of Michigan, who solved millions of different problems during the Science and Industrial Ages as player gods; their descendents today simple don't want to feel frontline pain.
+
+And without pain, these people fell no reason to update to the Internet Age. As one sharp observer noted to me, "it's like they've folded their cards."
+
+Whichever society throws away the memories, excuses, and philosphies of the past, and embraces Techvolution and the era of mass-collaboration, will be the winner of the Internet Age. It's their player god who will happily reign supreme for many years in the never ending game of civilization. I smile, thinking of all those bakers, tailors, designers, roofers, engineers, cleaners, repairmen, and maybe even a few majicians, smiling on a new and empowered Main Street.

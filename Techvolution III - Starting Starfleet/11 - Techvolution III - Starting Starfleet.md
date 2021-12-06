@@ -45,6 +45,13 @@ _"I feel like I'm in a fucking circus"._
 
 co-worker
 
+_"...I was one of those people who needed validation in the popular culture when I was growing up and and that's the power of the medium that's one of the things that we're able to do is by telling these stories giving ourselves an idea that you know it's all good we're all in this together that there's a place for you that's what Star Trek represents to people when the future comes there's a place for you and that we will have reached and a part of our evolution as a species where race and class and sex and how much you make a year all of those will have been overcome those are no longer the things that we are so concerned with on a day-to-day basis there's a principle in Star Trek called edik an acronym IDIC infinite diversity in infinite combination and in jeans vision there was an inherent respect for all of the diversity that exists as life throughout the cosmos that's a world I want to live in you"_
+
+LeVar Burton discusses getting cast on Star Trek The Next Generation - 
+EMMYTVLEGENDS.ORG
+https://youtu.be/I8aq_V2lhF8?t=218
+
+
 # Introduction
 
 ## Reminder
