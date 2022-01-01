@@ -1,15 +1,16 @@
 
 # Why Can't Dreams Be Memories
 
-## Teaching Emile To Be a Stargazer
+## Teaching Emile To Stargaze
 
-Short stories
+Take that....
 
 ## Table of Contents
 
 - [Why Can't Dreams Be Memories](#why-cant-dreams-be-memories)
-  - [Teaching Emile To Be a Stargazer](#teaching-emile-to-be-a-stargazer)
+  - [Teaching Emile To Stargaze](#teaching-emile-to-stargaze)
   - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
   - [Candy Cane](#candy-cane)
     - [chapter notes](#chapter-notes)
   - [24 Reasons Why](#24-reasons-why)
@@ -19,47 +20,174 @@ Short stories
   - [Marky F*cking Magic](#marky-fcking-magic)
   - [Being Judged By Taylor Swift](#being-judged-by-taylor-swift)
 
+## Introduction
+
+I've got this great story about two friends stealing a monkey from a zoo. They saw an ad with a cute little monkey, and being higher than astronauts, they dreamed-up a surprisingly ingenious plan to get a new pet.
+
+Their plan worked. These two potheads wanted an exotic animal to play with and they got one. Dreams became reality. How awesome is that!
+
+Problem is they stole a 50 pound baboon instead. Dreams died away as a nightmare was born. Baboons don't make good pets. They're huge, extremely strong, agile, emotional primates. Most concerning for my two friends was the fact baboons have big, loving, protective families.
+
+True to their nature, the baboon's acted fast and made a plan. It wasn't ingenious. It was very aggressive. Baboons gathered. Baboons rampaged. Glass shattered. Metal broke.
+
+My friends were hunted down.
+
+Happily everything worked out. The monkey's got their friend back. The potheads got out okay. And I ended up with a sure fire way to make anyone laugh. All in all society got a good deal. No matter who I've told, happy drunks or suffering souls, everyone's day brightens-up when I tell them the story about two idiots stealing a monkey from a zoo.
+
+People can't help but smile because life hardwired us to love good stories. Dogs love to fetch. Cats love to hunt. I bet even trees smile in their own way when the sun shines. Every life-form on this planet has their path to happiness. For us it's the wonder of a good story.
+
+Yet, and here's my point, everything isn't rainbows and sunshine on Earth. We don't live in the Garden of Eden. Happiness is rare. Life is hard. And while we love sharing our happy and funny stories, sharing our sad ones isn't so easy.
+
+We all have painful stories. We must. Depression, bankruptcy, harassment aren't just words. They're stories lived by real people every day. It's sad but true; we're often living the part of the scared baboon in the story of our lives.
+
+We keep going. It's a credit to us in fact that we keep living and giving ourselves new memories. But what kind of memories are we adding? Are we living our best lives in 2022?
+
+Are we thriving?
+
+We're drawn to happiness like a moth to light, but we learn the most from getting burned. The memories of overcoming failure is the best fuel to pursue our dreams.
+
+Life wants us to embrace the pain of failure. But we too often don't. It's easier to borrow more money then ask for help. Simpler to post a fake smile on Instagram then explain what the smile is covering up. It's definitely easier to binge on Netflix than admit we're increasingly watching alone.
+
+Maybe it's our consumer lifestyle. Maybe it's human nature. Whatever the reason, today we aren't living our fullest lives because we don't reward ourselves, and each other, for experiencing the pain of failure.
+
+Climate change. Enormous debt. Opioid epidemic. These aren't just words. These are nightmares lived by all of us in one way or another. To overcome them we need more fuel; the fuel of more positive stories. The memory of another's perseverance empowers us to become the hero of our own story.
+
+It sucks I'll never hear your stories. I know you've added some great chapters to the story of life. But I am happy I'm going to tell you this story. No, I'm not going to tell you about the poor baboon lured into a car trunk. Since I have you here, I'm going to tell you a much better story.
+
+This story will give you memories. Delightfully happy ones, and tear jerking, crying on the pages, sad ones. This is a song of happiness and sorrow. This is a story about a person brave enough to always embrace the pain of turning dreams into memories. Just as Life wants us to live. Always fighting for happiness. Never scared of the pain. The hero of this story proudly shared the entire journey to teach us all how to live a better life.
+
+I'm going to tell you a story about two kids visiting an Emergency Room. I'm going to tell you a story about the one who never left.
+
 ## Candy Cane
 
-I've got this great story about some friends stealing a monkey from a zoo. They saw a commercial with a cute little monkey-and being high as weed can make you-conceived a surprisingly ingenious plan to get a new pet.
+A big glass revolving door. Its purpose is to spin. It spins and spins because it keeps people moving.
 
-It work too. They actually got the primate. But, and this is a big blue butt, they stole a 70 pound baboon instead. And then that monkey's family-being as mad as abduction can make you-conceived their own unsurprisingly vicious plan to enact revenge.
+It's moving loads of people tonight. A steady stream of people are coming in, and the door keeps sending them back out to resume their lives.
 
-I've never met a person who didn't laugh at the idiots who stole a baboon from a zoo. It's one of the stories I've got that always makes someone happy.
+On the outside is a downtown city street. The streets are filled with slow moving cars. The sidewalks have fast moving people. There's a gentle snowfall blanketing everything. Streetlamps, headlights, and Christmas lights bounce off the snow in all directions.
 
-We all love being happy don't we. Young and old, girl and boy, even cats and dogs, every living thing loves to be happy. I bet trees even smile when the sun shines. And nothing makes us happier than a funny story. Aren't parties just a place we exchange or make new memories?
+A pair white sneakers jumps into the spin of the big glass doors. The shoes follow the slow motion of the revolving door, go inside the building, and stop on the thick black carpet that has "Hopedale Hospital" written in large pink letters.
 
-To have any happiness, we need someone out there to take the chance, to make the memory for the rest of us to enjoy.
+The white shoes first steps are stomps that kick-off fluffy white snow from the shinny white shoes. The stomps are rhythmic, and when they stop, a pair of skinny hands wipe white powder from blue jeans, a bulky winter jacket, and a big thick navy blue Canada Goose toque.
 
-Yet, we don't talk about our sad stories. There are no parties where people talk about their sad stories. Although the world is dark and full of terrors. Black holes, solar flares, hunger, disease, there's a million things to make us sad.
+Free from snow, the kid, Mark, stops and looks around.
 
-You have painful stories. You must. Each of us does. But when do we ever tell them? Never, or if not never, pretty much never. Maybe we've paid a therapist to listen, or we're lucky enough to trust someone to share our sorrows. I've met a few angels in my life who actually listened instead of waiting for their turn to speak.
+It's a young face, just about to turn a teenager. Happy with his cleaning job, Mark pulls a candy cane from inside his jacket. He twirls the treat. The red and white cane twirls between the fingers; like a pencil in the hands of a mathematician thinking of an equation.
 
-But that kind of therapy is rare. We hate pain so much we just don't want to hear it, sometimes even from our loved ones.
+The treat stops spinning. Mark pulls out a pocket knife, cuts the plastic, and peels it back. Soon he's tasting the the white and red Christmas treat.
 
-So if we almost never share them, why don't we forget the sad stories? Why do we remember the pain? Why do sad memories even exist!
+Happy with his treat, Mark looks around a hospital Emergency Room.
 
-Because we don't get to chose what stays in our brains. Life designed us, and designed us for a reason. We seek out happiness, but we learn from pain.
+There's about 50 chairs inside this ER. It's 8pm, so it's a high traffic time, a time when each chair is filled with a sick person, or someone sick with worry.
 
-And so our brains store the worst pains right next to the brightest happiness. Life screwed us. We're drawn to happiness like a moth to light, but we learn the most from pain of getting zapped.
+From behind a desk a nurse asks the kid, "Hi, can you please take a seat."
 
-Your, mine, every life since forever, is nothing but a collection of happy and sad stories. Happy and sad ones. Of first loves, forgotten friends, and the times you just wanted another try.
+Mark politely goes to the nurse and takes a seat.
 
-I'm sad I'll never hear your stories. I'm sure you've got some great "monkey" stories of your own. I'm not going to tell you that one now. Because since I have you here, I'm going to tell you a better one.
+"Thank you." says the nurse. "Now please, can you please tell me where it hurts.". Mark steals another look at the waiting room. He then looks back at the nurse.
 
-This story will give you memories; delightfully happy ones and tear jerking, crying on the pages sad ones. You'll love the upsides and learn a lot from the down.
+"It's my stomach. I feel queasy. I was at a Christmas party and my mom thinks I ate something bad there. I snuck in some eggnog but don't tell her."
 
-I'm going to tell you a story about two kids visiting a Emergency Room. I'm going to tell you a story about the one who never left.
+The nurse looks up. There's a lady wrapped in layers from head to toe standing behind Mark. She doesn't say anything. Instead she hands the nurse a piece of paper, presumably the insurance details.
 
----
+"Her English isn't so good. Portuguese. I'll translate."
 
-Big glass entry door open. A pair of perfectly white sneakers walk in. Snow on the sneakers is kicked off and a pair of hands wipe the snow off of jeans and a bulky winter jacket. Now a young face, around 10 maybe 12, looks around a Emergency Room.
+"Oh, okay. Do you feel like you have to vomit?"
 
-Each chair is filled with a sick person, or someone sick with worry.
+"Like my teacher just called a pop quiz. Candy canes help for some reason."
 
+"Okay, we'll get you looked at. Please take this bag--please use it--and we'll call you soon"
 
+"Will it be long?"
 
-Back to those white shoes. A nurse asks the kid, "Hi, can you say where does it hurt...". The young boy is listening to the nurse, but steals another look at the waiting room and one lady.
+"Maybe an hour and you'll be on your way." Mark responds with; "An hour, that's nothing. Thank you."
+
+The introductions done, the nurse finishes her paperwork before looking for another person to admit. Marky gets up, walks towards the waiting room, and looks around.
+
+There's only a few empty chairs spattered around.
+
+Marky still sucks on his candy. He walks through the rows, and finds himself a seat. None for his mother, so she's forced to sit a row away. Being a foreigner she's used to giving her kid the reigns when they're out in public.
+
+As Mark's mother, Carolina is her name by the way, takes out her crossword puzzle, Mark is in his chair, surrounded by strangers, sucking his candy cane.
+
+He's looking around. Scoping the place out. Scoping the people out. Younger, older, white, black, male, female. A nice eclectic group of people.
+
+We've all been here before. Like any bus, train, or waiting room, a bunch of people are sitting together, in a community they share, all with much in common.
+
+Some are chatting with whoever they came with. Some read magazines, newspapers. But most everyone, is staring into their smartphones.
+
+Marky looks around at each person. It's either YouTube, Instagram, TikTok, Netflix.
+
+Marky asks the person next to him "What are you watching?"
+
+His neighbor says "The Office".
+
+"Why are you watching it?"
+
+"I love this episode. It's the one where Michael wears women's clothes?" the strangers responds barely breaking eye contact.
+
+"You know what happens? Why are you watching it?"
+
+"It's funny."
+
+"That sounds horrible boring. Wanna see a magic trick?"
+
+The Michael Scott fan pulls his head up and waits. A few people glance over.
+
+Mark takes a candy cane out. He presents it like a magicians are apt by twirling it in his hands until he shakes his hand, once, twice, and bam....
+
+Out comes two candy canes.
+
+It's a neat trick.
+
+"I've seen better." says the Michael Scott fan.
+
+"You've seen a magic show!" Mark's eyes beam.
+
+"American's Got Talent has them all the time, they're so amazing. Yours was okay."
+
+Michael Scott goes back to his phone.
+
+"Everyone wants to be the star" says a teenage girl to Mark.
+
+"Hey, what is your name?" He gets ignored.
+
+"Jim"
+
+"I'm Mark. Where are you from, why are you here Jim?"
+
+Jim blurts out coldly "That's very inappropriate" and goes back to his phone.
+
+"I was just curious. Wanted to know more about you." Still nothing. "I have a stomach ache." Mark finishes but still isn't getting any takers.
+
+The teenage girl, with eyes filled with frustration and a voice overflowing with angst, "Yes! Please stop. I didn't come here to talk to you."
+
+Ants communicate with each other all the time. But ants don't have vocal cords so they can't talk. Being almost blind strikes out sign language too. But ants are part of a community, a community that works together so darn much scientists call ant colonies a super-organism. And individual ants can come together into strong communities because ants smell and so ants use chemicals called pheromone to tell each other everything.
+
+Whenever you see ants moving, builder, hunting like they're one unit, it's all coordinated with chemicals.
+
+And that is what this teenage girl does with Mark. She crushes him, shames him with virtual pheromones to shut the fuck up, sit there, and wait his turn at the fate of the doctor's verdict.
+
+Mark doesn't just stop talking. He gets the message the girl wants to force on him.
+
+- Note, and this is important, Marky finds dull people. No one wants to socialize. These characters aren't like in the sitcoms. They're guarded and anxious, or just fucking boring, people with no story to tell but Netflix (mean GO train girl).  Marky wants to engage and exchange (perhaps about his illness?), but finds nothing but dead air.
+
+- note, most people are dressed well. they're prepared, it not experiencing an emergency.
+
+- It's then that Marky invents (relives his own story as it turns out) his real story, with his real mother. Which starts below....
+
+Just then a new person walks into the ER. A young mother clutching a toddler. The mother is dressed in random clothes. She walks past the occupied triage nurse and grabs a seat.
+
+A row of chairs has opened up near the back. The mother sits down, holding her covered kid in her arms.
+
+It's a nice image. One for a movie, like the ones everyone else is watching on their smartphones.
+
+Marky takes in the image. He even draws it on his hand. It being Christmas, he can't help but think of Mary holding a sick Jesus trying to find some help for an ailment.
+
+Even Jesus must have had sprained ankle, cold, or stomach flu.
+
+Marky looks at her some more, and takes in the image. He sees what anyone would see. A very stressed mother holding her kid in a ER waiting room.
+
 
 She's thirtish, with baggy eyes ruffled clothes. She totally ignored the ideals of fashion. At a corporate job she's be sent home for breaking the rules. But no one can make her leave here, because she holds her child. The little girl is so wrapped in her mother's arms, bundled up so much and held so tight we can't even see the tike.
 
@@ -68,16 +196,6 @@ Care for a sick kid and you'd look and be doing the same thing as this poor moth
 Viruses, diseases, bacteria are evil bastards. But so are human greed, deception and addiction. And that brings us make to our ongoing story filled with happy and sad twists and turns. A regular person sitting across from another can't know what form of evil the other chair is suffering from.
 
 She does. At least she gets close the charge nurse does. The person so in charge they put in right in her name. She screens everyone who comes in and tells them where to go and who to see. This place is filled with stories, and for a few minutes she's director of everyone's life.
-
-And now she's just about done talking to the kid with the shinny white snow covered shoes; Marky. He's mpw sucking on a candy cane, he points to his tummy with his own loving mother stands behind him. The nurse says "thank you Marky, please take a sit and we'll call you when ready."
-
-Marky says his thank you, gets up and says to his Mom "there's a lot of people, let's sit over by that mom...". Marky looks around.
-
-There's only a few empty chairs spattered around.
-
-Marky still sucks on his candy. He puckers his lips and starts to walk. He zigs and zags and skips over some feet and into a seat. His mother is forced to sit a row away. She doesn't mind, taking out her cross word puzzle. She does take a look at Marky, who is already talking to his neighbor, the mother we already met, the one clutching her kid.
-
-Marky looks at her, and takes in the image. He sees what anyone would see. A very stressed mother holding her kid in a ER waiting room.
 
 "A loving mom is such a nice image. Like a movie poster. Even in this place. I'm sure everything will be fine."
 
