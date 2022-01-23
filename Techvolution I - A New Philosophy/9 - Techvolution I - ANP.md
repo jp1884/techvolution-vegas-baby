@@ -3,7 +3,7 @@
 
 by Johnny Majic
 
-May 2019 (manuscript)
+May 2020 (manuscript)
 
 [Homepage](https://techvolution.io/) | [Next Chapter](https://www.techvolution.io/a-new-philosophy-preface)
 
@@ -67,7 +67,7 @@ We can cherish Romeo and Juliet because we know their love is beautiful and wort
 
 But our emotions don't change the story. Even the main character's feelings mean so very little to the final outcome.
 
-That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to Sith Lords, don't battle using emotions. They fight using real objects like wands and lightsabers.
+That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to Sith Lords, don't battle using arguments, debates, or emotions. They fight using real objects like wands and lightsabers.
 
 Watching good and bad guys fight is exciting. Not knowing what's going to happen next is why we can binge-watch for hours and hours. But unlike us, the protagonists can't sit back and enjoy seeing the events unfold.
 
@@ -100,11 +100,17 @@ Of course they are. And, that's the point.
 
 The feud between Left and Right ideologues is a distraction. The politics of upgrading our lives (or not) is the real political game of our time.
 
-This contest started in 1970 when our civilization left the Industrial Age and entered the Internet Age.
+This contest started in 1970 when the internet and personal computers were invented. That's when human civilization did what we've done many times before. We entered a new technological age. Like when we left the Stone Age by making bronze tools, or entered the Renaissance with the printing press, in 1970 we left the Industrial Age and entered the Internet Age. In 1970 we invented technology that completely changed our way of life.
 
-The owners of industrial age technology don't want you holding advanced tools like Netflix. There's a simple reason. Gatekeeping access to thinks like movies, education, and insurance is very profitable. Keeping our society in the Industrial Age keeps those who control the Industrial Age technology in power. That's why these Industrial power brokers are working hard to antagonize all future upgrades. These "Darth Blockbusters" want society's Internet Age levers of power all to themselves.
+But the owners of industrial age technology aren't jumping for joy. They don't want humanity to evolve. Why would they want to upgrade from industrial age living anymore than the kings of the medieval age wanted to leave their castles.
 
-Happily, many internet geeks, hackers, and innovators have been fighting Darth Blockbuster's gatekeeping and antagonism for years. The open-source community alone has made hundreds of thousands of tools that already empower the middle-class to live a better life with tools like Android, Linux, and yes, even Netflix uses open-source software. But, these protagonists can't keep fighting your battles for you. Main Street must jump into the fight.
+Just look how resistant Blockbuster and Hollywood in general was to online streaming. Using the internet gave regular people no line-ups, no late-fees, cheaper prices, on-demand content; these were all things that people were forced to pay a healthy premium for before the internet.
+
+And there are many more segments of our lives similarly being held back by Industrial Age industries.
+
+There's a simple reason. Gatekeeping access to thinks like movies, education, and insurance is very profitable. Keeping our society in the Industrial Age keeps those who control the Industrial Age technology in power. That's why these Industrial power brokers are working hard to antagonize upgrading to an internet age way of life. These "Darth Blockbusters" want society's Internet Age levers of power all to themselves; make the little guy wait in line.
+
+Happily, many regular people have been fighting back. Internet geeks, hackers, and innovators are the heroes of the Internet Age. They've been fighting stepping up and Darth Blockbuster's gatekeeping and antagonism for years. The open-source community alone has made hundreds of thousands of tools that already empower the middle-class to live a better life with tools like Android, Linux, internet streaming; even Netflix uses open-source software. But, these protagonists can't keep fighting your battles for you. Main Street must jump into the fight.
 
 There is no debate. The story is simple, and the morality is clear. We must upgrade our society to the Internet Age now.
 
