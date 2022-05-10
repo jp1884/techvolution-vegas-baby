@@ -3,7 +3,7 @@
 
 - Iconic Memories?
 
-## Emile Teaches Us To Stargaze
+## Emile, Or On Teaching Us To Stargaze
 
 *Yeah... first time I made this [butter scotch rum] was for your mother.  I'd been wanting to pop the question but I was afraid she'd say no. This gave me the nerve to ask her and I got myself a great big "yes"... and that wasn't the only "yes" I got from her that night either. [laughs] Still scares me to think how close I came to chickening out, though. You know, as you get older, it's not the failures you regret, or the times you made an ass of yourself. It's the times you never even tried, when you just lost your nerve.*
   
@@ -13,7 +13,7 @@ https://frasiercranekacl.blogspot.com/2013/01/514-ski-lodge.html
 ## Table of Contents
 
 - [Why Can't Dreams Be Memories](#why-cant-dreams-be-memories)
-  - [Emile Teaches Us To Stargaze](#emile-teaches-us-to-stargaze)
+  - [Emile, Or On Teaching Us To Stargaze](#emile-or-on-teaching-us-to-stargaze)
   - [Table of Contents](#table-of-contents)
   - [Prologue](#prologue)
   - [Candy Cane](#candy-cane)
@@ -28,153 +28,177 @@ https://frasiercranekacl.blogspot.com/2013/01/514-ski-lodge.html
 
 ## Prologue
 
-I've got this great story about two friends stealing a monkey from a zoo.
+I learned the value of time by watching my two friends steal a monkey from a zoo.
 
-The two guys were watching TV, smoking lots of weed, seemingly happy...until an ad with a cute little monkey came on.
+They were in college, it was summer break, and they were smoking lots of weed and eating crap food while binge watching YouTube. They were living the suburban life and were content until a commercial with a cute little monkey came on.
 
-They usually ignore commercials of course, but they watched this one in awe. It was the monkey. The primate wasn't doing anything too special. He was jumping around a zoo play pen, taking fruit from people's hands, and playing with the zoo keepers. The zoo keepers and the monkey were so happy together.
+The kids usually ignored ads of course, but they watched this one in awe. It was the darn monkey. The primate wasn't doing anything special. He was jumping around his play pen, taking fruit from peoples hands, playing hide and seek with the zoo keepers.
 
-To the two stoners sitting in a messy suburban basement wasting away their youth, this monkey was a shot of life.
+That stuff is cool of course, but what caught my friends attention was the people in the ad; everyone around the monkey was so happy; like pure joy happy. To the two stoners sitting in a messy basement wasting away their youth, this monkey was a shot of life.
 
-No that's not it; this monkey was a shot at life.
+No that's not it.
 
-After the commercial ended one friend said, "We need a monkey".
+This little monkey was a shot at life.
+
+When the commercial ended the two guys were thunderstruck. Minutes passed in silence. Then with the immediacy of a lightening strike one friend said.
+
+"We need a monkey".
 
 Their was only one possible reply,
 
 "Today".
 
-Seems silly, but a monkey motivated my friends to improve their lives.
-
-They jumped into action.
-
-No teachers, no bosses, no supervision needed; their dreams animated their bodies.
-
-They assembled what they had in hand--rope, fruit, IDs--into an ingenious plan. With smiles ear to ear--and their once all important television show playing in the background--they set out for a small regional zoo.
+The algorithm of YouTube videos lost their spell. Instead the friends assembled what they had in hand--rope, fruit, fake IDs--into an ingenious plan. With smiles ear to ear, they set out for a small regional zoo.
 
 And?
 
-And their plan worked. These two potheads wanted to reboot their lives with a energetic new friend, and they did.
+And their plan worked. These two potheads wanted to reboot their lives with an energetic new friend, and they did.
 
-Their dreams became reality. Anyone can change their lives! How awesome is that!
+Their dreams became reality. How awesome is that!
 
-There are problems here of course...animal rights, theft...but the biggest roadblock was something else entirely. You see, once my friends got to dream, they kept dreaming.
+There are problems here of course...animal welfare, theft...but the biggest roadblock was something else entirely. You see, once my friends got to dreaming, they're dreams got bigger.
 
 Good for them you might say!
 
-Well for one their joints grew too (of course they kept smoking), but their dreams got so big they bypassed the small monkeys entirely.
+Well for one this meant their joints got bigger too (of course they kept smoking), but dreams filled their heads so much, they actually ignored the cute little monkeys.
 
 Instead they stole a 50 pound baboon.
 
-Baboons don't make good pets. They're not cuddly like Ross' monkey Marcel on *Friends*.  Baboons are extremely strong and emotional primates; and that's not the worst part. The scary fact is baboons live in big, loving, very protective families.
+Ross on *Friends* had a pet monkey Marcel. It was a cuddly little creature. Baboons are not. They're extremely strong, agile, and emotional primates. And that's not the worst part. The truly scary fact is baboons live in big, loving, very protective families.
 
 This stolen baboon certainly did.
 
-This family acted fast and made a plan. It wasn't ingenious. It was very aggressive. Baboons gathered. Baboons rampaged. Glass shattered. Metal broke.
+And this family acted fast and made a plan. It wasn't ingenious. It was very aggressive. Baboons gathered. Baboons rampaged. Glass shattered. Metal broke.
 
-For a few minutes, on the fields of a regional zoo, my two pothead friends were hunted down by a family of murderous baboons.
+For a few minutes, on the fields of a regional zoo, my two pothead friends were hunted down by a family of murderous baboons. It was a few dozen minutes, but unlike the never ending stream of content we watch, this time of the lives will never be forgotten.
 
 Happily everything worked out. The monkey's were reunited. My friends got out okay. And I ended up with a sure fire way to make anyone laugh.
 
-All in all, society got a good deal. No matter who I've told, happy drunks or suffering souls, everyone's day brightens-up when I tell them the story about two idiots stealing a monkey from a zoo.
+All in all, society got a good deal. No matter who I've told, happy drunks or suffering souls, everyone's day brightens-up when I tell them the story about two idiots stealing a monkey from a zoo. Not a bad way to spend to spend your time.
 
-People can't help but enjoy the story. Dogs love to fetch. Cats love to hunt. I bet even trees smile when spring sunshine comes. Life gifted every life-form a way to happiness; ours is the joy of a good story.
+People can't help but enjoy the story because life gifted every life-form a pathway to happiness. Bison love to graze. Cats love to hunt. I bet even trees smile when Spring sunshine comes. Every human loves a good story.
 
-But why? I understand why life wants trees to grow, elephants to graze, birds to soar; each serves an eco-system that helps life prosper. But why does reading, telling, or living stories make us so happy?
+But why? It's easy to understand why life wants predators to hunt, grazers to eat, plants to grow; each serves an eco-system's system of checks and balances. A good balance helps life thrive in every habitat.
 
-How do good stories help life?
+But how does people telling, reading, or living good stories help life flourish? Why do we love stories so darn much?
 
-Because stories are about someone fighting for their dreams. And what are dreams? Our motivation to improve our lives, our families, or our society. It could be getting into shape or curing cancer, it doesn't matter, fighting for our dreams is the story of life on Earth.
+Because stories are about someone fighting for their dreams. And what are dreams? The motivation we get--from some mysterious place--to improve our lives, our families, and our society.
 
-Yet, here's my point, everything isn't rainbows and sunshine on our planet. We don't live in the Garden of Eden. Happiness is rare. Most tree saplings don't find sunlight. Most hunts fail. Elephants are often starving while they roam the Serengeti looking for something to eat.
+Fighting for our dreams, be it losing weight or curing cancer, makes good stories; and that's how we help life prosper.
 
-Life on Earth is not happy by default. Life is usually live in pain.
+Yet, here's my point, everything isn't rainbows and sunshine on our planet. We don't live in the Garden of Eden. Happiness is rare. Most tree saplings don't find sunlight. The lion's share of hunts fail miserably. Elephants are often starving while they roam the Serengeti looking for something to eat.
 
-Humans are no different. Most real-life stories don't have Hollywood endings. And while humanity loves sharing our stories of success, sharing our sad failures isn't so easy.
+Anyone who's watched BBC Planet Earth knows this and soon learns natural life is usually lived in hunger, desperation, and pain.
 
-We all have painful stories. We must. Depression, bankruptcy, harassment aren't just words. They're terrible stories lived by real people every day. You're probably reading this right now trying to forget something in your life. Perhaps your dreading going to work because of an abusive boss. Or you hate your phone's ring-tone because it means more time talking to debt collectors. With so much pain, it's easy to think our dreams will never come true.
+Humans are no different. Despite our deepest dreams, most real-life stories don't have Hollywood endings. And while humanity loves sharing our stories of success, sharing our painful failures isn't so easy.
 
-Maybe that's why nightmares like climate change, enormous debt, opioid epidemic keep getting worse. We dream of a better world without these problems, but we don't believe we can overcome the pain needed to make our dreams of a better world come true.
+We all have painful stories. We must. Depression, bankruptcy, harassment aren't just words. They're terrible stories lived by real people every day. You might be reading this right now trying to forget something in your life. For every dream in our heads there can many more nightmares.
 
-Life needs us to overcome the pain of failure and keep dreaming.
+It's easy to think our dreams will never come true.
 
-It's too bad I'll never hear your stories. I know you've added some great chapters to the story of life. But I am going this story. No, I'm not going to tell you about the poor baboon lured into a car trunk. Since I have you here, I'm going to tell you a much better tale.
+Maybe that's why huge problems like climate change, enormous debt, opioid epidemic keep getting worse. We dream of a better world without these torments, but we don't believe we can actually solve them.
 
-This story will give you dreams. You'll cry on the pages in complete despair and smile into your pillow in utter happiness, but each twist and turn will motivate you to embrace the pain needed to turn your dreams into reality.
+Life demands we do. I say Life here, but you can insert God, Nature, Mother Earth, Consciousness; whatever force you think put us in this Universe so hostile to every living thing; It doesn't care how painful it can be to make dreams come true.
 
-Just as life wants us to live. Always fighting for happiness. Never scared of failure. Embracing anxiety, disappointment, and despair because the truth is unlived dreams are the only ever-lasting agony. The hero of this story fights for their dreams, accepts misery, and teaches us all we can all live a better life.
+For life to prosper, It needs all lifeforms to overcome the pain of failure and keep fighting for life's prosperity because if we don't, the game is over, the story ends, and Life looks for someone else to battle the Universe to stay alive.
 
-I'm going to tell you a story about two kids visiting an Emergency Room. I'm going to tell you a story about the one who never left.
+It's too bad I'll never hear your stories. I know you've added some great chapters to the story of life. But I am going to tell you this story. No, I'm not going to tell you about the poor baboon lured into a car trunk. Since I have you here, I'm going to tell you a much better tale.
+
+This story will give you dreams. Better yet, this story will motivate you to embrace the pain needed to turn your dreams into reality.
+
+Just as Life wants us to live. Always fighting for our happiness. Never scared of failure. Embracing anxiety, disappointment, and despair because the truth is unlived dreams are the only ever-lasting agony.
+
+The hero of this story is your dream maker, your stargazer who accepts misery as nothing but fuel for the best visions a person can dream of.
+
+This hero shows us all how to live a better life.
+
+I'm going to tell you a story about two kids visiting a Hospital Emergency Room. I'm going to tell you a story about the one who never left.
+
+- note, the two kids are Mark. He learns to leave the doubter behind?
+- Dream scientist breakdown
+<https://www.youtube.com/watch?v=HileumbF7pA>
 
 ## Candy Cane
 
-A big glass revolving door spins. It spins and spins. It keeps spinning because that's what it does; it keeps people moving so they can live their lives.
+A big glass revolving door spins. It spins and spins. It keeps spinning because that's what it does; it lives to keep people moving.
 
-This spinning door is moving lots of people tonight. Individuals keep stepping into the moving metal and glass to enter the building while others are leaving to resume their lives.
+This spinning door serves as the entrance and exit to a huge brick building. It's moving lots of people tonight. Individuals keep stepping into the rotating metal and glass to enter the building, and others are leaving to resume their lives.
 
-On the outside is a downtown city street. The cityscape has been the backdrop to human stories since the it was constructed in the late 1800s. Brick buildings, narrow roads; shops, bars, and restaurants  everywhere. This city was built to be facilitate a thriving society. Today the narrow city roads are filled with slow moving cars. The sidewalks have fast moving people coated against winter cold.
+On the outside is a downtown city street. The cityscape has been the backdrop to human stories since it was constructed in the late 1800s. That era's brick buildings, narrow roads, and city squares filled with shops, bars, and restaurants built a environment where people could thrive.
 
-The gentle snowfall covers the city like a blanket on a sleeping newborn. The streetlamps, headlights, and Christmas decorations turn the city into a dreamscape fit for the first sight of a newborn.
+We can see that tonight as a gentle snowfall covers the bustling city like a blanket on a newborn. The heated outdoor patios, the window shoppers, and the Christmas decorations hanging on the many monuments turn the already nice city into a dreamscape fit for a holiday card.
 
-In fact, an artist is walking in the city but decides to stop. She takes out the sketch pad she has everywhere, takes a seat on a park bench and starts her craft. This is an image worth a memory.
+An artist agrees. She was walking in the city and had to stop. She takes out her every-present iPad and apple pen, takes a seat on a park bench, and starts her craft because this image is worth immortalizing.
 
-The artists pencil outlines the gothic buildings, statues, the couple walking hand in hand while window shopping, and the finally she draws the spinning door still doing it's part to keep the street alive and people moving.
+The artists pencil outlines the gothic buildings, bronze statues, and the couples walking hand in hand while window shopping for presents to surprise their loved ones with.
 
-Just now a pair white sneakers jumps into those spinning doors. The shoes follow the slow motion of the revolving metal and glass, until finally going inside the building. The shoes stop on the thick black carpet that has "Hopedale Hospital" written in large pink letters.
+The infinite canvas of an iPad means she can add incredible detail.
 
-The white shoes stomp and stomp and stomp. The stomps continue and break into a dub-step dance. The dancer makes a point to kick-off fluffy snow from their moving shoes.
+She draws the large and gorgeous Christmas tree in the centre of the square. Then the artist draws the spinning door that's still doing it's part to keep the street alive and people moving.
+
+The artist is talented. She has artistic skill of course, but her talent is capturing emotion. Her illustrations tell stories. She notices the people going into the spinning doors have deliberate steep and stiff necks while the people leaving are relieved.
+
+She starts to add this detail into her infinite canvas, then a kid with white sneakers jumps into those spinning doors. She can't capture the moment in time, but does chuckle at the sight.
+
+The shoes follow the slow motion of the big door, until finally going inside the building. The shoes then stop on the thick black carpet that has "Hopedale Hospital" written in large pink letters.
+
+The white shoes stomp and stomp and stomp. The stomps break into a dub-step dance. The dancer makes a point to kick-off fluffy snow from their moving shoes.
 
 Of course other people keep coming and going into the hospital. These people don't stop and wipe themselves clean of salt and snow. Instead they walk past the dancing kid and spread gunk with every step.
 
-But this kid keeps dancing and keeps taking the time to remove all the shit from outside. Only when finally clean does the kid stops. He's out of breadth but he's beaming a smile in self-satisfaction.
+But this kid keeps dancing and keeps taking the time to remove all the shit from outside. Only when finally clean does the kid stop. He's out of breadth but he's beaming a smile in self-satisfaction.
 
-The kid's name is Mark. He's just about to turn a teenager, but looks young for his age. Maybe that's why he pulls a candy cane from inside his jacket with such glee.
+The kid's name is Mark. He's just about to turn a teenager, but looks young for his age. He looks even younger as he pulls a candy cane from inside his jacket with childish glee.
 
-It's a high-end treat. Probably made by a pastry chef. The treat has deep red and bright white swirls, a snappy looking huge bow and even some tinsel too. If the artist saw this candy cane she'd devote a gallery painting to it no doubt; the candy cane defines Christmas dreams.
+It's a high-end treat with deep red and white swirls, a huge silver bow, and a card signed by the baker. If the artist saw this candy cane she'd devote a gallery painting to it no doubt; the candy cane embodies the childish dreams so many people have around Christmas time.
 
-Mark twirls the treat like a pencil in the hands of a mathematician thinking of an genius equation. When he stops out comes a pocket knife. Mark cuts the plastic off the candy cane with delicate care.
+Mark twirls the treat like a pencil. He then stops the trick, takes out a pocket knife, and cuts the plastic off the candy cane with delicate care.
 
-Enjoying the Christmas treat it deserves, Mark looks around the Hopedale hospital Emergency Room.
+Enjoying his candy cane, Mark looks around the Hopedale hospital Emergency Room.
 
-It's 8pm. A high traffic time. Almost all 50 chairs are filled. Before Mark can look anymore, a nurse sitting behind a desk asks Mark, "Hi, can you please take a seat." She's the triage nurse and assess everyone for their illness.
+It's 8pm. A high traffic time. Almost all 40 chairs are filled. Before Mark can look some more, a nurse sitting behind a desk asks, "Hi, can you please take a seat."
+
+She's the triage nurse and assess everyone for their illness. She's been doing the job for 14 years and knows what people will say (and is usually right) before they do.
 
 Mark politely goes to the nurse and takes a seat.
 
 "Thank you." says the nurse. "Can you please tell me where it hurts.". Mark steals another look at the waiting room. He then looks back at the nurse.
 
-"It's my stomach. I feel queasy. I was at a Christmas party and my mom thinks I ate something bad there. Maybe I did. But I definitely snuck in some eggnog though. Don't tell her."
+"It's my stomach. I feel queasy. I was at a Christmas party and my mom thinks I ate something bad there. Maybe I did. But I definitely snuck in some eggnog. Don't tell her."
 
 The nurse looks up. There's a lady, Carolina, wrapped in layers from head to toe standing behind Mark. She doesn't say anything. Instead she hands the nurse a piece of paper, presumably the insurance details.
 
 "Her English isn't so good. Portuguese. I'll translate."
 
-"Oh, okay. Do you feel like you have to vomit?"
+"Okay. Do you feel like you have to vomit?" the nurse asks while typing. She barely looks at Carolina or Mark.
 
 "Like my teacher just called a pop quiz. Candy canes help soothe the pain for some reason."
 
-"When you press on your stomach, is there any sharp pains, like a pin is sticking into your skin?" Mark shakes his head.
+"When you press on your stomach, is there any sharp pains, like a pin is sticking into your skin?"
 
-"Okay, please take this bag and please use it if you need to. We'll call you soon."
+Mark shakes his head "No".
+
+The nurse keeps typing and says, "Okay, please take this bag and please use it if you need to. We'll call you soon."
 
 "Will it be long?"
 
 "Maybe an hour and you'll be on your way." Mark responds with; "An hour is doable. Thank you."
 
 - remember Mark needs to get back to his room quickly.
-- Carolina has a short break.
-- nasty customer disrupts the nurse, so she fails to properly check Marky in the db. Inciting incident?
+- he's snuck into, or was at the Christmas party? Where he asked Carolina for help?
+- And Carolina has a short break.
 
-The nurse finishes up her paperwork. Mark gets up, walks towards the waiting room, and again looks around the ER.
+While the nurse finishes up her paperwork, Mark gets up, walks towards the waiting room, and again looks around the ER.
 
-He's not looking at the few empty chairs spattered around. He's looking at the full ones. There's a host of people here. Elderly, young, girls, boys. Who will he sit beside?
+He's not looking at the few empty chairs spattered around. He's looking at the full ones. There's a host of people here. Elderly, young, girls, boys.
 
-Marky sucks on his candy. He's halfway through the treat. He makes his choice and walks through the rows and seats.
+Who will he sit beside?
 
-There's no space for Carolina so she sits a row away. She says nothing. Being a foreigner she's used to giving her kid the reins when they're out in public.
+Marky sucks on his candy. He's halfway through the treat already. He makes his choice and walks through the rows and seats.
 
-As Carolina takes out her crossword puzzle, Mark shuffles in his chair. He's so excited he bites down on his candy cane. To himself he says "How cool is this. To met someone for the first time."
+There's no space for Carolina so she sits a row away. Being a foreigner she's used to giving her kid the reins when they're out in public.
 
-Where to start? What to say?
+As Carolina takes out her crossword puzzle, Mark shuffles in his chair and says to himself "This is so cool. Where to start, what should I say"
 
 He's looking around. Scoping the people out. Younger, older, white, black, male, female. A nice eclectic group of people who a few minutes before were sharing that idyllic illustration on the snow covered city streets.
 
@@ -184,7 +208,7 @@ And most everyone is staring into their smartphones.
 
 Mark looks around at each person fixation on YouTube, Instagram, TikTok, or Netflix.
 
-Mark asks the person next to him "Hi, what's going on?"
+Mark decides on the simple route and asks the person next to him "Hi, what's going on?"
 
 His neighbor says "The Office".
 
@@ -208,25 +232,23 @@ Mark takes a candy cane out. He presents it like a magician by twirling it in hi
 
 Out comes two candy canes.
 
-It's a neat trick. The Michael Scott fan thinks to himself he was probably hiding the treat in his baggy coat sleave.
-
-A few people smile. But everyone goes back to their phones.
+The Michael Scott says "Neat trick." A few people smile. But everyone goes back to their phones.
 
 "Everyone wants to be the star" says a teenage girl to Michael Scott.
 
 "Hey, what is your name?" Mark asks the girl. He gets ignored.
 
-"I was just curious. Wanted to know more about you." Still nothing. "I have a stomach ache." Mark finishes but still isn't getting any takers.
+"I was just curious. Wanted to know more about you." Still nothing. "I have a stomach ache." 
 
 - he has to pry more, what's wrong with you, and you.
 
-Words are great but not perfect. Sometimes our thoughts can't be put into words.
+Sometimes our thoughts can't be put into words.
 
 Most every other life form doesn't even use words. Take ants. They don't have vocal cords and are nearly blind. Ants communicate using chemicals called pheromones.
 
 Whenever you see an huge ants hunting or building a nest, all that communication happens with these pheromones. They have no choice but to respond to commands from the colony.
 
-I'm not wasting your time here. I mention this for a reason. Because anytime words won't do, we humans respond by sending out signals just like ants do. Smiles, screams, hugs and what's happening right now, the look of shame.
+I'm not wasting your time here. I mention this for a reason. Because anytime words won't do, we humans respond by sending out signals just like ants do. Smiles, screams, hugs and the look of shame.
 
 And that is what this teenage girl does with Mark. She crushes him, shames him with virtual pheromones to shut the fuck up, sit there, and wait his turn to see the doctor.
 
@@ -246,17 +268,17 @@ This case looks more serious than the others.
 
 A row of chairs has opened up near the back. The mother walks to the open seats. She sits down and holds a kid covered with blankets.
 
-You might not think it, it's not the scene of the gentle snowfall outside, but this is a memorable image to another who cares to look. A mother caring for her sick kid.
+You might not think it, it's not the scene of the gentle snowfall outside, but this is a very memorable image to another who cares to look. A mother caring for her sick kid.
 
 Nobody cares to look. Except Mark.
 
-He takes the scene in. Looking about thirty, with baggy eyes and ruffled clothes this mother totally ignored the ideals of fashion. At a corporate job she'd probably be sent home for breaking the rules. But now she doesn't care, because she holds her child. The little kid is so wrapped in her mother's arms, bundled up so much and held so tight we can't even see the tike.
+He takes the scene in. Looking about thirty, with baggy eyes and ruffled clothes this mother is a sight to behold. At a corporate job she'd probably be sent home for breaking the rules. But now she doesn't care, because she holds her child. The little kid is so wrapped in her mother's arms, bundled up so much and held so tight we can't even see the tike.
 
 Marky take out a notepad. A quality notepad at that. Shinola brand, hand made in Detroit. He sketches the image with decent skill. It being Christmas, he can't help but make the image look like Mary holding a sick Jesus.
 
-Marky sketches. He's thinking to himself, "Even toddler Jesus must have had broken arm or stomach flu when he was growing up."
+Marky sketches. He's thinking to himself, "Even toddler Jesus must have had broken arm or stomach flu when he was growing up. I want to help. I'll turn the hat into a veil, blankets into loin clothes, and teary eyes into loving ones."
 
-Mark turns the mother's hat into a veil, blankets into loin clothes, and teary eyes into loving ones. When he finishes the sketch, he signs it. Then he rips it out of his notebook. He gets up, and walks over to the mother and sick kid.
+When he finishes the sketch, he rips it out of his notebook. He gets up, and walks over to the mother and sick kid.
 
 "I drew this for you."
 
@@ -268,47 +290,51 @@ She gives it back.
 
 "No, keep it. It's a gift." The mother's mouth, so strained with worry and sleeplessness, moves into broad smile.
 
-Now her toddler looks at it. Together the parent and child have a moment; art giving them true pain relief.
+Now her toddler looks at it. Together the parent and child have a moment; art giving them some pain relief.
 
 The moment passes and Mark asks, "What's the matter? I have a stomach ache. Or I drank too much eggnog." Mark says the last part with a cheeky grin.
 
 "We don't know what's wrong. She's feverish, with a pain in her left arm."
 
-"Does this hurt?" Mark presses the toddler's palm. Mark gets a "yes" in response. "Well that's a good sign."
+"Does this hurt?" Mark presses the toddler's palm. Mark gets a "no" in response. "Well that's a good sign."
 
 "Why?" asks the mother.
 
 "It means her blood is flowing fine. I'm a bit of a rascal so I've had lots of stupid injuries. Do you know what the best medicine is?..."
 
-Mark puts his artistic candy cane in his mouth. Mark continues "if you tell the nurses candy helps the pain, you can keep it all the time." Mark looks at the hand of the sick kid, the mother and her child follow his lead.
-
-The toddler smiles when she sees the treat.
+Mark smacks his hands together
 
 "Candy!" Mark says to her. "Candy is always the best medicine, right?"
 
+There's a candy cane in the young toddler's hands.
+
 "Right!" says the kid.
 
-The mother, toddler, and a stranger, laughing in an ER. If places have memories, this will stick around here for a while.
+The mother, toddler, and a stranger, laughing in an ER.
 
 "Mary" a nurse yells out. The mother turns her head, no longer laughing. She takes her kid and goes with the nurse. Mark says behind.
 
+"Good luck" says Mark as Mary and Jessica leave the fun kid behind.
+
+"Can I have a candy cane?" asks a male patient
+
+"What's wrong with you?" ask Mark?
+
+"Sprained my ankle." says the patient.
+
 It sure was nice having a break. A laugh, maybe any distraction, might be the best medicine for anyone who's sick. And this gorgeous candy cane is doing the trick for Mary's sick kid. She's smiling while going towards her fait.
 
-Marky takes out another candy. But he puts it away. He's found something more interesting. A cane, a real cane. And it's decorated in holiday spirit. Marky grabs it and uses it, as if he has a limp in his right leg.
-
-He walks, with a limp, over to a  a middle age man and asks, "How are you feeling tonight?".
-
-"Sprained my ankle."
-
-While looking at Mary and Jessica Marky says "If hospitals have memories, I don't think it'll remember that one."
+While looking at Mary and Jessica Marky says to the patient, "You don't need it."
 
 ---
 
-Mary sits on a chair. Jessica sits on the examination table. That's something no mother wants to see. But Mary is putting on a brave face.
+Mary stands while Jessica sits on the examination table. That's something no mother wants to see. But Mary is putting on a brave face for her daughter.
 
-Jessica is wearing a happy one. She's holding her candy cane. The treat still has the plastic wrapping but that doesn't stop Jessica from pretty much tasting it. All her attention is on this treat. Yours would be too.
+Jessica is seven years old. Old enough to understand her situation but still young enough her mother thinks she's still an infant.
 
-Mary appreciated the gift more and more. The reality is something to be distracted from. "Looks good doesn't it Jess." says the mother. The kid enthusiastically nods her head. Mary thinks to herself "Wow."
+Jessica is hold her candy cane. The treat still has the plastic wrapping but that doesn't stop Jessica from pretty much tasting it. All her attention is on this treat. Yours would be too.
+
+Mary appreciated the gift more and more. "Looks good doesn't it Jess." says the mother. The kid enthusiastically nods her head.
 
 In walks the doctor.
 
@@ -348,7 +374,7 @@ In walks the nurse. "Hi there, Mark is it?"
 
 "Oh...okay... well let's get started. Why don't your tell me where the pain is."
 
-"Is she going to okay?"
+"Is she going to be okay?"
 
 "Who?"
 
@@ -358,7 +384,7 @@ In walks the nurse. "Hi there, Mark is it?"
 
 "It's a high bar and she happens to met it"
 
-"Well then good for her. They're running some tests, but I think she'll be okay for sure. Can we start talking about you."
+"Well good for her. They're running some tests, but I think she'll be okay. Can we talk about you maybe."
 
 "You sound just like Taylor"
 
@@ -374,27 +400,29 @@ In walks the nurse. "Hi there, Mark is it?"
 
 "You know. It's not hurting so bad. Maybe, yeah I think I can go."
 
-"Take it easy fella you running a race. When you're mom gets here she can decide if you want to leave. For now, let's just talk. And while your dates with Miss Taylor Swift is wonderful topic I want to hear about you. It says here you have a tummy ache. What does the tummy pain feel like?"
+"Take it easy fella. When you're mom gets here she can decide if you want to leave. For now, let's just talk. And while your first date with Miss Taylor Swift is wonderful topic I want to hear about you. It says here you have a tummy ache. What does the tummy pain feel like?"
 
-Isn't it interesting. Dreams are so hard to nail down. Like paintings in the mist. But pain you can test and find no problem. It's almost like our bodies are just pain detectors. And this nurse is getting concerned this kid isn't talking.
+Isn't it interesting. Dreams are so hard to nail down; like paintings in the mist. But pain? You can test and find pain no problem. It's almost like our bodies are just pain detectors. And this nurse wants to find out about this kids pain.
 
 She catches Marky looking at the clock. The time piece is analog so it's taking a second for the boy to figure out the minute hand.
 
 "Mark, where are your parents?"
 
-Marks says nothing. All the whimsey, character, and stories are gone. He's scared.
+Marks says nothing. All the whimsey, character, and stories the kid had are nearly gone. Even doesn't even think to take out one of the candy canes he has in his pocket.
+
+He's scared.
 
 "Take off your jacket because I need to see if your sick."
 
 Mark follows the command. Most people follow commands and he's just a kid after-all.
 
-The now worried boy takes off the jacket. There's a thick sweater. He doesn't even wait for the command to take it off. Another sweater, then a long sleeve t-shirt, a toque, and finally the white pair of sneakers that danced the snow off at the entrance not 25 minutes ago.
+The worried boy takes off the jacket. There's a thick sweater. He doesn't even wait for the order to take it off. The next layer is another sweater, then a long sleeve t-shirt, a toque, and finally the white pair of sneakers that danced the snow off at the entrance not 25 minutes ago.
 
 Soon Mark is standing there, in his jeans, socks and a under-shirt. The nurse is standing there too, and she's in awe.
 
 A nightmarish awe.
 
-She sees an image that starts this story, a story of a kid of 10 or 12 that was very much hidden under layers. Layers meant to protect from the cold of winter hid the pain of...
+She sees an image that starts this story, a story of a kid of 11 that was very much hidden under layers. Layers meant to protect from the cold of winter instead hid the pain of...
 
 Something this long-time medical professional doesn't see very often.
 
@@ -408,11 +436,11 @@ He's frail, skinny, and malnourished. There are what looks like burns across his
 
 "I never know how to answer that one." replies Marky. "But my tummy does hurt."
 
-Marky gets up on the bed sits on it. The nurse goes over, and starts her examination. She places the stethoscope all over the chest, heart, and lungs.
+Marky gets up on the bed and sits on it. The nurse goes over, and starts her examination. She places the stethoscope all over the chest, heart, and lungs.
 
 - imply the mother wanted Marky to gain meds, but left. That's the House story for this chapter, that's only true in Marky's origin story he's reliving.
 
-This nurse, whose name is Betty by the way, has been around. And she's well passes the threshold she came here to know, this patient needs to be admitted and the ER doctors needs to be called. Likely a number of specialists too.
+This nurse, whose name is Betty by the way, has been around. And she's well passed the threshold she needs to know; this patient needs to be admitted and the ER doctors needs to be called. Likely a number of specialists too.
 
 Mark is soon alone again in the room. The nurse left to get reinforcements. He again picks up the cup and listens in next door.
 
@@ -420,15 +448,17 @@ He hears what's going on next door. Mary is singing softly to Jessica.
 
 "Rudolf the red nose reindeer, had such a shiny nose. And if you ever saw him, you could even say it glows...."
 
-Mark smiles and closes his eyes. This Christmas song is taking him away to some place, and he's in so deep he doesn't notice a doctor open and close the door.
+Mark closes his eyes. He takes out a candy cane but doesn't open it. He simply holds the magnificent treat. This Christmas song is taking him away to some place. He's in so deep he doesn't notice a doctor open and close the door.
 
-Dr. Cameron watches Mark. She's got not idea what's he's really doing, but being a proper scientist she doesn't interrupt. She observes.
+Dr. Cameron watches Mark. She's got no idea what's he's really doing, but being a proper scientist she doesn't interrupt. She observes.
 
-Soon the nurse returns and she tells the doctor "she's singing rudolf to her child".
+And although a true professional she can't help being touched by the sight of Mark.
 
-"Tells us a lot" says Dr. Cameron. It takes a little while, but Marky eventually lets off the cup and looks at the doctor.
+Soon the nurse returns. After quietly closing the door, she tells the doctor "the mom's only singing Rudolf to her kid".
 
-"Hi Mark. I'm Doctor Cameron. It's nice to met you."
+"Tells us a lot" says Dr. Cameron. It takes a little while, but Marky eventually lets off the cup, hangs the candy cane on his undershirt, and looks at the doctor.
+
+"Hi Mark. I'm Doctor Cameron. It's nice to meet you."
 
 "Nice to meet you too" replies Mark.
 
@@ -436,15 +466,17 @@ Soon the nurse returns and she tells the doctor "she's singing rudolf to her chi
 
 Mark nods. The examination starts. The doctor and nurse do what they do. Touch here, prod that. Press down.
 
-Marky doesn't get involved. He's the ideal patient and simply does what he's asked. And what he's asked is a simple, "does this hurt?"
+Marky doesn't get involved. He's the ideal patient and simply does what he's asked. And what he's asked is to answer a simple question lots of times, "Does this hurt?"
 
-Pain is the sign of truth.
+Mark responds each time. Pain is the sign of truth in every science.
 
-The five minute examination is done. Marky is left in the room alone again.
+Once the five minute examination is done. Marky is left in the room alone again.
 
-Outside the nurse and doctor compare notes. They exchange a host of medical problems. We've heard many of the words before on television dramas. Diseases from lupus to typhoid. Happily the rule out child abuse.
+Outside the nurse and doctor compare notes. They exchange a host of medical problems. We've heard many of the words before on television dramas. Diseases from lupus to typhoid. 
 
-They're going to need more tests and more doctors.
+We don't have anymore answers.
+
+They're going to need more tests and more doctors. All judge by asking the patient "does this hurt".
 
 "Every week has one true medical problem" says the nurse.
 
@@ -461,141 +493,213 @@ First examination....
   
 ---
 
-White laminate floor tiles go on and on. Until wheels spin over top them at a breakneck pace. The bangs of heavy medical equipment sound out. White running shoes and hospital gowns hustling along the rubberized hallway.
+"He's medical records aren't here."
 
-A man is pushing the heavy medical equipment as a nurse runs beside him. "Every week has one. Does it Tyler" she says to him.
+"The mother isn't here either."
 
-As the equipment nears her room, Jessica the mother gets up and rushes to the door. And here enters the hidden evil of this iconic image. The mother of a sick kid is scared, and all she wants is for this medical contraption, whatever it's heavenly purpose is born to defeat an evil she never wants to see. As the nurses rush faster towards Jessica she stands and comes to the window.
+"He says he isn't on any medications"
 
-But the gang of healers pass by the stay at home mom, rush into the room next door. Jessica the loving mother puts her hands to mouth in a genuine gesture whose intent she'll never admit. Jessica then sees the candy cane. She walks a bit out her door and sees the image, and makes another memory.
+"That last one is impossible." Dr. Cameron is standing in front of a security guard Tony, nurse Betty, and hospital assistant Tyler.
 
-Marky is on the bed, filled with wires that make him look like an experiment. The contrast between this room and the sick girl is large. Marky really upped the intensity. Happy and sad may be at odds, but that doesn't mean there aren't levels to each almost as big as they are too each other.
+"Tyler, go get 10cc of zombie1". Tyler nods his head and jogs off down the hall.
 
-As the medical staff are saying their beeps and bops, Marky is on the raised bed. He's looking at each staff, following their motions like he's watching a merry go round.
+"Without the mother?". Betty asks the doctor a fair question. Examining a mysterious kid is one thing, but administering powerful drugs without consent or even a patient history is another.
 
-Jessica can't look away. She's startled, scared, yet fascinated. This is a memory in the making. The thing the loving mother feared would happen to her daughter is happening to this boy, this stranger. She would hate herself for thinking it consciously, but she doesn't, because her subconscious is demanding to find out what happens next.
+"It's better to be ready." It's not everyday Dr. Cameron deals with these questions. The ER is mostly filled with colds and sprains from people too impatient to wait to see their family doctor in the morning because "Dr. Google" shows picture of ebola to anyone who asks.
 
-She's watching a story she'll never forget.
+Thankfully, Dr. Blue arrives. He's not a super-hero, just another doctor for Cameron to collaborate with; and she's already thinking to herself, to get sued with.
 
-And this boy, this young spunk of a kid, is sitting there calm and gentle. "Why is he holding a giant candy cane?" she blurts to herself. The object is so out of place you or you (or I) would think the same thing.
+Hindsight is 20/20 as the saying goes. And now these two doctors must decide what action will the lawyers determine years from now they should have been made on the spot with incomplete information.
 
-But then another weird thing happens. Marky looks over at her, makes eye contact, and mouths to the mother "Playing helps." He holds his cane up just a bit to show his new friend how pretty it is.
+Cameron wipes that from her mind. There's a sick kid is sitting in her examination room.
 
-Mark puts his hands up, waving at the orchestra of medical professions. They slow and slow and slow until he has the floor, he whimpers "What am I suppose to be feeling?"
+"He says he's waiting for his mother to answer questions. But she's gone." Dr. Cameron continues with true appreciation, "He's very cooperative though, let's give him an x-ray to rule out any breaks. MRI to see about cancer".
 
-For a second, just a second the healers orchestra stare. The image of a boy holding a giant candy cane burns into the mother's memory.
+Dr. Blue responds. "I can see the rationale, but you're the attending."
 
-Dr. Blue asks "Are you feeling something new Mark?... Is the pain somewhere outside your stomach."
+"Thanks". Dr. Blue is also thinking of the lawyers.
 
-"I can't take a full breath." Dr. Cameron grabs her stethoscope, puts it on skinny chest, and listens. The young doctors eyes enlarge and her lips pucker. She looks at Dr. Blue, who responds "we need a CT scan now."
+Dr. Blue goes on, "Test till there's nothing let to test. There's not many people left so we'll get the results back in no time. There all non-evasive, so worst cast we blow some insurance company money."
 
-"It's not operating at this time." She returns to Mark "Are you sure your mother only went to check the car parking?"
+Dr. Cameron and Dr. Blue go back to exchanging medical conditions usually reserved for shows that dramatize the usually routine life of an ER.
 
-"Yeah"
+As the doctors are talking their medical talk, out comes Mark. He's listening to each word. He's smirking wider with every word. He walks a short distance and grabs a huge candy cane. It's actually a cane covered in festive wrapping paper.
 
-"We're going to need to run a lot of tests okay. We'll tell your mom all about them, but we can go ahead right now okay?"
+The nurses and doctors see him as he walks towards them.
 
-"If you think it's best. What are you thinking?"
+Cane in right hand, Mark walks left, two rights, left two rights, all the way to the group. The patient is smiling for some reason, and the doctors and nurses can't help but smile back.
 
-"That you're a brave young man, and we're going to make you all better."
+At least this medical mystery is in better spirits. They must be doing something right.
 
-"That sounds like a good idea". Dr. Cameron nod her head in sympathy, she's looks at the nurses and is thinking to herself the odds of a single person, never mind a kid, being so sick.
+"Well I just had to hear what you wonderful doctors think. Please go on."
 
-"Should I keep going?"
+The group looks at each other and continue talking. Mark pays attention as if he's the supervisor. Anyone looking from afar might mistake Mark for the one coordinating this impromptu medical conference.
 
-"What else are you feeling."
+It's really quite the cute image.
 
-"Something, but it's what I'm not feeling that's starting to freak me out."
+As the doctors finish they agree. X-Ray then MRI and they'll let the tests decide the next steps.
 
-Marky sits up in the bed. So before we run tests, I'd like to hear your ideas for a diagnosis for. Seems prudent. Let's see who can get the sick kid his diagnosis."
+Dr. Cameron turns to Mark, kneeling down to speak with him on even terms, "Mark, we're going to run some tests. An x-ray to see your bones, and a MRI to see your tissues. They won't hurt at all. Unless you'd like to mention some more about yourself?"
 
-The medical staff freezes.
+Marky is leaning on his cane. There's a pause as everyone waits for his answer.
 
-"Don't just stand there like a bunch of kids waiting to talk to Santa. It's time to get to work, you know diagnostics." So frozen are the staff, they don't even object when Marky removes several diodes. He gets up and walks around, using his cane because his right leg is now useless.
+"I doubt I could do any better than the excellent medical care in your hands."
 
-"You there Dr. Cameron and Dr. Blue, and you, who are you?"
+Accepting that evasive answer, Dr. Cameron tells medical assistant Tyler to take Marky to get the tests done. She watches them as they walk down the hall. Mark doesn't even look awkward using the cane. Perhaps that's a clue she thinks to herself.
 
-"Tyler"
+Behind the good doctor is Jessica and Mary. The two exit their room. Mary comes to speak with Dr. Cameron, "Thank you so much for the help. I was just so worried."
 
-"And what's your role?"
+"You're welcome. Pinch the hand, and if there's any pain bring her back. But everything should be fine."
 
-"My role?"
+Marky's trick was true. But Mary doesn't think to mention that to Dr. Cameron. Instead everyone's attention is on the now officially healthy kid. Jessica is holding her beautiful candy cane.
 
-"Um yeah, what do you do here? Anthensia, cardiology, NP"
+"I think you can enjoy that now."
 
-"I delivery medicines on the weekends."
+As Marky turns the corner with cane in hand, Jessica peels away the wrapper from the candy cane.
 
-"A red cavalier among a park of Mercedes" snorts Marky. "Okay, Blue, Cameron, what do you think is wrong. Let's get it all out on the table"
+Both kids are smiling because Mark is ear to ear while walking down the hallway into the hospital as Jessica is enjoying her treat while walking out.
 
-"I'll answer any question." says Mark. Dr. Blue asks Jennifer the mother "Are you the mother". Jennifer promptly waves her head no.
+Mary and Jessica walk past the ER, the triage nurses, the black welcome mat with "Hopedale Hospital" in big pink letters, and into the spinning doors.
 
-"She's not. Come on. Sometimes the textbook comes alive"
+On the outside, Mary and Jessica, minutes before a very concerned mother and scared daughter, take a second to look around.
 
-"You might have a Bleep, we need a CT scan"
+They see the picturesque city in all its glory. Snowfall over paradise. The restaurants, the decorations, and the people come alive. The two smile to each other and embrace in a soulful hug.
 
-"I would feel pain in my Bloop, next."
+And the artist we met before takes notice. She finishes her huge city wide illustration with one last addition. She adds  mother and daughter embracing outside the hospital. Yet another happy story to include in the city-scape.
 
-Dr. Cameron chimes in "A bloop, we need to run a x-ray for the number legs pain".
+The Mary and Jessica are added next to Mark's sketch. He has hunched shoulders and is staring at the spinning door. He indeed was scared before getting into the hospital. His downtrodden demeanor is the lone indication that this sketch isn't heaven on Earth.
 
-"Despite appearances my leg works fine. I'm holding this because Santa nevers gives me real one." Marky walks normal for a few steps, then goes back to limping again.
+The artist finishes the sketch, signs it "B. Cormier" and turns the page. She's enjoying this session of art and is looking for something else to inspire her.
 
-"Well I'm underwhelmed. Just because the symptoms can talk doesn't make them less important." Mark hobbles over to a whiteboard, grabs a marker and writes:
+Going back to Tyler and Mark. They're walking as they exchange chit-chat about Christmas presents and sports. Tyler insists the new X-Box console is better than the Steam Deck. Marky responds with "you're an idiot" but the harsh words are said with a bluster every gamer is used to when talking about their favorite gear that Tyler can honestly respond with "loser".
 
-"SYMPTOMS
-Pain in chest in mid-anterior chest.
-Numb below knees.
-Sweeling in the in the right wrist.
-"
+The blustering insults make both giggle.
 
-"Bleep bleep bloop." Says Dr. Cameron.
+The conversations stop as technicians take over. First the x-ray is done, then the MRI. Mark follows all directions without complaint as he continues being the perfect patient. The test results are put into a folder and handed over to Tyler.
 
-"Yes. It's wrong but not bad. Missing the green hue around the eyes."
+But Marky reaches for it faster.
 
-"Bloop beep". Says Dr. Blue.
+Folder in left hand, cane in right, Marky starts walking back to the Dr. Cameron and Dr. Blue. Tyler goes with of course but there's none of the friendly talk they had when getting here.
 
-"That makes sense. I'm impressed. Let's go for a ultrasound."
+As Mark makes his way back to the ER, the doctors are busy seeing other patients. The complaints almost always not serious so the doctors are not engaged. Sprains mixed with colds.
 
-Marky walks out of the room, of course he's limping and using his candy cane grinning with a satisfaction fit for a kid opening gifts Christmas morning.
+Marky walks past both doctors and goes into a large conference room. The walls are glass so it's easy to see he's waiting for them.
 
-The doctors follow. The nurses and Tyler, the medicine errand boy are left in the room. Tyler says to a nurse, "That was special."
+He stays there with his cane in hand. This is a novel, so I could tell you his thoughts, but that would spoil his glee so I won't, I'll let the main character tell his own story.
 
-Marky leads the doctors to the ultrasound. They both accompany the sick kid for the test. Applying the gel, using the probe to send sonar waves through the skin to receive a remarkable clear picture of what lies underneath.
+Dr. Blue enters first, because Dr. Cameron is admonishing Tyler for letting Mark take the test results. After Tyler runs off on another errand, Dr. Cameron enters and sits at the table.
 
-The doctors are fascinated. They point at several anomalies on the screen and speak among themselves. Marky is still playing the leader, pacing with his cane. He does lots of tests and blaw blaw.
+Marky, with two doctors in front of him, stands his his cane, and starts his scene.
 
-Twenty minutes later or so, they're all back at the first room.
+"Every investigation starts off with some assumptions. So what are yours?" Marky grabs a marker to write on the whiteboard.
 
-Dr. Cameron. "Thank you Mark. We have a much better understanding of what's wrong. We need to speak to your mother, and have a long talk. There's more to know then what we can see.".
+Too curious to object, and to obligated to get some answers, Dr. Blue decides to play along.
 
-"You can't do that."
+Dr. Blue starts if off "Fancy word #1".
 
-"Why?"
+Dr. Cameron objects with a "Donald", to which Dr. Blue responds with a shrug and a smile. He joins Mark in enjoying himself.
 
-"In what way?"
+Bowing to pressure Dr. Cameron joins in. "Fancy world #2"
 
-"This is serious. We need to know more then what you're telling us. Are you on any medications. Do you take any pills?"
+Mark writes both words down, "Okay, but let's pretend it's not the obvious answer, and you're doctors on mission to find answers".
 
-"I don't know." An obvious lie. "Just because you don't know what the right answer is, maybe there's even no way you could know what the right answer is doesn't make your answer right or even okay. It's much simpler than that. It's just plain wrong...Can we just return to running tests?"
+"Fancy world #3, Fancy world #4" from Dr. Cameron.
 
-[should it be a simpler and he's just a patient?]
+"Fancy world #5" from Dr. Blue.
 
-Marky's on the bed. Sick and all.
+Mark continues writing. Caught up in the moment, the two doctors start debating. Their talk is all gibberish to none doctors so why bother writing it here. What we would understand is how animated the doctors become in their back and forth.
 
-A nurse walks past the room. She asks Dr. Blue "what's Marky Mark doing here?". "Excuse me?" replies the doctor.
+The doctors big brains are relishing this debate. At least it's not a sprain or cold.
 
-The nurse walks off to a rack of pamphlets, picks one up and opens to a page. Inside is Marky. His skinny frame and whispy hair are in photo shoot on a hospital floor.
+The medical mini conference goes on to Marky delight.
 
-"He's the poster kid for the kids floor."
+Dr. Blue and Dr. Cameron say more fancy words and Mark writes them down with furiously glee of a mentor happy his students are showing their skills.
 
-"He's mother..."
+Dr. Blue keeps going but Dr. Cameron stops when she realizes something. Her head slants involuntarily she so often happens when we realize something for the first time.
 
-"Hasn't MIA for half a decade. Meth addict. He's got stage three tumours, nevermind a genetic problem with this, and more complications researchers visit him like a sort of sick shrine. Don't tell me you've been treating him?"
+Marky's been spelling the Fancy medical worlds properly.
 
-"Marky!"
+Dr. Cameron then looks at Marky's eyes, and he only smiles back at her with a grin that inspires love.
+
+Dr. Cameron is a pretty women. She's smart as a whip too. But all we can see is her eyes in the daze, the clues are everywhere, and her unconscious is trying to put it all together.
+
+And she can't make the connections.
+
+Mark gives her nothing. But he's watching her now.
+
+He won't tell her. This frail child looks near death. And he is refusing all attempts at help.
+
+Dr. Cameron "what's wrong with you!".
+
+Dr. Blue snaps out of his glee, Dr. Blue grabs the charts. "Kid, we really need to know".
+
+Marky, leaning on his cane, responds with walking back and forth in front of the white board, and goes to the top of the list.
+
+"You said Fancy word #1" but that requires "Fancy word A", not there.
+
+"You said Fancy word #2" but that requires "Fancy word B", not there.
+
+"You said Fancy word #3" but that requires "Fancy word C", not there.
+
+"But you said Fancy word #4" but that, that is interesting.
+
+Dr. Blue asks the obvious question "Are you some kind of genius?" Marky loves the question and throws over the test results. Dr. Blue rips it open to find out if he's right.
+
+But Dr. Cameron is done with this scene. She's now playing psychologist. Out of her expertise, she's forced to play along for now.
+
+After seeing the results, and looking at them again. Dr. Blue's face is grave. "Kid, we need to know where you come from, who's your doctor?"
+
+"The answer is right there in those results. Faster then any phone call"
+
+Dr. Blue combs over the results more. He's taking the test.
+
+Dr. Cameron however realizing something important. She can't play psychologist, but juvenile psychologist.
+
+As Dr. Blue says the words "Kid, you could be in serious trouble..."
+
+"I could be dying. That doesn't mean you get the answer."
+
+- add "Is this normal?" scene, where House shows his pain. Would Marky's meds be wearing off? yeah, and his pain would be showing through, but he overcomes to live his dreams.
+
+Just then, we return to the Cormier, the artist sketching life on her iPad. Because the canvas is infinite, she's kept going and adding more and more detail. Now she's found the jewel to her opus. She finally looked up and saw a billboard that hangs overtop the bustling city like an angel on the Christmas tree.
+
+It's an advertisement for the "Sick Kids Hopedale fundraiser Campaign". On it is Marky. Bald head, skinny, .
+
+Dr. Cameron finishes the scene with "You're already a patient".
+
+Marky beams a smile, "End scene".
+
+===
+
+Christmas trees and presents, Rudolf and snowmen, tinsel and candy canes. They're everywhere on the walls and doors. People are also everywhere. It's a Christmas party. The decorations are everywhere, they're so good they almost make one forget this is the child's ward of the hospital.
+
+It's the annual Christmas party. The patients run around with presents and glee every kid should experience this time of year.
+
+There's a box of candy canes, the beautiful artistic ones Mark was enjoying inside the ER.
+
+The elevator doors open, and Mark gets out. He walks with his candy cane cane, and walks past the festivities. A nurse says to him "Hi Mark, where did you go?"
+
+"Something tells me you'll hear all about it." Mark keeps walking.
+
+He finally makes it to the end of the hall and the last room. It's dark, so we don't see much beyond to notice how big it is.
+
+He goes inside, sits on his bed. He's had quite the night and takes a deep breadth to settle down.
+
+Mark then takes out a binder, and flips through the pages. We can't see the pages, until he stops on a "Home Alone". The iconic Christmas movie about a kid being left home alone while his family goes on a vacation. We see the page and we see the iconic image of Catherine O'Hare hugging the little kid with all the hallmarks of a motherly embrace.
+
+Mark then takes out the sketch he did of Mary and Jessica.
+
+He looks down the hallway at all the parents with their kids. And no we see how Mark got to the hospital.
+
+Flashback to Mark's mom Zoe, dropping him off at the ER....
+
+===
+
 
 ### chapter notes
 
-- after chapter one ordeal, Marky returns to his room/cell. He knows everyone and knows where everything is. He then opens his notebook and ...
+- after chapter one ordeal, Marky returns to his room/cell. He knows everyone and knows where everything is. He then opens his notebook crosses out/rips out *House* from his Iconic Memories book/wall.
+- he then goes to sleep, wearing headphones and listening to something we don't yet know. A better world he fights to live for.
 
 ## 24 Reasons Why
 

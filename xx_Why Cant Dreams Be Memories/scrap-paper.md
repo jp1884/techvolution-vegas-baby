@@ -3,6 +3,8 @@
 
 ## Prologue
 
+I've got this great story about two friends stealing a monkey from a zoo.
+
 We keep going. Sometimes with huge victories. Just look how the bravery of the #MeToo movement toppled so many powerful evildoers. It's a credit to us in fact that we keep going.
 
 It would be easy to say we should be happy with what we got. We should be content with our lives. Why risk failure if our lives are good enough.
