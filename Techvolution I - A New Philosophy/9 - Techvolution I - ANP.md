@@ -481,7 +481,7 @@ The critical point to realize is that in 1970, personal computers and the intern
 
 Being forced to use outdated technology is why middle-class life can be so unhappy. It's why we work bullshit jobs, still use so much oil, can't understand the tax code, and now live in uncertainty during this pandemic. Middle-class life will only get better once we finish the Internet Age upgrade.
 
-There's no shortcuts, cheats, or gimmicks. There's just you and your friends on the frontline who must do the work.
+There's no shortcuts, cheats, or gimmicks. There's just you and your friends on the frontline who must do the work. Your job is no different than any other lifeform working to evolve itself to harvest resources to earn a spot on planet Earth.
 
 Happily, since "we the people" already have amazingly powerful digital tools on store shelves. We only need to believe in a new philosophy to go out and guy them, and thereby upgrade our way of life to the Internet Age.
 

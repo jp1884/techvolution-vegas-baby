@@ -5,7 +5,7 @@
 
 ## Emile, Or On Teaching Us To Stargaze
 
-*Yeah... first time I made this [butter scotch rum] was for your mother.  I'd been wanting to pop the question but I was afraid she'd say no. This gave me the nerve to ask her and I got myself a great big "yes"... and that wasn't the only "yes" I got from her that night either. [laughs] Still scares me to think how close I came to chickening out, though. You know, as you get older, it's not the failures you regret, or the times you made an ass of yourself. It's the times you never even tried, when you just lost your nerve.*
+*Yeah... first time I made this [butter scotch rum] was for your mother. I'd been wanting to pop the question but I was afraid she'd say no. This gave me the nerve to ask her and I got myself a great big "yes"... and that wasn't the only "yes" I got from her that night either. [laughs] Still scares me to think how close I came to chickening out, though. You know, as you get older, it's not the failures you regret, or the times you made an ass of yourself. It's the times you never even tried, when you just lost your nerve.*
   
   Martin Crane on *Frasier*
 https://frasiercranekacl.blogspot.com/2013/01/514-ski-lodge.html
@@ -28,19 +28,27 @@ https://frasiercranekacl.blogspot.com/2013/01/514-ski-lodge.html
 
 ## Prologue
 
-I learned the value of time by watching my two friends steal a monkey from a zoo.
+There are billions of people on this planet and trillions of lifeforms. The only we all value equally is time. Lions and Tigers, rich and poor, time is the one thing no one can control, take away, horde, or steal.
 
-They were in college, it was summer break, and they were smoking lots of weed and eating crap food while binge watching YouTube. They were living the suburban life and were content until a commercial with a cute little monkey came on.
+Time passes the same for me, you, our ancestors, and our forebears. **Time well spent is a new memory made.**
 
-The kids usually ignored ads of course, but they watched this one in awe. It was the darn monkey. The primate wasn't doing anything special. He was jumping around his play pen, taking fruit from peoples hands, playing hide and seek with the zoo keepers.
+If we use time well, we earn more life. If we waste our seconds, we quickly get subbed in for another form of life. One who values time more.
 
-That stuff is cool of course, but what caught my friends attention was the people in the ad; everyone around the monkey was so happy; like pure joy happy. To the two stoners sitting in a messy basement wasting away their youth, this monkey was a shot of life.
+I learned the value of time and it changed my life. The lessons taught me a good life is foremost time well spent exercising, studying, playing, or laughing. Fit for a religion, one that sees Nature as lifeforms all competing to make better use of time. But this isn't a religion, I learned this great lesson by watching two friends steal a monkey from a zoo.
+
+They were in college and it was summer break. They were smoking lots of weed and eating loads of crap food while binge watching YouTube.
+
+They were living the suburban life and were content inside it; until a zoo commercial came on.
+
+The young adults usually ignored ads of course, but they watched this one in awe. It was because of a darn monkey. The primate wasn't doing anything special in the commercial. He was jumping around his play pen, taking fruit from peoples hands, playing hide and seek with the zoo keepers.
+
+That stuff is cool of course, but what caught my friends attention was not the monkey, it was the people in the ad; everyone around the monkey was so happy; like pure joy happy. To the two stoners sitting in a messy basement wasting away their youth, this monkey was a shot of life.
 
 No that's not it.
 
-This little monkey was a shot at life.
+This little monkey was a shot at a life.
 
-When the commercial ended the two guys were thunderstruck. Minutes passed in silence. Then with the immediacy of a lightening strike one friend said.
+When the commercial ended the two guys stayed thunderstruck. Minutes passed in silence. Then one friend said.
 
 "We need a monkey".
 
@@ -48,7 +56,7 @@ Their was only one possible reply,
 
 "Today".
 
-The algorithm of YouTube videos lost their spell. Instead the friends assembled what they had in hand--rope, fruit, fake IDs--into an ingenious plan. With smiles ear to ear, they set out for a small regional zoo.
+The algorithm of YouTube videos lost their spell. Instead the friends assembled what they had in hand--rope, fruit, fake IDs--into an ingenious plan. With smiles ear to ear, they set out for the small regional zoo.
 
 And?
 
@@ -60,7 +68,7 @@ There are problems here of course...animal welfare, theft...but the biggest road
 
 Good for them you might say!
 
-Well for one this meant their joints got bigger too (of course they kept smoking), but dreams filled their heads so much, they actually ignored the cute little monkeys.
+Well... their joints got bigger too (of course they kept smoking), but dreams filled their heads so much, they actually ignored the cute little monkeys.
 
 Instead they stole a 50 pound baboon.
 
@@ -68,15 +76,17 @@ Ross on *Friends* had a pet monkey Marcel. It was a cuddly little creature. Babo
 
 This stolen baboon certainly did.
 
-And this family acted fast and made a plan. It wasn't ingenious. It was very aggressive. Baboons gathered. Baboons rampaged. Glass shattered. Metal broke.
+And its family acted fast and made a plan. It wasn't ingenious. It was very aggressive. Baboons gathered. Baboons rampaged. Glass shattered. Metal broke.
 
-For a few minutes, on the fields of a regional zoo, my two pothead friends were hunted down by a family of murderous baboons. It was a few dozen minutes, but unlike the never ending stream of content we watch, this time of the lives will never be forgotten.
+For a few minutes, on the fields of a regional zoo, my two pothead friends were hunted down by a family of murderous baboons. It was a few dozen minutes, but unlike the never ending stream of content we stream everyday, this time of the lives will never be forgotten.
 
-Happily everything worked out. The monkey's were reunited. My friends got out okay. And I ended up with a sure fire way to make anyone laugh.
+Time imprinted itself as a lasting memory, one so powerful you'll likely never forget about it. And you weren't even there.
 
-All in all, society got a good deal. No matter who I've told, happy drunks or suffering souls, everyone's day brightens-up when I tell them the story about two idiots stealing a monkey from a zoo. Not a bad way to spend to spend your time.
+Happily, everything worked out. The monkey's were reunited. My friends got out okay. And I ended up with a sure fire way to make anyone laugh.
 
-People can't help but enjoy the story because life gifted every life-form a pathway to happiness. Bison love to graze. Cats love to hunt. I bet even trees smile when Spring sunshine comes. Every human loves a good story.
+All in all, society got a good deal. No matter who I've told, happy drunks or suffering souls, everyone's day brightens-up when I tell them the story about two idiots stealing a monkey from a zoo.
+
+People can't help but enjoy the story because life gifted every life-form a pathway to happiness. Bison love to graze. Cats love to hunt. I bet even trees smile when Spring sunshine comes. Every human loves spending their time experiencing a good story.
 
 But why? It's easy to understand why life wants predators to hunt, grazers to eat, plants to grow; each serves an eco-system's system of checks and balances. A good balance helps life thrive in every habitat.
 
@@ -84,11 +94,11 @@ But how does people telling, reading, or living good stories help life flourish?
 
 Because stories are about someone fighting for their dreams. And what are dreams? The motivation we get--from some mysterious place--to improve our lives, our families, and our society.
 
-Fighting for our dreams, be it losing weight or curing cancer, makes good stories; and that's how we help life prosper.
+Fighting for our dreams, be it losing weight or curing cancer, makes good stories; and that's how we humans help life prosper.
 
 Yet, here's my point, everything isn't rainbows and sunshine on our planet. We don't live in the Garden of Eden. Happiness is rare. Most tree saplings don't find sunlight. The lion's share of hunts fail miserably. Elephants are often starving while they roam the Serengeti looking for something to eat.
 
-Anyone who's watched BBC Planet Earth knows this and soon learns natural life is usually lived in hunger, desperation, and pain.
+Anyone who's watched BBC Planet Earth knows this and soon learns most lifeforms spend their time in hunger, desperation, and pain.
 
 Humans are no different. Despite our deepest dreams, most real-life stories don't have Hollywood endings. And while humanity loves sharing our stories of success, sharing our painful failures isn't so easy.
 
@@ -98,7 +108,7 @@ It's easy to think our dreams will never come true.
 
 Maybe that's why huge problems like climate change, enormous debt, opioid epidemic keep getting worse. We dream of a better world without these torments, but we don't believe we can actually solve them.
 
-Life demands we do. I say Life here, but you can insert God, Nature, Mother Earth, Consciousness; whatever force you think put us in this Universe so hostile to every living thing; It doesn't care how painful it can be to make dreams come true.
+Life demands we do. I say Life here, but you can insert God, Nature, Mother Earth, Consciousness; whatever force you think put us in this Universe so hostile to every living thing that only have limited time to fight back before we die. Life doesn't care how painful it can be to make dreams come true.
 
 For life to prosper, It needs all lifeforms to overcome the pain of failure and keep fighting for life's prosperity because if we don't, the game is over, the story ends, and Life looks for someone else to battle the Universe to stay alive.
 
@@ -106,11 +116,11 @@ It's too bad I'll never hear your stories. I know you've added some great chapte
 
 This story will give you dreams. Better yet, this story will motivate you to embrace the pain needed to turn your dreams into reality.
 
-Just as Life wants us to live. Always fighting for our happiness. Never scared of failure. Embracing anxiety, disappointment, and despair because the truth is unlived dreams are the only ever-lasting agony.
+Just as Life wants us to live. Always fighting for our happiness. Never scared of failure. Embracing anxiety, disappointment, and despair because the truth is untried dreams are the only ever-lasting agony.
 
 The hero of this story is your dream maker, your stargazer who accepts misery as nothing but fuel for the best visions a person can dream of.
 
-This hero shows us all how to live a better life.
+This hero shows us all how to spend our time inside a better life.
 
 I'm going to tell you a story about two kids visiting a Hospital Emergency Room. I'm going to tell you a story about the one who never left.
 
