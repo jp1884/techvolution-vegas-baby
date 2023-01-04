@@ -9,7 +9,7 @@ May 2020 (manuscript)
 
 ## Back Page
 
-Even before this pandemic, middle-class Americans and Canadians had serious problems: rising debt, stagnating wages, expensive healthcare. Not too long ago, we could relax and assume our political culture would solve our everyday headaches. Not anymore. Today, politics on both sides of the border is controlled by ideologically obsessed reporters, columnists, and pundits creating new ways to sing to their Left-wing or Right-wing choirs.
+Even before this pandemic, middle-class Americans and Canadians had serious problems: rising debt, stagnating wages, expensive healthcare. Not too long ago, we could relax and assume our political culture would solve our everyday headaches. Not anymore. Today, politics on both sides of the border is controlled by ideologically obsessed reporters, columnists, and pundits creating new ways to keep their Left-wing or Right-wing choirs tuned-in.
 
 COVID-19 will only make middle-class problems worse, making traditional Left/Right politics even more dysfunctional.
 
@@ -27,7 +27,7 @@ _This book is for the people in the open-source community. For the collaboration
 
 _For the antagonists, the self-entitled delegators keeping Blockbuster—and it's Industrial Age mentality of waiting in line, hoping to get a raise, and in general selling dependency—alive, thanks for making history to repeat itself yet again. I hope you learn something._
 
-_This book is especially dedicated to the extras on Main Street. When it's time for you to act, I pray you decide to play the game._
+_This book is especially dedicated to the extras on Main Street. When it's time for you to act, I pray you decide to play the game of evolution._
 
 ---
 
@@ -67,11 +67,9 @@ We can cherish Romeo and Juliet because we know their love is beautiful and wort
 
 But our emotions don't change the story. Even the main character's feelings mean so very little to the final outcome.
 
-That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to Sith Lords, don't battle using arguments, debates, or emotions. They fight using real objects like wands and lightsabers.
+That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to Sith Lords, don't battle using arguments, debates, or emotions. They fight using real objects like wands and lightsabers; neither the good guy or bad guys sit back and watch the events unfold.
 
-Watching good and bad guys fight is exciting. Not knowing what's going to happen next is why we can binge-watch for hours and hours. But unlike us, the protagonists can't sit back and enjoy seeing the events unfold.
-
-Because nobody ever won a battle by watching it. The victors are the ones who control technology because tools are the levers of power in every story. Cinderella used a slipper to finally defeat her treacherous step-family. Harry Potter used a wand to defeat "He Who Must Not Be Named." And Luke Skywalker used a small torpedo to destroy the Death Star. When heroes control the levers of power, they overcome antagonists and solve problems.
+Because nobody ever won a battle by watching it. The victors are the ones who control technology because tools are the levers of power in every story. Cinderella used a slipper to defeat her treacherous step-family. Harry Potter used a wand to defeat "He Who Must Not Be Named." And Luke Skywalker used a small torpedo to destroy the Death Star. When heroes control the tools, they control the levers of power, and can therefore overcome antagonists, control society, and solve problems.
 
 And this simple observation is the lesson Main Street must learn today.
 
@@ -84,41 +82,51 @@ Otherwise this pandemic was for nothing.
 
 Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll tell you, "if the Right-wing triumphs, infrastructure, healthcare, everything will go to shit!"
 
-If you buy it—and most of us have at some point—you glue yourself to Left-wing blogs, radio, and TV. Filled with Leftist philosophy, you'll walk the path of extremism and see more _fascist_ Conservatives with every step.
+If you buy it—and most of us have at some point—you glue yourself to Left-wing blogs, radio, and TV. Filled with Leftist philosophy, you'll ignore your daily life and it's frontline problems as you walk the path of extremism and see more _fascist_ Conservatives with every step.
 
-Or, if the other side sucked you in first, you start spotting _communist_ Progressives instead.
+Or, if the other side sucked you in first, you start spotting _communist_ Progressives in their hiding places instead.
 
 But it's all bullshit.
 
-Despite Left/Right yelling matches, neither ideology is your hero because both are your enemy. The pundits, columnists, and reporters on newspapers, broadcast television, cable news only care to send you one-way messages to tune-in, protest-or most likely-buy and donate.
+Despite Left/Right yelling matches, neither ideology is your hero. The pundits, columnists, and reporters on newspapers, broadcast television, cable news only care to send you one-way messages to tune-in, protest-or most likely-buy something and donate.
 
-These extremists trick you. They say their ideological purity will hold government accountable to their "good" ideology. They want you to believe writing ideologically approved laws quickly translates into real-world change. But, both sides only want you to keep watching the Left/Right circus. They want the middle-class to be the audience of our own society.
+These extremists trick you. They say their ideological purity will solve your real-life problems by holding government accountable to their approved ideology. Only if government writes their ideologically approved laws, will your real-life problems ever be solved. But, both sides only out to solve their problem; they're employed by an aging broadcast television and newspaper technology that's funded with expensive commercials. The Left versus Right battle driving Americans to hate each other, is just a circue to attract eyeballs to justify a dying business model.
 
 Galileo, George Washington, and Luke Skywalker reached for the power of new technology. So why shouldn't you? Even more important, why shouldn't the middle-class? Isn't our healthcare, infrastructure, and especially our pandemic preparation, worthy of upgrades?
 
-Of course they are. And, that's the point.
+Of course they are. And, that's the point. The feud between Left and Right ideologues is a distraction among many others in our society.
 
-The feud between Left and Right ideologues is a distraction. The technology that ideological obsessed businesses use is old and no longer worthy of being center-stage in our society. Like a dinosaurs in an Ice Age, these business hustle to stay alive despite their being out of time.
+Like a dinosaurs in an Ice Age, old businesses like broadcast televsion, radio, and college education want to stay alive despite evolution passing them by. So each uses ideological narratives rooted in Industrial Age politics to keep their Industrial Age technology alive in the marketplace
 
-Upgrading our lives and society (or not) to the possibilities of modern technology is the real political game of our time.
+If this seems simplistic, and if you think your favored ideologues are altruistic, what do you expect people in good paying jobs to do when they're bested by a new technology? What were people in broadcast, radio, or movies supposed to do when the internet gave regular people affordable on-demand content that _anyone_ can upload and watch? There's a easy to understand reason why why no ideologue, pundit, or movie star invented, promoted, or popularized the internet, podcasts, online streaming, and ebooks; because of all these threatned their cash cow of radio, DVDs, and bookstores.
 
-This contest started in 1970 when the internet and personal computers were invented. That's when human civilization did what we've done many times before. We entered a new technological age. Like when we left the Stone Age by making bronze tools, or entered the Renaissance with the printing press, in 1970 we left the Industrial Age and entered the Internet Age. In 1970 we invented technology that completely changed our way of life.
+When inventors did force through new technology, what cable news, broadcast, movie stars etc. did was reach out into Twitter and Youtube and other internet platforms and increase their toxic narratives to get people's attention by using a superficial understanding of Conservative and Progressive political philosophy. They each label the other a _facist_ or _communist_ to keep themselves relevant to their audiences. They put on on great entertainment to avoid being you, the one living with unfixed real-life problems.
 
-But the owners of industrial age technology (like television and newspapers) weren't and still aren't jumping for joy. They don't want humanity to evolve. Why would they want to upgrade from industrial age living anymore than the kings of the medieval age wanted to leave their castles and palaces.
+The truth is upgrading our society to the possibilities of modern Internet Age technology to fix frontline problem is the real political game of our time. It's by no means certain we'll upgrade our society and embrace the Internet Age.
 
-Just look how resistant Blockbuster and Hollywood in general was to online streaming. Using the internet gave regular people no line-ups, no late-fees, cheaper prices, on-demand content; these were all things that people were forced to pay a healthy premium for before the internet. Precisely why online streaming faced antagonism such as lawsuits and little content for many years in its infancy.
+We're already far behind. We got the tools of the Interet contest in 1970 when the internet and personal computers were both invented. That's when human civilization did what we've done many times before. We entered a new technological age. Like when we left the Stone Age by making bronze tools, or entered the Renaissance with the printing press, in 1970 we started to leave the Industrial Age of gas powered machines and human-powered factories and offices behind.
 
-And there are many more segments of our lives similarly being held back by Industrial Age industries.
+In 1970 we invented technology that completely changed our way of life.
 
-There's a simple reason. Gatekeeping access to thinks like movies, education, and insurance is very profitable. Keeping our society in the Industrial Age keeps those who control the Industrial Age technology in power. That's why these Industrial power brokers are working hard to antagonize upgrading to an internet age way of life. These "Darth Blockbusters" want society's Internet Age levers of power all to themselves; make the little guy wait in line.
+But the owners of Industrial Age technology such as television and newspapers, typewriters and blackboards weren't and still aren't jumping for joy. They don't want humanity to evolve. They don't want to upgrade from industrial age living anymore than the kings of the medieval age wanted to leave palaces and run for elections in a democratic government.
 
-Happily, many regular people have been fighting back. Internet geeks, hackers, and innovators are the heroes of the Internet Age. They've been fighting stepping up and Darth Blockbuster's gatekeeping and antagonism for years. The open-source community alone has made hundreds of thousands of tools that already empower the middle-class to live a better life with tools like Android, Linux, internet streaming; even Netflix uses open-source software. But, these protagonists can't keep fighting your battles for you. Main Street must jump into the fight.
+Just look how hostile Blockbuster and Hollywood was to online streaming. Using the internet to view their favorite shows gave regular people no line-ups, no late-fees, cheaper prices, on-demand content; these were all things that people were forced to pay a healthy premium for before the internet. Precisely why online streaming faced antagonism such as lawsuits and little content for many years when it was first invented.
+
+Electing a Left-wing or Right-wing government may harm or hurt some regular people (and help others), but every single regular person is harmed by holding back technological upgrades. And there are many segments of our economy being held back by Industrial Age antagonists.
+
+There's a simple reason. New technology is magic and no one understands how it will transform our way of life. Anyone can re-invent society, so there's a long period of equality as human race to be the ones who re-invent an industry with new technology like Netflix did for entertainment. But if your business is in the path of new technology, you have a large incentive to not risk open competition. Technological upgrades regular people and downgrades once upon a time power brokers.
+
+If the middle-class is fixated on the Left/Right circus, it only keeps those who control the Industrial Age technology in power. A new and better way of life won't just happen. Industrial power brokers are working hard to antagonize our society upgrading to an improved Internet Age habits, customs, and jobs. These "Darth Blockbusters" want society's levers of power to remain with themselves.
+
+Every new age is a great equalizer, a blank sheet, a starting line; because anyone can innovate and evolve new products of the new age. Humanity should protect the winners of this race, because it's the race we should keep on racing. But for now, we let Darth Blockbuster resist human technological evolution.
+
+Happily, many regular people have been fighting to establish the Internet Age. Internet geeks, hackers, and innovators are the heroes of the modern technology. They've been fighting Darth Blockbuster's gatekeeping and antagonism for years. The open-source community alone has made hundreds of thousands of tools that already empower the middle-class to live a better life with tools like Android, Linux, Node.js; even Netflix uses open-source software. But, these protagonists can't keep fighting your battles for you. Main Street must jump into the fight.
 
 There is no debate. The story is simple, and the morality is clear. We must upgrade our society to the Internet Age now.
 
-If we don't, this pandemic only foreshadows a much more terrible storm to come. Every year, month, and day we delay our evolution only makes our technology, tools, and culture more outdated. Responding to and preventing horrible events like depressions, hurricanes, climate change, wars, and pandemics like COVID-19, will only get harder if we keep using Darth Blockbuster's Industrial Age technology.
+If we don't, this pandemic only foreshadows a much more terrible storm to come. Every year, month, and day we delay our evolution only makes our politics, economics, and culture more outdated. Responding to and preventing horrible events like depressions, hurricanes, climate change, wars, and pandemics like COVID-19, will only get harder if we keep using Darth Blockbuster's Industrial Age technology.
 
-I've heard some people say this pandemic was planned or an attack of some kind. Even if it was, that's all the more reason we should have been prepared for it. Life doesn't have an umpire who decides what's fair. Our country is either ready for _whatever_ comes next, or we aren't.
+I've heard some people say this pandemic was planned or an attack of some kind. Even if it was, that's all the more reason we should have been prepared for it. Life doesn't have an umpire who decides what's fair and let's have another chance if we fail. Our country is either ready for _whatever_ comes next, or we aren't.
 
 And being prepared means using modern technology to it's fullest potential.
 
@@ -126,7 +134,7 @@ This book will teach you how to upgrade our society to the very powerful Interne
 
 But for your grand-kids to ever watch it on Netflix one day, _you_ have to make it happen first.
 
-The first lesson is like a story, you can't win politics by watching it. To be Victorious, you just have to play the game by reaching for the power of modern technology.
+The first lesson is this; like any hero in any story, you can't win politics by watching it. To be victorious in politics, you have to reach for, and learn to harness, the amazing power of modern technology.
 
 ## About the Author
 
@@ -142,19 +150,21 @@ I graduated from the University of Toronto in political science, history, and ge
 
 "_People are angry, man! Most people's lives suck...Even if like the economy is doing better, the vast majority of people aren't doing what they want to do with their lives._" [Joe Rogan, November 2019](https://youtu.be/-0sKkbjQYqw?t=1239).
 
-This book was going to deal with your levels of anger and happiness in life. It was going to begin with analyzing your take on the economy, nation, and life at large.
+This book was going to deal with your levels of anger and happiness in life. It was going to begin with analyzing your take on the economy, nation, and life at large. Because before we talk about a new common sense of political morals, ethics, and in general what our society's shared mission should be, we must dislodge any loyalty you have to our old ones in the Left and Right.
 
-Now we've hit the Great 2020 Pandemic. I don't need to inquire about your happiness anymore. If you're like most Americans and Canadians, you're likely downright terrified about getting sick, and perhaps more frightening, wondering what's going to happen next.
+Now we've hit the Great 2020 Pandemic. So this job of replacing our political philosophy should be easier. People are more open to the idea that our society is in need of change. I don't need to inquire about your happiness anymore. If you're like most Americans and Canadians, you're likely downright terrified about getting sick, and perhaps more frightening, wondering what's going to happen next.
 
-For years, North Americans suffered under troubling trends: micro-management at work, antisocial behavior at home, political hatred in government. We got by because superficially we're "doing great": we have full employment, luxurious homes, and stable politics. Whenever things got too bad, and we got too unhappy, we visited the shopping mall for therapy. If we were still angry, we'd install a new political party. Over the years, Canadians and Americans gave Left and Right control of our government again and again.
+For years, North Americans suffered under troubling trends: micro-management at work, antisocial behavior at home, political hatred in government. We got by because superficially we were "doing great": we had full employment, luxurious homes, and stable politics. Whenever things got too bad, and we got too unhappy, we visited the shopping mall for therapy. If we were still angry, we'd install a new political party. Over the years, Canadians and Americans gave Left and Right control of our government again and again.
 
 Yet, no matter which we choose, Main Street wasn't happy with the results. It's why we kept rotating Left and Right over and over.
 
-Turning Right and Left got us no where. We kept going in circles because there is something fundamentally wrong with our politics. For decades we've been working to keep the Industrial Age alive. It's finally time we step up, as our ancestors did so many times before, and rethink our way of life. The hardest part isn't explaining our problems or coming up with solutions. It involves the realization that you, me, and every ordinary Canadian and American should be happy with our jobs, government, and life.
+Turning Right and Left got us no where. We kept going in circles because there is something fundamentally wrong with our politics. Both Left and Right are Industrial Age ideologues, and thus have been doing what they're created for, building and maintaining an Industrial Age alive; instead of adapting to a Internet Age way of life.
+
+We're in a new age, and it's finally time we step up, as our ancestors did so many times before, and rethink our way of life. The hardest part isn't explaining our problems or coming up with solutions. It involves the realization that you, me, and every ordinary Canadian and American should be happy with our jobs, government, and life.
 
 It's our right to enjoy happy lives.
 
-Because individual happiness is the ultimate sign of a healthy society. Interesting to note, our ancestors were often happier then we modern people are, despite often being very hard-up in comparison. Our grandparents or great-grandparents weren't "simpler." Nor did they have lower standards. They saw their society improve every year. And like with any hero, the blood, sweat, and tears of personal sacrifice are easy crosses to bear when we're making progress.
+Because individual happiness is the ultimate sign of a healthy society. Interesting to note, our ancestors were often happier then we modern people are, despite often being very hard-up in comparison. Our grandparents and great-grandparents weren't "simpler." Nor did they have lower standards. They saw their society improve every year. They went from mud roads to paved ones. Fireplaces to furnaces. Outhouses to indoor plumbing. Letters to telephones. So, like with any hero, the blood, sweat, and tears of personal sacrifice are easier to bear when we're making progress everyday.
 
 In contrast, North American culture is going backward. The trends that make us unhappy like horrible commutes, expensive education, and mindless bureaucracies keep getting worse. A significant reason is that as employees and consumers of big bureaucracies and corporations, we're powerless to demand better.
 
@@ -162,25 +172,23 @@ But the more significant cause for our society's decline is our belief in Left a
 
 We keep alternating which "side" controls our governments and passions. But nothing changes with either because the truth is the middle-class gives Conservative and Progressive doctrines far too much credit. Regular people on Main Street following one (or hating another) is never going to solve our problems.
 
-When I started writing this book (it was meant to be an attempt to answer the hard problem of human consciousness, more on that later) around 2015 I quickly stopped. I soon realized how foolhardy it was to write a book to get Main Street off their ideological obsessions, and more often, hatreds. So I wanted to first showcase the value of a modern technology to solve everyday problem by bringing a new product to market. A simple app that costs thousands, but would save the middle class hundreds of millions.
+When I started writing this book (it was meant to be an attempt to answer the hard problem of human consciousness, but here I am for now) around 2015 I quickly stopped. I soon realized how foolhardy it was to write a book to get Main Street off their ideological obsessions, and more often, hatreds. So I wanted to first showcase the value of a modern technology to solve everyday problem by bringing a new product to market. A simple app that costs thousands, but would save the middle class hundreds of millions.
 
-The dream was to show how technology is always humanity's salvation and that all ideologies, past ones and ours today, are created to help us make the most of modern technology. Like in any good story the hero's philosophy and beliefs are only good if she uses it to use technology to defeat the bad guys.
+The dream was to show how technology is always humanity's salvation and that all ideologies, past ones and ours today, are created to help us make the most of modern technology. Like in any good story the hero's philosophy and beliefs are only good if she uses it to use technology to defeat the bad guys. If Luke Skywalker failed to stop the Death Star we wouldn't be teaching our kids how great the Force is.
 
-If Luke Skywalker failed to stop the Death Star we wouldn't be teaching our kids how great the Force is.
-
-But with our political ideologies we do just that today.
+But today, we sadly do brag about our political ideologies regardless of real-world improvements.
 
 After my app failed (or better said, got steamrolled) I started writing this book in September 2019. I still dreamed of (somehow) convincing the North American middle-class to stop putting so much faith in Left and Right writers, commentators, and pollsters. I didn't know how but I still dreamed.
 
-Because the simple truth is, Left and Right are old. Very old. They are too outdated to solve everybody problems. Neither will every give the middle-class a happy life.
+Because the simple truth is, Left and Right are old. Very old. They are too outdated to solve everybody problems. Neither will every give the middle-class a happy life because neither knows how to harness modern technology.
 
 Let's drill this down some more. When Left and Right were created, indoor plumbing wasn't even science fiction, because science fiction didn't even exist. Evolution and electricity didn't exit. Rubber shoes and a simple ball-point pen weren't around. Heck, people didn't even know what bacteria or viruses were.
 
-The creators of the politics you care so much about; didn't even know enough about the world to wash their hands before undergoing surgery. Doctors used mud to stop bleeding wounds.
+The creators of the politics didn't even know enough about the world to wash their hands before undergoing surgery. Doctors used mud to stop bleeding wounds.
+
+In that same time p[eriod we've updated our medicine, geology, astronomy, biology because latest scientific instruments revealed new truths about the world. But political ideologies are somehow unchanging and immortal?
 
 Now realize it's okay to change our ideologies. It's totally okay! We're free to pick and choose whichever philosophy we want. There's nothing special about any belief system, be it democratic socialism, hereditary monarchy, or Left/Right. Every political doctrine was created by a human being to help society prosper.
-
->I Want To Learn The Ways Of The Force And Become A Jedi Like My Father.
 
 So, if ordinary people are not happy with their lives, we're _supposed_ to change the philosophy that rules our nation.
 
@@ -197,15 +205,17 @@ Both partisan "sides" are the faces of the exact same coin. When President Obama
 
 Here's why. Instead of governing our society, our political system is hogtied by extremist Left/Right reporters, commentators, and pundits hell bent on keeping their old technology and businesses relevant by using the embers of Left/Right ideology for every bit of spectacle and distraction left in them.
 
-Modern political discourse is no different than a blockbuster movie franchise on its 10th sequel ramping up the effects and sex to distract the audience one more time from a terrible story and substance. Making the "other side" the only valid enemy is a great way to prevent anyone leaving the show.
+Modern political discourse is no different than a blockbuster movie franchise on its 10th sequel. The same plot, the same faces, saying the same lines of dialogue while the producer ramps up the effects and sex to distract the audience one more time from a reptitive story.
+
+Every Left/Right commentator fears being you, the one with a regular job trying to live a regular life.
 
 I used to be one of their followers. I understand their appeal. By signing up to a side, any person has a pre-made set of policies to rally around. Or more likely, a ready-made group of people to blame for any and all problems. Happily, I think most on Main Street has learned what I eventually did, professional political partisans aren't heroes fighting for the average person. Each radical only cares about advancing their personal careers by preaching ideological purity.
 
 Yet because too many of us still listen to Left/Right idealogues on blogs, books, and TV, our elected leaders are forced to satisfy the extremes. Campaign fundraising alone requires politicians to talk with echo chambers nearly every single day. Speaking to choirs in media junkets, talk-show interviews, and dinner fundraisers is why our elected representatives can sound like foreigners to "non-believers" on Main Street.
 
-After many conversations with politicians, I honestly feel for them; it's almost always the extremists who show up, donate, and otherwise get involved in today's politics.
+After many conversations with politicians, I honestly feel for them; it's almost always the extremists who show up, donate, and otherwise get involved in today's politics. Thus politicians are forced to accommodate the radicalization of politics.
 
-The funny thing is, despite being so emotional, neither Left or Right ideologues have any idea how Internet Age technology even works. After all, since Left/Right extremists are not heroes reaching for the power of new tools to solve a problem, they don't work hard and figure out how to invent something new and help like Netflix.
+The funny thing is, despite being so emotional, neither Left or Right ideologues have any idea how Internet Age technology even works. After all, since Left/Right extremists are not heroes reaching for the power of new tools to solve a problem, they don't work hard and figure out how to invent something new like Netflix.
 
 That's why if (or when) you ignore an election, it's hard to notice who won.
 
@@ -215,15 +225,17 @@ Of course not.
 
 We're struggling during this pandemic because our political ideologies make us think middle-class life will get better once "the other side" is defeated. It's just not true. It's proven itself not to be true for the past several decades because like in any story, problems aren't solved with emotions and yelling matches, but by mastering a new and better tool. And if Left/Right ideologues don't understand modern Internet Age technology, what contemporary real-life problem can Right/Left policies, platforms, and screaming ideologues solve?
 
-Where is Hermione wand, Luke's light-saber, Galileo's telescope?
+Where is Hermione's wand, Luke's lightsaber, Galileo's telescope on ideological newscasts and rallies?
 
-Left and Right were meant to industrialize humanity. The Right would collect and protect captial so it could be invested into new buildings, products, and services. The Left would distribute this new wealth to be sure everyone in society participated and stayed loyal to the society. Together, both Left/Right gave humanity great things like paved roads, indoor plumbing, and libraries filled with books and DVDs. Both sides did a great job. To a person from 1850 we're very developed.
+Left and Right were created in the Industrial Age to industrialize humanity. The Right would collect and protect capital so it could be invested into new factories, buildings, products, and services. The Left would distribute this new wealth to be sure everyone in society participated and stayed loyal to the society. Together, both Left/Right gave humanity great things like paved roads, indoor plumbing, and libraries filled with books and DVDs. Both sides did a wondrous job. To a person from 1850 we're extremely developed.
 
-But now we're fully industrialized. The industrialization step in our technological evolution is complete. If we want a better future in the Internet Age, we need a new philosophy to guide us there.
+But now we're fully industrialized. The industrialization step in our technological evolution is complete. If we want a better future in the Internet Age, we need a new Internet Age philosophy to guide us there.
 
 I happened to be writing this book long before the coronavirus. Suddenly history has given us all a sad reality check. Our society, and our political ideologies, are very outdated. We weren't, and still won't be prepared for whatever comes next in the story of life.
 
-To upgrade our civilization and re-attain stability, health, and happiness, ordinary people need to revamp a lot of things. Techvolution, a new philosophy that empowers the middle-class with modern custom-made tools that solve our everyday problems, will help us get there.
+Hopefully this chapter created a little wedge in your mind. Left and Right were born in the Industrial Age. Conservatism, Progressivism, Marxism, Socialism, and all the rest you may love and hate, are simply old. I won't get technical into their details because there's no need; if you really care about them you can stop watching cable news and read them on Project Gutenberg and watch expert analysis on YouTube.
+
+I want to upgrade our civilization so regular people start living happy lives again. This new philosophy called Techvolution will get us there because it empowers the middle-class with modern custom-made tools that solve our everyday problems.
 
 <img src="https://techvolution.io/content/images/2020/04/levers-of-power.jpg" alt="Levers of Power" class="center-img" width="950" height="">
 <figcaption>The blank page. The starting point of creating something totally new. It's a scary place, and a place that every Left/Right ideologues runs away from in the Internet Age. Credit: Unsplash.</figcaption>

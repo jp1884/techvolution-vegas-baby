@@ -3,6 +3,24 @@
 
 ## Prologue
 
+Keep for Mark's 24 speech:
+
+For everyone on this Earth, lions and tigers, rich and poor, old, and young, time is the one thing no one can control, take away, horde, or steal.
+
+Time well spent is a lasting memory made.
+
+If we use time well, we earn more life. If we waste our seconds, we quickly get subbed in for another form of life. Yellow, blue, huge, small, smaller. Life creates and cherishes any form; as long as they work hard and use resources wisely, the most important resource of all is time.
+
+Life's creatures have different paths to learn the value of time. I learned it by watching two friends steal a monkey from a zoo.
+
+For everyone on this Earth, lions and tigers, rich and poor, old, and young, time is the one thing no one can control, take away, horde, or steal.
+
+Time well spent is a lasting memory made.
+
+If we use time well, we earn more life. If we waste our seconds, we quickly get subbed in for another form of life. One who values time more.
+
+I learned the value of time and it changed my life. The lessons taught me a good life is foremost time well spent exercising, studying, playing, or laughing. Fit for a religion, one that sees Nature as lifeforms all competing to make better use of time. But this isn't a religion,
+
 I've got this great story about two friends stealing a monkey from a zoo.
 
 We keep going. Sometimes with huge victories. Just look how the bravery of the #MeToo movement toppled so many powerful evildoers. It's a credit to us in fact that we keep going.
