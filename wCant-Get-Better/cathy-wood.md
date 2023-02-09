@@ -1,4 +1,6 @@
-# Cathy Wood's Tragic Flaw
+
+# Can't Get Better
+## Cathy Wood's Tragic Flaw
 
 Sadly, we share it with her
 (manuscript September 2022)
