@@ -15,27 +15,29 @@ However, labeling our jobs from the customer's perspective is wrong for most wor
 
 My first job was movie usher. One common moviegoer complaint was the huge lines to buy popcorn. After many months of hearing this, I asked my manager why we couldn't sell popcorn at the same time we sell tickets. This would save the second sales transaction and get people popcorn much faster.
 
-Not an original idea, I'm sure. Other workers suggested it, which was implemented many years later. Without it, I grew thicker skin to withstand customer complaints.
+Not an original idea. Other workers suggested it and it was implemented many years later. For my time, instead of the easy innovation, we all grew thicker skin to withstand customer complaints.
 
-My first office job was doing data entry. My department would review scanned print newspapers, track what was on each page, and sell the information to the print industry as business intelligence.
+My first office job was doing data entry. My department would review scanned print newspapers, data enter what was on each page, and sell the information to the print industry as business intelligence.
 
-One day the IT department decided to write us new software. It sucked. The size of each page on our screens was halved. It was easy to make mistakes when looking at small writing and pictures. IT made this new software without even asking for our input. Regardless, we had to use it, even though we wanted to use the old version.
+One day the IT department decided to write us new software. It sucked. The size of each page on our screens was halved. The writing was now so small, it was easy to make mistakes. IT made this new software without even asking for our input. Regardless, we had to use it, even though we wanted to use the old version.
 
 Although I tell people I was an "usher" or "data-entry clerk," that is wrong. I shouldn't label my jobs from the customer's perspective. I wasn't in control of their experience because I didn't control the tools used to solve their problems. Instead I used a broom and garbage bag to clean movie theatres and told people they had to wait in line to buy popcorn. I used a shitty software called "Audit" to enter data.
 
 Labelling, or letting myself be labeled an "usher" or "data-entry clerk," put the responsibility for the customer experience on me, while I, in reality, had little control over it. I was hired to use specific tools and not help improve what customers wanted.
 
-Compare that to a contractor. When renovating a bathroom, you have a design in mind, hire a contractor, and assume both sides operate in good faith; you don't care what kind of drill or hammer your contractor uses to renovate your home.
+Compare that to a building contractor. When renovating a bathroom you don't care what kind of drill or hammer your contractor uses to renovate your home.
 
 The contractor was hired to complete a job. He's being held to a standard and controls how he finishes the job. It's right to call him a contractor.
 
 You might think, "I was only a movie usher or data entry clerk, so I shouldn't control my tools." To which I respond, even a paperboy can decide how to get the paper to your doorstep.
 
-If Timmy, the paperboy, can figure out how to deliver papers faster, he'll make more money. That doesn't automatically mean Timmy will like his job, but it does mean he can make changes when he's unhappy. Timmy and the contractor have professions.
+If Timmy the paperboy, can figure out how to deliver papers faster, he'll make more money. That doesn't automatically mean Timmy will like his job, but it does mean he can make changes when he's unhappy. Timmy and the contractor have professions.
 
-Workers with no control over their tools can't. These aren't professions. They're employments. And being told what tools to use is the nature of employment. So is being given production quotas. It'll even say so in the employment contract.
+Workers with no control over their tools can't. These aren't professions. They're employments. And they're the basis of most jobs today. And being told what tools to use is the nature of employment. So is being given production quotas. It'll even say so in the employment contract.
 
-All employers control the tools their employees use; some take this responsibility seriously. Well-run factories agonize over every minute of a worker's time. There's also a machinist or engineer nearby to assess proposed changes from workers. But many, likely most, employers don't care about their worker experience. Instead, they own aging equipment, refuse to invest in more efficient tools, and hire more people to make up for lagging productivity, and that also happily bulges the management ranks. When customers are unhappy, the management blames their employees with a gaslighting phrase, "you're not meeting expectations."
+[Skunkworks quote]
+
+All employers control the tools their employees use; some take this responsibility seriously. Well-run factories agonize over every minute of a worker's time. There's also a machinist or engineer nearby to assess proposed changes from workers. But many, likely most, employers don't care about their worker experience. Instead, they own aging equipment, refuse to invest in more efficient tools, and hire more people to make up for lagging productivity, something that depresses workers value and happily bulges the management ranks. When customers are unhappy, the management blames their employees with a gaslighting phrase, "you're not meeting expectations."
 
 Not controlling your tools is why your pay won't increase, customers won't appreciate you more, and your job won't get better. To improve any of these, you must have input and say in the tools you use.
 
@@ -43,7 +45,7 @@ You already know how valuable this freedom is.
 
 Americans enjoy working in their homes, learning new skills, and buying new tools. Renovating a home, training in kickboxing, and tinkering with a 3D printer take lots of time and effort. Americans do these challenging tasks willingly because we're in charge and thus are free to research what teachers, products, and tools work best for us.
 
-Human happiness needs the freedom to choose our tools. People will make mistakes, buy too much, or get sucked into the wrong trend. But with freedom, we can correct our errors. I can prove it to you. Let's look at another economy that told workers and consumers what products to buy and use. Without surprise, the people inside grew very unhappy.
+Human happiness needs the freedom to choose our tools. People free to pick their own tools will make mistakes, buy too much, or get sucked into the wrong trend. But with freedom, we can correct our errors. I can prove it to you. Let's look at another economy that told workers and consumers what products to buy and use. Without surprise, the people inside grew very unhappy.
 
 —
 

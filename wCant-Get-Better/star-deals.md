@@ -1,11 +1,11 @@
 # Why Things Can’t Get Better
 ## #6 - You're Savings Account Can't Get Better
 
-For many people times are tough, money is getting short, and they could use some help paying the bills. People could always use more money, but today is more different than any time since the 1970s. Paychecks have never kept up with the rising cost of living, but ordinary people could use their credit card, line of credit, or home equity to make up the difference when needed.
+For many people times are tough, money is getting short, and they could use some help paying the bills. Regular folk could always use more money, but today is more different than any time since the 1970s. Paychecks have never kept up with the rising cost of living, but ordinary people could use their credit card, line of credit, or home equity to make up the difference when needed.
 
-This blog is an ongoing series why things can’t get better. In this article I explain one reason why your savings account won’t get better. Paying the bills will only get harder for the foreseable future.
+This blog is an ongoing series why things can’t get better. In this article I explain one reason why your savings account won’t get larger and why paying the bills will only get harder for the foreseable future.
 
-To realize this for yourself you must realize the difference between investments and purchases and that as conusmers we've been buying a lot of stuff that gives no returns. I'll prove it by talking about _Star Wars_.
+To realize this for yourself you must realize the difference between investments and purchases and that as consumers we've been buying, loving, and giving away our loyalty to a lot of stuff that gives no returns. I'll show you what I mean by talking about _Star Wars_.
 
 ---
 
