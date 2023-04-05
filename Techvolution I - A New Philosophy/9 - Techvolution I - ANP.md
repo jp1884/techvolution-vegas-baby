@@ -4,13 +4,13 @@
 ---
 title: A New Philosophy - Act One
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false
 prev:
-  text: 'Home'
-  link: '/'
+  text: 'New'
+  link: '/a-new-philosophy/new'
 next:
   text: 'Preface'
   link: '/a-new-philosophy/preface'
@@ -33,7 +33,7 @@ COVID-19 will only make middle-class problems worse, making traditional Left/Rig
 
 What can ordinary people do?
 
-In _Techvolution_, we'll see how everyone on Main Street today has a big choice to make. To improve our lives we can either pick a side in the increasingly nasty Left/Right war. Or, we can start funding, buying, and using new products, apps, and electronics that we custom-design to solve our everyday problems. But before the middle-class can choose the better option and reach for the incredible power of modern technology, we need to redefine what's good and bad in our politics.
+In this book _Techvolution_, we'll see how everyone on Main Street today has a big choice to make. To improve our lives we can either pick a side in the increasingly nasty Left/Right war. Or, we can start funding, buying, and using new products, apps, and electronics that we custom-design to solve our everyday problems. But before the middle-class can choose the better option and reach for the incredible power of modern technology, we need to redefine what's good and bad in our politics.
 
 To do that, we must adopt a new political philosophy for people in the moderate middle.
 
@@ -69,7 +69,7 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the Reader
 
-This book uses lots of videos and story references. Keep in mind, you'll have to press play on the videos and turn the sound on/off for the GIFs. And of course, in all cases, all due credit goes to the media's creators.
+This book uses lots of videos. I use them to make it clear how real and widespread middle-class problems are. It saves lots of reading to use a video sometimes. Keep in mind, you'll have to press play on the videos and turn the sound on/off for the GIFs. And of course, in all cases, all due credit goes to the media's creators.
 
 ## Inner Flap
 
@@ -93,7 +93,7 @@ And this simple observation is the lesson Main Street must learn today.
 
 Otherwise this pandemic was for nothing.
 
-<img src="https://techvolution.io/content/images/2020/04/levers-of-power.jpg" alt="Levers of Power" class="center-img" width="950" height="">
+<img src="/assets/img-anp/levers-of-power.jpg" alt="Levers of Power" class="center-img" width="950" height="">
 <figcaption>Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, Unsplash.</figcaption>
 
 ---
@@ -108,13 +108,13 @@ But it's all bullshit.
 
 Despite Left/Right yelling matches, neither ideology is your hero. The pundits, columnists, and reporters on newspapers, broadcast television, cable news only care to send you one-way messages to tune-in, protest-or most likely-buy something and donate.
 
-These extremists trick you. They say their ideological purity will solve your real-life problems by holding government accountable to their approved ideology. They say only if government writes their ideologically approved laws, will your real-life problems ever be solved. But, both sides only out to solve their problem; they're employed by aging broadcast and newspaper industries that's funded with expensive commercials. The Left versus Right battle driving Americans to hate each other, is just a circus to attract eyeballs to justify a dying business models.
+These extremists trick you. They say their ideological purity will solve your real-life problems by holding government accountable to their approved ideology. They say only if government writes their ideologically approved laws, will your real-life problems ever be solved. But, both sides only out to solve their problem; they're employed by aging broadcast and newspaper industries that's funded with expensive commercials and watched by a consumer obsessed society. The Left versus Right battle driving Americans to hate each other, is just a circus to attract eyeballs to a dying business model.
 
 Galileo, George Washington, and Luke Skywalker reached for the power of new technology. So why shouldn't you? Even more important, why shouldn't the middle-class? Isn't our healthcare, infrastructure, and especially our pandemic preparation, worthy of upgrades?
 
 Of course they are. And, that's the point. The feud between Left and Right ideologues is a distraction.
 
-Like a dinosaurs in an Ice Age, old businesses like broadcast televsion, radio, and college education want to stay alive despite evolution passing them by. These old technologies are from the Industrial Age, and thus want to keep current ideological narratives rooted in Industrial Age politics.
+Like a dinosaurs in an Ice Age, old businesses such as broadcast televsion, radio, and college education want to stay alive despite evolution passing them by. These old technologies are from the Industrial Age, and thus want to keep current ideological narratives rooted in Industrial Age politics.
 
 If this seems simplistic, and if you think your favored ideologues are altruistic, what do you expect people in good paying jobs to do when they're bested by a new technology? Never forget no ideologue, pundit, or movie star invented, promoted, or popularized the internet, podcasts, online streaming, and ebooks. These new technologies threatened their cash cow of radio, DVDs, and bookstores.
 
@@ -163,7 +163,7 @@ I graduated from university in political science, history, and geography. But I 
 ---
 title: A New Philosophy - Preface
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false
@@ -231,7 +231,7 @@ There have been [hundreds of pandemics](https://en.wikipedia.org/wiki/List_of_ep
 Both partisan "sides" are the faces of the exact same coin. When President Obama tried a much needed overhaul of the US healthcare system, was any pundit or strategist talking about pandemic plans? We have fire drills throughout our society; why don't we have pandemic plans?
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PolishedSaneBooby' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/PolishedSaneBooby' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>City fires plagued humanity for thousands of years. Until we, with our government, reached for the power of new technology to overcome and prevent these horror shows. Credit: Wikimedia Commons, Library of Congress, and Unsplash. <a href="https://gfycat.com/PolishedSaneBooby">Reader Mode.</a></figcaption>
 
 Here's why. Instead of governing our society, our political system is hogtied by extremist Left/Right reporters, commentators, and pundits hell bent on keeping their old technology and businesses relevant by using the embers of Left/Right ideology for entertainment, spectacle, and distraction.
@@ -266,7 +266,7 @@ Hopefully this chapter created a little wedge in your mind. Left and Right were 
 
 Instead of talking about old philosophies, I want to upgrade our civilization so regular people start living happy lives again soon. This new philosophy called Techvolution helps the middle-class not with entertainment and false promises, but with modern custom-made tools that solve our everyday problems to make middle-class life more affordable.
 
-<img src="https://techvolution.io/content/images/2020/04/levers-of-power.jpg" alt="Levers of Power" class="center-img" width="950" height="">
+<img src="/assets/img-anp/levers-of-power.jpg" alt="Levers of Power" class="center-img" width="950" height="">
 <figcaption>The blank page. The starting point of creating something totally new. It's a scary place, and a place that every Left/Right ideologues runs away from in the Internet Age. Credit: Unsplash.</figcaption>
 
 ## Our Levers of Power
@@ -305,7 +305,7 @@ What the heck is wrong with your laptop and the internet at home? Wasn't there a
 
 Responding to this pandemic should have been a small modification of dealing with a severe rainstorm or blizzard. But it wasn't. I wonder what we were all doing before March 2020.
 
-<img src="https://techvolution.io/content/images/2020/04/the-office-nbc-meeting.jpg" alt="Girl in a jacket" class="center-img" width="600" height="">
+<img src="/assets/img-anp/the-office-nbc-meeting.jpg" alt="Girl in a jacket" class="center-img" width="600" height="">
 <figcaption>Credit: <a href="https://en.wikipedia.org/wiki/The_Office_(American_TV_series)">The Office.</a></figcaption>
 
 ## People in High Places
@@ -327,8 +327,8 @@ We gave the levers of power in our schools, hospitals, companies, and bureaucrac
 Should we really have expected better?
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/PracticalShockingDorado' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
-<figcaption>A modern classic. Credit: <a href="https://en.wikipedia.org/wiki/Office_Space">Office Space.</a> <a href="https://gfycat.com/PracticalShockingDorado">Reader Mode.</a></figcaption>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/PracticalShockingDorado' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<figcaption>A modern classic where an office worker cites his frusrations among them being having eight different bosses. Credit: <a href="https://en.wikipedia.org/wiki/Office_Space">Office Space.</a> <a href="https://gfycat.com/PracticalShockingDorado">Reader Mode.</a></figcaption>
 
 ## Your Unhappiness Means We Have an Unhealthy Society
 
@@ -357,7 +357,7 @@ And, we're feeling the consequences of our technological stagnation right now. B
 Since entering the Internet Age in 1970, debt levels skyrocketed because our society is being forced to use Industrial Age tools. Governments try to solve the mix-match by printing money. Workers aren't allowed to be productive enough to pay for ourselves. The result is more evermore debt. And we're justifiably frightened, wondering what's going to happen next in the economy, international relations, and in general, what the future holds for a species that resists life's demand to evolve.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SaltyInformalIcelandicsheepdog' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/SaltyInformalIcelandicsheepdog' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Keeping the Industrial Age work culture alive means our jobs get more bullshit every year. Credit: <a href="https://www.youtube.com/watch?v=_Lngf3J8vN4">Wisecrack.</a> <a href="https://gfycat.com/SaltyInformalIcelandicsheepdog">Reader Mode.</a></figcaption>
 
 ## Our Aged Health Care System
@@ -374,7 +374,7 @@ Notice I said paperwork, because actual paper forms, regulations, and fax machin
 
 And if you think the recent use of Health Apps is a Internet Age upgrade, you don't know the power of modern levers of power. If we did use modern digital tools to their full potential, you'd see it. It would put many micro-managing middlemen out of a job.
 
-<img src="https://techvolution.io/content/images/2020/04/healthcare-bureaucrats.png" alt="Memos" class="center-img" width="600" height="">
+<img src="/assets/img-anp/healthcare-bureaucrats.png" alt="Memos" class="center-img" width="600" height="">
 <figcaption>"Hello, Peter," memos, and eight different bosses multiplied by 3500%, and trending up no matter which political party we elected into power. Credit: <a href="http://www.pnhp.org/publications/NEJM5_2_91.htm">PNHP.</a></figcaption>
 
 Is it a surprise the Internet Age started in 1970? As computers got better, it made typing and printing increasingly easy. A small group of administrators turned into almost countless regulators, managers, executives, and lawyers who used computers to keep making more memos, rules, and regulations.
@@ -463,15 +463,15 @@ We can save ourselves from all this grief and enter the amazing Internet Age now
 All we have to do is change what you think is politics.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GoodDimpledBarbet' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
-<figcaption>Communism, Capitalism, Left/Right, are all Industrial Age philosophies. They succeeded in developing a industrial society. They failed, or are failing, because they can't evolve an Internet Age culture. To get back on track, we need to evolve a new Internet Age politics. Credit: <a href="https://www.youtube.com/watch?v=_Lngf3J8vN4">Wisecrack.</a> <a href="https://gfycat.com/GoodDimpledBarbet">Reader Mode.</a></figcaption>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/GoodDimpledBarbet' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<figcaption>Communism, Capitalism, Left/Right, are all Industrial Age philosophies. They succeeded in developing a industrial society. They failed, or are failing, because we using them inside the Internet Age. To get back on track, we need to evolve a new Internet Age politics. Credit: <a href="https://www.youtube.com/watch?v=_Lngf3J8vN4">Wisecrack.</a> <a href="https://gfycat.com/GoodDimpledBarbet">Reader Mode.</a></figcaption>
 
 # Techvolution: A New Philosophy - Introduction
 
 ---
 title: A New Philosophy - Introduction
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false
@@ -550,7 +550,7 @@ You'll be the "player god" of human civilization. Being a "god" who runs everyth
 Pressing that most important upgrade button magically transforms every factory, hospital, house, and citizen, to the technology of the modern age. Look below, and you'll see a person being the player god in the game _Anno 1800_.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GrandioseTinyApisdorsatalaboriosa' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/GrandioseTinyApisdorsatalaboriosa' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Credit: <a href="https://www.youtube.com/watch?v=EchYL334T7Q">Anno 1800.</a> <a href="https://gfycat.com/ifr/GrandioseTinyApisdorsatalaboriosa">Reader Mode.</a></figcaption>
 
 The above is a computer game, of course, but it represents reality pretty darn well. We're all in there somewhere right now, trying to figure out how to earn a living while the game plays around us.
@@ -559,7 +559,7 @@ That's why this book's cover page is a regular person standing on Main Street—
 
 Will the player god pick the good or bad guys? Will he act to benefit society or himself?
 
-![Stargazer Illustration](https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg)
+![Stargazer Illustration](/assets/img-anp/playergod-stargazer.jpg)
 
 In a computer game, all of civilization is the player's responsibility. That's why the player controls all the levers of power as they decide what to build, which culture to adopt, and what philosophy to use.
 
@@ -586,7 +586,7 @@ Contemporary Americans, Canadians, Brits, Aussies, Kiwis, Japanese, Koreans can 
 And, to do that, we need to follow the Internet Age protagonists and click a new philosophy. Only then will we able to look up and see ourselves as the player gods of our civilization again.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SleepyAridHorseshoecrab' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/SleepyAridHorseshoecrab' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>This video displays how the game of politics is played. Only player gods get to pick the policies. Credit: <a href="https://www.youtube.com/watch?v=yKUFvo3_FYQ">Civilization 6.</a> <a href="https://gfycat.com/ifr/SleepyAridHorseshoecrab">Reader Mode.</a></figcaption>
 
 ## Good Politics Is a Moving Target Because You're the One Who's Moving
@@ -598,7 +598,7 @@ It's easy to see technology change. Installing a sewer, damming a river, buildin
 When you play a computer game, you'll see every ruling philosophy is temporary. You'll understand this because you'll experience first-hand that each civilization lasts many generations. Every person in the game, and therefore in real life, is always working to bring on the next era. Thus, just as a sailboat is a stepping stone to a steamship, every person's philosophical beliefs are a stepping stone to something better.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MindlessMarriedGharial' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/MindlessMarriedGharial' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption><a href="https://www.youtube.com/watch?v=3NLoDMsqJkE">Civilization 6.</a> <a href="https://gfycat.com/ifr/MindlessMarriedGharial">Reader Mode.</a></figcaption>
 
 The video above shows a "tech tree" of new technologies, tools, civic, and philosophy upgrades. In the real world, just like improving our technology, we also upgrade our philosophy with a "click." Except this improvement happens when a new philosophy clicks in the minds of multiple people and unites them in a relationship so strong that it forms a new player god.
@@ -677,7 +677,7 @@ Sadly, in history, upgrading our politics only happens when old doctrines kill e
 
 When Main Street demanded a better life, the "divine right to rule" ruling philosophy only gave them two options to choose from; Catholicism and Protestantism. Regular people picked a team and slaughtered "the other side" on behalf of "divine kings". Historian Peter H. Wilson summarized The Thirty Years War as "a warning of the dangers of entrusting power to those who feel summoned by God to war, or feel that their sense of justice and order is the only one valid."
 
-<img src="https://techvolution.io/content/images/2020/04/The_Hanging_by_Jacques_Callot.jpg" alt="The Hanging" class="center-img" width="" height="">
+<img src="/assets/img-anp/The_Hanging_by_Jacques_Callot.jpg" alt="The Hanging" class="center-img" width="" height="">
 <figcaption>The Hanging by Jacques Callot. Created between 1632 and 1633 to show how regular people were treated by both "sides" during the war. Credit:<a href="https://en.wikipedia.org/wiki/Les_Grandes_Mis%C3%A8res_de_la_guerre">Wikipedia</a></figcaption>
 
 The Thirty Years War was extremely brutal. One in five Europeans died from its pillaging, battles, and massacres. The carnage only stopped when both sides were exhausted. The worst part was when the horror ended, the people realized they were no better off, and their problem was, in fact, being ruled by any and all kings. That's why philosophers soon wrote an upgraded philosophy of Democracy. It wasn't long until it clicked between ordinary people, who therefore adopted modernized Democracy as their new ruling philosophy. As player gods, the people fought against divine kings in the American Revolution (1776), the French Revolution (1789), and many more uprisings afterward.
@@ -742,7 +742,7 @@ Saying that, Techvolution has several parts:
 
 **How to See the Matrix**: To write Techvolution, I used Aristotle's _Poetics_ to better understand Hegelian dialectics. Then I added some evolutionary biology because I think it and political philosophy are similar, if not the same, fields. Which basically means I used storytelling to decypher technological (and perhaps biological) evolution. If that bores you to pieces, that's cool, you don't need to read more about it. But just so you know, Techvolution is based on a full-blown philosophy that I explain in another book called _How to See the Matrix_.
 
-<img src="https://techvolution.io/content/images/2020/04/Washington-future-James-Clyne-2.jpg" alt="James Clyne" class="center-img" width="950" height="">
+<img src="/assets/img-anp/Washington-future-James-Clyne-2.jpg" alt="James Clyne" class="center-img" width="950" height="">
 <figcaption>TThe land of perpetual profit. We're never going to get there with Left/Right politics. Credit: <a href="https://www.jamesclyne.com">James Clyne</a></figcaption>
 
 ---
@@ -756,7 +756,7 @@ In line with that goal, our new philosophy must target today's most significant 
 Antagonism is created when the "eight different bosses" of the Industrial Age choose to guard the gates of old technology. These antagonists reject the opportunity to build the Internet Age. Instead, they suppress new technology, to keep Industrial Age products, like TPS reports and broadcast TV, as society's levers of power.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RapidUnrealisticBedlingtonterrier' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/RapidUnrealisticBedlingtonterrier' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>We need to face-down more Industrial Age power-brokers. Even the ones with black belts. Credit: <a href="https://www.youtube.com/watch?v=b_yboxM33gg">JRE.</a> <a href="https://gfycat.com/ifr/RapidUnrealisticBedlingtonterrier">Reader Mode.</a></figcaption>
 
 The changing of the guard, from the Industrial Age to the Internet Age, is basically what this book is about. To liberate more people from the gatekeepers, we need a new philosophy that eliminates antagonism.
@@ -776,7 +776,7 @@ And to do that, Main Street must evolve more than just new politics.
 ---
 title: A New Philosophy - Prologue
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false
@@ -846,12 +846,12 @@ However, steam-powered production machines still needed a lot of manpower to wor
 As industrialization out-produced hand-made products, millions of farmers, craftsmen, and other specialists left their professions in old-style medieval towns and found manufacturing jobs.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ObedientNiftyBlackbear' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/ObedientNiftyBlackbear' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption><a href="https://gfycat.com/obedientniftyblackbear">Reader Mode.</a></figcaption>
 
 Decade after decade, more people left farms and their specialist jobs and operated huge machines on the production line.
 
-Coordinating all this equipment and workers required a lot of oversight, and hence a lot of managers. There was no other way to be sure workers were organized to the strict rhythm of the production line. Ordinary people were thus politically free to own property and buy newer and better products.  Ironically they had to sacrifice self-reliance and being a specialist on medieval Main Street.
+Coordinating all this equipment and workers required a lot of oversight, and hence a lot of managers. There was no other way to be sure workers were organized to the strict rhythm of the production line. Ordinary people were thus politically free to own property and buy newer and better products.  Ironically regular people had to sacrifice the self-employment many had in medieval Main Street economy.
 
 The mass-production of the Industrial Age is when one-sided jobs with rigid oversight became embedded in our work culture. In early assembly lines, supervisors even inspected toilets to be sure workers weren't lying.
 
@@ -879,9 +879,10 @@ We have many problems today. But too little food, too cold houses, too slow tran
 
 All because of some people (guess who) like the economy of the past.
 
-<div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FabulousSecondhandBurro' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
-<figcaption>The frontline in the 1700-1800s, and today. A different set of problems requires a different economic policy. Credit: Men of Honor, Gangs of New York, Cold Mountain, Far and Away, Dances with Wolves, The Office, Office Space, Wisecrack. <a href="https://gfycat.com/FabulousSecondhandBurro">Reader Mode.</a></figcaption>
+<!-- commenting out video -->
+<!-- <div class="center">
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/FabulousSecondhandBurro' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<figcaption>The frontline in the 1700-1800s, and today. A different set of problems requires a different economic policy. Credit: Men of Honor, Gangs of New York, Cold Mountain, Far and Away, Dances with Wolves, The Office, Office Space, Wisecrack. <a href="https://gfycat.com/FabulousSecondhandBurro">Reader Mode.</a></figcaption> -->
 
 ## Holdovers
 
@@ -902,7 +903,7 @@ Because since a manager's skill set is often to maneuver for higher "positions" 
 Even if it drives our economy to shit, and makes our jobs suck.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FavorableDamagedFirefly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/FavorableDamagedFirefly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>"Suffering" based employment will go away in the era of mass-collaboration. Credit: <a href="https://www.youtube.com/watch?v=_Lngf3J8vN4">Wisecrack.</a> <a href="https://gfycat.com/ifr/FavorableDamagedFirefly">Reader Mode.</a></figcaption>
 
 ## Upgrade
@@ -951,9 +952,10 @@ You can already see this new economy already forming. Several generations into t
 
 Mass-collaboration is today's big picture, the basic principle of the Internet Age's economics. The people who understand this best are the open-source community.
 
-<div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/EnragedEverlastingDunnart' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
-<figcaption>We hate doing the BS jobs antagonist make us do to justify the work culture of mass-production. To smile more, we need to become player gods inside digital mass-collaboration. The open-source community is already building it for us. Credit: <a href="https://www.youtube.com/watch?v=_Lngf3J8vN4">Wisecrack. </a><a href="https://gfycat.com/ifr/EnragedEverlastingDunnart">Reader Mode.</a></figcaption>
+<!-- commenting out video -->
+<!-- <div class="center">
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/EnragedEverlastingDunnart' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<figcaption>We hate doing the BS jobs antagonist make us do to justify the work culture of mass-production. To smile more, we need to become player gods inside digital mass-collaboration. The open-source community is already building it for us. Credit: <a href="https://www.youtube.com/watch?v=_Lngf3J8vN4">Wisecrack. </a><a href="https://gfycat.com/ifr/EnragedEverlastingDunnart">Reader Mode.</a></figcaption> -->
 
 ## The Open-Source Community
 
@@ -978,7 +980,7 @@ The tech community calls this disruption. While disruption has thankfully torn d
 Only a new breed of open-source apps custom-designed to solve real-life problems, and a society of player gods paying for them, will turn the fantastic world of science fiction into Main Street's new reality.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RespectfulFlickeringAfricanbushviper' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/RespectfulFlickeringAfricanbushviper' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Here's a glimpse into the open-source community. Compare this culture to the one giving people depression. Credit: <a href="https://www.youtube.com/watch?v=ifq3xhik8tE">Honeypot.</a> <a href="https://gfycat.com/ifr/RespectfulFlickeringAfricanbushviper">Reader Mode.</a></figcaption>
 
 ## The Era of Digital Mass Collaboration
@@ -999,7 +1001,7 @@ The community then uses the core technology to create their own specialized prod
 
 For example, a large open-source community creates MediaWiki software. Then different groups use MediaWiki to create Wikipedia, WikiHow, Fandom, and any other website you can think of. After all, MediaWiki is free for anyone to use; gatekeepers be damned! Not just for programmers, mass-collaboration is how writers, researchers, and editors wrote millions of Wikipedia articles in only a few years.
 
-<img src="https://techvolution.io/content/images/2020/04/open-source-projects.jpg" alt="Open-Source Projectst" class="center-img" width="750" height="">
+<img src="/assets/img-anp/open-source-projects.jpg" alt="Open-Source Projectst" class="center-img" width="750" height="">
 <figcaption>Credit: Google, Wikipedia, Microsoft, Linux, Mozilla, Apple.</figcaption>
 
 Some of the more famous open-source projects. If you can't program, it only takes hiring a few to get whatever product you can imagine.
@@ -1037,7 +1039,7 @@ Our ancestors became player gods and supported the protagonists of the Industria
 Now it's our turn to support open-source and become player gods of the Internet Age.
 
 <div class="center">
-<iframe src="https://player.vimeo.com/video/366560857" width="600" height="338" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><a href="https://vimeo.com/366560857"></a></div><figcaption>Credit: Figma. <a href="https://player.vimeo.com/video/366560857">Reader Mode.</a></figcaption>
+<iframe src="https://player.vimeo.com/video/366560857" width="600" height="338" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><a href="https://vimeo.com/366560857"></a></div><figcaption>The broken design process is also describing the problem with most office jobs today. Mass-collaboration needs a "single-source of truth" inside the cloud that everyone contributes to without needing to exchange files and emails. Credit: Figma. <a href="https://player.vimeo.com/video/366560857">Reader Mode.</a></figcaption>
 
 ## A Few Dollars to Buy the Internet Age
 
@@ -1067,9 +1069,10 @@ Here's a small example of the incredible benefits to expect.
 
 All for a few bucks.
 
-<div class="center">
+<!-- commending out video -->
+<!-- <div class="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ggrkTLEfFXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<figcaption>This is Louis Rossmann. He owns an electronics repair business. He's also a YouTuber who teaches people how to repair electronics. When Louis needed a new store location, he went to a big company but got better help online from a stranger. All because both customer and worker controlled their own software. Credit: <a href="https://www.youtube.com/user/rossmanngroup/featured">Rossman Group.</a> <a href="https://youtu.be/ggrkTLEfFXA">Reader Mode.</a></figcaption>
+<figcaption>This is Louis Rossmann. He owns an electronics repair business. He's also a YouTuber who teaches people how to repair electronics. When Louis needed a new store location, he went to a big company but got better help online from a stranger. All because both customer and worker controlled their own software. Credit: <a href="https://www.youtube.com/user/rossmanngroup/featured">Rossman Group.</a> <a href="https://youtu.be/ggrkTLEfFXA">Reader Mode.</a></figcaption> -->
 
 ## Economic Levers of Power
 
@@ -1119,7 +1122,7 @@ Yes, it's perfectly okay for you to do that.
 
 It fact, it's your job as a player god.
 
-<img src="https://techvolution.io/content/images/2020/04/GWRegStudies-PagesPublishedintheCFR-6.12.19.png" alt="Federal Regulations" class="center-img" width="600" height="">
+<img src="/assets/img-anp/GWRegStudies-PagesPublishedintheCFR-6.12.19.png" alt="Federal Regulations" class="center-img" width="600" height="">
 <figcaption>Federal government regulations. Another example of all the "Death Star" rules our Industrial Age establishment makes to keep the Internet Age away. Credit: <a href="https://regulatorystudies.columbian.gwu.edu/reg-stats">George Washington University.</a></figcaption>
 
 ## Setting Up Our Story
@@ -1158,7 +1161,7 @@ For the time has come when ordinary people will shape the fortunes of all, in th
 
 That's the a play on prologue from the movie _Lord of the Rings_. It might as well be called Lord of the Levers of Power. But like in every story, whoever controls society's most powerful tools, wins.
 
-<img src="https://techvolution.io/content/images/2020/04/main-street3.jpg" alt="Main Street" class="center-img" width="" height="">
+<img src="/assets/img-anp/main-street3.jpg" alt="Main Street" class="center-img" width="" height="">
 <figcaption>Lots of player gods have come before us. They did their job. Most recently, in the era of mass-production. Now it's our time to step up and evolve our civilization. Credit: Library of Congress.</figcaption>
 
 ## Cast of Ideas and Characters
@@ -1206,7 +1209,7 @@ Before we become player gods, here are a few terms that will put us all on the s
 **Plot**: Getting extras to step up, grab hold of open-sources new levers of power, and become player gods who replace their ruling philosophy with Techvolution and thereby establish the era of mass-collaboration inside the Internet Age.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/HatefulVibrantGemsbuck' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/HatefulVibrantGemsbuck' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Our civilizations always have serious problems. It's up to regular people to use new tools to solve them. Today, it's our turn. Let's get started. <a href="https://gfycat.com/ifr/HatefulVibrantGemsbuck">Reader Mode.</a></figcaption>
 
 # Techvolution: A New Philosophy - Act One
@@ -1214,7 +1217,7 @@ Before we become player gods, here are a few terms that will put us all on the s
 ---
 title: A New Philosophy - Act One
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false
@@ -1261,7 +1264,7 @@ Because despite already having the digital technology to improve our lives, anta
 
 To improve our days then, the people need Techvolution. A new ruling philosophy that says improving our society is the only rule that matters.
 
-<img src="https://techvolution.io/content/images/2020/04/suburbs-idealized.jpg" alt="Suburbs" class="center-img" width="" height="">
+<img src="/assets/img-anp/suburbs-idealized.jpg" alt="Suburbs" class="center-img" width="" height="">
 <figcaption>This is our idealized suburb of 1969. Today it's filled with Industrial Age holdovers: newspaper pundits, infotainment broadcasters, oil for transportation, gas cars, k-university schooling, confusing mortgages, and others, are today's antagonists.</figcaption>
 
 ## Reaching for New Tools Upgrades Our Civilization
@@ -1280,7 +1283,7 @@ This lesson was worth repeating. It's the biggest thing Main Street must learn t
 
 Because only when we fund our own open-source powered content, apps, and electronics do we stop watching our civilization and start playing it. Only when we hold the levers of power will we be player gods of the Internet Age.
 
-<img src="https://techvolution.io/content/images/2020/04/levers-of-power.jpg" alt="Levers of Power" class="center-img" width="" height="">
+<img src="/assets/img-anp/levers-of-power.jpg" alt="Levers of Power" class="center-img" width="" height="">
 <figcaption>Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, Unsplash.</figcaption>
 
 ## Techvolution is Better
@@ -1322,7 +1325,7 @@ Think about how cool it is to safely land a frickin rocket.
 But many people, especially Left/Right ideologues, still didn't care.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GaseousAgreeableEarthworm' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/GaseousAgreeableEarthworm' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>There's a direct link between advancing our science and technology and living inside a happy civilization. This was when SpaceX landed its first rocket. The company's unofficial motto is "Occupy Mars". Credit: <a href="https://youtu.be/3NLoDMsqJkE">Civilization 6</a> and <a href="https://www.youtube.com/watch?v=ANv5UfZsvZQ">Space X</a>. <a href="https://gfycat.com/ifr/GaseousAgreeableEarthworm">Reader Mode.</a></figcaption>
 
 Notice how happy those people were. All workers will experience that joy, once we stop micro-managing and start setting ourselves goals for everyone to reach.
@@ -1335,7 +1338,7 @@ Today, the old Industrial Age philosophies hold back the incredible, world-chang
 
 The lesson is, once we believe in a new philosophy that embraces the Internet Age, we'll control our society's real levers of power, and soar to the stars.
 
-<img src="https://techvolution.io/content/images/2020/04/missing-the-boat.png" alt="Missing the Boat" class="center-img" width="800" height="">
+<img src="/assets/img-anp/missing-the-boat.png" alt="Missing the Boat" class="center-img" width="800" height="">
 <figcaption>Twitter on the day Space landed it's first and second rockets. Left/Right politicians were too busy raging about Industrial Age battles (in this case with "the banks") to notice.</figcaption>
 
 ## Techvolution is as Natural as Evolution
@@ -1378,7 +1381,7 @@ Paying for an Uber is how easy it is to become a player god.
 
 With all this in mind, it's time to meet the hero of Techvolution. The one who'll defeat Darth Blockbuster, and bring on the era of mass-collaboration.
 
-<img src="https://techvolution.io/content/images/2020/04/uber-ride-collaboration.jpg" alt="Uber Collaboration" class="center-img" width="" height="">
+<img src="/assets/img-anp/uber-ride-collaboration.jpg" alt="Uber Collaboration" class="center-img" width="" height="">
 <figcaption>An Uber ride is collaboration. Credit: <a href="https://unsplash.com/photos/rjd4Whp341I">David Preston</a> and <a href="https://unsplash.com/photos/kARZuSYMfrA">Dan Gold.</a></figcaption>
 
 ## Nice to Meet You, Stargazer
@@ -1405,7 +1408,7 @@ That's why you, Stargazer, are the hero of Techvolution. That's the way it shoul
 
 So, the time is now, Stargazer, to leave the farm and join the rebellion.
 
-<img src="https://techvolution.io/content/images/2020/04/protests.jpg" alt="Protests" class="center-img" width="900" height="">
+<img src="/assets/img-anp/protests.jpg" alt="Protests" class="center-img" width="900" height="">
 <figcaption>Not the rebellion. Credit: <a href="https://unsplash.com/@philhearing">Phil Hearing.</a></figcaption>
 
 ## Techvolution Builds on the Past
@@ -1441,7 +1444,7 @@ It's time to blow up a Death Star.
 ---
 title: A New Philosophy - Act Two
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false
@@ -1522,7 +1525,7 @@ Yet what do ordinary people do when antagonists say improving society is wrong?
 
 **Majic**: The natural inclination of a person to learn, use, and hold new tools to increase their natural abilities. Majic inspires people to become player gods who solve frontline problems and thereby help humanity win the game of civilization. A majician teaches other people new tools.
 
-<img src="https://techvolution.io/content/images/2020/04/darwins-finches.jpg" alt="Charles Darwin's famous finches" class="center-img" width="900" height="">
+<img src="/assets/img-anp/darwins-finches.jpg" alt="Charles Darwin's famous finches" class="center-img" width="900" height="">
 <figcaption><a href="https://en.wikipedia.org/wiki/Darwin%27s_finches">Charles Darwin's famous finches.</a> Each bird is adapted to eat one type of food like bugs, seeds, or nuts. After years of study, Darwin explained the differences in biology using his theory of evolution (1859). Humanity mimics evolution by inventing and using new tools in our cyborgology. It's majic that keeps us creating, learning, and evolving new tools. And it's Techvolution that gives us the freedom to decide which cyborgology works best for us.</figcaption>
 
 ## Using Majic to Filter the Rules
@@ -1624,7 +1627,7 @@ Sophia taught Douglass to read. She wasn't told to. She did it because we all lo
 When a magician makes a playing card disappear, we smile in awe and childish wonder. That's cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with typing, drawing, or reading, they've similarly performed something awesome. They've upgraded someone's cyborgology, helped them solve problems better, and effectively created a new and improved person. This makes us smile for a long time.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ImmaterialDazzlingCopperbutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/ImmaterialDazzlingCopperbutterfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>The majic of evolution. You can see it in the eyes. Credit: <a href="https://en.wikipedia.org/wiki/Cast_Away">Cast Away.</a> <a href="https://gfycat.com/ifr/ImmaterialDazzlingCopperbutterfly">Reader Mode.</a></figcaption>
 
 In short, majic is Nature's long-lasting dopamine fix to motivate us to keep playing the game of civilization.
@@ -1650,7 +1653,7 @@ Safety is fleeting Stargazer. Electricity, the microchip, the iPhone were all ma
 This is why we need Techvolution. A modern philosophy that says growing majic by creating new levers of power for the middle-class is good. And antagonizing the majic of our evolution is wrong.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/BrokenElderlyFallowdeer' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/BrokenElderlyFallowdeer' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>This is modern majic, and we all need more of it everyday. <a href="https://gfycat.com/ifr/BrokenElderlyFallowdeer">Reader Mode.</a></figcaption>
 
 ## Seeing the Good and Bad
@@ -1696,7 +1699,7 @@ To destroy the Death Star Stargazer, we have to first remove the dark majic mask
 **Dark majic**: Methods and techniques used to keep a person using an old tool. Dark majic gives regular people a false sense of joy and accomplishment, so they don't upgrade their cyborgology and become player gods. A dark majician tricks people into being extras.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/HarmlessBlueFanworms' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/HarmlessBlueFanworms' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>If overbuying muscle cars while letting the roads they drive on rot isn't proof we're losing the game of civilization, I don't know what is. Credit: <a href="https://www.youtube.com/watch?v=j6v5byyCyW4">Civilization 6</a> and <a href="https://www.youtube.com/watch?v=EdvJSGc14xA">VICE News.</a>  <a href="https://gfycat.com/ifr/HarmlessBlueFanworms">Reader Mode.</a></figcaption>
 
 ## Dark Majic
@@ -1782,7 +1785,7 @@ Fundamentally speaking, movie theatres and home theatres are both technological 
 Just like the bureaucracy of the medical and insurance system, the movie industry businessmen used Internet Age technology to its benefit, instead of the customers.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FineFaithfulDikkops' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/FineFaithfulDikkops' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Blockbuster producers tried putting motors on people's seats, while home streaming relied on good writing. Which is better? Credit: <a href="https://www.youtube.com/watch?v=78juOpTM3tE">Horrorcirdan</a> and <a href="https://www.youtube.com/watch?v=Apc8OU98r54">D-Box Technologies Inc.</a><a href="https://gfycat.com/ifr/FineFaithfulDikkops"> Reader Mode.</a></figcaption>
 
 But historical sweet spots never last. True to the game of civilization, technology kept getting better. Soon enough, hi-speed internet (2004) came to Main Street. Now the public didn't have to drive to a theatre or Blockbuster store. Regular people could finally share in the benefits of the Internet Age; on-demand internet streaming was possible.
@@ -1843,7 +1846,7 @@ Yet here was the battle I wandered into. The Industrial Age was taking its stand
 ---
 title: A New Philosophy - Intermission
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false
@@ -1882,7 +1885,7 @@ Like many people, especially office workers, I love the idea of remote work. I t
 
 Pointing out that most people don't work on production lines anymore didn't matter. Neither did facts, figures, and [books](https://basecamp.com/books/remote) to explain why driving through gridlock helps no one. I was always told telecommuting doesn't work because "managers don't like it."
 
-Now with the coronavirus, within a few weeks, every university, workplace, and bureaucracy is scrambling to distribute their workers with home offices. Although it's sad it took a pandemic to open up our minds, it's nice to see how easily our civilization can adapt when we decide to. (Although I wonder about the battle to come when managers try to return work cultures back to "normal").
+Now with the coronavirus, within a few weeks, managers inside universities, workplaces, and bureaucracies are scrambling to distribute their workers with home offices. This scramble is mainly to make customers and workers not notice managers are often not needed. Although it's sad it took a pandemic to make it happen, it's nice to see how easily our civilization can adapt when neccesity forces us to. (Although I wonder about the battle to come when managers try to return work cultures back to "normal").
 
 This doesn't mean any, and all work can be done from home. But, it does mean many of us stuck in traffic for decades didn't need to be.
 
@@ -1892,11 +1895,11 @@ Because we let them control the rulebook.
 
 ## The Rulebook
 
-The rulebook is what governs everyday life. Since entering the Internet Age, our rulebook has kept growing. Government regulations have shot up, political correctness is spreading, workers often study for years to get absurd certifications.
+The rulebook is what governs everyday life. Since entering the Internet Age, our rulebook has kept growing. Government regulations have shot up, political correctness is spreading, workers often study for years to get absurd certifications that don't help them service customers better.
 
 Think of this, [business lobbyists didn't even exist during the Industrial Age](https://www.theatlantic.com/business/archive/2015/04/how-corporate-lobbyists-conquered-american-democracy/390822/), now many people think special interests run our governments.
 
-Our rulebook is enormous, and you're probably used to it being over your head. We've all signed loan contracts, terms of service, credit card agreements without reading them. We live under many by-laws, regulations, and laws who really knows how many. We buy products filled with so many copyrights, trademarks, patents that it's hard to [understand how much of our stuff we own](https://www.youtube.com/watch?v=EPYy_g8NzmI). We live under the jurisdiction of a massive rulebook. But big isn't always bad.
+Our rulebook is enormous, and you're probably used to it being over your head. We've all signed loan contracts, terms of service, credit card agreements without reading them. We live under many by-laws, regulations, and laws no one knows how many. We buy products filled with so many copyrights, trademarks, patents that it's hard to [understand how much of our stuff we own](https://www.youtube.com/watch?v=EPYy_g8NzmI). We live under the jurisdiction of a massive rulebook. But big isn't always bad.
 
 It is when the size is used against us.
 
@@ -1906,11 +1909,12 @@ A big rulebook makes rules convoluted. This is bad when rules become so open to 
 
 But a big rulebook is still not automatically a Death Star.
 
-It became one when Industrial Age powers wanted to keep themselves in power. Far removed from the original industrialists, they relied on controlling existing levers of power, instead of inventing new ones. This scene from _Mad Men_ shows it well.
+It became one when Industrial Age powers wanted to keep themselves in power. Far removed from the original industrialists, they relied on controlling existing levers of power, instead of inventing new ones. This scene from [_Mad Men_ shows it well.](https://youtu.be/3wUZvOEGm8c?t=199)
 
-<div class="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QKcneQ6N50Q?start=50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<figcaption>Credit: Mad Men.<a href="https://www.youtube.com/watch?v=QKcneQ6N50Q?start=50"> Reader Mode.</a></figcaption>
+<!-- Commenting out video -->
+<!-- <div class="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3wUZvOEGm8c?t=199" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<figcaption>Credit: Mad Men.<a href="https://www.youtube.com/watch?v=3wUZvOEGm8c?t=199"> Reader Mode.</a></figcaption> -->
 
 Modern technology and medicine showed people the dark side of cigarettes. Big Tobacco responded with mass-advertising to distract people from the truth.
 
@@ -1920,21 +1924,21 @@ When people saw gas-guzzling cars and thought climate change, the industry fough
 
 However, because the "juniors" of the Industrial Age didn't know their core product, they didn't know how to exist in the Internet Age. I mean, did you need to see a WhatsApp advertisement to install the app? Or did making your life easier sell itself? Tesla has no commercials and is doing just fine.
 
-But, the Mad Men failed, and customers still wanted Internet Age products like VHS systems, home streaming, and electric cars. Thus, a large, confusing, and ever-growing rulebook became a superweapon to defend Industrial Age gates against new technology.
+As customers kept buying new technology like electric cars, home streaming, a large, confusing, and ever-growing rulebook became a superweapon to defend Industrial Age gates against further adoption of new technology.
 
-Only Big Business and Big Government had the money to buy the lawyers who could interpret the rulebook in their favor. Henceforth, the massive rulebook of society became a Death Star to Main Street.
+Only established Big Business and Big Government had the money to buy the lawyers who could interpret the rulebook in their favor. Henceforth, the massive rulebook of society became a Death Star to Main Street.
 
 Here's one example. There are millions more.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SlimRemoteDachshund' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/SlimRemoteDachshund' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>The cards are stacked against Main Street. The Industrial Age is fighting to stay alive. Credit: <a href="https://www.youtube.com/watch?v=swzogcjasNY">JRE.</a> <a href="https://gfycat.com/ifr/SlimRemoteDachshund">Reader Mode.</a></figcaption>
 
 ## Polar Bears in the Amazon
 
 The era of mass-production is over. But our society used dark majic to make people happy with living the stereotypical suburban 1969 lifestyle. Thus, to look like we're improving education, we put up more prestigious colleges. To deal with traffic-jammed and decaying roads, we sold more luxury cars. To make generic fries and burgers taste better, we added more sugar. To make people "happy," we built more generic suburban homes.
 
-<img src="https://techvolution.io/content/images/2020/04/suburbs.jpg" alt="Suburbia" class="center-img" width="800" height="">
+<img src="/assets/img-anp/suburbs.jpg" alt="Suburbia" class="center-img" width="800" height="">
 <figcaption>Credit: Wikimedia Commons.</figcaption>
 
 Can you guess where these pictures were taken? You can't because mass-production brought extreme mass-uniformity. Living the same lifestyle across regions is very unusual in our history, and in Nature.
@@ -1964,9 +1968,9 @@ You don't have to, just look down.
 
 In the Industrial Age, when regular people thought of politics, they first had to think of ideologies. This was because government policy was society's biggest lever of power. To have any say in what that lever did, Main Street could only support Right or Left political parties.
 
-The Internet Age changes the power dynamic. Now when you think of politics Stargazer, you should not think of nightly news broadcasts or what Left/Right commentators believe. You must think of apps, websites, and electronics. These are the new levers of power.
+The Internet Age changes the power dynamic. Now when you think of politics Stargazer, you should not think of nightly news broadcasts or what Left/Right commentators believe. You must think of apps, websites, and electronics. These are the new levers of power, and you can control these yourself.
 
-Progressive and Conservative extremists won't go easy. These ideologues don't know—or care to know—about upgrading to the Interner Age. Even now, they're fighting evolution to stay alive.
+Progressive and Conservative extremists won't go away easy. These ideologues don't know—or care to know—about upgrading to the Interner Age. Even now, they're fighting evolution to stay alive.
 
 These fights get very serious. Extremists set Europe's flame in the Thirty Years War between Protestantism and Catholicism. And now we have enraged Progressives and Conservatives blaming each other for our society's growing problems.
 
@@ -1974,61 +1978,38 @@ The result is fighting over trigger words, tea-party marches, woke culture, and 
 
 The small section of our community that is prone to extremism will keep raising tensions until the rest of us click a new philosophy.
 
-Watch out.
-
-<div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/AgileFeminineAlpineroadguidetigerbeetle' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
-<figcaption><a href="https://gfycat.com/ifr/AgileFeminineAlpineroadguidetigerbeetle">Reader Mode.</a></figcaption>
-
-## Conspiracy Theories
-
-As the people prone to extremism are being led astray by old ideologies. The people inclined to disbelief are looking for something more truthful to believe in.
-
-Since Industrial Age ideologies are not relevant to modern society, they can't buy into Left/Right doctrines. Thus, their mind wanders, looking for better answers.
-
-It's an altruistic job. Conspiracy theorists are genuinely looking for ways to improve our way of life. Heck, imagine you heard Harry Potter talk about the Ministry of Magic. Or, what would you think if Neo asked you, "do you know about the Matrix?"
-
-Someone has to be willing to hear any and all ideas. How else can we find the ones that'll truly upgrade our civilization? I personally find it easy to talk to conspiracy theorists because they're always willing to listen.
-
-Sadly, this desire to listen to any new answer, often means conspiracy theorists thinking about aliens, flat-earth, or other weird stuff. (Returning the favor of listening can be frustrating).
-
-In any case, what's really happening is the open-minds of conspiracy theorists want to re-align our ruling philosophy with people's problems in their everyday lives.
-
-Happily, helping our friends stop talking about aliens and flat-earth is as easy as buying more stuff made in America.
-
 ## Made In America
 
-Nature punishes replication over adaptation. But if that's true, how did Darth Blockbuster stay in business by re-selling the same products?
+Nature rewards adaptation. But if that's true, how did Darth Blockbuster stay in business by re-selling the same mass-products from the 1950's until today?
 
 He lowered his labor costs by exporting our factories (which happened twice for me) and called it profitability.
 
 There are endless pages of economic theory that justify exporting America's industry. All of its bullshit. If lowering customer costs was the reason for sending production away, why aren't trademarks, registered trademarks, copyrights, or patents filed in markets with cheap lawyers? Why aren't executives or marketing departments (nevermind pundits and columnists) outsourced?
 
-Where would you rather penny-pinch, on marketing campaigns, or the person making your brake lines, or N95 mask?
+Where would you rather save money, on marketing campaigns, or the person making your brake lines, or N95 mask?
 
 In 1945 America held the world's largest and best manufacturing base. It had just finished the "Victory" production program that did so much to win World War II. Even though Germany, Japan, and Italy prepared their economy for years, the American worker was twice as productive as a German, and four times more than a Japanese. The Ford Motor Company alone made more war equipment than all of Italy. General Motors did the same, with the help of 16,000 suppliers, all in America.
 
 This marvel of manufacturing is what made America a superpower.
 
-<img src="https://techvolution.io/content/images/2020/04/ww2-shipyard.jpg" alt="Debt on the Rise" class="center-img" width="600" height="">
-<figcaption>
-These types of people win the game of civilization. Credit: <a href="https://catalog.archives.gov/id/522890">National Archives Catalog.</a></figcaption>
+<img src="/assets/img-anp/ww2-shipyard.jpg" alt="Debt on the Rise" class="center-img" width="600" height="">
+<figcaption>These types of people win the game of civilization. Credit: <a href="https://catalog.archives.gov/id/522890">National Archives Catalog.</a></figcaption>
 
-Within a generation, it was all sold by the "juniors" of the Industrial Age to buy themselves more time. China was especially seen as the promised land. A country so populated it could seemingly supply the cheap labor and untapped market needed to keep the era of mass-production alive forever.
+Within a generation, America's manufacturing base was almsot all sold by the "juniors" of the Industrial Age. China was especially seen as the promised land. A country so populated it could seemingly supply the cheap labor and agrarian market needed to keep the era of mass-production alive forever.
 
-Left and Right agreed. Their philosophy was unable to use the tools of mass-production to evolve to the era of mass-collaboration. They didn't mass-produce the seeds of the Internet Age, such as electric cars, wind turbines, and digital textbooks. Instead, Left/Right tried to use cheap labor to sustain the 1969 suburban lifestyle they thought the public wanted.
+Left and Right agreed. Their philosophy was unable to use the tools of mass-production to evolve to the era of mass-collaboration. They didn't mass-production was meant to seed the Internet Age technology, such as electric cars, wind turbines, and digital textbooks. Instead, Left/Right tried to use cheap labor to sustain the 1969 suburban lifestyle that kept them well-paid.
 
-Even if it meant outsourcing Main Street.
+And when Main Street was outsourced, they wrote shaky economic theory to justify their actions.
 
 But, no matter how cheap anyone makes Industrial Age living, it's still outdated. Nature demands constant adaptation, not replication. That's why there's never been a time where the society of marketers, managers, and economists, defeated a nation of engineers, designers, and technicians.
 
-The lesson is, we lost our manufacturing base and a robust local supply chain for no good reason at all. But we'll get them back. Once we start buying things, "Made In America." Buying each other's products is a great sign we're controlling the levers of power and upgrading ourselves to the Internet Age.
+The lesson is, we lost our manufacturing base and a robust local supply chain for no good reason at all. But we'll get them back. Once we start buying things, "Made In America." Frontliner workers buying each other's products is a great sign we're controlling the levers of power and upgrading ourselves to the Internet Age.
 
-I smile, thinking of all those bakers, tailors, designers, craftsmen, welders, and repairmen happily working on a new empowered Main Street. And all those conspiracy theorists will realize society is more rational, and can finally give their open-minds a rest.
+I smile, thinking of all those bakers, tailors, designers, craftsmen, welders, and repairmen happily working on a new empowered Main Street.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ConstantThinErin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
-<figcaption>A tale of two ruling philosophies. As Darth Blockbuster was selling America to avoid evolving, China was pressing itself forward. This is America's manufacturing centers versus and China's over the past 50 years. Credit: <a href="https://www.youtube.com/watch?v=ce_6oZEB9Gw">Tech Insider</a> and <a href="https://www.youtube.com/watch?v=SfLclErvMmM">Pion.</a> <a href="https://gfycat.com/ifr/ConstantThinErin">Reader Mode.</a>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/ConstantThinErin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<figcaption>A tale of two ruling philosophies. As Darth Blockbuster was selling America to avoid evolving into the Internet Age, China was pressing itself forward to develop into the Industrial Age. Thus, the Juniors of the world transferred America's manufacturing to China to stay alive for little while longer. We should have been evolving to manufacture the Internet Age way of life. Credit: <a href="https://www.youtube.com/watch?v=ce_6oZEB9Gw">Tech Insider</a> and <a href="https://www.youtube.com/watch?v=SfLclErvMmM">Pion.</a> <a href="https://gfycat.com/ifr/ConstantThinErin">Reader Mode.</a>
 </figcaption>
 
 ## I Want to Work at Blockbuster, I Want to Use Netflix
@@ -2049,7 +2030,7 @@ You can't work at Blockbuster and use Netflix forever. Don't worry, they'll be l
 
 When I worked at the insurance call-center, my customers often had a paper invoice or report. When I told them I needed to see it, they'd usually ask themselves where they could get a scanner or fax machine.
 
-I'd remind them their smartphone has a great camera, so they could just snap a photo and email me. This always sparked a eureka moment; "that's right, I can do that, thanks, John!"
+I'd remind them their smartphone has a great camera, so they could just snap a photo and email me. This always sparked a eureka moment; "that's right, I can do that, thanks!"
 
 We know about scanning and faxing, but there's still no word for snapping a photo of paperwork. Because this new ability of our cyborgology is still evolving.
 
@@ -2065,10 +2046,10 @@ You know how Home Depot workers give "Do It Yourself" advice? Well, who does a p
 
 While tech companies keep making and marketing excellent products, someone has to know all the options to help the frontline connect with the majic of modern technology.
 
-Linus Tech Tips is an example of someone already doing this. There's a big job for someone doing this all day; modern patriots who "cross-pollinate" products on Main Street during the era of mass-collaboration.
+Linus Tech Tips is an example of someone already doing this. There's a big job for someone doing this all day; modern patriots who like bumblebees "cross-pollinate" products on Main Street during the era of mass-collaboration.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SophisticatedInfatuatedCurassow' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/SophisticatedInfatuatedCurassow' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Today's geeks, nerds, and gamers will teach you how to make a better, more productive, and happy life in the era of mass-collaboration. Credit: <a href="https://www.youtube.com/watch?v=3NLoDMsqJkE">Civilization 6</a> and <a href="https://www.youtube.com/watch?v=-EA2FQXs4dw">Linus Tech Tips.</a> <a href="https://gfycat.com/ifr/SophisticatedInfatuatedCurassow"> Reader Mode.</a></figcaption>
 
 ## Does The World Need to Know
@@ -2087,9 +2068,9 @@ It randomly selects a Wikipedia article. With three taps, I got:
 - Sandamías, a village in northern Spain with 67 residents.
 - Aartsenia arctica, a sea snail.
 
-Anyone can make a Wikipedia article, yet no one has ever thought to make one about your personal Darth Blockbuster. You haven't, have you?
+Anyone can make a Wikipedia article, yet no one has ever thought "the worlds need to know" about your personal Darth Blockbuster. You haven't, have you?
 
-Ignore arrogant pricks and focus on the game. Anyone can earn a Wikipedia page if they inspire someone else to think "the worlds need to know."
+Ignore arrogant pricks and focus on the game.
 
 ## Celebrities
 
@@ -2122,7 +2103,7 @@ When we buy a new house, we can't wait to move in, bring in our furniture, and s
 Take a second and watch this clip of a player building backyards in the city-builder _Cities: Skylines_.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ClassicSecretKarakul' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/ClassicSecretKarakul' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Credit: <a href="https://www.youtube.com/watch?v=8KjNohyz_XQ">Cities: Skylines.</a> <a href="https://gfycat.com/ifr/ClassicSecretKarakul">Reader Mode.</a></figcaption>
 
 Evolution needs us to buy solar-power roofs, install a Hydroloop water reuser, start a 3D printing business in the garage. These are the new technologies that upgrade civilization.
@@ -2187,7 +2168,7 @@ This is horrible because we've only started the Internet Age, and should be tran
 Literally, if we don't hurry up, we'll literally be unable to build the Internet Age.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ChiefGleamingDamselfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/ChiefGleamingDamselfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Even genius billionaires can't reverse the tide of antagonists and extras. Credit: <a href="https://www.youtube.com/watch?v=1v--NMCwXqw">JRE.</a> <a href="https://gfycat.com/ifr/ChiefGleamingDamselfly">Reader Mode.</a></figcaption>
 
 ## Click the Netflix Momemt
@@ -2196,7 +2177,7 @@ Do evolve again, we need to erase the Death Star, and click a new philosophy.
 
 What makes something click in a person's mind? If only we knew. Sadly, we can't decide to cry, scream, or love. We all must wait for a connection.
 
-Today Americans and Canadians are bored. We have nothing to do, no story to live. We're extras told to be consumers and employees with no goal to achieve, no glory to earn.
+Today Americans and Canadians are bored. The ladder to the Internet Age is hidden with consumer advertisements or blocked by Deathstar rules in dense employment and product contractors. Going around in circles, we have nothing to do, no story to live. We're extras told to be consumers and employees with no goal to achieve, no glory to earn.
 
 We're waiting to re-connect with a fun, challenging, happy life.
 
@@ -2227,7 +2208,7 @@ Because that's what player gods say after a new philosophy clicks, and they've t
 ---
 title: A New Philosophy - Midpoint
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false
@@ -2364,7 +2345,7 @@ In 1776, during Rousseau's lifetime, Darth King faced the music when the America
 Cinderella soon forgot about the fancy ball, and instead sung the music of freedom in a choir of equals, that went something like this:
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GleefulAcclaimedIndianspinyloach' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/GleefulAcclaimedIndianspinyloach' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Les Miserables is a story of antagonists, protagonists, and especially extras singing about becoming player gods. Notice after a new philosophy clicked, they made it real with that lever of power called a musket. Credit: <a href="https://www.youtube.com/watch?v=MD9druFjSkg">Civilization 6</a> and <a href="https://www.youtube.com/watch?v=1q82twrdr0U">Les Miserables</a>. <a href="https://gfycat.com/ifr/GleefulAcclaimedIndianspinyloach">Reader Mode.</a></figcaption>
 
 Revolution spread people's liberty, equality, and fraternity throughout the world. In a few years, the Medieval Age was finally gone. The dark majic of fake holiness was exposed, and the royal Death Star rulebook was destroyed.
@@ -2477,7 +2458,7 @@ However, in later seasons, to keep their now popular characters alive, the sitco
 
 Kramer never gets a job, Raj can't get a girl, Dwight doesn't get self-aware. Here sitcoms become selfish and spectacle stories. Selfish, because the main characters don't overcome problems anymore. And, spectacle, because we in the audience keep re-watching our favorite actors, characters, sets, catch-phrases, instead of looking for a new story. The turning point between a classic story and a selfish/spectacle story is often called "jumping the shark."
 
-<img src="https://techvolution.io/content/images/2020/04/jumping-shark-got.png" alt="GoT Seasons 1-8" class="center-img" width="400" height="">
+<img src="/assets/img-anp/jumping-shark-got.png" alt="GoT Seasons 1-8" class="center-img" width="400" height="">
 <figcaption>Game of Thrones went from great to horrible because the characters became more important than the story. Every fan felt this transition and was saddened by it. But we (including me) kept watching, which is why this picture shows the change from a majical product, to a dark majic one. Credit: I'm not sure who made this meme, but credit to them.</figcaption>
 
 Rousseau explained how society goes through classic, selfish, and spectacle stories as we develop through ages. When we start a new era, it's like watching the first years of the sitcom. Everyone in the cast is solving everyday problems. The main characters have earned their spot by taking risks to solve community problems. The followers are happy being part of a classic story.
@@ -2509,7 +2490,7 @@ Neo joins them. Soon he learns how to see through the dark majic of the Matrix's
 Anyone can break them if one learns to ignore rules written by the machines. Neo does and soon learns many new majical abilities to expand his cyborgology like martial arts, jumping high, and even how to dodge bullets.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/CharmingSlimGannet' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/CharmingSlimGannet' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Fast majic. Not too unlike us looking up instruction videos on YouTube, MasteClass, or Skillshare. And we've only just started the Internet Age. Credit: The Matrix. <a href="https://gfycat.com/ifr/CharmingSlimGannet">Reader Mode.</a></figcaption>
 
 Neo soon gets noticed by the enforcers of the Matrix. These "Agents" seek out rule-breakers and punish them with their mastery of the Matrix's rulebook. Their powers are inhuman strength, speed, and the loyalty of the extras still plugged in.
@@ -2559,7 +2540,7 @@ It was a good deal. The growing peace returned civilization to western Europe. S
 This was the start of the "noble divine right to rule."  And, the divine kings took their job seriously. They had many battle scars to prove it.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmJubilantIrrawaddydolphin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/WarmJubilantIrrawaddydolphin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>You'd believe in holy kings too if barbarians, Vandals, or Vikings were at your doorstep. Credit: <a href="https://en.wikipedia.org/wiki/Vikings_(2013_TV_series)">Vikings</a><a href="https://gfycat.com/ifr/WarmJubilantIrrawaddydolphin">Reader Mode.</a></figcaption>
 
 Under the rule of Protagonist Kings, Western Civilization rebuilt political institutions, court systems, town councils, sanitation departments. Peace, let the player god save up the money to start pressing upgrade again.
@@ -2587,7 +2568,7 @@ Brilliant cathedrals, royal palaces, and terrible and meaningless conflicts like
 Antagonists Kings had no personal achievements. They took no risks but took credit for the accomplishments of civilization as if they were the player god responsible for it all.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/LavishIncomparableBumblebee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/LavishIncomparableBumblebee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Louis XIV (1643-1715) spent an estimated 50% of France's annual Gross National Product on building and maintaining his Palace at Versailles. And he didn't even pay taxes. I wonder what Protagonist Kings would feel if they time-traveled to see this place. Credit: <a href="https://www.imdb.com/title/tt1167686/">Versailles: The Dream of a King</a> and <a href="https://gfycat.com/ifr/LavishIncomparableBumblebee">Reader Mode.</a></figcaption>
 
 Antagonist Kings spent society's money on themselves and didn't reinvest it to help win the game of civilization. Main Street became increasingly unhappy as frontline problems piled up. Their houses were still thatched, food was still scarce, and they did manual labor all day. The people paid all the taxes but were still banned from advancing in official society.
@@ -2621,7 +2602,7 @@ It's important to note, while Rousseau's followers were politically free, they w
 But they were also obsessed with economic growth to bring the people up from poverty.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MadeupTameLamb' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/MadeupTameLamb' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Here's a tidbit of an Industrial Revolution business magnate George Westinghouse (1846-1914). Among his inventions was the air brake, fridge, and electric generator. Westinghouse's large company helped conquer economic anarchy. Credit: <a href="https://www.youtube.com/watch?v=8tuXdlGBbcg">Business Casual</a><a href="https://gfycat.com/ifr/MadeupTameLamb">Reader Mode.</a></figcaption>
 
 Society loved the original kings for winning the "King's Peace." Likewise, the initial economic kings were heroes of the mass-production era for winning the "Executive's Prosperity." These heroes said follow me, recognize my property rights, work (hard as hell) for my company, and we'll all be better off.
@@ -2657,7 +2638,7 @@ We can click a new philosophy, we can usher in the era of mass-collaboration, al
 ---
 title: A New Philosophy - Act Three
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false
@@ -2751,7 +2732,7 @@ It was precisely because the English people were empowered by new levers of powe
 However, without Rousseau's new philosophy to explain themselves, the unhappy people were left asking for change from a king who thought he was a god.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MelodicVagueHornedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/MelodicVagueHornedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>King Charles walking into uppity Parliament. Credit: <a href="https://en.wikipedia.org/wiki/Cromwell_(film)">Cromwell.</a><a href="https://gfycat.com/ifr/MelodicVagueHornedtoad"> Reader Mode.</a></figcaption>
 
 Parliament eventually got sick of being ignored. So they raised a modern army, Charles did the same, and the two sides fought the English Civil War (1642–1646). The Parliamentary Army was local Protestants devoted to democracy on their way to becoming player gods. They chose their own leaders by merit and suspected Charles was a closet Catholic.
@@ -2842,7 +2823,7 @@ Charles was astounded, shocked, and bewildered.
 
 The king's next chance to talk sense into these misguided madmen would be at his own chopping block.
 
-<img src="https://techvolution.io/content/images/2020/04/whitehall-charles.jpg" alt="Whitehall" class="center-img" width="950" height="">
+<img src="/assets/img-anp/whitehall-charles.jpg" alt="Whitehall" class="center-img" width="950" height="">
 <figcaption>This is Whitehall. A palace built by Henry VIII. Charles walked through here to get to get to his chopping block. On the ceiling is a painting commissioned by his father, King James, which shows him being escorted to Heaven by angels. Charles was raised his entire life to be the divine king in the sky. Could you see outside the divine rights of nobles philosophy, if you were him? Credit: Wikimedia Commons.</figcaption>
 
 ## Charles Speaks
@@ -2853,7 +2834,7 @@ Forget about the ringing bell of a claims department. Imagine the stress of a st
 
 I can't explain how anxious he would have been. I know he feared the emotional pain of ~~silence~~, far more than death.
 
-<img src="https://techvolution.io/content/images/2020/04/charles-speaks-2.jpg" alt="Charles on Scaffold" class="center-img" width="700" height="">
+<img src="/assets/img-anp/charles-speaks-2.jpg" alt="Charles on Scaffold" class="center-img" width="700" height="">
 <figcaption>Credit: <a href="https://en.wikipedia.org/wiki/Cromwell_(film))">Cromwell.</a></figcaption>
 
 And with all this running through his head, gremlin and all, Charles said this:
@@ -2959,7 +2940,7 @@ When we hold our medical records, work portfolios, and other levers of powers in
 All we need to reach the future is the click of a new set of ideals of right and wrong, good and bad, in science, art, morals, politics, and economics. Only a modern ruling philosophy will unite Main Street to see the big picture.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RichThreadbareDegu' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/RichThreadbareDegu' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Critical mechanism is another word for lever of power. In the Industrial Age is was limited and controlled by power-brokers. Now, in the Internet Age, it's free for everyone. Credit: <a href="https://www.youtube.com/watch?v=b_yboxM33gg">JRE.</a> <a href="https://gfycat.com/ifr/RichThreadbareDegu">Reader Mode.</a></figcaption>
 
 Rogan is talking about Darth Blockbuster, Darth Insurance, Darth Taxman. Like Darth King Charles, these antagonists weren't bad guys until history passed them over, and they wanted to say in power.
@@ -2981,7 +2962,7 @@ The future is already here.
 If you believe in yourself.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SlimGleefulDuiker' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/SlimGleefulDuiker' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Each improvement in graphics is your cyborgology growing up. It means you have better education, cancer research, crime-fighting, electricity generation, product design and manufacturing, and so much more. But only if you become a player god. Credit: <a href="https://www.youtube.com/watch?v=3H6hnFV-nDU">Data Radar.</a><a href="https://gfycat.com/ifr/SlimGleefulDuiker"> Reader Mode.</a></figcaption>
 
 ## Extras Die-Off
@@ -3014,7 +2995,7 @@ Darth Blockbuster will never, ever, "see the light" and play the game for you.
 
 It's not his job.
 
-<img src="https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg" alt="Illustration" class="center-img" width="950" height="">
+<img src="/assets/img-anp/playergod-stargazer.jpg" alt="Illustration" class="center-img" width="950" height="">
 <figcaption></figcaption>
 
 The fate of civilization is entirely on your shoulders. Your job is to do what's best for yourself, and help society prosper. Looking up for guidance, you see two options.
@@ -3034,7 +3015,7 @@ I'd love to show how the new economy is where everyone lives a compelling story 
 And that gives us all a new definition of good guys and bad guys. Simple put, whoever helps you live a better, happier, more free life is a protagonist, and whoever gets in your way is an antagonist.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>An idealized view of digital mass-collaboration and the Life Star. Credit: <a href="https://www.youtube.com/channel/UCV9RoEcgAO1Uc7oxZGS8Lkw/videos">Cities: Skylines.</a> <a href="https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad">Reader Mode.</a></figcaption>
 
 I want to write all these stories, but I haven't. This book has been informative enough. At the start, I asked, "are you happy?" Now you have to ask yourself, "Am I going to do something about it?"
@@ -3065,7 +3046,7 @@ If you don't, we lose.
 ---
 title: A New Philosophy - Epilogue
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false
@@ -3115,7 +3096,7 @@ I wept while watching Smithereens, full out tears. I knew what the plot twist wa
 Here's why I failed, and here's why I'll succeed.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GrandUnknownHagfish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/GrandUnknownHagfish' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>This is what digital technology is suitable for. Only player gods will reach for it. <a href="https://gfycat.com/ifr/GrandUnknownHagfish">Reader Mode.</a></figcaption>
 
 ## My App
@@ -3182,7 +3163,7 @@ Philosophers call the Life Star the rational state earned through years of thesi
 
 The Life Star will give us the money to start Star Fleet, and begin exploring the stars. You'll soon hold my new app and read about how you'll use it and others to win the game of civilization in Techvolution II: Building the Life Star.
 
-<img src="https://techvolution.io/content/images/2020/04/levers-of-power.jpg" alt="Levers of Power" class="center-img" width="950" height="">
+<img src="/assets/img-anp/levers-of-power.jpg" alt="Levers of Power" class="center-img" width="950" height="">
 <figcaption>Levers of power. Whoever controls them, wins. Credit: Star Wars, Harry Potter, Unsplash.</figcaption>
 
 # Techvolution: A New Philosophy - The Appendices
@@ -3190,7 +3171,7 @@ The Life Star will give us the money to start Star Fleet, and begin exploring th
 ---
 title: A New Philosophy - The Appendices
 lang: en-US
-description: About | Techvolution
+<!-- description: Techvolution -->
 
 layout: doc
 aside: false

@@ -33,7 +33,7 @@ How can it not be, it's the ultimate rags-to-riches tale. Our planet was once to
 
 Because Life has a mortal enemy.
 
-That enemy is named entropy, the natural law that makes everything, from stars to mountains, trees to dogs, eventually, degrade into dust. Entropy can act as quickly as an earthquake or as slowly as an ice age, but it's always making the Universe a hard place to live in. Entropy is why Life's rags to riches tale had so many pitfalls, struggles, and five mass extinctions.
+That enemy is named entropy, the natural law that makes everything, from stars to mountains, trees to dogs, eventually degrade into dust. Entropy can act as quickly as an earthquake or as slowly as an ice age, but it's always making the Universe a hard place to live in. Entropy is why Life's rags to riches tale had so many pitfalls, struggles, and five mass extinctions.
 
 And yet, Life survives!
 
@@ -43,19 +43,23 @@ No lifeform can go it alone. Overcoming entropy's constant decay requires many a
 
 Once they do, Life is ready for a fight.
 
-Ecosystems are great because they enforce a system of give and take, checks and balances between all species. Life can be cruel to individuals; sadly, some must starve or be eaten, but Life never plays favorites. In nature, no lifeform has inherit power over another. To harvest enough resources, Life needs an ecosystem full of adaptations acting as efficiently as possible. Only then can Life outrun the cold, heat, starvation, and thirst that come as entropy constantly decays the environment.
+Ecosystems are great because they enforce a system of give and take, checks and balances between all species. Life can be cruel to individuals; sadly, some must starve or be eaten, but Life never plays favorites. In nature, no lifeform has inherit power over another. To harvest enough resources, Life needs an ecosystem full of adaptations solving problems as efficiently as possible. Only then can Life outrun the cold, heat, starvation, and thirst that come as entropy constantly decays the environment.
 
 The story of Life is not a battle of lifeform against lifeform but a mutual race against entropy.
 
-This race is remorseless. If a lifeform finds enough resources in the ecosystem, it will live a few more days. If it doesn't, entropy catches up and kills it. Life doesn't cry for too long. Instead, it substitutes another being with a thicker fur coat, stronger bite, or some other adaptation. This unfettered evolution is how Life finds the most efficient lifeforms possible.
+This race is remorseless. If a lifeform finds enough resources in the ecosystem, it will live a few more days. If it doesn't, entropy catches up and kills it. Life doesn't cry for too long. Instead, it substitutes another being with a thicker fur coat, stronger bite, or some other adaptation. This unfettered evolution is how Life finds the best problem-solveers who are as efficient as possible.
 
-Unfettered innovation is Life's requirement. It's how Life responds to entropy's constant cold snaps, solar flares, and hurricanes. We track evolution inside geological periods. We know that from the Hedean Eon through the Jurassic Period and now the Cenozoic Era, Life has survived because it relentlessly finds new bacteria, fungi, plants, and animals suitable to the current environment. Life only wants lifeforms that outrun entropy.
+Unfettered innovation is Life's requirement. It's how Life responds to entropy's constant cold snaps, solar flares, and hurricanes. We track evolution inside geological periods. We know that from the Hedean Eon through the Jurassic Period and now the Cenozoic Era, Life has survived because it relentlessly finds new bacteria, fungi, plants, and animals suitable to the current environment. Life wants any lifeform that can outrun entropy.
 
-Isn't that poetic. Life fought the natural law of entropy by creating the natural law of evolution. It is quite poetic and it's also the crux of our problem when we look in the mirror. 
+Isn't that poetic. Life fought the natural law of entropy by creating the natural law of evolution. It is quite poetic.
+
+It's also the crux of our problem when we look in the mirror. 
+
+## Technological Life
 
 Technology is a new chapter in the story of Life's evolution. While limbs, hooves, jaws, and wings are adaptions and thus akin to tools, they're biological and permanent. 
 
-With technology, Life is no longer limited to permanent biological adaptions. Finally, materials like stone, copper, tin, iron, and silicon can battle entropy in unique new ways. And just as important, Life no longer needed to spend millions of years to create a new biological species to try a new adaption. Humans invent new adaptations and significantly speed up evolution by developing new technologies. Humans create, become, and let die technological species with the forging, gripping, and dropping of a hammer.
+With technology, Life is no longer limited to permanent biological adaptions. Finally, materials like stone, copper, tin, iron, and silicon can battle entropy in unique new ways. And just as important, Life no longer needed to spend millions of years to create a new biological species to try out a new adaption effectiveness. Humans invent new adaptations and significantly speed up evolution by developing new technologies. Humans create, become, and let die technological species with the forging, gripping, and dropping of a stone hammer.
 
 When we invented tools, we started to leave biology behind. In the story of Life, we humans, are biological vessels of technological adaptions.
 

@@ -1542,7 +1542,7 @@ I'm not talking about an idealist, imaginary world envisioned from storybooks. T
 
 ## Space X dual landing
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/AdmirableEquatorialBlacklab' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/admirableequatorialblacklab">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/AdmirableEquatorialBlacklab' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/admirableequatorialblacklab">via Gfycat</a></p>
 
 ## Property Generation and Regulation Nulled by Digital Property
 
@@ -1887,7 +1887,7 @@ Many people buy cars and see themselves as being standouts. Yet what really sets
 
 I know majic is better, because when someone's car was damaged after an accident, they wanted any car rental ASAP. Fancy features and made up colors didn't matter; they just needed to get around, and get on with their lives.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SpanishIdealisticAgouti' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/spanishidealisticagouti">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/SpanishIdealisticAgouti' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/spanishidealisticagouti">via Gfycat</a></p>
 
 _This is dark majic. A player god of the Computer Age has to learn to filter this bullshit out._
 
@@ -2225,7 +2225,7 @@ You can see it already budding today. One example is the Twitter feed below. It'
 Notice, I have no control over this Twitter feed. I can't make up the information. Nor can I gatekeep it from you. These are simply objective facts in our society, that because of the internet, anyone can see, feel, and collaborate around. Crucially, and painfully, the people in these crashes are in some level, living through Smithereens. Solving their pain with modern tools is Techvolution. Tracking and measuring their pain, is the Life Star.
 
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MeanMasculineCamel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/meanmasculinecamel-google-driverless-car-project">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/MeanMasculineCamel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/meanmasculinecamel-google-driverless-car-project">via Gfycat</a></p>
 
 _This is what modern technology is good for. Player gods demand this kind of life saving power._
 
@@ -2305,7 +2305,7 @@ And we should happily let the people know, because it's their society you're imp
 
 ## Introduction
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FragrantOldEmeraldtreeskink' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/FragrantOldEmeraldtreeskink' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 The above is a game, of course, but it represents reality pretty well. We're all in there somewhere right now, trying to figure out how to earn a living while the game is played around us. Life can be hard because there is no divine player and no magic buttons. Instead, we, the people inside the game, must collect the resources, do the research, and manually transform every part of our civilization bit by bit, with blood, sweat, and tears. We can't sit back, click, and watch. We must live it.
 
@@ -2319,7 +2319,7 @@ But, I'm in the Internet Age. So I search "repair scratched watchface", and with
 
 And this one small examples, shows why we're all polar bears in the Amazon. Seriously, just think of all the people who would have thrown the watch, fridge, or television away. Just look out your car window at all the fellow commuters who own a laptop, hi-speed internet, VR glasses, but are driving through hours of traffic to work in a cubicle.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/HonoredIndolentBabirusa' frameborder='0' scrolling='no' width='60%' height='60%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/honoredindolentbabirusa-ron-livingston-office-space-endless">via Gfycat</a></p>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/HonoredIndolentBabirusa' frameborder='0' scrolling='no' width='60%' height='60%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/honoredindolentbabirusa-ron-livingston-office-space-endless">via Gfycat</a></p>
 
 If any of us would see a camel near the Great Lakes, eagles inside a cave system, or polar bears in the Amazon, we'd stop and wonder; "why are these biologies here?". Likewise, when we see out of place cyborgologies like textbooks, fax machines, and traffic jammed roads in our societies, we should know something is wrong.
 
@@ -2508,7 +2508,7 @@ To defeat Darth Blockuser, we can use our understanding of classic and spectacle
 
 ## Ricky
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WarmNippyCockatiel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/WarmNippyCockatiel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 _Ricky Gervais is yelling at a (entertainment) heirarchy so distanced from the frontline, they've completely lost touch with regular people. They virtue signal, as Christian nobility once did, to justify their huge wealth and prestige. There are a lot of parallels between Hollywood elite and late European royals._
 
@@ -2601,11 +2601,11 @@ Fighting for those policy's hasn't gotten Main Street anywhere. Nevermind the fa
 
 ## Louis Rossman
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/UnevenDiligentGreendarnerdragonfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div> [Credit: Rossman Repair Group](https://www.youtube.com/watch?v=VJ_TGoqVoM8)
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/UnevenDiligentGreendarnerdragonfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div> [Credit: Rossman Repair Group](https://www.youtube.com/watch?v=VJ_TGoqVoM8)
 
 ## Anno 1800 and Happiness
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MellowGloriousIndianelephant' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/MellowGloriousIndianelephant' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 _When playing a civilization-building game, players must change their policies to get happier citizens. The difference in real-life is there is no "player" except you and your friends. It's up to you all to change society._ [Credit: Anno 1800.](https://www.youtube.com/watch?v=-EHuL2x5bOs)
 
@@ -2638,7 +2638,7 @@ In fact, Left and Right came together to help them do it. That's why Rightists d
 
 During the Industrial Age, Left and Right ideologies formed the ideal player god to win the game.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SorrowfulPeacefulCuscus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/SorrowfulPeacefulCuscus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 Right/Left motivated society to improve their primitive world with better tools. And, truth be told, they did! That's why our ancestors agreed on the same big picture; individuals need to globalize the world to industrialize society via mass-production.
 
@@ -2893,7 +2893,7 @@ Here it is. Its big lesson is this. The middle-class must solve our problems wit
 
 ## Office Space
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/JitteryBrokenFlickertailsquirrel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/JitteryBrokenFlickertailsquirrel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 <a href="https://gfycat.com/ifr/JitteryBrokenFlickertailsquirrel" target="_blank" class="button small">Reader</a>
 
@@ -2903,14 +2903,14 @@ _Credit: [Office Space](https://en.wikipedia.org/wiki/Office_Space)_
 
 
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ImpassionedSourBuck' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/ImpassionedSourBuck' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 <a href="https://gfycat.com/ifr/ImpassionedSourBuck" target="_blank" class="button small">Reader</a>
 
 _The rise of the middlemen. Credit: [Wisecrack](https://www.youtube.com/watch?v=_Lngf3J8vN4)._
 
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SorrowfulPeacefulCuscus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/SorrowfulPeacefulCuscus' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 <a href="https://gfycat.com/ifr/SorrowfulPeacefulCuscus" target="_blank" class="button small">Reader</a>
 
@@ -3020,7 +3020,7 @@ On the bright side, having our backs against the wall makes us adapt. Among the 
 
 It's no surprise the equality and civil rights movements upgraded our culture soon after the war was over. We can follow suit and start to remake our society during this pandemic by adopting a modern philosophy for the Internet Age.
 
-![WW2 Broke Barriers](https://techvolution.io/content/images/2020/04/ww2-shipyard.jpg)
+![WW2 Broke Barriers](/assets/img-anp/ww2-shipyard.jpg)
 
 _This photo was taken in 1943 in Pascagoula Mississipi. While most German and Japanese women were prohibited from working, America was adapting away from old traditions. It's no surprise which philosophy won. Credit: [National Archives Catalog](https://catalog.archives.gov/id/522890)_
 
@@ -3045,13 +3045,13 @@ As a result, long-time and loyal insurance customers can wait hours to speak wit
 
 It sucked trying to explain the nonsense. These customers paid their bills, and their claim was approved. Yet, they were like a ship-wrecked man on a beach, desperately waving at passing ships because he has no levers of power to wield.
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/TartTeemingAtlanticblackgoby' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/TartTeemingAtlanticblackgoby' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 _Credit: [Cast Away](https://en.wikipedia.org/wiki/Cast_Away)._
 
 There is no good reason why my customers had to wait. But like I said above, powerful managers and executives won't give regular people a fair deal if they don't have to.
 
-![Git-Hub Rails](https://techvolution.io/content/images/2020/04/github-repo-rails2.jpg)
+![Git-Hub Rails](/assets/img-anp/github-repo-rails2.jpg)
 
 _This is the [GitHub "repo" for Ruby on Rails](https://github.com/rails/rails/graphs/contributors), the open-source technology that runs apps like Basecamp, Airbnb, and Shopify. Visit that page, and you'll see all the thousands of people who've helped make the core technology, even though most have never met each other. Mass-collaboration is this simple and effective. And, this priceless software required almost no garbage meetings. That's why you're job will soon use mass-collaboration too._
 

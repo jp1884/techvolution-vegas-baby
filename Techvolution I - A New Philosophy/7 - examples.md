@@ -77,7 +77,7 @@ It was precisely because the English people were empowered by new levers of powe
 However, without Rousseau's new philosophy to explain themselves, the unhappy people were left asking for change from a king who thought he was a god.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/MelodicVagueHornedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/MelodicVagueHornedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>King Charles walking into uppity Parliament. Credit: <a href="https://en.wikipedia.org/wiki/Cromwell_(film)">Cromwell.</a><a href="https://gfycat.com/ifr/MelodicVagueHornedtoad"> Reader Mode.</a>
 </figcaption>
 
@@ -169,7 +169,7 @@ Charles was astounded, shocked, and bewildered.
 
 The king's next chance to talk sense into these misguided madmen would be at his own chopping block.
 
-<img src="https://techvolution.io/content/images/2020/04/whitehall-charles.jpg" alt="Whitehall" class="center-img" width="950" height="">
+<img src="/assets/img-anp/whitehall-charles.jpg" alt="Whitehall" class="center-img" width="950" height="">
 <figcaption>This is Whitehall. A palace built by Henry VIII. Charles walked through here to get to get to his chopping block. On the ceiling is a painting commissioned by his father, King James, which shows him being escorted to Heaven by angels. Charles was raised his entire life to be the divine king in the sky. Could you see outside the divine rights of nobles philosophy, if you were him? Credit: Wikimedia Commons.
 </figcaption>
 
@@ -181,7 +181,7 @@ Forget about the ringing bell of a claims department. Imagine the stress of a st
 
 I can't explain how anxious he would have been. I know he feared the emotional pain of ~~silence~~, far more than death.
 
-<img src="https://techvolution.io/content/images/2020/04/charles-speaks-2.jpg" alt="Charles on Scaffold" class="center-img" width="700" height="">
+<img src="/assets/img-anp/charles-speaks-2.jpg" alt="Charles on Scaffold" class="center-img" width="700" height="">
 <figcaption>Credit: <a href="https://en.wikipedia.org/wiki/Cromwell_(film))">Cromwell.</a>
 </figcaption>
 
@@ -288,7 +288,7 @@ When we hold our medical records, work portfolios, and other levers of powers in
 All we need to reach the future is the click of a new set of ideals of right and wrong, good and bad, in science, art, morals, politics, and economics. Only a modern ruling philosophy will unite Main Street to see the big picture.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RichThreadbareDegu' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/RichThreadbareDegu' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Critical mechanism is another word for lever of power. In the Industrial Age is was limited and controlled by power-brokers. Now, in the Internet Age, it's free for everyone. Credit: <a href="https://www.youtube.com/watch?v=b_yboxM33gg">JRE.</a> <a href="https://gfycat.com/ifr/RichThreadbareDegu">Reader Mode.</a>
 </figcaption>
 
@@ -311,7 +311,7 @@ The future is already here.
 If you believe in yourself.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/SlimGleefulDuiker' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/SlimGleefulDuiker' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>Each improvement in graphics is your cyborgology growing up. It means you have better education, cancer research, crime-fighting, electricity generation, product design and manufacturing, and so much more. But only if you become a player god. Credit: <a href="https://www.youtube.com/watch?v=3H6hnFV-nDU">Data Radar.</a><a href="https://gfycat.com/ifr/SlimGleefulDuiker"> Reader Mode.</a>
 </figcaption>
 
@@ -345,7 +345,7 @@ Darth Blockbuster will never, ever, "see the light" and play the game for you.
 
 It's not his job.
 
-<img src="https://techvolution.io/content/images/2020/04/playergod-stargazer.jpg" alt="Illustration" class="center-img" width="950" height="">
+<img src="/assets/img-anp/playergod-stargazer.jpg" alt="Illustration" class="center-img" width="950" height="">
 <figcaption></figcaption>
 
 The fate of civilization is entirely on your shoulders. Your job is to do what's best for yourself, and help society prosper. Looking up for guidance, you see two options.
@@ -365,7 +365,7 @@ I'd love to show how the new economy is where everyone lives a compelling story 
 And that gives us all a new definition of good guys and bad guys. Simple put, whoever helps you live a better, happier, more free life is a protagonist, and whoever gets in your way is an antagonist.
 
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>An idealized view of digital mass-collaboration and the Life Star. Credit: <a href="https://www.youtube.com/channel/UCV9RoEcgAO1Uc7oxZGS8Lkw/videos">Cities: Skylines.</a> <a href="https://gfycat.com/ifr/WhimsicalLeadingFirebelliedtoad">Reader Mode.</a></figcaption>
 
 I want to write all these stories, but I haven't. This book has been informative enough. At the start, I asked, "are you happy?" Now you have to ask yourself, "Am I going to do something about it?"

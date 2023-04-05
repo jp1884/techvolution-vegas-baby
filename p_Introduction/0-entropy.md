@@ -29,6 +29,6 @@ This book is about you finding some friends to fight back.
 
 [Time trial, man running, video game ]
 <div class="center">
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/GoodDimpledBarbet' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
+<div style='position:relative; padding-bottom:calc(36.25% + 56px)'><iframe src='https://gfycat.com/ifr/GoodDimpledBarbet' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div></div>
 <figcaption>The story of Life in nutshell. Find enough resources before time runs out. Credit: <a href="https://gfycat.com/GoodDimpledBarbet">Reader Mode.</a>
 </figcaption>

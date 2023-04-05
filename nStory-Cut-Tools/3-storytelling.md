@@ -20,7 +20,7 @@ next:
 
 ## Preface
 
-We've all listened, watched, and told stories. But what exactly is a story?
+We've all listened, watched, and told stories. From the campfire to the couch humanity has shared our loves, emotions, and days by telling a story. But what exactly is a story?
 
 One of our greatest thinkers, Aristotle, answered that question around 330 BC. The Greek philosopher taught dramatic writing. In *Poetics*, Aristotle explains all stories must have heroic action that arouses strong emotions from the audience inside a structure with a definite beginning, middle, and end. Proper dramatic storytelling must have a mixture of tragic character flaws, plot twists, and surprise endings.
 
@@ -54,15 +54,17 @@ Stand-up comics constantly create with their audience in mind. They stand-up rig
 
 Creating for one's audience sounds simple, but it's not. A genuine creator must always hold herself faithful to the requirements of her craft. Be it carpentry, sewing, app design, comedy, or storytelling.
 
-Yet so many of us when creating fall into self-indulgence. It's effortless to do, and it's pretty hard to get out of. For example, if you look at the list of best movies of all time, the peak decade was the 1940s. The story quality of movies has gotten worse every following decade because filmmakers don't (and aren't encouraged to) tell quality stories. Instead, movies have become a spectacle of repeated blockbusters and unpopular art films. A cycle of self-indulgence from franchise owners and "artists" has ignored storytelling requirements and, therefore, movies keep losing their audience. You'll notice movies talk about the weekend box-office "gross revenue" but don't mention ticket sales. They want to hide the fact less people go to the movies every year.
+Yet so many of us when creating fall into self-indulgence. It's effortless to do, and it's pretty hard to get out of. For example, if you look at the list of best movies of all time, the peak decade was the 1940s. Every following decades the story quality has gotten worse because filmmakers don't (and aren't encouraged to) tell good stories. Instead, movies have become a spectacle of repeated blockbusters and unpopular art films. A cycle of self-indulgence from franchise owners and "artists" has ignored storytelling requirements and, therefore, movies keep losing their audience. You'll notice the aging movie industry talks about the weekend box-office "gross revenue" but don't mention ticket sales. They want to hide the fact less people go to the movies every year.
 
 Today, the most popular stories are _Breaking Bad_, _The Queen's Gambit_, and low-budget YouTube videos from channels like _Real Engineering_, or _The Hoof GP_. Streaming platforms tell good stories, which explains their success far more than their convenience.
 
-In the book I summarize here, Mamet explains how to tell a story. Like making a good chair, or a good roof, the same rules apply to good storytelling today as in 300 BC, in Shakespeare's time, as they will 1,000 years from now. And true to human nature, creators will keep falling into the trap that their impulses and self-expressions is more important than the final product and the audience who's supposed to enjoy it.
+In the book I summarize here, Mamet explains how to tell a story. Like making a good chair, or a good roof, the same rules apply to good storytelling today as in 300 BC, in Shakespeare's time, as they will 1,000 years from now. And true to human nature, creators will keep falling into the trap that their impulses and self-expressions is more important than the final product and the audience who is supposed to enjoy it.
 
-Mamet teaches how to stay on target and create good stories, which is the only thing the audience wants. His lessons teach designers how to make better websites. A manager to manage workers better. A CEO to improve how she oversees a corporation. Anyone trying to achieve something can learn from this book because they should always know they aren't the true boss.
+Mamet teaches how to stay on target, avoid self-indulgence, and create good stories; which is what the audience wants. His lessons teach designers how to make better websites. A manager to manage workers better. A CEO to improve how she oversees a corporation. Anyone trying to achieve something can learn from this book because they should always know they aren't the true boss.
 
-The person using a product, whoever that person is, is the most important person in the world. Because they're the hero using your creation to in their real-life. Putting a smile on your face pales compared to putting one on theirs.
+The person using a product, whether a teacher watching your presentation, a manager listening to your sales pitch, or a user exploring your app, is the most important person in the world. Because they're the hero using your product in real-life. Putting a smile on your face pales compared to putting one on theirs.
+
+And learning storytelling will make sure you're audience is always smiling.
 
 ## Mamet on Stories
 
