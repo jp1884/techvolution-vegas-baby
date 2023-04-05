@@ -34,3 +34,5 @@
 - efficiency should be the guiding light. it's not. this explains modern politics.
 
 - if you don't know who the sucker is, than it's you. if you're only once who speaks with a customer, you're the customer of too many management levels.
+
+- we need to keep making so much content because space travel will be that fucking boring. otherwise there's no reason us subsizing all these video productions.
