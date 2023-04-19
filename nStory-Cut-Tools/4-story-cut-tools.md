@@ -40,11 +40,10 @@ const pigvtri=ref(true)
 const cinvtri=ref(false)
 const swvtri=ref(false)
 const maxvtri=ref(false)
-// conclusions for four stories
-const pigconc=ref(true)
-const cinconc=ref(false)
-const swconc=ref(false)
-const maxconc=ref(false)
+// conclusions for three story types
+const gsconc=ref(true)
+const ssconc=ref(false)
+const asconc=ref(false)
 // sequels
 const storyseq1=ref(true)
 const storyseq2=ref(false)
@@ -52,7 +51,7 @@ const storyseq3=ref(false)
 
 </script>
 
-![Earthboat](/assets/img/earthrise-10.png)
+![Socrates Ladder Artwork](/assets/img/art-socrates-ladder.jpg)
 
 # Story-Cut Tools
 
@@ -75,9 +74,6 @@ Of course some items don’t fade into the background. Occasionally a set will b
 
 However, clothing, chairs, rings, and other spectacle make the story look pretty but don’t have any direct relevance to the story until a character picks one to solve the problem of the story.
 
-![Bravehear props](/assets/img/braveheart-props.jpg)
-<figcaption>Props manifest the story in the real world, making it easier to follow and understand</figcaption>
-
 ### Passions
 What must Cinderella be feeling when first dancing with prince charming. How can a storyteller communicate those emotions to an audience?
 
@@ -86,8 +82,6 @@ Music.
 Music conveying and illuminating the pssions behind the story and its characters. A great example is the “Jaws” theme, which creates suspense in the audience with just a few notes so powerful people today still fear the water because of them.
 
 Another example is The Lord of the Rings, whose great score almost tells the story itself. Take a listen, jump around, and you can feel where you are in the story each time. Such is the power of music to transfer the emotions from one person inside a story to another wanting to know what that story feels like.
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76678147&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ### Dialogue
 The spoken words of a story. Dialogue is how the characters communicate their thoughts to each other and sometimes themselves. Like with props, the difference between words and dialogue is that dialogue should always advance the story.
@@ -105,20 +99,14 @@ Every story has a problem to overcome. Antagonist personifies the the problem an
 
 This antagonist steps up and defends the status quo. There’s no doubt in his mind that change is bad for himself and society. That is a crucial point. The antagonist doesn’t think of themselves as being evil. They fight for what they believe in.
 
-![Antagonist](/assets/img/romeo_juliet_thought.jpg)
-<figcaption>Defender of problems</figcaption>
-
 ### Worldview
-Socrates became famous for asking questions. He’d ask “what is love?” or “what is justice”. These questions imply love or justice have a specific form like a chair or bicycle. The quest to find deeper meanings to our everyday lives got Socrates many followers who loved him dearly.
+Socrates became famous for asking questions. He’d ask “what is love?” or “what is justice”. These questions imply love or justice have a specific form like a chair or bicycle. Using questions to find deeper meanings to our everyday lives got Socrates many followers who loved him dearly.
 
 Other people weren’t so impressed. They didn’t see the forms Socrates was talking about and thought Socrates was corrupting the youth with his questions.
 
 Socrates caused such a stir because he was probing the established worldview of his society. Our worldview surrounds us everyday. How should the calender be setup, who controls government, how are children educated are not laws of nature but rules written by a human that taken together make a worldview. Just think of the differences between India, Japan, and Brazil today.
 
-Likewise, every story has a worldview. While antagonists and their supporters defend it, heroes and her supporters want to change it. 
-
-![Romeo and Juliette](/assets/img/romeo_juliet_thought.jpg)
-<figcaption>Motivation at first sight</figcaption>
+Likewise, every story has a worldview. While antagonists and their supporters defend it, heroes and her supporters want to change it.
 
 ### Protagonist
 Some people can see errors in the way of the worldview. Socrates did but he only ever asked questions. Other people ask questions and take action. Cinderellla wants to be a princess, the pig owner wants to protect his family.
@@ -126,9 +114,6 @@ Some people can see errors in the way of the worldview. Socrates did but he only
 The hero works to change the world. This drive reveals who their supporters are, and who the antagonists are. But heroes are not philosophers. They don’t write down new social rules and call it a day. Heroes want to change the world.
 
 But how do they do that?
-
-![Protagonist](/assets/img/romeo_juliet_thought.jpg)
-<figcaption>Solve of problems</figcaption>
 
 ### Plot
 A worldview gives people a rulebook to follow. But who enforces these rules. The antagonists of course, and they enforce their rules by controlling the levers of power in a story.
@@ -143,10 +128,9 @@ And that’s what a story is. A series of beats and scenes that come together to
 
 Props and effects fill out the story. Music helps communicate emotions while dialogue communicates intentions of the characters. The worldview describes the motivations of the characters. Antagonists want to preserve the worldview while heroes want to change it. The winner of the back and forth battle is whoever controls the levers of power.
 
-![Protagonist](/assets/img/shawshank-realization.jpg)
-<figcaption>Moment of reversal</figcaption>
-
 ## Triangle
+
+We can visualize all the story elements above. Here they are for several popular stories.
 
 <button class="t-btn" @click="pigtri=true; swtri=false; cintri=false; maxtri=false">Pig: The Movie</button>
 <button class="t-btn" @click="pigtri=false; swtri=false; cintri=true; maxtri=false">Cinderella</button>
@@ -156,7 +140,7 @@ Props and effects fill out the story. Music helps communicate emotions while dia
 <template v-if="pigtri">
 <p>Pig: The Movie Triangle</p>
 
-![Pig: The Movie Triangle](/assets/img/earthrise-10.png)
+![Pig: The Movie Triangle](/assets/img/triangle-star-wars.png)
 
 **Items:** Props range from the a farm in the desert, to space ships, and space stations. There are also fighter jets, lasers, costumes of the famous Imperial Stormtroppers.
 
@@ -176,7 +160,7 @@ Props and effects fill out the story. Music helps communicate emotions while dia
 <template v-if="cintri">
 <p>Cinderella Triangle</p>
 
-![Cinderella Triangle](/assets/img/earthrise-10.png)
+![Cinderella Triangle](/assets/img/triangle-star-wars.png)
 
 **Items:** Props range from the a farm in the desert, to space ships, and space stations. There are also fighter jets, lasers, costumes of the famous Imperial Stormtroppers.
 
@@ -196,7 +180,7 @@ Props and effects fill out the story. Music helps communicate emotions while dia
 <template v-if="swtri">
 <p>Star Wars Triangle</p>
 
-![Star Wars Triangle](/assets/img/earthrise-10.png)
+![Star Wars Triangle](/assets/img/triangle-star-wars.png)
 
 **Items:** Props range from the a farm in the desert, to space ships, and space stations. There are also fighter jets, lasers, costumes of the famous Imperial Stormtroppers.
 
@@ -217,7 +201,7 @@ Props and effects fill out the story. Music helps communicate emotions while dia
 <template v-if="maxtri">
 <p>The Matrix Triangle</p>
 
-![The Matrix Triangle](/assets/img/earthrise-10.png)
+![The Matrix Triangle](/assets/img/triangle-the-matrix.png)
 
 **Items:** Props range from the a farm in the desert, to space ships, and space stations. There are also fighter jets, lasers, costumes of the famous Imperial Stormtroppers.
 
@@ -238,13 +222,13 @@ Props and effects fill out the story. Music helps communicate emotions while dia
 
 As we learned in Mamet's class and his _Pig: The Movie_, every story is make believe. The question is how good will the fabrication be. The elements above, from props to plot, are what's needed to complete the illusion. Like a gourmet meal, once these incredients are properly balanced they all but disappear into a seemingly simple, but elegantly executed, creation.
 
-Thus, every story has many elements but each must serve a simple arc. Star Wars is about a farm boy standing up to evil. Cinderella is about a women overcoming oppression. _Pig: The Movie_ is about a father protecting his family. Breaking Bad is about a good man descending into darkness.
+Thus, every element must come together to a simple story. Star Wars is about a farm boy standing up to evil. Cinderella is about a women overcoming oppression. _The Matrix_ is about a man redefining his reality. _Pig: The Movie_ is about a father protecting his family. _Breaking Bad_ is about a good man descending into darkness.
 
 You can see these stories in character names. Luke Skywalker rises above to fight darkness. Neo is the word for new because he's newly risen above his ignorance. Walter White appears to be a clean man. Sam Malone the consumate ladies man of _Cheers_, is always alone. The psychiatrist Frasier Crane always supports people in their lives. Even real life people can have poetic names, the con-artist Bernie Madoff, made off with his customer's money.
 
-These character namess also signify the problem of their respiective stories. Will Luke overcome the empire? Will Neo survive the oppresion of new ideas. Will Walter White keeping descending into darkness. Will Sam Malone ever find love?
+These character namess also signify the problem of their respective stories. Will Luke overcome the empire? Will Neo survive the oppression of new ideas. Will Walter White keeping descending into darkness. Will Sam Malone ever find love?
 
-Stories thus have a beginning, middle, and end. The first act is the introduction of the problem and the protagonist who fights to overcome it and the antagonist who fights against the protagonist. The second act is where both characters and their supporters fight over the problem. And in the third act, the question of which side will win is answered in the climax. Throughout this process, drama is created by constant questions about how the events will progress and whether the problem will be overcome.
+Because all functional stories are about overcoming a specific problem, they thus have a beginning, middle, and end. The first act is the introduction of the problem and the protagonist who fights to overcome it and the antagonist who fights against the protagonist. The second act is where both characters and their supporters fight over the problem. And in the third act, the question of which side will win is answered in the climax. Throughout this process, drama is created by constant questions about how the events will progress and whether the problem will be overcome.
 
 Here is how a three act story is structured.
 
@@ -256,28 +240,28 @@ Here is how a three act story is structured.
 <template v-if="pigthree">
 <p>Pig: The Movie Three Act Structure</p>
 
-![Pig: The Movie three acts](/assets/img/earthrise-10.png)
+![Star Wars three acts](/assets/img/graph-story-functional-star-wars.png)
 </template>
 
 <template v-if="cinthree">
 <p>Cinderella Three Act Structure</p>
 
-![Cinderella three acts](/assets/img/earthrise-10.png)
+![Star Wars three acts](/assets/img/graph-story-functional-star-wars.png)
 </template>
 
 <template v-if="swthree">
 <p>Star Wars Three Act Structure</p>
 
-![Star Wars three acts](/assets/img/earthrise-10.png)
+![Star Wars three acts](/assets/img/graph-story-functional-star-wars.png)
 </template>
 
 <template v-if="maxthree">
 <p>The Matrix Three Act Structure</p>
 
-![Star Wars three acts](/assets/img/earthrise-10.png)
+![Star Wars three acts](/assets/img/graph-story-functional-star-wars.png)
 </template>
 
-In a well told story the props, music, dialogue, characters, and plot blend seemlessly. The mark of success is the audience jumping, screaming, and laughter in their seats. All emotions they've commited because their minds are totally connected to the fake reality of a good story.
+In a well told story the props, music, dialogue, characters, and plot blend seamlessly. The mark of success is the audience jumping, screaming, and laughter in their seats. All emotions they've commited because their minds are totally connected to the fake reality of a good story.
 
 ### Good Story
 
@@ -289,13 +273,13 @@ Not every story is well told. Many don't follow the rules Aristotle and Mamet te
 <template v-if="gsgraph">
 <p>Good Story Graph</p>
 
-![Good Story Graph](/assets/img/earthrise-10.png)
+![Good Story Graph](/assets/img/graph-story-functional.png)
 </template>
 
 <template v-if="gstri">
 <p>Good Story Triangle</p>
 
-![Good Story Triangle](/assets/img/earthrise-10.png)
+![Good Story Triangle](/assets/img/triangle-story-functional.png)
 </template>
 
 <p>A good story is balanced between all the elements.</p>
@@ -308,13 +292,13 @@ Not every story is well told. Many don't follow the rules Aristotle and Mamet te
 <template v-if="ssgraph">
 <p>Spectacle Story Graph</p>
 
-![Spectacle Story Graph](/assets/img/earthrise-10.png)
+![Spectacle Story Graph](/assets/img/graph-story-spectacle.png)
 </template>
 
 <template v-if="sstri">
 <p>Spectacle Story Triangle</p>
 
-![Spectacle Story Triangle](/assets/img/earthrise-10.png)
+![Spectacle Story Triangle](/assets/img/triangle-story-spectacle.png)
 </template>
 
 A spectacle story is mis-balanced between all the elements. The priority is given to props, effects, and loud music. Characters are running for their lives too often to build up tension, reverse the situation, experience setbacks. Movies today are increasingly spectacle. Hence, today we have ever more special effects, 3D movies, movie theater seats that shake (D-Box), ever more sexual content, more horrific horror.
@@ -327,16 +311,22 @@ A spectacle story is mis-balanced between all the elements. The priority is give
 <template v-if="asgraph">
 <p>Art Story Graph</p>
 
-![Art Story Graph](/assets/img/earthrise-10.png)
+![Art Story Graph](/assets/img/graph-story-art.png)
 </template>
 
 <template v-if="astri">
 <p>Art Story Triangle</p>
 
-![Art Story Triangle](/assets/img/earthrise-10.png)
+![Art Story Triangle](/assets/img/triangle-story-art.png)
 </template>
 
 Actor- and director-driven, such art movies are skewed toward the character element of storytelling. When movies have a strongly written plot, the plot naturally becomes more important and doesn’t allow an actor to overact, or a director to overshoot the story. Art films are thus not complete stories with the clear plots that most moviegoers need in order to become.
+
+---
+
+
+
+---
 
 ### Triangle vs Triangle
 
@@ -352,63 +342,69 @@ We can still gain perspective ourselves by seeing how some of our beloved storie
 <template v-if="pigvtri">
 <p>Pig: The Movie Versus Triangle</p>
 
-![Pig: The Movie Versus Triangle](/assets/img/earthrise-10.png)
+![Pig: The Movie Versus Triangle](/assets/img/art-earthrise-10.png)
 </template>
 
 <template v-if="cinvtri">
 <p>Cinderella Versus Triangle</p>
 
-![Cinderella Versus Triangle](/assets/img/earthrise-10.png)
+![Cinderella Versus Triangle](/assets/img/art-earthrise-10.png)
 </template>
 
 <template v-if="swvtri">
 <p>Star Wars Versus Triangle</p>
 
-![Star Wars Versus Triangle](/assets/img/earthrise-10.png)
+![Star Wars Versus Triangle](/assets/img/art-earthrise-10.png)
 </template>
 
 <template v-if="maxvtri">
 <p>The Matrix Versus Triangle</p>
 
-![Star Wars Versus Triangle](/assets/img/earthrise-10.png)
+![Star Wars Versus Triangle](/assets/img/art-earthrise-10.png)
 </template>
 
 ## Conclusions
 
-Conclusion...
+Stories are about problems. Therefore stories have a definite conclusion. Will farmer John sell his pig? Will the glass slipper fit Cinderella? Will the torpedo blow up the Death Star. Will Neo wake everyone up from the matrix?
 
-<button class="t-btn" @click="pigconc=true; swconc=false; cinconc=false; maxconc=false">Pig: The Movie</button>
-<button class="t-btn" @click="pigconc=false; swconc=false; cinconc=true; maxconc=false">Cinderella</button>
-<button class="t-btn" @click="pigconc=false; swconc=true; cinconc=false; maxconc=false">Star Wars</button>
-<button class="t-btn" @click="pigconc=false; swconc=false; cinconc=false; maxconc=true">The Matrix</button>
+There is either a yes or no to these questions, which is why they are the climax of their respective stories.
 
-<template v-if="pigcon">
-<p>Pig: The Movie Versus Conclusion</p>
+- important. conclusion return characters to equality.
 
-![Pig: The Movie Versus Triangle](/assets/img/earthrise-10.png)
+Conclusions are great way to tell difference between functional, spectacle, and art stories. After the conclusion of a functional story, its characters return to their life with the problem that started them solved or not. Either way, their reality is changed. Whatever happens next is a different story, one in which the main characters might not even be worth mentioning.
+
+In comparison, spectacle has no problem solved, making it easier to return to another iteration in the sequel. The reality of the past hasn't changed much. Meanwhile, art stories have such a small problem they're endings are arbitrary, and they're reality was never in question, and their characters return to their introversion.
+
+[instead of movies examples, perhaps put generic difference between functional, spectacle, and art]
+
+<button class="t-btn" @click="gsconc=true; asconc=false; ssconc=false">Functional Story</button>
+<button class="t-btn" @click="gsconc=false; asconc=false; ssconc=true">Spectacle Story</button>
+<button class="t-btn" @click="gsconc=false; asconc=true; ssconc=false">Art Story</button>
+
+<template v-if="gsconc">
+<p>Functional Story</p>
+
+![Functional Story Conclusion](/assets/img/graph-story-functional-art-spectacle.png)
 </template>
 
-<template v-if="cincon">
-<p>Cinderella Versus Conclusion</p>
+<template v-if="ssconc">
+<p>Spectacle Story</p>
 
-![Cinderella Versus Triangle](/assets/img/earthrise-10.png)
+![Spectacle Story Conclusion](//assets/img/graph-story-functional-art-spectacle.png)
 </template>
 
-<template v-if="swcon">
-<p>Star Wars Versus Conclusion</p>
+<template v-if="asconc">
+<p>Art Story</p>
 
-![Star Wars Versus Triangle](/assets/img/earthrise-10.png)
+![Art Story Conclusion](/assets/img/graph-story-functional-art-spectacle.png)
 </template>
 
-<template v-if="maxcon">
-<p>The Matrix Versus Conclusion</p>
-
-![The Matrix Versus Triangle](/assets/img/earthrise-10.png)
-</template>
 
 ## Story Sequels
 
 Sometimes stories repeat themselves. The ending of the conclusion is ignored. And the story starts over. Occasionally, it works out, like in The Lord of the Rings or Harry Potter movies. Each successive story on par with the previous ones. But often there is a degradation. Like taking pictures of a picture, quality suffers with each successive version.
+
+- important, since no conclusion, art/spectacle `rotate` in circles. remember the story of life graphic.
 
 This is because telling a new story is much harder with baggage from an old one. There is a split personality in every sequel because it can't have a conclusion and must start off at an awkward beginning.
 
@@ -421,29 +417,37 @@ We can track the degration. It is one of good story degrading into spectacle.
 <template v-if="storyseq1">
 <p>Original Story</p>
 
-![Original Story](/assets/img/earthrise-10.png)
+![Original Story](/assets/img/art-earthrise-10.png)
 </template>
 
 <template v-if="storyseq2">
 <p>First Sequel</p>
 
-![First Sequel](/assets/img/earthrise-10.png)
+![First Sequel](/assets/img/art-earthrise-10.png)
 </template>
 
 <template v-if="storyseq3">
 <p>Second Sequel</p>
 
-![Second Sequel](/assets/img/earthrise-10.png)
+![Second Sequel](/assets/img/art-earthrise-10.png)
 </template>
 
 ## Art Counterbalance
 
 As sequels are told, there is an increase in the art stories. Instead of balancing spectacle and art inside a good story, the telling of the same stories causes other stories to balance it out with art.
 
-Here is the rise of spectacle and art inside American movies over the last few decades.
+To demonstrate this phenomenon, gere is the rise of spectacle and art inside American movies over the last few decades.
 
-![Rise of Art](/assets/img/earthrise-10.png)
+![Rise of Art](/assets/img/art-earthrise-10.png)
 
 ## Summary
 
-Here is a summary of all we learned...
+Here is a summary of all we learned. Stories are about a character working hard to overcome a problem. The problem drives the plot. The characters we follow, we follow because they are the most instrumental in solving or defending the one single problem of the story. Characters do not have debates. They fight over control of objects, usually important technology that is either causing a problem, or could solve it.
+
+Stories have layers. In order of their importance they are, props, passions, dialogue, antagonist, worldview, hero, plot. When each of these are properly balanced they create a believable fiction.
+
+If these story elements are not balanced correctly, there are two possibilities. Too much reliance on props, effects, and music, and a spectacle story is born. This story is so action packed characters are too busy solving instinctual problems like running from explosions for a story to have any meaning. On the other side, if there is too much reliance on characters and not problem solving, we get an art story where characters delve into their supposed interesting selves. As we learned with Mamet's class, both spectacle and art are created when creators are focused on the "cult of self" and not creating a story as audiences have always, and will always need.
+
+As spectacle and art stories are told and re-told, they require ever more extreme versions to maintain interest. They are also co-dependent. People repulsed by art will gravitate to the spectacle, and vice versa. Revolusion of the other extreme will keep one's loyalty to their chosen extreme. This drive to extremes excludes the reasonable middle ground of a characters working hard to overcome relatable real-life problems.
+
+Now that we understand storytelling, and the trends involved in functional, spectacle, and art, stories, let's get back to that Earthboat and understanding your story as Life struggles to stay afloat.

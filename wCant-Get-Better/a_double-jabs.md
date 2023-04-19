@@ -36,3 +36,5 @@
 - if you don't know who the sucker is, than it's you. if you're only once who speaks with a customer, you're the customer of too many management levels.
 
 - we need to keep making so much content because space travel will be that fucking boring. otherwise there's no reason us subsizing all these video productions.
+
+- you can't make a dent in climate change, so why do you make a difference in the economy or voting?

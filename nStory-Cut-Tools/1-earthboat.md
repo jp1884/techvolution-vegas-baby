@@ -14,7 +14,7 @@ next:
 
 ---
 
-![An image](/assets/img/earthrise-10.png)
+![Earthrise Artwork](/assets/img/art-earthrise.png)
 
 # Earthboat
 

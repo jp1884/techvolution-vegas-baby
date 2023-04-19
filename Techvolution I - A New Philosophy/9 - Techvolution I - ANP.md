@@ -496,11 +496,13 @@ Tears or cheers don't make a person powerful.
 
 On the contrary, you see, exercising, composting, teaching your kids mathematics _does_ change the world. Good decisions change and improve your world—giving you freedom from dependency and power over your part of society. And, since power is to politics what money is to finance, your personal choices are always your most potent political weapon.
 
-The question is, how do we increase your powers. The answer, we'll find out in this book, is better technology and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy." It's about making you powerful so you can evolve humanity and therefore earn your happiness.
+The question is, how do we increase your political power?
 
-Your power comes from realizing Harry Potter didn't march for change as a "activist" or "patriot".
+The answer, we'll find out in this book, is owning better technology and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy." It's about making you politically powerful so you can evolve humanity to the Internet Age and therefore earn your happiness.
 
-Potter bought his own wand for the same reason Luke Skywalker constructed his own lightsabres. The lesson is simple. Only when the middle-class holds modern levers of power will we get a happy society. But before we will reach out for new tools, we need to believe in a new kind of politics.
+To increase your political power you must realize there is a good reason no hero, from Harry Potter to Luke Skywalker, marched as a "activist" or "patriot" in their stories.
+
+Potter owned his own wand for the same reason Luke Skywalker constructed his own lightsabres. The lesson is simple. Only when the middle-class holds modern levers of power will we get a happy society. But before we will reach out for new tools, we need to believe in a new kind of politics.
 
 <img src="https://www.slashfilm.com/wp/wp-content/images/Blade-Runner5.jpg" alt="Blade Runner" class="center-img" width="" height="">
 <figcaption>Our kids will live in a dystopia if we don't evolve our culture and distribute modern technology to Main Street. Credit: Blade Runner.</figcaption>

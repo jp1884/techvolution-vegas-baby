@@ -18,7 +18,7 @@ next:
 <https://en.m.wikipedia.org/w/index.php?title=What_Is_Life%3F&_(Schr%C3%B6dinger)=>
 <Note somewhere that this is not a scientific breakdown. A general observation that things get colder and more disorganized, and life requries heat and organization to prosper.> -->
 
-![Earthboat](/assets/img/evolution-spiral-illustration2.png)
+![Evolution Spiral Illustration](/assets/img/ill-evolution-spiral2.png)
 
 >Problems are why we have jobs. So we better love problems...when we solve problems, we create new problems that are actually harder than the old ones. Yeah, it's working out pretty good.
 [Jim Keller, Engineer ](https://youtu.be/EFWUp39VTYw?t=48)
