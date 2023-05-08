@@ -31,3 +31,8 @@ Because we believe in one ideology, we think our lives are governed by the ideol
 That's what Techvolution is. It's a rebellion inside your mind that realizes you are a lifeform in Nature, and thus no rule apply except those that help you solve practical everyday problems. Humans evolve with tools, so your job is to solve frontline pain to evolve life on Earth. And when someone says you're not allowed you have to fight back, even if only in your mind, because they are just being assholes. 
 
 That's why Techvolution is. Is the rebellion inside your mind that says life isn't a ideological fight anymore than a streetfight is a boxing match. The truth is all lifeforms are free to use whatever means neccesary to win in Nature. Thus no rules apply that don't help you live a better life. Since humanity evolves with tools, new tools should be protected and allowed to prospser based on how valuable the people no involved, the extras, find them. Until Techvolution is our ruling philosophy, our society will keep supressing new ideas like a spoiler on racing car, and end up being like ostrichs running away instead of evolving a solution.
+
+
+This new philosophy gives you the freedom of mind to mix and match ideologies as needed to overcome any political or economic problem you face. Be it a dreadful morning commute, climate change, or government red tape.
+
+This new philosophy might be called mixed ideological politics; here's what that means.

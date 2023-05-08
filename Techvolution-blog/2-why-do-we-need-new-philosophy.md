@@ -19,7 +19,7 @@ Each Age was marked by how technology empowered human civilization. It's a hard 
 
 The personal computer was invented in 1969, the same year as the internet. Since then, we've been increasingly living in the Internet Age. And just as someone born in the Middle Age lived differently than someone born in the Science Age, so do we. How a modern person sees property, government, religion, and day-to-day life are fundamentally different.
 
-A Middle-Age person used the bible and superstition to understand their world. A science person used a telescope and mathematics. Today we're using the internet, smartphones, social networks, and all the other wonders of modern tech.
+A Middle-Age person used the Bible and superstition to understand their world. A science person used a telescope and mathematics. Today we're using the internet, smartphones, social networks, and all the other wonders of modern tech.
 
 Yet we don't have a new philosophy for our new Age.
 

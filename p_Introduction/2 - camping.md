@@ -115,7 +115,7 @@ All of them are.
 
 And none of them. 
 
-And this surprised everyone because every discipline thought it was the best. But it was only good at its techniques. It seems obvious, but it wasn't. Every martial artist evolved inside its man-made rules. Their culture, referees, coaches, and pundits, everyone didn't care to notice  Nature has no rules. The winner of a real right is the person left standing. Said another way, fights should not be judged according to who has the best techniques but who can use any method to win a battle.
+And this surprised everyone because every discipline thought it was the best. But it was only good at its techniques. It seems obvious, but it wasn't. Every martial artist evolved inside its man-made rules. Their culture, referees, coaches, and pundits, everyone didn't care to notice Nature has no rules. The winner of a real right is the person left standing. Said another way, fights should not be judged according to who has the best techniques but who can use any method to win a battle.
 
 Every lifeform on Earth knows this truth. No deer in the world depends on a judge to save it when fighting off a bear, as no bear depends on a judge declaring it the winner to get its next meal.
 
@@ -123,7 +123,7 @@ Because humans so easily fall prey to good storytelling, each martial artist was
 
 Think of that.
 
-Many martial artists got beaten up black and blue, knocked unconscious, or suffocated by a choke hold because human storytelling convinced them a fight has rules.
+Many martial artists got beaten up black and blue, knocked unconscious, or suffocated by a choke hold because human storytelling convinced them fights have rules.
 
 For generations, even professional martial artists didn't learn from their mistakes. Martial artists were parishioners loyal to their church. When losing or winning natural rights, they'd doubled down on the belief that their chosen martial art was the only one they needed to learn. Their coaches would help them perfect their techniques but not encourage them to learn new ones.
 
