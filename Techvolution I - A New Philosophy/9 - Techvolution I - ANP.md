@@ -175,6 +175,26 @@ next:
   link: '/a-new-philosophy/introduction'
 
 ---
+<script setup>
+
+  // Button Variables
+  import { ref } from 'vue'
+  const languageBlank=ref(false)
+  const languageEnglish=ref(false)
+  const languageSpanish=ref(false)
+
+  // random interval variable
+  let randomInternal = Math.floor(Math.random() * 1000 + 0.0);
+
+  let words = document.getElementsByClassName("language-test-word");
+  let index = 0; 
+  setInterval(function() { words[index].style.display = "none"; 
+    setTimeout(function() { index = (index + 1) % words.length; 
+      words[index].style.display = "block"; },
+      randomInternal); 
+    }, 1000);
+
+</script>
 
 ![Preface Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
@@ -182,18 +202,19 @@ next:
 
 ## Foreword
 
-My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected it was his mother tongue. So, she showed my son words of colors written in Spanish but typed in a different color.
+My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected Spanish was his mother tongue. To test him, she briefly showed him words of colors that were typed in a different color. So "blue" was typed in red ink for example. My son then had to say the color each word was written in. 
 
-Here's an example in English:
+<button class="t-btn" @click="changeWordAndColorBlank()">Blank</button>
+<button class="t-btn" @click="changeWordAndColorSpanish()">Spanish</button>
+<button class="t-btn" @click="changeWordAndColorEnglish()">English</button>
 
-- <p style="color: red; font-weight: bold; font-size: 16px">"White"</p>.
-- <p style="color: grey; font-weight: bold; font-size: 16px">"Purple"</p>.
-- <p style="color: blue; font-weight: bold; font-size: 16px">"Red"</p>.
-- <p style="color: orange; font-weight: bold; font-size: 16px">"Yellow"</p>.
-- <p style="color: red; font-weight: bold; font-size: 16px">"Pink"</p>.
-- <p style="color: green; font-weight: bold; font-size: 16px">"Brown"</p>.
+<div class="language-test">
+  <p v-if="languageBlank" id="wordBlank"></p>
+  <p v-if="languageSpanish" id="wordSpanish"></p>
+  <p v-if="languageEnglish" id="wordEnglish"></p>
+</div>
   
-The teacher then asked my kid to quickly say the color each word was written in. It's an easy task if you don't know the language, but near impossible if you do. Even if you're pretending ignorance, your mind reads the word before seeing the color. My kid was soon found out and took the advanced class. I laughed when he told me the story. I advised him to take a lesson from it.
+It's an easy test if you don't know the language, but near impossible if you do. Even if you're pretending ignorance, your mind reads the word before seeing the color. My kid was soon found out and took the advanced class. I laughed when he told me the story. I advised him to take a lesson from it.
 
 The lesson is you should never devolve; it's a mindset only for the doomed.
 
@@ -201,37 +222,59 @@ That's the reason I still read this book today in 2083. I never want to go back.
 
 ---
 
-I sometimes forget that _Techvolution_ was as transformative as it was. Was humanity ever so backward? Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Could someone interfere with a worker's evolution and call themselves a boss; and not an antagonist who never faced a customer's review? Why were there so many currencies that changed value every day? Would supposed teachers demand their students not use the latest technology because those teachers had jobs for life based on ancient technology? Would a person own a tool and not be allowed to repair it?
+I sometimes forget that _Techvolution_ was as transformative as it was.
 
-It is even more confusing for me to understand how regular people responded to their evolution being held back. They would watch fake ideological stories on a screen and call that politics. They would march in circles expecting their lives to change. Did parents give their kids generic mass-produced items instead of instilling in them their God-given obligation to evolve?
+Was humanity ever so backward? 
 
-The hard truth is yes, we used to live this way. I need to remember that. It's easy to forget humanity once fought our evolution instead of our natural enemy.
+Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Could someone interfere with a worker's evolution and call themselves a boss; and not an antagonist who never faced a customer's review? Why were there so many currencies instead of using Nature's currency? Would teachers demand their students not use the latest technology because those teachers had jobs for life based on ancient technology? Would a person own a tool and not be allowed to repair it?
 
-Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else making Life on Earth a precious work in progress. For billions of years every organism has evolved to stay alive. Did humanity think we mustn't be vigilant?
+Understanding how regular people responded to their evolution being held back is even more confusing. They would watch ideological stories on a screen and call that politics. They would march in circles expecting their lives to improve. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to evolve better solutions to their specific life?
+
+The hard truth is yes; we used to live this way. I must remember that. It's easy to forget humanity once fought our evolution instead of our natural enemy.
+
+Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else making Life on Earth a precious work in progress. For billions of years, every organism has evolved new adaptions to stay ahead of the nasty, brutish, and short life Entropy can cause. Did humanity think we mustn't also be vigilant?
 
 Of course we must! 
 
-Yet, we are not biological creatures. We evolve with technology. It was the antagonists and their fake stories of racism, sexism, and elitism that proved our survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority fell in the face of technological progress.
+Yet, we are not biological creatures. Our race, sex, and genetics do not keep us warm or grow our food. Did the caveman start a fire with lasers from his eyes? Did Magellan map the world by flying across oceans? No we are not superheroes. We are all biological vessels for technological evolution.
 
-We humans outrace Entropy through the free and widespread creation, adoption, and replacement of technologies.
+We, humans, outrace Entropy by learning the language of our fate; the free and widespread creation, adoption, and replacement of technologies. Our success has the same requirements as normal evolution. We need unfettered innovation to create a variety of new species. Whichever species is most efficient at harnessing available resources captures a niche and is rewarded with job in Life's battle against Entropy.
 
-Before we protected our technological evolution as a sacred right, it's no wonder we suffered so many horrors. Misguided by extremists, events like civil wars, depressions, and revolutions were as common as plagues once were. These violent jumps of our evolution were like mass-extinctions of old ways of life. They happened because Life's demand of continual problem-solving was held back because we refused to let go of old tools.
+That's why our most important identities are the tools we use. It's our tools, not our biology, that enables us to find a niche and earn a living. The people who help our technological evolution are our allies, those who oppose us are our antagonists.
 
-We now know delaying evolution is as immoral as theft. Like Galileo taught science over mythology, Jefferson freedom over servitude, and Darwin evolution over creationism, this book teaches us techvolution over ideology. Thankfully, we no longer have ideologues that encourage extremes and excess. Instead, we have economic enlightenment that encourages moderation and problem-solving.
+Seeing ourselves as biological beings had us chasing shadows. When we identified with a race, gender, or genetics, it allowed technological powerbrokers to become unchallenged gatekeepers. Distracted by the shadows, we let powerbrokers justify their advantage by spinning ideological stories about their supposed racial, gender, or noble superiority.
 
-Even with our improvements, human nature is not perfect. We still have many problems today. But at least we know to purge antagonism in ourselves and our community whenever it appears. Like knowing a language, once you understand a way of thinking, you automatically see the world differently.
+We were born free, but everywhere our technological evolution was chained.
 
-I can defend techvolution because many brave parents changed our future decades ago. I thank all those dearly. Beause of them, we study, understand, promote our ongoing story of continual technological evolution. As a result, today's parents know every kid has a goal to achieve, a story to live because there's always a niche to fill. 
+Even with all their talented storytelling, antagonists always failed. They proved our survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority fell in the face of technological progress.
+
+But follow ideology we once did, and it caused us many horrors. With ideological over our eyes, evolution was antagonized daily by gatekeepers. Thus needed adaptations were held back like water behind a dam. Entropy would return in the form of civil wars, depressions, and revolutions. 
+
+Ironically, the same people who benefitted most from keeping Entropy away, would invite it back by resisting evolution. They ended up merely  setting the stage of their own downfall. Natural selection requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest.
+
+That's why today we protect every individual's technological evolution as a sacred right and teach it as an absolute obligation.
+
+Harnessing technological evolution seems simple to us today, but it took a big change to get here. Galileo taught us science over mythology, Jefferson freedom over servitude, and Darwin evolution over creationism; this book teaches us techvolution over ideology. It's lessons gave us the pathway to healthy politics and economics; democratized technological solutions that let everyone find their niche. We now judge our politics and economics by measuring the health of our technological ecosystem as a biologists does with the natural world.
+
+Because of techvolution, today, we no longer have ideologies that encourage extremes and excess. Instead, we practice techvolution that promotes moderation and problem-solving. 
+
+This change brought tremendous progress, yet human nature is not perfect. We still have many problems today. But at least we know to purge antagonism in ourselves and our community whenever it appears. Like knowing a language, once you understand a way of thinking, you automatically see the world differently. Gatekeeping a technology is a false god that, instead of being the source of ever-lasting power, leads to inevitable destruction. 
+
+Now I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote the new modes and orders of our technological evolution. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever evolving ecosystem. 
 
 Now, our kids don't die in ideological wars, suffer economic depressions, and only rarely struggle with psychological torments.
 
-Instead, they are busy working hard with other frontline workers, under minimal, open, and accountable leadership, using any tool they need. They are inter-connected by a technological ecosystem that is edging us closer to perpetual profit while evolving Life closer to our glorious future among the stars.
+Instead, they are busy working hard with other frontline workers under minimal, open, and accountable leadership, using any tool they need. They are interconnected by Nature's currency inside a technological ecosystem edging us closer to perpetual profit while evolving Life closer to our glorious future among the stars.
 
 Along with their teachers and leaders, I helped my kids find their technological niche. And now I get to watch them achieve their very best. I advise them to re-read this book often to be sure their kids will continue evolving mankind to our highest potential.
 
 A happy and loving mother
 circa 2083
 
+P.S.
+I shudder to think of our fate had we continued to interpret our reality using ideologies that blamed each other for their shared ineffectiveness to fight back Entropy and give people a happy life.
+
+## Preface 
 ## This 2020 Pandemic
 
 "_People are angry, man! Most people's lives suck...Even if like the economy is doing better, the vast majority of people aren't doing what they want to do with their lives._" [Joe Rogan, November 2019](https://youtu.be/-0sKkbjQYqw?t=1239).

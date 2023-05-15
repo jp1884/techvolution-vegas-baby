@@ -38,3 +38,5 @@
 - we need to keep making so much content because space travel will be that fucking boring. otherwise there's no reason us subsizing all these video productions.
 
 - you can't make a dent in climate change, so why do you make a difference in the economy or voting?
+
+- Baby boomers advocating a return to office should be forced to pickup their retirement checks in person every single day of their lives. No kidding. No Netflix either. It's DVD's for you. Again no kidding.
