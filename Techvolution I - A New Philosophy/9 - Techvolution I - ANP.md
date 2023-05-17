@@ -176,24 +176,7 @@ next:
 
 ---
 <script setup>
-
-  // Button Variables
-  import { ref } from 'vue'
-  const languageBlank=ref(false)
-  const languageEnglish=ref(false)
-  const languageSpanish=ref(false)
-
-  // random interval variable
-  let randomInternal = Math.floor(Math.random() * 1000 + 0.0);
-
-  let words = document.getElementsByClassName("language-test-word");
-  let index = 0; 
-  setInterval(function() { words[index].style.display = "none"; 
-    setTimeout(function() { index = (index + 1) % words.length; 
-      words[index].style.display = "block"; },
-      randomInternal); 
-    }, 1000);
-
+// input Language Test Code here.
 </script>
 
 ![Preface Cover Image](/assets/img-anp/playergod-stargazer.jpg)
@@ -202,15 +185,17 @@ next:
 
 ## Foreword
 
-My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected Spanish was his mother tongue. To test him, she briefly showed him words of colors that were typed in a different color. So "blue" was typed in red ink for example. My son then had to say the color each word was written in. 
+My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected Spanish was his mother tongue. To test him, she briefly showed him words of colors typed in a different color. So "blue" was typed in red ink, for example. My son then had to say the color each word was written in. 
 
-<button class="t-btn" @click="changeWordAndColorBlank()">Blank</button>
-<button class="t-btn" @click="changeWordAndColorSpanish()">Spanish</button>
-<button class="t-btn" @click="changeWordAndColorEnglish()">English</button>
+Here's an example:
+
+<button class="t-btn" v-if="!languageBlank" @click="startTestBlank()">Blank</button>
+<button class="t-btn-disabled" v-if="languageBlank" disabled>...</button>
+<button class="t-btn" v-if="!languageEnglish" @click="startTestEnglish()">English</button> 
+<button class="t-btn-disabled" v-if="languageEnglish" disabled>...</button>
 
 <div class="language-test">
   <p v-if="languageBlank" id="wordBlank"></p>
-  <p v-if="languageSpanish" id="wordSpanish"></p>
   <p v-if="languageEnglish" id="wordEnglish"></p>
 </div>
   
@@ -230,37 +215,37 @@ Did ideology control economics the same way religion once did politics? Were peo
 
 Understanding how regular people responded to their evolution being held back is even more confusing. They would watch ideological stories on a screen and call that politics. They would march in circles expecting their lives to improve. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to evolve better solutions to their specific life?
 
-The hard truth is yes; we used to live this way. I must remember that. It's easy to forget humanity once fought our evolution instead of our natural enemy.
+The hard truth is yes, we used to live this way. I must remember that. It's easy to forget humanity once fought our evolution instead of our natural enemy.
 
-Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else making Life on Earth a precious work in progress. For billions of years, every organism has evolved new adaptions to stay ahead of the nasty, brutish, and short life Entropy can cause. Did humanity think we mustn't also be vigilant?
+Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else, making Life on Earth a precious work in progress. For billions of years, every organism has evolved new adaptions to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we mustn't also be vigilant?
 
 Of course we must! 
 
-Yet, we are not biological creatures. Our race, sex, and genetics do not keep us warm or grow our food. Did the caveman start a fire with lasers from his eyes? Did Magellan map the world by flying across oceans? No we are not superheroes. We are all biological vessels for technological evolution.
+Yet, we are not biological creatures. Did the caveman start a fire with lasers from his eyes? Did Magellan map the world by flying across oceans? No, we are not superheroes. Our race, sex, and genetics do not keep us warm or grow our food. We are all biological vessels for technological evolution.
 
-We, humans, outrace Entropy by learning the language of our fate; the free and widespread creation, adoption, and replacement of technologies. Our success has the same requirements as normal evolution. We need unfettered innovation to create a variety of new species. Whichever species is most efficient at harnessing available resources captures a niche and is rewarded with job in Life's battle against Entropy.
+We outrace Entropy by learning the language of our fate; the free and widespread creation, adoption, and replacement of technologies. Our technological evolution has the exact requirements of normal evolution. We need unfettered innovation to create a variety of new species. Whichever species most efficiently harness available resources, capture a niche, and is rewarded with a job in Life's battle against death.
 
-That's why our most important identities are the tools we use. It's our tools, not our biology, that enables us to find a niche and earn a living. The people who help our technological evolution are our allies, those who oppose us are our antagonists.
+That's why our most important identity is the tools we use. Our tools, not our biology, enable us to find a niche and earn a living. Inventors are our heroes, the people who help our technological evolution are our allies, and those who oppose us are our antagonists.
 
-Seeing ourselves as biological beings had us chasing shadows. When we identified with a race, gender, or genetics, it allowed technological powerbrokers to become unchallenged gatekeepers. Distracted by the shadows, we let powerbrokers justify their advantage by spinning ideological stories about their supposed racial, gender, or noble superiority.
+Seeing ourselves as biological beings had us chasing shadows. When we primarily identified with race, gender, or genetics, it allowed technological powerbrokers to become unchallenged gatekeepers. Distracted by the darkness, we let these antagonists justify their advantage by spinning ideological stories about their supposed racial, gender, education, or noble superiority.
 
 We were born free, but everywhere our technological evolution was chained.
 
-Even with all their talented storytelling, antagonists always failed. They proved our survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority fell in the face of technological progress.
+Yet, even with all their talented storytelling, antagonists always failed. They proved human survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority fell in the face of technological progress.
 
-But follow ideology we once did, and it caused us many horrors. With ideological over our eyes, evolution was antagonized daily by gatekeepers. Thus needed adaptations were held back like water behind a dam. Entropy would return in the form of civil wars, depressions, and revolutions. 
+Nonetheless, as antagonists suppressed technological adaptions from being adopted, our progress was needlessly sporadic, uncertain, and violent. Because humans fought evolution, Entropy often returned through recessions, civil wars, depressions, and revolutions. The real battle in human affairs was never about culture or history; it was about who will control society's technology and the right for individuals to evolve better ways of life regardless if that dethrones powerbrokers.
 
-Ironically, the same people who benefitted most from keeping Entropy away, would invite it back by resisting evolution. They ended up merely  setting the stage of their own downfall. Natural selection requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest.
+Ironically, these people who benefitted most from keeping Entropy away would always invite it back by resisting evolution. Antagonists merely set the stage for their downfall and society's suffering. Natural selection requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. 
 
-That's why today we protect every individual's technological evolution as a sacred right and teach it as an absolute obligation.
+That's why today, we protect every individual's technological evolution as a sacred right and teach it as an absolute obligation.
 
-Harnessing technological evolution seems simple to us today, but it took a big change to get here. Galileo taught us science over mythology, Jefferson freedom over servitude, and Darwin evolution over creationism; this book teaches us techvolution over ideology. It's lessons gave us the pathway to healthy politics and economics; democratized technological solutions that let everyone find their niche. We now judge our politics and economics by measuring the health of our technological ecosystem as a biologists does with the natural world.
+Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson freedom over servitude, and Darwin evolution over creationism; this book teaches us techvolution over ideology. Its lessons gave us the pathway to healthy politics and economics; democratized technological solutions that let everyone find their niche. We now judge our politics and economics by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world.
 
 Because of techvolution, today, we no longer have ideologies that encourage extremes and excess. Instead, we practice techvolution that promotes moderation and problem-solving. 
 
-This change brought tremendous progress, yet human nature is not perfect. We still have many problems today. But at least we know to purge antagonism in ourselves and our community whenever it appears. Like knowing a language, once you understand a way of thinking, you automatically see the world differently. Gatekeeping a technology is a false god that, instead of being the source of ever-lasting power, leads to inevitable destruction. 
+This change brought tremendous progress, yet human nature is not perfect. We still have many problems today. But at least we know antagonism in all its forms-racism, sexism, elitism-must be purged in ourselves and our community whenever it appears. Like knowing a language, once you understand a way of thinking, you automatically see the world differently. Better tools are the best weapon against Entropy, but gatekeeping a technology is a false god that, instead of being the source of ever-lasting security, destroys the checks and balances required inside ecosystems, and thus leads to practioners inevitable destruction.
 
-Now I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote the new modes and orders of our technological evolution. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever evolving ecosystem. 
+Now I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's new modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem. 
 
 Now, our kids don't die in ideological wars, suffer economic depressions, and only rarely struggle with psychological torments.
 
@@ -272,7 +257,7 @@ A happy and loving mother
 circa 2083
 
 P.S.
-I shudder to think of our fate had we continued to interpret our reality using ideologies that blamed each other for their shared ineffectiveness to fight back Entropy and give people a happy life.
+I shudder to think of our fate had we continued to interpret our reality using ideologies that blamed each other for their shared ineffectiveness to defeat Entropy and give people a happy life.
 
 ## Preface 
 ## This 2020 Pandemic

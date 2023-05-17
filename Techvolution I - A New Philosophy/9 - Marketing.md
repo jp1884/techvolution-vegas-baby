@@ -39,13 +39,13 @@ Edited for clarity and flow
 
 ---
 
-Are you sick of today's politics? The ranting and raving. The endless half-truths and memes that only serve to entrench already held beliefs. This books feels your pain. It's geared to the moderate middle who want politics to be about rationale problem-solving instead of a blame-fest.
+Are you sick of today's politics? The ranting and raving. The endless half-truths and memes that only serve to entrench already held beliefs. This books feels your pain. It's geared to the moderate middle who want politics to be about rationale problem-solving instead of a self-indulgent blame-fest.
 
 Solving pain is what this book is all about.
 
 To fight pain we humans develop things. We change government policies to direct our resources in better ways. We invent tools to solve our problems with lasting solutions. And, we learn new ideas to expand our minds.
 
-Whatever we develop, we do it to solve our pain points.
+Whatever we develop, we do it to solve our pain.
 
 Martial arts is a great example of this quest. Karate, kickboxing, wrestling, jiu-jitsu, judo, and boxing are our most famous self-defense disciplines. Each teaches techniques to subdue an opponent. When training and competing each discipline creates rules that say only their techniques are allowed; there's no kicking in a boxing match for example.
 
@@ -63,23 +63,23 @@ All of them are.
 
 And none of them. 
 
-And this surprised everyone. Every discipline thought it was the best, but it was only good at its techniques. It seems obvious to say a kickboxer is great a kicking and terrible at wrestling and therefore it's impossible to say one discipline is better than another, but it wasn't.
+And this surprised everyone. Every discipline thought it was the best, but it was only good at its techniques. It seems obvious to say a kickboxer is great a kicking and terrible at wrestling and therefore it's impossible to say one discipline is better than another, but it wasn't obvious.
 
-Every martial artist evolved inside its man-made rules. With isolation, martial art culture, referees, coaches, and pundits didn't need to notice Nature has no rules.
+Because every martial art evolved inside its man-made rules. With isolation, martial art culture, referees, coaches, and pundits didn't need to notice Nature has no rules and the winner of a real right is the person left standing.
 
-The winner of a real right is the person left standing.
+Said another way, many martial arts students were tricked into thinking fights should judged according to rules instead of real-world results. As Ultimate Fighting grew over the 1990s and 2000s, it forced reflection among the world's martial artists.
 
-Said another way, many martial arts students were tricked into thinking fights should judged according to rules instead of real-world results. As ultimate fighting grew over the 1990s and 2000s, it forced reflection among the world's martial artists.
+As said in the opening quote, many people (especially from the least effective disciplines) choose to ignore progress and went back into their sub-cultures. The nice to look at flying kicks, hand slaps, and other techniques with historic roots couldn't admit they weren't effective in combat.
 
-As said in the opening quote, many choose to ignore progress and went back into their sub-cultures. But many people choose progress. As a result, the world of martial arts started to get all mixed up.
+But many people saw Ultimate Fighting and wanted more. As a result, the world of martial arts started to get all mixed up.
 
 Some boxers started to train submissions. Thai kickboxers learned some wrestling. Masters in one discipline started as eager newbies in another. Eventually, after several years of watching, learning, and participating in the cross-pollination of techniques, fighters evolved far beyond their old martial arts teachers and cultures.
 
-With the constant physical pain of failure, and a newly open mind, martial artists adopted the evolution's philosophy of "adapt or die." Human self-defense learned what every lifeform on Earth knows; there is no rule-book.
+With the constant physical pain of failure, and a newly open mind, martial artists adopted evolution's philosophy of "adapt or die." After hundreds of years of development, human self-defense learned what every lifeform on Earth knows; there is no rule-book.
 
 No deer in the world depends on a judge to save it when fighting off a bear, as no bear depends on a pundit declaring it the winner to get its next meal.
 
-Humans we're wrong to think any single fighting discipline or technique is the best martial art. But we are not stupid. Our fault is that we fall prey to good storytelling. 
+Humans we're wrong to think otherwise. No single fighting discipline or technique is the best martial art. But we are not stupid. Our fault is that we fall prey to good storytelling. 
 
 Quality storytelling is why so many devoted boxers, judokas, and other martial artists were totally engrossed into the the history, culture, traditions. Isolated martial art disciplines acted like echo chambers with a reality so complete, it tricked people into thinking it was real. Hence martial artists fought street fights without fear of their opponent's alien techniques.
 
