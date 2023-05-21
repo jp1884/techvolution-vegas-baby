@@ -40,3 +40,7 @@
 - you can't make a dent in climate change, so why do you make a difference in the economy or voting?
 
 - Baby boomers advocating a return to office should be forced to pickup their retirement checks in person every single day of their lives. No kidding. No Netflix either. It's DVD's for you. Again no kidding.
+
+- Boomers, we're coming after your pensions.
+
+- Science is merely the absence of delusion.
