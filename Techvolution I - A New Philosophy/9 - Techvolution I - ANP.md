@@ -217,23 +217,25 @@ Understanding how regular people responded to their evolution being held back is
 
 The hard truth is yes, we used to live this way. I must remember that. It's easy to forget humanity once fought our evolution instead of our natural enemy.
 
-Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else, making Life on Earth a precious work in progress. For billions of years, every organism has evolved new adaptions to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we mustn't also be vigilant?
+Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else making Life on Earth a precious work in progress. For billions of years, every organism has evolved new adaptions to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we mustn't also be vigilant?
 
-Of course we must! Whenever we feel pain, it's proof Entropy is always on our tail.
+Of course we must! Like any animal, Entropy is always on our tail. We feel its pain as a warning to change our ways.
 
 Yet, we are not biological creatures. Did the caveman start a fire with lasers from his eyes? Did explorers map the world by flying across oceans? No, we are not superheroes. Our race, sex, and genetics do not keep us warm or grow our food. We are all biological vessels for technological evolution.
 
-We outrace Entropy by learning the language of our fate; the free and widespread creation, adoption, and replacement of technologies. Our technological evolution has the exact requirements of normal evolution. We need unfettered innovation to create a variety of new technological adaptions. Whichever adaptions most efficiently harness available resources, capture a niche, and are rewarded with a job in Life's holy war against Entropy.
+We outrace Entropy by learning the language of our fate; the free and widespread creation, adoption, and replacement of technologies. Our technological evolution has the exact requirements as the normal evolution that powers everything from slime molds to blue whales. We need unfettered innovation to create a variety of new technological adaptions. Whichever adaptions most efficiently harness available resources, capture a niche, and are rewarded with a job in Life's holy war against Entropy.
 
-That's why our most important identity is the tools we use. Our tools, not our biology, enable us to find a niche and earn a living. But unlike biological animals, we can pick-up and drop tools to become new and improved technological species at will. Innovators are thus our heroes, the people who help our technological evolution are our allies, and those who oppose us are our antagonists.
+That's why our most important identity is the tools we use. Our tools, not our biology, enable us to find a niche and earn a living. And, unlike biological animals, we can pick-up and drop tools to become new and improved technological species throughout our lifetime. Inventors are thus our heroes, the people who help our technological evolution are our allies, and those who oppose us are our antagonists.
 
-Seeing ourselves as biological beings had us chasing shadows. When we primarily identified with race, gender, or genetics, it allowed technological powerbrokers to become unchallenged gatekeepers who skipped the race of evolution because they convinced people to give them resources for free. Distracted by the darkness, we let antagonists justify their advantage by spinning ideological stories about their supposed racial, gender, education, or noble superiority.
+Seeing ourselves as biological beings had us chasing shadows. When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from supervisors to princes, to become gatekeepers if they so desired. These antagonists justified their technological advantage by spinning biological and ideological stories about their supposed racial, gender, education, or noble superiority.
+
+We'd fight back by overcoming these stories, only to see them pop up again. Turns out racism, sexism, elitism are each shadows of antagonism. By chasing ideological shadows, we'd let antagonists keep their advantage and avoid re-running the race of technological evolution when new technology was invented.
 
 We were born free, but everywhere our technological evolution was chained.
 
 Yet, even with all their talented storytelling, antagonists always failed. They proved human survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority fell in the face of technological progress.
 
-That progress was so sporadic and uncertain it allowed Entropy to often catch up. The pain of its attacks was called recessions, civil wars, depressions, and revolutions. The real cause in these human affairs was never about culture, policy, or history; it was the about thwarted evolution; i.e. the stream of adaptions needed to outrun Entropy were stalled because people wouldn't, or couldn't, adopt them.
+That progress was so sporadic and uncertain it allowed Entropy to often catch up. The pain of its attacks was called recessions, civil wars, depressions, and revolutions. The real cause in these human affairs was not failed government policy or unfair history; it was about thwarted evolution; i.e. the stream of adaptions needed to outrun Entropy were stalled because people wouldn't, or couldn't, adopt them.
 
 Ironically, the people who benefitted most from keeping Entropy away would invite it back by antagonizing evolution. Antagonists merely set the stage for society's suffering and their downfall. Natural selection requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. 
 
@@ -243,7 +245,7 @@ Harnessing technological evolution seems simple to us now, but it took a big cha
 
 Because of techvolution, today, we no longer have ideologies that encourage extremes and excess. Instead, we practice techvolution that promotes moderation and problem-solving. 
 
-This change brought tremendous progress, yet human nature is not perfect. We still have many problems today. But at least we know antagonism in all its forms-racism, sexism, elitism-must be purged in ourselves and our community whenever it appears. Like knowing a language, once you understand a way of thinking, you automatically see the world differently. Using better tools are the best weapon against Entropy, but gatekeeping a technology is a false god that, instead of being the source of ever-lasting security people hope for, destroys the checks and balances required inside ecosystems, and thus leads to everyone's inevitable destruction.
+This change brought tremendous progress, yet human nature is not perfect. We still have many problems today. But at least we know antagonism must be purged in ourselves and our community whenever it appears. Like knowing a language, once you understand a way of thinking, you automatically see the world differently. Better tools are the best weapon against Entropy, but gatekeeping a technology is a false god that, instead of passing-on one's genes indefintely, destroys the checks and balances required inside ecosystems, and thus leads to everyone's inevitable destruction.
 
 Now I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's new modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem. 
 
@@ -251,7 +253,7 @@ Now, our kids don't die in ideological wars, suffer economic depressions, and on
 
 Instead, they are busy working hard with other frontline workers under minimal, open, and accountable leadership, using any tool they need. They are interconnected by Nature's currency inside a technological ecosystem adopting new adaptions so quickly its edging us closer to perpetual profit while evolving Life closer to our glorious future among the stars.
 
-Along with their teachers and leaders, I helped my kids find a technological niche. And now I get to watch them achieve their very best. I advise them to re-read this book often to be sure their kids will continue evolving mankind to our highest potential.
+Along with their teachers and leaders, I helped my kids find their technological niche. And now I get to watch them achieve their very best. I advise them to re-read this book often to be sure their kids will continue evolving mankind to our highest potential.
 
 A happy and loving mother
 circa 2083

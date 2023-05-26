@@ -44,3 +44,5 @@
 - Boomers, we're coming after your pensions.
 
 - Science is merely the absence of delusion.
+
+- If a teacher isn't on the cutting edge of learning, then what are they teaching?
