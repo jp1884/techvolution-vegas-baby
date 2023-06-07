@@ -181,7 +181,7 @@ next:
 
 ![Preface Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Contents](/a-new-philosophy/contents) | [Prior Chapter](/a-new-philosophy/start) | [Next Chapter](/a-new-philosophy/introduction)
+[Prior Chapter](/a-new-philosophy/start) | [Next Chapter](/a-new-philosophy/introduction)
 
 ## Foreword
 
@@ -211,15 +211,15 @@ I sometimes forget that _Techvolution_ was as transformative as it was.
 
 Was humanity ever so hamstrung? 
 
-Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Could someone interfere with a worker's evolution and call themselves a boss; and not an antagonist who never faced a customer's review? Why were there so many currencies instead of using Nature's currency? Would teachers demand their students not use the latest technology because those teachers wanted safe jobs for life based on ancient technology? Would a person own a tool and not be allowed to repair it?
+Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Could someone interfere with a worker's evolution and call themselves a boss; and not an antagonist who never faced a worker's or customer's review? Why were there so many currencies instead of using Nature's currency? Would teachers demand their students not use the latest technology because those teachers wanted safe jobs for life based on ancient technology? Would a person own a tool and not be allowed to repair it?
 
 Understanding how regular people responded to their evolution being held back is even more confusing. They would watch ideological stories on a screen and call that politics. They would march in circles expecting their lives to improve. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to evolve better solutions to their specific life?
 
 The hard truth is yes, we used to live this way. I must remember that. It's easy to forget humanity once fought our evolution instead of our natural enemy.
 
-Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else making Life on Earth a precious work in progress. For billions of years, every organism has evolved new adaptions to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we mustn't also be vigilant?
+Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else making Life on Earth a precious work in progress. For billions of years, every organism has evolved to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we mustn't also be vigilant?
 
-Of course we must! Like any animal, Entropy is always on our tail. We feel its pain as a warning to change our ways.
+Of course we must! Like any animal, Entropy is always on our tail; we feel pain as a warning to change our ways to stay a head of its wrath.
 
 Yet, we are not biological creatures. Did the caveman start a fire with lasers from his eyes? Did explorers map the world by flying across oceans? No, we are not superheroes. Our race, sex, and genetics do not keep us warm or grow our food. We are all biological vessels for technological evolution.
 
@@ -227,25 +227,25 @@ We outrace Entropy by learning the language of our fate; the free and widespread
 
 That's why our most important identity is the tools we use. Our tools, not our biology, enable us to find a niche and earn a living. And, unlike biological animals, we can pick-up and drop tools to become new and improved technological species throughout our lifetime. Inventors are thus our heroes, the people who help our technological evolution are our allies, and those who oppose us are our antagonists.
 
-Seeing ourselves as biological beings had us chasing shadows. When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from supervisors to princes, to become gatekeepers if they so desired. These antagonists justified their technological advantage by spinning biological and ideological stories about their supposed racial, gender, education, or noble superiority.
+Seeing ourselves as biological beings had us chasing shadows. When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from princes to supervisors, to become gatekeepers if they so desired. These antagonists justified their technological advantage by spinning ideological stories about their supposed racial, gender, education, or noble superiority.
 
-We'd fight back by overcoming these stories, only to see them pop up again. Turns out racism, sexism, elitism are each shadows of antagonism. By chasing ideological shadows, we'd let antagonists keep their advantage and avoid re-running the race of technological evolution when new technology was invented.
+We'd fight back by overcoming these stories, only to see them pop up again. Turns out racism, sexism, elitism are each shadows of antagonism. By chasing ideological shadows, we'd let antagonists avoid re-running the race of technological evolution we all must throughout our lifetime because new technology is always invented.
 
 We were born free, but everywhere our technological evolution was chained.
 
 Yet, even with all their talented storytelling, antagonists always failed. They proved human survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority fell in the face of technological progress.
 
-That progress was so sporadic and uncertain it allowed Entropy to often catch up. The pain of its attacks was called recessions, civil wars, depressions, and revolutions. The real cause in these human affairs was not failed government policy or unfair history; it was about thwarted evolution; i.e. the stream of adaptions needed to outrun Entropy were stalled because people wouldn't, or couldn't, adopt them.
+That progress wasn't perfect. It was so sporadic and uncertain Entropy often caught up. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. The real cause in these human affairs was not failed government policy or unfair history; it was about thwarted evolution; i.e. the stream of adaptions needed to outrun Entropy were stalled because people wouldn't, or couldn't, adopt them.
 
-Ironically, the people who benefitted most from keeping Entropy away would invite it back by antagonizing evolution. Antagonists merely set the stage for society's suffering and their downfall. Natural selection requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. 
+Ironically, the people who benefitted most from keeping Entropy away would invite it back by antagonizing evolution. Antagonists merely set the stage for society's suffering and their own downfall. Evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. 
 
 That's why today, we protect every individual's technological evolution as a sacred right and teach it as an absolute obligation.
 
-Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson freedom over servitude, and Darwin evolution over creationism; this book teaches us techvolution over ideology. Its lessons grant us the pathway to healthy politics and economics; democratized technological solutions that let everyone find their niche. We now judge our politics and economics by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world.
+Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson freedom over servitude, and Darwin evolution over creationism; this book teaches us techvolution over ideology. The pathway to healthy economics is democratized technological solutions that let everyone find their niche. We judge our success by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world. Healthy politics is ensuring everyone has free access to the tools they need to keep the ecosystem healthy.
 
 Because of techvolution, today, we no longer have ideologies that encourage extremes and excess. Instead, we practice techvolution that promotes moderation and problem-solving. 
 
-This change brought tremendous progress, yet human nature is not perfect. We still have many problems today. But at least we know antagonism must be purged in ourselves and our community whenever it appears. Like knowing a language, once you understand a way of thinking, you automatically see the world differently. Better tools are the best weapon against Entropy, but gatekeeping a technology is a false god that, instead of passing-on one's genes indefintely, destroys the checks and balances required inside ecosystems, and thus leads to everyone's inevitable destruction.
+This change brought tremendous progress, yet human nature is not perfect. We still have many problems today. But at least we know antagonism comes too naturally to us when we authority over others; from teachers to coaches, supervisers to executives. And so it must be purged in ourselves and our community whenever it appears. Like knowing a language, once you understand a way of thinking, you automatically see the world differently. Better tools are the best weapon against Entropy, but gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems, and thus leads to everyone's inevitable destruction.
 
 Now I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's new modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem. 
 
@@ -568,7 +568,7 @@ next:
 
 ![Introduction Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Contents](/a-new-philosophy/contents) | [Prior Chapter](/a-new-philosophy/preface) | [Next Chapter](/a-new-philosophy/prologue)
+[Prior Chapter](/a-new-philosophy/preface) | [Next Chapter](/a-new-philosophy/prologue)
 
 ## Politics
 
@@ -875,7 +875,7 @@ next:
 
 ![Prologue Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Contents](/a-new-philosophy/contents) | [Prior Chapter](/a-new-philosophy/introduction) | [Next Chapter](/a-new-philosophy/act-one)
+[Prior Chapter](/a-new-philosophy/introduction) | [Next Chapter](/a-new-philosophy/act-one)
 
 ## Goal-line
 
@@ -1316,7 +1316,7 @@ next:
 
 ![Act One Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Contents](/a-new-philosophy/contents) | [Prior Chapter](/a-new-philosophy/prologue) | [Next Chapter](/a-new-philosophy/act-two)
+[Prior Chapter](/a-new-philosophy/prologue) | [Next Chapter](/a-new-philosophy/act-two)
 
 ## The Beginning
 
@@ -1543,7 +1543,7 @@ next:
 
 ![Act Two Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Contents](/a-new-philosophy/contents) | [Prior Chapter](/a-new-philosophy/act-one) | [Next Chapter](/a-new-philosophy/intermission)
+[Prior Chapter](/a-new-philosophy/act-one) | [Next Chapter](/a-new-philosophy/intermission)
 
 ## Blowing Up the Death Star with Evolution
 
@@ -1945,7 +1945,7 @@ next:
 
 ![Intermission Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Contents](/a-new-philosophy/contents) | [Prior Chapter](/a-new-philosophy/act-two) | [Next Chapter](/a-new-philosophy/midpoint)
+[Prior Chapter](/a-new-philosophy/act-two) | [Next Chapter](/a-new-philosophy/midpoint)
 
 ## Intermission
 
@@ -2307,7 +2307,7 @@ next:
 
 ![Midpoint Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Contents](/a-new-philosophy/contents) | [Prior Chapter](/a-new-philosophy/intermission) | [Next Chapter](/a-new-philosophy/act-three)
+[Prior Chapter](/a-new-philosophy/intermission) | [Next Chapter](/a-new-philosophy/act-three)
 
 ## Internet Age vs. Industrial Age
 
@@ -2737,7 +2737,7 @@ next:
 
 ![Act Three Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Contents](/a-new-philosophy/contents) | [Prior Chapter](/a-new-philosophy/midpoint) | [Next Chapter](/a-new-philosophy/epilogue)
+[Prior Chapter](/a-new-philosophy/midpoint) | [Next Chapter](/a-new-philosophy/epilogue)
 
 ## Evolution Yea or Nea
 
@@ -3145,7 +3145,7 @@ next:
 
 ![Epilogue Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Contents](/a-new-philosophy/contents) | [Prior Chapter](/a-new-philosophy/act-three) | [Next Chapter](/a-new-philosophy/the-appendices)
+[Prior Chapter](/a-new-philosophy/act-three) | [Next Chapter](/a-new-philosophy/the-appendices)
 
 ## Welcome
 
@@ -3270,7 +3270,7 @@ next:
 
 ![The Appendices Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Contents](/a-new-philosophy/contents) | [Prior Chapter](/a-new-philosophy/epilogue) | [Next Chapter](/a-new-philosophy/building-the-lifestar)
+[Prior Chapter](/a-new-philosophy/epilogue) | [Next Chapter](/a-new-philosophy/building-the-lifestar)
 
 ## Other Stuff
 

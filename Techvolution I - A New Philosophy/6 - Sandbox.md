@@ -33,3 +33,22 @@ All martial art techniques are adaptions. In the natural world, evolution needs 
 The fact we need to realize, is the philosophy's that we believe it must always serve practical ends.
 
 The and that's because we don't realize technique, technology, adaptions is the highest in importance, and philosophy is the servant. Because we don't understand ideology we assume it's paramount. Philosphy must serve a practical purpose.
+
+
+##
+
+The movie Cinderella tells the story of a beautiful, diligent, and kind-hearted country girl who lives with her cruel step family. She is forced to do all the chores and serve her wicked stepmother and her two spoiled stepsisters. She dreams of a better life and a chance to find happiness.
+
+She’s understandably ecstatic when she learns that the King is holding a grand celebration to find a bride for his charming son. Cinderella sews her own dress while anticipating the most wonderful night of her life, but her evil lady forbids her and tears her dress to shreds.
+
+The young country girl is on the verge of tears. But just as despair is about to set in, her fairy godmother appears. With a flick of her wand, she transforms Cinderella’s ragged clothes into a dazzling gown and a pair of sparkling glass slippers. She also magically creates a carriage and a team of horses so that her goddaughter will finally have a night she’ll never forget.
+
+At the party, Cinderella captivates everyone with her beauty and grace, especially the Prince. They glide across the floor and whisper sweet nothings in each other’s ears. Sadly, the spell that gave Cinderella her magical night soon ends, forcing the shy country girl to flee from the ballroom, leaving the Prince with nothing but a glass slipper to remember her by.
+
+The heartbroken Prince is determined to find his true love and orders his men to search the entire kingdom for the girl who can wear the slipper.
+
+They eventually get to Cinderella’s house. But the wicked stepmother has gotten wise that her stepdaughter is the Prince’s heartthrob, and so locks her in the attic. Her friends come to the rescue and steal the key. They get the attic door open in time for Cinderella to ask the Prince’s men if she can try on the glass slipper. Then, just as she’s about to, the evil stepmother smashes the precious mememto.
+
+To which Cinderella responds by revealing she has the other slipper.
+
+And the rest is history.

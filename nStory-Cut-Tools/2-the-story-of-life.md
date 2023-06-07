@@ -31,7 +31,7 @@ How can it not be? It's the ultimate rags-to-riches tale. Our planet was once li
 
 Because Life has a mortal enemy.
 
-That enemy is named entropy, the natural law that says heat always moves from hotter objects to colder objects. Lifeforms must always replenish their energy to say from freezing. More generally, entropy makes everything, from stars to mountains, trees to dogs, eventually, degrade into dust. Entropy can act as quickly as an frigid breeze or as slowly as an ice age, but it's always making the Universe a hard place to live in. Entropy is why Life's rags to riches tale had so many pitfalls, struggles, and five mass extinctions.
+That enemy is named entropy, the natural law that describes how heat always moves from hotter objects to colder objects. Because of entropy Lifeforms must always replenish their energy to say from freezing. More generally, entropy is also the catchall term used to describe how everything, from stars to mountains, trees to dogs, eventually, degrades into dust. Entropy can act as quickly as an frigid breeze or as slowly as an ice age, but it's always making the Universe a hard place to live in. Entropy is what gives Life an endless list of problems to overcome, and why Life's rags to riches tale had so many pitfalls, struggles, and five mass extinctions.
 
 And yet, Life survives!
 

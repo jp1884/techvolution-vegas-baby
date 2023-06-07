@@ -35,6 +35,3 @@ Life on Earth got so advanced It can take a photo of its oasis. That's amazingly
 Technically speaking, the book uses Aristotle's Poetics to better understand Hegelian dialectics to showcase how humanity continues Life's Darwinian evolution via technological innovation. But that's a mouthful, so it's easier to say this book teaches storytelling to explain your society, workplace, and daily life as another tale in the ongoing evolution of Life.
 
 Once you master stories, you'll understand your place on this grand and fragile oasis.
-
-
-
