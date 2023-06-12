@@ -39,15 +39,15 @@ Edited for clarity and flow.
 
 ---
 
-Are you sick of today's politics? The ranting and raving. The endless half-truths and memes that only serve to entrench already held beliefs. This books feels your pain. It's geared to the moderate middle who want politics to be about rational problem-solving instead of entertaining mudslinging.
+Are you sick of today's politics? The ranting and raving. The endless half-truths and memes that only serve to entrench already held beliefs. This books feels your pain. It's geared to the moderate middle who want politics to be about rational problem-solving instead of self-indulgent mudslinging.
 
-Solving pain is what this book is all about.
+Solving your pain is what this book is all about.
 
 To fight pain we humans develop things. We change government policies to direct our resources in better ways. We invent tools to solve our problems with lasting solutions. And, we learn new ideas to expand our minds.
 
 Whatever we develop, we do it to solve our pain.
 
-Martial arts is a great example of this quest. Karate, kickboxing, taekwondo, wrestling, aikido, jiu-jitsu, judo, and boxing are our most popular self-defense disciplines. Each of them teach a set of techniques to subdue an opponent. When fighting each discipline creates rules that say only their techniques are allowed; there's no kicking in a boxing match for example.
+Martial arts is a great example of this quest. Karate, kickboxing, taekwondo, wrestling, aikido, jiu-jitsu, judo, and boxing are our most popular self-defense disciplines. To subdue an opponent each of them teach a set of techniques and creates rules that say only their techniques are allowed; there's no kicking in a boxing match for example.
 
 The world's martial arts co-existed for many years. Inside the disciplines, teachers happily taught their chosen techniques to the next generation. Practioners would train almost everyday. The best students would compete in tournaments, get scholarships, and strive to become world champions. And, believers of a martial art would congregate around experts, tournaments, and the latest news.
 
@@ -65,9 +65,9 @@ All of them are.
 
 And none of them. 
 
-This revelation surprised everyone. The martial arts community assumed one discipline would reign supreme. But that wasn't the case because each discipline had a limited toolbox of techniques. Sometimes those techniques were very effective in a real fight; like some Brazilian jit jitsu's submissions, or wrestling's dominate control. But many techniques like karate's katas, taekwondo's flashy high-kicks, boxing's obesssion with standing toe-to-toe and swinging for a knockout were easily countered and therefore not effective.
+This revelation surprised everyone. The martial arts community assumed one discipline would reign supreme. But that wasn't the case because each discipline had a limited toolbox of techniques. Sometimes those techniques were very effective in a real fight; like Brazilian jit jitsu's submissions, or wrestling's dominate control. But many techniques like karate's katas, taekwondo's flashy high-kicks, boxing's obesssion with standing toe-to-toe and swinging for a knockout were easily countered and therefore not effective.
 
-After several years of fighting no rules martial arts tournaments it became clear that some martial art disciplines were more effective than others, but each had drawbacks and none was complete. As Ultimate Fighting kept on growing in popularity during the 1990s and 2000s, it forced the martial art communities to reflect on their techniques and beliefs.
+After several years of fighting in "no rules" martial arts tournaments it became clear that some martial art disciplines were more effective than others, but each had drawbacks and none was complete. As Ultimate Fighting kept on growing in popularity during the 1990s and 2000s, it forced the martial art communities to reflect on their techniques and beliefs.
 
 As said in the opening quote, many practioners, referees, coaches, and pundits (especially from the least effective disciplines) choose to retreat back into their sub-cultures because they, "didn't like what they were finding out."
 
@@ -89,11 +89,11 @@ Quality storytelling is why so many devoted boxers, judokas, and other practione
 
 Once martial artists opened their minds, they started fighting for themselves. Fighters quickly realized the rules of boxing, kickboxing, wrestling, etc., were excellent for honing their chosen techniques but were also artificial and must be forgotten when preparing for an actual fight.
 
-Thereafter evolution became martial artists instructor and the community entered a brave new world. 
+When fighters customized their techniques to the problems faced in a fight, evolution became their instructor and the community entered a brave new world. 
 
 A world of remarkable progress. With an open mind and access to the world's information on the internet, fighters improved themselves by leaps and bounds every year. Kickboxers became wrestlers, Jiu-jitsu black belts learned high-kicks. The individual disciplines brought their techniques to an open marketplace of ideas.
 
-With evolution as their teacher, these new martial artists started to listen to their bodies instead of other peoples stories. The speed of victories, and the less pain suffered in winning them, was the best judge, teacher, and pundit of what's the best fighting philosophy. The top martial arts trainers were the ones who helped their students adapt faster.
+With evolution as their teacher, these new martial artists started to listen to their bodies instead of other peoples stories. The speed of victories, and the less pain suffered in winning them, was the best judge, teacher, and pundit of what's the best fighting philosophy. The top martial arts trainers were the ones who helped their students adapt faster. Evolution happened during training and even in real-time during a fight.
 
 This new evolutionary fighting philosophy was so successful it created a new way for humans to think of self-defense called mixed-martial arts.
 
@@ -109,25 +109,25 @@ On our journey to improve our politics, here's the lessons we should take from t
 
 Today, in the early 21st century, the middle-class has many systematic problems. Taxes get more confusing. School prepares students less for the job market. Insurance gets more expensive. And there are many more topics trending badly.
 
-We all want better for ourselves and our kids. So we turn to politics to make it happen. The worst things get, the more political people become. Politics to us means a single ideology of "red", "blue", "green" and so on. We back one of these by donating time and money, buying books, following pundits, giving our loyalty, and...
+We all want better for ourselves and our kids. People sellling their politics say they can improve the economy, and so the worst things get, the more sales these ideologues close. As a result, many people today think being "political" means supporting a single ideology of "red", "blue", "green" and so on. With the enthusiasm of a new product in hand, these newly political people back one ideology by donating time and money, buying books, following pundits, going to rallies, and...
 
 We keep getting our asses kicked in our real lives.
 
-Like old martial artists who believed their chosen discipline was the single source of truth, the middle-class keeps losing because we believe in _one_ ideology and wrongfully think our lives are governed by its rulebook.
+Like old martial artists who believed their chosen discipline was the single source of truth, the middle-class keeps losing because we believe in _one_ ideology and wrongfully think our jobs, paychecks, and happiness are governed by its rulebook.
 
-And now our politics is trending badly. Because as our economy keeps getting worse, the more people buy into one ideology's storytelling. We're stuck in a self-reinforcing spiral. It's easy to because many teachers, pundits, commentators are selling us their books, lectures, podcasts and creating a neatly packed reality. But it's an artificial reality, because each ideology is like old martial arts masters telling us stories how their techniques give automatic success before assessing our specific situations.
+As our economy keeps getting worse, the more people buy into one ideology's storytelling. Once inside, people are stuck in a self-reinforcing spiral. Army ants have something similar when a group gets cut off form the main foraging party. In isolation each ant follows the scent trail of the other ant. They go around in a circle until they all die of exhaustion.
 
-And when we continue to feel the pain of real life problems, we're told the other disciplines are not options because they break the ideological rulebook. Or even worse, we're told we must attack other ideologies because the failing economy is _their_ fault.
+Today's political ideologies are in a similar death spiral. Inside echo chambers, teachers, pundits, commentators sell their books, lectures, podcasts to people looking for answers. Just as it for ants, this spiral is hard to break out of beause each ideology is like old martial arts masters telling us stories how their techniques give automatic success. And when we continue to feel the pain of real life problems, we're told the other disciplines are not options because they break the ideological rulebook Or even worse, we're told we must attack other ideologies because the failing economy is _their_ fault.
 
 The truth is, all political ideologies and their economic plans are incomplete.
 
-That's why I wrote _Techvolution_. It helps break any steadfast loyalty you have one ideology and encourages you to realize you're a lifeform in Nature, and thus the only rules and techniques that matter are those that help you reliably solve your specific and unique everyday problems.
+That's why I wrote _Techvolution_. It helps break any steadfast loyalty you have one ideology and encourages you to realize you're a lifeform in Nature, and thus the only rules and techniques that matter are those that help you solve your specific and unique real life problems.
 
-Nature is a street fight, and evolution is the only teacher you need. Whatever solves your pain is the single source of truth.
+Nature is a street fight, and evolution is the only teacher you need.
 
 With this freedom of mind to mix and match ideologies you'll overcome any political or economic problem. Be it a dreadful morning commute, rising climate change, or debilitating government bureaucracy. This new philosophy might be called mixed-ideological politics.
 
-Seeing through today's onslaught of Twitter feeds, cable news, dinner table arguments will be hard. Like old martial arts, there are lots of ideologues weaving tales of their techniques infallibility. To see above today's political noise and salesmanship requires a solid understanding of storytelling. One you got that, you'll avoid being sucked into the false security of ideological echo chambers.
+Seeing through the death spiral of today's ideological echo chambers isn't easy. The storytelling Twitter feeds, cable news, dinner table arguments is persuasive, and even comforting to people scared of the future. To see above today's political noise and salesmanship requires a solid understanding of storytelling. One you got that, you'll avoid being sucked into the false security of ideological echo chambers.
 
 Once you're protected from ideological stortelling, you can adopt mixed-ideological politics. After reading this book, you'll be as powerful in your politics as a mixed-martial artist is in a fight.
 
@@ -139,143 +139,138 @@ Once you're protected from ideological stortelling, you can adopt mixed-ideologi
 
 - Remember we're not erasing ideologies.
 
-It would be nice if humanity created mixed-martial arts first. Spending hundreds of years developing many martial arts techniques where most ultimately proved ineffective seems like a waste. But starting off with mixed-martial arts wasn't possible.
+Before we learn to protect ourselves from the echo chambers, it's important to always keep in mind, we're not erasing ideologies. We're only empowering ourselves to be like mixed-martial artists and mix and match ideologies to solve our problems.
 
-We had to invent lots of options in order to select the best. Only ignorant people think great results don't require lots of wasted effort. Every hit product starts off with a poor first try. Every great book has hundreds of erased pages.
-
-By the same token, to invent martial art techniques needed lots of wasted effort. So while boxing alone isn't too effective againt a trained mixed-martial artist, for humanity to learn excellent punching techniques required we create boxing. Same applies to judo and its bodythrows, jiu-jitsu and its submissions, and so on for every discipline. Being stuck inside an echo chamber enforced by a strict rulebook allowed the practioners inside a martial art to iterate and perfect their selected techniques.
-
-The obstacle mixed-martial arts had to overcome wasn't the rulebooks of martial arts disciplines, but their proclamations about being the single source of truth.
-
-By thinking they had the monopoly on truth, old martial arts had the solution before hearing the problem. Such ignorance is sadly the drawback of having to grow disciplines inside of echo chambers. When those disciplines are exposed to competition, it's natural for those inside to advocate for their skillset. It's also natural to resist realizing those skills are outdated; starting all over is a hard reality for anyone to accept.
-
-The achievement of mixed-martial arts is banishing ignorance from martial arts and replacing it with enlightenment. Anyone who chooses mixed-martial arts knows there are no easy answers because real fights have endless possibilities.
-
-Thus, it's vital to remember there is nothing wrong with all but the extremist of today's ideologies. This book is not trying to erase your preferred ideology anymore than a mixed-martial artist wants to erase boxing. Every sub-culture has something to offer. But none can consider their techniques the single source of truth. Each ideology must be mixed and matched as needed by the problem being solved.
-
-Some may be doubting our politics can follow martial arts and embrace mixed-ideological politics, here's another example of a field adopting a similarly enlighted philosophy.
+Some may be doubting our society can follow martial arts and embrace mixed-ideological politics. I know we can, because we do it in so many areas. Here's another a field which has adopt a similarly enlightened philosophy.
 
 Modern medicine has many disciplines and specialists. Some are based on cutting edge research, others on old school remedies. In the past, when isolated by geography and culture, people would be bound to do what the local healer or doctor prescribed. But today, you would never go to one medical professional, expecting them to be a master of every possible health problem.
 
 There's simply too many human health problems for any one medical discipline to master.
 
-That's why all medical professionals today, from hemopathic healers to neural surgeons, are recognized as sub-disciplines. Each has their own techniques, cultures, and rulebooks, and none say they are the single source of truth. The skill in modern medicine is mixing disciplines to solve a patients pain. While modern medicine certainly isn't perfect (especially its administration), compared to the past medicine filled with leeches, witchcraft, and one-size fits all solutions, its nearly magical. Modern medicine and mixed-martial arts are enlightened because they free their practioners minds to assess the problem before deciding on the best technique.
+That's why all medical professionals today, from hemopathic healers to neural surgeons, are recognized as sub-disciplines with their own techniques, cultures, and rulebooks. Every medical professional is allowed to say its strengths and weaknesses and admit its a niche and not the single source of truth. The skill in practicing modern medicine is mixing disciplines to solve a patients pain as quickly as possible. While modern medicine certainly isn't perfect (especially its administration), it's nearly magical when compared the times when surgeons didn't santize their tools and doctors used one-size fits all solutions like leeches. Modern medicine and mixed-martial arts improved so quickly because they are enlightened and therefore limiting individual fighters, or patients, pain is their ultimate sign of success or failure.
 
-That book does the same for ideology.
+That book does the same for politics.
 
 If a person can train using different fighting techniques from many multiple martial arts disciplines, and doctors can refer their patients to specialists from other disciplines, why can't we also be self-aware enough, and respectful enough, to mix and match ideologies according to their strengths and weaknesses in solving a specific problem?
 
 To enlighten our politics in such a way, we only have to accept no ideology is complete. Like in medicine or Ultimate Fighting, any ideological technique must be evaluated based on evidence of their real-world results and not ideological purity.
 
-Ideological pundits, teachers, and commentators don't want the open competition of evolution. Like the stubborn martial artists who convined their students to never watch mixed-martial arts, ideologues today want to defend there skillsets from natural selection by keeping their echo chambers engaged with great (ideological) storytelling.
+The biggest obstacle to mixed-ideological politics is the same as it was for mixed-martial arts. Ideological pundits, teachers, and commentators see their beliefs and techniques as the single source of truth. Such a outlook can never embrace being just another niche a person could try. To avoid the open competition of natural selection, ideologues ramp up their storytelling.
 
-To escape their spell, we must understand the magic of storytelling.
+To escape their spell of ideological echo chambers, we must understand the magic of great stories.
 
 ## Cinderella
 
 - how to see through echo chambers so we can mix and match them.
 
-The classic fairytale _Cinderella_ a great example of how to hook an audience.
+The classic fairytale _Cinderella_ is a great example of how to hook an audience.
 
-The movie Cinderella tells the story of a beautiful, diligent, and kind-hearted country girl who lives with her cruel step family. She is forced to do all the chores and serve her wicked stepmother and her two spoiled stepsisters. She's made friends with the local animals, but dreams of a better life and a chance to find happiness.
+The movie tells the story of a beautiful, diligent, and kind-hearted country girl who lives with her cruel step family. An unloved orphan, she is forced to do all the chores and serve her wicked stepmother and her two spoiled stepsisters. Cinderell's made friends with the local animals, but dreams of a better life and a chance to find happiness.
 
-She’s ecstatic when she learns that the King is holding a grand celebration to find a bride for his charming son. Cinderella sews her own dress while anticipating the most wonderful night of her life. But her evil family forbids her and tears her dress to shreds.
+She’s ecstatic when she learns that the King is holding a grand celebration to find a bride for his charming son. Cinderella's friends help her sew a dress for what's sure to be the most wonderful night of her life. But her evil family forbids her, mocks her uppitiness, and tears her dress to shreds.
 
-The young country girl is on the verge of tears. But just as despair is about to set in, her fairy godmother appears. With a flick of her wand, she transforms Cinderella’s ragged clothes into a dazzling gown and a pair of sparkling glass slippers. She also magically creates a carriage and a team of horses so that her goddaughter will have a night she’ll never forget.
+The young country girl is on the verge of tears. But just as despair is about to set in, her fairy godmother appears. With a flick of her wand, the godmother transforms Cinderella’s ragged clothes into a dazzling gown and a pair of sparkling glass slippers. The fairy's magic also creates a carriage and a team of horses so that her goddaughter will finally have a night she’ll never forget.
 
-At the party, Cinderella captivates everyone with her beauty and grace, especially the Prince. They glide across the floor and whisper sweet nothings in each other’s ears. Sadly, the spell that gave Cinderella her magical night soon ends, forcing the shy country girl to flee from the ballroom, leaving the Prince with nothing but a glass slipper to remember her by.
+At the party, Cinderella captivates everyone with her beauty and grace, especially the Prince. The two glide across the floor and whisper sweet nothings in each other’s ears. Sadly, the spell that gave Cinderella her magical night ends, forcing the shy orphan to flee from the ballroom, leaving the Prince with nothing but a glass slipper to remember her by.
 
-The heartbroken Prince is determined to find his true love and orders his men to search the entire kingdom for the girl who can wear the slipper.
+The heartbroken Prince is determined to find his true love and orders his men to search the entire kingdom for the girl who fits the slipper.
 
-They eventually get to Cinderella’s house. Sadly, the wicked stepmother has gotten wise that her stepdaughter is the Prince’s heartthrob, and so locks her in the attic. The attack doesn't go unnoticed, because Cinderella's animal friends come to the rescue and steal the key. They get the attic door open in time for Cinderella to ask the Prince’s men if she can try on the glass slipper. Then, just as she’s about to, the evil stepmother smashes the precious mememto.
+They eventually get to Cinderella’s house. The wicked stepmother has gotten wise that her stepdaughter is the Prince’s heartthrob, and so locks her in the attic. Cinderella's friends who come to her rescue and steal the key and open the attic door just in time for Cinderella to ask the Prince’s men if she can try on the glass slipper. Then, just as she’s about to, the evil stepmother smashes the precious mememto.
 
 To which Cinderella responds by revealing she has the other slipper.
 
 And the rest is history.
 
-The movie _Cinderella_ was very popular when it was released. It's popular today. And it'll be popular hundreds of years from now when humanity is (hopefully) travelling the stars. People will always like it because everyone can sympathzie with a well meaning person overcoming obstacles and bullies, to improve their lives.
+The movie _Cinderella_ was very popular when it was released. It's popular today. And it'll be popular hundreds of years from now when humanity is (hopefully) travelling the stars. People will always like it because everyone can sympathize with a warm hearted person overcoming obstacles and bullies, to improve her life
 
-People love stories. We can't get enough of them. A good story lets us experience the trials, lessons, and drama of another person. From horrible brushes with death, to whimsical romances, stories let us experience many lives within our own time on Earth.
+People love stories. We can't get enough of them. A good story lets us experience the trials, lessons, and drama of another person. From horrible brushes with death, to whimsical romances, stories pass on the experience of many lives during our limited time on Earth.
 
-Stories are so powerful because they create a virtual reality. This starts with the props that fill the storyworld with items, from beds to cups, we expect to see. There is music to relay the emotions of characters in the story. The dialogue of the story communicates what each character wants in a easy to understand way. Then there's the villain who earns their name because he likesthe  world the way it is and defends it against change. Next comes the philosophy of the story world. The philosophy dictates the rules everyone in the story is supposed to live by, for example Cinderella is supposed to obey her stepmother; of course she does not. By disrearding the ruling philosphy and envisioning a better world, Cinderella defines what a hero is. And at the top of this story pyramid is the tools; a catchall term for the real objects and levers of power that determine who controls what happens in the story world.
+Stories are so powerful because they create a complete reality. This starts with the props that fill the storyworld with items, from cups to homes, we expect to see in any world. Next, there is music to relay the emotions of characters in the story. The dialogue of the story communicates what each character wants in an easy to understand way. Then there's the villain who earns their title because he likes the world the way it is and defends it against change. Next comes the philosophy of the story world that dictates the rules everyone in the story is presumed to live by, for example Cinderella is a child who's supposed to obey her stepmother. Cinderella defines what a hero is by disrearding the ruling philosphy and envisioning a better world for herself. And at the top of this story pyramid are tools; a catchall term for the real objects, from slippers to Death Stars, that are above being regular props, because they are the levers of power that control what happens in the story world.
 
-The magic of good storytelling is mixing these incredients together. When done properly, the resulting cake will transfix audiences and have them absorb the story like it really happened to them. A good stories are revealed by how much the make their audience jump, scream, cry while watching what is in reality, make believe.
+The magic of good storytelling is mixing these incredients together. When done properly, the resulting "cake" will transfix audiences and arise strong emotions and lasting commitments.
 
 ---
 
-And that brings us back to echo chambers and our desire need to escape ideological ones.
+And that brings us back to echo chambers and our need to escape today's ideological ones.
 
-Dismantling echo chambers starts by realizing the story of _Cinderella_ isn't about a girl controlled by her evil step-family. The classic fairytale is also not about a girl overcoming her evil step-family to marry her prince charming.
+Dismantling echo chambers starts by realizing the story of _Cinderella_ isn't about a girl controlled by her evil step-family. The fairytale is also not about a girl overcoming her evil step-family to marry her prince charming.
 
 The story of _Cinderella_ is about a girl overcoming her step-family using levers of powers, i.e. tools.
 
-If Cinderella doesn't get the horses, carriage, and evening dress from her fairy godmother, she'll never get into the ball. If the Prince didn't find her lost slipper, she'd never see him again. If the imprisoned country girl's allies didn't steal the key to the attic, she'd never get out in time. And if Cinderella didn't have the second glass slipper, her name would be famous as a tragedy instead of a fairytale.
+If Cinderella doesn't get the horses, carriage, and evening dress from her fairy godmother, she'll never get into the ball. If the Prince didn't find her lost slipper, she'd never see him again. If the imprisoned girl's allies didn't steal the key to the attic, she'd never get out in time. And if Cinderella didn't have the second glass slipper, her name would be famous as a tragedy instead of a fairytale.
 
-Cinderella had a problem, and it wasn't that her step-family were terrible people, it was that her terrible step-family controlled important tools and Cinderella didn't.
+Cinderella had a problem, and it wasn't that her step-family were terrible people, it was that her terrible step-family controlled the tools Cinderella needed to improve her life.
 
-The drama of the story is the battle over tools. From the tickets to the royal ball, to the famous glass slipper, _Cinderella_ is a battle over real objects because only real objects can forcibly change the world. It's often assumed heroes are made by speaking up against an injustice. However, taking a stance against evil is how heroes start. But it's with tools that heroes change the world.
-
-Cinderella becomes a hero when she decides to disregard the rules of her stepfamily. She defeats her enemies and changes her fortunes because she wont the battle over tools.
-
-Tools are the lever of power in every story. From _Star Wars_ to _The Matrix_, the villians control the tools and uss the ruling philosophy to justify their control. The hero suffers an injustice that lets them see a problem with the ruling philosophy. The drama of the story ensues as heroe and villains battle to control the tools. The winners implement their own philsophy, and can change the world in their image. 
+Tools are the lever of power in every story. From _Star Wars_ to _The Matrix_, stories start with the villians controlling the tools while using the ruling philosophy to justify their control. The hero suffers an injustice that lets them see a problem with the ruling philosophy. The drama of the story is heroes and villains battling to control the tools needed to change the world. The winner implements their philsophy and changes or reaffirms the world in their image.
 
 If you were to draw our Cinderlla, this is what it looks like.
 
 - Starting Reality - Cinderella is an orphane living with a hateful stepfamily.
 - Hero insight - Cinderella decides to disobey her cruel stepmother and attend the ball.
-- Back and forth drama - Stepmother and Cinderella and their respective friends, battle to control evening ware, invitations, attic keys and glass slippers.
+- Back and forth drama - Cinderella, stepmother, and and their respective allies, battle to control evening ware, invitations, attic keys, glass slippers, and other levers of power.
 - New reality - The winner, Cinderella, marries her prince charming and becomes a princess.
 
-The important thing to remember is that in every story, philosophies are representations of tools. Tools themselves are soulless of course. But how they are applied is not. The second most important thing to learn is that once a story ends, the hero is no longer the main character.
+Notice that how a person uses a lever of power reveals their true philosophy. For example, even though the stepmother says she cares for Cinderella, when she rips Cinderella's gown, locks her in the attic, and destroys the slipper, she's implementing her philosophy with tools, letting us see the ideology of oppression in her heart.
 
-And these are the truths those who sell their philosophy as being the eternal single source of truth don't like.
+To showcase how tools determine one's philosophy, think of Cinderella locked inside the dusty and cramped attic. The Prince's men are looking for her and if she can try on the slipper, her horrible life will change forever. So, what if her friends failed getting the key to her prison but got her a match?
 
-## Each Tool Has Its Own Philosophy
+Now the oppressed girl has some soul searching to do. A match could get the Prince's mens attention, but the philsophy of possibly buring the house down with it, even to earn her freedom, is a different philosophy then getting some friends to steal a key and open a door. The effects our tools have in the world determines the philosophy we believe in.
 
-- echo chambers change with tools, so we automatically mix and match them when we change tools.
+Another important thing to learn from stories is that once they end, the hero and villian are no longer main characters. We don't need to hear from Cinderella after she marries the Prince because "they lived happily ever after". As for the stepmother, she's been defeated and is thus no longer a threat worthy of attention.
 
-Story's power comes from the fact they represent reality so seemlessly. With all the incredients properly portioned, fiction can thus stir our emotions. However, but the same token everything in a story has representation in reality. And we can thus learn from stories how our reality works.
+Tools being levers of power, philosophy being a reflection of tools, and main characters having a limited shelf-life, are the facts those who sell themselves, and their philosophy, as being the eternal single source of truth that will solve all your problems, don't like.
 
-We're already discussed how each martial art has specific techniques. Boxing has punching, wrestling man-control, jiu-jitsu has submissions, and so on. Each of these techniques adapt the human body to perform a task. And in that way martial arts turn the human body into a different tool.
+## Mixed Ideologies Come By Ending Stories
 
-As we just learned, each tool has a philosophy behind it.
+- echo chambers end when we change tools, so we automatically mix and match them when we change tools.
 
-Boxing is about aggresive hitting, punching combinations, and footwork. Jiu-jitsu is about patience, durability, and seizing openings. Wrestling is hard training with endless reptitions. These are the philsophies needed to hardness the respective techniques of each sport.
+>That's hardly a scientific observation Commander.
 
-- Yoga has a different philosophy than weight training. Ballet different than long distance running.
+>Caption, the most elementary and valuable statement in science, the beginning of wisdom is, "I do not know". I do not know what this is sir.
 
-The tools we use determine the philosophy we believe in. This is why old martial arts were so scared of mixed-martial arts. By allowing any technique, mixed-martial arts disabled any possibilility of having an eternal philosophy. And if you sell philosophy instead of real-world results, that's going to hurt your sales numbers.
+_Data_ [Star Trek](https://youtu.be/8eDYVtPwWiM)
 
-Like mixed-martial arts and modern medicine, good stories also freely to mix and match tools.
+When someone is telling you a story, and the hero and villian, and their philosophies, never go into the sunset, you're being sold an echo chamber. You are being told a unnatural story because there is no conclusion; just endless pages waiting to be filled with your time and money.
 
-For example, think of Cinderella locked inside that attic. The prince's men are so close, and if she can just get outside and try on the glass slipper her horrible life will change forever; if her friends can get the key.
+Echo chambers don't like conclusions because they force an assessment on whether the hero, his philosophy, and his chosen tools, succeeded or failed in changing the world. Today's ideologues are not idealic philosopers searching for the meaning of life or asking what is justic. The are salesman, creating urgency so the public buys their chosen tools and techniques.
 
-Whatif they'd failed getting the key, and instead brough back a match?
+Because political ideolgues want their tools to be society's levers of power.
 
-Now the oppressed girl has some soul searching to do. The philsophy behind buring the house down, even to earn her freedom, is a different philosophy then getting some friends to steal a key.
+So, how do you mix and match ideologies?
 
-The beauty of mixed-martial arts, modern medicine, and any field that selects its techniques, tools, applications based on the problem, is they are like a hero in a good story. Always free to use any tool to solve the problem at hand.
+Remember the rules of storytelling. Cinderella didn't change her philosophy, she grab tools that solved her problem and changed her world. So to escape echo chambers, all you must do is change tools based on their effectivenss in solving your problem. At first this will seem weird and disloyal.
 
-To recognize an ideologue and echo chamber, simply to ask their storytellers to change the tool. They won't be able to do it. They sell and earn their money, prestiage, on knowing a limited set of techniques and tools; be it government run social programs or corporate welfare. To let the problem determine the best solution is to threaten their self-image of being leaders.
+It's not.
 
-Regardless. You can leave an echo chamber, by simply being a hero of your own story.
+When a mixed-martial arts enters a boxing gym, he's not being disloyal to his kickboxing coach. When a family doctor refers you to a physiotherapist, she's not disloyal to medical doctors. This is because both fields understand fighters and patients are the heroes, who should use any lever of power to solve their problem.
 
-Be like Cinderella, decide to fight back agaisnt an injustice and find allies to help you seize the tools you need to change the world. 
+Fighters overcome opponents. Patients battle diseases. Cinderella had a stepfamily.
+
+What's your problem? And what tools do you need to solve it.
+
+If you're willing to use any tool, you're free minded. If you think any tool is "off limits", you believe in an echo chamber. As we'll see, evolution has no limits.
+
+Its funny, didn't get "parole", and don't care. I spent my youth unearthing our "non functioning society", and my prime figuring out how to ease the transition to functioning one with rates down implementing Nature's currency. Now people are (finally) talking about inflation and rising cost of living all over the world, which could have propelled rd to be the beacon of frontline innovation needed to transition to a functioning society that I wanted it to be. Instead I met soul crushing antagonism, both active and passive. I dreamt up techvolution to be the narrative that explains all this but can't work up the motivation because the path to actualization is yet another face saying innovation is great "except in my backyard, oh btw Biden/Trump are evil". All the while, technologists aren't ready to protect innovation inside a cohesive narrative because they aren't ready to climb the ladder away from consumerism yet. Ashses to ashses, dust to dust I guess.
 
 ## Evolution
 
 - changing techniques/tools is evolution. changing tools is technological evolution.
 
-So, this introduction was a lot longer than I wanted it to be. Hopefully its been worth it to get to this point.
+We are humans living on Earth. We weren't here first and perhaps won't be the last. Life has survived on this planet without us for billions of years. There's nothing special about us. We survive and thrive according to the same rules as every other species. 
 
-I only needed to write so much because of one hard truth we don't yet know.
+The Universe is a hostile place for us all. It's always changing, falling apart, colliding together, sending out radiation, sucking away all the heat. Life needs warmth, constancy, and so much here. Earth is the one place we know of that's secure enough to support Life.
 
-Mixed-martial arts is training to adapt the human body to perform different fighting techniques. Modern medicine is using technology to educate people to use tools uncover the causes of pain and rememdy it using the tools of a variety of different disciplines.
+Life prospers because it evolves. Evolution looks like.
 
-These human endeavors are enlightened because they disregarded human rules when they get in the way of solving problems. And in the real world and the story world, we solve problems with tools/techniques and other adaptions that can physical alter the world.
+ - Evolution makes options. subdisciplines.
+ - Natural selection picks the best.
 
-And this is how evolution works too. Life continuosly makes new species, it's the most practical ones that survive. Human evolution mimicks natural evolution. Except we do not evolve biologically as animals do. A blue whale will never fly and a monkey will never swin. Humans adapt using tools. The idiots who think humans have enough genetic diversity to explain our differences are all dead or dying. They all fell in the face of technological progress because evolution wait for no one.
+It's up to use to realize when we have enough options to start to select from them freely ala mixed-martial arts and doctors and so forth.
 
-Thus,... Human beings must go from creation. To selection. The first step is where echo chambers form. The second step is when we praise
+...
 
-But unlike Nature, we can select our own options. Once we have an enlightenment philosophy to transition people from being loyal members of a discipline, to selecting from these options based on their effectiveness in solving a problem.
+## Old Age, Ladder Climb, Final Frontier
+
+However, before you can drop and pick up tools willy nilly as the Enlightened representative of Evolution, you must do something truly historic for the good of all humanity.
+
+Climb the ladder...
