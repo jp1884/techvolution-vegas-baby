@@ -3432,3 +3432,97 @@ In all my schooling, reading, discussing, working, in all my life, the ancestors
 And without pain, these people fell no reason to update to the Internet Age. As one sharp observer noted to me, "it's like they've folded their cards."
 
 Whichever society throws away the memories, excuses, and philosphies of the past, and embraces Techvolution and the era of mass-collaboration, will be the winner of the Internet Age. It's their player god who will happily reign supreme for many years in the never ending game of civilization. I smile, thinking of all those bakers, tailors, designers, roofers, engineers, cleaners, repairmen, and maybe even a few majicians, smiling on a new and empowered Main Street.
+
+## Preview
+
+Like mixed-martial arts and modern medicine, good stories also freely to mix and match tools.
+
+For example, think of Cinderella locked inside that attic. The prince's men are so close, and if she can just get outside and try on the glass slipper her horrible life will change forever; if her friends can get the key.
+
+Whatif they'd failed getting the key, and instead brough back a match?
+
+Now the oppressed girl has some soul searching to do. The philsophy behind buring the house down, even to earn her freedom, is a different philosophy then getting some friends to steal a key.
+
+The beauty of mixed-martial arts, modern medicine, and any field that selects its techniques, tools, applications based on the problem, is they are like a hero in a good story. Always free to use any tool to solve the problem at hand.
+
+To recognize an ideologue and echo chamber, simply to ask their storytellers to change the tool. They won't be able to do it. They sell and earn their money, prestiage, on knowing a limited set of techniques and tools; be it government run social programs or corporate welfare. To let the problem determine the best solution is to threaten their self-image of being leaders.
+
+Regardless. You can leave an echo chamber, by simply being a hero of your own story.
+
+Be like Cinderella, decide to fight back agaisnt an injustice and find allies to help you seize the tools you need to change the world. 
+
+## Data
+
+Mr Data, what do your sensors indicate?
+
+Nothing, sir.
+
+Nothing?
+
+Mister Data you must mean that it's empty of matter. There's always some energy form at work.
+
+Sir our sensors are showing this to be absence of everything. It is a void without matter or energy of any kind.
+
+Yet, this void has a form Data. It has height, width.
+
+Perhaps. Perhaps not, sir.
+
+That's hardly a scientific observation commander.
+
+Caption, the most elementary and valuable statement in science, the beginning of wisdom is, "I do not know". I do not know what this is sir.
+
+https://www.youtube.com/watch?v=ZcV25N37-C4
+
+---
+
+We're already discussed how each martial art has specific techniques. Boxing has punching, wrestling man-control, jiu-jitsu has submissions, and so on. Each of these techniques adapt the human body to perform a task. And in that way martial arts turn the human body into a different tool.
+
+As we just learned, each tool has a philosophy behind it.
+
+Boxing is about aggresive hitting, punching combinations, and footwork. Jiu-jitsu is about patience, planning, and seizing openings. Wrestling is hard training with endless reptitions. All sports techniques of their own philosophy. Yoga has a different philosophy than weight training. Ballet different than long distance running. These are the philsophies needed to harness the respective techniques of each sport.
+
+## Echo Chambers Are Needed, Until They're Not
+
+- Remember we're not erasing ideologies.
+
+Before we learn to protect ourselves from the echo chambers, it's important to always keep in mind, we're not erasing ideologies. 
+
+It would be nice if humanity created mixed-martial arts first. Spending hundreds of years developing many martial arts techniques where only a few ultimately proved effective seems like a waste. But starting off with mixed-martial arts wasn't possible.
+
+We had to invent lots of options in order to select the best. Only ignorant people think great results don't require lots of wasted effort. Every hit product starts off with a poor first try. Every great book has thousands of erased pages.
+
+By the same token, to invent martial art techniques needed lots of wasted effort. So while boxing alone isn't too effective againt a trained mixed-martial artist, for humanity to learn excellent punching techniques required we create boxing. Same applies to judo and its bodythrows, jiu-jitsu and its submissions, and so on for every discipline. Being stuck inside an echo chamber enforced by a strict rulebook allowed the practioners inside a martial art to iterate and perfect their selected techniques.
+
+The obstacle mixed-martial arts had to overcome wasn't the rulebooks of martial arts disciplines, but their proclamations about being the single source of truth.
+
+By thinking they had the monopoly on truth, old martial arts had the solution before hearing the problem. Such ignorance is sadly the drawback of having to grow disciplines inside of echo chambers. When those disciplines are exposed to competition, it's natural for those inside to advocate for their skillset. It's also natural to resist realizing those skills are outdated; starting all over is a hard reality for anyone to accept.
+
+The achievement of mixed-martial arts is banishing ignorance from martial arts and replacing it with enlightenment. Anyone who chooses mixed-martial arts knows there are no easy answers because real fights have endless possibilities.
+
+Thus, it's vital to remember there is nothing wrong with all but the extremist of today's ideologies. This book is not trying to erase your preferred ideology anymore than a mixed-martial artist wants to erase boxing. Every sub-culture has something to offer. But none can consider their techniques the single source of truth. Each ideology must be mixed and matched as needed by the problem being solved.
+
+Some may be doubting our politics can follow martial arts and embrace mixed-ideological politics, here's another example of a field adopting a similarly enlighted philosophy.
+
+Modern medicine has many disciplines and specialists. Some are based on cutting edge research, others on old school remedies. In the past, when isolated by geography and culture, people would be bound to do what the local healer or doctor prescribed. But today, you would never go to one medical professional, expecting them to be a master of every possible health problem.
+
+There's simply too many human health problems for any one medical discipline to master.
+
+That's why all medical professionals today, from hemopathic healers to neural surgeons, are recognized as sub-disciplines. Each has their own techniques, cultures, and rulebooks, and none say they are the single source of truth. The skill in modern medicine is mixing disciplines to solve a patients pain. While modern medicine certainly isn't perfect (especially its administration), compared to the past medicine filled with leeches, witchcraft, and one-size fits all solutions, its nearly magical. Modern medicine and mixed-martial arts are enlightened because they free their practioners minds to assess the problem before deciding on the best technique.
+
+That book does the same for ideology.
+
+If a person can train using different fighting techniques from many multiple martial arts disciplines, and doctors can refer their patients to specialists from other disciplines, why can't we also be self-aware enough, and respectful enough, to mix and match ideologies according to their strengths and weaknesses in solving a specific problem?
+
+To enlighten our politics in such a way, we only have to accept no ideology is complete. Like in medicine or Ultimate Fighting, any ideological technique must be evaluated based on evidence of their real-world results and not ideological purity.
+
+Ideological pundits, teachers, and commentators don't want the open competition of evolution. Like the stubborn martial artists who convined their students to never watch mixed-martial arts, ideologues today want to defend there skillsets from natural selection by keeping their echo chambers engaged with great (ideological) storytelling.
+
+To escape their spell, we must understand the magic of storytelling.
+
+---
+
+Mixed-martial arts and modern medicine are enlightened because each embraces conclusions. If a Ultimate fighter loses several fights in a row, he will reevaluate his training, learn new skills, and perhaps change coaches. If a sick patient isn't getting better, she will assess her doctors and look for new remedies. Not every doctor or trainer practices these ethics of course, but those who don't are going against the grain because the culture of mixed-martial arts and modern medicine encourages patients and fighters to follow the evidence to find better solutions.
+
+Because their fields are enlightened, mixed-martial artists and doctors can say "I don't know." None has to sell themselves as being the single source of truth.  Echo chambers can never say "I don't know." Doing so breaks the illustion and fractures the echo chamber.
+
+---

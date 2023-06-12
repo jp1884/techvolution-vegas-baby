@@ -46,3 +46,7 @@
 - Science is merely the absence of delusion.
 
 - If a teacher isn't on the cutting edge of learning, then what are they teaching?
+
+- We're like ants in a death spiral. Industrial Age people with nowhere to go but round and round until it all ends. <https://www.instagram.com/p/CtRTVs7Atnk/>
+
+- Dinosaurs didn't go off into the sunset. Neither will boomers, or the rest of us.
