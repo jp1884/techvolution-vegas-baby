@@ -3526,3 +3526,9 @@ Mixed-martial arts and modern medicine are enlightened because each embraces con
 Because their fields are enlightened, mixed-martial artists and doctors can say "I don't know." None has to sell themselves as being the single source of truth.  Echo chambers can never say "I don't know." Doing so breaks the illustion and fractures the echo chamber.
 
 ---
+
+>That's hardly a scientific observation Commander.
+
+>Caption, the most elementary and valuable statement in science, the beginning of wisdom is, "I do not know". I do not know what this is sir.
+
+_Lt. Commander Data_ [Star Trek](https://youtu.be/8eDYVtPwWiM)
