@@ -3532,3 +3532,12 @@ Because their fields are enlightened, mixed-martial artists and doctors can say 
 >Caption, the most elementary and valuable statement in science, the beginning of wisdom is, "I do not know". I do not know what this is sir.
 
 _Lt. Commander Data_ [Star Trek](https://youtu.be/8eDYVtPwWiM)
+
+---
+
+>Not always, Scar. One day, it’ll be my son who rules. Simba will be your king.”
+_Mufasa_ 
+
+[The Lion King](https://www.quoteambition.com/the-lion-king-quotes/)
+
+---
