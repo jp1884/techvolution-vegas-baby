@@ -258,7 +258,7 @@ Fighters overcome opponents. Patients battle diseases. Scientists research natur
 
 What's your problem? And what tools do you need to solve it.
 
-If you're willing to use any tool, from a handgun to a solar panel, you're on the way to mixed-ideological politics. If you think any tool is "off limits", you're at least partially stuck inside an echo chamber. You should want the freedom to choose. Not only because it's proven so succesful for other humans, but because it makes you a hero of evolution.
+If you're willing to consider any tool, from a handgun to a solar panel, to solve your problem, you're on the way to mixed-ideological politics. If you think any tool is "off limits", you're at least partially stuck inside an echo chamber. You should want the freedom to choose. Not only because it's proven so succesful in modern medicine and mixed-martial arts, but because it makes you a hero of evolution.
 
 And evolution has no limits, respects no rules, and declares no kings.
 
@@ -266,13 +266,13 @@ And evolution has no limits, respects no rules, and declares no kings.
 
 - changing techniques/tools is evolution. changing tools is technological evolution.
 
-We weren't the first species to live on Earth and we probably won't be the last. Life has survived billions of years without depending on any one species. There's nothing special about any creature. We each survive and thrive according to the same rules of evolution.
+We weren't the first species to live on Earth and we probably won't be the last. Life has survived billions of years without depending on any species. There's nothing special about any creature. We each survive and thrive according to the same laws of evolution.
 
-Life needs evolution because the Universe is a hostile place. It's always changing; mountains fall apart, volcanoes erupt, stars emit radiation, heat is lost, waves wash away shorelines. To respond to the ever changing environment, Life must evolve a never ending stream of new species.
+Life needs evolution because the Universe is a hostile place that's. It's always changing; mountains fall apart, volcanoes erupt, stars emit radiation, heat is lost, waves wash away shorelines. To respond to the ever changing environment, Life must evolve a never ending stream of new species.
 
-Those who survive do so because their combination of attributes gives them an edge. But, as the Universe inevitably changes, some traits lose their advantage. Thus, evolution is a constant race to harvest resources faster than the Universe is taking them away. Individuals bring their all everyday, because none knows if their list of adaptions will win enough races to stay alive.
+Those who survive do so because their combination of attributes gives them an edge. But, as the Universe inevitably changes, some traits lose their advantage. Thus, while evolution is a constant race to harvest resources as efficiently as possible, no one ever knows if their list of adaptions are good enough to keep them alive. That's why pain hurts so much; Life is telling individuals to change their behavior and try something else before it's too late.
 
-Evolution has these requirements:
+Evolution has these laws:
 
  - No species survives forever.
  - All lifeforms have a common ancestry.
@@ -281,70 +281,76 @@ Evolution has these requirements:
  - Natural selection determines which species lives on.
  - Mayr pg. 86
 
-These laws of evolution dictate the winner of every race. The first sprint started when a few amino acids combined to form the first cells 3.6 billion years ago. Since that moment, Life has continually evolved new species. Each based on the one prior, but each removing and/or adding traits to hopefully find an edge. And the race isn't alway against each other. Creatures also race themselves to specialize their traits enough to capture a niche no one else can harvest.
+These laws oversee every evolutionary race. The first sprint started after a few amino acids combined to form the first cells 3.6 billion years ago. That moment gave Life its start. Since then evolution has continually created new species. Each based on the one prior, but each removing and/or adding traits hoping to find an edge. The new trait could mean getting bigger, faster, stronger to outcompete another creature. Or, the new trait could be further specialization to hopefully find a niche no one else has, such as polar bears hunting seals on a frozen ecosystem.
 
-Evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. The best way to test every species is with ecosystems. Every scavenger, predator, herbivore, and omnivore is kept racing by a system of checks and balances; if one lifeform or species falls behind, there's always another to take its place.
-
-In nature, no lifeform has inherited power over another, and every species is free to evolve, win the next race, and keep itself alive.
+Regardless what new adaption an organism tries, evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. The best way to continually test species is with ecosystems. By putting creatures inside a shared environment, there are always checks and balances. When any scavenger, predator, herbivore, and omnivore falls behind, Life is ready to create individual or species to take its place.
 
 ![Elephant Speciation](/assets/speciation-elephants.png)
 _Here's one example of how a species evolve. Mayr pg 176._
 
-Although evolution has given rise to many species over billions of years, the history pages are well organized. Because Life works so hard to adapt to its surroundings, we can track evolution with Earth's geological changes (p.58). Each segment, from the Jurassic to the Paleozoic, has different characteristic like concentration of oxygen in the air, water in the oceans, ice in the poles. The many periods, epochs, and ages of Earth's geography serve as chapters in the story.
+Although evolution has given rise to countless species over billions of years, the story of Life is well organized. That's because Life works so hard to adapt to its surroundings, so we can easily track evolution using Earth's geological changes (p.58). Each period, epoch, and age of Earth's geography, from the Jurassic to the Paleozoic, has different characteristic like concentration of oxygen in the air, water in the oceans, ice in the poles. These changes  required new species and thus serve as chapters in the story of Life.
 
-While Life's evolution was relatively seemless betwen each chapter, species often had agonzing endings. Every single time Earth's geology changed was like a climatic conclusion asking if the species' list of adaptations were good enough. The few who passed the test lived on, while the majority of adaptations went round in circles fighting their inevitable extinction; their existence only remembered as fossils to hopefully be uncovered one day.
+While Life's evolution was relatively seemless betwen each chapter, species often had agonzing endings. Every single time Earth's geology changed was like a climatic conclusion asking if a individual's list of adaptations were needed in the changed enviroment. The few who passed the test climbed the ladder to the next age, while the majority of adaptations went round in circles, stubbornly fighting their inevitable extinction; their existence only remembered as fossils to maybe be uncovered one day.
 
-For all the complexity of Life, this short summary is the essence of evolution. Once you understand Life creates many species, each that only master a few traits, and each that must always win the race or be replaced, you appreciate how life has prospered on Earth for so long.
+![Evolutionary Spiral](/assets/speciation-elephants.png)
+_The Evolutionary Spiral in the [history of Life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life). From the perspective of Life it's seemless, but for lifeforms there are often tragic endings._
 
-And, now we come full circle to understanding the doom of echo-chambers that disregard effectivness to keep their old techniques and tools alive. Why there are no true kings in nature. And, why modern-medicine, mixed-martial arts, and even Cinderella were so successful.
+This summary misses the details of evolution. But the essence is here, which is Life must adapt to Earth's ever changing environment. The faster the better, no interference is justifiable, innovate or die. If all the resources on Earth had a body, evolution is the tailor creating custom lifeforms to harvest each one. Constant unfettered evolution is the only reason why Earth isn't just another rock revolving a star with no one to notice how beautiful the Universe is.
 
-They harness evolution by using whatever adaption is best to solve their problem.
+And, now we understand why echo-chambers are doomed. They presume their adaptation can be eternal. They commit themselves to one tool and antagonize the evolution of new adaptions by telling stories of their tool's supposed perfection. Evolution of course doesn't care what we tell ourselves. Leaving those inside echo chambers to reconile the stories they passionately believe in against the pain they feel in the real world as they walk around in circles unable to harvest enough resources to be happy and healthy.
 
-With one difference. Human evolution, and our adaptations, aren't biological.
+Evolution is our way out. Unfettered innovation explains why modern-medicine, mixed-martial arts, and even characters like Cinderella are so successful. They each adapt to their situation by examining their problem before deciding on a technique or tool. With this freedom of mind, they can try any tool until they've solved their problem, and thereby harness the power of evolution.
+
+With one big difference. Human evolution, and our adaptations, aren't biological.
 
 ## Old Age, Ladder Climb, Final Frontier
 
 - We live on thes same evolutionary tree as biology, but with technology.
+
+- The whole trick of evolution is finding the perfect adaptation. And no one can predict what that is. You just must respond to failure with another adaption as quickly as possible. The rest, like caring about gender, is all noise.
 
 >Not always, Scar. One day, it’ll be my son who rules. Simba will be your king.”
 _Mufasa_ 
 
 [The Lion King](https://www.quoteambition.com/the-lion-king-quotes/)
 
-The Boston Symphony had a problem. There was a lot of men in their ranks. That wasn't the problem. The problem was they didn't know why. There were plenty of talented female musicians auditioning, yet not many were making the cut.
+The Boston Symphony had a problem. There was a lot of men in their ranks. That wasn't the problem though. The problem was they didn't know why. There were plenty of talented female musicians auditioning, yet not many were making the cut.
 
-You might be thinking, well make it a blind audition. But it was blind, no judge could see the musician perform. Now you might be thinking, well, I guess that's it, the males were just better.
+You might be thinking, make the audition blind. But it already was, no judge could see the musicians perform. Now you might be thinking, well, I guess that's it, the males were just better.
 
-But, they tried something else. The judges asked the musicians to take their shoes off before walking out to the audition floor. Now the choosers couldn't see them, nor hear their shoes.
+Instead of accepting that observation, the symphony tried something else. The judges asked the musicians to take their shoes off before walking to the audition stage. Now the judges couldn't see them, nor hear their shoes.
 
 And within a few years, the symphony was about equal men and women.
 
-The sounds of the shoes was triggering a bias in the both male and female judges. By removing everything but the music, they got a better product.
+The sounds of the shoes was triggering a bias in the both male and female judges. By removing everything but the music, they heard only the music, and got a better product for their audiences.
 
-That's a good little story. As we learned above, humans love stories. It's how we make sense of the world and pass-on knowledge. Evolution is a great story. A constant test of who will live and die. We understand the story of Life so well.
+That's a good little story. As we learned above, humans love stories. It's how we make sense of the world and pass-on our knowledge.
 
-Yet, that is also our problem. Stories come so naturally to us. We can understand cause and effect. But that doesn't mean we're good at it. We can just as easily belief in a false story, as the judges who heard footsteps instead of music.
+Yet, that is also our problem. We can understand cause and effect so easily that stories come naturally to us. But that doesn't mean we're good at reasoning which stories are real or fake. We can just as easily believe in a false story, as did the judges who heard footsteps instead of music.
 
-We tell ourselves stories like _The Lion King_, where Simba is set to inherit the territory and pride of his father Mufasa, much to the chagrin of Scar, Mufasa's conniving younger brother. No other animal on the planet could make any sense of this story. The idea of a person inheriting victory in the race of evolution is impossible; nature declares no kings.
+The whole trick of evolution is finding the perfect adaptation. And no one can predict what that is. You just must respond to failure with another adaption as quickly as possible. The rest, like caring about gender, is all noise.
+
+But with our inability to tell the difference between real and fake stories, we believe in and listen to stories like _The Lion King_, where Simba is set to inherit the territory and pride of his father Mufasa, much to the chagrin of Scar, Mufasa's conniving brother.
+
+No other animal on the planet could make any sense of this story. The idea of a person inheriting a gold medal in the race of evolution is impossible; nature declares no kings.
 
 And this is our problem. It's the problem of all politics.
 
-We are lifeforms in nature. When we invent new tools, we continue life's evolution. But with technology instead of biology. There is effectively no difference. Life wants adaptions that can harvest resources and procreate and doesn't care what the material composition is anymore than a composer cares what gender his violinist is.
+We are lifeforms in nature. When we invent new tools, we continue Life's evolution, but with technology instead of biology. There is effectively no difference. Life wants adaptations that can harvest resources and procreate and doesn't care what the material composition is anymore than a composer cares what gender his violinist is.
 
 Our technological evolution follows the same laws as regular evolution.
 
  - No technology survives forever.
- - All technology have a common ancestry.
+ - All technology has a common ancestry.
  - Evolution of new tools is gradual.
  - The number of tools always multiplies to fill niches.
  - Natural selection determines which tools lives on.
- - Mayr pg. 86
 
 Our story evolution requires innovators who take on the burdeun of creating the endless new species Life needs to stay alive. This is what happened during the creation of judo, boxing, wrestling and the other martial arts. These are all distinct species that master a certain technique.
 
-Once there are enough "species", there ecosystem is full. And it's time to harness evolution with a philosophy that teaches humans to anaylze the situation and select the best technique to solve the problem being encountered. That's what mixed-martial arts is, is evolution in the hands of its practioners.
+Once there are enough "species", they can fill an ecosystem, and it's time to harness evolution with a philosophy that teaches humans to anaylze the situation and select the best technique to solve the problem being encountered. That's what mixed-martial arts is, it evolution in the minds of its practioners.
 
-But as we found out, evolution isn't always met with open arms. Instead we more often get stories like _The Lion King_, about how an individual is beyond evolution and shouldn't have to run the daily race like everyone else. This was the struggle mixed-martial arts had to overcome, the ceaseless stories...
+But as we found out, evolution isn't always met with open arms. Instead we more often get stories like _The Lion King_, about how an individual and his tools is beyond evolution and shouldn't have to run the daily race like everyone else. This was the struggle mixed-martial arts had to overcome, the ceaseless stories...
 
 Yet, think of this. In all the world's ecosystems, no two species speaks the same language, yet everyone works together to keep Life alive. Bees and fruit trees don't talk, yet together they arrange the time to flower and harvest the pollen....
 
