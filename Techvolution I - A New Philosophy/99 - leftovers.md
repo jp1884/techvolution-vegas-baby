@@ -3538,6 +3538,59 @@ _Lt. Commander Data_ [Star Trek](https://youtu.be/8eDYVtPwWiM)
 >Not always, Scar. One day, it’ll be my son who rules. Simba will be your king.”
 _Mufasa_ 
 
-[The Lion King](https://www.quoteambition.com/the-lion-king-quotes/)
+[_The Lion King_](https://www.quoteambition.com/the-lion-king-quotes/)
+
+Most kids grow up watching movies. Fairytales like _Cinderella_, _Toy Story_, and the _Lion King_ fill up many childhood days. These are of course fairytales but they contain some truths about ourselves. We've discussed a few here.
+
+Stories are about a hero working hard to solve a problem. Heroes have an insight that the prevailing philosophy is wrong. When working to change it, an antagonist defends the current way of life. They two sides find allies to help them seize levers of power. The winner gets to remake, or reaffirm, the world in their image.
+
+_The Lion King_ follows this mold. Mufasa is the head of a pride of lions. He teaches his son Simba the wisdom needed to be a leader, much to the chagrin of Scar, Mufasa's conniving brother. Scar responds by murdering Mufasa and framing Simba, who flees in shame. Scar doesn't turn out to be a wise leader. He overhunts the land and causes hunger and despair among the pride. Simba eventually lion's up and returns to reclaim his land and pride. After a climatic battle, he kills scar, and reclaims his birthright as the lion king.
+
+The Lion King is a good story. As we learned above, humans love stories. It's how we make sense of the world and pass-on our knowledge.
+
+Yet, that is also our problem. We can understand cause and effect so easily that stories come naturally to us. But that doesn't mean we're good at reasoning which stories are real or fake. We can just as easily believe in a false story. Because no other animal could make any sense  of the lion king.
+
+Birthright? Being born into nobility. Holding it against a lion for trying to be head of a pride so he can procreate? Birthrights don't exist in nature. No adaption can expect to be handed anything. Everyday is a race. And everyone, except worker terminates, bees and ants, are expected to do everything possible to procreate.
+
+So, why does the Lion King resignate on us it makes no sense to the rest of the animal kingdom?
+
+The whole trick of evolution is finding the perfect adaptation. And no one can predict what that is. You just must respond to failure with another adaption as quickly as possible. The rest, like caring about gender, is all noise.
+
+---
+
+The Boston Symphony had a problem. There was a lot of men in their ranks. That wasn't the problem though. The problem was they didn't know why. There were plenty of talented female musicians auditioning, yet not many were making the cut.
+
+You might be thinking, make the audition blind. But it already was, no judge could see the musicians perform. Now you might be thinking, well, I guess that's it, the males were just better.
+
+Instead of accepting that observation, the symphony tried something else. The judges asked the musicians to take their shoes off before walking to the audition stage. Now the judges couldn't see them, nor hear their shoes.
+
+And within a few years, the symphony was about equal men and women.
+
+The sounds of the shoes was triggering a bias in the both male and female judges. By removing everything but the music, they heard only the music, and got a better product for their audiences.
+
+That's a good little story. As we learned above, humans love stories. It's how we make sense of the world and pass-on our knowledge.
+
+Yet, that is also our problem. We can understand cause and effect so easily that stories come naturally to us. But that doesn't mean we're good at reasoning which stories are real or fake. We can just as easily believe in a false story, as did the judges who heard footsteps instead of music.
+
+The whole trick of evolution is finding the perfect adaptation. And no one can predict what that is. You just must respond to failure with another adaption as quickly as possible. The rest, like caring about gender, is all noise.
+
+---
+Yet, think of this. In all the world's ecosystems, no two species speaks the same language, yet everyone works together to keep Life alive. Bees and fruit trees don't talk, yet together they arrange the time to flower and harvest the pollen....
+
+Species communicate not with words, but with tools and products. Things that each can make that help the other harness resources better. When Cinderella was locked in the attic, she didn't need to tell her friends what she needed, but her problem defined her solution; ie. the key to the door.
+
+But, what if you can't make a helpful product? In nature, species who can't cut it are automatically erased from the list of competitors. But no so in humans. The victors of the last race aren't (yet) required to re-run it again the next time. Instead, they can turn humans ability to reason against us, but telling a story of The Lion King.
+
+That's why we need mixed-ideological politics.
+
+---
+
+And we change our psychology by learning new things, which often times, means hearing and believing in a story. A few thousand people surfed in 1958. After a movie called _Gidgit_ was released, there were millions of people riding the waves. When _Jaws_ was released, most everyone started to fear shark attacks. Today millions of people buy iPhones, watch shows, change their political opinions because stories transmit information so easily we are often at a storytellers mercy.
+
+---
+
+The Cambrian explosion was about 538.8 million years ago when practically all major animal linakges started appearing in the fossil record. It resulted in the divergence of most modern metazoan phyla. The event was accompanied by major diversification in other groups of organisms as well.
+
+Before early Cambrian diversification, most organisms were relatively simple, composed of individual cells, or small multicellular organisms, occasionally organized into colonies. As the rate of diversification subsequently accelerated, the variety of life became much more complex, and began to resemble that of today.
 
 ---
