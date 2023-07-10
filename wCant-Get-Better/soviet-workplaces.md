@@ -2,6 +2,7 @@
 ## #5 - Your Job Can't Get Better 
 
 <https://qr.ae/pr0z53>
+<https://qr.ae/pygu5J>
 
 Do you like your job? Do customer interactions, coworkers, and paychecks all come together and make you feel appreciated, valued, and wealthy? While I'll never know if you like your job, many Americans don't. So many walked away recently that we called it the Great Resignation.
 

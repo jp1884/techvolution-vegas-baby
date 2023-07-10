@@ -14,6 +14,18 @@ next:
 
 ---
 
+<style>
+</style>
+
+<script setup>
+  // rd egg
+  import { ref } from 'vue'
+  let rdegg=ref(false)
+  // carousel
+  import Flipper1970 from "./components/Flipper1970.vue";
+
+</script>
+
 # Techvolution: A New Philosophy - Preview
 
 ![Preface](/assets/problem-solving-philosophy.png)
@@ -22,13 +34,33 @@ by Johnny
 
 May 2023 (work in progress, the next chapters are more polished)
 
+(This intro is a work in progress. It's a summary of [_Story Cut Tools_](https://storycuttools.netlify.app/) and is written to explain why the middle-class needs to believe in a new political philosophy. The next chapters in the book are completed.)
+
 [Homepage](/) | [Techvolution: A New Philosophy](/a-new-philosophy/start)
 
 ## Doom and Gloom
 
-The paranoid are right. Aliens are real. The government is a lie. 
+As you read this, there is a Jaguar stalking a caymen, an ant colony raiding its neighbor, a albatross gliding overtop the Antartic Ocean, and a trillion more lifeforms living their lives.
 
-- You can either pick a side, or take a try...
+Each battling for survival, doing their best because every day is game day in the wild.
+
+Many animals are struggling. Not only because Nature has little remorse, but because the environment is changing fast. Among other changes, forests, greenfields, ice caps are disappearing. That means lifeforms like the polar bear have increasingly unhelpful adaptations. They still have life's burning desire to survive and procreate, but their form of white coat, huge bulk, and love of flesh is set in stone and losing it's once mighty advantage to hunt seals in the pack ice.
+
+What would you tell a hurting polar bear? 
+
+Wouldn't it be nice to explain evolution, i.e. the change in heritable characteristics of individuals over successive generations. These characteristics are the expressions of genes, which are passed on from parent to offspring during reproduction. The animals that harvest the most calories, and suffer the least pain, live on, pass on their genes, thereby slowly adapt the forms of life to the opportunities given in the environment.
+
+Instead of blaming another, or believing in plots, what if the polar bear knew it's place in the story of evolution? It would no longer need to search for calories, but could assess its fate. Perhaps prosperity is best south. Perhaps hibernation needs to be longer, or polar bears should hunt in packs. Whatever new form evolution will eventually find, the polar bear can work towards it.
+
+At least by understanding how well its adaptations can harvest local resources determines, the polar bear wouldn't feel so frustrated as it walks in circles struggling to find resources. What if you could teach all animals all about evolution. Wouldn't it ease their mind to know why Nature is the way it is. Why they hunger, why they die, why only some may live on.
+
+Well, we know all about other animals because we have perspective. It's easy for people in a valley to see those on the mountain, but do we know ourselves like we know animals? We know their fate, but given how much anger, angst, we have in ourselves, the answer is no.
+
+So, this book will teach you about our evolution, it'll be like a polar bear understanding why the is melting, why it's hungry, and what it needs to do to evolve and survive.
+
+The answer is the same for us as it is for the polar bear. Life is constantly changing, thus you're life is always behind the times, and life is looking for someone new.
+
+We think we understand that, but there's so many stories in the way, we lose our perspective on it.
 
 ## Mixed Ideological Politics
 
@@ -272,11 +304,11 @@ And evolution has no limits, respects no rules, and doesn't care about your ideo
 
 - changing techniques/tools is evolution. changing tools is technological evolution.
 
-We weren't the first species to live on Earth and we probably won't be the last. Life has survived billions of years without depending on any species. There's nothing special about any creature. We each survive and thrive according to the same laws of evolution.
+We weren't the first species to live on Earth and probably won't be the last. Life has survived billions of years without depending on any species. There's nothing special about any creature. We each survive and thrive according to the same laws of evolution.
 
-Life needs evolution because the Universe is a hostile place that's. It's always changing; mountains fall apart, volcanoes erupt, stars emit radiation, heat is lost, waves wash away shorelines. To respond to the ever changing environment, Life must evolve a never ending stream of new species.
+Life needs evolution because the Universe is a hostile place that's. It's constantly changing; mountains fall apart, volcanoes erupt, stars emit radiation, heat is lost, and waves wash away shorelines. To respond to the ever-changing environment, Life must evolve a never-ending stream of new species that can find enough energy to procreate (Mayr 43).
 
-Those who survive do so because their combination of attributes gives them an edge. But, as the Universe inevitably changes, some traits lose their advantage. Thus, while evolution is a constant race to harvest resources more efficiently then the next guy, no one ever knows if their list of adaptions are good enough to keep them alive. That's why pain hurts so much; Life is telling individuals to change their behavior and try something else before it's too late.
+Those who survive do so because their combination of attributes gives them an edge. But, as the Universe inevitably changes, some traits lose their advantage. Thus, while evolution is a constant race to harvest resources more efficiently than the next guy, no one ever knows if their list of adaptions is good enough to keep them alive. That's why pain hurts so much; it's Life's way of telling individuals to change their behavior and try something else before it's too late.
 
 Evolution has these laws:
 
@@ -284,30 +316,30 @@ Evolution has these laws:
  - All lifeforms have a common ancestry.
  - Evolution of new species is gradual.
  - The number of species always multiplies to fill niches.
- - Natural selection determines which species lives on.
+ - Natural selection determines which species lives.
  - Mayr pg. 86
 
-These laws oversee every evolutionary race. The first sprint started after a few amino acids combined to form the first cells 3.6 billion years ago. Since then evolution has continually created new species. Each based on the one prior, but each removing and/or adding traits. The new adaptation could mean getting bigger, faster, stronger to hopefully outcompete another creature. Or, the new trait could be further specialization to find a niche no one else has, such as polar bears being the only predators in a frozen ecosystem.
+These laws oversee every evolutionary race. The first sprint started after a few amino acids combined to form the first cells 3.6 billion years ago. Since then, evolution has continually created new species. Each is based on the one prior, but each removes or adds traits. The latest adaptation could mean getting bigger, faster, and stronger to hopefully outcompete another creature. Or, the new attribute could be further specialized to find a niche no one else has, such as polar bears being the only predators in a frozen ecosystem.
 
-Regardless what trait an organism tries, evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. The best way to continually test species is with ecosystems. By putting creatures inside a shared environment, there are checks and balances. So, when any scavenger, predator, herbivore, and omnivore falls behind, Life is ready to create a new individual or species to take its place.
+Regardless of what trait an organism tries, evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. The best way to continually test species is with ecosystems. By putting creatures inside a shared environment, there are checks and balances. So, when any scavenger, predator, herbivore, or omnivore falls behind, Life is ready to create a new individual or species to take its place.
 
 ![Elephant Speciation](/assets/speciation-elephants.png)
-_Here's one example of how a species evolve. Mayr pg 176._
+_Here's one example of how a species evolves. Mayr pg 176._
 
-Although evolution has given rise to countless species over billions of years, the story of Life is well organized. That's because Life works so hard to adapt to its surroundings, so we can easily track evolution using Earth's geological changes. Each period, epoch, and age of Earth's geography, from the Jurassic to the Paleozoic, has different characteristics like concentration of oxygen in the air, amount of water in the oceans, or ice in the poles. Because these geological changes required new species they serve as chapters in the story of Life.
+Although evolution has given rise to countless species over billions of years, the story of Life is well organized. Life works hard to adapt to its surroundings, so we can easily track evolution using Earth's geological changes (Mayr 58). Each period, epoch, and age of Earth's geography, from the Jurassic to the Paleozoic, have different characteristics like concentration of oxygen in the air, amount of water in the oceans, or ice in the poles. Because these geological changes required new species, they serve as chapters in the story of Life.
 
-While Life's evolution was relatively seemless betwen each chapter, change gave many species agonzing endings. Each time Earth's geology transitioned, was like a climatic conclusion asking if a individual's list of adaptations were needed in the changed enviroment. The few who passed the test climbed the ladder to the next age, while the majority of adaptations went round in circles, stubbornly fighting their inevitable extinction. Their existence only remembered as fossils to maybe be uncovered one day.
+While Life's evolution was relatively seamless between each chapter, the change gave many species agonizing endings. Each time Earth's geology transitioned it was like a climatic conclusion asking if an individual's list of adaptations was needed in the changed environment. The few who passed the test climbed the ladder to the next age, while most adaptations went around in circles, stubbornly fighting their inevitable extinction. Their existence is only remembered as fossils to be maybe uncovered one day.
 
 ![Evolutionary Spiral](/assets/speciation-elephants.png)
-_The Evolutionary Spiral in the [history of Life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life). From the perspective of Life it's seemless, but for lifeforms there are often tragic endings._
+_The Evolutionary Spiral in the [history of Life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life). From the perspective of Life, it's seamless, but for lifeforms, there are often tragic endings._
 
-This summary misses the many details of evolution. But the essence is here, which is Life must adapt to Earth's ever changing environment. The faster the better, the more species the better, no interference is justifiable. If evolution was a person, it would be an artist creating custom lifeforms to harvest every possible ray of sunshine, scrap of food, source of energy. Constant unfettered adaptation is the only reason why Earth isn't just another rock revolving a star with no one to notice how beautiful the Universe is.
+This summary misses the many details of evolution. But the essence is here: Life must adapt to Earth's ever-changing environment. The faster, the better; the more species, the better; no interference is justifiable. If evolution were a person, it would be an artist working night and day creting custom lifeforms to harvest every possible ray of sunshine, food scrap, and energy source. Evolution's constant creative  adaptations are the only reason Earth isn't just another rock revolving around a star with no one noticing how beautiful the Universe is.
 
-And, now we understand why echo-chambers are doomed. They presume an adaptation can be eternal. They commit themselves to a few tools, a few species, and antagonize the evolution of new ones by telling stories of their tool's supposed perfection. Evolution of course doesn't care what we tell ourselves. Leaving those inside echo chambers to reconile the ideology they passionately believe in against the pain they feel in the real world as they walk around in circles unable to harvest enough resources to be happy and healthy.
+And now, we understand why echo chambers are doomed. They presume an adaptation can be eternal. They commit themselves to a few tools and species and antagonize the evolution of new ones by telling stories of their devices' supposed perfection. Evolution, of course, doesn't care what we tell ourselves. Leaving those inside echo chambers to reconcile the ideology they passionately believe in against the pain they feel in the real world as they walk around in circles, finding someone to blame because they're unable to harvest enough resources to be happy and healthy.
 
-As it's always been, evolution is our way out. Unfettered innovation explains why modern-medicine, mixed-martial arts, and even fairytale characters like Cinderella are so successful. They let themselves become many species by adapting to their situation. They examine their problem before deciding on any techniques or tools. With this freedom of mind, they harness the power of evolution.
+As it's always been, evolution is our way out. Unfettered innovation explains why modern medicine, mixed-martial arts, and fairytale characters like Cinderella are so successful. They let themselves become many species by adapting to their situation. They examine their problem, and pickup whatever techniques or tool will help them solve it. Because of this freedom of mind, they can harness the power of evolution.
 
-With one big difference. Human evolution, and our adaptations, aren't biological.
+With one big difference. Humans do not evole. Technology does.
 
 ## Old Age, Ladder Climb, Final Frontier
 
@@ -325,15 +357,15 @@ The sounds of the shoes was triggering a bias in the both male and female judges
 
 That's a good little story. As we learned above, humans love stories. It's how we make sense of the world and pass-on knowledge.
 
-Yet, stories are also our problem. We can understand cause and effect so easily that stories come naturally to us. But that doesn't mean we're good at reasoning which stories are real or fake. We can just as easily believe in a false story, as did the judges who heard footsteps instead of music.
+Yet, stories are also our problem. We can understand cause and effect so easily that stories come naturally to us. But that doesn't mean we're good at reasoning which stories are real or fake. We can just as easily believe in a false story, as did the judges who heard footsteps instead of music, and martial artists who thought their stories would protect them in a real fight.
 
-The whole trick of evolution is finding the perfect adaptation. And no one knows what that is. So we must respond to failure with another adaption as quickly as possible. The rest, like caring about gender, is all noise.
+The whole trick of evolution is finding the perfect adaptation. And no one knows what that is. So we must respond to failure with another adaption as quickly as possible. The rest, like caring about gender and fighting rules, is all noise.
 
-To find the perfect biological adaptation takes a lot of time. An individual species can't evolve much. A lady bug, elephant, or polar bear is limited to its adaptations and instincts. As the environment inevitably changes and these species encounter problems, the genetic mutations needed to create a new species takes many generations. That's why biological evolution is measured in millions of years.
+To find the perfect biological adaptation takes a lot of time. The genetic mutations needed to create a new species takes many generations because species are physically attached to their adaptations. That's why biological evolution is measured in millions of years.
 
-We humans thus can't evolve biologically. If we did, then their might be a difference between male and female musicians. Yet, it's not our genes that change when learning a tool like a violin or piano. Instead, we adapt our psychology to incorprate a new tool into our list of traits.
+We humans thus can't evolve biologically. If we did, then their might be a difference between male and female musicians. But it's not our genes that change when learning a tool like a violin or piano. Instead, we adapt our psychology to incorprate a new tool into our list of traits.
 
-We are still of course biological lifeforms in nature, but because we invent new tools, we continue Life's evolution with technology instead of biology. There is effectively no difference. Life wants adaptations that can harvest resources, collect energy, and procreate. Life doesn't about the material composition anymore than a composer or audience cares what gender the orchastra is.
+We are still of course biological lifeforms in nature, but because we invent new tools, we continue Life's evolution with technology instead of biology. There is effectively no difference. Life wants adaptations that can harvest resources, collect energy, and procreate. Life doesn't care about the material composition anymore than a composer or audience cares what gender the orchastra is.
 
 Our technological evolution follows the same laws as regular evolution.
 
@@ -343,76 +375,119 @@ Our technological evolution follows the same laws as regular evolution.
  - The number of tools always multiplies to fill niches.
  - Natural selection determines which tools lives on.
 
-Thus, we humans are biological vessels for technological evolution. Our fate is mostly determined by the tools in our hands, not the genes in our cells.
+Thus, we humans are biological vessels for technological evolution. Our fate is (mostly) determined by the tools in our hands, not the genes in our cells.
 
-Our evolution requires innovators undertake the burden of inventing new technology, that becomes tools, that effectively becomes a new species once someone uses it. To connect people to new adapatations requires a reason, which is best communicated with a story. Therefore, innovation requires storytelling (often done as marketing) to create a culture that connects person and tool.
+Our evolution requires innovators undertake the burden of inventing new technology, that becomes tools, that effectively becomes a new species once someone uses it. To connect people to new adapatations requires a reason, which is best communicated with a story. Therefore, innovation requires storytelling, often told inside marketing or ideology, to create a culture that connects person and tool.
 
 This is what happened during the creation of judo, boxing, wrestling and the other martial arts. While these of course don't have much technology, they still use pads, ropes, gloves, weights, books, and eventually video, to train, learn, and pass on knowledge.
 
-Thus, these martial arts used the human body as a foundation, with a different mixture of tools, to become boxers, judokas, kickboxers, and a variety of other distinct species.
+Thus, these martial arts used the human body as a foundation, with a different mixture of tools, turned the human body into boxers, judokas, kickboxers, and a variety of other distinct traits and therefore created different species.
 
-Once home televisions and the internet allowed information to flow so easily, it became possible to do what evolution does; review the species, find the best traits, and select the most effective.
+Once home televisions and the internet allowed information to easily flow, it became possible to do what evolution does; review the species, find the best traits, select the most effective, and combine them all into a new improved species called mixed-martial arts.
 
 But for humans to edit so many martial arts required fighters to see through the stories that connected people to each martial art. And seeing through stories isn't our best feature.
 
 Why?
 
-Because to connect us to tools, the story's must have a strong bond. And, by seeing through a story that connects us to an old way of life, we're essentially doing what Cinderella did when she decided to disobey her family; we're questioning ruling philosophy. And, by dropping the tools and lifestyle that we know we're debasing ourselves into blank slates hoping to re-write our future.
+Because seeing through a story that connects us to an old way of life, we're essentially doing what Cinderella did when she decided to disobey her family; we're questioning the philosophy that governs our actions.
 
-And that point point, old stories that connected us to non-functioning tools, become echo chambers trying to distract us. We can either listen to them and find someone to blame for our troubles, or venture into uncharted territory to find a better life.
+And, at that point, when we decide to evolve, old stories that connected us to non-functioning tools, become echo chambers trying to distract us. We can either listen to them and find someone to blame for our troubles, or venture into uncharted territory to find a better life.
 
-It sounds noble to become a hero, but it's quite scary and hard.
+It sounds noble to become a hero, but it's quite scary and hard. And this is especially relevant to us today sick of our toxic echo chambers.
 
-Biological lifeforms grow up once, and are bound to the adaptations, instincts, and environment they have. We likewise grow up and learn the tools, culture, rules, which, like it for Cinderella, create the role we're supposed to play in our society.
+Because, like it did with biological lifeforms so many times before, evolution is entering a new age. All lifeforms today thus have a huge choice to make; go round in circles struggling to find resources using outdated adaptations.
 
-By questioning the stories that connect us to tools, and debasing ourselves to reach for new tools, we're ripping the away the mask of all we've learned, and starting over. We're starting a new race of evolution with no guarantees and lots of opposition. It's not natural for lifeforms to do that, which is why we cherish heroes like Cinderella so much.
-
-The abused maid could have just stayed home, as kickboxers could have avoided mixed-martial arts, or doctor's could pretend they have all the answers.
-
-Instead, they each choose to embrace uncertainity by droppping what they knew and find better tools to solve their problems. They each make the choice to evolve.
-
-And this is especially relevant to us today trying to leave the echo chambers of our society behind.
-
-Because, like it did with biological lifeforms so many times before, evolution is entering a new age. And all lifeforms today thus have a huge chocie, go round in circles struggling to find resources using outdated adaptations.
-
-Or climb the ladder and evolve new species, as quickly as possible, so Life can prosper in the fledgling Internet Age.
+Or climb the ladder and evolve, as quickly as possible, so Life can prosper in the fledgling Internet Age.
 
 ---
 
-The Roman general Julius Caesar had a problem. He controlled territory west of the river Rhine, but the east side was controlled Germans. These barbarians were using simple boats to cross the river to pillage Caesar's prosperous land. The Romans defeat the Germans in pitched battles, which is why the Germans avoid fighting them.
+The Roman general Julius Caesar had a problem. The territory he controlled west of the river Rhine was relatively prosperous and peaceful and so the Germans barbarians across the river kept raiding it. The Romans defeat the Germans when they fight pitched battles, which is why the Germans avoid fighting them, and instead used small boats and rafts to sneak attack in the night.
 
 So, Caesar had to defeat an enemy that wouldn't fight him.
 
-He came up with an idea. The Germans were a tribal people, with no written language, limited metal working, and primitive engineering. Meanwhile, the Romans built quality roads, aquaducts, huge collisems, and seemingly whatever else they wanted.
+He came up with an idea. The Germans were a tribal people, with no written language, limited metal working, and primitive engineering. Meanwhile, the Romans built quality roads, long aquaducts, huge colliseums, and seemingly whatever else they wanted.
 
-To showcase their technological power, Caesar decided to build a bridge
+To showcase their technological power, Caesar decided to build a bridge.
 
-The construction of the first bridge was carried out in an area where the depth of the river would be up to nine meters. The bridge was built on double wooden piles that were driven into the riverbed by winching up a large stone and releasing it, thereby driving the posts into the riverbed. The construction system ensured that the greater the flow, the harder the bridge was held together. Caesar’s soldiers built the bridge in just 10 days.
+The construction was carried out in an area where the depth of the river would be up to nine meters. The bridge was built on double wooden piles that were driven into the riverbed by winching up a large stone and releasing it, thereby driving the posts into the riverbed. The construction system ensured that the greater the flow of water, the harder the bridge was held together. Caesar’s soldiers built the bridge in just 10 days.
 
-Watching the Roman legions crossing the river stupified the Germans. It would be like us seeing a person teleport to the Moon; an totally unknown adaptation. That's because the Romans was masters of the Classic Age, and the Germans were hundreds of years behind in the early Iron Age.
+Watching the Roman legions crossing the river stupified the Germans. They struggled to get flimsy boats across the wide river, now they watched thousands of people walk over it. It would be like us seeing a city of people teleport to the Moon; a totally unknown adaptation our psychology isn't adapted to understand.
 
-Such although people have very similar genetics, the technology we hold determines our fate, and where we are in the history of evolution. We already know evolution is tracked in ages like Jurassic period. For humans those ages are the eras of new technology.
+Caesar solved his problem by educating his enemy about technological evolution. He showcased how Romans were masters of the Classic Age, and the Germans were hundreds of years behind in the Iron Age. So impressed by Rome's almost magical powers, the Germans made peace that lasted for generations.
 
-  - Bronze Age: 	2000 - 1250
-  - Iron Age:  		1250 - 550
-  - Classic Age:  	550 - 476
-  - Middle Ages: 	500 - 1439
-  - Renaissance: 	1440 - 1686
-  - Science Age: 	1687 - 1759
-  - Industrial Age: 1760 - 1969
-  - Internet Age: 	1970 - 
+We already know evolution is tracked in ages like the famous Jurassic period. For humans those ages are the eras of new technology. The technology we hold determines where we are in the history of evolution. Here is a list of all the ages, and the civilizations that lead humanity to each.
+
+  - Bronze Age: 	  2000 - 1250 (Babylon)
+  - Iron Age:  		  1250 - 550  (Greek)
+  - Classic Age:  	550 - 476   (Rome)
+  - Middle Ages: 	  500 - 1439  (Abbasid)
+  - Renaissance: 	  1440 - 1686 (Italy)
+  - Science Age: 	  1687 - 1759 (France)
+  - Industrial Age: 1760 - 1969 (Britain/America)
+  - Internet Age: 	1970 -      (tbd)
+  <small>(this timeline is Europe and Middle East centric. Other civilization made many technological advancements, but the geography around the Mediterranean was best suited to enable continous technological evolution. Read "Guns, Germs, and Steel" to find out more. Remember, there are many more eras in front of us then behind us.)</small>
+
+Like Julius Caesar demonstrated, the difference between ages is very wide. A fundamental new technology is an entirely new stage of evolution, with a totally different list of traits at the hands of its people. 
+
+Despite the power of technological evolution, we don't always evolve. People in need will choose evolution for the same reason all lifeforms do, the physical pain of failure tells them to try using a new hunting weapon, chance crossing a large river in a new raft, try cooking a new food. However, once human beings evolve enough to solve pain, we stop often evolving, and instead tell stories.
+
+Stories are meant to pass-on knowledge to aid everyone's continuous evolution, but absent of pain, they often become means to prevent feeling the pain of regular life. As the saying goes "hard times creates hard people, who work hard to create easy times, which thus breeds easy people, who stop working hard, and thus create hard times". During this transition, the stories used to pass-on the hard-won lessons of evolution, transform into stories to antagonize it. 
+
+This is best seen in the changeover from age to age. No civilization keeps its leadership after winning an age.
+
+Julius Caesar showed us why. 
+
+A new age is totally different. The "easy people" have high social standing, away from frontline pain, inherited from their ancestors. The new age requires new race of evolution is needed where everyone starts at the same starting line again. To prevent society's technological evolution taking away their special status, leaders create stories like elitism, racism, and sexism for the same reason Cinderella's stepmother tore the dress, locked the attic, and shattered the glass slipper.
+
+>"The history of evolution is a steady extinction of species and the origin of new species. Thus turnover is often apparently due to the superiority of a new species over an established species." Mayr 132.
+
+Antagonists are people who don't want the story to change. And the conclusion of a technological age is the end of a story. And in 1970 humanity invented the personal computer and the internet. Since then our society's storytellers have avoided evolution not matter the increasing pain felt on the frontline.
+
+- NOBODY KNOWS. WHAT DOES MICHAEL SCOTT DO. 
+- IT'S THE END OF THE STORY. THERE ARE NO MORE HEREOES, NO MORE VILLIANS.
+- ALL PAST ROYALS RESISTED CONCLUSIONS, AND EVOLUTION/INNOVATION.
+- INDUSRIAL AGE CULTURE, AND PEOPLES, ARE GOING DOWN.
+
+<Flipper1970 />
+
+And hence, you should now understand why our echo chambers exist, and why the are doomed. It's no accident echo chambers are yelling fests that never have an ending; both their ideologies are from the Industrial Age. They keep talking keep you walking in circles. They each blame each other people for your problems because each are effectively a dinosaur in the ice age; a species unfit to find enough resources to live a happy and healthy life.
+
+Mass consumption is their bread and butter of their tools. Broadcast television, mass-media, globalized supply chains, entertainment, relatively immigration and migration, centralization of production.
+
+ - No technology survives forever, but the Industrial Age powerbrokers want there's it to.
+ - All technology has a common ancestry.
+ - Evolution of new tools is gradual.
+ - The number of tools always multiplies to fill niches. Mass production and mass society prvents this.
+ - Natural selection determines which tools lives on. There are no human referres or middlemen. There can be natural selection unless the people using a tool are free to decide to keep using it, or choose another.
 
 
-However, before you can drop and pick up tools willy nilly as the Enlightened representative of Evolution, you must do something truly historic for the good of all humanity.
+
+ - the oft said "i want to decentralize power" is the required evolutionary step of speciation.
+ - queen ball, bees kill their queen when non-functioning
+
+Both echo chambers, agree to keep consuming to maintain themselves. One said wants to print more money, the other wants to conserve. One side wants to consume more natural resources, the other wants to conserve. The result is, a tactical compromise to keep consuming and conserve nothing. All in a desperate effort to keep the Industrial Age alive. Each echo chamber represents a bygone lifeform whose list of attributes isn't up to the task of evolving new species that can harvest enough resources to procreate inside healthy ecosystems.
+
+The chance to bring the consumption, debt, natural resources, debt, inflation and the cost of living rates<button @click="rdegg = !rdegg">-</button>down proactively and ease ourselves into the Internet Age has passed. 
+
+The cost of living, workplace efficiency, mortgage debt, will keep getting more expensive because they are the after effects of aging adaptations. And they won't evolve on their own. The people with the authority to evolve value their egos over their futures. They are the teachers, pundits, educators, gatekeepers of old martial arts, and you're the fighter and patient on the frontline feeling the pain.
+
+They want you to blame, when you should evolve.
+
+So, you must be you're own mixed-martial arts trained Cinderella and pickup whatever tools helps improve your future. But to do these things you must learn how disregard the rules that govern you today and decide to climb the ladder to the Internet Age.
+
+This mixed-ideological politics even has a nice new name called Techvolution.
+
+<p v-if="rdegg">💚<img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;"> F the mixture of failure and fortune. <img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;">💚</p>
 
 
-- antagonists are people who don't want a conclusion because they know they'll have to restart the race of evolution from the same starting line as everyone else.
 
-Yes, you must leave echo chambers and adopt mixed-ideological politics. Yes, you must be like Cinderella and pickup whatever tools helps improve your future. But to do these things you must do what Life has done so many times before.
+-------
 
-Climb the ladder.
+- pain is still life's way to communicate change needed, but we must have a free innovation to sovle it to have evolution.
+- Tools effectual lifecycle is the ride we're on, especially because echo chambers sustain non-functionality.
+- only end users on the frontline (fightters, patients, Cinderella) feel pain, and have a valid say in the adoption of new tools. Everyone else is but a teacher/manager/coach/stepmother who has all the incentive in the world to tell stories why evolution is bad.
 
-See, in the story of Life, the constant change in the environment requires a constant change in species. Species are their list of adaptions. Biologically speaking, there isn't much difference between a sabre tooth tiger and a mountain lion, but one walks the Earth and the other is in museums.
+---
 
 - mammal/bird parents pass-on knowledge.
   - we can't learn from parents as we're in a new age.
@@ -420,13 +495,19 @@ See, in the story of Life, the constant change in the environment requires a con
   - Mayr 253.
 - Large populations are inert and don't evolve fast.
   - Founder populations face more selective pressure b/c environment is novel, thus evolve faster.
-  - Mayr pg 193.
-
-It's not easy. The biggest problem isn't the heights or the effort, it's the fact you've got to leave most of your past behind. New ages need new adaptions, tools, and philosophies.
-
-Evolution is a constant stream of new species. The story of Life is series of short stories therefore a never ending series of conclusions. And you're part of that story, and we've hit a new age.
-
-
-Both sides agree to keep consuming to maintain themselves. One said wants to print more money, the other wants to conserve. One side wants to consume more natural resources, the other wants to conserve. The result is, a tactical compromise to keep consuming. Because each represetns a bygone lifeform whose list of attributes isn't up to the task of evolution and is scrambling to survive.
+  - Mayr 193.
+- Founder vs Corps.
+  - Established species have a large and therefore inert gene pool that washes away new genes.
+  - Founding pops have limited gene pools, more likely to absorb new genes and phenotypes.
+  - Mayr 135.
+- The General Rule of Speciation
+  - No strict rule or formula to achieve speciation.
+  - General rule, "The less gene flow there is between populations, the more rapidly speciation will occur, all else being equal"
+  - Ie. local need solved by local greed, and vice versa.
+  - Mayr 186.
+- Components of evolution
+  - Darwinian evolution is a byproduct of two divergent forces, chance (involuntary mutation) and neccesity (surviving the selection process). Mayr 229.
+  "No individual is ever perfectly adapted...the main reason for this is perhaps that every genotype represents a compromise of genetic variability and stability." Mayr 145.
+  - Two halves of our social society, creation and generation, both are going overboard with their art/spectacle, and the result is loss of function/evolution.
 
 

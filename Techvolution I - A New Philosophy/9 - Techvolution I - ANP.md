@@ -175,9 +175,6 @@ next:
   link: '/a-new-philosophy/introduction'
 
 ---
-<script setup>
-// input Language Test Code here.
-</script>
 
 ![Preface Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
@@ -185,21 +182,11 @@ next:
 
 ## Foreword
 
-## Foreword
-
 My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected Spanish was his mother tongue. To test him, she briefly showed him words of colors typed in a different color. So "blue" was typed in red ink, for example. My son then had to say the color each word was written in. 
 
 Here's an example:
 
-<button class="t-btn" v-if="!languageBlank" @click="startTestBlank()">Blank</button>
-<button class="t-btn-disabled" v-if="languageBlank" disabled>...</button>
-<button class="t-btn" v-if="!languageEnglish" @click="startTestEnglish()">English</button> 
-<button class="t-btn-disabled" v-if="languageEnglish" disabled>...</button>
-
-<div class="language-test">
-  <p v-if="languageBlank" id="wordBlank"></p>
-  <p v-if="languageEnglish" id="wordEnglish"></p>
-</div>
+<LanguageTest />
   
 It's an easy test if you don't know the language, but near impossible if you do. Even if you're pretending ignorance, your mind reads the word before seeing the color. My kid was soon found out and took the advanced class. I laughed when he told me the story. I advised him to take a lesson from it.
 

@@ -3594,3 +3594,13 @@ The Cambrian explosion was about 538.8 million years ago when practically all ma
 Before early Cambrian diversification, most organisms were relatively simple, composed of individual cells, or small multicellular organisms, occasionally organized into colonies. As the rate of diversification subsequently accelerated, the variety of life became much more complex, and began to resemble that of today.
 
 ---
+
+Biological lifeforms grow up once, and are bound to the adaptations, instincts, and environment they're given. We likewise grow up and learn the tools, culture, rules, which, like it did for Cinderella, create the role we're supposed to play in our society.
+
+By questioning the stories that connect us to tools, we're ripping the away the mask of all we've learned, and starting over. We're debasing ourselves and thereby starting a new race of evolution with no guarantees and lots of opposition. It's not natural for lifeforms to drop their adapatations and lifestyle in the hope we can re-write our future; which is why we cherish heroes like Cinderella so much.
+
+The abused maid could have just stayed home, as kickboxers could have avoided mixed-martial arts, or doctor's could pretend they have all the answers.
+
+Instead, they each choose to embrace uncertainity by droppping what they know and find better tools and answers to solve their problems. The philosophy they each believe in says to choose evolution.
+
+---
