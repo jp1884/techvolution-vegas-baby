@@ -130,10 +130,11 @@ https://stackblitz.com/edit/vue3-glidejs?file=src%2Fcomponents%2FCarousel.vue
     United States CO2 Emissions <https://tradingeconomics.com/united-states/co2-emissions>
     China CO2 Emissions <https://tradingeconomics.com/china/co2-emissions>
     United States Average Temperature <https://tradingeconomics.com/united-states/temperature>
+    A fair way of carbon emissions <https://blog.datawrapper.de/four-ways-compare-emissions/>
 
   - Economic
     United States Corporate Profits <https://tradingeconomics.com/united-states/corporate-profits>
-
+    Industrial Revolution GDP growth "Camels in the Amazon" <https://ourworldindata.org/grapher/gdp-world-regions-stacked-area>
 
   - Percentage of Boomers with Grandkids
   - Public Sector Wages.

@@ -20,13 +20,13 @@ next:
 
 ## Preface
 
-We've all listened, watched, and told stories. From the campfire to the couch humanity has shared our loves, emotions, and days by telling a story. But what exactly is a story?
+We've all listened, watched, and told stories. From the campfire to the dinner table humanity has shared our loves, emotions, and days by telling a story. But what exactly is a story?
 
 One of our greatest thinkers, Aristotle, answered that question around 330 BC. The Greek philosopher taught dramatic writing. In *Poetics*, Aristotle explains all stories must have heroic action that arouses strong emotions from the audience inside a structure with a definite beginning, middle, and end. Proper dramatic storytelling must have a mixture of tragic character flaws, plot twists, and surprise endings.
 
 Celebrated playwright, screenwriter, and director David Mamet used *Poetics* to create his timeless work. Happily, Mamet also teaches storytelling and since he's more approachable, we use him to get at the heart of storytelling.
 
-*Story Cut Tools* helps anyone use stories to better understand human affairs, from product development to politics. The goal of this chapter is to start our this process we deep dive into storytelling. To do so, we'll become a student of Aristotle and Mamet and learn the fundamentals. And great news, the lessons of storytelling are both surprising and logical, the two ingredients of any good tale.
+*Story Cut Tools* helps anyone use stories to better understand human affairs, from product development to politics. The goal of this chapter is to deep dive into storytelling. To do so, we'll become a student of Aristotle and Mamet and learn the fundamentals. Happily, the lessons of storytelling are both surprising and logical, the two ingredients of any good tale.
 
 ## Quote
 
