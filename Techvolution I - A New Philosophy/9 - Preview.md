@@ -38,7 +38,7 @@ May 2023
 
 ## Backpage
 
-_Here is where political philosophy enters. Most people reason poorly, but they do reason—and political philosophy starts from that fact. In America today, Progressives argue that wealth is unjustly distributed, for example, but they overlook the need to generate wealth. Conservatives do the reverse; preoccupied with wealth generation, they pay little attention to how it should be distributed._
+_Here is where political philosophy enters. Most people don't reason well, but they do reason—and political philosophy starts from that fact. In America today, Progressives argue that wealth is unjustly distributed, for example, but they overlook the need to generate wealth. Conservatives do the reverse; preoccupied with wealth generation, they pay little attention to how it should be distributed._
 
 _A partisan difference like this one is not a clash of “values,” with each side blind to the other and with no way to decide between them. A competent judge could ask both sides why they omit what they do, and he could supply reasons even if the parties could not. Such a judge is on the way toward political philosophy._
 
@@ -46,13 +46,13 @@ Harvey C. Mansfield, _A Student's Guide to Political Philosophy_
 
 ---
 
-The following chapter explains the principles behind the book _Techvolution_. It summarizies the more detailed work in [_Story Cut Tools_](https://storycuttools.netlify.app/) with enough meat to help those willing to venture into the unknown of a new political philosophy.
+The following chapter explains the principles behind the book _Techvolution_. It summarizies the more detailed work in [_Story Cut Tools_](https://storycuttools.netlify.app/). That's a good read, but this summary has enough meat to guide those who want to jump into the unknown of a new political philosophy.
 
-Technically speaking, _Story Cuty Tools_ uses Aristotle's _Poetics_ to better understand Hegelian dialectics to showcase how humanity continues Life's Darwinian evolution via technological innovation. But that's a mouthful, so it's easier to say this summary teaches storytelling to explain that your society, workplace, and everyday events are best understood as among the many tales in the long and ongoing evolution of Life on Earth.
+Technically speaking, this summary uses Aristotle's _Poetics_ to better understand Hegelian dialectics to showcase how humanity continues Life's Darwinian evolution via technological innovation. But that's a mouthful, so it's easier to say this chapter teaches storytelling to explain that your society, workplace, and everyday events are best understood as among the many tales in the long and ongoing evolution of Life.
 
-With the power of storytelling in hand, you'll appreciate why we need a new philosophy in the world. There's no other way to fix the social, environmental, economic problems causing so much hate between Conservatives and Progressives without one.
+With the power of storytelling in hand, you'll appreciate why we need a new philosophy in the world. There's no way to fix the social, environmental, and economic problems causing so much hate between Conservatives and Progressives without a new perspective.
 
-Only a new perspective wipes away the old stories that ideologies fight over today and reminds people that we are creatures in Nature. Like it does for all species, Life demands we evolve to overcome our current problems using new adaptations. We can either evolve proactively under the direction of Techvolution, or after many depressions, wars, revolutions, and other disasters gradually teach us the lessons reason wasn't able to.
+Only a new philosophy wipes away the old stories that ideologies fight over today and reminds people that we are creatures in Nature. Like it does for all species, Life demands we evolve to overcome our current problems using new adaptations. We can either evolve proactively under the direction of a new way of thinking, or after many depressions, wars, revolutions, and other disasters gradually teach us the lessons reason wasn't able to.
 
 ## Inner Flap
 
@@ -60,23 +60,25 @@ As you read this, a Jaguar is stalking a cayman, an ant colony is raiding its ne
 
 Living in the wild is tough, but many creatures struggle extra hard today. The environment is changing very fast. Among other things, forests, greenfields, and ice caps are disappearing. That means lifeforms such as the polar bear have increasingly unhelpful adaptations. They still have Life's burning desire to survive and procreate, but their form of white coat, colossal bulk, and love of flesh is losing its once mighty advantage to kill seals in the pack ice.
 
-What would you tell a polar bear today if you could reason with her?
+What would you tell a polar bear today if you could communicate with her?
 
-Wouldn't it be nice to explain evolution and describe how our characteristics are the expressions of genes, which are passed on from parent to offspring during reproduction. Thus, Life on Earth like a race. The organisms that harvest the most calories the fastest, while suffering the least pain, pass on their genes. Over time this turnover of genes slowly evolves the forms of Life to better use the environment's resources.
+Wouldn't it be nice to explain evolution and describe how our characteristics are the expressions of genes, which are passed on from parent to offspring during reproduction. Thus, Life on Earth is like a race. The organisms that harvest the most calories the fastest, while suffering the least pain, pass on their genes. Over time this turnover of genes slowly evolves the forms of Life to better use the environment's resources.
 
-If the hungry polar bear understood evolution, she would understand her place in the story of Life. She could assess what characteristics polar bears need to survive in the Artic's new environment. Perhaps male polar bears should help raise and protect their cubs. Or females should hibernate longer. What if polar bears hunted in packs to kill reindeer in the summer months? Whatever new form evolution will eventually find, if polar bears knew about evolution, they could work towards it instead of being molded by it.
+If the hungry polar bear understood evolution, she would understand her place in the ongoing story of Life. She could assess what characteristics polar bears need to survive in the Artic's new environment. Perhaps male polar bears should help raise and protect their cubs. Or females should hibernate longer. What if polar bears hunted in packs to kill reindeer in the summer months? Whatever new form evolution will eventually find, if polar bears knew about evolution, they could work towards it instead of being molded by it.
 
-At least by understanding how evolution works, polar bears wouldn't feel so frustrated as they walk or swim in circles, struggling to find resources.
+At least by understanding how evolution works, polar bears wouldn't feel so frustrated as they walk or swim in circles, struggling to find food.
 
-We know so much about polar bears because palenotoligists, biologists, zoologies, and other specialists have mapped millions of species habits, linages, and physiologies. This knowledge lets them inform humanity about the history, status, and future of many creatures.
+We know so much about polar bears because palenotoligists, biologists, zoologies, and other specialists have mapped millions of species habits, linages, and physiologies. This knowledge lets them inform humanity about the history, status, and future of many creatures including the majestic bears of the north.
 
-Here's a question, do we know our fate like we know the polar bears? Given how much anger, angst, and confusion we have in our politics, the answer is we don't.
+Here's a question, do we know our fate like we know the polar bears? 
+
+Given how much anger, angst, and confusion we have in our politics, the answer is we don't.
 
 This book will teach you about our evolution. The answer is the same for us as for all creatures. The environment is constantly changing. Thus, your form is almost always behind the times, and Life is looking for someone with updated adaptations to better harvest resources and procreate.
 
 We think we understand that, but all the marches, protests, and other outbursts of frustration shows we don't. This book will teach you about human evolution. Because animals (sadly) can't change their genes, they must endure the pain evolution needs to find the species best suited to the environment.
 
-We can change our fate if we update our characteristics by harnessing modern technology. If you keep reading, you will change Life on Earth.
+We can change our fate; if we update our characteristics by harnessing modern technology. If you keep reading, you will learn how to evolve humanity and upgrade Life on Earth.
 
 ## Dedication
 
@@ -92,7 +94,7 @@ Gordon Moore, co-founder of Intel, 1973.
 
 [[toc]]
 
-## Mixed Ideological Politics
+## Mixed-Ideological Politics
 
 >I thought you guys would like to hear this story. I know my fellow wrestlers know exactly what I'm talking about. A martial art is either real or it's not. Very early on in the sport of mixed-martial arts, when the logical assumption from the marketing team is that you're going to get every taekwondo student, every karate student, every judo practitioner, and every aikido and they're just going to absolutely love mixed-martial arts.
 
@@ -107,13 +109,17 @@ Edited for clarity and flow.
 
 ---
 
-Do you think today's politics is healthy? Most people know politics as ranting and raving, endless half-truths, and comical memes, all of which serve to already held beliefs. If today's political climate is toxic, this books feels your pain. It's geared to the moderate middle who want the communication between persons about the direction of our society to be more about rational problem-solving instead of extremist mudslinging.
+Do you think today's politics is healthy? In its highest form, politics is a discussion abour what's the best direction our society should take. Individuals give their opinions, offer their perspective, and exchange ideas. Should our society invest in a new dock or a new road? Should we go to war with an enemy or compromise and make peace? Should we welcome newcomers or shoo them away? Politics is like a nervous system directing resources to cure the pain society feels. 
 
-Solving your pain is what this book is all about.
+But, politics isn't always so rational.
 
-To fight pain we humans develop things. We try to change our "genes" so to speak. We change government policies to direct our resources in better ways. We invent tools to solve our problems with lasting solutions. And, we learn new ideas to expand our minds.
+Cells in the human body are constantly fighting over resources and we, the people who make up the "body politic" of society, are quite similar. If you only think of politics as the daily experience of ranting, half-truths, and memes, it's because we are arguing for resources, and people don't want to be left out.
 
-Like all species, whatever we develop, we do it to solve our pain.
+The purpose of a political philosophy is to create a shared vision among society. Only when the body politics works together can we create a healthy ecosystem where anyone can better themselves. The lesson of this new political philosophy is we think ideological arguments determine what's good or bad politics, but in fact its evolution that decides.
+
+So, while the the polar bear is doomed to suffer pain for many more years, this book is about solving your pain to ease humanity's evolution.
+
+To fight pain we humans develop things. We try to change our "genes" so to speak. We change government policies to direct our resources in better ways. We invent tools to solve our problems with lasting solutions. And, we learn new ideas to expand our minds. Whatever we develop, we do it to solve our pain.
 
 Martial arts is a great example.
 
@@ -506,7 +512,7 @@ Both echo chambers, agree to keep consuming to maintain themselves. One said wan
 
 The chance to bring the consumption, debt, natural resources, debt, inflation and the cost of living rates<button @click="rdegg = !rdegg">-</button>down proactively and ease ourselves into the Internet Age has passed. 
 
-The cost of living, workplace efficiency, mortgage debt, will keep getting more expensive because they are the after effects of aging adaptations. And they won't evolve on their own. The people with the authority to evolve value their egos over their futures. They are the teachers, pundits, educators, gatekeepers of old martial arts, and you're the fighter and patient on the frontline feeling the pain.
+The cost of living, workplace efficiency, mortgage debt, will keep getting more expensive because they are the after effects of aging adaptations and hyper-industrialization. And they won't evolve on their own. The people with the authority to evolve value their egos over their futures. They are the teachers, pundits, educators, gatekeepers of old martial arts, and you're the fighter and patient on the frontline feeling the pain.
 
 They want you to blame, when you should evolve.
 
