@@ -38,7 +38,7 @@ May 2023
 
 ## Backpage
 
-_Here is where political philosophy enters. Most people don't reason well, but they do reason—and political philosophy starts from that fact. In America today, Progressives argue that wealth is unjustly distributed, for example, but they overlook the need to generate wealth. Conservatives do the reverse; preoccupied with wealth generation, they pay little attention to how it should be distributed._
+_Here is where political philosophy enters. People often don't reason well, but they do always look for a reason—and political philosophy starts from that fact. In America today, Progressives argue that wealth is unjustly distributed, for example, but they overlook the need to generate wealth. Conservatives do the reverse; preoccupied with wealth generation, they pay little attention to how it should be distributed._
 
 _A partisan difference like this one is not a clash of “values,” with each side blind to the other and with no way to decide between them. A competent judge could ask both sides why they omit what they do, and he could supply reasons even if the parties could not. Such a judge is on the way toward political philosophy._
 
@@ -46,11 +46,11 @@ Harvey C. Mansfield, _A Student's Guide to Political Philosophy_
 
 ---
 
-The following chapter explains the principles behind the book _Techvolution_. It summarizies the more detailed work in [_Story Cut Tools_](https://storycuttools.netlify.app/). That's a good read, but this summary has enough meat to guide those who want to jump into the unknown of a new political philosophy.
+Techvolution is a new political philosophy. The principles behind it are detailed in [_Story Cut Tools_](https://storycuttools.netlify.app/). That's a good read, but this chapter is a summary with enough meat to guide those who want to jump into the unknown of a modern philosophy.
 
 Technically speaking, this summary uses Aristotle's _Poetics_ to better understand Hegelian dialectics to showcase how humanity continues Life's Darwinian evolution via technological innovation. But that's a mouthful, so it's easier to say this chapter teaches storytelling to explain that your society, workplace, and everyday events are best understood as among the many tales in the long and ongoing evolution of Life.
 
-With the power of storytelling in hand, you'll appreciate why we need a new philosophy in the world. There's no way to fix the social, environmental, and economic problems causing so much hate between Conservatives and Progressives without a new perspective.
+With the power of storytelling in hand, you'll appreciate why we need a new philosophy in our world. There's no way to fix the social, environmental, and economic problems causing so much hate between Conservatives and Progressives without a new perspective.
 
 Only a new philosophy wipes away the old stories that ideologies fight over today and reminds people that we are creatures in Nature. Like it does for all species, Life demands we evolve to overcome our current problems using new adaptations. We can either evolve proactively under the direction of a new way of thinking, or after many depressions, wars, revolutions, and other disasters gradually teach us the lessons reason wasn't able to.
 
@@ -62,13 +62,13 @@ Living in the wild is tough, but many creatures struggle extra hard today. The e
 
 What would you tell a polar bear today if you could communicate with her?
 
-Wouldn't it be nice to explain evolution and describe how our characteristics are the expressions of genes, which are passed on from parent to offspring during reproduction. Thus, Life on Earth is like a race. The organisms that harvest the most calories the fastest, while suffering the least pain, pass on their genes. Over time this turnover of genes slowly evolves the forms of Life to better use the environment's resources.
+Wouldn't it be nice to explain evolution and describe how our characteristics are the expressions of genes, which are passed on from parents to offspring during reproduction. Thus, Life on Earth is like a race. The organisms that harvest the most calories the fastest, while suffering the least pain, pass on their genes most often. Over time this turnover of genes slowly evolves the forms of Life to better use the environment's resources.
 
-If the hungry polar bear understood evolution, she would understand her place in the ongoing story of Life. She could assess what characteristics polar bears need to survive in the Artic's new environment. Perhaps male polar bears should help raise and protect their cubs. Or females should hibernate longer. What if polar bears hunted in packs to kill reindeer in the summer months? Whatever new form evolution will eventually find, if polar bears knew about evolution, they could work towards it instead of being molded by it.
+If the hungry polar bear understood evolution, she would understand her place in the ongoing story of Life. Then she could assess what characteristics polar bears need to survive in the Artic's new environment. Perhaps male polar bears should help raise and protect their cubs. Or females should hibernate longer. What if polar bears hunted in packs to kill reindeer in the summer months. Whatever new form evolution will eventually find, if polar bears knew about evolution, they could make changes.
 
 At least by understanding how evolution works, polar bears wouldn't feel so frustrated as they walk or swim in circles, struggling to find food.
 
-We know so much about polar bears because palenotoligists, biologists, zoologies, and other specialists have mapped millions of species habits, linages, and physiologies. This knowledge lets them inform humanity about the history, status, and future of many creatures including the majestic bears of the north.
+We know so much about polar bears because palenotoligists, biologists, zoologists, and other specialists have mapped millions of species habits, linages, and physiologies. This knowledge lets them inform humanity about the history, status, and future of many creatures, including the majestic bears of the north.
 
 Here's a question, do we know our fate like we know the polar bears? 
 
@@ -76,7 +76,7 @@ Given how much anger, angst, and confusion we have in our politics, the answer i
 
 This book will teach you about our evolution. The answer is the same for us as for all creatures. The environment is constantly changing. Thus, your form is almost always behind the times, and Life is looking for someone with updated adaptations to better harvest resources and procreate.
 
-We think we understand that, but all the marches, protests, and other outbursts of frustration shows we don't. This book will teach you about human evolution. Because animals (sadly) can't change their genes, they must endure the pain evolution needs to find the species best suited to the environment.
+We think we understand that, but all the marches, protests, and other outbursts of frustration shows we don't. This book will teach you about human evolution. Because animals (sadly) can't change their genes, they must endure the pain evolution uses to find the species best suited to the environment.
 
 We can change our fate; if we update our characteristics by harnessing modern technology. If you keep reading, you will learn how to evolve humanity and upgrade Life on Earth.
 
@@ -109,15 +109,15 @@ Edited for clarity and flow.
 
 ---
 
-Do you think today's politics is healthy? In its highest form, politics is a discussion abour what's the best direction our society should take. Individuals give their opinions, offer their perspective, and exchange ideas. Should our society invest in a new dock or a new road? Should we go to war with an enemy or compromise and make peace? Should we welcome newcomers or shoo them away? Politics is like a nervous system directing resources to cure the pain society feels. 
+Do you think our politics is healthy? In its highest form, politics is a discussion about what's the best direction our society should take. Individuals give their opinions, offer their perspective, and exchange ideas. Should our society invest in a new dock or a new road? Should we go to war with an enemy or compromise and make peace? Should we welcome newcomers or shoo them away? Politics is like a nervous system directing resources to cure the pain society feels. 
 
 But, politics isn't always so rational.
 
-Cells in the human body are constantly fighting over resources and we, the people who make up the "body politic" of society, are quite similar. If you only think of politics as the daily experience of ranting, half-truths, and memes, it's because we are arguing for resources, and people don't want to be left out.
+Cells in the human body are constantly fighting over resources and we, the people who make up the "[body politic](https://en.wikipedia.org/wiki/Body_politic)" of our country, are quite similar. If you only think of politics as the daily experience of ranting, half-truths, and memes, it's because we are arguing for resources, and people don't want to be left out.
 
-The purpose of a political philosophy is to create a shared vision among society. Only when the body politics works together can we create a healthy ecosystem where anyone can better themselves. The lesson of this new political philosophy is we think ideological arguments determine what's good or bad politics, but in fact its evolution that decides.
+The purpose of a political philosophy is to create a shared vision for society. Only when the body politic works together can its members create a healthy ecosystem where anyone can better themselves. We think ideological arguments, such as "the poor not working hard enough" or "the rich being swindlers", determines winners and losers because we think a human is our judge. But, in fact, evolution is; as it is for all creatures.
 
-So, while the the polar bear is doomed to suffer pain for many more years, this book is about solving your pain to ease humanity's evolution.
+So, while the the ignorant polar bear is doomed to suffer for many more years, this book is about solving your pain to ease humanity's evolution.
 
 To fight pain we humans develop things. We try to change our "genes" so to speak. We change government policies to direct our resources in better ways. We invent tools to solve our problems with lasting solutions. And, we learn new ideas to expand our minds. Whatever we develop, we do it to solve our pain.
 
@@ -185,9 +185,9 @@ On our journey to improve our politics, here's the lessons we should take from t
 
 Today, in the early 21st century, the middle-class has many systemic problems. Taxes get more confusing. School prepares students less for the job market. Insurance gets more expensive. And there are many more topics trending badly.
 
-We all want better for ourselves and our kids, so we look around for ways to help.
+We all want better for ourselves and our kids, so we look around for help.
 
-Many people are sellling ideological politics. They each ideologue claim they can improve the economy. As the economy gets more uncertain, the more sales these ideologues close. As a result, many people today think being "political" means supporting a single ideology of "red", "blue", "green" and so on. These newly political people back one ideology by donating time and money, buying books, following pundits, going to rallies, and...
+We find lots of people are selling ideological politics who claim they can improve the economy. As the economy gets more uncertain, the more sales these ideologues close. As a result, many people think being "political" means supporting a single ideology of "red", "blue", "green" and so on. These new ideological converts back one ideology by donating time and money, buying books, following pundits, going to rallies, and...
 
 Regular people keep getting our asses kicked in our real lives.
 
@@ -196,19 +196,19 @@ Like old martial artists who believed their chosen discipline was the single sou
 ![Ant Death Spiral](/assets/problem-solving-philosophy.png)
 _Ant Death Spiral. Image Needed._
 
-Today's political ideologies are in a death spiral. Whether "red", "blue", "orange" or "green", they are going in circles trying to make their limited techniques improve the economy. Ideologies are lead by teachers, pundits, commentators who sell their books, lectures, podcasts the worst things get. This echo chamber is hard to break out of because each ideology is keep telling people that its chosen techniques of tax cuts, universal health-care, highway expansion, etc. give automatic success. And when we continue to feel the pain of real life problems, we're told other ideologies are not options because they break the ideological rulebook. Even worse, we're told we must attack other ideologies because the failing economy is _their_ fault.
+Today's political ideologies are in a sort of death spiral. Whether "red", "blue", "orange" or "green", they are going in circles trying to make their limited techniques improve the economy like an old martial arts coach trying to come to terms with their fighters losing mixed-martial arts fights. Their echo chamber's are hard to break out of because each ideology is keep telling people that its chosen techniques of tax cuts, universal health-care, highway expansion, etc. give automatic success. And when we continue to feel the pain of real life problems, we're told other ideologies are not options because they break the ideological rulebook. Even worse, we're told we must attack other ideologies because the failing economy is _their_ fault.
 
 The truth is, all political ideologies and their economic techniques are incomplete.
 
 That's why I wrote _Techvolution_. It helps break any steadfast loyalty to one ideology and encourages you to realize you're a lifeform in Nature, and thus the only rules and techniques that matter are those that help you solve your specific and unique real life problems.
 
-Nature is a street fight for the polar bear, martial artis, and you. For every one on Earth, evolution is the only teacher you need.
+Nature is a street fight for the polar bear, martial artists, and you. For every creatire on Earth, evolution is the only teacher you need.
 
-If we could teach evolution to polar bears, they'd have an easier time adapting to the times. When fighters did embrace evolution, they had a much easier time getting improved. When we all embrace evolution in our politics, we'll have the freedom of mind to mix and match ideologies to overcome any economic problem. Be it a dreadful morning commute, rising climate change, or debilitating government bureaucracy. This new philosophy might be called mixed-ideological politics.
+If we could teach evolution to polar bears, they'd have an easier time adapting to the times. When fighters did embrace evolution, they had a much easier time improving. When we all embrace evolution in our politics, we'll have the freedom of mind to mix and match ideologies to overcome any economic problem. Be it a dreadful morning commute, rising climate change, or debilitating government bureaucracy. This new philosophy might be called mixed-ideological politics.
 
 Seeing through the death spiral of today's ideological echo chambers isn't easy. The constant storytelling of Twitter feeds, cable news, dinner table arguments is persuasive and hard to get away from. To see above today's political noise and salesmanship requires a solid understanding of storytelling. Once you got that, you'll avoid being sucked into the false security of ideological echo chambers.
 
-Once you're protected from ideological stortelling, you can adopt mixed-ideological politics. After reading this book, you'll be as powerful in your politics as a mixed-martial artist is in a fight.
+Once you're protected from ideological storytelling, you can adopt mixed-ideological politics. After reading this book, you'll be as powerful in your politics as a mixed-martial artist is in a fight.
 
 Maybe then, we'll fix our problems fast enough, so the polar bears won't need to learn evolution to cure their pain.
 
@@ -218,23 +218,21 @@ Maybe then, we'll fix our problems fast enough, so the polar bears won't need to
 
 Before we learn to protect ourselves from the echo chambers, it's important to always keep in mind, we're not erasing ideologies. We're only empowering ourselves to be like mixed-martial artists and mix and match ideologies to better solve our problems.
 
-Some may be doubting our society can follow martial arts and embrace mixed-ideological politics. We can, hHere's another a field which has adopt a similarly enlightened philosophy.
+Some may be doubting our society can follow martial arts and embrace mixed-ideological politics. We can, here's another another field which has adopt a similarly enlightened "mix and match" philosophy.
 
 Modern medicine has many disciplines and specialists. Some are based on cutting edge research, others on old school remedies. In the past, when isolated by geography and culture, people would be bound to do what the local healer or doctor prescribed. But today, you would never go to one medical professional, expecting them to be a master of every possible health problem.
 
 There's simply too many human health problems for any one medical discipline to master.
 
-That's why all medical professionals today, from hemopathic healers to neural surgeons, are recognized as sub-disciplines with their own techniques, cultures, and rulebooks. Every medical professional is allowed to say its strengths and weaknesses and admit its a niche and not the single source of truth. The skill in healthcare today is mixing disciplines to solve a patients pain as quickly as possible. While modern medicine certainly isn't perfect (especially its administration), it's nearly magical when compared the times when surgeons didn't santize their tools and doctors used one-size fits all solutions like leeches.
+That's why all medical professionals today, from hemopathic healers to neural surgeons, are recognized as sub-disciplines with their own techniques, cultures, and rulebooks. Every medical professional is allowed to say its strengths and weaknesses and admit its a niche and not the single source of truth. The skill in modern healthcare is mixing disciplines to solve a patients pain as quickly as possible. While modern medicine certainly isn't perfect (especially its administration), it's nearly magical when compared the times when surgeons didn't santize their tools and doctors used one-size fits all solutions like leeches.
 
-Modern medicine and mixed-martial arts improved so quickly because they are enlightened. The both recognize solving a fighter's, or patient's, pain is the ultimate sign of success.
+Modern medicine and mixed-martial arts improved so quickly because they are enlightened. The both recognize solving a fighter's, or patient's, pain is the ultimate sign of success. And that no coach or teacher is the single source of truth.
 
 So, if a person can train using different fighting techniques from many multiple martial arts disciplines, and doctors can refer their patients to specialists from other disciplines, why can't we also be self-aware enough, and respectful enough, to mix and match ideologies according to their strengths and weaknesses in solving your specific problems?
 
 To enlighten our politics in such a way, we only have to accept no ideology is complete. Like in medicine or Ultimate Fighting, any ideological technique must be evaluated based on evidence of their real-world results and not ideological purity.
 
-The biggest obstacle to mixed-ideological politics is the same as it was for mixed-martial arts. Ideological pundits, teachers, and commentators see their beliefs and techniques as the single source of truth. They can never embrace being another niche like doctors or mixed-martial arts embrace.
-
-To achieve mixed-ideological politics, we must escape the spell of ideological echo chambers by training ourselves to understand why great stories are so magical.
+The biggest obstacle to mixed-ideological politics is the same as it was for mixed-martial arts. Ideological pundits, teachers, and commentators see their beliefs and techniques as the single source of truth. To achieve mixed-ideological politics, we must escape the spell of ideological echo chambers by understanding why great stories are so magical.
 
 ## Cinderella
 
@@ -242,15 +240,17 @@ To achieve mixed-ideological politics, we must escape the spell of ideological e
 
 The classic fairytale _Cinderella_ is a great example of how to hook an audience.
 
-The movie tells the story of a beautiful, diligent, and kind-hearted country girl named Cinderella. An unloved orphan, she lives her wicked stepmother and her two spoiled stepsisters. Forced to do all the chores without any help or appreciation. Cinderella's made friends with the local animals, but dreams of a better life and a chance to find happiness.
+The movie tells the story of a beautiful, diligent, and kind-hearted country girl named Cinderella. An unloved orphan, she lives with her wicked stepmother and her two spoiled stepsisters. She's forced to do all the chores and only has the local animals for companionship.
 
-She’s ecstatic when she learns that the royal court is hosting an extravagent ball. The King wants to find a bride for his charming son. Cinderella's friends help her sew a dress for what's sure to be the most wonderful night of her life. But her evil family forbids her, mocks her uppitiness, and tears her dress to shreds.
+Understandably, Cinderella dreams of a better life and a chance to find happiness.
+
+That's why she’s so ecstatic when she learns that the royal court is hosting an extravagent ball. The King wants to find a bride for his charming son, so Cinderella's friends help her sew a dress for what's sure to be the most wonderful night of her life. But her evil family forbids her, mocks her uppitiness, and tears her dress to shreds.
 
 The young girl is on the verge of tears. But, just as despair is about to set in, her Fairy Godmother appears. With a flick of her wand, the godmother transforms Cinderella’s ragged clothes into a dazzling gown and a pair of sparkling glass slippers. The fairy's magic also creates a carriage and a team of horses so that her mistreated goddaughter will finally have a night she’ll never forget.
 
 At the party, Cinderella captivates everyone with her beauty and grace, especially the Prince. The two glide across the floor and whisper sweet nothings in each other’s ears. It looks like Cinderella's life is changed. Sadly though, the spell that gave Cinderella her magical night ends, forcing the shy orphan to flee from the ballroom, leaving the Prince with nothing but a glass slipper to remember her by.
 
-The heartbroken Prince is determined to find his true love and orders his men to search the entire kingdom for the girl who fits the slipper.
+The heartbroken Prince is determined to find his true love and orders his men to search the entire kingdom for the girl who fits the glass slipper.
 
 They eventually get to Cinderella’s house. The wicked stepmother has gotten wise that her stepdaughter is the Prince’s heartthrob, and so locks her in the attic. Cinderella's friends come to her rescue, steal the key, and open the attic door just in time. Cinderella can now ask the Prince’s men if she can try on the glass slipper. Then, just as she’s about to, the evil stepmother smashes the precious mememto.
 
@@ -262,7 +262,7 @@ The movie _Cinderella_ was very popular when it was released. It's popular today
 
 People love stories. We can't get enough of them. A good story lets us experience the drama, trials, and experiences of another person. From horrible brushes with death, to whimsical romances, stories teach us the lessons of many lives.
 
-Stories pass-on so much information because they create a complete reality. This starts with the props that fill the storyworld with items, from cups to homes, we expect to see in any world. Next, there is music to relay the emotions of characters in the story. The dialogue of the story communicates what each character wants in an easy to understand way. Then there's the villain who earns their title because he likes the world the way it is and defends it against change. Next comes the philosophy of the story-world that dictates the rules everyone in the story is presumed to live by, for example Cinderella is supposed to obey her stepmother. Cinderella is a hero beausse she disreards the ruling philosphy and envisions a better world for herself. And at the top of this story pyramid are tools; a catchall term for the real objects, from slippers to Death Stars, that are above being regular props, because they are the levers of power that control what happens in the story-world.
+Stories pass-on so much information because they create a complete reality. This starts with the props that fill the storyworld with items, from cups to homes, we expect to see in any world. Next, there is music to relay the emotions of characters in the story. The dialogue of the story communicates what each character wants in an easy to understand way. Then there's the villain who earns their title because he likes the world the way it is and defends it against change. Next comes the philosophy of the story-world that dictates the rules everyone in the story is presumed to live by, for example Cinderella is supposed to obey her stepmother. Cinderella is a hero beausse she disreards the ruling philosphy and envisions a better world for herself. And at the top of this story pyramid are tools; a catchall term for the real objects, from glass slippers to Death Stars, that are above being regular props, because they are the levers of power that control what happens in the story-world.
 
 The challenge of good storytelling is mixing these incredients together. When done properly, the resulting "cake" will transfix audiences and arise strong emotions and lasting commitments because so much information was packaged inside an easy to digest format.
 
@@ -276,32 +276,30 @@ The story of _Cinderella_ is about a girl overcoming her step-family using lever
 
 If Cinderella doesn't get the horses, carriage, and evening dress from her Fairy Godmother, she'll never get into the ball. If the Prince didn't find her lost slipper, she'd never see him again. If the imprisoned girl's allies didn't steal the key to the attic, she'd never get out in time. And if Cinderella didn't have the second glass slipper, her name would be famous as a tragedy instead of a fairytale.
 
-Cinderella had a problem, and it wasn't that her step-family were terrible people, nor was it that the rules of society were unjust. Her problem was that her terrible step-family controlled the tools Cinderella needed to improve her life.
+Cinderella had a problem, and it wasn't that her step-family were terrible people, nor was it that the rules of society were unjust, or she had a tragic history. Her problem was that her terrible step-family controlled the tools Cinderella needed to improve her life.
 
 Tools are the levers of power in every story. From _Star Wars_ to _The Matrix_, stories start with the villians controlling the tools while creating a ruling philosophy to justify their control. The hero suffers an injustice that lets them see a problem with the ruling philosophy. The drama of the story is heroes and villains battling to control the tools needed to change the world. The winner implements their philsophy and changes, or reaffirms, the world in their image.
 
-If you were to bullet point Cinderlla, this is what it would looks like.
+If you were to bullet point _Cinderlla_, this is what it would looks like.
 
 - Starting Reality - Cinderella is an orphane living with a hateful stepfamily.
 - Hero insight - Cinderella decides to disobey her cruel stepmother and attend the ball.
 - Back and forth drama - Cinderella, stepmother, and and their respective allies, battle to control evening ware, invitations, attic keys, glass slippers, and other levers of power.
 - New reality - The winner, Cinderella, marries her prince charming and becomes a princess.
 
-Notice the dynamic of the ruling philosophy. It has a public and hidden face. For example, when the stepmother rips Cinderella's gown, locks her in the attic, and destroys the slipper, she's using tools to alter the world in a consistent way, letting us see the philosophy of oppression in her heart.
+Notice the dynamic of the ruling philosophy. It has a public and true face. For example, when the stepmother rips Cinderella's gown, locks her in the attic, and destroys the slipper, she's using tools to alter the world in a consistent way, letting us see the philosophy of oppression in her heart.
 
-Yet, the stepmother would likely not admit her abuse. She'd tell outsiders, and likely even herself, that Cinderella is loved and well cared for. If asked why her stepdaughter is working so hard, or absent from the ball, she'd say something like Cinderella is spoiled or acting up, and needs to be taught a lesson. 
-
-The lesson is ruling philosophy's are two faced. An antagonist can believe one thing and proclaim it to the world, but the effect their tools have is what's truly in their hearts. Our actions determine our fate, not our wishes or ideologies.
+Yet, the stepmother would likely not admit her abuse. She'd tell outsiders, and perhaps even herself, that Cinderella is loved and well cared for. If asked why her stepdaughter is working so hard, or absent from the ball, she'd say something like Cinderella has no interest, or is acting up and needs to be taught a lesson. 
 
 To showcase how tools determine one's philosophy, think of Cinderella locked inside the dusty and cramped attic. The Prince's men are looking for her and if she can try on the slipper, her horrible life will change forever. So, what if her friends failed getting the key, but did get her a match?
 
-Now the oppressed girl has some soul searching to do. Lighting a fire could get the Prince's mens attention, but the philsophy of possibly buring the house down, and killing herself and others, even to earn her freedom, is a different philosophy then getting some friends to steal a key and open a door.
+Now the oppressed girl has some soul searching to do. Lighting a fire could get the Prince's mens attention, but the philsophy of possibly buring the house down, and killing herself and others, even to earn her freedom, is a different philosophy then getting some friends to steal a key to open a door.
 
 The effects our tools have in the world determines what we truly believe in. 
 
 Another important thing to learn from stories is that once they end, the hero and villian are no longer main characters. We don't need to hear from Cinderella after she marries the Prince because "they lived happily ever after". As for the stepmother, she has no more tools to attack Cinderella with, and is thus no longer a threat worthy of attention.
 
-Tools being levers of power, philosophy being the effect of tools, and main characters having a limited shelf-life, are the facts those who sell themselves, and their philosophy, as being the eternal single source of truth that will solve all your problems, don't like.
+Tools being levers of power, philosophy being the effect of tools application, and main characters having a limited shelf-life, are the facts those who sell themselves, and their philosophy, as being the eternal single source of truth that will solve all your problems, don't like.
 
 ## Mixed Ideologies Come By Ending Stories
 
@@ -317,27 +315,27 @@ When someone is telling you a story, and the hero and villian, and their philoso
 
 Echo chambers don't like conclusions because they force an assessment on whether the hero, his philosophy, and his chosen tools changed the world or not. Today's ideologues are not mixed-martial artists, doctors, or scientists searching for the best possible tools and techniques needed to fix your problem. Rather, ideologues are like salesman selling their chosen tools and techniques.
 
-One ideology says green technology is a must buy to secure a properous future, while another says it's the enemy going to drive your family into debt. One ideology says gun ownership is killing innocent lives, another says guns are saving you from tyranical government. One side says government run healthcare is the only option for a healthy society, while another says corporate health-care is your only hope to stay alive.
+One ideology says green technology is a must to secure a properous future, while another says it's the enemy going to drive your family into debt. One ideology says gun ownership is killing innocent lives, another says guns are saving you from tyranical government. One side says government run healthcare is the only option for a healthy society, while another says corporate health-care is your only hope to stay alive.
 
 And on and on the fued continues over cable news shows, Twitter, and society at large. Ideologues constantly fight over which tools are best. There is no middle ground because ideologies are are like fighting disciplines before mixed-martial arts; they sell themselves and their tools as being complete disciplines that can solve every one of your problems.
 
-Remember, it was only when curious people said, "what descipline is best?" and engaged in real fights and looked at the evidence, that the illusion of completeness was erased from all but the most stubborn martial arts. Moreoever, it was only because Ultimate Fighting was officially searching for the best fighter that they bypassed rules to search for better techniques.
+Remember, it was only when curious people said, "what descipline is best?" and engaged in real fights and looked at the evidence, that the illusion of completeness was erased from all but the most stubborn martial arts. Moreoever, it was only because Ultimate Fighting was officially searching for the best fighter that they bypassed man-made rules to search for better techniques.
 
-Today's ideologues don't have that freedom yet. One side can't rise taxes, the other can't cut them. One side fights unionzation as evil, while the other defends it as perfect. One side wants to expand government oversight and social programs, another wants to dismantle them both. Tools and techniques are always black or white to an ideologue. 
+Today's ideologues don't have that freedom yet. One side can't rise taxes, the other can't cut them. One side fights unionzation as evil, while the other defends it as perfect. One side wants to expand government oversight and social programs, another wants to dismantle them both. Tools and techniques are always black or white for today's ideologues.
 
-Tools are of course neither perfect or evil. They are inanimate. Like the glass slippers, they only hold value if they can help solve a problem. Since ideologies are not heroes but salesmen, they sell echo chambers meant to keep you using tool whether it's helpful or not.
+Tools are of course neither perfect or evil. They are inanimate. Like the glass slippers, they only hold value if they can help solve a problem. Since ideologies are not heroes but salesmen, they sell their chosen tools whether it's helpful or not. Their constant salesmanship results in echo chambers.
 
 To escape echo chambers, and embrace mixed-ideological politics, all you must do is understand when a mixed-martial arts enters a boxing gym, he's not being disloyal to his wrestling coach. When a family doctor refers you to a physiotherapist, she's not disloyal to medical doctors. When a biologist says "I don't know, ask a chemist" she's not being a bad biologist. This is because these fields understand they are sub-disciplines that exists to help a person solve a problem. They are each free to admit their limitaions and don't have to pretend they have all the answers.
 
-Fighters overcome opponents. Patients battle diseases. Scientists research nature. Cinderella had an evil stepfamily.
+Fighters overcome opponents. Patients battle diseases. Scientists research Nature. Cinderella had an evil stepfamily.
 
 What's your problem? And what tools do you need to solve it.
 
 If you're willing to consider any tool, from a handgun to a solar panel, to solve your problem, you're on the way to mixed-ideological politics. If you think any tool is "off limits", you're at least partially stuck inside an echo chamber.
 
-You should have the freedom to choose. Not only because it's proven so succesful in modern medicine and mixed-martial arts, but lets you harness evolution.
+You should have the freedom to choose. Not only because it's proven so succesful in modern medicine and mixed-martial arts, but because chosing any adaptation lets you harness evolution.
 
-And evolution has no limits, respects no rules, and is the reason why you exist.
+And evolution has no limits and respects no rules. It's also the reason why you exist and wants you to evolve faster.
 
 ## There is No Lion King - Evolution
 
@@ -347,7 +345,7 @@ We weren't the first species to live on Earth and probably won't be the last. Li
 
 - evolution is the story of stories. With the same use of tools to overcome adversity, over and over again.
 
-Life needs evolution because the Universe is a hostile place that's. It's constantly changing; mountains fall apart, volcanoes erupt, stars emit radiation, heat is lost, and waves wash away shorelines. To respond to the ever-changing environment, Life must evolve a never-ending stream of new species that can find enough energy to procreate (Mayr 43).
+Life needs evolution because the Universe is a hostile place. It's constantly changing as mountains fall apart, volcanoes erupt, stars emit radiation, heat is lost, and waves wash away shorelines. To respond to the ever-changing environment, Life must evolve a never-ending stream of new species that can find enough energy to procreate (Mayr 43).
 
 Those who survive do so because their combination of attributes gives them an edge. But, as the Universe inevitably changes, some traits lose their advantage. Thus, while evolution is a constant race to harvest resources more efficiently than the next guy, no one ever knows if their list of adaptions is good enough to keep them alive. That's why pain hurts so much; it's Life's way of telling individuals to change their behavior and try something else before it's too late.
 
@@ -357,34 +355,34 @@ Evolution has these laws:
  - All lifeforms have a common ancestry.
  - Evolution of new species is gradual.
  - The number of species always multiplies to fill niches.
- - Natural selection determines which species lives.
+ - Natural selection determines which species lives on.
  - Mayr pg. 86
 
-These laws oversee every evolutionary race. The first sprint started after a few amino acids combined to form the first cells 3.6 billion years ago. Since then, evolution has continually created new species. Each is based on the one prior, but each removes or adds traits. The latest adaptation could mean getting bigger, faster, and stronger to hopefully outcompete another creature. Or, the new attribute could be further specialized to find a niche no one else has, such as polar bears being the only predators in a frozen ecosystem.
+These laws oversee every evolutionary race. The first sprint started after a few amino acids combined to form the first cells 3.6 billion years ago. Since then, evolution has continually created new species. Each is based on the one prior, but each removes or adds traits in a hope of finding an edge. That edge could mean getting bigger, faster, and stronger to out compete another creature. Or, the new attribute could be further specialization to find a niche no one else has, such as polar bears being the only predators in a frozen ecosystem.
 
-Regardless of what trait an organism tries, evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. The best way to continually test species is with ecosystems. By putting creatures inside a shared environment, there are checks and balances. So, when any scavenger, predator, herbivore, or omnivore falls behind, Life is ready to create a new individual or species to take its place.
+Regardless of what trait an organism tries, evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. The best way to continually test species is with ecosystems. By putting creatures inside a shared environment, there are checks and balances to keep everyone on task. So, when any scavenger, predator, herbivore, or omnivore falls behind, Life can reach into an ecosystem to create a new individual or species to take its place.
 
 ![Elephant Speciation](/assets/speciation-elephants.png)
 _Here's one example of how a species evolves. Mayr pg 176._
 
 Although evolution has given rise to countless species over billions of years, the story of Life is well organized. Life works hard to adapt to its surroundings, so we can easily track evolution using Earth's geological changes (Mayr 58). Each period, epoch, and age of Earth's geography, from the Jurassic to the Paleozoic, have different characteristics like concentration of oxygen in the air, amount of water in the oceans, or ice in the poles. Because these geological changes required new species, they serve as chapters in the story of Life.
 
-While Life's evolution was relatively seamless between each chapter, the change gave many species agonizing endings. Each time Earth's geology transitioned it was like a climatic conclusion asking if an individual's list of adaptations was needed in the changed environment. The few who passed the test climbed the ladder to the next age, while most adaptations went around in circles, stubbornly fighting their inevitable extinction. Their existence is only remembered as fossils to be maybe uncovered one day.
+While Life's evolution was relatively seamless between each chapter, some species got agonizing endings. Each time Earth's geology transitioned it was like a climactic conclusion asking if an individual's list of adaptations was needed in the changed environment. The few who passed the test climbed the ladder to the next age, while most adaptations went around in circles, stubbornly fighting their inevitable extinction. Their existence only remembered as fossils to be maybe uncovered one day.
 
 ![Evolutionary Spiral](/assets/speciation-elephants.png)
 _The Evolutionary Spiral in the [history of Life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life). From the perspective of Life, it's seamless, but for lifeforms, there are often tragic endings._
 
-This summary misses the many details of evolution. But the essence is here: Life must adapt to Earth's ever-changing environment. The faster, the better; the more species, the better; no interference is justifiable. If evolution were a person, it would be an artist working night and day creting custom lifeforms to harvest every possible ray of sunshine, food scrap, and energy source. Evolution's constant creative  adaptations are the only reason Earth isn't just another rock revolving around a star with no one noticing how beautiful the Universe is.
+This summary misses the many details of evolution. But the essence is here: Life must adapt to Earth's ever-changing environment. The faster the better; the more species the better; no interference is justifiable. If evolution were a person, it would be an artist working night and day creting custom lifeforms to harvest every possible ray of sunshine, food scrap, and energy source. Evolution's constant creations are the only reason Earth isn't just another rock revolving around a star with no one noticing how beautiful the Universe is.
 
 And now, we understand why echo chambers are doomed. They presume an adaptation can be eternal. They commit themselves to a few tools and species and antagonize the evolution of new ones by telling stories of their devices' supposed perfection. Evolution, of course, doesn't care what we tell ourselves. Leaving those inside echo chambers to reconcile the ideology they passionately believe in against the pain they feel in the real world as they walk around in circles, finding someone to blame because they're unable to harvest enough resources to be happy and healthy.
 
-As it's always been, evolution is our way out. Unfettered innovation explains why modern medicine, mixed-martial arts, and fairytale characters like Cinderella are so successful. They let themselves become many species by adapting to their situation. They examine their problem, and pickup whatever techniques or tool will help them solve it. Because of this freedom of mind, they can harness the power of evolution.
+As it's always been, evolution is our way out. Unfettered innovation explains why modern medicine, mixed-martial arts, and fairytale characters like Cinderella are so successful. They let themselves become many species by adapting to their situation. They examine their problem and pickup whatever technique or tool will help them solve it. Because of this freedom of mind, they can harness the power of evolution.
 
-With one big difference. Humans do not evole. Technology does.
+With one big difference. Humans do not in fact evolve. Technology does.
 
 ## Old Age, Ladder Climb, Final Frontier
 
-- We live on thes same evolutionary tree as biology, but with technology.
+- We live on thes same evolutionary tree as biology, but we only operate technology.
 
 The Boston Symphony had a problem. There was a lot of men in their ranks. That wasn't the problem though. The problem was they didn't know why. There were plenty of talented female musicians auditioning, yet not many were making the cut.
 
