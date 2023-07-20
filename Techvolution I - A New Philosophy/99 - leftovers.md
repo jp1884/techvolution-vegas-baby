@@ -3604,3 +3604,53 @@ The abused maid could have just stayed home, as kickboxers could have avoided mi
 Instead, they each choose to embrace uncertainity by droppping what they know and find better tools and answers to solve their problems. The philosophy they each believe in says to choose evolution.
 
 ---
+
+To showcase how tools determine one's philosophy, think of Cinderella locked inside the dusty and cramped attic. The Prince's men are looking for her and if she can try on the slipper, her horrible life will change forever. So, what if her friends failed getting the key, but did get her a match?
+
+Now the oppressed girl has some soul searching to do. Lighting a fire could get the Prince's mens attention, but the philsophy of possibly buring the house down, and killing herself and others, even to earn her freedom, is a different philosophy then getting some friends to steal a key to open a door.
+
+The effects our tools have in the world determines what we truly believe in. 
+
+-------
+
+- pain is still life's way to communicate change needed, but we must have a free innovation to sovle it to have evolution.
+- Tools effectual lifecycle is the ride we're on, especially because echo chambers sustain non-functionality.
+- only end users on the frontline (fightters, patients, Cinderella) feel pain, and have a valid say in the adoption of new tools. Everyone else is but a teacher/manager/coach/stepmother who has all the incentive in the world to tell stories why evolution is bad.
+
+- NOBODY KNOWS. WHAT DOES MICHAEL SCOTT DO. 
+- IT'S THE END OF THE STORY. THERE ARE NO MORE HEREOES, NO MORE VILLIANS.
+
+ - No technology survives forever, but the Industrial Age powerbrokers want there's it to.
+ - All technology has a common ancestry.
+ - Evolution of new tools is gradual.
+ - The number of tools always multiplies to fill niches. Mass production and mass society prvents this.
+ - Natural selection determines which tools lives on. There are no human referres or middlemen. There can be natural selection unless the people using a tool are free to decide to keep using it, or choose another.
+
+
+
+ - the oft said "i want to decentralize power" is the required evolutionary step of speciation.
+ - queen ball, bees kill their queen when non-functioning
+
+---
+- mammal/bird parents pass-on knowledge.
+  - we can't learn from parents as we're in a new age.
+  - new age equals new frontier.
+  - Mayr 253.
+- Large populations are inert and don't evolve fast.
+  - Founder populations face more selective pressure b/c environment is novel, thus evolve faster.
+  - Mayr 193.
+- Founder vs Corps.
+  - Established species have a large and therefore inert gene pool that washes away new genes.
+  - Founding pops have limited gene pools, more likely to absorb new genes and phenotypes.
+  - Mayr 135.
+- The General Rule of Speciation
+  - No strict rule or formula to achieve speciation.
+  - General rule, "The less gene flow there is between populations, the more rapidly speciation will occur, all else being equal"
+  - Ie. local need solved by local greed, and vice versa.
+  - Mayr 186.
+- Components of evolution
+  - Darwinian evolution is a byproduct of two divergent forces, chance (involuntary mutation) and neccesity (surviving the selection process). Mayr 229.
+  "No individual is ever perfectly adapted...the main reason for this is perhaps that every genotype represents a compromise of genetic variability and stability." Mayr 145.
+  - Two halves of our social society, creation and generation, both are going overboard with their art/spectacle, and the result is loss of function/evolution.
+
+>"The history of evolution is a steady extinction of species and the origin of new species. Thus turnover is often apparently due to the superiority of a new species over an established species." Mayr 132.

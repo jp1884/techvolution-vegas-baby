@@ -136,6 +136,11 @@ https://stackblitz.com/edit/vue3-glidejs?file=src%2Fcomponents%2FCarousel.vue
     United States Corporate Profits <https://tradingeconomics.com/united-states/corporate-profits>
     Industrial Revolution GDP growth "Camels in the Amazon" <https://ourworldindata.org/grapher/gdp-world-regions-stacked-area>
 
+
+  - Geography
+    Suburbanization rates...
+   
+
   - Percentage of Boomers with Grandkids
   - Public Sector Wages.
   - Loss of Manufacturing.
