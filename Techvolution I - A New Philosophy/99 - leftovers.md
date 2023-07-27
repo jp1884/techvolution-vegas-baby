@@ -3611,7 +3611,30 @@ Now the oppressed girl has some soul searching to do. Lighting a fire could get 
 
 The effects our tools have in the world determines what we truly believe in. 
 
+---
+
+If you're content with the political atmosphere today and enjoy being a Conservative or Progressive (or more likely being anti-Conservative or anti-Progressive), then don't this book. You're not going to find any ammunication to use against our enemy.
+
+We're here to rise the hate and improve our politics.
+
 -------
+
+>That's hardly a scientific observation Commander.
+
+>Caption, the most elementary and valuable statement in science, the beginning of wisdom is, "I do not know". I do not know what this is sir.
+
+_Lt. Commander Data_ [Star Trek](https://youtu.be/8eDYVtPwWiM)
+
+------
+
+When someone is telling you a story, and the hero and villian, and their philosophies, never go into the sunset, you're being sold an echo chamber. You are being told a unnatural story because there is no conclusion; just endless pages waiting to be filled with your time and money.
+
+Echo chambers don't like conclusions because they force an assessment on whether the hero, his philosophy, and his chosen tools changed the world or not. Only when a "mix and match" philosophy like mixed-martial arts, modern medicine, and scientss has in in force are sub-disciplines free to embrace conclusions because they aren't pretending to be the single source of truth.
+
+Because we don't have mixed-ideological politics, today's ideologues can't embrace conclusions. Instead they must form echo chambers selling their chosen tools and techniques as perfect, while slandering the competition, because Conservatives and Progressives are locked in a winner take all battle.
+
+
+----
 
 - pain is still life's way to communicate change needed, but we must have a free innovation to sovle it to have evolution.
 - Tools effectual lifecycle is the ride we're on, especially because echo chambers sustain non-functionality.

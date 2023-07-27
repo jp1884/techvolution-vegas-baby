@@ -35,6 +35,7 @@ https://stackblitz.com/edit/vue3-glidejs?file=src%2Fcomponents%2FCarousel.vue
        </div>
      </div>
    </div>
+   In the game of chutes and ladders, we thus keep hitting chute.
  </template>
  
  <script>

@@ -47,10 +47,9 @@ co-worker
 
 _"...I was one of those people who needed validation in the popular culture when I was growing up and and that's the power of the medium that's one of the things that we're able to do is by telling these stories giving ourselves an idea that you know it's all good we're all in this together that there's a place for you that's what Star Trek represents to people when the future comes there's a place for you and that we will have reached and a part of our evolution as a species where race and class and sex and how much you make a year all of those will have been overcome those are no longer the things that we are so concerned with on a day-to-day basis there's a principle in Star Trek called edik an acronym IDIC infinite diversity in infinite combination and in jeans vision there was an inherent respect for all of the diversity that exists as life throughout the cosmos that's a world I want to live in you"_
 
-LeVar Burton discusses getting cast on Star Trek The Next Generation - 
-EMMYTVLEGENDS.ORG
-https://youtu.be/I8aq_V2lhF8?t=218
+[LeVar Burton discusses getting cast on Star Trek The Next Generation](https://youtu.be/I8aq_V2lhF8?t=218)
 
+---
 
 # Introduction
 
@@ -84,48 +83,4 @@ Picard meets Darth Blockbuster
 - Money is the distance maker from the frontline. not in nature of course, human made rules say it doesn't expire, about that....
 - read The Man Behind the Microchip, pg 182, people don't need products (drill bits), they need a way to drill 10 million holes, speaks to the triangle vs circle, items are merely temporary problem solvers.
 
-# The Car
-
-## Getting Around
-
-Tis the night before Christmas...
-
-# The House
-
-## Bye Bye Versailles
-
-Tis the night before Christmas...
-
-# The Call Center
-
-## Equal Two Way Communication
-
-Tis the night before Christmas...
-
-# The Deed
-
-Tis the night before Christmas...
-
-# The Ballot
-
-Tis the night before Christmas...
-
-# The Tech Tree
-
-## The Periodic Table of Societal Functions - Sid Meier's Civilization
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5KdE0p2joJw?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# The Gold Money
-
-## Nature's Money is Time and Distance
-
-Tis the night before Christmas...
-
-# The Watch
-
-## Time is Majical
-
-Tis the night before Christmas...
-
-# Conclusion
+===
