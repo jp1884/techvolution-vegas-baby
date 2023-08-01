@@ -3633,6 +3633,29 @@ Echo chambers don't like conclusions because they force an assessment on whether
 
 Because we don't have mixed-ideological politics, today's ideologues can't embrace conclusions. Instead they must form echo chambers selling their chosen tools and techniques as perfect, while slandering the competition, because Conservatives and Progressives are locked in a winner take all battle.
 
+---
+
+Before Ultimate Fighting, all fighters were puting the horse before the cart, so to speak. They had the answers before knowing the problem because as students they were used to thinking fights are won or lost according to man-made rules governeed by teachers, pundits, and judges. 
+
+---
+
+>_I think one of the things that really separates us from the high primates is that we’re tool builders. I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometer. And, humans came in with a rather unimpressive showing, about a third of the way down the list. It was not too proud a showing for the crown of creation. So, that didn’t look so good. But, then somebody at Scientific American had the insight to test the efficiency of locomotion for a man on a bicycle. And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts._
+
+[Steve Jobs, co-founder of Apple ](https://youtu.be/6kalMB8jDnY)
+
+> _"We shape our tools and thereafter our tools shape us."_
+
+[Marshall McLuhan](https://www.goodreads.com/quotes/tag/tools)
+
+----
+
+To get there all we must do is let evolution free.
+
+ - No technology survives forever.
+ - All technology has a common ancestry. 
+ - Evolution of new tools is gradual.
+ - The number of tools must always multiplies to fill niches.
+ - Natural selection by on the frontline of evolution must freely determine which tools lives on.
 
 ----
 
@@ -3677,3 +3700,8 @@ Because we don't have mixed-ideological politics, today's ideologues can't embra
   - Two halves of our social society, creation and generation, both are going overboard with their art/spectacle, and the result is loss of function/evolution.
 
 >"The history of evolution is a steady extinction of species and the origin of new species. Thus turnover is often apparently due to the superiority of a new species over an established species." Mayr 132.
+
+---
+
+https://qr.ae/pyZNq0
+What were the political reasons of the USSR collapse?
