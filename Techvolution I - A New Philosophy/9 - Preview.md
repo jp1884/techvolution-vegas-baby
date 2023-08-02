@@ -62,7 +62,7 @@ Living in the wild is tough, but many creatures struggle extra hard today. The e
 
 What would you tell a polar bear today if you could communicate with her?
 
-Wouldn't it be nice to explain evolution and describe how our characteristics are the expressions of genes, which are passed on from parents to offspring during reproduction. Thus, Life on Earth is a race. The organisms that harvest the most calories the fastest, while suffering the least pain, pass on their genes most often. Over time this turnover of genes slowly adapts the forms of Life to more efficiently use the environment's resources.
+Wouldn't it be nice to explain evolution and describe how our characteristics are the expressions of genes, which are passed on from parents to offspring during reproduction. Thus, Life on Earth is a race. The organisms that harvest the most calories the fastest, while suffering the least pain, pass-on their genes most often. Over time this turnover of genes slowly adapts the forms of Life to more efficiently use the environment's resources.
 
 If the hungry polar bear understood evolution, she would understand her place in this ongoing story of Life. Then she could assess what characteristics polar bears need to survive in the Artic's new environment. Perhaps male polar bears should help raise and protect their cubs. Or polar bears should hunt in packs to kill reindeer in the summer months. Maybe the might flesh eaters must diversify their diet with berries, grubs, and roots like brown bears do.
 
@@ -397,21 +397,23 @@ And within a few years, the symphony was about equal men and women.
 
 The sounds of the shoes was triggering a bias in the both male and female judges. By removing everything but the music, they heard only the music, and got a better product for their audience.
 
-That's a good little story. As we learned above, humans love stories. It's how we make sense of the world and pass-on knowledge.
+That's a good story. As we learned above, humans love stories. It's how we make sense of the world and pass-on knowledge.
 
-Yet, stories are also our problem. We can understand cause and effect so easily that stories come naturally to us. But that doesn't mean we're good at reasoning which stories are real or fake. We can just as easily believe in a false story; as did the judges who heard footsteps instead of music and the martial artists who thought their man-made rules would protect them in a dark alley during real a fight.
+Yet, stories are also our problem. We can understand cause and effect so easily that stories come naturally to us. But that doesn't mean we're good at reasoning which stories are real or fake. We can just as easily believe in a false story; as did the judges who heard footsteps instead of music, the martial artists who thought their man-made rules would protect them in a dark alley during real a fight.
 
 The whole trick of evolution is finding the perfect adaptation for the problems of a given environment. And no one knows what environment the future will bring. So we must respond to failure with another adaption as quickly as possible. Anything else that gets in the way, like gender and fighting rules, is all noise.
 
-Finding the perfect biological adaptation takes a lot of time. The genetic mutations needed to create new characteristics takes many generations. Biological evolution is measured in millions of years because organic lifeforms are physically attached to their adaptations. But, while biological evolution is slow, at least it's inevitable. Genetic mutations happen involuntarily during procreation, thus biological innovation is automatic with no interference possible.
+Finding the perfect biological adaptation takes a lot of time. Biological evolution is measured in millions of years because organic lifeforms are physically attached to their adaptations. So, the genetic mutations needed to create new characteristics takes many generations. But while biological evolution is slow, at least it's inevitable. Genetic mutations happen involuntarily during procreation, thus biological innovation is automatic with no interference possible.
 
-There are no fake stories in the ongoing biological evolution of Life.
+There are no fake stories in the biological evolution of Life.
 
 We humans can't evolve biologically. If we did, then their might be a difference between male and female musicians. But it's not our genes that change when learning a tool like a violin or piano. Instead, we adapt our psychology to incorprate a new tool into our list of traits.
 
-Anyone with enough patience can learn any tool and evolve their skillset. As Steve Jobs said, when judging how much energy species needed to use to get around, condors were the most efficient, while biological humans were far down in the list. But "And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts." Learning to ride a bike, play a piano, takes a few tries, but once learned, a new chapter in our lives begins.
+Anyone with enough patience can learn any tool and evolve their skillset. As Steve Jobs said, when judging how much energy species needed to get around, condors were the most efficient, while biological humans were far down in the list. But, "A human on a bicycle, blew the condor away, completely off the top of the charts."
 
-We are still of course biological lifeforms in Nature, but because we invent new tools, we facilitate Life's evolution with technology instead of biology. There is effectively no difference. Life wants adaptations that consistently collect energy, procreate, and adapt. Life doesn't care about the material composition anymore than a composer or audience cares what gender the orchastra is.
+Learning to ride a bike, play a piano, takes a few tries, but once learned, a new chapter in our lives begins.
+
+We are still biological lifeforms, but because we invent new tools, we facilitate Life's evolution with technology instead of biology. There is effectively no difference. Life wants adaptations that consistently collect energy, procreate, and adapt. Life doesn't care about the material composition anymore than a composer or audience cares what gender the orchastra is.
 
 Our technological evolution follows the same laws as regular evolution.
 
@@ -423,9 +425,9 @@ Our technological evolution follows the same laws as regular evolution.
 
 Thus, we humans are biological vessels for technological evolution. As Cinderella demonstrated, our fate is mostly determined by the tools in our hands, not the genes in our cells.
 
-Our evolution requires innovators undertake the burden of inventing new technology, that becomes tools, that effectively becomes a new species once someone uses it. To connect people to new adapatations requires a reason, which is best communicated with a story. Therefore, innovation requires storytelling inside marketing or ideology to connect person and tool.
+Our evolution requires innovators undertake the burden of inventing new technology, that becomes tools, that effectively becomes a new species once someone uses it. To connect people to adapatations requires a reason, which is best communicated with a story. Therefore, innovation requires storytelling inside marketing or ideology to connect person and tool.
 
-This is what happened during the creation of judo, boxing, wrestling and the other martial arts. While these disciplines of course don't have much technology, they still use bags, pads, ropes, gloves, weights, books, and eventually video, to train, learn, and pass on knowledge.
+This is what happened during the creation of judo, boxing, wrestling and the other martial arts. While these disciplines of course don't have much technology, they still use bags, pads, ropes, gloves, weights, books, and eventually video, to train, learn, and pass-on knowledge.
 
 Thus, these martial arts used the human body as a foundation, with a different mixture of tools, to turn the human body and mind into variety of distinct traits and therefore created different species like boxers, judokas, kickboxers, etc.
 
@@ -438,9 +440,9 @@ But, while natural selection in biological Life is automatic, for humans to edit
 
 Why?
 
-Because by seeing through a story that connects us to a tool and a way of life, we're essentially doing what Cinderella did when she decided to disobey her stepfamily; we're questioning the philosophy that governs our society.
+Because by seeing through a story that connects us to a tool, we're evaluating our way of life and doing what Cinderella did when she decided to disobey her stepfamily; we're questioning the philosophy that governs our society.
 
-And, when we decide to drop old tools and pick up better ones, old power-brokers have a choice. Do they embrace open competition and admit their tools have been improved upon, or do they create a fake story that says a human being can't evolve life on Earth?
+And, when we decide to drop old tools and pick up better ones, old power-brokers have a choice. Do they embrace open competition and admit their tools have been improved upon, or do they create a fake story that says that despite 3.6 billion years of great success, a human being should not be allowed to continue evolution on Earth?
 
 Often, leaders don't self-sacrifice. They decide as the stepmother did and antagonize evolution using echo chambers of fake stories.
 
@@ -448,17 +450,17 @@ _"Cinderella, the ball isn't for you." _
 _"Cinderella, clean up, that is your job, because you're the stepdaughter."_
 _"Cinderella, you can't try on the glass slipper, because only your stepsisters can be a princess."_
 
-We can't understand a word of any other animals communication, yet we understand the reason of biological evolution, because efficiency wins the day. Because we can understand human langauges, natural selection of tools is a confusing mess of fake reasons why efficiency is wrong.
+We can't understand a word of any other animals communication, yet we understand the reason of biological evolution, because teh most efficient adaptations win. Because we can understand human langauges, natural selection of tools is a confusing mess of fake reasons why we shouldn't evolve.
 
 Today, our society's huge and expanding ideological echo chambers exist to fight evolution.
 
 And they won't stop getting their bigger or nastier because, like it did with biological lifeforms so many times before, evolution has finished a chapter in the story of Life. Life is leaving one age and and entering a new one. The old age wants to stay alive past its shelf-life and is using echo-chambers to keep it's old tools alive.
 
-All people today thus have a huge choice to make; listen to fake stories while going round in circles struggling to find resources using outdated adaptations. Or climb the ladder and evolve, as quickly as possible, so Life can prosper in the fledgling Internet Age.
+All people today thus have a huge choice to make; follow fake stories while going round in circles struggling to find resources using outdated adaptations. Or climb the ladder and evolve, as quickly as possible, so Life can prosper in the fledgling Internet Age.
 
 ## Old Age, Ladder Climb, Final Frontier
 
-In 55 BC, Julius Caesar had a problem. He was in control of prosperous and peaceful territory west of the Rhine river while the east side was contolled by hostile German barbarians. The Romans defeat the Germans when they fought pitched battles, but that is why the Germans avoided fighting them and instead used small boats and rafts to raid Roman villages in the night.
+In 55 BC, Julius Caesar had a problem. His country was under attack. He was in control of prosperous territory west of the Rhine river while the east side was contolled by hostile German barbarians. Caesar defeats the Germans in pitched battles, but that is why the Germans avoided fighting the Roman general and instead used small boats and rafts to raid his villages in the night.
 
 So, to protect his society, Caesar had to defeat an enemy that wouldn't fight him.
 
@@ -468,11 +470,11 @@ To showcase their technological power, Caesar decided to build a bridge.
 
 The construction was carried out in an area where the depth of the river would be up to nine meters. The bridge was built on double wooden piles that were driven into the riverbed by winching up a large stone and releasing it, thereby driving the posts into the riverbed. The construction system ensured that the greater the flow of water, the harder the bridge was held together. Caesar’s soldiers built the bridge in just 10 days.
 
-Watching the powerful Roman legions crossing the river mystified the Germans. They struggled to get flimsy boats across the wide river, now they watched thousands of soldiers walk over it. It would be like us seeing a city of people teleport to the Moon; a totally unknown adaptation our psychology isn't adapted to understand.
+Watching the powerful Roman legions crossing the river mystified the Germans. They struggled to get flimsy boats across the wide body of water, now they saw thousands of soldiers walk over it. It would be like us seeing a city of people teleport to the Moon and back; a totally unknown technology our psychology isn't adapted to understand.
 
 Caesar defeated the Germans by educating them about technological evolution. He showcased how Romans were masters of the Classic Age, and the Germans were hundreds of years behind in the Iron Age. So impressed by Rome's levers of almost magical powers, the Germans made peace that lasted for generations.
 
-We already know biological evolution is tracked in eras like the famous Jurassic period. For humans the chapters of Life are the ages of new technology. The technology we create, use, and understand determines where we are in the story. Here is a list of all the technological ages, and the civilizations that lead humanity to each.
+We already know biological evolution is tracked in eras like the famous Jurassic period. For humans the chapters of evolution are the ages of new technology. The tools we create, use, and understand determines where we are in the story of Life. Here is a list of all the technological ages, and the civilizations that led humanity to each.
 
   - Bronze Age: 	  2000 - 1250 (Babylon)
   - Iron Age:  		  1250 - 550  (Greece)
@@ -487,30 +489,30 @@ We already know biological evolution is tracked in eras like the famous Jurassic
 
 Like Julius Caesar demonstrated, the difference between technological ages is huge. A fundamental new technology is an entirely new stage of evolution, with a totally different list of traits in the hands of its people. Going from one chapter to another, like from Bronze to Iron, requires re-inventing everything; from transportion, agriculture, war, healthcare, music, self-defense, medicine, and everything else that makes up a civilization.
 
-This constant race to invent, learn, and use technologies resembles the board game chutes and ladders. Played on a game board gridded boxes, a number of "ladders" and "chutes" are pictured on the board, each connecting two specific board boxes. The object of the game is to navigate one's game piece from start to finish, ladders help advance faster while chutes of course hinder progress.
+This constant race to invent, learn, and use technologies resembles the board game chutes and ladders. Played on a game board with gridded boxes, a number of "ladders" and "chutes" are pictured on the board, each connecting two specific board boxes. The object of the game is to navigate one's game piece from start to finish. Ladders help advance faster while chutes hinder progress.
 
 Each chapter in the story of Life, is a game of chutes and ladders.
 
-Making improvements are relatively straight-forward and take many "boxes" of iterations to advance through. Innovation saves much time, so is like climbing a ladder, while complancency and pride sends the player back several boxes like hitting a chute.
+Everyone adaptation stars on the same starting line, wants to adapt to the changing environment by advancing up the board as quickly as possible. Improving existing adaptions is relatively straight-forward but slow-going, and so take many "boxes" of iterations. Great innovation saves much time, so is like climbing a ladder, while complancency sends the player back several boxes, so is like hitting a chute.
 
-Only the fastest adapations win the game and survive to play again. A few adaptations keep wining from age to age and become "living fossils" while most adaptations eventually end up losing the game, and go in circles, fighting their inevitable extinction as their "levers" are no longer powerful enough to keep them advancing up the board game.
+Only the fastest adapations win the game and survive to play again in the next chapter of Life.
+
+A few adaptations keep winning and become "living fossils" while most adaptations eventually end up losing the game, and go in circles, fighting their inevitable extinction as their "levers" are no longer powerful enough to keep them advancing in the next era of Life.
 
 ![Technological Spiral](/assets/speciation-elephants.png)
 _Evolve and advance, fight evolution and go down on ongoing evolution of technological Life_
 
-Biological evolution is slow but involuntary, and thus the biological game of chutes and ladders never stops.
+Biological evolution is slow but involuntary, and thus the biological game of chutes and ladders never stops. 
 
 Technological life isn't so certain. 
 
 The Germans didn't enter into the Classic Age for hundreds of more years after seeing Caesar's bridge. The Romans themselves stalled their advancement and were invaded and colonized by those very same Germans. Advancing a civilization requires leaving the old one behind, which for many nations is so hard, it never happens.
 
-A big reason for this is the loyalty fake stories foster in humanity. Stories are meant to pass-on knowledge to aid everyone's continuous evolution, but they often become fake to prevent evolution. 
+A big reason for this is the loyalty stories foster in humanity. Stories are meant to pass-on knowledge to aid everyone's continuous evolution, but they often become fake to prevent evolution. 
 
-As the saying goes "hard times creates hard people, who work play the game hard to create easy times, which thus breeds easy people, who stop evolving, and thus create hard times". During this cycle, the stories used to pass-on the hard-won lessons so humanity can continually move over more boxes of evolution, transform into stories to antagonize playing the game at all.
+As the saying goes "hard times creates hard people, who work play the game hard to create easy times, which thus breeds easy people, who stop evolving, and thus create hard times". During this cycle, the stories used to pass-on the hard-won lessons so humanity can continually move over boxes of evolution, transform into stories to antagonize anyone playing the game.
 
-That's why no civilization has ever won two ages in a row, the winners rest on their laurels and see innovation as a threat. To keep themselves in power while antagonising evolution, power brokers create stories like elitism, racism, and sexism, for the same reason Cinderella's stepmother tore the dress, locked the attic, and shattered the glass slipper, they don't want to compete.
-
-Because at the beginning of a new age, everyone lines up at the same starting line.
+That's why no civilization has ever won two ages in a row. The winners have so much power, they become soft and rest on their laurels. Too distant from frontline pain, innovation becomes a threat to an established way of life. To keep themselves in power leaders will antagonize evolution, by creating stories like elitism, racism, and sexism, for the same reason Cinderella's stepmother tore the dress, locked the attic, and shattered the glass slipper, they don't want to compete.
 
 America won the Industrial Age. It did so with a mixture of hardwork, ingenuity, and injustice. And, in 1970, America invented the personal computer and the internet. This is the technology of the future, but we are not yet in the Internet Age, because we haven't transformed our society to the possibilities of modern technology. 
 
@@ -522,46 +524,59 @@ _In the game of chutes and ladders, not evolving to the Internet Age means we ke
 
 ## Us Now
 
-We can't speak a word of polar bear, but we understand how they get resources and procreate. We thus understand their fate pretty well. You don't need to speak English to understand the yellings fest of today's ideological politics.
+We can't speak a word of polar bear, but we understand the adaptions that get them resources. We thus understand the fate of a bulky, white, and flesh eating predator in a melting artic pretty well. You don't need to speak any English to understand the yellings fest of today's ideological politics.
 
-We're stuck in the Industrial Age. Like the Germans looking at Caesar's brige, we're mystified by the technology of the Internet Age. We don't understand how it will change our society and ourselves, so we don't climb the ladder.
+Today's ideologies get their resources from Industrial Age technology that is now long past its life expectancy. What else is there to do but fight over the decreasing amount of seals killed in the pack ice every year.
 
-Instead, we continue industrailzing society, with too many roads, cars, homes, planes, one-time-use products, and other industrial goods. These tools cannot give a return on their investment because they're dinosaurs living in the Ice Age so to speak. Instead of being helpful levers of power in your small journey to collect resources and procreate, our tools rely on huge marketing and ideological storytelling to keep their users interested.
+Evolution doesn't care about our stories anymore than the polar bears. Life needs lifeforms that harvest enough energy to procreate. Evolution is happening to us right now, but we're fighting it instead of accepting change. Our evolution isn't inevitable. Like the Germans looking at Caesar's brige, we're mystified by Internet Age technology. We don't understand how it will change our society and ourselves. There isn't even a field of study (yet) to learn how technological evolution morphs humans to its requirements.
 
-We need to re-invent all of our civilization to upgrade ourselves into the Internet Age. But because we believe in old philosophies, we're like Cinderella before she decided to disobey her stepmother or martial artists before mixed-martial arts; we follow old rules that keep us walking in circles using old tools.
+So we haven't started the the next chapter in the ongoing story of Life.
+
+Instead, we continue industrailzing society, with too many large roads, cars, homes, planes, televisions, one-time-use products, and other mass-produced goods. These tools cannot give a return on their investment because they're dinosaurs trying to live in the Ice Age. Instead of being "no-brainer" levers of power in your quest to collect resources and procreate, our aging tools rely on huge marketing and extreme ideological storytelling to keep their users engaged.
+
+We need to re-invent all of our civilization to upgrade ourselves into the Internet Age. But because we believe in old philosophies, we're like Cinderella before she decided to disobey her stepmother or martial artists before mixed-martial arts; we follow old rules that keep us walking in circles using old tools in a expired way of Life.
 
 We thus keep hitting chutes as taxes get more confusing. School prepares students less for the job market. Insurance gets more expensive. And there are many more topics trending badly.
 
-Professors tell students not to use ChatGPT, Wikipedia, and any other tool that makes learning easier, as if the job market is looking for students who use card catalogues. Corporate bosses insist workers must drive into a corporate office while the paying customer has no say. Because we don't have a new philosophy pointing a ladder saying "let's innovate", regular people are left trying to decide if Conservative or Progressive ideology lets them justify why they get priority consideration from the dwindling carcus of the Industrial Age.
+Like the Cinderella's stepmother, there are lots of leaders fighting our ascension to the Internet Age. Professors tell students not to use ChatGPT, Wikipedia, and any other tools that makes learning easier, as if the job market is looking for students who know how to use card catalogues. Corporate bosses insist workers must drive into a corporate office while the paying customer has no say. Bureaucrats keep making citizens use actual paperwork to use government services because using searchable `.txt` files is too easy.
 
-- My parents or grandparents were abused and disadvantaged so I deserve preferencial help.
-- My parents or grandparents were smart and hard working so I deserve an easy life.
+Because we don't have a new philosophy reminding everyone we "innovate or die", regular people are left trying to decide if Conservative or Progressive ideology lets them justify why they get priority access from the dwindling carcus of the Industrial Age.
+
+- My parents and grandparents were abused and disadvantaged so I deserve preferencial help.
+- My parents and grandparents were smart and hard working so I deserve preferencial treatment.
 - Neither of us knows how to start a web server.
 
-Today's raging ideological converts are like Cinderella or martial artist pleading for help, but not reaching for the tools to change their fate.
+Today's raging ideological converts are pleading for help, but unlike Cinderella or martial artist, they don't know how to reach for the tools to change their fate.
 
-We've delayed evolution to the Internet Age for so long, the chance to bring the debt, inflation and the cost of living rates<button @click="rdegg = !rdegg">*</button>down proactively and ease ourselves into the Internet Age has passed. Life has killed 9.999999999% of all prior species who failed to harvest enough resources to procreate. 
+We've delayed evolution to the Internet Age for so long, the chance to bring the debt, inflation and the cost of living rates<button @click="rdegg = !rdegg">*</button>down proactively and ease ourselves into the Internet Age has passed. Life has let die 99.9% of all prior species because they failed to harvest enough resources to procreate. Industrial Age ideologues and societies are writing themselves on that list.
 
-Without a new story to guide people towards evolution, people have no choice but to fight for their tool's and therefore their ideology's survival. Why would anyone in a government job not support government's redistribution of wealth via larger social probrams? Likewise, why would anyone inside a large corporation not support corporate profiteering if that's why pays the increasingly harder to pay bills?
+We don't have a Julius Caesar to build a bridge to the Internet Age. No one's been there before. We must venture into the unknown.
 
-Stuck in an dying, yet still industrializing society, forces everyone into a one-sided jobs, and therefore enforces one-sided interests and therefore one-sided politics.
+But without a new story to guide people towards evolution, people have no choice but to fight for their tool's and therefore their ideology's survival. Conservatives keep talking about wealth generation, and Progressives keep talking about wealth distribution, because that's ideology of their respective tools. In a dying Industrial Age economy, why would anyone in a government job not support government's redistribution of wealth via larger social probrams? Likewise, why would anyone inside a large corporation not support corporate profiteering if that's what pays the increasingly harder to pay bills?
 
-Every transition to a new chapter in the story of technological life is first filled with civil wars as old ideologies struggle to keep their tools alive. Eventually regular people start reaching for new levers of power as revolutions motivate regular people try to kickstart the game of evolution over the antagonism of elitism, racism, sexism, and other fake stories used to prevent technological evolution.
+Because we'r all stuck in an dying, yet still industrializing society, everyone is forced into a one-sided jobs with one-sided interests. Therefore people have one-sided, and increasingly extreme, politics.
 
-The answer is to merge the two ideologies we have into a new philosophy. Mixed-ideological politics will only come when we climb the ladder to the Internet Age.
+Every transition to a new chapter in the story of technological Life is first filled with civil wars as old ideologies struggle to keep their tools alive. Eventually regular people start reaching for new levers of power as revolutions motivate the frontline to kickstart the game of evolution. In their way is the stepmother justifying her status with elitism, racism, sexism, and other fake stories, all of which are just versions of antagonism to delay technological evolution.
 
-Set the Progressives, who love to be weird and creative, loose but focus their creativity to inventing an Internet Age civilization. Let the greedy Conservatives, who love to build things for profit, but make sure they only earn money when they build the new civilization Progressives imagine.
+In its highest form, politics discusses what direction a society should take. Good politics is like a healthy nervous system directing resources to address the pain society feels. We today are feeling pain that is usually in recent history, but it will only increase as our tools can't solve our problems. The answer to our stagnation is to create is to merge our ideologies into a new philosophy that tells everyone innovation, adapatation, evolution, and frontline pain reductions is the gold standard of right or wrong.
 
-The lessons of every transition to a new age is the same; frontline pain is the definition of good and bad, because curing human pain is a universal langauge for us, the same as it is for polar bears and other lifeforms. Prior revolutions have earned frontline feedback in our legislature, executive, and consumer markets. But not within our companies or bureaucracy.
+Mixed-ideological politics will only come when we climb the ladder to the Internet Age.
+
+Set the Progressives--who love bing weird and creative--loose but focus their creativity to inventing an Internet Age civilization. Let the Conservatives--who love to build things for profit--be free, but make sure they only earn money when they build the new civilization Progressives imagine.
+
+The lessons of every transition to a new age is the same; frontline pain is the definition of good and bad, because curing pain is a universal langauge for us, polar bears, and every other lifeform. Pain is Life's way of telling individuals to change their behavior before it's too late. Prior revolutions made sure the human nervous system advanced itself to encorporate ever more pain receptors to frontline feedback.
+
+We know have feedback mechanisms in place for our legislature, executive, and consumer markets. But not within our companies, bureaucracies, and jobs.
+
+In our jobs we're still the martial artits listening to old leaders and Cinderella without freedom to choose our tools. Our politics is a reflection of the tools we use to make a living. To quell our political extremims with mixed-ideological politics requires we upgrade our economics so we each freely "mix and match" tools while earning a living, to bring  our ideology towards moderation, efficiency, and evolution. This cross-polination of tools and techniques in our economy might be called "bumblee economics".
 
 So, you must be you're own mixed-martial arts trained Cinderella and pickup whatever tools helps improve your future. But to do these things you must look past the rules that govern you today. This mixed-ideological politics is brought to you inside a nice new political philosophy called Techvolution.
 
 Keep reading, and you'll climb the ladder to Internet Age. Jeff Goldblum says it's inevitable, why would anyone not follow him?
 
->If there's one thing the history of evolution has taught us, it's that life will not be contained. Life breaks free. It expands to new territories. It crashes through barriers. Painfully, maybe even.. dangerously, but and...well, there it is....life...finds a way.
+>If there's one thing the history of evolution has taught us, it's that Life will not be contained. Life breaks free. It expands to new territories. It crashes through barriers. Painfully, maybe even.. dangerously, but and...well, there it is....Life...finds a way.
 
 [Ian Malcolm, Jurassic Park](https://www.youtube.com/watch?v=kiVVzxoPTtg)
 
 <p v-if="rdegg">💚<img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;"> F the mixture of failure and fortune. <img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;">💚</p>
 
-- The purpose of a political philosophy is to rise above daily politics and create a shared vision for society. Only when a body politic works together can its members build a healthy ecosystem where everyone can better themselves. The mark of a good philosophy is one that makes people realize humans are not the final judge of right or wrong. As it is for all creatures, evolution ultimately decides if we are harvesting resources good enough to procreate and keep our civilization going.
