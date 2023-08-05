@@ -50,3 +50,5 @@
 - We're like ants in a death spiral. Industrial Age people with nowhere to go but round and round until it all ends. <https://www.instagram.com/p/CtRTVs7Atnk/>
 
 - Dinosaurs didn't go off into the sunset. Neither will boomers, or the rest of us.
+
+- Superficial jobs create superficial politics.

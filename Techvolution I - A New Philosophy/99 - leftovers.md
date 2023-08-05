@@ -3649,6 +3649,11 @@ Before Ultimate Fighting, all fighters were puting the horse before the cart, so
 
 ----
 
+Doctor of Chiropractic honest discusses field, and need to assess pain, and refer to specialists as needed.
+https://youtu.be/ay3W1O6sUeY?t=1314
+
+----
+
 To get there all we must do is let evolution free.
 
  - No technology survives forever.
