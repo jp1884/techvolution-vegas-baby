@@ -3647,7 +3647,13 @@ Before Ultimate Fighting, all fighters were puting the horse before the cart, so
 
 [Marshall McLuhan](https://www.goodreads.com/quotes/tag/tools)
 
-----
+---
+
+pagebreak in markdown while creating pdf
+<div style="page-break-after: always;"></div>
+https://stackoverflow.com/questions/22601053/pagebreak-in-markdown-while-creating-pdf
+
+---
 
 Doctor of Chiropractic honest discusses field, and need to assess pain, and refer to specialists as needed.
 https://youtu.be/ay3W1O6sUeY?t=1314

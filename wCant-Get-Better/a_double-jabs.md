@@ -52,3 +52,7 @@
 - Dinosaurs didn't go off into the sunset. Neither will boomers, or the rest of us.
 
 - Superficial jobs create superficial politics.
+
+- All baby-boomer pension cheques should be printed and mailed. Let them commute to pick'em up, cash them, and spend their money. It's more efficient for society after all.
+
+- Being political doesn't mean embracing a single ideology. It means using any tool or technique to make your life more efficient.
