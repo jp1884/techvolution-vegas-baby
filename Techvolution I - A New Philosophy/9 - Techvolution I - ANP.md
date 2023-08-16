@@ -602,7 +602,7 @@ For example, when a guy named "[Friar Bruno (1548-1600)](https://en.wikipedia.or
 
 Evolving a new way of life to a new age often shows the worst parts of humanity. But, we don't have to join ancestors down these paths of evolution.
 
-The critical point to for you to realize is that in 1970, personal computers and the internet came online. Since then, computer geeks, hackers, and innovators have been upgrading our society to the Internet Age. All the while, the "eight different bosses" inside Industrial Age companies and government bureaucracies have been holding us back to keep their obsolete products and services alive and using Right/Left infotainment to prevent you from noticing.
+The critical point to for you to realize is that in 1970, personal computers and the internet were both seeded. Since then, computer geeks, hackers, and innovators have been growing an Internet Age society. All the while, the "eight different bosses" inside Industrial Age companies and government bureaucracies have been holding us back to keep their obsolete products and services alive and using Right/Left infotainment to prevent you from noticing.
 
 Being forced to use outdated technology is why middle-class life can be so unhappy. It's why we work bullshit jobs, still use so much oil, can't understand the tax code, and now live in uncertainty during this pandemic. Middle-class life will only get better once we finish the Internet Age upgrade.
 

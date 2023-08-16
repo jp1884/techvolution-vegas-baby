@@ -1,54 +1,53 @@
-## Story-Cut Tools Summary
+### US Bill of Rights
 
-It would be nice if self-defence started with mixed-martial arts. Spending hundreds of years developing martial arts disciplines with techniques that proved ineffective seems like a waste. But starting off with mixed-martial arts wasn't possible.
-
-We had to invent lots of options in order to select the best. It's only ignorant people who think great results don't require lots of wasted effort. Every products starts off with a terrible first try. Every great book has hundreds of erased pages.
-
-To invent martial art techniques similarly need lots of wasted effort. You need the sport of boxing, with its rulebook and culture, to experiment different punching techniques. So while boxing excludes kicking and throwing, we wouldn't have the knowledge of excellent punching without those exclusions. Same applies to Judo and its bodythrows, jiu-jitsu and its submissions, and so on for every discipline. A limited rulebook fosters a few techniques. 
-
-The problem mixed martial arts had to overcome wasn't the rulebooks of martial arts disciplines, but their proclamations about being the single source of truth.
-
-Medicine had the same situation. 
-
-Historically, in every culture in the world, medicine was a thing for healers who were masters of all. For example, the Roman healer Galen was the basis for European medicine from 5-1500. Among his teachings was the human body had four primary fluids, and illness is caused by an imbalance in these fluids. So, in Europe, if someone had a headache, ulcer, cancer, or most every any other ailment, a trained healer would often use leaches to drain blood from their patient to re-balance the fluids and heal them.
-
-Laughable to us today, yet in a time of limited information and tools of the ancient world, not too surprising. Galen was an example of ab early discipline doing the best it could. Like the world round, Galen at least had people studying the body and looking for causes and solutions to diseases.
-
-It therefore wasn't a huge jump to today's evidence based medicine when the printing press, medical tools, open minds like Leonardo Andreas Vesalius, William Harvey, and Florence Nightengale developed medicine into the many specialists we have today.
-
-There are many healthy disciplines because every part of the human body has experts; throat, neck, toes, heart. You would today never go to one, expecting them to be a specialist of everything. All its professionals, from hemopathic healers to neural surgeons, are subdisciplines. Each has their own techniques, cultures, and rulebooks. Nobody should declare any of them the single source of truth. The skill in modern medicine is mixing them together to solve a patients pain. Modern medicine and mixed-martial arts are both achivements in being open-minded and letting the problem determine the best solution.
-
-That is what this book is but for ideology.
-
-There are lots of learn from old ideologies, but none of them are complete. They must be mixed and matched according to their strength and weaknesses, and evaluated based on evidence of their effectiveness on improving daily basis.
-
-And this brings us back to storytelling and uncovering how echo chambers form. It's not possible to mix and match ideologies when one is stuck inside believing its a single source of truth. Storytelling is quite convincing, and so to let's learn about it to protect ourselves from its influence.
-
-## Evolution
-
-The evolutionary process of creating sub-disciplines first, and then selecting the best techniques is rational. It's the same process that empowered Life to go from single-cell organisms to stepping on the Moon. The problem holding us back from evolution was entirely us. While all other organisms on this planet are born wit their adaption and most make the best of it they can, we humans can learn, develop new techniques, and must therefore decide which to use and not use.
-
-All martial art techniques are adaptions. In the natural world, evolution needs unfettered creation to decide what resulting adaptions are needed. Scientists call this choosing process "natural selection" and "survival of the fittest". We humans can't rely on nature doing this process for us. Our ability to reason means we can reject facts as much as we can receive them.
-
-The fact we need to realize, is the philosophy's that we believe it must always serve practical ends.
-
-The and that's because we don't realize technique, technology, adaptions is the highest in importance, and philosophy is the servant. Because we don't understand ideology we assume it's paramount. Philosphy must serve a practical purpose.
+1st - Protects freedom of religion, freedom of speech, freedom of the press, freedom of assembly and the right to petition the government.
+2nd - Protects the right to keep and bear arms.
+3rd - Restricts the quartering of soldiers in private homes.
+4th - Prohibits unreasonable searches and seizures and sets out requirements for search warrants based on probable cause.
+5th - Sets out rules for indictment by grand jury and eminent domain, protects the right to due process, and prohibits self-incrimination and double jeopardy.
+6th - Protects the right to a speedy public trial by jury, to notification of criminal accusations, to confront the accuser, to obtain witnesses and to retain counsel.
+7th - Provides for the right to a jury trial in civil lawsuits	.
+8th - Prohibits excessive fines and excessive bail, as well as cruel and unusual punishment.
+9th - States that rights not enumerated in the Constitution are retained by the people.
+10th - States that the federal government possesses only those powers delegated, or enumerated, to it through the Constitution, and that all other powers are reserved to the States, or to the people.	
 
 
-##
+### Declaration of the Rights of Man, and the Citizen
+Article I – Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good.
 
-The movie Cinderella tells the story of a beautiful, diligent, and kind-hearted country girl who lives with her cruel step family. She is forced to do all the chores and serve her wicked stepmother and her two spoiled stepsisters. She dreams of a better life and a chance to find happiness.
+Article II – The goal of any political association is the conservation of the natural and imprescriptible rights of man. These rights are liberty, property, safety and resistance against oppression.
 
-She’s understandably ecstatic when she learns that the King is holding a grand celebration to find a bride for his charming son. Cinderella sews her own dress while anticipating the most wonderful night of her life, but her evil lady forbids her and tears her dress to shreds.
+Article III – The principle of any sovereignty resides essentially in the Nation. No body, no individual may exercise any authority which does not proceed directly from the nation.
 
-The young country girl is on the verge of tears. But just as despair is about to set in, her fairy godmother appears. With a flick of her wand, she transforms Cinderella’s ragged clothes into a dazzling gown and a pair of sparkling glass slippers. She also magically creates a carriage and a team of horses so that her goddaughter will finally have a night she’ll never forget.
+Article IV – Liberty consists of doing anything which does not harm others: thus, the exercise of the natural rights of each man has only those borders which assure other members of the society the fruition of these same rights. These borders can be determined only by the law.
 
-At the party, Cinderella captivates everyone with her beauty and grace, especially the Prince. They glide across the floor and whisper sweet nothings in each other’s ears. Sadly, the spell that gave Cinderella her magical night soon ends, forcing the shy country girl to flee from the ballroom, leaving the Prince with nothing but a glass slipper to remember her by.
+Article V – The law has the right to forbid only actions harmful to society. Anything which is not forbidden by the law cannot be impeded, and no one can be constrained to do what it does not order.
 
-The heartbroken Prince is determined to find his true love and orders his men to search the entire kingdom for the girl who can wear the slipper.
+Article VI – The law is the expression of the general will. All the citizens have the right of contributing personally or through their representatives to its formation. It must be the same for all, either that it protects, or that it punishes. All the citizens, being equal in its eyes, are equally admissible to all public dignities, places, and employments, according to their capacity and without distinction other than that of their virtues and of their talents.
 
-They eventually get to Cinderella’s house. But the wicked stepmother has gotten wise that her stepdaughter is the Prince’s heartthrob, and so locks her in the attic. Her friends come to the rescue and steal the key. They get the attic door open in time for Cinderella to ask the Prince’s men if she can try on the glass slipper. Then, just as she’s about to, the evil stepmother smashes the precious mememto.
+Article VII – No man can be accused, arrested nor detained but in the cases determined by the law, and according to the forms which it has prescribed. Those who solicit, dispatch, carry out or cause to be carried out arbitrary orders, must be punished; but any citizen called or seized under the terms of the law must obey at once; he renders himself culpable by resistance.
 
-To which Cinderella responds by revealing she has the other slipper.
+Article VIII – The law should establish only penalties that are strictly and evidently necessary, and no one can be punished but under a law established and promulgated before the offense and legally applied.
 
-And the rest is history.
+Article IX – Any man being presumed innocent until he is declared culpable if it is judged indispensable to arrest him, any rigor which would not be necessary for the securing of his person must be severely reprimanded by the law.
+
+Article X – No one may be disquieted for his opinions, even religious ones, provided that their manifestation does not trouble the public order established by the law.
+
+Article XI – The free communication of thoughts and of opinions is one of the most precious rights of man: any citizen thus may speak, write, print freely, except to respond to the abuse of this liberty, in the cases determined by the law.
+
+Article XII – The guarantee of the rights of man and of the citizen necessitates a public force: this force is thus instituted for the advantage of all and not for the particular utility of those in whom it is trusted.
+
+Article XIII – For the maintenance of the public force and for the expenditures of administration, a common contribution is indispensable; it must be equally distributed to all the citizens, according to their ability to pay.
+
+Article XIV – Each citizen has the right to ascertain, by himself or through his representatives, the need for a public tax, to consent to it freely, to know the uses to which it is put, and of determining the proportion, basis, collection, and duration.
+
+Article XV – The society has the right of requesting an account from any public agent of its administration.
+
+Article XVI – Any society in which the guarantee of rights is not assured, nor the separation of powers determined, has no Constitution.
+
+Article XVII – Property being an inviolable and sacred right, no one can be deprived of private usage, if it is not when the public necessity, legally noted, evidently requires it, and under the condition of a just and prior indemnity.
+
+### Summary of Third Estate
+The Third Estate had around 30,000 complaints and grievances to bring up during the Estates General in 1789. They wanted change but not for the whole French Society and did not expect this meeting of the estates to bring about a full-blown revolution1. The Third Estate refused to consent to the abolition of the sale of offices unless the nobles surrendered some of their privileges2. They also spoke out mainly against the financial privileges held by the two other Estates. They were both exempt from most taxes such as the church tithe and the taille (the main direct tax). They also wanted to have a fair voting system in the Estates-General3.
+
+The Tennis Court Oath was a dramatic act of defiance by representatives of the nonprivileged classes of the French nation (the Third Estate) during the meeting of the Estates-General (traditional assembly) at the beginning of the French Revolution. The deputies of the Third Estate, realizing that in any attempt at reform they would be outvoted by the two privileged orders, the clergy and the nobility, had formed, on June 17, a National Assembly. Finding themselves locked out of their usual meeting hall at Versailles on June 20 and thinking that the king was forcing them to disband, they moved to a nearby indoor tennis court (salle du jeu de paume). There they took an oath never to separate until a written constitution had been established for France

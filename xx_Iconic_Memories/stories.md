@@ -31,31 +31,29 @@
 
 ## Prologue
 
-I've got this great story about two friends steal a monkey from a zoo.
+I've got this great story about two friends stealing a monkey from a zoo.
 
-They were in college and it was summer break. They were smoking lots of weed and eating loads of crap food and binge watching YouTube. They were living the suburban life and were content inside it.
+They were in college and it was summer break. Smoking weed, eating loads of crap, and binge watching YouTube. They were content inside their suburban life.
 
-Until a local zoo commercial came on.
+Then a zoo commercial came on.
 
-The young adults usually ignored ads of course, but they watched this one in awe. It was because of a small monkey. The primate wasn't doing anything special. He was jumping around his play pen, taking fruit from peoples hands, playing hide and seek with the zoo keepers.
+They watched in awe. It was the small monkey. The primate wasn't doing anything special. He was jumping around, taking fruit from peoples hands, playing hide and seek with the zoo keepers.
 
 That stuff is cool of course, but the ad caught my friends attention not because of the monkey, it was the people; everyone around the monkey was so happy; like pure joy happy. To the two stoners sitting in a messy basement wasting away their youth, this monkey was a shot of life.
 
 No that's not it.
 
-This little monkey was a shot *at a life*.
+This little monkey was a shot _at a life_.
 
-When the commercial ended the two guys were thunderstruck. Minutes passed in silence as their souls reached for purpose.
+When the commercial ended the two guys were thunderstruck. Minutes passed in silence as their souls bolossumed with purpose.
 
-Then one friend said.
-
-"We need a monkey".
+"We need a monkey". Said one friend.
 
 Their was only one possible reply,
 
 "Today".
 
-Social media lost its spell. Instead the friends assembled what they had in hand--rope, fruit, fake IDs--into an ingenious plan. With smiles ear to ear, they set out for the small regional zoo.
+The friends assembled what they had in hand--rope, fruit, fake IDs--into an ingenious plan. With smiles ear to ear, they set out for the small regional zoo.
 
 And?
 
@@ -77,13 +75,11 @@ This stolen baboon certainly did.
 
 And this family acted fast and made a plan. It wasn't ingenious. It was very aggressive. Baboons gathered. Baboons rampaged. Glass shattered. Metal broke.
 
-For a few minutes, on the fields of a regional zoo, my two pothead friends were hunted down by a family of murderous baboons. And unlike the never ending content they were streaming earlier that day, this time of their lives will never be forgotten.
+For a few minutes, on the fields of a regional zoo, my two pothead friends were hunted down by a family of murderous baboons. They made memories that day. They remember every detail while running for their lives.
 
-Their time imprinted itself as a unforgettable memory... which became a hilarious story.
+And they learned what so few do in time to enjoy it. Time is the most valuable thing in the Universe. It's the only thing you can make, manufacture, or reverse.
 
-Which is where I learned how time is the most valuable thing in the Universe.
-
-Because everything worked out; the monkey's were reunited and my friends got out okay. And because nothing bad happened, I ended up with a sure fire way to make anyone laugh. No matter who I've told, happy drunks or suffering souls, everyone's day brightens-up when I tell the story about two idiots stealing a monkey from a zoo.
+Gladly, everything worked out with my friends and the monkey. The stolen one was reunited and my friends got out okay. And because nothing bad happened, I ended up with a sure fire way to make anyone laugh. No matter who I've told, happy drunks or suffering souls, everyone's day brightens-up when I tell the story about two idiots stealing a monkey from a zoo.
 
 And every time I've told the story, I feel like a comic with a killer act, getting to watch the audience sit, laugh, hug, and kiss, as they together create a new memory.
 
@@ -95,13 +91,7 @@ People can't help but enjoy the story because Life gifted every life-form a path
 
 But have you every wondered why we need stories so badly?
 
-It's easy to understand why life wants predators to hunt, grazers to eat, plants to grow; each serves an eco-system's system of checks and balances. A good balance helps everyone thrive.
-
-But how does people telling, reading, or living good stories help life flourish?
-
-Stories are the memories of a hero fighting for their dreams. And what are dreams? The motivation we get--from some mysterious place--to improve our lives, our families, and our society.
-
-Fighting for our dreams, be it losing weight or curing cancer, is how we humans help life prosper. Stories are our motivation to keep dreaming.
+Stories are our motivation to keep dreaming. Fighting for our dreams, be it losing weight or curing cancer, is how we humans help life prosper. 
 
 Yet, here's my point, everything isn't rainbows and sunshine on our planet. We don't live in the Garden of Eden. Happiness is rare. Most tree saplings don't find sunlight. Most lion hunts fail miserably. Elephants are often starving while they roam the Serengeti looking for something to eat.
 
@@ -125,7 +115,7 @@ This story will give you dreams. Better yet, this story will motivate you to emb
 
 Just as Life wants us to live. Always fighting for our happiness. Never scared of failure. Embracing anxiety, disappointment, and despair because the truth is untried dreams are the only ever-lasting agony.
 
-The hero of this story is your dream maker, your stargazer who accepts misery as the best fuel to dream bigger.
+The hero of this story is your dream maker, your stargazer who accepts misery because it fuels his dreams.
 
 This hero shows us all how to make more memories and live a better story.
 
