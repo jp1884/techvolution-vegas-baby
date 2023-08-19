@@ -136,10 +136,10 @@ https://stackblitz.com/edit/vue3-glidejs?file=src%2Fcomponents%2FCarousel.vue
   - Economic
     United States Corporate Profits <https://tradingeconomics.com/united-states/corporate-profits>
     Industrial Revolution GDP growth "Camels in the Amazon" <https://ourworldindata.org/grapher/gdp-world-regions-stacked-area>
-
+  - Real wages, not risen since 1970. <https://fred.stlouisfed.org/series/LES1252881600Q>
 
   - Geography
-    Suburbanization rates...
+    Suburbanization rates... 
    
 
   - Percentage of Boomers with Grandkids
