@@ -3649,6 +3649,10 @@ Before Ultimate Fighting, all fighters were puting the horse before the cart, so
 
 ---
 
+When you think of our body politic as full of organs, ideological preferences make much more sense. All species agree that it's best to not have to evolve because re-inventing adaptations is risky. Conservatives are supposed to generate wealth, so they want machines, labour, energy, and taxes as cheap as possible to make their existing techniques and tools relevant for longer. While Progressives want easier wealth distribution via complex regulation, higher taxes, subsidized services, and free healthcare because they control these adaptations. Like old martial art teachers, ideologues _may_ have the best solutions for you, but they always sell their solutions before knowing what fight you're in because evolution is full of failure.
+
+---
+
 pagebreak in markdown while creating pdf
 <div style="page-break-after: always;"></div>
 https://stackoverflow.com/questions/22601053/pagebreak-in-markdown-while-creating-pdf
