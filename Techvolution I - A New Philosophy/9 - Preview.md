@@ -47,15 +47,21 @@ Harvey C. Mansfield, _A Student's Guide to Political Philosophy_
 
 ---
 
-Techvolution is a new political philosophy. It combines the best of today's politics into a refined and improved package.
+Progressive and Conservative philosophies have been around for nearly two centuries. Since the Industrial Age, they've been iterated and retold over and over to try and keep relevant. It's been a losing battle lately. Now, each mocks the other's datedness as entertainment to maintain their believers' loyalty.
 
-Technically speaking, this new philosophy uses Aristotle's _Poetics_ to better understand Hegelian dialectics to showcase how humanity continues Life's Darwinian evolution via technological innovation. But that's a mouthful, so it's easier to say your day, workplace, government, and society are best understood as another story in Life's long and ongoing evolution.
+Techvolution is a new philosophy. It combines the best of old philosophies into an improved and updated package. It both generates wealth and distributes it fairly by using the Internet Age technology that we all use, but we still need to learn how to unlock its full potential.
 
-I wrote a deep dive in a book called [_Story Cut Tools_](https://storycuttools.netlify.app/) which is a good read but also somewhat long. I wrote the summary below with enough meat so you can skip the nerdy philosophical details and jump right into a new philosophy. It will put the power of storytelling in your hands and let you appreciate why we need a new perspective in our world right now.
+The first question people ask at this point is, "Can we create a new philosophy?". I chuckle and say, "Why do you think people invented Conservatism and Progressivism?"
 
-We need to make a big change to overcome our social, environmental, and economic problems.
+Like medicine, we need to update political philosophy to the possibilities of new knowledge and technology. Only a modern philosophy inspires people to engage, debate, and solve our mutual problems.
 
-Only a new philosophy rises above the old stories that inflame today's Conservatives and Progressives. By removing the cobwebs of history, we can remind everyone that feeling hate and placing blame doesn't change our fate. We are creatures in Nature, and as it does for all species, Life demands we evolve to overcome our current problems using new and improved adaptations. We can either innovate proactively under the direction of a new way of thinking or, after many depressions, wars, and revolutions, gradually teach us the lessons reason wasn't able to. Keep reading to go down the first path.
+Technically speaking, this Techvolution uses Aristotle's _Poetics_ to better understand Hegelian dialectics to showcase how humanity continues Life's Darwinian evolution via technological innovation. But that's a mouthful, so it's easier to say this new philosophy explains why your day, workplace, government, and society are best understood not by watching infotainment but as simply another story in Life's ongoing evolution.
+
+I wrote a deep dive in a book called [_Story Cut Tools_](https://storycuttools.netlify.app/), which is a good read but also somewhat long. I wrote the summary below with enough meat so you can skip the nerdy philosophical details and jump right into a new philosophy. It will put the power of storytelling in your hands and let you understand why we need a new perspective in our world immediately.
+
+There's no other way to overcome our social, environmental, and economic problems.
+
+Only a new philosophy rises above the old stories that inflame today's  Conservatives and Progressives. By removing the cobwebs of their long history, we can remind everyone that feeling hate and placing blame doesn't change our fate. We are creatures in Nature, and as it does for all species, Life demands we evolve to overcome our current problems using the new and improved adaptations of the Internet Age. We can either innovate a new society proactively under the direction of a new way of thinking or, after many depressions, wars, and revolutions, gradually teach us the lessons reason wasn't able to.
 
 ## Inner Flap
 
@@ -65,21 +71,23 @@ Living in the wild is tough, but many creatures struggle extra hard today. The e
 
 What would you tell a polar bear if you could communicate with her?
 
-Wouldn't it be nice to explain that our traits are the expressions of genes, which are passed on from parents to offspring during reproduction. Thus, Life on Earth is a constant race. The organisms that harvest calories the fastest, while suffering the least pain, pass on their genes more often. Over time, this turnover of genes slowly adapts the forms of Life to more efficiently use the environment's resources.
+Wouldn't it be nice to explain that our traits are the expressions of genes, which are passed on from parents to offspring during reproduction. Thus, Life on Earth is a constant race. The organisms that harvest calories the fastest, while suffering the least pain, pass on their genes more often. Over time, this turnover of genes slowly adapts lifeforms to find new untapped niches.
 
-If we could educate the polar bear about evolution, she would know her place in the story of Life. She could then assess what innovations polar bears need to prosper in the Artic's new environment. Perhaps male polar bears should help raise and protect their cubs. Or polar bears should hunt in packs to kill reindeer. Maybe the mighty flesh eaters should go south and diversify their diet with berries, grubs, and roots.
+And since the environment always changes, Life must always evolve.
 
-Whatever new form evolution will eventually find, if polar bears knew about evolution, they could roll their own dice until they find the adaptations they need to bring prosperity. At least by understanding how evolution works, polar bears wouldn't feel so frustrated as they walk in circles, struggling to find food in a changed environment.
+If we could educate the polar bear about evolution, she would know her place in the story of Life. She could then assess what innovations polar bears need to prosper in the Artic's new warmer environment. Perhaps male polar bears should help raise and protect their cubs. Or polar bears should hunt in packs to kill reindeer. Maybe the mighty flesh eaters should go south and diversify their diet with berries, grubs, and roots.
 
-We know polar bears, and other species, are in trouble because paleontologists, biologists, genealogists, and other specialists have mapped millions of species' habits, linages, and physiologies. This extensive knowledge base lets scientists inform humanity about the history, status, and future of many creatures.
+Whatever new form evolution will eventually find, if polar bears knew about evolution, they could roll their own dice until they find the adaptations they need to bring prosperity. At least by understanding how evolution works, polar bears wouldn't feel so frustrated as they walk in circles, struggling to find seals in a changed environment.
+
+We know the future of species like polar bears because paleontologists, biologists, genealogists, and other specialists have mapped millions of species' habits, linages, and physiologies. This extensive knowledge lets scientists inform humanity about the history, status, and future of many creatures.
 
 Here's a question: Do we know our fate like we know the polar bears? Given how much anger, angst, and confusion we have in our politics, the answer is no.
 
-This book will teach you about human evolution. Our story is the same as all other lifeforms. The environment is constantly changing, requiring Life to always play catch up and look for someone with updated adaptations to better harvest resources and procreate.
+This book will teach you about human evolution. Our story is the same as all other lifeforms. The environment is constantly changing, requiring Life to always play catch up and look for updated adaptations to better harvest resources and procreate.
 
-We think we understand Life's requirement to evolve. Almost every person, company, and ideology says they embrace innovation. But all the marches, protests, strikes, fears of job losses, and other outbursts of frustration from all over society show we don't know how to drop old ways of iving and adopt the new adaptations we need to prosper.
+We think we understand Life's requirement to evolve. Almost every person, leader, company, and ideology says they want to give people a happier Life. But all the marches, protests, strikes, fears of job losses, and other outbursts of frustration from all over society show we don't know how to drop old ways of living and adopt the new adaptations we need to prosper. Most of human politics is resisting evolution and trying to justify why others should bear the burden of humanity's refusal to drop old ways of living and start anew.
 
-So, this book will teach how to ease your pain and roll your own dice to harness innovation.
+So, this book will teach how move on from the past and roll your own dice to harness the innovation that'll ease your pain.
 
 Because animals sadly can't change their genes. They must endure the pain of "survival of the fittest" to evolve. We can change our fate by updating our characteristics with modern technology to harness resources better. Keep reading, and you'll learn how to use politics to evolve humanity and upgrade Life on Earth.
 
@@ -122,9 +130,9 @@ In its highest form, politics discusses what direction a society should take. In
 
 But daily politics isn't always so rational.
 
-Cells in the human body are constantly fighting over resources, and we, the people who make up the ["body politic"](https://en.wikipedia.org/wiki/Body_politic) of our respective countries, are similar. Even in good times, daily politics is full of ranting, half-truths, and memes because individuals are arguing for resources like tax breaks or subsidies, cheap education or cheap labour, bailouts or insured government loans. Why would anyone want to be left out?
+Cells in the human body are constantly fighting over resources, and we, the people who make up the ["body politic"](https://en.wikipedia.org/wiki/Body_politic) of our respective countries, are similar. Even in good times, daily politics is full of ranting, half-truths, and memes because individuals are arguing for resources like tax breaks or subsidies, cheap education or cheap labour, governmetn bailouts or government loans. Why would anyone want to be left out?
 
-Political philosophy is supposed to rise above daily politics and create a shared vision for society. Only when a body politic works together can its members build a healthy nervous system where individuals and communities both get the resources they need to prosper. A good philosophy makes people realize humans are not the final judge of right or wrong. As it is for all creatures, evolution ultimately decides if we are harvesting resources well enough to procreate and keep our civilization playing the game of evolution.
+Political philosophy is supposed to rise above daily politics and create a shared vision for society. Only when a body politic works together can its members build a healthy nervous system where individuals and communities get the resources they both need to prosper. A good philosophy makes people realize humans are not the final judge of right or wrong. As it is for all creatures, evolution ultimately decides if we are harvesting resources well enough to procreate and keep our civilization playing the game of evolution.
 
 So, while many ignorant polar bears are doomed to suffer for many more years, with a good philosophy, we can be happy and healthy in a constantly evolving society.
 
@@ -134,13 +142,13 @@ Whatever traits we develop, we do it to solve our pain.
 
 Martial arts is a great example.
 
-Karate, kickboxing, taekwondo, wrestling, aikido, jiu-jitsu, judo, and boxing are our most popular martial arts. Each is a self-defence discipline that teaches techniques like wrist locks or body punches to defeat an opponent. Each martial art creates rules that say only their techniques are allowed; there's no kicking in a boxing match, for example.
+Karate, kickboxing, taekwondo, wrestling, aikido, jiu-jitsu, judo, and boxing are our most popular martial arts. Each is a self-defence discipline that teaches techniques like wrist locks or body punches to defeat an opponent. To practice their craft each martial art creates rules that say only their techniques are allowed; there's no kicking in a boxing match, for example.
 
 The world's martial arts co-existed for many years. Inside the disciplines, teachers happily taught their techniques to the next generation, practioners would train almost every day, and the best students would compete in tournaments, get scholarships, and strive to become world champions. Everyone would keep the culture lively by congregating around experts, contests, and the latest news.
 
-But never would these martial artists fight each other.
+But never would these martial artists compete against each other.
 
-However, in the late 1980s, as home televisions spread information worldwide, once-isolated fighting cultures started to open up. People got curious. Fighters began to ask themselves, "Which martial art is best?"
+However, in the late 1980s, as home televisions spread information worldwide, once-isolated fighting cultures started to open up. People got curious. As fighters began to watch other disciplines, they also asked themselves, "Which martial art is best?"
 
 Would a boxer beat a kickboxer? What about a wrestler versus a karate guy? Many people wanted to know what if martial artists threw away the rule books and fought a real fight.
 
@@ -154,15 +162,15 @@ And none of them.
 
 This revelation surprised everyone. The martial arts community assumed one discipline would reign supreme. But none did because each discipline had a limited toolbox of techniques. Sometimes those techniques were very effective in a real fight, like Brazilian jiu-jitsu's submissions or wrestling's dominant control. But many techniques like karate's katas, taekwondo's flashy high kicks, and boxing's obsession with standing toe-to-toe and swinging for a knockout were easily countered and therefore [ineffective](https://youtube.com/shorts/4IjqBuo3Bow?feature=share).
 
-After several more years of fighting in "no-holds-barred" martial arts tournaments it became clear that some martial art disciplines were more effective than others, but each had drawbacks and none was complete. And, as Ultimate Fighting grew in popularity during the 1990s and 2000s, it forced all martial art communities to reflect on their techniques and beliefs.
+After several more years of fighting in "no-holds-barred" martial arts tournaments it became clear that some martial art disciplines were more effective than others, but each had drawbacks and none was complete. And, as Ultimate Fighting grew in popularity during the 1990s and 2000s, it forced all martial art communities to reflect on their chosen techniques and beliefs.
 
-As said in the opening quote, many practioners, referees, coaches, and pundits (especially from the least effective disciplines) choose to retreat back into their sub-cultures because they, "didn't like what they were finding out". Mainly that teaching ineffective self-defense techniques doesn't have good job security, and giving out awards in a floundering discipline isn't a good power base. When their loyal students got beat up in a street fight the worst teachers would invalidate the pain by commenting the students didn't do the techniques properly.
+As said in the opening quote, many practioners, referees, coaches, and pundits (especially from the least effective disciplines) choose to retreat back into their sub-cultures because they, "didn't like what they were finding out". Mainly that teaching ineffective self-defense techniques doesn't have good job security and giving out awards in a floundering discipline isn't a good power base. When their loyal students got beat up in a street fight the worst teachers would invalidate the pain by commenting the students didn't do the techniques properly.
 
 However, many fighters embraced the effectual truth revealed by Ultimate Fighting. As a result the world of martial arts started to get all mixed up.
 
 Kickboxers trained submissions. Wrestlers learned some punching. Masters in one discipline started as eager newbies in another. Like a bumblebee going from flower to flower, these pioneering fighters like Bas Rutten, Maurice Smith, and Ken Shamrock participated in the cross-pollination of techniques and evolved skillsets far more complete than their old martial arts teachers and disciplines.
 
-By opening their mind, martial artists discarded loyalty to a single martial art and adopted evolution's philosophy of "adapt or die." The grades, belts, trophies, medals, and scholarships became stepping stones and not end-goals. A fighters physical pain was the best barometer of whether a technique was good or bad. Finally, human self-defense learned what every lifeform on Earth knows; artifical rulebooks will not save you in Nature.
+By opening their mind, martial artists discarded loyalty to a single martial art and adopted evolution's philosophy of "adapt or die." The grades, belts, trophies, medals, and scholarships became stepping stones to building a complete skillset and not end-goals to be relished; a fighters physical pain was the best barometer of whether a technique was good or bad. Finally, human self-defense learned what every lifeform on Earth knows, artifical rulebooks will not save you in Nature.
 
 No deer in the world depends on a judge to save it when fleeing a bear, as no bear depends on a pundit declaring it the winner to get its next meal.
 
@@ -178,11 +186,13 @@ After fighters embraced all discplines, they entered a brave new world.
 
 A world of remarkable progress. With an open mind and access to the world's information on the internet, fighters improved themselves by leaps and bounds every year. Kickboxers became wrestlers, Jiu-jitsu black belts learned high-kicks. Each martial art became a sub-discipline that brought its techniques to an open marketplace of ideas.
 
-With evolution as their teacher, these new martial artists started to listen to their bodies instead of other peoples stories. The speed of victories, and the less pain suffered in winning them, was the best judge, teacher, and pundit of martial arts techniques. The top trainers were the ones who helped their students adapt better techniques faster.
+With evolution as their teacher, these new martial artists started to listen to their bodies instead of other peoples stories. The speed of victories, and the less pain suffered in winning them, was the best judge, teacher, and pundit of martial arts techniques. The top trainers were the ones who put their students needs above their own and helped fighters adapt better techniques faster.
 
 When fighters finally embraced evolution, they created a new way for humans to think of self-defense called mixed-martial arts.
 
-In mixed-martial arts, fighters don't limit themselves within the confines of an artificial rulebook. Instead, everyone should learn a little from every sub-discipline, and the best technique is the one that brings results. Evolution is so admired by mixed-martial artists that everyone is supposed to give their opinions, offer their perspective, and exchange ideas, because "iron sharpens iron".
+In mixed-martial arts, fighters don't limit themselves within the confines of an artificial rulebook. Every discipine is really a sub-discipline to one's evolution. Everyone should be a bumble bee going fom flower to flower to learn a little from every sub-discipline. The best technique is the one that brings results. Evolution is so admired by mixed-martial artists that everyone is supposed to give their opinions, offer their perspective, and exchange ideas, because "iron sharpens iron".
+
+- Mixed martial arts taught us that pain is the valid judge of right and wrong, not teachers, commentators, or judges. Likewise for innovation it's not current powerbrokers who decide between allowed and not allowed. 
 
 Mixing the human body's adaptability to learn many techniques with a free mind willing to learn, created a new, self-correcting, and sustainable martial art. Today, a skilled mixed-martial artist is an overwhelming favorite against a champion of any single fighting sub-discipline. Just as important, since mixed-martial arts includes all techniques, any person, whether short or tall, heavy or thin, aggressive or meek, can "mix and match" techniques to find their niche and learn to win a fight. 
 
@@ -190,6 +200,12 @@ And finding a niche is what evolution is all about. By empowering anyone and eve
 
 <!-- ![Mixed-martial arts ecosystem]() -->
 _Martial artists built many disciplines. Like ideologues today, they each would critize the failings of each other. But it wasn't until the new philosophy of mixed-martial arts that everyone realized we can pick and choose from any discpline to find the best techniques to win any fight._
+
+- Innovation isn't subject to human authority. Be it from princes or executives, boxing coaches or stepmothers. The point of authority is to craddle youth until its old enough to venture out into Nature and uncover the next innovation. No parental authority of right and wrong exist into adulthood. Guideance and advice hopefully does exists, but Life needs the creatures feeling pain to find the best solution to pain, and that's why libery and freedom to choose one's tools keeps winning in fairytales and real-life.
+
+The technology of industrialization and the philosophy of free-market economics liberated once upon a time peasonts to buy and use any product or piece of land best for themselves. The technology of printing-press and telescope and the philosophy of science, liberated once up a time soothe sayers to investigate the natural world. The technology of printing-press, ballot box, and gun, with the philosophy of liberalism liberated individuals to select their own government. The technology of video cameras and the philosopohy of mixed-martial arts finally liberated fighters to learn and use any technique in their self-defence.
+
+Now, we have the technology of high-speed internet, smartphones, and artificial intelligence. These can liberated us at our jobs to find innovation. But we do not have the philosophy that expect us to grow up and venture out into the world. Life doens't care. The laws of evolution are required regardless.
 
 ---
 
@@ -500,7 +516,7 @@ To showcase their technological power, Caesar decided to build a bridge.
 
 The construction was carried out in an area where the depth of the river would be up to nine meters. The bridge was built on double wooden piles that were driven into the riverbed by winching up a large stone and releasing it, thereby driving the posts into the riverbed. The construction system ensured that the greater the flow of water, the harder the bridge was held together. Caesar’s soldiers built the bridge in just 10 days.
 
-Watching the Roman legions crossing the Rhine river mystified the Germans. They struggled getting flimsy boats across the wide body of water, now they saw thousands of soldiers walk over it. It would be like us seeing a 10,000 people teleport to the Moon and back; a totally unknown technology our psychology isn't adapted to understand.
+Watching the Roman legions crossing the Rhine river mystified the Germans. They struggled getting flimsy boats across the wide river now they saw thousands of soldiers us piles, hammers, saws, and engineering plans to build a "thing" that let people walk over the mighty Rhine river. It would be like us seeing 10,000 people teleport to the Moon and back and someone expecting us to go head and use it willy nilly. Our psychology needs to understand a technology [before we can make use of it.](https://youtu.be/hJWJ1zZ9vu0?feature=shared)
 
 Caesar defeated the Germans by educating them about technological evolution. He showcased how Romans were masters of the Classic Age, and the Germans were hundreds of years behind in the Iron Age. So impressed by Rome's levers of almost magical powers, the Germans made peace that lasted for generations.
 
@@ -519,7 +535,7 @@ We already know biological evolution is tracked in eras like the famous Jurassic
 
 Like Julius Caesar demonstrated, the difference between technological ages is huge. A fundamental new technology is an entirely new stage of evolution, with a totally different list of traits in the hands of its people. There is no biological difference between peoples in different ages, but their levers of power certainly are different. Going from one chapter to another, like from Bronze to Iron, requires re-inventing everything: transportion, agriculture, war, healthcare, music, self-defense, medicine, and everything else that makes up a civilization.
 
-This constant race to invent, learn, and use technologies resembles the board game chutes and ladders. The game is played on a board with gridded boxes with a number of "ladders" and "chutes" that connect two boxes. Players roll dice to navigate their game piece from start to finish. Ladders help advance faster while chutes hinder progress.
+This constant race to invent, learn, and use technologies resembles the board game chutes and ladders. The game is played on a board with gridded boxes with a number of "ladders" and "chutes" that connect two boxes. Players roll dice to navigate their game piece from start to finish. Ladders advance players faster while chutes hinder progress.
 
 We already know that in Nature the environment is always changing, and lifeforms must evolve to keep up. In this respect, each chapter in the story of Life, is a game of chutes and ladders. The game board is the environment, and the players are the lifeforms competing to survive.
 
@@ -594,9 +610,10 @@ Thereafter we can be like Cinderella using dresses, keys, and slippers, improve 
 
 Because we don't yet have a new philosophy reminding everyone we "innovate or die" like any other lifeform, regular people are left being Cinderella locked in the attic, wanting a better Life without the know-how to get it. Without the power of evolution in their minds, they tell stories within either Conservative or Progressive ideology, to justify why they should get priority access from the dwindling carcus of the Industrial Age.
 
-- Hi, I'm a Progressive Activist. I took the creativity that imagined the Industrial Age, into the bizarre. My art films, marketing campaigns, and protests are a bad return on investment and the easy credit and cheap labour I've used to sustain my old adaptations is running out. To hide my ineffectivness, I've been using a public philosophy that because my, or someone elses, parents and grandparents were abused and disadvantaged in the past I deserve preferencial help.
-- Hi, I'm a Conservative Businessman. I took the industriousness that built the Industria Age, and built spectacle. American homes, vehicles, products are now huge! They do the same functions though, so we had to use easy credit and cheap labour to pay for it all and now its running out. To hide my ineffectivness, I've been using a public philosophy that because my parents or grandparents were smart and hard working I deserve preferencial treatment.
-- Neither of us knows how to start a web server.
+- Hi, I'm a Progressive Activist. My creativity imagined the Industrial Age policies and tools that spread unimaginable wealth to mankind. After the Industrial Age ended, I kept pushing those same tools and policies and now they're bizarre. That's why my art films, marketing campaigns, and protests are a bad return on investment. I used easy credit and cheap labour to sustain my old adaptations, but now they're both running out. To hide my ineffectivness, I've been using a public philosophy that because my, or someone elses, parents and grandparents were abused and disadvantaged in the past my old tools and policies are sitll needed. By the way, Fascist Conservatives are greedy and evil they deserve nothing!
+- Hi, I'm a Conservative Businessman. My industriousness built the Industria Age's companies, tools, and wealth for mankind. After the Industrial Age ended, I kept selling the same tools and companies using spectacle. American homes, vehicles, televisions are now huge! They do the same functions though, so we had to use easy credit and cheap labour to pay for it all and now its running out. To hide my ineffectivness, I've been using a public philosophy that because my parents or grandparents were smart and hard working their old tools and policies that I still use today are still needed. By the way, Socialist Progressives are lazy and evil they deserve nothing!
+- I don't like politics. But as cost of living goes up general happiness goes down, I'm looking for answers. I really thing `insert name here` are terrible people, so my only other choice is `insert name here`. What I'm really worried about is the technology that underpins my job becoming obsolete because I love Netflix but want to keep working at Blockbuster.
+- None of us knows how to start a web server.
 
 Today's ideologies co-evolved the Industrial Age. Now their descendats are riding a chute and de-volving towards extremism, depression, and war. Because unlike Cinderella or a martial artist, they don't know how to reach for the tools to change their fate. Instead they find fallacies in each other's public facing stories about gender, pay gaps, inequality, and so on to invalidate the other's pain and elevate their own, because the tools and techniques they've grown up with, educated with, and have a job with, aren't the single source of truth, and can't harvest enough resources in the Internet Age to bring prosperity to the body politic.
 
@@ -608,21 +625,21 @@ Because today we're all stuck in an dying yet still industrializing society, eve
 
 Every transition to a new chapter in the story of technological Life is first filled with civil wars as old ideologies struggle to keep their tools alive. Eventually regular people start reaching for new levers of power as revolutions validate their pain and motivate the frontline to reach for new levers of power to kickstart the game of evolution.
 
-In its highest form, politics discusses what direction a society should take. Good politics is like a healthy nervous system directing resources to address the pain society feels. We today are feeling pain that is not being healed.
-
-Solving frontline pain will create the ladder to the Internet Age. And we need mixed-ideological politics to do it.
+In its highest form, politics discusses what direction a society should take. Good politics is like a healthy nervous system directing resources to address the pain society feels. We today are feeling pain that is not being healed. Solving frontline pain will create the ladder to the Internet Age. And we need mixed-ideological politics to do it.
 
 Fuse our ideologies via a shared mission. Set the Progressives—who love being weird and creative—loose but focus their creativity to inventing an Internet Age civilization. Let the Conservatives—who love to build things for profit—be free, but make sure they only earn money when they build the new and improved civilization Progressives imagine.
 
-The lessons of every transition to a new age is the same; frontline pain is the definition of good and bad, because curing pain is a universal langauge for us, polar bears, and every other lifeform. Pain is Life's way of telling individuals to change their behavior before it's too late. Prior revolutions made sure human civilization validated frontline pain and encorporating their pain receptors into its nervous system so they can grab hold of new levers of power to climb ladders in the game of evolution.
+The lessons of every transition to a new age is the same; frontline pain is the definition of good and bad, because curing pain is a universal langauge for us, polar bears, and every other lifeform. Pain is Life's way of telling individuals to change their behavior before it's too late. Prior revolutions made sure human civilization validated frontline pain and encorporating their pain receptors into its nervous system so they can grab hold of new levers of pain curing power to new climb ladders in the game of evolution.
 
-We know have frontline feedback mechanisms in place for our military, legislature, executive, and consumer markets. While not perfect, we can tell our President what we think, we can critize our generals, we can vote on laws, and decide what products to buy. This means, like a violinst contending for first chair, we can peacefully fight back against antagonists when they use their position to prevent evolution.
+We know have frontline feedback mechanisms in place for our military, legislature, executive, and consumer markets. While not perfect, we can tell our President what we think, we can critize our generals, we can vote on laws, decide what products to buy, what medicine to take, and what martial art to learn. This means, like a violinist contending for first chair, we can peacefully fight back against antagonists when they use their position to prevent evolution.
 
 We don't yet have this power within our companies, bureaucracies, and jobs.
 
 In our jobs we're too often still old martial artists using one-sided tools and Cinderella without freedom to choose our adaptations. But, as the development of mixed-martial arts shows, Internet Age technology enables learning so much, any person can learn multiple techniques. Therefore we can change careers more often. Such cross-polination of tools and techniques in our economy might be called "bumblee economics".
 
-With the freedom to evolve in our jobs and careers we'll experience different roles from management to customer service, construction, to bureaucracy. This mix and match of jobs, techniques, and tools is the daily practice of mixed-ideological politics.
+With the freedom to evolve in our jobs and careers we'll experience different roles from management to customer service, construction to bureaucracy. This mix and match of jobs, techniques, and tools is the daily practice of mixed-ideological politics.
+
+Mixing the human body's adaptability to learn many techniques with a free mind willing to learn, will create a new, self-correcting, and sustainable political philosophy. Since mixed-ideological politics frees any person, whether short or tall, heavy or thin, aggressive or meek, can "mix and match" techniques and tools to find their niche and learn to live their Life more efficiently, be it sealing your windows, to inventing a new app. Sleeping better, or leaning a new language.
 
 So, you must be Cinderella, a mixed-martial artist trained to pickup whatever tools helps improve your future. You're a bumblebee rolling your own dice as you go from opportunity to opportunity in the search for the resources you need to find your niche and win the game of evolution. You'll need the help of creative Progressives and hard-working Conservatives to do it. This mixed-ideological politics is brought to you inside a nice new political philosophy called Techvolution.
 

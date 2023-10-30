@@ -58,3 +58,6 @@
 - Being political doesn't mean embracing a single ideology. It means using any tool or technique to make your life more efficient.
 
 - Our economy is being run by people looking at their dog themed calendars thinking "I've got 4 more years"
+
+- We're stagnant on the tech tree of life, which is why bozos get their time in the sun. See. moderate  instagram congressman.
+
