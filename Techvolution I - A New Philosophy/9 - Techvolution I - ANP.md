@@ -85,9 +85,9 @@ We can cherish Romeo and Juliet because we know their love is beautiful and wort
 
 But our emotions don't change the story. Even the main character's feelings mean so very little to the final outcome.
 
-That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to Sith Lords, don't battle using arguments, debates, or emotions. They fight using real objects like wands and lightsabers; neither the good guy or bad guys ever sit back and wait to see what happens.
+That's why all characters, from Hogwarts students to Jedi Knights, Lord Voldemort to Sith Lords, don't battle using arguments or emotions. They fight using real objects like wands and lightsabers. The good guys don't sit back and wait to see what happens.
 
-Because nobody ever won a battle by watching it. The victors are the ones who control technology because tools are the levers of power in every story. Cinderella used a slipper to defeat her treacherous step-family. Harry Potter used a wand to defeat "He Who Must Not Be Named." And Luke Skywalker used a small torpedo to destroy the Death Star. When heroes control the tools, they control the levers of power, and can therefore overcome antagonists, control society, solve problems and help regular people live better lives.
+Because nobody ever won a battle by watching it. The victors are the ones who control technology because tools are the levers of power in every story. Cinderella used a slipper to defeat her treacherous step-family. Harry Potter used a wand to defeat "He Who Must Not Be Named." And Luke Skywalker used a small torpedo to destroy the Death Star. When heroes control the tools, they control the levers of power, and can therefore overcome antagonists, solve problems, give regular people live better lives.
 
 And this simple observation is the lesson Main Street must learn today.
 
@@ -100,7 +100,7 @@ Otherwise this pandemic was for nothing.
 
 Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll tell you, "if the Right-wing triumphs, infrastructure, healthcare, everything will go to shit!"
 
-If you buy it—and most of us have at some point—you glue yourself to Left-wing blogs, radio, and TV. Filled with Leftist philosophy, you'll ignore your daily life and it's frontline problems as you walk the path of extremism and see more _fascist_ Conservatives with minute you watch the news.
+If you buy it—and most of us have at some point—you glue yourself to Left-wing blogs, radio, and TV. Filled with Leftist philosophy, you'll ignore your daily life and it's frontline problems as you walk the path of extremism and see more _fascist_ Conservatives with every minute you watch the news.
 
 Or, if the other side sucked you in first, you start spotting _communist_ Progressives and their socialist agenda instead.
 
@@ -108,19 +108,19 @@ But it's all bullshit.
 
 Despite Left/Right yelling matches, neither ideology is your hero. The pundits, columnists, and reporters on newspapers, broadcast television, cable news only care to send you one-way messages to tune-in, protest-or most likely-buy something and donate.
 
-These extremists trick you. They say their ideological purity will solve your real-life problems by holding government accountable to their approved ideology. They say only if government writes their ideologically approved laws, will your real-life problems ever be solved. But, both sides only out to solve their problem; they're employed by aging broadcast and newspaper industries that's funded with expensive commercials and watched by a consumer obsessed society. The Left versus Right battle driving Americans to hate each other, is just a circus to attract eyeballs to a dying business model.
+These extremists trick you. They say their ideological purity will solve your real-life problems by holding government accountable to their approved ideology. They say only if government writes their ideologically approved laws, will your real-life problems ever be solved. But, both the pundits on both sides are only out to solve their problem; being employed by aging broadcast and newspaper industries that's funded with expensive commercials and watched by a consumer obsessed society. The Left versus Right battle driving Americans to hate each other, is just a circus to attract eyeballs to a dying business model.
 
 Galileo, George Washington, and Luke Skywalker reached for the power of new technology. So why shouldn't you? Even more important, why shouldn't the middle-class? Isn't our healthcare, infrastructure, and especially our pandemic preparation, worthy of upgrades?
 
 Of course they are. And, that's the point. The feud between Left and Right ideologues is a distraction.
 
-Like a dinosaurs in an Ice Age, old businesses such as broadcast televsion, radio, and college education want to stay alive despite evolution passing them by. These old technologies are from the Industrial Age, and thus want to keep current ideological narratives rooted in Industrial Age politics.
+Like a dinosaur in an Ice Age, old businesses such as broadcast televsion, radio, and college education want to stay alive despite evolution passing them by. These old technologies are from the Industrial Age, and thus want to keep current ideological narratives rooted in Industrial Age politics.
 
-If this seems simplistic, and if you think your favored ideologues are altruistic, what do you expect people in good paying jobs to do when they're bested by a new technology? Never forget no ideologue, pundit, or movie star invented, promoted, or popularized the internet, podcasts, online streaming, and ebooks. These new technologies threatened their cash cow of radio, DVDs, and bookstores.
+If this seems simplistic, and if you think your favored ideologues are altruistic, what do you expect professional pundits to do after their industry is bested by a new technology? Never forget no ideologue, pundit, or movie star invented, promoted, or popularized the internet, podcasts, online streaming, and ebooks. These new technologies threatened their cash cow of radio, DVDs, and bookstores.
 
-When inventors did force through new technology, cable news hosts, broadcast anchors, movie stars etc. reached out into Twitter, Youtube, and other internet platforms and spread toxic narratives to get people's attention. In their quest to stay relevant, these stars used a superficial understanding of Conservative and Progressive political philosophy to label each other a _facist_ or _communist_ in a disgusting race for eyeballs.
+When inventors did force through new technology, cable news hosts, broadcast anchors, movie stars etc. reached out into Twitter, Youtube, and other internet platforms and spread toxic narratives to get people's attention. In their quest to stay relevant, these stars used a superficial understanding of Conservative and Progressive political philosophy to label each other a _facist_ or _communist_ in a disgusting race for eyeballs and clicks.
 
-It can be funny and entertaining to watch the mud slinging. It's also a distraction made by Industrial Age powerbrokers desperate to keep the Industrial Age alive.
+It can be funny and entertaining to watch today's political mud slinging. It's also a distraction made by Industrial Age powerbrokers desperate to keep the Industrial Age alive.
 
 The truth is upgrading our society to the possibilities of modern Internet Age technology is the real political game of our time. Only new technology can improve your life on the frontline. And, it's by no means certain we'll upgrade our society and embrace the Internet Age.
 
@@ -128,15 +128,15 @@ We're already far behind. We got the tools of the Internet in 1970 when the inte
 
 In 1970 we invented technology that completely changed our way of life.
 
-But the owners of Industrial Age technology such as television and newspapers, typewriters and blackboards weren't and still aren't jumping for joy. They don't want humanity to evolve. Like online streaming was to Blockbuster's addiction to DVDs and late-fees, technological evolution is a threat.
+But the owners of Industrial Age technology such as television and newspapers, typewriters and blackboards weren't and still aren't jumping for joy. They don't want humanity to evolve anymore than Blockbuster, with its addiction to DVDs and late-fees, wanted online streaming.
 
-Electing a Left-wing or Right-wing government may harm or hurt some regular people, but every single regular person is harmed by holding back technological upgrades. Although we finally get online streaming, there are many segments of our economy being held back by Industrial Age antagonists.
+Electing a Left-wing or Right-wing government may harm or hurt some regular people, but every single regular person is harmed by holding back technological upgrades. Although we finally got online streaming, there are many other segments of our economy being held back by Industrial Age antagonists.
 
-Because, new technological upgrades regular people and downgrades power brokers of old technology.
+New technological upgrades regular people and downgrades power brokers of old technology.
 
 If the middle-class is fixated on the Left/Right circus, it only keeps those who control the Industrial Age technology in power. A new and better way of life won't just happen. Industrial power brokers are working hard to antagonize our society upgrading to an improved Internet Age habits, customs, and jobs. These "Darth Blockbusters" want society's levers of power to remain with themselves.
 
-Every new age is a great equalizer, a blank sheet, a starting line; because anyone can innovate and evolve new products of the new age. Humanity should protect the winners of this race, because it's the race we should keep on racing. But for now, we let Darth Blockbuster stop us from evolving.
+Every new age is a great equalizer, a blank sheet, a starting line; because anyone can innovate and evolve new products of the new age. Humanity should protect the winners of this race, because it's the evolutionary race we must keep racing. But for now, we let Darth Blockbuster stop us from evolving.
 
 Happily, many regular people have been fighting to establish the Internet Age. Internet geeks, hackers, and innovators are the heroes of the modern technology. They've been fighting Darth Blockbuster's gatekeeping and antagonism for years. The open-source community alone has made hundreds of thousands of tools that already empower the middle-class to live a better life with tools like Android, Linux, Node.js; even Netflix uses open-source software. But, these protagonists can't keep fighting your battles for you. Main Street must jump into the fight.
 
@@ -182,7 +182,7 @@ next:
 
 ## Foreword
 
-My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected (correctly) that Spanish was his mother tongue. To test him, the teacher briefly displayed words of colors typed in a different color, requiring my son to say the color each word was written in. 
+My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected (correctly) that Spanish was his mother tongue. To test him, the teacher briefly displayed words of colors typed in a different color and then told my son to say the color each word was written in. 
 
 Here's an example:
 
@@ -208,7 +208,7 @@ The hard truth is yes, we used to live this way. I must remember that. It's easy
 
 Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else making Life on Earth a continual work in progress. For billions of years every organism has evolved to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we mustn't also be vigilant?
 
-Of course we must! Like any animal, Entropy is always on our tail. We feel the agony of pain as a blessed warning to avoid chutes and cherish ladders in the game of evolution; only then can we stay a head of Entropy's wrath.
+Of course we must! Like any animal, Entropy is always on our tail. We feel the agony of pain as a blessed warning to avoid chutes and cherish ladders while living on the gameboard of evolution; only then can we stay a head of Entropy's wrath.
 
 Yet, we are not biological creatures. Did the caveman start a fire with lasers from his eyes? Did explorers map the world by flying across oceans? No, we are not superheroes. Our race, sex, and genetics do not keep us warm or grow our food.
 
@@ -220,25 +220,25 @@ We outrace Entropy by learning the language of our fate; the free and widespread
 Politics makes a lot more sense when you realize words mean little because humanity lives on a Lifeboat, and people, like all beings, don't survive from words, marches, or history lessons. Everyone is really fighting over resources.
 -->
 
-That's why our most important identity is the tools we use. Our tools, not our biology, enable us to find a niche and earn a living. And, unlike biological animals, we can drop tools to become new and improved technological species throughout our lifetime. Inventors are thus our heroes, the people who help our technological evolution are our allies, and those who oppose our holy mission are evolution's antagonists.
+That's why our most important identity is the tools we use. Our tools, not our biology, enable us to find a niche and earn a living. And, unlike biological animals, we can replace our tools and become new and improved technological species throughout our lifetime. Inventors are thus our heroes, the people who help our technological evolution are our allies, and those who oppose our technological self-improvement are evolution's antagonists.
 
 Seeing ourselves as biological beings had us chasing shadows.
 
-When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from princes to supervisors, to become gatekeepers and stop mankind's evolution. These antagonists protect their artificial technological advantage by spinning ideological stories about their supposed racial, gender, education, or noble superiority.
+When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from princes to supervisors, to become gatekeepers and stop mankind's evolution. Our false biological identities allowed antagonists to secure themselves by spinning ideological stories about their supposed racial, gender, education, or noble superiority.
 
-Outsiders would fight back by overcoming one branch of these stories, only to see the another branch pop up again. Like a hydra, racism, sexism, and elitism are each versions of a leader's false hope he will have everlasting protection against Entropy by holding back other people's evolution. By chasing only one ideological shadow, we'd let antagonists re-create a new antagonism story about why they needn't re-run the race of technological evolution.
+Outsiders would fight back by overcoming one branch of these stories, only to see the another branch pop up again. Like a hydra, racism, sexism, and elitism are each versions of a leader's false hope he will never need to re-run the race of technological evolution because he had everlasting protection against Entropy by holding back other people's evolution. By chasing only one ideological shadow, we'd let antagonists delude everyone and re-create new antagonism stories over and over.
 
 We were born free, but everywhere our technological evolution was chained.
 
 Yet, even with all their talented storytelling, antagonists always failed. They proved human survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority and antagonism inevitably fell in the face of technological progress.
 
-That progress wasn't perfect. Filled with antagonism, our evolution was so sporadic and uncertain Entropy often caught is on the game board of evolution. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. The real cause in these human affairs was not failed government policy or unfair history; it was about thwarted evolution; i.e. the stream of adaptions needed to outrun Entropy were stalled because people wouldn't or couldn't adopt innovation fast enough.
+That progress wasn't perfect. Filled with antagonism, our evolution had so sporadic and uncertain Entropy often caught is on the game board of evolution. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. The primary cause in these human affairs was not failed government policy or unfair history; it was about thwarted evolution; i.e. the stream of adaptions needed to outrun Entropy were stalled because people wouldn't or couldn't adopt innovation fast enough.
 
-Ironically, those who benefitted most from keeping Entropy away would invite it back by antagonizing evolution. The ancestors of evolution's protagonists would transform into antagonists who set the stage for society's suffering and their own civilization's downfall. Evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. 
+Evolution's protagonists would transform civilied with ladders to the future, while their descenents would build chutes that the stage for society's suffering and their own civilization's downfall. Evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest.
 
 That's why today, we protect every individual's technological evolution as a sacred right and teach it as an absolute obligation.
 
-Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson freedom over servitude, and Darwin evolution over creationism; this book teaches us techvolution over ideology. The pathway to healthy economics is democratized, interoperable, and open-source technological products that let everyone find their niche. We judge our economic success by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world. Healthy politics is ensuring everyone has easy access to the tools that solve their pains need so that adaptations can be replaced once the ecosystem decides it needs better.
+Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson freedom over servitude, and Darwin evolution over creationism; this book teaches us techvolution over ideology. The pathway to healthy economics is democratized, interoperable, and open-source technological products that let everyone find their niche. We judge our economic success by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world. Healthy politics is ensuring everyone has easy access to the tools that solve their pains so that adaptations can be replaced once the ecosystem decides it needs better.
 
 Because of techvolution, today, we no longer have ideologues that encourage extremes and excess. Instead, we practice techvolution that promotes moderation and problem-solving with its mixed-ideological politics and bumble-bee economics. 
 
@@ -247,11 +247,11 @@ This change brought tremendous progress, yet human nature is not perfect. We sti
 <!-- ![Louis](/assets/img-anp/playergod-stargazer.jpg) 
 _Royal kids don't benefit from antagoism_.-->
 
-Now I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem that is trying to harness all available energy more efficiently every day. 
+Now I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem that is harnessing all available energy more efficiently every day. 
 
 Now, our kids don't die in ideological wars, suffer economic depressions, and only rarely struggle with psychological torments.
 
-Instead, they are busy rolling on their dice with other frontline workers under minimal, open, and accountable leadership, using any tool they need. They are interconnected by Nature's currency inside a technological ecosystem filled with open-source and interoperable tools that is adopting new adaptations so quickly its edging us closer to perpetual profit while evolving Life closer to our glorious future among the stars.
+Instead, they are busy rolling their dice with other frontline workers under minimal, open, and accountable leadership, using any tool they need. They are interconnected by Nature's currency inside a technological ecosystem filled with open-source and interoperable tools that is adopting new adaptations so quickly its edging us closer to perpetual profit while evolving Life closer to our glorious future among the stars.
 
 Along with their teachers and leaders, I helped my kids find their technological niche. And now I get to watch them achieve their very best. I advise them to re-read this book often to be sure their kids will continue evolving mankind to our highest potential.
 
