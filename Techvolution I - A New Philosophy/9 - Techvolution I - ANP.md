@@ -182,15 +182,15 @@ next:
 
 ## Foreword
 
-My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected (correctly) that Spanish was his mother tongue. To test him, the teacher briefly displayed words of colors typed in a different color and then told my son to say the color each word was written in. 
+My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected (correctly) that Spanish was his mother tongue. To test him, the teacher briefly displayed words of colors typed in a different color and then told my son to say the color each word was written in.
 
 Here's an example:
 
 <LanguageTest />
 
-It's near impossible to cheat the test. Even if you're pretending ignorance, your mind reads the word before seeing the color. My kid was soon found out and took the advanced Spanish class. I laughed when he told me the story. I advised him to take a lesson from it.
+It's nearly impossible to cheat the test. Even if you're pretending ignorance, your mind reads the word before seeing the color. My kid was soon found out and took the advanced Spanish class. I laughed when he told me the story. I advised him to take a lesson from it.
 
-The lesson is you should never stop evolving, it's a mindset only for the doomed.
+The lesson is that you should never stop evolving; it's a mindset only for the doomed.
 
 That's the reason I still read this book today in 2083. I never want to go back.
 
@@ -200,21 +200,21 @@ I sometimes forget _Techvolution_ was as transformative as it was.
 
 Was humanity ever so hamstrung?
 
-Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Could someone interfere with a worker's evolution and call themselves a boss; and not an antagonist who never faced a worker's or customer's review? Why were there so many currencies instead of using Nature's currency? Would teachers demand their students not use the latest technology because those teachers wanted safe jobs for life based on ancient technology? Would a person own a tool and not be allowed to repair it?
+Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Could someone interfere with a worker's evolution and call themselves a boss and not an antagonist who never faced a worker's or customer's review? Why were there so many currencies instead of using Nature's currency? Would teachers demand that their students not use the latest technology because those teachers wanted safe jobs for life based on ancient technology? Would a person own a tool and not be allowed to repair it?
 
-Understanding how regular people responded to their evolution being held back is even more confusing. They would watch ideological stories on a screen and call that politics. They would march in circles expecting their lives to improve. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to evolve better solutions to their specific life?
+Understanding how regular people responded to their evolution being held back is even more confusing. They would watch ideological stories on a screen and call that politics. They would march in circles, expecting their lives to improve. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to evolve better solutions to their specific lives?
 
-The hard truth is yes, we used to live this way. I must remember that. It's easy to forget humanity once fought our evolution instead of our natural enemy.
+The hard truth is yes, we used to live this way. I must remember that. It's easy to forget that humanity once fought our evolution instead of our natural enemy.
 
-Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else making Life on Earth a continual work in progress. For billions of years every organism has evolved to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we mustn't also be vigilant?
+Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else, making Life on Earth a constant work in progress. For billions of years, every organism has evolved to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we must not also be vigilant?
 
-Of course we must! Like any animal, Entropy is always on our tail. We feel the agony of pain as a blessed warning to avoid chutes and cherish ladders while living on the gameboard of evolution; only then can we stay a head of Entropy's wrath.
+Of course we must! Like any animal, Entropy is always on our tail. We feel the agony of pain as a blessed warning to avoid chutes and cherish ladders while living on the gameboard of evolution; only by reducing pain can we stay ahead of Entropy's wrath.
 
 Yet, we are not biological creatures. Did the caveman start a fire with lasers from his eyes? Did explorers map the world by flying across oceans? No, we are not superheroes. Our race, sex, and genetics do not keep us warm or grow our food.
 
 We are all biological vessels for technological evolution.
 
-We outrace Entropy by learning the language of our fate; the free and widespread creation, adoption, and replacement of technologies on the technological tree of Life. Technological evolution has the exact requirements as the normal evolution that powers everything from slime molds to blue whales. We need unfettered innovation to create a variety of new technological adaptions. Whichever adaptions most efficiently harness resources capture a niche and are rewarded with a job in Life's holy war against Entropy.
+We outrace Entropy by learning the language of our fate: the free and widespread creation, adoption, and replacement of technologies on the technological tree of Life. Technological evolution has the exact requirements as the normal evolution that powers everything from slime molds to blue whales. We need unfettered innovation to create a variety of new technological adaptions. Whichever adaptions most efficiently harness resources captures a niche and is rewarded with a job in Life's holy war against Entropy.
 
 <!-- ![Life colonizes the natural world](/assets/img-anp/playergod-stargazer.jpg) 
 Politics makes a lot more sense when you realize words mean little because humanity lives on a Lifeboat, and people, like all beings, don't survive from words, marches, or history lessons. Everyone is really fighting over resources.
@@ -226,32 +226,32 @@ Seeing ourselves as biological beings had us chasing shadows.
 
 When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from princes to supervisors, to become gatekeepers and stop mankind's evolution. Our false biological identities allowed antagonists to secure themselves by spinning ideological stories about their supposed racial, gender, education, or noble superiority.
 
-Outsiders would fight back by overcoming one branch of these stories, only to see the another branch pop up again. Like a hydra, racism, sexism, and elitism are each versions of a leader's false hope he will never need to re-run the race of technological evolution because he had everlasting protection against Entropy by holding back other people's evolution. By chasing only one ideological shadow, we'd let antagonists delude everyone and re-create new antagonism stories over and over.
+Humanity would fight back by overcoming one of these fictions, only to see another version pop up. Like a hydra, racism, sexism, and elitism are the same story speakers tell to avoid re-running the race of technological evolution. By chasing only one ideological shadow, we'd let antagonists delude everyone and re-create new antagonism stories over and over.
 
-We were born free, but everywhere our technological evolution was chained.
+We were born free, but everywhere, our technological evolution was chained.
 
-Yet, even with all their talented storytelling, antagonists always failed. They proved human survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority and antagonism inevitably fell in the face of technological progress.
+Yet, even with all their talented storytelling, antagonists always failed. They proved that human survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority and antagonism inevitably fell in the face of technological progress.
 
-That progress wasn't perfect. Filled with antagonism, our evolution had so sporadic and uncertain Entropy often caught is on the game board of evolution. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. The primary cause in these human affairs was not failed government policy or unfair history; it was about thwarted evolution; i.e. the stream of adaptions needed to outrun Entropy were stalled because people wouldn't or couldn't adopt innovation fast enough.
+That progress wasn't perfect. Filled with antagonism, our evolution was so sporadic and uncertain that Entropy often caught on the game board of evolution. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. The primary cause in these human affairs was not failed government policy or unfair history; it was about thwarted evolution, i.e., the stream of adaptions needed to outrun Entropy was stalled because people wouldn't or couldn't adopt innovation fast enough.
 
-Evolution's protagonists would transform civilied with ladders to the future, while their descenents would build chutes that the stage for society's suffering and their own civilization's downfall. Evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest.
+Evolution's protagonists would transform civilization with ladders to the future, while their complacent descendants would build chutes that set the stage for society's suffering and their own downfall. Evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest.
 
 That's why today, we protect every individual's technological evolution as a sacred right and teach it as an absolute obligation.
 
-Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson freedom over servitude, and Darwin evolution over creationism; this book teaches us techvolution over ideology. The pathway to healthy economics is democratized, interoperable, and open-source technological products that let everyone find their niche. We judge our economic success by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world. Healthy politics is ensuring everyone has easy access to the tools that solve their pains so that adaptations can be replaced once the ecosystem decides it needs better.
+Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson's freedom over servitude, and Darwin's evolution over creationism; this book teaches us techvolution over ideology. The pathway to healthy economics is democratized, interoperable, and open-source technological products that let everyone find their niche. We judge our economic success by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world. Healthy politics is ensuring everyone has easy access to the tools that solve their pains so that adaptations can be replaced once the ecosystem decides it needs better.
 
-Because of techvolution, today, we no longer have ideologues that encourage extremes and excess. Instead, we practice techvolution that promotes moderation and problem-solving with its mixed-ideological politics and bumble-bee economics. 
+Because of techvolution, today, we no longer have ideologues that encourage extremes and excess. Instead, we practice techvolution that promotes moderation and problem-solving with its mixed-ideological politics and bumblebee economics. 
 
-This change brought tremendous progress, yet human nature is not perfect. We still have many problems today. But at least we know antagonism comes too naturally to us when we have authority over others; from teachers to coaches, supervisers to princes. And so antagonism must be purged in ourselves and our community whenever it appears through the continued experience of real-life pain so we always be reminded that evolving solutions to frontline problems is our purpose. Knowing techvolution is like knowing a language because once you understand a way of thinking, you automatically see the world differently. Better tools are the best levers of power against Entropy, but gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems, and thus leads to everyone's inevitable destruction.
+This change brought tremendous progress, yet human Nature is not perfect. We still have many problems today. But at least we know antagonism comes too naturally when we have authority over others, from teachers to coaches, supervisors to princes. And so antagonism must be purged in ourselves and our community whenever it appears through the continued experience of real-life pain. We must constantly be reminded that evolving solutions to frontline problems is our purpose. Knowing techvolution is like learning a language because once you understand a way of thinking, you automatically see the world differently. Better tools are the best levers of power against Entropy, but gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems and thus leads to everyone's inevitable destruction.
 
 <!-- ![Louis](/assets/img-anp/playergod-stargazer.jpg) 
 _Royal kids don't benefit from antagoism_.-->
 
-Now I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem that is harnessing all available energy more efficiently every day. 
+Now, I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem that harnesses all available energy more efficiently every day. 
 
 Now, our kids don't die in ideological wars, suffer economic depressions, and only rarely struggle with psychological torments.
 
-Instead, they are busy rolling their dice with other frontline workers under minimal, open, and accountable leadership, using any tool they need. They are interconnected by Nature's currency inside a technological ecosystem filled with open-source and interoperable tools that is adopting new adaptations so quickly its edging us closer to perpetual profit while evolving Life closer to our glorious future among the stars.
+Instead, they are busy rolling their dice with other frontline workers under minimal, open, and accountable leadership, using any tool they need. Nature's currency interconnects them inside a technological ecosystem filled with open-source and interoperable tools that are adopting new adaptations so quickly it's edging us closer to perpetual profit while evolving Life closer to our glorious future among the stars.
 
 Along with their teachers and leaders, I helped my kids find their technological niche. And now I get to watch them achieve their very best. I advise them to re-read this book often to be sure their kids will continue evolving mankind to our highest potential.
 
