@@ -3988,3 +3988,12 @@ The easiest way to prevent competition is to subvert a person's natural motivati
 The philosophy we speak isn't the philosophy we believe in. Our true beliefs are revealed by the effects our tools have in the world. For authority to be valid, from generals to teachers, its rules must be temporary and in the service to empower those following them to control better tools because technological innovation is the plot of humanity and how the body politic keeps playing the game of evolution.
 
 ===
+
+If you're happy with the political atmosphere today and enjoy being a Conservative or Progressive (or more likely being anti-Conservative or anti-Progressive), please stop reading. You'll only be looking for ammunition to fight your enemy, but anything you find will apply just as well to your side too.
+
+We're here to rise above the hate and improve our politics.
+
+---
+
+Like in nature, whoever is first to innovate wins the race of evolution. Innovation can't be controlled by human authority because evolution has no oversight.
+
