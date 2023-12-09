@@ -69,7 +69,7 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the Reader
 
-This book uses lots of videos. I use them to make it clear how real and widespread middle-class problems are. It saves lots of reading to use a video sometimes. Keep in mind, you'll have to press play on the videos and turn the sound on/off for the GIFs. And of course, in all cases, all due credit goes to the media's creators.
+This book uses lots of videos. I use them to make it clear how real and widespread middle-class problems are. Keep in mind, you'll have to press play on the videos and turn the sound on/off for the GIFs. And of course, in all cases, all due credit goes to the media's creators.
 
 ## Inner Flap
 
@@ -182,7 +182,7 @@ next:
 
 ## Foreword
 
-My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected (correctly) that Spanish was his mother tongue. To test him, the teacher briefly displayed words of colors typed in a different color and then told my son to say the color each word was written in.
+My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected correctly that Spanish was his mother tongue. It is. To test him, the teacher quickly showed him  words of colors typed in a different color.  My son then to say the color each word was written in.
 
 Here's an example:
 
@@ -202,11 +202,11 @@ Was humanity ever so hamstrung?
 
 Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Could someone interfere with a worker's evolution and call themselves a boss and not an antagonist who never faced a worker's or customer's review? Why were there so many currencies instead of using Nature's currency? Would teachers demand that their students not use the latest technology because those teachers wanted safe jobs for life based on ancient technology? Would a person own a tool and not be allowed to repair it?
 
-Understanding how regular people responded to their evolution being held back is even more confusing. They would watch ideological stories on a screen and call that politics. They would march in circles, expecting their lives to improve. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to evolve better solutions to their specific lives?
+Understanding how regular people responded to their evolution being held back is even more confusing. They would watch ideological stories on a screen and call that politics. They would march in circles, expecting their lives to improve. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to evolve better solutions to their specific life?
 
 The hard truth is yes, we used to live this way. I must remember that. It's easy to forget that humanity once fought our evolution instead of our natural enemy.
 
-Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else, making Life on Earth a constant work in progress. For billions of years, every organism has evolved to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we must not also be vigilant?
+Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else making Life on Earth a constant work in progress. For billions of years, every organism has evolved to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we must not also be vigilant?
 
 Of course we must! Like any animal, Entropy is always on our tail. We feel the agony of pain as a blessed warning to avoid chutes and cherish ladders while living on the gameboard of evolution; only by reducing pain can we stay ahead of Entropy's wrath.
 
@@ -224,9 +224,9 @@ That's why our most important identity is the tools we use. Our tools, not our b
 
 Seeing ourselves as biological beings had us chasing shadows.
 
-When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from princes to supervisors, to become gatekeepers and stop mankind's evolution. Our false biological identities allowed antagonists to secure themselves by spinning ideological stories about their supposed racial, gender, education, or noble superiority.
+When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from princes to supervisors, to become gatekeepers and stop mankind's evolution. Our false biological identities gave antagonists the falsehoods to secure themselves by spinning ideological stories about their supposed racial, gender, education, or noble superiority.
 
-Humanity would fight back by overcoming one of these fictions, only to see another version pop up. Like a hydra, racism, sexism, and elitism are the same story speakers tell to avoid re-running the race of technological evolution. By chasing only one ideological shadow, we'd let antagonists delude everyone and re-create new antagonism stories over and over.
+Humanity would fight back by overcoming one of these fictions, only to see another version pop up. Like a hydra, racism, sexism, and elitism are told by antagonists who'd rather not run the race of technological evolution. By chasing only one ideological shadow, we'd let antagonists keep telling their ideological stories.
 
 We were born free, but everywhere, our technological evolution was chained.
 
@@ -242,12 +242,12 @@ Harnessing technological evolution seems simple to us now, but it took a big cha
 
 Because of techvolution, today, we no longer have ideologues that encourage extremes and excess. Instead, we practice techvolution that promotes moderation and problem-solving with its mixed-ideological politics and bumblebee economics. 
 
-This change brought tremendous progress, yet human Nature is not perfect. We still have many problems today. But at least we know antagonism comes too naturally when we have authority over others, from teachers to coaches, supervisors to princes. And so antagonism must be purged in ourselves and our community whenever it appears through the continued experience of real-life pain. We must constantly be reminded that evolving solutions to frontline problems is our purpose. Knowing techvolution is like learning a language because once you understand a way of thinking, you automatically see the world differently. Better tools are the best levers of power against Entropy, but gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems and thus leads to everyone's inevitable destruction.
+This change brought tremendous progress, yet human Nature is not perfect. We still have many problems today. But at least we know antagonism comes too naturally when we have authority over others, from teachers to coaches, supervisors to princes. And so antagonism must be purged in ourselves and our community whenever it appears through the continued experience of real-life pain and the reliance on others it requires. We must constantly be reminded that evolving solutions to frontline problems is our purpose. Knowing techvolution is like learning a language because once you understand a way of thinking, you automatically see the world differently. Better tools are the best levers of power against Entropy, but gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems and thus leads to everyone's inevitable destruction.
 
 <!-- ![Louis](/assets/img-anp/playergod-stargazer.jpg) 
 _Royal kids don't benefit from antagoism_.-->
 
-Now, I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem that harnesses all available energy more efficiently every day. 
+Now, I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem that harnesses energy more efficiently every day. 
 
 Now, our kids don't die in ideological wars, suffer economic depressions, and only rarely struggle with psychological torments.
 

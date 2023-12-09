@@ -3720,3 +3720,271 @@ To get there all we must do is let evolution free.
 
 https://qr.ae/pyZNq0
 What were the political reasons of the USSR collapse?
+
+===
+
+
+
+=================
+
+THIS SHOULD BE MUCH SHORTER. JUST WRAP IT UP.
+
+The Boston Symphony had a problem. There was a lot of men in their ranks. That wasn't the problem though. The problem was they didn't know why. There were plenty of talented female musicians auditioning for new parts and challenging for better seats in the orcachstra, yet not many were making the cut.
+
+You might be thinking, the judges should make the audition blind. But it already was, no judge could see the musicians perform. Now you might be thinking, well, I guess that's it, the males were just better.
+
+Instead of accepting that observation, the symphony tried something else. The judges asked the musicians to take their shoes off before walking onto the audition stage. Now the judges couldn't see the candidates, or hear their shoes.
+
+And within a few years, the symphony was about equal men and women.
+
+The sounds of the shoes was triggering a bias in the both male and female judges. By removing everything but the music, they heard only the music, and got a better product for their audience.
+
+That's a good story. As we learned above, humans love stories. It's how we make sense of the world and pass-on knowledge.
+
+Yet, stories are also our problem. We can understand cause and effect so easily that stories come naturally to us. But that doesn't mean we're good at reasoning which stories are real or fake. We can just as easily believe in a false story; as did the judges who heard footsteps instead of music and martial artists who once thought their man-made rules excluding most fighting techniques would protect them in dark alleys.
+
+The whole trick of evolution is finding the best adaptation for the problems of a given environment. And no one knows what environment the future will bring. So we must respond to failure with another adaption as quickly as possible. Anything else that gets in the way, like gender and man-made rules, is all noise.
+
+Finding the perfect biological adaptation takes a long time. Since organic lifeforms are physically attached to their adaptations, the genetic mutations needed to create new characteristics takes in millions of years. But while biological evolution is slow, it's also inevitable. Genetic mutations happen involuntarily during procreation, so biological innovation is automatic with no interference possible.
+
+There are no fake stories in the biological evolution of Life.
+
+We humans can't evolve biologically. If we did, then their might be a difference between male and female musicians. But, it's not our genes that change when learning a adaptation like a violin or piano. Instead, we adapt our psychology to incorprate a new tool into our list of traits.
+
+Anyone with enough patience can learn any tool and evolve their skillset. As Steve Jobs notes, when scientists recorded how much energy species needed to get around, condors were the most efficient, while biological humans were far down in the list. But, "A human on a bicycle, blew the condor away, completely off the top of the charts."
+Learning to ride a bike or play a piano takes a few tries (assuming the tools are well designed), but once anyone learns a tool, a new world of possibilities open up.
+
+We are still biological lifeforms, but because we invent new tools, we facilitate Life's evolution with technology instead of biology. There is effectively no difference. Life wants adaptations that consistently collect energy, procreate, and adapt. Life doesn't care about the material composition anymore than a composer or audience cares what gender the orchastra is.
+
+Our technological evolution follows the same laws as regular evolution.
+
+ - No technology survives forever.
+ - All technology has a common ancestry.
+ - Evolution of new tools is gradual.
+ - The number of tools always multiplies to fill niches.
+ - Natural selection determines which tools lives on.
+
+Thus, we humans are biological vessels for technological evolution. As Cinderella demonstrated our fate is determined by the tools in our hands, not the genes in our cells.
+
+Our evolution requires innovators undertake the burden of inventing new technology, that becomes tools, that effectively becomes a new species once someone uses it. To connect people to adapatations requires a reason, which is best communicated with a story. Therefore, innovation requires storytelling inside marketing or ideology to connect person and tool.
+
+This is what happened during the creation of judo, boxing, wrestling and the other martial arts. While these disciplines of course don't have much technology, they still use bags, pads, ropes, gloves, weights, books, and eventually video, to train, learn, and pass-on knowledge.
+
+Thus, these martial arts used the human body as a foundation to attach a mixture of techniques and tools, that gave the human body and mind into a variety of distinct traits, and therefore created different species like boxers, judokas, kickboxers, etc.
+
+![Technological Tree of Life](/assets/speciation-elephants.png)
+_We live on the technological tree of Life._
+
+Once home televisions and the internet allowed lots of information to flow, it became possible to do what evolution does; review the species inside an ecosystem, evaluate their strengths and weaknesses, and pick and choose the best based on the requirements of a given fight using an enlightened philosophy called mixed-martial arts.
+
+But, while natural selection in biological Life is automatic, for humans to mix and match the best martial arts techniques required fighters seeing through the stories that connected them to each self-defense discipline. And seeing through stories isn't our best feature.
+
+Why?
+
+Because by seeing through a story that connects us to a tool, we're doing what Cinderella did and evaluating our place in the power structure we live in. You may be part of a race, culture, ethnicity, or religion, but you're definitely part of a power structure, and the power structure is the control and access to the tools your company, bureaucracy, family, and country uses to harvest resources. Every farm, office database, warehouses, factory, has positions that determine how much control you, and everyone, has to work the levers of power.
+
+Cinderella challenged for a better seat in the orchastra so to speak, but the competition wasn't open nor fair. Instead she met a host of reasons why evolution shouldn't happen.
+
+_"Cinderella, the ball isn't for you."_
+_"Cinderella, clean up, that is your job, because you're the stepdaughter."_
+_"Cinderella, you can't try on the glass slipper, because I'm the mother, and I say only my daughters can be a princess."_
+_"Cinderella, your pain is invalid, do what you're told to do."_
+
+We can't understand a word of mushroom, dolphine, or any other creatures communication, yet we understand their evolution because we only listen to their actions in their quest to harvest resources and procreate. Because we can understand human language, the natural selection of tools is a confusing mess of real stories about magical new tools and fake reasons of why we shouldn't reach for them told by antagoinsts like the stepmother who don't want to admit evolution has toppled the power structure that gave them their edge.
+
+Today, our society's huge and expanding ideological echo chambers exist to fight evolution.
+
+And they won't stop getting bigger or nastier because, like it did with biological lifeforms so many times before, evolution has finished a chapter in the story of Life. Today Life is trying to leave one age and and enter a new one. The old age wants to stay alive past its shelf-life and is using Conservative and Progressive echo-chambers to keep it's old tools and way of Life alive.
+
+All people today thus have a huge choice to make; follow fake stories while going round in circles struggling to find resources using outdated adaptations. Or climb the ladder and evolve, as quickly as possible, so Life can prosper in the fledgling Internet Age.
+
+## Old Age, Ladder Climb, Final Frontier
+
+In 55 BC, the Roman general Julius Caesar had a problem. He was in control of prosperous territory west of the Rhine river while the east side was ruled by hostile German barbarians. Caesar defeated the Germans in open battle, but that is why the Germans avoid fighting him and instead used small boats to raid his villages in the night.
+
+So, to protect his society, Caesar had to defeat an enemy that wouldn't fight him.
+
+He came up with an idea. The Germans were a tribal people, with no written language, limited metal working, and primitive engineering. Meanwhile, the Romans built quality roads, long aquaducts, huge colliseums, and seemingly whatever else they wanted.
+
+To showcase their technological power, Caesar decided to build a bridge.
+
+The construction was carried out in an area where the depth of the river would be up to nine meters. The bridge was built on double wooden piles that were driven into the riverbed by winching up a large stone and releasing it, thereby driving the posts into the riverbed. The construction system ensured that the greater the flow of water, the harder the bridge was held together. Caesar’s soldiers built the bridge in just 10 days.
+
+Watching the Roman legions crossing the Rhine river mystified the Germans. They struggled getting flimsy boats across the wide river now they saw thousands of soldiers us piles, hammers, saws, and engineering plans to build a "thing" that let people walk over the mighty Rhine river. It would be like us seeing 10,000 people teleport to the Moon and back and someone expecting us to go head and use it willy nilly. Our psychology needs to understand a technology [before we can make use of it.](https://youtu.be/hJWJ1zZ9vu0?feature=shared)
+
+Caesar defeated the Germans by educating them about technological evolution. He showcased how Romans were masters of the Classic Age, and the Germans were hundreds of years behind in the Iron Age. So impressed by Rome's levers of almost magical powers, the Germans made peace that lasted for generations.
+
+We already know biological evolution is tracked in eras like the famous Jurassic period. For humans the chapters of evolution are the ages of new technology. The tools we create, use, and understand determines where we are in the story of Life. Here is a list of all the technological ages, and the civilizations that led humanity to each.
+
+  - Bronze Age: 	  2000 - 1250 (Babylon)
+  - Iron Age:  		  1250 - 550  (Greece)
+  - Classic Age:  	550 - 476   (Rome)
+  - Middle Ages: 	  500 - 1439  (Abbasid)
+  - Renaissance: 	  1440 - 1686 (Italy)
+  - Science Age: 	  1687 - 1759 (France)
+  - Industrial Age: 1760 - 1969 (America)
+  - Internet Age: 	1970 -      (tbd)
+
+<small>* This timeline is Mediterranean centric. Other civilization made many technological advancements, but the geography around the Mediterranean was best suited to enable continous technological evolution. Read [_Guns, Germs, and Steel_](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel) to find out more. Remember, there are many more chapters in front of us then behind us.</small>
+
+Like Julius Caesar demonstrated, the difference between technological ages is huge. A fundamental new technology is an entirely new stage of evolution, with a totally different list of traits in the hands of its people. There is no biological difference between peoples in different ages, but their levers of power certainly are different. Going from one chapter to another, like from Bronze to Iron, requires re-inventing everything: transportion, agriculture, war, healthcare, music, self-defense, medicine, and everything else that makes up a civilization.
+
+This constant race to invent, learn, and use technologies resembles the board game chutes and ladders. The game is played on a board with gridded boxes with a number of "ladders" and "chutes" that connect two boxes. Players roll dice to navigate their game piece from start to finish. Ladders advance players faster while chutes hinder progress.
+
+We already know that in Nature the environment is always changing, and lifeforms must evolve to keep up. In this respect, each chapter in the story of Life, is a game of chutes and ladders. The game board is the environment, and the players are the lifeforms competing to survive.
+
+Every adaptation starts on the same line and advances up the board as quickly as possible. Improving existing adaptions is relatively straight-forward but only gives minor benefits, and so take many "boxes" of iterations to advance up the board. Great innovation saves much time, so is like climbing a ladder, while complancency sends the player back several boxes like what happens when hitting a chute.
+
+Only the fastest adapations hit the ladders they need to win the game and survive to play again in the next chapter of Life.
+
+A few adaptations keep winning and become "living fossils" while most species eventually end up losing the game, and go in circles on a endless chute, fighting their inevitable extinction as their levers are no longer powerful enough to keep them advancing in the game of evolution.
+
+![Technological Spiral](/assets/speciation-elephants.png)
+_Evolve and advance, fight evolution and go down on ongoing evolution of technological Life_
+
+As we already discusssed, biological evolution is slow but involuntary, and thus the biological game of chutes and ladders never stops. 
+
+Technological life isn't so certain. 
+
+The Germans didn't enter into the Classic Age for hundreds of more years after seeing Caesar's bridge. The Romans themselves stalled their advancement and were invaded and colonized by those very same Germans. Advancing a civilization requires leaving the old one behind, which for many nations is so hard, it never happens.
+
+A big reason for this is the loyalty stories foster in humanity. Stories are meant to pass-on knowledge to aid everyone's continuous evolution, but they often become fake to prevent evolution. 
+
+As the saying goes "hard times creates hard people, who play the game of evolution so well they create easy times, which thus breeds easy people, who stop evolving, and thus create hard times". During this cycle, the stories used to pass-on the hard-won lessons so humanity can continually roll the dice and hit ladders in the game of evolution, transform into stories to antagonize anyone playing the game of evolution.
+
+That's why no civilization has ever won two ages in a row. The winners have so much power, they stop rolling the dice and rest on their laurels. The people who controlled the levers of power at the end of the game usually forget their ancestors were even playing a game of technological evolution. So they fall pray to vanity, and create stories like elitism, racism, and sexism, for the same reason Cinderella's stepmother tore the dress, locked the attic, and shattered the glass slipper, they concentrate on meaningless biological differences to antagonize anyone advocating playing a new game of technological evolution.
+
+America won the Industrial Age. It did so with a mixture of hardwork, ingenuity, and injustice. And, in 1970, America invented the personal computer and the internet. This is the technology of the future, but we are not yet in the Internet Age, for the same reasons seeing the bridge didn't upgrade the Germans all those years ago.
+
+Evolving our society to the possibilities of modern technology requires a new game of technological evolution.
+
+Instead of playing, our society is resting on our laurels and stagnating while trying to find someone to blame for the social, economic, and political problems that inevitable get worse when any creature stops playing the game of evolution and walks in circles in a death spiral.
+
+<Flipper1970 />
+
+_In the game of chutes and ladders, not evolving to the Internet Age means we keep hitting chutes._
+
+## Why Freedom Keeps Winning
+
+- what else can a business owner do when his technology is bested but increase his marketing?
+
+Once you realize humans must evolve like any other creature, but that we can't evolve biologically, this new philosophy falls into place: technological evolution is the plot of human existence. But the stories that connect us to good tools also keep us loyal to old ones. Therefore we're often masked from the fact constant technological evolution is our pathway to success. 
+
+This is the first political philosophy written after evolution is a well researched fact. It validates everyone's frontline pain. The person paying a bill, driving a car, using a medication is the pain receptor of the body politic. Their pain determines what tool, technique, or policy best solves a problem, not their boss, teacher, or pundit who has the incentive to delay evolution for their personal gain. All other lifeforms in Nature have the ability to mix and match their tools and techniques to find their niche. They can each freely evolve and so must we to update our body politic to the Internet Age.
+
+We can't speak a word of polar bear, but we understand how they get resources. We thus understand the fate of a bulky, white, and flesh eating predator in a melting environment.
+
+The stepmother is the polar bear, she just doesn't want anyone to realize that. She could work to better herself, drop old techniques and tools to get her daughters married to the prince, but since the choice is hers, she opts for the easier method to antagonize the evolution of her competitors with force and fake stories. Her politics is a public face of honesty and hard work, but a hidden truth of subverting the natural selection of evolution.
+
+We have biology that says survive at all cost, but we prosper via with technology that lives according to its own Life cycle. There is thus many stepmothers in our body politic. So, you don't need to speak English to understand the yellings fest of today's ideological politics.
+
+Today's ideologies are born in Industrial Age. Their way of life is based around industrial technology like broadcast radio and television, school libraries and lecture halls, transportation by car or truck, suburban housing, and so on down the mass-marketing list. All these one-size fits all adaptations are past their shelf-life and are no longer levers of power empowering users to climb ladders in the game of evolution.
+
+Their tools can't solve real pain, so their public philosophies/ideologies argue and lay blame on "lazy unions" or "greedy business" in an all out effort to avoid starting a new game of chutes and ladders.
+
+Evolution doesn't care about our ideological stories anymore than the polar bears. Life needs lifeforms that harvest enough energy to procreate. Losers get ejected from the game board. Like the Germans looking at Caesar's bridge, we're mystified and scared by Internet Age technology. We don't understand how it will change our society. We can look at the bridge, walk over the it, but we're still so scared of high-speed internet, augmented reality, artificial intelligence we scream "our jobs are at threat" as if ladders should scare us. There isn't even a field of study (yet) to learn how technological evolution morphs humans to its requirements.
+
+So we don't climber the ladder to the next chapter in the story of Life.
+
+Instead, we continue industrailzing society, with too many large roads, cars, homes, planes, televisions, one-time-use products, and other mass-produced industrial goods. These one-size fits all solutions cannot give a return on their investment because they're dinosaurs trying to live in the Ice Age, or a fighting discipline pretending its the single source of truth. Instead of being genuine levers of power in your quest to collect resources and procreate, our aging Industrial Age tools rely on huge marketing and extreme ideological storytelling to keep their users engaged.
+
+We need to re-invent our entire civilization, from healthcare to education, to enter the Internet Age. That happens naturally, and painfully, in biology, but human must choose technological evolution. Our belief in old philosophies, means we're like Cinderella before she decided to disobey her stepmother or martial artists before mixed-martial arts; we follow old rules that keep using old tools in an expired way of Life.
+
+We thus keep hitting chutes as taxes get more confusing. School prepares students less for the job market. Insurance gets more expensive. And there are many more topics trending badly. The Great Recession, the Debt Bubble, the housing crisis, inflation, useless jobs; we aren't playing the game of evolution. The pain of evolution is happening to us. From Chicago to Los Angeles, San Francisco to New York to all the towns and suburbs in between, we're suffering evolution's wrath instead of adapting with reason.
+
+Like Cinderella's stepmother, there are lots of leaders fighting your ascension to the Internet Age. Nature wants you to find your niche, but professors tell students not to use ChatGPT, Wikipedia, and any other tools that makes learning easier, as if the job market is looking for people who use card catalogues. Corporate bosses insist workers must drive into a corporate office while the paying customers have no say. Bureaucrats keep making citizens use actual paperwork to get government services because using apps is too easy.
+
+All stepmothers antagonizing you climbing the ladder to the Internet Age, where Life demands you mix and match tools and techiques to find your niche.
+
+Mixed martial-arts was so successful because it let anyone, big or small, genius or simple, learn and use whatever technique helped _them_, win their fight. Evolution empowers the users, students, people on the frontine, not the trainers, teachers, or bosses.
+
+Medicine, science, and self-defence once suffered from this antagonism. It wasn't until each recognized every human technique and tool is a sub-disicpline, a species that must compete in a ecosystem. Therefore to we humans must not by loyal to any one adaption and its power brokers, but must consciously select tools from the ecosystem to solve a specific problem. Teachers, coaches, bosses are valid only if they help people evolve faster.
+
+Thereafter we can be like Cinderella using dresses, keys, and slippers, improve our Life.
+
+Because we don't yet have a new philosophy reminding everyone we "innovate or die" like any other lifeform, regular people are left being Cinderella locked in the attic, wanting a better Life without the know-how to get it. Without the power of evolution in their minds, they tell stories within either Conservative or Progressive ideology, to justify why they should get priority access from the dwindling carcus of the Industrial Age.
+
+- Hi, I'm a Progressive Activist. My creativity imagined the Industrial Age policies and tools that spread unimaginable wealth to mankind. After the Industrial Age ended, I kept pushing those same tools and policies and now they're bizarre. That's why my art films, marketing campaigns, and protests are a bad return on investment. I used easy credit and cheap labour to sustain my old adaptations, but now they're both running out. To hide my ineffectivness, I've been using a public philosophy that because my, or someone elses, parents and grandparents were abused and disadvantaged my old tools and policies are sitll needed. By the way, Fascist Conservatives are greedy and evil they deserve nothing!
+- Hi, I'm a Conservative Businessman. My industriousness built the Industria Age's companies, tools, and wealth for mankind. After the Industrial Age ended, I kept selling the same tools and companies using spectacle. American homes, vehicles, televisions are now huge! They do the same functions though, so we had to use easy credit and cheap labour to pay for it all and now its running out. To hide my ineffectivness, I've been using a public philosophy that because my parents or grandparents were smart and hard working their old tools and policies that I still use today are still needed. By the way, Socialist Progressives are lazy and evil they deserve nothing!
+- I don't like politics. But as cost of living goes up my happiness goes down, I'm looking for answers. I really think `insert name here` are terrible people, so my only other choice is `insert name here`. What I'm really worried about is the technology that underpins my job becoming obsolete because I love Netflix but want to keep working at Blockbuster.
+- None of us knows how to start a web server.
+
+Today's ideologies co-evolved the Industrial Age. Now their descendats are riding a chute and de-volving towards extremism, depression, and war. Because unlike Cinderella or a martial artist, they don't know how to reach for the tools to change their fate. Instead they find fallacies in each other's public facing stories about gender, pay gaps, inequality, and so on to invalidate the other's pain and elevate their own, because the tools and techniques they've grown up with, educated with, and have a job with, aren't the single source of truth, and can't harvest enough resources in the Internet Age to bring prosperity to the body politic.
+
+Now, we've delayed evolution to the Internet Age for so long that we're like polar bears in the Amazon. We're Industrial Age species trying to live in the Internet Age. As a result debt, inflation, insurance and the cost of living is increasing and we can't bring rates<button @click="rdegg = !rdegg">*</button>down proactively and ease ourselves into the next chapter in the story of Life. Life has let 99.9% of all prior species die because they failed to harvest enough resources to procreate. Industrial Age ideologues, cultures, and societies are writing themselves on that list.
+
+Without a new philosophy to instruct people how to play the game of evolution, people have no choice but to fight for their tool's and therefore their ideology's survival; it's all they know. They're effectively defending their species. Conservatives keep talking about wealth generation, and Progressives keep talking about wealth distribution, because that's the ideology of their respective Industrial Age tools. Antagonizing evolution leads to a dying Industrial Age economy and a death spiral; why would anyone in a government job not support more government's redistribution of wealth via larger social programs if that gets them job security? Likewise, why would anyone inside a large corporation not support corporate profiteering if that's what pays the increasingly harder to pay bills?
+
+Because today we're all stuck in an dying yet still industrializing society, everyone is forced into a one-sided jobs with one-sided interests. Therefore people have one-sided and increasingly extreme politics. Growing extremism of a society inside a death spiral is typical in the story of technological evolution.
+
+Every transition to a new chapter in the story of technological Life is first filled with civil wars as old ideologies struggle to keep their tools alive. Eventually regular people start reaching for new levers of power as revolutions validate their pain and motivate the frontline to reach for new levers of power to kickstart the game of evolution.
+
+In its highest form, politics discusses what direction a society should take. Good politics is like a healthy nervous system directing resources to address the pain society feels. We today are feeling pain that is not being healed. Solving frontline pain will create the ladder to the Internet Age. And we need mixed-ideological politics to do it.
+
+Fuse our ideologies via a shared mission. Set the Progressives—who love being weird and creative—loose but focus their creativity to inventing an Internet Age civilization. Let the Conservatives—who love to build things for profit—be free, but make sure they only earn money when they build the new and improved civilization Progressives imagine.
+
+The lessons of every transition to a new age is the same; frontline pain is the definition of good and bad, because curing pain is a universal langauge for us, polar bears, and every other lifeform. Pain is Life's way of telling individuals to change their behavior before it's too late. Prior revolutions made sure human civilization validated frontline pain and encorporating their pain receptors into its nervous system so they can grab hold of new levers of pain curing power to new climb ladders in the game of evolution.
+
+We know have frontline feedback mechanisms in place for our military, legislature, executive, and consumer markets. While not perfect, we can tell our President what we think, we can critize our generals, we can vote on laws, decide what products to buy, what medicine to take, and what martial art to learn. This means, like a violinist contending for first chair, we can peacefully fight back against antagonists when they use their position to prevent evolution.
+
+We don't yet have this power within our companies, bureaucracies, and jobs.
+
+In our jobs we're too often still old martial artists using one-sided tools and Cinderella without freedom to choose our adaptations. But, as the development of mixed-martial arts shows, Internet Age technology enables learning so much, any person can learn multiple techniques. Therefore we can change careers more often. Such cross-polination of tools and techniques in our economy might be called "bumblee economics".
+
+With the freedom to evolve in our jobs and careers we'll experience different roles from management to customer service, construction to bureaucracy. This mix and match of jobs, techniques, and tools is the daily practice of mixed-ideological politics.
+
+Mixing the human body's adaptability to learn many techniques with a free mind willing to learn, will create a new, self-correcting, and sustainable political philosophy. Since mixed-ideological politics frees any person, whether short or tall, heavy or thin, aggressive or meek, can "mix and match" techniques and tools to find their niche and learn to live their Life more efficiently, be it sealing your windows, to inventing a new app. Sleeping better, or leaning a new language.
+
+So, you must be Cinderella, a mixed-martial artist trained to pickup whatever tools helps improve your future. You're a bumblebee rolling your own dice as you go from opportunity to opportunity in the search for the resources you need to find your niche and win the game of evolution. You'll need the help of creative Progressives and hard-working Conservatives to do it. This mixed-ideological politics is brought to you inside a nice new political philosophy called Techvolution.
+
+Keep reading, and you'll climb the ladder to Internet Age. Jeff Goldblum says it's inevitable, why would anyone not follow him?
+
+>If there's one thing the history of evolution has taught us, it's that Life will not be contained. Life breaks free. It expands to new territories. It crashes through barriers. Painfully, maybe even.. dangerously, but and...well, there it is....Life...finds a way.
+
+[Ian Malcolm, Jurassic Park](https://www.youtube.com/watch?v=kiVVzxoPTtg)
+
+<span v-if="rdegg" class="footnote"> F the mixture of failure and fortune. 🔺💚<img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;"></span>
+
+<span v-if="footBarbie" class="footnote"> This process happens many places. As civilization changes, winners try to keep others in their social role and not full participating members of the newly evovled society. The new Barbie movies shows this well. 1950s housewifes were seen as home rearers and home makers that was only needed to make up for the atrocious infant mortality rate. As civilization advanced up the evolutionary tree and modern medicine could give mostly safe childbirths, women were technically freed from their roles, but needed a liberation movement to redefine their place in society. Likewise today, most workers are seen as automotons to supervise and manage, because early industrial machines like type writers and welders were primitive and required much human work and therefore supervision. By the same take measure that Barbie needed to break old social norms, so do modern workers.</span>
+
+- People working for evolution will talk about efficiency and empowerment, people working against evolution will tell stories about morality and ethics.
+
+- Innovation isn't subject to human authority. Be it from princes or executives, boxing coaches or stepmothers. The point of authority is to craddle youth until its old enough to venture out into Nature and uncover the next innovation. No parental authority of right and wrong exist into adulthood. Guideance and advice hopefully does exists, but Life needs the creatures feeling pain to find the best solution to pain, and that's why libery and freedom to choose one's tools keeps winning in fairytales and real-life.
+
+The technology of industrialization and the philosophy of free-market economics liberated once upon a time peasonts to buy and use any product or piece of land best for themselves. The technology of printing-press and telescope and the philosophy of science, liberated once up a time soothe sayers to investigate the natural world. The technology of printing-press, ballot box, and gun, with the philosophy of liberalism liberated individuals to select their own government. The technology of video cameras and the philosopohy of mixed-martial arts finally liberated fighters to learn and use any technique in their self-defence.
+
+Now, we have the technology of high-speed internet, smartphones, and artificial intelligence. These can liberated us at our jobs to find innovation. But we do not have the philosophy that expect us to grow up and venture out into the world. Life doens't care. The laws of evolution are required regardless.
+
+===
+
+## Inner flap 
+
+But before we can unlock the potential of this amazing new technology, we must update our political philosophy. Evolution was totally unknown to the creators of Conservatives and Progressives, and our politics needs its many lessons to in order to advance to the Internet Age.
+
+To teach evolution, Techvolution uses Aristotle's _Poetics_ to better understand Hegelian dialectics to showcase how humanity continues Life's Darwinian evolution via technological innovation. That's, of course, a mouthful, so it's easier to say this new philosophy explains why the politics inside our families, workplace, governments, and societies are best understood as another story in Life's long and ongoing evolution.
+
+I wrote a deep dive in a book called [_Story Cut Tools_](https://storycuttools.netlify.app/), which is a good read but also long. I wrote the summary below with enough meat so you can skip the nerdy philosophical details and jump right into a new philosophy. It will put the power of evolution in your hands and let you understand why we desperately need a new philosophy.
+
+There's no other way to overcome our social, environmental, and economic problems.
+
+
+===
+
+Adaptations are levers of power.
+
+--
+
+Here is _Cinderlla_ in bullet points:
+
+- Starting reality - Cinderella is an orphane living with a hateful stepfamily who tear her dress to shreds.
+- Hero insight - Cinderella decides to disobey her cruel stepmother and attend the ball.
+- Back and forth drama - Cinderella, stepmother, and their respective allies, battle to control evening ware, invitations, attic keys, glass slippers, and other levers of power.
+- New reality - The winner, Cinderella, marries her prince charming and becomes a princess who lives “happily ever after”.
+
+--
+
+The easiest way to prevent competition is to subvert a person's natural motivation to evolve. The stepmother invalidated Cinderella's pain with a fake story that Cinderella deserved her lowly position. When Cinderella followed her stepmothers commands she was wearing a mask of submission to endure her pain. And if the stepdaughter protested her abuse she'd still be acting within her stepmothers oppression instead of rising above it.
+
+The philosophy we speak isn't the philosophy we believe in. Our true beliefs are revealed by the effects our tools have in the world. For authority to be valid, from generals to teachers, its rules must be temporary and in the service to empower those following them to control better tools because technological innovation is the plot of humanity and how the body politic keeps playing the game of evolution.
+
+===
