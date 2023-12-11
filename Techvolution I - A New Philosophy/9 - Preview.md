@@ -264,8 +264,6 @@ _You are a member of the body politics. Your pain determines what techniqes and 
 
 ## We Need Chambers, Just Not Echo Chambers
 
-- Remember we're not erasing ideologies.
-
 Before we learn to protect ourselves from today's Industrial Age echo chambers, it's important to keep in mind, we're not erasing ideologies. We're only empowering ourselves to be like mixed-martial artists and mix and match policies, techniques, and tools to better solve our problems.
 
 Sometimes SUVs are needed, sometimes EVs are too. Sometimes we do need to raise taxes or decrease red tape. It all depends on the severity of pain and the risks and rewards of each possible tool or technique available to solve it.
@@ -540,19 +538,19 @@ Instead, we continue industrializing society with too many large roads, cars, ho
 
 - Hi, I'm a Conservative Businessman. My industriousness built the Industria Age's companies, tools, and wealth for mankind. After the Industrial Age ended in 1969, I kept selling the same tools and companies using flashy spectacle. American homes, vehicles, and televisions are now enormous! They do the same functions, though, so we had to use easy credit and cheap labor to pay for it all, and now it's running out. To hide my ineffectiveness, I've been using a liberty-loving public philosophy. Because my parents or grandparents were intelligent and hard-working, I should still get the money to pay my mortgage and grocery bills. By the way, Socialist Progressives are lazy and evil. They deserve nothing!
 
-- I don't like politics. But as the cost of living rates go up, I'm looking for answers. I'm starting to think `insert name here` people are terrible, so I'm joining `insert name here.` I'm apprehensive about the technology that underpins my job becoming obsolete because I love Netflix but want to keep working at Blockbuster.
+- I don't like politics. But as the cost of living rates go up, I'm looking for answers. I'm starting to think `insert name here` people are terrible, so I'm joining `insert name here.` My true concern is that the technology that underpins my job is becoming obsolete, which sucks because while I love Netflix, I was planning on working at Blockbuster forever.
 
-- None of us knows how to start a web server. I could learn to, but I won't be crossing that bridge anytime soon because I smartly spend my time scrolling Twitter, shopping, and watching cable news.
+- None of us knows how to start a web server. We could learn to, but we won't be crossing that bridge anytime soon because I smartly spend my time scrolling Twitter, online shopping, and watching cable news.
 
-We're an Industrial Age species trying to live in the Internet Age. As a result, debt, inflation, insurance, and the cost of living are increasing, and we can't bring the cost of living rates<button @click="rdegg = !rdegg">*</button>down proactively and ease ourselves into the next chapter in the story of Life.
+We're an Industrial Age species trying to live in the Internet Age. As a result our real-life problems are mounting, and thus our debt, inflation, insurance, and the cost of living have been increasing for so long we can't bring the cost of living rates<button @click="rdegg = !rdegg">*</button>down proactively and ease ourselves into the next chapter in the story of Life.
 
-Life has let 99.9% of all prior species die because they failed to harvest enough resources to procreate. Anyone who follows Industrial Age ideologies, cultures, and societies is writing themselves on that list.
+Life has let 99% of all prior species die because they failed to harvest enough resources to procreate. Anyone who follows Industrial Age ideologies, cultures, and societies is writing themselves on that list because they won't adapt themselves to the requirements new technology needs to bring humanity prosperity.
 
 You don't have to join them.
 
 That's why this book is for you. Now you know why you don't need to "pick a side" in the Left versus Right war. Using mixed-ideological politics, you can bypass their feud and learn how to create a better future for your kids, country, and planet.
 
-You are well on your way to being Cinderella, ignoring the rules that interfere with your development by reaching for new tools and techniques as you roll your own dice, flying from opportunity to opportunity, finding your niche, and winning the game of evolution. You'll need the help of creative Progressives and hard-working Conservatives to do it, but you won't be distracted by them.
+You are well on your way to being Cinderella, ignoring the rules that interfere with your development by reaching for new tools and techniques as you roll your own dice, flying from opportunity to opportunity, finding your niche, and winning the game of evolution. You'll need the help of creative Progressives and hard-working Conservatives to do it, but you won't be distracted by their politics any more.
 
 Keep reading, and you'll escape the attic and build the bridge to the Internet Age. Jeff Goldblum says it's inevitable; why would anyone not follow him?
 
@@ -560,6 +558,14 @@ Keep reading, and you'll escape the attic and build the bridge to the Internet A
 
 [Ian Malcolm, Jurassic Park](https://www.youtube.com/watch?v=kiVVzxoPTtg)
 
+---
+
+I wish the summary was original. It's actually a sequel.
+
+Years ago, our ancestors had to evolve from the Medieval Age. So, they had to leave the religion of the Medieval Age; Catholicism and Protestantism were used to tell the story that God made kings and queens to rule countries. If ever there was a public-facing philosophy designed to hold back everyone's evolution, it was this. Philosophers who invented Conservatism and Progressivism detached politics from theology so humanity could climb the ladder in the game of evolution. 
+
+They did it, although they didn't know about evolution so their theories were incomplete. Regardless, they achieved widespread religious tolerance, so people in the Industrial Age could mix and match whatever religion they felt was best for them. After that, church and state were separated.
+
+This summary does the same for ideology and economy. Since we do know about evolution, so the upgrade is more straightforward. And it's not a moment too soon. Because the last time we upgraded to a new age, it took many years of horrible warfare to leave the past behind.
+
 <span v-if="rdegg" class="footnote"> F the mixture of failure and fortune. 🔻💚<img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;"></span>
-
-
