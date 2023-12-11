@@ -182,7 +182,7 @@ next:
 
 ## Foreword
 
-My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected correctly that Spanish was his mother tongue. It is. To test him, the teacher quickly showed him  words of colors typed in a different color.  My son then to say the color each word was written in.
+My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected correctly that Spanish was his mother tongue. To test him, the teacher quickly showed words of colors typed in a different color. My son then to say the color each word was written in.
 
 Here's an example:
 
@@ -202,7 +202,7 @@ Was humanity ever so hamstrung?
 
 Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Could someone interfere with a worker's evolution and call themselves a boss and not an antagonist who never faced a worker's or customer's review? Why were there so many currencies instead of using Nature's currency? Would teachers demand that their students not use the latest technology because those teachers wanted safe jobs for life based on ancient technology? Would a person own a tool and not be allowed to repair it?
 
-Understanding how regular people responded to their evolution being held back is even more confusing. They would watch ideological stories on a screen and call that politics. They would march in circles, expecting their lives to improve. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to evolve better solutions to their specific life?
+It's even more confusing trying to understand how regular people responded to their evolution being held back. They would watch ideological stories on a screen and call that politics. They would march in circles, expecting their lives to improve. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to evolve better solutions to their specific personality, physique, nature, and interests?
 
 The hard truth is yes, we used to live this way. I must remember that. It's easy to forget that humanity once fought our evolution instead of our natural enemy.
 
@@ -224,23 +224,23 @@ That's why our most important identity is the tools we use. Our tools, not our b
 
 Seeing ourselves as biological beings had us chasing shadows.
 
-When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from princes to supervisors, to become gatekeepers and stop mankind's evolution. Our false biological identities gave antagonists the falsehoods to secure themselves by spinning ideological stories about their supposed racial, gender, education, or noble superiority.
+When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from princes to supervisors, to become gatekeepers and stop mankind's evolution. Our false biological identities gave antagonists the falsehoods they needed to spin-up ideological stories about their supposed racial, gender, education, or noble superiority.
 
-Humanity would fight back by overcoming one of these fictions, only to see another version pop up. Like a hydra, racism, sexism, and elitism are told by antagonists who'd rather not run the race of technological evolution. By chasing only one ideological shadow, we'd let antagonists keep telling their ideological stories.
+Humanity would fight back by overcoming one of these fictions, only to see another version pop up. Like a hydra, racism, sexism, and elitism are told by antagonists who'd rather not run the race of technological evolution. By chasing ideological shadows, we'd let antagonists keep telling their ideological stories.
 
 We were born free, but everywhere, our technological evolution was chained.
 
-Yet, even with all their talented storytelling, antagonists always failed. They proved that human survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority and antagonism inevitably fell in the face of technological progress.
+Yet, even with all their talented storytelling, antagonists always failed. They proved that human survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority inevitably fell in the face of technological progress.
 
-That progress wasn't perfect. Filled with antagonism, our evolution was so sporadic and uncertain that Entropy often caught on the game board of evolution. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. The primary cause in these human affairs was not failed government policy or unfair history; it was about thwarted evolution, i.e., the stream of adaptions needed to outrun Entropy was stalled because people wouldn't or couldn't adopt innovation fast enough.
+That progress wasn't perfect. Filled with antagonism, our evolution was so sporadic and uncertain that Entropy often caught on the game board of evolution. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. The primary cause in these human affairs was not failed government policy or unfair history; it was thwarted evolution, i.e., the stream of adaptions needed to outrun Entropy was stalled because people wouldn't or couldn't adopt innovation fast enough.
 
 Evolution's protagonists would transform civilization with ladders to the future, while their complacent descendants would build chutes that set the stage for society's suffering and their own downfall. Evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest.
 
 That's why today, we protect every individual's technological evolution as a sacred right and teach it as an absolute obligation.
 
-Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson's freedom over servitude, and Darwin's evolution over creationism; this book teaches us techvolution over ideology. The pathway to healthy economics is democratized, interoperable, and open-source technological products that let everyone find their niche. We judge our economic success by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world. Healthy politics is ensuring everyone has easy access to the tools that solve their pains so that adaptations can be replaced once the ecosystem decides it needs better.
+Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson's freedom over servitude, and Darwin's evolution over creationism; this book teaches us techvolution over ideology. The pathway to healthy economics is democratized, interoperable, and open-source technological products that let everyone find their niche. We judge our economic success by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world. Healthy politics is ensuring everyone has easy access to the tools that solve their pains.
 
-Because of techvolution, today, we no longer have ideologues that encourage extremes and excess. Instead, we practice techvolution that promotes moderation and problem-solving with its mixed-ideological politics and bumblebee economics. 
+Because of techvolution, today, the only business of ideology is connect a person to a tool, and it is of no concern to the community what tool a person thinks best. Thus, we no longer have ideologues that require extremes to keep users loyal. Instead, we practice techvolution that promotes moderation and problem-solving with its mixed-ideological politics and bumblebee economics. 
 
 This change brought tremendous progress, yet human Nature is not perfect. We still have many problems today. But at least we know antagonism comes too naturally when we have authority over others, from teachers to coaches, supervisors to princes. And so antagonism must be purged in ourselves and our community whenever it appears through the continued experience of real-life pain and the reliance on others it requires. We must constantly be reminded that evolving solutions to frontline problems is our purpose. Knowing techvolution is like learning a language because once you understand a way of thinking, you automatically see the world differently. Better tools are the best levers of power against Entropy, but gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems and thus leads to everyone's inevitable destruction.
 
@@ -259,7 +259,7 @@ A happy and loving mother
 circa 2083
 
 P.S.
-I shudder to think of our fate had we continued to interpret our reality using ideologies that blamed each other for their ineffectiveness to outrun Entropy on the board game of technological evolution because of a shared inability to build ladders that give people a happy life.
+I shudder to think of our fate had we continued to interpret our reality using ideologies that blamed each other for their ineffectiveness to outrun Entropy on the board game of technological evolution because of a shared inability to drop old ways of living and build ladders that give people a happy life.
 
 ## Preface 
 ## The 2020 Pandemic
