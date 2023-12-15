@@ -39,7 +39,7 @@ September 2023 (manuscript)
 
 ## Backpage
 
-If you don't like politics, or you feel pressured to care because politics is suddenly everywhere, this book is for you. You don't need to "pick a side" in the Left versus Right war. Instead, you can bypass their feud and learn how to join people, creating a better future for our kids, country, and planet.
+If you don't like politics, or you feel pressured to care because politics is suddenly everywhere, this book is for you. You don't need to "pick a side" in the Left versus Right war. Instead, you can avoid the bickering and join people creating a better future for our kids, country, and planet.
 
 You know when a salesman pushes a lousy product, like a used car or an expensive phone plan. The veteran salesman knows how to oversell the good parts and ignore the bad ones using catchy words and false urgency.
 
@@ -47,7 +47,7 @@ Today's heated politics is the same as salesmanship.
 
 That's because the Right and Left are sales departments of aging products. Everything from SUVs, corporate healthcare, and for-profit prisons on the Right. To the EVs, government healthcare, and university education on the Left. Each side oversells the good parts, plays down the bad, uses catchphrases like "liberty" and "justice" to appeal to their customers, and creates an urgency that it's "use my products, or else the other side will ruin society."
 
-That's why Left and Right politics is so emotional; they are desperate to close a sale. This book will empower you to not buy into it all. Keep reading, and you'll learn a new kind of politics that uses AI, blockchain, and the internet so we all have a better tomorrow.
+That's why Left and Right politics is so emotional; they want to close a sale. This book will empower you not to buy it. Keep reading, and you'll learn a new kind of politics. One that uses modern technology to fix problems today so we all have a better tomorrow.
 
 ## Inner Flap
 
@@ -63,15 +63,15 @@ People who shop at Whole Foods are already sold on fair-trade coffee. People who
 
 The Right and Left want to sell their chosen products. But they don't go out and say that because they have thousands of products in their catalog. The only way to sell each of them is to use philosophy. Like with a brand, once a person buys into a philosophy, they will sell themselves on the tools and techniques of its unique way of thinking.
 
-Political philosophy is a long and complicated road, but it's fair to say today that the Right believes in Conservative philosophy started by [Edmund Burke](https://en.wikipedia.org/wiki/Edmund_Burke) in 1806. The Left believes in the Progressive philosophy that [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) wrote in 1859.
+Political philosophy is a long and complicated road, but it's fair to say today that the Right believes in Conservative philosophy started by [Edmund Burke](https://en.wikipedia.org/wiki/Edmund_Burke) in 1806. While, the Left believes in the Progressive philosophy that [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) wrote in 1859.
 
 Conservative and Progressive philosophies were invented in the early Industrial Age to help our very poor ancestors concentrate enough wealth to build the first railroads, mills, and factories and then distribute the resulting products to overcome everyone's extreme poverty.
 
 They did it!
 
-Which is why the politics wasn't so heated in the past. Both sides sold the first trains, stoves, textbooks, pens, and so much more that mostly sold itself.
+Which is why the politics wasn't so heated in the past. Both sides we're selling the first trains, stoves, textbooks, pens, and so much more stuff that mostly sold itself.
 
-But, now we have neither primitive steam-powered factories nor mass hunger, illiteracy, and disease in our societies because we have the Industrial Age tools that solve those problems (if you're thinking about all the poor people in the world today, that is okay, but still marvel at the fact in the 1800s, almost all persons lived in poverty and there was no one to blame or send help).
+But, now we have neither primitive steam-powered factories nor mass hunger, illiteracy, and disease because we have the Industrial Age tools that solve those problems (if you're thinking about all the poor people in the world today, that is okay, but still marvel at the fact in the 1800s, almost all persons lived in poverty and there was no one to blame or send help).
 
 Today's Conservatives and Progressives fight so much because their Industrial Age products, and therefore their Industrial Age philosophies, are out of date. Their time has passed. They mock the other's datedness for entertainment because that's the only way to maintain their own believers' loyalty and attract new buyers. Their sales pitch has devolved into "The Right is concentrating too much wealth!" or "The Left is distributing too much wealth!" to which the other side screams to its followers, "That's what we're supposed to be doing! Keep going! Don't them _them_ stop us!"
 
@@ -79,9 +79,7 @@ And both sides are correct.
 
 If we were in the Industrial Age and trying desperately to keep factories from going broke or ending yet another cholera epidemic (both were common). But we're in the Internet Age with advanced robotics, supercomputers, clean energy, 5G internet, smartphones, and many more products that easily generate and distribute wealth. Yet, because we're using Conservativism and Progressivism to wield Internet Age tools, our current problem is too much wealth concentration (i.e., thousands of billionaires) and too much wealth distribution (i.e., printing money).
 
-This book introduces Techvolution.
-
-It is a new philosophy combining Progressivism and Conservatism into an updated and improved package. Techvolution updates our politics by generating wealth easily and distributing it fairly because it puts the power of wealth generation Internet Age technology like apps, blockchain, and AI into each person's hands.
+This book introduces Techvolution; a new philosophy combining Progressivism and Conservatism into an updated and improved package. Techvolution updates our politics by generating wealth easily and distributing it fairly because it puts the power of wealth generation Internet Age technology like apps, blockchain, and AI into each person's hands.
 
 Only a new philosophy rises above the hatred between Conservatives and Progressives. By removing the cobwebs of their long history, we can remind everyone that feeling hate and placing blame for our problems doesn't change our fate. We are creatures in Nature, and as it does for all species, Life demands we evolve solutions to our problems using new and improved adaptations.
 
@@ -132,7 +130,7 @@ Humans think we understand Life's requirement to evolve. Almost every leader, co
 
 Techvolution will teach you how to move on from the past. You'll control your own dice and adopt the technological innovation that'll put the power of wealth-generating modern technology into your, and everyone else's, hands.
 
-Because animals sadly can't change their genes. They must endure the pain of "survival of the fittest" to evolve. We can (and already are) change our fate by updating our characteristics with modern technology. Before we join those seeding the future, we must upgrade our politics with evolution. The recipe is simple. All we need to do is mix Left and Right up.
+Because animals sadly can't change their genes. They must endure the pain of "survival of the fittest" to evolve. We can (and already are) changing our fate by updating our characteristics with modern technology. But before we join those seeding the future, we must upgrade our politics with evolution. The recipe is simple. Take one part Left and one Right, and mix them up.
 
 ## Mixed-Ideological Politics
 
@@ -149,7 +147,7 @@ Edited for clarity and flow.
 
 ---
 
-In its highest form, politics discusses what direction a society should take. Individuals give their opinions, offer their perspectives, and exchange ideas. Should society invest in a new dock or a new road? Should we go to war or make peace? Should we welcome newcomers or invest in citizens? Good politics is like a healthy nervous system directing resources to solve the pain society feels.
+In its highest form, politics discusses what direction a society should take. Individuals give their opinions, offer their perspectives, and exchange ideas. Should society invest in a new dock or a new road? Should we go to war or make peace? Should we welcome newcomers or invest in citizens? Good politics is like a healthy nervous system directing resources to solve the pains of its society.
 
 But daily politics isn't always so rational.
 
@@ -157,23 +155,23 @@ Cells in the human body are constantly fighting over resources, and we, the peop
 
 Why would anyone want to be left out?
 
-Political philosophy is supposed to rise above daily politics and create a shared vision for society. Only when a body politic works together can its members build a healthy nervous system that heals the pains of individuals enough to keep evolution going. A good philosophy makes people realize humans are not the final judge of right or wrong. As it is for all creatures, Mother Nature ultimately decides if we are harvesting resources well enough to keep our civilization playing the game of evolution.
+Political philosophy is supposed to rise above daily politics and create a shared vision for society. Only when a body politic works together can its members build a healthy nervous system that heals enough pains to keep evolution going. A good philosophy makes people realize humans are not the final judge of right or wrong. As it is for all creatures, Mother Nature ultimately decides if we are harvesting resources well enough to keep our civilization playing the game of evolution.
 
 So, while many ignorant polar bears are doomed to suffer for many more years, with a good philosophy, humans can be happy and healthy in a constantly evolving society.
 
-To evolve, we humans develop new traits. We try to change our "genes," so to speak. We train techniques to enhance our bodies. We change government policies to direct our resources in better ways. We open business to utilize goods and services differently. We invent tools to solve our problems with lasting solutions. And we learn new ideas to expand our minds.
+To evolve, we humans develop new traits. We try to change our "genes," so to speak. We train techniques to enhance our bodies. We change government policies to direct our resources in better ways. We open businesses to utilize goods and services differently. We invent tools to solve our problems with lasting solutions. And we learn new ideas to expand our minds.
 
 Whatever traits we develop, we do it to solve our pains. 
 
 Martial arts is a great example.
 
-Karate, kickboxing, taekwondo, wrestling, aikido, jiu-jitsu, judo, and boxing are our most popular martial arts. Each teaches unique techniques like wrist locks or body punches for self-defence. To practice their skills each martial art creates rules that say only their techniques are allowed; there's no kicking in a boxing match, for example.
+Karate, kickboxing, taekwondo, sambo, wrestling, aikido, jiu-jitsu, judo, and boxing are our most popular martial arts. Each teaches unique techniques like wrist locks or body punches for self-defence. To practice their skills each martial art creates rules that say only their techniques are allowed; there's no kicking in a boxing match, for example.
 
 The world's martial arts co-existed for many years. Inside the disciplines, teachers happily taught their techniques to the next generation, practioners would train almost every day, and the best students would compete in tournaments, get scholarships, and strive to become world champions. The rules, history, and ethics of a discipline created a unique fighting philosophy that was kept lively by everyone congregating around experts, debates, and the latest news.
 
 But never would these martial artists compete against each other.
 
-However, in the late 1980s, as home televisions spread information worldwide, once-isolated fighting cultures started to open up. People got curious. As fighters began to watch other disciplines, they also asked themselves, "Which martial art is best?"
+However, in the late 1980s, as home televisions spread information worldwide, once-isolated fighting cultures started to open up. People got curious. As fighters began to watch other disciplines, they asked themselves, "Which martial art is best?"
 
 Would a boxer beat a kickboxer? What about a wrestler versus a karate guy? Many people wanted to know what if martial artists threw away their rule books and fought a real fight.
 
@@ -189,13 +187,13 @@ This revelation surprised everyone. The martial arts community assumed one disci
 
 As Ultimate Fighting tournaments continued it became clear that some martial art disciplines were more effective than others, but each had drawbacks and none was complete. When the sport grew in popularity during the 1990s and 2000s, it forced all martial art communities to reflect on their fighting techniques, styles, and philosophy.
 
-As said in the opening quote, many practioners, coaches, and pundits (especially from the least effective disciplines) choose to retreat back into their sub-cultures because they, "didn't like what they were finding out". I.e. they were teaching ineffective self-defense techniques. Their beloved history, customs, and philosophy couldn't make up for this problem. 
+As said in the opening quote, many practioners, coaches, and pundits (especially from the least effective disciplines) choose to retreat back into their sub-cultures because they, "didn't like what they were finding out". I.e. they were teaching ineffective self-defense techniques.
 
-In response, stubborn martial artists formed echo chambers. They talked about their disciplines history, culturem and philosophy to protect themselves from simple discussions about self-defence efficiency and effectiveness.
+In response, stubborn martial artists formed echo chambers. They talked about their ancient history, moral culture, and fighting philosophy to new prospects, existing members, and the public at large. All the salesmanship was really to protect themselves from simple discussions about their disiplines self-defence effectiveness.
 
 However, many fighters embraced the effectual truth revealed by Ultimate Fighting. As a result the world of martial arts started to get all mixed up.
 
-Kickboxers trained submissions. Wrestlers learned some punching. Masters in one discipline started as eager newbies in another. Like a bumblebee going from flower to flower, pioneering fighters like Bas Rutten, Maurice Smith, and Ken Shamrock participated in the cross-pollination of techniques and evolved skillsets far more complete than any one martial art teacher or discipline.
+Kickboxers trained submissions. Wrestlers learned some punching. Masters in one discipline started as eager newbies in another. Like a bumblebee going from flower to flower, pioneering fighters like Bas Rutten, Maurice Smith, and Ken Shamrock cross-pollinated techniques and evolved skillsets far more complete than any one martial art teacher or discipline.
 
 By opening their mind, these new martial artists discarded loyalty to a single discipline and adopted evolution's philosophy of "adapt or die." The grades, belts, trophies, medals, and scholarships of old disciplines became stepping stones to building a complete skillset and not end-goals to be relished. A fighters physical pain was the new barometer of whether a technique was good or bad.
 
@@ -211,15 +209,15 @@ During the growth of Ultimate Fighting, most fighters quickly realized the rules
 
 After fighters embraced all disciplines, they entered a brave new world.
 
-A world of remarkable progress. With an open mind, video cameras, and the internet, fighters created a wealth of training videos and distributed the content for everybody to use. Thus, all willing fighters improved themselves by leaps and bounds every year. Kickboxers became wrestlers, Jiu-jitsu black belts learned high-kicks. Each martial art became a sub-discipline that brought its techniques to an open marketplace of ideas.
+A world of remarkable progress. With an open mind, video cameras, and the internet, fighters created a wealth of training videos and distributed the content for everybody to learn from. Thus, like a forest of pollinators, fighters improved themselves by leaps and bounds every day. Kickboxers became wrestlers, Jiu-jitsu black belts learned high-kicks. Each martial art became a sub-discipline that brought its techniques to an open marketplace of ideas.
 
-With evolution as their teacher, these new martial artists started to listen to their bodies instead of other peoples stories. The speed of victories, and the less pain suffered in winning them, was the best judge, teacher, and pundit of martial arts techniques. The top trainers were the ones who put their students needs above their own by helping fighters adapt better techniques faster.
+With evolution as their teacher, these new martial artists listened to their bodies to guide them to the best flowers. The speed of victories, and the less pain suffered in winning them, was the best judge, teacher, and pundit of martial arts techniques. The top trainers were the ones who put their students needs above their own by helping fighters adapt better techniques faster.
 
 When fighters finally embraced evolution, they created a new way for humans to think of self-defense called mixed-martial arts.
 
-In mixed-martial arts, veryone, from fighters to trainers, is accountable to the standards of evolution. Thus, fighters don't limit themselves within the confines of an artificial rulebook. Every martial art has something to offer, so everyone should be a bumble bee going fom flower to flower learning from each discipline. The best technique is the one that brings results. Evolution is so admired by mixed-martial artists that everyone is supposed to give their opinions, offer their perspective, and exchange ideas, because "iron sharpens iron".
+In mixed-martial arts, everyone, from fighters to trainers, is accountable to the open standards of evolution. Thus, fighters don't limit themselves within the confines of a single philosophy. Every martial art has something to offer, so everyone should be a bumble bee going fom flower to flower learning from each discipline. The best technique is the one that brings results. Evolution is so admired by mixed-martial artists that everyone is supposed to give their opinions, offer their perspective, and exchange ideas, because "iron sharpens iron".
 
-Mixing the human body's adaptability with a free mind willing to learn any technique, created a new, self-correcting, and sustainable martial art. Today, a skilled mixed-martial artist is an overwhelming favorite against a champion of any single fighting discipline. Just as important, since mixed-martial arts includes all techniques, any person, whether short or tall, heavy or thin, aggressive or meek, can "mix and match" techniques to find their niche and learn to win a fight. 
+Mixing the human body's adaptability with a free mind willing to learn any technique, created a new, self-correcting, and sustainable martial art. Today, a skilled mixed-martial artist would defeat a champion of any single fighting discipline. Just as important, since mixed-martial arts includes all techniques, any person, whether short or tall, heavy or thin, aggressive or meek, can "mix and match" techniques to find their niche and learn to win a fight. 
 
 And finding a niche is what evolution is all about. By empowering anyone and everyone, mixed-martial arts is the ultimate fighting philosophy.
 
@@ -230,24 +228,24 @@ _Martial artists built many disciplines. Like ideologues today, they each would 
 
 On our journey to improve our politics, here's the lessons we should take from the story of mixed-martial arts.
 
-Today, in the early 21st century, the middle-class suffers systemic problems. Taxes get more confusing. School prepares students less for the job market. Insurance gets more expensive. And there are many more topics trending badly.
+Today, in the early 21st century, the middle-class suffers systemic problems. Taxes get more confusing. School prepares students less for the job market. Insurance gets more expensive. And there are many more pains in our society trending badly.
 
 Looking at hour rising bills and shrinking savings accounts, we feel beat up. And, so we look around for help.
 
-We find lots of people selling ideological politics on television, social media, and back yard barbeques. They get our attention because ideologues insist their techniques and tools improve the economy. As the economy gets more uncertain, the more sales these ideologues close. As a result, many people think being "political" requires supporting a single ideology of "red", "blue", "green" and so on. These new ideological converts donate time and money, buy books, follow pundits, go to rallies, and...
+We find lots of people selling ideological politics on television, social media, and back yard barbeques. They get our attention because ideologues insist their techniques and tools improve the economy. As the economy gets more uncertain, the more sales these ideologues close. As a result, many people think being "political" requires supporting a single ideology of "red", "blue", "green" and so on. These new ideological converts buy books, follow pundits, go to rallies, and...
 
 Regular people keep getting our asses kicked in our real lives.
 
 We think good politics means supporting _one_ ideology and wrongfully think our government, paychecks, and happiness are governed by its rulebook. But like in fighting, learning one ideology is not enough to bring prosperity. 
 
-Today's ideological teachers, pundits, and commentarors are not philosophers pondering how best to relieve the pains of our entire body politic. They are salesman pushing their chosen techniques and tools.
+Today's ideological teachers, pundits, and commentarors are not philosophers pondering how best to relieve the pains of our entire body politic. They are salesman pushing their chosen techniques and tools telling us a white coat and colossal bulk are good attributes to have in the Artic.
 
 <!-- ![Ant Death Spiral](/assets/problem-solving-philosophy.png) -->
 _Ant Death Spiral. Image Needed._
 
 Thus, our ideologues are in a sort of death spiral. Whether "red", "blue", "orange" or "green", they are going in circles trying to make their Industrial Age techniques improve the economy single handedly. They keep failing for the same reason no single martial art discipline can be the single source of truth. Problems don't adapt to solutions. Like the polar bears are finding out, lifeforms must evolve to overcome problems.
 
-To make use of Internet Age tools to improve our real lives requires us to stop being so loyal to a single ideology.
+To solve our pains with Internet Age requires us to stop being so loyal to a single ideology and it's limited tools and techniques.
 
 As of now, we listen to ideological salesman contort our worldview with simple observations that justify their sales pitch. If people quit their jobs en masse, they _all_ must be lazy say Conservatives. Or if lots of people rob stores, they _all_ must be hungry say Progressives. As bad bosses continue to lose workers, lots of true robbers run amok, and other symptons get worse, ideologues retreat into their echo chambers because "they don't like what they're finding out".
 
@@ -255,43 +253,43 @@ That's why I wrote _Techvolution_. It helps break any steadfast loyalty to one i
 
 If we could teach evolution to polar bears, they'd have an easier time adapting to their new envionment. When fighters did embrace evolution, they improved their powers very quickly. When we embrace evolution in our politics, our body politic will have the freedom of mind to mix and match tools and techniques to overcome any economic problem. Be it dreadfully unproductive jobs, worsening climate change, or debilitating government bureaucracy.
 
-This new philosophy called Techvolution teaches mixed-ideological politics.
+Techvolution teaches mixed-ideological politics.
 
 Seeing through the death spiral of today's ideological echo chambers isn't easy. The constant storytelling of Twitter feeds, cable news, dinner table arguments is engrossing. To see above the salesmanship requires a solid understanding of storytelling. Once you got that, you'll avoid being sucked into the false security of ideological echo chambers.
 
-Once you're protected from political storytelling, you’ll have the freedom of mind to use any tool and technique to find your niche. After which you'll be as powerful in your politics as a mixed-martial artist is in a street fight.
+Once you're protected from political storytelling, you’ll have the freedom of mind to use any tool and technique to find your niche using Internet Age tools. After which you'll be as powerful in your politics as a mixed-martial artist is in a street fight.
 
 <!-- ![Bills Bills Bills]() -->
 _You are a member of the body politics. Your pain determines what techniqes and tools are good and bad. The lesson to learn is you can’t get resources by holding back another’s evolution because “iron sharpens iron.”_
 
 ## We Need Chambers, Just Not Echo Chambers
 
-Before we learn to protect ourselves from today's Industrial Age echo chambers, it's important to keep in mind, we're not erasing ideologies. We're only empowering ourselves to be like mixed-martial artists and mix and match policies, techniques, and tools to better solve our problems.
+Before we learn to protect ourselves from today's Industrial Age echo chambers, it's important to remember that we're not erasing ideologies. We're only becoming like mixed-martial artists who mix and match policies, techniques, and tools to better solve our real-life problems.
 
-Gas SUVs are sometimes needed, but sometimes EVs are too. Sometimes we do need to raise taxes. But sometimes we need to raise them. What tool or technique we choose to use depends on the severity of pain and the risks and rewards of using a particular solution.
+That means we mustn't ever judge a tool by its cover. Gas SUVs are sometimes needed, but sometimes EVs are too. Occasionally, we do need to raise taxes. But sometimes we need to cut them. What tool or technique we choose depends on the pain severity and the risks and rewards of using a particular solution.
 
-Some may be doubting our society can follow martial arts and embrace mixed-ideological politics. We can. Here's another field with a similarly enlightened mix and match philosophy.
+Some may doubt that our society can follow martial arts and embrace mixed-ideological politics. We can. Here's another field with a similarly enlightened mix-and-match philosophy.
 
-Modern medicine has many disciplines and specialists. Some are based on cutting edge research, others on old school remedies. In the past, when isolated by geography and culture, patients were bound to do what the local healer or doctor prescribed. But today, you would never go to one medical professional, expecting them to be a master of every health problem.
+Modern medicine has many disciplines and specialists. Some are based on cutting-edge research, others on old-school remedies. In the past, when isolated by geography and culture, patients were bound to do what the local healer or doctor prescribed. But today, you would never go to one medical professional, expecting them to be a master of every health problem.
 
-There's simply too many illnesses and injuries for any medical discipline to master them all.
+There are simply too many illnesses and injuries for any medical discipline to master them all.
 
-That's why all medical professionals today, from hemopathic healers to neural surgeons are recognized as sub-disciplines. Each has their own tools and techniques, rulebooks and culture. Medical professionals from each field are allowed to say their strengths and weaknesses and admit they are a niche and not the single source of truth. The philosophy of modern healthcare is mixing disciplines to solve a patient's pain as quickly as possible. While modern medicine certainly isn't perfect (especially its administration), it's nearly magical when compared the times when surgeons didn't santize their scalpels and doctors used one-size fits all solutions like leeches.
+That's why all medical professionals today, from homeopathic healers to neural surgeons, are recognized as sub-disciplines. Each has its own tools and techniques, rulebooks, and culture. Medical professionals from each field can say their strengths and weaknesses and admit they are a niche rather than the single source of truth. The philosophy of modern healthcare is mixing disciplines to solve a patient's pain as quickly as possible. While modern medicine certainly isn't perfect (especially its administration), it's nearly magical compared to when surgeons didn't sanitize their scalpels and doctors used one-size-fits-all solutions like leeches.
 
-Most importantly because we judge medicine based on a patients pain, we understand medical professionals can be corrupt. If a doctor over prescribes medication or sells “snake oil” we know the doctor isn’t following evidence based medicine and therefore has illegminate authority over diagnosing future problems.
+Most importantly, we understand medical professionals can be corrupt. If a doctor over-prescribes medication or sells "snake oil," we know the doctor isn't following evidence-based medicine and, therefore, has illegitimate authority to diagnose problems.
 
-Modern medicine and mixed-martial arts thus embrace evolution. Both medical and mixed martial arts philosophies recognize its best to select from an ecosystem of options and that solving a fighter's or patient's pain is the only sign of success. Other human endeavors are also enlightened enough to embrace real-world results as superior to a teacher or bosses supposed authority. [Baseball for example did it with Moneyball fame](https://www.youtube.com/watch?v=3MjxoaynCmk).
+Modern medicine and mixed-martial arts thus embrace evolution. Both medical and mixed martial arts recognize that it is best to select from an ecosystem of options and that solving a fighter's or patient's pain is the only sign of success. Other human endeavors are also enlightened enough to embrace real-world results as superior to a teacher or boss's authority. [Baseball for example did it with Moneyball fame](https://www.youtube.com/watch?v=3MjxoaynCmk).
 
-So, if a person can train techniques from many multiple martial arts disciplines, and doctors can refer their patients to specialists from other disciplines, why can't our politics also be self-aware enough, and mature enough, to mix and match different policies, tools, and techniques according to their strengths and weaknesses in solving your unique economic problems?
+So, if a person can train techniques from multiple martial arts disciplines, and doctors can refer their patients to specialists from other disciplines, why can't our politics also be self-aware enough, and mature enough, to mix and match different policies, tools, and techniques according to their strengths and weaknesses in solving your unique economic problems?
 
 <!-- ![Picture of a cell]() -->
-_The automattic nervous system heals our bodies. We only know something is wrong when we feel pain. Your economic pains are also indicators to change our ways. We need Technvolution to heal our body politic._
+<!-- _The autonomic nervous system heals our bodies. We only know something is wrong when we feel pain. Your economic pains are also indicators to change our ways. We need Technvolution so we'll be willing to use any tool that'll heal our pains._ -->
 
-To enlighten our politics in such a way, we only have to accept no ideology is complete. Like in medicine or Ultimate Fighting, any technique or tool must _not_ be evaluated on its ideological purity, but based on evidence of its real-world results in reducing hunger, thirst, cold, depression, anxiety, and the other pains Life gives us so we change our ways before its too late.
+To enlighten our politics in such a way, we only have to accept no ideology is complete. Like in medicine or Ultimate Fighting, any technique or tool must _not_ be evaluated on its ideological purity but based on evidence of its real-world results in reducing hunger, thirst, cold, depression, anxiety, and the other pains Life gives us so we change our ways before its too late.
 
-Ideologues from everywhere on the political spectrum will (eventually) learn they don't need to take themselves so seriously, burden themselves so much, or sell their services so aggressively. Like a boxing coach, or speech pathologist, each can improve their chosen techniques and tools and let people come to them as needed.
+Ideologues from everywhere on the political spectrum will (eventually) learn they don't need to take themselves so seriously, burden themselves so much, or sell their services so aggressively. Like a boxing coach or speech pathologist, each can improve their chosen techniques and tools and let people come to them as needed.
 
-But for now, the biggest obstacle to mixed-ideological politics is the same as it was for mixed-martial arts. Ideological pundits, teachers, and commentators don't realize the value of a mix and match philosophy, so they tell great stories why their beliefs, techniques, and rulebooks are the single source of truth inside echo chambers. To achieve mixed-ideological politics, we must escape the spell of ideological echo chambers by understanding why buy into great stories so easily.
+But for now, the biggest obstacle to mixed-ideological politics is the same as it was for mixed-martial arts. Ideological pundits, teachers, and commentators don't realize the value of a mix-and-match philosophy, so they tell great stories about why their beliefs, techniques, and rulebooks are the single source of truth inside echo chambers. To use mixed-ideological politics to find the niche of Internet Age tools we need to live a better Life, we must escape the spell of ideological echo chambers by understanding why we buy into great stories so easily.
 
 ## Cinderella
 
@@ -319,13 +317,13 @@ The movie _Cinderella_ was very popular when it was released. It's popular today
 
 People love stories. We can't get enough of them. A good story lets us experience the drama, trials, and experiences of another person. From horrible brushes with death, to whimsical romances, stories teach us the lessons of many lives.
 
-Stories pass-on so much information because they create a reality. The creation process starts with the props that fill the storyworld with cups, clothes, homes, and the other items we expect to see. Next, there is music that relays the emotions of characters in the story. Next comes the dialogue which communicates what each character wants in an easy to understand way. Next, it is the villain who likes the world the way it is and defends it against change. Thereafter comes the philosophy of the story-world that dictates the rules everyone in the story is supposed to live by; for example Cinderella is supposed to obey her stepmother. Cinderella is a hero of the story because she disregards the ruling philosophy by dreaming of a better Life for herself. And at the top of this story pyramid are tools; a catchall term for the real objects, from glass slippers to Death Stars, that are above being regular props because they are the levers of power that control what happens in the story-world.
+Stories pass-on so much information because they create a new reality. The creation process starts with the props that fill the storyworld with cups, clothes, homes, and the other items we expect to see. Next, there is music that relays the emotions of characters in the story. Next comes the dialogue which communicates what each character wants in an easy to understand way. Next, it is the villain who likes the world the way it is and defends it against change. Thereafter comes the philosophy of the story-world that dictates the rules everyone in the story is supposed to live by; for example Cinderella is supposed to obey her stepmother. Cinderella is the hero of the story because she disregards the ruling philosophy by fight for a better Life. And at the top of this story pyramid are tools; a catchall term for the real objects, from glass slippers to Death Stars, that are above being regular props because they are the levers of power that control what happens in the story-world.
 
 Storytellers work hard to mix these incredients together. When done properly, the resulting "cake" will transfix audiences and arise strong emotions and lasting commitments because we’ve experienced the Life of another person inside an easy to digest package.
 
 ---
 
-And that brings us back to avoiding echo chambers to we can learn mixed-ideological politics.
+And that brings us back to avoiding echo chambers so we can practicelearn mixed-ideological politics.
 
 Dismantling echo chambers starts by realizing _Cinderella_ isn't about a girl abused by her evil step-family. The fairytale is also not about a girl overcoming her evil step-family to marry her prince charming.
 
@@ -335,18 +333,20 @@ If Cinderella doesn't get the horses, carriage, and evening dress from her Fairy
 
 Cinderella had a problem. It wasn't that her step-family were tyrants or that the rules of society were unjust. Cinderella's problem was that her terrible step-family controlled the tools Cinderella needed to improve her life.
 
-From _Star Wars_, to _The Matrix_, to _Cinderella_ stories start with a group of people controlling the tools while creating a ruling philosophy to justify their control. The hero encounters a problem. When the hero reaches for a tool to solve their problem, antagonists reveal themselves by defending their power base by preventing access to the important tools. The drama of the story is heroes and villains battling to control the tools needed to change the world. The winner changes, or reaffirms, the world in their image.
+From _Star Wars_, to _The Matrix_, to _Cinderella_ all stories start with a group of people controlling the tools while creating a ruling philosophy to explain their control. The hero encounters a problem and reaches for a tool to solve it. Antagonists reveal themselves by preventing access to the important tools to defend their power base. The drama of the story is heroes and villains battling to control the tools needed to change the world. The winner changes, or reaffirms, the world in their image.
 
-Notice the ruling philosophy has a public and true face. When the stepmother rips Cinderella's gown, locks her in the attic, and destroys the slipper, she's using tools to alter the world in a consistent way, letting us see the philosophy of oppression in her heart.
+Notice the ruling philosophy has a public face. When the stepmother rips Cinderella's gown, locks her in the attic, and destroys the slipper, she's using tools to alter the world in a consistent way, letting us see the philosophy of oppression in her heart.
 
-Yet, the stepmother would not admit her abuse. She'd tell outsiders, and likely even herself, that Cinderella is loved and well cared for. If asked why her stepdaughter is working so hard or absent from the ball, the stepmother would continue tell a story to hide her true intentions.
+Yet, the stepmother would not admit her abuse. She'd tell outsiders, and likely even herself, that Cinderella is loved and well cared for. If asked why her stepdaughter is working so hard or absent from the ball, the stepmother would tell a story to hide her true intentions.
 
-The truth is the stepmother favoured her daughters and thus didn't want Cinderella to compete with them. When Cinderella went along with her stepmother's wishing, she was wearing a mask of oppression. Sadly, for now, such tyranny can win the race of evolution.
+The truth is the stepmother favoured her daughters and thus didn't want Cinderella to compete with them. When Cinderella went along with her stepmother's wishing, she was wearing a mask of oppression, which sadly, can win the race of evolution (for now).
 
 ![Masked and antagonsit](/assets/problem-solving-philosophy.png)
 _Masks of oppression often becomes the face we wear._
 
-If a doctor insists on an ineffective treatment, or martial arts coach advises a bad technique, they are corrupt. The stepmother was corrupt for the same reason. Authority is only valid when it empower its followers evolution. That's why Cinderella, and all heroes, dreams only came true when she grabbed the tools needed to solve her pains.
+If a doctor insists on an ineffective treatment, or martial arts coach advises a bad technique, they are corrupt. The stepmother was corrupt for the same reason. Authority is only valid when it empower its followers evolution. Why would Life give authority if it harmed it's own evolution?
+
+That's why like all heroes, Cinderella's dreams only came true when she grabbed the tools needed to solve her pains.
 
 Another important thing to learn from stories is that once they end, the hero and villian are no longer main characters. We don't need to hear from Cinderella after she marries the Prince because "they lived happily ever after". As for the stepmother, she has no more tools to attack Cinderella with, and is thus no longer a threat worthy of attention.
 
@@ -358,31 +358,39 @@ When someone is telling you a story on cable news or Twitter, and the hero and v
 
 The giveaway is the lack of conclusions.
 
-Echo chambers don't like conclusions because they force reflection on whether the hero, his philosophy, and his chosen tools changed the world or not. For example, if a boxer gets choked unconscious in a fight, he must reflect on his tactics the same way Cinderella did after her dress was torn to shreds. However, today's ideologues are not Cinderella, mixed-martial artists, or doctors searching for the best possible tools and techniques needed to win your fight. Rather, ideologues are old martial arts teachers saying they are impartial and fair, while in reality selling their limited tools and techniques.
+Echo chambers don't like conclusions because they force reflection on whether the hero, his philosophy, and his chosen tools changed the world or not. For example, if a boxer gets choked unconscious in a mixed-martial arts fight, he must reflect on his tactics the same way Cinderella did after her dress was torn to shreds.
 
-Remember, it was only when curious fighters said, "what discipline is best?" and engaged in real fights and listened to their pains, that martial artists realized no discipline can be the single-source of truth. Because tools are of course neither perfect or evil. They are inanimate. Like the glass slippers, they only hold value if they can help solve a problem.
+However, today's ideologues are not Cinderella, mixed-martial artists, or doctors searching for the best possible tools and techniques needed to win your fight. Rather, ideologues are old martial arts teachers selling their limited tools and techniques regardless of outcomes.
 
-To escape echo chambers, and embrace Techvolution and its mixed-ideological politics, you must understand when a mixed-martial arts enters a boxing gym, he's not being disloyal to his wrestling coach. When a family doctor refers you to a physiotherapist, she's not being disloyal to medical doctors. When a biologist says "I don't know, ask a neuroscientist" she's not being a bad biologist. This is because these fields understand they are sub-disciplines that exists to help a person solve a problem.
+Remember, it was only when curious fighters said, "what discipline is best?" and engaged in real fights and listened to their pains, that martial artists realized no discipline can be the single-source of truth and so fighters only blossom when they learn from everybody.
+
+A mix-and-match philosophy turns people into heroes. Because tools can't be perfect or evil. They are inanimate. Like the glass slippers, they only hold value if they can help solve a problem. And that's what heroes makes a hero, someone setting out to solve _their_ problems.
+
+To escape echo chambers, embrace Techvolution and its mixed-ideological politics. Only then will you search out the mixture of tools you need to find your niche. All you need to do is understand when a mixed-martial arts enters a boxing gym, he's not being disloyal to his wrestling coach. When a family doctor refers you to a physiotherapist, she's not being disloyal to medical doctors. When a biologist says "I don't know, ask a neuroscientist" she's not being a bad biologist. This is because these fields understand they are sub-disciplines that exists to help a person solve a problem.
 
 Fighters overcome opponents. Patients battle diseases. Cinderella had an evil stepfamily.
 
 What's your problem?
 
-Is your job not paying enough. Are rude customers wasting your time. Is a bad supply chain increasing your costs....
+- Is your job not paying enough. You will not be a disloyal Conservative because you joined a union.
+- Are rude customers wasting your time. You will not be a disloyal Progressive for turning some assholes away.
+Is a bad supply chain increasing your costs..... You will not be a disloyal Progressive or Conservative for wanting a robust local supply chain.
+
+You will not be disloyal, because heroes are loyal to themselves, not to a trainer's tools or techniques.
 
 Now, what tools do you need to solve your problems?
 
 If you're willing to consider any tool, from a handgun to a solar panel, to solve your problem, you're on the way to mixed-ideological politics. If you think any tool is "off limits", you've been sold a single ideology and are at least partially stuck inside an echo chamber.
 
-You should use mixed-ideological politics to choose any tool. Not only because it's proven so succesful in modern medicine, science, and mixed-martial arts, but because selecting any adaptation lets you harness evolution. And evolution has no limits, respects no man-made rules, and is the reason why Earth isn't just another lifeless planet.
+You should use mixed-ideological politics to choose any tool. Not only because evolution has proven so succesful in modern medicine and mixed-martial arts, but because selecting any adaptation is your path to the future. Because evolution has no limits, respects no man-made rules, and is the only way to earn your spot on Earth.
 
 ## There is No Lion King
 
-We weren't the first species to live on Earth and probably won't be the last. Life has survived billions of years without depending on any species. There's nothing special about any creature. We each survive and thrive according to the same laws of evolution.
+We weren't the first species to live on Earth and won't be the last. Life has survived billions of years without depending on any species. There's nothing special about any creature. We each survive and thrive according to the same laws of evolution.
 
 Life needs evolution because the Universe is a hostile place. It's constantly changing as mountains fall apart, volcanoes erupt, stars emit radiation, waves wash away shorelines, and endless more things transform our planet. To respond to a changing environment, Life must keeping evolving a stream of new species.
 
-Those who survive do so because their combination of attributes gives them an edge. But, as the planet inevitably changes, traits lose their advantage. Thus, while evolution is a constant race to harvest resources more efficiently, no species ever knows if their list of adaptions is good enough to overcome the problems of a changing environment. That's why pain hurts so much; it's Life's way of telling individuals to change their behavior and try something else before it's too late.
+Those who survive do so because their combination of attributes gives them an edge. But, as the planet inevitably changes, traits lose their advantage. Thus, while evolution is a constant race to harvest resources more efficiently, no species ever knows if their list of adaptions is good enough to overcome the problems of its environment. That's why pain hurts so much; it's Life's way of telling individuals to change their behavior and try something else before it's too late.
 
 Evolution has these laws:
 
@@ -391,7 +399,7 @@ Evolution has these laws:
  - Evolution of new species is gradual.
  - The number of species always multiplies to fill niches.
  - Natural selection determines which species lives on.
- - The unit of selection is each individual lifeform.
+ - Individual lifeforms are selected to live die.
 
 These laws oversee every evolutionary race. The competition started after a few amino acids combined to form the first cells 3.6 billion years ago. Since then, evolution has continually created new species. Each is based on the one prior, but each removes or adds traits in a hope of finding an edge. That edge could mean simple improvements like getting bigger or smaller, faster or slower. Or, the edge could be further specialization to find a niche no one else has; such as polar bears being the only seal hunters seals in a frozen ecosystem.
 
@@ -441,7 +449,7 @@ Our technological evolution follows the same laws as regular evolution.
  - Evolution of new tools is gradual.
  - The number of tools always multiplies to fill niches.
  - Natural selection determines which tools lives on.
- - Individuals are the unit of selection.
+ - Individuals are selected to live or die.
 
 Thus, we humans are biological vessels for technological evolution. As Cinderella demonstrated our fate is determined by the tools in our hands, not the genes in our cells.
 
@@ -522,11 +530,9 @@ _A death spiral._
 
 ## Building the Bridge
 
-Once you realize humans must evolve like any other creature but can't evolve biologically, this new philosophy falls into place: technological evolution is the plot of human existence. But the storytelling that connects us to good tools also keeps us loyal to old ones. Therefore, we're often masked from the fact that constant technological evolution is our pathway to success.
+Once you realize humans must evolve like any other creature but can't evolve biologically, this new philosophy falls into place: technological evolution is the plot of human existence. But the storytelling that connects us to good tools also keeps us loyal to old ones. Therefore, we're often masked from the fact that dropping old ways of Life and evolving new ones is our only path to success.
 
-Techvolution validates everyone's frontline pain above any ideology, boss, teacher, or pundit who has the incentive to delay adopting a new tool for their (short-sighted) personal gain.
-
-We have biology that says survive at all costs, but we prosper via technology that lives according to its own Life cycle. There are thus many stepmothers in our body politic.
+Techvolution validates everyone's frontline pain above any ideology, boss, teacher, or pundit. Each authority figure of today has the incentive to delay adopting a new tool for tomorrow. Because we have biology that says survive at all costs, but we prosper via technology that lives according to its own Life cycle. There are thus many stepmothers in our body politic.
 
 These antagonists way of life is based on industrial age technology like broadcast radio and television, school libraries and lecture halls, transportation by car or truck, suburban housing, and so on down the mass-marketing list. All these one-size-fits-all adaptations are past their shelf-life and are no longer levers of power empowering users to climb ladders in the game of evolution.
 
@@ -542,17 +548,19 @@ Instead, we continue industrializing society with too many large roads, cars, ho
 
 - None of us knows how to start a web server. We could learn, but we won't be crossing that bridge anytime soon because I smartly spend my time scrolling Twitter, online shopping, and watching cable news.
 
-We're an Industrial Age species trying to live in the Internet Age. As a result our real-life problems are mounting, and thus our debt, inflation, insurance, and the cost of living have been increasing for so long we can't bring the cost of living rates<button @click="rdegg = !rdegg">*</button>down proactively and ease ourselves into the next chapter in the story of Life.
+We're an Industrial Age species trying to live in the Internet Age. As a result our real-life problems are mounting like they are for the polar bears. Sadly, our debt, inflation, insurance, and the cost of living have been increasing for so long that our chance to bring their rates<button @click="rdegg = !rdegg">*</button>down proactively and ease ourselves into the next chapter in the story of Life, has passed.
 
-Life has let 99% of all prior species die because they failed to harvest enough resources to procreate. Anyone who follows Industrial Age ideologies, cultures, and societies is writing themselves on that list because they refuse to adapt themselves to the possibilities of new technology.
+Life has let 99% of all prior species die because they failed to harvest enough resources to procreate. Anyone who follows, protests, invests in Industrial Age ideologies, cultures, and societies is writing themselves on that list because they refuse to adapt themselves to the possibilities of new technology.
 
 You don't have to join them.
 
-Techvolution was written to individuals because individuals are evolution's unit of selection. Tall, short, Nigerian, Japanese, Chilean, rich, poor, it doesn't matter what group you were in the past, whoever climbs the ladder selects themselves onto the winning team in the future.
+Techvolution was written to individuals because individuals are evolution's unit of selection. Tall, short, Nigerian, Japanese, rich, poor, it doesn't matter what group you were in the past, whoever adopts mixed-ideological politics climbs the ladder to the Internet Age and selects themselves into the future.
 
-Whoever you are, whereever you are, you are well on your way. Like Cinderella, you are ready to reach for new tools and techniques as you roll your own dice and find your niche in the game of evolution. You'll need the help of creative Progressives and hard-working Conservatives to do it, but you won't be distracted by their politics any more.
+Once you upgrade your politics with you'll escape the attic and build the bridge to the Internet Age. Once there, you'll notice how many Internet Age tools, techniques, and products already exist. Our inventors been using their soul creating Internet Age technology. Bumble-bee economics is ready, it just needs you to polinate it.
 
-Keep reading, and you'll escape the attic and build the bridge to the Internet Age by using mixed-ideological politics to create bumble-bee economics in the next chapter in the story of Life. Jeff Goldblum says it's inevitable; why would anyone not be excited about the future?
+The Internet Age has billions of products. You need to mix them up. No single ideology can filter them for you because you are unique. Keep reading and you will learn all about how open-source software like Ruby on Rails, open-standards like USB, the internet and personal computing and how to find your niche.
+
+Mixed-martial politics and bumble-bee economics are inevitable; just ask Jeff Goldblum, and why would anyone not join him?
 
 >If there's one thing the history of evolution has taught us, it's that Life will not be contained. Life breaks free. It expands to new territories. It crashes through barriers. Painfully, maybe even.. dangerously, but and...well, there it is....Life...finds a way.
 
@@ -560,12 +568,20 @@ Keep reading, and you'll escape the attic and build the bridge to the Internet A
 
 ---
 
-I wish this summary was original. It's actually a sequel.
+I wish this summary was original. It's actually a remake.
 
-Years ago, our ancestors had to evolve from the Medieval Age. They had to leave the Catholic and Protestant political philosophy, mainly the story that God wanted kings and queens to rule countries, behind. If ever there was a public-facing philosophy designed to hold back everyone's evolution, it was this. By detaching politics from theology, the orignal Conservative and Progressive philosophers allowed humanity to climb the ladder to the Industrial Age.
+Years ago, our ancestors had to evolve from the Medieval Age. Meaning they had to leave the Catholic and Protestant political philosophy, mainly the story that God wanted kings and queens to rule countries, behind. If ever there was a public-facing philosophy designed to hold back everyone's evolution, it was the idea that genetic linaeges make good leaders.
 
-While they succeeded, the past philosophers didn't know about evolution. So their theories were incomplete. Regardless, they achieved religious toleration and allowed Industrial Age to mix and match whatever religion they felt best. After that, church and state were separated, and Catholics and Protestants worked together to build the Industrial Age.
+Conservative and Progressive philosophers worked hard to detach theology from daily politics. Their religious tolerance allowed Industrial Age people to mix and match whatever religion they felt best. After church and state were separated, Catholics and Protestants were free to work together. Which they did to great mutual benefit inside the Industrial Age via their shared ideology of capitalism.
 
-This summary does the same for ideology. Conservatives and Progressives will work together peacefully, once they start building an Interner Age society with ideological tolerance gotten via Techvolution and its mixed-ideological politics. Since we know about evolution, our (and future) upgrades should be more straightforward. And it's not a moment too soon. Because the last time we upgraded to a new age, it took many years of horrible warfare to for Catholics and Protestants to leave the past behind. Which tells you where the Left and Right are headed.
+Old philosophers didn't know about evolution. So their theories are incomplete. Techvolution just takes them and includes technological evolution. 
+
+Capitialism of course had a competitor, communism. Capitalism won because it, unknowingly, harnessed evolution. It's free-market principles empowered evolution's game pieces. By allowing individuals to buy their own products capitialism allowed technology to multiply or die based on which tools best solved frontline pains.
+
+Communism assumed man-made ideology could fix human greed. That's why it empowered educated middle-men to decide what tools and techniques stragers needed in their fight to survive. Communism failed because it was anti-evolutionary.
+
+Battling Conservatives and Progressives will work together peacefully, once they adopt ideological tolerance gotten via Techvolution and its mixed-ideological politics. Since we know about evolution, our (and future) upgrades should be more straightforward. And it's not a moment too soon. Because it took many years of horrible warfare to for Catholics and Protestants to leave the past behind. Which tells you where the Left and Right are headed.
+
+As for our problems with capitalism today. We only have to realize that capitialism only allowed technology to multiply or die based frontline pains at home. Not at work.
 
 <span v-if="rdegg" class="footnote"> F the mixture of failure and fortune. 🔻💚<img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;"></span>
