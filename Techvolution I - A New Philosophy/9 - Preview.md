@@ -39,7 +39,7 @@ September 2023 (manuscript)
 
 ## Backpage
 
-If you don't like politics, or you feel pressured to care because politics is suddenly everywhere, this book is for you. You don't need to "pick a side" in the Left versus Right war. Instead, you can avoid the bickering and join people creating a better future for our kids, country, and planet.
+If you don't like politics, or you feel pressured to care because politics is suddenly everywhere, this book is for you. You don't need to "pick a side" in the Left versus Right war.
 
 You know when a salesman pushes a lousy product, like a used car or an expensive phone plan. The veteran salesman knows how to oversell the good parts and ignore the bad ones using catchy words and false urgency.
 
@@ -47,7 +47,7 @@ Today's heated politics is the same as salesmanship.
 
 That's because the Right and Left are sales departments of aging products. Everything from SUVs, corporate healthcare, and for-profit prisons on the Right. To the EVs, government healthcare, and university education on the Left. Each side oversells the good parts, plays down the bad, uses catchphrases like "liberty" and "justice" to appeal to their customers, and creates an urgency that it's "use my products, or else the other side will ruin society."
 
-That's why Left and Right politics is so emotional; they want to close a sale. This book will empower you not to buy it. Keep reading, and you'll learn a new kind of politics. One that uses modern technology to fix problems today so we all have a better tomorrow.
+That's why Left and Right politics is so emotional; they want to close a sale. This book will empower you not to buy it. Keep reading, and you'll learn a new kind of politics. One that uses modern technology to fix problems today so there's better tomorrow for our kids, country, and planet.
 
 ## Inner Flap
 
@@ -59,7 +59,7 @@ Harvey C. Mansfield, _A Student's Guide to Political Philosophy_
 
 ---
 
-People who shop at Whole Foods are already sold on fair-trade coffee. People who buy a gas SUV will likely reject climate change. Anyone subscribed to Martha Stewart Living is looking to renovate their home.
+People who shop at Whole Foods are already sold on fair-trade coffee. People who leases the latest sports car is already looking at next years model. Anyone subscribed to Martha Stewart Living is looking to renovate their home.
 
 The Right and Left want to sell their chosen products. But they don't go out and say that because they have thousands of products in their catalog. The only way to sell each of them is to use philosophy. Like with a brand, once a person buys into a philosophy, they will sell themselves on the tools and techniques of its unique way of thinking.
 
@@ -71,7 +71,7 @@ They did it!
 
 Which is why the politics wasn't so heated in the past. Both sides we're selling the first trains, stoves, textbooks, pens, and so much more stuff that mostly sold itself.
 
-But, now we have neither primitive steam-powered factories nor mass hunger, illiteracy, and disease because we have the Industrial Age tools that solve those problems (if you're thinking about all the poor people in the world today, that is okay, but still marvel at the fact in the 1800s, almost all persons lived in poverty and there was no one to blame or send help).
+But, now we have neither primitive steam-powered factories nor mass hunger, illiteracy, and disease because we have the Industrial Age tools that solve those problems (if you're thinking about all the poor people in the world today, that is okay, but still marvel at the fact in the 1800s, almost all persons lived in poverty and there was no one to blame or send help because the poverty fighting tools didn't exist yet).
 
 Today's Conservatives and Progressives fight so much because their Industrial Age products, and therefore their Industrial Age philosophies, are out of date. Their time has passed. They mock the other's datedness for entertainment because that's the only way to maintain their own believers' loyalty and attract new buyers. Their sales pitch has devolved into "The Right is concentrating too much wealth!" or "The Left is distributing too much wealth!" to which the other side screams to its followers, "That's what we're supposed to be doing! Keep going! Don't them _them_ stop us!"
 
@@ -344,7 +344,7 @@ The truth is the stepmother favoured her daughters and thus didn't want Cinderel
 ![Masked and antagonsit](/assets/problem-solving-philosophy.png)
 _Masks of oppression often becomes the face we wear._
 
-If a doctor insists on an ineffective treatment, or martial arts coach advises a bad technique, they are corrupt. The stepmother was corrupt for the same reason. Authority is only valid when it empower its followers evolution. Why would Life give authority if it harmed it's own evolution?
+If a doctor insists on an ineffective treatment, or martial arts coach advises a bad technique, they are corrupt. The stepmother was corrupt for the same reason. Authority is only valid when it empower its followers evolution. Why would Life give authority that harmed it's own evolution?
 
 That's why like all heroes, Cinderella's dreams only came true when she grabbed the tools needed to solve her pains.
 
@@ -354,13 +354,17 @@ Tools being levers of power, how we use our tools being our true philosophy, and
 
 ## Mixed Ideological Politics Come By Ending Stories
 
-When someone is telling you a story on cable news or Twitter, and the hero and villian argue back and forth endlessly about who is "wrong", you're watching people use each other to give a performance. Ideologues only talk about things like justice, liberty, history, culture to appeal to their audience's personal tastes. In reality they only want to close a sale.
+Despite the emotions over gender pronouns, proud boys groups, and other culture wars content, today's fiery politics is about resources. Try to support gender pronouns while wearing t-shirt that says shut down all universities. Try going to a Trump rally with a sign that says "end the oil age".
+
+You won't be welcomed in either group for the same reason wrestlers can't punch each other in a match. Progressives and Conservatives are disciplines that teach a small toolbox of tools. Because at the end of the day, people aren't ideologies. They are biological beings that need food, water, shelter and therefore have bills to pay, and thus need someone to buy the techniques and tools they know how to use.
+
+Religious Conservatives who find little time for charity, and environmental Progressives who fly around the world make an unconscious choice to mock each other to give a performance that'll hide their stepmother like publin persona's. Ideologues only talk about things like justice, liberty, history, culture to appeal to their audience's personal tastes. In reality they only want to close a sale on their aging selection of tools.
 
 The giveaway is the lack of conclusions.
 
 Echo chambers don't like conclusions because they force reflection on whether the hero, his philosophy, and his chosen tools changed the world or not. For example, if a boxer gets choked unconscious in a mixed-martial arts fight, he must reflect on his tactics the same way Cinderella did after her dress was torn to shreds.
 
-However, today's ideologues are not Cinderella, mixed-martial artists, or doctors searching for the best possible tools and techniques needed to win your fight. Rather, ideologues are old martial arts teachers selling their limited tools and techniques regardless of outcomes.
+However, today's ideologues are not Cinderella, mixed-martial artists, or doctors searching for the best possible tools and techniques needed to win your fight. Rather, ideologues like the cliche liberal professor and outcast conservative professor are old martial arts teachers selling their limited tools and techniques.
 
 Remember, it was only when curious fighters said, "what discipline is best?" and engaged in real fights and listened to their pains, that martial artists realized no discipline can be the single-source of truth and so fighters only blossom when they learn from everybody.
 
@@ -372,11 +376,11 @@ Fighters overcome opponents. Patients battle diseases. Cinderella had an evil st
 
 What's your problem?
 
-- Is your job not paying enough. You will not be a disloyal Conservative because you joined a union.
-- Are rude customers wasting your time. You will not be a disloyal Progressive for turning some assholes away.
-Is a bad supply chain increasing your costs..... You will not be a disloyal Progressive or Conservative for wanting a robust local supply chain.
+- Is your job not paying enough? You will not be a disloyal Conservative because you joined a union.
+- Are customers robbing your store? You will not be a disloyal Progressive for installing locks.
+- Is a bad supply chain increasing your costs? You will not be a disloyal Progressive or Conservative for wanting a robust local supply chain.
 
-You will not be disloyal, because heroes are loyal to themselves, not to a trainer's tools or techniques.
+You will not be disloyal, because you are not Conservative or Progressive. You're a lifeform looking for resources, it's not your job, nor your capability, to judge what is best society. It's your job to solve your daily pains. Because pain is the sign evolution gave us to change our ways.
 
 Now, what tools do you need to solve your problems?
 
@@ -518,49 +522,53 @@ Technological evolution isn't so certain.
 
 The Germans didn't enter into the Classic Age for hundreds of more years after seeing Caesar's bridge. The Romans themselves stalled their advancement and were invaded and colonized by those very same Germans. Advancing a civilization requires leaving the old one behind, which for many nations is so hard, it never happens.
 
-A big reason for this is the loyalty stories foster in humanity. Stories are meant to pass-on knowledge to aid everyone's continuous evolution, but they often become ways to keep people from evolving by creating bullshit reasons why they aren't allowed to.
+A big reason for this is the loyalty stories foster in humanity. Stories are meant to pass-on knowledge to aid everyone's continuous evolution. But the people in power use stories to distract regular people from evolving new tools that have all new power bases.
 
-America won the Industrial Age. It did so with a mixture of hardwork, ingenuity, and injustice. And, in 1970, America invented the personal computer and the internet. This is the technology of the future, but we are not yet in the Internet Age for the same reasons seeing or using the bridge didn't upgrade the Germans all those years ago.
+America won the Industrial Age. It did so with a mixture of hardwork, ingenuity, and injustice. And, in 1970, America invented the personal computer and the internet. This is the technology of the future, but we are not yet in the Internet Age for the same reasons seeing the bridge didn't upgrade the German barbarians all those years ago.
 
-Evolving our society to the possibilities of modern technology requires conquering a new chapter in the story of technological evolution. Instead of playing the game, our society is stuck in the Industrial Age while trying to find someone to blame for the social, economic, and political problems that inevitable get worse when any creature stops playing the game of evolution and walk in circles in a death spiral.
+Evolving our society to the possibilities of modern technology requires calling "bullshit" on Industrial Age power brokers talkng about "wokeness" or "fascists". Instead of playing the game, these stories are keeping us in the Industrial Age while trying to find someone to blame for the social, economic, and political problems that inevitable get worse when any creature stops playing the game of evolution.
 
 <Flipper1970 />
 
-_A death spiral._
+_Ignoring evolution has us walking in circles inside a death spiral._
 
 ## Building the Bridge
 
-Once you realize humans must evolve like any other creature but can't evolve biologically, this new philosophy falls into place: technological evolution is the plot of human existence. But the storytelling that connects us to good tools also keeps us loyal to old ones. Therefore, we're often masked from the fact that dropping old ways of Life and evolving new ones is our only path to success.
+Once you realize humans must evolve like any other creature but can't evolve biologically, this new philosophy falls into place: technological evolution is the plot of human existence. But the storytelling that connects us to good tools also keeps us loyal to old ones. Therefore, we're often masked from the fact our only path to success is dropping old ways of Life and evolving new ones.
 
-Techvolution validates everyone's frontline pain above any ideology, boss, teacher, or pundit. Each authority figure of today has the incentive to delay adopting a new tool for tomorrow. Because we have biology that says survive at all costs, but we prosper via technology that lives according to its own Life cycle. There are thus many stepmothers in our body politic.
+Once our food, shelter, water, security are secure, our biology tells us to defend what we have. The well-fed polar bears aren't the ones thinking of making changes. Thus, each authority figure of today has the incentive to antagonize new tools.
 
-These antagonists way of life is based on industrial age technology like broadcast radio and television, school libraries and lecture halls, transportation by car or truck, suburban housing, and so on down the mass-marketing list. All these one-size-fits-all adaptations are past their shelf-life and are no longer levers of power empowering users to climb ladders in the game of evolution.
+Because we don't believe in techvolution, power brokers can us stories to distract hungry polar bears from searching new resources. But, the human species only prospers via technology that lives according to its own Life cycle. There are thus many stepmothers in our body politic today.
+
+Antagonists way of life is based on industrial age technology like broadcast radio and television, school libraries and lecture halls, corporate offices and meeting rooms, transportation by car or truck, suburban housing, and so on down the mass-marketing list. All these one-size-fits-all adaptations are past their shelf-life and are no longer levers of power empowering users to climb ladders in the game of evolution.
 
 So we don't climb the ladder to the Internet Age.
 
-Instead, we continue industrializing society with too many large roads, cars, homes, planes, televisions, one-time-use products, and other mass-produced industrial goods. Regular people are left being Cinderella locked in the attic, wanting a better Life without the know-how to get it. Without the power of evolution in their minds, they must tell stories within either Conservative or Progressive ideology to justify why they should get priority access to the dwindling carcass of the Industrial Age.
+Instead, we continue industrializing society with too many large roads, cars, homes, planes, televisions, one-time-use products, and other mass-produced industrial goods. Regular people are left being Cinderella locked in the attic, wanting a better Life without knowing how to get it. Without the power of evolution in their minds, they must tell stories within either Conservative or Progressive ideology to justify why they should get priority access to the dwindling carcass of the Industrial Age.
 
-- Hi, I'm a Progressive Activist. My creativity imagined the Industrial Age policies and tools that spread unimaginable wealth to humankind. After the Industrial Age ended in 1969, I kept selling those same tools and policies; now they're totally bizarre. That's why my art films, marketing campaigns, and protests are a terrible return on investment. I used easy credit and cheap labor to sustain my adaptations since the 1970s, but they're both running out. To hide my ineffectiveness, I've been using a justice-loving public philosophy that because my, or someone else, parents and grandparents were abused and disadvantaged, I should still get the money I need to pay my mortgage and grocery bills. By the way, Fascist Conservatives are greedy and evil. They deserve nothing!
+- Hi, I'm a Progressive Activist. My creativity imagined the Industrial Age policies and tools that spread unimaginable wealth to humankind. After the Industrial Age ended in 1969, I kept selling those same tools and policies and now they're totally bizarre. That's why my art films, marketing campaigns, and protests are a terrible return on investment. I used easy credit and cheap labor to sustain my adaptations since the 1970s, but they're both running out. To hide my ineffectiveness, I've been using a justice-loving public philosophy that because my, or someone else, parents and grandparents were abused and disadvantaged, I should still get the money I need to pay my mortgage and grocery bills. By the way, Fascist Conservatives are greedy and evil. They deserve nothing!
 
-- Hi, I'm a Conservative Businessman. My industriousness built the Industria Age's companies, tools, and wealth for mankind. After the Industrial Age ended in 1969, I kept selling the same tools and companies using flashy spectacle. American homes, vehicles, and televisions are now enormous! They do the same functions, though, so we had to use easy credit and cheap labor to pay for it all, and now it's running out. To hide my ineffectiveness, I've been using a liberty-loving public philosophy. Because my parents or grandparents were intelligent and hard-working, I should still get the money to pay my mortgage and grocery bills. By the way, Socialist Woke Progressives are lazy and evil. They deserve nothing!
+- Hi, I'm a Conservative Businessman. My industriousness built the Industria Age's companies, tools, and wealth for mankind. After the Industrial Age ended in 1969, I kept selling the same tools and companies using flashy spectacle. American homes, vehicles, and televisions are now enormous! They do the same functions, though, so we had to use easy credit and cheap labor to pay for it all, and now it's running out. To hide my years of ineffectiveness, I've been using a liberty-loving public philosophy. Because my parents or grandparents were intelligent and hard-working, I should still get the money to pay my mortgage and grocery bills. By the way, Socialist Woke Progressives are lazy and evil. They deserve nothing!
 
-- I don't like politics. But as the cost of living rates go up, I'm looking for answers. I'm starting to think `insert name here` people are terrible, so I'm joining `insert name here.` My unspoken concern is that the technology that underpins my job is becoming obsolete, which sucks because while I love Netflix, I was planning on working at Blockbuster forever.
+- I don't like politics. But as the cost of living rates go up, I'm looking for answers. I'm starting to think `insert name here` people are terrible, so I'm joining `insert name here.` My unspoken concern is that the technology that underpins my job is becoming obsolete, which sucks because I was planning on working at Blockbuster forever. I love Netflix by the way, what are you watching?
 
-- None of us knows how to start a web server. We could learn, but we won't be crossing that bridge anytime soon because I smartly spend my time scrolling Twitter, online shopping, and watching cable news.
+- None of us knows how to start a web server.
 
 We're an Industrial Age species trying to live in the Internet Age. As a result our real-life problems are mounting like they are for the polar bears. Sadly, our debt, inflation, insurance, and the cost of living have been increasing for so long that our chance to bring their rates<button @click="rdegg = !rdegg">*</button>down proactively and ease ourselves into the next chapter in the story of Life, has passed.
 
-Life has let 99% of all prior species die because they failed to harvest enough resources to procreate. Anyone who follows, protests, invests in Industrial Age ideologies, cultures, and societies is writing themselves on that list because they refuse to adapt themselves to the possibilities of new technology.
+Life has let 99% of all prior species die because they failed to harvest enough resources to procreate. Anyone who refuses to adapt themselves to the possibilities of new technology and instead follows, protests, invests in Industrial Age ideologies, cultures, and societies is writing themselves on that list.
 
 You don't have to join them.
 
-Techvolution was written to individuals because individuals are evolution's unit of selection. Tall, short, Nigerian, Japanese, rich, poor, it doesn't matter what group you were in the past, whoever adopts mixed-ideological politics climbs the ladder to the Internet Age and selects themselves into the future.
+Techvolution was written to individuals because individuals are evolution's unit of selection. Tall, short, Nigerian, Japanese, rich, poor, it doesn't matter what group you were in the past. Whoever adopts mixed-ideological politics climbs the ladder to the Internet Age selects themselves into the future.
 
-Once you upgrade your politics with you'll escape the attic and build the bridge to the Internet Age. Once there, you'll notice how many Internet Age tools, techniques, and products already exist. Our inventors been using their soul creating Internet Age technology. Bumble-bee economics is ready, it just needs you to polinate it.
+Techvolution validates everyone's frontline pain above any ideology, boss, teacher, or pundit.
 
-The Internet Age has billions of products. You need to mix them up. No single ideology can filter them for you because you are unique. Keep reading and you will learn all about how open-source software like Ruby on Rails, open-standards like USB, the internet and personal computing and how to find your niche.
+Once you upgrade your politics with techvolultion and its mixed-ideological politics you'll escape the attic and build the bridge to the Internet Age. Once there, you'll notice how many wonderful Internet Age tools, techniques, and products already exist. Our inventors been using up their soul in garages, basements, and weekend all nighters creating Internet Age technology. Bumble-bee economics is ready, it just needs you to polinate it.
 
-Mixed-martial politics and bumble-bee economics are inevitable; just ask Jeff Goldblum, and why would anyone not join him?
+The Internet Age has billions of products. No single ideology can filter them for you. You are unique. You need to mix modern tools and find which modern tools solve your frontline pains. Keep reading and you will learn all about open-source software like Ruby on Rails, interoperable technology standards like USB, global high-speed internet, and AI computing in your pocket. These are the tools you can use to find your niche.
+
+Evolution is inevitable. Techvolution, mixed-martial politics, and bumble-bee economics are too; Jeff Goldblum says so. Why would anyone not follow him?
 
 >If there's one thing the history of evolution has taught us, it's that Life will not be contained. Life breaks free. It expands to new territories. It crashes through barriers. Painfully, maybe even.. dangerously, but and...well, there it is....Life...finds a way.
 
@@ -570,18 +578,23 @@ Mixed-martial politics and bumble-bee economics are inevitable; just ask Jeff Go
 
 I wish this summary was original. It's actually a remake.
 
-Years ago, our ancestors had to evolve from the Medieval Age. Meaning they had to leave the Catholic and Protestant political philosophy, mainly the story that God wanted kings and queens to rule countries, behind. If ever there was a public-facing philosophy designed to hold back everyone's evolution, it was the idea that genetic linaeges make good leaders.
+Years ago, our ancestors had to evolve from the Medieval Age. Meaning they had to leave behind the Catholic and Protestant political philosophy that said God wanted kings and queens to rule countries. If ever there was a public-facing philosophy designed to hold back everyone's evolution, it was the idea that genetic linaeges make good leaders.
 
-Conservative and Progressive philosophers worked hard to detach theology from daily politics. Their religious tolerance allowed Industrial Age people to mix and match whatever religion they felt best. After church and state were separated, Catholics and Protestants were free to work together. Which they did to great mutual benefit inside the Industrial Age via their shared ideology of capitalism.
+Conservative and Progressive philosophers worked hard to detach theology from daily politics. Their religious tolerance allowed Industrial Age people to mix and match their religious beliefs. After church and state were separated, Catholics and Protestants were free to work together. Which they did to great mutual benefit inside the Industrial Age via their shared ideology of capitalism.
 
-Old philosophers didn't know about evolution. So their theories are incomplete. Techvolution just takes them and includes technological evolution. 
+Capitialism of course had a competitor, communism. Capitalism won because it, unknowingly, harnessed evolution. It's free-market principles empowered evolution's game pieces, individuals, to be humanity's unit of selection. By allowing individuals to buy their own products capitialism allowed technology to multiply or die based on which tools best solved frontline pains.
 
-Capitialism of course had a competitor, communism. Capitalism won because it, unknowingly, harnessed evolution. It's free-market principles empowered evolution's game pieces. By allowing individuals to buy their own products capitialism allowed technology to multiply or die based on which tools best solved frontline pains.
+Communism was different. It empowered ideologically educated middle-men to decide what tools and techniques strangers needed in their fight to survive. These philosophers didn't know about evolution. Capitalism unknowingly hardnessed evolution, while communism unknowingly ignored it.
 
-Communism assumed man-made ideology could fix human greed. That's why it empowered educated middle-men to decide what tools and techniques stragers needed in their fight to survive. Communism failed because it was anti-evolutionary.
+Techvolution just takes some of what worked in old philosophies and includes the lessons of technological evolution. 
 
 Battling Conservatives and Progressives will work together peacefully, once they adopt ideological tolerance gotten via Techvolution and its mixed-ideological politics. Since we know about evolution, our (and future) upgrades should be more straightforward. And it's not a moment too soon. Because it took many years of horrible warfare to for Catholics and Protestants to leave the past behind. Which tells you where the Left and Right are headed.
 
 As for our problems with capitalism today. We only have to realize that capitialism only allowed technology to multiply or die based frontline pains at home. Not at work.
 
 <span v-if="rdegg" class="footnote"> F the mixture of failure and fortune. 🔻💚<img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;"></span>
+
+- The polar bear. As the Artic warms, it's geography will change, and won't need some of today's polar bears in the more warmer parts. What will those unemployed white behemoths do? Hunt caribou, eat roots, and berries. Who did evolution put in the driver's seat? They put pain into the driver's seat. The polar bears are in a foot race of survival. They are in a new age.
+
+- After Cinderella... The datedness of Pro and Con is hard to see because our frequent public personas to mask private actions. Religious Conservatives who find little time for charity, and environmental Progressives who fly around the world make an unconscious to mock each other instead of doing some reflecting.
+
