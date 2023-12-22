@@ -226,7 +226,7 @@ Seeing ourselves as biological beings had us chasing shadows.
 
 When we primarily identified with race, gender, or genetics, it allowed those with control over an important technology, from princes to supervisors, to become gatekeepers and stop mankind's evolution. Our false biological identities gave antagonists the falsehoods they needed to spin-up ideological stories about their supposed racial, gender, education, or noble superiority.
 
-Humanity would fight back by overcoming one of these fictions, only to see another version pop up. Like a hydra, racism, sexism, and elitism are told by antagonists who'd rather not run the race of technological evolution. By chasing ideological shadows, we'd let antagonists keep telling their ideological stories.
+Humanity would fight back by overcoming one of these fictions, only to see another version pop up. Like a hydra, racism, sexism, and elitism are told by antagonists who'd rather not run the race of technological evolution. If resources corrupt, guaranteed resources corrupt absolutely. By chasing ideological shadows, we'd let antagonists keep telling their ideological stories.
 
 We were born free, but everywhere, our technological evolution was chained.
 
@@ -238,11 +238,11 @@ Evolution's protagonists would transform civilization with ladders to the future
 
 That's why today, we protect every individual's technological evolution as a sacred right and teach it as an absolute obligation.
 
-Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson's freedom over servitude, and Darwin's evolution over creationism; this book teaches us techvolution over ideology. The pathway to healthy economics is democratized, interoperable, and open-source technological products that let everyone find their niche. We judge our economic success by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world. Healthy politics is ensuring everyone has easy access to the tools that solve their pains.
+Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson's freedom over servitude, and Darwin's evolution over creationism; this book teaches us Techvolution over ideology. The pathway to healthy economics is democratized, interoperable, and open-source technological products that let everyone find their niche. We judge our economic success by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world. Healthy politics is ensuring everyone has easy access to the tools that solve their pains.
 
-Because of techvolution, today, the only business of ideology is connect a person to a tool, and it is of no concern to the community what tool a person thinks best. Thus, we no longer have ideologues that require extremes to keep users loyal. Instead, we practice techvolution that promotes moderation and problem-solving with its mixed-ideological politics and bumblebee economics. 
+Because of Techvolution, it is of no concern to the community what tool a person thinks best. Thus, we no longer have ideologues that require extremeist storytelling to keep users loyal. Instead, we practice Techvolution that promotes moderation and problem-solving with its mixed-ideological politics and bumblebee economics. 
 
-This change brought tremendous progress, yet human Nature is not perfect. We still have many problems today. But at least we know antagonism comes too naturally when we have authority over others, from teachers to coaches, supervisors to princes. And so antagonism must be purged in ourselves and our community whenever it appears through the continued experience of real-life pain and the reliance on others it requires. We must constantly be reminded that evolving solutions to frontline problems is our purpose. Knowing techvolution is like learning a language because once you understand a way of thinking, you automatically see the world differently. Better tools are the best levers of power against Entropy, but gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems and thus leads to everyone's inevitable destruction.
+This change brought tremendous progress, yet human Nature is not perfect. We still have many problems today. But at least we know antagonism byway of bullying, de-humanzing, threats, and attacks comes too naturally when we have authority over others, from teachers to coaches, supervisors to princes. And so antagonism must be purged in ourselves and our community whenever it appears through the continued experience of real-life pain and the reliance on others pain requires. We must constantly be reminded that evolving solutions to frontline problems is our purpose. Knowing Techvolution is like learning a language because once you understand a way of thinking, you automatically see the world differently. Better tools are the best levers of power against Entropy, but gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems and thus leads to everyone's inevitable destruction.
 
 <!-- ![Louis](/assets/img-anp/playergod-stargazer.jpg) 
 _Royal kids don't benefit from antagoism_.-->
@@ -251,7 +251,7 @@ Now, I must thank those who took the first leap. It was many brave parents decad
 
 Now, our kids don't die in ideological wars, suffer economic depressions, and only rarely struggle with psychological torments.
 
-Instead, they are busy rolling their dice with other frontline workers under minimal, open, and accountable leadership, using any tool they need. Nature's currency interconnects them inside a technological ecosystem filled with open-source and interoperable tools that are adopting new adaptations so quickly it's edging us closer to perpetual profit while evolving Life closer to our glorious future among the stars.
+Instead, they are busy rolling their dice with other frontline workers under minimal, open, and accountable leadership, using any tool they need. Nature's currency interconnects them inside a technological ecosystem filled with open-source and interoperable tools that is selecting new adaptations so quickly it's edging us closer to perpetual profit while evolving Life closer to our glorious future among the stars.
 
 Along with their teachers and leaders, I helped my kids find their technological niche. And now I get to watch them achieve their very best. I advise them to re-read this book often to be sure their kids will continue evolving mankind to our highest potential.
 
@@ -259,7 +259,7 @@ A happy and loving mother
 circa 2083
 
 P.S.
-I shudder to think of our fate had we continued to interpret our reality using ideologies that blamed each other for their ineffectiveness to outrun Entropy on the board game of technological evolution because of a shared inability to drop old ways of living and build ladders that give people a happy life.
+I shudder to think of our fate had we continued to interpret our reality using ideologies that blamed each other for shared inability to drop old ways of living and build ladders that give people a happy life.
 
 ## Preface 
 ## The 2020 Pandemic
@@ -2383,7 +2383,7 @@ Look at the graph below. You'll see the Industrial Age evolving into the Interne
 
 Evolution is always right in Nature, and Techvolution is always right in the game of civilization.
 
-<img src="https://techvolution.io/content/images/2020/05/google-trends-blockbuster-torrent-netflix1.png" alt="Netflix v. Blockbuster" class="center-img" width="750" height="">
+<img src="https://Techvolution.io/content/images/2020/05/google-trends-blockbuster-torrent-netflix1.png" alt="Netflix v. Blockbuster" class="center-img" width="750" height="">
 <figcaption>Credit: <a href="https://trends.google.com/trends/explore?date=all&geo=US&q=Torrent,Netflix,Blockbuster">Google Trends.</a></figcaption>
 
 Main Street flocked to Netflix because it was a fair deal and a much better product then either DVDs or torrents. Because we acted like player gods and upgraded our tools, we evolved our society to the Internet Age.
@@ -3092,7 +3092,7 @@ Who's your hero, Stargazer? Who do you want to control the player god in your so
 
 ## What's Your Conclusion, Stargazer
 
-I wanted to write _Black Mirror_ stories about cyborgologists, techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society because they'd dead-set on building a new and better world.
+I wanted to write _Black Mirror_ stories about cyborgologists, Techvolutionaries, majicians (whatever you call them), rejecting the easy money of Industrial Age society because they'd dead-set on building a new and better world.
 
 I'd love to show how the new economy is where everyone lives a compelling story worthy of a Netflix series. When ordinary people believe in Techvolution, old rivalries between race and religions die off, because everyone is the hero of their own story.
 
@@ -3207,7 +3207,7 @@ A database of crash locations and causes doesn't exist today. Big Government reg
 
 My little app was a happy upgrade in the cyborgology of humanity, but not good enough. Or better said, too good. My biggest problem was I messed with a lever of power. Now because of _Techvolution_, I can depend on player gods to help me fight back.
 
-<img src="https://techvolution.io/content/images/2020/05/civilization-is-here4.jpg" alt="The Life Star" class="center-img" width="950" height="">
+<img src="https://Techvolution.io/content/images/2020/05/civilization-is-here4.jpg" alt="The Life Star" class="center-img" width="950" height="">
 <figcaption>Look familiar? Uber, Airbnb, and my app; all use GPS maps. Kind of looks like Anno1800 or Civilization 6, doesn't it? Didn't I tell you computer games teach us how we'll live in the Internet Age? A sneak peek at the Life Star. Credit: Google Maps, Anno:1800, Unsplash, <a href="https://unsplash.com/photos/kARZuSYMfrA">Dan Gold.</a></figcaption>
 
 ## Attacking a Lever of Power
