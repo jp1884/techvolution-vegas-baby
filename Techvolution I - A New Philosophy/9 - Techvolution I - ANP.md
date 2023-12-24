@@ -200,7 +200,7 @@ I sometimes forget _Techvolution_ was as transformative as it was.
 
 Was humanity ever so hamstrung?
 
-Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Could someone interfere with a worker's evolution and call themselves a boss and not an antagonist who never faced a worker's or customer's review? Why were there so many currencies instead of using Nature's currency? Would teachers demand that their students not use the latest technology because those teachers wanted safe jobs for life based on ancient technology? Would a person own a tool and not be allowed to repair it?
+Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Could someone interfere with a worker's evolution and call themselves a boss and not an antagonist who never faced a worker's or customer's review? Why were there so many currencies instead of using Nature's currency? Would teachers demand that their students not use the latest technology because those teachers wanted safe jobs for life teaching ancient technology? Would a person own a tool and not be allowed to repair it?
 
 It's even more confusing trying to understand how regular people responded to their evolution being held back. They would watch ideological stories on a screen and call that politics. They would march in circles, expecting their lives to improve. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to evolve better solutions to their specific personality, physique, nature, and interests?
 
