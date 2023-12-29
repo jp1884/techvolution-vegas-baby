@@ -182,7 +182,7 @@ next:
 
 ## Foreword
 
-My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected correctly that Spanish was his mother tongue. To test him, the teacher quickly showed words of colors typed in a different color. My son then to say the color each word was written in.
+My oldest child enlisted in a beginner Spanish class. It wasn't long before the teacher suspected correctly that Spanish was his mother tongue. To test him, the teacher quickly showed words of colors typed in a different color, so "red" was shown in blue ink for example. My son then had to say the color each word was written in.
 
 Here's an example:
 
@@ -232,7 +232,7 @@ We were born free, but everywhere, our technological evolution was chained.
 
 Yet, even with all their talented storytelling, antagonists always failed. They proved that human survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority inevitably fell in the face of technological progress.
 
-That progress wasn't perfect. Filled with antagonism, our evolution was so sporadic and uncertain that Entropy often caught on the game board of evolution. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. The primary cause in these human affairs was not failed government policy or unfair history; it was thwarted evolution, i.e., the stream of adaptions needed to outrun Entropy was stalled because people wouldn't or couldn't adopt innovation fast enough.
+That progress wasn't perfect. Filled with antagonism, our evolution was so sporadic and uncertain that Entropy often caught-up on the game board of evolution. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. The primary cause in these human affairs was not failed government policy or unfair history; it was thwarted evolution, i.e., the stream of adaptions needed to outrun Entropy was stalled because people wouldn't or couldn't adopt innovation fast enough.
 
 Evolution's protagonists would transform civilization with ladders to the future, while their complacent descendants would build chutes that set the stage for society's suffering and their own downfall. Evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest.
 
@@ -242,12 +242,12 @@ Harnessing technological evolution seems simple to us now, but it took a big cha
 
 Because of Techvolution, it is of no concern to the community what tool a person thinks best. Thus, we no longer have ideologues that require extremeist storytelling to keep users loyal. Instead, we practice Techvolution that promotes moderation and problem-solving with its mixed-ideological politics and bumblebee economics. 
 
-This change brought tremendous progress, yet human Nature is not perfect. We still have many problems today. But at least we know antagonism byway of bullying, de-humanzing, threats, and attacks comes too naturally when we have authority over others, from teachers to coaches, supervisors to princes. And so antagonism must be purged in ourselves and our community whenever it appears through the continued experience of real-life pain and the reliance on others pain requires. We must constantly be reminded that evolving solutions to frontline problems is our purpose. Knowing Techvolution is like learning a language because once you understand a way of thinking, you automatically see the world differently. Better tools are the best levers of power against Entropy, but gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems and thus leads to everyone's inevitable destruction.
+This change brought tremendous progress, yet human Nature is not perfect. We still have many problems today. But at least we know antagonism byway of bullying, threats, and attacks comes too naturally when we have authority over others, from teachers to coaches, supervisors to princes. And so antagonism must be purged in ourselves and our community whenever it appears through the continued experience of real-life pain and the reliance on others needed to solve pain. We must constantly be reminded that evolving solutions to frontline problems is our purpose. Knowing Techvolution is like learning a language because once you understand a way of thinking, you automatically see the world differently. Better tools are the best levers of power against Entropy, but gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems and thus leads to everyone's inevitable destruction.
 
 <!-- ![Louis](/assets/img-anp/playergod-stargazer.jpg) 
 _Royal kids don't benefit from antagoism_.-->
 
-Now, I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem that harnesses energy more efficiently every day. 
+Now, I must thank those who took the first leap. It was many brave parents decades ago who unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem that's harnessing energy more efficiently every day. 
 
 Now, our kids don't die in ideological wars, suffer economic depressions, and only rarely struggle with psychological torments.
 
@@ -259,7 +259,7 @@ A happy and loving mother
 circa 2083
 
 P.S.
-I shudder to think of our fate had we continued to interpret our reality using ideologies that blamed each other for shared inability to drop old ways of living and build ladders that give people a happy life.
+I shudder to think of our fate had we continued to interpret our reality using ideologies that blamed each other for their shared inability to drop old ways of living and build ladders that give people a happy life.
 
 ## Preface 
 ## The 2020 Pandemic
