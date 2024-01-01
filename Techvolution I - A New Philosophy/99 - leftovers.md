@@ -3997,3 +3997,15 @@ We're here to rise above the hate and improve our politics.
 
 Like in nature, whoever is first to innovate wins the race of evolution. Innovation can't be controlled by human authority because evolution has no oversight.
 
+===
+
+## Backpage
+
+If you don't like politics, or you feel pressured to care because politics is suddenly everywhere, this book is for you. Despite the uproar on television, radio, and dinner tables, you don't need to pick a side in the Left versus Right war.
+
+You know when a salesman is pitching a bad product like a phone plan or extended warranty. Using catchy words and false urgency he talks up the good parts while ignoring the bad in the hope of making a sale.
+
+If today's heated politics feels similarly in-your-face, that's because the Right and Left are sales departments of aging products. Everything from SUVs, corporate healthcare, and for-profit prisons on the Right. To EVs, government healthcare, and university education on the Left. Each side oversells the good parts, plays down the bad, uses catchphrases like "liberty" and "justice" to appeal to their customers, and creates an urgency that it's "use my products, or else the other side will ruin society."
+
+Left and Right ideologues are so emotional today because they want to close a sale. Don't buy it. This book teaches a new kind of politics. One that uses modern technology to fix problems today so our kids, country, and planet have a better tomorrow.
+
