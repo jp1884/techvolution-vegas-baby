@@ -63,7 +63,7 @@ Right and Left ideologues want to sell their chosen products. But they don't go 
 
 Political philosophy is a long and complicated road, but it's fair to say today that the Right believes in Conservative philosophy started by [Edmund Burke](https://en.wikipedia.org/wiki/Edmund_Burke) in 1806. While, the Left believes in the Progressive philosophy that [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) wrote in 1859.
 
-Both philosophies were invented in the early Industrial Age to help our very poor ancestors overcome everyone's extreme poverty. Conservativism empowered industrious people to concentrate the wealth needed to build the first railroads, mills, and factories. They cared so much about equity because wealth generation could only be trusted to proven winners. Progressivism let creative people imagine new products and marketing campaigns to keep industrialization growing. They cared about equality because why would disadvantaged persons join industrialization without getting richer. Although they'd bicker, both sides could cooperate because they built and sold the first trains, pants, stoves, pens, disinfectants, and other innovative products.
+Both philosophies were invented in the early Industrial Age to help our very poor ancestors overcome everyone's extreme poverty. Conservativism empowered industrious people to concentrate the wealth needed to build the first railroads, mills, and factories. They protected equity because wealth generation could only be trusted to proven winners. Progressivism let creative people imagine new products and marketing campaigns to keep industrialization growing. They cared about equality because why would disadvantaged persons join industrialization without getting richer. Although they'd bicker, both sides could cooperate because they built and sold the first trains, pants, stoves, pens, disinfectants, and other innovative products.
 
 Happily, after many years of advancements, we no longer have primitive factories, mills, transportation or mass hunger, illiteracy, and disease (if you're thinking about all the poor people in the world today, you are correct; their lives should be improved, but still marvel at the fact in the 1800s, almost all persons lived in poverty and there was no one to blame or send help because poverty-fighting tools didn't exist yet).
 
@@ -523,7 +523,7 @@ Regardless, Life demands the hard work of evolution. Adapting is the only way Li
 
 America won the Industrial Age. It did so with hard work, ingenuity, and injustice. In 1970, America invented the personal computer and the internet. This technology is the future, but we are not yet in the Internet Age for the same reasons, seeing Caesar's bridge didn't upgrade the German barbarians all those years ago.
 
-Evolving our society to the possibilities of modern technology requires calling "bullshit" on our Industrial Age power brokers and their supporters who don't want to move on. Their stories about "wokeness," "fascists," and all the other stories filling out televisions and smartphones are only meant to keep us in the Industrial Age while laying blame for the social, economic, and other real-life pains that inevitably get worse when any creature stops playing the game of evolution.
+Evolving our society to the possibilities of modern technology requires holding teachers, leaders, trainers, pundits, and individuals up to the standards of evolution. Any Industrial Age left over story about "wokeness," "fascists," and all the other stories filling out televisions and smartphones are only meant to keep us in the Industrial Age while laying blame for the social, economic, and other real-life pains that inevitably get worse when any creature stops playing the game of evolution.
 
 <Flipper1970 />
 
@@ -583,7 +583,7 @@ Communism was different. It empowered ideologically educated bureaucrats to plan
 
 Old philosophers didn't know about evolution, so it was hard to harness it. Techvolution takes some of what worked in old philosophies and includes the lessons of technological evolution.
 
-As it does for all creatures, Mother Nature decided individual freedom works, and America won the Industrial Age in the game of evolution. As for our problems with capitalism today. We only have to realize that regulated capitalism only allows technology to multiply or die based on frontline pains at home. Not at work.
+As it does for all creatures, Mother Nature decided individual freedom works, and America won the Industrial Age in the game of evolution. Our civilization cannonized evolutionary freedom inside our constitutions, bills of rights, and other important things. As for our problems with capitalism today. We only have to realize that regulated capitalism allows technology to multiply or die based on frontline pains at home. Not at work.
 
 <span v-if="rdegg" class="footnote"> F!ck my mixture of failure and fortune. 🔻💚<img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;"></span>
 
@@ -591,4 +591,4 @@ As it does for all creatures, Mother Nature decided individual freedom works, an
 
 - better distribution of wealth isn't a quality or protests, but a by product of good technology used on the frontline. More money generation isn't a quality of hoarding, but of again, good technology used on the frontline.
 
-
+- Breakthroughs. Best tool for the job.
