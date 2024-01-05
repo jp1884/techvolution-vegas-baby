@@ -42,6 +42,7 @@ December 2023 (manuscript)
 If you don't like politics, or you feel pressured to care because politics is suddenly everywhere, this book is for you. Despite the uproar on television, radio, and dinner tables, you don't need to pick a side in the Left versus Right war.
 
 You know when a salesman pitches something like an extended warranty. He resorts to catchy words and false urgency to push for a sale because the product isn't very good. 
+You know when a salesman pitches something like an extended warranty. He resorts to catchy words and false urgency to push for a sale because the product isn't very good. 
 
 If today's ideologues feel similarly in-your-face, that's because the Right and Left are selling you products. Everything from SUVs, corporate healthcare, and for-profit prisons on the Right. To EVs, government healthcare, and university education on the Left. Each side oversells the good parts, plays down the bad, uses catchphrases like "liberty" and "justice" to appeal to their customers, and creates an urgency that it's "use my products, or else the other side will ruin society."
 
