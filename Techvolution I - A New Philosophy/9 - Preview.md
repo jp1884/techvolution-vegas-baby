@@ -583,7 +583,7 @@ Communism was different. It empowered ideologically educated bureaucrats to plan
 
 Old philosophers didn't know about evolution, so it was hard to harness it. Techvolution takes some of what worked in old philosophies and includes the lessons of technological evolution.
 
-As it does for all creatures, Mother Nature decided individual freedom works, and America won the Industrial Age in the game of evolution. Our civilization cannonized evolutionary freedom inside our constitutions, bills of rights, and other important things. As for our problems with capitalism today. We only have to realize that regulated capitalism allows technology to multiply or die based on frontline pains at home. Not at work.
+As it does for all creatures, Mother Nature decided individual freedom works, and America won the Industrial Age in the game of evolution. Our civilization cannonized evolutionary freedom inside our constitutions, bills of rights, and the system of checks and balances in our government to ensure to frontline problems are more important than stepmothers stories. As for our economic problems today. We only have to realize that regulated capitalism allows technology to evolve to solve frontline pains at home. Not at work.
 
 <span v-if="rdegg" class="footnote"> F!ck my mixture of failure and fortune. 🔻💚<img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;"></span>
 
