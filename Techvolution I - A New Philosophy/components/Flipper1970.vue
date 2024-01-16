@@ -111,8 +111,14 @@ https://stackblitz.com/edit/vue3-glidejs?file=src%2Fcomponents%2FCarousel.vue
   <li class="glide__slide">
     <b>The Rise of Partisanship</b>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/tEczkhfLwqM?si=ux1aJDdLnOscdmT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <i>The Rise of Partisanship and Super-Cooperators in the U.S. House of Representatives.<a href="https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0123507">Plos One</a></i>
+    <i>The Rise of Partisanship and Super-Cooperators in the U.S. House of Representatives.<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123507">Plos One</a></i>
   </li>
+
+  <https://investingdoc.com/the-growth-of-administrators-in-health-care/>
+  The Chart That Depicts Growth Of Physicians And Administrators In Health Care
+
+  https://scholar.harvard.edu/files/poojachandrashekar/files/mar_apr_2019_264-268.pdf
+  Growth in the number of healthcare administrators has far outpaced growth in the number of physicians. Between 1975 and 2010, the number of U.S. physicians grew 150%, roughly proportional to population growth, whereas the number of healthcare administrators increased 3200%.1 Supporters of this exponential growth argue that increased administration is necessary to navigate changes in healthcare delivery, including advances in information technology, new regulatory requirements, and unprecedented levels of scrutiny. On the other hand, critics say administrator growth increases physician burnout. As administrators impose rules, management procedures, and regulations to streamline clinical processes and achieve the "triple aim" of healthcare, the burden often falls on physicians. 
 
 
  ECONOMICS
