@@ -62,7 +62,7 @@ For everyone using their soul while creating something new.
 ## Table of Contents
 
 [[toc]]
-
+<!-- SEE UPDATED SECTION FORMAT AT BOTTOM DIDN'T USE IN FAVOUR OF LIFEBOAT/HULK DIALOGUE-->
 ## Our problems - Rates Up
 
 What do you want from politics? If you want screaming, yelling, blame, and picking a group of people to fight. Go do that.
@@ -92,26 +92,56 @@ The number of single-earner families with a stay-at-home parent dropped from 1,4
 
 ### Health
 
-People have gotten unhealthier. For example, estimated prevalence of obesity which is a risk factor for chronic complications, including cardiovascular disease, and premature death. In 1975 11.70% were obese, by 2016 it was 37.30%
+People have gotten unhealthier. For example, estimated prevalence of obesity, based on general population surveys and statistical modeling. Obesity is a risk factor for chronic complications, including cardiovascular disease, and premature death. In 1975 11.70% were obese, by 2016 it was 37.30%
 
-The amount of medical doctors has barely changed in that period. Staying between 2.2 to 2.7 per 1000 people between 1995 to 2020. Meanwhile nurses per 1000 people has gone from 10 in 2000 to 12 in 2020. Hospital Beds went down in the United States. There were 8.5 per 1000 people in 1968 to 4.5 in 1992 to 3 in 2016.
+The amount of medical doctors has barely changed in that period. 
+Medical Doctors in the United States increased to 2.77 per 1000 people in 2019 from 2.74 per 1000 people in 2018. Medical Doctors in the United States averaged 2.55 per 1000 people from 1993 until 2019, reaching an all time high of 2.77 per 1000 people in 2019 and a record low of 2.27 per 1000 people in 1993.
 
-Roughly the same amount of doctors, more nurses, and less hopsital beds. 
+  1995 - 2.27 doctors per 1000 people.
+  2010 - 2.58 doctors per 1000 people.
+  2020 - 2.77 doctors per 1000 people.
+
+Nurses in the United States remained unchanged at 11.98 per 1000 people in 2021 from 11.98 per 1000 people in 2019. Nurses in the United States averaged 10.97 per 1000 people from 1999 until 2021, reaching an all time high of 11.98 per 1000 people in 2019 and a record low of 10.10 per 1000 people in 2003.
+
+2000 - 10.37 nurses per 1000 people.
+2012 - 11.08 nurses per 1000 people.
+2020 - 11.97 nurses per 1000 people.
+
+Hospital Beds in the United States decreased to 2.77 per 1000 people in 2021 from 2.78 per 1000 people in 2020. Hospital Beds in the United States averaged 4.66 per 1000 people from 1960 until 2021, reaching an all time high of 9.18 per 1000 people in 1960 and a record low of 2.77 per 1000 people in 2016. source: OECD
+
+1968 - 8.5 hospital Beds in the United States per 1000 people.
+1992 - 4.5 hospital Beds in the United States per 1000 people.
+2016 - 3.0 hospital Beds in the United States per 1000 people.
+
+As the data show, in 1880 government health spending was below 1% of GDP in all countries; but this started changing quickly in the first half of the 20th century and by 1970 government spending on healthcare was above 2% of GDP in all these countries.
 
 USA - 1930 - 0.34% government healthcare expenditure as a share of GDP.
 USA - 1960 - 1.09% government healthcare expenditure as a share of GDP.
 USA - 1990 - 4.54% government healthcare expenditure as a share of GDP.
 USA - 2020 - 15.95% government healthcare expenditure as a share of GDP.
 
-So, if medical care wasn't getting this money, where was it all going?
-
 Growth in the number of healthcare administrators has far outpaced growth in the number of physicians. Between 1975 and 2010, the number of U.S. physicians grew 150%, roughly proportional to population growth, whereas the number of healthcare administrators increased 3200%. Supporters of this exponential growth argue that increased administration is necessary to navigate changes in healthcare delivery, including advances in information technology, new regulatory requirements, and unprecedented levels of scrutiny. On the other hand, critics say administrator growth increases physician burnout. As administrators impose rules, management procedures, and regulations to streamline clinical processes and achieve the "triple aim" of healthcare, the burden often falls on physicians. 
 
-### Prison
+The Increase in the Number of Doctors VS Administrators.
+Growth of Physicians and Administrators: 1970 - 2009
+
+Physicians
+1970 - 0%
+1980 - marginal
+1990 - 30%
+2000 - 80%
+2009 - 90%
+
+Administrators
+1970 - 100%
+1980 - 200%
+1990 - 500%
+2000 - 2000%
+2009 - 3100%
+
+
 
 The year 2023 marks the 50th year since the U.S. prison population began its unprecedented surge. In 1972, the imprisonment rate was 93 per 100,000 people.11 The prison expansion that commenced in 1973 reached its peak in 2009, achieving a seven-fold increase over the intervening years. Between 1985 and 1995 alone, the total prison population grew an average of eight percent annually. And between 1990 and 1995, all states, with the exception of Maine, substantially increased their prison populations, from 13% in South Carolina to as high as 130% in Texas. The federal system grew 53% larger during this five-year period alone.
-
-### Environment
 
 Global Greenhouse Gas Emissions Data. Global carbon emissions from fossil fuels have significantly increased since 1900. Since 1970, CO2 emissions have increased by about 90%, with emissions from fossil fuel combustion and industrial processes contributing about 78% of the total greenhouse gas emissions increase from 1970 to 2011. Agriculture, deforestation, and other land-use changes have been the second-largest contributors.
 
@@ -124,11 +154,10 @@ Carbon dioxide emissions account for the largest share of greenhouse gases which
 2004 - 27000000 KT
 2016 - 33000000 KT
 
-### Debt
-
-People need money and so do governments. Debt is used by everyone to pay for things today...
-
-National debt of the United States has been growing. In 2006 it was 8 trillion, 2016 18 trillion, and 2024 34 trillion.
+National debt of the United States
+2006 - 8 trillion
+2016 - 18 trillion
+2024 - 34 trillion
 
 Federal debt to revenue ratio The federal government has a 6.75 to 1 debt to revenue ratio as of Q2 2023.
 1966 - 2.2
@@ -162,17 +191,17 @@ All of these growing problems leads us to the expression of frustration. All gov
 
 Hence today's ragged political climate. When the National Election Study began asking about trust in American government in 1958, about three-quarters of Americans trusted the federal government to do the right thing. Trust in government began eroding during the 1960s, recovered in the mid-1980s, but falling again in the mid-1990s. Since 2007, the shares saying they can trust the government always or most of the time has not surpassed 30%.
 
-People don't trust government as much because they feel government is negging on their deal to provide a happy life.
+Public trust in the federal government, which has been low for decades, has returned to near record lows following a modest uptick in 2020 and 2021. Currently, fewer than two-in-ten Americans say they trust the government in Washington to do what is right. This is among the lowest trust measures in nearly seven decades of polling.
 
-Today's politics will solve all these problems by blaming someone else. Far from being the solution, they point the finger. Hence it is widely reported that partisanship in the United States Congress is at an historic high. We quantify the level of cooperation between Democrat and Republican Party members in the U.S. House of Representatives from 1949-2012. We find that despite short-term fluctuations, partisanship in the U.S. Congress has been increasing exponentially since the 1970s with no sign of abating or reversing.
+Every political party has had majority and super-majority.
+
+It is widely reported that partisanship in the United States Congress is at an historic high. We quantify the level of cooperation between Democrat and Republican Party members in the U.S. House of Representatives from 1949-2012. We find that despite short-term fluctuations, partisanship in the U.S. Congress has been increasing exponentially since the 1970s with no sign of abating or reversing.
 
 We want to solve these problems. Our political representatives, parties, ideologies are not solving problems. Before we talk the new ideas that is Techvolution, let's look at how Life solves problems. She's been doing it quite a bit longer.
-
-<Flipper1970 />
  
 ## How Life Solves Problems
 
-Whatever problems you have, Life has dealt with it before. Hunger, loneliness, thirst, cold, these are all constant problems for anything living on Earth. So while you think of your problems today, a penguin is diving for fish, an ant colony is raiding its neighbor, a polar bear is stalking a seal, and trillions more lifeforms are also battling for survival.
+As you read this, a penguin is diving for fish, an ant colony is raiding its neighbor, a polar bear is stalking a seal, and trillions more lifeforms are battling for survival.
 
 Living in the wild is tough, but many creatures struggle extra hard today. The environment is changing fast. Among other things, forests, greenfields, and ice caps are disappearing. That means lifeforms such as polar bears have increasingly unhelpful adaptations. They have Life's burning desire to survive and procreate, but their form of white coat and colossal bulk is losing its once mighty advantage to kill seals in the Arctic.
 
@@ -246,5 +275,20 @@ To use modern traits to fix modern problems we need mixed ideological politics.
 
 <span v-if="rdegg" class="footnote"> F!ck my failure and fortune. 🔻💚<img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;"></span>
 
+<!-- UPDATED SECTION FORMAT, IT'S MORE DIRECT AND LINEAR -->
 
+## Our problems - Rates Up
+List of shit getting worse from 1970
+## How Life Solves Problems
+Whatever problems you have, Life has dealt with it before. Hunger, loneliness, thirst, cold, these are all constant problems for anything living on Earth. So while you think of your problems today, a penguin is diving for fish, an ant colony is raiding its neighbor, a polar bear is stalking a seal, and trillions more lifeforms are also battling for survival...
+## How We Solve Problems
+Technological Evolution
+## How We Think We Solve Problems
+Gods keep dying off. Julius. Louis.
+Mythologies for antagonist. ie. Sexism
+Counter, yet more accurate, mythologies for heroes. ie feminism
 
+## Modern traits
+Node.js  Ruby.
+## What we need to solve problems
+To use modern traits to fix modern problems we need mixed ideological politics. 

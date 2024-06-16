@@ -61,3 +61,4 @@
 
 - We're stagnant on the tech tree of life, which is why bozos get their time in the sun. See. moderate  instagram congressman.
 
+- Understanding politics by watching TV is like understanding fighting by watching kung-fu movies.
