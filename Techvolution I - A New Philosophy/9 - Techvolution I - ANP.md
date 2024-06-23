@@ -394,7 +394,7 @@ We gave the levers of power in our schools, hospitals, companies, and bureaucrac
 
 Should we really have expected better?
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/4-a-workers-story.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -427,7 +427,7 @@ And, we're feeling the consequences of our technological stagnation right now. B
 
 Since entering the Internet Age in 1970, debt levels skyrocketed because our society is being forced to use Industrial Age tools. Governments try to solve the mix-match by printing money. Workers aren't allowed to be productive enough to pay for ourselves. The result is more evermore debt. And we're justifiably frightened, wondering what's going to happen next in the economy, international relations, and in general, what the future holds for a species that resists life's demand to evolve.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/6-bs-jobs-wisecrack.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -536,7 +536,7 @@ We can save ourselves from all this grief and enter the amazing Internet Age now
 
 All we have to do is change what you think is politics.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/140-commie-capital.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -628,7 +628,7 @@ You'll be the "player god" of human civilization. Being a "god" who runs everyth
 
 Pressing that most important upgrade button magically transforms every factory, hospital, house, and citizen, to the technology of the modern age. Look below, and you'll see a person being the player god in the game _Anno 1800_.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/3-anno-1800-2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -667,7 +667,7 @@ Contemporary Americans, Canadians, Brits, Aussies, Kiwis, Japanese, Koreans can 
 
 And, to do that, we need to follow the Internet Age protagonists and click a new philosophy. Only then will we able to look up and see ourselves as the player gods of our civilization again.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/12-civ6-playing-the-game.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -681,7 +681,7 @@ It's easy to see technology change. Installing a sewer, damming a river, buildin
 
 When you play a computer game, you'll see every ruling philosophy is temporary. You'll understand this because you'll experience first-hand that each civilization lasts many generations. Every person in the game, and therefore in real life, is always working to bring on the next era. Thus, just as a sailboat is a stepping stone to a steamship, every person's philosophical beliefs are a stepping stone to something better.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/15-civ6-tech-culture-tree.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -842,7 +842,7 @@ In line with that goal, our new philosophy must target today's most significant 
 
 Antagonism is created when the "eight different bosses" of the Industrial Age choose to guard the gates of old technology. These antagonists reject the opportunity to build the Internet Age. Instead, they suppress new technology, to keep Industrial Age products, like TPS reports and broadcast TV, as society's levers of power.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/160-blackbelts.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -964,7 +964,7 @@ We have many problems today. But too little food, too cold houses, too slow tran
 
 All because of some people (guess who) like the economy of the past.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/1-1800s-living.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -988,7 +988,7 @@ Because since a manager's skill set is often to maneuver for higher "positions" 
 
 Even if it drives our economy to shit, and makes our jobs suck.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/77-the-office-bc-jobs.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -1063,7 +1063,7 @@ The tech community calls this disruption. While disruption has thankfully torn d
 
 Only a new breed of open-source apps custom-designed to solve real-life problems, and a society of player gods paying for them, will turn the fantastic world of science fiction into Main Street's new reality.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/71-open-source-hero-react.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -1290,7 +1290,7 @@ Before we become player gods, here are a few terms that will put us all on the s
 
 **Plot**: Getting extras to step up, grab hold of open-sources new levers of power, and become player gods who replace their ruling philosophy with Techvolution and thereby establish the era of mass-collaboration inside the Internet Age.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/31-disparity.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -1409,7 +1409,7 @@ Think about how cool it is to safely land a frickin rocket.
 
 But many people, especially Left/Right ideologues, still didn't care.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/75-spacex.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -1714,7 +1714,7 @@ Sophia taught Douglass to read. She wasn't told to. She did it because we all lo
 
 When a magician makes a playing card disappear, we smile in awe and childish wonder. That's cool, but nothing new was created, so we soon lose our joy. However, when a majician connects someone with typing, drawing, or reading, they've similarly performed something awesome. They've upgraded someone's cyborgology, helped them solve problems better, and effectively created a new and improved person. This makes us smile for a long time.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/7-cast-away.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -1743,7 +1743,7 @@ Safety is fleeting Stargazer. Electricity, the microchip, the iPhone were all ma
 
 This is why we need Techvolution. A modern philosophy that says growing majic by creating new levers of power for the middle-class is good. And antagonizing the majic of our evolution is wrong.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/18-cool-new-tech.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -1792,7 +1792,7 @@ To destroy the Death Star Stargazer, we have to first remove the dark majic mask
 
 **Dark majic**: Methods and techniques used to keep a person using an old tool. Dark majic gives regular people a false sense of joy and accomplishment, so they don't upgrade their cyborgology and become player gods. A dark majician tricks people into being extras.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/5-bridges.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -1881,7 +1881,7 @@ Fundamentally speaking, movie theatres and home theatres are both technological 
 
 Just like the bureaucracy of the medical and insurance system, the movie industry businessmen used Internet Age technology to its benefit, instead of the customers.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/35-frontline-stories.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2030,7 +2030,7 @@ Only established Big Business and Big Government had the money to buy the lawyer
 
 Here's one example. There are millions more.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/30-death-star-blasts.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2110,7 +2110,7 @@ The lesson is, we lost our manufacturing base and a robust local supply chain fo
 
 I smile, thinking of all those bakers, tailors, designers, craftsmen, welders, and repairmen happily working on a new empowered Main Street.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/79-then-and-now.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2154,7 +2154,7 @@ While tech companies keep making and marketing excellent products, someone has t
 
 Linus Tech Tips is an example of someone already doing this. There's a big job for someone doing this all day; modern patriots who like bumblebees "cross-pollinate" products on Main Street during the era of mass-collaboration.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/11-civ6-linus-tech-tips.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2211,7 +2211,7 @@ When we buy a new house, we can't wait to move in, bring in our furniture, and s
 
 Take a second and watch this clip of a player building backyards in the city-builder _Cities: Skylines_.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/53-life-star-example.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2279,7 +2279,7 @@ This is horrible because we've only started the Internet Age, and should be tran
 
 Literally, if we don't hurry up, we'll literally be unable to build the Internet Age.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/54-makers-musk.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2459,7 +2459,7 @@ In 1776, during Rousseau's lifetime, Darth King faced the music when the America
 
 Cinderella soon forgot about the fancy ball, and instead sung the music of freedom in a choir of equals, that went something like this:
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/13-civ6-rousseau-click.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2653,7 +2653,7 @@ It was a good deal. The growing peace returned civilization to western Europe. S
 
 This was the start of the "noble divine right to rule."  And, the divine kings took their job seriously. They had many battle scars to prove it.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/101-vikings.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2684,7 +2684,7 @@ Brilliant cathedrals, royal palaces, and terrible and meaningless conflicts like
 
 Antagonists Kings had no personal achievements. They took no risks but took credit for the accomplishments of civilization as if they were the player god responsible for it all.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/110-versailles.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2721,7 +2721,7 @@ It's important to note, while Rousseau's followers were politically free, they w
 
 But they were also obsessed with economic growth to bring the people up from poverty.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/120-westinghouse.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2854,7 +2854,7 @@ It was precisely because the English people were empowered by new levers of powe
 
 However, without Rousseau's new philosophy to explain themselves, the unhappy people were left asking for change from a king who thought he was a god.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/19-king-charles.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -2871,7 +2871,7 @@ Charles lost again.
 
 The Parliamentarians were now enraged.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/20-cromwell.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -3068,7 +3068,7 @@ When we hold our medical records, work portfolios, and other levers of powers in
 
 All we need to reach the future is the click of a new set of ideals of right and wrong, good and bad, in science, art, morals, politics, and economics. Only a modern ruling philosophy will unite Main Street to see the big picture.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/78-the-system.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -3093,7 +3093,7 @@ The future is already here.
 
 If you believe in yourself.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/57-moores-law.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -3149,7 +3149,7 @@ I'd love to show how the new economy is where everyone lives a compelling story 
 
 And that gives us all a new definition of good guys and bad guys. Simple put, whoever helps you live a better, happier, more free life is a protagonist, and whoever gets in your way is an antagonist.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/150-cities-lifestar.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -3229,7 +3229,7 @@ I wept while watching Smithereens, full out tears. I knew what the plot twist wa
 
 Here's why I failed, and here's why I'll succeed.
 
-<video width="560" height="200" controls>
+<video controls preload="none" width="560" height="200" poster="">
   <source src="/assets/video/74-smithereens.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
