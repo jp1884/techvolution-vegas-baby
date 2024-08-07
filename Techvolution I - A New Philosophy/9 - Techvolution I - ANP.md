@@ -23,8 +23,6 @@ by Johnny
 
 May 2020 (manuscript)
 
-[Homepage](/) | [Next Chapter](/a-new-philosophy/preface)
-
 ## Back Page
 
 Even before this pandemic, middle-class Americans and Canadians had serious problems: rising debt, stagnating wages, expensive healthcare. Not too long ago, we could relax and assume our political culture would solve our everyday headaches. Not anymore. Today, politics on both sides of the border is controlled by ideologically obsessed reporters, columnists, and pundits creating new ways to sell to their Left-wing or Right-wing choirs.
@@ -69,7 +67,7 @@ Gordon Moore, co-founder of Intel, 1973.
 
 ## Note to the Reader
 
-This book uses lots of videos. I use them to make it clear how widespread middle-class problems are. Keep in mind, you'll have to press play on the videos and turn the sound on/off. And of course, in all cases, all due credit goes to the media's creators and owners.
+This book uses lots of videos. I use them to make it clear how widespread middle-class problems are. Keep in mind, you'll have to press play on the videos and turn the sound on/off. And of course, in all cases, all due credit goes to the media's creators and owners. Also, please don't get all bent out of shape about the presenters.
 
 ## Inner Flap
 
@@ -174,8 +172,6 @@ import LanguageTest from '../components/LanguageTest.vue'
 </script>
 
 ![Preface Cover Image](/assets/img-anp/playergod-stargazer.jpg)
-
-[Prior Chapter](/a-new-philosophy/start) | [Next Chapter](/a-new-philosophy/introduction)
 
 ## Foreword
 
@@ -563,23 +559,21 @@ next:
 
 ![Introduction Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Prior Chapter](/a-new-philosophy/preface) | [Next Chapter](/a-new-philosophy/prologue)
-
 ## Politics
 
 Donald Trump is the savior of Western Civilization. If that turns your emotions on, with tears or cheers, then you are missing the point of politics. Politics isn't about voting for a political party, advocating for a political cause, or screaming at a Twitter feed. The government is so big—with so many politicians, civil servants, companies, and interest groups fighting for control, it will never respond to your small voice.
 
 Tears or cheers don't make a person powerful.
 
-On the contrary, you see, exercising, composting, teaching your kids mathematics _does_ change the world. Good decisions change and improve your world—giving you freedom from dependency and power over your part of society. And, since power is to politics what money is to finance, your personal choices are always your most potent political weapon.
+On the contrary, exercising, composting, teaching your kids mathematics _does_ change the world. Good decisions change and improve your world—giving you freedom from dependency and power over your part of society. And, since power is to politics what money is to finance, your personal choices are always your most potent political weapon.
 
 The question is, how do we increase your political power?
 
-The answer, we'll find out in this book, is owning better technology and the self-awareness to use it to improve your life. But this isn't a self-help book about making you "happy." It's about making you politically powerful so you can evolve humanity to the Internet Age and therefore earn your happiness.
+The answer, we'll find out in this book, is owning better technology, the self-awareness to use it to improve your life, and finding allies doing similar things. But this isn't a self-help book about making you "happy." It's about making you politically powerful so you can evolve humanity to the Internet Age and therefore earn your happiness.
 
 To increase your political power you must realize there is a good reason no hero, from Harry Potter to Luke Skywalker, marched as a "activist" or "patriot" in their stories.
 
-Potter owned his own wand for the same reason Luke Skywalker constructed his own lightsabres. The lesson is simple. Only when the middle-class holds modern levers of power will we get a happy society. But before we will reach out for new tools, we need to believe in a new kind of politics.
+Potter owned his own wand for the same reason Luke Skywalker constructed his own lightsabre. The lesson is simple. Only when the middle-class holds modern levers of power will we get a happy society. But before we will reach out for new tools, we need to believe in and practice a new kind of politics.
 
 <img src="https://www.slashfilm.com/wp/wp-content/images/Blade-Runner5.jpg" alt="Blade Runner" class="center-img" width="" height="">
 <figcaption>Our kids will live in a dystopia if we don't evolve our culture and distribute modern technology to Main Street. Credit: Blade Runner.</figcaption>
@@ -879,8 +873,6 @@ next:
 ---
 
 ![Prologue Cover Image](/assets/img-anp/playergod-stargazer.jpg)
-
-[Prior Chapter](/a-new-philosophy/introduction) | [Next Chapter](/a-new-philosophy/act-one)
 
 ## Goal-line
 
@@ -1317,8 +1309,6 @@ next:
 
 ![Act One Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Prior Chapter](/a-new-philosophy/prologue) | [Next Chapter](/a-new-philosophy/act-two)
-
 ## The Beginning
 
 It all started with a door in my face. And then, actually, a few more. I was either being too stubborn or too hopeful. Either way, I eventually learned my lesson. I was selling a web app that those in upper management were never going to buy.
@@ -1546,8 +1536,6 @@ next:
 ---
 
 ![Act Two Cover Image](/assets/img-anp/playergod-stargazer.jpg)
-
-[Prior Chapter](/a-new-philosophy/act-one) | [Next Chapter](/a-new-philosophy/intermission)
 
 ## Blowing Up the Death Star with Evolution
 
@@ -1961,8 +1949,6 @@ next:
 
 ![Intermission Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Prior Chapter](/a-new-philosophy/act-two) | [Next Chapter](/a-new-philosophy/midpoint)
-
 ## Intermission
 
 Intermissions are an excellent time to stretch our legs, buy a snack, and also ask some questions about the story so far. Here, I want to go more in-depth on some terms and characters. I especially want to emphasize why funding, making, and using open-source Internet Age levers of power will make the middle-class happy again.
@@ -2337,8 +2323,6 @@ next:
 ---
 
 ![Midpoint Cover Image](/assets/img-anp/playergod-stargazer.jpg)
-
-[Prior Chapter](/a-new-philosophy/intermission) | [Next Chapter](/a-new-philosophy/act-three)
 
 ## Internet Age vs. Industrial Age
 
@@ -2776,8 +2760,6 @@ next:
 
 ![Act Three Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Prior Chapter](/a-new-philosophy/midpoint) | [Next Chapter](/a-new-philosophy/epilogue)
-
 ## Evolution Yea or Nea
 
 Act three is the nail bitter. The time when a good writer rewards the audience with the final duel and the discovery of who's going to win. Noble Jedis or Evil Sith, the Ministry of Magic or the Thugs of Voldemort, Open-Source Heroes, or Darth Blockbuster Antagonists.
@@ -3199,8 +3181,6 @@ next:
 
 ![Epilogue Cover Image](/assets/img-anp/playergod-stargazer.jpg)
 
-[Prior Chapter](/a-new-philosophy/act-three) | [Next Chapter](/a-new-philosophy/the-appendices)
-
 ## Welcome
 
 Hello Stargazer! I'm glad you came aboard. If it wasn't for you, the future would exist only in science fiction. Now because of you, we can start the era of mass-collaboration.
@@ -3322,8 +3302,6 @@ next:
 ---
 
 ![The Appendices Cover Image](/assets/img-anp/playergod-stargazer.jpg)
-
-[Prior Chapter](/a-new-philosophy/epilogue) | [Next Chapter](/a-new-philosophy/building-the-lifestar)
 
 ## Other Stuff
 
