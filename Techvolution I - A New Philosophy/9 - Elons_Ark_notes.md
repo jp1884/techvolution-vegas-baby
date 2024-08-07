@@ -1,13 +1,13 @@
 
 # Elon's Ark Notes
 
-Promoting Claude 3 to get to the essence of, and the dire need for, "God/Nature's Currency." Without it, we suffer from dreams of avarice who dream of their genes lasting forever by trying (and always failing) to make success on the technological tree of Life timeless. Spanish conquistadors who saw lots of gold as their ticket to gene immortality tried this and caused the opposite Spanish Price Revolution. There are (fittingly) nearly infinite other examples. We're in for many more as more modern technology is "gold," so to speak, doesn't naturally decompose, and thus inflicts the dream of forever Life into our minds like the flickering of gold into the eyes of a Spaniard stepping on the Andes.
+Prompting Claude 3 to get to the essence of, and the dire need for, "God/Nature's Currency." Without it, we suffer from dreams of increasing avarice i.e. people who dream of their genes lasting forever by trying (and inevitably failing) to make success on the technological tree of Life perpetual. Spanish conquistadors who saw mountains of gold as their ticket to gene immortality tried this and caused the opposite Spanish Price Revolution; nevermind the death and destruction. There are nearly infinite other examples. We're in for many more as more modern technology is "gold," so to speak, doesn't naturally decompose, and thus inflicts the dream of forever Life into our minds like the flickering of gold into the eyes of a Spaniard stepping on the Andes.
 
-I don't feel like writing all this out yet. Although perhaps I'll finish Elon's Ark and novelize it. For now, here's prompts to follow that'll get you to the future if you're lucky. Evolution has no shortcuts and doesn't give a shit about who your uncle is today or what bad things happened to your grandmother. There is no Lion King who gets land, food, and loyalty at birth, but just a big cat desperately searching and who will do anything for enough calories to earn their spot on the team of Life. Because evolution requires every lifeform to earn their keep, every day, or Life's Hulk comes for them, ignorant of any words we say.
+I don't feel like writing all this out yet. Although perhaps I'll finish Elon's Ark and novelize it. For now, here some prompts to follow that'll get you to the future if we're lucky. Evolution has no shortcuts and doesn't give a shit about who your uncle is today or what bad things happened to your grandmother. There is no Lion King who gets land, food, and loyalty at birth, but just a big cat desperately searching for, and who will do anything for enough calories to earn their spot on the team of Life. Because evolution requires every lifeform to earn their keep, every day, or Life's Hulk comes for them, ignorant of any words we say.
 
-We'll get there, with Nature's Currency. If only someone could have pushed the transition to it.
+We'll get there, with Nature's Currency. If someone pushes the transition to it.
 
-### Q: how does evolution work to create to creatures?
+### Q: how does evolution work to create new creatures?
 
 Evolution is a complex and fascinating process that has shaped the incredible diversity of life on our planet. At its core, evolution is driven by the mechanism of natural selection, which operates on the genetic variations that arise within a population.
 
@@ -224,7 +224,7 @@ While there are certainly some parallels between the biological constraints on l
 
 This highlights the importance of addressing these systemic imbalances and ensuring more equitable access to the resources and technologies that power human societies, in order to foster a more sustainable and resilient civilization, akin to the evolutionary processes that shape the natural world.
 
-### Q: in a few sentences can you describe how the storage of biological energy is finite and limited. and it degrade with time.
+### Q: in a few sentences can you describe how the storage of biological energy is finite and limited and that it in fact degrades with time.
 
 Certainly. The storage of biological energy in living organisms is finite and limited due to the following key factors:
 
