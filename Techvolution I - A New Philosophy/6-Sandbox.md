@@ -1,31 +1,56 @@
----
-title: A New Age Needs a New Philosophy
-lang: en-US
-description: Techvolution
+### US Bill of Rights
 
-layout: doc
-aside: false
-prev:
-  text: 'Home'
-  link: '/'
-next:
-  text: 'Preface'
-  link: '/a-new-philosophy/start'
+1st - Protects freedom of religion, freedom of speech, freedom of the press, freedom of assembly and the right to petition the government.
+2nd - Protects the right to keep and bear arms.
+3rd - Restricts the quartering of soldiers in private homes.
+4th - Prohibits unreasonable searches and seizures and sets out requirements for search warrants based on probable cause.
+5th - Sets out rules for indictment by grand jury and eminent domain, protects the right to due process, and prohibits self-incrimination and double jeopardy.
+6th - Protects the right to a speedy public trial by jury, to notification of criminal accusations, to confront the accuser, to obtain witnesses and to retain counsel.
+7th - Provides for the right to a jury trial in civil lawsuits	.
+8th - Prohibits excessive fines and excessive bail, as well as cruel and unusual punishment.
+9th - States that rights not enumerated in the Constitution are retained by the people.
+10th - States that the federal government possesses only those powers delegated, or enumerated, to it through the Constitution, and that all other powers are reserved to the States, or to the people.	
 
----
 
-<style>
-</style>
+### Declaration of the Rights of Man, and the Citizen
+Article I – Men are born and remain free and equal in rights. Social distinctions may be founded only upon the general good.
 
-<script setup>
-  // rd egg
-  import { ref } from 'vue'
-  let rdegg=ref(false)
-  let footBarbie=ref(false)
-  // carousel
-  import Flipper1970 from "./components/Flipper1970.vue";
+Article II – The goal of any political association is the conservation of the natural and imprescriptible rights of man. These rights are liberty, property, safety and resistance against oppression.
 
-</script>
+Article III – The principle of any sovereignty resides essentially in the Nation. No body, no individual may exercise any authority which does not proceed directly from the nation.
+
+Article IV – Liberty consists of doing anything which does not harm others: thus, the exercise of the natural rights of each man has only those borders which assure other members of the society the fruition of these same rights. These borders can be determined only by the law.
+
+Article V – The law has the right to forbid only actions harmful to society. Anything which is not forbidden by the law cannot be impeded, and no one can be constrained to do what it does not order.
+
+Article VI – The law is the expression of the general will. All the citizens have the right of contributing personally or through their representatives to its formation. It must be the same for all, either that it protects, or that it punishes. All the citizens, being equal in its eyes, are equally admissible to all public dignities, places, and employments, according to their capacity and without distinction other than that of their virtues and of their talents.
+
+Article VII – No man can be accused, arrested nor detained but in the cases determined by the law, and according to the forms which it has prescribed. Those who solicit, dispatch, carry out or cause to be carried out arbitrary orders, must be punished; but any citizen called or seized under the terms of the law must obey at once; he renders himself culpable by resistance.
+
+Article VIII – The law should establish only penalties that are strictly and evidently necessary, and no one can be punished but under a law established and promulgated before the offense and legally applied.
+
+Article IX – Any man being presumed innocent until he is declared culpable if it is judged indispensable to arrest him, any rigor which would not be necessary for the securing of his person must be severely reprimanded by the law.
+
+Article X – No one may be disquieted for his opinions, even religious ones, provided that their manifestation does not trouble the public order established by the law.
+
+Article XI – The free communication of thoughts and of opinions is one of the most precious rights of man: any citizen thus may speak, write, print freely, except to respond to the abuse of this liberty, in the cases determined by the law.
+
+Article XII – The guarantee of the rights of man and of the citizen necessitates a public force: this force is thus instituted for the advantage of all and not for the particular utility of those in whom it is trusted.
+
+Article XIII – For the maintenance of the public force and for the expenditures of administration, a common contribution is indispensable; it must be equally distributed to all the citizens, according to their ability to pay.
+
+Article XIV – Each citizen has the right to ascertain, by himself or through his representatives, the need for a public tax, to consent to it freely, to know the uses to which it is put, and of determining the proportion, basis, collection, and duration.
+
+Article XV – The society has the right of requesting an account from any public agent of its administration.
+
+Article XVI – Any society in which the guarantee of rights is not assured, nor the separation of powers determined, has no Constitution.
+
+Article XVII – Property being an inviolable and sacred right, no one can be deprived of private usage, if it is not when the public necessity, legally noted, evidently requires it, and under the condition of a just and prior indemnity.
+
+### Summary of Third Estate
+The Third Estate had around 30,000 complaints and grievances to bring up during the Estates General in 1789. They wanted change but not for the whole French Society and did not expect this meeting of the estates to bring about a full-blown revolution1. The Third Estate refused to consent to the abolition of the sale of offices unless the nobles surrendered some of their privileges. They also spoke out mainly against the financial privileges held by the two other Estates. They were both exempt from most taxes such as the church tithe and the taille (the main direct tax). They also wanted to have a fair voting system in the Estates-General.
+
+The Tennis Court Oath was a dramatic act of defiance by representatives of the nonprivileged classes of the French nation (the Third Estate) during the meeting of the Estates-General (traditional assembly) at the beginning of the French Revolution. The deputies of the Third Estate, realizing that in any attempt at reform they would be outvoted by the two privileged orders, the clergy and the nobility, had formed, on June 17, a National Assembly. Finding themselves locked out of their usual meeting hall at Versailles on June 20 and thinking that the king was forcing them to disband, they moved to a nearby indoor tennis court (salle du jeu de paume). There they took an oath never to separate until a written constitution had been established for France
 
 # Techvolution: A New Philosophy - Preview
 
@@ -36,6 +61,215 @@ by Johnny
 December 2023 (manuscript)
 
 [Homepage](/) | [Techvolution: A New Philosophy](/a-new-philosophy/start)
+
+## Backpage
+
+
+
+## Inner Flap
+
+
+## Dedication
+
+For everyone using their soul while creating something new.
+
+## Quote
+
+> _"We shape our tools and thereafter our tools shape us."_
+
+[Marshall McLuhan](https://www.goodreads.com/quotes/tag/tools)
+
+
+## Note to the Reader
+
+
+
+## Table of Contents
+
+[[toc]]
+
+## Our problems - Rates Up
+
+What do you want from politics? If you want screaming, yelling, blame, and picking a group of people to fight. Go do that.
+
+Politics doesn't exist to fight. It exists so a group of people, from several, to millions, can come together and problems. People only fight when they can't compromise. Before we talk about how to fix our politics, we must understand what our politics is trying to fix.
+
+Here are a list of problem our society is facing today. These aren't Left or Right, but an extensive list of facts to give a picture on politics in America.
+
+The United States has been running consistent trade deficits since 1976 due to high imports of oil and consumer products. In 1974 it was about -2 billion. By 1988 it was -10 billion. By 2000 it was -30 billion and by 2018 it was minus -60 billion. If America was a business, charity, or person, it would be bankrupt.
+
+### Work
+
+In the United States, the ratio of personal income saved has gone down. 1963-1975 it was 10-15% and then lowered under 5% 2009. It increased a little for the next decade, but by 2022 it was again under 5%.
+
+The gap between productivity and a typical worker's compensation has increased dramatically since 1979 Productivity growth and hourly compensation growth, 1948-2022
+
+Productivity-1948-1979 Productivity +117.5%. Compensation +107.3%.. Productivity +64.7% Hourly pay +14.8%. Productivity has grown 4.4x as much as pay. 
+
+Fertility rate: children per woman. 1950 - 2.93.  1970 - 2.47. 2000 - 2.05. 2021 - 1.66. 
+
+Marriages per 1,000 people. Number of marriages in each year per 1,000 people in the population. In 1970 it was 10.60 in USA. Since then the slide has been 6.50.
+
+Stay-at-home parents in Canada.
+The number of single-earner families with a stay-at-home parent dropped from 1,487,000 in 1976 to 493,000 in 2015. Families with a stay-at-home mother declined by 1,025,000, whereas those with a stay-at-home father increased by 32,000. The number of stay-at-home mothers declined in almost every year between 1976 and 2015. The majority of the decline occurred between 1976 and 1991 (851,000, compared with 174,000 between 1991 and 2015). 
+
+**People aren't paid well despite being more productive. Not surprinsgly, people aren't having as many kids, aren't getting married as often, and both parents are increasing employed instead of someone concentrating on raising their kids.**
+
+### Health
+
+People have gotten unhealthier. For example, estimated prevalence of obesity which is a risk factor for chronic complications, including cardiovascular disease, and premature death. In 1975 11.70% were obese, by 2016 it was 37.30%
+
+The amount of medical doctors has barely changed in that period. Staying between 2.2 to 2.7 per 1000 people between 1995 to 2020. Meanwhile nurses per 1000 people has gone from 10 in 2000 to 12 in 2020. Hospital Beds went down in the United States. There were 8.5 per 1000 people in 1968 to 4.5 in 1992 to 3 in 2016.
+
+Roughly the same amount of doctors, more nurses, and less hopsital beds. 
+
+USA - 1930 - 0.34% government healthcare expenditure as a share of GDP.
+USA - 1960 - 1.09% government healthcare expenditure as a share of GDP.
+USA - 1990 - 4.54% government healthcare expenditure as a share of GDP.
+USA - 2020 - 15.95% government healthcare expenditure as a share of GDP.
+
+So, if medical care wasn't getting this money, where was it all going?
+
+Growth in the number of healthcare administrators has far outpaced growth in the number of physicians. Between 1975 and 2010, the number of U.S. physicians grew 150%, roughly proportional to population growth, whereas the number of healthcare administrators increased 3200%. Supporters of this exponential growth argue that increased administration is necessary to navigate changes in healthcare delivery, including advances in information technology, new regulatory requirements, and unprecedented levels of scrutiny. On the other hand, critics say administrator growth increases physician burnout. As administrators impose rules, management procedures, and regulations to streamline clinical processes and achieve the "triple aim" of healthcare, the burden often falls on physicians. 
+
+### Prison
+
+The year 2023 marks the 50th year since the U.S. prison population began its unprecedented surge. In 1972, the imprisonment rate was 93 per 100,000 people.11 The prison expansion that commenced in 1973 reached its peak in 2009, achieving a seven-fold increase over the intervening years. Between 1985 and 1995 alone, the total prison population grew an average of eight percent annually. And between 1990 and 1995, all states, with the exception of Maine, substantially increased their prison populations, from 13% in South Carolina to as high as 130% in Texas. The federal system grew 53% larger during this five-year period alone.
+
+### Environment
+
+Global Greenhouse Gas Emissions Data. Global carbon emissions from fossil fuels have significantly increased since 1900. Since 1970, CO2 emissions have increased by about 90%, with emissions from fossil fuel combustion and industrial processes contributing about 78% of the total greenhouse gas emissions increase from 1970 to 2011. Agriculture, deforestation, and other land-use changes have been the second-largest contributors.
+
+CO2 Emissions in World increased to 34344006.07 KT in 2019 from 34289350.66 KT in 2018. CO2 Emissions in World averaged 21959280.11 KT from 1960 until 2019, reaching an all time high of 34344006.07 KT in 2019 and a record low of 9423934.42 KT in 1961.
+
+Carbon dioxide emissions account for the largest share of greenhouse gases which are associated with climate change and global warming. Data for carbon dioxide emissions include gases from the burning of fossil fuels and cement manufacture, but excludes emissions from land use such as deforestation. Oil releases about 50 percent more carbon dioxide than natural gas, and coal releases about twice as much. Carbon dioxide emissions are often calculated and reported as elemental carbon. The unit of measurement is kt (kiloton).
+
+1968 - 14000000 KT
+1980 - 20000000 KT
+2004 - 27000000 KT
+2016 - 33000000 KT
+
+### Debt
+
+People need money and so do governments. Debt is used by everyone to pay for things today...
+
+National debt of the United States has been growing. In 2006 it was 8 trillion, 2016 18 trillion, and 2024 34 trillion.
+
+Federal debt to revenue ratio The federal government has a 6.75 to 1 debt to revenue ratio as of Q2 2023.
+1966 - 2.2
+1976 - 2.0
+1990 - 2.8
+2004 - 3.5
+2010 - 5.3
+2020 - 6.1
+
+The United States recorded a Government Debt to GDP of 129 percent of the country's Gross Domestic Product in 2022. Government Debt to GDP in the United States averaged 65.20 percent of GDP from 1940 until 2022, reaching an all time high of 129.00 percent of GDP in 2022 and a record low of 31.80 percent of GDP in 1981. source: Office of Management and Budget, The White House
+
+1945 - 119%
+1955 - 65%
+1972 - 35%
+1989 - 55%
+2006 - 61%
+2023 - 130%
+
+Consumer and Government Debt as a % of GDP
+
+1966 - 80%,
+1980 - 75%,
+1990 - 110%,
+2000 - 105%,
+2010 - 180%,
+2019 - 175%,
+
+---
+
+All of these growing problems leads us to the expression of frustration. All governments, whether its an elected one or not, usually promises prosperity. Governments leaders act like parents, people with the authority but also the responsiblity to provide food, shelter, hopes and dreams to their followers.
+
+Hence today's ragged political climate. When the National Election Study began asking about trust in American government in 1958, about three-quarters of Americans trusted the federal government to do the right thing. Trust in government began eroding during the 1960s, recovered in the mid-1980s, but falling again in the mid-1990s. Since 2007, the shares saying they can trust the government always or most of the time has not surpassed 30%.
+
+People don't trust government as much because they feel government is negging on their deal to provide a happy life.
+
+Today's politics will solve all these problems by blaming someone else. Far from being the solution, they point the finger. Hence it is widely reported that partisanship in the United States Congress is at an historic high. We quantify the level of cooperation between Democrat and Republican Party members in the U.S. House of Representatives from 1949-2012. We find that despite short-term fluctuations, partisanship in the U.S. Congress has been increasing exponentially since the 1970s with no sign of abating or reversing.
+
+We want to solve these problems. Our political representatives, parties, ideologies are not solving problems. Before we talk the new ideas that is Techvolution, let's look at how Life solves problems. She's been doing it quite a bit longer.
+
+<Flipper1970 />
+ 
+## How Life Solves Problems
+
+Whatever problems you have, Life has dealt with it before. Hunger, loneliness, thirst, cold, these are all constant problems for anything living on Earth. So while you think of your problems today, a penguin is diving for fish, an ant colony is raiding its neighbor, a polar bear is stalking a seal, and trillions more lifeforms are also battling for survival.
+
+Living in the wild is tough, but many creatures struggle extra hard today. The environment is changing fast. Among other things, forests, greenfields, and ice caps are disappearing. That means lifeforms such as polar bears have increasingly unhelpful adaptations. They have Life's burning desire to survive and procreate, but their form of white coat and colossal bulk is losing its once mighty advantage to kill seals in the Arctic.
+
+What options does the polar bear have?
+
+Let's look at another creature that faced a similar problem. 
+
+Earth is always changing. 2.3 million years ago it was changing especially fast in the space between North and South America. Central American was born after two tectonic plates smashed into each other. At the same time, the Pleistocene glaciation was spreading huge glaciers. Many animals near the polls needed to move. Happily, there was a new land bridge to give everyone a place to aim for a better life.
+
+During this time the dull-colored bird flew out from South America into the Pacific ocean, likely blown out by storms and not showing an explorers spirit. Some birds eventually found salvation in a series of volcanic islands today called Galapagos. Like the polar bears today, these creatures were stuck in a totally new environment.
+
+There are 18 major Galapagos islands. Each are different. Some are new volcanic islands similar to Hawaii. Lush and full of Life. Other islands are old and weathered down by the elements and look almost empty of Life.
+
+But these islands are all the original birds had. So Life went to work.
+
+Life can't assess her environment and available resources and create the traits she needs to survive. Instead, Life slightly changes the genes of new offspring during reproduction. Thus the single bird ventured out into the the many different islands. The birds with the right traits for a particular environment found enough resources to procreate and pass on their beneficial genes. The ones who struggled eventually died off, saving the finch population of its unhelpful traits.
+
+The small birds famously evolved to have different beaks which are suited to different food types such as large seeds, small seeds, berries and insects. With no other birds around, these finches evolved to occupy all different niches in the ecosystem. With Life's evolution at is back, the small bird that landed on a new land, soon became different species, a staple of its many different ecosystems.
+
+When Charles Darwin visted the Galapagos, observing these finches helped him unlock the story of evolution. When Darwin was born people thought God created all Life about 5,000 years ago.
+
+The truth is, we weren't the first species to live on Earth, and we won't be the last. Life has survived billions of years without depending on any species. There's nothing special about any creature. We each survive and thrive according to the same laws of evolution.
+
+Life needs evolution because the Universe is a hostile place. It's constantly changing as mountains fall apart, volcanoes erupt, stars emit radiation, waves wash away shorelines, and endless more things transform our planet. To respond to a changing environment, Life must evolve new species.
+
+Creatures continue playing because their combination of attributes gives them an edge. But, as the planet inevitably changes, traits lose their advantage. Thus, while evolution is a constant race to harvest resources more efficiently, no species ever knows if its list of adaptions is good enough to overcome the problems of its environment. That's why pain hurts so much; it's Life's way of telling individuals to change their behavior and try something else before it's too late.
+
+Evolution has these laws:
+
+ - No species survives forever.
+ - All lifeforms have a common ancestry.
+ - Evolution of new species is gradual.
+ - The number of species always multiplies to fill niches.
+ - Natural selection determines which individuals lives on.
+
+These laws describe the patterns and processes of evolution. The competition started after a few amino acids combined to form the first cells 3.6 billion years ago. Since then, evolution has continually created new species. Each is based on the prior one, but each removes or adds traits to find an edge. That edge could mean simple improvements like getting bigger or smaller, faster or slower. Or, the edge could be a specialization to find a niche no one else has, such as polar bears being the only seal hunters seals in a frozen ecosystem.
+
+Regardless of what new adaptation an organism evolves, evolution's selection of the best adaptations requires daily and hourly scrutiny throughout the world of every adaptation, even the slightest. The best way to continually test species is with ecosystems. By putting creatures inside a shared environment, there are checks and balances to keep everyone able to harvest resources from the environment and each other. So when any plant, fungus, scavenger, predator, herbivore, or omnivore falls behind, Life can easily search the ecosystem and create a new species to take the laggard's place. Crucially, all lifeforms cooperate inside ecosystems to keep Life playing the game of survival.
+
+![Evolutionary Spiral](/assets/speciation-elephants.png)
+_The Evolutionary Spiral in the [history of Life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life). Evolution is seamless from Life's perspective._
+
+The story of Life is billions of years old, involving trillions of lifeforms. Happily, the pages are very organized. Since Life adapts to its surroundings, we can track evolution using Earth's geological changes. Each period, epoch, and age of Earth's geography, from the Jurassic to the Paleozoic, have different characteristics like concentration of oxygen in the air, amount of water in the oceans, or ice in the poles. These geological changes are chapters in the story of Life.
+
+While Life's evolution was relatively seamless between each chapter, species often had an agonizing time during the transition. Each time Earth's geology changed, it was like a climactic conclusion asking if an individual's list of adaptations would prosper in the new environment. The few creatures who passed the test climbed the ladder to the next age, while most species went around in circles, stubbornly fighting their inevitable extinction; their existence was only remembered as fossils to be maybe uncovered one day. 99% of all the species that have lived are dead.
+
+![Evolutionary Spiral](/assets/speciation-elephants.png)
+_The Evolutionary Spiral in the [history of Life](https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life). From a lifeform perspective, evolution is a series of death circles._
+
+It took scientists centuries to demystify the story of Life's evolution, and this summary misses the many details. But the essence is here: Life must adapt new species to Earth's ever-changing environment. The faster, the better; the more species, the better. Individual evolution suffers no interference because individuals are Life's unit of selection. Wherever there's liquid water, an artist named evolution works night and day, creating custom lifeforms to harvest every possible ray of sunshine, food scrap, and heat source. Evolutions's constant stream of creations is the only reason Earth isn't just another rock revolving around a star with no one to notice how beautiful the Universe is.
+
+Because animals sadly can't change their genes. Like the polar bear now, all must endure the pain of "survival of the fittest" to evolve. We humans also evolved via the same laws of evolution. But once we invented technology, our evolution started to look a little different.
+
+## How We Solve Problems
+Technological Evolution
+
+## How We Think We Solve Problems
+
+Gods keep dying off. Julius. Louis.
+
+Mythologies for antagonist. ie. Sexism
+Counter, yet more accurate, mythologies for heroes. ie feminism
+
+## Modern traits
+Node.js  Ruby. 
+
+## What we need to solve problems
+To use modern traits to fix modern problems we need mixed ideological politics. 
+
+<span v-if="rdegg" class="footnote"> F!ck my failure and fortune. 🔻💚<img src="/assets/rates-down.png" alt="rates-down logo" style="width: 23px; display: inline; vertical-align:bottom;"></span>
+
+## Preview Old
 
 ## Backpage
 
@@ -598,4 +832,3 @@ As it does for all creatures, Mother Nature decided individual freedom works. Am
 - put a example, video etc. at the end of section that shows how because we don't measure frontline pain, we don't respond to it. we measure growth. so we should stop measuring housing starts, and instead measure mortgage paid off. outstanding mortages. homeless rates, etc.
 
 - Breakthroughs. Best tool for the job.
-

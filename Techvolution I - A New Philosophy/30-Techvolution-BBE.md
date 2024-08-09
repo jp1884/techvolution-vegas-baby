@@ -1,5 +1,7 @@
 
-# Elon's Ark Notes
+# Techvolution - Bumble-bee Economics
+
+## Notes
 
 Prompting Claude 3 to get to the essence of, and the dire need for, "God/Nature's Currency." Without it, we suffer from dreams of increasing avarice i.e. people who dream of their genes lasting forever by trying (and inevitably failing) to make success on the technological tree of Life perpetual. Spanish conquistadors who saw mountains of gold as their ticket to gene immortality tried this and caused the opposite Spanish Price Revolution; nevermind the death and destruction. There are nearly infinite other examples. We're in for many more as more modern technology is "gold," so to speak, doesn't naturally decompose, and thus inflicts the dream of forever Life into our minds like the flickering of gold into the eyes of a Spaniard stepping on the Andes.
 

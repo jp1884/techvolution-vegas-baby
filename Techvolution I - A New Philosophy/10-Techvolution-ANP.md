@@ -9,9 +9,9 @@ by Johnny
 
 ## Backpage
 
-Republicans are making the middle-class great again. Filled with patriots, the party is giving regular people better jobs and honest government. Don't be a socialist; fight with them!
+Republicans are making the middle-class great again. Filled with red-blooded patriots, the party is giving regular people better jobs and honest government. Don't be a socialist; fight with them!
 
-No, wait. The Democrats are the ones fighting for America. They are saving us from climate change, racism, sexism, elitism, while making sure everyone gets their fair share. Fight fascism, fight for progress!
+No, wait. The Democrats are the ones fighting for America. They are saving us from climate change, racism, sexism, elitism, chauvinism while making sure everyone gets their fair share. Fight fascism, fight for progress!
 
 Our politics is filled with black and white messages like these because Left and Right ideologues keep spreading their biased stories throughout society. I'm sick of their toxicity.
 
@@ -21,97 +21,149 @@ Let's get started.
 
 ## Quotes
 
-"Techvolution is just a ploy by the capitalist elite to undermine our vital progressive work. Why do we need wealth creation and distribution at the same time. We need bold, revolutionary action, not compromises with the oppressors."
-_A Proud Anti-Trumper_
+"Techvolution is just a ploy by the capitalist elite to undermine our vital progressive work. Why do we need wealth creation and distribution at the same time. We need bold, revolutionary action, not compromises with the oppressors. Let my grandkids worry about petty things like the rising cost of living."
+_A Ethically-minded American resident_
 
-"So called "Techvolution" is just more liberal elitism undermining real American values. I'll stick with proven conservatism and capitalism over this evolutionary nonsense any day."
+"So called "Techvolution" is just more liberal elitism undermining real American values. I'll stick with proven conservatism and capitalism over this evolution nonsense any day. Let these lazy kids buy a house after they learn to get a secure job for life, with a pension; like I did."
 _A True American_
 
 "Global instability, resource wars, societal collapse? That's a 'you' problem, not a 'me' problem. I don't need widespread political compromise and steady economic development. I plan to ride out whatever problems other people face inside the comfort of my home."
-_Ossie Ostrich_
+_Has a government job_
 
-"Gone are the days of feeling helpless in the face of social injustice, government overreach, and other global crises. Techvolution equipped me with an evolutionary framework to navigate our technology-driven world."
-_An American Who Wants to Pay Their Bills_
+"Gone are the days of feeling helpless in the face of social injustice, government overreach, and the rising cost of living. Techvolution equipped me with an evolutionary framework to navigate our technology-driven world."
+_An American who wants to pay their bills_
 
 ## Inner flap
 
 There's good reason our political landscape is dominated by extremist ideologues; they tell a great story.
 
-Broadly speaking, Republicans are right-wing because they align with Conservatism and Capitalism, while the Democrats are left-wing because they embrace Progressivism and Socialism. All of these philosophies were created centuries ago by people desperate to industrialize their agraian societies. Being poor, hungry, and cold is why these societies raced so hard to conquer the Industrial Age (1776-1969). For example, Roosevelt and his Trustbusting fought against monopolies from stifling competition, and the other Roosevelt and his New Deal fought against economic depressions by creating a social safety net.
+Broadly speaking, Republicans are right-wing because they align with Conservatism and Capitalism, while the Democrats are left-wing because they embrace Progressivism and Socialism. All of these philosophies were created centuries ago by people desperate to industrialize their agraian societies because who wants to be poor, hungry, and cold. The race to mass-productionw as on, and the competitors tried different politics and economics to build the best roads, radio networks, factories, and other cool things. American politics tried things like Roosevelt's trustbusting monopolies to open up competition, and the other Roosevelt's fought against economic depressions by creating a social safety net.
 
-Today's ideological extremists use this history portray their side as righteous protectors and the "other" as a constant threat. Both sides ignore the fact industrialization was a long road, took hundreds of years, and each ideology had successes and failures. But since they have no new ideas, today's Left and Right must take the credit for America's industrialization by attacking the other side.
+Today's ideological extremists use this history to portray their side as righteous protectors and the "other" as a constant threat. Both sides ignore the fact industrialization was a long road, took hundreds of years, and each ideology had successes and failures, but since they have no new ideas, today's Left and Right must take all the credit for America's industrialization by attacking the other side.
 
 And, they tell a great story. Once their captivating tales fill your mind, they obscure nuance, complexity, and history in favor of the excitement of cheering for "the good guys".
 
 Techvolution can't compete with this chorus of entertainment. I don't want to. Anyone with easy answers to our problems is lying to you. No one has ever built a society with today's technology facing today's challenges. This is the first time Earth has 7+ billion people, advanced robotics, electric cars, AI, nuclear weapons. How could anyone have all the solutions? 
 
-And here's the face palm movement, todays ideologies were created by people you would consider very out of the loop. Famous thinkers like Adam Smith, Karl Marx, Edmund Burke, John Stuart Mill never used a toilet, never sat in a car, never disinfected a wound. They each have lessons to teach, but their devout followers today are like dinosaurs trying to survive after the world has moved on, clinging to outdated worldviews ill-suited for the modern era.
+And here's the face palm movement, todays ideologies were created by people very out of the loop. It's founding thinkers like Adam Smith, Karl Marx, Edmund Burke, John Stuart Mill never used a toilet, never sat in a car, never disinfected a wound. They each have lessons to teach, but their devout followers today are like dinosaurs trying to survive after the world has moved on, clinging to outdated worldviews ill-suited for the modern era.
 
-So no, Techvolution avoids easy answers, because there are none to anyone out to solve today's problems. Instead, this philosophy empowers you to ask better questions, so you can discover lasting solutions. Techvolution empowers you to solve problems by explaining why civilizations prosper and fall because of technological evolution; hence the new word "Techvolution".
+So no, Techvolution avoids easy answers, because there are none to anyone out to solve today's problems. Instead, this philosophy empowers you to ask better questions, so you can discover lasting solutions to the problems of your unique life. Techvolution empowers you to improve your situation by explaining how civilizations, and the people inside them, prosper and fall because of technological evolution; hence the new word "Techvolution". It's a new philosophy that will direct you to a brighter future.
 
-Instead of parraoting Left-Right industrilaiztion politics, metrics, and policies, Techvolution equips you with an understanding of the fundamental laws governing life's remarkable evolution on Earth. Techvolution can't be entertainment because it stops you being a spectator, and turns you into an active agent with your own political story, living in an economy that generates and distributes wealth for everyone who works for it.
+Instead of repeating Left-Right industrilaiztion politics, metrics, and policies, Techvolution equips you with an understanding of the fundamental laws governing life's remarkablelt successful evolution on Earth. Techvolution can't be entertainment because it stops you being a spectator, and turns you into an active agent with your own political story, living in an economy that generates and distributes wealth for everyone who works for it.
 
 I'll do my best to make this new philosophy fun though. Because the future should be.
 
-## What the ideologues say
+## Dedication
 
-*clears throat and speaks in a gruff, dismissive tone*
+_This book is for the open-source community. For the collaboration work ethic you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Internet Age. You gave the best education a political guy can get. But I hope this book inspires you to (no offence) stop re-creating Javascript frameworks, and directs your side-projects to build the Internet Age before its too late._
 
-Bah, this "Techvolution" nonsense is just more of that liberal, elitist garbage trying to undermine good, honest American values. Who does this author think they are, trying to lecture us with their fancy "evolutionary biology" and "fundamental laws of life"? 
+_This book is especially dedicated to the extras on Main Street. When it's time for you to act, I pray you decide to play the game of evolution and reach for the future the open-source heroes made for you._
 
-What happened to just standing up for hard work, family, and the free market? This is just another scheme by the left-wing academics to brainwash people and turn them against traditional conservatism and capitalism. 
+---
 
-And don't even get me started on how they're trashing the Left and Right as "ideologues" and "entertainment." That's rich coming from someone who's probably some coastal elite who's never set foot in a real factory or family-owned business. 
+"_We are really the revolutionaries in the world today—not the kids with long hair and beards who were wrecking the schools a few years ago._"
 
-No, I'll stick with the tried-and-true principles that have made this country great, thank you very much. This "Techvolution" is just another fancy name for socialism and big government overreach. I'll take my chances with the good old Left-Right divide any day over this pseudo-scientific mumbo jumbo.
+Dr. Gordon Moore, author of Moore's law, 1973.
 
-*spits on the ground* The only "progress" I care about is putting America and hardworking Americans first. This author can take their evolutionary nonsense and shove it.
+## Foreword
 
---
+My oldest child enrolled in a beginner Spanish class. It wasn't long before the teacher suspected (correctly) that Spanish was his mother tongue. To test him, Ms. Milgram showed words of colors typed in a different color, so "red" was shown in blue ink for example. With only a half second to see each slide, my son had to say the color each word was written in.
 
-*speaks in an indignant, self-righteous tone*
+<LanguageTest />
 
-Ugh, this "Techvolution" nonsense is just another ploy by the capitalist elite to undermine the hard-fought progress we've made on the left. Who does this author think they are, trying to lecture us about "evolutionary biology" and "fundamental laws of life" as if that's somehow more enlightened than our proven socialist principles?
+It's nearly impossible to cheat the test. Even if you're pretending ignorance, your mind reads the word "red" before seeing it's typed in blue. My kid was soon found out and took the advanced Spanish class. I laughed when he told me the story. I advised him to take a lesson from it.
 
-This is clearly just a thinly veiled attempt to discredit the vital work we're doing to dismantle systemic oppression, address climate change, and create a more equitable society. They want to act all high and mighty about being "moderate" and "pragmatic," but we all know that's just code for preserving the status quo and protecting the interests of the wealthy few.
+No lifeform can ever stop evolving; it's a mindset only for the doomed.
 
-And the way they dismiss the Left and Right as mere "ideologues" and "entertainment" is so condescending and elitist. As if our hard-fought ideological battles aren't the very foundation for the progress we've made! This author probably thinks they're so clever, but they're just another mouthpiece for the capitalist machine, trying to undermine the revolutionary spirit of the people.
+That's the reason I still read this book today in 2083. I never want to go back.
 
-Well, I've got news for them - we're not going to back down or compromise our values just to appease some so-called "moderate" agenda. The time for half-measures is over. We need bold, transformative action to create the just, sustainable world we know is possible. This "Techvolution" is nothing but a distraction from the real work that needs to be done.
+---
 
-*slams fist on table* No more playing nice with the oppressors. It's time to fight for a future that works for everyone, not just the wealthy elite. This author can take their evolutionary pseudoscience and shove it - the revolution is coming, whether they like it or not!
+I sometimes forget _Techvolution_ was as transformative as it was.
+
+Was humanity ever so hamstrung?
+
+Did ideology control economics the same way religion once did politics? Were people loyal to their personalities instead of their achievements? Why were there so many currencies instead of using God's currency? Would teachers demand that their students not use the latest technology because they wanted safe jobs for life teaching ancient technology?
+
+It's even more confusing trying to understand how regular people responded to their evolution being held back. They would watch ideological stories on a screen and call that politics. They would have one career for life, and therefore one ideology for life, regardless of changes in technology, demographics, and environment. Did parents really raise their kids in suburban isolation while showering them with generic mass-produced items instead of instilling a God-given requirement to use their gifts, physique, passions, to solve their own problems?
+
+The hard truth is yes, we used to live this way. I must remember that. It's easy to forget that humanity once fought our evolution instead of our natural enemy.
+
+Our true enemy is Entropy, the catchall term for the continuous change of our environment through ice storms, hurricanes, solar radiation, and everything else making Life on Earth a constant work in progress. For billions of years, every organism has rushed to stay ahead of the nasty, brutish, and short-life Entropy can cause. Did humanity think we must not be vigilant?
+
+Of course we must! Like any animal, Entropy is always on our tail. We feel the agony of pain as a blessed warning to avoid chutes and cherish ladders while living on the gameboard of evolution; only by reducing pain can we stay ahead of Entropy's wrath.
+
+Yet, we are not solely biological creatures. Did the caveman start a fire with lasers from his eyes? Did explorers map the world by flying across oceans? No, we are not superheroes. Our race, sex, and genetics do not keep us warm or grow our food.
+
+We are all biological vessels for technological evolution. We are not a species, but many species. Our diversity exists to we can operator entire technological ecosystems.
+
+We outrace Entropy by learning the language of our fate: the free and widespread creation, adoption, and replacement of technologies on the technological tree of Life. Technological evolution has the exact requirements as the normal evolution that powers everything from slime molds to blue whales. We need unfettered innovation to create a variety of new technological adaptions. Whichever adaptions most efficiently harness resources captures a niche and is rewarded with a job in Life's holy war against Entropy.
+
+That's why our most important identity is the tools we use. Our tools, not our biology, enable us to find a niche and earn a living. Importantly, unlike biological animals, we can replace our tools and become new and improved technological species throughout our lifetime. Inventors are thus our heroes, the people who help our technological evolution are our allies, and those who oppose our technological self-improvement are our, and evolution's, antagonists.
+
+Seeing ourselves as biological beings had us chasing shadows.
+
+When we primarily identified with race, gender, or ethnicity, it allowed those with control over an important technology, from princes to supervisors, to become gatekeepers and stop everyone's evolution. Our false biological identities gave antagonists the falsehoods they needed to spin-up ideological stories about why their racial, gender, or noble superiority (supposedly) put them above participating in the evolutionary race everything must run.
+
+Humanity would fight against these fictions, only to see another version pop up. Like a hydra, racism, sexism, and elitism are re-told by antagonists over and over because running the race of technological evolution is scary. So, antagonists hide their antagonism by weaving ideological shadows.
+
+We were born free, but everywhere, our technological evolution was chained.
+
+Yet, even with all their talented storytelling, antagonists always failed. They always prove human survival on this lifeboat called Earth is not based on our biology. Anyone who ever preached biological superiority inevitably fell in the face of technological progress.
+
+That progress wasn't perfect. Filled with antagonism, our evolution was so sporadic and uncertain that Entropy often caught-up up to humanity on the game board of evolution. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. The primary cause in these human affairs was not failed government policy or unfair history; it was thwarted evolution, i.e., the stream of adaptions needed to outrun Entropy was stalled because people wouldn't or couldn't adopt innovation fast enough.
+
+Every biology student learns evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. That's why today, we protect every individual's technological evolution as a sacred right and teach it as an absolute obligation.
+
+Harnessing technological evolution seems simple to us now, but it took a big change to get here. Galileo taught us science over mythology, Jefferson freedom over servitude, Darwin evolution over creationism; this book teaches us Techvolution over ideology. The pathway to healthy economics is democratized, interoperable, and open-source technological products that let everyone find their niche. We judge our economic success by measuring the health of our technological ecosystem's checks and balances as biologists do with the natural world. Healthy politics is ensuring everyone has easy access to the tools that solve their pains.
+
+Because of Techvolution, we no longer have ideologues telling extremist stories to keep their followers loyal. Instead, we practice Techvolution that promotes moderation and problem-solving with its mixed-ideological politics and bumblebee economics. 
+
+This change finally unlocked the productivity boosting potential of Internet Age technology like 3D printers, Augmented Reality, and Artificial Intelligence.
+
+Yet human Nature is not perfect. We still have many problems today. But at least we know antagonism byway of bullying, lawsuits, and violence comes too naturally when we have authority over others, from teachers to coaches, executives to princes. We understand antagonism must be purged in ourselves and our community via the universal experience of real-life troubles (Mixed-Ideological Politics) and the reliance on others to solve our pains (Bumble-bee Economics).
+
+Knowing Techvolution is like learning a language because once you understand this way of thinking, you automatically realize better tools are the true levers of power. This new philosphy also teaches us that gatekeeping a technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems and thus antagonism leads to its own inevitable destruction.
+
+Now, I must thank those who took the first leap. Decades ago many brave parents unplugged from ideology and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's new modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving ecosystem that's using Nature's currency to harness energy more efficiently every day. 
+
+Now, our kids don't die in ideological wars, suffer economic depressions, and only rarely struggle with psychological torments.
+
+Instead, they are busy rolling their own dice on the gameboard of evolution as they work with other frontline workers under minimal, open, and accountable leadership, using any tool they need. Nature's currency interconnects them inside a technological ecosystem filled with open-source and interoperable tools that is selecting new adaptations so quickly it's edging us closer to perpetual profit while evolving Life closer to our glorious future among the stars.
+
+Along with their teachers and leaders, I helped my kids find their technological niche. And now I get to watch them achieve their very best. I advise them to re-read this book often to be sure their kids will continue evolving mankind to our highest potential.
+
+A happy and loving mother
+circa 2083
+
+P.S.
+I shudder to think of our fate had we continued to interpret our reality using ideologies that blamed each other for their shared inability to drop old ways of living and work hard to that give our kids a happy life.
 
 ## Introduction
 
-Before you learn about how MIP and BBE will usher in a beautiful new age of humanity, we need to confront extremists. Even if you want to just ignore them, eventually they'll come after you.
+There is joke about a physicist trying to explain gravity to a dog. It's not a funny bit so I'll spare you, but the point is there's no chance the dog will ever get it, so the physicist is wasting her time trying.
 
-Traditional Left vs Right was always fiesty but it was mostly cooperative. Now Left and Right are oil and water. Are you for Trumpism or are you a radical socialist? Do you think Black Lives Matter or are you a slave-owning racist? There's no middle-ground with these questions on purpose. Extremists taking everything to an extreme to keep loyalists in and outsiders out.
+Your life, job, civilization's success and failure is governed by the laws of evolution. We understand how the rules of biological evolution apply to creatures, but we don't yet understand how the laws of evolution determine our fate.
 
-Do you think you're going to make it?
+Learning evolution, actually Techvolution, will be hard. Not only because of the things to learn, but for the knowledge you must unlearn and perhaps most difficult, the things in real life--like the identities the Left and Right like to label each other with--you must move past like a fast food that it is.
 
-Of course I don't mean you and your family are in danger. Unless you live in Ukraine, Russia, Palestine, Israel, Sudan, Taiwain, Korea, Kasmir, or any of the other flash points at different levels of illumination. Those troubles won't spread. You're in a special place, you'll be safe.
+One way to tip your interest towards an education in Techvolution is asking, do you think you're going to make it?
 
-For generations, historians have said we've been living in a "long peace". Since the end of World War II, the world have been remarkedly free from the mass famines, plagues, enslavement, and wars typical in human history. It was once routine for 10-90% of human populations to die off every once in a while.
+Of course I don't mean you and your family are in danger. Unless you live in Ukraine, Russia, Palestine, Israel, Sudan, Taiwain, Korea, Kasmir, Sri Lanka, or any of the other flash points at different levels of illumination. Those troubles won't spread. Once you choose one of the warring Left/Right ideologies, you'll have someone to blame, and protesting and rioting against another group of people will keep you safe.
 
-Lately, for all but he most unfortunate, most people in the world, especially the western world, have been well fed, healthy, and safe. With the high employment, full grocery stores, cheap energy, widespread entertainment, what pain has anyone felt to prove the long peace won't last forever?
+Perhaps I'm being too coy, but blaming someone else is the theme of many Left vs Right debates. And for good reason. The increasingly nasty words in American politics is an example of the conflicts simmering, or raging, around the world today.
 
-The long peace has made us ignorant of pain. Yet, thirst, hunger, cold, heat, and other pains, is what evolution uses to tell lifeforms to change their ways.
+These fights aren't random. They are caused because our way of life that was born in the Industrial Age and spread around the world during globalization, is well past it's life expectancy. The automobile that once sped up transportation, is often sitting in gridlock. The tasty fast food that was once a enticing treat, is now daily food causing mass health problems. The suburban house that once held many friends and tupperware parties is increasing so expensive the youth can't find affordable housing.
 
-Some of our pains today depend on who you are. But expensive housing, inflation, 
+Many of the once innovation Industrial Age products are aging.
 
-No other lifeform gets to live like this. By avoiding pain, we've been avoiding evolution. Hence we haven't changed our ways. We still assume a single-family suburban home with two cars, a college education, and lifetime employment that started in the 1950s, is the only way to live. With extremsists controlling our politics, as this way of life struggles, we cast blame instead. 
+Therefore, the people who use those products, are feeling the pains of old-age too. We'll go into this in much detail later, but being behind the evolutionary times is why our wars have been increasing. How using Industrial Age political ideologues and economic systems makes us dinosaurs is the lesson of "Techvolution" I want to teach you. 
 
-Evolution has no morals. It hears no speeches, records no history, enforces no justice. Even if evolution did somehow care about your opinions, ideology, religion, it doesn't speak any language, so how would you argue, ask, or demand anything? Rabbits, bears, fish, every lifeform understands they must harvest energy today so they can see tomorrow. That's the test life demands.
+If you were standing at the base of the ladder of evolution, you would be standing the Industrial Age. At the top is the Internet Age. It's ready for you to go there and populate it with Mixed-Ideological Politics and Bumble-bee economics. 
 
-That's the test extremists don't allow, because they love their beliefs so much, they'd rather go down fighting for them, instead of evolving by coming up with something new.
+But the first steps on the ladder is a quick lesson in evolution.
 
---
-
-Inflation, war, increasing temperatures. We're finally starting to feel the pain of the "let's enjoy ourselves" choices we made during the long peace. Bigger houses, cars, meals, and all that consumerism isn't tasting so good. Someone's got to pay the bill. The battle between Left and Right is mostly arguments that the other side should bear the burden of our society's wasteful way of life we adopted during the long peace.
-
-With the stakes so high, regular people are talking politics more often lately. Oh people are protesting occupations, this and that.
-
-This book was written to empower you to shut up and evolve. With evolution behind you, you'll make political and economic choices so good, you'll prolong the long peace so long your great-great-great-great grandkids will be happy, safe, and employed.
+## Evolution
 
 To make the best possible choice we need to step back and reflect on our situation as much as possible.
 
@@ -183,27 +235,7 @@ You'll notice that the dinosaurs
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+====
 
 
 
@@ -632,3 +664,30 @@ The "Techvolution" is just a ploy by the capitalist elite to undermine our vital
 
 "Techvolution may not offer entertainment value, but it gave me something far more valuable - the tools to be an active agent of positive change, not just a spectator."
 
+## What the ideologues say
+
+*clears throat and speaks in a gruff, dismissive tone*
+
+Bah, this "Techvolution" nonsense is just more of that liberal, elitist garbage trying to undermine good, honest American values. Who does this author think they are, trying to lecture us with their fancy "evolutionary biology" and "fundamental laws of life"? 
+
+What happened to just standing up for hard work, family, and the free market? This is just another scheme by the left-wing academics to brainwash people and turn them against traditional conservatism and capitalism. 
+
+And don't even get me started on how they're trashing the Left and Right as "ideologues" and "entertainment." That's rich coming from someone who's probably some coastal elite who's never set foot in a real factory or family-owned business. 
+
+No, I'll stick with the tried-and-true principles that have made this country great, thank you very much. This "Techvolution" is just another fancy name for socialism and big government overreach. I'll take my chances with the good old Left-Right divide any day over this pseudo-scientific mumbo jumbo.
+
+*spits on the ground* The only "progress" I care about is putting America and hardworking Americans first. This author can take their evolutionary nonsense and shove it.
+
+--
+
+*speaks in an indignant, self-righteous tone*
+
+Ugh, this "Techvolution" nonsense is just another ploy by the capitalist elite to undermine the hard-fought progress we've made on the left. Who does this author think they are, trying to lecture us about "evolutionary biology" and "fundamental laws of life" as if that's somehow more enlightened than our proven socialist principles?
+
+This is clearly just a thinly veiled attempt to discredit the vital work we're doing to dismantle systemic oppression, address climate change, and create a more equitable society. They want to act all high and mighty about being "moderate" and "pragmatic," but we all know that's just code for preserving the status quo and protecting the interests of the wealthy few.
+
+And the way they dismiss the Left and Right as mere "ideologues" and "entertainment" is so condescending and elitist. As if our hard-fought ideological battles aren't the very foundation for the progress we've made! This author probably thinks they're so clever, but they're just another mouthpiece for the capitalist machine, trying to undermine the revolutionary spirit of the people.
+
+Well, I've got news for them - we're not going to back down or compromise our values just to appease some so-called "moderate" agenda. The time for half-measures is over. We need bold, transformative action to create the just, sustainable world we know is possible. This "Techvolution" is nothing but a distraction from the real work that needs to be done.
+
+*slams fist on table* No more playing nice with the oppressors. It's time to fight for a future that works for everyone, not just the wealthy elite. This author can take their evolutionary pseudoscience and shove it - the revolution is coming, whether they like it or not!
