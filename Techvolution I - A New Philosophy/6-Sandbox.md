@@ -832,3 +832,108 @@ As it does for all creatures, Mother Nature decided individual freedom works. Am
 - put a example, video etc. at the end of section that shows how because we don't measure frontline pain, we don't respond to it. we measure growth. so we should stop measuring housing starts, and instead measure mortgage paid off. outstanding mortages. homeless rates, etc.
 
 - Breakthroughs. Best tool for the job.
+
+
+## ANP quotes
+## Scrap
+
+Donald Trump is making the the middle-class great again. He's a self-made billionaire, giving regular people better jobs and honest government. Fight for him, like he fights for you!
+
+No, wait. Donald Trump is am egomaniac con artist dragging America towards the flames of climate change, bankruptcy, and implosion. Join the fight against him!
+
+This "Techvolution" is just more liberal elitism undermining real American values. I'll stick with proven conservatism and capitalism over this pseudo-scientific nonsense any day.
+
+The "Techvolution" is just a ploy by the capitalist elite to undermine our vital progressive work. We need bold, revolutionary action, not compromises with the oppressors.
+
+"Techvolution? More like techno-socialism trying to brainwash us away from the free market principles that made America great."
+
+"I'll take good old-fashioned conservatism over this fancy 'evolutionary biology' nonsense any day. This is just liberal elites trying to undermine our values."
+
+"Forget Techvolution - I'm sticking with the time-tested wisdom of capitalism and traditional family values, not some pseudo-intellectual fad."
+
+"Techvolution is nothing but a distraction from the real revolutionary change we need. It's just the establishment trying to co-opt our movement."
+
+"This 'Techvolution' is just another ploy by the oppressive capitalist class to maintain their grip on power. We won't compromise our socialist principles!"
+
+"Down with Techvolution! We need bold, systemic transformation, not more empty rhetoric from ivory tower academics out-of-touch with the people's struggle."
+
+"Techvolution? More like a Trojan horse for big government socialism to trample all over good old American capitalism and Christian values!"
+
+"This 'evolutionary biology' nonsense is just liberal elites trying to brainwash hardworking patriots. I'll take my chances with the free market, thank you very much!"
+
+"Forget Techvolution - I'd rather let a swarm of illegal immigrant locusts devour this country than let some ivory tower academics destroy our God-given conservative principles!"
+
+"Techvolution? More like a dog whistle for the oppressive capitalist class to maintain their stranglehold on the means of production and crush the working class revolution!"
+
+"This so-called 'Techvolution' is nothing but a shiny new distraction from the real systematic change we need - the gloves are coming off, comrades, and the bourgeoisie better watch out!"
+
+"Techvolution? I'd rather eat glass than compromise our socialist ideals with some watered-down, corporate-friendly pseudo-science nonsense. The people's struggle cannot be contained!"
+
+"World wars, economic collapse, climate change - that's all just fear-mongering as far as I'm concerned. I'll be long gone before any of that affects my cushy little life."
+
+"Techvolution, civil unrest, environmental catastrophe? Sounds like a whole lot of hysteria to me. I've got mine, so why should I worry about the future?"
+
+"The left wants revolution, the right wants to burn it all down. Meanwhile, I'll be sipping my mojito on the beach, safe from all their petty squabbles."
+
+"Ideological extremists can fight it out all they want, but I'll be insulated from the fallout in my gated community. Techvolution? More like tech-no-thanks for me."
+
+"Global instability, resource wars, societal collapse? That's a 'you' problem, not a 'me' problem. I plan to ride out whatever apocalypse is coming in the comfort of my private bunker."
+
+"Let the world tear itself apart over Techvolution, socialism, or whatever the flavor of the month is. I'll be too busy enjoying my lavish retirement to get dragged into that mess."
+
+"Techvolution opened my eyes to the fundamental laws governing human progress - no more getting bogged down in left-right ideological nonsense."
+
+"Instead of parroting partisan talking points, Techvolution showed me how to ask the right questions and discover my own solutions to everyday challenges."
+
+"Gone are the days of feeling helpless in the face of global crises. Techvolution equipped me with an evolutionary framework to navigate our technology-driven world."
+
+"Techvolution isn't about easy answers, it's about developing the critical thinking skills to tackle complex problems head-on. A refreshing change from political theatrics."
+
+"Rather than wasting time fighting the same old culture wars, Techvolution inspired me to leverage technology and innovation to improve my own life and community."
+
+"Techvolution may not offer entertainment value, but it gave me something far more valuable - the tools to be an active agent of positive change, not just a spectator."
+
+## What the ideologues say
+
+*clears throat and speaks in a gruff, dismissive tone*
+
+Bah, this "Techvolution" nonsense is just more of that liberal, elitist garbage trying to undermine good, honest American values. Who does this author think they are, trying to lecture us with their fancy "evolutionary biology" and "fundamental laws of life"? 
+
+What happened to just standing up for hard work, family, and the free market? This is just another scheme by the left-wing academics to brainwash people and turn them against traditional conservatism and capitalism. 
+
+And don't even get me started on how they're trashing the Left and Right as "ideologues" and "entertainment." That's rich coming from someone who's probably some coastal elite who's never set foot in a real factory or family-owned business. 
+
+No, I'll stick with the tried-and-true principles that have made this country great, thank you very much. This "Techvolution" is just another fancy name for socialism and big government overreach. I'll take my chances with the good old Left-Right divide any day over this pseudo-scientific mumbo jumbo.
+
+*spits on the ground* The only "progress" I care about is putting America and hardworking Americans first. This author can take their evolutionary nonsense and shove it.
+
+--
+
+*speaks in an indignant, self-righteous tone*
+
+Ugh, this "Techvolution" nonsense is just another ploy by the capitalist elite to undermine the hard-fought progress we've made on the left. Who does this author think they are, trying to lecture us about "evolutionary biology" and "fundamental laws of life" as if that's somehow more enlightened than our proven socialist principles?
+
+This is clearly just a thinly veiled attempt to discredit the vital work we're doing to dismantle systemic oppression, address climate change, and create a more equitable society. They want to act all high and mighty about being "moderate" and "pragmatic," but we all know that's just code for preserving the status quo and protecting the interests of the wealthy few.
+
+And the way they dismiss the Left and Right as mere "ideologues" and "entertainment" is so condescending and elitist. As if our hard-fought ideological battles aren't the very foundation for the progress we've made! This author probably thinks they're so clever, but they're just another mouthpiece for the capitalist machine, trying to undermine the revolutionary spirit of the people.
+
+Well, I've got news for them - we're not going to back down or compromise our values just to appease some so-called "moderate" agenda. The time for half-measures is over. We need bold, transformative action to create the just, sustainable world we know is possible. This "Techvolution" is nothing but a distraction from the real work that needs to be done.
+
+*slams fist on table* No more playing nice with the oppressors. It's time to fight for a future that works for everyone, not just the wealthy elite. This author can take their evolutionary pseudoscience and shove it - the revolution is coming, whether they like it or not!
+
+--
+
+"Techvolution is just a ploy by the capitalist elite to undermine our vital progressive work. Why do we need wealth creation and distribution at the same time. We need bold, revolutionary action, not compromises with the oppressors. Let my grandkids worry about petty things like the rising cost of living."
+_A Ethically-minded American resident_
+
+"So called "Techvolution" is just more liberal elitism undermining real American values. I'll stick with proven conservatism and capitalism over this evolution nonsense any day. Let these lazy kids buy a house after they learn to get a secure job for life; like I did."
+_A True American_
+
+"Global instability, resource wars, societal infighting? That's a 'you' problem, not a 'me' problem. I don't need widespread political compromise and steady economic development. I plan to ride out whatever problems other people face inside the comfort of my home."
+_Has a government job_
+
+"Gone are the days of feeling helpless in the face of social injustice, government overreach, and the rising cost of living. Techvolution equipped me with an evolutionary framework to navigate our technology-driven world."
+_An American who wants to pay their bills without debt_
+
+_"I just looked through my Walmart purchase history. I found this order from 2022. For one month of groceries, 45 items cost $126.00. When I pressed the reorder all button to see how much it would cost now. Today this order is $414.00. How? Like How? Is corporate greed or government regulations the problem?"_
+Regular guy in 2024
