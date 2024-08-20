@@ -954,3 +954,15 @@ As flowers evolved more complex and specialized structures to attract bees, such
 Similarly, as bees evolved to become more efficient pollinators, flowers evolved to become more specialized to cater to the bees' needs. This includes the development of landing platforms, nectar guides, and even specific flower shapes that match the body structure of bees.
 
 This ongoing co-evolutionary process has resulted in a highly specialized and mutually beneficial relationship between flowers and bees, where both species have evolved in response to each other over long periods of time. This co-evolution has contributed to the incredible diversity of both flowering plants and bee species we see today.
+
+## Glossary of Terms
+
+**Evolution:** Evolution is the change in the heritable characteristics of biological populations over successive generations. It occurs when evolutionary processes such as natural selection, genetic drift, mutation, and gene flow act on the genetic variation within a population, resulting in certain characteristics becoming more or less common over time. Evolution is an ongoing process that has no fixed timescale - it can happen rapidly or slowly depending on the specific circumstances. The process of evolution has given rise to the vast biodiversity observed at all levels of biological organization, from molecules to ecosystems.
+
+**Techvolution:** Philosophies frame the human experience for our minds. Techvolution says humans should see ourselves as technological species. Since modern humans use technology to do most everything from staying warm to growing food, Techvolution says the tools we use define our place in the world. Techvolution points out that humanity is subject to the same laws of evolution as all other creature, thus we must embrace it to better our futures.
+
+**Mixed-Ideological Politics:** The political philosophy of Techvolution. Humans as a technological species harvests resources according to the tools we use or control. The technology of the Industrial Rebolution was relatively weak. Huge factories, radio networks, transport, required much man-power and thus . We'll go into mixed-ideological politics more in its own book.
+
+**Bumblebee Economics:** The economics system of Techvolution. In evolutionary theory individual organisms are the "unit of selection"; meaning each creature is free to interact with the ecosystem and make its own choices. The ones who harvest the most resources and breed the most successful offspring are "selected" by evolution to survive. Since humanity operates a technological ecosystem, we must enable individuals to do business with each other directly. This means technology must be standardized, open-source, and controlled by individuals so that the best choices made by individuals can be selected by evolution. We'll do into the blueprints of Bumblebee Economics in its own book, specifically written for open-source heroes to kickstart it.
+
+We'll add more definitions as we learn more about Techvolution.

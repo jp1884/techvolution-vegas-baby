@@ -1,27 +1,31 @@
 
-# Techvolution: A New Philosophy
-
-![Preface](/assets/problem-solving-philosophy.png)
-
-by Johnny
-
-[Homepage](/) | [Techvolution: A New Philosophy](/a-new-philosophy/start)
+# Techvolution: A New Philosophy For Our Modern World
 
 ## Rear Page Summary
-
-
-
-## Backpage Summary
 
 Conservatives are making the middle class great again. Across the world these red-blooded patriots are giving regular people better jobs and honest government. Don't be a socialist; join them and fight for liberty!
 
 No, wait. The Progressives are the good guys fighting for us all. Their ideology is the one saving us from climate change, racism, sexism, elitism, chauvinism while making sure everyone gets their fair share. Fight fascism; fight for progress!
 
-Our politics is filled with black-and-white messages like these because left-wing and right-wing ideologues keep spreading their single-minded stories throughout society. Many people are sick of their toxicity.
+Our politics is filled with black-and-white messages like these because left-wing and right-wing ideologues keep spreading their single-minded stories throughout society. It's winner takes all, no moderation or compromise is allowed. Many people are sick of their toxicity.
 
-So, I wrote a new philosophy called Techvolution—it's custom-designed to calm our politics with Mixed-Ideological Politics and supercharge our innovation and job market with Bumblebee Economics.
+Here's a new philosophy called Techvolution—it's custom-designed to calm our politics by synthesizing the efficiency-focused principles of capitalism with the equity-minded goals of social democracy.  with Mixed-Ideological Politics and supercharge our innovation and job market with Bumblebee Economics.  Discover how unleashing open-source innovation can generate and distribute wealth, empowering individuals to thrive within an ever-evolving technological ecosystem.
 
 Let's get started.
+
+## Inner Flap
+
+In an age of growing political polarization and technological disruption, "Techvolution" offers a new framework for understanding and navigating the challenges of our time.
+
+This book argues that we must move beyond the outdated left-right ideologies that have long dominated our politics and economics. Instead, in the age of ever-expanding technology, we must embrace our identity as a "technological species" - one whose evolution is driven more by the tools and innovations we create more than any of our biological traits or chosen identities.
+
+Techvolution presents a synthesis of conservative and progressive values, blending the efficiency-focused principles of capitalism with the equity-minded goals of social democracy. Through its core tenets of "Mixed-Ideological Politics" and "Bumblebee Economics," this philosophy shows how we can harness the power of technology to generate and distribute wealth in a more efficient yet sustainable way.
+
+Drawing insights from evolutionary biology, pollitical philsophy, and the history of technological progress, Techvolution offers a fresh perspective on perennial questions of human development. How can we structure our institutions and incentives to foster continuous innovation? What is the role of government in shaping technological change? And how can individuals find meaningful niches within an ever-evolving technological ecosystem?
+
+Rather than get caught up in the zero-sum battles of left vs. right, Techvolution empowers readers to become active agents of their own technological evolution. By embracing a mindset of collaborative problem-solving and open-source innovation, we can build a future of greater prosperity, resilience, and freedom for all.
+
+Thought-provoking and pragmatic, Techvolution provides an essential roadmap for navigating the complexities of the 21st century. It is a must-read for anyone seeking to transcend the ideological divides of our time and unlock the full potential of human and technological co-evolution.
 
 ## Endorsements/Quotes
 
@@ -43,47 +47,9 @@ An Open-Source contributor
 "Gone are the days of feeling helpless in the face of social injustice, government overreach, and the rising cost of living. Techvolution equipped me with an evolutionary framework to navigate our technology-driven world."
 _An American who wants to pay their bills_
 
-## Inside Flap
-
-Conservatives are making the middle class great again. Across the world these red-blooded patriots are giving regular people better jobs and honest government. Don't be a socialist; join them and fight for liberty!
-
-No, wait. The Progressives are the good guys fighting for us all. Their ideology is the one saving us from climate change, racism, sexism, elitism, chauvinism while making sure everyone gets their fair share. Fight fascism; fight for progress!
-
-Our politics is filled with black-and-white messages like these because left-wing and right-wing ideologues keep spreading their single-minded stories throughout society. Many people are sick of their toxicity.
-
-So, I wrote a new philosophy called Techvolution—it's custom-designed to calm our politics with Mixed-Ideological Politics and supercharge our innovation and job market with Bumblebee Economics.
-
-Let's get started.
-
-## Preface
-
-Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll tell you, "if the Right-wing triumphs, infrastructure, healthcare, everything will go to shit!"
-
-If you buy it—and most of us have at some point—you glue yourself to Left-wing blogs, radio, and TV. As you fill-up on Leftist philosophy, you'll filter human history as a never ending story of oppression, liberation, and change. With every minute you watch the news, you'll walk the path towards extremism and see any opposition to Leftist demands as _fascist_ Conservatives responsible for every problem in the past and present.
-
-Or, if the other side sucked you in first, you start spotting _communist_ Progressives and their unholy socialist agenda instead. There's a good reason extremist ideologues dominate our political landscape: they tell a great story.
-
-Broadly speaking in America today, Republicans are right-wing because they align with Conservatism and Capitalism, while the Democrats are left-wing because they embrace Progressivism and Socialism. All of these philosophies were created centuries ago by people desperate to industrialize their agrarian societies. Poor, hungry, and cold people raced to invent steam power, machine tools, and other innovations to mass-produce roads, radios, factories, hospitals, and schools. American society tried both rightist ideas, like Roosevelt's trustbusting monopolies, and leftist ideas, like the other Roosevelt's fight against economic depressions via a social safety net.
-
-In the end, America won the Industrial Age race, becoming the world's economic powerhouse.
-
-Today's ideologues portray their side as righteous protectors of America's post-industrial pension plans, medical systems, and wealth in general, with the "other" being a constant threat. Both sides ignore that industrialization was a shared story many pages long, and each ideology had successes and failures. But since they have no new ideas, today's Left and Right must take all the credit for America's industrialization to keep themselves relevant.
-
-With their product aging, ideologues resort to more marketing. Which is why they tell stories on the news, streams, and websites. Once their captivating tales fill your mind, the nuance and complexity of history fade in favour of the excitement of cheering for "the good guys."
-
-Techvolution can't compete with this chorus of entertainment. I don't want to. Anyone with easy answers to our problems is lying to you. No one has ever built a society with today's Internet Age technology facing today's challenges. This is the first time Earth has 7+ billion people, advanced robotics, electric cars, AI, nuclear weapons. How could anyone have all the solutions?
-
-And here's the face-palm movement: today's ideologies were created by people very out of the loop. Their founding thinkers, Adam Smith, Karl Marx, Edmund Burke, and John Stuart Mill, never used a toilet, never sat in a car, never disinfected a wound. Each thinker has lessons to teach of course, but we should build upon them instead of clinging to them as their devout followers today do, like dinosaurs trying to survive after the world has moved on, believing in outdated worldviews ill-suited for the modern era.
-
-So no, Techvolution avoids easy answers because there are none for anyone who wants to lower the cost of living by solving real-life problems. That's why instead of repeating Left-Right industrialization politics, metrics, and policies, Techvolution measures its success on how prosperous the middle-class is. The rate of mortage payoff. The cost of insurance. We can better these real-life metrics when you learn the fundamental laws governing life's evolution on Earth. When you understand how civilizations prosper due to their technological evolution; hence the new word "Techvolution."
-
-Among many benefits, this philosophy empowers you to ask better questions so you can discover lasting solutions to the problems of your unique life. Techvolution can't be entertainment because it stops you being a spectator, and turns you into an active agent who lowers the cost of living by creating an economy that generates and distributes wealth for everyone who works for it.
-
-While this book won't be entertaining as Left vs Right broadcasts, I'll do my best to make this new philosophy fun and inspiring. Because the future should be.
-
 ## Dedication
 
-_This book is for the open-source community. For the collaboration mindset you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Internet Age. Youshowed a political student what the future could be, but I hope this book inspires you to (no offense) stop creating Javascript frameworks and directs all your side projects to build the Internet Age economy posthaste._
+_This book is for the open-source community. For the collaboration mindset you handed down to me. For selflessly updating Wikipedia, writing free software, and building cool new tech for us all. For being the protagonists of the Internet Age. You showed a political student what the future could be. Still, I hope this book inspires you to (no offense) stop creating Javascript frameworks and directs all your side projects to build the Internet Age economy posthaste._
 
 _This book is especially dedicated to the extras on Main Street. When it's time for you to act, I pray you decide to play the game of evolution and reach for the future the open-source heroes made for you._
 
@@ -93,18 +59,33 @@ _This book is especially dedicated to the extras on Main Street. When it's time 
 
 Dr. Gordon Moore, author of Moore's Law, 1973.
 
-## Glossary of Terms
+## Preface
 
-**Techvolution:** Philosophies frame the human experience for human minds. Techvolution says humans should see ourselves as technological species. This is not far fetched. Biologist characterize creaturs in part by their physical traits of an organism, such as body shape, size, color, and structure because traits are how creatures survive in their environment and harvests resources. Since we humans use technology to do most everything from build shelters to grow food, Techvolution says the tools we use define our place in society. This is especially so since the Industrial Revolution populated the world with so much technology (kind off like the Cambrian explosion did for biological life). Techvolution points out that humanity is subject to the same laws of evolution as all other creature, thus we must embrace it to better our futures.
-https://en.wikipedia.org/wiki/Cambrian_explosion
+Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll tell you, "if the Right-wing triumphs, infrastructure, healthcare, everything will go to shit!"
 
-**Mixed-Ideological Politics:** The political philosophy of Techvolution. Humans as a technological species harvests resources according to the tools the use or control. The technology of the Industrial Rebolution was relatively weak. Huge factories, radio networks, transport, required much man-power and thus . We'll go into mixed-ideological politics more in its own book.
+If you buy it—and most of us have at some point—you glue yourself to Left-wing blogs, radio, and TV. As you fill-up on Leftist philosophy, you'll filter human history as a never ending story of social oppression liberated by determined government action. With every additional minute you watch the news, you'll walk towards extremism and begin to see any opposition to Leftist demands as _fascist_ Conservatives opposing social justice for their greedy, selfish, entitled personalities.
 
-**Bumblebee Economics:** The economics system of Techvolution. In evolution individual organisms are the "unit of selection". Meaning each creature is free to interact with the ecosystem and make its own choices. Since humanity operates a technological ecosystem, we must (mostly) enable individuals to do business with each other. This means technology must be standardized, open-source, and controlled by individuals so that the best choices made by individuals can be selected by evolution to prosper. We'll do into the blueprints of Bumblebee Economics in its own book, specifically written for open-source heroes to build it via God's currency.
+Or, if the other side sucked you in first, you start spotting _communist_ Progressives and their unholy socialist agenda instead. Our drive towards this extremism is for good reason: devouted ideologues preach a great story.
 
-**Revolutions:**  A rapid, fundamental transformation of a society's class, state, ethnic or religious structures. This happen because people in control of techvnology refuse to let the past die and their tools fade away. Instead, people antagonize evolution and build up evolutionary changes that get enacted in big spurts instead of slowly.
+Broadly speaking in America today, Republicans are right-wing because they align with Conservatism and Capitalism, while the Democrats are left-wing because they embrace Progressivism and Socialism. All of these philosophies were created centuries ago by people desperate to industrialize their agrarian societies. Poor, hungry, and cold people raced to invent steam power, machine tools, and other innovations to mass-produce roads, radios, factories, hospitals, and schools. American society tried both rightist ideas, like Roosevelt's trustbusting monopolies, and leftist ideas, like the other Roosevelt's fight against economic depressions via a social safety net.
 
-We'll add more definitions as we learn more about Techvolution.
+In the end, America won the Industrial Age race, becoming the world's economic powerhouse.
+
+Today's ideologues portray their side as righteous protectors of America's post-industrial pension plans, medical systems, and wealth in general, with the "other" being a constant threat. Both sides ignore that industrialization was a shared story many pages long, and each ideology had successes and failures. But since they have no new ideas, today's Left and Right must take all the credit for America's industrialization to keep themselves relevant.
+
+With their industrialization ideologies aging, ideologues resort to more marketing. Which is why they tell such good stories on the news, streams, and blogs. Once their captivating tales fill your mind, the nuance and complexity of history fade in favour of the excitement of cheering for "the good guys."
+
+Techvolution can't compete with this chorus of entertainment. I don't want to. Anyone with easy answers to our problems is lying to you. No one has ever built a society with today's Internet Age technology facing today's challenges. This is the first time Earth has 7+ billion people, advanced robotics, electric cars, AI, nuclear weapons. How could anyone have all the solutions?
+
+And here's the face-palm movement: today's ideologies were created by people very out of the loop. Their founding thinkers, Adam Smith, Karl Marx, Edmund Burke, and John Stuart Mill, never used a toilet, never sat in a car, never disinfected a wound. Each thinker has lessons to teach of course, but we should build upon them instead of clinging to them as their devout followers today do, like dinosaurs trying to survive after the world has moved on, believing in outdated worldviews ill-suited for the modern era.
+
+So no, Techvolution avoids easy answers because there are none for anyone who wants to offer practical solutions to your real-life problems. That's why instead of repeating Left-Right industrialization politics, metrics, and policies, Techvolution measures its success on how prosperous the middle-class is. The rate of mortage payoff. The cost of insurance. We can improve real-life metrics when our society turns from extremism and instead learns the fundamental laws governing life's evolution on Earth. We evolve with technology, so we must learn to fully harness technological evolution; hence the new word "Techvolution."
+
+This new philsophy's two tenants are MIP and BBE. MIP is the recognition that as technological beings someone's politics should promote the tools they use to make a living. As we keep creating new tools, a person must be willing to mix and match their tools, and therefore their politics, so the best arrangement of tools for them to maximize their resources. Through this material independence, they can pursure the social policies they think best. BBE is the technological implementation that individual tools should be able to work together with minimal, if any, middleman....
+
+Among many benefits, this philosophy empowers you to ask better questions so you can discover lasting solutions to the problems of your unique life. Techvolution can't be entertainment because it stops you being a spectator, and turns you into an active agent who lowers the cost of living by creating an economy that generates and distributes wealth for everyone who works for it.
+
+While this book won't be entertaining as Left vs Right broadcasts, I'll do my best to make this new philosophy fun and inspiring. Because the future should be.
 
 ## Foreword
 
@@ -152,7 +133,7 @@ We were born free, but everywhere, our technological self-evolution was chained.
 
 Despite their talented storytelling, antagonists always failed. They proved human survival on this lifeboat called Earth is not based on our biology. Any group who ever claimed biological superiority fell in the face of technological inclusion and innovation.
 
-That progress wasn't perfect. Filled with antagonism, our evolution was so sporadic Entropy often caught up with us. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. So what was really behind our struggles? Was it bad government policies or unfair circumstances? Nope. It was thwarted evolution, i.e., we didn't, or were prevented, from adopting innovations fast enough to outrun Entropy.
+That progress wasn't perfect. Entropy often caught up with us because antagonism made our evolution sporadic. The pain of its attacks was called layoffs, unemployment, homelessness, recessions, civil wars, depressions, and revolutions. So what was really behind our struggles? Was it bad government policies or unfair circumstances? Nope. It was thwarted evolution, i.e., we didn't, or were prevented, from adopting innovations fast enough to outrun Entropy.
 
 Nature made us pay for our sins. Every biology student knows evolution's selection of the best adaptions requires a daily and hour scrutinizing, throughout the world, of every adaption, even the slightest. That's why today, we protect every individual's technological evolution as a sacred right and teach it as an absolute obligation.
 
@@ -182,15 +163,21 @@ I shudder to think of our fate if we had continued to interpret our reality usin
 
 ## Chapter 1 - Techvolution in Your Life
 
-We're living in the Internet Age. We need to use new MIP and BBE to embrace modern technology. But before we do that, you must buy into the Techvolution philosophy: we are biological creatures who depend on technological evolution to prosper.
+Mix white and black paint, and you'll have a shade of gray. Maybe it'll be lighter or darker gray, but it will always be gray and never white or black. You can't unmix what you've mixed because time only moves forward. As Entropy breaks down, blows up, decomposes the Universe, the arrow of time says things can never go back to the way they were.
 
-Techvolution is a philosophy book meant for everyone to read, understand, and believe in. It's accessible by design because everything this books preaches is meant to improve all of society today. While this is a new philosophy, it doesn't disregard the past by any means, it builds on it in fact. 
+That's why Life shudders at stagnation. Life must keep evolving more creatures with more diversity to harvest as many resources as possible. Growing antifragility means Life can better outrun Entropy's ceaseless wrath. 
+
+In 1969 several American universities invented the ARPAnet. This tiny network was the first internet, where the backbone technology called TCP/IP was invented. The same year an inventor name Douglas Engelbart put on his "Mother of All Demos" where he showed a world used to typewriters the first working personal computer. Among the attendees was people who soon worked on and sold millions of Macintosh computers.
+
+We entered the Internet Age in 1969, and we could never go back. Time only goes forward remember. Yet, we didn't evolve along with technology like evolution wanted us to. Thus, Entropy caught up to the Industrial Age and is hurting the clingy countries with more stife, broken politics, and increasing cost of living.
+
+We need to use new MIP and BBE to embrace modern technology and burst out in front of Entropy on the gameboard of Life. But before we do that, you must buy into the Techvolution philosophy: we are biological creatures who must evolve with technology to prosper. While this new philosophy embraces change, it doesn't disregard the past by any means, it builds on it in fact. 
 
 Since we want to stand on the shoulders of giants, you do need to know a little about where today's ideologies come from. Some ideologies say humanity should be poor or whatever. Conservatives and Progressives disagree. Both sides think a "wealth" of products and services is the best way to improve human life. They do disagree on how best to grow economic wealth. Conservaties want to grow wealth efficiently, and Progressives want to distribute wealth fairly. They fight only because they disagree on the best to achieve their common goal of mass-producing a lot of stuff for people to have.
 
 Techvoltion is the synthesis of left-wing and right-wing because it understands how modern technology both creates and distributes wealth at the same time. Linux, MediaWiki, Python are but some examples. The loudness of politics today makes this truth too simple to see; and too inconvenient for many people to acknowledge, so I can't just explain why modern technology can improve our real lives. Sadly, the slick ideological "Left vs. Right" storytelling gives new technology a "side". For example, power wind mills are somehow "Liberal", although wind mills have been around since at least Roman times.
 
-It's hard to talk about technology when people are so dig into their political ideological storytelling. So, instead I'll have to show you what I mean.
+It's hard to talk about technological evolution when people are so dig into their political ideological storytelling. So, instead I'll have to show you Techvolution, MIP, and BBE in action.
 
 Here's a practical way to see why traditional Left Right ideologies are past their evolutionary prime, and why we need Techvolution to harness the power of new technology to solve our problems like government red tape, envionmental damage, and a rising cost of living.
 
