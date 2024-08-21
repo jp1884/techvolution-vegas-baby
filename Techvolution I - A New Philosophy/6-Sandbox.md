@@ -966,3 +966,4 @@ This ongoing co-evolutionary process has resulted in a highly specialized and mu
 **Bumblebee Economics:** The economics system of Techvolution. In evolutionary theory individual organisms are the "unit of selection"; meaning each creature is free to interact with the ecosystem and make its own choices. The ones who harvest the most resources and breed the most successful offspring are "selected" by evolution to survive. Since humanity operates a technological ecosystem, we must enable individuals to do business with each other directly. This means technology must be standardized, open-source, and controlled by individuals so that the best choices made by individuals can be selected by evolution. We'll do into the blueprints of Bumblebee Economics in its own book, specifically written for open-source heroes to kickstart it.
 
 We'll add more definitions as we learn more about Techvolution.
+

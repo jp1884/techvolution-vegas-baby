@@ -3,13 +3,15 @@
 
 ## Rear Page Summary
 
-Conservatives are making the middle class great again. Across the world these red-blooded patriots are giving regular people better jobs and honest government. Don't be a socialist; join them and fight for liberty!
+Conservatives are making the middle class great again. Across the world these red-blooded patriots are giving regular people better jobs and honest government. Don't be a socialist; join them and fight for your liberty!
 
-No, wait. The Progressives are the good guys fighting for us all. Their ideology is the one saving us from climate change, racism, sexism, elitism, chauvinism while making sure everyone gets their fair share. Fight fascism; fight for progress!
+No, wait. The Progressives are the good guys fighting for us all. Their ideology is the one saving us from climate change, racism, sexism, elitism, chauvinism while making sure everyone gets their fair share. Fight fascism; fight for social progress!
 
-Our politics is filled with black-and-white messages like these because left-wing and right-wing ideologues keep spreading their single-minded stories throughout society. It's winner takes all, no moderation or compromise is allowed. Many people are sick of their toxicity.
+Our politics is filled with black-and-white messages like these because left-wing and right-wing ideologues keep spreading their single-minded stories throughout society. On cable news, social media, dinner tables around America, It's winner takes all, no moderation or compromise is allowed.
 
-Here's a new philosophy called Techvolution—it's custom-designed to calm our politics by synthesizing the efficiency-focused principles of capitalism with the equity-minded goals of social democracy.  with Mixed-Ideological Politics and supercharge our innovation and job market with Bumblebee Economics.  Discover how unleashing open-source innovation can generate and distribute wealth, empowering individuals to thrive within an ever-evolving technological ecosystem.
+Many people are sick of their toxicity.
+
+Here's a new philosophy called Techvolution—it's custom-designed to calm our politics via Mixed-Ideological Politics and supercharge or innovation and job market with Bumblebee Economics.
 
 Let's get started.
 
@@ -63,27 +65,31 @@ Dr. Gordon Moore, author of Moore's Law, 1973.
 
 Talk to any political junkie, no matter when, and they'll say there's a big election coming up. They'll tell you, "if the Right-wing triumphs, infrastructure, healthcare, everything will go to shit!"
 
-If you buy it—and most of us have at some point—you glue yourself to Left-wing blogs, radio, and TV. As you fill-up on Leftist philosophy, you'll filter human history as a never ending story of social oppression liberated by determined government action. With every additional minute you watch the news, you'll walk towards extremism and begin to see any opposition to Leftist demands as _fascist_ Conservatives opposing social justice for their greedy, selfish, entitled personalities.
+If you buy it—and most of us have at some point—you glue yourself to Left-wing blogs, radio, and TV. As you fill-up on Leftist philosophy, you'll filter human history as a never ending story of social oppression liberated by strong government action. With every additional minute you watch the news, you'll walk towards extremism and begin to see any opposition to Leftist demands as _fascist_ Conservatives opposing social justice for their selfish greed.
 
-Or, if the other side sucked you in first, you start spotting _communist_ Progressives and their unholy socialist agenda instead. Our drive towards this extremism is for good reason: devouted ideologues preach a great story.
+Or, if the other side sucked you in first, you start spotting _communist_ Progressives and their unholy socialist agenda instead. Most people are helpless during this drive towards extremism for good reason: devouted ideologues tell a great story.
 
 Broadly speaking in America today, Republicans are right-wing because they align with Conservatism and Capitalism, while the Democrats are left-wing because they embrace Progressivism and Socialism. All of these philosophies were created centuries ago by people desperate to industrialize their agrarian societies. Poor, hungry, and cold people raced to invent steam power, machine tools, and other innovations to mass-produce roads, radios, factories, hospitals, and schools. American society tried both rightist ideas, like Roosevelt's trustbusting monopolies, and leftist ideas, like the other Roosevelt's fight against economic depressions via a social safety net.
 
-In the end, America won the Industrial Age race, becoming the world's economic powerhouse.
+In the end, America won the Industrial Age race, turning itself from a muddy backwater in 1776 into the world's economic powerhouse in 1960.
 
-Today's ideologues portray their side as righteous protectors of America's post-industrial pension plans, medical systems, and wealth in general, with the "other" being a constant threat. Both sides ignore that industrialization was a shared story many pages long, and each ideology had successes and failures. But since they have no new ideas, today's Left and Right must take all the credit for America's industrialization to keep themselves relevant.
+Today's ideologues portray their side as righteous protectors of America's post-industrial pension plans, medical systems, and wealth, with the "other" being a constant threat. Both sides ignore that industrialization was a shared story many pages long, and each ideology had successes and failures. But since they have few new ideas, today's Left and Right must take all the credit for America's industrialization to keep themselves relevant.
 
 With their industrialization ideologies aging, ideologues resort to more marketing. Which is why they tell such good stories on the news, streams, and blogs. Once their captivating tales fill your mind, the nuance and complexity of history fade in favour of the excitement of cheering for "the good guys."
 
-Techvolution can't compete with this chorus of entertainment. I don't want to. Anyone with easy answers to our problems is lying to you. No one has ever built a society with today's Internet Age technology facing today's challenges. This is the first time Earth has 7+ billion people, advanced robotics, electric cars, AI, nuclear weapons. How could anyone have all the solutions?
+Techvolution can't compete with this chorus of entertainment. I don't want to. Anyone with easy answers to our problems is lying to you. No one has ever built a society facing today's challenges using today's Internet Age technology. This is the first time Earth has 7+ billion people, advanced robotics, electric cars, AI, nuclear weapons. How could anyone have all the solutions?
 
 And here's the face-palm movement: today's ideologies were created by people very out of the loop. Their founding thinkers, Adam Smith, Karl Marx, Edmund Burke, and John Stuart Mill, never used a toilet, never sat in a car, never disinfected a wound. Each thinker has lessons to teach of course, but we should build upon them instead of clinging to them as their devout followers today do, like dinosaurs trying to survive after the world has moved on, believing in outdated worldviews ill-suited for the modern era.
 
-So no, Techvolution avoids easy answers because there are none for anyone who wants to offer practical solutions to your real-life problems. That's why instead of repeating Left-Right industrialization politics, metrics, and policies, Techvolution measures its success on how prosperous the middle-class is. The rate of mortage payoff. The cost of insurance. We can improve real-life metrics when our society turns from extremism and instead learns the fundamental laws governing life's evolution on Earth. We evolve with technology, so we must learn to fully harness technological evolution; hence the new word "Techvolution."
+So no, Techvolution avoids easy answers because there are none for anyone who wants to offer practical solutions to real-life problems. That's why instead of repeating Left-Right industrialization politics, metrics, and policies, Techvolution measures its success on how prosperous the middle-class is. The rate of mortage payoff. The cost of insurance. Time spent in traffic. We can improve real-life metrics when our society turns from extremism and instead learns the fundamental laws governing life's evolution on Earth. Since we evolve with technology, so we must learn to fully harness technological evolution; hence the new word "Techvolution."
 
-This new philsophy's two tenants are MIP and BBE. MIP is the recognition that as technological beings someone's politics should promote the tools they use to make a living. As we keep creating new tools, a person must be willing to mix and match their tools, and therefore their politics, so the best arrangement of tools for them to maximize their resources. Through this material independence, they can pursure the social policies they think best. BBE is the technological implementation that individual tools should be able to work together with minimal, if any, middleman....
+This new philsophy's two tenants are MIP and BBE. MIP is the recognition that as technological beings someone's politics should promote the tools they use to make a living. The Industrial Age had relatively powerful but still primitive technology. Most production lines and offices needed humans to power the production. It took years to master using a typewriter or welding machine. People often had jobs for life out of necessity as learning a new trade was near impossible. Thus people had fixed ideology's. Workers voted for more of a share, while owners voted for their own interests.
 
-Among many benefits, this philosophy empowers you to ask better questions so you can discover lasting solutions to the problems of your unique life. Techvolution can't be entertainment because it stops you being a spectator, and turns you into an active agent who lowers the cost of living by creating an economy that generates and distributes wealth for everyone who works for it.
+Modern tools are increasingly cheap, easy to learn, and powerful. It's easier for a individual person to mix-and-match modern tools to the needs of their unique life. MIP tells people to go for it. Learn and use whatever tools will improve your bottom line. Out of neccesity then, your politics should also be mixed as you might be a worker, and an owner, several times in your life, perhaps even at the same time.
+
+BBE is the technological specifications needed to be sure that individual tools should be able to work together with minimal, if any, middleman. Think about it, creatures in nature as different as a squriell, acorn, and bobcat can all work together in the same ecosystem, even though there's no one to order them around.
+
+This amazing world of MIP and BBE is here in writing, but not out in the world yet. That's why this philosophy empowers you to ask better questions so you can discover lasting solutions to the problems of your unique life. Techvolution can't be entertainment because it stops you being a spectator, and turns you into an active agent who lowers the cost of living by creating an economy that generates and distributes wealth for everyone who works for it.
 
 While this book won't be entertaining as Left vs Right broadcasts, I'll do my best to make this new philosophy fun and inspiring. Because the future should be.
 
@@ -161,7 +167,52 @@ I shudder to think of our fate if we had continued to interpret our reality usin
 
 - We co-evolve with technology, the same way bees and flowers do
 
+## Chapter 1
+
+Learning evolution--actually Techvolution--will be a process. Not only because of the things to learn, but for the knowledge you must unlearn -like the identities the Left and Right give themselves.
+
+One way for me to tip your interest towards an education in Techvolution is asking, do you think you're going to make it?
+
+Of course I don't mean you and your family are in danger. Unless you live in Ukraine, Russia, Palestine, Israel, Sudan, Taiwain, Korea, Kasmir, Sri Lanka, or any of the other flash points at different levels of illumination. Those troubles won't spread. Once you choose one of the warring Left/Right ideologies, you'll have someone to blame, and ranting, protesting, and rioting against another group of people will keep you safe.
+
+Perhaps I'm being too coy, but blaming someone else is the theme of many Left vs Right TV shows, news feeds, and debtes. And for good reason, blaming someone else for your problems is a good way to hook an audience; fighting fascists and saving America from socialists is an exciting story.
+
+And, American politics could very well get much more dangerous. More civil unrest, more government gridlock, more assassination attempts. Hopefully not, but would anyone be surprised at this point if it did?
+
+These fights getting worse around the world aren't random. They are caused because our way of life that was born in the Industrial Age and spread around the world during globalization, is well past it's life expectancy. The benefits of industrialization are obvious. Going from hand tools, to power tools, artisan-made items to mass-produce products, speeds up the time needed to construct buildings, farm land, print books. 
+
+But today, the automobile that once sped up transportation, is often sitting in bumper to bumper traffic. The tasty fast food that was once an enticing treat, is now daily food causing mass health problems. The suburban house that once held many friends and tupperware parties is increasingly so big and expensive the youth struggle finding a home.
+
+As the once innovation Industrial Age products are aging, the people who use those products are feeling the pains of old-age too. We're behind the evolutionary times; Entropy is catching up to us like it does for any other creature. The simmering conflicts around our planet appear to be over ideology and history, but in reality lifeforms don't have reason to fight if everyone has enough resources to be secured with good shelter, stable food, quality education, hopeful futures. When the salmon are running up Canadian rivers, fierce grizzly bears come together in their dozens and cause each other no harm. Bountiful resources brings peace.
+
+The Industrial Age created a bounty for humanity. The food supply, political stability, individual freedom all grew by leaps and bounds for seveal generations. There's a reason why human popoulation exploded 1150% from 1900 to 2000, and why historians call the period after World War II "the long peace".
+
+Digital technology was supposed to make the long peace last forever. In 1969 several American universities invented the ARPAnet. This tiny network was the first internet, where the backbone technology called TCP/IP was invented. The same year an inventor name Douglas Engelbart put on his "Mother of All Demos" where he showed a world used to typewriters and telegraphs the first personal computer. Among the attendees that fateful demonstration was the people who soon make the Apple Macintosh computer.
+
+You might be thinking, why does this guy keep saying we need to live in the Internet Age. We are, aren't we? I'm holding an iPhone in my hand, and doesn't the "i" stand for internet.
+
+Being in an Age doesn't mean being from the Age. Holding a iron hammer doesn't mean your from the Iron Age. For one, you likely have no idea how to forge anything out of iron. Most importantly though, you don't need the hammer to make a living. You could use a power tool, as most people would today, instead of hammering nails all day.
+
+Likewise, most everyone can not use modern technology. Can you program an app? Understand how internet packets work? Build your own computer? And moreover, the modern technology you do use, is likely only a consumer a product. A toy to spend time with and not depend on. The default choice for most of our institutions is still a telephone number, not a WhatsApp chat. Politicians debate on broadcast television, with its limited time slots and commercial breaks, instead of talking on YouTube for as long as they need to (Abe Lincoln debated for three hours in his 1859 debates. No breaks.). Industrial Age tools are still the defaut tools most of the time because we are still in that age.
+
+Yet, the Industrial Age bounty is mostly gone. Here is a list of our problems today. Take your time flipping through them.
+
+*Note, assume there is a list of growing real-world problems, like inflation, debt ratios, health trends.*
+
+
+
+
+Right now, you are standing at the base of the ladder of evolution, and are in the Industrial Age. We're dying. At the top is the Internet Age. It's ready for you to go there and populate it with Mixed-Ideological Politics and Bumble-bee economics. 
+
+But the first steps on the ladder willingness that you must evolve. There's no other way but conflict and extinction.
+
+After you admit that, you can move on up. The first step is learning giving you the respect to explain what this new philosophy knows where to send you.
+
+
 ## Chapter 1 - Techvolution in Your Life
+
+
+
 
 Mix white and black paint, and you'll have a shade of gray. Maybe it'll be lighter or darker gray, but it will always be gray and never white or black. You can't unmix what you've mixed because time only moves forward. As Entropy breaks down, blows up, decomposes the Universe, the arrow of time says things can never go back to the way they were.
 
