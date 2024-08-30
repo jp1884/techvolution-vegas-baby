@@ -29,12 +29,6 @@ Rather than get caught up in the zero-sum battles of Left vs. Right, _Techvoluti
 
 Thought-provoking and pragmatic, _Techvolution_ provides an essential road map for navigating the complexities of the 21st century. It is a must-read for anyone seeking to transcend the ideological divides of our time and unlock the full potential of human and technological co-evolution.
 
-## Bio
-
-Let's eat marble cake.
-
-"I think about it all the time..."
-
 ## Endorsements/Quotes
 
 "I know oppression is wrong. I marched, voted, and protested for social justice all my life. I'm also tired of fighting. I want to find common ground so I can help my grandkids who keep telling me the rising cost of living is their main problem."
@@ -67,15 +61,7 @@ _This book is especially dedicated to the extras on Main Street. When it's time 
 
 Dr. Gordon Moore, author of Moore's Law, 1973.
 
-## Table of Contents
 
-- Preface
-- Foreword
-- Book I - Techvolution: A New Philosophy For Our Modern World
-   - Chapter 1 - Techvolution in Your Life
-- Book II - Mixed-Ideological Politics
-- Book III - Bumblebee Economics
-- Book IV - Elon's Ark
 
 ## Preface
 
@@ -177,7 +163,7 @@ I am not naive. Human Nature will never be perfect. Greed, laziness, selfishness
 
 Techvolution is like learning a language. Once you understand this way of thinking, you automatically realize creating and distributing better tools is what truly secures everyone's freedom and prosperity. This new philosophy also teaches us that gatekeeping technology is a false god that, instead of securing one's future, destroys the checks and balances required inside ecosystems, making antagonism a tragic tale that leads to its own inevitable destruction.
 
-Now, I must thank those who took the first leap. Decades ago, many brave parents unplugged themselves from fixed-ideological politics and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's new modes and orders. As a result, today's parents know every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving technological ecosystem that's using Nature's currency to harness energy more efficiently every day. 
+Now, I must thank those who took the first leap. Decades ago, many brave parents unplugged themselves from fixed-ideological politics and ventured into the frontier to start a new society. Because of them, we study, understand, and promote our technological evolution's new modes and orders. As a result, today's parents know the functional truth; every kid has an important goal to achieve and a fun story to live because, like in the natural world, there's always a niche to fill inside our ever-evolving technological ecosystem that's using Nature's currency to harness energy more efficiently every day. 
 
 Now, we use technology to make each region capable of sustaining happy human life. Our kids don't die in ideological wars. Don't suffer economic depressions. And only rarely does the next generation struggle with psychological afflictions.
 

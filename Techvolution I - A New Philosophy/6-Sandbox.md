@@ -967,3 +967,18 @@ This ongoing co-evolutionary process has resulted in a highly specialized and mu
 
 We'll add more definitions as we learn more about Techvolution.
 
+## Bio
+
+Let's eat marble cake.
+
+"I think about it all the time..."
+
+## Table of Contents
+
+- Preface
+- Foreword
+- Book I - Techvolution: A New Philosophy For Our Modern World
+   - Chapter 1 - Techvolution in Your Life
+- Book II - Mixed-Ideological Politics
+- Book III - Bumblebee Economics
+- Book IV - Elon's Ark
