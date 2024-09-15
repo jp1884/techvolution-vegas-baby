@@ -1,4 +1,4 @@
-# The Impact RD was designed for, and Techvolution was written for via (Claude 3 Haiku)
+# The impact Rates Down [ :( ] was designed for, and Techvolution was written for as discussed via (Claude 3 Haiku)
 
 ## Modified Quotes to showcase how some prior thinkers were pieces to a technological evolution puzzle. Why re-write, or comment on them as Mansfield said, if they can be made properly contextualized.
 
