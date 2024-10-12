@@ -3,19 +3,31 @@
 
 ## Rear Page Summary
 
-Techvolution presents a groundbreaking new philosophy that challenges the dominant ideological frameworks driving politics and economics in modern society. The book argues that technological evolution, not human-centric belief systems has been the true driving force behind the progression of human civilization.
+Techvolution presents a groundbreaking new philosophy that challenges the dominant ideological frameworks driving politics, economics, and social structures in modern society. The book argues that technological evolution, not human-centric belief systems or cultural narratives, has been the true driving force behind the progression of human civilization.
 
-The author contends that we have become trapped within the narratives and stories of our own ideological creation. These belief systems provide the rules and conventions for organizing society, but also lead to constant upheaval as competing philosophies vie for dominance, causing revolutions, counter-revolutions, and societal failures.
+Contrary to the prevailing view that language and culture are what distinguish humans from other hominids, the author contends that the key differentiator has been our ability to create and adapt tools. Tools, like any other biological adaptation, have been selected for through the process of evolution. It is this technological evolution, not the stories we tell about ourselves, that has enabled humans to thrive and expand beyond the trees.
 
-To escape this cycle, Techvolution proposes that we must ground our understanding of politics, economics, and social structures in the fundamental principles of evolution itself. By aligning our frameworks with the "pillars of evolution" - concepts like natural selection, adaptation, and co-evolution - the book argues we can harness technological progress in a more sustainable and equitable manner.
+The book posits that we have become trapped within the ideological frameworks and political systems of our own creation. These belief systems provide the rules and conventions for organizing society, but also lead to constant upheaval as competing philosophies vie for dominance, causing revolutions, counter-revolutions, and societal failures.
 
-The central thesis is that only by using technological evolution as the benchmark, rather than ideological storytelling, can we accurately judge the success or failure of our beliefs and enable a smoother, more stable path of advancement for human civilization. The book challenges readers to rethink the role of ideology and instead focus on the underlying drivers of technological change as the key to shaping a better future.
+To escape this cycle, Techvolution proposes that we must ground our understanding of politics, economics, and social structures in the fundamental principles of technological evolution itself. By aligning our frameworks with the "pillars of evolution" - concepts like innovation, adaptation, and co-evolution - the book argues we can harness technological progress in a more sustainable and equitable manner.
 
-Techvolution is intended to be of interest to a wide audience, from students of political science, economics, and sociology, to policymakers, business leaders, and anyone concerned with the future trajectory of human society in the face of rapid technological transformation.
+The central thesis is that only by using technological evolution as the benchmark, rather than ideological storytelling, can we accurately assess the success or failure of our beliefs and enable a smoother, more stable path of advancement for human civilization. The book encourages readers to rethink the role of ideology and instead focus on the underlying drivers of technological change as the key to shaping a better future.
+
+Techvolution offers a fresh perspective for students of political science, economics, and sociology, as well as policymakers, business leaders, and anyone concerned with the future trajectory of human society in the face of rapid technological transformation.
 
 ## Inner Flap
 
-To be done. Or redone. Yeah.
+For centuries, humanity has sought to understand our place in the world through the lens of ideology - the grand belief systems, political philosophies, and cultural narratives that have shaped the course of history. But what if these human-centric worldviews have obscured the true driving force behind our advancement as a species?
+
+In Techvolution, we dare to challenge this conventional wisdom, arguing that it is not the stories we tell about ourselves, but rather the technological evolution we have undergone, that holds the key to comprehending - and harnessing - the future of human civilization.
+
+Drawing on cutting-edge research and a bold, interdisciplinary approach, the author contends that the evolutionary adaptations that have set us apart from other hominids are not our capacity for language or the rich tapestry of our cultures, but rather our unparalleled ability to create, manipulate, and employ tools. Just as natural selection has shaped the biological world, Techvolution posits that the same evolutionary principles - innovation, adaptation, and co-evolution - have driven the technological progress that has remade our species.
+
+Yet, as we have become ever more enmeshed in the digital and material technologies that now permeate every aspect of our lives, we have also become trapped within the very ideological frameworks we constructed to make sense of this new reality. The constant upheaval of political revolutions, economic disruptions, and social unrest, the author argues, is the inevitable byproduct of our attempts to force our technological future into the outdated molds of our ideological past.
+
+To break free of this cycle, Techvolution offers a revolutionary new approach - one that casts aside the tired dogmas of left and right, capitalism and socialism, in favor of an evolutionary framework rooted in the empirical realities of how technology has transformed the human condition. By aligning our political, economic, and social structures with the fundamental principles governing technological progress, the author contends we can unleash a new era of sustainable, equitable, and future-proof advancement.
+
+Tackling everything from the origins of human civilization to the existential challenges of the digital age, Techvolution is a sweeping, paradigm-shifting work that will captivate readers across the ideological spectrum. Whether you're a student of the social sciences, a policymaker seeking new solutions, or simply someone seeking to understand the forces shaping our collective destiny, this book promises to forever change the way you view the human story.
 
 ## Endorsements
 
@@ -84,40 +96,44 @@ On September 29th 2014 Dr. Johnson made a prediction. He said that in seven year
 
 Dr. Johnson was a newly minted astrophysicist. Giving a prediction seven years in advance, about an event that was two billion light years away was quite bold. Some people have difficulty knowing their house value next year, and she was predicting an event so far away in time and distance it defies human imagination. Happily, Dr. Johnson was taken seriously and the scientific community aimed their telescope and captured what came could be called "God's Clapping" photograph.
 
-It's quite the image if you feel like looking it up. If you did, it would probably be the first time you would see the photograph because it didn't attract huge attention. The prediction was not that bold. There was little doubt the supernova would happen. That's because Dr. Johnson didn't make a wild guess when making her prediction. Rather, she applied known and trusted laws of physics and mathematics, not easy to master, but easy to trust because they have been used so many times before to dependable results. The astronomer has gone onto a respected career, her prediction being one of many highpoints.
+It's quite the image if you feel like looking it up. If you did, it would probably be the first time you would see the photograph; it didn't attract huge attention. The prediction was not that bold. There was little doubt the supernova would happen. That's because Dr. Johnson didn't make a wild guess when making her prediction. Rather, she applied known and trusted laws of physics and mathematics, not easy to master, but easy to trust because they have been used so many times before to dependable results. The astronomer has gone onto a respected career, her prediction being one of many highpoints.
 
-Supernovae are a natural phenomenon. As is planet formation, electricity, mass extinctions, infections, and millions of other things. By natural phenomenon, I mean these things are part of the natural world without humanity's involvement as part of the wonderful universe we live in. Because they surround us, we have good reason to understand what makes the natural world tick they way it does.
+Supernovae are a natural phenomenon. As is planet formation, electricity, mass extinctions, infections, and millions of other things. By natural phenomenon, I mean these things are part of the natural world without humanity's involvement. Because they surround us, we have good reason to understand what makes the universe tick they way it does.
 
 We used have a vague understanding of planet formation, electricity, and the other phenomenon. We once thought the Sun orbited the Earth. That the Earth and its species were only a few thousand years old. We even thought sickness was due to "bad air", which is why old hospitals were so often had their windows wide open, even in cold months.
 
-This misunderstanding gave us odd behaviors. For example, it always amazed me that if our ancestors cleaned its wounds with alcohol (instead of drinking it), countless lives would have been saved from grusome deaths. Just think how many soldiers with a stab wound, loggers with a sliced hand, seamstresses with a cut finger suffered terrible pains that you could have prevented just by saying "hey, poor some alcohol on that". Without true knowledge, life and death was often a matter of chance. During the Black Plague that killed 1/3 to 1/2 of Europe's population, a convent of nuns were spared only because they happened to boil their laundry, and thereby happened to kill the ticks spreading the disease everyone thought was caused by "spontaneous generation" or the Devil.
+This misunderstanding gave us odd behaviors. For example, it always amazed me that if our ancestors cleaned their wounds with alcohol (instead of drinking it), countless lives would have been saved from grusome deaths. Just think how many soldiers with a stab wound, loggers with a sliced hand, seamstresses with a cut finger suffered terrible pains that you could have prevented just by saying "hey, poor some alcohol on that".
+
+Without true knowledge, life and death was often a matter of chance. During the Black Plague that killed 1/3 to 1/2 of Europe's population, a convent of nuns were spared only because they happened to boil their laundry, and thereby happened to kill the ticks spreading the disease everyone thought was caused by "spontaneous generation" or the Devil.
 
 These are but a few example of how having a vague understanding of the world around us made living a happy and healthy live so much harder. Happily, ignorance doesn't always last forever. Sometimes we uncover the reason behind the pains we feel. 
 
-Because eventually we come to understand why natural phenomenon happen. The path to enlightenment first reqiores making tools that can gather enough evidence of the natural world to change how we see. When enough evidence is gathered, a remarkable individual envisions a new philosophy to explain the new world. Thereafter this person will declare old facts to be mythologies. Sir Issac Newton explained the laws of gravity. Charles Darwin uncovered the laws of evolution. Joseph Lister proved applying carbolic acid to patients after an operation would prevent infections because microorganisms naked to our eyes called "germs" were what really make people so sick.
+Because eventually we come to understand natural phenomenon of the universe. The path to enlightenment first reqioues making tools that can gather enough evidence of the natural world to change how we see the universe. When enough evidence is gathered, a remarkable individual envisions a new philosophy to explain the new world. Thereafter this person will declare old facts to be mythologies. That's how Sir Issac Newton explained the laws of gravity. Charles Darwin uncovered the laws of evolution. Joseph Lister showed the world microorganisms called "germs" were what really make people sick.
 
-These new philosophies of the world change how we see it.
+As these new philosophies keep explaining the natural world better, and keep making regular life more prosperous and less painful, more people change how they see the universe and their place inside it.
 
-Humanity started off as just another biological creature. Therefore we had very little understanding of the natural world beyond our senses. Gradually, with enough tools, we gathered enough evidence, to create totally new ideas that unlocked our ability to look out at the universe and understand it. Now we can often predict what the future will bring in astronomy, biology, medicine, physics, and many other fields. These areas still have arguments and ignorance, but our understanding is so large that these fields have mostly become self-perfecting, because the more we understand, the more we can build tools to put our understanding to the test of the scientic method.
+Humanity started off as just another biological creature. Therefore we had very little understanding of the natural world beyond our senses. Using these senses, early human societies developed a wide range of mythological narratives to make sense of the natural world around them. Faced with the mysteries of the cosmos, the cycles of the seasons, the unpredictability of natural phenomena, and the fragility of human existence, our ancestors turned to storytelling as a means of imposing order and meaning on the unknown. These origin myths, creation stories, and belief systems provided explanatory frameworks that allowed early humans to grapple with questions of their place in the universe, the origins of life, and the forces that governed the natural world. From the pantheons of Greek and Roman gods to the spiritual traditions of indigenous cultures, these narrative structures served as the primary lens through which our forebears interpreted and interacted with their environment. While the specific content of these stories varied across cultures, their common function was to imbue the natural world with purpose, agency, and a sense of the sacred - a human-centric worldview that would persist until something more accurate come along.
 
-We don't yet have this level of understanding in our politics and economics. We have many belief systems that did their best to explain phenomenon like political revolutions, wars, and economic depressions. Each have elements of truth inside them, but like the world of our pre-breakthroughs they are not enough to make accurate predictions boring.
+
+That happend gradually, as new tools increased the senses, and increased the information sent to the human brain. As enough evidence was gathered it enabled totally new ideas that unlocked our ability to look out at the universe and understand it. Now we can often predict what the future will bring in astronomy, biology, medicine, physics, and many other fields. These areas still have arguments and ignorance, but our understanding is so large that these fields have mostly become self-perfecting, because the more we understand, the more we can build tools to put our understanding to the test of the scientic method.
+
+We don't yet have this level of understanding in our politics and economics. We have many belief systems that did their best to explain phenomenon like political revolutions, wars, and economic depressions. Each have elements of truth inside them, but like the world of our origin myths, creation stories, and belief systems they are not enough to make accurate predictions boring.
 
 This book is the first in a series that puts politics and economics on the list of things humanity truly understand. It will make the natural phenomenon we experience everyday described via laws of nature.
 
-Prior breakthroughs were predicated on simple observations. Ones that were so quant they were almost childish in their insight. Yet they changed the world, by changing our perspective of our place inside it. Sir Issac Newton saw an apple fall, and thus thought maybe things fall the same way everywhere, on Earth and in the Heavens. He thus discovered the universal law of gravitation. Albert Einstein wondered about light, and realized it's speed was the limit anything could travel in the Universe, and thus he discovered General Relativity. Louis Pasteur's key observation when discovering microorganisms came when he observed souring of wine and milk. This led him to propose the "germ theory of disease" - the idea that many illnesses are caused by the presence and activities of specific microbes too small for humans to ever see. 
+Prior breakthroughs were predicated on simple observations. Ones that were so quant they were almost childish in their insight. These eureka momemntschanged the world by changing our perspective of our place inside it. Sir Issac Newton saw an apple fall, and thus thought maybe things fall the same way everywhere on Earth and in the Heavens. He thus discovered the universal law of gravitation. Albert Einstein wondered about light, and realized it's speed was the limit anything could travel in the Universe, and thus he discovered General Relativity. Louis Pasteur's key observation when discovering microorganisms came when he observed souring of wine and milk. This led him to propose the "germ theory of disease" - the idea that many illnesses are caused by the presence and activities of specific microbes too small for humans to ever see. 
 
-These are but some of the simple observations that were groundbreaking, yet they were about events that happened since the dawn of time.
+These are but some of the simple observations that were groundbreaking, yet they were about events that happened nearly forever.
 
-All of this insights that flow for these three books are based on one simple fact. Humanity is not a biological species. We haven't been for many centuries. And with each passing invention we left the biological kingom of Life behind. We did not start fire with our eyes. We did not chart the world with our hands. The ways in which we gather resources, protect ourselves from the elements, defend ourselves from danger, and so many more things, has increasingly been with technology. 
+All of this insights that flow for these three books are based on one simple fact. Humanity is not a biological species. We haven't been for many centuries. And with each passing invention we leave the biological kingom of Life further behind. We did not start fire with our eyes. We did not chart the world with our hands. We do not spread most information face to face. The ways in which we gather resources, protect ourselves from the elements, defend ourselves from danger, communicate with each other, and so many more things, has increasingly been with technology. 
 
-Humanity evolves with technology. And technological evolves according to the same rules of evolution as biological. Like watching the apple fall, once we become self-aware of these facts, we can harness the power and take control of natural phenomenon by writing natural laws. To start us off, human technology co-evolution needed a new name, hence the new word "Techvolution."
+Humanity evolves with technology. And technological evolves according to the same rules of evolution as biological. Like watching the apple fall, once we become self-aware of these facts, we can harness the power and take control of natural phenomenon by writing natural laws. 
 
-Predictiond and clear explanations are the hallmark of any breakthrough. So, this book will explain what is happening today.
-
-1.	The book argues that technological evolution, not human-centric ideologies or philosophies, has been the driving force behind the progression of civilization.
-2.	The book contends that we are trapped within the stories, beliefs, and ideological frameworks of our own creation, which causes constant upheaval and revolutions as competing philosophies vie for dominance.
-3.	The book proposes that to truly harness and facilitate technological evolution, we need to escape the constraints of ideological storytelling and instead ground our understanding of politics and economics in the fundamental principles of evolution itself.
-4.	The book argues that by aligning our political, economic, and social frameworks with the "pillars of evolution" like natural selection, adaptation, and co-evolution, we can enable a smoother, more sustainable technological progress that benefits all of society.
+1. Human technology co-evolution needed a new name, hence the new word "Techvolution."
+2.	The book argues that technological evolution, not human-centric ideologies or philosophies, has been the driving force behind the progression of civilization.
+3.	The book contends that we are trapped within the stories, beliefs, and ideological frameworks of our own creation, which causes constant upheaval and revolutions as competing philosophies vie for dominance.
+4.	The book proposes that to truly harness and facilitate technological evolution, we need to escape the constraints of ideological storytelling and instead ground our understanding of politics and economics in the fundamental principles of evolution itself.
+5.	The book argues that by aligning our political, economic, and social frameworks with the "pillars of evolution" like natural selection, adaptation, and co-evolution, we can enable a smoother, more sustainable technological progress that benefits all of society.
 
 Quite the intro. The details are in the following chapters.
 
@@ -125,7 +141,7 @@ Quite the intro. The details are in the following chapters.
 
 To be done. Or redone. Not the 2084 mother, that'll stay for MIP. Maybe.
 
-## Chapter 1 - The Rules Where WeLive - The Gameboard
+## Chapter 1 - The Rules Where We Live - The Gameboard
 
 ### Introduction
 
@@ -567,3 +583,15 @@ Summary content goes here...
    - Epochs and such.
 
 ### What a Story
+
+## Working in Progress Notes
+
+- Modern thinking, ex from antropologists, is that culture/language made homo sapiens different from other hominids. This is said while noting the physiological differences (feet, hands, etc.) that were selected for each successive species, that succeeded in finding resources away from the trees. Tool are scene as a choice. Tools are just another adaptation, the same as any biological one. Evolution selects adaptations, and therefore tools, and not culture or langauge which are only means to use adaptations to harvest resources. To correct this misconception, this article has to explain how humans connect with their tools via politics. In order to do this, I must clarify what politics is by explaining how technological evolution has always been the driving force of civilization. Human created ideologies are just the means by which we understood our place in society and the universe. But as human storytelling fell as scientific tools let humans truly understand the physics, chemistry of the universe, so too will human storytelling of political ideologies fall.
+
+---
+
+The key points build upon each other in a coherent manner:
+1. Humans have evolved beyond our biological origins, with technology becoming the primary means by which we interact with and shape the world around us.
+2. The mythological narratives and belief systems developed by early human societies to explain the natural world have become increasingly inadequate as our scientific understanding has expanded.
+3. We have become trapped within the ideological frameworks of our own creation, leading to constant upheaval and societal failures.
+4. To truly harness technological progress, we need to ground our political, economic, and social structures in the fundamental principles of evolution itself, rather than outdated human-centric ideologies.
