@@ -3,19 +3,11 @@
 
 ## Rear Page Summary
 
-For centuries, we've defined ourselves our culture, language, and belief. But what if these human-centric narratives have obscured the true definition of our success and failure?
+Do you ever loo at the man in the mirror. Talk with him, try to motivate yourself with a story of encouragement. Maybe you say you're tall or whatever. None of that matters in the end....
 
-In Techvolution, a groundbreaking new work, we will dare to challenge convention and uncover a radical truth: our nationality, ethnicity, race, beliefs, and other identities do not matter. In truth, it's our technological evolution that has determined our fate ever since we came down from the trees.
+... once you put yourself inside the story of ongoing history technological evolution, politics, economics, and the human experience starts making a lot more sense. It's a story we're living...
 
-Contrary to popular belief and protests, viewership and votes, our unparalleled ability to create and adapt tools are what evolution truly judges us by. After all, evolution can't speak our languages or listen to our stories.
-
-Techvolution argues that our ideologies, no matter how entrenched, are merely the means by which we've organized ourselves around the tools we need to grow food, build shelter, and keep safe. But as technology progresses, these belief systems become outdated prisons that prevent us from dropping old ways of life and adopting a new one - causing the very political, economic, and social upheavals, protests, revolutions, and wars we wrongfully think are natural in politics.
-
-To escape this cycle, the book proposes we ground our politics and economics in the fundamental principles of evolution itself. Core tenants such as speciation, natural selection, variation, and co-evolution, directly apply to development of technology. They apply to us, but we follow them only by accident, too ignorant too harness the laws that govern our fate. Only by using evolution as our benchmark can we build sustainable, equitable, and efficient, and peaceful civilization.
-
-Techvolution offers a fresh, paradigm-shifting perspective for students of the social sciences, policymakers, business leaders, and anyone concerned with the future trajectory of our species that is only growing in the face of rapid transformation of digital technology. Prepare to rethink the very foundations of how we organize society - and unlock a bold new world where humanity's full potential can finally be realized.
-
-## Inner Flap
+## Inner flap
 
 mention
 
@@ -25,17 +17,17 @@ mention
 - entropy vs life.
 - reorienteing the story of life and the humans and technology inside it.
 
-For centuries, humanity has sought to understand our place in the world through the lens of ideology - the grand belief systems, political philosophies, and cultural narratives we've believed in throughout history. But what if these human-centric worldviews have obscured the true driving force behind our advancement as a species?
+For centuries, humanity has sought to understand our place in the world through the lens of ideology - the grand belief systems, political philosophies, and cultural narratives we follow, vote for, and even fight over throughout history. But what if these human-centric worldviews have obscured the true driving force behind our advancement as a species?
 
-In Techvolution, we dare to challenge this conventional wisdom, arguing that it is not the stories we tell about ourselves, but rather the technological evolution we have undergone, that holds the key to comprehending - and harnessing - human civilization.
+In Techvolution, we dare to challenge this conventional wisdom, arguing that it is not the stories we believe, but rather the technological evolution we have undergone, that holds the key to comprehending - and harnessing - human civilization.
 
-Drawing on cutting-edge research and a bold, interdisciplinary approach, the author contends that the evolutionary adaptations that have set us apart from other hominids are not our capacity for language or the rich tapestry of our cultures, but rather our unparalleled ability to create, innovate, and employ tools. Just as natural selection has shaped the biological world, Techvolution posits that the same evolutionary principles - innovation, adaptation, and co-evolution - have driven the technological progress that has remade our species into a technological one.
+Drawing on cutting-edge research and a bold, interdisciplinary approach, the author contends that the evolutionary adaptations that have set us apart from other hominids are not our capacity for language or the rich tapestry of our cultures, but rather our unparalleled ability to create, innovate, and employ tools. The tools you use are your defining feature; not gender, ethnicity, or nationality. Just as natural selection has shaped the biological world, Techvolution posits that the same evolutionary principles - speciation, adaptation, co-evolution - have remade our species into a full-blown technological one.
 
 Ideologies are just the means we used to connect with you tools. Limited technology of ancient times left the cosmos a mystery, thus we required a mythology to make sense of the world our eyes and ears, sun dials and water spouts, was showing us. As technology advanced, and our tools got more precise, we could see the world better and thus our mythologies fell to the truth as taugt to us via science. Ideologies change with technology, thus as technology changes, we must be willing to drop old ideologies to pickup new tools.
 
-We aren't used to doing that. Instead, ignorant of ideologies temporary nature, we have become ever more trapped within the very ideological frameworks we constructed. The constant upheaval of political revolutions, economic disruptions, and social unrest, the author argues, is the inevitable byproduct of our attempts to force our technological future into the outdated molds of our ideological past.
+We do not let go out old ideologies and identities easily. Hence we do not let go out old technoloqies easily. Hence we fight our own evolution. Ignorant of ideologies temporary nature, we have become ever more trapped within the very ideological frameworks we constructed. The constant upheaval of political revolutions, economic disruptions, and social unrest, the author argues, is the inevitable byproduct of our attempts to force our technological future into the outdated molds of our ideological past.
 
-To break free of this cycle, Techvolution offers a revolutionary new approach - one that casts aside the tired dogmas of left and right, capitalism and socialism, in favor of an new philosophy rooted in the empirical realities of how technology has transformed the human condition. By aligning our political, economic, and social structures with the fundamental principles governing technological progress, the author contends we can unleash a new era of sustainable, equitable, and future-proof advancement.
+To break free of this cycle, Techvolution offers a revolutionary new approach - one that casts aside the tired dogmas of left and right, capitalism and socialism, in favor of an new philosophy rooted in the empirical realities of how technology has transformed the human condition. By aligning our political, economic, and social structures with the fundamental principles governing technological evolution, the author contends we can unleash a new era of equitable and efficient advancement.
 
 Tackling everything from the origins of human civilization to the existential challenges of the digital age, Techvolution is a sweeping, paradigm-shifting work that will captivate readers across the ideological spectrum. Whether you're a student of the social sciences, a policymaker seeking new solutions, or simply someone seeking to understand the forces shaping our collective destiny, this book promises to forever change the way you view the human story.
 
@@ -145,6 +137,8 @@ Quite the intro. The details are in the following chapters.
 ## Foreword
 
 To be done. Or redone. Eating peanut butter and jelly sandwiches. On the train, reading and thinking "what will the next few page of this book be? not realizing the preceeding pages would be mythologized as approxmizations.
+
+on the train, wondering why professors, supposed beacons of knowledge and truth, would mock wikipedia and not use it. there was no word to use for it, no name to the action. this book is the end of a journey to udnerstand and give names to it. it turned out it was the same action so many kings and queens, wives and husbands, have done before. despite all the various names, in truth it was just holding back evolution because the next branch on the tree of (technological) life meant losing the social position one liked to have for benefit, identity, or trickery.
 
 ## Chapter 1 - The Rules of the Game
 
@@ -605,17 +599,21 @@ Summary content here.....
 
 ### Introduction
 
-If humans are to truly understand our politics and our destiny, both as individuals and as a species, we must first recognize that we are not exempt from the fundamental laws of nature that govern the how rest of the living world evolves. The physical, chemical, and geological processes that have shaped the evolution of life on Earth – from the formation of the planet itself to the cycling of elements and the flow of energy – create the very "gameboard" upon which all organisms, including humans, either play and suffer pains and deaths when we fail.
+If we humans are to truly understand our politics we must go on a journey. The first step was recognizing that we are not exempt from the fundamental laws of nature that govern the how rest of the living world. The physical, chemical, and geological processes that have shaped the evolution of life on Earth – from the formation of the planet itself to the cycling of elements and the flow of energy – create the very "gameboard" upon which all organisms, including humans, either play and suffer pains and deaths when we fail.
 
-Thus, in order to truly understand our place in life's evolution, it is essential we accept that we, too, are playing on the "gameboard" as anything other species must. As a highly intelligent and technologically advanced species, it can be tempting for humans to view ourselves as somehow separate from or above the natural processes that shape the rest of the living world. However, this perspective fails to acknowledge the reality that we, like all other living organisms, are inextricably bound to the same physical, chemical, and geological constraints that have shaped the evolution of life on Earth.
+It may seem obvious, but it's not. As a highly intelligent and technologically advanced species, it can be tempting for humans to view ourselves as somehow separate from or above the natural processes that shape the rest of the living world. Our ability to tell, and believe, in stories makes obscuring that are playing on the "gameboard" as anything other species. The eternal truth our new politics is based on is never forgetting we. like all other living organisms, are inextricably bound to the same physical, chemical, and geological constraints that have shaped the evolution of life on Earth and no amount of ticking boxes on a ideological scorecard matters in comparison.
 
-By recognizing our place within this broader "gameboard" of natural laws, we can gain a deeper appreciation for the forces and mechanisms that have driven the evolution of life, including our own species. This understanding can help us to situate ourselves more accurately within the grand narrative of life's history, and to recognize the ways in which our own existence and development are shaped by the same principles that have guided the emergence and diversification of all other living things.
+After recognizing our place within this broader "gameboard" of natural laws, we can understand the forces and mechanisms that have driven the evolution of all life, biological. Life, the creator, uses the laws of biology to create things that can both use the laws of nature to form themselves enough to survive in the world filled with physical, chemical, and geological forces. How does Life decide needs to form evermore anti-fragile forms to sustain itself. How does life's creations are put to the test of an editor called evolution.
 
-By acknowledging our fundamental connection to the natural world's eternal fight to stay alive, we can strive to develop more sustainable and harmonious ways of interacting with our environment and each other as we strive to keep evolving. And we must keep evolving, all day everyday. For the gameboard only has two players on it: Life and Entropy.
+For life does have the time to be gracious. For the gameboard only has two players on it: Life the creator of things and Entropy the destroyer.
+
+- note how humanity senses the world in a state of ignorance (fog of life), but gradually ventures out and studies it all. Not the history of mythology to science happens in every field and is totally natural.
 
 ### What Life is Playing Against - Entropy
 
-Why does life need to keep growing? Why can a tree not collect sunlight for a few days or months and use. Why does life need to keep collecting sunlight, food, and other forms of energy to stay alive?
+Why does life need to keep growing? Why can a tree not collect sunlight for a few days or months and use it forever. Why can life not invest in a trustfund and let its creatures ilve off of pastg sunlight, food, and other forms of energy?
+
+Seems silly. But think about how in the natural world, all forms of energy, and therefore food, are inherently temporary. The reason is the second law of thermodynamics, that says in short, "heat naturally flows from hot objects to cooler ones". Heat is lost, cold is the natural way of things. Life needs to move and thus can not be frozen. Life needs to continually harness energy because entropy is always taking it away. Any energy preservation like warm fur coats or fat stores are just buy some time.
 
 At the most fundamental level, life is a highly organized and complex phenomenon that exists in a state of dynamic equilibrium, maintained through the continuous input and transformation of energy. Organisms must constantly collect, store, and utilize energy in order to counteract the natural tendency of entropy to degrade and disorganize the intricate structures and processes that define life.
 
@@ -625,13 +623,15 @@ Similarly, at the ecosystem level, the cycling of nutrients and the flow of ener
 
 In this sense, life can be viewed as an ongoing struggle against the relentless march of entropy, a battle that has been waged since the earliest emergence of life on Earth. The organisms and ecosystems that are most successful in this race are those that have evolved the most efficient and effective strategies for collecting, storing, and utilizing energy – a process that has driven the incredible diversity and adaptability of life over the course of evolutionary history.
 
-But entropy is not just a force of destruction; it is also a fundamental driver of the creative processes that have given rise to the incredible diversity of life on our planet. The spontaneous formation of complex organic molecules, the self-organization of living cells, and the evolution of increasingly sophisticated lifeforms – all of these phenomena can be seen as the result of entropy-driven processes.
+Life needs constant growth and diversity because the more species it has in number and quantity, the more stores of energy it has against entropy's constant wrath.
+
+It's importatnt to note, entropy is not a actual villain. While it does constantly threaten life; it is also a fundamental driver of the creative processes that have given rise to the incredible diversity of life on our planet. The spontaneous formation of complex organic molecules, the self-organization of living cells, and the evolution of increasingly sophisticated lifeforms – all of these phenomena can be seen as the result of entropy-driven processes.
 
 Ultimately, the relationship between life and entropy is a fundamental aspect of the natural world, one that shapes the very fabric of the biosphere and the course of life's development on our planet. By recognizing and understanding this dynamic, we can gain deeper insights into the challenges and opportunities that confront living organisms, including our own species, as we navigate the complex and ever-changing "gameboard" of the physical, chemical, and geological laws that govern our existence.
 
 In this way, the principle of entropy is both a constraint and a catalyst, shaping the natural world in profound and often unexpected ways. It is a reminder that the universe is not a static, ordered system, but rather a dynamic, ever-changing tapestry of chaos and complexity, constantly unfolding in accordance with the fundamental laws of physics, chemistry, and geology.
 
-And life must search out this gameboard and understand its rules to keep playing the game. With the rules of the game so powerful, and entropy so constnat. How did life get started anyway?
+And life must search out this gameboard and understand its rules to keep playing the game. With the rules of the game so powerful, and entropy so constant. How does life play the game?
 
 ### Evolution - How Life Plays the Game 
 
