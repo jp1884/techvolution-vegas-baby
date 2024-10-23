@@ -1,65 +1,23 @@
 
 # Techvolution: Introducing A New Philosophy To Understand The Human Condition
 
-## Rear Page Summary version 1
+## Rear Page Summary
 
-Do you ever look at the face in the mirror and offer a smile, a wink, maybe even some dorky words of encouragement. We all do it sometimes when locked away trying to motivate ourselves to land the job, pass the grade, or fix some grand problem of our society.
+Are you ready to unlock a radical new understanding of the human condition? In this groundbreaking work you will read a transformative perspective that will forever change how you see yourself - and the world.
 
-We are making progress. Centuries into civilization we can answer many hard questions. Sciences such as physics, chemistry, astronomy, geology are filled with amazingly accurate predictions, accomplishments and measurements. Modern scientists in these fields often need motivation to stay interested rather than overcome huge challenges.
+What if everything we thought we knew about humanity was out of date? Techvolution offers a revolutionary framework that goes beyond traditional biological evolution, revealing how our technological evolution is the true driving force behind human progress and societal change.
 
-Many other fields of human understanding are not so lucky. Politics, economics, sociology, anthropology. And field where the subject is humanity is filled with much uncertainty, they are bursting into the sciences. Our current hatred in these fields is evidence how much we still rely on mythology instead of knowledge.
+The reason is simple: after centuries of building ever-more powerful tools and technologies, we now use these innovations to harvest the resources we need to survive. We are no longer defined solely by our genes, but by the technological extensions of ourselves. We are "technological beings" - and embracing this reality unlocks startling insights into the root causes of seemingly intractable problems, from racism and civil unrest to generational divides.
 
-What if after turn away from the mirror and open the door, you were still trapped inside yourself, believing in mythical stories that go unnoticed because everyone else is like you, hoping their beliefs willl turn the tide in your favour.
+Decades of research and cutting-edge analysis provide a revelatory new lens for comprehending the forces that shape our cultures, economies, and futures. This paradigm-shifting philosophy doesn't just theory-craft - it offers practical strategies to help you navigate the modern world with clarity, solve real-world challenges, and unlock your full potential as a technological being.
 
-This book change all that, but making you realize you the person in the mirror is not judging you. No human has any right to judge you. No lawyer, supervisor, parent, or whoever. For no human is your ultimate judge.
+Prepare to have your worldview transformed. Techvolution will show you how to:
 
-Evolution decides who stays on Earth. It does not speak your languge, it does not know your history, it does not care about your dreams. It only cares what adaptations you control.
+- Unlock new solutions to problems in politics, economics, and psychology by embracing your 'technological being' status
+- Anticipate and adapt to the accelerating pace of technological change
+- Harness your 'technological being' identity to make better decisions and achieve your goals
 
-That means The reason is you are a technological being, living a story of continually technological evolution. Once you put yourself inside the story of ongoing history technological evolution, politics, economics, and the human experience starts making a lot more sense. All those motivational speeches we listen to can be filtered
-
-Battling questions like who we are, and where we are going become obvious. It's a story we're living daily. And while we today may not be looking in teh mirror and seeing our technological selves, evolution is...
-
-we'll answers
-- why does freedom always (eventually) wins. (better pain/impression frontline feedback loop)
-- what racism, sexism, elitism are and why they always lose (until now).
-- what civil wars and revolutions are.
-- how the same laws of evolution determine our destiny
-
-## Rear Page Summary version 2
-
-Do you ever look in the mirror and wonder what's really driving the world around you? We all try to motivate ourselves to succeed, to make a difference, and to leave our mark. But what if the stories we tell ourselves about who we are and where we're going are holding us back.
-
-Centuries into civilization we can answer many hard questions. Physics, chemistry, geology and other sciences are filled with amazingly accurate predictions, accomplishments and measurements. Modern scientists in these fields often need motivation to stay interested rather than overcome huge challenges. But fields like politics, economics, and sociology remain shrouded in uncertainty because they are still rooted in mythical thinking.
-
-In Techvolution, you'll read a groundbreaking new philosophy that changes who you see in the mirror, and correct who is judging you, and therefore where your motivation should come from. It all starts be reframing the human experience through the lens of technological evolution. By understanding ourselves as "technological beings" in an ongoing story of adaptation and progress, the seemingly intractable problems in fields of politics, economics, and others suddenly become much clearer.
-
-Through this book, you'll gain a new perspective on the human condition and your place in the grand technological saga unfolding all around you. You'll learn:
-
-• Why freedom and democracy are destined to prevail, no matter the obstacles
-• The true nature of racism, sexism, and elitism - and why they are doomed to fail
-• How the same evolutionary principles that govern the natural world also shape our societies, cultures, and histories
-• What our technological destiny holds, and how to position yourself for the future
-
-Evolution decides who stays on Earth, and it does not care about our dreams or histories. How could it, it doesn't even speak our languages. Evolution only cares about the adaptations we control to harness resources. By embracing this reality, you'll unlock a new level of understanding and empowerment. Join the Techvolution and discover a new way to see the world - and yourself.
-
-## Rear Page Summary version 3
-
-Are you tired of the uncertainty and mythical thinking that plagues our understanding of politics, economics, and the human condition? In Techvolution, you'll discover a groundbreaking new philosophy that reframes the story of humanity as one of ongoing technological evolution.
-
-For centuries, the "hard sciences" like physics, chemistry, and astronomy have made remarkable strides, delivering astonishingly accurate predictions and accomplishments. Yet the fields that study humanity itself - sociology, anthropology, even economics - remain mired in ambiguity. Why is that?
-
-The answer lies in how we view ourselves. Most of us still see the person in the mirror as a purely biological being, shaped by our histories, cultures, and social circumstances. But what if we're missing the bigger picture? What if the true driver of human progress is not our personal stories, but the technological adaptations that evolution selects for?
-
-By embracing the reality that we are "technological beings" living in a constant state of evolutionary change, you'll unlock a new level of clarity about the world around you. You'll understand:
-
-• Why freedom and democracy are destined to prevail, no matter the obstacles
-• The true, evolutionary roots of racism, sexism, and other forms of prejudice
-• How the same principles governing the natural world also shape our societies, economies, and histories
-• The technological destiny that awaits humanity, and how to position yourself for the future
-
-No more relying on mythical thinking or hoping your personal beliefs will sway the tides of progress. Techvolution gives you a scientific framework for comprehending the human condition, empowering you to navigate the challenges and opportunities of our technological age.
-
-Stop looking in the mirror and seeing only yourself. Embrace your identity as a technological being, and discover how evolution itself is the true judge of our shared destiny. The Techvolution is here - are you ready to be a part of it?
+Whether you're an executive, policymaker, or simply someone seeking a deeper understanding of the human condition, Techvolution is an essential read. Discover a new way to see the world - and yourself.
 
 ## Inner flap
 
@@ -79,7 +37,7 @@ Tackling everything from the origins of human civilization to the existential ch
 
 rewrite and mention:
 
-- tree of evolution.
+- we live on the tree of ongoing evolution.
 - ideological loyalty keeps us jumping from branch to branch.
 - faceless life vs formed/masked identity.
 - entropy vs life.
