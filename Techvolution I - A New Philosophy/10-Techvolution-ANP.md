@@ -1,47 +1,42 @@
 
-# Techvolution: Introducing A New Philosophy To Understand The Human Condition
+# Techvolution: On the Origin of Technological Species
+
+## Candidate Titles
+- Techvolution: On the Origin of Modern Humanity
+- Techvolution: Introducing A New Philosophy To Understand The Human Condition
+- Techvolution: On the Origin of Technological Species
 
 ## Rear Page Summary
 
-Are you ready to unlock a radical new understanding of the human condition? In this groundbreaking work you will read a transformative perspective that will forever change how you see yourself - and the world.
+Who are you? What defines you? Who are your enemies and allies? We all have many different identities - cultural, national, ethnic, tribal. But what if everything we thought we knew about ourselves was out of date? 
 
-What if everything we thought we knew about humanity was out of date? Techvolution offers a revolutionary framework that goes beyond traditional biological evolution, revealing how our technological evolution is the true driving force behind human progress and societal change.
+In this groundbreaking work, Techvolution offers a transformative new framework that will forever change how you see yourself and the world around you. It reveals how our technological evolution, not biological evolution, is the true driving force behind human progress and societal change.
 
-The reason is simple: after centuries of building ever-more powerful tools and technologies, we now use these innovations to harvest the resources we need to survive. We are no longer defined solely by our genes, but by the technological extensions of ourselves. We are "technological beings" - and embracing this reality unlocks startling insights into the root causes of seemingly intractable problems, from racism and civil unrest to generational divides.
+The reason is simple: after centuries of building ever-more powerful tools and technologies, we now use these innovations to harvest the resources we need to survive. Thus, we are no longer defined solely by our genes, but by the technological extensions of ourselves. In the eyes of evolution, we are increasingly becoming "technological beings."
 
-Decades of research and cutting-edge analysis provide a revelatory new lens for comprehending the forces that shape our cultures, economies, and futures. This paradigm-shifting philosophy doesn't just theory-craft - it offers practical strategies to help you navigate the modern world with clarity, solve real-world challenges, and unlock your full potential as a technological being.
+Embracing our root identity lets us identify the root of our problems and unlock startling insights and solutions:
 
-Prepare to have your worldview transformed. Techvolution will show you how to:
+- How humanity has continued life's evolution by innovating new technologies
+- Practical strategies to implement new technologies that can quickly lower the cost of living 
+- Forever increase the condition of disadvantaged via technological empowerment
+- A path to settle the growing divides between progressives and conservatives by finding common cause in harnessing technological evolution
+- Lots more inside
 
-- Unlock new solutions to problems in politics, economics, and psychology by embracing your 'technological being' status
-- Anticipate and adapt to the accelerating pace of technological change
-- Harness your 'technological being' identity to make better decisions and achieve your goals
+Whether you're an executive, policymaker, or simply someone seeking a deeper understanding of the human condition, Techvolution is an essential read. This book will forever change the way you see the world - and yourself. Read it and discover a new philosophical framework for our technological age.
 
-Whether you're an executive, policymaker, or simply someone seeking a deeper understanding of the human condition, Techvolution is an essential read. Discover a new way to see the world - and yourself.
+## Inner lap
 
-## Inner flap
+For centuries, humanity has sought to understand our place in the world through the lens of ideology - the belief systems, philosophies, and cultural narratives we follow. But what if these human-centric worldviews have obscured the true driver of our advancement as a species?
 
-For centuries, humanity has sought to understand our place in the world through the lens of ideology - the grand belief systems, political philosophies, and cultural narratives we follow, vote for, and even fight over throughout history. But what if these human-centric worldviews have obscured the true driving force behind our advancement as a species?
+In Techvolution, the author dares to challenge this conventional wisdom. They argue that it is not the stories we believe, but rather the technological evolution we have undergone, that holds the key to comprehending - and harnessing - human civilization.
 
-In Techvolution, we dare to challenge this conventional wisdom, arguing that it is not the stories we believe, but rather the technological evolution we have undergone, that holds the key to comprehending - and harnessing - human civilization.
+The author contends that the evolutionary adaptations setting us apart are not our capacity for language or rich cultures, but our unparalleled ability to create, innovate, and employ tools. The tools we use define our fate; not gender, ethnicity, or nationality. Just as natural selection has shaped biological adaptations, the same evolutionary principles - speciation, adaptation, co-evolution - have remade our species into a technological one.
 
-Drawing on cutting-edge research and a bold, interdisciplinary approach, the author contends that the evolutionary adaptations that have set us apart from other hominids are not our capacity for language or the rich tapestry of our cultures, but rather our unparalleled ability to create, innovate, and employ tools. The tools you use are your defining feature; not gender, ethnicity, or nationality. Just as natural selection has shaped the biological world, Techvolution posits that the same evolutionary principles - speciation, adaptation, co-evolution - have remade our species into a technological one.
+Ideologies are stories we create to connect with our tools and make sense of the world. As technology advances, our beliefs must evolve. Yet we cling to old identities, fighting our own technological evolution by forcing the future into the outdated ideas of the past.
 
-Ideologies are just the means we used to connect with you tools. Limited technology of ancient times left the cosmos a mystery, thus we required a mythology to make sense of the world our eyes and ears, sun dials and water spouts, was showing us. As technology advanced, and our tools got more precise, we could see the world better and thus our mythologies fell to the truth as taught to us via science. Ideologies change with technology, thus as technology changes, we must be willing to drop old ideologies to pickup new tools.
+To break free, Techvolution offers a new approach - one that casts aside tired dogmas in favor of an philosophy rooted in the empirical realities of ceaseless technological transformation. By aligning our structures with the principles governing technological evolution, the author contends we can unleash a new era of equitable, efficient, and stable advancement.
 
-We do not however let go out old ideologies and identities easily. Hence we do not let go out old technoloqies easily. Hence we fight our own evolution. Ignorant of ideologies temporary nature, we have become ever more trapped within the very ideological frameworks we constructed. The constant upheaval of political revolutions, economic disruptions, and social unrest, the author argues, is the inevitable byproduct of our attempts to force our technological future into the outdated molds of our ideological past.
-
-To break free of this cycle, Techvolution offers a ingenious new approach - one that casts aside the tired dogmas of left and right, capitalism and socialism, in favor of an new philosophy rooted in the empirical realities of how technology has transformed the human condition. By aligning our political, economic, and social structures with the fundamental principles governing technological evolution, the author contends we can unleash a new era of equitable, efficient, and stable advancement.
-
-Tackling everything from the origins of human civilization to the existential challenges of the digital age, Techvolution is a sweeping, paradigm-shifting work that will captivate readers across the ideological spectrum. Whether you're a student of the social sciences, a policymaker seeking new solutions, or simply someone seeking to understand the forces shaping our collective destiny, this book promises to forever change the way you view the human story.
-
-rewrite and mention:
-
-- we live on the tree of ongoing evolution.
-- ideological loyalty keeps us jumping from branch to branch.
-- faceless life vs formed/masked identity.
-- entropy vs life.
-- reorienteing the story of life and the humans and technology inside it.
+Tackling everything from the origins of civilization to the challenges of the digital age, Techvolution will captivate readers across the ideological spectrum. This book promises to forever change how you view the human story by reorienting the narrative around technology's role in our collective destiny.
 
 ## Dedication
 
@@ -146,6 +141,19 @@ Humanity evolves with technology. And technological evolves according to the sam
 
 Quite the intro. The details are in the following chapters.
 
+--
+
+
+---
+
+The stage is set. You are in the story of life, but struggle going from branch to branch. To evolve, you must realize one truth: you are not a biological being, but a technological one. This journey of enlightenment will reveal the masks of identity you wear in a world full of falsehoods. With each page you turn in this book, you will learn true morality and humanity as you take on life's willingness to adapt itself to overcome whatever lies ahead to survive and prosper.
+
+- we live on the tree of ongoing evolution.
+- ideological loyalty keeps us jumping from branch to branch.
+- faceless life vs formed/masked identity.
+- entropy vs life.
+- reorienteing the story of life and the humans and technology inside it.
+
 ## Foreword
 
 To be done. Or redone. Eating peanut butter and jelly sandwiches. On the train, reading and thinking "what will the next few page of this book be? not realizing the preceeding pages would be mythologized as approxmizations.
@@ -158,9 +166,9 @@ on the train, wondering why professors, supposed beacons of knowledge and truth,
 
 If we humans are to truly understand our place in the story of life, we must go on a journey starting with life's beginning.
 
-Techvolution challenges the dominant view that language and culture are what distinguish humans from other hominids. Instead, the book argues that our unparalleled ability to create and adapt tools has been the true driving force behind the evolutionary success or failure of human civilizations. Like our pre-science understanding of the cosmos, our ideologies were engrossing stories, and how made sense of our politics. Meanwhile, how well our technology advancement followed the rules of natural selection was deciding our fate. This book is about revealing what evolution is selecting in and out when looking at human evolution.
+Techvolution challenges the dominant view that language and culture are what distinguish humans from other hominids. Instead, the book argues that our unparalleled ability to create and adapt tools has been the true driving force behind the evolutionary success or failure of human civilizations. Like our pre-science understanding of the cosmos, our ideologies were engrossing stories, and how made sense of our politics. Meanwhile, how well our technology advancement followed the rules of natural selection was deciding our fate. This book is about revealing what evolution is selecting when looking at humanity.
 
-To harness progress, Techvolution grounds our political, economic, and social structures in the fundamental principles of innovation, adaptation, and co-evolution that govern technological change. This paradigm shift is key to shaping a more sustainable future.
+To improve our progress, Techvolution grounds our political, economic, and social structures in the fundamental principles of innovation, adaptation, and co-evolution that govern technological change. This paradigm shift is key to shaping a more sustainable future.
 
 Changing a paragidm is a lot of work. As we embark on our exploration of Techvolution, it is essential that we first understand the gameboard in which we play. As science has taught us, there are fundamental forces and laws in our world and universe. For just as a game of chess is played upon a board with predetermined rules, the evolution of life on Earth has unfolded within the constraints of the physical and chemical laws that govern our universe.
 
@@ -1068,3 +1076,5 @@ the march of adapative reason.
 what does that make comedy? the reward for knowing the failure life/we must encounter as it ventures into the unknown.
 
 ---
+
+our perception of time and/or distance is what slanted our mythologies to be so wrong and hard to dislodge. no stellar paralax proved geocentrism. our limited recorded history proved creationism. for us, ignorance of the future does the same. unlike all lifeforms, our memories let us live in yesterday because we don't (yet) see the eons of technological evolution a head of us.
