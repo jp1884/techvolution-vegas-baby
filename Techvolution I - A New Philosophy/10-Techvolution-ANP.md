@@ -3,7 +3,7 @@
 
 ## Rear Page Summary
 
-Who are you? What defines you? We all have many different identities - cultural, national, ethnic, tribal. But what if everything we thought we knew about ourselves was out of date? 
+Who are you? What defines you inside society? We all have many different identities - cultural, national, ethnic, tribal. But what if everything we thought we knew about ourselves was out of date? 
 
 In this groundbreaking work, Techvolution offers a transformative new framework that will forever change how you see yourself and the world around you. It reveals how our technological identity, not our biological ones, is the true driving force behind human progress and societal change.
 
@@ -25,9 +25,9 @@ For centuries, humanity has sought to understand our place in the world through 
 
 In Techvolution, you will challenge this conventional wisdom as you discover that it is not the ideologies we believe, but rather the technological evolution we have undergone, that holds the key to comprehending - and harnessing - human civilization and your place inside it.
 
-What truly sets us apart from the natural world is not our capacity for language, rich cultures, or personalized identities but our unparalleled ability to create, innovate, and employ tools. The tools we use define our fate; not gender, ethnicity, or nationality. And just as natural selection has shaped biological adaptations, the same evolutionary principles - speciation, adaptation, co-evolution - have moved our species only a tree of evolving technological life.
+What truly sets us apart from the natural world is not our capacity for language, rich cultures, or personalized identities but our unparalleled ability to create, innovate, and employ tools. The tools we use define our fate; not gender, ethnicity, or nationality. And just as natural selection has shaped biological adaptations, the same evolutionary principles - speciation, adaptation, extinction - have moved our species onto the tree of ever-evolving technological life.
 
-Behind this realization is the insight that ideologies are not the source of ultimate truth as their followers often portray them. Rather, ideologies are stories we create to connect with our tools and organize all the roles - leaders, workers, etc. - needed to manage the ecosystem of technologies within society. Therefore, as technology changes, we must rethink our society and belief systems. Yet we cling to old stories, fighting our own technological evolution by forcing the future into the outdated ideas of the past.
+To see this truth one must realize the ideologies that give our identities are not perfect spheres. Rather, they are stories we create to connect with our technologies and tools and organize all the roles - leaders, workers, etc. - needed to manage the ecosystem of technologies within society. Therefore, as technology changes, we should rethink our belief systems and identities. Instead we cling to old stories, fighting our own technological evolution by forcing the future into the outdated ideas of the past.
 
 To break free, Techvolution offers a new approach, one that roots human identity, organization, and purpose in life's ongoing evolution rather than ideologies and human-centric identities. By embracing our nature as a technological species and aligning our beliefs with the principles of evolution, we can unlock a new era of seemless innovation, individual empowerment, and unprecedented flourishing.
 
@@ -47,48 +47,78 @@ _This book is especially dedicated to the extras on Main Street. When it’s tim
 
 <!-- Chapters: Rough notes per each -->
 
-- Where do we live?
+Chapter 1 - The Rules of the Game - Where do we live?
    - Physics
    - Chemistry
    - Entropy
    - (the gameboard)
-
-- What Life Is
+   - What Life Is
    - A creator   
 
-- What Evolution Is
+Chapter 2 - What Life Is - The Creator - 
+
+Chapter 3 - What Evolution Is - The Editor What Evolution Is
    - A editor
 
-- The History of Life's Evolution
+Chapter 4 - The History of Life's Evolution
    - Epochs and such.
 
-- Our Transition from Biological to Technological Life
+Our Transition from Biological to Technological Life
    - The magical invention of stuff.
    - The invention of storytelling (replaces instinct).
 
-- The History of Technological Life
+Chapter 5 - Our History From Trees to Fire
+
+Chapter 6 - The History of Civilization
+   - History of Technological Life
    - Ages et al.
 
-- The Make up Technological Society
+The Make up Technological Society
    - Aristotle's Triangle
 
-- The Easy Technological Evolution Within Ages
+The Easy Technological Evolution Within Ages
    - Why some civilizations prosper.
    - Why some philosphies win out.
    - they foster technological evolution.
 
-- The Troublesome Transition Between Ages
+The Troublesome Transition Between Ages
    - Triangle vs Triangle
    - Maksings of old tools/philosophies.
    - Corruption of storytelling
    - How the old dies (circles) and new ages are born (ladders).
 
-- Where We Are, and Where We're Going
+Where We Are, and Where We're Going
    - Industrial Age triangle vs. Internet Age.
    - Trump vs Biden et al.
    - How to get to the future, and what happens we don't hurry.
 
 ## Preface
+
+Preface: Laying the Foundation - Understanding Life and Evolution before Redefining Humanity
+
+There's this really good old film called "Thirty Seconds Over Tokyo". I watched it in film class back in college. The film is based on the Doolittle Raid, in which 16 U.S. bombers launched from an aircraft carrier to strike targets in Japan. After the devastating Pearl Harbor attack, America wanted to revive its self-confidence by striking at the heart of Tokyo. The film is a classic because of its pacing. The actually raid, while very dangerous for the crewman, was short and did not cause much damage. So the audience had to appreciate the journey of the people involved as they slowly built up the knowledge and guts to launch heavy bombers off an aircraft carrier that was only designed for small planes against an enemy that was far larger and stronger then America was. The filmmakers did an excellent job, expecially with the title, "Thirty Seconds Over Tokyo" which from the outset means the audience is ready to watch, learn, and watch the tension build until the short climax; will the daring raid succeed and who will survive?
+
+As you begin reading this book, you may find yourself confronted with an idea that, at first glance, seems to depart radically from the conventional wisdom about human identity and purpose. The central thesis of "Techvolution" is that our species has evolved beyond simply being defined by our biological attributes - we have become a technological species, with our tools and innovations playing a fundamental role in shaping our civilization and our very sense of self.
+
+This is an ambitious and provocative claim, I acknowledge. But in order to build a truly robust and convincing case for this transformative perspective, I believe it is essential that we first establish a solid foundation in the basic principles governing life and evolution on our planet. Only then can we fully grasp the profound implications of humanity's technological co-evolution.
+
+The opening chapters of this book will thus take you on a journey through some of the foundational scientific concepts that underpin our understanding of the natural world. Much like the classic film "Thirty Seconds Over Tokyo," which built anticipation by carefully exploring the stories and training of the brave airmen before their climactic bombing raid, we must lay this essential groundwork before revealing our own paradigm-shifting revelation.
+
+We will explore how the immutable laws of physics, chemistry, and geology have dictated the development of life on Earth; in fact the laws of nature effectual have turned Earth into a gameboard life plays everyday. We will delve into defining the very essence of "life" itself, and unpack the way life plays the gameboard using the core mechanisms the laws of biology and evolution which have driven the incredible diversity of living organisms. Finally, we will trace the epic arc of life's evolution, from the first single-celled microbes to the rise of complex multicellular lifeforms that together inside ecosystems have turned the gameboard of Earth into an oasis for Life in the known universe; a lifeboat if you will.
+
+While these early sections may not immediately dive into the idea of humanity as a "technological species," this groundwork is absolutely vital. Only by grasping the fundamental patterns and drivers of biological evolution can we truly appreciate the radical implications of our technological co-evolution - a transformation that, I will argue, represents nothing short of a new phase in the history of life on this planet.
+
+So I ask for your patience as we establish this essential foundation. By the time we reach the chapters that introduce the "Techvolution" framework, I am confident you will be primed and ready to fully engage with this paradigm-shifting perspective. Together, we will embark on an intellectual journey that promises to forever alter how you view the human condition and the future of our species.
+
+I have years of research, but not much real world applicability. That is not for lack of trying. Most of the ideas in this book were born during my college education at the University of Toronto. Back then I would write how using Aristotle's Poetics can be used better understand Hegelian Dialectics to showcase how humanity continues life's evolution via technological evolution. Basically that means that understanding storytelling to a great degress (why I was in a film course) can help decode the stories behind mankind's ever changing ideologies to showcase how ideologies actually exist to help humanity connect with technology. It was a good insight and lead to good but very hard for a kid to communicate. 
+
+It was like communicating evolution to an creature. They did not want to be made self-aware...
+
+
+Let us begin, then, with an exploration of the origins of life itself. For only by understanding where we have come from can we hope to uncover the true nature of who and what we are becoming.
+
+
+--
 
 To be done. Or redone. Eating peanut butter and jelly sandwiches. On the train, reading and thinking "what will the next few page of this book be? not realizing the preceeding pages would be mythologized as approximations.
 
@@ -97,13 +127,26 @@ on the train, wondering why professors, supposed beacons of knowledge and truth,
 - 30 Seconds Over Tokyo
 - Profs ridiculing Wikipedia
 - Total recalls 2 and the unbelievable commuting to a factory in a road that tunnels through the fucking Earth. Now with the toronto tunnel. Cannot drop old ways of life, can't move from expansion to speciation. Many camels in the Amazon makes for A Non Functioning Society.
+- This book clarifies what it means to be human. It exposes the tricks ideology uses to capture the minds and impose its identity on people's minds and thus opens them to see the evolution ongoing all around us.
 
 ## Foreword
 
 <!-- Yet to to be written. Do the same, happy to be here thing. -->
 <!-- Dialogue between Socrates and Darwin? -->
 
-##  Introduction
+Darwin: My dear fellow, I must say that I am utterly fascinated by the ideas presented in Techvolution! As I read through the pages, I couldn't help but feel a sense of déjà vu, as if I were witnessing the natural world unfold before my eyes once again. The parallels between the evolution of species and the evolution of technology are nothing short of remarkable.
+
+The concept of "Techvolution" itself is a masterstroke, my dear author. It is a word that perfectly captures the essence of the dynamic interplay between humanity and technology. I must admit that I had always been focused on the natural world, observing the intricate dance of species and their environments. But Techvolution has opened my eyes to the realization that the same principles that govern the evolution of life on Earth also apply to the evolution of technology.
+
+The way you describe the "tools" that humans use to extend their capabilities, and how these tools have become an integral part of our biology, is a truly insightful observation. It is as if the lines between the natural and artificial worlds have become blurred, and we are witnessing a new form of evolution unfold before our very eyes.
+
+Furthermore, I am intrigued by the concept of "technological species" and the idea that humanity has evolved beyond being merely a biological species. This notion resonates deeply with me, as I have always been fascinated by the ways in which species adapt to their environments. The concept of a technological species as a distinct entity, shaped by its interactions with technology, is a powerful and thought-provoking idea.
+
+In many ways, Techvolution is a natural extension of my own work on evolution. Just as I sought to understand the mechanisms that drive the evolution of species, you have endeavored to understand the forces that shape the evolution of technology. Your work has illuminated a new dimension of the evolutionary process, one that is driven by human agency and ingenuity....
+
+
+
+## Introduction
 
 On September 29th, 2014, Dr. Johnson made a prediction. She said that in seven years, three months, two days, at 10:11 AM EST, star number 9338 would explode.
 
@@ -1057,3 +1100,10 @@ what does that make comedy? the reward for knowing the failure life/we must enco
 ---
 
 our perception of time and/or distance is what slanted our mythologies to be so wrong and hard to dislodge. no stellar paralax proved geocentrism. our limited recorded history proved creationism. for us, ignorance of the future does the same. unlike all lifeforms, our memories let us live in yesterday because we don't (yet) see the eons of technological evolution a head of us.
+
+--
+
+how many people could learn your job/lifestyle. no other animals can pick up a new adaption whenever they want...
+
+--
+
