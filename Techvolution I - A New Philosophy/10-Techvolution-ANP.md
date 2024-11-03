@@ -94,40 +94,21 @@ Where We Are, and Where We're Going
 
 ## Preface
 
-Preface: Laying the Foundation - Understanding Life and Evolution before Redefining Humanity
+Laying the Foundation - Understanding Life and Evolution before Redefining Humanity:
 
-There's this really good old film called "Thirty Seconds Over Tokyo". I watched it in film class back in college. The film is based on the Doolittle Raid, in which 16 U.S. bombers launched from an aircraft carrier to strike targets in Japan. After the devastating Pearl Harbor attack, America wanted to revive its self-confidence by striking at the heart of Tokyo. The film is a classic because of its pacing. The actually raid, while very dangerous for the crewman, was short and did not cause much damage. So the audience had to appreciate the journey of the people involved as they slowly built up the knowledge and guts to launch heavy bombers off an aircraft carrier that was only designed for small planes against an enemy that was far larger and stronger then America was. The filmmakers did an excellent job, expecially with the title, "Thirty Seconds Over Tokyo" which from the outset means the audience is ready to watch, learn, and watch the tension build until the short climax; will the daring raid succeed and who will survive?
+There's this really good old film called "Thirty Seconds Over Tokyo". I watched it in film class back in college. The film is based on the Doolittle Raid, in which 16 U.S. bombers launched from an aircraft carrier to strike Tokyo. After the devastating Pearl Harbor attack, America wanted to revive its self-confidence by striking at the heart of Japan. The film is a classic because of its pacing. The actually raid, while very dangerous for the crewman, was short and did not inflict much damage. Instead of a typical war movie, the audience had to appreciate the journey of the people involved as they slowly built up the knowledge and guts to launch heavy bombers off an aircraft carrier. The filmmakers did an excellent job, expecially with the title, "Thirty Seconds Over Tokyo" which from the outset means the audience is ready to watch the tension build until the short climax; will the daring raid succeed and who will survive?
 
-As you begin reading this book, you may find yourself confronted with an idea that, at first glance, seems to depart radically from the conventional wisdom about human identity and purpose. The central thesis of "Techvolution" is that our species has evolved beyond simply being defined by our biological attributes - we have become a technological species, with our tools and innovations playing a fundamental role in shaping our civilization and our very sense of self.
+As you begin reading this book, you may find yourself think what does this have to do with changing the conventional wisdom about human identity and purpose. The central thesis of "Techvolution" is that our species has evolved beyond simply being defined by our biological attributes - we have become a technological species, with our tools and innovations playing a fundamental role in shaping our civilization and determing our futures. Thus, your primary identity should be the technology in your hand, not the history of your forebears, the genes if your DNA, or the self-identity if your head. Since technological evolution is your future, your politics and policies, hopes and prayers should be in getting better tools in your hand.
 
-This is an ambitious and provocative claim, I acknowledge. But in order to build a truly robust and convincing case for this transformative perspective, I believe it is essential that we first establish a solid foundation in the basic principles governing life and evolution on our planet. Only then can we fully grasp the profound implications of humanity's technological co-evolution.
+None of this means you must throw away your culture, friends, music, of anything else you enjoy. Recognizing the primacy of your technological identity only means recognizing that tools are how humanity prospers, thus you should put improving your toolset as your first priority and thus most important identity.
 
-The opening chapters of this book will thus take you on a journey through some of the foundational scientific concepts that underpin our understanding of the natural world. Much like the classic film "Thirty Seconds Over Tokyo," which built anticipation by carefully exploring the stories and training of the brave airmen before their climactic bombing raid, we must lay this essential groundwork before revealing our own paradigm-shifting revelation.
+This is an ambitious and provocative claim, I acknowledge. Most people today, from all walks of life, are very passionate about their identities. So much so I do not want to list any for fear of distracting anyone. So, in order to build a truly robust and convincing case for this new perspective, it is essential that we first establish a solid foundation in the basic principles governing life and evolution on our planet. Only then can we fully grasp the profound implications of humanity's technological co-evolution.
 
-We will explore how the immutable laws of physics, chemistry, and geology have dictated the development of life on Earth; in fact the laws of nature effectual have turned Earth into a gameboard life plays everyday. We will delve into defining the very essence of "life" itself, and unpack the way life plays the gameboard using the core mechanisms the laws of biology and evolution which have driven the incredible diversity of living organisms. Finally, we will trace the epic arc of life's evolution, from the first single-celled microbes to the rise of complex multicellular lifeforms that together inside ecosystems have turned the gameboard of Earth into an oasis for Life in the known universe; a lifeboat if you will.
+The opening chapters of this book will thus take you on a journey through some of the foundational scientific concepts that underpin our understanding of the natural world. We will explore how the immutable laws of physics, chemistry, and geology have dictated the development of life on Earth; in fact the laws of nature effectual have turned Earth into a gameboard life plays everyday to stay alive. We will delve into defining the very essence of "life" itself, and unpack the way life plays the gameboard using the core mechanisms the laws of biology and evolution which have driven the incredible diversity of living organisms. Finally, we will trace the epic arc of life's evolution, from the first single-celled microbes to the rise of complex multicellular lifeforms that together inside ecosystems have turned the gameboard of Earth into the only oasis for Life in the known universe; a lifeboat if you will.
 
-While these early sections may not immediately dive into the idea of humanity as a "technological species," this groundwork is absolutely vital. Only by grasping the fundamental patterns and drivers of biological evolution can we truly appreciate the radical implications of our technological co-evolution - a transformation that, I will argue, represents nothing short of a new phase in the history of life on this planet.
+Much like the classic film "Thirty Seconds Over Tokyo," we must lay this essential groundwork. While these early sections may not immediately dive into the idea of humanity as a "technological species," this groundwork is absolutely vital. Only by grasping the fundamental patterns and drivers of biological evolution can we truly appreciate the radical implications of our technological evolution - a transformation that, I will argue, represents nothing short of a new phase in the history of civilization. 
 
 So I ask for your patience as we establish this essential foundation. By the time we reach the chapters that introduce the "Techvolution" framework, I am confident you will be primed and ready to fully engage with this paradigm-shifting perspective. Together, we will embark on an intellectual journey that promises to forever alter how you view the human condition and the future of our species.
-
-I have years of research, but not much real world applicability. That is not for lack of trying. Most of the ideas in this book were born during my college education at the University of Toronto. Back then I would write how using Aristotle's Poetics can be used better understand Hegelian Dialectics to showcase how humanity continues life's evolution via technological evolution. Basically that means that understanding storytelling to a great degress (why I was in a film course) can help decode the stories behind mankind's ever changing ideologies to showcase how ideologies actually exist to help humanity connect with technology. It was a good insight and lead to good but very hard for a kid to communicate. 
-
-It was like communicating evolution to an creature. They did not want to be made self-aware...
-
-
-Let us begin, then, with an exploration of the origins of life itself. For only by understanding where we have come from can we hope to uncover the true nature of who and what we are becoming.
-
-
---
-
-To be done. Or redone. Eating peanut butter and jelly sandwiches. On the train, reading and thinking "what will the next few page of this book be? not realizing the preceeding pages would be mythologized as approximations.
-
-on the train, wondering why professors, supposed beacons of knowledge and truth, would mock wikipedia and not use it. there was no word to use for it, no name to the action. this book is the end of a journey to udnerstand and give names to it. it turned out it was the same action so many kings and queens, wives and husbands, have done before. despite all the various names, in truth it was just holding back evolution because the next branch on the tree of (technological) life meant losing the social position one liked to have for benefit, identity, or trickery.
-
-- 30 Seconds Over Tokyo
-- Profs ridiculing Wikipedia
-- Total recalls 2 and the unbelievable commuting to a factory in a road that tunnels through the fucking Earth. Now with the toronto tunnel. Cannot drop old ways of life, can't move from expansion to speciation. Many camels in the Amazon makes for A Non Functioning Society.
-- This book clarifies what it means to be human. It exposes the tricks ideology uses to capture the minds and impose its identity on people's minds and thus opens them to see the evolution ongoing all around us.
 
 ## Foreword
 
@@ -166,15 +147,19 @@ This is why Francis Bacon is called "the man who could see through time". He cou
 
 The point is the truth of the matter can not be self-referencing. The truth is "out there" in the world and humanity must venture out and find it. No one should be able to say "I know the Sun revolves around the Earth, because this book says it does." Rather, any truth about the world, must be confirmed by investigating the world, and discovering the laws that make the Sun and Earth move. Thereafter the truth of their actions will be self-evident.
 
+To apply this same scientific rigor to understanding human society, we must recognize that humans are not just passive recipients of scientific progress, but active participants in shaping their own evolution. By understanding the tools and technologies that have enabled us to thrive, we can uncover a new perspective on human identity and our place in the world.
+
 In the realms of politics and economics, we remain largely in the dark ages. Our understanding relies on competing belief systems that, while containing elements of truth, are largley self-affirming. Ideologues belief as long as their preferred policies are followed, no fault can be assigned to them. Cut taxes, raise government spending, etc. are always good. This introverted ideological rigidity is why we do not have the predictive power we've achieved in the natural sciences. We still can not reliably forecast political upheavals, prevent economic crises, or resolve social conflicts.
 
 This book begins the long trek to knowledge like with a rather an insight with a small step in a new direction. Paradigm shifts often stemmed from simple observations. Isaac Newton's insight about an apple's fall led him to uncover gravity exists on Earth and the heavens. Einstein's musings on light's speed unveiled general relativity because he realize the speed of light is a universal speed limit. Pasteur's observations of souring wine and milk inspired the germ theory of disease. These eureka moments, rooted in humble beginnings, profoundly reshaped our understanding of the world and our place in it by challenging conventional wisdom with an almost childlike perspective.
 
-Techvolution's new perspetive is a truth we have long seen but not realized—humanity has evolved beyond being merely a biological species. For centuries, we have been transforming into something new—a technological species. We do not start fires with our eyes, navigate oceans with our innate senses, or communicate primarily face-to-face. Instead, we get the neccessities of life by extending our capabilities through tools and technologies which evolve according to the same fundamental principles that govern biological evolution. The term "Techvolution" describes this co-evolution of humans and technology, offering a new framework for understanding politics, economics, and social change.
+Techvolution's new perspetive is a truth we have long seen but is still "out there" to be realized—humanity has evolved beyond being merely a biological species. For centuries, we have been transforming into something new—a technological species. We do not start fires with our eyes, navigate oceans with our innate senses, or communicate primarily face-to-face. Instead, we get the neccessities of life by extending our capabilities through tools and technologies which evolve according to the same fundamental principles that govern biological evolution.
+
+This transformation is not just a matter of convenience or luxury; it's a fundamental aspect of our very existence. Consider the fact that the average person spends more time interacting with their smartphone than with their own family members. Technology has shortened distances so much, our customers, bosses are people we may never even meet. Our cars, computers, and other devices have become an integral part of our daily lives, shaping our experiences, relationships, and even our sense of self. By acknowledging our technological evolution, we can begin to understand the profound impact it has on our politics, economies, and social structures.
 
 This book is the first in a series that aims to do for politics and economics what Newton did for physics and Darwin did for biology—reveal the natural laws that govern their evolution. To transform our undersanding of huamnity we must go back to basics and define what life on Earth is, what requirements it has, and why it evolves as it doesn. At the send of this journey you will realize for your primary identity is the tools you use to have shelter, make a living, collect your food, and other practical requirements of life. By understanding humanity as a technological species, evolving through our innovations rather than just our biology, we can begin to make sense of our past and, more importantly, predict and shape our future.
 
-The journey ahead will challenge many of your existing beliefs about human nature and society. But just as understanding gravity helped us reach the stars, understanding our technological evolution will help us build a better world for all of humanity.
+This journey will challenge your fundamental beliefs about human nature and society. Just as understanding gravity opened the cosmos to us, grasping our technological evolution will illuminate the path to a better world. This new perspective offers more than just insight—it provides a blueprint for unlocking human potential. By recognizing our technological identity, we gain the power to shape our future deliberately, fostering innovation and creativity in ways we've only begun to imagine. The stakes are high: a more prosperous, peaceful, and sustainable world for all. This isn't just about understanding our past; it's about consciously directing our future. You have made the choice to read this new understanding, I promise you will love it.
 
 ### FAQ
 
@@ -1064,6 +1049,101 @@ Content goes here...
 ### Chapter Summary
 
 Content goes here...
+
+## Chapter 7 - Ancient Thought
+
+### Chapter Introduction 
+
+Content goes here...
+
+### The Ancients
+
+Content goes here...
+
+### Chapter Summary
+
+Content goes here...
+
+## Chapter 8 - Modernity
+
+### Chapter Introduction 
+
+Content goes here...
+
+### The Moderns
+
+Content goes here...
+
+### Chapter Summary
+
+Content goes here...
+
+## Chapter 8 - Techvolution
+
+### Chapter Introduction 
+
+Content goes here...
+
+### Game of Civilization
+
+Content goes here...
+
+### Chapter Summary
+
+Content goes here...
+
+---
+
+<!-- originall this was to be in the Preface, however its better said after the foundations have been laid -->
+
+I have years of research, but not much real world applicability. That is not for lack of trying. Most of the ideas in this book were born during my college education at the University of Toronto. Back then I would write how using Aristotle's Poetics can be used to better understand Hegelian Dialectics to showcase how humanity continues life's evolution via technological innovation. Basically that means understanding storytelling to a great degree (why I was in a film course) can help decode the stories behind mankind's ever changing ideologies to showcase how ideologies actually exist to help humanity connect with technology. It was a good insight but very hard for a kid to communicate.
+
+My college years provided a stark illustration of resistance to technological evolution. Initially studying urban planning and working days, I later secured a telecommuting role, eliminating a two-hour daily commute. This significantly improved my sleep, reduced stress, and boosted my grades. However, traffic management professors dismissed telecommuting due to managerial objections, a stance I found akin to a parasitic relationship—prioritizing established systems over efficiency. The subsequent outsourcing of my job to India, a move they readily approved, exposed their true motivations. Their concern wasn't economic optimization but preserving their own positions within a system built around outdated technology. They were, in effect, gatekeepers of an obsolete paradigm, actively resisting the very technological advancements they ostensibly championed. This experience powerfully highlighted the inertia inherent in established systems facing technological disruption, and the often-hidden self-interest driving resistance to change.
+
+Political science professors, despite their professed dedication to knowledge, mirrored the resistance to emerging internet technologies prevalent in academia. High-priced journals and textbooks, coupled with ever-increasing tuition, created a system where knowledge was treated as a commodity. This was starkly contrasted by the near-universal disdain for Wikipedia, a project ironically rooted in academia. Initially launched as Nupedia by Jimmy Wales and Larry Sanger, this attempt to create a free repository of expert-written knowledge yielded only 21 entries in a year. Frustrated by this slow progress, Wales created Wikipedia, leveraging open-source software. Within a year, a community of volunteers generated 18,000 articles, showcasing the power of collaborative, readily accessible knowledge creation. Wikipedia's inherent perfectibility, facilitated by easy editing, stands in stark contrast to the controlled, commodified knowledge dissemination prevalent in traditional academia.
+
+Managers refusing to adopt new technology, professors refusing to edit Wikipedia (or instruct students too). Connecting these experiences with theory convinced me people are connected to the tools that give them a community, an identity, and a paycheck. Yet we do not recognize how technology gives us our identity. When someone creates something new, like an iPod or a new lightbulb, we call them an inventor or an innovator. Just the act of invention, big or small, makes people smile. We assume this magical new thing will change the world in some way.
+
+Yet half the equation is missing. Inventing is not using. Theres a huge problem in getting inventions into the hands of people. Business degrees speak about this yet most have not idea either. Marketing helps a lot, and there's lots of people working on this problem of course. But what we do not have is even a no word for opposition to innovation. What were the managers and professors doing when they refused to accept new technology?
+
+We cannot make a label for something we do not see.
+
+Seeing the world through ideology, we have another word for opposition that makes it impossible to overcome. Because we do not yet see ourselves as a technological species, we interpret our society through the ideology of the time. Thus when someone wants to oppose new technologies that disrupt their place in society, they can create rules restrict technology and wrap a story around the rules to justify why limiting technology is a good thing. Racism, sexism, elitism are just the stories of the day from people in charge trying to justify limited the power of technological innovation to everyone else.
+
+The one thing every disadvantage people has in common, is they restrict new technologies, because tools are humanity levers of power. Not only do ideological identities distract us from our true identity as technological beings, these identities make it so easy for people to justify why we should not be allowed to evolve.
+
+And that was the realization that made the history of political thought make sense. In each case
+
+There's no term, or word, to explain to something they are being. Rather people's identities are attached to the story they want to believe, and for others to believe. The storytelling we hear and preach is so powerful it supercedes the story of evolution going on all around us. Ideological storytelling actually made individuals believe God choose them to be kings and queens. That other people were born to be servants and slaves. That the universe revolves around the Earth, and that...
+
+With techhnolgical evolution as the main plot of life on Earth, these are best described as antagonists. The foils of innovators the world round. While innovators create things anyone can use, antagonists create stories, mythologies, and contracts that say new things are not allowed using the ideology of the day. People of the time do not see this evil because we see ourselves through the prison of the ideologies we create, thus holding someone back from innovation is justifiable.
+
+It will not be once we see ourselves as technological beings who understand we innovate or die, and thus innovators are our heroes and antagonists are our enemies.
+
+There's no term, or word, to explain to something they are being... Rather people's identities are attached to the story they want to believe, and for others to believe. The storytelling we hear and preach is so powerful it supercedes the story of evolution going on all around us. Ideological storytelling actually made individuals believe God choose them to be kings and queens. That other people were born to be servants and slaves. That the universe revolves around the Earth, and that...
+
+I wrote about this in a book called "A Non-Functioning Society: Why the 2008 Financial Crisis Is Only the Beginning". I felt the strong need get the ideas out...
+
+To prove it, I set out to invent it. What is the mechanism by which life enforce the rules of evolution. Only by uncovering that truth, can the means to enforce technological evolution without the need for ideological storytelling be possible. It was a bear of a problem to solve. I had to learn how digital technology worked....
+
+It all comes down to storytelling. To replace the insidious nature of ideological 
+
+
+Let us begin, then, with an exploration of the origins of life itself. For only by understanding where we have come from can we hope to uncover the true nature of who and what we are becoming.
+
+
+...Back to the start means we're going all the way back to before life even existed on this planet. Like "Thirty Seconds Over Tokyo" the action is in your appreciation for the journey. First of life, then of yourself in your mission to realize how you continue whether you like it or not. If we all realize this truth in time, war movies may just go the way of and find their place in the extinction to be studied as fossils...
+
+--
+
+To be done. Or redone. Eating peanut butter and jelly sandwiches. On the train, reading and thinking "what will the next few page of this book be? not realizing the preceeding pages would be mythologized as approximations.
+
+on the train, wondering why professors, supposed beacons of knowledge and truth, would mock wikipedia and not use it. there was no word to use for it, no name to the action. this book is the end of a journey to udnerstand and give names to it. it turned out it was the same action so many kings and queens, wives and husbands, have done before. despite all the various names, in truth it was just holding back evolution because the next branch on the tree of (technological) life meant losing the social position one liked to have for benefit, identity, or trickery.
+
+- 30 Seconds Over Tokyo
+- Profs ridiculing Wikipedia
+- Total recalls 2 and the unbelievable commuting to a factory in a road that tunnels through the fucking Earth. Now with the toronto tunnel. Cannot drop old ways of life, can't move from expansion to speciation. Many camels in the Amazon makes for A Non Functioning Society.
+- This book clarifies what it means to be human. It exposes the tricks ideology uses to capture the minds and impose its identity on people's minds and thus opens them to see the evolution ongoing all around us.
 
 ## Work in Progress Notes
 
