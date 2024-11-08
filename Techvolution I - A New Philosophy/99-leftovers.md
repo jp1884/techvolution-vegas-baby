@@ -4105,3 +4105,9 @@ Humanity evolves with technology. And technological evolves according to the sam
 5.	The book argues that by aligning our political, economic, and social frameworks with the "pillars of evolution" like natural selection, adaptation, and co-evolution, we can enable a smoother, more sustainable technological progress that benefits all of society.
 
 Quite the intro. The details are in the following chapters. The stage is set. You are in the story of life, but struggle going from branch to branch. To evolve, you must realize one truth: you are not a biological being, but a technological one. This journey of enlightenment will reveal the masks of identity you wear in a world full of falsehoods. With each page you turn in this book, you will learn true morality and humanity as you take on life's willingness to adapt itself to overcome whatever lies ahead to survive and prosper.
+
+===
+
+For example, Donald Trump is not an random political figure. There is a rational and predictable reason why he won his terms. Basically, evolution needs ecosystems, and hence borders, although ours are not perfect, they must exist. To understand why without emotion or boasting, will take a new paradigm.
+
+===
