@@ -40,7 +40,33 @@ _This book is especially dedicated to the extras on Main Street. When it’s tim
 
 ## Quote
 
-<!-- Yet to be filled. -->
+_Man is a tool-making animal._
+- Benjamin Franklin
+
+
+_We become what we behold. We shape our tools and thereafter our tools shape us._
+- Marshall McLuhan
+
+
+_It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change._
+- Often attributed to Charles Darwin
+
+---
+
+_Technology is anything that wasn't around when you were born._
+- Alan Kay
+
+## Series of Works
+
+Techvolution presents the concept that technological evolution, rather than human-centric ideologies, drives civilization's progression. This journey unfolds in three stages: understand yourself through your technological identity, learn to use different tools regardless of their attached ideology, and work effectively with others through frameworks for mass collaboration.
+
+**Book 1 - A New Philosophy:** This foundational work introduces technological identity—the idea that humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general interact with the world. Moving beyond cultural, national, or political identities, it demonstrates how our technological capabilities drive human evolution. From stone tools to smartphones, our technological choices shape not just what we can do, but who we fundamentally are.
+
+**Book 2 - Mixed Ideological Politics:** Understanding our technological identity reveals ideologies as frameworks for relating to different tools. This book teaches how to move flexibly between ideologies allowing us to pick up and drop tools as needed to solve problems, rather than getting trapped in zero-sum ideological battles as happens when we stay loyal to any tools, gadgets, or innovations.
+
+**Book 3 - Bumblebee Economics:** Just as bumblebees follow simple rules to create complex behaviors that pollinate vast ecosystems, this book provides the framework for similar technological mass-collaboration. It enables individuals practicing Mixed Ideological Politics to work together effectively and mimic the extremely successful evolution of natural world inside our technological ecosystem.
+
+**understand yourself → learn to use different tools → work effectively with others**
 
 ## Table of Contents
 
@@ -973,6 +999,8 @@ To reach this new understanding, we continue our journey by tracing humanity's f
 
 Knowing evolution of early humanity tells us much about ourselves. These same requirements molded humans to give us the physiques and psychologies we have today. This new branch on the tree of life started when a lifeform left the trees and learned to walk.
 
+- so humans have the same requirement to pass on their genes and continue their adaptations. If early man was going to survive down from the trees, what did they need to evolve to capture their niche and pass on their genes/adaptation?
+
 ### How We Started - Paleoantropology
 
 The evolutionary journey of our hominin ancestors is a tale of resilience, adaptation, and the relentless drive to survive and thrive in the ever-changing landscapes of our planet. The roots of this saga can be traced back millions of years, to the emergence of the first hominins - the group of primates that would eventually give rise to modern humans.
@@ -1195,6 +1223,7 @@ Throughout this vast and complex history, the common thread that binds all life 
 As we grapple with the profound challenges of the present day, the lessons of life's evolutionary saga remind us of the importance of adaptation, innovation, and the enduring power of the living world to overcome even the most daunting of obstacles. For as long as the Earth endures, this epic story will continue to unfold, a testament to the triumph of life over entropy and the remarkable resilience of the natural world that we are privileged to call home.
 
 - and also, the extinction of many biological lifeforms had its replacement in more resilient technologial forms.
+- notice how early human development followed the requirements of evolution. among the community the best person/adaption had the authority in order to increase their success at being selected by evolution to continue their time in the game against entropy.
 
 ### Story - Day In The Life 15,000 Years Ago
 
@@ -1282,7 +1311,7 @@ Content goes here...
 
 Content goes here...
 
-## Chapter 9 - Techvolution
+## Chapter 9 - Techvolution - Camels in the Amazon
 
 ### Chapter Introduction 
 
@@ -1402,6 +1431,23 @@ This crisis highlights an interesting paradox of our technological evolution. Mo
 
 The key insight of Techvolution here is that we must shift our identity from being property owners to being ecosystem managers. Our power and capability come not from physical presence but from the technological systems we control. The future belongs to those who understand this shift and actively participate in this evolution. Instead of trying to solve tomorrow's problems with yesterday's tools, we need to build and maintain technological ecosystems that make distance irrelevant and response times near-instantaneous. This isn't just about convenience—it's about evolving our very relationship with the physical world through technology.
 
+### Application - Crash
+
+Car crash stats...
+
+### Application - Disaster Extremes
+
+Two times among thousands has political discussion come into fixing a real-life problem.
+
+The guy who ran off the road in winter, had a terrible driving record with insurance costs he could not afford, claiming the government was at fault for not salting the rural Canadian winter road. He was self-proclaimed conservative who did not like subsidies...
+
+The girl who was a property manager. House had a collapsed sewer line for 13 months. It finally collapsed and tenants were pissed and about to leave. Homeowner was money tight and desperate for the coverage. I needed the paperwork to review claim. When explaining to property manager why I needed it and that insurance can not "I don't need you manslaining to me..."
+
+Both people were disasters. They could not arrange their private affairs and used political discourse to cover that up.
+
+### Application - Merry Christmas
+
+Home invasion, the Plaza....
 
 ### Application - Bon Voyage
 
