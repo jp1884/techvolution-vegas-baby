@@ -1,6 +1,8 @@
 
 # Techvolution: On the Origin of Technological Species
 
+## Techvolution: A New Identity
+
 ## Rear Page Summary
 
 Who are you? What defines you in this age of massive technological change?
@@ -40,13 +42,13 @@ _This book is especially dedicated to the extras on Main Street. When it is time
 
 ## Series of Works
 
-Techvolution presents a new way of understanding human civilization. It showcases how our progress is driven not by our beliefs or ideologies, but by the technologies we create and use. In a series of books, we explore how to unleash unprecedented progress by better understanding ourselves through our tools, learning to use any technology without ideological bias, and work together effectively on a massive scale.
+Techvolution: On the Origin of Technological Species presents a new way of understanding human civilization. It showcases how our progress is primaryly driven not by our beliefs or ideologies, but by the technologies we create and use. In a series of books, we explore how to unleash unprecedented progress by: better understanding ourselves through our tools, learning to use any technology without bias, and work together effectively on a massive scale.
 
-**Book 1 - A New Philosophy:** This foundational work introduces a "technological identity"—the idea that humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general interact with the world. Moving beyond cultural, national, or political identities, it demonstrates how our changing technological capabilities drive human evolution and conflict. From stone tools to smartphones, our technological choices shape not just what we can do, but who we fundamentally are.
+**Book 1 - A New Identity:** This foundational work introduces a "technological identity"—the idea that humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general interact with the world. Moving beyond cultural, national, or political identities, it demonstrates how our changing technological capabilities drive human evolution and conflict. From stone tools to smartphones, our technological choices shape not just what we can do, but who we should see in the mirror.
 
-**Book 2 - Mixed Ideological Politics:** This book teaches how to evaluate and use tools based on their effectiveness rather than their ideological associations. This is in contrast to today, where we often reject useful technologies simply because they're associated with opposing viewpoints - whether political, cultural, or economic.
+**Book 2 - Mixed Ideological Politics:** This book teaches how to evaluate and use tools based on their effectiveness rather than any ideological associations. This is in contrast to today, where we often reject useful technologies simply because they are associated with opposing viewpoints - whether political, cultural, or economic.
 
-**Book 3 - Bumblebee Economics:** Just as bumblebees follow simple rules that pollinate vast ecosystems, this book provides the framework for similar technological mass-collaboration. It enables individuals practicing Mixed Ideological Politics to work together seamlessly and thereby allowing our technological world to evolve as naturally as ecosystems do.
+**Book 3 - Bumblebee Economics:** Just as diverse creatures like roses, deer, and bumblebees follow simple rules that create vast ecosystems, this book provides the framework for similar technological mass-collaboration. It enables individuals practicing Mixed Ideological Politics to work together seamlessly and thereby allowing our technological world to evolve as naturally as ecosystems do.
 
 **understand yourself → learn to use different tools → work effectively with others**
 
@@ -75,13 +77,13 @@ _Technology is anything that was not around when you were born._
 - Foreword
 - Introduction 
 
-- Chapter 1 - The Rules of the Game
+- Chapter 1 - Earth is Chessboard - Here Are The Rules of the Game
    - Application - 
 
-- Chapter 2 - What Life Is - The Creator of Life
+- Chapter 2 - What Life Is - The Creator of Players
    - Application - 
 
-- Chapter 3 - What Evolution Is - The Editor of Life
+- Chapter 3 - What Evolution Is - The Editor of Players
    - Application - 
 
 - Chapter 4 - The History of Life's Evolution
@@ -99,7 +101,7 @@ _Technology is anything that was not around when you were born._
 - Chapter 8 - The Moderns
    - Application - 
 
-- Chapter 9 - Techvolution - Camels in the Amazon
+- Chapter 9 - Techvolution - The Ones Who Lived the Truth - Camels in the Amazon
    - Application - 
 
 
@@ -172,7 +174,7 @@ When our society confronts a problem today, we instinctively start with identity
 
 To achieve this, we need to develop empathy for each other's technological status. This is precisely what ideologies strip away from us. Ideologies let us assign ourselves and others convenient labels. We call someone a "government worker" or a "corporate worker" even though they might use the same tools - Microsoft Office, similar cars, identical schedules, shared educational backgrounds. No politician or citizen thinks to identify these people as "workers who process insurance claims using 1990s technology like PDFs and emails." Yet these are the tools they use, and this is how evolution sees them.
 
-Evolution increasingly views us as tool users. Seeing ourselves this way requires a new kind of honesty - one that exposes our vulnerabilities. It is easy for someone behind the technological curve to hide behind seniority or titles, even while becoming evolutionary dinosaurs. Today's identities, from regional managers with human resources diplomas to cable news personalities, often serve as masks, hiding the truth from others and ourselves as we try to keep obsolete technologies alive past their expiration date.
+Evolution views us as tool users. Although indirectly, Uber Eats solves my problem nicely. Seeing ourselves this way requires a new kind of honesty - one that exposes our vulnerabilities. It is easy for someone behind the technological curve to hide behind seniority or titles, even while becoming evolutionary dinosaurs. Today's identities, from regional managers with human resources diplomas to cable news personalities, often serve as masks, hiding the truth from others and ourselves as we try to keep obsolete technologies alive past their expiration date.
 
 Because we don't prioritize our technological identity, we let fictions, insecurities, and diversions fester in our society. Reason and honesty take a back seat - understandably so, since honesty often leads to job loss and an identity crisis that others will gladly exploit. Much like an ancient person being honest about their afflictions, today when lies can no longer hold back evolution's demand for greater efficiency, unemployment and turmoil arrive with shocking force.
 
