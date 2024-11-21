@@ -42,13 +42,13 @@ _This book is especially dedicated to the extras on Main Street. When it is time
 
 ## Series of Works
 
-Techvolution: On the Origin of Technological Species presents a new way of understanding human civilization. It showcases how our progress is primaryly driven not by our beliefs or ideologies, but by the technologies we create and use. In a series of books, we explore how to unleash unprecedented progress by: better understanding ourselves through our tools, learning to use any technology without bias, and work together effectively on a massive scale.
+Techvolution: On the Origin of Technological Species presents a new way of understanding human civilization. It showcases how our progress is driven not by our beliefs or ideologies, but by the technologies we create and use. In a series of books, we explore how to unleash unprecedented advancement by: better understanding ourselves through our tools, learning to use any technology without bias, and working together effectively on a massive scale.
 
 **Book 1 - A New Identity:** This foundational work introduces a "technological identity"—the idea that humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general interact with the world. Moving beyond cultural, national, or political identities, it demonstrates how our changing technological capabilities drive human evolution and conflict. From stone tools to smartphones, our technological choices shape not just what we can do, but who we should see in the mirror.
 
-**Book 2 - Mixed Ideological Politics:** This book teaches how to evaluate and use tools based on their effectiveness rather than any ideological associations. This is in contrast to today, where we often reject useful technologies simply because they are associated with opposing viewpoints - whether political, cultural, or economic.
+**Book 2 - Mixed Ideological Politics:** This book teaches how to evaluate and use tools based on their effectiveness rather than any ideological associations. This is in contrast to today, where we often reject useful technologies simply because they are associated with opposing viewpoints - whether political, cultural, or economic. For example, today renewable energy is considered 'green' while diesel trucks are 'conservative' - these pre-defined labels showcase how ideological loyalties blind us to finding the best solutions for our problems.
 
-**Book 3 - Bumblebee Economics:** Just as diverse creatures like roses, deer, and bumblebees follow simple rules that create vast ecosystems, this book provides the framework for similar technological mass-collaboration. It enables individuals practicing Mixed Ideological Politics to work together seamlessly and thereby allowing our technological world to evolve as naturally as ecosystems do.
+**Book 3 - Bumblebee Economics:** Just as diverse creatures like roses, deer, and bumblebees follow simple rules that create vast ecosystems, this book provides the framework for similar technological human mass-collaboration. It enables individuals practicing Mixed Ideological Politics to work together seamlessly and thereby allowing our technological world to evolve as naturally as ecosystems do. For instance, imagine a world where the friction of repeatedly filling out contact information at every doctor's office, pharmacy, and workplace becomes a thing of the past - replaced by seamlessly evolving technological systems that work as naturally as ecological ones.
 
 **understand yourself → learn to use different tools → work effectively with others**
 
@@ -67,42 +67,43 @@ _It is not the strongest of the species that survives, nor the most intelligent 
 
 ---
 
+<!-- put in later in the book, helping readers recognize that their resistance to new technology is often just a generational perspective rather than an inherent limitation, thereby transforming what feels like a threatening future into a natural evolution we can consciously embrace via a new identity, politics, economics ie a new philosophy -->
+
 _Technology is anything that was not around when you were born._
 - Alan Kay
 
 ## Table of Contents
 
-- Table of Contents
 - Preface
 - Foreword
 - Introduction 
 
 - Chapter 1 - Earth is Chessboard - Here Are The Rules of the Game
-   - Application - 
+   - Application - TBD
 
 - Chapter 2 - What Life Is - The Creator of Players
-   - Application - 
+   - Application - TBD
 
 - Chapter 3 - What Evolution Is - The Editor of Players
-   - Application - 
+   - Application - TBD
 
 - Chapter 4 - The History of Life's Evolution
-   - Application - 
+   - Application - TBD
 
 - Chapter 5 - Our History From Trees to Fire
-   - Application - 
+   - Application - TBD
 
 - Chapter 6 - The History of Civilization
-   - Application - 
+   - Application - TBD
 
 - Chapter 7 - The Ancients
-   - Application - 
+   - Application - TBD
 
 - Chapter 8 - The Moderns
-   - Application - 
+   - Application - TBD
 
 - Chapter 9 - Techvolution - The Ones Who Lived the Truth - Camels in the Amazon
-   - Application - 
+   - Application - TBD
 
 
 <!-- Chapters: Rough notes per each -->
@@ -119,15 +120,18 @@ Chapter 2 - What Life Is - The Creator -
 
 Chapter 3 - What Evolution Is - The Editor What Evolution Is
    - A editor
+   - Application: The invention of the compass by Chinese sailors, showing how a simple tool redefined humanity's relationship with Earth's geography
 
 Chapter 4 - The History of Life's Evolution
    - Epochs and such.
+   - Application: The evolution of eyes as a tool, from light-sensitive spots to complex organs
 
 Our Transition from Biological to Technological Life
    - The magical invention of stuff.
    - The invention of storytelling (replaces instinct).
 
 Chapter 5 - Our History From Trees to Fire
+   - Application: The story of Ötzi the Iceman and his sophisticated tool kit, showing early human technological identity
 
 Chapter 6 - The History of Civilization
    - History of Technological Life
@@ -1492,19 +1496,33 @@ on the train, wondering why professors, supposed beacons of knowledge and truth,
 
 ## Techvolution - Applications of the Theory
 
+<!-- The Application chapters are essential to Techvolution because they transform the book's core thesis from an abstract theoretical framework into a living, observable pattern of human development. By presenting concrete historical narratives that demonstrate how tools fundamentally reshape human capability - from Frederick Douglass's literacy to the compass's navigational revolution - these chapters provide readers with tangible evidence of technological identity in action.
+
+These chapters serve multiple critical functions:
+1. Translate Complex Theory into Understandable Narratives
+2. Provide Historical Proof of Technological Evolution
+3. Show How Access to Tools Fundamentally Transforms Human Potential
+4. Bridge Scientific Disciplines by Demonstrating Parallels Between Biological and Technological Innovation
+5. Make the Book's Core Concepts Personally Relatable and Emotionally Compelling
+6. Demonstrates that technological evolution isn't just analogous to biological evolution - it's an extension of it
+
+Most importantly, the Application chapters answer the crucial reader question: "Why should I care?" By showing how technological access has always been a fundamental driver of human progress - not just an abstract concept - these chapters convert intellectual curiosity into genuine understanding. They reveal that Techvolution isn't proposing a new way of seeing the world, but rather helping readers recognize a pattern of human development that has always existed, but was previously invisible.
+
+The result is a book that doesn't just describe technological evolution, but demonstrates it through the most powerful tool humans have: storytelling. -->
+
 ### Chapter Introduction
 
-For nearly a decade, I worked as an insurance claims adjuster—a role that thrust me into the heart of human vulnerability. My daily responsibilities ranged from arranging rental cars for accident victims to coordinating support after devastating events like natural disasters and home invasions. Initially, the job felt overwhelming, but it gradually transformed into an unexpected lens for understanding human resilience.
+Theory can be dense, dry, and hard to apply. While Techvolution offers crucial insights into our evolving identity, abstract concepts alone rarely change how we see the world. What we need are stories—real examples that bring these ideas to life. In the following chapters, we'll explore Techvolution through three lenses: the grand story of life's evolution, the sweep of human history, and surprisingly, my time in the trenches as an insurance adjuster.
 
-As I began exploring the intersection of technology and humanity in Techvolution, my claims experience became an unexpected wellspring of insight. Through thousands of interactions, I witnessed how technological systems are the invisible infrastructure of modern life. Some challenges were minor—a lost watch or a dented car door. Others were catastrophic: entire communities evacuated during massive floods, lives upended in moments of technological failure. Each scenario revealed a profound truth: technology is simultaneously our greatest support and our most fragile lifeline.
+That last part might seem odd at first. Yet my years as an insurance adjuster gave me a unique window into human nature. I got the job to help me overcome my stutter. Working on a call-in queue was amazing, and grueling, speech therapy. After about a year I was much more comfortable, and started to notice something that informed my theory very well. Every day, I helped people navigate life's disruptions—from fender-benders to natural disasters. Each claim required diving deep into people's lives: their finances, relationships, and daily routines. Without realizing it at first, I was conducting an informal study of human behavior, one that would span thousands of cases and reveal patterns no laboratory could capture.
 
-What struck me most was how these technological challenges were universal. They transcended traditional boundaries of ethnicity, gender, and age. When a critical technological system failed—be it a smartphone, a communication network, or an emergency response platform—the human experience of disruption was remarkably consistent. This observation became the cornerstone of Techvolution: our technological capabilities, not just our biological traits, now fundamentally drive human adaptation and survival.
+What emerged was striking. Whether I was helping a tourist with a stolen purse in Paris or coordinating relief efforts after the Fort McMurray wildfire, I witnessed a universal truth: when technology fails us, our carefully constructed identities fade away. In these moments of technological disruption, we're all remarkably similar in our vulnerability—and in our desperate need to restore the tools and systems we depend on. These stories, woven throughout the following chapters, show us how deeply technology shapes not just our lives, but our very sense of self.
 
-In between chapters heavy on theory, I'll share specific stories from my claims experience. Through these narratives, I'll illustrate how recognizing our technological identity can help us build a more resilient, interconnected future.
+### Application - First Total Loss
 
-### Application -  A Tale of Distance, Technology, and Trust inside the Technological Automattic Nervous System
+Was at a total loss in the total loss...
 
-I was a insurance claims adjuster for years. My job was to receive phone calls and assess and help people out of tough situations by arranging services for them. For example, getting rental cars for people just in a car crash.
+### Application -  The Technological Automattic Nervous System
 
 This one time the phone line crackled with urgency. "Please don't hang up—it is taken me an hour to get through to you." As a claims adjuster, I've heard panic in many voices, but this call was unique. Here was a man standing on a cruise ship somewhere in the Caribbean, desperately trying to save his bed-and-breakfast thousands of miles away in rural Newfoundland. The scene was surreal: as he described his flooding home, the festive sounds of steel drums and laughing retirees drifted through the phone line, a jarring soundtrack to his personal crisis.
 
@@ -1567,9 +1585,11 @@ On a boat, who are your friends, what do you bring.
 
 Then you get lost. Now you live in the . Not because anything has changed. But because you. And all the problems you face, would apply to everything single person the same way.
 
-### Application - Who to Vote For
+### Application - Finding Our Way - Biologically and Technologically
 
-Endorsements imply some uniform perfect leadership and policy choice. Your interests are unique. Like in medicine, clothing, et al, your cotes should be based on your requirements....
+Life's endless experimentation eventually stumbled upon an extraordinary capability - the ability to sense Earth's magnetic field. Through countless genetic mutations over millions of years, various species evolved proteins called cryptochromes in their eyes or developed magnetic particles in their brains and beaks. These biological tools transformed simple creatures into master navigators. European robins could suddenly find their way across continents, sea turtles could navigate vast oceans to return to specific breeding grounds, and even tiny insects gained an internal compass to guide them. This biological innovation dramatically expanded these species' territories and capabilities, leading to new behaviors and survival strategies.
+
+Humans discovered the same navigational secret of Earth's magnetic field, but our path was remarkably different. Instead of waiting for genetic mutations, we created an external tool - the compass. Through technological experimentation, ancient Chinese civilizations discovered that a magnetized needle would always point north. This human-made tool could be manufactured, improved upon, taught to others, and combined with other technologies like maps. What took nature millions of years of evolutionary trial and error, humanity achieved through technological innovation in a relatively short time. Both paths - biological evolution and technological development - solved the same fundamental challenge of navigation, but while nature had to work with proteins and neurons, humans could work with magnetized metal and floating needles. The compass transformed human society just as magnetoreception transformed animal behavior, enabling expanded territories, new trade routes, and ultimately helping to connect the world.
 
 ### Application - What Are Your Options
 
@@ -1583,7 +1603,105 @@ A conversation with AI/LLM to discuss its and our future. Maybe make it an LLM c
 
 "Interestingly, this conversation connects directly to themes in Techvolution. We're examining the evolution of technological beings (from current AI to theoretical future androids like Data) while simultaneously demonstrating how technology shapes human identity and social interaction. The fact that we can have this meta-discussion about artificial intelligence while using shared cultural references from Star Trek shows how technology and culture co-evolve - exactly the kind of dynamic your book explores/"
 
+### Application - What is Freedom, What is Oppression
 
+As an example of technologies control over our growth and freedom, you needn't look further than this story of a Maryland farm boy named Frederick, who was born approximately two centuries ago.
+
+---
+
+Our story is about a Maryland farm boy named Frederick using tools to overcome ignorance. His farm is one of those you might have seen on shows like _Little House on the Prairie_. Salt of the earth farmers raising crops and families in 19th century rural America. No internet, no school systems, not much to learn but how to survive with your hands and the fortune God gave you.
+
+Frederick worked in the fields with his mother. It was hard labor, of course, there weren't many machines around, so he had to spill much blood, sweat, and tears, for himself and his mother.
+
+In a few years, Frederick was sent to work with a relative in Baltimore. The house was large, and the young family could use help cleaning, shopping, doing chores. It made his mother happy he wouldn't sweat so much, yet Frederick was a farmer and unsure of the big city.
+
+The patriarch of the house was named Hugh. He wasn't around much. His new wife, Sophia, was. She was a foreigner used to colder climates who didn't know many people yet, so she stayed in a lot. Sophia was kind and treated Frederick well. Not as a farmer, but as an interesting person. She made Frederick feel at ease.
+
+One day, Sophia handed Frederick a list of items to pick up from the store. Frederick's eyes looked down, his shoulders slouched, like a dog who disappointed its masters. Frederick mumbled, "I can't read."
+
+"My God, that won't do!" Sophia responded, then continued, "Reading is good. How else can a person give and receive information from... from... the world! I'll teach you; we'll do it together."
+
+So, Sophia began to teach Frederick to read. Sophia shared the magic of learning and was overjoyed.
+
+Frederick even more so! Finally, all those markings in the store, on street corners, in books, in newspapers, in the Holy Bible, meant something! Go left, turn right, open, closed, discounted, welcome, and Salvation, all words that open a new world!
+
+For the first time in his life Frederick had self-respect. He felt like he was a player in the game of civilization.
+
+Now Frederick danced to the store, and he whisked himself to do his chores. As he kept learning he loved how the world kept getting bigger, and more information kept pouring in.
+
+One day Hugh came home early. He saw Sophia and Frederick reading at the dinner table. Hugh walked into the room. "Boy, get out, and wait in the hallway. Face the wall."
+
+Frederick got out, went outside, and faced the wall.
+
+Seconds turned to minutes. Frederick rolled the newspaper in his hands tighter. He didn't want to go back to the farm. But even more, he didn't want his angel to get in trouble.
+
+Inside the room, Sophia was curious, "What is it?." Hugh responded, "This isn't Ohio... Darling, you can't do that. We could get in a lot of trouble. You can't teach them to read."
+
+Sophia responded, "everyone learns to read in Ohio."
+
+Hugh takes a seat and takes a deep breath to calm his nerves. Now he looks at his naive wife "This isn't a free State. He is a slave. What do you think happens when slaves read? Don't you think they'll start thinking?" Sophia's eyes went wide. Hugh continued, "It's against the rules to teach a slave to read... now teach the boy."
+
+As Frederick hears the hallway door open, he straightens up and grips his newspaper.
+
+Sophia says, "Turn around."
+
+Frederick does and looks at his angel, who talked with him like he was a person. And she looked back and only saw _her boy_.
+
+Sophia slapped the newspaper from her boy's hand. He didn't let go. She hit again and again and again. Each slap hurt more than a dozen whips on his scarred back.
+
+She slapped, and slapped, and hit, and hit. Sophia was told her new society's ruling philosophy. The magical joy of teaching someone to read, of expanding humanity's cyborgology to better win the game of evolution, was erased.
+
+Sophia now knows what evil is, and she will not do it. She will use her power of technology to prevent outsiders getting access to it. Sophia then and there became a demon protector of vile racism to justify human slavery.
+
+Frederick's world shut down again. The one white person ignorant enough to treat him like a person was now an educated convert to the rules that put him into chains. Physical chains if needed, but evil prefers mental chains of ignorance; they stay on so much easier.
+
+Weeks later, Frederick was still in despair. His daily routine was the same. Yet, working under demonic masters is just different. He didn't dance to the store, he didn't whisk to do his chores, and he never saw Sophia smile again.
+
+Demons are never happy. Demons are always on guard.
+
+One day while doing his chores, Frederick saw a newspaper, the avenue to knowledge whose path Frederick was once on. He looked at the markings, saw some words he knew, and one word he didn't. Yet he still stared at it.
+
+Why?
+
+The answer slapped him harder than the demon ever did, he read the words "The Free States in the ~~North~~." He heard the word freedom before, but he didn't know freedom was a real place.
+
+A shockwave went through him when he realized if slavery was a place, so must freedom be a place too. Frederick realized he could break chains! Because ignorance was always his demon, and knowledge was always his angel. And he fought ignorance and received wisdom, whenever he read.
+
+So, Frederick taught himself to read.
+
+He practiced with "ignorant" white kids on the streets. He read items tags at the grocery store and signs on the road. And he practiced every time he was at the Baltimore dock; the dock I said, you know the place, where ships will take you anywhere in the world.
+
+If you can read the schedule.
+
+One day Sophia waited for her boy to return. But the boy died when the man Frederick Douglass walked onto the ship headed north to freedom. The man knew the exact time, place, and fare he needed to get on. He read it, himself, on the schedule.
+
+Reading opened the world to Frederick, and now the free world was opened to him.
+
+The story gets better. Frederick Douglass wasn't happy just reading, he became a world-famous orator and writer. His words changed the game of civilization.
+
+In a world with no radio, video, or telephones, Douglass travels the Northern States and Europe telling everyone the truth about slavery. When the American Civil War (1861-1865) broke out, his books helped Britain reject recognizing the slave States, and thus deprived it of much-needed support. Douglass overcame ignorance of others, and he overcame oppression of involvement in humanity's natural technological evolution.
+
+The irony of a slave educating people about slavery, and thereby helping to end slavery, is the cherry on top of this great story.
+
+_Story adapted from A Narrative of the Life of Frederick Douglass. Free on Project Gutenberg._
+
+**Lessons to be Learned**
+
+Frederick Douglass's journey from slavery to freedom through literacy illuminates core principles about humanity's relationship with technology that remain relevant today. His story isn't just about learning to read - it's about how access to tools fundamentally transforms human capability and shapes power structures in society.
+
+In 19th century America, literacy functioned as a controlled technology. Just as modern authoritarian regimes restrict internet access, slave states understood that controlling information technology was crucial to maintaining power. Sophia's transformation - from someone who viewed reading as a universal right to someone who violently enforced technological restriction - demonstrates how social systems maintain these controls through ideology rather than just force.
+
+But Douglass's experience reveals something even more profound about human technological evolution. Once he gained access to this cognitive tool, his entire world expanded. Reading wasn't merely a skill - it was a form of technological augmentation that transformed his capabilities, his desires, and therefore his identity. The mysterious marks on signs, books, and ship schedules became an operating system for freedom that he could now access and use.
+
+His story illustrates three key principles of Techvolution:
+
+First, seemingly simple technologies can fundamentally alter human capability. Reading transformed Douglass from a passive object in civilization's game into an active player who could reshape the rules themselves.
+
+Second, technological restriction is often used to maintain power structures. Hugh's fear that literacy would make slaves "start thinking" reveals how those in power are ultimately defined by their control over a important technology and so they understand that certain tools can disrupt existing social hierarchies.
+
+Third, individual technological empowerment can catalyze broader social change. Douglass didn't just use literacy for personal freedom - he weaponized it to attack the entire system of slavery through his writings and speeches.
+
+In our digital age, where access to information technology increasingly determines human potential, Douglass's story reminds us that the struggle for technological freedom continues. Whether it's literacy in the 19th century or internet access today, human evolution remains intrinsically linked to our ability to access and master new tools.
 
 ## Work in Progress Notes
 
@@ -1627,3 +1745,6 @@ how many people could learn your job/lifestyle. no other animals can pick up a n
 
 --
 
+Our sentience is a only a requirement for technological evolution, why else would we need it?
+
+--
