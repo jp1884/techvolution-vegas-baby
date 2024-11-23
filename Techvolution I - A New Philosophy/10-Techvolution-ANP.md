@@ -44,11 +44,11 @@ _This book is especially dedicated to the extras on Main Street. When it is time
 
 Techvolution: On the Origin of Technological Species presents a new way of understanding human civilization. It showcases how our progress is driven not by our beliefs or ideologies, but by the technologies we create and use. In a series of books, we explore how to unleash unprecedented advancement by: better understanding ourselves through our tools, learning to use any technology without bias, and working together effectively on a massive scale.
 
-**Book 1 - A New Identity:** This foundational work introduces a "technological identity"—the idea that humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general interact with the world. Moving beyond cultural, national, or political identities, it demonstrates how our changing technological capabilities drive human evolution and conflict. From stone tools to smartphones, our technological choices shape not just what we can do, but who we should see in the mirror.
+**Book 1 - A New Identity:** This foundational work introduces a "technological identity"—the idea that humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general interact with the world. Moving beyond cultural, national, or political identities, it shows how our technological capabilities drive human evolution and conflict. From stone tools to smartphones, our technological choices shape not just what we can do, but who we should see in the mirror. For example, in _The Office_, Michael Scott's title "regional manager" tells us nothing about his evolutionary role—he's actually a person overseeing workers using obsolete 1990s office technology (telephones, desktops, and printers). We lack the vocabulary to properly name this technological "species". This book provides that missing framework by revealing our true reflection within Life's grand evolutionary story.
 
 **Book 2 - Mixed Ideological Politics:** This book teaches how to evaluate and use tools based on their effectiveness rather than any ideological associations. This is in contrast to today, where we often reject useful technologies simply because they are associated with opposing viewpoints - whether political, cultural, or economic. For example, today renewable energy is considered 'green' while diesel trucks are 'conservative' - these pre-defined labels showcase how ideological loyalties blind us to finding the best solutions for our problems.
 
-**Book 3 - Bumblebee Economics:** Just as diverse creatures like roses, deer, and bumblebees follow simple rules that create vast ecosystems, this book provides the framework for similar technological human mass-collaboration. It enables individuals practicing Mixed Ideological Politics to work together seamlessly and thereby allowing our technological world to evolve as naturally as ecosystems do. For instance, imagine a world where the friction of repeatedly filling out contact information at every doctor's office, pharmacy, and workplace becomes a thing of the past - replaced by seamlessly evolving technological systems that work as naturally as ecological ones.
+**Book 3 - Bumblebee Economics:** Just as diverse creatures like roses, deer, and bumblebees follow simple rules that create vast ecosystems, this book provides the framework for similar our own mass-collaboration. It enables individuals practicing Mixed Ideological Politics to work together seamlessly and thereby allowing our technological world to evolve as naturally as ecosystems do. For instance, imagine a world where the friction of repeatedly filling out contact information at every doctor's office, pharmacy, and workplace becomes a thing of the past - replaced by independent yet integrated technological systems that evolve as naturally as ecological ones.
 
 **understand yourself → learn to use different tools → work effectively with others**
 
@@ -1512,96 +1512,37 @@ The result is a book that doesn't just describe technological evolution, but dem
 
 ### Chapter Introduction
 
-Theory can be dense, dry, and hard to apply. While Techvolution offers crucial insights into our evolving identity, abstract concepts alone rarely change how we see the world. What we need are stories—real examples that bring these ideas to life. In the following chapters, we'll explore Techvolution through three lenses: the grand story of life's evolution, the sweep of human history, and surprisingly, my time in the trenches as an insurance adjuster.
+Theory can be dense and dry. While Techvolution offers crucial insights into our evolving identity, abstract concepts alone rarely change how we see the world. What we need are stories—real examples that bring these ideas to life. In the following "Application" chapters, we'll explore Techvolution through three lenses: the grand story of life's evolution, the sweep of human history, and surprisingly, my time in the trenches as an insurance adjuster.
 
-That last part might seem odd at first. Yet my years as an insurance adjuster gave me a unique window into human nature. I got the job to help me overcome my stutter. Working on a call-in queue was amazing, and grueling, speech therapy. After about a year I was much more comfortable, and started to notice something that informed my theory very well. Every day, I helped people navigate life's disruptions—from fender-benders to natural disasters. Each claim required diving deep into people's lives: their finances, relationships, and daily routines. Without realizing it at first, I was conducting an informal study of human behavior, one that would span thousands of cases and reveal patterns no laboratory could capture.
+That last part might seem odd at first. Yet my years as an insurance adjuster gave me a unique window into human nature. I got the job to help me overcome my stutter. Working on a call-in queue was amazing, and grueling, speech therapy. After about a year I was much more comfortable, and started to notice something that informed my theory very well. Every day, I helped people navigate life's disruptions—from fender-benders to natural disasters. Adjusters do not only help "insureds" as we call customers, but we legally step into their shoes. Each claim required diving deep into people's lives: their finances, relationships, and daily routines. Without realizing it at first, I was conducting an informal study of human behavior, one that would span thousands of cases and reveal patterns no laboratory could capture.
 
 What emerged was striking. Whether I was helping a tourist with a stolen purse in Paris or coordinating relief efforts after the Fort McMurray wildfire, I witnessed a universal truth: when technology fails us, our carefully constructed identities fade away. In these moments of technological disruption, we're all remarkably similar in our vulnerability—and in our desperate need to restore the tools and systems we depend on. These stories, woven throughout the following chapters, show us how deeply technology shapes not just our lives, but our very sense of self.
 
-### Application - First Total Loss
-
-Was at a total loss in the total loss...
-
 ### Application -  The Technological Automattic Nervous System
 
-This one time the phone line crackled with urgency. "Please don't hang up—it is taken me an hour to get through to you." As a claims adjuster, I've heard panic in many voices, but this call was unique. Here was a man standing on a cruise ship somewhere in the Caribbean, desperately trying to save his bed-and-breakfast thousands of miles away in rural Newfoundland. The scene was surreal: as he described his flooding home, the festive sounds of steel drums and laughing retirees drifted through the phone line, a jarring soundtrack to his personal crisis.
+This one time the phone line crackled with urgency. "Please don't hang up—it has taken me an hour to get through to you." As a claims adjuster, I've heard panic in many voices, but this call was unique. I soon found out this customer was a man standing on a cruise ship somewhere in the Caribbean, desperately trying to save his bed-and-breakfast thousands of miles away in rural Newfoundland. The scene was surreal: as he described his flooding home, the festive sounds of steel drums and laughing retirees drifted through the phone line, a jarring soundtrack to his personal crisis.
 
-In moments like these, the true complexity of our modern lives becomes crystal clear. Here was a business owner, physically separated from his livelihood by an ocean, limited to a ship's telephone as his only lifeline. Every minute mattered—water was seeping through his property, and with each passing hour, the threat of mold growth increased. His bed-and-breakfast was not just a building; it was his economic foundation, and it was in danger.
+In moments like these, the true complexity of our modern lives becomes crystal clear. Here was a business owner, physically separated from his livelihood by an ocean, limited to a ship's telephone as his only lifeline. Every minute mattered—water was seeping through his property, and with each passing hour, the threat of permanent damage increased. His bed-and-breakfast was not just a building; it was his economic foundation, and it was in danger.
 
-Twenty years ago, this situation would have been nearly impossible to resolve. But today, we've built systems that can bridge these vast distances—though not yet perfectly. While we managed to coordinate a response through phone calls and text messages, imagine how different this scenario could have been with modern technology properly deployed. A Starlink internet connection could have kept him seamlessly connected to home. Smart water sensors could have detected the problem earlier and automatically shut off the water supply. Remote cameras could have shown us exactly what we were dealing with, allowing for precise contractor instructions even before they arrived on site.
-
-This is not just about convenience—it is about fundamentally transforming how we manage our physical world. In the past, owning property meant being physically present or having someone nearby you trusted. Today, we're building something far more sophisticated: a network of technological systems and human expertise that can respond to crises anywhere, anytime.
-
-The solution we cobbled together was remarkably human: legal authorization for his brother to act on his behalf, contractors dispatched from a nearby city, and an insurance company coordinating it all from thousands of miles away. It worked, but it showed us glimpses of a better future—one where our technological ecosystem has its own "nervous system" for rapid response and recovery.
+The solution we cobbled together was remarkably limited and slow: legal authorization for his brother to act on his behalf, contractors dispatched from a nearby city, and an insurance company coordinating it all from thousands of miles away. It worked, but at considerable cost—both financial, emotional, and time. The longer it took for repairs to start, the more damage entropy did. While we prevented catastrophic damage, the incident highlighted how our current systems, though functional, are far from optimal. It showed us glimpses of a better future—one where our technological ecosystem has its own "nervous system" for rapid response and recovery.
 
 Looking back through history, we can trace how we've evolved in handling such situations. In the 1950s, property problems were only discovered through physical check-ins—imagine returning from vacation to find two weeks' worth of water damage. By the 1980s, at least we had telephones for emergency reporting. The 2000s brought text and email alerts, and today we have smart home monitoring. But we're still just scratching the surface of what's possible.
 
-The future beckons with autonomous property management systems, AI-powered damage assessment, and blockchain-based contractor authorization that could happen in seconds rather than hours. We're moving toward a world where physical distance becomes increasingly irrelevant to property management and crisis response.
+The future beckons with autonomous property management systems, AI-powered damage assessment, and blockchain-based contractor authorization that could happen in seconds rather than hours. We're moving toward a world where physical distance becomes increasingly irrelevant to property management and crisis response. This evolution isn't just happening in wealthy nations—across the globe, different cultures are adopting and adapting these technologies to their specific needs, creating a universal language of property management that transcends traditional boundaries.
 
-This story illustrates a fundamental truth about our evolving relationship with technology: we are no longer just homeowners or business operators—we are custodians of technological ecosystems. When the primary custodian is unavailable, the system must smoothly transfer responsibility to other qualified custodians. it is a dance of trust, technology, and human expertise that grows more sophisticated with each passing year.
+This story illustrates a fundamental truth about our evolving relationship with technology: we are no longer just homeowners or business operators—we are custodians of technological ecosystems. When the primary custodian is unavailable, the system must smoothly transfer responsibility to other qualified custodians. It is a dance of trust, technology, and human expertise that grows more sophisticated with each passing year.
 
-As I think back to that caller on his cruise ship, I'm struck by how his story captures the essence of our technological evolution. While we managed to help him that day, his experience highlights both how far we've come and how far we have yet to go. The future of property management—indeed, of all physical asset management—lies in building better systems for collaboration, communication, and rapid response. We're not just solving our own local problems anymore; we have created a world where our problems can a world away. We need to recognize that no human can attend to all their own stuff alone, on an island. We need to greatly enhance collaboration to better manage the technological ecosystem that feeds, shelters, and keeps us alive.
+Through the lens of Techvolution, this Caribbean cruise ship crisis reveals something profound about our present and future. The homeowner's struggle wasn't just about distance or communication—it was about a fundamental mismatch between our technological capabilities and our management systems. In our current culture of mass consumption, it's easy to distance ourselves from responsibility, to view problems as someone else's fault—the insurance company's, the pipe manufacturer's, or the plumber's who installed it decades ago.
 
-The Caribbean music playing in the background of that call serves as a perfect metaphor: even in moments of crisis, life continues its dance. Our challenge is to build systems that let us handle life's emergencies without missing a beat.
+But Techvolution teaches us that humans are no longer just biological beings but technological ones, with our capabilities, limitations, and very identity defined by the tools we can access and control. In this case, the property owner was essentially depowered—reduced to the capabilities of a basic phone line when the situation demanded much more. This limitation came with real costs: higher insurance premiums, property damage, and lost business revenue—costs that could have been minimized with better technological integration.
 
-- Maybe a brief mention of cost implications (since the introduction promised insights about lowering cost of living)
-- Perhaps a note about how this type of situation might be handled in different countries/cultures (to reinforce the point about technology transcending cultural boundaries)
+Understanding Techvolution helps us see that such problems aren't solved by just adding a few smart devices or better phones. Instead, we need to evolve our entire technological ecosystem. Imagine if the property had been equipped with an integrated "operating system" that included water sensors, automated shutoffs, smart locks, and video monitoring—all connected to a blockchain-based authorization system. In such a system, the owner could have instantly granted access to contractors, insurance adjusters could have assessed damage in real-time through video feeds, and remediation could have begun automatically upon water detection.
 
----
+More importantly, such a system would encourage proactive responsibility. The homeowner could have easily shut off the water supply before his trip—a simple precaution that's often overlooked. The system could have reminded him, guided him through the process, and verified completion. This isn't about forcing compliance; it's about enabling better technological custodianship.
 
-Through the lens of Techvolution, this Caribbean cruise ship crisis reveals something profound about our present and future. The homeowner's struggle was not just about distance or communication—it was about there being a mix-match between technology. When looking at the world pre-Techvolution, the homeowner could cast blame on his problem at the insurance company (me) for not helping him right away (many people do this). He could have blamed the pipe maker for a burst pipe. He could have blamed the plumber who installed it decades ago. The point is our culture of mass-consumption means the homeowner can think problems are not his...
+The key insight of Techvolution here is that we must shift our identity from being mere property owners and customers to being active custodians of our technological environments. Property isn't physically attached to us, and we can hardly create, maintain, and protect all of it ourselves. We need the help of others, and thus must be ready to facilitate how others will contribute to the property's prosperity. The future belongs to those who understand this shift and actively participate in this evolution.
 
-A Techvolution teaches us that humans are no longer just biological beings but technological ones, with our capabilities, limitations, and very identity defined by the tools we can access and control. In this case, the property owner was essentially depowered—reduced to the capabilities of a basic phone line when the situation demanded much more.
-
-Understanding Techvolution helps us see that such problems aren't solved by just adding a few smart devices or better phones. Instead, we need to evolve our entire technological ecosystem. Imagine if the property had been equipped with an integrated "operating system" that included water sensors, automated shutoffs, smart locks, and video monitoring—all connected to a blockchain-based authorization system. In such a system, the owner could have instantly granted access to contractors, insurance adjusters could have assessed damage in real-time through video feeds, and remediation could have begun automatically upon water detection. The property owner's power to act wouldn't depend on his physical location but on his technological reach.
-
-However, there is even a simpler solution. With any property, the owner can allocate authority in the same way. All that is needed to do this today is the wherewithall that our technology/gadgets/stuff is no longer something we carry with us all the time, or is small and not that vulnerable to breakage. Hand tools and wood barns are easy to pack up and leave unattended. But homes with electrical wiring, indoor plumbing, valuable electronics are prone to failure and thus need constant attention.
-
-This crisis highlights an interesting paradox of our technological evolution. Modern technology, particularly the digitization of air travel through online booking and efficient operations, has made it remarkably easy for people to be thousands of miles from their properties. A century ago, such distant travel would have been a rare, carefully planned endeavor, with thorough preparations made for managing affairs back home. Property owners would have formally designated local representatives and established clear chains of authority before embarking on any lengthy journey. Today, however, we can casually book a Caribbean cruise on our smartphones, and this ease of movement has ironically made us less likely to prepare for potential problems. We've evolved the technology to separate ourselves from our properties but haven't yet fully evolved the technological systems to manage them remotely. This gap between our mobility technology and our property management technology creates a unique vulnerability—one that Techvolution suggests will naturally be filled as our technological ecosystems continue to evolve. Just as we've made travel logistics nearly effortless through digital technology, we must now do the same for remote property management.
-
-The key insight of Techvolution here is that we must shift our identity from being property owners to being ecosystem managers. Our power and capability come not from physical presence but from the technological systems we control. The future belongs to those who understand this shift and actively participate in this evolution. Instead of trying to solve tomorrow's problems with yesterday's tools, we need to build and maintain technological ecosystems that make distance irrelevant and response times near-instantaneous. This is not just about convenience—it is about evolving our very relationship with the physical world through technology.
-
-### Application - Crash
-
-Car crash stats...
-
-### Application - Disaster Extremes
-
-Two times among thousands has political discussion come into fixing a real-life problem.
-
-The guy who ran off the road in winter, had a terrible driving record with insurance costs he could not afford, claiming the government was at fault for not salting the rural Canadian winter road. He was self-proclaimed conservative who did not like subsidies...
-
-The girl who was a property manager. House had a collapsed sewer line for 13 months. It finally collapsed and tenants were pissed and about to leave. Homeowner was money tight and desperate for the coverage. I needed the paperwork to review claim. When explaining to property manager why I needed it and that insurance can not "I don't need you manslaining to me..."
-
-Both people were disasters. They could not arrange their private affairs and used political discourse to cover that up.
-
-### Application - Merry Christmas
-
-Home invasion, the Plaza....
-
-### Application - Bon Voyage
-
-On a boat, who are your friends, what do you bring.
-
-Then you get lost. Now you live in the . Not because anything has changed. But because you. And all the problems you face, would apply to everything single person the same way.
-
-### Application - Finding Our Way - Biologically and Technologically
-
-Life's endless experimentation eventually stumbled upon an extraordinary capability - the ability to sense Earth's magnetic field. Through countless genetic mutations over millions of years, various species evolved proteins called cryptochromes in their eyes or developed magnetic particles in their brains and beaks. These biological tools transformed simple creatures into master navigators. European robins could suddenly find their way across continents, sea turtles could navigate vast oceans to return to specific breeding grounds, and even tiny insects gained an internal compass to guide them. This biological innovation dramatically expanded these species' territories and capabilities, leading to new behaviors and survival strategies.
-
-Humans discovered the same navigational secret of Earth's magnetic field, but our path was remarkably different. Instead of waiting for genetic mutations, we created an external tool - the compass. Through technological experimentation, ancient Chinese civilizations discovered that a magnetized needle would always point north. This human-made tool could be manufactured, improved upon, taught to others, and combined with other technologies like maps. What took nature millions of years of evolutionary trial and error, humanity achieved through technological innovation in a relatively short time. Both paths - biological evolution and technological development - solved the same fundamental challenge of navigation, but while nature had to work with proteins and neurons, humans could work with magnetized metal and floating needles. The compass transformed human society just as magnetoreception transformed animal behavior, enabling expanded territories, new trade routes, and ultimately helping to connect the world.
-
-### Application - What Are Your Options
-
-Go to see a doctor, you explain your ailments. Go to see a politician, we're told our options, and how our problems should fit those options. There is a turning point when going from one perspective to another.
-
-### Application - Mr Data / Spiner
-
-A conversation with AI/LLM to discuss its and our future. Maybe make it an LLM chat session, ideally it would be a Techvolution trained LLM that could interact with a reader.
-
-<!-- look up the LLM session in the historical goals -->
-
-"Interestingly, this conversation connects directly to themes in Techvolution. We're examining the evolution of technological beings (from current AI to theoretical future androids like Data) while simultaneously demonstrating how technology shapes human identity and social interaction. The fact that we can have this meta-discussion about artificial intelligence while using shared cultural references from Star Trek shows how technology and culture co-evolve - exactly the kind of dynamic your book explores/"
+The Caribbean music playing in the background of that call serves as a perfect metaphor: even in moments of crisis, life continues its dance. Our challenge is to build systems that let us handle life's emergencies without missing a beat—systems that transcend cultural boundaries, reduce costs through prevention and efficiency, and enable truly effective technological custodianship. This isn't just about convenience—it's about evolving our very relationship with the physical world through technology.
 
 ### Application - What is Freedom, What is Oppression
 
@@ -1702,6 +1643,61 @@ Second, technological restriction is often used to maintain power structures. Hu
 Third, individual technological empowerment can catalyze broader social change. Douglass didn't just use literacy for personal freedom - he weaponized it to attack the entire system of slavery through his writings and speeches.
 
 In our digital age, where access to information technology increasingly determines human potential, Douglass's story reminds us that the struggle for technological freedom continues. Whether it's literacy in the 19th century or internet access today, human evolution remains intrinsically linked to our ability to access and master new tools.
+
+### Application - I Don't Know What I Own
+
+Go through all the different claim scenarios and how little people know of what they own. And for good reason, why know all this stuff...
+
+- Crashes with other unknown vehicles
+- List your jewelry
+- What kind of furnace
+- What kind of wiring...
+
+### Application - First Total Loss
+
+Was at a total loss in the total loss...
+
+### Application - Crash
+
+Car crash stats...
+
+### Application - Disaster Extremes
+
+Two times among thousands has political discussion come into fixing a real-life problem.
+
+The guy who ran off the road in winter, had a terrible driving record with insurance costs he could not afford, claiming the government was at fault for not salting the rural Canadian winter road. He was self-proclaimed conservative who did not like subsidies...
+
+The girl who was a property manager. House had a collapsed sewer line for 13 months. It finally collapsed and tenants were pissed and about to leave. Homeowner was money tight and desperate for the coverage. I needed the paperwork to review claim. When explaining to property manager why I needed it and that insurance can not "I don't need you manslaining to me..."
+
+Both people were disasters. They could not arrange their private affairs and used political discourse to cover that up.
+
+### Application - Merry Christmas
+
+Home invasion, the Plaza....
+
+### Application - Bon Voyage
+
+On a boat, who are your friends, what do you bring.
+
+Then you get lost. Now you live in the . Not because anything has changed. But because you. And all the problems you face, would apply to everything single person the same way.
+
+### Application - Finding Our Way - Biologically and Technologically
+
+Life's endless experimentation eventually stumbled upon an extraordinary capability - the ability to sense Earth's magnetic field. Through countless genetic mutations over millions of years, various species evolved proteins called cryptochromes in their eyes or developed magnetic particles in their brains and beaks. These biological tools transformed simple creatures into master navigators. European robins could suddenly find their way across continents, sea turtles could navigate vast oceans to return to specific breeding grounds, and even tiny insects gained an internal compass to guide them. This biological innovation dramatically expanded these species' territories and capabilities, leading to new behaviors and survival strategies.
+
+Humans discovered the same navigational secret of Earth's magnetic field, but our path was remarkably different. Instead of waiting for genetic mutations, we created an external tool - the compass. Through technological experimentation, ancient Chinese civilizations discovered that a magnetized needle would always point north. This human-made tool could be manufactured, improved upon, taught to others, and combined with other technologies like maps. What took nature millions of years of evolutionary trial and error, humanity achieved through technological innovation in a relatively short time. Both paths - biological evolution and technological development - solved the same fundamental challenge of navigation, but while nature had to work with proteins and neurons, humans could work with magnetized metal and floating needles. The compass transformed human society just as magnetoreception transformed animal behavior, enabling expanded territories, new trade routes, and ultimately helping to connect the world.
+
+### Application - What Are Your Options
+
+Go to see a doctor, you explain your ailments. Go to see a politician, we're told our options, and how our problems should fit those options. There is a turning point when going from one perspective to another.
+
+### Application - Mr Data / Spiner
+
+A conversation with AI/LLM to discuss its and our future. Maybe make it an LLM chat session, ideally it would be a Techvolution trained LLM that could interact with a reader.
+
+<!-- look up the LLM session in the historical goals -->
+
+"Interestingly, this conversation connects directly to themes in Techvolution. We're examining the evolution of technological beings (from current AI to theoretical future androids like Data) while simultaneously demonstrating how technology shapes human identity and social interaction. The fact that we can have this meta-discussion about artificial intelligence while using shared cultural references from Star Trek shows how technology and culture co-evolve - exactly the kind of dynamic your book explores/"
 
 ## Work in Progress Notes
 
