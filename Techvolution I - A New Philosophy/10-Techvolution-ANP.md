@@ -52,7 +52,7 @@ Consider someone labeled "Californian, female, hispanic, college graduate, progr
 
 **Book II - Mixed Ideological Politics:** Having established our technological identity, we must next liberate technology from any constraints. Today, we often reject useful tools simply because of their political or cultural associations—renewable energy is labeled "green," diesel trucks "red blooded American". These artificial divisions prevent us from combining technologies in optimal ways. This new political philosophy teaches how to evaluate tools based purely on their effectiveness in solving our real-life problems, from the cost of home heating to increased storm activity. Since we are a self-aware technological species, and evolution demands lifeforms use any efficient adaptation, Mixed Ideological Politics prevents any ideology from blinding us to any worthy technology.
 
-**Book III - Bumblebee Economics:** Once we combine technological self-awareness with ideology-free tool selection, we can create an economy as adaptive as life itself. Nature shows us the way. Her diverse biological species create collaborative ecosystems through simple rules of interaction. Bumblebee Economics applies this wisdom to our technological world. While we already develop some open and interoperable technologies, we need an economic philosophy that accelerates their use to create a fully grown and freely evolving technological ecosystem. Imagine medical records flowing seamlessly between doctor's office, pharmacy, and your phone—not through centralized control, but through independent yet standardized programs that are free to change independent of each other. Like bees and flowers working together naturally, this framework enables technologies to evolve, and their users to thrive, through effortless interactions with one another.
+**Book III - Bumblebee Economics:** Once we combine technological self-awareness with ideology-free tool selection, we can create an economy as adaptive as life itself. Nature shows us the way. Her diverse biological species create collaborative ecosystems through simple rules of interaction. Bumblebee Economics applies this wisdom to our technological world. While we already develop some open and interoperable technologies, we need an economic philosophy that accelerates their use to create a fully grown and freely evolving technological ecosystem. Imagine the ease of Apple ecosystem of products appled to medical records flowing seamlessly between doctor's office, pharmacy, and your phone—not through centralized control, but through independent yet standardized programs that are free to change independent of each other. Like bees and flowers working together naturally, this framework enables technologies to evolve, and their users to thrive, through effortless interactions with one another.
 
 **understand yourself → learn to use different tools → work effectively with others**
 
@@ -171,13 +171,13 @@ You might think I was a foreigner in a strange land, or someone facing discrimin
 
 Today, we see people through the lens of identity. Take my situation. I was a kid with glasses, maybe nerdy, perhaps religious - pick your label. Using these human characteristics you could explain why getting a pizza slice was so difficult. Using discriminiation or some other reason might be a cause, but it is never the root cause.
 
-I wanted a slice of pizza. Getting it required speaking, and I did not have the tools to do that, as I was born with a severe speech impediment - a condition affecting about a million Americans from all walks of life. That's why I ran away when the pizza counter had several kinds of slices because I feared, far more than going hungry, being asked "which one" if there were several. No one fully understands the affliction's cause, but certain sounds trigger a stutter that feels like an electric shock. Speaking to strangers makes it worse. Swearing offers blessed relief, but that's a solution that only works among friends, creating islands of safety while breeding a certain contempt for polite society.
+I wanted a slice of pizza. Getting it required speaking, and I did not have the ability to do that, as I was born with a severe speech impediment - a condition affecting about a million Americans from all walks of life. That's why I ran away when the pizza counter had several kinds of slices because I feared, far more than going hungry, being asked "which one" if there were several. No one fully understands the affliction's cause, but certain sounds trigger a stutter that feels like an electric shock. Speaking to strangers makes it worse. Swearing offers blessed relief, but that's a solution that only works among friends, creating islands of safety while breeding a certain contempt for polite society.
 
-Contempt because politeness did not care that I was broken in sense. The connection between thought and speech was sporadic - a genetic misfire. But I want you to see this differently: not as a broken person, but as someone with a broken tool. Thankfully, modern medicine and psychology have largely embraced this perspective. In the past, people who stuttered were dismissed as dull-witted. When Roman soldiers tired of Emperor Caligula in 55 AD, they executed him and his potential avengers but spared his uncle Claudius, who had a limp, was partially deaf, and stuttered. Seen as harmless, he became Emperor by default - and proved to be an excellent one. Similarly, dictator Julius Caesar's epilepsy had to be hidden, as it was considered divine punishment. He could rule society with an iron fist but still had to lie.
+Contempt because politeness did not care that I was broken in sense. The connection between thought and speech was sporadic - a genetic misfire. But I want you to see this differently: not as a broken person, but as someone with a broken tool. Thankfully, modern medicine and psychology have largely embraced this perspective. In the past, people who stuttered were dismissed as dull-witted. When Roman soldiers tired of Emperor Caligula in 55 AD, they executed him and his potential avengers but spared his uncle Claudius, who had a limp, was partially deaf, and stuttered. Seen as harmless, he became Emperor at the end of the blood bath because there was no one left - and proved to be an excellent leader. Similarly, dictator Julius Caesar's epilepsy had to be hidden, as it was considered divine punishment. He could rule society with an iron fist but still had to lie about his problems.
 
 Medical science has since illuminated many such conditions, providing explanations and therapies. I was fortunate to receive government-sponsored speech therapy, which helped tremendously. My graduation ceremony? Going to a restaurant and ordering anything I wanted from the menu.
 
-It was pizza from "East Side Marios" restaurant.
+It was pizza of course.
 
 When our society confronts a problem today, we instinctively start with identity. Listen to any political speech - it is always about "single mothers" or "elderly voters" or some other demographic group. What Techvolution proposes is not to invalidate these identities, but to clarify something fundamental: in the realm of politics and economics, we are first and foremost users of tools. Some of these tools are biological, like speaking, but as the explosion of smartphones, apps, and assisted devices demonstrates, most of our interactions with the world are technological. Therefore, our primary identities should be defined by the tools at our disposal, and acquiring better tools to live happier lives should be our first priority.
 
@@ -185,33 +185,45 @@ Today, most any kids with the same obstacle as me can at least order food online
 
 To achieve a technological identity, we need to develop empathy for each other's technological status. This is precisely what ideologies strip away from us. Ideologies let us assign ourselves and others convenient labels. We call someone a "government worker" or a "corporate worker" even though they might use the same tools - Microsoft Office, similar cars, identical schedules, shared educational backgrounds. No politician or citizen thinks to identify these people as "workers who process insurance claims using 1990s technology like PDFs and emails." Yet these are the tools they use, and this is how evolution sees them.
 
-Evolution views us as tool users. Seeing ourselves this way requires a new kind of honesty - one that exposes our vulnerabilities. It is easy for someone behind the technological curve to hide behind seniority or titles, even while becoming evolutionary dinosaurs. Today's identities, from regional managers with human resources diplomas to cable television news personalities, often serve as masks, hiding their backwardness from the truth they are using obsolete technologies alive past their expiration date.
+Evolution views us as tool users because tools are how we gather resources. Seeing ourselves this way requires a new kind of honesty - one that exposes our vulnerabilities. It is easy for someone behind the technological curve to hide behind seniority or titles, even while becoming evolutionary dinosaurs. Today's identities, from regional managers with human resources diplomas to broadcast news personalities, often serve as masks, hiding their backwardness from the truth they are using obsolete technologies past their expiration date.
 
 You can see this transition in the faces of cable news anchors. Watch any cable news program from its start in the late 1980s to today. You'll notice how much more they invest in flashy sets and dramatic personalities. This shift occurred because cable news was once cutting-edge technology that needed no embellishment - journalists simply reported what they saw. It might be hard to imagine today, but cable news, along with broadcasting and newspapers, once provided essential updates that kept us informed about global events. Now that the internet spreads news instantly, old media personalities must attract viewers through entertainment rather than information. The animated faces and heated rhetoric reflect this desperate search for relevance. This pattern - the descent of useful technology into flashy marketing - repeats across many industries, from automobiles to fast food.
 
-Because we do not prioritize our technological identity, we do not see this trend and do not call people out on it. Thus, as people within dying industries try to keep their jobs alive, we listen to their fictions. Reason and honesty take a back seat - understandably so, since being honest often leads to job loss that others will gladly exploit. Like ancient rulers hiding their afflictions, today's people hide their technological obsolescence behind titles and rhetoric rather than face the truth about themselves and their place in our evolving world.
+Because we do not prioritize our technological identity, we do not see this trend whereever it is and do not call people out on it. Thus, as people within dying industries try to keep their jobs alive, we listen to their fictions. Reason and honesty take a back seat - understandably so, since being honest often leads to job loss that others will gladly exploit. Like ancient rulers hiding their afflictions, today's people hide their technological obsolescence behind titles and rhetoric rather than face the truth about themselves and their place in our evolving world.
 
 --
 
 This book will restore truth by placing our technological identity at the center of our political and economic lives. To embrace a new identity, we must essentially start fresh. And that will take some doing.
 
-To prepare you for this massive transformation, let us talk about a really good old film called "Thirty Seconds Over Tokyo". I watched it in film class back in college. The film depicts the Doolittle Raid - America's response to Japan's devastating attack on Pearl Harbor. Though the actual raid involved just 16 bombers and caused limited damage, the film's power lies in how it builds up to those brief moments of action. Right in the title, the filmmakers tell audiences to be patient - there's less than a minute of combat. The true story is about America rebuilding its pride and self-confidence.
+Try this: Put some cold water and ice into a bucket. That small bit of water is a portal into the natural world. It's cold like most places on Earth. Put your hand into that bucket. As your hand immerses into the cold you will want to remove it right away. But your enlightenment depends on keeping it there.
 
-Like those filmmakers, I must ask for your patience, our goal is very ambitious: reimagining humanity's story with technology at its center.
+As the cold steals your heat, your body feels pain. The longer you keep your hand inside, the clearer the truth becomes - pain isn't something to avoid. Pain is life's tool for distinguishing good from bad.
 
-The thesis of "Techvolution" is our species has evolved beyond purely biological definitions. We have become a technological species, with our tools and innovations playing a fundamental role in shaping our civilization and determining our futures. This self-realization does not require abandoning your culture, friends, music, or anything else you cherish. While searching for better tools need not dominate your social life, it should guide your political and economic choices because improving our technological capabilities is the key to humanity's prosperity.
+The job of life is to lower pain, not avoid it.
 
-Following technological evolution puts the human condition into focus. Just as biological creatures grow and die on a tree of life, so does technology. Our fate is tied to technology, and thus we thrive and suffer as the technological tree of life evolves. If we stay unaware of our true identity as technological beings we will continue to assign biological or cultural markers to our performance like gender, race, or luck.
+As your hand gets colder, heat transfers away faster than your body can replace it. Curious readers might discover how cells stop functioning, eventually freezing and dying. You resist the urge to remove your hand, knowing there are many possible remedies.
 
-This is a bold proposition. Most people today are deeply passionate about their current identities. To build a convincing case for embracing a new technological identity, we must first establish a solid foundation in the basic principles governing life and evolution on our planet.
+Life on Earth has addressed this problem for billions of years - fighting back against the elements to not only survive but prosper. Fish have antifreeze proteins flowing through their veins. Birds have layers of waterproof feathers. Whales have insulating blubber while other mammals grow thick fur. Many animals would feel little pain in that cold water.
 
-Think of Earth as a vast gameboard, shaped by the immutable laws of physics, chemistry, and geology. Life is the grand game played upon it, driven by the laws of biology and evolution. This game has produced an incredible diversity of players - from the first single-celled microbes to complex multicellular organisms that together have transformed Earth into an oasis of life, a lone lifeboat in the galactic expanse.
+Any creature from a warm environment would quickly die in that bucket. They lack the tools to survive cold because their evolution never required them. Formed to survive heat or thirst instead, they're now off their evolutionary purpose. There's nothing life can do for them.
 
-Understanding this epic arc of evolution is crucial. While these opening chapters may not immediately address humanity as a "technological species," they provide essential context. Only by grasping the fundamental patterns of biological evolution can we truly appreciate the radical implications of our technological evolution - a transformation that represents a new phase in the history of life itself.
+You and I are hairless apes. When our ancestors left the trees and learned to walk, our hair began falling away. Walking led to running - an excellent way to travel and run down prey. Hair prevented cooling, so we lost it and evolved sweat glands instead that help us exhaust other animals overheat because their fur was still on. How did we stay warm? We took hair from the dead animals and wore it when cold.
 
-Our destination is both practical and profound: a world where human conflict is minimized and cooperation is maximized, not through ideological idealism, but through the same force that drives all life - evolutionary self-interest. As we explore the profound implications of our technological evolution, we'll discover a new framework for understanding ourselves, our history, and our future.
+Today we face different challenges - from cosmic rays to heat waves. We have many ways to survive and prosper, from government policies organizing our response to friendship networks motivating our perseverance. But strip away the complexity, and we face the same challenge as a fish in cold water: we need the right tools to survive our environment.
 
-I invite you to join me on this intellectual journey. Like those viewers settling in to watch "Thirty Seconds Over Tokyo," know that the patience required will be rewarded with something far more valuable than a moment of action - a fundamentally new way of seeing ourselves and our place in the continuing story of life on Earth.
+Unlike other species, we're not bound by our birth-given adaptations. Because we can invent and create tools, we are, in a sense, life itself. We can "form" ourselves into whatever we need to be, adapting to any environment from cold water to hot deserts to outer space.
+
+Yet we still place our biological identities - our born-with, take-it-or-leave-it forms - as our primary identity. Whether it's my stutter, someone's oppressed ancestors, or another's rich grandfather, these identities rob us of our freedom to evolve.
+
+The thesis of Techvolution is simple: our species has evolved beyond purely biological definitions. We have become a technological species, with our tools and innovations shaping our civilization and determining our futures. This self-realization doesn't require abandoning your culture, friends, music, or anything else you cherish. Searching for better tools need not dominate your social life, but it should guide your political and economic choices because improving our technological capabilities is key to humanity's prosperity.
+
+Following technological evolution puts the human condition into focus. Just as biological creatures grow or die on life's tree based on their environment, so does technology. Our fate is tied to our tools, and we thrive or suffer as the technological tree of life evolves. Until we recognize our technological identity, we'll continue misattributing our success or failure to gender, race, or luck.
+
+Earth is a vast gameboard, shaped by immutable laws of physics, chemistry, and geology. Life is the grand game played upon it, driven by evolution seeking forms that can prosper in every environment. This game has produced an incredible diversity of players - from single-celled microbes to complex organisms - transforming Earth into an oasis of life, a lone lifeboat in the galactic expanse.
+
+Understanding this epic arc of evolution is crucial. That's why these opening chapters do not immediately address humanity as a "technological species," they provide essential context. Only by grasping the environment life must live in, "the bucket" of our existence, can we understand evolution's story and our place inside it.
+
+Our destination is both practical and profound: a world where human conflict is minimized and cooperation is maximized, not through ideological idealism, but through the same force that drives all life - evolutionary self-interest. As we explore the profound implications of our technological evolution, we'll discover a new framework for understanding ourselves, our history, and our future fundamentally new way of seeing ourselves and our place in the continuing story of life on Earth.
 
 ## Foreword
 
@@ -1520,9 +1532,9 @@ The result is a book that doesn't just describe technological evolution, but dem
 
 ### Chapter Introduction
 
-Theory can be dense and dry. While Techvolution offers crucial insights into our evolving identity, abstract concepts alone rarely change how we see the world. Stories bring ideas to life. In the following "Application" chapters, we'll explore Techvolution via stories told from three lenses: the grand story of life's evolution, the story of human evolution, and surprisingly, my time in the trenches as an insurance adjuster.
+Evolution shapes life through countless small moments. Sometimes these moments happen in unexpected places - like a call center handling insurance claims. As an insurance adjuster, I spoke with thousands of people facing technological disruption: stolen phones in Paris, flooded basements in Toronto, crashed cars in Florida. Each conversation revealed how deeply technology shapes our lives, and how quickly we feel lost without it.
 
-That last part might seem odd, but my years helping people navigate life's disruptions—from fender-benders to natural disasters—gave me a unique window into human nature. Whether assisting a tourist with a stolen purse in while on vacation or coordinating relief after wildfires, I witnessed a universal truth: when technology fails us, our carefully constructed identities fade away. In these moments of technological disruption, we are all remarkably similar in our vulnerability—and in our desperate need to restore the tools and systems we depend on. Tales of life’s origins, the human experience, and modern humanity’s daily struggles are woven throughout "Application" chapters to show how deeply technology shapes not just our lives, but our very sense of self.
+These stories, along with the grand narrative of life's evolution and humanity's technological journey, show us who we truly are. They reveal a species defined not by our beliefs or traditions, but by our relationship with the tools we create and use.
 
 ### Application - Explaining Evolution For the First Time
 
@@ -1797,7 +1809,7 @@ Let us begin this dialogue between biological and technological consciousness. T
 
 ### AI Mirror - 
 
-## Techvolution - Objections
+## Techvolution - Objections 
 
 ### Chapter Introduction
 
@@ -1862,6 +1874,35 @@ This is not about replacing human values with impersonal technology. It is about
 The pandemic is only an example of the test of evolution we, and every lifeform, run every day. If we continue defining ourselves primarily through traditional identities we pass or fail that test of evolution almost by chance. If we can embrace our nature as a technological species and consciously shape the tools that increasingly determine our fate, we start the process of technological evolution self-awareness; what I call Techvolution.
 
 The choice, like any hero's journey, is ours to make.
+
+### Objection - New Technology Nevers Makes Humans Obsolete
+
+<!-- needs a rewrite - but this is the basics...
+
+feedback:
+The first is that, while you have explained in great detail how our technological incompetence is preventing us from realising our full potential, you have not touched upon the increasing threat of obsolescence that mankind has been grappling with in the wake of technologies that are designed to supplant human labour entirely. This has been a huge concern among tech naysayers and conspiracy theorists. Even many eminent scholars have expressed cynicism about the kind of future that awaits mankind in the face of increasing automation. I think it would be a good idea for you to dispel some of these fears and assumptions along the way to really sell this idea that technological evolution, far from relegating humans to the fringes of the civilization, can take them to its pinnacle. 
+
+-->
+
+A common fear about becoming a technological species is that technology itself will make us obsolete. After all, if robots can build cars and AI can write poetry, what role remains for humans? This anxiety isn't new - from the Luddites smashing looms to modern fears about artificial intelligence, each technological advance brings fresh waves of existential dread.
+
+But this fear fundamentally misunderstands both evolution and our role as a technological species. Consider our earlier example of dogs. Did domestication make wolves obsolete? No - it created a new evolutionary branch where dogs and humans could thrive together. Similarly, technology doesn't replace humans; it creates new opportunities for human-technology collaboration.
+
+Let's return to the insurance industry example. When software automated vehicle valuations, it didn't eliminate the need for adjusters. Instead, it freed us to focus on more complex tasks - helping people understand their coverage, navigating complicated claims, and finding solutions to unique problems. The software became a tool that enhanced human capability rather than replacing it.
+
+This pattern repeats across industries. Yes, ATMs reduced the need for bank tellers, but they also made banking more efficient, allowing banks to open more branches and create new roles for human workers. Yes, accounting software automated basic bookkeeping, but it also enabled accountants to provide more sophisticated financial advice and planning services.
+
+The fear of technological obsolescence often stems from seeing ourselves as separate from our technology - as if we're in competition with our tools. But this is like a bird fearing its wings will make its legs obsolete. We are not in competition with technology; we are evolving with it. Our technological adaptations are as much a part of us as our biological ones.
+
+Consider how you're reading these words right now. Whether on paper or screen, you're using technology that could theoretically "replace" human communication. Yet these tools haven't made human interaction obsolete - they've enhanced our ability to share ideas and connect with each other.
+
+The key to avoiding obsolescence isn't to fear or resist technology, but to become more consciously aware of our technological nature. When we understand ourselves as a technological species, we stop seeing technology as an external threat and start seeing it as an integral part of our evolution. This awareness helps us guide technological development in ways that enhance rather than diminish human capability.
+
+This is why Techvolution emphasizes the importance of technological consciousness. By understanding ourselves as technological beings, we can better direct our evolution, ensuring that new technologies serve human flourishing rather than human replacement. The future belongs not to technology alone, but to humans who understand their technological nature and actively participate in their own evolution.
+
+The real threat isn't technology making us obsolete - it's our failure to recognize our technological identity and consciously guide our evolution. Like a dog unaware of its domestic nature trying to survive as a wolf, humans who reject their technological nature risk genuine obsolescence. But those who embrace and understand their technological identity can help shape a future where humans and technology evolve together, each enhancing the other's capabilities.
+
+After all, evolution isn't about replacement - it's about adaptation. And we are uniquely positioned to consciously adapt through our technological capabilities. That's not a threat; it's our greatest opportunity.
 
 ## Work in Progress Notes
 
