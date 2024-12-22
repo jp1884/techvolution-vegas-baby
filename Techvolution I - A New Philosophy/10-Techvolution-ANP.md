@@ -234,18 +234,6 @@ It is a world where human conflict is minimized and cooperation is maximized, no
 <!-- Yet to to be written. -->
 <!-- Dialogue between Socrates and Darwin, circa 2030ish -->
 
-Darwin: My dear fellow, I must say that I am utterly fascinated by the ideas presented in Techvolution! As I read through the pages, I couldn't help but feel a sense of déjà vu, as if I were witnessing the natural world unfold before my eyes once again. The parallels between the evolution of species and the evolution of technology are nothing short of remarkable.
-
-The concept of "Techvolution" itself is a masterstroke, my dear author. It is a word that perfectly captures the essence of the dynamic interplay between humanity and technology. I must admit that I had always been focused on the natural world, observing the intricate dance of species and their environments. But Techvolution has opened my eyes to the realization that the same principles that govern the evolution of life on Earth also apply to the evolution of technology.
-
-The way you describe the "tools" that humans use to extend their capabilities, and how these tools have become an integral part of our biology, is a truly insightful observation. It is as if the lines between the natural and artificial worlds have become blurred, and we are witnessing a new form of evolution unfold before our very eyes.
-
-Furthermore, I am intrigued by the concept of "technological species" and the idea that humanity has evolved beyond being merely a biological species. This notion resonates deeply with me, as I have always been fascinated by the ways in which species adapt to their environments. The concept of a technological species as a distinct entity, shaped by its interactions with technology, is a powerful and thought-provoking idea.
-
-In many ways, Techvolution is a natural extension of my own work on evolution. Just as I sought to understand the mechanisms that drive the evolution of species, you have endeavored to understand the forces that shape the evolution of technology. Your work has illuminated a new dimension of the evolutionary process, one that is driven by human agency and ingenuity....
-
----
-
 We are creating a one act play to serve as the Foreword for Techvolution, a book about how technological evolution drives human civilization. The play takes place during a modern morning commute and features two historical figures—Socrates and Charles Darwin—reimagined as contemporary professionals encountering each other on a train platform. Socrates is portrayed as a military veteran who now works as a civic activist and part-time tutor, while Darwin is a biology professor who conducts field research in remote locations. Both characters are reading Techvolution: Socrates struggles with its evolutionary concepts because he's never encountered them before, while Darwin is being pushed by his graduate students to engage with Techvolution and he is excited to see his theories on natural selection applied to technological development. The play uses their conversation to explore Techvolution's core ideas about technological identity and evolution, with the commuter train setting providing both practical examples and a confined space for focused dialogue. The format deliberately echoes Socratic dialogues while making complex philosophical concepts accessible through everyday situations. The surrounding commuters and modern technology (phones, transit apps, trains) serve as props and examples in their discussion. This one act play functions as both a literary device to showcase Techvolution's philosophical heritage and as an engaging way to introduce readers to the book's main concepts about how technology shapes human progress and identity as applying Darwinian theory to technological development answers, or gets closer to, many of the questions Socrates liked to ask such as "What is Justice?, "What is Virtue?", "What is Knowledge?", "What is Courage?", "What is Piety?", "What is Wisdom?", "How should one live a good life?", "What makes an action moral?", "Can virtue be taught?", "What is the nature of human excellence?"
 
 ---
@@ -1634,7 +1622,7 @@ In short, only when we embrace our new fundamental nature as a technological spe
 
 The mysteries could be true. Perhaps I was abusing James because of some trait I disliked. In any event, I would have to believe them to make them a reality for James pain. Beliefs can never be primary because they are not constant laws of nature like physics or chemistry. Evolution needs adaptations to absolute truths. James did not have the tools he needed.
 
-### Application - The Technological Automattic Nervous System
+### Application - The Technological Automatic Nervous System
 
 This one time the phone line crackled with urgency. "Please don't hang up—it has taken me an hour to get through to you." As a claims adjuster, I've heard panic in many voices, but this call was unique. This customer was a man standing on a cruise ship somewhere in the Caribbean, desperately trying to save his bed-and-breakfast thousands of miles away in rural Newfoundland. The scene was surreal: as he described his flooding home, the festive sounds of steel drums and laughing retirees drifted through the phone line, a jarring soundtrack to his personal crisis.
 
@@ -1672,45 +1660,47 @@ Our story is about a Maryland farm boy named Frederick using tools to overcome i
 
 Frederick worked in the fields with his mother. It was hard labor, of course, there weren't many machines around, so he had to spill much blood, sweat, and tears, for himself and his mother.
 
-In a few years, Frederick was sent to work with a relative in Baltimore. The house was large, and the young family could use help cleaning, shopping, doing chores. It made his mother happy he wouldn't sweat so much, yet Frederick was a farmer and unsure of the big city.
+In a few years, Frederick was sent to work with a relative couple in Baltimore. Their house was large, and the young family could use help cleaning, shopping, doing chores. Frederick's mother happy her son wouldn't sweat so much, yet Frederick was a farmer and unsure of the big city.
 
-The patriarch of the house was named Hugh. He wasn't around much. His new wife, Sophia, was. She was a foreigner used to colder climates who didn't know many people yet, so she stayed in a lot. Sophia was kind and treated Frederick well. Not as a farmer, but as an interesting person. She made Frederick feel at ease.
+The patriarch of the Baltimore house was named Hugh. He wasn't around much, but his new wife was Sophia was. From Ohio the young wife who didn't know many people yet, so she stayed home a lot. Although her home was a sort of doll house, she did not cherish it. Sophia had a kind heart and treated Frederick well. Not as a farmer, but as an interesting person and she made Frederick feel at ease.
 
 One day, Sophia handed Frederick a list of items to pick up from the store. Frederick's eyes looked down, his shoulders slouched, like a dog who disappointed its masters. Frederick mumbled, "I can't read."
 
 "My God, that won't do!" Sophia responded, then continued, "Reading is good. How else can a person give and receive information from... from... the world! I'll teach you; we'll do it together."
 
-So, Sophia began to teach Frederick to read. Sophia shared the magic of learning and was overjoyed.
+So, Sophia began to teach Frederick to read. The bored house wife happily taught the magic of learning.
 
-Frederick even more so! Finally, all those markings in the store, on street corners, in books, in newspapers, in the Holy Bible, meant something! Go left, turn right, open, closed, discounted, welcome, and Salvation, all words that open a new world!
+Frederick felt the spell of knowledge. Finally, all those markings in the store, on street corners, in books, in newspapers, in the Holy Bible, began to mean something! Go left, turn right, open, closed, discounted, welcome, free, north, south, and Salvation, all words that open a new world!
 
-For the first time in his life Frederick had self-respect. He felt like he was a player in the game of civilization.
+For the first time in his life Frederick worked on himself and improving his prospects. The more knowledge he learned, the more he felt like he was a player in the game of civilization.
 
-Now Frederick danced to the store, and he whisked himself to do his chores. As he kept learning he loved how the world kept getting bigger, and more information kept pouring in.
+After only a few weeks of lessons Frederick soon danced to the store and he whisked himself to do his chores. Such is the change hope can give.
 
 One day Hugh came home early. He saw Sophia and Frederick reading at the dinner table. Hugh walked into the room. "Boy, get out, and wait in the hallway. Face the wall."
 
 Frederick got out, went outside, and faced the wall.
 
-Seconds turned to minutes. Frederick rolled the newspaper in his hands tighter. He didn't want to go back to the farm. But even more, he didn't want his angel to get in trouble.
+Seconds turned to minutes. Frederick rolled the newspaper in his hands tighter. He didn't want to go back to the farm. But even more important, he didn't want his angel Sophia to get into trouble.
 
-Inside the room, Sophia was curious, "What is it?." Hugh responded, "This isn't Ohio... Darling, you can't do that. We could get in a lot of trouble. You can't teach them to read."
+Inside the room, Sophia was curious, "What is it?." Hugh responded, "This isn't Ohio... Darling, you can't do that. You are attracting a terrible grief. You can never teach them to read."
 
 Sophia responded, "everyone learns to read in Ohio."
 
-Hugh takes a seat and takes a deep breath to calm his nerves. Now he looks at his naive wife "This isn't a free State. He is a slave. What do you think happens when slaves read? Don't you think they'll start thinking?" Sophia's eyes went wide. Hugh continued, "It's against the rules to teach a slave to read... now teach the boy."
+Hugh takes a seat and inhales a deep breath to calm his nerves. Now he looks at his naive wife "This isn't a free State. He is a slave. What do you think happens when slaves read? Don't you think they'll start thinking?"
 
-As Frederick hears the hallway door open, he straightens up and grips his newspaper.
+Sophia's eyes went wide. Hugh continued, "It's against the rules to teach a slave to read... now teach the boy."
+
+Frederick, face against the wall, hears the hallway door open, he straightens up and grips his newspaper, as the footsteps approach.
 
 Sophia says, "Turn around."
 
-Frederick does and looks at his angel, who talked with him like he was a person. And she looked back and only saw _her boy_.
+Frederick turns and looks at his angel. The one who talked with him like he was a person. The one who unlocked the letters, the world, the Word of God for him. And she looks back with no angelic glow in eyes.
 
-Sophia slapped the newspaper from her boy's hand. He didn't let go. She hit again and again and again. Each slap hurt more than a dozen whips on his scarred back.
+Sophia slap the newspaper from her boy's hand. He doesn't let go. She hits again and again and again. Each slap hurts more than a dozen whips on his scarred back.
 
-She slapped, and slapped, and hit, and hit. Sophia was told her new society's ruling philosophy. The magical joy of teaching someone to read, of expanding humanity's cyborgology to better win the game of evolution, was erased.
+She slapped, and slapped, and hit, and hit. Sophia was told her new society's ruling philosophy. The magical joy of teaching someone to read, of expanding humanity's technological evolution to better win the game of evolution, was erased.
 
-Sophia now knows what evil is, and she will not do it. She will use her power of technology to prevent outsiders getting access to it. Sophia then and there became a demon protector of vile racism to justify human slavery.
+Sophia learned what evil is, and she will not do it. She will use her power of technology to prevent outsiders getting access to it. The rules say she is right. Sophia then and there became a demon protector of vile racism to justify human slavery.
 
 Frederick's world shut down again. The one white person ignorant enough to treat him like a person was now an educated convert to the rules that put him into chains. Physical chains if needed, but evil prefers mental chains of ignorance; they stay on so much easier.
 
@@ -1722,45 +1712,46 @@ One day while doing his chores, Frederick saw a newspaper, the avenue to knowled
 
 Why?
 
-The answer slapped him harder than the demon ever did, he read the words "The Free States in the ~~North~~." He heard the word freedom before, but he didn't know freedom was a real place.
+The answer slapped him harder than the demon ever did, he read the words "The Free States in the North." He heard the word freedom before, but he didn't know freedom was a real place.
 
-A shockwave went through him when he realized if slavery was a place, so must freedom be a place too. Frederick realized he could break chains! Because ignorance was always his demon, and knowledge was always his angel. And he fought ignorance and received wisdom, whenever he read.
+A shockwave went through him when he realized if slavery was a place, so must freedom be a place too. Like a kid who understands Santa Claus is just a way to each morality to children, Frederick then and there realized slavery is just a story used to keep him from breaking his chains! Because ignorance was always his demon, and knowledge was always his angel. And he fought evil whenever he read.
 
 So, Frederick taught himself to read.
 
-He practiced with "ignorant" white kids on the streets. He read items tags at the grocery store and signs on the road. And he practiced every time he was at the Baltimore dock; the dock I said, you know the place, where ships will take you anywhere in the world.
+He read items tags at the grocery store and signs on the road. He practiced with "ignorant" white kids on the streets.And he practiced every time he was at the Baltimore dock; the dock I said, you know the place, where ships will take you anywhere in the world.
 
 If you can read the schedule.
 
-One day Sophia waited for her boy to return. But the boy died when the man Frederick Douglass walked onto the ship headed north to freedom. The man knew the exact time, place, and fare he needed to get on. He read it, himself, on the schedule.
+One day Sophia waited for her boy to return. But the boy died when the man Frederick Douglass walked onto the ship headed north to freedom. The man knew the exact time, place, and fare he needed to get on. Such is the power of mastering technology.
 
 Reading opened the world to Frederick, and now the free world was opened to him.
 
-The story gets better. Frederick Douglass wasn't happy just reading, he became a world-famous orator and writer. His words changed the game of civilization.
+The story gets better. Frederick Douglass wasn't happy just reading. He became a world-famous orator and writer. With elegance, grace, and power he tore down the terrible stories that justified slavery and forever changed the game of civilization.
 
-In a world with no radio, video, or telephones, Douglass travels the Northern States and Europe telling everyone the truth about slavery. When the American Civil War (1861-1865) broke out, his books helped Britain reject recognizing the slave States, and thus deprived it of much-needed support. Douglass overcame ignorance of others, and he overcame oppression of involvement in humanity's natural technological evolution.
+In a world with no radio, video, or telephones, Douglass traveled the Northern States and Europe telling everyone the truth about slavery. When the American Civil War (1861-1865) broke out, his books helped Britain reject recognizing the slave States, and thus deprived it of much-needed support. His side won the battle between over slavery because one side held back humanity from technological evolution, whilst another empower humanity's natural technological evolution.
 
-The irony of a slave educating people about slavery, and thereby helping to end slavery, is the cherry on top of this great story.
+The irony of a slave learning to read, and soon after educating people about slavery, and thereby helping to end slavery, is the cherry on top of this great story.
 
 _Story adapted from A Narrative of the Life of Frederick Douglass. Free on Project Gutenberg._
 
 **Lessons to be Learned**
 
-Frederick Douglass's journey from slavery to freedom through literacy illuminates core principles about humanity's relationship with technology that remain relevant today. His story isn't just about learning to read - it's about how access to tools fundamentally transforms human capability and shapes power structures in society.
+Frederick Douglass's journey from slavery to freedom through literacy reveals a profound truth about humanity's relationship with technology. His story is more than a tale of learning to read - it's a blueprint for understanding how access to tools fundamentally transforms human capability and reshapes power structures.
 
-In 19th century America, literacy functioned as a controlled technology. Just as modern authoritarian regimes restrict internet access, slave states understood that controlling information technology was crucial to maintaining power. Sophia's transformation - from someone who viewed reading as a universal right to someone who violently enforced technological restriction - demonstrates how social systems maintain these controls through ideology rather than just force.
+When Douglass first recognized the mysterious letters on the ship schedule, transforming those black marks from meaningless symbols to a gateway of possibility, he demonstrated how seemingly simple technologies can radically alter human potential. Those words "Free States in the North" were not just text, but an operating system for freedom - a technological tool that expanded his world far beyond the physical constraints of slavery.
 
-But Douglass's experience reveals something even more profound about human technological evolution. Once he gained access to this cognitive tool, his entire world expanded. Reading wasn't merely a skill - it was a form of technological augmentation that transformed his capabilities, his desires, and therefore his identity. The mysterious marks on signs, books, and ship schedules became an operating system for freedom that he could now access and use.
+Sophia's transformation from a kind teacher to a violent enforcer of technological restriction illustrates what some social systems resort to in order to maintain control. When Hugh warned her that literacy might make slaves "start thinking," he revealed a fundamental truth about technological power: those in control understand that certain tools can disrupt existing social hierarchies. Just as modern authoritarian regimes restrict internet access, slave states understood that controlling information technology was crucial to maintaining power.
 
-His story illustrates three key principles of Techvolution:
+Douglass didn't just use literacy for personal liberation. He weaponized this technological tool, becoming a world-famous orator and writer who systematically dismantled the ideological foundations of slavery. His writings helped Britain reject supporting the slave states during the Civil War, demonstrating how individual technological empowerment can catalyze broader social change.
 
-First, seemingly simple technologies can fundamentally alter human capability. Reading transformed Douglass from a passive object in civilization's game into an active player who could reshape the rules themselves.
+In our digital age, where access to information technology increasingly determines human potential, Douglass's story remains a powerful reminder: human evolution is intrinsically linked to our ability to access, master, and leverage new tools. Whether it's literacy in the 19th century or internet access today, technological freedom is not just about having a tool, but understanding how to use it to reshape the world.
 
-Second, technological restriction is often used to maintain power structures. Hugh's fear that literacy would make slaves "start thinking" reveals how those in power are ultimately defined by their control over a important technology and so they understand that certain tools can disrupt existing social hierarchies.
+The core principles of Techvolution are written in Douglass's story:
+- Technology is more than a physical object; it's a system of access and capability
+- Power structures are maintained by controlling technological access
+- Individual technological empowerment can transform not just personal destiny, but entire social systems
 
-Third, individual technological empowerment can catalyze broader social change. Douglass didn't just use literacy for personal freedom - he weaponized it to attack the entire system of slavery through his writings and speeches.
-
-In our digital age, where access to information technology increasingly determines human potential, Douglass's story reminds us that the struggle for technological freedom continues. Whether it's literacy in the 19th century or internet access today, human evolution remains intrinsically linked to our ability to access and master new tools.
+Reading opened the world to Frederick Douglass. In doing so, he showed us how technology can be the most powerful path to human liberation.
 
 ### Application - I Don't Know What I Own
 
