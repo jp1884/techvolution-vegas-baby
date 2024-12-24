@@ -285,7 +285,7 @@ SOCRATES: (slight smile at the unusual comparison) Species? Hm. That's part of w
 
 ## Introduction 
 
-On September 29th, 2014, Dr. Johnson made a prediction. She said that in seven years, three months, two days, at 10:11 AM EST, star number 9338 would explode.
+On September 29th, 2014, Dr. Johnson made a prediction. She said that in seven years, three months, two days, at 10:11 AM EST, star number 9338 would explode. 
 
 As a newly minted astrophysicist, making a prediction seven years in advance about an event two billion light years away seemed remarkably bold. While most people struggle to predict their house value year over year, here was a scientist predicting an event so distant in both time and space that it defied human imagination. Despite the difficulty, the scientific community took her prediction seriously, aimed their telescopes at the precise location, and captured a brilliant photograph.
 
