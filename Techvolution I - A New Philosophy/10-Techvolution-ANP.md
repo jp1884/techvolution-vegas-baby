@@ -1640,7 +1640,7 @@ The Caribbean music playing in the background of that call serves as a perfect m
 
 ### Application - What is Freedom, What is Oppression
 
-As an example of technologies control over our growth and freedom, you needn't look further than this story of a Maryland farm boy named Frederick, who was born approximately two centuries ago.
+Using technologies control our growth and freedom. You needn't look further than this story of a Maryland farm boy named Frederick, who was born approximately two centuries ago.
 
 ---
 
@@ -1785,9 +1785,55 @@ The girl who was a property manager. House had a collapsed sewer line for 13 mon
 
 Both people were disasters. They could not arrange their private affairs and used political discourse to cover that up.
 
-### Application - Merry Christmas
+### Application - The People Who Stole Merry Christmas
 
 Home invasion, the Plaza....
+
+### Application - The Language of our Ecosystem
+
+Car insurance adjusters get the most random calls. Someone lost their purse in Paris, they call. Someone parked their car on a frozen lake and fell asleep for too long, and the car sank. A world or problems called us looking for help, and we adjusters only had a telephone and Google to try and help as best we could.
+
+The place as mayhem, with adjusters desperate trying to keep up. At least once or twice a year someone was carted away by an ambulance from the stress. People would sometimes call in who did not speak English. I helped my co-workers make a list of second languages we all spoke to help direct calls after one guy walked up and down our cubicles desperately asking "Vietnamese, does anyone speak Vietnamese".
+
+One time a lady called. She was soft spoken and polite and spoke no English. Her language sounded like Spanish of Portuguese. I Googled her phone numbers area code, it came back Texas and so I guessed Spanish.
+
+In Seinfeld, Elaine lied to a couple saying she was dating a matador, to which Jerry mockingly says "Uno momemto por for favor". And that's how much Spanish I knew, and it worked great. She was extremely happy to be told these terrible pronounced words, she waited as I got Paul's name from the list, and we together helped this very nice lady start the car claim she deserves after one of our company's customers hit her vehicle in Texas.
+
+Techvolution shows how much technology controls our fates. While we sleep in our homes, shop in stores, visit friends, work to earn money, we are in fact operating tools inside an ecosystem that grows and evolves according to the same laws of evolution as biological life. An accountants computer, a mechanics car jack, a teachers whiteboard, a home shower, all tools exist inside an ecosystem the same way as a tree, bobcat, and mushroom does.
+
+The difference is we must operate the tools. Some tools require minimal supervision or input such as a street light, while others like a hammer don't do anything unless we wield them. Regardless of our involvement, every tool was imagined, created, and used by a human. Thus in order for the technological ecosystem to prosper, human society which depends upon it, must be structured to empower the technological ecosystem.
+
+Living a regular life makes this hard to see, however the evidence is all around us. One way to see it is looking at the languages we speak. One way to see this truth is looking at human languages and its affect on prosperity.
+
+Language is a fundamental spatial and economic technology that structures human societies, enabling or constraining social organization, resource distribution, and economic interaction. At its core, language defines territorial boundaries, creates communication networks, and determines the flow of information that shapes migration patterns and trade corridors.
+
+Within economic systems, language functions as critical infrastructure. It facilitates market communication, determines transaction costs, enables or restricts labor mobility, and influences knowledge transfer. Urban centers with linguistic diversity frequently emerge as innovation hubs, their varied communication networks creating unique economic opportunities.
+
+The most successful economic regions will be those that can create efficient linguistic transmission networks, develop rapid translation technologies, and maintain linguistic diversity while enabling universal communication. Language is not just a tool for conversation, but a sophisticated spatial technology that structures how human societies organize, collaborate, and evolve.
+
+Once you consider language as a technology, the ability to create sounds, teach verbal and written language is filled with technologies. Just as Frederick Douglass discovered how reading could unlock entire worlds of possibility, languages represent technological systems that enable or constrain human potential.
+
+Like any tool, humans do not always use language optimally. The biggest problem is not too few, but actually too many.
+
+A person speaking a language requires another who can understand. Languages is the ultimate example of the network effect. The more people who use a technology the easier, better, and more reasonable it becomes to join in yourself. The ease of a society using WhatsApp or iMessage is just a few examples of the benefits of diverse people using the same platform to communicate. And the same idea applies to languages, in what historians call "lingua franca",which is a historical term for an area have a standard language like Greek, Latin, French, or today English to speak between strangers.
+
+With the importance of language shown, it should not be suprising that the more languages a region has, what geographers call a "living language", the worse its development is.
+
+Human development is of course subjective, but here we are using the the Human Development Index (HDI) which represents a sophisticated approach to measuring societal progress, developed by the United Nations Development Programme to transcend traditional economic metrics like Gross Domestic Product. Unlike narrow financial indicators, the HDI evaluates human potential through three critical dimensions: health, education, and standard of living.
+
+Health is measured by life expectancy at birth, providing insight into a population's overall well-being and access to medical care. Educational development is assessed through two complementary metrics: the mean years of schooling for adults and the expected years of schooling for children. This approach captures both current educational attainment and future learning potential. The standard of living is evaluated using Gross National Income per capita, offering a more nuanced view of economic capability beyond simple monetary measures.
+
+When we examine linguistic diversity through the lens of technological evolution, fascinating patterns emerge. Countries with numerous living languages often struggle to transform these linguistic tools into effective technological platforms. In Papua New Guinea, with over 840 living languages, the complexity of communication becomes a barrier to technological integration. Each language represents a unique system to interact with, making widespread technological adoption challenging.
+
+This is where lingua francas - common languages adopted for practical communication - become critical technological adaptations. English has emerged as a global technological lingua franca, enabling scientists in Japan, programmers in Brazil, and engineers in India to collaborate seamlessly. It functions like a universal translation protocol, allowing knowledge to flow across previously isolated linguistic networks.
+
+Contrast this with more linguistically homogeneous societies like Japan or Nordic countries, where a common technological language - both literal and metaphorical - accelerates innovation. Their ability to rapidly share knowledge, develop shared technological infrastructure, and collaborate across sectors demonstrates how a more unified linguistic technology can drive societal progress.
+
+Evolution doesn't care about our intentions or cultural narratives - it observes adaptability. A society's capacity to transform linguistic diversity into a technological advantage determines its evolutionary success. Some societies treat multiple languages as barriers; others see them as interconnected networks waiting to be optimized.
+
+The correlation isn't about suppressing linguistic diversity, but about creating adaptive communication technologies that allow different "linguistic species" to interact seamlessly. The most successful human ecosystems will be those that can maintain linguistic richness while developing universal translation and communication platforms.
+
+
 
 ### Application - Bon Voyage
 
