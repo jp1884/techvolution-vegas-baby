@@ -4111,3 +4111,25 @@ Quite the intro. The details are in the following chapters. The stage is set. Yo
 For example, Donald Trump is not an random political figure. There is a rational and predictable reason why he won his terms. Basically, evolution needs ecosystems, and hence borders, although ours are not perfect, they must exist. To understand why without emotion or boasting, will take a new paradigm.
 
 ===
+
+On September 29th, 2014, Dr. Johnson made a prediction. She said that in seven years, three months, two days, at 10:11 AM EST, star number 9338 would explode.
+
+As a newly minted astrophysicist, making a prediction seven years in advance about an event two billion light years away seemed remarkably bold. While most people struggle to predict their house value year over year, here was a scientist predicting an event so distant in both time and space that it defied human imagination. Despite the difficulty, the scientific community took her prediction seriously, aimed their telescopes at the precise location, and captured a brilliant photograph.
+
+This remarkable image, while not widely publicized, represents something profound: the power of understanding natural laws. Dr. Johnson's prediction was not a guess—it was the result of applying well-established laws of physics and mathematics. These laws, though complex to master, have proven almost boringly reliable countless times before. The prediction became just one of many highlights in her distinguished career.
+
+--
+
+In 1893, Nikola Tesla made an extraordinary prediction. He calculated that by harnessing the force of Niagara Falls with turbines and transformers, he could power cities hundreds of miles away. While others saw the falls as a mere tourist attraction, Tesla envisioned it as nature's own power plant, capable of lighting up the growing manufacturing metropolis Buffalo, New York.
+
+The engineering challenge was unprecedented. His design required converting millions of gallons of falling water into alternating electrical current, stepping up the voltage for long-distance transmission, then stepping it down again for safe home use. While most engineers thought electricity could only travel a few miles, here was Tesla predicting he could send massive amounts of power across vast distances.
+
+This remarkable achievement, the Niagara Falls Power Station completed in 1895, represents something profound: the power of mastering technological evolution. Tesla's hydroelectric system wasn't a guess - it was the result of applying precise electromagnetic principles and mathematical models. These calculations proved so reliable that his basic design still powers much of North America.
+
+When we build a power plant today, whether its a nuclear powered wonder, or a simple wind turbine, each uses Tesla's alternating current. What seemed like impossible wizardry in 1893 - powering distant cities with falling water - became just another reliable technology in our growing technological ecosystem.
+
+And that applies of course to Tesla cars. These wonders are filled with apps, screens, self-driving abilities, but their engine is still based on the work of Nikola Tesla. The company's logo is actually a cross section of an electric motor.
+
+You likely experienced this contrast between scientific precision and everyday uncertainty this morning. While scientists and engineers can park telescopes in space that take pictures of stellar events billions of years old, and make hybrid cars filled with safety and self-driving capabilities, you probably couldn't predict what your morning commute time will be, if your income will keep up with inflation, or if your smart home devices would cooperate. This gap between technological capability and daily frustration reveals a crucial truth: we can build tools with amazing ability, but don't yet understand how our tools change our futures.
+
+===
