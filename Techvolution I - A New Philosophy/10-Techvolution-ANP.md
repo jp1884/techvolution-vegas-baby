@@ -287,30 +287,67 @@ SOCRATES: (slight smile at the unusual comparison) Species? Hm. That's part of w
 
 ## Introduction 
 
-On a crisp January morning in 2020, Dr. Katalin Karikó sat in her University of Pennsylvania laboratory, reviewing decades of research that most of her colleagues had long dismissed as a scientific dead end. Her work on messenger RNA (mRNA) technology had been repeatedly rejected by funding committees and scientific journals. For years, her research seemed as obsolete and forgotten as a prehistoric fossil - until the moment the COVID-19 pandemic transformed everything.
+I was an insurance adjuster for a few years. About 10 but that's not the job anyone wants to admit to a high number like that. Among the many reasons is the memories of the daily grind. Not only the typical corporate pep talks and traffic jams or the entitled customers and incoherent managers, the most painful memories was the trials of dealing with our economy.
 
-What Karikó had discovered was not a fish preserved in time, but a revolutionary approach to vaccine development that would change how humanity fights infectious diseases. Her research, which had been considered a scientific curiosity for decades, suddenly became the key to developing vaccines faster than any point in human history. While most researchers believed mRNA was too unstable and dangerous for medical use, Karikó and her colleague Dr. Drew Weissman had been quietly solving the technological challenges that would make mRNA vaccines possible.
+Insurance companies are technically "second party" to customers, meaning we have the obligation to get any relevant information and thereby step inside a person's shoes to understand their situation and see if insurance applies. To anyone curious enough to look, the job is basically a massive scientific experiment on our economy. I spoke with over 10,000 people, processed 5,000+ claims, and I kept lots of notes all throughout.
 
-When the first COVID-19 vaccines were developed in less than a year - a feat that would have seemed impossible just a decade earlier - the scientific community was electrified. Here was a technology that had been waiting in the wings, its potential unrecognized, now stepping onto the global stage and saving millions of lives. The mRNA vaccine was not just a medical breakthrough, but a testament to the power of persistent scientific investigation and technological evolution.
+One was particularly illuminateing. The claim was for a gentlemen named Bob. He and his wife were driving down to Florida for the summer. He had a large SUV and paid a shop to install a tow hitch to bring along his belongings. Something went wrong, the engine caught fire, and the vehicle was soon engulfed in flames. Bob and his wife barely had time to stop and jump out to save from burning alive.
 
-Now imagine a world where these few paragraphs were not so charged....
+He calls his insurance company, and I start his claim by asking the three questions. 
 
+- What happened?
+- Is it on the list of insurance coverages? 
+- How much should it cost to return the customer to their pre-loss condition?
+
+I hired a forensic engineer for about 4,000 dollars. Not to find reasons to deny the claim -  which some people assume is my job but that was never the case unless drinking and driving was suspected - but to perhaps find some negligence on the automaker, mechanic, or hitch installer and thus sue their insurance to recover our losses.
+
+The engineer rushed to the tow yard and did his inspection. His report would take several weeks to finish. In the meantime I'd paid Bob the cost for a replacement SUV and his rental costs closed my file and went onto the other 100 claims I was working on.
+
+Months go by and Bob calls. Getting a call back is good for an actor hoping to land a role, its frustrating when an adjuster. It just means more work. Yet this call back put me into a new role of disbelief.
+
+Bob asked me what the engineering report said. I thought that was fair enough. He and his wife had almost died after all. But then he said he needed to know because he was driving down to Florida soon, I asked "what do you mean". Bob replied "I purchased the same make and model of SUV and had the same shop install the same tow hitch, and I'm driving down the same roads to Florida and I want to know if the same thing might happen again."
+
+I couldn't believe it. The replacement SUV was even the same color. "What are you running a fucking experiment?" I wanted to laugh at him.
+
+Why would anyone re-create the exact same conditions of a tragedy? And yet he did. I went through the report with him but I felt so awkward doing so. Yes, the engineer suspected a fault in the hitching wiring caused the fire but the vehicle was so charred he could not prove it in court.
+
+Me saying "Good luck" was basically how the call ended.
+
+This claims story, and the thousands of others like it I experienced, speaks to what this book is all about. We are very ignorant of the world we live in. We know so little of the cars we drive, the houses we live in, the computers we use. We made this wonderous world of technology and are lost inside it.
+
+It's not an exageration to say, like a dog in a suburban home left wondering where the food comes from or why the people on television have no smell, humanity has been in a sense along for the ride of technological evolution without knowing where we are going.
+
+We live on the new and rapidly growing tree of technological life but rely our biological identities, instincts, and belief systems as if we're still living outside in Nature. We may visit and long to return to a cozy lake looking at an mountain vista but those days are long past. We can only visit the tree of biological life for rest and relaxation. Afterwards we must return to the modern life we've built and depend on.
+
+We have so much self-reflection to do in order to understand our new place in the world. We do not even study ourselves yet. The expensive engineers report I commissioned was left inside my claims file unread by the hitch installer, automaker, and the economy as a whole. It was valuable knowledge siloed off with no one to read it but a claims manager more interested in how many phone calls I answered then preventing another vehicle from catching fire. Time and again throughout my claims experience, there was no learning done from our car accidents, home invasions, product failures.
+
+Do you know how many car crashes happened along your roads last year? What are the odds your home is robbed this year? How many of the products you depend had a failure like Bob's SUV. You probably had no idea. People assume police officers, product manufacturers, or insurance companies have this info, they do, but only the bare basics and rarely does it out into the economy.
+
+The first step is getting people to see themselves as the technological beings that we are. Just as mirrors and lenses enabled Galileo and Newton to transform physics, and microscopes revolutionized chemistry and biology, it is time we turn these tools of scientific understanding onto ourselves. We must look honestly into the mirror of our technological existence.
+
+What you see now is a person, perhaps from Virginia, conservative, or from Washington and... but what you'll see as you keep reading are not those identities fadding, but they will combine and bring your true identity as a technological being evolving on the tree of technological life by jumping from branch to branch into focus.
+
+--
 
 On a sweltering December morning in 1938, Marjorie Courtenay-Latimer stepped into the docks of East London, South Africa. She was the curator of the local museum and routinely examined fish catches, as she looked over the day's haul something felt different.
 
-Among the typical marine specimens, one fish stood out in a big way. Its scales were an unusual blue-gray, its fins thick and fleshy were unlike anything she had seen before. While most other people might have dismissed it as an oddity, Courtenay-Latimer did not; she knew this creature was extraordinary; it looked so ancient.
+She saw an unusual fish and stepped in to save it from processing.
 
-Her instincts were correct. What she had discovered was a coelacanth - a fish species scientists thought had vanished 66 million years ago, dying alongside the dinosaurs. For over a century, paleontologists had only studied its fossilized remains, certain this ancient creature was long extinct. Finding a living coelacanth was like discovering a Velociraptor or Spinosaurus on that South African dock.
+What she found was a coelacanth - a fish species scientists thought had vanished 66 million years ago, dying alongside the dinosaurs. When news spread, the scientific community was electrified. Here was a creature thought long gone for millions of years, yet still alive, almost unchanged from its fossil ancestors. The coelacanth's unique anatomy, particularly its muscular, limb-like fins that are almost like "legs", let biologists study a crucial piece of evolutionary history - showing how fish might have first developed the ability to "walk" onto land.
 
-When news spread, the scientific community was electrified. Here was a creature thought long gone for millions of years, yet still alive, almost unchanged from its fossil ancestors. The coelacanth's unique anatomy, particularly its muscular, limb-like fins that are almost like "legs", let biologists study a crucial piece of evolutionary history - showing how fish might have first developed the ability to "walk" onto land.
+Courtenay-Latimer was not even an official scientist. She was a nurse who studied naturalism as a hobby. When she saw the coelacanth, the theory of evolution was not yet even a 100 years old. In that short time, because the theory was so accurate, scientist had created a comprehensive "tree of life" to explain all the different branches of existence Earth's creatures have taken in their quest to survive and procreate. In the time of books, telegraphs, and newspapers a nurse in rural South Africa knew enough to change history.
 
-The most amazing part of this discovery to me, is actually the fact that Courtenay-Latimer was not even an official scientist. She was a nurse who studied naturalism as a hobby, and left school to curate a local museum simply out of love for nature. When she saw the coelacanth, the theory of evolution was not yet even a 100 years old. In that short time, because the theory was so accurate, scientist had created a comprehensive "tree of life" to explain all the different branches of existence Earth's creatures have taken in their quest to survive and procreate.
+And there are endless other examples where science proved so accurate it could explain the extraordinary. On 29 May 1919 there was a solar eclipse. Albert Einstein, a unknown scientist at the time, predicted that the sun's rays would "bend" because of something he called spacetime, a warping of time and distance which is what gravity is. Einstein was proved correct and became world famous. Like Darwin's evolution, Einstein's theories have proven so accurate astronomy predictions are so relatively easy that they are hardly newsworthy anymore.
 
-Thus, it only took an educated person to see the ancient fish and realize it was important. It obviously had an anatomy from an earlier branch of life. More importatntly, its apparant ability to "walk" confirmed predictions made decades earlier about fish evolution coming onto land. Courtenay-Latimer knew the fish was important not because of a superstituion or mythology but because of its place in evolution demonstrated the remarkable predictive power of scientific understanding.
+Now compare this certainty and trust with ourselves and our politics.
 
-Now, imagine we had this mastery of ourselves. If everytime we saw a strange thing like an ancient fish, we did not run to cable news or another altar of ideology, but instead had a framework to understand...
+Let's use the COVID-19 pandemic.
 
-<!-- mRNA vaccine development during COVID-19 -->
+Within months, COVID-19 transformed the global landscape with unprecedented speed. By March 2020, a localized outbreak in Wuhan had become a worldwide pandemic that shut down entire economies. Millions of workers were suddenly unemployed or forced into remote work, with industries like hospitality and travel collapsing entirely. Global supply chains fractured, revealing the fragility of international trade. Cities became ghost towns, and societies rapidly adopted technologies like teleconferencing and online services as government forced lockdowns shut down our society.
+
+Now imagine a world where these few paragraphs were not so charged. Years after the pandemic were are still hatefully arguing, how many people died from COVID-19?, Where did the SARS-CoV-2 virus come from? Is long COVID a reality? Plenty of people will say the vaccine killed more then it saved and that the lockdowns were unneeded and authoritarian, or that the virus itself was weapon released on purpose into society.
+
+Watching any content on cable news, social media, or at kitchen tables, and you will not hear a debate over these questions. Instead you'll have certainity on one side or another. Much like Bob who purchased the same SUV as the one that burst into flames, we did not know what to do during a pandemic, and we can not even agree on the basics years later. Now contrast this state of chaos, distrust, and ignorance to other fields such as physics, chemistry, and biology. 
 
 We need frameworks to explain phenomena. Planet formation, electricity, mass extinctions, infections, and countless other processes that exist independent of human involvement are riddles ripe for misinterpretation sad consequences. During the Black Plague (1346-1353), which killed between one-third and one-half of Europe's population, a convent of nuns survived simply because they boiled their laundry—unknowingly killing the disease-carrying ticks at a time when others blamed "spontaneous generation" or the Devil. Similarly, until the late 1800s, millions of soldiers, workers, and ordinary people died from infected wounds because we did not understand the simple lifesaving power of cleaning wounds with alcohol. It was once common to think Earth was only 5,000 years old and all creatures were created in their current forms and had no ancestors at all.
 

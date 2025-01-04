@@ -4133,3 +4133,13 @@ And that applies of course to Tesla cars. These wonders are filled with apps, sc
 You likely experienced this contrast between scientific precision and everyday uncertainty this morning. While scientists and engineers can park telescopes in space that take pictures of stellar events billions of years old, and make hybrid cars filled with safety and self-driving capabilities, you probably couldn't predict what your morning commute time will be, if your income will keep up with inflation, or if your smart home devices would cooperate. This gap between technological capability and daily frustration reveals a crucial truth: we can build tools with amazing ability, but don't yet understand how our tools change our futures.
 
 ===
+
+On a crisp January morning in 2020, Dr. Katalin Karikó sat in her University of Pennsylvania laboratory with hope, although she had reason to despair. Her work on messenger RNA (mRNA) technology had been repeatedly rejected by funding committees and scientific journals. For years, her research seemed as obsolete and forgotten as a prehistoric fossil.
+
+Then the COVID-19 pandemic came.
+
+What Karikó had discovered was a revolutionary approach to vaccine development. Her research, which had been considered a scientific curiosity for decades, suddenly became the key to developing vaccines faster than any point in human history. While most researchers believed mRNA was too unstable and dangerous for medical use, Karikó and her colleague Dr. Drew Weissman had been quietly solving the technological challenges that would make mRNA vaccines possible.
+
+Hope was in a vaccine. What usually took decades to research and develop, was now because of mRNA vaccines were developed in less than a year. The technology that had been waiting in the wings was saving millions of lives, and the medical community was so engergized. The mRNA vaccine was not just a medical breakthrough, but a testament to the power of persistent scientific investigation and technological evolution.
+
+===
