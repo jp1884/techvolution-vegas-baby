@@ -4143,3 +4143,77 @@ What Karikó had discovered was a revolutionary approach to vaccine development.
 Hope was in a vaccine. What usually took decades to research and develop, was now because of mRNA vaccines were developed in less than a year. The technology that had been waiting in the wings was saving millions of lives, and the medical community was so engergized. The mRNA vaccine was not just a medical breakthrough, but a testament to the power of persistent scientific investigation and technological evolution.
 
 ===
+
+
+===
+
+Science has explained so many other things. Sir Issac Newton wrote down the laws of motion. Albert Einstein explained the laws of relativity. Dmitri Mendeleev created the periodic table before many of the elements were even discovered. Charles Darwin discovered the rules of evolution be looking at worms, plants, and finches. Using this scientiftic and engineering knowledge empowered us to build the modern technological world. Through biology, chemistry, physics, to engineering to medicine, we have frameworks that are so accurate they make reliable predictions ordinary.
+
+
+Now compare this certainty and trust with our politics and economics.
+
+Let's use the COVID-19 pandemic.
+
+Within months, COVID-19 transformed the global landscape with unprecedented speed. By March 2020, a localized outbreak in Wuhan had become a worldwide pandemic that shut down entire economies. Millions of workers were suddenly unemployed or forced into remote work, with industries like hospitality and travel collapsing entirely. Global supply chains fractured, revealing the fragility of international trade. Cities became ghost towns, and societies rapidly adopted technologies like teleconferencing and online services as government forced lockdowns shut down our society.
+
+Now imagine a world where these few paragraphs were not so charged. Years after the pandemic were are still hatefully arguing, how many people died from COVID-19?, Where did the SARS-CoV-2 virus come from? Is long COVID a reality? Plenty of people will say the vaccine killed more then it saved and that the lockdowns were unneeded and authoritarian, or that the virus itself was weapon released on purpose into society.
+
+Watching any content on cable news, social media, or at kitchen tables, and you will not hear a debate over these questions. Instead you'll have certainity on one side or another. Much like Dylan who purchased the same SUV as the one that burst into flames, we did not know what to do during a pandemic, and we can not even agree on the basics years later. Now contrast this state of chaos, distrust, and ignorance to other fields such as physics, chemistry, and biology.
+
+===
+
+## Introduction
+
+I was an insurance adjuster for about ten years, though that's not a number anyone likes to admit. Among the reasons is rekindling memories of the daily grind - the corporate pep talks, entitled customers, and incoherent executives. But the most painful memory was witnessing our society's profound technological ignorance.
+
+Insurance companies are technically "second party" to customers, meaning we must understand their situation completely to determine if insurance applies. By stepping into so many people's shoes, the job becomes a massive scientific experiment on our economy for anyone curious enough to observe. I spoke with over 15,000 people, processed 8,000+ claims, and kept detailed notes throughout.
+
+One claim perfectly illustrated our technological blindness. A gentleman named Dylan was driving to Florida in his SUV, which had a newly installed tow hitch. Something went wrong, the engine caught fire, and the vehicle was engulfed in flames. Dylan and his wife barely escaped with their lives.
+
+Following standard procedure, I hired a forensic engineer for $4,000 - not to deny the claim, but to potentially find negligence by the automaker, mechanic, or hitch installer. While awaiting the engineer's report, I paid Dylan for a replacement SUV and closed the file, moving on to my other hundred active claims.
+
+Months later, Dylan called back. He wanted to know the engineering report's findings because he was planning another trip to Florida. What he said next left me speechless: "I purchased the same year, make, and model of SUV. I had the same shop install the same tow hitch. Now I'm driving down the same roads to Florida and want to know if the same thing might happen again."
+
+The replacement SUV was even the same color. "What are you running a fucking experiment?" I wanted to ask. Why would anyone recreate the exact conditions of a near-fatal accident? Yet he did. I awkwardly reviewed the inconclusive report - the engineer suspected faulty wiring but couldn't prove it. "Good luck" was all I could say.
+
+This story, and thousands like it from my claims experience, reveals a profound truth: we are remarkably ignorant of the technological world we've built. Like dogs in suburban homes wondering where their food comes from or why the television makes noise, we navigate our technological environment with little understanding of how it works or how it might fail us.
+
+--
+
+On a sweltering December morning in 1938, Marjorie Courtenay-Latimer, a museum curator and amateur naturalist, discovered a coelacanth - a fish species scientists believed had vanished 66 million years ago. Her finding was groundbreaking, revealing a creature with muscular, limb-like fins that provided crucial insights into evolutionary history, showing how fish might have first developed the ability to "walk" onto land.
+
+This discovery occurred when the theory of evolution was less than 100 years old. Remarkably, Courtenay-Latimer, who was not even an official scientist, used only the limited resources of her time to make a historical contribution that would change scientific understanding.
+
+Frameworks are essential for explaining phenomena. Historical examples demonstrate this repeatedly. During the Black Plague, a convent of nuns survived by boiling their laundry - unknowingly killing disease-carrying ticks - at a time when others blamed supernatural causes. Similarly, until the late 1800s, millions died from infected wounds before understanding the importance of basic wound cleaning.
+
+Francis Bacon (1561-1626) formalized the journey from ignorance to understanding by inventing the scientific method. He recognized that truth exists independently of human beliefs and must be discovered through careful observation. Bacon believed humanity could improve by questioning perceptions and systematically investigating the natural world.
+
+The scientific method's core principles - empiricism, skepticism, objectivity, and reproducibility - provide a reliable path to knowledge. Bacon emphasized that truth cannot be self-referencing. Instead of accepting claims based on authority, scientific understanding requires investigation, making predictions, keeping detailed records, and letting evidence speak for itself.
+
+Throughout history, remarkable individuals have transformed our understanding by revealing fundamental laws. Newton explained gravity, Darwin uncovered evolution, and Lister demonstrated the existence of microscopic germs. Each discovery converted mythologies into scientific understanding, making human life more predictable and less painful.
+
+While scientists have mastered understanding the natural world - from ancient creatures like the coelacanth to the physics of distant galaxies - Techvolution argues that we have yet to apply the same rigorous approach to our political and economic systems. The potential exists to achieve a higher understanding by embracing systematic investigation and challenging existing perceptions.
+
+--
+
+Current ideologies are not enough. They are isolated and basically individual branches on the tree of technological life, and thus are not free to evalulate humanity's place inside it.
+
+We have lots to explain. Just as we once did not understand where diseases come from, or how to clean wounds, we do not understand the tree in which we live. We still think new technology, new branches of life, are optional. Consider how many people initially dismissed smartphones as unnecessary luxuries, only to find themselves struggling to function without one a decade later. Or how businesses that resisted e-commerce and telecommuting found themselves scrambling to survive when physical stores and offices suddenly closed during the COVID pandemic. These aren't just stories of adaptation – they're evidence of our troubled evolution as technological beings.
+
+We can cure ignorance, thankfully, by following other fields. Using the scientific method let us understand and master so many fields. With it we can predict astronomical events, understand biological processes, and cure diseases that once devastated populations. These fields still harbor mysteries and disagreements, but they have become self-perfecting—each new discovery builds upon previous understanding, each new tool enables further exploration. Once we realized truth is externalized, we only need better tools to find it.
+
+--
+
+Consider how the average person spends more time interacting with their smartphone than with their own family members. Or that telecommunications has shortened distances so much that customers and workers will often never meet in person. We do not just use tools. Rather, we invent, build, operate, maintain, and reinvent a massive and growing technological ecosystem. Our tools have become an integral part of our daily lives, shaping our experiences, relationships whilst feeding us, sheltering us, and doing most all things we need to survive.
+
+---
+
+Transforming our sense of self is not a luxury, but a fundamental requirement for our future. We cannot overcome the challenges of our technological existence without recognizing our technological identity. For business leaders, to car claim adjusters, medical doctors, to patients looking to get healther, this shift offers practical value. Recognizing ourselves as technological beings makes analyzing our economy so much easier because we won't be isolated into a section of it, but more like biologist looking at the system as a whole.
+
+To illuminate our evolution as technological beings, this book aims to do for politics and economics what Newton did for physics and Darwin did for biology. A very tall order of course, and this book is not a definitive answer, but an invitation to explore a new way of understanding ourselves and the natural laws that govern human society. To understand humanity as a technological species, we must return to life's fundamental principles. By seeing how we adapt through innovation we can make sense of our past and shape our future.
+
+Evolution has been wildly successful for biological life. By aligning our political, economic, and social frameworks with the fundamental "pillars of evolution"—such as ecosystems, natural selection, adaptation, and co-evolution—we can enable smoother, more sustainable technological progress in our personal lives, job market, and economies. This approach moves beyond ideological divisions, creating systems that adapt quickly, distribute resources more effectively, and allow technological solutions to emerge organically, much like how diverse species collaborate in natural ecosystems.
+
+Understanding ourselves as a technological species is not about replacing our humanity, but expanding it. Just as the Enlightenment liberated us from purely religious worldviews, recognizing our technological identity frees us from limiting cultural and biological constraints. This is not a reduction of human experience, but an amplification of our potential. Also, there is still great value in human introspection. Vital things such as morality, ethics, belief do not have a physical dimension to investigate. The scientific method was not developed to answer these important questions. But evolution, astrophysics, disease are physical things, thus the truth of their existence depends on a physical exploration of their causes.
+
+===
