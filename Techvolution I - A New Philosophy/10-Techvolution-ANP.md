@@ -361,7 +361,7 @@ The Dartmouth Atlas Project has encountered significant challenges in expanding 
 
 Our medical system's complexity reflects the rapid growth of our technological ecosystem. In just decades, medical knowledge has exploded: penicillin varieties increased from 6 to 50, known cancers expanded from 50 to 350, and treatment options multiplied exponentially. The fundamental question is how can doctors or patients navigate this complexity when we lack systematic evidence collection?
 
-Consider Dylan's experience with trucks: In the 1960s, vehicles had around 20 semiconductors; now they have up to 5,000, each a potential point of failure that caused his fire. Without comprehensive reporting or access to engineering data, individuals are left navigating increasingly complex technological landscapes blindly.
+Consider Dylan's experience with trucks: In the 1960s, vehicles had around 20 semiconductors; now they have up to 5,000, each a potential point of failure that caused his fire. In that time period the average person went from having a home telephone, radio, and TV, to the dozens of devices that fill our homes today. Without comprehensive reporting or access to engineering data, individuals are left navigating increasingly complex technological landscapes blindly.
 
 While using technology feels similar across professions—for patients, doctors, adjusters, and drivers—the underlying technological evolution has far outpaced our ability to comprehend it.
 
@@ -373,9 +373,9 @@ By aligning our political, economic, and social frameworks with the fundamental 
 
 Mixed-Ideological Politics and Bumble-Bee Economics is made possibble because of open-source software's collaborative model. Like scientific communities, open-source creators prioritize shared progress over individual profit. Designers, inventors, and programmers contribute to shared projects, creating tools that anyone can use, modify, or improve. This approach treats technology as a living ecosystem that naturally selects and evolves toward better solutions.
 
-Open-source has revolutionized technology, enabling platforms like Wikipedia to democratize knowledge and train AI. Most digital infrastructure relies on free technologies: Linux operating systems, web frameworks like React and Rails, and fundamental internet protocols such as TCP/IP. Open-source doesn't replace business; instead, it provides standardized tools that enable companies big and small to do business more effectively. Just as tech giants agree on universal standards like PCIe and USB, open-source could transform fields like healthcare by creating standardized, shareable data systems that allow individual businesses, from large networks to small clinics, to learn from each other and therefore operate more efficiently.
+Open-source has revolutionized technology, enabling platforms like Wikipedia (500,000+ contributors) to democratize knowledge and train AI. Most digital infrastructure relies on free technologies: Linux operating systems (30,000+ contributors), web frameworks like React and Rails (2,500+ and 6800+ contributors) and fundamental internet protocols such as TCP/IP. Open-source doesn't replace business; instead, it provides standardized tools that enable companies big and small to do business more effectively. Just as tech giants agree on universal standards like PCIe and USB, open-source could transform fields like healthcare by creating standardized, shareable data systems that allow individual businesses, from large networks to small clinics, to learn from each other and therefore operate more efficiently.
 
-The modern technological ecosystem is budding like a cherry tree, yet we fail to understand the tree in which it wants to blossum. We mistakenly view new technologies as optional, when they are increasingly becoming essential. Consider how smartphones, once dismissed as unnecessary luxuries, became indispensable within a decade. Similarly, businesses that resisted e-commerce and telecommuting found themselves struggling to survive during the COVID pandemic. These aren't mere stories of adaptation—they're evidence of our complex evolution as technological beings.
+The modern technological ecosystem is budding like a flower, yet we fail to understand the ecosystem in which it wants to blossum. We mistakenly view new technologies as optional, when they are increasingly becoming essential. Consider how smartphones, once dismissed as unnecessary luxuries, became indispensable within a decade. Similarly, businesses that resisted e-commerce and telecommuting found themselves struggling to survive during the COVID pandemic. These aren't mere stories of adaptation—they're evidence of our complex evolution as technological beings.
 
 When seeking to improve our medical system, we debate which ideology to elect rather than asking which technologies we should upgrade. Open-source communities face the critical challenge of creating products that directly enable people to reimagine and reshape their work, learning, and daily experiences. By providing tools that transform ordinary individuals from passive consumers into active innovators, open-source software empowers people to observe, understand, and fundamentally change the world around them.
 
@@ -383,54 +383,9 @@ Techvolution challenges your fundamental beliefs about human nature and society 
 
 By recognizing our technological identity, we gain the power to shape our future deliberately, fostering innovation and creativity in ways we have only begun to imagine. The future beckons: a more prosperous, peaceful, and sustainable world for all. As you turn the page, remember: you are not just reading about evolution—you are participating in it.
 
-### Chapter - Frequently Asked Questions
+--
 
-To establish a solid foundation for understanding the ideas presented in "Techvolution," here are some of the most common questions readers may have.
-
-**What is the main idea of the book "Techvolution"?**
-Technological evolution, not human-centric ideologies or philosophies, has been the driving force behind the progression of civilization. As more technologies emerge, this becomes increasingly true.
-
-**What is a "technological species"?**
-For centuries, humanity lived in and depended on the natural world: sod houses, stone firepits, water gathered in animal skins. Since the Industrial Revolution, humanity now overwhelmingly depends on artificially created materials and power sources. From smartphones delivering our food to satellites guiding our travel, we live and die by the technology we hold. Just as fish have gills and birds have wings, we have computers and machines. The difference is profound - while animals must wait for evolution to give them new capabilities, we can create them.
-
-**How is technological evolution different from biological evolution?**
-Biological evolution happens because every single time two lifeforms procreate, their offspring have slightly different genes. These genes give certain characteristics like different hair color, short legs, or bigger ears. Some of these differences help a lifeform survive better and therefore procreate more often. Biological evolution thus typically takes many generations to change a lifeform into a new species. Technology evolves in a similar way but it happens faster. New tools can fundamentally transform society within years or even months. When horses were our fastest transport, human society evolved over centuries. When cars replaced horses, society transformed in decades. Now, with digital technology, major changes happen in years. The speed of techvolution evolution is what most sets it apart from biological evolution.
-
-**Why Does Being Technologically Self-Aware Matter?**
-Evolution can no longer select us primarily for our biology or culture - it selects us for our technology. Those without proper technological adaptations face severe limitations, like a tropical fish in arctic waters. Without self-awareness, we fear new technology as it challenges our habits, lifestyles, or threatens our jobs. But fearing evolution offers no advantages to any creature as life on Earth will inevitably keep changing. Self-awareness means embracing the fact that humans must evolve along with our tools.
-
-This accelerated human-technology co-evolution needed a new name, hence "Techvolution." This philosophy helps people understand how technological evolution shapes their future, teaching that our technological capabilities determine what we can do and who we can become.
-
-**What are "old ideologies"?**
-Ideologies are stories we tell to organize society - like conservatism's property growth or progressivism's social problem-solving. While these frameworks served purposes, they become rigid and resist updating when new technologies offer better solutions. Digital technology makes property and services generation easier, yet ideologies still assume resources are physical and limited.
-
-Old ideologies preserve outdated tools, preventing evolution. For instance, traditional on-campus college is still seen as a "rite of passage" despite cheaper, often superior digital education methods. This resistance leads to contemporary challenges like massive student debt. Ideologues blame adversaries instead of updating their thinking, causing dysfunction and conflict.
-
-**How can understanding Techvolution help me in my daily life?**
-Techvolution helps you navigate an increasingly technological world by shifting your perspective from resisting change to embracing adaptation. Instead of finding reasons why new technologies like electric cars, remote work, digital education "don't work", you'll learn to adjust your lifestyle to use modern tools effectively.
-
-By understanding technological evolution, you'll make smarter decisions about adopting technologies that lower living costs and increase personal freedom. Most importantly, Techvolution reduces anxiety about change by revealing its patterns and showing how resistance, not adversaries, creates societal problems.
-
-**Why is this book particularly relevant todays politics and elections?**
-Politics is increasingly emotional, with Conservatives and Progressives locked in heated battles across legacy media, social media, and society at large. Techvolution offers a broader perspective: just as biological life has distinct eras, so does technological evolution. We need to change to fully make use of digital technology, and we need all of society to do it. Understanding this can help us move beyond ideological conflicts and recognize how both sides' strengths - the Right's ability to build and the Left's capacity for innovation - are crucial to our evolution.
-
-**How does understanding technological evolution help us build a better world?**
-Evolution has been wildly successful for biological life. By aligning our political, economic, and social frameworks with the fundamental "pillars of evolution"—such as ecosystems, natural selection, adaptation, and co-evolution—we can enable smoother, more sustainable technological progress in our personal lives, job market, and economies. This approach moves beyond ideological divisions, creating systems that adapt quickly, distribute resources more effectively, and allow technological solutions to emerge organically, much like how diverse species collaborate in natural ecosystems.
-
-**Why are open-source software writers the heroes of the Internet Age?**
-Open-source software writers embody technological evolution by creating tools for collective advancement, not individual profit. Unlike traditional corporate models, they view technology as a collaborative ecosystem where each contribution improves the entire system and its okay to accept when a new and better technology arrives. Wikipedia, Linux, and countless programming frameworks demonstrate how distributed networks can unite around technological progress.
-
-Their heroism lies in building infrastructure for a new economic paradigm. By creating tools anyone can use to solve real-world problems across our economy, they show how technological species evolve: through cooperation, transparency, and practical innovation. Their challenge is to speed up their products that directly marketed to the people looking for ways to reshape their work, education, and daily life.
-
----
-
-<!-- Writing Tip: 
-The most engaging answers follow this pattern:
-- State principle / abstract principle
-- Provide example
-- Show implications / personal relevance
-- Connect to reader's life / future implication -->
-
+Techvolution reveals a profound truth about technological progress: humans do not control which technologies survive, but we can become aware of how evolution selects successful adaptations. Just as biological evolution chooses organisms best suited to their environment, technological evolution selects tools that provide the greatest competitive advantage. Our role is not to dictate which technologies will thrive, but to understand the fundamental principles of selection. By developing this self-awareness, we can design, create, and adopt tools more likely to succeed in the complex, ever-changing technological ecosystem. This approach transforms us from passive observers to informed participants, capable of anticipating and aligning with the inevitable trajectories of technological evolution.
 
 ## Chapter 1 - The Rules of the Game
 
