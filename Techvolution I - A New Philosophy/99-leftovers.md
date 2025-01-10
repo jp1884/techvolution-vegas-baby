@@ -4350,3 +4350,7 @@ Would you like to discuss potential reader reactions or reception strategies?
 After centuries of inventing, building, and learning more advanced tools we have become something new: a technological species that primarily survives and progresses through technological innovation instead of biological adaptations. We no longer wait for lightning to start fires, hike to gather food, or communicate primarily face-to-face. Instead, we invent, build, operate, maintain, and continually reinvent a massive, growing technological ecosystem that evolves according to the same fundamental principles governing biological evolution.
 
 ===
+
+- when you look out into your society, do you see the borders and climates of ecosystem? do you see checks and balances of tool creatures? do you see invasive species? what about living fossils? is innovation optional in such a perspective? Once you do see this things, you will see the ecosystem in which you live.
+
+===
