@@ -4351,6 +4351,6 @@ After centuries of inventing, building, and learning more advanced tools we have
 
 ===
 
-- when you look out into your society, do you see the borders and climates of ecosystem? do you see checks and balances of tool creatures? do you see invasive species? what about living fossils? is innovation optional in such a perspective? Once you do see this things, you will see the ecosystem in which you live.
+Consider my speed impediment. When a friend was open about her extreme social anxiety, I learned I too could just tell people (or indicate if I couldn't) my speech problems, and wow the bliss. There was no mask to wear, no falsehood to maintain. I could be honest with others and myself and rarely received any pushback. A few times when insurance customers would mock me, I'd politely say, "I'll hang up if you do that again" and they never did.
 
 ===
