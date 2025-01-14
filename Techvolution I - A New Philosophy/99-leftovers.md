@@ -4357,3 +4357,36 @@ Consider my speed impediment. When a friend was open about her extreme social an
 
 Our misunderstood identity means that when we seek to improve our society—from car insurance processes to medical systems—we debate which ideology to elect rather than asking which technologies we should upgrade. Open-source communities face a critical challenge: providing people with technological solutions to their problems. By creating products that directly enable individuals to reimagine and reshape their work, learning, and daily experiences, these communities transform ordinary people from passive consumers into active innovators. They empower individuals to observe, understand, and evolve solutions specific to their unique challenges.
 
+===
+
+Here's a personal example of adopting this way of thinking. While researching this book, a new friend openly shared her struggle with extreme social anxiety, which sparked a realization. I learned I need not be so hard on myself and could simply tell people about my speech problems—or indicate when I couldn't communicate.
+
+This mindset was deeply liberating. There was no mask to wear, no falsehood to maintain. By treating my speech impediment as a communication tool with limitations, I separated my emotions and self-worth from a technical challenge. And remarkably, it worked; most everyone understood and I rarely received pushback.
+
+I thus learned to reframe customers troubles as technical challenges. This helped understand the "golden rule" of claims adjusting: give people direction. Whether a person was dealing with a burnt-out house, a broken air conditioner, or domestic violence, as long as they understood what they needed to do next, they were often far less stressed than those in no trouble but left unsure when their rental car is due back, waiting on hold for hours, or some other form of limbo.
+
+Let's look at Dylan story again. While I'm still flabbergasted he re-purchased the same SUV, when he learned to drive in the 1960s, vehicles had around 20 semiconductors; his SUV had about 3,000, each a potential point of failure that could have caused a fire. In that time period, the average person transitioned from having a single home telephone, radio, and TV to the dozens of devices that now fill our homes and pockets. Without comprehensive study of these "technological creatures" and the honesty to admit we need help, individuals like Dylan are left navigating increasingly complex technological landscapes under masks of "customer", "driver", or "homeowner" pretending they are masters of their own fate.
+
+Similarly, so many co-workers, employees, and managers must pretend they know how new technology works or they just ignore it altogether. Either way, with such rapid technological advancement, most people in our economy today are running blind, hoping their recommended car repairs are actually needed, their identity remains secure, their insurance covers whatever happened to them, and AI won't automate their job duties. We're not unlike our ancestors who travelled the world hoping to find food, water, and shelter in an environment they didn't even have maps for.
+
+===
+
+Being honest with ourselves is our pathway to embracing the truth of our new paradigm: we individuals are a emerging technological species who need help navigating our technological wilderness. We must empowers individuals in this strange environemnt to ask for and expect help.
+
+Here's an example how accepting this new way of thinking.
+
+One day the company hired consultants. This is pretty common in most workplaces. They advised us to tell customers "I'm so sorry this happened to you" and "How can I make your day better." Coffee baristas were even hired to give a customer service flare. With respect to the consultants, they had never done the job and we adjusters ignored their advice.
+
+The reason is we it was dishonest. Recovering from a car crash or home invasion is not ordering a latte. There is no way to get what you want. Rather, a claim is just another run through of building permits, police reports, tow truck by-laws, repair parts delays, worker shortages, and other real-life things in our economy. As an insurance adjuster I can send someone money, and try my best to guide them through this maze, but I can't change how our economy works.
+
+The best thing to do is to first listen to a customer and let them tell you all their problems. And then be honest with them and tell them what you can help with. And that's what accepting this paradigm of living inside a technological ecosystem is all about. Nobody knows all the ins and outs because we have yet to turn the lens of science onto our technological ecosystem. The fastest way to getting your problems solved is honesty.
+
+I learned first hand how impactful this can be. While researching this book, a new friend openly shared her struggle with extreme social anxiety, which sparked a realization in me; I need not be so hard on myself and could simply tell people about my speech problems—or indicate when I couldn't communicate. The honest truth is although I am much improved speaker, I still stutter sometimes. Why should I not let people in on my situation if its relevant to them?
+
+This mindset was deeply liberating. There was no mask to wear, no falsehood to maintain. By treating my speech impediment as a communication tool with limitations, I could make people aware if I needed their help or consideration. At least I need worry about being caught or failing the self-imposed test to being something I'm not. And remarkably, it worked; most everyone understood and I rarely received pushback, and surprisingly being so relaxed is like a tonic to my ailment.
+
+I thus learned to reframe my insurance customers troubles as technical challenges. This became a sort of "golden rule" of claims adjusting: give people direction. They likely have no idea what insurance covers, what repairs are needed, and in general what comes next. It's not surprising that a person with good direction, even if dealing with a something serious like a burnt-out house, they were often far less stressed than those in no trouble but left unsure when their rental car is due back, waiting on hold for hours, or some other form of limbo.
+
+Now, let's look at Dylan story again. While I'm still flabbergasted he re-purchased the same SUV, I understand why he did. When he learned to drive in the 1960s, vehicles had around 20 semiconductors; his SUV had about 3,000, each a potential point of failure that could have caused a fire. In the time Dylan went from youth to elder, the average person transitioned from having a single home telephone, radio, and TV to the dozens of devices that now fill our homes and pockets. Without comprehensive study of these "technological creatures" and the honesty to admit we need help, individuals are left navigating increasingly complex technological landscapes. They can hope to find good customer service, but as the opiod epidemic showed, they need a technological counterpoint to truly solve their problem and without a technological identity we don't often thing to build or buy one. We're not unlike our ancestors who travelled the world praying to find food, water, and shelter in an environment they didn't even have maps for.
+
+===
