@@ -4400,3 +4400,19 @@ Bumble-Bee Economics encourage us to re-create biological ecosystems in our mode
 Open-source is already hard at work. It enabled platforms like Wikipedia (500,000+ contributors) to democratize knowledge and train AI. It powers most digital infrastructure fundamental internet protocols such as TCP/IP and the Linux operating systems (30,000+ contributors). Even programming packages that power products like Facebook and Shopify are open-source (React.js and Ruby on Rails have has 2,500+ and 6,800+ contributors respectively).
 
 ===
+
+This was not unusual. While we understand natural events such as weather patterns and forest fire seasons, we do not study technology, especially how we change with our tools. Biologistist call this "co-evolution", a obvious example being how the trumpet-shaped cardinal flower extends its pedals while the ruby-throated hummingbird develops its specialized beak to reach the hidden deep nectar, each species adapting to ensure the other's survival and propagation. Biologists study evolutionary details like this to great degrees.
+
+In contrast, in the thousands of I encountered, we treated each incident as an isolated event, only analyzing rudimentary information like zip codes and driving record months after an accident date. We never connected the complex interactions between environmental, mechanical, and human factors. For example, when thieves were targeting the make and model of a particular vehicle (professionals don't steal at random, they take requests from buyers), owners would find out only after watching their vehicles peel away.
+
+The difference between the two stories is that Courtenay-Latimer had a clear biological framework to interpret the living world. She understood the fundamental principles of life: an organism is a living system made up of interconnected genes, organs, and limbs. Every creature uses its features to enable survival, reproduction, and adaptation to a specific environment.
+
+Thus, instead of thinking the unusual coelacanth was a omen or curiosity, Courtenay-Latimer recognized that the strange-looking fish was a remarkable survivor from Earth's ancient oceans. In contrast, Dylan and we lack a comparable framework for understanding our technological world. We fail to see that technological gadgets, tools, and machines are creatures in their own right, and that our economy is actually an ecosystem of these "technological species".
+
+===
+
+Thus, instead of thinking the unusual coelacanth was a omen or curiosity, Courtenay-Latimer recognized that the strange-looking fish was a remarkable survivor from Earth's ancient oceans. In contrast, Dylan and we lack a comparable framework for understanding our technological world. We don't see technology within the story of Life, which comes with time-periods, purpose, and life-cycle. Instead we think technology is subject to whatever ideology we believe in, such as a capitalist thinking whatever is selling is good, even if the largese of American "McMansions" or large automobiles rarely lasts in nature and unsuprisingly needs bailouts and massive debt to survive in our economy.
+
+We don't master our environment, because we fail to see that technological gadgets, tools, and machines are creatures in their own right, and that our economy is actually an ecosystem of these "technological species".
+
+===
