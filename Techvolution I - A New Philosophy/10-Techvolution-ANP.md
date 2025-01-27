@@ -287,6 +287,54 @@ SOCRATES: (slight smile at the unusual comparison) Species? Hm. That's part of w
 
 ## Introduction 
 
+I was a claims adjuster for about seven years. It's not a job you brag about at parties. Most people's eyes glaze over when I mention insurance. They picture endless paperwork and office small talk. Which is absolutely true, the routine and tasks are quite mundane. But the stories... Robberies, crashes, home invasions, and other raw details from the frontline of our society ended up on my desk and these tales of tragedy and hardships got people's attention because they are relateable. Everyone knows they could be in them.
+
+Insurance companies are technically a "second party" to customers, meaning adjusters can ask any question we need to verify that a claim is geniune. By getting into people's shoes, the job is basically a massive experiment on our economy for anyone curious enough to listen. With this in mind, I spoke with over 30,000 people, processed more than 7,000 claims, and kept notes and journals throughout.
+
+Each claim illuminated a central truth. We are now a technological species. But like dogs in suburban homes wondering about the origin of their food or why television characters don't smell, we navigate our technological environment with a dangerous lack of understanding. We're in the dark about how our tools work, how to learn from failures, and most critically, how new technology fundamentally changes us and our society.
+
+One unforgetting claim shows this quite well. Dylan was an elderly gentleman whose SUV and caught fire while driving to Florida. I hired a engineer to see if his aftermarket two-hitch was to blame. While we waited to find out Dylan shocked me by using his claim check to purchase the exact same year, make, and model of SUV. He even and had the same shop install the same tow hitch. Dylan only called me after doing all this to ask what the engineer report said.
+
+The report was inconclusive. Saying a kind of "Good luck" was basically all I could do.
+
+This story was not unique in the least. We all navigate our technological world with a remarkable lack of understanding. Do you know what furnace you have or what do to after a car crash? Even this book you're reading. Whatever format you're using, do you know how paper, e-ink, computer screens are even made? It's unlikely you know a single person who creates these materials—from basic research to binding the pages together.
+
+Our technology has exploded in complexity and number in just a few decades. The smartphones, computers, internet, car, are an unchartered wilderness and humanity does not have the framework to understand it. After the United States and its allies won the Cold War in 1991, the entire world embraced the "invisible hand" of the captialism's free-market economics. According to the theory, our individual ignorance of the entire economic system is acceptable, as long as we understood our small role, "the market" of supply and demand will fuel mutual prosperity.
+
+Since then it's been a story with two sides. The first is the erosion of American quality of life. Since 1990 median household income, adjusted for inflation, has barely increased from 60,421 in 1990 to 67,521 in 2020, while housing costs have surged 374%, rising from 79,100 to 374,900. Healthcare premiums have skyrocketed from 4,800 to 21,342, and student debt has grown from 340 billion to 1.7 trillion. Life expectancy has declined from 78.9 years in 2014 to 77.3 years in 2020, with rising deaths of despair and economic mobility dropping from 90% in 1970 to approximately 50% by 2020, signaling a systematic deterioration of economic opportunity and well-being.
+
+Yet, the other side of the story is major success. The free-market keeps turning out technological transformations. Cars now have electric motors and are beginning to drive themselves. A renowned Harvard scientist is working on pill that stops aging. Artificial Intelligence data centers are being built at record speed, as computers seemingly approach the long-discussed "singularity".
+
+Capitialism is working wonders, but we're left to wonder what comes next. Stupendous emerging technologies keep attracting hundreds of billions in investments. I don't imagine you are commanding much attention in comparison. So how do you fit in? 
+
+Likely you're like Dylan, left unaware of what to do. So, if you drive a taxi or work in an office, are you worried? Will AI automate your job the same way robots transformed factory work? Even if you're retired, how secure are your investments? Are there any Blockbuster video rental stores in your portfolio?
+
+We are all tiny cogs in an enormous economic machine. Whether you're an office worker, regional manager, policy writer, farmer, or hold any number of positions, massive technological changes are reshaping our world—all while an "invisible hand" seemingly guides us.
+
+New technology is amazing. Yet we suffer because we're ignorant about it. When Adam Smith invented capitalism in 1776, people made cups from clay and wrote with bird feathers. New technology such as eyeglasses and lightning rods was amazing but quite limited. In modern times we can't depend on an "invisible hand" to do bring prosperity. We must look behind the magician to see how the tricks work.
+
+This book is about giving you a map drawn by universal rules of our future to make our path visible. The journey to insight begins with understanding your own identity. We define ourselves as black, white, tall, retiree, college student, manager, but does technology recognize these self-described categories?
+
+Technology is fundamentally inert and passive. It can only respond when humans initiate connection. While a person might discriminate based on race, gender, or class, technology remains neutral. It's not like a hammer asks "hey, are you..." before you drive in a nail. As technological changes sweep through the marketplace, we are all equal in its eyes—and equally ignorant of its transformative effects.
+
+Because participating in technological evolution—inventing, fostering, and using the tools that make civilization function—is the true human story. Our primary identifications by color, gender, height, or musical taste exist only because we remain ignorant of the universal rules of technological evolution happening all around us.
+
+Consider our recent journey of understanding evolution itself. While humanity had numerous belief systems explaining nature, Charles Darwin published On the Origins of Species in 1859, and Gregor Mendel's discovery biological inheritance wasn't read until 1900. Decades of subsequent research from DNA to epigenetics, conservation biology to ecology, have gradually unveiled the complex mechanisms of evolutionary change.
+
+As we unraveled evolutionary principles, our initial ignorance exacted a devastating toll. Humanity's self-constructed identities led to unimaginable disasters. We misapplied evolutionary concepts to the social masks we created, attributing success and failure in the "survival of the fittest" to race, gender, or class. Entire civilizations tested these misunderstood theories, scarring the 20th century with famines, wars, and genocide. Nazi Germany, Imperial Japan, the Soviet Union—each attempted to define human worth through narrow, dehumanizing lenses.
+
+These ideological systems ultimately collapsed, with the United States' economic model emerging predominant. While far from perfect, America's approach offered a unique advantage: acknowledging the complexity of its promise of "life, liberty, and the pursuit of happiness" while trusting that individual actions, guided by self-interest, would progressively improve society, which is the definition of the "invisible hand".
+
+This book applies evolutions' lessons but to our technology, because next step beyond self-aware ignorance is knowledge. Imagine our potential if we could truly understand how markets and technologies evolve. To achieve this, we must not only avoid dehumanizing others but accept a fundamental truth of our existence:
+
+We are technological beings living within an technological ecosystem that evolves according to the same rules of evolution as biological life. This book is about starting us on the long journey to understand how it operates.
+
+--
+
+
+--
+
+
 I was a claims adjuster for about seven years. It's not a job you brag about at parties. Most people's eyes glaze over when I mention insurance. They picture endless paperwork and office small talk. Which is absolutely true, the routine and tasks are quite mundane. But the stories... Robberies, crashes, home invasions, and other raw details from the frontline of our society ended up on my desk and these tales always quiet the room.
 
 Insurance companies are technically a "second party" to customers, meaning adjusters can ask any question we need to verify that a claim is geniune. By getting into people's shoes, the job is basically a massive experiment on our economy for anyone curious enough to listen. With this in mind, I spoke with over 30,000 people, processed more than 7,000 claims, and kept notes and journals throughout.
@@ -448,8 +496,6 @@ Open-source software and technologies remove technical barriers to human problem
 
 Our current mindset is the impediment to our prosperity. The point is, during my claims adjusting, I saw a truth about human identity: when facing real challenges, people care little about cultural identities or political beliefs. Whether dealing with a deadly car fire or an annoying leaking roof, customers' primary concern was simply getting their life back in working order. There's great fun in our different cultures, music, food, but we each have the same universal desire for practical technological solution because that's how we function. We just do not have the belief system to bring this desire out in us.
 
-Our current mindset is the primary impediment to our prosperity. During my years as a claims adjuster, I saw a fundamental truth about human identity: when confronting real challenges, people care little about cultural identities or political beliefs. Whether facing a deadly car fire or an annoying leaking roof, customers' primary concern was simply restoring their life to working order. While we rightly celebrate and indulge in the rich diversity of our cultures, music, and traditions, we share a universal desire for practical technological solutions. The lesson is, we are fundamentally tool-users and problem-solvers, yet we lack the belief system to fully unleash this innate drive.
-
 Techvolution offers a framework to not only understand our technological evolution, but to connect the amazing problem-solving potential of open-source software to our many daily technological troubles I peeked into during claims adjusting.
 
 This new framework reveals how technological progress emerges through continuous selection, innovation, and interaction—similar to how natural selection favors the most adaptive organisms. By recognizing ourselves as a technological species, we can deliberately shape our future by creating and selecting the best tools to solve our problems and thereby re-create the technological version of natural selection.
@@ -461,6 +507,26 @@ I can't predict exactly how Techvolution will apply to you. This book is the sta
 Soon, when you look in the mirror, you'll gradually see a technological being staring back—not as a separate entity, but as an integral part of Life's ongoing evolutionary process. Remember: in this book, you are not just reading about evolution—you are holding it and actively participating in it.
 
 The journey will take us through human history, the rise and fall of empires, the temporary nature of todays brands, interpreting modern human psychology, mapping the tree of technological life... but before we undertake such things, we must ask, where does evolution start?
+
+--
+
+- Allergic to laundry detergent story?
+- Note what happens in a healthy biological ecosystem if a creature gets too numerous/powerful.
+- Technological evolution paradigm unites humanity across cultures into a common story.
+- OSS frees people nominally in charge of solving your problem (adjusters, pharmacists) from being soley bound to their individual technological branch, and free to branch-jump to better branch-jump.
+- Identifying as a technological species frees us "select", in the Darwinian way, tools as needed per the problem being encountered, ala MMA. "ideology->tool->problem" becomes "problem->tool->ideology"
+- As if a new executive will suddenly give Dylan or pharmacists the tools they need to make better choices.
+
+--
+
+- This book is written to that "person"—those who wear different racial, ethnic, and gender masks that may look distinct but share the same philosophy: resources are inherently scarce. Therefore, good politics becomes about capturing the maximum share for oneself and tribe, and economics is about producing and accumulating as much property as possible because food will always be finite, knowledge limited, and excluding others will always secure ones individual prosperity. And that problems are primarily caused and solved by our belief systems. I want to tell this person these assumptions are increasingly obsolete. In our growing digital technological ecosystem, such a mindset is actually counterproductive.
+
+By clinging to scarcity-based thinking, we fail to maximize digital technology's transformative potential. We limit our collective ability to innovate, share, and create new technologies. This process of technological democratization is not unprecedented. In fact, it mirrors historical moments when societies expanded individual freedoms—like America's recognition of individual rights to use modern technology through free speech, the right to use the printing press, independent gun ownership, and the responsibility to challenge those with political power in the ecosystem.
+
+This book traces the progression of our technological self-awareness. Just as we became aware of biological evolution, we are now becoming conscious of our technological evolution. It's time we take on the identity as a primarily technological being who is free to indulge in our wonderous music and cultures once we do our jobs and evolve technology.
+
+Belief systems are the stories we needed to make sense of our world before we knew the science. That's how alchemy became chemistry, Aristotle's Natural Philosophy became physics, and so on.
+
 
 ## Chapter 1—The Rules of the Game
 

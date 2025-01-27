@@ -251,3 +251,15 @@ The Caribbean music playing in the background of that call serves as a perfect m
 - Chapter 9 - Techvolution - The Ones Who Lived the Truth as self-aware technological beings
 
 In the chapters that follow, Techvolution takes you on a journey to understand our fundamental transformation. We'll explore the underlying rules of our technological ecosystem, examine how life creates its players, and reveal how evolution continuously edits our ideas into new technologies. From our earliest ancestors using trees and fire to the complex civilizations that followed, we'll trace how technological evolution has always been the primary driver of human progress. We'll investigate how ancient wisdom emerged without scientific instruments and contrast this with modern scientific discoveries that gave us the power of science. Ultimately, this book is an invitation to become a self-aware technological being—to see yourself not just as an observer of evolution, but as an active participant in humanity's most profound transformation.
+
+===
+
+I was a claims adjuster for about seven years. It's not a job you brag about at parties. Most people's eyes glaze over when I mention insurance. They picture endless paperwork and office small talk. Which is absolutely true, the routine and tasks are quite mundane. But the stories... Robberies, crashes, home invasions, and other raw details from the frontline of our society ended up on my desk and these tales always quiet the room.
+
+Insurance companies are technically a "second party" to customers, meaning adjusters can ask any question we need to verify that a claim is geniune. By getting into people's shoes, the job is basically a massive experiment on our economy for anyone curious enough to listen. With this in mind, I spoke with over 30,000 people, processed more than 7,000 claims, and kept notes and journals throughout.
+
+I processed a claim for Dylan, an elderly gentleman whose SUV and caught fire while driving to Florida. I hired a engineer to see if his aftermarket two-hitch was to blame. While we waited to find out Dylan shocked me by purchasing the exact same model, from the same shop, and planning to drive the same route with the same tow hitch. Dylan called me after doing all this to ask what the engineer report said. 
+
+This incident epitomized a broader pattern I witnessed in thousands of claims: people navigating our technological world with a remarkable lack of understanding.
+
+The ever advancing technological ecosystem is the new uncharted wilderness. Our ignorance of it is wasteful, stressful, often catastrophic, and needless. Consider how much we've learned by carefully studying other complex systems—from the stellar mechanics of solar systems to the minute details of human anatomy—and imagine what insights await if we apply the same rigorous curiosity to our technological landscape.
