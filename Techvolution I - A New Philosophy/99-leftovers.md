@@ -4491,3 +4491,23 @@ Techvolution offers a different perspective. It does not prescribe a fixed world
 Enter Writebook, a perfect demonstration of technological evolution in action. Created by Jason Fried and David Heinemeier Hansson, this open-source platform solves a fundamental publishing problem by providing a flexible, adaptive solution. Where traditional publishing represents a rigid, complex chain of intermediaries, Writebook offers a direct, innovative approach to sharing knowledge.
 
 Just as biological systems constantly adapt to survive, technological systems require continuous innovation. Writebook shows how we can create tools that transcend ideological limitations, enabling more direct, efficient problem-solving.
+
+===
+
+--
+
+Technology does not care about our genes, or phenotypes of self-preceptions. It cannot because its inert and passive. Tools can only respond when humans initiate connection. While a person might discriminate based on race, gender, or class, technology remains neutral. It's not like a hammer asks "hey, are you..." before you drive in a nail to build a house. As technological changes sweep through the marketplace, we are all equal in its eyes—and equally ignorant of its transformative effects.
+
+While America was willing to let the "invisible hand" bring prosperity, others tried to master our future with the tools of evolution. As we unraveled evolutionary principles, our initial ignorance exacted a devastating toll. Humanity's self-constructed identities led to unimaginable disasters. We misapplied evolutionary concepts to the genes and the social masks of phenotypes we created, attributing success and failure in the "survival of the fittest" to race, gender, or class. Entire civilizations tested these misunderstood theories, scarring the 20th century with famines, wars, and genocide. Nazi Germany and Imperial Japan tried attributing human success to gentotypes, hence their vile racism and sexism. While the Soviet Union based its society around some phenotypes being better than others, hence why they thought anyone wealthy was tainted and must be attacked and in many cases purged.
+
+These ideological systems ultimately collapsed, with the United States' economic model emerging predominant. While America has a racism, sexism, and classcim in its history, none of them are the basis. As political scientist Harvey C Mansfield explains Unlike other revolutions that sought to create a perfect system, America's approach was to create a framework that leaves room for individual opportunity and potential virtue. The oppression inside of America was a human failing, not an inherent ideological one. America has been more successful than other regimes by not trying to guarantee success.
+
+--
+
+The more technology we invent, the more any biological differences do not matter. Any person with a calculator will do math better than anyone else. What is not happening is a co-evolution of humans and technology. Think of how Life animates all biological creatures even though they are not conscious of their own existence. In the same way, tools are brought to life by their human users, and human users are brought to new forms of life because of their tools, even though neither is yet self-aware of their co-evolution.
+
+Because participating in technological evolution—inventing, fostering, and using the tools that make civilization function—is the true human story. Our primary identifications by color, gender, height, or musical taste exist only because we remain ignorant of the universal rules of technological evolution happening all around us.
+
+Biology, medicine, the other sciences cannot guide our way. Because these are based on observing others. To understand our current selves, like building a new track to change where the train is going. Thus we must delve into economics and politics to update our self-perception.
+
+===
