@@ -4511,3 +4511,8 @@ Because participating in technological evolution—inventing, fostering, and usi
 Biology, medicine, the other sciences cannot guide our way. Because these are based on observing others. To understand our current selves, like building a new track to change where the train is going. Thus we must delve into economics and politics to update our self-perception.
 
 ===
+
+I have so many examples. One will do for now. Dylan was an elderly gentleman whose SUV caught fire while driving to Florida. I hired an engineer to see if his aftermarket tow hitch was to blame. While we waited to find out, Dylan shocked me by using his claim check to purchase the exact same year, make, and model of SUV. He even had the same shop install the same tow hitch. Dylan only called me after doing all this to ask what the engineer's report said.
+
+The report was inconclusive. Saying a kind of "Good luck" was basically all I could do.
+

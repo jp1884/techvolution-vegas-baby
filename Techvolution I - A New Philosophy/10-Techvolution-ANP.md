@@ -287,31 +287,65 @@ SOCRATES: (slight smile at the unusual comparison) Species? Hm. That's part of w
 
 ## Introduction 
 
-### We Have No Idea, What We're Doing
+### Doesn't My Insurance Cover This?
 
-I was a claims adjuster for about seven years. It's not a job you brag about at parties. Most people's eyes glaze over when I mention insurance. They picture endless paperwork and office small talk. Which is absolutely true, the routine and tasks are quite mundane. But the stories... Robberies, crashes, home invasions, and other raw details from the frontline of our society ended up on my desk and these tales of tragedy and hardships always get people's attention.
+Animals are born free, and everywhere seem to be enjoying themselves. Nature is no doubt a tough place to be. Hunger, disease, thirst are just around the corner all the time. Yet even though pets and zoo animals are well cared for, they still need cages to stay out of the game of life. In nature, freedom has a brutal but appealing simplicity. 
 
-Insurance companies are technically a "second party" to customers, meaning adjusters can ask any question we need to verify that a claim is genuine. By getting into people's shoes, the job is basically a massive experiment on our economy for anyone curious enough to listen. With this in mind, I spoke with over 30,000 people, processed more than 7,000 claims, and kept notes and journals throughout.
+The wilderness is an elegant, if uncompromising, user experience. Every creature understands its core functions with crystal clarity: find food, avoid predators, reproduce. There are no complicated instruction manuals, no customer support lines, no bureaucratic middlemen. The rulebook is written in the fundamental laws of physics, chemistry, and biology—applied with perfect, impartial precision to every living thing. From the mighty grizzly to the tiny firefly, each organism has a precisely optimized role, refined through millions of years of evolutionary debugging.
 
-Each claim illuminated a central truth. We are now a technological species. But like dogs in suburban homes wondering about the origin of their food or why television characters don't smell, we navigate our technological environment with a dangerous lack of understanding. We're in the dark about how our tools work, how to learn from failures, and most critically, how new technology fundamentally changes us and our society.
+It's no surprise, the more we study the natural world, the more rational and well-thought-out we find it. Evolution, the silent architect, ensures the game of life is played with precision, balance, and, given the number of bars around zoo enclosures, alluring fun. 
 
-One claim shows this quite well. Dylan was an elderly gentleman whose SUV and caught fire while driving to Florida. I hired a engineer to see if his aftermarket two-hitch was to blame. While we waited to find out Dylan shocked me by using his claim check to purchase the exact same year, make, and model of SUV. He even and had the same shop install the same tow hitch. Dylan only called me after doing all this to ask what the engineer report said.
+Consider a wolf. It knows exactly how to hunt, how to survive winter, how to communicate with its pack. Its entire existence is a seamless interaction with its environment. No wolf has ever looked at another and asked, "Wait, are we allowed to hunt here?" Nature's systems are self-documenting, self-maintaining, and brutally efficient.
 
-The report was inconclusive. Saying a kind of "Good luck" was basically all I could do.
+That is not us. 
 
-This story was not unique. We all navigate our technological world with a remarkable lack of understanding. Do you know what furnace you have or what do to after a car crash? Even this book you're reading. Whatever format you're using, do you know how paper, e-ink, computer screens are even made? Our economy is so complex, it's unlikely you know a single person who creates these materials—from basic research to binding the pages together.
+We have traded the savannahs of our ancestors for concrete jungles of cities, technologies, and increasingly complex systems. Our user experience is chaotic, filled with bewildering regulations, conflicting instructions, and constant low-grade anxiety. Unlike animals who instinctively know how to survive, we navigate a technological wilderness we barely comprehend.
 
-Our technology has exploded in size and complexity in just a few decades. The smartphones, computers, internet, car, are an unchartered wilderness. Humanity does not have the framework to understand it. After the United States and its allies won the Cold War in 1991, the entire world embraced the "invisible hand" of the captialism's free-market economics. According to the theory, our individual ignorance of the entire economic system is acceptable, as long as we understood our small role, "the market" of supply and demand will fuel mutual prosperity.
+If animals are everywhere having natural fun, we are everywhere in chains of a poor user experience. I can attest to this fact to a great degree. After my software company said my speech impediment was still noticeable, I resolved to fix it by a job in an insurance claims call center. After a year, the "sink or swim" kind of shock speech therapy finally worked out the last of my problems. Afterwards, I looked up and noticed just how unique and valuable the job was.
+
+As society was watching misleading movies and shows, getting hooked on infotainment political news, thinking stock market equal national prosperity, here was society calling me about every real-life problem under the sun. House fires, car crashes, permit requirements, confusing regulations...
+
+In the end, I was a claims adjuster for about seven years. I processed 7,000+ claims and spoke with 30,000+ people from all walks of life. The value in the job was the personal involvement. Insurance companies are technically a "second party" to customers, meaning adjusters must ask any question we need to verify that a claim is genuine. By getting into people's shoes, the job is basically a massive experiment on our economy for anyone empathetic enough to uncover people's pains. For a political economy student it was intellectual gold mine, and more than enough to gather some new insights and notice some trends.
+
+The most profound lesson? Everyone is lost most of the time. Race, age, gender—these distinctions dissolve when people encounter a problem they cannot solve. A wealthy executive becomes just as confused as a blue-collar worker when confronted with a complex insurance claim or a malfunctioning piece of technology.
+
+Popular cable news, the poor user experience of our civilization applied to everyone equally.
+
+Unlike nature's clear rules, our societal systems are maddeningly inconsistent: regulations change between cities, states, even neighborhoods. Where a bear knows exactly how to find food, we struggle to understand our own furnaces, car maintenance, or insurance policies. We live in a world of increasing complexity but diminishing comprehension.
+
+People from every walk of life were often frustrated and in need of help.
+
+I know this down to my soul because when most everyone hit a snag in they'd say "doesn't my insurance cover this" in some hopeful plea that an insurance adjuster on the phone has a magic-wand to erase any problem. All I had was Google search and a check-book, yet I was so often a customer's first hope.
+
+Let me illustrate with Dylan, an elderly gentleman whose SUV caught fire while driving to Florida. I hired an engineer to see if his aftermarket tow hitch was to blame. While we waited to find out, Dylan shocked me by using his claim check to purchase the exact same year, make, and model of SUV. He even had the same shop install the same tow hitch. Dylan only called me after doing all this to ask what the engineer's report said.
+
+The report was inconclusive. Saying a kind of "Good luck" was basically all I could do. It was a perfect microcosm of our technological ignorance—repeating the same actions, expecting different results, without understanding the underlying systems.
+
+The truth is we do not understand how to live the increasingly technical world we built. We are like dogs in suburban homes wondering about the origin of their food or why television characters do not smell. We navigate our technological environment with a dangerous lack of understanding. We are in the dark about how our tools work, how to learn from failures, and, most critically, how new technology fundamentally changes us and our society.
+
+This isn't about individual failure. This is about a systemic challenge. Our educational systems, economic structures, and cultural narratives haven't kept pace with technological evolution. We teach children how to use technologies but rarely how to understand them. We celebrate innovation but rarely interrogate its deeper implications.
+
+It's no one's fault. Any bear can smell food to know if it's putrid, any squirell picks the best spot for their nest. Can you do the same with your cereal or candy bar. Do you know where to even start when building a home extension or what do to after a car crash?
+
+Our technology has exploded in size and complexity in just a few decades. The rules in which our smartphones, computers, internet, car, interact are an unchartered wilderness. And no insurance cannot solve any and all of your problems inside it.
+
+Let's make something that will.
+
+### Our Current Understanding Is Not Enough
+
+Humanity does not have the framework to understand the civilization we've built. We only have on option and its great at building stuff, not understanding how it works.
+
+After the United States and its allies won the Cold War in 1991, the entire world embraced the "invisible hand" of the capitalism's free-market economics. According to the theory, our individual ignorance of the entire economic system is acceptable, as long as we understood our small role, "the market" of supply and demand will fuel mutual prosperity.
 
 Since the Cold War's end, America has experienced a stark economic transformation. While the economy has grown, everyday Americans have not benefitted. Wages have barely kept pace with inflation—median household income increased by only $7,100 over 30 years. Meanwhile, the cost of living has skyrocketed: housing prices have jumped 374%, healthcare premiums have increased 344%, and student debt has grown from 340 billion to $1.7 trillion. Economic mobility has also collapsed, with only half of Americans now able to earn more than their parents, compared to 90% in 1970. These trends of the cost of living rates up paint's a troubling picture of economic stagnation and declining opportunity.
 
 Yet, the other side of the story is a series of major successes. The free-market keeps turning out amazing technologies. Cars now have electric motors and are beginning to drive themselves. A renowned Harvard scientist is working on pill that stops aging. Artificial Intelligence data centers are being built at record speed, as computers seemingly approach the long-discussed "singularity".
 
-Although capitialism is working wonders, with only a belief in it, we're left to wonder what comes next. 
+Although capitalism is working technological wonders, with only a belief in it, we're left to wonder how it works and what comes next. 
 
-Hence why my people always like insurance stories. We know we're all like Dylan, often left unaware of what to do in our complex economy. It's understandable anxiety is so high today. If you drive a taxi or work in an office, you should be worried AI will automate your job the same way robots transformed factory work. Even if you're retired, how secure are your investments? Are there any Blockbuster video rental stores in your portfolio? Whether you're an office worker, regional manager, policy writer, farmer, or hold any number of positions, massive technological changes are reshaping our world—all while we only have belief in the "invisible hand" to guides us.
+Hence why my people often think "insurance" will cover them for this. In reality, they're hoping insurance covers the bad user experience that results from being ignorant (not always, but it often does, hence why insurance rates keep rising). 
 
-### Our Current Understanding Is Not Enough
+We know we're all like Dylan, often left unaware of what to do in our complex economy. It's understandable anxiety is so high today. If you drive a taxi or work in an office, you should be worried AI will automate your job the same way robots transformed factory work. Even if you're retired, how secure are your investments? Are there any Blockbuster video rental stores in your portfolio? Whether you're an office worker, regional manager, policy writer, farmer, or hold any number of positions, massive technological changes are reshaping our world—all while we only have belief in the "invisible hand" to guides us.
 
 When Adam Smith invented capitalism in 1776, people made cups from clay and communicated via letters written with bird feathers delivered on horse and wagon. New technology such as eyeglasses and lightning rods was amazing but quite limited and slow coming. The "invisible hand" did not ask for too much adaptability. A apprentice blacksmith or cooper had good reason to believe their skills would always been in need.
 
@@ -325,11 +359,11 @@ Imagine two acorns from the same oak tree with nearly identical genes, but plant
 
 Beyond our physical bodies, living things create tools and structures that extend their biological capabilities. A bird's nest is a perfect example. Just like an internal organ protects and supports life, a nest serves the same purpose—but it's built outside the bird's body using materials like grass and sticks. The bird's brain designs and builds this nest, which shelters its eggs and chicks, effectively functioning as an external organ that helps preserve the bird's genetic legacy. It's a way of extending the organism's survival strategy beyond its physical form.
 
-After centures of study, humanity understand our genes and bodies. Fields such as genetics and molecular biology even mapped human DNA. New technology such as crispr can even edit our genes. We understand our phenotype as well. Our different heights, weights, intelligence, are all how we biologically grow in our environment. Sociology, anthropology are fields meant to study how our biology grows in our environment.
+After centuries of study, humanity understand our genes and bodies. Fields such as genetics and molecular biology even mapped human DNA. New technology such as crisper can even edit our genes. We understand our phenotype as well. Our different heights, weights, intelligence, are all how we biologically grow in our environment. Sociology, anthropology are fields meant to study how our biology grows in our environment.
 
 We do not have a field of study to understand our extended phenotype, our technology.
 
-While other systems such as facism tried to define people by their genotypes, hence their racism and sexism, and communism defined people by their phenotypes, hence their hatred of any social classes, America's revolution happened too early to be anything but modest. Although, America suffered both problems, its founding documents do not encode these sins into our nation and hence we eventually moved passed them. America's approach offered a unique advantage: acknowledging the complexity of its promise of "life, liberty, and the pursuit of happiness" while trusting that individual actions, guided by self-interest, would progressively improve society, which is the definition of the "invisible hand".
+While other systems such as fascism tried to define people by their genotypes, hence their racism and sexism, and communism defined people by their phenotypes, hence their hatred of any social classes, America's revolution happened too early to be anything but modest. Although, America suffered both problems, its founding documents do not encode these sins into our nation and hence we eventually moved passed them. America's approach offered a unique advantage: acknowledging the complexity of its promise of "life, liberty, and the pursuit of happiness" while trusting that individual actions, guided by self-interest, would progressively improve society, which is the definition of the "invisible hand".
 
 While tools have always been vital to civilization, since the Industrial Revolution, we have become overwhelmingly dependent on artificially created materials and power sources. From smartphones delivering our food to satellites guiding our travel, we live and die by the technology we hold. Just as fish have gills and birds have wings, we now have computers and machines. Just as animals have calories to fuel their bodies, we have electricity to fuel our technological adaptations.
 
@@ -358,6 +392,8 @@ Yet, we are not self-aware enough to see how reliant we each are on technology. 
 Because now all the cool techniques I was learning in urban planning would never come to pass. My favorite topic back then was "telecommuting" as means alleviate traffic and lower the cost of living. Unsurprisingly working from home is still a major struggle because technological evolution is a political problem. It's no mistake that when early America broke from their colonial masters, their Bill of Rights was first, the freedom to use the printing press, and two, the freedom to own a gun. 
 
 Because the ability to have a technological, like a pencil, and convince others they should not need it, offers huge evolutionary advantages. Notice how prolific this "Milgram Experiment" is in our society. Real-life teachers evaluate students all the time without any sort of tools. While testing ones lone biological abilities is admirable, we don't do gym classes in barefoot either so what the heck. Workplaces routinely dictate employees tool-sets and then proceed to evaluate their performance absent of the tool-sets strengths and drawbacks.
+
+This fight over the pencil, defines our politics. The fight between Right and the Left mirrors our two baser identities, genes and phenotypes. One side emphasizes genetic differences and is prone to racism and sexism, while the other emphasizes the differences different upbringing can cause, and is prone to socialism. Both are valid points of course, but both are in fact trying to keep the pencil for themselves and take it from others...
 
 It's just normal for us to withhold technology from each other. Because we do not see ourselves as technological beings. This book aims to fix that with a new framework.
 
