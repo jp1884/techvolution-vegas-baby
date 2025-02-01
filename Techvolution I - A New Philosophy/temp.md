@@ -317,3 +317,39 @@ This book is an attempt to map that wilderness—to help us become more than jus
 We need a new framework. A way to see our technological ecosystem not as a series of disconnected tools, but as a living, evolving system that we are fundamentally part of.
 
 Let's make something that will help us understand.
+
+===
+
+### Our Current Understanding Is Not Enough
+
+Biologists call all living things "biomass". The term is most often used to get an idea how many trees, coral, animals, and other living things are in lake, valley, or any large area. Lately, people have started to call artificial creations "technomass", to get an idea how many building, trains, and stuff is out there.
+
+We needed this new term because of the staggering transformation our planet has undergone lately. As recently as 1920, biomass was nearly 99.9% of our world. By 2020, technomass has dramatically risen to approximately 60% and biological life is just 40%. In just one century, we've essentially inverted the natural order, creating a new ecosystem that now weighs more than the combined biological systems of our planet.
+
+Not only do we not understand this new world, we're not supposed to. After the United States and its allies won the Cold War in 1991, the entire world embraced the "invisible hand" of the capitalism's free-market economics. Each country regulates the market different, but even non-democracies learned to use it to build their nations wealth. According to the theory, our individual ignorance of the entire economic system is acceptable, as long as we understood our small role, "the market" of supply and demand will fuel mutual prosperity.
+
+Since then America has experienced a confusing trajectory. While the economy has grown, everyday Americans have not benefitted. Wages have barely kept pace with inflation—median household income increased by only $7,100 over 30 years. Meanwhile, the cost of living has skyrocketed: housing prices have jumped 374%, healthcare premiums have increased 344%, and student debt has grown from 340 billion to $1.7 trillion. Economic mobility has also collapsed, with only half of Americans now able to earn more than their parents, compared to 90% in 1970. These trends paint's a troubling picture of economic stagnation and declining opportunity.
+
+Yet, the other side of the story is a series of successes. Murder rates have declined by 49% from 1980 to 2020. Literacy rates have remained consistently high, with 99% of Americans able to read and write. Infant mortality has improved, falling from 12.6 deaths per 1,000 live births in 1980 to 5.6 in 2020—a 56% decrease. Most dramatically has been the stream of amazing new technologies. Cars now have electric motors and are beginning to drive themselves. A renowned Harvard scientist is working on pill that stops aging. Artificial Intelligence data centers are being built at record speed, as computers seemingly approach the long-discussed "singularity".
+
+Although capitalism is working technological wonders, like my insurance customers, many office workers, farmers, or retirees are left wondering how it works and what comes next. AI might automate your job, your investments could be another Blockbuster, and we're navigating this complex economy with nothing more than blind faith in the "invisible hand".
+
+When Adam Smith invented capitalism in 1776, people made cups from clay and communicated via letters written with bird feathers delivered on horse and wagon. New technology such as eyeglasses and lightning rods was amazing but quite limited and slow coming. The "invisible hand" did not ask for too much adaptability. A apprentice blacksmith or cooper had good reason to believe their skills would always been in need.
+
+But, in modern times with new technologies coming online all the time, we must look behind the magic to see how capitalism creates new technologies. 
+
+This book is about giving you a map drawn by universal rules of this technological evolution so you can see what is now invisible. The journey to sight begins with understanding our own identity. While we define ourselves as black, white, tall, retiree, college student, manager, these are not who we truly are anymore. Technomass is 60% of living stuff. Our first identity must be technological species, that picks and chooses various technology to meet our own unique challenges.
+
+This is not some wacky idealistic theory. Charles Darwin uncovered the rules of evolution in 1859. After years of collecting specimens on voyages and travels, he uncovered the fact that organisms originate from a common ancestor. Nearly all creatures offspring have slight variations, and some variations survive in the environment better than others. Thus new species gradually form as the environment changes. Around the same time Gregor Mendel discovered the way in which beings inherent their parents variations via genes; "packets of information" he called them. Scientists today call genes the "genotype" of a lifeform and the way in which creatures grows its "phenotype".
+
+Imagine two acorns from the same oak tree with nearly identical genes, but planted in very different environments. One grows in a crowded forest, the other acron falls down a cliff and lands into a windy plain. The forest acorn becomes tall and thin, stretching upward to compete for sunlight. The plain acorn grows shorter and wider, with broader and bushy branches. Despite having the same genetic blueprint, their environments shape them differently. Over time, the children acorns that best adapt to their specific environment—whether forest or plain—will have the best chance of survival, gradually creating distinct species of the original tree.
+
+Beyond the genotype and phenotye living things create tools and structures that extend their biological capabilities. A bird's nest is a perfect example. Just like an internal organ protects and supports life, a nest serves the same purpose—but it's built outside the bird's body using materials like grass and sticks. The bird's brain designs and builds this nest, which shelters its eggs and chicks, effectively functioning as an external organ that helps preserve the bird's genetic legacy. It's a way of extending the organism's survival strategy beyond its physical form. Scientist call things like bird's nests, ant colonies, and wolf dens the "extended phenotype" of a creature.
+
+After centuries of study, humanity understand our genes with fields like genetics and molecular biology specializing in it. Our phenotype is studied in antropology and sociology. But we do not have a field of study to understand our extended phenotype, our technology.
+
+While tools have always been vital to civilization, it's only since the end of Industrial Revolution in 1969 that we've become overwhelmingly dependent on artificially created materials and power sources. From smartphones delivering our food to satellites guiding our travel, we live and die by the technology we hold. Just as fish have gills and birds have wings, we now have computers and machines. Just as animals have calories to fuel their bodies, we have electricity to fuel our technological adaptations.
+
+After Darwin and Mendel made their huge discoveries, we spent decades decoding the rules of biological evolution. This book applies those lessons to our technological world. Imagine the transformative potential if we could truly understand how markets and technologies evolve by applyng the same principles governing biological life. This book is our first step on a long journey to comprehend how this technological ecosystem operates.
+
+Before we do, we must accept why why it's been so hard for us to study our extended phenotype.
