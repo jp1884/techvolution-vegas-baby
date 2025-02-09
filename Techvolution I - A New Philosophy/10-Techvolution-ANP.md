@@ -289,7 +289,74 @@ SOCRATES: (slight smile at the unusual comparison) Species? Hm. That's part of w
 
 ### Doesn't My Insurance Cover This?
 
-Animals are born free, and everywhere seem to be enjoying themselves. Nature is no doubt a tough place to be. Hunger, disease, thirst, even predation, are always just around the corner. Yet, despite pets and zoo animals being safe and well cared for, they're the ones who need cages.
+Animals are born free, and everywhere seem to be enjoying themselves. Nature is no doubt a tough place to be. Hunger, disease, thirst, even predation, are always just around the corner. Yet, from the mighty grizzly to the tiny firefly, each organism always fights hard to find food, to avoid predators, and reproduce, seemingly enjoying the "game of life".
+
+So, what are the rules of the game? And, how does a creature get selected to play? 
+
+Well the rules are simple. They're the laws of physics, chemistry, geology, and biology. These ever present rules create the game board every lifeform plays on, forever equal, never compromising. As for selecting the winners to play the game, life has some rules of its own. Let's look at the peppered moth for some answers.
+
+From England, this insect as its name implies is mostly white with some black spots. Then during the mid 1800s the moth became almost entirely black. What explains his rapid change was England's Industrial Revolution. Its countless smoke stakes blanketed the environment in black soot. Birds saw the white moth like a fast food drive-thru window. When the smoke stakes either left or were cleaned up, the soot was gone, and the natural bark of trees gave the peppered moths back their camouflage advantage.
+
+In this story is the entire theory of evolution. Each animal is composed of genes. The tiny packets of information that arranged in a certain way gives each creature their features, called a genotype. As a creature grows up it develops its observable characteristics based on its environment, which is called a phenotype. When creatures procreate, there parents pass on genes, but there are always some "errors". These errors can be harmless, harmful, or beneficial. The black peppered moth was originally a genetic mistake, that gave a huge advantage. Evolution didn't ask for this mistake. Rather, evolution is a byproduct of this inherent search for diversity life has. Any creature whose genotype and phenotype survives wins, hence the term "survival of the fittest".
+
+Crucially, animals only rarely compete against each other. Of course males often battle for mates and some creatures eat other. But, by an large, each animal competes against the environment. If a species can find a niche, like being a black moth, it has a chance of survival. Without a niche, no lifeform stands a chance.
+
+Genes, and characteristics are two ways a creature can be selected. But there is also a third. Birds build nests, fish dig pools, bears build dens. These things are called extended phenotypes, and act like any other organ in helping a creature better survive. It's a hard won skill. Every year in North America's frigid winter, millions of squirrels survive by storing food and building warm nests, while raccoons use other strategies. Originally from the tropical forests of Central America, these intelligent creatures create dens in hollow trees, grow thicker winter fur and fat stores. However, unlike squirrels, raccoons do not naturally insulate their burrows, nor do they fully hibernate. Instead, their huge spread across North America is mostly because of human civilization's barns, garages, and garbage. Their urban adaptability is largely happenstance, but still has led to larger populations, increased body size, and even tooth decay, and their continued selection in the game of life.
+
+So, life needs species to live. To stay in the game creatures have a mixture of genes, phenotype, and extended phenotypes. The right mixture means a animal can find a niche, harvest enough resources and protect itself long enough to procreate and thereby keep its genes in the game of life.
+
+Life can select you based on your genes, phenotype, or extended phenotype. Which of these apply most to your future in the game of life?
+
+### 
+
+We are increasingly being selected by nature for our extended phenotype, the tools by which we individually hold to help us harvest resources, protect ourselves, and survive. Our genes are still important, so is our upbringing. But with the explosion of technology we are now by and large being selected for the tools in our hands, not the genes in our cells. Hence, we are a technological species.
+
+I'll use myself as an example. Among my many genetic was the aforementioned speech impediment. Centuries ago it would have been debilitating. No speech therapy existed, and belief systems were more mythological then scientific, leading many to believe a stutterer was a simpleton and candidate for neglect and perhaps worse. I can sympathize, in childhood I was thought to be one because I rarely talked. But, when the problem was identified at my elementary school, a speech therapist was assigned and off the shackles of my genetic heritage started to be removed. 
+
+The removal of my resulting shyness of my extended phenotype was still to come. The final stage was my software employer said my speech impediment was still noticeable, I resolved to fix it with a job in a notoriously chaotic insurance claims call center. Within a year, the "sink or swim" kind of shock speech therapy finally worked out most of my speaking tool's glitches. Afterwards, I looked up and noticed just how unique and valuable the place was.
+
+As a claims adjuster, I processed 7,000+ claims and spoke with 30,000+ people from all walks of life. By getting into people's shoes, the job is basically a massive experiment on our economy for anyone empathetic enough to listen to people's pains. For a political economy student, it was an intellectual gold mine.
+
+The ultimate lesson was how often we struggle to understand our own furnaces, car maintenance, or insurance policies. Where a creature knows exactly how to play in Nature, we live in a world of increasing complexity but diminishing comprehension. Everyone is just a glitch away from asking, "Doesn't my insurance cover this" to an insurance adjuster on the phone as if I had a magic-wand to erase their problems. I was so often a customer's best hope, yet all I had was Google search and a stingy checkbook.
+
+ - this applies to raccoons by the way. Car hits are their number one death.
+
+But the point is the same. Natural selection looks at which lifeforms to remove from the game of life. As we understand more of our biology, anatomy, sociology and psychology, we are able to preemptively fix our genotype and phenotype before nature selects them for removal. At the same time as technology grows, the more mechanized and automated our civilization becomes. The more dens, nests, we have to create, operate, and depend on. Evolution cannot select us
+
+Answer this yourself, what is more concerning in your daily life. If you sprain your ankle or if your water pipes freeze and burst while your on vacation. Our ancestors might get caught by a lion on the first scenario, but today the second may cause us to go bankrupt. I should know, I had to deny claims because people did not ask their.
+
+If they'd just turned off their houses water valve, everything would have been prvented.
+
+Now ask yourself, what if your brakes fail, or the MRI machines malfunctions, or if that stranger doesn't know how to administer your epipen. We are still biological beings with the same requirements as before, but with our explosion of technology, our interactions with the environment are so much more technological that mistakes and mishaps are more tool based then anything else.
+
+Yet, we do not study this part of ourselves. We barely conscious of our technological identities. How many people identify as their gender, race, or heritage, in comparison to the tools they use to collect resources? We are the racoons using technology when we can, but have no understanding how to make it for ourselves. As evolution punishes us for our ignorance, we can ask ourselves why.
+
+### Our Current Understanding Is Not Enough
+
+Biologists call all living organism’s "biomass". The term is most often used to get an idea how many trees, algae, animals, and other living things are in a lake, valley, or large area. Lately, people have started to call artificial creations "technomass", to get an idea how many buildings, trains, and other technological stuff is out there.
+
+We needed this new term to track our planet's staggering transformation. As recently as 1920, biomass was nearly 99% of our world. By 2020, biological life was just 40% and technomass had dramatically risen to approximately 60%. The rise of artificial materials and power sources has also risen exponentially. In just one century, we've essentially inverted the natural order, creating a new ecosystem that now weighs more than the combined biological systems of our planet. 
+
+Not only do we not understand this new technological world, but we’re also not supposed to. After the United States and its allies won the Cold War in 1991, the entire world embraced the "invisible hand" of the capitalism's free-market economics. It was an easy choice after other systems, mainly socialism and fascism, had failed so horribly. Thus, although each country regulates the market differently, even non-democracies learned to use the free market to build their nation’s wealth. According to the theory, individual ignorance of the entire economic system is acceptable, as long as we understand our small role, "the market" of supply and demand will fuel mutual prosperity.
+
+Since 1991 America has experienced a confusing trajectory. While the economy has grown, everyday Americans have not benefited. Wages have barely kept pace with inflation—median household income increased by only $7,100 over 30 years. Meanwhile, the cost of living has skyrocketed: housing prices have jumped 374%, healthcare premiums have increased 344%, and student debt has grown from 340 billion to $1.7 trillion. Economic mobility has also collapsed, with only half of Americans now able to earn more than their parents, compared to 90% in 1970. These trends paint a troubling picture of economic stagnation and declining opportunity.
+
+Yet, the other side of the story is a series of successes. Murder rates have declined by 49% from 1980 to 2020. Literacy rates have remained consistently high, with 99% of Americans able to read and write. Infant mortality has improved, falling from 12.6 deaths per 1,000 live births in 1980 to 5.6 in 2020—a 56% decrease. Most dramatically has been the stream of amazing new technologies. Cars now have electric motors and are beginning to drive themselves. A renowned Harvard scientist is working on a pill that stops aging. Artificial Intelligence data centers are being built at record speed, as computers seemingly approach the long-discussed "singularity".
+
+Although capitalism is making technological wonders, like my insurance customers, many office workers, farmers, or retirees are left wondering how to use these tools to improve their lives and futures. It's no wonder people don't know, given we are all only armed with blind faith in the "invisible hand" to navigate a very complex economy.
+
+When Adam Smith invented capitalism in 1776, people made cups from clay and communicated via letters written with bird feathers delivered by horse and wagon. New technologies such as eyeglasses and lightning rods were amazing but quite limited and slow to develop. At the start of the Industrial Revolution, the "invisible hand" did not demand much adaptability. An apprenticed blacksmith or cooper had good reason to believe their skills would always be needed.
+
+But, in modern times with new technologies coming online all the time, with 60% of things already being technological, we must look behind the magic to see how capitalism creates the new technologies the continually change our economy.
+
+
+
+
+## Old Intro
+
+### Doesn't My Insurance Cover This?
+
+Animals are born free, and everywhere seem to be enjoying themselves.  Yet, despite pets and zoo animals being safe and well cared for, they're the ones who need cages.
 
 We can never ask animals, but it seems Nature is a sort of fun—if uncompromising—time. They do not have a choice, given that genetics automatically provides every creature with the intense motivation to survive. From the mighty grizzly to the tiny firefly, each organism fights so hard to find food, to avoid predators, and to reproduce, seemingly enjoying this "game of life".
 
@@ -396,6 +463,10 @@ This is not a book about what should happen. It's a book about what is happening
 If we can embrace our nature as a technological species and consciously shape the tools that increasingly determine our fate. Before we can say "People are born free and everywhere seem to be enjoying themselves" we must start the process of technological evolution self-awareness; what I call Techvolution.
 
 The journey of Techvolution will trace life's biological evolution through countless ages and epochs, mass-extinctions, then into early human history, the rise and fall of empires that unknowingly rode the wave of life's newfound technological evolution. We'll learn about the start of science, uncover deeper patterns of human psychology and the temporary nature of today's brands as we map the intricate tree of technological life. But to understand this journey, we must first answer a fundamental question: if lifeforms cooperate more than we compete, who is evolution fighting?
+
+--
+
+What the modified Milgram experiment does is showcase the roles/masks we want other people to wear for our own self-benefit. Corporations call American citizens consumers and employees, because those are roles that solely benefit their tool-sets.
 
 ## Chapter 1—The Rules of the Game
 
