@@ -4707,3 +4707,5 @@ This book traces the progression of our technological self-awareness. Just as we
 Belief systems are the stories we needed to make sense of our world before we knew the science. That's how alchemy became chemistry, Aristotle's Natural Philosophy became physics, and so on.
 
 ===
+
+The experience of the peppered moth shows is a great summary.  From England, this insect as its name implies was white with some black spots. Then during the mid 1800s the moth became almost entirely black. England was experiencing the Industrial Revolution, where countless factory smoke stakes blanketed the environment in black soot. Hence birds saw the white moth like a neon restaurant sign; hence the dark moths exploded in numbers. Once the smoke stacks were cleaned up in the 1950s the natural tree bark gave the peppered colored moths back their camouflage advantage. Hence their numbers grew and black moths exited the game once again.

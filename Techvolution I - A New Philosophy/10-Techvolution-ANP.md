@@ -287,35 +287,41 @@ SOCRATES: (slight smile at the unusual comparison) Species? Hm. That's part of w
 
 ## Introduction 
 
+### Catching Life's Eye
+
+Animals are born free, and everywhere seem to be enjoying themselves. Nature is no doubt a tough place to be. Hunger, disease, thirst, even predation, are always just around the corner. Yet, from the mighty grizzly bear to the tiny firefly, organisms all fight to stay alive. It seems creatures enjoy playing the "game of life".
+
+So, how does a creature get selected to become a player? There are three ways can stand out. Genes, personality, or tools.
+
+The first up to explain are genes—a creature's blueprint. Each gene provides specific instructions that determine an organism's traits. During reproduction, genes shuffle and recombine, introducing variations in offspring. Most variations are neutral, but occasionally a mutation provides a survival advantage. Take the peppered moth during England's Industrial Revolution: when trees turned black from the smog and soot, the rare black moth variant suddenly gained a camouflage advantage and exploded in numbers. Evolution doesn't design these mutations; it acts as a filter, allowing organisms with advantageous traits to pass their genes forward. This continuous process of genetic variation and environmental selection drives the incremental changes we observe in species over time. Evolution loves genetic diversity—mistakes and all—because it wants more chances to get a lifeform suited for the environment.
+
+After genes, comes the phenotype. This is how a creature grows up. Think two acorns, one planted in a tall forest, the other in a open field. The first grows lean and tall to search for sunlight, the second bushy and stout as it soaks up the rays. A phenotype is the lessons, knowledge and trauma of a individual lifeform. Some phenotypic adaptations are immediate, like a lizard changing color for camouflage, while others develop over generations like a coyote learning to avoid busy roadway. Evolution doesn't prefer one phenotype over another; it simply selects the ones best suited to survive and reproduce in their specific environment.
+
+The third way creatures stand out is the extended phenotype. These are the things creatures build themselves. Think bird nests, beaver dams, ants hills. Although made of foreign material, these things act like any other organ in helping a creature better survive.
+
+Take the common squirrel, it survives frigid winters by storing food and building warm nests. These adaptations give them an excellent survival against long winters. When a creature creates an extended phenotype, it's increasing its chances of selection because instead of being a bystander to the environment, it's manipulating the area to its own benefit. Some like beaver dams are so big they change entire ecosystems.
+
+However, since, they are external, extended phenotypes can be used by others as well. Grabs use seashells, ants steal termite hills, bats use bird nests. The creature who created the extended phenotype is not always the creature who uses it.
+
+Raccoons are the ultimate example. Originally from the tropical forests of Central America, these intelligent creatures naturally create dens in hollow trees, grow thicker fur and fat stores for winter. However, unlike squirrels, raccoons do not naturally insulate their burrows, nor do they fully hibernate, yet they've managed to spread their range across North America because of human civilization's barns, garages, and garbage. Although they created none of this things, raccoons get a huge advantage just because they can use them. Life selects them nonetheless, even though they are essentially along for a ride they don't understand.
+
+To stay in the game creatures have a mixture of genes, phenotype, and extended phenotypes. The right mixture means an animal can find a niche, harvest enough resources and protect itself long enough to procreate and thereby keep itself in the game of life.
+
+Now, which of these scenarios do you think describes yourself in the 21st century?
+
 ### Doesn't My Insurance Cover This?
 
-Animals are born free, and everywhere seem to be enjoying themselves. Nature is no doubt a tough place to be. Hunger, disease, thirst, even predation, are always just around the corner. Yet, from the mighty grizzly to the tiny firefly, each organism always fights hard to find food, to avoid predators, and reproduce, seemingly enjoying the "game of life".
+The answer is the raccoon using tools without knowing how they work. Which is why the thesis of this book is that humans are now a technological species that is not yet self-aware of our new identity. I'll use myself to explain why this is so.
 
-So, what are the rules of the game? And, how does a creature get selected to play? 
+Among my many genetic makeup is the aforementioned speech impediment. Centuries ago it would have been debilitating. Belief systems were more mythological then scientific, leading many to believe a stutterer was a simpleton and candidate for neglect and perhaps worse. I can sympathize, in childhood I was thought to be one because I rarely talked. But, when the problem was identified at my elementary school, a speech therapist was assigned and off the shackles of my genetic heritage started to be removed. 
 
-Well the rules are simple. They're the laws of physics, chemistry, geology, and biology. These ever present rules create the game board every lifeform plays on, forever equal, never compromising. As for selecting the winners to play the game, life has some rules of its own. Let's look at the peppered moth for some answers.
+I still had the resulting shyness of my phenotype to overcome. That was similar to story of most people growing up. My final stage was my software employer said my speech impediment was still noticeable, I resolved to fix it with a job in a notoriously chaotic insurance claims call center. Within a year, the "sink or swim" kind of shock speech therapy finally worked out most of my speaking tool's glitches. Afterwards, I looked up and noticed just how unique and valuable the place was. Thereafter I can tell two things for sure.
 
-From England, this insect as its name implies is mostly white with some black spots. Then during the mid 1800s the moth became almost entirely black. What explains his rapid change was England's Industrial Revolution. Its countless smoke stakes blanketed the environment in black soot. Birds saw the white moth like a fast food drive-thru window. When the smoke stakes either left or were cleaned up, the soot was gone, and the natural bark of trees gave the peppered moths back their camouflage advantage.
+The point is, science has taught us much about genes. We even mapped the entire human genome. Psychology has also taught us about the the human mind and how to deal with personal traumas with things like speech therapy. While many people still have problems with their genes and mental health, we have both sides covered once a person chooses to address them.
 
-In this story is the entire theory of evolution. Each animal is composed of genes. The tiny packets of information that arranged in a certain way gives each creature their features, called a genotype. As a creature grows up it develops its observable characteristics based on its environment, which is called a phenotype. When creatures procreate, there parents pass on genes, but there are always some "errors". These errors can be harmless, harmful, or beneficial. The black peppered moth was originally a genetic mistake, that gave a huge advantage. Evolution didn't ask for this mistake. Rather, evolution is a byproduct of this inherent search for diversity life has. Any creature whose genotype and phenotype survives wins, hence the term "survival of the fittest".
+As the extended phenotype, before the Industrial Revolution we were often squirrels using what we made and understood. After the massive explosion of things over the past 150 years, we are raccoons who depend on things we happen to come across with little idea how it works.
 
-Crucially, animals only rarely compete against each other. Of course males often battle for mates and some creatures eat other. But, by an large, each animal competes against the environment. If a species can find a niche, like being a black moth, it has a chance of survival. Without a niche, no lifeform stands a chance.
-
-Genes, and characteristics are two ways a creature can be selected. But there is also a third. Birds build nests, fish dig pools, bears build dens. These things are called extended phenotypes, and act like any other organ in helping a creature better survive. It's a hard won skill. Every year in North America's frigid winter, millions of squirrels survive by storing food and building warm nests, while raccoons use other strategies. Originally from the tropical forests of Central America, these intelligent creatures create dens in hollow trees, grow thicker winter fur and fat stores. However, unlike squirrels, raccoons do not naturally insulate their burrows, nor do they fully hibernate. Instead, their huge spread across North America is mostly because of human civilization's barns, garages, and garbage. Their urban adaptability is largely happenstance, but still has led to larger populations, increased body size, and even tooth decay, and their continued selection in the game of life.
-
-So, life needs species to live. To stay in the game creatures have a mixture of genes, phenotype, and extended phenotypes. The right mixture means a animal can find a niche, harvest enough resources and protect itself long enough to procreate and thereby keep its genes in the game of life.
-
-Life can select you based on your genes, phenotype, or extended phenotype. Which of these apply most to your future in the game of life?
-
-### 
-
-We are increasingly being selected by nature for our extended phenotype, the tools by which we individually hold to help us harvest resources, protect ourselves, and survive. Our genes are still important, so is our upbringing. But with the explosion of technology we are now by and large being selected for the tools in our hands, not the genes in our cells. Hence, we are a technological species.
-
-I'll use myself as an example. Among my many genetic was the aforementioned speech impediment. Centuries ago it would have been debilitating. No speech therapy existed, and belief systems were more mythological then scientific, leading many to believe a stutterer was a simpleton and candidate for neglect and perhaps worse. I can sympathize, in childhood I was thought to be one because I rarely talked. But, when the problem was identified at my elementary school, a speech therapist was assigned and off the shackles of my genetic heritage started to be removed. 
-
-The removal of my resulting shyness of my extended phenotype was still to come. The final stage was my software employer said my speech impediment was still noticeable, I resolved to fix it with a job in a notoriously chaotic insurance claims call center. Within a year, the "sink or swim" kind of shock speech therapy finally worked out most of my speaking tool's glitches. Afterwards, I looked up and noticed just how unique and valuable the place was.
-
-As a claims adjuster, I processed 7,000+ claims and spoke with 30,000+ people from all walks of life. By getting into people's shoes, the job is basically a massive experiment on our economy for anyone empathetic enough to listen to people's pains. For a political economy student, it was an intellectual gold mine.
+I know this into my soul. As a claims adjuster, I processed 7,000+ claims and spoke with 30,000+ people from all walks of life. By getting into people's shoes, the job is basically a massive experiment on our economy for anyone empathetic enough to listen to people's pains. For a political economy student, it was an intellectual gold mine.
 
 The ultimate lesson was how often we struggle to understand our own furnaces, car maintenance, or insurance policies. Where a creature knows exactly how to play in Nature, we live in a world of increasing complexity but diminishing comprehension. Everyone is just a glitch away from asking, "Doesn't my insurance cover this" to an insurance adjuster on the phone as if I had a magic-wand to erase their problems. I was so often a customer's best hope, yet all I had was Google search and a stingy checkbook.
 
