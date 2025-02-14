@@ -414,3 +414,33 @@ Both perspectives miss a crucial insight: technology is not just a tool or a soc
 This myopic view creates a dangerous blind spot. By framing technology through outdated ideological lenses, we limit our understanding of how technological evolution actually works. We treat technology as something external to human experience, rather than recognizing it as an integral part of our species' adaptive mechanism.
 
 The result is a fragmented approach to technological development. We debate who should have access to technology, rather than understanding how technology fundamentally reshapes human potential. We argue about the origins of innovation—whether through individual brilliance or collective effort—instead of comprehending technology as a dynamic, ecosystem-wide process of adaptation and transformation.
+
+===
+
+
+
+This was a time of great discovery in physics, chemistry, geology, and mathematics, each field helping the other continue making newsworthy advancements. As Nature was seemingly revealing all of its secrets, other areas of human understanding wanted to join the party.
+
+This was sadly literal. As humanity saw itself as a genotype or phenotype, these two components of our existence was used to describe human history and future. Thus, eugenics and social engineering came to dominate society. The first was a horrid practice of identifying supposed problematic people's and assigning their genes to be unworthy of reproduction, and either casting them into camps, sterilizing them, or murdering them, all in the name of evolution by mass society who joined political movements and parties.
+
+The social engineering was equaling horrifying. Rather than judge a person's genes, this ideology judged a person's upbringing. Once tainted with the life experience of wealth and privilege, a person is no longer fit to live in a world destined to make all lifeforms equal. Millions died in purges and famines as a result. 
+
+Both movements were extreme to no ends. Besides their inherent evil, scientists had weird ideas such that head sizes and shape determined intelligence, while other scientists flat out refused to acknowledge genes exist and insists grain seeds are all equal if treated the same (hence the famines when summer grain was planted in cold climates). These ideologues are extreme but not far off. The people who believed them were just as you and I.
+
+We even have their remains in our society today, the ongoing "nature versus nurture" debate between Conservative and Progressive politics is nothing but a more humane version of the genotype vs phenotype debate evolution often plays. However, as growing tensions between the political left and right showcase, there is no resolution to this debate because it simply does not apply to use. We are not primarily either. We are the raccoon, living a life using technology with out the self-awareness to see it.
+
+Here's an example.
+
+I'll give an example using the famous Milgram Experiment.
+
+In 1961, Yale psychologist Stanley Milgram conducted an experiment to understand how people committed the atrocities of World War II. Participants were told to administer increasingly powerful electric shocks to a "learner" (an actor) for memory test mistakes. An authoritative scientist (another actor) in a lab coat would insist the experiment must continue, even as the learner screamed in apparent pain.
+
+Shockingly, 65% of participants administered what they believed to be a potentially fatal shock, despite personal discomfort. Repeated studies consistently showed similar results across different demographics. The experiment revealed a disturbing truth: most people can override their moral instincts when pressured by a perceived legitimate authority.
+
+When I learned this at university, I was especially abhorred for another reason. No teacher ever offered the learner a pencil. The entire experiment is a pretense that we humans are memory machines. We invented writing thousands of years ago specifically because we are not memory machines. Yet we still evidently don't mind judging others as being supposed failures—whether because of "bad" genes or upbringing—when the truth is we just need a simple pencil to prosper.
+
+Perhaps it’s because of my aforementioned speech impediment, but I found this absolutely the worst thing ever. Why would anyone judge another person, while not seeking to empower them?
+
+My classmates would scoff "that's not what the test is about", which I would respond with indignation "then why does the scientist use a pencil to mark down his notes. And why is the teacher reading the test words instead of having them memorized? This is a story about two people with technology bullying someone without it, that's all."
+
+We don't recognize holding an important piece of technology is a lever of power that makes a person an authority, not because of any genetic or ideological superiority, but simply because they've enhanced their capabilities beyond the baseline of human genotype or phenotype. Eyeglasses, calculators, prosthetics, nutritional supplements, the list of technologies that empower is today endless and should keep going. Yet, we are not self-aware enough to see how technology augments us to being new kinds of beings.

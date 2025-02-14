@@ -28,9 +28,9 @@ In Techvolution, you will confront this provocative question as you discover tha
 
 What truly distinguishes our species from other lifeforms is not our capacity for language, rich cultural traditions, or diverse identities, but our extraordinary ability to continually innovate new tools. This technological evolution defines our fate more fundamentally than gender, ethnicity, or nationality ever could. Just as biological evolution has shaped life through natural selection, so has it guided our transformation from purely biological beings into something unprecedented: a species that evolves through its technological capabilities.
 
-To understand this reality, you only need to acknowledge that we craft ideologies to organize society around our technological capabilities. Medieval England created patriachical divine monarchy to coordinate its castles, archers, and farming villages. The Soviet Union embraced communism to organize its factories, automobiles, and communication networks. Some ideologies are more successful than others, but each instructs individuals to form a society around a grouping of tools. As technology changes, we often resist the natural progression to a new belief system, attempting to force our rapidly advancing future into outdated ideologies.
+To understand this reality, you only need to acknowledge that we craft ideologies to organize society around our technological capabilities. Medieval England created patriarchal divine monarchy to coordinate its castles, archers, and farming villages. The Soviet Union embraced communism to organize its factories, automobiles, and communication networks. Some ideologies are more successful than others, but each instructs individuals to form a society around a grouping of tools. As technology changes, we often resist the natural progression to a new belief system, attempting to force our rapidly advancing future into outdated ideologies.
 
-Techvolution illuminates our nature as a technological species. With this insight, we can base our identity, politics, and econoimcs on evolution's fundamental principles. By aligning our beliefs with these universal patterns, we can unlock a new era of seamless innovation, individual empowerment, and unprecedented human flourishing. Technology is a new branch on the tree of life. It took the study of evolution to understand the natural world, and it will take the study of technological evolution to understand our modern technological world.
+Techvolution illuminates our nature as a technological species. With this insight, we can base our identity, politics, and economics on evolution's fundamental principles. By aligning our beliefs with these universal patterns, we can unlock a new era of seamless innovation, individual empowerment, and unprecedented human flourishing. Technology is a new branch on the tree of life. It took the study of evolution to understand the natural world, and it will take the study of technological evolution to understand our modern technological world.
 
 Spanning the breadth of human history and peering into our future, Techvolution reframes the human story by placing our technological nature at its center. For those seeking to understand our rapidly changing world, this book provides more than just insight—it offers an intellectual blueprint for the extraordinary future we must build together as technological beings.
 
@@ -38,7 +38,7 @@ Spanning the breadth of human history and peering into our future, Techvolution 
 
 _This book is for the open-source community—for the collaboration mindset you handed down to me while updating Wikipedia, writing free software, and answering endless questions on StackOverflow. You showed a political student what the future could be as you became the protagonists of the Internet Age. Still, I hope this book inspires you to realize most people are bedazzled by a .md file. You need to (no offense) stop making JavaScript frameworks and coding unused side projects and use this book (and others) to create the Internet Age economy, build-step by build-step, posthaste._
 
-_Non technical people will never undestand what you are doing. Their job in the story of life is to combine your creations with their ingenuity and experience to solve real problems across millions of different niches and thereby evolve life on Earth._
+_Non technical people will never understand what you are doing. Their job in the story of life is to combine your creations with their ingenuity and experience to solve real problems across millions of different niches and thereby evolve life on Earth._
 
 _This book is especially dedicated to the extras on Main Street. When it is time for you to act, I pray you decide to play the game of evolution and reach for the future that the open-source heroes have built for you._
 
@@ -48,11 +48,15 @@ Techvolution: On the Origin of Technological Species presents a new way of under
 
 **Book I—A New Identity:** This foundational work introduces a "technological identity"—the idea that we humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general interact with the world. While we have names for our nationality, ethnicity, or politics, we lack consciousness for our technological nature.
 
-Consider someone labeled "Californian, female, hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread and she sells DVDs for a living. Today, we have no name for this identity that determines her bleak future. This is but one example why, from stone tools to smartphones, our technological choices not only shape what we can do, but who we should see in the mirror.
+Consider someone labeled "Californian, female, Hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread and she sells DVDs for a living. Today, we have no name for this identity that determines her bleak future. This is but one example why, from stone tools to smartphones, our technological choices not only shape what we can do, but who we should see in the mirror.
 
-**Book II—Mixed Ideological Politics:** Having established our technological identity, we must next liberate technology from any constraints. Today, we often reject useful tools simply because of their political or cultural associations—renewable energy is labeled "green," diesel trucks "red blooded American". These artificial divisions prevent us from combining technologies in optimal ways. This new political philosophy teaches how to evaluate tools based purely on their effectiveness in solving our real-life problems, from the cost of home heating to increased storm activity. Since we are a self-aware technological species, and evolution demands lifeforms use any efficient adaptation, Mixed Ideological Politics prevents any ideology from blinding us to any worthy technology.
+**Book II—Mixed Ideological Politics:** Having established our technological identity, we must next liberate technology from any constraints. Today, we often reject useful tools simply because of their political or cultural associations—renewable energy is labeled "green," diesel trucks "red blooded American". These artificial divisions prevent us from combining technologies in optimal ways.
 
-**Book III—Bumblebee Economics:** Once we combine technological self-awareness with ideology-free tool selection, we can create an economy as adaptive as life itself. Nature shows us the way. Her diverse biological species create collaborative ecosystems through simple rules of interaction. Bumblebee Economics applies this wisdom to our technological world. While we already develop some open and interoperable technologies, we need an economic philosophy that accelerates their use to create a freely evolving technological ecosystem. Imagine the ease of Apple ecosystem of products applied to our economy; medical records flowing seamlessly between doctor's office, pharmacy, and your phone—not through centralized control, but through independent yet standardized programs that are free to change independent of each other. Like bees and flowers co-evolving naturally, this framework enables technologies to evolve, and their users to thrive, through effortless interactions with one another.
+Mixed Ideological Politics teaches how to evaluate tools based purely on their effectiveness in solving our real-life problems, from the cost of home heating to increased storm activity. Since we are a self-aware technological species, and evolution demands lifeforms use any efficient adaptation, this new political philosophy prevents any ideology from blinding us to any worthy technology.
+
+**Book III—Bumblebee Economics:** Once we combine technological self-awareness with ideology-free tool selection, we can create an economy as adaptive as life itself. Nature shows us the way. Her diverse biological species create collaborative ecosystems through simple rules of interaction. Bumblebee Economics applies this wisdom to our technological world. While we already develop some open and interoperable technologies, we need an economic philosophy that accelerates their use to create a freely evolving technological ecosystem.
+
+Imagine the ease of Apple ecosystem of products applied to our economy; medical records flowing seamlessly between doctor's office, pharmacy, and your phone—not through centralized control, but through independent yet standardized programs that are free to change independent of each other. Like bees and flowers co-evolving naturally, this framework enables technologies to evolve, and their users to thrive, through effortless interactions with one another.
 
 **understand yourself → learn to use different tools → work effectively with others**
 
@@ -60,17 +64,17 @@ Consider someone labeled "Californian, female, hispanic, college graduate, progr
 
 _Man is a tool-making animal._
 
-- Benjamin Franklin
+Benjamin Franklin
 
 
 _We become what we behold. We shape our tools and thereafter our tools shape us._
 
-- Marshall McLuhan
+Marshall McLuhan
 
 
 _It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change._
 
-- Often attributed to Charles Darwin
+Often attributed to Charles Darwin
 
 <!-- put in later in the book, helping readers recognize that their resistance to new technology is often just a generational perspective rather than an inherent limitation, thereby transforming what feels like a threatening future into a natural evolution we can consciously embrace via a new identity, politics, economics ie a new philosophy -->
 
@@ -291,51 +295,98 @@ SOCRATES: (slight smile at the unusual comparison) Species? Hm. That's part of w
 
 Animals are born free, and everywhere seem to be enjoying themselves. Nature is no doubt a tough place to be. Hunger, disease, thirst, even predation, are always just around the corner. Yet, from the mighty grizzly bear to the tiny firefly, organisms all fight to stay alive. It seems creatures enjoy playing the "game of life".
 
-So, how does a creature get selected to become a player? There are three ways can stand out. Genes, personality, or tools.
+So, how does a creature get selected to become a player? There are three ways to stand out. Genes, personality, and tools.
 
-The first up to explain are genes—a creature's blueprint. Each gene provides specific instructions that determine an organism's traits. During reproduction, genes shuffle and recombine, introducing variations in offspring. Most variations are neutral, but occasionally a mutation provides a survival advantage. Take the peppered moth during England's Industrial Revolution: when trees turned black from the smog and soot, the rare black moth variant suddenly gained a camouflage advantage and exploded in numbers. Evolution doesn't design these mutations; it acts as a filter, allowing organisms with advantageous traits to pass their genes forward. This continuous process of genetic variation and environmental selection drives the incremental changes we observe in species over time. Evolution loves genetic diversity—mistakes and all—because it wants more chances to get a lifeform suited for the environment.
+Genes are a creature's blueprint. Each DNA segment provides specific instructions that determine an organism's traits. During reproduction, genes shuffle and recombine, introducing variations in offspring. Most variations are minor and neutral, but occasionally a mutation provides a survival advantage.
 
-After genes, comes the phenotype. This is how a creature grows up. Think two acorns, one planted in a tall forest, the other in a open field. The first grows lean and tall to search for sunlight, the second bushy and stout as it soaks up the rays. A phenotype is the lessons, knowledge and trauma of a individual lifeform. Some phenotypic adaptations are immediate, like a lizard changing color for camouflage, while others develop over generations like a coyote learning to avoid busy roadway. Evolution doesn't prefer one phenotype over another; it simply selects the ones best suited to survive and reproduce in their specific environment.
+Take the peppered moth during England's Industrial Revolution: when trees turned black from the smog and soot, the rare genetic freak black moth variant suddenly gained a camouflage advantage and exploded in numbers. Evolution doesn't design these mutations; it acts as a filter, allowing organisms with advantageous traits to pass their genes forward. This continuous process of genetic variation and environmental selection drives the incremental changes we observe in species over time. Evolution loves genetic diversity—mistakes and all—because it wants more chances to get a lifeform suited for the environment.
 
-The third way creatures stand out is the extended phenotype. These are the things creatures build themselves. Think bird nests, beaver dams, ants hills. Although made of foreign material, these things act like any other organ in helping a creature better survive.
+The next way a creature can stand out is their phenotype. A phenotype is how the lessons, knowledge and trauma affect an individual's life experience. Think of two acorns, one planted in a tall forest, the other in a open field. The first grows lean and tall to search for sunlight, the second bushy and stout as it soaks up the rays. Phenotypic adaptations are very different. Some are immediate, like a lizard changing color for camouflage, while others develop over generations like a coyote learning to avoid busy roadways. Evolution doesn't prefer one phenotype over another; like with genes it wants the most diversity to find the ones best suited to survive and reproduce in their specific environment.
 
-Take the common squirrel, it survives frigid winters by storing food and building warm nests. These adaptations give them an excellent survival against long winters. When a creature creates an extended phenotype, it's increasing its chances of selection because instead of being a bystander to the environment, it's manipulating the area to its own benefit. Some like beaver dams are so big they change entire ecosystems.
+The third way creatures stand out is the extended phenotype. These are adaptations creatures build themselves. Think of bird nests, beaver dams, ant hills. Although made of foreign material, these things act like any other organ in helping a creature better survive.
 
-However, since, they are external, extended phenotypes can be used by others as well. Grabs use seashells, ants steal termite hills, bats use bird nests. The creature who created the extended phenotype is not always the creature who uses it.
+Take the common squirrel as an example. The small creature survives frigid winters by storing food and building warm nests. These adaptations greatly increase their survival rate. If phenotype adaptations give creations more options to survive, extended phenotypes turn organisms into manipulators of their environment. Some beaver dams can even be seen from space.
 
-Raccoons are the ultimate example. Originally from the tropical forests of Central America, these intelligent creatures naturally create dens in hollow trees, grow thicker fur and fat stores for winter. However, unlike squirrels, raccoons do not naturally insulate their burrows, nor do they fully hibernate, yet they've managed to spread their range across North America because of human civilization's barns, garages, and garbage. Although they created none of this things, raccoons get a huge advantage just because they can use them. Life selects them nonetheless, even though they are essentially along for a ride they don't understand.
+However, since they are external, extended phenotypes are open for others to use as well. Crabs need seashells, ants steal termite hills, bats use old bird nests. The lesson is extended phenotypes become the environment, and thus the creature who created them is not always the creature who use them.
 
-To stay in the game creatures have a mixture of genes, phenotype, and extended phenotypes. The right mixture means an animal can find a niche, harvest enough resources and protect itself long enough to procreate and thereby keep itself in the game of life.
+Raccoons are the ultimate example. Originally from the tropical forests of Central America, these intelligent creatures naturally create dens in hollow trees and grow thicker fur with fat stores for winter. However, unlike squirrels, raccoons do not naturally insulate their burrows, nor do they fully hibernate. Still, they've managed to spread their range across North America, and this is all because of human civilization's barns, garages, and garbage. Although raccoons created none of these things, they can use them, and therefore Life selects them, even though they are essentially along for a ride they don't understand.
 
-Now, which of these scenarios do you think describes yourself in the 21st century?
+So, to save from oblivion, and be player in the game of life, creatures can stand out via their genes, phenotypes, and extended phenotypes. The right mixture means an animal can find a niche, harvest enough resources and protect itself long enough to procreate and thereby keep itself in the game of life.
+
+Now in our quest to better understand our future. Which of these scenarios do you think best describes yourself in the 21st century?
 
 ### Doesn't My Insurance Cover This?
 
-The answer is the raccoon using tools without knowing how they work. Which is why the thesis of this book is that humans are now a technological species that is not yet self-aware of our new identity. I'll use myself to explain why this is so.
+The answer is the raccoon. Like them, we live, work, and exist in an ecosystem of tools without knowing how they work. Which is why the thesis of this book is that humans are now primarily a technological species that is not yet self-aware of our new identity. I'll use myself to explain why this is so.
 
-Among my many genetic makeup is the aforementioned speech impediment. Centuries ago it would have been debilitating. Belief systems were more mythological then scientific, leading many to believe a stutterer was a simpleton and candidate for neglect and perhaps worse. I can sympathize, in childhood I was thought to be one because I rarely talked. But, when the problem was identified at my elementary school, a speech therapist was assigned and off the shackles of my genetic heritage started to be removed. 
+Among my many genetic makeups is the aforementioned speech impediment. Centuries ago, it would have been debilitating. Belief systems were more mythological, leading many to believe a stutterer was a simpleton and a candidate for neglect and perhaps worse. I can sympathize; in childhood I was thought to be one because I rarely talked. But, when the problem was identified at my elementary school, a speech therapist was assigned and the shackles of my genetic heritage started to be removed. 
 
-I still had the resulting shyness of my phenotype to overcome. That was similar to story of most people growing up. My final stage was my software employer said my speech impediment was still noticeable, I resolved to fix it with a job in a notoriously chaotic insurance claims call center. Within a year, the "sink or swim" kind of shock speech therapy finally worked out most of my speaking tool's glitches. Afterwards, I looked up and noticed just how unique and valuable the place was. Thereafter I can tell two things for sure.
+I still had the resulting shyness of my phenotype to overcome. That story was like most people growing up, kids unconsciously adapting social environments as best they can. But up came that blasted impediment when my software employer said my speech impediment was still noticeable, I resolved to fix it with a job in a notoriously chaotic insurance claims call center. Within a year, the "sink or swim" kind of shock speech therapy finally worked out most of my speaking tool's glitches.
 
-The point is, science has taught us much about genes. We even mapped the entire human genome. Psychology has also taught us about the the human mind and how to deal with personal traumas with things like speech therapy. While many people still have problems with their genes and mental health, we have both sides covered once a person chooses to address them.
+My story is hardly unique. Most everyone has a plight of some kind in their way, be it social anxiety to dyslexia. The point is science has taught us much about genes. We even mapped the entire human genome. Psychology has also taught us how to deal with personal traumas with therapies for so many of our torments. While many people still have problems with their genes, psychologies, and other personal traits, we have great help available once a person chooses to address them, thus evolution has little reason to reject a person based on these traits.
 
-As the extended phenotype, before the Industrial Revolution we were often squirrels using what we made and understood. After the massive explosion of things over the past 150 years, we are raccoons who depend on things we happen to come across with little idea how it works.
+As for the extended phenotype, before the Industrial Revolution we were often squirrels using what we made ourselves from the natural world. Technology still existed and amazed many, but things such as sod houses, wood saws, and books are physical things we easy to hold, safe to smell, natural to the touch. However, after the massive explosion of chemicals, materials, electricity, electronics, software and so many other things over the past 150 years, we are now like raccoons who depend on things we do not truly understand.
 
-I know this into my soul. As a claims adjuster, I processed 7,000+ claims and spoke with 30,000+ people from all walks of life. By getting into people's shoes, the job is basically a massive experiment on our economy for anyone empathetic enough to listen to people's pains. For a political economy student, it was an intellectual gold mine.
+I know this in my soul. After my speech finally worked out as a claims adjuster, I looked around and realized how valuable the job was. I processed 7,000+ claims and spoke with 30,000+ people from all walks of life. By getting into people's shoes when their furnace dies, car crashes, house flooded, the job is basically a massive experiment on our economy for anyone empathetic enough to truly listen to people's pains. For a political economy student, being a claims adjuster was an intellectual gold mine.
 
-The ultimate lesson was how often we struggle to understand our own furnaces, car maintenance, or insurance policies. Where a creature knows exactly how to play in Nature, we live in a world of increasing complexity but diminishing comprehension. Everyone is just a glitch away from asking, "Doesn't my insurance cover this" to an insurance adjuster on the phone as if I had a magic-wand to erase their problems. I was so often a customer's best hope, yet all I had was Google search and a stingy checkbook.
+The ultimate lesson was how often people struggle to understand our modern life. We live in a world of increasing complexity but diminishing comprehension. Wealthy executives or wage-earning blue-collar workers are equally perplexed when confronted with a car crash or a malfunctioning piece of technology. People rarely know what items they even have, never mind how they work. Everyone is just a glitch away from asking, "doesn't my insurance cover this" to a person on the phone as if I had a magic-wand to erase their problems (it didn't help my last name is Majic). I was so often a customer's best hope, yet all I had was a Google search and a stingy checkbook.
 
- - this applies to raccoons by the way. Car hits are their number one death.
+Modern technology has completely changed how evolution selects us to stay in the game. Just compare the top causes of death in modern America and ancient societies (circa 500 BC) to see our new selection pressure. Modern America's list is dominated by chronic diseases like heart disease, diabetes, and suicide, each linked to modern lifestyle factors of sedation and isolation. Ancient societies' top causes were infectious diseases, injuries, and accidents, related to poor sanitation, limited medical care, and wars. It's no surprise that raccoons have tooth decay problems, obesity, and among their top killer is also car crashes.
 
-But the point is the same. Natural selection looks at which lifeforms to remove from the game of life. As we understand more of our biology, anatomy, sociology and psychology, we are able to preemptively fix our genotype and phenotype before nature selects them for removal. At the same time as technology grows, the more mechanized and automated our civilization becomes. The more dens, nests, we have to create, operate, and depend on. Evolution cannot select us
+Evolution cannot select us for our best intentions, only the realities of our ignorance. Remember evolution never says "yes" to any adaptions. It needs diversity so badly because evolution can only say "no" to bad ideas unfit for an environment. Evolution is constantly telling us no to many aspects to our modern lifestyle but we don't know how to listen because our personal identity is all messed up.
 
-Answer this yourself, what is more concerning in your daily life. If you sprain your ankle or if your water pipes freeze and burst while your on vacation. Our ancestors might get caught by a lion on the first scenario, but today the second may cause us to go bankrupt. I should know, I had to deny claims because people did not ask their.
+Answer this yourself, what is more concerning in your daily life. If you sprain your ankle or if your water pipes freeze and burst while you’re on vacation. Our ancestors might get caught by a lion on the first scenario, but today you'll likely shrug it off and watch Netflix for a few weeks while on worker's compensation. But the second may cause you to go bankrupt. I should know, I had to deny some of those claims because the homeowner broke a unknown condition of their insurance policy. If the homeowner knew enough to turn the home’s water off—a 2 minute job—they’d save themselves years of hardships.
 
-If they'd just turned off their houses water valve, everything would have been prvented.
+Yet, we do not study this part of ourselves. We are barely conscious of our technological identities. How many people identify with their gender, race, or heritage, in comparison to the tools they use to collect resources? We are the raccoon’s using technology when we can but have no understanding how to make it for ourselves. As evolution punishes us for our ignorance, we must look in the mirror and be honest about what we see.
 
-Now ask yourself, what if your brakes fail, or the MRI machines malfunctions, or if that stranger doesn't know how to administer your epipen. We are still biological beings with the same requirements as before, but with our explosion of technology, our interactions with the environment are so much more technological that mistakes and mishaps are more tool based then anything else.
+A person who thinks of humanity as a mixture of genes and personality, but in reality holding a tool to oppress others. Even something as seemingly simple as a pencil.
 
-Yet, we do not study this part of ourselves. We barely conscious of our technological identities. How many people identify as their gender, race, or heritage, in comparison to the tools they use to collect resources? We are the racoons using technology when we can, but have no understanding how to make it for ourselves. As evolution punishes us for our ignorance, we can ask ourselves why.
+## Evolution Out of Our Ignorance
+
+We are nearing two centuries since Charles Darwin and Alfred Russel Wallace discovered evolution in 1858. It was a radical idea the flew in the face of so much knowledge. Many people believed Earth was only a few thousand to maybe a few million years old, hardly enough time for so many species to have evolved from a common ancestor as evolution dictated.
+
+Yet, because evolution is a description of the reality all around us, evidence was easy to collect and soon humanity believed in a new paradigm called evolution by way of natural selection. Soon scientists were revealing the rules of ecosystems, co-evolution, genetic variation, and speciation.
+
+Similar great discoveries were everywhere. Physics, chemistry, geology, and mathematics, each field kept making newsworthy advancements. As Nature was seemingly revealing all of its secrets, why didn't we apply evolution's secret powers to our civilization?
+
+We tried and failed horribly. Because humanity only saw itself as a genotype or phenotype, we may have been doomed too fail as evolution can't tell us good ideas, but simply selects out bad ones among all the options....
+
+....these two components of our existence was used to describe human history and future. Thus, eugenics and social engineering came to dominate society shortly after evolution was discovered.
+
+Both movements were extreme to no ends. Besides their inherent evil, genotype obsessed scientists had weird ideas such that head sizes and shape determined intelligence, while phenotype scientists flat out refused to acknowledge genes exist and insisted grain seeds are all equal if treated the same (hence the famines when summer grain was planted in cold climates). 
+
+We even have their remains in our society today, the ongoing "nature versus nurture" debate between Conservative and Progressive politics is nothing but a more humane version of the genotype vs phenotype debate evolution often plays. However, as growing tensions between the political left and right showcase, there is no resolution to this debate because it simply does not apply to use. We are not primarily either. We are the raccoon, living a life using technology with out the self-awareness to see it.
+
+But why was it so hard for humanity to see ourselves as technological beings?
+
+For the same reason why seeing evolution took so long. It's contrary to the paradigm we have stuck in our heads. And more importantly, what benefit does a raccoon have in realizing its technological identity. Is it not better to use technological powers to advance our chance of selection?
+
+Millions of years of evolution teaches lifeforms to survive at all cost. We must survive, it's in our nature to play the game of life. What better way to survive than if you have a tool others lack, or better yet, need.
+
+In 1961, Yale psychologist Stanley Milgram conducted an experiment to understand how people committed the atrocities of World War II. Participants were told to administer increasingly powerful electric shocks to a "learner" (an actor) for memory test mistakes. An authoritative scientist (another actor) in a lab coat would insist the experiment must continue, even as the learner screamed in apparent pain.
+
+Shockingly, 65% of participants administered what they believed to be a potentially fatal shock, despite personal discomfort. Repeated studies consistently showed similar results across different demographics. The experiment revealed a disturbing truth: most people can override their moral instincts when pressured by a perceived legitimate authority.
+
+Perhaps it’s because of my aforementioned speech impediment, but I found this absolutely the worst thing ever. Why would anyone judge another person, while not seeking to empower them?
+
+We don't recognize holding an important piece of technology is a lever of power that makes a person an authority, not because of any genetic or ideological superiority, but simply because they've enhanced their capabilities beyond the baseline of human genotype or phenotype. Eyeglasses, calculators, prosthetics, nutritional supplements, the list of technologies that empower is today endless and should keep going. Yet we still evidently don't mind judging others as being supposed failures—whether because of "bad" genes or upbringing—when the truth is we just need a simple pencil to prosper.
+
+Hence, we invent technology but do not naturally spread it to others. So many of our social arrangements, from workplaces where people are given the tools to use, to schools where teachers constantly test a child's ability to remember what was said months ago, to simply living life until a breakdown happens and the insurance guy is your best hope.
+
+All the while technology evolves but we constantly get in its way. There is speciation, co-evolution, natural selection, happening right under our noses. We're like the spotted mouth suffering pains. We are like the raccoon living off these trends while not participating.... Yet, we are not self-aware enough to see how technology augments us to being new kinds of beings.
+
+
+
+once we do, we can start doing to technological ecosystem we conservationists and scientists can do to the natural world.... we'll get out of evolutions' way....
+
+
+
+---
+
+- What we need to do, is recognize our new identity, and introduce the rules of evolution into our technology ecosystem. The raccoon doesn't participate in the ecosystem. It doesn't contribute, ie spread seeds or compost waste, or hunt the sick, etc. It's a byproduct not a product of the circle of life. Mufasa would be disappointed in us.
+- Evolution doesn't say yes, it says no. Hence some genes stick around. Selection is exclusion. Hence why market and demo won.
+-  Nor we do participate in the natural give and take, but rather consume what we find and can afford.
+
 
 ### Our Current Understanding Is Not Enough
 
