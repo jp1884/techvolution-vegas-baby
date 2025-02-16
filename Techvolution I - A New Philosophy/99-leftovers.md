@@ -4709,3 +4709,7 @@ Belief systems are the stories we needed to make sense of our world before we kn
 ===
 
 The experience of the peppered moth shows is a great summary.  From England, this insect as its name implies was white with some black spots. Then during the mid 1800s the moth became almost entirely black. England was experiencing the Industrial Revolution, where countless factory smoke stakes blanketed the environment in black soot. Hence birds saw the white moth like a neon restaurant sign; hence the dark moths exploded in numbers. Once the smoke stacks were cleaned up in the 1950s the natural tree bark gave the peppered colored moths back their camouflage advantage. Hence their numbers grew and black moths exited the game once again.
+
+===
+
+Species can also slowly die into extinction. In addition to being unhealthy and dangerous, our suburban, car dependant, consumerist lifestyle is so unproductive, our birthrate is falling fast. Often dismissed as while the simple truth is youth cannot afford to have kids because the baby-boomers are still hugging the sunshine from the acorns on the forest floor.
