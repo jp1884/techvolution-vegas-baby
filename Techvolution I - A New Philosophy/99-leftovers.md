@@ -4713,3 +4713,139 @@ The experience of the peppered moth shows is a great summary.  From England, thi
 ===
 
 Species can also slowly die into extinction. In addition to being unhealthy and dangerous, our suburban, car dependant, consumerist lifestyle is so unproductive, our birthrate is falling fast. Often dismissed as while the simple truth is youth cannot afford to have kids because the baby-boomers are still hugging the sunshine from the acorns on the forest floor.
+
+===
+
+To understand this reality, you only need to acknowledge that we craft ideologies to organize society around our technological capabilities. Medieval England created patriarchal divine monarchy to coordinate its castles, archers, and farming villages. The Soviet Union embraced communism to organize its factories, automobiles, and communication networks. Some ideologies are more successful than others, but each instructs individuals to form a society around a grouping of tools. As technology changes, we often resist the natural progression to a new belief system, attempting to force our rapidly advancing future into outdated ideologies.
+
+===
+
+nlike other species, we are not bound by our birth-given adaptations. Because we can invent and create tools, we are, in a sense, life itself. We can "form" ourselves into whatever we need to be, adapting to any environment from artic water to hot deserts to outer space.
+
+Yet we still place our biological identities—our born-with, take-it-or-leave-it forms—as our primary identity. Whether it's someone's oppressed ancestors, a strong political belief, race, gender, having rich grandparents, all of these identities rob us of our freedom to evolve. I often, and regrettably, still think of myself as a shy stuttering kid although most people who met me can not imagine I ever had one.
+
+I'm sure you have some identity that holds you back from time to time. Human evolution gifted us with memories, storytelling, and self-awareness. These help us investigate the world, develop knowledge, and invent tools. The negative of these abilities is we often get the wrong ideas lodged in our heads. But we must look past them because evolution literally can not understand our thoughts, perceptions, or stories, and cares as much about them as the pleas of tropical fish in ice water.
+
+The thesis of Techvolution is simple: our species has evolved beyond purely biological definitions. We have become a technological species, with our tools and innovations shaping our civilization and determining our futures. This self-realization doesn't require abandoning your culture, friends, music, or anything else you cherish. Searching for better tools need not dominate your personal life, but it should guide your political and economic choices because improving our technological capabilities is key to humanity's prosperity.
+
+Following technological evolution puts the human condition into focus. Life's evolutionary tree has many branches—plants, insects, reptiles, mammals—each representing a different way of adapting to Earth's challenges. Now humanity has created a new tree for technological adaptations. We create tools that adapt us to the pains of our varied environments. Like any branch on life's tree, some technological paths thrive while others wither. Our task is to recognize which tools are flourishing and which are failing, pruning and growing the technological tree as needed.
+
+===
+
+## Old Intro
+
+### Doesn't My Insurance Cover This?
+
+Animals are born free, and everywhere seem to be enjoying themselves.  Yet, despite pets and zoo animals being safe and well cared for, they're the ones who need cages.
+
+We can never ask animals, but it seems Nature is a sort of fun—if uncompromising—time. They do not have a choice, given that genetics automatically provides every creature with the intense motivation to survive. From the mighty grizzly to the tiny firefly, each organism fights so hard to find food, to avoid predators, and to reproduce, seemingly enjoying this "game of life".
+
+They don't have many annoyances. The only rules are the universal laws of physics, chemistry, geology, biology, which create an impartial environment. The judge between winners and losers is evolution, who selects which creatures are best suited to this playing field, and cannot be bribed or corrupted. This means the game of life requires no complicated instruction manuals, backroom politicking, or customer support lines.
+
+It's not surprising that despite the risks, creatures are attracted to Nature's user experience.
+
+Consider a wolf. Its entire existence is a masterpiece of evolutionary engineering, with each adaptation a precisely calculated response to the hardships of prior generations. It knows how to hunt, communicate with its pack, build a den. It has "fun" tracking a bison or rear children, because it's using its tools to solve a problem and prove itself worthy of selection. No wolf has ever asked, "Wait, are we allowed to hunt here?" Nature's systems are self-documenting, self-maintaining, and brutally easy to use.
+
+This is not us.
+
+We long ago traded savannas for concrete jungles of cities and technologies. Our lives are chaotic, filled with bewildering regulations and low-grade anxiety. Unlike animals who instinctively know how to survive, we navigate a technological wilderness we barely comprehend.
+
+If animals are everywhere having natural fun, we are everywhere in chains of a poor user experience. I can attest to this fact to a great degree. After my software employer said my speech impediment was still quite noticeable, I resolved to fix it with a job in a notoriously chaotic insurance claims call center. Within a year, the "sink or swim" kind of shock speech therapy finally worked out most of my speaking tool's glitches. Afterwards, I looked up and noticed just how unique and valuable the place was.
+
+As society was indulging in so many fictional movies and shows, getting hooked on infotainment political news, thinking stock market equals national prosperity, here was society calling me about every real-life problem under the sun. House fires, car crashes, confusing regulations...
+
+As a claims adjuster, I processed 7,000+ claims and spoke with 30,000+ people from all walks of life. Insurance companies are technically a "second party" to customers, meaning adjusters must ask any question we need to verify that a claim is genuine. By getting into people's shoes, the job is basically a massive experiment on our economy for anyone empathetic enough to listen to people's pains. For a political economy student, it was an intellectual gold mine, and more than enough to gather some new insights and notice some trends.
+
+The most profound lesson? Everyone is lost most of the time. Race, age, gender, these distinctions dissolve when people encounter a problem that affects the tools they need to "play the game" of life. A wealthy executive becomes just as confused and desperate as a blue-collar worker when confronted with a car crash or a malfunctioning piece of technology.
+
+Everyone is just a glitch away from asking, "Doesn't my insurance cover this" to an insurance adjuster on the phone as if I had a magic-wand to erase their problems. I was so often a customer's best hope, yet all I had was Google search and a stingy checkbook.
+
+Unlike nature's clear rules, our societal systems are maddeningly inconsistent: regulations change between cities, states, even neighborhoods. We struggle to understand our own furnaces, car maintenance, or insurance policies. Where a creature knows exactly how to play in Nature, we live in a world of increasing complexity but diminishing comprehension.
+
+The truth is we do not understand how to live in the increasingly technical world we built. We are like dogs in suburban homes. Their wolf genes make them love roaming parks and hunting rabbits, but inside civilization dogs are wondering about the origin of their food or why television characters do not smell. We navigate our technological environment with a dangerous lack of understanding. We are in the dark about how our tools work, how to learn from failures, and, most critically, how new technology fundamentally changes us and our society.
+
+This isn't about individual failure. Nor is it a political one. This is about systemic problems. Our educational systems, economic systems, political ideologies, and cultural narratives haven't kept pace with technological evolution. We teach children new technology but release into a world run by elders who need help using their iPhones. We celebrate innovation but rarely embrace the societal change they require. We expect "forever" jobs in a time of massive technological changes.
+
+It's no one's fault. Our technology has exploded in size and complexity in just a few decades. The rules in which our smartphones, computers, internet, car, interact are an uncharted wilderness. And no insurance cannot solve any and all of your problems inside it.
+
+Let's find out what will.
+
+### Our Current Understanding Is Not Enough
+
+Biologists call all living organism’s "biomass". The term is most often used to get an idea how many trees, algae, animals, and other living things are in a lake, valley, or large area. Lately, people have started to call artificial creations "technomass", to get an idea how many buildings, trains, and other technological stuff is out there.
+
+We needed this new term to track our planet's staggering transformation. As recently as 1920, biomass was nearly 99% of our world. By 2020, biological life was just 40% and technomass had dramatically risen to approximately 60%. The rise of artificial materials and power sources has also risen exponentially. In just one century, we've essentially inverted the natural order, creating a new ecosystem that now weighs more than the combined biological systems of our planet. 
+
+Not only do we not understand this new technological world, but we’re also not supposed to. After the United States and its allies won the Cold War in 1991, the entire world embraced the "invisible hand" of the capitalism's free-market economics. It was an easy choice after other systems, mainly socialism and fascism, had failed so horribly. Thus, although each country regulates the market differently, even non-democracies learned to use the free market to build their nation’s wealth. According to the theory, individual ignorance of the entire economic system is acceptable, as long as we understand our small role, "the market" of supply and demand will fuel mutual prosperity.
+
+Since 1991 America has experienced a confusing trajectory. While the economy has grown, everyday Americans have not benefited. Wages have barely kept pace with inflation—median household income increased by only $7,100 over 30 years. Meanwhile, the cost of living has skyrocketed: housing prices have jumped 374%, healthcare premiums have increased 344%, and student debt has grown from 340 billion to $1.7 trillion. Economic mobility has also collapsed, with only half of Americans now able to earn more than their parents, compared to 90% in 1970. These trends paint a troubling picture of economic stagnation and declining opportunity.
+
+Yet, the other side of the story is a series of successes. Murder rates have declined by 49% from 1980 to 2020. Literacy rates have remained consistently high, with 99% of Americans able to read and write. Infant mortality has improved, falling from 12.6 deaths per 1,000 live births in 1980 to 5.6 in 2020—a 56% decrease. Most dramatically has been the stream of amazing new technologies. Cars now have electric motors and are beginning to drive themselves. A renowned Harvard scientist is working on a pill that stops aging. Artificial Intelligence data centers are being built at record speed, as computers seemingly approach the long-discussed "singularity".
+
+Although capitalism is making technological wonders, like my insurance customers, many office workers, farmers, or retirees are left wondering how to use these tools to improve their lives and futures. It's no wonder people don't know, given we are all only armed with blind faith in the "invisible hand" to navigate a very complex economy.
+
+When Adam Smith invented capitalism in 1776, people made cups from clay and communicated via letters written with bird feathers delivered by horse and wagon. New technologies such as eyeglasses and lightning rods were amazing but quite limited and slow to develop. At the start of the Industrial Revolution, the "invisible hand" did not demand much adaptability. An apprenticed blacksmith or cooper had good reason to believe their skills would always be needed.
+
+But, in modern times with new technologies coming online all the time, with 60% of things already being technological, we must look behind the magic to see how capitalism creates the new technologies the continually change our economy.
+
+This book will start the long process towards enlightenment. We will uncover the rules behind technological evolution to make what is invisible visible. The journey begins with understanding our own identity. While we today define ourselves as black, white, tall, retiree, college student, manager, employee these are not who we truly are anymore. Our first identity must be technological species that freely select various technologies to meet our own evolving list of challenges.
+
+Being a technological species is not a speculative theory. After years of collecting specimens on voyages and travels Charles Darwin in 1859 revealed that organisms evolve through genetic variations, with some adaptations proving more successful in specific environments. Simultaneously, Gregor Mendel planet millions of plants and slowly discovered how organisms inherit traits through genes, what scientists now call the genotype—which determines an organism's phenotype, or its physical expression molded its environment.
+
+Imagine two acorns from the same oak tree, planted in dramatically different landscapes: one in a dense forest, another on an exposed windswept plain. Despite sharing an identical genetic blueprint, their surroundings will profoundly shape their growth.
+
+In the forest, the acorn might grow tall and slender, stretching upward to capture scarce sunlight filtering through the canopy. On the open plain, the same genetic individual would likely develop a shorter, broader form—better equipped to absorb abundant light and withstand harsh winds. These variations showcase how an organism's environment can dramatically influence its physical development. If genes are the canvas, the environment is the artist that paints a being's living form. Humans often debate which is more influential “nature versus nurture”—but the is always an interplay between the genes/genotype and phenotype/environmental factors.
+
+There is also something else at play. This is when living things create tools and structures that extend their biological capabilities. A bird's nest is a perfect example. Just like an internal organ protects and supports life, a nest serves the same purpose—but it's built outside the bird's body using materials like grass and sticks. The bird's brain designs and builds this nest, which shelters its eggs and chicks, effectively functioning as an external organ that helps preserve the bird's genetic legacy. It's a way of extending the organism's survival strategy beyond its physical form. Scientists call things like bird's nests, ant colonies, and wolf dens the extended phenotype of a creature.
+
+After centuries of study, humanity understands nature/genes with fields like genetics and biology. Nurture/phenotype is studied as well, especially in anthropology and sociology. With this scientific understanding, we've decoded many rules of biological evolution. This book applies those lessons to our technological world to include update our debates about nature vs nurture to include "vs technology" as well.
+
+However, before we can use our understanding of biological life to truly understand how markets and technologies evolve—and make our time inside the technological ecosystem as fun to live in as the biological one—we must understand why studying our extended phenotype is so hard, dangerous, and filled with confusion.
+
+### Our Biggest Hurdle Is In Our Head
+
+Just as a bird's beak evolves to better access food sources, or wolves evolve extraordinary smell to sniff out prey, our technologies adapt to solve increasingly complex human challenges. Consider the smartphone: its ancestors were bulky, limited devices. Each generation became more sophisticated, and as it expanded its connectivity, information, and computational power, it became a staple of the modern human tool-set. During claims adjusting, even the elderly could be depended upon to have a smartphone
+
+Humans have co-evolved with technology to enhance our abilities. The better we became at using phones, the more sophisticated the phones became. But was this new human-smartphone hybrid truly free to evolve?
+
+Studying questions regarding our extended phenotype is seemingly easy but is actually very hard. I'll give an example using the famous Milgram Experiment.
+
+In 1961, Yale psychologist Stanley Milgram conducted an experiment to understand how people committed the atrocities of World War II. Participants were told to administer increasingly powerful electric shocks to a "learner" (an actor) for memory test mistakes. An authoritative scientist (another actor) in a lab coat would insist the experiment must continue, even as the learner screamed in apparent pain.
+
+Shockingly, 65% of participants administered what they believed to be a potentially fatal shock, despite personal discomfort. Repeated studies consistently showed similar results across different demographics. The experiment revealed a disturbing truth: most people can override their moral instincts when pressured by a perceived legitimate authority.
+
+When I learned this at university, I was especially abhorred for another reason. No teacher ever offered the learner a pencil. The entire experiment is a pretense that we humans are memory machines. We invented writing thousands of years ago specifically because we are not memory machines. Yet we still evidently don't mind judging others as being supposed failures—whether because of "bad" genes or upbringing—when the truth is we just need a simple pencil to prosper.
+
+Perhaps it’s because of my aforementioned speech impediment, but I found this absolutely the worst thing ever. Why would anyone judge another person, while not seeking to empower them?
+
+My classmates would scoff "that's not what the test is about", which I would respond with indignation "then why does the scientist use a pencil to mark down his notes. And why is the teacher reading the test words instead of having them memorized? This is a story about two people with technology bullying someone without it, that's all."
+
+We don't recognize holding an important piece of technology is a lever of power that makes a person an authority, not because of any genetic or ideological superiority, but simply because they've enhanced their capabilities beyond the baseline of human genotype or phenotype. Eyeglasses, calculators, prosthetics, nutritional supplements, the list of technologies that empower is today endless and should keep going. Yet, we are not self-aware enough to see how technology augments us to being new kinds of beings.
+
+The sad part is that the teacher is being rational but ignorant. They are trying to subvert natural selection of the best adaptation in favor of themselves. Accepting this insight brings much of human history into focus. How people with tools—from Spartans who enslaved the Helots, to West European colonialists who enslaved Africans—soon create stories about why their genes or society are the reason for their superiority over others. A falsehood that lasts if their tools remain on top. Because hubris is a universal human failing, it never does, and as people believe more of their own stories, they stop the hard work of innovation, confirming their ignorance and sealing their end at the same time.
+
+I planned on running the Milgram Experiment again but modifying it to see how sociologists and psychologists respond when the teacher is in fact an actor and insists on giving the learner a pencil. Sadly, I never got the chance to flesh out this idea. Instead, I got to live it, and it was far more impactful of a lesson.
+
+Several co-workers and I were sick of the pains adjusters and customers were feeling during the claims process. Using the power of open-source software—made famous for giving the pencil away with Linux, Android, Wikipedia, and now DeepSeek—we wanted to alleviate some common pains. I personally dreamed about collecting so much frontline economic to showcase how the concepts of biological evolution—speciation, co-evolution I had already been researching.
+
+It did not work out that way. We'll talk about it later in the book, I must say the insight gained in walking the path was startling. There is something about listening to a person justifying why the pencil is wrong that must be experienced. The refusal to democratize technology made me realize how much we needed to identify as technological beings.
+
+Now you should understand why the American public cost of living has been going up. Why the American worker cannot afford to build the things they are buying. While Americans are getting poorer even as America itself is getting richer. The fruits of modern technology are not being dispersed into the general public. Instead, the American citizen is called a consumer and employee who can buy things that don't offer a return on investment because the laws of economics do not apply to individuals. The current fight for the "right to repair" and "work from home" showcases how digital technology is the pencil Americans aren't supposed to control. So we have the public I got to peek into during so many claims calls encountering problems because they are not allowed to solve them.
+
+Our two options to fix these problems are right-wing and left-wing ideologies. Both are trapped inside one of two known evolutionary perspectives: the former emphasis on genetic determinism and the latter focus on environmental influence. Both ideologies were written before evolution was even discovered, thus they fight over the pencil in an never-ending nature versus nurture debate in which their extremists are willing to organize atrocities.
+
+Yet, as technological beings, not only is it in our self-interest to get the pencil, but it's in our interest to give it away. Open-source software is one giant reason why that works out so well. Because as evolution shows, individual lifeforms are better off inside a healthy ecosystem.
+
+Ultimately, the thesis is provocative yet apparent: we do not understand how to live in the increasingly technical world we have built, and this systemic misunderstanding affects everyone, regardless of social status or background. Technology is our "extended phenotype", and it's grown immensely over the last 100 years, making Earth a predominately technological environment. While we have sophisticated methods to study biological evolution, we lack a comprehensive approach to understanding technological evolution, setting up the book's central mission: to decode the rules of technological adaptation and transformation.
+
+This is not a book about what should happen. It's a book about what is happening under our noses. There is thus a reason why Donald Trump and leaders like him in the West are winning elections, just as there is a reason why we are finally embracing the beautifully diverse nature of many human beings. Ecosystems need borders and huge diversity to be healthy. What is happening today causing so many people stress, hatred, and anxiety is simply evolution at work to people not self-aware of it yet.
+
+If we can embrace our nature as a technological species and consciously shape the tools that increasingly determine our fate. Before we can say "People are born free and everywhere seem to be enjoying themselves" we must start the process of technological evolution self-awareness; what I call Techvolution.
+
+The journey of Techvolution will trace life's biological evolution through countless ages and epochs, mass-extinctions, then into early human history, the rise and fall of empires that unknowingly rode the wave of life's newfound technological evolution. We'll learn about the start of science, uncover deeper patterns of human psychology and the temporary nature of today's brands as we map the intricate tree of technological life. But to understand this journey, we must first answer a fundamental question: if lifeforms cooperate more than we compete, who is evolution fighting?
+
+--
+
+What the modified Milgram experiment does is showcase the roles/masks we want other people to wear for our own self-benefit. Corporations call American citizens consumers and employees, because those are roles that solely benefit their tool-sets.
+
+===
