@@ -4849,3 +4849,14 @@ The journey of Techvolution will trace life's biological evolution through count
 What the modified Milgram experiment does is showcase the roles/masks we want other people to wear for our own self-benefit. Corporations call American citizens consumers and employees, because those are roles that solely benefit their tool-sets.
 
 ===
+
+Although I was subject to a genetic misfire between thought and speech, I don't want you to see this as broken person, but someone with a broken tool.
+
+
+Modern science continues to unravel the complexities of biological conditions, offering both understanding and solutions. Through government-sponsored speech therapy, I transformed my genetic communication challenge from a perceived limitation into a solvable problem. I was not a broken person, but someone equipped with an imperfect tool waiting for improvement. My personal milestone of success? Confidently ordering a slice of pizza at a restaurant—a simple act that represented years of persistent effort.
+
+
+Modern science has illuminated many of our biological conditions, providing explanations and remedies. In that vein, I was fortunate to receive government-sponsored speech therapy. So, although I was subject to a genetic misfire between thought and speech, I learned I wasn't a broken person, but someone with a broken tool. I still remember my graduation ceremony held at a Italian restaurant where I got to order anything I wanted.
+
+
+A technological identity does not mean abandoning our culture or human experience. You should still enjoy music clubs, celebrate folklore dances, commemorate history, and cheer at the Olympics. But in a world increasingly shaped by technological systems, we must develop a new identity to see the best solutions. Just look at how evolution takes creatures who have nothing in common, say the oak tree and squirrel, and makes them work so well together because both need each to solve their mutual problems.
