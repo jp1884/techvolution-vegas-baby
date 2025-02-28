@@ -4860,3 +4860,30 @@ Modern science has illuminated many of our biological conditions, providing expl
 
 
 A technological identity does not mean abandoning our culture or human experience. You should still enjoy music clubs, celebrate folklore dances, commemorate history, and cheer at the Olympics. But in a world increasingly shaped by technological systems, we must develop a new identity to see the best solutions. Just look at how evolution takes creatures who have nothing in common, say the oak tree and squirrel, and makes them work so well together because both need each to solve their mutual problems.
+
+===
+
+For example, we often call someone a "government" or a "corporate" employee. Ideologues think those are markedly different persons. Yet, if we just observed each as a biologist views creatures, we'd barely tell a difference. Both use identical tools like Microsoft Office, meeting rooms, and phone calls. They have similar schedules, diets, and housing. That's why they interchange workplaces throughout their careers with hardly a learning curve.
+
+Yet, when we today encounter a problem involving a government and corporate employees—for example rising insurance rates—no politician or citizen thinks to identify the root problem as the 1990s technology the industry uses.
+
+Instead, when one ideology controls government they promote government or corporate based insurance, and move on because as—already mentioned—if ideology is our first thought when encountering a problems, adhering to ideology surely must fix the problem. It doesn't. Because as anyone who fixes problems—from blown tires to heart failure—knows, you need a better tool to get better results.
+
+===
+
+The story of Life now involves technology. Its tools and inventions are already transforming our world. The purpose of this book is to help you find tools that solve your environmental challenges, revealing how our storytelling often subverts evolutionary progress.
+
+Our belief systems create identities with expectations that frequently conflict with how evolution works. We mistakenly place human opinions—in grades, reviews, policies—above technological adaptation.
+
+The future becomes clear when we recognize ourselves as a technological species. It is a world where human conflict is minimized and cooperation is maximized, driven by the same force that drives all life—evolutionary self-interest.
+
+As we explore our technological evolution, we'll discover what I learned ordering pizza as a child: our limitations aren't who we are, they're problems waiting for better tools to solve. Techvolution is our new framework for understanding ourselves and our place in the continuing story of life on Earth.
+
+===
+
+Like someone wearing the wrong prescription glasses, updating our old ideological lenses puts our current political fighting and economic stagnation into sharp focus.
+
+
+In fact, Conservatism's emphasis on producing wealth and Progressivism's drive for social diversity become complementary forces when viewed through a technological identity.
+
+Because diversity and mass-production is exactly what Life needs to populate and update its many ecosystems. Thus rather than seeing Left versus Right as opposing forces, we can view them as complementary perspectives contributing to our collective technological evolution.
