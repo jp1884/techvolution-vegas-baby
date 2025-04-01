@@ -95,8 +95,7 @@ Often attributed to Charles Darwin
 - Chapter 8—The Moderns
 - Chapter 9—Techvolution—No More Camels in the Amazon
 
-<!-- Chapters: Rough notes per each -->
-
+<!-- Chapters: Rough notes per each 
 Chapter 1—The Rules of the Game—Where do we live?
   —Physics
   —Chemistry
@@ -131,12 +130,12 @@ The Make up Technological Society
 
 The Easy Technological Evolution Within Ages
   —Why some civilizations prosper.
-  —Why some philosphies win out.
+  —Why some philosophies win out.
   —they foster technological evolution.
 
 The Troublesome Transition Between Ages
   —Triangle vs Triangle
-  —Maksings of old tools/philosophies.
+  —Maskings of old tools/philosophies.
   —Corruption of storytelling
   —How the old dies (circles) and new ages are born (ladders).
 
@@ -144,6 +143,7 @@ Where We Are, and Where We're Going
   —Industrial Age triangle vs. Internet Age.
   —Trump vs Biden et al.
   —How to get to the future, and what happens we don't hurry.
+  -->
 
 ## Preface
 
