@@ -28,11 +28,11 @@ In Techvolution, you will confront this provocative question as you discover tha
 
 What truly distinguishes our species from other lifeforms is not our language or cultures, but our continual creation of new tools. This technological evolution defines our fate more fundamentally than gender, ethnicity, or nationality ever could. Just as biological evolution has shaped life through natural selection, so has it guided our transformation from purely biological beings into something unprecedented: a species that evolves through its technological capabilities.
 
-With this insight, we can base our identity, politics, and economics on evolution's fundamental principles. By aligning our beliefs with these natural mechanisms, we can unlock practical benefits: reduced living costs through faster technology adoption, collaborative solutions to climate challenges, and innovation that serves real human needs rather than ideological goals.
+With this insight, we can base our identity, politics, and economics on evolution's fundamental principles. By aligning our beliefs with these natural mechanisms, we can unlock practical benefits: reduced living costs through faster technology adoption, collaborative solutions to climate challenges, and innovation that automatically responds to human pains.
 
 Technology is a new branch on the tree of life. It took the study of evolution to understand the natural world, and it will take the study of technological evolution to understand our modern technological world.
 
-Spanning the breadth of human history Techvolution reframes the human story by placing our technological nature at its center. For those seeking to understand our rapidly changing world, this book provides more than just insight—it offers an intellectual blueprint for the extraordinary future we must build together as technological beings.
+Spanning the breadth of human history Techvolution reframes the human story by placing our technological nature at its center. For those seeking to understand our rapidly changing times, this book provides more than just insight—it offers an intellectual blueprint for the extraordinary future we must build together as technological beings.
 
 ## Dedication
 
@@ -46,7 +46,7 @@ Techvolution: On the Origin of Technological Species presents a new way of under
 
 **Book I—A New Identity:** This foundational work introduces a "technological identity"—the idea that we humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general interact with the world. While we have names for our nationality, ethnicity, or politics, we lack consciousness for our technological nature.
 
-Consider someone labeled "Californian, female, Hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread and she sells DVDs for a living. Suddenly she to chance changing personal networks and knowledge base to continue her career. Today, we have no name for this identity that determines her future. This is but one example why, from power tools to smartphones, our technological choices not only shape what we can do, but who we should see in the mirror.
+Consider someone labeled "Californian, female, Hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread and she sells DVDs for a living. Her personal networks and knowledge base are of questionable value and yet we have no name for this identity that might upend her future. This is but one example why, from power tools to smartphones, our technological choices not only shape what we can do, but who we should see in the mirror.
 
 **Book II—Mixed Ideological Politics:** Having established our technological identity, we must next liberate our tool sets from ideological constraints. Today, we often reject useful tools simply because of their political or cultural associations—renewable energy is labeled "green," diesel trucks "red blooded American". These artificial divisions prevent us from combining technologies in optimal ways.
 
@@ -54,7 +54,7 @@ Mixed Ideological Politics teaches how to evaluate tools based purely on their e
 
 **Book III—Bumblebee Economics:** Once we combine technological self-awareness with ideology-free tool selection, we can create an economy as adaptive as life itself. Nature shows us the way. Her diverse biological species create collaborative ecosystems through simple rules of interaction. Bumblebee Economics applies this wisdom to our technological world. While we already develop some open and interoperable technologies like USB and Bluetooth, we need an economic philosophy that accelerates their use to create a freely evolving technological ecosystem.
 
-The goal is Apple's ecosystem applied to our economy; medical records flowing seamlessly between doctor's office, pharmacy, and your phone—not through centralized control, but through independent yet standardized programs that are free to change. Like bees and flowers co-evolving, this framework enables technologies to evolve, and their users to thrive, through effortless interactions with one another.
+The goal is Apple's ecosystem applied to our economy; medical records flowing seamlessly between doctor's office, pharmacy, and your phone—not through centralized control, but through independent yet standardized programs each free evolve independently. Like bees and flowers co-evolving, this framework enables technologies to evolve, and their users to thrive, through effortless interactions with one another. Thereby the era of mass-production evolves to the era of mass-collaboration.
 
 `Understand yourself → Learn to use different tools → Work effectively with others`
 
