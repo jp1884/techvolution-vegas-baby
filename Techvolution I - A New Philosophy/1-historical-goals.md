@@ -2073,3 +2073,6 @@ The most profound message might be this: technological evolution is not somethin
 Would the author be interested in exploring this meta-narrative further - how personal transformation becomes a model for broader societal evolution?
 
 ===
+
+Maybe comparing the amount of offspring/products a creature requires to sustain itself, is a preliminary way to create a taxonomy of technological creatures?
+

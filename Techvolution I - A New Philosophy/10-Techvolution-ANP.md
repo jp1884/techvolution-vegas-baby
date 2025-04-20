@@ -74,10 +74,15 @@ _"It is not the strongest of the species that survives, nor the most intelligent
 
 —Often attributed to Charles Darwin
 
+### Quotes Later Chapters
+
 <!-- put in later in the book, helping readers recognize that their resistance to new technology is often just a generational perspective rather than an inherent limitation, thereby transforming what feels like a threatening future into a natural evolution we can consciously embrace via a new identity, politics, economics ie a new philosophy -->
 
-<!-- _Technology is anything that was not around when you were born._
+<!-- _"Technology is anything that was not around when you were born."_
 - Alan Kay -->
+
+<!-- _“When you grow up you tend to get told the world is the way it is and … to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family, have fun, save a little money. That’s a very limited life. Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again.”_
+—Steve Jobs -->
 
 ## Table of Contents
 
@@ -214,18 +219,84 @@ Earth will prosper to new heights when human conflict is minimized and cooperati
 <!-- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123507 -->
 
 <!-- Yet to to be written. -->
-<!-- Dialogue between Socrates and Darwin, circa 2030ish -->
-<!-- UPDATE - boy sits on half empty commuter train, as a cast of characters comes and goes. Aristotle speaks with Newton and learns about universal gravitation "that's what it was this entire time!" such revelations keep coming older minds, until Darwin and Socrates speak and the nature of human justice et al is uncovered through the laws of technological evolution. as the train gets to its destination, the boy closes his books, puts away his notes and scribbles and post its, and the leaves the train along with the other passengers. 
+Here's a comprehensive summary of the Foreword concept:
 
--show the process by which pre-thought to today's mastery, whilst on a train encountering a problem each try to solve...
-  - pre Aris.
-  - Aris
-  - Newton et al
-  - Engineer
-  - AI
--->
+Foreword Concept: A One-Act Play
 
-We are creating a one act play to serve as the Foreword for Techvolution, a book about how technological evolution drives human civilization. The play takes place during a modern morning commute and features two historical figures—Socrates and Charles Darwin—reimagined as contemporary professionals encountering each other on a train platform. Socrates is portrayed as a military veteran who now works as a civic activist and part-time tutor, while Darwin is a biology professor who conducts field research in remote locations. Both characters are reading Techvolution: Socrates struggles with its evolutionary concepts because he's never encountered them before, while Darwin is being pushed by his graduate students to engage with Techvolution and he is excited to see his theories on natural selection applied to technological development. The play uses their conversation to explore Techvolution's core ideas about technological identity and evolution, with the commuter train setting providing both practical examples and a confined space for focused dialogue. The format deliberately echoes Socratic dialogues while making complex philosophical concepts accessible through everyday situations. The surrounding commuters and modern technology (phones, transit apps, trains) serve as props and examples in their discussion. This one act play functions as both a literary device to showcase Techvolution's philosophical heritage and as an engaging way to introduce readers to the book's main concepts about how technology shapes human progress and identity as applying Darwinian theory to technological development answers, or gets closer to, many of the questions Socrates liked to ask such as "What is Justice?, "What is Virtue?", "What is Knowledge?", "What is Courage?", "What is Piety?", "What is Wisdom?", "How should one live a good life?", "What makes an action moral?", "Can virtue be taught?", "What is the nature of human excellence?"
+Core Purpose:
+- Explore how technological evolution can be applied to understanding human civilization
+- Use a Socratic dialogue to introduce the book's main philosophical concepts
+- Demonstrate how Darwinian evolutionary theory can be extended to technological development
+
+Setting:
+- A modern morning commuter train
+- Contemporary re-imagining of Socrates and Charles Darwin as professionals
+
+Character Descriptions:
+
+SOCRATES (65):
+- Military veteran turned civic activist and part-time tutor
+- Embodies the original Socrates's philosophical method
+- Initially skeptical of applying evolutionary theory to human development
+- Driven by a quest to understand fundamental questions about human nature
+
+Some Key Socratic Questions to Explore:
+- What is Justice?
+- What is Virtue?
+- What is Knowledge?
+- How should one live a good life?
+- What makes an action moral?
+- What is the nature of human excellence?
+
+DARWIN (50):
+- Biology professor and field researcher
+- Maintains the historical Darwin's methodical observation and curiosity
+- Explains evolutionary principles
+- Demonstrates how evolutionary theory can be applied to technological development
+
+Dialogue Structure:
+1. Initial skepticism from Socrates about applying evolution to human development
+2. Darwin introduces evolutionary concepts
+3. Socrates begins to see potential in applying evolution to technology
+4. Exploration of how technological evolution answers philosophical questions
+
+Narrative Devices:
+- Commuter train as both literal setting and metaphorical journey of discovery
+- Surrounding technology (phones, apps, train systems) as discussion props
+- Everyday situations used to illustrate complex philosophical concepts
+
+Philosophical Objectives:
+- Showcase the book's intellectual heritage
+- Make complex ideas accessible
+- Demonstrate how technological evolution provides insights into human progress and identity
+
+Tone:
+- Intellectually rigorous
+- Conversational
+- Curious and exploratory
+- Accessible to a broad audience
+
+Key Insights to Develop:
+- How technology evolves similar to biological systems
+- The role of adaptation in technological development
+- How technological tools shape human identity and progress
+
+Structural Inspiration:
+- Classical Socratic dialogues
+- Modern philosophical thought experiments
+- Interdisciplinary approach combining philosophy, biology, and technology
+
+---
+
+We are creating a one act play to serve as the Foreword for Techvolution, a book about how technological evolution drives human civilization. The play takes place during a modern morning commute and features two historical figures—Socrates and Charles Darwin—re-imagined as contemporary professionals encountering each other on a train platform.
+
+Socrates is portrayed as a military veteran who now works as a civic activist and part-time tutor, while Darwin is a biology professor who conducts field research in remote locations. 
+
+Both engage in conversation, with Darwin discussing his theories to Socrates who is curious but not engage as he is told applying evolutionary theory to humanity resulting in the opposite of wisdom. Then he ponders, why not apply evolutionary theory to technology?
+
+The commuter train setting provides both practical examples and a confined space for focused dialogue. The format deliberately echoes Socratic dialogues while making complex philosophical concepts accessible through everyday situations. The surrounding commuters and modern technology (phones, transit apps, trains) serve as props and examples in their discussion.
+
+This one act play functions as both a literary device to showcase Techvolution's philosophical heritage and as an engaging way to introduce readers to the book's main concepts about how technology shapes human progress and identity as applying Darwinian theory to technological development answers, or gets closer to, many of the questions Socrates liked to ask such as "What is Justice?, "What is Virtue?", "What is Knowledge?", "What is Courage?", "What is Piety?", "What is Wisdom?", "How should one live a good life?", "What makes an action moral?", "Can virtue be taught?", "What is the nature of human excellence?"
 
 ---
 
@@ -253,25 +324,197 @@ His interaction style reflects the original Darwin's personality—kind, introsp
 
 ---
 
-**TECHVOLUTION: A Platform Discussion**
-A One Act Play
+### TECHVOLUTION: A Platform Discussion**
 
-Scene 1: The Platform
-A commuter train platform during morning rush hour. Digital displays show a 12-minute delay. Commuters stand in their usual spots, most looking at phones. The lighting suggests early morning, with occasional announcements echoing through the station. Enter SOCRATES, 65, stocky build, military bearing despite his age, wearing a worn military backpack. He carries a simple thermos and has a penetrating gaze that seems to evaluate everything around him.
+A One Act Dialogue
 
-SOCRATES: (consulting a folded paper schedule, speaking with quiet intensity) Twelve minutes. Always changing the times, yet never improving them. (observes other commuters on phones) All of them, staring into screens, thinking they know more... (pulls Techvolution from his backpack) Perhaps a few more pages before I meet my students... (finds his place, frowning in concentration) "Evolution of technology"... How can something we create evolve? it is we who change it, not...
+**Scene 1: The Platform**
+A commuter train platform during morning rush hour. Digital displays shows "Delayed" in red letters. Commuters stand by, most looking at their phones. Building shadows are long, the sun is still rising, although we can't see it with the many nearby buildings.
 
-Enter DARWIN, 50, wearing a field jacket over business casual clothes, carrying a weathered leather messenger bag. He moves with the careful observation skills of a naturalist, pausing briefly to notice a pigeon's adapted feeding behavior near a dropped breakfast sandwich.
+Enter SOCRATES, 65, stocky build, military bearing despite his age, wearing a high-quality black backpack with Army insignia on it. He carries a thermos as he gazes and the people around him.
 
-DARWIN: (making a quick note in a small notebook) Urban adaptation in columba livia... fascinating... (checks transit app) Twelve minutes delayed... (settles into his usual spot, pulls out Techvolution) Just like the Galápagos... each technology filling its own niche... (makes notes in margin) Must remember to ask the graduate students about parallel technological adaptation patterns...
+ANNOUNCEMENT: The 7:15 train is approaching now. Please stand back from the yellow platform lines. We are sorry for the delay.
 
-Both men stand several feet apart. The platform grows more crowded. SOCRATES looks up from his book, irritated by a loud phone conversation nearby. His gaze falls on DARWIN's book. At the same moment, DARWIN glances up, having noticed someone else actually reading a physical book. Their eyes meet, then both look at each other's copy of Techvolution.
+Socrates watches the people around him lift their heads from the phones. As the speeding train is grinding its brake pads to stop its massive bulk, he lets out a gruff. As the train stops, people start huddling near the doors waiting for them to open.
 
-SOCRATES: (with the direct approach of someone used to command) That book... you're studying it too?
+Socrates walks to rear of the group and shuffles in as everyone goes inside. The seats are half full already, and as people find spots, Socrates climbs a small set of stairs to go up to the next level. There he sees a spot near a window and takes it.
 
-DARWIN: (warm but precise) Indeed. A rather unexpected find, is not it? Like discovering a new species in a well-documented ecosystem.
+As he looks around, some people are again on their phones, while others have pulled out their work laptops and are typing away. He continues searching and sees an advertisement poster for TELECOM inside the train.
 
-SOCRATES: (slight smile at the unusual comparison) Species? Hm. That's part of what I'm trying to understand. Perhaps you could help me with something...
+5G SPEEDS ANYWHERE AT ANY TIME. WATCH. DOWNLOAD. UPLOAD. COMMUNICATE AT THE SPEED OF LIGHT
+
+Another poster says.
+
+GO TRAIN. HAPPY TO TAKE YOU TO YOUR OFFICE
+
+The train has already starting moving. Socrates watches the landscape go by. Still the shadows of the buildings break up the landscape of the waking city.
+
+ANNOUNCEMENT: Shrewsbury. This stop is Shrewsbury.
+
+Commuters are shuffling onto the train again. Seats are almost full as DARWIN, 50, sits across from Socrates.
+
+Wearing a field jacket over business casual clothes, Darwin is carrying a weathered leather messenger bag and green Patagonia pants.
+
+SOCRATES: Nice mama jeans.
+
+DARWIN: She bought them.
+
+SOCRATES: She must have wanted you to stand out. I can see why sitting among this crowd.
+
+DARWIN: Not a fan one's travelling peers.
+
+SOCRATES: Someone could be choking and I doubt anyone would notice. It's the attention, seems to be have been stolen or something thereabouts. Whatever I am, I am not a peer by that standard.
+
+DARWIN: I don't much look at humans to be honest. But travelling does require an escape.
+
+SOCRATES: Journeyed far before?
+
+DARWIN: I've been on a few long journeys. Charles. Nice to meet you.
+
+The two men shake hands.
+
+SOCRATES: Socrates. My pleasure. So, why would the ever caring mother purchase such ugly pants.
+
+DARWIN: They help me. I'm what they call a naturalist. I study animals, creatures, bugs, worms, birds, and creatures lives out in nature among the leaves, mud, and dirt.
+
+SOCRATES: Quite unclean. I could never. I prefer the finer pursuits.
+
+DARWIN: What are finer pursuits pray tell.
+
+SOCRATES: What is, is the question. What is truth, justice, virtue, the good society. I usually need a few others to ask questions, and then we answer them, over and over until we get somewhere.
+
+DARWIN: The answer?
+
+SOCRATES: We get closer to one. We learn moderation at least, because how close of an answer can we humans ever get to. What do you do?
+
+DARWIN: Go out into nature. Observe. Collect samples. Have an idea to explain what I see, and use the evidence to determine if the idea was correct. Then do it all over again.
+
+SOCRATES: The two methods seems similar.
+
+DARWIN: They're probably related in some way. What have been some of your happiest realizations.
+
+SOCRATES: Oh am I happy you wear those ugly jeans. Nothing. Or understanding that I know that I know nothing is the root of all knowledge.
+
+DARWIN: No emotions.
+
+SOCRATES: Get them out of my city and souls. Unless the city is under threat. Then we need some bravado. But otherwise, knowledge starts with the wisest words "I know nothing". Then we can understand our souls, tame our beastly natures, which opens us to virtue, and finally wisdom.
+
+DARWIN: Sounds like a solid foundation for a civilization.
+
+SOCRATES: They're open ideas, anyone can use them. Maybe the method will find an audience. But, I must be honest. It can cause some tension.
+
+DARWIN: Not among God?
+
+SOCRATES: The gods, no. The kings, lords, and parental masters.
+
+DARWIN: I hear that.
+
+SOCRATES: You have experience?
+
+DARWIN: You know those observations I like to make.
+
+SOCRATES: In the mud.
+
+DARWIN: Precisely. We'll, I made a few, connected some dots, and upended the perceptions of many people.
+
+SOCRATES: Score one for observation. That method might catch on too.
+
+DARWIN: I expect big things. Bigger thinks. Newton really deserves lots of credit. The gravity thing and all.
+
+Socrates indicates he's not following. 
+
+DARWIN: Wisest of them all but not too knowledgeable yet. Issac Newton, from the Cambridge stop, he had a apple fall on his head, as the story goes, and realized something big.
+
+SOCRATES: I like these realizations.
+
+DARWIN: Indeed. You see, Newton realized if the apple falls on Earth, then it would fall up on the Moon, and planets and everywhere. The same force that applies to us here, applies everywhere!
+
+SOCRATES: Like universal truth!
+
+DARWIN: Yes!
+
+The two share a moment of silence. They look around, Socrates at the people in the train, Darwin outside at the trees and birds.
+
+SOCRATES: People still looking at their phones?
+
+DARWIN: They are busy working, like ants.
+
+SOCRATES: Why would you reduce humanity to bugs?
+
+DARWIN: We share so much in common.
+
+SOCRATES: I do see them at the agorae. Maybe I should stop walking all over them. Instead I can say "Hello Ant, want to come to Agathon party tonight. There is lots of figs." Might make better company.
+
+DARWIN: They wouldn't disagree with you.
+
+SOCRATES: They aren't sophists, is what I mean. You know those people who will say anything someone pays them too really get under my skin.
+
+DARWIN: Like the ants.
+
+Darwin gives Socrates a minute to relax.
+
+SOCRATES: What truth can ants take you? Expect what it means to be an ant?
+
+DARWIN: That is not what I do, although I suspect another naturalist will come to great conclusions answering that question.
+
+SOCRATES: Aristotle might like this. He likes going on walks.
+
+DARWIN: I'm aware of him. He has a stupendous mind, but made some errors along the way.
+
+SOCRATES: Good thing we got methods to correct them.
+
+DARWIN: Good point.
+
+SOCRATES: So...what happened?
+
+DARWIN: Let's go back Newton.
+
+SOCRATES: The apple guy.
+
+DARWIN: And gravity. Optics. Calculus. A bunch of stuff. But the point is, Newton finished the revolution in the world. He proved that the Earth orbits the Sun.
+
+SOCRATES: No way.
+
+DARWIN: It's true. These rays, coming from the Sun, are always shining. The earth rotates into it like this.
+
+Darwin takes his tennis ball, and rotates it around the light, as the Earth spinning as it orbits the Sun.
+
+SOCRATES: This would be quite the realization. What about stellar parallax? Why don't the stars move in the sky, if our Earth is moving?
+
+DARWIN: They are just that far away. The Sun is just another star.
+
+SOCRATES: Anaxagoras was right? Good for him. 
+
+Darwin sees something outside. Two birds. He then makes a note and starts a sketch in his notebook.
+
+DARWIN: You don't write anything done?
+
+SOCRATES: I have the worst penmanship. Can't make heads or tails of it. Good memory. Doesn't cause me any problems.
+
+DARWIN: Well... it is what it is.
+
+SOCRATES: How did they see the stars move?
+
+DARWIN: The telescope.
+
+SOCRATES: The what?
+
+DARWIN: Telescope. Two lenses opposite each other, magnify objects. We got a microscope too.
+
+SOCRATES: I'm not following.
+
+DARWIN: 
+SOCRATES: 
+DARWIN: 
+
+
+---
+
+DARWIN: What if we're living in an ant hill, one made of technology instead of dirt.
+
+SOCRATES: Tell me more about evolution by way of natural selection.
+
+...as the sun rises above the horizon.
 
 
 ## Introduction 
@@ -330,11 +573,17 @@ As a result, instead of inventing new tools to address modern problems, we work 
 
 The suburban, car-dependent culture and the idea of a lifelong career are becoming increasingly unsustainable. They are struggling if not dying branches on the tree of life. Yet, we do not have an identity that accepts these pains and uses modern tools to create a new way of life.
 
-Boomers inadvertently limit younger generations' economic opportunities by maintaining outdated office technologies and work cultures. By preserving their familiar Microsoft Office tools, traditional commuting patterns, and offshoring strategies, they unintentionally restrict technological evolution in our economy. While retaining much institutional knowledge and product expertise, most boomers still lack understanding of fundamental modern technologies like HTML and SQL, and remain unfamiliar with the transformative potential of open-source technologies. As a result, potential technological innovations are reduced to consumer products rather than becoming tools to a new way of life we need to survive, resource-gather, and thrive in a changing world.
+Boomers inadvertently limit younger generations' economic opportunities by maintaining outdated office technologies and work cultures. By preserving familiar Microsoft Office tools and traditional commuting patterns, they unintentionally restrict technological evolution. Most lack understanding of modern technologies like HTML and SQL, reducing potential innovations to mere consumer products rather than transformative tools for survival.
 
-For example, one insurance building appraiser I worked with insisted on using a measuring wheel to create blueprints. His work was excellent but took days to complete, while other appraisers used lasers and finished in hours. Another boomer, a CEO, refused to allow traveling insurance adjusters to use smartphones and text messaging for communicating with homeowners, insisting good customer service required in-person meetings and landline phones despite customers' already embracing faster options in the regular lives. Again, nobody intends to be obstinate, but those with more to lose have good read to resist change. Boomers, having lived through the "Golden Age of Capitalism" and being among the richest generations in history amid massive technological shifts, thus often hold back progress to protect their positions.
+For example, an insurance appraiser I worked with used a measuring wheel for blueprints, taking days to complete what others did in hours with lasers. Another boomer, the CEO, banned smartphones for adjusters, insisting on landline phones despite customers already embracing faster communication in their daily lives. Again, nobody intends to be obstinate, but those with higher position to lose have good read to resist change.
 
-Evolution cannot select us for our best intentions. Despite natural selection constantly rejecting many aspects of our modern lifestyle, we remain too fixated on our genes and personality to listen and adapt. To purposefully evolve a better way of life, we must tune our identity to seek out, embrace, and protect new tools.
+The youth recognize their future is being sacrificed, reflected in the huge popularity of dystopian stories like _The Hunger Games_ and _Divergent_. Techvolution offers an alternative: by understanding technological evolution, we can transform powerlessness into agency, turning dystopian fears into a roadmap for deliberate, positive change.
+
+The key lesson is that evolution cannot select us for our best intentions. Despite natural selection constantly rejecting many aspects of our modern lifestyle, we remain too fixated on our genes and personality to listen and adapt. To purposefully evolve a better way of life, we must tune our identity to seek out, embrace, and protect new tools; that are—for now—being held back.
+
+This is not a proclamation against boomers. Because as the history of collapses go, be it Royalist France or the Soviet Union, its the elderly pensioners who see their benefits cut the worst, and thus they should be the first to defend against our society's worsening problems.
+
+To solve our problems with upgraded tools we need to see ourselves as we are.
 
 Answer this yourself: what is more concerning in your daily life—if you sprain your ankle or if your water pipes freeze and burst while you are on vacation? Our ancestors might get caught by a lion in the first scenario, but today you would likely shrug it off, call in sick, and watch Netflix for a few days. But the second may cause you to go bankrupt. I should know; I had to deny some claims because the homeowner broke an unknown condition of their insurance policy. If the homeowner were technologically self-aware enough to turn the home's water off—a two-minute job—they would save themselves years of hardships and earn a wink from evolution.
 
@@ -344,23 +593,21 @@ Unaware of most modern tools, we resemble raccoons opportunistically using techn
 
 ### Avoiding Evolution's Stare
 
-It has been almost two centuries since Charles Darwin proposed the theory of evolution in 1859. His idea was radical, challenging much of the established knowledge of the time. Religious individuals believed Earth was only a few thousand years old, while scientific thinkers estimated perhaps a few million years; everyone knew that if all life forms had evolved from a common ancestor, as Darwin suggested, then more time was surely needed to account for the diversity observed on Earth.
+Charles Darwin proposed evolution in 1859. His idea was radical, challenging much of the established knowledge of the time. Religious individuals believed Earth was only a few thousand years old, while scientific thinkers estimated perhaps a few million years; everyone knew that if all life forms had evolved from a common ancestor, as Darwin suggested, then more time was surely needed to account for the diversity observed on Earth.
 
 Because evolution explained the observable world so precisely, evidence accumulated rapidly, transforming both scientific and popular understanding. Within decades, humanity adopted a new paradigm of evolution via natural selection, and scientists demonstrated its intricate mechanisms—ecosystems, co-evolution, genetic variation, and speciation—that populated our planet with an astonishing diversity of life over billions of years.
 
 Simultaneously, fields such as physics, chemistry, geology, and mathematics were advancing, enriching humanity with wonders like electricity, medical cures, and aviation. As nature revealed its mysteries, one might ask: why did we not apply evolution's principles to our own civilization?
 
-We attempted to do so, but because we saw only a genotype or phenotype in our reflection, we were destined to fail. Always remember that evolution does not prescribe good ideas; it simply selects against the bad ones. Two of the worst ideas ever subjected to evolutionary forces were fascism and communism, ideologies based on evolving humanity through only one part of our identity. Both wanted to "purify" humanity; either via the genotype using eugenics or the phenotype through social engineering.
+We attempted to do so, but because we saw only a genotype or phenotype in our reflection, we were destined to fail. Always remember that evolution does not prescribe good ideas; it simply selects out the bad ones. Two of the worst ideas ever subjected to evolutionary forces were fascism and communism, ideologies based on evolving humanity through only one part of our identity. Both wanted to "purify" humanity; either via the genotype using eugenics or the phenotype through social engineering.
 
-Humanity has had bad ideas before. We used to think God chose a person to be a monarch with absolute authority over society. Fascism and communism were particularly bad because they had access to modern science while being based on flawed premises. Genotype-focused fascist and Nazi scientists developed theories that attributed human success solely to genetics—for example, claiming that head shape determined intelligence. Phenotype-focused communist and Soviet scientists insisted on absolute genetic equality, attributing all success to environmental factors, even in cases like plant seeds.
+Of course, humanity has had bad ideas before. But Fascism and communism were particularly bad because they had access to modern science, which they used to justify their false premises. Genotype-focused fascist and Nazi scientists developed theories that attributed human success solely to genetics—for example, claiming that head shape determined intelligence. Phenotype-focused communist and Soviet scientists insisted on absolute genetic equality, attributing all success to environmental factors, even in cases like plant seeds.
 
 We access to modern machinery, mathematics, and other advancements, both ideologies had the means to enact mass imprisonment, forced sterilization, and the Holocaust, while the latter did mass incarcerations and executions during the Great Purges and caused devastating famines through agricultural policies that outlawed genetic studies and planted crops unsuited to specific climates.
 
-As the saying goes, with great power comes great responsibility, and both ideologies failed to better humanity.
+While eugenics and social engineering entered and harmed our society as well, the ideologies our society are based on were invented before evolution was even discovered. Thus, it was easier for us to temper the worst consequences and finally move beyond genotype versus phenotype purification. However, they persist in a more nuanced form in the ongoing "nature versus nurture" debate between conservative and progressive perspectives. Conservatives tend to emphasize genetic potential, advocating for free-enterprise approaches and minimal government intervention, while progressives focus on overcoming genetic limitations through targeted government programs and mandated social support.
 
-While eugenics and social engineering entered and harmed our society as well, as discussed earlier, the ideologies our society are based on were invented before evolution was even discovered. Thus, these scientific misconceptions about genotype versus phenotype were easier to move beyond. However, they persist in a more nuanced form in the ongoing "nature versus nurture" debate between conservative and progressive perspectives. Conservatives tend to emphasize genetic potential, advocating for free-enterprise approaches and minimal government intervention, while progressives focus on overcoming genetic limitations through targeted government programs and mandated social support.
-
-We do need both of these perspective. One side loves to create wealth, while the other loves to distribute it. Accepting our technological nature offers a third dimension that bridges these perspectives. Instead of attempting to purify our genotypes or phenotypes, we should refine our narratives, belief systems, and ideologies to harness evolutionary laws to create and distribute  new tools above all else.
+We do need both of these perspective because one side loves to create wealth, while the other loves to distribute it. Accepting our technological nature offers a third dimension that bridges these perspectives. Instead of attempting to purify our genotypes or phenotypes, we should refine our narratives, belief systems, and ideologies to harness evolutionary laws to continually create and distribute new tools.
 
 Our new identity will require us to accept the occasional loss of personal and professional identities that technological evolution demands. The abject failures of communism and fascism serve as a stark reminder to embrace personal moderation and adaptability instead of trying to hold evolution back for personal gain.
 
@@ -378,7 +625,7 @@ An ideology-first perspective frequently misleads us and causes us to interpret 
 
 These misconceptions harm those in authority the most, as they often claim biological credit for the tools they use, thereby halting the continuous technological evolution essential for all individuals and societies to adapt and thrive. Historical examples show that regimes with strong ideological foundations—such as the Confederate States of America, Nazi Germany, and the Soviet Union—were unsustainable in the long term, partly because they promoted genotype-based identities (like racism and sexism) or phenotype-based identities (like classism and elitism) as paths to prosperity.
 
-There is no inherent human genotype or phenotype superiority. The key to our success lies in enhancing baseline capabilities through technology. Even more counterintuitive is the fact that, like the squirrel and the oak tree, we depend on others to control tools that complete the technological ecosystem we rely on. From Ancient Rome's dominance over Celtic tribes to modern America's victory over fascism and communism, history shows that successful civilizations emulate evolution by expanding technological ecosystems with innovations like roads, sewers, libraries, eyeglasses, calculators, clinics, and smartphones. This list of adaptations should continually grow and diversify to occupy every niche, as evolution teaches that individual organisms prosper only within healthy ecosystems. As discussed earlier boomers did not facilitate evolution and as a result many are working well into retirement.
+There is no inherent human genotype or phenotype superiority. Our success depends on enhancing capabilities through technology, and like the squirrel and oak tree, we rely on others technological empowerment to sustain the technological ecosystem we depend on. From Ancient Rome to modern America, successful civilizations have expanded through innovations like roads, libraries, and smartphones. Evolution teaches that organisms prosper within diverse, adaptable ecosystems.
 
 We should want to give everyone a pencil, purely out of self-interest. We never know who might be the next "black moth" that saves us. After all, once England reduced its industrial soot, the tree bark returned to its pale color, and it was the rare peppered variant moth that ensured the species' survival.
 
@@ -399,16 +646,6 @@ And we are naturally equipped for this role. Researching this book revealed joyo
 However, until humanity intentionally accelerates the technological evolution we depend on, we remain like raccoons trapped by secured waste bins—enduring restaurant closures, psychological disorders, political animosity, civil wars, revolutions, and the cycles of imperial rise and fall. We mistakenly attribute these events to ideology, when in reality, they stem from the unnoticed co-evolution, variation, and speciation of technological ecosystems, which occur continuously around us, indifferent to human-constructed identities, borders, and aspirations.
 
 Only a new identity will allow us to glimpse behind the curtain of evolution and learn to harness its powers, as we have already done in physics, chemistry, and medicine. The next step toward self-realization is to ask if we must cooperate like trees and squirrels do, and then who are we competing against in the game of life?
-
-<!-- ---
-- validating pain...The point of the modified milgram. Is that we invalidate pain. I.e global warming is wrong or men play sports against women. When we should be responding to it with technology. OSS validates pain by solving it.
-
-- a dispute that can be solved with the evolutionary phrase "local need solved by local greed". But if all we have is incomplete genotype or phenotype definitions, we are raccoons doomed to conflict over "pencils" and other resources we don't fully understand.
-
-- we won't move on, evidenced by MS Office and the never ending stream of rehashed movie franchises...
-- One of the many joys in researching this book has been learning to see beyond our multiple identities rooted in the past and meet the individuals inside. Free to define themselves by the future, their inner spark reappears to learn new tools that will achieve their passions—be it helping to cure cancer, creating better roadways, or building a strong deck where families can relax. The music, heroes, social groups we love need not change whilst pursuing our dreams.
-
-Researching this book joyously revealed how we can see beyond past identities to meet the individuals inside. When free to define themselves by the future, our inner spark to learn reappears. Soon people will tell you their passion for sewing custom clothes, creating more efficient homes, optimizing their 3D printer. The music, heroes, social groups we love need not change whilst pursuing our dreams. -->
 
 ## Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
 
@@ -2129,3 +2366,56 @@ Learning who your teacher is. Not knowing Techvolution is like not knowing how y
 --
 
 - explore historical examples of technological identity shifts. One day Tsar is and then he's not.
+
+## Notes
+
+### Preface - A
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Foreword - B
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Introduction - C
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
+
+
+
+### Chapter 2—What Life Is: The Creator of Players
+
+
+
+### Chapter 3—What Evolution Is: The Editor of Players
+
+
+
+### Chapter 4—The History of Life's Evolution
+
+
+
+### Chapter 5—Our History from Trees to Fire
+
+
+
+### Chapter 6—The History of Civilization
+
+
+
+### Chapter 7—The Ancients: Socrates Starts Self-Reflection
+
+
+
+### Chapter 8—The Moderns: Self-Reflection Turns Scientific
+
+
+
+### Chapter 9—Techvolution: Earn Perpetual Prosperity by Removing Technological "Camels" from the Amazon
+
+
+
+### Epilogue—The Next Books: Starting Starfleet
+
