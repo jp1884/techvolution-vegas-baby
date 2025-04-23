@@ -99,6 +99,7 @@ _"It is not the strongest of the species that survives, nor the most intelligent
 - Chapter 8—The Moderns: Self-Reflection Turns Scientific
 - Chapter 9—Techvolution: Earn Perpetual Prosperity by Removing Technological "Camels" from the Amazon
 - Epilogue—The Next Books: Starting Starfleet
+- Notes
 
 <!-- Chapters: Rough notes per each 
 Chapter 1—The Rules of the Game—Where do we live?
@@ -178,7 +179,7 @@ A technological identity is precisely what ideologies strip away from us. For ex
 
 That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy they have done an admirable job. Yet, Conservatism, Progressivism, and other belief systems were conceived centuries ago by people seeking to solve their society's problems, primarily addressing the hunger, illiteracy, and poverty of civilization before the Industrial Revolution.
 
-Ideological thinkers still offer valuable insights about societal communication and governance, but their worldview is not rooted in our modern scientific and technological world. They lived without plastic, wrote with bird feathers, and no one understood how evolution shapes the state of nature. Thus, we should not pick one ideology in order to conquer the others. Instead, they are frameworks to be studied as we integrate a technological identity into our consciousness.
+Ideological thinkers still offer valuable insights about societal communication and governance, but their worldview is not rooted in our modern scientific and technological world. They lived without plastic, wrote with bird feathers, and did not understand how evolution shapes the state of nature. Thus, we should not pick one ideology in order to conquer the others. Instead, they are frameworks to be studied as we integrate a technological identity into our consciousness.
 
 In fact, Conservatism's emphasis on producing wealth and Progressivism's drive for social diversity become complementary forces when viewed through a technological identity.
 
@@ -186,7 +187,11 @@ Conservatism and Progressivism empower each other because diversity and mass pro
 
 Of course, as we know, modern progressives and conservatives do not cooperate. For example, as documented by Andris et al., Congressional partisanship has been increasing exponentially for over sixty years with no sign of abating or reversing.
 
-As a result, our challenges will keep mounting. Here are a few of them for reference. Since 1991, Americans' wages have barely kept pace with inflation—median household income increased by only 7,100 over thirty years. Meanwhile, the cost of living has skyrocketed: housing prices have jumped 374 percent, health-care premiums have increased 344 percent, and student debt has grown from 340 billion to $1.7 trillion. Economic betterment has stopped, with only half of Americans now able to earn more than their parents, compared to 90 percent in 1970. These are not just statistics—it is evidence of our failure to innovate and adapt new tools.
+As our economic challenges continue to mount, the statistics paint a stark picture of financial strain. Since 1991, Americans' wages have struggled to keep pace with inflation, with median household income growing by just 27.9 percent over thirty years. The cost of living has dramatically outpaced this modest increase: housing prices have soared 345 percent, health-care premiums have risen 49 percent between 2013 and 2023, and public college tuition has more than doubled.
+
+Unsurprisingly, this widening economic gap has driven debt to unprecedented levels. Student loan debt exploded from nearly 481 billion in 2006 to over 1.7 trillion by 2021. For young adults aged 18-24, mortgage costs tell a similar story—average home debt jumped from under 40,000 in 1992 to $117,000 in 2022. Economic betterment has stopped, with only half of Americans now able to earn more than their parents, compared to 90 percent in 1940.
+
+These are not just cold statistics—they represent a systemic failure to innovate and adapt new economic tools.
 
 Ideologues say better government policy is enough to change our fate. Evolution demands a change of adaptation, that is, tools.
 
@@ -1424,7 +1429,7 @@ By accepting we are just another creatures, we can gain a fresh perspective—on
 
 To reach this new understanding, we continue our journey by tracing humanity's first steps in the ongoing saga of life's evolution. It is another of the recurring storyline on how living organisms, starting from humble beginnings, continually expands their reach, enhances their senses, and utilizes their environments in the relentless pursuit of information that will guide adaptations. The steps of humanity's early evolution are the same. Bound by the same laws of evolution applied, early humanity ventured out into the world, increase its diveristy and its adaptations powers to harvest resources and be more self-sufficient.
 
-Knowing evolution of early humanity tells us much about ourselves. These same requirements molded humans to give us the physiques and psychologies we have today. This new branch on the tree of life started when a life form left the trees and learned to walk.
+Knowing evolution of early humanity tells us much about ourselves. These same requirements molded humans to give us the physiques and psychologies we have today. This new branch of the tree of life started when a life form left the trees and learned to walk.
 
 - so humans have the same requirement to pass on their genes and continue their adaptations. If early man was going to survive down from the trees, what did they need to evolve to capture their niche and pass on their genes/adaptation?
 
@@ -2371,7 +2376,32 @@ Learning who your teacher is. Not knowing Techvolution is like not knowing how y
 
 ### Preface - A
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<!-- rise of partisanship in US Congress -->
+- Andris, Clio, David Lee, Marcus J. Hamilton, Mauro Martino, Christian E. Gunning, and John Armistead Selden. "The Rise of Partisanship and Super-Cooperators in the U.S. House of Representatives." PLOS ONE 10, no. 4 (April 21, 2015). https://doi.org/10.1371/journal.pone.0123507.
+
+<!-- Rise of wages -->
+- The numbers are $61,960 in 1991 (in 2023 dollars) to $79,260 in 2021 (in 2023 dollars) a $17,300 increase, or 27.9%.
+- U.S. Census Bureau. "Table H-5. Race and Hispanic Origin of Householder -- Households by Median and Mean Income." Historical Income Tables: Households. Accessed April 24, 2023. https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html.
+
+<!-- Housing prices -->
+- The average for all US states was a 345% in the Change in FHFA State House Price Indexes from 1991 to 2024.
+- Federal Housing Finance Agency. "House Price Index Datasets." Accessed April 24, 2023. https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
+
+<!-- Health Insurance increase -->
+- Health insurance costs rose from $16,029 in 2013 to $23,938 2023, a 49 percent increase.
+- Kaiser Family Foundation. "Average Annual Family Premium per Enrolled Employee For Employer-Based Health Insurance, 1999-2021." Accessed April 24, 2023. https://www.kff.org/other/state-indicator/family-coverage.
+
+<!-- Tuition Increase -->
+- Dickler, Jessica, and Annie Nova. "This Is How Student Loan Debt Became a $1.7 Trillion Crisis." CNBC, May 6, 2022. https://www.cnbc.com/2022/05/06/this-is-how-student-loan-debt-became-a-1point7-trillion-crisis.html.
+
+<!-- Student loans -->
+- Board of Governors of the Federal Reserve System. "Consumer Credit Outstanding (Levels)." Accessed April 24, 2023. https://www.federalreserve.gov/releases/g19/hist/cc_hist_memo_levels.html.
+
+<!-- Mortgage Increase -->
+- Pew Research Center. "Key Milestones for Young Adults Today Versus 30 Years Ago." January 25, 2024. https://www.pewresearch.org/social-trends/2024/01/25/key-milestones-for-young-adults-today-versus-30-years-ago/.
+
+<!-- Generational Mobility -->
+- Chetty, Raj, David Grusky, Maximilian Hell, Nathaniel Hendren, Robert Manduca, and Jimmy Narang. "The Fading American Dream: Trends in Absolute Income Mobility Since 1940." Opportunity Insights, December 2016. https://opportunityinsights.org/wp-content/uploads/2018/03/abs_mobility_paper.pdf.
 
 ### Foreword - B
 
@@ -2380,7 +2410,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Introduction - C
 
 <!-- - Rise of Dystopia in YA -->
-Scholes, Justin, and Jon Ostenson. "Understanding the Appeal of Dystopian Young Adult Fiction." The ALAN Review (Winter 2013). https://scholar.lib.vt.edu/ejournals/ALAN/v40n2/pdf/scholes.pdf.
+- Scholes, Justin, and Jon Ostenson. "Understanding the Appeal of Dystopian Young Adult Fiction." The ALAN Review (Winter 2013). https://scholar.lib.vt.edu/ejournals/ALAN/v40n2/pdf/scholes.pdf.
 
 ### Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
 
