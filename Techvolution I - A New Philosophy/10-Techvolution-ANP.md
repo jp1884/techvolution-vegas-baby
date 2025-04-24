@@ -217,7 +217,7 @@ All life forms should work together because Earth is a massive bucket, a vast ga
 
 The story of life now involves technology. Its many gadgets, tools, and inventions are already changing the world. Helping you find the tools that solve the problems of your environment is the purpose of this book. A recurring theme is how to combat any story that tries to subvert our evolutionary requirement.
 
-Earth will prosper to new heights when human conflict is minimized and cooperation is maximized, not through wishful storytelling or ideological idealism, but through the innate drive that propels all life to seek resources, evade threats, form alliances, and adapt. This drive often shows up in everyday situations, such as what I learned as a child when ordering pizza, because our limitations are not who we are, but challenges that better tools and teammates can solve. Techvolution provides a new framework to understand this paradigm and consciously support the evolution of life on Earth.
+Earth will prosper to new heights when human conflict is minimized and cooperation is maximized, not through wishful storytelling or ideological idealism, but through the innate drive that propels all life to seek resources, evade threats, form alliances, and adapt. This drive often shows up in everyday situations, such as what I learned as a child when ordering pizza, because our limitations are not who we are, but challenges that better teammates and tools can solve. Techvolution provides a new framework to understand this paradigm and consciously support the evolution of life on Earth.
 
 ## Foreword
 
@@ -534,11 +534,11 @@ Genes are a creature's blueprint. Each DNA segment provides specific instruction
 
 Consider the peppered moth during England's Industrial Revolution. As trees darkened due to smog and soot, the rare black moth gained a camouflage advantage and its numbers surged. Evolution did not create this mutation; instead, it favored the black moth through natural selection. This process eliminates harmful genes while allowing organisms with beneficial traits to survive and reproduce.
 
-This continuous process of genetic variation and environmental selection drives the incremental changes we observe in species over time, sometimes with glacial changes as geology changes over eons or suddenly with events like floods, eruptions, or factory soot. Evolution favors genetic diversity—including mistakes—because it increases the likelihood of producing life forms that can survive and reproduce in changing environments.
+This continuous process of genetic variation and environmental selection drives the incremental changes we observe in species over time, sometimes with glacial changes as geology changes over eons or suddenly with events like floods, eruptions, or factory soot. Natural selection can only work with what already exists, thus evolution favors genetic diversity of all kinds because it increases the likelihood of producing life forms that can survive and reproduce in changing environments.
 
-The next way a creature can stand out is its phenotype. The phenotype is the collection of lessons, knowledge, and trauma that makes a life form's personality. Think of two acorns, one planted in a tall forest, the other in an open field. The first grows lean and tall to reach sunlight, while the other grows bushier and more robust. This is but one example how creatures become "a product of their environment." 
+The next way a creature can stand out is its phenotype. The phenotype is the observable characteristics of an organism resulting from the interaction between its genetic makeup and environmental influences, encompassing physical traits, behavioral adaptations, and learned experiences. Think of two acorns, one planted in a tall forest, the other in an open field. The first grows lean and tall to reach sunlight, while the other grows bushier and more robust. This is but one example how creatures become "a product of their environment."
 
-Phenotypic adaptations are vastly different. Some are immediate, like a lizard changing color for camouflage, while others develop over generations, such as an elephant mother teaching her young where the water holes are. Evolution does not prefer one phenotype over another; like with genes, it wants huge diversity to increase the chance of finding those best suited to survive and reproduce in the current environment.
+Phenotypic adaptations show remarkable diversity. Some are immediate, like a lizard changing color for camouflage, while others develop over generations, such as an elephant mother teaching her young where the water holes are. Natural selection does not prefer one phenotype over another; like with genes, it wants huge diversity to increase the chance of finding those best suited to survive and reproduce in the current environment.
 
 The third way creatures stand out is the extended phenotype. These are adaptations creatures build themselves. Think of bird nests, beaver dams, and ant hills. Although made of foreign material, these things act like any other organ by helping a creature better survive.
 
@@ -546,7 +546,7 @@ Take the common squirrel as an example. The small creature survives frigid winte
 
 Unlike genes and phenotypes, extended phenotypes become part of the environment and are available for other creatures to use. For example, crabs use seashells, ants occupy termite hills, and bats inhabit old bird nests. This shows that the creator of an extended phenotype is not always its user.
 
-Raccoons are the ultimate example. Originally from the tropical forests of Central America, these intelligent creatures naturally create dens in hollow trees and grow thicker fur with fat stores for winter. However, unlike squirrels, raccoons do not naturally insulate their burrows, store food, or fully hibernate. Still, they have managed to spread their range across North America, all because of human civilization's barns, garages, and garbage. Although raccoons created none of these things, they can use them, and therefore life selects them in great numbers, even though, unlike squirrels who plant millions of nuts each year, raccoons have no reciprocal contribution to the ecosystem that provides for them.
+Raccoons are the ultimate example. Originally from the tropical forests of Central America, these intelligent creatures naturally create dens in hollow trees and grow thicker fur with fat stores for winter. However, unlike squirrels, raccoons do not naturally insulate their burrows, store food, or fully hibernate. Still, they have managed to spread their range across North America, all because of human civilization's barns, garages, and garbage. Although raccoons created none of these things, they can use them, and therefore life selects them in great numbers, even though, unlike squirrels who plant millions of nuts each year, raccoons have no reciprocal contribution to the technological ecosystem that provides for them.
 
 So, to stay a player in the game of life, creatures can stand out via their genes, phenotypes, and extended phenotypes. The right mixture means an animal can harvest enough resources and protect itself long enough to procreate and thereby keep playing the game.
 
@@ -570,7 +570,7 @@ The ultimate lesson was how people struggle to understand modern technologies. W
 
 I was so often a customer's best hope, yet all I had was a Google search and a stingy checkbook.
 
-Modern technology has completely changed how evolution selects us in the game of life. Just compare the top causes of death in modern America and ancient societies (circa 500 BC) to see our new selection pressure. Modern America's list is dominated by chronic diseases like heart disease, diabetes, and suicide, each linked to the modern lifestyle of sedation and isolation. Ancient societies' top causes were infectious diseases, injuries, and accidents, related to poor sanitation, limited medical care, and wars. It is no surprise that raccoons have problems with tooth decay, obesity, and car crashes among their top killers.
+Modern technology has changed how evolution selects us. Comparing top causes of death in modern America and ancient societies (circa 500 BC) reveals our new selection pressure. Modern America's list is dominated by chronic diseases like heart disease and diabetes, linked to our sedentary lifestyle that is so pervasive raccoons suffer from many of the same problems. In contrast, ancient societies suffered greatly from infectious diseases and injuries due to poor sanitation, limited medical care, and frequent wars. Notably, infant mortality has dropped dramatically, from approximately 50 percent in the Bronze Age to under 0.6 percent today.
 
 Unless a sudden catastrophe like factory soot or a meteor impact occurs, species typically die off gradually. Our falling birthrate is a prime example. While many blame younger generations for being negligent, the evolutionary truth is more complex: our economy remains trapped in a bygone era's lifestyle. Baby boomers continue to monopolize resources and block technological evolution, inadvertently clinging to the so-called "American Dream" rooted in their 1950s and 1960s upbringing.
 
@@ -2408,6 +2408,25 @@ Learning who your teacher is. Not knowing Techvolution is like not knowing how y
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ### Introduction - C
+
+<!-- Leading causes of death in USA 2022 -->
+- Per the Center for Disease Control the leading causes of death in the USA in 2022 were:
+Heart disease: 702,880, Cancer: 608,371, Accidents (unintentional injuries): 227,039, COVID-19: 186,552
+Stroke (cerebrovascular diseases): 165,393, Chronic lower respiratory diseases: 147,382, Alzheimer’s disease: 120,122, Diabetes: 101,209, Nephritis, nephrotic syndrome, and nephrosis: 57,937, Chronic liver disease and cirrhosis: 54,803
+
+- CDC National Center for Health Statistics. "Mortality in the United States, 2022." NCHS Data Brief No. 492. April 2024. Accessed April 2024. https://www.cdc.gov/nchs/data/databriefs/db492-tables.pdf#4.
+
+<!-- leading causes of death in ancient societies -->
+Norrie, P. "How Disease Affected the End of the Bronze Age." In A History of Disease in Ancient Times, 61–101. Cham: Springer International Publishing, 2016. Accessed March 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC7123324/.
+
+<!-- war deaths in societies -->
+Morris, Ian. War! What Is It Good For?: Conflict and the Progress of Civilization from Primates to Robots. Hardcover. New York: Farrar, Straus and Giroux, 2014. pg 110
+
+<!-- Infant mortality rate in modern USA -->
+CDC National Center for Health Statistics. "Infant Mortality Rates by State." Accessed April 2025. https://www.cdc.gov/nchs/pressroom/sosmap/infant_mortality_rates/infant_mortality.htm.
+
+<!-- Infant mortality rate bronze age -->
+Roser, Max. "Mortality in the past: every second child died." OurWorldinData.org. November 2024. Accessed April 2024. https://ourworldindata.org/child-mortality-in-the-past.
 
 <!-- - Rise of Dystopia in YA -->
 - Scholes, Justin, and Jon Ostenson. "Understanding the Appeal of Dystopian Young Adult Fiction." The ALAN Review (Winter 2013). https://scholar.lib.vt.edu/ejournals/ALAN/v40n2/pdf/scholes.pdf.
