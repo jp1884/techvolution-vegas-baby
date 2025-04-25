@@ -79,15 +79,17 @@ _"It is not the strongest of the species that survives, nor the most intelligent
 <!-- put in later in the book, helping readers recognize that their resistance to new technology is often just a generational perspective rather than an inherent limitation, thereby transforming what feels like a threatening future into a natural evolution we can consciously embrace via a new identity, politics, economics ie a new philosophy -->
 
 <!-- _"Technology is anything that was not around when you were born."_
-- Alan Kay -->
+—Alan Kay -->
 
 <!-- _“When you grow up you tend to get told the world is the way it is and … to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family, have fun, save a little money. That’s a very limited life. Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again.”_
 —Steve Jobs -->
 
+<!-- Evolution is not a ladder of progress, but a bush of diversity."
+—Ernst Mayr -->
+
 ## Table of Contents
 
 - Preface
-- Foreword
 - Introduction
 - Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
 - Chapter 2—What Life Is: The Creator of Players
@@ -179,7 +181,7 @@ A technological identity is precisely what ideologies strip away from us. For ex
 
 That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy they have done an admirable job. Yet, Conservatism, Progressivism, and other belief systems were conceived centuries ago by people seeking to solve their society's problems, primarily addressing the hunger, illiteracy, and poverty of civilization before the Industrial Revolution.
 
-Ideological thinkers still offer valuable insights about societal communication and governance, but their worldview is not rooted in our modern scientific and technological world. They lived without plastic, wrote with bird feathers, and did not understand how evolution shapes the state of nature. Thus, we should not pick one ideology in order to conquer the others. Instead, they are frameworks to be studied as we integrate a technological identity into our consciousness.
+Ideological thinkers still offer valuable insights about societal communication and governance, but their worldview is not rooted in our modern scientific and technological world. They lived without plastic, wrote with bird feathers, and did not understand how evolution shaped the state of nature. Thus, we should not pick one ideology in order to conquer the others. Instead, they are frameworks to be studied as we integrate a technological identity into our consciousness.
 
 In fact, Conservatism's emphasis on producing wealth and Progressivism's drive for social diversity become complementary forces when viewed through a technological identity.
 
@@ -570,7 +572,7 @@ The ultimate lesson was how people struggle to understand modern technologies. W
 
 I was so often a customer's best hope, yet all I had was a Google search and a stingy checkbook.
 
-Modern technology has changed how evolution selects us. Comparing top causes of death in modern America and ancient societies (circa 500 BC) reveals our new selection pressure. Modern America's list is dominated by chronic diseases like heart disease and diabetes, linked to our sedentary lifestyle that is so pervasive raccoons suffer from many of the same problems. In contrast, ancient societies suffered greatly from infectious diseases and injuries due to poor sanitation, limited medical care, and frequent wars. Notably, infant mortality has dropped dramatically, from approximately 50 percent in the Bronze Age to under 0.6 percent today.
+Modern technology has changed how evolution selects us. Comparing top causes of death in modern America and ancient societies (circa 500 BC) reveals our new selection pressure. Modern America's list is dominated by chronic diseases like heart disease and diabetes, linked to our sedentary lifestyle that is so pervasive raccoons suffer from many of the same problems. In contrast, ancient societies suffered greatly from infectious diseases and injuries due to poor sanitation, limited medical care, and frequent wars. Notably, infant mortality has dropped dramatically, from approximately 50 percent in the Bronze Age to under 0.8 percent in America today.
 
 Unless a sudden catastrophe like factory soot or a meteor impact occurs, species typically die off gradually. Our falling birthrate is a prime example. While many blame younger generations for being negligent, the evolutionary truth is more complex: our economy remains trapped in a bygone era's lifestyle. Baby boomers continue to monopolize resources and block technological evolution, inadvertently clinging to the so-called "American Dream" rooted in their 1950s and 1960s upbringing.
 
@@ -580,21 +582,21 @@ The suburban, car-dependent culture and the idea of a lifelong career are becomi
 
 Boomers inadvertently limit younger generations' economic opportunities by maintaining outdated office technologies and work cultures. By preserving familiar Microsoft Office tools, traditional commuting patterns, and love of offshoring, they unintentionally restrict technological evolution. Most lack understanding of modern technologies like HTML, SQL, and 3D printers, reducing potential innovations to mere consumer products rather than transformative tools for survival.
 
-For example, an insurance appraiser I worked with used a measuring wheel for blueprints, taking days to complete what others did in hours with lasers. Another boomer, the CEO, banned smartphones for adjusters, insisting on landline phones despite customers already embracing faster communication in their daily lives. Again, nobody intends to be obstinate, but those with higher positions to lose have gest reasons to resist change.
+For example, an insurance appraiser I worked with used a measuring wheel to measure the dimensions of large commercial buildings, taking days to complete what others did in hours with lasers. Another boomer, the CEO, banned smartphones for adjusters, insisting on landline phones despite customers already embracing faster communication in their daily lives. Again, nobody intends to be obstinate, but those with outdated skill sets have good reason to resist the change new tools bring.
 
-The youth recognize their future is being sacrificed, reflected in the huge popularity of young adult dystopian stories like _The Hunger Games_ and _Divergent_. Techvolution offers an alternative: by understanding technological evolution, we can transform powerlessness into agency, turning dystopian fears into a roadmap for deliberate, positive change.
+The youth recognize their future is being sacrificed, reflected in the huge popularity of dystopian stories like _The Hunger Games_ and _Divergent_ in young adult fiction. Techvolution offers an alternative: by understanding technological evolution, we can transform our sense of powerlessness into agency, turning dystopian fears into a roadmap for deliberate, positive change.
 
 The key lesson is that evolution cannot select us for our best intentions. Despite natural selection constantly rejecting many aspects of our modern lifestyle, we remain too fixated on our genes and personality to listen and adapt. To purposefully evolve a better way of life, we must tune our identity to seek out, embrace, and protect new tools that are—for now—being held back.
 
-This is not a proclamation against boomers. Because as the history of collapses go, be it Royalist France or the Soviet Union, it is the elderly pensioners who see their benefits cut the worst, and thus they should be the first to defend against our society's worsening problems.
+This is not a proclamation against boomers. Because as the history of collapses go, be it Royalist France or the Soviet Union, it is the elderly pensioners who see their benefits cut the worst, and thus they should be the first to fix our society's worsening problems.
 
 To solve our problems with upgraded tools we need to see ourselves as we are.
 
-Consider: what's more concerning—spraining an ankle or having water pipes burst during vacation? Our ancestors might fear a lion when facing a physical injury, but today we'd simply rest and watch Netflix. However, burst pipes could bankrupt you. I should know; I had to deny some claims because the homeowner broke an unknown condition of their insurance policy. If the homeowner was technologically self-aware enough to perform a simple two-minute water shut-off, they could prevent years of hardship and earn a wink from evolution.
+Consider: what's more concerning—spraining an ankle or having water pipes burst during vacation? Our ancestors might fear a lion when facing a physical injury, but today we'd simply rest and watch Netflix. However, burst pipes could bankrupt you. I should know; I had to deny some claims because the homeowner broke an unknown condition of their insurance policy. If the homeowner was technologically self-aware enough to perform a simple two-minute home water shut-off, they could prevent years of hardship and earn a wink from evolution.
 
 Yet, we rarely examine the "extended phenotype" part of ourselves. We remain barely conscious of our technological identities and fail to proactively develop skills that would satisfy evolutionary pressures. Far more people define themselves by gender, race, or heritage, compared to the tools they use to gather resources. Technological identity reveals who we truly are when we strip away labels—the tools we use, the problems we solve, and our ability to adapt and survive in a constantly changing world.
 
-Unaware of most modern tools, we resemble raccoons opportunistically using technology we encounter, believing that genetics, education, or parenting explain our success or failure. As evolution penalizes our ignorance, we must look in the mirror and be honest about what we see: we are people who passionately discuss human genes and/or personality but are in reality fighting to control tools, even ones as simple as a pencil.
+Unaware of most modern tools, we resemble raccoons opportunistically using technology we encounter, believing things like genetics, education, or ideologies explain our success or failure. As evolution penalizes our ignorance, we must look in the mirror and be honest about what we see: we are people who passionately discuss human genes and/or personality but are in reality fighting to control tools, even ones as simple as a pencil.
 
 ### Avoiding Evolution's Stare
 
@@ -604,19 +606,19 @@ Because evolution explained the observable world so precisely, evidence accumula
 
 Simultaneously, fields such as physics, chemistry, geology, and mathematics were advancing, enriching humanity with wonders like electricity, medical cures, and aviation. As nature revealed its mysteries, one might ask: why did we not apply evolution's principles to our own civilization?
 
-We attempted to do so, but because we saw only a genotype or phenotype in our reflection, we were destined to fail. Always remember that evolution does not prescribe good ideas; it simply selects out the bad ones. Two of the worst ideas ever subjected to evolutionary forces were fascism and communism. Each ideology was based on evolving humanity through only one part of our identity, either by "purifying" humanity via the genotype using eugenics or the phenotype through social engineering.
+We attempted to do so, but because we saw only a genotype or phenotype in our reflection, we were destined to fail. Always remember that evolution does not prescribe good ideas; it simply selects out the bad ones. Two of the worst ideas ever subjected to evolutionary forces were fascism and communism. These two ideologies attempted to impose their own selective criteria on humanity through eugenics and social engineering, respectively.
 
-Of course, humanity has had many bad ideas before. But Fascism and communism were particularly bad because they had access to modern science, which they used to justify their false premises. Genotype-focused fascist and Nazi scientists developed theories that attributed human success solely to genetics—for example, claiming that head shape determined intelligence. Phenotype-focused communist and Soviet scientists insisted on absolute genetic equality, attributing all success to environmental factors, even in cases like plant seeds.
+Of course, humanity has had many bad ideas before. But Fascism and communism were particularly horrible because they had access to modern science, which they tried to use to validate their false premises. Genotype-focused fascist and Nazi scientists developed theories that attributed human success solely to genetics—for example, claiming that head shape determined intelligence. Phenotype-focused communist and Soviet scientists insisted on absolute genetic equality, attributing all success to environmental factors, even in cases like plant seeds.
 
-With access to modern machinery, mathematics, and other advancements, one ideology enacted mass imprisonment, forced sterilization, and the Holocaust, while the latter also did mass incarcerations and executions during the Great Purges and caused devastating famines through agricultural policies that outlawed genetic studies and planted crops unsuited to specific climates.
+With access to modern machinery, mathematics, and other advancements, one ideology enacted mass imprisonment, forced sterilization, and the Holocaust, while the other did mass incarcerations and executions during the Great Purges and caused devastating famines through agricultural policies that criminalized genetic studies and planted crops unsuited to local climates.
 
-While eugenics and social engineering harmed our society, our ideologies predate evolutionary understanding, making it easier to move beyond misguided attempts of genotype or phenotype purification. However, the debate persists in a more nuanced form in the ongoing "nature versus nurture" debate between conservatives. The former emphasizes generating wealth through genetic potential and minimal government intervention, and progressives focus on distributing wealth to overcome genetic limitations through targeted social programs.
+While eugenics and social engineering harmed our society greatly, our ideologies predate evolutionary understanding, making it easier to move beyond misguided attempts of genotype or phenotype purification. However, the debate persists in a more nuanced form in the ongoing "nature versus nurture" debate between conservatives. The former emphasizes generating wealth through genetic potential and minimal government intervention, and progressives focus on distributing wealth to overcome genetic limitations through targeted social programs.
 
 Accepting our technological nature offers a third dimension that bridges these two required perspectives. Instead of attempting to purify our genotypes or phenotypes, we should refine our narratives, belief systems, and ideologies to harness evolutionary laws to continually create and distribute new tools.
 
 Our new identity will require us to accept the occasional loss of personal and professional identities that technological evolution demands. The abject failures of communism and fascism serve as a stark reminder to embrace personal moderation and adaptability instead of trying to hold evolution back for personal gain.
 
-It must be asked, with all the death and conflict caused by attempts to evolve our genotype or phenotype, why was it so difficult for humanity to recognize ourselves as technological beings? The reason is the same as why accepting evolution took so long: it contradicts the paradigms entrenched in our minds. Like all life forms, it is in our nature to compete in the game of life. Millions of years of evolution teach organisms to survive at all costs, and what better strategy for survival than possessing a tool that others lack or need.
+It must be asked, with all the death and conflict caused by attempts to evolve our genotype or phenotype, why was it so difficult for humanity to recognize ourselves as technological beings? The reason is the same as why accepting evolution took so long: it contradicts the paradigms entrenched in our minds. Like all life forms, it is human nature to compete in the game of life and survive at all costs. And what better strategy for survival than possessing a tool that others lack, or better yet, need.
 
 To illustrate, in the aftermath of fascist and communist atrocities, psychologist Stanley Milgram conducted an experiment to understand how ordinary people participated in such events. At Yale in 1961, participants were instructed to act as "teachers" and administer electric shocks to a "learner" (an actor) for errors in a memory test. An authoritative scientist with a clipboard and pencil would insist politely that the experiment continue, even as the learner appeared to suffer increasing pain.
 
@@ -630,7 +632,7 @@ An ideology-first perspective frequently misleads us and causes us to interpret 
 
 These misconceptions harm those in authority the most, as they often claim biological credit for the tools they use, thereby halting the continuous technological evolution essential for all individuals and societies to adapt and thrive. Historical examples show that regimes with strong ideological foundations—such as the Confederate States of America, Nazi Germany, and the Soviet Union—were unsustainable in the long term, partly because they promoted genotype-based identities (like racism and sexism) or phenotype-based identities (like classism and elitism) as paths to prosperity.
 
-There is no inherent human genotype or phenotype superiority. Our success depends on enhancing capabilities through technology, and like the squirrel and oak tree, we rely on others' technological empowerment to sustain the technological ecosystem we depend on. From Ancient Rome to modern America, successful civilizations have expanded through innovations like roads, libraries, and smartphones. Evolution teaches that organisms prosper within diverse, adaptable ecosystems.
+There is no inherent human genotype or phenotype superiority. Our success depends on enhancing capabilities through technology, and like the squirrel and oak tree, we rely on others' technological empowerment to sustain the technological ecosystem we depend on. From Ancient Rome to modern America, successful civilizations have expanded through innovations like roads, libraries, and smartphones. Evolution teaches that individual organisms prosper best when in a ecosystem filled with other healthy individuals.
 
 We should want to give everyone a pencil, purely out of self-interest. We never know who might be the next "black moth" that saves us. After all, once England reduced its industrial soot, the tree bark returned to its pale color, and it was the rare peppered variant moth that ensured the species' survival.
 
@@ -640,17 +642,17 @@ Withholding technological tools is central to current struggles like the "right 
 
 Fortunately, one group is emerging from the technological landscape: a diverse community of makers, programmers, and designers in the open-source community. They embrace the constant effort and frequent failures that evolution demands and are too focused on debugging, overcoming errors, and welcoming quality contributions to concern themselves with a person's genotype or phenotype.
 
-Open-source contributors are examples for us all. They evolve solutions to the real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software that underpins the internet. These technologies are worth billions and are provided entirely free of charge. Even this book is open-source, distributed via Writebook, another free and open-source software program that is based on Ruby on Rails, the technology that powers Shopify, Basecamp, GitHub, and many other companies.
+Open-source contributors are examples for us all. They evolve solutions to the real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software that underpins the internet. These technologies are worth billions and are provided entirely free of charge for anyone to use and adapt as needed. Even this book is open-source, distributed via Writebook, another open-source software program that is based on Ruby on Rails, the free technology that powers Shopify, Basecamp, GitHub, and thousands of other companies.
 
-The future of the Internet Age, as outlined in "Bumblebee Economics" book III, does not require marches or a revolution. The seeds of this future are already in your hands. All that is needed is for you to adopt a new identity to realize your potential: a self-aware technological being practicing politics through peaceful and purposeful technological evolution. This concept required a name, hence the new term "techvolution."
+The future of the Internet Age, as outlined in "Bumblebee Economics", does not require marches or a revolution. The seeds of this future are already in your hands. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual, and purposeful technological evolution. This concept required a name, hence the new term "techvolution."
 
-With this new paradigm, you can join the open-source community to develop and disseminate tools that identify the "black moths" in countless niches. Issues like increasing debt, declining health, rising living costs, heightened storm activity, and many others cannot be resolved until the individuals experiencing these pains can select the right tools. Open-source technologies are poised to provide customized solutions readily available to everyone, in a manner of speaking.
+With this new paradigm, you can join the open-source community to develop and disseminate tools that identify the "black moths" in countless niches. Issues like increasing debt, declining health, rising living costs, heightened storm activity, and many others cannot be resolved until the individuals experiencing these physical pains can select the right tools. Open-source technologies are poised to provide customized solutions readily available to everyone, "black camouflage" for all, in a manner of speaking.
 
-And we are naturally equipped for this role. Researching this book revealed joyously how we can look beyond past identities to connect with the individuals within. When we define ourselves by the future, our innate drive to learn and evolve shines brightly. Soon, people will share their passions for sewing custom clothes, optimizing 3D printers, or creating efficient home gardens. The music, heroes, and social groups we cherish need not change as we pursue our dreams through technological progress.
+And we are naturally equipped for this role. Researching this book joyously taught me how to look past ideological identities and connect with the individuals within. I learned when we discuss the future, most people have innate drive to learn and evolve. So many times I would interview people, most would quickly share their passions for sewing custom clothes, optimizing 3D printers, or creating efficient home gardens. A technological identity is already within us, right beside the music, heroes, and social groups we cherish. These need not change as we pursue our dreams through technological progress.
 
-However, until humanity intentionally accelerates the technological evolution we depend on, we remain like raccoons trapped by secured waste bins—enduring restaurant closures, psychological disorders, political animosity, civil wars, revolutions, and the cycles of imperial rise and fall. We mistakenly attribute these events to ideology, when in reality, they stem from the unnoticed co-evolution, variation, and speciation of technological ecosystems, which occur continuously around us, indifferent to human-constructed identities, borders, and aspirations.
+However, until humanity intentionally accelerates the technological evolution we depend on, we remain like raccoons suffering through seemingly random restaurant closures and secured waste bins. Our list of problems includes job losses, business failures, psychological disorders, political animosity, civil wars, revolutions, and the cycles of imperial rise and fall. We mistakenly attribute these events to ideology, when in reality, they stem from the unnoticed co-evolution, variation, and speciation of technological ecosystems, which occur continuously around us, indifferent to human-constructed identities, borders, and beliefs.
 
-Only a new identity will allow us to glimpse behind the curtain of evolution and learn to harness its powers, as we have already done in physics, chemistry, and medicine. The next step toward self-realization is to ask if we must cooperate like trees and squirrels do, and then who are we competing against in the game of life?
+Only a new identity will allow us to glimpse behind the curtain of evolution and learn to harness the power of nature, as we have already done in physics and chemistry, biology and medicine. The next step toward self-realization is to ask if we must cooperate like trees and squirrels do, and then who are we competing against in the game of life?
 
 ## Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
 
@@ -2372,6 +2374,12 @@ Learning who your teacher is. Not knowing Techvolution is like not knowing how y
 
 - explore historical examples of technological identity shifts. One day Tsar is and then he's not.
 
+--
+
+Maybe comparing the amount of offspring/products a creature requires to sustain itself, is a preliminary way to create a taxonomy of technological creatures?
+
+--
+
 ## Notes
 
 ### Preface - A
@@ -2419,8 +2427,11 @@ Stroke (cerebrovascular diseases): 165,393, Chronic lower respiratory diseases: 
 <!-- leading causes of death in ancient societies -->
 Norrie, P. "How Disease Affected the End of the Bronze Age." In A History of Disease in Ancient Times, 61–101. Cham: Springer International Publishing, 2016. Accessed March 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC7123324/.
 
-<!-- war deaths in societies -->
+<!-- War deaths in societies -->
 Morris, Ian. War! What Is It Good For?: Conflict and the Progress of Civilization from Primates to Robots. Hardcover. New York: Farrar, Straus and Giroux, 2014. pg 110
+
+<!-- Raccoon health problems -->
+Suzuki, David. "Raccoon Nation!" The Nature of Things. Canadian Broadcasting Corporation. 2011.
 
 <!-- Infant mortality rate in modern USA -->
 CDC National Center for Health Statistics. "Infant Mortality Rates by State." Accessed April 2025. https://www.cdc.gov/nchs/pressroom/sosmap/infant_mortality_rates/infant_mortality.htm.
@@ -2430,6 +2441,9 @@ Roser, Max. "Mortality in the past: every second child died." OurWorldinData.org
 
 <!-- - Rise of Dystopia in YA -->
 - Scholes, Justin, and Jon Ostenson. "Understanding the Appeal of Dystopian Young Adult Fiction." The ALAN Review (Winter 2013). https://scholar.lib.vt.edu/ejournals/ALAN/v40n2/pdf/scholes.pdf.
+
+<!-- Milgram experiment -->
+The Open University. "Psychological Research, Obedience and Ethics." Accessed March 2025. https://www.open.edu/openlearn/society-politics-law/sociology/psychological-research-obedience-and-ethics/content-section-1.
 
 ### Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
 
