@@ -84,8 +84,12 @@ _"It is not the strongest of the species that survives, nor the most intelligent
 <!-- _“When you grow up you tend to get told the world is the way it is and … to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family, have fun, save a little money. That’s a very limited life. Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again.”_
 —Steve Jobs -->
 
-<!-- Evolution is not a ladder of progress, but a bush of diversity."
+<!-- "Evolution is not a ladder of progress, but a bush of diversity."
 —Ernst Mayr -->
+
+<!-- "Novels, stage, and film are less realistic than Nintendo"
+—Richard Muller 
+https://muller.lbl.gov/pages/Muller-theorems.htm -->
 
 ## Table of Contents
 
@@ -165,7 +169,7 @@ I would stare at it through the "PIZZA" letters on the storefront. Only if there
 
 Was the villain poverty? Meekness? Or perhaps it was the pizza cook who disliked my religion or family? The answer is none of these. The truth is far more fundamental and reveals the core message of the book.
 
-I wanted a slice of pizza. Getting it required speaking, and I did not have the ability to do that, as I was born with a speech impediment—a condition affecting about a million Americans from all walks of life. That is why I turned away when the pizza counter had several kinds of slices. I feared, far more than going hungry, being asked "which one" if there were several.
+I wanted a slice of pizza. Getting it required speaking, and I did not have the ability to do that, as I was born with a speech impediment—a condition affecting about three million Americans from all ages and walks of life. That is why I turned away when the pizza counter had several kinds of slices. I feared, far more than going hungry, being asked "which one" if there were several.
 
 The affliction kicks in when certain sounds trigger a stutter that feels like a severe electric shock. Speaking to strangers makes it worse. Swearing offers blessed relief, but that solution only works among friends.
 
@@ -614,7 +618,9 @@ With access to modern machinery, mathematics, and other advancements, one ideolo
 
 While eugenics and social engineering harmed our society greatly, our ideologies predate evolutionary understanding, making it easier to move beyond misguided attempts at genotype or phenotype purification. However, the debate persists in a more nuanced form in the ongoing "nature versus nurture" debate between conservatives and progressives. The former emphasizes generating wealth through genetic potential and minimal government intervention, and the latter focuses on distributing wealth to overcome inequalities with targeted social programs.
 
-Accepting our technological nature offers a third dimension that bridges these two perspectives. Instead of attempting to purify our genotypes or phenotypes, we should refine our narratives, belief systems, and ideologies to harness evolutionary laws to continually create and distribute new tools.
+When seen through evolution's eyes, conservatives champion mass-production of technology while progressives advocate for diverse perspectives. When isolated, both groups move to their extremes and live too much in their ideological world. However, when brought together, these views complement each other and fulfill the evolutionary need to mass-produce new adaptations to keep life up to date.
+
+Accepting our technological nature is the crucial bridge for these two perspectives. When we insist on technological evolution, both sides need each other and are therefore incentivized to compromise. Instead of attempting to purify our genotypes or phenotypes, we should refine our narratives, belief systems, and ideologies to harness evolutionary laws to continually create and distribute new tools.
 
 Our new identity will require us to accept the occasional loss of personal and professional identities that technological evolution demands. The abject failures of communism and fascism serve as a stark reminder to embrace personal moderation and adaptability instead of trying to hold evolution back for personal gain.
 
@@ -638,11 +644,11 @@ We should want to give everyone a pencil, purely out of self-interest. We never 
 
 For now, we invent technology but do not naturally distribute it to others. This shortcoming appears in various contexts: workplaces where employees receive tools without choices or input yet are judged on their performance using the tools; schools that test children's knowledge and memory while denying common aids like notes or calculators; and individuals who neglect their own toolsets, hoping instead that an insurance representative will resolve their issues with a claim check.
 
-Withholding technological tools is central to current struggles like shifting from ownership to continuous rental of digital services, the "right to repair" and "work from home" movements. These struggles reveal how modern digital technologies—like the printing press in earlier eras—are tools people cannot yet freely control to earn an independent livelihood.
+Withholding technological tools is central to current struggles like the transformation of software from products we own to services we perpetually rent, the "right to repair" and "work from home" movements. These struggles reveal how modern digital technologies—like the printing press in earlier eras—are tools people cannot yet freely control to earn an independent livelihood.
 
 Fortunately, one group is emerging from the technological landscape: a diverse community of makers, programmers, and designers in the open-source community. They embrace the constant effort and frequent failures that evolution demands. They are too focused on debugging, overcoming errors, and welcoming quality contributions to concern themselves with a person's genotype or phenotype.
 
-Open-source contributors are examples for us all. They evolve solutions to real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software that underpins the internet. These technologies are worth billions and are provided entirely free of charge for anyone to use and adapt as needed. This book is open-source and distributed via Writebook, another open-source software program based on Ruby on Rails. The technology that powers Basecamp, GitHub Shopify and thousands of other products.
+Open-source contributors are examples for us all. They evolve solutions to real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software that underpins the internet. These technologies are worth billions and are provided entirely free of charge for anyone to use and adapt as needed. This book is open-source and distributed via Writebook, another open-source software program based on Ruby on Rails. The technology that powers Basecamp, GitHub, Shopify, and thousands of other products.
 
 The future of the Internet Age, as outlined in the "Bumblebee Economics", does not require marches or a revolution. The seeds of this future are already in your hands. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual, and purposeful technological evolution. This concept required a name, hence the new term "techvolution."
 
@@ -2384,32 +2390,40 @@ Maybe comparing the amount of offspring/products a creature requires to sustain 
 
 ### Preface - A
 
-<!-- rise of partisanship in US Congress -->
-- Andris, Clio, David Lee, Marcus J. Hamilton, Mauro Martino, Christian E. Gunning, and John Armistead Selden. "The Rise of Partisanship and Super-Cooperators in the U.S. House of Representatives." PLOS ONE 10, no. 4 (April 21, 2015). https://doi.org/10.1371/journal.pone.0123507.
+<!-- speech impediment prevalence -->
+National Institute on Deafness and Other Communication Disorders. "Quick Statistics About Voice, Speech, Language." National Institutes of Health. Accessed March 2025. https://www.nidcd.nih.gov/health/statistics/quick-statistics-voice-speech-language.
+
+Yairi, Ehud, and Nicoline Ambrose. 2013. “Epidemiology of Stuttering: 21st Century Advances.” Journal of Fluency Disorders 38 (2): 66–87. https://doi.org/10.1016/j.jfludis.2012.11.002.
+
+‌<!-- rise of partisanship in US Congress -->
+Andris, Clio, David Lee, Marcus J. Hamilton, Mauro Martino, Christian E. Gunning, and John Armistead Selden. "The Rise of Partisanship and Super-Cooperators in the U.S. House of Representatives." PLOS ONE 10, no. 4 (April 21, 2015). https://doi.org/10.1371/journal.pone.0123507.
 
 <!-- Rise of wages -->
-- The numbers are $61,960 in 1991 (in 2023 dollars) to $79,260 in 2021 (in 2023 dollars) a $17,300 increase, or 27.9%.
-- U.S. Census Bureau. "Table H-5. Race and Hispanic Origin of Householder -- Households by Median and Mean Income." Historical Income Tables: Households. Accessed April 24, 2023. https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html.
+The numbers are $61,960 in 1991 (in 2023 dollars) to $79,260 in 2021 (in 2023 dollars) a $17,300 increase, or 27.9%.
+
+U.S. Census Bureau. "Table H-5. Race and Hispanic Origin of Householder -- Households by Median and Mean Income." Historical Income Tables: Households. Accessed April 24, 2023. https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html.
 
 <!-- Housing prices -->
-- The average for all US states was a 345% in the Change in FHFA State House Price Indexes from 1991 to 2024.
-- Federal Housing Finance Agency. "House Price Index Datasets." Accessed April 24, 2023. https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
+The average for all US states was a 345% in the Change in FHFA State House Price Indexes from 1991 to 2024.
+
+Federal Housing Finance Agency. "House Price Index Datasets." Accessed April 24, 2023. https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
 
 <!-- Health Insurance increase -->
-- Health insurance costs rose from $16,029 in 2013 to $23,938 2023, a 49 percent increase.
-- Kaiser Family Foundation. "Average Annual Family Premium per Enrolled Employee For Employer-Based Health Insurance, 1999-2021." Accessed April 24, 2023. https://www.kff.org/other/state-indicator/family-coverage.
+Health insurance costs rose from $16,029 in 2013 to $23,938 2023, a 49 percent increase.
+
+Kaiser Family Foundation. "Average Annual Family Premium per Enrolled Employee For Employer-Based Health Insurance, 1999-2021." Accessed April 24, 2023. https://www.kff.org/other/state-indicator/family-coverage.
 
 <!-- Tuition Increase -->
-- Dickler, Jessica, and Annie Nova. "This Is How Student Loan Debt Became a $1.7 Trillion Crisis." CNBC, May 6, 2022. https://www.cnbc.com/2022/05/06/this-is-how-student-loan-debt-became-a-1point7-trillion-crisis.html.
+Dickler, Jessica, and Annie Nova. "This Is How Student Loan Debt Became a $1.7 Trillion Crisis." CNBC, May 6, 2022. https://www.cnbc.com/2022/05/06/this-is-how-student-loan-debt-became-a-1point7-trillion-crisis.html.
 
 <!-- Student loans -->
-- Board of Governors of the Federal Reserve System. "Consumer Credit Outstanding (Levels)." Accessed April 24, 2023. https://www.federalreserve.gov/releases/g19/hist/cc_hist_memo_levels.html.
+Board of Governors of the Federal Reserve System. "Consumer Credit Outstanding (Levels)." Accessed April 24, 2023. https://www.federalreserve.gov/releases/g19/hist/cc_hist_memo_levels.html.
 
 <!-- Mortgage Increase -->
-- Pew Research Center. "Key Milestones for Young Adults Today Versus 30 Years Ago." January 25, 2024. https://www.pewresearch.org/social-trends/2024/01/25/key-milestones-for-young-adults-today-versus-30-years-ago/.
+Pew Research Center. "Key Milestones for Young Adults Today Versus 30 Years Ago." January 25, 2024. https://www.pewresearch.org/social-trends/2024/01/25/key-milestones-for-young-adults-today-versus-30-years-ago/.
 
 <!-- Generational Mobility -->
-- Chetty, Raj, David Grusky, Maximilian Hell, Nathaniel Hendren, Robert Manduca, and Jimmy Narang. "The Fading American Dream: Trends in Absolute Income Mobility Since 1940." Opportunity Insights, December 2016. https://opportunityinsights.org/wp-content/uploads/2018/03/abs_mobility_paper.pdf.
+Chetty, Raj, David Grusky, Maximilian Hell, Nathaniel Hendren, Robert Manduca, and Jimmy Narang. "The Fading American Dream: Trends in Absolute Income Mobility Since 1940." Opportunity Insights, December 2016. https://opportunityinsights.org/wp-content/uploads/2018/03/abs_mobility_paper.pdf.
 
 ### Foreword - B
 
@@ -2418,11 +2432,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Introduction - C
 
 <!-- Leading causes of death in USA 2022 -->
-- Per the Center for Disease Control the leading causes of death in the USA in 2022 were:
-Heart disease: 702,880, Cancer: 608,371, Accidents (unintentional injuries): 227,039, COVID-19: 186,552
-Stroke (cerebrovascular diseases): 165,393, Chronic lower respiratory diseases: 147,382, Alzheimer’s disease: 120,122, Diabetes: 101,209, Nephritis, nephrotic syndrome, and nephrosis: 57,937, Chronic liver disease and cirrhosis: 54,803
+Per the Center for Disease Control the leading causes of death in the USA in 2022 were:
+Heart disease: 702,880, Cancer: 608,371, Accidents (unintentional injuries): 227,039, COVID-19: 186,552, Stroke (cerebrovascular diseases): 165,393, Chronic lower respiratory diseases: 147,382, Alzheimer’s disease: 120,122, Diabetes: 101,209, Nephritis, nephrotic syndrome, and nephrosis: 57,937, Chronic liver disease and cirrhosis: 54,803
 
-- CDC National Center for Health Statistics. "Mortality in the United States, 2022." NCHS Data Brief No. 492. April 2024. Accessed April 2024. https://www.cdc.gov/nchs/data/databriefs/db492-tables.pdf#4.
+CDC National Center for Health Statistics. "Mortality in the United States, 2022." NCHS Data Brief No. 492. April 2024. Accessed April 2024. https://www.cdc.gov/nchs/data/databriefs/db492-tables.pdf#4.
 
 <!-- leading causes of death in ancient societies -->
 Norrie, P. "How Disease Affected the End of the Bronze Age." In A History of Disease in Ancient Times, 61–101. Cham: Springer International Publishing, 2016. Accessed March 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC7123324/.
@@ -2440,7 +2453,7 @@ CDC National Center for Health Statistics. "Infant Mortality Rates by State." Ac
 Roser, Max. "Mortality in the past: every second child died." OurWorldinData.org. November 2024. Accessed April 2024. https://ourworldindata.org/child-mortality-in-the-past.
 
 <!-- - Rise of Dystopia in YA -->
-- Scholes, Justin, and Jon Ostenson. "Understanding the Appeal of Dystopian Young Adult Fiction." The ALAN Review (Winter 2013). https://scholar.lib.vt.edu/ejournals/ALAN/v40n2/pdf/scholes.pdf.
+Scholes, Justin, and Jon Ostenson. "Understanding the Appeal of Dystopian Young Adult Fiction." The ALAN Review (Winter 2013). https://scholar.lib.vt.edu/ejournals/ALAN/v40n2/pdf/scholes.pdf.
 
 <!-- Milgram experiment -->
 The Open University. "Psychological Research, Obedience and Ethics." Accessed March 2025. https://www.open.edu/openlearn/society-politics-law/sociology/psychological-research-obedience-and-ethics/content-section-1.
