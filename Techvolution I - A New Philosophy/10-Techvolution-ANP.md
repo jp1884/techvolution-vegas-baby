@@ -96,19 +96,19 @@ Daniel Lieberman - Life - Leading Edge -->
 
 ## Table of Contents
 
-- Preface
-- Introduction
-- Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
-- Chapter 2—What Life Is: The Creator of Players
-- Chapter 3—What Evolution Is: The Editor of Players
-- Chapter 4—The History of Life's Evolution
-- Chapter 5—Our History from Trees to Fire
-- Chapter 6—The History of Civilization
-- Chapter 7—The Ancients: Socrates Starts Self-Reflection
-- Chapter 8—The Moderns: Self-Reflection Turns Scientific
-- Chapter 9—Techvolution: Earn Perpetual Prosperity by Removing Technological "Camels" from the Amazon
-- Epilogue—The Next Books: Starting Starfleet
-- Notes
+Preface
+Introduction
+Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
+Chapter 2—What Life Is: The Creator of Players
+Chapter 3—What Evolution Is: The Editor of Players
+Chapter 4—The History of Life's Evolution
+Chapter 5—Our History from Trees to Fire
+Chapter 6—The History of Civilization
+Chapter 7—The Ancients: Socrates Starts Self-Reflection
+Chapter 8—The Moderns: Self-Reflection Turns Scientific
+Chapter 9—Techvolution: Earn Perpetual Prosperity by Removing Technological "Camels" from the Amazon
+Epilogue—The Next Books: Starting Starfleet
+Notes
 
 <!-- Chapters: Rough notes per each 
 Chapter 1—The Rules of the Game—Where do we live?
@@ -637,7 +637,7 @@ Yet, even well-intentioned academics often define humanity through narrow identi
 
 An ideology-first identity frequently misleads us about our suffering as well, such as "I am poor or hungry because I am a [insert self-identity]." While this identity may explain why other humans target us, the root cause of pain is actually a technological failing. Evolution cannot see our self-identity, but only the adaptations we use to interact with the world, i.e., our tools.
 
-These misconceptions harm those in authority the most, as they often claim biological credit for their tools, thereby halting the continuous technological evolution essential for all individuals and societies to adapt and thrive. Historical examples show that regimes with strong ideological foundations—such as the Confederate States of America, Nazi Germany, and the Soviet Union—were unsustainable in the long term, partly because they promoted genotype-based identities (like racism and sexism) or phenotype-based identities (like classism and elitism) as paths to prosperity.
+These misconceptions harm those in authority the most, as they often claim biological credit for their tools. Historical examples show that regimes with strong ideological foundations—such as the Confederate States of America, Nazi Germany, and the Soviet Union—were unsustainable in the long term, partly because they promoted genotype-based identities (like racism and sexism) or phenotype-based identities (like classism and elitism) as paths to prosperity, and thereby stopped the creation and distribution of new tools societies need to thrive.
 
 There is no inherent human genotype or phenotype superiority. Our success depends on enhancing capabilities through technology, and like the squirrel and oak tree, we rely on others' technological empowerment to sustain the technological ecosystem we depend on. From Ancient Rome to modern America, successful civilizations have expanded through innovations like roads, libraries, and smartphones. Evolution teaches that individual organisms prosper best when in a ecosystem filled with other healthy individuals.
 
@@ -651,9 +651,9 @@ Withholding technological tools is central to current struggles like the transfo
 
 Fortunately, one group is emerging from the technological landscape: a diverse community of makers, programmers, and designers in the open-source community. They embrace the constant effort and frequent failures that evolution demands. They are too focused on debugging, overcoming errors, and welcoming quality contributions to concern themselves with a person's genotype or phenotype.
 
-Open-source contributors are examples for us all. They evolve solutions to real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software that underpins the internet. These technologies are worth billions and are provided entirely free of charge for anyone to use and adapt as needed. This book is open-source and distributed via Writebook, another open-source software program based on Ruby on Rails. The technology that powers Basecamp, GitHub, Shopify, and thousands of other products.
+Open-source contributors are examples for us all. They evolve solutions to real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software underpinning the internet. These technologies are worth billions and provided free for anyone to use and adapt. Inspired by their character, this book is open-source distributed via Writebook, another open-source software program based on Ruby on Rails, an amazing technology that powers Basecamp, GitHub, Shopify, and thousands of other products.
 
-The future of the Internet Age, as outlined in the "Bumblebee Economics", does not require marches or a revolution. The seeds of this future are already in your hands. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual, and purposeful technological evolution. This concept required a name, hence the new term "techvolution."
+However, the open-source community is not perfect. It can be chronically under funded and projects often fragment. Regardless, the community keeps innovating. That's why the future of the Internet Age, as outlined in the "Bumblebee Economics", does not require marches or a revolution. The seeds of this future are already in your hands. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
 
 With this new paradigm, you can join the open-source community to develop and disseminate tools that identify the "black moths" in countless niches. Issues like increasing debt, declining health, rising living costs, heightened storm activity, and many others cannot be resolved until the individuals experiencing these physical pains can select the tools to solve them. Open-source technologies are poised to provide customized solutions that are readily available to everyone, "black camouflage" for all, in a manner of speaking.
 
