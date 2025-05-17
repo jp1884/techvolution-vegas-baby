@@ -1,11 +1,21 @@
 .vscode
 /misc-ignore
-AristotleTriangle-and-diagrams.fig
+
+# old
 /img/sketches/not-in-use
-/Thelifestar
-/Steve
-/temp.md
 /xx_Iconic_Memories
+/Techvolution I - A New Philosophy/3-getters.md
 /Techvolution I - A New Philosophy/1-guide.md
 /Techvolution I - A New Philosophy/0-goalposts.md
-/Techvolution I - A New Philosophy/3-getters.md
+AristotleTriangle-and-diagrams.fig
+
+# post_May 2025 Update
+/misc-ignore
+/Techvolution_IV_Context/0-goalposts.md
+/Techvolution_VI_Stories
+/Techvolution_IV_Context/3-references.md
+/yy_Techvolution_old/artwork/sketches/not-in-use
+/yy_Techvolution_old/artwork/not-in-use
+/yy_Techvolution_old/vue_components
+*.fig
+
