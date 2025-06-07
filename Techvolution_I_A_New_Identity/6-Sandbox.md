@@ -982,3 +982,9 @@ Let's eat marble cake.
 - Book II - Mixed-Ideological Politics
 - Book III - Bumblebee Economics
 - Book IV - Elon's Ark
+
+--
+
+This gives us a reliable test for evaluating our world. If someone's version of truth keeps changing with the times, be suspicious—genuine truth reflects eternal natural laws. But if someone's products refuse to evolve with the times, be equally suspicious—useful tools must adapt to serve us in changing environments. Any unnatural behavior is a person trying to pretend evolution's mission does not apply to them.
+
+===
