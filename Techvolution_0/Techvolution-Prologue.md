@@ -13,23 +13,21 @@ _"Technology is anything that was not around when you were born."_
 
 People used to think some wild things. The world was flat, the Earth was the center of the universe, disease was caused by bad air. Each of these beliefs was absolute—until, some resisted the power of accepted wisdom hard enough to redefine truth.
 
-It should make you wonder, what dark things do we believe? More importantly, how do we uncover the difference between absurd and fact?
+It should make you wonder, what dark things do we believe, and what hidden truths are they masking? This book exposes a big one that explains much of our current problems.
 
-Here's how, the universe and its laws never change. That is why light travels the same way now as it did 10 billion years ago. So, if stories and facts adjust with the times, you know they cannot be true because natural laws—whether in physics, chemistry, or biology—are eternal.
+You, me, and most everyone else in the world are unconsciously using biological instincts to survive inside a technological ecosystem. And this mismatch between our actions and our environment is the cause of our confused identities, political strife, and economic malaise.
 
-So if aliens do visit us one day (or revisit some might say), we may not speak their language or like their food, but because of the universal laws of nature we will understand the origin of their species.
+The evidence for this dysfunction is shown in our daily experiences, where civil society is unable to agree—from election results to trade deals—on much of anything anymore.
 
-That is because life, wherever we have found it, from fossils to geysers, is always Darwinian.
+Our salvation is what it has always been; uncovering natural laws that dislodge our misguided beliefs and grant us new truths.
 
-That means lifeforms instinctively play a grand competition, striving to survive and reproduce to pass on their genetics. As each generation exhibits slight variations, natural selection favors traits that enhance survival and reproductive success, driving the evolution of new species better suited to the changing environment. In short, as the world evolves, so must life; and its species run a relay race through time, each generation carrying the baton of creation forward until a new runner is needed.
+How do we start? We realize how eternal the Universe is. Think how remarkable it is that light travels the same way now as it did 10 billion years ago. Now realize this applies to biology as well. Meaning life, wherever we have found it, from fossils to geysers, is always Darwinian.
 
-So, while life's evolution is an eternal law, its lifeforms must change.
+That means all lifeforms instinctively play a grand competition, striving to survive and reproduce to pass on their genetics. As each generation exhibits slight variations, natural selection favors traits that enhance survival and reproductive success, driving the evolution of new species better suited to the changing environment. In short, as the world evolves, so must life; and its species run a relay race through time, each generation carrying the baton of creation forward until a new runner is needed.
 
-Yet, despite knowing the timeless universality of nature, there is one place where we do not yet realize these same laws apply: human civilization itself. We know our biology is Darwinian of course. That was a realization made back in the 1850s when Charles Darwin assembled the puzzle pieces gathered by countless others and finally saw life for what it is.
+We know these rules apply to your biology, but we do not yet realize these same laws apply to human civilization itself. Thus we need to amend Darwin's insights into new facts.
 
-But, human civilization is not biological, thus we need to amend Darwin's insights into new facts.
-
-That's why this book is about you rejecting conventional wisdom and embracing a new, and seemingly outlandish, idea: that human life is primarily technological, and technological life is Darwinian. As past realizations about new truths allowed us to solve problems with space satellites and medicines, the benefits to this uncovered natural law are equally immense. We will finally clarify both our perspective and our place in the past, present, and future in the universe.
+That's why this book is about you rejecting conventional wisdom and biological instincts and embracing a new, and seemingly outlandish, idea: that human life is primarily technological, and technological life is Darwinian. As past realizations about new truths allowed us to solve problems with space satellites and medicines, the benefits to this uncovered natural law are equally immense. We will finally clarify both our perspective and our place in the past, present, and future in the universe.
 
 How?
 
@@ -51,7 +49,7 @@ Yet today, decades later, we are still believing in the Industrial Age identitie
 
 The first and most vital step in this journey is realizing the wacky idea that we are technological beings.
 
-This book will provide you with the tools to understand your technological identity, make smarter tool choices, and stop merely surviving Industrial Age obsolescence. Instead, you can select yourself to flourish in the Internet Age and thereby improve the fortunes of all who will follow us.
+This book will give you the means to understand your technological identity, make smarter tool choices, and stop merely surviving Industrial Age obsolescence. Instead, you can select yourself to flourish in the Internet Age and thereby improve the fortunes of all who will follow us.
 
 --
 
