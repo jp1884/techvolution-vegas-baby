@@ -553,7 +553,7 @@ Animals are born free, and everywhere they seem to be enjoying themselves. Natur
 
 So, how does a life form get selected to become a player? There are three ways to stand out: genes, personality, and tools.
 
-Genes are a creature's blueprint. Each DNA segment provides specific instructions that determine an organism's traits. During reproduction, genes shuffle and recombine, introducing variations in offspring. Most variations are minor and neutral, but occasionally a mutation provides a survival advantage.
+Genes are a creature's blueprint, that together are called its genotype. Each DNA segment provides specific instructions that determine an organism's traits. During reproduction, genes shuffle and recombine, introducing variations in offspring. Most variations are minor and neutral, but occasionally a mutation provides a survival advantage.
 
 Consider the peppered moth during England's Industrial Revolution. As trees darkened due to smog and soot, a rare dark variant of the peppered moth gained a camouflage advantage and its numbers surged. Evolution did not create this mutation; rather, it favored the black moth through natural selection—a process that eliminates harmful genes while allowing organisms with beneficial traits to survive and reproduce.
 

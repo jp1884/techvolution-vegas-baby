@@ -11,45 +11,53 @@ _"Technology is anything that was not around when you were born."_
 
 ## Giving You a Map and Compass
 
-People used to think some wild things. The world was flat, the Earth was the center of the universe, disease was caused by bad air. Each of these beliefs was absolute—until, some resisted the power of accepted wisdom hard enough to redefine truth.
+People used to think some wild things. The world was flat, the Earth was the center of the universe, disease was caused by bad air. Each of these beliefs was absolute—until some resisted accepted wisdom hard enough to uncover new truths.
 
-It should make you wonder, what dark things do we believe, and what hidden truths are they masking? This book exposes a big one that explains much of our current problems.
+It should make you wonder: what dark things do we believe? We should find out because, like in the past, these falsehoods mask serious problems and prevent the practical solutions that will improve our lives.
 
-You, me, and most everyone else in the world are unconsciously using biological instincts to survive inside a technological ecosystem. And this mismatch between our actions and our environment is the cause of our confused identities, political strife, and economic malaise.
+Here is a big misconception holding us back.
 
-The evidence for this dysfunction is shown in our daily experiences, where civil society is unable to agree—from election results to trade deals—on much of anything anymore.
+You, me, and most everyone else in the world are unconsciously using biological instincts to survive inside a technological ecosystem. And it is precisely this mismatch between our instincts and our environment that causes our fights over identities, political gridlock, and economic malaise.
 
-Our salvation is what it has always been; uncovering natural laws that dislodge our misguided beliefs and grant us new truths.
+The journey to fix these problems starts by accepting the power of universal laws.
 
-How do we start? We realize how eternal the Universe is. Think how remarkable it is that light travels the same way now as it did 10 billion years ago. Now realize this applies to biology as well. Meaning life, wherever we have found it, from fossils to geysers, is always Darwinian.
+Universal laws are our best guide because they are eternal. Just think how light travels the same way now as it did 10 billion years ago. This timelessness applies to physics, chemistry, and biology. Meaning life, wherever it takes hold, always plays the Darwinian game of life.
 
-That means all lifeforms instinctively play a grand competition, striving to survive and reproduce to pass on their genetics. As each generation exhibits slight variations, natural selection favors traits that enhance survival and reproductive success, driving the evolution of new species better suited to the changing environment. In short, as the world evolves, so must life; and its species run a relay race through time, each generation carrying the baton of creation forward until a new runner is needed.
+We named the game after Charles Darwin because he decoded much of its rules. He showed how all lifeforms instinctively play a grand competition, striving to survive and reproduce to pass on their genetics. As each generation exhibits slight variations, natural selection favors traits that enhance survival and reproductive success, driving the evolution of new species better suited to the changing environment.
 
-We know these rules apply to your biology, but we do not yet realize these same laws apply to human civilization itself. Thus we need to amend Darwin's insights into new facts.
+Of course, we now know these rules of evolution apply to our biology, but we do not yet realize these same laws apply to human civilization—and all the technologies that create, build, and power it, and by extension educate, house, and feed us.
 
-That's why this book is about you rejecting conventional wisdom and biological instincts and embracing a new, and seemingly outlandish, idea: that human life is primarily technological, and technological life is Darwinian. As past realizations about new truths allowed us to solve problems with space satellites and medicines, the benefits to this uncovered natural law are equally immense. We will finally clarify both our perspective and our place in the past, present, and future in the universe.
+That's why this book is about you rejecting conventional wisdom and embracing a new idea: that human life is now primarily technological, and technological life is Darwinian.
 
-How?
+As past realizations about new truths allowed us to solve problems with space satellites and medicines, the benefits to embracing this natural law today are equally immense. 
 
-Right now many in Gen Z are hoping to buy a car and own a home. Scores of retirees are hoping they will have the home healthcare they need to keep on living in their homes. Workers need more money, bosses need better workers. Conservatives worry about traditional values in a changing world, while Progressives exhaust themselves defending social changes. Technologists are bored using the technology of the future to make the toys of today. Wise people are worrying when our many debt bubbles might burst.
+Let me explain.
 
-There is a long list of people in need and seeking answers. There are countless talking points vying for our attention. Given the endless content, if answers—which we just learned true answers are universal—were there, they should have been found by now. In truth, understanding our challenges requires us to put the pieces gathered by many others together and finally see what human life truly is.
+Right now many in Gen Z are hoping to buy a car and own a home. Scores of retirees are hoping they will have the healthcare they need to live comfortable retirements. Workers need more money, bosses need better workers. Conservatives worry about traditional values in a changing world, while Progressives exhaust themselves defending social changes. Technologists are bored using the technology of the future to make the toys of today. Wise people are worrying when our many debt bubbles might burst.
 
-Just another chapter in the ongoing story of evolution—but with a twist, evolution is now technological.
+There is a long list of people in need and seeking answers. There are countless talking points on social media vying for our attention. If this massive amount of political content had answers, they would have been found by now. 
 
-This change is nothing but a difference in material, one among the many that has taken place during the eons, epochs, ages in which Earth has had different geologies, atmospheres, environments, and lifeforms.
+Well-meaning influencers and analysts cannot find solutions, because in truth, each is rooted in biological identities that do not account for the technological ecosystem we live in. They cannot, because they are applying biological thinking to technological problems.
 
-Life started in the Archean Eon over 3.4 billion years ago. Since then, there have been endless changes: trillions of lifeforms, perhaps a billion species, hundreds of ages, six mass extinctions—and now you.
+To overcome our challenges requires us to uncover natural laws and finally see what modern human life truly is.
 
-The first step to understanding your place in the story is to realize life has been where you are today many times before, from the dinosaurs to the Stone Age man. It should not be a surprise Life already has a game plan for not only your survival, but prosperity. You can harness this knowledge, once you understand where you are in the plot.
+Just another chapter in the ongoing game of evolution—but with a twist, evolution is now technological. This change is nothing but a difference in material, one among the many that has taken place during the eons, epochs, ages in which Earth has had different geologies, atmospheres, environments, and lifeforms.
 
-By 1970, the foundational technologies of microchips, computers, and internet were converging. It is appropriate today's computers literally tell time—called Unix Time—by counting the seconds from January 1, 1970. The Internet Age was born a long time ago. It survived its youth (some did not embrace its inventions, hoping to unnaturally keep their own alive) and like some sort of mythical Greek god has grown exponentially more powerful ever since.
+That means life has been where you are today many times before. It should not be a surprise there is a time-tested game plan for not only your survival, but prosperity.
 
-Yet today, decades later, we are still believing in the Industrial Age identities, philosophies, and products. _Techvolution On the Origin of Technological Species_ will empower you, whether someone in Gen Z hoping to start a family or a retiree hoping to have grandkids, to do what life has done many times before: leave the shadow of a bygone age behind and evolve to the new environment in which you live.
+And that is the evolution of new species better suited to win the game.
 
-The first and most vital step in this journey is realizing the wacky idea that we are technological beings.
+You can harness this winning playbook, once you realize we prosper by evolving new technologies, tools, and ways of life inside our civilization. Lucky for us, the technological ecosystem has long been creating many amazing adaptations to upgrade our civilization.
 
-This book will give you the means to understand your technological identity, make smarter tool choices, and stop merely surviving Industrial Age obsolescence. Instead, you can select yourself to flourish in the Internet Age and thereby improve the fortunes of all who will follow us.
+That is because in 1970, the foundational technologies of the next age—microchips, computers, and internet—were converging; the Internet Age was born. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place on the field. Sadly, some did not embrace its inventions, hoping to unnaturally keep their own alive. Happily, progress was not stopped and a new age kept evolving.
+
+However, continued advancements are never assured. We are seriously holding back the Internet Age by using biological identities and ideological beliefs to select which modern technologies and adaptations live or die.
+
+_Techvolution On the Origin of Technological Species_ will make the selection of technological species more natural. By empowering you, whether someone in Gen Z hoping to start a family or a retiree hoping to have grandkids, to do what life has done many times before: leave the shadows of a bygone age behind and purposefully evolve to the new environment in which you live.
+
+Realizing the Earth was not the center of the Universe launched the Science Age. Likewise, by embracing our technological evolution, we can quickly unmask many new ideas and practical solutions of the Internet Age to improve our lives.
+
+The journey will uncover our technological identity, empower you to make smarter tool choices, and stop merely surviving Industrial Age obsolescence. With these lessons, you can select yourself to flourish in the Internet Age and thereby improve the fortunes of all who will follow us.
 
 --
 
@@ -73,7 +81,7 @@ The goal is to create an ecosystem similar to Apple's, but more decentralized an
 
 ## About the Author
 
-This book attempts a leap in human understanding. That is quite a bold task; I am not sure what qualifies anyone to undertake it. I have a quality formal education and have worked in various industries, which helps provide the means to think differently. I tried very hard (and it turns out foolishly) to get scientific data to prove these ideas. As you will learn, it turns out being thwarted in that task revealed more truths than the evidence would have.
+This book attempts a leap in human understanding. That is quite a bold task; I am not sure what qualifies anyone to undertake it. I have a quality formal education and have worked in various industries, which helps provide the means to think differently. I tried very hard (and it turns out quite foolishly) to get scientific data to showcase techvolution. As you will learn, it turns out being thwarted in that task revealed more truths than the evidence would have.
 
 As a kid in a grocery store, two friends were fighting over which cake to buy. Unable to participate for reasons you will soon learn about, I resolved to fix the tiresome bickering. So, I listened to both sides; one wanted chocolate the other vanilla. I left unnoticed and returned with a marbled cake. Both fell silent, and we soon enjoyed the taste of compromise as happy friends. It is a mentality I had and honed while looking out into our society, researching, and writing this book.
 
