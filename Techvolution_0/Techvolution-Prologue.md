@@ -11,6 +11,34 @@ _"Technology is anything that was not around when you were born."_
 
 ## Giving You a Map and Compass
 
+Dinosaurs ruled for eons. Are now remembered as fossils.
+
+Kings and queens took command of seas and forests. People rebelled with sticks and stones, many died. Man one day yelled "no taxation without representation" behind a musket and won a country. Women were told to stay in the kitchen. Now she is told get back in your cubicle. Guy puts in a claim and is told take it or leave it. Lady says no and losses her stardom. Protests, gunshots, hashtags.
+
+We have learned evolution applies to biology, but when a person holds a spoon in gunfight. In evolutionary terms the winner is obvious. But we do not see it the obvious because we do not see ourselves as technological beings. Thus, we describe winners and losers using biological terms like gender, ethnicity, and race. To improve our future, we need to correct that.
+
+--
+
+Dinosaurs ruled for eons. Asteroid struck. Once giants, now fossils. Mammals scurried from shadows, inherited the world. 
+
+Humans mastered fire. Planted crops, built cities. Kings commanded with obsidian, then bronze, then steel. Soon "We hold these truths to be self-evident," was declared, and empires toppled behind muskets and pamphlets and ballots.
+
+Today we carry supercomputers in our pockets. Yet women freed from kitchens are told get back into cubicles. Guy puts in a claim and is told take it or leave it. Ladies say "no" and lose their stardom. Layoffs, food banks, protests, gunshots, hashtags.
+
+Evolution applies to biology. But not only biology. Tools evolve too. Words versus guns, fists versus computers—winner is obvious. Not to us. We describe winners and losers using biological terms: gender, ethnicity, race.
+
+Wrong lens. Old paradigm. We can do better.
+
+--
+
+The world is change. It all started with the formation of the first cells. Matter learned to harvest energy. Life divided, altered, expanded. Motion brought choices. Senses brought information. Pain taught us the difference between good and bad. More harvest were reaped and so more lifeforms were born.
+
+The world got covered from tip to toe. Bacteria, fungus, plants and insects. Dinosaurs ruled with teeth and claws. Asteroid struck. Birds and mammals inherited the Earth.
+
+Eons passed. Fire was tamed, metal struck, sails unfurled. Kings commanded with swords and ships. People rebelled—first with stone, they failed, then with pikes and swords, victory was won for some. Then the cried 'No taxation without representation!' behind a musket, and more joined the victorious.
+
+--
+
 People used to think some wild things. The world was flat, the Earth was the center of the universe, disease was caused by bad air. Each of these beliefs was absolute—until some resisted accepted wisdom hard enough to uncover new truths.
 
 It should make you wonder: what dark things do we believe? We should find out because, like in the past, these falsehoods mask serious problems and prevent the practical solutions that will improve our lives.
@@ -59,7 +87,14 @@ Realizing the Earth was not the center of the Universe launched the Science Age.
 
 The journey will uncover our technological identity, empower you to make smarter tool choices, and stop merely surviving Industrial Age obsolescence. With these lessons, you can select yourself to flourish in the Internet Age and thereby improve the fortunes of all who will follow us.
 
---
+
+## Illustration
+
+Earth is not a planet it is a lifeboat, and life only wants people who can keep the game alive. This illustration represents Earth's geological time periods and the lifeforms that lived within them, which we understand very well.
+
+This illustration applies the Darwinian principles to civilization, so we can understand the evolution of technological life.
+
+## Book Series
 
 Techvolution: On the Origin of Technological Species presents a new way of understanding human civilization. It showcases how the human story is driven not by our beliefs or ideologies, but by the technologies we create and use. The journey from recognizing our technological nature to building a better world happens in three stages, each transforming a fundamental realm of human experience: individual identity, political discourse, and economic systems.
 
