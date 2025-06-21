@@ -33,11 +33,11 @@ As past realizations about new truths allowed us to solve problems with space sa
 
 Let me explain.
 
-Right now many in Gen Z are hoping to buy a car and own a home. Scores of retirees are hoping they will have the healthcare they need to live comfortable retirements. Workers need more money, bosses need better workers. Conservatives worry about traditional values in a changing world, while Progressives exhaust themselves defending social changes. Technologists are bored using the technology of the future to make the toys of today. Wise people are worrying when our many debt bubbles might burst.
+Right now many in Gen Z are hoping to buy a car and own a home. Scores of retirees are hoping they will have the healthcare they need to live comfortable retirements. Workers need more money, bosses need better workers. Conservatives constantly worry about traditional values, while Progressives exhaust themselves defending social changes. Technologists are bored using the technology of the future to make the toys of today. Wise people are worrying when our many debt bubbles might burst.
 
 There is a long list of people in need and seeking answers. There are countless talking points on social media vying for our attention. If this massive amount of political content had answers, they would have been found by now. 
 
-Well-meaning influencers and analysts cannot find solutions, because in truth, each is rooted in biological identities that do not account for the technological ecosystem we live in, and therefore are applying biological thinking to technological problems.
+Well-meaning influencers and analysts cannot find solutions, because in truth, each is rooted in biological identities and ideologies that do not account for the modern technological ecosystem we live in.
 
 To overcome our challenges requires us to uncover natural laws and finally see what modern human life truly is.
 
@@ -49,11 +49,11 @@ And that is the evolution of new species better suited to win the game.
 
 You can harness this winning playbook, once you realize we prosper by evolving new technologies, tools, and ways of life. Lucky for us, the technological ecosystem has long been creating many amazing adaptations to upgrade our civilization.
 
-That is because in 1970, the foundational technologies of the next age—microchips, computers, and internet—were converging; the Internet Age was born. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place on the field. Sadly, some did not embrace its inventions, hoping to unnaturally keep their own alive. Happily, progress was not stopped and a new age kept advancing on the game board.
+That is because in 1970, the foundational technologies of the next age—microchips, computers, and internet—were converging; the Internet Age was born. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place on the field. Some did not embrace its inventions, hoping to unnaturally keep their own alive. Happily, progress was not stopped and a new age kept moving on the game board.
 
-However, continued advancements are never assured. We are seriously holding back the Internet Age by using biological identities and ideological beliefs to select which modern technologies and adaptations live or die.
+However, continued advancements are never assured. The same way there is legacy businesses relative to modern technology, there are legacy identities and ideologies too. We are seriously holding back the Internet Age by using these old ideas to select which modern technologies and adaptations live or die.
 
-_Techvolution On the Origin of Technological Species_ will make the selection of technological species more natural. By empowering you, whether someone in Gen Z hoping to start a family or a retiree hoping to have grandkids, to do what life has done many times before: leave the shadows of a bygone age behind, adopt an updated worldview, and purposefully evolve to the new environment in which you live.
+_Techvolution On the Origin of Technological Species_ will make the selection of technological species more natural. By empowering you, whether someone in Gen Z hoping to start a family or a retiree hoping to have grandkids, to do what life has done many times before: leave the shadows of a bygone age behind and  purposefully evolve to the new environment in which you live.
 
 Realizing the Earth was not the center of the Universe launched the Science Age. Likewise, to unleash the Internet Age means accepting that life is a game of evolution, and thus Earth is effectively a lifeboat of constantly tested survivors. We earn our place with technological evolution. Only by embracing this fact can we quickly unmask many new ideas and practical solutions to improve our lives.
 
@@ -61,15 +61,15 @@ On this journey you will uncover our technological identity, be empowered to mak
 
 ## Illustration
 
-Earth is not a planet it is a lifeboat, and life only wants people who can keep the game alive. This illustration represents Earth's geological time periods and the lifeforms that lived within them, which we understand very well.
+This illustration represents Earth's geological time periods and the lifeforms that lived within them, which we understand very well.
 
 This illustration applies the Darwinian principles to civilization, so we can understand the evolution of technological life.
 
+<!--image source: https://commons.wikimedia.org/wiki/File:Geological_time_spiral.png  -->
+
 ## Book Series
 
-Techvolution: On the Origin of Technological Species presents a new way of understanding human civilization. It showcases how the human story is driven not by our beliefs or ideologies, but by the technologies we create and use. The journey from recognizing our technological nature to building a better world happens in three stages, each transforming a fundamental realm of human experience: individual identity, political discourse, and economic systems.
-
-The journey from recognizing our technological nature to building a better world happens in three stages:
+Techvolution: On the Origin of Technological Species presents a new way of understanding human civilization. It showcases how the human story is driven not by our beliefs or ideologies, but by the technologies we create and use. The journey from recognizing our technological nature to building a better world happens in three stages, each transforming a fundamental realm of human experience: individual identity, political discourse, and economic systems:
 
 **Book I—A New Identity:** This foundational work introduces a "technological identity"—the idea that we humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general, interact with the world. While we have names for our nationality, ethnicity, employment, and politics, we lack consciousness of our technological nature.
 
