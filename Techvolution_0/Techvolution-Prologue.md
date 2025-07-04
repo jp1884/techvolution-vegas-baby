@@ -29,13 +29,13 @@ Of course, we now know these rules of evolution apply to our biology, but we do 
 
 That's why this book is about you rejecting conventional wisdom and embracing a new paradigm: that human life is now primarily technological, and technological life plays the Darwinian game of evolution.
 
-As past realizations about new truths allowed us to solve problems with space satellites and medicines, the benefits to embracing this natural law today are equally immense. 
+As past realizations about new truths allowed us to solve problems with space satellites and medicines, the benefits to embracing this natural law are equally immense. 
 
 Let me explain.
 
 Right now many in Gen Z are hoping to buy a car and own a home. Scores of retirees are hoping they can afford to stay retired. Workers need more money, bosses need better workers. Conservatives constantly worry about traditional values, while Progressives exhaust themselves defending social changes. Many technologists create digital toys instead of tools that empower. Wise people are worrying when our many debt bubbles might burst.
 
-There is a long list of people in need and seeking answers. There are countless talking points on social media vying for our attention. If this massive amount of political content had answers, they would have been found by now. 
+There is a long list of people in need and seeking answers. There are countless talking points on social media vying for our attention. If this massive amount of political content had answers they would have been found by now. 
 
 Well-meaning influencers and analysts cannot find solutions, because in truth, each is rooted in biological identities and ideologies that do not account for the modern technological ecosystem we live in.
 
@@ -47,23 +47,23 @@ That means life has felt your struggles many times before. It should not be a su
 
 And that is the evolution of new species better suited to win the game.
 
-You can harness this winning playbook, once you realize we prosper by evolving new technologies, tools, and ways of life. Lucky for us, we have already created amazing technological adaptations to transform our civilization.
+You can harness this winning playbook, once you realize we prosper by evolving new technologies, tools, and ways of life. Lucky for us, we have already created many technological adaptations to transform our civilization.
 
-That is because in 1970, the foundational technologies of the next age—microchips, computers, and internet—were converging; the Industrial Age finally gave birth to the Internet Age. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place on the field. Many established people and businesses did not embrace modern inventions, hoping to unnaturally keep their own technologies alive. Happily, progress was not stopped and a new age kept moving on the game board.
+That is because in 1970, the foundational technologies of the next age—microchips, computers, and internet—were converging; the Industrial Age finally gave birth to the Internet Age. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place in nature. Many established people and businesses did not embrace modern inventions, hoping to unnaturally keep their own technologies alive. Happily, progress was not stopped and a new age kept moving on the game board.
 
-However, continued advancements are never assured. We are still clinging to Industrial Age identities, philosophies, and products, all legacy models in the modern age. We are seriously holding back the Internet Age by using these old ideas to select which modern technologies and adaptations live or die.
+However, continued advancements are never assured. We are still clinging to Industrial Age identities, philosophies, and ways of life. We are seriously holding back the Internet Age by using these old ideas to select which modern technologies and adaptations live or die.
 
 _Techvolution On the Origin of Technological Species_ will make the selection of technological species more natural. By empowering you, whether someone in Gen Z hoping to start a family or a retiree hoping to have grandkids, to do what life has done many times before: leave the shadows of a bygone age behind and purposefully evolve to the new environment in which you live.
 
-Realizing the Earth was not the center of the Universe launched the Science Age. Likewise, to unleash the Internet Age means accepting that life is a game of evolution, and thus Earth is effectively a lifeboat of constantly tested survivors. We earn our place with technological evolution. Only by embracing this fact can we quickly unmask many new ideas and practical solutions to improve our lives.
+Realizing the Earth was not the center of the Universe launched the Science Age. Likewise, to unleash the Internet Age means accepting that life is a game of evolution, and thus Earth is effectively a lifeboat of constantly tested survivors. We earn our place with technological evolution. Only by embracing this fact can we quickly unmask the new ideas and practical solutions we need to improve our lives.
 
 On this journey you will uncover our technological identity, be empowered to make smarter tool choices, and stop merely surviving Industrial Age obsolescence. With these lessons, you can select yourself to flourish in the Internet Age and thereby improve the fortunes of all who will follow us.
 
 ## Illustration
 
-This illustration represents Earth's geological time periods and the lifeforms that lived within them, which we understand very well.
+This illustration represents Earth's geological time periods and the lifeforms that lived within them, most of which we understand very well.
 
-Techvolution applies Darwinian principles to civilization's ages, so we can understand the evolution of technological life.
+Techvolution applies Darwinian principles to civilization's ages, so we can understand the evolution of technology as a continuation of biological life.
 
 <!--image source: https://commons.wikimedia.org/wiki/File:Geological_time_spiral.png  -->
 
