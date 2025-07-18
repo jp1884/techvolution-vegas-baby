@@ -597,7 +597,7 @@ Modern technology has changed how evolution selects us. Comparing top causes of 
 
 Unless a sudden catastrophe like factory soot or a meteor impact occurs, species typically die off gradually. Our falling birthrate is a prime example. While many blame younger generations for being negligent, the evolutionary truth is more complex: our economy remains trapped in a bygone era's lifestyle. Baby boomers continue to monopolize resources and block technological evolution, inadvertently clinging to the so-called "American Dream" rooted in their upbringing in the 1950s and 1960s.
 
-As a result, instead of adopting new tools and new ways of life that solve modern problems, we work to re-create the past with endless movie remakes, "all-new" car commercials, and more suburban housing, shopping centers, and office parks. It is not anyone's fault; we simply lack self-awareness of our technological identity and the evolutionary imperative to embrace change.
+As a result, instead of adopting new tools and new ways of life that solve modern problems, we work to re-create the past with endless movie remakes, "all-new" car commercials, and more suburban housing, shopping centers, and office parks. It is not anyone's fault; we simply lack self-awareness of our technological identity and the evolutionary imperative to embrace new work habits, travel requirements, food choices, and so many other changes in our way of life.
 
 The suburban, car-dependent culture and the idea of a lifelong career are becoming increasingly unsustainable. They are struggling—if not dying—branches on the tree of life. Yet, we do not have an identity that accepts these pains and uses modern tools to create a new way of life.
 
@@ -605,7 +605,7 @@ Boomers inadvertently limit younger generations' economic opportunities by maint
 
 For example, an insurance appraiser I worked with used a measuring wheel to measure the dimensions of large commercial buildings, taking days to complete what others did in hours with lasers. Another boomer, the CEO, banned smartphones for adjusters, insisting on landline phones despite customers already embracing faster communication in their daily lives. Again, nobody intends to be obstinate, but those with outdated skill sets have good reason to resist the change new tools on the tree of life bring.
 
-The youth recognize that their future is being sacrificed, which is reflected in the huge popularity of dystopian stories like _The Hunger Games_ and _Divergent_ in young adult fiction. Techvolution offers an alternative: by understanding technological evolution, we can transform our sense of powerlessness into agency, turning dystopian fears into a roadmap for deliberate, positive change.
+The youth recognize that their future is being sacrificed, which is reflected in the huge popularity of dystopian stories like _Ready Player One_, _The Hunger Games_ and _Divergent_ in young adult fiction. Techvolution offers an alternative: by understanding technological evolution, we can transform our sense of powerlessness into agency, turning dystopian fears into a roadmap for deliberate, positive change.
 
 The key lesson is that evolution cannot select us for our best intentions. Despite natural selection constantly rejecting many aspects of our modern lifestyle, we remain too fixated on our genes and personality to listen and adapt. To purposefully evolve a better way of life, we must tune our identity to seek out, embrace, and protect new tools that are, for now, being held back.
 
@@ -613,7 +613,7 @@ This is not a proclamation against boomers. Because, as the history of depressio
 
 To solve our problems with upgraded tools, we need to see ourselves as we are.
 
-Consider this: what is more concerning—spraining an ankle or having water pipes burst during vacation? Our ancestors might fear a lion when facing a physical injury, but today we would simply rest and watch Netflix. However, burst pipes could bankrupt you. I should know; I had to deny claims because homeowners broke the unknown conditions of their insurance policies. If they had been technologically self-aware enough to perform a simple two-minute water shut-off, they could have prevented years of hardship and earned a nod from evolution
+Consider this: what is more concerning—spraining an ankle or having water pipes burst during vacation? Our ancestors might fear a lion when facing a physical injury, but today we would simply rest and watch Netflix. However, burst pipes could bankrupt you. I should know; I had to deny claims because homeowners broke the unknown conditions of their insurance policies. If they had been technologically self-aware enough to perform a simple two-minute water shut-off, they could have prevented years of hardship and earned a nod from evolution.
 
 Yet, we rarely examine the "extended phenotype" part of ourselves. We remain barely conscious of our technological identities and fail to proactively develop skills that would satisfy evolutionary pressures. Far more people define themselves by gender, race, or heritage, compared to the tools they use to gather resources. Technological identity reveals who we truly are when we strip away labels—the tools we use, the problems we solve, and our ability to adapt and survive in a constantly changing world.
 
