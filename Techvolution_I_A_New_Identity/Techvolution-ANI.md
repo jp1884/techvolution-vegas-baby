@@ -3,6 +3,10 @@
 
 ## Book I: A New Identity
 
+- we think we create new technology. the realization that makes our present and future make more sense is that at some point technology started to create us.
+
+- see our lives/jobs not as bro vs fighting over tech to advance their genes but as on independent (tech) ecosystem that we harness/car for, like a farmer from foraging to farming.
+
 ## Back Page Summary
 
 Who are you? What truly defines your identity in this age of massive technological change?
@@ -587,7 +591,7 @@ My experience is not unique; many people face similar challenges, from social an
 
 As for the extended phenotype, before the Industrial Revolution, we were often like squirrels using tools made from the natural world. Technology still amazed us, but things such as sod houses, wood saws, and paper books are physical objects easy to hold, safe to smell, and natural to the touch. However, after the massive explosion of chemicals, materials, electricity, electronics, software, and so many other things over the past 150 years, we are now like raccoons who depend on things we do not truly understand.
 
-I know this in my soul. After my speech improved as a claims adjuster, I looked around and realized how valuable the job was. I processed more than 7,000 claims and spoke with more than 30,000 people from all walks of life. By getting into people's shoes when their furnaces died, cars crashed, or houses flooded, the job is basically a massive experiment on our economy for anyone empathetic enough to listen to people's pains. For a political economy student, being a claims adjuster was an intellectual gold mine.
+I know this in my soul. After my speech improved as a claims adjuster, I looked around and realized how valuable the job was. I processed more than 7,000 claims and spoke with more than 30,000 people from all walks of life. By getting into people's shoes when their furnaces died, cars crashed, or houses flooded, the job is basically a daily experiment on our economy for anyone empathetic enough to listen to people's pains. For a political economy student being a claims adjuster was an intellectual gold mine.
 
 The ultimate lesson was how people struggle to understand modern technologies. We live in a world of increasing complexity but diminishing comprehension. From wealthy executives to blue-collar workers, everyone is equally perplexed by a car crash or a malfunctioning piece of technology. People rarely understand their own possessions or the rules governing their use, yet continue buying and selling technology, always one glitch away from asking, "Doesn't my insurance cover this?" to a person on the phone as if I had a magic wand to erase their problems.
 

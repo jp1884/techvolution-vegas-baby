@@ -25,7 +25,7 @@ Universal laws are our best guide because they are eternal. They never change. J
 
 We named the game after Charles Darwin because he decoded the natural law behind its rules. He showed how all lifeforms instinctively play a grand competition, striving to survive and reproduce to pass on their genetics. As each generation exhibits slight variations, natural selection favors traits that enhance survival and reproductive success, driving the evolution of new species better suited to the changing environment.
 
-Of course, we now know these rules of evolution apply to our biology, but we do not yet realize these same laws apply to human civilization—and all the technologies that create, build, and power it, and by extension educate, house, and feed us.
+Of course, we now know these rules of evolution apply to biological life, but we do not yet realize these same laws apply to human civilization—and all the technologies that create, build, and power it, and by extension educate, house, and feed us. This mismatch explains why our lives seem to get more broken despite technology getting better over these last few decades.
 
 That's why this book is about you rejecting conventional wisdom and embracing a new paradigm: that human life is now primarily technological, and technological life plays the Darwinian game of evolution.
 
@@ -33,9 +33,9 @@ As past realizations about new truths allowed us to solve problems with space sa
 
 Let me explain.
 
-Right now Gen Z hopes to buy homes and cars. Retirees worry about affording retirement. Parents struggle with childcare costs while students graduate with crushing debt. Workers need more money, bosses need better workers. Small businesses watch tech giants dominate. Healthcare workers often fear bureaucracy more than illnesses. Conservatives worry about traditional values while Progressives defend social changes. Technologists create digital toys instead of empowering tools. Wise people worry when our many debt bubbles might burst.
+Right now Gen Z hopes to buy homes and cars. Retirees worry about affording retirement. Parents struggle with childcare costs while students graduate with crushing debt. Workers need more money, bosses need better workers. Small businesses watch tech giants dominate. Healthcare workers often fear paperwork more than illnesses. Conservatives worry about traditional values while Progressives constantly defend social changes. Technologists create digital toys instead of empowering tools. Wise people worry when our many debt bubbles might burst.
 
-From the well off hoping society holds together, to the needy tired of hoping, there is a long list of people in need and seeking answers. There are countless talking points on social media vying for our attention. If this massive amount of political content had answers they would have been found by now. 
+From the better off hoping society holds together, to the needy tired of hoping for better, there is a long list of people in need and seeking answers. There are countless talking points on social media vying for our attention. If this massive amount of political content had answers they would have been found by now. 
 
 Well-meaning influencers and analysts cannot find solutions, because in truth, each is rooted in biological identities and ideologies that do not account for the modern technological ecosystem we live in.
 
@@ -49,7 +49,7 @@ And that is the evolution of new species better suited to win the game.
 
 You can harness this winning playbook, once you realize we prosper by evolving new technologies, tools, and ways of life. Lucky for us, we have already created many technological adaptations to transform our civilization.
 
-That is because in 1970, the foundational technologies of the next age—microchips, software, computers, and internet—were converging; the Industrial Age finally gave birth to the Internet Age. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place in nature. Many established people and businesses did not embrace modern inventions, hoping to unnaturally keep their own technologies alive. Happily, progress was not stopped and a new age kept moving on the game board.
+That is because in 1970, the foundational technologies of the next age—microchips, software, computers, and internet—were converging; the Industrial Age finally gave birth to the Internet Age. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place in nature. Many established people and businesses did not embrace modern inventions, hoping to unnaturally keep their own technologies alive. Happily, although attacks were made, progress was not stopped and a new age kept moving on the game board.
 
 However, continued advancements are never assured. We are still clinging to Industrial Age identities, philosophies, and ways of life. We are seriously holding back the Internet Age by using these old ideas to select which modern technologies and adaptations live or die.
 
@@ -61,7 +61,7 @@ On this journey you will uncover our technological identity, be empowered to mak
 
 ## Illustration
 
-This illustration represents Earth's geological time periods and the lifeforms that lived within them, most of which we understand very well.
+This illustration represents Earth's geological time periods and the lifeforms that lived within them, most of which we understand quite well.
 
 Techvolution applies Darwinian principles to civilization's ages, so we can understand the evolution of technology as a continuation of biological life.
 
@@ -83,7 +83,7 @@ Mixed Ideological Politics teaches how to evaluate tools based purely on their e
 
 **Book III—Bumblebee Economics:** Once we combine technological self-awareness with ideology-free tool selection, we can create an economy as adaptive as life itself. Nature shows us the way. Her diverse biological species create collaborative ecosystems through simple rules of interaction. Bumblebee Economics applies this wisdom to our technological world. While we have already developed some open-source and interoperable technologies like USB and Bluetooth, we need an economic philosophy that accelerates their use to create a freely evolving technological ecosystem.
 
-The goal is to create an ecosystem similar to Apple's, but more decentralized and dynamic: imagine medical records seamlessly flowing between a doctor's office, pharmacy, and your smartphone. All this via independent, yet standardized, programs that can evolve independently. Like bees and flowers co-evolving in a symbiotic relationship, this framework would enable technologies to adapt and grow, with users benefiting from increasingly capable and interconnected systems. With this approach, we can finally add to the Industrial Age's mass-production of generic adaptations to find countless untapped niches via the era of mass collaboration in the Internet Age.
+The goal is to create an ecosystem similar to Apple's, but more decentralized and dynamic: imagine medical records seamlessly flowing between a doctor's office, pharmacy, and your smartphone. All this via independent, yet standardized, programs that can evolve independently. Like bees and flowers co-evolving in a symbiotic relationship, this framework would enable technologies to adapt and grow, with users benefiting from increasingly capable and interconnected systems. With this mindset, we can finally add to the Industrial Age's mass-production of generic adaptations to find countless untapped niches via the era of mass collaboration in the Internet Age.
 
 `Understand yourself → Learn to use different tools → Work effectively with others`
 
