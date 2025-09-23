@@ -25,7 +25,7 @@ Universal laws are our best guide because they are eternal. They never change. J
 
 We named the game after Charles Darwin because he decoded the natural law behind its rules. He showed how all lifeforms instinctively play a grand competition, striving to survive and reproduce to pass on their genetics. As each generation exhibits slight variations, natural selection favors traits that enhance survival and reproductive success, driving the evolution of new species better suited to the changing environment.
 
-Of course, we now know these rules of evolution apply to biological life, but we do not yet realize these same laws apply to human civilization—and all the technologies that create, build, and power it, and by extension educate, house, and feed us. This mismatch explains why our lives seem to get more broken despite technology getting better over these last few decades.
+Of course, we now know these rules of evolution apply to biological life, but we do not yet realize these same laws apply to human civilization—and all the technologies that create, build, and power it, and by extension educate, house, and feed us. This mismatch explains why our lives seem to get more broken despite technology getting better each year.
 
 That's why this book is about you rejecting conventional wisdom and embracing a new paradigm: that human life is now primarily technological, and technological life plays the Darwinian game of evolution.
 
@@ -33,31 +33,39 @@ As past realizations about new truths allowed us to solve problems with space sa
 
 Let me explain.
 
-Right now Gen Z hopes to buy homes and cars. Retirees worry about affording retirement. Parents struggle with childcare costs while students graduate with crushing debt. Workers need more money, bosses need better workers. Small businesses watch tech giants dominate. Healthcare workers often fear paperwork more than illnesses. Conservatives worry about traditional values while Progressives constantly defend social changes. Technologists create digital toys instead of empowering tools. Wise people worry when our many debt bubbles might burst.
+Many are struggling right now. Young people can't afford homes or cars. Retirees worry about money running out. Parents juggle crushing childcare costs while students graduate buried in debt. Workers want better pay, bosses want better skilled employees. Small businesses watch giant corporations grow even bigger. Healthcare workers spend more time on paperwork than helping patients. Conservatives defend tradition, progressives push change, and technologists build entertainment instead of solutions. Wise people worry when our many debt bubbles might burst.
 
-From the better off hoping society holds together, to the needy tired of hoping for better, there is a long list of people in need and seeking answers. There are countless talking points on social media vying for our attention. If this massive amount of political content had answers they would have been found by now. 
+And most of these problems have been getting worse for decades.
+
+The point is there is a long list of people in need and seeking answers. There are countless talking points on social media vying for our attention. If this massive amount of political content had answers they would have been found by now. 
 
 Well-meaning influencers and analysts cannot find solutions, because in truth, each is rooted in biological identities and ideologies that do not account for the modern technological ecosystem we live in.
 
 We can only overcome our challenges when we uncover the natural laws that show what modern human life truly is.
 
-Just another chapter in the ongoing Darwinian game of evolution—but with a twist, life is now technological. This change is nothing but a difference in material, one among the many that has taken place during the eons, epochs, ages in which Earth has had different geologies, atmospheres, environments, and lifeforms.
+Just another chapter in the ongoing Darwinian game of evolution—but with a twist, life is now technological. This change is nothing but a difference in material, one among the many that has taken place during the time periods in which Earth has had different geologies, atmospheres, environments, and lifeforms.
 
 That means life has felt your struggles many times before. It should not be a surprise there is a time-tested game plan for not only your survival, but prosperity.
 
 And that is the evolution of new species better suited to win the game.
 
-You can harness this winning playbook, once you realize we prosper by evolving new technologies, tools, and ways of life. Lucky for us, we have already created many technological adaptations to transform our civilization.
+You can harness this winning strategy, once you realize we prosper by evolving new technologies, tools, and ways of life. Happily, we have already created many of the technological adaptations we need to evolve our civilization.
 
-That is because in 1970, the foundational technologies of the next age—microchips, software, computers, and internet—were converging; the Industrial Age finally gave birth to the Internet Age. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place in nature. Many established people and businesses did not embrace modern inventions, hoping to unnaturally keep their own technologies alive. Happily, although attacks were made, progress was not stopped and a new age kept moving on the game board.
+That is because in 1970, the foundational technologies of the next age—microchips, software, computers, and internet—were converging; the Industrial Age finally gave birth to the Internet Age. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place in nature.
 
-However, continued advancements are never assured. We are still clinging to Industrial Age identities, philosophies, and ways of life. We are seriously holding back the Internet Age by using these old ideas to select which modern technologies and adaptations live or die.
+Sadly, many established people and businesses did not embrace modern inventions, hoping to unnaturally keep their own technologies alive. 
+
+Now our evolution has stalled.
+
+Because we are still clinging to Industrial Age identities, philosophies, and ways of life. The Internet Age cannot prosper if we keep using these old ideas to select which modern technologies and adaptations live or die.
 
 _Techvolution On the Origin of Technological Species_ will make the selection of technological species more natural. By empowering you, whether someone in Gen Z hoping to start a family or a retiree hoping to have grandkids, to do what life has done many times before: leave the shadows of a bygone age behind and purposefully evolve to the new environment in which you live.
 
-Realizing the Earth was not the center of the Universe launched the Science Age. Likewise, to unleash the Internet Age means accepting that life is a game of evolution, and thus Earth is effectively a lifeboat of constantly tested survivors. We earn our place with technological evolution. Only by embracing this fact can we quickly unmask the new ideas and practical solutions we need to improve our lives.
+Realizing the Earth was not the center of the Universe launched the Science Age. Likewise, to unleash the Internet Age means accepting that life is a game of evolution, and Earth is effectively a lifeboat of constantly tested survivors. Humans earn our place with technological evolution.
 
-On this journey you will uncover our technological identity, be empowered to make smarter tool choices, and stop merely surviving Industrial Age obsolescence. With these lessons, you can select yourself to flourish in the Internet Age and thereby improve the fortunes of all who will follow us.
+Only by embracing this fact can we quickly unmask the new ideas and practical solutions we need to improve our lives.
+
+On this journey you will uncover our technological identity, be empowered to make smarter tool choices, and stop merely surviving Industrial Age obsolescence. With these lessons, you can select yourself to flourish in the Internet Age and improve the fortunes of all who will follow us.
 
 ## Illustration
 
@@ -73,9 +81,9 @@ _Techvolution: On the Origin of Technological Species_ presents a new way of und
 
 **Book I—A New Identity:** This foundational work introduces a "technological identity"—the idea that we humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general, interact with the world. While we have names for our nationality, ethnicity, employment, and politics, we lack consciousness of our technological nature.
 
-Consider someone labeled "Californian, female, Hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread, and she sells DVDs for a living. Because technological evolution is about to make physical media discs obsolete, her personal networks and knowledge base are now of questionable value. Yet, we have no name for this identity that might upend her life. This is but one example of why, from power tools to smartphones, our technological choices not only shape what we can do but who we should see in the mirror.
+Consider someone labeled "Californian, female, Hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread, and she sells DVDs for a living. Because technological evolution is about to make physical media discs obsolete, her personal networks and knowledge base are now of questionable value.
 
-Only then will we stop using biological instincts to live in a technological ecosystem.
+Yet, we have no name for this identity that might upend her life. This is but one example of why, from power tools to smartphones, our technological choices not only shape what we can do but who we should see in the mirror. Only then will we stop using biological instincts to live in a technological ecosystem.
 
 **Book II—Mixed Ideological Politics:** Having established our technological identity, we must next liberate our toolsets from ideological constraints. Today, we often reject useful tools simply because of their political or cultural associations—renewable energy is labeled "green," diesel trucks "red-blooded American." These artificial divisions prevent us from combining technologies in optimal ways.
 

@@ -7,6 +7,12 @@
 
 - see our lives/jobs not as bro vs fighting over tech to advance their genes but as on independent (tech) ecosystem that we harness/car for, like a farmer from foraging to farming.
 
+-  identity shift as genetic shift!
+
+- Take a moment to list three tools you rely on daily. For each, ask: How did this tool change the way I solve a problem? What would happen if I lost it tomorrow? Which new tool could replace or augment it tomorrow?”
+
+- why does evolution favor bigger organism, until a high pressure/extinction event?
+
 ## Back Page Summary
 
 Who are you? What truly defines your identity in this age of massive technological change?
@@ -547,6 +553,10 @@ DARWIN: What if we're living in an ant hill, one made of technology instead of d
 SOCRATES: Tell me more about evolution by way of natural selection.
 
 ...as the sun rises above the horizon.
+
+
+- why does turning a computer off and on fix so many problems, asks Lex to windows creator. because 1, memory gets used and no freed so it accumulates, and 2 code of a program when used long enough gets into a state that is untested or unknown, so reboot refreshes memory and state and "covers lots of sins"
+https://www.youtube.com/watch?v=3MRlsA-uwZg
 
 
 ## Introduction 
