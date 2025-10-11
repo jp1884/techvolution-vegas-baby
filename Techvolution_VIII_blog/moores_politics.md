@@ -1,7 +1,7 @@
 
 <!-- POST ONE -->
 
-# The More Cool Tech We Invent, The More We Hate
+# The More Cool Tech We Invent, The More We Hate #1
 
 ## The Digital Revolution and our hateful politics
 
@@ -64,7 +64,7 @@ We'll delve deeper into the causation question in the next few posts. For now, l
 <!-- POST TWO -->
 <!-- BUT ITS NOT JUST TRANSISTORS CHANGING -->
 
-# The More Cool Tech We Invent, The More We Hate
+# The More Cool Tech We Invent, The More We Hate #2
 
 ## Post Two: More Trends
 
@@ -80,7 +80,9 @@ Other factors can be said to have contributed, such as media echo chambers, dema
 
 The problem is these factors all existed before Gordon Moore wrote his famous law.
 
-The "circulation wars of the early 20th century mirrored today's media echo chambers. Media magnates such as Joseph Pulitzer and William Randolf Heart used giant headlines and shock photos, so called "yellow journalism", to manipulate narratives much like modern media influencers. While the insatiable drive for newspaper buys is comparable to today's the lust for likes.
+## Historical Context
+
+News and entertainment media are not new. The "circulation wars of the early 20th century mirrored today's media echo chambers. Media magnates such as Joseph Pulitzer and William Randolf Heart used giant headlines and shock photos, so called "yellow journalism", to manipulate narratives much like modern media influencers. While the insatiable drive for newspaper buys is comparable to today's the lust for likes.
 
 Influential talking heads were around too.
 
@@ -88,24 +90,30 @@ During the Great Depression, socialists like Earl Browder and radio personality 
 
 The rich also funded the politics in the past as well. 
 
-American tycoons also wielded significant political influence through economic power and strategic philanthropy. Industrial leaders like Rockefeller, Carnegie, and Morgan shaped national policy by funding campaigns, lobbying legislators, and pulling strings of power with their economic networks. Their philanthropic foundations and political connections allowed them to impact national decisions, creating a unique relationship between corporate interests and government.
+American tycoons wielded significant political influence through economic power and strategic philanthropy. Industrial leaders like Rockefeller, Carnegie, and Morgan shaped national policy by funding campaigns, lobbying legislators, and pulling strings of power with their economic networks. Their philanthropic foundations and political connections allowed them to impact national decisions, creating a unique relationship between corporate interests and government.
 
 The point is many of the commonly cited causes to our partisanship have existed before. Manipulative media, influential talking heads, rich funded political campaigns are not new anymore than gerrymandering, racial tensions or economic inequality.
 
 Perhaps ever more powerful electronics supercharged existing problems and pushed our system to the breaking point. For example, what if cable news and social media are simply more present and targeted and therefore more influential than radio and newspapers.
 
-The problem is political polarization was not the only thing that started in the 1970s and has gotten worse since.
+That is certainly possible. Digital technology makes media echo chambers easier to create and maintain. However, the rise of communism and fascism in the 1920s-30s demonstrates that powerful persuasion existed long before algorithms—through mass rallies and propaganda that could radicalize entire societies without any digital targeting.
 
-Let's look at the environment. Surely the world's plants and creatures are isolated from the problems of society. How's Mother Nature been doing lately.
+These reasons for today's growing polarization seem incomplete. What if political breakdown is merely a symptom of a larger transformation? Let's test this hypothesis by examining other domains to see if a profound shift is truly underway.
+
+We'll look at the environment. Surely the world's plants and creatures are isolated from the problems of society. How's Mother Nature been doing lately.
 
 Things aren't so good.
 
-Biologists today say the Sixth Mass Extinction is underway, with species extinction rates comparable to previous mass extinction events like the one that wiped out the dinosaurs. Then there's climate change, with most scientists documenting accelerating warming trends, with unknown consequences for the planet because of our refusal to stop overusing fossil fuels.
+## Beyond Politics: Environment and Economics
+
+Unfortunately, the environment is not isolated from human society. Biologists today say the Sixth Mass Extinction is underway, with species extinction rates comparable to previous mass extinction events like the one that wiped out the dinosaurs. Then there's climate change, with most scientists documenting accelerating warming trends, with unknown consequences for the planet because of our refusal to stop overusing fossil fuels.
 
 <!-- insert graph of global temperatures -->
 <!-- https://en.wikipedia.org/wiki/Climate_change#/media/File:Global_Temperature_And_Forces_With_Fahrenheit.svg -->
 
-This stands in stark contrast to 1970, when just eight years after the book "Silent Spring" awakened America to suffering environment a Republican president created the Environment Protection Agency. So, within a decade of becoming aware of the serious problem, American politics was on its way to cleaning up the many oil spills and smoke stacks harming the country.
+This stands in stark contrast to 1970, when just eight years after the book "Silent Spring" awakened America to its suffering environment a Republican president created the Environment Protection Agency. Within a decade of becoming aware of the serious problem, American politics was on its way to cleaning up the many oil spills and smoke stacks harming the country (although it must be said, some solutions were exporting the problem to other countries).
+
+Rising transistor counts correlate with environmental collapse by enabling massive increases in consumption and resource extraction. Transistors powered new powers in navigation, robotics, and global supply chains that reduced production costs while making environmental damage less visible to consumers.
 
 Let's look at another area. How is the government debt going? 
 
@@ -113,7 +121,7 @@ Governments routinely borrow money to fund operations, from public school salari
 
 The history of America's debt ratio tells a familiar story. During the Great Depression, despite widespread hunger and unemployment, the debt ratio for local, state, and federal governments was about 60%. During World War II, when America turned a 200,000 person military into a 12 million with tens of thousands of tanks, planes, and boats, government debt rose to 120%.
 
-However, after the war ended, the debt ratio became scary. Debt ratios matter because they determine how much financial firepower governments have for the next war, recession, or national emergency—which is why post-WWII leaders prioritized bringing the ratio down.
+However, after the war ended, this debt ratio became scary. Debt ratios matter because they determine how much financial firepower governments have for the next war, recession, or national emergency—which is why post-WWII leaders prioritized bringing the ratio down.
 
 In response, much like when Americans founded the EPA to deal with their environment problems, the US Congress cooperated, compromised, and made deals to address the debt ratio. With strong economic growth and sound policy decisions by 1960 the ratio was about 70% and by 1980 government debt ratio was down to about 50%.
 
@@ -124,25 +132,59 @@ All told, we are as damaging to the environment as a meteor strike while using u
 <!-- insert graph of government debt -->
 <!-- https://upload.wikimedia.org/wikipedia/commons/e/e1/Public_debt_percent_of_GDP.pdf -->
 
+## The Bigger Picture
+
 Now we see the rise in transistors coincides with rising political partisanship, ecological and environmental damages, and growing government debt.
 
-There are some positive trends of course. Despite the news media, the murder rate has been improving, as has literacy rates and smoking is far less common. Regardless, many things in our society in addition to politics, environment, debt, have gotten worse. Youth home ownership has plummeted, student debt has skyrocketed, and personal health metrics show troubling trends—all coinciding with the transistor boom. 
+There are some positive trends of course. The murder rate has been improving, as have literacy rates and smoking is far less common. Regardless, many things in our society in addition to politics, environment, debt, have gotten worse. Youth home ownership has plummeted, student debt has skyrocketed, and personal health metrics show troubling trends. 
 
-In the last post of this series, we'll see why this is not just coincidence.
+In the last post of this series, we'll see why this is all not coincidence.
 
-These interconnected trends suggest something profound: our technological capabilities are rapidly evolving exponentially, while our personal identities, ideological politics, and economic systems remain unchanged. The transistor didn't just change our devices; it fundamentally challenged our ability to collectively respond to rapid change, giving us power we don't yet understand in a world we are not evolved to navigate.
+These interconnected trends suggest something profound: our technological capabilities are rapidly evolving exponentially, while our personal identities, ideological politics, and economic systems remain unchanged. The transistor didn't just change our devices; it fundamentally challenged our ability to collectively respond to rapid change, and so far we've failed. 
 
+Moore's Law gave us power we don't yet understand in a world we are not evolved to navigate.
+
+# The More Cool Tech We Invent, The More We Hate #3
 <!-- POST THREE -->
 <!-- DON'T SEE TRANSITORS, SEE A NEW ECOSYSTEM -->
 <!-- WE HAVE NO PROBLEM SEEIN BIO PROBLEMS, BUT TECH PROBLEMS WE DO -->
+<!-- WE UNDERSTAND CLIMATE, MEDICAL, debt et al in science, but our politics is still mystic -->
 
 ## Technology Is Our Blind Spot
 
-The lifespan of a modern American is about 70 years. The lifespan of modern electronic technology is so much shorter. As many elders are confused by iPhones, there are youths who don't know how to use telephones or understand what a DVD rental store late fee is.
+In our previous posts, we traced an unexpected pattern: the rise of transistors seemed to coincide with profound societal transformations. What began as a question about political polarization expanded into a broader investigation.
+
+We discovered similar breakdown patterns across politics, environmental sustainability, and economic management—all emerging roughly when transistor-powered electronics became more sophisticated.
+
+Now, in our final post, we ask the most fundamental question: Are we witnessing something more significant than mere coincidence?
+
+Why might there be causation between our situation and rising transistor counts?
+
+If we had started this series not by asking did Moore's Law cause our political partisanship, but instead asked did Moore's Law cause the Sixth Mass Extinction, we'd find it easier to digest the answer.
+
+Moore's Law powered ever more powerful design, automation. It super charged our factories, transport, travel and to much more. Of course technology already transformed of Earth but it was digital technology that helped build huge cities, farms, power plants, mines, logged entire forests, drilled into oil from high seas.
+
+For biologists, the connection between technological acceleration and species extinction is clear. As environments transform faster than species can adapt, animals find themselves increasingly unable to locate critical resources, leading to population collapse.
+
+Yet, we do not understand our pains with such clarity. We could, because we are not much different than the walrus struggling to find polar ice or the Florida alligator fighting off waves of Burmese pythons.
+
+In short, we have no biologists who understand and explain ourselves. Thus, seeing the causation in our fate as our environment changes is difficult.
+
+Why? 
+
+Because the fact that we need to update our work habits, social structures, habitation, i.e. evolve, as technology does, eludes us. Hence we go into huge debt instead of living within our means, fight instead of cooperate in our politics, and abuse our environment, all trying to keep the lifestyles of pre transistors ancestors alive.
+
+Basically, we struggle because it's hard to realize you yourself are out of date. How many teachers, executives, politicians have ever said out loud "you know what I have no idea what this AI thing is doing, perhaps someone else should be doing this job".
+
+This blog series has not been about transistors change the nature. It's an introduction to look in the mirror and gain some self-awareness to see how ourselves as biologists see creatures; beings contantly tested by evolution.
+
+To understand how rapidly we're changing, consider this:
+
+The lifespan of a modern American is about 70 years. The lifespan of modern electronic technology is so much shorter. As many elders are confused by iPhones, youths don't know how to use telephones or understand what a DVD rental store late fee is.
 
 Who can blame them, the technologies that once dominated our world just 20 years ago are effectively extinct.
 
-Largely because of rising transistor counts, modern technology is evolving faster than we can adapt. Our biology did not evolve to rethink ourselves and society so many times within a single human lifetime.
+Largely because of rising transistor counts, modern technology is evolving faster than we can adapt. Our biology did not evolve to rethink our identities, politic, and economics so many times within a single human lifetime.
 
 As a result, we individuals commonly have the mentalities of the past whilst using the ever more powerful technology given to us via Moore's Law.
 
@@ -173,17 +215,29 @@ Business Insider. (2016). This 60-second animation shows how divided Congress ha
 
 ===
 
-https://en.wikipedia.org/wiki/Charles_Coughlin
+Wikipedia contributors. (2025, October 1). Yellow journalism. Wikipedia. https://en.wikipedia.org/wiki/Yellow_journalism
 
-https://en.wikipedia.org/wiki/Chicago_circulation_wars
+Wikipedia contributors. (2025, October 1). Charles Coughlin. Wikipedia. https://en.wikipedia.org/wiki/Charles_Coughlin
 
-https://en.wikipedia.org/wiki/Earl_Browder
+Wikipedia contributors. (2025, October 1). Earl Browder. Wikipedia. https://en.wikipedia.org/wiki/Earl_Browder
 
+NASA. (2025, October 1). What is climate change? Science. https://science.nasa.gov/climate-change/what-is-climate-change/
+
+Wikipedia contributors. (2025, October 1). Holocene extinction. Wikipedia. https://en.wikipedia.org/wiki/Holocene_extinction
+
+Wikipedia contributors. (2025, October 1). National debt of the United States. Wikipedia. https://en.wikipedia.org/wiki/National_debt_of_the_United_States
+
+
+
+
+===
 
 
 Wikipedia contributors. (n.d.). Holocene extinction. Wikipedia. https://en.wikipedia.org/wiki/Holocene_extinction (Accessed September 24, 2025)
 
 Wikipedia contributors. (n.d.). Climate change. Wikipedia. https://en.wikipedia.org/wiki/Climate_change (Accessed September 24, 2025)
+
+https://science.nasa.gov/climate-change/what-is-climate-change/
 
 Wikipedia contributors. (n.d.). United States Environmental Protection Agency. Wikipedia. https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency (Accessed September 24, 2025)
 
