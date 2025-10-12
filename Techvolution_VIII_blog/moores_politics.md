@@ -152,30 +152,56 @@ Moore's Law gave us power we don't yet understand in a world we are not evolved 
 
 ## Technology Is Our Blind Spot
 
-In our previous posts, we traced an unexpected pattern: the rise of transistors seemed to coincide with profound societal transformations. What began as a question about political polarization expanded into a broader investigation.
+In our previous posts, we followed an unexpected pattern: the rise of transistors seemed to go hand in hand with our growing political polarization. Then we expanded our search area and  discovered similar patterns in environmental sustainability, and economic management.
 
-We discovered similar breakdown patterns across politics, environmental sustainability, and economic management—all emerging roughly when transistor-powered electronics became more sophisticated and getting worse as Moore's Law kept birth more powerful digital technology.
+All three trends emerged roughly when transistors created electronics and got worse as Moore's Law kept birthing more sophisticated digital technology.
 
 Now, in our final post, we ask the most fundamental question: Are we witnessing something more significant than mere coincidence?
 
-Moore's Law powered ever more powerful design, automation. Of course non-digital technology already transformed of Earth but it was digital technology that super charged our construction of bigger cities, large farms, stronger power plants, deeper mines, logged entire forests, drilled into oil from high seas, and so much more.
+Is digital technology, in some way, causing our problems?
 
-Here's an example I'm sure most of you will painfully understand.
+Of course non-digital technology had already changed our planet. Before Moore's Law, ships sailed the world, rigs pumped oil, projectors displayed movies, libraries were filled with books.
 
-What its like dealing with health insurance? The entire US healthcare system has exploded in size and complexity since, you guessed it, along with Moore's Law.
+There was much technology before the 1970s.
 
-Here's a graph that shows the growth in healthcare administrators, accountants, insurance adjusters, etc, versus growth in doctors.
+As transistor counts doubled roughly every two years, nearly everything got supercharged. We got computers to design bigger buildings, robots to build more machines, radar to dig deeper mines, hard drives to store libraries of knowledge in ebooks, and so much more.
+
+Here's an example of just how much powerful electronics got.
+
+It shows the evolution of computer game graphics. This incredible growth in processing power happened to all our tools, from medical imaging devices to Artificial Intelligence.
+
+<!-- IMAGE -->
+<!-- Data Radar. (2023). Evolution of Video Game Graphics 1962 - Now (4K) [Video]. YouTube. https://www.youtube.com/watch?v=3H6hnFV-nDU -->
+
+## Your Life
+
+Moore's Law is not a law of physics like gravity. Rather, it's an observation that the cost of making transistors decreases over time so that they can be doubled about every two years.
+
+The law is somewhat self-fulfilling. Semiconductor designers and fabricators hold themselves up to the expectations of Dr. Gordon Moore famous law, and thus keep finding ways to make it come true. This expectation makes product road maps so reliable that customers can expect the next iPhone or Playstation, on a regular schedule.
+
+While customer's eagerly await the next must have technology, it was this rapid change that stressed our politics, environment, and economics.
+
+Here's an example of how it stressed our daily lives. I'm sure some of you will painfully understand if you've ever dealt with health insurance at any length.
+
+The entire US healthcare system has exploded in size and complexity since—you guessed it—Moore's Law.
+
+Here's a graph that shows the growth in healthcare accountants, insurance adjusters, managers, anyone who helps administer the healthcare system, versus growth in doctors.
 
 <!-- insert NCHS and Himmelstein/Woolhandler analysis of CPS -->
+<!-- Robbins, R. A., & Natt, B. (2018). Medical image of the week: Medical administrative growth. Southwest Journal of Pulmonary and Critical Care, 17(1), 35. https://repository.arizona.edu/handle/10150/631752 -->
 <!-- https://repository.arizona.edu/bitstream/handle/10150/631752/087-18.pdf?sequence=1 -->
 
-The point is Moore’s Law gave healthcare tools it was unprepared to use wisely. The result was not a reduction in administrative labor, but a digitally enhanced expansion of it—proof that technological potential is only as good as the system that wields it.
+As a former claims adjuster I can say most everyone complains about insurance. There are an endless array of companies, departments, meetings, conference calls, policies, regulations, laws, contact numbers, procedures, with very few standards to ease their use.
 
-As a former claims adjuster I can say most everyone complains about insurance. Most do not know why its so frustrating. Hopefully an answer is starting to evolve in your head.
+Basically, as computers, printers, email, internet, and now AI, got faster, it becomes easier for us to create paperwork (and the jobs that create it).
+
+And, like the other trends we've taken a look at, Moore’s Law gave society tools we were unprepared to use wisely. The result was not a reduction in administrative labor and paperwork, but a digitally enhanced expansion of it—proof that technological potential is only as good as the system that wields it.
+
+Hopefully the real cause to our political, economic, and environmental problems is starting to take root in your head.
 
 ## Biologists for Humans
 
-If we had started this series not by asking did Moore's Law cause our political partisanship, but instead asked did Moore's Law cause the Sixth Mass Extinction, we'd find it easier to digest the answer.
+If we had started this series not by asking if Moore's Law caused our political partisanship, but instead asked if Moore's Law caused the Sixth Mass Extinction, we'd find the answer easier to digest.
 
 For biologists, the connection between technological acceleration and species extinction is clear. As environments transform faster than species can adapt, animals find themselves increasingly unable to locate critical resources, leading to hunger, fights over resources, and population collapse.
 
@@ -183,35 +209,29 @@ Yet, we do not understand our pains with such clarity.
 
 We could, because we are not much different than the walrus struggling to find polar ice or the Florida alligator fighting off waves of Burmese pythons.
 
-In short, we have no biologists who understand and explain ourselves. We should not see Moore's Law as the rise of electronics, but the creation of a new environment. And it is living in this new environment that causes the problems we see often starting and getting worse since the 1970s.
+In short, we have no "biologists" who understand and explain our situation. If we did, we would not see Moore's Law as the rise of electronics, but the creation of a new environment. And it is living in this new environment that causes the problems we see often starting and getting worse since the 1970s.
 
-Why? 
+This blog series has not been about transistors change the nature. It's an introduction to look in the mirror and gain some self-awareness to see how ourselves as biologists see creatures; beings whose work habits, social structures, ways of living are constantly tested by evolution.
 
-Because the fact that we need to update our work habits, social structures, habitation, i.e. evolve, as technology does, eludes us. Hence we go into huge debt instead of living within our means, fight instead of cooperate in our politics, and abuse our environment, all trying to keep the lifestyles of pre transistors ancestors alive.
+To understand how rapidly our environment is changing, consider this:
 
-Basically, we struggle because it's hard to realize you yourself are out of date. How many teachers, executives, politicians have ever said out loud "you know what I have no idea what this AI thing is doing, perhaps someone else should be doing this job".
+The lifespan of a modern American is about 70 years. The lifespan of modern electronic technology is so much shorter. That means while many elders are confused by iPhones, almost all youths don't know how to use telephones or understand what a DVD rental store late fee is.
 
-This blog series has not been about transistors change the nature. It's an introduction to look in the mirror and gain some self-awareness to see how ourselves as biologists see creatures; beings contantly tested by evolution.
+Who can blame them, these technologies that once dominated our world just 20 years ago are effectively extinct.
 
-To understand how rapidly we're changing, consider this:
+And yet, it is not uncommon for the youth to be educated, managed, and lead, by people who will never have to reconcile earning a living and raising a family when trillions of transistors live in our pockets, something expected around 2035.
 
-The lifespan of a modern American is about 70 years. The lifespan of modern electronic technology is so much shorter. As many elders are confused by iPhones, youths don't know how to use telephones or understand what a DVD rental store late fee is.
+Our biology did not evolve to rethink our identities, politic, and economics so many times within a single human lifetime.
 
-Who can blame them, the technologies that once dominated our world just 20 years ago are effectively extinct.
-
-Largely because of rising transistor counts, modern technology is evolving faster than we can adapt. Our biology did not evolve to rethink our identities, politic, and economics so many times within a single human lifetime.
-
-As a result, we individuals commonly have the mentalities of the past whilst using the ever more powerful technology given to us via Moore's Law.
-
-And as the political breakdown, environment harm, and rising debt shows, we've been using these transistors to get ourselves into a world of trouble.
-
-Even so, I can't prove there is direct causation in a short blog post. But I hope I've piqued your interest to consider the idea that there are invisible ways technology reshapes our social interactions, political discourse, and collective behaviors.
+Because the fact that we need to update ourselves, workplaces, and society, i.e. evolve, as technology does, eludes us. Hence we go into huge debt instead of living within our means, fight instead of cooperate in our politics, and abuse our environment, all trying to keep the lifestyles of pre-transistors ancestors alive.
 
 ## Techvolution
 
-I believe we need a new paradigm to understand and solve these problems. One that puts technology at the forefront of our identities, politics, and economics.
+To understand ourselves in the era of Moore's Law, I believe we need a new paradigm. One that puts technology at the forefront of our identities, politics, and economics.
 
-The pattern suggests we're using increasingly powerful technology with outdated biological instincts. But recognizing this mismatch also points toward a solution. 
+Until we change our mindsets, we'll go on using increasingly powerful technology with outdated biological instincts. 
+
+But recognizing this mismatch also points toward a solution. 
 
 What if we applied evolutionary principles to understand how civilizations adapt to new technological environments? The same forces that have guided life for billions of years might show us how to thrive in our digital age instead of being torn apart by it. 
 
