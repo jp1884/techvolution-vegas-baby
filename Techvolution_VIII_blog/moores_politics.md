@@ -154,21 +154,36 @@ Moore's Law gave us power we don't yet understand in a world we are not evolved 
 
 In our previous posts, we traced an unexpected pattern: the rise of transistors seemed to coincide with profound societal transformations. What began as a question about political polarization expanded into a broader investigation.
 
-We discovered similar breakdown patterns across politics, environmental sustainability, and economic management—all emerging roughly when transistor-powered electronics became more sophisticated.
+We discovered similar breakdown patterns across politics, environmental sustainability, and economic management—all emerging roughly when transistor-powered electronics became more sophisticated and getting worse as Moore's Law kept birth more powerful digital technology.
 
 Now, in our final post, we ask the most fundamental question: Are we witnessing something more significant than mere coincidence?
 
-Why might there be causation between our situation and rising transistor counts?
+Moore's Law powered ever more powerful design, automation. Of course non-digital technology already transformed of Earth but it was digital technology that super charged our construction of bigger cities, large farms, stronger power plants, deeper mines, logged entire forests, drilled into oil from high seas, and so much more.
+
+Here's an example I'm sure most of you will painfully understand.
+
+What its like dealing with health insurance? The entire US healthcare system has exploded in size and complexity since, you guessed it, along with Moore's Law.
+
+Here's a graph that shows the growth in healthcare administrators, accountants, insurance adjusters, etc, versus growth in doctors.
+
+<!-- insert NCHS and Himmelstein/Woolhandler analysis of CPS -->
+<!-- https://repository.arizona.edu/bitstream/handle/10150/631752/087-18.pdf?sequence=1 -->
+
+The point is Moore’s Law gave healthcare tools it was unprepared to use wisely. The result was not a reduction in administrative labor, but a digitally enhanced expansion of it—proof that technological potential is only as good as the system that wields it.
+
+As a former claims adjuster I can say most everyone complains about insurance. Most do not know why its so frustrating. Hopefully an answer is starting to evolve in your head.
+
+## Biologists for Humans
 
 If we had started this series not by asking did Moore's Law cause our political partisanship, but instead asked did Moore's Law cause the Sixth Mass Extinction, we'd find it easier to digest the answer.
 
-Moore's Law powered ever more powerful design, automation. It super charged our factories, transport, travel and to much more. Of course technology already transformed of Earth but it was digital technology that helped build huge cities, farms, power plants, mines, logged entire forests, drilled into oil from high seas.
+For biologists, the connection between technological acceleration and species extinction is clear. As environments transform faster than species can adapt, animals find themselves increasingly unable to locate critical resources, leading to hunger, fights over resources, and population collapse.
 
-For biologists, the connection between technological acceleration and species extinction is clear. As environments transform faster than species can adapt, animals find themselves increasingly unable to locate critical resources, leading to population collapse.
+Yet, we do not understand our pains with such clarity.
 
-Yet, we do not understand our pains with such clarity. We could, because we are not much different than the walrus struggling to find polar ice or the Florida alligator fighting off waves of Burmese pythons.
+We could, because we are not much different than the walrus struggling to find polar ice or the Florida alligator fighting off waves of Burmese pythons.
 
-In short, we have no biologists who understand and explain ourselves. Thus, seeing the causation in our fate as our environment changes is difficult.
+In short, we have no biologists who understand and explain ourselves. We should not see Moore's Law as the rise of electronics, but the creation of a new environment. And it is living in this new environment that causes the problems we see often starting and getting worse since the 1970s.
 
 Why? 
 
@@ -191,6 +206,8 @@ As a result, we individuals commonly have the mentalities of the past whilst usi
 And as the political breakdown, environment harm, and rising debt shows, we've been using these transistors to get ourselves into a world of trouble.
 
 Even so, I can't prove there is direct causation in a short blog post. But I hope I've piqued your interest to consider the idea that there are invisible ways technology reshapes our social interactions, political discourse, and collective behaviors.
+
+## Techvolution
 
 I believe we need a new paradigm to understand and solve these problems. One that puts technology at the forefront of our identities, politics, and economics.
 
@@ -228,9 +245,25 @@ Wikipedia contributors. (2025, October 1). Holocene extinction. Wikipedia. https
 Wikipedia contributors. (2025, October 1). National debt of the United States. Wikipedia. https://en.wikipedia.org/wiki/National_debt_of_the_United_States
 
 
-
-
 ===
+
+https://repository.arizona.edu/bitstream/handle/10150/631752/087-18.pdf?sequence=1
+
+https://www.youtube.com/watch?v=mafghkNmKgo
+How to Cure Bureaucracy | Dr Alieta Eck | TEDxBedminster 
+
+We Need a Moore’s Law for Medicine
+Technology is the primary cause of our skyrocketing health-care costs. It could also be the cure.
+By Antonio Regaladoarchive
+September 3, 2013
+https://www.technologyreview.com/2013/09/03/15135/we-need-a-moores-law-for-medicine/
+
+
+The Legal Implications of Using AI and Algorithms to Combat Health Insurance Administrative Costs
+Posted on Feb 17, 2025
+Matthew Goodman
+
+
 
 
 Wikipedia contributors. (n.d.). Holocene extinction. Wikipedia. https://en.wikipedia.org/wiki/Holocene_extinction (Accessed September 24, 2025)
