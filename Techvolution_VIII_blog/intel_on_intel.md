@@ -1,17 +1,11 @@
 
-# Dear Intel Team (and anyone else who cares)
+# POST ONE
 
-- it exposes what may be the fatal flaw of western liberal democracies. you can't win and your ecoystem lose. meaning you're victory must be a local material one, and not because of legal ownership of a far away place...no lion can be a king because of a foriegn jungle.
-
-- you can't cheer for a brand like we do "teams" in a sporting event, because teams are organized and everyone always gets another chance. brands are really infrastructure and everyone should be cheering, and supporting, their bridges, buildings, and manufacturers to succeed. Otherwise, you're just assuming someone else will do your work for you and not take advantage of you.
-
-- USA is going to spend billions on AI and this and that, and end up with not a single way of making a chip.
+## Dear Intel Team (and anyone else making chips) 
 
 ## I'm thankful
 
 I wanted to write this here just for any Intel workers. Thanks for what you do. All the engineers, scientists, programmers, technicians, and support staff, your job is awfully hard and lately its totally unappreciated.
-
-We might need the fastest GPU or CPU as soon as absolutely possible (the other guys mostly edge you out here I'm told). But for sure we need chips. You do that for us right here at home, safe and secure, so the negative attention you're getting lately is BS.
 
 Just in the past few weeks it's been "COLLAPSE: Intel is Falling Apart", "The End Times of Intel", "Intel Will Never Recover". 
 
@@ -21,21 +15,27 @@ All while working on a never ending Manhattan Project. Your processors went from
 
 - 4,500 transistors in the early 1970s (the 8080)
 - 3.2 million transistors in the early 1990s (pentium).
-- Tens of billions of transistors in the forthcoming Xeon Clearwater Forest.
+- Tens of billions of transistors in the forthcoming Xeon 6+ Clearwater Forest.
 
-Few other companies have given their economy such an incredible rate of improvement.
+Here is an imaging showing the histor of Moore's Law, the observation that the number of transistors in an integrated circuit doubles about every two years.
+
+<!-- IMAGE -->
+
+Intel has been at the forefront of semiconductor manufacturing for much of the past 50 years. Few other companies have given their economy such an incredible rate of improvement.
 
 All this must be incredibly hard.
 
 Just in semiconductor lithography alone (the machines that "print" microchips) there has been no fewer than 13 distinct attempts to introduce new tools (Proximity, Projection, E-beam, etc.). While there has been great progress, it's filled with twists and turns, false starts, and unrealized potential.
 
+We might need the fastest GPU or CPU as soon as absolutely possible (the other guys mostly edge you out here I'm told). But for sure we need chips. You do that for us right here at home, safe and secure, so the negative attention you're getting over the past several years is BS.
+
 ## Well In the Race
 
-In this fog of uncertainty, it's my understanding that when extreme ultraviolet lithography (EUV) wasn't ready, you tried cobalt interconnects and micro-patterning for your "10nm process node" (and I'm sure countless other techniques too complex for my enthusiast brain).
+In the continual fog of uncertainty trying to keep Moore's Law alive, it's my understanding that when extreme ultraviolet lithography (EUV) wasn't ready, you tried cobalt interconnects and micro-patterning for your "10nm process node" (and I'm sure countless other techniques too complex for my enthusiast brain).
 
 It didn't work out and you went from being years ahead to years behind in the race to keep adding transistors to microchips.
 
-That meant TSMC now had the process leadership along with the scale of making mobile chips. When you tried to get other customers into a foundry, few had (technical) reasons to join up and share the risks of advanced semiconductor process development.
+That meant Taiwan Semiconductor Manufacturing Corp, who makes chips for Apple, nVidia, AMD, and most every tech company, had the process leadership along with the scale of making mobile chips. When you tried to get other customers into a foundry, few had (technical) reasons to join up and share the risks of advanced semiconductor process development.
 
 The result was your products and manufacturing were stuck, and you bled money trying to keep pace with the entire industry.
 
@@ -45,7 +45,7 @@ Yet we still hope the best for these organizations, and give their people awards
 
 For some reason, your naysayers won't do that for you. They should.
 
-It's not that you are perfect. I'm sure you, on the inside, know more than anyone else the hubris, missteps, and mistakes that saw a titan become a napping rabbit.
+It's not that you are perfect. I'm sure those on the inside know more than anyone else the hubris, missteps, and mistakes that saw a titan become a napping rabbit.
 
 I mean you were founded by PhDs and probably shouldn't have anyone in control who does not see the Periodic Table as a recipe book. I hear there are too many middle managers there (like in most of the American economy). Also, share buybacks seem to be a bad idea in an industry as unpredictable and capital intensive as yours.
 
@@ -55,7 +55,7 @@ But you can still put billions of transistors on a chip. And that's precious.
 
 The point is no one will notice if a youtuber quits or an investment analyst goes bust. America will notice if we don't get the advanced chips made here.
 
-Nevermind the supply chain and geo-political concerns. More important, is what Steve Jobs said, "The best way to predict the future is to invent it". There is no other way to the future than to make it. You can't buy it, or even design it, because that assumes it'll just show up based on your desires or thoughts. We actually have to turn raw materials into products.
+Nevermind the supply chain and geo-political concerns. More important is what Steve Jobs said, "The best way to predict the future is to invent it". There is no other way to the future than to make it. You can't buy it, or even design it, because that assumes it'll just show up based on your desires or thoughts. We actually have to turn raw materials into products.
 
 Only going through that process reveals what is possible. 
 
@@ -63,9 +63,9 @@ That's why the first computers were imagined from the textile looms of England (
 
 Other economies had bankers, reporters, analysts during these revelations, but soon were purchasing the products made by people whose imagination were surrounded by the best technologies.
 
-Because of you, America still develops leading edge of semiconductor manufacturing.
+Texas Instruments, Wolfspeed, Global Foundries are also doing great work, but only Intel is develops the most advanced, "leading edge",  semiconductor manufacturing.
 
-But that is a fading skillset and reporters don't realize the Internet Age might pass us by if we stop birthing its products. So, reporters should use their skills and find the root problems impeding advanced semiconductor manufacturing in America. Asianometry made a good start with "Intel Should Second Source nVidia."
+But that is a fading skillset and reporters don't realize the Internet Age might pass us by if we stop birthing its products. So, naysayers should use their skills and find the root problems impeding advanced semiconductor manufacturing in America. Asianometry made a good start with "Intel Should Second Source nVidia."
 
 As for investors, Arthur Rock turned a few bucks and a few young PhD's into Fairchild Semiconductor and the Fairchildren. Intel is the last Fairchild manufacturer, and it's still alive, but if it's 14A node and SDK are not worth investing in, fine.
 
@@ -75,13 +75,32 @@ I must mention the tremendous innovation happening at fabless companies, hypersc
 
 There's a good reason why the B-2 stealth bomber was not made by the company that invented stealth technology. The US military realized it must share the workload amongst its suppliers because as F1, DARPA, and evolution will attest, a healthy ecosystem fosters innovation more than any one player can ever achieve. A thought so wise it defeated the Soviet Union without firing a shot.
 
-This letter is getting too long I know. I just wanted to say all the naysayers are getting carried away. The huge negativity towards a local company manufacturing advanced microchips in the Internet Age says more about what we measure (clickbait headlines, prestige benchmarks, short-term growth numbers) than their contribution to our society.
+This letter is getting too long I know. I just wanted to say all the naysayers are getting carried away. The huge negativity towards a local company manufacturing advanced microchips in the Internet Age says more about what we measure (clickbait headlines, prestige benchmarks, short-term growth numbers) than what our kids need to prosper.
 
 So, we should all appreciate the people at Intel. They invented the microprocessor, USB, PCIe, and countless other stuff our economy needs. These workers face endless hours turning raw materials into our digital lifeblood and therefore deserve our respect and thanks.
 
-If this sounds like wishful thinking, so is the idea that we should solely rely on a country to build our future that does not even officially exist.
+If this sounds like wishful thinking, think of this, unless we change our aversion to mining and manufacturing in America, the USA is going to spend billions birthing the Internet Age, and end up with not a single way of making a chip.
 
- - industry folk, you're competing yourself to death. literally, you're exported away. why is waiting and being a little more patient for the next node such a big deal...?
+# POST TWO
+
+## Why Intel Matters
+
+## Brands Are Human Names
+
+>You can know the name of a bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird... So let's look at the bird and see what it's doing—that's what counts. I learned very early the difference between knowing the name of something and knowing something.
+_Richard P. Feynman, "What Do You Care What Other People Think?": Further Adventures of a Curious Character_
+
+Here's why Intel, Global Foundries, Texax Instruments, Wolfspeed matter so much....
+
+You can know the name of an iPhone in all the languages of the world, but when you're finished, you'll know absolutely nothing about the technology that's reshaping human civilization. We collect brand names like linguistic trophies, believing we understand something simply because we can label it.
+
+But what does "Apple" really tell us? Or "Google"? These are not explanations, they are merely tags—linguistic placeholders that mask the profound technological transformations happening beneath the surface. They are the equivalent of knowing a bird is called a "sparrow" without understanding how it migrates, feeds, or contributes to its ecosystem.
+
+The technology around us is not a collection of products, but a living, evolving system. Each device, each platform, each digital tool is not just a thing, but a dynamic entity with its own evolutionary pressures, adaptive strategies, and complex interactions. Just as a biologist would study a species by observing its behaviors, relationships, and environmental impacts, we must learn to see technology not as branded objects, but as a interconnected ecosystem constantly reshaping human experience.
+
+
+## POST THREE
+
 
 ## P.S.
 
@@ -89,6 +108,25 @@ If this sounds like wishful thinking, so is the idea that we should solely rely 
 
 - it would require a book to fully flesh the message out (especially for anyone who believes in "comparative advantage"). We don't think of our technological ecosystem as something needing study, management, and care. But we still need it, so we act out using emotions instead of reason....
 
+- it exposes what may be the fatal flaw of western liberal democracies. you can't win and your ecosystem lose. meaning you're victory must be a local material one, and not because of legal ownership of a far away place...no lion can be a king because of a foriegn jungle.
+
+- you can't cheer for a brand like we do "teams" in a sporting event, because teams are organized and everyone always gets another chance. brands are really infrastructure and everyone should be cheering, and supporting, their bridges, buildings, and manufacturers to succeed. Otherwise, you're just assuming someone else will do your work for you and not take advantage of you.
+
+- USA is going to spend billions on AI and this and that, and end up with not a single way of making a chip.
+
+ - industry folk, you're competing yourself to death. literally, you're exported away. why is waiting and being a little more patient for the next node such a big deal...?
+
+
+
+## Sources
+
+Rich, B. R. (1994). Skunk Works: A personal memoir of my years at Lockheed. Back Bay Books.
+
+McLeod, J. (2025, September 9). Rapidus, IBM, and the billion-dollar silicon sovereignty bet. SemiWiki. https://semiwiki.com/semiconductor-manufacturers/361523-rapidus-ibm-and-the-billion-dollar-silicon-sovereignty-bet/
+
+Kapoor, R., & Adner, R. (2007, November). The evolution of lithography. Solid State Technology. https://faculty.wharton.upenn.edu/wp-content/uploads/2012/06/TechnologyInterdependence.pdf
+
+Fairchild Semiconductor. (2023). In Wikipedia. https://en.wikipedia.org/wiki/Fairchild_Semiconductor#Fairchildren_companies
 
 
 
