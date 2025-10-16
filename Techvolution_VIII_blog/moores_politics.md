@@ -82,6 +82,8 @@ The problem is these factors all existed before Gordon Moore wrote his famous la
 
 ## Historical Context
 
+<!-- Collins, M. (1943, January). New York, New York. Newsstand on Fourth Avenue at Fourteenth Street which sells foreign language newspapers [Photograph]. Library of Congress. https://www.loc.gov/resource/fsa.8d11969/ -->
+
 News and entertainment media are not new. The "circulation wars of the early 20th century mirrored today's media echo chambers. Media magnates such as Joseph Pulitzer and William Randolf Heart used giant headlines and shock photos, so called "yellow journalism", to manipulate narratives much like modern media influencers. While the insatiable drive for newspaper buys is comparable to today's the lust for likes.
 
 Influential talking heads were around too.
@@ -266,6 +268,7 @@ Wikipedia contributors. (2025, October 1). Holocene extinction. Wikipedia. https
 
 Wikipedia contributors. (2025, October 1). National debt of the United States. Wikipedia. https://en.wikipedia.org/wiki/National_debt_of_the_United_States
 
+Collins, M. (1943, January). New York, New York. Newsstand on Fourth Avenue at Fourteenth Street which sells foreign language newspapers [Photograph]. Library of Congress. https://www.loc.gov/resource/fsa.8d11969/
 
 ===
 
