@@ -5,7 +5,7 @@
 
 ## I'm thankful
 
-I want to thank the unsung people at Intel. To all the support staff, technicians, programmers, engineers, chemists, physicists: your incredibly challenging work often goes unnoticed and unappreciated.
+I want to thank the unsung people at Intel. To all the support staff, technicians, programmers, engineers, chemists, physicists: your work is way too unappreciated.
 
 Just in the past few weeks your media coverage has been "COLLAPSE: Intel is Falling Apart", "The End Times of Intel", "Intel Will Never Recover". 
 
@@ -23,7 +23,7 @@ You started and sustained Moore's Law--the observation that the number of transi
 
 All this must be incredibly hard.
 
-Starting in the 1960s, semiconductor manufacturing. The first transistors were the sie of button, and nobody, not even physicists and chemists, understood why some would work and some didn't. As transistors counts have increased and sizes decreased, understanding has improved but the mystery is still quite deep.
+The first commercial transistors were made in 1960s and  were the size buttons. Nobody, not even physicists and chemists, understood why some would work and some didn't. As transistors counts have increased and sizes decreased, understanding has improved but the mystery is still quite deep.
 
 The complexity is amazing.
 
@@ -37,17 +37,21 @@ These systems can create features with critical dimensions below 8nm—to put th
 
 This progress is not certain. It's filled with twists and turns, false starts, and unrealized potential. The tools of semiconductor manufacturing on a diagram look like a tree of life and most branches end up being dead ends of extinction.
 
-In this fog of development, your ability to pack transistors onto chips fell a bit behind. As tech reporters are apt to say, the other guys make faster and more powerful microchips, perhaps being 6-12 months ahead (although the gap should close soon with 18/14A process nodes I'm told).
+In this fog of development, your ability to pack transistors onto chips fell a bit behind. As tech reporters are apt to say, the other guys make faster and more powerful microchips, perhaps being 6-12 months ahead (although the gap should close impending 18/14A process nodes I'm told).
 
-We may need the fastest GPU or CPU as soon as absolutely possible. But for sure we need chips. You do that for us right here at home, safe and secure, so the negative attention you're getting over the past several years is BS.
+We may need the fastest graphics or processor microchips as soon as absolutely possible. But for sure we need chips. You do that for us right here at home, safe and secure, so the negative attention you're getting over the past several years is BS.
 
 ## Still In the Race
 
-Around 2015, it's my understanding that when extreme ultraviolet lithography lithography tool wasn't ready, you tried cobalt interconnects and extensive micro-patterning (and I'm sure countless other techniques too complex for my enthusiast brain).
+All was going well for decades. Perhaps too well. You made the best chips and people were effectively forced to buy from you. And you sometimes threw your weight around a little too much by stomping competition or pressuring suppliers. You even felt confident enough to reject Steve Jobs when he asked you to make the microchips for Apple's new device, the iPhone.
 
-It didn't work out. You got stuck in the mystery trying to figure out why and went from being years ahead to years behind in the race to keep adding transistors to microchips.
+It wasn't until around 2015 when trouble emerged.
 
-That meant Taiwan Semiconductor Manufacturing Corp (TSMC), who makes chips for Apple, nVidia, AMD, and most every tech company, had the process leadership along with the scale of making most of the world's chips.
+It's my understanding that when the extreme ultraviolet lithography lithography tool wasn't ready for you to keep making transistors smaller, you tried cobalt interconnects and extensive multi-patterning instead (and I'm sure countless other techniques too complex for my enthusiast brain).
+
+It didn't work out. You got stuck in the mystery of semi-conductor manufacturing and tried to figure out why and went from being years ahead to years behind in the race to keep adding transistors to microchips.
+
+That meant Taiwan Semiconductor Manufacturing Corp (TSMC), who makes chips for Apple, nVidia, AMD, and most every tech company, had the fastest process along with the scale of making most of the world's chips.
 
 When you tried to get other customers into your own foundry business, few had (technical) reasons to join up.
 
@@ -55,13 +59,13 @@ The result was your products and manufacturing were stuck, and you bled money tr
 
 So what. Ferrari hasn't won a F1 title in generations. The Chicago Cubs took over a century to win a championship. NASA couldn't come up with reuseable rockets.
 
-Yet we still hope the best for these organizations, and give their people funding, awards, and accolades because we understand how hard it is to achieve their goals.
+Yet we still hope the best for these organizations, and give their people money, awards, and accolades because we understand how hard it is to achieve their goals.
 
 For some reason, your naysayers won't do that for you. They should.
 
 It's not that you are perfect. I'm sure those on the inside know more than anyone else the hubris, missteps, and mistakes that saw a titan become a napping rabbit.
 
-I mean you were founded by PhDs and probably shouldn't have anyone in control who does not see the Periodic Table as a recipe book. I hear there are too many middle managers there (like in much of the American economy). Also, share buybacks seem to be a bad idea in an industry as unpredictable and capital intensive as yours.
+I mean you were founded by PhDs and probably shouldn't have anyone in control who does not see the Periodic Table as a recipe book (it was a business minded CEO who rejected making iPhone's chips). I hear there are too many middle managers there (like in much of the American economy). Also, share buybacks seem to be a bad idea in an industry as unpredictable and capital intensive as yours.
 
 But you can still put billions of transistors on a microchip. And that's precious.
 
@@ -73,39 +77,53 @@ Note, I wrote this in early Sept. since then several companies are investing and
 
 # POST TWO
 
-## Why Intel Matters
+## Why Intel Matters and Doesn't Matter
 
 ## Brands Are Human Names
 
 >You can know the name of a bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird... So let's look at the bird and see what it's doing—that's what counts. I learned very early the difference between knowing the name of something and knowing something.
+
 _Richard P. Feynman, "What Do You Care What Other People Think?": Further Adventures of a Curious Character_
 
-I'm not here to defend a billion dollar corporation such as Intel, or the other American based manufacturers such as Texax Instruments or Wolfspeed.
+I'm not here to promote a billion dollar corporation such as Intel, or the other American based manufacturers such as Texas Instruments or Wolfspeed.
 
-I happen to be a semiconductor enthusisit so know just enough to use the industry as an example of what Richard Feynman said about birds also applies to us and our technology....
+Feynman taught us that knowing a name means nothing—understanding behavior is everything. The same is true for technology. We know 'iPhone' or 'Intel', but do we truly comprehend the technological ecosystem reshaping human civilization?
 
-You can know the name of an iPhone in all the languages of the world, but when you're finished, you'll know absolutely nothing about the technology that's reshaping human civilization. We collect brand names like linguistic trophies, believing we understand something simply because we can label it.
+You can know the name of the next iPhone in all the languages of the world, but when you're finished, you'll know absolutely nothing about the technology that's reshaping civilization. 
 
-But what does "Apple" really tell us? Or "Google"? These are not explanations, they are merely tags—linguistic placeholders that mask the profound technological transformations happening beneath the surface. They are the equivalent of knowing a bird is called a "sparrow" without understanding how it migrates, feeds, or contributes to its ecosystem.
+Brand names are linguistic placeholders that mask profound technological transformations. Knowing 'Apple' or 'Google' tells us nothing about the complex ecosystem these technologies create and sustain trying to earn there place on Earth.
 
-The technology around us is not a collection of products, but a living, evolving system. Each device, each platform, each digital tool is not just a thing, but a dynamic entity with its own evolutionary pressures, adaptive strategies, and complex interactions. Just as a biologist would study a species by observing its behaviors, relationships, and environmental impacts, we must learn to see technology not as branded objects, but as a interconnected ecosystem constantly reshaping human experience.
+Thus, knowing brand names is the equivalent of knowing a bird is called a "sparrow" without understanding how it migrates, feeds, or contributes to its ecosystem enough to stay alive.
 
+Just as a biologist would study a species by observing its behaviors, relationships, and environmental impacts, we should learn to see technology not as branded objects, but as a interconnected ecosystem.
 
-## Why Americans Should Cherish What You Do
+Thereafter we'll start becoming the "biologist" for humans. 
 
-The point is no one will notice if a youtuber quits or an investment analyst goes bust. America will notice if we don't get the advanced chips made here.
+Technology is not a collection of products, but a living ecosystem. Like biological species, each digital tool must continuously adapt, harvest resources, and evolve to survive. Just as a biologist studies an organism's behaviors and environmental interactions, we can truly understand technology as a dynamic, interconnected system constantly reshaping human experience.
 
-Nevermind the supply chain and geo-political concerns. More important is what Steve Jobs said, "The best way to predict the future is to invent it". There is no other way to the future than to make it. You can't buy it, or even design it, because that assumes it'll just show up based on your desires or thoughts. We actually have to turn raw materials into products.
+## Why Americans Should Cherish Intel, or Whichever Name Takes Its Place
 
-Only going through that process reveals what is possible. 
+Intel researches, designs, and develops computer chips. It's likely that its microchips processed these words in some way getting to your screen.
+
+But its not the company of Intel that I was defending, but the people who work together inside a organization named Intel.
+
+Its huge difference, one seemingly simple, but one that people who mocked "Intel" for years never appeared to care about. The work done at Intel is as pivotal to our countries future as anything you see being debated over politics and culture wars stuff.
+
+Nevermind the supply chain and geo-political concerns. Which are big enough and relatively well known.
+
+More important is what Steve Jobs said, "The best way to predict the future is to invent it". There is no other way to the future than to make it. You can't buy it, or even design it, because that assumes it'll just show up based on your desires or thoughts.
+
+Like every living species, technological products must transform raw materials—sunlight, soil, water—into resources that sustain our technological ecosystem.
+
+We actually have to turn raw materials into products. Only going through that process reveals what is possible with the resources available.
 
 That's why the first computers were imagined from the textile looms of England (the world's most advanced), or why Henry Ford's team imagined car mass manufacturing after looking at a butchery in Chicago (again among the world's most advanced). Even Jobs had to see the graphical user interface (GUI) at Xerox PARC in order to invent the Macintosh.
 
-It's no surprise the world began purchasing products created by people immersed in the most advanced technologies.
+American manufacturers such as Texas Instruments, Wolfspeed, and Global Foundriesare also doing great work, but only Intel develops the most advanced, "leading edge", semiconductor manufacturing.
 
-Other American manufacturers such as Texas Instruments, Wolfspeed, and Global Foundriesare also doing great work, but only Intel is develops the most advanced, "leading edge", semiconductor manufacturing.
+But that is a fading skillset and reporters don't realize the Internet Age might pass us by if we stop birthing its products.
 
-But that is a fading skillset and reporters don't realize the Internet Age might pass us by if we stop birthing its products. So, naysayers should use their skills and find the root problems impeding advanced semiconductor manufacturing in America such as permitting delays, extensive environmental assessments, and making it hard for all semiconductor manufacturers like  to make the chips we need.
+So, naysayers should use their skills and find the root problems impeding advanced semiconductor manufacturing in America such as permitting delays, extensive environmental assessments, and making it hard for all semiconductor manufacturers like  to make the chips we need.
 
 Asianometry made a good start with "Intel Should Second Source nVidia."
 
