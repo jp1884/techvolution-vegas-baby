@@ -195,7 +195,7 @@ As a former claims adjuster I can say most everyone complains about insurance. B
 
 As Moore's Law created better and cheaper computers, printers, email, internet, and now AI, it became easier for us to create rules, regulations, paperwork etc. and the jobs that administer it all.
 
-Some of these rules and administers are needed. Just not nearly this many. Like animals that overgraze their territory , we're using our new technological power to accelerate existing business practices and behaviors, even when those behaviors destroy the system we depend on.
+Some of these rules and administers are needed. Just not nearly this many. Like animals that overgraze their territory, we're using our new technological power to accelerate existing business practices and behaviors, even when those behaviors destroy the system we depend on.
 
 But like in politics, environment, and debt, Moore’s Law gave society tools we were unprepared to use wisely. The result was not a reduction in administrative labor and paperwork as one would think computers enable, but a digitally enhanced expansion of it—proof that technological potential is only as good as the system that wields it.
 
