@@ -87,7 +87,7 @@ In the next blog post, we'll uncover why more people should be thankful too.
 
 ## Why "Intel" Matters, Part 2.
 
-## What Are Biologists for Humans
+## What Are Not Biologists for Humans
 
 >You can know the name of a bird in all the languages of the world, but when you're finished, you'll know absolutely nothing whatever about the bird... So let's look at the bird and see what it's doing—that's what counts. I learned very early the difference between knowing the name of something and knowing something.
 
@@ -105,27 +105,48 @@ And the difference there is the difference Feynman talked about.
 
 The company of Intel has struggled. Missed out on making mobile chips, AI chips, and lost huge market share of the computer and service chips to competitors.
 
-Hence the ridicule of tech and investor press and the population at large.
+Hence the ridicule of tech and investor press and the population at large. One of the many comments on a youtube video was "Just when you think it can’t get worse for Intel, another news pops up"
 
-One of the many comments on a youtube video was "Just when you think it can’t get worse for Intel, another news pops up"
+All the while the people at Intel were making microchips critical to our future.
 
-Let's compare this to Feynman's words. Knowing the name of something means nothing—understanding how a lifeforms interacts with its environment is everything. Feynman is saying science depends on the removal of human narratives so we can see the true laws of nature.
+## What Are Biologists
 
-The same ideas holds true for technology and Intel, and shows us how to be a "biologist" for humans.
+"Chestnuts roasting on a open fire, Jack Frost nipping at your nose."
+The Christmas Song by Mel Torme, Robert Wells
 
-Globally we produce more than a trillion computer chips per year. That's about 20 trillion transistors being created every second. All inside of about 500 fabrication plants.
+The American Chestnut was far more than just a tree. It was a pivotal species because its nuts were so nutrious and plentful they supported entire ecosystems from deer to blue jays, pigs to humans, and played a central role in the economic and cultural landscape of eastern North America.
+
+Until a foreign fungus was introduced into late 1800s America.
+
+Unable to combat it, about 5 billions American chestnut trees died in a few decades. Perhaps five survived. Its near-total extinction represents not just an ecological loss, but a profound disruption to an entire way of life. Forests once filled with creatures dinning on chestnuts lost out.
+
+What did biologists do?
+
+Biologists responded to the American Chestnut crisis by systematically investigating the blight. They identified Cryphonectria parasitica as the fungal pathogen causing widespread tree death, tracing its origin to imported Asian chestnuts. Researchers developed multiple strategies to combat the disease, including cross-breeding with blight-resistant Chinese Chestnut varieties, genetic engineering, and biological control methods. The primary goal was to develop chestnut trees that could survive the fungal infection, with modern efforts focusing on genetic modification to introduce resistance genes directly into the American Chestnut's DNA.
+
+## What Are Biologists For Humans
+
+Globally we produce more than a trillion computer chips per year. That's about 20 trillion transistors being created every second.
 
 This is Moore's Law, and its changing our politics, economics, identity much faster than our biology is evolved to understand. And when computer gamers, investors, and others criticize the people at Intel for making microchips a few percentage points slower then others, it drastically misses the point.
 
-Because for one, most people never know the difference. I doubt any of the readers knows how fast their laptop is, or how many transistors are in their microchips. Because these don't matter all that much.
+And if Intel is effectively slowing down, unable to keep Moore's law alive and hurting... what is our reaction?
+
+
+
+Feynman is saying science depends on the removal of human narratives so we can see the true laws of nature. We need to keep going. To keep making new chips. I doubt any of the readers knows how fast their laptop is, or how many transistors are in their microchips. Because these don't matter all that much.
 
 More importantly, technology is not a collection of products that live in isolation only to be tested according to press benchmarks.
 
-It's is now a living ecosystem. For example, smartphone does not live alone our desks, dashboards, or pockets, but in a complex technological ecosystem. It harvests resources interactions with users, adapts through software updates, and 'reproduces' by inspiring new device designs. Its survival depends on continuous innovation: better batteries, more powerful processors, enhanced cameras—each iteration a response to environmental pressures of human demand and technological competition.
+It's is now a living ecosystem. Expanding and changing our planet and society every second.
 
-What is important in this scenario. And why teh heck, is the main organization making these ever important microchips faltering?
+Smartphone does not live alone our desks or pockets, but in a complex technological ecosystem. It harvests resources interactions with users, adapts through software updates, and 'reproduces' by inspiring new device designs. Its survival depends on continuous innovation: better batteries, more powerful processors, enhanced cameras—each iteration a response to environmental pressures of human demand and technological competition.
+
+Press, fans, observes the name of something, and not the way it interacts with its environment.
 
 Compare this to a biologist.
+
+
 
 
 
