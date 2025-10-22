@@ -25,13 +25,13 @@ And so your microchip processors went from:
 
 <!-- IMAGE OF INTEL's MICROPROCESSOR HISTORY -->
 
-Transistor count is roughly means the more powerful a computer chip gets. Few other companies have contributed to our economy at such an incredible rate. And the mystery of semiconductors never really went away. In slowly morphed into trying to comprehend the enormous complexity of today's manufacturing processes.
+More transistors usually means a more powerful computer chip. Few other companies have contributed to our economy at such an incredible rate. And the mystery of semiconductors never really went away. In time the difficulty slowly morphed into trying to comprehend the enormous complexity of today's manufacturing processes.
 
 Few people can.
 
 It takes three months for a modern microchip to go from base silicon into a microchip. The chip goes nearly non-stop through hundreds of very specialized tools. Operating these tools require skill sets so unique their rarity and preciousness is comparable to an endangered species. 
 
-For example lets look at lithography machines. They are like printers for computer chips. Using very precise light they transfer intricate circuit designs from templates onto the silicon wafers coated with light-sensitive material. This "prints" power lines, interconnects, and transistors onto microchips.
+For example let's look at lithography machines. They are like printers for computer chips. Using very precise light they transfer intricate circuit designs from templates onto the silicon wafers coated with light-sensitive material. This "prints" power lines, interconnects, and transistors onto microchips.
 
 <!-- IMAGE OF LITHOGRAPHY MACHINE -->
 
@@ -93,97 +93,122 @@ In the next blog post, we'll uncover why more people should be thankful too.
 
 _Richard P. Feynman, "What Do You Care What Other People Think?": Further Adventures of a Curious Character_
 
-In a prior post we discussed two concepts, biologists for humans, and how Moore's Law is perhaps causing our political and economic discord by because we've been making ever more powerful tools and  don't yet know how to use them properly yet.
+In a prior post we discussed two concepts, biologists for humans, and how Moore's Law is causing our political and economic discord by making ever more powerful tools we don't yet know how to use properly.
 
 We can see those two concepts in this case.
 
-The first is showcasing how a "biologist for humans" might look, using Intel.
+The first is showcasing how a "biologist for humans" thinks, using Intel.
 
 I'm not here to defend a billion dollar corporation such as Intel, or the other American based semiconductor manufacturers such as Texas Instruments or Wolfspeed. I am here to defend the people who work together at a place we call "Intel".
 
 And the difference there is the difference Feynman talked about.
 
-The company of Intel has struggled. Missed out on making mobile chips, AI chips, and lost huge market share of the computer and service chips to competitors.
+The company of Intel has struggled. It once made most of the world's advanced microprocessors, and then missed out on making mobile smartphone chips, AI chips, and lost half its huge market share of the lucrative computer and service chips to competitors.
 
-Hence the ridicule of tech and investor press and the population at large. One of the many comments on a youtube video was "Just when you think it can’t get worse for Intel, another news pops up"
+Hence the ridicule of tech and investor press and the population at large. One of the many examples is represented by a comment from a youtube video; "Just when you think it can’t get worse for Intel, another news pops up"
 
-All the while the people at Intel were making microchips critical to our future.
+This ridicule was constant and widespread to the only group of people in our society making millions of microchips critical to our future. In short these observers saw a disease and blamed the victims.
+
+A biologist would never do that. Here's how they respond to problems in the natural world.
 
 ## What Are Biologists
 
-"Chestnuts roasting on a open fire, Jack Frost nipping at your nose."
-The Christmas Song by Mel Torme, Robert Wells
+> "Chestnuts roasting on a open fire, Jack Frost nipping at your nose."
 
-The American Chestnut was far more than just a tree. It was a pivotal species because its nuts were so nutrious and plentful they supported entire ecosystems from deer to blue jays, pigs to humans, and played a central role in the economic and cultural landscape of eastern North America.
+_The Christmas Song by Mel Torme, Robert Wells_
 
-Until a foreign fungus was introduced into late 1800s America.
+The American Chestnut was more than just a tree - it was a vital part of the ecosystem in eastern North America. Its nuts were a rich source of nutrition, supporting a wide range of wildlife, from deer and blue jays to pigs and humans. The tree's wood was also highly valued for its durability and versatility, making it a key material for homes and furniture-making. The American Chestnut played a central role in the region's economy and culture.
 
-Unable to combat it, about 5 billions American chestnut trees died in a few decades. Perhaps five survived. Its near-total extinction represents not just an ecological loss, but a profound disruption to an entire way of life. Forests once filled with creatures dinning on chestnuts lost out.
+Until a fungus blight came in the late 1800s.
+
+Unable to combat it, about 5 billion American chestnut trees died in a few decades. Perhaps five survived. The trees near-total extinction represents not just an ecological loss, but a profound disruption to an entire way of life. Forests once filled with creatures dining on chestnuts are much quieter today. Americans can only sing about roasting chestnuts over open fires.
 
 What did biologists do?
 
-Biologists responded to the American Chestnut crisis by systematically investigating the blight. They identified Cryphonectria parasitica as the fungal pathogen causing widespread tree death, tracing its origin to imported Asian chestnuts. Researchers developed multiple strategies to combat the disease, including cross-breeding with blight-resistant Chinese Chestnut varieties, genetic engineering, and biological control methods. The primary goal was to develop chestnut trees that could survive the fungal infection, with modern efforts focusing on genetic modification to introduce resistance genes directly into the American Chestnut's DNA.
+They responded to the American Chestnut crisis by systematically investigating the problem.
+
+They identified Cryphonectria parasitica as the fungal pathogen causing widespread tree death, tracing its origin to imported Asian chestnuts. Researchers developed multiple strategies to combat the disease, including cross-breeding with blight-resistant Chinese Chestnut varieties, genetic engineering, and biological control methods. The primary goal was to develop chestnut trees that could survive the fungal infection, with modern efforts focusing on genetic modification to introduce resistance genes directly into the American Chestnut's DNA.
+
+Progress has been slow, but today government and non-profits are breeding and planting blight resistant American chestnut saplings throughout America and Canada. It'll take many years, but the same humanity that caused the problem learned how to solve it as well.
+
+Because biologists did not see the "sparrow", i.e. the human name and narrative we give to describe suffering. Instead, they saw the problem, investigated it, and implemented a solution.
+
+In comparison, with the suffering American semiconductor manufacturing, we saw the problem from within the confines of human names and narratives. Gamers complained about lost speed, investors lost growth, both versions of "sparrow".
+
+Instead, we should have seen a sickness inside the technological ecosystem, and responded as biologists do.
+
+Next, we'll see what biologists for humans means.
+
+# POST THREE
+
+Post Three:
+
+1.
+"computers are no longer toys what we buy"
+
+Should be "computers are no longer toys that we buy"
+
+2.
+"computers are no longer toys what we buy but tools we depend on in an elaborate ecosystem that is ."
+
+Incomplete sentence. The phrase "that is" seems to be a fragment and the period appears misplaced.
+
+3.
+"Even if the speed of other transistors was worth the it"
+
+Grammatically incorrect. Seems to be an incomplete or incorrectly constructed sentence.
+
+
+## Why "Intel" Matters, Part 3.
 
 ## What Are Biologists For Humans
 
 Globally we produce more than a trillion computer chips per year. That's about 20 trillion transistors being created every second.
 
-This is Moore's Law, and its changing our politics, economics, identity much faster than our biology is evolved to understand. And when computer gamers, investors, and others criticize the people at Intel for making microchips a few percentage points slower then others, it drastically misses the point.
+For comparison, the Apollo 11 spacecraft that landed us on the Moon had about 40,000 transistors.
 
-And if Intel is effectively slowing down, unable to keep Moore's law alive and hurting... what is our reaction?
+This is the power of Moore's Law, and its changing our politics, economics, identity, and environment much faster than our biology is evolved to understand. Computers are no longer toys that we buy, but tools we depend on in an elaborate ecosystem that is similar to biological one we know so well. Therefore the condition for a good or bad microchip is far beyond its speed increase each year. Reliable regrowth and integration with other species are far more important.
 
+A biologist for humans realizes technology is no longer a collection of products, but a living ecosystem we depend on and co-evolve with.  Like biological species, each tool must continuously adapt, harvest resources, and evolve to survive. Just as a biologist studies an organism's behaviors and environmental interactions, we can truly understand technology as a dynamic, interconnected system constantly reshaping human experience.
 
+So, when computer gamers, investors, customers, and others criticize the people at Intel for making microchips a few percentage points slower then others, it drastically misses the point.
 
-Feynman is saying science depends on the removal of human narratives so we can see the true laws of nature. We need to keep going. To keep making new chips. I doubt any of the readers knows how fast their laptop is, or how many transistors are in their microchips. Because these don't matter all that much.
+And if Americans are struggling in making transistors we desperately need, we shouldn't mock the trees for making less chestnuts each year.
 
-More importantly, technology is not a collection of products that live in isolation only to be tested according to press benchmarks.
+There's no need to. The true problems are there to be seen, investigated, with a solution in the works. Once we do as Feynman said and replace human narratives and names with the effectual truth of what the technology is doing.
 
-It's is now a living ecosystem. Expanding and changing our planet and society every second.
+I'm here to criticize tech reviewers or investors. But to empower them. We need a health production and distribution of the technology we love so much. They should expand the scope of their coverage to include things beyond speed increases and benchmarks scores. Many do this on personal podcasts and commentary, but not with the authority of a biologist.
 
-Smartphone does not live alone our desks or pockets, but in a complex technological ecosystem. It harvests resources interactions with users, adapts through software updates, and 'reproduces' by inspiring new device designs. Its survival depends on continuous innovation: better batteries, more powerful processors, enhanced cameras—each iteration a response to environmental pressures of human demand and technological competition.
+We should be looking into the ecosystem and finding the problem.
 
-Press, fans, observes the name of something, and not the way it interacts with its environment.
+For one, we could write better software. Because computer chips keep getting so much faster, programmers don't emphasize optimal code. Any programmer will admit today's software is often horribly inefficient.
 
-Compare this to a biologist.
+Beyond that, what internal or personal problems are causing the delays. We have investigative reporting for all manner of topics from ecology to healthcare. Surely problems with transistor production warrants an important and helpful looking into.
 
+There's a lot of candidates.
 
+In a prior post we noted the huge increase in health care administrators in the American economy since 1970.
 
-
-
-And that speaks to another reason  I'm defending the people at "Intel". Evolutionary process can't be broken and something as complicated as making modern microchips is very easy to forget.
-
-There are the commonly cited supply chain and geo-political concerns. A domestic supply of advanced microchips is critical for national security and economic resilience because these microchips are essential components in military technology, critical infrastructure, communications systems, and emerging technologies like AI, quantum computing, and advanced defense systems.
-
-More important is something else. As Steve Jobs said, "The best way to predict the future is to invent it". There is no other way to the future than to make it. You can't buy it, or even design it, because that assumes it'll just show up based on your desires or thoughts.
-
-Like every living species, technological products must transform raw materials—sunlight, soil, water—into resources that sustain our technological ecosystem. We actually have to turn raw materials into products. Only going through that process reveals what is possible with the resources available.
-
-That's why the first computers were imagined from the textile looms of England (the world's most advanced), or why Henry Ford's team imagined car mass manufacturing after looking at a butchery in Chicago (again among the world's most advanced). The first semiconductor photosmasks were adapted from the printed presses of the day. Even Jobs had to see the graphical user interface (GUI) at Xerox PARC in order to invent the Macintosh.
-
-The pint is just like in biological evolution, there can't be gaps in development. There must be a sustained link between the past, present, and future...
-
-The people, who mostly work at Intel, know how to turn raw materials into microprocessors. We are just at the dawn of the Internet Age, and we need microprocessors.
-
-The problems is the assumption that as long as a person is getting a product, they are in good shape and fit to criticize the delay in delivery of better products to their doorstep. But a person is not only a user, but a member to a technological ecosystem. For an ecosystem to be healthy, it must be able to build new iterations to keep evolving.
-
-So, tech press should stop thinking of themselves as observers and instead use their skills and find the root problems impeding advanced semiconductor manufacturing in America. In a prior post we noted the huge increase in health care administrators in the American economy since 1970. We noted the rise of Moore's Law enabled this burst of regulations and administrators.
-
-A similar large increase is noted in permitting requirements, environmental assessments, government wait times grants, long worker safety training, patent proliferation, and so much more making it hard for manufacturers, including semiconductor manufacturers, to get their work done. It's beyond the scope of this blog to investigate these impediments, but for a quick reference here is a quote from Walter Issacson's book The Innovators, "In 2011 a milestone was reached: Apple and Google spent more on lawsuits and payments involving patents than they did on research and development of new products."
+There's been a similar large increase is noted in permitting requirements, environmental assessments, government wait times grants, long worker safety training, patent proliferation, and so much more making it hard for manufacturers, including semiconductor manufacturers, to get their work done. It's beyond the scope of this blog to investigate these impediments, but for a quick reference here is a quote from Walter Issacson's book The Innovators, "In 2011 a milestone was reached: Apple and Google spent more on lawsuits and payments involving patents than they did on research and development of new products."
 
 Ironically, like a thicket, Moore's Law created the means for us to increase administration cost so much, its strangling its own ecosystem to death.
 
-The naysayers should be among those "biologists" in the field and in the lab, observing our technological ecosystem and noting its problems and issues and good spots.
+And while the approach today is just to import faster transistors. Even if the speed of imported transistors was exceptionally more powerful, what is lost is definitely not. The reason is seen inside simple evolution.
 
-After all, the people at "Intel" invented the microprocessor, USB, PCIe, and countless other stuff our economy needs. These workers face endless hours turning raw materials into our digital lifeblood and therefore deserve our respect and thanks.
+More important is something else. As Steve Jobs said, "The best way to predict the future is to invent it". There is no other way to the future than to make it. You can't buy it, or even design it, because that assumes it'll just show up based on your desires or thoughts.
 
-If this sounds like wishful thinking, think of this, as it stands the USA is going to have spent billions birthing the Internet Age products and technology, and struggle end up with no way of making its own microchips. And that's scary. Because like in biology, once a skill set is gone, it goes extinct. And the rest of use who co-evolved with it usually aren't far away.
+We actually have to turn raw materials into products. Only going through that process reveals what is possible with the resources available.
 
+That's why the first computers were imagined from the textile looms of England (the world's most advanced), or why Henry Ford's team imagined car mass manufacturing after looking at a butchery in Chicago (again among the world's most advanced). The first semiconductor photosmasks were adapted from the printed presses of the day. Even Jobs had to see the graphical user interface (GUI) at Xerox PARC in order to invent the Macintosh.
 
-- By removing human narratives around names and preconceived notions about supposed value, and just observing a species behaviors, relationships, and environmental impacts and then giving names to the facets of nature we unlock.
+Need to making things inside our own ecosystem is why biologists couldn't just plant European of Asian chestnut trees. They could elements of them to remake the American chestnut but ecosystems as big as the American forests need their own balance with the other creatures.
+
+And the American economy needs microprocessors. It was the people at "Intel" who invented the microprocessor, USB, PCIe, and countless other stuff our economy now depends on. These workers face endless hours turning raw materials into our digital lifeblood and therefore deserve our respect and thanks. If not at company called Intel, fine. Then we can do as Japan is doing and started a new semiconductor foundry, called Rapidus, from scratch.
+
+If this sounds like wishful thinking, think of this, as it stands the USA is going to have spent billions birthing the Internet Age products and technology, and is now getting close to have no way of supplying its own microchips. And that's scary. Because like in biology, once a skill set is gone, it goes extinct. And the rest of use who co-evolved with it will inevitably suffer.
+
 
 ## Techvolution
-
-Globally we produce more than a trillion computer chips per year. That's about 20 trillion transistors being created every second.
 
 To understand ourselves in this new technological era, we need a new paradigm. One that puts technology at the forefront of our identities, politics, and economics.
 
