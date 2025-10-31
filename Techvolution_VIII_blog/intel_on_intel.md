@@ -89,6 +89,10 @@ But you can still put billions of transistors on a microchip. So I just wanted t
 
 In the next blog post, we'll uncover why more people should be thankful too.
 
+---
+
+* Many semiconductor experts defend this decision, arguing the technical gap between Intel's expensive PC/server chips and Apple's demand for small, energy-efficient mobile processors was simply too great. I can't speak to the technical challenges, but I do know many similar historical examples of such evolution. For example, the microprocessor itself emerged when early Intel engineer Ted Hoff was tasked with making many tiny calculator chips profitable—when that proved impossible and threatened the nascent company's future, he invented the programmable microchip, which people thought was nuts, but soon overtook the electronics world. Product miniaturization goes hand in hand with increasing transistors. Personal calculators and personal computers were always going to be replaced by smartphones. If later Intel engineers couldn't figure out how to make that transition (as others did), they could go work in insurance claims—then they'd learn why "only the paranoid survive." 
+
 # POST TWO
 
 ## Why "Intel" Matters, Part 2.
@@ -221,7 +225,7 @@ Absence of our society making new tools goes a long way to explaining our econom
 
 Evolution solves problems via constant iterations. New lifeforms venture out, and whichever procreate most prove themselves best adapted to the changing environment. As we lose the ability to fabricate transistors, we also lose our ability to imagine and create the new tools we need to solve our everyday problems that keep getting worse.
 
-We've started to value manufacturing again, but not nearly enough yet to recover from our office job glut. Motorola, IBM, Global Foundries were all stellar American semiconductor manufacturers, now mostly gone under the same rancor Intel is now getting. By 2009, U.S. employment in the semiconductor manufacturing industry was lower than in the early 1990s, prior to the personal computing boom.
+We've started to value manufacturing again, but not nearly enough yet to recover from our office job glut. Motorola, IBM, Global Foundries were all stellar American semiconductor manufacturers, now mostly gone under the same rancor Intel is now getting. The infamous COVID related chip shortage showcases how important chips are to us. Yet by 2009, U.S. employment in the semiconductor manufacturing industry was lower than in the early 1990s, prior to the personal computing boom.
 
 For all these reasons, we must cherish the people at "Intel".
 

@@ -988,3 +988,197 @@ Let's eat marble cake.
 This gives us a reliable test for evaluating our world. If someone's version of truth keeps changing with the times, be suspicious—genuine truth reflects eternal natural laws. But if someone's products refuse to evolve with the times, be equally suspicious—useful tools must adapt to serve us in changing environments. Any unnatural behavior is a person trying to pretend evolution's mission does not apply to them.
 
 ===
+
+### TECHVOLUTION: A Platform Discussion**
+
+A One Act Dialogue
+
+**Scene 1: The Platform**
+A commuter train platform during morning rush hour. Digital displays shows "Delayed" in red letters. Commuters stand by, most looking at their phones. Building shadows are long, the sun is still rising, although we can't see it with the many nearby buildings.
+
+Enter SOCRATES, 65, stocky build, military bearing despite his age, wearing a high-quality black backpack with Army insignia on it. He carries a thermos as he gazes and the people around him.
+
+ANNOUNCEMENT: The 7:15 train is approaching now. Please stand back from the yellow platform lines. We are sorry for the delay.
+
+Socrates watches the people around him lift their heads from the phones. As the speeding train is grinding its brake pads to stop its massive bulk, he lets out a gruff. As the train stops, people start huddling near the doors waiting for them to open.
+
+Socrates walks to rear of the group and shuffles in as everyone goes inside. The seats are half full already, and as people find spots, Socrates climbs a small set of stairs to go up to the next level. There he sees a spot near a window and takes it.
+
+As he looks around, some people are again on their phones, while others have pulled out their work laptops and are typing away. He continues searching and sees an advertisement poster for TELECOM inside the train.
+
+5G SPEEDS ANYWHERE AT ANY TIME. WATCH. DOWNLOAD. UPLOAD. COMMUNICATE AT THE SPEED OF LIGHT
+
+Another poster says.
+
+GO TRAIN. HAPPY TO TAKE YOU TO YOUR OFFICE
+
+The train has already starting moving. Socrates watches the landscape go by. Still the shadows of the buildings break up the landscape of the waking city.
+
+ANNOUNCEMENT: Shrewsbury. This stop is Shrewsbury.
+
+Commuters are shuffling onto the train again. Seats are almost full as DARWIN, 50, sits across from Socrates.
+
+Wearing a field jacket over business casual clothes, Darwin is carrying a weathered leather messenger bag and green Patagonia pants.
+
+SOCRATES: Nice mama jeans.
+
+DARWIN: She bought them.
+
+SOCRATES: She must have wanted you to stand out. I can see why sitting among this crowd.
+
+DARWIN: Not a fan one's travelling peers.
+
+SOCRATES: Someone could be choking and I doubt anyone would notice. It's the attention, seems to be have been stolen or something thereabouts. Whatever I am, I am not a peer by that standard.
+
+DARWIN: I don't much look at humans to be honest. But travelling does require an escape.
+
+SOCRATES: Journeyed far before?
+
+DARWIN: I've been on a few long journeys. Charles. Nice to meet you.
+
+The two men shake hands.
+
+SOCRATES: Socrates. My pleasure. So, why would the ever caring mother purchase such ugly pants.
+
+DARWIN: They help me. I'm what they call a naturalist. I study animals, creatures, bugs, worms, birds, and creatures lives out in nature among the leaves, mud, and dirt.
+
+SOCRATES: Quite unclean. I could never. I prefer the finer pursuits.
+
+DARWIN: What are finer pursuits pray tell.
+
+SOCRATES: What is, is the question. What is truth, justice, virtue, the good society. I usually need a few others to ask questions, and then we answer them, over and over until we get somewhere.
+
+DARWIN: The answer?
+
+SOCRATES: We get closer to one. We learn moderation at least, because how close of an answer can we humans ever get to. What do you do?
+
+DARWIN: Go out into nature. Observe. Collect samples. Have an idea to explain what I see, and use the evidence to determine if the idea was correct. Then do it all over again.
+
+SOCRATES: The two methods seems similar.
+
+DARWIN: They're probably related in some way. What have been some of your happiest realizations.
+
+SOCRATES: Oh am I happy you wear those ugly jeans. Nothing. Or understanding that I know that I know nothing is the root of all knowledge.
+
+DARWIN: No emotions.
+
+SOCRATES: Get them out of my city and souls. Unless the city is under threat. Then we need some bravado. But otherwise, knowledge starts with the wisest words "I know nothing". Then we can understand our souls, tame our beastly natures, which opens us to virtue, and finally wisdom.
+
+DARWIN: Sounds like a solid foundation for a civilization.
+
+SOCRATES: They're open ideas, anyone can use them. Maybe the method will find an audience. But, I must be honest. It can cause some tension.
+
+DARWIN: Not among God?
+
+SOCRATES: The gods, no. The kings, lords, and parental masters.
+
+DARWIN: I hear that.
+
+SOCRATES: You have experience?
+
+DARWIN: You know those observations I like to make.
+
+SOCRATES: In the mud.
+
+DARWIN: Precisely. We'll, I made a few, connected some dots, and upended the perceptions of many people.
+
+SOCRATES: Score one for observation. That method might catch on too.
+
+DARWIN: I expect big things. Bigger thinks. Newton really deserves lots of credit. The gravity thing and all.
+
+Socrates indicates he's not following. 
+
+DARWIN: Wisest of them all but not too knowledgeable yet. Issac Newton, from the Cambridge stop, he had a apple fall on his head, as the story goes, and realized something big.
+
+SOCRATES: I like these realizations.
+
+DARWIN: Indeed. You see, Newton realized if the apple falls on Earth, then it would fall up on the Moon, and planets and everywhere. The same force that applies to us here, applies everywhere!
+
+SOCRATES: Like universal truth!
+
+DARWIN: Yes!
+
+The two share a moment of silence. They look around, Socrates at the people in the train, Darwin outside at the trees and birds.
+
+SOCRATES: People still looking at their phones?
+
+DARWIN: They are busy working, like ants.
+
+SOCRATES: Why would you reduce humanity to bugs?
+
+DARWIN: We share so much in common.
+
+SOCRATES: I do see them at the agorae. Maybe I should stop walking all over them. Instead I can say "Hello Ant, want to come to Agathon party tonight. There is lots of figs." Might make better company.
+
+DARWIN: They wouldn't disagree with you.
+
+SOCRATES: They aren't sophists, is what I mean. You know those people who will say anything someone pays them too really get under my skin.
+
+DARWIN: Like the ants.
+
+Darwin gives Socrates a minute to relax.
+
+SOCRATES: What truth can ants take you? Expect what it means to be an ant?
+
+DARWIN: That is not what I do, although I suspect another naturalist will come to great conclusions answering that question.
+
+SOCRATES: Aristotle might like this. He likes going on walks.
+
+DARWIN: I'm aware of him. He has a stupendous mind, but made some errors along the way.
+
+SOCRATES: Good thing we got methods to correct them.
+
+DARWIN: Good point.
+
+SOCRATES: So...what happened?
+
+DARWIN: Let's go back Newton.
+
+SOCRATES: The apple guy.
+
+DARWIN: And gravity. Optics. Calculus. A bunch of stuff. But the point is, Newton finished the revolution in the world. He proved that the Earth orbits the Sun.
+
+SOCRATES: No way.
+
+DARWIN: It's true. These rays, coming from the Sun, are always shining. The earth rotates into it like this.
+
+Darwin takes his tennis ball, and rotates it around the light, as the Earth spinning as it orbits the Sun.
+
+SOCRATES: This would be quite the realization. What about stellar parallax? Why don't the stars move in the sky, if our Earth is moving?
+
+DARWIN: They are just that far away. The Sun is just another star.
+
+SOCRATES: Anaxagoras was right? Good for him. 
+
+Darwin sees something outside. Two birds. He then makes a note and starts a sketch in his notebook.
+
+DARWIN: You don't write anything done?
+
+SOCRATES: I have the worst penmanship. Can't make heads or tails of it. Good memory. Doesn't cause me any problems.
+
+DARWIN: Well... it is what it is.
+
+SOCRATES: How did they see the stars move?
+
+DARWIN: The telescope.
+
+SOCRATES: The what?
+
+DARWIN: Telescope. Two lenses opposite each other, magnify objects. We got a microscope too.
+
+SOCRATES: I'm not following.
+
+DARWIN: 
+SOCRATES: 
+DARWIN: 
+
+
+---
+
+DARWIN: What if we're living in an ant hill, one made of technology instead of dirt.
+
+SOCRATES: Tell me more about evolution by way of natural selection.
+
+...as the sun rises above the horizon.
+
+===
