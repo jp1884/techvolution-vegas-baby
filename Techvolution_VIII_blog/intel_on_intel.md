@@ -31,17 +31,15 @@ Few people can.
 
 Today, it takes three months for a modern microchip to go from a silicon wafer into a finished product. All the while the microchip goes nearly non-stop through hundreds of very specialized tools. Operating these tools require skill sets so unique their rarity and preciousness is comparable to an endangered species. 
 
-For example, let's look at lithography machines. They are like printers for computer chips. Using very precise beams of light, these machines transfer intricate circuit designs from templates onto the silicon wafers coated with light-sensitive material. This "prints" transistors, and the power lines and interconnects they depend on, onto microchips.
+The equipment needed to produce today's chips has become astonishingly specialized. Just think about the printing process of the lithography machines used to print the pattern of transistors on the silicon wafer. Such machines currently cost over $400 million each and produce details smaller than the human DNA molecule.
 
 <!-- IMAGE OF LITHOGRAPHY MACHINE -->
 
-As Moore's Law progressed, lithography machines needed increasingly sophisticated optical systems, smaller light wavelengths, and more complex templates to keep making transistors smaller.
+In order to continue the doubling curve required by Moore's Law, Intel and the competition have investigated more than fifty different ways of making chips. Nine out of ten end up in a dead end following an investment of billions of dollars. This industry is perpetually at the edge of physics and economics, where the consequences of one incorrect technical decision can mean lost years or bankruptcy.
 
-The semiconductor industry has explored at least 13 different lithography technologies since the 1960s, including proximity, projection, and electron beam (E-beam) lithography. Most resulted in dead ends. Today, the winner is High Numerical Aperture Extreme Ultraviolet lithography, and one machine costs over $400 million.
+In this world of endless experimentation at the boundaries of physical feasibility, the Intel fabrication ability found itself lagging the competition towards the end of 2015. This deficit, in all probability, was approximately 6-12 months in transistor density and speeds that were imperceptible to the average computer user.
 
-The price is so high because these new systems create features with critical dimensions below 8nm—to put this in perspective the number in 1990 was about 230nm, and a human DNA molecule is approximately 2.5nm wide. 
-
-The entire semiconductor manufacturing toolchain has seen similar improvements and cannot be taken for granted. The cost of a development is filled with twists and turns, false starts, and is today nearing the limits of economics and physics. 
+Yet in a field that measures “progress” as doubling the performance each two years, the slightest setback becomes a crisis. In the media, the story shouted failure. In the financial world, the dollars dried up. The company that had been at the forefront of “Moore's Law” for the past four decades suddenly became a laggard—not because they failed to continue their innovation curve but because they were innovating at a slightly slower rate than anticipated.
 
 In this fog of development, Intel's ability to pack transistors onto microchips fell behind others.
 
@@ -55,7 +53,7 @@ Of course Intel wasn't always behind. Its workers lead the Moore's Law race for 
 
 Thus, you had a long history of designing and making the best microchips. From the late 1980s business and customers were effectively forced to buy from you.
 
-This commercial success challenged your commitment to innovation. You sometimes threw your weight around by stomping competition or over pressuring suppliers for better deals. You even felt confident enough to reject Steve Jobs when he asked you to make the microchips for Apple's new device, the iPhone*.
+This commercial success challenged your commitment to innovation. You sometimes threw your weight around by stomping competition or over pressuring suppliers for better deals. You even felt confident enough to reject Steve Jobs when he asked you to make the microchips for Apple's new device, the iPhone.
 
 Then in 2015, your ability to manufacture the fastest microprocessors faltered.
 
@@ -88,10 +86,6 @@ I mean you were founded by PhDs and probably shouldn't have anyone in control wh
 But you can still put billions of transistors on a microchip. So I just wanted to say thanks for going to work every day.
 
 In the next blog post, we'll uncover why more people should be thankful too.
-
----
-
-* Many semiconductor experts defend this decision, arguing the technical gap between Intel's expensive PC/server chips and Apple's demand for small, energy-efficient mobile processors was simply too great. I can't speak to the technical challenges, but I do know many similar historical examples of such evolution. For example, the microprocessor itself emerged when early Intel engineer Ted Hoff was tasked with making many tiny calculator chips profitable—when that proved impossible and threatened the nascent company's future, he invented the programmable microchip, which people thought was nuts, but soon overtook the electronics world. Product miniaturization goes hand in hand with increasing transistors. Personal calculators and personal computers were always going to be replaced by smartphones. If later Intel engineers couldn't figure out how to make that transition (as others did), they could go work in insurance claims—then they'd learn why "only the paranoid survive." 
 
 # POST TWO
 
@@ -169,7 +163,7 @@ Because just as biologists study ecosystems—understanding how species interact
 
 Intel's challenges aren't isolated corporate failures; they're symptoms within a complex technological ecosystem where thousands of companies, workers, suppliers, archaic systems and recent innovations all interconnect. When one part of this system faces stress, society would wait for biologists to investigate the underlying causes rather than simply assigning blame based on personally held expectations.
 
-Once we do this, we'll start knowing what a "biologists for humans" means. In the next blog post, we'll understand why that job is so important.
+This is what thinking like a "biologist for humans" means: seeing technological problems as ecosystem issues requiring systematic diagnosis rather than blame. In the final post, we'll explore what this perspective reveals about American semiconductor manufacturing, and why the implications extend far beyond one industry.
 
 # POST THREE
 
@@ -177,9 +171,9 @@ Once we do this, we'll start knowing what a "biologists for humans" means. In th
 
 ## What Are Biologists For Humans
 
-Globally we produce more than a trillion computer chips per year. That's about 20 trillion transistors being created every second.
+Globally we produce more than a trillion computer chips per year—each containing anywhere from thousands to tens of billions of transistors. In total, humanity now manufactures more transistors annually than there are stars in the observable universe.
 
-For comparison, the Apollo 11 spacecraft that landed us on the Moon in 1969 had about 40,000 transistors.
+For perspective: the Apollo 11 spacecraft that landed us on the Moon in 1969 had about 40,000 transistors total. A single modern smartphone contains over 10 billion—250,000 times more computing power in your pocket than the technology that got us to the moon.
 
 This exponential growth represents the power of Moore's Law, and even with occasional missteps, it is changing our politics, economics, identity, and environment much faster than our biology evolved to understand. This mismatch requires us to think like "biologists for humans"—people who study our technological ecosystem with the same systematic approach biologists use in nature.
 
@@ -198,10 +192,6 @@ Instead, we should identify and rectify the blight.
 Because like in nature, there will be good and bad harvest years, but extinction is never returned from. Therefore, making much faster microprocessors each year is not nearly as important as simply continuing to make advanced transistors.
 
 Following Feynman's advice, we should replace human narratives focused on Intel's people with an understanding of what's actually happening in our technological ecosystem. And then tech reviewers, investors, and all of us should investigate the technological environment and identify systemic problems.
-
-For one, we could write better software. Any programmer will admit today's software is often quite inefficient. Because computer chips keep getting so much faster, programmers don't need to emphasize optimal code. Fixing the programming problem will put less pressure on semiconductor manufacturers to keep improving so fast.
-
-There's a lot of other ways to help beyond software optimizations.
 
 In a prior post we noted the huge increase in health care administrators and administration in the American economy since 1970.
 

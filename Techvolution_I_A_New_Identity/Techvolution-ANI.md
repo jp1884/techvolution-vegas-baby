@@ -397,31 +397,43 @@ Socrates felt something shift deep within his mind, like a key turning in a lock
 
 Socrates leans in and says with a smile, "Charles, tell me more about evolution". 
 
----
-
 ### Explainer
 
 The scene you just read is a thought experiment—a glimpse into an alternate history where two of humanity's most transformative intellectual revolutions occurred simultaneously in ancient Athens.
 
-Socrates, as the Roman philosopher Cicero observed, was the first to "call philosophy down from heaven, place it in cities and homes, and compel it to inquire about life and morals as well as good things and bad." He fundamentally shifted human thinking from abstract speculation about the cosmos to practical questions about how we should live, what constitutes justice, and how societies should be organized. Every subsequent development in Western philosophy, psychology, politics, and ethics traces back to this Socratic revolution.
+Socrates, as the Roman philosopher Cicero observed, was the first to "call philosophy down from heaven, place it in cities and homes, and compel it to inquire about life and morals as well as good things and bad." Before him, the common practice was to let professional debaters, known as Sophists, debate both sides of a question. Everyone assumed justice was merely a matter of law or custom, with no universal definition. Sophists used rhetoric to convince people that their side was just because their side served the ruler's interests.
 
-Charles Darwin (Aristoteles), over two millennia later, revealed the mechanism by which all life adapts and evolves—including human beings. Although many preceded Darwin, much of that was removing the build up of erroneous human narratives. His insights into natural selection, common descent, and evolutionary adaptation were always there to be discovered. And when they were, they transformed our understanding of ourselves and our place in the natural world.
+Socrates challenged this approach. Instead of accepting that justice was a matter of human laws or customs, he asked things like “What is justice?” or "What is ethics".
 
-So, what if these two intellectual revolutions had happened together? What if Darwin's insight on evolution had been made, accepted, and popularized along with Ancient Greek contributions like Pythagoras fundamental mathematical principles and Archimedes engineering mechanics and mathematical foundations.
+Such deceptively simple questions followed the example of ancient Greek thinkers in physics and mathematics. These thinkers had built sewers, ships, and buildings, and countless other wonders of civilization by discovering natural laws through systematic questioning.
 
-If Socrates had understood evolutionary principles as he was laying the philosophical foundations, how would this have shaped the development of civilization for the next 2,500 years?
+Socrates asked why wouldn't human society also be subject to universal laws if water, ships, and engineering are?
 
-This thought experiment explores a profound possibility: that human civilization could be self-aware that it evolves not through biological adaptation, but through technological adaptation. If Socrates had grasped this principle—that humans and their tools co-evolve in response to environmental challenges—how might he have approached questions of ethics, politics, and human flourishing?
+Socrates thus turned philosophy towards practical questions about how humans should live, what constitutes justice, and how societies should be organized. Socrates, and his students, wanted to use philosophy to build a better civilization the same way engineers use mathematicians to build better buildings. Every subsequent development in Western philosophy, politics, and ethics traces back to this Socratic revolution.
 
-What might this mean for our history, filled with empires rise and fall, racism, sexism, recessions, economic and population booms and collapses, revolutions, civil wars, and so much more we hate but for some reason keep coming back?
+Charles Darwin (Aristoteles), over two millennia later, revealed the mechanism by which all life adapts and evolves—including human beings. Although many scientists preceded Darwin, much of their contribution was removing the buildup of erroneous human narratives such as all animals being created as they exist today and the Earth only being a few thousand years old.
+
+Darwin's insights into natural selection, common descent, and evolutionary adaptation were always there to be discovered. And when they were, they transformed our understanding of the origin of species, including ourselves, in the natural world.
+
+So, what if these two intellectual revolutions had happened together? What if Darwin's insight on evolution had been made, accepted, and popularized along with Ancient Greek contributions like Pythagoras and Euclid's fundamental mathematical principles and Archimedes engineering mechanics foundations.
+
+This thought experiment says if Socrates had known about evolution he would have made an important connection. 
+
+Surrounded by far more wilderness, ancient Greeks cherished their language, plays, ships, trade, and civilization. Wildlife was seen to be very different from civilized humans. Moreover Greeks were extremely competitive, warlike, and commercial. Greeks might have readily seen technological evolution as the guiding principle of their fate. What they lacked was understanding evolution as a universal law.
+
+This led them, and thus us, down an inaccurate path, the same way not knowing gravitation led humans down the road where the Earth was the center of the universe.
+
+If Socrates had grasped this principle—that humans and their tools co-evolve in response to environmental challenges—how might he have approached questions of ethics, politics, and justice?
+
+What might this mean for our history, filled with empires that rise and fall, racism, sexism, recessions, economic and population booms and collapses, revolutions, civil wars, and so much more we hate but keep coming back?
 
 Perhaps these recurring patterns aren't moral failures or inevitable human flaws, but symptoms of civilizations struggling to adapt to technological changes they don't yet understand. Instead of asking "How do we eliminate war?" or "How do we achieve perfect justice?" an evolutionary Socrates might have asked: "What technological pressures create these conflicts?" and "How do societies successfully and smoothly adapt to new tools and capabilities?"
 
-This reframing doesn't excuse human suffering, but it offers a different path forward. Rather than assuming static human nature must be controlled" (removing "and interests through better laws or moral education, we might focus on understanding how technological ecosystems can evolve toward greater human flourishing—just as Darwin's finches evolved better beaks for their particular environments.
+This reframing doesn't excuse human suffering or injustice, but it offers a different path forward. Rather than assuming static human nature must be controlled through better laws, policy, or moral education, we might focus on understanding how technological ecosystems can evolve toward greater human flourishing—just as Darwin's finches evolved better beaks for their particular environments.
 
 The conversation between Socrates and our fictional Darwin/Aristoteles represents the birth of what we might call "evolutionary philosophy", "biology for humans", or "techvolution"—a framework for understanding human societies as technological ecosystems that adapt, evolve, and thrive through the same principles that govern all life.
 
-This is the foundation of the Techvolution series: applying evolutionary thinking to understand how civilizations adapt to technological change, and how we might consciously guide that evolution toward human flourishing.
+Of course this did not happen. But it serves as food for thought for what the Techvolution series is setting out to achieve: applying evolutionary thinking to understand how civilizations adapt to technological change, and how we might correct the path we've been on, and start to consciously guide our civilization's evolution toward a future where people will no longer have to ask "what is justice" because they'll be intentionally building it instead.
 
 ===
 
