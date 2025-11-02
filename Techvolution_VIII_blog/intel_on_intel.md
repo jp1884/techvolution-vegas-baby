@@ -173,6 +173,8 @@ This is what thinking like a "biologist for humans" means: seeing technological 
 
 Globally we produce more than a trillion computer chips per year—each containing anywhere from thousands to tens of billions of transistors. In total, humanity now manufactures more transistors annually than there are stars in the observable universe.
 
+<!-- 86 billion neurons, 260 births per second. which means...  -->
+
 For perspective: the Apollo 11 spacecraft that landed us on the Moon in 1969 had about 40,000 transistors total. A single modern smartphone contains over 10 billion—250,000 times more computing power in your pocket than the technology that got us to the moon.
 
 This exponential growth represents the power of Moore's Law, and even with occasional missteps, it is changing our politics, economics, identity, and environment much faster than our biology evolved to understand. This mismatch requires us to think like "biologists for humans"—people who study our technological ecosystem with the same systematic approach biologists use in nature.

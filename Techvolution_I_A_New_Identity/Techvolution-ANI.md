@@ -254,6 +254,8 @@ Earth will prosper to new heights when human conflict is minimized and cooperati
 
 ## Foreword
 
+### Generic History
+
 <!-- Yet to to be written. -->
 
 Potidaea	      432 BC	Siege lasting nearly three years; Socrates saved Alcibiades' life
@@ -334,7 +336,7 @@ Maybe we are just ants he jobs to himself, as the sun was beginning to sink towa
 
 The strange vessel moved with deliberate care toward an empty berth, its crew working in hushed concentration. Socrates had seen ships from across the Mediterranean—Egyptian grain haulers, Phoenician traders, even the occasional barbarian craft from beyond the Pillars of Heracles—but this one puzzled him. It flew Athenian colors, yet its design was unlike any he knew, built more for endurance than speed or cargo capacity.
 
-<!-- sailed around Africa, studied at the islands of Canaris or Verde -->
+<!-- sailed around Africa, studied at the islands of Cape Verde or Canary Islands -->
 
 What truly caught his attention, however, were the sounds.
 
@@ -426,41 +428,61 @@ Socrates felt something shift deep within his mind, like a key turning in a lock
 
 Socrates leans in and says with a smile, "Charles, tell me more about evolution". 
 
+---
+
+-Gallotia lizards
+Gran Canaria	Giant Gran Canaria Lizard	Grows up to 80cm long, adapted to island's specific terrain
+Tenerife	Tenerife Giant Lizard	Distinct morphological features from Gran Canaria species
+La Gomera	La Gomera Giant Lizard	Unique adaptation to the island's specific ecosystem
+Hierro	Hierro Giant Lizard	Evolved in isolation with distinct traits
+
+
+-Gran Canaria blue chaffinch
+- Echium	20+ endemic species	Dramatic variation in size, shape, and habitat adaptation	Volcanic slopes, rocky terrain, different altitude ranges
+- Sonchus	30+ endemic species	Remarkable diversification into tree-like and herbaceous forms	Laurel forests, dry zones, high-altitude environments
+- Lotus	25 endemic species	Significant morphological differences between island populations	Coastal areas, mountain regions, volcanic landscapes
+
+
+
 ### Explainer
 
 The scene you just read is a thought experiment—a glimpse into an alternate history where two of humanity's most transformative intellectual revolutions occurred simultaneously.
 
-Socrates, as the Roman philosopher Cicero observed, was the first to "call philosophy down from heaven, place it in cities and homes, and compel it to inquire about life and morals as well as good things and bad." Before him, the common practice was to let professional debaters, known as Sophists, debate both sides of a question. Everyone assumed justice had no universal definition and was merely a matter of law or custom. Sophists used rhetoric to convince people that their side served the ruler's interests and therefore was just.
+Socrates, as the Roman philosopher Cicero observed, was the first to "call philosophy down from heaven, place it in cities and homes, and compel it to inquire about life and morals as well as good things and bad." Before him, the common practice was to let professional debaters, known as Sophists, battle over a question. Everyone assumed justice had no universal definition and was merely a matter of law or custom. Sophists used rhetoric to convince people that their side served the ruler's laws and interests and therefore was just.
 
-Socrates challenged this approach. Instead of accepting that justice was a matter of human laws or customs, he asked things like “What is justice?” or "What is ethics".
+Socrates challenged this approach. Instead of accepting that justice was relative to human laws or customs, he asked things like “What is justice?” or "What is ethics".
 
-Such deceptively simple questions followed the example of ancient Greek thinkers—who Socrates admired—in physics and mathematics. These thinkers had built sewers, ships, and buildings, and countless other wonders of civilization by discovering natural laws such as measuring volume, weight, and angles through systematic questioning.
+Such deceptively simple questions followed the example of ancient Greek thinkers in physics and mathematics. These thinkers helped build sewers, ships, buildings, and countless other wonders by discovering natural laws that taught their students how to calculate volume, weight, and angles.
 
 Socrates asked why wouldn't human society also be subject to universal laws if water, ships, and engineering are?
 
-Socrates thus turned philosophy towards the human condition with practical questions about how we should live, what constitutes justice, and how societies should be organized. He taught his students to ask these questions, in what we now call the Socratic method, in order to use philosophy to build a better civilization the same way engineers use mathematicians to build better buildings. Every subsequent development in Western philosophy, politics, and ethics traces back to this Socratic revolution.
+Socrates thus turned philosophy towards the human condition with practical questions about how we should live, what constitutes justice, and how societies should be organized. He taught his students to ask these questions, in what we now call the Socratic method, in order to use philosophy to build a better civilization the same way engineers use mathematicians to build better buildings.
 
-Charles Darwin (Aristoteles), over two millennia later, revealed the mechanism by which all life adapts and evolves—including human beings. Although many scientists laid the groundwork for Darwin, their contribution was often removing the buildup of erroneous human narratives, such as all animals being created as they exist today and the Earth only being a few thousand years old.
+Every subsequent development in Western philosophy, politics, and ethics traces back to this Socratic revolution.
 
-While it was never going to be easy, Darwin's insights into natural selection, common descent, and evolutionary adaptation were always there to be discovered. And when they were, they transformed our understanding of the origin of species, including ourselves, in the natural world.
+Charles Darwin (Aristoteles), over two millennia later, revealed the mechanism by which all life adapts and evolves. Although many scientists laid the groundwork for Darwin, their contribution was often removing the buildup of erroneous human narratives, such as all animals being created as they exist today and the Earth only being a few thousand years old.
+
+While it was never going to be easy, Darwin's insights into natural selection, common descent, and evolutionary adaptation were always there to be discovered; most easily done in isolated islands like the Galapagos for Darwin, or the Canary islands in this alternative timeline. And when life's evolution was realized, it quickly transformed our understanding of the origin of species, including ourselves, in the natural world.
 
 So, what if these two intellectual revolutions had happened together? What if Darwin's insight on evolution had been made, accepted, and popularized along with Ancient Greek contributions like Pythagoras and Euclid's mathematical principles and Archimedes engineering foundations.
 
-This thought experiment says if Socrates had known about evolution he would have made an important connection. 
+This thought experiment says if Socrates had known about evolution he would have made an important connection—that mankind no longer evolved through biology but technology. Thus engineering foundations Socrates loved weren't only inspirational but directing human affairs because the technical and human realms co-evolve.
 
-It's entirely possible. Surrounded by far more wilderness, ancient Greeks cherished their language, plays, ships, trade, and civilization. Wilderness was seen as a dangerous realm that required a civilized man to subdue. Moreover Greeks were extremely competitive, warlike, and commercial. Most experienced tragedies such as shipwrecks, plagues, sieges that made technology's value as the differentiator between survival and flourishing readily apparent.
+It's entirely possible he would have made that connection. Surrounded by far more wilderness, ancient Greeks cherished their language, plays, ships, trade, and civilization. Wilderness was seen as a dangerous realm that required a civilized hero to subdue. Moreover Greeks were extremely competitive, warlike, and commercial. Most experienced tragedies such as shipwrecks, plagues, sieges that made technology's value as the differentiator between survival and flourishing readily apparent.
 
-Thus, Greeks might have readily seen technological evolution as the guiding principle of their fate. What they lacked was understanding evolution as a universal law.
+Thus, Greeks might have readily accepted technological evolution as the guiding principle of their fate. They already had beloved heroes such as Achilles and Odysseus but explained their success because of some mythical abilities instead of their willingness to drop tools and master new ones as needed.
 
-This led them, and thus us, down an inaccurate path, the same way not knowing universal gravitation led Socrates student Aristotle to create a Earth-centered universe, which guided humanity down the wrong path for centuries.
+What the Greeks lacked was an understanding of evolution as a universal law.
 
-If Socrates had grasped this principle—that humans and their tools co-evolve in response to environmental challenges—how might he have approached questions of ethics, politics, and justice?
+This led them, and thus us, down an inaccurate trail, the same way not knowing universal gravitation led Socrates' student Aristotle to create an Earth-centered universe, which guided humanity down the wrong path for centuries.
 
-What might this mean for our history, filled with empires that rise and fall, racism, sexism, slavery, recessions, economic and population booms and collapses, revolutions, civil wars, and so much more we hate but keep coming back?
+If Socrates had grasped the principle that humans and their tools co-evolve in response to environmental challenges—how might he have approached questions of ethics, politics, and justice?
 
-Perhaps these recurring patterns aren't moral failures or inevitable human flaws, but symptoms of civilizations struggling to adapt to technological changes they don't yet understand. Instead of asking "How do we eliminate war?" or "How do we achieve perfect justice?" an evolutionary Socrates might have asked: "What technological pressures create these conflicts?" and "How do societies successfully and smoothly adapt to new tools and capabilities?"
+Imagine the changes to our history, filled with empires that rise and fall, racism, sexism, slavery, recessions, economic and population booms and collapses, revolutions, civil wars, and so much more we hate but keep coming back?
 
-This reframing doesn't excuse human suffering or injustice, but it offers a different path forward. Rather than assuming our future depends on unearthing and enforcing better laws, policy, or moral education, we might focus on understanding how technological ecosystems can evolve toward greater human flourishing—just as Darwin's finches evolved better beaks for their particular environments.
+Perhaps these recurring patterns aren't moral failures or inevitable human flaws, but symptoms of civilizations struggling to adapt to technological changes we don't yet understand. Instead of asking "How do we eliminate war?" or "How do we achieve perfect justice?" an evolutionary Socrates might have asked: "What technological pressures create these conflicts?" and "How do societies successfully and smoothly adapt to new tools and capabilities?"
+
+This reframing doesn't excuse human suffering or injustice, but it offers a different path forward. Rather than assuming our future depends on "bringing down from heaven" perfect laws, policy, or moral education, we might focus on understanding how technological ecosystems can evolve toward greater human flourishing—just as Darwin's finches evolved better beaks for their particular environments.
 
 The conversation between Socrates and our fictional Darwin/Aristoteles represents the birth of what we might call "evolutionary philosophy", "biology for humans", or "techvolution"—a framework for understanding human societies as technological ecosystems that adapt, evolve, and thrive through the same principles that govern all life.
 
