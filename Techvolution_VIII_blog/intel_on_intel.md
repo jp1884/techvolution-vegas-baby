@@ -23,29 +23,27 @@ Adding more transistors means a more powerful computer chip. And so it's good th
 - 3.2 million transistors in the early 1990s Pentium chip.
 - Tens of billions of transistors in the forthcoming Panther Lake processor.
 
-<!-- IMAGE OF INTEL's MICROPROCESSOR HISTORY -->
+Few other companies have contributed to our economy at such an incredible rate. Despite the progress, the mystery of semiconductors never went away. The difficulty morphed into trying to comprehend the enormous complexity of the manufacturing processes. 
 
-Few other companies have contributed to our economy at such an incredible rate. Despite the progress, the mystery of semiconductors never went away. The difficulty morphed into trying to comprehend the enormous complexity of the manufacturing processes.
+Few people can. 
 
-Few people can.
+Today, it takes three months for a modern microchip to go from a silicon wafer into a finished product. All the while the microchip goes nearly non-stop through hundreds of very specialized tools. Operating these tools require skill sets so unique their rarity and preciousness is comparable to an endangered species.  
 
-Today, it takes three months for a modern microchip to go from a silicon wafer into a finished product. All the while the microchip goes nearly non-stop through hundreds of very specialized tools. Operating these tools require skill sets so unique their rarity and preciousness is comparable to an endangered species. 
+For example, let's look at lithography machines. They are like printers for computer chips. Using very precise beams of light, these machines transfer intricate circuit designs from templates onto the silicon wafers coated with light-sensitive material. This "prints" transistors, and the power lines and interconnects they depend on, onto microchips. 
 
-The equipment needed to produce today's chips has become astonishingly specialized. Just think about the printing process of the lithography machines used to print the pattern of transistors on the silicon wafer. Such machines currently cost over $400 million each and produce details smaller than the human DNA molecule.
+As Moore's Law progressed, lithography machines needed increasingly sophisticated optical systems, smaller light wavelengths, and more complex templates to keep making transistors smaller. 
 
-<!-- IMAGE OF LITHOGRAPHY MACHINE -->
+The semiconductor industry has explored at least 13 different lithography technologies since the 1960s, including proximity, projection, and electron beam (E-beam) lithography. Most resulted in dead ends. Today, the winner is High Numerical Aperture Extreme Ultraviolet lithography, and one machine costs over $400 million. 
 
-In order to continue the doubling curve required by Moore's Law, Intel and the competition have investigated more than fifty different ways of making chips. Nine out of ten end up in a dead end following an investment of billions of dollars. This industry is perpetually at the edge of physics and economics, where the consequences of one incorrect technical decision can mean lost years or bankruptcy.
+The price is so high because these new systems create features with critical dimensions below 8nm—to put this in perspective the number in 1990 was about 230nm, and a human DNA molecule is approximately 2.5nm wide.  
 
-In this world of endless experimentation at the boundaries of physical feasibility, the Intel fabrication ability found itself lagging the competition towards the end of 2015. This deficit, in all probability, was approximately 6-12 months in transistor density and speeds that were imperceptible to the average computer user.
+The entire semiconductor manufacturing toolchain has seen similar improvements and cannot be taken for granted. The cost of a development is filled with twists and turns, false starts, and is today nearing the limits of economics and physics.  
 
-Yet in a field that measures “progress” as doubling the performance each two years, the slightest setback becomes a crisis. In the media, the story shouted failure. In the financial world, the dollars dried up. The company that had been at the forefront of “Moore's Law” for the past four decades suddenly became a laggard—not because they failed to continue their innovation curve but because they were innovating at a slightly slower rate than anticipated.
+In this fog of development, Intel's ability to pack transistors onto microchips fell behind others. 
 
-In this fog of development, Intel's ability to pack transistors onto microchips fell behind others.
+As media reporters are apt to say, the other guys make faster microchips with more transistors, perhaps being 6-12 months ahead (although the gap should close with the impending "18A and 14A process nodes" I'm told). 
 
-As media reporters are apt to say, the other guys make faster microchips with more transistors, perhaps being 6-12 months ahead (although the gap should close with the impending "18A and 14A process nodes" I'm told).
-
-And because of this misstep, you at Intel got the scorn for failing to meet the expectations of huge yearly improvements you helped create.
+And because of this misstep, you at Intel got the scorn for failing to meet the expectations of huge yearly improvements you helped create. 
 
 ## Still in the Race
 
@@ -60,8 +58,6 @@ Then in 2015, your ability to manufacture the fastest microprocessors faltered.
 It is my understanding that when the Low Numerical Aperture Extreme Ultraviolet lithography tool wasn't ready, you tried cobalt interconnects and extensive multi-patterning instead (and I'm sure countless other techniques too complex for my enthusiast brain).
 
 It didn't work out. You got stuck in the mystery of semiconductor manufacturing and went from being years ahead to years behind in the race to add more transistors to microchips.
-
-<!-- PHOTO MASKS IMAGE -->
 
 By this time, most other semiconductor companies closed or sold their manufacturer fabrication departments (called "fabs"). It had become too expensive and difficult to stay in the Moore's Law race. Instead, Apple, AMD, nVidia, and others embraced being "fabless" and sent their designs to a semiconductor foundry to fabricate. 
 
@@ -81,11 +77,9 @@ Your naysayers and press followers won't do that for you. They should.
 
 It's not that you are perfect. I'm sure those on the inside know more than anyone else the hubris, missteps, and mistakes that saw a titan become a napping rabbit.
 
-I mean you were founded by PhDs and probably shouldn't have anyone in control who does not see the Periodic Table as a recipe book (it was a business minded CEO who rejected making the iPhones chips). I hear there are too many middle managers there (like in much of the American economy). Also, share buybacks are a bad idea in an industry as unpredictable and capital intensive as yours.
+I mean you were founded by PhDs and probably shouldn't have anyone in control who does not see the Periodic Table as a recipe book. I hear there are too many middle managers there (like in much of the American economy). Also, share buybacks are a bad idea in an industry as unpredictable and capital intensive as yours.
 
-But you can still put billions of transistors on a microchip. So I just wanted to say thanks for going to work every day.
-
-In the next blog post, we'll uncover why more people should be thankful too.
+But you can still put billions of transistors on a microchip. So I just wanted to say thanks for going to work every day. In the next post, we'll explore why people beyond the tech industry should care about Intel's struggle by using it to explain how to think like a 'biologist for humans'...and why that perspective shift changes everything about how we understand technological problems.
 
 # POST TWO
 
@@ -258,22 +252,6 @@ What if we applied evolutionary principles to understand how civilizations adapt
 I've been exploring this evolutionary framework for our technological civilization, and the early findings are promising. If you're curious about this approach to our modern struggles, you can read more at books.techvolution.org. 
 
 This blog will continue examining how we might consciously evolve beyond our current political and social breakdown. Because if transistors helped create these problems, understanding technological evolution might help us solve them.
-
-
-# P.S.
-
-- does it matter? what are we racing against that overcomes geopolitical, supply chain, and proximity? yes i know there is expertise but getting the iPhone 23 a year after the current timeline is a change likely to shut down our economy...
-
-- it would require a book to fully flesh the message out (especially for anyone who believes in "comparative advantage"). We don't think of our technological ecosystem as something needing study, management, and care. But we still need it, so we act out using emotions instead of reason....
-
-- it exposes what may be the fatal flaw of western liberal democracies. you can't win and your ecosystem lose. meaning you're victory must be a local material one, and not because of legal ownership of a far away place...no lion can be a king because of a foriegn jungle.
-
-- you can't cheer for a brand like we do "teams" in a sporting event, because teams are organized and everyone always gets another chance. brands are really infrastructure and everyone should be cheering, and supporting, their bridges, buildings, and manufacturers to succeed. Otherwise, you're just assuming someone else will do your work for you and not take advantage of you.
-
-- USA is going to spend billions on AI and this and that, and end up with not a single way of making a chip.
-
- - industry folk, you're competing yourself to death. literally, you're exported away. why is waiting and being a little more patient for the next node such a big deal...?
-
 
 
 ## Sources
