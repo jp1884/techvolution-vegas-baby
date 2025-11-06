@@ -304,83 +304,91 @@ The salt air carried the scent of tar and sweat thick through the crowd. The gre
 
 A bronze-tipped spear split its way through the crowd. He stopped, breathed in and looked around. This display of commerce, engineering, civil law makes the soldier stop and smirk.
 
-Now the people walking by patted him on the shoulder. A sign of respect.
+Now the people walking by patting him on the shoulder. A sign of respect.
 
 This is why Athens was the jewel and central power of the Hellenic world. Not just for the commerce that made her rich, or the engineers that made her powerful, but for the democracy that made them united.
 
-And Socrates was one of her citizens. Nearing middle aged but in good health. His balding head and stubby nose made him rather ordinary in appearance, if it weren't for the hoplite armour he wore and carried with him.
+And Socrates was one of her citizens. Nearing middle aged but in good health. His balding head and stubby nose made him rather ordinary in appearance, if it weren't for the hoplite armour he half wore and carried with him. Bronze shield and helmet, hardened spear, sword, and leather armour.
 
-As people's hands kept patting his shoulders, he sees a stump near a pier and sits. A better place to observe the organized chaos of it all. Holding his helmet, he reflects it all looks like ants on so many ant hills.
+As people's hands keep patting his shoulders.
+
+"Give those Spartans Athenian metal!" A teenager cries out to the soldier. "Hip hip horray!" responds the crowd.
+
+Socrates can't help but smile as he continues walking through the crowd. He sees a stump near a pier and walks over as the cheers die down. 
+
+A better place to observe the organized chaos of it all. Holding his helmet, he feels at its weather leather straps and worn paint, and reflects at the chaos of the people, and thinks they are like ants on so many ant hills.
 
 Of course better than ants he thinks. The Pythagoras school teaches the laws of geometry, workers use them to build the walls, lay the ships, grind the corn, and build the armor.
 
-Socrates is awoken from his reflection by a crash of wood on stone. A Phoenician vessel eases into berth, its wood hull scarred by countless voyages. The crew moved with an efficiency born of necessity--like ants he thought again--each man knowing his role without instruction.
+Socrates is awoken from his reflection by a crash of wood on stone. A Phoenician vessel eases into berth, its wood hull scarred by countless voyages. The crew moves with an efficiency born of necessity—like ants he thought again—each man knowing his role without instruction.
 
-But not ants of course. Because each man must learn their place. But how?
+Not ants of course. Because each man must learn their place. But how?
 
-Education of course. But that thought makes him mourn. He long wanted to teach students, as his friends are wont to say, he was plagued by questions. Not the sort his fellow citizens asked about grain prices or political alliances, but deeper puzzles about justice, virtue, the nature of a good life.
+Education of course. That thought makes him mourn. He long wanted to teach students, as his friends are wont to say, he is plagued by questions. Not the sort his fellow citizens asked about grain prices or political alliances, but deeper puzzles about justice, virtue, the nature of a good life.
 
-The war horn sounded from the Acropolis. Soldiers are being called to their ships. Socrates wandered off, he needed to be reminded one more time why he goes to fight.
+The war horn sounds again from the Acropolis. Soldiers are being called to their ships. Socrates wandered off from the mustering grounds, he told himself he needed to be reminded one more time why he fights.
 
-As Socrates contemplated the organized chaos of the harbor, his mind wandering between the possible war with Sparta and her allies and his unanswered philosophical questions, a strange sound caught his attention—a cacophony unlike anything he'd heard before.
+Socrates holds his gear one more time. Inherited from his father, he will live or die inside this gear, maybe against Spartans with a undying reputation for being the masters of warfare with the hardest of shields and the sharpest of spears. He does not want to die, but is sad that his unanswered philosophical questions will die with him.
+
+Just then a strange sound catches his attention—a cacophony unlike anything he'd heard before.
 
 #### A New Curious Ship Arrives
 
-The strange vessel moves with deliberate care toward an empty berth, its crew working in hushed concentration. Socrates had seen ships from across the Mediterranean—Egyptian grain haulers, Phoenician traders, even the occasional barbarian craft from beyond the Pillars of Heracles—but this one puzzles him. It has Athenian colors, and design but is weathered and filled with cargo covered with leathers.
+The strange vessel moves with deliberate care toward an empty berth, its crew working in hushed concentration. Socrates has seen ships from across the Mediterranean—Egyptian grain haulers, Phoenician traders, even the occasional barbarian craft from beyond the Pillars of Heracles—but this one puzzles him. It has Athenian colors, and design but is weathered and filled with many cages covered with leathers and tarps.
 
-What truly caught his attention, however, are the sounds.
+What truly catches his attention, however, are the sounds.
 
-A cacophony of chirping, chattering, and calls unlike anything heard in an Athenian market drifted across the water. These creatures were seemingly still alive.
+A cacophony of chirping, chattering, and calls unlike anything heard in an Athenian market before. These many creatures were seemingly all still alive.
 
 Not unusual for a ship. Ships often bring animals for trade and sale. But usually large lions, giraffes, and other beasts.
 
-As the ship drew closer, Socrates could see these creatures were in wooden cages stacked along the deck. As the leather tarps are removed, he sees the diversity. Birds with brilliant plumage that seemed to shift color in the sunlight, furry creatures of some sort, lizards of impossible variety.
+As the ship draws closer, Socrates could see these creatures are in wooden cages stacked along the deck. As the leather tarps are removed, he sees the diversity. Birds with brilliant plumage that seem to shift color in the sunlight, furry creatures of some sort, lizards of impossible variety.
 
-"By Zeus," muttered an old fisherman beside Socrates, "what manner of voyage brings back a floating menagerie?" The fisherman taps Socrates shoulder as he walks away, returning to his job.
+"By Zeus," muttered an old fisherman beside Socrates, "what manner of voyage brings back a floating menagerie?" The fisherman taps Socrates spear as he walks away too busy with his job to care anymore on the matter.
 
-As the gangplank lowered, a figure emerged that commanded immediate attention. He was perhaps thirty years of age, with the weathered look of a man who had spent months under foreign suns, yet his eyes held an intensity that reminded Socrates of the philosophers who gathered in the agora.
+As the gangplank lowers, a figure emerges that commands immediate attention. He is perhaps thirty years of age, with the weathered look of a man who had spent months under foreign suns, yet his eyes hold an intensity that reminds Socrates of the philosophers who gathered in the agora.
 
-Behind him came his crew, carefully carrying the cages with a reverence usually reserved for sacred objects. The man supervised each movement, occasionally making notes on a wax tablet, his attention shifting between his precious cargo and detailed sketches that fluttered in the sea breeze.
+Behind him comes his crew, carefully carrying the cages with a reverence usually reserved for sacred objects. The man supervises each movement, occasionally making notes on a wax tablet, his attention shifting between his precious cargo and detailed sketches that flutter in the sea breeze.
 
-"Careful with the labels of each cage," he called to a sailor. "Each variety tells a story!"
+"Careful with the labels of each cage," he calls to a sailor. "Each variety tells a story!"
 
 Stories? Socrates walks closer to investigate. What stories could animals tell? The philosopher in him stirred with familiar hunger. These were no ants, but a puzzle. One last one before his battle.
 
-The man stepped fully onto the dock. "Nikias! Arrange the bird specimens by island of origin," he called to a young sailor struggling with a cage of peculiar finches. "The ones from the eastern archipelago here, the western group there. Mind the labels."
+The man steps fully onto the dock. "Nikias! Arrange the bird specimens by island of origin," he calls to a young sailor struggling with a cage of peculiar finches. "The ones from the eastern archipelago here, the western group there. Mind the labels."
 
 "Again with the labels! Did you not write your records already?"
 
 "The labels!"
 
-Socrates watched, fascinated, as the crew began organizing the menagerie with methodical precision. The man—clearly the expedition's leader—consulted his notes constantly, directing the placement of each cage with the care of a priest arranging sacred offerings.
+Socrates watches, fascinated, as the crew begins organizing the menagerie with methodical precision. The man—clearly the expedition's leader—consults his notes constantly, directing the placement of each cage with the care of a priest arranging sacred offerings.
 
-"These tortoises," the man said, pointing to several large shells that housed creatures with different neck lengths.
+"These tortoises," the man says, pointing to several large shells that housed creatures with different neck lengths.
 
 Another sailor holds up a cage containing what appears to be the same type of small, dark bird. "Where do these go, Zographos?"
 
-Zographos helps the sailors move the crates off. He returns to arranging his wax tablets, sheets of papyrus, and scrolls.
+The man, Zographos, helps the sailors move the crates off. He returns to arranging his wax tablets, sheets of papyrus, and scrolls.
 
-The horn rings twice. Socrates doesn't acknowledge it this time. Instead he approaches Zographos.
+The war horn rings twice. Socrates doesn't acknowledge it this time. Instead he approaches Zographos.
 
-"Friend," Socrates began. "I am Socrates, son of Sophroniscus. Welcome home. Pray tell, where did return from with such a wondrous variety of cargo."
+"Friend," Socrates begins. "I am Socrates, son of Sophroniscus. Welcome home. Pray tell, where did you return from with such a wondrous variety of cargo."
 
-"Hello Friend, I see I can see sadly the rumours of war were not exaggerated. I pray for your safety and for Sparta to come to his senses."
+"Hello Friend, I can see the rumours of war were not exaggerated. I pray for your safety and for the Spartans to come to his senses."
 
-"I thank you for the well wishes. But I can't help but notice you failed to answer the query. Is that your intent?"
+"I thank you for the well wishes. But I must note that you fail to answer the query."
 
-"Friend, I respect the protection you do for our city. But tell you where I've been and what we've seen is by no means for conversation here at the dock. Pythagoras needed education and students for his work, and I must so, do I."
+"Friend, I respect the protection you do for our city. But to tell you where I've been and what we've seen is by no means for conversation here at the dock. Pythagoras needed education and students for his work, and I will too."
 
-"A more curious words I cannot remember hearing. But forgive me, some may not be here to read your scrolls or seat in your academy." This incites the response Socrates wanted.
+"More curious words I cannot remember hearing. But forgive me, some may not be here to read your scrolls or seat in your academy." This incites the response Socrates wanted.
 
-"Zographos of Athens," says as he gives Socrates his hand. "I have returned from the Blessed Isles, far beyond the western horizon—islands that Homer never even sang of, where the very foundations of life reveal their secrets. Please ask your questions, I can see the fleet is embarking even as we speak. They will put on you trial Socrates if you desert, so be quick of questions and comprehension."
+"Zographos of Athens," says, as he gives Socrates his hand. "I have returned from the Blessed Isles, far beyond the western horizon—islands that Homer never even sang of, where the very foundations of life reveal their secrets. Please ask your questions, I can see the new triremes fleet is embarking even as we speak. Finer ships cannot be found anywhere on the seas. They will put you on trial Socrates if you desert, so be quick of questions and comprehension."
 
 Socrates feels his pulse quicken.
 
 "Why group them by shell shape and cages?"...
 
-"Because Socrates, the Gods are craftsman with the hammer, and necessity to survive is the anvil!"
+"Because Socrates, the Gods are craftsman with a hammer and the environment is the anvil!"
 
-Socrates, unable to resist the pull of curiosity that he wants his life to answer, found himself drawn closer to this weathered traveler and his extraordinary cargo. Something in the man's precise movements and intense gaze suggested a mind as restless as his own.
+Socrates draws his weather gear aside to move closer to this weathered traveler and his extraordinary cargo. Something in the man's precise movements and intense gaze suggested a mind as restless as his own.
 
 #### Socrates Asks Questions
 
@@ -390,56 +398,63 @@ Socrates, unable to resist the pull of curiosity that he wants his life to answe
 
 "They sailed around Arabia."
 
-"We set out to show the way again. Surely the trade routes would be grant Athens riches worthy of the task... And instead we found the blessed islands."
+"We set out to show the way again. Surely the trade routes would be grant Athens riches worthy of the task... And instead we found blessed islands."
 
-"The Blessed Isles?" Socrates gestured toward the cages. "And these creatures—why capture them? For trade, for sacrifice?"
+"The Blessed Isles?" Socrates gestures toward the cages. "And these creatures—why capture them? For trade, for sacrifice?"
+
 "May the Gods strike me down for the thought."
 
-A smile played across Zographos' weathered features. "These animals are teachers, Socrates. Each one holds a lesson. You see, the winds wouldn't let us go south. They brought us to these islands in the middle of the ocean with nothing but volcanoes at their tips, and forests, ponds, streams, and rocks."
+Zographos pauses for a minute. He's preparing to say his deepest thoughts.
 
-"With no where to go, we explored, from island to island, back and forth looking for supplies. No cities. No temples. No men. All the better. For I finally saw how different each island was. And then I noticed how the creatures—birds, lizards, tortoises—each looked the same, but different, just enough to survive.
+"These animals are teachers, Socrates. Each one holds a lesson. You see, the winds wouldn't let us go south. They brought us to these islands in the middle of the ocean with nothing but volcanoes at their tips, and forests, ponds, streams, and in small patches throughout their lonely rocks."
 
-The creatures morphed like the gods."
+"We tried every route south. Going from island to island looking. Soon we needed supplies of course, so we went back again and again. No cities. No temples. No men. All the better, it turns out. For I finally saw how different each island was".
 
-As Socrates leaned forward, his eyes bright with intellectual hunger, Zographos felt a familiar tension—the same uncertainty that had accompanied him through years of observation and discovery. Here, on this bustling dock with war approaching, he might finally give voice to the revolutionary thoughts that had consumed him.
+"And then I noticed how the creatures—birds, lizards, tortoises—each looked the same, but different, just enough to survive."
 
-Socrates felt the familiar thrill of approaching understanding. "Changed how?"
+"The creatures morphed like the gods."
+
+As Socrates leans forward, his eyes bright with intellectual hunger, Zographos feels a rush of uncertainty, a concentrated dose of what has accompanied him through years of observation and discovery.
+
+Here, on this bustling dock with war approaching, he might finally give voice to the revolutionary thoughts that have consumed him. After years of travel with only his thoughts, scrolls, creatures and sailors. Here is a person. He told himself he needed isolation to write his book. But really, he's been nervous to speak of his ideas.
+
+What if he's wrong? Worse, what if no one believes him.
+
+He tells himself someone had to be first to hear it, why not a soldier who is leaving the city for months if not years. Zographos then finds the courage to look at this man, Socrates.
+
+Who looks back with the thrill of approaching understanding. "Go on. Changed how?"
 
 #### Darwin Sells Evolution
 
-Zographos set down his wax tablet, his eyes brightening at Socrates' penetrating questions. After years of travel with only his thoughts, scrolls, creatures and sailors. Here was a person. He told himself he wanted silence to write his book. But really, he's been nervous to speak of his ideas.
+Zographos sets down his wax tablet. Would this Socrates be his first student?
 
-What if he's wrong?
+What nerves this thought has.
 
-And, here was someone who understood that these caged creatures represented more than mere curiosities. Would this Socrates be his first student? What nerves this thought has.
-
-"You ask the right questions, my friend!" Zographos said embracing this chance. His words tumbling out with the enthusiasm of a man who had been alone with revolutionary thoughts for too long. "Watch." Zographos lifted a cage with a small finch. "This bird came from a land with only hard seeds. Now look—" He lift another finch. "but this one lived where only soft insects were available. Its beak became slender and precise."
+"You ask the right question, my friend!" Zographos says, embracing this chance. His words tumbling out with the enthusiasm of a man who has been alone with revolutionary thoughts for too long. "Watch." Zographos lifted a cage with a small finch. "This bird came from a land with only hard seeds. Now look—" He lifts another finch. "but this one lived where only soft insects were available. Its beak became slender and precise."
 
 "You're saying the islands..."
 
-"They are the same bird otherwise! It's so obvious. "It will be once I breed them."
+"Each island shaped them differently," Zographos continues, now just speaking his thoughts, his shoulders drop and tension falls, this feels liberating. "The same ancestor, but each population adapted! That's the book! The dry islands demanded one solution, the wet islands another."
 
-"Each island shaped them differently," Zographos continued, now just speaking his thoughts, his shoulders drop and tension falls, this feels liberating. "The same ancestor, but each population adapted! That's the book! The dry islands demanded one solution, the wet islands another.
+With poised vigour he continues "And the Gods selected the ones who were to breed on." 
 
-"And the the Gods selected the ones who survived to breed on." 
+Socrates stares at the birds, his mind racing. "And you believe this principle applies to island creatures?"
 
-Socrates stared at the birds, his mind racing. "And you believe this principle applies to island creatures?"
+Zographos' eyes gleam. "My friend, I believe this principle explains all creatures."
 
-Zographos' eyes gleamed. "My friend, I believe this principle explains all creatures."
-
-Socrates nodded, encouraging him to continue.
+Socrates strokes his weather leather straps, and grips his spear, then nods to encourage Zographos to continue.
 
 "You care for me to continue. You are interested?"
 
-"It's nice to meet something who has been away for many years. I think it is fair to say I have a reputation for interest, perhaps enough to make a difference"
+"It's nice to meet someone who has been away for many years. I think it is fair to say I have a reputation for curiosity, as I am sure you will find out. I perhaps have enough to make a difference to our fair city's future."
 
-Zographos looked directly at Socrates, his voice dropping to an almost reverent whisper. "The whole process—the inheritance, the variation, the selection, the branching into new forms—I called it evolution."
+Zographos looks directly at Socrates, his voice dropping to an almost reverent whisper. "The whole process—the inheritance, the variation, the selection, the branching into new forms to cast away the unneeded old—I call it evolution."
 
-Socrates felt something shift deep within his mind, like a key turning in a lock he hadn't known existed. The questions that had plagued him about justice, virtue, and human nature suddenly seemed to reorganize themselves around this single, powerful idea. If humans, like these creatures, were shaped by the challenges they faced...
+Socrates feels something shift deep within his mind, like a key turning in a lock he hadn't known existed. The questions that had plagued him about justice, virtue, and human nature suddenly reorganize themselves around this single, powerful idea. If humans, like these creatures, were shaped by the challenges they faced...
 
 The horn blows thrice.
 
-Socrates leans in and says with a smile, "Tell me more about evolution". 
+Socrates holds his spear, and old armour, and leans in and says with a smile, "Tell me more about evolution, I think we shall put it to use before long".
 
 ---
 
@@ -481,9 +496,9 @@ So, what if these two intellectual revolutions had happened together? What if Da
 
 This thought experiment says if Socrates had known about evolution he would have made an important connection—that mankind no longer evolved through biology but technology. Thus, the mathematical foundations Socrates and his students loved weren't only inspirational but intertwined with human affairs because the technical and human domains co-evolve.
 
-It's entirely possible Socrates or his students would have made the connection that evolution was a natural law for biology and technology.
+It's entirely possible Socrates or his students would have made the connection that because evolution was a natural law for biology, then it must be for humans and our technology as well.
 
-Surrounded by far more wilderness, ancient Greeks cherished their language, plays, ships, trade, and civilization. Wilderness was seen as a dangerous realm that required a civilized hero to subdue. Moreover Greeks were extremely adventurous, competitive, warlike, and commercial. Importantly, most Greeks experienced tragedies such as shipwrecks, plagues, sieges that made technology's value as the differentiator between survival and flourishing readily apparent.
+Surrounded by far more wilderness, ancient Greeks cherished their language, plays, ships, trade, and civilization. Wilderness was seen as a dangerous realm that required a civilized hero to subdue. Moreover Greeks were extremely adventurous, competitive, warlike, and commercial. Most Greeks experienced tragedies such as shipwrecks, plagues, sieges that made technology's value as the differentiator between survival and flourishing readily apparent.
 
 Thus, Greeks might have readily accepted technological evolution as the guiding principle of their fate. They already had innovative tool using heroes such as Achilles and Odysseus but explained their success because of mythical abilities instead of their willingness to drop tools and master new ones as needed, famously seen when Odysseus built the trojan horse to conquer Troy.
 
@@ -503,7 +518,7 @@ The conversation between Socrates and our fictional Darwin/Zographos represents 
 
 Of course this story did not happen.
 
-Socrates and Darwin never met, the same way Aristotle and Newton never did. But this tale serves as food for thought because you know Socrates and Darwin, so despite the distance from each other, they are meeting in you. Thus, despite the lofty goals the Techvolution series is setting out to achieve, we are only adding some of our scientific knowledge to the foundational questions Socrates first posed about human civilization.
+Socrates and Darwin never met, the same way Aristotle and Newton never did. But this tale serves as food for thought because you know Socrates and Darwin, so despite their distance from each other, they are meeting in you. Thus, despite the lofty goals the Techvolution series is setting out to achieve, we are only adding some of our scientific knowledge to the foundational questions Socrates first posed about human civilization.
 
 That way, we'll correct the path we've been on by applying evolutionary thinking to understand how civilizations adapt to technological change. This will help us consciously guide our civilization's evolution toward a future where people will no longer have to ask "what is justice" because they'll instead be intentionally building it.
 
