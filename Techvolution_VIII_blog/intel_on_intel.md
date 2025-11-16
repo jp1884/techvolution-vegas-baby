@@ -101,7 +101,7 @@ I'm not here to defend a billion dollar corporation such as Intel, or the other 
 
 And the distinction there is the difference Feynman talked about.
 
-The company of Intel has struggled. From the mid 1980s to the mid 2010s, it made many of the world's advanced microprocessors, and then missed out on making mobile smartphone chips and then AI chips while losing half its huge market share of the lucrative home computer and service chips to competitors.
+The company of Intel has struggled. From the mid 1980s to the mid 2010s, it made many of the world's advanced microprocessors, and then missed out on making mobile smartphone chips and then AI chips while losing half its huge market share of the lucrative home computer and server chips to competitors.
 
 Hence the ridicule of tech and investor press and the population at large.
 
@@ -285,23 +285,26 @@ Asianometry. 2023 August 20. What Goes On Inside a Semiconductor Wafer Fab [Vide
 
 <!-- POST TWO -->
 
-Rich, B. R. (1994). Skunk Works: A personal memoir of my years at Lockheed. Back Bay Books.
+Learn Your Land. (2024). Finding Dozens Of American Chestnut Trees. https://www.youtube.com/watch?v=QNPxaLmrkU4
 
-McLeod, J. (2025, September 9). Rapidus, IBM, and the billion-dollar silicon sovereignty bet. SemiWiki. https://semiwiki.com/semiconductor-manufacturers/361523-rapidus-ibm-and-the-billion-dollar-silicon-sovereignty-bet/
+PBS Terra. (2025, Sep 23). America's Great Lost Tree Is Finally Returning. https://www.youtube.com/watch?v=ADA6cuWy8Xg
 
-ThePrimeTime. (2025, August). Why Performance Actually Matters (The Standup) [Video] https://www.youtube.com/watch?v=RlTVMi4JzZA&list=PL2Fq-K0QdOQiJpufsnhEd1z3xOv2JMHuk&index=9
+Wikipedia Contributors. (2025, October 30). American chestnut. Wikipedia. https://en.wikipedia.org/wiki/American_chestnut
 
-Fairchild Semiconductor. (2023). In Wikipedia. https://en.wikipedia.org/wiki/Fairchild_Semiconductor#Fairchildren_companies
+<!-- POST THREE -->
 
-TED-Ed. (2025, February 2025). How are microchips made? - George Zaidan and Sajan Saini. https://www.youtube.com/watch?v=IkRXpFIRUl4.
+Office of the White House. (2024, March 20). U.S. Semiconductor Jobs are Making a Comeback. https://bidenwhitehouse.archives.gov/cea/written-materials/2024/03/20/u-s-semiconductor-jobs-are-making-a-comeback/
 
 LaurieWired. (2025, October). what if humans forgot how to make CPUs? https://www.youtube.com/watch?v=L2OJFqs8bUk
 
 McLeod, J. (2025, September 9). Rapidus, IBM, and the billion-dollar silicon sovereignty bet. SemiWiki. https://semiwiki.com/semiconductor-manufacturers/361523-rapidus-ibm-and-the-billion-dollar-silicon-sovereignty-bet/
 
-<!-- POST THREE -->
+TED-Ed. (2025, February 2025). How are microchips made? - George Zaidan and Sajan Saini. https://www.youtube.com/watch?v=IkRXpFIRUl4.
 
-Office of the White House. (2024, March 20). U.S. Semiconductor Jobs are Making a Comeback. https://bidenwhitehouse.archives.gov/cea/written-materials/2024/03/20/u-s-semiconductor-jobs-are-making-a-comeback/
+McLeod, J. (2025, September 9). Rapidus, IBM, and the billion-dollar silicon sovereignty bet. SemiWiki. https://semiwiki.com/semiconductor-manufacturers/361523-rapidus-ibm-and-the-billion-dollar-silicon-sovereignty-bet/
+
+Rich, B. R. (1994). Skunk Works: A personal memoir of my years at Lockheed. Back Bay Books.
+
 
 
 ## Article names
