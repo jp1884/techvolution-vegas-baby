@@ -165,17 +165,15 @@ This is what thinking like a "biologist for humans" means: seeing technological 
 
 ## What Are Biologists For Humans
 
-Globally we produce more than a trillion computer chips per year—each containing anywhere from thousands to tens of billions of transistors. In total, humanity now manufactures more transistors annually than there are stars in the observable universe.
+Annually, approximately 2.6 billion microprocessors are manufactured worldwide, representing a significant leap in semiconductor production. The transistor manufacturing process is even more remarkable, with an estimated 10-20 trillion transistors created per minute across global semiconductor facilities.
 
-<!-- 86 billion neurons, 260 births per second. which means...  -->
-
-For perspective: the Apollo 11 spacecraft that landed us on the Moon in 1969 had about 40,000 transistors total. A single modern smartphone contains over 10 billion—250,000 times more computing power in your pocket than the technology that got us to the moon.
+To provide a biological context that highlights the scale of technological complexity, consider these fascinating numbers: Roughly 132 million humans are born each year, with each individual possessing approximately 86 billion neurons. While transistors and neurons are fundamentally different systems, both represent intricate networks of information processing.
 
 This exponential growth represents the power of Moore's Law, and even with occasional missteps, it is changing our politics, economics, identity, and environment much faster than our biology evolved to understand. This mismatch requires us to think like "biologists for humans"—people who study our technological ecosystem with the same systematic approach biologists use in nature.
 
-A biologist for humans realizes modern technology is no longer a collection of products, but a living ecosystem we depend on and co-evolve with.
+<!-- Silicon Heartland is advanced semiconductor fabrication plant under construction in Ohio. It's a much needed boon to the American technological ecosystem. A sort of hatchery for tomorrows technology . Credit: Intel Corp. -->
 
-<!-- Moon landing -->
+A biologist for humans realizes modern technology is no longer a collection of products, but a living ecosystem we depend on and co-evolve with.
 
 Like biological species, each tool must continuously adapt, harvest resources, and evolve to survive inside its ecosystem. Therefore, just as a biologist studies an organism's behaviors, environmental interactions, and reproductive health (see American Chestnut), we must study technology as a dynamic, interconnected system constantly reshaping the human experience.
 
@@ -184,6 +182,8 @@ Then we'd know that when computer gamers, investors, customers, and others criti
 Because if Americans and the tools of its ecosystem are struggling making the transistors we desperately need, we shouldn't mock the trees for making less chestnuts each year.
 
 Instead, we should identify and rectify the blight.
+
+<!-- New American chestnut saplings are tested against blight. The survivors are planted. Credit The American Chestnut Foundation. -->
 
 Because like in nature, there will be good and bad harvest years, but extinction is never returned from. Therefore, making much faster microprocessors each year is not nearly as important as simply continuing to make advanced transistors.
 
@@ -206,6 +206,8 @@ As Steve Jobs said, "The best way to predict the future is to invent it". There 
 We need to actually mix everyday problems, thoughts and ideas, and available raw materials. As Dr. Gordon Moore and Dr. Andy Grove proved, innovation needs survival instincts to keep life alive. Only going through that process reveals what is needed and possible with the resources at hand.
 
 That's why the first computers were imagined from the textile looms of 1830s England (the world's most advanced), or why Henry Ford's team imagined car mass manufacturing after looking at a butchery in Chicago (again among the world's most advanced). Even Jobs had to see the graphical user interface (GUI) at Xerox PARC in order to invent the Macintosh, the first modern personal computer.
+
+<!-- This is the first transistor. For years many tried to invent it. Some thought it impossible. It was a last minute idea by its inventors John Bardeen and Walter Brattain to cut the gold contact foil that finally showed it was possible to amplify an electric current and switch it on and off. Just an example how presence (with genius and fortitude) can make the difference. Once the concept proved possible, others raced to miniaturize and commercialize it. -->
 
 Absence of our society making new tools goes a long way to explaining our economic troubles.
 
@@ -292,18 +294,21 @@ PBS Terra. (2025, Sep 23). America's Great Lost Tree Is Finally Returning. https
 Wikipedia Contributors. (2025, October 30). American chestnut. Wikipedia. https://en.wikipedia.org/wiki/American_chestnut
 
 <!-- POST THREE -->
+Goriely A. (2025). Eighty-six billion and counting: do we know the number of neurons in the human brain?. Brain : a journal of neurology, 148(3), 689–691. https://doi.org/10.1093/brain/awae390
 
-Office of the White House. (2024, March 20). U.S. Semiconductor Jobs are Making a Comeback. https://bidenwhitehouse.archives.gov/cea/written-materials/2024/03/20/u-s-semiconductor-jobs-are-making-a-comeback/
+Issacson, W. (2014). The Innovators. Simon and Schuster. page 112.
 
 LaurieWired. (2025, October). what if humans forgot how to make CPUs? https://www.youtube.com/watch?v=L2OJFqs8bUk
 
 McLeod, J. (2025, September 9). Rapidus, IBM, and the billion-dollar silicon sovereignty bet. SemiWiki. https://semiwiki.com/semiconductor-manufacturers/361523-rapidus-ibm-and-the-billion-dollar-silicon-sovereignty-bet/
 
-TED-Ed. (2025, February 2025). How are microchips made? - George Zaidan and Sajan Saini. https://www.youtube.com/watch?v=IkRXpFIRUl4.
-
 McLeod, J. (2025, September 9). Rapidus, IBM, and the billion-dollar silicon sovereignty bet. SemiWiki. https://semiwiki.com/semiconductor-manufacturers/361523-rapidus-ibm-and-the-billion-dollar-silicon-sovereignty-bet/
 
+Office of the White House. (2024, March 20). U.S. Semiconductor Jobs are Making a Comeback. https://bidenwhitehouse.archives.gov/cea/written-materials/2024/03/20/u-s-semiconductor-jobs-are-making-a-comeback/
+
 Rich, B. R. (1994). Skunk Works: A personal memoir of my years at Lockheed. Back Bay Books.
+
+TED-Ed. (2025, February 2025). How are microchips made? - George Zaidan and Sajan Saini. https://www.youtube.com/watch?v=IkRXpFIRUl4.
 
 
 
