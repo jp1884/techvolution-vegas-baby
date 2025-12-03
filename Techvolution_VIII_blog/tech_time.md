@@ -17,7 +17,6 @@ This blindness isn't unique to a fictional sitcom. It's how most of us relate to
 
 Home Improvement offers a perfect case study in what happens when we lack that awareness.
 
-
 ### The Show
 
 Most of us know all about the premise of the show. So if you do, you can move ahead. But if not, Home Improvement was a beloved American sitcom during the 1990s. Starring Tim Allen as Tim "The Tool Man" Taylor, the show centered around a local home improvement television show host and his family, blending comedy with relatable family dynamics. 
@@ -36,6 +35,14 @@ And, watching the show I couldn't help but notice the seeds of the discord and c
 
 ### Unspoken Future
 
+>  Video killed the radio star.
+   Video killed the radio star.
+   In my mind and in my car.
+   We can't rewind, we've gone too far.
+
+_Video Killed The Radio Star_ 
+_Released: 1980_
+
 Home Improvement did not exist in a hypothetical universe. It was a regular suburb in 1990s America. The Taylors lived outside of Detroit, Michigan, but could very well have been in Indiana, Washington, or California.
 
 Filled with suburban houses, hot rods, consumer goods, high-school drama, first jobs, and layoffs, the life and times of the Taylors was about an average life for everyone in America. 
@@ -44,16 +51,16 @@ Let's see what was going on behind the scenes so to speak, in the technological 
 
 This chart shows the development of new telecommunication technologies. Each line is a new technology that came to market, its speed at moving data, and the estimated time it would take to send/receive one minute of Standard Definition (480p) video.
 
-| Year      | Medium       | Typical Max Speed (Mbps) | 1 Min Video |
-| --------- | ------------ | ------------------------ | ----------- |
-| 1940s     | AM Radio     | 0.128 (128 kbps)         | ≈4.7 hours  |
-| 1950s-70s | TV Broadcast | 3-4 (analog equivalent)  | ≈8-12 min   |
-| 1980s     | Cable TV     | 5 (analog est.)          | ≈7 min      |
-| 1990s     | Internet     | 0.056 (56k modem)        | ≈10.7 hours |
-| 1990s     | Cable Modem  | 27-38                    | ≈57-80 sec  |
-| 2000s     | Broadband    | 100+                     | ≈21 sec     |
-| 2010s     | Fiber        | 1000 (1 Gbps)            | ≈2 sec      |
-| 2020s     | DOCSIS 3.1+  | 10000 (10 Gbps)          | ≈0.2 sec    |
+| Year      | Medium                         | Digital-Equivalent (Mbps)              | 1 Min Video (≈10 MB) |
+| --------- | ------------------------------ | -------------------------------------- | -------------------- |
+| 1940s     | AM Radio (audio equivalent)    | ~0.04 (40 kbps)                        | ≈33 min              |
+| 1950s-70s | Analog TV broadcast (SD video) | ~3–4 (compressed SD-equivalent)        | ≈20–27 sec           |
+| 1980s     | Analog Cable TV (SD video)     | ~5 (compressed SD-equivalent)          | ≈16 sec              |
+| 1990s     | Dial-up Internet               | 0.056 (56 kbps peak)                   | ≈24 min              |
+| 2000s     | Consumer broadband (DSL/cable) | ~1–10 (typical)                        | ≈8–67 sec            |
+| 2010s     | Fiber to the home              | 100–1000                               | ≈0.8–8 sec           |
+| 2010s-20s | 4G / LTE mobile data           | ~10–100 (typical LTE user range)       | ≈0.8–8 sec           |
+| 2020s     | High-end cable/fiber access    | 1000–5000 (1–5 Gbps high-end tiers)    | ≈0.16–0.8 sec        |
 
 * Approximations of “One minute of video” uses a common SD (480p) rate for equivalence.
 
@@ -71,7 +78,7 @@ Physical Media Storage Capacity
 
 All of these increases in telecommunications and storage capacity meant much change in houses throughout America. Not only could companies record, store, and communicate more information to customers. But homes gradually got ever more powerful devices themselves. These big evolutionary jumps in ability are worthy of Tim Taylor's famous tagline "More Power!".
 
-Perhaps we should say "Moore Power!" as it was doubling of transistor density in microchips (known as Moore's Law), that fueled most of these startling gains from the 1970s onwards, especially as more powerful computers can compress and decompress video content making the most of telecommunication technology.
+Perhaps we should say "Moore Power!" as it was doubling of transistor density in microchips (known as Moore's Law), that fueled most of these startling gains from the 1970s onwards, especially as more powerful computers can compress and decompress video content making the most of each telecommunication technology.
 
 What all these technological improvements mean is that as the years went by, Americans got more information broadcasted, beamed, or streamed their way. Thus, the channel options available to users grew at an incredible rate.
 
@@ -141,59 +148,61 @@ Yet, this time bomb is never talked about. Most interestingly, not even when Tim
 
 ## Ignorance Is Not Bliss
 
-The series ends with Tim quitting Tool Time. A new producer had taken over and tried to cash in on the craze for gawdy reality television. Soon, the producer insists Tim start an electrical fire on purpose and so outraged over the toxification of his message of home improvements the Tool Man quits in frustration.
+The series ends with Tim quitting Tool Time. A new producer had taken over and tried to cash in on a craze for crude reality television. Soon, the producer insists Tim start an electrical fire on purpose. True to his message of home improvement the Tool Man quits instead.
 
 Now without a job, the Taylor's wonder what they will do for money.
 
 Tim thinks he can open a custom car shop with the practical minded Jill saying established businesses will be hard to dislodge in such a niche market. Jill has a job offer but its out of town and for less money.
 
-This moment of uncertainty is what internet streaming was technological evolution Tim talked so much about, was eventually going to put the Taylor's in.
+This moment of uncertainty is what internet streaming was eventually going to put the Taylor's in. And the Taylor's aren't ready.
 
-And the Taylor's aren't ready.
-
-Important to note, the family was never ridicules. They stayed in the same house since 1979, made more space in the basement and attic when needed to avoid "upgrading" to a bigger house. Tim built his hobby cars instead of buying them. Most important, Jill worked hard and graduated and was now a therapist with job offers. 
+Important to note, the family was never ridicules. The job did a great job of showing a realistic middle-class family. They stayed in the same house since 1979, made more space in the basement and attic when needed to avoid "upgrading" to a bigger house. Tim built his hobby cars instead of buying them. Most important, Jill worked hard and was now a therapist with job offers. 
 
 The point is its not like the family squandered their good fortune, bought a Bentley and vacationed in Bora Bora instead of Michigan's scenic north peninsula.
 
-Yet still, they weren't ready. In a small piece the self-awareness would have given the Taylor's more reason to do all the smart financial advice everyone should do in case of surprises such as sickness, recessions, or wars.
+Yet still, they weren't ready. Like anyone they should have been more prepared with more savings and more second source of incomes in case of surprises such as sickness, recessions, or job losses.
 
-But the problems run deeper.
+But the problems run deeper because America didn't act like the Taylor's. It was far worse.
 
-America didn't act like the Taylor's. It was far worse.
-
-From 1960s to 2000s, the average size of the American family went down while the size of houses went up. In 1960, there was 1.43 people under the age of 18 living in the household. In 1975, it was 1.13, and in 2023, the number was 0.85.
+Here are the trends. First off, the average size of the American family went down. In 1960, there was 1.43 people under the age of 18 living in the household. In 1975, it was 1.13, and in 2023, the number was 0.85.
 
 Meanwhile, houses got bigger. In 1979, when the Taylor's bough their home, the average square foot of a new USA house was about 1700. In 2000, when they left their home and decided to go to Indiana for Jill's job, the average size was 2,200. Today the number is around 2,700.
 
-That means the square foot person went from around 580 to 1050. Here's a graph to showcase it all.
+That means the Americans were paying 580 to 1050 square foot person. Here's a graph to showcase it all.
 
 <!-- AEIdeas -->
 
-And now there's a cost of living crisis. With home affordability being a generational problem. This study uses the median multiple, a price-to-income ratio that divides the median house price by the median household income. As late as about 1990, national price-to-income ratios were “affordable,” as houses cost 3.0 times the amount of household income or less in Australia, Canada, Ireland, New Zealand, the United Kingdom, and the United States. Now the number is double or triple that metric because personal income rose only a partial amount of that increase.
+And wages did not grow, so there's a cost of living crisis. With home affordability being the biggest culprit. This study uses a price-to-income ratio that divides the median house price by the median household income. As late as about 1990, national price-to-income ratios were “affordable,” as houses cost 3.0 times the amount of household income in the United States. Now the number is double or triple that metric because personal income rose only a partial amount of that increase.
 
 Here's the rise in incomes compared to the rise in home prices.
 
 <!-- graphic-->
 
-Public policies wonks, ideologues, and many others will have a host of policies, platforms, and things to blame. Perhaps green belts restrict land too much, or investment banks buy up too much rental properties, or there is too much, or too little, immigration allowed.
+Public policies wonks, ideologues, and many others will have a host of policies, platforms, and people to blame. Perhaps green belts restrict land too much, or investment banks buy up too much rental properties, or there is too much, or too little, immigration allowed.
 
-The real answer of a "biologist for humans" is yet further behind the scenes. Like Tim and family who never ask once he quit, "what if I just produce my own content?" Jill, he, the tech minded kids who even own their own cameras and computers and make videos, never think if could happen.
+Yet, the problem is worldwide. Australia, Canada, Ireland, New Zealand, the United Kingdom, and many other countries share Americans cost of living crisis. Each has tried multiple of ideologies, policies, and there are lessons and ideas to be shared, but surely such a universal problem suggests a deeper cause.
 
-And yet it happened.
+The real answer is we need a "biologist for humans" to understand the newfound technological ecosystem we find ourselves in.
 
-Because each, like regional cable TV shows, is underpinned by an era of technological development that follows rules of evolution whether we realize it or not. Its a cycle that lives according to its own timetables. And our identity, ideologues, and economics does not acknowledge it. To showcase our misunderstanding we can forget the Taylor's not realizing internet streaming is coming. Here's an quote from economist Paul Krugman made in 1998.
+We each are, like a regional cable TV show host, dependant on an era of technological development. It follows the rules of evolution with a lifecycle is independent from our own. Although we do things like buy huge houses to house less people while making less money and wonder why our lives are so expensive, evolution takes notice. 
+
+Never mind pointing out the Taylor's not realizing internet streaming is coming. History has far worse in mind for a people who refuse to evolve their way of life. Our identity, ideologues, and economics does not acknowledge it.
+
+To showcase our erroneous mindset, here's an quote from economist Paul Krugman made in 1998.
 
 > "The growth of the Internet will slow drastically, as the flaw in "Metcalfe's law"—which states that the number of potential connections in a network is proportional to the square of the number of participants—becomes apparent: most people have nothing to say to each other! By 2005 or so, it will become clear that the Internet's impact on the economy has been no greater than the fax machine's."
 
 ## The Taylor Hunted and Gathered, they needed to Plant and Wait
 
-Krugman has written countless works, both in newspaper Op-Eds, popular books, and academic papers. He even won a Nobel Price. It's okay one of his many predictions are wrong. The problem is not a wrong prediction, the problem is that this level of inaccuracy should not be possible.
+Krugman has written countless works, both in newspaper Op-Eds, popular books, and academic papers. He even won a Nobel Price. It's okay one of his many predictions was wrong. The problem is not a wrong prediction, the problem is that this perspective is completely wrong.
 
-Heck, talk to any insurance claims adjuster and you'll get endless stories about how much people need to know how to fix a flat tire or repair a broken toilet. People have to say to each other, not only because we like gossip or sports scores, but because we are each now property managers over houses, cars, electronics, health and so much more in our complex technological ecosystem.
+Heck, talk to any insurance claims adjuster and you'll get endless stories about how much people need to speak. Not because we like gossip or sports scores, but because we are each now property managers over houses, cars, electronics, health and so much more in our complex technological ecosystem.
 
-So what should the Taylor's do? Be prepared for job losses, but more importantly, seek to understand the future and master the trends that are taking us there.
+So what should the Taylor's do? Be prepared for surprises including job losses. When technology does transform your job, do not think ideological purity (that has captured many Americans since digital technology arrived in the 1970s) will save you.
 
-At this time in history, technological evolution is the force of nature that determines our futures. Doing otherwise is like predicting the location of planets without knowing what gravity is. And we still try. Today, as we stopped....
+Like any source of knowledge, the Taylors' should seek to understand the future and master the trends that are taking us there.
+
+At this time in history, technological evolution is the force of nature that determines our futures. Doing otherwise is like predicting the location of planets without knowing what gravity is.
 
 You might have heard about hunter-gatherers. If you've ever gotten lost in a forest you may have experienced a hint of our ancestors' lifestyle. 
 
@@ -211,15 +220,22 @@ A biologist for humans will help do for our future, what the agriculture transit
 
 Because the same principles apply. Speciation, natural and artificial selection, co-evolution and many more forces are at play under our noses. To learn more about how to plant and cultivate the new technological ecosystems to everyone's benefit, please read Techvolution.
 
-===========
-
-- Craftsman/Binford out sourced
-- Sears gone
-- Harry's Hardware gone.
+## Sources
 
 
+<!-- Average number of family members 1960 - 2023-->
+US Census Bureau; Bureau of Labor Statistics. (2023). Average number of people per family in the United States from 1960 to 2023. https://www.statista.com/statistics/183657/average-size-of-a-family-in-the-us/
 
-"The growth of the Internet will slow drastically, as the flaw in "Metcalfe's law"—which states that the number of potential connections in a network is proportional to the square of the number of participants—becomes apparent: most people have nothing to say to each other! By 2005 or so, it will become clear that the Internet's impact on the economy has been no greater than the fax machine's."
+<!-- Kids per US family -->
+Average number of people under the age of 18 per family household in the United States from 1960 to 2023
+US Census Bureau; Bureau of Labor Statistics
+https://www2.census.gov/programs-surveys/demo/tables/families/time-series/households/hh6.xls
+United States; US Census Bureau; Bureau of Labor Statistics; 1960 to 2023; Family households
+
+<!-- Avg. size of the US home -->
+Mark J. Perry. (2016 June 05). New US Homes Today Are 1,000 Square Feet Larger Than in 1973 and Living Space per Person Has Nearly Doubled. https://www.aei.org/carpe-diem/new-us-homes-today-are-1000-square-feet-larger-than-in-1973-and-living-space-per-person-has-nearly-doubled/
+
+
 
 ===
 
