@@ -247,27 +247,27 @@ Hierro	Hierro Giant Lizard	Evolved in isolation with distinct traits
 
 ### Discovery
 
-On August 24th, year 79, Mount Vesuvius erupted. Spreading cloud ashes miles into the air, the volcano blanketed the surrounding area like snow after a fierce Siberian blizzard. Thereafter Pompeii and Herculaneum were frozen in a single, catastrophic moment—a snapshot of Roman life preserved under feet of ash. Everything from bread in ovens to human expressions of terror, from delicate frescoes to fragile scrolls.
+On August 24th, year 79, Mount Vesuvius erupted. The volcano pushed ash clouds miles into the sky. Soon ash was falling like snow during a fierce Siberian blizzard. Thereafter, Italian towns Pompeii and Herculaneum were frozen in a single, catastrophic moment. A snapshot of Roman life was preserved under seemingly endless ash—everything from bread in ovens to human expressions of terror, from artistic frescoes to fragile scrolls.
 
-Yet this moment of destruction was just another moment of profound loss. Despite the many the ancient ruins we like to visit, most of everything from the ancient world is gone. For example, historians estimate that over 99% of ancient literature was lost to time—burned, destroyed, disintegrated, or simply forgotten. Entire libraries, generations of human knowledge, vanished like the smoke of Mount Vesuvius. The Library of Alexandria, with its hundreds of thousands of scrolls, would become the most famous casualty of this sorrowful intellectual erasure.
+Yet this moment of destruction was just another moment of profound loss. Even with all the many the ruins we can visit today, most of everything from the ancient world is gone. For example, historians estimate that over 99% of ancient literature was lost to time—burned, destroyed, disintegrated, or simply forgotten. Entire libraries, generations of human knowledge, vanished like the smoke of Mount Vesuvius. The Library of Alexandria, with its hundreds of thousands of scrolls, would become the most famous casualty of this sorrowful intellectual erasure.
 
-But some fragments survived in rare islands of time, like Pompeii and Herculaneum.
+But some fragments survived, often in garbage sites, old churches, or disaster sites like Pompeii and Herculaneum.
 
-Covered by ash, the scrolls there were far too fragile to ever be opened. So we did not open them. They were collected and it was left to our imaginations to dream of the knowledge that was locked inside.
+Covered by ash, the scrolls from Pompeii and Herculaneum were far too fragile to ever be opened. So we did not open them. They were collected and stored. It was left to our imaginations to dream of the knowledge that was locked inside.
 
-Until, like the microscope let us see unknown tiny worlds, modern CT scanners could finally see inside the ash scrolls and Machine learning algorithms could decode the information the scans uncovered.
+Until, like the microscope let us see unknown tiny worlds, modern CT scanners could finally see inside the ash scrolls and Machine learning algorithms could decode the information the scans uncovered. Now, after nearly 2000 years, we could finally read this time capsule of information.
 
-Even so, Dr. Elena Stavros hadn't expected much when she first ran the fragment through the advanced CT scan. Another piece of ancient debris, another potential dead end. But something in the algorithmic reconstruction soon dazzled her eye.
+Even so, Dr. Elena Stavros hadn't expected much when she first ran the fragment through the advanced CT scan. Another piece of ancient debris, another dead end. But something in the algorithmic reconstruction soon dazzled her eye.
 
 Lines of text emerged, not as flat images, but as three-dimensional reconstructions. The machine learning model peeled back layers of carbon and time, revealing Greek characters that seemed to shimmer on her computer monitor.
 
 "It's not just text," she whispered to her research team. "It's a new dialogue!"
 
-The manuscript was from Magos of Samos—a name barely mentioned in historical records. We only know he, or she, was a student of Aristotle whose work had been lost to time. But here, preserved in the volcanic tomb of Herculaneum, was a text fragment.
+The manuscript was from Magos of Samos—a name barely mentioned in historical records. We only know he, or she, was a student of Aristotle whose work had been lost to time. But here, preserved in the volcanic tomb of Pompeii was a text fragment.
 
 A text fragment written not just to the future, but about the future.
 
-The AI had done more than decode text. It had resurrected a voice that had been waiting nearly two millennia to be heard. Magos' words, preserved by volcanic fire, decoded by machine intelligence, were a lost story apparently of Socrates learning an important point that was remarkably prescient.
+The AI had done more than decode text. It had resurrected a voice that had been waiting nearly two millennia to be heard. Magos' words, preserved by volcanic fire, decoded by machine intelligence, were a lost story of Socrates learning an important point that was remarkably prescient.
 
 Only fragments have been uncovered thus far, so the author filled in some gaps. It proved to be the best foreword the author and reader could ask for.
 
@@ -429,15 +429,15 @@ Socrates smiled, holding his weathered spear. "When I return we will get started
 
 ### Explainer
 
-Sadly, there was no Magos of Samos. There are plenty of scrolls found at Pompeii and Herculaneum. Scientists are just now starting to use CT scanners and machine learning to unlock their contents. There is no lost dialogues yet found.
+Sadly, there was no Magos of Samos. There are plenty of scrolls found at Pompeii and Herculaneum. Scientists are just now starting to use CT scanners and machine learning to unlock their contents. But there are no lost ancient works yet found.
 
 Alas, the scene you just read is a fictional thought experiment—a glimpse into an alternate history where two of humanity's most transformative intellectual revolutions occurred simultaneously.
 
 I used it to teach a vital lesson.
 
-First however, we must realize "everything starts with Socrates" (470–399 BC). He was, as the Roman philosopher Cicero observed, the first to "call philosophy down from heaven, place it in cities and homes, and compel it to inquire about life and morals as well as good things and bad." Before him, the common practice was to let professional debaters, known as Sophists, battle over a question. Everyone assumed justice had no universal definition and was merely a matter of law, custom, or power. Sophists used rhetoric to convince people that their side served the ruler's interests and was therefore just.
+First however, we must realize why Socrates (470–399 BC) is so important. He was, as the Roman philosopher Cicero observed, the first to "call philosophy down from heaven, place it in cities and homes, and compel it to inquire about life and morals as well as good things and bad." Before him, the common practice was to let professional debaters, known as Sophists, battle over a question. Everyone assumed justice had no universal definition and was merely a matter of law, custom, or power. Sophists used rhetoric to convince people that their side served the ruler's interests and was therefore just.
 
-Socrates challenged this approach. Instead of accepting that justice was relative to human laws or customs, he asked things like “What is justice?” or "What is ethics".
+Socrates challenged this mindset. Instead of accepting that justice was relative to human laws or customs, he asked things like “What is justice?” or "What is ethics".
 
 Such deceptively simple questions were in line with ancient Greek natural philosophers such as Thales, Anaximander, and Pythagoras. These thinkers discovered natural laws of geometry, mathematics, and observation that helped craftsmen and engineers to calculate volume, weight, and angles more precisely, thereby empowering Greek civilization to build increasingly sophisticated sewers, ships, buildings, and countless other wonders.
 
@@ -465,9 +465,9 @@ Thus, Greeks might have naturally accepted technological evolution as the guidin
 
 What the Greeks lacked was an understanding of evolution as a universal law.
 
-This led them, and thus us, down an inaccurate trail, the same way not knowing universal gravitation led Plato's student Aristotle (384–322 BC) to create an Earth-centered universe that guided humanity down the wrong path for centuries
+This led them, and thus us, down an inaccurate trail, the same way not knowing universal gravitation led Plato's student Aristotle (384–322 BC) to create an Earth-centered universe that guided humanity down the wrong path for centuries.
 
-Interestingly, Aristarchus of Samos (310-230 BC) advocated for a Sun-centered universal, he even calculated the relative sizes of the Sun, Moon, and Earth. Still, Aristotle's ideas won out. After rediscovering an old scroll of Aristarchus, Nicholas Copernicus would later re-establish the Sun-centered model of astronomy in the early 1500s. With this in mind, it's not unrealistic that an ancient Darwin could have existed.
+Interestingly, Aristarchus of Samos (310-230 BC) advocated for a Sun-centered universal. He even calculated the relative sizes of the Sun, Moon, and Earth. Still, Aristotle's ideas won out and became orthodoxy. After rediscovering an old scroll of Aristarchus, Nicholas Copernicus would later re-establish the Sun-centered model of astronomy in the early 1500s. With this in mind, it's not impossible that an ancient Darwin could have existed.
 
 If early thinkers like Socrates, Plato, Aristotle had grasped the principle that humans and their tools co-evolve in response to environmental challenges—how might they have approached questions of ethics, politics, and justice?
 
@@ -475,9 +475,9 @@ Imagine the changes to our history, filled with empires that rise and fall, raci
 
 Perhaps these recurring patterns aren't moral failures or inevitable human flaws, but symptoms of civilizations struggling to adapt to technological changes we don't yet understand. Instead of asking "How do we eliminate war?" or "How do we achieve perfect justice?" an evolutionary Socrates would ask: "What technological pressures create these conflicts?", "How do societies smoothly adapt to new tools and capabilities?", and perhaps most importantly, "How do we teach our kids born with biological instincts to best live in a technological world?"
 
-This reframing doesn't excuse human suffering or injustice, but it offers a different path forward. Rather than assuming our future depends on "bringing down from heaven" superior laws, policies, or moral education, we might focus on understanding how technological ecosystems can evolve toward greater human flourishing—just as Darwin's finches evolved better beaks for their particular island environment, be it rich in insects, nuts, or seeds.
+This reframing doesn't excuse human suffering or injustice, but it offers a different path forward. Rather than assuming our future depends on "bringing down from heaven" superior laws, policies, or moral education, we might focus on understanding how technological ecosystems can evolve toward greater human flourishing—just as Darwin's finches evolved better beaks for their particular island environment rich in either insects, nuts, or seeds.
 
-The conversation between Socrates and our fictional Darwin/Zographos represents the birth of what we might call "evolutionary philosophy", "biology for humans", or "techvolution"—a framework for understanding human societies as technological ecosystems that adapt, evolve, and thrive through the same principles that govern all life.
+The interaction between Socrates and our fictional Darwin/Zographos represents the birth of what we might call "evolutionary philosophy", "biology for humans", or "techvolution"—a framework for understanding human societies as technological ecosystems that adapt, evolve, and thrive through the same principles that govern all life.
 
 Yet, this story did not happen.
 
@@ -680,37 +680,51 @@ Withholding technological tools, such as the transformation of software from pro
 
 ### Opening Our Evolutionary Potential
 
-Fortunately, one group is emerging from the technological landscape: a diverse community of makers, programmers, and designers in the open-source community. They embrace the constant effort and frequent failures that evolution demands. They are too focused on debugging, overcoming errors, and welcoming quality contributions to concern themselves with a person's genotype or phenotype.
+Fortunately, one group is emerging from the technological landscape: a diverse community of makers, programmers, and designers in the open-source community. They embrace the constant effort and frequent failures that evolution demands. They are too focused on debugging, correcting errors, and welcoming quality contributions to concern themselves with a person's genotype or phenotype.
 
 Open-source contributors are examples for us all. They evolve solutions to real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software underpinning the internet. These technologies are worth billions and provided free for anyone to use and adapt. Inspired by their character, this book is open-source distributed via Writebook, another open-source software program based on Ruby on Rails, an amazing technology that powers Basecamp, GitHub, Shopify, and thousands of other products.
 
-However, the open-source community is not perfect. It can be chronically under funded and projects often fragment. Regardless, the community keeps innovating. That's why the future of the Internet Age, as outlined in the "Bumblebee Economics", does not require marches or a revolution. The seeds of this future are already in your hands. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
+However, the open-source community is not perfect. It can be chronically under funded and projects often fragment to their own detriment. Regardless, the community keeps innovating. That's why the future of the Internet Age, as outlined in the "Bumblebee Economics", does not require marches or a revolution. Because of the open-source community, if you hold a smartphone or laptop, the seeds of this future are already in your hands. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
 
-With this new paradigm, you can join the open-source community to develop and disseminate tools that identify the "black moths" in countless niches. Issues like increasing debt, declining health, rising living costs, heightened storm activity, and many others cannot be resolved until the individuals experiencing these physical pains can select the tools to solve them. Open-source technologies are poised to provide customized solutions that are readily available to everyone, "black camouflage" for all, in a manner of speaking.
+With this new paradigm, you can join the open-source community to develop and disseminate tools that identify the "black moths" in countless niches. Issues like increasing debt, declining health, rising living costs, heightened storm activity, and many others cannot be resolved until the individuals experiencing these physical pains can select the tools to solve them in the million of unique niches around the world. Open-source technologies are poised to provide customized solutions that are readily available to everyone, "black camouflage" for all, in a manner of speaking.
 
-And we are naturally equipped for this role. Researching this book joyously taught me how to look past ideological identities and connect with the individuals within. Our  innate drive to learn and evolve shines brightly when we define ourselves by the future. So many times I would interview people, most would quickly share their passions for sewing custom clothes, optimizing 3D printers, or creating efficient home gardens. A technological identity is already within us, right beside the music, heroes, and social groups we cherish. These identities need not change as we realize our dreams through technological progress.
+And we are naturally equipped for this role. Researching this book joyously taught me how to look past ideological identities and connect with the individuals within. Our innate drive to learn and evolve shines brightly when we define ourselves by the future. In the interviews I did, most people would quickly share their passions for sewing custom clothes, optimizing 3D printers, or creating efficient home gardens. A technological identity is already within us, right beside the music, heroes, and social groups we cherish. None of our current identities need not change as we realize our dreams through technological progress.
 
 However, until humanity intentionally accelerates the technological evolution we depend on, we remain like raccoons suffering through seemingly random restaurant closures and secured waste bins. Our list of problems includes job losses, business failures, psychological disorders, political animosity, civil wars, revolutions, and the cycles of imperial rise and fall. We mistakenly attribute these events to ideology when in reality, they stem from the unnoticed co-evolution, variation, and speciation of technological ecosystems, which occur continuously around us, indifferent to human-constructed identities, borders, and beliefs.
 
-Only a new identity will allow us to glimpse behind the curtain of evolution and learn to harness its powers, as we have already done in physics, chemistry, and medicine. The next step toward self-realization is to ask if we must cooperate like trees and squirrels do—and then, who are we competing against in the game of life?
+Only a new identity will allow us to glimpse behind the curtain of evolution and learn to harness its powers, as we have already done in physics, chemistry, and medicine. The next step toward self-realization is to ask if we must cooperate like trees and squirrels do—then, who are we competing against in the game of life?
 
 ## Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
 
 ### Introduction
 
-If we humans are to truly understand our place in the story of life, we must go on a journey starting with life's beginning.
+Consciously adopting a new identity requires a lot of understanding. No trickery or persuasion is allowed. To become truly self-aware means we need genuine foundations.
 
-Techvolution challenges the dominant view that language and culture are what distinguish humans from other hominids. Instead, the book argues that our unparalleled ability to create and adapt tools has been the true driving force behind the evolutionary success or failure of human civilizations. Like our pre-science understanding of the cosmos, our ideologies were engrossing stories, and how made sense of our politics. Meanwhile, how well our technology advancement followed the rules of natural selection was deciding our fate. This book is about revealing what evolution is selecting when looking at humanity.
+Despite our tendency to combat, compete, against each other, life is not a competition. Nor is it truly the survival of the fittest. That perspective is from the vantage point of being a single lifeform. If life was about its creatures competing against each other, that would mean life is competing against itself, and what sense would that make?
 
-To improve our progress, Techvolution grounds our political, economic, and social structures in the fundamental principles of innovation, adaptation, and co-evolution that govern technological change. This paradigm shift is key to shaping a more sustainable future.
+There are millions of species today, if our time on this planet was about competing against each other, why are there so many? Shouldn't there be less species as they each try to oust the others, like a game of king of the hill?
 
-Changing a paragidm is a lot of work. As we embark on our exploration of Techvolution, it is essential that we first understand the gameboard in which we play. As science has taught us, there are fundamental forces and laws in our world and universe. For just as a game of chess is played upon a board with predetermined rules, the evolution of life on Earth has unfolded within the constraints of the physical and chemical laws that govern our universe.
+There are so many species because life diversifies, because life is a team sport. No squirrel can grow its own nuts, like no tree can move to plant itself in so many different places. Lifeforms certainly compete to be alive, but they do not fight against each other.
 
-These laws of nature, forged in the crucible of the Big Bang and refined over billions of years, have served as the immutable gameboard upon which the drama of life has played out. From the gravitational pull that coalesced the primordial dust into planets, to the chemical reactions that gave rise to the first organic molecules, the physical and chemical underpinnings of our world have been the unyielding framework upon which all subsequent biological and technological development has been built.
+No species thrives because it defeats all others. Everyone must collaborate inside an ecosystem to harness the sources needed to pass on everyone's genes.
 
-It is only by grasping the significance of this foundational "gameboard" that we can truly appreciate the remarkable journey of life's evolution, and the ways in which humanity has sought to harness and manipulate these natural laws to our own ends. For just as a chess master must intimately understand the rules and mechanics of the game, so too must we delve into the depths of physics and chemistry if we are to unravel the mysteries of Techvolution.
+Ultimately win the game against the environment.
 
-In the pages that follow, we will lay the groundwork for comprehending the remarkable story of how life, and ultimately human civilization, has emerged and evolved within the constraints of the natural world.
+And we, who depend not to survive with what we were born with inside a biological ecosystem, need not compete against each other. Rather we need to hardness the technological ecosystem.
+
+The environment chooses winners. The creatures that can collect the most resources and procreate the most often live on. Thus, understanding our technological identity requires understanding what the environment is. For the lakes, rivers, mountains and sunshine we experience everyday are what we see. But these are themselves subject to laws of nature.
+
+On a lifeless planet, the environment are beautiful, if unappreciated, vistas. Once life arrives, the environment becomes a game board.
+
+And anyone who can survive lives on.
+
+As we embark on our exploration of Techvolution, it is essential that we first understand the game board in which we play. As science has taught us, there are fundamental forces and laws in our world and universe. For just as a game of chess is played upon a board with predetermined rules, the evolution of life on Earth has unfolded within the constraints of the natural laws that govern our universe.
+
+These laws of nature, from the gravitational pull of physics and to the combustion of chemistry, from the rise of mountains of geology to the growth of cells of biology, these laws underpin our world have been the unyielding framework upon which all subsequent biological and technological development has been built.
+
+It is only by grasping the significance of this foundational "game board" that we can truly appreciate the remarkable journey of life's evolution, and the ways in which humanity has sought to harness and manipulate these natural laws to our own ends. For just as a chess master must intimately understand the rules and mechanics of the game, so too must we delve into the depths of physics and chemistry if we are to unravel the mysteries of Techvolution.
+
+In the pages that follow, we will lay the groundwork for comprehending the remarkable story of how life, and ultimately human civilization, has emerged and evolved within the constraints of the natural world. It's important to note the process of understanding has its own story. First we understood the world with our senses, brains, and perhaps simple tools. Slowly as tools improved, we transitioned from mysticism, to attempts of understanding, then to real understanding with scientific instruments and the scientific method.
 
 So let us begin our journey by peering back through the mists of time, to a world still in its infancy. For it is here, in the crucible of this ancient Earth, that the seeds of our existence started.
 

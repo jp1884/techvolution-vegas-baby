@@ -130,7 +130,9 @@ Predicting streaming’s rise wasn’t easy in the early 1990s. The internet was
 
 Even so, the signs were there.
 
-Computing power kept doubling every two years. Telecommunications speeds were climbing fast. Cable had already overtaken broadcast within a generation. Anyone paying attention to how technology evolves could see that faster transmission would eventually make video-on-demand possible, and once that happened, streaming would beat scheduled cable programming. 
+Just look at how silent movie stars were challenged, and often replaced, by the introduction of "talkies". Classic movie _Singing In The Rain_ shows this transition very well. Classic song "Video Killed The Radio Star" shows how technological progress again replaced stars from one medium with another.
+
+And here was computing power doubling every two years. Telecommunications speeds were climbing fast in the 1990s. Cable had already overtaken broadcast within a generation. Anyone paying attention to how technology evolves could see that faster transmission would eventually make video-on-demand possible, and once that happened, streaming would beat scheduled cable programming as talking movies, video had done already. 
 
 No one could predict the exact companies or tools, only the direction. The Taylors didn’t need to foresee Netflix. They only needed to understand that the tech behind Tim’s paycheck belonged to a shifting ecosystem rather than a fixed landscape.
 
