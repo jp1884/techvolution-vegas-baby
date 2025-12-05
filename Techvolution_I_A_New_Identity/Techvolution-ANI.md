@@ -698,31 +698,35 @@ Only a new identity will allow us to glimpse behind the curtain of evolution and
 
 ### Introduction
 
-Consciously adopting a new identity requires a lot of understanding. No trickery or persuasion is allowed. To become truly self-aware means we need genuine foundations.
+What makes evolution such a persistent and universal process? Why has it been, not only around since the beginning of complex life, but the driver of life into billions of different species over billions of years.
 
-Despite our tendency to combat, compete, against each other, life is not a competition. Nor is it truly the survival of the fittest. That perspective is from the vantage point of being a single lifeform. If life was about its creatures competing against each other, that would mean life is competing against itself, and what sense would that make?
+Answering this question means understanding why lifeforms aren't fundamentally at odds against each other. There is some conflict within species and a few others. Wolves attacking a bear, or hunting a deer is of course a daily occurrence. But for the other thousands of other nearby creatures, from worms to oak trees the wolves are hardly at odds with.
 
-There are millions of species today, if our time on this planet was about competing against each other, why are there so many? Shouldn't there be less species as they each try to oust the others, like a game of king of the hill?
+By far, most creatures do not even knowingly interact, let alone compete.
 
-There are so many species because life diversifies, because life is a team sport. No squirrel can grow its own nuts, like no tree can move to plant itself in so many different places. Lifeforms certainly compete to be alive, but they do not fight against each other.
+The reason is because no lifeform can survive on its own. It takes a team of species to keep life going. That's why life forms inside ecosystems. Inside they are assigned different roles, each with a strict job. Only when the ecosystem is working properly, can individuals thrive.
 
-No species thrives because it defeats all others. Everyone must collaborate inside an ecosystem to harness the sources needed to pass on everyone's genes.
+An ecosystem is a fascinating interconnected system where living organisms interact with each other and their surrounding environment. Imagine it like a complex web of life, where every organism plays a crucial role. Producers, typically green plants and algae, create their own food through photosynthesis and provide energy for the entire system.
 
-Ultimately win the game against the environment.
+These plants are then eaten by herbivores like deer and rabbits, which help spread nuts and seeds further and faster whose consumption is in turn kept in check by carnivores such as wolves and eagles. Decomposers like bacteria and fungi break down dead matter, recycling nutrients back into the system. This constant cycle of energy transfer and nutrient recycling keeps the ecosystem balanced and functioning.
 
-And we, who depend not to survive with what we were born with inside a biological ecosystem, need not compete against each other. Rather we need to hardness the technological ecosystem.
+Balance is essential. For example, when wolves were removed from Yellowstone Park, there was a marked increase in deer. Before too long, the deer exploded in numbers, and soon began to mass near riverbanks. Soon the river banks were nearly barren because plants could not grow in the compacted soil. Once wolves were re-introduced, deer numbers were lowered, river soil wasn't so compact, and plants thrived.
 
-The environment chooses winners. The creatures that can collect the most resources and procreate the most often live on. Thus, understanding our technological identity requires understanding what the environment is. For the lakes, rivers, mountains and sunshine we experience everyday are what we see. But these are themselves subject to laws of nature.
+This example shows how ecosystem doesn't just include living things. It also encompasses non-living elements like sunlight, water, soil, and climate. These make up a sort of game board for lifeforms to exist, grow, live, and die in. 
 
-On a lifeless planet, the environment are beautiful, if unappreciated, vistas. Once life arrives, the environment becomes a game board.
+With all this in mind, why must creatures struggle?
 
-And anyone who can survive lives on.
+Because there are ever present forces out to get us. And these are the forces life, via its creatures inside ecosystems, always fight against. Evolution is a timeless and constant process, because the laws physics, chemistry, geology, and biology are too. Evidence by how rare life is in the Universe, these forces do not make it easy to survive.
 
-As we embark on our exploration of Techvolution, it is essential that we first understand the game board in which we play. As science has taught us, there are fundamental forces and laws in our world and universe. For just as a game of chess is played upon a board with predetermined rules, the evolution of life on Earth has unfolded within the constraints of the natural laws that govern our universe.
+So, although a rose has flowers to attract pollinators and thorns to protect against being eaten, overwhelmingly its features, from the green chlorophyll that enables photosynthesis, to the rigid cells that overcome gravitational challenges, are direct responses to the physical and environmental constraints acting upon it as determined by the laws of nature.
 
-These laws of nature, from the gravitational pull of physics and to the combustion of chemistry, from the rise of mountains of geology to the growth of cells of biology, these laws underpin our world have been the unyielding framework upon which all subsequent biological and technological development has been built.
+As we embark on our exploration of Techvolution, it is essential that we first understand the forces out to kill us with selection pressures on the game board in which we play. Cold, hunger, cancer threaten all creatures and kill far more then anything else. Yet these laws that underpin our world have been the unyielding framework upon which all subsequent biological and technological development must use to survive.
 
-It is only by grasping the significance of this foundational "game board" that we can truly appreciate the remarkable journey of life's evolution, and the ways in which humanity has sought to harness and manipulate these natural laws to our own ends. For just as a chess master must intimately understand the rules and mechanics of the game, so too must we delve into the depths of physics and chemistry if we are to unravel the mysteries of Techvolution.
+It is only by grasping the significance of life's struggle to use these very laws to survive against the dangers they create, can we truly appreciate the remarkable journey of life's evolution, and the ways in which humanity has sought to harness and manipulate these natural laws to our own ends. These universal and natural laws are effectively the rules of the game.
+
+These forces are the vastly most common way creatures are selected. Blubber, fur, eyes, ears, all develop to help us sense them and navigate the environment defined by their rules.
+
+We must adapt using them. We should however, know them. For just as a chess master must intimately understand the rules and mechanics of the game, so too must we delve into the depths of physics and chemistry if we are to unravel the mysteries of Techvolution.
 
 In the pages that follow, we will lay the groundwork for comprehending the remarkable story of how life, and ultimately human civilization, has emerged and evolved within the constraints of the natural world. It's important to note the process of understanding has its own story. First we understood the world with our senses, brains, and perhaps simple tools. Slowly as tools improved, we transitioned from mysticism, to attempts of understanding, then to real understanding with scientific instruments and the scientific method.
 
