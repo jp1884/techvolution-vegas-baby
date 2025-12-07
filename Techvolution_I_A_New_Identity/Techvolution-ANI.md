@@ -698,47 +698,67 @@ Only a new identity will allow us to glimpse behind the curtain of evolution and
 
 ### Introduction
 
-What makes evolution such a persistent and universal process? Why has it been, not only around since the beginning of complex life, but the driver of life into billions of different species over billions of years.
+What makes evolution such a persistent and universal process? Why has it been, not only around since the beginning of complex life, but the driver of billions of different species for billions of years.
 
-Answering this question means understanding why lifeforms aren't fundamentally at odds against each other. There is some conflict within species and a few others. Wolves attacking a bear, or hunting a deer is of course a daily occurrence. But for the other thousands of other nearby creatures, from worms to oak trees the wolves are hardly at odds with.
+Answering this question means understanding why lifeforms aren't fundamentally at odds against each other. There is of course some conflict. Animals such as wolves attacking a bear, or hunting a deer is a daily—and very—visible occurrence. But most creatures, from worms to oak trees, the wolves are hardly at odds with.
 
 By far, most creatures do not even knowingly interact, let alone compete.
 
-The reason is because no lifeform can survive on its own. It takes a team of species to keep life going. That's why life forms inside ecosystems. Inside they are assigned different roles, each with a strict job. Only when the ecosystem is working properly, can individuals thrive.
+The reason is it takes a team of species to keep life going. No lifeform can survive on its own. That's why life forms ecosystems. Inside creatures are assigned different roles, each with a strict job. Only when the ecosystem is working properly, can individuals thrive.
 
-An ecosystem is a fascinating interconnected system where living organisms interact with each other and their surrounding environment. Imagine it like a complex web of life, where every organism plays a crucial role. Producers, typically green plants and algae, create their own food through photosynthesis and provide energy for the entire system.
+An ecosystem is a fascinating interdependent system where living organisms work with each other and their surrounding environment. Imagine it like a complex web of life, where every organism plays a crucial role. Producers, typically green plants and algae, create their own food through photosynthesis and provide energy for the entire system.
 
-These plants are then eaten by herbivores like deer and rabbits, which help spread nuts and seeds further and faster whose consumption is in turn kept in check by carnivores such as wolves and eagles. Decomposers like bacteria and fungi break down dead matter, recycling nutrients back into the system. This constant cycle of energy transfer and nutrient recycling keeps the ecosystem balanced and functioning.
+Herbivores like deer and rabbits eat these plants, simultaneously helping to spread seeds. Carnivores like wolves and eagles keep herbivore populations in check. When creatures die, decomposers like bacteria and fungi break down dead matter and their nutrients, fertilizing the ground to enable the next generation to continue life's evolution.
 
-Balance is essential. For example, when wolves were removed from Yellowstone Park, there was a marked increase in deer. Before too long, the deer exploded in numbers, and soon began to mass near riverbanks. Soon the river banks were nearly barren because plants could not grow in the compacted soil. Once wolves were re-introduced, deer numbers were lowered, river soil wasn't so compact, and plants thrived.
+This circle of life is a constant cycle of energy transfer and nutrient recycling keeps the ecosystem balanced and functioning.
 
-This example shows how ecosystem doesn't just include living things. It also encompasses non-living elements like sunlight, water, soil, and climate. These make up a sort of game board for lifeforms to exist, grow, live, and die in. 
+Balance is essential. For example, when wolves were removed from Yellowstone Park, the deer soon exploded in numbers. As they massed near riverbanks, soil was compacted and plants could no longer grow turning once vibrant rivers barren. When wolves were re-introduced, deer numbers were lowered, river soil wasn't so compact, and plants thrived, and rivers returned to their natural glory.
 
-With all this in mind, why must creatures struggle?
+And thus, the ecosystem was returned to sustainable balance, and life's evolution continued.
 
-Because there are ever present forces out to get us. And these are the forces life, via its creatures inside ecosystems, always fight against. Evolution is a timeless and constant process, because the laws physics, chemistry, geology, and biology are too. Evidence by how rare life is in the Universe, these forces do not make it easy to survive.
+Ecosystems don't only include living things. It also encompasses non-living elements like sunlight, water, soil, and climate. Each of these change with the seasons. This varied, and changing, arena of available energy, food, temperature, and resources makes up a sort of game board for lifeforms to exist, grow, live, and die in. 
 
-So, although a rose has flowers to attract pollinators and thorns to protect against being eaten, overwhelmingly its features, from the green chlorophyll that enables photosynthesis, to the rigid cells that overcome gravitational challenges, are direct responses to the physical and environmental constraints acting upon it as determined by the laws of nature.
+And this game board is why must creatures struggle, sometimes against each other, but overwhelmingly because of something deeper.
 
-As we embark on our exploration of Techvolution, it is essential that we first understand the forces out to kill us with selection pressures on the game board in which we play. Cold, hunger, cancer threaten all creatures and kill far more then anything else. Yet these laws that underpin our world have been the unyielding framework upon which all subsequent biological and technological development must use to survive.
+Behind the scenes are the fundamental forces of nature. Life, through its creatures, constantly struggles against these forces. Evolution is a timeless and constant process, because the laws of physics, chemistry, and geology are too. Evidence by how rare life is in the Universe, these forces do not make it easy to survive.
 
-It is only by grasping the significance of life's struggle to use these very laws to survive against the dangers they create, can we truly appreciate the remarkable journey of life's evolution, and the ways in which humanity has sought to harness and manipulate these natural laws to our own ends. These universal and natural laws are effectively the rules of the game.
+So, although a rose has visible characteristics in response to other lifeforms, like flowers to attract pollinators and thorns to protect against being eaten, most of its features, from the green chlorophyll that enables photosynthesis, to the rigid cells that overcome gravitational challenges, are direct responses to the physical and environmental constraints acting upon it as determined by the laws of nature.
 
-These forces are the vastly most common way creatures are selected. Blubber, fur, eyes, ears, all develop to help us sense them and navigate the environment defined by their rules.
+These features, hidden inside our DNA, are what species share in common.
 
-We must adapt using them. We should however, know them. For just as a chess master must intimately understand the rules and mechanics of the game, so too must we delve into the depths of physics and chemistry if we are to unravel the mysteries of Techvolution.
+Seeing the hidden forces of nature, releases us from being members of the animal kingdom to philosophers of it. As we embark on our exploration of Techvolution, it is essential that we first understand the forces out to kill us with selection pressures on the game board in which we play are our main obstacles to prosperity.
+
+Lifeforms are overwhelmingly meant to cooperate inside ecosystems to use the forces of nature to prosper.
+
+Because cold, hunger, radiation threaten all creatures and kill far more than anything else. Yet these laws that make life so hard, are also the unyielding framework upon which all subsequent biological and technological development must use to survive.
+
+It is only by grasping the significance of life's struggle to use these very laws to survive against the dangers they create, can we truly appreciate the remarkable journey of life's evolution. These universal and natural laws are effectively the rules of the game of evolution.
+
+To evolve even further we must know them. As we largely do, as a chess grandmaster intimately understands the rules and mechanics of the game, humanity has delved into the depths of physics and chemistry to understand the evolution of biological life. 
+
+Now we must continue the journey if we are to unravel the mysteries of technological evolution.
 
 In the pages that follow, we will lay the groundwork for comprehending the remarkable story of how life, and ultimately human civilization, has emerged and evolved within the constraints of the natural world. It's important to note the process of understanding has its own story. First we understood the world with our senses, brains, and perhaps simple tools. Slowly as tools improved, we transitioned from mysticism, to attempts of understanding, then to real understanding with scientific instruments and the scientific method.
 
 So let us begin our journey by peering back through the mists of time, to a world still in its infancy. For it is here, in the crucible of this ancient Earth, that the seeds of our existence started.
 
+- back to our mission of a new identity. We see ourselves, and others, thorns and flowers and think we understand the flower. but these are just the minor points to the species....
+
 <!-- - important to note the process of understanding has a similar story. First we understood the world with our senses, brains, and perhaps simple tools. Slowly as tools improved, we transition from mysticism, to attempts of understanding, then to real understanding with scientific instruments and the scientific method. -->
 
 ### The Laws of Physics
 
-If you were on the planet Earth around 4 billion years ago, the scene you would have witnessed would have been quite different from the Earth we know today. Earth was molten ball of rock and metal, wracked by intense volcanic activity and bombarded by meteorites, with a thick atmosphere of noxious gases. Earth was way different back then, but even so, the laws of physics were exactly the same.
+If you were on the planet Earth around 4.5 billion years ago, the scene was very different from today. The solar system was still forming. The orbits of Jupiter, Saturn, Uranus, and Neptune had not settled. The sun was significantly less luminous, shining at about 30% of its current brightness.
 
-In our quest to understand the Earth as the gameboard of evolution, we must start with understanding physics. During our journey it is vital to remember that physics is never invented, because the laws are eternal they are always just discovered.
+Then Earth was hit by a Mars-sized object called Theia. This massive collision increased the planet's mass, melted our core that is still molten today, and (many scientists think) created the Moon from the resulting debris. Thereafter, the Late Heavy Bombardment rained countless meteorites and created the distinctive cratered landscapes we can still observe on the Moon and Earth. 
+
+Thereafter Earth was molten ball of rock and metal, wracked by intense volcanic activity and bombarded by meteorites, with a thick atmosphere of noxious gases. 
+
+How can we know all this?
+
+Because even though Earth was very different back then, the laws of physics were exactly the same.
+
+In our quest to understand the Earth as the game board of evolution, we must start with understanding physics. During our journey it is vital to remember that physics is not invented, because the laws are eternal they are only just discovered.
 
 We started looking for the laws long ago.
 
