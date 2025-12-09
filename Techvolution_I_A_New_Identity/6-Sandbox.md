@@ -1182,3 +1182,9 @@ SOCRATES: Tell me more about evolution by way of natural selection.
 ...as the sun rises above the horizon.
 
 ===
+
+So, although a rose has visible characteristics like flowers to attract pollinators and thorns to protect against being eaten, these are only the most visible in response to our interactions with it. Most of its features, from the green chlorophyll that enables photosynthesis, to the rigid cells that overcome gravitational challenges, are direct responses to the physical and environmental constraints acting upon it as determined by the laws of nature acting inside an ecosystem.
+
+These features, hidden inside our DNA, are what species share in common. It is these common features between plants, fungus, animals that work together to keep life alive. The features such as thorns and red flowers are just the jerseys lifeform wear while everyone ultimately plays for the same team.
+
+===
