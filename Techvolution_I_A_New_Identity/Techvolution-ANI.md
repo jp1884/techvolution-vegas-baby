@@ -740,23 +740,23 @@ Let us trace the remarkable journey of human understanding to master the rules o
 
 ### The Laws of Knowing
 
-Understanding the rules of the game was a process. It meant moving from mystical beliefs into natural philosophy. Completely changing a worldview requires a very rich intellectual movement involving multiple thinkers. The movement started in Ancient Greece among people we call today the Pre-Socratic philosophers. These were a diverse group of intellectual pioneers who challenged mythological explanations and sought rational understanding of the world.
+Since there are many ways to explain the world with mystical beliefs understanding the rules of the game is a never ending process. We so often get in our own way.
 
-Mythological explanations were narratives that interpreted natural phenomena through the lens of supernatural beings and divine interventions. Instead of seeking rational, observable causes, these stories personified complex natural events as the actions of gods, spirits, or magical forces. For instance, ancient Polynesians believed volcanic eruptions were caused by the volcano goddess Pele expressing her emotional rage through lava and fire. Mesopotamians explained floods as divine punishment or cosmic battles between gods controlling water and earth.
+That's why adopting a natural philosophy worldview requires a very rich intellectual movement. The one that started it all for humanity was in Ancient Greece among people we today called the Pre-Socratic philosophers. These were a diverse group of intellectual pioneers who were the first to challenge mythological explanations en masse and seek a rational understanding of the world.
 
-The Greeks started with the same mythologies. They explained lightning as Zeus hurling thunderbolts from Mount Olympus, earthquakes as Poseidon striking the ground with his trident, and seasonal changes as the result of Persephone's annual journey between the underworld and earth.
+Mythological explanations are narratives that interpret natural phenomena through the lens of supernatural beings and divine interventions. Instead of seeking rational, observable causes, these stories personify complex natural events as the actions of gods, spirits, or magical forces. For instance, ancient Polynesians believed volcanic eruptions were caused by the volcano goddess Pele expressing her emotional rage through lava and fire. Mesopotamians explained floods as divine punishment or cosmic battles between gods controlling water and earth.
 
-Many mythologies anthropomorphized the  world, putting human characteristics on top of natural events.
+The Ancient Greeks had similar mythologies. They used their extensive pantheon of gods to explain natural events. Lightning was Zeus hurling thunderbolts from Mount Olympus, earthquakes were Poseidon striking the ground with his trident, and seasonal changes the result of Persephone's annual journey between the underworld and earth.
 
-The Pre-Socratic philosophers kick-started human understanding by challenging these mythological stories. They began asking fundamental questions about the nature of existence. For example, Thucydides mentioned in _The History of the Peloponnesian War_ that he suspects the several tsunamis devouring Greek towns had a rational cause.
+The Pre-Socratic philosophers challenged these mythological stories. They began asking fundamental questions about the nature of existence. For example, Thucydides mentioned in _The History of the Peloponnesian War_ that he suspects the tsunamis which devoured several Greek towns had a rational cause.
 
 The historian said "The cause, in my opinion, of this phenomenon must be sought in the earthquake. At the point where its shock has been the most violent, the sea is driven back and, suddenly recoiling with redoubled force, causes the inundation. Without an earthquake I do not see how such an accident could happen."
 
-The fact that an Athenian general, writing about a long war against Sparta, took the time to write an aside about the natural cause of tsunamis showcases just how widespread intellectual inquiry was in Ancient Greece. And he was correct, tsunamis are caused by earthquakes causing undersea landslides that displace so much water, they cause huge waves.
+The fact that an Athenian general, writing about a long war against Sparta, took the time to write an aside about the natural cause of tsunamis showcases just how widespread intellectual inquiry was in Ancient Greece. And he was correct, tsunamis are often caused by earthquakes displacing so much water they cause huge waves.
 
-By examining natural phenomena rationally, these thinkers shifted from mythological explanations to empirical investigation, creating the foundational framework for modern scientific reasoning.
+By examining natural phenomena rationally, ancient Greek thinkers shifted from mythological explanations to empirical investigation, creating the foundational framework for modern scientific reasoning.
 
-With so many forces of nature, there is a lot to explain. To fully appreciate the measure of Ancient Greece's contribution, let's list some of the key figures in this foundational philosophical journey:
+With so many forces of nature, there was a lot of mythologies to replace with natural causes. To fully appreciate the measure of Ancient Greece's contribution, let's list some of the key figures in this foundational philosophical journey:
 
 - Thales of Miletus: Considered the first Greek philosopher, who proposed water as the fundamental substance of the universe.
 - Anaximander: Thales' student, who developed the concept of apeiron (the boundless or infinite) as the primary principle of existence.
@@ -765,9 +765,11 @@ With so many forces of nature, there is a lot to explain. To fully appreciate th
 - Xenophanes: Challenged traditional mythological beliefs, proposing a more abstract understanding of divine principles.
 - Democritus: Developed the atomic theory, suggesting the universe is composed of indivisible particles.
 
-The intellectual breakthrough of Pre-Socratic philosophers marked a fundamental shift in human understanding. By challenging mythological narratives, they demonstrated that the universe operates according to discoverable natural laws. This revolutionary approach provided humanity with the tools to methodically deconstruct inherited beliefs and develop a more empirical understanding of nature.
+The intellectual breakthrough of Pre-Socratic philosophers marked a fundamental shift in human understanding. Being the first to successfully challenge mythological narratives, they demonstrated that the universe operates according to discoverable natural laws. This revolutionary approach provided humanity with the tools—and just as important—the example of how humans can methodically deconstruct our storytelling to actually understand nature.
 
-So let us begin our journey by peering back through the mists of time, to a world still in its infancy. For it is here, in the crucible of this ancient Earth, that the seeds of our existence started.
+On our journey for a new identity, let us continue this achievement. Let's go back to the beginning of Earth to understand the fundamental force of nature, as we trace how humans went from telling stories about planets, suns, and stars to actually mastering physics.
+
+- is the only system that accepts its own fallibility.
 
 ### The Laws of Physics
 
@@ -775,33 +777,27 @@ If you were on the planet Earth around 4.5 billion years ago, the scene was very
 
 Then Earth was hit by a Mars-sized object called Theia. This massive collision increased the planet's mass, melted our core, and (many scientists think) created the Moon from the resulting debris. Thereafter, the Late Heavy Bombardment rained countless meteorites and created the distinctive cratered landscapes we can still observe on the Moon and Earth. 
 
-Thereafter Earth was molten ball of rock and metal, with a thin crust of solidified rock and metals, wracked by intense volcanic activity and bombarded by meteorites, with a thick atmosphere of noxious gases. 
+Thereafter Earth was molten ball of rock and metal, with a thin crust of solidified rock and metals in tectonic plates wracked by intense volcanic activity with a thick atmosphere of noxious gases. 
 
 This was so long ago, how can we know all this?
 
-Because even though Earth was very different back then, the laws of physics, chemistry, geology were exactly the same.
+Because even though Earth was very different back then, the laws of physics, chemistry, geology were exactly the same. So we can know all this because we just use these rules of the game to look backward. Learning how we do this, will empower us to look forward and better see our future.
 
-In our quest to understand the Earth as the game board of evolution, we must start with understanding physics. It is the starting point because it controls what happens at the atomic level within the particles of a rose or hammer, and at the galactic level between stars, planets, and even galaxies.
-
-Because it is all around us, we started looking for the laws of physics long ago.
+In our quest to understand the Earth as the game board of evolution, we must start with understanding physics. It is the starting point because it controls what happens at the atomic level inside the particles of a rose or hammer, and at the cosmic level between stars, planets, and even galaxies.
 
 We've already learned about the several Ancient Greek philosophers who kick started scientific inquiry against the deluge of mythological stories. However, it wasn't until Aristotle that someone put together a comprehensive understanding of physics.
 
-Aristotle relied heavily on human senses and brain because he could not rely on precise scientific instruments. He only had access to simple tools like sundials and water clocks to make observations and measurements. Thus, his system was based on a qualitative approach that sought to understand the natural world through observation and logical reasoning. 
+A student of Socrates, he studied at Plato's Academy for two decades and after tutoring Alexander the Great started his own school Lyceum in Athens.
+
+The famous Renaissance painting "The School of Athens" by Raphael shows the important difference between Plato and Aristotle. Many of Ancient Greece's thinkers are included in the work but the two philosophers are center. Plato is pointing up because he cared more about abstract ideas of heavenly perfection, whilst Aristotle is pointing down because he felt personal experience was the pathway to knowledge and making a better society.
+
+Thus, Aristotle relied heavily on human senses and brain because he could not rely on precise scientific instruments. He only had access to simple tools like sundials and water clocks to make observations and measurements. Thus, his system was based on a qualitative approach that sought to understand the natural world through observation and logical reasoning. 
+
+Because he cared so much about personal experience as way to knowledge, Aristotle wrote about most every topic, from playwriting to astronomy. The breadth of his work means he was extremely influential moving on from mythologies to explain the world.
 
 Aristotle interpreted the physical world and created a system of physics centered around four fundamental elements—earth, air, fire, and water—and the idea that all objects have a natural place in the universe based on their elemental composition. He believed that objects moved naturally towards their proper place, with heavy objects like earth and water falling downwards, and light objects like fire and air rising upwards. Aristotle also proposed the concept of the "ether"—a fifth element that he believed filled the celestial realm.
 
-We can see Aristotle's world view in how he explained the cosmos.
-
-He championed geocentric model. The philosopher explanation of the geocentric universe was based on a combination of philosophical reasoning and observations of the celestial bodies.
-
-At the core of Aristotle's geocentric model was the belief that the Earth was the center of the universe. He argued that all other celestial bodies, including the Sun, Moon, planets, and stars, orbited around the Earth. Aristotle's reasoning for this was that he believed the circle to be the most perfect geometric shape, and therefore, the natural motion of celestial bodies should be circular.
-
-Aristotle also proposed a hierarchical structure of the elements that made up the universe. He believed that the universe was composed of four fundamental elements: earth, air, fire, and water. Aristotle argued that these elements were arranged in a specific order, with the heavier elements (earth and water) at the center and the lighter elements (air and fire) moving outward.
-
 Furthermore, Aristotle considered the celestial realm, including the planets and stars, to be perfect and unchanging, in contrast to the mutable and corruptible nature of the terrestrial world. He believed that the heavenly bodies were made of a fifth element, called the "aether," which was distinct from the four earthly elements.
-
-Aristotle's geocentric model, with the Earth at the center of the universe, was widely accepted and influential for centuries, as it provided a seemingly logical and intuitive explanation for the observed motions of the celestial bodies. This view was further reinforced by the religious and cultural beliefs of the time, which often placed humanity and the Earth at the center of the divine creation.
 
 While Aristotle's physics was influential in the ancient world, it was of course wrong.
 
@@ -809,46 +805,67 @@ However crucially, it was a concerted effort that was, if impressive in its scop
 
 In the crucible of ancient Greek thought, science was not a cold, detached pursuit, but a passionate exploration. In the interest of time, here are some thinkers were the first true scientists.
 
-- Pythagoras: Developed foundational mathematical theorem, explored numerical relationships in nature, founded mathematical philosophy (570-495 BC)
-- Aristarchus of Samos: Pioneering Greek astronomer first known individual to propose a heliocentric model of the solar system.
-- Archimedes: Advanced geometry, calculus-like methods, principles of mechanics, hydrostatics (287-212 BC)
-- Euclid: Systematized geometry, wrote "Elements": fundamental mathematical text used for centuries (325-265 BC)
-- Eratosthenes: Calculated Earth's circumference, developed prime number identification method (276-194 BC)
-- Aristarchus of Samos: First heliocentric model, astronomical measurements (310-230 BC)
-- Hipparchus: Trigonometry, astronomical calculations, star catalogs (190-120 BC)
-- Democritus: Atomic theory, early concepts of physics and matter (460-370 BC)
-- Thales of Miletus: Considered the first philosopher-scientist, proposed water as the fundamental substance of the universe
-- Anaximander: Developed early cosmological models, proposed infinite universes
+- Pythagoras: Developed foundational mathematical theorem, founded mathematical philosophy 
+- Archimedes: Advanced geometry, calculus-like methods, principles of mechanics, hydrostatics
+- Euclid: Systematized geometry, wrote "Elements": fundamental mathematical text used for centuries
+- Eratosthenes: Calculated Earth's circumference, developed prime number identification method
+- Aristarchus of Samos: First heliocentric model, astronomical measurements
+- Hipparchus: Trigonometry, astronomical calculations, star catalogs
+- Democritus: Atomic theory, early concepts of physics and matter
 - Ptolemy: Developed complex astronomical and mathematical models
 
-While often criticized for some incorrect theories, he systematized observational approaches to natural philosophy. One could build from his system, and we din.
+While often criticized for some incorrect theories, these thinkers, including Aristotle, systematized observational approaches to natural philosophy. One could build on their work using their methods, and we did.
 
-The Greeks' most remarkable contribution was their philosophical approach to scientific investigation. They established a framework of empirical evidence and logical reasoning that would become the cornerstone of scientific methodology. By seeking observable truths and developing complex theoretical models, they laid the groundwork for centuries of scientific discovery, fundamentally changing how humans understand and investigate the natural world.
+And this was most excellent. Because Ancient Greece may have started the first mass movement of scientific inquiry, but the mantle as its leaders evolved with the times.
 
-But Ancient Greece may have started scientific inquiry, but the mantle as its leaders passed around.
+Rome would be the next civilization to take on the call of natural philosophy. In fact, they conquered the Greece around 40 BC. The Greeks were quite advanced but too divided to withstand the united and powerful Roman legions. However, Romans loved to adopt what works, and thus they took to Greek philosophy and combined it with their knack for engineering practical solutions.
 
-Rome conquered the area around 40 BC. The Greeks were quite advanced but too divided to withstand the united and powerful Roman legions. However, Romans loved to adopt what works, and thus they took to Greek philosophy and combined it with their knack for engineering practical solutions.
-
-The Roman approach represented a critical evolution from pure philosophical speculation to structured, applicable knowledge. They viewed natural laws not just as abstract concepts but as fundamental principles governing human society, nature, and individual conduct.
+The Roman approach represented a critical evolution from pure philosophical speculation so common in Greek academics like Plato's and Aristotle's, to structured, applicable knowledge. They viewed natural laws not just as abstract concepts but as fundamental principles governing human society, nature, and individual conduct.
 
 The Romans continued the Greek tradition of seeking natural physical laws through systematic observation, though with a more practical bent. Pliny the Elder compiled extensive natural observations in his encyclopedic "Natural History," documenting everything from geology to zoology. Lucretius advanced atomic theory, arguing for naturalistic explanations of phenomena without divine intervention. Ptolemy developed comprehensive astronomical models that explained planetary movements. Unlike the Greeks' more philosophical approach, Romans were engineers and practitioners who applied scientific thinking to solve real-world problems, transforming theoretical knowledge into practical technologies like aqueducts, roads, and architectural innovations.
 
-Roman influence didn't last forever either.
+Roman influence meant Greek philosophers could open schools throughout the Mediterranean world for centuries. This solidified the search for natural laws. Didn't last forever either.
 
-During the medieval period, the study of physics found a new home in the work of Islamic scholars. Much of the Greco-Roman world was taken over by Islamic countires, who adopted Greek philosophy as well. They built upon and expanded the ideas of ancient Greek thinkers like Aristotle. Notable Islamic scientists and philosophers who made significant contributions to pre-science age physics include Al-Biruni, Ibn Sina (Avicenna), and Al-Haytham (Alhazen).
+As the Classical Age ended, some the Medieval Age. And here the study of physics found a new home in the work of Islamic scholars. Much of the Greco-Roman world was taken over by Islamic countries, who adopted Greek philosophy as well. They built upon and expanded the ideas of ancient Greek thinkers like Aristotle. Notable Islamic scientists and philosophers who made significant contributions to pre-science age physics include Al-Biruni, Ibn Sina (Avicenna), and Al-Haytham (Alhazen).
 
 Al-Biruni, for example, made important observations and calculations related to the Earth's radius and the speed of light. He used a variety of instruments, including astrolabes, quadrants, and sundials, to make more precise astronomical measurements and calculations then ever before. Ibn Sina, meanwhile, developed a more nuanced understanding of motion, proposing the concept of "impetus" to explain the continued motion of objects. He did not rely on advanced instruments, but rather used his keen observational skills and logical reasoning to develop his theories.
 
 Al-Haytham, often considered the father of modern optics, conducted groundbreaking experiments and developed a comprehensive theory of light and vision. He used a variety of optical instruments, including pinhole cameras, lenses, and mirrors, to study the behavior of light and its interaction with the human eye.
 
-Overall, the pre-science age of physics was marked by a gradual evolution of ideas and a growing understanding of the physical world, with scholars relying on a combination of observation, logical reasoning, and the use of simple scientific instruments to make their discoveries. While these early thinkers did not have access to the sophisticated tools and technologies of the modern scientific era, their work laid the foundation for the more rigorous and empirical approach that would come to define the scientific revolution in the 16th and 17th centuries.
+Overall, these thinkers from Ancient Greece to Islamic scholars laid countless bricks in the building of natural philosophy. They followed Aristotle's drive to know the natural laws. But they were limited in the abilities simply because they didn't have the tools to experience these laws outside of human experience of our observation, logical reasoning, and the use of simple scientific instruments to make their discoveries. 
 
-Afterwards, the mantle of philosophy passed onto northern Italy. During the Renaissance, spanning roughly from the 14th to 17th centuries, was a profound cultural rebirth that originated in Florence and spread throughout Italy and Europe. This period marked a transition from medieval to modern thinking, characterized by a renewed interest in classical learning, humanism, and individual potential.
+And then toolmaking changed. 
+
+In the new kilns of northern Italy humanity could burn over 500 degrees, and thereby make glass clearer than ever before. And as contemporary Greek scholars reintroduced Europe to their ancestors works the Renaissance was born when the telescope and soon the microscope pierced through human narratives by extending our sense to new phenomena.
+
+Spanning roughly from the 14th to 17th centuries, it a profound cultural rebirth that originated in Florence and spread throughout Italy and Europe. This period marked a transition from medieval to modern thinking, characterized by a renewed interest in classical learning, humanism, and individual potential.
 
 Artists like Leonardo da Vinci and Michelangelo, scholars like Petrarch, and polymaths such as Galileo Galilei revolutionized art, science, and philosophy by challenging medieval scholasticism. The Renaissance emphasized human creativity, empirical observation, and the belief that individuals could master multiple disciplines, leading to unprecedented advances in art, architecture, literature, science, and political thought that would ultimately spark the Scientific Revolution and reshape Western civilization.
 
+Soon the Age of Science was to begin. 
 
-Here are the immutable laws of physics:
+These scientists represented a transformative period in human understanding, breaking away from medieval thinking and establishing the foundations of modern scientific methodology. Isaac Newton stands out as perhaps the most influential, essentially creating the framework of classical physics and mathematical analysis that would dominate scientific thought for centuries. Galileo Galilei was crucial in challenging existing scientific paradigms, using empirical observation to support the Copernican heliocentric model, which fundamentally changed humanity's understanding of our place in the universe.
+
+- Isaac Newton	Developed laws of motion, universal gravitation, calculus, fundamental principles of classical mechanics
+- Galileo Galilei	Improved telescope, discovered Jupiter's moons, championed heliocentric model, fundamental observational astronomy
+- Johannes Kepler	Formulated laws of planetary motion, bridged astronomical observation with mathematical precision
+- René Descartes	Analytical geometry, philosophical approach to scientific reasoning, coordinate system development
+- Blaise Pascal	Probability theory, hydraulics, philosophical mathematics, early computing concepts	Mathematics
+
+Johannes Kepler bridged observational astronomy with mathematical precision, developing laws of planetary motion that were revolutionary for their time. René Descartes and Blaise Pascal contributed immensely to mathematical thinking, with Descartes creating analytical geometry and Pascal making significant advances in probability and philosophical reasoning.
+
+These scientists shared a common approach: challenging existing knowledge through observation, mathematical analysis, and rigorous experimental methods. They transformed scientific inquiry from a philosophical and speculative endeavor to a systematic, empirical discipline.
+
+This series of discoveries continued until the modern day. 
+
+- James Clerk Maxwell	Unified electricity and magnetism, developed electromagnetic theory
+- Albert Einstein	Theory of relativity (special and general), quantum mechanics, E=mc² equation, photoelectric effect
+- Niels Bohr	Atomic model, quantum mechanics, quantum theory of atomic structure
+- Marie Curie	Pioneering research on radioactivity, discovered polonium and radium, first woman to win Nobel Prize
+- Max Planck	Quantum theory, black body radiation, Planck constant
+- Werner Heisenberg	Uncertainty principle, matrix mechanics, quantum mechanics
+
+Because of them we can know the immutable laws of physics:
 
 **The Laws Of Motion**
 
@@ -1003,7 +1020,7 @@ Human understanding the laws of physics, chemistry, and geology did not emerge f
 
 As each generation of scientists has tested and refined these laws through rigorous observation and analysis, the bedrock of our scientific understanding of the universe has grown ever stronger. Today, the laws of physics form the foundation that enables us to make accurate predictions, design transformative technologies, and explore the frontiers of human knowledge—from the vast expanses of astrophysics to the nanoscale realm of quantum mechanics. This steady progression, driven by both human ingenuity and technological progress, has paved the way for the groundbreaking discoveries that continue to shape our understanding of the physical world.
 
-### The Gameboard Called Earth as Made by Physics, Chemistry, and Geology
+### The Game Board Called Earth as Made by Physics, Chemistry, and Geology
 
 So, what does this all mean? The laws of nature are eternal. We are not. To live in their world, we must understand the laws will never change because we asked, demanded, passed laws, wrote stories, or marched around. The laws of nature are a unthinking rules. And they created the planet and universe in which we live.
 
@@ -1070,7 +1087,7 @@ Since humanity is likely the first self-aware creature to exist, it would be eas
 
 Not only did Life venture out to harness the playing field made by the laws of physics, chemistry, and geology. Life created used those very laws to create something new, the laws of biology.
 
-### Gameboard of Life—Problems Life Must Overcome 
+### Game Board of Life—Problems Life Must Overcome 
 
 So, we know the laws of nature, and how they created everything from the stars to Earth, but what problems did this gameboard present for life to even get started. Let us find out.
 
