@@ -742,7 +742,7 @@ Let us trace the remarkable journey of human understanding to master the rules o
 
 Since there are many ways to explain the world with mystical beliefs understanding the rules of the game is a never ending process. We so often get in our own way.
 
-That's why adopting a natural philosophy worldview requires a very rich intellectual movement. The one that started it all for humanity was in Ancient Greece among people we today called the Pre-Socratic philosophers. These were a diverse group of intellectual pioneers who were the first to challenge mythological explanations en masse and seek a rational understanding of the world.
+That's why adopting a natural philosophy worldview requires a very rich intellectual movement. The one that started it all for humanity was in Ancient Greece among people we today called the Pre-Socratic philosophers simply because they didn't delve too much into morality, ethics, or politics as Socrates and his students soon would. These were a diverse group of intellectual pioneers who were the first to challenge mythological explanations en masse and seek a rational understanding of the world.
 
 Mythological explanations are narratives that interpret natural phenomena through the lens of supernatural beings and divine interventions. Instead of seeking rational, observable causes, these stories personify complex natural events as the actions of gods, spirits, or magical forces. For instance, ancient Polynesians believed volcanic eruptions were caused by the volcano goddess Pele expressing her emotional rage through lava and fire. Mesopotamians explained floods as divine punishment or cosmic battles between gods controlling water and earth.
 
@@ -767,9 +767,33 @@ With so many forces of nature, there was a lot of mythologies to replace with na
 
 The intellectual breakthrough of Pre-Socratic philosophers marked a fundamental shift in human understanding. Being the first to successfully challenge mythological narratives, they demonstrated that the universe operates according to discoverable natural laws. This revolutionary approach provided humanity with the tools—and just as important—the example of how humans can methodically deconstruct our storytelling to actually understand nature.
 
-On our journey for a new identity, let us continue this achievement. Let's go back to the beginning of Earth to understand the fundamental force of nature, as we trace how humans went from telling stories about planets, suns, and stars to actually mastering physics.
+After these pre-socratic philosophers, we had Socrates. He did not make many contributions to unearth physical laws, but he used the methods of such, to question human society. Asking "What is "matter" served as an example of "What is justice". Because of his, and his students Plato and Aristotle, enormous influence, Greek philosophy could much better question human narratives.
 
-- is the only system that accepts its own fallibility.
+Aristotle was especially vital. 
+
+Aristotle relied heavily on human senses and brain because he had only had simple tools like sundials and water clocks to make observations and measurements. Thus, his system was based on a qualitative approach that sought to understand the natural world through observation and logical reasoning. He wrote expansive works on everything from storytelling to ethics to physics.
+
+And not much changed for centuries. Following Aristotle Greek, Roman, and Islamic scholars added and clarified his works into systems of astronomy, physics, chemistry, and geology that worked fairly well.
+
+Sailors could navigate the seas, engineers could calculate angles, blacksmiths could improve their steel. Society functioned with occasional improvements.
+
+When totally new instruments were introduced did everything change. In the 16th to 17th centuries, glass makers could make lenses, technicians could make printing press. With the invention of the telescope and microscope, the human mind finally had new ways to experience the world differently. With easy books, people could spread their data, findings, and ideas.
+
+To make sense of all the new information we expanded natural philosophy to something more systematic. Francis Bacon revolutionized scientific methodology by introducing the empirical approach and the scientific method. He championed systematic observation and experimentation as the primary means of acquiring knowledge, challenging the prevailing reliance on philosophical speculation and ancient authorities.
+
+Bacon argued that scientific understanding should be based on direct evidence and repeatable experiments, not just theoretical reasoning. This was possible because ever more advanced scientific instruments could be made year over year. 
+
+In Bacon's work "Novum Organum" he outlined a structured approach to scientific inquiry, emphasizing inductive reasoning where specific observations lead to broader scientific principles. He is considered the father of empiricism, laying the groundwork for the modern scientific method that would transform human understanding of the natural world.
+
+As science spread, it developed several schools of thought. Some of the main ones are Empiricism, which says knowledge should be derived from sensory experience and observable evidence. Rationalism, emphasizes theoretical reasoning, mathematical models as primary sources of knowledge. And Positivism, scientific knowledge based on verifiable, observable facts.
+
+These schools of thought represent different philosophical approaches to scientific inquiry. No single approach is considered definitively correct. Instead, modern scientific methodology often combines elements from multiple schools of thought, recognizing that different disciplines and research questions may benefit from varied approaches.
+
+Vitally, science is the manifestation of the ideals found in ancient Greece. As the Greeks once said "The start of all knowledge is to say I don't know". Science is only system that accepts its own fallibility. Scientists never truly know anything, they only accept their answers are the most accurate we know of, but there are always more answers left to uncover.
+
+For the universe is under no obligation to conform to our stories or our identities these stories give us.
+
+On our journey for a new identity, let us continue this achievement. Let's go back to the beginning of Earth to understand the fundamental force of nature, as we trace how humans went from telling stories about planets, suns, and stars to actually mastering physics.
 
 ### The Laws of Physics
 
@@ -787,23 +811,19 @@ In our quest to understand the Earth as the game board of evolution, we must sta
 
 We've already learned about the several Ancient Greek philosophers who kick started scientific inquiry against the deluge of mythological stories. However, it wasn't until Aristotle that someone put together a comprehensive understanding of physics.
 
-A student of Socrates, he studied at Plato's Academy for two decades and after tutoring Alexander the Great started his own school Lyceum in Athens.
+Aristotle relied heavily on human senses and brain because he had only had simple tools like sundials and water clocks to make observations and measurements. Thus, his system was based on a qualitative approach that sought to understand the natural world through observation and logical reasoning. 
 
-The famous Renaissance painting "The School of Athens" by Raphael shows the important difference between Plato and Aristotle. Many of Ancient Greece's thinkers are included in the work but the two philosophers are center. Plato is pointing up because he cared more about abstract ideas of heavenly perfection, whilst Aristotle is pointing down because he felt personal experience was the pathway to knowledge and making a better society.
+Aristotle's physics centered on four elements: earth, air, fire, and water. He believed objects move to their natural place based on elemental composition—heavy elements falling down, light elements rising up. A fifth element, "ether," explained the celestial realm's perfect, unchanging nature. This theory systematically interpreted physical motion and universal structure through elemental principles.
 
-Thus, Aristotle relied heavily on human senses and brain because he could not rely on precise scientific instruments. He only had access to simple tools like sundials and water clocks to make observations and measurements. Thus, his system was based on a qualitative approach that sought to understand the natural world through observation and logical reasoning. 
+Aristotle's astronomical understanding proposed a geocentric universe where Earth sat motionless at the center, surrounded by concentric celestial spheres. These perfect, crystalline spheres carried celestial bodies in circular motion, reflecting what Aristotle considered the most perfect geometric shape.
 
-Because he cared so much about personal experience as way to knowledge, Aristotle wrote about most every topic, from playwriting to astronomy. The breadth of his work means he was extremely influential moving on from mythologies to explain the world.
+According to his model, the universe consisted of two fundamental regions: the terrestrial (imperfect, changeable) and the celestial (perfect, unchanging). He believed heavenly bodies were made of a fifth element called "aether," fundamentally different from earthly matter. Aristotle argued that planets, the sun, and stars were embedded in transparent, rotating spheres that moved in perfect circular paths around Earth.
 
-Aristotle interpreted the physical world and created a system of physics centered around four fundamental elements—earth, air, fire, and water—and the idea that all objects have a natural place in the universe based on their elemental composition. He believed that objects moved naturally towards their proper place, with heavy objects like earth and water falling downwards, and light objects like fire and air rising upwards. Aristotle also proposed the concept of the "ether"—a fifth element that he believed filled the celestial realm.
-
-Furthermore, Aristotle considered the celestial realm, including the planets and stars, to be perfect and unchanging, in contrast to the mutable and corruptible nature of the terrestrial world. He believed that the heavenly bodies were made of a fifth element, called the "aether," which was distinct from the four earthly elements.
-
-While Aristotle's physics was influential in the ancient world, it was of course wrong.
+While scientifically incorrect, Aristotle's model was philosophically sophisticated for its time. 
 
 However crucially, it was a concerted effort that was, if impressive in its scope and internally consistent logic. And the Greeks got many other things correct. Mainly the ability to question human beliefs when looking out into the world looking for answers.
 
-In the crucible of ancient Greek thought, science was not a cold, detached pursuit, but a passionate exploration. In the interest of time, here are some thinkers were the first true scientists.
+In the crucible of ancient Greek thought, science was not a cold, detached pursuit, but a passionate exploration. In the interest of time, here are some other thinkers pivotal in their work to unearth natural laws.
 
 - Pythagoras: Developed foundational mathematical theorem, founded mathematical philosophy 
 - Archimedes: Advanced geometry, calculus-like methods, principles of mechanics, hydrostatics
@@ -814,25 +834,29 @@ In the crucible of ancient Greek thought, science was not a cold, detached pursu
 - Democritus: Atomic theory, early concepts of physics and matter
 - Ptolemy: Developed complex astronomical and mathematical models
 
-While often criticized for some incorrect theories, these thinkers, including Aristotle, systematized observational approaches to natural philosophy. One could build on their work using their methods, and we did.
+While often criticized for some incorrect theories, these thinkers, including Aristotle, systematized observational approaches to natural philosophy. One could build on their work using their methods.
+
+And, we did.
 
 And this was most excellent. Because Ancient Greece may have started the first mass movement of scientific inquiry, but the mantle as its leaders evolved with the times.
 
 Rome would be the next civilization to take on the call of natural philosophy. In fact, they conquered the Greece around 40 BC. The Greeks were quite advanced but too divided to withstand the united and powerful Roman legions. However, Romans loved to adopt what works, and thus they took to Greek philosophy and combined it with their knack for engineering practical solutions.
 
-The Roman approach represented a critical evolution from pure philosophical speculation so common in Greek academics like Plato's and Aristotle's, to structured, applicable knowledge. They viewed natural laws not just as abstract concepts but as fundamental principles governing human society, nature, and individual conduct.
+The Romans continued the Greek tradition of seeking natural physical laws through systematic observation, though with a more practical bent. Pliny the Elder compiled extensive natural observations in his encyclopedic "Natural History," documenting everything from geology to zoology. Lucretius advanced atomic theory, arguing for naturalistic explanations of phenomena without divine intervention. Unlike the Greeks' more philosophical approach, Romans were engineers and practitioners used Greek knowledge to spread practical technologies like aqueducts, roads, and architectural innovations throughout their vast empire.
 
-The Romans continued the Greek tradition of seeking natural physical laws through systematic observation, though with a more practical bent. Pliny the Elder compiled extensive natural observations in his encyclopedic "Natural History," documenting everything from geology to zoology. Lucretius advanced atomic theory, arguing for naturalistic explanations of phenomena without divine intervention. Ptolemy developed comprehensive astronomical models that explained planetary movements. Unlike the Greeks' more philosophical approach, Romans were engineers and practitioners who applied scientific thinking to solve real-world problems, transforming theoretical knowledge into practical technologies like aqueducts, roads, and architectural innovations.
+So while Aristotle's via Ptolemy's astronomy was wrong, it was pretty accurate and with some adjustments every few years, helped guide Roman travelers for centuries.
 
-Roman influence meant Greek philosophers could open schools throughout the Mediterranean world for centuries. This solidified the search for natural laws. Didn't last forever either.
+The Roman Empire's size and longevity meant Greeks could open schools throughout the Mediterranean world. This solidified the search for natural laws, across a huge geography. 
 
-As the Classical Age ended, some the Medieval Age. And here the study of physics found a new home in the work of Islamic scholars. Much of the Greco-Roman world was taken over by Islamic countries, who adopted Greek philosophy as well. They built upon and expanded the ideas of ancient Greek thinkers like Aristotle. Notable Islamic scientists and philosophers who made significant contributions to pre-science age physics include Al-Biruni, Ibn Sina (Avicenna), and Al-Haytham (Alhazen).
+Sadly, Rome didn't last forever.
+
+Eventually the Classical Age that Rome dominated ended, and came the Medieval Age. Much of the Greco-Roman world was taken over by Islamic countries, who adopted Greek philosophy. They built upon and expanded the ideas of ancient Greek thinkers like Aristotle. Notable Islamic scientists and philosophers who made significant contributions to pre-science age physics include Al-Biruni, Ibn Sina (Avicenna), and Al-Haytham (Alhazen).
 
 Al-Biruni, for example, made important observations and calculations related to the Earth's radius and the speed of light. He used a variety of instruments, including astrolabes, quadrants, and sundials, to make more precise astronomical measurements and calculations then ever before. Ibn Sina, meanwhile, developed a more nuanced understanding of motion, proposing the concept of "impetus" to explain the continued motion of objects. He did not rely on advanced instruments, but rather used his keen observational skills and logical reasoning to develop his theories.
 
 Al-Haytham, often considered the father of modern optics, conducted groundbreaking experiments and developed a comprehensive theory of light and vision. He used a variety of optical instruments, including pinhole cameras, lenses, and mirrors, to study the behavior of light and its interaction with the human eye.
 
-Overall, these thinkers from Ancient Greece to Islamic scholars laid countless bricks in the building of natural philosophy. They followed Aristotle's drive to know the natural laws. But they were limited in the abilities simply because they didn't have the tools to experience these laws outside of human experience of our observation, logical reasoning, and the use of simple scientific instruments to make their discoveries. 
+Overall, these thinkers from Ancient Greece to Islamic scholars laid countless bricks in the building of natural philosophy. They followed Aristotle's drive to know the natural laws. But they were limited in the abilities simply because they didn't have the tools to experience these laws outside of human experience, logical reasoning, and the use of simple scientific instruments to make their discoveries. 
 
 And then toolmaking changed. 
 
@@ -842,9 +866,13 @@ Spanning roughly from the 14th to 17th centuries, it a profound cultural rebirth
 
 Artists like Leonardo da Vinci and Michelangelo, scholars like Petrarch, and polymaths such as Galileo Galilei revolutionized art, science, and philosophy by challenging medieval scholasticism. The Renaissance emphasized human creativity, empirical observation, and the belief that individuals could master multiple disciplines, leading to unprecedented advances in art, architecture, literature, science, and political thought that would ultimately spark the Scientific Revolution and reshape Western civilization.
 
-Soon the Age of Science was to begin. 
+Soon the Age of Science was to begin.
 
-These scientists represented a transformative period in human understanding, breaking away from medieval thinking and establishing the foundations of modern scientific methodology. Isaac Newton stands out as perhaps the most influential, essentially creating the framework of classical physics and mathematical analysis that would dominate scientific thought for centuries. Galileo Galilei was crucial in challenging existing scientific paradigms, using empirical observation to support the Copernican heliocentric model, which fundamentally changed humanity's understanding of our place in the universe.
+Because Francis Bacon pioneered the scientific method, advocating for empirical observation and experimental evidence over philosophical speculation. He championed inductive reasoning and systematic research, transforming scientific inquiry by emphasizing direct evidence and repeatable experiments, ultimately becoming the father of modern scientific methodology.
+
+The ideals of Aristotle and his compatriots were formalized. Natural philosophers were replaced by scientists, and for us here talking about physics, physicists became a new identity for anyone wanting to understand the physical world.
+
+SooThese scientists represented a transformative period in human understanding, breaking away from medieval thinking and establishing the foundations of modern scientific methodology. Isaac Newton stands out as perhaps the most influential, essentially creating the framework of classical physics and mathematical analysis that would dominate scientific thought for centuries. Galileo Galilei was crucial in challenging existing scientific paradigms, using empirical observation to support the Copernican heliocentric model, which fundamentally changed humanity's understanding of our place in the universe.
 
 - Isaac Newton	Developed laws of motion, universal gravitation, calculus, fundamental principles of classical mechanics
 - Galileo Galilei	Improved telescope, discovered Jupiter's moons, championed heliocentric model, fundamental observational astronomy
@@ -864,6 +892,14 @@ This series of discoveries continued until the modern day.
 - Marie Curie	Pioneering research on radioactivity, discovered polonium and radium, first woman to win Nobel Prize
 - Max Planck	Quantum theory, black body radiation, Planck constant
 - Werner Heisenberg	Uncertainty principle, matrix mechanics, quantum mechanics
+
+All these advances revolutionized navigation. These scientific frameworks enabled precise celestial mapping, trajectory calculations, and gravitational corrections. From maritime navigation to GPS and space exploration, these theories allow humans to calculate positions with extraordinary accuracy across Earth and space.
+
+And thus we come to the end of our history overview of the history of physics. We started in Ancient Greece where humans first sought to uncover natural laws in place of mythological stories to explain the universe. The Romans built and spread the work of Greek philosophers, whose work continued inside if Islamic civilization for centuries.
+
+As the Renaissance return Greek philosophy to Europe, it mixed with toolmaking advanced enough to make instruments like the telescope and microscope that gave us new vantage points. We more experiences, natural philosophers became scientists. The human mastery exploded.
+
+
 
 Because of them we can know the immutable laws of physics:
 
