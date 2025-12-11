@@ -700,37 +700,35 @@ Only a new identity will allow us to glimpse behind the curtain of evolution and
 
 What makes evolution such a persistent and universal process? Why has it been not only around since the beginning of complex life, but the driver of countless species over billions of years.
 
-Answering this question means understanding why lifeforms aren't fundamentally at odds against each other. There is of course some conflict. Wolves attacking a bear, or hunting a deer is a daily—and very—visible occurrence. But most creatures, from worms to oak trees to wolves are hardly at odds with each other.
+Answering this question means understanding why lifeforms aren't fundamentally at odds. There is of course some conflict. Wolves attacking a bear, or hunting a deer is a daily—and very—visible occurrence. But most creatures, from worms to oak trees to wolves are hardly facing each other down.
 
 By far, most creatures do not even knowingly interact, let alone compete.
 
-The reason is it takes a team of species to keep life going. No lifeform can survive on its own. That's why life creates ecosystems. Inside creatures are assigned different roles, each with a strict job. Only when the ecosystem is working properly, can individuals thrive.
+The reason is it life is not a game of king of the hill, with only one species left standing. No lifeform can survive on its own. It takes a team of species to keep life going. That's why life creates ecosystems. Inside creatures are assigned different roles, each with a strict job. Only when the ecosystem is working properly, can individuals thrive.
 
 An ecosystem is a interdependent system where living organisms work with each other. Every organism plays a crucial role in the complex web of life. Producers, typically green plants and algae, create their own food through photosynthesis and provide energy for the entire system.
 
-Herbivores like deer and rabbits eat these plants, simultaneously helping to spread seeds. Carnivores like wolves and eagles keep herbivore populations in check. When creatures die, decomposers like bacteria and fungi break down dead matter and their nutrients, fertilizing the ground to enable the next generation to continue life's evolution.
+Herbivores like deer and birds eat these plants, simultaneously helping to spread seeds. Carnivores like wolves and eagles keep herbivore populations in check. When creatures die, decomposers like bacteria and fungi break down dead matter and their nutrients, fertilizing the ground to empower the next generation to continue life's evolution.
 
 This circle of life is a constant cycle of energy transfer and nutrient recycling that keeps the ecosystem balanced and functioning.
 
 Balance and momentum is essential. For example, when wolves were removed from Yellowstone Park, the deer soon exploded in numbers. As they massed near riverbanks, soil was compacted and plants could no longer grow. Once vibrant rivers and creeks were near barren. When wolves were re-introduced, deer numbers were lowered, river soil was no longer compacted, so plants thrived again and rivers returned to their natural glory.
 
-All because the ecosystem was returned to sustainable balance life's evolution needs.
+All because the ecosystem was in the right balance between individual lifeforms
 
 Ecosystems also encompasses non-living elements like sunlight, water, soil, and climate. Each of these resources change with the seasons. If lifeforms are the players, this varied arena of available energy, food, temperature, and resources makes up a sort of game board for lifeforms to live and die in.
 
-The fundamental forces of nature control this game board. Thus an ecosystem is both player producers, herbivores, carnivores, and decomposers working to keep life evolving because their shared game board is constantly changing as per unchanging, and remorseless, laws of nature.
+The fundamental forces of nature--physics, chemistry, geology--control this game board. Thus an ecosystem of producers, herbivores, carnivores, and decomposers playing to keep life evolving because their shared game board is constantly being changed as per eternal and remorseless laws of nature.
 
-Evidence by how rare life is in the Universe, these forces do not make it easy for life to survive and require life to collaborate much more than compete. Thus, evolution is a timeless and constant process, because the laws of physics, chemistry, and geology are too. 
+Evidence by how rare life is in the Universe, these forces do not make it easy for life to survive. Life must collaborate in order to stay alive. Thus, the evolution of life is a timeless and constant process, because the laws of physics, chemistry, and geology are too. 
 
-Understanding the workings of these hidden forces of nature, releases us from being members of the animal kingdom to philosophers of it. Because when evolution selects which lifeforms to stay in the game, it overwhelmingly does so in reaction to the elements of cold, hunger, radiation these natural forces cause.
+Understanding the workings of these hidden forces of nature, releases us from being members of the animal kingdom to philosophers of it. Because when evolution selects which lifeforms to stay in the game, it overwhelmingly does so in reaction to the elements of cold, hunger, radiation natural forces cause.
 
 Yet these laws that make life so hard, are also the unyielding framework upon which all subsequent biological and technological development must use to survive.
 
-It is only by grasping the significance of life's struggle to use these very laws to survive against the dangers they create, can we truly appreciate the remarkable journey of life's evolution.
+It is only by grasping the significance of life's struggle to use these very laws to survive against the dangers they create, can we truly appreciate the remarkable journey of life's evolution. All told, the universal laws of nature are effectively the rules of the game of evolution.
 
-All told, these universal laws of nature are effectively the rules of the game of evolution.
-
-In our mission of a new identity, we must understand these rules. Currently we see our and others' thorns and flowers and think we understand each other. But these visible characteristics are just the features we interact with the most. True understanding lies in decoding the laws of nature and understanding how these affect our daily lives.
+In our mission of a new identity, we must understand these rules. Currently we see our and others' thorns and flowers and think we understand each other. But like with a rose, these visible characteristics are just the features we interact with the most. True understanding of ourselves and each other lies in decoding the laws of nature and understanding how these affect our daily technological lives.
 
 Thankfully, science has already delved into the depths of physics, chemistry, and geology to understand biological life. All we need to do is continue this journey to unravel the mysteries behind our technological evolution.
 
@@ -767,17 +765,17 @@ With so many forces of nature, there was a lot of mythologies to replace with na
 
 The intellectual breakthrough of Pre-Socratic philosophers marked a fundamental shift in human understanding. Being the first to successfully challenge mythological narratives, they demonstrated that the universe operates according to discoverable natural laws. This revolutionary approach provided humanity with the tools—and just as important—the example of how humans can methodically deconstruct our storytelling to actually understand nature.
 
-After these pre-socratic philosophers, we had Socrates. He did not make many contributions to unearth physical laws, but he used the methods of such, to question human society. Asking "What is "matter" served as an example of "What is justice". Because of his, and his students Plato and Aristotle, enormous influence, Greek philosophy could much better question human narratives.
+After these Pre-Socratic philosophers, we had Socrates. He did not make many contributions to unearth physical laws, but he used the methods of such, to question human society. Asking "What is matter" served as an example of "What is justice". Because of him, and his students Plato and Aristotle's, enormous influence, Greek philosophy could much better question human narratives.
 
 Aristotle was especially vital. 
 
 Aristotle relied heavily on human senses and brain because he had only had simple tools like sundials and water clocks to make observations and measurements. Thus, his system was based on a qualitative approach that sought to understand the natural world through observation and logical reasoning. He wrote expansive works on everything from storytelling to ethics to physics.
 
-And not much changed for centuries. Following Aristotle Greek, Roman, and Islamic scholars added and clarified his works into systems of astronomy, physics, chemistry, and geology that worked fairly well.
+And not much changed for centuries. Following Aristotle, Greek, Roman, and Islamic scholars added and clarified his works into systems of astronomy, physics, chemistry, and geology that worked fairly well.
 
 Sailors could navigate the seas, engineers could calculate angles, blacksmiths could improve their steel. Society functioned with occasional improvements.
 
-When totally new instruments were introduced did everything change. In the 16th to 17th centuries, glass makers could make lenses, technicians could make printing press. With the invention of the telescope and microscope, the human mind finally had new ways to experience the world differently. With easy books, people could spread their data, findings, and ideas.
+When totally new instruments were introduced, everything change. In the 16th to 17th centuries, glass makers could make lenses, technicians could make printing press. With the invention of the telescope and microscope, the human mind finally had new ways to experience the world differently. With easy books, people could spread their data, findings, and ideas.
 
 To make sense of all the new information we expanded natural philosophy to something more systematic. Francis Bacon revolutionized scientific methodology by introducing the empirical approach and the scientific method. He championed systematic observation and experimentation as the primary means of acquiring knowledge, challenging the prevailing reliance on philosophical speculation and ancient authorities.
 
@@ -785,17 +783,31 @@ Bacon argued that scientific understanding should be based on direct evidence an
 
 In Bacon's work "Novum Organum" he outlined a structured approach to scientific inquiry, emphasizing inductive reasoning where specific observations lead to broader scientific principles. He is considered the father of empiricism, laying the groundwork for the modern scientific method that would transform human understanding of the natural world.
 
+Huge discoveries would soon follow. Galileo, Kepler, and Newton would unlock the laws of motion. Maxwell, Planck, and Einstein would unlock electricity and relativity. Bohr, Heisenberg, Dirac unlocked the atom.
+
 As science spread, it developed several schools of thought. Some of the main ones are Empiricism, which says knowledge should be derived from sensory experience and observable evidence. Rationalism, emphasizes theoretical reasoning, mathematical models as primary sources of knowledge. And Positivism, scientific knowledge based on verifiable, observable facts.
 
 These schools of thought represent different philosophical approaches to scientific inquiry. No single approach is considered definitively correct. Instead, modern scientific methodology often combines elements from multiple schools of thought, recognizing that different disciplines and research questions may benefit from varied approaches.
 
 Vitally, science is the manifestation of the ideals found in ancient Greece. As the Greeks once said "The start of all knowledge is to say I don't know". Science is only system that accepts its own fallibility. Scientists never truly know anything, they only accept their answers are the most accurate we know of, but there are always more answers left to uncover.
 
-For the universe is under no obligation to conform to our stories or our identities these stories give us.
+For the universe is under no obligation to conform to our stories or our identities these stories give us. The growth from explaining our situation from mythologies, to natural philosophy, to science reoccurs from each of the domains that make up the rules of the game of evolution.
 
 On our journey for a new identity, let us continue this achievement. Let's go back to the beginning of Earth to understand the fundamental force of nature, as we trace how humans went from telling stories about planets, suns, and stars to actually mastering physics.
 
 ### The Laws of Physics
+
+
+Three stories of players encountering the rules of of the game/physics and overcoming.
+How did people navigate in the mythological, natural philosophy, and science eras.
+This will showcase the evolution, not of the rules of the game, for these are unchanging, 
+but of our encountering and mastering them as best as technology enables us.
+
+- Polynesians, narratives.
+- Romans, Ptolemy
+- Americans, Newton
+
+--------
 
 If you were on the planet Earth around 4.5 billion years ago, the scene was very different from today. The solar system was still forming. The orbits of Jupiter, Saturn, Uranus, and Neptune had not settled. The Sun was significantly less luminous, shining at about 30% of its current brightness.
 
@@ -823,38 +835,7 @@ While scientifically incorrect, Aristotle's model was philosophically sophistica
 
 However crucially, it was a concerted effort that was, if impressive in its scope and internally consistent logic. And the Greeks got many other things correct. Mainly the ability to question human beliefs when looking out into the world looking for answers.
 
-In the crucible of ancient Greek thought, science was not a cold, detached pursuit, but a passionate exploration. In the interest of time, here are some other thinkers pivotal in their work to unearth natural laws.
-
-- Pythagoras: Developed foundational mathematical theorem, founded mathematical philosophy 
-- Archimedes: Advanced geometry, calculus-like methods, principles of mechanics, hydrostatics
-- Euclid: Systematized geometry, wrote "Elements": fundamental mathematical text used for centuries
-- Eratosthenes: Calculated Earth's circumference, developed prime number identification method
-- Aristarchus of Samos: First heliocentric model, astronomical measurements
-- Hipparchus: Trigonometry, astronomical calculations, star catalogs
-- Democritus: Atomic theory, early concepts of physics and matter
-- Ptolemy: Developed complex astronomical and mathematical models
-
-While often criticized for some incorrect theories, these thinkers, including Aristotle, systematized observational approaches to natural philosophy. One could build on their work using their methods.
-
-And, we did.
-
-And this was most excellent. Because Ancient Greece may have started the first mass movement of scientific inquiry, but the mantle as its leaders evolved with the times.
-
-Rome would be the next civilization to take on the call of natural philosophy. In fact, they conquered the Greece around 40 BC. The Greeks were quite advanced but too divided to withstand the united and powerful Roman legions. However, Romans loved to adopt what works, and thus they took to Greek philosophy and combined it with their knack for engineering practical solutions.
-
-The Romans continued the Greek tradition of seeking natural physical laws through systematic observation, though with a more practical bent. Pliny the Elder compiled extensive natural observations in his encyclopedic "Natural History," documenting everything from geology to zoology. Lucretius advanced atomic theory, arguing for naturalistic explanations of phenomena without divine intervention. Unlike the Greeks' more philosophical approach, Romans were engineers and practitioners used Greek knowledge to spread practical technologies like aqueducts, roads, and architectural innovations throughout their vast empire.
-
-So while Aristotle's via Ptolemy's astronomy was wrong, it was pretty accurate and with some adjustments every few years, helped guide Roman travelers for centuries.
-
-The Roman Empire's size and longevity meant Greeks could open schools throughout the Mediterranean world. This solidified the search for natural laws, across a huge geography. 
-
-Sadly, Rome didn't last forever.
-
-Eventually the Classical Age that Rome dominated ended, and came the Medieval Age. Much of the Greco-Roman world was taken over by Islamic countries, who adopted Greek philosophy. They built upon and expanded the ideas of ancient Greek thinkers like Aristotle. Notable Islamic scientists and philosophers who made significant contributions to pre-science age physics include Al-Biruni, Ibn Sina (Avicenna), and Al-Haytham (Alhazen).
-
-Al-Biruni, for example, made important observations and calculations related to the Earth's radius and the speed of light. He used a variety of instruments, including astrolabes, quadrants, and sundials, to make more precise astronomical measurements and calculations then ever before. Ibn Sina, meanwhile, developed a more nuanced understanding of motion, proposing the concept of "impetus" to explain the continued motion of objects. He did not rely on advanced instruments, but rather used his keen observational skills and logical reasoning to develop his theories.
-
-Al-Haytham, often considered the father of modern optics, conducted groundbreaking experiments and developed a comprehensive theory of light and vision. He used a variety of optical instruments, including pinhole cameras, lenses, and mirrors, to study the behavior of light and its interaction with the human eye.
+While often criticized for some incorrect theories, Greek thinkers, including Aristotle, systematized observational approaches to natural philosophy. One could build on their work using their methods.
 
 Overall, these thinkers from Ancient Greece to Islamic scholars laid countless bricks in the building of natural philosophy. They followed Aristotle's drive to know the natural laws. But they were limited in the abilities simply because they didn't have the tools to experience these laws outside of human experience, logical reasoning, and the use of simple scientific instruments to make their discoveries. 
 
@@ -863,8 +844,6 @@ And then toolmaking changed.
 In the new kilns of northern Italy humanity could burn over 500 degrees, and thereby make glass clearer than ever before. And as contemporary Greek scholars reintroduced Europe to their ancestors works the Renaissance was born when the telescope and soon the microscope pierced through human narratives by extending our sense to new phenomena.
 
 Spanning roughly from the 14th to 17th centuries, it a profound cultural rebirth that originated in Florence and spread throughout Italy and Europe. This period marked a transition from medieval to modern thinking, characterized by a renewed interest in classical learning, humanism, and individual potential.
-
-Artists like Leonardo da Vinci and Michelangelo, scholars like Petrarch, and polymaths such as Galileo Galilei revolutionized art, science, and philosophy by challenging medieval scholasticism. The Renaissance emphasized human creativity, empirical observation, and the belief that individuals could master multiple disciplines, leading to unprecedented advances in art, architecture, literature, science, and political thought that would ultimately spark the Scientific Revolution and reshape Western civilization.
 
 Soon the Age of Science was to begin.
 
@@ -898,8 +877,6 @@ All these advances revolutionized navigation. These scientific frameworks enable
 And thus we come to the end of our history overview of the history of physics. We started in Ancient Greece where humans first sought to uncover natural laws in place of mythological stories to explain the universe. The Romans built and spread the work of Greek philosophers, whose work continued inside if Islamic civilization for centuries.
 
 As the Renaissance return Greek philosophy to Europe, it mixed with toolmaking advanced enough to make instruments like the telescope and microscope that gave us new vantage points. We more experiences, natural philosophers became scientists. The human mastery exploded.
-
-
 
 Because of them we can know the immutable laws of physics:
 
