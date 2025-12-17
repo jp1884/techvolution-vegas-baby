@@ -750,72 +750,73 @@ The Greek Pre-Socratic philosophers, as we call them today, challenged these myt
 
 The historian said "The cause, in my opinion, of this phenomenon must be sought in the earthquake. At the point where its shock has been the most violent, the sea is driven back and, suddenly recoiling with redoubled force, causes the inundation. Without an earthquake I do not see how such an accident could happen."
 
-The fact that an Athenian general, writing about a long war against Sparta, took the time to write an aside about the natural cause of tsunamis showcases just how widespread intellectual inquiry was in Ancient Greece. Their society was among the first to challenge mythological explanations en masse to seek a rational understanding of the world. And Thucydides was correct, tsunamis are often caused by earthquakes displacing so much water they cause huge waves.
+The fact that an Athenian general, writing about a long war against Sparta, took the time to write an aside about the natural cause of tsunamis showcases just how widespread intellectual inquiry was in Ancient Greece. Their society was among the first to challenge mythological explanations en masse to seek a rational understanding of the world. And Thucydides was correct, unlike many of his peers who thought the gods were responsible, tsunamis are often caused by earthquakes displacing so much water they cause huge waves.
 
 By examining natural phenomena rationally, ancient Greek thinkers shifted from mythological explanations to empirical investigation, creating the means of philosophical inquiry to understand our world.
 
-With so many forces of nature, there was a lot of mythologies to replace with natural causes. To fully appreciate the measure of Ancient Greece's contribution to this enormous task, let's list some of the key figures in this foundational philosophical journey:
+With so many forces of nature, there was a lot of mythologies to replace with natural causes. To fully appreciate the measure of Ancient Greece's contribution to this enormous task, let's list some of the key figures in this foundational philosophical journey. Note, there are many other works that due these thinkers far more justice. For our purpose we only need to appreciate the movement these thinkers put in place:
 
-- Thales of Miletus: Considered the first Greek philosopher, who proposed water as the fundamental substance of the universe.
-- Anaximander: Thales' student, who developed the concept of apeiron (the boundless or infinite) as the primary principle of existence.
-- Anaximenes: Another Milesian who proposed air as the fundamental element.
-- Heraclitus: Introduced the concept of constant change, describing a universe in perpetual flux.
-- Xenophanes: Challenged traditional mythological beliefs, proposing a more abstract understanding of divine principles.
-- Democritus: Developed the atomic theory, suggesting the universe is composed of indivisible particles.
+- Thales: Considered the first philosopher in the Greek tradition, breaking from the prior use of mythology to explain the world and instead using natural philosophy. He is referred to as the first to have engaged in mathematics, science, and deductive reasoning.
+
+- Anaximander: Thales' student, he is the first philosopher known to have written down his studies, although only one fragment of his work remains. Anaximander was an early proponent of science and tried to observe and explain different aspects of the universe, with a particular interest in its origins, claiming that nature is ruled by laws, just like human societies, and anything that disturbs the balance of nature does not last long.
+
+- Anaximenes: Likely was instructed by Anaximander. Anaximenes held that air could change into other forms through either rarefaction or condensation. He also developed a model of the Earth, describing it as a flat disc floating atop the air while the Sun and stars are also flat and float alongside it. He described the Sun as revolving around the Earth, causing it to be obscured by higher lands during the night. He also provided early examples of concepts such as natural science, physical change, and scientific writing.
+
+- Heraclitus: Subject to melancholia. Consequently, he became known as "the weeping philosopher". Heraclitus thought the reason gave structure to the world or existed as a kind of divine law. He viewed the world as constantly in flux, always "becoming" but never "being". He expressed this in sayings like "Everything flows" and "No man ever steps in the same river twice".
+
+- Xenophanes: A Greek philosopher, theologian, poet, and critic of Homer. A highly original thinker, Xenophanes sought explanations for physical phenomena such as clouds or rainbows without references to divine or mythological explanations, but instead based on natural principles. He distinguished between different forms of knowledge and belief, an early instance of epistemology; the branch of philosophy that examines the nature, origin, and limits of knowledge.
+
+- Democritus: Wrote extensively on a wide variety of topics, primarily remembered for his formulation of an atomic theory, suggesting the universe is composed of indivisible particles. Many of his works and ideas survive through Aristotle, who viewed him as an important rival in the field of natural philosophy. Democritus was known in antiquity as the ‘laughing philosopher’ because of his emphasis on the value of cheerfulness.
 
 The intellectual breakthrough of Pre-Socratic philosophers marked a fundamental shift in human understanding. Being the first to successfully challenge mythological narratives, they demonstrated that the universe operates according to discoverable natural laws. This revolutionary approach provided humanity with the intellectual tools—and just as important—the example of how humans can methodically deconstruct our own storytelling to actually understand the reality we live in.
 
-But there was more. After Pre-Socratic philosophers came Socrates. He did not help unearthing physical laws directly. Rather he helped us question mythologies by questioning human societies. 
+But there was more. After Pre-Socratic philosophers, of course, came Socrates. While he did not help unearthing physical laws directly, he did very much so advance our ability to question human mythologies by giving us the ability to question human societies that created them. 
 
-Before him philosophers would ask questions such as "What is matter" or "What are tsunamis". Socrates co-opted the spirit of this inquiry by focusing it on us. He asked "What is justice" or "What is truth". 
+Before Socrates philosophers would ask questions such as "What is matter" or "What are tsunamis". Socrates co-opted the spirit of this inquiry by focusing it on us and asked "What is justice" or "What is truth". 
 
-Socrates, and his best student Plato (428–423  BC), thus turned philosophy towards the human condition with practical questions about how we should live, what constitutes justice, and how societies should be organized. Socrates taught his students to ask these questions, in what we now call the Socratic method, in order to use philosophy to build a better person and society the same way engineers use mathematicians to build better buildings.
+Socrates, and his best student Plato, were thus a pivotal intellectual transition in Western philosophy. Socrates introduced the 'Socratic method'—a dialectical approach of persistent questioning that deconstructs received wisdom by exposing logical inconsistencies. Unlike his predecessors who sought external explanations, Socrates turned philosophical inquiry inward, examining human consciousness, ethical reasoning, and the fundamental principles governing social interactions.
 
-Plato wrote these lessons down, adding his own thoughts along the way, in books called Socratic dialogues. By forever studying these works, every subsequent development in Western philosophy, politics, and ethics is rooted in this Socratic revolution.
+Plato extended this methodology, creating a comprehensive philosophical system that integrated metaphysical speculation with practical social theory. His dialogues were not merely philosophical texts but sophisticated thought experiments that challenged readers to critically examine their understanding of justice, knowledge, and human potential. By forever studying these works, every subsequent development in Western philosophy, politics, and ethics is rooted in this Socratic revolution.
 
-This meant the mythologies that once told us the truth of nature, were themselves subject to inquiry.
+This meant the mythologies that once told us the truth of nature, were themselves now very subject to inquiry.
 
-Because of him and his students Plato and Aristotle, Greek philosophy could more effectively question human narratives and thereby truly reveal the natural laws that lay beneath.
+After the pre-Socratic philosophers set the stage, Socrates and his students Plato and Aristotle, used Greek philosophy to question human narratives and thereby truly reveal the natural laws that lay beneath.
 
-Aristotle was especially vital. 
+Please note, in this short overview there were of course other important thinkers as well, from Pythagoras mathematical contributions to Hippocrates foundational medical research. But Aristotle's contributions to Greek philosophy was especially vital and important to our understand of using reason to explain nature. 
 
-He culminated all the work of Greek philosophers and wrote seminal books on a huge host of topics.
+Aristotle still relied heavily on human senses and brain. After all he only had simple tools like sundials and water clocks to make observations and measurements. But unlike mythologies, his multiple systems were based on a qualitative approach that sought to understand the natural world through observation and logical reasoning. He wrote expansive works--many of which are still informative today--on a huge variety of subjects, such as logic, metaphysics, mathematics, physics, biology, botany, ethics, politics, agriculture, medicine, dance, and storytelling.
 
-Aristotle still relied heavily on human senses and brain. After all he only had simple tools like sundials and water clocks to make observations and measurements. But unlike mythologies, his multiple systems were based on a qualitative approach that sought to understand the natural world through observation and logical reasoning. He wrote expansive works--many of which are still informative today--on everything from storytelling to ethics to physics.
+And, Aristotle's works on these natural laws were so good and comprehensive they stood for centuries.
 
-Aristotle's works on natural laws stood for centuries.
+That's why, through the Greek, Roman, and Islamic civilizations, each adopted his ideas. Scholars of their respective societies added and clarified his works into better systems of astronomy, physics, chemistry, and geology that increasingly improved but did not fundamentally change the works of the ancient Greek philosopher.
 
-Through the Greek, Roman, and Islamic civilizations, each adopted his ideas. Each's scholars added and clarified his works into systems of astronomy, physics, chemistry, and geology that increasingly improved but did not fundamentally change the works of the ancient Greek philosopher.
+There was no need to change the ancient Greek worldview, which Aristotle's works personified because they worked. Sailors could navigate the seas, leaders could learn rhetoric, storytellers learned playwriting. Society functioned and improved.
 
-There was no need to change because it worked. Using ancient Greek ideas the works they influenced, sailors could navigate the seas, engineers could calculate angles, blacksmiths could improve their steel. Society functioned and often improved it bits and spurts.
+However, a tipping point was reached once totally new instruments were introduced everything changed.
 
-However, a tipping point was reached.
+Specifically, in the 16th to 17th centuries, glass makers could make lenses that magnified light while technicians could make books easily inside a printing press. With the invention of the telescope and microscope, the human mind finally had new ways to experience the world differently. And with easy to make books, people could spread their data, findings, and ideas worldwide like never before.
 
-Totally new instruments were introduced. In the 16th to 17th centuries, glass makers could make lenses that magnified light while technicians could make books easily inside a printing press. With the invention of the telescope and microscope, the human mind finally had new ways to experience the world differently. With easy to make books, people could spread their data, findings, and ideas worldwide.
+Ancient Greek philosophy, Aristotle's works among them, were at times the new mythologies that need to be bested. The reality the Greeks experienced with human sense, and primitive tools like sundials and water clocks was no more. Now there was telescopes, microscopes, pendulum clocks, prisms, barometers and many more instruments coming every year.
 
-Ancient Greek philosophy, Aristotle's works among them, were finally bested. Remember Aristotle relied heavily on human senses and brain with some simple tools like sundials and water clocks to make observations and measurements. Now there was telescopes, microscopes, pendulum clocks, prisms, barometers and many more coming every year.
+This new information created a new reality. To make sense of all the new natural philosophy expanded into something more systematic. And like Aristotle was pivotal to developing the knowledge of the ancient world, Francis Bacon revolutionized this new world.
 
-To make sense of all the new information we expanded natural philosophy to something more systematic. Francis Bacon revolutionized scientific methodology by introducing the empirical approach and the scientific method. He championed systematic observation and experimentation as the primary means of acquiring knowledge, challenging the prevailing reliance on philosophical speculation and ancient authorities.
+He developed scientific methodology by introducing the empirical approach and the scientific method. He championed systematic observation and experimentation as the primary means of acquiring knowledge, challenging the prevailing reliance on philosophical speculation and ancient authorities in place since Thales kick started Greek philosophy.
 
-Bacon argued that scientific understanding should be based on direct evidence and repeatable experiments, not just theoretical reasoning. This was possible because ever more advanced scientific instruments could be made year over year. 
+Bacon argued that, because of the advancements of scientific instruments, human understanding could now be based on direct evidence and repeatable experiments, not just theoretical reasoning.
 
-In Bacon's work "Novum Organum" he outlined a structured approach to scientific inquiry, emphasizing inductive reasoning where specific observations lead to broader scientific principles. He is considered the father of empiricism, laying the groundwork for the modern scientific method that would transform human understanding of the natural world.
+In Bacon's work "Novum Organum" he outlined a structured approach to this scientific inquiry, emphasizing inductive reasoning where specific observations lead to broader scientific principles. Inductive reasoning involves making generalizations based on specific observations or experiences. It allows you to draw probable conclusions, but these conclusions are not guaranteed to be true, unlike deductive reasoning which provides certainty if the premises are correct.
 
-Huge discoveries would soon follow. Galileo, Kepler, and Newton would unlock the laws of motion. Maxwell, Planck, and Einstein would unlock electricity and relativity. Bohr, Heisenberg, Dirac unlocked the atom.
+Inductive reasoning is how scientists come up with hypothesis, and experiments is how they determined their accuracy. For this reason, Bacon is considered the father of empiricism, laying the groundwork for the modern scientific method that would transform human understanding of the natural world.
 
-As science spread, it developed several schools of thought. Some of the main ones are Empiricism, which says knowledge should be derived from sensory experience and observable evidence. Rationalism, emphasizes theoretical reasoning, mathematical models as primary sources of knowledge. And Positivism, scientific knowledge based on verifiable, observable facts.
+Huge discoveries would soon follow. Galileo, Kepler, and Newton would unlock the laws of motion. Maxwell, Planck, and Einstein would unlock electricity and relativity. Bohr, Heisenberg, Dirac unlocked how atoms and sub-atomic particles make up everything in the universe.
 
-These schools of thought represent different philosophical approaches to scientific inquiry. No single approach is considered definitively correct. Instead, modern scientific methodology often combines elements from multiple schools of thought, recognizing that different disciplines and research questions may benefit from varied approaches.
+As science spread, it developed several schools of thought. Empiricism, rationalism, positivism being the mains ones. These schools of thought represent different philosophical approaches to scientific inquiry. No single approach is considered definitively correct. Instead, modern scientific methodology often combines elements from multiple schools of thought, recognizing that different disciplines and research questions may benefit from varied approaches.
 
-Vitally, science is the manifestation of the ideals found in ancient Greece. As the Greeks once said "The start of all knowledge is to say I don't know". Science is the only system that accepts its own fallibility. Scientists never truly know anything, they only accept their answers are the most accurate we know of, but there are always more answers left to uncover.
+Vitally, science is the manifestation of the ideals found in ancient Greece. As the Greeks were apt to say; "The start of all knowledge is to say I don't know". In that vein, science is the only system that accepts its own fallibility. Scientists never truly know anything, they only accept their answers are the most accurate we know of, but accept there are always better answers left to uncover.
 
-For the universe is under no obligation to conform to our stories or the identities these stories give us. The growth from explaining our situation from mythologies, to natural philosophy, to science reoccurs from each of the domains that make up the rules of the game of evolution.
+As we encountered the natural laws we moved from using mythologies, to natural philosophy, to science. It was a remarkable journey that tested our knowledge of the rules of the game of evolution. With each step we learned the universe is under no obligation to conform to our stories or the identities these stories give us.
 
-On our journey for a new identity, let us continue this achievement. Let's go back to the beginning of Earth to understand the fundamental force of nature, as we trace how humans went from telling stories about planets, suns, and stars to actually mastering physics.
-
-
-
-
+To return to our journey for a new technological identity, let us continue this achievement. We must not only understand the natural laws, but understand how they are rules of the game that determines our future far more than the stories we tell. Let's go back and trace how we came to understand the fundamental forces of nature, showing how our species evolved via technology from mere observers of planets, suns, and stars to active participants who could navigate and explore them through our growing mastery of physics.
 
 
 ### The Laws of Physics
@@ -831,17 +832,19 @@ but of our encountering and mastering them as best as technology enables us.
 
 --------
 
-Imagine if you would, standing on a sandy beach. Warm sunlight is washing your face as small waves smash down behind you. You are a lifeform. Any lifeform and you are but being a creature with a limited lifespan, you want to expand to find new territories to give your genes a better chance a survival.
+Imagine if you would, standing on a sandy beach. Warm sunlight is washing your face as small waves smash down behind you. You are a lifeform. One of the countless creatures with one overwhelming shared feature; a limited lifespan. 
 
-Your species has already populated this landmass. So the solution is to go off island and find another place to lay your seed.
+So, to give your genes a better chance of survival, you want to expand to find new territories on the game board that'll open new niches for you to harvest. Your ultimate aim is to join (or help form) an ecosystem with the proper balance of producers, grazers, predators, and decomposers.
 
 How would you get there?
 
-This is a classic physics problem. It involves motion and navigation. As evidenced by the many species on the land, its been solved by biological species for billions of years. Birds fly using seasonal winds to know their way. Trees make nuts that float and drop them in the ocean to go where they might. Sea turtles swim and navigate by sensing the magnetic fields of the Earth.
+This is a problem most every species has faced one time or another. And because it involves motion, energy, and navigation, it is a physics problem—the fundamental "rules of the game" that every lifeform must overcome to move, harvest, and survive. And every detail that you master moves you another spot on the game board.
 
-Humans once were bound to such biological solutions. As we developed technology, how did we solve the problem of motion and navigation to spread ourselves to the next landmass?
+As evidenced by the many species on the land, this is a problem that's been solved by biological species for billions of years. Birds use seasonal winds to know their way. Trees make nuts that float and drop them in the ocean to go where they might. Sea turtles swim and navigate by sensing the magnetic fields of the Earth.
 
-Here are three ways we used the laws of physics to win the game of evolution. We went from storytelling, to philosophy, and finally to science to populate the next landmass with technology.
+Humans once were bound to such biological solutions. As we developed technology, we used it to solve the problem of energy, motion, and navigation to spread ourselves to the next landmass.
+
+Here are three ways in which we overcame the laws of physics: first through mythological storytelling, then through natural philosophy, and finally through scientific understanding. Each step allowed us to populate new territories with technology that helped us sustain life, and thereby win another iteration in the never-ending game of evolution.
 
 ---
 
