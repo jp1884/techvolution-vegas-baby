@@ -969,35 +969,73 @@ Yet things were not perfect. The Earth was not in fact the center of the Univers
 
 ### The Moon
 
-The loudspeakers crackled. An electronic whine broke the morning's stillness. The room was a bland office building in the middle of the endless Kazakh prairie. A place of endless sand, wind, and the Soviet Union's invaluable Baikonur Cosmodrome mega-complex.
+Loudspeakers crackled. The electronic whine broke the morning's stillness inside the packed room. The place was non-descript. Just another bland office building made in the country's drive for speed over frills. This one was special only because it was in the middle of the endless Kazakh prairie. A place of endless sand, wind, and the Soviet Union's invaluable Baikonur Cosmodrome mega-complex.
 
-Mikhail Sergeyevich Volkov's colleagues gathered around him, their breath suspended between anticipation and professional restraint. Years of grueling Soviet scientific training had ground out their liking of public displays of emotion, but today was different. Today was history.
+Mikhail Sergeyevich Volkov's colleagues gathered around him, their breath suspended between anticipation and restraint. Years of grueling Soviet scientific training had ground out their liking of public displays of emotion, but today was different. Today was history.
 
-Or it was pre-history. They knew nobody would remember this launch, but they would never forget its achievements—if the spacecraft could follow the precise flight path calculated by their navigator, comrade Volkov.
+Or it was pre-history. Maybe. They knew nobody would remember this launch, but they would never forget its achievements—if the spacecraft could follow the precise flight path calculated by their navigator, comrade Volkov.
 
 "Preliminary launch sequence initiating," the loudspeaker announced.
 
-Volkov agonized. While other engineers worked on propulsion, fuel, and material calculations, he had been quietly using logarithmic tables and slide rules to solve the super-complex orbital mechanics that would not only carry a human beyond Earth's atmosphere for the first time, but return him back safely too.
+Volkov agonized. While other engineers worked on propulsion, fuel, or material calculations, he had been quietly using logarithmic tables and slide rules to solve the super-complex orbital mechanics. He needed to know the exact path that would carry the first human beyond Earth's atmosphere and return him safely to Earth.
 
-His wife Anya had called him obsessed. Lovingly, of course. "You calculate as if the mathematics themselves are alive". Because it was top-secret, she knew nothing about his work. She didn't need to. Like her research at the hospital, she understood everyone was building a better future for humanity through the immense powers of science.
+His wife Anya had called him obsessed. Lovingly, of course. "You hold your slide rule like mother holds a new born". Because it was top-secret, she knew nothing about his work. She didn't need to. Like her research at the hospital, he was just another person building a better future for humanity through the immense powers of science.
 
 The rocket began to emit a low, building rumble. Vibrations traveled through the ground, up through Volkov's boots.
 
-"Thirty seconds to launch," the speaker announced. The rocket's roar became a scream. Pure, white-hot potential erupting from steel and mathematics. The sound of the great rockets was deafening.
+"Thirty seconds to launch," the speaker announced. The rocket's roar became a scream. Pure, white-hot fire erupting from fuel, steel, and mathematics. The sound of the great rockets was deafening to everyone in the room.
 
 Then there was liftoff!
 
-Despite the intense light and noise, Volkov watched intently as the flight followed its calculated trajectory. It was smooth, just as he wanted. Happily, he watched his work disappear over the horizon, returning the Kazakh prairie to its natural stillness.
+Despite the intense light and noise, Volkov watched intently as the flight followed its calculated trajectory. Happily, he watched his work disappear over the horizon. He allowed himself a smile whilst the Kazakh prairie returned to its natural stillness.
 
-The people now watched the monitors. Each showed the flight's passengers': a mannequin named Ivan Ivanovich, a dog named Zvezdochka, frogs, monkeys, mice, rats, plants, television cameras, and other scientific instruments.
+The room of engineers and scientists now watched the monitors.
 
-Everyone knew if enough passengers survived, the Korabl-Sputnik 5 flight test would be the last before a human entered space. Yuri Gagarin was everyone's favorite to be that hero—a farm boy turned cosmonaut who would follow Volkov's navigation into space!
+Each showed the flight's passengers: a mannequin named Ivan Ivanovich, a dog named Zvezdochka, frogs, monkeys, mice, rats, plants, television cameras, and other scientific instruments.
 
-As all the indicators showed success, Volkov knew this was just the beginning. Traveling beyond the next town once seemed impossible to his parents. Now he rightfully dreamed of going to the Moon. With its endless sunshine and untapped minerals, it was the stepping stone from which he and his colleagues will expand life beyond Earth and into the solar system.
+Nobody knew what spaceflight would do to them. But if enough passengers survived, the Korabl-Sputnik 5 flight test would be the last before a human entered space. Yuri Gagarin was everyone's favorite to be that hero—a farm boy turned cosmonaut who would follow Volkov's navigation into space!
 
-Despite the flight test still ongoing, Volkov could not help but express his emotions to the room, "To the Moon!"
+As all the indicators showed success, Volkov allowed his mind to abandon the incessant reason orbital mathematics requires, and run wild into motivating fantasy.
+
+Traveling beyond the next town once seemed impossible to his parents. Now he dreamed of going to the Moon. With its endless sunshine and untapped minerals, it was the stepping stone from which he and his colleagues would expand life beyond Earth and into the solar system.
+
+Despite the test flight still underway, Volkov could not help but express his emotions to the room, "To the Moon!"
 
 --
+
+The period from using star charts and sexton's to navigate the oceans to flying in space is immensely long. Not when measured in years--it was only several centuries--but in evolution. The jumps required to send man and technology into space are absolutely giant and easy for us today to take for granted.
+
+The first step was removing the philosophical learning.
+
+The astronomy and star charts Aristotle and Ptolemy was well established. Not only because of belief, but because they worked. In fact, it was because they predicted celestial events so well humanity could time its religious ceremonies to like Easter, but also its navigation as well.
+
+Regardless, these charts needed to be reworked relatively often. They assumed the planets and stars orbited the Earth in perfect circles while themselves moving in perfect circles. This worked well enough and was believable enough, until much more accurate astronomical records were kept, mainly by Tycho Brahe.
+
+Still, even his solution to the problem was another version of the Earth centric system. At the same time, Nicholas Copernicus found an old text of a Greek philosopher named Aristarchus of Samos, which said the Earth revolved around the Sun. He proposed a geo-centric astronomy. It solved some of the math problems of Ptolemy's system, but introduced others.
+
+There was still something fundamentally wrong. 
+
+It wasn't until Johannes Kepler realized that the planets orbited the Sun not in perfect circles, but in ovals called ellipsis. He was almost blind so couldn't do astronomy but he knew math. Using math he explained what became Kepler's laws of planetary motion
+
+1. The orbit of a planet is an ellipse with the Sun at one of the two foci.
+2. A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time.
+3. The square of a planet's orbital period is proportional to the cube of the length of the semi-major axis of its orbit.
+
+It worked!
+
+The predictions of his math, and the observations were in sync. And no one knew why yet. Until Issac Newton came along. He was even better at math and explained the system (among other things like optics and calculus). Newton showed in 1687 that relationships like Kepler's would apply in the Solar System as a consequence of his own laws of motion and law of universal gravitation.
+
+1. A body remains at rest, or in motion at a constant speed in a straight line, unless it is acted upon by a force.
+2. At any instant of time, the net force on a body is equal to the body's acceleration multiplied by its mass or, equivalently, the rate at which the body's momentum is changing with time.
+3. If two bodies exert forces on each other, these forces have the same magnitude but opposite directions.[1][2]
+
+Of course the math behind all these statement fills volumes.
+
+And our imaginary Soviet space navigator Volkov used these mathematical equations and pretty much nothing more.
+
+
+
+
 
 For centuries, humans played the game of navigation and exploration using increasingly complex tools—from star charts to maritime engineering. But the ultimate game board was not just the Earth's surface, but the vast expanse of space itself. As civilizations learned to master terrestrial navigation, a new frontier beckoned—one that would require an entirely new set of skills to understand and overcome the fundamental laws of motion and gravity.
 
@@ -1029,7 +1067,7 @@ Newton's equations allowed mission planners to create complex mathematical model
 
  - no superior stage. Note Apollo 13 use of manual flying, or Apollo 8's use of star charts for re-orientation. never mind the failed SU, despite science, or string theory.
  - note, what the three, storytelling, philosophy, science, are an ecosystem, and like biological ones, each has a place in healthy one.
-
+- crucially, life is cooperation because the game board isn't stagnant. entropy dissolves the game squares behind us, so we must evolve, in a race against time.... we may outrun our neighbors, but that means little to entropys wrath...
 
 
 
