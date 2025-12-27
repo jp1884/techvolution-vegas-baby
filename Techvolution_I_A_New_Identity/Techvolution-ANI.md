@@ -969,69 +969,117 @@ Yet things were not perfect. The Earth was not in fact the center of the Univers
 
 ### The Moon
 
-Loudspeakers crackled. The electronic whine broke the morning's stillness inside the packed room. The place was non-descript. Just another bland office building made in the country's drive for speed over frills. This one was special only because it was in the middle of the endless Kazakh prairie. A place of endless sand, wind, and the Soviet Union's invaluable Baikonur Cosmodrome mega-complex.
+Loudspeakers crackled inside a packed room. Electronic whine burst for a brief second. The place itself was nondescript. Just one of the countless bland office buildings made in the country's massive drive for speedy results. This building was special only because it was in the middle of the Kazakh prairie. An environment of endless sand, wind, and the Soviet Union's invaluable Baikonur Cosmodrome mega-complex.
 
-Mikhail Sergeyevich Volkov's colleagues gathered around him, their breath suspended between anticipation and restraint. Years of grueling Soviet scientific training had ground out their liking of public displays of emotion, but today was different. Today was history.
+Mikhail Sergeyevich Volkov's colleagues gathered around him, their breath suspended between anticipation and restraint. Years of grueling Soviet scientific training had trained them to restrain their emotions, but today was different. Today was history.
 
-Or it was pre-history. Maybe. They knew nobody would remember this launch, but they would never forget its achievements—if the spacecraft could follow the precise flight path calculated by their navigator, comrade Volkov.
+Or it was pre-history. Maybe. They knew nobody would remember this launch, but no one would ever forget its achievements—if the spacecraft could follow the precise flight path calculated by their navigator, comrade Volkov.
 
-"Preliminary launch sequence initiating," the loudspeaker announced.
+"Preliminary launch sequence initiated," the loudspeaker announced.
 
-Volkov agonized. While other engineers worked on propulsion, fuel, or material calculations, he had been quietly using logarithmic tables and slide rules to solve the super-complex orbital mechanics. He needed to know the exact path that would carry the first human beyond Earth's atmosphere and return him safely to Earth.
+Behind a still face, Volkov agonized. All his colleagues worked together in great unison among intense requirements and deadlines. But most others worked on areas like propulsion, fuel, or material design. These could at least be tested many times before launch. In comparison, the navigator used logarithmic tables and slide rules to solve the super-complex orbital mechanics. He couldn't run many tests to evaluate his work, hence why the group huddled around the mathematician now to show their support.
 
-His wife Anya had called him obsessed. Lovingly, of course. "You hold your slide rule like mother holds a new born". Because it was top-secret, she knew nothing about his work. She didn't need to. Like her research at the hospital, he was just another person building a better future for humanity through the immense powers of science.
+Everyone knew his calculations were fiendishly hard. It took dozens of other mathematicians hundreds of days to manually calculate his equations that included everything from weather, ship weight, fuel expenditure, even the earth's rotation. Each factor was crucial to set the exact path that would carry the first human beyond Earth's atmosphere, and crucially, return him safely to Earth.
 
-The rocket began to emit a low, building rumble. Vibrations traveled through the ground, up through Volkov's boots.
+Since being recruited to the space agency, his wife Anya had called him obsessed. Lovingly, of course. "You hold your slide rule like a mother holds a newborn". Because it was top-secret, she knew nothing about his work. She didn't need to. Like her research at the hospital, he was just another person building a better future through the immense powers of science.
 
-"Thirty seconds to launch," the speaker announced. The rocket's roar became a scream. Pure, white-hot fire erupting from fuel, steel, and mathematics. The sound of the great rockets was deafening to everyone in the room.
+Now, the rocket began to emit a low, rising rumble. Vibrations soon traveled through the ground, up into Volkov's already shaking boots.
+
+"Thirty seconds to launch," the speaker announced just loud enough to be heard over the rocket's roar. The room watched the launchpad as white-hot fire erupted from the mixture of fuel, steel, and mathematics that comprised the spaceship. The sound of the great rockets was now deafening.
 
 Then there was liftoff!
 
-Despite the intense light and noise, Volkov watched intently as the flight followed its calculated trajectory. Happily, he watched his work disappear over the horizon. He allowed himself a smile whilst the Kazakh prairie returned to its natural stillness.
+Despite the intense light and noise, Volkov watched every microsecond. Rising hundreds of meters into the air, the flight followed its planned trajectory perfectly. As he watched his work disappear over the horizon, his feet finally stopped shaking. When the Kazakh prairie returned to its natural stillness, the navigator turned his head. As did the entire room of engineers and scientists.
 
-The room of engineers and scientists now watched the monitors.
+Everyone now stared at the monitors.
 
 Each showed the flight's passengers: a mannequin named Ivan Ivanovich, a dog named Zvezdochka, frogs, monkeys, mice, rats, plants, television cameras, and other scientific instruments.
 
-Nobody knew what spaceflight would do to them. But if enough passengers survived, the Korabl-Sputnik 5 flight test would be the last before a human entered space. Yuri Gagarin was everyone's favorite to be that hero—a farm boy turned cosmonaut who would follow Volkov's navigation into space!
+Nobody knew what leaving earth's gravity, atmosphere, and magnetosphere would do to lifeforms. But if enough passengers survived, the Korabl-Sputnik 5 flight test would be the last before a human tried. Yuri Gagarin was everyone's favorite to be that hero—a farm boy turned cosmonaut who would follow Volkov's navigation into space!
 
-As all the indicators showed success, Volkov allowed his mind to abandon the incessant reason orbital mathematics requires, and run wild into motivating fantasy.
+As all the indicators showed success, Volkov allowed his mind to abandon the incessant logic orbital mathematics requires, and run wild into childish fantasy.
 
-Traveling beyond the next town once seemed impossible to his parents. Now he dreamed of going to the Moon. With its endless sunshine and untapped minerals, it was the stepping stone from which he and his colleagues would expand life beyond Earth and into the solar system.
+His grandparents never even traveled out of their town. Now he dreamed of stepping on the Moon. With its endless sunshine and untapped minerals, it was the stepping stone from which he and his colleagues would expand life beyond Earth and into the solar system.
 
-Despite the test flight still underway, Volkov could not help but express his emotions to the room, "To the Moon!"
+The test flight was now orbiting Earth. Seeing all the creatures living and breathing in the alien environment, Volkov could not help but express his dreams to the room, "To the Moon!"
 
 --
 
-The period from using star charts and sexton's to navigate the oceans to flying in space is immensely long. Not when measured in years--it was only several centuries--but in evolution. The jumps required to send man and technology into space are absolutely giant and easy for us today to take for granted.
+The period between navigating the oceans with wind and sails to flying in space is an immensely long time. Not when measured in years, because it was only several centuries, but when measured in capabilities.
 
-The first step was removing the philosophical learning.
+Moving so many squares in the game of life required giant evolutionary leaps. These jumps were only possible by decoding the fundamental rules of nature more precisely than ever before. Mastering the rules of the game in such a way meant moving from philosophical contemplation to scientific exploration.
 
-The astronomy and star charts Aristotle and Ptolemy was well established. Not only because of belief, but because they worked. In fact, it was because they predicted celestial events so well humanity could time its religious ceremonies to like Easter, but also its navigation as well.
+Because it science was so accurate, it took more work to unlock.
 
-Regardless, these charts needed to be reworked relatively often. They assumed the planets and stars orbited the Earth in perfect circles while themselves moving in perfect circles. This worked well enough and was believable enough, until much more accurate astronomical records were kept, mainly by Tycho Brahe.
+We've already seen how cultures studied depended on the stars as a map and calendar. Most peoples did astronomy and developed charts to predict where celestial should be in the future. Polynesians certainly did when moving across oceans. Ancient China's astrology was particularly good at keeping such records. Aristotle's and Ptolemy's system was the most sophisticated and adopted. Even after a thousand years, it was still in use when Catholic religious leaders (mainly St. Thomas Aquinas) wanted to marry it with their faith, for, among other reasons, to ensure the timing of ceremonies like Easter was accurate.
 
-Still, even his solution to the problem was another version of the Earth centric system. At the same time, Nicholas Copernicus found an old text of a Greek philosopher named Aristarchus of Samos, which said the Earth revolved around the Sun. He proposed a geo-centric astronomy. It solved some of the math problems of Ptolemy's system, but introduced others.
+This is how scientific and western religious texts came to proclaim the Earth was the center of the universe. If you remember this geo-centric system had the Sun and Moon revolving in perfect circles around us, while the planets orbited in epicycles, with special rules for Mercury and Venus. The system was based on their being a strict divide between the natural laws of the "celestial spheres" and us Earthlings.
 
-There was still something fundamentally wrong. 
+Regardless of their wide adoption, the star charts developed using this geo-centric system were only accurate for so long. After a few centuries, planet locations like Saturn would be up to 2 degrees off, about four times the width of the Moon as seen from Earth. At the time these inaccuracies were an inconvenient truth people were happy to ignore. Because after changes were made to the predictions, the system worked pretty well for several lifetimes.
 
-It wasn't until Johannes Kepler realized that the planets orbited the Sun not in perfect circles, but in ovals called ellipsis. He was almost blind so couldn't do astronomy but he knew math. Using math he explained what became Kepler's laws of planetary motion
+Thus, as time passed, a increasing back log of mistakes and corrections gave inquisitive minds reason to ask questions. This especially happened in the Renaissance, when ancient thinkers were re-introduced into Italy, France, and other parts of Europe wanting to leave their relative backwardness in the Middle Ages behind them.
+
+In this environment, Nicholas Copernicus (1473-1543) offered a new idea. Perhaps the Earth was just another planet revolving around the Sun. He worked on the idea for 40 years, and was actually inspired by the work of Aristarchus of Samos, an ancient Greek who developed a Sun centric system 2000 years prior.
+
+So reluctant was he to release his work, Copernicus only saw his published work on his death bed. Even so, "On the Revolution of Heavenly Spheres" caused such a stir it's why we think "revolution" means political turmoil.
+
+Despite his impact, Copernicus only fixed half the problem. He still thought planets orbit in perfect circles. Regardless, he changed how people thought. Gone was the huge reliance on settling disputes or observations by relying on authority's of the past, in church, hierarchy, and thinkers like Aristotle.
+
+Now each person had to reconcile their beliefs with their observations in the real world. This was especially needed because with Gutenberg's moveable type printing press (1450) dramatically sped up publishing. Now people's ideas and observations, in astronomy and physics, but also in medicine, chemistry, and other fields too, were spreading far and wide and needing to be reviewed.
+
+For example, Tycho Brahe (1546-1601) was an astronomer who wanted to know if Ptolemy or Copernicus was correct. So he invented a way to keep remarkable accurate astronomical observations, and then invented his own system that tried to combine the two systems. He was wrong of course, but his observations were so good he attracted someone who knew better.
+
+His assistant Johannes Kepler (1571-1630) had poor eyesight but a great mathematical mind. After much analysis of Tycho's data he realized that the planets orbited the Sun not in perfect circles, but in ovals called ellipses. He thus derived what became Kepler's laws of planetary motion:
 
 1. The orbit of a planet is an ellipse with the Sun at one of the two foci.
 2. A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time.
 3. The square of a planet's orbital period is proportional to the cube of the length of the semi-major axis of its orbit.
 
-It worked!
+And, it worked! Once Copernicus Sun-centric model planet was modified to move in ellipses orbits, the predictions of our astronomy, math, and stellar observations were perfectly in sync.
 
-The predictions of his math, and the observations were in sync. And no one knew why yet. Until Issac Newton came along. He was even better at math and explained the system (among other things like optics and calculus). Newton showed in 1687 that relationships like Kepler's would apply in the Solar System as a consequence of his own laws of motion and law of universal gravitation.
+The system worked so well that in 1582 the Gregorian calender was introduced. Because religious dates are set according to equinoxes, dates like Easter were increasingly inaccurate. Jesuit monks felt obligated to improve that, and so did the math reworked the Julian calendar by modifying when leap years are used. Now humanity had a calendar that was good for the next 4,000 years.
+
+Humanity had spent thousands of years looking up at the heavens and tried to make sense of the orchestra of lights and movements we saw. And now, we finally had a way to know where the planets and moons will be thousands of years into the future. We today don't realize it was common for our ancestors to throw away their calendars and start over, because of this achievement.
+
+But no one knew why yet. Meaning we could observe the natural laws but didn't understand what force drove them.
+
+Until Isaac Newton came along. He invented new math called calculus to explain Brahe's observations and Kepler's laws. Newton showed in 1687 that both happened because of something called universal gravitation. Meaning the not only was the Earth not the center of the Universe, the physics of the "the heavens" and Earth in fact have the same natural laws. The final piece of the puzzle had fallen into place. 
+
+Thus, Newton was able to write the laws of motion:
 
 1. A body remains at rest, or in motion at a constant speed in a straight line, unless it is acted upon by a force.
 2. At any instant of time, the net force on a body is equal to the body's acceleration multiplied by its mass or, equivalently, the rate at which the body's momentum is changing with time.
-3. If two bodies exert forces on each other, these forces have the same magnitude but opposite directions.[1][2]
+3. If two bodies exert forces on each other, these forces have the same magnitude but opposite directions.
 
-Of course the math behind all these statement fills volumes.
+Of course the math behind all these statement fills volumes. Yet, for our purpose, the evolutionary jumps needed for our imaginary Soviet space navigator Volkov (I can't find the real scientist yet) used these mathematical equations and pretty much nothing more.
 
-And our imaginary Soviet space navigator Volkov used these mathematical equations and pretty much nothing more.
+Of course the technological jumps needed to build the space ship took centuries to complete. As did getting the calculators and computers to actually do the calculations. But strictly speaking the breakthrough needed to calculate space flight trajectory was done by the time of Isaac Newton.
+
+That is the power of scientific understanding. It's the answer, and thus repeatable across time, and so survives like mythological stories, and philosophical understanding do not. That's why NASA is apt to say "we put Isaac Newton in the driver's seat".
+
+But crucially, despite its immense space traveling powers, science is not the only answer. In fact, it cannot live alone.
+
+This is for the same reason lifeforms largely do not compete but cooperate. The three modes of human understanding that the took Polynesians to distant islands, Roman cargo ships to Mediterranean ports, and spaceships throughout the solar system, are each co-dependant in a healthy technological ecosystem.
+
+We can showcase this best when looking at the perilous manned space missions to the Moon. 
+
+
+--
+
+_The gods did not reveal, from the beginning, all things to us, but in the course of time through seeking we may learn & know things better. But as for certain truth no man knows it, nor shall he know it, neither of the gods nor yet of all things that I speak. For even if by chance he were to utter The Final Truth, he would himself not know it: for all is but a woven web of guesses._
+
+Xenophanes, Greek Historian, 6th Century BC.
+
+
+
+
+Navigation is always hard. Trying to get to a place requires knowing how much energy you need to get there. When to leave, where to aim, how to stop, and also how to get back.
+
+For many years open ocean navigation was the ultimate test of navigation. Most biological creatures cannot do it, and neither could humans. Polynesians were the earliest ones to master it. They used mythologies to remember details of the celestial happenings. As time went on, voyagers in the around China, India, and Mediterranean would used star charts from philosophical deductions of astronomy.
+
+Eventually, we developed the telescope. This allowed quite accurate star charts. With the sextant, a doubly reflecting navigation instrument that measures the angular distance between two visible objects, navigators could locate their latitude and longitude anywhere on Earth.
+
+This brought on the Age of Sail. A time where ships could travel anywhere in the world. International trade, war, settlements, colonies, were all possible in a way never seen before.
 
 
 
@@ -1045,7 +1093,7 @@ Johannes Kepler refined this model mathematically, developing three fundamental 
 
 Galileo Galilei delivered the crucial observational evidence. Using improved telescopes, he observed Jupiter's moons, Venus's phases, and other celestial phenomena that directly supported the Copernican model. His observations provided empirical proof that not everything revolved around Earth, fundamentally challenging the existing astronomical understanding and supporting the heliocentric theory.
 
-This Scientific Revolution culminated in the works of Issac Newton.
+This Scientific Revolution culminated in the works of Isaac Newton.
 
 Isaac Newton revolutionized scientific understanding by formulating the three laws of motion and the universal law of gravitation. His work unified terrestrial and celestial mechanics, demonstrating that the same physical laws govern both a falling apple and planetary orbits. By introducing calculus and providing precise mathematical models, Newton transformed scientific inquiry from philosophical speculation to a rigorous, predictive discipline that could explain complex physical interactions.
 
