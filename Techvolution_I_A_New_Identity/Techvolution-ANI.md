@@ -977,7 +977,7 @@ Or it was pre-history. Maybe. They knew nobody would remember this launch, but n
 
 "Preliminary launch sequence initiated," the loudspeaker announced.
 
-Behind a still face, Volkov agonized. All his colleagues worked together in great unison among intense requirements and deadlines. But most others worked on areas like propulsion, fuel, or material design. These could at least be tested many times before launch. In comparison, the navigator used logarithmic tables and slide rules to solve the super-complex orbital mechanics. He couldn't run many tests to evaluate his work, hence why the group huddled around the mathematician now to show their support.
+Behind a still face, Volkov agonized. All his colleagues worked together in great unison among intense requirements and deadlines. But most other fields like propulsion, fuel, or material design could at least be tested many times before launch. In comparison, the navigator used logarithmic tables and slide rules to solve the super-complex orbital mechanics. He couldn't run many tests to evaluate his work, hence why the group huddled around the mathematician now to show their support.
 
 Everyone knew his calculations were fiendishly hard. It took dozens of other mathematicians hundreds of days to manually calculate his equations that included everything from weather, ship weight, fuel expenditure, even the earth's rotation. Each factor was crucial to set the exact path that would carry the first human beyond Earth's atmosphere, and crucially, return him safely to Earth.
 
@@ -1005,45 +1005,51 @@ The test flight was now orbiting Earth. Seeing all the creatures living and brea
 
 --
 
-The period between navigating the oceans with wind and sails to flying in space is an immensely long time. Not when measured in years, because it was only several centuries, but when measured in capabilities.
+The period between navigating the oceans with wind and sails to flying in space is an immensely long time. Not when measured in years, because it was only a few centuries, but when measured in capabilities.
 
-Moving so many squares in the game of life required giant evolutionary leaps. These jumps were only possible by decoding the fundamental rules of nature more precisely than ever before. Mastering the rules of the game in such a way meant moving from philosophical contemplation to scientific exploration.
+Moving so many squares in the game of life required giant evolutionary leaps. These jumps were only possible if we decoded the fundamental rules of nature more precisely than ever before.
 
-Because it science was so accurate, it took more work to unlock.
+Moving from philosophical contemplation to scientific precision, was quite hard to unlock. Just For our Volkov to gain the abilities he needed, there was riddle, with three big facts to overcome.
 
-We've already seen how cultures studied depended on the stars as a map and calendar. Most peoples did astronomy and developed charts to predict where celestial should be in the future. Polynesians certainly did when moving across oceans. Ancient China's astrology was particularly good at keeping such records. Aristotle's and Ptolemy's system was the most sophisticated and adopted. Even after a thousand years, it was still in use when Catholic religious leaders (mainly St. Thomas Aquinas) wanted to marry it with their faith, for, among other reasons, to ensure the timing of ceremonies like Easter was accurate.
+- The Earth was the center of the Universe.
+- Any celestial object moves in perfect circles. 
+- The rules that control the stars and Earthlings are fundamentally different.
 
-This is how scientific and western religious texts came to proclaim the Earth was the center of the universe. If you remember this geo-centric system had the Sun and Moon revolving in perfect circles around us, while the planets orbited in epicycles, with special rules for Mercury and Venus. The system was based on their being a strict divide between the natural laws of the "celestial spheres" and us Earthlings.
+Aristotle's and Ptolemy's system put these ideas in place. And, people went with it for over a thousand years because it worked pretty well. That's why Catholic religious leaders, mainly St. Thomas Aquinas (1225–1274) married it with their faith, for, among other reasons, to ensure the timing of ceremonies depending lunar cycles and solar year, like Easter, was accurate.
 
-Regardless of their wide adoption, the star charts developed using this geo-centric system were only accurate for so long. After a few centuries, planet locations like Saturn would be up to 2 degrees off, about four times the width of the Moon as seen from Earth. At the time these inaccuracies were an inconvenient truth people were happy to ignore. Because after changes were made to the predictions, the system worked pretty well for several lifetimes.
+This wedding of faith and astronomy made questioning this worldview all the harder.
 
-Thus, as time passed, a increasing back log of mistakes and corrections gave inquisitive minds reason to ask questions. This especially happened in the Renaissance, when ancient thinkers were re-introduced into Italy, France, and other parts of Europe wanting to leave their relative backwardness in the Middle Ages behind them.
+Regardless of their wide adoption, the star charts developed using this geo-centric system were only accurate for a few centuries. Their predicted planet locations would be off by about four times the width of the Moon as seen from Earth. These inaccuracies were an inconvenient truth people were happy to ignore. After all, with minor adjustments, the system remained functional for generations.
 
-In this environment, Nicholas Copernicus (1473-1543) offered a new idea. Perhaps the Earth was just another planet revolving around the Sun. He worked on the idea for 40 years, and was actually inspired by the work of Aristarchus of Samos, an ancient Greek who developed a Sun centric system 2000 years prior.
+But, as time passed, an increasing back log of mistakes gave inquisitive minds reason to ask questions. This especially happened in the Renaissance, when ancient thinkers were re-introduced into Italy, France, and other parts of Europe wanting to use the Socratic method to leave their relative backwardness in the Middle Ages behind them.
 
-So reluctant was he to release his work, Copernicus only saw his published work on his death bed. Even so, "On the Revolution of Heavenly Spheres" caused such a stir it's why we think "revolution" means political turmoil.
+In this environment, Nicholas Copernicus (1473-1543) offered a new solution. Perhaps the Earth was just another planet revolving around the Sun. He was actually inspired by the work of Aristarchus of Samos, an ancient Greek who developed a Sun centric astronomy 2000 years prior.
 
-Despite his impact, Copernicus only fixed half the problem. He still thought planets orbit in perfect circles. Regardless, he changed how people thought. Gone was the huge reliance on settling disputes or observations by relying on authority's of the past, in church, hierarchy, and thinkers like Aristotle.
+Copernicus worked on his radical idea for 40 years. So reluctant was he to release his work, he only saw the published book on his death bed. Even so, "On the Revolution of Heavenly Spheres" caused such a stir it's why we think "revolution" means political turmoil.
 
-Now each person had to reconcile their beliefs with their observations in the real world. This was especially needed because with Gutenberg's moveable type printing press (1450) dramatically sped up publishing. Now people's ideas and observations, in astronomy and physics, but also in medicine, chemistry, and other fields too, were spreading far and wide and needing to be reviewed.
+Thereby one of the pillars of Aristotle Ptolemy system began to fall. Copernicus had proposed more than an idea. His book gave permission to question problems. Gone was the automatic reliance on settling disputes or explaining observations by relying on authority's of the past, in church, hierarchy, or thinkers like Aristotle.
 
-For example, Tycho Brahe (1546-1601) was an astronomer who wanted to know if Ptolemy or Copernicus was correct. So he invented a way to keep remarkable accurate astronomical observations, and then invented his own system that tried to combine the two systems. He was wrong of course, but his observations were so good he attracted someone who knew better.
+Because of Copernicus, each person had to reconcile their beliefs with their observations in the real world. This was especially needed because with Johannes Gutenberg's moveable type printing press (1450) book publishing was dramatically sped up. Now many people's ideas and observations, in astronomy and physics, but also in medicine, chemistry, and other fields too, were spreading far and wide.
 
-His assistant Johannes Kepler (1571-1630) had poor eyesight but a great mathematical mind. After much analysis of Tycho's data he realized that the planets orbited the Sun not in perfect circles, but in ovals called ellipses. He thus derived what became Kepler's laws of planetary motion:
+The riddle was up against a deluge of thoughts, ideas, and observations.
 
-1. The orbit of a planet is an ellipse with the Sun at one of the two foci.
-2. A line segment joining a planet and the Sun sweeps out equal areas during equal intervals of time.
-3. The square of a planet's orbital period is proportional to the cube of the length of the semi-major axis of its orbit.
+One of the biggest challenges was Tycho Brahe (1546-1601). He was an astronomer who invented a way to keep remarkable accurate astronomical observations. His astronomy tried to combine Ptolemy with Copernicus with no success.
 
-And, it worked! Once Copernicus Sun-centric model planet was modified to move in ellipses orbits, the predictions of our astronomy, math, and stellar observations were perfectly in sync.
+His assistant Johannes Kepler (1571-1630) knew better. With his great mathematical mind, he analyzed Tycho's data he realized that the planets orbited the Sun not in perfect circles, but in ovals called ellipses. He thus derived what became Kepler's laws of planetary motion.
 
-The system worked so well that in 1582 the Gregorian calender was introduced. Because religious dates are set according to equinoxes, dates like Easter were increasingly inaccurate. Jesuit monks felt obligated to improve that, and so did the math reworked the Julian calendar by modifying when leap years are used. Now humanity had a calendar that was good for the next 4,000 years.
+And, they worked!
 
-Humanity had spent thousands of years looking up at the heavens and tried to make sense of the orchestra of lights and movements we saw. And now, we finally had a way to know where the planets and moons will be thousands of years into the future. We today don't realize it was common for our ancestors to throw away their calendars and start over, because of this achievement.
+Thereafter, the second pillar of the riddle was gone, celestial objects did not move in perfect circles. Once Copernicus Sun-centric model astronomy was modified to move in elliptical orbits, its predictions of our astronomy, math, and stellar observations were perfectly in sync.
 
 But no one knew why yet. Meaning we could observe the natural laws but didn't understand what force drove them.
 
-Until Isaac Newton came along. He invented new math called calculus to explain Brahe's observations and Kepler's laws. Newton showed in 1687 that both happened because of something called universal gravitation. Meaning the not only was the Earth not the center of the Universe, the physics of the "the heavens" and Earth in fact have the same natural laws. The final piece of the puzzle had fallen into place. 
+Whilst people battled it out over publications and conferences, there was much progress being made using all these improvements. For one, in 1582 the Julian calendar was updated into the Gregorian calender we used today, and that is accurate for the next 4,000 years.
+
+Galileo (1564-1642) also made a monumental contribution by inventing the telescope. He pointed it up at space and saw for himself the planets had moons, Venus had phases, neither of which would be possible if the Earth was the center of the Universe. Since seeing is believing it slowly became it easier for people to accept the idea.
+
+Still, without knowing why the heavens moved, the question was still up for debate. Gladly, the question was decided so convincingly that it would start the Science Age.
+
+Because Isaac Newton (1643-1727) came along. Among many other achievements, he invented new math called calculus to explain Kepler's laws. Newton showed something called universal gravitation moved the planets as well as falling apples on Earth. Meaning the physics of the "the heavens" and Earth in fact have the same natural laws. The final piece of the riddle had fallen. 
 
 Thus, Newton was able to write the laws of motion:
 
@@ -1051,18 +1057,17 @@ Thus, Newton was able to write the laws of motion:
 2. At any instant of time, the net force on a body is equal to the body's acceleration multiplied by its mass or, equivalently, the rate at which the body's momentum is changing with time.
 3. If two bodies exert forces on each other, these forces have the same magnitude but opposite directions.
 
-Of course the math behind all these statement fills volumes. Yet, for our purpose, the evolutionary jumps needed for our imaginary Soviet space navigator Volkov (I can't find the real scientist yet) used these mathematical equations and pretty much nothing more.
+Of course the math behind all these statement fills volumes. Yet, for our purpose, the evolutionary jumps needed for spaceflight navigation orbital dynamics were completed. Of course the technological jumps needed to build the space ships not to mention the calculators and computers needed complete the daunting calculations, took centuries. Regardless, the space navigators in the Moon race used Newton's math and not much else.
 
-Of course the technological jumps needed to build the space ship took centuries to complete. As did getting the calculators and computers to actually do the calculations. But strictly speaking the breakthrough needed to calculate space flight trajectory was done by the time of Isaac Newton.
+Newton required no occasional updates, rationalizations, or inconvenient truths.
 
-That is the power of scientific understanding. It's the answer, and thus repeatable across time, and so survives like mythological stories, and philosophical understanding do not. That's why NASA is apt to say "we put Isaac Newton in the driver's seat".
+That is the power of scientific understanding. It's the answer, and thus repeatable across time and space, and so survives like mythological stories and philosophical understanding do not. That's why NASA is often apt to say "we put Isaac Newton in the driver's seat".
 
-But crucially, despite its immense space traveling powers, science is not the only answer. In fact, it cannot live alone.
+Using Newton as the examples, the Science Age proceeded to unlock many more rules of the game. Regardless, science is not the sole destination in the game of life.
 
-This is for the same reason lifeforms largely do not compete but cooperate. The three modes of human understanding that the took Polynesians to distant islands, Roman cargo ships to Mediterranean ports, and spaceships throughout the solar system, are each co-dependant in a healthy technological ecosystem.
+This is for the same reason lifeforms largely do not compete but cooperate. The three modes of human understanding that the took Polynesians to distant islands, Roman cargo ships to Mediterranean ports, and spaceships throughout the solar system, are each co-dependant in any healthy technological ecosystem.
 
 We can showcase this best when looking at the perilous manned space missions to the Moon. 
-
 
 --
 
