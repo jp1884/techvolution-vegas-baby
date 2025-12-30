@@ -1188,3 +1188,49 @@ So, although a rose has visible characteristics like flowers to attract pollinat
 These features, hidden inside our DNA, are what species share in common. It is these common features between plants, fungus, animals that work together to keep life alive. The features such as thorns and red flowers are just the jerseys lifeform wear while everyone ultimately plays for the same team.
 
 ===
+
+<!-- was original here, removed because it explains too much too soon -->
+
+## Chapter 1—Earth Is A Game Board
+
+### Introduction
+
+What makes evolution such a persistent and universal process? Why has it been not only around since the beginning of complex life, but the driver of countless species over billions of years?
+
+Answering this question means understanding why lifeforms aren't fundamentally at odds with each other. There is, of course, some conflict. A pack of wolves attacking a bear, or hunting a deer is a daily—and very visible—occurrence. But most creatures, from worms to oak trees to wolves do not even knowingly interact, let alone compete.
+
+Because life is not a game of king of the hill, with only one species left standing. In fact, none would survive if left alone, as no lifeform can exist in isolation.
+
+That's why life creates ecosystems. Inside lifeforms are assigned different roles, each with a strict job. Only when the ecosystem is working properly, can individuals thrive.
+
+An ecosystem is an interdependent system where organisms work with each other. Every organism and species plays a crucial role in the complex web of life. Producers, typically green plants and algae, create their own food through photosynthesis and provide energy for the entire system.
+
+Herbivores like deer and birds eat these plants, simultaneously helping to spread seeds. Carnivores like wolves and eagles keep herbivore populations in check. When creatures die, decomposers like bacteria and fungi break down dead matter and their nutrients, fertilizing the ground to empower the next generation to continue life's evolution.
+
+This circle of life is a constant cycle of energy transfer and nutrient recycling that keeps the ecosystem balanced and functioning.
+
+Balance and momentum are essential. For example, when wolves were removed from Yellowstone Park, the deer soon exploded in population. As they massed near riverbanks, soil was compacted and plants could no longer grow. Once vibrant rivers and creeks were near barren. When wolves were re-introduced, deer numbers were lowered, river soil was no longer compacted, thus plants thrived again and rivers returned to their natural glory.
+
+All because the ecosystem is like a team. Only when each position is filled, is the system in the right balance between all its component individual players.
+
+Ecosystems also include non-living elements like sunlight, water, soil, and climate. Each of these resources change with the seasons. If lifeforms are the players, this varied arena of available energy, food, temperature, and resources makes up a sort of game board for lifeforms to live and die in.
+
+The fundamental forces of nature—physics, chemistry, geology—control this game board. Thus an ecosystem of producers, herbivores, carnivores, and decomposers must continually evolve because their shared game board is constantly altered as per eternal and remorseless laws of nature.
+
+Evidenced by how rare life is, these forces do not make it easy to keep winning the game. That's why lifeforms do not compete. Rather they must collaborate in order to stay alive. Hence, the evolution of life is a timeless and constant process, because the eternal laws of physics, chemistry, and geology are too. 
+
+Understanding the workings of these hidden forces of nature, releases us from being members of the animal kingdom, to being philosophers of it. Evolution's selection process is not a mere random occurrence, but a profound dialogue between life and the fundamental laws of nature. When organisms face challenges like extreme cold, scarcity of food, radiation exposure, or geological disruptions, they are essentially engaging in a complex survival test with the universe's natural laws.
+
+Yet these laws that make life so hard, are also the unyielding framework upon which all creatures must use to construct themselves and live. This survival through adaptation applies to biological and technology life, as both must navigate the same dialogue with nature's fundamental laws.
+
+Only by understanding life's profound struggle to harness and survive against the very laws that challenge its existence can we truly appreciate the remarkable journey of evolution. Because we can never break them, must suffer them whilst using them, the universal laws of nature are effectively the rules of the game of evolution.
+
+As we forge a new technological identity, we must understand these rules. Currently, we too often observe exterior attributes and believe we understand ourselves and each other. But that's like knowing a rose by touching its thorns and smelling its flowers. Visible characteristics are merely surface-level interactions. True understanding of today's human condition emerges from decoding the fundamental laws of nature that shape our existence and influence our daily experiences.
+
+Thankfully, science has already delved into the depths of physics, chemistry, and geology to understand biological life. All we need to do is continue this journey to unravel the mysteries behind our technological evolution.
+
+In the pages that follow, we will lay the groundwork for comprehending the remarkable story of how life, and ultimately human civilization, has emerged and evolved within the constraints of the natural laws.
+
+It's important to note the process of understanding the rules of the game has its own recurring story.
+
+First, we experienced the world through our senses, brains, and simple tools, creating narratives to interpret our perceptions. As tools improved, we gained more understanding and slowly transitioned from mysticism to using philosophy to discern natural laws. Finally, real understanding emerged when scientific instruments and the scientific method tore the face off of nature and showed us the laws that guide not just biological evolution, but our emerging technological species.
