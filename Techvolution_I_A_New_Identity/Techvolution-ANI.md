@@ -696,52 +696,78 @@ Only a new identity will allow us to glimpse behind the curtain of evolution and
 
 ## Chapter 1—There Are Rules to the Game
 
-Imagine you're a person living in a perfectly flat world. Everything in your life is two-dimensional—you have length and width, but no height. Your entire existence is like an avatar living on a computer screen, where you can only move left, right, up, or down, but never can you jump out from the screen.
+Imagine you are a person living in a perfectly flat world. A land where everything is two-dimensional. Your entire existence would be like an avatar living on a computer screen. You can move left, right, up, or down, but never can you jump out from the screen.
 
-Because in this world, there's no depth.
+Because in this world, there's no height.
 
-In this reality, 2D shape determines everything about people and things. Each avatar can't see the world the way we do, from the top down. Instead, they would be like cookie cutters on a baker's table. To each other, they would only be an outline of various edges. Each would experience the world like a person feeling their way through a dark room, using touch alone to determine how many angles a person or thing has.
+In this 2D reality, avatars are like magnets on a fridge, bumper cars on a track, or cookie cutters on a baker's table. To each other, they would only be an outline of various edges. A person would feel an object to know how many angles a person or thing has.
 
-Four angles make a square, five a pentagon, six a hexagon, and so forth into great variety. This reality isn't imaginary. It's how bacteria and microorganisms mostly live, always shoving and pushing past each other in their nearly 2D environments.
+Four angles make a square, five a pentagon, six a hexagon, and so forth into great variety. This reality isn't fake, it's how bacteria and microorganisms often live, ever shoving and pushing past each other, because they're unable to go over or under.
 
-To these creatures, we 3D creatures might appear as merely passing through their 2D world, appearing first as a point, then growing into a circle of some weird shape, then shrinking back to a point again.
+To these creatures, we 3D entities would appear as merely passing through their 2D world, appearing first as a point, then growing into a curved weird shape, then shrinking back to a point again.
 
-This idea is taken from a book called "Flatland: A Romance of Many Dimensions". It's a novella written by Edwin A. Abbott, first published in 1884. It's influential in popularizing dimensional thinking, and often used in mathematics, philosophy, and science education to get people to think of a totally alien environment.
+This imaginary 2D world is taken from a book called "Flatland: A Romance of Many Dimensions". Written by Edwin A. Abbott, it popularized dimensional thinking, and is often used in mathematics, philosophy, and science education to get people to think of a totally alien environment.
 
-By bringing us into a 2D world, Abbott makes us feel lost. And thus opens the door for us to better question and understand our own reality.
+By bringing us into a 2D world, Abbott makes us feel lost. And thus opens the door for us to see ourselves differently and thereby better question and understand our own reality.
 
 We sometimes experience this feeling in everyday life too.
 
-I was once lost in a big city. Still in university, I had a job interview for a good summer position. Happy with my performance (my speech was still struggling) I wanted enjoy the summer weather with  walk. I thought I was going south to the next train stop, but wasn't. It took hours to realize that and was completely disoriented.
+Once, I wanted to enjoy the back country open roads. I thought I was going north and would inevitably hit the highway. Alone, no phone coverage, and no maps or compass it was a blast. I was actually going east and hit nothing. Standing outside the beater car with little gas was quite disorienting.
 
 Many will have more dangerous stories, others more comical, but we all should remember that feeling of being lost. As we forge a new technological identity, we should embrace this ever educational feeling now more than ever.
 
-The reason is for the same reason Abbott wrote his flatland story. Because it's easy for us to forget about the reality we live in, because everything about us, from our eyes, to bones, to mindset, is a by product of this reality.
+For the same reason Abbott wrote his famous story. Because everything about us, from our eyes, to bones, to mindset, is a by product of our reality. 
 
-We cannot leave it anymore than a hexagon can leave Flatland or a bacteria can jump off a petri dish.
+We cannot leave it anymore than a hexagon can leave Flatland or a bacteria can jump off a petri dish. It's easy for us to accept the 
 
-So to understand the reality requires appreciating that the rules of the reality are all powerful, as much as being in two-dimension, or one-dimension reality does.
+To understand our existence requires thinking outside our own dimensions. And because two-dimensions control the fates of squares, our reality is similarly controlled by all-powerful rules.
 
-These rules, like physics and chemical laws, exist. But unlike chess or Monopoly there is no rulebook to read, or program to hack. In fact, life can be thought of as a game because we must understand, use, and overcome these points as best we can.
+Our reality has more  to be sure. Physics, chemistry, mathematics, and others exist. They make a rulebook, but unlike chess or Monopoly there is no booklet to read or program to hack. Nor does our reality ever ask for feedback from us. Instead, life can be thought of as a game of trying to overcome, utilize, and understand these rules well enough to survive.
 
-This is what life's evolution is such a persistent and universal process. It's been around since the beginning of complex life, and the driver of countless species over billions of years, because there's no other way to know what's out there but to feel, touch our way in the darkness.
+This is what life's evolution is such a persistent and universal process. It's been around since the beginning of complex life, and the driver of countless species over billions of years, because there's no other way to know what's out there in the universe but to venture out and find out.
 
-We can of course find out easily via physical sensation. Touching, smelling, seeing things, and letting the pleasures of success and the pains of failure slowly change our habits to follow the former and avoid the latter. We can imagine what this is like for new beings in a reality if we stop drinking, eating, wearing clothes. If you lack the willpower, stop paying your bills and someone will educate you on their value in our world by taking them away. Either way, this will be an education via pain.
+Touching around in the darkness means much work. Our senses—touch, smell, and sight—become crude teachers. Success brings pleasure, failure brings pain, and slowly these experiences guide us to repeat what works and avoid what doesn't. We can imagine this learning method anytime we stop drinking for a few hours. Thirst will soon drive anyone to seek water to stop their pain.
 
-However, our journey for a new identity is intellectual.
+But we won't truly understand ourselves, we'll simply know how to evolve by fighting off our pains. Instead, we can be like avatars jumping off the screen to see our 2D reality from a higher place. When we know the rules of the game, so we can evolve our new technological identity with purpose and intention.
 
-Because our best life depends not on fighting the rules of our reality, but on understanding them. Just as a two-dimensional being must accept its constraints to navigate its world, we must recognize the fundamental laws that govern our existence. Our deep comprehension is the foundation for the mastery needed to knowingly move from being biological to technological beings,
+We need to. 
 
-This reality isn't theoretical. If a 4D being were ever to visit us, it wouldn't be in flatland, but here, were we live on Earth, and there are rules to living here that do not care about our wants, plans, or beliefs.
+Internet Age technology is changing our existence very fast and in countless ways. One example is the Mars rovers. These are technological explorers navigating an alien place. They extend human perception beyond our biological limitations, sending back information from another planet that transforms our understanding of existence.
 
-Even so, this is our home.
+This is not unlike a 3D sphere being passing through a 2D world.
 
-Thus Earth is a complex arena where the fundamental rules of our reality—physics, chemistry, geology—converge to create the an intricate survival challenge. Gravity, fire, mountains, sunlight, we need everything that is here in some way. And they're all here for a reason.
+With so much technological change today, our best life depends on understanding the rules of the reality we inhabit. Just as a two-dimensional being must accept its constraints to navigate its world, we must recognize the fundamental laws that govern our existence. There are rules to living here that do not care about our wants, plans, or beliefs anymore then Flatland cares about a triangle or square.
 
-Our planet is not just a place of existence, but a proving ground where the laws of nature constantly probe, challenge, and select for adaptation, revealing which feelings in the dark endure and which will be eliminated in this relentless, ongoing experiment of survival.
+Our deep comprehension is the foundation for the mastery we need to move from being biological to technological beings.
+
+Thus Earth is a complex arena where the fundamental rules of our reality—physics, chemistry, geology—converge to create an intricate survival challenge. Gravity, fire, mountains, sunlight, we must use or overcome everything this reality contains.
+
+Because we are outsiders, who unlike everything else in the universe, grow, learn, love, and die. Better yet, we are players who must have shelter, food, water, and procreation to stay alive.
+
+Therefore, unlike Flatland, our planet is not just a place of existence, but a proving ground where the laws of nature constantly probe, challenge, and select only a few to live on to keep playing the game of survival. Each of us is a unique shape, the goal is to empower us all to rise above the darkness in this relentless, ongoing experiment of survival.
+
+So let's jump up off the screen and see what the game board of our three dimensions looks like.
+
+## Chapter 2—Earth Is The Game Board
+
+In Flatland, the a sphere visits the 2D world. When a square asks him what he is and where he comes, the sphere takes the pair down one level to 1D world. Here there are only points on a single line, like morse code dots.
+
+This world again is not make belief. It exists. In fact, the information streamed over your phone arrives by it as it travels through fiber optic cable. Light travels in one dimension. It can intersect with other streams and never interferes.
+
+That's how so much digital information, ones and zeroes similar to morse code, can travel the world round in microseconds. Through the power of one dimensional light.
+
+To be science about it, light waves do not "block" each other. Instead, they mathematically combine according to their wave properties at the point of intersection. This behavior is described by electromagnetic wave theory and quantum electrodynamics.
+
+And this rule of physics has been around since just after the Big Bang over 13.4 billion years ago. 
+
+And that's just one rule. 
+
+Everything that is on this Earth, from the starlight to the smartphone is here because of a rule of the game in this 3D reality. And these rules are manifested our game board we call Earth.
 
 
-## Chapter 2—Earth Is A Game Board
+
+
+
 
 
 
