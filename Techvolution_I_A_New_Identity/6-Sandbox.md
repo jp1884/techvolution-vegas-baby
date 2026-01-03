@@ -1234,3 +1234,63 @@ In the pages that follow, we will lay the groundwork for comprehending the remar
 It's important to note the process of understanding the rules of the game has its own recurring story.
 
 First, we experienced the world through our senses, brains, and simple tools, creating narratives to interpret our perceptions. As tools improved, we gained more understanding and slowly transitioned from mysticism to using philosophy to discern natural laws. Finally, real understanding emerged when scientific instruments and the scientific method tore the face off of nature and showed us the laws that guide not just biological evolution, but our emerging technological species.
+
+===
+
+Processing insurance claims is challenging but often rewarding too. Many times you get to actually help people. One of my favorites was just before Christmas. A young family's home was broken into, presents stolen, and worst their fire extinguisher was sprayed all through the house out of pure malice.
+
+A real-life grinch had arrived.
+
+The particles looked like snow, but need to be clean up. Normally it would be a week or so of a hotel stay while. But it being Christmas, I wanted to help a family enjoy the season. 
+
+So I arranged a temporary condo for them, approved buying new presents, and got the place decorated for Christmas. The parents appreciated it very much. It kind of felt like the end of Home Alone 2 being when the Toy Store filled the McAllister family's Plaza hotel room.
+
+The season creates so much good will between people because the power of presents. Something wrapped in paper creates anticipation that create a sense of wonder.
+
+That is the sense I want to tap into here. For to understand why technological evolution should give us a new identity means to open a present. Wanting to know what it is, and the first thing you grab is a booklet.
+
+===
+
+Insurance claims can be stressful. People have a unplanned problem and want their the insurance policy they've never read will save them. But each person has a different idea what constitutes a problem and a solution. 
+
+But as already mentioned, being at the intersection of what customers think will happen after a encountering a theft, flood, or other real-world problem, versus what is going to happen, is an excellent education in what is happening in the world today.
+
+Some claims are straightforward—a rational person deals with a broken window, a fender bender. Buy them a new one and they're happy to move on. However, claims become puzzles when people's mindsets get pricked. Either they feel neglected, misled by marketing, or think their stuff is more valuable than the market does.
+
+These puzzles never declare themselves. Instead, they're revealed by listening to the person to understand their problems and mindset. Doing this assessments all day, thousands of times, is what helped informed me about our technological identity.
+
+Before we begin that long journey, here's story about how. It's one of my most memorable claims. It arrive one cold December afternoon, just days before Christmas.
+
+What we call the "Notice of Loss" arrived on my desk. A young family's home had been robbed. I called the parents and found out someone—likely some punks but maybe a someone with a gripe—had broken in, stolen appliances, cash, jewelry, and even the presents under the tree.
+
+Worst as, the criminals embodied the infamous Grinch. Upon leaving, they sprayed the entire house with a fire extinguisher. The white chemical powder blanketing every surface may have looked like snow, nut its unsafe, especially for kids. In the middle of the holiday season, a family home was turned into a violated, thieved, uninhabitable space.
+
+Yet, the parents were only talking about one thing. It wasn't their hurt feelings or the the true market value of their family heirlooms (which is common). They only cared about their kids lost Christmas.
+
+Claims always pile up this time of year, and this one was not any more tragic then the house fires and car thefts I would deal with all day. I could have followed procedures and asked them to get the police report number, write alist of their stolen items, assign cleaning contractors, authorize a hotel stay, and move on to the next case.
+
+But this was Christmas, and getting to problem solve in meaningful ways made this otherwise grubby job occasionally joyful.
+
+Let's spread some cheer!
+
+So, instead of a week in a hotel, I found them a fully furnished condo and had it decorated for Christmas. I also expedited the claim payments to quickly replace their stolen presents.
+
+Within a few days, the family had bedrooms, a full kitchen, a tree, wrapped presents, even milk and cookies. Everything they needed to make Hallmark quality memories. It kind of felt like the end of _Home Alone 2_ when the McCallister family woke up to many presents in their Plaza hotel room.
+
+The parents were grateful and congratulated me on my recent promotion. Unlike most feedback, which comes when something goes wrong, their comment "I can see why you got it" was particularly meaningful. I'd solved their problem by understanding their mindset, not just following standard procedures.
+
+I didn't always manage to solve a problem so well. But this one shows what it takes.
+
+There's a mixture of rules like insurance and legal, ever present but rarely understood. People a unique mindset and goal. And variety of technology that needs to be customized to solve the problem while satisfying the person's mindset and not contravening the rules. 
+
+The lesson we need here, is while problems have obstacles rules in between optimal solution, the more complex the problem the deeper we must go to to find the underlying structures.
+
+And, updating our own self-perceptions with a new technological identity requires us to go very deep indeed. 
+
+So let me offer up another present. It's sitting under the tree with your name on it. Like a joyous kid, I hope you grab it with huge anticipation, tear apart the bow, wrapping paper, and toss open the box.
+
+What's inside? A journey into understanding how technology reshapes who we are.
+
+So you grab the first thing you see. A booklet.
+
+===
