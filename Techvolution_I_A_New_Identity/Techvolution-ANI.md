@@ -696,53 +696,57 @@ Only a new identity will allow us to glimpse behind the curtain of evolution and
 
 ## Chapter 1—Presents Under the Tree
 
-We have a long history of competing against each other. Numberless wars, raids, conquests showcase that well enough. Even today in our relative peace, people rarely vote outside—what their beliefs say—are their interests. To actually solve our problems, we need to update our identity and mindsets to accept the primacy of our technological identity. Only then will we harness natural laws to grow and harvest from a vibrant technological ecosystem and thereby combat our true enemy.
+We have a long history of competing against each other. Numberless wars, raids, conquests showcase that well enough. Even today, in our relative peace, people typically vote their self-interests but distress when others do the same.
+
+To actually solve our problems, we need to update our identity and mindsets to accept the primacy of our technological identity. Only then will we harness natural laws to grow and harvest from a vibrant technological ecosystem and thereby combat our true enemy.
 
 Who is our true enemy?
 
-With so many ideologies and beliefs in our minds, it will take some doing to understand that question. 
-
-Let's start that long journey, with short story. It's about one of my most memorable claims. 
+With so many ideologies and beliefs in our minds, it will take some doing to understand that question. Let's start that long journey with a short story about one of my most memorable claims. 
 
 It was late one cold December afternoon, just days before Christmas.
 
-A young family's home had been robbed. Someone had broken in, stolen appliances, cash, jewelry, and even the presents under the tree. The criminals did something even worse. They heartlessly sprayed the entire house with a fire extinguisher. The white chemical powder blanketed every surface, and although it looked like fake snow, it's actually unsafe, especially for kids.
+A young family's home had been robbed. Someone had broken in, stolen appliances, cash, jewelry, and even the presents under the tree. Sadly, the criminals didn't stop with theft. They also heartlessly sprayed the entire house with a fire extinguisher. The white chemical powder blanketed every surface, and although it looked like fake snow, it's actually unsafe, especially for kids.
 
-In the middle of the holiday season, a family home was turned into a violated, thieved, uninhabitable space.
+Days from the big night, a family home was turned into a violated, thieved, unlivable space.
 
-Yet, the parents were only talking to me about one thing. It wasn't their hurt feelings or the true market value of their family heirlooms (which is common). They only cared about their kids lost Christmas.
+Yet, while listening to the parents, it was clear they only cared one thing. It wasn't the arduous police and insurance paperwork or the true market value of their family heirlooms (which is common). Their pain was for their kids lost Christmas.
 
 Time to fight the Grinch and spread some cheer!
 
-So, instead of the hotel customers would usually get, I got them a fully furnished condo and had it decorated for Christmas. I also expedited the claim payments to quickly replace their stolen presents.
+So, instead of the hotel customers would usually get for this type of claim, I got them a fully furnished condo and had it decorated for Christmas. I also expedited the claim payments to quickly replace their stolen presents.
 
-Within a few days, the family had big bedrooms, a full kitchen, a beautiful tree, wrapped presents, even milk and cookies. Everything they needed to make Hallmark quality memories. It kind of felt like I helped creating the ending of _Home Alone 2_ when the McCallister family woke up to many presents in their Plaza hotel room.
+Within a few days, the family had warm bedrooms, full kitchen, beautiful tree, wrapped gifts, even milk and cookies for the big guy. Everything they needed to make Hallmark quality memories. It felt like I helped create the ending of _Home Alone 2_ when the McCallister family woke up to many presents in their Plaza hotel room.
 
-The parents were very grateful. Unlike most feedback, which comes when something goes wrong, they congratulated me on my recent promotion. Their comment "I can see why you got it" was really nice to hear.
+The parents were very grateful. They even congratulated me on a promotion: "I can see why you got it" was really nice to hear.
 
-All because their kids knew Santa would find them in this nice, if temporary, home.
+I received so much thanks because I helped their kids believe that Santa could find them in this nice, if temporary, home.
 
-And that is the important point of this story: to simply remember what it was like being a child opening a gift. It's easy to forget that feeling, especially because as parents we will move heaven and Earth for our kids to enjoy it. The anticipation is hard to create and must be seized when it appears. Once grasped, it prepares us to embrace the wonders of something entirely new.
+The point of this story is to put you in a unique frame of mind. To step away from the fighting so prevalent in our politics, or the angst of everyday life. I want you to remember the childish glee you once had when holding a present.
 
-So, on our journey to solve our problems and update our self-identity, I invite you to wake up and run towards a present made just for you. Perhaps it's for your birthday, anniversary, or favorite holiday. Whichever it is, the gift is wrapped in silver and gold, and sitting there with your name on it. Like a child who forced herself to sleep that night, I hope you grab it with a hug, tear apart the bow and wrapping paper, and toss open the box with pure, unbridled joy.
+So, on our journey to solve our problems by updating our self-identity, I invite you to wake up and run towards a gift wrapped box. It could be your birthday, graduation, or favorite holiday. Either way, the gift is wrapped in silver and gold and sitting there with your name on it.
 
-So that when you see what's inside, you will need to know everything.
+Like a child who forced herself to sleep that night, I hope you grab it with a hug, tear apart the bow and wrapping paper, and toss open the box with pure unbridled joy that can't wait to embrace the wonders of something entirely new.
 
-There's a sand clock, board game, modeling compound, and booklet. Your insatiable curiosity makes you wonder how will these transform our understanding of human identity so that we jointly fight our shared enemy?
+Inside, you discover:
+
+Sand clock, board game, modeling compound, and booklet. You wonder: How do these four seemingly ordinary objects reshape human identity and unite us against our common enemy?
+
+Infected with curiosity, you pick up the booklet, and...
 
 ## Chapter 2—The Rules to the Game
 
-You pick up the booklet and open its pages.
+You pick up the booklet and flip to its first page.
 
-It starts off with "Imagine you are a person in a perfectly flat world. A land where everything is two-dimensional." As you continue reading you make sense of the words by thinking your entire 2D existence would be like an avatar living on a computer screen. You can move left, right, up, or down, but never can you jump out from the screen.
+It starts off with "Imagine you are a person in a perfectly flat world. A land where everything is two-dimensional." As you continue reading you learn of a 2D existence is like an avatar living on a computer screen. You can move left, right, up, or down, but never can you jump out from the screen.
 
 Because in this world, there's no height.
 
-In this 2D reality, avatars are like magnets on a fridge, bumper cars on a track, or cookie cutters on a baker's table. Only able to move two ways, a person would have to feel an object to know about it. People and things are just outlines of various polygons.
+In this 2D reality, avatars are like magnets on a fridge, bumper cars on a track, or cookie cutters on a baker's table. Only able to move two ways, a person would have to feel an object to know about it. Everything person and thing are just outlines of various polygons.
 
 Four angles make a square, five a pentagon, six a hexagon, and so forth into great variety. To these creatures, we 3D entities would appear as merely passing through their 2D world, appearing first as a point, then growing into a curved weird shape, then shrinking back to a point again.
 
-This booklet opens with an adaption of imaginary 2D world "Flatland: A Romance of Many Dimensions". Written by Edwin A. Abbott, it popularized dimensional thinking and is often used in mathematics, philosophy, and science education to get people to think of totally alien environments.
+This booklet says it takes this idea from "Flatland: A Romance of Many Dimensions". Written by Edwin A. Abbott, that book popularized dimensional thinking and is often used in mathematics, philosophy, and science education like this booklet to get people to think of totally alien environments.
 
 By bringing us into a 2D world, Abbott makes us feel lost. Learning about Flatland opens the door for us to see our reality differently and thereby better question and understand our own existence.
 
@@ -832,7 +836,7 @@ But why can't we just take our time? Why is there such consequence to our choice
 
 ## Chapter 4—The Ever Present Game Clock
 
-The Hunger Games, hockey, Games come with clocks. Otherwise there would be no rush to actions or limits on retry attempts. The reason why natural laws are rules of the game and the Universe is a game board is because of on specific law.
+The Hunger Games, hockey, most games come with clocks. Otherwise there would be no rush to action or limits on retry attempts. The reason why natural laws are rules of the game and the Universe is a game board is because of one specific law.
 
 Often called the arrow of time, the second law of thermodynamics, or entropy.
 
@@ -990,7 +994,7 @@ Yet things were not perfect. The Earth was not in fact the center of the Univers
 
 ### The Moon
 
-Loudspeakers crackled inside a packed room. Electronic whine burst for a brief second. The place itself was nondescript. Just one of the countless bland office buildings made in the country's massive drive for speedy results. This building was special only because it was in the middle of the Kazakh prairie. An environment of endless sand, wind, and the Soviet Union's invaluable Baikonur Cosmodrome mega-complex.
+Loudspeakers crackled inside a packed room. Electronic whine burst for a brief second. The place itself was nondescript. Just one of the countless bland office buildings made in the country's massive drive for results. This building was special only because it was in the middle of the Kazakh prairie. An environment of endless sand, wind, and the Soviet Union's invaluable Baikonur Cosmodrome mega-complex.
 
 Mikhail Sergeyevich Volkov's colleagues gathered around him. They were the designers, now watching with anticipation and restraint to see how their ideas worked out. Years of grueling Soviet scientific training had trained them to restrain their emotions, but today was different. Today was history.
 
