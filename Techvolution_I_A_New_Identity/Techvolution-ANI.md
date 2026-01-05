@@ -696,41 +696,45 @@ Only a new identity will allow us to glimpse behind the curtain of evolution and
 
 ## Chapter 1—Presents Under the Tree
 
-We have a long history of competing against each other. Numberless wars, raids, conquests showcase that well enough. Even today, in our relative peace, people typically vote their self-interests but distress when others do the same.
+We have a long history of competing against each other. Numberless wars, raids, and conquests showcase that well enough. Even today, in our relative peace and prosperity, people commonly vote their self-interests while often becoming confrontational when others do the same.
 
-To actually solve our problems, we need to update our identity and mindsets to accept the primacy of our technological identity. Only then will we harness natural laws to grow and harvest from a vibrant technological ecosystem and thereby combat our true enemy.
+To better solve our problems, we need to update our identity and mindsets to accept the primacy of our technological identity. Only then will we harness natural laws that empower us to grow and harvest from a vibrant technological ecosystem. Only then we will together confront our true enemy.
 
 Who is our true enemy?
 
-With so many ideologies and beliefs in our minds, it will take some doing to understand that question. Let's start that long journey with a short story about one of my most memorable claims. 
+With so many ideologies and beliefs in our minds, it will take some doing to understand that question. I'd like to start that long journey by telling you a short story about one of my most memorable claims. 
 
-It was late one cold December afternoon, just days before Christmas.
+It came in one cold December afternoon, a few days before Christmas.
 
-A young family's home had been robbed. Someone had broken in, stolen appliances, cash, jewelry, and even the presents under the tree. Sadly, the criminals didn't stop with theft. They also heartlessly sprayed the entire house with a fire extinguisher. The white chemical powder blanketed every surface, and although it looked like fake snow, it's actually unsafe, especially for kids.
+A young family's home had been robbed. Someone had broken in, stolen appliances, cash, jewelry, and even the presents under the tree. Sadly, the criminals didn't stop with theft. They also heartlessly sprayed the entire house with a fire extinguisher. The white chemical powder blanketed every surface, and although it looked like fake snow, it is actually unsafe, especially for kids.
 
 Days from the big night, a family home was turned into a violated, thieved, unlivable space.
 
-Yet, while listening to the parents, it was clear they only cared one thing. It wasn't the arduous police and insurance paperwork or the true market value of their family heirlooms (which is common). Their pain was for their kids lost Christmas.
+Yet, while listening to the parents, it was clear they only cared one thing. It wasn't the arduous police and insurance paperwork, or the correct market value of their family heirlooms. Their pain was only for their kids lost Christmas.
 
 Time to fight the Grinch and spread some cheer!
 
-So, instead of the hotel customers would usually get for this type of claim, I got them a fully furnished condo and had it decorated for Christmas. I also expedited the claim payments to quickly replace their stolen presents.
+So, instead of the typical hotel stay, I got them a fully furnished condo and had it decorated for Christmas. I also expedited the claim payments to quickly replace their stolen presents.
 
-Within a few days, the family had warm bedrooms, full kitchen, beautiful tree, wrapped gifts, even milk and cookies for the big guy. Everything they needed to make Hallmark quality memories. It felt like I helped create the ending of _Home Alone 2_ when the McCallister family woke up to many presents in their Plaza hotel room.
+Within a few days, the family had warm bedrooms, full kitchen, glistening tree, wrapped gifts, even milk and cookies for the big guy. Everything they needed to inspire Hallmark memories. It felt like I helped create the ending of _Home Alone 2_ when the McCallister family woke up to many presents in their Plaza hotel room.
 
-The parents were very grateful. They even congratulated me on a promotion: "I can see why you got it" was really nice to hear.
+The parents were very grateful. They even congratulated me on my recent promotion: "I can see why you got it" was really nice to hear.
 
-I received so much thanks because I helped their kids believe that Santa could find them in this nice, if temporary, home.
+I received so much thanks because by getting them a home, their kids never stopped believing Santa could find them on Christmas Eve.
 
-The point of this story is to put you in a unique frame of mind. To step away from the fighting so prevalent in our politics, or the angst of everyday life. I want you to remember the childish glee you once had when holding a present.
+Not all claims ended so well. I must admit I cherish this one.
 
-So, on our journey to solve our problems by updating our self-identity, I invite you to wake up and run towards a gift wrapped box. It could be your birthday, graduation, or favorite holiday. Either way, the gift is wrapped in silver and gold and sitting there with your name on it.
+The point of this story is, however, somewhat different. As we journey to better solve our problems by updating our self-identity, I want to put you in a unique frame of mind. To step away from the fighting so prevalent in our politics, or the angst of everyday life. I want you to remember the childish glee you had when holding a present.
 
-Like a child who forced herself to sleep that night, I hope you grab it with a hug, tear apart the bow and wrapping paper, and toss open the box with pure unbridled joy that can't wait to embrace the wonders of something entirely new.
+It could be your birthday, graduation, or favorite holiday. Whichever memory is your most precious, I invite you to embrace the feeling. Because there's another one waiting for you. 
 
-Inside, you discover:
+It's time to wake up and run downstairs to see the gift. It is wrapped in silver and gold with your name elegantly written in deep black ink.
 
-Sand clock, board game, modeling compound, and booklet. You wonder: How do these four seemingly ordinary objects reshape human identity and unite us against our common enemy?
+As you lift it into the air, you clench it with a hug. Soon you tear apart the bow and wrapping paper, and toss open the box with pure unbridled joy. You can't wait to embrace the wonders of something entirely new.
+
+Inside this present, you discover:
+
+Sand clock, board game, modeling compound, and booklet. Now you wonder: How do these four seemingly ordinary objects reshape human identity and unite us against our common enemy?
 
 Infected with curiosity, you pick up the booklet, and...
 
@@ -789,6 +793,8 @@ The more knowledge the better. Unlike nearly everything else in the universe, we
 Therefore, unlike Flatland, our planet is not just a place of existence, but a proving ground where the laws of nature constantly probe, challenge, and select only a few to live on to keep playing the game of survival. Each of us is a unique shape, the goal is to empower us all to rise above the darkness in this relentless, ongoing experiment of survival.
 
 So let's jump up off the screen and see what the game board of our three dimensions looks like.
+
+- Christmas story tie-in, potentially, "such if the power of getting an unknown piece technology, it can actualize a part of our psyche that would otherwise be left dormant."
 
 ## Chapter 3—Earth: The Emergent Game Board
 
