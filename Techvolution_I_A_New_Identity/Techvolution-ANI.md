@@ -840,55 +840,81 @@ But why can't we just take our time? Why is there such consequence to our choice
 
 ## Chapter 4—Sandglass: The Ever Present Clock
 
-Mount St. Helens was formed 300,000-years ago. Towered over the landscape for eons. Then in 1980, what scientists thought would be a small eruption, turned catastrophic. Instead of an eruption with lava flow, the mountain exploded. In a brief moment, half of it was gone, releasing so much energy that tons of ash blew into the air, tons of rock flowed downwards, and huge winds flattened the surrounding landscape for miles.
+Mount St. Helens is very majestic site. For 300,000 years, it towered over the landscape like a Bob Ross nature painting. Then in 1980, what scientists thought would be a small eruption, turned catastrophic. Instead of a—still dangerous—lava flow, the mountain exploded. In a brief moment, half of it was gone. The explosion released so much energy that tons of ash blew into the air and huge winds flattened the surrounding landscape for miles.
 
-The mountain and the area around it will never be the same.
+An estimated 57 people died. There were billions of dollars worth of damages. The landscape is still very scarred even all these years later. We can hope that the next years will be peaceful, but we can never know when the next eruption will come.
 
-This fateful moment happened on May 18, 1980, at 8:32 a.m. The scars are still visible even 45 years later. But there's more to time than tracking how many times Earth's revolved around the Sun. After all, time exists far away from our local star.
+Why?
 
-So, what are we tracking? What is time?
+There is a universal law at play, just like gravity. Science calls it the second law of thermodynamics. It's most commonly called entropy. This is fundamental law that describes how energy systems naturally tend to increase in disorder over time.
 
-Like gravity has a universal law, so does time. Science calls it the second law of thermodynamics. It's most commonly called entropy.
+Using volcanoes as an example. A volcano is a geological formation where molten rock, gases, and debris erupt from the Earth's crust through a vent or fissure, typically formed by the movement of tectonic plates and the intense heat and pressure within the planet's super hot interior.
 
-This is fundamental law that describes how energy systems naturally tend to increase in disorder over time.
+There's only so long that heat can last. Eventually the heat that causes magma to erupt as a volcanic eruption runs out.
 
-Using volcanoes as an example. A volcano is a geological formation where molten rock, gases, and debris erupt from the Earth's crust through a vent or fissure, typically formed by the movement of tectonic plates and the intense heat and pressure within the planet's interior.
+This "cooling down" is entropy and it's universal. You can see the same principle after making a hot cup of coffee. You can try to keep it hot, but it will eventually cool down.
 
-There are only so many times a volcano can erupt. Energy must be built up, and when it releases, it takes work to build up energy again. Eventually the heat that causes magma to need a release as a volcanic eruption runs out.
+Yet entropy is not a force itself like gravity, electromagnetic radiations, nuclear, chemical. These forces collect energy in their own way and use it to change matter from mountains to firecrackers. Entropy is just the outcome of these forces perpetually acting on matter. It's the universe's natural accounting system for energy transformation.
 
-This same principle is universal. A hot cup of coffee can be kept hot with heat, but it will never stay hot on its own.
+There's another consequence of entropy. What happens can never be undone.
 
-There's another aspect of this law. What happens can never be undone.
+A volcano's explosive eruption never spontaneously reverses itself. The energy required to do so only radiates, flows, or bursts away. A pot of coffee can only be fresh once, soon after it's made, it will start to cool.
 
-A volcano's explosive eruption never spontaneously reverses itself. The energy required to do so only radiates, flows, or bursts away. A pot of coffee can only be fresh once, soon after its made, it will start to cool and lose its freshness.
-
-Entropy means a organized system will decay to bland uniformity, and the events leading to that end never reverse on their own. To realize what the second law of thermodynamics does over time, think of this comparison.
+Entropy means an organized system will decay to bland uniformity, and the events leading to that end never reverse on their own. To realize what the second law of thermodynamics does over time, think of this comparison.
 
 Earth and Mars were once about the same. Their cores were hot magma. Their atmospheres thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike most planets Mars and Earth were not bland or boring. Energy from their cores, magnetospheres, and gravity organized mountains, rivers, atmosphere.
 
 As time goes by, entropy attacks this organization.
 
-After enough explosions and wind storms degrade mountains, and solar radiation expels gases from the atmosphere, and enough heat is lost in the core, a planet will become still and motionless, like Mars is today. It's core has mostly frozen, its atmosphere is all but gone, and the planet has no more volcanic eruptions because there is not enough heat left to build up the energy for it.
+After enough explosions and wind storms degrade mountains, and solar radiation expels gases from the atmosphere, and enough heat is lost in the core, a planet will become still and motionless, like Mars is today. Its core has mostly frozen, its atmosphere is all but gone, and the planet has no more volcanic eruptions because there is not enough heat left to build up the energy for it.
 
-Mars shows a world of increasing uniformity and less organization. While Earth (because our still very hot core) has much of it, because our core is still very hot. Even so, billions of years from now, the heat will run our, and Earth will be like Mars too.
+Mars shows a world of increasing uniformity and less organization. While Earth (because our still very hot core) has much of it, because our core is still very hot. Even so, billions of years from now, the heat will run out, and Earth will be like Mars too.
 
-Mount St. Helens, to your cup of coffee, to planet Earth, are all subject to the universal law of entropy. Energy will organize matter, but as energy releases, that state of organization will fall apart.
+Mount St. Helens, to your cup of coffee, to planet Earth, are all subject to the universal law of entropy. Energy will organize matter, but as energy releases because the man natural forces of nature, that state of organization will fall apart.
 
-That is why entropy is often called the arrow of time. Events in the Universe can only happen once. However, we find tiny events that are repeatable enough for us to track time. For shorter events, we can use hour glasses. For longer events we use revolutions around the Sun. These are trackable mini-events. Either way, the Universe is not the same every time they happen.
+That is why entropy is often called the arrow of time. Events in the Universe can only happen once. 
+
+However, we find tiny events that are repeatable enough for us to track time. And this is how we track time.
+
+For shorter events, we can use hour glasses. For longer events we use revolutions around the Sun. Either way, the Universe is not the same every time these repeating events happen.
 
 That's why adding time to our Game of Life removes us from Flatland. By adding time, we've created what Albert Einstein called space time, which combines the three dimensions of space (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
 
-Therefore our Game of Life clock is emergent too. Because your movement in the three dimensions is unique to you, whether being a Mars rover or a student on campus, and so is time. Wherever you do it, and whenever you do it, the moment you read this line will never happen again.
+Therefore our Game of Life clock is emergent too.
+
+Because your movement in the three dimensions is unique to you, whether being a Mars rover or a student on campus, and so is time. Wherever you do it, and whenever you do it, the moment you read this line will never happen again.
 
 Entropy is more than a scientific concept—it is the ultimate game maker, because it changes the game board constantly. It is the force that turns our carefully constructed systems into disorder, the invisible hand that constantly reshapes our game board. You have so much time left before it catches up to you.
 
-Our game clock is thus just a way for us to track this changing game board. Our survival test is can we outrun it. Of course that means we need to be customized to overcome that period in time.
+Our game clock reveals the ultimate challenge: can we create and adapt faster than entropy can break down our carefully constructed systems? This requires a player—a substance—that can be molded to meet whatever challenges the game maker throws our way
 
-Sounds like a job for a substance that can be modeled into any shape the game maker called entropy can through at us.
+
+
+- What is time? In our three dimensions, there is up down, left right, forward and backward. Time is the when, which completed what Albert Einstein called space time, which combines the three dimensions of space  with the dimension of time into a single, interconnected four-dimensional continuum. Time is a coordinate. It's a measurement of when inside the our three dimensions something happened. But how to we track time? And more importantly, why do we
 
 ## Chapter 5—Clay: What Life Is, The Creator of Players
 
+So far we've learned quite a bit about the Game of Life. We've read the booklet which spells out the rules of the game. These are the laws of physics, chemistry, geology, and biology. The lesson we had to learn was accept these laws as immutable and ever present.
 
+Once we admit the rules of the game care not a ounce for our complaints or ideas, we can understand how they come together to create our reality. The rocks in Mount St. Helens to craters on the Moon can be explained by understanding these laws. Anything place we encounter is our game board, a place we must inhabit as we play the Game of Life.
+
+Location is relative. All the iron, gold, and other heavy metals in the Universe were made inside the explosions of a super nova. The gold of your wedding ring was once inside a star.
+
+Time is the last element to bring about the convergence of your situation. The rules of the game, cause the interactions of matter, that create your environment. Entropy is law says this moment will never turn. Energy will collect but expand, blow, forward. Time is an arrow only going forward.
+
+Enter modeling clay.
+
+Because life is made of the same material as everything else in the Universe, yet it needs to change its form to the ever changing situation of the game. Hence the name lifeform.
+
+And that's what life is. It creates bit of material that counteract entropy. Entropy is the release of energy to bring about bland uniformity of all matter into a soup. On the other hand, all creatures actively organize matter that collects more resources.....
+
+
+
+In the misty forests where mountains meet sea, two brown bear brothers faced different paths. Koda turned north, his descendants transforming into polar bears - leaner, with translucent white fur, hunting seals on Arctic ice. Talon journeyed south to California's coastline, his lineage becoming robust coastal brown bears fishing salmon-rich streams.
+
+Generations passed, their shared blood telling different stories. One became a ghost-white Arctic hunter, the other a forest predator. Their divergence proved nature's most profound magic: the ability to change, to survive, to become something entirely new.
+
+This is what clay is....
 
 
 
