@@ -1893,3 +1893,13 @@ To be worked on.
 1. How does the author plan to address the potential criticism that science is not always objective or value-free? The text implies that science is a more accurate and reliable way of understanding the world than mythology or ideology, but this assumption may be challenged by some readers.
 2. What is the author's definition of "mythology" and "ideology"? These terms are used somewhat loosely in the text, and it might be helpful to provide a clearer definition or distinction between them.
 3. How does the author plan to apply the principles of science to the study of politics and economics? The text hints at this application, but it is not entirely clear how the author plans to make this connection.
+
+
+===
+
+Mount St. Helens is very majestic site. It was formed 300,000 years ago through the intense heat and pressure caused by colliding tectonic plates. Once formed, the giant volcano towered over the landscape, with only occasional eruptions disturbing a site worthy of a Bob Ross nature painting.
+
+Then in 1980 it changed. What scientists thought would be a small eruption, turned catastrophic. Instead of a—still dangerous—lava flow, the mountain exploded. In a brief moment, half of it was gone. The explosion released so much energy that tons of ash blew into the air and huge winds flattened the surrounding landscape for miles.
+
+An estimated 57 people died. There were billions of dollars worth of damages. The landscape is still very scarred even all these years later. We can hope that the next years will be peaceful, but another eruption will come at some time.
+

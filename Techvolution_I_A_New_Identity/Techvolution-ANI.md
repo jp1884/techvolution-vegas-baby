@@ -840,65 +840,64 @@ But why can't we just take our time? Why is there such consequence to our choice
 
 ## Chapter 4—Sandglass: The Ever Present Clock
 
-Mount St. Helens is very majestic site. For 300,000 years, it towered over the landscape like a Bob Ross nature painting. Then in 1980, what scientists thought would be a small eruption, turned catastrophic. Instead of a—still dangerous—lava flow, the mountain exploded. In a brief moment, half of it was gone. The explosion released so much energy that tons of ash blew into the air and huge winds flattened the surrounding landscape for miles.
+Ever wondered how the game board is made? I mean, volcanoes, stars, everything, how does it come together into such unique objects? There is no "make a volcano" button like in some video games. Instead, each is a byproduct of the natural laws interacting with each other.
 
-An estimated 57 people died. There were billions of dollars worth of damages. The landscape is still very scarred even all these years later. We can hope that the next years will be peaceful, but we can never know when the next eruption will come.
+Let's see with volcanoes.
 
-But it will. If not at St. Helens then for sure somewhere else.
+Gravity, pulls molten rock downward, while plate tectonics, generates immense pressure and heat, and thermodynamics drives heat transfer and energy transformation the entire time. Mix them together and volcanoes form when molten rock from deep within the Earth's crust pushes up through weak points in the planet's surface. 
 
-We know because there is a universal law at play. Science calls it the second law of thermodynamics. It's most commonly called entropy. This is the fundamental law that describes how energy systems naturally tend to increase in disorder over time.
+Stars are also made with an interaction of natural forces. Gravity concentrates huge hydrogen gas clouds into a dense ball that kick starts nuclear fusion that converts hydrogen to helium. This conversion releases so many photons it sends much radiation into space while counteracting gravity enough to keep the star imploding on itself.
 
-Using volcanoes as an example. A volcano is a geological formation where molten rock, gases, and debris erupt from the Earth's crust through a vent or fissure, typically formed by the movement of tectonic plates and the intense heat and pressure within the planet's super hot interior.
+We could continue non-stop for anything, because everything is a byproduct of the forces of nature acting to organize matter. These forces turn random particles into objects with distinct material and energy properties. Across the entire Universe, that's how our game board is made.
 
-The heat of Earth's core makes occasional concentrations of energy inevitably build up and erupt. But there's only so long that heat can last. Eventually the heat that causes magma to erupt as a volcanic eruption runs out.
+But just as these forces create stars, they also inevitably lead to their destruction. The same energy that births a star will, over time, consume it—a perfect illustration of how natural forces both organize and disorganize matter.
 
-This "cooling down" is entropy. It's a universal principle, and can be seen all around you, from the hot coca cooling down on your desk, to your battery running out of energy. Everything eventually runs out of energy.
+And understanding how objects disorganize into their component parts is effectively our game clock, because it tells us how much time we have left.
 
-Yet entropy is not a force itself like gravity, electromagnetic radiations, nuclear bonds, and chemical bonds. These forces collect energy in their own way and use it to change matter for example rising mountains or exploding firecrackers. Entropy is just the outcome of these forces acting on matter. 
+Science calls it the second law of thermodynamics. It's most commonly called entropy. This is the fundamental law that describes how energy systems naturally tend to increase in disorder over time.
 
-In a way, entropy is the universe's natural accounting system for energy transformation. Interestingly, this leads to a major consequence of entropy; what happens can never be undone.
+In a way, entropy is the universe's natural accounting system for energy transformation. Natural forces create stars that generate immense radiation energy, but natural force also use up this fuel and turn the star effectively dark.
 
-Meaning a volcano's explosive eruption will never spontaneously reverses itself, the same way a pot of coffee will never de-combine to its original milks, beans, and sugar parts.
+To realize what the second law of thermodynamics does over time, think of this comparison.
 
-That means an all organized systems of matter, from mountains to hot coffee, can decay but never reverse themselves. To realize what the second law of thermodynamics does over time, think of this comparison.
-
-Earth and Mars were once about the same. Their cores were hot magma. Their atmospheres thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike most planets Mars and Earth were far from bland or boring. Energy from their cores, magnetospheres, and gravity organized mountains, rivers, and atmosphere.
-
-As it always does entropy attacked this organization.
+Earth and Mars were once about the same. Their cores were hot magma. Their atmospheres thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike most planets Mars and Earth were far from bland or boring. Energy from their cores, magnetospheres, and gravity organized mountains, rivers, and atmosphere. The forces of nature created two very similar game boards.
 
 After enough explosions and wind storms degrade mountains, and solar radiation expels gases from the atmosphere, and enough heat is lost in the core, a planet will become still and motionless, like Mars is today. Its core has mostly frozen, its atmosphere is all but gone, and the planet has no more volcanic eruptions because there is almost no heat left to build up the energy for it.
 
-Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot. Even so, entropy is always there attacking in a sense.
+Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot. Even so, entropy is always acting on it. Thus, billions of years from now, the heat will run out, and Earth will become again like Mars.
 
-Thus, billions of years from now, the heat will run out, and Earth will become again like Mars.
+That is why entropy is often called the arrow of time. Events in the Universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverses itself, the same way a pot of coffee will never de-combine to its original milks, beans, and sugar parts.
 
-Mount St. Helens, to your cup of coffee, to planet Earth, are all subject to the universal law of entropy. Energy will organize matter, but as energy releases, that state of organization will fall apart.
+Our game board will never be the same. There is no going back. Thus every place in the Universe not only has a unique location, it also must have a unique time.
 
-That is why entropy is often called the arrow of time. Events in the Universe can only happen once.
+Albert Einstein called it space time. This term combines the three dimensions of space we saw in the game board (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
 
-With so much disorder raging around us, we need a way to keep track of it all. To do so, we find tiny events that are repeatable, and these are how we track time.
+And this is our game clock.
 
-For shorter events, we can use hour glasses, perhaps Earth's state rotation. For longer events we use the number of times our planet has revolved around the Sun. Although the Universe is different after these repeating events happen, we know track past, current, and post using them.
+Because the game board can tell you where you are, it's the game clock time tells us when you exist. And this makes moment you live, whether it's a walk in the park or reading this page, totally unique. No one and nothing will ever face the time and place you exist in.
 
-Albert Einstein best defined what time is, when he explained space time. This term combines the three dimensions of space we saw in the game board (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
+The game board and game clock are forever emergent and relative to where and when you exist in the Universe.
 
-Importantly, while the game board told us where you are, now time tells us when you are. And this is where the emergent game board interacts with entropy.
-
-Because the moment you live, whether it's a walk in the park or reading this, is happening at a time and place where entropy is attacking in a completely unique way. No one and nothing will ever face the time and place you exist in.
-
-It's your own game board, relative to where and when you exist in the Universe.
-
-Entropy is more than a scientific concept—it is the ultimate game maker, because it changes the game board constantly. Unlike chess pieces who get to play on the same board over and over. Our board is falling apart under our feet.
+Entropy is thus more than a scientific concept—it is the ultimate game maker, because it changes the game board constantly. Unlike chess pieces who get to play on the same board over and over. Our board is changing and falling apart under our feet.
 
 The game clock is just our reminder to hurry up and run because entropy will never stop dispersing organized structures; the invisible hand constantly using up energy to reshape our game board.
 
 The clock reminds us we all only have so much time left before it catches up to you.
 
-Our game clock reveals the ultimate challenge: in a universe constantly dispersing into disorder, can we create faster than entropy can destroy? This requires a player—an essence—like the Universe has never seen before.
+Our game clock reveals the ultimate challenge: in a universe constantly dispersing into disorder, can anything create faster than entropy can destroy? This requires a player—an essence—the Universe has never seen before.
 
 ## Chapter 5—Clay: What Life Is, The Creator of Players
 
-So far we've learned quite a bit about the Game of Life. We've read the booklet which spells out the rules of the game. These are the laws of physics, chemistry, geology, and biology. The lesson we had to learn was accept these laws as immutable and ever present.
+This game is starting to come into focus. The booklet told us the immutable laws physics, chemistry, geology, and biology are the rules of the game. Not stopping there, these laws are forces of nature, and organize matter to create planets, mountains, and stars, which makes our game board.
+
+But although the forces of nature exert energy on matter, that energy is finite, and whenever it stops matter disassemble back into a bland, uniform, soup. A process we call entropy, and we track using our game clock.
+
+This process only every goes forward. Time is never looks back. That means every moment in space and time is uniquely a place filled with forces of nature and entropy. So, that means every place—some better than others—is an opportunity to harness energy.
+
+If matter can learn to do that. Something can is as relentless as entropy is...
+
+
+
 
 Once we admit the rules of the game care not a ounce for our complaints or ideas, we can understand how they come together to create our reality. The rocks in Mount St. Helens to craters on the Moon can be explained by understanding these laws. Anything place we encounter is our game board, a place we must inhabit as we play the Game of Life.
 
