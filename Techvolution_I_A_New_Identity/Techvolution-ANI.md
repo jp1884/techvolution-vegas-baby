@@ -840,74 +840,102 @@ But why can't we just take our time? Why is there such consequence to our choice
 
 ## Chapter 4—Sandglass: The Ever Present Clock
 
-Ever wondered how the game board is made? I mean, volcanoes, stars, everything, how does it come together into such unique objects? There is no "make a volcano" button like in some video games. Instead, each is a byproduct of the natural laws interacting with each other.
+Ever wondered how the game board is made? I mean, volcanoes, stars, everything, how does it come together into such unique objects? After all, it's not like the Universe has a "make a volcano" button like in a video game. Instead, each is a byproduct of the natural laws interacting with each other.
 
 Let's see with volcanoes.
 
-Gravity, pulls molten rock downward, while plate tectonics, generates immense pressure and heat, and thermodynamics drives heat transfer and energy transformation the entire time. Mix them together and volcanoes form when molten rock from deep within the Earth's crust pushes up through weak points in the planet's surface. 
+Gravity, pulls molten rock downward, while plate tectonics generates immense pressure and heat, and thermodynamics drives heat transfer and energy transformation the entire time. Mix them together and molten rock from deep within the Earth's crust pushes up through weak points in the planet's surface to form volcanoes.
 
-Stars are also made with an interaction of natural forces. Gravity concentrates huge hydrogen gas clouds into a dense ball that kick starts nuclear fusion that converts hydrogen to helium. This conversion releases so many photons it sends much radiation into space while counteracting gravity enough to keep the star imploding on itself.
+The interaction of natural forces also makes stars. Gravity concentrates huge hydrogen gas clouds into a dense ball that is so heavy it kick starts nuclear fusion. As hydrogen atoms combine to create helium, photons are released, sending massive radiation out into space, who energy is strong enough to counteract gravity and keep the heavy star from imploding on itself.
 
-We could continue non-stop for anything, because everything is a byproduct of the forces of nature acting to organize matter. These forces turn random particles into objects with distinct material and energy properties. Across the entire Universe, that's how our game board is made.
+We could continue non-stop for anything, because everything is a byproduct of the forces of nature acting to organize matter. These forces turn particles into endless objects with distinct material and energy properties.
 
-But just as these forces create stars, they also inevitably lead to their destruction. The same energy that births a star will, over time, consume it—a perfect illustration of how natural forces both organize and disorganize matter.
+And, across the entire Universe, that's how our reality, the game board, is made.
 
-And understanding how objects disorganize into their component parts is effectively our game clock, because it tells us how much time we have left.
+But just as these forces create volcanoes and stars, they also inevitably lead to their destruction. Because the same laws that births these objects, will over time, consume them—a perfect illustration of how natural forces both organize and disorganize matter.
+
+And understanding how objects disorganize into their component parts is effectively our game clock; because it tells us how much time we have left.
 
 Science calls it the second law of thermodynamics. It's most commonly called entropy. This is the fundamental law that describes how energy systems naturally tend to increase in disorder over time.
 
-In a way, entropy is the universe's natural accounting system for energy transformation. Natural forces create stars that generate immense radiation energy, but natural force also use up this fuel and turn the star effectively dark.
+In a way, entropy is the universe's natural accounting system for energy transformation. For example, natural forces create stars that generate immense radiation energy, but natural force also use up this fuel and turn the star effectively dark.
 
 To realize what the second law of thermodynamics does over time, think of this comparison.
 
-Earth and Mars were once about the same. Their cores were hot magma. Their atmospheres thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike most planets Mars and Earth were far from bland or boring. Energy from their cores, magnetospheres, and gravity organized mountains, rivers, and atmosphere. The forces of nature created two very similar game boards.
+Earth and Mars were once about the same. Their cores were hot magma. Their atmospheres thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike some planets Mars and Earth were far from bland or boring. Energy from their cores, magnetospheres, and gravity organized many unique objects like mountains, rivers, and atmosphere. The forces of nature created two very similar game boards.
 
-After enough explosions and wind storms degrade mountains, and solar radiation expels gases from the atmosphere, and enough heat is lost in the core, a planet will become still and motionless, like Mars is today. Its core has mostly frozen, its atmosphere is all but gone, and the planet has no more volcanic eruptions because there is almost no heat left to build up the energy for it.
+But entropy is always there.
+
+Thus, explosions and wind storms degrade mountains, solar radiation expels gases from the atmosphere, and after enough heat is lost in the core, a planet will slowly become still and motionless, like Mars is today. Its core has mostly frozen, its atmosphere is all but gone, and the planet has no more volcanic eruptions because there is almost no heat left to build up the energy for it.
 
 Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot. Even so, entropy is always acting on it. Thus, billions of years from now, the heat will run out, and Earth will become again like Mars.
 
-That is why entropy is often called the arrow of time. Events in the Universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverses itself, the same way a pot of coffee will never de-combine to its original milks, beans, and sugar parts.
+And, neither will ever return to their former glory.
 
-Our game board will never be the same. There is no going back. Thus every place in the Universe not only has a unique location, it also must have a unique time.
+That is why entropy is often called the arrow of time. Events in the Universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverses itself, the same way a pot of coffee will never de-combine to its original milk, bean, and sugar parts.
+
+All this means our game board will never repeat. There is no going back. And that means not only is every place in the Universe unique, but so is every moment.
 
 Albert Einstein called it space time. This term combines the three dimensions of space we saw in the game board (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
 
 And this is our game clock.
 
-Because the game board can tell you where you are, it's the game clock time tells us when you exist. And this makes moment you live, whether it's a walk in the park or reading this page, totally unique. No one and nothing will ever face the time and place you exist in.
+Because the game board can tell you where you are, it's the game clock time tells us when you exist. And this makes every second you live, whether it's a walk in the park or reading this page, totally unique. 
 
 The game board and game clock are forever emergent and relative to where and when you exist in the Universe.
 
-Entropy is thus more than a scientific concept—it is the ultimate game maker, because it changes the game board constantly. Unlike chess pieces who get to play on the same board over and over. Our board is changing and falling apart under our feet.
+We should be realizing the laws of nature are more than scientific concepts—they are the ultimate game maker, because each changes our reality constantly. No one will ever face the time and place you exist in. So, unlike chess pieces who get to play on the same board over and over. Our board is always changing and falling apart under our feet.
 
-The game clock is just our reminder to hurry up and run because entropy will never stop dispersing organized structures; the invisible hand constantly using up energy to reshape our game board.
+The game clock reminds us to hurry up and run because we understand entropy will never stop dispersing organized structures we're standing on, from the volcanoes, to the beaches, the pyramids to tank of gas.
 
-The clock reminds us we all only have so much time left before it catches up to you.
+We can emulate it with sand clocks, time pieces, or any other device, either way we need to know we only have so much time left before entropy catches up to us.
 
-Our game clock reveals the ultimate challenge: in a universe constantly dispersing into disorder, can anything create faster than entropy can destroy? This requires a player—an essence—the Universe has never seen before.
+And this reveals the ultimate challenge: in a universe constantly dispersing into disorder, can anything create faster than entropy can destroy? This requires an essence—a player—that the Universe has never imagined before.
 
 ## Chapter 5—Clay: What Life Is, The Creator of Players
 
-This game is starting to come into focus. The booklet told us the immutable laws physics, chemistry, geology, and biology are the rules of the game. Not stopping there, these laws are forces of nature, and organize matter to create planets, mountains, and stars, which makes our game board.
+You've picked up "The Rules of the Game" booklet, the emergent game board and game clock. Now you pick up the clay. How is soft smooshy stuff related to the the Game of Life?
 
-But although the forces of nature exert energy on matter, that energy is finite, and whenever it stops matter disassemble back into a bland, uniform, soup. A process we call entropy, and we track using our game clock.
+First let's go back and clarify something important.
 
-This process only every goes forward. Time is never looks back. That means every moment in space and time is uniquely a place filled with forces of nature and entropy. So, that means every place—some better than others—is an opportunity to harness energy.
+Most people know Albert Einstein work E = mc². This revolutionary equation means "Energy, equals, mass times the speed of light squared", something that demonstrates the fundamental relationship between mass and energy, showing that in the right circumstance, mass can be converted into energy and vice versa.
 
-If matter can learn to do that. Something can is as relentless as entropy is...
+Scientifically there is no direct link between entropy and Einsteins equation, but it still helps understand a crucial point. Energy is never created or destroyed, but just moved around into different states of light and matter.
+
+Basically, the Universe has no delete button. Only a modify button.
+
+For example, the energy that once fueled Mars hot magma core was not erased, instead it radiated into space. As heat dissipated away it was now in a almost useless state because it was no longer concentrated and organized enough to do anything. Useful energy is a physical quantity that represents the capacity to do work or cause change in a physical system, like Earths hot magma core is doing right now.
+
+Useful energy is what entropy slowly drains away from any organized system, from volcanoes to coffee pots.
+
+And this is what life is not. There has countless different forms of life, but everything single one has this in common. Living organisms unite matter via metabolic processes. We turn elements of the universe, available to anything, but turn them into pockets of anti-entropy. And we pass on life's baton to the next generation.
+
+If we can harness enough energy to stay alive. And since every location and moment in time is unique, that means life must customized itself to harness whatever useful energy is available.
+
+Hence why we need modeling clay in the Game of Life. This clay lets life mold itself to its place on the game board, meaning its environment.
 
 
 
+Life emerged on Earth around 3.7 to 4.1 billion years ago. Earth was dramatically different. Our planet was a molten, volatile landscape constantly bombarded by asteroids, with an atmosphere rich in methane, ammonia, and hydrogen.
 
-Once we admit the rules of the game care not a ounce for our complaints or ideas, we can understand how they come together to create our reality. The rocks in Mount St. Helens to craters on the Moon can be explained by understanding these laws. Anything place we encounter is our game board, a place we must inhabit as we play the Game of Life.
+Somewhere, somehow, life started. My personal favorite version is Issac Asimov's "The Last Question" a short story I won't ruin here beyond saying it ends with the classic line "Let there be light".
 
-Location is relative. All the iron, gold, and other heavy metals in the Universe were made inside the explosions of a super nova. The gold of your wedding ring was once inside a star.
+The point is the emergence of life on Earth represents one of the most profound mysteries in science. You're free to think anything was the start of it all.
 
-Time is the last element to bring about the convergence of your situation. The rules of the game, cause the interactions of matter, that create your environment. Entropy is law says this moment will never turn. Energy will collect but expand, blow, forward. Time is an arrow only going forward.
+The point is life did start.
+
+Matter turned into an organized state. We do not know the exact mechanism of life's origin, the process likely involved a random chemical event where a molecule accidentally gained the ability to create copies of itself-the first crucial step toward life as we know it.
+
+Thereafter, molecules kept replicating themselves. 
+
+Extreme conditions near hydrothermal vents likely fostered the first microbial life forms - simple, anaerobic prokaryotes that could survive in harsh environments. These primitive organisms, possibly RNA-based, represented the first sparks of life on a young, turbulent planet.
 
 Enter modeling clay.
 
 Because life is made of the same material as everything else in the Universe, yet it needs to change its form to the ever changing situation of the game. Hence the name lifeform.
+
+
+
 
 And that's what life is. It creates bit of material that counteract entropy. Entropy is the release of energy to bring about bland uniformity of all matter into a soup. On the other hand, all creatures actively organize matter that collects more resources.....
 
@@ -1836,6 +1864,8 @@ You remember the teachings of your ancestors. Every plant, every animal, every r
 "The gods have guided us," you sing. "This land will sustain us!" 
 
 This makes friend by the fire smile while she prays.
+
+<!-- add a siting? sees another person, or perhaps remains of an old village? -->
 
 ### Mythologies Analysis
 
