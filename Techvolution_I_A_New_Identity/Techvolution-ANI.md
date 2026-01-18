@@ -785,19 +785,19 @@ But why can't we just take our time? Why is there such consequence to our choice
 
 ## Chapter 4—Sandglass: The Ever Present Clock
 
-Ever wondered how the game board is made? I mean, volcanoes, stars, everything, how do tiny atoms come together into such unique objects? After all, nature does not have a "make a volcano" button like in a video game. Reality has no such shortcuts. Instead, each thing in the Universe is a byproduct of the natural laws interacting with each other.
+Ever wondered how the game board is made? I mean, volcanoes, stars, everything, how do tiny atoms come together into such unique objects? After all, it's not like nature has "make a volcano" button like in video games. Reality has no such shortcuts. Instead, each thing in the Universe is a byproduct of the natural laws, the rules of the game, interacting with each other.
 
 Let's see how with volcanoes.
 
 Gravity, pulls molten rock downward, while plate tectonics generates immense pressure and heat, and thermodynamics drives heat transfer and energy transformation the entire time. Mix them together, and molten rock from deep within the Earth's crust pushes up through weak points in the planet's surface to form volcanoes.
 
-The interaction of natural forces even makes stars. Gravity concentrates huge hydrogen gas clouds into a ball that gets so dense it kick starts nuclear fusion. As hydrogen atoms fuse into helium through nuclear fusion, massive amounts of electromagnetic radiation are emitted into space. The enormous energy released counteracts gravity and keeps the star from imploding on itself.
+Stars are of course bigger, but made with the same interaction of natural forces. Gravity concentrates huge hydrogen gas clouds into a ball. Once the density peaks hydrogen atoms fuse into helium through nuclear fusion, emitting massive amounts of electromagnetic radiation into space. The enormous energy released counteracts gravity and keeps the star from imploding on itself.
 
-We could continue non-stop for any natural object, because everything is a byproduct of the forces of nature. These forces are always in action and in the process turn atoms into endless objects with distinct material and energy properties.
+We could continue non-stop for any natural object, because everything is a byproduct of the forces of nature. These forces are always in action and are always turning atoms into unique objects with distinct material and energy properties.
 
 And, across the entire Universe, that's how our reality, the game board, is made.
 
-But just as these forces create volcanoes, stars, and everything else, they also inevitably lead to their destruction. Because the same laws that births these objects, will over time, consume them—natural forces both organize and disorganize matter.
+But just as these forces create volcanoes, stars, and everything else, they also inevitably lead to their destruction. Because the same laws that birth these objects, will over time, consume them—natural forces both organize and disorganize matter.
 
 And understanding how objects disarrange into their component parts is effectively our game clock; because it tells us how much time we have left.
 
@@ -811,13 +811,13 @@ Earth and Mars were once about the same. Their cores were hot magma. They had pr
 
 But entropy is always there.
 
-Thus, volcanic explosions and wind storms degrade mountains, solar radiation expels gases from the atmosphere, and after enough heat is lost in the core, magnetospheres end their shielding, slowly turning the planet still and motionless, like Mars is today. Its core has mostly frozen, its atmosphere is all but gone, and the planet has no more volcanic eruptions because there is almost no heat left to build up the energy for it.
+Thus, volcanic explosions and freezing water degrade mountains, wind storms turn rock into sands, sunlight dries up wetlands, and after enough heat is lost in the core, magnetospheres end their shielding, and solar radiation expels gases from the atmosphere. All of this turns the planet still and motionless, like Mars is today. Its core has mostly frozen, its atmosphere is all but gone, and the planet has no more volcanic eruptions because there is almost no heat left to build up the energy for it.
 
 Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot. Even so, entropy is always acting on it. Thus, billions of years from now, the heat will run out, the magnetosphere will die, and the natural forces via wind, rust, erosion, radiation will make Earth again like Mars.
 
 And, neither will ever return to their former glory.
 
-That is why entropy is often called the arrow of time. Events in the Universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverses itself, the same way a pot of coffee will never un-mix to its original milk, bean, and sugar parts.
+That is why entropy is often called the arrow of time. Events in the Universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverse itself, the same way a pot of coffee will never un-mix to its original milk, bean, and sugar parts.
 
 All this means there is no going back. So, not only is every place in the Universe unique, but so is every moment.
 
@@ -825,80 +825,83 @@ Albert Einstein called it space time. This term combines the three dimensions of
 
 And this is our game clock.
 
-While the game board can tell you where you are, it's the game clock tells us when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. 
+While the game board can tell you where you are, the game clock tells us when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. 
 
 The game board and game clock are forever emergent and relative to where and when you exist in the Universe.
 
-We should be realizing the laws of nature are more than scientific concepts—they are the ultimate game maker, because each changes our reality constantly. So, unlike chess pieces who get to play on the same board over and over. Our game board is always changing and falling apart under our feet.
+We should be realizing the laws of nature are more than scientific concepts—they are the ultimate game maker, because each changes our reality constantly. So, unlike chess pieces who get to play on the same board over and over. Our game board is always changing under our feet.
 
-The game clock reminds us to hurry up and run because we understand entropy will never stop dispersing organized structures we're standing on, be they volcanoes, beaches, pyramids, or tanks of gas.
+The game clock reminds us to hurry up and run. Entropy will never stop dispersing organized structures we're standing on, be they volcanoes, beaches, pyramids, or tanks of gas.
 
-We can emulate the game clock with sand clocks, time pieces, or any other device, either way each tells us we only have so much time left before entropy catches up to us.
+We can emulate the game clock with sand clocks, time pieces, or any other device. Each tells us we only have so much time left before entropy catches up to us.
 
 And this reveals the ultimate challenge: in a universe constantly dispersing into disorder, can anything create faster than entropy can destroy? This requires an essence—a player—that the Universe has never imagined before.
 
 ## Chapter 5—Clay: What Life Is, The Creator of Players
 
-You've picked up "The Rules of the Game" booklet, the game board, and game clock. Now you pick up the clay and roll it in your hands. Smash, stretch, roll, pinch.  How does this soft malleable stuff relate to the the Game of Life?
+Done with the game clock, you sit it aside on top of the game board and continue reading the booklet. Now you pick up the clay and roll it in your hands: smash, stretch, roll, pinch.  How does this soft malleable stuff relate to the Game of Life?
 
 First let's go back and emphasize something very important.
 
-Most people know Albert Einstein's work E = mc². This revolutionary equation says "Energy equals mass times the speed of light squared", which when doing the math means a small amount of mass stores an enormous of energy. In the right circumstance (like in stars), each can be converted into the other.
+Most people know Albert Einstein's work E = mc². This revolutionary equation says "Energy equals mass times the speed of light squared", which when doing the math means even a small amount of mass stores an enormous of energy. More importantly, this equation says in the right circumstance (like inside stars), matter and energy can be converted into the other.
 
-Scientifically there is no direct link between entropy and Einsteins equation, but noting mass and energy equivalency helps us understand a crucial point. As entropy does its thing degrading objects into uniformity, energy is never created or destroyed, but just moved around into different states of radiation (light) or matter.
+Scientifically there is no direct link between entropy and Einstein's equation, but noting mass and energy equivalency helps us understand a crucial point. As entropy does its thing degrading objects into uniformity, energy is never created or destroyed, but just moved around into different states of radiation (light) or matter.
 
-Basically, the natural forces have no delete button. Only a modify button.
+Basically, the natural forces have no delete button. Only a modify button. Incidentally, this principle is the first law of thermodynamics.
 
-For example, the energy that once fueled Mars hot magma core was not erased, it only radiated into space. As heat dissipated away it came to a useless state; it was no longer concentrated and organized enough to do anything. Useful energy is a physical quantity that represents the capacity to do work or cause change in a physical system, like Earths still hot magma core is doing right now.
+For example, the energy that once fueled Mars hot magma core was not erased, it only radiated into space. As heat dissipated away it came to a useless state; it was no longer concentrated and organized enough to do anything. Useful energy is a physical quantity that represents the capacity to do work or cause change in a physical system, like Earth's still hot magma core is doing right now.
 
-Useful energy is what entropy slowly drains away from any organized system, from volcanoes to coffee pots.
+Useful energy is what entropy slowly drains away from any organized system, from active plants, to volcanoes, to coffee pots.
 
-Enter the modeling clay, still in your hands, you're starting to realize something.
+Enter the modeling clay, while still playing in your hands, you're starting to realize something.
 
-There have been countless different forms of life, but every single one has this in common; living organisms unite matter via metabolism. These are a set of chemical processes that occur within a living organism to maintain life. It involves breaking down nutrients to release energy and using that energy to build, repair, and discard cellular structures. Constant growth is how life fights off entropy's degradation.
+There have been countless different forms of life, but every single one has this in common; living organisms unite matter via metabolism. These are a set of chemical processes that occur within a living organism to maintain life. It involves breaking down nutrients to release energy and using that energy to build, repair, and discard cellular structures. Metabolism's constant growth is how life fights off entropy's degradation.
 
-And most importantly, we pass on life's baton to the next generation, and thereby organize more matter as time goes on. 
+And most importantly, we pass on life's baton to the next generation, and thereby organize more matter as time goes on. Life turns the same elements available throughout the Universe into pockets of anti-entropy. And that's how we defeat entropy's increasing degradation over time and stay on the game board.
 
-Life turns the same elements available throughout the Universe into pockets of anti-entropy. And that's how we defeat time and stay on the game board.
+If life can keep harnessing enough energy to stay alive.
 
-All dependent on us harnessing enough energy to stay alive. And since every location and moment in time is unique, that means life must customized itself to harness whatever useful energy is available.
+And since every location and moment in time is unique, that means life must customize itself to harness whatever useful energy is available regardless of time, place, and whatever has happened in the never returning past.
 
-Hence the modeling clay in your hands. This clay lets life mold itself to its place on the game board, meaning its environment. Entropy definitely attacks the clay like everything else, but by birthing new clay, that can harness energy to grow, life continues on as time goes forward.
+Hence the modeling clay in your hands.
+
+This clay lets life mold itself to its place on the game board, meaning its environment. Entropy attacks the clay like everything else, individual lifeforms get tired, weathered, and worn, but by birthing new clay, life stays malleable enough to find the new ways to harness available energy. Thereby life continues to grow as time goes forward.
 
 Of course life is not clay. There's something far more elegant at work.
 
-Life emerged around 3.7 to 4.1 billion years ago. Earth was dramatically different. A molten, volatile landscape constantly bombarded by asteroids, an atmosphere rich in methane, ammonia, and hydrogen. Our planet looks like a disaster movie.
+Life emerged around 3.7 to 4.1 billion years ago. Earth was dramatically different. A molten, volatile landscape constantly bombarded by asteroids, an atmosphere rich in methane, ammonia, and hydrogen. In short, our planet looked like a disaster movie in progress.
 
-It was here life started. Science has some ideas how, but despite many experiments trying to spark "primordial ooze" into self-replicating cells, nothing's worked so far.
+Yet, it was here life started.
 
-The emergence of life on Earth is one of the most profound mysteries in science. And with so much uncertainty, we're each free to believe whatever was the start of it all.
+Science has some ideas how, but despite many experiments trying to spark "primordial ooze" as one theory calls the rich, chemical-laden matter of early Earth, where complex organic molecules might have first combined into self-replicating cells. But nothing's worked so far. In a world where science has stolen many of our mysteries, the emergence of life on Earth is still as wondrous as ever. And with so much uncertainty, each person is free to believe whatever they want was the start of it all.
 
 The point is life did start.
 
-Matter turned into an organized state. While, we do not know the exact mechanism of life's origin, the process likely involved a random chemical event where a molecule accidentally gained the ability to create copies of itself-the first crucial step toward life as we know it.
+Matter somehow started to turn into an organized state. While we do not know the exact mechanism of life's origin, once it got going, life grew by molecules gaining the ability to create copies of itself. Thereafter, molecules kept finding the energy to buck entropy and keep replicating themselves.
 
-Thereafter, molecules kept replicating themselves. 
+New clay was being born.
 
-Extreme conditions near hydrothermal vents likely fostered the first microbial life forms - simple, anaerobic prokaryotes that could survive in harsh environments. These primitive organisms, similar to bacteria, represented the first sparks of life on a young, turbulent planet.
+The nearest energy source was hydrothermal vents, which scientists suspect fostered the first microbial life forms called anaerobic prokaryotes. These primitive organisms, similar to bacteria, represented the first sparks of life on a young, turbulent planet filled with harsh environments.
 
-For billions of years these primitive creature lived. They gradually transformed the environment through processes like photosynthesis, which began to produce oxygen. This chemical supercharges metabolism and fundamentally altered the Earth's atmosphere. Eventually, eukaryotic cells emerged, representing a significant leap in biological complexity. These cells contained a nucleus and more sophisticated cellular structures.
+For billions of years these primitive creatures lived. In a sense they could be seen as colonizers.
 
-This process of growth kept going. Life got ever more complicated. Soon individual cells started to merge into multi-cell organisms. Then each cell inside these lifeforms specialized to perform unique functions. As lifeforms kept adding cells, they got more complex and more anti-fragile.
+Because early prokaryotes called cyanobacteria converted energy into matter that gradually transformed the environment through photosynthesis, which produced oxygen. We take this chemical for granted today, but it is rare, supercharges metabolism, and because it converts sunlight back into matter, has a near endless energy source. 
 
-The Ediacaran Period (635-541 million years ago) marked the emergence of the first complex, soft-bodied organisms. These were the precursors to true animals, featuring basic body plans and the ability to interact with their environment in more sophisticated ways. These creatures, like the disc-shaped Dickinsonia, represented early experiments in multicellular life and body complexity.
+Converting toxic gases into oxygen fundamentally altered the Earth's atmosphere. Eventually its rich energy source allowed eukaryotic cells to emerge, representing a significant leap in biological complexity. These cells contained a nucleus and more sophisticated cellular structures.
+
+This process of growth kept going. Life got ever more complicated. Soon individual cells started to merge into multi-cell organisms. Then each cell inside these lifeforms specialized to perform unique functions. Multi-cellular organisms had cells specialized in an evermore complex organization. Skin cells protected from the elements, muscle cells allowed locomotion, nerve cells enabled intra-organism communication.
+
+As lifeforms kept adding cell specialization, they became more complex and developed what some call anti-fragile—resisting entropy's destructive forces by growing new cells specialized to overcome new challenges.
+
+The Ediacaran Period (635-541 million years ago) marked the emergence of the first complex, soft-bodied organisms. Life was no longer like simple bacteria, but becoming more like animals, featuring basic body plans and the ability to interact with their environment with things like cells that could detect light, the precursor to our modern eyes. These creatures, like the disc-shaped Dickinsonia, represented huge jumps in multicellular life and body complexity.
 
 Now the stage was set.
 
-What came next was called the Cambrian Explosion, where many new creatures emerged displaying increasingly complex body structures, sensory systems, and locomotion capabilities. 
-
-Now life didn't have to take what it could get.
+What came next was called the Cambrian Explosion, where many new creatures emerged displaying increasingly complex body structures, sensory systems, and locomotion capabilities. Now life didn't have to take what it could get.
 
 With an oxygen atmosphere fueling metabolic processes like never before, life could truly get creative with its modeling clay. Life could venture out and find every single place on the game board with energy to harvest regular atoms into biological mass.
 
 Life now had to answer who should stay in the game. The Game of Life needed a score board for its players.
-
-
-
 
 ## Chapter 6—Scoreboard: What Evolution Is, The Editor of Players
 
