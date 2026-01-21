@@ -47,9 +47,9 @@ AI buying sprees from Amazon, Microsoft and other huge companies, is a few years
 
 This is a travesty to the hobby used to getting performance increases every year. It will make the hobby harder to get into for new users. Even Nintendo is projected far less sales. In several years times, if nothing changes, there will be issue with replacing computers that simply die and won't turn on.
 
-And the only thing stopping the gaming industry from avoiding this threat was their consumer identity. If gamers wanted to keep gaming forever, why didn't they buy the companies they were buying from?
+And the only thing stopping the gaming industry from avoiding this threat was their consumer identity. If gamers wanted to keep gaming forever, why didn't they buy the companies they were buying from? 
 
-Gamers would spend thousands on new tech every few years, but absolutely nothing on buying the companies themselves. From 1990s to 2020s, almost all of Nvidia and AMD sales were from gamers. Their stock prices was from three to 35 dollars for decades. It never occurred to gamers that perhaps they should own a piece of the companies supplying their hobby.
+Gamers would spend thousands on new tech every few years, but absolutely nothing on buying the companies themselves. From 1990s to 2020s, almost all of Nvidia and AMD sales were from gamers. Their stock prices was from 3.00 to 35.00 dollars for decades. It never occurred to gamers that perhaps they should own a piece of the companies supplying their hobby.
 
 Worst, tech journalists pride themselves on being impartial and refuse any association, never mind ownership of computer makers. As if a gamer making YouTube videos recommending graphic cards with a 5% difference in FPS, is on par with a doctor prescribing medications.
 
@@ -100,6 +100,9 @@ Dec 2026. Gamers Nexus. WTF Just Happened? | The Corrupt Memory Industry & Micro
 Dec 2026. Gamers Nexus. It's An Active Choice to Lie This Much | Micron's "Commitment" to Gamers. https://www.youtube.com/watch?v=uvahiVBvn9A
 
 Jan 2026. Linus Tech Tips. I'm Done Being Mad. https://www.youtube.com/watch?v=wZZf6LM3wAU.
+
+
+Jan 18 2026. Toms Hardware. Data centers will consume 70 percent of memory chips made in 2026 - supply shortfall will cause the chip shortage to spread to other segments: Soon enough, you might not even be able to buy a calculator. https://www.tomshardware.com/pc-components/ram/data-centers-will-consume-70-percent-of-memory-chips-made-in-2026-supply-shortfall-will-cause-the-chip-shortage-to-spread-to-other-segments
 
 Jan 16, 2026. Toms Hardware. AMD vows to fight for gamers as DRAM shortage sends GPU prices skyrocketing — Radeon GPU prices have already surged over 10%. https://www.tomshardware.com/pc-components/gpus/amd-vows-to-fight-for-gamers-as-dram-shortage-sends-gpu-prices-skyrocketing-radeon-gpu-prices-have-already-surged-over-10-percent
 

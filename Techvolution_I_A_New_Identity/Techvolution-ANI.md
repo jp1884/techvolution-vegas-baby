@@ -907,6 +907,120 @@ Life now had to answer who should stay in the game. The Game of Life needed a sc
 
 <!-- remember Jumanji, ie, that shared problems creates the best of friends, regardless of personal identities. and that is what evolution is editing for, to find the lifeforms capable of being a functioning friend's group/ecosystem -->
 
+You've got the Game of Life at your feet. The pieces have meaning now. Rule book, game board, sand glass, and clay are no longer objects but things animated by the energy of purpose. These are the implements that allows life to win.
+
+You're so excited!
+
+Well on your way to learning the game, you know you can play it better now. Let's press the start button!
+
+But, then you cough. A small one, almost goes by unnoticed like so many of our autonomic functions such breathing or blinking, but this cough peaks your interest, or better to say, dread. There's a scratchy pain with it. Small, faint, but rings alarm bells nonetheless.
+
+The first faint telling of cold, flu, or maybe covid.
+
+The pesky irritation is a sign you've learned since childhood. A virus lives in your body, rising to such numbers that your immune system send specialized white blood cells to fight it, flooding the area. With so many new inhabitants, the area swells, which is irritating.
+
+This little virus is the last lesson we need to learn. One taught by the most important teacher we will ever have; pain.
+
+Evolution seminal book is of course Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over "by means of natural selection."
+
+Selection is our scoreboard. And the clay lifeforms is what its selecting.
+
+- Variation. Life makes different clay lifeforms every time.
+- Inheritance. No longer content with replication. Life created DNA, which is ....
+
+It's the method by which variations in the
+
+We learn what
+
+intersection b
+
+
+
+
+
+---
+
+The Heikegani crab is native to Japan. Its shell looks an angry samurai. Local folklore says these crabs are reincarnations of the Heike warriors defeated at the naval Battle of Dan-no-ura hundreds of years ago.
+
+Interesting to think about. Evolutionary biologist Stephen Jay Gould thinks local fishermen might have inadvertently preserved crabs with more human-like shell markings. The more obvious the faces were, the more the crabs were saved from harvesting. Over centuries each crab now looks like its tattooed.
+
+Or perhaps the crabs muscle tissue simply has a formation that humans see a face in. Either way, we can learn an important lesson.
+
+Charles Darwin's seminal book is of course, _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection."
+
+It's this selection that is our scoreboard, and the Heikegani crab story highlights an pivotal difference for us to understand.
+
+If the Heikegani crab simply has a back that looks like an angry samurai that is natural selection. It simply works for the grab. If the fishermen saved crabs with a face on and year after year they slowly selected this feature to be a saving grace for the species, that is artificial selection.
+
+The former is a winning biological genetic recipe that simply overcomes the obstacles entropy throws at us, while the latter is human beings being entropy by selecting a feature based on a whim.
+
+One shows what a genuine point on the scoreboard is, while the other shows a diversion from it. Here is why there is such an important difference between the two.
+
+The natural forces are ever acting on matter. When matter is concentrated, available energy makes planets, mountains, rivers, and stars of a game board. The same forces of nature also un-concentrate matter in many different ways, a process we colloquially call entropy. The job if life is to find useful energy, harvest it to fuel metabolic processes, and grow ever more cells with specialized functions.
+
+The more cells, means the more functions. The more lifeforms means the more combating of entropy life can do. As entropy changes the game board, the environment changes too. The origin of species by means of natural selection is the purest lifeform that has defeated local entropy on the ever changing game board.
+
+Artificial selection is guess, or more likely a disregard as entropy being the goal post.
+
+And here's the kicker. Natural selection is not picking individual players, it is picking winning ecosystems. It's making a team, and cares not for star players. The bigger and more numerable in species and numbers a team is, the better. Because the true enemy is entropy!
+
+Entropy has so many attacks.
+
+
+- Thermal Entropy: Loss of heat/inability to maintain metabolic temperature
+- Radiation Damage: DNA mutation, cellular breakdown
+- Metabolic Stress: Energy depletion, inability to acquire nutrients
+- Oxidative Stress: Free radical damage to cellular structures
+- Hydration Loss: Cellular dehydration and functional breakdown
+- Mechanical Stress: Structural damage from physical forces such as gravity
+
+These are the enemies playing chess against life. To win, life needs liquid water, nutrients, to enable metabolic processes. To harvest energy....
+
+ - Converting evermore energy back to matter requires, locomotion/direction, heat, senses...
+
+
+hat means producers like plants converting energy to biomass. Grazers to feed on the plants, spreading seeds and also allowing cleared areas for new plants variations a chance to seed and perhaps better harvest energy. And predators to feed on grazers to keep them from over grazing.
+
+
+- and hence all the wonders of life. Aerodynamics, shielding, fur, fat, novel ideas, each a cluster of cells specialized to combat one of entropy's attacks....
+
+Death by other is not a mortal threat in the eyes of life. Grazers and predators do not directly convert sunlight to matter again. However, both are needed to form ecosystems that are ever evolving.
+
+Predation is a feature not a bug. If its from within the ecosystem.
+
+So while artificial selection is a problem, so is invasive species.
+
+
+
+
+
+
+### Evolution
+
+1. Variation: The foundation of evolution is the simple fact that no two living organisms are exactly alike. Even within a single species, individuals exhibit a range of subtle (and sometimes not-so-subtle) differences in their physical traits, behaviors, and genetic makeup. For example, the variations in beak size and shape observed among Darwin's finches on the Galápagos Islands are a classic illustration of this principle.
+
+2. Inheritance: The variations we observe in living things are, to a large degree, passed down from one generation to the next through the process of reproduction. The genetic information encoded in an organism's DNA is replicated and transmitted to its offspring, ensuring that the variations are preserved and can be acted upon by evolutionary forces. This is exemplified by the inheritance of traits like fur color or body size in mammals.
+
+3. Differential Reproduction: Not all individuals within a population are equally successful at surviving and reproducing. Those with variations that confer advantages in their environment will tend to leave behind more offspring than their less-fit counterparts. This unequal reproductive success is the driving force behind evolution. For instance, in a population of giraffes, individuals with longer necks may be better able to reach and consume the leaves at the tops of trees, giving them a reproductive advantage over their shorter-necked peers.
+
+4. Natural Selection: The process by which certain variations are favored over others is known as natural selection. The environment, with all its challenges and opportunities, acts as a filter, allowing the most well-adapted individuals to thrive and pass on their advantageous traits to future generations. The peppered moth story demonstrates how natural selection can lead to rapid changes in a population's appearance as the environment changes, with the better-camouflaged dark form of the moth increasing in frequency over time as industrial pollution darkened the trees.
+
+5. Adaptation: As a result of natural selection, living organisms become increasingly well-suited to their environment over successive generations. Beneficial variations are reinforced, while less useful traits are gradually eliminated, leading to the emergence of adaptations that enhance an organism's chances of survival and reproduction. The development of camouflage patterns in various animal species is a prime example of adaptation.
+
+6. Speciation: Over time, as populations of a species become increasingly isolated and divergent, they may eventually give rise to new species—distinct groups of organisms that can no longer interbreed and exchange genetic material. This process of speciation is a fundamental mechanism by which evolution generates new forms of life. The rapid diversification of cichlid fish in the African Great Lakes, where over 2,000 species have evolved from a small number of ancestral species through adaptation to various ecological niches, is another striking example of speciation.
+
+7. Co-evolution: The evolution of one species is often intimately linked to the evolution of other species within the same ecosystem. This reciprocal process, known as co-evolution, can lead to the development of intricate ecological relationships and the emergence of complex, interdependent communities of living things. The co-evolution of flowering plants and their pollinators, such as bees and butterflies, is a prime example of this principle.
+
+
+
+
+
+
+
+
+
+
+
 ### Introduction
 
 To truly understand our place in the story of life, we've been on a journey. The first step was recognizing that the fundamental laws of nature govern the living world's existence. The physical, chemical, and geological processes that have shaped the evolution of life on Earth—from the formation of the planet itself to the cycling of elements and the flow of energy—create the very "gameboard" upon which all organisms, including humans, play on. 
