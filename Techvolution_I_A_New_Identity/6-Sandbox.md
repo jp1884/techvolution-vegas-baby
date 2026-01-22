@@ -2317,3 +2317,13 @@ The laws of evolution state life will venture out into the unknown, and the fitt
 Key to this understanding is that evolution is deaf, dumb, and mute. While life is open to creating any kind of life form, evolution only wants the winners. There's no way of briding evolution. Evolution does not understand any language, see any life form, or listen to any stories. Evolution cannot select the players on the gameboard according to anything other its adaptations effectiveness to harness resources. Cold climates need insulation. Hot ones need cooling. The life forms that harvest and use resources the most efficiently inside a ecosystem get a spot on the team, and once they have their mask on, will do anything they can do to survive.
 
 With all this knowledge of the natural laws of physics, chemistry, geology, biology, and evolition, we are not ready to chart the history of life's evolution.
+
+===
+
+If the Heikegani crab simply has a back that looks like an angry samurai that is natural selection. It simply works for the grab. If the fishermen saved crabs with a face on and year after year they slowly selected this feature to be a saving grace for the species, that is artificial selection.
+
+The former is a winning biological genetic recipe that simply overcomes the obstacles entropy throws at us, while the latter is human beings being entropy by selecting a feature based on a whim.
+
+One shows what a genuine point on the scoreboard is, while the other shows a diversion from it. Here is why there is such an important difference between the two.
+
+===
