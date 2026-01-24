@@ -907,51 +907,59 @@ Life now had to answer who should stay in the game. The Game of Life needed a sc
 
 <!-- remember Jumanji, ie, that shared problems creates the best of friends, regardless of personal identities. and that is what evolution is editing for, to find the lifeforms capable of being a functioning friend's group/ecosystem -->
 
-You've got the Game of Life at your feet. It hasn't changed, but to you the pieces are different. The rule book, game board, sand glass, and clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
+You've got the Game of Life at your feet. The pieces look different. The rule book, game board, sand glass, and clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
 
 Are you ready? Let's press the start button!
 
 Not so fast. Playing isn't winning. Before we venture on the game board, let's learn what puts creatures on the score board.
 
-Just now you cough. It's a small one, almost goes unnoticed like a blink, breath, or other autonomic function. This cough is small and faint, but it sounds alarm bells because there's a scratchy pain with it.
+Just now you cough. It's so small it almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring because of a scratchy pain.
 
-Excitement kept you awake too long. With little sleep your immune system couldn't keep infection at bay. You're sick.
+Your know right away. Excitement kept you awake too long. With little sleep your immune system couldn't keep infection at bay. You're sick.
 
-Viruses are tiny, but no different then any other lifeform. They are bits of clay looking to play the game. They're strategy is simple; enter another creature, infiltrate their cells, and use their systems to replicate. It's a winning idea. Animals, plants, even bacteria have had viruses pretty much since they each started playing the game.
+Viruses are tiny, but no different then any other lifeform. They are bits of clay looking to play the game. They're strategy is simple; enter another creature, infiltrate their cells, and use your cells to self-replicate. It's a winning idea. Animals, plants, even bacteria have had viruses pretty much since they each started playing the game.
 
-Viruses are so simple they only need few thousand genes. Humans have three billion for comparison. Such is the advancements in capabilities billions of years can accumulate Even so, this virus and you are both on the scoreboard.
+Viruses are so simple they need only a few thousand genes. Humans have three billion for comparison. Even with this difference in size and abilities this virus and you are both on the scoreboard.
 
 Why?
 
-Modeling clay is metaphor for genes, which in the real world are made of DNA or sometimes its simpler precursor RNA. Genes are chemical blueprints that determine the genetic traits of all creatures, from blue eyes in humans to gills in fish.
+Modeling clay is a metaphor for genes, which in the real world are made of DNA or sometimes its simpler precursor RNA. Genes are the chemical blueprints that determine genetic traits of all creatures, from eye color in humans to gill size in fish.
 
-Yet, the Game of Life score board doesn't count which genes exist. Why would life reward the now, if the future is always so unique.
+Yet, the Game of Life score board doesn't count which genes exist. Why would life reward the now, if the future is always so unique and unpredictable.
 
-The score board counts how many of genes today can get into the future. Usually this means a creatures direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs) or eusociality (ant colonies). Either way, life has only emerged once, it can't afford to lose all its players regardless of what the future holds.
+That's why the score board counts kids, or how many of todays' genes can get into the future. Usually this means a direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs) or eusociality (ant colonies). Either way, life needs to repopulate to keep playing the game.
 
 So, life only wants genes that can survive in the unique time and place that tomorrow brings.
 
-This virus is an example. It succeeded in finding a host, so will in the future. While you may complain, that chicken soup you're about to have was also a lifeform, and you're using it to get into the future too.
+This virus is an example. It succeeded in finding a host and so will be in the future. While you may complain, that chicken soup you're about to have was once a lifeform, and you're using it to get into the future too.
 
-So, why are you, the virus, and your breakfast on the score board together? 
+So, despite being so very different, you and the virus are on the score board together. Why? Because you're on the same team! The Game of Life has one team and evolution is the only coach.
 
-Because you're on the same team!
+Life is the creator of genes, and evolution selects which will in the squad of tomorrow by valuing procreation today. Evolution is not scouting for star players. The game board and clock are too unique per time and location for any supposed special species to continuously overcome entropy. While you may not think all genes are on the same team, evolution does. After all, why would life favour some of its genes over others.
 
-Here's the kicker about the Game of Life. No one can win alone. Evolution is not scouting for star players. The game board and clock are too unique per time and location for any supposed special species to ever harvest all the available energy enough to overcome entropy.
+Life does not want to defeat itself. The more genes are playing the game, the more chances life has to find the ones who can keep defeat its true enemy, entropy. That is what evolution is editing for, to find the lifeforms capable of outpacing entropy inside a functioning team, or as biologist says, ecosystem.
 
-While you may not think all genes are on the same team, life does. After all, why would life favour genes over others. Life needs to defeat its true enemy, entropy, not itself.
+Life is a team sport, and cares not for divas or legacies, but diversity of numbers, species, and specialties. Life is not about getting rid of the competition, but finding the best players for the team who can wake up and play tomorrow.
 
-The more genes are playing the game, the more chances life has to find the ones who can keep the Game of Life going. With constant changes in the game board and clock, every lifeform must be committed to seeing this as their shared problem. That is what evolution is editing for, to find the lifeforms capable of being a functioning team, or as biologist says, ecosystem.
+Of course lifeforms themselves do not know this. They are bits of clay who have already hardened and set in their forms. They are inside the game and cannot stand above it.
 
-Life is a team sport, and cares not for star players, but diversity of numbers, species, and specialties. Life cannot be about getting rid of the competition, but finding the best players for the team.
+So yes, lifeforms seemingly fight for survival. Even your virus might kill you. Perhaps its numbers explode and overwhelm your defenses. But it doesn't want to. Why would the virus want to kill you, if your its host. Which is most viruses are relatively quite harmless.
 
-Of course lifeforms do not know this.
+The ones that kill quickly don't last long because they too are teammates of the ecosystem. Their value is testing the existing lifeforms for strength, and helping life determine which ones have the best genes to best survive the future. The philosophy is the same for every creature. Squirrels and trees, bees and flowers, mushrooms and fallen trees. Every single lifeform depends on another, and together they make an ecosystem that harvests enough energy to keep fueling life's metabolism to the next generation of children that can hopefully grow into their niche, their phenotype, in the world.
 
-Your virus, any virus, might kill you. Perhaps its numbers explode and overwhelm your defenses. It doesn't want to. Why would the virus want to kill you, if your its host. The scoreboard hates that too, as most viruses are quite harmless.
+That is the scoreboard. 
 
-Their value is simply testing the existing lifeforms for strength, and helping life determine which ones have the best genes to best survive the future.
+A group or organisms, who form an ecosystem of  producers to harvest energy, herbivores who graze them and spread their seed, the predators who grazers in check, and decomposers who press the reset button and disassemble the ingredients just enough to fertilize the producers and keep the system cycling and procreating a new generation to outrun the game clock regardless of what the game board changes to.
 
-Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. And this is the scoreboard awards points. Through the means of evolution. 
+And this is the Game of Life. The scoreboard is the last piece, those lifeforms who can procreate, score a point. It's up to the next generation to keep scoring. Now, to help us get back on the scoreboard, let's better understand how the game is played in our technological lives.
+
+
+
+
+
+## Chapter 7—What Does the Game of Life Mean
+
+Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. This Game of Life present was a faster way to explain the core concepts. 
 
 But what is evolution select for? The genes that can overcome entropy's has so many many attacks. Here's but a few.
 
