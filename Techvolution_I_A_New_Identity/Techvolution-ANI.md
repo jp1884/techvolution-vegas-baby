@@ -907,53 +907,72 @@ Life now had to answer who should stay in the game. The Game of Life needed a sc
 
 <!-- remember Jumanji, ie, that shared problems creates the best of friends, regardless of personal identities. and that is what evolution is editing for, to find the lifeforms capable of being a functioning friend's group/ecosystem -->
 
-You've got the Game of Life at your feet. The pieces look different. The rule book, game board, sand glass, and clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
+You've got the Game of Life at your feet. The pieces look different now. The rule book, game board, sand glass, and modeling clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
 
-Are you ready? Let's press the start button!
+You want to play it. Are you ready? Let's press the start button!
 
 Not so fast. Playing isn't winning. Before we venture on the game board, let's learn what puts creatures on the score board.
 
-Just now you cough. It's so small it almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring because of a scratchy pain.
+Just now you cough. It's so small it almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring for this wheeze because it came with a scratchy pain.
 
-Your know right away. Excitement kept you awake too long. With little sleep your immune system couldn't keep infection at bay. You're sick.
+Your know right away. Excitement kept you up too late. With so little sleep your immune system couldn't keep infection at bay. You're sick.
 
-Viruses are tiny, but no different then any other lifeform. They are bits of clay looking to play the game. They're strategy is simple; enter another creature, infiltrate their cells, and use your cells to self-replicate. It's a winning idea. Animals, plants, even bacteria have had viruses pretty much since they each started playing the game.
+Viruses are tiny, but no different then any other lifeform; bits of clay looking to play the game. They're strategy is forgo self-sufficiency, and instead invade another creature and hijack its cells to eat and self-replicate. It's a winning idea. Animals, plants, even bacteria have viruses, almost since their own games started.
 
-Viruses are so simple they need only a few thousand genes. Humans have three billion for comparison. Even with this difference in size and abilities this virus and you are both on the scoreboard.
+Viruses are so simple they need only a few thousand genes. Humans have three billion for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
 
 Why?
 
-Modeling clay is a metaphor for genes, which in the real world are made of DNA or sometimes its simpler precursor RNA. Genes are the chemical blueprints that determine genetic traits of all creatures, from eye color in humans to gill size in fish.
+Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. Genes are the chemical blueprints that determine every creatures genetic traits, from eye color in humans, to gill size in fish.
 
-Yet, the Game of Life score board doesn't count which genes exist. Why would life reward the now, if the future is always so unique and unpredictable.
+But, the Game of Life score board didn't give points to your virus for existing today. Why would life reward the now, if according to the arrow ot time, the unique, unpredictable, and dangerous future is where it must play next?
 
-That's why the score board counts kids, or how many of todays' genes can get into the future. Usually this means a direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs) or eusociality (ant colonies). Either way, life needs to repopulate to keep playing the game.
+That's why the score board counts kids, or how many of todays' genes can get themselves into the future. Usually this means direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs) or eusociality (ant colonies). 
 
-So, life only wants genes that can survive in the unique time and place that tomorrow brings.
+And your throat is scratchy because so many viruses are hijacking nearby cells and procreating into the millions. Each new virus capsid shell is a point for the genes they carry.
 
-This virus is an example. It succeeded in finding a host and so will be in the future. While you may complain, that chicken soup you're about to have was once a lifeform, and you're using it to get into the future too.
+Life loves it, but life loves all its creations. So much so, it can't decide between them. Thus, life uses a coach called evolution to select the squad. Using natural selection, evolution picks the genes best adapted to play the game. But evolution is not searching for star players, ones so good they overwhelm playing time for other players. You'll be happy to know, even this virus does not want to kill you.
 
-So, despite being so very different, you and the virus are on the score board together. Why? Because you're on the same team! The Game of Life has one team and evolution is the only coach.
+Life does not fight itself in its own game. Entropy is its only enemy, for life and its forms So, you and the virus are on the same team!
 
-Life is the creator of genes, and evolution selects which will in the squad of tomorrow by valuing procreation today. Evolution is not scouting for star players. The game board and clock are too unique per time and location for any supposed special species to continuously overcome entropy. While you may not think all genes are on the same team, evolution does. After all, why would life favour some of its genes over others.
+The Game of Life is a team sport, and evolution cares not for divas or legacies. The game board and clock are so unique, evolution works to find evermore diverse numbers, species, and specialties to be prepared for the unknowns of tomorrow. In short, natural selection is life's answer to the universe all powerful natural laws.
 
-Life does not want to defeat itself. The more genes are playing the game, the more chances life has to find the ones who can keep defeat its true enemy, entropy. That is what evolution is editing for, to find the lifeforms capable of outpacing entropy inside a functioning team, or as biologist says, ecosystem.
+Of course individual creatures do not know this. They are bits of clay who have already hardened. They are inside the game and cannot stand above it.
 
-Life is a team sport, and cares not for divas or legacies, but diversity of numbers, species, and specialties. Life is not about getting rid of the competition, but finding the best players for the team who can wake up and play tomorrow.
+So yes, individual creatures fight for survival. There's only room for so many lions, tigers, and bears because of what scientists call the "carrying capacity", the amount of energy and nutrients in a area available to support life. Evolution is looking for players who can best harvest this energy in a reliable equilibrium.
 
-Of course lifeforms themselves do not know this. They are bits of clay who have already hardened and set in their forms. They are inside the game and cannot stand above it.
+Shared available energy, nutrients, habitat defines an ecosystem's environment. An ecosystem is a community of plants and animals living in the same area. It includes climatic conditions, elevation, the presence or absence of water, and other non-living parts of the environment. Examples are the tropical rainforest of the Amazon, Kazakhstan's expansive grasslands, the deep ocean, and on down the list like episodes of BBC Planet Earth. All are somewhat interconnected but each has a very distinct requirement for any lifeform who plays the game there.
 
-So yes, lifeforms seemingly fight for survival. Even your virus might kill you. Perhaps its numbers explode and overwhelm your defenses. But it doesn't want to. Why would the virus want to kill you, if your its host. Which is most viruses are relatively quite harmless.
+Natural selection is what makes chosen species harvest each ecosystem so efficiently. Not only do creature become specialists, like condors being so aerodynamic they can fly over the open ocean for months, or camels keep weeks of water supplies in giant humps they can survive in the Sahara, animals become specialists at working together.
 
-The ones that kill quickly don't last long because they too are teammates of the ecosystem. Their value is testing the existing lifeforms for strength, and helping life determine which ones have the best genes to best survive the future. The philosophy is the same for every creature. Squirrels and trees, bees and flowers, mushrooms and fallen trees. Every single lifeform depends on another, and together they make an ecosystem that harvests enough energy to keep fueling life's metabolism to the next generation of children that can hopefully grow into their niche, their phenotype, in the world.
+Ecosystems are not about making due with the carrying capacity, but working together to expand it. Every piece of energy, or calorie once plants convert light into biomass, is vital. So grizzly bears know when to expect the salmon spawning run, or flowers what bees like their colors. Your tiny virus even contributes to finding efficiencies. It's job is testing the existing lifeforms for strength, and helping evolution determine which ones have the best genes to procreate in the future. 
 
-That is the scoreboard. 
+A group or organisms, who form system of producers to harvest energy, herbivores who graze them and spread their seed, the predators who grazers in check, and decomposers who press the reset button and disassemble the ingredients just enough to fertilize the producers and keep the system cycling and procreating a new generation to outrun the game clock regardless of what the game board changes to.
 
-A group or organisms, who form an ecosystem of  producers to harvest energy, herbivores who graze them and spread their seed, the predators who grazers in check, and decomposers who press the reset button and disassemble the ingredients just enough to fertilize the producers and keep the system cycling and procreating a new generation to outrun the game clock regardless of what the game board changes to.
+Every single lifeform depends on another, and together they make an ecosystem that harvests energy to keep fueling more of life's metabolism to the next generation of children. When genes are challenged by environmental influences like hurricane winds or long draughts, their phenotypes will look to find their own niche, their own den, nest, or corner of the world.
 
-And this is the Game of Life. The scoreboard is the last piece, those lifeforms who can procreate, score a point. It's up to the next generation to keep scoring. Now, to help us get back on the scoreboard, let's better understand how the game is played in our technological lives.
+All the while, procreation is the scoreboard, and it makes new species as needed as the arrow of time moves forward.
+
+And this is the Game of Life. The scoreboard of natural selection was the last piece, those lifeforms who can help procreation, score a point for the team of life. It's up to the next generation to keep scoring. natural selection is life's answer to the natural laws.
+
+Now we know how to play the game. Turn the page to hit the start button. It's time to play. Let's win the Game of Technological Life, what we can also call techvolution.
 
 
+
+
+----
+
+- equilibrium
+- no lifeform has ever come back.
+- natural selection is life's answer to the natural laws. 
+- see a ecosystem not as animals fighting for survival, but as biologists do, species working in tandem
+- that's what makes species, not just the aerodynamics of birds, but the instinct to breed right in time for spring, etc..
+
+Because life wants genes that can survive in the unique time and place tomorrow brings.
+
+This virus is an example. It succeeded in finding a host, replicating itself, and so will be in the future. While you may complain, that hot chicken soup you're about to have was once a lifeform, and you're using it to stay alive and keep your genes around to hopefully pass your genes into the future. Hopefully that poultry had kids, or close cousins, before it died for you.
+
+So, despite being so very different, you and the virus are on the score board together. Why? Because you are on the same functioning team, or as biologist says, ecosystem. If that's hard to imagine, just realize you were chosen by the same coach.
 
 
 
@@ -963,6 +982,8 @@ Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Speci
 
 But what is evolution select for? The genes that can overcome entropy's has so many many attacks. Here's but a few.
 
+
+<!-- POINT ONE, when was the last time you grew hair to combat radiation? -->
 - Thermal Entropy: Loss of heat/inability to maintain metabolic temperature
 - Radiation Damage: DNA mutation, cellular breakdown
 - Metabolic Stress: Energy depletion, inability to acquire nutrients
@@ -976,7 +997,7 @@ The scoreboard is the number of species that can procreate. The more species mea
 
 The natural forces are ever acting on matter. When matter is concentrated, available energy makes planets, mountains, rivers, and stars of a game board. The same forces of nature also un-concentrate matter in many different ways, a process we colloquially call entropy. The job if life is to find useful energy, harvest it to fuel metabolic processes, and grow ever more cells with specialized functions.
 
-
+<!-- POINT TWO, identifying artificial/story based selection  -->
 
 
 The ones on the game board are the ones on the scoreboard. The ones who can most procreate are. Fight entropy, but only temporarily. In order to adapt to changing times, means changing the players consistently. Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over "by means of natural selection."
