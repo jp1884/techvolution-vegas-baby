@@ -907,57 +907,51 @@ Life now had to answer who should stay in the game. The Game of Life needed a sc
 
 <!-- remember Jumanji, ie, that shared problems creates the best of friends, regardless of personal identities. and that is what evolution is editing for, to find the lifeforms capable of being a functioning friend's group/ecosystem -->
 
-You've got the Game of Life at your feet. The pieces look different now. The rule book, game board, sand glass, and modeling clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
+You've got the Game of Life at your feet. The pieces look different to you now. The rule book, game board, sand glass, and modeling clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
 
 You want to play it. Are you ready? Let's press the start button!
 
 Not so fast. Playing isn't winning. Before we venture on the game board, let's learn what puts creatures on the score board.
 
-Just now you cough. It's so small it almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring for this wheeze because it came with a scratchy pain.
+Just now you cough. It's so small it almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring now for the scratchy pain in your throat.
 
 Your know right away. Excitement kept you up too late. With so little sleep your immune system couldn't keep infection at bay. You're sick.
 
-Viruses are tiny, but no different then any other lifeform; bits of clay looking to play the game. They're strategy is forgo self-sufficiency, and instead invade another creature and hijack its cells to eat and self-replicate. It's a winning idea. Animals, plants, even bacteria have viruses, almost since their own games started.
+Viruses are tiny, but no different then any other lifeform; they are still bits of clay playing the game. Their strategy is simple; forgo reproductive parts and instead invade another creature and hijack its cells to self-replicate. It's a winning idea. Animals, plants, even bacteria have viruses, almost since their own games started.
 
-Viruses are so simple they need only a few thousand genes. Humans have three billion for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
+Viruses are so simple they need only a few thousand genes. Humans have three billion for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard.
 
 Why?
 
-Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. Genes are the chemical blueprints that determine every creatures genetic traits, from eye color in humans, to gill size in fish.
+Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. From eye color to gill size, genes are the chemical blueprints that determine every creatures genetic traits, what scientist call genotype.
 
-But, the Game of Life score board didn't give points to your virus for existing today. Why would life reward the now, if according to the arrow ot time, the unique, unpredictable, and dangerous future is where it must play next?
+But, the Game of Life score board doesn't give points for genes simply existing. Why would life reward the now? According to the unchangeable arrow ot time, the unique, unpredictable, and dangerous future is where it must focus.
 
-That's why the score board counts kids, or how many of todays' genes can get themselves into the future. Usually this means direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs) or eusociality (ant colonies). 
+That's why the score board counts kids, or how many of todays' genes can get themselves into the future. Usually this means direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs, human extended families) or eusociality (ant colonies, bee hives) to great success.
 
-And your throat is scratchy because so many viruses are hijacking nearby cells and procreating into the millions. Each new virus capsid shell is a point for the genes they carry.
+Why?
 
-Life loves it, but life loves all its creations. So much so, it can't decide between them. Thus, life uses a coach called evolution to select the squad. Using natural selection, evolution picks the genes best adapted to play the game. But evolution is not searching for star players, ones so good they overwhelm playing time for other players. You'll be happy to know, even this virus does not want to kill you.
+We know the game board always changes, the game clock moves forward, and modeling clay are anti-entropy pockets, but only for so long. To keep overcoming new challenges, creation needs new players. Procreation obliges more than just replacing the population. Because each kid has slightly unique genes, kids not only repopulate life, but also develop new abilities too.
 
-Life does not fight itself in its own game. Entropy is its only enemy, for life and its forms So, you and the virus are on the same team!
+Life loves every new gene. So much so, it uses a coach called evolution to select which to keep in the squad. Using natural selection, evolution picks the genes best adapted to play the game by, you guessed it, giving points for each new kid. Evolution by natural selection effectively gives points to the genes with the most kids.
 
-The Game of Life is a team sport, and evolution cares not for divas or legacies. The game board and clock are so unique, evolution works to find evermore diverse numbers, species, and specialties to be prepared for the unknowns of tomorrow. In short, natural selection is life's answer to the universe all powerful natural laws.
+This scores so many points against entropy. Not only has life evolved from single-cell organism to popular the planet. It's returned from five mass-extinction events to do it several more times. Here's why scoring procreation means life keeps winning the Game of Life.
 
-Of course individual creatures do not know this. They are bits of clay who have already hardened. They are inside the game and cannot stand above it.
+Because kids are the best way to value energy efficiency. The more kids an organism has, means the more efficiently it harvests energy compared to others. As each new generation values efficiency, eventually new kids breeds new species with new specialties.
 
-So yes, individual creatures fight for survival. There's only room for so many lions, tigers, and bears because of what scientists call the "carrying capacity", the amount of energy and nutrients in a area available to support life. Evolution is looking for players who can best harvest this energy in a reliable equilibrium.
+For example, brown bears are nearly identical to polar bears. They can even interbred. By giving points to offspring, life slowly turned brown bears with lighter coats into polar bears. After enough points (kids), life eventually found a way for bears to exist in the extreme Arctic environment.
 
-Shared available energy, nutrients, habitat defines an ecosystem's environment. An ecosystem is a community of plants and animals living in the same area. It includes climatic conditions, elevation, the presence or absence of water, and other non-living parts of the environment. Examples are the tropical rainforest of the Amazon, Kazakhstan's expansive grasslands, the deep ocean, and on down the list like episodes of BBC Planet Earth. All are somewhat interconnected but each has a very distinct requirement for any lifeform who plays the game there.
+And, with two bears species playing the game, if the game board gets hotter or colder, life can respond either way. But life does not only want new species. It wants species who work together too better harvest energy.
 
-Natural selection is what makes chosen species harvest each ecosystem so efficiently. Not only do creature become specialists, like condors being so aerodynamic they can fly over the open ocean for months, or camels keep weeks of water supplies in giant humps they can survive in the Sahara, animals become specialists at working together.
+This happens inside ecosystems, which is a community of plants and animals living in the same area. It includes climatic conditions, elevation, water levels, and other environmental factors. BBC Planet Earth episodes on tropical rain forests or expansive grasslands are all examples. 
 
-Ecosystems are not about making due with the carrying capacity, but working together to expand it. Every piece of energy, or calorie once plants convert light into biomass, is vital. So grizzly bears know when to expect the salmon spawning run, or flowers what bees like their colors. Your tiny virus even contributes to finding efficiencies. It's job is testing the existing lifeforms for strength, and helping evolution determine which ones have the best genes to procreate in the future. 
+Every ecosystem has limited available energy called its carrying capacity. Limited energy is why life values team players over stars. Life's ideal squad is made up of producers (plants, plankton) who convert energy to biomass. Grazers (deer, bats) who feed on the producers and often spread its seed. Predators (lions, bears) prevent grazers from overgrazing. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And viruses to test everyone for their strength in near real time.
 
-A group or organisms, who form system of producers to harvest energy, herbivores who graze them and spread their seed, the predators who grazers in check, and decomposers who press the reset button and disassemble the ingredients just enough to fertilize the producers and keep the system cycling and procreating a new generation to outrun the game clock regardless of what the game board changes to.
+Each segment checks the other from exhausting the carrying capacity of the ecosystem. While kids look for ways to expand it and use every piece of energy, or calorie once harvesters convert energy into biomass, to produce more kids.
 
-Every single lifeform depends on another, and together they make an ecosystem that harvests energy to keep fueling more of life's metabolism to the next generation of children. When genes are challenged by environmental influences like hurricane winds or long draughts, their phenotypes will look to find their own niche, their own den, nest, or corner of the world.
+Of course individual creatures do not know this. They are bits of clay already hardened. They are inside the game and cannot stand above it. So, individual creatures fight for survival. Bison bulls fighting to lead a herd, tigers chasing down a deer is very visual and makes for great drama. But it's not the Game of Life, just a part of it.
 
-All the while, procreation is the scoreboard, and it makes new species as needed as the arrow of time moves forward.
-
-And this is the Game of Life. The scoreboard of natural selection was the last piece, those lifeforms who can help procreation, score a point for the team of life. It's up to the next generation to keep scoring. natural selection is life's answer to the natural laws.
-
-Now we know how to play the game. Turn the page to hit the start button. It's time to play. Let's win the Game of Technological Life, what we can also call techvolution.
-
-
+Kids are the future, and its why you got the Game of Life is the perfect Christmas or birthday present. And now you know how to play the game. Turn the page to hit the start button. It's time to play. Let's win the Game of Technological Life, what we can also call techvolution.
 
 
 ----
@@ -967,6 +961,7 @@ Now we know how to play the game. Turn the page to hit the start button. It's ti
 - natural selection is life's answer to the natural laws. 
 - see a ecosystem not as animals fighting for survival, but as biologists do, species working in tandem
 - that's what makes species, not just the aerodynamics of birds, but the instinct to breed right in time for spring, etc..
+- Kids are the future, and its why you got the Game of Life is the perfect Christmas or birthday present.
 
 Because life wants genes that can survive in the unique time and place tomorrow brings.
 
@@ -974,6 +969,16 @@ This virus is an example. It succeeded in finding a host, replicating itself, an
 
 So, despite being so very different, you and the virus are on the score board together. Why? Because you are on the same functioning team, or as biologist says, ecosystem. If that's hard to imagine, just realize you were chosen by the same coach.
 
+--
+
+But evolution is not searching for star players, ones so good they consume playing time by eradicating others. Even your virus getting you sick does not want to truly harm you, that would be like us burning our farms down.
+
+Life cannot fight itself and win the game. Entropy is its only enemy, for life and therefore all its forms. So, you and the virus are on the same team!
+
+
+Flowers and bees, squirrels and oak trees. So many species work together to harvest available energy and thereby replant, repopulate a new ecosystem each year. All the while, procreation is the scoreboard, and it makes new species as needed as the arrow of time moves forward. 
+
+Meaning the best way for a genotype to get more children to grow in such a way to harvest energy in a way no creature is yet. This is called the phenotype of a organism and includes everything from a bush growing tall like a tree, or a bird leaning where better fishing grounds are. Ecosystems allow customized creatures to work on a intricate timetable of cooperation.
 
 
 ## Chapter 7—What Does the Game of Life Mean
@@ -997,7 +1002,9 @@ The scoreboard is the number of species that can procreate. The more species mea
 
 The natural forces are ever acting on matter. When matter is concentrated, available energy makes planets, mountains, rivers, and stars of a game board. The same forces of nature also un-concentrate matter in many different ways, a process we colloquially call entropy. The job if life is to find useful energy, harvest it to fuel metabolic processes, and grow ever more cells with specialized functions.
 
-<!-- POINT TWO, identifying artificial/story based selection  -->
+<!-- POINT TWO, you can drop your adaptations -->
+
+<!-- POINT THREE, identifying artificial/story/ideological based selection  -->
 
 
 The ones on the game board are the ones on the scoreboard. The ones who can most procreate are. Fight entropy, but only temporarily. In order to adapt to changing times, means changing the players consistently. Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over "by means of natural selection."
