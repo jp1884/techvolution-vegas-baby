@@ -911,48 +911,69 @@ You've got the Game of Life at your feet. The pieces look different to you now. 
 
 You want to play it. Are you ready? Let's press the start button!
 
-Not so fast. Playing isn't winning. Before we venture on the game board, let's learn what puts creatures on the score board.
+Not so fast. Playing isn't winning. Before your venture onto your game board, let's learn what puts creatures on the score board.
 
-Just now you cough. It's so small it almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring now for the scratchy pain in your throat.
+Just now you cough. It's so small it almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring now because there's a scratchy pain in your throat.
 
-Your know right away. Excitement kept you up too late. With so little sleep your immune system couldn't keep infection at bay. You're sick.
+You know right away. Excitement kept you up too late. With so little sleep your immune system couldn't keep infection at bay. You're sick.
 
-Viruses are tiny, but no different then any other lifeform; they are still bits of clay playing the game. Their strategy is simple; forgo reproductive parts and instead invade another creature and hijack its cells to self-replicate. It's a winning idea. Animals, plants, even bacteria have viruses, almost since their own games started.
+Viruses are tiny, but no different than any other lifeform; they are still bits of clay playing the game. Their strategy is simple; forgo reproductive parts and instead self-replicate by invading another creature and hijacking its cells. It's a winning idea. Animals, plants, even bacteria attracted viruses soon after their games started.
 
-Viruses are so simple they need only a few thousand genes. Humans have three billion for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard.
-
-Why?
-
-Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. From eye color to gill size, genes are the chemical blueprints that determine every creatures genetic traits, what scientist call genotype.
-
-But, the Game of Life score board doesn't give points for genes simply existing. Why would life reward the now? According to the unchangeable arrow ot time, the unique, unpredictable, and dangerous future is where it must focus.
-
-That's why the score board counts kids, or how many of todays' genes can get themselves into the future. Usually this means direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs, human extended families) or eusociality (ant colonies, bee hives) to great success.
+Viruses are so simple they need only a few thousand genes. Humans have three billion for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
 
 Why?
 
-We know the game board always changes, the game clock moves forward, and modeling clay are anti-entropy pockets, but only for so long. To keep overcoming new challenges, creation needs new players. Procreation obliges more than just replacing the population. Because each kid has slightly unique genes, kids not only repopulate life, but also develop new abilities too.
+Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. From eye color to gill size, genes are the chemical blueprints that determine every creature's genetic traits, what scientist call genotype.
 
-Life loves every new gene. So much so, it uses a coach called evolution to select which to keep in the squad. Using natural selection, evolution picks the genes best adapted to play the game by, you guessed it, giving points for each new kid. Evolution by natural selection effectively gives points to the genes with the most kids.
+But, the score board doesn't give points for genes simply existing. Why would life reward the now? According to the unchangeable arrow of time, the unique, unpredictable, and dangerous future is where life must focus.
 
-This scores so many points against entropy. Not only has life evolved from single-cell organism to popular the planet. It's returned from five mass-extinction events to do it several more times. Here's why scoring procreation means life keeps winning the Game of Life.
+That's why the score board counts kids, or how many of todays' genes can get themselves into the future. Usually this means direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs, human extended families) or eusociality (ant colonies, bee hives). 
 
-Because kids are the best way to value energy efficiency. The more kids an organism has, means the more efficiently it harvests energy compared to others. As each new generation values efficiency, eventually new kids breeds new species with new specialties.
+The scoreboard values kids no matter how they're supported.
 
-For example, brown bears are nearly identical to polar bears. They can even interbred. By giving points to offspring, life slowly turned brown bears with lighter coats into polar bears. After enough points (kids), life eventually found a way for bears to exist in the extreme Arctic environment.
+We know the game board always changes and the game clock always ticks away a organism's time. To overcome new challenges, creation of course needs new players. So, procreation obliges with repopulation, but provides something even more valuable. That is because almost all genes do not exactly copy themselves during procreation. Instead there are slight changes, giving each kid unique genes.
 
-And, with two bears species playing the game, if the game board gets hotter or colder, life can respond either way. But life does not only want new species. It wants species who work together too better harvest energy.
+Meaning, kids not only repopulate life, but also develop new abilities too.
 
-This happens inside ecosystems, which is a community of plants and animals living in the same area. It includes climatic conditions, elevation, water levels, and other environmental factors. BBC Planet Earth episodes on tropical rain forests or expansive grasslands are all examples. 
+This is pivotal. We know every time and place in the universe is unique, now we know is every single lifeform too. The Game of Life is about matching the unique requirements of the environment with the unique abilities of a lifeform.
 
-Every ecosystem has limited available energy called its carrying capacity. Limited energy is why life values team players over stars. Life's ideal squad is made up of producers (plants, plankton) who convert energy to biomass. Grazers (deer, bats) who feed on the producers and often spread its seed. Predators (lions, bears) prevent grazers from overgrazing. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And viruses to test everyone for their strength in near real time.
+But life cannot do the matching. It loves all its manifestations too much and so uses a coach called evolution. Using natural selection, evolution picks the genes best adapted to play the game by, you guessed it, giving points for each new kid.
 
-Each segment checks the other from exhausting the carrying capacity of the ecosystem. While kids look for ways to expand it and use every piece of energy, or calorie once harvesters convert energy into biomass, to produce more kids.
+And that's how the life's players get chosen.
 
-Of course individual creatures do not know this. They are bits of clay already hardened. They are inside the game and cannot stand above it. So, individual creatures fight for survival. Bison bulls fighting to lead a herd, tigers chasing down a deer is very visual and makes for great drama. But it's not the Game of Life, just a part of it.
+This strategy works very well against entropy. Not only has life evolved from single-cell organism to populate the planet. It's suffered five mass-extinction at the hands of entropy, and repopulated the planet each time.
 
-Kids are the future, and its why you got the Game of Life is the perfect Christmas or birthday present. And now you know how to play the game. Turn the page to hit the start button. It's time to play. Let's win the Game of Technological Life, what we can also call techvolution.
+Here's why valuing procreation keeps winning the Game of Life.
 
+When encountering the realities of game board and game clock, prioritizing offspring is the best way for life to value energy efficiency. The more kids an organism has, means the more efficiently it harvests energy compared to others. And uses the slight variations of lifeform to evolve new species as needed. 
+
+For example, brown bears are nearly identical to polar bears. They can even interbred. By giving points to offspring, life slowly turned brown bears living near the very cold Arctic with lighter coats into polar bears. After enough points (kids), life eventually created a slightly different bears with white coats, bigger paws, and a taste for seals.
+
+And, with two large bears species playing the game, if the game board gets hotter or colder, life can respond either way.
+
+But life does not want new, or any species, to succeed at any cost. Polar bears catching every seal would not be good for it, or anyone else. Remember life loves all its genes equally and thus wants as many kids as possible. That's why evolution selects not selfish star players, but team players who work together to harvest energy more efficiently.
+
+This cooperation happens inside ecosystems, which is a community of plants and animals living in the same area. Ecosystems include climatic conditions, elevation, water levels, and other environmental factors. BBC Planet Earth episodes on tropical rain forests or expansive grasslands showcase Earth's many ecosystems quite well. 
+
+There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem, what is called "carry capacity". Every ecosystem is configured to maximize its energy use.
+
+It starts with producers (plants, plankton) who convert energy to biomass. Grazers (deer, bats) who feed on the producers and often spread its seed. Predators (lions, bears) who prevent grazers from overgrazing. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time. This system of checks and balances rewards reciprocation while keeping overpopulation in check. 
+
+All the species of an ecosystem share carry capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. The species of an ecosystem can't win alone. That's why they're on the same team!
+
+Imagine that, your virus and you are teammates. Evolution knows if this virus proves you are to frail to fight it off, you are perhaps too frail to have or support kids too. The virus reciprocates to the ecosystem by ending the game of one lifeform, so the rest get more energy to play the game.
+
+Life must overcome all the forces of nature to sustain its existence. The last lesson of this amazing gift is understanding it's called the Game of Life, not the Game of You. You best play it by reciprocating with your teammates.
+
+Of course individual creatures do not know this. They are bits of clay already hardened. They are inside the game and cannot stand above it. So, individual creatures fight for survival. Bison bulls fighting to lead a herd, tigers chasing down a deer, venus fly traps capturing a wasp makes for great television.
+
+But it's not the Game of Life, just a minor part of it.
+
+The game is about scoring points by having offspring who stand a good chance of having even more offspring. Kids are literally the future and its why the Game of Life is the perfect Christmas or birthday present.
+
+Now that you know how the rule book, game board, sand clock, modeling clay and scoreboard work together, let's play the game!
+
+Not this game though. The page to hit the start button to play the sequel similar in so many ways but different in a few. Let's win the Game of Technological Life, what we can also call techvolution.
 
 ----
 
