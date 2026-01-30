@@ -122,11 +122,17 @@ In this sense, the "logical" part of the word "ideological" highlights the impor
 
 ## Table of Contents
 
+Foreword
 Preface
 Introduction
-Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
-Chapter 2—What Life Is: The Creator of Players
-Chapter 3—What Evolution Is: The Editor of Players
+Chapter 1—Presents Under the Tree
+Chapter 2—Booklet: The Rules to the Game
+Chapter 3—Game Board: The Emergent Environment
+Chapter 4—Sandglass: The Ever Present Clock
+Chapter 5—Clay: What Life Is, The Creator of Players
+Chapter 6—Scoreboard: What Evolution Is, The Editor of Players
+Chapter 7—What Does the Game of Life Mean
+
 Chapter 4—The History of Life's Evolution
 Chapter 5—Our History from Trees to Fire
 Chapter 6—The History of Civilization
@@ -192,19 +198,19 @@ Where We Are, and Where We're Going
 
 ### Discovery
 
-On August 24th, year 79, Mount Vesuvius erupted. The volcano pushed ash clouds miles into the sky. Soon ash and volcanic debris was falling like snow during a fierce Siberian blizzard. Thereafter, Italian towns Pompeii and Herculaneum were frozen in a single, catastrophic moment. A snapshot of Roman life was preserved under endless ash—everything from bread in ovens to human expressions of terror, from artistic frescoes to fragile scrolls.
+On August 24th, year 79, Mount Vesuvius erupted. The volcano pushed ash clouds miles into the sky. Soon scorching debris was falling for miles around like snow during a fierce Siberian blizzard. Thereafter, Italian towns Pompeii and Herculaneum were frozen in a single, catastrophic moment. A snapshot of Roman life was preserved under endless ash—everything from bread in ovens to human expressions of terror, from artistic frescoes to fragile scrolls.
 
-Yet this moment of destruction was just another period of profound loss. Even with all the many the ruins we can visit today, most of everything from the ancient world is gone. For example, historians estimate that over 99% of ancient literature was lost to time—burned, destroyed, disintegrated, or simply forgotten. Entire libraries, generations of human knowledge, vanished like the smoke of Mount Vesuvius. The Library of Alexandria, with its hundreds of thousands of scrolls, would become the most famous casualty of this sad intellectual loss.
+Yet this moment of destruction was just another period of profound loss. Even with all the many ruins we can visit today, most of everything from the ancient world is gone. For example, historians estimate that over 99% of ancient literature was lost to time—burned, destroyed, disintegrated, or simply forgotten. Entire libraries, generations of human knowledge, vanished like the smoke of Mount Vesuvius. The Library of Alexandria, with its hundreds of thousands of scrolls, would become the most famous casualty of this sad intellectual loss.
 
-But some fragments survived, often in garbage sites, old churches, or disaster sites like Pompeii and Herculaneum.
+But some fragments survived, often in garbage dumps, old churches, or disaster sites like Pompeii and Herculaneum.
 
 Covered by ash, the scrolls from Pompeii and Herculaneum were far too fragile to ever be opened. So we did not open them. They were collected and stored. It was left to our imaginations to dream of the knowledge that was locked inside.
 
-Until, like the microscope let us see unknown tiny worlds, modern CT scanners could finally see inside the ash scrolls while machine learning algorithms could decode the information the scans uncovered. Now, after nearly 2000 years, we could finally read this time capsule of information.
+Until, like the microscope let us see unknown tiny worlds, modern CT scanners could finally peer inside the ash scrolls, and machine learning algorithms could decode the information the scans uncovered. Now, after nearly 2000 years, we could finally read this time capsule of information.
 
-Even so, Dr. Elena Stavros hadn't expected much when she first ran the fragment through the advanced CT scan. Another piece of ancient debris, another dead end. But something in one of the algorithmic reconstructions dazzled her eye.
+Even so, Dr. Elena Stavros hadn't expected much when she ran the first fragment through the advanced CT scan. After endless hours in her lab she kept thinking "Another piece of ancient debris is another dead end". But something in one of the algorithmic reconstructions dazzled her eye.
 
-Lines of text emerged. The machine learning model peeled back layers of carbon and time, revealing Greek characters that seemed to shimmer with fairy dust on her computer monitor.
+Lines of text emerged. The machine learning model peeled back layers of carbon and time, revealing Greek characters that seemed to shimmer like fairy dust on her computer monitor.
 
 "It's not just text," she whispered to her research team. "It's a new dialogue!"
 
@@ -212,7 +218,7 @@ The manuscript was from Magos of Samos—a name barely mentioned in historical r
 
 A text fragment written not just to the future, but about the future.
 
-The AI had done more than decode text. It had resurrected a voice that had been waiting nearly two millennia to be heard. Magos' words, preserved by volcanic fire, decoded by machine intelligence, were a lost story of Socrates learning a vital lesson about the world that was remarkably prescient today.
+The AI had done more than decode text. It had resurrected a voice that had been waiting nearly two millennia to be heard. Magos' words, preserved by volcanic fire, decoded by machine intelligence, were a lost story of Socrates learning a vital lesson that was remarkably prescient today.
 
 Only fragments have been uncovered thus far, so the author filled in some gaps. It proved to be the best foreword the author and reader could ask for.
 
@@ -374,7 +380,7 @@ Socrates smiled, holding his weathered spear. "When I return we will get started
 
 ### Explainer
 
-Sadly, there was no Magos of Samos. There are plenty of scrolls found at Pompeii and Herculaneum. Scientists are just now starting to use CT scanners and machine learning to unlock their contents. Sadly, there are no lost ancient works yet found.
+Sadly, there was no Magos of Samos. There are plenty of scrolls found at Pompeii and Herculaneum. Scientists are just now starting to use CT scanners and machine learning to unlock their contents. So far, there are no lost ancient works found.
 
 Alas, the scene you just read is a fictional thought experiment—a glimpse into an alternate history where two of humanity's most transformative intellectual revolutions occurred simultaneously.
 
@@ -394,7 +400,7 @@ Plato wrote these lessons down, adding his own thoughts along the way, in books 
 
 Charles Darwin (Zographos), over two millennia later, revealed the mechanism by which all life adapts and evolves. Although many scientists laid the groundwork for Darwin, their contribution was often removing the buildup of erroneous human narratives, such as all animals being created as they exist today and the Earth only being a few thousand years old.
 
-While it was never going to be easy, Darwin's insights into natural selection, common descent, and evolutionary adaptation were always there to be discovered. After all, farmers long knew much about inheritance among plants and animals because they bred them so often. It took an insightful moment, like visiting the isolated Galapagos Islands for Darwin, or the Canary Islands for Zographos, to display natural selection and adaptation simply enough to seed evolution in our mind.
+While it was never going to be easy, Darwin's insights into natural selection, common descent, and evolutionary adaptation were always there to be discovered. After all, farmers long knew much about inheritance among plants and animals because they bred them so often. Even so, it took an very fortunate moment, like visiting the isolated Galapagos Islands for Darwin, or the Canary Islands for Zographos, to display natural selection and adaptation simply enough to seed evolution in someone's mind.
 
 When life's evolution was realized, it quickly transformed our understanding of the origin of species, including ourselves, in the natural world.
 
@@ -404,15 +410,15 @@ This thought experiment says if Socrates, or one of his followers like the hypot
 
 It's entirely possible Socrates or his students would have made the connection that because evolution was a natural law for biology, then it must be for humans and our technology as well.
 
-Surrounded by far more wilderness, ancient Greeks cherished their language, plays, ships, trade, and civilization. Wilderness was seen as a dangerous realm that required a civilized hero to subdue. Moreover Greeks were extremely adventurous, competitive, warlike, and commercial. Most people experienced tragedies such as shipwrecks, plagues, or sieges that made technology's value as the differentiator between survival and flourishing readily apparent.
+Surrounded by far more wilderness, ancient Greeks cherished their language, plays, ships, trade, and civilization. Wilderness was seen as a dangerous realm that required a civilized hero to subdue. Moreover Greeks were extremely adventurous, competitive, warlike, and commercial. Many people experienced tragedies such as shipwrecks, plagues, or sieges that made technology's value as the differentiator between survival and flourishing readily apparent.
 
-Thus, Greeks might have naturally accepted technological evolution as the guiding principle of their fate. They already had innovative tool using heroes such as Achilles and Odysseus but explained their success because of mythical abilities instead of their willingness to drop tools and master new ones as needed; famously seen when Odysseus built the Trojan horse to conquer Troy.
+Thus, Greeks might have naturally accepted technological evolution as the guiding principle of their fate. They already had innovative tool using heroes such as Achilles and Odysseus but explained their success because of mythical abilities instead of their willingness to drop tools and master new ones as needed; famously seen when Odysseus built the Trojan horse to finally conquer Troy after failing for a decade to take the walled city by traditional siege warfare.
 
 What the Greeks lacked was an understanding of evolution as a universal law.
 
 This led them, and thus us, down an inaccurate trail, the same way not knowing universal gravitation led Plato's student Aristotle (384–322 BC) to create an Earth-centered universe that guided humanity down the wrong path for centuries.
 
-Interestingly, Aristarchus of Samos (310-230 BC) advocated for a Sun-centered universe. He even calculated the relative sizes of the Sun, Moon, and Earth. Still, Aristotle's ideas won out and became orthodoxy. After rediscovering an old scroll of Aristarchus, Nicholas Copernicus would later re-establish the Sun-centered model of astronomy in the early 1500s. With this in mind, it's not impossible that an ancient Darwin could have existed among the 99% of ancient knowledge that was lost.
+Interestingly, Aristarchus of Samos (310-230 BC) advocated for a Sun-centered universe. He even calculated the relative sizes of the Sun, Moon, and Earth. Still, Aristotle's ideas won out and became orthodoxy. After rediscovering an old scroll of Aristarchus, Nicholas Copernicus (1473-1543) would later re-establish the Sun-centered model of astronomy in the early 1500s. With this in mind, it's not impossible that an ancient Darwin could have existed among the 99% of ancient knowledge that was lost.
 
 If early thinkers like Socrates, Plato, Aristotle had grasped the principle that humans and their tools co-evolve in response to environmental challenges—how might they have approached questions of ethics, politics, and justice?
 
@@ -947,7 +953,7 @@ Here's why valuing procreation keeps winning the Game of Life.
 
 When encountering the realities of game board and game clock, prioritizing offspring is the best way for life to value energy efficiency. The more kids an organism has, means the more efficiently it harvests energy compared to others. And uses the slight variations of lifeform to evolve new species as needed. 
 
-For example, brown bears are nearly identical to polar bears. They can even interbred. By giving points to offspring, life slowly turned brown bears living near the very cold Arctic with lighter coats into polar bears. After enough points (kids), life eventually created a slightly different bears with white coats, bigger paws, and a taste for seals.
+For example, brown bears are nearly identical to polar bears. They can even interbred. By giving points to offspring, evolution slowly turned brown bears living near the very cold Arctic with lighter coats into polar bears. After enough points (kids), speciation happens, meaning a new bear species is made, one with a white coat, bigger paws, and a taste for seals.
 
 And, with two large bears species playing the game, if the game board gets hotter or colder, life can respond either way.
 
@@ -957,7 +963,7 @@ This cooperation happens inside ecosystems, which is a community of plants and a
 
 There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem, what is called "carry capacity". Every ecosystem is configured to maximize its energy use.
 
-It starts with producers (plants, plankton) who convert energy to biomass. Grazers (deer, bats) who feed on the producers and often spread its seed. Predators (lions, bears) who prevent grazers from overgrazing. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time. This system of checks and balances rewards reciprocation while keeping overpopulation in check. 
+It starts with producers (plants, plankton) who convert energy to biomass. Grazers (deer, bats) who feed on the producers and often spread or fertilize its seed. Predators (lions, bears) who prevent grazers from overgrazing. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time. This system of checks and balances rewards reciprocation while keeping overpopulation in check. 
 
 All the species of an ecosystem share carry capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. The species of an ecosystem can't win alone. That's why they're on the same team!
 
@@ -1004,18 +1010,100 @@ Meaning the best way for a genotype to get more children to grow in such a way t
 
 ## Chapter 7—What Does the Game of Life Mean
 
-Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. This Game of Life present was a faster way to explain the core concepts. 
+The reason for your present should be more apparent know. The booklet is laws of nature that universal and constant. They manifest a physical reality with stars, planets, moons, and volcanoes that we can call a game board. Entropy, another universal law, deconstructs these items, eroding them away, and slowly turning everything into a bland nothing. 
 
-But what is evolution select for? The genes that can overcome entropy's has so many many attacks. Here's but a few.
+Here is but a few of entropy's attacks. We may take them for granted, but they are direct assaults from entropy, and given enough time, one will eventually kill us.
 
-
-<!-- POINT ONE, when was the last time you grew hair to combat radiation? -->
 - Thermal Entropy: Loss of heat/inability to maintain metabolic temperature
 - Radiation Damage: DNA mutation, cellular breakdown
 - Metabolic Stress: Energy depletion, inability to acquire nutrients
 - Oxidative Stress: Free radical damage to cellular structures
 - Hydration Loss: Cellular dehydration and functional breakdown
 - Mechanical Stress: Structural damage from physical forces such as gravity
+<!-- POINT ONE, when was the last time you grew hair to combat radiation? -->
+When was the last time you grew hair to combat Minnesota winters. Has any parent ever insisted his daughter increase skull bone strength before riding a bicycle. Do you change your brain wiring to remember all your internet passwords.
+
+Of course we can exercise to improve our health, be more aware of dangers like height, all of these phenotype related improvements. Our genetics remain overwhelmingly the same. Evolution cannot select us for our genes because our genes are not the thing keeping us safe from entropy.
+
+This book wants you to embrace being a technological being. Not because it's what I want, or think is best, but a technological being is how evolutions sees us. Technological is not the only barrier, but it is the first barrier against entropy's endless attacks. Tools move us on the game board, and speed up our lives to stay ahead of the passing game clock, and technology helps us expand the carrying capacity to better feed, house, and pass on energy to our kids.
+
+Everything in the Game of Life has an analogue in the technological world.
+
+Procreation of offspring, doesn't require human kids necessarily, but users of a technology. The evolutionary tree of life, has a technological version as well. Tools are constructed from the same ingredients of the universe like carbon, iron, and silicon. They too constructed as anti-entropy pockets, that slowly degrade over time, and need to be remade to keep their mission against entropy alive.
+<!-- POINT TWO, you can drop your adaptations -->
+But, here's the important vital. Like we learned with the extended phenotype, the tools that act as extensions of our selves, can be dropped. We are not born with tools, and therefore must learn to use them. But the fact we can learn some, means we can learn others as well.
+
+...
+
+<!-- POINT THREE, identifying artificial/story/ideological based selection  -->
+
+Here is a quick story about why you needed this present. We can use clouds in the sky, the lines of the stars, or crab in Japan. We'll go with the latter.
+
+There's this crab, Heikegani, that's native to Japan. It's rather small with long thin legs. It would be another unknown crab except it has a interesting feature. It's shell looks like a human face, in particular an angry samurai.
+
+Why?
+
+Local folklore says these crabs are reincarnations of the ancient Heike warriors defeated at the naval Battle of Dan-no-ura in 1185. That's one interpretation.
+
+Carl Sagan, the noted American astronomy and educator, says something else. In his famous book "Cosmos: A Personal Voyage" says the human face on the Heikegani crabs were caught by local fisherman who saw faces in the crabs, saved those one out of respect for fallen soldiers, and harvested the unlucky who didn't. Year after year this meant more newly hatched crabs had the genes to look like a face. After enough years went by, all the Heikegani look the same, a human face on their shell.
+
+This is exactly like natural selections of new traits in species, except it's done for unnatural reasons, which is why biologists call it "artificial selection".
+
+But there's no record of Japanese fisherman ever doing this. The crab isn't even a stable of any known diets and doesn't even offer that much edible meat. Evolutionary biologist Joel Martin thinks the crabs muscles and shell are simply built the way they are because natural selection says it works. The face nonsense is because of human pareidolia; the tendency for our perception to impose a meaningful interpretation on patterns, so that we detect meaning in places where there is none.
+
+Hence why we could have done this example using stars or clouds in the sky, as it's so easy for us to see horses, chariots, and endless other objects that are simply floating water vapor or balls of gas unimaginably far from each other.
+
+Meaning they only appear to be constellations or teddy bears in the sky from your vantage point. Which is a byproduct of your entirely unique time and place in the universe, but for that precise reason is not a universal law of nature.
+
+We do not know which answer explains why Heikegani crabs look they way they do. But the three questions leads us to the next step in the journey. 
+
+And is to accept our technological identity.
+
+
+
+
+
+
+
+
+
+
+
+because of something called the Weismann Barrier and the Central dogma of molecular biology. Essentially, the knowledge and experiences an organism has, cannot be communicated to future generations beyond slight variations in epigenic inheritance.
+
+Trauma, starvation, and etc. lead to different offspring that appear to compensate for the problem, although the DNA is unchanged, the what the DNA manifests (called epigenetics) is different.
+
+This book wants you to embrace being a technological being. Not because it's what I want, or think is best, but a technological being is how life sees us. What technological is the first barrier against entropy's endless attacks. Tools move us on the game board, and speed up our lives to stay ahead of the passing game clock, and technology helps us expand the carrying capacity to better feed, house, and pass on energy to our kids.
+
+Technology fits all the requirements of being an extension of biological creatures. Tools are constructed from the same ingredients of the universe like carbon, iron, and silicon. Tools are constructed as anti-entropy pockets, that slowly degrade over time. They combat and protect against
+
+The remaining requirements are achieved by integrating with humans.
+
+While tools can be mass-produced identically, humans are always different and add the variation evolution needs to tell the difference. 
+
+<!-- POINT TWO, you can drop your adaptations -->
+
+
+
+
+<!-- POINT THREE, identifying artificial/story/ideological based selection  -->
+But we also add the complication. Here's a story about what
+
+The Heikegani crab is native to Japan. Its shell looks an angry samurai. Local folklore says these crabs are reincarnations of the Heike warriors defeated at the naval Battle of Dan-no-ura hundreds of years ago.
+
+Evolutionary biologist Stephen Jay Gould thinks local fishermen might have inadvertently preserved crabs with more human-like shell markings. If a crab look like a face, it was saved from harvesting. Centuries later, each crab now looks as if its been tattooed in a Japanese style.
+
+Or, perhaps the crabs muscle tissue simply has a formation that humans see a face in. That is also a possibility. Either way, we can learn an important lesson.
+
+Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection."
+
+Selection is our scoreboard, and the Heikegani crab story highlights an pivotal difference we humans need to understand. This book could well be called "replacing artificial selection with natural"
+
+
+
+
+
+
 
 These are the enemies playing chess against life. To win, life needs liquid water, nutrients, to enable metabolic processes. To harvest energy allowed us to convert evermore energy back to matter requires, locomotion/direction, heat, senses...
 
@@ -1045,19 +1133,6 @@ Adaptation are full time call-up. As a result of natural selection, living organ
 Speciation, over time, as populations of a species become increasingly isolated and divergent, they may eventually give rise to new species—distinct groups of organisms that can no longer interbreed and exchange genetic material. This process of speciation is a fundamental mechanism by which evolution generates new forms of life. The rapid diversification of cichlid fish in the African Great Lakes, where over 2,000 species have evolved from a small number of ancestral species through adaptation to various ecological niches, is striking example of speciation.
 
 The evolution of one species is often intimately linked to the evolution of other species within the same ecosystem. This reciprocal process, known as co-evolution, can lead to the development of intricate ecological relationships and the emergence of complex, interdependent communities of living things. The co-evolution of flowering plants and their pollinators, such as bees and butterflies, is a prime example of this principle.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
