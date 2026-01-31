@@ -2327,3 +2327,19 @@ The former is a winning biological genetic recipe that simply overcomes the obst
 One shows what a genuine point on the scoreboard is, while the other shows a diversion from it. Here is why there is such an important difference between the two.
 
 ===
+
+
+
+
+
+
+
+Natural selection isn't the only way evolution gets new genes. Sexual selection is another way, where females will pick partners, for strength or apparent original looking features like tiny elephant tusks. Because females take these risks, they essential make speculative investments in features natural selection can't yet notice. Elephant tusks, peacock features, deer antlers are some examples of the many out there today.
+
+Genetic drift also changes species over time. This is where genetics change over time by mere happenstance, so species change but not because of any natural reasons. They can lead to new beneficial abilities, or disadvantages. For example if resources are plentiful for many generations, but then suddenly stop, genetic drift can expose who has what. Migration interactions, when two similar species suddenly inter-breed, also introducers new genes and changes species as well. 
+
+Epigenetics is the last way. because of something called the Weismann Barrier and the Central dogma of molecular biology. Essentially, the knowledge and experiences an organism has, cannot be communicated to future generations beyond slight variations in epigenic inheritance.
+
+Trauma, starvation, and etc. lead to different offspring that appear to compensate for the problem, although the DNA is unchanged, the what the DNA manifests (called epigenetics) is different.
+
+===
