@@ -957,7 +957,7 @@ For example, brown bears are nearly identical to polar bears. They can even inte
 
 And, with two large bears species playing the game, if the game board gets hotter or colder, life can respond either way.
 
-But life does not want new, or any species, to succeed at any cost. Polar bears eating every seal would not be good for it, or anyone else. Remember life loves all its genes equally and thus wants as many kids as possible. That's why evolution selects not selfish star players, but team players who work together to harvest energy more efficiently.
+But life does not want new, or any species, to succeed at any cost. Polar bears eating every seal would not be good for it, or anyone else. Remember life loves all its genes equally and thus wants as many genes having as many kids as possible. That's why evolution selects not selfish star players, but team players who work together to harvest energy more efficiently.
 
 This cooperation happens inside ecosystems, which is a community of plants and animals living in the same area. Ecosystems include climatic conditions, elevation, water levels, and other environmental factors. BBC Planet Earth episodes on tropical rain forests or expansive grasslands showcase Earth's many ecosystems quite well. 
 
@@ -965,9 +965,13 @@ There's only so much energy, usually sunlight but sometimes volcanic heat too, a
 
 It starts with producers (plants, plankton) who convert energy to biomass. Grazers (deer, bats) who feed on the producers and often spread or fertilize its seed. Predators (lions, bears) who prevent grazers from overgrazing. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time. This system of checks and balances rewards reciprocation while keeping overpopulation in check. 
 
-All the species of an ecosystem share carry capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. The species of an ecosystem can't win alone. That's why they're on the same team!
+All the species of an ecosystem share carry capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. The species of an ecosystem can't win alone.
 
-Imagine that, your virus and you are teammates. Evolution knows if this virus proves you are to frail to fight it off, you are perhaps too frail to have or support kids too. The virus reciprocates to the ecosystem by ending the game of one lifeform, so the rest get more energy to play the game.
+That's why they're on the same team!
+
+Imagine that, your virus and you are teammates. Evolution knows if this virus proves you are to frail to fight it off, you are perhaps too frail to have or support kids too. The virus reciprocates to the ecosystem by ending the game of one lifeform, so the rest get more energy of the carrying capacity to play the game.
+
+In return for not catching every seal, the polar bears get seals who can hunt, and bring more of the energy of the producers to the kids of the polar bears.
 
 Life must overcome all the forces of nature to sustain its existence. The last lesson of this amazing gift is understanding it's called the Game of Life, not the Game of You. You best play it by reciprocating with your teammates.
 
@@ -1010,43 +1014,43 @@ Meaning the best way for a genotype to get more children to grow in such a way t
 
 ## Chapter 7—What Does the Game of Life Mean
 
-The Game of Life metaphor is pretty accurate way to describe life's time on Earth. The physical world has its unflappable rules, the biological world must create new genes, to harvest enough energy, to keep overcoming enough challenges to keep the game going.
+Before we go further in our quest for a new technological identity, there's some thing to say about the Game of Life.
 
-Of course, specialists could highlight gaps. For example entropy is far more complex than just "degrading things". Natural laws, as laws, have many exceptions at the extremes of temperature, velocity, gravity. Time slows down as we approach light speed is one of them. But in everyday life on Earth, the natural laws are indeed true. 
+This game is a pretty accurate way to describe life's time on Earth, but of course not perfect. Specialists could highlight problems with the metaphor. For example entropy is far more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity. For example, time slows as we approach light speed. But these extremes are rarely a factor in everyday life on Earth, so its fair to say the booklet of natural laws is absolute in our experiences. 
 
-Where we can use some extra detail is knowing the other mechanisms evolution uses to pick the team.
+However, we should go into more detail understanding evolution's other selection methods.
 
-Because natural selection isn't the only way evolution finds new genes. There are several others. Sexual selection, where females select males for certain traits like tusks or feather color. Genetic drift, random changes in mutation that may or may not help a species, the rare all dark black peppered moth is an example. Migration interactions, where species diverge into separate pockets, but eventually reintegrate to exchange their genes again. Polar and brown bears mating to create "hybrid" offspring is a current example.
+Because natural selection isn't the only way evolution finds new genes. Other mechanisms include sexual selection, where females select males for novel traits like tusks or feather color and migration interactions, where species diverge into separate pockets, but reintegrate to exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
 
-Another way species can change is through epigenetics. Genes determine characteristics of cells. They are surrounded in proteins that express those genes to the lifeform. These "coatings" can change how genes manifests based on parental experiences and traumas.
+Species can also change not with new genes, but when their genes manifest differently. This is called epigenetics. Genes communicate with each other via a "coating" of proteins. These proteins change how genes manifests, often by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation as a reaction to their parents being malnourished as World War II raged around them.
 
-For example Dutch parents in 1944-45 had kids with increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation as a reaction their parents being malnourished during World War II.
+While epigenetics can change a player a little bit, it's important to know genes can't actually change based on anyone's lived experiences. The Weismann Barrier and the Central dogma of molecular biology both show the knowledge and experiences an organism has cannot be communicated to future generations beyond slight variations in epigenetic inheritance.
 
-Epigenetics can change, genes never do. The Weismann Barrier and the Central dogma of molecular biology both show the knowledge and experiences an organism has, cannot be communicated to future generations beyond slight variations in epigenetic inheritance. Current Dutch children are quite healthy.
+Each of these evolutionary mechanisms introduces new genes and variations into the game. However, each new player must still pass the test of natural selection, meaning harvesting enough resources to procreate. This is why our Game of Life "coach" is this evolutionary mechanism.
 
-These are the other ways life introduces new genes into the game. However, each one must still pass the test of natural selection. This is why our Game of Life "coach" is this evolutionary mechanism. So, while in physics, chemistry, geology, and biology, there are important differences between the Game of Life analogy and reality, for our purpose of improving our daily lives on Earth, the game teaches us lessons we need to know. 
+So, physics, chemistry, geology, and biology, all have important differences between the Game of Life metaphor and reality, for our purpose of adopting a new identity, this game is indeed a gift. 
 
-Because now we can look out at nature and see why it works as it does.
+It demonstrates why nature works.
 
-We can see why creatures got to be so amazingly adapted and specialized. Owls can fly silently, sperm whales can "see" in the dark, rain deer can survive in extreme cold. Each creature is an biological adaptations to overcome physical laws. Through adaption, evolution effectively discovered aerodynamics, hydrodynamics, thermodynamics, and other things, via natural selection of creature who can save and harvest energy to have more kids.
+We can see why creatures got to be so amazingly adapted and specialized. Owls can fly silently, sperm whales can "see" in the dark, rain deer can survive in extreme cold. Each creature is an biological adaptations to overcome physical laws. Over time, evolution effectively discovered so many things. Cellular adhesion proteins communicate between cells; mitochondrial development to enable metabolism, structural engineering, aerodynamics, hydrodynamics, thermodynamics, and so many other things, via natural selection of creatures who can save and harvest enough energy to have kids.
 
-Creatures are so advanced, we study them to solve human problems. This field is called biomimetics, among its creations is Velcro, which was copied from the fuzzy seed burs that often get stuck onto our pants during country walks.
+Life's creatures are so advanced, we study them to solve human problems. This field is called biomimetics, among its many creations is Velcro, which was copied from the fuzzy seed burs that stick to our pants during country walks. But our understanding of evolution goes much deeper.
 
-But our understanding of evolution goes much deeper.
+We can understand the Game of Life's several billion year history. Fossil records and DNA analysis lets us recreate the past, from the single-cell organisms of Headean Eon, to the multi-cellular and photosynthesis of the Proterozoic, to the Cambrian explosion of many new lifeforms that evolved ever more complexity through the Devonian, Jurassic, and Holocene of today.
 
-We can understand the Game of Life's billion year history. Fossil records and DNA analysis lets us recreate the past, from the single-cell organisms of Headean Eon, to the multi-cellular and photosynthesis of the Proterozoic, to the Cambrian explosion of varied lifeforms that evolved ever more complexity through the Devonian, Jurassic, and Holocene of today.
+We can understand all these unique moments in time and creation because the laws of nature made the Game of Life so similar to ours.
 
-All the while, the booklet was in force, changing the game board for each lifeform, as it struggled against a custom sand clock to procreate and thus ensure its genes were selected by evolution to join an ecosystem. This network of producers, grazers, predators, and decomposers meant lifeforms were never rewarded for using a resource like water or energy, but borrowing it have their kids, to see if new genes could find new ways to harvest modern resources to combat entropy.
+The booklet was in force, changing the game board for each lifeform, as it raced against a sand clock to procreate and get its genes selected join a healthy ecosystem. This network of producers, grazers, predators, decomposers, and testers meant lifeforms were never selfish stars, but team players who only ever borrowed resources like water or energy, which was soon returned to the ecosystem, to make sure everyone segment had enough resources to keep energy moving, harvesting, and procreating enough to overcome entropy's wrath.
 
-This process of evolution is so unique to time and place, that not a single species, among the billions to have been created, has evolved itself back into the game after going extinct.
+Evolution creates creatures so unique to time and place, that among the billions to have been created, lived, and gone extinct, not a single one has evolved itself back into the game.
 
-And, that's why the Game of Life metaphor teaches us that regardless of our personal desires, wants, complaints, or identities, life wants more genes for us to stay in the game. In modern parlance, what you do on your personal time is your business, but procreation is the only way evolution keeps anyone in the game.
+Te Game of Life teaches us that regardless of our personal desires, wants, complaints, or identities, life demands evolution of new genes inside a reciprocating ecosystem. In modern parlance, what you do on your personal time is your business, but procreation of new adaptations is the only way evolution keeps anyone in the game.
 
-Thus, the reason for your present should be somewhat apparent know.
+Thus, the reason for your present should be somewhat apparent now.
 
-We are in the game regardless of what think. Everything is exactly the same for us, as it is for any other creature. But we do not understand how to win the game because our self identity is still old school.
+We are in the game regardless of what think. Everything is exactly the same for us, as it is for any other creature. We do not understand how to win the game because our self identity is making us chase shadows.
 
-Here is but a few of entropy's attacks. They can be everyday occurrences but d not take them for easily. Each is a direct assault from entropy and one will eventually kill you.
+Here is but a few of entropy's attacks. Although some are everyday occurrences, each is a direct assault from entropy, and one will eventually kill you.
 
 Thermal entropy is the constant loss of heat, radiation damages and mutates our DNA. Metabolic processes require a constant supply of energy. Hydration loss means cellular functional breakdown. Mechanical stress means we physical forces can easily injure our bodies.
 <!-- POINT ONE, when was the last time you grew hair to combat radiation? -->
