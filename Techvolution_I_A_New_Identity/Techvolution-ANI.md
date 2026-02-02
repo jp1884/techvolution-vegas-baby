@@ -909,6 +909,8 @@ With an oxygen atmosphere fueling metabolic processes like never before, life co
 
 Life now had to answer who should stay in the game. The Game of Life needed a score board for its players.
 
+- integrate life turns regular mass to biomass, to increase the field of play, and players.
+
 ## Chapter 6—Scoreboard: What Evolution Is, The Editor of Players
 
 <!-- remember Jumanji, ie, that shared problems creates the best of friends, regardless of personal identities. and that is what evolution is editing for, to find the lifeforms capable of being a functioning friend's group/ecosystem -->
@@ -1014,215 +1016,81 @@ Meaning the best way for a genotype to get more children to grow in such a way t
 
 ## Chapter 7—What Does the Game of Life Mean
 
-Before we go further in our quest for a new technological identity, there's some thing to say about the Game of Life.
+Before we go further in our quest for a technological identity, there's some thing to say about the Game of Life.
 
-This game is a pretty accurate way to describe life's time on Earth, but of course not perfect. Specialists could highlight problems with the metaphor. For example entropy is far more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity. For example, time slows as we approach light speed. But these extremes are rarely a factor in everyday life on Earth, so its fair to say the booklet of natural laws is absolute in our experiences. 
+The game is a pretty accurate way to describe life's time on Earth, but of course not perfect. Specialists could highlight problems with the metaphor. For example entropy is far more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity. But these extremes are rarely a factor for us, so its fair to say the booklet of natural laws is all but absolute in our experiences. 
 
-However, we should go into more detail understanding evolution's other selection methods.
+However, we should go into more detail about evolution's other selection methods.
 
-Because natural selection isn't the only way evolution finds new genes. Other mechanisms include sexual selection, where females select males for novel traits like tusks or feather color and migration interactions, where species diverge into separate pockets, but reintegrate to exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
+Because natural selection isn't the only way life gets new genes. Other mechanisms include sexual selection, where females select males for novel traits like tusks or feather color; genetic drift, where genes will change over time randomly, and migration interactions, where species diverge into separate pockets, but reintegrate to exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
 
-Species can also change not with new genes, but when their genes manifest differently. This is called epigenetics. Genes communicate with each other via a "coating" of proteins. These proteins change how genes manifests, often by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation as a reaction to their parents being malnourished as World War II raged around them.
+Co-evolution, is another mechanism. This happens when one species is intimately linked to the evolution of other species within the same ecosystem. This reciprocal process can lead to the development of intricate ecological relationships and the emergence of complex, interdependent communities of living things. Flowering plants and their pollinators, such as bees and butterflies, is a prime example.
 
-While epigenetics can change a player a little bit, it's important to know genes can't actually change based on anyone's lived experiences. The Weismann Barrier and the Central dogma of molecular biology both show the knowledge and experiences an organism has cannot be communicated to future generations beyond slight variations in epigenetic inheritance.
+Epigenetics also change how genes manifest inside a lifeform. Genes communicate with each other via a "coating" of proteins. These proteins change how genes express themselves, often by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation as a reaction to their parents being malnourished as World War II raged around them.
 
-Each of these evolutionary mechanisms introduces new genes and variations into the game. However, each new player must still pass the test of natural selection, meaning harvesting enough resources to procreate. This is why our Game of Life "coach" is this evolutionary mechanism.
+Even with these changes, epigenetics does not create new species, as genes can't change based on anyone's lived experiences. The Weismann Barrier and the Central dogma of molecular biology both show the knowledge and experiences an organism has is never communicated to future generations beyond slight variations in epigenetic inheritance (although some "rogue" biologists now question these tenants, an example why our definition of natural laws should be loose).
 
-So, physics, chemistry, geology, and biology, all have important differences between the Game of Life metaphor and reality, for our purpose of adopting a new identity, this game is indeed a gift. 
+Each evolutionary mechanisms introduces new genes and variations into the game. However, each new player must still pass the test of natural selection, meaning harvesting enough resources to procreate. Our Game of Life "coach" uses natural selection because it is by far the most dominate way for life to validate new genes.
 
-It demonstrates why nature works.
+So, physics, chemistry, geology, and biology, all have important differences between the Game of Life metaphor and reality, for our purpose of adopting a new identity, this game is indeed a valuable gift. 
 
-We can see why creatures got to be so amazingly adapted and specialized. Owls can fly silently, sperm whales can "see" in the dark, rain deer can survive in extreme cold. Each creature is an biological adaptations to overcome physical laws. Over time, evolution effectively discovered so many things. Cellular adhesion proteins communicate between cells; mitochondrial development to enable metabolism, structural engineering, aerodynamics, hydrodynamics, thermodynamics, and so many other things, via natural selection of creatures who can save and harvest enough energy to have kids.
+Because it demonstrates why nature works as it does in the biological world, and so helps us properly understand the game of technological evolution we're playing whether we realize it or not.
 
-Life's creatures are so advanced, we study them to solve human problems. This field is called biomimetics, among its many creations is Velcro, which was copied from the fuzzy seed burs that stick to our pants during country walks. But our understanding of evolution goes much deeper.
+First there is the similarities of biological and technology. All the amazingly adapted and specialized creatures, from owls who fly silently, sperm whales that "see" in the dark, rain deer thriving in extreme cold, are inspiration for our technology.
 
-We can understand the Game of Life's several billion year history. Fossil records and DNA analysis lets us recreate the past, from the single-cell organisms of Headean Eon, to the multi-cellular and photosynthesis of the Proterozoic, to the Cambrian explosion of many new lifeforms that evolved ever more complexity through the Devonian, Jurassic, and Holocene of today.
+This field is called biomimetics, among its many creations is Velcro, which was copied from the fuzzy seed burs that stick to our pants during country walks. Airplane wings, drones, robotics, and many other designs take their inspiration from nature.
 
-We can understand all these unique moments in time and creation because the laws of nature made the Game of Life so similar to ours.
+Biological and technological evolution are so similar because they were up against the same natural laws. So they develop many of the same things. Structural engineering to combat gravitational forces. Aerodynamics and hydrodynamics to move very efficiency through air and water. Thermodynamics to keep life warm and cool in various environments. Lifeforms and tools are of course different, but also very similar because each shares a game board and must solve similar problems.
 
-The booklet was in force, changing the game board for each lifeform, as it raced against a sand clock to procreate and get its genes selected join a healthy ecosystem. This network of producers, grazers, predators, decomposers, and testers meant lifeforms were never selfish stars, but team players who only ever borrowed resources like water or energy, which was soon returned to the ecosystem, to make sure everyone segment had enough resources to keep energy moving, harvesting, and procreating enough to overcome entropy's wrath.
+And we use these tools to play the game.
 
-Evolution creates creatures so unique to time and place, that among the billions to have been created, lived, and gone extinct, not a single one has evolved itself back into the game.
+Here is but a few of entropy's attacks. Thermal entropy is the constant loss of heat, radiation damages and mutates our DNA. Metabolic processes require a constant supply of energy. Hydration loss means cellular functional breakdown. Mechanical stress means we physical forces can easily injure our bodies.
 
-Te Game of Life teaches us that regardless of our personal desires, wants, complaints, or identities, life demands evolution of new genes inside a reciprocating ecosystem. In modern parlance, what you do on your personal time is your business, but procreation of new adaptations is the only way evolution keeps anyone in the game.
+These, and many others, are all perils creatures face in the game. And when was the last time you grew hair to combat Minnesota winters. Do parents ever tell a kid to increase skull bone strength before riding a bicycle. Does any cyber crimes specialist recommend you change your brain wiring to remember all your custom internet passwords.
 
-Thus, the reason for your present should be somewhat apparent now.
+The point of contact between the entropy's attacks and biology is a set of genes that make a adaptation that does enough to win natural selection approval or not. For humans, it's a tool.
 
-We are in the game regardless of what think. Everything is exactly the same for us, as it is for any other creature. We do not understand how to win the game because our self identity is making us chase shadows.
+That's why this book wants you to embrace being a technological being. Not because it's a good idea, or is interesting, but because technology is our first line of defense against entropy and therefore a technological being is how evolution primarily sees us in the Game of Life.
 
-Here is but a few of entropy's attacks. Although some are everyday occurrences, each is a direct assault from entropy, and one will eventually kill you.
+This doesn't always mean the latest and greatest tech. Many communities reject modern technology, and some are even totally isolated peoples. However even uncontacted tribes in the Amazon still use some tools to house, hunt, and protect themselves. Tools move us on the game board, speed up our lives to stay ahead of the always fading game clock, and helps us expand the carrying capacity to better feed, house, and pass on life's energy to our kids.
 
-Thermal entropy is the constant loss of heat, radiation damages and mutates our DNA. Metabolic processes require a constant supply of energy. Hydration loss means cellular functional breakdown. Mechanical stress means we physical forces can easily injure our bodies.
-<!-- POINT ONE, when was the last time you grew hair to combat radiation? -->
-These, and many others, are all perils creatures face in the game. And when was the last time you grew hair to combat Minnesota winters. Has any parent ever told a kid to increase skull bone strength before riding a bicycle. Do you change your brain wiring to remember all your internet passwords.
+Like biology, tools are constructed from the ingredients of the universe like carbon, iron, and silicon. And like creature, tools are just temporary creation that slowly degrade over time. They need to be remade by their offspring to keep their game against entropy alive.
 
-This book wants you to embrace being a technological being. Not because it's what I want, or think is best, but because technology is our first line of defense against entropy and there a technological being is how evolutions sees us in the Game of Life.
+But, here's the important vital difference. Like we learned with the extended phenotype, tools are not only extensions of our selves. By integrating with us, technology connects to the powers of biological evolution. Humans add the benefits of love, pain, creativity, and the variation to the often mass-produced tools.
 
-Technological is not the only barrier and therefore not our only identity. Tools move us on the game board, and speed up our lives to stay ahead of the passing game clock, and technology helps us expand the carrying capacity to better feed, house, and pass on energy to our kids.
+Moreover, tools can be dropped. We are not born with tools, and therefore must learn to use them. But the fact we can learn them means we can learn new ones as well. Most importantly, we can bypass skirt the biological barrier of learning, and pass on the lessons of our lives from parent to children and 
 
-Who are not necessarily our biological offspring. Everything in the Game of Life has an analogue in the technological world.
-
-Procreation of offspring exists in technology. It could be genetic descendants, but is for sure users of a certain technology. The evolutionary tree of life, has a technological version as well. We know all to well when trying to find the best car or computer to buy.
-
-Tools are constructed from the same ingredients of the universe like carbon, iron, and silicon biology is. Like creature, tools are temporary creations of anti-entropy that slowly degrade over time, and need to be remade by their offspring to keep their game against entropy alive.
-<!-- POINT TWO, you can drop your adaptations, creatures can't -->
-But, here's the important vital difference. Like we learned with the extended phenotype, the tools that act as extensions of our selves, can be dropped. We are not born with tools, and therefore must learn to use them. But the fact we can learn them means we can pass on the lessons of our lives from parent to children and skirt the biological barrier of learning.
-
-Learning tools also means choose which to learn. Therefore unlike biology, we can adapt in real time to how we play the game.
-But we very often don't. Why can't we see the Game of life?
-<!-- POINT THREE, identifying artificial/story/ideological based selection  -->
-Here is a quick story about why you needed this present. We can use clouds in the sky, the lines of the stars, or crab in Japan. We'll go with the latter.
-
-There's this crab, Heikegani, that's native to Japan. It's rather small with long thin legs. It would be another unknown crab except it has a interesting feature. It's shell looks like a human face, in particular an angry samurai.
+Therefore unlike biology, we can adapt in real time to how we play the game. But we very often don't. Because we don't see ourselves as technological beings playing the Game of Life.
 
 Why?
 
-Local folklore says these crabs are reincarnations of the ancient Heike warriors defeated at the naval Battle of Dan-no-ura in 1185. That's one interpretation.
+Here is a quick story about why we needed this gift.
 
-Carl Sagan, the noted American astronomy and educator, says something else. In his famous book "Cosmos: A Personal Voyage" Sagan says the Heikegani crabs were caught by local fisherman who saw faces in the crabs, saved those one out of respect for fallen soldiers, and harvested the unlucky who didn't. Year after year this meant more newly hatched crabs had the genes to look like a face. After enough years went by, all the Heikegani look the same, a human face on their shell.
+There's this crab, Heikegani, that's native to Japan. It's rather small with long legs. It would be another unknown crab except it has a interesting feature. It's shell looks like a human face. In particular, an angry samurai.
 
-This is what natural selection does, except it's done for unnatural reasons, which is why biologists call it "artificial selection".
+Why?
 
-But there's no record of Japanese fisherman ever doing this. The crab isn't even a staple of any known diets. Evolutionary biologist Joel Martin thinks the crabs muscles and shell are simply built the way they are because natural selection says it works. We see a face because of human pareidolia; our tendency to impose a meaningful interpretation on patterns, so that we detect meaning in places where there is none.
+The crabs are named after the once powerful Taira clan which dominated medieval Japan, commonly known as the Heike. These warriors fought a civil war against the Minamoto clan which culminated in the naval Battle at Dan-no-ura in 1185.
 
-We often do the same in the stars or clouds in the sky, where we see horses, chariots, and endless other objects that are simply floating water vapor or balls of gas unimaginably far from each other.
+This was a cultural and political turning point in Japanese history. The Heike lost and Minamoto Yoritomo became the first Shōgun, or military ruler, of Japan. Thereafter, for seven centuries Japan was ruled by warriors and shōguns. It is believed that Heikegani crabs are reincarnations of the Heike warriors defeated at the battle as told in The Tale of the Heike, a sort of epic poem about ancient Japanese history.
 
-Meaning they only appear to be constellations or teddy bears in the sky from your vantage point. Which is a byproduct of your entirely unique time and place in the universe, but for that precise reason is not a universal law of nature.
+That's one interpretation.
 
-The Heikegani crabs showcases something very important for our adopting a technological identity. Although we still don't know why the crab is the way it is, it showcases the three main ways humans come to understand the Game of Life. Mythologies, reasonable, stories, and science. And is to accept our technological identity.
+Carl Sagan, the noted American astronomy and educator, says something else. In his book "Cosmos: A Personal Voyage" Sagan says the Heikegani crabs were caught by local fisherman who saw faces in the shell. Out of respect for ancient fallen soldiers, the fishermen returned them to the see and harvested the unlucky grabs who didn't carry the spirits of an ancestor. Year after year this meant more newly hatched crabs had the genes that made their shell look like a face. After enough years went by, all the Heikegani crabs had a human face on their shell.
 
+This editing process is what natural selection does, except it's done for unnatural reasons, which is why biologists call the crabs a classic example of "artificial selection".
 
+But there's no record of Japanese fisherman ever selecting crabs for human faces. The crab isn't even a staple of any known diets. Evolutionary biologist Joel Martin thinks the crabs muscles and shell are simply built the way they are because natural selection says it works. Human only see a face because of human pareidolia; our tendency to impose a meaningful interpretation on patterns, so that we detect meaning in places where there is none.
 
+We often do the same in the stars or clouds in the sky, where we see horses, chariots, and endless other objects inside floating water vapor, or balls of gas unimaginably far from each other.
 
+Meaning it only looks, to us, teddy bears and constellations in the sky from our vantage point.
 
- - as the Barrier says, there is literally no way for us to change our genes....
+The Heikegani crabs showcases something very important for our adopting a technological identity. There are three ways for humans to understand the Game of Life. Mythologies, reasonable stories, and science.
 
+We have much self-imposed artificial selection on our Game of Technological Life. It will become more evident, and easier to edit out, as we showcase back track on evolution of technological life.
 
-
-
-
-
-
-
-
-because of something called the Weismann Barrier and the Central dogma of molecular biology. Essentially, the knowledge and experiences an organism has, cannot be communicated to future generations beyond slight variations in epigenic inheritance.
-
-Trauma, starvation, and etc. lead to different offspring that appear to compensate for the problem, although the DNA is unchanged, the what the DNA manifests (called epigenetics) is different.
-
-This book wants you to embrace being a technological being. Not because it's what I want, or think is best, but a technological being is how life sees us. What technological is the first barrier against entropy's endless attacks. Tools move us on the game board, and speed up our lives to stay ahead of the passing game clock, and technology helps us expand the carrying capacity to better feed, house, and pass on energy to our kids.
-
-Technology fits all the requirements of being an extension of biological creatures. Tools are constructed from the same ingredients of the universe like carbon, iron, and silicon. Tools are constructed as anti-entropy pockets, that slowly degrade over time. They combat and protect against
-
-The remaining requirements are achieved by integrating with humans.
-
-While tools can be mass-produced identically, humans are always different and add the variation evolution needs to tell the difference. 
-
-<!-- POINT TWO, you can drop your adaptations -->
-
-
-
-
-<!-- POINT THREE, identifying artificial/story/ideological based selection  -->
-But we also add the complication. Here's a story about what
-
-The Heikegani crab is native to Japan. Its shell looks an angry samurai. Local folklore says these crabs are reincarnations of the Heike warriors defeated at the naval Battle of Dan-no-ura hundreds of years ago.
-
-Evolutionary biologist Stephen Jay Gould thinks local fishermen might have inadvertently preserved crabs with more human-like shell markings. If a crab look like a face, it was saved from harvesting. Centuries later, each crab now looks as if its been tattooed in a Japanese style.
-
-Or, perhaps the crabs muscle tissue simply has a formation that humans see a face in. That is also a possibility. Either way, we can learn an important lesson.
-
-Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection."
-
-Selection is our scoreboard, and the Heikegani crab story highlights an pivotal difference we humans need to understand. This book could well be called "replacing artificial selection with natural"
-
-
-
-
-
-
-
-These are the enemies playing chess against life. To win, life needs liquid water, nutrients, to enable metabolic processes. To harvest energy allowed us to convert evermore energy back to matter requires, locomotion/direction, heat, senses...
-
-The scoreboard is the number of species that can procreate. The more species means to more points against entropy are being scored. When lifeforms procreate, evolution takes over. Here's how the score board works. It's the final piece of the Game of Life because it decides who stays. 
-
-The natural forces are ever acting on matter. When matter is concentrated, available energy makes planets, mountains, rivers, and stars of a game board. The same forces of nature also un-concentrate matter in many different ways, a process we colloquially call entropy. The job if life is to find useful energy, harvest it to fuel metabolic processes, and grow ever more cells with specialized functions.
-
-<!-- POINT TWO, you can drop your adaptations -->
-
-<!-- POINT THREE, identifying artificial/story/ideological based selection  -->
-
-
-The ones on the game board are the ones on the scoreboard. The ones who can most procreate are. Fight entropy, but only temporarily. In order to adapt to changing times, means changing the players consistently. Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over "by means of natural selection."
-
-Here is how evolution works:
-
-Variation is the foundation of evolution. Living organisms are never exactly alike. Even within a single species, individuals exhibit a range of differences in their physical traits, behaviors, and genetic makeup.
-
-Inheritance is another main stay. Variations are encoded in an organism's DNA and often passed down through reproduction. This is exemplified by the inheritance of traits like fur color or body size in mammals.
-
-The process by which certain variations are favored over others is known as natural selection. The environment, with all its challenges and opportunities, acts as a filter, allowing the most well-adapted individuals to thrive and pass on their advantageous traits to future generations. 
-
-Differential reproduction is the the result natural selection. Variations that confer advantages in their environment will tend to leave behind more offspring than their less-fit counterparts. This unequal reproductive success is the driving force behind evolution. For instance, in a population of giraffes, individuals with longer necks may be better able to reach and consume the leaves at the tops of trees, giving them a reproductive advantage over their shorter-necked peers. The peppered moth story we discuss in an earlier chapter is another example.
-
-Adaptation are full time call-up. As a result of natural selection, living organisms become increasingly well-suited to their environment over successive generations. The development of camouflage patterns in various animal species is a prime example of adaptation.
-
-Speciation, over time, as populations of a species become increasingly isolated and divergent, they may eventually give rise to new species—distinct groups of organisms that can no longer interbreed and exchange genetic material. This process of speciation is a fundamental mechanism by which evolution generates new forms of life. The rapid diversification of cichlid fish in the African Great Lakes, where over 2,000 species have evolved from a small number of ancestral species through adaptation to various ecological niches, is striking example of speciation.
-
-The evolution of one species is often intimately linked to the evolution of other species within the same ecosystem. This reciprocal process, known as co-evolution, can lead to the development of intricate ecological relationships and the emergence of complex, interdependent communities of living things. The co-evolution of flowering plants and their pollinators, such as bees and butterflies, is a prime example of this principle.
-
-
-
----
-
-The Heikegani crab is native to Japan. Its shell looks an angry samurai. Local folklore says these crabs are reincarnations of the Heike warriors defeated at the naval Battle of Dan-no-ura hundreds of years ago.
-
-Evolutionary biologist Stephen Jay Gould thinks local fishermen might have inadvertently preserved crabs with more human-like shell markings. If a crab look like a face, it was saved from harvesting. Centuries later, each crab now looks as if its been tattooed in a Japanese style.
-
-Or, perhaps the crabs muscle tissue simply has a formation that humans see a face in. That is also a possibility. Either way, we can learn an important lesson.
-
-Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection."
-
-Selection is our scoreboard, and the Heikegani crab story highlights an pivotal difference we humans need to understand. We can often put our own preferences onto the world, but that doesn't make them natural.
-
-Here's how the score board is. It's the final piece of the Game of Life because it decides who stays. 
-
-The natural forces are ever acting on matter. When matter is concentrated, available energy makes planets, mountains, rivers, and stars of a game board. The same forces of nature also un-concentrate matter in many different ways, a process we colloquially call entropy. The job if life is to find useful energy, harvest it to fuel metabolic processes, and grow ever more cells with specialized functions.
-
-The more cells, means the more functions. The more lifeforms means the more combating of entropy life can do. As entropy changes the game board, the environment changes too. The origin of species by means of natural selection is the purest lifeform that has defeated local entropy on the ever changing game board.
-
-Artificial selection is guess, or more likely a disregard as entropy being the goal post.
-
-And here's the kicker. Natural selection is not picking individual players, it is picking winning ecosystems. It's making a team, and cares not for star players. The bigger and more numerable in species and numbers a team is, the better. Because the true enemy is entropy!
-
-Entropy has so many attacks.
-
-
-- Thermal Entropy: Loss of heat/inability to maintain metabolic temperature
-- Radiation Damage: DNA mutation, cellular breakdown
-- Metabolic Stress: Energy depletion, inability to acquire nutrients
-- Oxidative Stress: Free radical damage to cellular structures
-- Hydration Loss: Cellular dehydration and functional breakdown
-- Mechanical Stress: Structural damage from physical forces such as gravity
-
-These are the enemies playing chess against life. To win, life needs liquid water, nutrients, to enable metabolic processes. To harvest energy....
-
- - Converting evermore energy back to matter requires, locomotion/direction, heat, senses...
-
-
-hat means producers like plants converting energy to biomass. Grazers to feed on the plants, spreading seeds and also allowing cleared areas for new plants variations a chance to seed and perhaps better harvest energy. And predators to feed on grazers to keep them from over grazing.
-
-
-- and hence all the wonders of life. Aerodynamics, shielding, fur, fat, novel ideas, each a cluster of cells specialized to combat one of entropy's attacks....
-
-Death by other is not a mortal threat in the eyes of life. Grazers and predators do not directly convert sunlight to matter again. However, both are needed to form ecosystems that are ever evolving.
-
-Predation is a feature not a bug. If its from within the ecosystem.
-
-So while artificial selection is a problem, so is invasive species.
-
-
-
-
+- Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." Selection is our scoreboard, and the Heikegani crab story highlights an pivotal difference we humans need to understand. This book could well be called "replacing artificial selection with natural"
 
 
 ### Evolution
@@ -1241,179 +1109,43 @@ So while artificial selection is a problem, so is invasive species.
 
 7. Co-evolution: The evolution of one species is often intimately linked to the evolution of other species within the same ecosystem. This reciprocal process, known as co-evolution, can lead to the development of intricate ecological relationships and the emergence of complex, interdependent communities of living things. The co-evolution of flowering plants and their pollinators, such as bees and butterflies, is a prime example of this principle.
 
+## Chapter 8—Legacies Never Die
 
+Homo sapiens are not the only human species. There are over a dozen of others. Homo erectus, homo floresiensis, denisovan, neanderthal are but a few of them. The most common definition of a species, is the ability to interbreed have fertile kids, and homo sapiens has DNA from several of these groups still in us today. Many caucasians have neanderthal blood, many polynesians denisovan. Not enough to make a difference, but enough to showcase our history is more natural than we might assume.
 
+Meaning, the selection process that brought about modern human genes was every bit as natural as it was for any other species.
 
 
+As the Barrier says, there is literally no way for us to change our genes. This is important because our genes evolved in a time quite different from our own. That means each person has a legacy of genetics that is near being as foreign as a fish out of water. Some paleo-anthropologists describe it as humans are not evolved for modern life.
+ 
+Before we discuss the three ways humanity can interpret our technological world. We must first realize our genetic legacy.
 
+- homosapiens one of the biggest difference from other humans, is our throat...
 
 
 
 
 
-### Introduction
 
-To truly understand our place in the story of life, we've been on a journey. The first step was recognizing that the fundamental laws of nature govern the living world's existence. The physical, chemical, and geological processes that have shaped the evolution of life on Earth—from the formation of the planet itself to the cycling of elements and the flow of energy—create the very "gameboard" upon which all organisms, including humans, play on. 
 
-It may seem obvious to say humanity must overcome the same forces of nature as other creatures to survive, but it is not. As a highly intelligent and technologically advanced species, it can be tempting for humans to view ourselves as somehow separate from or above the natural processes that shape the other of life's creatures. Our ability to tell, and believe, in stories makes obscuring that we are playing on the "gameboard" as easy as a watching too many movies or cable news shows.
 
-Our journey to uncover a new perspective about our politics, economics, and condition in general, is based on never forgetting we are just another creature among billions. Thus, like all other living organisms, we are inextricably bound to the same physical, chemical, and geological constraints that have shaped the evolution of life on Earth and no amount of ticking boxes on a ideological scorecard  (ex. "cutting taxes" or "implementing the communist manifesto") matters in comparison.
 
-Hopefully, its a breath of fresh air to join creatres on the "gameboard" of life. Much like the other sciences, once we root politics in the physical reality of the universe, we have a constant reference, a "north star" to judge the success and failure of our political and economic choices and identities.
 
-We're not there yet. We know that life, the creator, uses the laws of biology to conjure up creatures using the laws of nature for the very purpose of forming themselves to survive in the world filled with physical, chemical, and geological forces so hostile to life.
 
-But how does life decide which creations survive and stay in the game? But learning as much about the competition as possible.
 
-### What Life is Playing Against—Entropy
 
-From birth, all life forms grow and search for energy. Every bacteria and fungus, reptile and mammal is always looking for something to eat. But why? Why can life form not work hard and then live off of past sunlight, food, and other forms of energy?
 
-Seems silly to ask but please realize how in the natural world, all forms of energy, and therefore food, are temporary. The reason is the second law of thermodynamics that says in short, "heat naturally flows from hot objects to cooler ones". Cold is the natural way of things, energy can be gained, but most be cherished because it can only be stored for so long. Life needs to continually harness energy because entropy is always taking it away. Therefore life needs life forms that can harness and preserve energy as efficinetly as possible with things like leafs, fur coats, and fat stores to "buy" as much time as possible against the onslaught of entropy.
 
-At the most fundamental level, life is a highly organized and complex phenomenon that exists in a state of dynamic equilibrium, maintained through the continuous input and transformation of energy. Organisms must constantly collect, store, and utilize energy in order to counteract the natural tendency of entropy to degrade and disorganize the intricate structures and processes that define life.
 
-This can be seen in the way that living cells must expend energy to maintain their internal homeostasis, repair damaged biomolecules, and replicate their genetic material. At the organismal level, animals must continuously consume food and water to fuel their metabolic processes and replace the energy that is constantly being lost to the environment through heat, waste, and other forms of dissipation.
 
-Similarly, at the ecosystem level, the cycling of nutrients and the flow of energy through food webs are driven by the need to offset the entropic forces that would otherwise lead to the breakdown and decay of organic matter. The constant replenishment of energy, whether through photosynthesis, chemosynthesis, or the consumption of other organisms, is essential for maintaining the delicate balance and complexity of living systems.
 
-In this sense, life can be viewed as an ongoing struggle against the relentless march of entropy, a battle that has been waged since the earliest emergence of life on Earth. The organisms and ecosystems that are most successful in this race are those that have evolved the most efficient and effective strategies for collecting, storing, and utilizing energy—a process that has driven the incredible diversity and adaptability of life over the course of evolutionary history.
 
-Life needs constant growth and diversity because the more species it has in number and quantity, the more stores of energy it has against entropy's constant draining away of energy, heat, and water.
 
-it is importatnt to note, entropy is not a actual villain. While it does constantly threaten life; it is also a fundamental driver of the creative processes that have given rise to the incredible diversity of life on our planet. As we have already learned, no one yet knows specifically how life started, but entropy had a leading cause. The spontaneous formation of complex organic molecules, the self-organization of living cells, and the evolution of increasingly sophisticated life forms—all of these phenomena were crucial to starting life and can be seen as the result of entropy-driven processes.
 
-Ultimately, the relationship between life and entropy is a fundamental aspect of the natural world, one that shapes the very fabric of the biosphere and the course of life's development on our planet. Volcanic activity and the Sun give Earth constant energy Entropy is simply the time clock that divides life forms between those who can harvest enough of the available energy and those who cannot. By recognizing and understanding this dynamic, we can gain deeper insights into the challenges and opportunities that confront living organisms, including our own species, as we navigate the complex and ever-changing "gameboard" of the physical, chemical, and geological laws that govern our existence.
 
-And life must search out this gameboard and understand its rules to keep playing the game. With the rules of the game so powerful, and entropy so constant. How does life keeping winning?
 
-### Evolution—How Life Plays the Game 
 
-Even though the Sun is constantly shinning on Earth Entropy is a constant force, once the rays hit our planet, entropy is taking the energy away. Life needs creatures that best harness this every so valuable energy. This is a two-staged process. Life is "creator" of living things, and evolution is the "editor" that shapes and refines those creations in the search for the best life forms to overcome entropy.
 
-Life, in its infinite creativity, is constantly generating new variations, new adaptations, new ways of harnessing the laws of physics and chemistry to construct novel biological forms. But it is evolution, with its various mechanisms such as mutation, recombination, and differential reproductive success, that sifts through these variations and selects the most fit and well-adapted versions to propagate into the future.
-
-Evolution is the fundamental process that takes the raw materials and innovations produced by life itself, and then sculpts, refines, and optimizes those living things through the relentless forces of natural selection. Just as an editor takes a writer's initial draft and meticulously refines it, polishing the language and structure to bring out the best in the work, evolution acts as the editor of the living world.
-
-Through the iterative process of variation and selection, evolution edits the creations of life, pruning away the less successful experiments and reinforcing the most effective strategies for survival and reproduction. Over the vast timescales of geological history, this editorial process has given rise to the incredible diversity of life we see today—from the first single-celled organisms to the vast array of complex multicellular life forms, each one a product of evolution's careful curation.
-
-Evolution is the part of the team on the ground. It knows what resources and opportunities exist in the environment. Evolution is not a force of nature, rather it is the explanation that explains which life forms survive and how they survive. Evolution is a tailor. selecting the best team of life forms it can find to harness those resources. Just as a skilled editor can transform a promising but flawed manuscript into a polished, compelling work, evolution takes the raw materials of life and sculpts them into ever more refined and optimized forms. As it relentless edits all life forms, it helps them each reach their full potential, unlocking new avenues for adaptation, diversification, and the conquest of new ecological niches.
-
-In this way, the relationship between life as creator and evolution as editor is a powerful and synergistic one. Life provides the initial spark of innovation, the wellspring of biological novelty, while evolution acts as the guiding hand that shapes and refines those creations over the eons. Together, they have produced the rich tapestry of life that graces our planet, a testament to the incredible potential that arises when the forces of creation and editing work in concert.
-
-One of the most famous examples of evolution in action can be found in the Galápagos Islands, where Charles Darwin observed the remarkable diversity of finch species during his voyage on the HMS Beagle in the 1830s. These birds, now known as Darwin's finches, have become a textbook example of how evolution can drive the emergence of new species.
-
-The Galápagos Islands, located off the coast of Ecuador, are home to a unique and diverse array of flora and fauna, including 13 species of finches that are closely related but exhibit a wide range of beak sizes and shapes. This variation in beak morphology is the key to understanding how these finches have evolved over time.
-
-When the first finches arrived on the Galápagos, they likely encountered a variety of ecological niches, each with its own set of food sources and foraging opportunities. The finches with beak variations that allowed them to exploit these different resources were more successful at surviving and reproducing, passing on their advantageous traits to their offspring.
-
-Over successive generations, natural selection favored the finches best adapted to their particular niche. Finches with larger, stronger beaks were able to crack open larger, tougher seeds, while those with smaller, more delicate beaks were better suited to feeding on smaller, softer seeds. This process of adaptation led to the diversification of the finch species, as they became increasingly specialized for their respective ecological roles.
-
-As the finch populations became more isolated and genetically distinct, the process of speciation began to take hold. Individuals from different species were less likely to interbreed, and the genetic differences between the populations continued to accumulate. Eventually, these once-similar finches evolved into distinct species, each with its own unique beak morphology and foraging behavior.
-
-Today, the 13 species of Darwin's finches on the Galápagos Islands represent a remarkable example of how evolution can drive the diversification of life. This process, known as adaptive radiation, has allowed these birds to thrive in the diverse habitats of the Galápagos, filling a wide range of ecological niches and demonstrating the power of natural selection to shape the natural world.
-
-The Galápagos Island and Darwin's Finches are but one example. Everywhere you look at Earth, from the deepest oceans to the darkest caves, to everywhere around you right now, is teaming with life forms. All of them participating in the game of Life, outrun Entropy by harvesting enough resources to stay a life.
-
-Like the laws of physics, chemistry, geology, and biology, evolution also has laws we can learn and study and master. Here they are.
-
-**The Laws of Evolution**
-
-Evolution, the driving force behind the incredible diversity of life on our planet, is governed by a set of core principles that can be considered the "laws" of this grand natural process. Just as the physical world is constrained by the laws of physics and chemistry, the living world is shaped by these essential tenets of evolution. Let us examine them in detail:
-
-1. Variation: The foundation of evolution is the simple fact that no two living organisms are exactly alike. Even within a single species, individuals exhibit a range of subtle (and sometimes not-so-subtle) differences in their physical traits, behaviors, and genetic makeup. For example, the variations in beak size and shape observed among Darwin's finches on the Galápagos Islands are a classic illustration of this principle.
-
-2. Inheritance: The variations we observe in living things are, to a large degree, passed down from one generation to the next through the process of reproduction. The genetic information encoded in an organism's DNA is replicated and transmitted to its offspring, ensuring that the variations are preserved and can be acted upon by evolutionary forces. This is exemplified by the inheritance of traits like fur color or body size in mammals.
-
-3. Differential Reproduction: Not all individuals within a population are equally successful at surviving and reproducing. Those with variations that confer advantages in their environment will tend to leave behind more offspring than their less-fit counterparts. This unequal reproductive success is the driving force behind evolution. For instance, in a population of giraffes, individuals with longer necks may be better able to reach and consume the leaves at the tops of trees, giving them a reproductive advantage over their shorter-necked peers.
-
-4. Natural Selection: The process by which certain variations are favored over others is known as natural selection. The environment, with all its challenges and opportunities, acts as a filter, allowing the most well-adapted individuals to thrive and pass on their advantageous traits to future generations. The peppered moth story demonstrates how natural selection can lead to rapid changes in a population's appearance as the environment changes, with the better-camouflaged dark form of the moth increasing in frequency over time as industrial pollution darkened the trees.
-
-5. Adaptation: As a result of natural selection, living organisms become increasingly well-suited to their environment over successive generations. Beneficial variations are reinforced, while less useful traits are gradually eliminated, leading to the emergence of adaptations that enhance an organism's chances of survival and reproduction. The development of camouflage patterns in various animal species is a prime example of adaptation.
-
-6. Speciation: Over time, as populations of a species become increasingly isolated and divergent, they may eventually give rise to new species—distinct groups of organisms that can no longer interbreed and exchange genetic material. This process of speciation is a fundamental mechanism by which evolution generates new forms of life. The rapid diversification of cichlid fish in the African Great Lakes, where over 2,000 species have evolved from a small number of ancestral species through adaptation to various ecological niches, is another striking example of speciation.
-
-7. Co-evolution: The evolution of one species is often intimately linked to the evolution of other species within the same ecosystem. This reciprocal process, known as co-evolution, can lead to the development of intricate ecological relationships and the emergence of complex, interdependent communities of living things. The co-evolution of flowering plants and their pollinators, such as bees and butterflies, is a prime example of this principle.
-
-These laws of evolution, grounded in the principles of variation, inheritance, and natural selection, provide the framework for understanding how life has diversified and adapted to the ever-changing conditions of our planet. By accepting these fundamental tenets, biologists have studied the secrets of the living world and gained deeper insights into the remarkable story of life's eternal fight against entropy. let us learn more about how life forms harness energy to not only stay alive but thrive while doing so. let us learn more about the players of the game, species.
-
-### Who Plays the Game—Species
-
-In the grand entropic landscape of the natural world, species emerge as the fundamental units in life's eternal struggle. These distinct groups of interbreeding organisms, bound together by the threads of shared genetic heritage, represent the basic building blocks upon which the complex tapestry of ecosystems is woven.
-
-The question of what constitutes the "unit of selection" in evolutionary theory has long been a subject of debate among biologists. On one side, the influential evolutionary biologist Richard Dawkins has argued that the gene is the true unit of selection, as it is the fundamental replicator that is passed on from generation to generation. In contrast, the renowned biologist Ernst Mayr has championed the view that the species, as the basic reproductive community of interbreeding individuals, is the more appropriate unit of selection.
-
-Regardless of this theoretical debate, it is clear that the species plays a crucial role in the ongoing battle against entropy. For each species is, in essence, a collective fortress, a coordinated army of individuals united in the fight for survival. Within the confines of a species, the flow of genetic information and the exchange of vital resources create a resilience that far exceeds the capabilities of any single organism. It is this synergistic strength that allows species to adapt, diversify, and thrive in the face of entropy's onslaught.
-
-The members of a species are driven by a singular imperative: to pass on their genetic legacy to future generations. This relentless pursuit of reproductive success shapes the evolution of a species, as individuals and populations constantly strive to develop the most effective strategies for harnessing energy, repairing damage, and maintaining internal order. These advantageous traits are then propagated through the population, strengthening the species' overall capacity to withstand the ravages of entropy.
-
-Yet, the species themselves are not permanent fixtures in the natural world. Like the individual organisms that compose them, species are subject to the forces of change and the march of time. As environmental conditions shift and new challenges arise, some species may thrive and diversify, while others may dwindle and disappear. The temporary nature of species serves as a reminder that even the most resilient and well-adapted forms of life are ultimately subject to the relentless forces of entropy.
-
-When these species are woven together into the rich tapestry of an ecosystem, their collective might becomes even more formidable. The complementary roles and interdependencies that emerge within these ecological communities create a synergistic defense against the dissipative forces that would seek to unravel the delicate balance of life. It is through the enduring strength of these distinct groups that life continues to defy the relentless march of disorder, ever-evolving, ever-adapting, in its eternal quest for order and organization.
-
-### How Life Wins the Game—Ecosystems
-
-At the heart of the living world lies a remarkable phenomenon—the ecosystem, a intricate web of interdependent organisms and their physical environment, woven together into a tapestry of astounding complexity. It is within these ecological communities that life's battle against entropy finds some of its most formidable fortifications.
-
-For the individual organism, the fight against entropy is a constant, energy-sapping endeavor—a never-ending cycle of repair, replacement, and regulation to stave off the relentless degradation of its vital structures and functions. But when these organisms come together in the rich tapestry of an ecosystem, a synergistic magic begins to unfold.
-
-If species are the players of the game between life and entropy, ecosystems are the teams species sign up to play with.
-
-The diversity of life within an ecosystem creates a redundancy of roles and niches, ensuring that the loss of any one component is less likely to topple the whole. The cycling of nutrients and the flow of energy through intricate food webs act as a circulatory system, replenishing the resources that organisms require to maintain their internal order. And the very physical structures of the ecosystem—the soils, the vegetation, the geological features—provide a bulwark against the entropic forces of weathering and erosion.
-
-It is as if the ecosystem itself has evolved a kind of collective immune system, a defense mechanism that bolsters the resilience of its constituent parts. When a disturbance strikes, whether in the form of a natural disaster or a human-induced disruption, the ecosystem's inherent adaptability and self-organizing capacity often allows it to bounce back, restoring the delicate balance that keeps entropy at bay.
-
-Of course, this ecological fortification is not impenetrable. The relentless march of entropy is ever-present, and human activities have in many cases overwhelmed the ecosystem's capacity for self-repair. But in the grand sweep of life's history, these interconnected communities have proven themselves to be among the most effective weapons in the ongoing battle against the forces of disorder and decay.
-
-So as we seek to understand life's eternal struggle, let us not forget the crucial role played by the ecosystems that sustain it. For it is in these intricate, living tapestries that the very essence of existence is woven, a defiant challenge to the entropy that would seek to unravel it.
-
-### Life and Evolution—Faceless and Forms Against Entropy
-
-Life is faceless and formless. Ready to be whatever is needed to survive against Entropy. Species are committed forms of life with have masks they cannot remove. Species have all the gusto to fight entropy, but must use only what tools they got in hand because their adapations are unchanging. Thus, their masked identity is defined by the adaptions they have on hand. They have life's unwavering desire to survive and procreate, but the sad fate that often their forms are not up to the job. Their masks are not self-aware and will fight to live.
-
-Life is the creator and evolution is the editor. One comes up with the ideas, the other knows the opportunties of the marketplace and decides which ideas to keep. Both one half of the whole that uses laws of nature to survive long enough against entropy to pass on their knowledge and know-how to a new generation of life forms. Life is always there for the ride, while evolution edits its forms to create life forms that always have a conclusion to their involvement.
-
-it is important to remember that life survives through its forms. The forms of life therefore have a life cycle. And its never happened that despite billions of different life forms, over billions of years, a past form of life has been called back into the game. Tyransaurs Rex roamed the Earth once, and will do so again. Such is the skill of life and evolution that every life form is totally unique. It must be so if the player will survive on this gameboard.
-
-And humanity is no different. Remember, that it took many years for humanity to discover the laws of nature. From mythology to science was a centuries long process with many failures. This process of ignorance to mastery is the same for all life forms.
-
-When a species or group of organisms first colonizes a new environment, they are essentially operating in a state of ignorance. They have not yet developed the specialized adaptations necessary to efficiently exploit the resources and navigate the unique conditions of that environment. As a result, many of the initial colonizers may struggle to survive and reproduce, as they lack the necessary traits to compete effectively.
-
-However, over successive generations, the process of natural selection begins to favor those individuals with variations that confer advantages in the new environment. These advantageous traits may include things like specialized feeding mechanisms, enhanced sensory capabilities, or adaptations to the local climate and terrain. As these beneficial variations are passed on and reinforced, new species begin to emerge, each one tailored to a specific niche or set of environmental conditions.
-
-It is only through this process of adaptive radiation and speciation that life is able to fully harness the resources and opportunities presented by a new environment. The diverse array of specialized species that eventually arise can collectively exploit a wide range of niches, accessing a broader spectrum of available resources and thriving in ways that the initial, generalist colonizers could not.
-
-This pattern can be observed throughout the history of life on Earth, from the colonization of terrestrial environments by early plants and animals to the diversification of life in the deep-sea hydrothermal vents. In each case, the initial encounter with a new environment is marked by a period of uncertainty and struggle, until the evolutionary process can generate the specialized adaptations necessary for life to truly flourish.
-
-So, in essence, the ignorance of life when first confronted with a new environment is a temporary state, one that is overcome through the power of evolution and the emergence of new, highly adapted species. It is this dynamic interplay between life and its environment that has driven the remarkable diversity and resilience of the living world.
-
-We can indeed draw a parallel between life's initial ignorance of a new environment and humanity's early reliance on mythologies to understand the world, and the subsequent process of gaining a deeper, scientific understanding through experimentation and observation.
-
-Just as life encounters a previously unexplored environment with a lack of specialized adaptations, early human civilizations confronted the natural world with a limited understanding, often resorting to mythological explanations to make sense of the phenomena they observed. These mythologies, much like the initial ignorance of life, were a product of the human mind's attempt to grapple with the unfamiliar.
-
-However, just as life gradually evolves specialized species to harness the resources and navigate the challenges of a new environment, humanity has progressively developed more sophisticated, evidence-based scientific methods to unravel the mysteries of the world around us. Through experimentation, observation, and the accumulation of empirical knowledge, we have been able to replace the mythological narratives with a deeper, more nuanced understanding of the physical, chemical, and biological processes that govern the natural world.
-
-This parallel is particularly striking when we consider the evolution of our understanding of the cosmos, for example. Early human civilizations often attributed the movements of celestial bodies and the changing of the seasons to the whims of deities or the workings of a divine plan. It was only through the gradual development of astronomy, physics, and other scientific disciplines that we were able to replace these mythological explanations with a comprehensive, evidence-based understanding of the laws and mechanisms that underpin the universe.
-
-Similarly, the gradual unraveling of the mysteries of the natural world, from the inner workings of the cell to the dynamics of ecosystems, has followed a trajectory akin to life's own process of adaptation and specialization. Just as life has evolved an increasingly intricate array of species to exploit the resources and navigate the challenges of diverse environments, humanity has developed an ever-more sophisticated scientific framework to comprehend the complexities of the natural world.
-
-In both cases, the journey from ignorance to understanding is marked by a relentless pursuit of knowledge, a willingness to challenge existing assumptions, and a deep respect for the power of empirical observation and experimentation. It is through this shared process of discovery and enlightenment that life and humanity have been able to transcend the limitations of their initial ignorance and forge a deeper, more meaningful connection with the natural world.
-
-### Summary
-
-We are on a mission to truly understand politics, economics, and the ideologies we follow. To place those topics alongside physics, astronomy, and the other sciences where accurate predictions are boring we've emulated the lessons life has had to learn over the years as it ventured over this ever changing planet. We learned the laws of physics, chemistry, and geology so we understand how they mold Earth and create the rules of the gameboard all life forms must play on to survive.
-
-Life is a faceless thing. It only wants to grow and stay alive. life forms are short-term applications of life. Since species cannot change their form they are masked in a sense, because although they have life's burning desire to survive, they cannot change their form or instincts. And alas, since the environment in which they live is always changing, life needs review its masked players often. life forms have a limited shelf-life as life needs to find players that better fit the available resources.
-
-Importantly, even though species have a burning desire to survive, they do not play against each other. In the grand scheme, every life form depends on another for survival. Life, and therefore life forms, are really playing against entropy. The law of physics that sucks the heat and energy away from all things, living and dead. life forms must collect enough energy to stay ahead of entropy's wrath or life, via evoluion, finds another species to play the game.
-
-life forms work together inside ecosystems. The place where individuals can master a sliver of resource collection to contribute to the war against entropy. The balancing act of ecosystems keeps life forms playing to win, as any slackers will face near immediate competition. If a individual tree refuses to keep growing, others will and capture the sunlight for themselves. If all the individuals that make up the trees species cannot win enough available water and sunlight, the species is replaced with someone else.
-
-The laws of evolution state life will venture out into the unknown, and the fittest will survive. Slowly this means life forms adapt from masses into specialized niches, as did Darwin's Finches on the Galapagos islands. Widespread expansion of a species will inevitably lead to adaptation of that species into new life forms. life form expansion and adaptation is a recurring theme in the story of evolution.
-
-Key to this understanding is that evolution is deaf, dumb, and mute. While life is open to creating any kind of life form, evolution only wants the winners. There's no way of briding evolution. Evolution does not understand any language, see any life form, or listen to any stories. Evolution cannot select the players on the gameboard according to anything other its adaptations effectiveness to harness resources. Cold climates need insulation. Hot ones need cooling. The life forms that harvest and use resources the most efficiently inside a ecosystem get a spot on the team, and once they have their mask on, will do anything they can do to survive.
-
-With all this knowledge of the natural laws of physics, chemistry, geology, biology, and evolition, we are not ready to chart the history of life's evolution.
 
 ## Chapter 5—The History of Life's Evolution
 
