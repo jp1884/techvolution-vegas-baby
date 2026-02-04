@@ -1013,58 +1013,76 @@ Flowers and bees, squirrels and oak trees. So many species work together to harv
 
 Meaning the best way for a genotype to get more children to grow in such a way to harvest energy in a way no creature is yet. This is called the phenotype of a organism and includes everything from a bush growing tall like a tree, or a bird leaning where better fishing grounds are. Ecosystems allow customized creatures to work on a intricate timetable of cooperation.
 
-
 ## Chapter 7—What Does the Game of Life Mean
 
-Before we go further in our quest for a technological identity, there's some thing to say about the Game of Life.
+Before we go further in our quest for a technological identity, there's something to say about the Game of Life.
 
-The game is a pretty accurate way to describe life's time on Earth, but of course not perfect. Specialists could highlight problems with the metaphor. For example entropy is far more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity. But these extremes are rarely a factor for us, so its fair to say the booklet of natural laws is all but absolute in our experiences. 
+The game is a relatively accurate way to describe life's time on Earth, but of course not perfect. Specialists could highlight problems with the metaphor. For example entropy is far more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity (inside black holes or traveling near light speed), so are not truly "universal laws". But these extremes are rarely a factor for us, so its fair to say the booklet of natural laws is all but absolute in our experiences. 
 
-However, we should go into more detail about evolution's other selection methods.
+However, we should go into more detail about evolution's selection methods.
 
-Because natural selection isn't the only way life gets new genes. Other mechanisms include sexual selection, where females select males for novel traits like tusks or feather color; genetic drift, where genes will change over time randomly, and migration interactions, where species diverge into separate pockets, but reintegrate to exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
+Because natural selection isn't the only way life picks genes. Other mechanisms include sexual selection, where females select males for novel traits like tusks or feather color; genetic drift, where genes change randomly over time for apparently no reason; human male pattern baldness is an example, and migration interactions, where species diverge into separate pockets, but reintegrate to exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
 
-Co-evolution, is another mechanism. This happens when one species is intimately linked to the evolution of other species within the same ecosystem. This reciprocal process can lead to the development of intricate ecological relationships and the emergence of complex, interdependent communities of living things. Flowering plants and their pollinators, such as bees and butterflies, is a prime example.
+Co-evolution, is another selection mechanism. This happens when one species is intimately linked to the evolution of other species within the same ecosystem. This reciprocal process can lead to the emergence of complex, interdependent communities. Flowering plants and their pollinators, such as bees and butterflies, is a prime example.
 
-Epigenetics also change how genes manifest inside a lifeform. Genes communicate with each other via a "coating" of proteins. These proteins change how genes express themselves, often by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation as a reaction to their parents being malnourished as World War II raged around them.
+Epigenetics also change how genes manifest inside a lifeform. Genes communicate with each other via a "coating" of proteins. These proteins can change how genes express themselves, often by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation as a reaction to their parents being malnourished as World War II raged all around them.
 
-Even with these changes, epigenetics does not create new species, as genes can't change based on anyone's lived experiences. The Weismann Barrier and the Central dogma of molecular biology both show the knowledge and experiences an organism has is never communicated to future generations beyond slight variations in epigenetic inheritance (although some "rogue" biologists now question these tenants, an example why our definition of natural laws should be loose).
+Epigenetics is an example of a phenotype characteristic. The part of a creature that can change because of any number of actors, from levels of sunshine, water, wind or even parents nutrition.
 
-Each evolutionary mechanisms introduces new genes and variations into the game. However, each new player must still pass the test of natural selection, meaning harvesting enough resources to procreate. Our Game of Life "coach" uses natural selection because it is by far the most dominate way for life to validate new genes.
+However, no phenotype changes creates new species because genes never change based on experiences. The Weismann Barrier and the Central dogma of molecular biology both show the knowledge and experiences an organism has is never communicated to future generations beyond slight variations in epigenetic inheritance (although some "rogue" biologists now question aspects of these tenants, an example why our definition of natural laws should be open to questions).
 
-So, physics, chemistry, geology, and biology, all have important differences between the Game of Life metaphor and reality, for our purpose of adopting a new identity, this game is indeed a valuable gift. 
+So, there are several evolutionary mechanisms to introduce new genes and variations into the game. However, each new player must still harvest enough resources to procreate. That's why our "coach" uses natural selection, because it is by far the dominate way life validates its players/genes.
 
-Because it demonstrates why nature works as it does in the biological world, and so helps us properly understand the game of technological evolution we're playing whether we realize it or not.
+So, the natural laws of physics, chemistry, geology, and biology, all have important differences between the Game of Life metaphor and reality, but for our purpose of adopting a new identity, this game is indeed a valuable gift. 
 
-First there is the similarities of biological and technology. All the amazingly adapted and specialized creatures, from owls who fly silently, sperm whales that "see" in the dark, rain deer thriving in extreme cold, are inspiration for our technology.
+Because it demonstrates why nature works as it does in the biological world, and so helps us understand the game of technological evolution we are striving to realize is happening all around us.
 
-This field is called biomimetics, among its many creations is Velcro, which was copied from the fuzzy seed burs that stick to our pants during country walks. Airplane wings, drones, robotics, and many other designs take their inspiration from nature.
+Happily, we do see some technology quite a bit.
 
-Biological and technological evolution are so similar because they were up against the same natural laws. So they develop many of the same things. Structural engineering to combat gravitational forces. Aerodynamics and hydrodynamics to move very efficiency through air and water. Thermodynamics to keep life warm and cool in various environments. Lifeforms and tools are of course different, but also very similar because each shares a game board and must solve similar problems.
+For starters, there is the historical legacy of using animal products as technological adaptions. A few examples are fur coats, water skins, beasts of labour, carrier pigeons, and hunting dogs. Using so many products of biological evolution should make it easier to see evolution's powers.
 
-And we use these tools to play the game.
+Then there's biomimicry; the emulation of natural models, systems, and elements for the purpose of inventing new technologies. Among its many creations is Velcro, copied from the fuzzy seed burs that so easily stick to our pants during country walks in the grass. Many airplanes, drones, robotics, and other technological designs get their inspiration from the biological products of natural selection.
 
-Here is but a few of entropy's attacks. Thermal entropy is the constant loss of heat, radiation damages and mutates our DNA. Metabolic processes require a constant supply of energy. Hydration loss means cellular functional breakdown. Mechanical stress means we physical forces can easily injure our bodies.
+Biology and technology development can cross over so much because they have common problems. They each need to invent structural engineering to combat gravitational forces, aerodynamics and hydrodynamics to move very efficiency through air and water, and thermodynamics to keep warm, or cool, in various environments. Experts even track biology and technology developments using trees. Or, graphical representations to show the evolutionary relationships among various species based upon similarities and differences in their genetic or physical characteristics.
 
-These, and many others, are all perils creatures face in the game. And when was the last time you grew hair to combat Minnesota winters. Do parents ever tell a kid to increase skull bone strength before riding a bicycle. Does any cyber crimes specialist recommend you change your brain wiring to remember all your custom internet passwords.
+Biology and technology having so much in common  should be expected, as the Game of Life and Technological Life have the same booklet, and must survive many of the same attacks.
 
-The point of contact between the entropy's attacks and biology is a set of genes that make a adaptation that does enough to win natural selection approval or not. For humans, it's a tool.
+Here is but a few of entropy's assaults. Thermal entropy is the constant loss of heat, radiation damages and mutates our DNA. Metabolic processes require a constant supply of energy. Hydration loss means cellular functional breakdown. Mechanical stress means we physical forces can easily injure our bodies.
 
-That's why this book wants you to embrace being a technological being. Not because it's a good idea, or is interesting, but because technology is our first line of defense against entropy and therefore a technological being is how evolution primarily sees us in the Game of Life.
+These, and many others, are the perils creatures face in the game. And when was the last time you, or anyone, grew more a winter coat of hair to combat Minnesota winters. Do parents ever tell a kid to increase skull bone strength before climbing a tree. Does anyone create more fat to store water before their long trip.
 
-This doesn't always mean the latest and greatest tech. Many communities reject modern technology, and some are even totally isolated peoples. However even uncontacted tribes in the Amazon still use some tools to house, hunt, and protect themselves. Tools move us on the game board, speed up our lives to stay ahead of the always fading game clock, and helps us expand the carrying capacity to better feed, house, and pass on life's energy to our kids.
+The point of contact between the entropy's attacks and biology is a set of genes that make a lifeform that may or may not win natural selection approval.
 
-Like biology, tools are constructed from the ingredients of the universe like carbon, iron, and silicon. And like creature, tools are just temporary creation that slowly degrade over time. They need to be remade by their offspring to keep their game against entropy alive.
+For humans, the point of contact is almost always a tool.
 
-But, here's the important vital difference. Like we learned with the extended phenotype, tools are not only extensions of our selves. By integrating with us, technology connects to the powers of biological evolution. Humans add the benefits of love, pain, creativity, and the variation to the often mass-produced tools.
+That's why this book wants you to embrace being a technological being. Not because it's a good idea, or is interesting, but because technology is our first line of defense against entropy. And to survive entropy requires evolution to create new ideas and select the ones who can best survive the game board and clock of their unique time and place.
 
-Moreover, tools can be dropped. We are not born with tools, and therefore must learn to use them. But the fact we can learn them means we can learn new ones as well. Most importantly, we can bypass skirt the biological barrier of learning, and pass on the lessons of our lives from parent to children and 
+Because of the barrier of life experiences influencing genes, there's nothing any creature can ever do to truly evolve to a technological world. Each is just like the racoon we met before, who adapts to the modern world, without truly integrating with it.
 
-Therefore unlike biology, we can adapt in real time to how we play the game. But we very often don't. Because we don't see ourselves as technological beings playing the Game of Life.
+We are the only link between biology and technology, who exist in the same time and place. That's why evolution primarily sees us as technological being who plays a very similar, but separate, Game of Technological Life.
 
-Why?
+This doesn't always mean the latest and greatest tech always wins. Many communities reject modern technology and so fine, and some people's are even totally isolated. However even uncontacted tribes in the Amazon still use some tools to house, hunt, and protect themselves. Tools move us on the game board, speed up our lives to stay ahead of the always fading game clock, and helps us expand the carrying capacity to better feed, house, and pass on life's energy to our kids.
 
-Here is a quick story about why we needed this gift.
+Like biology, tools are constructed from the ingredients of the universe like carbon, iron, and silicon. And like creatures, tools are just temporary creation that slowly degrade over time. They need to be remade by their offspring to keep their game against entropy alive.
+
+Offspring is not a always direct descendants. As extended families and eusociality expand self-interest to one's relatives, tools extend their reach by connecting with new users. Two people sharing common tools are in effect blood relatives in the eyes of the evolution; and therefore the coach in the Game of Technological Life. 
+
+
+
+
+Tools are the extended phenotype for humans. By integrating with us, technology connects to the powers of biological evolution. Humans add the benefits of love, pain, creativity, and the variation to the often mass-produced, but still amazingly powerful, tools. The Games of Life are different but the same.
+<!-- clarify -->
+
+- circle, producers, grazers, predators, ...
+- we play the Game of Tech Life, as the Game of Me...
+
+We are not born with tools, and therefore must learn to use them. But the fact we can learn them means we can learn new ones too. Most importantly, because of tools, we can bypass skirt the Weismann Barrier and the Central dogma of molecular biology that impeded learning, and pass on the lessons of our lives from parent to children without needing to wait for natural selection.
+
+We can artificially select better tools before feeling the pains of being unselected off the team by the coach. Therefore unlike biology, we can adapt in real time to how we play the game and in effect become our own coach.
+
+But we very often try to but not very successful. Because we don't see ourselves as technological beings playing the Game of Life, and instead use our selection powers for silly reasons.
+
+Here is a quick story about why this gift will clarify our perspective and increase our success.
 
 There's this crab, Heikegani, that's native to Japan. It's rather small with long legs. It would be another unknown crab except it has a interesting feature. It's shell looks like a human face. In particular, an angry samurai.
 
@@ -1111,10 +1129,27 @@ We have much self-imposed artificial selection on our Game of Technological Life
 
 ## Chapter 8—Legacies Never Die
 
-Homo sapiens are not the only human species. There are over a dozen of others. Homo erectus, homo floresiensis, denisovan, neanderthal are but a few of them. The most common definition of a species, is the ability to interbreed have fertile kids, and homo sapiens has DNA from several of these groups still in us today. Many caucasians have neanderthal blood, many polynesians denisovan. Not enough to make a difference, but enough to showcase our history is more natural than we might assume.
+The most common definition of a species, is the ability for two creatures to interbreed and have fertile kids. That means, we are not the only human species. There are over a dozen of others. Homo erectus, denisovan, neanderthal, and us homo sapiens, are but a few from the list.
 
-Meaning, the selection process that brought about modern human genes was every bit as natural as it was for any other species.
+The earliest record of Homo is the 2.8 million-year-old specimen from Ethiopia. As we evolved into different groups, we still through migration interactions, still interacting. Different humans interbreed to various degrees. We homo sapiens have DNA from several still in us today, especially neanderthal and denisovan. Not enough to make a difference, but enough for DNA researches to track and showcase our history.
 
+The selection process that brought about modern human genes was every bit as natural as it was for any other species. And this means we carry a legacy of the survivors of biological natural selection in our genes.
+
+Homo sapiens formed in Africa about 300,000 years ago. For hundreds of thousands of years our genes lived nomadic hunter-gatherer groups in Africa, surviving through collaborative hunting and gathering. They moved across savannas and woodland areas, using sophisticated stone tools and developing complex social structures. These early humans lived in family units of 20-50 individuals, hunting game, collecting wild plants, and creating basic tools and art. Their adaptability and emerging cognitive skills allowed them to navigate challenging environments, setting the stage for future human migration and survival.
+
+I often wondered how my speech impediment would done in earlier times. At least in nomadic times, I think it could have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans, has genetic roots in people sitting by a fire thousands of years ago.
+
+We can't shake this heritage. Despite any negativity we have over body image or whatever, these genes spread round the world.
+
+Homo sapiens emerged in Africa at least 300,000 years ago. H. sapiens migrated out of the continent, gradually replacing or interbreeding with local populations of archaic humans. Humans began exhibiting behavioral modernity about 160,000–70,000 years ago, and possibly earlier.
+
+The "out of Africa" migration took place in at least two waves, the first around 130,000 to 100,000 years ago, the second around 70,000 to 50,000 years ago. H. sapiens proceeded to colonize all the continents and larger islands, arriving in Eurasia 125,000 years ago, Australia around 65,000 years ago, the Americas around 15,000 years ago, and remote islands such as Hawaii, Easter Island, Madagascar, and New Zealand in the years 300 to 1280.
+
+Humans are sexually dimorphic: generally, males have greater body strength and females have a higher body fat percentage. Females are capable of pregnancy. Childbirth is dangerous, with a high risk of complications and death. Often, both the mother and the father provide care for their children, who are helpless at birth.
+
+Until about 12,000 years ago, all humans lived as hunter-gatherers. The Neolithic Revolution (the invention of agriculture) first took place in Southwest Asia and spread through large parts of the Eurasian continent over the following millennia. It also occurred independently in Mesoamerica (about 6,000 years ago), China, Papua New Guinea, and the Sahel and West Savanna regions of Africa.
+
+The formation of permanent human settlements, the domestication of animals and the use of metal tools was followed by permanent food surplus, for the first time in history. Agriculture and sedentary lifestyle led to the emergence of early civilizations.
 
 As the Barrier says, there is literally no way for us to change our genes. This is important because our genes evolved in a time quite different from our own. That means each person has a legacy of genetics that is near being as foreign as a fish out of water. Some paleo-anthropologists describe it as humans are not evolved for modern life.
  
