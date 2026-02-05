@@ -2527,3 +2527,17 @@ The laws of evolution state life will venture out into the unknown, and the fitt
 Key to this understanding is that evolution is deaf, dumb, and mute. While life is open to creating any kind of life form, evolution only wants the winners. There's no way of briding evolution. Evolution does not understand any language, see any life form, or listen to any stories. Evolution cannot select the players on the gameboard according to anything other its adaptations effectiveness to harness resources. Cold climates need insulation. Hot ones need cooling. The life forms that harvest and use resources the most efficiently inside a ecosystem get a spot on the team, and once they have their mask on, will do anything they can do to survive.
 
 With all this knowledge of the natural laws of physics, chemistry, geology, biology, and evolition, we are not ready to chart the history of life's evolution.
+
+===
+
+use tools every day, but we often design our technologies looking over the shoulder of nature.
+
+There's even a field called biomimicry; the emulation of natural models, systems, and elements for the purpose of inventing new technologies. Among its many creations is Velcro, copied from the fuzzy seed burs that so easily stick to our pants during country walks in the grass. Many airplanes, drones, robotics, and other technological designs get their inspiration from the biological products of natural selection.
+
+Yet, despite knowing knowing how similar biological and technological development is, when discussing human affairs about a job success, business bankruptcy, government election loss, civilization's rise and fall, the fact these are evolution's selection or not, does not come in our psyche.
+
+When we see a struggling polar bear or any other species, we have no problem citing its evolutionary pressure on it in a changing environment. Even most people anthropologists say evolution has effectively stopped. They can't conceive that the game continued, for us, in the Game of Technological Life.
+
+We are using an unnatural selection method. Which turns the game into a Game of Me, which is okay for animals because life has natural selection to handle the sticky details of picking a team. However we act as a coach and that makes the Game of Technological Life far more inefficient that it naturally should be.
+
+===
