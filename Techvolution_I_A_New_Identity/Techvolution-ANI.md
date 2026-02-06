@@ -985,7 +985,7 @@ The game is about scoring points by having offspring who stand a good chance of 
 
 Now that you know how the rule book, game board, sand clock, modeling clay and scoreboard work together, let's play the game!
 
-Not this game though. The page to hit the start button to play the sequel similar in so many ways but different in a few. Let's win the Game of Technological Life, what we can also call techvolution.
+Not this game though, but the sequel that's similar in so many ways. Let's win the Game of Technological Life, what we can also call techvolution.
 
 ----
 
@@ -995,12 +995,9 @@ Not this game though. The page to hit the start button to play the sequel simila
 - see a ecosystem not as animals fighting for survival, but as biologists do, species working in tandem
 - that's what makes species, not just the aerodynamics of birds, but the instinct to breed right in time for spring, etc..
 - Kids are the future, and its why you got the Game of Life is the perfect Christmas or birthday present.
-
-Because life wants genes that can survive in the unique time and place tomorrow brings.
-
-This virus is an example. It succeeded in finding a host, replicating itself, and so will be in the future. While you may complain, that hot chicken soup you're about to have was once a lifeform, and you're using it to stay alive and keep your genes around to hopefully pass your genes into the future. Hopefully that poultry had kids, or close cousins, before it died for you.
-
-So, despite being so very different, you and the virus are on the score board together. Why? Because you are on the same functioning team, or as biologist says, ecosystem. If that's hard to imagine, just realize you were chosen by the same coach.
+- Because life wants genes that can survive in the unique time and place tomorrow brings.
+- This virus is an example. It succeeded in finding a host, replicating itself, and so will be in the future. While you may complain, that hot chicken soup you're about to have was once a lifeform, and you're using it to stay alive and keep your genes around to hopefully pass your genes into the future. Hopefully that poultry had kids, or close cousins, before it died for you.
+- So, despite being so very different, you and the virus are on the score board together. Why? Because you are on the same functioning team, or as biologist says, ecosystem. If that's hard to imagine, just realize you were chosen by the same coach.
 
 --
 
@@ -1015,93 +1012,98 @@ Meaning the best way for a genotype to get more children to grow in such a way t
 
 ## Chapter 7—What Does the Game of Life Mean
 
-Before we go further in our quest for a technological identity, there's something to say about the Game of Life.
+Before we press start on the Game of Technological Life, there's something to say about the Game of Life.
 
-The game is a relatively accurate way to describe life's time on Earth, but of course not perfect. Specialists could highlight problems with the metaphor. For example entropy is more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity (inside black holes, traveling near light speed), so are not truly "universal laws". But these extremes are rarely a factor for us, and entropy's details doesn't change it's overwhelming tendency to decompose matter. So its fair to say the booklet of natural laws is all but absolute in our experiences. 
+The game is a relatively accurate way to describe life's time on Earth, but not perfect. Specialists could highlight problems with the metaphor. For starters, when accessed in detail, entropy is much more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity (near black holes, traveling near light speed), so are not truly "universal laws". But these extremes are rarely a factor for us, and entropy's details don't change its overwhelming tendency to decompose matter. So it's fair to say the booklet of natural laws is all but absolute in our experiences. 
 
 However, we should go into more detail about evolution's selection methods.
 
-Because natural selection isn't the only way life picks genes. Other mechanisms include sexual selection, where females select males for novel traits like tusks or feather color; genetic drift, where genes change randomly over time for apparently no reason; human male pattern baldness is an example, and migration interactions, where species diverge into separate pockets but reintegrate to exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
+Because natural selection isn't the only way life picks genes. Other mechanisms include sexual selection, where females select males for novel traits like tusks or feather color; genetic drift, is when genes change randomly over time; human male pattern baldness is an example, and migration interactions, where species diverge into separate pockets but reintegrate to exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
 
-Co-evolution, is another selection mechanism. This happens when one species is intimately linked to the evolution of other species within the same ecosystem. This reciprocal process can lead to the emergence of complex, interdependent communities. Flowering plants and their pollinators, such as bees and butterflies, is a prime example.
+Co-evolution is another selection mechanism. This happens when one species is intimately linked to the evolution of other species within the same ecosystem. This heavily reciprocal process can lead to the emergence of complex, interdependent communities. Flowering plants and their pollinators, such as bees and butterflies, is a prime example.
 
-Epigenetics don't introduce new genes, but change how they manifest. Genes communicate with each other via a "coating" of proteins. These proteins help genes express their codes, often by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation as a reaction to their parents malnourishment during World War II.
+Epigenetics is another way to introduce new players, but with an important difference. Epigenetics is like a sophisticated control system for your genes. Imagine your DNA as a vast library, and epigenetic mechanisms are the librarians that decide which books (genes) get read and which remain closed. Genes therefore change how they are expressed, often by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation as a reaction to their parents malnourishment during World War II. Epigenetics is nature's way of allowing organisms to adapt to their environment without rewriting their entire genetic instruction manual.
 
-Epigenetics is like a bridge between the genotype and phenotype characteristics. The latter being parts of creatures that can change because of any number of factors, from levels of sunshine, water, wind or parents nutrition.
+Epigenetics is one of the many phenotype characteristics we learned before, these are the observable physical, biochemical, and behavioral characteristics of an organism that result from the interaction between its genotype and the environment. Two acorns growing, one in sunshine, the other in a forest shade, will grow to be two different looking trees, even if having the same genes.
 
-However, phenotype changes cannot create new specie because genes never change based on experiences. The Weismann Barrier and the Central dogma of molecular biology both show the acquired knowledge and tribulations never communicate to future generations beyond slight variations in epigenetic inheritance (although some neo-Lamarckian biologists question aspects of these tenants, an example why our definition of natural laws should be open to questions).
+However, life experiences never change genes. The Weismann Barrier and the Central dogma of molecular biology both show acquired knowledge and tribulations never communicate to future generations beyond slight variations in epigenetic inheritance (although some neo-Lamarckian biologists question aspects of these tenants, an example why our definition of natural laws should be open to questions).
 
-Despite there being several more evolutionary mechanisms life uses to introduce new genes and variations into the game, each player must still harvest enough resources to procreate. That's why our "coach" uses natural selection, because it is by far the dominate way life validates its players/genes.
+So, from the other selection methods, to epigenetics and other phenotype developments, there are many other ways to introduce new genes and variations. However, each and every player must still harvest enough resources to procreate. That's why our "coach" uses natural selection, because it is by far the dominant way evolution validates its players/genes.
 
-So, the natural laws of physics, chemistry, geology, and biology, all have important differences between the Game of Life metaphor and reality, but for our purpose of adopting a new identity, this game is indeed a valuable gift. 
+So, the natural laws of physics, chemistry, geology, and biology, all have important differences between the Game of Life metaphor and reality, but for our purpose of upgrading our players with a new identity, this game is indeed a valuable gift. 
 
-Because it demonstrates why nature works as it does in the biological world, and so helps us understand the Game of Technological Life we are striving to realize is happening all around us.
+Because it demonstrates why nature works as it does in the biological world, and so helps us understand the Game of Technological Life we are striving to win.
 
-Happily, we do see hints of technological evolution.
+Happily, we do see many hints of technological evolution.
 
-For starters, there is the historical legacy of using animal products as technological adaptions. A few examples are fur coats, water skins, beasts of labour, carrier pigeons, and hunting dogs, but there are countless others. Using so many products of biological evolution puts its power in our hands for generations and should make it easier to see evolution in our lives.
+For starters, we have a historical legacy of using animal products as technological adaptions. A few examples are fur coats, water skins, beasts of labour, carrier pigeons, and hunting dogs, but there are countless others. Harvesting our tools from nature means assessing the strengths and weaknesses of animals and thus being a sort of coach, selecting species to solve specific problems. 
 
-Of course, we developed our own tools. From the spears of the Stone Age, to the chisels of the Bronze Age, and all the countless tools since, making and using a specific set of tools is often what defines a person, culture, society, and civilization. Many of our personal names, from Blacksmith (metal working), Cooper (barrel making), Draper (wool weaver), and so many others, shows how interwoven tools are with human identities. 
+Of course we developed our own tools. From the spears of the Stone Age, to the chisels of the Bronze Age, and all the countless tools since, making and using a specific set of tools is often what defines a person, culture, society, and civilization. Many of our personal names, from Blacksmith (metal working), Cooper (barrel making), Draper (wool weaver), and so many others, show how interwoven tools are with human identities. 
 
-There is so much crossover between biology and technology we often design our technologies whilst looking over the shoulder of nature.
+Biology and technology have so much crossover we often design our technologies while looking over the shoulder of nature.
 
 Today, there's even a field called biomimicry; the emulation of natural models, systems, and elements for the purpose of inventing new technologies. Among its many creations is Velcro, copied from the fuzzy seed burs that so easily stick to our clothes during country walks in the grass. Many airplanes, drones, robotics, and other technological designs get their inspiration from the biological products of natural selection.
 
-Biological and technological development cross-over so well because they have common problems.
+Biological and technological development crossover so well because they have common problems.
 
 They each need to invent structural engineering (skeletons, framing) to combat gravitational forces, aerodynamics (birds, planes) and hydrodynamics (fish, ships) to move efficiency through air and water, and thermodynamics to keep warm, or cool, in various environments (fur, insulation). We even track biology and technology developments using very similar trees charts. These graphical representations show the evolutionary relationships among various species based upon similarities and differences in their genetic or physical characteristics.
 
-It should be no surprise that biology and technology solve common problems because the Game of Life and Technological Life have the same booklet of natural laws, and must survive the same attacks, from gravity, radiation, mechanical stress, energy loss, evaporation, and other forms of entropy.
+Using the Game of Life metaphor makes it easier to understand why biology and technology crossover so much. They have the same booklet of natural laws, game board, sand clock, and therefore must survive the same attacks from gravity, radiation, mechanical stress, energy loss, evaporation, and other forms of entropy.
 
-And, when was the last time you, or anyone, grew a winter coat of hair to combat Minnesota winters. Do parents ever tell a kid to increase skull bone strength before climbing a mountain. Does anyone create more fat to store water before their long trip.
+We know how biology responds to these challenges, and when was the last time you, or anyone, grew a winter coat of hair to combat Minnesota winters. Do parents ever tell a kid to increase skull bone strength before climbing a mountain. Does anyone create more fat to store water before their long trip.
 
-Of course not. But we need solution to these problems because the booklet, game board, sand clock, and entropy don't go away because we don't recognize them.
+Of course not.
 
-Biology does.
+We see evolution in the natural world but not in our own lives. When watching a struggling polar bear today, we have no problem citing its evolutionary pressure caused by its changing environment. We know the point of contact between the entropy's attacks and biology is a set of genes that a trying to win natural selection's approval. The point of contact between entropy and us is almost always a tool, yet we do not think evolution pressures us as well.
 
-Ad we can see biological evolution. When we see a struggling polar bear or any other species, we have no problem citing its evolutionary pressure on it in a changing environment. We know the point of contact between the entropy's attacks and biology is a set of genes that make a lifeform that may or may not win natural selection's approval.
+Even with all these indications that we're using technology to survive the Game of Life, few people label themselves as their tool. National, ethnic, gender, job title, education, ideology, religion, racial, sports teams, comic books, all have far more space in our personal identities then the tools we use to stay alive.
 
-We should so the same for ourselves, as the point of contact between entropy and us is almost always a tool.
+That's why this book wants you to embrace being a technological being. Not because it's an interesting idea, but because technology is our first line of defense against entropy's endless attacks. 
 
-Even with all these indications that we're playing the game using tools to survive, nary a person would label themselves as their tool. National, ethnic, gender, job title, education, ideology, religion, racial, sports teams, comic books, all have far more space in our personal identities then the tools we use to stay alive.
+We realize this truth in the natural world, so should be able to make the leap and understand the truth of our existence by realizing we are simply inside technological version of the Game of Life. Then we can start to knowingly play it and therefore better win.
 
-That's why this book wants you to embrace being a technological being. Not because it's an interesting idea, but because alwas its game on whether we survive entropy's endless attacks and technology is our first line of defense. We know the natural world, so we can understand the truth of our existence by realizing we are simply inside technological version of the Game of Life.
+The booklet of rules, game board of environments, sandglass of time, bits of clay, and a scoreboard are all there. As is the circle of producers, grazers, predators, decomposers, and testers as well. This is happening all around us.
 
-The booklet of rules, game board of environments, sandglass of time, bits of clay, and a scoreboard are all there. As is the circle of producers, grazers, predators, decomposers, and testers as well. This is happening all around us, we couldn't have made it this far in the game without them.
+So why don't we see it?
 
-But we have one rather large glitch.
+Because our coach is using an unnatural selection method to pick the team that often clouds our view. Here is a quick story to explain.
 
-Our coach is using a different selection method to pick the team. And because playing isn't winning, this means we often play to lose. Here is a quick story to explain.
-
-There's this crab, Heikegani, that's native to Japan. It's rather small with long legs. It would be another unknown crab except it has a interesting feature. It's shell looks like a human face. In particular, an angry samurai.
+There's this crab, Heikegani, that's native to Japan. It's rather small with long legs. It would be another unknown crab except it has an interesting feature. It's shell looks like a human face. In particular, an angry samurai.
 
 Why?
 
-The crabs name gives a clue. They are named after the once powerful Taira clan who dominated medieval Japan and were commonly known as the Heike. The clans warriors fought a massive civil war against the Minamoto clan in 1185.
+The crabs name gives a clue. Their namesake is the Taira clan who dominated medieval Japan and were commonly known as the Heike. Their warriors fought a massive civil war against the Minamoto clan in 1185.
 
-The war was decided at Dan-no-ura naval Battle in western Japan.
+The five year long war was decided at the massive Dan-no-ura naval Battle in western Japan.
 
-This war was a cultural and political turning point in Japanese history. The Heike lost and Minamoto's leader Yoritomo became the first Shōgun, or military ruler, of Japan. For seven centuries Japan was ruled by warriors and shōguns. Local legends say Heikegani crabs are reincarnations of the Heike warriors defeated at the battle. It is even written in _The Tale of the Heike_, a chronicle of ancient Japanese history.
+The Heike lost and Minamoto's leader Yoritomo became the first Shōgun, or military ruler, of Japan. This was a cultural and political turning point in Japanese history. For seven centuries Japan was ruled not by emperors, but by samurai warriors and shōguns. Local legend said Heikegani crabs are reincarnations of the Heike warriors defeated at the battle. It is even written in _The Tale of the Heike_, a chronicle of ancient Japanese history.
 
-That's one interpretation for the crabs distinctive feature.
+That's one interpretation for the crab's distinctive feature.
 
-Carl Sagan, the noted American astronomy and educator, says something else. In his book _Cosmos: A Personal Voyage_ Sagan says the Heikegani crabs were caught by local fisherman who occasionally saw faces in the shell. Out of respect for ancient fallen soldiers, the fishermen returned them to the see, but harvested the unlucky grabs who didn't carry the spirits of an ancestor. Year after year this meant more newly hatched crabs had the genes that made their shell look like a face. After enough years went by, all the Heikegani crabs had what looked like a human face on their shell.
+Carl Sagan, the noted American astronomy and educator, says something else. In his book _Cosmos: A Personal Voyage_ Sagan says the Heikegani crabs were caught by local fisherman who occasionally saw faces in the shell. Out of respect for ancient fallen soldiers, the fishermen returned them to the sea, while harvesting the unlucky crabs who didn't carry the spirits of an ancestor. As the years went by more newly hatched crabs had the genes that made their shell look like a face. Eventually, all the Heikegani crabs had what looked like a human face on their shell.
 
-Human beings had selected winning crabs but for unnatural reasons, which is why biologists call the Heike crabs a classic example of "artificial selection".
+Human beings had selected winning crabs, but for unnatural reasons, which is why the Heike crabs are a classic example of "artificial selection". This is another interpretation for the crab's distinctive feature.
 
-But there's no record of Japanese fisherman ever selecting crabs for human faces. The crab isn't even a staple of any known diets. Evolutionary biologist Joel Martin thinks the crabs muscles and shell are simply built the way they are because natural selection says it works. Humans only see a face because of human pareidolia; our tendency to impose a meaningful interpretation on patterns, so that we detect meaning in places where there is none.
+It's not the definitive one, because there's no record of Japanese fisherman ever selecting crabs for human faces. The crab isn't even a staple of any known diets. Evolutionary biologist Joel Martin thinks the crabs distinctive muscles and shell are simply built the way they are because natural selection says it works. Humans only see a face because of human pareidolia; our tendency to impose a meaningful interpretation on patterns, so that we easily detect meaning in places where there is none.
 
-We often do the same in the stars or clouds in the sky, where we see horses, chariots, and endless other objects inside floating water vapor, or balls of gas unimaginably far from each other. These vision can't be true, because they exist only from our vantage point. Yet, we assign constellations and luck, and so much more to these interpretations.
+We often do the same in the stars or clouds in the sky, where we see horses, chariots, and endless other objects inside floating water vapor, or balls of gas unimaginably far from each other.
 
-While the unique time and place of every creature defines our emergent game board and clock, we often are chasing the shadows of our own psyches.
+These visions only make sense from our own vantage point. Meaning while playing on the emergent game board and clock in the Game of Technological Life, we are often chasing the shadows of our own psyches.
 
-The Heikegani crabs showcases something very important for our adopting a technological identity. We find it very easy assign truths based on the ideas in our minds. Thus, we apply artificial selection en masse, and act like a coach, but fill our team with very poor selections.
+So, the Heikegani crabs showcases something very important for our winning the game. While all the other selection mechanisms are in effect and helping us develop new tools, we replaced nature's coach with ourselves and used artificial selection to pick our team.
 
-Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." As the Heikegani crab story highlights we often artificially play the game. This book could well be called "upgrading our error prone artificial selection with the super powers of natural selection".
+Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." As the Heikegani crab story highlights we often artificially play the game. This book could well be called "Techvolution: On the Origin Of a Technological Species, by Upgrading Our Error Prone Artificial Selection with the Super Powers of Natural Selection".
 
-And so, to adopt a technological identity, we need to get ourselves out of our heads. Happily, we've done this in many other fields, from physics, chemistry, medicine, and geology too. What these journeys teach us is, broadly speaking, there are three ways for humans to understand the Game of Life.
+And so, to win the Game of Technological Life, we do not need to invent anything new. We already recognize biological evolution, watch and feel for its players, and use and copy its achievements. We already invent and use many amazing tools to harvest resources and protect ourselves from entropy's perils.
 
-Mythologies, stories, and science.
+We are already playing the game!
+
+To earn a much better score, we need to get out of our heads. 
+
+Happily, we've done this in many other fields, from physics, chemistry, medicine, and geology. What these journeys teach us is there are three ways for humans to understand the Game of Life. By learning the value of nature, mythologies, stories, and science, we will finally adopt technological identity and better outmaneuver entropy in our never ending techvolution.
+
+
+
 
 ### Evolution
 
