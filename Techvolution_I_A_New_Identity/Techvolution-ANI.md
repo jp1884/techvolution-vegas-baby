@@ -1058,15 +1058,15 @@ We see evolution in the natural world but not in our own lives. When watching a 
 
 Even with all these indications that we're using technology to survive the Game of Life, few people label themselves as their tool. National, ethnic, gender, job title, education, ideology, religion, racial, sports teams, comic books, all have far more space in our personal identities then the tools we use to stay alive.
 
-That's why this book wants you to embrace being a technological being. Not because it's an interesting idea, but because technology is our first line of defense against entropy's endless attacks. 
+That's why this book wants you to embrace being a technological being. Not because it's an interesting idea, but because it make us realize we are playing the Game of Life, and technology is our first line of defense against entropy's endless attacks. 
 
-We realize this truth in the natural world, so should be able to make the leap and understand the truth of our existence by realizing we are simply inside technological version of the Game of Life. Then we can start to knowingly play it and therefore better win.
+We realize this truth in the natural world, so should be able to make the leap and understand the truth of our existence by realizing we are simply inside technological version of the Game of Life. Then we can start to knowingly play it and therefore win.
 
-The booklet of rules, game board of environments, sandglass of time, bits of clay, and a scoreboard are all there. As is the circle of producers, grazers, predators, decomposers, and testers as well. This is happening all around us.
+The booklet of rules, game board of environments, sandglass of time, bits of clay, and a scoreboard are all there. As is the circle of producers, grazers, predators, decomposers, and testers in our own ecosystems too. This is happening all around us.
 
 So why don't we see it?
 
-Because our coach is using an unnatural selection method to pick the team that often clouds our view. Here is a quick story to explain.
+Because our coach is using an unnatural selection method. Picking the team in such a way often clouds our view. Here is a quick story to explain.
 
 There's this crab, Heikegani, that's native to Japan. It's rather small with long legs. It would be another unknown crab except it has an interesting feature. It's shell looks like a human face. In particular, an angry samurai.
 
@@ -1102,65 +1102,65 @@ To earn a much better score, we need to get out of our heads.
 
 Happily, we've done this in many other fields, from physics, chemistry, medicine, and geology. What these journeys teach us is there are three ways for humans to understand the Game of Life. By learning the value of nature, mythologies, stories, and science, we will finally adopt technological identity and better outmaneuver entropy in our never ending techvolution.
 
-
-
-
-### Evolution
-
-1. Variation: The foundation of evolution is the simple fact that no two living organisms are exactly alike. Even within a single species, individuals exhibit a range of subtle (and sometimes not-so-subtle) differences in their physical traits, behaviors, and genetic makeup. For example, the variations in beak size and shape observed among Darwin's finches on the Galápagos Islands are a classic illustration of this principle.
-
-2. Inheritance: The variations we observe in living things are, to a large degree, passed down from one generation to the next through the process of reproduction. The genetic information encoded in an organism's DNA is replicated and transmitted to its offspring, ensuring that the variations are preserved and can be acted upon by evolutionary forces. This is exemplified by the inheritance of traits like fur color or body size in mammals.
-
-3. Differential Reproduction: Not all individuals within a population are equally successful at surviving and reproducing. Those with variations that confer advantages in their environment will tend to leave behind more offspring than their less-fit counterparts. This unequal reproductive success is the driving force behind evolution. For instance, in a population of giraffes, individuals with longer necks may be better able to reach and consume the leaves at the tops of trees, giving them a reproductive advantage over their shorter-necked peers.
-
-4. Natural Selection: The process by which certain variations are favored over others is known as natural selection. The environment, with all its challenges and opportunities, acts as a filter, allowing the most well-adapted individuals to thrive and pass on their advantageous traits to future generations. The peppered moth story demonstrates how natural selection can lead to rapid changes in a population's appearance as the environment changes, with the better-camouflaged dark form of the moth increasing in frequency over time as industrial pollution darkened the trees.
-
-5. Adaptation: As a result of natural selection, living organisms become increasingly well-suited to their environment over successive generations. Beneficial variations are reinforced, while less useful traits are gradually eliminated, leading to the emergence of adaptations that enhance an organism's chances of survival and reproduction. The development of camouflage patterns in various animal species is a prime example of adaptation.
-
-6. Speciation: Over time, as populations of a species become increasingly isolated and divergent, they may eventually give rise to new species—distinct groups of organisms that can no longer interbreed and exchange genetic material. This process of speciation is a fundamental mechanism by which evolution generates new forms of life. The rapid diversification of cichlid fish in the African Great Lakes, where over 2,000 species have evolved from a small number of ancestral species through adaptation to various ecological niches, is another striking example of speciation.
-
-7. Co-evolution: The evolution of one species is often intimately linked to the evolution of other species within the same ecosystem. This reciprocal process, known as co-evolution, can lead to the development of intricate ecological relationships and the emergence of complex, interdependent communities of living things. The co-evolution of flowering plants and their pollinators, such as bees and butterflies, is a prime example of this principle.
-
 ## Chapter 8—Legacies Never Die
 
-The most common definition of a species, is the ability for two creatures to interbreed and have fertile kids. That means, we are not the only human species. There are over a dozen of others. Homo erectus, denisovan, neanderthal, and us homo sapiens, are but a few from the list.
+The word nature has a lot of meanings. It includes all the animals, plants, and other creatures in the world. But it's also weather, open seas, mountain vistas, and even the forces of nature. But sometimes nature is another word for reproduction, growth, and life itself. And, the word is also an inquiry. Asking "what's the nature of a thing", is asking what are characteristics that can't be changed.
 
-The earliest record of Homo is the 2.8 million-year-old specimen from Ethiopia. As we evolved into different groups, we still through migration interactions, still interacting. Different humans interbreed to various degrees. We homo sapiens have DNA from several still in us today, especially neanderthal and denisovan. Not enough to make a difference, but enough for DNA researches to track and showcase our history.
+We need every aspect of the word. By updating our identity we're effectively asking what is our nature, and not for academic reasons, but for the express purpose of returning to it via natural selection.
 
-The selection process that brought about modern human genes was every bit as natural as it was for any other species. And this means we carry a legacy of the survivors of biological natural selection in our genes.
+Nature is a natural fit for us. Humans have long genetic branch on the grand family tree of creatures species playing the Game of Life. This ancestry shows were are not the only human species.
 
-Homo sapiens formed in Africa about 300,000 years ago. For hundreds of thousands of years our genes lived nomadic hunter-gatherer groups in Africa, surviving through collaborative hunting and gathering. They moved across savannas and woodland areas, using sophisticated stone tools and developing complex social structures. These early humans lived in family units of 20-50 individuals, hunting game, collecting wild plants, and creating basic tools and art. Their adaptability and emerging cognitive skills allowed them to navigate challenging environments, setting the stage for future human migration and survival.
+The earliest record of humans, science calls Homo (latin for human), is the 2.8 million-year-old specimen from Ethiopia. Humans evolved into 12 known groups, homo erectus, denisovan, neanderthal, and us homo sapiens, are a few from the list that's growing as more fossil and DNA evidence is discovered.
 
-I often wondered how my speech impediment would done in earlier times. At least in nomadic times, I think it could have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans, has genetic roots in people sitting by a fire thousands of years ago.
+Despite being isolated for generations, eventually migration interactions kicked in, and different humans interbreed to varying degrees. Today, 1%-5% of our DNA is from "archaic humans", especially neanderthal and denisovan. This small percentage isn't enough to make a difference, but enough for DNA researches to track our history.
 
-We can't shake this heritage. Despite any negativity we have over body image or whatever, these genes spread round the world.
+It's important to embrace the fact all humans lived and died under the stars.
 
-Homo sapiens emerged in Africa at least 300,000 years ago. H. sapiens migrated out of the continent, gradually replacing or interbreeding with local populations of archaic humans. Humans began exhibiting behavioral modernity about 160,000–70,000 years ago, and possibly earlier.
+Before farms, houses, and animal domestication, our ancestors were just another animal subject to the whims of nature. The selection process that tested human genes used the entire gauntlet of testing, from cold, heat, hunger, limited resources, and other natural problems.
 
-The "out of Africa" migration took place in at least two waves, the first around 130,000 to 100,000 years ago, the second around 70,000 to 50,000 years ago. H. sapiens proceeded to colonize all the continents and larger islands, arriving in Eurasia 125,000 years ago, Australia around 65,000 years ago, the Americas around 15,000 years ago, and remote islands such as Hawaii, Easter Island, Madagascar, and New Zealand in the years 300 to 1280.
+While playing the Game of Life, the coach of course responded to this state of nature by trading for new adaptations. Tree hanging was exchanged for very long distance running endurance. Full body hair for sweat (few other animals sweat by the way). And perhaps the most important, ten fingers was traded for eight fingers and two disposable thumbs.
 
-Humans are sexually dimorphic: generally, males have greater body strength and females have a higher body fat percentage. Females are capable of pregnancy. Childbirth is dangerous, with a high risk of complications and death. Often, both the mother and the father provide care for their children, who are helpless at birth.
+These new genes consistently scored points. Humans could run down protein and calorie rich food while holding spears and knives. We were smart enough to emulate lightning and start fires to cook, and therefore predigest, our food. Human genes learned to crave sugar for the rare energy boosts it gave, but was omnivorous, and so able to eat many things.
 
-Until about 12,000 years ago, all humans lived as hunter-gatherers. The Neolithic Revolution (the invention of agriculture) first took place in Southwest Asia and spread through large parts of the Eurasian continent over the following millennia. It also occurred independently in Mesoamerica (about 6,000 years ago), China, Papua New Guinea, and the Sahel and West Savanna regions of Africa.
+These genes made a very efficient lifeform, so much so our energy hungry brains kept getting bigger. Unsurprisingly, it's the main place that kept hair on it, to retain some of the energy it was using up.
+
+While human genes had much in common, we didn't naturally get along. We formed tribes of dozens to up to 200 people. We lived and died inside our communities or perished. About 30-60% of ancient humans died at the hands of another. Such was drive to be picked by the coach.
+
+Scattered around the world, humans played this game for millions of years. Constantly getting better genes at each step. Humans are sexually dimorphic. While females in most species are larger, because eggs are larger and more valuable, in most large animals, males are larger to win mating rights. Humans inherited this and so males typically larger and stronger, therefore adapted for hunting, while females have higher body fat percentages because childbirth remains risky, and human offspring require extended parental care due to their prolonged vulnerability after birth. High infant mortality means humans must be ready to mate year round.
+
+We homo sapiens formed in Africa about 300,000 years ago. There we lived as nomadic hunter-gatherer groups, surviving through collaborative hunting and resource gathering. We moved across savannas and woodland areas, using stone tools, crafting crude clothes, and developing complex social structures. Their adaptability and emerging cognitive skills allowed them to navigate challenging environments, setting the stage for future human migration and survival in new worlds.
+
+We didn't evolve as "lone wolf" humans, because being pack or herd like have much better survival chances.
+
+And such, we migrated out of Africa, gradually replacing or interbreeding with local populations of archaic humans. The "out of Africa" migration took place in waves. We got to Eurasia 125,000 years ago, Australia around 65,000 years ago, the Americas around 15,000 years ago, and remote islands such as Hawaii, Easter Island, Madagascar, and New Zealand in the years 300 to 1280.
+
+Starting about 12,000 years ago, most of the archaic humans were effectively gone. They had interbreed with the waves of homo sapiens to their own extinctions. Now, humans lived as hunter-gatherers. The Neolithic Revolution (the invention of agriculture) first took place in Southwest Asia and spread through large parts of the Eurasian continent over the following millennia. It also occurred independently in Mesoamerica (about 6,000 years ago), China, Papua New Guinea, and the Sahel and West Savanna regions of Africa.
 
 The formation of permanent human settlements, the domestication of animals and the use of metal tools was followed by permanent food surplus, for the first time in history. Agriculture and sedentary lifestyle led to the emergence of early civilizations.
 
-As the Barrier says, there is literally no way for us to change our genes. This is important because our genes evolved in a time quite different from our own. That means each person has a legacy of genetics that is near being as foreign as a fish out of water. Some paleo-anthropologists describe it as humans are not evolved for modern life.
- 
-Before we discuss the three ways humanity can interpret our technological world. We must first realize our genetic legacy.
+As the barrier says, there is literally no way for us to change our genes. This is important because our genes evolved in a time quite different from our own. That means each person has a legacy of genetics that evolved in a time period before civilization. 
 
-- homosapiens one of the biggest difference from other humans, is our throat...
+Some paleo-anthropologists describe it as humans are not evolved for modern life.
 
+But they are all we have. Before we discuss the three ways humanity can interpret our technological world. We must first realize our genetic legacy. Because our legacy genetics roots our phenotypes (cultures, beliefs), and extended phenotypes (technology, tools). That means tools and technology are bound to the abilities and limitations of homo sapien genetics.
 
+Humans are the soil in which technology grows, or doesn't.
 
+With all this in mind, there is one of our biggest difference from other humans, is our throat.
 
+Recent genetic and archaeological research suggests that while Neanderthals could communicate vocally, Homo sapiens had a significant advantage in linguistic complexity. The ability to produce more varied sounds likely contributed to: more sophisticated social communication, enhanced knowledge transfer, more complex cultural and technological development. The anatomical differences, particularly in the vocal tract, represent a crucial evolutionary adaptation that distinguished Homo sapiens from other human species, potentially playing a key role in our species' survival and global expansion. Basically, homo sapiens has larger brains and could communicate better. We our brains could originate ideas and our speech could pass it on.
 
+I often wonder how my speech impediment would have changed in earlier times. At least in nomadic times, I think it might have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. But as society grew, I would have missed out on communicating with others and be explained within the stories of the time as simpleton or something else.
 
+Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans, has genetic roots in people sitting by a fire thousands of years ago, and we carry all these with us today for no other reason that we can't get rid of these ghosts from our past.
 
+The "artificial selection" of our stories allowed us to create a new selection is thus often a matter of these ghosts. This genetic legacy is the source of my artificial selection content, that we find reasons to care about but evolution can't get rid of because its in our genes.
 
+So it's up to us. We can't shake our heritage, but we can improve it with a new identity to remove artificial selection as much as possible and letting nature selection take over. Let's get started.
 
+How did we spread around the world, and how did we develop tools? We plated and spread tool-species inside ecosystems of course. And that required, and still requires, three modes of understanding; nature, mythologies, stories, and science.
 
-
+- a virus will never know where it is. a bug might. a mammal even better. and so on. the more sensory inputs a being has, the more awareness it needs to stay on mission. same for tools....hence we science is needed when weiling powerful/sensory tools, but needs specificity for a simple knife cutting a apple for consumption....
 
 
 
