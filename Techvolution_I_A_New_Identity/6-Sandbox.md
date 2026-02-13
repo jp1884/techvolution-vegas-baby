@@ -2560,3 +2560,23 @@ We are using an unnatural selection method. Which turns the game into a Game of 
 7. Co-evolution: The evolution of one species is often intimately linked to the evolution of other species within the same ecosystem. This reciprocal process, known as co-evolution, can lead to the development of intricate ecological relationships and the emergence of complex, interdependent communities of living things. The co-evolution of flowering plants and their pollinators, such as bees and butterflies, is a prime example of this principle.
 
 ===
+
+With each step, tools emulated life's journey and got more complex, self-sufficient, and self-aware. A virus will never know where it is, it simply performs its function until it dies. A bug can decide where its going but still has no control over when or why. A mammal has more control and awareness. The point it, the longer an ecosystem evolves, it adds more lifeforms with more sensory inputs analyzed by bigger brains and therefore getting more self-awareness.
+
+
+I often wonder how my speech impediment would have changed in earlier times. At least in nomadic times, I think it might have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. But as society grew, I likely would have missed out and been explained within the stories of the time as simpleton of some kind.
+
+Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans, has genetic roots in people sitting by a fire thousands of years ago, and we carry all these with us today for no other reason that we can't get rid of these ghosts from our past.
+
+
+
+The unique human groups often evolved separately, but migration interactions meant there was interbreeding to varying degrees. Today 1%-5% of our DNA is from "archaic humans", especially neanderthal and denisovan. This small percentage isn't enough to make a difference, but enough for DNA researches to track our history.
+
+
+
+
+
+
+
+
+

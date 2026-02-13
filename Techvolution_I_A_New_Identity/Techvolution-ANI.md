@@ -380,7 +380,7 @@ Socrates smiled, holding his weathered spear. "When I return we will get started
 
 ### Explainer
 
-Sadly, there was no Magos of Samos. There are plenty of scrolls found at Pompeii and Herculaneum. Scientists are just now starting to use CT scanners and machine learning to unlock their contents. So far, there are no lost ancient works found.
+Sadly, there was no Magos of Samos. There are plenty of scrolls found at Pompeii and Herculaneum. Scientists are just now starting to use CT scanners and machine learning to unlock their contents. So far, no lost ancient works have been found.
 
 Alas, the scene you just read is a fictional thought experiment—a glimpse into an alternate history where two of humanity's most transformative intellectual revolutions occurred simultaneously.
 
@@ -400,7 +400,7 @@ Plato wrote these lessons down, adding his own thoughts along the way, in books 
 
 Charles Darwin (Zographos), over two millennia later, revealed the mechanism by which all life adapts and evolves. Although many scientists laid the groundwork for Darwin, their contribution was often removing the buildup of erroneous human narratives, such as all animals being created as they exist today and the Earth only being a few thousand years old.
 
-While it was never going to be easy, Darwin's insights into natural selection, common descent, and evolutionary adaptation were always there to be discovered. After all, farmers long knew much about inheritance among plants and animals because they bred them so often. Even so, it took an very fortunate moment, like visiting the isolated Galapagos Islands for Darwin, or the Canary Islands for Zographos, to display natural selection and adaptation simply enough to seed evolution in someone's mind.
+While it was never going to be easy, Darwin's insights into natural selection, common descent, and evolutionary adaptation were always there to be discovered. After all, farmers long knew much about inheritance among plants and animals because they bred them so often. Even so, it took a very fortunate moment, like visiting the isolated Galapagos Islands for Darwin, or the Canary Islands for Zographos, to display natural selection and adaptation simply enough to seed evolution in someone's mind.
 
 When life's evolution was realized, it quickly transformed our understanding of the origin of species, including ourselves, in the natural world.
 
@@ -436,9 +436,9 @@ Socrates and Darwin never met, the same way Aristotle and Newton never did. But 
 
 Why not make it so.
 
-That means despite the lofty goals the Techvolution series is setting out to achieve, we are only adding some of our scientific knowledge to the foundational questions Socrates first posed about human civilization.
+Despite the lofty goals the Techvolution series is setting out to achieve, we are only adding some of our scientific knowledge to the foundational questions Socrates first posed about human civilization.
 
-That way, we'll correct the path we've been living by applying evolutionary thinking to understand how civilizations adapt to technological change. This will help us consciously guide our civilization's evolution toward a future where people will no longer have to ask "what is justice" because they'll instead be intentionally building it.
+That way, we'll correct the path we've been living by applying evolutionary thinking to understand how civilizations adapt via technological change. This will help us consciously guide our civilization's evolution toward a future where people will no longer have to ask "what is justice" because they'll instead be intentionally building it.
 
 ===
 
@@ -1100,79 +1100,97 @@ We are already playing the game!
 
 To earn a much better score, we need to get out of our heads. 
 
-Happily, we've done this in many other fields, from physics, chemistry, medicine, and geology. What these journeys teach us is there are three ways for humans to understand the Game of Life. By learning the value of nature, mythologies, stories, and science, we will finally adopt technological identity and better outmaneuver entropy in our never ending techvolution.
+Happily, we've done this in many other fields, from physics, chemistry, medicine, and geology. What these journeys teach us is there are four ways for humans to understand the Game of Life. By learning what our nature truly is we can better understand the mythologies, stories, and science we used to understand place in the world. Thereafter, we can adopt technological identity and better outmaneuver entropy in our never ending techvolution.
 
-## Chapter 8—Legacies Never Die
+## Chapter 8—Our Hidden Human Nature
 
-Nature is a word with a lot of different meanings. It includes all kinds of weather, especially noticeable days like beautiful sunshine or violent storms. We're also inspired to see nature in epic scenery such as vast open seas or gorgeous mountain vistas. But the word is also used to describe the fundamental forces that control the universe while still, meaning mother nature's growth of life itself. The word is an inquiry too. The question "what's the nature of a thing", is asking what are its features that can't be changed.
+To understand our technological evolution in the Game of Technological Life, we start with understanding our place inside the regular Game of Life, because this is where our nature got its start.
 
-We're using every part of the word. By updating our identity we're effectively asking what our nature is. And, not for academic reasons, but for the express purpose of returning to it by re-implementing natural selection.
+Nature has lot of different meanings of course. It includes all kinds of weather, everything from beautiful sunshine to violent storms, but also epic ocean and mountain scenery. The word is also used to describe the "forces of nature" that control the universe, but is also about "mother nature" nurturing life's health. Yet, the question "what's the nature of a thing", is asking what are its features that can't be changed.
 
-Nature is a natural fit for us. After all, like everything biological, we're on the tree of life, so it's literally in our genes.
+We're using every part of the word. By updating our identity we're effectively asking what our nature is. And, not for academic reasons, but for the express purpose of returning to all its splendor by re-implementing natural selection.
 
-The earliest known human, science calls us Homo (latin for human), is a 2.8 million-year-old specimen from Ethiopia. Thereafter, we evolved into eight to twelve known groups, homo erectus, denisovan, neanderthal, and us homo sapiens are a few but the list grows as more fossil and DNA evidence is discovered.
+Nature is a natural fit for us. After all like every being we're on the tree of life. Our last common ancestor with chimpanzees and bonobos was a relatively recent 13 to five millions years ago. The earliest known human, science calls us Homo (latin for human), is a 2.8 million-year-old specimen from Ethiopia. Thereafter, we evolved into several known groups, homo erectus, denisovan, neanderthal, and us homo sapiens are a few but the list grows as more fossil and DNA evidence is discovered.
 
-The unique human groups often evolved in isolation, but migration interactions meant everyone interbreed to varying degrees. Today 1%-5% of our DNA is from "archaic humans", especially neanderthal and denisovan. This small percentage isn't enough to make a difference, but enough for DNA researches to track our history.
+Our nature is rooted in being part of the animal kingdom. Natural selection tested human genes like any everyone else living under the stars. Up against the whims of nature, our ancestors experienced the entire gauntlet of trials, from cold, heat, hunger, aging, limited resources, and other problems in the Game of Life.
 
-Natural selection tested our genes like any anything else living under the stars. Up against the whims of nature, our ancestors experienced the entire gauntlet of trials, from cold, heat, hunger, aging, limited resources, and other natural problems in the Game of Life.
+The coach responded as usual, by trading for different adaptations. Each new adaptation meant leaving our ape ancestors further behind. We replaced easy tree climbing for amazing endurance running. Body hair overheated us during our frequent runs, so exchanged it for skin covered with sweat glands. Our vocal tract developed to make increasingly complex sounds. And perhaps the most important change, ten fingers became eight fingers and two opposable thumbs.
 
-The coach of course responded to this state of nature by trading different adaptations. Slowly but surely, easy tree climbing was replaced with the animal kingdoms best endurance running. Full body hair exchanged for mostly hairless skin and sweat to cool us down during long runs. Our vocal tract developed to make increasingly complex sounds. And perhaps the most important, ten fingers was traded for eight fingers and two opposable thumbs.
+Over time these adaptations got more pronounced because they kept earning points on the procreation scoreboard.
 
-These trades consistently got more pronounced over time because they kept getting points on the procreation scoreboard.
+With distance running, sweat, speech, and thumbs, humans could hold spears and organize themselves to reliably chase, exhaust, kill, and defend protein and calorie rich food. We learned to crave sugar for the rare energy boosts it gave, but being omnivorous, could gather something to eat year round. Increasingly so, as we learned to use rocks and sticks to dig up, open, or ground an increasing menu of roots, nuts, and seeds.
 
-With distance running, sweat, speech, and thumbs, humans held spears and organized themselves to reliably chase, exhaust, kill, and defend protein and calorie rich food. We learned to crave sugar for the rare energy boosts it gave, but being omnivorous, were could gather something to eat year round. Increasingly so, as we learned to use rocks, sticks, any object really, to dig up, open, or ground an increasing menu of roots, nuts, seeds then. Growing speech abilities let us communicate more complex ideas and knowledge about the unique opportunities of the emergent game board. Crucially, we learned the value of charred meat (likely from scavenging food after brush fires), and around 1.8 millions years ago learned to start our own fires to cook, and therefore predigest, our food.
+Growing speech abilities let us communicate our learning about the emergent game board's opportunities. Crucially, this included the value of charred meat (likely learned from scavenging food after brush fires). Around 1.8 millions years ago humans started our own fires to cook, and therefore predigest, our food.
 
-All these adaptations made for a increasingly efficient lifeform. As tools and fire made digestion easier, our jaws could get smaller, meaning our brains had both the space and energy to keep growing. This most powerful of human adaptations increased our reasoning, intelligence, and communication which used up so much energy our heads kept its hair to retain some of the heat billions of neurons create.
+As tools and fire made digestion easier, our jaws could get smaller, meaning our brains had both the space and energy to grow. This most powerful of human adaptations used up so much energy our heads kept its hair to retain some of the heat billions of neurons create.
 
-While our adaptions we're making us rather unique in nature, we still kept some of our heritage too.
+While these adaptions we're making us rather unique in nature, we still kept some of our genetic heritage too.
 
-Like many creatures, humans are sexually dimorphic. In most species that means females are larger, because eggs are larger and more valuable, in mammals however males are often bigger to win mating rights. Humans inherited this feature and so males are typically larger, stronger and more aggressive, while females got higher body fat percentages because childbirth is energy intensive and risky. Parents typically mate for life because human offspring require extended parental care due to their prolonged vulnerability after birth. Because of relatively high infant mortality, estimated to be around 40% before a kids first birthday, means humans must be ready to mate year round to faster replace their lost members.
+Like many creatures, humans are sexually dimorphic. In most species that means females are larger, because eggs are larger and more valuable, in mammals however males are often bigger to win mating rights. Humans inherited this feature and so males are typically larger, stronger and more aggressive, while females got higher body fat percentages because childbirth is energy intensive and risky.
 
-Humans also kept the heritage of not naturally getting along. While human genes had much in common, we still formed tribes to protect our specific bits of clay. Our ancestors lived in communities from a dozen up to 200 members. About 30-60% of ancient humans died at the hands of another, often from tribal warfare. Such was limited carrying capacity and drive to be picked by the coach.
+Humans typically mate for life because their offspring's vulnerability after birth requires extended care. Because of relatively high infant mortality, estimated as high as 40%, means humans don't have mating seasons, instead they must be ready to procreate year round to faster replace their frequent lost members.
 
-300,000 years ago our branch of humans, homo sapiens, formed from this genetic history. Its not surprising we started in Africa's geography. Its huge landscapes made it harder for humans to interact, what geographers call the friction of distance. Isolation allowed many adaptions a chance to evolve and offer themselves up for the coaches selection. The legacy of this time period lives on today; there is still more genetic diversity in sub-saharan Africa then in the rest of the entire world.
+Humans also do not naturally get along. While early human genes had much in common, we still formed tribes to protect our specific bits of clay. That's why our ancestors lived in communities from a dozen up to 200 members. Persistent tribal warfare meant about 30-60% of ancient humans died at the hands of another. Such was the drive to be picked by the coach.
 
-The first homo sapiens lived as nomadic hunter-gatherer groups, surviving through community driven hunting, resource gathering, and child rearing. Like most animals we knew hunting and foraging grounds, but had to move across savannas and woodlands looking for our next meal. The average daily trip was about 10-15 kilometers a day.
+300,000 years ago our branch of humans, homo sapiens, formed from this genetic history.
 
-With big brains, vulnerable kids, little fat or hair to keep us warm, the emergent game board and sand clock were hard to keep a head of.
+Modern humans got our start in Africa's geography. Its huge landscapes made it harder for migration interactions to blend human groups because of what geographers call the friction of distance. Isolation allowed many adaptions a chance to offer themselves to the coaches selection. The legacy of this time period lives on today; there is still more genetic diversity in sub-saharan Africa then in the rest of the entire world.
 
-It's not surprising we developed basic stone tools, crafted crude clothes, and created complex social structures connected with evermore conversations and gossip to coordinate our efforts. Even though quite primitive compared to today, early homo sapiens adaptable hands, feet, cognitive skills, and tools still allowed them to navigate most any environmental challenge on the African game board.
+The first homo sapiens lived as nomadic hunter-gatherer groups, likely in East Africa. Because of a genetic quirk of mitochondrial DNA, we can even track a common ancestor to all of todays humans to a women who lived 155,000 years ago, colloquially called "Mitochondrial Eve". In her time, homo sapiens survived through community driven hunting, resource gathering, and child rearing. Like most animals we knew common hunting and foraging grounds, but had to move across savannas and woodlands looking for our next meal. The average daily trip was about 10-15 kilometers a day.
 
-After so many millions of years, nature finally created a human who could venture across the world.
+With hungry brains, vulnerable kids, little fat or hair to keep us warm, we needed all the help we could get to outsmart the emergent game board and sand clock.
+
+So, the coach kept picking those who developed better tools, crafted warmer clothes, and created complex social structures connected with evermore conversations and gossip. Early homo sapiens were a solid choice. Our adaptable hands, feet, cognitive skills, and tools allowed our ancestors to navigate most any environmental challenge on the African game board.
+
+After so many millions of years, nature finally created a human ready to venture across the world.
 
 There were waves of "out of Africa" homo sapien migrations. With our unique adaptations we got to Eurasia 125,000 years ago, Australia around 65,000 years ago, the Americas about 15,000 years ago, and remote islands such as Hawaii, Easter Island, Madagascar, and New Zealand in the years 300 to 1280. At each place, homo sapiens gradually replaced or interbreed with local populations of archaic humans.
 
-By about 12,000 years ago, most of the archaic humans were effectively gone. Either losing out over resources or interbreeding with homo sapiens to their own extinctions. Now, all humans were homo sapiens using very unique adaptations on nearly every game board Earth has to offer. From north to south, desert to jungle, super cold to very hot, our adaptability let us outpace the sand clock and keep scoring points.
+By about 12,000 years ago, most of the archaic humans were effectively gone. Either losing out over resources or interbreeding with homo sapiens to their own extinctions. Now, all humans were homo sapiens customizing their adaptations to nearly every game board on Earth. From north to south, desert to jungle, freezing cold to very hot, our adaptability let us outpace the sand clock and keep scoring points of procreation.
 
-Then, we hit the Neolithic Revolution, the invention of agriculture. 
+Then, we hit the Neolithic Revolution, the invention of agriculture, and the dawn of civilization. 
 
-It occurred independently at different times in the world. First taking root in Southwest Asia Fertile Crescent 11,000 BC, China 9,000 BC, Mesoamerica 5000 BC and others regions afterward. Heavily influenced by the wildlife and resource available, but most locations started permanent human settlements, the domestication of animals, clay pottery, and metal tools. In every instance humans had a relatively stable food supply throughout the year.
+It occurred independently at different times in the world. First taking root in Southwest Asia's Fertile Crescent 11,000 BC, China 9,000 BC, Mesoamerica 5000 BC and others regions afterward. Heavily influenced by the local wildlife and resource, most locations started permanent human settlements, the domestication of animals, clay pottery, and metal tools. By drastically increasing the productivity of land, humans had a relatively stable food supply throughout the year.
 
-As we ponder our long history, please realize something important. We accept that sloths never fight off their enemies, ants are always selfless, elephants consistently love their families. We accept these lessons because we know each creature has its nature. That doesn't mean every individual lifeform is always predictable, but it does mean there are certain characteristics that species have features that can't be changed.
+As we ponder the start of agriculture, cities, governments, and other aspects of civilization, please realize something important. We accept that sloths are always slow, ants are always selfless, elephants always love their families. We accept creatures have unique natures. That doesn't mean every individual lifeform is predictable, but it does mean there are instincts that can't be changed.
 
-This is because, as the Weismann Barrier and the Central dogma of molecular biology tell us, there is no way for any creature to change its genes. Therefore, homo sapiens love of sugar and sex, tribal loyalty, amazing endurance, sexually dimorphism, warlike behaviors, migration interactions, capacity for good and evil, this is all in our genes and likely always will be our nature to some degree.
+It's hard wired into the DNA. And, as the Weismann Barrier and the Central dogma of molecular biology tell us, there is no way for any creature to change its genes, and therefore no way for creatures to change their natures. Instincts can be modified of course based on experiences and education, but those lessons will need to be relearned by each new generation until an appropriate bit of clay is added to the lifeforms' genes.
 
-Therefore, the legacy of our genetics roots human phenotypes (cultures, beliefs), and extended phenotypes (technology, tools) in the history of our biological evolution. That means tools and technology are bound to the abilities and limitations of homo sapien genetics.
+And this is the lesson of nature. The same lessons geologists and chemists learned to embrace. Nature doesn't change.
 
-Basically, humans are the soil in which technology grows, or doesn't.
+Homo sapiens love of sugar and sex, tribal loyalty, amazing endurance, sexually dimorphism, warlike behaviors, capacity for good and evil, are in our genes and likely always will be our nature to some degree. This genetic legacy roots human phenotypes like our cultures, beliefs, and ideologies along with our extended phenotypes of technology and tools in the history of human biological evolution.
 
-This may be why humans, even within tribes, evolved to be so different. Just the variety of your friends and family to elephants, tigers, apes, or anything else. Our species is so similar in many ways, but we're also very different too.
+But human nature is more than these characteristics. As Stone Age turned into the Bronze, then Iron Age, our nature was increasingly technological.
 
-Physically, we have three main body types, known as somatotypes: ectomorph (slender and lean), mesomorph (muscular and athletic), and endomorph (rounder and softer). Each type has a distinct characteristics related to muscle mass and fat distribution, meaning whether running long distances, digging a hole, or carrying a huge log, we have body types to meet the challenge.
+This may be why humans, unlike most animals, evolved to be so individually different, even within families and tribes.
 
-Our intelligence differs too. Levels of abstract thought, practical proficiency, patience to defer gratification, musical abilities, are all quite varied. Some people can recite long histories from their minds, while others can calculate carpentry measurements with ease. All the many millions of products and services in the economy is conceived, designed, manufactured, distributed, and used by a human because humans are so different.
+Physically, we have different body types: ectomorph (slender and lean), mesomorph (muscular and athletic), and endomorph (rounder and softer). Each type has a distinct characteristics related to muscle mass and fat distribution, meaning whether running long distances, making a shelter, or hammering steel, we have body types to meet the challenge.
 
-Such huge human variety may caused by our co-evolution with tools. Meaning the technological evolution this books is advocating we embrace, has been driving the change in human genetics to make homo sapiens. Because the Game of Life needs ecosystems of producers, grazers, predators, and testers to win, and the coach picked human communities who had the varied human genetics needed to be able to staff every job in the technological ecosystem.
+Our intelligence differs too. Levels of abstract thought, practical proficiency, patience to defer gratification, musical abilities. Some people can recite long histories from their minds, while others can calculate carpentry measurements with ease. Like with our bodies, our mental faculties, interests, hobbies, and passions are very unique. 
 
-This job of genotype, phenotype, and extended phenotype is to staff the technological ecosystems producers (farms, power plants), grazers (tool users), predators (innovators), testers (crooks). Like any biological ecosystem, these segments work together to play the game. Producers grow the food or generate the electricity, that will power the technology used by the common person. Predators assess which grazer's tool is not too slow, and innovate a solution which if successful will remove the old tool from the ecosystem. Of course the nefarious testers will always be around to basically randomly test all members for their fitness-something which I learned and dealt with daily as a claims adjuster.
+This variety in modern humans may caused by our co-evolution with tools.
 
-For thousands of years after the Neolithic Revolution, humans powered and manually operated most every tool. Even through with each year they were leaving the natural world behind, they were able to satisfy their calorie and nutritional requirements, make housing, collect fresh water for drink and cleaning. They were no longer just hunting and gather what nature made available, but instead making making and operating a new ecosystem in a modified Game of Life. Diverse human characters, abilities, and natures was chosen by natural selection to man technological ecosystems. 
+And that's the lesson of nature we need to embrace. While we have a genetic history forever in our genes, we also evolved along technological change. Meaning the technological evolution this books is advocating we embrace, has been driving human genetics for thousand of years. Because the Game of Life needs ecosystems of producers, grazers, predators, and testers to win, the coach picked human communities who had the varied human genetics needed to be able to staff every job in the technological ecosystem.
 
-That means each person has a legacy of genetics that evolved in a time period before civilization. Some paleo-anthropologists describe this time being so formative to our nature that humans are not evolved for modern life. Even so, we were chosen by natural selection to build and staff modern life. Using our inherited biological self-interest we overcame our emergent game board and sand clock, reciprocated enough to achieve the needed calories to survived entropy's attacks, and procreated more kids and tools to build entire technological ecosystems.
+Biology has countless species of trees, insects, birds, mammals, predators and so on because genotype and phenotype diversity is ecosystem security.
 
-With each step, tools emulated life's journey and got more complex, self-sufficient, and self-aware. A virus will never know where it is, it simply performs its function s. A bug can decide where its going. A mammal even more so, and so on. The point it, the longer an ecosystem evolves, it adds more lifeforms with more sensory and therefore more awareness.
+The job of the human genotype and phenotype is to staff the technological ecosystems producers (farms, power plants), grazers (tool users), predators (innovators), testers (crooks). Like any biological ecosystem, these segments work together to better play the game. Producers grow the food or generate the electricity that will power technology. Common people use tools to stay warm or cool, gather resources, raise their young. Predators assess grazer's tool attack slackers with a new solution which, if successful, removes the old tool from the ecosystem. All the while nefarious actors randomly test all members for their fitness—these thefts, scams, and assaults is exactly what I dealt with everyday adjusting insurance claims.
 
-This awareness is the root of our bad habit of turning personal self-interest into selecting tools of a different ecosystem. So many generations into technological ecosystem, we need to make modern life more natural by replacing artificial with natural selection. The first step is realizing we are genetic creatures using tools to play a modified version of the Game of Life.
+The need to invent, power, and manually operate most every tool changed how humans were selected. Even though we were leaving the natural world behind, we were only building another—technological—ecosystem to inhabit.
+
+Humans were no longer just hunting and gathering what nature made available, but instead creating and operating a new ecosystem in a modified Game of Life. Civilized humans kept scoring points. Death rates by wars, disease, and infant mortality drop consistently as civilization advances from Stone to Bronze then Steel Ages, because we expanded ours environment's carrying capacity with more food, housing, and fresh water. 
+
+Some might consider these changes artificial. After all, stone walls, bronze swords, horse saddles, and everything else in civilization are manmade materials or objects.
+
+But that would be wrong. After all, all life is found nowhere else but Earth (as far as we know). Why is a copper water pipe or medical textbook artificial if the copper in insects or the wood in trees are natural? The Game of Life is a battle to grow things that can self-replicate in their environment and fight off entropy. Technology does that every bit as much as biology does.
+
+What became artificial about civilization is the method used to select tools of the ecosystems. And this is because our big brains self-awareness and information processed mixed without biological self-interest to unnatural results. The diversity of humanity, selected by the coach, became the means to see tribes living in the wilderness, where there was in fact humans staffing growing ecosystems.
+
+This fact explains why people can seek the self-interest but be surprised when others do the same. We see others not as technological operators in the ecosystem that sustains us, but biological tribe members or outsiders, based on a ever changing identity such as gender, race, etc.
+
+This worked okay when technology was so primitive humanity still spent much of their time traveling, harvesting, and depending on the biological ecosystems. With technomass no exceeding biomass, we can't go on pretending our primary identity is rooted in genetics of ancient humans.
+
+So many generations into technological ecosystem, we need to make modern life more natural by replacing artificial with natural selection. The first step is realizing we are genetic creatures using tools to play a modified version of the Game of Life.
 
 I often wonder how my speech impediment would have changed in earlier times. At least in nomadic times, I think it might have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. But as society grew, I likely would have missed out and been explained within the stories of the time as simpleton of some kind.
 
@@ -1185,11 +1203,6 @@ The "artificial selection" of our stories allowed us to create a new selection i
 So it's up to us. We can't shake our heritage, but we can improve it with a new identity to remove artificial selection as much as possible and letting nature selection take over. Let's get started.
 
 How did we spread around the world, and how did we develop tools? We plated and spread tool-species inside ecosystems of course. And that required, and still requires, three modes of understanding; nature, mythologies, stories, and science.
-
-
-
-
-- Mitochondrial Eve, in other words, she is defined as the most recent woman from whom all living humans descend in an unbroken line purely through their mothers and through the mothers of those mothers, back until all lines converge on one woman.
 
 
 
