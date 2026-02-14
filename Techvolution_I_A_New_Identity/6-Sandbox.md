@@ -2574,7 +2574,13 @@ The unique human groups often evolved separately, but migration interactions mea
 
 
 
+s we ponder the start of agriculture, cities, governments, and other aspects of civilization, please realize something important. We accept that sloths are always slow, ants are always selfless, elephants always love their families. We accept every creature has unique natures. That doesn't mean every individual lifeform is always predictable, but it does mean there are instincts that can't be changed.
 
+It's hard wired into the DNA. And, as the Weismann Barrier and the Central dogma of molecular biology tell us, there is no way for any creature to change its genes, and therefore no way for creatures to change their natures. With things like genetic drift and epigenetics, genes can modified. But any large lessons will need to be relearned by each new generation unless an appropriate bit of clay is added to the lifeforms' genes to include it in its nature.
+
+The point is, we have millions of years of evolution behind our genes. First as primates struggling to weather nature's onslaught, then as early humans, then finally as homo sapiens.
+
+There are features in us that may never change. Our love of sugar and sex, tribal loyalty, amazing endurance, sexually dimorphism, warlike behaviors, capacity for good and evil, are in our genes and likely always will be our nature to some degree.
 
 
 
