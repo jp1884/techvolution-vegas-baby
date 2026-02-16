@@ -1100,73 +1100,77 @@ We already play the game!
 
 To earn a much better score, we only need to get out of our heads. 
 
-Happily, we've done this in many other fields, from physics, chemistry, geology, and medicine. The history of these journeys teaches us that we can improve upon our minds creation by assessing the state of nature as it truly is and thereby move from mythological, to philosophical, and finally to scientific levels of understanding. However, history also tells us this a dangerous voyage filled with windings roads, dead ends, and other dark places artificial knowledge takes its passengers.
+Happily, we've done this in many other fields, from physics, chemistry, geology, and medicine. The history of these journeys teaches us that we can improve upon our minds creation by assessing the state of nature as it truly is and thereby move from mythological, to philosophical, and finally to scientific levels of understanding. However, history also tells us this a dangerous voyage filled with windings roads, dead ends, and other shadowy places artificial knowledge takes its passengers.
 
 We're pressing start anyway.
 
-The first challenge is learning to defend ourselves against going down the wrong path of artificial human identities by understanding what human nature truly is. As we set out, let's meet the best you, the natural player of the game.
+Buckle up, the first challenge is not easy. We must learn to defend ourselves against going down the wrong path of artificial human identities by understanding what human nature truly is. Let's meet the best you, the natural player of the game.
 
 ## Chapter 8—Our Base Player Nature
 
-Nature has many different sides. It includes the open oceans and mountain vistas of the natural world, plus all the various weather it can experience. Nature can also mean the all-powerful "forces of nature" that control the universe, while "mother nature" describes the generative power of life. Yet, we can ask "what's the nature of a thing", to look deep into its soul.
+Nature has many different sides. It includes the open oceans and mountain vistas of the natural world and all the various weather it can experience. Nature can also mean the all-powerful "forces of nature" that control the universe, while "mother nature" describes the generative power of life. Yet, to know a thing we ask "what is its nature", and so look deep into its soul.
 
 Here, as you start your game, we are using every part of the word.
 
 By questioning our artificial creations, we're effectively asking what our nature is. And, not for academic reasons, but for the express purpose of better adapting to nature's environment, weather, and rulebook by re-implementing natural selection over the artificial version so common in the identity, politics, and economics we currently use to play the Game of Technological Life.
 
-Since there is a sixth mass extinction of biological life underway, most certainly being caused by humanity's use and misuse of technology, I would hazard a guess mother nature wouldn't mind us returning to natural realm right away.
+Since there is a sixth mass extinction of biological life underway, most certainly being caused by humanity's use—and misuse—of technology, I would hazard a guess mother nature wouldn't mind us returning to natural realm as quick as possible.
 
 But, what does that mean for you?
 
 We accept that sloths are always slow, ants are always selfless, elephants always love their families. We accept every creature has unique natures. That doesn't mean every individual lifeform is always predictable, but it does mean creatures have features, requirements, and instincts that can't be changed because these are the traits the coach needed when selecting them for the team.
 
-There's a record of natural selection's picks called the tree of life. It describes the relationships between organisms, both living and extinct. Only a few creatures live long enough to be considered living fossils. The rest are removed because The Game of Life is a job, an obligation to reciprocate inside an ecosystem that harvests resources efficiently enough to increase the carrying capacity and afford more members join and renew the team.
+There's a record of natural selection's picks called the tree of life. It describes the relationships between organisms, both living and extinct. Only a few creatures live long enough to be considered living fossils. The remaining list of producers, grazers, predators, decomposers, and tests are continually added and because The Game of Life is a job, an obligation to reciprocate inside an ecosystem that harvests resources efficiently enough to increase the carrying capacity and afford to add more members and renew the team.
 
-Humanity is on this tree like any other being. Our last common ancestor with chimpanzees and bonobos lived between 13 to five million years ago. Long in our timeframe, but very minimal in the evolutionary one.
+Humanity is on this tree like any other being. Our last common ancestor with chimpanzees and bonobos who lived between 13 to five million years ago. Long in our timeframe, but very minimal in the evolutionary one.
 
 To put that in perspective, we share more DNA with our monkey relatives than our pet cats share with tigers; and any cat owner will tell you the physiological, sensory, and predatory, similarities between the small and large felines. The point to remember is that any investigation of human nature must root itself into our being part of the animal kingdom. 
 
-We need to start here because our genes were selected like anyone else living under the stars. Up against the whims of nature, our DNA passed the entire gauntlet of trials, from cold, heat, hunger, aging, limited resources, and was selected to play in the Game of Life. We still have all the perseverance, edge, grit, and other abilities seen throughout animal kingdom.
+We need to start here because our genes were selected like anyone else's. Living under the stars and up against the whims of nature, our DNA passed the entire gauntlet of trials, from cold, heat, hunger, aging, limited resources, and was specifically selected to play in the Game of Life.
 
-Like many creatures humans are sexually dimorphic. In most species that means females are larger, because eggs are larger, rarer, and more valuable, but in mammals males are often bigger to win mating rights during sexual selection contests. Humans inherited this feature and so males are typically larger and more aggressive, while females got higher body fat percentages because childbirth is energy intensive and risky.
+Modern humans still have all the perseverance, edge, grit, and other abilities seen throughout animal kingdom in our genes. This manifests in many ways.
 
-All human offspring have prolonged vulnerability after birth. To provide extended care their parents typically mate for life. Relatively high infant mortality, estimated as high as 40% for Stone Age peoples, means humans don't have mating seasons. Instead couples must be ready to procreate year round to faster replace their lost members.
+Some are physiological. For example, like many creatures humans are sexually dimorphic. Sometimes that means females are larger, because eggs are larger, rarer, and more valuable, but in many large mammals males are often bigger, in part, to win mating rights during sexual selection contests. Chimpanzees and bonobos have this feature, and humans inherited it, making males typically larger while females got higher body fat percentages because our big heads make human childbirth especially energy intensive and risky.
+
+Another physical feature of humans is our offspring have prolonged vulnerability after birth. To provide extended care their parents typically mate for life. Relatively high infant mortality, estimated as high as 40% for Stone Age peoples, means humans don't have mating seasons. Instead couples must be ready to procreate year round to faster replace any lost members.
 
 Another trait humans kept from our animal kingdom heritage is that we do not naturally get along. While human genes had much in common, we still formed tribes to protect our specific bits of clay. Early humans lived in communities from a dozen up to 200 members. Persistent tribal warfare meant about 30-40% of ancient humans died at the hands of another. Such was the drive to be picked by the coach.
 
-We did of course evolve away from our ape ancestors and begin to play the game with technological tools, and that required drastic changes to our biology. But all of these too were all tested by the same high standards of the coach's natural selection.
+Other feature is our lifespans. If we do managed to avoid starvation, thirst, predators, or war, we can up to 70 plus years, longer for females for unknown reasons but perhaps because grandmothers contribute more to tribal institutional knowledge. Basically, as food, health, and safety improve so does our time on the game board.
 
-We traded easy tree climbing for amazing endurance running. Body hair overheated us during our long runs, so it got replaced for skin covered with sweat glands. Our vocal tract developed to make increasingly complex sounds. And, perhaps the most important change, ten fingers became eight fingers and two opposable thumbs.
+We did of course evolve away from our ape ancestors and begin to play the game with technological tools, and that required drastic changes to our biology. All of these evolutions were tested by the same high standards of the coach's natural selection.
 
-Each of these biological adaptations got more pronounced over time because they kept earning points on the procreation scoreboard. Meaning that, like a humming bird and elegant flower growing their beaks and steams to match the others uniqueness, our bodies were forming around the requirements of technology in a classic case of co-evolution.
+Some of the most notable were trading easy tree climbing for amazing endurance running. Body hair overheated us during our long runs, so it got replaced for bald skin covered with sweat glands. Our vocal tract developed to make increasingly complex sounds. And, perhaps the most important change, ten fingers became eight fingers and two opposable thumbs.
+
+Each of these biological adaptations got more pronounced over time because they kept earning points on the procreation scoreboard. Meaning that, like a humming bird and elegant flower growing their beaks and steams to match the others uniqueness, with each generation our bodies were forming around the requirements of technology in a classic case of co-evolution.
 
 The earliest known human, science calls us Homo (latin for human), is over 2.8 million-year-old specimen from Ethiopia. Thereafter, we evolved into several known groups, homo erectus, denisovan, neanderthal, and us homo sapiens are a few but the list grows as more fossil and DNA evidence is discovered.
 
 With distance running, sweat, speech, and thumbs, humans were positioned for game board success. We could hold spears and organize ourselves to reliably chase, exhaust, kill, and defend protein and calorie rich food like no ape ever could. We learned to crave sugar for the rare energy boosts it gave, but being omnivorous, could gather something to eat year round; especially because we learned to use rocks and sticks to dig up, open, or ground increasing large menu of roots, nuts, and seeds.
 
-All these adaptions opened up new opportunities on the game board. Not surprisingly, our growing speech kept getting better to communicate so much new information to each other. Crucially, this included the value of charred meat, likely learned from scavenging food after brush fires. Around 1.8 millions years ago humans started our own fires to cook, and therefore predigest, our food.
+All these adaptions opened up new opportunities on the game board, which our growing speech abilities allowed us to communicate with each other. Crucially, this included the value of charred meat, likely learned from scavenging food after brush fires. Around 1.8 millions years ago humans started our own fires to cook, and therefore predigest, our food.
 
-As tools and fire made digestion easier our jaws could get smaller, meaning our brains had both the space and energy to group. The braincase grew from around 500 CC of Australopithecus to around 1,350 of early Homo Sapiens. Although brain size does not directly correlate with intelligence, it does trend that way. Interestingly, this most powerful of human adaptations used up so much energy our heads kept its hair to retain some of the heat billions of neurons create.
+As tools and fire made digestion easier, our jaws could get smaller, meaning our brains had both the space and energy to grow. The human skull grew from around 500 CC of Australopithecus to around 1,350 of early Homo Sapiens. Although brain size does not directly correlate with intelligence, it does trend that way. Interestingly, this most powerful of human adaptations used up so much energy our heads kept its hair to retain some of the heat billions of neurons create.
 
-While continued co-evolution with technology we're making humans increasingly unique in nature, the coach kept much of our genes and instincts unchanged from our chimpanzee and bonobo relatives. Together they make up the genetics that, 300,000 years ago, our homo sapiens branch of humans would form.
+While continued co-evolution with technology was making humans increasingly unique in nature, the coach kept much of our genes and instincts unchanged from our chimpanzee and bonobo relatives. These two influences together make up the genetics that, 300,000 years ago, would form our homo sapiens branch of life.
 
 Noting our genetic history was very important for several reasons.
 
 There are about 3.2 billion base pairs of human DNA. That means there are more variations of human beings possible than there are atoms in the universe. How wonderful! We will never run out of unique people to play the game. Especially because genetic drift, epigenetics, and other forms of selection with make endless amazing, and sometimes unfortunate, variations of humans. Yet, and here's the point, you will never met a person who isn't made up of our genetic heritage and all the capabilities and limitations that brings.
 
-Like with sloths and elephants, we have natural instincts common to every person. Our ancestry is why we need eight hours of sleep, can't see well in the dark, need about 2,000 calories and eight cups of water each day, can only remember about 200 names, sustain 30 or so close friendships, typically like sugar and gossip, are self-interested and prone to tribal loyalties but capability of altruism and self-sacrifice, usually love our children most, and so many other default features of a modern human.
+Like with sloths, elephants and every other creature, we have natural instincts common to every person because the coach needed when selecting his team. Our genetic ancestry is why we need eight hours of sleep, can't see well in the dark, need about 2,000 calories and eight cups of water each day, require vitamin and minerals, too often resist sleep, can only remember about 200 names, sustain 30 or so close friendships, prefer temperatures around 70F/21C, typically like sugar and gossip, are self-interested and prone to tribal loyalties but also capable of altruism and self-sacrifice, usually love our children most, and so many other features of a modern human.
 
-We can aspire to better. And there are many ways we can improve upon our nature, but never by disregarding it, because as the he Weismann Barrier and the Central dogma of molecular biology say, it can never be changed.
+We can aspire to different. And there are many ways we can improve upon our nature, but never by disregarding it, because as the he Weismann Barrier and the Central dogma of molecular biology say, our genes can never be changed.
 
-Anyone who tries is artificial and offering nothing but a dead end. We've already met two such attempts, the communist and fascist ideologies that scared human history so badly. One outlawed and persecuted genetic research with grave consequences to health, environment, and agriculture, while the other said "chosen blood" was somehow the reason for human success completely disregarding our extreme genetic similarities. These are but two, there are many other human ideas that disregard nature in past and undoubtedly in the future too.
+Anyone who tries is artificial and offering nothing but a dead end. We've already met two such attempts, the communist and fascist ideologies that scared human history so badly. Among their many errors, one outlawed and persecuted genetic research and sentenced those with a "disloyal" family history, while the other said racial "chosen blood" was somehow the reason for human success and doomed outsiders, while completely disregarding our extreme genetic similarities. These are but two examples of artificial identities, there are, and will be, many more.
 
-For an easy use case of applying nature to our actions, think of getting a dog based on looks without researching its breed. Dalmatian were bred to run fast and far during frequent hunts, yet their cute spots means their often purchased to lay down alone in condos throughout the day. A caring and rational player would have gotten a basset hound or other low energy breed for a naturally happy match. 
+For an easy use case of knowing which are natural, think of getting a dog. Dalmatians are popular; they were bred to run fast and far during frequent hunts, yet their genes also give them cute spots. Today that means dalmatians are often gotten by condo owners and end up laying down alone throughout the day and admonished for being "troublesome". A caring player would have gotten a basset hound or other low energy breed for a naturally happy match between nature and environment. 
 
-How do you tell the difference between artificial and unnatural, well human nature is motivate, like with any nature, is motivate on its own. it doesn't need wars or policies to spread...
-
-A natural look at humans will realize we have our natures as well; but of course not solely defined by our animal kingdom past. Something else motivates our souls. Something that doesn't require wars or persecution. Stuff so good we give it to our loved ones. Stuff so valuable it makes people, especially kids, smile when opening a box and seeing it for the first time.
+A honest look at humans realizes we have our natures too. Human genes can never be wished away with human words. Of course, we not solely defined by our animal kingdom past. Our nature defines our needs and limits, but something else motivates our souls. Touching it is how we best tell the difference between artificial and natural; one requires coercion while the other is so good it makes people, especially kids, smile when opening a box and seeing it for the first time.
 
 ## Chapter 9—Our Gifted Player Nature
+
+- we connect the biological/pain realm with technological. that is why our true nature is so important, we guide technology where to evolve next....
 
 Modern humans got our start in Africa, and for good reason. The huge landmass below the Saharan desert is full of water and wildlife capable of feeding humans year round. Being so large made it harder for migration interactions to blend human groups.
 
