@@ -2583,6 +2583,10 @@ The point is, we have millions of years of evolution behind our genes. First as 
 There are features in us that may never change. Our love of sugar and sex, tribal loyalty, amazing endurance, sexually dimorphism, warlike behaviors, capacity for good and evil, are in our genes and likely always will be our nature to some degree.
 
 
+====
 
+Procreation inherently makes occasional mistakes, and sometimes these manifest into helpful features like photographic memory or being a "familial natural short sleepers". Like fish legs or bird wings, these genetic traits may be the start of the very long road to a new species, but are overwhelmingly rare and so not the nature of a species in which they currently live.
+
+===
 
 
