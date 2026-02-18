@@ -2589,4 +2589,13 @@ Procreation inherently makes occasional mistakes, and sometimes these manifest i
 
 ===
 
+Humans are also sexually dimorphic. Sometimes that means females are larger, because eggs are larger, rarer, and more valuable, but in many large mammals males are often bigger, in part, to win mating rights during sexual selection contests. Chimpanzees and bonobos have this feature, and humans inherited it, making males typically larger while females got higher body fat percentages because our large heads make human childbirth especially energy intensive and risky.
+
+Of course, our genotype does not absolutely determine our future—phenotypes, extended phenotypes, culture, and simple fortune are vital too—but our genes provide our foundational framework; all people need food, shelter, freedom and cherish their kids futures, these are among our biological starting points in the Game of Life.
+
+For an easy use case, think of someone in a condo getting a dog. Some people get dogs based on looks or feelings. Dalmatians are popular because of their cute spots and _101 Dalmatians_ movie success. Today that means dalmatians are often selected regardless and end up alone in tiny spaces throughout the day and scolded for being "troublesome" when their owner comes home, yet dalmatians were bred to run fast and far during frequent hunts.
+
+A self-aware player would accept genes have their characistics, have gotten a basset hound or other low energy breed for a naturally happy match between nature and environment. 
+
+===
 
