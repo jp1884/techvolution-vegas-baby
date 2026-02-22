@@ -1176,51 +1176,55 @@ Any identity is artificial when it expects people to behave in ways we never did
 
 Of course, we are not solely defined by our animal kingdom past. But human genes cannot be wished away with human words. Happily, while our nature defines our basic needs and limits, something else motivates our souls. Touching it is how we best tell the difference between artificial and natural; one requires coercion while the other is so good it makes people, especially kids, smile when opening a box and seeing it for the first time.
 
-## Chapter 9—Our Gifted Player Nature
+## Chapter 9—Spreading the Technological Soil
 
-The natural human player of the game is rooted in shared biological instincts and requirements. People need to eat, love, have shelter, hope, and many other things. Among our limitations is that we will never accept servitude or blind loyalty. Despite numerous belief systems, these are pretty universal features of mankind across time and geography.
+The natural human player of the game is rooted in shared biological instincts and requirements. People need to eat, love, have shelter, hope, and many other things. Among our limitations is that we will never accept servitude or blind loyalty. These are pretty universal features of mankind across time and geography.
 
 We share such in common because we got our start together. Neanderthals were mostly in Europe, denisovans in South East Asia, homo sapiens evolved in the huge landmass below the Saharan desert, in East Africa most likely. The place was full of water and wildlife and so capable of feeding humans year round. With a healthy carrying capacity, lots of tribes could live, and the huge geography made it harder for migration interactions to blend groups.
 
-Geographers call this the friction of distance. It's important because tribe isolation allowed many adaptations a chance to offer themselves to the coaches selection. The legacy of this time period lives on today; there is still more genetic diversity in sub-saharan Africa then in the rest of the entire world.
+Geographers call this the friction of distance. It's important because relative tribe isolation allowed many adaptations a chance to offer themselves to the coaches selection. The legacy of this time period lives on today; there is still more genetic diversity in sub-saharan Africa then in the rest of the entire world.
 
 In this hotbed of evolution, homo sapiens became a nomadic hunter-gatherer group, with people and lifestyle that we would recognize today. We're so close to these persons that, because of a genetic quirk of mitochondrial DNA, we can even track all modern humans to a single common women ancestor who lived 155,000 years ago, colloquially called "Mitochondrial Eve". 
 
-It's perhaps comical to imagine, and has been turned into movies like the lackluster _Year One_, but a modern human could be transported back to our ancestors in East Africa and—eventually—do fine. We could physically perform the way of life. Community driven hunting, resource gathering, and child rearing in groups where we knew everyone by name. Tribes had hunting and foraging grounds across savannas and woodlands. While looking for our next meal, the average daily trip was about 6-9 miles (10-15 kilometers) a day, probably not an accident that is about the caloric expenditure many people exercise to keep in shape.
+It's perhaps comical to imagine but a modern human could be transported back to our ancestors in East Africa and—eventually—do fine. We could physically perform the way of life. Community driven hunting, resource gathering, and child rearing in groups where we knew everyone by name. Tribes had hunting and foraging grounds across savannas and woodlands. While looking for our next meal, the average daily trip was about 6-9 miles (10-15 kilometers) a day, probably not an coincidence that is about the caloric expenditure many people exercise to keep in shape.
 
-We lived in Africa for thousands of generations. But with our hungry brains, vulnerable kids, little fat or hair to keep us warm, any help to outsmart the emergent game board and sand clock was very much noticed.
+Many home sapien tribes lived in Africa for thousands of generations. But with our hungry brains, vulnerable kids, little fat or hair to keep us warm, any help to outsmart the emergent game board and sand clock was very much noticed.
 
 So, the coach kept picking homo sapiens who developed better tools, crafted warmer clothes, and created more complex social structures connected with evermore gossip and teachings. Around 100,000-70,000 years ago, East Africa was such hot bed of innovation it's called the The Great Leap Forward. We developed symbolic thinking, complex language, advanced tool-making, and artistic expression. This cognitive revolution allowed humans to create art, plan for the future, develop spiritual beliefs, and cooperate at larger scales than ever before.
 
-It's not hard to imagine our ancestors with mostly modern bodies and brains, sitting around campfires after a days work. With wonderfully perceptive eyes and storytelling, they fashioned characters and events to explain the game they were playing. Looking up at the Milky Way must have been the most awesome experience, where titans and gods held the strings on the people on Earth playing at life.
+It's not hard to imagine our ancestors—with mostly modern bodies and brains—sitting around campfires after a days work. With wonderfully perceptive eyes and budding storytelling, they fashioned characters and events to explain the game they were playing. Just looking up at the Milky Way must have been the most awesome experience. With a virtual blank slate, imagined (or realized) that titans and gods held the strings on the people playing at life down on Earth.
 
-Before The Great Leap Forward we were physically modern humans, after it we behaved like modern humans. A modern person would be relatively happy here. It's suspected that our current love of a house on a lake, with the mountains behind us and a grass land in front, is from our memories of living in East Africa during this time period.
+Before The Great Leap Forward we were physically modern humans, after it we behaved like modern humans. A modern person would be relatively happy here. Ecologist Gordon H. Orians researched that our current love of a house on a lake, with the mountains behind us and a grass land in front, is from our memories of living in East Africa during this time period.
 
-Yet, it was to be a memory for most of us.
+Yet, the relative safety, resources, and pleasant weather was to be a happy memory for most of us.
 
-Our adaptable hands, feet, cognition, and tools, allowed early modern humans to navigate most any environmental challenge on the African game board. So, after so many millions of years, nature finally created a human ready to venture across the world. Or perhaps its better to say, technology had evolved the perfect match to help it seed itself worldwide.
+Our adaptable hands, feet, cognition, and tools, allowed early modern humans to navigate most any environmental challenge on the African game board. That also meant after so many millions of years, various forms of humanity, nature finally created a human ready to venture across the world.
+
+Or perhaps its better to say, technology had evolved the perfect match to help it seed itself worldwide.
 
 There were waves of Out of Africa homo sapien migrations. We got to Eurasia 125,000-100,000 years ago, Australia around 65,000 years ago, the Americas about 15,000 years ago, and remote islands such as Hawaii, Easter Island, Madagascar, and New Zealand in the years 300 to 1280. At each place, homo sapiens gradually replaced or interbreed with local populations.
 
 The timing is still debated among scientists. Unfortunately there was no written history back then, so piecing together events will always be difficult. But the Great Leap Forward and Out of Africa migrations were probably mutually reinforcing processes. Better cognition enabled migration, which created new selective pressures and opportunities that further refined human culture and tools. Rather than one causing the other, they likely fed into each other—a positive feedback loop where cognitive advances enabled exploration, and exploration drove further innovations.
 
-However it happened, by about 12,000 years ago, archaic humans were effectively gone. But for trace amounts of old DNA (about 1-5%), all humans were now purely homo sapiens. While our biology was destined to stay relatively unchanged, we kept adapting our cultures, and co-evolving tools to nearly every game board on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sand clock and keep scoring points of procreation around the world.
+However it happened, by about 12,000 years ago, archaic humans were effectively gone. But for trace amounts of old DNA (about 1-5%), all humans were now purely homo sapiens with many varieties possible but a relatively consistent nature. While our bits of clay was destined to be continually remixed but never fundamentally different, we kept adapting our cultures, and co-evolving tools to nearly every game board on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sand clock and keep scoring points of procreation around the world.
 
-Here is the historical point in which the natural player of the game was biologically set, but about to selected for playing on a new game board.
+Here is the historical point in which the player of the game was biologically set, but was about to selected for playing a slightly different game. One that make us smile across the board. While human nature was set, technology needed uniformity across the globe. Once it got it, it spread like wildfire.
 
-Because here was the invention of agriculture and the dawn of civilization. What is called the Neolithic Revolution. It occurred independently at different times. First taking root in Southwest Asia's Fertile Crescent 11,000 BC, China 9,000 BC, Mesoamerica 5,000 BC and others regions afterward. As Jared Diamond notes in his landmark _Guns, Germs, and Steel_ each civilization was heavily influenced by the local wildlife and resources, however most locations started some mixture of permanent human settlements, the domestication of animals, clay pottery, and metal making.
+## Chapter 10—Planting, Building, and Playing The New Game
+
+The invention of agriculture was the dawn of civilization. It's called the Neolithic Revolution. It occurred independently at different times. First taking root in Southwest Asia's Fertile Crescent 11,000 BC, China 9,000 BC, Mesoamerica 5,000 BC and others regions afterward. As Jared Diamond notes in his landmark _Guns, Germs, and Steel_ each civilization was heavily influenced by the local wildlife and resources, however most locations started some mixture of permanent human settlements, the domestication of animals, clay pottery, and metal making.
 
 In every instance civilization drastically increased the productivity of land. For the first time ever, humans had a relatively stable food supply throughout the year. To keep it running and expanding there was born new selection methods and criteria.
 
 Freed from the daily hunting and gathering treks, humans had more time on our hands and crucially more jobs to do. We strayed more from the wilderness realm and built new things, divided the labour to do it, and created political regimes to keep everyone working. Within a few thousand years the Stone Age turned into the Bronze, Copper, then Iron Age, each stage remade civilization based on a amazing new material to build the latest tools.
 
-As civilization progressed with each passing year, our nature was increasingly technological. Not necessarily because that's what human nature wanted, or because that's what made us happier, but for the same reason all species such as polar bears and Darwin's finches are created. Because the coach selects the ones harvesting more resources on the game board which outrun the sand clock.
+As civilization progressed with each passing year, our nature was increasingly technological. Not necessarily because that's what human nature wanted, or because that's what made us happier, but for the same reason all species such as polar bears and Darwin's finches are created. Because the coach selects the ones harvesting more resources on the game board.
 
 With each new technological selection, the coach was creating a new type of player. 
 
-Think how weird and wonderful it is that all humans can breed with each other. We can live anywhere. Most amazing, anyone can use any tool. There's this awesome story of a Amazonian kid being handed a iPad and knowing how to use it. That is why our true nature is so important. Our real-life pains are the thing technology will never feel, yet it is what technology was designed to solve in a classic case of co-evolution.
+Think how weird and wonderful it is that all humans can breed with each other. We can live anywhere. Most amazing, anyone can use any tool. There's this awesome story of a native Amazonian kid being handed a iPad and knowing how to use it. That is why our true nature is so important. Our real-life pains are the thing technology will never feel, yet it is what technology was designed to solve in a classic case of co-evolution.
 
-Technology created the soil in which it grows, turning us into its users.Human nature is to guide technology where to evolve next.
+Turning us into its users, empowering us to live anywhere on the glove, technology created the soil in which it grows. Human pains, pleasures, and passions guide technology where to evolve next.
 
 Co-evolving with technology had a profound affect on our phenotypes. It's why we, unlike most animals, are so individually different, even within families and tribes. Civilization changed on the more human variations than atoms in the universe, by liberating it from constraints of the East African plain environment. Humanity was free and required to evolve to inhabit and harvest from a different ecosystem.
 
@@ -1283,6 +1287,10 @@ So, this means individuality with qualifications. A tiger's orange with stripes 
 How the coach tells the difference is how the team is also chosen.
 
 As noted biologist Ernst Meyr says "individual lifeforms are the unit of selection." Meaning polar bear, is the unit of selection. and every polar bear depends on the ecosystem it which its member. it must find a way to do its job, and reciprocate, to earn the resources it needs to stay in the game. any other identity is unnatural.
+
+the future isn't made with cultures or whatever, but with the progression of individuals towards new opportunites on the game board. you hold the future in your hand.
+
+If you're willing to admit you eat, shelter, drink, because of technology. Thus you are inside an technological ecosystem that is evolving independent of your biological desires, wants, lifespan, or your personal or ideological beliefs.
 
 The natural human player of the game is rooted in shared biological instincts and requirements. People need to eat, love, have shelter, hope, and many other things. Among our limitations is that we will never accept servitude or blind loyalty. Despite numerous belief systems, these are pretty universal features of mankind across time and geography because individuals are the unit of selection.
 
