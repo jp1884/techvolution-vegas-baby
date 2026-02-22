@@ -1164,7 +1164,7 @@ Like with sloths, elephants and every other creature, we have natural instincts 
 
 These are statistical....
 
-Of course, our genotype does not determine our future-!-what scientists call "genetic determinism". We can aspire to be different; break molds, boundaries, and records. We can can even dream of improving upon our nature, but never can we succeed by disregarding it. Our creative minds do not automatically know that, but as the Weismann Barrier and the Central dogma of molecular biology say, genetics can not change based on our ideas, beliefs, or life experiences.
+Of course, our genotype does not determine our futureu2014what scientists call "genetic determinism". We can aspire to be different; break molds, boundaries, and records. We can can even dream of improving upon our nature, but never can we succeed by disregarding it. Our creative minds do not automatically know that, but as the Weismann Barrier and the Central dogma of molecular biology say, genetics can not change based on our ideas, beliefs, or life experiences.
 
 Anyone who tries to ignore our past is artificial and offers nothing but a dead end.
 
@@ -1186,59 +1186,69 @@ Geographers call this the friction of distance. It's important because tribe iso
 
 In this hotbed of evolution, homo sapiens became a nomadic hunter-gatherer group, with people and lifestyle that we would recognize today. We're so close to these persons that, because of a genetic quirk of mitochondrial DNA, we can even track all modern humans to a single common women ancestor who lived 155,000 years ago, colloquially called "Mitochondrial Eve". 
 
-It's perhaps comical to imagine, and has been turned into movies like the lackluster _Year One_, but a modern human could be transported back to our ancestors in East Africa and-!-eventually-!-do fine. We could physically perform the way of life. Community driven hunting, resource gathering, and child rearing in groups where we knew everyone by name. Tribes had hunting and foraging grounds across savannas and woodlands. While looking for our next meal, the average daily trip was about 6-9 miles (10-15 kilometers) a day, probably not an accident that is about the caloric expenditure many people exercise to keep in shape.
+It's perhaps comical to imagine, and has been turned into movies like the lackluster _Year One_, but a modern human could be transported back to our ancestors in East Africa and—eventually—do fine. We could physically perform the way of life. Community driven hunting, resource gathering, and child rearing in groups where we knew everyone by name. Tribes had hunting and foraging grounds across savannas and woodlands. While looking for our next meal, the average daily trip was about 6-9 miles (10-15 kilometers) a day, probably not an accident that is about the caloric expenditure many people exercise to keep in shape.
 
-We lived wasy in Africa for thousands of generations. But with our hungry brains, vulnerable kids, little fat or hair to keep us warm, any help to outsmart the emergent game board and sand clock was very much noticed.
+We lived in Africa for thousands of generations. But with our hungry brains, vulnerable kids, little fat or hair to keep us warm, any help to outsmart the emergent game board and sand clock was very much noticed.
 
 So, the coach kept picking homo sapiens who developed better tools, crafted warmer clothes, and created more complex social structures connected with evermore gossip and teachings. Around 100,000-70,000 years ago, East Africa was such hot bed of innovation it's called the The Great Leap Forward. We developed symbolic thinking, complex language, advanced tool-making, and artistic expression. This cognitive revolution allowed humans to create art, plan for the future, develop spiritual beliefs, and cooperate at larger scales than ever before.
 
-- campfire milky way stories
+It's not hard to imagine our ancestors with mostly modern bodies and brains, sitting around campfires after a days work. With wonderfully perceptive eyes and storytelling, they fashioned characters and events to explain the game they were playing. Looking up at the Milky Way must have been the most awesome experience, where titans and gods held the strings on the people on Earth playing at life.
 
 Before The Great Leap Forward we were physically modern humans, after it we behaved like modern humans. A modern person would be relatively happy here. It's suspected that our current love of a house on a lake, with the mountains behind us and a grass land in front, is from our memories of living in East Africa during this time period.
 
 Yet, it was to be a memory for most of us.
 
-Our adaptable hands, feet, cognition, and tools, allowed early modern humans to navigate most any environmental challenge on the African game board. So, after so many millions of years, nature finally created a human ready to venture across the world. Or perhaps its better to say, technology had co-evolve the perfect match to help it seed itself worldwide.
+Our adaptable hands, feet, cognition, and tools, allowed early modern humans to navigate most any environmental challenge on the African game board. So, after so many millions of years, nature finally created a human ready to venture across the world. Or perhaps its better to say, technology had evolved the perfect match to help it seed itself worldwide.
 
 There were waves of Out of Africa homo sapien migrations. We got to Eurasia 125,000-100,000 years ago, Australia around 65,000 years ago, the Americas about 15,000 years ago, and remote islands such as Hawaii, Easter Island, Madagascar, and New Zealand in the years 300 to 1280. At each place, homo sapiens gradually replaced or interbreed with local populations.
 
 The timing is still debated among scientists. Unfortunately there was no written history back then, so piecing together events will always be difficult. But the Great Leap Forward and Out of Africa migrations were probably mutually reinforcing processes. Better cognition enabled migration, which created new selective pressures and opportunities that further refined human culture and tools. Rather than one causing the other, they likely fed into each other—a positive feedback loop where cognitive advances enabled exploration, and exploration drove further innovations.
 
-We will likely never know how it exactly happened, but by about 12,000 years ago, archaic humans were effectively gone. But for trace amounts of old DNA (about 1-5%), all humans were now purely homo sapiens. While our biology was destined to stay relatively unchanged, we kept adapting our cultures, and co-evolving tools to nearly every game board on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sand clock and keep scoring points of procreation around the world.
+However it happened, by about 12,000 years ago, archaic humans were effectively gone. But for trace amounts of old DNA (about 1-5%), all humans were now purely homo sapiens. While our biology was destined to stay relatively unchanged, we kept adapting our cultures, and co-evolving tools to nearly every game board on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sand clock and keep scoring points of procreation around the world.
 
-Here is the historical point in which the natural player of the game was relatively biologically set.
+Here is the historical point in which the natural player of the game was biologically set, but about to selected for playing on a new game board.
 
 Because here was the invention of agriculture and the dawn of civilization. What is called the Neolithic Revolution. It occurred independently at different times. First taking root in Southwest Asia's Fertile Crescent 11,000 BC, China 9,000 BC, Mesoamerica 5,000 BC and others regions afterward. As Jared Diamond notes in his landmark _Guns, Germs, and Steel_ each civilization was heavily influenced by the local wildlife and resources, however most locations started some mixture of permanent human settlements, the domestication of animals, clay pottery, and metal making.
 
-In every instance civilization drastically increased the productivity of land. Now humans for the first time had a relatively stable food supply throughout the year. And there was born new selection methods and criteria.
+In every instance civilization drastically increased the productivity of land. For the first time ever, humans had a relatively stable food supply throughout the year. To keep it running and expanding there was born new selection methods and criteria.
 
-Freed from the daily hunting and gathering treks, humans had more time on our hands, and crucially more jobs to do. We strayed more from the natural realm and built new things, divided the labour to do it, and created political regimes to keep everyone working. Within a few thousand years the Stone Age turned into the Bronze, Copper, then Iron Age, each stage remade civilization based on a new material to build the latest tools.
+Freed from the daily hunting and gathering treks, humans had more time on our hands and crucially more jobs to do. We strayed more from the wilderness realm and built new things, divided the labour to do it, and created political regimes to keep everyone working. Within a few thousand years the Stone Age turned into the Bronze, Copper, then Iron Age, each stage remade civilization based on a amazing new material to build the latest tools.
 
-As civilization progressed with each passing year, our nature was increasingly technological. Not necessarily because that's what human nature wanted, or because that's what made us happier, but for the same reason all species such as polar bears and Darwin's finches are created. Because the coach selects the ones harvesting more resources on game board and sand clock success. With each new technological selection, the coach was creating a new type of player.
+As civilization progressed with each passing year, our nature was increasingly technological. Not necessarily because that's what human nature wanted, or because that's what made us happier, but for the same reason all species such as polar bears and Darwin's finches are created. Because the coach selects the ones harvesting more resources on the game board which outrun the sand clock.
 
-Technology created the soil in which it grows. It turned us into its users.
+With each new technological selection, the coach was creating a new type of player. 
 
-We increasingly connected the biological realm with the technological.  All humans can breed or live anywhere. Anyone can use any tool. That is why our true nature is so important. Our real-life pains are the thing technology will never feel, yet it is what technology was designed to solve in a classic case of co-evolution. Human nature is to guide technology where to evolve next. 
+Think how weird and wonderful it is that all humans can breed with each other. We can live anywhere. Most amazing, anyone can use any tool. There's this awesome story of a Amazonian kid being handed a iPad and knowing how to use it. That is why our true nature is so important. Our real-life pains are the thing technology will never feel, yet it is what technology was designed to solve in a classic case of co-evolution.
+
+Technology created the soil in which it grows, turning us into its users.Human nature is to guide technology where to evolve next.
 
 Co-evolving with technology had a profound affect on our phenotypes. It's why we, unlike most animals, are so individually different, even within families and tribes. Civilization changed on the more human variations than atoms in the universe, by liberating it from constraints of the East African plain environment. Humanity was free and required to evolve to inhabit and harvest from a different ecosystem.
 
 Physically, we have very different body types: ectomorph (slender and lean), mesomorph (muscular and athletic), and endomorph (rounder and softer). Each type has a distinct characteristics related to muscle mass and fat distribution, meaning whether running long distances, making a shelter, or hammering steel, we have body types to meet the challenge.
 
-Our intelligence differs too. Levels of abstract thought, practical proficiency, patience to defer gratification, musical abilities. Some people can recite long histories from their minds, while others can calculate mathematics with ease. Like with our bodies, our mental faculties, interests, hobbies, and passions are very broad and often unique.
+Socially we are quite different. Most any group of people will have a variance of extroverts and introverts, people's whose neurobiology makes social interaction rewarding or draining. Shyness, sociability, assertiveness, and comfort with novelty are similarly different ways a person interpret and interact with the world.
+
+Our intelligence differs too. Levels of abstract thought, practical proficiency, patience to defer gratification, musical abilities are among the many different ways our intelligence can differ. Some people can recite long histories from their minds, while others can calculate mathematics with ease. Like with our bodies, our mental faculties, interests, hobbies, and passions are very broad and often unique.
 
 Our personalities are different too. We already mentioned the Milgram which shows how varied each human is to obeying authority figures. There's also Stanford Experiment, which made some students prisoners and others guards. Some prisoners obeyed, some rebelled, some cops were responsible authority figures, others were nearly sadistic. Another famous personality test is the Marshmellow Test, which is an experiment where kids are shown a treat and told if they don't eat it, they will get two treats. Scientists proved the longer kids delay gratification, the better their future will be, as most things, from jobs to relationships, reward patience. There are many other such tests that display the varied nature of humans.
 
-More of the differences in our 3.2 billion base pairs where coming out via epigenetics, phenotype development, genetic drift, and other forms of selection, that would be trimmed away in the biological world, were finding niches in a home in civilization and therefore the Game of Technological Life
+As civilization advanced, more of the options in our 3.2 billion base pairs where coming out via epigenetics, phenotype development, genetic drift, and other forms of selection, that might have be trimmed away in the biological world, but were finding niches in a home in civilization and therefore the Game of Technological Life.
 
-Because genotype and phenotype diversity is ecosystem security Like biology grew to have countless species of trees, insects, birds, mammals, predators and so on . Thus modern human genotype and phenotype diversified because of our co-evolution with tools. 
+I often wonder how my speech impediment would have changed in earlier times. At least in nomadic times, I think it might have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. But as society grew, I likely would have missed out at best, tossed aside as worst, explained within the stories of the time as "cursed" or a simpleton of some kind.
 
-And that's the lesson of nature we need to embrace. While we have a genetic history forever in our DNA, we also evolved along cultural and technological change. Meaning the technological evolution this books is advocating we embrace, has been driving human evolution for generations. Because the Game of Life needs ecosystems of producers, grazers, predators, decomposer, and testers, the coach picked human communities who had the varied human genetics and phenotypes needed to be able to staff every job in a growing technological ecosystem.
+Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans, has genetic roots in people sitting by a fire thousands of years ago, and we carry all these with us today. Yet, these quirks find a home in civilization. For myself, not being able to talk too much, undoubtably changes personal development, for me it increased empathy....
 
-I often wonder how my speech impediment would have changed in earlier times. At least in nomadic times, I think it might have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. But as society grew, I likely would have missed out  and explained within the stories of the time as "cursed" or a simpleton of some kind.
+Many notable persons have had unique personalities. Edward Gibbon had a severe medical problem, forcing him to sit for years of his life. In the wild he'd be disadvantaged if not left for dead, in civilization he wrote likely the best history book of all time, _The Decline and Fall of the Roman Empire_. Issac Newton was a notorious loner , Galileo couldn't follow social rules, Steve Jobs washed his feet in toilets, Joan of Arc say visions, one must wonder the mental health of political dissidents. The list of unique individuals, whose chances in the wild are at least suspect, making huge contributions to civilization and technological evolution is endless.
 
-Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans, has genetic roots in people sitting by a fire thousands of years ago, and we carry all these with us today. Yet, these quirks find a home in civilization. Not being able to talk too much, undoubtably changes personal development, for me it increased empathy for others, and drove me to insurance claims.
+The reason is the same as the original version of the game. Because diversity is ecosystem security. Thus, it was for genotype and phenotype, and so it is for extended phenotype as well. Like biology grew to have countless species of trees, insects, birds, mammals, predators and so on. Thus modern human genotype and phenotype diversified because of our co-evolution with tools. 
 
-The job of the human genotype and phenotype is to staff the technological ecosystems producers (farms, power plants), grazers (tool users), predators (innovators), testers (crooks). Like any biological ecosystem, these segments work together to better play the game. Producers grow the food or generate the electricity that will power technology. Common people use tools to stay warm or cool, gather resources, raise their young. Predators assess grazer's tool and attack slow ones with a new solution which, if successful, removes the old tool from the ecosystem. All the while nefarious actors randomly test all members for their fitness. Slow processes, companies, paperwork, never mind the thefts, scams, and assaults are exactly what I dealt with everyday adjusting insurance claims and which very much informed much of this book and philosophy.
+And that's the lesson of nature we need to embrace.
+
+While we have a genetic history forever in our DNA, our genes, personalities, and culture evolved along with technological change.
+
+Meaning the technological evolution this books is advocating we embrace, has been driving human evolution for generations. Because the every Game of Life needs ecosystems of producers, grazers, predators, decomposer, and testers, the coach picked human communities who had the varied human genetics and phenotypes needed to be able to staff every job in a growing technological ecosystem.
+
+The job of the human genotype and phenotype is to staff the technological ecosystems producers (farms, power plants), grazers (tool users), predators (innovators), testers (tinkerers, hackers, and crooks). Like any biological ecosystem, these segments work together to better play the game. Producers grow the food or generate the electricity that will power technology. Common people use tools to stay warm or cool, gather resources, raise their young. Predators assess grazer's tool and attack slow ones with a new solution which, if successful, removes the old tool from the ecosystem. All the while tinkerers and nefarious actors randomly test all members for their fitness; the latter of which I dealt with everyday adjusting insurance claims.
 
 The need to invent, power, and manually operate most every tool changed how humans were selected. Even though we were leaving the natural world behind, we were only building another—technological—ecosystem to inhabit.
 
@@ -1248,31 +1258,37 @@ Some might consider these changes artificial. After all, stone walls, bronze swo
 
 But that would be wrong. After all, all life is found nowhere else but Earth (as far as we know). Why is a copper water pipe or medical textbook artificial if the copper in insects or the wood in trees are natural? The Game of Life is a battle to grow things that can self-replicate in their environment and fight off entropy. As physicist Richard Mueller notes in his book "Now: The Physics of Time", technology does that every bit as much as biology does.
 
-What became artificial about civilization is the method used to select tools of the ecosystems. And this is because our big brains self-awareness and information processed mixed without biological self-interest to unnatural results. The diversity of humanity, selected by the coach, became the means to see tribes living in the wilderness, where there was in fact humans staffing growing ecosystems.
+What became artificial about civilization is the method used to select tools of the ecosystems. And this is because our big brains self-awareness and information processed mixed without biological self-interest to unnatural results.
 
-This fact explains why people can seek the self-interest but be surprised when others do the same. We see others not as technological operators in the ecosystem that sustains us, but biological tribe members or outsiders, based on a ever changing identity such as gender, race, etc.
+The diversity of humanity, selected by the coach, became the means to see tribes living in the wilderness, where there was in fact humans staffing growing ecosystems.
 
-This worked okay when technology was so primitive humanity still spent much of their time traveling, harvesting, and depending on the biological ecosystems. With technomass no exceeding biomass, we can't go on pretending our primary identity is rooted in genetics of ancient humans.
+This fact explains why people can seek the self-interest but be surprised when others do the same. We see others not as technological operators in the ecosystem that sustains us, but biological tribe members or outsiders, based on a ever changing identity such as gender, race, ethnicity, nations etc.
+
+This worked okay when technology was so primitive humanity still spent much of their time traveling, harvesting, and depending on the biological ecosystems. With technomass now exceeding biomass, we can't go on pretending our primary identity is rooted in genetics of ancient humans.
+
+Because that is not how the coach sees us, and is not how we are selected. We may artificially prescribe identities to justify our attacks on others. Using communism again, its system selected persons because their families were royalty, engineers, graphic designers, anything they felt abused their economic power over the working class. While fascism has "drop rules" of racial blood, with so many grandparents needed to be verified to classify as an insider, while doing things like testing head configurations for ethnic authenticity.
+
+Both tried to used evolutionary thinking, but to extreme genotype or phenotype beliefs used to explain and limit the access to the extended phenotype's creation, usage, and power.
+
+Neither system applied evolutionary thinking to tools themselves. Tool ecosystems, like biological ones, grow, speciate, drift, and follow the other tenants of Darwin's evolution. The difference is there is endless artificial selection, human storytelling, beliefs, and ideologies, that misinterpret and interfere with techvolution.
 
 So many generations into technological ecosystem, we need to make modern life more natural by replacing artificial with natural selection. The first step is realizing we are genetic creatures using tools to play a modified version of the Game of Life.
 
-I often wonder how my speech impediment would have changed in earlier times. At least in nomadic times, I think it might have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. But as society grew, I likely would have missed out and been explained within the stories of the time as simpleton of some kind.
-
-Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans, has genetic roots in people sitting by a fire thousands of years ago, and we carry all these with us today for no other reason that we can't get rid of these ghosts from our past.
-
-Yet, we still must find a way to fit our genetics into the requirements of technological evolution.
-
-The "artificial selection" of our stories allowed us to create a new selection is thus often a matter of these ghosts. This genetic legacy is the source of my artificial selection content, that we find reasons to care about but evolution can't get rid of because its in our genes.
-
 So it's up to us. We can't shake our heritage, but we can improve it with a new identity to remove artificial selection as much as possible and letting nature selection take over. Let's get started.
+
+Evolution needs diversity of amazing variety with ecosystems strict definition of members. Each validate the other by forcing reciprocation as the test. If outsiders want in, they must find untapped resources on the game board, outrun the sand clock, and score points on the score board, to help the ecosystem organized more matter and defeat entropy, the ultimate goal in the game of life.
+
+So, this means individuality with qualifications. A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers.
+
+How the coach tells the difference is how the team is also chosen.
+
+As noted biologist Ernst Meyr says "individual lifeforms are the unit of selection." Meaning polar bear, is the unit of selection. and every polar bear depends on the ecosystem it which its member. it must find a way to do its job, and reciprocate, to earn the resources it needs to stay in the game. any other identity is unnatural.
+
+The natural human player of the game is rooted in shared biological instincts and requirements. People need to eat, love, have shelter, hope, and many other things. Among our limitations is that we will never accept servitude or blind loyalty. Despite numerous belief systems, these are pretty universal features of mankind across time and geography because individuals are the unit of selection.
 
 How did we spread around the world, and how did we develop tools? We plated and spread tool-species inside ecosystems of course. And that required, and still requires, three modes of understanding; nature, mythologies, stories, and science.
 
-- this rationale, of individual defn, is like saying tigers are orange because they want to be, or that leopards have spots because it's in fashion. sexual selection can made birds colorful, but natural selection still approves it in the end....
 
-- we connect the biological realm with the technological. that is why our true nature is so important, we guide technology where to evolve next. our real-life pains are the thing technology will never feel....
-
-- ! every individual polar bear, is the unit of selection. and every polar bear depends on the ecosystem it which its member. it must find a way to do its job, and reciprocate, to earn the resources it needs to stay in the game. any other identity is unnatural.
 
 
 
