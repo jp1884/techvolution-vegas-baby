@@ -2599,3 +2599,18 @@ A self-aware player would accept genes have their characistics, have gotten a ba
 
 ===
 
+We may artificially prescribe identities to justify our attacks on others. Using communism again, its system selected persons because their families were royalty, engineers, graphic designers, anything they felt abused their economic power over the working class. While fascism has "drop rules" of racial blood, with so many grandparents needed to be verified to classify as an insider, while doing things like testing head configurations for ethnic authenticity.
+
+Both tried to used evolutionary thinking, but to extreme genotype or phenotype beliefs used to explain and limit the access to the extended phenotype's creation, usage, and power.
+
+===
+
+So many generations into technological ecosystem, we need to make modern life more natural by replacing artificial with natural selection. 
+
+Evolution needs diversity of amazing variety with ecosystems strict definition of members. Each validate the other by forcing reciprocation as the test. If outsiders want in, they must find untapped resources on the game board, outrun the sand clock, and score points on the score board, to help the ecosystem organized more matter and defeat entropy, the ultimate goal in the game of life.
+
+So, this means individuality with qualifications. A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers.
+
+How the coach tells the difference is how the team is also chosen.
+
+===
