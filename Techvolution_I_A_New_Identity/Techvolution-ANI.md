@@ -1252,7 +1252,7 @@ Of course I don't know this, but I only mean to illustrate a point that the many
 
 The point is, the technological ecosystem needed people, and often those with unique personalities fit the bill.
 
-Edward Gibbon had a severe medical problem, forcing him to sit for years of his life. In the wild he'd be disadvantaged if not left for dead, in civilization he wrote likely the best history book of all time, _The Decline and Fall of the Roman Empire_. Issac Newton was a notorious loner who likely never had sex. Galileo couldn't follow social rules. Steve Jobs washed his feet in toilets, Joan of Arc saw visions, one must wonder the mental health of political dissidents. The list of unique individuals, whose chances in the wild are at least suspect, making huge contributions to civilization and technological evolution is endless.
+Edward Gibbon had a severe medical problem, forcing him to sit for years of his life. In the wild he'd be disadvantaged if not left for dead, in civilization he wrote likely the best history book of all time, _The Decline and Fall of the Roman Empire_. Issac Newton was a notorious loner who likely never had sex. Galileo couldn't follow social rules. Steve Jobs washed his feet in toilets, one must wonder the mental health of political dissidents. The list of unique individuals, whose chances in the wild are at least suspect, making huge contributions to civilization and technological evolution is endless.
 
 The reason is the same as the original version of the game. Because diversity is ecosystem security. Thus, it was for genotype and phenotype, and so it is for extended phenotype born from the mixture of human genes and upbringing. Like biology grew to have countless species of trees, insects, birds, mammals, predators and so on. Thus evermore diverse human genotype and phenotype got a shot to play the game because of our co-evolution with tools. 
 
@@ -1321,16 +1321,11 @@ How did we spread around the world, and how did we develop tools? We planted and
 Let's look at these stories so we can realize why techvolution is the scientific understanding of the human condition.
 
 
+## Stories...
 
+A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers. Meaning orange is a job, that is the tiger identity....
 
-
-
-
-
-
-
-
-
+we will discuss what politics (mixed...) and economics (bumblebee...), but we just need you to see others, and admit for yourseld, that we are technology....
 
 
 
@@ -2507,156 +2502,76 @@ Welcome to the next chapter of human potential.
 
 ### AI Mirror—
 
-## Techvolution—Objections 
 
-### Chapter Introduction
+## Short Stories
 
-Every new idea faces resistance. When Copernicus suggested Earth wasn't the center of the universe, when Darwin proposed humans evolved from earlier species, their ideas met fierce opposition. Not just from authorities, but from people's natural reluctance to see themselves in a new light.
+### Story 1 - Handset
 
-Techvolution faces similar resistance. Suggesting that our technological identity is more crucial to our future than our cultural, national, or political identities challenges deeply held beliefs about who we are. These objections deserve careful consideration.
+When my buddy picked me up from work one day, he looked around and said, "What a dump." Coming from someone who visits offices, warehouses, and factories across the city, that review stung. But he was right—and not just about the 30-year-old carpet. This was the same place where my boss told me I couldn't speak to clients because my stuttering was an embarrassment, then lied to my face for years.
 
-In these special chapters, we directly address the most common concerns readers raise when encountering Techvolution's ideas for the first time. Whether it's worry about losing cultural identity, fear of technological determinism, or concern about human values being diminished, these are natural and important reactions.
+The thing is, the jackass boss wasn't entirely wrong. In casual conversation, I was fine. But in professional settings, I struggled. The difference was honesty.
 
-By examining these objections openly, we can better understand both the power and the limitations of seeing ourselves as a technological species. We must learn to see our place in the technological ecosystem we have created. Only then can we consciously guide our evolution rather than merely react to it.
+When I said what I genuinely thought, the path from brain to mouth was direct. I knew what was coming, so I could foresee problem sounds and substitute words ahead of time:
 
-Let's begin by addressing perhaps the most fundamental objection: what about our other identities?
+Hi, I hope you're having a ~great~ nice day. I'm here to ~discuss~ talk about your...
 
-### Objection—What About the Other Identities
+But when I had to discuss something I was unsure about—or didn't believe—I had to think while speaking. My stuttering became a lie detector, exposing every moment of hesitation. I couldn't maneuver fast enough—I was like a ship sailing through unfamiliar waters, constantly hitting buoys, reefs, and sandbanks.
 
-Techvolution wants to make the technology you use to make a living your primary identity. Not your job title, ethnicity, nationality, or any other labels. A natural reaction is to feel diminished or even attacked. That is not the intent at all. Our technology already defines our future, we are just not wholly self-aware of it yet. 
+I couldn't prosper that way. Complete honesty is great in friendships but not so much at work or society at large.
 
-Here's an example of our missing the importance of technology using the recent pandemic.
+So I got a job at an insurance claim call center (I swear I thought it was a good idea).
 
-In the early days of the COVID-19 pandemic, we found ourselves quarantined in our homes, anxiously waiting for the storm to pass. Like a boat hit by a rogue wave, society was surprised and struggling to respond.
+During insurance adjuster training, I was pleasantly surprised how simple the insurance rules were. The policy is a standard contract written by the government; private insurance companies just underwrite and administer it. Car crash fault rules are also just government regulations. It took only a few days to learn them.
 
-On the bright side, we had Netflix.
+I was happy. I could learn and communicate this stuff with confidence.
 
-Thanks to streaming technology, our pandemic anxieties could be temporarily replaced with tales of passionate first loves, fantastic magic spells, and galaxies far far away. But these stories offer more than escape—they reveal something profound about how we understand power and change.
+My first full claim was a crash at a gas station. My customer—called an insured by adjusters—was hit while parked.
 
-We find these stories compelling because they're clear. Protagonists are good because they want to solve problems. Antagonists are bad because they prevent solutions. This moral clarity lets us commit our emotions fully. We cherish Romeo and Juliet's love while despising their families' rivalry. We support Luke Skywalker's rebellion while condemning Darth Vader's empire.
+But maybe he was moving, which would make the claim 50/50 at fault. After some back-and-forth with the other insurance company, I confirmed my insured was parked and the other guy was moving. 0/100 fault.
 
-But here's what's fascinating: in these stories, emotions and cultural identity—while meaningful—don't determine outcomes. Even in tales about love, magic, and heroism, victory comes through tools. Cinderella used a glass slipper to escape poverty. Harry Potter needed a wand to defeat Voldemort. Luke Skywalker required a small torpedo to destroy the Death Star. The heroes who change their worlds do so by mastering the tools available to them.
+"God bless you," my insured responded to that news.
 
-"But wait," you might say, "aren't you reducing human experience to just technology? What about our cultures, our spirituality, our emotions?" This is a fair concern. Techvolution is not about diminishing these aspects of human identity—it's about recognizing an additional crucial dimension we've overlooked. Just as understanding humans as mammals doesn't reduce us to mere biology, recognizing ourselves as a technological species doesn't diminish our humanity—it enhances our ability to express it.
+No lies, no uncertainty, no stuttering!
 
-Let's test this idea. Open up WhatsApp or FaceTime. Check your Instagram feed. Get Google Maps running.
+"Don't get used to hearing that," my trainer said with dead eyes.
 
-I'm serious—try these apps right now. I'll wait.
+"Why not?" I wondered. 
 
-Impressive, isn't it? Within seconds, you can chat with loved ones, share experiences, and navigate anywhere. Even during quarantine, these technological levers of power maintain our human connections. Try imagining life without them—writing directions on napkins, driving to Blockbuster twice for one movie night. That was just 2000, yet it feels ancient.
+### Story 2 - Abduction
 
-Now, let's try testing your technological powers outside of a few consumer apps and devices, like we needed when the pandemic fell down upon us like a Death Star.
+The confidence I gained during training didn't last long. Within weeks, I realized it was just ignorance.
 
-Could you access your medical records. Check your health metrics—fitness levels, antibodies, blood type. Calculate your COVID-19 risk factors by comparing your data with patterns from affected populations.
+Here's why. My old job, with the jackass boss and grimy carpets, was in business-to-business marketing. We built websites and tracking systems for companies that advertised in trade publications like Jane's Defense Weekly, World Oil, and similar industry journals.
 
-What is that? You could not?
+We used new technology—HTML, Javascript, tracking links, web servers—to monitor which companies visited our clients' websites. The information was digitized into dashboards that clients could check on their own time. I barely had to talk to anyone.
 
-Could you contact your doctor for specialized advice. Consult your pharmacist about potential drug shortages. Review your insurance coverage for worst-case scenarios.
+The insurance office definitely had much nicer carpets (the first thing I noticed, along with the big windows and natural sunlight). But all information came through phone calls and emails, with no control over when or what. Insurance adjusters sit there all day answering the most random calls imaginable.
 
-If you tried, the best case scenario would be waiting on hold.
+"Why am I at fault?"
+~Because you hit a freaking tree!~
+"Unfortunately, we cannot sue the person who planted the tree."
 
-This contrast reveals something crucial. It is not that we lack the technological capability—we've had electronic health records for decades. What we lack is the consciousness of ourselves as technological beings who need to evolve these systems proactively. We still act like unconscious animals whose unchangeable genetics determine their chances of survival of the fittest. Evolution through crises is how animals do it and we are not all that different.
+"I only drive Buick Enclaves."
+~That's... really specific.~
+"Okay, I'll track one down for you."
 
-We could be. Once we realize our test for survival and prosperity is the technological ability to keep away dangers and harvest resources more efficiently.
+"How much will my rates go up?"
+~People ask this constantly.~
+"I'm just an adjuster; I don't know that information."
 
-"But isn't this just technological determinism?" you might ask. "Aren't you saying tools control our destiny?" Actually, the opposite. The pandemic showed how lack of technological awareness limits human agency. We had the capability for remote work, telehealth, and digital education long before COVID-19. But because we didn't see ourselves as a technological species, we didn't evolve these systems to be ready when available.
+A few weeks in, a fellow newbie, Scarlett, took a call from the queue. An insurance broker said he was transferring a customer to report a new claim. Scarlett started talking to the caller—the insured's mother.
 
-Mother Nature would have selected these new adaptations in the wild as soon as they proved more efficient. Yet, we did not because we do not put technological evolution at the forefront of our consciousness.
+Following our training, Scarlett asked, "Can I please speak to Bob quickly so he can authorize you to file a claim on his policy?"
 
-Did COVID-19 infect people of different cultures differently? Did our songs, stories, or traditions affect infection rates as much as vaccines, masks, or medical data? The virus did not care about our cultural identities—it responded to our technological preparedness.
+The mother burst into tears. Scarlett looked around at us in shock.
 
-Responding to the pandemic should have been like handling a severe storm—a challenge, yes, but one with established protocols and tools. Instead, many of us found ourselves as helpless as our ancestors in 1918 during the Spanish Flu pandemic.
+Through sobs, the mother said, "He was abducted with his girlfriend, shoved into the trunk, and shot to death."
 
-This is not about replacing human values with impersonal technology. It is about recognizing that our tools—from language to smartphones—are how we express and protect those values. Like the heroes in our favorite stories, we must consciously grasp the tools available to us, all the time in order to make the world a better place. Understanding ourselves as a technological species does not diminish our humanity—it empowers us to better preserve and enhance it.
+The broker hadn't even given Scarlett a heads-up.
 
-The pandemic is only an example of the test of evolution we, and every life form, run every day. If we continue defining ourselves primarily through traditional identities we pass or fail that test of evolution almost by chance. If we can embrace our nature as a technological species and consciously shape the tools that increasingly determine our fate, we start the process of technological evolution self-awareness; what I call Techvolution.
+Now I understood what my trainer meant. "God bless you" wasn't the norm.
 
-The choice, like any hero's journey, is ours to make.
 
-### Objection—New Technology Nevers Makes Humans Obsolete
-
-<!-- needs a rewrite—but this is the basics...
-
-feedback:
-The first is that, while you have explained in great detail how our technological incompetence is preventing us from realising our full potential, you have not touched upon the increasing threat of obsolescence that mankind has been grappling with in the wake of technologies that are designed to supplant human labour entirely. This has been a huge concern among tech naysayers and conspiracy theorists. Even many eminent scholars have expressed cynicism about the kind of future that awaits mankind in the face of increasing automation. I think it would be a good idea for you to dispel some of these fears and assumptions along the way to really sell this idea that technological evolution, far from relegating humans to the fringes of the civilization, can take them to its pinnacle. 
-
--->
-
-A common fear about becoming a technological species is that technology itself will make us obsolete. After all, if robots can build cars and AI can write poetry, what role remains for humans? This anxiety isn't new—from the Luddites smashing looms to modern fears about artificial intelligence, each technological advance brings fresh waves of existential dread.
-
-But this fear fundamentally misunderstands both evolution and our role as a technological species. Consider our earlier example of dogs. Did domestication make wolves obsolete? No—it created a new evolutionary branch where dogs and humans could thrive together. Similarly, technology doesn't replace humans; it creates new opportunities for human-technology collaboration.
-
-Let's return to the insurance industry example. When software automated vehicle valuations, it didn't eliminate the need for adjusters. Instead, it freed us to focus on more complex tasks—helping people understand their coverage, navigating complicated claims, and finding solutions to unique problems. The software became a tool that enhanced human capability rather than replacing it.
-
-This pattern repeats across industries. Yes, ATMs reduced the need for bank tellers, but they also made banking more efficient, allowing banks to open more branches and create new roles for human workers. Yes, accounting software automated basic bookkeeping, but it also enabled accountants to provide more sophisticated financial advice and planning services.
-
-The fear of technological obsolescence often stems from seeing ourselves as separate from our technology—as if we're in competition with our tools. But this is like a bird fearing its wings will make its legs obsolete. We are not in competition with technology; we are evolving with it. Our technological adaptations are as much a part of us as our biological ones.
-
-Consider how you're reading these words right now. Whether on paper or screen, you're using technology that could theoretically "replace" human communication. Yet these tools haven't made human interaction obsolete—they've enhanced our ability to share ideas and connect with each other.
-
-The key to avoiding obsolescence isn't to fear or resist technology, but to become more consciously aware of our technological nature. When we understand ourselves as a technological species, we stop seeing technology as an external threat and start seeing it as an integral part of our evolution. This awareness helps us guide technological development in ways that enhance rather than diminish human capability.
-
-This is why Techvolution emphasizes the importance of technological consciousness. By understanding ourselves as technological beings, we can better direct our evolution, ensuring that new technologies serve human flourishing rather than human replacement. The future belongs not to technology alone, but to humans who understand their technological nature and actively participate in their own evolution.
-
-The real threat isn't technology making us obsolete—it's our failure to recognize our technological identity and consciously guide our evolution. Like a dog unaware of its domestic nature trying to survive as a wolf, humans who reject their technological nature risk genuine obsolescence. But those who embrace and understand their technological identity can help shape a future where humans and technology evolve together, each enhancing the other's capabilities.
-
-After all, evolution isn't about replacement—it's about adaptation. And we are uniquely positioned to consciously adapt through our technological capabilities. That's not a threat; it's our greatest opportunity.
-
-## Work in Progress Notes
-
-- Modern thinking, ex from antropologists, is that culture/language made homo sapiens different from other hominids. This is said while noting the physiological differences (feet, hands, etc.) that were selected for each successive species, that succeeded in finding resources away from the trees. Tool are scene as a choice. Tools are just another adaptation, the same as any biological one. Evolution selects adaptations, and therefore tools, and not culture or langauge which are only means to use adaptations to harvest resources. To correct this misconception, this article has to explain how humans connect with their tools via politics. In order to do this, I must clarify what politics is by explaining how technological evolution has always been the driving force of civilization. Human created ideologies are just the means by which we understood our place in society and the universe. But as human storytelling fell as scientific tools let humans truly understand the physics, chemistry of the universe, so too will human storytelling of political ideologies fall.
-
----
-
-The key points build upon each other in a coherent manner:
-1. Humans have evolved beyond our biological origins, with technology becoming the primary means by which we interact with and shape the world around us.
-2. The mythological narratives and belief systems developed by early human societies to explain the natural world have become increasingly inadequate as our scientific understanding has expanded.
-3. We have become trapped within the ideological frameworks of our own creation, leading to constant upheaval and societal failures.
-4. To truly harness technological progress, we need to ground our political, economic, and social structures in the fundamental principles of evolution itself, rather than outdated human-centric ideologies.
-
----
-
-For centuries, we've defined our ascent as a species through the lens of culture, language, and ideology. But what if these human-centric narratives have obscured the true engine of our progress? In Techvolution, we're about to uncover a radical new truth—that it is not our biological adaptations, but rather our technological evolution, that has elevated us beyond the constraints of our evolutionary origins.
-
-Get ready to reimagine the very foundations of politics, economics, and society. Because once you grasp the power of aligning our frameworks with the pillars of technological change, the path to a more sustainable, equitable future will reveal itself. The old orders will crumble—and a bold new world will rise in their place.
-
----
-
-I wonder if this is turning into a kind of Programming tutorial. from markup languages, to scripting, intepreted, to machine code, to binary. and then into the base metal itself.
-
----
-
-Interesting to note, almost all life form can only survive off of other forms of life. Meaning life survives best when its forms play together.
-
----
-
-the march of adapative reason. 
-
-what does that make comedy? the reward for knowing the failure life/we must encounter as it ventures into the unknown.
-
----
-
-our perception of time and/or distance is what slanted our mythologies to be so wrong and hard to dislodge. no stellar paralax proved geocentrism. our limited recorded history proved creationism. for us, ignorance of the future does the same. unlike all life forms, our memories let us live in yesterday because we don't (yet) see the eons of technological evolution a head of us.
-
---
-
-how many people could learn your job/lifestyle. no other animals can pick up a new adaption whenever they want...
-
---
-
-Our sentience is a only a requirement for technological evolution, why else would we need it?
-
---
-
-Learning who your teacher is. Not knowing Techvolution is like not knowing how your teacher is marking you...
-
---
-
-- explore historical examples of technological identity shifts. One day Tsar is and then he's not.
-
---
-
-Maybe comparing the amount of offspring/products a creature requires to sustain itself, is a preliminary way to create a taxonomy of technological creatures?
 
 --
 
@@ -2734,42 +2649,4 @@ Scholes, Justin, and Jon Ostenson. "Understanding the Appeal of Dystopian Young 
 
 <!-- Milgram experiment -->
 The Open University. "Psychological Research, Obedience and Ethics." Accessed March 2025. https://www.open.edu/openlearn/society-politics-law/sociology/psychological-research-obedience-and-ethics/content-section-1.
-
-### Chapter 1—Earth Is Chessboard: Here Are the Rules of the Game
-
-
-
-### Chapter 2—What Life Is: The Creator of Players
-
-
-
-### Chapter 3—What Evolution Is: The Editor of Players
-
-
-
-### Chapter 4—The History of Life's Evolution
-
-
-
-### Chapter 5—Our History from Trees to Fire
-
-
-
-### Chapter 6—The History of Civilization
-
-
-
-### Chapter 7—The Ancients: Socrates Starts Self-Reflection
-
-
-
-### Chapter 8—The Moderns: Self-Reflection Turns Scientific
-
-
-
-### Chapter 9—Techvolution: Earn Perpetual Prosperity by Removing Technological "Camels" from the Amazon
-
-
-
-### Epilogue—The Next Books: Starting Starfleet
 
