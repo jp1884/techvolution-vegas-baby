@@ -2503,11 +2503,13 @@ Welcome to the next chapter of human potential.
 ### AI Mirror—
 
 
-## Short Stories
+## Interludes
 
-### Story 1 - Handset
+Practical stories to interperse between chapters in Techvolution: A New Identity.
 
-When my buddy picked me up from work one day, he looked around and said, "What a dump." Coming from someone who visits offices, warehouses, and factories across the city, that review stung. But he was right—and not just about the 30-year-old carpet. This was the same place where my boss told me I couldn't speak to clients because my stuttering was an embarrassment, then lied to my face for years.
+## Story 1 - Handset
+
+When my buddy picked me up from work one day, he looked around and said, "What a dump." Coming from someone who visits offices, warehouses, and factories across the city, that review held weight. He was right—and not just about the 30-year-old carpet. This was the same place where my boss told everyone (but me) I couldn't speak to clients because my stuttering was an embarrassment, then lied to my face for years that it wasn't true.
 
 The thing is, the jackass boss wasn't entirely wrong. In casual conversation, I was fine. But in professional settings, I struggled. The difference was honesty.
 
@@ -2515,17 +2517,17 @@ When I said what I genuinely thought, the path from brain to mouth was direct. I
 
 Hi, I hope you're having a ~great~ nice day. I'm here to ~discuss~ talk about your...
 
-But when I had to discuss something I was unsure about—or didn't believe—I had to think while speaking. My stuttering became a lie detector, exposing every moment of hesitation. I couldn't maneuver fast enough—I was like a ship sailing through unfamiliar waters, constantly hitting buoys, reefs, and sandbanks.
+But when I had to discuss something I was unsure about—or didn't believe—I had to think while speaking. My stuttering became a lie detector, exposing every moment of hesitation.
 
-I couldn't prosper that way. Complete honesty is great in friendships but not so much at work or society at large.
+Complete honesty is great in friendships but not so much at work or society at large.
 
 So I got a job at an insurance claim call center (I swear I thought it was a good idea).
 
-During insurance adjuster training, I was pleasantly surprised how simple the insurance rules were. The policy is a standard contract written by the government; private insurance companies just underwrite and administer it. Car crash fault rules are also just government regulations. It took only a few days to learn them.
+During insurance adjuster training, I was pleasantly surprised how simple the insurance rules were. The policy is a standard contract written by the government; private insurance companies just underwrite and administer it. Car crash fault rules are also just government regulations. It took only a few days to learn all this.
 
 I was happy. I could learn and communicate this stuff with confidence.
 
-My first full claim was a crash at a gas station. My customer—called an insured by adjusters—was hit while parked.
+My first full claim was a crash at a gas station. My customer—called an insured—was hit while parked.
 
 But maybe he was moving, which would make the claim 50/50 at fault. After some back-and-forth with the other insurance company, I confirmed my insured was parked and the other guy was moving. 0/100 fault.
 
@@ -2533,19 +2535,47 @@ But maybe he was moving, which would make the claim 50/50 at fault. After some b
 
 No lies, no uncertainty, no stuttering!
 
-"Don't get used to hearing that," my trainer said with dead eyes.
+"Don't get used to hearing that," my trainer replied to my good news with these sullen words.
 
-"Why not?" I wondered. 
+"Why not?" I wondered.
 
-### Story 2 - Abduction
+## Story 2 - Orders
 
 The confidence I gained during training didn't last long. Within weeks, I realized it was just ignorance.
 
-Here's why. My old job, with the jackass boss and grimy carpets, was in business-to-business marketing. We built websites and tracking systems for companies that advertised in trade publications like Jane's Defense Weekly, World Oil, and similar industry journals.
+Here's why. My old job, with the jackass boss and grimy carpets, was in business-to-business marketing. We built websites and tracking systems for trade publications like Jane's Defense Weekly, World Oil, and similar industry journals.
 
-We used new technology—HTML, Javascript, tracking links, web servers—to monitor which companies visited our clients' websites. The information was digitized into dashboards that clients could check on their own time. I barely had to talk to anyone.
+We used new technology—HTML, Javascript, tracking links, web servers—to monitor which companies advertise on which websites and magazines. The information was digitized into dashboards that clients could check on their own time. I barely had to talk to anyone.
 
-The insurance office definitely had much nicer carpets (the first thing I noticed, along with the big windows and natural sunlight). But all information came through phone calls and emails, with no control over when or what. Insurance adjusters sit there all day answering the most random calls imaginable.
+The insurance office definitely had much nicer carpets (the first thing I noticed, along with the big windows and natural sunlight). But clean carpets, I'd learn, don't mean clean systems. We had little control over when we got the information. Insurance adjusters sit there all day dealing with unimaginably different situations and people.
+
+A few weeks in, I got such a call.
+
+The first question on the system we used was "vehicle color." So I asked this caller, "What's the color of the car?"
+
+"You're asking me about the color! My daughter and wife were taken to the hospital—who cares about color!"
+
+Injuries were further down the list of questions. But I learned my lesson there. Since the calls are so random, assume the worst every time and ask about the worst-case scenario first. If you remember that, it saves you from insulting people and grounds other callers' attitudes too.
+
+It also makes for a dreary mindset. Now I understood what my trainer meant. "God bless you" definitely wasn't the norm.
+
+## Story 3 - The Job
+
+I thought learning the rules would be enough. I was wrong.
+
+An insurance adjuster must do three things on every claim:
+
+1. Find out what happened and who was involved.
+2. Determine if it's covered by the policy.
+3. Calculate the cost to fix it.
+
+Simple, right?
+
+Except we're authorizing thousands—sometimes hundreds of thousands—of dollars per day. And no one knows what to do after a crash. You don't—I bet. So, getting the information we need for three seemingly easy questions was mayhem.
+
+There was no rationalization. No production line. This information arrived in a constant, random stream: calls, emails, voicemails. We had no control over the flow.
+
+Sometimes people call from the crash scene. Sometimes disappear for weeks. Sometimes they call back 10 times a day for an update. Oh, and people lie constantly.
 
 "Why am I at fault?"
 ~Because you hit a freaking tree!~
@@ -2557,23 +2587,382 @@ The insurance office definitely had much nicer carpets (the first thing I notice
 
 "How much will my rates go up?"
 ~People ask this constantly.~
-"I'm just an adjuster; I don't know that information."
+"I'm only an adjuster; I'm not trained for that information."
 
-A few weeks in, a fellow newbie, Scarlett, took a call from the queue. An insurance broker said he was transferring a customer to report a new claim. Scarlett started talking to the caller—the insured's mother.
+A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the queue. All eight went to payment—fully processed, start to finish. I was so proud of myself. _I'm getting this. I got this. Let's go!_
 
-Following our training, Scarlett asked, "Can I please speak to Bob quickly so he can authorize you to file a claim on his policy?"
+Then I got an email from a manager:
 
-The mother burst into tears. Scarlett looked around at us in shock.
+*"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
 
-Through sobs, the mother said, "He was abducted with his girlfriend, shoved into the trunk, and shot to death."
+I was yet to learn the difference between working well and meeting targets. The mayhem was yet to really set in.
 
-The broker hadn't even given Scarlett a heads-up.
+## Story 4 - The Bell
 
-Now I understood what my trainer meant. "God bless you" wasn't the norm.
+Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, short-change, screw people over—that's what the public thinks.
 
+In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
 
+Here's why: we were only minorly measured on accuracy or customer satisfaction. But we were exactly measured on hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served and not take up their time about our bad service. And, brokers could send customers to other companies. 
+
+So the hold metric became everything.
+
+To enforce it, they played a bell in our headsets. When someone was on hold, it rang: DING, DING, DING. A monotone alarm that never stopped until you picked up. A sound fit for a torture test.
+
+If the bell wasn't enough motivation, a manager would message: "ANSWER THE QUEUE." If that didn't work, they'd force calls through without warning—sometimes hanging up on whoever you were already helping.
+
+We had other work: emails from waiting customers, investigations, outbound calls. But none of that was tracked nearly as much. Just the bell.
+
+So we adapted. "Just pay it," managers would say. Some adjusters falsely marked claims "not at fault" to avoid the lengthy verification with the other insurance company. They'd take the customer's word and move on.
+
+Anything to stop the bell.
+
+Adjusters changed. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through rushed conversations.
+
+We were often more stressed than the people who'd just been in crashes.
+
+All because someone in head office—who'd never done our job—made a promise about hold times and never looked further than that one metric.
+
+The company got what they measured: fast answer rates.
+
+They also got inflated claims, burned-out adjusters, higher insurance rates, and a system that rewarded speed over truth.
+
+One more claim down. One less call to make that freaking bell ring.
+
+## Story 5 - I Don't Care
+
+Even as I got better at adjusting and taking calls, I couldn't do the fast, often confrontational, phone call thing. I needed to have a full conversation with each caller, which sometimes helped but took up a lot of time.
+
+Others could be direct.
+
+One veteran who showed me the ropes, Georgia, was excellent. No nonsense. She answered 40 calls a day with ease. I maybe managed 20.
+
+"People just need to listen," she'd say.
+
+As you'd hear adjusters yelling defensively: "I'm not a bad person! I'm not!" around the office, Georgia would declare: "You're 100% at fault." She'd listen to their objections, then: "Sir, this is what it is. Anything else I can help with?"
+
+Bam. Done. Next.
+
+One day Georgia called her phone company's customer service line. I had friends who worked those lines—I knew the job was basically ours. Within minutes, she was berating the representative. I don't remember what it was about—a data plan dispute, I think.
+
+Her call lasted 10 minutes.
+
+I asked her why she'd been so harsh. "They do the same job we do," I said.
+
+"I don't care. I'm the customer. I wanted it. Not my problem."
+
+It got me thinking. We wear so many identities—customer, representative, manager, head office administrator, burned-out worker—and we switch between them often punching ourselves in the gut. Georgia dealt honestly with people and expected them to take it. But the moment she stepped into a different role, she became the problem she'd been solving all day.
+
+## Story 6 - Help
+
+Adjusting insurance claims was genuinely stressful. But also rewarding. Insurance sets money aside for people in need, so you get to help when people need it most.
+
+The system could be nuts, but the people's needs were very real.
+
+Someone's car was stolen, or there was a hit-and-run, sometimes even a drive-by shooting. If it's covered (those usually are), you help get their car fixed or replaced.
+
+Two claims I especially can't forget.
+
+One coworker was given a pile of claims to investigate after a large flood. He got to one fine country home, asked to see the water damage, and told the homeowner to send in their damaged items list for review. We call these "cat" claims—as in catastrophe.
+
+Another was a call I got after 5:00 PM on the emergency call-in queue. It was a young single mother. The waste pipes had burst in her walls. I was still just a car adjuster, but procedure was to send contractors over to contain the damage, a property adjuster would later review if insurance covers the bill.
+
+I told her that, but the lady refused the contractors.
+
+I ignored her protest—she had sewage all over her home this obviously needed to be fixed regardless. I continued filling out the needed forms. She said, "No!" _Insureds are so frustrating_, I told myself.
+
+Then she said, "I don't have any money."
+
+I quickly googled her area. She was in the poor area of a poor town. And I had just forced her to admit she had nothing.
+
+It was Friday, meaning she'd likely get an insurance answer by Tuesday. I became a property adjuster later on and learned she had insurance coverage for her problem. She had the money, but didn't have it at the same time.
+
+I often wonder what that mother did over the weekend. My imagination goes wild because some of my claims involved drug deals, prostitution, theft. I learned how desperate people often end up doing desperate things. And her kid was living in that home.
+
+As for the country estate homeowner—he noticed my coworker had forgotten to photograph parts of his basement. A mud basement, empty of most anything. He submitted his item list months later. Antique furniture and priceless art, something like $800,000 worth.
+
+His case in court was simple: "You were there. Prove I didn't have it." The case went on for years. I'm pretty sure he eventually won.
+
+The system couldn't tell the difference between desperation and greed. So it assumed everyone was lying—and the people who actually needed help often paid the price.
+
+## Story 7 - New Tools
+
+The call-in queue was the rock—it kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
+
+My direct manager was an honest guy, but so stressed he sometimes slept in his car. Within months, he went full gray.
+
+I needed to adapt. Why not borrow from my grimy-carpet days?
+
+After each call, adjusters wrote custom emails explaining next steps—though they were nearly identical. Outlook's signature feature—basically pre-written text—let me create five or six standard email templates. It saved 2–5 minutes per call. Others copied it.
+
+I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. A dashboard tracked calls in real time, spotting trends: repeat callers, rental companies calling the wrong desk.
+
+Adjusters also had to write extensive notes justifying our liability and spending decisions. Most claims were routine, so we used a "Discussed with" template. But it was a Word file. As management and adjusters added or removed questions, everyone worked off different versions—a consistency nightmare.
+
+I built an online form with dropdowns and buttons. Faster? No. But standardized—so reading other adjusters' notes, which we did constantly, became easier. Best of all: when management made changes, all adjusters updated automatically. Same sheet, always. Another dashboard tracked real-time trends.
+
+Those grimy carpets taught me something. I showed my gray-haired, sleep-deprived boss. He showed higher management. And then:
+
+"It costs too much to implement," they said. I could use it they said, but they wouldn't officially adopt it. It was free, of course by the way.
+
+They never asked me to explain how it worked or why I made it. But lower management eventually added dropdowns and buttons to the Word form.
+
+My gray-haired manager soon left for a bank. And the demands to answer more calls never stopped.
+
+## Story 8 - Veteran
+
+I made it through. Eventually, I got promoted to serious claims: six-figure thefts, fraud rings, accident deaths.
+
+I mentored green adjusters. They all asked the same question: How do we process claims when people won't give us the information we need and we keep answering all these darn inbound calls?
+
+I showed them a trick:
 
 --
+
+When an angry insured calls—someone who's been waiting days for a callback—here's what you do:
+
+"Why aren't you calling me back?" Their voice will crack with frustration.
+
+You pull up their file, scan the notes. Queue backlog. Voicemails piling up. The usual mayhem.
+
+But you say this: "Wait. I'm not calling you back. You're not calling *me* back."
+
+Silence. Then: "What?"
+
+"Hold on. Let me look into something." You're already scanning their file—now you have time to actually work on it.
+
+"What's your number?"
+
+"555-8347."
+
+You knew that, of course, but you say: "I had 9347."
+
+"Oh!"
+
+Relief will flood through the phone line.
+
+Then you say something to bridge to the solution: "It's always something. Now let's get this moving."
+
+--
+
+Was it a lie? Maybe. But it worked. Calmed people down. Let you hear the real issue. Solved it faster. No confrontation—just a conversation.
+
+I was learning to adapt. The newbie I taught said it was "Adjusting 101—no wait, Adjusting 201."
+
+## Story 9 - WOP
+
+When the snow falls, the bell dings.
+
+After a snowstorm came the true car claims center drama. We were staffed for yearly averages. But weather spikes didn't change the promise made to customers about limited hold times.
+
+One storm was particularly bad. Several feet of snow in hours.
+
+We were told to drive to the call center to answer calls from people who'd just crashed in that same storm. Insurance companies once helped fireproof cities in the 1800s. Despite having computers and headsets at home, we still had to brave icy roads.
+
+The crashes spiked, the bell rang nonstop for days. DING DING DING.
+
+One coworker, Tildy, handled "Without Prejudice" claims—meaning we officially told insureds the claim might not be covered. On one call, she spoke to a widow. Her husband had burned alive in the car—only his hands remained on the steering wheel. The widow was sobbing: "I need to see the car. I need to see it."
+
+We were just claims adjusters, not therapists. We learned to deal with these conversations by encountering them. We tried to support a usually tough but now breaking Tildy as she spoke for an hour with the widow.
+
+Her manager noticed how long the call was taking. He came over and snapped his fingers.
+
+"Hurry up. Hurry up."
+
+We all just stared at him.
+
+Around this time, head office sent an email. Adjusters had been abbreviating "Without Prejudice" as WOP in our notes. It was deemed very offensive. I guess decades ago Italians were called "Without Papers," or WOP for short. I don't know what the connection is beyond the three letters. While we dealt with customers' tragedies, no one studied the cause of them to give forewarning to our customers, yet head office worried about acronyms.
+
+I do know that when the CEO visited from head office a few years later, the managers turned the bell off for the day.
+
+## Story 10 - Just a Job
+
+The claims center was brutal. But it was a job. You got used to it. And the pressure forged great friendships across roles and management because people were, for the most part, just trying to get themselves—and their coworkers—through the day.
+
+Once I was established, I was asked to help the Total Loss department. These adjusters told insureds what insurance would pay them when their car couldn't be repaired.
+
+I was a pretty good adjuster by then. I said, "Just tell me the basics. I'll start making calls and close files."
+
+Two veteran total loss adjusters explained how the software searches the internet for recent car ads. We compared the loss vehicle to these ads, made minor adjustments for condition and mileage, and that was it.
+
+Simple.
+
+I'm often lucky enough to be considered funny, and this humor definitely helped in a claims center. But I'd never seen anyone laugh as hard as my two friends did listening to my first total loss call.
+
+"Hello, Mr. Insured. I'm calling from Total Loss to discuss your vehicle value."
+
+I started reading his vehicle information for the first time.
+
+"Okay, so you had a Ford Econovan. I see it's older with high mileage. The value came back at $2,640. You're a registered organization, so no tax is added, and after your $2,500 deductible your settlement is $140."
+
+I was flustered. It seemed like a terrible deal.
+
+My trainers were on the nice carpeted floor—laughing without control. I kept muting my headset to ask for help. The insured was as confused as I was. He was definitely getting really mad though.
+
+He was a member of a religious community and didn't have the typical emotional vocabulary insureds use to express his disgust. But he knew he'd been buying insurance only to have us take his truck for less than the value of a single tire.
+
+My trainers left the office. I don't know where, but they came back hours later, still red-faced and teary.
+
+I spent weeks dealing with a very upset customer.
+
+I learned another lesson: read settlements beforehand, prepare insureds for bad news. Claims was like sales in reverse—we had to sell people on something they'd already bought. Better done when they didn't hate you.
+
+I eventually got his truck towed back to his country home. I miss those friends. We learned the ropes together.
+
+## Story 11 - Not unique
+
+Most claims had one or more other drivers involved. So we talked to other adjusters constantly.
+
+An easy way to relate to these colleagues was to ask, "What's your pending?"
+
+Translation: how many claims do you have open? The system wasn't just inside one department, but everywhere. So the higher the pending, the higher the daily grind of the adjuster.
+
+Mine was usually 50–80. Some other insurance companies had 200. You'd hear it in their voice.
+
+I'd talk to these adjusters and realize my department was actually one of the better ones out there. We actually mostly got along. We went on trips, did bar nights, celebrated each other's achievements (our happiest was when someone "got out").
+
+But they, and we, were simply up against a wall. The stream of problems we encountered were not caused by us, but since "insurance" is associated with making problems go away, a person running a red light or getting their car stolen on vacation became our problem to help solve.
+
+One of my claims happened in a different state.
+
+I could not find its government regulations. I tried and tried, called and searched around. Nothing.
+
+I eventually got it days later. The regulation said a driver could sue the at-fault driver for $1,000. Any damage above that the driver must have their own collision coverage. This was very unusual, and I had to explain that to my insured over a long phone call.
+
+Yet, after asking "what's your pending?" to hundreds of adjusters around the country, these stories were common everywhere. Just food for thought. These are not just stories of my job, but of your economy.
+
+## Story 12 - Thanks
+
+I made a call to a mother and daughter once. They had a Toyota Yaris. I was their total loss adjuster. This time I was prepared with the payment breakdown, justification, and aware of any bad news that could rattle an insured.
+
+I gave them their number and...
+
+Heard nothing.
+
+"Hello?" I said.
+
+"Sorry, we're just dancing over here!"
+
+They were ecstatic and thanked me a bunch. The truth was Toyotas hold their value well, and the Yaris especially so. But I was the bearer of good news, so they gave me the credit.
+
+Years later, our receptionist asked me to visit her. Sometimes people mail in their documents and pictures, so I figured there was a package waiting for me.
+
+It was not.
+
+It was a present. An Edible Arrangement, in fact. I feel bad that I can't remember the claim or the lady. It was just a typical claim to me. But she was very appreciative and sent in a present.
+
+It did happen sometimes. One adjuster, Susan, got a bunch.
+
+The point is, most claims went fine—it's just many had problems that clogged up the system. And those angry people called often.
+
+------
+
+Here's a funny fact I love to share with everyone, especially people who love or hate new technology.
+
+The smoothest claims often came via snail mail. Usually elderly people with no computer, who filled out ancient paper claim forms, photocopied their invoices and receipts, and got their pictures printed.
+
+Here's why: they always took the time to collect everything I needed to process their claim.
+
+Most people, of course, love the speed of smartphones. Yet speed meant less preparation. It wasn't unusual to get 10 emails from a person in one day—each with a single photo, or a question they could've asked in the first message.
+
+The claims system originated back when people mailed documents and adjusters mainly called to discuss conclusions. We bolted new technology onto the system as it arose without rethinking the process. So we got the chaos of digital communication layered onto a system designed for paper.
+
+
+## Story 13 - Perfect Example
+
+The information from a crash is very sporadic. One big problem is at-fault drivers often don't report their claim, especially if they don't have collision coverage.
+
+But adjusters need to confirm liability. And we have the right to do it too. Being insured for thousands to millions of dollars comes with some obligations.
+
+Adjusters are what's called the "Second Party," meaning we are a legal association with the "First Party" insured, especially when someone else, the "Third Party," makes a claim against you. We can ask any relevant question, and the insured can't withhold information. This is what makes processing insurance claims so educational. We literally step into the shoes of our customer's situation and must either vouch for, or disprove, their stories.
+
+When another insurance company doesn't have their side of a crash reported, we send a "Third Party Report" requesting they open one up and investigate.
+
+I called out on many such claims. Usually our driver would confirm the details and not want to open a claim up for their own damages.
+
+One time was especially different.
+
+Our driver tells me the third party's story is bogus. The insured said he wasn't in a car crash, and he wasn't even in the city! Fraud, he told me—the other driver is committing fraud!
+
+So I emailed the other adjuster, who replied with a picture.
+
+I wish I had it now. I can still see every detail. It was amazing, worthy of remembrance.
+
+First, it was perfectly sharp with no focus or artifact problems. It was the middle of a sunny day, so lighting was spot on. It was taken by the other driver leaning outside of his window—so there were no obstacles in the way.
+
+The picture was taken at an intersection in a small downtown core.
+
+A white van was in front, with the same brand as my insured's. The license plates were clean, readable, and correct. The street signs for the intersection were billboard legible. The town's clock tower was even in the background telling the time. And the best part: my insured's face was visible in the reflection of his side mirror. He was clearly frowning, like someone who just reversed into someone, as the other guy was claiming.
+
+The thing is, images don't show movement. I couldn't technically use this image to confirm liability.
+
+But that picture was so perfect, my insured just said, "I'm sorry."
+
+I'll take this moment to say, please get a car dash camera installed. It makes pictures like this common—but still amazing.
+
+## Story 14 - Cured
+
+You might remember: one of my first claims involved tracking down a Buick Allure for my insured. It took hours that I didn't have to spend. But she'd never actually asked. She'd simply said, very nicely mind you: "I only drive Buick Allures." I assumed it was my job, so I found one.
+
+Years later, I had a similar conversation.
+
+She said, "I only drive Land Rovers."
+
+Her tone wasn't nice. I kept typing out her requisition orders.
+
+"Hello?"
+
+"Hi." I responded.
+
+"I only drive Land Rovers...Did you hear me?" 
+
+That's the trick of bullies: they never ask. They state. Asking implies the other person's agency—it allows compromise or disappointment. I learned silence was the best response. After all, she wasn't actually speaking to me.
+
+"I said I only drive Land Rovers."
+
+I knew what she wanted: for me to accept this as fact. But I'm not a valet, nor a rental company. Besides, rental coverage is about 30 dollars a year. The idea that we'd have an $80,000 SUV at the ready for her is ridiculous.
+
+"You can ask the rental company about that."
+
+"Then why do I buy insurance?"
+
+Every adjuster's favorite question. I'd learned the best response by then.
+
+"I don't know. Why did you buy this rental insurance?"
+
+I said it gently. I was having a conversation; she was being the bully.
+
+"I can't believe this. This isn't my problem."
+
+"With respect, it is if you want to drive a Land Rover as a rental I don't know of any company that stocks those. They usually opt for reliable cars with good resale values."
+
+"Can I speak with your manager?"
+
+"I can ask him, 
+
+"Ask him!"
+
+"I can't make him call you." I continued, "Insurance deals with contracts and policies. He'd probably ask where it says you can only rent Land Rovers. Every policy is a government regulation—they never specify brands. I can send your authorization for a rental in that class, depending on availability. Or I can send you a cheque and you arrange your own rental, uber, or public transportation."
+
+She took the pre-authorized rental. I never heard from her again.
+
+I'd thought I couldn't be honest with insurance customers. I stuttered on many calls because of that. The truth: I had to learn how to be honest. I couldn't be mean, but I could state clearly what my job was, what the policy covered, and what their options were.
+
+Let a person deal with their reality. If they ask, I'm here to help. Most people absolutely loved that approach. If they didn't, I wasn't getting nervous on their account. That was the key to my vocal freedom.
+
+I often recall this Land Rover conversation. Though I still stutter occasionally, from then I can say I don't have a stutter anymore.
+
+Soon after, I got promoted to property adjuster. A totally different vibe. I had my own files, no queue, and time to actually work them. I loved that property claims department job and team (I wish I never left).
+
+I learned much doing property claims too, but those years in auto claims effectively cured my stutter and by chance happened to be extremely educational. The over 2,000 claims, 8,000 queue calls, endless emails and voicemails, and uncountable interactions from everybody between lawyers to plumbers, NBA stars to single parents, body repair shops to other adjusters, taught me how managers, workers, and consumers interact to make todays struggling economy.
+
+This all became the practical foundations of Techvolution.
+
+===
+
+
+
+
 
 ## Notes
 
