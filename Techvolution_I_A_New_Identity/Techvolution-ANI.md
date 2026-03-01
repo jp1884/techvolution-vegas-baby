@@ -21,7 +21,7 @@ Techvolution is a new framework that helps us understand ourselves, our society,
 
 We need guidance understanding this transformation. From smartphones that connect us globally to medical devices that extend our lifespans, new technologies have become so pervasive that they are now permanent extensions of our biological selves, profoundly transforming how we live, work, and interact. In the eyes of evolution, we are becoming something unprecedented—"technological beings," chosen not for our genetics or life experiences, but by our ability to create and harness tools.
 
-As we embrace our technological identity, we begin to see how the principles of evolution—adaptation, selection, and speciation—now govern our societies, political systems, and economies. Accepting evolution's control over us is a new paradigm that empowers us to:
+As we embrace our technological identity, we begin to see how the principles of evolution—adaptation, selection, and speciation—now govern our societies, political systems, and economies. Accepting that evolution governs these systems is a new paradigm that empowers us to:
 
 - Understand human history through technological evolution
 - Embrace new technologies instead of fearing the loss of our jobs
@@ -42,13 +42,11 @@ With this insight, we can base our identity, politics, and economics on evolutio
 
 Technology is a new branch on the tree of life. Just as the study of evolution illuminated the natural world, the study of technological evolution will reveal the intricacies of our technological life.
 
-Spanning the breath of human history, _Techvolution_ reframes the human story by placing our technological nature at its center. For those seeking to understand our rapidly changing times, this book provides more than just insight—it offers an intellectual blueprint for the extraordinary future we are building together as a technological species.
+Spanning the breadth of human history, _Techvolution_ reframes the human story by placing our technological nature at its center. For those seeking to understand our rapidly changing times, this book provides more than just insight—it offers an intellectual blueprint for the extraordinary future we are building together as a technological species.
 
 ## Dedication
 
-_This book is for the open-source community—for the collaborative mindset you handed down to me while updating Wikipedia, writing free software, and answering endless questions on Stack Overflow. You showed a philosophy student what the future could be as you became the protagonists of the Internet Age. Still, while you create many innovative frameworks and side projects, the world urgently needs you to use this book and others to construct the Internet Age economy, build step by build step, posthaste._
-
-_This book is especially dedicated to the middle class. Our society's stubborn loyalty to the Industrial Age way of life has stagnated our economy and poisoned our political discourse. I pray you embrace the evolutionary changes necessary and reach for the Internet Age future that open-source heroes have made available for us, while we still can._
+_This book is especially dedicated to the middle class. You've been squeezed by an economy still clinging to Industrial Age structures while the Internet Age offers new possibilities. The open-source community has already built many of the tools we need—now it's time to embrace them and build the future together._
 
 ## Book Series
 
@@ -479,7 +477,7 @@ In fact, conservatism's emphasis on producing wealth and progressivism's drive f
 
 Conservatism and progressivism empower each other because diversity and mass production are how life populates and updates its ecosystems. Thus, rather than seeing left versus right as opposing forces, we can view them as complementary perspectives contributing to our collective technological evolution.
 
-Of course, as we know, modern progressives and conservatives do not cooperate. For example, Congressional partisanship has been increasing exponentially for over sixty years with no sign of abating or reversing.
+Of course, as we know, modern progressives and conservatives do not cooperate. For example, Congressional partisanship has been increasing dramatically for over sixty years with no sign of abating or reversing.
 
 As our economic challenges continue to mount, the statistics paint a stark picture of financial strain. Since 1991, Americans' wages have not even kept pace with inflation. Median household income has grown by just 27.9 percent over thirty years, while the cost of living has dramatically outpaced this modest increase. Housing prices have soared 345 percent. Health-care premiums have risen 49 percent between 2013 and 2023. Public college tuition has more than doubled. More recently, grocery costs have risen significantly, with a 20-30% increase from 2020 to 2025.
 
@@ -2507,7 +2505,7 @@ Welcome to the next chapter of human potential.
 
 Practical stories to interperse between chapters in Techvolution: A New Identity.
 
-## Story 1 - Handset
+### Story 1 - Handset
 
 When my buddy picked me up from work one day, he looked around and said, "What a dump." Coming from someone who visits offices, warehouses, and factories across the city, that review held weight. He was right—and not just about the 30-year-old carpet. This was the same place where my boss told everyone (but me) I couldn't speak to clients because my stuttering was an embarrassment, then lied to my face for years that it wasn't true.
 
@@ -2539,7 +2537,7 @@ No lies, no uncertainty, no stuttering!
 
 "Why not?" I wondered.
 
-## Story 2 - Orders
+### Story 2 - Orders
 
 The confidence I gained during training didn't last long. Within weeks, I realized it was just ignorance.
 
@@ -2555,11 +2553,11 @@ The first question on the system we used was "vehicle color." So I asked this ca
 
 "You're asking me about the color! My daughter and wife were taken to the hospital—who cares about color!"
 
-Injuries were further down the list of questions. But I learned my lesson there. Since the calls are so random, assume the worst every time and ask about the worst-case scenario first. If you remember that, it saves you from insulting people and grounds other callers' attitudes too.
+Injuries were further down the list of questions. But I learned my lesson there. Since the calls are so random, assume the worst every time. If you remember that, it saves you from insulting people and grounds other callers' attitudes too.
 
 It also makes for a dreary mindset. Now I understood what my trainer meant. "God bless you" definitely wasn't the norm.
 
-## Story 3 - The Job
+### Story 3 - The Job
 
 I thought learning the rules would be enough. I was wrong.
 
@@ -2597,7 +2595,7 @@ Then I got an email from a manager:
 
 I was yet to learn the difference between working well and meeting targets. The mayhem was yet to really set in.
 
-## Story 4 - The Bell
+### Story 4 - The Bell
 
 Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, short-change, screw people over—that's what the public thinks.
 
@@ -2629,7 +2627,7 @@ They also got inflated claims, burned-out adjusters, higher insurance rates, and
 
 One more claim down. One less call to make that freaking bell ring.
 
-## Story 5 - I Don't Care
+### Story 5 - I Don't Care
 
 Even as I got better at adjusting and taking calls, I couldn't do the fast, often confrontational, phone call thing. I needed to have a full conversation with each caller, which sometimes helped but took up a lot of time.
 
@@ -2653,7 +2651,7 @@ I asked her why she'd been so harsh. "They do the same job we do," I said.
 
 It got me thinking. We wear so many identities—customer, representative, manager, head office administrator, burned-out worker—and we switch between them often punching ourselves in the gut. Georgia dealt honestly with people and expected them to take it. But the moment she stepped into a different role, she became the problem she'd been solving all day.
 
-## Story 6 - Help
+### Story 6 - Help
 
 Adjusting insurance claims was genuinely stressful. But also rewarding. Insurance sets money aside for people in need, so you get to help when people need it most.
 
@@ -2685,7 +2683,7 @@ His case in court was simple: "You were there. Prove I didn't have it." The case
 
 The system couldn't tell the difference between desperation and greed. So it assumed everyone was lying—and the people who actually needed help often paid the price.
 
-## Story 7 - New Tools
+### Story 7 - New Tools
 
 The call-in queue was the rock—it kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
 
@@ -2709,7 +2707,7 @@ They never asked me to explain how it worked or why I made it. But lower managem
 
 My gray-haired manager soon left for a bank. And the demands to answer more calls never stopped.
 
-## Story 8 - Veteran
+### Story 8 - Veteran
 
 I made it through. Eventually, I got promoted to serious claims: six-figure thefts, fraud rings, accident deaths.
 
@@ -2749,7 +2747,7 @@ Was it a lie? Maybe. But it worked. Calmed people down. Let you hear the real is
 
 I was learning to adapt. The newbie I taught said it was "Adjusting 101—no wait, Adjusting 201."
 
-## Story 9 - WOP
+### Story 9 - WOP
 
 When the snow falls, the bell dings.
 
@@ -2775,7 +2773,7 @@ Around this time, head office sent an email. Adjusters had been abbreviating "Wi
 
 I do know that when the CEO visited from head office a few years later, the managers turned the bell off for the day.
 
-## Story 10 - Just a Job
+### Story 10 - Just a Job
 
 The claims center was brutal. But it was a job. You got used to it. And the pressure forged great friendships across roles and management because people were, for the most part, just trying to get themselves—and their coworkers—through the day.
 
@@ -2809,7 +2807,7 @@ I learned another lesson: read settlements beforehand, prepare insureds for bad 
 
 I eventually got his truck towed back to his country home. I miss those friends. We learned the ropes together.
 
-## Story 11 - Not unique
+### Story 11 - Not unique
 
 Most claims had one or more other drivers involved. So we talked to other adjusters constantly.
 
@@ -2831,7 +2829,7 @@ I eventually got it days later. The regulation said a driver could sue the at-fa
 
 Yet, after asking "what's your pending?" to hundreds of adjusters around the country, these stories were common everywhere. Just food for thought. These are not just stories of my job, but of your economy.
 
-## Story 12 - Thanks
+### Story 12 - Thanks
 
 I made a call to a mother and daughter once. They had a Toyota Yaris. I was their total loss adjuster. This time I was prepared with the payment breakdown, justification, and aware of any bad news that could rattle an insured.
 
@@ -2867,8 +2865,7 @@ Most people, of course, love the speed of smartphones. Yet speed meant less prep
 
 The claims system originated back when people mailed documents and adjusters mainly called to discuss conclusions. We bolted new technology onto the system as it arose without rethinking the process. So we got the chaos of digital communication layered onto a system designed for paper.
 
-
-## Story 13 - Perfect Example
+### Story 13 - Perfect Example
 
 The information from a crash is very sporadic. One big problem is at-fault drivers often don't report their claim, especially if they don't have collision coverage.
 
@@ -2900,7 +2897,7 @@ But that picture was so perfect, my insured just said, "I'm sorry."
 
 I'll take this moment to say, please get a car dash camera installed. It makes pictures like this common—but still amazing.
 
-## Story 14 - Cured
+### Story 14 - Cured
 
 You might remember: one of my first claims involved tracking down a Buick Allure for my insured. It took hours that I didn't have to spend. But she'd never actually asked. She'd simply said, very nicely mind you: "I only drive Buick Allures." I assumed it was my job, so I found one.
 
@@ -2932,7 +2929,7 @@ Every adjuster's favorite question. I'd learned the best response by then.
 
 I said it gently. I was having a conversation; she was being the bully.
 
-"I can't believe this. This isn't my problem."
+"I can't believe this. This isn't my problem."  By the way the bell was probably going DING DING DING.
 
 "With respect, it is if you want to drive a Land Rover as a rental I don't know of any company that stocks those. They usually opt for reliable cars with good resale values."
 
@@ -2950,7 +2947,7 @@ I'd thought I couldn't be honest with insurance customers. I stuttered on many c
 
 Let a person deal with their reality. If they ask, I'm here to help. Most people absolutely loved that approach. If they didn't, I wasn't getting nervous on their account. That was the key to my vocal freedom.
 
-I often recall this Land Rover conversation. Though I still stutter occasionally, from then I can say I don't have a stutter anymore.
+I often recall this Land Rover conversation. Though I still stutter occasionally, when I look back that's when I realize I don't have a stutter anymore.
 
 Soon after, I got promoted to property adjuster. A totally different vibe. I had my own files, no queue, and time to actually work them. I loved that property claims department job and team (I wish I never left).
 
@@ -2958,11 +2955,10 @@ I learned much doing property claims too, but those years in auto claims effecti
 
 This all became the practical foundations of Techvolution.
 
-===
+### Misc.
 
-
-
-
+- list cost of a typical crash.
+- traffic class vs home work.
 
 ## Notes
 

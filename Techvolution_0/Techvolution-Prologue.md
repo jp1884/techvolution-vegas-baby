@@ -9,6 +9,12 @@ _"Technology is anything that was not around when you were born."_
 
 —Alan Kay
 
+## Author's Note
+
+This isn't a book that will tell you stuff is getting bad and to fix them here's what someone else needs to change. This is the book that explains, stuff is getting bad, here is the beginning of the scientific understanding why stuff is getting bad, and here is how "I, the reader", can adapt in order to fix them.
+
+In other words, this is a book for people in the middle. I hope you like it.
+
 ## Giving You a Map and Compass
 
 People used to think some wild things. The world was flat, the Earth was the center of the universe, disease was caused by bad air. Each of these beliefs was absolute—until some resisted accepted wisdom hard enough to uncover new truths.
@@ -43,7 +49,7 @@ Well-meaning influencers and analysts cannot find solutions, because in truth, e
 
 We can only overcome our challenges when we uncover the natural laws that show what modern human life truly is.
 
-Just another chapter in the ongoing Darwinian game of evolution—but with a twist, life is now technological. This change is nothing but a difference in material, one among the many that has taken place during the time periods in which Earth has had different geologies, atmospheres, environments, and lifeforms.
+Just another chapter in the ongoing Darwinian game of evolution—but with a twist, life is now technological. We've crossed a measurable threshold: technomass on Earth now rivals the planet's biomass itself. Our survival once depended on finding food and shelter in the biological world; now it depends almost entirely on technological production. This change is nothing but a difference in material, one among the many that has taken place during the time periods in which Earth has had different geologies, atmospheres, environments, and lifeforms.
 
 That means life has felt your struggles many times before. It should not be a surprise there is a time-tested game plan for not only your survival, but prosperity.
 
@@ -51,15 +57,15 @@ And that is the evolution of new species better suited to win the game.
 
 You can harness this winning strategy, once you realize we prosper by evolving new technologies, tools, and ways of life. Happily, we have already created many of the technological adaptations we need to evolve our civilization.
 
-That is because in 1970, the foundational technologies of the next age—microchips, software, computers, and internet—were converging; the Industrial Age finally gave birth to the Internet Age. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place in nature.
+That is because by the early 1970s, something fundamental shifted: the Mother of All Demos (1968) showed interactive computing's potential, ARPANET (1969) proved networked communication could work, and the microprocessor (1971) made computation portable. The core building blocks of networked personal computing existed simultaneously. As they converged over the next few decades, the Industrial Age was giving birth to the Internet Age. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place in nature.
 
 Sadly, many established people and businesses did not embrace modern inventions, hoping to unnaturally keep their own technologies alive. 
 
 Now our evolution has stalled.
 
-Because we are still clinging to Industrial Age identities, philosophies, and ways of life. The Internet Age cannot prosper if we keep using these old ideas to select which modern technologies and adaptations live or die.
+Because we are still clinging to Industrial Age identities, philosophies, and ways of life. We use technologies habitually—like hunter-gatherers making do with whatever they find—then blame or congratulate our ideologies for the results, rather than intentionally cultivating the tools our problems actually require. The Internet Age cannot prosper if we keep using these old ideas to select which modern technologies and adaptations live or die.
 
-_Techvolution On the Origin of Technological Species_ will make the selection of technological species more natural. By empowering you, whether someone in Gen Z hoping to start a family or a retiree hoping to have grandkids, to do what life has done many times before: leave the shadows of a bygone age behind and purposefully evolve to the new environment in which you live.
+_Techvolution On the Origin of Technological Species_ will make the selection of technological species more natural. By empowering you, whether someone in Gen Z hoping to start a family or a retiree hoping to have grandkids, to do what life has done many times before: leave the shadows of a bygone age behind and purposefully evolve for the environment in which you live.
 
 Realizing the Earth was not the center of the Universe launched the Science Age. Likewise, to unleash the Internet Age means accepting that life is a game of evolution, and Earth is effectively a lifeboat of constantly tested survivors. Humans earn our place with technological evolution.
 
