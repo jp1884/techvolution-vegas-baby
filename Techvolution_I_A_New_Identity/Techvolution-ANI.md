@@ -28,7 +28,7 @@ As we embrace our technological identity, we begin to see how the principles of 
 - Lower living costs with faster adoption of innovations
 - Transform ideological divisions into technological collaboration
 
-Whether you are a business owner, policymaker, or someone seeking deeper insight into the human condition, _Techvolution_ is an essential new framework for understanding our rapidly changing world. With this new paradigm, you will emerge with a profound new perspective on your place in history and the extraordinary future that awaits us as self-aware technological beings.
+Whether you are a business owner, policymaker, or someone seeking deeper insight into the human condition, _Techvolution_ is an essential new framework for understanding our transforming society. With this new paradigm, you will emerge with a profound new perspective on your place in history and the extraordinary future that awaits us as self-aware technological beings.
 
 ## Inner Flap
 
@@ -465,9 +465,11 @@ I got to order anything I wanted. It was pizza, of course.
 
 The point of this story is that when a person confronts a problem today—from buying products to getting a job—we instinctively start with a genetic, cultural, or ethnic identity. Listen to any political speech; it will speak to "single mothers," "elderly voters," "new immigrants," or some other demographic group. I do not want to invalidate these identities, only to clarify something fundamental: in the realm of politics and economics, we are first and foremost users of tools.
 
-Some of these tools are biological, like speaking, but with the explosion of electronics, software, and so many other devices, most of our interactions with the world are now technological. Therefore, our primary identities should be defined by the tools at our disposal, and acquiring better tools to live happier lives ought to be our first priority.
+Some of these tools are biological, like speaking or jogging, but with the explosion of electronics, software, and so many other devices, most of our interactions with the world involve at least some technology. Therefore, our primary identities should be defined by the tools at our disposal, and acquiring better tools to live happier lives ought to be our first priority.
 
-A technological identity is precisely what ideologies strip away from us. For example, an ideologue seeing a hungry kid outside a pizzeria window might attribute the kid's situation to a personal failing—like being irresponsible with money—or systemic injustices—like family poverty or discrimination by the shop owner. Both perspectives are possible, but the fact that the kid might be struggling with a "verbal wheelchair" rarely occurs to people. This oversight happens not because they are unaware of disabilities, but because ideological interpretations are often our default lens when seeing problems in society.
+Yet this perspective is almost entirely absent from public discourse—a technological identity is precisely what ideologies strip away from us.
+
+For example, an ideologue seeing a hungry kid outside a pizzeria window might attribute the kid's situation to a personal failing—like being irresponsible with money—or systemic injustices—like family poverty or discrimination by the shop owner. Both perspectives are possible, but the fact that the kid might be struggling with a "verbal wheelchair" rarely occurs to people. This oversight happens not because they are unaware of disabilities, but because ideological interpretations are often our default lens when seeing problems in society.
 
 That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet, conservatism, progressivism, and other belief systems were conceived centuries ago by people seeking to solve their society's problems, primarily addressing the hunger, illiteracy, and poverty of civilization before the Industrial Revolution.
 
@@ -479,19 +481,23 @@ Conservatism and progressivism empower each other because diversity and mass pro
 
 Of course, as we know, modern progressives and conservatives do not cooperate. For example, Congressional partisanship has been increasing dramatically for over sixty years with no sign of abating or reversing.
 
-As our economic challenges continue to mount, the statistics paint a stark picture of financial strain. Since 1991, Americans' wages have not even kept pace with inflation. Median household income has grown by just 27.9 percent over thirty years, while the cost of living has dramatically outpaced this modest increase. Housing prices have soared 345 percent. Health-care premiums have risen 49 percent between 2013 and 2023. Public college tuition has more than doubled. More recently, grocery costs have risen significantly, with a 20-30% increase from 2020 to 2025.
+As our economic challenges continue to mount, the statistics paint a stark picture of financial strain. Using adjusted into 2023 dollars, median household income rose from about $62,000 in 1991 to about $79,000 in 2021, an increase of roughly 28 percent over thirty years.
 
-Unsurprisingly, this widening economic gap has driven debt to unprecedented levels. Student loan debt exploded from nearly $481 billion in 2006 to over $1.7 trillion by 2021. For young adults aged 18-24, mortgage costs tell a similar story—average home debt jumped from under $40,000 in 1992 to $117,000 in 2022. Economic betterment has stopped, with only half of Americans now able to earn more than their parents, compared to 90 percent in 1940.
+While the cost of living has dramatically outpaced this modest increase.
+
+Average home prices across U.S. states were about 345 percent higher in 2024 than in 1991. While the average annual premiums for employer-sponsored family health coverage increased 49 percent from 2013 to 2023. Average in-state tuition about doubled from between 1991 to 2023, fueling the student debt crisis. Grocery costs rose significantly in recent years—a 20–30 percent increase from 2020 to 2025.
+
+Unsurprisingly, this widening economic gap has driven debt to unprecedented levels. Student loan debt exploded from nearly $481 billion in 2006 to over $1.7 trillion by 2021. For young adults aged 18-24, mortgage costs tell a similar story—average home debt jumped from under $40,000 in 1992 to $117,000 in 2022. Economic betterment has stopped, with only half of Americans born in 1980 earned more than their parents, compared to 90 percent of those born in 1940.
 
 These are not just cold statistics—they represent a systemic failure. Many ideologues believe that better government policy alone can address our challenges, but evolution demands more: we must adapt by innovating and adopting new tools.
 
-To appease evolution, we must redefine ourselves as technological beings first and foremost. Only that person will critically assess everyone's opinions, PowerPoint presentations, and other narratives on their actual effectiveness in connecting problems with better technologies.
+To appease evolutionary requirements, we must redefine ourselves as technological beings first and foremost. Only that person will critically assess everyone's opinions, PowerPoint presentations, and other narratives on their actual effectiveness in connecting problems with better technologies.
 
 To understand this mindset, consider a simple experiment: combine cold water and ice into a bucket. As you immerse your hand in the water, the cold steals your heat, and your body soon experiences intense pain. This visceral moment reveals a fundamental truth: no words, presentations, or promises keep you warm.
 
 Thus, when evaluating conservatism, progressivism, or any belief system, always judge not by its words, but by its ability to create and distribute tools that overcome your environmental challenges and thereby lower your real-life pains. Most everyone, from bureaucrats to teachers, already says they promote innovation, but only a technological identity will keep all of us honest.
 
-Then we will be in evolution's good graces.
+Then we will be working with evolutionary forces, not against them.
 
 And that is a good place to be. Life has spent billions of years combating heat, hunger, thirst, and cold through adaptation. Arctic fish develop antifreeze proteins. Polar birds grow waterproof feathers. Mammals develop fur and blubber. Each organism's survival depends not on avoiding discomfort, but on developing the right tools to keep pain away in its environment.
 
@@ -513,7 +519,7 @@ Earth will prosper to new heights when human conflict is minimized and cooperati
 
 ### Catching Life's Eye
 
-Animals are born free, and everywhere they seem to be enjoying themselves. Nature is no doubt a tough place to be. Hunger, disease, thirst, and predation are always just around the corner. Yet, from the mighty grizzly bear to the tiny firefly, organisms all fight to stay alive. It seems creatures enjoy playing the "game of life".
+Animals are born free, and everywhere they seem to be enjoying themselves. Nature is no doubt a tough place to be. Hunger, disease, thirst, and predation are always just around the corner. Yet, from the mighty grizzly bear to the tiny firefly, organisms all fight to stay alive. It seems creatures enjoy—in their own way—playing the "game of life".
 
 So, how does a life form get selected to become a player? There are three ways to stand out: genes, personality, and tools.
 
@@ -525,7 +531,7 @@ This continuous process of genetic variation and environmental selection drives 
 
 The next way a creature can stand out is its phenotype. The phenotype is akin to a life form's personality; the observable characteristics of an organism resulting from the interaction between its genetic makeup and environmental influences, encompassing physical traits, behavioral adaptations, and learned experiences. Think of two acorns, one planted in a tall forest, the other in an open field. The first grows lean and tall to reach sunlight, while the other grows bushier and more robust. Phenotype reveals how organisms adapt to their surroundings and become products of their environment.
 
-Phenotypic adaptations show remarkable diversity. Some are immediate, like a lizard changing color for camouflage, while others develop over generations, such as an elephant mother teaching her young where the water holes are. Natural selection does not prefer one phenotype over another; like with genes, it wants huge diversity to increase the chance of finding those best suited to survive and reproduce in the current environment.
+Phenotypic adaptations show remarkable diversity. Some are immediate, like a lizard changing color for camouflage, while others develop over generations, such as an elephant mother teaching her young where the water holes are. Natural selection does not prefer one phenotype over another; like with genes, it rewards huge diversity to increase the chance of finding those best suited to survive and reproduce in the current environment.
 
 The third way creatures stand out is the extended phenotype. These are adaptations that creatures build for themselves. Think of bird nests, beaver dams, and ant hills. Although made of foreign material, these things act like any other organ by helping a creature better survive.
 
@@ -547,7 +553,9 @@ Among my many genetic traits is the aforementioned speech impediment. Centuries 
 
 I still had the resulting shyness of my phenotype to overcome. That story is like that of most people growing up, with kids unconsciously adapting to their social environment as best they can. However, the impediment resurfaced when my software employer said my speech impediment was still noticeable, so I resolved to fix it with a job in a notoriously chaotic insurance claims call center. Within a year, the "sink or swim" kind of shock speech therapy finally worked out most of my speaking tool's glitches.
 
-My experience is not unique; many people face similar challenges, from social anxiety to dyslexia. The key point is that we now have numerous ways to address these issues. Advances in science—such as mapping the human genome—and in psychology—with various therapies—provide significant support. Unlike in the past, when even Julius Caesar had to hide his epilepsy, we have great help available once a person chooses to use it. Evolution now has little reason to reject individuals based on their genotype or phenotype.
+My experience is not unique; many people face similar challenges, from social anxiety to dyslexia. The key point is that we now have numerous ways to address these issues. Advances in science—such as mapping the human genome—and in psychology—with various therapies—provide significant support. Unlike in the past, when even Julius Caesar had to hide his epilepsy, we have great help available once a person chooses to use it. Evolution now has far less reasons to reject individuals based on their genotype or phenotype.
+
+Technology now buffers us from many selection pressures that once eliminated individuals—cold, disease, injuries—  for centuries.
 
 As for the extended phenotype, before the Industrial Revolution, we were often like squirrels using tools made from the natural world. Technology still amazed us, but things such as sod houses, wood saws, and paper books are physical objects easy to hold, safe to smell, and natural to the touch. However, after the massive explosion of chemicals, materials, electricity, electronics, software, and so many other things over the past 150 years, we are now like raccoons who depend on things we do not truly understand.
 
@@ -557,9 +565,9 @@ The ultimate lesson was how people struggle to understand modern technologies. W
 
 I was so often a customer's best hope, yet all I had was a Google search and a stingy checkbook.
 
-Modern technology has changed how evolution selects us. Comparing top causes of death in modern America and ancient societies (circa 500 BC) reveals our new selection pressure. Modern America's list is dominated by chronic diseases like heart disease and diabetes, linked to our sedentary lifestyle that is so pervasive raccoons suffer from many of the same problems. In contrast, ancient societies suffered greatly from infectious diseases and injuries due to poor sanitation, limited medical care, and frequent wars. Notably, infant mortality has dropped dramatically, from approximately 50 percent in the Bronze Age to under 0.8 percent in America today.
+Modern technology has changed how evolution selects us. Comparing top causes of death in modern America and ancient societies (circa 500 BC) reveals our new selection pressure. Modern America's list is dominated by chronic diseases like heart disease and diabetes, linked to our sedentary lifestyle that is so pervasive raccoons suffer from many of the same problems. In contrast, ancient times suffered greatly from infectious diseases and injuries due to poor sanitation, limited medical care, and frequent wars. Notably, infant mortality has dropped dramatically, from approximately 50 percent in the Bronze Age to under 0.8 percent in America today.
 
-Unless a sudden catastrophe like factory soot or a meteor impact occurs, species typically die off gradually. Our falling birthrate is a prime example. While many blame younger generations for being negligent, the evolutionary truth is more complex: our economy remains trapped in a bygone era's lifestyle. Baby boomers continue to monopolize resources and block technological evolution, inadvertently clinging to the so-called "American Dream" rooted in their upbringing in the 1950s and 1960s.
+Unless an extinction level event changes selection pressures—like factory soot or a meteor impact—species typically die off gradually. Our falling birthrate is a prime example. While many blame younger generations for being negligent, the evolutionary truth is more complex: our economy remains trapped in a bygone era's lifestyle. Baby boomers continue to monopolize resources and block technological evolution, inadvertently clinging to the so-called "American Dream" rooted in their upbringing in the 1950s and 1960s.
 
 As a result, instead of adopting new tools and new ways of life that solve modern problems, we work to re-create the past with endless movie remakes, "all-new" car commercials, and more suburban housing, shopping centers, and office parks. It is not anyone's fault; we simply lack self-awareness of our technological identity and the evolutionary imperative to embrace new work habits, travel requirements, food choices, and so many other changes in our way of life.
 
@@ -2576,15 +2584,15 @@ There was no rationalization. No production line. This information arrived in a 
 Sometimes people call from the crash scene. Sometimes disappear for weeks. Sometimes they call back 10 times a day for an update. Oh, and people lie constantly.
 
 "Why am I at fault?"
-~Because you hit a freaking tree!~
+_Because you hit a freaking tree!_
 "Unfortunately, we cannot sue the person who planted the tree."
 
 "I only drive Buick Enclaves."
-~That's... really specific.~
+_That's... really specific._
 "Okay, I'll track one down for you."
 
 "How much will my rates go up?"
-~People ask this constantly.~
+_People ask this constantly._
 "I'm only an adjuster; I'm not trained for that information."
 
 A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the queue. All eight went to payment—fully processed, start to finish. I was so proud of myself. _I'm getting this. I got this. Let's go!_
@@ -2601,7 +2609,7 @@ Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, sho
 
 In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
 
-Here's why: we were only minorly measured on accuracy or customer satisfaction. But we were exactly measured on hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served and not take up their time about our bad service. And, brokers could send customers to other companies. 
+Here's why: we were only minorly measured on accuracy or customer satisfaction. But we were exactly measured on hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served and not take up their time about our bad service. Importantly, we always know that brokers could send customers to other companies.
 
 So the hold metric became everything.
 
@@ -2749,9 +2757,9 @@ I was learning to adapt. The newbie I taught said it was "Adjusting 101—no wai
 
 ### Story 9 - WOP
 
-When the snow falls, the bell dings.
+WWhen the snow falls, the bell dings.
 
-After a snowstorm came the true car claims center drama. We were staffed for yearly averages. But weather spikes didn't change the promise made to customers about limited hold times.
+After a snowstorm came the true car claims center drama. We were staffed for yearly averages. But weather spikes didn't change the promise made to customers about short hold times.
 
 One storm was particularly bad. Several feet of snow in hours.
 
@@ -2759,9 +2767,9 @@ We were told to drive to the call center to answer calls from people who'd just 
 
 The crashes spiked, the bell rang nonstop for days. DING DING DING.
 
-One coworker, Tildy, handled "Without Prejudice" claims—meaning we officially told insureds the claim might not be covered. On one call, she spoke to a widow. Her husband had burned alive in the car—only his hands remained on the steering wheel. The widow was sobbing: "I need to see the car. I need to see it."
+One coworker, Tildy, handled serious and "Without Prejudice" claims—meaning we officially told insureds the claim might not be covered, often for impaired driving or fraud suspicions. On one extremely serious claim, she spoke to a widow. Her husband had burned alive in the car—only his hands remained on the steering wheel. The widow was sobbing: "I need to see the car. I need to see it."
 
-We were just claims adjusters, not therapists. We learned to deal with these conversations by encountering them. We tried to support a usually tough but now breaking Tildy as she spoke for an hour with the widow.
+We were just claims adjusters, not therapists. We learned to deal with these conversations by encountering them. We tried to support a usually tough but now breaking Tildy as she spoke for an hour with the suffering widow.
 
 Her manager noticed how long the call was taking. He came over and snapped his fingers.
 
@@ -2769,9 +2777,13 @@ Her manager noticed how long the call was taking. He came over and snapped his f
 
 We all just stared at him.
 
-Around this time, head office sent an email. Adjusters had been abbreviating "Without Prejudice" as WOP in our notes. It was deemed very offensive. I guess decades ago Italians were called "Without Papers," or WOP for short. I don't know what the connection is beyond the three letters. While we dealt with customers' tragedies, no one studied the cause of them to give forewarning to our customers, yet head office worried about acronyms.
+Around this time, head office sent an email. Adjusters make notes about everything while on the phone; it's how we document and justify our decisions. We use short hand to keep up with conversations. Most abbreviate, insured is "insd", other driver is "TP", and Without Prejudice is "WOP".
 
-I do know that when the CEO visited from head office a few years later, the managers turned the bell off for the day.
+After decades of doing this, it was deemed very offensive by an unknown person. I grew up with Italians, several were in claims with me, but didn't know decades ago their grandparents were sometimes called "Without Papers," or WOP.
+
+I don't know the connection beyond the three letters. We dealt with customers' tragedies—thefts, abductions, murders, burning alive—everyday, with no training and no one studied the cause beyond what was documented in our notes and phone calls.
+
+I do know when the CEO visited from head office a few years later, the managers turned the bell off for the day.
 
 ### Story 10 - Just a Job
 
@@ -2797,35 +2809,37 @@ I was flustered. It seemed like a terrible deal.
 
 My trainers were on the nice carpeted floor—laughing without control. I kept muting my headset to ask for help. The insured was as confused as I was. He was definitely getting really mad though.
 
-He was a member of a religious community and didn't have the typical emotional vocabulary insureds use to express his disgust. But he knew he'd been buying insurance only to have us take his truck for less than the value of a single tire.
+He was a member of a religious community and didn't have the typical emotional vocabulary insureds use to express disgust. But he knew he'd been buying insurance for years only to have us take his truck for less than the value of a single tire.
 
 My trainers left the office. I don't know where, but they came back hours later, still red-faced and teary.
 
-I spent weeks dealing with a very upset customer.
+I spent weeks dealing with a very upset customer. I understood—sometimes adjusters make mistakes too.
 
 I learned another lesson: read settlements beforehand, prepare insureds for bad news. Claims was like sales in reverse—we had to sell people on something they'd already bought. Better done when they didn't hate you.
 
 I eventually got his truck towed back to his country home. I miss those friends. We learned the ropes together.
 
-### Story 11 - Not unique
+### Story 11 - Not unique - change candidate
 
 Most claims had one or more other drivers involved. So we talked to other adjusters constantly.
 
 An easy way to relate to these colleagues was to ask, "What's your pending?"
 
-Translation: how many claims do you have open? The system wasn't just inside one department, but everywhere. So the higher the pending, the higher the daily grind of the adjuster.
+Translation: how many claims do you have open? The higher the pending, the higher the daily grind of the adjuster.
 
-Mine was usually 50–80. Some other insurance companies had 200. You'd hear it in their voice.
+Mine was usually 50–80. Some other insurance companies had 200 and a hold time of an hour. You'd hear it in their voice.
 
 I'd talk to these adjusters and realize my department was actually one of the better ones out there. We actually mostly got along. We went on trips, did bar nights, celebrated each other's achievements (our happiest was when someone "got out").
 
-But they, and we, were simply up against a wall. The stream of problems we encountered were not caused by us, but since "insurance" is associated with making problems go away, a person running a red light or getting their car stolen on vacation became our problem to help solve.
+But they, and everyone, were simply up against a wall.
+
+The stream of problems we encountered were not caused by us, but since "insurance" is associated with making problems go away, a person running a red light, or getting their car stolen on vacation became our problem to help solve, or so many other weird scenarios.
 
 One of my claims happened in a different state.
 
 I could not find its government regulations. I tried and tried, called and searched around. Nothing.
 
-I eventually got it days later. The regulation said a driver could sue the at-fault driver for $1,000. Any damage above that the driver must have their own collision coverage. This was very unusual, and I had to explain that to my insured over a long phone call.
+I eventually got it days later. The regulation said a not-at-fault driver could sue the at-fault driver for $1,000. Any damage above that the not-at-fault driver must have their own collision coverage. This was very unusual, and I had to explain that to my insured—with no collision—over a long phone call.
 
 Yet, after asking "what's your pending?" to hundreds of adjusters around the country, these stories were common everywhere. Just food for thought. These are not just stories of my job, but of your economy.
 
@@ -2857,13 +2871,15 @@ The point is, most claims went fine—it's just many had problems that clogged u
 
 Here's a funny fact I love to share with everyone, especially people who love or hate new technology.
 
-The smoothest claims often came via snail mail. Usually elderly people with no computer, who filled out ancient paper claim forms, photocopied their invoices and receipts, and got their pictures printed.
+The smoothest claims often came via snail mail. Usually elderly people with no computer, who filled out paper claim forms, photocopied their invoices and receipts, and got their pictures printed.
 
 Here's why: they always took the time to collect everything I needed to process their claim.
 
 Most people, of course, love the speed of smartphones. Yet speed meant less preparation. It wasn't unusual to get 10 emails from a person in one day—each with a single photo, or a question they could've asked in the first message.
 
-The claims system originated back when people mailed documents and adjusters mainly called to discuss conclusions. We bolted new technology onto the system as it arose without rethinking the process. So we got the chaos of digital communication layered onto a system designed for paper.
+The claims system originated back when people mailed documents and adjusters mainly called to discuss conclusions. We bolted new technology onto the system as it arose without rethinking the process.
+
+I'd think when reading these ancient paperforms, "I think we got the chaos of digital communication layered onto a system designed for paper".
 
 ### Story 13 - Perfect Example
 
@@ -2929,7 +2945,7 @@ Every adjuster's favorite question. I'd learned the best response by then.
 
 I said it gently. I was having a conversation; she was being the bully.
 
-"I can't believe this. This isn't my problem."  By the way the bell was probably going DING DING DING.
+"I can't believe this. This isn't my problem." The bell was probably going DING DING DING by the way.
 
 "With respect, it is if you want to drive a Land Rover as a rental I don't know of any company that stocks those. They usually opt for reliable cars with good resale values."
 
@@ -2959,6 +2975,7 @@ This all became the practical foundations of Techvolution.
 
 - list cost of a typical crash.
 - traffic class vs home work.
+- when face to face, people were always nicer.
 
 ## Notes
 
@@ -2990,8 +3007,16 @@ Kaiser Family Foundation. "Average Annual Family Premium per Enrolled Employee F
 <!-- Tuition Increase -->
 Dickler, Jessica, and Annie Nova. "This Is How Student Loan Debt Became a $1.7 Trillion Crisis." CNBC, May 6, 2022. https://www.cnbc.com/2022/05/06/this-is-how-student-loan-debt-became-a-1point7-trillion-crisis.html.
 
+Ma, Jennifer, Matea Pender, and Xiaowen Hu (2025). Trends in College Pricing and Student Aid 2025, New York: College Board. 2025.
+https://research.collegeboard.org/trends/college-pricing/report-archive
+College Board's "Trends in College Pricing" Average in-state tuition from ~$4,000 in 1991 to ~$11,000 in 2023, nominal.
+
 <!-- Food price increase -->
 Stewart, Hayden, Diansheng Dong, and Charles Grigsby-Calage. "Food Price Outlook - Summary Findings." Economic Research Service, U.S. Department of Agriculture. Updated April 25, 2025. Accessed May 1, 2025. https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings.
+
+
+
+
 
 <!-- Student loans -->
 Board of Governors of the Federal Reserve System. "Consumer Credit Outstanding (Levels)." Accessed April 24, 2023. https://www.federalreserve.gov/releases/g19/hist/cc_hist_memo_levels.html.
