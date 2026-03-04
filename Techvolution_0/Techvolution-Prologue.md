@@ -11,7 +11,7 @@ _"Technology is anything that was not around when you were born."_
 
 ## Author's Note
 
-This isn't a book that will tell you stuff is getting bad and to fix them here's what someone else needs to change. This is the book that explains, stuff is getting bad, here is the beginning of the scientific understanding why stuff is getting bad, and here is how "I, the reader", can adapt in order to fix them.
+This isn't a book that will tell you stuff is getting bad and to fix them here's what _someone else_ needs to change. This is the book that explains, stuff is getting bad, here is the beginning of the scientific understanding why stuff is getting bad, and here is how _"I, the reader"_, can adapt in order to fix them.
 
 In other words, this is a book for people in the middle. I hope you like it.
 
@@ -57,7 +57,7 @@ And that is the evolution of new species better suited to win the game.
 
 You can harness this winning strategy, once you realize we prosper by evolving new technologies, tools, and ways of life. Happily, we have already created many of the technological adaptations we need to evolve our civilization.
 
-That is because by the early 1970s, something fundamental shifted: the Mother of All Demos (1968) showed interactive computing's potential, ARPANET (1969) proved networked communication could work, and the microprocessor (1971) made computation portable. The core building blocks of networked personal computing existed simultaneously. As they converged over the next few decades, the Industrial Age was giving birth to the Internet Age. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place in nature.
+That is because by the early 1970s, something fundamental shifted: the Mother of All Demos (1968) showed interactive computing's potential, ARPANET (1969) proved networked communication could work, and the microprocessor (1971) made computation portable. The core building blocks of networked personal computing existed simultaneously. As they converged over the next few decades, the Industrial Age gave birth to the Internet Age. It was not long until amazing new digital products filled the world like so many offspring seeking to win their place in nature.
 
 Sadly, many established people and businesses did not embrace modern inventions, hoping to unnaturally keep their own technologies alive. 
 
@@ -103,6 +103,6 @@ The goal is to create an ecosystem similar to Apple's, but more decentralized an
 
 ## About the Author
 
-This book attempts a leap in human understanding. That is quite a bold task; I am not sure what qualifies anyone to undertake it. I have a quality formal education and have worked in various industries, which helps grounds a mind when trying think differently. I tried very hard (and it turns out quite foolishly) to get scientific data to showcase techvolution. As you will learn, it turns out being thwarted in that task revealed more truths than the evidence would have.
+This book attempts a leap in human understanding. That is quite a bold task; I am not sure what qualifies anyone to undertake it. I have a quality formal education and have worked in various industries, which helps grounds a mind when trying to think differently. I tried very hard (and it turns out quite foolishly) to get scientific data to showcase techvolution. As you will learn, it turns out being thwarted in that task revealed more truths than the evidence would have.
 
 As a kid in a grocery store, two friends were fighting over which cake to buy. Unable to participate for reasons you will soon learn about, I resolved to fix the tiresome bickering. So, I listened to both sides; one wanted chocolate the other vanilla. I left unnoticed and returned with a marbled cake. Both fell silent, and we soon enjoyed the taste of compromise as happy friends. It is a mentality I had and honed while looking out into our society, researching, and writing this book.
