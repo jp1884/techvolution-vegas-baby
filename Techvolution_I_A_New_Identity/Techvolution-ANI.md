@@ -7,7 +7,7 @@
 
 - see our lives/jobs not as bro vs fighting over tech to advance their genes but as on independent (tech) ecosystem that we harness/car for, like a farmer from foraging to farming.
 
--  identity shift as genetic shift!
+- identity shift as genetic shift!
 
 - Take a moment to list three tools you rely on daily. For each, ask: How did this tool change the way I solve a problem? What would happen if I lost it tomorrow? Which new tool could replace or augment it tomorrow?”
 
@@ -46,7 +46,7 @@ Spanning the breadth of human history, _Techvolution_ reframes the human story b
 
 ## Dedication
 
-_This book is especially dedicated to the middle class. You've been squeezed by an economy still clinging to Industrial Age structures while the Internet Age offers new possibilities. The open-source community has already built many of the tools we need—now it's time to embrace them and build the future together._
+_This book is dedicated to the middle class. Clinging to Industrial Age tools, habits, and ways of life has squeezed us for decades. The open-source community has already built the tools of the Internet Age that will return us to prosperity—if we just reach out and grab them._
 
 ## Book Series
 
@@ -198,7 +198,9 @@ Where We Are, and Where We're Going
 
 On August 24th, year 79, Mount Vesuvius erupted. The volcano pushed ash clouds miles into the sky. Soon scorching debris was falling for miles around like snow during a fierce Siberian blizzard. Thereafter, Italian towns Pompeii and Herculaneum were frozen in a single, catastrophic moment. A snapshot of Roman life was preserved under endless ash—everything from bread in ovens to human expressions of terror, from artistic frescoes to fragile scrolls.
 
-Yet this moment of destruction was just another period of profound loss. Even with all the many ruins we can visit today, most of everything from the ancient world is gone. For example, historians estimate that over 99% of ancient literature was lost to time—burned, destroyed, disintegrated, or simply forgotten. Entire libraries, generations of human knowledge, vanished like the smoke of Mount Vesuvius. The Library of Alexandria, with its hundreds of thousands of scrolls, would become the most famous casualty of this sad intellectual loss.
+Yet this moment of destruction was just another period of profound loss.
+
+Even with all the many ruins we can visit today, most of everything from the ancient world is gone. For example, historians estimate that over 99% of ancient literature was lost to time—burned, destroyed, disintegrated, or simply forgotten. Entire libraries, generations of human knowledge, vanished like the smoke of Mount Vesuvius. The Library of Alexandria, with its hundreds of thousands of scrolls, would become the most famous casualty of this sad intellectual loss.
 
 But some fragments survived, often in garbage dumps, old churches, or disaster sites like Pompeii and Herculaneum.
 
@@ -206,7 +208,7 @@ Covered by ash, the scrolls from Pompeii and Herculaneum were far too fragile to
 
 Until, like the microscope let us see unknown tiny worlds, modern CT scanners could finally peer inside the ash scrolls, and machine learning algorithms could decode the information the scans uncovered. Now, after nearly 2000 years, we could finally read this time capsule of information.
 
-Even so, Dr. Elena Stavros hadn't expected much when she ran the first fragment through the advanced CT scan. After endless hours in her lab she kept thinking "Another piece of ancient debris is another dead end". But something in one of the algorithmic reconstructions dazzled her eye.
+Even so, Dr. Elena Stavros hadn't expected much when she ran the first fragment through the advanced CT scan. After endless hours in her lab she kept thinking "Another piece of ancient debris; another dead end". But something in one of the algorithmic reconstructions dazzled her eye.
 
 Lines of text emerged. The machine learning model peeled back layers of carbon and time, revealing Greek characters that seemed to shimmer like fairy dust on her computer monitor.
 
@@ -410,7 +412,7 @@ It's entirely possible Socrates or his students would have made the connection t
 
 Surrounded by far more wilderness, ancient Greeks cherished their language, plays, ships, trade, and civilization. Wilderness was seen as a dangerous realm that required a civilized hero to subdue. Moreover Greeks were extremely adventurous, competitive, warlike, and commercial. Many people experienced tragedies such as shipwrecks, plagues, or sieges that made technology's value as the differentiator between survival and flourishing readily apparent.
 
-Thus, Greeks might have naturally accepted technological evolution as the guiding principle of their fate. They already had innovative tool using heroes such as Achilles and Odysseus but explained their success because of mythical abilities instead of their willingness to drop tools and master new ones as needed; famously seen when Odysseus built the Trojan horse to finally conquer Troy after failing for a decade to take the walled city by traditional siege warfare.
+Thus, Greeks might have naturally accepted technological evolution as the guiding principle of their fate. They already had tool-using heroes such as Achilles and Odysseus but explained their success because of mythical abilities instead of their willingness to drop old tools and master new ones as needed; famously seen when Odysseus built the Trojan horse to finally conquer Troy after failing for a decade to take the walled city by traditional siege warfare.
 
 What the Greeks lacked was an understanding of evolution as a universal law.
 
@@ -1326,15 +1328,11 @@ How did we spread around the world, and how did we develop tools? We planted and
 
 Let's look at these stories so we can realize why techvolution is the scientific understanding of the human condition.
 
-## Chapter 12 - Stories Vignettes 
+## Chapter 12—Stories Vignettes 
 
 _The gods did not reveal, from the beginning, all things to us, but in the course of time through seeking we may learn & know things better. But as for certain truth no man knows it, nor shall he know it, neither of the gods nor yet of all things that I speak. For even if by chance he were to utter The Final Truth, he would himself not know it: for all is but a woven web of guesses._
 
 Xenophanes, Greek Historian, 6th Century BC.
-
-- elephant gathering.
-
-A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers. Meaning orange is a job, orange and stripes is just how it does it, the second deer can see red, tigers would have to adapt. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which is lives.
 
 We will discuss what politics (mixed...) and economics (bumblebee...), but we just need you to see others, and admit for yourself, that we are technology....
 
@@ -1345,6 +1343,67 @@ We've explored how life plays the game of evolution. Creatures strive to survive
 The most fundamental of these rules are the universal laws of physics, chemistry, and geography. These control how players can move, adapt, and survive. Beyond knowing their names and equations, we'll examine how different civilizations have used storytelling, philosophy, and scientific understanding to decode, negotiate, and ultimately master these laws.
 
 By understanding their different strategies, tools, and insights across multiple eras, we'll understand how humans transformed. We still roll the dice each day, but our success increased with each new year as we moved from be passive players to active architects of our own evolutionary trajectory.
+
+### Biological Stories
+
+#### Weed Seeds
+
+Wind carries seeds. Seeds land. Most keep moving.
+
+Three seeds land. One on rock, another in water, the last in a crevice.
+
+The seed on smooth stone is wedged beneath stone, baking under intense light. There is hardness here. There is heat. There is no water. The seed does not crack. It waits. It remains.
+
+More seeds ride the wind.
+
+The seed in water swells. Roots spread into the wetness. Water is abundant. There is sunlight here. There is water here. Stem reaches upward. Leaves unfurl. The plant rises.
+
+Light comes. Light goes. Light comes. Light goes. Light comes. Light goes. Water recedes. Water vanishes. Roots reach across damp rock. Roots tangle. There is no water here. Leaves curl. Growth stops. The plant weakens.
+
+Water drains. Green turns brown. Plant dies. Dryness, dust, blown into the wind.
+
+Life withdraws.
+
+The seed in crevice. Water pools in shadow. The seed absorbs. Roots emerge, pushing into the narrow gap. There is sand. Roots push deeper. There is more sand. Roots continue. Sand resists. Roots push past. Deeper still. There is water here—trapped water, sealed from light, sealed from evaporation.
+
+Stem extends upward. There is no light. Stem continues. There is light. Leaves unfurl. Light becomes glucose. Carbon pulls inward. Oxygen pushes outward.
+
+Water needed. Roots drink. Water carries minerals. Magnesium flows upward. Iron flows upward. Nitrogen flows upward. More roots extend. Water feeds them. Minerals feed them. They push further into rock, widening the crevice, breaking stone into smaller pieces.
+
+Roots deepen into stone. Stone yields slowly. Water flows constantly from below, never depleting, never exposed to heat. Roots drink. Minerals flow. What is taken becomes growth.
+
+Wind, rain, light. Wind, rain, light. More water, more minerals, more glucose. Carbon in. Oxygen out. There is water here. There is light here. There are minerals here.
+
+Life persists.
+
+Wind comes. More wind. More and more, bending, bending. Stem breaks.
+
+Leaves on rock. No light. Growth slows. The plant weakens.
+
+Green becomes brown. The plant decays. Matter breaks down, falls on barren rock. Organic material accumulates. Moisture retention increases. Minerals return to rock.
+
+Wind comes.
+
+Two seeds land in fertile ground. Roots extend immediately. Water is here. Minerals are here. Organic matter is here. Growth comes rapidly. The plants rise. Their roots break more stone. Their leaves fall and accumulate.
+
+Flowers burst. Pollen in wind. Seeds form. Seeds fall.
+
+More generations follow. Organic material becomes soil. Soil deepens. Life spreads.
+
+Soil touches the first seed, the one lodged in rock. Water touches the seed coat. Roots emerge. There is water here now. There are minerals here now. Roots extend deeper. There is more water. More minerals.
+
+Carbon in. Oxygen out. Light becomes glucose. Life continues.
+
+
+#### Elephant Gathering
+
+Elephants gather in the woods from miles round. Yet, they are not having a conference. Nor are they from the same ecosystem. They need the clay. And they enjoy each other's company...
+
+- A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers. Meaning orange is a job, orange and stripes is just how it does it, the second deer can see red, tigers would have to adapt. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which is lives.
+
+- work into this the way biological ecosystems work. and then input some version of artificial selection by the players, showcase how silly it is to spend time on excess like larger bear dens and what not...
+
+
 
 ### Mythological Truths
 
@@ -1502,7 +1561,7 @@ Regardless, the Vikings and Polynesians abilities are still very remarkable toda
 
 ## Interludes
 
-Practical stories to interperse between chapters in Techvolution: A New Identity.
+Practical stories to intersperse between chapters in Techvolution: A New Identity.
 
 ### Story 1 - Handset
 
@@ -1532,7 +1591,7 @@ But maybe he was moving, which would make the claim 50/50 at fault. After some b
 
 No lies, no uncertainty, no stuttering!
 
-"Don't get used to hearing that," my trainer replied to my good news with these sullen words.
+"Don't get used to hearing that," my trainer replied to my good news.
 
 "Why not?" I wondered.
 
@@ -1660,7 +1719,7 @@ Someone's car was stolen, or there was a hit-and-run, sometimes even a drive-by 
 
 Two claims I especially can't forget.
 
-One coworker was given a pile of claims to investigate after a large flood. He got to one fine country home, asked to see the water damage, and told the homeowner to send in their damaged items list for review. We call these "cat" claims—as in catastrophe.
+One coworker was given a pile of claims to investigate after a large flood. He got to one fine country home, asked to see the water damage, and told the homeowner to send in their damaged items list for review. This was the first time I learned about "cat" claims—as in catastrophe.
 
 Another was a call I got after 5:00 PM on the emergency call-in queue. It was a young single mother. The waste pipes had burst in her walls. I was still just a car adjuster, but procedure was to send contractors over to contain the damage, a property adjuster would later review if insurance covers the bill.
 
@@ -1748,7 +1807,7 @@ I was learning to adapt. The newbie I taught said it was "Adjusting 101—no wai
 
 ### Story 9 - WOP
 
-WWhen the snow falls, the bell dings.
+When the snow falls, the bell dings.
 
 After a snowstorm came the true car claims center drama. We were staffed for yearly averages. But weather spikes didn't change the promise made to customers about short hold times.
 
@@ -1810,7 +1869,7 @@ I learned another lesson: read settlements beforehand, prepare insureds for bad 
 
 I eventually got his truck towed back to his country home. I miss those friends. We learned the ropes together.
 
-### Story 11 - Not unique - change candidate
+### Story 11 - Not unique
 
 Most claims had one or more other drivers involved. So we talked to other adjusters constantly.
 
@@ -1852,11 +1911,15 @@ Years later, our receptionist asked me to visit her. Sometimes people mail in th
 
 It was not.
 
-It was a present. An Edible Arrangement, in fact. I feel bad that I can't remember the claim or the lady. It was just a typical claim to me. But she was very appreciative and sent in a present.
+It was a present. An Edible Arrangement, from a thankful insured. It happened a few times a year. I feel bad that I can't remember the claim or the lady, he thanked me for helping her out. 
 
-It did happen sometimes. One adjuster, Susan, got a bunch.
+I can re-create the claim process though.
 
-The point is, most claims went fine—it's just many had problems that clogged up the system. And those angry people called often.
+I'm almost positive that she had the other drivers information. She knew where she wanted her repairs done. She was happy with the new Toyota Camry for her rental car. The other driver reported their claim too. Both drivers had the same version of events. Liability was easy to confirm.
+
+All I did was assess this information after everyone did their part.
+
+The point is, claims are collaborations, and often went fine—it's just problems caused by insureds, adjusters, and others could easily clogged up the system. And those angry people called especially often.
 
 In the vein of happy customers, here's a funny fact I love to share with everyone, especially people who love or hate new technology.
 
@@ -1866,9 +1929,9 @@ Here's why: they always took the time to collect everything I needed to process 
 
 Most people, of course, love the speed of smartphones. Yet speed meant less preparation. It wasn't unusual to get 10 emails from a person in one day—each with a single photo, or a question they could've asked in the first message.
 
-The claims system originated back when people mailed documents and adjusters mainly called to discuss conclusions. We bolted new technology onto the system as it arose without rethinking the process.
+The claims system originated back when people mailed documents and adjusters called to discuss conclusions. We bolted new technology onto the system as it arose without rethinking the process.
 
-I'd think when reading these ancient paperforms, "I think we got the chaos of digital communication layered onto a system designed for paper".
+I'd think when reading these ancient paper forms, "Why is this so easy. Most people know how to use new technology, but our society hasn't yet learned to work together using it.
 
 ### Story 13 - Perfect Example
 
@@ -1958,14 +2021,22 @@ Soon after, I got promoted to property adjuster. A totally different vibe. I had
 
 I learned much doing property claims too, but those years in auto claims effectively cured my stutter and by chance happened to be extremely educational. The over 2,000 claims, 8,000 queue calls, endless emails and voicemails, and uncountable interactions from everybody between lawyers to plumbers, NBA stars to single parents, body repair shops to other adjusters, taught me how managers, workers, and consumers interact to make todays struggling economy.
 
+The struggle isn't inevitable. The tools to fix it already exist. The problem is we're using biological instincts and ideological frameworks to navigate an quickly evolving technological ecosystem.
+
 This all became the practical foundations of Techvolution.
 
 ### Misc.
 
 - list cost of a typical crash.
-- traffic class vs home work.
-- when face to face, people were always nicer.
-- almost no one stops to help
+- college traffic class vs data entry home work experience.
+- asshat when face to face, people were always nicer.
+- almost no one stops to help/witness
+- "f'in insurance asshole"
+- abduction
+- "i guess i'm f'ing useless"
+- thanks, here's a kind gesture...."did you say this guys rates won't go up"
+- suspended license, parking tickets, cover?
+- lost son, one act play
 
 ## Notes
 

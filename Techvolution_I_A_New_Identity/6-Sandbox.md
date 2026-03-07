@@ -3784,3 +3784,21 @@ Welcome to the next chapter of human potential.
 ### AI Mirror—
 
 ====
+
+Erwin Schrödinger, "What is Life?" 
+
+> "If entropy doesn't set the arrow of time, what does? A living organism feeds on negative entropy. that is it consumes order from its environment. that change compensates for the entropy increase is causes by living. The trick by which the organism remains highly order is in reality, by perpetually vacuuming order from its environment."
+Erwin Schrödinger, "What is Life?" — quote taken from Chapter 16 of "Now: The Physics of Time"
+
+> "We must therefore not be discouraged by the difficulty of interpreting life by the ordinary laws of physics. For that is just what is to be expected from the knowledge we have gained of the structure of living matter. We must be prepared to find a new type of physical law prevailing in it. Or are we to term it a non-physical, not to say a super-physical, law?"
+https://archive.org/details/WhatIsLife-EdwardSchrodinger/page/n27/mode/2up
+Erwin Schrödinger, "What is Life?" 
+
+
+===
+
+
+
+
+
+
