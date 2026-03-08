@@ -1330,7 +1330,7 @@ Let's look at these stories so we can realize why techvolution is the scientific
 
 ## Chapter 12—Stories Vignettes 
 
-_The gods did not reveal, from the beginning, all things to us, but in the course of time through seeking we may learn & know things better. But as for certain truth no man knows it, nor shall he know it, neither of the gods nor yet of all things that I speak. For even if by chance he were to utter The Final Truth, he would himself not know it: for all is but a woven web of guesses._
+_The gods did not reveal, from the beginning, all things to us, but in the course of time through seeking we may learn and know things better. But as for certain truth no man knows it, nor shall he know it, neither of the gods nor yet of all things that I speak. For even if by chance he were to utter The Final Truth, he would himself not know it: for all is but a woven web of guesses._
 
 Xenophanes, Greek Historian, 6th Century BC.
 
@@ -1350,49 +1350,129 @@ By understanding their different strategies, tools, and insights across multiple
 
 Wind carries seeds. Seeds land. Most keep moving.
 
-Three seeds land. One on rock, another in water, the last in a crevice.
+Three seeds fall.
 
-The seed on smooth stone is wedged beneath stone, baking under intense light. There is hardness here. There is heat. There is no water. The seed does not crack. It waits. It remains.
+One on rock, another in water, the last in a crevice.
+
+The seed on smooth stone is wedged beneath boulder, baking under intense light. There is hardness here. There is heat. There is no water. The seed does not crack. It waits. It remains.
 
 More seeds ride the wind.
 
 The seed in water swells. Roots spread into the wetness. Water is abundant. There is sunlight here. There is water here. Stem reaches upward. Leaves unfurl. The plant rises.
 
-Light comes. Light goes. Light comes. Light goes. Light comes. Light goes. Water recedes. Water vanishes. Roots reach across damp rock. Roots tangle. There is no water here. Leaves curl. Growth stops. The plant weakens.
+Light comes. Light goes. Light comes. Light goes. Light comes. Water recedes. Water vanishes. Roots reach across damp rock. Roots tangle. There is no water here. Leaves curl. Growth stops. The plant weakens.
 
 Water drains. Green turns brown. Plant dies. Dryness, dust, blown into the wind.
 
 Life withdraws.
 
-The seed in crevice. Water pools in shadow. The seed absorbs. Roots emerge, pushing into the narrow gap. There is sand. Roots push deeper. There is more sand. Roots continue. Sand resists. Roots push past. Deeper still. There is water here—trapped water, sealed from light, sealed from evaporation.
+The seed in the crevice. Water pools in shadow. The seed absorbs. Roots emerge, pushing into the narrow gap. There is sand. Roots push deeper. There is water here—trapped water, sealed from light, sealed from evaporation.
 
 Stem extends upward. There is no light. Stem continues. There is light. Leaves unfurl. Light becomes glucose. Carbon pulls inward. Oxygen pushes outward.
 
-Water needed. Roots drink. Water carries minerals. Magnesium flows upward. Iron flows upward. Nitrogen flows upward. More roots extend. Water feeds them. Minerals feed them. They push further into rock, widening the crevice, breaking stone into smaller pieces.
+The plant needs water. Roots drink. Water carries minerals. Magnesium flows upward. Iron flows upward. Nitrogen flows upward. Glucose flows downward. More roots extend. They push further into rock, widening the crevice, breaking stone into smaller pieces.
 
-Roots deepen into stone. Stone yields slowly. Water flows constantly from below, never depleting, never exposed to heat. Roots drink. Minerals flow. What is taken becomes growth.
+Wind comes. Stem bends. Wind returns. Stem breaks.
 
-Wind, rain, light. Wind, rain, light. More water, more minerals, more glucose. Carbon in. Oxygen out. There is water here. There is light here. There are minerals here.
+Leaves fall on rock. No light reaches them. Growth slows. The plant weakens.
 
-Life persists.
-
-Wind comes. More wind. More and more, bending, bending. Stem breaks.
-
-Leaves on rock. No light. Growth slows. The plant weakens.
-
-Green becomes brown. The plant decays. Matter breaks down, falls on barren rock. Organic material accumulates. Moisture retention increases. Minerals return to rock.
+Green becomes brown. The plant decays. Biomatter breaks down, falls on barren rock. Organic material accumulates. Moisture retention increases.
 
 Wind comes.
 
-Two seeds land in fertile ground. Roots extend immediately. Water is here. Minerals are here. Organic matter is here. Growth comes rapidly. The plants rise. Their roots break more stone. Their leaves fall and accumulate.
+Three seeds fall in fertile ground.
+
+Roots extend immediately. Water is here. Minerals are here. Organic matter is here. Growth comes rapidly. The plants rise. Their roots break more stone. Their leaves fall and accumulate.
 
 Flowers burst. Pollen in wind. Seeds form. Seeds fall.
 
-More generations follow. Organic material becomes soil. Soil deepens. Life spreads.
+More generations follow. Organic material becomes soil. Soil deepens. Dead material becomes life.
 
-Soil touches the first seed, the one lodged in rock. Water touches the seed coat. Roots emerge. There is water here now. There are minerals here now. Roots extend deeper. There is more water. More minerals.
+Three seeds fall.
 
-Carbon in. Oxygen out. Light becomes glucose. Life continues.
+Soil is moist. Soil has nutrients.
+
+One stem grows fast—tall, thin, straight. Leaves unfurl. Sunlight becomes glucose. Roots consume water. Wind comes. The tall stem sways. Wind returns. The stem snaps. Growth stops.
+
+Another stem grows upward, then wide. Light is scarce. Leaves spread low to capture it. Wind comes. The wide plant bends but does not break. Growth continues.
+
+The last stem grows tall, thin, slow. It reaches higher than the others. Leaves unfurl above the wind's strongest currents. Wind comes. The stem bends but does not break. Roots drink deep. Growth persists.
+
+Flowers burst. Pollen in wind. Seeds form. Seeds fall.
+
+Soil deepens. Life spreads.
+
+Light changes. It dims. Not gradually. This dimming persists. Days pass. Light does not return.
+
+Particles fall from sky. Ash. Fine and constant. They settle on leaves, coat the ground, carry minerals that enrich soil. But they block light.
+
+Plants still reach upward. Stems extend toward where light was. Leaves unfurl toward dimness. There is no light anywhere.
+
+Seeds fall. None crack. There is no light.
+
+Stems weaken. Plants collapse.
+
+Fungi feed on decay. Dead leaves accumulate. Dead stems fall. Dead roots rot in soil. The fungi consume this biomaterial, breaking it down, returning elements to earth. They do not need light. Life persists.
+
+One stem grows. Some light is here. Leaves unfurl.
+
+Leaves are red. Light becomes glucose. More leaves grow. Stem rises.
+
+Roots send nutrients upward. Leaves send glucose downward.
+
+Other variations emerge. Some survive. Some do not. Life adapts to new conditions.
+
+Ash settles into soil. Sunlight returns.
+
+Three seeds fall.
+
+- 
+establish, grow, diversify. (mention genotype, phenotype more explicitly?)
+change.
+establish, grow, diversify.
+change.
+
+===
+
+Eggs hatch. Larvae move up, down, left, right. Plant is soft. Plant is edible.
+
+Larvae eat. Larvae grow.
+
+Larvae picked up. Jaws close. Crunch. Larvae wrapped in silk. Stuck.
+
+Larvae eat more. Larvae grow. Wings form. Light is above. Insects fly toward light.
+
+Scent drifts. Sweetness. One insect turns toward scent. Flower is here. Insect lands. Nectar is here. Insect drinks. Energy flows. Insect flies. More flowers. More nectar. Energy high.
+
+Insect survives.
+
+Another insect flies toward light. No scent. Insect continues. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insect falls. Ground is hard. Insect weakens. Insect is picked up. Taken away. Movement stops.
+
+One insect flies toward light. Scents drift. Insect keeps flying. Up, down, left, right.
+
+Sticky thread touches wing. Insect flies harder. Thread holds. Insect flaps wings harder. Thread wraps. Insect struggles. Movement stops. Spider comes.
+
+Insect flying. Threat. Big thing moving. Insect goes up, down, left, right. Thing is gone. Insect keeps flying.
+
+Many more insects fly.
+
+Some follow scent to flowers. Some fly until exhaustion. Some land in webs. Some land on water. Fish rise. Insects drown. Some land on stone, lift off, keep flying.
+
+Insects that follow scent survive. Insects that avoid movement survive.
+
+One red eye insect detects scent from farther away. Turns toward flower before others. Arrives first. Nectar is abundant. Energy high. Insect survives. 
+
+Insects gather on plants. Insects mate. Eggs attach beneath leaves.
+
+Cold comes. Flowers die. Scent fades.
+
+Warmth returns.
+
+Brood hatches. More hatchings have red eyes.
+
+--
+
+more agency in fate.
 
 
 #### Elephant Gathering
