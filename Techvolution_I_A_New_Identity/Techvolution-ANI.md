@@ -1427,10 +1427,12 @@ Ash settles into soil. Sunlight returns.
 Three seeds fall.
 
 - 
+<!-- 
 establish, grow, diversify. (mention genotype, phenotype more explicitly?)
 change.
 establish, grow, diversify.
-change.
+change. 
+-->
 
 ===
 
@@ -1472,7 +1474,47 @@ Brood hatches. More hatchings have red eyes.
 
 --
 
-more agency in fate.
+<!-- more agency in fate. -->
+
+===
+
+Chameleon is dark at dawn. Cold makes it dark. Dark pulls warmth from light.
+
+The branch is thin. Other branches are thicker. Chameleon moves toward thickness. Its feet grip, tail curls. One eye watches the trunk. One eye watches the sky.
+
+Chameleon moves. Same speed. Through brown branches green leaves. It looks up, looks down. No movement. It turns green.
+
+Movement. A fly lands high left. Move body both eyes see fly. Distance looks good. Chameleon opens its mouth.
+
+Tongue moves slowly. Slowly unfurls. The tongue shoots. The fly lifts. The tongue returns empty.
+
+Chameleon stays. Maybe another fly will come. No fly. Chameleon moves.
+
+Another fly. Lower branch. Too far. Chameleon moves. Slow. Slow. Both eyes forward. Distance looks good. Tongue moves slowly. The fly cleans its legs. Tongue shoots.
+
+The fly lifts.
+
+Chameleon moves. Through brown branches soft red leaves. It looks up, looks down. A beetle crawls on bark. Too big.
+
+Hungry makes it slow. Slow makes it cold. It moves to sun. Sits, turns dark red. Warmth comes. Color becomes soft red.
+
+Another fly. High right. It moves. Not close. Closer. The fly stays. Both eyes forward. Wait. Tongue moves slowly. Wait. Tongue shoots.
+
+Fly caught. Tongue comes in. It swallows fly. Darkness is coming. It is time to hide. Chameleon moves to tree. It grips branch. It sleeps.
+
+Night comes. Cold comes. Dark comes.
+
+Dawn. Chameleon is dark red. It warms. It turns soft red. It moves.
+
+--
+
+<!-- more agency in fate. -->
+
+===
+
+Ducklings, parenting, teaching.
+
+ - what about ants. eusocial. or co-evolution of bees and flowers?
 
 
 #### Elephant Gathering
@@ -1483,6 +1525,7 @@ Elephants gather in the woods from miles round. Yet, they are not having a confe
 
 - work into this the way biological ecosystems work. and then input some version of artificial selection by the players, showcase how silly it is to spend time on excess like larger bear dens and what not...
 
+- ash starts falling. maybe make mammoths...?
 
 
 ### Mythological Truths
