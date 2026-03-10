@@ -1434,7 +1434,7 @@ establish, grow, diversify.
 change. 
 -->
 
-===
+#### Flies Fly
 
 Eggs hatch. Larvae move up, down, left, right. Plant is soft. Plant is edible.
 
@@ -1448,35 +1448,37 @@ Scent drifts. Sweetness. One insect turns toward scent. Flower is here. Insect l
 
 Insect survives.
 
-Another insect flies toward light. No scent. Insect continues. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insect falls. Ground is hard. Insect weakens. Insect is picked up. Taken away. Movement stops.
+Another insect flies toward light. No scent. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insect falls. Ground is hard. Insect stops.
 
-One insect flies toward light. Scents drift. Insect keeps flying. Up, down, left, right.
+One insect flies toward light. Sticky thread touches wing. Insect struggles. Thread wraps. Movement stops. Spider comes.
 
-Sticky thread touches wing. Insect flies harder. Thread holds. Insect flaps wings harder. Thread wraps. Insect struggles. Movement stops. Spider comes.
-
-Insect flying. Threat. Big thing moving. Insect goes up, down, left, right. Thing is gone. Insect keeps flying.
-
-Many more insects fly.
-
-Some follow scent to flowers. Some fly until exhaustion. Some land in webs. Some land on water. Fish rise. Insects drown. Some land on stone, lift off, keep flying.
+Another insect lands on water. Fish rises. Insect drowns.
 
 Insects that follow scent survive. Insects that avoid movement survive.
 
-One red eye insect detects scent from farther away. Turns toward flower before others. Arrives first. Nectar is abundant. Energy high. Insect survives. 
-
-Insects gather on plants. Insects mate. Eggs attach beneath leaves.
+Insects gather. Insects mate. Eggs attach beneath leaves.
 
 Cold comes. Flowers die. Scent fades.
 
 Warmth returns.
 
-Brood hatches. More hatchings have red eyes.
+Brood hatches. Most of us fly toward light. Some of us turn toward scent. We find flowers. We survive. We mate.
 
---
+More broods. More generations. We that sense scent from farther away arrive first. Nectar is abundant. Energy high. We survive.
 
-<!-- more agency in fate. -->
+We that fly toward light: fewer each generation.
 
-===
+We that follow scent: more each generation.
+
+One of us hatches with red eyes. We detect scent from greater distance. We turn toward flower before others. We arrive first. We survive. We mate.
+
+Brood hatches. Many of us have red eyes.
+
+More generations. More red eyes.
+
+Brood hatches. Red eyes.
+
+#### Chameleon Eats and Hides
 
 Chameleon is dark at dawn. Cold makes it dark. Dark pulls warmth from light.
 
@@ -1506,26 +1508,147 @@ Night comes. Cold comes. Dark comes.
 
 Dawn. Chameleon is dark red. It warms. It turns soft red. It moves.
 
---
+#### Duck Family
 
-<!-- more agency in fate. -->
+We find each other. We dance and putter beaks. We are each other's mates.
 
-===
+Fly. Look down. Look for deep place in high place. Nothing. Keep flying. Air is warm. Glide. Glide. Save energy. See something. High in tree. Cavity is deep.
 
-Ducklings, parenting, teaching.
+Land. Look, look. Cavity is deep. Cavity is safe.
 
- - what about ants. eusocial. or co-evolution of bees and flowers?
+I lay eggs. One each day. 12 eggs. I smell them. Our eggs. My mate brings food. I sit. Warmth. I sit. He hunts. He sits. I hunt. Rain. We sit. Sun. We sit. We smell eggs. Must turn eggs. We wait.
 
+Crack. Crack. Crack. Chicks hatch. We smell. Our kids. Wet. Small. Eyes open. They see us. 12 kids. Our kids.
+
+Day one. Chicks dry. Soft down. Yellow and brown. They peep. Kids here. I fly, bring food. They eat. I stay. He flies. Brings food.
+
+Night. We sit. Quiet.
+
+Light comes.
+
+Movement. Up high. Fast.
+
+Hawk.
+
+We rise. Panic! Spread wings. Hiss. My mate flies away—distract, distract!—and the hawk turns to follow him. Not safe. We must leave.
+
+1 kid missing.
+
+I fly down to the cavity. The kids at the edge. I call. Follow. Follow. Follow.
+
+All 11 kids jump. All with me. Our kids.
+
+Water ahead. Walk to water. Follow. Follow. Follow. First kid in water. 2 kids in water. 3 kids in water. 4 kids in water.
+
+Water explodes.
+
+Mouth rises. Something in water is danger. Panic. Panic.
+
+I scream. My mate is not here. I rise, wings spread, hissing.
+
+1 kid missing.
+
+3 kids in water. 7 kids near water on ground. Waiting.
+
+Reeds. Reeds. Go to reeds. Hide. Quiet. Follow. Follow. Follow. 10 kids in reeds. My kids. Safe. Wait. Wait. Quiet. Wait. Safe.
+
+Walk up to grass. Grass. Eat. Watch. Watch. Eat. Fast. Look up, look left. Look right. Always look. Listen. Listen. Always listen.
+
+10 kids speak back. Done. Away from water. No open water. Go to reeds. Family goes to reeds. Waits.
 
 #### Elephant Gathering
 
-Elephants gather in the woods from miles round. Yet, they are not having a conference. Nor are they from the same ecosystem. They need the clay. And they enjoy each other's company...
+<!-- need "parables" right away. -->
 
-- A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers. Meaning orange is a job, orange and stripes is just how it does it, the second deer can see red, tigers would have to adapt. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which is lives.
+I'm walking through this jungle. I know where I'm going. My family follows.
 
-- work into this the way biological ecosystems work. and then input some version of artificial selection by the players, showcase how silly it is to spend time on excess like larger bear dens and what not...
+The trees are many. Follow the path, it will take us there. Cannot see far, but the path will take us there. I learned this from my matriarch.
 
-- ash starts falling. maybe make mammoths...?
+Family is behind. Are we all still here?
+
+Yes, yes, yes, yes, yes....
+
+Nine are still here. Who else will be there. I don't know.
+
+It's so hot! says Sarah.
+
+We're almost there!  Water will be there. Keep moving. We need something there. I'll show you when we get there.
+
+The family walks behind me. Follow the path. It'll be fun to see others.
+
+The trees are less. More sunlight is here. I can smell cool air. Here it is.
+
+Here it is!
+
+Yes! Yes! Yes! Yes!
+
+Everyone is happy! I'll stand here. Keep watching. Have fun! Stay close!
+
+Sarah and kids are running. The area looks the same. Water is round, deep, and clear. No predators inside. Clay is here must dig, eat big help. All the animals are here!
+
+They hear me yell! We are here!
+
+Sarah is drinking. She was hot. It was hot. It is cool now. 
+
+No danger, no crocodiles. You can drink Sarah! Tim and Steve are with Sarah. Martha drinks.
+
+Rest are around. Don't go far! I am watching. My family is safe. We have water. We have clay.
+
+Martha is done drinking. Martha watch!
+
+I watch Carol!
+
+I will drink. I see myself. Here I am. This water is cool.
+
+I will dig for clay. Sarah! Come here!
+
+We dig inside here. We get brown stuff. We eat it. It helps energy. Try.
+
+Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it.
+
+Follow Sarah. Look at animals. Look at this place. You bring family here when rains stop at home.
+
+Where are danger animals Carol.
+
+Look around Sarah. Deer. Warthogs. Buffalo. Antelope. All come here for clay.
+
+Clay is good. Normal animals come here. Danger animals follow. Hide. Wait. Martha keep watch!
+
+I'm watching!
+
+No watch. No see danger animals. Crocodile. Lion. Leopard. Hyena. Dogs.
+
+No clay, we go slow. We weak. They catch. Dead like George. Follow path. Hot, rain, mud, keep on path. 
+
+Bees follow flowers. Flowers follow bees. Danger animals follow us. Follow normal animals. We watch. They hide. We watch, we safe. We see. 
+
+I see Lions!
+
+Together! Together! Family come together. Kids in center! Us outside. We safe!
+
+Watch Sarah. Deer not together. Deer fast. Deer run. Lions get deer. We safe.
+
+We stay. Watch kids. Watch Sarah. Lions no eat grass. Lions eat normal animals.
+
+I remember when lions were gone at home. Deer were many. Buffalo were many. Antelope were many. They ate grass. Ate more grass. Ate all grass. Dry season came. No grass. All hungry. Rains came. Lions came back. Grass again. Too many normal animals means no grass.
+
+We safe now. Go drink water. Eat grass. Eat clay. I keep watch. Sarah come here.
+
+We need normal animals. They wait. We dig clay easy. We help bring normal animals, more watching. They keep us safe. We keep them safe. We all watch. Always more lions hiding. Always keep watch.
+
+We are here!
+
+Friends here Sarah. Elephants come from far. Denise is here with family!
+
+Family comes together. Friends together. It was hot for Denise!
+
+It was hot! 
+
+Eat, drink, lions were here. They took deer.
+
+Elephants walk together, eat, drink, and poop. 
+
+Flies follow, chameleons are in the trees, birds are in the skies and in elephant poop, three seeds fall.
 
 
 ### Mythological Truths
@@ -1679,7 +1802,15 @@ Of course many other societies set sail on the water. But only in one other plac
 
 Regardless, the Vikings and Polynesians abilities are still very remarkable today.  It's doubtful many societies today could navigate the world and sustain themselves like these peoples did. But technological evolution didn't stop. And there was still other ways for humans and our tools to adapt during the never ending game of evolution.
 
-### 
+### Rome
+
+### Science Moon
+
+
+- A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers. Meaning orange is a job, orange and stripes is just how it does it, the second deer can see red, tigers would have to adapt. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which is lives.
+
+- work into this the way biological ecosystems work. and then input some version of artificial selection by the players, showcase how silly it is to spend time on excess like larger bear dens and what not...
+
 
 
 ## Interludes

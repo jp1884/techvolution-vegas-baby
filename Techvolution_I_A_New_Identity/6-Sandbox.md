@@ -3797,8 +3797,17 @@ Erwin Schrödinger, "What is Life?"
 
 ===
 
+First read these quotes from Erwin Schrödinger, "What is Life?" 
 
+"If entropy doesn't set the arrow of time, what does? A living organism feeds on negative entropy. that is it consumes order from its environment. that change compensates for the entropy increase is causes by living. The trick by which the organism remains highly order is in reality, by perpetually vacuuming order from its environment."
 
+"We must therefore not be discouraged by the difficulty of interpreting life by the ordinary laws of physics. For that is just what is to be expected from the knowledge we have gained of the structure of living matter. We must be prepared to find a new type of physical law prevailing in it. Or are we to term it a non-physical, not to say a super-physical, law?"
+
+How ecosystems work to fight off entropy is via this arrangement.
+
+It starts with producers (plants, plankton) who convert energy to biomass. Grazers (deer, bats) who feed on the producers and often spread or fertilize its seed. Predators (lions, bears) who prevent grazers from overgrazing. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time. This system of checks and balances rewards reciprocation while keeping overpopulation in check.
+
+The point of the short stories is to help the reader realize how nature works to fight off entropy and build more life.
 
 
 
