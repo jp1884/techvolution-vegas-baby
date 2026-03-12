@@ -1429,9 +1429,9 @@ Three seeds fall.
 - 
 <!-- 
 establish, grow, diversify. (mention genotype, phenotype more explicitly?)
-change.
+change/entropy attacks
 establish, grow, diversify.
-change. 
+change/entropy attacks
 -->
 
 #### Flies Fly
@@ -1440,19 +1440,19 @@ Eggs hatch. Larvae move up, down, left, right. Plant is soft. Plant is edible.
 
 Larvae eat. Larvae grow.
 
-Larvae picked up. Jaws close. Crunch. Larvae wrapped in silk. Stuck.
+Larvae picked up. Jaws close. Crunch.
 
 Larvae eat more. Larvae grow. Wings form. Light is above. Insects fly toward light.
 
-Scent drifts. Sweetness. One insect turns toward scent. Flower is here. Insect lands. Nectar is here. Insect drinks. Energy flows. Insect flies. More flowers. More nectar. Energy high.
+Another insect flies toward light. No scent. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insect falls. Ground is hard. Insect stops.
+
+One insect turns toward scent. Scent drifts. Sweetness. Flower is here. Insect lands. Nectar is here. Insect drinks. Energy flows. Insect flies. More flowers. More nectar. Energy high.
 
 Insect survives.
 
-Another insect flies toward light. No scent. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insect falls. Ground is hard. Insect stops.
-
 One insect flies toward light. Sticky thread touches wing. Insect struggles. Thread wraps. Movement stops. Spider comes.
 
-Another insect lands on water. Fish rises. Insect drowns.
+Another insect lands on water. Fish rises. Insect in water.
 
 Insects that follow scent survive. Insects that avoid movement survive.
 
@@ -1462,31 +1462,58 @@ Cold comes. Flowers die. Scent fades.
 
 Warmth returns.
 
-Brood hatches. Most of us fly toward light. Some of us turn toward scent. We find flowers. We survive. We mate.
+Brood hatches. Most fly toward light. Some turn toward scent. Some have red eyes. We find flowers. We survive. We mate.
 
-More broods. More generations. We that sense scent from farther away arrive first. Nectar is abundant. Energy high. We survive.
+More broods. More generations. We find flowers. Nectar is abundant. Energy high. We survive.
 
-We that fly toward light: fewer each generation.
-
-We that follow scent: more each generation.
-
-One of us hatches with red eyes. We detect scent from greater distance. We turn toward flower before others. We arrive first. We survive. We mate.
-
-Brood hatches. Many of us have red eyes.
+Brood hatches. More have red eyes.
 
 More generations. More red eyes.
 
-Brood hatches. Red eyes.
+Brood hatches. Most have red eyes.
+
+Air is thick. Oxygen is rich.
+
+Wings beat faster. Flight goes stronger. Flowers grow taller. Scent explodes. Cannot reach nectar. We fly, search, fly. Energy low
+
+Brood hatches. Many eggs do not crack.
+
+Some grow longer.
+
+More generations. More eggs crack.
+
+Some can reach flowers. Some can drink. We feed. More flowers. We feed.
+
+More generations. Longer mouths. More eggs crack.
+
+We chase. We capture. We feed. We survive. Bigger eyes. We see movement better. We catch faster. We eat.
+
+Brood hatches. More eggs crack.
+
+More flies. More flowers. More hunters. 
+
+Brood hatches. More eggs crack.
+
+#### Dinosaurs
+
+<!-- dinosaurs -->
+
+Ends with crocodiles in the water, birds in the sky, and mice in the crevices.
 
 #### Chameleon Eats and Hides
 
-Chameleon is dark at dawn. Cold makes it dark. Dark pulls warmth from light.
+<!-- flies on plants, chameleon, entropy attacks, counter is... -->
+<!-- radiation, changes color, too hot, changes color, cold, etc. camo... -->
 
-The branch is thin. Other branches are thicker. Chameleon moves toward thickness. Its feet grip, tail curls. One eye watches the trunk. One eye watches the sky.
+Area is dark. Little light breaks open. Chameleon is cold. 
 
-Chameleon moves. Same speed. Through brown branches green leaves. It looks up, looks down. No movement. It turns green.
+Light is growing. Area has light. Dark pulls warmth from light. Chameleon is dark. Chameleon needs light. The branch is thin. Its feet grip, tail curls. Chameleon feels light.
 
-Movement. A fly lands high left. Move body both eyes see fly. Distance looks good. Chameleon opens its mouth.
+Chameleon waits. One eye watches the trunk. One eye watches the sky.
+
+Chameleon is warm. Area is dark green. Chameleon turns dark green.
+
+Chameleon moves. Same speed. Through brown branches and green leaves. It looks up, looks down. No movement. Movement. Many flies. One lands high left. Move body both eyes see fly. Distance looks good. Chameleon opens its mouth.
 
 Tongue moves slowly. Slowly unfurls. The tongue shoots. The fly lifts. The tongue returns empty.
 
@@ -1496,19 +1523,23 @@ Another fly. Lower branch. Too far. Chameleon moves. Slow. Slow. Both eyes forwa
 
 The fly lifts.
 
-Chameleon moves. Through brown branches soft red leaves. It looks up, looks down. A beetle crawls on bark. Too big.
+Big movement on tree. Chameleon stays. Stays. Chameleon in light. Chameleon is hot. Big movement on tree. Chameleon is very hot. 
 
-Hungry makes it slow. Slow makes it cold. It moves to sun. Sits, turns dark red. Warmth comes. Color becomes soft red.
+Big movement moves. Chameleon turns soft green. Chameleon is hungry. Hunger makes it slow.
 
-Another fly. High right. It moves. Not close. Closer. The fly stays. Both eyes forward. Wait. Tongue moves slowly. Wait. Tongue shoots.
+More flies.
 
-Fly caught. Tongue comes in. It swallows fly. Darkness is coming. It is time to hide. Chameleon moves to tree. It grips branch. It sleeps.
+Fly lands right. Chameleon moves. Closer. The fly stays. Both eyes forward. Wait. Tongue moves slowly. Wait. Tongue shoots.
+
+Fly caught. Tongue comes in. It swallows fly. Less light. Chameleon turns red. Darkness is coming. It is time to hide. Chameleon moves to tree. It grips branch. It sleeps.
 
 Night comes. Cold comes. Dark comes.
 
-Dawn. Chameleon is dark red. It warms. It turns soft red. It moves.
+Dawn. Chameleon is dark red. It warms. Area is green. It turns soft green. It moves.
 
 #### Duck Family
+
+<!-- flies on plants, chameleon in trees, entropy attacks, counter is... -->
 
 We find each other. We dance and putter beaks. We are each other's mates.
 
@@ -1555,6 +1586,10 @@ Reeds. Reeds. Go to reeds. Hide. Quiet. Follow. Follow. Follow. 10 kids in reeds
 Walk up to grass. Grass. Eat. Watch. Watch. Eat. Fast. Look up, look left. Look right. Always look. Listen. Listen. Always listen.
 
 10 kids speak back. Done. Away from water. No open water. Go to reeds. Family goes to reeds. Waits.
+
+#### Ice Age
+
+<!-- ice age... -->
 
 #### Elephant Gathering
 
@@ -1913,7 +1948,7 @@ Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, sho
 
 In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
 
-Here's why: we were only minorly measured on accuracy or customer satisfaction. But we were exactly measured on hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served and not take up their time about our bad service. Importantly, we always know that brokers could send customers to other companies.
+Here's why: we were only minorly measured on accuracy or customer satisfaction. But we were exactly measured on hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served and not take up their time about our bad service. Importantly, we always knew that brokers could send customers to other companies.
 
 So the hold metric became everything.
 
@@ -2281,16 +2316,18 @@ This all became the practical foundations of Techvolution.
 
 ### Misc.
 
-- list cost of a typical crash.
+- list cost of a typical crash while going through typical.
 - college traffic class vs data entry home work experience.
 - asshat when face to face, people were always nicer.
 - almost no one stops to help/witness
 - "f'in insurance asshole"
 - abduction
-- "i guess i'm f'ing useless"
+- "apparently i'm f'ing useless"
 - thanks, here's a kind gesture...."did you say this guys rates won't go up"
 - suspended license, parking tickets, cover?
 - lost son, one act play
+- 8:00am, abey, 8:01 am, ding. scissors thank you.
+- two masters, applying for work, super stressed.
 
 ## Notes
 
