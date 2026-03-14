@@ -1344,7 +1344,7 @@ The most fundamental of these rules are the universal laws of physics, chemistry
 
 By understanding their different strategies, tools, and insights across multiple eras, we'll understand how humans transformed. We still roll the dice each day, but our success increased with each new year as we moved from be passive players to active architects of our own evolutionary trajectory.
 
-### Biological Stories
+### Biological Game of Life
 
 #### Weed Seeds
 
@@ -1352,7 +1352,7 @@ Wind carries seeds. Seeds land. Most keep moving.
 
 Three seeds fall.
 
-One on rock, another in water, the last in a crevice.
+One on rock, another in water, last in crevice.
 
 The seed on smooth stone is wedged beneath boulder, baking under intense light. There is hardness here. There is heat. There is no water. The seed does not crack. It waits. It remains.
 
@@ -1428,9 +1428,9 @@ Three seeds fall.
 
 - 
 <!-- 
-establish, grow, diversify. (mention genotype, phenotype more explicitly?)
+sensory inputs, establish, grow, diversify. (mention genotype, phenotype more explicitly?)
 change/entropy attacks
-establish, grow, diversify.
+sensory inputs, establish, grow, diversify.
 change/entropy attacks
 -->
 
@@ -1440,74 +1440,110 @@ Eggs hatch. Larvae move up, down, left, right. Plant is soft. Plant is edible.
 
 Larvae eat. Larvae grow.
 
-Larvae picked up. Jaws close. Crunch.
+Larvae picked up. Jaws close. Crunch. Larvae fall. Larvae in water. Jaws close. Crunch.
 
 Larvae eat more. Larvae grow. Wings form. Light is above. Insects fly toward light.
 
-Another insect flies toward light. No scent. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insect falls. Ground is hard. Insect stops.
+Many insects fly toward light. No scent. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insects fall. Ground is hard. Insects stop.
 
-One insect turns toward scent. Scent drifts. Sweetness. Flower is here. Insect lands. Nectar is here. Insect drinks. Energy flows. Insect flies. More flowers. More nectar. Energy high.
+Many insects turn toward scent. Scent drifts. Sweetness. Flowers are here. Insects land. Nectar is here. Insects drink. Energy flows. Insects fly. More flowers. More nectar. Energy high.
 
-Insect survives.
+Many insects fly towards light. Sticky thread touch wings. Insects struggles. Thread wraps. Movement stops. Spider comes.
 
-One insect flies toward light. Sticky thread touches wing. Insect struggles. Thread wraps. Movement stops. Spider comes.
+Many insects lands on water. Tongues reach. Jaws jump. Crunch.
 
-Another insect lands on water. Fish rises. Insect in water.
-
-Insects that follow scent survive. Insects that avoid movement survive.
-
-Insects gather. Insects mate. Eggs attach beneath leaves.
+Many insects gather. Many insects mate. Eggs attach beneath leaves.
 
 Cold comes. Flowers die. Scent fades.
 
 Warmth returns.
 
-Brood hatches. Most fly toward light. Some turn toward scent. Some have red eyes. We find flowers. We survive. We mate.
+Brood hatches. Larvae eat. Larvae grow.
+
+Most insects fly toward light. Some turn toward scent. Some have red eyes. Insects find flowers. Insects mate.
 
 More broods. More generations. We find flowers. Nectar is abundant. Energy high. We survive.
 
 Brood hatches. More have red eyes.
 
-More generations. More red eyes.
+More generations. All have red eyes.
 
-Brood hatches. Most have red eyes.
+Many flowers. Air is thick. Oxygen is rich.
 
-Air is thick. Oxygen is rich.
-
-Wings beat faster. Flight goes stronger. Flowers grow taller. Scent explodes. Cannot reach nectar. We fly, search, fly. Energy low
+Wings beat faster. Flight goes stronger. Flowers grow taller. Cannot reach nectar. Many insects fly. Energy low
 
 Brood hatches. Many eggs do not crack.
 
-Some grow longer.
+Some red eye insects are longer. Some red eye insects are bigger.
 
-More generations. More eggs crack.
+Longer reach flowers. More can drink. Red eyes see flowers.
 
-Some can reach flowers. Some can drink. We feed. More flowers. We feed.
+Bigger can capture. Bigger red eyes see movement. We are faster. We catch insects. We eat.
 
-More generations. Longer mouths. More eggs crack.
+Two brood hatch. More eggs crack.
 
-We chase. We capture. We feed. We survive. Bigger eyes. We see movement better. We catch faster. We eat.
+More red eye pollinators. More flowers. More predators. 
 
-Brood hatches. More eggs crack.
-
-More flies. More flowers. More hunters. 
-
-Brood hatches. More eggs crack.
+Two broods hatch. More eggs crack.
 
 #### Dinosaurs
 
-<!-- dinosaurs -->
+Large predator walks. Ground shakes. Herd seen. Hide. Down wind. They cannot see. They cannot smell. Look
 
-Ends with crocodiles in the water, birds in the sky, and mice in the crevices.
+Where are weak. Where are kids. There!
 
-#### Chameleon Eats and Hides
+Predator runs. Herd runs. There is weak. There is kid. Predator turns. Kid still eating. Predator runs. 
+
+Kid runs. Kid is fast. Kid turns left. Kid turns right. Predator runs. Sun is high. Predator hot. Breath is fast. Legs are slowing. Predator runs. Kid is close. Kid is close.
+
+Reach mouth. Jaws close. Kid falls.
+
+Meat is abundant. Look. Watch. Smell. No threats. Predator eats fast. Strength high.
+
+Eggs in nest. Eggs are warm. Predator turns eggs. Smell is wrong. Predator listens. Small furred creature is close. Predator snaps. Furred creatures run to crevices.
+
+All eggs hatch. Some are faster. Some are stronger.
+
+More of their eggs hatch.
+
+Trees are tall. Necks reach high. Kids grow. Some are taller. Some reach higher. Some are bigger. Some are safer.
+
+Shrubs are shorter. They grow wider. Armored grazers eat low plants. Shells are thick. Tails swing. Predators back away. Some are tougher. More of their eggs hatch.
+
+Some are smaller, some are quicker. More of their eggs hatch.
+
+Young predators, grazers, big or tall, look in area, look for spots, look for food, need to make eggs hatch. Good spots near water. Good spots near nests. All spots taken.
+
+Swimmers in water, flyers in air, walkers on land. Many eggs. Must make my eggs hatch.
+
+Every plant has eater. Every eater has hunter. Every hunter has territory. Every spot is taken.
+
+Seasons pass. Forests change. It gets colder. It gets warmer. More eggs hatch.
+
+Sky brightens. Brighter than sun.
+
+Ground rumbles. Louder than footsteps. Louder than thunder. Ground moves. Trees fall. Nests crack. Mountains shake. Air smells wrong. Smoke. Burning. Heat comes. Fire spreads. Herds run. Run where. Everywhere is burning. Nowhere is safe.
+
+Sky darkens. Wind screams. Long-necks bellow. Pack hunters scatter. Flyers cannot fly. Heat. Cold. Darkness. Cannot see. Cannot breathe.
+
+Ash starts falling.
+
+Trees fall. Fungus grows. Spores spread.
+
+Crocodiles in the water, birds in the sky, and mice in the crevices.
+
+More of their eggs hatch. More of their babies born.
+
+Three seeds fall.
+
+#### Chameleon
 
 <!-- flies on plants, chameleon, entropy attacks, counter is... -->
 <!-- radiation, changes color, too hot, changes color, cold, etc. camo... -->
 
 Area is dark. Little light breaks open. Chameleon is cold. 
 
-Light is growing. Area has light. Dark pulls warmth from light. Chameleon is dark. Chameleon needs light. The branch is thin. Its feet grip, tail curls. Chameleon feels light.
+Light is growing. Area has light. Dark makes it warm. Chameleon is dark. Chameleon needs light. The branch is thin. Chameleon moves. Same speed. Its feet grip, tail curls. Chameleon feels light.
 
 Chameleon waits. One eye watches the trunk. One eye watches the sky.
 
@@ -1537,19 +1573,25 @@ Night comes. Cold comes. Dark comes.
 
 Dawn. Chameleon is dark red. It warms. Area is green. It turns soft green. It moves.
 
-#### Duck Family
+#### Geese Family
 
 <!-- flies on plants, chameleon in trees, entropy attacks, counter is... -->
 
-We find each other. We dance and putter beaks. We are each other's mates.
+Fly. Glide. Save energy. Flock is ahead. I call out. Flock tired. My turn to fly first. Flap wings faster. I am first.
 
-Fly. Look down. Look for deep place in high place. Nothing. Keep flying. Air is warm. Glide. Glide. Save energy. See something. High in tree. Cavity is deep.
+Look down. Look for open area. Nothing. Anyone see open area? No one sees open area. Keep flying. Air is warm. Glide. Glide. Save energy. See something.
 
-Land. Look, look. Cavity is deep. Cavity is safe.
+Open area. Water is near. Grass is near. Trees here. Good. I tell mate, we go down.
 
-I lay eggs. One each day. 12 eggs. I smell them. Our eggs. My mate brings food. I sit. Warmth. I sit. He hunts. He sits. I hunt. Rain. We sit. Sun. We sit. We smell eggs. Must turn eggs. We wait.
+Flock goes down. Mate goes down. We honk. We bow. Necks touch. We are mates.
 
-Crack. Crack. Crack. Chicks hatch. We smell. Our kids. Wet. Small. Eyes open. They see us. 12 kids. Our kids.
+We must find. Where to next. We must find safe nest. Land. Look, look. Cavity is deep. No predators reach. Something in tree. It safe animal.
+
+I lay eggs. 8 eggs. I see them. Our eggs. My mate brings food. Flies are here. Bite at flies. I sit. Warmth. I sit. He hunts. He sits. I hunt. Rain. We sit. Sun. We sit. Must turn eggs. We wait.
+
+Cold comes. Puff up. Warm comes. Puff down.
+
+Crack. Crack. Crack. Chicks hatch. We see. Our kids. Wet. Small. Eyes open. They see us. 8 kids. Our kids.
 
 Day one. Chicks dry. Soft down. Yellow and brown. They peep. Kids here. I fly, bring food. They eat. I stay. He flies. Brings food.
 
@@ -1561,73 +1603,77 @@ Movement. Up high. Fast.
 
 Hawk.
 
-We rise. Panic! Spread wings. Hiss. My mate flies away—distract, distract!—and the hawk turns to follow him. Not safe. We must leave.
+We rise. Panic! Spread wings. Hiss. My mate flies away. Distract. Distract. Hawk turns. Follows him. Not safe. We must leave.
 
 1 kid missing.
 
-I fly down to the cavity. The kids at the edge. I call. Follow. Follow. Follow.
-
-All 11 kids jump. All with me. Our kids.
+I fly to soil. Kids at edge. I call. Follow. Follow. Follow. All 7 kids jump. All with me. Our kids.
 
 Water ahead. Walk to water. Follow. Follow. Follow. First kid in water. 2 kids in water. 3 kids in water. 4 kids in water.
 
 Water explodes.
 
-Mouth rises. Something in water is danger. Panic. Panic.
+Mouth rises. Danger in water. Panic. Panic.
 
-I scream. My mate is not here. I rise, wings spread, hissing.
+I scream. My mate is not here. I rise, wings spread, hissing. Where is danger.
+
+3 kids in water. 3 kids near water on ground. Waiting.
 
 1 kid missing.
 
-3 kids in water. 7 kids near water on ground. Waiting.
+Reeds. Reeds. Go to reeds. Hide. Quiet. Follow. Follow. Follow. 6 kids in reeds. My kids. Safe. Wait. Wait. Quiet. Wait. Safe.
 
-Reeds. Reeds. Go to reeds. Hide. Quiet. Follow. Follow. Follow. 10 kids in reeds. My kids. Safe. Wait. Wait. Quiet. Wait. Safe.
+Walk to grass. Grass. Eat. Watch. Watch. Eat. Fast. Look up, look left. Look right. Always look. Listen. Listen. Always listen.
 
-Walk up to grass. Grass. Eat. Watch. Watch. Eat. Fast. Look up, look left. Look right. Always look. Listen. Listen. Always listen.
+6 kids speak back. Done. Away from water. No open water. Go to reeds. Family goes to reeds. Waits.
 
-10 kids speak back. Done. Away from water. No open water. Go to reeds. Family goes to reeds. Waits.
+Cold will come. Honk is heard. My flock close. I say danger in deep water.
 
-#### Ice Age
+#### Mammoth Gathering
 
-<!-- ice age... -->
+I am walking on grass. I am walking on path. My family follows.
 
-#### Elephant Gathering
-
-<!-- need "parables" right away. -->
-
-I'm walking through this jungle. I know where I'm going. My family follows.
-
-The trees are many. Follow the path, it will take us there. Cannot see far, but the path will take us there. I learned this from my matriarch.
+I see trees. That is good. Trees have bees. That is good. Trees with bees start the path. Smell of flowers. That is good. Means on time. Easy walking. That is good. Means on path. Path will take us there. I learned from my matriarch. Following lessons means life.
 
 Family is behind. Are we all still here?
 
-Yes, yes, yes, yes, yes....
+Yes, yes, yes, yes, yes. All ten say yes.
 
-Nine are still here. Who else will be there. I don't know.
+We are on path. Trees are thick. Cannot see far. Look for danger. Listen for danger. 
 
-It's so hot! says Sarah.
+All say listening. That is good.
 
-We're almost there!  Water will be there. Keep moving. We need something there. I'll show you when we get there.
+It is so hot! says Sarah.
 
-The family walks behind me. Follow the path. It'll be fun to see others.
+Yes. I know. That is bad. We can stop. Here is water. Use your trunk. Take up water. Spray on back. Just like that. This will help. We must go. Look for danger. Listen for danger.
 
-The trees are less. More sunlight is here. I can smell cool air. Here it is.
+Grass will be there. Clay will be there. Others will be there. The family walks behind me. Follow the path. 
 
-Here it is!
+Bees are many. That is different. Flower scent is stronger. That is different. Path is muddy. That is different. Keep on path. Trees are thick. That is different. Path will take us there. We must go. 
 
-Yes! Yes! Yes! Yes!
+Air is so hot! says Tim.
 
-Everyone is happy! I'll stand here. Keep watching. Have fun! Stay close!
+We can stop. Rub on trees. Fur falls off. This will help. Fur falls off more. This will help. We must go. Listen for danger. The trees are many. More sunlight is here. Air is cool. That is good.
 
-Sarah and kids are running. The area looks the same. Water is round, deep, and clear. No predators inside. Clay is here must dig, eat big help. All the animals are here!
+STOP! Look for danger. Listen for danger.
 
-They hear me yell! We are here!
+All look. All listen.
 
-Sarah is drinking. She was hot. It was hot. It is cool now. 
+I see no wolves. I see nothing, says Sarah.
 
-No danger, no crocodiles. You can drink Sarah! Tim and Steve are with Sarah. Martha drinks.
+Wolves we see. We cannot ghost. Only see movement. No huddle. It is hot. We must go. This path is good. We are close. We keep moving.
 
-Rest are around. Don't go far! I am watching. My family is safe. We have water. We have clay.
+We are here.
+
+Everyone is happy! I will stand here. Keep watching. Have fun! Stay close! I am matriarch.
+
+Sarah and kids are running. The area looks different. Water is round, deep, clear. Are there predators inside. I walk. I look. I no see predators. No danger in water. You can drink Sarah! Sarah is drinking. Rest are drinking.
+
+There are deer. There are many deer.
+
+Flowers come early. This is not right. Where is grass. Matriarch taught me grass comes with flowers. But grass is late. That is different. I will yell. Mammoths are here!
+
+Deer eating grass. Other animals eating grass. What are other animals. We need grass. Where is grass.
 
 Martha is done drinking. Martha watch!
 
@@ -1635,56 +1681,17 @@ I watch Carol!
 
 I will drink. I see myself. Here I am. This water is cool.
 
-I will dig for clay. Sarah! Come here!
+I will dig for clay. Sarah! Come here! We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. It helps body when hot. Salts inside. We need salts when body is hot. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it.
 
-We dig inside here. We get brown stuff. We eat it. It helps energy. Try.
+We get here. We must get here for clay. Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat grass. We need grass.
 
-Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it.
+I see ghost! I see tiger! says Martha.
 
-Follow Sarah. Look at animals. Look at this place. You bring family here when rains stop at home.
+Together! Together! Family come together. Kids in center! Tusks outside. We safe! Watch Sarah. Ghost roar. We stay. We always stay together. Watch kids. Watch Sarah. I see no tiger!
 
-Where are danger animals Carol.
+I see sticks. Long sticks. Not tree sticks. Sticks move. Sticks point at us. What is sticks? I do not know sticks. Sticks are not ghost. Sticks are not wolf. Sticks are... STICKS HIT SARAH!
 
-Look around Sarah. Deer. Warthogs. Buffalo. Antelope. All come here for clay.
-
-Clay is good. Normal animals come here. Danger animals follow. Hide. Wait. Martha keep watch!
-
-I'm watching!
-
-No watch. No see danger animals. Crocodile. Lion. Leopard. Hyena. Dogs.
-
-No clay, we go slow. We weak. They catch. Dead like George. Follow path. Hot, rain, mud, keep on path. 
-
-Bees follow flowers. Flowers follow bees. Danger animals follow us. Follow normal animals. We watch. They hide. We watch, we safe. We see. 
-
-I see Lions!
-
-Together! Together! Family come together. Kids in center! Us outside. We safe!
-
-Watch Sarah. Deer not together. Deer fast. Deer run. Lions get deer. We safe.
-
-We stay. Watch kids. Watch Sarah. Lions no eat grass. Lions eat normal animals.
-
-I remember when lions were gone at home. Deer were many. Buffalo were many. Antelope were many. They ate grass. Ate more grass. Ate all grass. Dry season came. No grass. All hungry. Rains came. Lions came back. Grass again. Too many normal animals means no grass.
-
-We safe now. Go drink water. Eat grass. Eat clay. I keep watch. Sarah come here.
-
-We need normal animals. They wait. We dig clay easy. We help bring normal animals, more watching. They keep us safe. We keep them safe. We all watch. Always more lions hiding. Always keep watch.
-
-We are here!
-
-Friends here Sarah. Elephants come from far. Denise is here with family!
-
-Family comes together. Friends together. It was hot for Denise!
-
-It was hot! 
-
-Eat, drink, lions were here. They took deer.
-
-Elephants walk together, eat, drink, and poop. 
-
-Flies follow, chameleons are in the trees, birds are in the skies and in elephant poop, three seeds fall.
-
+Three mammoths fall.
 
 ### Mythological Truths
 
