@@ -1528,9 +1528,11 @@ Sky darkens. Wind screams. Long-necks bellow. Pack hunters scatter. Flyers canno
 
 Ash starts falling.
 
-Trees fall. Fungus grows. Spores spread.
+Not much light. No big trees. No big leaves. No big grazers. No big predators.
 
-Crocodiles in the water, birds in the sky, and mice in the crevices.
+Trees fall. Dinosaurs fall. Fungus grows. Spores spread.
+
+Crocodiles in the water, birds in the sky, mice in the crevices, insects everywhere. 
 
 More of their eggs hatch. More of their babies born.
 
@@ -1637,15 +1639,21 @@ I see trees. That is good. Trees have bees. That is good. Trees with bees start 
 
 Family is behind. Are we all still here?
 
-Yes, yes, yes, yes, yes. All ten say yes.
+Yes, yes, yes, yes, yes...All ten say yes.
 
 We are on path. Trees are thick. Cannot see far. Look for danger. Listen for danger. 
 
 All say listening. That is good.
 
-It is so hot! says Sarah.
+It is so hot! says Sarah. Can we go back?
 
-Yes. I know. That is bad. We can stop. Here is water. Use your trunk. Take up water. Spray on back. Just like that. This will help. We must go. Look for danger. Listen for danger.
+No. We used too much energy. We can stop. Here is water. Use your trunk. Take up water. Spray on back. Just like that. This will help. 
+
+What is this? says Sarah. I touch. It is round. I smell. It is fresh. I taste. It is sweet. It is food. We can eat. There are not many. Give to kids. I walk. I see bones. Old bones. I have not seen these before. My trunk lifts. I smell. The smell is wrong.
+
+I turn forward. We must go. The family depends. But my legs are tight. 
+
+We must go. Look for danger. Listen for danger.
 
 Grass will be there. Clay will be there. Others will be there. The family walks behind me. Follow the path. 
 
@@ -1653,7 +1661,7 @@ Bees are many. That is different. Flower scent is stronger. That is different. P
 
 Air is so hot! says Tim.
 
-We can stop. Rub on trees. Fur falls off. This will help. Fur falls off more. This will help. We must go. Listen for danger. The trees are many. More sunlight is here. Air is cool. That is good.
+We can stop. Rub on trees. Fur falls off. This will help. Do like me. Fur falls off more. This will help. Trees means no sun. That is good. Trees mean no wind that is bad. We must go. Listen for danger. The trees are many.
 
 STOP! Look for danger. Listen for danger.
 
@@ -1663,7 +1671,7 @@ I see no wolves. I see nothing, says Sarah.
 
 Wolves we see. We cannot ghost. Only see movement. No huddle. It is hot. We must go. This path is good. We are close. We keep moving.
 
-We are here.
+We keep moving. We keep moving. We are here!
 
 Everyone is happy! I will stand here. Keep watching. Have fun! Stay close! I am matriarch.
 
@@ -1681,17 +1689,126 @@ I watch Carol!
 
 I will drink. I see myself. Here I am. This water is cool.
 
-I will dig for clay. Sarah! Come here! We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. It helps body when hot. Salts inside. We need salts when body is hot. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it.
+I will dig for clay. Sarah! Come here! We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it. Water is here. Deep water. Cool water. Clay is here. We need both. Plants are different now. Less minerals. Journey is harder now. Always hot. But we must come.
 
-We get here. We must get here for clay. Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat grass. We need grass.
+We must get here for clay. Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat grass. We need grass.
 
 I see ghost! I see tiger! says Martha.
 
 Together! Together! Family come together. Kids in center! Tusks outside. We safe! Watch Sarah. Ghost roar. We stay. We always stay together. Watch kids. Watch Sarah. I see no tiger!
 
-I see sticks. Long sticks. Not tree sticks. Sticks move. Sticks point at us. What is sticks? I do not know sticks. Sticks are not ghost. Sticks are not wolf. Sticks are... STICKS HIT SARAH!
+I see sticks. Long sticks. Not tree sticks. Sticks move. Sticks point at us. What is sticks? I do not know sticks. Sticks are not ghost. Sticks are not wolf. We must roar. Roar loud. Sticks are closer. Sticks are close...STICKS HIT SARAH!
+
+Panic! Panic!
 
 Three mammoths fall.
+
+#### Fire Tree
+<!-- eyes are sharp-->
+<!-- memories are good -->
+<!-- territory is vast -->
+<!-- narratives are introduced to explain the information being rec'd -->
+<!-- are tools given enough importance? hides and flints enough? -->
+
+Light is high. The foraging party left at dawn. I stay with Mother, learning.
+
+"Scrape this way," she says, showing me the deer hide stretched on the frame. "See? Gentle. Hide tears if you push too hard. We have more time than hides. Take your time. Get it right."
+
+I try. The stone scraper is sharp. Bits of flesh come off.
+
+"Good, Kai. Now here. This part still has fat."
+
+I scrape where she points. My arms hurt but I keep working.
+
+"Where do they go?" I ask.
+
+"To gather food. Focus on your work. Cold is coming. Some need new furs."
+
+"But what is out there?"
+
+"Trees. Berries. Animals. Scary things." She takes the flint scraper, shows me again. "You will see when you are older. Your job is to clean these hides."
+
+"When will I go?"
+
+"If you live, you will go. You need these hides to live."
+
+I want to ask more, but Mother is already moving to the woodpile. I continue using the flint scrapper to clean this hide. I try not to look at the pile of five others waiting for me.
+
+She is gathering wood. I already know that skill. "Small sticks first," she says anyway. "They catch fast. Then bigger wood. Fire needs both." She uses flint axe to chop more pieces. The more done now, the less work later.
+
+I stop my hands. I look. My stomach tightens. I was distracted by my thoughts. I kept scraping the same area of hide. I hope I didn't tear it. I look closer. It's worn, but not broken. I won't tell her. I should keep focus. These hides are what keeps us warm when cold comes.
+
+I want to ask where Giving Tree is. But I do not. Mother will be angry if I ask again. I should keep working.
+
+I keep working. Three hides to go. Then—voices!
+
+"They're back!" I run to see.
+
+Eight people emerge from the trees, baskets heavy with food. Children rush to greet them. I see Sarah, Martha, Tall One, River Woman. All safe.
+
+Sarah sets down her basket and spear. "So much fruit! Giving Tree was full this season."
+
+I stare at the baskets. Red fruit. Mushrooms. Roots. More than I have ever seen.
+
+They gather around the fire. Everyone talks at once. I listen while I carry more wood, but I can't understand much. I want to ask questions but I help Mother instead.
+
+"Put the fruit in bowls, Kai," Mother says.
+
+The fruit is so ripe, juice runs down my hands. Someone brought fish. We have honey. So much food tonight.
+
+While we cook, I hear more.
+
+"The deer were close," Tall One says. "But we had enough to carry. We couldn't hunt."
+
+"A child wanted to break a branch from Giving Tree," River Woman says. "We will talk about it over dinner."
+
+Everyone does their job. The foraging group cleans their clothes and tools. We cook the food. Children prepare the eating area.
+
+Soon we sit. Then the stories finally start.
+
+I can't help it. I blurt out: "Where is Giving Tree?"
+
+River Woman looks at me. "Far. Two days' walk. But you will see it when you are older."
+
+"Why can't we break branches?"
+
+"Giving Tree gives every season. We take fruit only. Never hurt the tree. It is sacred."
+
+Sacred means special. Protected.
+
+We eat. Roots soft from the coals. Sweet fruit. Warm fish. Honey that drips. My belly is full. Night comes. Stars appear. Elder calls the children close.
+
+"Long ago," Elder begins, "when First People walked, the sky was empty. No stars. Only darkness. First People were lost. Hunter was brave. He climbed the highest mountain and called to Sky: We are lost. Give us light. Sky heard. Sky threw fire into darkness. Fire became stars. Hunter found his way home."
+
+Elder points upward. "Now we watch stars. When Hunter-Star rises here"—he traces the shape—"cold is coming. We must gather, prepare.
+
+"When Deer-Stars run low, fruit comes. Like today.
+
+Elder looks at us. "When does Hunter-Star rise?"
+
+"When cold is coming," we answer.
+
+"Good. When do Deer-Stars run low?"
+
+"When fruit is coming."
+
+"Remember these stories. Teach your children. Stories keep us alive."
+
+I look at the stars. They have names. They teach us things.
+
+That night I remembered. So when cold season came, the stories proved true. Our hides kept us warm. Our dried food kept us fed. Hunter-Star rose, just as Elder said.
+
+Next season I went out on a foraging party. I saw Giving Tree. It had no fruit. Too early. We kept walking. We gathered roots. We gathered reeds. We kept walking to someplace new.
+
+And we saw something new.
+
+We saw people. Different people.
+
+They were not gathering. They were not hunting.
+
+A mother walked on soil. Her child was behind her with water. Another woman had a stick with something that looks like flint dragging on the land. In her basket were seeds. But she wasn't eating the seeds or grinding the seeds. She held the seeds in her hands above the soil.
+
+And then I saw three seeds fall.
 
 ### Mythological Truths
 
