@@ -1330,6 +1330,8 @@ Let's look at these stories so we can realize why techvolution is the scientific
 
 ## Chapter 12—Stories Vignettes 
 
+### Opening
+
 _The gods did not reveal, from the beginning, all things to us, but in the course of time through seeking we may learn and know things better. But as for certain truth no man knows it, nor shall he know it, neither of the gods nor yet of all things that I speak. For even if by chance he were to utter The Final Truth, he would himself not know it: for all is but a woven web of guesses._
 
 Xenophanes, Greek Historian, 6th Century BC.
@@ -1661,7 +1663,7 @@ Bees are many. That is different. Flower scent is stronger. That is different. P
 
 Air is so hot! says Tim.
 
-We can stop. Rub on trees. Fur falls off. This will help. Do like me. Fur falls off more. This will help. Trees means no sun. That is good. Trees mean no wind that is bad. We must go. Listen for danger. The trees are many.
+We can stop. Rub on trees. Fur falls off. This will help. Do like me. Fur falls off. This will help. Trees means no sun. That is good. Trees mean no wind that is bad. We must go. Listen for danger. The trees are many.
 
 STOP! Look for danger. Listen for danger.
 
@@ -1669,7 +1671,7 @@ All look. All listen.
 
 I see no wolves. I see nothing, says Sarah.
 
-Wolves we see. We cannot ghost. Only see movement. No huddle. It is hot. We must go. This path is good. We are close. We keep moving.
+Wolves we see. We cannot see ghost. Only see movement. No huddle. It is hot. We must go. This path is good. We are close. We keep moving.
 
 We keep moving. We keep moving. We are here!
 
@@ -1687,17 +1689,21 @@ Martha is done drinking. Martha watch!
 
 I watch Carol!
 
-I will drink. I see myself. Here I am. This water is cool.
+I will drink. I see myself. Here I am. This water is cool. I will dig for clay. 
 
-I will dig for clay. Sarah! Come here! We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it. Water is here. Deep water. Cool water. Clay is here. We need both. Plants are different now. Less minerals. Journey is harder now. Always hot. But we must come.
+Sarah! Come here!
+
+We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it. Water is here. Deep water. Cool water. Clay is here. We need both. Plants are different now. Less minerals. Journey is harder now. Always hot. But we must come.
 
 We must get here for clay. Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat grass. We need grass.
+
+Deer bring new flowers. Deer bring new grass. Deer bring difference.
 
 I see ghost! I see tiger! says Martha.
 
 Together! Together! Family come together. Kids in center! Tusks outside. We safe! Watch Sarah. Ghost roar. We stay. We always stay together. Watch kids. Watch Sarah. I see no tiger!
 
-I see sticks. Long sticks. Not tree sticks. Sticks move. Sticks point at us. What is sticks? I do not know sticks. Sticks are not ghost. Sticks are not wolf. We must roar. Roar loud. Sticks are closer. Sticks are close...STICKS HIT SARAH!
+I see sticks. Long sticks. Not tree sticks. Sticks move. Sticks point at us. What is sticks? What can hold sticks. Sticks are not ghost. Sticks are not wolf. We must roar. Roar loud. Sticks are closer. Sticks are close...STICKS HIT SARAH!
 
 Panic! Panic!
 
@@ -1722,7 +1728,7 @@ I scrape where she points. My arms hurt but I keep working.
 
 "Where do they go?" I ask.
 
-"To gather food. Focus on your work. Cold is coming. Some need new furs."
+"To gather food. Focus on your work. Cold is coming. 15 new kids need furs."
 
 "But what is out there?"
 
@@ -1730,17 +1736,19 @@ I scrape where she points. My arms hurt but I keep working.
 
 "When will I go?"
 
-"If you live, you will go. You need these hides to live."
+"If you live, you will go. We need these hides to live."
 
-I want to ask more, but Mother is already moving to the woodpile. I continue using the flint scrapper to clean this hide. I try not to look at the pile of five others waiting for me.
+I want to ask more, but Mother is already moving to the woodpile. I continue using the flint scrapper to clean this hide. I try not to look at the pile of 14 others waiting for me.
 
-She is gathering wood. I already know that skill. "Small sticks first," she says anyway. "They catch fast. Then bigger wood. Fire needs both." She uses flint axe to chop more pieces. The more done now, the less work later.
+She is gathering wood. I already know how to stack them. "Small sticks first," she taught. "They catch fast. Then bigger wood. Fire needs both." I still can't start a fire very fast.
 
-I stop my hands. I look. My stomach tightens. I was distracted by my thoughts. I kept scraping the same area of hide. I hope I didn't tear it. I look closer. It's worn, but not broken. I won't tell her. I should keep focus. These hides are what keeps us warm when cold comes.
+She uses flint axe to chop more pieces. I watch her. I know she's thinking the more work done now, the less work later. She loves me. I love her. She teaches me. How to cook food. How to use tools. 
 
 I want to ask where Giving Tree is. But I do not. Mother will be angry if I ask again. I should keep working.
 
-I keep working. Three hides to go. Then—voices!
+I keep working. 13 hides to go. 2 hides per day if I'm fast.
+
+Then—voices!
 
 "They're back!" I run to see.
 
@@ -1796,9 +1804,9 @@ Elder looks at us. "When does Hunter-Star rise?"
 
 I look at the stars. They have names. They teach us things.
 
-That night I remembered. So when cold season came, the stories proved true. Our hides kept us warm. Our dried food kept us fed. Hunter-Star rose, just as Elder said.
+Soon the Hunter-Star rose, the stories told us cold season was near. Our hides kept us warm. Our dried food kept us fed.
 
-Next season I went out on a foraging party. I saw Giving Tree. It had no fruit. Too early. We kept walking. We gathered roots. We gathered reeds. We kept walking to someplace new.
+When the Hunter-Star fell, warm returned. I was strong enough to go with the foraging party. I saw Giving Tree. It had no fruit. Too early. We kept walking. We gathered roots. We gathered reeds. We kept walking to someplace new.
 
 And we saw something new.
 
@@ -1809,6 +1817,142 @@ They were not gathering. They were not hunting.
 A mother walked on soil. Her child was behind her with water. Another woman had a stick with something that looks like flint dragging on the land. In her basket were seeds. But she wasn't eating the seeds or grinding the seeds. She held the seeds in her hands above the soil.
 
 And then I saw three seeds fall.
+
+### Mythological Knowledge
+
+#### The Power of Signs
+
+The taro plants need water. I carry the gourd from the stream, pouring carefully around each root as my mother taught me. The soil here is good—dark and soft, we work hard to keep the sand and rock away.
+
+I walk to each row of crops, I pour the water. I pass houses and friends making baskets, feeding pigs, collecting water. This land feeds us every year because we work it together.
+
+By the time I finish, the sun is setting. I put my pail away among my rack, plow, shovel, axe, and my other tools. I check each to make sure they are clean.
+
+My work is done. I go watch what they are doing down at the beach. Twelve long boats with huge logs lashed to either side. The shipbuilders have been building for two seasons.
+
+I hear the men's laughter as I sit and watch them. As the night comes, an Elder comes to sit next to me.
+
+"I don't understand. How will they get there?" I ask.
+
+He looks at me for a long moment..."Look up," he says. "What do you see?"
+
+"The gods."
+
+"The gods, yes" he agrees. "But can you read the gods signs?...We can because Tāne placed each one. The Navigator reads the gods' signs. That is how they will know."
+
+He pauses. "This is how we move. This is how we got here. Look up at the gods and listen."
+
+In the time of the seventh Navigator, when the fishing grounds grew thin, the Chief consulted the priests. They read the signs—birds flying beyond the horizon, stars positioned as Tāne declares when land waits beyond sight.
+
+The gods were calling us to voyage.
+
+We built twelve canoes according to the patterns Tāne revealed in the first days. Each held twenty—planters who read Rongo's signs, fishers who honored Tangaroa's tapu, builders who understood Tāne's gifts of wood.
+
+The Navigator carried the red arrow his father's father's father carved. Seven white shells bound to its shaft. Seven generations. Seven new homes found.
+
+We paddled into the endless ocean. For sixteen days we saw nothing but water and sky. The Navigator watched the same lights you see now.
+
+But he saw Tāne's signs each night. Tangaroa's currents pushed us as the chants promised. Tāwhirimātea sent wind from the north.
+
+On the seventeenth morning, we saw land.
+
+The Fire-Keeper pulled herself onto the beach. She knelt in the sand and sang the fire song, spinning her koa spindle against dry palm wood.
+
+Elder's voice drops as he continued; for two days she tried, and our people ate fruit and drank rainwater, but could not cook or purify water. Our people waited and trusted in the gods.
+
+On the third day, the spark came. Flame rose. Mahuika had accepted us.
+
+We built shelters with the wood Tāne provided. We planted the taro we carried, reading the soil as Rongo taught us. We fished in Tangaroa's waters. We raised the red arrow on stones, honoring the Navigator who brought us.
+
+The gods guided us across the ocean. The gods gave us this island. The gods showed us how to build every tool—canoes and spindles and planting sticks.
+
+"This is the wisdom that flows in your blood," he says. "You plant our food here. Someday, you may follow the lights and venture out to plant new lands in new places. The gods give us the signs, we only must read them, trust in their path, and go from land to land, island to island. Our people will visit the world."
+
+I look down at the beach where the canoes are nearly ready. Then back at the taro fields I watered today.
+
+"The taro I planted," I say slowly. "It came from that voyage?"
+
+"Every plant, every person, every tool is taken from island to island, home to home." Elder says. "Rongo blessed the first planting. Every seed since carries that blessing."
+
+I understand now. The tools I use, the crops I tend, the island beneath my feet—all of it came because the gods guided the seventh Navigator across the ocean. And now the gods are calling again.
+
+"Will there be an eighth shell?" I ask.
+
+Elder smiles. "If the gods will it."
+
+#### The Limits of Signs
+
+The merchant ship rounds the headland at dawn. I've sailed from Phasis, Sinope, and every port in between. My hold is full of wares—Chinese silk, carved jade, metals, shells, stones, and tools from lands unknown. Three months of favorable winds. Poseidon has been kind.
+
+But as we approach the Rhodos harbor, I see something is wrong.
+
+Half the town is gone. Where warehouses and homes should stand, there is only rubble and sand. Fishing boats lie shattered far up the beach. People move through the debris like ghosts.
+
+We anchor offshore. I row in with my first mate.
+
+An old woman sits beside the ruins of what was once a temple. She rocks back and forth, keening.
+
+"What happened?" I ask.
+
+"Poseidon," she says. "The earth-shaker's wrath."
+
+A fisherman approaches, his hands bleeding from clearing rubble. "Twelve days ago. The ground shook—we've felt that before. But then the water pulled back. All the way back, past the outer rocks."
+
+"And then?"
+
+"Then the god sent his wave. Tall as three men. It took everything—forty homes, the temple, the fishing fleet. Seventy-three dead."
+
+I look at the destruction. Boats carried half a stadium inland, stone walls scattered like dice.
+
+"Why was Poseidon angry?"
+
+The fisherman shakes his head. "The priests are talking. Some say we failed to sacrifice before the spring fishing season. Others say a merchant violated the sacred cove. The oracle at Delphi has been consulted."
+
+By midday, the priest arrives from Delphi, dusty from his journey. The survivors gather in what remains of the agora.
+
+"The Pythia has spoken," the priest announces. "Poseidon was angered by our insufficient devotion. We built him a temple of modest stone. We offered three bulls at the spring festival. This was not enough."
+
+An old man steps forward. "We've given what we could—"
+
+"The god demands more," the priest interrupts. "When Odysseus angered Poseidon, the god hounded him for ten years across the wine-dark sea. When the Phaeacians helped him, Poseidon turned their ship to stone. The earth-shaker does not forget offense." He raises his voice. "We will rebuild the temple twice as large. We will sacrifice six bulls at each festival. We will carve his image from marble, not wood."
+
+Murmurs of agreement ripple through the crowd. A woman weeps with relief—finally, an answer.
+
+Then a voice from the back: "Or perhaps something else. I have seen this before."
+
+The crowd turns. A man in a simple tunic steps forward—lean, weathered, perhaps fifty years old.
+
+"Thales of Miletus," someone whispers.
+
+The priest stiffens. "You dare question the oracle?"
+
+"Who could ever question the oracle's wisdom. I only observe: every time a wave comes, the earth shakes first. Perhaps the gods act in ways we must look to see. These are my coasts. I've traveled them for twenty years. Every time a wave like this comes, the earth shakes first. Then the water pulls back. Then the wave. All the tales from past, and today, agree on this."
+
+"Yes," the priest says. "The earth-shaker announces his anger—"
+
+"Or the shaking of the earth causes the wave. Not only divine anger. Natural consequence of natural actions. I told the merchants in Miletus when the sun would go dark. It did. Not because I angered Apollo, but because I understood the pattern the gods make."
+
+The crowd is silent. Shocked.
+
+"I don't mean to interrupt. Build your temple. Honor the gods. I look forward to the festivals. If anyone is interested to talk, I'll walk to the hill. And we can talk together."
+
+Three people follow.
+
+#### Spain - Averroes - Heights of Reason
+
+Content goes here.
+
+#### Renaissance - Limits of Reason - Effectual Truth
+
+Content goes here.
+
+#### Newton - Universal Laws - Evermore Accurate Predictions 
+
+Content goes here.
+
+#### Something something
+
+
 
 ### Mythological Truths
 
@@ -1832,49 +1976,41 @@ Here are three ways in which we overcame the rules of the game to settle new lan
 
 ### Polynesia
 
-In knee deep water you can feel the power of the ocean push your body back and forth. You look out at the vast expanse and see nothing but white capped washes smashing into light blue water. 
+In knee-deep water the Navigator feels Tangaroa push against his legs. The ocean god tests him, as he tested the Navigator's father, as he will test the Navigator's son.
 
-You look up at the sky and nothing but sunshine and deep blue skies.
+Behind him, wood clanks against wood—the canoes blessed by the priests, built according to the patterns Tāne revealed in the first days.
 
-You hear wood clank against wood. Looking back at the beach. Dozens of your best friends are sitting around a large fire pit. The flame is gone but the embers still glow red hot.
+On the beach, the Fire-Keeper kneels beside embers that have burned for three days. Mahuika's flame must not die before the voyage begins, or the goddess will withhold fire on the new island.
 
-One friend nods at you, and you throw two fist fulls of ash into the water. Your friends comes next to you and complete the ceremony by doing the same.
+The Chief nods. The Navigator takes two fistfuls of ash and releases them into the water. The Fire-Keeper does the same. This is the offering Tangaroa requires—ash from Mahuika's sacred fire, returned to the sea that separates the islands.
 
-Down the beach are a dozen long slender boats with huge logs on either side. Each has rigging setups with square sails and rows of long oars. Each is filled with fruits and coconuts.
+Twelve canoes wait. Each holds twenty people, each person chosen by the gods through the Chief's divination. Planters who know Rongo's signs. Fishers who honor Tangaroa's tapu. Builders who understand Tāne's gifts of wood and vine.
 
-You are your friends are set for a trip. With all the preparations made, there is nothing to do but wait for darkness.
+As the sun descends, the stars appear. The Navigator lifts the red arrow—carved by his father's father's father when the gods first revealed that land existed beyond the horizon. Seven white shells are bound to its shaft. Seven generations of Navigators. Seven islands found.
 
-Because although the Sun's ray provide warmth, energy, and sight, it also obscures map to their home. 
+He searches the sky. There—Tāne's brightest light, rising three finger-widths from the horizon, exactly as the chants promised. And there—the cluster that marks Tāwhirimātea's domain, showing which direction the storm-god's winds will blow.
 
-As the Sun's rays disappear over the horizon, the vast array of lights and colors appear once again. The group of male and females stand up, walk to their ships, push them into the water and set off.
+The Navigator points the arrow northeast.
 
-You get in your ship. While others grab hold of their oars, you keep looking at the sky. You see where each light is, where the current of water is going, and point a long red arrow in a direction.
+The paddlers begin to row. They cannot see the island. They cannot know if Tāne's signs are true. They can only trust that the Navigator reads the gods correctly, that the myths have not lied, that their ancestors' knowledge—passed father to son for seven generations—will guide them to land before the food runs out.
 
-The other ships duly take note and follow your lead.
+The Navigator holds the arrow steady. Tāne placed the stars for this purpose. Tangaroa moves the currents according to divine law. Tāwhirimātea will blow from the north, as the season requires.
 
-After a short time, you are on a voyage on the open ocean. Every oar row, conversation, and even breath uses up more energy which takes more food stores to replenish. Getting the directions to your new home correct means getting to your destination before the food and water runs out.
+The gods have always guided his people.
 
-The lights in your sky are the guide. And you are the navigator.
-
-Your family has always been. Thus, you were raised from youth to look up at the stars and see not the dazzling lights or the brilliant colors, but to see the signposts of location. To know the time of year by the location of Tāne, and see the location by your knowledge of Tāwhirimātea. These gods bring forth the winds, rains, and assign the location of stars. Your ancestors wait there for your turn to walk among them.
-
-Your friends keep rowing. They look at you from time to time. They have no way of knowing if they will reach their home in time. All this group can do is have faith in their navigator and in their gods.
-
-So they keep rowing, and keeping following the directions of your long red arrow.
+The gods will guide them now.
 
 ---
 
-In knee-deep water, you can feel the exhaustion and despair littering the beach. The remains of six huge canoes are scattered in piles around you. Of the original sixty friends who set out, only forty-three made it. The ocean gods had claimed some during the brutal storms, through illness, or dehydration.
+In knee-deep water, you can feel the exhaustion and despair littering the beach. The remains of six huge canoes are scattered in piles around you. Of the original 120 friends who set out, only 33 made it. 12 females 18 males and 3 youth. Enough to start a new island. The journey was a success.
 
-The large red arrow was surrounded by a mound of rocks. It pointed into the forest beyond the seashore. It stood as a monument to the lost friends. It helped motivate everyone to keep the settlement journey going.
+A hard one. The large red arrow is surrounded by a mound of rocks. It points into the forest beyond the seashore. It stands as a monument to the lost friends.
 
-It had barely even started.
-
-Some were constructing shelters using palm fronds and driftwood. Others walked the unfamiliar shoreline and remembered its features for anything important—shellfish, fruit trees, caves, and water holes were the most important. Haphazard shelters were built and and a fruit tree found so far, almost no resources but still better than you've had in your voyage crafts.
+We now construct shelters using palm fronds and driftwood. Others walk the unfamiliar shoreline and remembered its features for anything important—shellfish, fruit trees, caves, and water holes were the most important. Haphazard shelters were built and and a fruit tree found so far, almost no resources but still better than you've had in your voyage crafts.
 
 Even so, it all didn't matter if you didn't succeed.
 
-The Navigator embodied the gods to find which way to set the arrow. You must introduce the gods to your new home with the power of flame.
+The Navigator embodied the gods to find which way to set the arrow. You must introduce the gods to your new home with the power of flame. You are the only one left. You are the only fire-starter.
 
 Fire was a gift from the gods. If you follow your teachings. Small, dry, no wind, much air.
 
@@ -1907,9 +2043,9 @@ Your settlement is fragile but growing.
 
 The shelters are now homes with woven palm tree roofs and earth walls. Each has a mattress and a stove area for any cold nights. Thank the gods no more have passed since fire was brought to the village.
 
-Instead they've cooked crabs, drank fresh water, and had too many fruits to count.
+Instead they've cooked crabs, drank fresh water, fruits. The planters have ever started to til land and plant their crops.
 
-But the resources are limited. They always are. The group must keep exploring, and now you were chosen to complete the next vital stage. You are not the strongest warrior, not the most skilled navigator, but you can remember well. 
+But the resources are limited. They always are. The group must keep exploring, and now must complete the next vital stage. You are not the strongest warrior, not the most skilled navigator, but you can remember well. You are the geographer.
 
 "You are the best"
 "I like bird eggs. Find the nests!"
@@ -1919,19 +2055,58 @@ You hear each and more throughout the day as you prepare.
 
 Your pack waits at your bedside. A stone adze, a fishing line woven from plant fibers, dried fish, a gourd of water, and carefully prepared bark cloth for making and leaving notes and markers. Most importantly, you carry the knowledge passed down through generations—how to read the land, how to survive.
 
-As you awaken in the morning sunrise, you grab your pack. Light is your guide, and you must travel far before the heat arrives in midday. So you hold your supplies and look into the jungle beyond.
+Geographers must see. Geographers must remember. 
+
+As you awaken in the morning sunrise, you grab your pack. You must travel far before the heat arrives in midday. So you hold your supplies and look into the jungle beyond.
 
 Someone stands by the fire, next to the red navigator arrow. She's saying a prayer but stops to wave a last goodbye. 
 
 It fills your heart as you return it. Although you still wish for a companion. But there is not the ten extra dried fish and 20 fruits to afford it.
 
-So you alone are about to walk around this island for the first time. You've already swam around some of it, but the near constant cliffs make the inside a mystery. Where are the fruit, creeks, flint rock, and birds. Are there walking paths for birds or giant cats. You will be the first, and perhaps only, to know.
+So you alone set out to walk inside this island for the first time.
+
+You've already swam around some of it, but the near constant cliffs make the inside a mystery. Where are the fruit, creeks, flint rock, and birds. Are there walking paths for birds or giant cats. You will be the first, and perhaps only, to know.
 
 You remember the teachings of your ancestors. Every plant, every animal, every rock has a purpose. The gods have guided you here, but reading these signs is the test for which your ancestors learned and passed on their wisdom.
 
 "The gods have guided us," you sing. "This land will sustain us!" 
 
 This makes friend by the fire smile while she prays.
+
+--
+
+The people sit around the fire. All 31 still left. You explain to them what you found.
+
+There are fruit trees near our village. A stream of fast flowing fresh water. It's 3 days travel to the top of the island. I did not go to the other shoreline. I came back here.
+
+Everyone is huddled round. They need to know why.
+
+It was burned. From the other shoreline to 500 steps inside, it all burned. I look from the peak, and I saw another island. A bigger one.
+
+The group is silent. Everyone knows already what you feared.
+
+I did not see anyone on our island. I did not see any boats. I did not see any reason for fire to spread on the island. 
+
+Everyone knows. It is fact. No. But they must think so.
+
+They are not alone.
+
+Someone else is close. But who?
+
+We have no elders. We have no chieftains. We can either stay here and work and start our village. We can build new ship and try to go back. Or we can visit the next island.
+
+They can be ours. Or they can be Vatu.
+
+Everyone knows.
+
+Option one wait and pray.
+
+Option two, leave and pray.
+Or death, rape, and slavery.
+
+
+
+
 
 <!-- add a siting? sees another person, or perhaps remains of an old village? -->
 
