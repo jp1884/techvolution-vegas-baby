@@ -1336,15 +1336,11 @@ _The gods did not reveal, from the beginning, all things to us, but in the cours
 
 Xenophanes, Greek Historian, 6th Century BC.
 
-We will discuss what politics (mixed...) and economics (bumblebee...), but we just need you to see others, and admit for yourself, that we are technology....
+Humans play the Game of Life. Most of us today play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
 
---
+The laws of physics, chemistry, and biology still reign. They interact to create an emergent game board. Entropy wears down our homes, spoils our food, and puts timers on the human experience. Life continually inspires modifications of existing forms, while evolution determines which offspring survive to represent life's future.
 
-We've explored how life plays the game of evolution. Creatures strive to survive in their respective environments by forming ecosystems of co-dependence. We called this arena a game board because its where lifeforms must roll the dice to keep advancing squares to survive. Like a kid looking to improve her chess game, let's now seek to deeply understand the rules that determine how many turns we'll get to play.
-
-The most fundamental of these rules are the universal laws of physics, chemistry, and geography. These control how players can move, adapt, and survive. Beyond knowing their names and equations, we'll examine how different civilizations have used storytelling, philosophy, and scientific understanding to decode, negotiate, and ultimately master these laws.
-
-By understanding their different strategies, tools, and insights across multiple eras, we'll understand how humans transformed. We still roll the dice each day, but our success increased with each new year as we moved from be passive players to active architects of our own evolutionary trajectory.
+Let's experience the game. How did life play when it could only sense water? When it could see motion? Remember a path? Follow the stars? On the other side, you'll see who you are, and realize what you've been all along.
 
 ### Biological Game of Life
 
@@ -1633,37 +1629,41 @@ Walk to grass. Grass. Eat. Watch. Watch. Eat. Fast. Look up, look left. Look rig
 
 Cold will come. Honk is heard. My flock close. I say danger in deep water.
 
-#### Mammoth Gathering
+#### Mammoth Problems
 
 I am walking on grass. I am walking on path. My family follows.
 
-I see trees. That is good. Trees have bees. That is good. Trees with bees start the path. Smell of flowers. That is good. Means on time. Easy walking. That is good. Means on path. Path will take us there. I learned from my matriarch. Following lessons means life.
+I see some trees. That is good. Trees have bees. That is good. Trees with bees start the path. Smell of flowers. That is good. Means on time. Easy walking. That is good. Means on path. Path will take us there. I learned from my matriarch. Following lessons means life.
 
-Family is behind. Are we all still here?
+Family is behind. Are we all still together?
 
 Yes, yes, yes, yes, yes...All ten say yes.
 
-We are on path. Trees are thick. Cannot see far. Look for danger. Listen for danger. 
+I saw look for danger! Listen for danger!
 
 All say listening. That is good.
 
 It is so hot! says Sarah. Can we go back?
 
-No. We used too much energy. We can stop. Here is water. Use your trunk. Take up water. Spray on back. Just like that. This will help. 
+No. We need minerals. We can stop. Here is water. Use your trunk. Take up water. Spray on back. Just like that. This will help.
 
-What is this? says Sarah. I touch. It is round. I smell. It is fresh. I taste. It is sweet. It is food. We can eat. There are not many. Give to kids. I walk. I see bones. Old bones. I have not seen these before. My trunk lifts. I smell. The smell is wrong.
+Sarah is playing with wood stick. I pick up wood log. Kids come to play. They can not pick up sticks. I teach them. We play together with sticks.
 
-I turn forward. We must go. The family depends. But my legs are tight. 
+I smell something different. I walk. I see bones. Old bones. These are new bones. I lift my trunk. I smell. The smell is different. I turn forward. We must go. The family depends. But my legs are tight. 
 
-We must go. Look for danger. Listen for danger.
+We must go. Look for danger! Listen for danger!
 
-Grass will be there. Clay will be there. Others will be there. The family walks behind me. Follow the path. 
+Grass will be there. Clay will be there. Others will be there. The family walks behind me. Follow my path. 
+
+We keep walking.
 
 Bees are many. That is different. Flower scent is stronger. That is different. Path is muddy. That is different. Keep on path. Trees are thick. That is different. Path will take us there. We must go. 
 
 Air is so hot! says Tim.
 
-We can stop. Rub on trees. Fur falls off. This will help. Do like me. Fur falls off. This will help. Trees means no sun. That is good. Trees mean no wind that is bad. We must go. Listen for danger. The trees are many.
+We can stop. Rub on trees. Fur falls off. This will help. Do like me. Fur falls off. This will help. Trees means no sun. That is good. Trees mean no wind. That is bad. We must go.
+
+We walk the path. The trees are many.
 
 STOP! Look for danger. Listen for danger.
 
@@ -1671,7 +1671,7 @@ All look. All listen.
 
 I see no wolves. I see nothing, says Sarah.
 
-Wolves we see. We cannot see ghost. Only see movement. No huddle. It is hot. We must go. This path is good. We are close. We keep moving.
+Wolves we see. We cannot see tigers. They are ghost. No huddle. It is hot. We must go. This path is good. We are close. We keep moving.
 
 We keep moving. We keep moving. We are here!
 
@@ -1681,9 +1681,9 @@ Sarah and kids are running. The area looks different. Water is round, deep, clea
 
 There are deer. There are many deer.
 
-Flowers come early. This is not right. Where is grass. Matriarch taught me grass comes with flowers. But grass is late. That is different. I will yell. Mammoths are here!
+Many flowers come early. This is not right. Where is grass. Matriarch taught me grass comes with flowers. But grass is late. That is different. I will yell. Mammoths are here!
 
-Deer eating grass. Other animals eating grass. What are other animals. We need grass. Where is grass.
+Deer eating trees. Other animals eating trees and grass. What are other animals. We need more grass. Where is grass.
 
 Martha is done drinking. Martha watch!
 
@@ -1695,15 +1695,15 @@ Sarah! Come here!
 
 We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it. Water is here. Deep water. Cool water. Clay is here. We need both. Plants are different now. Less minerals. Journey is harder now. Always hot. But we must come.
 
-We must get here for clay. Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat grass. We need grass.
+We must get here for clay. Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat trees. We need grass.
 
-Deer bring new flowers. Deer bring new grass. Deer bring difference.
+Deer bring new trees. Deer bring new flowers. Deer bring different.
 
 I see ghost! I see tiger! says Martha.
 
 Together! Together! Family come together. Kids in center! Tusks outside. We safe! Watch Sarah. Ghost roar. We stay. We always stay together. Watch kids. Watch Sarah. I see no tiger!
 
-I see sticks. Long sticks. Not tree sticks. Sticks move. Sticks point at us. What is sticks? What can hold sticks. Sticks are not ghost. Sticks are not wolf. We must roar. Roar loud. Sticks are closer. Sticks are close...STICKS HIT SARAH!
+I see sticks. Long sticks. Not tree sticks. Sticks move. Sticks point at us. What is sticks? It holds sticks. Sticks are not ghost. Sticks are not wolf. We must roar. Roar loud! Sticks are closer. Sticks are close...STICKS HIT SARAH!
 
 Panic! Panic!
 
@@ -1882,11 +1882,13 @@ Elder smiles. "If the gods will it."
 
 #### The Limits of Signs
 
+<!-- switch ? -->
+
 The merchant ship rounds the headland at dawn. I've sailed from Phasis, Sinope, and every port in between. My hold is full of wares—Chinese silk, carved jade, metals, shells, stones, and tools from lands unknown. Three months of favorable winds. Poseidon has been kind.
 
 But as we approach the Rhodos harbor, I see something is wrong.
 
-Half the town is gone. Where warehouses and homes should stand, there is only rubble and sand. Fishing boats lie shattered far up the beach. People move through the debris like ghosts.
+Half the town is gone. Where warehouses and homes should stand, there is only rubble and sand. Fishing boats lie shattered far up the beach. People move through the debris like vultures looking for scraps that they place on carts pulled by mules and oxen.
 
 We anchor offshore. I row in with my first mate.
 

@@ -11,7 +11,9 @@ _"Technology is anything that was not around when you were born."_
 
 ## Author's Note
 
-This isn't a book that will tell you stuff is getting bad and to fix them here's what _someone else_ needs to change. This is the book that explains, stuff is getting both good and bad, here is the beginning of the scientific understanding why stuff both happen, and here is how _"I, the reader"_, can adapt in order to use the good to fix the bad.
+This is not a book that will tell you politics and economics is getting really bad, and to fix it, here's what _someone else_ needs to change.
+
+This is the book that explains, politics and economics is getting both good and bad, here is the beginning of the scientific understanding why this is happening, and here is how _"I, the reader"_, can adapt in order to use the good to fix the bad.
 
 In other words, this is a book for people in the middle. I hope you like it.
 
