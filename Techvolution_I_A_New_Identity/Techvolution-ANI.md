@@ -1344,6 +1344,8 @@ Our game is different because of us. We have mythological, philosophical, scient
 
 Let's experience the game. How did life play when it could only sense water? When it could see motion? Remember a path? Follow the stars? On the other side, you'll see who you are, and realize what you've been all along.
 
+- should note interactions/teamwork/collaborations more.
+
 ### Biological Game of Life
 
 #### Weed Seeds
@@ -1820,7 +1822,7 @@ A mother walked on soil. Her child was behind her with water. Another woman had 
 
 And then I saw three seeds fall.
 
-### Mythological Knowledge
+### Technological Game of Life
 
 #### The Power of Signs
 
@@ -1980,6 +1982,9 @@ Outside, the aqueduct flows. The screws turn. The work continues.
 
 #### Renaissance - Limits of Reason - Effectual Truth
 
+<!-- more introspective, internal dialogue for Mach.? -->
+<!-- does cutter humor Mach. "Release them, everyone else is. People will read them. Then asks for something free. -->
+
 The woodcutter marks another oak. "This one?"
 
 "Yes," Niccolo says. "And the seven beyond it."
@@ -1998,11 +2003,11 @@ The woodcutter shrugs.
 
 The woodcutter says nothing.
 
-"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, showed off his beautiful legions, then left and his wonder behind him. The bridge was theater. A demonstration. The Germanic tribes were downfounded. So confused they were scared of us and so left Rome alone for centuries; because of a few bridges."
+"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, showed off his beautiful legions, then left and his wonder behind him. The bridge was theater. A demonstration. The Germanic tribes were dumbfounded. So confused they were scared of us and so left Rome alone for centuries; because of a few bridges."
 
 "So we were cruel?"
 
-"No! We were *effective*. The desert they called peace *was* peace—Roman peace, created by Roman swords. The bridge that burned still stood in the minds of those who saw it."
+"No! If they raided us they'd die. Instead the traded and we had peace. We were *effective*. The desert they called peace *was* peace—Roman peace, created by Roman swords. The bridge that burned still stood in the minds of those who saw it."
 
 The woodcutter shifts. "Some people say—"
 
@@ -2026,15 +2031,15 @@ Niccolo deflates. His shoulders drop.
 
 "I did." A pause. "No one reads them."
 
-The woodcutter shrugs. "Well. All these new books being printed—who can read it all? My cousin says there are more books in Florence now than anyone could finish in a lifetime. What's the point of it all? Let the stars by the stars and the princes by the princes."
+The woodcutter shrugs. "Well. All these new books being printed—who can read it all? My cousin says there are more books in Florence now than anyone could finish in a lifetime. What's the point of all those new words anyway? Let the stars by the stars and the princes by the princes."
 
 Niccolo stares at him.
 
 "Being at the bottom makes it easier to see what's going on at the top. I've served princes. I've been tortured by them. I've studied their rise and fall. The view from down here is clarifying."
 
-The woodcutter marks another tree. "If you say so. CanI have this one?"
+The woodcutter marks another tree. "If you say so. Can I have this one?"
 
-"Yes. That one too."
+"Yes. Take that too."
 
 ---
 
@@ -2046,9 +2051,93 @@ A bookstore on a cobblestone street has a sign:
 
 Three people enter.
 
-#### Newton - Universal Laws - Evermore Accurate Predictions 
+#### The Method
 
-reads Bacon - Scientific Method. notes he was inspired by effectual truth
+Different candles burn on the table. The glass jars sit nearby, along with small metal boxes with holes punched in the lids.
+
+"So we're testing what's *in* the air that makes fire burn."
+
+"That's the hypothesis."
+
+"But we don't know what's in air."
+
+"That's why we're testing."
+
+The merchant points to three candles. "Same candles. Different air sources. This one gets air from outside—through this tube from the window. This one gets air from the fireplace chimney. This one just gets room air."
+
+"And we measure which burns hottest?"
+
+"And longest. And brightest."
+
+The blacksmith looks skeptical. "How do we measure hottest?"
+
+"Put an iron rod in each flame. See which heats faster."
+
+They light all three candles simultaneously. The merchant counts aloud. The blacksmith watches the flames.
+
+"The chimney one is brighter."
+
+"Write it down."
+
+Chimney air: flame brighter.
+
+"But is it hotter?"
+
+They place identical iron rods in each flame, tips touching wax at the other end.
+
+"Now we wait."
+
+"For what?"
+
+"To see which melts the wax first."
+
+They watch. The chimney-air candle's wax melts first. Then the window-air candle. Then the room-air candle.
+
+"Chimney air makes hotter fire."
+
+"But why? What's different about chimney air?"
+
+"Maybe it's warmer already?"
+
+"Or maybe there's something *in* it. Something from the fire below that makes fire burn better."
+
+The merchant writes: Chimney air = hottest flame. Why?
+
+"We don't know," the blacksmith says.
+
+"Then we test more. What if we capture air from different places? From the forge when I'm working hot iron? From the garden? From a closed room?"
+
+"My cousin in London says they're trying to separate air into parts. See what it's made of."
+
+"And in Paris, they're testing different airs in combustion. Everyone's trying to understand what makes fire burn."
+
+"Hotter fire means better metals. We need to test faster." The blacksmith stands. "I can build better containers. Seal them properly. We need pumps to move air from one place to another. We need—"
+
+"We need to write this down first," the merchant interrupts. "Record what we saw. So we can repeat it. So others can too."
+
+The blacksmith looks at the three candles, still burning at different intensities.
+
+"What else can we test?"
+
+"Does metal type matter? Does flame color tell us temperature? What if we restrict the air flow—make it come through a small hole?"
+
+"We don't know any of it."
+
+"But we can find out."
+
+The merchant picks up the book lying nearby. Novum Organum.
+
+"Bacon says we command nature by obeying her. We're learning to obey."
+
+"By testing."
+
+"By testing everything."
+
+They light more candles. Different air sources. Different containers. They watch. They measure. They write.
+
+Three notebooks fill with observations.
+
+#### Newton - Universal Laws - Evermore Accurate Predictions 
 
 #### Charles - Struggles
 
