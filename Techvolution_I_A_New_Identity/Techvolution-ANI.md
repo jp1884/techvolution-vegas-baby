@@ -1340,7 +1340,7 @@ Humans play the Game of Life. Most of us today play it with tools, but that is t
 
 The laws of physics, chemistry, and biology still reign. They interact to create an emergent game board. Entropy wears down our homes, spoils our food, and puts timers on the human experience. Life continually inspires modifications of existing forms, while evolution determines which offspring survive to represent life's future.
 
-Our game is different because of us. We have mythological, philosophical, scientific interpretations. We also have artificial selection. Yet these are merely humans against the current of evolution that we don't yet realize.
+Our game is different because of us. We have mythological, philosophical, scientific interpretations. We also have artificial selection. Yet these are merely human creations that we don't yet realize.
 
 Let's experience the game. How did life play when it could only sense water? When it could see motion? Remember a path? Follow the stars? On the other side, you'll see who you are, and realize what you've been all along.
 
@@ -1633,6 +1633,14 @@ Walk to grass. Grass. Eat. Watch. Watch. Eat. Fast. Look up, look left. Look rig
 
 Cold will come. Honk is heard. My flock close. I say danger in deep water.
 
+#### Bear Kids
+
+One cub lived.
+One cub lived.
+One cub lived.
+
+Three cubes lived.
+
 #### Mammoth Problems
 
 I am walking on grass. I am walking on path. My family follows.
@@ -1719,6 +1727,7 @@ Three mammoths fall.
 <!-- territory is vast -->
 <!-- narratives are introduced to explain the information being rec'd -->
 <!-- are tools given enough importance? hides and flints enough? -->
+<!-- wounded warrior in camp -->
 
 Light is high. The foraging party left at dawn. I stay with Mother, learning.
 
@@ -1810,7 +1819,7 @@ I look at the stars. They have names. They teach us things.
 
 Soon the Hunter-Star rose, the stories told us cold season was near. Our hides kept us warm. Our dried food kept us fed.
 
-When the Hunter-Star fell, warm returned. I was strong enough to go with the foraging party. I saw Giving Tree. It had no fruit. Too early. We kept walking. We gathered roots. We gathered reeds. We kept walking to someplace new.
+When the Hunter-Star fell, warm returned. I was strong enough to go with the foraging party. I saw Giving Tree. It had no fruit. We kept walking. We gathered roots. We gathered reeds. Many baskets were still empty. We kept walking to someplace new.
 
 And we saw something new.
 
@@ -1941,6 +1950,10 @@ The crowd is silent. Shocked.
 "I don't mean to interrupt. Build your temple. Honor the gods. I look forward to the festivals. If anyone is interested to talk, I'll walk to the hill. And we can talk together."
 
 Three people follow.
+
+#### Socratic Debate - Use of Reason
+
+Content here....
 
 #### Averroes - Height of Reason
 
@@ -2137,94 +2150,216 @@ They light more candles. Different air sources. Different containers. They watch
 
 Three notebooks fill with observations.
 
-#### Newton - Universal Laws - Evermore Accurate Predictions 
+#### Universal Laws
+
+**From Edmund Halley, Greenwich Observatory**  
+**To Astronomer John Flamsteed, Royal Observatory**  
+**14 March 1686**
+
+Flamsteed,
+
+I have tested Newton's equations against Jupiter's moons. He claims his mathematics can predict their positions on any given date. I chose last Thursday at nine in the evening.
+
+His calculation placed the first moon at 2.4 diameters from Jupiter's edge. I observed: 2.4 diameters.
+
+The second moon: 5.1 diameters. I observed: 5.1 diameters.
+
+You have called his methods unproven. I begin to think otherwise.
+
+—Halley
+
+**From John Flamsteed, Royal Observatory**  
+**To Edmond Halley, Greenwich**  
+**22 March 1686**
+
+Halley,
+
+I tested the same prediction, not knowing you were testing it as well.
+
+I observed 2.4 and 5.1 diameters. Exactly as you report.
+
+I also tested his lunar tables for the Moon's position on the 18th. His mathematics predicted 14 degrees, 23 minutes east of the meridian at midnight. I observed: 14 degrees, 23 minutes.
+
+I have checked my calculations three times. Newton's equations are accurate beyond anything I have seen.
+
+We tested independently. We observed the same results. But what troubles me more: Newton claims the same mathematics that predicted Jupiter's moons governs the Moon's orbit, the tides, even a stone falling in Cambridge. One law for the heavens and the Earth. That should not be possible.
+
+—Flamsteed
+
+**From Edmond Halley, Greenwich Observatory**  
+**To John Flamsteed, Royal Observatory**  
+**5 April 1686**
+
+Flamsteed,
+
+I have ventured something bold.
+
+Newton published a prediction eighteen months ago—a lunar eclipse timing for this coming May 3rd. He calculated the Moon would enter Earth's shadow at 11:17 in the evening, totality lasting 58 minutes.
+
+If his mathematics are correct, the eclipse will occur exactly as he predicted. He predicted this before the observation was possible. The mathematics knew before we could see it.
+
+What might we accomplish with such knowledge?
+
+I shall observe the eclipse on May 3rd.
+
+—Halley
+
+**Postscript, 4 May 1686:**
+
+The eclipse began at 11:17 in the evening.
+
+Totality lasted 58 minutes.
+
+I have no words. I wonder. What we will discover next?
 
 #### Charles - Struggles
 
+Remove. too much of a departure.
+
 Struggles.
+- New Model Army
+- Fairfax
 
 #### Darwin - Life's Laws - Universal
 
+The fossil shop stood between a bookseller and a tinsmith on Lyme Regis's main street. Two men paused outside, examining the specimens in the window, then entered.
+
+"Petrified wood," the taller man said. "The stall by the harbor had petrified wood. Tree turned to stone."
+
+Mary Anning looked up from her workbench. "Looking for something in particular?"
+
+"The most interesting you have," the taller man said.
+
+Mary set three specimens on the counter.
+
+"These are from different layers," she said. "This one"—a coiled shell, ridged and chambered—"from thirty feet down. This one"—vertebrae, each bone the size of a fist—"from sixty feet. And this"—a tooth, serrated, curved like a hook—"from ninety."
+
+The taller man leaned closer. "Different animals?"
+
+"Different worlds," Mary said.
+
+The shorter man frowned. "Worlds?"
+
+"The deeper you go, the older the rock," Mary said. "We dig to reach Roman ruins. These are deeper still. What lived at ninety feet never lived at thirty feet. What lived at thirty feet is gone now."
+
+"Gone," the taller man repeated. "Extinct?"
+
+"Yes."
+
+The shorter man picked up the tooth. "But the Flood would have mixed them," Mary said. "Jumbled everything together. These are separated. Layers. Each layer has its own creatures, and nothing else."
+
+The taller man studied the vertebrae. "So these died long before humans."
+
+"Long before," Mary said.
+
+The two men looked at each other.
+
+"How long?" the shorter man asked.
+
+"I don't know," Mary said. "Longer than we have words for."
+
+The taller man pointed to the coiled shell. "And nothing like this lives now?"
+
+"Nothing," Mary said. "I've looked. So have others."
+
+The shorter man exhaled slowly. "So God's creation... can end?"
+
+Mary didn't answer. She let them look.
+
+The taller man picked up the shell. "What a wonderous thing to behold. How much Ms. Anning?"
+
+"Two shillings for the ammonite. Five for the vertebrae. Three for the tooth."
+
+The taller man glanced at his companion. His companion nodded.
+
+"We'll take all three," the taller man said.
+
+Mary wrapped them in cloth, took their coins.
+
+As they reached the door, the shorter man turned back. "What will you do next?"
+
+"Keep digging," Mary said.
+
+"Please do Ms. Anning?. This is most interesting."
+
 #### Douglas - Tool Access
 
-Frederick was a Maryland farm boy. Salt of the earth country, where farmers raised crops and families before there was internet or school systems—not much to learn but how to plant, plow, and work with your hands.
+Frederick was a Maryland farm boy from salt-of-the-earth country, where farmers raised crops and families—not much to learn but how to plant, plow, and work with your hands.
 
-Frederick worked the fields with his family. There weren't many machines around, so he had to spill much blood, sweat, and tears, for himself and his kin. Each year the crops were planted, the barns were cleaned, and the farmers woke up early to do it all over again.
+Frederick worked the fields with his family. There weren't many machines, so he spilled blood, sweat, and tears for himself and his kin. Each year the crops were planted, the barns cleaned, and the farmers woke early to do it all again.
 
-In a few years, Frederick was sent to work with a relative in Baltimore. The house was large, and the young family could use help cleaning, shopping, doing chores. It made his mother happy he wouldn't sweat so much, yet Frederick was a farmer and unsure of the big city.
+In a few years, Frederick was sent to work with a relative in Baltimore. The house was large, and the young family needed help with cleaning, shopping, and chores. His mother was happy he wouldn't sweat so much, but Frederick was a farmer, unsure of the big city.
 
-The patriarch of the house was named Hugh. He wasn't around much. His new wife, Sophia, was. She was a foreigner used to colder climates who didn't know many people yet, so she stayed in a lot. Sophia was kind and treated Frederick well. Not as a farmer, but as an interesting person. She made Frederick feel at ease.
+The patriarch, Hugh, wasn't around much. His new wife, Sophia, was. She was a foreigner used to colder climates who didn't know many people yet, so she stayed in. Sophia was kind and treated Frederick well—not as a farmer, but as an interesting person. She made him feel at ease.
 
-One day, Sophia handed Frederick a list of items to pick up from the store. Frederick's eyes looked down, his shoulders slouched, like a dog who disappointed its masters. Frederick mumbled, "I can't read."
+One day, Sophia handed Frederick a list for the store. His eyes looked down, his shoulders slouched, like a dog who disappointed its master. He mumbled, "I can't read."
 
-"My God, that won't do!" Sophia responded, then continued, "Reading is good. How else can a person give and receive information from... from... the world! I'll teach you; we'll do it together."
+"My God, that won't do!" Sophia said. "Reading is good. How else can a person give and receive information from the world! I'll teach you; we'll do it together."
 
-So, Sophia began to teach Frederick to read. Sophia was overjoyed.
+So Sophia began to teach Frederick to read. She was overjoyed.
 
-Frederick even more so! Finally, all those markings in the store, on street corners, in books, in newspapers, in the Holy Bible, meant something! Go left, turn right, open, closed, discount, welcome, and Salvation, all words that open a new world!
+Frederick even more so! Finally, all those markings—in stores, on street corners, in books, newspapers, the Holy Bible—meant something. Go left, turn right, open, closed, discount, welcome, Salvation. Words that opened a new world.
 
-For the first time in his life Frederick had self-respect.
+For the first time in his life, Frederick had self-respect.
 
-Now Frederick danced to the store, and he whisked himself to do his chores. As he kept learning he loved how the world kept getting bigger, and more information kept pouring in.
+Now Frederick danced to the store and whisked through his chores. As he kept learning, the world kept getting bigger, and more information kept pouring in.
 
-One day Hugh came home early. He saw Sophia and Frederick reading at the dinner table. Hugh walked into the room. "Boy, get out, and wait in the hallway. Face the wall."
+One day Hugh came home early and saw Sophia and Frederick reading at the dinner table. He walked into the room. "Boy, get out and wait in the hallway. Face the wall."
 
-Frederick got out, went outside, and faced the wall.
+Frederick went outside and faced the wall.
 
-Seconds turned to minutes. Frederick rolled the newspaper in his hands tighter. He didn't want to go back to the farm. But even more, he didn't want his angel to get in trouble.
+Seconds turned to minutes. He rolled the newspaper in his hands tighter. He didn't want to go back to the farm. But even more, he didn't want his angel to get in trouble.
 
-Inside the room, Sophia was curious, "What is it?." Hugh responded, "This isn't Ohio... Darling, you can't do that. We could get in a lot of trouble. You can't teach them to read."
+Inside, Sophia asked, "What is it?"
 
-Sophia responded, "Everyone learns to read in Ohio."
+"This isn't Ohio, darling," Hugh said. "You can't do that. We could get in a lot of trouble. You can't teach them to read."
 
-Hugh takes a seat and takes a deep breath to calm his nerves. Now he looks at his naive wife "This isn't a free State. He is a slave. What do you think happens when slaves read? Don't you think they'll start thinking?" Sophia's eyes went wide. Hugh continued, "It's against the rules to teach a slave to read... now teach the boy."
+"Everyone learns to read in Ohio."
 
-As Frederick hears the hallway door open, he straightens up and grips his newspaper.
+Hugh sat down and took a deep breath. He looked at his naive wife. "This isn't a free state. He's a slave. What do you think happens when slaves read? Don't you think they'll start thinking?" Sophia's eyes went wide. "It's against the rules to teach a slave to read. Now unteach the boy."
 
-Sophia says, "Turn around."
+Frederick heard the hallway door open. He straightened and gripped his newspaper.
 
-Frederick does and looks at his angel, who talked with him like he was a person. And she looked back and only saw _her boy_.
+"Turn around," Sophia said.
 
-The joy of teaching someone to read was gone. Thus, Sophia became a demon protector of vile racism to justify human servitude.
+Frederick turned and looked at his angel, who had talked with him like he was a person. She looked back and saw only her boy.
 
-Frederick's world shut down again. The one white person ignorant enough to treat him like a person was now an educated convert to the rules that put him into chains. Physical chains if needed, but evil prefers mental chains of ignorance; they stay on so much easier.
+The joy of teaching was gone. Sophia became a demon protector of vile racism to justify human servitude.
 
-Weeks later, Frederick was still in despair. His daily routine was the same. Yet, working under demonic masters is just different. He didn't read signs at the store. He didn't think of his next lesson while doing his chores, and he never saw Sophia smile again.
+Frederick's world shut down again. The one white person ignorant enough to treat him like a person was now an educated convert to the rules that put him in chains. Physical chains if needed, but evil prefers mental chains of ignorance—they stay on easier.
+
+Weeks later, Frederick was still in despair. His routine was the same, but working under demonic masters is different. He didn't read signs at the store or think of his next lesson during chores. He never saw Sophia smile again.
 
 Demons are never happy. Demons are always on guard.
 
-One day while walking in the city, Frederick saw a newspaper, the avenue to knowledge whose path Frederick was once on. He looked at the markings, saw some words he knew, and one word he didn't. Yet he still stared at it.
+One day while walking in the city, Frederick saw a newspaper—the avenue to knowledge he'd once been on. He looked at the markings, saw words he knew and one he didn't. Yet he stared.
 
 Why?
 
-The answer slapped him harder than the demon ever did, he read the words "The Free States in the North." He heard the word freedom before, but he didn't know freedom was a real place.
+The answer slapped him harder than the demon ever did. He read: "The Free States in the North." He'd heard the word freedom before, but he didn't know freedom was a real place.
 
-A shockwave went through him when he realized if slavery was a place, so must freedom be a place too. Frederick realized he could break chains! Because ignorance was always his demon, and knowledge was always his angel. And he fought ignorance and received wisdom, whenever he read.
+A shockwave went through him. If slavery was a place, so must freedom be. Frederick realized he could break chains! Because ignorance was always his demon, and knowledge was always his angel. He fought ignorance and received wisdom whenever he read.
 
-So, Frederick taught himself to read.
+So Frederick taught himself to read.
 
-He practiced with "ignorant" white kids on the streets. He read item tags at the grocery store and signs on the road. And he practiced every time he was at the Baltimore dock; the dock I said, you know the place, where ships will take you anywhere in the world.
+He practiced with "ignorant" white kids on the streets, read item tags at the grocery store and signs on the road. And he practiced every time he was at the Baltimore dock—the place, you know, where ships will take you anywhere in the world.
 
 If you can read the schedule.
 
-One day Sophia waited for her boy to return. But the boy died when the man Frederick Douglass walked onto the ship headed north to freedom. The man knew the exact time, place, and fare he needed to get on. He read it himself.
+Frederick Douglass walks onto the ship headed north to freedom.
 
-Reading opened the world to Frederick, and now the free world was opened to him.
-
-Frederick Douglass wasn't happy just reading, he became a world-famous orator and writer. His reading changed his life, his words changed the game of life for millions more.
-
-In a world with no radio, video, or telephones, Douglass traveled on trains and boats throughout the Northern States and Europe telling everyone the truth about slavery. His words, carried by telegraphs and printers, reached those who couldn't hear his glorious orations.
-
-There was still much work to be done, but it would be done by those motivated to continue changing the game because of the beliefs and actions of Frederick Douglass.
+One society lives. One society falls. Civilization unknowingly evolves.
 
 #### Soviets - We Got This - No They Didn't - Limits of Predictions
+
+Content goes here.
 
 #### Apollo 8 - Unifying the Levels of Consciousness - All Needed, All Equal
 
 - Blue and Green Earth
 - Prays
 - Nav goes out
-- Lovell orients via memory of the stars
+- Lovell orients via memory of the stars. some prayer is needed.
 - All consciousness levels are needed, based on tools inputs and environmental requirements.
 
 ### Mythological Truths
