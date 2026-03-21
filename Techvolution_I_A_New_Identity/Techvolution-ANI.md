@@ -130,6 +130,11 @@ Chapter 4—Sandglass: The Ever Present Clock
 Chapter 5—Clay: What Life Is, The Creator of Players
 Chapter 6—Scoreboard: What Evolution Is, The Editor of Players
 Chapter 7—What Does the Game of Life Mean
+Chapter 8—Our Base Player Nature
+Chapter 9—Spreading the Technological Soil
+Chapter 10—Planting, Building, and Playing The New Game
+Chapter 11—Back to Natural
+Chapter 12—Stories Vignettes
 
 Chapter 4—The History of Life's Evolution
 Chapter 5—Our History from Trees to Fire
@@ -189,8 +194,6 @@ Where We Are, and Where We're Going
  -Trump vs Biden et al.
  -How to get to the future, and what happens we don't hurry.
   -->
-
-
 
 ## Foreword
 
@@ -1334,15 +1337,15 @@ Let's look at these stories so we can realize why techvolution is the scientific
 
 _The gods did not reveal, from the beginning, all things to us, but in the course of time through seeking we may learn and know things better. But as for certain truth no man knows it, nor shall he know it, neither of the gods nor yet of all things that I speak. For even if by chance he were to utter The Final Truth, he would himself not know it: for all is but a woven web of guesses._
 
-Xenophanes, Greek Historian, 6th Century BC.
+Xenophanes, Greek Philosopher 6th Century BC.
 
 Humans play the Game of Life. Most of us today play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
 
-The laws of physics, chemistry, and biology still reign. They interact to create an emergent game board. Entropy wears down our homes, spoils our food, and puts timers on the human experience. Life continually inspires modifications of existing forms, while evolution determines which offspring survive to represent life's future.
+The laws of physics, chemistry, and biology still reign. They interact to create an emergent game board. Entropy wears down our homes, spoils our food, and puts timers on the entire human experience. Life continually inspires modifications of existing forms, while evolution determines which offspring survive to represent life's future.
 
-Our game is different because of us. We have mythological, philosophical, scientific interpretations. We also have artificial selection. Yet these are merely human creations that we don't yet realize.
+Our game is different because of us. We have mythological, philosophical, scientific interpretations that create artificial selection pressures. Sometimes these pressures liberate and advance us on the gameboard. Sometimes they exploit and degrade. We're still learning which is which.
 
-Let's experience the game. How did life play when it could only sense water? When it could see motion? Remember a path? Follow the stars? On the other side, you'll see who you are, and realize what you've been all along.
+To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and die so often? Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: realizing of our technological nature.
 
 - should note interactions/teamwork/collaborations more.
 
@@ -1589,13 +1592,13 @@ Open area. Water is near. Grass is near. Trees here. Good. I tell mate, we go do
 
 Flock goes down. Mate goes down. We honk. We bow. Necks touch. We are mates.
 
-We must find. Where to next. We must find safe nest. Land. Look, look. Cavity is deep. No predators reach. Something in tree. It safe animal.
+We must find. Where to nest. We must find safe nest. Land. Look, look. Cavity is deep. No predators reach. Something in tree. It safe animal.
 
 I lay eggs. 8 eggs. I see them. Our eggs. My mate brings food. Flies are here. Bite at flies. I sit. Warmth. I sit. He hunts. He sits. I hunt. Rain. We sit. Sun. We sit. Must turn eggs. We wait.
 
 Cold comes. Puff up. Warm comes. Puff down.
 
-Crack. Crack. Crack. Chicks hatch. We see. Our kids. Wet. Small. Eyes open. They see us. 8 kids. Our kids.
+Crack. Crack. Crack. Chicks hatch. We see. We smell. Our kids. Wet. Small. Eyes open. They see us. 8 kids. Our kids.
 
 Day one. Chicks dry. Soft down. Yellow and brown. They peep. Kids here. I fly, bring food. They eat. I stay. He flies. Brings food.
 
@@ -1995,16 +1998,13 @@ Outside, the aqueduct flows. The screws turn. The work continues.
 
 #### Renaissance - Limits of Reason - Effectual Truth
 
-<!-- more introspective, internal dialogue for Mach.? -->
-<!-- does cutter humor Mach. "Release them, everyone else is. People will read them. Then asks for something free. -->
+The woodcutter marks another oak. "Can I have this big one?"
 
-The woodcutter marks another oak. "This one?"
-
-"Yes," Niccolo says. "And the seven beyond it."
+"No," Niccolo says. "The four beyond it."
 
 They walk the Tuscan property line—which trees, what price, when to cut. Niccolo is no longer a diplomat. He manages land now, sells logging rights, walks with locals who call him Niccolo instead of Secretary.
 
-The woodcutter pauses. "My son asks why we Italians so weak now. The Spanish take what they want. The French march through whenever they please. His grandfather told him Italy was once the master of the world."
+The woodcutter pauses. "My son asks why we Italians are so weak now. The Spanish take what they want. The French march through whenever they please. His grandfather told him Italy was once the master of the world."
 
 Niccolo stops walking.
 
@@ -2016,11 +2016,11 @@ The woodcutter shrugs.
 
 The woodcutter says nothing.
 
-"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, showed off his beautiful legions, then left and his wonder behind him. The bridge was theater. A demonstration. The Germanic tribes were dumbfounded. So confused they were scared of us and so left Rome alone for centuries; because of a few bridges."
+"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, showed off his beautiful legions, then left, burning his wonder behind him. The bridge was theater. A demonstration. The Germanic tribes were dumbfounded by our technology. They used log boats to cross! So confused they were scared of us and so left Rome alone for centuries; because of a few bridges."
 
 "So we were cruel?"
 
-"No! If they raided us they'd die. Instead the traded and we had peace. We were *effective*. The desert they called peace *was* peace—Roman peace, created by Roman swords. The bridge that burned still stood in the minds of those who saw it."
+"No! When they raided us they'd die. Instead the traded and we had peace. We were *effective*. The desert they called peace *was* peace—Roman peace, created by Roman swords. The bridge that burned still stood in the minds of those who saw it."
 
 The woodcutter shifts. "Some people say—"
 
@@ -2050,9 +2050,9 @@ Niccolo stares at him.
 
 "Being at the bottom makes it easier to see what's going on at the top. I've served princes. I've been tortured by them. I've studied their rise and fall. The view from down here is clarifying."
 
-The woodcutter marks another tree. "If you say so. Can I have this one?"
+The woodcutter marks another tree. "I understand. Can I have the big tree too?"
 
-"Yes. Take that too."
+"Yes. Take that one too."
 
 ---
 
@@ -2066,7 +2066,7 @@ Three people enter.
 
 #### The Method
 
-Different candles burn on the table. The glass jars sit nearby, along with small metal boxes with holes punched in the lids.
+Different candles burn on the table. Several glass jars sit nearby, along with small metal boxes with holes punched in the lids.
 
 "So we're testing what's *in* the air that makes fire burn."
 
@@ -2210,17 +2210,11 @@ The eclipse began at 11:17 in the evening.
 
 Totality lasted 58 minutes.
 
-I have no words. I wonder. What we will discover next?
+I have no words. I wonder. What will we discover next?
 
-#### Charles - Struggles
+#### Universal Laws for Life
 
-Remove. too much of a departure.
-
-Struggles.
-- New Model Army
-- Fairfax
-
-#### Darwin - Life's Laws - Universal
+<!-- would be nice to define evolution here again, as a reminder to the reader what species are...-->
 
 The fossil shop stood between a bookseller and a tinsmith on Lyme Regis's main street. Two men paused outside, examining the specimens in the window, then entered.
 
@@ -2282,7 +2276,142 @@ As they reached the door, the shorter man turned back. "What will you do next?"
 
 "Please do Ms. Anning?. This is most interesting."
 
-#### Douglas - Tool Access
+#### Soviets - We Got This - No They Didn't - Limits of Predictions
+
+1961. I am director of the Institute of Cybernetics in Kiev. Central planning is building socialism. Socialism is science. More efficient central planning will build socialism faster. Rapid growth generates massive amounts of data—production quotas, resource allocation, distribution networks. 
+
+Paper is slow. People are slow. Decisions take months. Inefficiencies compound. Planning bureaucracy will grow fortyfold by 1980.
+
+Socialism is science. Science needs new technologies.
+
+We must keep going.
+
+Computers are new. They are powerful. A national computer network. Connect all economic units—factories, farms, collective enterprises, distribution centers. Real-time data flowing to central processors. Automated resource allocation. Optimal planning. OGAS: National Automated System for Computation and Information Processing.
+
+We must keep going.
+
+1962. I propose OGAS to Soviet leadership. The numbers are clear. Current planning takes too long. Information gets lost between ministries. A centralized network would eliminate these inefficiencies. Production would increase.
+
+We must keep going.
+
+Some officials are intrigued. Studies are approved. I begin detailed technical specifications. Network architecture. Data protocols. Processing centers in major cities. Terminals in every significant economic unit.
+
+We are going.
+
+1963. I present to party officials. Big cost. Bigger savings. Speed increased. The mathematics is sound. This is science.
+
+Resistance. Ministry officials ask questions. Who controls data? Who would have access? I explain: the system serves socialism. All ministries benefit from better information.
+
+We must keep going.
+
+1964. Khrushchev falls. Brezhnev takes power. Reformers leave seats. I send more proposals.
+
+We should be going.
+
+1965. Gosplan—the State Planning Committee—opposes OGAS. Too expensive. Current systems good enough.
+
+I keep presenting data. The current system is not optimal. I can't say there are shortages. But there are shortages. Inefficiencies are growing. OGAS would fix this.
+
+Why aren't we going.
+
+1970. The 24th Communist Party Congress is coming. OGAS is up for funding. It is formally shelved. "Insufficient funding." That's the official reason. The real reason: too many unscientific officials see it as a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their positions.
+
+We will return to this soon.
+
+We should keep going.
+
+#### USA - Paul Baron
+
+1955. The Soviets detonate their first hydrogen bomb. Much of my family is still in Eastern Europe. I'm in the United States. Nuclear war must be prevented.
+
+Computers are new, powerful, and  advancing. I should now, I worked at Eckert and Mauchly on UNIVAC models. I have a masters in engineering from UCLA. I'm at RAND Corporation in Santa Monica. I have so much resources. I am so much responsibility. I can help prevent nuclear war.
+
+Must get started.
+
+The Air Force keeps a list of research needs at RAND. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications used high-frequency connections. Those are vulnerable to nuclear attacks.
+
+Must keep going.
+
+A completely distributed network. No centralization. Like a fishnet—every node connected to multiple others. Run simulations with mey team. Discovery! Just three or four connections per node would be almost as robust network as the theoretical limit. Redundancy is key.
+
+Must keep going.
+
+And block messages. Break messages into small chunks of data. Each finds its own route through the net. If one fails to deliver, resend it. Everything reassembles at the destination. Packets increase redundancy.
+
+Must keep going.
+
+I'm an engineer. I have a team. We draw diagrams. Write papers. Detailed. Very detailed. RAND presents to the Air Force. Approved!
+
+Let's keep going.
+
+The Defense Department wants this network for all military branches. On command, I bring it to the Defense Communication Agency. Bureaucratic mess. Delays. Jurisdictional concerns. Blocked.
+
+Must keep going.
+
+I try AT&T. They have a huge phone network. Just needs some modifications.
+
+I present the system. Switching, routing, packet assembly, redundancy protocols, error correction. Eyes roll. Old engineer says "Son, this is how a telephone works." Then ninety-four separate speakers to describe the entire architecture. An executive says "Now do you see why packet switching won't work?".
+
+I look at him.
+
+"No."
+
+Must keep going.
+
+RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. DARPA distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks packets. It's a better name. It sticks.
+
+1967. Larry Roberts reads my work. He works at DARPA. He approves funding. Teams of PhDs implementing my basic concepts. They are doing great work. The distributed communication network is called ARPAnet.
+
+1969. Four locations are online. UCLA to Stanford. UC Santa Barbara to University of Utah.
+
+1971. Fifteen nodes are connected. Email is invented. People love it.
+
+1973. Thirty-five nodes. International connections start up.
+
+The fishnet keeps growing.
+
+No center to destroy. No single point of failure. No control possible.
+
+Just nodes, connecting.
+
+More going online.
+
+Must keep going.
+
+#### Racoon Coyote
+
+Content goes here.
+
+#### Apollo 8 - Unifying the Levels of Consciousness - All Needed, All Equal
+
+- Blue and Green Earth
+- Prays
+- Nav goes out
+- Lovell orients via memory of the stars. some prayer is needed.
+- All consciousness levels are needed, based on tools inputs and environmental requirements.
+
+#### Misc.
+
+universal laws? Charles or whoever else
+but not for everyone, obviously
+
+universal laws? Franklin et all
+but not for everyone, obviously
+
+universal laws? Franklin et all
+but not for everyone, obviously
+
+##### Misc
+
+**Charles - Struggles**
+
+Remove. too much of a departure.
+
+Struggles.
+- New Model Army
+- Fairfax
+
+##### Douglas - Tool Access
 
 Frederick was a Maryland farm boy from salt-of-the-earth country, where farmers raised crops and families—not much to learn but how to plant, plow, and work with your hands.
 
@@ -2349,18 +2478,6 @@ If you can read the schedule.
 Frederick Douglass walks onto the ship headed north to freedom.
 
 One society lives. One society falls. Civilization unknowingly evolves.
-
-#### Soviets - We Got This - No They Didn't - Limits of Predictions
-
-Content goes here.
-
-#### Apollo 8 - Unifying the Levels of Consciousness - All Needed, All Equal
-
-- Blue and Green Earth
-- Prays
-- Nav goes out
-- Lovell orients via memory of the stars. some prayer is needed.
-- All consciousness levels are needed, based on tools inputs and environmental requirements.
 
 ### Mythological Truths
 
