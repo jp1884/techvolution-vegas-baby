@@ -1345,7 +1345,7 @@ The laws of physics, chemistry, and geology still reign. They interact to create
 
 Our game is different because of us. We have mythological, philosophical, scientific interpretations that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade. We're still learning which is which.
 
-To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and always have limited lifespans. Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: the realization of our technological nature.
+To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and always have limited lifespans. Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: the realization of our technological identity.
 
 - should note interactions/teamwork/collaborations more.
 
@@ -1543,6 +1543,8 @@ More of their eggs hatch. More of their babies born.
 
 Three seeds fall.
 
+- forests become valleys, valleys become forests. deserts turn green.
+
 #### Chameleon
 
 <!-- flies on plants, chameleon, entropy attacks, counter is... -->
@@ -1636,14 +1638,6 @@ Walk to grass. Grass. Eat. Watch. Watch. Eat. Fast. Look up, look left. Look rig
 
 Cold will come. Honk is heard. My flock close. I say danger in deep water.
 
-#### Bear Kids
-
-One cub lived.
-One cub lived.
-One cub lived.
-
-Three cubes lived.
-
 #### Mammoth Problems
 
 I am walking on grass. I am walking on path. My family follows.
@@ -1734,7 +1728,7 @@ Three mammoths fall.
 
 Light is high. The foraging party left at dawn. I stay with Mother, learning.
 
-"Scrape this way," she says, showing me the deer hide stretched on the frame. "See? Gentle. Hide tears if you push too hard. We have more time than hides. Take your time. Get it right."
+"Scrape this way," she says, showing me the deer hide stretched on the frame. "See? Gentle. Hide tears if you push too hard. We have more time than hides. Take time. Do it right."
 
 I try. The stone scraper is sharp. Bits of flesh come off.
 
@@ -1744,7 +1738,7 @@ I scrape where she points. My arms hurt but I keep working.
 
 "Where do they go?" I ask.
 
-"To gather food. Focus on your work. Cold is coming. 15 new kids need furs."
+"To gather food. Focus on your work. Cold is coming. 15 new kids need furs. The wounded need furs."
 
 "But what is out there?"
 
@@ -1758,7 +1752,7 @@ I want to ask more, but Mother is already moving to the woodpile. I continue usi
 
 She is gathering wood. I already know how to stack them. "Small sticks first," she taught. "They catch fast. Then bigger wood. Fire needs both." I still can't start a fire very fast.
 
-She uses flint axe to chop more pieces. I watch her. I know she's thinking the more work done now, the less work later. She loves me. I love her. She teaches me. How to cook food. How to use tools. 
+She uses flint axe to chop more pieces. I watch her. I know she's thinking the more work done now, the less work later. She loves me. I love her. She teaches me. How to cook food. How to use tools. How to care for wounds.
 
 I want to ask where Giving Tree is. But I do not. Mother will be angry if I ask again. I should keep working.
 
@@ -1778,7 +1772,7 @@ They gather around the fire. Everyone talks at once. I listen while I carry more
 
 "Put the fruit in bowls, Kai," Mother says.
 
-The fruit is so ripe, juice runs down my hands. Someone brought fish. We have honey. So much food tonight.
+The fruit is so ripe, juice runs down my hands. Someone brought fish. We have honey. So much food tonight. So much food to prepare for winter.
 
 While we cook, I hear more.
 
@@ -1792,7 +1786,7 @@ Soon we sit. Then the stories finally start.
 
 I can't help it. I blurt out: "Where is Giving Tree?"
 
-River Woman looks at me. "Far. Two days' walk. But you will see it when you are older."
+River Woman looks at me. "Far. Two or three days walk. But you will see it when you are older."
 
 "Why can't we break branches?"
 
@@ -1822,7 +1816,7 @@ I look at the stars. They have names. They teach us things.
 
 Soon the Hunter-Star rose, the stories told us cold season was near. Our hides kept us warm. Our dried food kept us fed.
 
-When the Hunter-Star fell, warm returned. I was strong enough to go with the foraging party. I saw Giving Tree. It had no fruit. We kept walking. We gathered roots. We gathered reeds. Many baskets were still empty. We kept walking to someplace new.
+When the Hunter-Star fell, warm returned. I was strong enough to go with the foraging party. I saw Giving Tree. It had fruit. But there were men there. Many men with spears and bark on their bodies and hands. So we kept walking. We gathered roots. We gathered reeds. Many baskets were still empty. We kept walking to someplace new.
 
 And we saw something new.
 
@@ -2100,7 +2094,7 @@ Niccolo deflates. His shoulders drop.
 
 The woodcutter shrugs. "Well. All these new books being printed—who can read it all? My cousin says there are more books in Florence now than anyone could finish in a lifetime. What's the point of all those new words anyway? Let the stars be the stars and the princes be the princes."
 
-Niccolo stares at him, before adding.
+Niccolo stares at the sky, before adding.
 
 "Being at the bottom makes it easier to see what's going on at the top. I've served princes. I've been tortured by them. I've studied their rise and fall. The view from down here is clarifying."
 
@@ -2110,7 +2104,7 @@ The woodcutter marks another tree. "I understand what you mean. Roman peace and 
 
 ---
 
-Printers set typeface. They load paper. The machine works. Page after page is printed. Many books are bound. 
+Printers set typeface. They load paper. The machine presses type to paper. Page after page is printed. Many books are bound. 
 
 A bookstore on a cobblestone street has a sign:
 
@@ -2270,6 +2264,8 @@ I will return father. I will do our house justice.
 
 I am their king.
 
+- they used swords and spear. I must use gun and cannon.
+
 #### Universal Laws
 
 **From Edmund Halley, Greenwich Observatory**  
@@ -2336,8 +2332,6 @@ I have no words. I wonder. What will we discover next?
 
 #### Universal Laws for Life
 
-<!-- would be nice to define evolution here again, as a reminder to the reader what species are...-->
-
 The fossil shop stood between a bookseller and a tinsmith on Lyme Regis's main street. Two men paused outside, examining the specimens in the window, then entered.
 
 "Petrified wood," the taller man said. "The stall by the harbor had petrified wood. Tree turned to stone."
@@ -2400,7 +2394,79 @@ As they reached the door, the shorter man turned back. "What will you do next?"
 
 ---
 
-- The customers reading Darwin, looking at their fossil collections, putting them together like a map.
+Two men sit in reading chairs, a small table and lamp between them. Both men are reading _On the Origin of Species by Means of Natural Selection_. They finish the book, close it, and set it upon the desk. Both look up.
+
+Silence.
+
+Now both look around the room. It's lined with specimens—fossils in labeled boxes, mounted skeletons, drawers of teeth and shells.
+
+"They're all related. This entire time. Everything has been related," the taller man says.
+
+"A family tree," the shorter man says. "Species live and die according to whether they fit their environment. When the environment changes. So do the species. So do the ecosystems."
+
+"Extinction isn't punishment. It's... selection."
+
+"We've been collecting branches of the tree," the shorter man says. "Now we know what we're looking at."
+
+"It's going to take years to sort it all out."
+
+"Wonderful!"
+
+#### Lessons
+
+The boy is so nice. I ask him to get his shopping list from the store.
+
+"I can't read ma'am".
+
+"Can't read?" I say back. Everyone should read. How can you work if you can't read. I'll teach you. We'll do it together."
+
+I'm teaching him his letters. He sits beside me at the kitchen table, sounding out words like any child would. Eager. Bright. Over days. It feels natural to help him learn. He takes to it well.
+
+Hugh comes in. Watches us. His face darkens.
+
+"Boy. Leave the room."
+
+I look up in surprise as the lesson ends. "Why does it end?" I ask.
+
+"You can't teach him to read."
+
+"But Hugh, he's doing so well—"
+
+"That's exactly why you have to stop. We could get in trouble."
+
+He sits down. Speaks low, but firm. I did something wrong.
+
+"Learning will spoil him. Make him unfit to be a slave. He'll become dissatisfied, unmanageable. Start thinking he deserves what he can't have. You'll ruin him—and ruin us."
+
+I say "But everyone in Ohio learns to read."
+
+"This isn't Ohio. Our property rights aren't cruelty, Sophia. They're order. Without them, chaos. Every man taking what he wants. Reading makes slaves dangerous. Because it makes them want to be equal. And they aren't. They do the work. We do the thinking."
+
+He touches my shoulder. Gentle.
+
+"I know you mean well. But never do that again. It's wrong. For everyone. Frederick is clever. Proud. He tricked you."
+
+I close the book. I sit at this desk. I'm so stupid. He's right. Hugh knows how the world works. I'm an outsider, naive. Frederick took advantage of me. My slave took advantage of me! 
+
+I leave the room. I look at him. He was listening to us! He's so tricky. The boy looks at me. He wants help. Never!
+
+I tear the book up. Tear every page into pieces. Never again!
+
+Years pass.
+
+One day Frederick never comes back. I don't know how he managed to flee. To read maps. To read schedules. He's tricky.
+
+I hear Frederick gave speeches in The North. We'll send snatchers after him.
+
+I see Frederick wrote a book: _Narrative of the Life of Frederick Douglass, an American Slave_.
+
+I hear Frederick is speaking in Britain! I've never been to Europe.
+
+War has broken out. Frederick told the world lies about our society. We must defend our rights.
+
+The war is on.
+
+One society falls.
 
 #### Garfield v. Bliss v. Lister v. Semmelweis?
 
@@ -2408,15 +2474,15 @@ Content goes here.
 
 #### Soviets - We Got This - No They Didn't - Limits of Predictions
 
-1961. I am director of the Institute of Cybernetics in Kiev. Central planning is building socialism. Socialism is science. More efficient central planning will build socialism faster. Rapid growth generates massive amounts of data—production quotas, resource allocation, distribution networks. 
+1961. I am director of the Institute of Cybernetics in Kiev, Soviet Union. Central planning is building socialism. Socialism is science. More efficient central planning will build socialism faster. Rapid growth generates massive amounts of data—production quotas, resource allocation, distribution networks. 
 
-Paper is slow. People are slow. Decisions take months. Inefficiencies compound. Planning bureaucracy will grow fortyfold by 1980.
+Paper is slow. People are slow. Decisions take months. Inefficiencies compound. Planning bureaucracy will grow many times over next decades. Inefficiencies will compound.
 
 Socialism is science. Science needs new technologies.
 
 We must keep going.
 
-Computers are new. They are powerful. A national computer network. Connect all economic units—factories, farms, collective enterprises, distribution centers. Real-time data flowing to central processors. Automated resource allocation. Optimal planning. OGAS: National Automated System for Computation and Information Processing.
+Computers are new. They are powerful. A national computer network. Connect all economic units—factories, farms, collective enterprises, distribution centers. Real-time data flowing to central processors. Automated resource allocation. Optimal planning. I think up OGAS: National Automated System for Computation and Information Processing.
 
 We must keep going.
 
@@ -2450,7 +2516,7 @@ We will return to this soon.
 
 Socialism is science.
 
-We should keep going.
+We should be going.
 
 #### USA - Paul Baran
 
@@ -2460,15 +2526,15 @@ Computers are new, powerful, and advancing. I should know, I worked at Eckert–
 
 Must get started.
 
-The Air Force keeps a list of research needs at RAND. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications used high-frequency connections. Those are vulnerable to nuclear attacks. Communication blackouts means itchy trigger fingers. Resilient communication networks prevents nuclear war.
+The Air Force keeps a list of research needs at RAND. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications used high-frequency connections. Those are vulnerable to radiation of nuclear attacks. Communication blackouts means itchy trigger fingers. Resilient communication networks prevents nuclear war.
 
 Must keep going.
 
-A completely distributed network. No centralization. Like a fishnet—every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node would nearly as robust a network as the theoretical limit. Redundancy is key.
+A completely distributed network. No centralization. Like a fishnet—every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node is nearly as robust a network as the theoretical limit. Redundancy is key.
 
 Must keep going.
 
-And no more dropped calls. Instead block messages. Break every messages into very small chunks of data. Each finds its own route through the net. If one fails to deliver, resend it. Everything reassembles at the destination. Block messages increase redundancy.
+We cannot have dropped calls. We need to make data inside the network redundant. Let's break every messages into very small chunks of data. Each finds its own route through the net. If one fails to deliver, resend it. Everything reassembles at the destination. These block messages increase redundancy.
 
 Must keep going.
 
@@ -2482,7 +2548,7 @@ Must keep going.
 
 I try AT&T. They have a huge phone network. Just needs some modifications.
 
-I present the system. Switching, routing, packet assembly, redundancy protocols, error correction. Eyes roll. Old engineer says "Son, this is how a telephone works." Then ninety-four separate speakers to describe the entire architecture. An executive says "Now do you see why packet switching won't work?".
+I present the system. Switching, routing, block messages, redundancy protocols, error correction. Eyes roll. Old engineer says "Son, this is how a telephone works." Then ninety-four separate speakers to describe the entire architecture. An executive says "Now do you see why block messages won't work?".
 
 I look at him.
 
@@ -2490,7 +2556,7 @@ I look at him.
 
 Must keep going.
 
-RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. DARPA distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks packets. It's a better name. I like it.
+RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. DARPA distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks packets. It's a new name for a new idea. I like it.
 
 We must keep going.
 
@@ -2498,7 +2564,7 @@ We must keep going.
 
 1969. Four locations are online. UCLA to Stanford. UC Santa Barbara to University of Utah.
 
-1971. Fifteen nodes are connected. Email is invented. People love it.
+1971. Fifteen nodes are connected. Ray Tomlinson invents email. People love it.
 
 1973. Thirty-five nodes. International connections start up.
 
@@ -2510,7 +2576,7 @@ Just nodes, connecting.
 
 More going online.
 
-We must keep going.
+We are going.
 
 #### Racoon Coyote
 
