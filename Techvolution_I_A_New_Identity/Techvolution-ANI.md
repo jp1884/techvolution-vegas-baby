@@ -1339,13 +1339,13 @@ _The gods did not reveal, from the beginning, all things to us, but in the cours
 
 Xenophanes, Greek Philosopher 6th Century BC.
 
-Humans play the Game of Life. Most of us today play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
+Humans play the Game of Life. Most of time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
 
 The laws of physics, chemistry, and geology still reign. They interact to create an emergent game board. Entropy wears down our homes, spoils our food, and puts timers on the entire human experience. Life continually inspires modifications of existing forms, while evolution determines which offspring survive to represent life's future.
 
-Our game is different because of us. We have mythological, philosophical, scientific interpretations that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade. We're still learning which is which.
+Our game is different because of us. We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade. We're still learning which is which.
 
-To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and always have limited lifespans. Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: the realization of our technological identity.
+To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and always have a limited lifespan. Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: the realization of our technological identity.
 
 - should note interactions/teamwork/collaborations more.
 
@@ -1544,6 +1544,7 @@ More of their eggs hatch. More of their babies born.
 Three seeds fall.
 
 - forests become valleys, valleys become forests. deserts turn green.
+- should note interactions/teamwork/collaborations more.
 
 #### Chameleon
 
@@ -1816,7 +1817,7 @@ I look at the stars. They have names. They teach us things.
 
 Soon the Hunter-Star rose, the stories told us cold season was near. Our hides kept us warm. Our dried food kept us fed.
 
-When the Hunter-Star fell, warm returned. I was strong enough to go with the foraging party. I saw Giving Tree. It had fruit. But there were men there. Many men with spears and bark on their bodies and hands. So we kept walking. We gathered roots. We gathered reeds. Many baskets were still empty. We kept walking to someplace new.
+When the Hunter-Star fell, warm returned. I was strong enough to go with the foraging party. I saw Giving Tree. It has no fruit. It's leaves are few. So we kept walking. We gathered roots. We gathered reeds. Many baskets were still empty. We kept walking to someplace new.
 
 And we saw something new.
 
@@ -2048,7 +2049,7 @@ Outside, the aqueduct flows. The screws turn. The work continues.
 
 The woodcutter marks another oak. "Can I have this big one?"
 
-"No," Niccolo says. "The four beyond it."
+"No," Niccolo says. "The four smaller ones beyond it."
 
 They walk the Tuscan property line—which trees, what price, when to cut.
 
@@ -2064,15 +2065,15 @@ The woodcutter shrugs.
 
 The woodcutter says nothing.
 
-"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, showed off his beautiful legions, then left, burning his wonder behind him. The bridge was theater. A demonstration. The Germanic barbarians were dumbfounded by our technology. They used log boats to cross! So confused they were scared of us and so left Rome alone for centuries; because of a few bridges."
+"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, showed off his beautiful legions, then left, burning his wonder behind him. The bridge was theater. A demonstration. The Germans were dumbfounded by our technology. They used log boats to cross! So confused and scared they left Rome alone for centuries; because of a few bridges!"
 
 "So we were cruel?"
 
-"No! When they raided us they'd die. Instead the traded and we had peace. We were *effective*. The desert became peace—Roman peace, created and maintained by Roman swords."
+"No! When they raided us they'd die. Instead the traded and we had peace. We were *effective*. The desert became peace—Roman peace, created and maintained by Roman swords and virtue."
 
 The woodcutter shifts. "Some people say—"
 
-"We can't live in their words. I'm telling you what *is*." Niccolo drops the stick. "Now we Italians read Aristotle and debate virtue while foreigners occupy our cities. We have the *words* of the ancients but not their *methods*."
+"We can't live in their words. I'm telling you what *is*." Niccolo drops the stick. "Now we Italians read Aristotle and debate morality while foreigners occupy our cities. We have the *words* of the ancients but not their *methods*."
 
 "So what do we need?"
 
@@ -2096,9 +2097,9 @@ The woodcutter shrugs. "Well. All these new books being printed—who can read i
 
 Niccolo stares at the sky, before adding.
 
-"Being at the bottom makes it easier to see what's going on at the top. I've served princes. I've been tortured by them. I've studied their rise and fall. The view from down here is clarifying."
+"Being at the bottom makes it easier to see what's going on at the top. I've served princes. I've been tortured by them. I've studied their rise and fall. I read the ancients. They speak to me. The view from down here is clarifying."
 
-The woodcutter marks another tree. "I understand what you mean. Roman peace and bridges and all...Can I have the big tree too?"
+The woodcutter is back at the big tree. "I understand what you mean. Roman peace and bridges and all...Can I have the big tree?"
 
 "Yes. Take that too."
 
@@ -2166,7 +2167,7 @@ The merchant writes: Chimney air = hottest flame. Why?
 
 "We don't know," the blacksmith says.
 
-"Then we test more. What if we capture air from different places? From the forge when I'm working hot iron? From the garden? From a closed room?"
+"Then we test more. What if we move the candles into different places? From the forge when I'm working hot iron? From the garden? From a closed room?"
 
 "My cousin in London says they're trying to separate air into parts. See what it's made of."
 
@@ -2212,13 +2213,13 @@ I approach the Speaker. "Mr. Speaker, do you see any of these persons in the Hou
 
 He kneels. Won't look at me. "May it please Your Majesty, I have neither eyes to see nor tongue to speak in this place but as the House is pleased to direct me."
 
-What's their problem? I am their king.
+He disobeys? What's their problem? I am their king.
 
-I scan the benches myself. Members stare back, silent. No one points. No one speaks. No one helps their king find traitors in their own house.
+I scan the benches myself. Members stare back, silent. No one points. No one speaks. No one helps their king find traitors in their midst.
 
 The Five traitor seats are empty. The Five traitors are gone. Someone warned them. Someone here, in this room, watching me now with blank faces.
 
-I am their king. I don't like this pressure.
+I am their king. I don't like this pressure. It is unjust. I am in control.
 
 I should speak. Explain why I'm here, what they've forced me to do. Command them to produce the traitors.
 
@@ -2226,7 +2227,7 @@ My throat tightens. The words catch.
 
 No. A king doesn't explain himself to subjects.
 
-The moment I justify myself to them, argue my case as if they have standing to judge me, I've already surrendered what they're trying to take. Parliament already exists. The commoners already have their say. But they want to control the money. They want to control the army.
+The moment I justify myself to them, argue my case as if they have standing to judge me, I've already surrendered what they're trying to take. Kings cannot be put on trial by subjects. Parliament already exists. The commoners already have their say. But they want to control the money. They want to control the army.
 
 I am their king. Chosen by God, and given the duties of God. The people have their duty to follow. The realm survived Vikings, Picts, Scots. It will survive these rebels too. 
 
@@ -2238,7 +2239,7 @@ Disregard this.
 
 Outside, walking back through London, crowds watch from doorways and corners. Not cheering. Not bowing. Watching.
 
-They'll tire of rebellion. Mobs want spectacle, but they need order. Without a king to hold the center, they'll tear each other apart. When the chaos comes—and it will come—they'll remember what they had. They'll beg for the crown.
+They'll tire of rebellion. Mobs want spectacle, but they need order. Without a king to hold the center, they'll tear each other apart. When the chaos comes—and it will come—they'll remember what they had. They'll beg for the crown to return.
 
 My hand rests on my sword hilt. Not a threat. Just steadying myself.
 
@@ -2250,21 +2251,21 @@ Everything I did, my ancestors did. Everything I defended, they defended. The sa
 
 If I'm guilty, so were the realm's past kings.
 
-Yet, my ancestors turned wood forts into stone castles. Stone castles into grand palaces. Protection made new roads, new farms, new canals safe from Scots and French and rebellious lords. Kingly protection kept the realm from tearing itself apart.
+Impossible. My ancestors turned wood forts into stone castles. Stone castles into grand palaces. Protection made new roads, new farms, new canals safe from Scots and French and rebellious lords. Kingly protection kept the realm from tearing itself apart. 
+
+Kings make the realm prosperous.
 
 But they *earned* that protection through blood and years of riding between battles. And I—I inherited it whole and peaceful. And now I'm supposed to simply... watch it fade into people's chaos? As if England can have no king?
 
-No. No, I will return. I will summon the loyal army. I will do what a king must do and protect his people.
+No. No, I will return. I will summon the loyal army. I will do what a king must do and protect his people. My ancestors used sword and spear. I must use gun and cannon. 
 
 I am their king.
 
-Back at Whitehall, I look up at the painting of my father. England's best artists took years to paint him ascending into Heaven, gold and silver lines showcasing the justice of our Divine Right of Kings.
+Back at Whitehall Palace, I look up at the painting of my father. England's best artists took years to paint him ascending into Heaven, gold and silver lines showcasing the justice of our Divine Right of Kings.
 
-I will return father. I will do our house justice.
+I depart for now. But I will return father. I will do our house justice. I will save England. I will save the people.
 
 I am their king.
-
-- they used swords and spear. I must use gun and cannon.
 
 #### Universal Laws
 
@@ -2394,7 +2395,7 @@ As they reached the door, the shorter man turned back. "What will you do next?"
 
 ---
 
-Two men sit in reading chairs, a small table and lamp between them. Both men are reading _On the Origin of Species by Means of Natural Selection_. They finish the book, close it, and set it upon the desk. Both look up.
+Two men sit in reading chairs, a small table and lamp between them. Both men are reading _On the Origin of Species by Means of Natural Selection_. They finish the book, close it, and set it upon the desk, and look up.
 
 Silence.
 
@@ -2402,7 +2403,7 @@ Now both look around the room. It's lined with specimens—fossils in labeled bo
 
 "They're all related. This entire time. Everything has been related," the taller man says.
 
-"A family tree," the shorter man says. "Species live and die according to whether they fit their environment. When the environment changes. So do the species. So do the ecosystems."
+"A family tree," the shorter man says. "Species live and die according to whether they fit their environment. When the environment changes. So do the species. So do the ecosystems. Grazers. Predators. Scavengers."
 
 "Extinction isn't punishment. It's... selection."
 
@@ -2414,13 +2415,13 @@ Now both look around the room. It's lined with specimens—fossils in labeled bo
 
 #### Lessons
 
-The boy is so nice. I ask him to get his shopping list from the store.
+The boy is so nice. I ask him to get this shopping list from the store.
 
 "I can't read ma'am".
 
 "Can't read?" I say back. Everyone should read. How can you work if you can't read. I'll teach you. We'll do it together."
 
-I'm teaching him his letters. He sits beside me at the kitchen table, sounding out words like any child would. Eager. Bright. Over days. It feels natural to help him learn. He takes to it well.
+I'm teaching him his letters. He sits beside me at the kitchen table, sounding out words like any child would. Eager. Bright. Over days. It feels good to help him learn. He takes to it well.
 
 Hugh comes in. Watches us. His face darkens.
 
@@ -2440,7 +2441,7 @@ He sits down. Speaks low, but firm. I did something wrong.
 
 I say "But everyone in Ohio learns to read."
 
-"This isn't Ohio. Our property rights aren't cruelty, Sophia. They're order. Without them, chaos. Every man taking what he wants. Reading makes slaves dangerous. Because it makes them want to be equal. And they aren't. They do the work. We do the thinking."
+"This isn't Ohio. Our property rights aren't cruel, Sophia. They're order. Without them, chaos. Every man taking what he wants. Reading makes slaves dangerous. Because it makes them want to be equal. And they aren't. They do the work. We do the thinking."
 
 He touches my shoulder. Gentle.
 
@@ -2454,23 +2455,123 @@ I tear the book up. Tear every page into pieces. Never again!
 
 Years pass.
 
-One day Frederick never comes back. I don't know how he managed to flee. To read maps. To read schedules. He's tricky.
+One day Frederick never comes back. I don't know how he managed to flee North. To read maps. To read schedules. He's tricky.
 
 I hear Frederick gave speeches in The North. We'll send snatchers after him.
 
-I see Frederick wrote a book: _Narrative of the Life of Frederick Douglass, an American Slave_.
+I see Frederick wrote a book: _Narrative of the Life of Frederick Douglass, an American Slave_. We should get the money.
 
 I hear Frederick is speaking in Britain! I've never been to Europe.
 
-War has broken out. Frederick told the world lies about our society. We must defend our rights.
+The North is invading. Frederick told the world lies about our society. We must defend our rights.
 
 The war is on.
 
-One society falls.
+Our society will not fall.
 
-#### Garfield v. Bliss v. Lister v. Semmelweis?
+#### Hands On Learning
 
-Content goes here.
+I walk through the hospital one more time. It's true. The evidence is here walking, or dying, inside these walls.
+
+Doctors' ward: one in ten mothers dies of childbed fever. Midwives' ward: one in fifty.
+
+I watch the other doctors come from the autopsy room. Hands still stinking of death. They examine the mothers. Insert their fingers to check dilation. Some die three days later. Fever. Agony.
+
+I tell them: wash your hands. Chlorinated lime solution. 
+
+"Shut up Dr. Semmelweis, you fool!"
+
+I show them the numbers. "We were carrying death from the corpses to the mothers."
+
+They stare at me.
+
+"You're saying we killed them? We heal them. We open the windows to bring in fresh air."
+
+"I'm saying wash. Just wash."
+
+Everyone responds, "How can putting lime on our hands possibly help patients, especially the ones with open wounds who need examination most. How? We are men of science! Please tell us!"
+
+"I can't explain it. Aren't more living and fewer dead reason enough?"
+
+I'm removed from the hospital. I write letters. Beg them. The numbers are clear. 
+
+No one listens. No one washes
+
+They commit me to an asylum. Guards beat me yesterday. My hand is bleeding. The wound is green, oozing. I feel weak.
+
+Is it me? Aren't the numbers clear?
+
+---
+
+I read Pasteur's work on fermentation. He's in France. I'm in Scotland. Yet I read his achievements within weeks of their publication. How wonderful. Decay is not caused by spontaneous generation. Rather, germs in the air are the cause.
+
+Germs. Tiny little lifeforms. I guess we can't see planet details and moons until we zoom in. I guess we can't see germs either. But both are there nonetheless.
+
+If germs cause fermentation, they can cause infection.
+
+I think of carbolic acid. It's used to treat wood from rot. I wash the wound of a patient in carbolic acid. I wrap it with plaster. No help.
+
+But I will keep going.
+
+I experiment with other forms of carbolic acid, in lotion, lint, oil. I apply carbolic acid to wounds before surgery. Spray it in the air. Soak the instruments.
+
+Some wounds don't fester. More patients survive.
+
+I publish the results. Some colleagues adopt it. Others resist.
+
+"Too much trouble," they say. "Unproven Dr. Lister."
+
+Several saved. The evidence talks.
+
+It works. I've seen it work. I talk to the people who prove it works. Germs are small. Tiny. Carbolic acid kills these germs. Infections do not generate spontaneously. The evidence is mounting. Hospitals in Germany, in France—they're adopting antisepsis. Infection rates drop.
+
+Dozens saved. The evidence talks.
+
+---
+
+The president is shot.
+
+I'm the attending physician. I take charge. The bullet is lodged somewhere in his abdomen. I need to find it. I've been a surgeon for thirty years. I know wounds. I will save the president. He is a war hero. A good man.
+
+I insert my finger into the wound. Probe for the bullet. Can't find it. Another doctor tries. Then another. We take turns. "We must find the bullet Dr. Bliss", others agree with me.
+
+The president develops fever.
+
+I continue treatment. Drainage. Probing. Searching for the bullet. The bullet is causing his sickness.
+
+The fever worsens. We move him to the coast to get good air.
+
+Eleven weeks. He dies.
+
+The bullet wound was too severe. The shock to his system. Nothing could have saved him.
+
+I failed him.
+
+I've heard of Lister's carbolic acid methods. They do not matter. I didn't find the bullet.
+
+---
+
+The patient is on the table. Appendicitis. We need to hurry.
+
+I scrub my hands in carbolic solution. Forearms too. Three minutes.
+
+I think of when I studied under the old surgeons. They had blood-stiffened coats. They'd wipe their hands on their aprons between patients. They were proud of the blood stains, showed wisdom they said.
+
+I couldn't imagine. Untold millions died. So much agony.
+
+I remember hearing about President Garfield. How they probed his wound with unwashed hands. He likely died of infection.
+
+I couldn't imagine putting unwashed hands into a patient.
+
+I make the incision. Remove the infected appendix. Irrigate with antiseptic. Suture.
+
+The patient wakes. No fever. The wound is dressed. It will heal.
+
+He will live. Millions more will live.
+
+Next patient please nurse.
+
+I will go wash my hands.
 
 #### Soviets - We Got This - No They Didn't - Limits of Predictions
 
@@ -2583,7 +2684,7 @@ We are going.
 Content goes here.
 
 - waches robots, AI, which has a similar rising consciouness as bio life. example robot hitting a wall and go back and forth, back and forth, looking for a way out.
-- Asking for a penil integration.
+- Asking for a pencil integration.
 
 #### Apollo 8 - Unifying the Levels of Consciousness - All Needed, All Equal
 
