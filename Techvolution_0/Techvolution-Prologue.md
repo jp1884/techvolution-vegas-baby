@@ -15,7 +15,7 @@ This is not a book that will tell you politics and economics is getting really b
 
 This is the book that explains, politics and economics is getting both good and bad, here is the beginning of the scientific understanding why this is happening, and here is how _"I, the reader"_, can adapt in order to use the good to fix the bad.
 
-In other words, this is a book for people in the middle. I hope you like it.
+In other words, this is a book for people in the middle. The people who wants things be more rational, caring, level-headed, and willing to work for it. I hope you like it.
 
 ## Giving You a Map and Compass
 

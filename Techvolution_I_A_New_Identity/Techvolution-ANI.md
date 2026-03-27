@@ -1343,7 +1343,11 @@ Humans play the Game of Life. Most of time we play it with tools, but that is th
 
 The laws of physics, chemistry, and geology still reign. They interact to create an emergent game board. Entropy wears down our homes, spoils our food, and puts timers on the entire human experience. Life continually inspires modifications of existing forms, while evolution determines which offspring survive to represent life's future.
 
-Our game is different because of us. We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade. We're still learning which is which.
+Our game is different because of us. We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade.
+
+The frameworks that help us adopt tools based on conditions—those frameworks survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
+
+But in real-time is hard to tell which is which.
 
 To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and always have a limited lifespan. Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: the realization of our technological identity.
 
@@ -1491,6 +1495,8 @@ More red eye pollinators. More flowers. More predators.
 
 Two broods hatch. More eggs crack.
 
+- plague? return to normal?
+
 #### Dinosaurs
 
 Large predator walks. Ground shakes. Herd seen. Hide. Down wind. They cannot see. They cannot smell. Look
@@ -1550,6 +1556,8 @@ Three seeds fall.
 
 <!-- flies on plants, chameleon, entropy attacks, counter is... -->
 <!-- radiation, changes color, too hot, changes color, cold, etc. camo... -->
+<!-- should be about co-evolution -->
+<!-- should be out competed by something else. loses niche. -->
 
 Area is dark. Little light breaks open. Chameleon is cold. 
 
@@ -1943,11 +1951,11 @@ The priest stiffens. "You dare question the oracle?"
 
 "Yes," the priest says. "The earth-shaker announces his anger—"
 
-"Or the shaking of the earth causes the wave. Not only divine anger. Natural consequence of natural actions. I told the merchants in Miletus when the sun would go dark. It did. Not because I angered Apollo, but because I understood the pattern the gods make."
+"Or the shaking of the earth causes the wave. Not only divine anger. Natural consequence of natural actions. I told the merchants in Miletus when the sun would go dark. It did. Not because I angered Apollo, but because I understood the pattern the gods make. And I believe the foundation of knowing is saying first, I don't know."
 
 The crowd is silent. Shocked.
 
-"I don't mean to interrupt. Build your temple. Honor the gods. I look forward to the festivals. If anyone is interested to talk, I'll walk to the hill. And we can talk together."
+"I don't mean to interrupt. Build the temple. Honor the gods. I look forward to the festivals. If anyone is interested to talk, I'll walk to the hill. And we can talk together."
 
 Three people follow.
 
@@ -2199,6 +2207,8 @@ They light more candles. Different air sources. Different containers. They watch
 
 Three notebooks fill with observations.
 
+- falsify
+
 #### The Resistance
 
 I enter the Commons with soldiers behind me.
@@ -2412,6 +2422,8 @@ Now both look around the room. It's lined with specimens—fossils in labeled bo
 "It's going to take years to sort it all out."
 
 "Wonderful!"
+
+- two naturalists specifying a species by observation would be cool. no listening, just effectual truth.
 
 #### Lessons
 
@@ -2677,7 +2689,7 @@ Just nodes, connecting.
 
 More going online.
 
-We are going.
+Three more nodes connect.
 
 #### Racoon Coyote
 
@@ -2688,11 +2700,136 @@ Content goes here.
 
 #### Apollo 8 - Unifying the Levels of Consciousness - All Needed, All Equal
 
-- Blue and Green Earth
-- Prays
-- Nav goes out
-- Lovell orients via memory of the stars. some prayer is needed.
-- All consciousness levels are needed, based on tools inputs and environmental requirements.
+#### Apollo 8
+
+"3, 2, 1. Lift-off."
+
+Rockets rage. Dials shift. Everything is nominal.
+
+Earth rises over the Moon's horizon—blue and green and white against black so complete it swallows everything else. I'm watching through a window the size of my hand. I'm speaking with Houston about gauges and readings.
+
+Everything is nominal. We're going to the Moon.
+
+The trip is a quarter million miles. The crew space is tiny. Yet we smile, follow orders, do our jobs. The Moon gets bigger and bigger. We keep doing our jobs.
+
+Then we enter lunar orbit. The first time ever anyone has been inside the gravity of another celestial object.
+
+The first time evers don't stop there.
+
+The Moon has three different shades. In sunlight, it's quite bright. In Earthshine, it looks like snow outside at nighttime back home. And then there's the part with no Earthshine, no sunshine—you don't see a thing.
+
+That's the only time all the stars come out.
+
+The sight of pure space brings out wonder. How insignificant we really are. The Sun is tucked away in the outer edge of a galaxy called the Milky Way, and that's only one of millions of galaxies in the universe. And here's this little body sitting out there 240,000 miles away, and I think: how fortunate we are to have a spot like that to go back to.
+
+We keep orbiting the Moon. We keep running tests. Someone is going to walk on this place soon. I get back to working but have time to think. Hopefully, we can make it home.
+
+Anders soon says, "Oh my God. Look at that beautiful sight."
+
+He's scrambling for the camera. Borman rotates the spacecraft.
+
+I look too.
+
+Every ocean I've flown over. Every continent. Weather systems bigger than countries, spinning slowly. All of it—everything—right there. And I can cover it all with my thumb.
+
+Then the Earth comes above the lunar horizon.
+
+Anders takes a photo. We call it "Earthrise."
+
+Now it's Christmas Eve. We broadcast black-and-white television pictures of the lunar surface back to the largest audience in history.
+
+What do you say?
+
+We debated for weeks back at home. Should we recite The Night Before Christmas? Sing Jingle Bells? No, too tacky. Then a friend suggested the first ten verses of Genesis. She pointed out, it's an origin story, and the foundation of most of the world's faiths.
+
+So we followed her advice.
+
+"In the beginning, God created the Heaven and the Earth. And the Earth was without form, and void; and darkness was upon the face of the deep."
+
+Anders reads to a billion people listening. Different languages. Different beliefs. Same species. Same planet. Same home.
+
+Borman finishes: "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
+
+Then he signs off. "And from the crew of Apollo 8, we close with good night, good luck, a Merry Christmas, and God bless all of you—all of you on the good Earth."
+
+The transmission ends.
+
+We float inside a tiny spacecraft, orbiting the Moon. Isaac Newton's equations are our only guide. So very quiet. So very alone. We wonder: will the rocket light and send us back? It could fail and leave us orbiting the Moon forever. Mistakes happen.
+
+We ignite the rocket. It lights.
+
+I tell Houston, "Please be informed, there is a Santa Claus."
+
+On the trip back, my job is to take stellar measurements. We use them to confirm our location for the navigation computer.
+
+I use the onboard sextant to line up stars. Take measurements. Very much like sailors of old navigating the oceans by the stars. I key the data into the computer.
+
+MEMORY ERASED
+
+That's no good.
+
+The thrusters fire.
+
+I didn't tell them to.
+
+The spacecraft is rotating. Wrong direction.
+
+"Jim?" Borman's voice is careful. "What's happening?"
+
+I stare at the computer display. The numbers are wrong. All wrong.
+
+"I erased our navigation data," I say. "The inertial measurement unit thinks we're still on the launch pad—same orientation as before lift-off. The computer is trying to 'correct' our attitude back to where it thinks we should be."
+
+"Good thing we prayed," Anders says.
+
+"What's the solution?" Borman asks.
+
+"Houston can't help us. We must tell the computer where we are."
+
+"How?"
+
+"Like we did back in the day. By the stars."
+
+I need two bright stars. Rigel. Sirius. I know those.
+
+I look through the sextant.
+
+Keep looking. I sight Rigel. Fire the thrusters. Small bursts. Careful. Get the crosshairs aligned.
+
+There.
+
+Now Sirius. Rotate again. Find it. Align it.
+
+There.
+
+I have the angles. Now I need the numbers.
+
+Spherical geometry. Celestial mechanics. The same equations I learned years ago. The same equations sailors used for centuries. I work through the calculations. Write them down. Check them. Write them again.
+
+Ten minutes pass.
+
+"Got it," I say.
+
+I enter the data into the computer. Carefully. One digit at a time. Be patient.
+
+"Computer's realigned."
+
+Borman smiles. "Let's go home."
+
+The tiny spacecraft is back on track.
+
+Earth grows in the window.
+
+And grows.
+
+Three people fall back home.
+
+
+- The point of the story is that mythology, philosophy, and science were needed. Each is useful based on the sophiscation of the tool being used and the environment in which its needed.
+
+
+- By what right does any lifeform get not to define itself by its environment? Tigers are orange because... what is our environment, and how do we combat entropy inside and using it? Car crash scenario to the reader.
+
 
 #### Misc.
 
