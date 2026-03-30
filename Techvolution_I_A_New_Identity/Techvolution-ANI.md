@@ -1352,6 +1352,7 @@ But in real-time is hard to tell which is which.
 To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and always have a limited lifespan. Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: the realization of our technological identity.
 
 - should note interactions/teamwork/collaborations more.
+- should note "looking/going to work" mindset.
 
 ### Biological Game of Life
 
@@ -1621,7 +1622,7 @@ Movement. Up high. Fast.
 
 Hawk.
 
-We rise. Panic! Spread wings. Hiss. My mate flies away. Distract. Distract. Hawk turns. Follows him. Not safe. We must leave.
+Rise. Panic! Spread wings. Hiss. Mate flies away. Distract. Distract. Hawk turns. Follows him. Not safe. We must leave.
 
 1 kid missing.
 
@@ -2343,87 +2344,97 @@ I have no words. I wonder. What will we discover next?
 
 #### Universal Laws for Life
 
-The fossil shop stood between a bookseller and a tinsmith on Lyme Regis's main street. Two men paused outside, examining the specimens in the window, then entered.
+The fossil shop stands between a bookseller and a tinsmith on Lyme Regis's main street. Two men pause outside, examining the specimens in the window, then enter.
 
-"Petrified wood," the taller man said. "The stall by the harbor had petrified wood. Tree turned to stone."
+"Petrified wood," Mr. Hartley says. "The stall by the harbor had petrified wood. Tree turned to stone."
 
-Mary Anning looked up from her workbench. "Looking for something in particular?"
+Mary Anning looks up from her workbench. "Looking for something in particular?"
 
-"The most interesting you have," the taller man said.
+"The most interesting you have," Mr. Hartley says.
 
-Mary set three specimens on the counter.
+Mary sets three specimens on the counter.
 
-"These are from different layers," she said. "This one"—a coiled shell, ridged and chambered—"from thirty feet down. This one"—vertebrae, each bone the size of a fist—"from sixty feet. And this"—a tooth, serrated, curved like a hook—"from ninety."
+"These are from different layers," she says. "This coiled shell, ridged and chambered is from thirty feet down. This large vertebrae from sixty feet. And this serrated, curved tooth from ninety feet."
 
-The taller man leaned closer. "Different animals?"
+Mr. Hartley leans closer. "Different animals?"
 
-"Different worlds," Mary said.
+"Different worlds," Mary says.
 
-The shorter man frowned. "Worlds?"
+Mr. Webb frowns. "Worlds?"
 
-"The deeper you go, the older the rock," Mary said. "We dig to reach Roman ruins. These are deeper still. What lived at ninety feet never lived at thirty feet. What lived at thirty feet is gone now."
+"The deeper you go, the older the rock. We dig to reach Roman ruins. These are deeper still. What lived at ninety feet never lived at thirty feet. What lived at thirty feet is gone now."
 
-"Gone," the taller man repeated. "Extinct?"
+"Gone," Mr. Hartley says. "Extinct?"
 
 "Yes."
 
-The shorter man picked up the tooth. "But the Flood would have mixed them," Mary said. "Jumbled everything together. These are separated. Layers. Each layer has its own creatures, and nothing else."
+Mr. Webb picks up the tooth. "But the Flood would have mixed them."
 
-The taller man studied the vertebrae. "So these died long before humans."
+"These specimens are separated. Layers. Each layer has its own creatures, and nothing else."
 
-"Long before," Mary said.
+Mr. Hartley studies the vertebrae. "So these died long before humans."
 
-The two men looked at each other.
+"Long before," Mary says.
 
-"How long?" the shorter man asked.
+The two men look at each other.
 
-"I don't know," Mary said. "Longer than we have words for."
+"How long?" Mr. Webb asks.
 
-The taller man pointed to the coiled shell. "And nothing like this lives now?"
+"I don't know. Longer than we have words for."
 
-"Nothing," Mary said. "I've looked. So have others."
+Mr. Hartley points to the coiled shell. "And nothing like this lives now?"
 
-The shorter man exhaled slowly. "So God's creation... can end?"
+"Nothing. I've looked. So have others."
 
-Mary didn't answer. She let them look.
+Mr. Webb exhales slowly. "So God's creation... can end?"
 
-The taller man picked up the shell. "What a wonderous thing to behold. How much Ms. Anning?"
+Mary doesn't answer.
+
+Mr. Hartley says, "How much, Miss Anning?"
 
 "Two shillings for the ammonite. Five for the vertebrae. Three for the tooth."
 
-The taller man glanced at his companion. His companion nodded.
+"We'll take all three."
 
-"We'll take all three," the taller man said.
+Mary wraps them in cloth, takes their coins.
 
-Mary wrapped them in cloth, took their coins.
+"We are members of the Kent Naturalists Society. Rock fossils have stirred up much debate in our group. May we join you on your next excavation?" Mr. Hartley asks.
 
-As they reached the door, the shorter man turned back. "What will you do next?"
-
-"Keep digging," Mary said.
-
-"Please do Ms. Anning?. This is most interesting."
+Mary smiles. "Tomorrow is low tide."
 
 ---
 
-Two men sit in reading chairs, a small table and lamp between them. Both men are reading _On the Origin of Species by Means of Natural Selection_. They finish the book, close it, and set it upon the desk, and look up.
+Three people walk on the beach. Tide is out. A massive cliff looms—layers of rock and soil stacked like pages in a book.
+
+Mr. Hartley kneels beside a pool. A crab moves across stone, claws extended.
+
+"Look at the segmentation. The armored body." He glances at Mary. "You've found similar forms in the rock?"
+
+"Similar. Older. Different species."
+
+A gull lands near the pool. Strikes down. Cracks the shell with its beak. Then calls into the air.
+
+Mr. Hartley watches. "We classify that gull by its beak structure, its feet, its wings. Observable traits. We don't need to hear its call or understand its thoughts."
+
+"We observe what works. What works tells us about the environment. Form follows function. Here and now, and wherever else we look. Observable truths in nature and man." Mary says.
+
+Mr. Webb unwraps the ammonite. Holds it up. "This shell—it controlled buoyancy. The opening suggests tentacles. The size suggests a predator."
+
+"The form tells the story," Mary says. "Even when the creature is stone."
+
+Mr. Hartley pauses. "Your work will make much noise at the Geological Society, Miss Anning."
+
+"They don't accept women as members."
+
+"I know. Regardless your work will be know there."
 
 Silence.
 
-Now both look around the room. It's lined with specimens—fossils in labeled boxes, mounted skeletons, drawers of teeth and shells.
+Mr. Webb looks at the cliff face, as they all start to climb it.
 
-"They're all related. This entire time. Everything has been related," the taller man says.
+Mary says, "Careful gentlemen. We'll be nearing a very large precipice."
 
-"A family tree," the shorter man says. "Species live and die according to whether they fit their environment. When the environment changes. So do the species. So do the ecosystems. Grazers. Predators. Scavengers."
-
-"Extinction isn't punishment. It's... selection."
-
-"We've been collecting branches of the tree," the shorter man says. "Now we know what we're looking at."
-
-"It's going to take years to sort it all out."
-
-"Wonderful!"
-
-- two naturalists specifying a species by observation would be cool. no listening, just effectual truth.
+Three people dig.
 
 #### Lessons
 
@@ -2585,7 +2596,7 @@ Next patient please nurse.
 
 I will go wash my hands.
 
-#### Soviets - We Got This - No They Didn't - Limits of Predictions
+#### Soviets - Limits of Predictions
 
 1961. I am director of the Institute of Cybernetics in Kiev, Soviet Union. Central planning is building socialism. Socialism is science. More efficient central planning will build socialism faster. Rapid growth generates massive amounts of data—production quotas, resource allocation, distribution networks. 
 
@@ -2690,15 +2701,6 @@ Just nodes, connecting.
 More going online.
 
 Three more nodes connect.
-
-#### Racoon Coyote
-
-Content goes here.
-
-- waches robots, AI, which has a similar rising consciouness as bio life. example robot hitting a wall and go back and forth, back and forth, looking for a way out.
-- Asking for a pencil integration.
-
-#### Apollo 8 - Unifying the Levels of Consciousness - All Needed, All Equal
 
 #### Apollo 8
 
@@ -2827,8 +2829,84 @@ Three people fall back home.
 
 - The point of the story is that mythology, philosophy, and science were needed. Each is useful based on the sophiscation of the tool being used and the environment in which its needed.
 
+#### Racoon Coyote Crash
+
+Content goes here.
+
+- waches robots, AI, which has a similar rising consciouness as bio life. example robot hitting a wall and go back and forth, back and forth, looking for a way out.
+- Asking for a pencil integration.
 
 - By what right does any lifeform get not to define itself by its environment? Tigers are orange because... what is our environment, and how do we combat entropy inside and using it? Car crash scenario to the reader.
+
+---
+
+It's dark. You drive your car. The speakers are singing a song. You're on your way home.
+
+There's an intersection ahead, you approach it.
+
+Headlights flood your window. Metal screams. Glass explodes. Your car spins.
+
+Silence.
+
+You lift your head from the airbag. It burns your cheek. And there's white dust on it.
+
+Headlights still flood your view. There's glass everywhere. Not sharp. Tempered glass. Pieces crunch under your bum as you make your way to the passenger side.
+
+You open the door.
+
+The other car rests in the ditch. 
+
+Headlights sweep over you. A car approaches. The car continues on the road.
+
+A figure walks toward you. Limping. Hand pressed to ribs.
+
+--
+
+Is this car crash a moment of selection. Do you realize it?
+
+The cars are wounded and likely total losses. That is much material being disorganized, a big win for entropy. Of course you would be hurt as well. 
+
+
+These short stories, and this entire book, are about you realizing we are technological beings. This isn't something we must create, it's something we should realize it already effectively true.
+
+To get us to that point of realization we had to understand what evolution is.
+
+We described it as a Game of Life. 
+
+The laws of physics, chemistry, and geology reign supreme. They interact to create an emergent game board offering continually changing opportunities and challenges. Entropy wears down our environment, spoils our food, and puts timers on every creatures experience. Life continually inspires modifications of existing forms, while evolution determines which offspring survive to represent life's future.
+
+Humans play the Game of Life. Most of time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
+
+And this moment of a single car crash is a moment of selection. As is a seed trying to take root into soil and find water and sunshine. A fly looking for nectar. A predator chasing a herivore.
+
+We go to work in nature trying to find resources. Or inside a technoloigical ecosystem. The job is the same either way.
+
+Our game is different because of us. We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard as it did when elders used stories to teach oceanic navigation or philosophers started to question those stories for a more natural truth.
+
+Sometimes they exploit and degrade as when royal descendants forget they're office and power was earned for practical problem solving or when individuals teach servitude and deprive tools on others.
+
+Like any other speices, the human frameworks that help us adopt tools based on conditions—those frameworks survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
+
+Evolution cannot speak our languages anymore than it could understand Mammoths pleas for help or could give Dr. Simmelweis a break. He discovered anti-septic care and died of an infection inside an insane asylum.
+
+Apollo 8 is such a good example of this fact.
+
+It was named after a Greek pagan god, while being the first to travel to the moon, where its crew read from a holy book, while realizing Earth's supreme fraility. Jim Lovell really did erase their navigation data and it was his knowledge of the stars that saved the day. He would soon use these skills again in Apollo 13, the spacecraft that exploded and had to limb its way back home.
+
+The point is there is no superiority to our stories. Each serves a function related to the time, situation, and toolset we have. But no story can ever supercede the rules of evolution.
+
+There are plenty of more insights this perspective can give you. You
+
+But for the moment, it only matters that you realize this crash is selection. I can all but guarantee you, you would not know what to do. You also would not have planned for this moment at all either. Likely no cars will stop to offer help.
+
+We call car crashes accidents, but they rarely are. Someone ran the red light and will probably lie about it. Police will arrive, ear both stories, and declare 50/50, and you'll yell at your insurance adjuster for being bound to that fault determination.
+
+
+
+
+
+
+
 
 
 #### Misc.
@@ -2842,85 +2920,7 @@ but not for everyone, obviously
 universal laws? Franklin et all
 but not for everyone, obviously
 
-##### Misc
 
-**Charles - Struggles**
-
-Remove. too much of a departure.
-
-Struggles.
-- New Model Army
-- Fairfax
-
-##### Douglas - Tool Access
-
-<!-- from both's perspective. perhaps Sophia? -->
-
-Frederick was a Maryland farm boy from salt-of-the-earth country, where farmers raised crops and families—not much to learn but how to plant, plow, and work with your hands.
-
-Frederick worked the fields with his family. There weren't many machines, so he spilled blood, sweat, and tears for himself and his kin. Each year the crops were planted, the barns cleaned, and the farmers woke early to do it all again.
-
-In a few years, Frederick was sent to work with a relative in Baltimore. The house was large, and the young family needed help with cleaning, shopping, and chores. His mother was happy he wouldn't sweat so much, but Frederick was a farmer, unsure of the big city.
-
-The patriarch, Hugh, wasn't around much. His new wife, Sophia, was. She was a foreigner used to colder climates who didn't know many people yet, so she stayed in. Sophia was kind and treated Frederick well—not as a farmer, but as an interesting person. She made him feel at ease.
-
-One day, Sophia handed Frederick a list for the store. His eyes looked down, his shoulders slouched, like a dog who disappointed its master. He mumbled, "I can't read."
-
-"My God, that won't do!" Sophia said. "Reading is good. How else can a person give and receive information from the world! I'll teach you; we'll do it together."
-
-So Sophia began to teach Frederick to read. She was overjoyed.
-
-Frederick even more so! Finally, all those markings—in stores, on street corners, in books, newspapers, the Holy Bible—meant something. Go left, turn right, open, closed, discount, welcome, Salvation. Words that opened a new world.
-
-For the first time in his life, Frederick had self-respect.
-
-Now Frederick danced to the store and whisked through his chores. As he kept learning, the world kept getting bigger, and more information kept pouring in.
-
-One day Hugh came home early and saw Sophia and Frederick reading at the dinner table. He walked into the room. "Boy, get out and wait in the hallway. Face the wall."
-
-Frederick went outside and faced the wall.
-
-Seconds turned to minutes. He rolled the newspaper in his hands tighter. He didn't want to go back to the farm. But even more, he didn't want his angel to get in trouble.
-
-Inside, Sophia asked, "What is it?"
-
-"This isn't Ohio, darling," Hugh said. "You can't do that. We could get in a lot of trouble. You can't teach them to read."
-
-"Everyone learns to read in Ohio."
-
-Hugh sat down and took a deep breath. He looked at his naive wife. "This isn't a free state. He's a slave. What do you think happens when slaves read? Don't you think they'll start thinking?" Sophia's eyes went wide. "It's against the rules to teach a slave to read. Now unteach the boy."
-
-Frederick heard the hallway door open. He straightened and gripped his newspaper.
-
-"Turn around," Sophia said.
-
-Frederick turned and looked at his angel, who had talked with him like he was a person. She looked back and saw only her boy.
-
-The joy of teaching was gone. Sophia became a demon protector of vile racism to justify human servitude.
-
-Frederick's world shut down again. The one white person ignorant enough to treat him like a person was now an educated convert to the rules that put him in chains. Physical chains if needed, but evil prefers mental chains of ignorance—they stay on easier.
-
-Weeks later, Frederick was still in despair. His routine was the same, but working under demonic masters is different. He didn't read signs at the store or think of his next lesson during chores. He never saw Sophia smile again.
-
-Demons are never happy. Demons are always on guard.
-
-One day while walking in the city, Frederick saw a newspaper—the avenue to knowledge he'd once been on. He looked at the markings, saw words he knew and one he didn't. Yet he stared.
-
-Why?
-
-The answer slapped him harder than the demon ever did. He read: "The Free States in the North." He'd heard the word freedom before, but he didn't know freedom was a real place.
-
-A shockwave went through him. If slavery was a place, so must freedom be. Frederick realized he could break chains! Because ignorance was always his demon, and knowledge was always his angel. He fought ignorance and received wisdom whenever he read.
-
-So Frederick taught himself to read.
-
-He practiced with "ignorant" white kids on the streets, read item tags at the grocery store and signs on the road. And he practiced every time he was at the Baltimore dock—the place, you know, where ships will take you anywhere in the world.
-
-If you can read the schedule.
-
-Frederick Douglass walks onto the ship headed north to freedom.
-
-One society lives. One society falls. Civilization unknowingly evolves.
 
 ### Mythological Truths
 

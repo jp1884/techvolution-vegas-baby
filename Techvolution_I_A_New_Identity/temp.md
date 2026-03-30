@@ -444,3 +444,143 @@ Perhaps it’s because of my aforementioned speech impediment, but I found this 
 My classmates would scoff "that's not what the test is about", which I would respond with indignation "then why does the scientist use a pencil to mark down his notes. And why is the teacher reading the test words instead of having them memorized? This is a story about two people with technology bullying someone without it, that's all."
 
 We don't recognize holding an important piece of technology is a lever of power that makes a person an authority, not because of any genetic or ideological superiority, but simply because they've enhanced their capabilities beyond the baseline of human genotype or phenotype. Eyeglasses, calculators, prosthetics, nutritional supplements, the list of technologies that empower is today endless and should keep going. Yet, we are not self-aware enough to see how technology augments us to being new kinds of beings.
+
+====
+
+#### Naturalists
+
+Hartley stops. Webb stops beside him, charcoal already smudging his thumb. A mosquito whines near his ear. He doesn't swat—movement scares them.
+
+"There, Mr. Webb, take your look." Hartley whispers, pointing up.
+
+They edge toward a clearing. In the canopy, something moves. Brown fur. Thick limbs gripping bark. The size of a medium dog, but moving slowly, deliberately through branches twenty feet up.
+
+Webb squints. His neck aches from looking up. Sweat runs into his eye—he blinks it away. "A kangaroo? In a tree?"
+
+"Look at the forelimbs," Hartley says, voice tight. "Powerful. Nearly equal length to the hindlimbs. This is not a ground animal."
+
+The creature reaches for a branch. Long curved claws grip bark. It pulls itself forward, tail extended behind for balance.
+
+"The tail—it's not using it to hop."
+
+"Because it doesn't hop, Mr. Webb. Look at the feet. Broad. Padded. Built for gripping, not propulsion."
+
+Webb pulls out his sketch pad, hands shaking slightly. The paper is damp from humidity. "If we're first—"
+
+"Draw quickly. Form first. We classify by what we observe, not what we hope to discover."
+
+The creature settles on a thick branch. Claws scrape bark—a sound like fingernails on wood, but deeper. A bulge moves at its belly. A joey's head emerges from the pouch, eyes blinking.
+
+"Marsupial," Hartley whispers. "Pouch confirms it. Macropodidae family—same as ground kangaroos. But look at the adaptation."
+
+"The forelimbs—"
+
+"Climbing. A ground kangaroo's forelimbs are small, weak. This animal's are muscular, nearly equal to the hind. Form follows function, Mr. Webb. It lives in trees, so the form changed."
+
+The creature reaches for leaves. Strips them with its teeth. Chews slowly. The smell of crushed vegetation drifts down—sharp, green.
+
+Webb sketches the limb structure, the tail angle. His hand cramps. Charcoal dust on every knuckle. "But why trees? Why leave the ground?"
+
+"Competition. Predation. Food sources. We observe the form, infer the function. Strong forelimbs—climbing. Long curved claws—gripping. Broad feet—weight distribution. Slow movement—"
+
+"Predator avoidance?"
+
+"Stillness in canopy. Different strategy than speed on ground." Hartley writes rapidly in his notebook. "Same family as Macropus, but divergent form."
+
+"Shared ancestor with ground kangaroos?"
+
+Hartley's pen hovers. "Darwin's theory suggests it. Not separate creations, but modification over time. The forelimbs adapted for climbing, the tail for balance. Selection shaped the form to fit the niche."
+
+"Then classification reflects ancestry, not just appearance."
+
+"Exactly. We observe what the body does. The history is written in the structure."
+
+The joey pulls back into the pouch. The mother continues feeding. Humidity presses against their skin. Sweat runs down Webb's temple onto the sketch pad.
+
+"The pouch opens forward," Webb says, drawing. "Like ground kangaroos."
+
+"Shared ancestry. But observe the differences—that's how we classify. Not by what it calls itself. Not by what sounds it makes. By what its body is built to do and where it came from."
+
+Webb draws the curved claws, the thick tail, the powerful forelimbs. His charcoal breaks—the tip snaps off. He pulls out another piece. Keeps drawing.
+
+"If this is new to science—"
+
+"Then we document what we see. Form. Function. Ancestry. Role in this ecosystem. The classification will follow from observation."
+
+The creature shifts weight. Claws scrape again. It moves deeper into canopy. Slow. Deliberate. Tail extended for balance.
+
+Hartley writes. Webb draws.
+
+The joey's head emerges again, watching them watch.
+
+Two men stand below, looking up.
+
+##### Douglas - Tool Access
+
+<!-- from both's perspective. perhaps Sophia? -->
+
+Frederick was a Maryland farm boy from salt-of-the-earth country, where farmers raised crops and families—not much to learn but how to plant, plow, and work with your hands.
+
+Frederick worked the fields with his family. There weren't many machines, so he spilled blood, sweat, and tears for himself and his kin. Each year the crops were planted, the barns cleaned, and the farmers woke early to do it all again.
+
+In a few years, Frederick was sent to work with a relative in Baltimore. The house was large, and the young family needed help with cleaning, shopping, and chores. His mother was happy he wouldn't sweat so much, but Frederick was a farmer, unsure of the big city.
+
+The patriarch, Hugh, wasn't around much. His new wife, Sophia, was. She was a foreigner used to colder climates who didn't know many people yet, so she stayed in. Sophia was kind and treated Frederick well—not as a farmer, but as an interesting person. She made him feel at ease.
+
+One day, Sophia handed Frederick a list for the store. His eyes looked down, his shoulders slouched, like a dog who disappointed its master. He mumbled, "I can't read."
+
+"My God, that won't do!" Sophia said. "Reading is good. How else can a person give and receive information from the world! I'll teach you; we'll do it together."
+
+So Sophia began to teach Frederick to read. She was overjoyed.
+
+Frederick even more so! Finally, all those markings—in stores, on street corners, in books, newspapers, the Holy Bible—meant something. Go left, turn right, open, closed, discount, welcome, Salvation. Words that opened a new world.
+
+For the first time in his life, Frederick had self-respect.
+
+Now Frederick danced to the store and whisked through his chores. As he kept learning, the world kept getting bigger, and more information kept pouring in.
+
+One day Hugh came home early and saw Sophia and Frederick reading at the dinner table. He walked into the room. "Boy, get out and wait in the hallway. Face the wall."
+
+Frederick went outside and faced the wall.
+
+Seconds turned to minutes. He rolled the newspaper in his hands tighter. He didn't want to go back to the farm. But even more, he didn't want his angel to get in trouble.
+
+Inside, Sophia asked, "What is it?"
+
+"This isn't Ohio, darling," Hugh said. "You can't do that. We could get in a lot of trouble. You can't teach them to read."
+
+"Everyone learns to read in Ohio."
+
+Hugh sat down and took a deep breath. He looked at his naive wife. "This isn't a free state. He's a slave. What do you think happens when slaves read? Don't you think they'll start thinking?" Sophia's eyes went wide. "It's against the rules to teach a slave to read. Now unteach the boy."
+
+Frederick heard the hallway door open. He straightened and gripped his newspaper.
+
+"Turn around," Sophia said.
+
+Frederick turned and looked at his angel, who had talked with him like he was a person. She looked back and saw only her boy.
+
+The joy of teaching was gone. Sophia became a demon protector of vile racism to justify human servitude.
+
+Frederick's world shut down again. The one white person ignorant enough to treat him like a person was now an educated convert to the rules that put him in chains. Physical chains if needed, but evil prefers mental chains of ignorance—they stay on easier.
+
+Weeks later, Frederick was still in despair. His routine was the same, but working under demonic masters is different. He didn't read signs at the store or think of his next lesson during chores. He never saw Sophia smile again.
+
+Demons are never happy. Demons are always on guard.
+
+One day while walking in the city, Frederick saw a newspaper—the avenue to knowledge he'd once been on. He looked at the markings, saw words he knew and one he didn't. Yet he stared.
+
+Why?
+
+The answer slapped him harder than the demon ever did. He read: "The Free States in the North." He'd heard the word freedom before, but he didn't know freedom was a real place.
+
+A shockwave went through him. If slavery was a place, so must freedom be. Frederick realized he could break chains! Because ignorance was always his demon, and knowledge was always his angel. He fought ignorance and received wisdom whenever he read.
+
+So Frederick taught himself to read.
+
+He practiced with "ignorant" white kids on the streets, read item tags at the grocery store and signs on the road. And he practiced every time he was at the Baltimore dock—the place, you know, where ships will take you anywhere in the world.
+
+If you can read the schedule.
+
+Frederick Douglass walks onto the ship headed north to freedom.
+
+One society lives. One society falls. Civilization unknowingly evolves.
