@@ -1648,7 +1648,7 @@ Walk to grass. Grass. Eat. Watch. Watch. Eat. Fast. Look up, look left. Look rig
 
 Cold will come. Honk is heard. My flock close. I say danger in deep water.
 
-#### Mammoth Problems
+#### Mammoths
 
 I am walking on grass. I am walking on path. My family follows.
 
@@ -1728,13 +1728,7 @@ Panic! Panic!
 
 Three mammoths fall.
 
-#### Fire Tree
-<!-- eyes are sharp-->
-<!-- memories are good -->
-<!-- territory is vast -->
-<!-- narratives are introduced to explain the information being rec'd -->
-<!-- are tools given enough importance? hides and flints enough? -->
-<!-- wounded warrior in camp -->
+#### Giving Tree
 
 Light is high. The foraging party left at dawn. I stay with Mother, learning.
 
@@ -1826,7 +1820,7 @@ I look at the stars. They have names. They teach us things.
 
 Soon the Hunter-Star rose, the stories told us cold season was near. Our hides kept us warm. Our dried food kept us fed.
 
-When the Hunter-Star fell, warm returned. I was strong enough to go with the foraging party. I saw Giving Tree. It has no fruit. It's leaves are few. So we kept walking. We gathered roots. We gathered reeds. Many baskets were still empty. We kept walking to someplace new.
+When the Hunter-Star fell, warm returned. I was strong enough to go with the foraging party. I saw Giving Tree. It has no fruit. It's leaves are few. So we keep walking. We gather roots. We gather reeds. Many baskets are still empty. We keep walking to someplace new.
 
 And we saw something new.
 
@@ -1834,59 +1828,63 @@ We saw people. Different people.
 
 They were not gathering. They were not hunting.
 
-A mother walked on soil. Her child was behind her with water. Another woman had a stick with something that looks like flint dragging on the land. In her basket were seeds. But she wasn't eating the seeds or grinding the seeds. She held the seeds in her hands above the soil.
+Many men with spears stand in lines. They are surrounding other giving trees. Other men are pick fruit from the trees.
 
-And then I saw three seeds fall.
+Then a mother walks on soil. Her child is behind her with water. Another woman has a stick with something that looks like flint dragging on the land. In her basket are seeds. But she is not eating the seeds or grinding the seeds. She holds the seeds in her hands above the soil.
+
+I hug my empty basket.
+
+And then I see three seeds fall.
 
 ### Technological Game of Life
 
 #### The Power of Signs
 
-<!-- note royalty here -->
+The taro plants need water. I carry the gourd from the stream, pouring carefully around each root as my mother taught me. I pass friends making baskets, feeding pigs, collecting water. This land feeds us because we work it together.
 
-The taro plants need water. I carry the gourd from the stream, pouring carefully around each root as my mother taught me. The soil here is good—dark and soft, we work hard to keep the sand and rock away.
+By the time I finish, the sun is setting. I check my tools—plow, shovel, axe—making sure each is clean.
 
-I walk to each row of crops, I pour the water. I pass houses and friends making baskets, feeding pigs, collecting water. This land feeds us every year because we work it together.
+I go watch what they are doing down at the beach. Twelve long boats with huge logs lashed to either side. The shipbuilders have been building for two seasons.
 
-By the time I finish, the sun is setting. I put my pail away among my rack, plow, shovel, axe, and my other tools. I check each to make sure they are clean.
+As night comes, an Elder sits beside me.
 
-My work is done. I go watch what they are doing down at the beach. Twelve long boats with huge logs lashed to either side. The shipbuilders have been building for two seasons.
+"How will they get there?" I ask.
 
-I hear the men's laughter as I sit and watch them. As the night comes, an Elder comes to sit next to me.
-
-"I don't understand. How will they get there?" I ask.
-
-He looks at me for a long moment..."Look up," he says. "What do you see?"
+He looks up. "What do you see?"
 
 "The gods."
 
-"The gods, yes" he agrees. "But can you read the gods signs?...We can because Tāne placed each one. The Navigator reads the gods' signs. That is how they will know."
+"Yes. But can you read the gods' signs? We can because Tāwhirimātea placed each one. The Navigator reads the gods' signs. That is how they will know."
 
 He pauses. "This is how we move. This is how we got here. Look up at the gods and listen."
 
-In the time of the seventh Navigator, when the fishing grounds grew thin, the Chief consulted the priests. They read the signs—birds flying beyond the horizon, stars positioned as Tāne declares when land waits beyond sight.
+I notice the Elder's voice deepens as he says, "In the time of the seventh Navigator, when the fishing grounds grew thin, the Chief consulted the priests. They read the signs of Tāne—birds flying beyond the horizon, stars positioned to show when land waits beyond sight.
 
 The gods were calling us to voyage.
 
-We built twelve canoes according to the patterns Tāne revealed in the first days. Each held twenty—planters who read Rongo's signs, fishers who honored Tangaroa's tapu, builders who understood Tāne's gifts of wood.
+We built twelve canoes according to the patterns the gods revealed in the first days. Each held twenty—planters who read Rongo's signs, fishers who honored Tangaroa's tapu, builders who understood Tāne's gifts of wood.
 
-The Navigator carried the red arrow his father's father's father carved. Seven white shells bound to its shaft. Seven generations. Seven new homes found.
+The Navigator carried the red arrow his father's father's father carved. Seven white shells bound to its shaft—one for each Navigator in his line, each voyage that brought us here, island by island. Seven generations. Seven new homes found.
 
-We paddled into the endless ocean. For sixteen days we saw nothing but water and sky. The Navigator watched the same lights you see now.
-
-But he saw Tāne's signs each night. Tangaroa's currents pushed us as the chants promised. Tāwhirimātea sent wind from the north.
+We paddled into the endless ocean. For sixteen days we saw nothing but water and sky. The Navigator read the gods' signs each night—stars, currents, wind from the north.
 
 On the seventeenth morning, we saw land.
 
-The Fire-Keeper pulled herself onto the beach. She knelt in the sand and sang the fire song, spinning her koa spindle against dry palm wood.
+The Fire-Keeper pulled herself onto the beach—and found people already there.
 
-Elder's voice drops as he continued; for two days she tried, and our people ate fruit and drank rainwater, but could not cook or purify water. Our people waited and trusted in the gods.
+The Navigator raised his hand. Our warriors held their spears, waiting.
 
-On the third day, the spark came. Flame rose. Mahuika had accepted us.
+The Navigator chanted his lineage. An old woman answered, naming ancestors we knew. Cousins.
+
+They showed us black stone adzes, sharper than ours. "From the mountain island," the Chief said. "We trade fish for stone, stone for shells, shells for taro. Each island holds different gifts."
+
+We offered our fire-drill design. They offered star paths to the obsidian island.
+
+The Fire-Keeper sang the fire song. The spark came. Mahuika had accepted us—and given us trading partners.
 
 We built shelters with the wood Tāne provided. We planted the taro we carried, reading the soil as Rongo taught us. We fished in Tangaroa's waters. We raised the red arrow on stones, honoring the Navigator who brought us.
 
-The gods guided us across the ocean. The gods gave us this island. The gods showed us how to build every tool—canoes and spindles and planting sticks.
+The gods guided us across the ocean. The gods gave us this island. The gods blessed every tool we build—canoes and fire-drills and planting sticks.
 
 "This is the wisdom that flows in your blood," he says. "You plant our food here. Someday, you may follow the lights and venture out to plant new lands in new places. The gods give us the signs, we only must read them, trust in their path, and go from land to land, island to island. Our people will visit the world."
 
@@ -1894,7 +1892,7 @@ I look down at the beach where the canoes are nearly ready. Then back at the tar
 
 "The taro I planted," I say slowly. "It came from that voyage?"
 
-"Every plant, every person, every tool is taken from island to island, home to home." Elder says. "Rongo blessed the first planting. Every seed since carries that blessing."
+"Every plant, every person, every tool is taken from island to island, home to home," Elder says. "Rongo blessed the first planting. Every seed since carries that blessing."
 
 I understand now. The tools I use, the crops I tend, the island beneath my feet—all of it came because the gods guided the seventh Navigator across the ocean. And now the gods are calling again.
 
@@ -1904,61 +1902,65 @@ Elder smiles. "If the gods will it."
 
 #### The Limits of Signs
 
-The merchant ship rounds the headland at dawn. I've sailed from Phasis, Sinope, and every port in between. My hold is full of wares—Chinese silk, carved jade, metals, shells, stones, and tools from lands unknown. Three months of favorable winds. Poseidon has been kind.
+The merchant ship rounds the headland at dawn. I've sailed from Phasis, Sinope, and every port in between. My hold is full of wares—Persian textiles, Scythian gold, carved ivory. Three months of favorable winds. Poseidon has been kind.
 
-But as we approach the Rhodos harbor, I see something is wrong.
+But as we approach the Rhodes harbor, I see something is wrong.
 
-Half the town is gone. Where warehouses and homes should stand, there is only rubble and sand. Fishing boats lie shattered far up the beach. People move through the debris like vultures looking for scraps that they place on carts pulled by mules and oxen.
+Half the town is gone. Where warehouses stood, there is only rubble. Fishing boats lie shattered far up the beach. People move through debris, placing scraps on carts.
 
 We anchor offshore. I row in with my first mate.
 
-An old woman sits beside the ruins of what was once a temple. She rocks back and forth, keening.
+An old woman sits beside temple ruins, keening.
 
 "What happened?" I ask.
 
 "Poseidon," she says. "The earth-shaker's wrath."
 
-A fisherman approaches, his hands bleeding from clearing rubble. "Twelve days ago. The ground shook—we've felt that before. But then the water pulled back. All the way back, past the outer rocks."
+I don't correct her. I've seen three earthquakes in twenty years of sailing—Crete, Kos, now Rhodes. Always near volcanic islands. Now two followed by waves. I don't know why. But I know where to avoid anchoring in winter.
 
-"And then?"
+A fisherman approaches, hands bleeding. "Twenty-eight days ago. The ground shook. Then the water pulled back, past the outer rocks. Then the god sent his wave. Tall as three men. Forty homes gone. Seventy-three dead."
 
-"Then the god sent his wave. Tall as three men. It took everything—forty homes, the temple, the fishing fleet. Seventy-three dead."
-
-I look at the destruction. Boats carried half a stadium inland, stone walls scattered like dice.
+I look at the destruction. My cargo is worthless here—no warehouses, no merchants. The trade network is broken.
 
 "Why was Poseidon angry?"
 
-The fisherman shakes his head. "The priests are talking. Some say we failed to sacrifice before the spring fishing season. Others say a merchant violated the sacred cove. The oracle at Delphi has been consulted."
+"The priests say we failed to sacrifice. The oracle at Delphi has been consulted."
 
-By midday, the priest arrives from Delphi, dusty from his journey. The survivors gather in what remains of the agora.
+By midday, a priest arrives. The survivors gather in what remains of the agora.
 
-"The Pythia has spoken," the priest announces. "Poseidon was angered by our insufficient devotion. We built him a temple of modest stone. We offered three bulls at the spring festival. This was not enough."
+"I have consulted the signs," the priest announces. "Poseidon was angered by insufficient devotion. We built him a temple of modest stone. We offered three bulls. This was not enough."
 
 An old man steps forward. "We've given what we could—"
 
-"The god demands more," the priest interrupts. "When Odysseus angered Poseidon, the god hounded him for ten years across the wine-dark sea. When the Phaeacians helped him, Poseidon turned their ship to stone. The earth-shaker does not forget offense." He raises his voice. "We will rebuild the temple twice as large. We will sacrifice six bulls at each festival. We will carve his image from marble, not wood."
+"The god demands more," the priest interrupts. "When Odysseus angered Poseidon, the god hounded him for ten years. When the Phaeacians helped him, Poseidon turned their ship to stone." He raises his voice. "We will rebuild the temple twice as large. We will sacrifice six bulls at each festival. We will carve his image from marble, not wood."
 
-Murmurs of agreement ripple through the crowd. A woman weeps with relief—finally, an answer.
+Murmurs of agreement. A woman weeps with relief—finally, an answer.
 
-Then a voice from the back: "Or perhaps something else. I have seen this before."
+Then a voice from the back: "Or perhaps we might observe something else."
 
-The crowd turns. A man in a simple tunic steps forward—lean, weathered, perhaps fifty years old.
+The crowd turns. A man in a simple tunic steps forward—lean, weathered, perhaps fifty.
 
 "Thales of Miletus," someone whispers.
 
-The priest stiffens. "You dare question the oracle?"
+The priest stiffens. "You dare question the divine signs?"
 
-"Who could ever question the oracle's wisdom. I only observe: every time a wave comes, the earth shakes first. Perhaps the gods act in ways we must look to see. These are my coasts. I've traveled them for twenty years. Every time a wave like this comes, the earth shakes first. Then the water pulls back. Then the wave. All the tales from past, and today, agree on this."
+"I would never question the gods' power. I only observe: Every time a wave like this comes, the earth shakes first. Then the water pulls back. Then the wave. In Miletus, in Phocaea, here today. Always the same pattern."
 
-"Yes," the priest says. "The earth-shaker announces his anger—"
+"Yes," the priest says sharply. "The earth-shaker announces his wrath through the land before he strikes with water. The pattern is Poseidon's anger. You describe how the god acts, not whether he acts."
 
-"Or the shaking of the earth causes the wave. Not only divine anger. Natural consequence of natural actions. I told the merchants in Miletus when the sun would go dark. It did. Not because I angered Apollo, but because I understood the pattern the gods make. And I believe the foundation of knowing is saying first, I don't know."
+"Perhaps. But I learned from Babylonian star-watchers when the sun would go dark. It did. Not because I angered Apollo, but because I understood the pattern. The gods may will it—but the pattern itself can be known."
 
-The crowd is silent. Shocked.
+The crowd murmurs, uncertain.
 
-"I don't mean to interrupt. Build the temple. Honor the gods. I look forward to the festivals. If anyone is interested to talk, I'll walk to the hill. And we can talk together."
+"Build the temple. Honor the gods. I look forward to the festivals." Thales turns toward the hill. "But if anyone wishes to discuss what patterns we might observe, I'll be there."
 
-Three people follow.
+I return to my ship. I have nothing to trade here now. In Miletus, merchants speak of Thales's ideas—measuring pyramids by shadows, predicting floods by stars.
+
+Greeks will rebuild. Trade will return. I will move cargo port to port, and return to help civilization regrow here.
+
+I look back at the hill.
+
+Three people walk with the philosopher.
 
 #### Use of Reason
 
@@ -1977,6 +1979,8 @@ The official looked up, annoyed. "Because I've calculated it."
 The apprentice drove stakes along my field's edge, measuring carefully. I watched him work, my chest tight. My father's land. My grandfather's.
 
 "I can't read the mathematics. Can you help?" I asked the young apprentice when the official was out of earshot.
+
+"The philosphers tell us the basis of all knowledge is saying 'I don't know'. Because you are hoenst, I can help you."
 
 The apprentice knelt and drew in the dirt. He sketched my field's irregular shape, then drew lines inside it, breaking it into triangles and rectangles.
 
@@ -2635,6 +2639,8 @@ I will go wash my hands.
 
 #### Work
 
+<!--  introduce kid, kid being taught why/where they're going -->
+
 The newspaper lies between us on the table. She reads aloud. I listen.
 
 "Farmhands wanted. Virginia. Rich soil, mild winters, God's country awaits. Sixty cents a day."
@@ -2927,9 +2933,11 @@ Three people fall back home.
 
 #### Game
 
-Teams play, who is winning.
-who should win
-who do i want to win?
+Making music
+
+i am this
+i am that
+music? one person, to a group, to a choir, to a symphony.... and etc. filling gaps and niches....
 
 
 #### Racoon Coyote Crash
@@ -2949,6 +2957,7 @@ Content goes here.
 - political divide.
 - Asking for a pencil integration.
 - the joy of writing this has been wow, our bs is so artifical, i can ignore it...
+- we don't assess the daily environment, available resources, niches, and pick up tools accordingly (ex. commuting/traffic).
 
 - "Baran: No: It's the first moment where individual stubbornness matters—but only because the environment allows it. If AT&T were the only path forward (like Gosplan for Glushkov), Baran's refusal would be irrelevant. This would make explicit what's implicit: Baran's refusal only matters because his environment has other niches. AT&T says no. RAND says yes. That's the difference.
 
