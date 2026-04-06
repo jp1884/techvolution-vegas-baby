@@ -89,7 +89,7 @@ _Techvolution: On the Origin of Technological Species_ presents a new way of und
 
 **Book I—A New Identity:** This foundational work introduces a "technological identity"—the idea that we humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general, interact with the world. While we have names for our nationality, ethnicity, employment, and politics, we lack consciousness of our technological nature.
 
-Consider someone labeled "Californian, female, Hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread, and she sells DVDs for a living. Because technological evolution is about to make physical media discs obsolete, her personal networks and knowledge base are now of questionable value.
+Consider a person named Maria who is labeled "Californian, female, Hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread, and she sells DVDs for a living. Because technological evolution is about to make physical media discs obsolete, her personal networks and knowledge base are now of questionable value.
 
 Yet, we have no name for this identity that might upend her life. This is but one example of why, from power tools to smartphones, our technological choices not only shape what we can do but who we should see in the mirror. Only then will we stop using biological instincts to live in a technological ecosystem.
 

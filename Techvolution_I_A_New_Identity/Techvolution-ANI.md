@@ -54,7 +54,9 @@ _Techvolution: On the Origin of Technological Species_ presents a new way of und
 
 **Book I—A New Identity:** This foundational work introduces a "technological identity"—the idea that we humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general, interact with the world. While we have names for our nationality, ethnicity, employment, and politics, we lack consciousness of our technological nature.
 
-Consider someone labeled "Californian, female, Hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread, and she sells DVDs for a living. Because technological evolution is about to make physical media discs obsolete, her personal networks and knowledge base are now of questionable value. Yet, we have no name for this identity that might upend her life. This is but one example of why, from power tools to smartphones, our technological choices not only shape what we can do but who we should see in the mirror so we stop using biological instincts to live in a technological ecosystem.
+Consider a person named Maria who is labeled "Californian, female, Hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread, and she sells DVDs for a living. Because technological evolution is about to make physical media discs obsolete, her personal networks and knowledge base are now of questionable value.
+
+Yet, we have no name for this identity that might upend her life. This is but one example of why, from power tools to smartphones, our technological choices not only shape what we can do but who we should see in the mirror. Only then will we stop using biological instincts to live in a technological ecosystem.
 
 **Book II—Mixed Ideological Politics:** Having established our technological identity, we must next liberate our toolsets from ideological constraints. Today, we often reject useful tools simply because of their political or cultural associations—renewable energy is labeled "green," diesel trucks "red-blooded American." These artificial divisions prevent us from combining technologies in optimal ways.
 
@@ -552,7 +554,17 @@ Now, in our quest to better understand ourselves, which of these scenarios do yo
 
 ### Doesn't My Insurance Cover This?
 
-The answer is the raccoon. Like them, we live, work, and exist in an ecosystem of tools without knowing how they work. This is why the thesis of this book is that humans are now primarily a technological species that is not yet self-aware of our new identity. I will use my story again to explain why.
+The answer is the raccoon. Like them, we live, work, and exist in an ecosystem of tools without knowing how they work. This is why the thesis of this book is that humans are now primarily a technological species that is not yet self-aware of our new identity.
+
+We've already met the DVD rental manager Maria who in 2011 sells physical media—DVDs people must drive to pick up and return—for a living. Hardworking, knowledgeable, and entirely unaware that the technology defining her livelihood is about to vanish.
+
+Maria wasn't alone. Home Improvement was one of America's most popular shows throughout the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor celebrate the power of modern tools—then turned off their televisions and never applied that thinking to their own lives. The show was culturally aware enough to tackle drug addiction, infidelity, and job loss — the important life lessons society recognized. Yet in ten seasons, technological identity never appeared on that list. Nobody asked what happens when television itself changes.
+
+Within a few years, Tim Allen himself had a new show—on a streaming service. His fictional Tool Man, and everyone else who built careers around television, never saw it coming. Internet speeds were improving every year. All they needed to do was look.
+
+DVDs went extinct in under a decade after the show ended. Today people ask anxiously whether AI will take their jobs—a frightening question precisely because so few of us truly understand our relationship to the technologies we depend on to earn a living.
+
+Like Maria, we have no name for that part of our identity—the part evolution so often judges us on. My own story shows why this blindspot is so hard to see and accept.
 
 Among my many genetic traits is the aforementioned speech impediment. Centuries ago, it would have been debilitating. Belief systems were more mythological, leading many to believe that a stutterer was a simpleton and a candidate for neglect or worse. I can sympathize; in childhood, I was thought to be one because I rarely talked. But when the problem was identified at my elementary school, a speech therapist was assigned, and the shackles of my genetic heritage began to be removed.
 
@@ -560,7 +572,7 @@ I still had the resulting shyness of my phenotype to overcome. That story is lik
 
 My experience is not unique; many people face similar challenges, from social anxiety to dyslexia. The key point is that we now have numerous ways to address these issues. Advances in science—such as mapping the human genome—and in psychology—with various therapies—provide significant support. Unlike in the past, when even Julius Caesar had to hide his epilepsy, we have great help available once a person chooses to use it. Evolution now has far less reasons to reject individuals based on their genotype or phenotype.
 
-Technology now buffers us from many selection pressures that once eliminated individuals—cold, disease, injuries—  for centuries.
+Technology now buffers us from many selection pressures that once eliminated individuals—cold, disease, injuries—for centuries.
 
 As for the extended phenotype, before the Industrial Revolution, we were often like squirrels using tools made from the natural world. Technology still amazed us, but things such as sod houses, wood saws, and paper books are physical objects easy to hold, safe to smell, and natural to the touch. However, after the massive explosion of chemicals, materials, electricity, electronics, software, and so many other things over the past 150 years, we are now like raccoons who depend on things we do not truly understand.
 
