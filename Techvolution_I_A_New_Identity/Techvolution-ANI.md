@@ -1618,6 +1618,8 @@ Flock goes down. Mate goes down. We honk. We bow. Necks touch. We are mates.
 
 We must find. Where to nest. We must find safe nest. Land. Look, look. Cavity is deep. No predators reach. Something in tree. It safe animal.
 
+Get twig. Get grass. Put here. Put there. Get feather. Get twig. Put there.... Wind. Wind rips away grass. Wind tips down feather. Guard. My mate looks. My mate guards. Get twig. Get Twig. Get feather. Put here. Put there.
+
 I lay eggs. 8 eggs. I see them. Our eggs. My mate brings food. Flies are here. Bite at flies. I sit. Warmth. I sit. He hunts. He sits. I hunt. Rain. We sit. Sun. We sit. Must turn eggs. We wait.
 
 Cold comes. Puff up. Warm comes. Puff down.
@@ -2875,9 +2877,11 @@ We ignite the rocket. It lights.
 
 I tell Houston, "Please be informed, there is a Santa Claus."
 
-On the trip back, my job is to take stellar measurements. We use them to confirm our location for the navigation computer.
+We will be back. After our success here, NASA already has the gears in motion. I will be back and put footsteps on the moon. Well, not footsteps of course. There will never be human footprints on the moon, there will be bootprints. My steps will make them.
 
-I use the onboard sextant to line up stars. Take measurements. Very much like sailors of old navigating the oceans by the stars. I key the data into the computer.
+We are headed back home. My job is to take stellar measurements. We use them to confirm our location for the navigation computer.
+
+I use the onboard sextant to line up stars. The computer guides me to take measurements. This is fun, like the swash-buckling sailors of old navigating the oceans by the stars. I key the data into the computer.
 
 MEMORY ERASED
 
@@ -2903,11 +2907,11 @@ I stare at the computer display. The numbers are wrong. All wrong.
 
 "How?"
 
-"Like we did back in the day. By the stars."
+"Like we did back in the day. Use our memory."
 
-I need two bright stars. Rigel. Sirius. I know those.
+I need two bright stars. Rigel. Sirius. I know those best.
 
-I look through the sextant.
+The ship is turning. I look through the sextant.
 
 Keep looking. I sight Rigel. Fire the thrusters. Small bursts. Careful. Get the crosshairs aligned.
 
@@ -2919,7 +2923,7 @@ There.
 
 I have the angles. Now I need the numbers.
 
-Spherical geometry. Celestial mechanics. The same equations I learned years ago. The same equations sailors used for centuries. I work through the calculations. Write them down. Check them. Write them again.
+Spherical geometry. Celestial mechanics. The same equations I learned years ago. The same equations sailors used for centuries. I work through the calculations. Write them down with pencil and pad. Check them. Write them again.
 
 Ten minutes pass.
 
@@ -2941,6 +2945,23 @@ Three people fall back home.
 
 
 - The point of the story is that mythology, philosophy, and science were needed. Each is useful based on the sophiscation of the tool being used and the environment in which its needed.
+
+#### Food
+
+
+- farmer
+- organizing farm. much wild interspersed for bee etc. health.
+- noticing nature beats and rhythm, (unknowingly mimciking nature/animals)
+- has tribal loyalty/id (local team)
+- has faith
+- has ideology (vistors, converse about local projects, IR...)
+- works the farm
+- sees cow lightnight strike
+- calls in claim
+- last queue call
+
+
+
 
 
 #### Game
