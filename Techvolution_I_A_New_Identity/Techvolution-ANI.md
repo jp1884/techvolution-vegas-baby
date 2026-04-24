@@ -1744,6 +1744,12 @@ Three mammoths fall.
 
 #### Giving Tree
 
+<!-- 
+- watch and observe the tree more
+- noticably/tragically do not plant
+- fight for control of tree 
+-->
+
 Light is high. The foraging party left at dawn. I stay with Mother, learning.
 
 "Scrape this way," she says, showing me the deer hide stretched on the frame. "See? Gentle. Hide tears if you push too hard. We have more time than hides. Take time. Do it right."
@@ -2654,6 +2660,7 @@ I will go wash my hands.
 #### Work
 
 <!--  introduce kid, kid being taught why/where they're going -->
+<!-- San Fran fire clean up. fire safety being installed. fire control etc. rebuilding, like a forest would, fire resistance, like lifeforms would evolve... looking for work in this new ecosystem, like lifeforms do in a fruit tree... -->
 
 The newspaper lies between us on the table. She reads aloud. I listen.
 
@@ -2973,7 +2980,7 @@ i am that
 music? one person, to a group, to a choir, to a symphony.... and etc. filling gaps and niches....
 
 
-#### Racoon Coyote Crash
+#### Raccoon Coyote Crash
 
 Content goes here.
 
