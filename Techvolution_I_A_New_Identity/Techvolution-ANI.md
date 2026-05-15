@@ -1291,7 +1291,7 @@ Humans were no longer just hunting and gathering what nature made available, but
 
 Some might consider these changes artificial. After all, stone walls, bronze swords, horse saddles, and everything else in civilization are manmade materials or objects.
 
-But that would be wrong. Why is a copper water pipe or medical textbook artificial if the copper in our bodies or the wood in trees are natural? The Game of Life is a battle to grow things that can self-replicate in their environment and fight off entropy. As physicist Richard Mueller notes in his book "Now: The Physics of Time", technology does that every bit as much as biology does.
+But that would be wrong. Why is a copper water pipe or medical textbook artificial if the copper in our bodies or the wood in trees are natural? The Game of Life is a battle to grow things that can self-replicate in their environment and fight off entropy. As physicist Richard Muller notes in his book "Now: The Physics of Time", technology does that every bit as much as biology does.
 
 The problem is technological does not always grow naturally.
 
