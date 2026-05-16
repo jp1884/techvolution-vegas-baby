@@ -4,7 +4,7 @@
 
 *[image goes here]*
 
-This illustration is doing something that prose has trouble with.
+This illustration is showing something hard to put into words.
 
 On the left side of the frame: a near-empty cinema. Visit the movie theater on most showtimes and this is what it looks like. A few slumped figures in the seats. Walk in on a Wednesday afternoon and you'll wonder if the projectionist is still employed. I was one, and I often wondered how much longer my job was going to last.
 
@@ -16,35 +16,39 @@ Same picture. Same frame. Two rooms. Two existences. One reality.
 
 The cinema has been emptying for over sixty years.
 
-In 1960, 18% of Americans went to the movies once a week. By 1964, 10%. By 1972, 8%. Per capita ticket sales were 30 in 1946, 12 in 1955, 5 in 2000, and about 2 today. The industry lives off marketing and hypes up bigger-sounding "gross dollars" instead of the number of tickets sold. A 200 million weekend gross sounds like an amazing achievement, but that is about 13 million views spread over three days for a population of 380 million, or about 3.5%. Which is definitely not going viral.
+In 1960, 18% of Americans went to the movies once a week. By 1964, 10%. By 1972, 8%. Per capita ticket sales were 30 in 1946, 12 in 1955, 5 in 2000, and about 2 today. The industry lives off marketing and hypes up bigger-sounding "gross dollars" instead of the number of tickets sold. News outlets pump up a "200 million weekend gross", and it sounds like an amazing achievement, but that is about 13 million views spread over three days for a population of 380 million, or about 3.5%. Which is definitely not going viral.
 
 Either way you slice it, television kept taking movie seats and never gave them back.
 
-Years ago, the movies introduced the blockbuster system to compensate. *Star Wars*, *Jurassic Park*, sequels, franchise expansion, brand-owned culture. The studios stopped being centers of production and became owners of the rights to American storytelling.
+Years ago, the movies introduced the blockbuster system to compensate. *Star Wars*, *Jurassic Park*, sequels, franchise expansion, brand-owned culture. By limiting the stories told, the studios stopped being centers of production and hoped to become owners of the rights to American storytelling.
 
 The 2000s added more spectacle. D-Box seats that shake. 3D, again, like in the 1950s. IMAX premiums. Marketing budgets that sometimes equaled production budgets. By the late 2000s, state tax credits had become a critical source of external funding for the film industry — meaning the business of selling tickets no longer covered the cost of making the movies.
 
-Then streaming arrived, and the public discovered they preferred watching at home with cheaper prices, no ads, and affordable popcorn. COVID cleared out what was left.
+Then streaming arrived, and the public discovered they preferred watching at home with cheaper prices, no ads, and affordable popcorn. COVID — a pandemic Hollywood often makes movies about — cleared many of the remaining regular customers.
 
 The award shows tell a similar story. But you have to look past the lights to see it.
 
-The Oscars peaked in 1998 at over 55 million viewers. Recent ceremonies have pulled around 19 to 20 million. The Golden Globes nearly went off the air a few years ago. The headlines from each ceremony focus less on the films and more on the host's monologue, who wore what, and what got said on a microphone that wasn't supposed to be hot.
+The Oscars peaked in 1998 at over 55 million viewers. Recent ceremonies have pulled around 20 million. The Golden Globes nearly went off the air a few years ago. The headlines from each ceremony focus less on the films and more on the host's monologue, who wore what, and what got said on a microphone that wasn't supposed to be hot.
 
-Meanwhile your streaming queue keeps growing. You watch on a couch. You skip the openings. You increasingly don't pay attention.
+Meanwhile your streaming queue keeps growing. You watch on a couch. You skip the credits. You increasingly don't pay attention to what is opening this weekend at the box office.
 
-The cinema is empty because we left. The award shows are gossip fodder because we've never seen the movies.
+The cinema is often empty because we left. The award shows are gossip fodder because our society has never seen the movies.
 
 We left because the product thinned out, the prices went up, and the alternatives got better.
 
 ## So What
 
-A century ago, the cinema was the spectacle. A film opening drew crowds because films were the closest thing the public had to a shared event. Now the shared event is the ceremony about the films — and the films themselves are most often ignored, or watched alone at home, never discussed with anyone because viewers are quickly watching something else.
+A century ago, the cinema was the spectacle. Film was new, exciting, and new releases drew mass crowds because they were the closest thing the public had to a shared event. *Gidget* (1959), a movie you likely never heard of, introduced an obscure sport called surfing to America, driving millions into the sea to try it. *Jaws* (1975) used beach culture to terrorize those taking a swim, and turned extremely rare shark attacks into nearly expected events.
 
-The illustration captures this without saying it. The packed amphitheater isn't selling movies. It's selling itself. On most showtimes, the movie theater screen might as well be blank for all the eyeballs it attracts.
+Such was the power of the movies.
 
-Of course we know this, because we're the ones not going.
+Now the shared event is the ceremony about the films — and the films themselves are most often just more ubiquitous content, likely watched alone at home, and so rarely discussed across society because viewers are quickly watching something else.
 
-But do the industry, its stars, and our society recognize this?
+People will pay for a good night out. Music concerts, wrestling shows, and sports events have all maintained their seat counts. We left the cinema because the product thinned out, the prices went up, and the alternatives got better.
+
+We know this is happening. Do the industry and its stars recognize it openly? And if they did, would they have a framework to understand and manage it?
+
+As movie legend Jim Carrey reflected after one notorious awards show, "We're not the cool kids anymore."
 
 ## The Figure at the Curtain
 
