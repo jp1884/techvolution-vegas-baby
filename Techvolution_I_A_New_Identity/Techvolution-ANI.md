@@ -738,7 +738,7 @@ We sometimes experience this feeling of being lost in our every day lives too.
 
 Once, I wanted to enjoy some back country open roads. I thought I was going north and would inevitably hit the highway. Driving alone, windows down, with no phone coverage, and no maps or compass, I had a blast. I was actually going east and hit nothing. Standing outside the beater car with little gas was quite disorienting and somewhat scary as night fell.
 
-Many will have more dangerous stories, others more comical, but we all should remember that feeling of being lost. As we forge a new technological identity, we should embrace this ever educational feeling for its immensely educational benefits.
+Many will have more dangerous stories, others more comical, but we all should remember that feeling of being lost. As we forge a new technological identity, we should embrace this feeling for its educational benefits.
 
 For the same reason Abbott wrote his famous story. Because everything about us, from our eyes, to bones, to mindset, is a by product of our reality. And, we cannot leave it anymore than a hexagon can leave Flatland.
 
@@ -748,9 +748,9 @@ Only our reality has far more, which we call the universal laws of nature.
 
 Physics, astronomy, chemistry, geology, and biology define our reality. Together they make a rulebook, but unlike chess or Monopoly there is no booklet to read or program to hack. Nor does the rulebook ever care about our input, ideas, or feedback.
 
-Instead, life can be thought of as a game of trying to overcome, utilize, and understand these rules well enough to survive.
+Instead, life can be thought of as the process of harvesting, organizing, and adapting within these rules well enough to keep playing.
 
-This is why life's evolution is such a persistent and universal process. Evolution has been the driver of countless species over billions of years, because there's no other way to know what's out there in the universe but to send beings out to find out.
+This is why life's evolution is such a persistent and universal process. Evolution has been the driver of countless species over billions of years, because evolution is the only process that produces variants in enough abundance to test what works in any given environment.
 
 Like many individual Squares venturing out to settle the world.
 
@@ -770,11 +770,11 @@ Our deep acceptance of the rules of the game is the foundation for the mastery w
 
 The more knowledge the better. Unlike nearly everything else in the universe, we knowingly grow, learn, love. We are self-aware that we need shelter, food, water, and procreation to stay alive.
 
-Therefore, unlike Flatland, our planet is not just a place of existence, but a proving ground where the laws of nature constantly probe, challenge, and select only a few to live on to keep playing the game of survival. Each of us is a unique shape, the goal is to empower us all to rise above the darkness in this relentless, ongoing experiment of survival.
+Therefore, unlike Flatland, our planet is not just a place of existence, but a proving ground where the laws of nature determine which variants persist and which do not. Each of us is a unique shape, tmy goal with this book is to help us all see the gameboard more clearly.
 
-So let's jump up off the screen and see what the game board of our three dimensions looks like.
+So let's jump up off the screen and see what the game board of our three dimensions looks like. In the next chapter, we'll find it's filled with natural laws making a gameboard that emerges through life's encounter with the universe.
 
-- Christmas story tie-in, potentially, "such if the power of getting an unknown piece technology, it can actualize a part of our psyche that would otherwise be left dormant."
+- idea: potential Christmas story tie-in, "such is the power of getting an unknown piece technology, it can actualize a part of our psyche that would otherwise be left dormant."
 
 ## Chapter 3—Game Board: The Emergent Environment
 
@@ -804,7 +804,7 @@ The Moon, though one of many moons in our solar system, becomes significant only
 
 The game board is thus an emergent property. A place where the natural laws of physics, astronomy, chemistry, geology, and biology make a universe all around us. But only when we encounter this universe as a means of survival does our game board emerge.
 
-Proximity is not the test. Instead the natural laws are like a game maker in "The Hunger Games" ever presenting us with obstacles and opportunities as the definition of the rules of the game.
+Proximity is not the test. Instead, the natural laws continually produce obstacles and opportunities — that is what the rules of the game look like in practice.
 
 Recently physicists discovered at least two mass extinction events in Earth's history that were likely caused by supernova explosions. Researchers say these super-powerful blasts--caused by the death of a massive star--may have stripped our planet's atmosphere of its ozone, sparked acid rain and exposed life to harmful ultraviolet radiation from the Sun.
 
@@ -850,11 +850,11 @@ But entropy is always there.
 
 Thus, volcanic explosions and freezing water degrade mountains, wind storms turn rock into sands, sunlight dries up wetlands, and after enough heat is lost in the core, magnetospheres end their shielding, and solar radiation expels gases from the atmosphere. All of this turns the planet still and motionless, like Mars is today. Its core has mostly frozen, its atmosphere is all but gone, and the planet has no more volcanic eruptions because there is almost no heat left to build up the energy for it.
 
-Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot. Even so, entropy is always acting on it. Thus, billions of years from now, the heat will run out, the magnetosphere will die, and the natural forces via wind, rust, erosion, radiation will make Earth again like Mars.
+Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot. But, billions of years from now, the heat will run out, the magnetosphere will die, and the natural forces via wind, rust, erosion, radiation will make Earth again like Mars.
 
 And, neither will ever return to their former glory.
 
-That is why entropy is often called the arrow of time. Events in the Universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverse itself, the same way a pot of coffee will never un-mix to its original milk, bean, and sugar parts.
+That is why entropy is often associated with the the arrow of time. Events in the Universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverse itself, the same way a pot of coffee will never un-mix to its original milk, bean, and sugar parts.
 
 All this means there is no going back. So, not only is every place in the Universe unique, but so is every moment.
 
@@ -862,17 +862,11 @@ Albert Einstein called it space time. This term combines the three dimensions of
 
 And this is our game clock.
 
-While the game board can tell you where you are, the game clock tells us when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. 
+While the game board can tell you where you are, the game clock tells us when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. The game board and game clock are forever emergent and relative to where and when you exist in the Universe.
 
-The game board and game clock are forever emergent and relative to where and when you exist in the Universe.
+The laws of nature, then, are more than scientific concepts — they are what keeps the game board itself in motion. Unlike chess pieces who play on the same board over and over, our board is always changing under our feet. Time itself is a constraint: organized structures — volcanoes, beaches, pyramids, tanks of gas — disperse unless energy is invested to maintain them. We can emulate this game clock with sandglasses, timepieces, or any other device. Each tells us how much time we have before order disperses (the process called entropy) if no work is done to maintain it.
 
-We should be realizing the laws of nature are more than scientific concepts—they are the ultimate game maker, because each changes our reality constantly. So, unlike chess pieces who get to play on the same board over and over. Our game board is always changing under our feet.
-
-The game clock reminds us to hurry up and run. Entropy will never stop dispersing organized structures we're standing on, be they volcanoes, beaches, pyramids, or tanks of gas.
-
-We can emulate the game clock with sand clocks, time pieces, or any other device. Each tells us we only have so much time left before entropy catches up to us.
-
-And this reveals the ultimate challenge: in a universe constantly dispersing into disorder, can anything create faster than entropy can destroy? This requires an essence—a player—that the Universe has never imagined before.
+And this reveals the ultimate puzzle: in a universe where order disperses unless work is done to hold it together, what kind of thing can do that work? What kind of thing can harvest energy fast enough to postpone its own dispersal? The answer is something the Universe had not produced before—until it did.
 
 ## Chapter 5—Clay: What Life Is, The Creator of Players
 
@@ -884,7 +878,7 @@ Most people know Albert Einstein's work E = mc². This revolutionary equation sa
 
 Scientifically there is no direct link between entropy and Einstein's equation, but noting mass and energy equivalency helps us understand a crucial point. As entropy does its thing degrading objects into uniformity, energy is never created or destroyed, but just moved around into different states of radiation (light) or matter.
 
-Basically, the natural forces have no delete button. Only a modify button. Incidentally, this principle is the first law of thermodynamics.
+Basically, there is no delete button anywhere in physics—energy isn't destroyed, only modified. Incidentally, this principle is the first law of thermodynamics.
 
 For example, the energy that once fueled Mars hot magma core was not erased, it only radiated into space. As heat dissipated away it came to a useless state; it was no longer concentrated and organized enough to do anything. Useful energy is a physical quantity that represents the capacity to do work or cause change in a physical system, like Earth's still hot magma core is doing right now.
 
@@ -892,9 +886,9 @@ Useful energy is what entropy slowly drains away from any organized system, from
 
 Enter the modeling clay, while still playing in your hands, you're starting to realize something.
 
-There have been countless different forms of life, but every single one has this in common; living organisms unite matter via metabolism. These are a set of chemical processes that occur within a living organism to maintain life. It involves breaking down nutrients to release energy and using that energy to build, repair, and discard cellular structures. Metabolism's constant growth is how life fights off entropy's degradation.
+There have been countless different forms of life, but every single one has this in common; living organisms unite matter via metabolism. These are a set of chemical processes that occur within a living organism to maintain life. It involves breaking down nutrients to release energy and using that energy to build, repair, and discard cellular structures. Metabolism is how life locally postpones entropy: it imports useful energy faster than disorder accumulates.
 
-And most importantly, we pass on life's baton to the next generation, and thereby organize more matter as time goes on. Life turns the same elements available throughout the Universe into pockets of anti-entropy. And that's how we defeat entropy's increasing degradation over time and stay on the game board.
+And most importantly, we pass on life's baton to the next generation, and thereby organize more matter as time goes on. Life turns the same elements available throughout the Universe into pockets of locally postponed entropy—organized matter maintained by constant energy throughput. And that's how life locally postpones entropy long enough to pass the torch forward on the game board.
 
 If life can keep harnessing enough energy to stay alive.
 
@@ -902,7 +896,7 @@ And since every location and moment in time is unique, that means life must cust
 
 Hence the modeling clay in your hands.
 
-This clay lets life mold itself to its place on the game board, meaning its environment. Entropy attacks the clay like everything else, individual lifeforms get tired, weathered, and worn, but by birthing new clay, life stays malleable enough to find the new ways to harness available energy. Thereby life continues to grow as time goes forward.
+This clay lets life mold itself to its place on the game board, meaning its environment. Entropy harms the clay like everything else, individual lifeforms get tired, weathered, and worn, but by birthing new clay, life stays malleable enough to find the new ways to harness available energy. Thereby life continues to grow as time goes forward.
 
 Of course life is not clay. There's something far more elegant at work.
 
@@ -928,7 +922,7 @@ Converting toxic gases into oxygen fundamentally altered the Earth's atmosphere.
 
 This process of growth kept going. Life got ever more complicated. Soon individual cells started to merge into multi-cell organisms. Then each cell inside these lifeforms specialized to perform unique functions. Multi-cellular organisms had cells specialized in an evermore complex organization. Skin cells protected from the elements, muscle cells allowed locomotion, nerve cells enabled intra-organism communication.
 
-As lifeforms kept adding cell specialization, they became more complex and developed what some call anti-fragile—resisting entropy's destructive forces by growing new cells specialized to overcome new challenges.
+As lifeforms kept adding cell specialization, they became more complex and developed what some call anti-fragile—postponing entropy's effects by growing new cells specialized to overcome new challenges.
 
 The Ediacaran Period (635-541 million years ago) marked the emergence of the first complex, soft-bodied organisms. Life was no longer like simple bacteria, but becoming more like animals, featuring basic body plans and the ability to interact with their environment with things like cells that could detect light, the precursor to our modern eyes. These creatures, like the disc-shaped Dickinsonia, represented huge jumps in multicellular life and body complexity.
 
@@ -938,25 +932,23 @@ What came next was called the Cambrian Explosion, where many new creatures emerg
 
 With an oxygen atmosphere fueling metabolic processes like never before, life could truly get creative with its modeling clay. Life could venture out and find every single place on the game board with energy to harvest regular atoms into biological mass.
 
-Life now had to answer who should stay in the game. The Game of Life needed a score board for its players.
+With so many players now on the board, the question of who keeps playing—and who doesn't—needed a mechanism. The Game of Life would need a scoreboard.
 
-- integrate life turns regular mass to biomass, to increase the field of play, and players.
+<!-- - integrate life turns regular mass to biomass, to increase the field of play, and players. so, life can never use water, but only make-use of, or make-waste, and therefore expand its range or see it dwindle. input the concept of equilibrium. This virus is an example. It succeeded in finding a host, replicating itself, and so will be in the future. While you may complain, that hot chicken soup you're about to have was once a lifeform, and you're using it to stay alive and keep your genes around to hopefully pass your genes into the future. Hopefully that poultry had kids, or close cousins, before it died for you. (implement in later chapter in ecosystem expansion, technomass, or the transition from biology to technology) -->
 
 ## Chapter 6—Scoreboard: What Evolution Is, The Editor of Players
-
-<!-- remember Jumanji, ie, that shared problems creates the best of friends, regardless of personal identities. and that is what evolution is editing for, to find the lifeforms capable of being a functioning friend's group/ecosystem -->
 
 You've got the Game of Life at your feet. The pieces look different to you now. The rule book, game board, sand glass, and modeling clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
 
 You want to play it. Are you ready? Let's press the start button!
 
-Not so fast. Playing isn't winning. Before your venture onto your game board, let's learn what puts creatures on the score board.
+Not so fast. Playing isn't winning. Before you venture onto your game board, let's learn what puts creatures on the score board.
 
 Just now you cough. It's so small it almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring now because there's a scratchy pain in your throat.
 
 You know right away. Excitement kept you up too late. With so little sleep your immune system couldn't keep infection at bay. You're sick.
 
-Viruses are tiny, but no different than any other lifeform; they are still bits of clay playing the game. Their strategy is simple; forgo reproductive parts and instead self-replicate by invading another creature and hijacking its cells. It's a winning idea. Animals, plants, even bacteria attracted viruses soon after their games started.
+Viruses are tiny, but not much different than any other lifeform; they are still bits of clay playing the game. Their strategy is simpler than most; forgo reproductive parts and instead self-replicate by invading another creature and hijacking its cells. It's a winning idea. Animals, plants, even bacteria attracted viruses soon after their games started.
 
 Viruses are so simple they need only a few thousand genes. Humans have three billion for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
 
@@ -964,7 +956,7 @@ Why?
 
 Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. From eye color to gill size, genes are the chemical blueprints that determine every creature's genetic traits, what scientist call genotype.
 
-But, the score board doesn't give points for genes simply existing. Why would life reward the now? According to the unchangeable arrow of time, the unique, unpredictable, and dangerous future is where life must focus.
+Existing in the present isn't enough. The arrow of time means only the genes that make it into the future continue playing. That's why the scoreboard counts kids — they're how today's genes reach tomorrow.
 
 That's why the score board counts kids, or how many of todays' genes can get themselves into the future. Usually this means direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs, human extended families) or eusociality (ant colonies, bee hives). 
 
@@ -976,21 +968,21 @@ Meaning, kids not only repopulate life, but also develop new abilities too.
 
 This is pivotal. We know every time and place in the universe is unique, now we know is every single lifeform too. The Game of Life is about matching the unique requirements of the environment with the unique abilities of a lifeform.
 
-But life cannot do the matching. It loves all its manifestations too much and so uses a coach called evolution. Using natural selection, evolution picks the genes best adapted to play the game by, you guessed it, giving points for each new kid.
+Lifeforms cannot do the matching themselves; they are already locked into their genotypes. What does the matching is evolution. Through natural selection, the genes best adapted to play the game persist—measured by how many offspring carry them forward.
 
-And that's how the life's players get chosen.
+You can think of it as a coach picking players for his roster by assigning points to each offspring. In effect, that's how the life's players get chosen.
 
-This strategy works very well against entropy. Not only has life evolved from single-cell organism to populate the planet. It's suffered five mass-extinction at the hands of entropy, and repopulated the planet each time.
+This strategy works very well against entropy. Not only has life evolved from single-cell organism to populate the planet. It's suffered five mass extinctions and repopulated the planet each time. Notably, no extinct species has ever come back — what persists is life itself, through whatever lineages the next era's gameboard happens to favor.
 
 Here's why valuing procreation keeps winning the Game of Life.
 
 When encountering the realities of game board and game clock, prioritizing offspring is the best way for life to value energy efficiency. The more kids an organism has, means the more efficiently it harvests energy compared to others. And uses the slight variations of lifeform to evolve new species as needed. 
 
-For example, brown bears are nearly identical to polar bears. They can even interbred. By giving points to offspring, evolution slowly turned brown bears living near the very cold Arctic with lighter coats into polar bears. After enough points (kids), speciation happens, meaning a new bear species is made, one with a white coat, bigger paws, and a taste for seals.
+For example, brown bears are nearly identical to polar bears. They can even interbred. By giving points to offspring, evolution slowly turned brown bears living near the very cold Arctic with lighter coats into polar bears. After enough points (kids), speciation happens, meaning a new bear species is made, one with a white coat, bigger paws, and a taste for seals. And the differences aren't only physical—speciation also shows up in behavior, like breeding in time with the brief Arctic spring or knowing which seal-breathing holes to wait beside.
 
-And, with two large bears species playing the game, if the game board gets hotter or colder, life can respond either way.
+And, with two large bear species playing the game, if the game board gets hotter or colder, life can respond either way.
 
-But life does not want new, or any species, to succeed at any cost. Polar bears eating every seal would not be good for it, or anyone else. Remember life loves all its genes equally and thus wants as many genes having as many kids as possible. That's why evolution selects not selfish star players, but team players who work together to harvest energy more efficiently.
+But life does not want new, or any species, to succeed at any cost. Polar bears eating every seal would not be good for it, or anyone else. That would be like a lifeform using up the torches energy for itself. Rather, lifeforms can only make use of water, nutrients, warmth, long enough to procreate. That's why evolution selects not selfish star players, but team players who work together to harvest energy more efficiently.
 
 This cooperation happens inside ecosystems, which is a community of plants and animals living in the same area. Ecosystems include climatic conditions, elevation, water levels, and other environmental factors. BBC Planet Earth episodes on tropical rain forests or expansive grasslands showcase Earth's many ecosystems quite well. 
 
@@ -998,54 +990,35 @@ There's only so much energy, usually sunlight but sometimes volcanic heat too, a
 
 It starts with producers (plants, plankton) who convert energy to biomass. Grazers (deer, bats) who feed on the producers and often spread or fertilize its seed. Predators (lions, bears) who prevent grazers from overgrazing. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time. This system of checks and balances rewards reciprocation while keeping overpopulation in check.
 
-All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must reciprocate, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. No species of an ecosystem can't do this, and therefore can't win, alone.
+All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must reciprocate, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. No species of an ecosystem can do this alone, and therefore can't win, alone.
 
 That's why they're on the same team!
 
-Imagine that, your virus and you are teammates. Evolution knows if this virus proves you are to frail to fight it off, you are perhaps too frail to have or support kids too. The virus reciprocates to the ecosystem by ending the game of one lifeform, so the rest get more energy of the carrying capacity to play the game.
+Television shows tends to show ecosystems as constant fighting for survival; biologists see them as species working in tandem, each one's specialization keeping the others viable.
+
+Here's an interesting example using the Jumanji movies. In the stories, strangers are pulled into a magical board game and forced to work together to escape. Each one has a different specialized skill—strength, speed, map-reading, weapons. The shared problem creates a team—the different skills mean no one escapes alone. Ecosystems work the same way. A polar bear and a seal have almost nothing in common as organisms, but the same arctic carrying capacity makes their fates inseparable, and each contributes a different specialization to the system. Selection edits not for similarity, but for the ability to share problems—and share specializations — with whoever else happens to be in the same niche.
+
+Imagine that, your virus and you are teammates. In evolutionary terms, a body that can't fight off this virus is also a body unlikely to support healthy offspring. The virus reciprocates to the ecosystem by ending the game of one lifeform, so the rest get more energy of the carrying capacity to play the game.
 
 In return for not catching every seal, the polar bears get seals who can hunt, and bring more of the energy of the producers to the kids of the polar bears.
 
-Life must overcome all the forces of nature to sustain its existence. The last lesson of this amazing gift is understanding it's called the Game of Life, not the Game of You. You best play it by reciprocating with your teammates. Outsiders are not bad per se, but they interrupt this system and often, like the chestnut tree, ash tree, orange tree, and many other species are the victim of.
+Life must overcome all the forces of nature to sustain its existence. The last lesson of this amazing gift is understanding it's called the Game of Life, not the Game of You. You best play it by reciprocating with your teammates. Outsiders are not bad per se, but they interrupt this system—as the chestnut tree, ash tree, orange tree, and many other species have learned the hard way.
 
 Of course individual creatures do not know this. They are bits of clay already hardened. They are inside the game and cannot stand above it. So, individual creatures fight for survival. Bison bulls fighting to lead a herd, tigers chasing down a deer, venus fly traps capturing a wasp makes for great television.
 
 But it's not the Game of Life, just a minor part of it.
 
-The game is about scoring points by having offspring who stand a good chance of having even more offspring. Kids are literally the future and its why the Game of Life is the perfect Christmas or birthday present.
+The game is about scoring points by having offspring who stand a good chance of having even more offspring. Kids are literally the future and it's why the Game of Life is the perfect Christmas or birthday present.
 
 Now that you know how the rule book, game board, sand clock, modeling clay and scoreboard work together, let's play the game!
 
 Not this game though, but the sequel that's similar in so many ways. Let's win the Game of Technological Life, what we can also call techvolution.
 
-----
-
-- equilibrium
-- no lifeform has ever come back.
-- natural selection is life's answer to the natural laws. 
-- see a ecosystem not as animals fighting for survival, but as biologists do, species working in tandem
-- that's what makes species, not just the aerodynamics of birds, but the instinct to breed right in time for spring, etc..
-- Kids are the future, and its why you got the Game of Life is the perfect Christmas or birthday present.
-- Because life wants genes that can survive in the unique time and place tomorrow brings.
-- This virus is an example. It succeeded in finding a host, replicating itself, and so will be in the future. While you may complain, that hot chicken soup you're about to have was once a lifeform, and you're using it to stay alive and keep your genes around to hopefully pass your genes into the future. Hopefully that poultry had kids, or close cousins, before it died for you.
-- So, despite being so very different, you and the virus are on the score board together. Why? Because you are on the same functioning team, or as biologist says, ecosystem. If that's hard to imagine, just realize you were chosen by the same coach.
-
---
-
-But evolution is not searching for star players, ones so good they consume playing time by eradicating others. Even your virus getting you sick does not want to truly harm you, that would be like us burning our farms down.
-
-Life cannot fight itself and win the game. Entropy is its only enemy, for life and therefore all its forms. So, you and the virus are on the same team!
-
-
-Flowers and bees, squirrels and oak trees. So many species work together to harvest available energy and thereby replant, repopulate a new ecosystem each year. All the while, procreation is the scoreboard, and it makes new species as needed as the arrow of time moves forward. 
-
-Meaning the best way for a genotype to get more children to grow in such a way to harvest energy in a way no creature is yet. This is called the phenotype of a organism and includes everything from a bush growing tall like a tree, or a bird leaning where better fishing grounds are. Ecosystems allow customized creatures to work on a intricate timetable of cooperation.
-
 ## Chapter 7—What Does the Game of Life Mean
 
 Before we press start on the Game of Technological Life, there's something to say about the Game of Life.
 
-The game is a relatively accurate way to describe life's time on Earth, but not perfect. Specialists could highlight problems with the metaphor. For starters, when accessed in detail, entropy is much more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity (near black holes, traveling near light speed), so are not truly "universal laws". However, these extremes are rarely a factor for us, and entropy's details don't change its overwhelming tendency to decompose matter. So it's fair to say the booklet of natural laws is all but absolute in our experiences. 
+The game is a relatively accurate way to describe life's time on Earth, but not perfect. Specialists could highlight problems with the metaphor. For starters, when accessed in detail, entropy is much more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity (for example black holes, traveling near light speed), so are not truly "universal laws". However, these extremes are rarely a factor for us, and entropy's details don't change its overwhelming tendency to decompose matter. So it's fair to say the booklet of natural laws is all but absolute in our experiences. 
 
 However, we should go into more detail about evolution's selection methods.
 
@@ -1057,7 +1030,7 @@ Epigenetics is another way to introduce new players, but with an important diffe
 
 Epigenetics is one of the many phenotype characteristics we learned before, these are the observable physical, biochemical, and behavioral characteristics of an organism that result from the interaction between its genotype and the environment. Two acorns growing, one in sunshine, the other in a forest shade, will grow to be two different looking trees, even if having the same genes.
 
-However, life experiences never change genes. The Weismann Barrier and the Central dogma of molecular biology both show acquired knowledge and tribulations never communicate to future generations beyond slight variations in epigenetic inheritance (although some neo-Lamarckian biologists question aspects of these tenants, an example why our definition of natural laws should be open to questions).
+However, life experiences never change genes; only gene expressions. The Weismann Barrier and the Central dogma of molecular biology both show acquired knowledge and tribulations never communicate to future generations beyond slight variations in epigenetic inheritance (although some neo-Lamarckian biologists question aspects of these tenants, an example why our definition of natural laws should be open to questions).
 
 So, from the other selection methods, to epigenetics and other phenotype developments, there are many other ways to introduce new genes and variations. However, each and every player must still harvest enough resources to procreate. That's why our "coach" uses natural selection, because it is by far the dominant way evolution validates its players/clay/genes.
 
@@ -1079,25 +1052,25 @@ Biological and technological development crossover so well because they have com
 
 They each need to invent structural engineering (skeletons, framing) to combat gravitational forces, aerodynamics (birds, planes) and hydrodynamics (fish, ships) to move efficiency through air and water, and thermodynamics to keep warm, or cool, in various environments (fur, insulation). We even track biology and technology developments using very similar trees charts. These graphical representations show the evolutionary relationships among various species based upon similarities and differences in their genetic or physical characteristics.
 
-Using the Game of Life metaphor makes it easier to understand why biology and technology crossover so much. They have the same booklet of natural laws, game board, sand clock, and therefore must survive the same attacks from gravity, radiation, mechanical stress, energy loss, evaporation, and other forms of entropy.
+Using the Game of Life metaphor makes it easier to understand why biology and technology crossover so much. They have the same booklet of natural laws, game board, sand clock, and therefore must survive the same pressures from gravity, radiation, mechanical stress, energy loss, evaporation, and other forms of dispersing matter, be it a landscape, biology, or technology.
 
 We know how biology responds to these challenges, and when was the last time you, or anyone, grew a winter coat of hair to combat Minnesota winters. Do parents ever tell a kid to increase skull bone strength before climbing a mountain. Does anyone create more fat to store water before their long trip.
 
 Of course not.
 
-We see evolution in the natural world but not in our own lives. When watching a struggling polar bear today, we have no problem citing its evolutionary pressure caused by its changing environment. We know the point of contact between the entropy's attacks and biology is a set of genes that a trying to win natural selection's approval. The point of contact between entropy and us is almost always a tool, yet we do not think evolution pressures us as well.
+We see evolution in the natural world but not in our own lives. When watching a struggling polar bear today, we have no problem citing its evolutionary pressure caused by its changing environment. We know the point of contact between entropy and biology is a set of genes—variants that either harvest enough energy to make it into the next generation, or don't. The point of contact between entropy and us is almost always a tool, yet we do not think evolution pressures us as well.
 
 Even with all these indications that we're using technology to survive the Game of Life, few people label themselves as their tool. National, ethnic, gender, job title, education, ideology, religion, racial, sports teams, comic books, all have far more space in our personal identities then the tools we use to stay alive.
 
-That's why this book wants you to embrace being a technological being. Not because it's an interesting idea, but because it make us realize we are playing the Game of Life, and technology is our first line of defense against entropy's endless attacks. 
+That's why this book wants you to embrace being a technological being. Not because it's an interesting idea, but because it make us realize we are playing the Game of Life, and technology is our primary means of postponing entropy—the everyday work of staying organized against dispersal which we need to stay alive long enough to pass on the torch.
 
-We realize this truth in the natural world, so should be able to make the leap and understand the truth of our existence by realizing we are simply inside technological version of the Game of Life. Then we can start to knowingly play it and therefore win.
+We realize this truth in the natural world, so should be able to make the leap and understand the truth of our existence by realizing we are simply inside technological version of the Game of Life. Then we can start to knowingly play it, persist our lineages, and therefore win.
 
 The booklet of rules, game board of environments, sandglass of time, bits of clay, and a scoreboard are all there. As is the circle of producers, grazers, predators, decomposers, and testers in our own ecosystems too. This is happening all around us.
 
 So why don't we see it?
 
-Because our coach is using an unnatural selection method. Picking the team in such a way often clouds our view. Here is a quick story to explain.
+Because our coach is unconscious of what it's selecting for. Picking the team without realizing you're picking often clouds the view. Here is a quick story to explain.
 
 There's this crab, Heikegani, that's native to Japan. It's rather small with long legs. It would be another unknown crab except it has an interesting feature. It's shell looks like a human face. In particular, an angry samurai.
 
@@ -1123,13 +1096,13 @@ These visions only make sense from our own vantage point. Meaning while playing 
 
 So, the Heikegani crabs showcases something very important for our winning the game. While all the other selection mechanisms are in effect and helping us develop new tools, we replaced nature's coach with ourselves and used artificial selection to pick our team.
 
-Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." As the Heikegani crab story highlights we often artificially play the game. This book could well be called "Techvolution: On the Origin Of a Technological Species, by Upgrading Our Error Prone Artificial Selection with the Super Powers of Natural Selection".
+The deeper point is the fishermen were making selection decisions without realizing they were the selectors, and without examining what they should have been selecting for. As any medical doctor or forestry manager knows, a self-aware selector picks on the real pressures the environment imposes—which, over time, is what natural selection does in any case. Self-aware artificial selection isn't a departure from natural selection. It's how tool-using species find their way back to it; all to "rack up more wins" in the Game of Life.
 
-And so, to win the Game of Technological Life, we do not need to invent anything new. We already recognize biological evolution, watch and feel for its players, and use and copy its achievements. We also already invent and wield many amazing tools to harvest resources and protect ourselves from entropy's perils.
+Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." As the Heikegani crab story highlights we often artificially play the game. This book is about making our selections more responsive to the real problems of our gameboard—the actual pressures our environment imposes, rather than the noise our brains too easily think up.
+
+And so, to win the Game of Technological Life, we do not need to invent anything new. We already recognize biological evolution, watch and feel for its players, and use and copy its achievements. We also already invent and wield many amazing tools to harvest resources, protect ourselves, and form new creations.
 
 We already play the game!
-
- - the game means to increase to increase creations, to keep entropy at bay. The universe started organized, we fight back with creation.
 
 To earn a much better score, we only need to get out of our heads. 
 
