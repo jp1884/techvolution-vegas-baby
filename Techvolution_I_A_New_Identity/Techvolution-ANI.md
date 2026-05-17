@@ -1389,8 +1389,6 @@ Light comes. Light goes. Light comes. Light goes. Light comes. Water recedes. Wa
 
 Water drains. Green turns brown. Plant dies. Dryness, dust, blown into the wind.
 
-Life withdraws.
-
 The seed in the crevice. Water pools in shadow. The seed absorbs. Roots emerge, pushing into the narrow gap. There is sand. Roots push deeper. There is water here—trapped water, sealed from light, sealed from evaporation.
 
 Stem extends upward. There is no light. Stem continues. There is light. Leaves unfurl. Light becomes glucose. Carbon pulls inward. Oxygen pushes outward.
@@ -1425,7 +1423,7 @@ The last stem grows tall, thin, slow. It reaches higher than the others. Leaves 
 
 Flowers burst. Pollen in wind. Seeds form. Seeds fall.
 
-Soil deepens. Life spreads.
+Soil deepens. Sois spreads. More life.
 
 Light changes. It dims. Not gradually. This dimming persists. Days pass. Light does not return.
 
@@ -1437,7 +1435,7 @@ Seeds fall. None crack. There is no light.
 
 Stems weaken. Plants collapse.
 
-Fungi feed on decay. Dead leaves accumulate. Dead stems fall. Dead roots rot in soil. The fungi consume this biomaterial, breaking it down, returning elements to earth. They do not need light. Life persists.
+Fungi feed on decay. Dead leaves accumulate. Dead stems fall. Dead roots rot in soil. The fungi consume this biomaterial, breaking it down, returning elements to earth. They do not need light.
 
 One stem grows. Some light is here. Leaves unfurl.
 
@@ -1445,7 +1443,7 @@ Leaves are red. Light becomes glucose. More leaves grow. Stem rises.
 
 Roots send nutrients upward. Leaves send glucose downward.
 
-Other variations emerge. Some survive. Some do not. Life adapts to new conditions.
+Other variations emerge. Some survive. Some do not. Life grows.
 
 Ash settles into soil. Sunlight returns.
 
@@ -1465,7 +1463,7 @@ Eggs hatch. Larvae move up, down, left, right. Plant is soft. Plant is edible.
 
 Larvae eat. Larvae grow.
 
-Larvae picked up. Jaws close. Crunch. Larvae fall. Larvae in water. Jaws close. Crunch.
+Larvae grabbed. Larvae lifted. Jaws close. Crunch. Larvae fall. Larvae in water. Jaws close. Crunch.
 
 Larvae eat more. Larvae grow. Wings form. Light is above. Insects fly toward light.
 
@@ -1473,9 +1471,9 @@ Many insects fly toward light. No scent. Up, down, left, right. Up, down, left, 
 
 Many insects turn toward scent. Scent drifts. Sweetness. Flowers are here. Insects land. Nectar is here. Insects drink. Energy flows. Insects fly. More flowers. More nectar. Energy high.
 
-Many insects fly towards light. Sticky thread touch wings. Insects struggles. Thread wraps. Movement stops. Spider comes.
+Many insects fly towards light. Sticky thread touch wings. Insects struggle. Thread wraps. Movement stops. Spider comes.
 
-Many insects lands on water. Tongues reach. Jaws jump. Crunch.
+Many insects land on water. Tongues reach. Jaws jump. Crunch.
 
 Many insects gather. Many insects mate. Eggs attach beneath leaves.
 
@@ -1489,29 +1487,38 @@ Most insects fly toward light. Some turn toward scent. Some have red eyes. Insec
 
 More broods. More generations. We find flowers. Nectar is abundant. Energy high. We survive.
 
-Brood hatches. More have red eyes.
+Brood hatches. Larvae eat. Larvae grow. More have red eyes. We are many. We are the brood.
 
 More generations. All have red eyes.
 
 Many flowers. Air is thick. Oxygen is rich.
 
-Wings beat faster. Flight goes stronger. Flowers grow taller. Cannot reach nectar. Many insects fly. Energy low
+Wings beat faster. Flight grows stronger. Flowers grow taller. Cannot reach nectar. Many insects fly. Energy low.
 
 Brood hatches. Many eggs do not crack.
 
-Some red eye insects are longer. Some red eye insects are bigger.
+Some red-eye insects are longer. Some red-eye insects are bigger.
 
 Longer reach flowers. More can drink. Red eyes see flowers.
 
-Bigger can capture. Bigger red eyes see movement. We are faster. We catch insects. We eat.
+Brood hatches. More eggs crack.
 
-Two brood hatch. More eggs crack.
+Some red-eye insects are longer. Some big-eye insects are bigger.
 
-More red eye pollinators. More flowers. More predators. 
+Bigger shadows come. We dart. We escape. Some grabbed. Some captured. Crunch. 
+
+We fly. We feed. We mate.
+
+Shadows follow. Shadows chase. We dart.
 
 Two broods hatch. More eggs crack.
 
-- plague? return to normal?
+More red-eye pollinators. More flowers. More big shadows follow. 
+
+Two broods hatch. More eggs crack.
+
+<!-- - plague? return to normal? i don't think so. speciation is the point here.-->
+<!-- disease comes, broods don't hatch, some variants resist, lineage continues. No villains, no enemies. -->
 
 #### Dinosaurs
 
@@ -1539,11 +1546,15 @@ Shrubs are shorter. They grow wider. Armored grazers eat low plants. Shells are 
 
 Some are smaller, some are quicker. More of their eggs hatch.
 
-Young predators, grazers, big or tall, look in area, look for spots, look for food, need to make eggs hatch. Good spots near water. Good spots near nests. All spots taken.
+Young predators, grazers, big or tall, look in area, look for spots, look for food, make nest. Good spots near water. Good spots near trees. All spots taken.
 
-Swimmers in water, flyers in air, walkers on land. Many eggs. Must make my eggs hatch.
+Swimmers in water, flyers in air, walkers on land. Many eggs. Must make nest.
 
 Every plant has eater. Every eater has hunter. Every hunter has territory. Every spot is taken.
+
+Open land. No water. No trees. Make nest. Eggs in nest. Pull toward nest. Rain hard. Cannot leave. Rain cold. Cannot leave. Predator turns eggs. Predator listens. Furred creatures close. Predator snaps. Stay near. Stay near. Eggs warm.
+
+Eggs hatch.
 
 Seasons pass. Forests change. It gets colder. It gets warmer. More eggs hatch.
 
@@ -1563,65 +1574,98 @@ Crocodiles in the water, birds in the sky, mice in the crevices, insects everywh
 
 More of their eggs hatch. More of their babies born.
 
-Three seeds fall.
+Birds in the sky. Many birds. Many wings.
 
+Birds make nests. Birds lay eggs. Many eggs hatch.
+
+Bird flies. Neighbor close. Pull away. Neighbor far. Pull close. Neighbor faster. Match speed. Neighbor slower. Match speed.
+
+Bird flies. Three neighbors. Always three. Watch the three. Match the three.
+
+One bird flies alone. Pulls away. No neighbors. Bird flies far. Shadow below. Bird darts. No flock to hide in. Crunch.
+
+One bird flies slow. Falls behind. No neighbors. Shadow finds. Crunch.
+
+Birds that match. Birds that stay close. Eggs hatch.
+
+The flock rises. Flock sees many trees. Many crocdiels. Many mammals. 
+
+The flock moves south.
+
+<!-- 
 - forests become valleys, valleys become forests. deserts turn green.
-- should note interactions/teamwork/collaborations more.
+- should note interactions/teamwork/collaborations more. 
+-->
 
 #### Chameleon
 
-<!-- flies on plants, chameleon, entropy attacks, counter is... -->
-<!-- radiation, changes color, too hot, changes color, cold, etc. camo... -->
-<!-- should be about co-evolution -->
-<!-- should be out competed by something else. loses niche. -->
-
 Area is dark. Little light breaks open. Chameleon is cold. 
 
-Light is growing. Area has light. Dark makes it warm. Chameleon is dark. Chameleon needs light. The branch is thin. Chameleon moves. Same speed. Its feet grip, tail curls. Chameleon feels light.
+Light is growing. Area has light. Dark makes it warm. Chameleon is dark. Chameleon moves toward light. The branch is thin. Chameleon moves. Same speed. Its feet grip, tail curls. Chameleon feels light.
 
 Chameleon waits. One eye watches the trunk. One eye watches the sky.
 
 Chameleon is warm. Area is dark green. Chameleon turns dark green.
 
-Chameleon moves. Same speed. Through brown branches and green leaves. It looks up, looks down. No movement. Movement. Many flies. One lands high left. Move body both eyes see fly. Distance looks good. Chameleon opens its mouth.
+Chameleon moves. Same speed. Through brown branches and green leaves. It looks up, looks down. No movement. Movement. Many flies. One lands high left. Move body, both eyes see fly. Distance looks good. Chameleon opens its mouth.
 
 Tongue moves slowly. Slowly unfurls. The tongue shoots. The fly lifts. The tongue returns empty.
 
-Chameleon stays. Maybe another fly will come. No fly. Chameleon moves.
+Chameleon stays. No fly. Chameleon moves.
 
 Another fly. Lower branch. Too far. Chameleon moves. Slow. Slow. Both eyes forward. Distance looks good. Tongue moves slowly. The fly cleans its legs. Tongue shoots.
 
 The fly lifts.
 
+Tongue is empty. Tongue is empty again. Flies were closer once.
+
 Big movement on tree. Chameleon stays. Stays. Chameleon in light. Chameleon is hot. Big movement on tree. Chameleon is very hot. 
 
-Big movement moves. Chameleon turns soft green. Chameleon is hungry. Hunger makes it slow.
+Big movement moves. Chameleon turns soft green. Chameleon hungry. Chameleon stops. Chameleon waits.
 
 More flies.
 
 Fly lands right. Chameleon moves. Closer. The fly stays. Both eyes forward. Wait. Tongue moves slowly. Wait. Tongue shoots.
 
-Fly caught. Tongue comes in. It swallows fly. Less light. Chameleon turns red. Darkness is coming. It is time to hide. Chameleon moves to tree. It grips branch. It sleeps.
+Tongue comes in. Tongue is empty.
 
-Night comes. Cold comes. Dark comes.
+More flies.
+
+Big shadow from above. Less light. Chameleon turns red. Less light. Chameleon moves to tree.
+
+Night comes. Cold comes. Dark here.
 
 Dawn. Chameleon is dark red. It warms. Area is green. It turns soft green. It moves.
 
+Big shadow from below.
+
+Big shadow from above.
+
+Less flies.
+
+Chameleon slower. Chameleon hungry. Chameleon waits.
+
+No flies.
+
 #### Geese Family
 
-<!-- flies on plants, chameleon in trees, entropy attacks, counter is... -->
+Fly. Glide. Save energy. Flock is ahead. I call out. Lead bird tires. Pull forward. I fly first.
 
-Fly. Glide. Save energy. Flock is ahead. I call out. Flock tired. My turn to fly first. Flap wings faster. I am first.
+Flap wings faster. I am first.
+
+Flock is moving faster.
 
 Look down. Look for open area. Nothing. Anyone see open area? No one sees open area. Keep flying. Air is warm. Glide. Glide. Save energy. See something.
 
-Open area. Water is near. Grass is near. Trees here. Good. I tell mate, we go down.
+There are big creatures. There are small trees. There is deep water.
+
+Open area. Water is near. Grass is near. Tall trees here. Good. I honk. My mate honks. We go down.
 
 Flock goes down. Mate goes down. We honk. We bow. Necks touch. We are mates.
 
-We must find. Where to nest. We must find safe nest. Land. Look, look. Cavity is deep. No predators reach. Something in tree. It safe animal.
+We must find. Where to nest. We must find safe nest. Land. Look, look. Cavity is deep. No predators reach. Something in tree. Slow lizard. It is safe animal.
 
-Get twig. Get grass. Put here. Put there. Get feather. Get twig. Put there.... Wind. Wind rips away grass. Wind tips down feather. Guard. My mate looks. My mate guards. Get twig. Get Twig. Get feather. Put here. Put there.
+Get twig. Get grass. Put here. Put there. Get feather. Get twig. Put there.... Wind. Wind rips away grass. Wind tips down feather. Guard. My mate looks. My mate guards. Get twig. Get twig. Get feather. Put here. Put there.
 
 I lay eggs. 8 eggs. I see them. Our eggs. My mate brings food. Flies are here. Bite at flies. I sit. Warmth. I sit. He hunts. He sits. I hunt. Rain. We sit. Sun. We sit. Must turn eggs. We wait.
 
@@ -1635,9 +1679,11 @@ Night. We sit. Quiet.
 
 Light comes.
 
-Movement. Up high. Fast.
+Movement. Up high. Fast. Heron. No. Raven.
 
-Hawk.
+Not Raven.
+
+Hawk!
 
 Rise. Panic! Spread wings. Hiss. Mate flies away. Distract. Distract. Hawk turns. Follows him. Not safe. We must leave.
 
@@ -1651,7 +1697,7 @@ Water explodes.
 
 Mouth rises. Danger in water. Panic. Panic.
 
-I scream. My mate is not here. I rise, wings spread, hissing. Where is danger.
+I scream. My mate is not here. Mate gone. I rise, wings spread, hissing. Where is danger.
 
 3 kids in water. 3 kids near water on ground. Waiting.
 
@@ -1659,35 +1705,39 @@ I scream. My mate is not here. I rise, wings spread, hissing. Where is danger.
 
 Reeds. Reeds. Go to reeds. Hide. Quiet. Follow. Follow. Follow. 6 kids in reeds. My kids. Safe. Wait. Wait. Quiet. Wait. Safe.
 
-Walk to grass. Grass. Eat. Watch. Watch. Eat. Fast. Look up, look left. Look right. Always look. Listen. Listen. Always listen.
+Walk to grass. Grass. Eat snail. Watch. Watch. Eat bug. No snail no bug. Eat grass. Look up, look left. Look right. Always look. Listen. Listen. Always listen.
 
-6 kids speak back. Done. Away from water. No open water. Go to reeds. Family goes to reeds. Waits.
+6 kids speak back. Full. Away from water. No open water. Go to reeds. Family goes to reeds. Waits.
 
 Cold will come. Honk is heard. My flock close. I say danger in deep water.
 
 #### Mammoths
 
-I am walking on grass. I am walking on path. My family follows.
+I am walking on grass. I am walking on path. I am Matriarch. My family follows.
 
 I see some trees. That is good. Trees have bees. That is good. Trees with bees start the path. Smell of flowers. That is good. Means on time. Easy walking. That is good. Means on path. Path will take us there. I learned from my matriarch. Following lessons means life.
 
 Family is behind. Are we all still together?
 
-Yes, yes, yes, yes, yes...All ten say yes.
+Yes, yes, yes, yes, yes Matriarch...All say yes.
 
 I saw look for danger! Listen for danger!
 
 All say listening. That is good.
 
-It is so hot! says Sarah. Can we go back?
+It is so hot! says Oldest Daughter. Can we go back?
 
 No. We need minerals. We can stop. Here is water. Use your trunk. Take up water. Spray on back. Just like that. This will help.
 
-Sarah is playing with wood stick. I pick up wood log. Kids come to play. They can not pick up sticks. I teach them. We play together with sticks.
+Oldest Daughter is playing with wood stick. I pick up wood log. Kids come to play. They can not pick up sticks. I teach them. We play together with sticks. The family learns. My legs are tight. 
 
-I smell something different. I walk. I see bones. Old bones. These are new bones. I lift my trunk. I smell. The smell is different. I turn forward. We must go. The family depends. But my legs are tight. 
+I smell something different. I walk. I see bones. Old bones. These are new bones. I lift my trunk. I smell. The smell is different.
 
-We must go. Look for danger! Listen for danger!
+Male With Big Tusks!
+
+Yes Matriarch.
+
+We must go. Look for danger! Listen for danger! Smell for danger!
 
 Grass will be there. Clay will be there. Others will be there. The family walks behind me. Follow my path. 
 
@@ -1695,17 +1745,17 @@ We keep walking.
 
 Bees are many. That is different. Flower scent is stronger. That is different. Path is muddy. That is different. Keep on path. Trees are thick. That is different. Path will take us there. We must go. 
 
-Air is so hot! says Tim.
+Air is so hot! says Male With Big Tusks.
 
 We can stop. Rub on trees. Fur falls off. This will help. Do like me. Fur falls off. This will help. Trees means no sun. That is good. Trees mean no wind. That is bad. We must go.
 
 We walk the path. The trees are many.
 
-STOP! Look for danger. Listen for danger.
+Stop! Look for danger. Listen for danger.
 
 All look. All listen.
 
-I see no wolves. I see nothing, says Sarah.
+I see no wolves. I see nothing, says Oldest Daughter.
 
 Wolves we see. We cannot see tigers. They are ghost. No huddle. It is hot. We must go. This path is good. We are close. We keep moving.
 
@@ -1713,7 +1763,7 @@ We keep moving. We keep moving. We are here!
 
 Everyone is happy! I will stand here. Keep watching. Have fun! Stay close! I am matriarch.
 
-Sarah and kids are running. The area looks different. Water is round, deep, clear. Are there predators inside. I walk. I look. I see see predators. No danger in water. You can drink Sarah! Sarah is drinking. Rest are drinking.
+Oldest Daughter and kids are running. The area looks different. Water is round, deep, clear. Are there predators inside. I walk. I look. I see no predators. No danger in water. You can drink Oldest Daughter! Oldest Daughter is drinking. Rest are drinking.
 
 There are deer. There are many deer.
 
@@ -1721,13 +1771,13 @@ Many flowers come early. This is not right. Where is grass. Matriarch taught me 
 
 Deer eating trees. Other animals eating trees and grass. What are other animals. We need more grass. Where is grass.
 
-Martha is done drinking. Martha watch!
+Male With Big Tusks is drinking. Youngest Sister is done drinking. Youngest Sister watch!
 
-I watch Carol!
+I watch Matriarch!
 
 I will drink. I see myself. Here I am. This water is cool. I will dig for clay. 
 
-Sarah! Come here!
+Oldest Daughter! Come here!
 
 We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it. Water is here. Deep water. Cool water. Clay is here. We need both. Plants are different now. Less minerals. Journey is harder now. Always hot. But we must come.
 
@@ -1735,23 +1785,19 @@ We must get here for clay. Remember, bees follow flowers. Flowers follow bees. D
 
 Deer bring new trees. Deer bring new flowers. Deer bring different.
 
-I see ghost! I see tiger! says Martha.
+I see ghost! I see tiger! says Youngest Sister.
 
-Together! Together! Family come together. Kids in center! Tusks outside. We safe! Watch Sarah. Ghost roar. We stay. We always stay together. Watch kids. Watch Sarah. I see no tiger!
+Together! Together! Family come together. Kids in center! Tusks outside. We safe! Watch Oldest Daughter. Ghost roar. We stay. We always stay together. Watch kids. Watch Oldest Daughter. I see no tiger!
 
-I see sticks. Long sticks. Not tree sticks. Sticks move. Sticks point at us. What is sticks? It holds sticks. Sticks are not ghost. Sticks are not wolf. We must roar. Roar loud! Sticks are closer. Sticks are close...STICKS HIT SARAH!
+Male With Big Tusks forward!
+
+I see sticks. Long sticks. Not tree sticks. Sticks move. Sticks point at us. What is sticks? It holds sticks. Sticks are not ghost. Sticks are not wolf. We must roar. Roar loud! Sticks are closer. Sticks are close...sticks hit Oldest Daughter!
 
 Panic! Panic!
 
 Three mammoths fall.
 
 #### Giving Tree
-
-<!-- 
-- watch and observe the tree more
-- noticably/tragically do not plant
-- fight for control of tree 
--->
 
 Light is high. The foraging party left at dawn. I stay with Mother, learning.
 
@@ -1761,7 +1807,7 @@ I try. The stone scraper is sharp. Bits of flesh come off.
 
 "Good, Kai. Now here. This part still has fat."
 
-I scrape where she points. My arms hurt but I keep working.
+I scrape where she points. My arms hurt but I keep working. Whimpering. A puppy wants the scrapes. I throw some fat to it.
 
 "Where do they go?" I ask.
 
@@ -1775,7 +1821,7 @@ I scrape where she points. My arms hurt but I keep working.
 
 "If you live, you will go. We need these hides to live."
 
-I want to ask more, but Mother is already moving to the woodpile. I continue using the flint scrapper to clean this hide. I try not to look at the pile of 14 others waiting for me.
+I want to ask more, but Mother is already moving to the woodpile. I continue using the flint scraper to clean this hide. I throw the puppy some fat. I try not to look at the pile of 14 others waiting for me.
 
 She is gathering wood. I already know how to stack them. "Small sticks first," she taught. "They catch fast. Then bigger wood. Fire needs both." I still can't start a fire very fast.
 
@@ -1787,11 +1833,15 @@ I keep working. 13 hides to go. 2 hides per day if I'm fast.
 
 Then—voices!
 
-"They're back!" I run to see.
+"They're back!" I run to see. Puppy follows me.
 
-Eight people emerge from the trees, baskets heavy with food. Children rush to greet them. I see Sarah, Martha, Tall One, River Woman. All safe.
+Eight people emerge from the trees, baskets heavy with food. Children rush to greet them. I see Sarah, Uncle, River Woman. 10 warriors. Four dogs. All safe.
 
 Sarah sets down her basket and spear. "So much fruit! Giving Tree was full this season."
+
+"How was the battle?"
+
+"They fled at our might!" Sarah yells.
 
 I stare at the baskets. Red fruit. Mushrooms. Roots. More than I have ever seen.
 
@@ -1803,21 +1853,25 @@ The fruit is so ripe, juice runs down my hands. Someone brought fish. We have ho
 
 While we cook, I hear more.
 
-"The deer were close," Tall One says. "But we had enough to carry. We couldn't hunt."
+"The deer were eating the figs. They were close," Uncle says. "But we had enough to carry already."
 
 "A child wanted to break a branch from Giving Tree," River Woman says. "We will talk about it over dinner."
 
-Everyone does their job. The foraging group cleans their clothes and tools. We cook the food. Children prepare the eating area.
+Everyone does their job. The foraging group cleans their clothes and tools. We cook the food. We discard the fruit husks, skins, seeds. Cannot eat.
+
+We feed the dogs the edible remains.
+
+Children prepare the eating area.
 
 Soon we sit. Then the stories finally start.
 
 I can't help it. I blurt out: "Where is Giving Tree?"
 
-River Woman looks at me. "Far. Two or three days walk. But you will see it when you are older."
+River Woman looks at me. "Far. Four days walk. But you will see it when you are older."
 
 "Why can't we break branches?"
 
-"Giving Tree gives every season. We take fruit only. Never hurt the tree. It is sacred."
+"Giving Tree gives many figs every season. We take fruit only. Never hurt the tree. It is sacred."
 
 Sacred means special. Protected.
 
@@ -1835,7 +1889,7 @@ Elder looks at us. "When does Hunter-Star rise?"
 
 "Good. When do Deer-Stars run low?"
 
-"When fruit is coming."
+"When fig fruit is coming."
 
 "Remember these stories. Teach your children. Stories keep us alive."
 
@@ -1843,7 +1897,15 @@ I look at the stars. They have names. They teach us things.
 
 Soon the Hunter-Star rose, the stories told us cold season was near. Our hides kept us warm. Our dried food kept us fed.
 
-When the Hunter-Star fell, warm returned. I was strong enough to go with the foraging party. I saw Giving Tree. It has no fruit. It's leaves are few. So we keep walking. We gather roots. We gather reeds. Many baskets are still empty. We keep walking to someplace new.
+Seasons passed. Members passed. I survived. I grew strong.
+
+When the Hunter-Star fell, warm returned. Deer-Star came. I went with the foraging party. 12 warriors, five dogs. We walk. Walk.
+
+I saw Giving Tree. No one there. No one waiting.
+
+Its leaves are few. Giving Tree is dead. No figs. No feeding deer. 
+
+We keep walking. We gather roots. We gather reeds. Many baskets are still empty. Hunger. Thirst. 11 warriors remain. Two dogs left. We keep walking. Walk to many places new. 
 
 And we saw something new.
 
@@ -1851,9 +1913,11 @@ We saw people. Different people.
 
 They were not gathering. They were not hunting.
 
-Many men with spears stand in lines. They are surrounding other giving trees. Other men are pick fruit from the trees.
+Many men with spears stand in lines. They are surrounding other giving trees. Smaller giving trees. 
 
-Then a mother walks on soil. Her child is behind her with water. Another woman has a stick with something that looks like flint dragging on the land. In her basket are seeds. But she is not eating the seeds or grinding the seeds. She holds the seeds in her hands above the soil.
+Other men are picking fruit from the trees.
+
+Then a mother walks on soil. Her child is behind dropping water in soil. Another woman has a stick with something that looks like flint dragging on the land. In her basket are seeds. But she is not eating the seeds. Not grinding the seeds. She holds the seeds in her hands above the soil.
 
 I hug my empty basket.
 
@@ -2003,7 +2067,7 @@ The apprentice drove stakes along my field's edge, measuring carefully. I watche
 
 "I can't read the mathematics. Can you help?" I asked the young apprentice when the official was out of earshot.
 
-"The philosphers tell us the basis of all knowledge is saying 'I don't know'. Because you are hoenst, I can help you."
+"The philosopherstell us the basis of all knowledge is saying 'I don't know'. Because you are honest, I can help you."
 
 The apprentice knelt and drew in the dirt. He sketched my field's irregular shape, then drew lines inside it, breaking it into triangles and rectangles.
 
@@ -2045,7 +2109,7 @@ In the great courtyard, two students bend over their paper sheets, each drawing 
 
 The youngest student sets down his reed pen. "Teacher, the *acequia*—how did the engineers know the gradient? They made water flow precisely through rock and earth."
 
-Averroes holds a proud smile.
+Averroes smiles, proud.
 
 "Geometry," Averroes says to his young pupil.
 
@@ -2053,7 +2117,7 @@ Averroes holds a proud smile.
 
 "But those are Greeks and Persians," another student says. "We're not them."
 
-"Mathematics needs no translation." Averroes taps the paper. "What the Egyptians discovered, the Greeks advanced, Al-Khwarizmi perfected, what we study today in Arabic, Christians will read tomorrow in Latin. Water flows at the same rate here as it does across the empires of history and today. If you can do the math."
+"Mathematics needs no translation." Averroes taps the paper. "What the Egyptians discovered, the Greeks advanced, Al-Khwarizmi perfected. What we study today in Arabic, Christians will read tomorrow in Latin. Water flows at the same rate here as it does across the empires of history and today. If you can do the math."
 
 The youngest student hesitates. "Teacher, if mathematics is so perfect... why do the navigators constantly update their star tables? My father tells me that every few decades, new corrections to Al-Battani's planetary positions are needed. But he never tells me why."
 
@@ -2061,7 +2125,9 @@ Averroes says, "Because our instruments improve. Al-Battani gave us better table
 
 "But Teacher, you say the celestial spheres must move in perfect circles because that is their nature—Aristotle proved this. Yet Ptolemy's *equant* makes them speed up and slow down as they orbit. How can both be true?"
 
-Silence.
+Averroes is quiet for a long moment.
+
+"This is a question I have spent years considering," he says.
 
 Averroes picks up a scroll. It's a map of the Mediterranean and beyond.
 
@@ -2103,11 +2169,11 @@ The woodcutter shrugs.
 
 The woodcutter says nothing.
 
-"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, showed off his beautiful legions, then left, burning his wonder behind him. The bridge was theater. A demonstration. The Germans were dumbfounded by our technology. They used log boats to cross! So confused and scared they left Rome alone for centuries; because of a few bridges!"
+"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, marched his beautiful legions, then left, burning his wonder behind him. The bridge was theater. A demonstration. The Germans were dumbfounded by our technology. They used log boats to cross. So confused and scared they left Rome alone for centuries; because of a few bridges."
 
 "So we were cruel?"
 
-"No! When they raided us they'd die. Instead the traded and we had peace. We were *effective*. The desert became peace—Roman peace, created and maintained by Roman swords and virtue."
+"Effective. When they raided us they'd die. Instead they traded and we had peace. We were *effective*. The desert became peace—Roman peace, created and maintained by Roman swords and virtue."
 
 The woodcutter shifts. "Some people say—"
 
@@ -2121,7 +2187,7 @@ The woodcutter nods slowly. Then: "Weren't you a diplomat and exiled...and tortu
 
 Niccolo deflates. His shoulders drop.
 
-"That was different circumstances."
+"Those were different circumstances."
 
 "My cousin said six drops of the strappado."
 
@@ -2133,11 +2199,11 @@ Niccolo deflates. His shoulders drop.
 
 The woodcutter shrugs. "Well. All these new books being printed—who can read it all? My cousin says there are more books in Florence now than anyone could finish in a lifetime. What's the point of all those new words anyway? Let the stars be the stars and the princes be the princes."
 
-Niccolo stares at the sky, before adding.
+Niccolo stares at the sky for a moment.
 
 "Being at the bottom makes it easier to see what's going on at the top. I've served princes. I've been tortured by them. I've studied their rise and fall. I read the ancients. They speak to me. The view from down here is clarifying."
 
-The woodcutter is back at the big tree. "I understand what you mean. Roman peace and bridges and all...Can I have the big tree?"
+The woodcutter is back at the big tree. "I understand what you mean. Roman peace and bridges and all...Can I have the big tree? It's not sacred, is it?"
 
 "Yes. Take that too."
 
@@ -2211,7 +2277,7 @@ The merchant writes: Chimney air = hottest flame. Why?
 
 "And in Paris, they're testing different airs in combustion. Everyone's trying to understand what makes fire burn hotter."
 
-"If we master this, the French can't beat us." The blacksmith stands. "I can build better containers. Seal them properly. We need pumps to move air from one place to another. We need—"
+"If we master this." The blacksmith stands. "I can build better containers. Seal them properly. We need pumps to move air from one place to another. We need—"
 
 "We need to write this down first," the merchant interrupts. "Record what we saw. So we can repeat it. So others can too."
 
@@ -2687,7 +2753,7 @@ Maria watches the empty alley, then returns to the paper.
 
 "One dollar twenty," I say. "That's good money."
 
-"Sarah's cousin went there. She said good pay but dangerous. Heat burns lungs. Men lose fingers to the machines."
+"Oldest Daughter's cousin went there. She said good pay but dangerous. Heat burns lungs. Men lose fingers to the machines."
 
 "What else do you see?"
 
@@ -3039,7 +3105,7 @@ To get us to that point of realization we had to understand what evolution is.
 
 We described it as a Game of Life. 
 
-The laws of physics, chemistry, and geology reign supreme. They interact to create an emergent game board offering continually changing opportunities and challenges. Entropy wears down our environment, spoils our food, and puts timers on every creatures experience. Life continually inspires modifications of existing forms, while evolution determines which offspring survive to represent life's future.
+The laws of physics, chemistry, and geology reign supreme. They interact to create an emergent game board offering continually changing opportunities and challenges. Entropy wears down our environment, spoils our food, and puts timers on every creatures experience. Life creates modifications of existing forms, while natural selection determines which offspring survive to represent life's future.
 
 Humans play the Game of Life. Most of time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
 
