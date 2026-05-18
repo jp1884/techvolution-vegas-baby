@@ -2239,19 +2239,21 @@ Three people enter.
 
 Three candles burn on the table.
 
-A boy carries a crate of several glass jars and sets them down on the table, along with small metal boxes with holes punched in the lids.
+Outside, a January wind rattles the shutters. The merchant has stoked the fireplace high; the workshop is warm, the window cold to the touch.
 
-"Thanks, William," says the merchant as he places the candles inside the boxes and attaches a thin tube directing air from a different source to each.
+A boy carries a crate of several glass jars and sets them down on the table, along with small metal boxes with holes punched in the lids and a slit cut into one side of each.
 
-"Same candles. Different air sources. This one gets air from outside—through this tube from the window. This one draws from inside the chimney, above the fire. This one just gets regular room air."
+"Thanks, William," says the merchant as he places the candles inside the boxes and attaches a thin tube to each, directing air from a different source. "The slit is for the rod. Wax on the far end. We watch through the holes."
 
-The blacksmith nods. "So we're testing that there's something *in* the air that makes fire burn."
+"Same candles. Different air sources. This one gets air from outside—through this tube from the window. This one draws from inside the chimney, above the fire. This one just gets the room air, here by the hearth."
 
-"That's the hypothesis."
+The blacksmith nods. "So we're testing the supposition that there's something *in* the air that makes fire burn."
+
+"That's the guess."
 
 "But we don't know what's in air?"
 
-"No. That's why we're testing different kinds of air."
+"No. That's why we're testing different kinds."
 
 "And we measure which burns hottest?"
 
@@ -2261,41 +2263,45 @@ The blacksmith looks at the boy, his apprentice. "Pay attention. How do we measu
 
 "We put an iron rod in each flame and see which heats faster. Tip resting on wax at the far end. Whichever wax melts first—hottest flame."
 
-The merchant, blacksmith, and apprentice each light a candle. The merchant places two fingers on his wrist and begins counting his pulse aloud.
+The merchant, blacksmith, and apprentice each light a candle. The merchant places two fingers on his wrist and begins counting his pulse aloud, slow and even, the way he has practiced.
 
 "The chimney one is dying. Dying. Out at thirty-three beats." The blacksmith writes it down.
 
 "Relight it," says the merchant.
 
-"The inside is dripping wax from the rod! Forty-six beats." says the merchant. "William, what are you doing?"
+"The room-air rod is dripping wax. Forty-six beats." The merchant glances over. "William, what are you doing?"
 
-"Outside candle burning. Wax melting now—sixty-five beats."
+"Window candle burning. Wax melting now—sixty-five beats."
 
 "Something in chimney air *kills* fire. We already knew that," the blacksmith declares.
 
-"Or something *isn't* in it. But look—the inside candle burned hotter than the outside one. Both have good air. Why the difference?"
+"Or something *isn't* in it. But look—the room candle burned hotter than the window one. Both have fresh air. Why the difference?"
 
-The merchant stops, pen above paper. "Fire eats something out of the air. That's one finding. But there's another. The inside candle was hotter than the window candle. The air itself—warm air burns hotter than cold."
+The merchant stops, pen above paper. "Fire eats something out of the air. That's one finding. But there's another. The room air was warmer—the hearth has been burning since dawn. The window air comes in cold off the street. Warm air feeds the flame better than cold."
 
-"Two things at once."
+"Two findings at once."
 
-"Two things. We have to test them apart."
+"Two. We have to test them apart. Next time we warm the window air in a pan before it reaches the candle. See if the difference vanishes."
 
-"William, get more candles."
+"And my pulse runs faster when I'm excited," the merchant adds, frowning. "We should check it against the sand glass before we trust the count."
 
-Test 5: Chimney air—candle dies at thirty-three beats. Room air melts wax at forty-six. Window air at sixty-five.
-Hypothesis: fire consumes something from air. Spent air will not support flame.
-Second hypothesis: cold air weakens the flame even when fresh.
+"William, fetch the glass. And more candles."
+
+*Test 5, January. Chimney air—candle dies at thirty-three beats. Room air (warm) melts wax at forty-six. Window air (cold) at sixty-five. Pulse to be checked against glass.*
+*Supposition: fire consumes something from air. Spent air will not support flame.*
+*Second supposition: cold air weakens the flame even when fresh. To separate the two, warm the window air before it reaches the candle.*
 
 "Maybe it's us?" says the apprentice.
 
-"Us?" replies the merchant.
+"Us?"
 
-"I was looking at the candle this time. I was close. I breathed on the light. It got dimmer, like the chimney."
+"I was looking close. I breathed on the flame. It got dimmer—like the chimney one."
 
-"We'll test it!" exclaims the merchant as the blacksmith smiles proudly at his apprentice.
+The blacksmith smiles at his apprentice. The merchant sets down his pen.
 
-"This is our little Bacon. Add breath to the list. Air from a room with many people breathing. Air over still water. Air from a cellar. Whether a mouse in a sealed jar dies the way the candle did—and whether its air then kills a flame."
+"Lord Bacon would have liked that. The boy notices what we missed."
+
+"Add breath to the list," the merchant says. "Air from a room with many people breathing. Air over still water. Air from a cellar. Whether a mouse in a sealed jar dies the way the candle did—and whether its air then kills a flame."
 
 "We don't know any of it," says William.
 
@@ -2303,7 +2309,7 @@ Second hypothesis: cold air weakens the flame even when fresh.
 
 The merchant picks up the book lying nearby. *Novum Organum*.
 
-"Francis Bacon says we command nature by obeying her. We're learning to observe and obey."
+"He wrote that we command nature by obeying her. That the work is too great for one man, or one lifetime. That we lay the foundation, and others build."
 
 "By testing," says the blacksmith.
 
@@ -2311,11 +2317,11 @@ The merchant picks up the book lying nearby. *Novum Organum*.
 
 "Why?" asks the apprentice.
 
-"So other people can redo our work. If we can't reproduce our results, we haven't proven anything. This will take a long time. Maybe you will finish our work when we are long past. Are you ready?"
+"So others can redo our work. If we cannot reproduce our results, we have proved nothing. This will take a long time, William. Longer than us. Maybe you will finish what we begin, and your apprentice after you. Are you ready?"
 
 The apprentice smiles.
 
-They relight the chimney candle one more time, each putting the iron rods into the flames.
+They relight the chimney candle one more time, each placing the iron rods into the flames.
 
 Three notebooks fill with observations.
 
@@ -2327,7 +2333,7 @@ This shouldn't be necessary.
 
 Father never had to march armed men into Parliament. Grandfather kept order without soldiers at his back. But the Five Members—Pym, Hampden, Haselrig, Holles, Strode—these Puritans have gone too far. Refused lawful authority. Stirred rebellion. I only want the traitors.
 
-The chamber is too quiet. No one is acknowledging their king.
+I look around the Commons chamber. It is too quiet. No one is acknowledging their king.
 
 I approach the Speaker. "Mr. Speaker, do you see any of these persons in the House?"
 
@@ -2343,7 +2349,7 @@ The Five members seats are empty. The Five traitors are gone. Someone warned the
 
 I don't like this pressure. It is unjust. I am in control.
 
-"All my birds have flown."
+"I see all my birds have flown."
 
 I should speak more. Explain why I'm here, what they've forced me to do. Command them to produce the traitors.
 
@@ -2351,11 +2357,11 @@ My throat tightens. The words catch.
 
 No. A king doesn't explain himself to subjects.
 
-The moment I justify myself to them I've already surrendered what they're trying to take. Kings cannot be put on trial by subjects. I am the Sovereign. Parliament already exists. The commoners already have their say. But they want to control the money. They want to control the army.
+The moment I justify myself to them I've already surrendered what they're trying to take. Kings cannot be put on trial by subjects. I am the Sovereign. Parliament already exists. The commoners already have their say. But they want to control the money. They want to control the army, the bridges, the builders, the land.
 
-I am their king. Chosen by God, and given the duties of God. The people have their duty to follow. The realm survived Vikings, Picts, Scots. It will survive these rebels too. 
+These artisans, craftsman, merchants, indepedant farmers; these  middling sort want to control the realm.
 
-I will leave with dignity. The loyal soldiers make way.
+I will leave with dignity. The loyal soldiers make way for me.
 
 "Privilege! House of Commons members are protected by our Privilege!"
 
@@ -2363,31 +2369,45 @@ Disregard. Keep walking. With dignity.
 
 Outside, walking back to my coach, crowds watch from doorways and corners. Not cheering. Not bowing. Watching.
 
-My hand rests on my sword hilt. Not a threat. Just steadying myself.
+The coach has stopped far away. The driver is on the ground, the rear wheel jammed against a curb. He pulls at it. A wheel is broken.
 
-This is temporary.
+My retinue gathers around me. The men lift the coach, work on the wheel. The crowd's attention shifts to me. I see them through the bodies of my men.
 
-I did nothing wrong.
+They watch me. I must do something.
 
-Everything I did, my ancestors did. Everything I defended, they defended. The same laws. The same rights. The same duties of commoners, lords and kings, to keep the realm whole.
+I walk to the coach. The men are changing the broken wheel. The driver looks up at me. I see the parts in his hands — the spoke, the hub, the iron rim. I do not know which goes where. I have ridden in a thousand coaches. I have never touched one this way.
 
-If I'm guilty, so were the realm's past kings.
+The people are watching. Parliament is watching.
+
+But a king does not need to know.
+
+"Broken things happen. Keep going. Well done. Well done."
+
+The wheel is changed. The crowd cheers. The driver smiles at the crowd. Some smile back at him. 
+
+I enter the coach.
+
+I see the faces of my people. They know everything I did, my ancestors did. Everything I defended, my ancestors defended. If I'm guilty, so is the realm.
 
 Impossible.
 
 My ancestors turned wood forts into stone castles. Stone castles into grand palaces. Protection made new roads, new farms, new canals safe from Scots and French and rebellious lords. Kingly protection kept the realm from tearing itself apart. 
 
-Kings make the realm prosperous.
+I am their king. Chosen by God, and given the duties of God. It's in the Scriptures, laws, customs. The people have their duty to follow. The realm survived Vikings, Picts, Scots. It will survive these rebels too. 
 
-But my ancestors protected the realm through blood and war. And now Puritans, Catholics, and other disloyal faiths want to usurp the crown?
+And now these Puritans, Presbyterians, and other disloyal faiths want to usurp God's Crown?
 
 No. No, I will summon the loyal army. I will do what a king must do and protect his people. My ancestors used sword and spear. I must use gun and cannon. 
 
-I am their king.
+"Call the Banners, Rally at Nottingham."
 
-Inside Whitehall Palace now, I look up at the painting of my father. England's best artists took years to paint him ascending into Heaven, gold and silver lines showcasing the justice of our Divine Right of Kings.
+I hear my advisors speak about the long waging wars on the Continent, Gustavus Adolphus of Sweden has created a new model for armies to great effect. Promotion on merit, constant pay.
 
-I depart. But I will return father. I will do our house justice. I will save England. I will save the people.
+I know the loyalty and faith of the soldiers and their nobles will secure the Realm.
+
+I look up at the painting of my father. He ascends into Heaven, gold and silver lines showcasing the justice of our Divine Right of Kings.
+
+I will return father. I will do our house justice. I will save the Realm. I will save the people.
 
 I am their king.
 
@@ -2465,12 +2485,8 @@ That is how we learn what is true.
 
 ---
 
-**From Johann Georg Palitzsch, Dresden**  
-**Royal Society of London, London**
-**Royal Academy of Sciences, Paris**
-**Royal Prussian Academy of Sciences, Berlin**
-**Royal Danish Academy of Sciences and Letters, Copenhagen**
-**30 December 1758**
+**From Johann Georg Palitzsch, Dresden** 
+**To Royal Prussian Academy of Sciences, Berlin**
 
 The comet has returned, exactly as Halley predicted.
 
@@ -2483,6 +2499,19 @@ Newton's law of universal gravitation governs the heavens. One law for planets, 
 Halley did not live to see this night. But his mathematics did.
 
 —Palitzsch
+
+---
+
+**From Royal Prussian Academy of Sciences, Berlin**
+
+**To Royal Society of London, London**
+**To Royal Academy of Sciences, Paris**
+**To Royal Prussian Academy of Sciences, Berlin**
+**To Royal Danish Academy of Sciences and Letters, Copenhagen**
+**29 January 1759**
+
+Newton is proven. Halley was right. See Palitzsch's confirmation below.
+One law for the heavens.
 
 #### Universal Laws for Life
 
@@ -2512,7 +2541,7 @@ Mr. Webb frowns. "Worlds?"
 
 Mr. Webb picks up the tooth. "But the Flood would have mixed them."
 
-"These specimens are separated. Layers. Each layer has its own creatures, and nothing else."
+"These specimens were separated by feet of rock between them. Each layer holds its own creatures, and nothing else.."
 
 Mr. Hartley studies the vertebrae. "So these died long before humans."
 
@@ -2531,6 +2560,8 @@ Mr. Hartley points to the coiled shell. "And nothing like this lives now?"
 Mr. Webb exhales slowly. "So God's creation... can end?"
 
 Mary doesn't answer.
+
+"Perhaps, we have yet to find them in all the unexplored areas."
 
 Mr. Hartley says, "How much, Miss Anning?"
 
@@ -2558,7 +2589,7 @@ A gull lands near the pool. Strikes down. Cracks the shell with its beak. Then c
 
 Mr. Hartley watches. "We classify that gull by its beak structure, its feet, its wings. Observable traits. We don't need to hear its call or understand its thoughts."
 
-"We observe what works. What works tells us about the environment. Form follows function. Here and now, and wherever else we look. Observable truths in nature and man." Mary says.
+"We observe what works. What works tells us about the environment. Form reveals purpose. Here and now, and wherever else we look. Observable truths in nature and man." Mary says.
 
 Mr. Webb unwraps the ammonite. Holds it up. "This shell—it controlled buoyancy. The opening suggests tentacles. The size suggests a predator."
 
@@ -2566,9 +2597,9 @@ Mr. Webb unwraps the ammonite. Holds it up. "This shell—it controlled buoyancy
 
 Mr. Hartley pauses. "Your work will make much noise at the Geological Society, Miss Anning."
 
-"They don't accept women as members."
+"They don't accept poor or women as members."
 
-"I know. Regardless your work will be know there."
+"I know. Regardless your work will be known there."
 
 Silence.
 
@@ -2580,13 +2611,19 @@ Three people dig.
 
 #### Lessons
 
-The boy is so nice. I ask him to get this shopping list from the store.
+This Maryland summer is so hot. We open the windows. Fill the pitchers. Dust the carpets. 
 
-"I can't read ma'am".
+The house becomes disorganized.
 
-"Can't read?" I say back. Everyone should read. How can you work if you can't read. I'll teach you. We'll do it together."
+I will tidy up. I ask the nice boy to visit the store for me. I write him a shopping list.
 
-I'm teaching him his letters. He sits beside me at the kitchen table, sounding out words like any child would. Eager. Bright. Over days. It feels good to help him learn. He takes to it well.
+"I can't read, ma'am".
+
+"Can't read?" I say back. Everyone should read. How can you work if you can't read? It feels wrong that you cannot. I'll teach you. We'll do it together."
+
+I'm teaching him his letters. He sits beside me at the kitchen table, sounding out words like any child would. Eager. Bright. Over days we stop our chores for a few hours and I teach and he studies. 
+
+It feels good to help him learn. He takes to it well.
 
 Hugh comes in. Watches us. His face darkens.
 
@@ -2602,29 +2639,33 @@ I look up in surprise as the lesson ends. "Why does it end?" I ask.
 
 He sits down. Speaks low, but firm. I did something wrong.
 
-"Learning will spoil him. Make him unfit to be a slave. He'll become dissatisfied, unmanageable. Start thinking he deserves what he can't have. You'll ruin him—and ruin us."
+"Learning will spoil him. Once a slave can read, he is no longer a slave. He has eyes outside the household. He sees what we have and don't share. He thinks. He calculates. He plans. You'll ruin him for us."
 
 I say "But everyone in Ohio learns to read."
 
-"This isn't Ohio. Our property rights aren't cruel, Sophia. They're order. Without them, chaos. Every man taking what he wants. Reading makes slaves dangerous. Because it makes them want to be equal. And they aren't. They do the work. We do the thinking."
+"This isn't Ohio. Our property rights aren't cruel, Sophia. They're order. Without them, chaos. They do the work. We do the thinking."
 
 He touches my shoulder. Gentle.
 
 "I know you mean well. But never do that again. It's wrong. For everyone. Frederick is clever. Proud. He tricked you."
 
-I close the book. I sit at this desk. I'm so stupid. He's right. Hugh knows how the world works. I'm an outsider, naive. Frederick took advantage of me. My slave took advantage of me! 
+I had been tidying up while Hugh talked. Why was I cleaning?
+
+I take a minute to realize it all.
+
+I close the book. I'm so stupid. He's right. Hugh knows how the world works. I'm an outsider, naive. Frederick took advantage of me. My slave took advantage of me! 
 
 I leave the room. I look at him. He was listening to us! He's so tricky. The boy looks at me. He wants help. Never!
 
 I tear the book up. Tear every page into pieces. Never again!
 
-Years pass.
+Years pass. He does the fetching. He does the tidying. I look over to make sure the work gets done.
 
 One day Frederick never comes back. I don't know how he managed to flee North. To read maps. To read schedules. He's tricky.
 
-I hear Frederick gave speeches in The North. We'll send snatchers after him.
+I hear Frederick gave speeches in the North. We'll send snatchers after him.
 
-I see Frederick wrote a book: _Narrative of the Life of Frederick Douglass, an American Slave_. We should get the money.
+I see Frederick wrote: _Narrative of the Life of Frederick Douglass, an American Slave_. Three books in all. They are popular. That is our money.
 
 I hear Frederick is speaking in Britain! I've never been to Europe.
 
@@ -2632,7 +2673,13 @@ The North is invading. Frederick told the world lies about our society. We must 
 
 The war is on.
 
-Our society will not fall.
+We make weapons. Rifles. Grenades. Trains. Observation balloons. We make manuals to use them. We hand them out to our defenders.
+
+"We can't read, ma'am".
+
+<!-- 
+- cordyceps
+ -->
 
 #### Hands On Learning
 
@@ -2644,7 +2691,7 @@ I watch the other doctors come from the autopsy room. Hands still stinking of de
 
 I tell them: wash your hands. Chlorinated lime solution. 
 
-"Shut up Dr. Semmelweis, you fool!"
+"Quiet, Dr. Semmelweis, you fool!"
 
 I show them the numbers. "We were carrying death from the corpses to the mothers."
 
@@ -2658,9 +2705,9 @@ Everyone responds, "How can putting lime on our hands possibly help patients, es
 
 "I can't explain it. Aren't more living and fewer dead reason enough?"
 
-I'm removed from the hospital. I write letters. Beg them. The numbers are clear. 
+I'm removed from the hospital. I write letters. I beg them. The numbers are clear. 
 
-No one listens. No one washes
+No one listens. No one washes.
 
 They commit me to an asylum. Guards beat me yesterday. My hand is bleeding. The wound is green, oozing. I feel weak.
 
@@ -2684,7 +2731,7 @@ Some wounds don't fester. More patients survive.
 
 I publish the results. Some colleagues adopt it. Others resist.
 
-"Too much trouble," they say. "Unproven Dr. Lister."
+"Too much trouble," they say. "Unproven, Dr. Lister."
 
 Several saved. The evidence talks.
 
@@ -2698,7 +2745,7 @@ The president is shot.
 
 I'm the attending physician. I take charge. The bullet is lodged somewhere in his abdomen. I need to find it. I've been a surgeon for thirty years. I know wounds. I will save the president. He is a war hero. A good man.
 
-I insert my finger into the wound. Probe for the bullet. Can't find it. Another doctor tries. Then another. We take turns. "We must find the bullet Dr. Bliss", others agree with me.
+I insert my finger into the wound. Probe for the bullet. Can't find it. Another doctor tries. Then another. We take turns. "We must find the bullet, Dr. Bliss", others agree with me.
 
 The president develops fever.
 
@@ -2732,9 +2779,7 @@ I make the incision. Remove the infected appendix. Irrigate with antiseptic. Sut
 
 The patient wakes. No fever. The wound is dressed. It will heal.
 
-He will live. Millions more will live.
-
-Next patient please nurse.
+Next patient, please nurse.
 
 I will go wash my hands.
 
@@ -2813,7 +2858,7 @@ Socialism is science. Science needs new technologies.
 
 We must keep going.
 
-Computers are new. They are powerful. A national computer network. Connect all economic units—factories, farms, collective enterprises, distribution centers. Real-time data flowing to central processors. Automated resource allocation. Optimal planning. I think up OGAS: National Automated System for Computation and Information Processing.
+Computers are new. They are powerful. A national computer network. Connect all economic units—factories, farms, collective enterprises, distribution centers. Real-time data flowing to central processors. Automated resource allocation. Optimal planning. I conceive OGAS: National Automated System for Computation and Information Processing.
 
 We must keep going.
 
@@ -2839,7 +2884,7 @@ I present again and again. The current system is not optimal. I can't say there 
 
 Why aren't we going.
 
-1970. The 24th Communist Party Congress is coming. OGAS is up for funding. It is formally shelved. "Insufficient funding available for developing cybernetics network." That's the official reason. The real reason: too many unscientific officials see it as a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their positions.
+1970. The 24th Communist Party Congress is coming. OGAS is up for funding. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials see it as a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their positions.
 
 We will return to this soon.
 
@@ -2861,9 +2906,9 @@ Must keep going.
 
 1960. Fact! A human brain can recover lost functions by bypassing a dysfunctional area.
 
-Idea! A completely distributed communication network. No centralization so information can always get through. Like a fishnet—every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node is nearly as robust a network as the theoretical limit. Redundancy is key.
+Idea! A completely distributed communication network. No centralization so information can always get through. Like a fishnet—every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust a network as the theoretical limit. Redundancy is key.
 
-We cannot have dropped calls. We need to make data digital and redundant. Let's break every messages into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. If one messages fails to deliver, resend it. Block messages vastly increase redundancy.
+We cannot have dropped calls. We need to make data digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. If one message fails to deliver, resend it. Block messages vastly increase redundancy.
 
 Must keep going.
 
@@ -2875,7 +2920,7 @@ The Defense Department wants this network for all military branches. On command,
 
 Must keep going.
 
-I try AT&T. They are a monolopy. They control the entire phone network. Just needs some modifications.
+I try AT&T. They are a monopoly. They control the entire phone network. Just needs some modifications.
 
 I present the system. Switching, routing, block messages, redundancy protocols, error correction. Eyes roll. Analog engineer says "Son, this is how a telephone works." Then ninety-four separate speakers describe their phone system. An executive says "Now do you see why block messages won't work?"
 
@@ -2919,7 +2964,7 @@ The trip is a quarter million miles. The crew space is tiny. Yet we smile, follo
 
 Then we enter lunar orbit. The first time ever anyone has been inside the gravity of another celestial object.
 
-The first time evers don't stop there.
+The firsts don't stop there.
 
 The Moon has three different shades. In sunlight, it's quite bright. In Earthshine, it looks like snow outside at nighttime back home. And then there's the part with no Earthshine, no sunshine—you don't see a thing.
 
@@ -2929,7 +2974,7 @@ The sight of pure space brings out wonder. How insignificant we really are. The 
 
 We keep orbiting the Moon. We keep running tests. Someone is going to walk on this place soon. I get back to working but have time to think. Hopefully, we can make it home.
 
-Anders soon says, "Oh my God. Look at that beautiful sight."
+Anders soon says, "Oh my God! Look at that picture over there! Here's the Earth coming up. Wow, is that pretty!"
 
 He's scrambling for the camera. Borman rotates the spacecraft.
 
@@ -3032,7 +3077,10 @@ And grows.
 Three people fall back home.
 
 
+<!--
 - The point of the story is that mythology, philosophy, and science were needed. Each is useful based on the sophiscation of the tool being used and the environment in which its needed.
+- "From now on we live in a world where man has walked on the Moon. It’s not a miracle; we just decided to go."
+-->
 
 #### Food
 
