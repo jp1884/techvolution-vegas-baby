@@ -1989,7 +1989,7 @@ Elder smiles. "If the gods will it."
 
 #### The Limits of Signs
 
-The merchant ship rounds the headland at dawn. I've sailed from Phasis, Sinope, and every port in between. My hold is full of wares—Persian textiles, Scythian gold, carved ivory. Three months of favorable winds. Poseidon has been kind.
+The merchant ship rounds the headland at dawn. I've sailed from Phasis, Sinope, and every port in between. My hold is full of wares—Persian textiles, Scythian gold, carved ivory from far beyond. Three months of favorable winds. Poseidon has been kind.
 
 But as we approach the Rhodes harbor, I see something is wrong.
 
@@ -1997,7 +1997,17 @@ Half the town is gone. Where warehouses stood, there is only rubble. Fishing boa
 
 We anchor offshore. I row in with my first mate.
 
-An old woman sits beside temple ruins, keening.
+We walk the shore together. Rubble, ruins, decay is everywhere.
+
+But we are Greeks. We work. We build.
+
+I see a compatriot and his family. They search the rubble. Sort it into piles. Making use of it. He is happy.
+
+Another Greek can't help but comment on the sight, "We call him Raven. He keeps everything he touches. Now that we have nothing, he will make a bundle."
+
+"Good for him." I reply.
+
+We walk on. An old woman sits beside temple ruins, sobbing.
 
 "What happened?" I ask.
 
@@ -2007,7 +2017,7 @@ I don't correct her. I've seen three earthquakes in twenty years of sailing—Cr
 
 A fisherman approaches, hands bleeding. "Twenty-eight days ago. The ground shook. Then the water pulled back, past the outer rocks. Then the god sent his wave. Tall as three men. Forty homes gone. Seventy-three dead."
 
-I look at the destruction. My cargo is worthless here—no warehouses, no merchants. The trade network is broken.
+I look at the destruction. My cargo is worthless here—no warehouses, no merchants. The trade network is broken. Maybe I will speak with the Raven and barter for something.
 
 "Why was Poseidon angry?"
 
@@ -2041,13 +2051,17 @@ The crowd murmurs, uncertain.
 
 "Build the temple. Honor the gods. I look forward to the festivals." Thales turns toward the hill. "But if anyone wishes to discuss what patterns we might observe, I'll be there."
 
-I return to my ship. I have nothing to trade here now. In Miletus, merchants speak of Thales's ideas—measuring pyramids by shadows, predicting floods by stars.
+I trade with the Raven, an Illyrian named Agapius. A knife, shovels, and cloaks, for gold he's found.
 
-Greeks will rebuild. Trade will return. I will move cargo port to port, and return to help civilization regrow here.
+I shake his hand hard. "Rebuild. We are Greeks."
+
+I show him the twenty wine flasks I leave for the community.
+
+Greeks will sort this rubble. Rebuild. Trade will return. I will move cargo port to port, and return to help civilization regrow here.
 
 I look back at the hill.
 
-Three people walk with the philosopher.
+Three people walk with Thales, the philosopher.
 
 #### Use of Reason
 
@@ -2171,9 +2185,9 @@ The woodcutter says nothing.
 
 "Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, marched his beautiful legions, then left, burning his wonder behind him. The bridge was theater. A demonstration. The Germans were dumbfounded by our technology. They used log boats to cross. So confused and scared they left Rome alone for centuries; because of a few bridges."
 
-"So we were cruel?"
+"My lumber order is for a bridge. Funny, huh? Why were we cruel?"
 
-"Effective. When they raided us they'd die. Instead they traded and we had peace. We were *effective*. The desert became peace—Roman peace, created and maintained by Roman swords and virtue."
+"When they raided us they'd die. Instead they traded and we had peace. We were *effective*. The desert became peace—Roman peace, which created prosperity, maintained by Roman swords and virtue."
 
 The woodcutter shifts. "Some people say—"
 
@@ -2191,19 +2205,23 @@ Niccolo deflates. His shoulders drop.
 
 "My cousin said six drops of the strappado."
 
-"*Four* drops. I was innocent." His voice flattens. "They thought I conspired against the Medici."
+"*Four* drops. I was innocent." His voice flattens. "They thought I conspired against Florence and the Medici."
 
 "But you wrote it all down? Books?"
 
 "I did." A pause. "Only a few read them."
 
+"Your kids? Family is important."
+
+"No, they are not interested. I read and write at night."
+
 The woodcutter shrugs. "Well. All these new books being printed—who can read it all? My cousin says there are more books in Florence now than anyone could finish in a lifetime. What's the point of all those new words anyway? Let the stars be the stars and the princes be the princes."
 
-Niccolo stares at the sky for a moment.
+Niccolo stares at the sky for several long moments.
 
 "Being at the bottom makes it easier to see what's going on at the top. I've served princes. I've been tortured by them. I've studied their rise and fall. I read the ancients. They speak to me. The view from down here is clarifying."
 
-The woodcutter is back at the big tree. "I understand what you mean. Roman peace and bridges and all...Can I have the big tree? It's not sacred, is it?"
+The woodcutter is back at the big tree. "I understand what you mean. Roman peace and bridges and all...Can I have the big tree? It is the bridge in Certaldo. It's not sacred, is it?"
 
 "Yes. Take that too."
 
@@ -2219,11 +2237,15 @@ Three people enter.
 
 #### The Method
 
-Three candles burn on the table. Several glass jars sit nearby, along with small metal boxes with holes punched in the lids.
+Three candles burn on the table.
 
-The merchant points to the candles, each with a thin tube directing air from a different source. "Same candles. Different air sources. This one gets air from outside—through this tube from the window. This one gets air from the fireplace chimney. This one just gets room air."
+A boy carries a crate of several glass jars and sets them down on the table, along with small metal boxes with holes punched in the lids.
 
-The blacksmith nods. "So we're testing that there's something *in* the air that makes fire burn hotter."
+"Thanks, William," says the merchant as he places the candles inside the boxes and attaches a thin tube directing air from a different source to each.
+
+"Same candles. Different air sources. This one gets air from outside—through this tube from the window. This one draws from inside the chimney, above the fire. This one just gets regular room air."
+
+The blacksmith nods. "So we're testing that there's something *in* the air that makes fire burn."
 
 "That's the hypothesis."
 
@@ -2235,75 +2257,65 @@ The blacksmith nods. "So we're testing that there's something *in* the air that 
 
 "And brightest."
 
-The blacksmith looks skeptical. "How do we measure hottest?"
+The blacksmith looks at the boy, his apprentice. "Pay attention. How do we measure hottest?"
 
-"We put an iron rod in each flame and see which heats faster."
+"We put an iron rod in each flame and see which heats faster. Tip resting on wax at the far end. Whichever wax melts first—hottest flame."
 
-They light all three candles simultaneously. The merchant counts aloud. The blacksmith watches the flames.
+The merchant, blacksmith, and apprentice each light a candle. The merchant places two fingers on his wrist and begins counting his pulse aloud.
 
-"The chimney one is brighter. Feel this." The blacksmith holds his hand near the chimney tube. "More air is flowing through. The warm air pulls itself up."
+"The chimney one is dying. Dying. Out at thirty-three beats." The blacksmith writes it down.
 
-"So it's not what's *in* the air—it's how *much* air reaches the flame?"
+"Relight it," says the merchant.
 
-"Maybe both. We see that with bellows."
+"The inside is dripping wax from the rod! Forty-six beats." says the merchant. "William, what are you doing?"
 
-"I'm writing. Keep talking."
+"Outside candle burning. Wax melting now—sixty-five beats."
 
-Test 2: Chimney air: flame brighter.
+"Something in chimney air *kills* fire. We already knew that," the blacksmith declares.
 
-"Is it hotter too?"
+"Or something *isn't* in it. But look—the inside candle burned hotter than the outside one. Both have good air. Why the difference?"
 
-The blacksmith places identical iron rods in each flame, tips touching wax at the other end.
+The merchant stops, pen above paper. "Fire eats something out of the air. That's one finding. But there's another. The inside candle was hotter than the window candle. The air itself—warm air burns hotter than cold."
 
-"Let's see which melts the wax first."
+"Two things at once."
 
-They watch. The chimney-air candle's wax melts first. Then the window-air candle. Then the room-air candle.
+"Two things. We have to test them apart."
 
-"Chimney air makes hotter fire."
+"William, get more candles."
 
-"But why? What's different about chimney air?"
+Test 5: Chimney air—candle dies at thirty-three beats. Room air melts wax at forty-six. Window air at sixty-five.
+Hypothesis: fire consumes something from air. Spent air will not support flame.
+Second hypothesis: cold air weakens the flame even when fresh.
 
-"Maybe it's warmer already?"
+"Maybe it's us?" says the apprentice.
 
-"Or maybe there's something *in* it. Something from the fire below that makes fire burn better."
+"Us?" replies the merchant.
 
-The merchant writes: Chimney air = hottest flame. Why?
+"I was looking at the candle this time. I was close. I breathed on the light. It got dimmer, like the chimney."
 
-"We don't know," the blacksmith says.
+"We'll test it!" exclaims the merchant as the blacksmith smiles proudly at his apprentice.
 
-"Then we test more. What if we move the candles into different places? Air from the forge when I'm working hot iron? From the garden? From a closed room?"
+"This is our little Bacon. Add breath to the list. Air from a room with many people breathing. Air over still water. Air from a cellar. Whether a mouse in a sealed jar dies the way the candle did—and whether its air then kills a flame."
 
-"A blacksmith from London says a team there is trying to separate air into parts. See what it's made of."
-
-"And in Paris, they're testing different airs in combustion. Everyone's trying to understand what makes fire burn hotter."
-
-"If we master this." The blacksmith stands. "I can build better containers. Seal them properly. We need pumps to move air from one place to another. We need—"
-
-"We need to write this down first," the merchant interrupts. "Record what we saw. So we can repeat it. So others can too."
-
-The blacksmith looks at the three candles, still burning at different intensities.
-
-"What else can we test?"
-
-"Does metal type matter? Does flame color tell us temperature? What if we restrict the air flow—make it come through a small hole?"
-
-"We don't know any of it."
+"We don't know any of it," says William.
 
 "But we can find out."
 
-The merchant picks up the book lying nearby. Novum Organum.
+The merchant picks up the book lying nearby. *Novum Organum*.
 
 "Francis Bacon says we command nature by obeying her. We're learning to observe and obey."
 
-"By testing."
+"By testing," says the blacksmith.
 
-"And keeping records."
+"And keeping records," adds the merchant.
 
-"Why?"
+"Why?" asks the apprentice.
 
-"So other people can redo our work. If we can't reproduce our results, we haven't proven anything."
+"So other people can redo our work. If we can't reproduce our results, we haven't proven anything. This will take a long time. Maybe you will finish our work when we are long past. Are you ready?"
 
-They light more candles. Different air sources. Different containers. They watch. They measure.
+The apprentice smiles.
+
+They relight the chimney candle one more time, each putting the iron rods into the flames.
 
 Three notebooks fill with observations.
 
@@ -3050,6 +3062,21 @@ music? one person, to a group, to a choir, to a symphony.... and etc. filling ga
 
 
 #### Raccoon Coyote Crash
+
+##### Opening Quote
+
+
+All crazy traits in the past because there was no wealth in the past. There was no school in the past. But if you look at the predictors today, there is a strong uh there is a strong movement in a systematic direction. a large effect about a standard deviation on the scale of modern variation. And then we can do this trick of looking to see whether there's periods of time when this natural selection has occurred more intensely or less intensely. What we do
+is we drag a 2,000-year window through our data and we repeat our whole analysis not on 18,000 years but just on a short 2,000-year window. And we can measure the strength of selection in each of these 2,000-year windows. And what you see when you look at intelligence is you see that this maxes out in the Bronze Age between 5,000 4,000 3,000 2,000 years ago. And the impact in the last 2,000 years is almost  nothing. **There's no evidence of natural selection at all.** You might think your bias coming into this, my bias perhaps, if there's any signal of natural selection on this trait at all, might be that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years. But there's very strong evidence in between 2,000 and 4,000 years ago where instead of a one standard deviation strength of selection, it's a two standard deviation strength uh sort of averaged over this time period.
+
+The Bronze Age radically altered our DNA 
+Dr. David Reich, geneticist.
+May 10, 2026
+https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
+
+**There's no evidence of natural selection at all.** in biology. not technology.
+
+---
 
 Content goes here.
 
