@@ -2395,9 +2395,11 @@ My ancestors turned wood forts into stone castles. Stone castles into grand pala
 
 I am their king. Chosen by God, and given the duties of God. It's in the Scriptures, laws, customs. The people have their duty to follow. The realm survived Vikings, Picts, Scots. It will survive these rebels too. 
 
-And now these Puritans, Presbyterians, and other disloyal faiths want to usurp God's Crown?
+And now these Puritans, Presbyterians, and other disloyal faiths want to usurp The Church of England's Crown?
 
-No. No, I will summon the loyal army. I will do what a king must do and protect his people. My ancestors used sword and spear. I must use gun and cannon. 
+I enter Whitehall Palace. My loyal dogs come to greet their master.
+
+I will summon the loyal militia. I will do what a king must do and protect his people. My ancestors used sword and spear. I must use gun and cannon. 
 
 "Call the Banners, Rally at Nottingham."
 
@@ -2785,60 +2787,71 @@ I will go wash my hands.
 
 #### Work
 
-<!--  introduce kid, kid being taught why/where they're going -->
-<!-- San Fran fire clean up. fire safety being installed. fire control etc. rebuilding, like a forest would, fire resistance, like lifeforms would evolve... looking for work in this new ecosystem, like lifeforms do in a fruit tree... -->
+The newspaper lies between us on the table. I review the print ads then assess my husband's cut forearm. He caught a nail in timber while cleaning up a demo site. I press carbolic acid cloth hard. He grimaces.
 
-The newspaper lies between us on the table. She reads aloud. I listen.
+"It's supposed to hurt. That's why it works. We'll hold it here for one minute."
 
-"Farmhands wanted. Virginia. Rich soil, mild winters, God's country awaits. Sixty cents a day."
+I distract the pain by pointing at our boy, banging a toy hammer into toy nail and lumber.
+
+A minute is up. I check. The wound is cleaned. I wrap the water boiled bandages around it.
+
+"Return to reading the work ads." my husband says.
+
+"San Francisco needs men," I read. "They had another fire. Rebuilding crews. One dollar fifty a day. Water pipe laying—high-pressure mains for the new fire system. The city of the future rises from the ashes."
 
 I look at the window. Soot covers the glass. It covers the buildings, the laundry on the lines, our hands by evening.
 
-"Back home you could see stars," I say.
+"In San Francisco, the open air, big mountains. Lots of land. It's very nice."
 
-"Back home had no work. Back home had no meat."
+"Back home you could see stars. Smell the trees. Hear the nature." my husband replies.
 
-"If I told my brother everyone eats meat everyday here, he'd never believe me."
+"Back home had no work. If I told my brother everyone eats meat every day here, he'd never believe me."
 
 Outside, something moves in the alley below. A raccoon noses through an overturned crate, paws quick and careful. It finds a crust of bread and vanishes into shadow.
 
-"We're not the only ones looking for more," I say.
+"We're not the only ones looking for more. But we can work for it. I can be a nurse." I say.
 
-Maria watches the empty alley, then returns to the paper.
+I return to the paper.
 
-"Steelworkers wanted. Pittsburgh calls men of strength and ambition! The furnaces of progress need you. One dollar twenty a day. Steady work guaranteed."
+"Steelworkers wanted. Pittsburgh calls men of strength and ambition. The furnaces of progress need you. One dollar twenty a day."
 
-"One dollar twenty," I say. "That's good money."
+"One dollar twenty," I say. "That's less than San Francisco."
 
-"Oldest Daughter's cousin went there. She said good pay but dangerous. Heat burns lungs. Men lose fingers to the machines."
+"My oldest sister went to Pittsburgh. Good pay but dangerous. Heat burns lungs. Men lose fingers to the machines."
 
 "What else do you see?"
 
 "Coal miners, Kentucky. Modern company housing. Fair wages. We fuel American growth."
 
-"Piotr said the company owns everything. The houses, the store. You owe them before you start."
+"The company owns everything. The houses, the store. You owe them before you start."
 
 "Too much like back home."
 
 "Yes."
 
-She turns the page. "Loggers wanted. New Hampshire forests. Strong men earn two dollars a day. Winter work."
+I turn the page. "Loggers wanted. New Hampshire forests. Strong men earn two dollars a day. Winter work."
 
-"Two dollars." I look up. "That's the most we've seen."
+"Two dollars."
 
-A train whistle blows. Then another. The sound never stops. Bells from factories. Wheels on rails. Horses on streets.
+Our boy bangs the nail into the toy lumber. He has discovered something. He laughs.
 
-"We could stay here," I say. "The docks are good too. You have seamstress work. Our people are here."
+A train whistle blows. Then another. The sound never stops. Bells from factories. Wheels on rails. Horses on streets. Even from our little apartment. The city is huge.
 
-"We could go anywhere," she says. "California, Oregon, Texas. They are building railroads, farms, cities, ranches. There is better out there."
+"We could stay here," he says. "Our people are here. The work is here. You have nursing. I have my hands. Maybe repairmen will be hired soon."
 
-I reach across the table. Take her hand. "Then where do we go?"
+I reply "We could go anywhere, California, Oregon, Texas. They are building railroads, farms, cities, ranches. There is better out there. No politics like home. No soot like here.
 
-Maria smiles. looks at the paper.
+Silence.
 
-She moves her finger down, then stops.
+"Of course, still raccoons everywhere."
 
-I nod.
+We laugh. He reaches across the table. Takes my hand. "Then where do we go?"
+
+I smile. Take the paper. Move my finger down, then stop.
+
+The boy bangs his blocks. One sound, then another. He is finding the rhythm. He is working like his father.
+
+My husband nods.
 
 We stand up.
 
@@ -2846,7 +2859,7 @@ One suitcase packs.
 
 One door closes.
 
-One couple takes their chance.
+Three people take a chance.
 
 #### Soviets - Limits of Predictions
 
@@ -3082,8 +3095,7 @@ Three people fall back home.
 - "From now on we live in a world where man has walked on the Moon. It’s not a miracle; we just decided to go."
 -->
 
-#### Food
-
+#### Leftovers
 
 - farmer
 - organizing farm. much wild interspersed for bee etc. health.
@@ -3095,27 +3107,17 @@ Three people fall back home.
 - sees cow lightnight strike
 - calls in claim
 - last queue call
-
-
-
-
-
-#### Game
-
-Making music
-
-i am this
-i am that
-music? one person, to a group, to a choir, to a symphony.... and etc. filling gaps and niches....
-
+- Germans on boats watching Julius bridge.
+- Socratic dialogue. filtering out what people already know.
+- Marcus to Commodus. gold to rust. genes mean so little.
+- a merchant watching the city, Westphalia/Mungster
+- i am this, i am that. music? one person, to a group, to a choir, to a symphony.... and etc. filling gaps and niches....
 
 #### Raccoon Coyote Crash
 
 ##### Opening Quote
 
-
-All crazy traits in the past because there was no wealth in the past. There was no school in the past. But if you look at the predictors today, there is a strong uh there is a strong movement in a systematic direction. a large effect about a standard deviation on the scale of modern variation. And then we can do this trick of looking to see whether there's periods of time when this natural selection has occurred more intensely or less intensely. What we do
-is we drag a 2,000-year window through our data and we repeat our whole analysis not on 18,000 years but just on a short 2,000-year window. And we can measure the strength of selection in each of these 2,000-year windows. And what you see when you look at intelligence is you see that this maxes out in the Bronze Age between 5,000 4,000 3,000 2,000 years ago. And the impact in the last 2,000 years is almost  nothing. **There's no evidence of natural selection at all.** You might think your bias coming into this, my bias perhaps, if there's any signal of natural selection on this trait at all, might be that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years. But there's very strong evidence in between 2,000 and 4,000 years ago where instead of a one standard deviation strength of selection, it's a two standard deviation strength uh sort of averaged over this time period.
+All crazy traits in the past because there was no wealth in the past. There was no school in the past. But if you look at the predictors today, there is a strong uh there is a strong movement in a systematic direction. a large effect about a standard deviation on the scale of modern variation. And then we can do this trick of looking to see whether there's periods of time when this natural selection has occurred more intensely or less intensely. What we do is we drag a 2,000-year window through our data and we repeat our whole analysis not on 18,000 years but just on a short 2,000-year window. And we can measure the strength of selection in each of these 2,000-year windows. And what you see when you look at intelligence is you see that this maxes out in the Bronze Age between 5,000 4,000 3,000 2,000 years ago. And the impact in the last 2,000 years is almost  nothing. **There's no evidence of natural selection at all.** You might think your bias coming into this, my bias perhaps, if there's any signal of natural selection on this trait at all, might be that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years. But there's very strong evidence in between 2,000 and 4,000 years ago where instead of a one standard deviation strength of selection, it's a two standard deviation strength uh sort of averaged over this time period.
 
 The Bronze Age radically altered our DNA 
 Dr. David Reich, geneticist.
@@ -3126,7 +3128,9 @@ https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
 ---
 
-Content goes here.
+- A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers. Meaning orange is a job, orange and stripes is just how it does it, the second deer can see red, tigers would have to adapt. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which it lives.
+
+- work into this the way biological ecosystems work. and then input some version of artificial selection by the players, showcase how silly it is to spend time on excess like larger bear dens and what not...
 
 - waches robots, AI, which has a similar rising consciouness as bio life. example robot hitting a wall and go back and forth, back and forth, looking for a way out.
 
@@ -3216,223 +3220,17 @@ We call car crashes accidents, but they rarely are. Someone ran the red light an
 
 
 
-#### Misc.
-
-universal laws? Charles or whoever else
-but not for everyone, obviously
-
-universal laws? Franklin et all
-but not for everyone, obviously
-
-universal laws? Franklin et all
-but not for everyone, obviously
-
-- Germans on boats watching Julius bridge.
-- Socratic dialogue. filtering out what people already know.
-- Marcus to Commodus. gold to rust. genes mean so little.
-- a merchant watching the city, Westphalia/Mungster
-
-### Mythological Truths
-
-Imagine standing on a sandy beach. Warm sunlight is washing over your face as waves smash at your feet. You are a lifeform—one of Earth's creatures who, despite all their differences in looks and instincts, share one overwhelming feature: a limited lifespan.
-
-To give your genes a better chance of survival, you want to join (or help form) an ecosystem with the proper balance of producers, grazers, predators, and decomposers. Often that requires venturing to find new niches.
-
-Standing on that beach, how would you get there? And how will you survive once you are there?
-
-Most every species has faced this problem one time or another. And because it involves motion, energy, navigation, harvesting, and mapping it is a series of physics, chemistry, and geographic problems—a collection of natural laws that comprise a big portion of the "rules of the game", the laws we must use to keep advancing on the game board of evolution.
-
-As evidenced by the many species spread throughout Earth, this problem has been solved by biological species for billions of years. Birds use wind patterns to fly across oceans. After plants seed  glide, stick, or float their ways to new soils their leaves use photosynthesis to turn sunlight into sugar. Sea turtles swim and navigate the world by sensing the Earth's magnetic fields.
-
-Humans once were bound to such biological solutions. In fact we ventured across the globe using them. But our anatomy could only take us so far. Eventually we hit a sandy beach and could go no further.
-
-But our drive to venture out and find new ecosystems was still strong.
-
-As we developed technology, we collected the tools needed to solve the problem of energy, motion, and navigation to venture out from that sandy beach.
-
-Here are three ways in which we overcame the rules of the game to settle new landmasses: first through mythological storytelling, then through natural philosophy, and finally through scientific understanding. Each step allowed us to use technology to populate new territories and establish ecosystems and move another square in the never-ending game of evolution.
-
-### Polynesia
-
-In knee-deep water the Navigator feels Tangaroa push against his legs. The ocean god tests him, as he tested the Navigator's father, as he will test the Navigator's son.
-
-Behind him, wood clanks against wood—the canoes blessed by the priests, built according to the patterns Tāne revealed in the first days.
-
-On the beach, the Fire-Keeper kneels beside embers that have burned for three days. Mahuika's flame must not die before the voyage begins, or the goddess will withhold fire on the new island.
-
-The Chief nods. The Navigator takes two fistfuls of ash and releases them into the water. The Fire-Keeper does the same. This is the offering Tangaroa requires—ash from Mahuika's sacred fire, returned to the sea that separates the islands.
-
-Twelve canoes wait. Each holds twenty people, each person chosen by the gods through the Chief's divination. Planters who know Rongo's signs. Fishers who honor Tangaroa's tapu. Builders who understand Tāne's gifts of wood and vine.
-
-As the sun descends, the stars appear. The Navigator lifts the red arrow—carved by his father's father's father when the gods first revealed that land existed beyond the horizon. Seven white shells are bound to its shaft. Seven generations of Navigators. Seven islands found.
-
-He searches the sky. There—Tāne's brightest light, rising three finger-widths from the horizon, exactly as the chants promised. And there—the cluster that marks Tāwhirimātea's domain, showing which direction the storm-god's winds will blow.
-
-The Navigator points the arrow northeast.
-
-The paddlers begin to row. They cannot see the island. They cannot know if Tāne's signs are true. They can only trust that the Navigator reads the gods correctly, that the myths have not lied, that their ancestors' knowledge—passed father to son for seven generations—will guide them to land before the food runs out.
-
-The Navigator holds the arrow steady. Tāne placed the stars for this purpose. Tangaroa moves the currents according to divine law. Tāwhirimātea will blow from the north, as the season requires.
-
-The gods have always guided his people.
-
-The gods will guide them now.
-
----
-
-In knee-deep water, you can feel the exhaustion and despair littering the beach. The remains of six huge canoes are scattered in piles around you. Of the original 120 friends who set out, only 33 made it. 12 females 18 males and 3 youth. Enough to start a new island. The journey was a success.
-
-A hard one. The large red arrow is surrounded by a mound of rocks. It points into the forest beyond the seashore. It stands as a monument to the lost friends.
-
-We now construct shelters using palm fronds and driftwood. Others walk the unfamiliar shoreline and remembered its features for anything important—shellfish, fruit trees, caves, and water holes were the most important. Haphazard shelters were built and and a fruit tree found so far, almost no resources but still better than you've had in your voyage crafts.
-
-Even so, it all didn't matter if you didn't succeed.
-
-The Navigator embodied the gods to find which way to set the arrow. You must introduce the gods to your new home with the power of flame. You are the only one left. You are the only fire-starter.
-
-Fire was a gift from the gods. If you follow your teachings. Small, dry, no wind, much air.
-
-You sing the songs:
-
-_Husk of niu, wood from moana's shore_
-_Shelter from Tāwhiri's wild breath_
-_Mahuika's spark waits, hidden and pure_
-_Dry as bones of our ancestors' rest_
-
-You sing more as you rub hard wood against soft. The hardwood koa spindle, passed down from your father, was lost at sea. You took a day to make a new way, and now it's been two more trying to make a spark.
-
-Doubt crept in like the evening shadows. You could eat the fruit and drink some rain water. But you will need to cook the crabs and purify water soon. Only the gods know how many have the strength to last a week.
-
-Then, as the sun began to set, something happened in the mixture of soft palm wood and your koa spindle to please the gods. A spark was created. It landed on the husk, that turned into flame, that started a fire!
-
-No songs were needed. The voice of the gods spoke with crackling of the flame and the dance of the light.
-
-People from the shoreline to the jungle turn to look at you. Faces that had been drawn with hunger and fear they might never see another light, now danced to firelight.
-
-You announce that "Tāne has blessed our journey. Mahuika has granted us her sacred fire."
-
-The flames rose higher. Warmth spread. Hope rekindled. You had brought fire. Together your people will create a new home with it.
-
---
-
-The wind carries the salt of the ocean, mixing with the unfamiliar scents of a new island. You adjust the woven bark cloth around your shoulders, eyes scanning the dense tropical forest that presses against the shoreline where your people have landed a month before.
-
-Your settlement is fragile but growing.
-
-The shelters are now homes with woven palm tree roofs and earth walls. Each has a mattress and a stove area for any cold nights. Thank the gods no more have passed since fire was brought to the village.
-
-Instead they've cooked crabs, drank fresh water, fruits. The planters have ever started to til land and plant their crops.
-
-But the resources are limited. They always are. The group must keep exploring, and now must complete the next vital stage. You are not the strongest warrior, not the most skilled navigator, but you can remember well. You are the geographer.
-
-"You are the best"
-"I like bird eggs. Find the nests!"
-"Just discover if we can survive here, or if we should leave."
-
-You hear each and more throughout the day as you prepare.
-
-Your pack waits at your bedside. A stone adze, a fishing line woven from plant fibers, dried fish, a gourd of water, and carefully prepared bark cloth for making and leaving notes and markers. Most importantly, you carry the knowledge passed down through generations—how to read the land, how to survive.
-
-Geographers must see. Geographers must remember. 
-
-As you awaken in the morning sunrise, you grab your pack. You must travel far before the heat arrives in midday. So you hold your supplies and look into the jungle beyond.
-
-Someone stands by the fire, next to the red navigator arrow. She's saying a prayer but stops to wave a last goodbye. 
-
-It fills your heart as you return it. Although you still wish for a companion. But there is not the ten extra dried fish and 20 fruits to afford it.
-
-So you alone set out to walk inside this island for the first time.
-
-You've already swam around some of it, but the near constant cliffs make the inside a mystery. Where are the fruit, creeks, flint rock, and birds. Are there walking paths for birds or giant cats. You will be the first, and perhaps only, to know.
-
-You remember the teachings of your ancestors. Every plant, every animal, every rock has a purpose. The gods have guided you here, but reading these signs is the test for which your ancestors learned and passed on their wisdom.
-
-"The gods have guided us," you sing. "This land will sustain us!" 
-
-This makes friend by the fire smile while she prays.
-
---
-
-The people sit around the fire. All 31 still left. You explain to them what you found.
-
-There are fruit trees near our village. A stream of fast flowing fresh water. It's 3 days travel to the top of the island. I did not go to the other shoreline. I came back here.
-
-Everyone is huddled round. They need to know why.
-
-It was burned. From the other shoreline to 500 steps inside, it all burned. I look from the peak, and I saw another island. A bigger one.
-
-The group is silent. Everyone knows already what you feared.
-
-I did not see anyone on our island. I did not see any boats. I did not see any reason for fire to spread on the island. 
-
-Everyone knows. It is fact. No. But they must think so.
-
-They are not alone.
-
-Someone else is close. But who?
-
-We have no elders. We have no chieftains. We can either stay here and work and start our village. We can build new ship and try to go back. Or we can visit the next island.
-
-They can be ours. Or they can be Vatu.
-
-Everyone knows.
-
-Option one wait and pray.
-
-Option two, leave and pray.
-Or death, rape, and slavery.
-
-
-
-
-
-<!-- add a siting? sees another person, or perhaps remains of an old village? -->
-
-### Mythologies Analysis
-
-Polynesian maritime exploration represents one of humanity's most remarkable achievements. Beginning around 3000-1000 BC, Polynesians developed sophisticated way-finding techniques that allowed them to settle islands across a vast oceanic region. In total their settlements spanned over 10 million square miles; a size bigger than North America.
-
-Islands are at times thousands of miles apart, often with little to no Earthly indicators where the next one will be. And they had no idea would might be there if they landed. Sometimes the islands were new with only birds nests or old and weathered down. Happily, many we're somewhere in between with healthy ecosystems of trees, grasses, birds, and reptiles. Biological life had already used the rules of the game and learned to navigate to find these new habitats. 
-
-But biology took millions of years to spread itself to these islands oasis.
-
-And now, the Polynesians learned to use their minds and technology to do that same. They read complex environmental indicators: ocean currents, wave patterns, wind directions, star positions, and bird migrations. Their traditional voyaging canoes, called waʻa or vaka, were engineering marvels-double-hulled vessels capable of traveling thousands of miles with sophisticated rigging systems.
-
-Navigators, known as palu or matarangi, underwent extensive training from childhood. They memorized thousands of celestial markers, understood intricate wind and current patterns, and could interpret subtle environmental cues invisible to untrained observers.
-
-- Yet this achievement was mirrored by all people's. Humans cross the Tibetan plain, settled Siberia, ventured and lived in the Amazon jungle....
-
-This maritime technology enabled settlement of islands from Hawaiʻi to New Zealand, Easter Island to the Cook Islands--a testament to human adaptability, technological innovation, and profound understanding of maritime environments.
-
-And yet, all of it was not only pre-science but also pre-philosophy. Polynesians had no written language or mathematics. They learned and pass on an immense understanding of nature with only stories.
-
-The Polynesian understanding of physics was intertwined within their personal identity and civilization. The laws of motion, drag, hydrodynamics, astronomy, were all quantities they must understand before setting off on a weeks long voyage to hit land. Heck, Hawaiians even made it to Peru and back, where they got the sweet potato, a much needed drought resistant crop.
-
-Polynesians not only survived these rules of the game, but used them to prosper. Each voyage was not just a journey, but a complex negotiation with the fundamental rules of physics—reading wind, current, and star as if deciphering an intricate game board where survival was the ultimate prize.
-
-Of course many other societies set sail on the water. But only in one other place did humanity learn to navigate open oceans in such a way. That was the Vikings who had a similarly powerful boats and mythologies but mostly kept to river and costal navigation for their infamous trade and raids. 
-
-Regardless, the Vikings and Polynesians abilities are still very remarkable today.  It's doubtful many societies today could navigate the world and sustain themselves like these peoples did. But technological evolution didn't stop. And there was still other ways for humans and our tools to adapt during the never ending game of evolution.
-
-### Rome
-
-### Science Moon
-
-- A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers. Meaning orange is a job, orange and stripes is just how it does it, the second deer can see red, tigers would have to adapt. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which it lives.
-
-- work into this the way biological ecosystems work. and then input some version of artificial selection by the players, showcase how silly it is to spend time on excess like larger bear dens and what not...
-
 
 
 ## Interludes
 
 Practical stories to intersperse between chapters in Techvolution: A New Identity.
 
-### Story 1 - Handset
+### ! Story 1** - Handset
 
 When my buddy picked me up from work one day, he looked around and said, "What a dump." Coming from someone who visits offices, warehouses, and factories across the city, that review held weight. He was right—and not just about the 30-year-old carpet. This was the same place where my boss told everyone (but me) I couldn't speak to clients because my stuttering was an embarrassment, then lied to my face for years that it wasn't true.
 
-The thing is, the jackass boss wasn't entirely wrong. In casual conversation, I was fine. But in professional settings, I struggled. The difference was honesty.
+The thing is, the jackass boss wasn't entirely wrong. In casual conversation, I was usually fine. But in professional settings, I struggled. The difference was honesty.
 
 When I said what I genuinely thought, the path from brain to mouth was direct. I knew what was coming, so I could foresee problem sounds and substitute words ahead of time:
 
@@ -3440,7 +3238,7 @@ Hi, I hope you're having a ~great~ nice day. I'm here to ~discuss~ talk about yo
 
 But when I had to discuss something I was unsure about—or didn't believe—I had to think while speaking. My stuttering became a lie detector, exposing every moment of hesitation.
 
-Complete honesty is great in friendships but not so much at work or society at large.
+Honesty is great in friendships and often in academics, but not so much at work or society at large.
 
 So I got a job at an insurance claim call center (I swear I thought it was a good idea).
 
@@ -3460,7 +3258,7 @@ No lies, no uncertainty, no stuttering!
 
 "Why not?" I wondered.
 
-### Story 2 - Orders
+### Story 2** - Orders
 
 The confidence I gained during training didn't last long. Within weeks, I realized it was just ignorance.
 
@@ -3480,7 +3278,7 @@ Injuries were further down the list of questions. But I learned my lesson there.
 
 It also makes for a dreary mindset. Now I understood what my trainer meant. "God bless you" definitely wasn't the norm.
 
-### Story 3 - The Job
+### Story 3** - The Job
 
 I thought learning the rules would be enough. I was wrong.
 
@@ -3518,7 +3316,109 @@ Then I got an email from a manager:
 
 I was yet to learn the difference between working well and meeting targets. The mayhem was yet to really set in.
 
-### Story 4 - The Bell
+### ! Story 3b*** - Claim Walkthrough - Reserves
+
+Ever put some money down on the blackjack table? Maybe roulette or baccarat is more your game. Whatever you bet, the casino must have the money on hand to pay you if you win. Casinos don't gamble; they handle other people's gambling.
+
+Insurance works similarly. Insurance companies don't take risks; they handle other people's risks.
+
+Per government regulation, insurance companies must hold a reasonable amount of money on hand to pay claims as they come in. For this reason, insurance companies are huge purchasers of short-term bonds—bonds are liquid and can be sold quickly if a surprise tornado or snowstorm triggers a wave of unexpected claims.
+
+During a claim call, adjusters estimate the likely payment so the company can "reserve" the right amount of money from its accounts. The accounting needs to stay accurate as claims come in.
+
+So, during a call, while asking questions, we tabulate.
+
+---
+
+Beep. The call-in is automatic answer. "Thanks for calling claims, this is Peter."
+
+"I'd like to report a claim."
+
+A woman's voice. She sounds shaky but composed.
+
+"Of course. Was anyone hurt?"
+
+"My daughter's wrist is hurting. We're going to our walk-in clinic later."
+
+_The injury adjuster will ask the detaisl. I hope she's okay._
+
+"I'm sorry to hear that. I'll have the injury adjuster call you later. However, for now we're just going to discuss the car damage. Is that okay?"
+
+"Yes."
+
+"Was anyone in the other vehicle taken away in an ambulance?"
+
+"No."
+
+"Okay, let's get started on the car details. This part takes 20 minutes. The Honda Civic—is it driveable?"
+
+"No, it was towed somewhere. I don't know where. You must know."
+
+_$500 or so for the tow._
+
+"I don't, unfortunately, but we'll deal with that a bit later. What's your car's color?"
+
+"I think they call it Majestic Blue."
+
+_Factory color. Cheaper to match if it's repairable._
+
+"Okay, where did this happen? Can you tell me the story?"
+
+"You don't have this already? The police were there with firetrucks."
+
+_Firetrucks. If she was at fault, the municipality bills us for the response. Two trucks at $500/hour, on scene for three hours, plus overhead. Around $3,000._
+
+"I don't have any special access, unfortunately. Can you just go over the story—where you were, where you were going, and what happened?"
+
+"We had spent the afternoon at the mall, and Sarah was showing me the earrings she'd picked. The sun came through the windshield, and then I remember looking up to see the brake lights too late. The sound of metal and glass. The airbag deployed for me. Not for her. I got out. Nobody stopped for us. I called police. They arrived and the firetrucks came too."
+
+_Airbag deployed. The damage above the airbag-trigger threshold usually means structural damage to the frame and engine bay. Late-model Honda Civics with frame damage are usually total losses—repair costs exceed the car's value. Probably $20,000 settlement. Plus the highway rails she mentioned hitting—we get billed for those, around $10,000 for a section. And she'll need a rental for the two weeks before settlement clears, $1,000 there._
+
+"Unfortunately, not many people stop nowadays. Do you have a rental car?"
+
+"No. I need one though."
+
+"Okay, I'll arrange one and they'll call you. I'm just going to do some paperwork here. Do you have any questions?"
+
+"Who is at fault for this accident?"
+
+"Well, you hit the other car from behind, so it sounds like you. Did you or they change lanes?"
+
+"No. But he stopped for no reason."
+
+"The government assigns crash fault rules. One of them says the car that rear-ends the other is 100% at fault."
+
+"That's bullshit."
+
+_Ignore that comment._
+
+"Okay. What kind of car was the other car driving? Do you have his info?"
+
+"It was a German car I think. The plate was 5453-ADN. Wait, I have the tow truck info. It's Ben's Towing."
+
+_A German car. Likely high-end. Parts delays for sure. Rear-end damage isn't as bad to repair, though. $25,000 for repairs and $3,000 for their rental during the parts wait._
+
+"I've assigned a car rental to call you. I'll call the tow company. Your car is likely a total loss, but we'll know for sure when we get it picked up and assessed. Do you have any questions?"
+
+"No. Thanks. Bye."
+
+---
+
+_Final tabulation:_
+
+_Tow: $500 (ours) + $500 (theirs)_
+_Vehicles: $20,000 (ours) + $25,000 (theirs)_
+_Rentals: $1,000 (ours) + $3,000 (theirs)_
+_Firetrucks: $3,000_
+_Highway damage: $10,000_
+
+_Estimated total: $63,000._
+_I'll reserve $70,000 just in case._
+_Injury reserve held at $10,000 pending injury adjuster review._
+
+That's roughly 200 to 300 customers' annual premiums for this one crash. One claim phone call. Eight to twelve more claims today.
+
+### ! Story 4*** - The Bell
 
 Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, short-change, screw people over—that's what the public thinks.
 
@@ -3550,7 +3450,7 @@ They also got inflated claims, burned-out adjusters, higher insurance rates, and
 
 One more claim down. One less call to make that freaking bell ring.
 
-### Story 5 - I Don't Care
+### Story 5** - I Don't Care
 
 Even as I got better at adjusting and taking calls, I couldn't do the fast, often confrontational, phone call thing. I needed to have a full conversation with each caller, which sometimes helped but took up a lot of time.
 
@@ -3574,7 +3474,7 @@ I asked her why she'd been so harsh. "They do the same job we do," I said.
 
 It got me thinking. We wear so many identities—customer, representative, manager, head office administrator, burned-out worker—and we switch between them often punching ourselves in the gut. Georgia dealt honestly with people and expected them to take it. But the moment she stepped into a different role, she became the problem she'd been solving all day.
 
-### Story 6 - Help
+### ! Story 6*** - Help
 
 Adjusting insurance claims was genuinely stressful. But also rewarding. Insurance sets money aside for people in need, so you get to help when people need it most.
 
@@ -3606,7 +3506,7 @@ His case in court was simple: "You were there. Prove I didn't have it." The case
 
 The system couldn't tell the difference between desperation and greed. So it assumed everyone was lying—and the people who actually needed help often paid the price.
 
-### Story 7 - New Tools
+### ! Story 7*** - New Tools
 
 The call-in queue was the rock—it kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
 
@@ -3630,47 +3530,7 @@ They never asked me to explain how it worked or why I made it. But lower managem
 
 My gray-haired manager soon left for a bank. And the demands to answer more calls never stopped.
 
-### Story 8 - Veteran
-
-I made it through. Eventually, I got promoted to serious claims: six-figure thefts, fraud rings, accident deaths.
-
-I mentored green adjusters. They all asked the same question: How do we process claims when people won't give us the information we need and we keep answering all these darn inbound calls?
-
-I showed them a trick:
-
---
-
-When an angry insured calls—someone who's been waiting days for a callback—here's what you do:
-
-"Why aren't you calling me back?" Their voice will crack with frustration.
-
-You pull up their file, scan the notes. Queue backlog. Voicemails piling up. The usual mayhem.
-
-But you say this: "Wait. I'm not calling you back. You're not calling *me* back."
-
-Silence. Then: "What?"
-
-"Hold on. Let me look into something." You're already scanning their file—now you have time to actually work on it.
-
-"What's your number?"
-
-"555-8347."
-
-You knew that, of course, but you say: "I had 9347."
-
-"Oh!"
-
-Relief will flood through the phone line.
-
-Then you say something to bridge to the solution: "It's always something. Now let's get this moving."
-
---
-
-Was it a lie? Maybe. But it worked. Calmed people down. Let you hear the real issue. Solved it faster. No confrontation—just a conversation.
-
-I was learning to adapt. The newbie I taught said it was "Adjusting 101—no wait, Adjusting 201."
-
-### Story 9 - WOP
+### Story 9*** - WOP
 
 When the snow falls, the bell dings.
 
@@ -3700,7 +3560,7 @@ I don't know the connection beyond the three letters. We dealt with customers' t
 
 I do know when the CEO visited from head office a few years later, the managers turned the bell off for the day.
 
-### Story 10 - Just a Job
+### Story 10* - Just a Job
 
 The claims center was brutal. But it was a job. You got used to it. And the pressure forged great friendships across roles and management because people were, for the most part, just trying to get themselves—and their coworkers—through the day.
 
@@ -3734,7 +3594,7 @@ I learned another lesson: read settlements beforehand, prepare insureds for bad 
 
 I eventually got his truck towed back to his country home. I miss those friends. We learned the ropes together.
 
-### Story 11 - Not unique
+### ! Story 11** - Not unique
 
 Most claims had one or more other drivers involved. So we talked to other adjusters constantly.
 
@@ -3758,7 +3618,7 @@ I eventually got it days later. The regulation said a not-at-fault driver could 
 
 Yet, after asking "what's your pending?" to hundreds of adjusters around the country, these stories were common everywhere. Just food for thought. These are not just stories of my job, but of your economy.
 
-### Story 12 - Thanks
+### Story 12* - Thanks
 
 I made a call to a mother and daughter once. They had a Toyota Yaris. I was their total loss adjuster. This time I was prepared with the payment breakdown, justification, and aware of any bad news that could rattle an insured.
 
@@ -3798,7 +3658,7 @@ The claims system originated back when people mailed documents and adjusters cal
 
 I'd think when reading these ancient paper forms, "Why is this so easy. Most people know how to use new technology, but our society hasn't yet learned to work together using it.
 
-### Story 13 - Perfect Example
+### ! Story 13** - Perfect Example
 
 The information from a crash is very sporadic. One big problem is at-fault drivers often don't report their claim, especially if they don't have collision coverage.
 
@@ -3830,7 +3690,7 @@ But that picture was so perfect, my insured just said, "I'm sorry."
 
 I'll take this moment to say, please get a car dash camera installed. It makes pictures like this common—but still amazing.
 
-### Story 14 - Cured
+### ! Story 14*** - Cured
 
 You might remember: one of my first claims involved tracking down a Buick Allure for my insured. It took hours that I didn't have to spend. But she'd never actually asked. She'd simply said, very nicely mind you: "I only drive Buick Allures." I assumed it was my job, so I found one.
 
@@ -3890,20 +3750,48 @@ The struggle isn't inevitable. The tools to fix it already exist. The problem is
 
 This all became the practical foundations of Techvolution.
 
+### Story 15 - Scissors
+
+We had assigned claims. Meaning, even though we received and answered random calls from customers, brokers, and anyone else, one adjuster was ultimately responsible for the claim.
+
+We had to "move the claim along".
+
+Calling other insurance companies, emailing rental companies, tracking down whatever information wasn't being sent into us.
+
+So, we would put reminders on our claims. Customer on vacation in three weeks, call back then. Rental company set to have a pickup truck ready, make a note. We had to fit all these reminders into our workflow. 
+
+The Bell always reigned supreme.
+
+I was behind on my reminders. Not unusual. Mine got particularly bad. Anyone not calling us would slowly get more angry as their claim wasn't "moving forward."
+
+So I showed up early one day. 8:00 AM. I had an hour of free time to do five to hopefully 10 reminders. 
+
+DING DING DING.
+
+Not my problem. I'm not even legally here.
+
+"Hey, can you get that call?" my manager asked.
+
+I check the time. 8:01 AM. I did, of course. I got a few reminders done after that, but not many.
+
+The company had a thank you program in effect. My manager did the best he could, and got me a voucher for a gift.
+
+I got a pair of scissors. I still have it. Every time I look at them I still think.
+
+Eight of frickin one.
+
 ### Misc.
 
-- list cost of a typical crash while going through typical.
-- college traffic class vs data entry home work experience.
-- asshat when face to face, people were always nicer.
-- almost no one stops to help/witness
-- "f'in insurance asshole"
-- abduction
-- "apparently i'm f'ing useless"
-- thanks, here's a kind gesture...."did you say this guys rates won't go up"
-- suspended license, parking tickets, cover?
-- lost son, one act play
-- 8:00am, abey, 8:01 am, ding. scissors thank you.
-- two masters, applying for work, super stressed.
+- call through a typical car insurance claim "first contact" with an insured. and list cost in time, money, and injury.
+- almost no drivers stop to help/witness a car crash. this makes car insurance claims so much harder and uncertain as often no one has proof of events.
+- customers were very nice to me on the phone, then I heard the husband say "f'in insurance asshole" when hanging up.
+- gray haired boss was told to speed us up, he was very stressed us out, one co-work left a meeting saying "apparently i'm f'ing useless"
+- One of my insured's was very honest about being atfault. As a thanks I sent a gesture saying he was a good customer, months later he claimed i told him his insurance rates wouldn't increase.
+- A insured was driving with a suspended license because of unpaid parking tickets. She was not aware of this. He claim could be denied for an invalid license. I opted to cover her claims anyways. Other adjuster might not have.
+- Spoke with an insured, about his lost son. It was very moving, worthy of a one act play.
+- I was behind on my work. I showed up early, 8:00am, to complete my "abeyances" at 8:01 am, the bell went ding. I wasn't even being paid but was told "get that call" I was awarded a pair of scissors. I still have the scissors.
+
+
 
 ## Notes
 
