@@ -2183,13 +2183,17 @@ The woodcutter shrugs.
 
 The woodcutter says nothing.
 
-"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, marched his beautiful legions, then left, burning his wonder behind him. The bridge was theater. A demonstration. The Germans were dumbfounded by our technology. They used log boats to cross. So confused and scared they left Rome alone for centuries; because of a few bridges."
+"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, marched his beautiful legions, then left, burning his wonder behind him. The bridge was theater. A demonstration. The Germans were dumbfounded by our technology. They used log boats to cross. And thought hammers and water wheels were magic. So confused and scared they left Rome alone for centuries; because of a few bridges."
 
-"My lumber order is for a bridge. Funny, huh? Why were we cruel?"
+"My lumber order is for a bridgev in Certaldo. Funny, huh? Why were we cruel?"
 
 "When they raided us they'd die. Instead they traded and we had peace. We were *effective*. The desert became peace—Roman peace, which created prosperity, maintained by Roman swords and virtue."
 
-The woodcutter shifts. "Some people say—"
+The woodcutter shifts. "What happened then?"
+
+"Weak children ate the glory of great Emperors. Commodus turned an empire of gold into one of rust.
+
+"I see. They had no faith in the..."
 
 "We can't live in their words. I'm telling you what *is*." Niccolo drops the stick. "Now we Italians read Aristotle and debate morality while foreigners occupy our cities. We have the *words* of the ancients but not their *methods*."
 
@@ -2221,7 +2225,7 @@ Niccolo stares at the sky for several long moments.
 
 "Being at the bottom makes it easier to see what's going on at the top. I've served princes. I've been tortured by them. I've studied their rise and fall. I read the ancients. They speak to me. The view from down here is clarifying."
 
-The woodcutter is back at the big tree. "I understand what you mean. Roman peace and bridges and all...Can I have the big tree? It is the bridge in Certaldo. It's not sacred, is it?"
+The woodcutter is back at the big tree. "I understand what you mean. Roman bridges bring prace...Can I have the big tree? It's not sacred, is it?"
 
 "Yes. Take that too."
 
@@ -2787,29 +2791,41 @@ I will go wash my hands.
 
 #### Work
 
-The newspaper lies between us on the table. I review the print ads then assess my husband's cut forearm. He caught a nail in timber while cleaning up a demo site. I press carbolic acid cloth hard. He grimaces.
+The newspaper lies between us on the table. I review the print ads as my husband rolls up his sleeve.
 
-"It's supposed to hurt. That's why it works. We'll hold it here for one minute."
+He caught a nail in timber while cleaning up a demo site. I poor fresh boiled water over the wound to clean out the dirty. Then I tip carbolic acid on a clean cloth. "It'll hurt"
+
+He grimaces as I press into the wound.
+
+"It means it's working. We'll hold it here for one minute."
 
 I distract the pain by pointing at our boy, banging a toy hammer into toy nail and lumber.
 
+The pain goes away.
+
 A minute is up. I check. The wound is cleaned. I wrap the water boiled bandages around it.
 
-"Return to reading the work ads." my husband says.
+"I made you these covers. I got the leather from my sister.
 
-"San Francisco needs men," I read. "They had another fire. Rebuilding crews. One dollar fifty a day. Water pipe laying—high-pressure mains for the new fire system. The city of the future rises from the ashes."
+He puts on a fresh shirt. Then tries on the forearm covers, and nods.
 
-I look at the window. Soot covers the glass. It covers the buildings, the laundry on the lines, our hands by evening.
+"Good. Return to reading the work ads." my husband says as he picks up a window pane.
+
+"San Francisco needs men," I read. "They had another fire. Rebuilding crews. One dollar fifty a day. Water pipe laying—high-pressure mains for the new fire system. It says 'The city of the future rises from the ashes.'"
+
+Crunch. Crack. The old window was cracked. We used tape to seal our little apartment.
+
+I look at the old window. Soot covers the glass because it covers everything here, the laundry on the lines, our hands by evening.
 
 "In San Francisco, the open air, big mountains. Lots of land. It's very nice."
 
 "Back home you could see stars. Smell the trees. Hear the nature." my husband replies.
 
-"Back home had no work. If I told my brother everyone eats meat every day here, he'd never believe me."
+"Back home had no work. If I told my brother everyone eats meat here every day, he'd never believe me."
 
 Outside, something moves in the alley below. A raccoon noses through an overturned crate, paws quick and careful. It finds a crust of bread and vanishes into shadow.
 
-"We're not the only ones looking for more. But we can work for it. I can be a nurse." I say.
+"We're not the only ones looking for more. But we can work for it. I can be a nurse here." I say.
 
 I return to the paper.
 
@@ -2821,7 +2837,7 @@ I return to the paper.
 
 "What else do you see?"
 
-"Coal miners, Kentucky. Modern company housing. Fair wages. We fuel American growth."
+"Coal miners,Austrialia. Modern company housing. Fair wages. We fuel world's growth."
 
 "The company owns everything. The houses, the store. You owe them before you start."
 
@@ -2829,27 +2845,25 @@ I return to the paper.
 
 "Yes."
 
-I turn the page. "Loggers wanted. New Hampshire forests. Strong men earn two dollars a day. Winter work."
+I turn the page. "Loggers wanted. Quebec forests. Strong men earn two dollars a day. Winter work."
 
 "Two dollars."
 
-Our boy bangs the nail into the toy lumber. He has discovered something. He laughs.
+Our boy is beside his father, at the window, banging on the frame with his hammer. He laughs.
 
 A train whistle blows. Then another. The sound never stops. Bells from factories. Wheels on rails. Horses on streets. Even from our little apartment. The city is huge.
 
-"We could stay here," he says. "Our people are here. The work is here. You have nursing. I have my hands. Maybe repairmen will be hired soon."
+"We could stay here," he says. "This apartment is old. Neglected. I can fix the faucet, the room fans, install new hardwood. Our people are here. I have daily work here. You will be a nurse soon. You keep me healthy. Maybe I get repairmen contract."
 
-I reply "We could go anywhere, California, Oregon, Texas. They are building railroads, farms, cities, ranches. There is better out there. No politics like home. No soot like here.
+I reply "I read the papers everyday. The world is changing. It's so big. We could go anywhere, Detroit, Moscow, Argentina, even Japan! We are building railroads, ranches, mills, factories, power stations! Everyone has fresh clothes. Full plates. Good shoes. Anyone can do anyting! No politics like home.
 
-Silence.
+My husband is sealing the window. Our boy helps him push in the rubber. Ruffling noises come from the alley.
 
 "Of course, still raccoons everywhere."
 
 We laugh. He reaches across the table. Takes my hand. "Then where do we go?"
 
 I smile. Take the paper. Move my finger down, then stop.
-
-The boy bangs his blocks. One sound, then another. He is finding the rhythm. He is working like his father.
 
 My husband nods.
 
@@ -2871,7 +2885,7 @@ Socialism is science. Science needs new technologies.
 
 We must keep going.
 
-Computers are new. They are powerful. A national computer network. Connect all economic units—factories, farms, collective enterprises, distribution centers. Real-time data flowing to central processors. Automated resource allocation. Optimal planning. I conceive OGAS: National Automated System for Computation and Information Processing.
+Computers are new. They are powerful. A national computer network. Connect all economic units—factories, farms, design and research groups, distribution centers. Real-time data flowing to central processors. Automated resource allocation. Optimal planning. I conceive OGAS: National Automated System for Computation and Information Processing.
 
 We must keep going.
 
@@ -2887,17 +2901,19 @@ Resistance. Ministry officials ask questions. Who controls data? Who would have 
 
 We must keep going.
 
-1964. Khrushchev falls. Brezhnev takes power. Reformers leave seats. I send more proposals.
+1964. Khrushchev falls. Brezhnev takes power. Reformers leave seats. I write more proposals.
 
 We should be going.
 
 1965. Gosplan—the State Planning Committee—opposes OGAS. Too expensive. Current systems good enough.
 
-I present again and again. The current system is not optimal. I can't say there are shortages. But there are shortages. Inefficiencies are growing. OGAS would fix this.
+I present again and again. I write more proposals. The current system is not optimal. I can't say there are shortages. But there are shortages. Inefficiencies are growing. OGAS would fix this.
 
 Why aren't we going.
 
-1970. The 24th Communist Party Congress is coming. OGAS is up for funding. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials see it as a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their positions.
+1970. The 24th Communist Party Congress is coming. OGAS is up for funding. I write detailed proposal. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials see it as a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their positions.
+
+I don't write this down. 
 
 We will return to this soon.
 
@@ -2913,15 +2929,17 @@ Computers are new, powerful, and advancing. I should know, I worked at Eckert-Ma
 
 Must get started.
 
-1959. I'm a researcher at RAND Corporation in Santa Monica. The Air Force sends us a list of problems. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications used high-frequency connections. Those are vulnerable to the radiation of nuclear attacks. Communication blackouts means itchy trigger fingers. Resilient communication networks prevents nuclear war.
+1959. I'm a researcher at RAND Corporation in Santa Monica. The Air Force sends us a list of problems. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications used high-frequency connections. Those are vulnerable to the radiation of nuclear attacks. Communication blackouts means itchy atomic trigger fingers. Resilient communication networks prevents nuclear war.
 
 Must keep going.
 
 1960. Fact! A human brain can recover lost functions by bypassing a dysfunctional area.
 
-Idea! A completely distributed communication network. No centralization so information can always get through. Like a fishnet—every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust a network as the theoretical limit. Redundancy is key.
+Idea! A completely distributed communication network. No centralization so information can always find a way through. Like a fishnet—every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust a network as the theoretical limit. Redundancy is key.
 
-We cannot have dropped calls. We need to make data digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. If one message fails to deliver, resend it. Block messages vastly increase redundancy.
+We cannot have dropped calls. We need to make data digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. Like sending a book in postcards. 
+
+If one message fails to deliver, we resend just the postcard. Block messages vastly increase redundancy.
 
 Must keep going.
 
@@ -2933,9 +2951,9 @@ The Defense Department wants this network for all military branches. On command,
 
 Must keep going.
 
-I try AT&T. They are a monopoly. They control the entire phone network. Just needs some modifications.
+I try AT&T. They are a monopoly. They control the entire phone network. Just needs some modifications. I present the system. Switching, routing, block messages, redundancy protocols, error correction.
 
-I present the system. Switching, routing, block messages, redundancy protocols, error correction. Eyes roll. Analog engineer says "Son, this is how a telephone works." Then ninety-four separate speakers describe their phone system. An executive says "Now do you see why block messages won't work?"
+Eyes roll. At me. At the distributed network diagrams. Analog engineer approaches me, takes chalk from my hand, and says "Son, this is how a telephone works." Then ninety-four separate speakers describe AT&T phone system. An executive says "Now do you see why block messages won't work?"
 
 I look at him.
 
@@ -2943,7 +2961,7 @@ I look at him.
 
 Must keep going.
 
-1964. RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. Advanced Research Projects Agency (ARPA) distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks "packets". It's a new name for a new idea. I like it.
+1964. RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. US government's Advanced Research Projects Agency (ARPA) distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks "packets". It's a new name for a new idea. I like it. I re-write my labels.
 
 We must keep going.
 
@@ -2960,6 +2978,8 @@ The fishnet keeps growing.
 No center to destroy. No single point of failure. No control possible.
 
 We are going.
+
+Newspapers. Textbooks. Whitepapers. Emails. People are writing about the network.
 
 Three more nodes connect.
 
@@ -3115,16 +3135,7 @@ Three people fall back home.
 
 #### Raccoon Coyote Crash
 
-##### Opening Quote
 
-All crazy traits in the past because there was no wealth in the past. There was no school in the past. But if you look at the predictors today, there is a strong uh there is a strong movement in a systematic direction. a large effect about a standard deviation on the scale of modern variation. And then we can do this trick of looking to see whether there's periods of time when this natural selection has occurred more intensely or less intensely. What we do is we drag a 2,000-year window through our data and we repeat our whole analysis not on 18,000 years but just on a short 2,000-year window. And we can measure the strength of selection in each of these 2,000-year windows. And what you see when you look at intelligence is you see that this maxes out in the Bronze Age between 5,000 4,000 3,000 2,000 years ago. And the impact in the last 2,000 years is almost  nothing. **There's no evidence of natural selection at all.** You might think your bias coming into this, my bias perhaps, if there's any signal of natural selection on this trait at all, might be that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years. But there's very strong evidence in between 2,000 and 4,000 years ago where instead of a one standard deviation strength of selection, it's a two standard deviation strength uh sort of averaged over this time period.
-
-The Bronze Age radically altered our DNA 
-Dr. David Reich, geneticist.
-May 10, 2026
-https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
-
-**There's no evidence of natural selection at all.** in biology. not technology.
 
 ---
 
@@ -3151,48 +3162,76 @@ https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
 ---
 
-It's dark. You drive your car. The speakers are singing a song. You're on your way home.
+## Chapter 13 - Epilogue
 
-There's an intersection ahead, you approach it.
+### Opening Quote
 
-Headlights flood your window. Metal screams. Glass explodes. Your car spins.
+All crazy traits in the past because there was no wealth in the past. There was no school in the past. But if you look at the predictors today, there is a strong uh there is a strong movement in a systematic direction. A large effect about a standard deviation on the scale of modern variation. And then we can do this trick of looking to see whether there's periods of time when this natural selection has occurred more intensely or less intensely. What we do is we drag a 2,000-year window through our data and we repeat our whole analysis not on 18,000 years but just on a short 2,000-year window. And we can measure the strength of selection in each of these 2,000-year windows. And what you see when you look at intelligence is you see that this maxes out in the Bronze Age between 5,000 4,000 3,000 2,000 years ago. And the impact in the last 2,000 years is almost  nothing. There's no evidence of natural selection at all. You might think your bias coming into this, my bias perhaps, if there's any signal of natural selection on this trait at all, might be that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years. But there's very strong evidence in between 2,000 and 4,000 years ago where instead of a one standard deviation strength of selection, it's a two standard deviation strength uh sort of averaged over this time period.
 
-Silence.
+The Bronze Age radically altered our DNA 
+Dr. David Reich, geneticist.
+May 10, 2026
+https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
-You lift your head from the airbag. It burns your cheek. And there's white dust on it.
+### Chapter 13
 
-Headlights still flood your view. There's glass everywhere. Not sharp. Tempered glass. Pieces crunch under your bum as you make your way to the passenger side.
+"There's no evidence of natural selection at all." 
 
-You open the door.
+Evolution didn't just disappear 2,000 years ago. Countless lives have come and gone. Ash trees, chesnut trees are decimated. Thousands of species are extinct. Entropy keeps on making disorder. Life is still around, and thus has been making more order to keep passing the torch.
 
-The other car rests in the ditch. 
+What has changed in humanity, in the past 2,000 years is technology.
 
-Headlights sweep over you. A car approaches. The car continues on the road.
+And human using tools are the playing the Game of Technological Life.
 
-A figure walks toward you. Limping. Hand pressed to ribs.
+A car crash is a moment of selection. And you and your tools are the unit of selection.
 
---
+Do you realize it?
 
-Is this car crash a moment of selection. Do you realize it?
+The cars are wounded and likely total losses. That is much material being disorganized, a big win for disorganization. Of course you could be hurt as well. 
 
-The cars are wounded and likely total losses. That is much material being disorganized, a big win for entropy. Of course you would be hurt as well. 
+The implications of this realization are huge. But we'll discuss those later in Book II Mixed Ideological Politics and Book III Bumblebee Economics.
 
+For now, this book's missions is simply about you realizing we are technological beings. This isn't a new idea something we must create, it's something we should realize is already effectively true.
 
-These short stories, and this entire book, are about you realizing we are technological beings. This isn't something we must create, it's something we should realize it already effectively true.
+Touch your tail-bone. 
+
+I mean that, literally, touch it.
+
+It's noise. 
+
+We have tailbones and no tails. It's a leftover from a by gone age. 
+
+Your old identities are similar. Artifical selection that has purpose only if we decide it does. They could be important. There is nothing wrong with enjoying music festival with a large crowd or reading history. But these can't select you for success. How could radiation, cold, heat, affect you differently because you like goth music over rock.
+
+If one music motivates you to exercise, grow healthy food, install solar panels, great. But it's turning disorder into order that passes the test, no the calls of the lifeforms.
+
+Let me ask is a different way.
+
+Do you think a tiger wants to be orange? 
+
+A tiger's orange with stripes are unique an cool, but that's not who they want to be. It's who the coach said could have the job. Grazers needs to be held in check or they would devour their ecoystem to their own demise. Therefore catching enough grazers to keep them in check is the job for a predator. And deer can't see red or orange.
+
+Orange is the uniform of the tiger's predator job. If deer ever see red, tigers would need a new uniform. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which it lives.
+
+Learning to speak was my job. Learning the insurance rules and regulations was my job. Adapting tools to shut that f'in bell up is a job. 
 
 To get us to that point of realization we had to understand what evolution is.
 
 We described it as a Game of Life. 
 
-The laws of physics, chemistry, and geology reign supreme. They interact to create an emergent game board offering continually changing opportunities and challenges. Entropy wears down our environment, spoils our food, and puts timers on every creatures experience. Life creates modifications of existing forms, while natural selection determines which offspring survive to represent life's future.
+The laws of physics, chemistry, and geology reign supreme. They interact to create an emergent game board offering continually changing opportunities and challenges. Over time entropy increases and so wears down our environment, spoils our food, and puts timers on every creatures experience. Life creates modifications of existing forms, while natural selection determines which offspring survive to represent life's future.
+
+Thereby liife adapts to the requirements of its environment.
 
 Humans play the Game of Life. Most of time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
 
-And this moment of a single car crash is a moment of selection. As is a seed trying to take root into soil and find water and sunshine. A fly looking for nectar. A predator chasing a herivore.
+And this moment of a single car crash is a moment of selection. As is a seed trying to take root into soil and find water and sunshine. A fly looking for nectar. A predator chasing a herbivore.
 
-We go to work in nature trying to find resources. Or inside a technoloigical ecosystem. The job is the same either way.
+Everyone working together inside an ecosystem to make sure energy, nutrients, and water is continually passed, as a torch, form being to being with the most important requirement being we do not use it up, by always make us of it, being passing it along.
 
-Our game is different because of us. We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard as it did when elders used stories to teach oceanic navigation or philosophers started to question those stories for a more natural truth.
+Our game is different because of us and our minds.
+
+We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard as it did when elders used stories to teach oceanic navigation or philosophers started to question those stories for a more natural truth.
 
 Sometimes they exploit and degrade as when royal descendants forget they're office and power was earned for practical problem solving or when individuals teach servitude and deprive tools on others.
 
@@ -3202,9 +3241,13 @@ Evolution cannot speak our languages anymore than it could understand Mammoths p
 
 Apollo 8 is such a good example of this fact.
 
-It was named after a Greek pagan god, while being the first to travel to the moon, where its crew read from a holy book, while realizing Earth's supreme fraility. Jim Lovell really did erase their navigation data and it was his knowledge of the stars that saved the day. He would soon use these skills again in Apollo 13, the spacecraft that exploded and had to limb its way back home.
+It was named after a Greek pagan god, while being the first to travel to the moon, where its crew read from a holy book, while realizing Earth's supreme fraility. Jim Lovell really did erase their navigation data and it was his personal knowledge of the stars that saved the day. He would soon use these skills again in Apollo 13, the spacecraft that exploded and had to limb its way back home.
 
-The point is there is no superiority to our stories. Each serves a function related to the time, situation, and toolset we have. But no story can ever supercede the rules of evolution.
+The point is there is no superiority to our stories. Like with anything in nature, the best is determined by what the environment is and what the game requires we do.
+
+Mythological, philosophical, scientific interpretations of reality will always have their place. Each serves a function related to the time, situation, and toolset we have.
+
+No story can ever supercede the rules of evolution.
 
 There are plenty of more insights this perspective can give you. You
 
