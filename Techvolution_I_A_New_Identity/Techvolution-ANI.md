@@ -3,16 +3,6 @@
 
 ## Book I: A New Identity
 
-- we think we create new technology. the realization that makes our present and future make more sense is that at some point technology started to create us.
-
-- see our lives/jobs not as bro vs fighting over tech to advance their genes but as on independent (tech) ecosystem that we harness/car for, like a farmer from foraging to farming.
-
-- identity shift as genetic shift!
-
-- Take a moment to list three tools you rely on daily. For each, ask: How did this tool change the way I solve a problem? What would happen if I lost it tomorrow? Which new tool could replace or augment it tomorrow?”
-
-- why does evolution favor bigger organism, until a high pressure/extinction event?
-
 ## Back Page Summary
 
 Who are you? What truly defines your identity in this age of massive technological change?
@@ -2825,19 +2815,15 @@ I look at the old window. Soot covers the glass because it covers everything her
 
 Outside, something moves in the alley below. A raccoon noses through an overturned crate, paws quick and careful. It finds a crust of bread and vanishes into shadow.
 
-"We're not the only ones looking for more. But we can work for it. I can be a nurse here." I say.
-
-I return to the paper.
+"We're not the only ones looking for more. But we can work for it. I can be a nurse here." I say, then return to reading the work ads in the paper.
 
 "Steelworkers wanted. Pittsburgh calls men of strength and ambition. The furnaces of progress need you. One dollar twenty a day."
 
 "One dollar twenty," I say. "That's less than San Francisco."
 
-"My oldest sister went to Pittsburgh. Good pay but dangerous. Heat burns lungs. Men lose fingers to the machines."
+"My oldest sister went to Pittsburgh. Good pay but dangerous. Heat burns lungs. Men lose fingers to the machines. What else do you see?"
 
-"What else do you see?"
-
-"Coal miners,Austrialia. Modern company housing. Fair wages. We fuel world's growth."
+"Coal miners, Austrialia. Modern company housing. Fair wages. We fuel world's growth."
 
 "The company owns everything. The houses, the store. You owe them before you start."
 
@@ -2855,7 +2841,7 @@ A train whistle blows. Then another. The sound never stops. Bells from factories
 
 "We could stay here," he says. "This apartment is old. Neglected. I can fix the faucet, the room fans, install new hardwood. Our people are here. I have daily work here. You will be a nurse soon. You keep me healthy. Maybe I get repairmen contract."
 
-I reply "I read the papers everyday. The world is changing. It's so big. We could go anywhere, Detroit, Moscow, Argentina, even Japan! We are building railroads, ranches, mills, factories, power stations! Everyone has fresh clothes. Full plates. Good shoes. Anyone can do anyting! No politics like home.
+I reply "All the good spots are taken here. I read the papers everyday. The world is changing. It's so big. We could go anywhere, Detroit, Moscow, Argentina, even Japan! We are building railroads, ranches, mills, factories, power stations! Everyone has fresh clothes. Full plates. Good shoes. Anyone can do anyting! No politics like home.
 
 My husband is sealing the window. Our boy helps him push in the rubber. Ruffling noises come from the alley.
 
@@ -3111,9 +3097,120 @@ Three people fall back home.
 
 
 <!--
-- The point of the story is that mythology, philosophy, and science were needed. Each is useful based on the sophiscation of the tool being used and the environment in which its needed.
+- The point of the story is that mythology, philosophy, and science were needed. Each is useful based on the problem, the sophiscation of the tool being used to solve it, and its ability to reciprocate in the environment in which its needed.
 - "From now on we live in a world where man has walked on the Moon. It’s not a miracle; we just decided to go."
 -->
+
+#### Audition
+
+#### Audition
+
+I'm in van two. Four of us. Driver's Dani. Front passenger's Sam. Beside me in the back is Riley.
+
+Riley's phone is propped on the dashboard, running a three-way video call. Vans one and three are small windows in the corners of the screen. We can see them. They can see us.
+
+"They got Maya as concertmaster. Of course."
+
+"Maya's mom is on the board."
+
+"Maya's also good though."
+
+"Maya's *fine*. Daniel should have it. He practices six hours a day."
+
+"Daniel's has the money to pay for the summer institute course. He has to practices six hours a day."
+
+I'm not really listening. The recital is in two hours. I'm playing Beethoven in my head.
+
+Something comes from the right.
+
+Dani swerves. The van turns sideways. The right front catches something. Metal sound. The phone falls off the dashboard.
+
+The van slides onto the shoulder.
+
+"What was that? A raccoon?" someone says.
+
+A deer is on its feet. It runs. It crosses the road into the tall grass on the other side.
+
+We sit there. Nobody says anything.
+
+The phone is on the floor of the van. The charging cable is still connected. The video call is still running. Vans one and three want to know what just happened.
+
+We hear from the phone "Is anyone hurt!"
+
+We check ourselves. We check each other. Nobody is hurt. Sam has a scrape on his arm from the seatbelt. That's it.
+
+Dani gets out. We follow. The right front fender is crumpled a bit. The headlight has some blood on it. The tire is flat.
+
+"We should go look for it," Sam says.
+
+"It ran. It's fine."
+
+"It's not fine. We hit it."
+
+"How are we going help it"
+
+"We have to at least find out."
+
+The video call is still going. Van one is asking where we are. Van three is asking if they should come back.
+
+"No, don't come back. Then we're all screwed. We'll see if we can make it."
+
+"What do we do?...Do you have insurance?"
+
+Dani says, "Maybe, I don't know. Check the glove box."
+
+Some looks, finds manuals, tickets, ownership and a policy card. 
+
+"There's a phone number."
+
+We call the number. Puts it on speaker.
+
+"Thank you for calling claims, how can I help you?"
+
+"We were in a crash. A deer came out of nowhere."
+
+"Good. Is anyone injured?"
+
+"No."
+
+"That is good to hear. Okay, can you tell me your policy number? And your name."
+
+"8123429. Dani Williams."
+
+"Okay. Tell me what happened"
+
+"We're on our way to a recital for our music group in Jamesville. And this deer came out of nowhere. I swerved, but I think i caught it a bit. It ran into the woods. Should I call animal control."
+
+"I wouldn't think so. It's part of nature again. The recital is in two hours, you said?"
+
+"Yes."
+
+"Is your car driveable?"
+
+"It's fine. The tire is flat though."
+
+Riley says, "Have any of us ever changed a tire?"
+
+Nobody has.
+
+"I can send a tow truck, but that'll be a few hours. If you feel comfortable, you can try changing the tire. Do you have a pencil?"
+
+"What?"
+
+"Do you have a pencil. Or a pen. Something to write with."
+
+Sam checks his music folder. He has a pencil.
+
+"Yes."
+
+"Write my phone number in case the call drops. Write down the number to call if you need a tow after all."
+
+On the video we here Mr. Simpson re-assigning our positions "Jack, you're lead tuba. Stephanie you're on bass. You don't want to. Too bad..."
+
+The adjuster says "Still got that pencil?
+
+
+
 
 #### Leftovers
 
@@ -3128,7 +3225,7 @@ Three people fall back home.
 - calls in claim
 - last queue call
 - Germans on boats watching Julius bridge.
-- Socratic dialogue. filtering out what people already know.
+- Socratic dialogue. Uncovering/filtering out what people already know with questions and contradictions, and questions some more.
 - Marcus to Commodus. gold to rust. genes mean so little.
 - a merchant watching the city, Westphalia/Mungster
 - i am this, i am that. music? one person, to a group, to a choir, to a symphony.... and etc. filling gaps and niches....
@@ -3160,6 +3257,16 @@ Three people fall back home.
 
 - "Baran: No: It's the first moment where individual stubbornness matters—but only because the environment allows it. If AT&T were the only path forward (like Gosplan for Glushkov), Baran's refusal would be irrelevant. This would make explicit what's implicit: Baran's refusal only matters because his environment has other niches. AT&T says no. RAND says yes. That's the difference.
 
+- we think we create new technology. the realization that makes our present and future make more sense is that at some point technology started to create us.
+
+- see our lives/jobs not as bro vs fighting over tech to advance their genes but as on independent (tech) ecosystem that we harness/car for, like a farmer from foraging to farming.
+
+- identity shift as genetic shift!
+
+- Take a moment to list three tools you rely on daily. For each, ask: How did this tool change the way I solve a problem? What would happen if I lost it tomorrow? Which new tool could replace or augment it tomorrow?”
+
+- why does evolution favor bigger organism, until a high pressure/extinction event?
+
 ---
 
 ## Chapter 13 - Epilogue
@@ -3177,11 +3284,28 @@ https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
 "There's no evidence of natural selection at all." 
 
-Evolution didn't just disappear 2,000 years ago. Countless lives have come and gone. Ash trees, chesnut trees are decimated. Thousands of species are extinct. Entropy keeps on making disorder. Life is still around, and thus has been making more order to keep passing the torch.
+The world is falling apart.
+
+I don't mean that metaphorically. I mean it scientifcally. That is what the rise in entropy is. Mountains becoming sand. Cars rusting away. etc.
+
+The question is, can we order it more than it falls apart.
+
+And we can't. We don't know how. Often the people in charge are too use to old enviroments and tools that don't exist. And the kids are so enraptured with storytelling, they think their inability to buy a house or get a job is because of stuff that happened decades or centuries ago.
+
+Like those Germans watching Julius Caesar bring his bridge, we see the future, we don't know how to build it. No one does. There are no Romans to learn from, because no one has been to this environment before.
+
+We can't cross the river, so we're stuck on one bank....
+
+
+
+
+
+
+Evolution didn't just disappear 2,000 years ago. Countless lives have come and gone. Ash trees, chestnut trees are decimated. Thousands of species are extinct. Entropy keeps on making disorder. Life is still around, and thus has been making more order to keep passing the torch.
 
 What has changed in humanity, in the past 2,000 years is technology.
 
-And human using tools are the playing the Game of Technological Life.
+And humans using tools are the playing the Game of Technological Life.
 
 A car crash is a moment of selection. And you and your tools are the unit of selection.
 
@@ -3191,7 +3315,7 @@ The cars are wounded and likely total losses. That is much material being disorg
 
 The implications of this realization are huge. But we'll discuss those later in Book II Mixed Ideological Politics and Book III Bumblebee Economics.
 
-For now, this book's missions is simply about you realizing we are technological beings. This isn't a new idea something we must create, it's something we should realize is already effectively true.
+For now, this book's mission is simply about you realizing we are technological beings. This isn't a new idea something we must create, it's something we should realize is already effectively true.
 
 Touch your tail-bone. 
 
@@ -3201,17 +3325,21 @@ It's noise.
 
 We have tailbones and no tails. It's a leftover from a by gone age. 
 
-Your old identities are similar. Artifical selection that has purpose only if we decide it does. They could be important. There is nothing wrong with enjoying music festival with a large crowd or reading history. But these can't select you for success. How could radiation, cold, heat, affect you differently because you like goth music over rock.
+Your old identities are similar. Artificial selection that has purpose only if we decide it does. They could be important. There is nothing wrong with enjoying music festival with a large crowd or reading history. But these can't select you for success. How could radiation, cold, heat, affect you differently because you like goth music over rock.
 
 If one music motivates you to exercise, grow healthy food, install solar panels, great. But it's turning disorder into order that passes the test, no the calls of the lifeforms.
 
-Let me ask is a different way.
+Let me ask in a different way.
 
 Do you think a tiger wants to be orange? 
 
-A tiger's orange with stripes are unique an cool, but that's not who they want to be. It's who the coach said could have the job. Grazers needs to be held in check or they would devour their ecoystem to their own demise. Therefore catching enough grazers to keep them in check is the job for a predator. And deer can't see red or orange.
+A tiger's orange with stripes are unique a cool, but that's not who they want to be. It's who the coach said could have the job. Grazers need to be held in check or they would devour their ecosystem to their own demise. Therefore catching enough grazers to keep them in check is the job for a predator. And deer can't see red or orange.
 
 Orange is the uniform of the tiger's predator job. If deer ever see red, tigers would need a new uniform. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which it lives.
+
+We didn't choose to be technological beings—the environment selected for it. Technology became our "uniform" for the job of survival.
+
+The rest is noise and tailbones.
 
 Learning to speak was my job. Learning the insurance rules and regulations was my job. Adapting tools to shut that f'in bell up is a job. 
 
@@ -3227,7 +3355,9 @@ Humans play the Game of Life. Most of time we play it with tools, but that is th
 
 And this moment of a single car crash is a moment of selection. As is a seed trying to take root into soil and find water and sunshine. A fly looking for nectar. A predator chasing a herbivore.
 
-Everyone working together inside an ecosystem to make sure energy, nutrients, and water is continually passed, as a torch, form being to being with the most important requirement being we do not use it up, by always make us of it, being passing it along.
+Identity follows function, if it's every the reverse, a self-aware person knows something is wrong.
+
+Everyone working together inside an ecosystem to make sure energy, nutrients, and water is continually passed, as a torch, from being to being with the most important requirement being we do not use it up, by always make us of it, before passing it along.
 
 Our game is different because of us and our minds.
 
@@ -3255,11 +3385,23 @@ But for the moment, it only matters that you realize this crash is selection. I 
 
 We call car crashes accidents, but they rarely are. Someone ran the red light and will probably lie about it. Police will arrive, ear both stories, and declare 50/50, and you'll yell at your insurance adjuster for being bound to that fault determination.
 
+Your situation has happened before.
+
+- The problems you have, are not problems of evolutiion, but problems of identities.
+- Technology to us is like bees and flowers. Except the flower is changinig under our feet, using our hands, but we don't realiize that one day, we won't know how to use the flower to get the pollen we need.....
+- Tech identity lets us emulate every other species, and intake the signals, smells, colors, relevent to us (like a bee ignoring all the colors without pollen per its eyesight), and we can concentrate on our place in the ecosystem, and enjoy the resultiing peace of mind because "animals are born free, and eveywhere seem to be enjoying themselves."
+
+---
+
+Marcus Aurelius, Commodus
+
+Distance from the frontline removes the learnings of the environment and thus pisses off evolution....this story has so many adaptions in the human history.
+
+King Charles
 
 
 
-
-
+### Socratic Pencil
 
 
 
