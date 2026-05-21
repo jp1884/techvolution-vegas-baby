@@ -3282,7 +3282,7 @@ https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
 ### Chapter 13
 
-"There's no evidence of natural selection at all." 
+"There's no evidence of natural selection at all."  There has been. But human biological stopped being selected.
 
 The world is falling apart.
 
@@ -3290,16 +3290,15 @@ I don't mean that metaphorically. I mean it scientifcally. That is what the rise
 
 The question is, can we order it more than it falls apart.
 
-And we can't. We don't know how. Often the people in charge are too use to old enviroments and tools that don't exist. And the kids are so enraptured with storytelling, they think their inability to buy a house or get a job is because of stuff that happened decades or centuries ago.
+And, today we can't. We don't know how. Often the people in charge are too use to old enviroments and tools that don't exist. And the kids are so enraptured with storytelling, they think their inability to buy a house or get a job is because of stuff that happened decades or centuries ago.
 
-Like those Germans watching Julius Caesar bring his bridge, we see the future, we don't know how to build it. No one does. There are no Romans to learn from, because no one has been to this environment before.
+Rememer when Machiavelli mentioned the Germans watching Julius Caesar bring his bridge. That actually happened, twice..  Likewise, we see the future, we don't know how to build it. No one does. There are no Romans to learn from, because no one has been to this internet, smartphone, AI, environment before.
 
-We can't cross the river, so we're stuck on one bank....
+Heck, most modern technology is lucky to even by alive for all the support we give it.
 
+We can't cross the river, so we're stuck on one bank, suffering the problems we talked about at the start of this book. Rising polarization, housing costs, all that jazz.
 
-
-
-
+But problems are not.
 
 Evolution didn't just disappear 2,000 years ago. Countless lives have come and gone. Ash trees, chestnut trees are decimated. Thousands of species are extinct. Entropy keeps on making disorder. Life is still around, and thus has been making more order to keep passing the torch.
 
@@ -3307,39 +3306,45 @@ What has changed in humanity, in the past 2,000 years is technology.
 
 And humans using tools are the playing the Game of Technological Life.
 
-A car crash is a moment of selection. And you and your tools are the unit of selection.
+A car crash is a big moment of selection. And you and your tools are the unit of selection.
 
 Do you realize it?
 
 The cars are wounded and likely total losses. That is much material being disorganized, a big win for disorganization. Of course you could be hurt as well. 
 
-The implications of this realization are huge. But we'll discuss those later in Book II Mixed Ideological Politics and Book III Bumblebee Economics.
+Just because we have memories, histories, personal idenities, doesn't mean we should live inside them.
 
-For now, this book's mission is simply about you realizing we are technological beings. This isn't a new idea something we must create, it's something we should realize is already effectively true.
+The implications of this realization are huge. That human personalities are meant to occupy and operate every bit of an entire economic ecosystem is a big one. But we'll discuss those later in Book II Mixed Ideological Politics and Book III Bumblebee Economics.
+
+For now, this book's mission is simply about you realizing we are technological beings. This isn't a new idea that we should create, it's something we should realize is already effectively true.
 
 Touch your tail-bone. 
 
 I mean that, literally, touch it.
 
-It's noise. 
-
 We have tailbones and no tails. It's a leftover from a by gone age. 
 
-Your old identities are similar. Artificial selection that has purpose only if we decide it does. They could be important. There is nothing wrong with enjoying music festival with a large crowd or reading history. But these can't select you for success. How could radiation, cold, heat, affect you differently because you like goth music over rock.
+It's noise.
 
-If one music motivates you to exercise, grow healthy food, install solar panels, great. But it's turning disorder into order that passes the test, no the calls of the lifeforms.
+Evolution can't select you for it. And neither can it for your skin color, facial features, or any other artifacts from your history.
+
+Our old identities are similar. Artificial selection that has purpose only if we decide it does. They could be important. There is nothing wrong with enjoying music festival with a large crowd or reading history. But these can't select you for success. How could radiation, cold, heat, affect you differently because you like goth music over rock.
+
+If one music motivates you to exercise, grow healthy food, install solar panels, great. But it's turning disorder into order that passes the test.
 
 Let me ask in a different way.
 
 Do you think a tiger wants to be orange? 
 
-A tiger's orange with stripes are unique a cool, but that's not who they want to be. It's who the coach said could have the job. Grazers need to be held in check or they would devour their ecosystem to their own demise. Therefore catching enough grazers to keep them in check is the job for a predator. And deer can't see red or orange.
+A tiger's orange with stripes are unique a cool, but that's not who they want to be. It's who the coach said could have the job. Grazers need to be held in check or they would devour their ecosystem to their own demise. Therefore catching enough grazers to keep them in check, without killing them all, is the job for a predator inside healthy, balanced, reciprocating ecosystem.
 
-Orange is the uniform of the tiger's predator job. If deer ever see red, tigers would need a new uniform. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which it lives.
+And deer can't see red or orange.
 
-We didn't choose to be technological beings—the environment selected for it. Technology became our "uniform" for the job of survival.
+Therefore prange is the uniform of the tiger's predator job. If deer ever see red, tigers would need a new uniform. The tiger's identity is relative to the needs, wants, and abilities of the ecosystem in which it lives.
 
-The rest is noise and tailbones.
+We didn't choose to be technological beings—the environment selected for it. Different technology became our "uniform" for the job of survival.
+
+The rest tailbones and artificial noise.
 
 Learning to speak was my job. Learning the insurance rules and regulations was my job. Adapting tools to shut that f'in bell up is a job. 
 
