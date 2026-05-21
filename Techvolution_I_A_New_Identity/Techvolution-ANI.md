@@ -3103,8 +3103,6 @@ Three people fall back home.
 
 #### Audition
 
-#### Audition
-
 I'm in van two. Four of us. Driver's Dani. Front passenger's Sam. Beside me in the back is Riley.
 
 Riley's phone is propped on the dashboard, running a three-way video call. Vans one and three are small windows in the corners of the screen. We can see them. They can see us.
@@ -3117,7 +3115,7 @@ Riley's phone is propped on the dashboard, running a three-way video call. Vans 
 
 "Maya's *fine*. Daniel should have it. He practices six hours a day."
 
-"Daniel's has the money to pay for the summer institute course. He has to practices six hours a day."
+"Daniel has the money to pay for the summer institute course. He has to practice six hours a day."
 
 I'm not really listening. The recital is in two hours. I'm playing Beethoven in my head.
 
@@ -3135,7 +3133,7 @@ We sit there. Nobody says anything.
 
 The phone is on the floor of the van. The charging cable is still connected. The video call is still running. Vans one and three want to know what just happened.
 
-We hear from the phone "Is anyone hurt!"
+We hear from the phone: "Is anyone hurt?"
 
 We check ourselves. We check each other. Nobody is hurt. Sam has a scrape on his arm from the seatbelt. That's it.
 
@@ -3147,7 +3145,7 @@ Dani gets out. We follow. The right front fender is crumpled a bit. The headligh
 
 "It's not fine. We hit it."
 
-"How are we going help it"
+"How are we going to help it?"
 
 "We have to at least find out."
 
@@ -3155,15 +3153,17 @@ The video call is still going. Van one is asking where we are. Van three is aski
 
 "No, don't come back. Then we're all screwed. We'll see if we can make it."
 
-"What do we do?...Do you have insurance?"
+"What do we do? Do you have insurance?"
 
 Dani says, "Maybe, I don't know. Check the glove box."
 
-Some looks, finds manuals, tickets, ownership and a policy card. 
+On the video we hear Mr. Simpson reassigning our positions. "Jack, you're lead tuba. Stephanie, you're on bass. You don't want to play it? Too bad."
+
+Sam looks, finds manuals, tickets, ownership and a policy card.
 
 "There's a phone number."
 
-We call the number. Puts it on speaker.
+We call the number. Dani puts it on speaker.
 
 "Thank you for calling claims, how can I help you?"
 
@@ -3173,42 +3173,7 @@ We call the number. Puts it on speaker.
 
 "No."
 
-"That is good to hear. Okay, can you tell me your policy number? And your name."
-
-"8123429. Dani Williams."
-
-"Okay. Tell me what happened"
-
-"We're on our way to a recital for our music group in Jamesville. And this deer came out of nowhere. I swerved, but I think i caught it a bit. It ran into the woods. Should I call animal control."
-
-"I wouldn't think so. It's part of nature again. The recital is in two hours, you said?"
-
-"Yes."
-
-"Is your car driveable?"
-
-"It's fine. The tire is flat though."
-
-Riley says, "Have any of us ever changed a tire?"
-
-Nobody has.
-
-"I can send a tow truck, but that'll be a few hours. If you feel comfortable, you can try changing the tire. Do you have a pencil?"
-
-"What?"
-
-"Do you have a pencil. Or a pen. Something to write with."
-
-Sam checks his music folder. He has a pencil.
-
-"Yes."
-
-"Write my phone number in case the call drops. Write down the number to call if you need a tow after all."
-
-On the video we here Mr. Simpson re-assigning our positions "Jack, you're lead tuba. Stephanie you're on bass. You don't want to. Too bad..."
-
-The adjuster says "Still got that pencil?
-
+"Take down my number in case the call drops. Do you have a pencil?"
 
 
 
@@ -3365,6 +3330,12 @@ Identity follows function, if it's every the reverse, a self-aware person knows 
 Everyone working together inside an ecosystem to make sure energy, nutrients, and water is continually passed, as a torch, from being to being with the most important requirement being we do not use it up, by always make us of it, before passing it along.
 
 Our game is different because of us and our minds.
+
+The giving tree is dead. 
+
+The buildings, schools, power stations, roads, our ancestors planted are dying. I don't mean in a metaphorical way. I mean in aging happens, entropy increases, this fall apart.
+
+And we're using words to try to justify we, per race, greed, gender, deserve the dwelingl share of the pie.
 
 We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard as it did when elders used stories to teach oceanic navigation or philosophers started to question those stories for a more natural truth.
 
