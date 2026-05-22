@@ -2321,6 +2321,8 @@ Three notebooks fill with observations.
 
 #### The Resistance
 
+<!-- Charles is broke, no money from the giving tree -->
+
 I enter the Commons with soldiers behind me.
 
 This shouldn't be necessary.
@@ -3101,43 +3103,51 @@ Three people fall back home.
 - "From now on we live in a world where man has walked on the Moon. It’s not a miracle; we just decided to go."
 -->
 
-#### Audition
+#### Selection
 
-I'm in van two. Four of us. Driver's Dani. Front passenger's Sam. Beside me in the back is Riley.
+I've been waiting for this recital for months. First chair trumpet. Scouts from the top colleges will be watching.
 
-Riley's phone is propped on the dashboard, running a three-way video call. Vans one and three are small windows in the corners of the screen. We can see them. They can see us.
+It's Saturday morning. We're carpooling, three vans, one from each side of town.
 
-"They got Maya as concertmaster. Of course."
+Dani is driving. Sam's in the front seat. Beside me in the back is Riley.
 
-"Maya's mom is on the board."
+Sam's phone is propped on the dashboard. The other two vans are on a video call. We can see them. They can see us.
+
+"He picked Maya as concertmaster. Of course."
 
 "Maya's also good though."
 
-"Maya's *fine*. Daniel should have it. He practices six hours a day."
+"Maya's *fine*. It's not fair. It's bullshit. Money makes the world go round and picks the first chairs."
 
-"Daniel has the money to pay for the summer institute course. He has to practice six hours a day."
+"That's not why she got picked. C'mon, it's so obvious why," someone says from one of the other vans.
 
-I'm not really listening. The recital is in two hours. I'm playing Beethoven in my head.
+I'm not really listening. The recital is in two hours. I'm thinking of Mr. Simpson conducting like he's Beethoven at the premiere of the 9th Symphony.
+
+Notes play in my head as my fingers move.
 
 Something comes from the right.
 
-Dani swerves. The van turns sideways. The right front catches something. Metal sound. The phone falls off the dashboard.
+Dani jerks the wheel hard right. We feel a large thud. The van turns sideways. The right front bumper scrapes the street. Metal screeches.
 
-The van slides onto the shoulder.
+Dani is slamming the brakes and soon stops on the shoulder.
 
-"What was that? A raccoon?" someone says.
+"You hit a raccoon or something?" someone yells.
 
-A deer is on its feet. It runs. It crosses the road into the tall grass on the other side.
+Beside us to the left, a deer is on the road. We stare at it. I've eaten venison, but never seen one this close.
 
-We sit there. Nobody says anything.
+It rises to its feet, then stands there. We all keep looking at it. Riley says, "It's standing."
 
-The phone is on the floor of the van. The charging cable is still connected. The video call is still running. Vans one and three want to know what just happened.
+Then it walks to the other side of the road and into tall grass. It's gone.
 
-We hear from the phone: "Is anyone hurt?"
+Nobody says anything.
+
+The phone is on the floor of the van. The charging cable is still connected. The video call is still running. The other vans are yelling questions.
+
+We hear: "Is anyone hurt? What happened? Where are you guys?"
 
 We check ourselves. We check each other. Nobody is hurt. Sam has a scrape on his arm from the seatbelt. That's it.
 
-Dani gets out. We follow. The right front fender is crumpled a bit. The headlight has some blood on it. The tire is flat.
+Dani gets out. We follow. We circle the van. The right front fender is crumpled a bit. The headlight has some blood on it. The tire is flat.
 
 "We should go look for it," Sam says.
 
@@ -3149,31 +3159,48 @@ Dani gets out. We follow. The right front fender is crumpled a bit. The headligh
 
 "We have to at least find out."
 
-The video call is still going. Van one is asking where we are. Van three is asking if they should come back.
+The video call is still going. Riley picks it up and says, "They just got there but they want to come get us."
 
-"No, don't come back. Then we're all screwed. We'll see if we can make it."
+I say, "No, don't. Then we're all screwed."
 
-"What do we do? Do you have insurance?"
+"What do we do? Do you have insurance?" Riley asks Dani.
 
 Dani says, "Maybe, I don't know. Check the glove box."
 
-On the video we hear Mr. Simpson reassigning our positions. "Jack, you're lead tuba. Stephanie, you're on bass. You don't want to play it? Too bad."
+Sam opens the glove box, finds manuals, tickets, ownership and an insurance policy card.
 
-Sam looks, finds manuals, tickets, ownership and a policy card.
+On the video we hear someone say, "We're with Mr. Simpson. He's asking, was anyone hurt?"
 
-"There's a phone number."
+We all reply: we're fine, it's just the tire, we're calling insurance now.
 
-We call the number. Dani puts it on speaker.
+We hear Mr. Simpson reassigning our positions. "Jack, you're lead tuba. Stephanie, you're on bass. You don't want to play it? Too bad. Jill, you're first trumpet."
+
+I freeze. That's my chair. Those are my scouts.
+
+"I got the phone number," Sam says.
+
+We call. Dani puts it on speaker.
 
 "Thank you for calling claims, how can I help you?"
 
 "We were in a crash. A deer came out of nowhere."
 
-"Good. Is anyone injured?"
+"Is anyone injured?"
 
-"No."
+"No. We're in the middle of nowhere. We're on our way to a recital."
 
-"Take down my number in case the call drops. Do you have a pencil?"
+"Maybe we can get you to your recital. You'll need to take down numbers and names."
+
+I take the phone. "What do we need to do?"
+
+"Do you have a pencil?"
+
+#### Last Call
+
+my last two insurance call-in queue claims calls were.
+
+- mast last auto call, young lady reports a claim. she was downtown having fun in the big city. she got into a sideswiped accident. commonly both drivers dispute which changed lanes, so the crash is 50/50 at fault. however she tells me she was charged for careless driver and improper lane change. i was happy because this means the cops settled liability. she informs me the other driver has  a dashcam, and the crash was recorded, after seeing it, the cops charged her. i figure this is an easy claim as there's no dispute who is at fault. she however still disputes her 100% at fault rating I apply to her claim. she says "think of it, how bad of a driver does the other guy have to be, to need a dash cam" i was perplexed and happy that I'll never have to handle this types of claims again.
+- my last queue call was right after. it was from a farmer, who was starting a claim for one of  his cows that got hit by lightning.
 
 
 
