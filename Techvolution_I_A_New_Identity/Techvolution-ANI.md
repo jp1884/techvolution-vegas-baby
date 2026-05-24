@@ -3182,6 +3182,16 @@ Then a program to heal society a little faster, hold back entropy, and happily s
 And shut that bell up forever.
 
 
+- when a tree makes an edible but, that's a pencil.
+- when the squirrel plants a tree, that's a pencil.
+- and so on
+- so, what pencil have you made? are you getting pencils from anyone?
+- words are communication, which are signals often within species, not pencils
+- you are a technical animal inside an ecosystem. the words you are hearing are.... 
+- we suffer today, because we are experience evolution. we are experiencing the failure of being mammoths.
+- we refuse to look at, know, and assess the pain of the frontline, for Charles II reasons...
+- and yet, the frontline is where entropy either increases or decreases with the creation of new forms of life
+- which we will do faster and better, once we have a self-realization of our technological identity.
 
 
 
