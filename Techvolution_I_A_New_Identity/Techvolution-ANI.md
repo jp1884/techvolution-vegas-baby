@@ -1587,6 +1587,34 @@ The flock moves south.
 - should note interactions/teamwork/collaborations more. 
 -->
 
+#### Ants Build
+
+Egg hatches. Larva grows. Body hardens. Legs move. Antennae touch. Scent sisters nearby. Sister moving. Move. Smell area. Scent dirt. Scent cold. Scent fresh air up. Move.
+
+Grab cold soil. Move. Air stale. Move. Air fresh. Move. Air fresher. Move light bright. Air fresh. Ground flat. Scent follow sisters. Drop soil. Return. Grab soil. Move. Drop soil. Return. Follow sisters.
+
+Chamber forms.
+
+Grab more. Air stale. Drop more. Air fresh. Eggs go here. Food goes there. 
+
+Cold. Dark. Air moist. Soil colder. Soil moist.
+
+Liquid in chamber!
+
+Move eggs! Eggs in danger!
+
+Grab soil. Drop soil. Make wall. 
+
+Grab eggs. Carry higher. higher. Liquid surrounds. Grip soil. Grip. Heavy pushing. Grip. Water takes.
+
+Liquid drains. Air dry. Soil dry.
+
+Scent on the wind. Food. Follow scent. Sister ahead. Sister behind. Line moves. Seed found. Too big. More sisters come. Lift together. Carry together. Seed to chamber. Store it.
+
+Cold comes. Huddle deep. Wait. Warm returns. Work resumes....
+
+
+
 #### Chameleon
 
 Area is dark. Little light breaks open. Chameleon is cold. 
@@ -2401,6 +2429,8 @@ More bells ring.
 
 I will summon the militia. I will do what a king must do and protect his people. My ancestors used sword and spear. I must use gun and cannon. 
 
+<!-- sycophants-->
+
 "Call the Banners, Rally at Nottingham."
 
 I hear my advisors speak about the long waging wars on the Continent, Gustavus Adolphus of Sweden has created a new model for armies to great effect. Promotion on merit, constant pay.
@@ -2414,6 +2444,16 @@ I look up at the painting of my father. Many stories high and wide. Finer than a
 I will return father. I will do our house justice. I will save the Realm. I will save the people.
 
 I am their king.
+
+--
+
+"Then I'll have to go work for them."
+
+Men of war.
+
+"Separation of power."
+
+"Separation of theology and government."
 
 #### Universal Laws
 
@@ -3113,11 +3153,15 @@ Three people fall back home.
 
 **Thank you for calling claims, my name is Peter, how can I help you?**
 
-Insurance broker looking for an update on a rental car status.
+An insurance broker looking for an update on a rental car status. I can help you with that. 5 mins. Approve additional rental days if there was a mistake somewhere or the call goes too long.
 
 **BEEP.**
 
-Property claim. Insured is unhappy and wants to speak to a manager. Escalation.
+**Thank you for calling claims, my name is Peter, how can I help you?**
+
+You're calling to discuss a property claim. You are unhappy and want to speak to a manager. Escalation. I'm going to the property department soon. It going to be so much better.
+
+**BEEP.**
 
 **Thank you for calling claims.**
 
@@ -3397,7 +3441,8 @@ King Charles
 
 ### Socratic Pencil
 
-
+- why socrates never wrote anything down. 
+- to test the longevity and truth, and nature, of any human belief system, just judge, how many pencils does it create and distribute.
 
 
 
