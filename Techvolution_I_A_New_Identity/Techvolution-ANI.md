@@ -1413,7 +1413,7 @@ The last stem grows tall, thin, slow. It reaches higher than the others. Leaves 
 
 Flowers burst. Pollen in wind. Seeds form. Seeds fall.
 
-Soil deepens. Sois spreads. More life.
+Soil deepens. Soil spreads.
 
 Light changes. It dims. Not gradually. This dimming persists. Days pass. Light does not return.
 
@@ -1578,7 +1578,7 @@ One bird flies slow. Falls behind. No neighbors. Shadow finds. Crunch.
 
 Birds that match. Birds that stay close. Eggs hatch.
 
-The flock rises. Flock sees many trees. Many crocdiels. Many mammals. 
+The flock rises. Flock sees many trees. Many crocodiles. Many mammals. 
 
 The flock moves south.
 
@@ -1589,31 +1589,61 @@ The flock moves south.
 
 #### Ants Build
 
-Egg hatches. Larva grows. Body hardens. Legs move. Antennae touch. Scent sisters nearby. Sister moving. Move. Smell area. Scent dirt. Scent cold. Scent fresh air up. Move.
+Egg hatches. Larva grows. Body hardens. Legs move. Antennae touch. Scent sisters. Sisters moving. Move. Smell area. Scent dirt. Scent cold. Scent fresh air up. Move.
 
-Grab cold soil. Move. Air stale. Move. Air fresh. Move. Air fresher. Move light bright. Air fresh. Ground flat. Scent follow sisters. Drop soil. Return. Grab soil. Move. Drop soil. Return. Follow sisters.
+Grab cold soil. Move. Air stale. Move. Air fresh. Move. Air fresher. Move. Light bright. Air fresh. Ground flat. Scent follow sisters. Drop soil. Return. Grab soil. Move. Drop soil. Return. Follow sisters.
 
-Chamber forms.
+Chamber starts.
 
-Grab more. Air stale. Drop more. Air fresh. Eggs go here. Food goes there. 
+Scent. Help. Help. Help.
 
-Cold. Dark. Air moist. Soil colder. Soil moist.
+Move. Grab soil. Move. Grab soil. Sister is struck. Move soil. Sister free.
+
+Return.
+
+Grab soil. Air stale. Move. Move. Drop soil. Move. Chamber established. Air fresh. No eggs here. Food goes here. Scent, find food.
+
+Move. Up hill. Down hill. Left right. Wood found. Move up. Move. Thin wood found. Move. Leaf found. Bite. Bite. Bite. Leaf falls. Grab leaf. Move. Move to chamber.
+
+Return. Repeat. Return. Repeat. Dark.
+
+Return. In chamber. Sleep.
+
+Cold. Dark. Air moist. Soil colder. Soil moist. Soil moist. Soil wet.
 
 Liquid in chamber!
 
 Move eggs! Eggs in danger!
 
-Grab soil. Drop soil. Make wall. 
+Grab soil. Drop soil. Grab soil. Drop soil. Liquid in chamber. Make wall.
 
-Grab eggs. Carry higher. higher. Liquid surrounds. Grip soil. Grip. Heavy pushing. Grip. Water takes.
+Wall raised. Wall falls.
+
+Grab eggs. Carry higher. higher. Liquid surrounds. Grip soil. Grip. Heavy pushing. Grip. Help. Help. Help. Water takes.
 
 Liquid drains. Air dry. Soil dry.
 
-Scent on the wind. Food. Follow scent. Sister ahead. Sister behind. Line moves. Seed found. Too big. More sisters come. Lift together. Carry together. Seed to chamber. Store it.
+Chamber gone. Food gone. Eggs gone.
 
-Cold comes. Huddle deep. Wait. Warm returns. Work resumes....
+Move.
 
+Grab soil. Move. Drop soil. Follow sisters. Move.
 
+Chamber forms. Food goes here.
+
+Move. chamber forms. Move. Chamber forms. Move. Many chambers.
+
+Scent on the wind. Food. Follow scent. Sister ahead. Sister behind. Line moves. Leaves on ground. Many leaves on ground. Bite. Cut. Bite. Cut. Big leavess. More sisters come. Lift together. Carry together. Food to chamber. Return.
+
+Return. Repeat. Return. Repeat. Dark.
+
+Return. Sleep.
+
+Cold. Dark. Air moist. Soil colder. Soil moist. Soil moist. Soil wet.
+
+Liquid in chamber!
+
+Move.
 
 #### Chameleon
 
@@ -1801,7 +1831,7 @@ We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. G
 
 We must get here for clay. Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat trees. We need grass.
 
-Deer bring new trees. Deer bring new flowers. Deer bring different.
+Deer mean new trees. Deer mean new flowers. Deer mean different plants.
 
 I see ghost! I see tiger! says Youngest Sister.
 
@@ -1817,71 +1847,81 @@ Three mammoths fall.
 
 #### Giving Tree
 
-Light is high. The foraging party left at dawn. I stay with Mother, learning.
+Light is high. The foraging party left at dawn. Far from our home. Far from the river.
+
+I stay with Mother, learning.
 
 "Scrape this way," she says, showing me the deer hide stretched on the frame. "See? Gentle. Hide tears if you push too hard. We have more time than hides. Take time. Do it right."
 
 I try. The stone scraper is sharp. Bits of flesh come off.
 
-"Good, Kai. Now here. This part still has fat."
+"Good, Kai. Now here. This part has fat. Remove."
 
 I scrape where she points. My arms hurt but I keep working. Whimpering. A puppy wants the scrapes. I throw some fat to it.
 
 "Where do they go?" I ask.
 
-"To gather food. Focus on your work. Cold is coming. 15 new kids need furs. The wounded need furs."
+"To gather precious fruit. Focus on your work. Cold is coming. The kids need furs. The sick need Giving Tree fruit."
 
-"But what is out there?"
+"Why the sick?"
 
-"Trees. Berries. Animals. Scary things." She takes the flint scraper, shows me again. "You will see when you are older. Your job is to clean these hides."
+"Their wounds close faster. We have learned this."
+
+She does not look up from the wood.
+
+"What is out there?"
+
+"Not the river. Not fish. Trees. Fruit. Animals. Scary things." She takes the flint scraper, shows me again. "You will see when you are older. Your job is to clean these hides."
 
 "When will I go?"
 
 "If you live, you will go. We need these hides to live."
 
-I want to ask more, but Mother is already moving to the woodpile. I continue using the flint scraper to clean this hide. I throw the puppy some fat. I try not to look at the pile of 14 others waiting for me.
+I want to ask more, but Mother is already moving to the woodpile. I continue using the flint scraper to clean this hide. I throw the puppy some fat. I try not to look at the 14 waiting for me.
 
-She is gathering wood. I already know how to stack them. "Small sticks first," she taught. "They catch fast. Then bigger wood. Fire needs both." I still can't start a fire very fast.
+She is gathering wood. I already know how to stack them. "Small sticks first," she taught. "They catch fast. Then bigger wood. Fire needs both." I can't start a fire very fast.
 
 She uses flint axe to chop more pieces. I watch her. I know she's thinking the more work done now, the less work later. She loves me. I love her. She teaches me. How to cook food. How to use tools. How to care for wounds.
 
-I want to ask where Giving Tree is. But I do not. Mother will be angry if I ask again. I should keep working.
+I want to ask where Giving Tree is. What is out there. But I do not. Mother will be angry if I ask again. I should keep working.
 
-I keep working. 13 hides to go. 2 hides per day if I'm fast.
+I keep working. 13 hides to go. 2 hides per day.
 
 Then—voices!
 
 "They're back!" I run to see. Puppy follows me.
 
-Eight people emerge from the trees, baskets heavy with food. Children rush to greet them. I see Sarah, Uncle, River Woman. 10 warriors. Four dogs. All safe.
+Our people emerge from the trees, baskets heavy with food. Children rush to greet them. I see Raya, Uncle, River Woman. 18 warriors. Four dogs. All safe.
 
-Sarah sets down her basket and spear. "So much fruit! Giving Tree was full this season."
+Raya sets down her basket and spear. "So much fruit! Giving Tree was full this season."
 
-"How was the battle?"
+Some warriors go to the wounded. Their hair grows in circles. Their mouths bleed. Their wounds are open. They smile at seeing the Giving Tree fruit.
 
-"They fled at our might!" Sarah yells.
+"How was the battle?" the wounded ask.
 
-I stare at the baskets. Red fruit. Mushrooms. Roots. More than I have ever seen.
+"No battle. They saw us. Throw their spears. Some wounded. We run at them. They fled. Scared of our warrior spirit !" Raya smiles.
 
-They gather around the fire. Everyone talks at once. I listen while I carry more wood, but I can't understand much. I want to ask questions but I help Mother instead.
+I stare at the baskets. Giving Tree fruit. Marula. Fig. Mushrooms. Roots. More than I have seen.
+
+We gather around the fire. Everyone talks at once. I listen while I carry more wood, but I can't understand much. I want to ask questions but I help Mother instead.
 
 "Put the fruit in bowls, Kai," Mother says.
 
-The fruit is so ripe, juice runs down my hands. Someone brought fish. We have honey. So much food tonight. So much food to prepare for winter.
+The fig is so ripe, juice runs down my hands. We have much fish. We have honey. So much food tonight. So much precious food to prepare for winter.
 
 While we cook, I hear more.
 
-"The deer were eating the figs. They were close," Uncle says. "But we had enough to carry already."
+"The deer were eating the Giving Tree fruit. They were close," Uncle says. "But we had full baskets already. Maybe we return."
 
 "A child wanted to break a branch from Giving Tree," River Woman says. "We will talk about it over dinner."
 
-Everyone does their job. The foraging group cleans their clothes and tools. We cook the food. We discard the fruit husks, skins, seeds. Cannot eat.
+Everyone does their job. The foraging group cleans their clothes and tools. We cook the food. We discard the fruit husks, skins, seeds. No good. Cannot eat.
 
 We feed the dogs the edible remains.
 
 Children prepare the eating area.
 
-Soon we sit. Then the stories finally start.
+Soon we sit. Then the stories start.
 
 I can't help it. I blurt out: "Where is Giving Tree?"
 
@@ -1889,11 +1929,13 @@ River Woman looks at me. "Far. Four days walk. But you will see it when you are 
 
 "Why can't we break branches?"
 
-"Giving Tree gives many figs every season. We take fruit only. Never hurt the tree. It is sacred."
+"Giving Tree gives many fruit every season. We take fruit only. Never hurt the tree. It is sacred."
 
 Sacred means special. Protected.
 
-We eat. Roots soft from the coals. Sweet fruit. Warm fish. Honey that drips. My belly is full. Night comes. Stars appear. Elder calls the children close.
+We eat. The wounded eat first. Giving Tree fruit will heal them. 
+
+Roots soft from the coals. Sweet fruit. Warm fish. Honey that drips. My belly is full. Night comes. Stars appear. Elder calls the children close.
 
 "Long ago," Elder begins, "when First People walked, the sky was empty. No stars. Only darkness. First People were lost. Hunter was brave. He climbed the highest mountain and called to Sky: We are lost. Give us light. Sky heard. Sky threw fire into darkness. Fire became stars. Hunter found his way home."
 
@@ -1907,23 +1949,25 @@ Elder looks at us. "When does Hunter-Star rise?"
 
 "Good. When do Deer-Stars run low?"
 
-"When fig fruit is coming."
+"When Giving Tree fruit is coming."
 
 "Remember these stories. Teach your children. Stories keep us alive."
 
 I look at the stars. They have names. They teach us things.
 
-Soon the Hunter-Star rose, the stories told us cold season was near. Our hides kept us warm. Our dried food kept us fed.
+Then the Hunter-Star rose, the stories told us cold season was near. Our hides kept us warm. Our dried food kept us fed. The Giving Tree fruit saved four warriors.
 
-Seasons passed. Members passed. I survived. I grew strong.
+Seasons passed. Family passed. Friends passed. I survived. I grew strong.
 
 When the Hunter-Star fell, warm returned. Deer-Star came. I went with the foraging party. 12 warriors, five dogs. We walk. Walk.
 
-I saw Giving Tree. No one there. No one waiting.
+I saw Giving Tree. No enemy there. No one there. No one waiting.
 
-Its leaves are few. Giving Tree is dead. No figs. No feeding deer. 
+Giving Tree looks sick. Leaves are few. No fruit. No baobabs. No deer feeding. 
 
 We keep walking. We gather roots. We gather reeds. Many baskets are still empty. Hunger. Thirst. 11 warriors remain. Two dogs left. We keep walking. Walk to many places new. 
+
+Keep moving.
 
 And we saw something new.
 
@@ -1931,7 +1975,7 @@ We saw people. Different people.
 
 They were not gathering. They were not hunting.
 
-Many men with spears stand in lines. They are surrounding other giving trees. Smaller giving trees. 
+Many men with spears stand in lines. They surround other giving trees. Smaller giving trees. 
 
 Other men are picking fruit from the trees.
 
