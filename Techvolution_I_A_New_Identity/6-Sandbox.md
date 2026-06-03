@@ -3996,6 +3996,64 @@ Regardless, the Vikings and Polynesians abilities are still very remarkable toda
 
 ===
 
+#### Ants Build
+
+Egg hatches. Larva grows. Body hardens. Legs move. Antennae touch. Scent sisters. Sisters moving. Move. Smell area. Scent dirt. Scent cold. Scent fresh air up. Move.
+
+Grab cold soil. Move. Air stale. Move. Air fresh. Move. Air fresher. Move. Light bright. Air fresh. Ground flat. Scent follow sisters. Drop soil. Return. Grab soil. Move. Drop soil. Return. Follow sisters.
+
+Chamber starts.
+
+Scent. Help. Help. Help.
+
+Move. Grab soil. Move. Grab soil. Sister is struck. Move soil. Sister free.
+
+Return.
+
+Grab soil. Air stale. Move. Move. Drop soil. Move. Chamber established. Air fresh. No eggs here. Food goes here. Scent, find food.
+
+Move. Up hill. Down hill. Left right. Wood found. Move up. Move. Thin wood found. Move. Leaf found. Bite. Bite. Bite. Leaf falls. Grab leaf. Move. Move to chamber.
+
+Return. Repeat. Return. Repeat. Dark.
+
+Return. In chamber. Sleep.
+
+Cold. Dark. Air moist. Soil colder. Soil moist. Soil moist. Soil wet.
+
+Liquid in chamber!
+
+Move eggs! Eggs in danger!
+
+Grab soil. Drop soil. Grab soil. Drop soil. Liquid in chamber. Make wall.
+
+Wall raised. Wall falls.
+
+Grab eggs. Carry higher. higher. Liquid surrounds. Grip soil. Grip. Heavy pushing. Grip. Help. Help. Help. Water takes.
+
+Liquid drains. Air dry. Soil dry.
+
+Chamber gone. Food gone. Eggs gone.
+
+Move.
+
+Grab soil. Move. Drop soil. Follow sisters. Move.
+
+Chamber forms. Food goes here.
+
+Move. chamber forms. Move. Chamber forms. Move. Many chambers.
+
+Scent on the wind. Food. Follow scent. Sister ahead. Sister behind. Line moves. Leaves on ground. Many leaves on ground. Bite. Cut. Bite. Cut. Big leavess. More sisters come. Lift together. Carry together. Food to chamber. Return.
+
+Return. Repeat. Return. Repeat. Dark.
+
+Return. Sleep.
+
+Cold. Dark. Air moist. Soil colder. Soil moist. Soil moist. Soil wet.
+
+Liquid in chamber!
+
+Move.
+
 #### Selection
 
 <!-- unused vignette -->

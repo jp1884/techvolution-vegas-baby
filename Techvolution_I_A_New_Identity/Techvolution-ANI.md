@@ -1346,7 +1346,7 @@ Xenophanes, Greek Philosopher 6th Century BC.
 
 Humans play the Game of Life. Most of time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
 
-The laws of physics, chemistry, and geology still reign. They interact to create an emergent game board. Entropy wears down our homes, spoils our food, and puts timers on the entire human experience. Life continually inspires modifications of existing forms, while evolution determines which offspring survive to represent life's future.
+The laws of physics, chemistry, and geology still reign. They interact to create an emergent game board. Entropy wears down our homes, spoils our food, and puts timers on the entire human experience. Life continually creates modifications of existing forms, while natural selection determines which offspring survive to represent life's future.
 
 Our game is different because of us. We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade.
 
@@ -1587,63 +1587,7 @@ The flock moves south.
 - should note interactions/teamwork/collaborations more. 
 -->
 
-#### Ants Build
 
-Egg hatches. Larva grows. Body hardens. Legs move. Antennae touch. Scent sisters. Sisters moving. Move. Smell area. Scent dirt. Scent cold. Scent fresh air up. Move.
-
-Grab cold soil. Move. Air stale. Move. Air fresh. Move. Air fresher. Move. Light bright. Air fresh. Ground flat. Scent follow sisters. Drop soil. Return. Grab soil. Move. Drop soil. Return. Follow sisters.
-
-Chamber starts.
-
-Scent. Help. Help. Help.
-
-Move. Grab soil. Move. Grab soil. Sister is struck. Move soil. Sister free.
-
-Return.
-
-Grab soil. Air stale. Move. Move. Drop soil. Move. Chamber established. Air fresh. No eggs here. Food goes here. Scent, find food.
-
-Move. Up hill. Down hill. Left right. Wood found. Move up. Move. Thin wood found. Move. Leaf found. Bite. Bite. Bite. Leaf falls. Grab leaf. Move. Move to chamber.
-
-Return. Repeat. Return. Repeat. Dark.
-
-Return. In chamber. Sleep.
-
-Cold. Dark. Air moist. Soil colder. Soil moist. Soil moist. Soil wet.
-
-Liquid in chamber!
-
-Move eggs! Eggs in danger!
-
-Grab soil. Drop soil. Grab soil. Drop soil. Liquid in chamber. Make wall.
-
-Wall raised. Wall falls.
-
-Grab eggs. Carry higher. higher. Liquid surrounds. Grip soil. Grip. Heavy pushing. Grip. Help. Help. Help. Water takes.
-
-Liquid drains. Air dry. Soil dry.
-
-Chamber gone. Food gone. Eggs gone.
-
-Move.
-
-Grab soil. Move. Drop soil. Follow sisters. Move.
-
-Chamber forms. Food goes here.
-
-Move. chamber forms. Move. Chamber forms. Move. Many chambers.
-
-Scent on the wind. Food. Follow scent. Sister ahead. Sister behind. Line moves. Leaves on ground. Many leaves on ground. Bite. Cut. Bite. Cut. Big leavess. More sisters come. Lift together. Carry together. Food to chamber. Return.
-
-Return. Repeat. Return. Repeat. Dark.
-
-Return. Sleep.
-
-Cold. Dark. Air moist. Soil colder. Soil moist. Soil moist. Soil wet.
-
-Liquid in chamber!
-
-Move.
 
 #### Chameleon
 
@@ -2051,9 +1995,9 @@ Elder smiles. "If the gods will it."
 
 #### The Limits of Signs
 
-The merchant ship rounds the headland at dawn. I've sailed from Phasis, Sinope, and every port in between. My hold is full of wares—Persian textiles, Scythian gold, carved ivory from far beyond. Three months of favorable winds. Poseidon has been kind.
+The merchant ship rounds the headland at dawn. I've sailed from Phasis, Sinope, and every port in between. My hold is full of wares—Eastern textiles, Scythian gold, carved ivory from far beyond. Three months of favorable winds. Poseidon has been kind.
 
-But as we approach the Rhodes harbor, I see something is wrong.
+But as we approach the Lindos harbor, I see something is wrong.
 
 Half the town is gone. Where warehouses stood, there is only rubble. Fishing boats lie shattered far up the beach. People move through debris, placing scraps on carts.
 
@@ -2075,7 +2019,7 @@ We walk on. An old woman sits beside temple ruins, sobbing.
 
 "Poseidon," she says. "The earth-shaker's wrath."
 
-I don't correct her. I've seen three earthquakes in twenty years of sailing—Crete, Kos, now Rhodes. Always near volcanic islands. Now two followed by waves. I don't know why. But I know where to avoid anchoring in winter.
+I don't correct her. I've seen three earthquakes in twenty years of sailing—Crete, Kos, now Lindos. Always near islands. Always near deep water. Now two followed by waves. I don't know why. But I know where to avoid anchoring in winter.
 
 A fisherman approaches, hands bleeding. "Twenty-eight days ago. The ground shook. Then the water pulled back, past the outer rocks. Then the god sent his wave. Tall as three men. Forty homes gone. Seventy-three dead."
 
@@ -2113,7 +2057,7 @@ The crowd murmurs, uncertain.
 
 "Build the temple. Honor the gods. I look forward to the festivals." Thales turns toward the hill. "But if anyone wishes to discuss what patterns we might observe, I'll be there."
 
-I trade with the Raven, an Illyrian named Agapius. A knife, shovels, and cloaks, for gold he's found.
+I trade with the Raven, an Illyrian named Teuta. A knife, shovels, and cloaks, for gold he's found.
 
 I shake his hand hard. "Rebuild. We are Greeks."
 
@@ -2177,53 +2121,49 @@ That year, the aqueduct brought water from the mountains. The road beside it car
 
 My farm continued and a new city rose.
 
-#### Averroes - Height of Reason
+### Averroes - Height of Reason
 
-Water flows through carefully graded channels, the gradient so precise that it travels from mountain springs to vast irrigation fields without a single pump. The acequia irrigation system spreads across the countryside, feeding orchards that stretch to the horizon.
+Water flows through carefully graded channels, the gradient so precise that it travels from mountain springs to vast irrigation fields without a single pump. The *acequia*—the web of channels that carries the mountain water across the dry country—spreads to the horizon, feeding orchards no rain alone could keep. Men walk the channels each morning, clearing silt, checking the fall of the water finger-width by finger-width.
 
-In the great courtyard, two students bend over their paper sheets, each drawing a different triangle—one tall and narrow and one with sides nearly equal. Another student is looking at the great noria wheel lifting water to the upper channels.
+In the great courtyard, two students bend over their paper sheets, each drawing a different triangle—one tall and narrow, one with sides nearly equal. A third holds an astrolabe to the afternoon sky—a disk of engraved brass, the heavens mapped in metal, by which a man can measure a star's height and read back his own place beneath it. He turns it, frowning.
 
-The youngest student sets down his reed pen. "Teacher, the *acequia*—how did the engineers know the gradient? They made water flow precisely through rock and earth."
+The youngest sets down his reed pen. "Teacher, the *acequia*—how did the engineers know the gradient? They made water flow across the whole country without spilling, without a single pump."
 
-Averroes smiles, proud.
+"Geometry." Averroes taps the paper. "The same Euclid proved in Alexandria, Al-Khwarizmi made into algebra. Water falls at the same rate here as in Baghdad, as in Rome before us. If you can do the math."
 
-"Geometry," Averroes says to his young pupil.
+"But those are Greeks and Persians," another says. "We're not them."
 
-"The same principles Euclid proved in Alexandria. Al-Khwarizmi refined into algebra. The same mathematics that guides water through channels."
+"Mathematics needs no tongue." Averroes is quiet a moment. "What we discover in Arabic today, Christians will read in Latin tomorrow—if our work reaches them. When we copy, calculate, write it down, we keep the proof alive for the next mind. Because a man dies. A library burns. The proof must live somewhere a fire cannot reach all at once."
 
-"But those are Greeks and Persians," another student says. "We're not them."
+He takes the astrolabe from the third student, holds it to the light.
 
-"Mathematics needs no translation." Averroes taps the paper. "What the Egyptians discovered, the Greeks advanced, Al-Khwarizmi perfected. What we study today in Arabic, Christians will read tomorrow in Latin. Water flows at the same rate here as it does across the empires of history and today. If you can do the math."
+"Do you understand what this is? A captain a thousand miles from any coast he has seen, takes a star's height with this brass, opens his tables, and knows where he stands on an ocean. We turn the faithful toward Mecca anywhere we are. We tell the farmer the night the river will rise, and it rises. We say the moon will darken three years hence, on such a day, in the third hour—and three years on, on that day, in that hour, it darkens." He sets it down.
 
-The youngest student hesitates. "Teacher, if mathematics is so perfect... why do the navigators constantly update their star tables? My father tells me that every few decades, new corrections to Al-Battani's planetary positions are needed. But he never tells me why."
+"We learned all this, about a sky we cannot touch, using the reason and mind God gifted us."
 
-Averroes says, "Because our instruments improve. Al-Battani gave us better tables than Ptolemy, but even he worked within the framework—Earth at the center, planets in circular motion, epicycles to account for irregularities. We refine the parameters as our observations become more precise."
+The youngest student lifts a worn star table from the bench—Al-Battani's, copied and recopied, the ink soft at the folds. "Then why does my father keep two star tables, Teacher? The old table and a new one. He says every few decades the numbers must be corrected, or the ships miss their harbors. If the mathematics is so perfect, why does it drift?"
 
-"But Teacher, you say the celestial spheres must move in perfect circles because that is their nature—Aristotle proved this. Yet Ptolemy's *equant* makes them speed up and slow down as they orbit. How can both be true?"
+"Because the sky does not hold still for us, and our eyes were poorer than our grandsons' will be." Averroes does not look away from him. "The acequia silts up too. We clear it every morning. In the same way, the table is not the heavens. It is our best account of them, and an account must be kept—corrected, recopied, carried forward—or it rots like anything left untended. This is the work we do."
 
-Averroes is quiet for a long moment.
+The boy holds the table up against the astrolabe and the sky. "Then which is right tonight? The table says the planet should sit here." He points. "It sits there." He moves his finger a hand's width. "By this much."
 
-"This is a question I have spent years considering," he says.
+Averroes looks. He does not flinch from it.
 
-Averroes picks up a scroll. It's a map of the Mediterranean and beyond.
+"Off, yes. So we mend it. Ptolemy mended it long ago—he set the planet's center off to one side, away from the earth, and let it speed up and slow as it rounds that point. The numbers come back true. The harbors are found."
 
-"The *equant* is a mathematical device. Look—" He gestures to the map. "How did we cross the seas and navigate deserts? Establish cities in every corner, from the West to the East, and trade with each other to prosperity not even Rome ever had? The stars move as Ptolemy predicted, once we account for his mathematical tools."
+"But you taught us the spheres turn in perfect circles, because that is their nature. Aristotle proved it. Ptolemy's idea breaks the circle." The boy lowers the table, notices the flowing water outside, and asks "Outside, the water moves in the channels evenly, all the time, how can both be true?"
 
-"But if the spheres move naturally in perfect circles—"
+Averroes is quiet a long moment.
 
-Averroes's responds, "Ships reach port. Caravans find their way. The calculations are sound."
+"I have turned that over for thirty years," he says at last. "Aristotle tells me what the heavens *are*: perfect, turning in true circles, for nothing less would befit them. Ptolemy tells me what they *do*—near enough to cross an ocean by. We do not yet know. So we keep working—and perhaps you will find the reason"
 
-"Even though the physics and the mathematics contradict?"
+The boy smiles.
 
-Averroes' voice softens. "You ask good questions. This is how understanding deepens—piece by piece, proof by proof. The spheres move as Aristotle described. The calculations work as Ptolemy showed. Both are true in their domains."
+"Add the correction to the table," Averroes says. "Date it. Send a fair copy west with the next caravan, and one east. Whatever the spheres truly are, the harbors must keep being found."
 
-The student lowers his gaze. "I understand, Teacher."
+The youngest student writes the new number beside the old one, and updates the star table inside several texts.
 
-Class ends, the students gather their things, but three linger, and sketch more geometry.
-
-Outside, the water flows
-
-Inside, the epicycles multiply.
+He puts one updated text on the library shelf. The others go on men, horses, and ships to libraries throughout the world.
 
 #### Renaissance - Limits of Reason - Effectual Truth
 
@@ -2231,73 +2171,73 @@ The woodcutter marks another oak. "Can I have this big one?"
 
 "No," Niccolo says. "The four smaller ones beyond it."
 
-They walk the Tuscan property line—which trees, what price, when to cut.
+They walk the Tuscan tree line and discuss which trees to sell, what price, when to cut them.
 
-The woodcutter pauses. "My son asks why we Italians are so weak now. The Spanish take what they want. The French march through whenever they please. His grandfather told him Italy was once the master of the world."
+The woodcutter pauses. "My son asks why we Italians are so weak now. The Spanish take what they want. The French march through whenever they please. The Germans threatend us when they want. His grandfather said Italians were once master of the world."
 
-Niccolo stops walking.
-
-"Your grandfather was right. The Romans ruled for centuries. Do you know how?"
+Niccolo stops walking. "Your grandfather was right. Rome ruled for centuries. Do you know how?"
 
 The woodcutter shrugs.
 
-"Not through morality. Through understanding what actually works." Niccolo picks up a stick, draws a line in the dirt. "Calgacus, a chieftain in Caledonia, said of us: 'To ravage, to slaughter, to usurp under false titles, they call empire; and where they make a desert, they call it peace.' And yet for centuries, people *came* to be ruled by Rome. Why?"
+"Not through goodness. Through knowing what works." Niccolo picks up a stick, scratches a line in the dirt. "Back then, the Germans lived in hurts and walked barefoot, used hollow logs to cross rivers and raid our rich cities. So, Caesar threw a bridge across the Rhine in ten days. Marched his legions over to show the Germans what Rome could build—then burned it behind him and left. They thought our hammers were sorcery. They left Rome alone for a generation. Over a bridge. Now they raid us with the tools we gave them."
 
-The woodcutter says nothing.
+"My order's for a bridge at Certaldo." The woodcutter almost smiles. "Smaller than teh Rhine, I'd think."
 
-"Because Rome understood power. Julius Caesar built a wooden bridge over the Rhine in ten days. He crossed it, marched his beautiful legions, then left, burning his wonder behind him. The bridge was theater. A demonstration. The Germans were dumbfounded by our technology. They used log boats to cross. And thought hammers and water wheels were magic. So confused and scared they left Rome alone for centuries; because of a few bridges."
+"Smaller. Same knowing." Niccolo gestures down the valley. "Rome held the world with it—roads, bridges, walls, the law that ran along them. All of it kept up. Repaired. Paid for in iron and work and virtue, year after year."
 
-"My lumber order is for a bridgev in Certaldo. Funny, huh? Why were we cruel?"
+"And now?"
 
-"When they raided us they'd die. Instead they traded and we had peace. We were *effective*. The desert became peace—Roman peace, which created prosperity, maintained by Roman swords and virtue."
-
-The woodcutter shifts. "What happened then?"
-
-"Weak children ate the glory of great Emperors. Commodus turned an empire of gold into one of rust.
-
-"I see. They had no faith in the..."
-
-"We can't live in their words. I'm telling you what *is*." Niccolo drops the stick. "Now we Italians read Aristotle and debate morality while foreigners occupy our cities. We have the *words* of the ancients but not their *methods*."
+"Now the roads are still here. The Spanish march their armies down them. The French winter in our cities. We kept the stones and lost the men who knew how to lay and defend them." He drops the stick. "We read Aristotle and argue about virtue while foreigners hold the gates. We have the ancients' words. Not their methods."
 
 "So what do we need?"
 
-"New modes and orders. Not what philosophers say *should* work—what *actually* works. The effectual truth of the thing, not the imagination of it."
+"New modes and orders. Not what the philosophers say *should* work. What does. The effectual truth of the thing—not the dream of it. Let nature tell us where we are wrong."
 
-The woodcutter nods slowly. Then: "Weren't you a diplomat and exiled...and tortured?"
+The woodcutter nods slowly. Then: "Weren't you exiled? Tortured?"
 
-Niccolo deflates. His shoulders drop.
+Niccolo's shoulders drop. "Different times."
 
-"Those were different circumstances."
+"My cousin said six drops on the rope."
 
-"My cousin said six drops of the strappado."
+"*Four.* And I was innocent." His voice flattens. "They thought I plotted against the Medici."
 
-"*Four* drops. I was innocent." His voice flattens. "They thought I conspired against Florence and the Medici."
+"But you wrote it down. Books."
 
-"But you wrote it all down? Books?"
+"I did."
 
-"I did." A pause. "Only a few read them."
+"People read them?"
 
-"Your kids? Family is important."
+A pause. "A few."
 
-"No, they are not interested. I read and write at night."
+"Your sons?"
 
-The woodcutter shrugs. "Well. All these new books being printed—who can read it all? My cousin says there are more books in Florence now than anyone could finish in a lifetime. What's the point of all those new words anyway? Let the stars be the stars and the princes be the princes."
+"Not interested in my ideas." He says it evenly. "I write at night."
 
-Niccolo stares at the sky for several long moments.
+The woodcutter hefts his axe. "All these printed books now. My cousin says there are more in Florence than a man could read in three lifetimes. What's the point of more words? Let the stars be stars. Let the princes be princes." He turns toward the big oak again. "Can I not have that one, it's not sacred, is it?"
 
-"Being at the bottom makes it easier to see what's going on at the top. I've served princes. I've been tortured by them. I've studied their rise and fall. I read the ancients. They speak to me. The view from down here is clarifying."
+"No." Niccolo watches him go. "I'll give it to you."
 
-The woodcutter is back at the big tree. "I understand what you mean. Roman bridges bring prace...Can I have the big tree? It's not sacred, is it?"
+The woodcutter walks to the tree.
 
-"Yes. Take that too."
+Niccolo stays where he is, talking half to the man's back. "Being at the bottom makes it easier to see the top. I've served princes. Been broken by them. Read the ancients until they answered." The axe rises. "Someone will need this. Maybe not yet."
+
+The blade strikes down into the strong Italian oak tree.
+
+"They'll need that for bigger shelves," Niccolo says and then smiles. "We've barely begun to wise up."
 
 ---
 
-Printers set typeface. They load paper. The machine presses type to paper. Page after page is printed. Many books are bound. 
+Printers set the type. Paper loads. The press comes down—once, a page. Again, a page. Again. The sheets stack. The books are bound, a hundred the same, then a hundred more.
 
-A bookstore on a cobblestone street has a sign:
+A shop on a cobbled street sets one in the window. 
 
-"Read the Effectual Truth in The Prince by Niccolo Machiavelli."
+*The Prince. Niccolo Machiavelli.*
+
+*On the Revolutions of the Heavenly Spheres. Nicolaus Copernicus.*
+
+*Dialogue Concerning the Two Chief World Systems. Galileo Galilei.*
+
+*The New Organon. Francis Bacon.*
 
 Three people enter.
 
@@ -2391,17 +2331,17 @@ They relight the chimney candle one more time, each placing the iron rods into t
 
 Three notebooks fill with observations.
 
-#### The Resistance
-
-<!-- Charles is broke, no money from the giving tree -->
+#### Extinction Event
 
 I enter the Commons with soldiers behind me.
 
 This shouldn't be necessary.
 
-Father never had to march armed men into Parliament. Grandfather kept order without soldiers at his back. But the Five Members—Pym, Hampden, Haselrig, Holles, Strode—these Puritans have gone too far. Refused lawful authority. Stirred rebellion. I only want the traitors.
+Father never marched armed men into Parliament. Grandfather kept order without soldiers at his back. But the Five Members—Pym, Hampden, Haselrig, Holles, Strode—these Puritans have gone too far. Refused lawful authority. Stirred rebellion. They turned the realm against its own king over money. Always the money. They will not grant my money to their king. Now Parliament is silent.
 
-I look around the Commons chamber. It is too quiet. No one is acknowledging their king.
+I only want the traitorous five.
+
+I look around the chamber. It is too quiet. No one is acknowledging their king.
 
 I approach the Speaker. "Mr. Speaker, do you see any of these persons in the House?"
 
@@ -2409,95 +2349,136 @@ He kneels. Won't look at me. "May it please Your Majesty, I have neither eyes to
 
 He disobeys? I am their king.
 
-"No matter, I think my eyes are as good as another's." 
+"No matter, I think my eyes are as good as another's."
 
 I scan the benches. Members stare back, silent. No one points. No one speaks. No one helps their king find traitors in their midst.
 
-The Five members seats are empty. The Five traitors are gone. Someone warned them. Someone here, in this room, watching me now with blank faces.
+The Five seats are empty. Someone warned them. Someone here, watching me now with blank faces.
 
-I don't like this pressure. It is unjust. I am in control.
+It is unjust. I am in control.
 
 "I see all my birds have flown."
 
-I should speak more. Explain why I'm here, what they've forced me to do. Command them to produce the traitors.
+I should speak more. Explain why I am here. Command them to produce the traitors.
 
 My throat tightens. The words catch.
 
-No. A king doesn't explain himself to subjects.
+No. A king does not explain himself to subjects. The moment I justify myself I have already surrendered what they are trying to take. Kings cannot be tried by subjects. I am the Sovereign.
 
-The moment I justify myself to them I've already surrendered what they're trying to take. Kings cannot be put on trial by subjects. I am the Sovereign. Parliament already exists. The commoners already have their say. But they want to control the money. They want to control the army, the bridges, the builders, the land.
+But they want the money. The army. The bridges, the buildings, the land. These artisans, craftsmen, merchants—this middling sort—they want the realm. They have the coin and will not give it any longer, and a king without coin is a realm in chaos.
 
-These artisans, craftsman, merchants, indepedant farmers; these  middling sort want to control the realm.
+I will leave with dignity. The soldiers make way.
 
-I will leave with dignity. The loyal soldiers make way for me.
+"Privilege! Members of the Commons are protected by Privilege!"
 
-"Privilege! House of Commons members are protected by our Privilege!"
+Disregard. Keep walking.
 
-Disregard. Keep walking. With dignity.
+Outside, the middling crowd watch from doorways and corners. Not cheering. Not bowing. Watching.
 
-Outside, walking back to my coach, crowds watch from doorways and corners. Not cheering. Not bowing. Watching.
+My coach has stopped far away. The driver is on the ground, the rear wheel jammed against a curb. He pulls at it. A wheel is broken.
 
-The coach has stopped far away. The driver is on the ground, the rear wheel jammed against a curb. He pulls at it. A wheel is broken.
-
-My retinue gathers around me. The men lift the coach, work on the wheel. The crowd's attention shifts to me. I see them through the bodies of my men.
+My retinue gathers. The men lift the coach, work on the wheel. The crowd's attention turns to me. I see them through the bodies of my men.
 
 They watch me. I must do something.
 
-I walk to the coach. The men are changing the broken wheel. The driver looks up at me. I see the parts in his hands — the spoke, the hub, the iron rim. I do not know which goes where. I have ridden in a thousand coaches. I have never touched one this way.
+I walk to the coach. The driver looks up. I see the parts in his hands—the spoke, the hub, the iron rim. I do not know which goes where. I am a king.
 
 The people are watching. Parliament is watching.
 
-But a king does not need to know.
-
 "Broken things happen. Keep going. Well done. Well done."
 
-The wheel is changed. The crowd cheers. The driver smiles at the crowd. Some smile back at him. 
+The wheel is changed. The crowd cheers. Did the driver smile at them?
 
 I enter the coach.
 
-I see the faces of my people. They know everything I did, my ancestors did. Everything I defended, my ancestors defended. If I'm guilty, so is the realm.
+The streets are full. We travel London's roads. The people are many. The driver turns us down another lane. Then another. I do not know these streets. I cannot return home.
 
-Impossible.
+He turns again.
 
-I see the workers makiing the roads, bread, clothes. Churches under construction so they can show their devotion.
+Is this servant with Parliament? Are my loyal soldiers nearby?
 
-My ancestors turned wood forts into stone castles. Stone castles into grand palaces. Protection made new roads, new farms, new canals safe from Scots and French and rebellious lords. Kingly protection kept the realm from tearing itself apart. 
+I shall not fear. I look at the people's faces. They know everything I have done, that my ancestors did. Everything I defended, they defended. If I am guilty, so is the realm.
 
-I am their king. Chosen by God, and given the duties of God. It's in the Scriptures, laws, customs. The people are devoted to the one true faith. The realm survived Vikings, Picts, Scots. It will survive these rebels too. 
+That can't be true.
 
-And now these Puritans, Presbyterians, and other disloyal faiths want to usurp The Church of England's Crown?
+I see my realm. My people. Workers laying roads. Bakers making bread. Clothiers, smiths, shipwrights, masons—a whole city making itself. I have not seen most of it. I do not understand it. And yet it builds through my order. The people visit my magnificent churches to show their weekly devotion. My ancestors turned wood forts into stone castles, castles into palaces. Kingly protection made the roads and farms and canals safe from Scots and French and rebellious lords. Protection kept the realm from tearing itself apart.
 
-I enter Whitehall Palace. Bells ring loud. My loyal dogs come to greet their master. 
+And now these Puritans and Presbyterians would usurp the Church of England's Crown? To what end? Do they want to practice religion freely?
 
-More bells ring.
+I am their king. Chosen by God, given the duties of God. It is in the Scriptures, the laws, the customs. The faithful people know it. The realm survived Vikings, Picts, Scots.
 
-I will summon the militia. I will do what a king must do and protect his people. My ancestors used sword and spear. I must use gun and cannon. 
+The coach stops at Whitehall Palace. My coach door opens. I exit. I walk to my chamber to meet my lords. The doors open. I walk to my chamber. The room fire is lit. 
 
-<!-- sycophants-->
+My dogs come to greet their master.
 
-"Call the Banners, Rally at Nottingham."
+The table is set. Meat is carved. My lords await the report of their king.
 
-I hear my advisors speak about the long waging wars on the Continent, Gustavus Adolphus of Sweden has created a new model for armies to great effect. Promotion on merit, constant pay.
+I tell them, "The Commons defies their King. I will summon the militia. I will do what a king must do. My ancestors used sword and spear. I must use gun and cannon."
 
-I know the loyalty and faith of the common man soldiers and their nobles will secure the Realm.
+"Call the Banners. Rally at Nottingham."
 
-The nobles will provide their services, men, and coin.
+My advisors speak of the long wars on the Continent. Catholics and Protestants fighting for over twenty years. Countless battles. Villages massacred. Gustavus Adolphus of Sweden built a new kind of army—promotion by merit. Bloodline and faith are merit. They want constant pay, but I have no constant coin. The Commons hold the purse and have closed it. I do not know how to raise coin from the middling sort. I am a king.
 
-I look up at the painting of my father. Many stories high and wide. Finer than anything in Rome. He ascends into Heaven, gold and silver lines showcasing the justice of our Divine Right of Kings.
+No matter. The north is loyal. The farmers and guilds of old are loyal. The faith of the old families and their nobles will secure the realm.
 
-I will return father. I will do our house justice. I will save the Realm. I will save the people.
+The taxes come thinner each year. I used the ancient tax rights like Ship Money, forest fines. I charged every landowner who stayed home at my crowning, and still not enough. Old king's coffers filled from land; mine empty faster than I can fill them. London's baskets grow fat with coin I cannot touch. The nobles must have enough. They must.
+
+These two Englands will become one realm, once more.
+
+I look up at the painting of my father. Stories high, finer than anything in Rome. He ascends into Heaven, gold and silver lines showing the justice of our Divine Right.
+
+I speak to him. He is easier to reach than any living man in this palace—easier than the city outside, which is busy becoming something that will not need a king.
+
+I will return, father. I will do our house justice. I will save the realm. I will save the people.
 
 I am their king.
 
 --
 
-"Then I'll have to go work for them."
+Edgehill. Marston Moor. Naseby. Three years of war. Sixty major engagements. 84,000 soldiers dead. Many more wounded. Fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. One in ten Englishmen dead before it ends.
 
-Men of war.
+Charles in prison.
 
-"Separation of power."
+Secretly raises a new army. Now Scottish lords call their tenants from the field. Men follow because the land demands it. Ploughs lie left in furrows. Fields go to weed. Granaries empty. An old realm answering for a king the new country has already decided to be rid of. All march south.
 
-"Separation of theology and government."
+Parliament is waiting with their now veteran New Model Army based on merit.
+
+Charles loses again.
+
+Parliament infuriated. Trial held. 135 commissioners appointed. Half refuse to attend. The angry half in control.
+
+Charles denies its legitimacy. He is the king. Chosen by God. He never removes his hat. Never enters a plea. He never stammers, as was usual. A heavenly gift of confidence: he knows "No earthly power can justly call me in question." He is right, by every law that has ever existed, since the Roman legions left the land.
+
+Charles is convicted. At Whitehall Palace he looks once more upon his father magnificent mural, being taken to Heaven by God's angels. The people watch the gallows. One clean stroke. A king is dead.
+
+A republic is declared.
+
+Parliament rules. Eleven years of Puritan government—no theatre, no Christmas, no dancing. Churches stripped bare. Stained glass smashed, statues broken. Banners felled.
+
+The army argues with Parliament. Parliament argues with itself. Nobody agrees on anything except that this isn't working.
+
+The people see England as a realm with no king.
+
+Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. England exhales.
+
+Charles II leans toward the old faith in a Protestant England. His brother succeeds him, and wears that faith openly.
+
+A new Protestant king is installed—by Parliament, in a Glorious Revolution. The Crown now sits where the coin is controlled.
+
+The Puritans have already fled. More keep leaving.
+
+New soil. No king.
+
+Massachusetts. Connecticut. Rhode Island. Congregations governing themselves. Towns voting on their own affairs. A quiet experiment in self-rule seeds itself, growing in the cold northern soil.
+
+*"Separation of government powers."*
+*"Separation of church and state."*
+*"Freedom of religion."*
+*"All men are created equal..."*
+
+Not quite. Not yet.
+
+But the seed is growing.
 
 #### Universal Laws
 
