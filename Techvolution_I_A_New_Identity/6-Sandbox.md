@@ -4149,3 +4149,7 @@ I take the phone. "What do we need to do?"
 "Do you have a pencil?"
 
 ===
+
+My advisors speak of the long wars on the Continent. Catholics and Protestants fighting for over twenty years. Countless battles. Villages massacred. Gustavus Adolphus of Sweden built a new kind of army—promotion by merit. Bloodline and faith are merit. They want constant pay, but I have no constant coin. The Commons hold the purse. I do not know how to raise coin from the middling sort.
+
+===

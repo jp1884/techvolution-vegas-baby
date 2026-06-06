@@ -1943,19 +1943,23 @@ As night comes, an Elder sits beside me.
 
 "How will they get there?" I ask.
 
-He looks up. "What do you see?"
+"You should say, 'how will we get there.' They, I, go nowhere alone. We can go anywhere."
+
+He looks up at the night sky. "What do you see?"
 
 "The gods."
 
-"Yes. But can you read the gods' signs? We can because Tāwhirimātea placed each one. The Navigator reads the gods' signs. That is how they will know."
+"Can you read the gods' signs?"
 
-He pauses. "This is how we move. This is how we got here. Look up at the gods and listen."
+"I know when the rains will come."
+
+"As you should. There is more to know. Tāwhirimātea placed the stars. The Navigator reads the gods' signs. That is how we got here. That is how we will get there. Listen to the gods."
 
 I notice the Elder's voice deepens as he says, "In the time of the seventh Navigator, when the fishing grounds grew thin, the Chief consulted the priests. They read the signs of Tāne—birds flying beyond the horizon, stars positioned to show when land waits beyond sight.
 
 The gods were calling us to voyage.
 
-We built twelve canoes according to the patterns the gods revealed in the first days. Each held twenty—planters who read Rongo's signs, fishers who honored Tangaroa's tapu, builders who understood Tāne's gifts of wood.
+We built twelve canoes according to the patterns the gods revealed in the first days. Each held twenty—planters who like you read Rongo's signs, fishers who honored Tangaroa's tapu, builders who understood Tāne's gifts of wood.
 
 The Navigator carried the red arrow his father's father's father carved. Seven white shells bound to its shaft—one for each Navigator in his line, each voyage that brought us here, island by island. Seven generations. Seven new homes found.
 
@@ -1969,15 +1973,11 @@ The Navigator raised his hand. Our warriors held their spears, waiting.
 
 The Navigator chanted his lineage. An old woman answered, naming ancestors we knew. Cousins.
 
-They showed us black stone adzes, sharper than ours. "From the mountain island," the Chief said. "We trade fish for stone, stone for shells, shells for taro. Each island holds different gifts."
+They showed us black stone adzes, sharper than ours. "From the mountain island," the Chief said. "We trade fish for stone, stone for shells, shells for taro. Each island holds different gifts. Trade makes us strong."
 
-We offered our fire-drill design. They offered star paths to the obsidian island.
+We moved on. Found a new island.
 
-The Fire-Keeper sang the fire song. The spark came. Mahuika had accepted us—and given us trading partners.
-
-We built shelters with the wood Tāne provided. We planted the taro we carried, reading the soil as Rongo taught us. We fished in Tangaroa's waters. We raised the red arrow on stones, honoring the Navigator who brought us.
-
-The gods guided us across the ocean. The gods gave us this island. The gods blessed every tool we build—canoes and fire-drills and planting sticks.
+Built shelters, planted the taro, fished the waters. We raised the red arrow on stones, honoring the Navigator who brought us.
 
 "This is the wisdom that flows in your blood," he says. "You plant our food here. Someday, you may follow the lights and venture out to plant new lands in new places. The gods give us the signs, we only must read them, trust in their path, and go from land to land, island to island. Our people will visit the world."
 
@@ -1991,7 +1991,21 @@ I understand now. The tools I use, the crops I tend, the island beneath my feet�
 
 "Will there be an eighth shell?" I ask.
 
-Elder smiles. "If the gods will it."
+The Elder smiles. "If the gods will it."
+
+The shipbuilders walk up from the beach. I want to ask if I can give them my plants.
+
+But they stop. Then bow at the Elder.
+
+The Elder looks down, raises a hand in acknowledgment, and rises. "May the gods bless our voyage."
+
+He then walks down the shore alone.
+
+"Why did you bow?" I ask. "Why does he eat first? Why do you wait for his word before you build?"
+
+An old builder watches him go. "Our cousins met us with spears. He did not raise one. He spoke their grandfathers' names, found the blood we shared, traded fish for stone. Enemies became kin. Then he restocked our supplies. Read the gods' signs. Found a new island. He brought us to our home."
+
+Another builder says, quietly, "Don't tell him. But he is our king."
 
 #### The Limits of Signs
 
@@ -2121,7 +2135,7 @@ That year, the aqueduct brought water from the mountains. The road beside it car
 
 My farm continued and a new city rose.
 
-### Averroes - Height of Reason
+#### Averroes - Height of Reason
 
 Water flows through carefully graded channels, the gradient so precise that it travels from mountain springs to vast irrigation fields without a single pump. The *acequia*—the web of channels that carries the mountain water across the dry country—spreads to the horizon, feeding orchards no rain alone could keep. Men walk the channels each morning, clearing silt, checking the fall of the water finger-width by finger-width.
 
@@ -2199,7 +2213,7 @@ Niccolo's shoulders drop. "Different times."
 
 "My cousin said six drops on the rope."
 
-"*Four.* And I was innocent." His voice flattens. "They thought I plotted against the Medici."
+"*Four.* And I was innocent." His voice flattens. "I didn't plot against the Medici."
 
 "But you wrote it down. Books."
 
@@ -2211,7 +2225,7 @@ A pause. "A few."
 
 "Your sons?"
 
-"Not interested in my ideas." He says it evenly. "I write at night."
+"Not interested in my remedies." He says it evenly. "I read and write at night."
 
 The woodcutter hefts his axe. "All these printed books now. My cousin says there are more in Florence than a man could read in three lifetimes. What's the point of more words? Let the stars be stars. Let the princes be princes." He turns toward the big oak again. "Can I not have that one, it's not sacred, is it?"
 
@@ -2335,9 +2349,9 @@ Three notebooks fill with observations.
 
 I enter the Commons with soldiers behind me.
 
-This shouldn't be necessary.
+This should not be necessary.
 
-Father never marched armed men into Parliament. Grandfather kept order without soldiers at his back. But the Five Members—Pym, Hampden, Haselrig, Holles, Strode—these Puritans have gone too far. Refused lawful authority. Stirred rebellion. They turned the realm against its own king over money. Always the money. They will not grant my money to their king. Now Parliament is silent.
+Father never marched armed men into Parliament. Prior monarchs kept order without soldiers at their back. But the Five Members—Pym, Hampden, Haselrig, Holles, Strode—these Puritans have gone too far. Refused lawful authority. Stirred rebellion. They turned the realm against its own king. Now they will not grant my money to their king. Now Parliament is silent.
 
 I only want the traitorous five.
 
@@ -2359,7 +2373,7 @@ It is unjust. I am in control.
 
 "I see all my birds have flown."
 
-I should speak more. Explain why I am here. Command them to produce the traitors.
+I should speak more. Command them to produce the traitors.
 
 My throat tightens. The words catch.
 
@@ -2371,9 +2385,9 @@ I will leave with dignity. The soldiers make way.
 
 "Privilege! Members of the Commons are protected by Privilege!"
 
-Disregard. Keep walking.
+Unholy. Keep walking.
 
-Outside, the middling crowd watch from doorways and corners. Not cheering. Not bowing. Watching.
+Outside, on London streets, the middling crowd watch from doorways and corners. Not cheering. Not bowing. Watching.
 
 My coach has stopped far away. The driver is on the ground, the rear wheel jammed against a curb. He pulls at it. A wheel is broken.
 
@@ -2391,43 +2405,63 @@ The wheel is changed. The crowd cheers. Did the driver smile at them?
 
 I enter the coach.
 
-The streets are full. We travel London's roads. The people are many. The driver turns us down another lane. Then another. I do not know these streets. I cannot return home.
+The streets are full. We travel London's roads. The people are many. The driver turns down another lane. I do not know these streets. Where am I? I cannot return home from here.
 
-He turns again.
+He turns again. Another unknown road.
 
-Is this servant with Parliament? Are my loyal soldiers nearby?
+Is this servant with Parliament? Are our loyal soldiers nearby?
 
-I shall not fear. I look at the people's faces. They know everything I have done, that my ancestors did. Everything I defended, they defended. If I am guilty, so is the realm.
+I shall not fear. A king can be killed, but kingship cannot. I look at the people's faces. They know everything I have done, that my ancestors did. Everything I defended, they defended. If I am guilty, so is the realm.
 
 That can't be true.
 
-I see my realm. My people. Workers laying roads. Bakers making bread. Clothiers, smiths, shipwrights, masons—a whole city making itself. I have not seen most of it. I do not understand it. And yet it builds through my order. The people visit my magnificent churches to show their weekly devotion. My ancestors turned wood forts into stone castles, castles into palaces. Kingly protection made the roads and farms and canals safe from Scots and French and rebellious lords. Protection kept the realm from tearing itself apart.
+I see my realm. Our loyal subjects. Workers laying roads. Bakers making bread. Clothiers, smiths, shipwrights, masons—a whole city making itself. I have not seen most of it. I do not understand it. And yet it builds through my order. I protect men of knowledge. I fund their research. The people visit my magnificent churches to show their weekly devotion. My ancestors turned wood forts into stone castles, castles into palaces. Kingly protection made the roads and farms and canals safe from Scots and French and rebellious lords. A strong monarch kept the realm from tearing itself apart.
 
-And now these Puritans and Presbyterians would usurp the Church of England's Crown? To what end? Do they want to practice religion freely?
+And now these Puritans and Presbyterians would challenge the Crown? To what end? Do they want to practice religion freely?
 
-I am their king. Chosen by God, given the duties of God. It is in the Scriptures, the laws, the customs. The faithful people know it. The realm survived Vikings, Picts, Scots.
+I am their king. Chosen by God, given the duties of God. It is in the Scriptures, the laws, the customs. The faithful people know it.
 
-The coach stops at Whitehall Palace. My coach door opens. I exit. I walk to my chamber to meet my lords. The doors open. I walk to my chamber. The room fire is lit. 
+The coach stops at Whitehall Palace.
 
-My dogs come to greet their master.
+The door opens before I touch it. A hand steadies me down. "Your Majesty."
 
-The table is set. Meat is carved. My lords await the report of their king.
+"Your Majesty." The gates part. The guards bow.
 
-I tell them, "The Commons defies their King. I will summon the militia. I will do what a king must do. My ancestors used sword and spear. I must use gun and cannon."
+I walk. The doors open ahead of me. The fire is lit. The table is set, the drink is ready, the meat is carved.
 
-"Call the Banners. Rally at Nottingham."
+I am announced.
 
-My advisors speak of the long wars on the Continent. Catholics and Protestants fighting for over twenty years. Countless battles. Villages massacred. Gustavus Adolphus of Sweden built a new kind of army—promotion by merit. Bloodline and faith are merit. They want constant pay, but I have no constant coin. The Commons hold the purse and have closed it. I do not know how to raise coin from the middling sort. I am a king.
+"Charles, by the Grace of God, King of England, Scotland, France and Ireland, Defender of the Faith."
 
-No matter. The north is loyal. The farmers and guilds of old are loyal. The faith of the old families and their nobles will secure the realm.
+Every lord bows. Ladies curtsey. Good.
 
-The taxes come thinner each year. I used the ancient tax rights like Ship Money, forest fines. I charged every landowner who stayed home at my crowning, and still not enough. Old king's coffers filled from land; mine empty faster than I can fill them. London's baskets grow fat with coin I cannot touch. The nobles must have enough. They must.
+"Your Majesty, I am your most humble servant."
+"Your Majesty, I am your most humble servant."
+"Your Majesty, I am your most humble servant."
 
-These two Englands will become one realm, once more.
+"Let us pray"
 
-I look up at the painting of my father. Stories high, finer than anything in Rome. He ascends into Heaven, gold and silver lines showing the justice of our Divine Right.
+"Lighten our darkness, we beseech thee O Lord; we pray: and by thy great mercy defend us from all perils and dangers of this night; for the love of our Saviour. Amen"
 
-I speak to him. He is easier to reach than any living man in this palace—easier than the city outside, which is busy becoming something that will not need a king.
+"Long live the King!"
+
+I say, "Our loyal subjects defy their King. By God's grace the ancient rights of the Crown, and the laws and customs of this realm will be enforced. The north is free. The farmers and guilds are devout. The faith of the nobles will secure the realm."
+
+"For God and King Charles!"
+
+"For the Crown and the Church of England!"
+
+"The Majesty's two bodies shall be preserved."
+
+Princes, Dukes, Earls, Barons, Knights of the Realm, responsible for thousands of our loyal subjects' souls, acknowledge their king.
+
+I say "We will summon the militia. These two Englands will become one realm, once more. Our ancestors used sword and spear. We must use gun and cannon."
+
+Earl Johnson receives a letter "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert."
+
+I look up at the painting of my father. Painted by the greatest artists in Europe. The middling sort count coin. I count centuries. Art. Glory. Stories high, finer than anything in Rome. My father, King James, ascends into Heaven, gold and silver lines showing the justice of our Divine Right.
+
+I speak to him. He is easier to reach than any living man in this palace—easier than the city outside, which is busy becoming something that seemingly cares not for a king.
 
 I will return, father. I will do our house justice. I will save the realm. I will save the people.
 
@@ -2435,37 +2469,47 @@ I am their king.
 
 --
 
-Edgehill. Marston Moor. Naseby. Three years of war. Sixty major engagements. 84,000 soldiers dead. Many more wounded. Fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. One in ten Englishmen dead before it ends.
+The king raises his standard at Nottingham. Lords ride to him and their tenant farmers follow. The merchants and craftsmen of the south build their army. Not lordship, bloodline, and obligation. But independence, merit, and even elections.
+
+Battles take place at Edgehill, Marston Moor, Naseby, and more.
+
+Sixty major engagements. 84,000 soldiers dead. Many more wounded. Three years of fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. One in ten Englishmen dead before it ends.
 
 Charles in prison.
 
-Secretly raises a new army. Now Scottish lords call their tenants from the field. Men follow because the land demands it. Ploughs lie left in furrows. Fields go to weed. Granaries empty. An old realm answering for a king the new country has already decided to be rid of. All march south.
+Secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries empty. An old realm answering for a king the new country is done with.
 
-Parliament is waiting with their now veteran New Model Army based on merit.
+The Scottish army marches south.
 
-Charles loses again.
+Parliament is waiting with their now veteran New Model Army.
+
+More battles. More dead. Same result. The king defeated.
 
 Parliament infuriated. Trial held. 135 commissioners appointed. Half refuse to attend. The angry half in control.
 
-Charles denies its legitimacy. He is the king. Chosen by God. He never removes his hat. Never enters a plea. He never stammers, as was usual. A heavenly gift of confidence: he knows "No earthly power can justly call me in question." He is right, by every law that has ever existed, since the Roman legions left the land.
+He never enters a plea. And the stammer that has caught his words all his life, is gone. He speaks aloud, clear and certain—not to himself, but to the court. "No earthly power can justly call me in question." He is right, by every law that has ever existed, at least since the Roman legions left the land.
 
-Charles is convicted. At Whitehall Palace he looks once more upon his father magnificent mural, being taken to Heaven by God's angels. The people watch the gallows. One clean stroke. A king is dead.
+Charles is convicted. Held prisoner at Whitehall Palace. He looks upon his father in the magnificent mural, being taken to Heaven by God's angels while the scaffold and chopping block are built outside.
+
+Last words. "As for the People, I desire their liberty and freedom, as much as any whosoever; but I must tell you...A Subject and a Sovereign are clean different things."
+
+One clean stroke. A king is dead.
 
 A republic is declared.
 
-Parliament rules. Eleven years of Puritan government—no theatre, no Christmas, no dancing. Churches stripped bare. Stained glass smashed, statues broken. Banners felled.
+Parliament rules. Eleven years of Puritan government—no theatre, no Christmas, no dancing. Churches stripped bare. Stained glass smashed, statues broken. Royal banners torn down.
 
 The army argues with Parliament. Parliament argues with itself. Nobody agrees on anything except that this isn't working.
 
-The people see England as a realm with no king.
+The people remember. England is a realm, and a realm needs a king.
 
 Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. England exhales.
 
-Charles II leans toward the old faith in a Protestant England. His brother succeeds him, and wears that faith openly.
+Charles II leans toward the old faith, Catholicism, in a devoutly Protestant England. His brother James succeeds him, and wears that foreign faith openly.
 
-A new Protestant king is installed—by Parliament, in a Glorious Revolution. The Crown now sits where the coin is controlled.
+New Protestant monarchs, William and Mary, are installed—by Parliament, in a Glorious Revolution.
 
-The Puritans have already fled. More keep leaving.
+The Puritans have already fled. More keep leaving. Many others join them.
 
 New soil. No king.
 
@@ -2476,7 +2520,7 @@ Massachusetts. Connecticut. Rhode Island. Congregations governing themselves. To
 *"Freedom of religion."*
 *"All men are created equal..."*
 
-Not quite. Not yet.
+Not universal. Not quite. Not yet.
 
 But the seed is growing.
 
