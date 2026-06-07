@@ -4153,3 +4153,88 @@ I take the phone. "What do we need to do?"
 My advisors speak of the long wars on the Continent. Catholics and Protestants fighting for over twenty years. Countless battles. Villages massacred. Gustavus Adolphus of Sweden built a new kind of army—promotion by merit. Bloodline and faith are merit. They want constant pay, but I have no constant coin. The Commons hold the purse. I do not know how to raise coin from the middling sort.
 
 ===
+
+#### Work
+
+The newspaper lies between us on the table. I review the print ads as my husband rolls up his sleeve.
+
+He caught a nail in timber while cleaning up a demo site. I poor fresh boiled water over the wound to clean out the dirty. Then I tip carbolic acid on a clean cloth. "It'll hurt"
+
+He grimaces as I press into the wound.
+
+"It means it's working. We'll hold it here for one minute."
+
+I distract the pain by pointing at our boy, banging a toy hammer into toy nail and lumber.
+
+The pain goes away.
+
+A minute is up. I check. The wound is cleaned. I wrap the water boiled bandages around it.
+
+"I made you these covers. I got the leather from my sister.
+
+He puts on a fresh shirt. Then tries on the forearm covers, and nods.
+
+"Good. Return to reading the work ads." my husband says as he picks up a window pane.
+
+"San Francisco needs men," I read. "They had another fire. Rebuilding crews. One dollar fifty a day. Water pipe laying—high-pressure mains for the new fire system. It says 'The city of the future rises from the ashes.'"
+
+Crunch. Crack. The old window was cracked. We used tape to seal our little apartment.
+
+I look at the old window. Soot covers the glass because it covers everything here, the laundry on the lines, our hands by evening.
+
+"In San Francisco, the open air, big mountains. Lots of land. It's very nice."
+
+"Back home you could see stars. Smell the trees. Hear the nature." my husband replies.
+
+"Back home had no work. If I told my brother everyone eats meat here every day, he'd never believe me."
+
+Outside, something moves in the alley below. A raccoon noses through an overturned crate, paws quick and careful. It finds a crust of bread and vanishes into shadow.
+
+"We're not the only ones looking for more. But we can work for it. I can be a nurse here." I say, then return to reading the work ads in the paper.
+
+"Steelworkers wanted. Pittsburgh calls men of strength and ambition. The furnaces of progress need you. One dollar twenty a day."
+
+"One dollar twenty," I say. "That's less than San Francisco."
+
+"My oldest sister went to Pittsburgh. Good pay but dangerous. Heat burns lungs. Men lose fingers to the machines. What else do you see?"
+
+"Coal miners, Austrialia. Modern company housing. Fair wages. We fuel world's growth."
+
+"The company owns everything. The houses, the store. You owe them before you start."
+
+"Too much like back home."
+
+"Yes."
+
+I turn the page. "Loggers wanted. Quebec forests. Strong men earn two dollars a day. Winter work."
+
+"Two dollars."
+
+Our boy is beside his father, at the window, banging on the frame with his hammer. He laughs.
+
+A train whistle blows. Then another. The sound never stops. Bells from factories. Wheels on rails. Horses on streets. Even from our little apartment. The city is huge.
+
+"We could stay here," he says. "This apartment is old. Neglected. I can fix the faucet, the room fans, install new hardwood. Our people are here. I have daily work here. You will be a nurse soon. You keep me healthy. Maybe I get repairmen contract."
+
+I reply "All the good spots are taken here. I read the papers everyday. The world is changing. It's so big. We could go anywhere, Detroit, Moscow, Argentina, even Japan! We are building railroads, ranches, mills, factories, power stations! Everyone has fresh clothes. Full plates. Good shoes. Anyone can do anyting! No politics like home.
+
+My husband is sealing the window. Our boy helps him push in the rubber. Ruffling noises come from the alley.
+
+"Of course, still raccoons everywhere."
+
+We laugh. He reaches across the table. Takes my hand. "Then where do we go?"
+
+I smile. Take the paper. Move my finger down, then stop.
+
+My husband nods.
+
+We stand up.
+
+One suitcase packs.
+
+One door closes.
+
+Three people take a chance.
+
+
+===

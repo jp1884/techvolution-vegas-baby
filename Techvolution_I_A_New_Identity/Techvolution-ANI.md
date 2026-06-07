@@ -1348,13 +1348,15 @@ Humans play the Game of Life. Most of time we play it with tools, but that is th
 
 The laws of physics, chemistry, and geology still reign. They interact to create an emergent game board. Entropy wears down our homes, spoils our food, and puts timers on the entire human experience. Life continually creates modifications of existing forms, while natural selection determines which offspring survive to represent life's future.
 
-Our game is different because of us. We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade.
+Our game is different because of us.
+
+We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade.
 
 The frameworks that help us adopt tools based on conditions—those frameworks survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
 
 But in real-time is hard to tell which is which.
 
-To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and always have a limited lifespan. Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: the realization of our technological identity.
+To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and have a limited lifespan. Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: the realization of our technological identity.
 
 <!-- - should note interactions/teamwork/collaborations more.
 - should note "looking/going to work" mindset. -->
@@ -2443,6 +2445,8 @@ Every lord bows. Ladies curtsey. Good.
 
 "Lighten our darkness, we beseech thee O Lord; we pray: and by thy great mercy defend us from all perils and dangers of this night; for the love of our Saviour. Amen"
 
+I see Lord, that my words do not catch.
+
 "Long live the King!"
 
 I say, "Our loyal subjects defy their King. By God's grace the ancient rights of the Crown, and the laws and customs of this realm will be enforced. The north is free. The farmers and guilds are devout. The faith of the nobles will secure the realm."
@@ -2459,25 +2463,23 @@ I say "We will summon the militia. These two Englands will become one realm, onc
 
 Earl Johnson receives a letter "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert."
 
-I look up at the painting of my father. Painted by the greatest artists in Europe. The middling sort count coin. I count centuries. Art. Glory. Stories high, finer than anything in Rome. My father, King James, ascends into Heaven, gold and silver lines showing the justice of our Divine Right.
+I look up at the painting of my father. Painted by the greatest artists in Europe. The middling sort count coin and ledgers. I count centuries. Art. Glory. Stories high, finer than anything in Rome. My father, King James, ascends into Heaven, gold and silver lines showing the justice of our Divine Right.
 
-I speak to him. He is easier to reach than any living man in this palace—easier than the city outside, which is busy becoming something that seemingly cares not for a king.
-
-I will return, father. I will do our house justice. I will save the realm. I will save the people.
+I will return, father. I will do our house justice. I will save the realm. I will save our people.
 
 I am their king.
 
 --
 
-The king raises his standard at Nottingham. Lords ride to him and their tenant farmers follow. The merchants and craftsmen of the south build their army. Not lordship, bloodline, and obligation. But independence, merit, and even elections.
+The king raises his standard at Nottingham. Lords ride to him and their tenant farmers follow. The merchants and craftsmen of the south build their army. Same food, equipment, weapons. One side organize by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
 
 Battles take place at Edgehill, Marston Moor, Naseby, and more.
 
-Sixty major engagements. 84,000 soldiers dead. Many more wounded. Three years of fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. One in ten Englishmen dead before it ends.
+Sixty major engagements. 84,000 soldiers dead. Many more wounded. Three years of fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. One in ten Britains dead before it ends.
 
 Charles in prison.
 
-Secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries empty. An old realm answering for a king the new country is done with.
+Secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries dwindle. An old realm answering for a king the new country is done with.
 
 The Scottish army marches south.
 
@@ -2485,7 +2487,7 @@ Parliament is waiting with their now veteran New Model Army.
 
 More battles. More dead. Same result. The king defeated.
 
-Parliament infuriated. Trial held. 135 commissioners appointed. Half refuse to attend. The angry half in control.
+Parliament infuriated. Trial held. 135 commissioners appointed. Half refuse to attend. The mad half in control.
 
 He never enters a plea. And the stammer that has caught his words all his life, is gone. He speaks aloud, clear and certain—not to himself, but to the court. "No earthly power can justly call me in question." He is right, by every law that has ever existed, at least since the Roman legions left the land.
 
@@ -2493,7 +2495,9 @@ Charles is convicted. Held prisoner at Whitehall Palace. He looks upon his fathe
 
 Last words. "As for the People, I desire their liberty and freedom, as much as any whosoever; but I must tell you...A Subject and a Sovereign are clean different things."
 
-One clean stroke. A king is dead.
+Last word: "Remember".
+
+Axe raised. One clean stroke. A king is dead.
 
 A republic is declared.
 
@@ -2503,13 +2507,13 @@ The army argues with Parliament. Parliament argues with itself. Nobody agrees on
 
 The people remember. England is a realm, and a realm needs a king.
 
-Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. England exhales.
+Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. All who convicted the king are executed. England exhales.
 
 Charles II leans toward the old faith, Catholicism, in a devoutly Protestant England. His brother James succeeds him, and wears that foreign faith openly.
 
 New Protestant monarchs, William and Mary, are installed—by Parliament, in a Glorious Revolution.
 
-The Puritans have already fled. More keep leaving. Many others join them.
+The Puritans have already fled. More kept leaving. Many others join them.
 
 New soil. No king.
 
@@ -2898,85 +2902,83 @@ I will go wash my hands.
 
 #### Work
 
-The newspaper lies between us on the table. I review the print ads as my husband rolls up his sleeve.
+The wall is covered in pieces of paper. Bright reds, dark blues, deep blacks, characters tall as a hand. We can read, but some of the words are new to us. Some papers have colors—like a bee to a flower, we go to the brightest. My husband is shy, unsure. He didn't want to come here. I want to find a job that he can do. I don't want to go back to our small town.
 
-He caught a nail in timber while cleaning up a demo site. I poor fresh boiled water over the wound to clean out the dirty. Then I tip carbolic acid on a clean cloth. "It'll hurt"
+A recruiter works the crowd. I listen.
 
-He grimaces as I press into the wound.
+This man is obnoxious. He points at the brightest sheets, presses cards into hands. "Come work. Good pay! Come work..." I don't trust him. Too much fast talk.
 
-"It means it's working. We'll hold it here for one minute."
+I see my husband reading an ad. Barley planting. Farm work. He knows rice planting. I can mend textiles and men. This works.
 
-I distract the pain by pointing at our boy, banging a toy hammer into toy nail and lumber.
+I take the job card. "Go to Henso street, midday," it says.
 
-The pain goes away.
+We go. A horse carriage picks us up. Several of us are in the carriage. My husband feels better as we leave the city behind us.
 
-A minute is up. I check. The wound is cleaned. I wrap the water boiled bandages around it.
+The carriage stops. It is dark. We get out, and look around the farm. Silos. Barns. Our living quarters. We go. Sleep. Big day tomorrow.
 
-"I made you these covers. I got the leather from my sister.
+My husband wakes early. He's excited. I find the other ladies. We prepare the morning meal. He finds the tools. Selects a hoe.
 
-He puts on a fresh shirt. Then tries on the forearm covers, and nods.
+As the sun rises, the farmer approaches.
 
-"Good. Return to reading the work ads." my husband says as he picks up a window pane.
+"Thank you for the work, sir," we all say.
 
-"San Francisco needs men," I read. "They had another fire. Rebuilding crews. One dollar fifty a day. Water pipe laying—high-pressure mains for the new fire system. It says 'The city of the future rises from the ashes.'"
+"Thank you all. Much to get done. Are you ready?"
 
-Crunch. Crack. The old window was cracked. We used tape to seal our little apartment.
+My husband nods his head.
 
-I look at the old window. Soot covers the glass because it covers everything here, the laundry on the lines, our hands by evening.
+"Then let's go."
 
-"In San Francisco, the open air, big mountains. Lots of land. It's very nice."
+My husband looks around. The farmer walks toward a field, and there is nothing there. Where are the men? Where are the oxen? It looks like a building is moving on the field. A steel building. I look at my husband.
 
-"Back home you could see stars. Smell the trees. Hear the nature." my husband replies.
+I see fear.
 
-"Back home had no work. If I told my brother everyone eats meat here every day, he'd never believe me."
+I cannot help him. I must follow the ladies to start the morning chores. I pray this farmer is a good man.
 
-Outside, something moves in the alley below. A raccoon noses through an overturned crate, paws quick and careful. It finds a crust of bread and vanishes into shadow.
+--
 
-"We're not the only ones looking for more. But we can work for it. I can be a nurse here." I say, then return to reading the work ads in the paper.
+That night, my husband returns. He has a cut on the forearm. But he is smiling as he tells me what happened.
 
-"Steelworkers wanted. Pittsburgh calls men of strength and ambition. The furnaces of progress need you. One dollar twenty a day."
+"I looked at the machine. My hands were shaking. The farmer saw me—scared like a cat I was. But he did not laugh. I didn't know what to say. He said, 'We just got it from Britain this year. You'll learn. Come. Let's get at it.'
 
-"One dollar twenty," I say. "That's less than San Francisco."
+So I learned. I read the manual. The machine is steel, runs on steam. It does the planting very fast. When it works. It worked a few hours today, then we fixed it a few hours. We seed much faster on the good days."
 
-"My oldest sister went to Pittsburgh. Good pay but dangerous. Heat burns lungs. Men lose fingers to the machines. What else do you see?"
+I don't understand this new machine. "I want to see it", I tell him as I put carbolic acid on his cut. He will work tomorrow and be safe.
 
-"Coal miners, Austrialia. Modern company housing. Fair wages. We fuel world's growth."
+We continue for four weeks. Plant 100 acres. Install water pipes for irrigation. Get paid. We say thank you. We are asked to return next year. We go back to the city. See the job board again.
 
-"The company owns everything. The houses, the store. You owe them before you start."
+We were lucky—a good man taught us. Now we are not just bees. We can learn.
 
-"Too much like back home."
+Now I know: each job is a new machine my husband or I must learn. "Print house" means typesetting, printers, inks, conveyors, binders. "Textiles" means mills, weavers, dyes. "Importer/Exporter" means rope, knots, lifts, manifests. "Water System" means pipes, regulators, pressure meters.
 
-"Yes."
+The farm had pipes. My husband installed those. That pays well.
 
-I turn the page. "Loggers wanted. Quebec forests. Strong men earn two dollars a day. Winter work."
+A new carriage takes us to a new job.
 
-"Two dollars."
+---
 
-Our boy is beside his father, at the window, banging on the frame with his hammer. He laughs.
+We stare at the job board again.
 
-A train whistle blows. Then another. The sound never stops. Bells from factories. Wheels on rails. Horses on streets. Even from our little apartment. The city is huge.
+There is a big ad. In Japanese and another language.
 
-"We could stay here," he says. "This apartment is old. Neglected. I can fix the faucet, the room fans, install new hardwood. Our people are here. I have daily work here. You will be a nurse soon. You keep me healthy. Maybe I get repairmen contract."
+America. A city across the ocean burned to the ground—San Francisco. They must rebuild. Wages we do not believe. We could stay. But now my husband wants to go.
 
-I reply "All the good spots are taken here. I read the papers everyday. The world is changing. It's so big. We could go anywhere, Detroit, Moscow, Argentina, even Japan! We are building railroads, ranches, mills, factories, power stations! Everyone has fresh clothes. Full plates. Good shoes. Anyone can do anyting! No politics like home.
+We cross the ocean to start again.
 
-My husband is sealing the window. Our boy helps him push in the rubber. Ruffling noises come from the alley.
+The city is half gone. It looks like a forest after a fire. The buildings still standing are burnt and black. But these Americans are already rebuilding.
 
-"Of course, still raccoons everywhere."
+A new wall of paper, more job ads, the same colors. There is so much work. We find a room, then the next day, the next job.
 
-We laugh. He reaches across the table. Takes my hand. "Then where do we go?"
+We have sleeping quarters. We prepare our meals with our countrymen. We are told "They don't like giving us the good jobs. But there's so much work here now, maybe they will."
 
-I smile. Take the paper. Move my finger down, then stop.
+We take a few days to get settled. To understand the area. To meet people. We see, in the alley below, something moves. Its paws quick and careful, reaching inside a crate. I ask what it is "a raccoon", very crafty, it learns well and finds food anywhere in the city.
 
-My husband nods.
+We like this animal. My husband and I enjoy giving it food inside of puzzles, and each night it gets the food. 
 
-We stand up.
+Finally, we go to the job board. I see the ad immediately *Pipefitters. Pressurized water fire suppression.*
 
-One suitcase packs.
+We find the recruiter. He looks at us, unsure. Asks if we have done such work.
 
-One door closes.
-
-Three people take a chance.
+I tell him, "Yes. We can learn that."
 
 #### Soviets - Limits of Predictions
 
