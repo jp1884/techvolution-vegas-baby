@@ -2938,15 +2938,17 @@ I cannot help him. I must follow the ladies to start the morning chores. I pray 
 
 That night, my husband returns. He has a cut on the forearm. But he is smiling as he tells me what happened.
 
-"I looked at the machine. My hands were shaking. The farmer saw me—scared like a cat I was. But he did not laugh. I didn't know what to say. He said, 'We just got it from Britain this year. You'll learn. Come. Let's get at it.'
+"I looked at the machine. My hands were shaking. The farmer saw me—scared like a cat I was. But he did not laugh. I didn't know what to say. He said, "We got it from Britain this year. You'll learn. Come. Let's get at it."
 
-So I learned. I read the manual. The machine is steel, runs on steam. It does the planting very fast. When it works. It worked a few hours today, then we fixed it a few hours. We seed much faster on the good days."
+So I learned. I read the manual. The machine is steel, runs on steam. It does the planting very fast. When it works. It worked a few hours today, then we fixed it a few hours. There are many water pipes. We seed much faster on the good days.
 
 I don't understand this new machine. "I want to see it", I tell him as I put carbolic acid on his cut. He will work tomorrow and be safe.
 
-We continue for four weeks. Plant 100 acres. Install water pipes for irrigation. Get paid. We say thank you. We are asked to return next year. We go back to the city. See the job board again.
+And the farmer knows more than machines. He moves water through channels to the dry fields. He plants one crop here this year, another next, he says so the soil never tires. He keeps boxes of bees, feeds them through winter, so the blossoms set fruit consistantly.
 
-We were lucky—a good man taught us. Now we are not just bees. We can learn.
+We continue for four weeks. Plant 100 acres. Helped install some new water pipes for irrigation. Get paid. We say thank you. We are asked to return next year. We go back to the city. See the job board again.
+
+We were lucky—a good man taught us. Now we are bees who know the best flowers.
 
 Now I know: each job is a new machine my husband or I must learn. "Print house" means typesetting, printers, inks, conveyors, binders. "Textiles" means mills, weavers, dyes. "Importer/Exporter" means rope, knots, lifts, manifests. "Water System" means pipes, regulators, pressure meters.
 
@@ -3803,7 +3805,7 @@ The system couldn't tell the difference between desperation and greed. So it ass
 
 ### ! Story 7*** - New Tools
 
-The call-in queue was the rock—it kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
+The call-in queue was the rock—it's warning Bell kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
 
 My direct manager was an honest guy, but so stressed he sometimes slept in his car. Within months, he went full gray.
 
@@ -3811,7 +3813,7 @@ I needed to adapt. Why not borrow from my grimy-carpet days?
 
 After each call, adjusters wrote custom emails explaining next steps—though they were nearly identical. Outlook's signature feature—basically pre-written text—let me create five or six standard email templates. It saved 2–5 minutes per call. Others copied it.
 
-I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. A dashboard tracked calls in real time, spotting trends: repeat callers, rental companies calling the wrong desk.
+I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. A dashboard tracked calls in real time, spotting trends: repeat callers, rental companies calling the wrong desk, etc.
 
 Adjusters also had to write extensive notes justifying our liability and spending decisions. Most claims were routine, so we used a "Discussed with" template. But it was a Word file. As management and adjusters added or removed questions, everyone worked off different versions—a consistency nightmare.
 
@@ -3819,11 +3821,27 @@ I built an online form with dropdowns and buttons. Faster? No. But standardized�
 
 Those grimy carpets taught me something. I showed my gray-haired, sleep-deprived boss. He showed higher management. And then:
 
-"It costs too much to implement," they said. I could use it they said, but they wouldn't officially adopt it. It was free, of course by the way.
+"It costs too much to implement," they said. I could use my tools, but they wouldn't officially adopt it. It was free, of course by the way.
 
 They never asked me to explain how it worked or why I made it. But lower management eventually added dropdowns and buttons to the Word form.
 
 My gray-haired manager soon left for a bank. And the demands to answer more calls never stopped.
+
+I could end it here and make this sound quite damning. Insurance management didn't want to speed up their claims department!
+
+But really, it isn't.
+
+Inventing and adopting new tools is often part of our personal lives, but it's not part of our education and work culture. There's no law that protects it. No constitutional amendment. We are often not even socially aware of the effect our choices have, because we see our work titles or ethnicity, but not technological identity.
+
+For comparison, I feel much more animosity towards my high-school guitar teacher.
+
+I wanted to learn to play a few chords while getting my music credit. He insisted I learn musical notes. I could read but not fast enough during weekly tests. Instead I liked the "tabs" shortcut that made guitar fun. Music notes are good to know, but the effectual truth is I didn't need to yet. Besides Prince, Elton John, Paul McCartney, many other music greats can't read notes, so why must I in my first music class.
+
+"Too bad", he said.
+
+I had no recourse. I got a very stressful 51%. Just one example. There are countless others. With a culture that allows others choose the tools we use, we can't expect different than workplaces and teachers that make arbitrary decisions.
+
+We also can't expect an economy that quickly responds to problems either.
 
 ### Story 9*** - WOP
 
@@ -3899,19 +3917,42 @@ Translation: how many claims do you have open? The higher the pending, the highe
 
 Mine was usually 50–80. Some other insurance companies had 200 and a hold time of an hour. You'd hear it in their voice.
 
-I'd talk to these adjusters and realize my department was actually one of the better ones out there. We actually mostly got along. We went on trips, did bar nights, celebrated each other's achievements (our happiest was when someone "got out").
+I'd talk to these adjusters and realize my department was actually one of the better ones out there. We mostly got along. We went on trips, did bar nights, celebrated each other's achievements, and respected our managers.
 
 But they, and everyone, were simply up against a wall.
 
-The stream of problems we encountered were not caused by us, but since "insurance" is associated with making problems go away, a person running a red light, or getting their car stolen on vacation became our problem to help solve, or so many other weird scenarios.
+We had no control over the stream of problems we encountered, but since "insurance" is associated with making problems go away, a person running a red light, or getting their car stolen, became our problem to help solve.
 
 One of my claims happened in a different state.
 
-I could not find its government regulations. I tried and tried, called and searched around. Nothing.
+I could not find its government regulations. I tried and tried, called and searched around.
 
-I eventually got it days later. The regulation said a not-at-fault driver could sue the at-fault driver for $1,000. Any damage above that the not-at-fault driver must have their own collision coverage. This was very unusual, and I had to explain that to my insured—with no collision—over a long phone call.
+I got it days later. The regulation said a not-at-fault driver could sue the at-fault driver for $1,000. Any damage above that requires having collision coverage to repair. My insured had no collision coverage. I had to explain this to my insured over a long phone call.
 
-Yet, after asking "what's your pending?" to hundreds of adjusters around the country, these stories were common everywhere. Just food for thought. These are not just stories of my job, but of your economy.
+In short, the insured was screwed.
+
+But by whom? He didn't buy collision insurance, but maybe someone could have told him this could happen? Yet, I've processed thousands of claims and didn't even know his situation was possible.
+
+The point is, after asking "what's your pending?" to hundreds of adjusters around the country, these stories were common. With so many different regulations, laws, policies, vehicles, companies, etc. Complications and surprises are inevitable.
+
+Here's another example to illuminate the point. 
+
+For decades, every American car shared the same handful of standardized headlight designs—universal, cheap, and always in stock. But the sealed-beam technology was getting old. When deregulation came in 1983, innovation arrived with it— halogen, then LED—but then ran away entirely.
+
+Today there are thousands of unique headlight assemblies, each specific to one model and trim level, each priced accordingly:
+
+| | **1982 Sealed Beam** | **2026 Headlight Assembly** |
+|---|---|---|
+| **Part cost (nominal)** | ~$8–$15 per unit | $300–$1,000+ per side (LED); up to $4,000+ for premium |
+| **Part cost (2026 dollars)** | ~$25–$48 | $300–$4,000+ |
+| **Labor time** | 5–10 minutes, DIY-friendly | 30 min to several hours; often requires bumper removal |
+| **Labor cost** | Near zero (truly self-service) | $100–$1,000 per side depending on vehicle |
+| **Total real-world cost** | ~$25–$50 all-in (2026 dollars) | $400–$5,000+ all-in for complex systems |
+| **Availability** | Any auto parts store, universal fit | Model-specific, sometimes weeks on back-order |
+
+And this is just for headlights. This increasing complication has strong ripple effects. Who pays when waiting weeks for a model-specific parts? The car owner, repair shop, manufacturer, parts supplier, insurance company? Arguing over who pays is now routine and definitely raised insureds emotions and adjuster pendings.
+
+Just food for thought. These are not just stories of my job. The bell ringing at the claims center isn't just a warning for adjusters to work faster—it's ringing for you too, a signal about the state of your economy, heard directly from the frontline.
 
 ### Story 12* - Thanks
 
