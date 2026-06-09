@@ -1347,13 +1347,13 @@ _The gods did not reveal, from the beginning, all things to us, but in the cours
 
 Xenophanes, Greek Philosopher 6th Century BC.
 
-Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
+Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in the urban jungle.
 
 There are no stories. No heroes. No stats. All lifeforms just go to work. Sometimes finding a niche in a healthy ecosystem. Sometimes not.
 
-Regardless, lifeforms still goes to work.
+Regardless, lifeforms still go to work.
 
-Because the laws of physics, chemistry, and geology always reign. They interact to create an emergent game board. Entropy wears down homes, spoils food, and puts timers on every lifeform's existence. Life unknowingly responds by continually creating modifications of existing forms, while natural selection determines which offspring survive best in the environment to represent life's future.
+Because the laws of physics, chemistry, and geology always reign. They interact to create an emergent game board. Entropy wears down homes, spoils food, and effectively puts timers on everyone's existence. Life unknowingly responds by continually creating modifications of existing forms, while natural selection determines which offspring survive best in the environment to represent life's future.
 
 Our game is different because of our minds.
 
@@ -3405,6 +3405,25 @@ The Bronze Age radically altered our DNA
 Dr. David Reich, geneticist.
 May 10, 2026
 https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
+
+### Soc
+
+This is what I think Socrates was getting at.
+
+A tiger could be the biggest vegan ever. We don't know its thoughts, philosophy, or prayers. If this seems ridicules, there are vegans who eat meat, climate change activists who take planes, etc. Because we don't look at the reality of our technological identity and ecosystem.
+
+We do not classify a single organism by its language, culture, or thoughts. Yet with us, it's open season on the never ending list of identities.
+
+Yet, here's a question. Does cold respond to English words desiring warmth differently than it does Chinese words?
+
+No. Cold is a physical state — the absence of thermal energy, governed by thermodynamics. It has no mechanism by which it could detect, process, or respond to human language in any form. English words and Chinese words are equally irrelevant to it.
+
+There is no transmission from the entropy increasing world, to teh entropy decreasing world (life), but the material contact between the two.
+
+This is a clean illustration Techvolution's core points: the laws of physics, chemistry, and geology don't negotiate with human frameworks. They operate the same way regardless of what language, ideology, culture, or belief system a person holds. It's up to us to hold beliefs that harvest or build the material need to order more things, and thereby keep life prosperous. A poorly insulated house loses heat at the same rate whether its owner is a progressive or a conservative, speaks Mandarin or English.
+
+That indifference is precisely why the book argues that aligning our frameworks with natural mechanisms matters — nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe.
+
 
 ### Chapter 13
 
