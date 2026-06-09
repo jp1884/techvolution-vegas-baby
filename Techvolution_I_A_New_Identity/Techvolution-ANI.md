@@ -72,7 +72,7 @@ _"We become what we behold. We shape our tools and thereafter our tools shape us
 
 _"It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change."_
 
-—Often attributed to Charles Darwin
+—Leon C. Megginson, often wrongfully attributed to Charles Darwin
 
 ### Quotes For Later Chapters
 
@@ -83,6 +83,9 @@ _"It is not the strongest of the species that survives, nor the most intelligent
 
 <!-- _“When you grow up you tend to get told the world is the way it is and … to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family, have fun, save a little money. That’s a very limited life. Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again.”_
 —Steve Jobs -->
+
+<!-- "The small strength and speed of man, his want of natural weapons, etc., are more than counterbalanced: first, by his intellectual powers, through which he has formed for himself weapons, tools, etc., though still remaining in a barbarous state; and, secondly, by his social qualities, which lead him to give and receive aid from his fellow-men."
+— Charles Darwin, The Descent of Man -->
 
 <!-- "Evolution is not a ladder of progress, but a bush of diversity."
 —Ernst Mayr -->
@@ -1344,17 +1347,21 @@ _The gods did not reveal, from the beginning, all things to us, but in the cours
 
 Xenophanes, Greek Philosopher 6th Century BC.
 
-Humans play the Game of Life. Most of time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
+Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
 
-The laws of physics, chemistry, and geology still reign. They interact to create an emergent game board. Entropy wears down our homes, spoils our food, and puts timers on the entire human experience. Life continually creates modifications of existing forms, while natural selection determines which offspring survive to represent life's future.
+There are no stories. No heroes. No stats. All lifeforms just go to work. Sometimes finding a niche in a healthy ecosystem. Sometimes not.
 
-Our game is different because of us.
+Regardless, lifeforms still goes to work.
 
-We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade.
+Because the laws of physics, chemistry, and geology always reign. They interact to create an emergent game board. Entropy wears down homes, spoils food, and puts timers on every lifeform's existence. Life unknowingly responds by continually creating modifications of existing forms, while natural selection determines which offspring survive best in the environment to represent life's future.
+
+Our game is different because of our minds.
+
+We have mythological, philosophical, scientific interpretations of life's reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade.
 
 The frameworks that help us adopt tools based on conditions—those frameworks survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
 
-But in real-time is hard to tell which is which.
+But in real-time it is hard to tell which is which.
 
 To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and have a limited lifespan. Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: the realization of our technological identity.
 
@@ -1907,21 +1914,27 @@ Seasons passed. Family passed. Friends passed. I survived. I grew strong.
 
 When the Hunter-Star fell, warm returned. Deer-Star came. I went with the foraging party. 12 warriors, five dogs. We walk. Walk.
 
-I saw Giving Tree. No enemy there. No one there. No one waiting.
+We see the Giving Tree. No enemy there. No one there. No one waiting. Giving Tree looks sick. Leaves are few. No fruit. No baobabs. No deer feeding.
 
-Giving Tree looks sick. Leaves are few. No fruit. No baobabs. No deer feeding. 
+Keep moving or go back? We need to find Giving Tree fruit or we get sick.
 
-We keep walking. We gather roots. We gather reeds. Many baskets are still empty. Hunger. Thirst. 11 warriors remain. Two dogs left. We keep walking. Walk to many places new. 
+We keep going. We follow a valley towards the Deer-Star. We keep walking. We gather roots. We gather reeds. Many baskets are still empty. Hunger. Thirst. 11 warriors remain. Two dogs left.
 
-Keep moving.
+We keep walking. See new places.
 
-And we saw something new.
+Keep moving. More hunger. Keep moving we need food.
 
-We saw people. Different people.
+We turn sideways from the Deer-Star. Keep moving. Find fruit. Can't eat. Where are we. I want to go home. Keep moving. We find some fruit. Enough to keep going. Move. We keep moving. Thirst. Where is river. Water. Some water. We must share. Why must I share.
 
-They were not gathering. They were not hunting.
+We keep moving. Up the valley. More water. More green. More trees. Fruit. We find fruit. River. Deer. We smile to each other. It was good to keep going.
 
-Many men with spears stand in lines. They surround other giving trees. Smaller giving trees. 
+Is this new home?
+
+Then we see something new. We see people. Different people.
+
+They are not gathering. They are not hunting.
+
+Many men with spears stand in lines. They surround trees. Fig, nut, smaller giving trees, and grass.
 
 Other men are picking fruit from the trees.
 
@@ -1941,13 +1954,13 @@ By the time I finish, the sun is setting. I check my tools—plow, shovel, axe�
 
 I go watch what they are doing down at the beach. Twelve long boats with huge logs lashed to either side. The shipbuilders have been building for two seasons.
 
-As night comes, an Elder sits beside me.
+As the sun sets, an Elder sits beside me.
 
 "How will they get there?" I ask.
 
 "You should say, 'how will we get there.' They, I, go nowhere alone. We can go anywhere."
 
-He looks up at the night sky. "What do you see?"
+The Elder looks up at the night sky. "What do you see?"
 
 "The gods."
 
@@ -1957,7 +1970,7 @@ He looks up at the night sky. "What do you see?"
 
 "As you should. There is more to know. Tāwhirimātea placed the stars. The Navigator reads the gods' signs. That is how we got here. That is how we will get there. Listen to the gods."
 
-I notice the Elder's voice deepens as he says, "In the time of the seventh Navigator, when the fishing grounds grew thin, the Chief consulted the priests. They read the signs of Tāne—birds flying beyond the horizon, stars positioned to show when land waits beyond sight.
+I notice the Elder's voice deepens as he says, "In the time of the seventh Navigator, when the fish grew few for our many people, the Chief asked the priests to read the sky. They read the signs of Tāne—birds flying beyond the horizon, stars positioned to show when land waits beyond sight.
 
 The gods were calling us to voyage.
 
@@ -1965,49 +1978,49 @@ We built twelve canoes according to the patterns the gods revealed in the first 
 
 The Navigator carried the red arrow his father's father's father carved. Seven white shells bound to its shaft—one for each Navigator in his line, each voyage that brought us here, island by island. Seven generations. Seven new homes found.
 
-We paddled into the endless ocean. For sixteen days we saw nothing but water and sky. The Navigator read the gods' signs each night—stars, currents, wind from the north.
+We paddled into the endless ocean. For sixteen days we saw nothing but water and sky. Ocean. Sun. Waves. Ocean. Sun. Waves. Heat. Thirst. Hunger.
+
+The Navigator read the gods' signs each night—stars, currents, wind from the north.
 
 On the seventeenth morning, we saw land.
 
 The Fire-Keeper pulled herself onto the beach—and found people already there.
 
-The Navigator raised his hand. Our warriors held their spears, waiting.
+The Navigator had passed on the water. Our warriors held their spears, waiting for the battle.
 
-The Navigator chanted his lineage. An old woman answered, naming ancestors we knew. Cousins.
+We chanted our lineage. An old woman answered, naming ancestors we knew. Cousins.
 
-They showed us black stone adzes, sharper than ours. "From the mountain island," the Chief said. "We trade fish for stone, stone for shells, shells for taro. Each island holds different gifts. Trade makes us strong."
+We made peace.
 
-We moved on. Found a new island.
+We showed them our black stone blades, sharper than theirs. "From the mountain island," we said. The old woman's people leaned close to see. "We give fish for stone, stone for shells, shells for taro. Each island holds what the others do not. When we trade, no one goes hungry."
 
-Built shelters, planted the taro, fished the waters. We raised the red arrow on stones, honoring the Navigator who brought us.
+Cousins became friends. We moved on. Found a new island.
 
-"This is the wisdom that flows in your blood," he says. "You plant our food here. Someday, you may follow the lights and venture out to plant new lands in new places. The gods give us the signs, we only must read them, trust in their path, and go from land to land, island to island. Our people will visit the world."
+Built shelters, planted the taro, fished the waters. We raised the red arrow on stones, honoring the gods who carried us.
+
+"This wisdom is yours now," he says. "You plant our food here. Someday, you may follow the lights and go out to plant new lands in new places. The gods give us the signs. We need only read them, trust the path, and go from land to land, island to island. Our people will see the whole world."
 
 I look down at the beach where the canoes are nearly ready. Then back at the taro fields I watered today.
 
 "The taro I planted," I say slowly. "It came from that voyage?"
 
-"Every plant, every person, every tool is taken from island to island, home to home," Elder says. "Rongo blessed the first planting. Every seed since carries that blessing."
-
-I understand now. The tools I use, the crops I tend, the island beneath my feet—all of it came because the gods guided the seventh Navigator across the ocean. And now the gods are calling again.
+The Elder says, "Rongo blessed the first planting. Every seed since carries that blessing. When we work together."
 
 "Will there be an eighth shell?" I ask.
 
 The Elder smiles. "If the gods will it."
 
-The shipbuilders walk up from the beach. I want to ask if I can give them my plants.
+The shipbuilders walk up from the beach. I want to ask if they will take my plants.
 
-But they stop. Then bow at the Elder.
+But they stop. Then bow to the Elder.
 
-The Elder looks down, raises a hand in acknowledgment, and rises. "May the gods bless our voyage."
+The Elder looks down, raises a hand, and stands. "May the gods bless our voyage," he says. Then he goes down the shore alone.
 
-He then walks down the shore alone.
+"Why did you bow?" I ask.
 
-"Why did you bow?" I ask. "Why does he eat first? Why do you wait for his word before you build?"
+An old builder watches him go. "We were lost on the water. Sun. Waves. Thirst. Fighting. Hunger. He was a fisher. When the Navigator passed, he kept us calm. He kept us together. He brought us to the island. Then our cousins met us with spears. We made ready to die. He was still. He walked to them. He spoke their grandfathers' names. We saw the blood we shared. He showed them our hard blades. There enemies became kin. Then he filled our baskets again. Healed the sick. Read the gods' signs. Found this new island. He could have made us serve him. Instead he became a fisher again, happy to tend his nets."
 
-An old builder watches him go. "Our cousins met us with spears. He did not raise one. He spoke their grandfathers' names, found the blood we shared, traded fish for stone. Enemies became kin. Then he restocked our supplies. Read the gods' signs. Found a new island. He brought us to our home."
-
-Another builder says, quietly, "Don't tell him. But he is our king."
+Another builder says, quietly, "Do not tell him. But he is our king."
 
 #### The Limits of Signs
 
@@ -2367,7 +2380,7 @@ He disobeys? I am their king.
 
 "No matter, I think my eyes are as good as another's."
 
-I scan the benches. Members stare back, silent. No one points. No one speaks. No one helps their king find traitors in their midst.
+I scan the benches. Members stare back, silent. No one points. No one speaks. No one helps their king find traitors in their midst. I am confused. Frustrated. I can't let them see it.
 
 The Five seats are empty. Someone warned them. Someone here, watching me now with blank faces.
 
@@ -2407,31 +2420,56 @@ The wheel is changed. The crowd cheers. Did the driver smile at them?
 
 I enter the coach.
 
-The streets are full. We travel London's roads. The people are many. The driver turns down another lane. I do not know these streets. Where am I? I cannot return home from here.
+The King's Street is full. The people are many. We shall seek the surrender of the traitorous five at the Guildhall.
 
-He turns again. Another unknown road.
+The coach is slow. I watch the city.
+
+I see the realm. Our loyal subjects. Workers laying roads. Bakers making bread. Clothiers, smiths, shipwrights, masons—a whole city making itself. I have not seen most of it. I do not understand it. And yet it builds through our order. I protect men of knowledge. I fund their research. The people visit our magnificent churches to show their weekly devotion. Our ancestors turned wood forts into stone castles, castles into palaces. Kingly protection made the roads and farms and canals safe from Scots and French and rebellious lords. A strong monarch kept the realm from tearing itself apart.
+
+We arrive at the Guildhall. This troublesome episode is near its end.
+
+I step down. I look for the aldermen, for the men who keep the City, waiting to receive their King. The crowd is large. Somewhere here are my little birds.
+
+I hear "Privilege! Privilege! Privilege!" from our subjects. The traitors have fled and left their agents to cause agitation.
+
+"Shall we return to Whitehall Palace, Your Majesty?"
+
+I nod.
+
+My coach and guard are going home. We must return to the King's Street.
+
+The driver turns down a strange lane. I do not know these streets. Where am I? I cannot return home from here.
+
+He turns again. A new unknown road. 
 
 Is this servant with Parliament? Are our loyal soldiers nearby?
 
-I shall not fear. A king can be killed, but kingship cannot. I look at the people's faces. They know everything I have done, that my ancestors did. Everything I defended, they defended. If I am guilty, so is the realm.
+I shall not show my fear. A king can be killed, but kingship cannot. I look at the people's faces. They know everything I have done, that our ancestors did. Everything I defended, they defended. If I am guilty, so is the realm.
 
-That can't be true.
+That cannot be true.
 
-I see my realm. Our loyal subjects. Workers laying roads. Bakers making bread. Clothiers, smiths, shipwrights, masons—a whole city making itself. I have not seen most of it. I do not understand it. And yet it builds through my order. I protect men of knowledge. I fund their research. The people visit my magnificent churches to show their weekly devotion. My ancestors turned wood forts into stone castles, castles into palaces. Kingly protection made the roads and farms and canals safe from Scots and French and rebellious lords. A strong monarch kept the realm from tearing itself apart.
-
-And now these Puritans and Presbyterians would challenge the Crown? To what end? Do they want to practice religion freely?
+What do these Puritans and Presbyterians want. To challenge the Crown? To what end? Do they want to practice religion freely? They want Sovereignty.
 
 I am their king. Chosen by God, given the duties of God. It is in the Scriptures, the laws, the customs. The faithful people know it.
 
-The coach stops at Whitehall Palace.
+The coach stops at Whitehall Palace. Good. I am hungry, thirsty, and cold. I can't let our subjects see it.
 
-The door opens before I touch it. A hand steadies me down. "Your Majesty."
+The palace is wonderful. Hundreds of rooms. Marble ceilings. Paintings by the world's finest artists. Daily work for carpenters, masons, turners, coopers, glaziers, joiners, blacksmiths, tailors, weavers, cooks, bakers, gardeners, grooms, chandlers. A host of workers, servants, and orderlies with families.
 
-"Your Majesty." The gates part. The guards bow.
+Now my coach door opens. A hand steadies me down. "Your Majesty."
 
-I walk. The doors open ahead of me. The fire is lit. The table is set, the drink is ready, the meat is carved.
+The magnificent gates open. The dozens of guards bow. 
 
-I am announced.
+I walk. The interior doors open ahead of me. I enter my palace.
+
+"Your Majesty."
+"Your Majesty."
+
+I enter the dining hall. Grand as a cathedral, dozens of nobles await.
+
+The fire is lit. The table is set, the drink is ready, the meat is carved.
+
+I am to be announced.
 
 "Charles, by the Grace of God, King of England, Scotland, France and Ireland, Defender of the Faith."
 
@@ -2445,11 +2483,13 @@ Every lord bows. Ladies curtsey. Good.
 
 "Lighten our darkness, we beseech thee O Lord; we pray: and by thy great mercy defend us from all perils and dangers of this night; for the love of our Saviour. Amen"
 
-I see Lord, that my words do not catch.
+I say, "Our loyal subjects defy their King. By God's grace the ancient rights of the Crown, and the laws and customs of this realm will be enforced. The north is free. The farmers and guilds are devout. The faith of the nobles will secure the realm."
+
+My words do not catch, such is God's Divine message.
+
+The room erupts.
 
 "Long live the King!"
-
-I say, "Our loyal subjects defy their King. By God's grace the ancient rights of the Crown, and the laws and customs of this realm will be enforced. The north is free. The farmers and guilds are devout. The faith of the nobles will secure the realm."
 
 "For God and King Charles!"
 
@@ -2461,25 +2501,29 @@ Princes, Dukes, Earls, Barons, Knights of the Realm, responsible for thousands o
 
 I say "We will summon the militia. These two Englands will become one realm, once more. Our ancestors used sword and spear. We must use gun and cannon."
 
+We discuss, lament, and celebrate with the lords of the realm.
+
 Earl Johnson receives a letter "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert."
 
-I look up at the painting of my father. Painted by the greatest artists in Europe. The middling sort count coin and ledgers. I count centuries. Art. Glory. Stories high, finer than anything in Rome. My father, King James, ascends into Heaven, gold and silver lines showing the justice of our Divine Right.
+The Prince's renown from his European battles creates a burst of activity. The nobles give orders in speech and diction. The servants fulfill them. Good.
 
-I will return, father. I will do our house justice. I will save the realm. I will save our people.
+Among the celebrations, I look up at the marvelous painting of my father. Done by the greatest artists in Europe. The middling sort count coin and ledgers. I count centuries. Art. Glory. I see that my father, King James, ascended into Heaven, gold and silver lines showing the justice of our Divine Right.
+
+I will return, father. I will do our noble house justice. I will save the realm. I will save our people.
 
 I am their king.
 
 --
 
-The king raises his standard at Nottingham. Lords ride to him and their tenant farmers follow. The merchants and craftsmen of the south build their army. Same food, equipment, weapons. One side organize by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
+The king raises his standard at Nottingham. Lords ride to him and their tenant farmers follow. The merchants and craftsmen of the south build their army. A country at civil war. Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
 
 Battles take place at Edgehill, Marston Moor, Naseby, and more.
 
-Sixty major engagements. 84,000 soldiers dead. Many more wounded. Three years of fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. One in ten Britains dead before it ends.
+Sixty major engagements. 84,000 soldiers dead. Many more wounded. Three years of fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Perhaps as many as one in ten countrymen dead before it ends.
 
-Charles in prison.
+Parliament wins. Charles in prison.
 
-Secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries dwindle. An old realm answering for a king the new country is done with.
+He secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries dwindle. An old realm answering for a king the new country is done with.
 
 The Scottish army marches south.
 
@@ -2487,11 +2531,11 @@ Parliament is waiting with their now veteran New Model Army.
 
 More battles. More dead. Same result. The king defeated.
 
-Parliament infuriated. Trial held. 135 commissioners appointed. Half refuse to attend. The mad half in control.
+Parliament infuriated. Trial held. 135 commissioners appointed. Half refuse to attend. The angry half in control.
 
-He never enters a plea. And the stammer that has caught his words all his life, is gone. He speaks aloud, clear and certain—not to himself, but to the court. "No earthly power can justly call me in question." He is right, by every law that has ever existed, at least since the Roman legions left the land.
+Charles never enters a plea. And the stammer that has caught his words all his life, is gone. He speaks aloud, clear and certain—not to the judges, himself, his father, or God, but to the people. "No earthly power can justly call me in question." He is right, by every law that has ever existed, at least since the Roman legions left the land.
 
-Charles is convicted. Held prisoner at Whitehall Palace. He looks upon his father in the magnificent mural, being taken to Heaven by God's angels while the scaffold and chopping block are built outside.
+Charles is convicted. Held prisoner at his old home, Whitehall Palace. He looks upon his father in the magnificent mural painting being taken to Heaven by God's angels...while the scaffold and chopping block are built outside.
 
 Last words. "As for the People, I desire their liberty and freedom, as much as any whosoever; but I must tell you...A Subject and a Sovereign are clean different things."
 
@@ -2507,13 +2551,15 @@ The army argues with Parliament. Parliament argues with itself. Nobody agrees on
 
 The people remember. England is a realm, and a realm needs a king.
 
-Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. All who convicted the king are executed. England exhales.
+Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. The regicides are hunted. The worst are executed. England exhales.
 
 Charles II leans toward the old faith, Catholicism, in a devoutly Protestant England. His brother James succeeds him, and wears that foreign faith openly.
 
+Parliament is furious.
+
 New Protestant monarchs, William and Mary, are installed—by Parliament, in a Glorious Revolution.
 
-The Puritans have already fled. More kept leaving. Many others join them.
+Many Puritans had already fled the realm. More kept leaving. Others joined them.
 
 New soil. No king.
 
@@ -2642,7 +2688,7 @@ Mary Anning looks up from her workbench. "Looking for something in particular?"
 
 Mary sets three specimens on the counter.
 
-"These are from different layers," she says. "This coiled shell, ridged and chambered is from thirty feet down. This large vertebrae from sixty feet. And this serrated, curved tooth from ninety feet."
+"These are from different soil layers," she says. "This coiled shell, ridged and chambered is from thirty feet down. This large vertebrae from sixty feet. And this serrated, curved tooth from ninety feet."
 
 Mr. Hartley leans closer. "Different animals?"
 
@@ -2650,15 +2696,11 @@ Mr. Hartley leans closer. "Different animals?"
 
 Mr. Webb frowns. "Worlds?"
 
-"The deeper you go, the older the rock. We dig to reach Roman ruins. These are deeper still. What lived at ninety feet never lived at thirty feet. What lived at thirty feet is gone now."
+"We dig to reach Roman ruins. These are deeper still. What lived at ninety feet never lived at thirty feet. What lived at thirty feet is gone now."
 
 "Gone," Mr. Hartley says. "Extinct?"
 
 "Yes."
-
-Mr. Webb picks up the tooth. "But the Flood would have mixed them."
-
-"These specimens were separated by feet of rock between them. Each layer holds its own creatures, and nothing else.."
 
 Mr. Hartley studies the vertebrae. "So these died long before humans."
 
@@ -2678,9 +2720,9 @@ Mr. Webb exhales slowly. "So God's creation... can end?"
 
 Mary doesn't answer.
 
-"Perhaps, we have yet to find them in all the unexplored areas."
+"Perhaps, we have yet to find your lost creatures in the unexplored areas of our world."
 
-Mr. Hartley says, "How much, Miss Anning?"
+Miss Anning doesn't responsd. Mr. Hartley says, "How much, Miss Anning?"
 
 "Two shillings for the ammonite. Five for the vertebrae. Three for the tooth."
 
@@ -2702,19 +2744,19 @@ Mr. Hartley kneels beside a pool. A crab moves across stone, claws extended.
 
 "Similar. Older. Different species."
 
-A gull lands near the pool. Strikes down. Cracks the shell with its beak. Then calls into the air.
+A gull lands near the pool. Approaches the grab and strikes down and cracks the shell with its beak. Then calls into the air.
 
 Mr. Hartley watches. "We classify that gull by its beak structure, its feet, its wings. Observable traits. We don't need to hear its call or understand its thoughts."
 
-"We observe what works. What works tells us about the environment. Form reveals purpose. Here and now, and wherever else we look. Observable truths in nature and man." Mary says.
+Mary responds, "We observe what works. What works tells us about the environment. Form reveals purpose.".
 
-Mr. Webb unwraps the ammonite. Holds it up. "This shell—it controlled buoyancy. The opening suggests tentacles. The size suggests a predator."
+Mr. Webb unwraps the ammonite fossil. Holds it up. "This shell—it controlled buoyancy. The opening suggests tentacles. The size suggests a predator."
 
 "The form tells the story," Mary says. "Even when the creature is stone."
 
 Mr. Hartley pauses. "Your work will make much noise at the Geological Society, Miss Anning."
 
-"They don't accept poor or women as members."
+"They don't accept the poor or women as members."
 
 "I know. Regardless your work will be known there."
 
@@ -2738,11 +2780,11 @@ I will tidy up. I ask the nice boy to visit the store for me. I write him a shop
 
 "Can't read?" I say back. Everyone should read. How can you work if you can't read? It feels wrong that you cannot. I'll teach you. We'll do it together."
 
-I'm teaching him his letters. He sits beside me at the kitchen table, sounding out words like any child would. Eager. Bright. Over days we stop our chores for a few hours and I teach and he studies. 
+He sits beside me at the kitchen table. He is sounding out words like any child would. Eager. Bright. We stop our chores for a few hours and I teach. 
 
 It feels good to help him learn. He takes to it well.
 
-Hugh comes in. Watches us. His face darkens.
+My husband Hugh comes home early one day. Watches us. His face darkens.
 
 "Boy. Leave the room."
 
@@ -2756,7 +2798,7 @@ I look up in surprise as the lesson ends. "Why does it end?" I ask.
 
 He sits down. Speaks low, but firm. I did something wrong.
 
-"Learning will spoil him. Once a slave can read, he is no longer a slave. He has eyes outside the household. He sees what we have and don't share. He thinks. He calculates. He plans. You'll ruin him for us."
+"Learning will spoil him. Once a slave can read, he is no longer a slave. He has eyes outside the household. He sees what we have and don't share. He thinks. He calculates. He plans. You'll ruin him for us. And it's against the law."
 
 I say "But everyone in Ohio learns to read."
 
@@ -2772,17 +2814,17 @@ I take a minute to realize it all.
 
 I close the book. I'm so stupid. He's right. Hugh knows how the world works. I'm an outsider, naive. Frederick took advantage of me. My slave took advantage of me! 
 
-I leave the room. I look at him. He was listening to us! He's so tricky. The boy looks at me. He wants help. Never!
+I leave the room. I look at him standing there looking at me. He was listening to us! He's so tricky. The boy looks at me. He wants help. Never!
 
-I tear the book up. Tear every page into pieces. Never again!
+I tear his lesson book up. Tear every page into pieces. Never again!
 
-Years pass. He does the fetching. He does the tidying. I look over to make sure the work gets done.
+Years pass. He does the fetching. He does the tidying. He does the cleaning. I look over to make sure the work gets done.
 
 One day Frederick never comes back. I don't know how he managed to flee North. To read maps. To read schedules. He's tricky.
 
 I hear Frederick gave speeches in the North. We'll send snatchers after him.
 
-I see Frederick wrote: _Narrative of the Life of Frederick Douglass, an American Slave_. Three books in all. They are popular. That is our money.
+I see Frederick wrote: _Narrative of the Life of Frederick Douglass, an American Slave_. Three books in all. They are popular. They sell many prints. That is our money.
 
 I hear Frederick is speaking in Britain! I've never been to Europe.
 
@@ -2790,7 +2832,11 @@ The North is invading. Frederick told the world lies about our society. We must 
 
 The war is on.
 
-We make weapons. Rifles. Grenades. Trains. Observation balloons. We make manuals to use them. We hand them out to our defenders.
+The North makes many weapons, rifles, cannons, boats, trains, observation balloons.
+
+So can we!
+
+We make manuals to use them. We hand them out to our defenders.
 
 "We can't read, ma'am".
 
@@ -2806,15 +2852,15 @@ Doctors' ward: one in ten mothers dies of childbed fever. Midwives' ward: one in
 
 I watch the other doctors come from the autopsy room. Hands still stinking of death. They examine the mothers. Insert their fingers to check dilation. Some die three days later. Fever. Agony.
 
-I tell them: wash your hands. Chlorinated lime solution. 
+I tell my fellow doctors: wash your hands. Use chlorinated lime solution. 
 
 "Quiet, Dr. Semmelweis, you fool!"
 
-I show them the numbers. "We were carrying death from the corpses to the mothers."
+I show them the numbers. "We are carrying death from the corpses to the mothers."
 
-They stare at me.
+They stare at me with rage.
 
-"You're saying we killed them? We heal them. We open the windows to bring in fresh air."
+"You're saying we kill our patients? We heal them. We open the windows to bring in fresh air."
 
 "I'm saying wash. Just wash."
 
@@ -2832,9 +2878,9 @@ Is it me? Aren't the numbers clear?
 
 ---
 
-I read Pasteur's work on fermentation. He's in France. I'm in Scotland. Yet I read his achievements within weeks of their publication. How wonderful. Decay is not caused by spontaneous generation. Rather, germs in the air are the cause.
+I read Loius Pasteur's work on fermentation. He's in France. I'm in Scotland. Yet I read his achievements within weeks of their publication. How wonderful. Decay of organic matter is not caused by spontaneous generation. Rather, germs in the air are the cause.
 
-Germs. Tiny little lifeforms. I guess we can't see planet details and moons until we zoom in. I guess we can't see germs either. But both are there nonetheless.
+Germs. Tiny little lifeforms. I guess we can't see planet details and moons until we zoom in. I guess we can't see germs either. But both are real nonetheless.
 
 If germs cause fermentation, they can cause infection.
 
@@ -2848,19 +2894,21 @@ Some wounds don't fester. More patients survive.
 
 I publish the results. Some colleagues adopt it. Others resist.
 
-"Too much trouble," they say. "Unproven, Dr. Lister."
+"Your techniques are too much trouble," they say. "Unproven, Dr. Lister."
 
 Several saved. The evidence talks.
 
-It works. I've seen it work. I talk to the people who prove it works. Germs are small. Tiny. Carbolic acid kills these germs. Infections do not generate spontaneously. The evidence is mounting. Hospitals in Germany, in France—they're adopting antisepsis. Infection rates drop.
+It works. I've seen it work. I talk to the people who are alive because of it. Germs are small. Tiny. Carbolic acid kills these germs. Infections do not generate spontaneously. The evidence is mounting. Hospitals in Germany, in France—they're adopting antisepsis. Infection rates drop.
 
-Dozens saved. The evidence talks.
+Dozens saved. Scientific papers are written. The evidence talks.
+
+Hand washing spreads.
 
 ---
 
 The president is shot.
 
-I'm the attending physician. I take charge. The bullet is lodged somewhere in his abdomen. I need to find it. I've been a surgeon for thirty years. I know wounds. I will save the president. He is a war hero. A good man.
+I'm the attending physician. I take charge. The bullet is lodged somewhere in his abdomen. I need to find it. I've been a surgeon for thirty years. I know wounds. I will save the president. He is a Union war hero. A good man.
 
 I insert my finger into the wound. Probe for the bullet. Can't find it. Another doctor tries. Then another. We take turns. "We must find the bullet, Dr. Bliss", others agree with me.
 
@@ -2872,33 +2920,11 @@ The fever worsens. We move him to the coast to get good air.
 
 Eleven weeks. He dies.
 
-The bullet wound was too severe. The shock to his system. Nothing could have saved him.
+The bullet wound was too severe. The shock to his system was too severe. Nothing could have saved him.
 
 I failed him.
 
 I've heard of Lister's carbolic acid methods. They do not matter. I didn't find the bullet.
-
----
-
-The patient is on the table. Appendicitis. We need to hurry.
-
-I scrub my hands in carbolic solution. Forearms too. Three minutes.
-
-I think of when I studied under the old surgeons. They had blood-stiffened coats. They'd wipe their hands on their aprons between patients. They were proud of the blood stains, showed wisdom they said.
-
-I couldn't imagine. Untold millions died. So much agony.
-
-I remember hearing about President Garfield. How they probed his wound with unwashed hands. He likely died of infection.
-
-I couldn't imagine putting unwashed hands into a patient.
-
-I make the incision. Remove the infected appendix. Irrigate with antiseptic. Suture.
-
-The patient wakes. No fever. The wound is dressed. It will heal.
-
-Next patient, please nurse.
-
-I will go wash my hands.
 
 #### Work
 
@@ -3615,11 +3641,9 @@ I was yet to learn the difference between working well and meeting targets. The 
 
 ### ! Story 3b*** - Claim Walkthrough - Reserves
 
-Ever put some money down on the blackjack table? Maybe roulette or baccarat is more your game. Whatever you bet, the casino must have the money on hand to pay you if you win. Casinos don't gamble; they handle other people's gambling.
+Ever put some money down on the blackjack table? Maybe roulette or baccarat is more your game. Whatever you bet, the casino must have the money on hand to pay you if you win.
 
-Insurance works similarly. Insurance companies don't take risks; they handle other people's risks.
-
-Per government regulation, insurance companies must hold a reasonable amount of money on hand to pay claims as they come in. For this reason, insurance companies are huge purchasers of short-term bonds—bonds are liquid and can be sold quickly if a surprise tornado or snowstorm triggers a wave of unexpected claims.
+Insurance works similarly. Per government regulation, insurance companies must hold a reasonable amount of money on hand to pay claims as they come in. For this reason, insurance companies are huge purchasers of short-term bonds—bonds are liquid and can be sold quickly if a surprise tornado or snowstorm triggers a wave of unexpected claims.
 
 During a claim call, adjusters estimate the likely payment so the company can "reserve" the right amount of money from its accounts. The accounting needs to stay accurate as claims come in.
 
@@ -3721,9 +3745,9 @@ Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, sho
 
 In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
 
-Here's why: we were only minorly measured on accuracy or customer satisfaction. But we were exactly measured on hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served and not take up their time about our bad service. Importantly, we always knew that brokers could send customers to other companies.
+Here's why: we were only minorly measured on accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew that brokers could send customers to other companies.
 
-So the hold metric became everything.
+So the inbound caller hold metric became everything.
 
 To enforce it, they played a bell in our headsets. When someone was on hold, it rang: DING, DING, DING. A monotone alarm that never stopped until you picked up. A sound fit for a torture test.
 
@@ -3735,7 +3759,7 @@ So we adapted. "Just pay it," managers would say. Some adjusters falsely marked 
 
 Anything to stop the bell.
 
-Adjusters changed. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through rushed conversations.
+Adjusters personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through rushed conversations.
 
 We were often more stressed than the people who'd just been in crashes.
 
@@ -3805,7 +3829,7 @@ The system couldn't tell the difference between desperation and greed. So it ass
 
 ### ! Story 7*** - New Tools
 
-The call-in queue was the rock—it's warning Bell kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
+The call-in queue was the rock—its warning bell kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
 
 My direct manager was an honest guy, but so stressed he sometimes slept in his car. Within months, he went full gray.
 
@@ -3831,15 +3855,15 @@ I could end it here and make this sound quite damning. Insurance management didn
 
 But really, it isn't.
 
-Inventing and adopting new tools is often part of our personal lives, but it's not part of our education and work culture. There's no law that protects it. No constitutional amendment. We are often not even socially aware of the effect our choices have, because we see our work titles or ethnicity, but not technological identity.
+Inventing and adopting new tools is often part of our personal lives, but it's not part of our education and work culture. There's no law that protects it. No protests. No constitutional amendment. We are often not even socially aware of the effect our choices have, because we see our work titles or ethnicity, but not technological identity.
 
 For comparison, I feel much more animosity towards my high-school guitar teacher.
 
-I wanted to learn to play a few chords while getting my music credit. He insisted I learn musical notes. I could read but not fast enough during weekly tests. Instead I liked the "tabs" shortcut that made guitar fun. Music notes are good to know, but the effectual truth is I didn't need to yet. Besides Prince, Elton John, Paul McCartney, many other music greats can't read notes, so why must I in my first music class.
+I wanted to learn to play a few chords while getting my music credit. He insisted I learn musical notes. I could read but not fast enough during weekly tests. Instead I liked the "tabs" shortcut that made guitar fun. Besides Jimi Hendrix, Elton John, Paul McCartney, many other music greats can't read notes. Mark it against me sure, but why withhold the tabs that let me play better in my first music class?
 
 "Too bad", he said.
 
-I had no recourse. I got a very stressful 51%. Just one example. There are countless others. With a culture that allows others choose the tools we use, we can't expect different than workplaces and teachers that make arbitrary decisions.
+I had no recourse. I got a very stressful 51%. Just one example. There are countless others. With a culture that allows others to entirely choose the tools we use, we can't expect different than workplaces and teachers that make arbitrary decisions.
 
 We also can't expect an economy that quickly responds to problems either.
 
@@ -3937,9 +3961,9 @@ The point is, after asking "what's your pending?" to hundreds of adjusters aroun
 
 Here's another example to illuminate the point. 
 
-For decades, every American car shared the same handful of standardized headlight designs—universal, cheap, and always in stock. But the sealed-beam technology was getting old. When deregulation came in 1983, innovation arrived with it— halogen, then LED—but then ran away entirely.
+For decades, every American car shared the same handful of standardized headlight designs—universal, cheap, and always in stock. But the sealed-beam technology was getting old. When deregulation came in 1983, innovation arrived with it—halogen, then LED—but then ran away entirely.
 
-Today there are thousands of unique headlight assemblies, each specific to one model and trim level, each priced accordingly:
+Today there are thousands of unique headlight assemblies, each specific to one model and trim level, and priced accordingly:
 
 | | **1982 Sealed Beam** | **2026 Headlight Assembly** |
 |---|---|---|
@@ -3950,7 +3974,7 @@ Today there are thousands of unique headlight assemblies, each specific to one m
 | **Total real-world cost** | ~$25–$50 all-in (2026 dollars) | $400–$5,000+ all-in for complex systems |
 | **Availability** | Any auto parts store, universal fit | Model-specific, sometimes weeks on back-order |
 
-And this is just for headlights. This increasing complication has strong ripple effects. Who pays when waiting weeks for a model-specific parts? The car owner, repair shop, manufacturer, parts supplier, insurance company? Arguing over who pays is now routine and definitely raised insureds emotions and adjuster pendings.
+And this is just for headlights. The increasing complication of our economy has strong ripple effects. Who pays when waiting weeks for a model-specific parts? The car owner, repair shop, manufacturer, parts supplier, insurance company? Arguing over who pays is now routine and definitely raised insureds emotions and adjuster pendings.
 
 Just food for thought. These are not just stories of my job. The bell ringing at the claims center isn't just a warning for adjusters to work faster—it's ringing for you too, a signal about the state of your economy, heard directly from the frontline.
 
