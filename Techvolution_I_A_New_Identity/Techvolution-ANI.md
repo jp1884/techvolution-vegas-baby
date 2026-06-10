@@ -1448,6 +1448,8 @@ Ash settles into soil. Sunlight returns.
 
 Three seeds fall.
 
+<!-- Polination -->
+
 - 
 <!-- 
 sensory inputs, establish, grow, diversify. (mention genotype, phenotype more explicitly?)
@@ -1926,7 +1928,13 @@ Keep moving. More hunger. Keep moving we need food.
 
 We turn sideways from the Deer-Star. Keep moving. Find fruit. Can't eat. Where are we. I want to go home. Keep moving. We find some fruit. Enough to keep going. Move. We keep moving. Thirst. Where is river. Water. Some water. We must share. Why must I share.
 
-We keep moving. Up the valley. More water. More green. More trees. Fruit. We find fruit. River. Deer. We smile to each other. It was good to keep going.
+"You are not the most sick."
+
+"You are not the most needed."
+
+I understand.
+
+We keep moving. Up the valley. Some water. Some green. More water. More green. Trees. Fruit. We find fruit. River. Deer. We smile to each other. It was good to keep going.
 
 Is this new home?
 
@@ -1934,7 +1942,7 @@ Then we see something new. We see people. Different people.
 
 They are not gathering. They are not hunting.
 
-Many men with spears stand in lines. They surround trees. Fig, nut, smaller giving trees, and grass.
+Many big men with big spears stand in lines. They surround trees. Fig, nut, smaller giving trees, and grass.
 
 Other men are picking fruit from the trees.
 
@@ -2422,13 +2430,13 @@ I enter the coach.
 
 The King's Street is full. The people are many. We shall seek the surrender of the traitorous five at the Guildhall.
 
-The coach is slow. I watch the city.
+The coach moves slowly. I watch the city.
 
 I see the realm. Our loyal subjects. Workers laying roads. Bakers making bread. Clothiers, smiths, shipwrights, masons—a whole city making itself. I have not seen most of it. I do not understand it. And yet it builds through our order. I protect men of knowledge. I fund their research. The people visit our magnificent churches to show their weekly devotion. Our ancestors turned wood forts into stone castles, castles into palaces. Kingly protection made the roads and farms and canals safe from Scots and French and rebellious lords. A strong monarch kept the realm from tearing itself apart.
 
 We arrive at the Guildhall. This troublesome episode is near its end.
 
-I step down. I look for the aldermen, for the men who keep the City, waiting to receive their King. The crowd is large. Somewhere here are my little birds.
+I step down. I look for the aldermen, for the men who enforce order in the City, they must be waiting to receive their King. The crowd is large. Somewhere here are my little birds.
 
 I hear "Privilege! Privilege! Privilege!" from our subjects. The traitors have fled and left their agents to cause agitation.
 
@@ -2440,7 +2448,7 @@ My coach and guard are going home. We must return to the King's Street.
 
 The driver turns down a strange lane. I do not know these streets. Where am I? I cannot return home from here.
 
-He turns again. A new unknown road. 
+He turns again. A new unknown road in a foreign part of town. 
 
 Is this servant with Parliament? Are our loyal soldiers nearby?
 
@@ -2454,7 +2462,7 @@ I am their king. Chosen by God, given the duties of God. It is in the Scriptures
 
 The coach stops at Whitehall Palace. Good. I am hungry, thirsty, and cold. I can't let our subjects see it.
 
-The palace is wonderful. Hundreds of rooms. Marble ceilings. Paintings by the world's finest artists. Daily work for carpenters, masons, turners, coopers, glaziers, joiners, blacksmiths, tailors, weavers, cooks, bakers, gardeners, grooms, chandlers. A host of workers, servants, and orderlies with families.
+The palace is wonderful. Hundreds of rooms. Marble ceilings. Paintings by the world's finest artists. Daily work for carpenters, masons, turners, coopers, glaziers, joiners, blacksmiths, tailors, weavers, cooks, bakers, gardeners, grooms, chandlers. A host of workers, servants, and orderlies with housed and fed families.
 
 Now my coach door opens. A hand steadies me down. "Your Majesty."
 
@@ -2472,6 +2480,8 @@ The fire is lit. The table is set, the drink is ready, the meat is carved.
 I am to be announced.
 
 "Charles, by the Grace of God, King of England, Scotland, France and Ireland, Defender of the Faith."
+
+Music plays.
 
 Every lord bows. Ladies curtsey. Good.
 
@@ -2501,13 +2511,13 @@ Princes, Dukes, Earls, Barons, Knights of the Realm, responsible for thousands o
 
 I say "We will summon the militia. These two Englands will become one realm, once more. Our ancestors used sword and spear. We must use gun and cannon."
 
-We discuss, lament, and celebrate with the lords of the realm.
+We discuss, lament, and celebrate with the lords of the many royal houses of England and Europe.
 
 Earl Johnson receives a letter "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert."
 
-The Prince's renown from his European battles creates a burst of activity. The nobles give orders in speech and diction. The servants fulfill them. Good.
+The Prince's renown from his many victorious European battles creates a burst of activity. The nobles give orders in speech and diction. The servants fulfill them. Good.
 
-Among the celebrations, I look up at the marvelous painting of my father. Done by the greatest artists in Europe. The middling sort count coin and ledgers. I count centuries. Art. Glory. I see that my father, King James, ascended into Heaven, gold and silver lines showing the justice of our Divine Right.
+Among the celebrations, I look up at the marvelous painting of my father. Done by the greatest artists in Europe. The middling sort count coin and ledgers. I count centuries. Art. Glory. Faith. Loyalty. Inheritance. Position. I see that my father, King James, ascended into Heaven, gold and silver lines showing the justice of our Divine Right.
 
 I will return, father. I will do our noble house justice. I will save the realm. I will save our people.
 
@@ -2515,11 +2525,11 @@ I am their king.
 
 --
 
-The king raises his standard at Nottingham. Lords ride to him and their tenant farmers follow. The merchants and craftsmen of the south build their army. A country at civil war. Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
+The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. The merchants and craftsmen of the south build their army. The country is at civil war. Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
 
 Battles take place at Edgehill, Marston Moor, Naseby, and more.
 
-Sixty major engagements. 84,000 soldiers dead. Many more wounded. Three years of fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Perhaps as many as one in ten countrymen dead before it ends.
+Sixty major engagements. 84,000 soldiers dead. Many more wounded. Nine years of many fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Over a hundred thousand non-combats are dead.
 
 Parliament wins. Charles in prison.
 
@@ -2533,9 +2543,13 @@ More battles. More dead. Same result. The king defeated.
 
 Parliament infuriated. Trial held. 135 commissioners appointed. Half refuse to attend. The angry half in control.
 
-Charles never enters a plea. And the stammer that has caught his words all his life, is gone. He speaks aloud, clear and certain—not to the judges, himself, his father, or God, but to the people. "No earthly power can justly call me in question." He is right, by every law that has ever existed, at least since the Roman legions left the land.
+Charles refuses to say he is innocent or guilty. The stammer that has caught his words all his life, is gone. He speaks aloud, clear and certain—not to the judges, himself, his father, or God, but to the people. "No earthly power can justly call me in question." He is right, by every law that has ever existed, at least since the Roman legions left the land.
 
-Charles is convicted. Held prisoner at his old home, Whitehall Palace. He looks upon his father in the magnificent mural painting being taken to Heaven by God's angels...while the scaffold and chopping block are built outside.
+Charles found guilty "high treason, waging war against the realm, and betraying the trust of the people".
+
+Now held prisoner at his old home, Whitehall Palace. Once more, he looks upon his father in the magnificent mural painting being taken to Heaven by God's angels...while a scaffold and chopping block are built outside.
+
+The people assemble to watch.
 
 Last words. "As for the People, I desire their liberty and freedom, as much as any whosoever; but I must tell you...A Subject and a Sovereign are clean different things."
 
@@ -2551,15 +2565,15 @@ The army argues with Parliament. Parliament argues with itself. Nobody agrees on
 
 The people remember. England is a realm, and a realm needs a king.
 
-Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. The regicides are hunted. The worst are executed. England exhales.
+Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. The kings murderers are hunted. The worst are executed. England exhales.
 
 Charles II leans toward the old faith, Catholicism, in a devoutly Protestant England. His brother James succeeds him, and wears that foreign faith openly.
 
-Parliament is furious.
+Parliament is furious. The people are scared.
 
 New Protestant monarchs, William and Mary, are installed—by Parliament, in a Glorious Revolution.
 
-Many Puritans had already fled the realm. More kept leaving. Others joined them.
+Many Puritans had already fled the realm. More keep leaving from all faiths and positions, especially non-royal ones.
 
 New soil. No king.
 
@@ -3008,53 +3022,10 @@ We find the recruiter. He looks at us, unsure. Asks if we have done such work.
 
 I tell him, "Yes. We can learn that."
 
-#### Soviets - Limits of Predictions
-
-1961. I am director of the Institute of Cybernetics in Kiev, Soviet Union. Central planning is building socialism. Socialism is science. More efficient central planning will build socialism faster. Rapid growth generates massive amounts of data—production quotas, resource allocation, distribution networks. 
-
-Paper is slow. People are slow. Decisions take months. Inefficiencies compound. Planning bureaucracy will grow many times in next decades. Inefficiencies will compound.
-
-Socialism is science. Science needs new technologies.
-
-We must keep going.
-
-Computers are new. They are powerful. A national computer network. Connect all economic units—factories, farms, design and research groups, distribution centers. Real-time data flowing to central processors. Automated resource allocation. Optimal planning. I conceive OGAS: National Automated System for Computation and Information Processing.
-
-We must keep going.
-
-1962. I propose OGAS to Soviet leadership. The numbers are clear. Current planning takes too long. Information gets lost between ministries. A centralized network would eliminate these inefficiencies. Production would increase.
-
-Some officials are intrigued "Comrade Victor Glushkov, keep studying your cybernetics network". I begin detailed technical specifications. Network architecture. Data protocols. Processing centers in major cities. Terminals in every significant economic unit.
-
-We are going.
-
-1963. I present to party officials. Big cost. Bigger savings. Speed increased. The mathematics is sound. This is science.
-
-Resistance. Ministry officials ask questions. Who controls data? Who would have access? I explain: the system serves socialism. All ministries benefit from better information.
-
-We must keep going.
-
-1964. Khrushchev falls. Brezhnev takes power. Reformers leave seats. I write more proposals.
-
-We should be going.
-
-1965. Gosplan—the State Planning Committee—opposes OGAS. Too expensive. Current systems good enough.
-
-I present again and again. I write more proposals. The current system is not optimal. I can't say there are shortages. But there are shortages. Inefficiencies are growing. OGAS would fix this.
-
-Why aren't we going.
-
-1970. The 24th Communist Party Congress is coming. OGAS is up for funding. I write detailed proposal. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials see it as a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their positions.
-
-I don't write this down. 
-
-We will return to this soon.
-
-Socialism is science.
-
-We should be going.
-
 #### USA - More Chances
+
+Paul Baran
+Engineer, Drexel Institute of Technology
 
 1955. The Soviets detonate their first hydrogen bomb. Much of my family is still in Eastern Europe. I'm in the United States. Nuclear war must be prevented.
 
@@ -3115,6 +3086,57 @@ We are going.
 Newspapers. Textbooks. Whitepapers. Emails. People are writing about the network.
 
 Three more nodes connect.
+
+#### Soviets - Limits of Predictions
+
+Victor Glushkov
+Director of the Institute of Cybernetics in Kiev, Soviet Union
+
+1961. Central planning is building socialism. Socialism removes exploitation, allowing each to contribute according to his ability and receive according to his work. Socialism is science.
+
+More efficient central planning will build socialism faster. Rapid growth generates massive amounts of data—production quotas, resource allocation, distribution networks. 
+
+Paper is slow. People are slow. Decisions take months. Inefficiencies compound. Planning bureaucracy will grow many times in next decades. Inefficiencies will compound.
+
+Socialism is science. Science needs new technologies.
+
+We must keep going.
+
+Computers are new. They are powerful. We should have a national computer network. Connect all economic units—factories, farms, design and research groups, distribution centers. Real-time data flowing to central processors. Automated resource allocation. Optimal planning. I conceive OGAS: National Automated System for Computation and Information Processing.
+
+We must keep going.
+
+1962. I propose OGAS to Soviet leadership. The numbers are clear. Current planning takes too long. Information gets lost between ministries. A centralized network would eliminate these inefficiencies. Production would increase.
+
+Some officials are intrigued "Comrade Victor Glushkov, keep studying your cybernetics network". I begin detailed technical specifications. Network architecture. Data protocols. Processing centers in major cities. Terminals in every significant economic unit.
+
+We are going.
+
+1963. I present to party officials. Big cost. Bigger savings. Speed increased. The mathematics is sound. This is science.
+
+Resistance. Ministry officials ask questions. Who controls data? Who would have access? I explain: the system serves socialism. All ministries benefit from better information.
+
+We must keep going.
+
+1964. Khrushchev falls. Brezhnev takes power. Reformers leave seats. I write more proposals.
+
+We should be going.
+
+1965. Gosplan—the State Planning Committee—opposes OGAS. Too expensive. Current systems good enough.
+
+I present again and again. I write more proposals. The current system is not optimal. I can't say there are shortages. But there are shortages. Inefficiencies are growing. OGAS would fix this.
+
+Why aren't we going.
+
+1970. The 24th Communist Party Congress is coming. OGAS is up for funding. I write detailed proposal. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials don't understand computers, data, mathematics, or science. They only see a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their many positions and meetings.
+
+I dare not write this down. I will continue to write theory and equations instead.
+
+Someone else will return to this soon.
+
+Socialism is science.
+
+We should be going.
 
 #### Apollo 8
 
@@ -3410,13 +3432,13 @@ https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
 This is what I think Socrates was getting at.
 
-A tiger could be the biggest vegan ever. We don't know its thoughts, philosophy, or prayers. If this seems ridicules, there are vegans who eat meat, climate change activists who take planes, etc. Because we don't look at the reality of our technological identity and ecosystem.
+A tiger could be the biggest vegan ever. We know its biology requires meat, but don't know its thoughts, philosophy, or prayers if it wants to hunt and eat deer all the time. If this seems ridicules, there are vegans who eat meat, climate change activists who take planes, etc. Because we don't look at the reality of our technological identity and ecosystem.
 
 We do not classify a single organism by its language, culture, or thoughts. Yet with us, it's open season on the never ending list of identities.
 
 Yet, here's a question. Does cold respond to English words desiring warmth differently than it does Chinese words?
 
-No. Cold is a physical state — the absence of thermal energy, governed by thermodynamics. It has no mechanism by which it could detect, process, or respond to human language in any form. English words and Chinese words are equally irrelevant to it.
+No. Cold is a physical state—the absence of thermal energy, governed by thermodynamics. It has no mechanism by which it could detect, process, or respond to human language in any form. English words and Chinese words are equally irrelevant to it.
 
 There is no transmission from the entropy increasing world, to teh entropy decreasing world (life), but the material contact between the two.
 
