@@ -1347,23 +1347,21 @@ _The gods did not reveal, from the beginning, all things to us, but in the cours
 
 Xenophanes, Greek Philosopher 6th Century BC.
 
-Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in the urban jungle.
+Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
 
-There are no stories. No heroes. No stats. All lifeforms just go to work. Sometimes finding a niche in a healthy ecosystem. Sometimes not.
+The game has no stories, heroes, or villains. No audiences, judges, or second-chances. All lifeforms just go to work. Sometimes finding a niche in a healthy ecosystem. Sometimes not.
 
-Regardless, lifeforms still go to work.
-
-Because the laws of physics, chemistry, and geology always reign. They interact to create an emergent game board. Entropy wears down homes, spoils food, and effectively puts timers on everyone's existence. Life unknowingly responds by continually creating modifications of existing forms, while natural selection determines which offspring survive best in the environment to represent life's future.
+The laws of physics, chemistry, and geology always reign. They interact to create an emergent game board. Entropy wears down homes, spoils food, and effectively puts timers on everyone's existence. Through these laws, life continually assembles matter into new creatures, each with a slight variation. Then natural selection determines which offspring best integrate into the ecosystem of producers, grazers, predators, decomposers, and testers to represent life's future in the environment.
 
 Our game is different because of our minds.
 
 We have mythological, philosophical, scientific interpretations of life's reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade.
 
-The frameworks that help us adopt tools based on conditions—those frameworks survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
+The frameworks that help us adopt tools based on our current conditions survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
 
 But in real-time it is hard to tell which is which.
 
-To teach us the difference, let's experience how life plays the game. How does it succeed, even when it can only sense water, see motion, follow instinct, and have a limited lifespan. Experiencing life's journey reveals its methods and requirements. And it shows what we're still seeking: the realization of our technological identity.
+To teach us the difference, let's experience how life plays the game. By only sensing water, seeing motion, following instinct, lifeforms still keeps raising offspring, passing the torch, and winning the game. Experiencing life's journey reveals its methods and requirements to us as we seek the realization of our technological identity inside our newfound technological ecosystem.
 
 <!-- - should note interactions/teamwork/collaborations more.
 - should note "looking/going to work" mindset. -->
@@ -1596,6 +1594,7 @@ The flock moves south.
 <!-- 
 - forests become valleys, valleys become forests. deserts turn green.
 - should note interactions/teamwork/collaborations more. 
+- flocking birds "1. Separation - Steer to avoid crowding local flockmates. 2. Alignment - Steer towards the average heading of neighbors. 3. Cohesion - Steer to move toward the average position of neighbors.
 -->
 
 
@@ -2475,7 +2474,7 @@ I walk. The interior doors open ahead of me. I enter my palace.
 
 I enter the dining hall. Grand as a cathedral, dozens of nobles await.
 
-The fire is lit. The table is set, the drink is ready, the meat is carved.
+The fire is lit. The table is set, the drink is ready, the meat is carved. I look forward to having a meal.
 
 I am to be announced.
 
@@ -2493,6 +2492,12 @@ Every lord bows. Ladies curtsey. Good.
 
 "Lighten our darkness, we beseech thee O Lord; we pray: and by thy great mercy defend us from all perils and dangers of this night; for the love of our Saviour. Amen"
 
+I am to speak.
+
+The room waits.
+
+Knights look to Barons, who look to Earls, who look to Dukes. Everyone waits for their King's words.
+
 I say, "Our loyal subjects defy their King. By God's grace the ancient rights of the Crown, and the laws and customs of this realm will be enforced. The north is free. The farmers and guilds are devout. The faith of the nobles will secure the realm."
 
 My words do not catch, such is God's Divine message.
@@ -2507,17 +2512,19 @@ The room erupts.
 
 "The Majesty's two bodies shall be preserved."
 
-Princes, Dukes, Earls, Barons, Knights of the Realm, responsible for thousands of our loyal subjects' souls, acknowledge their king.
+No one asks where the coin is. No one asks how many muster. The order does not need such questions. The order only needs to be passed down.
+
+Some are flatterers. Conflict will reveal them. I must be aware. They pledge their love in the longest words and risk nothing.
 
 I say "We will summon the militia. These two Englands will become one realm, once more. Our ancestors used sword and spear. We must use gun and cannon."
 
-We discuss, lament, and celebrate with the lords of the many royal houses of England and Europe.
+Now we discuss, plan, and celebrate, as lords of the royal houses going to war
 
-Earl Johnson receives a letter "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert."
+Earl Johnson receives a letter, "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert."
 
-The Prince's renown from his many victorious European battles creates a burst of activity. The nobles give orders in speech and diction. The servants fulfill them. Good.
+The Prince's many victorious European battles gives him great renown. A burst of excitement follows. The nobles give a great many commands and dictate their letters; to avoid the stain of ink. Servants do the rest. Good
 
-Among the celebrations, I look up at the marvelous painting of my father. Done by the greatest artists in Europe. The middling sort count coin and ledgers. I count centuries. Art. Glory. Faith. Loyalty. Inheritance. Position. I see that my father, King James, ascended into Heaven, gold and silver lines showing the justice of our Divine Right.
+Among the celebrations, I look up at the marvelous painting of my father. Done by the greatest artists in Europe. The middling sort count coin and ledgers. We count centuries. Art. Glory. Faith. Loyalty. Inheritance. Position. I see that my father, King James, ascended into Heaven, gold and silver lines showing the justice of our Divine Right.
 
 I will return, father. I will do our noble house justice. I will save the realm. I will save our people.
 
@@ -2525,17 +2532,17 @@ I am their king.
 
 --
 
-The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. The merchants and craftsmen of the south build their army. The country is at civil war. Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
+The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. The merchants and craftsmen of the south build their own army. The country is at civil war; Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
 
 Battles take place at Edgehill, Marston Moor, Naseby, and more.
 
-Sixty major engagements. 84,000 soldiers dead. Many more wounded. Nine years of many fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Over a hundred thousand non-combats are dead.
+Sixty major engagements. 84,000 soldiers dead. Many more wounded. Nine years of war. Many fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Over a hundred thousand non-combats die.
 
 Parliament wins. Charles in prison.
 
 He secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries dwindle. An old realm answering for a king the new country is done with.
 
-The Scottish army marches south.
+The Scottish army marches south. Irish Catholics join them.
 
 Parliament is waiting with their now veteran New Model Army.
 
@@ -2545,7 +2552,7 @@ Parliament infuriated. Trial held. 135 commissioners appointed. Half refuse to a
 
 Charles refuses to say he is innocent or guilty. The stammer that has caught his words all his life, is gone. He speaks aloud, clear and certain—not to the judges, himself, his father, or God, but to the people. "No earthly power can justly call me in question." He is right, by every law that has ever existed, at least since the Roman legions left the land.
 
-Charles found guilty "high treason, waging war against the realm, and betraying the trust of the people".
+Charles found guilty for "high treason, waging war against the realm, and betraying the trust of the people".
 
 Now held prisoner at his old home, Whitehall Palace. Once more, he looks upon his father in the magnificent mural painting being taken to Heaven by God's angels...while a scaffold and chopping block are built outside.
 
@@ -2588,7 +2595,7 @@ Not universal. Not quite. Not yet.
 
 But the seed is growing.
 
-#### Universal Laws
+#### Universal Laws of Nature
 
 **From Edmond Halley, London**  
 **To Christopher Wren, Royal Society**  
