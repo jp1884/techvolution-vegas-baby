@@ -1349,7 +1349,7 @@ Xenophanes, Greek Philosopher 6th Century BC.
 
 Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
 
-The game has no stories, heroes, or villains. No audiences, judges, or second-chances. All lifeforms just go to work. Sometimes finding a niche in a healthy ecosystem. Sometimes not.
+The game has no stories, heroes, or villains. No audiences, judges, or second-chances. All lifeforms just go to work every day. Sometimes finding a niche in a healthy ecosystem. Sometimes not.
 
 The laws of physics, chemistry, and geology always reign. They interact to create an emergent game board. Entropy wears down homes, spoils food, and effectively puts timers on everyone's existence. Through these laws, life continually assembles matter into new creatures, each with a slight variation. Then natural selection determines which offspring best integrate into the ecosystem of producers, grazers, predators, decomposers, and testers to represent life's future in the environment.
 
@@ -1357,11 +1357,11 @@ Our game is different because of our minds.
 
 We have mythological, philosophical, scientific interpretations of life's reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade.
 
-The frameworks that help us adopt tools based on our current conditions survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
+The frameworks that help us adopt better tools based on our current conditions, survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
 
-But in real-time it is hard to tell which is which.
+In real-time it is hard to tell which is which.
 
-To teach us the difference, let's experience how life plays the game. By only sensing water, seeing motion, following instinct, lifeforms still keeps raising offspring, passing the torch, and winning the game. Experiencing life's journey reveals its methods and requirements to us as we seek the realization of our technological identity inside our newfound technological ecosystem.
+To teach us the difference, let's experience how life plays the game. By only sensing water, seeing motion, following instinct, lifeforms still keep raising offspring, passing the torch, and winning the game. Experiencing life's journey reveals its rules, realities, and equirements to us as we seek the realization of our technological identity inside our newfound technological ecosystem.
 
 <!-- - should note interactions/teamwork/collaborations more.
 - should note "looking/going to work" mindset. -->
@@ -1800,6 +1800,9 @@ Panic! Panic!
 Three mammoths fall.
 
 #### Giving Tree
+
+<!-- anxiety from mother, more people at camp -->
+<!-- learned to trust the stories as pattern recognition -->
 
 Light is high. The foraging party left at dawn. Far from our home. Far from the river.
 
@@ -2403,7 +2406,7 @@ No. A king does not explain himself to subjects. The moment I justify myself I h
 
 But they want the money. The army. The bridges, the buildings, the land. These artisans, craftsmen, merchants—this middling sort—they want the realm. They have the coin and will not give it any longer, and a king without coin is a realm in chaos.
 
-I will leave with dignity. The soldiers make way.
+I will leave with dignity. I exit the Commons. The soldiers make way.
 
 "Privilege! Members of the Commons are protected by Privilege!"
 
@@ -2461,7 +2464,7 @@ I am their king. Chosen by God, given the duties of God. It is in the Scriptures
 
 The coach stops at Whitehall Palace. Good. I am hungry, thirsty, and cold. I can't let our subjects see it.
 
-The palace is wonderful. Hundreds of rooms. Marble ceilings. Paintings by the world's finest artists. Daily work for carpenters, masons, turners, coopers, glaziers, joiners, blacksmiths, tailors, weavers, cooks, bakers, gardeners, grooms, chandlers. A host of workers, servants, and orderlies with housed and fed families.
+The palace is wonderful. Hundreds of rooms. Marble ceilings. Paintings by the world's finest artists. Daily work for carpenters, masons, turners, coopers, glaziers, joiners, blacksmiths, tailors, weavers, cooks, bakers, gardeners, grooms, chandlers. A host of workers, servants, and orderlies with families housed and fed.
 
 Now my coach door opens. A hand steadies me down. "Your Majesty."
 
@@ -2518,11 +2521,11 @@ Some are flatterers. Conflict will reveal them. I must be aware. They pledge the
 
 I say "We will summon the militia. These two Englands will become one realm, once more. Our ancestors used sword and spear. We must use gun and cannon."
 
-Now we discuss, plan, and celebrate, as lords of the royal houses going to war
+Now we discuss, plan, and celebrate, as lords of the royal houses going to war.
 
 Earl Johnson receives a letter, "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert."
 
-The Prince's many victorious European battles gives him great renown. A burst of excitement follows. The nobles give a great many commands and dictate their letters; to avoid the stain of ink. Servants do the rest. Good
+The Prince's many victorious European battles give him great renown. A burst of excitement follows. The nobles give a great many commands and dictate their letters; to avoid the stain of ink. Servants do the rest. Good.
 
 Among the celebrations, I look up at the marvelous painting of my father. Done by the greatest artists in Europe. The middling sort count coin and ledgers. We count centuries. Art. Glory. Faith. Loyalty. Inheritance. Position. I see that my father, King James, ascended into Heaven, gold and silver lines showing the justice of our Divine Right.
 
@@ -2532,19 +2535,19 @@ I am their king.
 
 --
 
-The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. The merchants and craftsmen of the south build their own army. The country is at civil war; Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
+The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. A few others join the merchants and craftsmen of the south and build their own army. The country is at civil war; Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
 
 Battles take place at Edgehill, Marston Moor, Naseby, and more.
 
-Sixty major engagements. 84,000 soldiers dead. Many more wounded. Nine years of war. Many fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Over a hundred thousand non-combats die.
+Sixty major engagements. 84,000 soldiers dead. Many more wounded. Four years of war. Many fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Over a hundred thousand non-combatants die. Charles's desire for order brought the country massive disorder.
 
 Parliament wins. Charles in prison.
 
 He secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries dwindle. An old realm answering for a king the new country is done with.
 
-The Scottish army marches south. Irish Catholics join them.
+The Scottish army marches south. Charles asks Irish Catholics to help defend his Protestant throne. Countrywide revulsion. 
 
-Parliament is waiting with their now veteran New Model Army.
+Parliament's support swells. Their now veteran New Model Army readies for another war.
 
 More battles. More dead. Same result. The king defeated.
 
@@ -2554,7 +2557,7 @@ Charles refuses to say he is innocent or guilty. The stammer that has caught his
 
 Charles found guilty for "high treason, waging war against the realm, and betraying the trust of the people".
 
-Now held prisoner at his old home, Whitehall Palace. Once more, he looks upon his father in the magnificent mural painting being taken to Heaven by God's angels...while a scaffold and chopping block are built outside.
+Now held prisoner at his old home, Whitehall Palace. Once more, he looks upon his father in the magnificent mural painting. His father is taken to Heaven by God's angels...while a scaffold and chopping block are built outside.
 
 The people assemble to watch.
 
@@ -2572,15 +2575,15 @@ The army argues with Parliament. Parliament argues with itself. Nobody agrees on
 
 The people remember. England is a realm, and a realm needs a king.
 
-Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. The kings murderers are hunted. The worst are executed. England exhales.
+Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. The Kings murderers are hunted. The worst are executed. England exhales.
 
-Charles II leans toward the old faith, Catholicism, in a devoutly Protestant England. His brother James succeeds him, and wears that foreign faith openly.
+Charles II leans toward the foreign faith, Catholicism, in a devoutly Protestant England. His brother James succeeds him, and wears that old faith openly.
 
 Parliament is furious. The people are scared.
 
-New Protestant monarchs, William and Mary, are installed—by Parliament, in a Glorious Revolution.
+New Protestant monarchs, William and Mary, are installed—and contained—by Parliament, in a Glorious Revolution.
 
-Many Puritans had already fled the realm. More keep leaving from all faiths and positions, especially non-royal ones.
+Before, during, and after the bitter wars of theology, members from all faiths wanted out of the carnage.
 
 New soil. No king.
 
@@ -2857,7 +2860,7 @@ The North makes many weapons, rifles, cannons, boats, trains, observation balloo
 
 So can we!
 
-We make manuals to use them. We hand them out to our defenders.
+We make manuals to use them. We hand them out to our workers and defenders.
 
 "We can't read, ma'am".
 
@@ -2949,7 +2952,9 @@ I've heard of Lister's carbolic acid methods. They do not matter. I didn't find 
 
 #### Work
 
-The wall is covered in pieces of paper. Bright reds, dark blues, deep blacks, characters tall as a hand. We can read, but some of the words are new to us. Some papers have colors—like a bee to a flower, we go to the brightest. My husband is shy, unsure. He didn't want to come here. I want to find a job that he can do. I don't want to go back to our small town.
+The wall is covered in pieces of paper. Bright reds, dark blues, deep blacks, characters tall as a hand. We can read, but some of the words are new to us. Some papers have colors—like a bee to a flower, we go to the brightest. My husband is shy, unsure. He didn't want to come here.
+
+Three short-term jobs. Hard labour. I want to find a skilled job that he can do. If not, we would have to go back to our small town.
 
 A recruiter works the crowd. I listen.
 
@@ -2963,19 +2968,21 @@ We go. A horse carriage picks us up. Several of us are in the carriage. My husba
 
 The carriage stops. It is dark. We get out, and look around the farm. Silos. Barns. Our living quarters. We go. Sleep. Big day tomorrow.
 
-My husband wakes early. He's excited. I find the other ladies. We prepare the morning meal. He finds the tools. Selects a hoe.
+My husband wakes early. He's excited. I find the other ladies. We prepare the morning meal. He mingles with the hired hands. He finds the tools. Selects a hoe.
 
 As the sun rises, the farmer approaches.
 
+"Good morning"
+
 "Thank you for the work, sir," we all say.
 
-"Thank you all. Much to get done. Are you ready?"
+"Thank you. Much to get done. Are you ready?"
 
-My husband nods his head.
+With the others, my husband bows his head.
 
-"Then let's go."
+"Then let's go. Remember Rich country, strong army!"
 
-My husband looks around. The farmer walks toward a field, and there is nothing there. Where are the men? Where are the oxen? It looks like a building is moving on the field. A steel building. I look at my husband.
+The hired hands look around. The farmer walks toward a field, and there is nothing there. Where are the other men? Where are the oxen? It looks like a building is moving on the field. A steel building. I look at my husband.
 
 I see fear.
 
@@ -2985,19 +2992,29 @@ I cannot help him. I must follow the ladies to start the morning chores. I pray 
 
 That night, my husband returns. He has a cut on the forearm. But he is smiling as he tells me what happened.
 
-"I looked at the machine. My hands were shaking. The farmer saw me—scared like a cat I was. But he did not laugh. I didn't know what to say. He said, "We got it from Britain this year. You'll learn. Come. Let's get at it."
+"I looked at the machine. My hands were shaking. The farmer saw me—scared like a cat I was. But he did not laugh. I didn't know what to say. He said, 'We got it from Britain this year. I'm learning it too. Come. Let's start.'"
 
-So I learned. I read the manual. The machine is steel, runs on steam. It does the planting very fast. When it works. It worked a few hours today, then we fixed it a few hours. There are many water pipes. We seed much faster on the good days.
+So we learned. I read the manual. The machine is steel, runs on steam. It does the planting very fast. When it works. It worked a few hours today, then we fixed it a few hours. There are many water pipes. We seed much faster on the good days.
 
-I don't understand this new machine. "I want to see it", I tell him as I put carbolic acid on his cut. He will work tomorrow and be safe.
+I don't understand this new machine. "I want to see it," I tell him as I put carbolic acid on his cut then wrap the clean cloth around it. He will work tomorrow and be safe.
 
-And the farmer knows more than machines. He moves water through channels to the dry fields. He plants one crop here this year, another next, he says so the soil never tires. He keeps boxes of bees, feeds them through winter, so the blossoms set fruit consistantly.
+And the farmer knows more than machines.
 
-We continue for four weeks. Plant 100 acres. Helped install some new water pipes for irrigation. Get paid. We say thank you. We are asked to return next year. We go back to the city. See the job board again.
+When the machine was working, he said we needed to lay irrigation pipes.
 
-We were lucky—a good man taught us. Now we are bees who know the best flowers.
+Pipes! Under pressure would water the field!
 
-Now I know: each job is a new machine my husband or I must learn. "Print house" means typesetting, printers, inks, conveyors, binders. "Textiles" means mills, weavers, dyes. "Importer/Exporter" means rope, knots, lifts, manifests. "Water System" means pipes, regulators, pressure meters.
+He asked me where they should go. I said to put water channels high, and let gravity do the rest. I told him how I would water the field, and he put me on the irrigation pipe team.
+
+He plants one crop here this year, another next, he says so the soil never tires. He keeps boxes of bees, feeds them through winter, so the blossoms set fruit consistently.
+
+And so my husband would return each day. Hard work in body and mind, we pushed each other on with "Rich country, strong army". We grow our nation together.
+
+We continue for six weeks. Plant 100 acres. Help install some new water pipes for irrigation. Get paid. We say thank you. We are asked to return next year. We go back to the city. See the job board again.
+
+We were lucky—a good man taught us. Now I know which are the richest flowers.
+
+Because each job is a new machine my husband or I must learn. "Print house" means typesetting, printers, inks, conveyors, binders. "Textiles" means mills, weavers, dyes. "Importer/Exporter" means rope, knots, lifts, manifests. "Water System" means pipes, regulators, pressure meters.
 
 The farm had pipes. My husband installed those. That pays well.
 
@@ -3009,21 +3026,25 @@ We stare at the job board again.
 
 There is a big ad. In Japanese and another language.
 
-America. A city across the ocean burned to the ground—San Francisco. They must rebuild. Wages we do not believe. We could stay. But now my husband wants to go.
+America. A city across the ocean burned to the ground—San Francisco. They must rebuild. Wages so high we do not believe. We could stay and help build Japan. But now my husband wants to go.
 
 We cross the ocean to start again.
 
-The city is half gone. It looks like a forest after a fire. The buildings still standing are burnt and black. But these Americans are already rebuilding.
+San Francisco did burn to the ground. It is ash like after a forest fire. Any building still standing is burnt out and black.
 
-A new wall of paper, more job ads, the same colors. There is so much work. We find a room, then the next day, the next job.
+These Americans are already rebuilding it. Like the seedlings of the forest.
+
+A new wall of paper, more job ads, the same colors. There is so much work.
 
 We have sleeping quarters. We prepare our meals with our countrymen. We are told "They don't like giving us the good jobs. But there's so much work here now, maybe they will."
 
-We take a few days to get settled. To understand the area. To meet people. We see, in the alley below, something moves. Its paws quick and careful, reaching inside a crate. I ask what it is "a raccoon", very crafty, it learns well and finds food anywhere in the city.
+We take a few days to get settled. To understand the area. To meet people. As we discuss our options, we hear in the alley below, something moves. Its paws quick and careful, reaching inside a crate. I ask a new friend what it is.
 
-We like this animal. My husband and I enjoy giving it food inside of puzzles, and each night it gets the food. 
+"A raccoon. Very crafty—it learns well and finds food anywhere in the city."
 
-Finally, we go to the job board. I see the ad immediately *Pipefitters. Pressurized water fire suppression.*
+My husband and I hide food for it. And each night it finds a way to eat. 
+
+We go to the job board. I see the ad immediately *Pipefitters. Pressurized water fire suppression. Make San Francisco FIRE PROOF.*
 
 We find the recruiter. He looks at us, unsure. Asks if we have done such work.
 
