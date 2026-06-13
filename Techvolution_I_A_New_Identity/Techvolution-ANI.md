@@ -1349,19 +1349,35 @@ Xenophanes, Greek Philosopher 6th Century BC.
 
 Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
 
-The game has no stories, heroes, or villains. No audiences, judges, or second-chances. All lifeforms just go to work every day. Sometimes finding a niche in a healthy ecosystem. Sometimes not.
+Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances.
 
-The laws of physics, chemistry, and geology always reign. They interact to create an emergent game board. Entropy wears down homes, spoils food, and effectively puts timers on everyone's existence. Through these laws, life continually assembles matter into new creatures, each with a slight variation. Then natural selection determines which offspring best integrate into the ecosystem of producers, grazers, predators, decomposers, and testers to represent life's future in the environment.
+All lifeforms just go to work every day. Sometimes finding a niche in a healthy ecosystem. Sometimes not. And this has worked for billions of years.
+
+Because, in truth, the laws of physics, chemistry, and geology are what reign. They interact to create an emergent game board. Life exists in this the environment while entropy wears down homes, spoils food, and effectively puts timers on everyone's existence.
+
+Yet, life uses these same natural laws to continually assemble matter into new creatures. Because each has a slight variation, natural selection determines which offspring best integrate into the ecosystem of producers, grazers, predators, decomposers, and testers to represent life on Earth.
 
 Our game is different because of our minds.
 
 We have mythological, philosophical, scientific interpretations of life's reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade.
 
-The frameworks that help us adopt better tools based on our current conditions, survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
+The frameworks that help us adopt better tools based on our current conditions survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
 
 In real-time it is hard to tell which is which.
 
-To teach us the difference, let's experience how life plays the game. By only sensing water, seeing motion, following instinct, lifeforms still keep raising offspring, passing the torch, and winning the game. Experiencing life's journey reveals its rules, realities, and equirements to us as we seek the realization of our technological identity inside our newfound technological ecosystem.
+To teach us the difference, let's experience how life plays the game. By only sensing water, seeing motion, following instinct, lifeforms can make an ecosystem, raise offspring, pass the torch, and win the game.
+
+Experiencing life's journey without heroes or villains, news updates, or philosophical judgements reveals the game's rules, realities, and requirements. 
+
+Note this as you read each word. Life is under no obligation to you. You like narratives, statistics, and familiar stories. Entropy does not care. So life cannot care. Realizing our technological identity comes by accepting the sharp, beating, nearly random nature of life.
+
+Build fast. Good.
+
+Build faster. Better.
+
+Build slow. Get challenged.
+
+Build no more. Get replaced.
 
 <!-- - should note interactions/teamwork/collaborations more.
 - should note "looking/going to work" mindset. -->
@@ -1390,7 +1406,7 @@ The seed in the crevice. Water pools in shadow. The seed absorbs. Roots emerge, 
 
 Stem extends upward. There is no light. Stem continues. There is light. Leaves unfurl. Light becomes glucose. Carbon pulls inward. Oxygen pushes outward.
 
-The plant needs water. Roots drink. Water carries minerals. Magnesium flows upward. Iron flows upward. Nitrogen flows upward. Glucose flows downward. More roots extend. They push further into rock, widening the crevice, breaking stone into smaller pieces.
+The plant needs more water. Roots drink more water. Water carries minerals. Magnesium flows upward. Iron flows upward. Nitrogen flows upward. Glucose flows downward. More roots extend. They push further into rock, widening the crevice, breaking stone into smaller pieces.
 
 Wind comes. Stem bends. Wind returns. Stem breaks.
 
@@ -2460,15 +2476,17 @@ That cannot be true.
 
 What do these Puritans and Presbyterians want. To challenge the Crown? To what end? Do they want to practice religion freely? They want Sovereignty.
 
-I am their king. Chosen by God, given the duties of God. It is in the Scriptures, the laws, the customs. The faithful people know it.
+I am their king. Chosen by God, given the duties of God. It is in the Scriptures, the laws, the customs since the Realm began. The faithful people know it.
 
 The coach stops at Whitehall Palace. Good. I am hungry, thirsty, and cold. I can't let our subjects see it.
 
-The palace is wonderful. Hundreds of rooms. Marble ceilings. Paintings by the world's finest artists. Daily work for carpenters, masons, turners, coopers, glaziers, joiners, blacksmiths, tailors, weavers, cooks, bakers, gardeners, grooms, chandlers. A host of workers, servants, and orderlies with families housed and fed.
+They should only see palace. It is wonderful. Hundreds of rooms. Marble ceilings. Paintings by the world's finest artists. Daily work for carpenters, masons, turners, coopers, glaziers, joiners, blacksmiths, tailors, weavers, cooks, bakers, gardeners, grooms, chandlers. A host of workers, servants, and orderlies with families housed and fed.
 
-Now my coach door opens. A hand steadies me down. "Your Majesty."
+Perhaps we should allow the middling sort to walk the palace. So they can see the Realm's magnificence and my generosity themselves.
 
-The magnificent gates open. The dozens of guards bow. 
+Perhaps. For now my coach door opens. A hand steadies me down. "Your Majesty."
+
+The magnificent gates open. The dozens of guards bow.
 
 I walk. The interior doors open ahead of me. I enter my palace.
 
@@ -2515,49 +2533,49 @@ The room erupts.
 
 "The Majesty's two bodies shall be preserved."
 
-No one asks where the coin is. No one asks how many muster. The order does not need such questions. The order only needs to be passed down.
+An Earl rises, hand to heart. "A bold and glorious course, Majesty. I am wholly with the Crown." All praise the wisdom of it at length.
 
-Some are flatterers. Conflict will reveal them. I must be aware. They pledge their love in the longest words and risk nothing.
+No one asks where the coin is. No one asks how many muster. The order does not need such questions. The order only needs to be passed down. Some are flatterers. Conflict will reveal them. I must be aware. They pledge their love in the longest words and risk nothing. Most are loyal to God.
 
 I say "We will summon the militia. These two Englands will become one realm, once more. Our ancestors used sword and spear. We must use gun and cannon."
 
-Now we discuss, plan, and celebrate, as lords of the royal houses going to war.
+Now we do as our ancestors did and prepare for war. We discover who has fought before. Who has read about Europe's ongoing wars. We assign the commands. We toast the victories to come, and our return to London.
 
-Earl Johnson receives a letter, "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert."
+Earl Johnson hushes the crowd's excitement. He has received a letter: "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert!"
 
-The Prince's many victorious European battles give him great renown. A burst of excitement follows. The nobles give a great many commands and dictate their letters; to avoid the stain of ink. Servants do the rest. Good.
+The Prince's many victorious European battles give him great renown. A burst of activity follows. Each lord speaks louder than the last, vows grander than the last. The nobles give a great many commands and dictate many letters.
 
-Among the celebrations, I look up at the marvelous painting of my father. Done by the greatest artists in Europe. The middling sort count coin and ledgers. We count centuries. Art. Glory. Faith. Loyalty. Inheritance. Position. I see that my father, King James, ascended into Heaven, gold and silver lines showing the justice of our Divine Right.
+Servants do the rest. Good. The system is working.
 
-I will return, father. I will do our noble house justice. I will save the realm. I will save our people.
+Among the celebrations, I look up at the marvelous painting of my father. Done by the greatest artists in Europe. I see my father, King James, ascend into Heaven, gold and silver lines showing the justice of our Divine Right. The middling sort count coin and ledgers. We count centuries. Art. Glory. Faith. Loyalty. Inheritance. Position.
+
+I depart now for war. But I will return, father. I will do our noble house justice. I will save the realm. I will save our people.
 
 I am their king.
 
 --
 
-The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. A few others join the merchants and craftsmen of the south and build their own army. The country is at civil war; Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
+The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. Some others join the merchants and craftsmen of the south and build their own army, centered on London. The country is at civil war; Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
 
 Battles take place at Edgehill, Marston Moor, Naseby, and more.
 
-Sixty major engagements. 84,000 soldiers dead. Many more wounded. Four years of war. Many fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Over a hundred thousand non-combatants die. Charles's desire for order brought the country massive disorder.
+Sixty major engagements. 84,000 soldiers dead. Many more wounded. Four years of war. Many fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Over a hundred thousand non-combatants die. Massive disorder everywhere.
 
 Parliament wins. Charles in prison.
 
-He secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries dwindle. An old realm answering for a king the new country is done with.
+He secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries dwindle. Charles asks Irish Catholics to help defend his Protestant throne. Countrywide revulsion. 
 
-The Scottish army marches south. Charles asks Irish Catholics to help defend his Protestant throne. Countrywide revulsion. 
-
-Parliament's support swells. Their now veteran New Model Army readies for another war.
+Parliament's support swells. Their battle-hardened New Model Army readies for another war.
 
 More battles. More dead. Same result. The king defeated.
 
-Parliament infuriated. Trial held. 135 commissioners appointed. Half refuse to attend. The angry half in control.
+Parliament infuriated. The king (everyone still calls him that) put on trial. 135 commissioners appointed. Half refuse to attend. The angry half in control.
 
 Charles refuses to say he is innocent or guilty. The stammer that has caught his words all his life, is gone. He speaks aloud, clear and certain—not to the judges, himself, his father, or God, but to the people. "No earthly power can justly call me in question." He is right, by every law that has ever existed, at least since the Roman legions left the land.
 
-Charles found guilty for "high treason, waging war against the realm, and betraying the trust of the people".
+Charles declared guilty for "high treason, waging war against the realm, and betraying the trust of the people".
 
-Now held prisoner at his old home, Whitehall Palace. Once more, he looks upon his father in the magnificent mural painting. His father is taken to Heaven by God's angels...while a scaffold and chopping block are built outside.
+The king held prisoner at his old home, Whitehall Palace. Once more, he looks upon his father in the magnificent mural painting, being taken to Heaven by God's angels...while a scaffold and chopping block are built outside.
 
 The people assemble to watch.
 
@@ -2575,15 +2593,15 @@ The army argues with Parliament. Parliament argues with itself. Nobody agrees on
 
 The people remember. England is a realm, and a realm needs a king.
 
-Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. The Kings murderers are hunted. The worst are executed. England exhales.
+Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. The King's murderers are hunted. The worst are executed. England exhales.
 
 Charles II leans toward the foreign faith, Catholicism, in a devoutly Protestant England. His brother James succeeds him, and wears that old faith openly.
 
 Parliament is furious. The people are scared.
 
-New Protestant monarchs, William and Mary, are installed—and contained—by Parliament, in a Glorious Revolution.
+New Protestant monarchs, William and Mary, are installed—and paid by Parliament—in a Glorious Revolution.
 
-Before, during, and after the bitter wars of theology, members from all faiths wanted out of the carnage.
+Before, during, and after the bitter wars of theology in England and Europe, members from all faiths wanted out of the carnage.
 
 New soil. No king.
 
@@ -3026,29 +3044,31 @@ We stare at the job board again.
 
 There is a big ad. In Japanese and another language.
 
-America. A city across the ocean burned to the ground—San Francisco. They must rebuild. Wages so high we do not believe. We could stay and help build Japan. But now my husband wants to go.
+America. A city across the ocean burned to the ground—San Francisco. In big letters "The city of the future. Rising from the ashes!" Wages so high we do not believe. We could stay and help build Japan. But now my husband wants to go.
 
 We cross the ocean to start again.
 
-San Francisco did burn to the ground. It is ash like after a forest fire. Any building still standing is burnt out and black.
+We arrive. San Francisco did burn to the ground. It is ash like after a forest fire. Any building still standing is burnt out and black.
 
 These Americans are already rebuilding it. Like the seedlings of the forest.
 
 A new wall of paper, more job ads, the same colors. There is so much work.
 
-We have sleeping quarters. We prepare our meals with our countrymen. We are told "They don't like giving us the good jobs. But there's so much work here now, maybe they will."
+We have sleeping quarters. We prepare our meals with our countrymen. We are told "They don't like giving us the good jobs. But there's so much work here now, maybe they will soon."
 
-We take a few days to get settled. To understand the area. To meet people. As we discuss our options, we hear in the alley below, something moves. Its paws quick and careful, reaching inside a crate. I ask a new friend what it is.
+We take a few days to get settled. To understand the area. To meet people. Doors close in our face. Some faces sneer at us.
+
+That night, we hear in the alley below, something moves. Its paws quick and careful, reaching inside a crate. I ask a new friend what it is.
 
 "A raccoon. Very crafty—it learns well and finds food anywhere in the city."
 
 My husband and I hide food for it. And each night it finds a way to eat. 
 
-We go to the job board. I see the ad immediately *Pipefitters. Pressurized water fire suppression. Make San Francisco FIRE PROOF.*
+We go to the job board. The others take the dangerous work they will likely get. I see the ad immediately *Pipefitters. Pressurized water fire suppression. The city of the future. Rising from the ashes. Now make San Francisco FIRE PROOF.*
 
 We find the recruiter. He looks at us, unsure. Asks if we have done such work.
 
-I tell him, "Yes. We can learn that."
+I tell him, "Yes. We can learn that. We know how to rise from the ashes."
 
 #### USA - More Chances
 
