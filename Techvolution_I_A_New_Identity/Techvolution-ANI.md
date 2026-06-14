@@ -1347,29 +1347,19 @@ _The gods did not reveal, from the beginning, all things to us, but in the cours
 
 Xenophanes, Greek Philosopher 6th Century BC.
 
-Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
+Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in a city.
 
-Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances.
+Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances. All lifeforms just go to work. Sometimes their combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. This has worked for billions of years.
 
-All lifeforms just go to work every day. Sometimes finding a niche in a healthy ecosystem. Sometimes not. And this has worked for billions of years.
+In the game, the laws of physics, chemistry, and geology reign supreme. All the while, entropy wears down homes, spoils food, and puts timers on everyone's existence. Yet life uses these same laws to assemble matter into new creatures, nests and homes, and now even into tools. Each new assembly is a unique variation. Natural selection finds the forms that best read the environment's patterns and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers.
 
-Because, in truth, the laws of physics, chemistry, and geology are what reign. They interact to create an emergent game board. Life exists in this the environment while entropy wears down homes, spoils food, and effectively puts timers on everyone's existence.
+Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt and survive; the false ones mislead us, and often take their believers down with them.
 
-Yet, life uses these same natural laws to continually assemble matter into new creatures. Because each has a slight variation, natural selection determines which offspring best integrate into the ecosystem of producers, grazers, predators, decomposers, and testers to represent life on Earth.
+How to tell which is which?
 
-Our game is different because of our minds.
+Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the patterns best—when fruit ripens, what smoke means—survive to play again.
 
-We have mythological, philosophical, scientific interpretations of life's reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard. Sometimes they exploit and degrade.
-
-The frameworks that help us adopt better tools based on our current conditions survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
-
-In real-time it is hard to tell which is which.
-
-To teach us the difference, let's experience how life plays the game. By only sensing water, seeing motion, following instinct, lifeforms can make an ecosystem, raise offspring, pass the torch, and win the game.
-
-Experiencing life's journey without heroes or villains, news updates, or philosophical judgements reveals the game's rules, realities, and requirements. 
-
-Note this as you read each word. Life is under no obligation to you. You like narratives, statistics, and familiar stories. Entropy does not care. So life cannot care. Realizing our technological identity comes by accepting the sharp, beating, nearly random nature of life.
+You may like narratives, statistics, and familiar stories. Entropy does not care. So life cannot care. Life is under no obligation to you. To see the game for yourself, hold this truth as you read each word.
 
 Build fast. Good.
 
@@ -3494,6 +3484,7 @@ This is a clean illustration Techvolution's core points: the laws of physics, ch
 
 That indifference is precisely why the book argues that aligning our frameworks with natural mechanisms matters — nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe.
 
+- the dreams of avarice. that we can find someone else who will carry the burden of our entropy. that someone else will expend the energy required, learn the tools, and all that, to reconstruct while i still get to live and reproduce.
 
 ### Chapter 13
 
