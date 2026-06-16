@@ -1347,11 +1347,15 @@ _The gods did not reveal, from the beginning, all things to us, but in the cours
 
 Xenophanes, Greek Philosopher 6th Century BC.
 
-Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in a city.
+Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
 
-Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances. All lifeforms just go to work. Sometimes their combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. This has worked for billions of years.
+Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances. All lifeforms just go to work and play the game. 
 
-In the game, the laws of physics, chemistry, and geology reign supreme. All the while, entropy wears down homes, spoils food, and puts timers on everyone's existence. Yet life uses these same laws to assemble matter into new creatures, nests and homes, and now even into tools. Each new assembly is a unique variation. Natural selection finds the forms that best read the environment's patterns and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers.
+The gameboard is constructed by the laws of physics, chemistry, and geology. All the while, entropy wears down homes, spoils food, and puts timers on everyone's existence. Yet life uses these same laws to assemble matter into new creatures, nests and homes, and now even into tools. Each new assembly is a unique variation. Sometimes their combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. 
+
+Natural selection finds only the forms that best read the environment's patterns and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers.
+
+This has worked for billions of years.
 
 Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt and survive; the false ones mislead us, and often take their believers down with them.
 
@@ -1359,7 +1363,13 @@ How to tell which is which?
 
 Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the patterns best—when fruit ripens, what smoke means—survive to play again.
 
-You may like narratives, statistics, and familiar stories. Entropy does not care. So life cannot care. Life is under no obligation to you. To see the game for yourself, hold this truth as you read each word.
+You may like narratives, statistics, and entertaining heroes. Entropy does not care. So life cannot care. Natural selection does select for those either. And neither can this book.
+
+This chapter is not a story to enjoy. It is a mirror to your new identity. In each life that follows, you are not the audience. You are the one being tested. Ask of every species you see and framework you meet: does it read the world, or only mislead the believer?
+
+The winners are not the largest, the highest-born, or the most powerful. Only those who can keep playing the never-ending game.
+
+To see it is our test. Hold this truth as you read each word.
 
 Build fast. Good.
 
@@ -1369,8 +1379,9 @@ Build slow. Get challenged.
 
 Build no more. Get replaced.
 
-<!-- - should note interactions/teamwork/collaborations more.
-- should note "looking/going to work" mindset. -->
+
+
+
 
 ### Biological Game of Life
 
@@ -1807,76 +1818,79 @@ Three mammoths fall.
 
 #### Giving Tree
 
-<!-- anxiety from mother, more people at camp -->
-<!-- learned to trust the stories as pattern recognition -->
-
 Light is high. The foraging party left at dawn. Far from our home. Far from the river.
 
 I stay with Mother, learning.
 
-"Scrape this way," she says, showing me the deer hide stretched on the frame. "See? Gentle. Hide tears if you push too hard. We have more time than hides. Take time. Do it right."
+"Scrape this way," she says, showing me the deer hide stretched on the frame. "See? Gentle. Hide tears if you push too hard. Do it right. We cannot waste one."
 
 I try. The stone scraper is sharp. Bits of flesh come off.
 
 "Good, Kai. Now here. This part has fat. Remove."
 
-I scrape where she points. My arms hurt but I keep working. Whimpering. A puppy wants the scrapes. I throw some fat to it.
+I scrape where she points. My arms hurt but I keep working. I hear whimpering. A puppy wants the scrapes. I throw some fat to it.
+
+Mother looks at the hides on the frames. Then at the sky. "Six finished. Eight to go. The frost will not wait for us." She returns to crushing nuts on the stone.
 
 "Where do they go?" I ask.
 
-"To gather precious fruit. Focus on your work. Cold is coming. The kids need furs. The sick need Giving Tree fruit."
+"To gather precious fruit. Focus. Cold is coming. The little ones need furs. The sick need Giving Tree fruit." Her eyes go to the tree line. She looks, then back to her grinding stone.
 
 "Why the sick?"
 
 "Their wounds close faster. We have learned this."
 
-She does not look up from the wood.
+She does not look up from the stone.
 
 "What is out there?"
 
-"Not the river. Not fish. Trees. Fruit. Animals. Scary things." She takes the flint scraper, shows me again. "You will see when you are older. Your job is to clean these hides."
+"Not the river. Not fish. Trees. Fruit. Animals. Scary things." She continues grinding. "Keep working. You must do it yourself. Do not break the skin. We need them before the cold, or we do not see spring."
 
 "When will I go?"
 
 "If you live, you will go. We need these hides to live."
 
-I want to ask more, but Mother is already moving to the woodpile. I continue using the flint scraper to clean this hide. I throw the puppy some fat. I try not to look at the 14 waiting for me.
+Across the camp, the other mothers and kids work too. Strips of meat sit on drying racks. Roots are bunched together. So much fish is on smoking frames. The children who can walk carry. The children who can sit, sort.
+
+I want to ask more, but Mother is done grinding and is now at the woodpile. I continue using the flint scraper to clean this hide. I throw the puppy some fat. I try not to look at the 14 waiting for me.
 
 She is gathering wood. I already know how to stack them. "Small sticks first," she taught. "They catch fast. Then bigger wood. Fire needs both." I can't start a fire very fast.
 
-She uses flint axe to chop more pieces. I watch her. I know she's thinking the more work done now, the less work later. She loves me. I love her. She teaches me. How to cook food. How to use tools. How to care for wounds.
+She uses flint axe to chop more pieces. I watch her. She loves me. I love her. She teaches me. How to cook food. How to use tools. How to care for wounds. I want to know about the Giving Tree.
 
-I want to ask where Giving Tree is. What is out there. But I do not. Mother will be angry if I ask again. I should keep working.
+But I keep working. 13 hides to go. 2 hides per day.
 
-I keep working. 13 hides to go. 2 hides per day.
+Scrape. Scrape. Scrape.
 
-Then—voices!
+12 hides to go.
 
-"They're back!" I run to see. Puppy follows me.
+Voices! Mother calls "They're back!"
+
+I run to see. Puppy follows me.
 
 Our people emerge from the trees, baskets heavy with food. Children rush to greet them. I see Raya, Uncle, River Woman. 18 warriors. Four dogs. All safe.
 
+Mother breathes out. "All of them came back." She wipes her hands and goes to count the baskets.
+
 Raya sets down her basket and spear. "So much fruit! Giving Tree was full this season."
 
-Some warriors go to the wounded. Their hair grows in circles. Their mouths bleed. Their wounds are open. They smile at seeing the Giving Tree fruit.
+Some warriors go to the wounded. Even with loose teeth, bleeding mouths, wounds open, they smile at seeing the Giving Tree fruit.
 
 "How was the battle?" the wounded ask.
 
-"No battle. They saw us. Throw their spears. Some wounded. We run at them. They fled. Scared of our warrior spirit !" Raya smiles.
+"No battle. They saw us. Throw their spears. Some wounded. We run at them. They fled. Scared of our warrior spirit!" Raya smiles.
 
 I stare at the baskets. Giving Tree fruit. Marula. Fig. Mushrooms. Roots. More than I have seen.
 
 We gather around the fire. Everyone talks at once. I listen while I carry more wood, but I can't understand much. I want to ask questions but I help Mother instead.
 
-"Put the fruit in bowls, Kai," Mother says.
+"Put the fruit in bowls, Kai," Mother says. "These bowls to eat tonight. These to dry. These for the sick—do not mix them." Her hands move fast, sorting as she speaks.
 
 The fig is so ripe, juice runs down my hands. We have much fish. We have honey. So much food tonight. So much precious food to prepare for winter.
 
 While we cook, I hear more.
 
-"The deer were eating the Giving Tree fruit. They were close," Uncle says. "But we had full baskets already. Maybe we return."
-
-"A child wanted to break a branch from Giving Tree," River Woman says. "We will talk about it over dinner."
+"The deer were eating Giving Tree fruit. They were close," Uncle says. "But we had full baskets already. Maybe we return."
 
 Everyone does their job. The foraging group cleans their clothes and tools. We cook the food. We discard the fruit husks, skins, seeds. No good. Cannot eat.
 
@@ -1888,15 +1902,15 @@ Soon we sit. Then the stories start.
 
 I can't help it. I blurt out: "Where is Giving Tree?"
 
-River Woman looks at me. "Far. Four days walk. But you will see it when you are older."
+River Woman looks at me. "Far. Four days walk. You will see it when you are older."
 
 "Why can't we break branches?"
 
-"Giving Tree gives many fruit every season. We take fruit only. Never hurt the tree. It is sacred."
+"Giving Tree gives many fruit. If it hurt, less fruit. Never hurt the tree. It is sacred."
 
 Sacred means special. Protected.
 
-We eat. The wounded eat first. Giving Tree fruit will heal them. 
+We eat. The wounded eat first. Giving Tree fruit will heal them.
 
 Roots soft from the coals. Sweet fruit. Warm fish. Honey that drips. My belly is full. Night comes. Stars appear. Elder calls the children close.
 
@@ -1924,17 +1938,29 @@ Seasons passed. Family passed. Friends passed. I survived. I grew strong.
 
 When the Hunter-Star fell, warm returned. Deer-Star came. I went with the foraging party. 12 warriors, five dogs. We walk. Walk.
 
-We see the Giving Tree. No enemy there. No one there. No one waiting. Giving Tree looks sick. Leaves are few. No fruit. No baobabs. No deer feeding.
+We see the Giving Tree. No enemy there. No one there. No one waiting. Giving Tree looks sick. Leaves are few. 
+
+We see some fruit. Open them up. Ants. Rotten. There's no fruit. No baobabs. No deer feeding.
+
+The Giving Tree is dead! I hit it with my spear. I break the sacred branch. I break another. Then someone stops me.
+
+All together we kneel to the tree. We pray to the gods for another.
+
+Because there is nothing to eat here.
 
 Keep moving or go back? We need to find Giving Tree fruit or we get sick.
 
 We keep going. We follow a valley towards the Deer-Star. We keep walking. We gather roots. We gather reeds. Many baskets are still empty. Hunger. Thirst. 11 warriors remain. Two dogs left.
 
-We keep walking. See new places.
+We keep walking. See new places. We follow the Deer-Star.
 
 Keep moving. More hunger. Keep moving we need food.
 
-We turn sideways from the Deer-Star. Keep moving. Find fruit. Can't eat. Where are we. I want to go home. Keep moving. We find some fruit. Enough to keep going. Move. We keep moving. Thirst. Where is river. Water. Some water. We must share. Why must I share.
+There is nothing to eat here. We must turn sideways from the Deer-Star.
+
+Keep moving. 
+
+Find fruit. Can't eat. Where are we. I want to go home. Keep moving. We find some fruit. Enough to keep going. Move. We keep moving. Thirst. Where is river. Water. Some water. We must share. Why must I share. Why must I share!
 
 "You are not the most sick."
 
@@ -1942,7 +1968,7 @@ We turn sideways from the Deer-Star. Keep moving. Find fruit. Can't eat. Where a
 
 I understand.
 
-We keep moving. Up the valley. Some water. Some green. More water. More green. Trees. Fruit. We find fruit. River. Deer. We smile to each other. It was good to keep going.
+We keep moving. Up the valley. Some water. Some green. More water. More green. Trees. Fruit. We find fruit. River. Deer. We smile to each other. It was good to move away from Deer-Star.
 
 Is this new home?
 
@@ -1952,13 +1978,19 @@ They are not gathering. They are not hunting.
 
 Many big men with big spears stand in lines. They surround trees. Fig, nut, smaller giving trees, and grass.
 
-Other men are picking fruit from the trees.
+Other men and kids are picking fruit from the trees.
 
 Then a mother walks on soil. Her child is behind dropping water in soil. Another woman has a stick with something that looks like flint dragging on the land. In her basket are seeds. But she is not eating the seeds. Not grinding the seeds. She holds the seeds in her hands above the soil.
 
 I hug my empty basket.
 
 And then I see three seeds fall.
+
+
+
+
+
+
 
 ### Technological Game of Life
 
@@ -1990,7 +2022,7 @@ I notice the Elder's voice deepens as he says, "In the time of the seventh Navig
 
 The gods were calling us to voyage.
 
-We built twelve canoes according to the patterns the gods revealed in the first days. Each held twenty—planters who like you read Rongo's signs, fishers who honored Tangaroa's tapu, builders who understood Tāne's gifts of wood.
+We built twelve canoes according to the patterns the gods revealed in the first days. Each held twenty—planters who, like you, read Rongo's signs, fishers who honored Tangaroa's tapu, builders who understood Tāne's gifts of wood.
 
 The Navigator carried the red arrow his father's father's father carved. Seven white shells bound to its shaft—one for each Navigator in his line, each voyage that brought us here, island by island. Seven generations. Seven new homes found.
 
@@ -2034,7 +2066,7 @@ The Elder looks down, raises a hand, and stands. "May the gods bless our voyage,
 
 "Why did you bow?" I ask.
 
-An old builder watches him go. "We were lost on the water. Sun. Waves. Thirst. Fighting. Hunger. He was a fisher. When the Navigator passed, he kept us calm. He kept us together. He brought us to the island. Then our cousins met us with spears. We made ready to die. He was still. He walked to them. He spoke their grandfathers' names. We saw the blood we shared. He showed them our hard blades. There enemies became kin. Then he filled our baskets again. Healed the sick. Read the gods' signs. Found this new island. He could have made us serve him. Instead he became a fisher again, happy to tend his nets."
+An old builder watches him go. "We were lost on the water. Sun. Waves. Thirst. Fighting. Hunger. He was a fisher. When the Navigator passed, he kept us calm. He kept us together. He brought us to the island. Then our cousins met us with spears. We made ready to die. He was still. He walked to them. He spoke their grandfathers' names. We saw the blood we shared. He showed them our hard blades. There, enemies became kin. Then he filled our baskets again. Healed the sick. Read the gods' signs. Found this new island. He could have made us serve him. Instead he became a fisher again, happy to tend his nets."
 
 Another builder says, quietly, "Do not tell him. But he is our king."
 
@@ -2048,7 +2080,7 @@ Half the town is gone. Where warehouses stood, there is only rubble. Fishing boa
 
 We anchor offshore. I row in with my first mate.
 
-We walk the shore together. Rubble, ruins, decay is everywhere.
+We walk the shore together. Rubble, ruins, decay are everywhere.
 
 But we are Greeks. We work. We build.
 
@@ -2102,7 +2134,7 @@ The crowd murmurs, uncertain.
 
 "Build the temple. Honor the gods. I look forward to the festivals." Thales turns toward the hill. "But if anyone wishes to discuss what patterns we might observe, I'll be there."
 
-I trade with the Raven, an Illyrian named Teuta. A knife, shovels, and cloaks, for gold he's found.
+I trade with the Raven, an Illyrian named Bato. A knife, shovels, and cloaks, for gold he's found.
 
 I shake his hand hard. "Rebuild. We are Greeks."
 
@@ -2126,13 +2158,13 @@ The official looked up, annoyed. "Because I've calculated it."
 
 "But how do I—"
 
-"The measurement is written here. You'll receive the deed tomorrow." He rolled the map and walked toward the road, calling back to his apprentice. "Mark the corners."
+"The measurement is written here. You'll receive the deed tomorrow with compensation for lost crops." He rolled the map and walked toward the road, calling back to his apprentice to mark the corners.
 
-The apprentice drove stakes along my field's edge, measuring carefully. I watched him work, my chest tight. My father's land. My grandfather's.
+The apprentice drove stakes along my field's edge, measuring the base for the aqueduct's pillars. I watched him work, on my father's land. My grandfather's land.
 
-"I can't read the mathematics. Can you help?" I asked the young apprentice when the official was out of earshot.
+I asked the young apprentice when the official was out of earshot. "I can't read the mathematics. My young son cannot either. Can you help?" 
 
-"The philosopherstell us the basis of all knowledge is saying 'I don't know'. Because you are honest, I can help you."
+"Yes. I can help you."
 
 The apprentice knelt and drew in the dirt. He sketched my field's irregular shape, then drew lines inside it, breaking it into triangles and rectangles.
 
@@ -2156,25 +2188,31 @@ My son and I measured the new plot with a marked rope. We paced it twice.
 
 Sixty by eighteen.
 
-"We'll start planting tomorrow. New vines on the south, trees to the north, bee hives in between. We'll be back to normal in three to four seasons."
+My son and I made a plan. Prepare the soil. Start planting new vines on the south, trees to the north, bee hives in between. We'll be back to crop in three to four seasons.
 
-"With constant water", my son noted correctly.
+"Faster," my son said.
+
+"How?"
+
+"We'll have constant water," my son noted correctly.
 
 We took the deed the next day.
 
-That year, the aqueduct brought water from the mountains. The road beside it carried grain carts from the harbor to the city center. Between them, workers laid the foundation for a new storehouse, each corner measured square, each wall calculated to bear its load.
+That year, the aqueduct brought water from the mountains. The road beside it carried carts between the harbor and city center. Between them, workers laid the foundation for a new storehouse, each corner measured square, each wall calculated to bear its load.
 
 My farm continued and a new city rose.
 
+
+
 #### Averroes - Height of Reason
 
-Water flows through carefully graded channels, the gradient so precise that it travels from mountain springs to vast irrigation fields without a single pump. The *acequia*—the web of channels that carries the mountain water across the dry country—spreads to the horizon, feeding orchards no rain alone could keep. Men walk the channels each morning, clearing silt, checking the fall of the water finger-width by finger-width.
+Water flows through carefully graded channels, the gradient so precise that it travels from mountain springs to vast irrigation fields without a single pump. The acequia—the web of channels that carries the mountain water across the dry country—spreads to the horizon, feeding orchards no rain alone could keep. The fruit pays for the land, the water, the work. So men walk the channels each morning, clearing silt, checking the fall of the water to ensure constant flow.
 
 In the great courtyard, two students bend over their paper sheets, each drawing a different triangle—one tall and narrow, one with sides nearly equal. A third holds an astrolabe to the afternoon sky—a disk of engraved brass, the heavens mapped in metal, by which a man can measure a star's height and read back his own place beneath it. He turns it, frowning.
 
 The youngest sets down his reed pen. "Teacher, the *acequia*—how did the engineers know the gradient? They made water flow across the whole country without spilling, without a single pump."
 
-"Geometry." Averroes taps the paper. "The same Euclid proved in Alexandria, Al-Khwarizmi made into algebra. Water falls at the same rate here as in Baghdad, as in Rome before us. If you can do the math."
+"Geometry." Averroes taps the paper. "What Euclid proved in Alexandria, Al-Khwarizmi made into algebra. Water falls at the same rate here as in Baghdad, as in Rome before us. If you can do the math."
 
 "But those are Greeks and Persians," another says. "We're not them."
 
@@ -2182,15 +2220,15 @@ The youngest sets down his reed pen. "Teacher, the *acequia*—how did the engin
 
 He takes the astrolabe from the third student, holds it to the light.
 
-"Do you understand what this is? A captain a thousand miles from any coast he has seen, takes a star's height with this brass, opens his tables, and knows where he stands on an ocean. We turn the faithful toward Mecca anywhere we are. We tell the farmer the night the river will rise, and it rises. We say the moon will darken three years hence, on such a day, in the third hour—and three years on, on that day, in that hour, it darkens." He sets it down.
+"Do you understand what this is? A captain a thousand miles from any coast he has seen, takes a star's height with this brass, opens his tables, and knows where he stands on an ocean. We turn the faithful toward Mecca anywhere we are. We tell the farmer the night the river will rise, and it rises, so he knows when to plant his crop. We say the moon will darken three years hence, on such a day, in the third hour—and three years on, on that day, in that hour, it darkens." He sets it down.
 
 "We learned all this, about a sky we cannot touch, using the reason and mind God gifted us."
 
-The youngest student lifts a worn star table from the bench—Al-Battani's, copied and recopied, the ink soft at the folds. "Then why does my father keep two star tables, Teacher? The old table and a new one. He says every few decades the numbers must be corrected, or the ships miss their harbors. If the mathematics is so perfect, why does it drift?"
+The youngest student lifts a worn star table from the bench—Al-Battani's, copied and recopied, the ink cracked at the folds. "Then why does my father keep two star tables, Teacher? The old table and a new one. He says every few decades the numbers must be corrected, or the ships miss their harbors. If the mathematics is so perfect, why does it drift?"
 
-"Because the sky does not hold still for us, and our eyes were poorer than our grandsons' will be." Averroes does not look away from him. "The acequia silts up too. We clear it every morning. In the same way, the table is not the heavens. It is our best account of them, and an account must be kept—corrected, recopied, carried forward—or it rots like anything left untended. This is the work we do."
+"Because the sky does not hold still for us, and our eyes were poorer than our grandsons' will be." Averroes does not look away from him. "The acequia silts up too. We clear it every morning. Stop clearing it a single season and the orchards are desert again. In the same way, the table is not the heavens. It is our best account of them, and an account must be kept—corrected, recopied, carried forward—or it rots like anything left untended. This is the work we do."
 
-The boy holds the table up against the astrolabe and the sky. "Then which is right tonight? The table says the planet should sit here." He points. "It sits there." He moves his finger a hand's width. "By this much."
+The boy holds the table up against the astrolabe and the sky. "Then which is right tonight? The table says the planet should sit here." He points. "It sits there." He moves his finger a hand's width, "by this much."
 
 Averroes looks. He does not flinch from it.
 
@@ -2200,15 +2238,16 @@ Averroes looks. He does not flinch from it.
 
 Averroes is quiet a long moment.
 
-"I have turned that over for thirty years," he says at last. "Aristotle tells me what the heavens *are*: perfect, turning in true circles, for nothing less would befit them. Ptolemy tells me what they *do*—near enough to cross an ocean by. We do not yet know. So we keep working—and perhaps you will find the reason"
+"I have turned that over for thirty years," he says at last. "Aristotle tells me what the heavens *are*: perfect, turning in true circles, for nothing less would befit them. Ptolemy tells me what they *do*—near enough to cross an ocean by. We do not yet know. So we keep working. Perhaps you will find the reason, my bright student."
 
 The boy smiles.
 
-"Add the correction to the table," Averroes says. "Date it. Send a fair copy west with the next caravan, and one east. Whatever the spheres truly are, the harbors must keep being found."
+"Add the correction to the table," Averroes says. "Date it. Send copies west with the next caravan, and some east. Whatever the spheres truly are, farmers must know when to plant. Harbors must keep being found."
 
 The youngest student writes the new number beside the old one, and updates the star table inside several texts.
 
-He puts one updated text on the library shelf. The others go on men, horses, and ships to libraries throughout the world.
+He puts one updated text on the library shelf. The others go out by horses and ships to libraries throughout the world.
+
 
 #### Renaissance - Limits of Reason - Effectual Truth
 
@@ -2218,15 +2257,15 @@ The woodcutter marks another oak. "Can I have this big one?"
 
 They walk the Tuscan tree line and discuss which trees to sell, what price, when to cut them.
 
-The woodcutter pauses. "My son asks why we Italians are so weak now. The Spanish take what they want. The French march through whenever they please. The Germans threatend us when they want. His grandfather said Italians were once master of the world."
+The woodcutter pauses. "My son asks why we Italians are so weak now. The Spanish take what they want. The French march through whenever they please. The Germans threatened us when they want. His grandfather said Italians were once master of the world."
 
 Niccolo stops walking. "Your grandfather was right. Rome ruled for centuries. Do you know how?"
 
 The woodcutter shrugs.
 
-"Not through goodness. Through knowing what works." Niccolo picks up a stick, scratches a line in the dirt. "Back then, the Germans lived in hurts and walked barefoot, used hollow logs to cross rivers and raid our rich cities. So, Caesar threw a bridge across the Rhine in ten days. Marched his legions over to show the Germans what Rome could build—then burned it behind him and left. They thought our hammers were sorcery. They left Rome alone for a generation. Over a bridge. Now they raid us with the tools we gave them."
+"Not through goodness. Through knowing what works." Niccolo picks up a stick, scratches a line in the dirt. "Back then, the Germans lived in huts and walked barefoot, used hollow logs to cross rivers and raid our rich cities. So, Caesar threw a bridge across the Rhine in ten days. Marched his legions over to show the Germans what Rome could build—then burned it behind him and left. They thought our hammers were sorcery. They left Rome alone for a generation. Over a bridge. Now they raid us with the tools we gave them."
 
-"My order's for a bridge at Certaldo." The woodcutter almost smiles. "Smaller than teh Rhine, I'd think."
+"My order's for a bridge at Certaldo." The woodcutter almost smiles. "Smaller than the Rhine, I'd think."
 
 "Smaller. Same knowing." Niccolo gestures down the valley. "Rome held the world with it—roads, bridges, walls, the law that ran along them. All of it kept up. Repaired. Paid for in iron and work and virtue, year after year."
 
@@ -2236,7 +2275,7 @@ The woodcutter shrugs.
 
 "So what do we need?"
 
-"New modes and orders. Not what the philosophers say *should* work. What does. The effectual truth of the thing—not the dream of it. Let nature tell us where we are wrong."
+"New modes and orders. Not what the philosophers say *should* work. What does. The effectual truth of the thing—not the dream of it."
 
 The woodcutter nods slowly. Then: "Weren't you exiled? Tortured?"
 
@@ -2466,7 +2505,7 @@ That cannot be true.
 
 What do these Puritans and Presbyterians want. To challenge the Crown? To what end? Do they want to practice religion freely? They want Sovereignty.
 
-I am their king. Chosen by God, given the duties of God. It is in the Scriptures, the laws, the customs since the Realm began. The faithful people know it.
+I am their king. Chosen by God, given the duties of God. It is in the Scriptures, laws, and customs. The faithful people know it.
 
 The coach stops at Whitehall Palace. Good. I am hungry, thirsty, and cold. I can't let our subjects see it.
 
@@ -2650,11 +2689,9 @@ Wren,
 
 I have checked Halley's calculations against the observations from 1531, 1607, and 1682. The orbital elements match within the margin of observational error.
 
-I also calculated the gravitational perturbations from Jupiter and Saturn—these giants will pull the comet slightly off course, delaying its return by perhaps a year or two.
+The giant planets, Jupiter and Saturn, may pull the comet slightly off its course as it passes—enough to delay its return. By how much, I cannot yet say. The calculation is beyond what any of us can finish at this time.
 
-Accounting for these perturbations, I predict the comet's return between late 1758 and early 1759.
-
-Halley's method is sound. If the comet returns as predicted, it will prove Newton's law governs the entire heavens—planets, moons, and comets alike.
+Halley's method is sound. If the comet returns near 1758, it will prove Newton's law governs the entire heavens—planets, moons, and comets alike.
 
 I pray one of us will live to see it.
 
@@ -2680,12 +2717,13 @@ That is how we learn what is true.
 
 ---
 
-**From Johann Georg Palitzsch, Dresden** 
-**To Royal Prussian Academy of Sciences, Berlin**
+**From Johann Georg Palitzsch, Dresden**  
+**To Royal Prussian Academy of Sciences, Berlin**  
+**25 December 1758**
 
 The comet has returned, exactly as Halley predicted.
 
-I observed it on Christmas night through my telescope. The orbital path matches the calculations made 53 years ago.
+I observed it tonight, Christmas night, through my telescope. The orbital path matches the calculations made 53 years ago.
 
 The mathematics was right.
 
@@ -2697,12 +2735,10 @@ Halley did not live to see this night. But his mathematics did.
 
 ---
 
-**From Royal Prussian Academy of Sciences, Berlin**
-
-**To Royal Society of London, London**
-**To Royal Academy of Sciences, Paris**
-**To Royal Prussian Academy of Sciences, Berlin**
-**To Royal Danish Academy of Sciences and Letters, Copenhagen**
+**From Royal Prussian Academy of Sciences, Berlin**  
+**To Royal Society of London, London**  
+**To Royal Academy of Sciences, Paris**  
+**To Royal Danish Academy of Sciences and Letters, Copenhagen**  
 **29 January 1759**
 
 Newton is proven. Halley was right. See Palitzsch's confirmation below.
@@ -2720,7 +2756,7 @@ Mary Anning looks up from her workbench. "Looking for something in particular?"
 
 Mary sets three specimens on the counter.
 
-"These are from different soil layers," she says. "This coiled shell, ridged and chambered is from thirty feet down. This large vertebrae from sixty feet. And this serrated, curved tooth from ninety feet."
+"These are from different soil layers," she says. "This coiled shell, ridged and chambered is from thirty feet down. This large vertebra from sixty feet. And this serrated, curved tooth from ninety feet."
 
 Mr. Hartley leans closer. "Different animals?"
 
@@ -2754,7 +2790,7 @@ Mary doesn't answer.
 
 "Perhaps, we have yet to find your lost creatures in the unexplored areas of our world."
 
-Miss Anning doesn't responsd. Mr. Hartley says, "How much, Miss Anning?"
+Miss Anning doesn't respond. Mr. Hartley says, "How much, Miss Anning?"
 
 "Two shillings for the ammonite. Five for the vertebrae. Three for the tooth."
 
@@ -2776,11 +2812,11 @@ Mr. Hartley kneels beside a pool. A crab moves across stone, claws extended.
 
 "Similar. Older. Different species."
 
-A gull lands near the pool. Approaches the grab and strikes down and cracks the shell with its beak. Then calls into the air.
+A gull lands near the pool. Approaches the crab and strikes down and cracks the shell with its beak. Then calls into the air.
 
 Mr. Hartley watches. "We classify that gull by its beak structure, its feet, its wings. Observable traits. We don't need to hear its call or understand its thoughts."
 
-Mary responds, "We observe what works. What works tells us about the environment. Form reveals purpose.".
+Mary responds, "We observe what works. What works tells us about the environment. Form reveals purpose."
 
 Mr. Webb unwraps the ammonite fossil. Holds it up. "This shell—it controlled buoyancy. The opening suggests tentacles. The size suggests a predator."
 
@@ -2796,7 +2832,7 @@ Silence.
 
 Mr. Webb looks at the cliff face, as they all start to climb it.
 
-Mary says, "Careful gentlemen. We'll be nearing a very large precipice."
+Mary says, "Careful, gentlemen. The precipice is closer than it looks."
 
 Three people dig.
 
@@ -2810,7 +2846,7 @@ I will tidy up. I ask the nice boy to visit the store for me. I write him a shop
 
 "I can't read, ma'am".
 
-"Can't read?" I say back. Everyone should read. How can you work if you can't read? It feels wrong that you cannot. I'll teach you. We'll do it together."
+"Can't read?" I say back. Everyone should read. How can you work if you can't read? It feels wrong that you cannot. "I'll teach you. We'll do it together."
 
 He sits beside me at the kitchen table. He is sounding out words like any child would. Eager. Bright. We stop our chores for a few hours and I teach. 
 
@@ -2864,17 +2900,19 @@ The North is invading. Frederick told the world lies about our society. We must 
 
 The war is on.
 
-The North makes many weapons, rifles, cannons, boats, trains, observation balloons.
+The North builds rifles, cannons, ironclads, railroads, telegraph lines. Their workers make the designs, run the machines, send the orders down the wire. Farm boys and factory hands.
 
-So can we!
+So can we. We have cotton, metals, wood, powder. We have the brains. We have the hands.
 
-We make manuals to use them. We hand them out to our workers and defenders.
+We print the manuals. Create loading drills. Make signal codes and telegraph keys. We hand them to our workers and our defenders.
 
-"We can't read, ma'am".
+"To arms, boys."
 
-<!-- 
-- cordyceps
- -->
+"Form up, men."
+
+"For hearth and home."
+
+"I can't read, ma'am."
 
 #### Hands On Learning
 
@@ -2886,7 +2924,7 @@ I watch the other doctors come from the autopsy room. Hands still stinking of de
 
 I tell my fellow doctors: wash your hands. Use chlorinated lime solution. 
 
-"Quiet, Dr. Semmelweis, you fool!"
+"Quiet, Dr. Semmelweis, you Hungarian fool!"
 
 I show them the numbers. "We are carrying death from the corpses to the mothers."
 
@@ -2910,7 +2948,9 @@ Is it me? Aren't the numbers clear?
 
 ---
 
-I read Loius Pasteur's work on fermentation. He's in France. I'm in Scotland. Yet I read his achievements within weeks of their publication. How wonderful. Decay of organic matter is not caused by spontaneous generation. Rather, germs in the air are the cause.
+I am a medical doctor in Scotland.
+
+I read Louis Pasteur's work on fermentation. He's in France. Yet I read his achievements within months of their publication. How wonderful. Decay of organic matter is not caused by spontaneous generation. Rather, germs in the air are the cause.
 
 Germs. Tiny little lifeforms. I guess we can't see planet details and moons until we zoom in. I guess we can't see germs either. But both are real nonetheless.
 
@@ -2938,19 +2978,21 @@ Hand washing spreads.
 
 ---
 
-The president is shot.
+President Garfield is shot.
 
 I'm the attending physician. I take charge. The bullet is lodged somewhere in his abdomen. I need to find it. I've been a surgeon for thirty years. I know wounds. I will save the president. He is a Union war hero. A good man.
 
-I insert my finger into the wound. Probe for the bullet. Can't find it. Another doctor tries. Then another. We take turns. "We must find the bullet, Dr. Bliss", others agree with me.
+I insert my finger into the wound. Probe for the bullet. Can't find it. Another doctor tries. Then another. We take turns. I ask the others if they agree with my methods. "We must find the bullet, Dr. Bliss," is all I hear back
 
-The president develops fever.
+The president develops fever. He's in so much pain.
 
 I continue treatment. Drainage. Probing. Searching for the bullet. The bullet is causing his sickness.
 
 The fever worsens. We move him to the coast to get good air.
 
-Eleven weeks. He dies.
+Eleven weeks of resting on the porch, talk of the war, searching for the bullet, feverish pain
+
+He dies.
 
 The bullet wound was too severe. The shock to his system was too severe. Nothing could have saved him.
 
@@ -3000,21 +3042,15 @@ I cannot help him. I must follow the ladies to start the morning chores. I pray 
 
 That night, my husband returns. He has a cut on the forearm. But he is smiling as he tells me what happened.
 
-"I looked at the machine. My hands were shaking. The farmer saw me—scared like a cat I was. But he did not laugh. I didn't know what to say. He said, 'We got it from Britain this year. I'm learning it too. Come. Let's start.'"
+"I looked at the machine. My hands were shaking. The farmer saw me—scared like a cat I was. But he did not laugh. I didn't know what to say. He said, 'We got it from Britain this year. Called a tractor. I'm learning it too. Come. Let's start.'"
 
-So we learned. I read the manual. The machine is steel, runs on steam. It does the planting very fast. When it works. It worked a few hours today, then we fixed it a few hours. There are many water pipes. We seed much faster on the good days.
+So we learned. I read the manual. The tractor is steel, runs on steam. It does the planting very fast. When it works. It worked a few hours today, then we fixed it a few hours. There are many water pipes. We seed much faster on the good days.
 
-I don't understand this new machine. "I want to see it," I tell him as I put carbolic acid on his cut then wrap the clean cloth around it. He will work tomorrow and be safe.
+I don't understand this new tractor machine. "I want to see it," I tell him as I put carbolic acid on his cut then wrap the clean cloth around it. He will work tomorrow and be safe.
 
-And the farmer knows more than machines.
+I learn the farmer knows more than machines. When the tractor was working, the workers laid irrigation pipes—pipes under pressure to water the whole field. The farmer asked where they should go. My husband said to put the channels high and let gravity do the rest. He put my husband on the irrigation pipe team!
 
-When the machine was working, he said we needed to lay irrigation pipes.
-
-Pipes! Under pressure would water the field!
-
-He asked me where they should go. I said to put water channels high, and let gravity do the rest. I told him how I would water the field, and he put me on the irrigation pipe team.
-
-He plants one crop here this year, another next, he says so the soil never tires. He keeps boxes of bees, feeds them through winter, so the blossoms set fruit consistently.
+The farmer teaches us "crop rotation". He plants one crop here this year, another next, he says so the soil never tires. He keeps boxes of bees, feeds them through winter, so the blossoms set fruit consistently.
 
 And so my husband would return each day. Hard work in body and mind, we pushed each other on with "Rich country, strong army". We grow our nation together.
 
@@ -3044,7 +3080,7 @@ These Americans are already rebuilding it. Like the seedlings of the forest.
 
 A new wall of paper, more job ads, the same colors. There is so much work.
 
-We have sleeping quarters. We prepare our meals with our countrymen. We are told "They don't like giving us the good jobs. But there's so much work here now, maybe they will soon."
+We find sleeping quarters and prepare meals with our countrymen. We are told "They don't like giving us the good jobs. But there's so much work here now, maybe they will soon."
 
 We take a few days to get settled. To understand the area. To meet people. Doors close in our face. Some faces sneer at us.
 
@@ -3054,7 +3090,7 @@ That night, we hear in the alley below, something moves. Its paws quick and care
 
 My husband and I hide food for it. And each night it finds a way to eat. 
 
-We go to the job board. The others take the dangerous work they will likely get. I see the ad immediately *Pipefitters. Pressurized water fire suppression. The city of the future. Rising from the ashes. Now make San Francisco FIRE PROOF.*
+We go to the job board. The others take the dangerous work they will likely get. I see the ad immediately *Pipefitters. Pressurized water fire suppression. Make San Francisco FIRE PROOF.*
 
 We find the recruiter. He looks at us, unsure. Asks if we have done such work.
 
@@ -3455,7 +3491,7 @@ And shut that bell up forever.
 
 ---
 
-## Chapter 13 - Epilogue
+## Chapter 13-Epilogue
 
 ### Opening Quote
 
