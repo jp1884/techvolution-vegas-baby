@@ -1349,27 +1349,27 @@ Xenophanes, Greek Philosopher 6th Century BC.
 
 Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
 
-Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances. All lifeforms just go to work and play the game. 
+Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second-chances.
 
-The gameboard is constructed by the laws of physics, chemistry, and geology. All the while, entropy wears down homes, spoils food, and puts timers on everyone's existence. Yet life uses these same laws to assemble matter into new creatures, nests and homes, and now even into tools. Each new assembly is a unique variation. Sometimes their combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. 
+Because the gameboard is completely impersonal, constructed by the laws of physics, chemistry, and geology. With every minute entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to assemble matter into new creatures, nests and fruit, and now even into tools. Each new assembly is a unique variation. Sometimes their combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. 
 
-Natural selection finds only the forms that best read the environment's patterns and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers.
+Natural selection finds the forms that best read the environment's patterns—when rain comes, sunlight returns—and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers all working together to harvest resources efficiently and keep building matter into life faster than entropy tears down.
 
-This has worked for billions of years.
+This has worked for billions of years. It happening all around you right now in the natural world and technological one too.
 
-Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt and survive; the false ones mislead us, and often take their believers down with them.
+Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt to the gameboard; the others mislead us, and often take their believers down with them.
 
 How to tell which is which?
 
-Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the patterns best—when fruit ripens, what smoke means—survive to play again.
+Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the patterns of when fruit ripens or what smoke means survive to play again.
 
-You may like narratives, statistics, and entertaining heroes. Entropy does not care. So life cannot care. Natural selection does select for those either. And neither can this book.
+You may like narratives, statistics, and entertaining heroes. But entropy does not care. So life cannot care.
 
-This chapter is not a story to enjoy. It is a mirror to your new identity. In each life that follows, you are not the audience. You are the one being tested. Ask of every species you see and framework you meet: does it read the world, or only mislead the believer?
+Thus this chapter is not a story to enjoy. It is a mirror to your new identity. A person that can adapt to use the good things today to create a better society.
 
-The winners are not the largest, the highest-born, or the most powerful. Only those who can keep playing the never-ending game.
+In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in their lives and ask of every species you see and framework you meet: does it read the world clearly and earn its place?
 
-To see it is our test. Hold this truth as you read each word.
+Notice, the winners are not always the largest or the smallest, the weakest or most powerful. But always those who can keep contributing to their ecosystem. Flip the page and hold this eternal truth as you read each word.
 
 Build fast. Good.
 
@@ -1379,13 +1379,9 @@ Build slow. Get challenged.
 
 Build no more. Get replaced.
 
-
-
-
-
 ### Biological Game of Life
 
-#### Weed Seeds
+#### Weeds
 
 Wind carries seeds. Seeds land. Most keep moving.
 
@@ -1463,17 +1459,7 @@ Ash settles into soil. Sunlight returns.
 
 Three seeds fall.
 
-<!-- Polination -->
-
-- 
-<!-- 
-sensory inputs, establish, grow, diversify. (mention genotype, phenotype more explicitly?)
-change/entropy attacks
-sensory inputs, establish, grow, diversify.
-change/entropy attacks
--->
-
-#### Flies Fly
+#### Fly Toward
 
 Eggs hatch. Larvae move up, down, left, right. Plant is soft. Plant is edible.
 
@@ -1483,11 +1469,9 @@ Larvae grabbed. Larvae lifted. Jaws close. Crunch. Larvae fall. Larvae in water.
 
 Larvae eat more. Larvae grow. Wings form. Light is above. Insects fly toward light.
 
-Many insects fly toward light. No scent. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insects fall. Ground is hard. Insects stop.
+Many insects fly toward light. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insects fall. Ground is hard. Insects stop.
 
 Many insects turn toward scent. Scent drifts. Sweetness. Flowers are here. Insects land. Nectar is here. Insects drink. Energy flows. Insects fly. More flowers. More nectar. Energy high.
-
-Many insects fly towards light. Sticky thread touch wings. Insects struggle. Thread wraps. Movement stops. Spider comes.
 
 Many insects land on water. Tongues reach. Jaws jump. Crunch.
 
@@ -1499,13 +1483,13 @@ Warmth returns.
 
 Brood hatches. Larvae eat. Larvae grow.
 
-Most insects fly toward light. Some turn toward scent. Some have red eyes. Insects find flowers. Insects mate.
+Some insects fly toward light. Some turn toward scent. Some have red-eyes. Red-eye all find flowers. Insects mate.
 
 More broods. More generations. We find flowers. Nectar is abundant. Energy high. We survive.
 
-Brood hatches. Larvae eat. Larvae grow. More have red eyes. We are many. We are the brood.
+Brood hatches. Larvae eat. Larvae grow. More have red-eyes. We are many. We are the brood.
 
-More generations. All have red eyes.
+More generations. All have red-eyes.
 
 Many flowers. Air is thick. Oxygen is rich.
 
@@ -1513,15 +1497,21 @@ Wings beat faster. Flight grows stronger. Flowers grow taller. Cannot reach nect
 
 Brood hatches. Many eggs do not crack.
 
-Some red-eye insects are longer. Some red-eye insects are bigger.
+Some red-eye insects are longer.
 
-Longer reach flowers. More can drink. Red eyes see flowers.
+Longer reach flowers. More can drink. Red-eyes see flowers.
 
 Brood hatches. More eggs crack.
 
-Some red-eye insects are longer. Some big-eye insects are bigger.
+Some red-eye insects grow bigger.
 
-Bigger shadows come. We dart. We escape. Some grabbed. Some captured. Crunch. 
+Big-eye insects see clearer. Big-eye insects move faster. Big-eye insects eat us.
+
+The brood splits. Our kind keeps to the flowers. The others chase us.
+
+We see only moving shadows.
+
+We dart. We escape. Some grabbed. Some captured. Crunch. 
 
 We fly. We feed. We mate.
 
@@ -1529,9 +1519,12 @@ Shadows follow. Shadows chase. We dart.
 
 Two broods hatch. More eggs crack.
 
-More red-eye pollinators. More flowers. More big shadows follow. 
+More red-eye pollinators. More flowers. More big-eyed shadows follow. 
 
 Two broods hatch. More eggs crack.
+
+
+
 
 <!-- - plague? return to normal? i don't think so. speciation is the point here.-->
 <!-- disease comes, broods don't hatch, some variants resist, lineage continues. No villains, no enemies. -->
@@ -1544,79 +1537,69 @@ Where are weak. Where are kids. There!
 
 Predator runs. Herd runs. There is weak. There is kid. Predator turns. Kid still eating. Predator runs. 
 
-Kid runs. Kid is fast. Kid turns left. Kid turns right. Predator runs. Sun is high. Predator hot. Breath is fast. Legs are slowing. Predator runs. Kid is close. Kid is close.
+Kid still eating. Herd is gone. Predator reaches. Crunch. No predators near. Feast.
 
-Reach mouth. Jaws close. Kid falls.
+Return to nest.
 
-Meat is abundant. Look. Watch. Smell. No threats. Predator eats fast. Strength high.
-
-Eggs in nest. Eggs are warm. Predator turns eggs. Smell is wrong. Predator listens. Small furred creature is close. Predator snaps. Furred creatures run to crevices.
+Eggs in nest. Eggs are warm. Predator turns eggs. Smell is wrong. Predator listens. Insects near. Small furred creature is eating insects. Predator waits. Insects gone. Predator snorts. Furred creatures run to crevices.
 
 All eggs hatch. Some are faster. Some are stronger.
 
-More of their eggs hatch.
+Predator kids go into forest. Predator kids must now hunt.
 
-Trees are tall. Necks reach high. Kids grow. Some are taller. Some reach higher. Some are bigger. Some are safer.
+Trees are tall. Long-neck grazers eat. Shrubs are short. Armored grazers eat.
 
-Shrubs are shorter. They grow wider. Armored grazers eat low plants. Shells are thick. Tails swing. Predators back away. Some are tougher. More of their eggs hatch.
+Bigger necks reach high leaves. Bigger armor protects. Bigger tree seeds spread far. Shorter shrubs' seeds spread wide.
 
-Some are smaller, some are quicker. More of their eggs hatch.
+Small eggs hatch. Predators chase. Leaves are few. Small eggs hatch. Predators catch. Leaves are none.
+
+Only big eggs hatch.
+
+Forests grow tall. No sunlight at bottom. Tall trees fall. No small trees at bottom. Small seeds come. Forests become valleys. Grass grows. Grazers return. Flowers grow. Pollinators return.
 
 Young predators, grazers, big or tall, look in area, look for spots, look for food, make nest. Good spots near water. Good spots near trees. All spots taken.
 
 Swimmers in water, flyers in air, walkers on land. Many eggs. Must make nest.
 
-Every plant has eater. Every eater has hunter. Every hunter has territory. Every spot is taken.
+Every plant has its eater. Every flower has its pollinator. Every seed has its spreader. Every eater has its hunter. Every death feeds the soil. Every life feeds another. Every spot is taken.
 
-Open land. No water. No trees. Make nest. Eggs in nest. Pull toward nest. Rain hard. Cannot leave. Rain cold. Cannot leave. Predator turns eggs. Predator listens. Furred creatures close. Predator snaps. Stay near. Stay near. Eggs warm.
+Open land. No water. No trees. Make nest. Eggs in nest. Rain hard. Cannot leave. Rain cold. Cannot leave. Furred creatures close. Predator snaps. Stay near. Stay near. Eggs warm.
 
 Eggs hatch.
 
-Seasons pass. Forests change. It gets colder. It gets warmer. More eggs hatch.
+Seasons pass. Forests change. It gets colder. It gets warmer. Forests go up. Then go down. Seas move. All the time spots are taken. All the time many eggs hatch.
 
 Sky brightens. Brighter than sun.
 
 Ground rumbles. Louder than footsteps. Louder than thunder. Ground moves. Trees fall. Nests crack. Mountains shake. Air smells wrong. Smoke. Burning. Heat comes. Fire spreads. Herds run. Run where. Everywhere is burning. Nowhere is safe.
 
-Sky darkens. Wind screams. Long-necks bellow. Pack hunters scatter. Flyers cannot fly. Heat. Cold. Darkness. Cannot see. Cannot breathe.
+Sky darkens. Long-necks bellow. Pack hunters scatter. Heat. Cold. Darkness. Cannot see. Cannot breathe.
 
 Ash starts falling.
 
-Not much light. No big trees. No big leaves. No big grazers. No big predators.
+Not much light. Big leaves furl. Less light. Big trees fall. Small trees grow. Long-necks cannot reach. Big grazers energy low. Big predators feast.
 
-Trees fall. Dinosaurs fall. Fungus grows. Spores spread.
+Big grazers gone. Big predators starve.
+
+Big trees fall. No big eggs hatch. Dinosaurs fall. Fungus grows. Spores spread.
 
 Crocodiles in the water, birds in the sky, mice in the crevices, insects everywhere. 
 
-More of their eggs hatch. More of their babies born.
+More of their eggs hatch.
 
 Birds in the sky. Many birds. Many wings.
-
-Birds make nests. Birds lay eggs. Many eggs hatch.
 
 Bird flies. Neighbor close. Pull away. Neighbor far. Pull close. Neighbor faster. Match speed. Neighbor slower. Match speed.
 
 Bird flies. Three neighbors. Always three. Watch the three. Match the three.
 
-One bird flies alone. Pulls away. No neighbors. Bird flies far. Shadow below. Bird darts. No flock to hide in. Crunch.
+Many bird eggs hatch.
 
-One bird flies slow. Falls behind. No neighbors. Shadow finds. Crunch.
+The flock rises. Flock sees many trees. Forests grow tall.
 
-Birds that match. Birds that stay close. Eggs hatch.
+Many bird eggs hatch.
 
-The flock rises. Flock sees many trees. Many crocodiles. Many mammals. 
-
-The flock moves south.
-
-<!-- 
-- forests become valleys, valleys become forests. deserts turn green.
-- should note interactions/teamwork/collaborations more. 
-- flocking birds "1. Separation - Steer to avoid crowding local flockmates. 2. Alignment - Steer towards the average heading of neighbors. 3. Cohesion - Steer to move toward the average position of neighbors.
--->
-
-
-
-#### Chameleon
+#### Chameleon - ?
 
 Area is dark. Little light breaks open. Chameleon is cold. 
 
@@ -1684,7 +1667,7 @@ Flock goes down. Mate goes down. We honk. We bow. Necks touch. We are mates.
 
 We must find. Where to nest. We must find safe nest. Land. Look, look. Cavity is deep. No predators reach. Something in tree. Slow lizard. It is safe animal.
 
-Get twig. Get grass. Put here. Put there. Get feather. Get twig. Put there.... Wind. Wind rips away grass. Wind tips down feather. Guard. My mate looks. My mate guards. Get twig. Get twig. Get feather. Put here. Put there.
+Get twig. Get grass. Put here. Put there. Get feather. Get twig. Put there... Wind. Wind rips away grass. Wind tips down feather. Guard. My mate looks. My mate guards. Get twig. Get twig. Get feather. Put here. Put there.
 
 I lay eggs. 8 eggs. I see them. Our eggs. My mate brings food. Flies are here. Bite at flies. I sit. Warmth. I sit. He hunts. He sits. I hunt. Rain. We sit. Sun. We sit. Must turn eggs. We wait.
 
@@ -1716,7 +1699,7 @@ Water explodes.
 
 Mouth rises. Danger in water. Panic. Panic.
 
-I scream. My mate is not here. Mate gone. I rise, wings spread, hissing. Where is danger.
+I scream. My mate is not here. I rise, wings spread, hissing. Where is danger.
 
 3 kids in water. 3 kids near water on ground. Waiting.
 
@@ -1740,7 +1723,7 @@ Family is behind. Are we all still together?
 
 Yes, yes, yes, yes, yes Matriarch...All say yes.
 
-I saw look for danger! Listen for danger!
+I say look for danger! Listen for danger!
 
 All say listening. That is good.
 
@@ -1782,7 +1765,7 @@ We keep moving. We keep moving. We are here!
 
 Everyone is happy! I will stand here. Keep watching. Have fun! Stay close! I am matriarch.
 
-Oldest Daughter and kids are running. The area looks different. Water is round, deep, clear. Are there predators inside. I walk. I look. I see no predators. No danger in water. You can drink Oldest Daughter! Oldest Daughter is drinking. Rest are drinking.
+Oldest Daughter and kids are running. The area looks different. Water is round, deep, clear. Are there predators inside? I walk. I look. I see no predators. No danger in water. You can drink Oldest Daughter! Oldest Daughter is drinking. Rest are drinking.
 
 There are deer. There are many deer.
 
@@ -1798,7 +1781,7 @@ I will drink. I see myself. Here I am. This water is cool. I will dig for clay.
 
 Oldest Daughter! Come here!
 
-We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it. Water is here. Deep water. Cool water. Clay is here. We need both. Plants are different now. Less minerals. Journey is harder now. Always hot. But we must come.
+We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it. Water is here. Deep water. Cool water. Clay is here. We need both. Plants are different now. Less minerals. Journey is harder now. Always hot. But we must come here.
 
 We must get here for clay. Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat trees. We need grass.
 
@@ -2572,7 +2555,7 @@ Now we do as our ancestors did and prepare for war. We discover who has fought b
 
 Earl Johnson hushes the crowd's excitement. He has received a letter: "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert!"
 
-The Prince's many victorious European battles give him great renown. A burst of activity follows. Each lord speaks louder than the last, vows grander than the last. The nobles give a great many commands and dictate many letters.
+The Prince's courage in fighting with Houses Vasa and Hohenzollern against Houses Habsburg and Wittelsbachgive throughout Europe give him great renown. A burst of activity follows. Each lord speaks louder than the last, vows grander than the last. The nobles give a great many commands and dictate many letters.
 
 Servants do the rest. Good. The system is working.
 
@@ -3000,7 +2983,7 @@ I failed him.
 
 I've heard of Lister's carbolic acid methods. They do not matter. I didn't find the bullet.
 
-#### Work
+#### Finding Work
 
 The wall is covered in pieces of paper. Bright reds, dark blues, deep blacks, characters tall as a hand. We can read, but some of the words are new to us. Some papers have colors—like a bee to a flower, we go to the brightest. My husband is shy, unsure. He didn't want to come here.
 
@@ -3044,17 +3027,35 @@ That night, my husband returns. He has a cut on the forearm. But he is smiling a
 
 "I looked at the machine. My hands were shaking. The farmer saw me—scared like a cat I was. But he did not laugh. I didn't know what to say. He said, 'We got it from Britain this year. Called a tractor. I'm learning it too. Come. Let's start.'"
 
-So we learned. I read the manual. The tractor is steel, runs on steam. It does the planting very fast. When it works. It worked a few hours today, then we fixed it a few hours. There are many water pipes. We seed much faster on the good days.
+I read the manual. The tractor is steel, runs on steam. It does the planting very fast. When it works. It worked a few hours today, then we fixed it a few hours. We seed much faster on the good days.
 
 I don't understand this new tractor machine. "I want to see it," I tell him as I put carbolic acid on his cut then wrap the clean cloth around it. He will work tomorrow and be safe.
 
-I learn the farmer knows more than machines. When the tractor was working, the workers laid irrigation pipes—pipes under pressure to water the whole field. The farmer asked where they should go. My husband said to put the channels high and let gravity do the rest. He put my husband on the irrigation pipe team!
+So I go. At the field's edge I watch the steel machine crawl down a row, dropping seed behind it faster than ten men with hoes. My husband walks beside it, one hand on a lever, grease to his elbow. He sees me and grins. "Three days' work," he calls. "Before noon."
 
-The farmer teaches us "crop rotation". He plants one crop here this year, another next, he says so the soil never tires. He keeps boxes of bees, feeds them through winter, so the blossoms set fruit consistently.
+That night the manual sits open between us. The print is English; the pictures are not. I trace the diagram of the feed gate with my finger. "Here. It jams because the seed is damp. Dry the seed first." Next morning he tries it. It does not jam.
 
-And so my husband would return each day. Hard work in body and mind, we pushed each other on with "Rich country, strong army". We grow our nation together.
+While he works, I learn some more English words.
 
-We continue for six weeks. Plant 100 acres. Help install some new water pipes for irrigation. Get paid. We say thank you. We are asked to return next year. We go back to the city. See the job board again.
+The second week, a new machine—a water pump. What is a water pump? The farmer needs pipes laid to carry water up the slope. While the men argue over the route, I see my husband kneel. He looks at the pump, uses wrenches and screwdrivers takes some components apart, looks at them, and then reassembles the pump easily.
+
+"You. Take the pipe team," the farmer says.
+
+Another manual. I know some English words. I explain the pump is a bellows for water. A chamber expands to pull fluid in, then compresses to push it out. It moves fast and pushes water through pipes.
+
+My husband understands the pump well. He walks the channels each morning the way the farmer walks his fields. He learns the pump, the pressure, the joints that leak and the joints that hold.
+
+Seeds feel water. Seeds absorb, seeds crack. Roots emerge, pushing into the fresh soil. There is clay here. Roots are strong and can push deeper. There is fertilizer. There is water.
+
+Stem extends upward in the soil. There is no light. As stem break the soil there is bright sunshine. Leaves unfurl. Light becomes glucose. Carbon pulls inward. Grass grows taller.
+
+The plant needs water. There is always enough water. Roots drink. Plants need minerals. There is always enough. Magnesium, iron, nitrogen flow upwards. Glucose flows downward. More roots extend.
+
+Acres keep growing.
+
+The farmer is excited. "Japanese spirit, Western knowledge," he says loudly. He knows the environment his plants need, and teaches us proudly: beans here this year, barley the next, so the soil never tires. He keeps boxes of bees through the winter, feeds them, and come spring the blossoms set fruit.
+
+We continue for eight weeks. Plant 100 acres. Help install some new water pipes for irrigation. Get paid. We say thank you. We are asked to return for harvest. We go back to the city. See the job board again.
 
 We were lucky—a good man taught us. Now I know which are the richest flowers.
 
@@ -3066,25 +3067,25 @@ A new carriage takes us to a new job.
 
 ---
 
-We stare at the job board again.
+We stare at the job board again. We see carts of barley, rice, and beans go by. Perhaps from our farm I think.
 
-There is a big ad. In Japanese and another language.
+There is a big ad. In Japanese and in English.
 
 America. A city across the ocean burned to the ground—San Francisco. In big letters "The city of the future. Rising from the ashes!" Wages so high we do not believe. We could stay and help build Japan. But now my husband wants to go.
 
 We cross the ocean to start again.
 
-We arrive. San Francisco did burn to the ground. It is ash like after a forest fire. Any building still standing is burnt out and black.
+We arrive with a little boy. San Francisco did burn to the ground. It is ash like after a forest fire. Any building still standing is burnt out and black.
 
-These Americans are already rebuilding it. Like the seedlings of the forest.
+These Americans are rebuilding already, like the seedlings of the forest.
 
 A new wall of paper, more job ads, the same colors. There is so much work.
 
-We find sleeping quarters and prepare meals with our countrymen. We are told "They don't like giving us the good jobs. But there's so much work here now, maybe they will soon."
+We find sleeping quarters. My boy plays with a wrench, hammer, and screwdriver as we prepare barley and beans with our countrymen. We are told "They don't like giving us the good jobs. But there's so much work here now, maybe they will soon."
 
-We take a few days to get settled. To understand the area. To meet people. Doors close in our face. Some faces sneer at us.
+We take a few days to get settled. To understand the area. To meet people. Doors close in our face. Some faces sneer when they see my little boy. I say "Good morning, nice weather. Have a good day," which always surprises them and makes us giggle.
 
-That night, we hear in the alley below, something moves. Its paws quick and careful, reaching inside a crate. I ask a new friend what it is.
+That night, as I read and my boy plays, we hear in the alley below, something moves. Its paws quick and careful, reaching inside a crate. I ask a new friend what it is.
 
 "A raccoon. Very crafty—it learns well and finds food anywhere in the city."
 
@@ -3092,32 +3093,34 @@ My husband and I hide food for it. And each night it finds a way to eat.
 
 We go to the job board. The others take the dangerous work they will likely get. I see the ad immediately *Pipefitters. Pressurized water fire suppression. Make San Francisco FIRE PROOF.*
 
-We find the recruiter. He looks at us, unsure. Asks if we have done such work.
+We go to the work tent. Full of pipes and water pumps. The foreman looks at us, asks if we have done such work.
 
-I tell him, "Yes. We can learn that. We know how to rise from the ashes."
+I tell him, "We can teach that."
+
+My husband picks up a wrench and screwdriver, walks over to a water pump, and the others watch.
 
 #### USA - More Chances
 
 Paul Baran
 Engineer, Drexel Institute of Technology
 
-1955. The Soviets detonate their first hydrogen bomb. Much of my family is still in Eastern Europe. I'm in the United States. Nuclear war must be prevented.
+1955. The Soviets detonate truly massive hydrogen bomb. Much of my family is still in Eastern Europe. I'm in the United States. Nuclear war must be prevented.
 
-Computers are new, powerful, and advancing. I should know, I worked at Eckert-Mauchly Computer Corporation on UNIVAC models. I'm getting my masters in engineering from UCLA. I have so much resources. I have so much responsibility. I can help prevent nuclear war.
+Computers are new, powerful, and advancing. I should know, I worked at Eckert-Mauchly Computer Corporation on UNIVAC models. I'm getting my masters in engineering from UCLA. I have so many resources. I have so much responsibility. I can help prevent nuclear war.
 
 Must get started.
 
-1959. I'm a researcher at RAND Corporation in Santa Monica. The Air Force sends us a list of problems. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications used high-frequency connections. Those are vulnerable to the radiation of nuclear attacks. Communication blackouts means itchy atomic trigger fingers. Resilient communication networks prevents nuclear war.
+1959. I'm a researcher at RAND Corporation in Santa Monica. The Air Force sends us a list of problems. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications used high-frequency connections. Those are vulnerable to the radiation of nuclear attacks. Communication blackouts mean itchy atomic trigger fingers. Resilient communication networks prevent nuclear war.
 
 Must keep going.
 
 1960. Fact! A human brain can recover lost functions by bypassing a dysfunctional area.
 
-Idea! A completely distributed communication network. No centralization so information can always find a way through. Like a fishnet—every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust a network as the theoretical limit. Redundancy is key.
+Idea! A completely distributed communication network. No centralization so information can always find a way through. Like a fishnet—every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust as the theoretical limit. Redundancy is possible. Redundancy is key.
 
-We cannot have dropped calls. We need to make data digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. Like sending a book in postcards. 
+Our phone system has physical connections. One problem in the line, a call drops. We need to make data digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. Like sending a book in postcards.
 
-If one message fails to deliver, we resend just the postcard. Block messages vastly increase redundancy.
+If message is lost, we can send just the page needed, not the entire book. Block messages vastly increase redundancy.
 
 Must keep going.
 
@@ -3131,7 +3134,7 @@ Must keep going.
 
 I try AT&T. They are a monopoly. They control the entire phone network. Just needs some modifications. I present the system. Switching, routing, block messages, redundancy protocols, error correction.
 
-Eyes roll. At me. At the distributed network diagrams. Analog engineer approaches me, takes chalk from my hand, and says "Son, this is how a telephone works." Then ninety-four separate speakers describe AT&T phone system. An executive says "Now do you see why block messages won't work?"
+Eyes roll. At me. At the distributed network diagrams. Analog engineer approaches me, takes chalk from my hand, and says "Son, this is how a telephone works." Then ninety-four separate speakers describe the AT&T phone system. An executive says "Now do you see why block messages won't work?"
 
 I look at him.
 
@@ -3139,13 +3142,13 @@ I look at him.
 
 Must keep going.
 
-1964. RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. US government's Advanced Research Projects Agency (ARPA) distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks "packets". It's a new name for a new idea. I like it. I re-write my labels.
+1964. RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. US government's Advanced Research Projects Agency (ARPA) distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks "packets". It's a new name for a new idea. I like it. I re-write my work to use packets.
 
 We must keep going.
 
-1967. Larry Roberts reads our work. He works at ARPA. He approves funding. Vint Cerf, Robert Kahn, other grad students are building the hardware and software. They are doing great work. The distributed communication network is called ARPAnet.
+1967. Larry Roberts reads our work. He works at ARPA. He approves funding. Vint Cerf, Robert Kahn, other grad students are building the hardware and software to send digital packets. They are doing great work. The distributed communication network is called ARPAnet.
 
-1969. Four locations are online. UCLA to Stanford. UC Santa Barbara to University of Utah.
+1969. Four locations are online. UCLA to Stanford Research Institute. UC Santa Barbara to University of Utah.
 
 1971. Eighteen nodes are connected. Ray Tomlinson invents email. People love it.
 
@@ -3170,7 +3173,7 @@ Director of the Institute of Cybernetics in Kiev, Soviet Union
 
 More efficient central planning will build socialism faster. Rapid growth generates massive amounts of data—production quotas, resource allocation, distribution networks. 
 
-Paper is slow. People are slow. Decisions take months. Inefficiencies compound. Planning bureaucracy will grow many times in next decades. Inefficiencies will compound.
+Paper is slow. People are slow. Decisions take months. Inefficiencies compound. Planning bureaucracy will grow many times in the next decades. Inefficiencies will compound more.
 
 Socialism is science. Science needs new technologies.
 
@@ -3182,7 +3185,7 @@ We must keep going.
 
 1962. I propose OGAS to Soviet leadership. The numbers are clear. Current planning takes too long. Information gets lost between ministries. A centralized network would eliminate these inefficiencies. Production would increase.
 
-Some officials are intrigued "Comrade Victor Glushkov, keep studying your cybernetics network". I begin detailed technical specifications. Network architecture. Data protocols. Processing centers in major cities. Terminals in every significant economic unit.
+Some officials are intrigued. "Comrade Victor Glushkov, keep studying your cybernetics network." I begin detailed technical specifications. Network architecture. Data protocols. Processing centers in major cities. Terminals in every significant economic unit.
 
 We are going.
 
@@ -3196,15 +3199,25 @@ We must keep going.
 
 We should be going.
 
-1965. Gosplan—the State Planning Committee—opposes OGAS. Too expensive. Current systems good enough.
+1965. Gosplan—the State Planning Committee. They can approve my system.
 
-I present again and again. I write more proposals. The current system is not optimal. I can't say there are shortages. But there are shortages. Inefficiencies are growing. OGAS would fix this.
+My team brings my proposal for review. A clerk slides a stack of forms across the desk. "Fill these out to request the computers. Three copies. One for Resources, one for Labor, one for us."
+
+My aides complete the forms. Return weeks later, "OGAS will make this paperwork faster." they say. 
+
+The forms are stamped, logged, shelved beside a thousand others.
+
+I look down the hall. Clerks at every desk. Stampers, filers, couriers, checkers. Rooms of them. Floors of them. Soon, these workers will go to the factories to build socialism faster.
+
+I present again and again. I write more proposals. I show how the current system is not optimal. I can't say there are shortages. But there are shortages. Everyone knows this. Inefficiencies are growing. OGAS would fix this.
+
+Finally, Gosplan reviews. OGAS is too expensive. Current systems good enough.
 
 Why aren't we going.
 
-1970. The 24th Communist Party Congress is coming. OGAS is up for funding. I write detailed proposal. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials don't understand computers, data, mathematics, or science. They only see a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their many positions and meetings.
+1971. The 24th Communist Party Congress is coming. OGAS is up for funding. I write a detailed proposal. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials don't understand computers, data, mathematics, or science. They only see a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their many positions and meetings.
 
-I dare not write this down. I will continue to write theory and equations instead.
+I dare not write this down. Instead I  continue to write and publish theory and equations.
 
 Someone else will return to this soon.
 
@@ -3272,11 +3285,11 @@ We ignite the rocket. It lights.
 
 I tell Houston, "Please be informed, there is a Santa Claus."
 
-We will be back. After our success here, NASA already has the gears in motion. I will be back and put footsteps on the moon. Well, not footsteps of course. There will never be human footprints on the moon, there will be bootprints. My steps will make them.
+We will be back. After our success here, NASA already has the gears in motion. I will be back and put footsteps on the moon. Well, not footsteps of course, bootprints.
 
 We are headed back home. My job is to take stellar measurements. We use them to confirm our location for the navigation computer.
 
-I use the onboard sextant to line up stars. The computer guides me to take measurements. This is fun, like the swash-buckling sailors of old navigating the oceans by the stars. I key the data into the computer.
+I use the onboard sextant to line up stars. The computer guides me to take measurements. This is fun, like the swashbuckling sailors of old navigating the oceans by the stars. I key the data into the computer.
 
 MEMORY ERASED
 
@@ -3339,8 +3352,10 @@ And grows.
 Three people fall back home.
 
 
+
+
 <!--
-- The point of the story is that mythology, philosophy, and science were needed. Each is useful based on the problem, the sophiscation of the tool being used to solve it, and its ability to reciprocate in the environment in which its needed.
+- The point of the story is that mythology, philosophy, and science were needed. Each is useful based on the problem, the sophistication of the tool being used to solve it, and its ability to reciprocate in the environment in which its needed.
 - "From now on we live in a world where man has walked on the Moon. It’s not a miracle; we just decided to go."
 -->
 
