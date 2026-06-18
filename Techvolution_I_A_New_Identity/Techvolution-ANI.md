@@ -1339,7 +1339,7 @@ How did we spread around the world, and how did we develop tools? We planted and
 
 Let's look at these stories so we can realize why techvolution is the scientific understanding of the human condition.
 
-## Chapter 12—Stories Vignettes 
+## Chapter 12—Vignettes 
 
 ### Opening
 
@@ -1347,27 +1347,25 @@ _The gods did not reveal, from the beginning, all things to us, but in the cours
 
 Xenophanes, Greek Philosopher 6th Century BC.
 
-Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
+Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. We are not exceptional, so it's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
 
-Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second-chances.
+Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances.
 
-Because the gameboard is completely impersonal, constructed by the laws of physics, chemistry, and geology. With every minute entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to assemble matter into new creatures, nests and fruit, and now even into tools. Each new assembly is a unique variation. Sometimes their combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. 
+The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. For every player entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to assemble matter into new creatures, nests and fruit, and now even into tools. Each new assembly is a unique variation. Sometimes their combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. 
 
-Natural selection finds the forms that best read the environment's patterns—when rain comes, sunlight returns—and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers all working together to harvest resources efficiently and keep building matter into life faster than entropy tears down.
+Natural selection finds the forms that best read the environment's patterns—when rain comes, sunlight returns—and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest resources efficiently enough to keep building matter into life faster than entropy tears everything down.
 
-This has worked for billions of years. It happening all around you right now in the natural world and technological one too.
+This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
 Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt to the gameboard; the others mislead us, and often take their believers down with them.
 
 How to tell which is which?
 
-Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the patterns of when fruit ripens or what smoke means survive to play again.
+Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the patterns—when fruit ripens, what smoke means—survive to play again.
 
-You may like narratives, statistics, and entertaining heroes. But entropy does not care. So life cannot care.
+This chapter is not a story to enjoy. You may like narratives, statistics, and entertaining heroes. But entropy does not care. So life cannot care. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt—to keep the good and fix the bad.
 
-Thus this chapter is not a story to enjoy. It is a mirror to your new identity. A person that can adapt to use the good things today to create a better society.
-
-In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in their lives and ask of every species you see and framework you meet: does it read the world clearly and earn its place?
+In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see and framework you meet and ask: does it read the world clearly and earn its place?
 
 Notice, the winners are not always the largest or the smallest, the weakest or most powerful. But always those who can keep contributing to their ecosystem. Flip the page and hold this eternal truth as you read each word.
 
@@ -1501,13 +1499,21 @@ Some red-eye insects are longer.
 
 Longer reach flowers. More can drink. Red-eyes see flowers.
 
-Brood hatches. More eggs crack.
+Brood hatches. Most eggs crack.
 
-Some red-eye insects grow bigger.
+Many red-eye insects find flowers. All places have flowers. All red-eye insects find food.
 
-Big-eye insects see clearer. Big-eye insects move faster. Big-eye insects eat us.
+Red-eye insects fall down. Bodies remain. No crunch.
 
-The brood splits. Our kind keeps to the flowers. The others chase us.
+Some red-eye insects find bodies. Eat dead bodies.
+
+These red-eye insects grow bigger. Bigger insects have big-eyes.
+
+Big-eye insects see clearer. Big-eye insects move faster. Big-eye insects need meat.
+
+The brood splits.
+
+Our red-eye kind keeps to the flowers. The big-eye kind chase us.
 
 We see only moving shadows.
 
@@ -1531,11 +1537,11 @@ Two broods hatch. More eggs crack.
 
 #### Dinosaurs
 
-Large predator walks. Ground shakes. Herd seen. Hide. Down wind. They cannot see. They cannot smell. Look
+Large predator walks. Ground shakes. Herd seen. Hide. Down wind. They cannot see. They cannot smell. Look.
 
 Where are weak. Where are kids. There!
 
-Predator runs. Herd runs. There is weak. There is kid. Predator turns. Kid still eating. Predator runs. 
+Predator runs. Herd runs. There is weak. There is kid. Predator turns. Kid still eating. Predator runs.
 
 Kid still eating. Herd is gone. Predator reaches. Crunch. No predators near. Feast.
 
@@ -1547,6 +1553,8 @@ All eggs hatch. Some are faster. Some are stronger.
 
 Predator kids go into forest. Predator kids must now hunt.
 
+Generations pass.
+
 Trees are tall. Long-neck grazers eat. Shrubs are short. Armored grazers eat.
 
 Bigger necks reach high leaves. Bigger armor protects. Bigger tree seeds spread far. Shorter shrubs' seeds spread wide.
@@ -1556,6 +1564,8 @@ Small eggs hatch. Predators chase. Leaves are few. Small eggs hatch. Predators c
 Only big eggs hatch.
 
 Forests grow tall. No sunlight at bottom. Tall trees fall. No small trees at bottom. Small seeds come. Forests become valleys. Grass grows. Grazers return. Flowers grow. Pollinators return.
+
+Generations pass.
 
 Young predators, grazers, big or tall, look in area, look for spots, look for food, make nest. Good spots near water. Good spots near trees. All spots taken.
 
@@ -1568,6 +1578,8 @@ Open land. No water. No trees. Make nest. Eggs in nest. Rain hard. Cannot leave.
 Eggs hatch.
 
 Seasons pass. Forests change. It gets colder. It gets warmer. Forests go up. Then go down. Seas move. All the time spots are taken. All the time many eggs hatch.
+
+Generations pass. Generations pass. Generations pass.
 
 Sky brightens. Brighter than sun.
 
@@ -1583,11 +1595,15 @@ Big grazers gone. Big predators starve.
 
 Big trees fall. No big eggs hatch. Dinosaurs fall. Fungus grows. Spores spread.
 
-Crocodiles in the water, birds in the sky, mice in the crevices, insects everywhere. 
+Seasons pass.
+
+Crocodiles in the water, birds in the sky, mice in the crevices, insects everywhere.
 
 More of their eggs hatch.
 
 Birds in the sky. Many birds. Many wings.
+
+Generations pass.
 
 Bird flies. Neighbor close. Pull away. Neighbor far. Pull close. Neighbor faster. Match speed. Neighbor slower. Match speed.
 
@@ -1599,55 +1615,63 @@ The flock rises. Flock sees many trees. Forests grow tall.
 
 Many bird eggs hatch.
 
-#### Chameleon - ?
+#### Ants Move
 
-Area is dark. Little light breaks open. Chameleon is cold. 
+Egg hatches. Larva grows. Body hardens. Legs move. Antennae touch. Scent sisters. Sisters moving. Move. Smell area. Scent dirt. Scent cold. Scent fresh air up. Move.
 
-Light is growing. Area has light. Dark makes it warm. Chameleon is dark. Chameleon moves toward light. The branch is thin. Chameleon moves. Same speed. Its feet grip, tail curls. Chameleon feels light.
+Grab cold soil. Move. Air stale. Move. Air fresh. Move. Air fresher. Move. Light bright. Air fresh. Ground flat. Scent follow sisters. Drop soil. Return. Grab soil. Move. Drop soil. Return. Follow sisters.
 
-Chameleon waits. One eye watches the trunk. One eye watches the sky.
+Chamber starts.
 
-Chameleon is warm. Area is dark green. Chameleon turns dark green.
+Scent. Help. Help. Help.
 
-Chameleon moves. Same speed. Through brown branches and green leaves. It looks up, looks down. No movement. Movement. Many flies. One lands high left. Move body, both eyes see fly. Distance looks good. Chameleon opens its mouth.
+Move. Grab soil. Move. Grab soil. Sister is struck. Many sisters arrive. Move soil. Sister free.
 
-Tongue moves slowly. Slowly unfurls. The tongue shoots. The fly lifts. The tongue returns empty.
+Return.
 
-Chameleon stays. No fly. Chameleon moves.
+Grab soil. Air stale. Move. Move. Drop soil. Move. Chamber established. Air fresh. No eggs here. Food goes here. Scent, find food.
 
-Another fly. Lower branch. Too far. Chameleon moves. Slow. Slow. Both eyes forward. Distance looks good. Tongue moves slowly. The fly cleans its legs. Tongue shoots.
+Move. Up hill. Down hill. Left right. Wood found. Move up. Move. Thin wood found. Move. Leaf found. Bite. Bite. Bite. Leaf falls. Grab leaf. Move. Move to chamber.
 
-The fly lifts.
+Return. Repeat. Return. Repeat. Dark.
 
-Tongue is empty. Tongue is empty again. Flies were closer once.
+Return. In chamber. Sleep.
 
-Big movement on tree. Chameleon stays. Stays. Chameleon in light. Chameleon is hot. Big movement on tree. Chameleon is very hot. 
+Cold. Dark. Air moist. Soil colder. Soil moist. Soil moist. Soil wet.
 
-Big movement moves. Chameleon turns soft green. Chameleon hungry. Chameleon stops. Chameleon waits.
+Liquid in chamber!
 
-More flies.
+Move eggs! Eggs in danger!
 
-Fly lands right. Chameleon moves. Closer. The fly stays. Both eyes forward. Wait. Tongue moves slowly. Wait. Tongue shoots.
+Grab soil. Drop soil. Grab soil. Drop soil. Liquid in chamber. Make wall.
 
-Tongue comes in. Tongue is empty.
+Wall raised. Wall falls.
 
-More flies.
+Grab eggs. Carry higher. Higher. Liquid surrounds. Grip soil. Grip. Heavy pushing. Grip. No grip. Water takes. Help. Help. Help. Sister gone.
 
-Big shadow from above. Less light. Chameleon turns red. Less light. Chameleon moves to tree.
+Liquid drains. Air dry. Soil dry.
 
-Night comes. Cold comes. Dark here.
+Chamber gone. Food gone. Eggs gone.
 
-Dawn. Chameleon is dark red. It warms. Area is green. It turns soft green. It moves.
+Move.
 
-Big shadow from below.
+Grab soil. Move. Drop soil. Follow sisters. Move.
 
-Big shadow from above.
+Chamber forms. Food goes here.
 
-Less flies.
+Move. Chamber forms. Move. Chamber forms. Move. Many chambers.
 
-Chameleon slower. Chameleon hungry. Chameleon waits.
+Scent on the wind. Food. Follow scent. Sister ahead. Sister behind. Line moves. Leaves on ground. Many leaves on ground. Bite. Cut. Bite. Cut. Big leaves. More sisters come. Lift together. Carry together. Food to chamber. Return.
 
-No flies.
+Return. Repeat. Return. Repeat. Dark.
+
+Return. Sleep.
+
+Cold. Dark. Air moist. Soil cold. Soil moist. Soil moist. Soil wet.
+
+Liquid in chamber!
+
+Move.
 
 #### Geese Family
 
@@ -1745,11 +1769,11 @@ Grass will be there. Clay will be there. Others will be there. The family walks 
 
 We keep walking.
 
-Bees are many. That is different. Flower scent is stronger. That is different. Path is muddy. That is different. Keep on path. Trees are thick. That is different. Path will take us there. We must go. 
+Bees are many. Flower scent is stronger. Path is muddy. This is different. Keep on path. Path will take us there.
 
 Air is so hot! says Male With Big Tusks.
 
-We can stop. Rub on trees. Fur falls off. This will help. Do like me. Fur falls off. This will help. Trees means no sun. That is good. Trees mean no wind. That is bad. We must go.
+We can stop. Rub on trees. Fur falls off. This will help. Do like me. This will help. Trees means no sun. That is good. Trees mean no wind. That is bad. We must go.
 
 We walk the path. The trees are many.
 
@@ -1759,7 +1783,7 @@ All look. All listen.
 
 I see no wolves. I see nothing, says Oldest Daughter.
 
-Wolves we see. We cannot see tigers. They are ghost. No huddle. It is hot. We must go. This path is good. We are close. We keep moving.
+Wolves we see. We cannot see tigers. They are ghost. No huddle. It is hot. We must go. This path is good. We keep moving.
 
 We keep moving. We keep moving. We are here!
 
@@ -1769,31 +1793,33 @@ Oldest Daughter and kids are running. The area looks different. Water is round, 
 
 There are deer. There are many deer.
 
-Many flowers come early. This is not right. Where is grass. Matriarch taught me grass comes with flowers. But grass is late. That is different. I will yell. Mammoths are here!
+Many flowers come early. Where is grass. Matriarch taught me grass comes with flowers. But grass is late. That is different. I will yell. Mammoths are here!
 
 Deer eating trees. Other animals eating trees and grass. What are other animals. We need more grass. Where is grass.
 
-Male With Big Tusks is drinking. Youngest Sister is done drinking. Youngest Sister watch!
+Male With Big Tusks is done drinking. Youngest Sister is done drinking. Youngest Sister watch!
 
-I watch Matriarch!
+Yes I watch Matriarch!
 
-I will drink. I see myself. Here I am. This water is cool. I will dig for clay. 
+I go to water. I see myself. Here I am. This water is cool. I will dig for clay. 
 
 Oldest Daughter! Come here!
 
-We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it. Water is here. Deep water. Cool water. Clay is here. We need both. Plants are different now. Less minerals. Journey is harder now. Always hot. But we must come here.
+We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. Good. Go deeper. Deeper. Now eat it. Tastes bad yes. Eat it. This clay is same. That is good.
 
-We must get here for clay. Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat trees. We need grass.
+Water is here. Clay is here. We need both. Plants are different now. Less minerals. We must come here for clay.
 
-Deer mean new trees. Deer mean new flowers. Deer mean different plants.
+Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat trees. We need grass.
 
 I see ghost! I see tiger! says Youngest Sister.
 
-Together! Together! Family come together. Kids in center! Tusks outside. We safe! Watch Oldest Daughter. Ghost roar. We stay. We always stay together. Watch kids. Watch Oldest Daughter. I see no tiger!
+Together! Together! Family come together. Kids in center! Tusks outside. We safe! Watch Oldest Daughter. We stay. We always stay together. Watch kids. Watch Oldest Daughter. I see no tiger!
 
-Male With Big Tusks forward!
+Male With Big Tusks to front!
 
 I see sticks. Long sticks. Not tree sticks. Sticks move. Sticks point at us. What is sticks? It holds sticks. Sticks are not ghost. Sticks are not wolf. We must roar. Roar loud! Sticks are closer. Sticks are close...sticks hit Oldest Daughter!
+
+Stay together! Do not run!
 
 Panic! Panic!
 
@@ -1925,7 +1951,7 @@ We see the Giving Tree. No enemy there. No one there. No one waiting. Giving Tre
 
 We see some fruit. Open them up. Ants. Rotten. There's no fruit. No baobabs. No deer feeding.
 
-The Giving Tree is dead! I hit it with my spear. I break the sacred branch. I break another. Then someone stops me.
+The Giving Tree is dead! I hit it with my spear. Again. Then someone stops me.
 
 All together we kneel to the tree. We pray to the gods for another.
 
@@ -3449,25 +3475,9 @@ And shut that bell up forever.
 
 
 
-#### Leftovers
 
-- farmer
-- organizing farm. much wild interspersed for bee etc. health.
-- noticing nature beats and rhythm, (unknowingly mimciking nature/animals)
-- has tribal loyalty/id (local team)
-- has faith
-- has ideology (vistors, converse about local projects, IR...)
-- works the farm
-- sees cow lightnight strike
-- calls in claim
-- last queue call
-- Germans on boats watching Julius bridge.
-- Socratic dialogue. Uncovering/filtering out what people already know with questions and contradictions, and questions some more.
-- Marcus to Commodus. gold to rust. genes mean so little.
-- a merchant watching the city, Westphalia/Mungster
-- i am this, i am that. music? one person, to a group, to a choir, to a symphony.... and etc. filling gaps and niches....
 
-#### Raccoon Coyote Crash
+### Raccoon Coyote Crash
 
 
 

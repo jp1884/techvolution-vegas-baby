@@ -3996,7 +3996,7 @@ Regardless, the Vikings and Polynesians abilities are still very remarkable toda
 
 ===
 
-#### Ants Build
+#### Ants Move
 
 Egg hatches. Larva grows. Body hardens. Legs move. Antennae touch. Scent sisters. Sisters moving. Move. Smell area. Scent dirt. Scent cold. Scent fresh air up. Move.
 
@@ -4006,7 +4006,7 @@ Chamber starts.
 
 Scent. Help. Help. Help.
 
-Move. Grab soil. Move. Grab soil. Sister is struck. Move soil. Sister free.
+Move. Grab soil. Move. Grab soil. Sister is struck. Many sisters arrive. Move soil. Sister free.
 
 Return.
 
@@ -4028,7 +4028,7 @@ Grab soil. Drop soil. Grab soil. Drop soil. Liquid in chamber. Make wall.
 
 Wall raised. Wall falls.
 
-Grab eggs. Carry higher. higher. Liquid surrounds. Grip soil. Grip. Heavy pushing. Grip. Help. Help. Help. Water takes.
+Grab eggs. Carry higher. Higher. Liquid surrounds. Grip soil. Grip. Heavy pushing. Grip. No grip. Water takes. Help. Help. Help. Sister gone.
 
 Liquid drains. Air dry. Soil dry.
 
@@ -4040,19 +4040,69 @@ Grab soil. Move. Drop soil. Follow sisters. Move.
 
 Chamber forms. Food goes here.
 
-Move. chamber forms. Move. Chamber forms. Move. Many chambers.
+Move. Chamber forms. Move. Chamber forms. Move. Many chambers.
 
-Scent on the wind. Food. Follow scent. Sister ahead. Sister behind. Line moves. Leaves on ground. Many leaves on ground. Bite. Cut. Bite. Cut. Big leavess. More sisters come. Lift together. Carry together. Food to chamber. Return.
+Scent on the wind. Food. Follow scent. Sister ahead. Sister behind. Line moves. Leaves on ground. Many leaves on ground. Bite. Cut. Bite. Cut. Big leaves. More sisters come. Lift together. Carry together. Food to chamber. Return.
 
 Return. Repeat. Return. Repeat. Dark.
 
 Return. Sleep.
 
-Cold. Dark. Air moist. Soil colder. Soil moist. Soil moist. Soil wet.
+Cold. Dark. Air moist. Soil cold. Soil moist. Soil moist. Soil wet.
 
 Liquid in chamber!
 
 Move.
+
+#### Chameleon - ?
+
+Area is dark. Little light breaks open. Chameleon is cold. 
+
+Light is growing. Area has light. Dark makes it warm. Chameleon is dark. Chameleon moves toward light. The branch is thin. Chameleon moves. Same speed. Its feet grip, tail curls. Chameleon feels light.
+
+Chameleon waits. One eye watches the trunk. One eye watches the sky.
+
+Chameleon is warm. Area is dark green. Chameleon turns dark green.
+
+Chameleon moves. Same speed. Through brown branches and green leaves. It looks up, looks down. No movement. Movement. Many flies. One lands high left. Move body, both eyes see fly. Distance looks good. Chameleon opens its mouth.
+
+Tongue moves slowly. Slowly unfurls. The tongue shoots. The fly lifts. The tongue returns empty.
+
+Chameleon stays. No fly. Chameleon moves.
+
+Another fly. Lower branch. Too far. Chameleon moves. Slow. Slow. Both eyes forward. Distance looks good. Tongue moves slowly. The fly cleans its legs. Tongue shoots.
+
+The fly lifts.
+
+Tongue is empty. Tongue is empty again. Flies were closer once.
+
+Big movement on tree. Chameleon stays. Stays. Chameleon in light. Chameleon is hot. Big movement on tree. Chameleon is very hot. 
+
+Big movement moves. Chameleon turns soft green. Chameleon hungry. Chameleon stops. Chameleon waits.
+
+More flies.
+
+Fly lands right. Chameleon moves. Closer. The fly stays. Both eyes forward. Wait. Tongue moves slowly. Wait. Tongue shoots.
+
+Tongue comes in. Tongue is empty.
+
+More flies.
+
+Big shadow from above. Less light. Chameleon turns red. Less light. Chameleon moves to tree.
+
+Night comes. Cold comes. Dark here.
+
+Dawn. Chameleon is dark red. It warms. Area is green. It turns soft green. It moves.
+
+Big shadow from below.
+
+Big shadow from above.
+
+Less flies.
+
+Chameleon slower. Chameleon hungry. Chameleon waits.
+
+No flies.
 
 #### Selection
 
@@ -4236,5 +4286,25 @@ One door closes.
 
 Three people take a chance.
 
+
+===
+
+#### Leftovers
+
+- farmer
+- organizing farm. much wild interspersed for bee etc. health.
+- noticing nature beats and rhythm, (unknowingly mimciking nature/animals)
+- has tribal loyalty/id (local team)
+- has faith
+- has ideology (vistors, converse about local projects, IR...)
+- works the farm
+- sees cow lightnight strike
+- calls in claim
+- last queue call
+- Germans on boats watching Julius bridge.
+- Socratic dialogue. Uncovering/filtering out what people already know with questions and contradictions, and questions some more.
+- Marcus to Commodus. gold to rust. genes mean so little.
+- a merchant watching the city, Westphalia/Mungster
+- i am this, i am that. music? one person, to a group, to a choir, to a symphony.... and etc. filling gaps and niches....
 
 ===
