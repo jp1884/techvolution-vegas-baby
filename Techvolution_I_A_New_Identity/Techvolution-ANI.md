@@ -1529,12 +1529,6 @@ More red-eye pollinators. More flowers. More big-eyed shadows follow.
 
 Two broods hatch. More eggs crack.
 
-
-
-
-<!-- - plague? return to normal? i don't think so. speciation is the point here.-->
-<!-- disease comes, broods don't hatch, some variants resist, lineage continues. No villains, no enemies. -->
-
 #### Dinosaurs
 
 Large predator walks. Ground shakes. Herd seen. Hide. Down wind. They cannot see. They cannot smell. Look.
@@ -1549,23 +1543,19 @@ Return to nest.
 
 Eggs in nest. Eggs are warm. Predator turns eggs. Smell is wrong. Predator listens. Insects near. Small furred creature is eating insects. Predator waits. Insects gone. Predator snorts. Furred creatures run to crevices.
 
-All eggs hatch. Some are faster. Some are stronger.
+All predator eggs hatch. Some are faster. Some are stronger.
 
 Predator kids go into forest. Predator kids must now hunt.
 
-Generations pass.
+Predator eggs hatch. Larger ones live.
 
 Trees are tall. Long-neck grazers eat. Shrubs are short. Armored grazers eat.
 
 Bigger necks reach high leaves. Bigger armor protects. Bigger tree seeds spread far. Shorter shrubs' seeds spread wide.
 
-Small eggs hatch. Predators chase. Leaves are few. Small eggs hatch. Predators catch. Leaves are none.
-
-Only big eggs hatch.
+Grazer eggs hatch. Bigger ones live. Stronger ones live.
 
 Forests grow tall. No sunlight at bottom. Tall trees fall. No small trees at bottom. Small seeds come. Forests become valleys. Grass grows. Grazers return. Flowers grow. Pollinators return.
-
-Generations pass.
 
 Young predators, grazers, big or tall, look in area, look for spots, look for food, make nest. Good spots near water. Good spots near trees. All spots taken.
 
@@ -1573,13 +1563,13 @@ Swimmers in water, flyers in air, walkers on land. Many eggs. Must make nest.
 
 Every plant has its eater. Every flower has its pollinator. Every seed has its spreader. Every eater has its hunter. Every death feeds the soil. Every life feeds another. Every spot is taken.
 
-Open land. No water. No trees. Make nest. Eggs in nest. Rain hard. Cannot leave. Rain cold. Cannot leave. Furred creatures close. Predator snaps. Stay near. Stay near. Eggs warm.
+Open land. No water. No trees. Make nest. Eggs in nest. Rain hard. Cannot leave. Rain cold. Cannot leave. Insects on eggs. Furred creatures eat insects. Leave furred creatures alone. Keep eggs warm.
 
-Eggs hatch.
+Grazer eggs hatch. Predator eggs hatch. Bigger ones live.
 
-Seasons pass. Forests change. It gets colder. It gets warmer. Forests go up. Then go down. Seas move. All the time spots are taken. All the time many eggs hatch.
+It gets colder. It gets warmer. Forests go up. Then go down. Seas move. All the time spots are taken.
 
-Generations pass. Generations pass. Generations pass.
+Grazer eggs hatch. Predator eggs hatch.  Many live.
 
 Sky brightens. Brighter than sun.
 
@@ -1595,7 +1585,7 @@ Big grazers gone. Big predators starve.
 
 Big trees fall. No big eggs hatch. Dinosaurs fall. Fungus grows. Spores spread.
 
-Seasons pass.
+Eggs hatch. Small ones live.
 
 Crocodiles in the water, birds in the sky, mice in the crevices, insects everywhere.
 
@@ -1603,7 +1593,7 @@ More of their eggs hatch.
 
 Birds in the sky. Many birds. Many wings.
 
-Generations pass.
+Eggs hatch. Flying ones live.
 
 Bird flies. Neighbor close. Pull away. Neighbor far. Pull close. Neighbor faster. Match speed. Neighbor slower. Match speed.
 
@@ -2895,7 +2885,9 @@ I leave the room. I look at him standing there looking at me. He was listening t
 
 I tear his lesson book up. Tear every page into pieces. Never again!
 
-Years pass. He does the fetching. He does the tidying. He does the cleaning. I look over to make sure the work gets done.
+He does the fetching. He does the tidying. He does the cleaning. I look over to make sure the work gets done.
+
+Years pass. The kitchen is stocked. The house is tidy and clean. I give orders. I read and write and go to parties. Everything is working.
 
 One day Frederick never comes back. I don't know how he managed to flee North. To read maps. To read schedules. He's tricky.
 
@@ -2907,19 +2899,23 @@ I hear Frederick is speaking in Britain! I've never been to Europe.
 
 The North is invading. Frederick told the world lies about our society. We must defend our rights.
 
-The war is on.
+The war is on. We will win. Obviously.
 
-The North builds rifles, cannons, ironclads, railroads, telegraph lines. Their workers make the designs, run the machines, send the orders down the wire. Farm boys and factory hands.
+The North builds rifles, cannons, ironclads, railroads, telegraph lines. Their workers make the designs, run the machines, send the orders down the wire. Farm boys become soldiers and factory hands.
 
-So can we. We have cotton, metals, wood, powder. We have the brains. We have the hands.
+We can fight better. We have God and justice on our side. We have cotton, metals, wood, powder. We have the brains. We have the hands.
 
 We print the manuals. Create loading drills. Make signal codes and telegraph keys. We hand them to our workers and our defenders.
 
-"To arms, boys."
+"To arms, boys"
 
 "Form up, men."
 
 "For hearth and home."
+
+"I can't read, ma'am."
+
+"I can't read, ma'am."
 
 "I can't read, ma'am."
 
@@ -3095,11 +3091,21 @@ A new carriage takes us to a new job.
 
 We stare at the job board again. We see carts of barley, rice, and beans go by. Perhaps from our farm I think.
 
-There is a big ad. In Japanese and in English.
+A recruiter approaches.
+
+"You. Come work. Good pay. You come."
+
+I ask "Do you have tractors? Water pumps?"
+
+He gets angry. "You don't want that. That is useless stuff. You don't want to work! You come work. You come work." He's already moving on from us, hoping to find someone to work his fields for cheap.
+
+I see a big ad. In Japanese and in English.
 
 America. A city across the ocean burned to the ground—San Francisco. In big letters "The city of the future. Rising from the ashes!" Wages so high we do not believe. We could stay and help build Japan. But now my husband wants to go.
 
-We cross the ocean to start again.
+We prepare our important belongings. Clothes. Soap. Antiseptic liquid. Books. English dictionary. Screwdrivers, wrenches, hammers. And toys for our baby on the way.
+
+Then we cross an ocean to start again. Our ship runs without wind. No oars. No sails. Coal burns, heats water into steam, propellers turn. The same steam. The same pumps. Now crossing an ocean.
 
 We arrive with a little boy. San Francisco did burn to the ground. It is ash like after a forest fire. Any building still standing is burnt out and black.
 
@@ -3251,7 +3257,7 @@ Socialism is science.
 
 We should be going.
 
-#### Apollo 8
+#### To the Moon
 
 "3, 2, 1. Lift-off."
 
@@ -3377,7 +3383,45 @@ And grows.
 
 Three people fall back home.
 
+---
 
+**March 1, 1973**
+
+I enter the room.  Christopher Kraft Jr. The Director of Johnson Space Center.
+
+Chris is there behind a desk, as always writing a note or equation.
+
+"Why are you coming to see me, Jim? Say it ain't so, Jim."
+
+I smile. I'm holding the letter. He sees it. It's too small to be anything but a resignation letter.
+
+Of course I must explain a little. Always blunt, Chris beats me to it.
+
+"NASA is still moving. You've got years in you, Jim."
+
+"I've had my run, Chris. Pilot, test pilot, astronaut. Close to 8,000 hours in the air. 715 of them in space. Time to let someone else move the flight controls."
+
+"You never made it to the Moon, Jim. Never set your footprints there for all of time. Maybe there will be another chance."
+
+"That bothers me a little. But my footprints were never going to be on the Moon anyway."
+
+"What do you mean?"
+
+"There will only ever be bootprints up there. And it's a long history to make them. From the welder to Armstrong, to the person who first started a fire, to everyone since who passed on their bit of knowledge. This technological giving tree reached into the heavens and made a bootprint there. It's not a miracle we got there. We just decided to go. And now, with transistors, ARPAnet, steel alloys, we've planted the seeds of the future. I'm so happy with my work, what we achieved, and what comes next. But entropy always reigns. Everything has a lifecycle. Athletes, wooden ships, campfires, stars, certainly batteries on fragile lifeboats, ideologies, and of course astronauts. Better to get ahead of it."
+
+"What are you going to do?"
+
+"Friends, family, BBQ, and exercise. I joined Bay-Houston Towing Company. Harbor boat towing and peat mining."
+
+He drops his pencil. Extends his hand.
+
+"Sounds boring."
+
+"I hope so."
+
+"Onto the next chapter. Thanks for your work. What are you going to do next?"
+
+"Learn."
 
 
 <!--
@@ -3395,7 +3439,7 @@ An insurance broker looking for an update on a rental car status. I can help you
 
 **Thank you for calling claims, my name is Peter, how can I help you?**
 
-You're calling to discuss a property claim. You are unhappy and want to speak to a manager. Escalation. I'm going to the property department soon. It going to be so much better.
+You're calling to discuss a property claim. You are unhappy and want to speak to a manager. Escalation. I'm going to the property department soon. I can't wait to learn and so something different.
 
 **BEEP.**
 
@@ -3405,11 +3449,11 @@ Other repair company sharing crash details and confirming who is at fault.
 
 **BEEP.**
 
-Repair already paid for. Repairs never completed. Claim is over a year old. The claim window, per government regulation, expires after one year. Insured wants the work done now.
+We already paid for the vehicle repairs. But the repairs never completed. Claim is over a year old. The claim window, per government regulation, expires after one year. Insured wants the work done now. Now what?
 
 **Thank you for calling claims.**
 
-Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. No good reason why the claim wasn't processed earlier.
+Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. No good reason why the claim wasn't processed earlier. Now what? A long and angry call I bet.
 
 **BEEP.**
 
@@ -3419,7 +3463,7 @@ Will this be my last queue call?
 
 Young lady reports a car crash. She was downtown having fun in the big city. She got into a sideswipe accident.
 
-Oh no. There'll be a dispute over who changed lanes, and I'll have to hear how the government's 50/50 rule is an injustice.
+Oh no. These are the worst. There'll be a dispute over who changed lanes, and I'll have to hear how the government's 50/50 rule is an injustice.
 
 Wait. What?
 
@@ -3447,6 +3491,8 @@ One more.
 
 "Hello, I'd like to report a claim. One of my cows slipped on ice and hurt herself."
 
+---
+
 That was late on Friday afternoon. It was the last call for the week. And my last queue call ever.
 
 The bell would keep ringing. Other adjusters would still be on the line, still answering, still trying to keep up. Entropy always increases. Society would always need repairs, from car crashes, fires, hail storms, and other "acts of God" as we'd say like the hunter-gatherers of old.
@@ -3460,20 +3506,6 @@ I grabbed my diary. I grabbed a pencil. I wrote another note. Another entry. A n
 Then a program to heal society a little faster, hold back entropy, and happily study acts of God—when, where, and why they happen.
 
 And shut that bell up forever.
-
-
-- when a tree makes an edible but, that's a pencil.
-- when the squirrel plants a tree, that's a pencil.
-- and so on
-- so, what pencil have you made? are you getting pencils from anyone?
-- words are communication, which are signals often within species, not pencils
-- you are a technical animal inside an ecosystem. the words you are hearing are.... 
-- we suffer today, because we are experience evolution. we are experiencing the failure of being mammoths.
-- we refuse to look at, know, and assess the pain of the frontline, for Charles II reasons...
-- and yet, the frontline is where entropy either increases or decreases with the creation of new forms of life
-- which we will do faster and better, once we have a self-realization of our technological identity.
-
-
 
 
 
@@ -3492,7 +3524,7 @@ And shut that bell up forever.
 - By what right does any lifeform get not to define itself by its environment? Tigers are orange because... what is our environment, and how do we combat entropy inside and using it? Car crash scenario to the reader.
 
 - you are the heritage of the tools and beliefs you pick up.
-- genes mean little, commidus.
+- genes mean little, commodus.
 - identities come and go, but the pencil/Simmel... stays.
 - we're still on the old side of the river. mammoths on canoes.
 - sixth mass extinction.
@@ -3527,25 +3559,100 @@ Dr. David Reich, geneticist.
 May 10, 2026
 https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
-### Soc
+### Part
 
-This is what I think Socrates was getting at.
+The world is falling apart.
 
-A tiger could be the biggest vegan ever. We know its biology requires meat, but don't know its thoughts, philosophy, or prayers if it wants to hunt and eat deer all the time. If this seems ridicules, there are vegans who eat meat, climate change activists who take planes, etc. Because we don't look at the reality of our technological identity and ecosystem.
+I don't mean that metaphorically. I mean it factually. That is what the rise in entropy is. Mountains becoming boulders. Boulders becoming sand. Cars breaking done. Buildings catching fire. Lifeforms have different ways of seeing things fall apart, insinct, mythologies, philosophies, science. But, every animal has the same strategy. Build faster. We only have different toolsets in which to assemble matter into something useful.
+
+You have a host of identities to choose from, ideological, cultural, genetic, ethnic. Natural selection does not see those all that much today. A cold draft doesn't warm up because it hears Latin words instead of Dwarvish. Whatever differences our past gave us, skin color, eye color, nose shapes, are basically tailbones. Relics that indicate out past but are basically meaningless adaptations in a technological ecosystem. That's reason why there's no evidence of natural selection in our genetics is 2,000 is when technology came. 
+
+The reason even academics don't see this is the simple insight that we are technological beings.
+
+We know it of course. Most people take a house electrical heater over animal skins and campfire. Sunblock over melanin. Claude Code over a good memory. Not because we like them, their founders, brands, or anything else. Because we have good reason natural selection would too. We just don't have the framework in which to express what we already know.
+
+That being Techvolution. The acceptance that natural selection only knows what tools you assemble to resist entropy and assemble new things, be these new things biological or technological.
+
+By naming "technological giving tree" in the last vignette, I want to hit you with the fact, that we are at the very early stages of our technomass Earth. We are Kai, our biological equal with a mindset unknowing of the possibilities of agriculture and civilization. If we use old identities we see only the past, we'll think we have wondrous technology and the luxury to protest or inherit our way to the future.
+
+Protesting and inheriting cannot building anything. It was a dead end for mammoths, Kai, and all our ancestors, and is for us too.
+
+Because time goes on regardless. The world calls apart on Mars, Venus, and Earth too. Our technological giving tree is dying. We fight more each year in the world, in Congress, at dinner tables and workplaces because there's less fruit each year. 
+
+The buildings, schools, power stations, roads, our ancestors planted are dying. I don't mean in a metaphorical way. I mean in aging happens, entropy increases, things fall apart. Entropy is still tearing down the society our ancestors built. Bridges, homes, roofs, streets, and of course cars. I've had claims for cars, buildings collapses, floods, forest fires, people need insurance because no one plans for this to happen. And no person calling me was hoping I protest with them or send them money. They just wanted their stuff back. They wanted help to effectively heal their technology cleanly with no problems, like using antiseptic lotion on a biological cut.
+
+Today, we use debt to fix our society's aging. But as Charles (and any number of other people) will attest, that tactic only works for a while. Eventually we need to create a new mixture of genotype, phenotype, and especially tools.
+
+If you're wondering why genotype is included, it's because anyone can lear. When someone doesn't adapt, natural selection will try another lineage. Genetics aren't the survival advantage but they are still the vessel phenotypes (education, habits, cultures) needed to move, work, and think up new tools.
+
+After reading the vignettes, hopefully you sense this moment of life's history. 
+
+I'm calling you out on, putting you on notice, that you know the Game of Life is our job to win. Earth is called a Lifeboat because it's the only place where the battle is happening. Who the heck is anyone to disregard it and expect good things via protests, inheritance, watching infotainment. I'm not being optimistic saying "humanity should learn to plant seeds of technology". I'm being obvious. You will or another grouping of genotype, phenotype, and tools will.
+
+None of this means abadoning your friends, history, clubs, interests or groups. I personally do cultural dancing, read history, cheer for my country to win sporting games, and love it. Natural selection doesn't see this all that much. It only sees the stripes on a tigers back for the most part.
+
+You already have a technological identity. A new identity only that means accepting to yourself and others the tools you use to feed, house, warm, transport, communicate, fuel your daily activities. Like everything these tools have a lifespan. 
+
+Thus, human jobs, professions, identities, don't always coincide. We expect this of today's atheletes, pilots, astronauts. But not of our professors, teachers, executives, managers and others.
+
+Its a choice once we realize we have it. Something that any number of human belief systems tell us to embrace, humility being a big one.
+
+This new identity clarifies so much of today's world.
+
+Why climate change can't be recognized. Why rising government debt is ignored. Why youth birth rates and hope are dropping. A tiger could be the biggest vegan ever. We know its biology requires meat, but don't know its thoughts, philosophy, or prayers if it wants to hunt and eat deer all the time. If this seems ridicules, there are vegans who eat meat, climate change activists who take planes, debt reduction adovates who get tax-credits.
 
 We do not classify a single organism by its language, culture, or thoughts. Yet with us, it's open season on the never ending list of identities.
 
-Yet, here's a question. Does cold respond to English words desiring warmth differently than it does Chinese words?
+Once we accept the reality of our technological identity, we realize who we are. We have the tools of the Internet Age, with the beliefs, goals, and identities of the mass-production obssessed Industrial Age. No different than Charles trying to keep the past alive.
 
-No. Cold is a physical state—the absence of thermal energy, governed by thermodynamics. It has no mechanism by which it could detect, process, or respond to human language in any form. English words and Chinese words are equally irrelevant to it.
+I picked him as the stubborn example for a very specific reason. There's no evidence he was a bad guy. He never tortured anyone or anything like that. He took the message of Divine Kings seriously, and there was little reason for him to disregard it, because he liek most people only used his belief system to judge himself.
 
-There is no transmission from the entropy increasing world, to teh entropy decreasing world (life), but the material contact between the two.
+And we're doing the same thing. Todays ideologies are the religious reborn. Very effective in leading leaders and society when first conceived. Bad at seeing when it's time to move on.
 
-This is a clean illustration Techvolution's core points: the laws of physics, chemistry, and geology don't negotiate with human frameworks. They operate the same way regardless of what language, ideology, culture, or belief system a person holds. It's up to us to hold beliefs that harvest or build the material need to order more things, and thereby keep life prosperous. A poorly insulated house loses heat at the same rate whether its owner is a progressive or a conservative, speaks Mandarin or English.
+I don't say this in hindsight of today.
 
-That indifference is precisely why the book argues that aligning our frameworks with natural mechanisms matters — nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe.
+I basically wrote this book while in university too many years ago. I used it to predict the housing crisis of 2009. That Britain would leave the EU. Who would win the 2016 US Presidential Election. Migration and the reactions. Even stock picks have been above typical returns.
 
-- the dreams of avarice. that we can find someone else who will carry the burden of our entropy. that someone else will expend the energy required, learn the tools, and all that, to reconstruct while i still get to live and reproduce.
+All because I saw technology as an ecosystem and applied basic biological understanding to its seeding, development, and growth on the game board. The Industrial Age was about mass-production of a barren technological landscape. Seeds after seeds taking root. The Internet Age is the speciation. The increasingly customized production of products to the unique requirements of a localized niche.
+
+To repeat it again, technology grows regardless of the beliefs you have for the same reason the stars don't make it rain.
+
+Because natural selection chooses who continues playing the game. Belief systems can make us use artificial selection to resist, or like in agriculture, medicine, physics, to know what patterns the game board has and thus which biological and technological creations will work best. Many people today are trying to find, insist, and force, someone else to use the tools they rely on. So many people are Charles looking for someone to call him king and send him money. If a tree could do it, perhaps they would. But instead trees must make their creations helpful, with sheltering logs, branche for nests, nutritious nuts, to get squirels and others to include them in their ecosystem. Each of these creations are a pencil. Quite literally for us, but figuratively for others.
+
+Ecosystems thrive on pencil creation and sharing. Not contributing to one's ecosystem today, in the present, based on needs right now never ends well. If you want to understand someone's aritifical identity, as them what pencils they make and provide. Words are not pencils, they can't be as already said, because words don't interact with entropy.
+
+Words are our other members of your species to understand. Our human words, as Charles noted, as sometimes to keep people in their roles to avoid realizing time has moved on. We suffer today, because we are experiencing evolution. We are experiencing the failure of being mammoths as natural selection does its thing.
+
+A new identity will make the next steps obvious. Pre-emp natural selection. Make new adaptions. Respond to the ones that fix things faster. Move. Build. Repeat. In other words, make the bell shut up.
+
+This is what happened when I tried.
+
+
+
+- Nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe.
+
+- This is the dreams of avarice. That we can make someone carry the burden of our entropy. That someone else will expend the energy required, learn the tools, and all that, to reconstruct while we get to eat, warm, drink, live, and reproduce.
+
+
+- when a tree makes an edible but, that's a pencil.
+- when the squirrel plants a tree, that's a pencil.
+- and so on
+- so, what pencil have you made? are you getting pencils from anyone?
+- words are communication, which are signals often within species, not pencils
+- you are a technical animal inside an ecosystem. the words you are hearing are.... 
+- we suffer today, because we are experience evolution. we are experiencing the failure of being mammoths.
+- we refuse to look at, know, and assess the pain of the frontline, for Charles II reasons...
+- and yet, the frontline is where entropy either increases or decreases with the creation of new forms of life
+- which we will do faster and better, once we have a self-realization of our technological identity.
+
+
+
+
+
+
+
+
+
 
 ### Chapter 13
 
@@ -3649,7 +3756,7 @@ Evolution cannot speak our languages anymore than it could understand Mammoths p
 
 Apollo 8 is such a good example of this fact.
 
-It was named after a Greek pagan god, while being the first to travel to the moon, where its crew read from a holy book, while realizing Earth's supreme fraility. Jim Lovell really did erase their navigation data and it was his personal knowledge of the stars that saved the day. He would soon use these skills again in Apollo 13, the spacecraft that exploded and had to limb its way back home.
+It was named after a Greek pagan god, while being the first to travel to the moon, where its crew read from a holy book, while realizing Earth's supreme fraility. Jim Lovell really did erase their navigation data and it was his personal knowledge of the stars that saved the day. He would soon use these skills again in Apollo 13, the spacecraft that exploded and had to limp its way back home.
 
 The point is there is no superiority to our stories. Like with anything in nature, the best is determined by what the environment is and what the game requires we do.
 
@@ -3680,6 +3787,8 @@ King Charles
 
 
 ### Socratic Pencil
+
+This is what I think Socrates was getting at.
 
 - why socrates never wrote anything down. 
 - to test the longevity and truth, and nature, of any human belief system, just judge, how many pencils does it create and distribute.

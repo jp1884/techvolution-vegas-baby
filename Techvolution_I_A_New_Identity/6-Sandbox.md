@@ -4308,3 +4308,56 @@ Three people take a chance.
 - i am this, i am that. music? one person, to a group, to a choir, to a symphony.... and etc. filling gaps and niches....
 
 ===
+
+A tiger could be the biggest vegan ever. We know its biology requires meat, but don't know its thoughts, philosophy, or prayers if it wants to hunt and eat deer all the time. If this seems ridicules, there are vegans who eat meat, climate change activists who take planes, etc. Because we accept the reality of our technological identity.
+
+We do not classify a single organism by its language, culture, or thoughts. Yet with us, it's open season on the never ending list of identities.
+
+Yet, here's a question. Does cold respond to English words desiring warmth differently than it does Chinese words?
+
+No. Cold is a physical state—the absence of thermal energy, governed by thermodynamics. It has no mechanism by which it could detect, process, or respond to any human language. English, Chinese, any words are equally irrelevant to it.
+
+There is no transmission from the entropy increasing world, to the entropy decreasing world (life), but the material contact between the two.
+
+This is a clean illustration Techvolution's core points: the laws of physics, chemistry, and geology don't negotiate with human frameworks. They operate the same way regardless of what language, ideology, culture, or belief system a person holds. It's up to us to hold beliefs that harvest or build the material need to order more things, and thereby keep life prosperous. A poorly insulated house loses heat at the same rate whether its owner is a progressive or a conservative, speaks Mandarin or English.
+
+That indifference is precisely why the book argues that aligning our frameworks with natural mechanisms matters 
+
+--
+
+
+
+
+
+
+
+
+You have a host of identities to choose from, ideological, cultural, genetic, ethnic. Natural selection does not see those first. It knows what tools you assemble to resist entropy and assemble new things, be they biological and technological.
+
+By naming "technological giving tree" outright, I want to hit you with the fact, that we are at the very early stages of our technomass Earth. We are Kai. If we use old identities we see only the past, and think we have wondrous technology and the luxury to protest for improvements or depend on inheritance.
+
+Yet, year after year time goes on regardless. Entropy is tearing down the wealth our ancestors built. Bridges, homes, roofs, streets, and of course cars. We use debt to fix them, but as Charles (and any number of other people) will attest, that tactic only works for a while. 
+
+When realize time never stops, we realize we have seed and need to start planting. After reading the vignettes, you have a sense you're in this moment of life's history. 
+
+I'm calling you out on, putting you on notice, that you know the Game of Life is our job to win. Earth is called a Lifeboat because it's the only place where the battle is happening. Who the heck are you to disregard it and expect good things. I'm not being optimistic saying "humanity should learn to plant seeds of technology". I'm being obvious. You will or another grouping of genotype, phenotype, and tools will.
+
+Once you liberate yourself with a new identity, that means the tools you use to feed, house, warm, transport, communicate, fuel your daily activities, you will see that human identities don't always coincide with our jobs or place in history. Why could a daring astronaut walk away from another Moon landing, and so many others keep trying to ignore to no one's benefit. Its a choice once we realize we have it. Something that any number of human belief systems tell us to embrace, humility being a big one.
+
+This new identity clarifies so much of today's world.
+
+Why climate change can't be recognized. Why rising government debt is ignored. Why youth birth rates and hope are dropping. We have the tools of the Internet Age, with the beliefs, goals, and identities of the Industrial Age. No different than Charles trying to keep the past alive.
+
+I picked him as the stubborn example for a very specific reason. There's no evidence he was a bad guy. He never tortured anyone or anything like that. He took the message of Divine Kings seriously, and there was little reason for him to disregard it, because he only used his belief system to judge himself.
+
+And we're doing the same thing. Todays ideologies are the religious reborn. Very effective in leading leaders and society when first conceived. Bad at seeing when it's time to move on.
+
+I don't say this in hindsight of today.
+
+I basically wrote this book while in university too many years ago. I used it to predict the housing crisis of 2009. That Britain would leave the EU. Who would win the 2016 US Presidential Election. Migration and the reactions. Even stock picks have been above typical returns.
+
+All because I saw technology as an ecosystem and applied basic biological understanding to its seeding, development, and growth on the game board. To repeat over again, all this happens regardless of the beliefs you have.
+
+Because natural selection chooses who continues playing the game. Belief systems can make us use artificial selection to resist, or like in agriculture, medicine, physics, to know what patterns the game board has and thus which biological and technological creations will work best. 
+
+===
