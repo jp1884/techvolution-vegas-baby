@@ -4361,3 +4361,81 @@ All because I saw technology as an ecosystem and applied basic biological unders
 Because natural selection chooses who continues playing the game. Belief systems can make us use artificial selection to resist, or like in agriculture, medicine, physics, to know what patterns the game board has and thus which biological and technological creations will work best. 
 
 ===
+
+### Part
+
+The world is falling apart.
+
+I don't mean that metaphorically. I mean it factually. That is what the rise in entropy is. Mountains becoming boulders. Boulders becoming sand. Cars running into buildings. Buildings catching fire. Lifeforms have different ways of seeing things fall apart; insinct, mythology, philosophy, science. But, every animal has the same job. Build. We only have different toolsets in which to assemble matter into something useful on turn in the Game of Life.
+
+Natural selection opts for whoever builds faster and contributes inside an ecosystem.
+
+You have a host of identities to choose from, ideological, cultural, genetic, ethnic. Natural selection does not see those all that much today. A cold winter wind doesn't warm up because it hears Dwarvish words instead of Greek or Japanese. Whatever differences our past gave us, skin color, eye color, nose shapes, each is now basically tailbones. We used to need them. Now are relics that are basically meaningless adaptations in a technological ecosystem. That's reason why there's no evidence of natural selection in our genetics for 2,000, that is when technology was born and started to spread across the world.
+
+The reason we, even academics, don't see this is the simple insight that we are technological beings. Lifeforms who need pencils but not self-aware enough to stop withholding them from others inside our own ecosystems.
+
+We know we need technology of course. Most people take a house electrical heater over animal skins and campfire. Sunblock over melanin. Enclyclopedias over a good memory. Not because we like them, their founders, brands, or anything else. Because each gets the job done faster. We need technology, but just don't have the framework in which to express what we already know.
+
+We know how to prevent infections. Fire proof buildings. Navigate the seas. Map the stars. Land on the Moon. There's no reason to believe we can't explain economics, politics, and human identity with such clarity.
+
+Techvolution is that framework. The acceptance that natural selection only knows what tools you assemble to resist entropy and assemble new things.
+
+That's why the vignettes needed to be from the perspective of each animal (as close as I could make them). Plants, insects, reptiles, birds have no sense of stories or statistics. There's no reason we can't similarly be defined by our tools.
+
+By naming "technological giving tree" in the last vignette, I want to hit you with the fact, that we are at the very early stages of our technomass filled Earth. We are Kai, the hunter-gatherer who went looking for a tree he could have planted himself. Kai didn't know about the possibilities of agriculture and civilization. He's our biological equal with a mindset similarly out of date. Hopefully this book as made protesting or depnding on inheritance as not the best ways to win the game.
+
+Because time goes on regardless of any creatures mindset and even toolset. The world falls apart on Mars, Venus, and Earth too. Our technological giving tree was made turning the Industrial Age. A period of massive growth in buildings, roads, power stations, and more.
+
+The tree is dying.
+
+The buildings, schools, power stations, roads, our ancestors planted are dying. I don't mean in a metaphorical way. I mean time goes on, things fall apart. Entropy is tearing down the society our ancestors built. I've had claims for cars, buildings collapses, floods, forest fires. They wanted help to heal their technology, like using antiseptic lotion on a biological cut.
+
+Today, we use debt to fix our society's aging. But as Charles (and any number of other people) will attest, that tactic only works for a while. Eventually we need to create a new mixture of genotype, phenotype, and especially tools.
+
+We need a new way of life.
+
+If you're wondering why genotype is still important, it's because while genetics aren't the survival advantage for humans, they are still the vessel phenotypes (education, habits, cultures) need to move, work, and think up new tools.
+
+After reading the vignettes, hopefully you sense of our moment in life's history. 
+
+I'm calling you out on, putting you on notice, that you know the Game of Life is our job to win. Earth is called a Lifeboat because it's the only place where the battle is happening. I'm not being optimistic saying "humanity should learn to plant seeds of technology and learn to harvest the fruits of a technological ecosystem with all the abilities of modern science". 
+
+I'm being obvious. You will, or another grouping of genotype, phenotype, and tools will do it.
+
+None of this means abadoning your friends, history, clubs, interests or groups. I personally do cultural dancing, read much history, cheer for my country to win sporting games, and love it. But I know natural selection doesn't see this culture much. It only sees the stripes on a tigers back, and how well it's keeping the grazers in check.
+
+You already have a technological identity. Adopting a new identity only means accepting to yourself and others the tools you use to feed, house, warm, transport, communicate, fuel your daily activities. Accepting these tools as your primary identit means accepting that like everything these tools have a lifespan.
+
+Thus, human jobs, professions, identities, should change. We expect this of today's atheletes, pilots, astronauts. But not of other jobs like professors, teachers, executives, managers, reporters, and many others.
+
+So many people rejecting our technological identity clarifies so much of today's world.
+
+Why climate change can't be recognized. Why rising government debt is ignored. Why youth birth rates and hope are dropping. Accepting problems like this is accepting we have to go back to the drawing board. Instead, we come up with artificial reasons to avoid it so commonly heard on social media inside echo chambers of self-defeating identity.
+
+Think of this. Could a tiger be a vegan? We know its biology requires meat, but don't know its thoughts, philosophy, or prayers. Perhaps tigher don't want to eat deer. If this seems ridicules, there are vegans who eat meat, climate change activists who take planes, debt reduction adovates who take tax-credits.
+
+We do not classify a single organism by its language, culture, or thoughts. Yet with ourselves, we can pick an economic or political identity like picking sports teams.
+
+Once we accept the reality of our technological identity, we realize who we are. We exist today, meaning we need someone or something to provide ~2,000 calories to feed our biology. 5 kWh to power our homes. 1 kg to fuel our furnaces. We exist today, so we need to organize matter today to exist tomorrow.
+
+Our true identies is that person. We have the tools of the Internet Age, with the beliefs, goals, and identities of the mass-production obessessed Industrial Age. No different than Charles trying to keep the past Medieval Age alive, when "strongman kings" were needed as infrastracture, social order, and foreign invasions were always so close.
+
+I picked Charles as the stubborn example for a very specific reason. There's no evidence he was a bad guy. He never tortured anyone or anything like that. He did have a stutter which I'm pretty sure was a big reason he didn't speak with his nobles much and especially why compromise with Parliament was especially hard. He likely interpreted his stuttering (similar to anxiety attacks if you remember) as, if not messages from God, at least indication he should not be speaking to his servants. 
+
+I disgress. I can't prove that, and historians of the era might nott agree. Either way, I don't blame him for being stubborn. His beliefs cost him his life. He's a good cautionary tale. He simply took the message of Divine Kings seriously, and there was little reason for him to disregard it, because used his belief system to judge himself.
+
+Natural selection does not speak your language. Belief systems can use artificial selection to resist change (for a short while), or like in agriculture, medicine, physics, to know what patterns the game board has and thus which biological and technological creations will work best. But your words need creations to back them up.
+
+We don't know how today. Nobody does. No one's ever made a functioning ecosystem with Internet Age tools. Julius Caesar did build a bridge over the Rhine to scare away the maurding Germans. I love that story because it was the descendats of those barbarian Germans (Angles for England, Franks for France) that centuries later travelled the world accusing others of being lesser for being mystified by boats, books, and bridges.
+
+We also don't know how modern technology works.
+
+Instead of finding out, many people today are trying to find, insist, and force someone else to use the dying tools they rely on. So many people are Charles looking for someone to call him king. No other organism gets to do that. Even simple trees must make their creations helpful, with sheltering logs, branche for nests, nutritious nuts, to get squirels and others to include them in their ecosystem. Each natural creation is a pencil. Quite literally for us, but figuratively for others.
+
+Ecosystems thrive on pencil creation and sharing. Not contributing to one's ecosystem today, in the present, based on needs right now never ends well. If you want to understand someone's aritifical identity, as them what pencils they make and provide. Words are not pencils, they can't be as already said, because words can't interact with the gameboard and therefore cannot counter entropy with fuel, shelter, or anything else.
+
+Words are our other members of your species to understand. Our human words, as Charles noted, as sometimes to keep people in their roles to avoid realizing time has moved on. We suffer today, because we are experiencing evolution. We are experiencing the failure of being mammoths as natural selection does its thing.
+
+This is not a book about politics or economics. Those scientific books are forthcoming in Mixed Ideological Politics and Bumblebee economics. Those require you embrace your technoligical identity.
+
+This is the best book I could write to show it to you. A new identity will make the next steps obvious. Pre-emp natural selection. Make many new adaptions. Respond to the ones that fix things faster. Move. Build. Repeat. In other words, make the bell shut up.

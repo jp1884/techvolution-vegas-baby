@@ -130,6 +130,7 @@ Chapter 9—Spreading the Technological Soil
 Chapter 10—Planting, Building, and Playing The New Game
 Chapter 11—Back to Natural
 Chapter 12—Stories Vignettes
+Chapter 13—Epilogue
 
 Chapter 4—The History of Life's Evolution
 Chapter 5—Our History from Trees to Fire
@@ -3563,73 +3564,52 @@ https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
 The world is falling apart.
 
-I don't mean that metaphorically. I mean it factually. That is what the rise in entropy is. Mountains becoming boulders. Boulders becoming sand. Cars breaking done. Buildings catching fire. Lifeforms have different ways of seeing things fall apart, insinct, mythologies, philosophies, science. But, every animal has the same strategy. Build faster. We only have different toolsets in which to assemble matter into something useful.
+Not metaphorically. Like on Mars or Venus, anywhere, it's inevitably. You know that by now. Every animal has the same survial strategy. Build and pass on the torch. We only have different toolsets in which to assemble matter into something useful in the Game of Life.
 
-You have a host of identities to choose from, ideological, cultural, genetic, ethnic. Natural selection does not see those all that much today. A cold draft doesn't warm up because it hears Latin words instead of Dwarvish. Whatever differences our past gave us, skin color, eye color, nose shapes, are basically tailbones. Relics that indicate out past but are basically meaningless adaptations in a technological ecosystem. That's reason why there's no evidence of natural selection in our genetics is 2,000 is when technology came. 
+Natural selection opts for whoever builds faster and contributes more to their ecosystem.
 
-The reason even academics don't see this is the simple insight that we are technological beings.
+You have a host of identities to choose from, ideological, cultural, genetic, ethnic. Whatever differences our past gave us, skin color, eye color, nose shapes, each is now basically tailbones. We used to need them. Now they are relics that are basically meaningless adaptations in a technological ecosystem. Natural selection didn't stop. It stopped selecting our bodies and started selecting our tools.
 
-We know it of course. Most people take a house electrical heater over animal skins and campfire. Sunblock over melanin. Claude Code over a good memory. Not because we like them, their founders, brands, or anything else. Because we have good reason natural selection would too. We just don't have the framework in which to express what we already know.
+That's why geneticist notice selection started to change about 2,000 years, that is about when powerful technology (steel, stone buildings, books, etc.) were born and started to spread across the world.
 
-That being Techvolution. The acceptance that natural selection only knows what tools you assemble to resist entropy and assemble new things, be these new things biological or technological.
+The reason we, even academics, don't see this is the simple insight that we are technological beings. Lifeforms who need pencils but not self-aware enough to stop withholding them from others inside the ecosystems we depend on.
 
-By naming "technological giving tree" in the last vignette, I want to hit you with the fact, that we are at the very early stages of our technomass Earth. We are Kai, our biological equal with a mindset unknowing of the possibilities of agriculture and civilization. If we use old identities we see only the past, we'll think we have wondrous technology and the luxury to protest or inherit our way to the future.
+Hopefully you realize now this isn't anyones fault.
 
-Protesting and inheriting cannot building anything. It was a dead end for mammoths, Kai, and all our ancestors, and is for us too.
+The path to preventing infections, fire proofing buildings, building the internet was full of artifical opposition. Yet natural selection eventually chose each. There's no reason to believe we can't explain economics, politics, and human identity with such clarity.
 
-Because time goes on regardless. The world calls apart on Mars, Venus, and Earth too. Our technological giving tree is dying. We fight more each year in the world, in Congress, at dinner tables and workplaces because there's less fruit each year. 
+Techvolution is that framework. The acceptance that natural selection only knows what tools you assemble to resist entropy and assemble new things. By naming "technological giving tree" in the last vignette, I want to hit you with the fact, that we are at the very early stages of our technomass filled Earth. We are Kai, the hunter-gatherer who went looking for a tree he could have planted himself. Kai didn't know about the possibilities of agriculture and civilization. He's our biological equal with a mindset similarly out of date. Hopefully this book made you realize that.
 
-The buildings, schools, power stations, roads, our ancestors planted are dying. I don't mean in a metaphorical way. I mean in aging happens, entropy increases, things fall apart. Entropy is still tearing down the society our ancestors built. Bridges, homes, roofs, streets, and of course cars. I've had claims for cars, buildings collapses, floods, forest fires, people need insurance because no one plans for this to happen. And no person calling me was hoping I protest with them or send them money. They just wanted their stuff back. They wanted help to effectively heal their technology cleanly with no problems, like using antiseptic lotion on a biological cut.
+The tree is dying.
 
-Today, we use debt to fix our society's aging. But as Charles (and any number of other people) will attest, that tactic only works for a while. Eventually we need to create a new mixture of genotype, phenotype, and especially tools.
+The buildings, schools, power stations, roads, our ancestors planted are dying. Entropy is tearing down the society our ancestors built. I've had claims for cars, buildings collapses, floods, forest fires. No person calling was hoping I protest with them or even send them money. They wanted their stuff back. They wanted help to heal their technology, like using antiseptic lotion on a biological cut.
 
-If you're wondering why genotype is included, it's because anyone can lear. When someone doesn't adapt, natural selection will try another lineage. Genetics aren't the survival advantage but they are still the vessel phenotypes (education, habits, cultures) needed to move, work, and think up new tools.
+We need a new way of life. Instead we are going in circles, best seen in their habit of renaming things that already exist instead of inventing new things. We need progressively minded to invent new tools and techniques and the conservatively minded to mass-produce them. 
 
-After reading the vignettes, hopefully you sense this moment of life's history. 
+We don't know how today. Nobody does. No one's ever made a functioning ecosystem with Internet Age tools. Julius Caesar did build a bridge over the Rhine to scare away the maurding Germans. That is us, at the river's edge, and someone has to cross it first.
 
-I'm calling you out on, putting you on notice, that you know the Game of Life is our job to win. Earth is called a Lifeboat because it's the only place where the battle is happening. Who the heck is anyone to disregard it and expect good things via protests, inheritance, watching infotainment. I'm not being optimistic saying "humanity should learn to plant seeds of technology". I'm being obvious. You will or another grouping of genotype, phenotype, and tools will.
+It's hard. It sucks. It's full of failure, natural and artifical. Because don't know how modern technology works.
 
-None of this means abadoning your friends, history, clubs, interests or groups. I personally do cultural dancing, read history, cheer for my country to win sporting games, and love it. Natural selection doesn't see this all that much. It only sees the stripes on a tigers back for the most part.
+Instead of finding out, many people today are trying to find, insist, and force someone else to use the dying tools they rely on. So many people are Charles looking for someone to call him king. No other organism gets to do that. Even simple trees must make their creations helpful, with sheltering logs, branche for nests, nutritious nuts, to get squirels and others to include them in their ecosystem. Each natural creation is a pencil. Quite literally for us, but figuratively for others.
 
-You already have a technological identity. A new identity only that means accepting to yourself and others the tools you use to feed, house, warm, transport, communicate, fuel your daily activities. Like everything these tools have a lifespan. 
-
-Thus, human jobs, professions, identities, don't always coincide. We expect this of today's atheletes, pilots, astronauts. But not of our professors, teachers, executives, managers and others.
-
-Its a choice once we realize we have it. Something that any number of human belief systems tell us to embrace, humility being a big one.
-
-This new identity clarifies so much of today's world.
-
-Why climate change can't be recognized. Why rising government debt is ignored. Why youth birth rates and hope are dropping. A tiger could be the biggest vegan ever. We know its biology requires meat, but don't know its thoughts, philosophy, or prayers if it wants to hunt and eat deer all the time. If this seems ridicules, there are vegans who eat meat, climate change activists who take planes, debt reduction adovates who get tax-credits.
-
-We do not classify a single organism by its language, culture, or thoughts. Yet with us, it's open season on the never ending list of identities.
-
-Once we accept the reality of our technological identity, we realize who we are. We have the tools of the Internet Age, with the beliefs, goals, and identities of the mass-production obssessed Industrial Age. No different than Charles trying to keep the past alive.
-
-I picked him as the stubborn example for a very specific reason. There's no evidence he was a bad guy. He never tortured anyone or anything like that. He took the message of Divine Kings seriously, and there was little reason for him to disregard it, because he liek most people only used his belief system to judge himself.
-
-And we're doing the same thing. Todays ideologies are the religious reborn. Very effective in leading leaders and society when first conceived. Bad at seeing when it's time to move on.
-
-I don't say this in hindsight of today.
-
-I basically wrote this book while in university too many years ago. I used it to predict the housing crisis of 2009. That Britain would leave the EU. Who would win the 2016 US Presidential Election. Migration and the reactions. Even stock picks have been above typical returns.
-
-All because I saw technology as an ecosystem and applied basic biological understanding to its seeding, development, and growth on the game board. The Industrial Age was about mass-production of a barren technological landscape. Seeds after seeds taking root. The Internet Age is the speciation. The increasingly customized production of products to the unique requirements of a localized niche.
-
-To repeat it again, technology grows regardless of the beliefs you have for the same reason the stars don't make it rain.
-
-Because natural selection chooses who continues playing the game. Belief systems can make us use artificial selection to resist, or like in agriculture, medicine, physics, to know what patterns the game board has and thus which biological and technological creations will work best. Many people today are trying to find, insist, and force, someone else to use the tools they rely on. So many people are Charles looking for someone to call him king and send him money. If a tree could do it, perhaps they would. But instead trees must make their creations helpful, with sheltering logs, branche for nests, nutritious nuts, to get squirels and others to include them in their ecosystem. Each of these creations are a pencil. Quite literally for us, but figuratively for others.
-
-Ecosystems thrive on pencil creation and sharing. Not contributing to one's ecosystem today, in the present, based on needs right now never ends well. If you want to understand someone's aritifical identity, as them what pencils they make and provide. Words are not pencils, they can't be as already said, because words don't interact with entropy.
+Ecosystems thrive on pencil creation and sharing. Not contributing to one's ecosystem today, in the present, based on needs right now never ends well. If you want to understand someone's aritifical identity, as them what pencils they make and provide. Words are not pencils, they can't be as already said, because words can't interact with the gameboard and therefore cannot counter entropy with fuel, shelter, or anything else.
 
 Words are our other members of your species to understand. Our human words, as Charles noted, as sometimes to keep people in their roles to avoid realizing time has moved on. We suffer today, because we are experiencing evolution. We are experiencing the failure of being mammoths as natural selection does its thing.
 
-A new identity will make the next steps obvious. Pre-emp natural selection. Make new adaptions. Respond to the ones that fix things faster. Move. Build. Repeat. In other words, make the bell shut up.
+This is not a book about politics or economics. Those scientific books are forthcoming in Mixed Ideological Politics and Bumblebee economics. Those require you embrace your technoligical identity.
 
-This is what happened when I tried.
+This is the best book I could write to show it to you. A new identity will make the next steps obvious. Pre-emp natural selection. Make many new adaptions. Respond to the ones that fix things faster. Move. Build. Repeat. In other words, make the bell shut up.
+
+The choice is your on what to do next.
 
 
 
-- Nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe.
+
+
+
+
+
+- Nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe. Charles can attest to this.
 
 - This is the dreams of avarice. That we can make someone carry the burden of our entropy. That someone else will expend the energy required, learn the tools, and all that, to reconstruct while we get to eat, warm, drink, live, and reproduce.
 
