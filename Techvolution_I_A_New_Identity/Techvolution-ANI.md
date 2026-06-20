@@ -3556,43 +3556,47 @@ https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
 The world is always falling apart. You know that by now. On Mars, on Venus, anywhere—entropy never stops. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
 
-Natural selection still picks whoever builds faster and contributes more to their ecosystem. It simply stopped weighing our bodies and started weighing our tools as steel, stone, scrolls, and other powerful tools began spreading, about two thousand years ago. Adaptations like the skin, eye, and hair colors we inherited are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem that selects tools.
+Natural selection picks whoever builds faster and contributes more to their ecosystem. It simply stopped weighing our bodies when steel, stone, scrolls, and other powerful tools began spreading about two thousand years ago. The older adaptations like the skin, eye, and hair colors we inherited are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem that selects tools.
 
-The truth was always there, like bacteria in a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
+This observation was always there to be realized, like gravity or bacteria in a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
 
-New ideas have always had a hard road. Semmelweis begging doctors to wash their hands. Charles, Auld, the telephone engineers—all trying to prosper by withholding tools from their society. Entire civilizations fell rather than just make and share tools.
+New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than make and share tools with its members.
 
-Techvolution is simply prioritizing the creation, testing, and adoption of tools—in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works.
+Techvolution is simply prioritizing the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a new civilization is never the hard part. It's evolving one without conflict that's proven so hard for us.
 
-None of this means abandoning your identities or communities. I still dance, still cheer too loudly for my country at sporting events. But I do those for the same reason I exercise: they feed those relics that still fulfill a human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit.
+None of this means abandoning your identities or communities. I practice cultural dance, cheer loudly for my country, believe in a religion. But I do those for the same reason I exercise: they feed those relics that still fulfill a human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit and that others operate.
 
-I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what software I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims with my memory and my words, and not mountains of paperwork on aging software.
+I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what software I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims with my memory and my words, and not mountains of paperwork on aging software inside a society that finds it increasingly hard to build things quickly.
 
-By naming the "technological giving tree" in the last vignette, I wanted to hit you with where we are: the very beginning of a technomass Earth. We are Kai—the hunter-gatherer who walked for days to find a tree he could have planted at home. Kai couldn't imagine agriculture; it took humans hundreds of thousands of years to learn to modify the biomass. We are barely two thousand years into a technological Earth.
+By naming the "technological giving tree" in the last vignette, I wanted to hit you with where we are: the very beginning of a technomass Earth. We are Kai—the hunter-gatherer who walked for days to find a tree he could have planted at home. It's no wonder Kai couldn't imagine agriculture; it took humans hundreds of thousands of years to learn to master biomass in such a way. We are barely two thousand years into a technological Earth.
 
-Kai is our biological equal with a mindset just as out of date. Even so, I hope you finished the vignettes with a smile, because that gap is the measure of how much is still ahead of us. The raccoon will always scavenge the urban jungle. We can plant and harvest it instead.
+Kai is our biological equal with a mindset just as out of date. Even so, I hope you finished the vignettes with a smile, because we're just starting the adventure. The raccoon will always scavenge the urban jungle. We can plant and harvest it instead.
 
 For now, the tree is dying.
 
-The buildings, schools, power stations, roads, the whole civilization our ancestors planted, are aging fast. Entropy is tearing down the society they built. I've handled the claims for much of it—car breakdowns, collapsed buildings, flooded basements, burned homes, blown generators, fallen bridges. Not one caller wanted me to protest with them or even send them money. They wanted their things working again. They wanted their technology healed, like antiseptic on a cut.
+The buildings, schools, power stations, roads—the whole civilization our ancestors planted—are aging fast. Entropy is tearing down the society our ancestors built. I've handled the claims for much of it: car breakdowns, collapsed buildings, flooded basements, burned homes, blown generators, fallen bridges. No one wanted me to protest with them or even send them money. Each ring of that darn bell was a plea for help. They wanted their technology healed, like antiseptic on a cut.
 
-We aren't doing that.
+We aren't doing that fast enough.
 
-As a result, we're perhaps facing an extinction event. A massive fall from grace. Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were scriptures. All the while, we need the progressive-minded to find the neglected niches and invent, and the conservative-minded to build the wealth that mass-produces it.
+As a result, we're perhaps facing an extinction event. Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
 
-We don't know how. We're not supposed to. No one has built a working ecosystem out of Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and someone has to cross and reimagine the whole tree with the tools we have.
+We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and someone has to cross and reimagine a new giving tree with the tools we have.
 
 It's hard. It's full of failure, natural and artificial, because no one has been here before.
 
-Plants continually venture into new territories. Ants rebuild all the time. Working folks learn new tools all the time. Adapting to a new gameboard is where life lives. But instead of crossing today, too many are trying to force someone else to keep using the dying tools they depend on. Charles, looking for the words that'll make someone call him king. Soviet clerks, sure their slogans would feed everyone. We feel the pain of being mammoths because we won't start over. If an astronaut can give up walking on the Moon, if we mock Charles, Auld, and so many others for being so obstinate, then the rest of us can be honest about which tools we can learn—and which we can't—and admit when it's time to pass the torch.
+Plants continually venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. We're staring at a scary blank page, but adapting to a new gameboard is where life lives. Yet instead of crossing, many demand others keep using the dying tools they depend on. Charles, looking for the words that'll make someone call him king. Soviet clerks, sure their slogans feed society. All of them artificial selection at its worst—strangling the better tool so the old one survives.
 
-This book isn't meant to redefine politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics. I had to write this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary.
+We feel the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, then the rest of us can be honest that each job and title we have is connected to a toolset, with a lifecycle, and when our tools age it's perhaps time to pass the torch.
 
-This is the best book I could write to show it to you. A new identity makes the first steps comprehensible—as much as washing your hands or irrigating a field. Get ahead of natural selection. Make many adaptations. Keep the ones that fix things faster. Move. Build. Repeat. Speciate technology to local needs.
+This book isn't meant to redefine politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics. I release this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. That it's a natural law no one can play the game for you and win.
 
-Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born—and together they won the Industrial Age. Their combined diversity of thought and love of mass production built the tools of the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
+This is the best book I could write to show it to you. You exist in a unique moment in time and space. It came with certain beliefs, habits, and a civilization. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Make many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Repeat.
 
-If you want affordable housing, easier schooling, working healthcare, an increasing social surplus to invest in the future—the choice is yours. 
+In short, heal the bell.
+
+Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born—and against many competitors, they won the Industrial Age. Their combined diversity of thought and love of mass production built the tools of the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
+
+If you want affordable housing, easier schooling, working healthcare, healthy food, an increasing social surplus to invest in the future—the choice is yours.
 
 Argue and fight over a piece of the decaying Industrial Age giving tree—who should get what job, title, and inheritance. Or tend, plant, and harvest a new way of life.
 
@@ -3600,8 +3604,8 @@ Do you want to watch three seeds fall?
 
 Or drop them yourself?
 
-- It's no one's job to play the game for you.
 
+#### notes
 
 
 They seeded their own replacement technologies. This isn't a current affairs work. But everything, from trees to bees, need someone else to use their products. Having an aging technological ecosystem explains so much of our current events. The arguing, advertisements, emotions today is so often people trying to keep their tools relevant. Our way of life is rooted in cheap housing, transport, labour etc of the post World War II boom. Our problems are the cost is too high to sustain. Our job is to adapt.  Nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe. Charles can attest to this.
