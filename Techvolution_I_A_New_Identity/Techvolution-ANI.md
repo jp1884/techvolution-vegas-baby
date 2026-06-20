@@ -9,7 +9,7 @@ Who are you? What truly defines your identity in this age of massive technologic
 
 Techvolution is a new framework that helps us understand ourselves, our society, and our rapidly changing world.
 
-We need guidance understanding this transformation. From smartphones that connect us globally to medical devices that extend our lifespans, new technologies have become so pervasive that they are now permanent extensions of our biological selves, profoundly transforming how we live, work, and interact. If evolution had eyes, it would see something new taking shape — "technological beings," selected less for our genetics than for our ability to create and harness tools.
+We need guidance understanding this transformation. From smartphones that connect us globally to medical devices that extend our lifespans, new technologies have become so pervasive that they are now permanent extensions of our biological selves, profoundly transforming how we live, work, and interact. If evolution had eyes, it would see something new taking shape—"technological beings," selected less for our genetics than for our ability to create and harness tools.
 
 As we embrace our technological identity, we begin to see how the principles of evolution—adaptation, selection, and speciation—now govern our societies, political systems, and economies. Accepting that evolution governs these systems is a new paradigm that empowers us to:
 
@@ -556,7 +556,7 @@ The answer is the raccoon. Like them, we live, work, and exist in an ecosystem o
 
 We've already met the DVD rental manager Maria who in 2011 sells physical media—DVDs people must drive to pick up and return—for a living. Hardworking, knowledgeable, and entirely unaware that the technology defining her livelihood is about to vanish.
 
-Maria wasn't alone. Home Improvement was one of America's most popular shows throughout the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor celebrate the power of modern tools—then turned off their televisions and never applied that thinking to their own lives. The show was culturally aware enough to tackle drug addiction, infidelity, and job loss — the important life lessons society recognized. Yet in ten seasons, technological identity never appeared on that list. Nobody asked what happens when television itself changes.
+Maria wasn't alone. Home Improvement was one of America's most popular shows throughout the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor celebrate the power of modern tools—then turned off their televisions and never applied that thinking to their own lives. The show was culturally aware enough to tackle drug addiction, infidelity, and job loss—the important life lessons society recognized. Yet in ten seasons, technological identity never appeared on that list. Nobody asked what happens when television itself changes.
 
 Within a few years, Tim Allen himself had a new show—on a streaming service. His fictional Tool Man, and everyone else who built careers around television, never saw it coming. Internet speeds were improving every year. All they needed to do was look.
 
@@ -652,7 +652,7 @@ Withholding technological tools, such as the transformation of software from pro
 
 These aren't separate grievances—they're the same pattern. In the technological era, a human who can't control her tools is half an organism. Withholding the tools is what selection pressure looks like in the technological era.
 
-From Gen Z to retirees, modern digital technologies — like the printing press in earlier eras — are tools people cannot yet freely control to earn a prosperous independent livelihood.
+From Gen Z to retirees, modern digital technologies—like the printing press in earlier eras—are tools people cannot yet freely control to earn a prosperous independent livelihood.
 
 ### The Black Moth in Every Niche
 
@@ -798,7 +798,7 @@ The Moon, though one of many moons in our solar system, becomes significant only
 
 The game board is thus an emergent property. A place where the natural laws of physics, astronomy, chemistry, geology, and biology make a universe all around us. But only when we encounter this universe as a means of survival does our game board emerge.
 
-Proximity is not the test. Instead, the natural laws continually produce obstacles and opportunities — that is what the rules of the game look like in practice.
+Proximity is not the test. Instead, the natural laws continually produce obstacles and opportunities—that is what the rules of the game look like in practice.
 
 Recently physicists discovered at least two mass extinction events in Earth's history that were likely caused by supernova explosions. Researchers say these super-powerful blasts--caused by the death of a massive star--may have stripped our planet's atmosphere of its ozone, sparked acid rain and exposed life to harmful ultraviolet radiation from the Sun.
 
@@ -858,7 +858,7 @@ And this is our game clock.
 
 While the game board can tell you where you are, the game clock tells us when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. The game board and game clock are forever emergent and relative to where and when you exist in the Universe.
 
-The laws of nature, then, are more than scientific concepts — they are what keeps the game board itself in motion. Unlike chess pieces who play on the same board over and over, our board is always changing under our feet. Time itself is a constraint: organized structures — volcanoes, beaches, pyramids, tanks of gas — disperse unless energy is invested to maintain them. We can emulate this game clock with sandglasses, timepieces, or any other device. Each tells us how much time we have before order disperses (the process called entropy) if no work is done to maintain it.
+The laws of nature, then, are more than scientific concepts—they are what keeps the game board itself in motion. Unlike chess pieces who play on the same board over and over, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, beaches, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sandglasses, timepieces, or any other device. Each tells us how much time we have before order disperses (the process called entropy) if no work is done to maintain it.
 
 And this reveals the ultimate puzzle: in a universe where order disperses unless work is done to hold it together, what kind of thing can do that work? What kind of thing can harvest energy fast enough to postpone its own dispersal? The answer is something the Universe had not produced before—until it did.
 
@@ -950,7 +950,7 @@ Why?
 
 Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. From eye color to gill size, genes are the chemical blueprints that determine every creature's genetic traits, what scientist call genotype.
 
-Existing in the present isn't enough. The arrow of time means only the genes that make it into the future continue playing. That's why the scoreboard counts kids — they're how today's genes reach tomorrow.
+Existing in the present isn't enough. The arrow of time means only the genes that make it into the future continue playing. That's why the scoreboard counts kids—they're how today's genes reach tomorrow.
 
 That's why the score board counts kids, or how many of todays' genes can get themselves into the future. Usually this means direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs, human extended families) or eusociality (ant colonies, bee hives). 
 
@@ -966,7 +966,7 @@ Lifeforms cannot do the matching themselves; they are already locked into their 
 
 You can think of it as a coach picking players for his roster by assigning points to each offspring. In effect, that's how the life's players get chosen.
 
-This strategy works very well against entropy. Not only has life evolved from single-cell organism to populate the planet. It's suffered five mass extinctions and repopulated the planet each time. Notably, no extinct species has ever come back — what persists is life itself, through whatever lineages the next era's gameboard happens to favor.
+This strategy works very well against entropy. Not only has life evolved from single-cell organism to populate the planet. It's suffered five mass extinctions and repopulated the planet each time. Notably, no extinct species has ever come back—what persists is life itself, through whatever lineages the next era's gameboard happens to favor.
 
 Here's why valuing procreation keeps winning the Game of Life.
 
@@ -990,7 +990,7 @@ That's why they're on the same team!
 
 Television shows tends to show ecosystems as constant fighting for survival; biologists see them as species working in tandem, each one's specialization keeping the others viable.
 
-Here's an interesting example using the Jumanji movies. In the stories, strangers are pulled into a magical board game and forced to work together to escape. Each one has a different specialized skill—strength, speed, map-reading, weapons. The shared problem creates a team—the different skills mean no one escapes alone. Ecosystems work the same way. A polar bear and a seal have almost nothing in common as organisms, but the same arctic carrying capacity makes their fates inseparable, and each contributes a different specialization to the system. Selection edits not for similarity, but for the ability to share problems—and share specializations — with whoever else happens to be in the same niche.
+Here's an interesting example using the Jumanji movies. In the stories, strangers are pulled into a magical board game and forced to work together to escape. Each one has a different specialized skill—strength, speed, map-reading, weapons. The shared problem creates a team—the different skills mean no one escapes alone. Ecosystems work the same way. A polar bear and a seal have almost nothing in common as organisms, but the same arctic carrying capacity makes their fates inseparable, and each contributes a different specialization to the system. Selection edits not for similarity, but for the ability to share problems—and share specializations—with whoever else happens to be in the same niche.
 
 Imagine that, your virus and you are teammates. In evolutionary terms, a body that can't fight off this virus is also a body unlikely to support healthy offspring. The virus reciprocates to the ecosystem by ending the game of one lifeform, so the rest get more energy of the carrying capacity to play the game.
 
@@ -1272,7 +1272,7 @@ Some might consider these changes artificial. After all, stone walls, bronze swo
 
 But that would be wrong. Why is a copper water pipe or medical textbook artificial if the copper in our bodies or the wood in trees are natural? The Game of Life is a battle to grow things that can self-replicate in their environment faster then they degrade. As physicist Richard Muller notes in his book "Now: The Physics of Time", technology does that every bit as much as biology does.
 
-That's why political projects that demand human homogeneity — whether by race, ideology, or class — work against the technological ecosystem's actual need for variety. They don't just constrain individual freedom; they starve the ecosystem of the players it requires.
+That's why political projects that demand human homogeneity—whether by race, ideology, or class—work against the technological ecosystem's actual need for variety. They don't just constrain individual freedom; they starve the ecosystem of the players it requires.
 
 The problem is technology does not always grow naturally.
 
@@ -1310,7 +1310,7 @@ Socrates, and his students, might find camaraderie in what biologists call shedd
 
 Yet, we hold onto our own branch on the tree of life, defending our outdated tools with stories—while expecting everyone else to drop theirs the moment it makes sense. Watch cable news today. Read about the scribes who fought the printing press in Gutenberg's time, or the biblical storytellers who fought Galileo. The pattern is the same: holders of outdated technology defending their position with stories, trying to keep the past alive long enough to preserve their status.
 
-Holding back evolution is the root cause of many of our social unrest, depressions, civil wars, and revolutions. Harmful artificial selection often blocks the mass-adoption of helpful new tools — countered, historically, by what some have called "the march of reason": helpful stories that get evolution moving again.
+Holding back evolution is the root cause of many of our social unrest, depressions, civil wars, and revolutions. Harmful artificial selection often blocks the mass-adoption of helpful new tools—countered, historically, by what some have called "the march of reason": helpful stories that get evolution moving again.
 
 To stop talking about creating justice, we can instead be intentionally building it. The first step is a technological identity.
 
@@ -1942,25 +1942,21 @@ We see the Giving Tree. No enemy there. No one there. No one waiting. Giving Tre
 
 We see some fruit. Open them up. Ants. Rotten. There's no fruit. No baobabs. No deer feeding.
 
-The Giving Tree is dead! I hit it with my spear. Again. Then someone stops me.
-
-All together we kneel to the tree. We pray to the gods for another.
-
-Because there is nothing to eat here.
+The Giving Tree is dead! I hit it with my spear. Again. Then someone stops me. All together we kneel to the tree. We pray to the gods for another. Because there is nothing to eat here.
 
 Keep moving or go back? We need to find Giving Tree fruit or we get sick.
 
-We keep going. We follow a valley towards the Deer-Star. We keep walking. We gather roots. We gather reeds. Many baskets are still empty. Hunger. Thirst. 11 warriors remain. Two dogs left.
+We keep going. We follow a valley towards the Deer-Star. We keep walking. We gather roots. We gather reeds. Many baskets are still empty. Cold. Hunger. Thirst. 11 warriors remain. Two dogs left. We have enough furs to stay warm.
 
 We keep walking. See new places. We follow the Deer-Star.
 
-Keep moving. More hunger. Keep moving we need food.
+Keep moving. More hunger. It's so hot. We remove furs. We sweat. Keep moving. We need food.
 
 There is nothing to eat here. We must turn sideways from the Deer-Star.
 
 Keep moving. 
 
-Find fruit. Can't eat. Where are we. I want to go home. Keep moving. We find some fruit. Enough to keep going. Move. We keep moving. Thirst. Where is river. Water. Some water. We must share. Why must I share. Why must I share!
+Find fruit. Can't eat. Where are we. I want to go home. Keep moving. We find some fruit. Enough to keep going. Move. We keep moving. Thirst. Where is river. Water. Some water. Many nuts. We must share. Why must I share. Why must I share!
 
 "You are not the most sick."
 
@@ -1969,6 +1965,8 @@ Find fruit. Can't eat. Where are we. I want to go home. Keep moving. We find som
 I understand.
 
 We keep moving. Up the valley. Some water. Some green. More water. More green. Trees. Fruit. We find fruit. River. Deer. We smile to each other. It was good to move away from Deer-Star.
+
+There is much fruit. Much water.
 
 Is this new home?
 
@@ -1985,12 +1983,6 @@ Then a mother walks on soil. Her child is behind dropping water in soil. Another
 I hug my empty basket.
 
 And then I see three seeds fall.
-
-
-
-
-
-
 
 ### Technological Game of Life
 
@@ -3562,54 +3554,57 @@ https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
 ### Part
 
-The world is falling apart.
+The world is always falling apart. You know that by now. On Mars, on Venus, anywhere—entropy never stops. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
 
-Not metaphorically. Like on Mars or Venus, anywhere, it's inevitably. You know that by now. Every animal has the same survial strategy. Build and pass on the torch. We only have different toolsets in which to assemble matter into something useful in the Game of Life.
+Natural selection still picks whoever builds faster and contributes more to their ecosystem. It simply stopped weighing our bodies and started weighing our tools as steel, stone, scrolls, and other powerful tools began spreading, about two thousand years ago. Adaptations like the skin, eye, and hair colors we inherited are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem that selects tools.
 
-Natural selection opts for whoever builds faster and contributes more to their ecosystem.
+The truth was always there, like bacteria in a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
 
-You have a host of identities to choose from, ideological, cultural, genetic, ethnic. Whatever differences our past gave us, skin color, eye color, nose shapes, each is now basically tailbones. We used to need them. Now they are relics that are basically meaningless adaptations in a technological ecosystem. Natural selection didn't stop. It stopped selecting our bodies and started selecting our tools.
+New ideas have always had a hard road. Semmelweis begging doctors to wash their hands. Charles, Auld, the telephone engineers—all trying to prosper by withholding tools from their society. Entire civilizations fell rather than just make and share tools.
 
-That's why geneticist notice selection started to change about 2,000 years, that is about when powerful technology (steel, stone buildings, books, etc.) were born and started to spread across the world.
+Techvolution is simply prioritizing the creation, testing, and adoption of tools—in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works.
 
-The reason we, even academics, don't see this is the simple insight that we are technological beings. Lifeforms who need pencils but not self-aware enough to stop withholding them from others inside the ecosystems we depend on.
+None of this means abandoning your identities or communities. I still dance, still cheer too loudly for my country at sporting events. But I do those for the same reason I exercise: they feed those relics that still fulfill a human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit.
 
-Hopefully you realize now this isn't anyones fault.
+I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what software I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims with my memory and my words, and not mountains of paperwork on aging software.
 
-The path to preventing infections, fire proofing buildings, building the internet was full of artifical opposition. Yet natural selection eventually chose each. There's no reason to believe we can't explain economics, politics, and human identity with such clarity.
+By naming the "technological giving tree" in the last vignette, I wanted to hit you with where we are: the very beginning of a technomass Earth. We are Kai—the hunter-gatherer who walked for days to find a tree he could have planted at home. Kai couldn't imagine agriculture; it took humans hundreds of thousands of years to learn to modify the biomass. We are barely two thousand years into a technological Earth.
 
-Techvolution is that framework. The acceptance that natural selection only knows what tools you assemble to resist entropy and assemble new things. By naming "technological giving tree" in the last vignette, I want to hit you with the fact, that we are at the very early stages of our technomass filled Earth. We are Kai, the hunter-gatherer who went looking for a tree he could have planted himself. Kai didn't know about the possibilities of agriculture and civilization. He's our biological equal with a mindset similarly out of date. Hopefully this book made you realize that.
+Kai is our biological equal with a mindset just as out of date. Even so, I hope you finished the vignettes with a smile, because that gap is the measure of how much is still ahead of us. The raccoon will always scavenge the urban jungle. We can plant and harvest it instead.
 
-The tree is dying.
+For now, the tree is dying.
 
-The buildings, schools, power stations, roads, our ancestors planted are dying. Entropy is tearing down the society our ancestors built. I've had claims for cars, buildings collapses, floods, forest fires. No person calling was hoping I protest with them or even send them money. They wanted their stuff back. They wanted help to heal their technology, like using antiseptic lotion on a biological cut.
+The buildings, schools, power stations, roads, the whole civilization our ancestors planted, are aging fast. Entropy is tearing down the society they built. I've handled the claims for much of it—car breakdowns, collapsed buildings, flooded basements, burned homes, blown generators, fallen bridges. Not one caller wanted me to protest with them or even send them money. They wanted their things working again. They wanted their technology healed, like antiseptic on a cut.
 
-We need a new way of life. Instead we are going in circles, best seen in their habit of renaming things that already exist instead of inventing new things. We need progressively minded to invent new tools and techniques and the conservatively minded to mass-produce them. 
+We aren't doing that.
 
-We don't know how today. Nobody does. No one's ever made a functioning ecosystem with Internet Age tools. Julius Caesar did build a bridge over the Rhine to scare away the maurding Germans. That is us, at the river's edge, and someone has to cross it first.
+As a result, we're perhaps facing an extinction event. A massive fall from grace. Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were scriptures. All the while, we need the progressive-minded to find the neglected niches and invent, and the conservative-minded to build the wealth that mass-produces it.
 
-It's hard. It sucks. It's full of failure, natural and artifical. Because don't know how modern technology works.
+We don't know how. We're not supposed to. No one has built a working ecosystem out of Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and someone has to cross and reimagine the whole tree with the tools we have.
 
-Instead of finding out, many people today are trying to find, insist, and force someone else to use the dying tools they rely on. So many people are Charles looking for someone to call him king. No other organism gets to do that. Even simple trees must make their creations helpful, with sheltering logs, branche for nests, nutritious nuts, to get squirels and others to include them in their ecosystem. Each natural creation is a pencil. Quite literally for us, but figuratively for others.
+It's hard. It's full of failure, natural and artificial, because no one has been here before.
 
-Ecosystems thrive on pencil creation and sharing. Not contributing to one's ecosystem today, in the present, based on needs right now never ends well. If you want to understand someone's aritifical identity, as them what pencils they make and provide. Words are not pencils, they can't be as already said, because words can't interact with the gameboard and therefore cannot counter entropy with fuel, shelter, or anything else.
+Plants continually venture into new territories. Ants rebuild all the time. Working folks learn new tools all the time. Adapting to a new gameboard is where life lives. But instead of crossing today, too many are trying to force someone else to keep using the dying tools they depend on. Charles, looking for the words that'll make someone call him king. Soviet clerks, sure their slogans would feed everyone. We feel the pain of being mammoths because we won't start over. If an astronaut can give up walking on the Moon, if we mock Charles, Auld, and so many others for being so obstinate, then the rest of us can be honest about which tools we can learn—and which we can't—and admit when it's time to pass the torch.
 
-Words are our other members of your species to understand. Our human words, as Charles noted, as sometimes to keep people in their roles to avoid realizing time has moved on. We suffer today, because we are experiencing evolution. We are experiencing the failure of being mammoths as natural selection does its thing.
+This book isn't meant to redefine politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics. I had to write this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary.
 
-This is not a book about politics or economics. Those scientific books are forthcoming in Mixed Ideological Politics and Bumblebee economics. Those require you embrace your technoligical identity.
+This is the best book I could write to show it to you. A new identity makes the first steps comprehensible—as much as washing your hands or irrigating a field. Get ahead of natural selection. Make many adaptations. Keep the ones that fix things faster. Move. Build. Repeat. Speciate technology to local needs.
 
-This is the best book I could write to show it to you. A new identity will make the next steps obvious. Pre-emp natural selection. Make many new adaptions. Respond to the ones that fix things faster. Move. Build. Repeat. In other words, make the bell shut up.
+Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born—and together they won the Industrial Age. Their combined diversity of thought and love of mass production built the tools of the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
 
-The choice is your on what to do next.
+If you want affordable housing, easier schooling, working healthcare, an increasing social surplus to invest in the future—the choice is yours. 
+
+Argue and fight over a piece of the decaying Industrial Age giving tree—who should get what job, title, and inheritance. Or tend, plant, and harvest a new way of life.
+
+Do you want to watch three seeds fall?
+
+Or drop them yourself?
+
+- It's no one's job to play the game for you.
 
 
 
-
-
-
-
-
-- Nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe. Charles can attest to this.
+They seeded their own replacement technologies. This isn't a current affairs work. But everything, from trees to bees, need someone else to use their products. Having an aging technological ecosystem explains so much of our current events. The arguing, advertisements, emotions today is so often people trying to keep their tools relevant. Our way of life is rooted in cheap housing, transport, labour etc of the post World War II boom. Our problems are the cost is too high to sustain. Our job is to adapt.  Nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe. Charles can attest to this.
 
 - This is the dreams of avarice. That we can make someone carry the burden of our entropy. That someone else will expend the energy required, learn the tools, and all that, to reconstruct while we get to eat, warm, drink, live, and reproduce.
 

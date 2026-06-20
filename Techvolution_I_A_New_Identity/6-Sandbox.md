@@ -4439,3 +4439,63 @@ Words are our other members of your species to understand. Our human words, as C
 This is not a book about politics or economics. Those scientific books are forthcoming in Mixed Ideological Politics and Bumblebee economics. Those require you embrace your technoligical identity.
 
 This is the best book I could write to show it to you. A new identity will make the next steps obvious. Pre-emp natural selection. Make many new adaptions. Respond to the ones that fix things faster. Move. Build. Repeat. In other words, make the bell shut up.
+
+===
+
+
+
+The world is falling apart.
+
+You know that by now. Like on Mars or Venus, anywhere, things are always falling apart. Every animal has the same survial strategy. Assemble matter into adaptations that can survive long enough to pass on the torch to a new generation. Modern humans have different toolsets in which to build something useful, but the Game of Life is otherwise the same.
+
+Natural selection picks whoever builds faster and contributes more to their ecosystem.
+
+You have a host of identities to choose from, ideological, cultural, genetic, ethnic. Whatever differences our past gave us, skin, eye, hair color, nose and eye shapes, each is now basically a tailbone. We used to need them for a specific environment. Now they are relics that are basically meaningless adaptations in a technological ecosystem because books are better than memory, sunblock better than melanin. Natural selection didn't stop as Dr. Reich notes above. It stopped selecting our bodies and started selecting the tools we to play the game.
+
+About 2,000 years is when about when powerful technology (steel, stone buildings, scrolls, etc.) were born and started to spread across the world. 
+
+The reason we, even academics, don't see this is the simple insight that we are technological beings. Lifeforms who need pencils but not self-aware enough to stop withholding them from others inside the ecosystems we depend on. Like bacteria causing sickness the truth has always been there to see. 
+
+Hopefully you realize now this isn't anyones fault that we haven't.
+
+Until we get frameworks to think of it and evidence to prove it, new ideas and tools are a difficult road. Things we take for granted today, like preventing infections, fire proofing buildings, the internet, were full of opposition. How many of the future basic neccessities are being thwarted today?
+
+Techvolution is designed to help us identify these opportunities by priortizing the creation, evaluation, and adoption of tools in our personal, political, and economic lives.
+
+None of this means abanoning your identities or communities. I still do cultural dancing and cheer for my country to win sporting events. Yet, i do these things for the same reason I exercise, they speak to our past and remain requirements. However I realize my calories, heating fuel, or electricity aren't fulfilled by these identities.
+
+I dealt with thousands of customers. Many upset. Not often because of money as many assume. Customers were mostly angry over being in the dark. Waiting on hold to hours is more frustrating than being told bad news quickly. Yet, not one angry customer ever asked "what software are you using" i.e. what pencils do you have to work with, when complaining about delays. It was always "what's wrong with you", as if I'm processing claims using my memory and words alone and not mountains of paperwork.
+
+Techvolution is the acceptance that natural selection only knows the we use to assemble new things. By naming "technological giving tree" in the last vignette, I want to hit you with the fact, that we are at the very early stages of our technomass filled Earth. We are Kai, the hunter-gatherer who went looking for a tree he could have planted himself. Kai didn't know about the possibilities of agriculture and civilization because it took 300,000+ years to develop. We're approxmiately 2,000 years into a technological Earth.
+
+Kai is our biological equal with a mindset similarly out of date. Hopefully this book made you realize that with a smile, because it showcases how much improvement awaits. Raccons will always scavenge for food and shelter in the urban jungle. We can start planting and harvesting technology to wondrous benefit.
+
+For now, the tree is dying.
+
+The buildings, schools, power stations, roads, our ancestors planted are old. Entropy is tearing down the society our ancestors built. I've had claims for so many of them. Car breakdowns, building collapses, flooded basements, forest fires homes, blown generators, fallen bridges. No person calling was hoping I protest with them or even send them money. They wanted their stuff back. They wanted help to heal their technology, like using antiseptic lotion on a biological cut.
+
+We aren't doing that.
+
+Instead we are going in circles, best seen in our habit of renaming things that already exist instead of inventing new things. We need progressively minded of helping neglected niches to invent new tools and techniques and the conservative minded make wealth to mass-produce them.
+
+We don't know how today. Nobody does. No one's ever made a functioning ecosystem with Internet Age tools. Julius Caesar really did build a bridge over the Rhine to scare away the maurding Germans (twice). We are those Germansat the river's edge, and we have to cross it and reimagine what this technological giving tree should be using Internet Age tools.
+
+It's hard. It sucks. It's full of failure, natural and artifical because no one's been here before.
+
+Instead of finding out a way across, many people today are trying to find, insist, and force someone else to use the dying tools they rely on. So many people are Charles looking for someone to call him king. I'm not going to list professions or names, because it's a habit most people fall into.
+
+You should know that it's unnnatural and unhelpful. No other organism gets to do that. Even simple trees must make their creations helpful, with sheltering logs, branche for nests, nutritious nuts, to get squirels and others to include them in their ecosystem. Each natural creation is a pencil. Quite literally for us, but figuratively for others.
+
+Ecosystems thrive on pencil creation and sharing. We suffer today because we are experiencing the failure of being mammoths as natural selection does its thing. We feel pain instead of getting a head of it.
+
+This is not a book about politics or economics. Those scientific books are forthcoming in Mixed Ideological Politics and Bumblebee economics. I needed to write this first because those require you embrace everyone's technoligical identity.
+
+This is the best book I could write to show it to you. A new identity will make the next steps obvious. Pre-emp natural selection. Make many new adaptions. Respond to the ones that fix things faster. Move. Build. Repeat. Speciate products to local environments. Find your niche. In other words, make the bell shut up.
+
+Hopefully, you'll at least realize why anyone crying fascist or socialist today is misleading you. Doing otherwise would be admitting fighting heinous wars over religions and mythologies was a good idea. Not surprisingly, once protestants and catholics stopped doing it in Europe (not entirely unfortunately), conservatism and progressive were born, and were the winning mindsets of the Industrial Age. Both were needed to allow the diversity of thoughts and mass-production give us the tools of the Internet Age. 
+
+If you want to see a new society of affordable housing, easier education, efficient healthcare, a larger social surplus, then the choice is yours.
+
+Do you want fighting the decaying carcus of Industrial Age giving tree of positions and job titles, or tend, plant, and harvest from a new technological giving tree.
+
+===
