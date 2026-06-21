@@ -3545,7 +3545,7 @@ And shut that bell up forever.
 
 ### Opening Quote
 
-All crazy traits in the past because there was no wealth in the past. There was no school in the past. But if you look at the predictors today, there is a strong uh there is a strong movement in a systematic direction. A large effect about a standard deviation on the scale of modern variation. And then we can do this trick of looking to see whether there's periods of time when this natural selection has occurred more intensely or less intensely. What we do is we drag a 2,000-year window through our data and we repeat our whole analysis not on 18,000 years but just on a short 2,000-year window. And we can measure the strength of selection in each of these 2,000-year windows. And what you see when you look at intelligence is you see that this maxes out in the Bronze Age between 5,000 4,000 3,000 2,000 years ago. And the impact in the last 2,000 years is almost  nothing. There's no evidence of natural selection at all. You might think your bias coming into this, my bias perhaps, if there's any signal of natural selection on this trait at all, might be that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years. But there's very strong evidence in between 2,000 and 4,000 years ago where instead of a one standard deviation strength of selection, it's a two standard deviation strength uh sort of averaged over this time period.
+All crazy traits in the past because there was no wealth in the past. There was no school in the past. But if you look at the predictors today, there is a strong movement in a systematic direction. A large effect about a standard deviation on the scale of modern variation. And then we can do this trick of looking to see whether there's periods of time when this natural selection has occurred more intensely or less intensely. What we do is we drag a 2,000-year window through our data and we repeat our whole analysis not on 18,000 years but just on a short 2,000-year window. And we can measure the strength of selection in each of these 2,000-year windows. And what you see when you look at intelligence is you see that this maxes out in the Bronze Age between 5,000 4,000 3,000 2,000 years ago. And the impact in the last 2,000 years is almost  nothing. There's no evidence of natural selection at all. You might think your bias coming into this, my bias perhaps, if there's any signal of natural selection on this trait at all, might be that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years. But there's very strong evidence in between 2,000 and 4,000 years ago where instead of a one standard deviation strength of selection, it's a two standard deviation strength sort of averaged over this time period.
 
 The Bronze Age radically altered our DNA 
 Dr. David Reich, geneticist.
@@ -3556,9 +3556,9 @@ https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
 The world is always falling apart. You know that by now. On Mars, on Venus, anywhere—entropy never stops. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
 
-Natural selection picks whoever builds faster and contributes more to their ecosystem. It simply stopped weighing our bodies when steel, stone, scrolls, and other powerful tools began spreading about two thousand years ago. The older adaptations like the skin, eye, and hair colors we inherited are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem that selects tools.
+Natural selection picks whoever builds faster and contributes more to their ecosystem. I only came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the traits he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this new field. But as I've argued throughout this book, my reading is that selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem that selects tools.
 
-This observation was always there to be realized, like gravity or bacteria in a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
+This observation was always there to be realized, like universal gravitation or bacteria in a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
 
 New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than make and share tools with its members.
 
@@ -3588,17 +3588,17 @@ Plants continually venture into new territories. Ants rebuild non-stop. Working 
 
 We feel the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, then the rest of us can be honest that each job and title we have is connected to a toolset, with a lifecycle, and when our tools age it's perhaps time to pass the torch.
 
-This book isn't meant to redefine politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics. I release this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. That it's a natural law no one can play the game for you and win.
+This book isn't meant to redefine politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Then it's easy to see no one can play the game for you. It's a natural law.
 
-This is the best book I could write to show it to you. You exist in a unique moment in time and space. It came with certain beliefs, habits, and a civilization. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Make many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Repeat.
+This is the best book I could write to show it to you. You exist in a unique moment in time and space. It came with certain beliefs and culture, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Make many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Repeat.
 
-In short, heal the bell.
+In short, cure the bell.
 
-Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born—and against many competitors, they won the Industrial Age. Their combined diversity of thought and love of mass production built the tools of the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
+Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born—and against many competitors, they won the Industrial Age. Each had their mistakes of course, but still combined diversity of thought and love of mass production to start the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
 
-If you want affordable housing, easier schooling, working healthcare, healthy food, an increasing social surplus to invest in the future—the choice is yours.
+If you want affordable housing, easier schooling, cleaner environment, working healthcare, healthy food, an increasing social surplus to invest in the future—the choice is yours.
 
-Argue and fight over a piece of the decaying Industrial Age giving tree—who should get what job, title, and inheritance. Or tend, plant, and harvest a new way of life.
+Argue and fight over a piece of the decaying Industrial Age Giving Tree—who should get what job, title, and inheritance. Or tend, plant, and harvest a new way of life.
 
 Do you want to watch three seeds fall?
 
