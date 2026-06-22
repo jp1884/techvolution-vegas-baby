@@ -129,67 +129,8 @@ Chapter 8—Our Base Player Nature
 Chapter 9—Spreading the Technological Soil
 Chapter 10—Planting, Building, and Playing The New Game
 Chapter 11—Back to Natural
-Chapter 12—Stories Vignettes
+Chapter 12—Vignettes
 Chapter 13—Epilogue
-
-Chapter 4—The History of Life's Evolution
-Chapter 5—Our History from Trees to Fire
-Chapter 6—The History of Civilization
-Chapter 7—The Ancients: Socrates Starts Self-Reflection
-Chapter 8—The Moderns: Self-Reflection Turns Scientific
-Chapter 9—Techvolution: Earn Perpetual Prosperity by Removing Technological "Camels" from the Amazon
-Epilogue—The Next Books: Starting Starfleet
-Notes
-
-<!-- Chapters: Rough notes per each 
-Chapter 1—The Rules of the Game—Where do we live?
- -Physics
- -Chemistry
- -Entropy
- -(the gameboard)
- -What Life Is
- -A creator   
-
-Chapter 2—What Life Is—The Creator—
-
-Chapter 3—What Evolution Is—The Editor What Evolution Is
- -A editor
- -Application: The invention of the compass by Chinese sailors, showing how a simple tool redefined humanity's relationship with Earth's geography
-
-Chapter 4—The History of Life's Evolution
- -Epochs and such.
- -Application: The evolution of eyes as a tool, from light-sensitive spots to complex organs
-
-Our Transition from Biological to Technological Life
- -The magical invention of stuff.
- -The invention of storytelling (replaces instinct).
-
-Chapter 5—Our History From Trees to Fire
- -Application: The story of Ötzi the Iceman and his sophisticated tool kit, showing early human technological identity
-
-Chapter 6—The History of Civilization
- -History of Technological Life
- -Ages et al.
-
-The Make up Technological Society
- -Aristotle's Triangle
-
-The Easy Technological Evolution Within Ages
- -Why some civilizations prosper.
- -Why some philosophies win out.
- -they foster technological evolution.
-
-The Troublesome Transition Between Ages
- -Triangle vs Triangle
- -Maskings of old tools/philosophies.
- -Corruption of storytelling
- -How the old dies (circles) and new ages are born (ladders).
-
-Where We Are, and Where We're Going
- -Industrial Age triangle vs. Internet Age.
- -Trump vs Biden et al.
- -How to get to the future, and what happens we don't hurry.
-  -->
 
 ## Foreword
 
@@ -1378,9 +1319,7 @@ Build slow. Get challenged.
 
 Build no more. Get replaced.
 
-### Biological Game of Life
-
-#### Weeds
+### Weeds
 
 Wind carries seeds. Seeds land. Most keep moving.
 
@@ -1458,7 +1397,7 @@ Ash settles into soil. Sunlight returns.
 
 Three seeds fall.
 
-#### Fly Toward
+### Fly Toward
 
 Eggs hatch. Larvae move up, down, left, right. Plant is soft. Plant is edible.
 
@@ -1530,7 +1469,7 @@ More red-eye pollinators. More flowers. More big-eyed shadows follow.
 
 Two broods hatch. More eggs crack.
 
-#### Dinosaurs
+### Dinosaurs
 
 Large predator walks. Ground shakes. Herd seen. Hide. Down wind. They cannot see. They cannot smell. Look.
 
@@ -1606,7 +1545,7 @@ The flock rises. Flock sees many trees. Forests grow tall.
 
 Many bird eggs hatch.
 
-#### Ants Move
+### Ants Move
 
 Egg hatches. Larva grows. Body hardens. Legs move. Antennae touch. Scent sisters. Sisters moving. Move. Smell area. Scent dirt. Scent cold. Scent fresh air up. Move.
 
@@ -1664,7 +1603,7 @@ Liquid in chamber!
 
 Move.
 
-#### Geese Family
+### Geese Family
 
 Fly. Glide. Save energy. Flock is ahead. I call out. Lead bird tires. Pull forward. I fly first.
 
@@ -1728,7 +1667,7 @@ Walk to grass. Grass. Eat snail. Watch. Watch. Eat bug. No snail no bug. Eat gra
 
 Cold will come. Honk is heard. My flock close. I say danger in deep water.
 
-#### Mammoths
+### Mammoths
 
 I am walking on grass. I am walking on path. I am Matriarch. My family follows.
 
@@ -1816,7 +1755,7 @@ Panic! Panic!
 
 Three mammoths fall.
 
-#### Giving Tree
+### Giving Tree
 
 Light is high. The foraging party left at dawn. Far from our home. Far from the river.
 
@@ -1984,9 +1923,9 @@ I hug my empty basket.
 
 And then I see three seeds fall.
 
-### Technological Game of Life
 
-#### The Power of Signs
+
+### The Power of Signs
 
 The taro plants need water. I carry the gourd from the stream, pouring carefully around each root as my mother taught me. I pass friends making baskets, feeding pigs, collecting water. This land feeds us because we work it together.
 
@@ -2062,7 +2001,7 @@ An old builder watches him go. "We were lost on the water. Sun. Waves. Thirst. F
 
 Another builder says, quietly, "Do not tell him. But he is our king."
 
-#### The Limits of Signs
+### The Limits of Signs
 
 The merchant ship rounds the headland at dawn. I've sailed from Phasis, Sinope, and every port in between. My hold is full of wares—Eastern textiles, Scythian gold, carved ivory from far beyond. Three months of favorable winds. Poseidon has been kind.
 
@@ -2138,7 +2077,7 @@ I look back at the hill.
 
 Three people walk with Thales, the philosopher.
 
-#### Use of Reason
+### Use of Reason
 
 The city official arrived at dawn with his apprentice and surveyor's tools. They were taking my field for the new aqueduct.
 
@@ -2196,7 +2135,7 @@ My farm continued and a new city rose.
 
 
 
-#### Averroes - Height of Reason
+### Averroes - Height of Reason
 
 Water flows through carefully graded channels, the gradient so precise that it travels from mountain springs to vast irrigation fields without a single pump. The acequia—the web of channels that carries the mountain water across the dry country—spreads to the horizon, feeding orchards no rain alone could keep. The fruit pays for the land, the water, the work. So men walk the channels each morning, clearing silt, checking the fall of the water to ensure constant flow.
 
@@ -2241,7 +2180,7 @@ The youngest student writes the new number beside the old one, and updates the s
 He puts one updated text on the library shelf. The others go out by horses and ships to libraries throughout the world.
 
 
-#### Renaissance - Limits of Reason - Effectual Truth
+### Renaissance - Limits of Reason - Effectual Truth
 
 The woodcutter marks another oak. "Can I have this big one?"
 
@@ -2317,7 +2256,7 @@ A shop on a cobbled street sets one in the window.
 
 Three people enter.
 
-#### The Method
+### The Method
 
 Three candles burn on the table.
 
@@ -2407,7 +2346,7 @@ They relight the chimney candle one more time, each placing the iron rods into t
 
 Three notebooks fill with observations.
 
-#### Extinction Event
+### Extinction Event
 
 I enter the Commons with soldiers behind me.
 
@@ -2637,7 +2576,7 @@ Not universal. Not quite. Not yet.
 
 But the seed is growing.
 
-#### Universal Laws of Nature
+### Universal Laws of Nature
 
 **From Edmond Halley, London**  
 **To Christopher Wren, Royal Society**  
@@ -2736,7 +2675,7 @@ Halley did not live to see this night. But his mathematics did.
 Newton is proven. Halley was right. See Palitzsch's confirmation below.
 One law for the heavens.
 
-#### Universal Laws for Life
+### Universal Laws for Life
 
 The fossil shop stands between a bookseller and a tinsmith on Lyme Regis's main street. Two men pause outside, examining the specimens in the window, then enter.
 
@@ -2828,7 +2767,7 @@ Mary says, "Careful, gentlemen. The precipice is closer than it looks."
 
 Three people dig.
 
-#### Lessons
+### Lessons
 
 This Maryland summer is so hot. We open the windows. Fill the pitchers. Dust the carpets. 
 
@@ -2912,7 +2851,7 @@ We print the manuals. Create loading drills. Make signal codes and telegraph key
 
 "I can't read, ma'am."
 
-#### Hands On Learning
+### Hands On Learning
 
 I walk through the hospital one more time. It's true. The evidence is here walking, or dying, inside these walls.
 
@@ -2998,7 +2937,7 @@ I failed him.
 
 I've heard of Lister's carbolic acid methods. They do not matter. I didn't find the bullet.
 
-#### Finding Work
+### Finding Work
 
 The wall is covered in pieces of paper. Bright reds, dark blues, deep blacks, characters tall as a hand. We can read, but some of the words are new to us. Some papers have colors—like a bee to a flower, we go to the brightest. My husband is shy, unsure. He didn't want to come here.
 
@@ -3124,7 +3063,7 @@ I tell him, "We can teach that."
 
 My husband picks up a wrench and screwdriver, walks over to a water pump, and the others watch.
 
-#### USA - More Chances
+### USA - More Chances
 
 Paul Baran
 Engineer, Drexel Institute of Technology
@@ -3189,7 +3128,7 @@ Newspapers. Textbooks. Whitepapers. Emails. People are writing about the network
 
 Three more nodes connect.
 
-#### Soviets - Limits of Predictions
+### Soviets - Limits of Predictions
 
 Victor Glushkov
 Director of the Institute of Cybernetics in Kiev, Soviet Union
@@ -3250,7 +3189,7 @@ Socialism is science.
 
 We should be going.
 
-#### To the Moon
+### To the Moon
 
 "3, 2, 1. Lift-off."
 
@@ -3422,128 +3361,9 @@ He drops his pencil. Extends his hand.
 - "From now on we live in a world where man has walked on the Moon. It’s not a miracle; we just decided to go."
 -->
 
-#### Last Call
-
-**Thank you for calling claims, my name is Peter, how can I help you?**
-
-An insurance broker looking for an update on a rental car status. I can help you with that. 5 mins. Approve additional rental days if there was a mistake somewhere or the call goes too long.
-
-**BEEP.**
-
-**Thank you for calling claims, my name is Peter, how can I help you?**
-
-You're calling to discuss a property claim. You are unhappy and want to speak to a manager. Escalation. I'm going to the property department soon. I can't wait to learn and so something different.
-
-**BEEP.**
-
-**Thank you for calling claims.**
-
-Other repair company sharing crash details and confirming who is at fault.
-
-**BEEP.**
-
-We already paid for the vehicle repairs. But the repairs never completed. Claim is over a year old. The claim window, per government regulation, expires after one year. Insured wants the work done now. Now what?
-
-**Thank you for calling claims.**
-
-Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. No good reason why the claim wasn't processed earlier. Now what? A long and angry call I bet.
-
-**BEEP.**
-
-Will this be my last queue call?
-
-**Thank you for calling claims.**
-
-Young lady reports a car crash. She was downtown having fun in the big city. She got into a sideswipe accident.
-
-Oh no. These are the worst. There'll be a dispute over who changed lanes, and I'll have to hear how the government's 50/50 rule is an injustice.
-
-Wait. What?
-
-She says she was charged for careless driving and improper lane change.
-
-That's easier. The cops settled liability.
-
-Then she says the other driver had a dashcam. The crash was recorded. After seeing it, the cops charged her.
-
-Even easier.
-
-Wait. What?
-
-Did she just say:
-
-*"Think of it. How bad of a driver does the other guy have to be, to need a dash cam? I shouldn't be at fault."*
-
-"No, you are 100% at fault."
-
-A lady tricking herself. What a last call.
-
-**BEEP.**
-
-One more.
-
-"Hello, I'd like to report a claim. One of my cows slipped on ice and hurt herself."
-
----
-
-That was late on Friday afternoon. It was the last call for the week. And my last queue call ever.
-
-The bell would keep ringing. Other adjusters would still be on the line, still answering, still trying to keep up. Entropy always increases. Society would always need repairs, from car crashes, fires, hail storms, and other "acts of God" as we'd say like the hunter-gatherers of old.
-
-The work can be ignored. But the problems never stop. The Game of Life is played or lost.
-
-The technological ecosystem we built and depend on, was operated by people either full of stories about themselves but only dimly aware of the wonderful technological giving tree that sustains them. Or occasionally by people who prepared and countered the bad news with a new tool, and who are slowly building a new identity.
-
-I grabbed my diary. I grabbed a pencil. I wrote another note. Another entry. A new book.
-
-Then a program to heal society a little faster, hold back entropy, and happily study acts of God—when, where, and why they happen.
-
-And shut that bell up forever.
-
-
-
-### Raccoon Coyote Crash
-
-
-
----
-
-- A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers. Meaning orange is a job, orange and stripes is just how it does it, the second deer can see red, tigers would have to adapt. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which it lives.
-
-- work into this the way biological ecosystems work. and then input some version of artificial selection by the players, showcase how silly it is to spend time on excess like larger bear dens and what not...
-
-- waches robots, AI, which has a similar rising consciouness as bio life. example robot hitting a wall and go back and forth, back and forth, looking for a way out.
-
-- By what right does any lifeform get not to define itself by its environment? Tigers are orange because... what is our environment, and how do we combat entropy inside and using it? Car crash scenario to the reader.
-
-- you are the heritage of the tools and beliefs you pick up.
-- genes mean little, commodus.
-- identities come and go, but the pencil/Simmel... stays.
-- we're still on the old side of the river. mammoths on canoes.
-- sixth mass extinction.
-- cost of living.
-- political divide.
-- Asking for a pencil integration.
-- the joy of writing this has been wow, our bs is so artifical, i can ignore it...
-- we don't assess the daily environment, available resources, niches, and pick up tools accordingly (ex. commuting/traffic).
-
-- "Baran: No: It's the first moment where individual stubbornness matters—but only because the environment allows it. If AT&T were the only path forward (like Gosplan for Glushkov), Baran's refusal would be irrelevant. This would make explicit what's implicit: Baran's refusal only matters because his environment has other niches. AT&T says no. RAND says yes. That's the difference.
-
-- we think we create new technology. the realization that makes our present and future make more sense is that at some point technology started to create us.
-
-- see our lives/jobs not as bro vs fighting over tech to advance their genes but as on independent (tech) ecosystem that we harness/car for, like a farmer from foraging to farming.
-
-- identity shift as genetic shift!
-
-- Take a moment to list three tools you rely on daily. For each, ask: How did this tool change the way I solve a problem? What would happen if I lost it tomorrow? Which new tool could replace or augment it tomorrow?”
-
-- why does evolution favor bigger organism, until a high pressure/extinction event?
-
----
-
 ## Chapter 13-Epilogue
 
-### Opening Quote
+### Opening
 
 All crazy traits in the past because there was no wealth in the past. There was no school in the past. But if you look at the predictors today, there is a strong movement in a systematic direction. A large effect about a standard deviation on the scale of modern variation. And then we can do this trick of looking to see whether there's periods of time when this natural selection has occurred more intensely or less intensely. What we do is we drag a 2,000-year window through our data and we repeat our whole analysis not on 18,000 years but just on a short 2,000-year window. And we can measure the strength of selection in each of these 2,000-year windows. And what you see when you look at intelligence is you see that this maxes out in the Bronze Age between 5,000 4,000 3,000 2,000 years ago. And the impact in the last 2,000 years is almost  nothing. There's no evidence of natural selection at all. You might think your bias coming into this, my bias perhaps, if there's any signal of natural selection on this trait at all, might be that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years. But there's very strong evidence in between 2,000 and 4,000 years ago where instead of a one standard deviation strength of selection, it's a two standard deviation strength sort of averaged over this time period.
 
@@ -3552,17 +3372,19 @@ Dr. David Reich, geneticist.
 May 10, 2026
 https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
-### Part
+### Epilogue
 
-The world is always falling apart. You know that by now. On Mars, on Venus, anywhere—entropy never stops. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
+The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, definitely not here. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
 
-Natural selection picks whoever builds faster and contributes more to their ecosystem. I only came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the traits he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this new field. But as I've argued throughout this book, my reading is that selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem that selects tools.
+Natural selection picks whoever builds faster and contributes more to their ecosystem. You can be motivated by and identify as anything you think best. Some animals love their offspring, some simply follow instinct. But the only way to communicate value to natural selection is building material adaptations.
+
+I only came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the traits he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem that selects tools.
 
 This observation was always there to be realized, like universal gravitation or bacteria in a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
 
-New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than make and share tools with its members.
+New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than make and share tools with their members.
 
-Techvolution is simply prioritizing the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a new civilization is never the hard part. It's evolving one without conflict that's proven so hard for us.
+Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a new civilization is never the hardest part. It's evolving one without conflict that's proven so hard for us.
 
 None of this means abandoning your identities or communities. I practice cultural dance, cheer loudly for my country, believe in a religion. But I do those for the same reason I exercise: they feed those relics that still fulfill a human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit and that others operate.
 
@@ -3574,7 +3396,7 @@ Kai is our biological equal with a mindset just as out of date. Even so, I hope 
 
 For now, the tree is dying.
 
-The buildings, schools, power stations, roads—the whole civilization our ancestors planted—are aging fast. Entropy is tearing down the society our ancestors built. I've handled the claims for much of it: car breakdowns, collapsed buildings, flooded basements, burned homes, blown generators, fallen bridges. No one wanted me to protest with them or even send them money. Each ring of that darn bell was a plea for help. They wanted their technology healed, like antiseptic on a cut.
+The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. Entropy is tearing down the society our ancestors built. I've handled the claims for much of it: car breakdowns, collapsed buildings, flooded basements, burned homes, blown generators, fallen bridges. No one wanted me to protest with them or even send them money. Each ring of that darn bell was a plea for help. They wanted their technology healed, like antiseptic on a cut.
 
 We aren't doing that fast enough.
 
@@ -3584,17 +3406,23 @@ We don't know how. We're not supposed to. No one has built a working ecosystem u
 
 It's hard. It's full of failure, natural and artificial, because no one has been here before.
 
-Plants continually venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. We're staring at a scary blank page, but adapting to a new gameboard is where life lives. Yet instead of crossing, many demand others keep using the dying tools they depend on. Charles, looking for the words that'll make someone call him king. Soviet clerks, sure their slogans feed society. All of them artificial selection at its worst—strangling the better tool so the old one survives.
+Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. The open-source makers already evolved many free internet tools for anyone to use. That's the fertile soil in which you can grow.
+
+Adapting to a new gameboard is where life lives.
+
+Yet instead of crossing today, many demand others keep using the dying tools they depend on. Charles, looking for the words that'll make someone call him king. Soviet clerks, sure their slogans feed society. Each an example of artificial selection at its worst—making up a story to justify strangling the better tool so the old one survives just a little while longer.
 
 We feel the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, then the rest of us can be honest that each job and title we have is connected to a toolset, with a lifecycle, and when our tools age it's perhaps time to pass the torch.
 
-This book isn't meant to redefine politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Then it's easy to see no one can play the game for you. It's a natural law.
+You don't have to do this alone. Every person can contribute by tending the problems in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our environment faster. Healthy ecosystems need all types. And they follow simple rules to great effect. So can we.
+
+This book isn't meant to redefine politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Only then is it easy to see no one can play the game for you. It's a natural law.
 
 This is the best book I could write to show it to you. You exist in a unique moment in time and space. It came with certain beliefs and culture, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Make many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Repeat.
 
 In short, cure the bell.
 
-Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born—and against many competitors, they won the Industrial Age. Each had their mistakes of course, but still combined diversity of thought and love of mass production to start the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
+Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born. Against many competitors, they won the Industrial Age by using their combined diversity of thought and love of mass production to start the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
 
 If you want affordable housing, easier schooling, cleaner environment, working healthcare, healthy food, an increasing social surplus to invest in the future—the choice is yours.
 
@@ -3604,168 +3432,7 @@ Do you want to watch three seeds fall?
 
 Or drop them yourself?
 
-
-#### notes
-
-
-They seeded their own replacement technologies. This isn't a current affairs work. But everything, from trees to bees, need someone else to use their products. Having an aging technological ecosystem explains so much of our current events. The arguing, advertisements, emotions today is so often people trying to keep their tools relevant. Our way of life is rooted in cheap housing, transport, labour etc of the post World War II boom. Our problems are the cost is too high to sustain. Our job is to adapt.  Nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe. Charles can attest to this.
-
-- This is the dreams of avarice. That we can make someone carry the burden of our entropy. That someone else will expend the energy required, learn the tools, and all that, to reconstruct while we get to eat, warm, drink, live, and reproduce.
-
-
-- when a tree makes an edible but, that's a pencil.
-- when the squirrel plants a tree, that's a pencil.
-- and so on
-- so, what pencil have you made? are you getting pencils from anyone?
-- words are communication, which are signals often within species, not pencils
-- you are a technical animal inside an ecosystem. the words you are hearing are.... 
-- we suffer today, because we are experience evolution. we are experiencing the failure of being mammoths.
-- we refuse to look at, know, and assess the pain of the frontline, for Charles II reasons...
-- and yet, the frontline is where entropy either increases or decreases with the creation of new forms of life
-- which we will do faster and better, once we have a self-realization of our technological identity.
-
-
-
-
-
-
-
-
-
-
-### Chapter 13
-
-"There's no evidence of natural selection at all."  There has been. But human biological stopped being selected.
-
-The world is falling apart.
-
-I don't mean that metaphorically. I mean it scientifcally. That is what the rise in entropy is. Mountains becoming sand. Cars rusting away. etc.
-
-The question is, can we order it more than it falls apart.
-
-And, today we can't. We don't know how. Often the people in charge are too use to old enviroments and tools that don't exist. And the kids are so enraptured with storytelling, they think their inability to buy a house or get a job is because of stuff that happened decades or centuries ago.
-
-Rememer when Machiavelli mentioned the Germans watching Julius Caesar bring his bridge. That actually happened, twice..  Likewise, we see the future, we don't know how to build it. No one does. There are no Romans to learn from, because no one has been to this internet, smartphone, AI, environment before.
-
-Heck, most modern technology is lucky to even by alive for all the support we give it.
-
-We can't cross the river, so we're stuck on one bank, suffering the problems we talked about at the start of this book. Rising polarization, housing costs, all that jazz.
-
-But problems are not.
-
-Evolution didn't just disappear 2,000 years ago. Countless lives have come and gone. Ash trees, chestnut trees are decimated. Thousands of species are extinct. Entropy keeps on making disorder. Life is still around, and thus has been making more order to keep passing the torch.
-
-What has changed in humanity, in the past 2,000 years is technology.
-
-And humans using tools are the playing the Game of Technological Life.
-
-A car crash is a big moment of selection. And you and your tools are the unit of selection.
-
-Do you realize it?
-
-The cars are wounded and likely total losses. That is much material being disorganized, a big win for disorganization. Of course you could be hurt as well. 
-
-Just because we have memories, histories, personal idenities, doesn't mean we should live inside them.
-
-The implications of this realization are huge. That human personalities are meant to occupy and operate every bit of an entire economic ecosystem is a big one. But we'll discuss those later in Book II Mixed Ideological Politics and Book III Bumblebee Economics.
-
-For now, this book's mission is simply about you realizing we are technological beings. This isn't a new idea that we should create, it's something we should realize is already effectively true.
-
-Touch your tail-bone. 
-
-I mean that, literally, touch it.
-
-We have tailbones and no tails. It's a leftover from a by gone age. 
-
-It's noise.
-
-Evolution can't select you for it. And neither can it for your skin color, facial features, or any other artifacts from your history.
-
-Our old identities are similar. Artificial selection that has purpose only if we decide it does. They could be important. There is nothing wrong with enjoying music festival with a large crowd or reading history. But these can't select you for success. How could radiation, cold, heat, affect you differently because you like goth music over rock.
-
-If one music motivates you to exercise, grow healthy food, install solar panels, great. But it's turning disorder into order that passes the test.
-
-Let me ask in a different way.
-
-Do you think a tiger wants to be orange? 
-
-A tiger's orange with stripes are unique a cool, but that's not who they want to be. It's who the coach said could have the job. Grazers need to be held in check or they would devour their ecosystem to their own demise. Therefore catching enough grazers to keep them in check, without killing them all, is the job for a predator inside healthy, balanced, reciprocating ecosystem.
-
-And deer can't see red or orange.
-
-Therefore prange is the uniform of the tiger's predator job. If deer ever see red, tigers would need a new uniform. The tiger's identity is relative to the needs, wants, and abilities of the ecosystem in which it lives.
-
-We didn't choose to be technological beings—the environment selected for it. Different technology became our "uniform" for the job of survival.
-
-The rest tailbones and artificial noise.
-
-Learning to speak was my job. Learning the insurance rules and regulations was my job. Adapting tools to shut that f'in bell up is a job. 
-
-To get us to that point of realization we had to understand what evolution is.
-
-We described it as a Game of Life. 
-
-The laws of physics, chemistry, and geology reign supreme. They interact to create an emergent game board offering continually changing opportunities and challenges. Over time entropy increases and so wears down our environment, spoils our food, and puts timers on every creatures experience. Life creates modifications of existing forms, while natural selection determines which offspring survive to represent life's future.
-
-Thereby liife adapts to the requirements of its environment.
-
-Humans play the Game of Life. Most of time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
-
-And this moment of a single car crash is a moment of selection. As is a seed trying to take root into soil and find water and sunshine. A fly looking for nectar. A predator chasing a herbivore.
-
-Identity follows function, if it's every the reverse, a self-aware person knows something is wrong.
-
-Everyone working together inside an ecosystem to make sure energy, nutrients, and water is continually passed, as a torch, from being to being with the most important requirement being we do not use it up, by always make us of it, before passing it along.
-
-Our game is different because of us and our minds.
-
-The giving tree is dead. 
-
-The buildings, schools, power stations, roads, our ancestors planted are dying. I don't mean in a metaphorical way. I mean in aging happens, entropy increases, this fall apart.
-
-And we're using words to try to justify we, per race, greed, gender, deserve the dwelingl share of the pie.
-
-We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard as it did when elders used stories to teach oceanic navigation or philosophers started to question those stories for a more natural truth.
-
-Sometimes they exploit and degrade as when royal descendants forget they're office and power was earned for practical problem solving or when individuals teach servitude and deprive tools on others.
-
-Like any other speices, the human frameworks that help us adopt tools based on conditions—those frameworks survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
-
-Evolution cannot speak our languages anymore than it could understand Mammoths pleas for help or could give Dr. Simmelweis a break. He discovered anti-septic care and died of an infection inside an insane asylum.
-
-Apollo 8 is such a good example of this fact.
-
-It was named after a Greek pagan god, while being the first to travel to the moon, where its crew read from a holy book, while realizing Earth's supreme fraility. Jim Lovell really did erase their navigation data and it was his personal knowledge of the stars that saved the day. He would soon use these skills again in Apollo 13, the spacecraft that exploded and had to limp its way back home.
-
-The point is there is no superiority to our stories. Like with anything in nature, the best is determined by what the environment is and what the game requires we do.
-
-Mythological, philosophical, scientific interpretations of reality will always have their place. Each serves a function related to the time, situation, and toolset we have.
-
-No story can ever supercede the rules of evolution.
-
-There are plenty of more insights this perspective can give you. You
-
-But for the moment, it only matters that you realize this crash is selection. I can all but guarantee you, you would not know what to do. You also would not have planned for this moment at all either. Likely no cars will stop to offer help.
-
-We call car crashes accidents, but they rarely are. Someone ran the red light and will probably lie about it. Police will arrive, ear both stories, and declare 50/50, and you'll yell at your insurance adjuster for being bound to that fault determination.
-
-Your situation has happened before.
-
-- The problems you have, are not problems of evolutiion, but problems of identities.
-- Technology to us is like bees and flowers. Except the flower is changinig under our feet, using our hands, but we don't realiize that one day, we won't know how to use the flower to get the pollen we need.....
-- Tech identity lets us emulate every other species, and intake the signals, smells, colors, relevent to us (like a bee ignoring all the colors without pollen per its eyesight), and we can concentrate on our place in the ecosystem, and enjoy the resultiing peace of mind because "animals are born free, and eveywhere seem to be enjoying themselves."
-
----
-
-Marcus Aurelius, Commodus
-
-Distance from the frontline removes the learnings of the environment and thus pisses off evolution....this story has so many adaptions in the human history.
-
-King Charles
-
-
-
-### Socratic Pencil
+## Chapter 14 Socratic Pencil - personal
 
 This is what I think Socrates was getting at.
 
@@ -4367,7 +4034,86 @@ The company had a thank you program in effect. My manager did the best he could,
 
 I got a pair of scissors. I still have it. Every time I look at them I still think.
 
-Eight of frickin one.
+Eight oh frickin one.
+
+### ! Story 16 - Last Call
+
+**Thank you for calling claims, my name is Peter, how can I help you?**
+
+An insurance broker looking for an update on a rental car status. I can help you with that. 5 mins. Approve additional rental days if there was a mistake somewhere or the call goes too long.
+
+**BEEP.**
+
+**Thank you for calling claims, my name is Peter, how can I help you?**
+
+You're calling to discuss a property claim. You are unhappy and want to speak to a manager. Escalation. I'm going to the property department soon. I can't wait to learn and so something different.
+
+**BEEP.**
+
+**Thank you for calling claims.**
+
+Other repair company sharing crash details and confirming who is at fault.
+
+**BEEP.**
+
+We already paid for the vehicle repairs. But the repairs never completed. Claim is over a year old. The claim window, per government regulation, expires after one year. Insured wants the work done now. Now what?
+
+**Thank you for calling claims.**
+
+Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. No good reason why the claim wasn't processed earlier. Now what? A long and angry call I bet.
+
+**BEEP.**
+
+Will this be my last queue call?
+
+**Thank you for calling claims.**
+
+Young lady reports a car crash. She was downtown having fun in the big city. She got into a sideswipe accident.
+
+Oh no. These are the worst. There'll be a dispute over who changed lanes, and I'll have to hear how the government's 50/50 rule is an injustice.
+
+Wait. What?
+
+She says she was charged for careless driving and improper lane change.
+
+That's easier. The cops settled liability.
+
+Then she says the other driver had a dashcam. The crash was recorded. After seeing it, the cops charged her.
+
+Even easier.
+
+Wait. What?
+
+Did she just say:
+
+*"Think of it. How bad of a driver does the other guy have to be, to need a dash cam? I shouldn't be at fault."*
+
+"No, you are 100% at fault."
+
+A lady tricking herself. What a last call.
+
+**BEEP.**
+
+One more.
+
+"Hello, I'd like to report a claim. One of my cows slipped on ice and hurt herself."
+
+---
+
+That was late on Friday afternoon. It was the last call for the week. And my last queue call ever.
+
+The bell would keep ringing. Other adjusters would still be on the line, still answering, still trying to keep up. Entropy always increases. Society would always need repairs, from car crashes, fires, hail storms, and other "acts of God" as we'd say like the hunter-gatherers of old.
+
+The work can be ignored. But the problems never stop. The Game of Life is played or lost.
+
+The technological ecosystem we built and depend on, was operated by people either full of stories about themselves but only dimly aware of the wonderful technological giving tree that sustains them. Or occasionally by people who prepared and countered the bad news with a new tool, and who are slowly building a new identity.
+
+I grabbed my diary. I grabbed a pencil. I wrote another note. Another entry. A new book.
+
+Then a program to heal society a little faster, hold back entropy, and happily study acts of God—when, where, and why they happen.
+
+And shut that bell up forever.
+
 
 ### Misc.
 

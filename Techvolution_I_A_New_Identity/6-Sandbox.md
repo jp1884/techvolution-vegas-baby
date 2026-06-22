@@ -4499,3 +4499,266 @@ If you want to see a new society of affordable housing, easier education, effici
 Do you want fighting the decaying carcus of Industrial Age giving tree of positions and job titles, or tend, plant, and harvest from a new technological giving tree.
 
 ===
+
+### Raccoon Coyote Crash
+
+- A tiger's orange with stripes or a leopards spots are unique, but that's not who they want to be, it's who the coach said could have the job of catching enough grazers to keep them in check while not decimating their numbers. Meaning orange is a job, orange and stripes is just how it does it, the second deer can see red, tigers would have to adapt. The tiger identity is relative to the needs, wants, and abilities of the ecosystem in which it lives.
+
+- work into this the way biological ecosystems work. and then input some version of artificial selection by the players, showcase how silly it is to spend time on excess like larger bear dens and what not...
+
+- waches robots, AI, which has a similar rising consciouness as bio life. example robot hitting a wall and go back and forth, back and forth, looking for a way out.
+
+- By what right does any lifeform get not to define itself by its environment? Tigers are orange because... what is our environment, and how do we combat entropy inside and using it? Car crash scenario to the reader.
+
+- you are the heritage of the tools and beliefs you pick up.
+- genes mean little, commodus.
+- identities come and go, but the pencil/Simmel... stays.
+- we're still on the old side of the river. mammoths on canoes.
+- sixth mass extinction.
+- cost of living.
+- political divide.
+- Asking for a pencil integration.
+- the joy of writing this has been wow, our bs is so artifical, i can ignore it...
+- we don't assess the daily environment, available resources, niches, and pick up tools accordingly (ex. commuting/traffic).
+
+- "Baran: No: It's the first moment where individual stubbornness matters—but only because the environment allows it. If AT&T were the only path forward (like Gosplan for Glushkov), Baran's refusal would be irrelevant. This would make explicit what's implicit: Baran's refusal only matters because his environment has other niches. AT&T says no. RAND says yes. That's the difference.
+
+- we think we create new technology. the realization that makes our present and future make more sense is that at some point technology started to create us.
+
+- see our lives/jobs not as bro vs fighting over tech to advance their genes but as on independent (tech) ecosystem that we harness/car for, like a farmer from foraging to farming.
+
+- identity shift as genetic shift!
+
+- Take a moment to list three tools you rely on daily. For each, ask: How did this tool change the way I solve a problem? What would happen if I lost it tomorrow? Which new tool could replace or augment it tomorrow?”
+
+- why does evolution favor bigger organism, until a high pressure/extinction event?
+
+===
+
+#### notes
+
+They seeded their own replacement technologies. This isn't a current affairs work. But everything, from trees to bees, need someone else to use their products. Having an aging technological ecosystem explains so much of our current events. The arguing, advertisements, emotions today is so often people trying to keep their tools relevant. Our way of life is rooted in cheap housing, transport, labour etc of the post World War II boom. Our problems are the cost is too high to sustain. Our job is to adapt.  Nature isn't going to adjust to meet us. We adjust to meet it, or we suffer the consequences regardless of what we believe. Charles can attest to this.
+
+- This is the dreams of avarice. That we can make someone carry the burden of our entropy. That someone else will expend the energy required, learn the tools, and all that, to reconstruct while we get to eat, warm, drink, live, and reproduce.
+
+
+- when a tree makes an edible but, that's a pencil.
+- when the squirrel plants a tree, that's a pencil.
+- and so on
+- so, what pencil have you made? are you getting pencils from anyone?
+- words are communication, which are signals often within species, not pencils
+- you are a technical animal inside an ecosystem. the words you are hearing are.... 
+- we suffer today, because we are experience evolution. we are experiencing the failure of being mammoths.
+- we refuse to look at, know, and assess the pain of the frontline, for Charles II reasons...
+- and yet, the frontline is where entropy either increases or decreases with the creation of new forms of life
+- which we will do faster and better, once we have a self-realization of our technological identity.
+
+===
+
+### Chapter 13
+
+"There's no evidence of natural selection at all."  There has been. But human biological stopped being selected.
+
+The world is falling apart.
+
+I don't mean that metaphorically. I mean it scientifcally. That is what the rise in entropy is. Mountains becoming sand. Cars rusting away. etc.
+
+The question is, can we order it more than it falls apart.
+
+And, today we can't. We don't know how. Often the people in charge are too use to old enviroments and tools that don't exist. And the kids are so enraptured with storytelling, they think their inability to buy a house or get a job is because of stuff that happened decades or centuries ago.
+
+Rememer when Machiavelli mentioned the Germans watching Julius Caesar bring his bridge. That actually happened, twice..  Likewise, we see the future, we don't know how to build it. No one does. There are no Romans to learn from, because no one has been to this internet, smartphone, AI, environment before.
+
+Heck, most modern technology is lucky to even by alive for all the support we give it.
+
+We can't cross the river, so we're stuck on one bank, suffering the problems we talked about at the start of this book. Rising polarization, housing costs, all that jazz.
+
+But problems are not.
+
+Evolution didn't just disappear 2,000 years ago. Countless lives have come and gone. Ash trees, chestnut trees are decimated. Thousands of species are extinct. Entropy keeps on making disorder. Life is still around, and thus has been making more order to keep passing the torch.
+
+What has changed in humanity, in the past 2,000 years is technology.
+
+And humans using tools are the playing the Game of Technological Life.
+
+A car crash is a big moment of selection. And you and your tools are the unit of selection.
+
+Do you realize it?
+
+The cars are wounded and likely total losses. That is much material being disorganized, a big win for disorganization. Of course you could be hurt as well. 
+
+Just because we have memories, histories, personal idenities, doesn't mean we should live inside them.
+
+The implications of this realization are huge. That human personalities are meant to occupy and operate every bit of an entire economic ecosystem is a big one. But we'll discuss those later in Book II Mixed Ideological Politics and Book III Bumblebee Economics.
+
+For now, this book's mission is simply about you realizing we are technological beings. This isn't a new idea that we should create, it's something we should realize is already effectively true.
+
+Touch your tail-bone. 
+
+I mean that, literally, touch it.
+
+We have tailbones and no tails. It's a leftover from a by gone age. 
+
+It's noise.
+
+Evolution can't select you for it. And neither can it for your skin color, facial features, or any other artifacts from your history.
+
+Our old identities are similar. Artificial selection that has purpose only if we decide it does. They could be important. There is nothing wrong with enjoying music festival with a large crowd or reading history. But these can't select you for success. How could radiation, cold, heat, affect you differently because you like goth music over rock.
+
+If one music motivates you to exercise, grow healthy food, install solar panels, great. But it's turning disorder into order that passes the test.
+
+Let me ask in a different way.
+
+Do you think a tiger wants to be orange? 
+
+A tiger's orange with stripes are unique a cool, but that's not who they want to be. It's who the coach said could have the job. Grazers need to be held in check or they would devour their ecosystem to their own demise. Therefore catching enough grazers to keep them in check, without killing them all, is the job for a predator inside healthy, balanced, reciprocating ecosystem.
+
+And deer can't see red or orange.
+
+Therefore prange is the uniform of the tiger's predator job. If deer ever see red, tigers would need a new uniform. The tiger's identity is relative to the needs, wants, and abilities of the ecosystem in which it lives.
+
+We didn't choose to be technological beings—the environment selected for it. Different technology became our "uniform" for the job of survival.
+
+The rest tailbones and artificial noise.
+
+Learning to speak was my job. Learning the insurance rules and regulations was my job. Adapting tools to shut that f'in bell up is a job. 
+
+To get us to that point of realization we had to understand what evolution is.
+
+We described it as a Game of Life. 
+
+The laws of physics, chemistry, and geology reign supreme. They interact to create an emergent game board offering continually changing opportunities and challenges. Over time entropy increases and so wears down our environment, spoils our food, and puts timers on every creatures experience. Life creates modifications of existing forms, while natural selection determines which offspring survive to represent life's future.
+
+Thereby liife adapts to the requirements of its environment.
+
+Humans play the Game of Life. Most of time we play it with tools, but that is the only difference. It's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in New York City.
+
+And this moment of a single car crash is a moment of selection. As is a seed trying to take root into soil and find water and sunshine. A fly looking for nectar. A predator chasing a herbivore.
+
+Identity follows function, if it's every the reverse, a self-aware person knows something is wrong.
+
+Everyone working together inside an ecosystem to make sure energy, nutrients, and water is continually passed, as a torch, from being to being with the most important requirement being we do not use it up, by always make us of it, before passing it along.
+
+Our game is different because of us and our minds.
+
+The giving tree is dead. 
+
+The buildings, schools, power stations, roads, our ancestors planted are dying. I don't mean in a metaphorical way. I mean in aging happens, entropy increases, this fall apart.
+
+And we're using words to try to justify we, per race, greed, gender, deserve the dwelingl share of the pie.
+
+We have mythological, philosophical, scientific interpretations of reality that create artificial selection pressures. Sometimes these pressures liberate and advance life on the gameboard as it did when elders used stories to teach oceanic navigation or philosophers started to question those stories for a more natural truth.
+
+Sometimes they exploit and degrade as when royal descendants forget they're office and power was earned for practical problem solving or when individuals teach servitude and deprive tools on others.
+
+Like any other speices, the human frameworks that help us adopt tools based on conditions—those frameworks survive. The frameworks that prevent adaptation—those frameworks die, and often take their believers with them.
+
+Evolution cannot speak our languages anymore than it could understand Mammoths pleas for help or could give Dr. Simmelweis a break. He discovered anti-septic care and died of an infection inside an insane asylum.
+
+Apollo 8 is such a good example of this fact.
+
+It was named after a Greek pagan god, while being the first to travel to the moon, where its crew read from a holy book, while realizing Earth's supreme fraility. Jim Lovell really did erase their navigation data and it was his personal knowledge of the stars that saved the day. He would soon use these skills again in Apollo 13, the spacecraft that exploded and had to limp its way back home.
+
+The point is there is no superiority to our stories. Like with anything in nature, the best is determined by what the environment is and what the game requires we do.
+
+Mythological, philosophical, scientific interpretations of reality will always have their place. Each serves a function related to the time, situation, and toolset we have.
+
+No story can ever supercede the rules of evolution.
+
+There are plenty of more insights this perspective can give you. You
+
+But for the moment, it only matters that you realize this crash is selection. I can all but guarantee you, you would not know what to do. You also would not have planned for this moment at all either. Likely no cars will stop to offer help.
+
+We call car crashes accidents, but they rarely are. Someone ran the red light and will probably lie about it. Police will arrive, ear both stories, and declare 50/50, and you'll yell at your insurance adjuster for being bound to that fault determination.
+
+Your situation has happened before.
+
+- The problems you have, are not problems of evolutiion, but problems of identities.
+- Technology to us is like bees and flowers. Except the flower is changinig under our feet, using our hands, but we don't realiize that one day, we won't know how to use the flower to get the pollen we need.....
+- Tech identity lets us emulate every other species, and intake the signals, smells, colors, relevent to us (like a bee ignoring all the colors without pollen per its eyesight), and we can concentrate on our place in the ecosystem, and enjoy the resultiing peace of mind because "animals are born free, and eveywhere seem to be enjoying themselves."
+
+---
+
+Marcus Aurelius, Commodus
+
+Distance from the frontline removes the learnings of the environment and thus pisses off evolution....this story has so many adaptions in the human history.
+
+King Charles
+
+===
+
+Chapter 4—The History of Life's Evolution
+Chapter 5—Our History from Trees to Fire
+Chapter 6—The History of Civilization
+Chapter 7—The Ancients: Socrates Starts Self-Reflection
+Chapter 8—The Moderns: Self-Reflection Turns Scientific
+Chapter 9—Techvolution: Earn Perpetual Prosperity by Removing Technological "Camels" from the Amazon
+Epilogue—The Next Books: Starting Starfleet
+Notes
+
+<!-- Chapters: Rough notes per each 
+Chapter 1—The Rules of the Game—Where do we live?
+ -Physics
+ -Chemistry
+ -Entropy
+ -(the gameboard)
+ -What Life Is
+ -A creator   
+
+Chapter 2—What Life Is—The Creator—
+
+Chapter 3—What Evolution Is—The Editor What Evolution Is
+ -A editor
+ -Application: The invention of the compass by Chinese sailors, showing how a simple tool redefined humanity's relationship with Earth's geography
+
+Chapter 4—The History of Life's Evolution
+ -Epochs and such.
+ -Application: The evolution of eyes as a tool, from light-sensitive spots to complex organs
+
+Our Transition from Biological to Technological Life
+ -The magical invention of stuff.
+ -The invention of storytelling (replaces instinct).
+
+Chapter 5—Our History From Trees to Fire
+ -Application: The story of Ötzi the Iceman and his sophisticated tool kit, showing early human technological identity
+
+Chapter 6—The History of Civilization
+ -History of Technological Life
+ -Ages et al.
+
+The Make up Technological Society
+ -Aristotle's Triangle
+
+The Easy Technological Evolution Within Ages
+ -Why some civilizations prosper.
+ -Why some philosophies win out.
+ -they foster technological evolution.
+
+The Troublesome Transition Between Ages
+ -Triangle vs Triangle
+ -Maskings of old tools/philosophies.
+ -Corruption of storytelling
+ -How the old dies (circles) and new ages are born (ladders).
+
+Where We Are, and Where We're Going
+ -Industrial Age triangle vs. Internet Age.
+ -Trump vs Biden et al.
+ -How to get to the future, and what happens we don't hurry.
+  -->
+
+===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
