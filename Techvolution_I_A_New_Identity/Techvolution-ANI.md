@@ -3361,6 +3361,11 @@ He drops his pencil. Extends his hand.
 - "From now on we live in a world where man has walked on the Moon. It’s not a miracle; we just decided to go."
 -->
 
+### Last Call
+
+<!-- Integrate interludes into vignettes. a modern call for help. -->
+
+
 ## Chapter 13-Epilogue
 
 ### Opening
@@ -3386,7 +3391,7 @@ New ideas have always had a hard road. Semmelweis begging doctors to wash their 
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a new civilization is never the hardest part. It's evolving one without conflict that's proven so hard for us.
 
-None of this means abandoning your identities or communities. I practice cultural dance, cheer loudly for my country, believe in a religion. But I do those for the same reason I exercise: they feed those relics that still fulfill a human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit and that others operate.
+None of this means abandoning your identities or communities. I practice cultural dance, cheer loudly for my country, believe in a religion. But I do those for the same reason I exercise: each can feed those relics that still fulfill a human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit and that others operate.
 
 I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what software I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims with my memory and my words, and not mountains of paperwork on aging software inside a society that finds it increasingly hard to build things quickly.
 
@@ -3396,17 +3401,17 @@ Kai is our biological equal with a mindset just as out of date. Even so, I hope 
 
 For now, the tree is dying.
 
-The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. Entropy is tearing down the society our ancestors built. I've handled the claims for much of it: car breakdowns, collapsed buildings, flooded basements, burned homes, blown generators, fallen bridges. No one wanted me to protest with them or even send them money. Each ring of that darn bell was a plea for help. They wanted their technology healed, like antiseptic on a cut.
+The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. Entropy is tearing down the society our ancestors built. I've handled the claims for much of it: car breakdowns, collapsed buildings, flooded basements, burned homes, blown generators, fallen bridges. No one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
 
 We aren't doing that fast enough.
 
-As a result, we're perhaps facing an extinction event. Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
+As a result, we're perhaps facing an extinction event. A time so bad nobody wins. Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
 
 We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and someone has to cross and reimagine a new giving tree with the tools we have.
 
 It's hard. It's full of failure, natural and artificial, because no one has been here before.
 
-Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. The open-source makers already evolved many free internet tools for anyone to use. That's the fertile soil in which you can grow.
+Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world—the open-source makers have already evolved free tools for anyone to use. That's the fertile soil in which you can grow.
 
 Adapting to a new gameboard is where life lives.
 
@@ -3416,7 +3421,7 @@ We feel the pain of being mammoths because we don't know how to embrace starting
 
 You don't have to do this alone. Every person can contribute by tending the problems in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our environment faster. Healthy ecosystems need all types. And they follow simple rules to great effect. So can we.
 
-This book isn't meant to redefine politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Only then is it easy to see no one can play the game for you. It's a natural law.
+This book isn't meant to redefine politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, and get far more detailed on how to institute the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Only then is it easy to see no one can play the game for you. It's a natural law.
 
 This is the best book I could write to show it to you. You exist in a unique moment in time and space. It came with certain beliefs and culture, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Make many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Repeat.
 
