@@ -1289,11 +1289,11 @@ _The gods did not reveal, from the beginning, all things to us, but in the cours
 
 Xenophanes, Greek Philosopher 6th Century BC.
 
-Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. We are not exceptional, so it's the same game for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
+Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. The game is the same for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
 
 Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances.
 
-The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. For every player entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to assemble matter into new creatures, nests and fruit, and now even into tools. Each new assembly is a unique variation. Sometimes their combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. 
+The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. For every player entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to assemble matter into new creatures, nests, fruit, and now even into tools. Each new assembly is a unique variation. Like the peppered moth going from light to dark to light again, sometimes their combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. 
 
 Natural selection finds the forms that best read the environment's patterns—when rain comes, sunlight returns—and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest resources efficiently enough to keep building matter into life faster than entropy tears everything down.
 
@@ -1303,7 +1303,7 @@ Our game is different because of our minds. We have mythological, philosophical,
 
 How to tell which is which?
 
-Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the patterns—when fruit ripens, what smoke means—survive to play again.
+Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the patterns like when fruit ripens or what smoke means survive to play again.
 
 This chapter is not a story to enjoy. You may like narratives, statistics, and entertaining heroes. But entropy does not care. So life cannot care. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt—to keep the good and fix the bad.
 
@@ -1327,13 +1327,13 @@ Three seeds fall.
 
 One on rock, another in water, last in crevice.
 
-The seed on smooth stone is wedged beneath boulder, baking under intense light. There is hardness here. There is heat. There is no water. The seed does not crack. It waits. It remains.
+The seed on smooth stone is wedged beneath boulder, baking under intense sunlight. There is hardness here. There is heat. There is energy. There is no water. The seed does not crack. It waits. It remains.
 
 More seeds ride the wind.
 
-The seed in water swells. Roots spread into the wetness. Water is abundant. There is sunlight here. There is water here. Stem reaches upward. Leaves unfurl. The plant rises.
+The seed in water swells. Roots spread into the wetness. Water is abundant. There is sunlight here. There is water here. Stem reaches upward. Leaves unfurl. Energy is converted. The plant rises.
 
-Light comes. Light goes. Light comes. Light goes. Light comes. Water recedes. Water vanishes. Roots reach across damp rock. Roots tangle. There is no water here. Leaves curl. Growth stops. The plant weakens.
+Light comes. Light goes. Light comes. Light goes. Water recedes. Water vanishes. Roots reach across damp rock. Roots tangle. There is no water here. Leaves curl. Growth stops. The plant weakens.
 
 Water drains. Green turns brown. Plant dies. Dryness, dust, blown into the wind.
 
@@ -1341,11 +1341,11 @@ The seed in the crevice. Water pools in shadow. The seed absorbs. Roots emerge, 
 
 Stem extends upward. There is no light. Stem continues. There is light. Leaves unfurl. Light becomes glucose. Carbon pulls inward. Oxygen pushes outward.
 
-The plant needs more water. Roots drink more water. Water carries minerals. Magnesium flows upward. Iron flows upward. Nitrogen flows upward. Glucose flows downward. More roots extend. They push further into rock, widening the crevice, breaking stone into smaller pieces.
+The plant needs more water. Roots drink more water. Water carries minerals. Magnesium flows upward. Iron flows upward. Nitrogen flows upward. Leaves convert light. Glucose flows downward. More roots extend. They push further into rock, widening the crevice, breaking stone into smaller pieces.
 
-Wind comes. Stem bends. Wind returns. Stem breaks.
+Wind comes. Stem bends. Wind pushes. Stem breaks.
 
-Leaves fall on rock. No light reaches them. Growth slows. The plant weakens.
+Leaves fall on rock. No light reaches them. Energy fades. Growth slows. The plant weakens.
 
 Green becomes brown. The plant decays. Biomatter breaks down, falls on barren rock. Organic material accumulates. Moisture retention increases.
 
@@ -1353,19 +1353,19 @@ Wind comes.
 
 Three seeds fall in fertile ground.
 
-Roots extend immediately. Water is here. Minerals are here. Organic matter is here. Growth comes rapidly. The plants rise. Their roots break more stone. Their leaves fall and accumulate.
+Roots extend immediately. Water is here. Minerals are here. Organic matter is here. Growth comes rapidly. The plants rise. Sunlight is felt. Roots break more stone. Sunlight is converted. Leaves fall and accumulate.
 
 Flowers burst. Pollen in wind. Seeds form. Seeds fall.
 
-More generations follow. Organic material becomes soil. Soil deepens. Dead material becomes life.
+More generations follow. Organic material becomes soil. Soil deepens. Dead material feeds life.
 
 Three seeds fall.
 
 Soil is moist. Soil has nutrients.
 
-One stem grows fast—tall, thin, straight. Leaves unfurl. Sunlight becomes glucose. Roots consume water. Wind comes. The tall stem sways. Wind returns. The stem snaps. Growth stops.
+One stem grows fast—tall, thin, straight. Leaves unfurl. Light becomes glucose. Wind comes. Plant stem breaks.
 
-Another stem grows upward, then wide. Light is scarce. Leaves spread low to capture it. Wind comes. The wide plant bends but does not break. Growth continues.
+One stem grows wide. Light is scarce. Leaves spread low. Some light becomes glucose. Wind comes. The wide plant bends but does not break. Growth continues.
 
 The last stem grows tall, thin, slow. It reaches higher than the others. Leaves unfurl above the wind's strongest currents. Wind comes. The stem bends but does not break. Roots drink deep. Growth persists.
 
@@ -1373,27 +1373,21 @@ Flowers burst. Pollen in wind. Seeds form. Seeds fall.
 
 Soil deepens. Soil spreads.
 
-Light changes. It dims. Not gradually. This dimming persists. Days pass. Light does not return.
+Light changes. It dims. Now dark. No light. No energy. Days pass.
 
-Particles fall from sky. Ash. Fine and constant. They settle on leaves, coat the ground, carry minerals that enrich soil. But they block light.
+Particles fall from sky. Ash on leaves. Soil rich with minerals. No sunlight.
 
 Plants still reach upward. Stems extend toward where light was. Leaves unfurl toward dimness. There is no light anywhere.
 
-Seeds fall. None crack. There is no light.
+Seeds fall. None crack. There is no moisture.
 
 Stems weaken. Plants collapse.
 
-Fungi feed on decay. Dead leaves accumulate. Dead stems fall. Dead roots rot in soil. The fungi consume this biomaterial, breaking it down, returning elements to earth. They do not need light.
+Fungi feed on decay. Dead leaves accumulate. Dead plants fall. The fungi break down biomaterial for energy.
 
-One stem grows. Some light is here. Leaves unfurl.
+One plant stem grows. Some light is here. Leaves unfurl.
 
-Leaves are red. Light becomes glucose. More leaves grow. Stem rises.
-
-Roots send nutrients upward. Leaves send glucose downward.
-
-Other variations emerge. Some survive. Some do not. Life grows.
-
-Ash settles into soil. Sunlight returns.
+Leaves are red. Light becomes glucose. Glucose fuels plant. More leaves grow. Stem rises. Roots send nutrients upward. Leaves send glucose downward. Plant grows high. Wind comes. Flowers form. Pollen in air. Flowers close.
 
 Three seeds fall.
 
@@ -1401,15 +1395,15 @@ Three seeds fall.
 
 Eggs hatch. Larvae move up, down, left, right. Plant is soft. Plant is edible.
 
-Larvae eat. Larvae grow.
+Larvae eat. Energy consumed. Larvae grow.
 
-Larvae grabbed. Larvae lifted. Jaws close. Crunch. Larvae fall. Larvae in water. Jaws close. Crunch.
+Larvae grabbed. Jaws close. Crunch. Larvae fall. Larvae in water. Jaws close. Crunch.
 
 Larvae eat more. Larvae grow. Wings form. Light is above. Insects fly toward light.
 
 Many insects fly toward light. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insects fall. Ground is hard. Insects stop.
 
-Many insects turn toward scent. Scent drifts. Sweetness. Flowers are here. Insects land. Nectar is here. Insects drink. Energy flows. Insects fly. More flowers. More nectar. Energy high.
+Many insects fly toward scent. Scent increases. Flowers are here. Insects land. Nectar is here. Insects drink. Energy flows. Insects fly. More flowers. More nectar. Energy high.
 
 Many insects land on water. Tongues reach. Jaws jump. Crunch.
 
@@ -1419,9 +1413,13 @@ Cold comes. Flowers die. Scent fades.
 
 Warmth returns.
 
-Brood hatches. Larvae eat. Larvae grow.
+Brood hatches. Larvae eat. Energy consumed. Larvae become insects. A few have red-eyes.
 
-Some insects fly toward light. Some turn toward scent. Some have red-eyes. Red-eye all find flowers. Insects mate.
+Flowers emit scent.
+
+Some insects fly toward light. No flowers. No energy.
+
+Some turn toward scent. All red-eye insects smell flowers.
 
 More broods. More generations. We find flowers. Nectar is abundant. Energy high. We survive.
 
@@ -1447,7 +1445,7 @@ Red-eye insects fall down. Bodies remain. No crunch.
 
 Some red-eye insects find bodies. Eat dead bodies.
 
-These red-eye insects grow bigger. Bigger insects have big-eyes.
+These red-eye insects grow bigger. Meat has more energy. Large insects have big-eyes.
 
 Big-eye insects see clearer. Big-eye insects move faster. Big-eye insects need meat.
 
@@ -1457,7 +1455,7 @@ Our red-eye kind keeps to the flowers. The big-eye kind chase us.
 
 We see only moving shadows.
 
-We dart. We escape. Some grabbed. Some captured. Crunch. 
+We dart. We escape. We dart. Some captured. Crunch. 
 
 We fly. We feed. We mate.
 
@@ -1470,6 +1468,10 @@ More red-eye pollinators. More flowers. More big-eyed shadows follow.
 Two broods hatch. More eggs crack.
 
 ### Dinosaurs
+
+<!-- The production and transfer of energy. The life of a calorie. Reciprocation by design. -->
+
+Grass grows.
 
 Large predator walks. Ground shakes. Herd seen. Hide. Down wind. They cannot see. They cannot smell. Look.
 
@@ -3364,7 +3366,6 @@ He drops his pencil. Extends his hand.
 ### Last Call
 
 <!-- Integrate interludes into vignettes. a modern call for help. -->
-
 
 ## Chapter 13-Epilogue
 
