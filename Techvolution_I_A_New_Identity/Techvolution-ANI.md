@@ -1293,9 +1293,9 @@ Humans play the Game of Life. Most of the time we play it with tools, but that i
 
 Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances.
 
-The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. For every player entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to assemble matter into new creatures, nests, fruit, and now even into tools. Each new assembly is a unique variation. Like the peppered moth going from light to dark to light again, sometimes their combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. 
+The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to assemble matter into new creatures, nests, fruit, and tools. Each new assembly is a unique variation. Like the peppered moth becoming lighter/darker/lighter, sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. 
 
-Natural selection finds the forms that best read the environment's patterns—when rain comes, sunlight returns—and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest resources efficiently enough to keep building matter into life faster than entropy tears everything down.
+Natural selection finds the forms that best read the environment's patterns—when rain comes, sunlight returns, what color trees are—and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
@@ -1303,13 +1303,13 @@ Our game is different because of our minds. We have mythological, philosophical,
 
 How to tell which is which?
 
-Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the patterns like when fruit ripens or what smoke means survive to play again.
+Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the environmental patterns best, like when fruit ripens or what smoke means, survive to play again.
 
-This chapter is not a story to enjoy. You may like narratives, statistics, and entertaining heroes. But entropy does not care. So life cannot care. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt—to keep the good and fix the bad.
+This chapter is not a story to enjoy. You may like narratives, statistics, and entertaining heroes. But entropy does not care. So life cannot care. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt—to avoid the bad and use the good to grow life.
 
-In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see and framework you meet and ask: does it read the world clearly and earn its place?
+In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world clearly and earn its place on the gameboard?
 
-Notice, the winners are not always the largest or the smallest, the weakest or most powerful. But always those who can keep contributing to their ecosystem. Flip the page and hold this eternal truth as you read each word.
+Notice, the winners are not always the largest or the smallest, the weakest or most powerful. But always those help harvest energy for their ecosystem. Flip the page and hold this eternal truth as you read each word.
 
 Build fast. Good.
 
@@ -3380,19 +3380,19 @@ https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
 
 ### Epilogue
 
-The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, definitely not here. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
+The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
 
-Natural selection picks whoever builds faster and contributes more to their ecosystem. You can be motivated by and identify as anything you think best. Some animals love their offspring, some simply follow instinct. But the only way to communicate value to natural selection is building material adaptations.
+Natural selection picks whoever builds faster and contributes energy to their ecosystem. You can be motivated by and identify as anything you think best. Some animals love their offspring, some simply follow instinct. But the only way to communicate value to natural selection is building material adaptations.
 
-I only came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the traits he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem that selects tools.
+I only came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the traits he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem harvests energy by selecting tools.
 
-This observation was always there to be realized, like universal gravitation or bacteria in a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
+This observation was always there to be realized, like universal gravitation or bacteria infecting a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
 
 New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than make and share tools with their members.
 
-Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a new civilization is never the hardest part. It's evolving one without conflict that's proven so hard for us.
+Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hard part. It's evolving one without conflict that's proven so hard for us.
 
-None of this means abandoning your identities or communities. I practice cultural dance, cheer loudly for my country, believe in a religion. But I do those for the same reason I exercise: each can feed those relics that still fulfill a human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit and that others operate.
+None of this means abandoning your identities or communities. I practice cultural dance, cheer loudly for my country, believe in a religion. But I do those for the same reason I exercise: trying to feed those relics that still fulfill a good human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit and that others operate.
 
 I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what software I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims with my memory and my words, and not mountains of paperwork on aging software inside a society that finds it increasingly hard to build things quickly.
 
@@ -3408,23 +3408,25 @@ We aren't doing that fast enough.
 
 As a result, we're perhaps facing an extinction event. A time so bad nobody wins. Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
 
-We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and someone has to cross and reimagine a new giving tree with the tools we have.
+We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertilze soil, someone has to cross the dangerous waters and plant a new giving tree with the tools we have.
 
-It's hard. It's full of failure, natural and artificial, because no one has been here before.
+Reimaginig society is hard. It's full of failure, natural and artificial, because no one has been here before.
 
-Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world—the open-source makers have already evolved free tools for anyone to use. That's the fertile soil in which you can grow.
+Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world—the open-source makers have already evolved so many wondrous free tools for anyone to get started. That's the fertile soil in which you can grow.
 
-Adapting to a new gameboard is where life lives.
+After all, adapting to a new gameboard is where life lives.
 
-Yet instead of crossing today, many demand others keep using the dying tools they depend on. Charles, looking for the words that'll make someone call him king. Soviet clerks, sure their slogans feed society. Each an example of artificial selection at its worst—making up a story to justify strangling the better tool so the old one survives just a little while longer.
+Yet instead of crossing today, many demand others keep using the dying tools they depend on. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Each an example of artificial selection at its worst—making up a story to justify strangling the better tool so the old one survives just a little while longer even if entropy catches up to those on dying soil.
 
-We feel the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, then the rest of us can be honest that each job and title we have is connected to a toolset, with a lifecycle, and when our tools age it's perhaps time to pass the torch.
+Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for the us to be honest that each job and title we have is connected to a toolset, with a lifecycle, and when our tools age it's perhaps time to pass the torch.
 
-You don't have to do this alone. Every person can contribute by tending the problems in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our environment faster. Healthy ecosystems need all types. And they follow simple rules to great effect. So can we.
+You don't have transform society by yourself. Per nature, person contributes best by better harvesting energy in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our local environment faster. And healthy ecosystems need all types, from body sizes to abilities, interests and motivations, so there's no need to wait on anyone else.
 
-This book isn't meant to redefine politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, and get far more detailed on how to institute the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Only then is it easy to see no one can play the game for you. It's a natural law.
+Especially since ecosystems thrive when members follow this simple rule.
 
-This is the best book I could write to show it to you. You exist in a unique moment in time and space. It came with certain beliefs and culture, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Make many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Repeat.
+This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Only then is it easy to see no one can play the game for you. It's a natural law.
+
+This is the best book I could write to show it to you. You exist in a unique moment in time and space. It came with certain beliefs and culture, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Convert energy into many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Repeat.
 
 In short, cure the bell.
 
