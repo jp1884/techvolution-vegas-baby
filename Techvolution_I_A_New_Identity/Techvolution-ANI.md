@@ -1293,7 +1293,7 @@ Humans play the Game of Life. Most of the time we play it with tools, but that i
 
 Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances.
 
-The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to assemble matter into new creatures, nests, fruit, and tools. Each new assembly is a unique variation. Like the peppered moth becoming lighter/darker/lighter, sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in a healthy ecosystem. Sometimes not. 
+The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to harvest energy and assemble matter into new creatures, nests, fruit, and tools. Each new assembly is a unique variation. Like the peppered moth becoming lighter/darker/lighter smog changed the environment, sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
 
 Natural selection finds the forms that best read the environment's patterns—when rain comes, sunlight returns, what color trees are—and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
 
@@ -1303,13 +1303,13 @@ Our game is different because of our minds. We have mythological, philosophical,
 
 How to tell which is which?
 
-Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the environmental patterns best, like when fruit ripens or what smoke means, survive to play again.
+Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the environmental patterns best, like when fruit ripens or when sunlight appears, survive to play again.
 
-This chapter is not a story to enjoy. You may like narratives, statistics, and entertaining heroes. But entropy does not care. So life cannot care. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt—to avoid the bad and use the good to grow life.
+This chapter is not a story to enjoy. You may like narratives, statistics, and entertaining heroes. But entropy does not care. So life cannot care. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
 
 In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world clearly and earn its place on the gameboard?
 
-Notice, the winners are not always the largest or the smallest, the weakest or most powerful. But always those help harvest energy for their ecosystem. Flip the page and hold this eternal truth as you read each word.
+Notice, the winners are not always the largest or the smallest, the weakest or most powerful. But those who help harvest energy for their ecosystem. Flip the page and hold this eternal truth as you read each word.
 
 Build fast. Good.
 
@@ -1469,59 +1469,61 @@ Two broods hatch. More eggs crack.
 
 ### Dinosaurs
 
-<!-- The production and transfer of energy. The life of a calorie. Reciprocation by design. -->
+Sunlight shines. Soil has moisture. Soil has minerals. Grass turns sunlight and minerals into leaves. Grass grows tall.
 
-Grass grows.
+Grazers herd. Grass has energy. Eating. Grazing. Tall grass becomes short grass. Valleys shrink. Soil compacts. Grazers turn glucose into meat.
 
-Large predator walks. Ground shakes. Herd seen. Hide. Down wind. They cannot see. They cannot smell. Look.
+Large predator walks. Herd seen. Hide. Down wind. They cannot see. They cannot smell.
 
 Where are weak. Where are kids. There!
 
 Predator runs. Herd runs. There is weak. There is kid. Predator turns. Kid still eating. Predator runs.
 
-Kid still eating. Herd is gone. Predator reaches. Crunch. No predators near. Feast.
+Kid still eating. Herd is gone. Predator reaches. Crunch. Kid is dead. Look. No predators near. Feast. Meat has energy.
 
 Return to nest.
 
-Eggs in nest. Eggs are warm. Predator turns eggs. Smell is wrong. Predator listens. Insects near. Small furred creature is eating insects. Predator waits. Insects gone. Predator snorts. Furred creatures run to crevices.
+Eggs in nest. Eggs are warm. Predator turns eggs. Smell is wrong. Predator listens. Insects near. Small furred creature is eating insects. Predator waits. Insects gone. Predator snorts. Furred creatures run to crevices. Eggs are new energy. Protect eggs.
 
 All predator eggs hatch. Some are faster. Some are stronger.
 
 Predator kids go into forest. Predator kids must now hunt.
 
-Predator eggs hatch. Larger ones live.
+Forest trees are tall. Long-neck grazers eat. Bigger necks reach high leaves. 
 
-Trees are tall. Long-neck grazers eat. Shrubs are short. Armored grazers eat.
+Seeds drop. Taller trees live.
 
-Bigger necks reach high leaves. Bigger armor protects. Bigger tree seeds spread far. Shorter shrubs' seeds spread wide.
+Grazer eggs hatch. Taller ones live.
 
-Grazer eggs hatch. Bigger ones live. Stronger ones live.
+Seeds drop. Taller trees live.
 
-Forests grow tall. No sunlight at bottom. Tall trees fall. No small trees at bottom. Small seeds come. Forests become valleys. Grass grows. Grazers return. Flowers grow. Pollinators return.
+Forests grow tall. No sunlight at bottom. Tall trees fall. Fungus feeds. Fungus returns minerals to soil. 
 
-Young predators, grazers, big or tall, look in area, look for spots, look for food, make nest. Good spots near water. Good spots near trees. All spots taken.
+Grass seeds drop. Sunlight shines. Forests become valleys. Grass grows. Small grazers return. Flowers grow. Pollinators return. Predators return.
+
+Young predators, grazers, big or tall, look in area, look for spots. Good spots near water. Good spots near trees. All spots taken.
 
 Swimmers in water, flyers in air, walkers on land. Many eggs. Must make nest.
 
+Sunlight shines. Plants grow.
+
 Every plant has its eater. Every flower has its pollinator. Every seed has its spreader. Every eater has its hunter. Every death feeds the soil. Every life feeds another. Every spot is taken.
 
-Open land. No water. No trees. Make nest. Eggs in nest. Rain hard. Cannot leave. Rain cold. Cannot leave. Insects on eggs. Furred creatures eat insects. Leave furred creatures alone. Keep eggs warm.
+Many eggs in many nests. Many seeds in the wind.
 
 Grazer eggs hatch. Predator eggs hatch. Bigger ones live.
 
 It gets colder. It gets warmer. Forests go up. Then go down. Seas move. All the time spots are taken.
 
-Grazer eggs hatch. Predator eggs hatch.  Many live.
-
 Sky brightens. Brighter than sun.
 
-Ground rumbles. Louder than footsteps. Louder than thunder. Ground moves. Trees fall. Nests crack. Mountains shake. Air smells wrong. Smoke. Burning. Heat comes. Fire spreads. Herds run. Run where. Everywhere is burning. Nowhere is safe.
+Ground rumbles. Louder than footsteps. Louder than thunder. Ground moves. Trees fall. Mountains shake. Air smells wrong. Smoke. Burning. Heat comes. Fire spreads. Herds run. Run where. Everywhere is burning. Nowhere is safe.
 
 Sky darkens. Long-necks bellow. Pack hunters scatter. Heat. Cold. Darkness. Cannot see. Cannot breathe.
 
 Ash starts falling.
 
-Not much light. Big leaves furl. Less light. Big trees fall. Small trees grow. Long-necks cannot reach. Big grazers energy low. Big predators feast.
+Big leaves unfurl. Not much light. Big leaves wilt. Less light still. Big trees fall. Small trees grow. Long-necks cannot reach. Big grazers energy low. Big predators feast.
 
 Big grazers gone. Big predators starve.
 
@@ -1531,37 +1533,33 @@ Eggs hatch. Small ones live.
 
 Crocodiles in the water, birds in the sky, mice in the crevices, insects everywhere.
 
-More of their eggs hatch.
+More small eggs hatch.
 
-Birds in the sky. Many birds. Many wings.
+Birds in the sky. Many birds. Many wings. Eat fungus. Fungus becomes meat.
 
-Eggs hatch. Flying ones live.
+Light shines.
 
-Bird flies. Neighbor close. Pull away. Neighbor far. Pull close. Neighbor faster. Match speed. Neighbor slower. Match speed.
-
-Bird flies. Three neighbors. Always three. Watch the three. Match the three.
-
-Many bird eggs hatch.
-
-The flock rises. Flock sees many trees. Forests grow tall.
-
-Many bird eggs hatch.
+Three seeds fall.
 
 ### Ants Move
 
-Egg hatches. Larva grows. Body hardens. Legs move. Antennae touch. Scent sisters. Sisters moving. Move. Smell area. Scent dirt. Scent cold. Scent fresh air up. Move.
+Egg hatches. Larva grows. Body hardens. Legs move. Antennae touch. Scent in air. Sisters here. Sisters moving. Move. Smell area. Scent dirt. Scent cold. Scent fresh air up. Move.
 
-Grab cold soil. Move. Air stale. Move. Air fresh. Move. Air fresher. Move. Light bright. Air fresh. Ground flat. Scent follow sisters. Drop soil. Return. Grab soil. Move. Drop soil. Return. Follow sisters.
+Grab cold soil. Air stale. Move. Air fresher. Move. Light bright. Air fresh. Ground flat. Scent follow sisters. Drop soil. Return. Grab soil. Move. Drop soil. Return. Follow sisters.
 
 Chamber starts.
 
 Scent. Help. Help. Help.
 
-Move. Grab soil. Move. Grab soil. Sister is struck. Many sisters arrive. Move soil. Sister free.
+Sister is buried.
+
+Move. Grab soil. Move. Grab soil. Many sisters arrive. Move soil. Sister free.
 
 Return.
 
-Grab soil. Air stale. Move. Move. Drop soil. Move. Chamber established. Air fresh. No eggs here. Food goes here. Scent, find food.
+Grab soil. Air stale. Move. Air fresh. Drop soil. Move. Repeat.
+
+Chamber established. Air fresh. No eggs here. No energy here. Food needed. Scent, find food.
 
 Move. Up hill. Down hill. Left right. Wood found. Move up. Move. Thin wood found. Move. Leaf found. Bite. Bite. Bite. Leaf falls. Grab leaf. Move. Move to chamber.
 
@@ -1579,21 +1577,19 @@ Grab soil. Drop soil. Grab soil. Drop soil. Liquid in chamber. Make wall.
 
 Wall raised. Wall falls.
 
-Grab eggs. Carry higher. Higher. Liquid surrounds. Grip soil. Grip. Heavy pushing. Grip. No grip. Water takes. Help. Help. Help. Sister gone.
+Protect eggs. Grab eggs. Carry higher. Higher. Liquid surrounds. Grip soil. Grip. Heavy pushing. Grip. No grip. Water takes. Help. Help. Help.
 
 Liquid drains. Air dry. Soil dry.
 
-Chamber gone. Food gone. Eggs gone.
+Chamber gone. Food gone. Eggs gone. Energy gone.
 
 Move.
 
 Grab soil. Move. Drop soil. Follow sisters. Move.
 
-Chamber forms. Food goes here.
+Chamber forms. Food goes here. Need food.
 
-Move. Chamber forms. Move. Chamber forms. Move. Many chambers.
-
-Scent on the wind. Food. Follow scent. Sister ahead. Sister behind. Line moves. Leaves on ground. Many leaves on ground. Bite. Cut. Bite. Cut. Big leaves. More sisters come. Lift together. Carry together. Food to chamber. Return.
+Scent on the wind. Food. Follow scent. Sister ahead. Sister behind. Line moves. Leaves on ground. Bite. Cut. Bite. Cut. More sisters come. Lift together. Carry together. Food to chamber. Return.
 
 Return. Repeat. Return. Repeat. Dark.
 
@@ -1607,11 +1603,11 @@ Move.
 
 ### Geese Family
 
-Fly. Glide. Save energy. Flock is ahead. I call out. Lead bird tires. Pull forward. I fly first.
+Fly. Glide. Glide. We are a flock. Do not get too close. Steer in same direction. Move as one. We are a flock. Together we fly. Together we save energy. 
 
-Flap wings faster. I am first.
+I call out. Lead bird tired. Flap wings faster. 
 
-Flock is moving faster.
+Flock is moving.
 
 Look down. Look for open area. Nothing. Anyone see open area? No one sees open area. Keep flying. Air is warm. Glide. Glide. Save energy. See something.
 
@@ -1619,19 +1615,21 @@ There are big creatures. There are small trees. There is deep water.
 
 Open area. Water is near. Grass is near. Tall trees here. Good. I honk. My mate honks. We go down.
 
-Flock goes down. Mate goes down. We honk. We bow. Necks touch. We are mates.
+Flock goes down. Mate goes down. We land on grass. We honk. We bow. Necks touch. We are mates.
 
-We must find. Where to nest. We must find safe nest. Land. Look, look. Cavity is deep. No predators reach. Something in tree. Slow lizard. It is safe animal.
+Where to nest. We must find safe nest. Fly and look. Look. Cavity is deep. No predators reach. Something in tree. Slow lizard. It is safe animal.
 
-Get twig. Get grass. Put here. Put there. Get feather. Get twig. Put there... Wind. Wind rips away grass. Wind tips down feather. Guard. My mate looks. My mate guards. Get twig. Get twig. Get feather. Put here. Put there.
+Get twig. Get grass. Put here. Put there. Get feather. Get twig. Put here... Wind. Wind rips away grass. Wind rips away nest. Guard from wind. My mate guards. Get twig. Get twig. Get feather. Put here. Put hhere. Wind is gone.
 
-I lay eggs. 8 eggs. I see them. Our eggs. My mate brings food. Flies are here. Bite at flies. I sit. Warmth. I sit. He hunts. He sits. I hunt. Rain. We sit. Sun. We sit. Must turn eggs. We wait.
+Nest is ready.
+
+I lay eggs. 8 eggs. I see them. Our eggs. My mate brings food. Flies are here. Bite at flies. I sit. Warmth. I sit. He hunts. He sits. I hunt. Rain. We sit. Sunlight is hot. We sit. Must turn eggs. We wait.
 
 Cold comes. Puff up. Warm comes. Puff down.
 
 Crack. Crack. Crack. Chicks hatch. We see. We smell. Our kids. Wet. Small. Eyes open. They see us. 8 kids. Our kids.
 
-Day one. Chicks dry. Soft down. Yellow and brown. They peep. Kids here. I fly, bring food. They eat. I stay. He flies. Brings food.
+Day one. Chicks dry. Soft down. Yellow and brown. They peep. Kids here. I fly, bring food. They eat. I stay. He flies. Brings food. They eat.
 
 Night. We sit. Quiet.
 
@@ -1643,17 +1641,17 @@ Not Raven.
 
 Hawk!
 
-Rise. Panic! Spread wings. Hiss. Mate flies away. Distract. Distract. Hawk turns. Follows him. Not safe. We must leave.
+Rise. Panic! Spread wings. Hiss. Mate flies away. Distract! Distract! Hawk turns. Follows mate. Not safe. We must leave.
 
 1 kid missing.
 
-I fly to soil. Kids at edge. I call. Follow. Follow. Follow. All 7 kids jump. All with me. Our kids.
+I fly to soil. Kids at nest. I call. Follow. Follow. Follow. All 7 kids jump. All with me. Our kids.
 
 Water ahead. Walk to water. Follow. Follow. Follow. First kid in water. 2 kids in water. 3 kids in water. 4 kids in water.
 
 Water explodes.
 
-Mouth rises. Danger in water. Panic. Panic.
+Mouth rises. Danger in water. Panic! Panic!
 
 I scream. My mate is not here. I rise, wings spread, hissing. Where is danger.
 
@@ -1663,11 +1661,13 @@ I scream. My mate is not here. I rise, wings spread, hissing. Where is danger.
 
 Reeds. Reeds. Go to reeds. Hide. Quiet. Follow. Follow. Follow. 6 kids in reeds. My kids. Safe. Wait. Wait. Quiet. Wait. Safe.
 
-Walk to grass. Grass. Eat snail. Watch. Watch. Eat bug. No snail no bug. Eat grass. Look up, look left. Look right. Always look. Listen. Listen. Always listen.
+Walk to grass. We need energy. Eat grass. Eat snail. Watch. Watch. Eat bug. Eat grass. Look up, look left. Look right. Always look. Listen. Listen. Always listen.
 
-6 kids speak back. Full. Away from water. No open water. Go to reeds. Family goes to reeds. Waits.
+6 kids speak back. Kids are full of energy. Poop away from nest. Poop on grass.
 
-Cold will come. Honk is heard. My flock close. I say danger in deep water.
+Hide. Dark will come. Go to reeds. Family goes to reeds. Waits. Hide. Keep away from open water. 
+
+Honk is heard. My flock close. I say danger in deep water.
 
 ### Mammoths
 
@@ -1685,7 +1685,7 @@ All say listening. That is good.
 
 It is so hot! says Oldest Daughter. Can we go back?
 
-No. We need minerals. We can stop. Here is water. Use your trunk. Take up water. Spray on back. Just like that. This will help.
+No. We need minerals. We can stop. Here is some water. Use your trunk. Take up water. Spray on back. Just like that. This will help.
 
 Oldest Daughter is playing with wood stick. I pick up wood log. Kids come to play. They can not pick up sticks. I teach them. We play together with sticks. The family learns. My legs are tight. 
 
@@ -1701,13 +1701,13 @@ Grass will be there. Clay will be there. Others will be there. The family walks 
 
 We keep walking.
 
-Bees are many. Flower scent is stronger. Path is muddy. This is different. Keep on path. Path will take us there.
+Bees are many. Flower scent is strong. Path is muddy. This is different. Keep on path. Path will take us there.
 
 Air is so hot! says Male With Big Tusks.
 
 We can stop. Rub on trees. Fur falls off. This will help. Do like me. This will help. Trees means no sun. That is good. Trees mean no wind. That is bad. We must go.
 
-We walk the path. The trees are many.
+We walk the path.
 
 Stop! Look for danger. Listen for danger.
 
@@ -1715,19 +1715,21 @@ All look. All listen.
 
 I see no wolves. I see nothing, says Oldest Daughter.
 
-Wolves we see. We cannot see tigers. They are ghost. No huddle. It is hot. We must go. This path is good. We keep moving.
+Wolves we see. We cannot see tigers. They are ghost. No huddle. No come together. It is hot. We must go. This path is good. We keep moving.
 
-We keep moving. We keep moving. We are here!
+We keep moving. We keep moving. We are close. We are here!
 
-Everyone is happy! I will stand here. Keep watching. Have fun! Stay close! I am matriarch.
+Everyone is happy!
 
-Oldest Daughter and kids are running. The area looks different. Water is round, deep, clear. Are there predators inside? I walk. I look. I see no predators. No danger in water. You can drink Oldest Daughter! Oldest Daughter is drinking. Rest are drinking.
+I will stand here. Keep watching. Have fun! Eat good food. Eat good clay. Stay close! I am matriarch.
+
+Oldest Daughter and kids are playing. The area looks different. Water is round, deep, clear. Are there predators inside? I walk. I look. I see no predators. No danger in water. You can drink Oldest Daughter! Oldest Daughter is drinking. Rest are drinking.
 
 There are deer. There are many deer.
 
-Many flowers come early. Where is grass. Matriarch taught me grass comes with flowers. But grass is late. That is different. I will yell. Mammoths are here!
+Many flowers come early. Where is tall grass. Matriarch taught me tall grass comes with flowers. But grass is late. That is different. I will yell. Mammoths are here!
 
-Deer eating trees. Other animals eating trees and grass. What are other animals. We need more grass. Where is grass.
+Deer eating trees. Other animals eating trees and short grass. What are other animals. We need more tall grass. Where is tall grass.
 
 Male With Big Tusks is done drinking. Youngest Sister is done drinking. Youngest Sister watch!
 
@@ -1741,11 +1743,11 @@ We dig inside here. We get clay. Brown stuff. We eat it. It helps energy. Try. G
 
 Water is here. Clay is here. We need both. Plants are different now. Less minerals. We must come here for clay.
 
-Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat trees. We need grass.
+Remember, bees follow flowers. Flowers follow bees. Danger animals follow us. Danger animals are ghosts. We must listen. Deer eat trees. We need tall grass.
 
 I see ghost! I see tiger! says Youngest Sister.
 
-Together! Together! Family come together. Kids in center! Tusks outside. We safe! Watch Oldest Daughter. We stay. We always stay together. Watch kids. Watch Oldest Daughter. I see no tiger!
+Together! Together! Family come together. Kids in center! Tusks outside. We safe! Watch Oldest Daughter. We stay. We stay together. Watch kids. Watch Oldest Daughter. I see no tiger!
 
 Male With Big Tusks to front!
 
@@ -1759,25 +1761,25 @@ Three mammoths fall.
 
 ### Giving Tree
 
-Light is high. The foraging party left at dawn. Far from our home. Far from the river.
+Light is high. The foraging party left nine days ago. Far from our home. Far from the river.
 
 I stay with Mother, learning.
 
-"Scrape this way," she says, showing me the deer hide stretched on the frame. "See? Gentle. Hide tears if you push too hard. Do it right. We cannot waste one."
+"Scrape this way," she says, as she cleans the deer hide stretched on the frame. "See? Gentle. Hide tears if you push too hard. Do it right. We cannot waste one skin."
 
-I try. The stone scraper is sharp. Bits of flesh come off.
+I try. The stone scraper is sharp. Bits of deer flesh come off.
 
 "Good, Kai. Now here. This part has fat. Remove."
 
-I scrape where she points. My arms hurt but I keep working. I hear whimpering. A puppy wants the scrapes. I throw some fat to it.
+I scrape where she points. My arms hurt but I keep working. I hear whimpering. A puppy wants the fat I'm cleaning. I throw some fat to it.
 
 Mother looks at the hides on the frames. Then at the sky. "Six finished. Eight to go. The frost will not wait for us." She returns to crushing nuts on the stone.
 
 "Where do they go?" I ask.
 
-"To gather precious fruit. Focus. Cold is coming. The little ones need furs. The sick need Giving Tree fruit." Her eyes go to the tree line. She looks, then back to her grinding stone.
+"To gather precious fruit. Focus. Cold is coming. The little ones need furs to keep warm. The sick need Giving Tree fruit." Her eyes look at the tree line. No one is there. She returns to her grinding stone.
 
-"Why the sick?"
+"Why do the sick need Giving Tree fruit?"
 
 "Their wounds close faster. We have learned this."
 
@@ -1789,39 +1791,39 @@ She does not look up from the stone.
 
 "When will I go?"
 
-"If you live, you will go. We need these hides to live."
+"If you live, you will go. We need food to have energy. We need hides to save energy and live."
 
-Across the camp, the other mothers and kids work too. Strips of meat sit on drying racks. Roots are bunched together. So much fish is on smoking frames. The children who can walk carry. The children who can sit, sort.
+Across the camp, the other mothers and kids work too. Strips of meat sit on drying racks. Roots are bunched together. So much fish is on smoking frames. The children who can walk, carry supplies. The children who can sit, sort supplies.
 
-I want to ask more, but Mother is done grinding and is now at the woodpile. I continue using the flint scraper to clean this hide. I throw the puppy some fat. I try not to look at the 14 waiting for me.
+I want to ask more, but Mother is done grinding and is now at the woodpile. I continue using the flint scraper to clean this hide. I throw the puppy some fat. I try not to look at the eight hides waiting for me to clean.
 
-She is gathering wood. I already know how to stack them. "Small sticks first," she taught. "They catch fast. Then bigger wood. Fire needs both." I can't start a fire very fast.
+She is gathering wood. I already know how to stack them. "Small sticks first," she taught. "They catch fast. Then bigger wood. Fire needs both." I can't start a fire very fast. I need to learn.
 
 She uses flint axe to chop more pieces. I watch her. She loves me. I love her. She teaches me. How to cook food. How to use tools. How to care for wounds. I want to know about the Giving Tree.
 
-But I keep working. 13 hides to go. 2 hides per day.
+But I keep working. Eight hides to go. Two hides per day. Maybe one because I'm slow.
 
 Scrape. Scrape. Scrape.
 
-12 hides to go.
+Seven hides to go.
 
 Voices! Mother calls "They're back!"
 
 I run to see. Puppy follows me.
 
-Our people emerge from the trees, baskets heavy with food. Children rush to greet them. I see Raya, Uncle, River Woman. 18 warriors. Four dogs. All safe.
+Our people emerge from the trees, baskets heavy with food. Children rush to greet them. I see Raya, Uncle, River Woman. 18 of our people return. Four dogs. All safe.
 
-Mother breathes out. "All of them came back." She wipes her hands and goes to count the baskets.
+Mother breathes out. "All of them came back." She wipes her tears.
 
 Raya sets down her basket and spear. "So much fruit! Giving Tree was full this season."
 
-Some warriors go to the wounded. Even with loose teeth, bleeding mouths, wounds open, they smile at seeing the Giving Tree fruit.
+Some warriors go to the wounded. Each has loose teeth, bleeding mouths, wounds open. They smile at seeing the Giving Tree fruit.
 
 "How was the battle?" the wounded ask.
 
-"No battle. They saw us. Throw their spears. Some wounded. We run at them. They fled. Scared of our warrior spirit!" Raya smiles.
+"No battle. They saw us. We show our spears. We have more numbers. We run at them. They fled. Scared of our warrior spirit!" Raya smiles.
 
-I stare at the baskets. Giving Tree fruit. Marula. Fig. Mushrooms. Roots. More than I have seen.
+I stare at the baskets. There is much Giving Tree fruit. Marula. Fig. Mushrooms. Roots.
 
 We gather around the fire. Everyone talks at once. I listen while I carry more wood, but I can't understand much. I want to ask questions but I help Mother instead.
 
@@ -1833,13 +1835,11 @@ While we cook, I hear more.
 
 "The deer were eating Giving Tree fruit. They were close," Uncle says. "But we had full baskets already. Maybe we return."
 
-Everyone does their job. The foraging group cleans their clothes and tools. We cook the food. We discard the fruit husks, skins, seeds. No good. Cannot eat.
+Everyone does their job. The foraging group cleans their clothes, tools, weapons. We cook the food. We discard the fruit husks, skins, seeds. No good. Cannot eat.
 
 We feed the dogs the edible remains.
 
-Children prepare the eating area.
-
-Soon we sit. Then the stories start.
+Children prepare the eating area. We sit all together. Then the stories start.
 
 I can't help it. I blurt out: "Where is Giving Tree?"
 
@@ -1853,13 +1853,13 @@ Sacred means special. Protected.
 
 We eat. The wounded eat first. Giving Tree fruit will heal them.
 
-Roots soft from the coals. Sweet fruit. Warm fish. Honey that drips. My belly is full. Night comes. Stars appear. Elder calls the children close.
+Roots soft from the cooking. Sweet fruit. Warm fish. Honey that drips. My belly is full. Night comes. Stars appear. Elder calls the children close.
 
 "Long ago," Elder begins, "when First People walked, the sky was empty. No stars. Only darkness. First People were lost. Hunter was brave. He climbed the highest mountain and called to Sky: We are lost. Give us light. Sky heard. Sky threw fire into darkness. Fire became stars. Hunter found his way home."
 
 Elder points upward. "Now we watch stars. When Hunter-Star rises here"—he traces the shape—"cold is coming. We must gather, prepare.
 
-"When Deer-Stars run low, fruit comes. Like today.
+"When Deer-Stars run low, fruit comes. Like today."
 
 Elder looks at us. "When does Hunter-Star rise?"
 
@@ -1873,31 +1873,45 @@ Elder looks at us. "When does Hunter-Star rise?"
 
 I look at the stars. They have names. They teach us things.
 
-Then the Hunter-Star rose, the stories told us cold season was near. Our hides kept us warm. Our dried food kept us fed. The Giving Tree fruit saved four warriors.
+When the Hunter-Star rose, the stories told us cold season was near. Our hides kept us warm. Our dried food kept us fed. The Giving Tree fruit saved four warriors.
 
 Seasons passed. Family passed. Friends passed. I survived. I grew strong.
 
-When the Hunter-Star fell, warm returned. Deer-Star came. I went with the foraging party. 12 warriors, five dogs. We walk. Walk.
+When the Deer-Star came this time. I went with the foraging party. 12 warriors, five dogs.
 
-We see the Giving Tree. No enemy there. No one there. No one waiting. Giving Tree looks sick. Leaves are few. 
+We walk. And walk.
 
-We see some fruit. Open them up. Ants. Rotten. There's no fruit. No baobabs. No deer feeding.
+We camp to rest. We eat our provisions.
 
-The Giving Tree is dead! I hit it with my spear. Again. Then someone stops me. All together we kneel to the tree. We pray to the gods for another. Because there is nothing to eat here.
+We walk. And walk.
 
-Keep moving or go back? We need to find Giving Tree fruit or we get sick.
+Then we see the Giving Tree. No enemy there. No one there. No one waiting. We will get the fruit this year!
 
-We keep going. We follow a valley towards the Deer-Star. We keep walking. We gather roots. We gather reeds. Many baskets are still empty. Cold. Hunger. Thirst. 11 warriors remain. Two dogs left. We have enough furs to stay warm.
+Giving Tree looks sick. Leaves are few. 
+
+We see some fruit. Open them up. Ants. Rotten. There's no fruit. No baobabs.
+
+There is no deer here.
+
+The Giving Tree is dead! I hit it with my spear. Again. Then someone stops me. All together we kneel to the tree. We pray to the gods for another. We need to pray. Because there is nothing to eat here.
+
+Keep moving or go back? We need to find Giving Tree fruit or we get sick. If we get sick, we don't have energy to stay warm.
+
+We keep going. We follow a valley towards the Deer-Star. We keep walking. We gather roots. We gather reeds. Many baskets are still empty. Cold. Hunger. There is nothing to hunt. Where are we?
+
+Thirst. 11 warriors remain. Two dogs left. We have enough furs to stay warm. We have no more provisions.
 
 We keep walking. See new places. We follow the Deer-Star.
 
 Keep moving. More hunger. It's so hot. We remove furs. We sweat. Keep moving. We need food.
 
-There is nothing to eat here. We must turn sideways from the Deer-Star.
+There is nothing to eat here. We turn sideways from the Deer-Star.
 
 Keep moving. 
 
-Find fruit. Can't eat. Where are we. I want to go home. Keep moving. We find some fruit. Enough to keep going. Move. We keep moving. Thirst. Where is river. Water. Some water. Many nuts. We must share. Why must I share. Why must I share!
+Find fruit. Can't eat. Where are we. I want to go home. Keep moving. We find some fruit. Enough to keep going. Move. We keep moving. Thirst. Where is river. Water. Some water. Many nuts. We must share. We must share?
+
+Why must I share. Why must I share!
 
 "You are not the most sick."
 
@@ -1905,11 +1919,11 @@ Find fruit. Can't eat. Where are we. I want to go home. Keep moving. We find som
 
 I understand.
 
-We keep moving. Up the valley. Some water. Some green. More water. More green. Trees. Fruit. We find fruit. River. Deer. We smile to each other. It was good to move away from Deer-Star.
+We keep moving. Up the valley. Some water. Some green. More water. More green. Trees. Fruit. Tall grass. Short grass. Many trees. We find fruit. River. Deer. We smile to each other. It was good to move away from Deer-Star.
 
-There is much fruit. Much water.
+There is much food. Much water.
 
-Is this new home?
+Is this new foraging grounds?
 
 Then we see something new. We see people. Different people.
 
@@ -1925,8 +1939,6 @@ I hug my empty basket.
 
 And then I see three seeds fall.
 
-
-
 ### The Power of Signs
 
 The taro plants need water. I carry the gourd from the stream, pouring carefully around each root as my mother taught me. I pass friends making baskets, feeding pigs, collecting water. This land feeds us because we work it together.
@@ -1939,7 +1951,7 @@ As the sun sets, an Elder sits beside me.
 
 "How will they get there?" I ask.
 
-"You should say, 'how will we get there.' They, I, go nowhere alone. We can go anywhere."
+"You should say, 'how will we get there.' They, I, are alone and go nowhere...We can go anywhere."
 
 The Elder looks up at the night sky. "What do you see?"
 
@@ -1949,59 +1961,73 @@ The Elder looks up at the night sky. "What do you see?"
 
 "I know when the rains will come."
 
-"As you should. There is more to know. Tāwhirimātea placed the stars. The Navigator reads the gods' signs. That is how we got here. That is how we will get there. Listen to the gods."
+"As you should. You read Rongo signs to know which movements mean the waters will fall. But there is more for us to know, remember, pass on. How did we get here to plant energy rich food right before the rains come?"
 
-I notice the Elder's voice deepens as he says, "In the time of the seventh Navigator, when the fish grew few for our many people, the Chief asked the priests to read the sky. They read the signs of Tāne—birds flying beyond the horizon, stars positioned to show when land waits beyond sight.
+I look blankly.
+
+The Elder stares at me, smiles, says with slow speech, "You always must believe in the signs. In the time of the seventh Navigator, when the fish were too few for our ancient people, the Chief asked the priests to read the signs. They read the signs of Tāne, who showed birds flying beyond the horizon to show when land waits beyond sight.
 
 The gods were calling us to voyage.
 
-We built twelve canoes according to the patterns the gods revealed in the first days. Each held twenty—planters who, like you, read Rongo's signs, fishers who honored Tangaroa's tapu, builders who understood Tāne's gifts of wood.
+We sent our scouts. In small ships they track the birds far into the ocean. Navigators reading the stars to map our voyage as far as they could. 
+
+Meanwhile, we built twelve canoes according to the patterns the gods revealed in the first days. Each held twenty of us. Some planters who, like you, read Rongo's signs, fishers who honored Tangaroa's tapu, builders who understood Tāne's gifts of hard and soft woods.
 
 The Navigator carried the red arrow his father's father's father carved. Seven white shells bound to its shaft—one for each Navigator in his line, each voyage that brought us here, island by island. Seven generations. Seven new homes found.
 
 We paddled into the endless ocean. For sixteen days we saw nothing but water and sky. Ocean. Sun. Waves. Ocean. Sun. Waves. Heat. Thirst. Hunger.
 
+Ocean. Sun. Waves. Thirst. Hunger.
+
 The Navigator read the gods' signs each night—stars, currents, wind from the north.
 
 On the seventeenth morning, we saw land.
 
-The Fire-Keeper pulled herself onto the beach—and found people already there.
+Weak, tired, dazed we leapt from the boats onto the sand.
 
-The Navigator had passed on the water. Our warriors held their spears, waiting for the battle.
+The Fire-Keeper pulled herself onto the beach, ready to start the fire that would give us fresh water to drink.
 
-We chanted our lineage. An old woman answered, naming ancestors we knew. Cousins.
+People were already there.
+
+Our warriors held their spears, waiting for the battle.
+
+We had no chance. No gods can save the dead.
+
+We chanted our lineage. An old woman answered, naming ancestors we knew. We had met cousins.
 
 We made peace.
 
-We showed them our black stone blades, sharper than theirs. "From the mountain island," we said. The old woman's people leaned close to see. "We give fish for stone, stone for shells, shells for taro. Each island holds what the others do not. When we trade, no one goes hungry."
+We showed them our black stone blades, sharper than theirs. "From the mountain island," we said. The old woman's people leaned close to see. "We gave fish for stone, shells for taro. Each island holds what the others do not. We told them where our home island was. Gave them our families' names. When we trade, no one goes hungry."
 
-Cousins became friends. We moved on. Found a new island.
+Cousins became friends. The island was small. Too small for us to stay. We stayed enough to get strong again.
 
-Built shelters, planted the taro, fished the waters. We raised the red arrow on stones, honoring the gods who carried us.
+Then we moved on. Found a new island.
 
-"This wisdom is yours now," he says. "You plant our food here. Someday, you may follow the lights and go out to plant new lands in new places. The gods give us the signs. We need only read them, trust the path, and go from land to land, island to island. Our people will see the whole world."
+Built shelters, planted the taro, fished the waters. We raised the red arrow on new stones, honoring the gods who carried us. Now we trade with all islands. Now we're always strong.
+
+"Because we believed in the gods' signs." he says. "You plant our food here. Someday, you may follow the birds and lights and go out to plant new lands in new places. The gods give us the signs. We need only read them, trust the path, and go from land to land, island to island. Our people will see the whole world."
 
 I look down at the beach where the canoes are nearly ready. Then back at the taro fields I watered today.
 
 "The taro I planted," I say slowly. "It came from that voyage?"
 
-The Elder says, "Rongo blessed the first planting. Every seed since carries that blessing. When we work together."
+The Elder says, "Rongo blessed the first planting. Every seed since carries that blessing. When we work together. Everyone eats."
 
 "Will there be an eighth shell?" I ask.
 
 The Elder smiles. "If the gods will it."
 
-The shipbuilders walk up from the beach. I want to ask if they will take my plants.
+The shipbuilders walk up from the beach. They are so large and strong. Long hair is wet with sweat. Hands rough from wood and rope work. I want to ask if they will take my plants. I am too shy around these men.
 
-But they stop. Then bow to the Elder.
+But they stop in front of us. Then bow to the Elder.
 
-The Elder looks down, raises a hand, and stands. "May the gods bless our voyage," he says. Then he goes down the shore alone.
+The Elder looks down, raises a hand, and stands. He is shy but says, "May the gods bless our voyage." Then he walks down the shore. The shipbuilders watch him.
 
 "Why did you bow?" I ask.
 
-An old builder watches him go. "We were lost on the water. Sun. Waves. Thirst. Fighting. Hunger. He was a fisher. When the Navigator passed, he kept us calm. He kept us together. He brought us to the island. Then our cousins met us with spears. We made ready to die. He was still. He walked to them. He spoke their grandfathers' names. We saw the blood we shared. He showed them our hard blades. There, enemies became kin. Then he filled our baskets again. Healed the sick. Read the gods' signs. Found this new island. He could have made us serve him. Instead he became a fisher again, happy to tend his nets."
+An old builder looks at me. "We were lost on the water. Sun. Waves. Thirst. Fighting. Hunger. Lost at sea...He was a fisher. When the Navigator passed, he kept us calm. He kept us together. He brought us to the island. Then our hungry cousins met us with spears. We made ready to die. He was still. He walked to them. He spoke their grandfathers' names. We saw the blood we shared. Enemies became kin. Our baskets filled. Our sick healed. He read the gods' signs. Found this new island. We had nothing again. He could have made himself master. Instead he offered only advice. He became a fisher again, happy to tend his nets."
 
-Another builder says, quietly, "Do not tell him. But he is our king."
+A young builder says, quietly, "We leave soon. We will honor our people. We do not tell him. But he is our king."
 
 ### The Limits of Signs
 
@@ -2009,23 +2035,23 @@ The merchant ship rounds the headland at dawn. I've sailed from Phasis, Sinope, 
 
 But as we approach the Lindos harbor, I see something is wrong.
 
-Half the town is gone. Where warehouses stood, there is only rubble. Fishing boats lie shattered far up the beach. People move through debris, placing scraps on carts.
+Half the town is gone. Where warehouses stood, there is only rubble. Fishing boats lie shattered far up the beach. People move through debris, placing scraps of wood and stone on carts.
 
 We anchor offshore. I row in with my first mate.
 
-We walk the shore together. Rubble, ruins, decay are everywhere.
+We walk the shore together. Rubble, ruins, rotten foodstuffs are everywhere.
 
-But we are Greeks. We work. We build.
+But we are Greeks. We work. We build. We are moving already. I am proud.
 
 I see a compatriot and his family. They search the rubble. Sort it into piles. Making use of it. He is happy.
 
-Another Greek can't help but comment on the sight, "We call him Raven. He keeps everything he touches. Now that we have nothing, he will make a bundle."
+Another Greek can't help but comment on the sight, "We call him Raven. He keeps everything he touches in the hills. Now that we have nothing, he will make a bundle."
 
 "Good for him." I reply.
 
 We walk on. An old woman sits beside temple ruins, sobbing.
 
-"What happened?" I ask.
+"What happened to your city?" I ask.
 
 "Poseidon," she says. "The earth-shaker's wrath."
 
@@ -2037,7 +2063,7 @@ I look at the destruction. My cargo is worthless here—no warehouses, no mercha
 
 "Why was Poseidon angry?"
 
-"The priests say we failed to sacrifice. The oracle at Delphi has been consulted."
+"The oracle at Delphi has been consulted."
 
 By midday, a priest arrives. The survivors gather in what remains of the agora.
 
@@ -2045,7 +2071,7 @@ By midday, a priest arrives. The survivors gather in what remains of the agora.
 
 An old man steps forward. "We've given what we could—"
 
-"The god demands more," the priest interrupts. "When Odysseus angered Poseidon, the god hounded him for ten years. When the Phaeacians helped him, Poseidon turned their ship to stone." He raises his voice. "We will rebuild the temple twice as large. We will sacrifice six bulls at each festival. We will carve his image from marble, not wood."
+"The god demands more," the priest interrupts. "When Odysseus angered Poseidon, the god hounded him for ten years. When the Phaeacians helped him, Poseidon turned their ship to stone." He raises his voice. "We will rebuild the temple twice as large. We will sacrifice six bulls at each festival. We will carve Poseidon into marble."
 
 Murmurs of agreement. A woman weeps with relief—finally, an answer.
 
@@ -2059,25 +2085,23 @@ The priest stiffens. "You dare question the divine signs?"
 
 "I would never question the gods' power. I only observe: Every time a wave like this comes, the earth shakes first. Then the water pulls back. Then the wave. In Miletus, in Phocaea, here today. Always the same pattern."
 
-"Yes," the priest says sharply. "The earth-shaker announces his wrath through the land before he strikes with water. The pattern is Poseidon's anger. You describe how the god acts, not whether he acts."
+"Yes," the priest says sharply. "The earth-shaker announces his wrath through the land before he strikes with water."
 
 "Perhaps. But I learned from Babylonian star-watchers when the sun would go dark. It did. Not because I angered Apollo, but because I understood the pattern. The gods may will it—but the pattern itself can be known."
 
 The crowd murmurs, uncertain.
 
-"Build the temple. Honor the gods. I look forward to the festivals." Thales turns toward the hill. "But if anyone wishes to discuss what patterns we might observe, I'll be there."
+"Build the temple. Honor the gods. I look forward to the festivals." Thales turns toward the hill. "But if anyone wishes to discuss what patterns we might observe, I'll be up there on the hill, looking over the sea that took your city."
 
-I trade with the Raven, an Illyrian named Bato. A knife, shovels, and cloaks, for gold he's found.
+I trade with the Raven, an Illyrian named Bato. A knife, shovels, and cloaks for gold he's found.
 
-I shake his hand hard. "Rebuild. We are Greeks."
+I shake his hand hard. "Rebuild with us. We are Greeks."
 
-I show him the twenty wine flasks I leave for the community.
-
-Greeks will sort this rubble. Rebuild. Trade will return. I will move cargo port to port, and return to help civilization regrow here.
+I leave twenty wine flasks and twenty cases of grain to feed the workers. With powerful bulls, rich food, and hard work, energy Greeks will move and rebuild this city. Trade will return. I will move cargo port to port, and return to help civilization regrow here.
 
 I look back at the hill.
 
-Three people walk with Thales, the philosopher.
+Three people look over the sea, discussing what the see with Thales, the philosopher.
 
 ### Use of Reason
 
