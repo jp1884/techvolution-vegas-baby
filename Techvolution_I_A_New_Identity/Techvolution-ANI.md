@@ -1293,9 +1293,11 @@ Humans play the Game of Life. Most of the time we play it with tools, but that i
 
 Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances.
 
-The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to harvest energy and assemble matter into new creatures, nests, fruit, and tools. Each new assembly is a unique variation. Like the peppered moth becoming lighter/darker/lighter smog changed the environment, sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
+The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to harvest energy and assemble matter into new creatures, nests, fruit, tools, and numberless other adaptations.
 
-Natural selection finds the forms that best read the environment's patterns—when rain comes, sunlight returns, what color trees are—and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
+Each new assembly is a unique variation. Look at the peppered moth becoming lighter/darker/lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
+
+Natural selection is in control. It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
@@ -1305,9 +1307,9 @@ How to tell which is which?
 
 Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the environmental patterns best, like when fruit ripens or when sunlight appears, survive to play again.
 
-This chapter is not a story to enjoy. You may like narratives, statistics, and entertaining heroes. But entropy does not care. So life cannot care. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
+This chapter is not a story to enjoy. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's a reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
 
-In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world clearly and earn its place on the gameboard?
+In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world and earn its place on the gameboard?
 
 Notice, the winners are not always the largest or the smallest, the weakest or most powerful. But those who help harvest energy for their ecosystem. Flip the page and hold this eternal truth as you read each word.
 
@@ -1340,6 +1342,8 @@ Water drains. Green turns brown. Plant dies. Dryness, dust, blown into the wind.
 The seed in the crevice. Water pools in shadow. The seed absorbs. Roots emerge, pushing into the narrow gap. There is sand. Roots push deeper. There is water here—trapped water, sealed from light, sealed from evaporation.
 
 Stem extends upward. There is no light. Stem continues. There is light. Leaves unfurl. Light becomes glucose. Carbon pulls inward. Oxygen pushes outward.
+
+Sunlight is strong. Leaves grow upward.
 
 The plant needs more water. Roots drink more water. Water carries minerals. Magnesium flows upward. Iron flows upward. Nitrogen flows upward. Leaves convert light. Glucose flows downward. More roots extend. They push further into rock, widening the crevice, breaking stone into smaller pieces.
 
@@ -1687,7 +1691,7 @@ It is so hot! says Oldest Daughter. Can we go back?
 
 No. We need minerals. We can stop. Here is some water. Use your trunk. Take up water. Spray on back. Just like that. This will help.
 
-Oldest Daughter is playing with wood stick. I pick up wood log. Kids come to play. They can not pick up sticks. I teach them. We play together with sticks. The family learns. My legs are tight. 
+Oldest Daughter is playing with wood stick. I pick up wood log. Kids come to play. They cannot pick up sticks. I teach them. We play together with sticks. The family learns. My legs are tight. 
 
 I smell something different. I walk. I see bones. Old bones. These are new bones. I lift my trunk. I smell. The smell is different.
 
@@ -2105,7 +2109,7 @@ Three people look over the sea, discussing what the see with Thales, the philoso
 
 ### Use of Reason
 
-The city official arrived at dawn with his apprentice and surveyor's tools. They were taking my field for the new aqueduct.
+The city official arrived at dawn with his apprentice and surveyor's tools. They were taking my field for the new raised water channel.
 
 The official unrolled his map. "Your field follows the creek bed, curves with the road. Irregular boundary. One thousand eighty square paces. Your compensation plot is a rectangle—sixty by eighteen. Also one thousand eighty. You'll receive equivalent land near the eastern gate."
 
@@ -2115,15 +2119,15 @@ The official looked up, annoyed. "Because I've calculated it."
 
 "But how do I—"
 
-"The measurement is written here. You'll receive the deed tomorrow with compensation for lost crops." He rolled the map and walked toward the road, calling back to his apprentice to mark the corners.
+"Because God requires honest dealings. The measurement is written here. You'll receive the deed tomorrow with compensation for two years of lost crops." He rolled the map and walked toward the road, calling back to his apprentice to mark the corners.
 
-The apprentice drove stakes along my field's edge, measuring the base for the aqueduct's pillars. I watched him work, on my father's land. My grandfather's land.
+The apprentice drove stakes along my field's edge, measuring the base for the raised water channel's pillars. I watched him work, on my father's land. My grandfather's land.
 
-I asked the young apprentice when the official was out of earshot. "I can't read the mathematics. My young son cannot either. Can you help?" 
+I asked the young apprentice when the official was out of earshot. "I know the surveyor is a faithful man. But I can't read the mathematics. My young son cannot either. Can you help?" 
 
 "Yes. I can help you."
 
-The apprentice knelt and drew in the dirt. He sketched my field's irregular shape, then drew lines inside it, breaking it into triangles and rectangles.
+The apprentice knelt and drew in the dirt. He sketched my field's irregular shape, then drew lines inside it, many triangles and rectangles.
 
 "Break it into simple shapes," he said. "This triangle—base times height, then halved. This rectangle—length times width. Add the pieces."
 
@@ -2145,94 +2149,95 @@ My son and I measured the new plot with a marked rope. We paced it twice.
 
 Sixty by eighteen.
 
-My son and I made a plan. Prepare the soil. Start planting new vines on the south, trees to the north, bee hives in between. We'll be back to crop in three to four seasons.
+My son and I made a plan. Prepare the soil. Start planting new vines on the south, trees to the north, bee hives in between. We'll be back to grain crop in one season, tree crops in three to four seasons.
 
 "Faster," my son said.
 
 "How?"
 
-"We'll have constant water," my son noted correctly.
+"No more droughts. We'll have constant sunshine and water. Constant growth," my son's points make us both smile.
 
 We took the deed the next day.
 
-That year, the aqueduct brought water from the mountains. The road beside it carried carts between the harbor and city center. Between them, workers laid the foundation for a new storehouse, each corner measured square, each wall calculated to bear its load.
+That year, the raised water channel brought water from the mountains. The road beside it carried carts between the harbor and city center. Workers laid the foundation for a new storehouse, each corner measured square, each wall calculated to bear its load. We planted and sold our crop.
 
 My farm continued and a new city rose.
 
-
-
 ### Averroes - Height of Reason
 
-Water flows through carefully graded channels, the gradient so precise that it travels from mountain springs to vast irrigation fields without a single pump. The acequia—the web of channels that carries the mountain water across the dry country—spreads to the horizon, feeding orchards no rain alone could keep. The fruit pays for the land, the water, the work. So men walk the channels each morning, clearing silt, checking the fall of the water to ensure constant flow.
+Water flows through graded channels from the mountains, under hilltops and over valleys. It feeds the acequia—a web of channels that carries the mountain water across the dry country—spreads to the horizon, feeding vast orchards.
 
-In the great courtyard, two students bend over their paper sheets, each drawing a different triangle—one tall and narrow, one with sides nearly equal. A third holds an astrolabe to the afternoon sky—a disk of engraved brass, the heavens mapped in metal, by which a man can measure a star's height and read back his own place beneath it. He turns it, frowning.
+Men walk the channels, clearing silt, checking the fall of the water to ensure constant flow.
 
-The youngest sets down his reed pen. "Teacher, the *acequia*—how did the engineers know the gradient? They made water flow across the whole country without spilling, without a single pump."
+In a nearby courtyard, two students bend over their paper sheets, each drawing a different triangle. A third student holds an astrolabe to the afternoon sky—a disk of engraved brass, the heavens mapped in metal. 
 
-"Geometry." Averroes taps the paper. "What Euclid proved in Alexandria, Al-Khwarizmi made into algebra. Water falls at the same rate here as in Baghdad, as in Rome before us. If you can do the math."
+The third student turns the astrolabe, sets it down, and frowns.
+
+"Teacher, the *acequia*—how did the builders chisel the gradient so precisely? The water flow is constant."
+
+"The same geometry you learn now." Averroes taps the paper. "Water falls at the same rate here as in Baghdad, as in Rome before us. If you can do the math."
 
 "But those are Greeks and Persians," another says. "We're not them."
 
-"Mathematics needs no tongue." Averroes is quiet a moment. "What we discover in Arabic today, Christians will read in Latin tomorrow—if our work reaches them. When we copy, calculate, write it down, we keep the proof alive for the next mind. Because a man dies. A library burns. The proof must live somewhere a fire cannot reach all at once."
+"Mathematics needs no tongue." Averroes is quiet a moment. "What Euclid proved in Alexandria, Al-Khwarizmi made into algebra. What we calculate today, others will use tomorrow. Because a man dies. A library burns. If the mathematics survives, it stays alive for the next mind."
 
 He takes the astrolabe from the third student, holds it to the light.
 
-"Do you understand what this is? A captain a thousand miles from any coast he has seen, takes a star's height with this brass, opens his tables, and knows where he stands on an ocean. We turn the faithful toward Mecca anywhere we are. We tell the farmer the night the river will rise, and it rises, so he knows when to plant his crop. We say the moon will darken three years hence, on such a day, in the third hour—and three years on, on that day, in that hour, it darkens." He sets it down.
+"But mathematics is not for lessons. A captain a thousand miles from any coast he has seen, takes a star's height with this brass, opens his tables, and knows where he stands on an ocean. So he can see in the darkness." He sets it down.
 
 "We learned all this, about a sky we cannot touch, using the reason and mind God gifted us."
 
-The youngest student lifts a worn star table from the bench—Al-Battani's, copied and recopied, the ink cracked at the folds. "Then why does my father keep two star tables, Teacher? The old table and a new one. He says every few decades the numbers must be corrected, or the ships miss their harbors. If the mathematics is so perfect, why does it drift?"
+The first student lifts a worn star table from the bench—Al-Battani's, copied and recopied, the ink cracked at the folds. "Then why does my father keep two star tables, Teacher?"
 
-"Because the sky does not hold still for us, and our eyes were poorer than our grandsons' will be." Averroes does not look away from him. "The acequia silts up too. We clear it every morning. Stop clearing it a single season and the orchards are desert again. In the same way, the table is not the heavens. It is our best account of them, and an account must be kept—corrected, recopied, carried forward—or it rots like anything left untended. This is the work we do."
+"Because the sky does not hold still for us." Averroes does not look away from him. "The acequia silts up too. We clear it every morning. Stop clearing it a single season and the orchards are desert again. In the same way, the table is not the heavens. It is our best account of them, and an account must be kept—corrected, recopied, carried forward—or it rots like anything left untended. This is the work we do."
 
-The boy holds the table up against the astrolabe and the sky. "Then which is right tonight? The table says the planet should sit here." He points. "It sits there." He moves his finger a hand's width, "by this much."
+The boy asks "The table says the planet should sit here." He points. "But it sits there, a full hand difference."
 
 Averroes looks. He does not flinch from it.
 
-"Off, yes. So we mend it. Ptolemy mended it long ago—he set the planet's center off to one side, away from the earth, and let it speed up and slow as it rounds that point. The numbers come back true. The harbors are found."
+"The Philosopher Aristotle taught us the planets move in perfect circles. Ptolemy taught us to set the planet's center off to one side, away from the earth, and let it speed up and slow as it needed. When we re-calculate, the numbers come back true, and sea captains find their harbors at night."
 
-"But you taught us the spheres turn in perfect circles, because that is their nature. Aristotle proved it. Ptolemy's idea breaks the circle." The boy lowers the table, notices the flowing water outside, and asks "Outside, the water moves in the channels evenly, all the time, how can both be true?"
+"The water moves the same, always, everywhere. Why don't the planets?"
 
 Averroes is quiet a long moment.
 
-"I have turned that over for thirty years," he says at last. "Aristotle tells me what the heavens *are*: perfect, turning in true circles, for nothing less would befit them. Ptolemy tells me what they *do*—near enough to cross an ocean by. We do not yet know. So we keep working. Perhaps you will find the reason, my bright student."
+"I have turned that over for thirty years," he says at last. "The Philosopher Aristotle tells me what the heavens *are*: perfect, turning in true circles, for nothing less would befit them. Ptolemy tells me what they *do*—near enough to cross an ocean by. We do not yet know. So we keep working. Perhaps you will find the reason, my bright student."
 
 The boy smiles.
 
 "Add the correction to the table," Averroes says. "Date it. Send copies west with the next caravan, and some east. Whatever the spheres truly are, farmers must know when to plant. Harbors must keep being found."
 
-The youngest student writes the new number beside the old one, and updates the star table inside several texts.
+The third student writes the new number beside the old one, and updates the star table inside several texts.
 
 He puts one updated text on the library shelf. The others go out by horses and ships to libraries throughout the world.
 
+### Renaissance - Limits of Reason
 
-### Renaissance - Limits of Reason - Effectual Truth
-
-The woodcutter marks another oak. "Can I have this big one?"
+The woodcutter marks an oak tree. "Can I have this big one?"
 
 "No," Niccolo says. "The four smaller ones beyond it."
 
 They walk the Tuscan tree line and discuss which trees to sell, what price, when to cut them.
 
-The woodcutter pauses. "My son asks why we Italians are so weak now. The Spanish take what they want. The French march through whenever they please. The Germans threatened us when they want. His grandfather said Italians were once master of the world."
+The woodcutter pauses. "My son asks why we Italians are so weak now. The Spanish take what they want. The French march through whenever they please. The Germans threatened us without fear. His grandfather said Italians were once masters of the world."
 
 Niccolo stops walking. "Your grandfather was right. Rome ruled for centuries. Do you know how?"
 
 The woodcutter shrugs.
 
-"Not through goodness. Through knowing what works." Niccolo picks up a stick, scratches a line in the dirt. "Back then, the Germans lived in huts and walked barefoot, used hollow logs to cross rivers and raid our rich cities. So, Caesar threw a bridge across the Rhine in ten days. Marched his legions over to show the Germans what Rome could build—then burned it behind him and left. They thought our hammers were sorcery. They left Rome alone for a generation. Over a bridge. Now they raid us with the tools we gave them."
+Niccolo picks up a stick, scratches a line in the dirt. "Back then, the Germans lived in huts and walked barefoot, used hollow logs to cross rivers and raid our rich cities. So, Caesar threw a bridge across the Rhine in ten days. Marched his legions over to show the Germans what Rome could build. They thought our hammers were sorcery. They left Rome alone for generations. Over a bridge...Now they raid us with the tools we gave them."
 
-"My order's for a bridge at Certaldo." The woodcutter almost smiles. "Smaller than the Rhine, I'd think."
+"My wood order is for a bridge at Certaldo." The woodcutter almost smiles. "Smaller than the Rhine, I'd think."
 
-"Smaller. Same knowing." Niccolo gestures down the valley. "Rome held the world with it—roads, bridges, walls, the law that ran along them. All of it kept up. Repaired. Paid for in iron and work and virtue, year after year."
+Niccolo gestures down the valley. "Rome held the world together with roads, bridges, walls, the law that ran along them. All of it kept up. Repaired. Paid for in iron and work and virtue, year after year."
 
 "And now?"
 
-"Now the roads are still here. The Spanish march their armies down them. The French winter in our cities. We kept the stones and lost the men who knew how to lay and defend them." He drops the stick. "We read Aristotle and argue about virtue while foreigners hold the gates. We have the ancients' words. Not their methods."
+"The Spanish armies march on Roman roads. The French winter in our cities. We kept the stones and lost the men who knew how to lay and defend them." He drops the stick. "We read Aristotle and argue about virtue while foreigners hold the gates. We have the ancients' words. Not their work knowledge."
 
 "So what do we need?"
 
-"New modes and orders. Not what the philosophers say *should* work. What does. The effectual truth of the thing—not the dream of it."
+"New modes and orders. Not what the philosophers say *should* work. Imagined thoughts of the world. What does. The effectual truth of the thing—not the dream of it."
 
 The woodcutter nods slowly. Then: "Weren't you exiled? Tortured?"
 
@@ -2240,11 +2245,11 @@ Niccolo's shoulders drop. "Different times."
 
 "My cousin said six drops on the rope."
 
-"*Four.* And I was innocent." His voice flattens. "I didn't plot against the Medici."
+"*Four.* And I was innocent." His voice flattens. "I didn't plot against the Medici. I love Florence."
 
 "But you wrote it down. Books."
 
-"I did."
+"Everything I know."
 
 "People read them?"
 
@@ -2252,23 +2257,25 @@ A pause. "A few."
 
 "Your sons?"
 
-"Not interested in my remedies." He says it evenly. "I read and write at night."
+"Not interested in my remedies." He says it evenly. "I write at night."
 
-The woodcutter hefts his axe. "All these printed books now. My cousin says there are more in Florence than a man could read in three lifetimes. What's the point of more words? Let the stars be stars. Let the princes be princes." He turns toward the big oak again. "Can I not have that one, it's not sacred, is it?"
+The woodcutter hefts his axe. "All these printed books now. My cousin says there are more in Florence than a man could read in three lifetimes. What's the point of more words? Let the stars be stars. Let the princes be princes." He turns toward the big oak again. "Can I have that one? It's not sacred, is it?"
 
 "No." Niccolo watches him go. "I'll give it to you."
 
 The woodcutter walks to the tree.
 
-Niccolo stays where he is, talking half to the man's back. "Being at the bottom makes it easier to see the top. I've served princes. Been broken by them. Read the ancients until they answered." The axe rises. "Someone will need this. Maybe not yet."
+Niccolo stays where he is, talking half to the man's back. "Being at the bottom makes it easier to see the top. I've served princes. Been broken by them. Read the ancients until they answered." The axe rises.
 
-The blade strikes down into the strong Italian oak tree.
+"This will make a good new bridge."
 
-"They'll need that for bigger shelves," Niccolo says and then smiles. "We've barely begun to wise up."
+The blade strikes down into the strong Italian oak tree. Over and over.
+
+The tree is weakening. Niccolo says, "Bookshelves," then smiles as the falling tree crashes to the soil. "To wise up we'll need many new books."
 
 ---
 
-Printers set the type. Paper loads. The press comes down—once, a page. Again, a page. Again. The sheets stack. The books are bound, a hundred the same, then a hundred more.
+A printer sets small metal letters into rows. Loads a paper. The press comes down—once, a page. Again, a page. Again. Dozens of sheets stack. Books are bound, a hundred the same, then a hundred more.
 
 A shop on a cobbled street sets one in the window. 
 
@@ -2280,61 +2287,59 @@ A shop on a cobbled street sets one in the window.
 
 *The New Organon. Francis Bacon.*
 
+Hundreds of books sit on bookshelves in the bookstore.
+
 Three people enter.
 
 ### The Method
 
-Three candles burn on the table.
+January wind rattles against the shutters of a small farmhouse. 
 
-Outside, a January wind rattles the shutters. The merchant has stoked the fireplace high; the workshop is warm, the window cold to the touch.
+Inside three candles burn on a wood table.
 
-A boy carries a crate of several glass jars and sets them down on the table, along with small metal boxes with holes punched in the lids and a slit cut into one side of each.
+A boy carries a box of metal rods and small metal boxes with holes punched in the lids and a slit along the side.
 
-"Thanks, William," says the merchant as he places the candles inside the boxes and attaches a thin tube to each, directing air from a different source. "The slit is for the rod. Wax on the far end. We watch through the holes."
+"Thanks, William," says the merchant as he places the candles inside the metal boxes. "Watch William. The slit is for the rod. With wax on the far end, we attach the metal into the flame."
 
-"Same candles. Different air sources. This one gets air from outside—through this tube from the window. This one draws from inside the chimney, above the fire. This one just gets the room air, here by the hearth."
+"It's the same candle. But with different air sources. This one gets air from outside. This one draws from inside the chimney, above the fire. This one just gets the room air, here by the hearth."
 
-The blacksmith nods. "So we're testing the supposition that there's something *in* the air that makes fire burn."
+The blacksmith nods. "William, we're testing the supposition that there's something *in* the air that makes fire burn differently."
 
-"That's the guess."
+William responds, "That's a guess? Because we don't know what's in air?"
 
-"But we don't know what's in air?"
-
-"No. That's why we're testing different kinds."
+The merchant responds, "Correct William. That's why we're testing different environmental conditions."
 
 "And we measure which burns hottest?"
 
-"And brightest."
+"Yes. We're looking for the one most like you William."
 
-The blacksmith looks at the boy, his apprentice. "Pay attention. How do we measure hottest?"
+The blacksmith looks at the boy, his apprentice. "How do we measure hottest?"
 
-"We put an iron rod in each flame and see which heats faster. Tip resting on wax at the far end. Whichever wax melts first—hottest flame."
+"Tip resting on wax at the far end. Whichever wax melts first is the hottest flame."
 
-The merchant, blacksmith, and apprentice each light a candle. The merchant places two fingers on his wrist and begins counting his pulse aloud, slow and even, the way he has practiced.
+The merchant and blacksmith nod at the apprentice.
 
-"The chimney one is dying. Dying. Out at thirty-three beats." The blacksmith writes it down.
+Each lights a candle and places their boxed candle at this location.
 
-"Relight it," says the merchant.
+The merchant flips the sandglass.
 
-"The room-air rod is dripping wax. Forty-six beats." The merchant glances over. "William, what are you doing?"
+"The chimney one is dying. Rod wax not melting. Dead at 1/10 of glass." The blacksmith writes it down.
 
-"Window candle burning. Wax melting now—sixty-five beats."
+"The room-air rod is dripping wax. 2/10." The merchant glances over. "William, your status?"
+
+"Window candle burning. Wax melting now—4/10."
 
 "Something in chimney air *kills* fire. We already knew that," the blacksmith declares.
 
 "Or something *isn't* in it. But look—the room candle burned hotter than the window one. Both have fresh air. Why the difference?"
 
-The merchant stops, pen above paper. "Fire eats something out of the air. That's one finding. But there's another. The room air was warmer—the hearth has been burning since dawn. The window air comes in cold off the street. Warm air feeds the flame better than cold."
+The merchant stops, pen above paper. "Fire eats something out of the air. That's one finding. But there's another. The room air was warmer. The window air comes in cold off the street. Warm air feeds the flame better than cold."
 
 "Two findings at once."
 
-"Two. We have to test them apart. Next time we warm the window air in a pan before it reaches the candle. See if the difference vanishes."
+"Two. We have to test them apart. Next time we warm the window air in a pan before it reaches the candle. See what happens."
 
-"And my pulse runs faster when I'm excited," the merchant adds, frowning. "We should check it against the sand glass before we trust the count."
-
-"William, fetch the glass. And more candles."
-
-*Test 5, January. Chimney air—candle dies at thirty-three beats. Room air (warm) melts wax at forty-six. Window air (cold) at sixty-five. Pulse to be checked against glass.*
+*Test 5, January. Chimney air—candle dies at 1/10. Room air (warm) melts wax at 2/10. Window air (cold) at 4/10.*
 *Supposition: fire consumes something from air. Spent air will not support flame.*
 *Second supposition: cold air weakens the flame even when fresh. To separate the two, warm the window air before it reaches the candle.*
 
@@ -2348,15 +2353,15 @@ The blacksmith smiles at his apprentice. The merchant sets down his pen.
 
 "Lord Bacon would have liked that. The boy notices what we missed."
 
-"Add breath to the list," the merchant says. "Air from a room with many people breathing. Air over still water. Air from a cellar. Whether a mouse in a sealed jar dies the way the candle did—and whether its air then kills a flame."
+"Add breath to the list of variables," the merchant says. "Air from a room with many people breathing."
 
-"We don't know any of it," says William.
+"Now we must test more?" says William.
 
-"But we can find out."
+"We get to test more."
 
-The merchant picks up the book lying nearby. *Novum Organum*.
+The blacksmith picks up the book lying nearby. "Novum Organum! True directions concerning the interpretation of nature! We are not in the old world of the Mediterranean filled with superstitions."
 
-"He wrote that we command nature by obeying her. That the work is too great for one man, or one lifetime. That we lay the foundation, and others build."
+The merchant adds, "William, Bacon wrote that we command nature by obeying her. But that the work is too great for one man, or one lifetime. Like St. Paul's Cathedral, everyone lays bricks others build on."
 
 "By testing," says the blacksmith.
 
@@ -2364,7 +2369,11 @@ The merchant picks up the book lying nearby. *Novum Organum*.
 
 "Why?" asks the apprentice.
 
-"So others can redo our work. If we cannot reproduce our results, we have proved nothing. This will take a long time, William. Longer than us. Maybe you will finish what we begin, and your apprentice after you. Are you ready?"
+"So anyone can redo our work. If they cannot reproduce our results, we have proved nothing. This project will take a long time. It's worth doing, William."
+
+"What good will come from so much work?"
+
+The blacksmith jumps in, "Understanding what fuels fire? Imagine the metals we can make! Imagine what the new metals can fashion. Imagine William! Imagine! That is for you and your apprentice after you to build on. Are you ready?"
 
 The apprentice smiles.
 
@@ -2374,17 +2383,17 @@ Three notebooks fill with observations.
 
 ### Extinction Event
 
-I enter the Commons with soldiers behind me.
+I enter the House of Commons with soldiers behind me.
 
 This should not be necessary.
 
-Father never marched armed men into Parliament. Prior monarchs kept order without soldiers at their back. But the Five Members—Pym, Hampden, Haselrig, Holles, Strode—these Puritans have gone too far. Refused lawful authority. Stirred rebellion. They turned the realm against its own king. Now they will not grant my money to their king. Now Parliament is silent.
+Father never marched armed men into Parliament. My ancestors kept order without soldiers. But the Five Members—Pym, Hampden, Haselrig, Holles, Strode—these Puritans refused to send my money to their king. Stirred rebellion. They turned the realm against its own king. 
 
 I only want the traitorous five.
 
-I look around the chamber. It is too quiet. No one is acknowledging their king.
+I look around the Parliament. It is too quiet. No one is acknowledging their king.
 
-I approach the Speaker. "Mr. Speaker, do you see any of these persons in the House?"
+I approach the Speaker of the House. "Mr. Speaker, do you see any of these persons in the House?"
 
 He kneels. Won't look at me. "May it please Your Majesty, I have neither eyes to see nor tongue to speak in this place but as the House is pleased to direct me."
 
@@ -2392,11 +2401,11 @@ He disobeys? I am their king.
 
 "No matter, I think my eyes are as good as another's."
 
-I scan the benches. Members stare back, silent. No one points. No one speaks. No one helps their king find traitors in their midst. I am confused. Frustrated. I can't let them see it.
+I see the benches. Front, high, back. Members stare back, silent. No one points. No one speaks. No one helps their king find traitors in their midst. I am confused. Frustrated. I can't let them see it.
 
 The Five seats are empty. Someone warned them. Someone here, watching me now with blank faces.
 
-It is unjust. I am in control.
+It is unjust.
 
 "I see all my birds have flown."
 
@@ -2404,21 +2413,21 @@ I should speak more. Command them to produce the traitors.
 
 My throat tightens. The words catch.
 
-No. A king does not explain himself to subjects. The moment I justify myself I have already surrendered what they are trying to take. Kings cannot be tried by subjects. I am the Sovereign.
+No. A king does not explain himself to subjects. The moment I justify myself I have already surrendered what they are trying to take. Kings cannot be judged by subjects. I am the Sovereign.
 
-But they want the money. The army. The bridges, the buildings, the land. These artisans, craftsmen, merchants—this middling sort—they want the realm. They have the coin and will not give it any longer, and a king without coin is a realm in chaos.
+But they want the money. The army. The bridges, the buildings, the land. These artisans, craftsmen, merchants—this middling sort—they want the realm. They hold the coin and will not send it any longer, and a king without coin is a realm in chaos.
 
-I will leave with dignity. I exit the Commons. The soldiers make way.
+I will leave with dignity. The soldiers make way. I exit the House of Commons. 
 
 "Privilege! Members of the Commons are protected by Privilege!"
 
-Unholy. Keep walking.
+Unholy rabble. Ignore them. Keep walking.
 
 Outside, on London streets, the middling crowd watch from doorways and corners. Not cheering. Not bowing. Watching.
 
 My coach has stopped far away. The driver is on the ground, the rear wheel jammed against a curb. He pulls at it. A wheel is broken.
 
-My retinue gathers. The men lift the coach, work on the wheel. The crowd's attention turns to me. I see them through the bodies of my men.
+My retinue gathers. The men lift the coach, work on the wheel. The crowd's attention turns to me. I see them through the bodies of the soldiers.
 
 They watch me. I must do something.
 
@@ -2428,21 +2437,27 @@ The people are watching. Parliament is watching.
 
 "Broken things happen. Keep going. Well done. Well done."
 
-The wheel is changed. The crowd cheers. Did the driver smile at them?
+The wheel is changed. The crowd cheers. I wait to depart. Did I see the driver smile at the cheering?
 
-I enter the coach.
+As I enter the coach, "Send word for the alderman to meet us."
+
+Soldiers bow, "Your Majesty", then depart on horse.
 
 The King's Street is full. The people are many. We shall seek the surrender of the traitorous five at the Guildhall.
 
-The coach moves slowly. I watch the city.
+The coach moves slowly. I watch the city go by me.
 
-I see the realm. Our loyal subjects. Workers laying roads. Bakers making bread. Clothiers, smiths, shipwrights, masons—a whole city making itself. I have not seen most of it. I do not understand it. And yet it builds through our order. I protect men of knowledge. I fund their research. The people visit our magnificent churches to show their weekly devotion. Our ancestors turned wood forts into stone castles, castles into palaces. Kingly protection made the roads and farms and canals safe from Scots and French and rebellious lords. A strong monarch kept the realm from tearing itself apart.
+I see the realm. Our loyal subjects. Workers laying roads. Bakers making bread. Clothiers, smiths, shipwrights, masons—a whole realm making itself.
 
-We arrive at the Guildhall. This troublesome episode is near its end.
+I have not seen most of it. I do not understand it. And yet it builds through our order. I protect men of knowledge. I fund their research. The people visit our magnificent churches to show their weekly devotion.
 
-I step down. I look for the aldermen, for the men who enforce order in the City, they must be waiting to receive their King. The crowd is large. Somewhere here are my little birds.
+Together our ancestors turned wood forts into stone castles, castles into palaces. Kingly protection made the roads and farms and canals safe from Scots and French and rebellious lords. A strong monarch kept the realm from tearing itself apart.
 
-I hear "Privilege! Privilege! Privilege!" from our subjects. The traitors have fled and left their agents to cause agitation.
+We arrive at the Guildhall. The traitors are inside. This troublesome episode is near its end.
+
+I step down. I look for the aldermen who enforce order in the City, they must be waiting to receive their King. The crowd is large. Somewhere close are my little birds.
+
+"Privilege! Privilege! Privilege!" is chanted from our subjects. The traitors have fled and left their agents to cause agitation.
 
 "Shall we return to Whitehall Palace, Your Majesty?"
 
@@ -2464,17 +2479,17 @@ What do these Puritans and Presbyterians want. To challenge the Crown? To what e
 
 I am their king. Chosen by God, given the duties of God. It is in the Scriptures, laws, and customs. The faithful people know it.
 
-The coach stops at Whitehall Palace. Good. I am hungry, thirsty, and cold. I can't let our subjects see it.
+The coach stops at Whitehall Palace. This is good. I am hungry. Thirsty. Scared. Cold. 
 
-They should only see palace. It is wonderful. Hundreds of rooms. Marble ceilings. Paintings by the world's finest artists. Daily work for carpenters, masons, turners, coopers, glaziers, joiners, blacksmiths, tailors, weavers, cooks, bakers, gardeners, grooms, chandlers. A host of workers, servants, and orderlies with families housed and fed.
-
-Perhaps we should allow the middling sort to walk the palace. So they can see the Realm's magnificence and my generosity themselves.
-
-Perhaps. For now my coach door opens. A hand steadies me down. "Your Majesty."
+Be kingly. I cannot let our subjects see feelings. My coach door opens. A hand steadies me down. "Your Majesty."
 
 The magnificent gates open. The dozens of guards bow.
 
-I walk. The interior doors open ahead of me. I enter my palace.
+I am home. Walking through wonder and faith. Hundreds of rooms. Marble ceilings. Paintings by the world's finest artists. Daily work for carpenters, masons, turners, coopers, glaziers, joiners, blacksmiths, tailors, weavers, cooks, bakers, gardeners, grooms, chandlers. A host of workers, servants, and orderlies with families housed and fed.
+
+Perhaps we should allow the middling sort to walk the palace too. So they can see the Realm's magnificence and my generosity.
+
+Perhaps. For now the courtroom doors open ahead of me.
 
 "Your Majesty."
 "Your Majesty."
@@ -2519,17 +2534,19 @@ The room erupts.
 
 "The Majesty's two bodies shall be preserved."
 
-An Earl rises, hand to heart. "A bold and glorious course, Majesty. I am wholly with the Crown." All praise the wisdom of it at length.
+An Earl rises, hand to heart. "A bold and glorious course, Majesty. I am wholly with the Crown." All praise the wisdom.
 
-No one asks where the coin is. No one asks how many muster. The order does not need such questions. The order only needs to be passed down. Some are flatterers. Conflict will reveal them. I must be aware. They pledge their love in the longest words and risk nothing. Most are loyal to God.
+No one asks where the coin is. No one asks how many men-at-arms need muster. The order does not need such questions. The order only needs to be passed down. Some are flatterers. Conflict will reveal them. I must be aware. They pledge their love in the longest words and risk nothing. Most are loyal to God.
 
 I say "We will summon the militia. These two Englands will become one realm, once more. Our ancestors used sword and spear. We must use gun and cannon."
 
-Now we do as our ancestors did and prepare for war. We discover who has fought before. Who has read about Europe's ongoing wars. We assign the commands. We toast the victories to come, and our return to London.
+Now we do as our ancestors did and prepare for war.
+
+We discover which noble has fought before. Some have read about Europe's ongoing wars. These will advise the commands of the highest born. We toast the victories to come, and our impending return to London.
 
 Earl Johnson hushes the crowd's excitement. He has received a letter: "Most gracious Sovereign. Call the Banners. We shall rally at Nottingham. Your Majesty's most humble and obedient servant, Prince Rupert!"
 
-The Prince's courage in fighting with Houses Vasa and Hohenzollern against Houses Habsburg and Wittelsbachgive throughout Europe give him great renown. A burst of activity follows. Each lord speaks louder than the last, vows grander than the last. The nobles give a great many commands and dictate many letters.
+The Prince's courage in fighting with Houses Vasa and Hohenzollern against House Habsburg in Europe gives him great renown. A burst of activity follows. Each lord speaks louder than the last, vows grander than the last. The nobles give a great many commands and dictate many orders and letters.
 
 Servants do the rest. Good. The system is working.
 
@@ -2541,15 +2558,15 @@ I am their king.
 
 --
 
-The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. Some others join the merchants and craftsmen of the south and build their own army, centered on London. The country is at civil war; Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and even elections.
+The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. Some others join the merchants and craftsmen of the south and build their own army, centered on London. The country is at civil war; Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and separation of political and military leadership.
 
 Battles take place at Edgehill, Marston Moor, Naseby, and more.
 
-Sixty major engagements. 84,000 soldiers dead. Many more wounded. Four years of war. Many fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Over a hundred thousand non-combatants die. Massive disorder everywhere.
+Sixty major engagements. 84,000 soldiers dead. Many more wounded. Four years of war. Massive disorder everywhere. Many fields untilled. Homes abandoned. Roads unrepaired. Villages burned for sheltering the wrong army. Wilderness creeps back into civilization. Over a hundred thousand non-combatants die from starvation, infections, blight. 
 
 Parliament wins. Charles in prison.
 
-He secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries dwindle. Charles asks Irish Catholics to help defend his Protestant throne. Countrywide revulsion. 
+He secretly raises a new army. Now Scottish lords call their tenants from the field. Farmers follow. Ploughs left in furrows. Fields go to weed. Granaries dwindle. Charles asks Irish Catholics to help defend his Protestant throne causing countrywide revulsion. 
 
 Parliament's support swells. Their battle-hardened New Model Army readies for another war.
 
@@ -2557,11 +2574,11 @@ More battles. More dead. Same result. The king defeated.
 
 Parliament infuriated. The king (everyone still calls him that) put on trial. 135 commissioners appointed. Half refuse to attend. The angry half in control.
 
-Charles refuses to say he is innocent or guilty. The stammer that has caught his words all his life, is gone. He speaks aloud, clear and certain—not to the judges, himself, his father, or God, but to the people. "No earthly power can justly call me in question." He is right, by every law that has ever existed, at least since the Roman legions left the land.
+When asked, Charles refuses to plead innocent or guilty. The stammer that has caught his words all his life, is gone. He speaks aloud, clear and certain—not to the judges, himself, his father, or God, but to the people. "No earthly power can justly call me in question." He is right, by every law that has ever existed, at least since the Roman legions left the land.
 
 Charles declared guilty for "high treason, waging war against the realm, and betraying the trust of the people".
 
-The king held prisoner at his old home, Whitehall Palace. Once more, he looks upon his father in the magnificent mural painting, being taken to Heaven by God's angels...while a scaffold and chopping block are built outside.
+The king held prisoner at his old home, Whitehall Palace, London. Once more, he looks upon his father in the magnificent mural painting, being taken to Heaven by God's angels...while a scaffold and chopping block are built outside.
 
 The people assemble to watch.
 
@@ -2579,21 +2596,21 @@ The army argues with Parliament. Parliament argues with itself. Nobody agrees on
 
 The people remember. England is a realm, and a realm needs a king.
 
-Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. The King's murderers are hunted. The worst are executed. England exhales.
+Charles's son is declared king. Charles II rides into London. The crowds cheer. The banners go back up. The theatres reopen. Taverns swell. The King's murderers are hunted. The worst are executed. England goes back to work.
 
 Charles II leans toward the foreign faith, Catholicism, in a devoutly Protestant England. His brother James succeeds him, and wears that old faith openly.
 
 Parliament is furious. The people are scared.
 
-New Protestant monarchs, William and Mary, are installed—and paid by Parliament—in a Glorious Revolution.
+New Protestant monarchs, William and Mary from Holland, are installed—and paid by Parliament—in a Glorious Revolution. England now stays at work.
 
-Before, during, and after the bitter wars of theology in England and Europe, members from all faiths wanted out of the carnage.
+Before, during, and after the bitter wars of theology in England and Continental Europe, members from all faiths wanted out of the carnage.
 
 New soil. No king.
 
 Massachusetts. Connecticut. Rhode Island. Congregations governing themselves. Towns voting on their own affairs. A quiet experiment in self-rule seeds itself, growing in the cold northern soil.
 
-*"Separation of government powers."*
+*"Separation of military, executive, legislative, judicial powers."*
 *"Separation of church and state."*
 *"Freedom of religion."*
 *"All men are created equal..."*
@@ -2610,7 +2627,7 @@ But the seed is growing.
 
 Wren,
 
-I have been studying comet observations spanning two centuries. Newton's mathematics may reveal something extraordinary.
+I have been studying comet observations spanning two centuries. Isaac Newton's mathematics may reveal something extraordinary.
 
 Three comets appeared in 1531, 1607, and 1682. I observed the last one myself in September. The orbital elements—the path, the speed, the angle—are nearly identical for all three.
 
@@ -2630,11 +2647,13 @@ Mathematics included for your review.
 
 Gregory,
 
-Halley claims he has identified a periodic comet using Newton's gravitational laws. He predicts its return in 1758—53 years hence.
+Halley claims he has identified a periodic comet using Isaac Newton's gravitational laws. He predicts its return in 1758—53 years hence.
 
 Can you verify his orbital calculations? If he is correct, this would be the first prediction of a comet's return in history. Newton's mathematics would govern not just planets and moons, but comets as well.
 
 One law for all celestial bodies.
+
+Mathematics included for your review.
 
 —Wren
 
@@ -2662,13 +2681,13 @@ Wren,
 
 I am publishing my findings in the *Synopsis of the Astronomy of Comets*. Gregory's confirmation strengthens the case.
 
-The comet will return in 1758. The mathematics knows this before any eye can see it.
+The comet will return in 1758. The mathematics knows this before any eye can see it. 
 
-What might we accomplish with such knowledge? If we can predict a comet's return 53 years hence, what else might Newton's laws reveal?
+What might we accomplish with such knowledge? If we can predict a comet's return 53 years hence, what else might Sir Isaac Newton's laws reveal?
 
 Future astronomers will test this prediction and prove us right or wrong.
 
-That is how we learn what is true.
+I do wish I could live to see it. But I do believe it will happen.
 
 —Halley
 
@@ -2677,6 +2696,8 @@ That is how we learn what is true.
 **From Johann Georg Palitzsch, Dresden**  
 **To Royal Prussian Academy of Sciences, Berlin**  
 **25 December 1758**
+
+To whom it may concern,
 
 The comet has returned, exactly as Halley predicted.
 
@@ -2699,13 +2720,12 @@ Halley did not live to see this night. But his mathematics did.
 **29 January 1759**
 
 Newton is proven. Halley was right. See Palitzsch's confirmation below.
-One law for the heavens.
+
+One law for the Earth and the Heavens.
 
 ### Universal Laws for Life
 
 The fossil shop stands between a bookseller and a tinsmith on Lyme Regis's main street. Two men pause outside, examining the specimens in the window, then enter.
-
-"Petrified wood," Mr. Hartley says. "The stall by the harbor had petrified wood. Tree turned to stone."
 
 Mary Anning looks up from her workbench. "Looking for something in particular?"
 
@@ -2727,7 +2747,7 @@ Mr. Webb frowns. "Worlds?"
 
 "Yes."
 
-Mr. Hartley studies the vertebrae. "So these died long before humans."
+Mr. Hartley studies the vertebra. "So these died long before humans."
 
 "Long before," Mary says.
 
@@ -2741,7 +2761,7 @@ Mr. Hartley points to the coiled shell. "And nothing like this lives now?"
 
 "Nothing. I've looked. So have others."
 
-Mr. Webb exhales slowly. "So God's creation... can end?"
+Mr. Webb exhales slowly. "So you say God's creation...can end?"
 
 Mary doesn't answer.
 
@@ -2749,7 +2769,7 @@ Mary doesn't answer.
 
 Miss Anning doesn't respond. Mr. Hartley says, "How much, Miss Anning?"
 
-"Two shillings for the ammonite. Five for the vertebrae. Three for the tooth."
+"Two shillings for the ammonite. Five for the vertebra. Three for the tooth."
 
 "We'll take all three."
 
@@ -2769,11 +2789,11 @@ Mr. Hartley kneels beside a pool. A crab moves across stone, claws extended.
 
 "Similar. Older. Different species."
 
-A gull lands near the pool. Approaches the crab and strikes down and cracks the shell with its beak. Then calls into the air.
+A gull lands near the pool. It approaches the crab and strikes down and cracks the shell with its beak. Then calls into the air.
 
-Mr. Hartley watches. "We classify that gull by its beak structure, its feet, its wings. Observable traits. We don't need to hear its call or understand its thoughts."
+Mr. Hartley watches. "We classify that gull by its beak structure, its feet, its smoothness against the wind. Observable traits. We don't need to hear its call or understand its thoughts."
 
-Mary responds, "We observe what works. What works tells us about the environment. Form reveals purpose."
+Mary responds, "Everything needs to eat, shelter, procreate. We observe their features. What works tells us about the environment. Form reveals purpose."
 
 Mr. Webb unwraps the ammonite fossil. Holds it up. "This shell—it controlled buoyancy. The opening suggests tentacles. The size suggests a predator."
 
@@ -2783,13 +2803,13 @@ Mr. Hartley pauses. "Your work will make much noise at the Geological Society, M
 
 "They don't accept the poor or women as members."
 
-"I know. Regardless your work will be known there."
+"I know. Regardless, your work will be known there."
 
 Silence.
 
 Mr. Webb looks at the cliff face, as they all start to climb it.
 
-Mary says, "Careful, gentlemen. The precipice is closer than it looks."
+Mary says, "Careful, gentlemen. The ground looks settled. But it can change very quickly. And the precipice is closer than it looks."
 
 Three people dig.
 
@@ -2799,7 +2819,7 @@ This Maryland summer is so hot. We open the windows. Fill the pitchers. Dust the
 
 The house becomes disorganized.
 
-I will tidy up. I ask the nice boy to visit the store for me. I write him a shopping list.
+I will tidy up. I ask the nice boy to visit the store for me. We need potatoes, fruits, sugar, and other supplies. I write him a shopping list.
 
 "I can't read, ma'am".
 
@@ -2807,13 +2827,13 @@ I will tidy up. I ask the nice boy to visit the store for me. I write him a shop
 
 He sits beside me at the kitchen table. He is sounding out words like any child would. Eager. Bright. We stop our chores for a few hours and I teach. 
 
-It feels good to help him learn. He takes to it well.
+After weeks we have our habits. He goes to get our supplies. We tidy the home and finish our chores. Then we take lessons on reading. It feels good to help him learn. He takes to it well.
 
 My husband Hugh comes home early one day. Watches us. His face darkens.
 
 "Boy. Leave the room."
 
-I look up in surprise as the lesson ends. "Why does it end?" I ask.
+I look up in surprise as the lesson ends. "Why are you ending the lesson?" I ask.
 
 "You can't teach him to read."
 
@@ -2821,11 +2841,11 @@ I look up in surprise as the lesson ends. "Why does it end?" I ask.
 
 "That's exactly why you have to stop. We could get in trouble."
 
-He sits down. Speaks low, but firm. I did something wrong.
+My husband sits down. Speaks low, but firm. I did something wrong.
 
 "Learning will spoil him. Once a slave can read, he is no longer a slave. He has eyes outside the household. He sees what we have and don't share. He thinks. He calculates. He plans. You'll ruin him for us. And it's against the law."
 
-I say "But everyone in Ohio learns to read."
+I say, "But everyone in Ohio learns to read."
 
 "This isn't Ohio. Our property rights aren't cruel, Sophia. They're order. Without them, chaos. They do the work. We do the thinking."
 
@@ -2837,15 +2857,15 @@ I had been tidying up while Hugh talked. Why was I cleaning?
 
 I take a minute to realize it all.
 
-I close the book. I'm so stupid. He's right. Hugh knows how the world works. I'm an outsider, naive. Frederick took advantage of me. My slave took advantage of me! 
+I close the book. I'm so stupid. He's right. Hugh knows how the world works. I'm an outsider, naive. Frederick is from the South. He took advantage of me. My slave took advantage of me! 
 
-I leave the room. I look at him standing there looking at me. He was listening to us! He's so tricky. The boy looks at me. He wants help. Never!
+I leave the room. I look at him standing there. He's looking at me. He was listening to us! He's so tricky. The boy looks at me still. He wants help. Never again!
 
 I tear his lesson book up. Tear every page into pieces. Never again!
 
-He does the fetching. He does the tidying. He does the cleaning. I look over to make sure the work gets done.
+He does the fetching. He does the tidying. He does the cleaning. I look over to make sure the work gets done. That is the order of things.
 
-Years pass. The kitchen is stocked. The house is tidy and clean. I give orders. I read and write and go to parties. Everything is working.
+Years pass. The kitchen is stocked. The house is tidy and clean. I give orders. I read and write and go to parties. This is good. Everything is working.
 
 One day Frederick never comes back. I don't know how he managed to flee North. To read maps. To read schedules. He's tricky.
 
@@ -2863,29 +2883,29 @@ The North builds rifles, cannons, ironclads, railroads, telegraph lines. Their w
 
 We can fight better. We have God and justice on our side. We have cotton, metals, wood, powder. We have the brains. We have the hands.
 
-We print the manuals. Create loading drills. Make signal codes and telegraph keys. We hand them to our workers and our defenders.
+We print the manuals. Create loading drills. Make signal codes and telegraph keys. We hand them to our fighters and our workers.
 
-"To arms, boys"
+"To arms, boys".
 
-"Form up, men."
+"Form up, men".
 
-"For hearth and home."
+"For hearth and home".
 
-"I can't read, ma'am."
+"I can't read, ma'am".
 
-"I can't read, ma'am."
+"I can't read, ma'am".
 
-"I can't read, ma'am."
+"I can't read, ma'am".
 
 ### Hands On Learning
 
 I walk through the hospital one more time. It's true. The evidence is here walking, or dying, inside these walls.
 
-Doctors' ward: one in ten mothers dies of childbed fever. Midwives' ward: one in fifty.
+Doctors' ward: one in ten new mothers die of childbed fever. Midwives' ward: one in fifty.
 
-I watch the other doctors come from the autopsy room. Hands still stinking of death. They examine the mothers. Insert their fingers to check dilation. Some die three days later. Fever. Agony.
+I watch the other doctors come from the autopsy room. Hands still stinking of death. They examine the mothers. Insert their fingers to check dilation. Some mothers die three days later. Fever. Agony.
 
-I tell my fellow doctors: wash your hands. Use chlorinated lime solution. 
+I tell my fellow doctors: wash your hands with chlorinated lime solution. 
 
 "Quiet, Dr. Semmelweis, you Hungarian fool!"
 
@@ -2899,23 +2919,23 @@ They stare at me with rage.
 
 Everyone responds, "How can putting lime on our hands possibly help patients, especially the ones with open wounds who need examination most. How? We are men of science! Please tell us!"
 
-"I can't explain it. Aren't more living and fewer dead reason enough?"
+"I can't explain it. But aren't more living and fewer dead reason enough?"
 
 I'm removed from the hospital. I write letters. I beg them. The numbers are clear. 
 
 No one listens. No one washes.
 
-They commit me to an asylum. Guards beat me yesterday. My hand is bleeding. The wound is green, oozing. I feel weak.
+They commit me to an asylum. Guards beat me yesterday. My hand is bleeding. The wound is green, oozing. I feel weak. Something is wrong.
 
 Is it me? Aren't the numbers clear?
 
 ---
 
-I am a medical doctor in Scotland.
+I am a medical doctor in Scotland, Dr. Lister.
 
 I read Louis Pasteur's work on fermentation. He's in France. Yet I read his achievements within months of their publication. How wonderful. Decay of organic matter is not caused by spontaneous generation. Rather, germs in the air are the cause.
 
-Germs. Tiny little lifeforms. I guess we can't see planet details and moons until we zoom in. I guess we can't see germs either. But both are real nonetheless.
+Germs. Tiny little lifeforms. I guess we can't see the details of comets, planets, and moons until we zoom in. I guess we can't see germs either. But both are real nonetheless.
 
 If germs cause fermentation, they can cause infection.
 
@@ -2933,7 +2953,7 @@ I publish the results. Some colleagues adopt it. Others resist.
 
 Several saved. The evidence talks.
 
-It works. I've seen it work. I talk to the people who are alive because of it. Germs are small. Tiny. Carbolic acid kills these germs. Infections do not generate spontaneously. The evidence is mounting. Hospitals in Germany, in France—they're adopting antisepsis. Infection rates drop.
+It works. I've seen it work. I talk to the people who are alive because of it. Germs are small. Tiny. Carbolic acid kills these germs. Infections do not generate spontaneously. Clear air does not heal patients sickness. The evidence is mounting. Hospitals in Germany, in France—they're adopting antisepsis. Death rates are falling. Mothers are living.
 
 Dozens saved. Scientific papers are written. The evidence talks.
 
@@ -2943,17 +2963,17 @@ Hand washing spreads.
 
 President Garfield is shot.
 
-I'm the attending physician. I take charge. The bullet is lodged somewhere in his abdomen. I need to find it. I've been a surgeon for thirty years. I know wounds. I will save the president. He is a Union war hero. A good man.
+I Dr. Bliss am the attending physician. I take charge. The bullet is lodged somewhere in his abdomen. I need to find it. I've been a surgeon for thirty years. I know wounds. I will save the president. He is a Union war hero. A good man.
 
-I insert my finger into the wound. Probe for the bullet. Can't find it. Another doctor tries. Then another. We take turns. I ask the others if they agree with my methods. "We must find the bullet, Dr. Bliss," is all I hear back
+I insert my finger into the wound. Probe for the bullet. Can't find it. Another doctor tries. Then another. We take turns. I ask the others if they agree with my methods. "We must find the bullet, Dr. Bliss," is all I hear back.
 
 The president develops fever. He's in so much pain.
 
-I continue treatment. Drainage. Probing. Searching for the bullet. The bullet is causing his sickness.
+I continue treatment. Blood drainage. Finger probing. Searching for the bullet. The bullet is causing his sickness.
 
 The fever worsens. We move him to the coast to get good air.
 
-Eleven weeks of resting on the porch, talk of the war, searching for the bullet, feverish pain
+Eleven weeks of resting on the porch, talk of the war, searching for the bullet, feverish pain.
 
 He dies.
 
@@ -2973,7 +2993,7 @@ A recruiter works the crowd. I listen.
 
 This man is obnoxious. He points at the brightest sheets, presses cards into hands. "Come work. Good pay! Come work..." I don't trust him. Too much fast talk.
 
-I see my husband reading an ad. Barley planting. Farm work. He knows rice planting. I can mend textiles and men. This works.
+I see my husband reading an ad. Barley planting. Farm work. He knows rice planting. I can mend textiles, and tend the men. This works.
 
 I take the job card. "Go to Henso street, midday," it says.
 
@@ -2985,7 +3005,7 @@ My husband wakes early. He's excited. I find the other ladies. We prepare the mo
 
 As the sun rises, the farmer approaches.
 
-"Good morning"
+"Good morning."
 
 "Thank you for the work, sir," we all say.
 
@@ -3017,7 +3037,7 @@ That night the manual sits open between us. The print is English; the pictures a
 
 While he works, I learn some more English words.
 
-The second week, a new machine—a water pump. What is a water pump? The farmer needs pipes laid to carry water up the slope. While the men argue over the route, I see my husband kneel. He looks at the pump, uses wrenches and screwdrivers takes some components apart, looks at them, and then reassembles the pump easily.
+The second week, a new machine—a water pump. What is a water pump? The farmer needs pipes laid to carry water up the slope. While the men argue over the route, I see my husband kneel. He looks at the pump, uses wrenches and screwdrivers, takes some components apart, looks at them, and then reassembles the pump easily.
 
 "You. Take the pipe team," the farmer says.
 
@@ -3027,7 +3047,7 @@ My husband understands the pump well. He walks the channels each morning the way
 
 Seeds feel water. Seeds absorb, seeds crack. Roots emerge, pushing into the fresh soil. There is clay here. Roots are strong and can push deeper. There is fertilizer. There is water.
 
-Stem extends upward in the soil. There is no light. As stem break the soil there is bright sunshine. Leaves unfurl. Light becomes glucose. Carbon pulls inward. Grass grows taller.
+Stem extends upward in the soil. There is no light. As the stem break the soil there is bright sunshine. Leaves unfurl. Light becomes glucose. Carbon pulls inward. Grass grows taller.
 
 The plant needs water. There is always enough water. Roots drink. Plants need minerals. There is always enough. Magnesium, iron, nitrogen flow upwards. Glucose flows downward. More roots extend.
 
@@ -3073,17 +3093,17 @@ A new wall of paper, more job ads, the same colors. There is so much work.
 
 We find sleeping quarters. My boy plays with a wrench, hammer, and screwdriver as we prepare barley and beans with our countrymen. We are told "They don't like giving us the good jobs. But there's so much work here now, maybe they will soon."
 
-We take a few days to get settled. To understand the area. To meet people. Doors close in our face. Some faces sneer when they see my little boy. I say "Good morning, nice weather. Have a good day," which always surprises them and makes us giggle.
+We take a few days to get settled. To understand the area. To meet people. Doors close in our face. Many faces sneer when they see my little boy. I say "Good morning, nice weather. Have a good day," which always surprises them and makes us giggle.
 
 That night, as I read and my boy plays, we hear in the alley below, something moves. Its paws quick and careful, reaching inside a crate. I ask a new friend what it is.
 
 "A raccoon. Very crafty—it learns well and finds food anywhere in the city."
 
-My husband and I hide food for it. And each night it finds a way to eat. 
+My husband and I hide some food from it. And, amazingly, each night it finds a way to eat it. 
 
 We go to the job board. The others take the dangerous work they will likely get. I see the ad immediately *Pipefitters. Pressurized water fire suppression. Make San Francisco FIRE PROOF.*
 
-We go to the work tent. Full of pipes and water pumps. The foreman looks at us, asks if we have done such work.
+We go to the work tent. Full of pipes and water pumps. The foreman looks at us, says have not done such work.
 
 I tell him, "We can teach that."
 
@@ -3094,7 +3114,7 @@ My husband picks up a wrench and screwdriver, walks over to a water pump, and th
 Paul Baran
 Engineer, Drexel Institute of Technology
 
-1955. The Soviets detonate truly massive hydrogen bomb. Much of my family is still in Eastern Europe. I'm in the United States. Nuclear war must be prevented.
+1955. The Soviets detonate a truly massive hydrogen bomb. Much of my family is still in Eastern Europe. I'm in the United States. Nuclear war must be prevented.
 
 Computers are new, powerful, and advancing. I should know, I worked at Eckert-Mauchly Computer Corporation on UNIVAC models. I'm getting my masters in engineering from UCLA. I have so many resources. I have so much responsibility. I can help prevent nuclear war.
 
@@ -3110,7 +3130,7 @@ Idea! A completely distributed communication network. No centralization so infor
 
 Our phone system has physical connections. One problem in the line, a call drops. We need to make data digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. Like sending a book in postcards.
 
-If message is lost, we can send just the page needed, not the entire book. Block messages vastly increase redundancy.
+If a message is lost, we can send just the page needed, not the entire book. Block messages vastly increase redundancy.
 
 Must keep going.
 
@@ -3193,7 +3213,7 @@ We should be going.
 
 My team brings my proposal for review. A clerk slides a stack of forms across the desk. "Fill these out to request the computers. Three copies. One for Resources, one for Labor, one for us."
 
-My aides complete the forms. Return weeks later, "OGAS will make this paperwork faster." they say. 
+My aides complete the forms. Return weeks later, "OGAS will make this paperwork faster," they say. 
 
 The forms are stamped, logged, shelved beside a thousand others.
 
@@ -3207,7 +3227,7 @@ Why aren't we going.
 
 1971. The 24th Communist Party Congress is coming. OGAS is up for funding. I write a detailed proposal. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials don't understand computers, data, mathematics, or science. They only see a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their many positions and meetings.
 
-I dare not write this down. Instead I  continue to write and publish theory and equations.
+I dare not write this down. Instead I continue to write and publish theory and equations.
 
 Someone else will return to this soon.
 
@@ -3275,7 +3295,7 @@ We ignite the rocket. It lights.
 
 I tell Houston, "Please be informed, there is a Santa Claus."
 
-We will be back. After our success here, NASA already has the gears in motion. I will be back and put footsteps on the moon. Well, not footsteps of course, bootprints.
+We will be back. After our success here, NASA already has the gears in motion. I will be back and put footsteps on the moon.
 
 We are headed back home. My job is to take stellar measurements. We use them to confirm our location for the navigation computer.
 
@@ -3382,75 +3402,70 @@ He drops his pencil. Extends his hand.
 "Learn."
 
 
-<!--
-- The point of the story is that mythology, philosophy, and science were needed. Each is useful based on the problem, the sophistication of the tool being used to solve it, and its ability to reciprocate in the environment in which its needed.
-- "From now on we live in a world where man has walked on the Moon. It’s not a miracle; we just decided to go."
--->
-
 ### Last Call
 
 <!-- Integrate interludes into vignettes. a modern call for help. -->
 
 ## Chapter 13-Epilogue
 
-### Opening
-
-All crazy traits in the past because there was no wealth in the past. There was no school in the past. But if you look at the predictors today, there is a strong movement in a systematic direction. A large effect about a standard deviation on the scale of modern variation. And then we can do this trick of looking to see whether there's periods of time when this natural selection has occurred more intensely or less intensely. What we do is we drag a 2,000-year window through our data and we repeat our whole analysis not on 18,000 years but just on a short 2,000-year window. And we can measure the strength of selection in each of these 2,000-year windows. And what you see when you look at intelligence is you see that this maxes out in the Bronze Age between 5,000 4,000 3,000 2,000 years ago. And the impact in the last 2,000 years is almost  nothing. There's no evidence of natural selection at all. You might think your bias coming into this, my bias perhaps, if there's any signal of natural selection on this trait at all, might be that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years. But there's very strong evidence in between 2,000 and 4,000 years ago where instead of a one standard deviation strength of selection, it's a two standard deviation strength sort of averaged over this time period.
-
-The Bronze Age radically altered our DNA 
-Dr. David Reich, geneticist.
-May 10, 2026
-https://youtu.be/FzpEseXpwKI?si=ohUBWVGr7pT-aQNk&t=110
-
 ### Epilogue
+
+_What you see when you look at intelligence [polygenic scores predicting educational attainment] is that this maxes out in the Bronze Age, between 5,000 and 2,000 years ago. The impact in the last 2,000 years is almost nothing. There's no evidence of natural selection at all. Your bias coming into this, my bias perhaps, might be that if there's any signal of natural selection on this trait at all, that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years._
+
+Dr. David Reich
+Professor of genetics at Harvard Medical School
+Dwarkesh Podcast, May 8, 2026.
+dwarkesh.com/p/david-reich-2
+
+---
 
 The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
 
-Natural selection picks whoever builds faster and contributes energy to their ecosystem. You can be motivated by and identify as anything you think best. Some animals love their offspring, some simply follow instinct. But the only way to communicate value to natural selection is building material adaptations.
+From the grass producing the first biomatter, to grazers turning it into meat, to the predators and decomposers each doing their part; whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected. 
 
-I only came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the traits he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem harvests energy by selecting tools.
+You can be motivated by and identify as anything you think best. Some animals love their offspring while others disregard them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the gameboard. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, just know the only way to communicate value to natural selection is building material adaptations.
+
+I only came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem selecting tools.
 
 This observation was always there to be realized, like universal gravitation or bacteria infecting a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
 
-New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than make and share tools with their members.
+New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than make and share tools with their own members.
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hard part. It's evolving one without conflict that's proven so hard for us.
 
-None of this means abandoning your identities or communities. I practice cultural dance, cheer loudly for my country, believe in a religion. But I do those for the same reason I exercise: trying to feed those relics that still fulfill a good human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit and that others operate.
+None of this means abandoning your identities or communities. I practice cultural dance, cheer loudly for my country, believe in a religion. But I do those for the same reason I exercise: trying to feed those relics that still fulfill a good human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit and that others—in and outside of my community—operate.
 
-I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what software I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims with my memory and my words, and not mountains of paperwork on aging software inside a society that finds it increasingly hard to build things quickly.
+I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what software I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software inside a society that finds it increasingly hard to build things quickly.
 
-By naming the "technological giving tree" in the last vignette, I wanted to hit you with where we are: the very beginning of a technomass Earth. We are Kai—the hunter-gatherer who walked for days to find a tree he could have planted at home. It's no wonder Kai couldn't imagine agriculture; it took humans hundreds of thousands of years to learn to master biomass in such a way. We are barely two thousand years into a technological Earth.
+By naming the "technological giving tree" in the last vignette, I wanted to hit you with where we are: the very beginning of a technomass Earth. We are Kai—the hunter-gatherer who walked for days to find a tree he could have planted at home. It's no wonder Kai couldn't imagine agriculture; it took humans hundreds of thousands of years to learn to master biomass in such a way. We are a few thousand years into a technological Earth.
 
 Kai is our biological equal with a mindset just as out of date. Even so, I hope you finished the vignettes with a smile, because we're just starting the adventure. The raccoon will always scavenge the urban jungle. We can plant and harvest it instead.
 
 For now, the tree is dying.
 
-The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. Entropy is tearing down the society our ancestors built. I've handled the claims for much of it: car breakdowns, collapsed buildings, flooded basements, burned homes, blown generators, fallen bridges. No one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
+The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy but stop returning any—so entropy is tearing it down. I've handled the claims for much of it: car breakdowns, collapsed buildings, flooded basements, burned homes, blown generators, fallen bridges. No one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
 
 We aren't doing that fast enough.
 
-As a result, we're perhaps facing an extinction event. A time so bad nobody wins. Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
+As a result, we're perhaps facing an extinction event. No joke. As you've seen it happens plenty. Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were religious scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
 
-We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertilze soil, someone has to cross the dangerous waters and plant a new giving tree with the tools we have.
+We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertile soil, someone has to cross the dangerous waters and plant many new giving trees with the tools we have.
 
-Reimaginig society is hard. It's full of failure, natural and artificial, because no one has been here before.
+Reimagining society is hard. It's full of failure, natural and artificial, because no one has been here before.
 
-Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world—the open-source makers have already evolved so many wondrous free tools for anyone to get started. That's the fertile soil in which you can grow.
+Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world—the open-source makers have already evolved so many wondrous free tools for anyone to get started. That's the fertile soil in which you—where you are in the world—can grow the future.
 
 After all, adapting to a new gameboard is where life lives.
 
-Yet instead of crossing today, many demand others keep using the dying tools they depend on. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Each an example of artificial selection at its worst—making up a story to justify strangling the better tool so the old one survives just a little while longer even if entropy catches up to those on dying soil.
+Yet instead of crossing today, many with dying tools try to demand others still use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions. Each is but an example of artificial selection at its worst—making up a story to justify strangling the better tool so the old one survives just a little while longer even though entropy catches up everyone equally.
 
-Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for the us to be honest that each job and title we have is connected to a toolset, with a lifecycle, and when our tools age it's perhaps time to pass the torch.
+Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for us to be honest that each job and title we have is connected to a toolset, with a lifecycle, and when our tools age it's perhaps time to pass the torch.
 
-You don't have transform society by yourself. Per nature, person contributes best by better harvesting energy in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our local environment faster. And healthy ecosystems need all types, from body sizes to abilities, interests and motivations, so there's no need to wait on anyone else.
+You don't have to transform society by yourself. Each person contributes best by better harvesting energy in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our local environment faster. And healthy ecosystems need all types, from body sizes to abilities, interests and motivations, so there's no need to wait on anyone else.
 
-Especially since ecosystems thrive when members follow this simple rule.
+This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. You can't break the rules of evolution and win the game of life. It's a natural law.
 
-This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Only then is it easy to see no one can play the game for you. It's a natural law.
-
-This is the best book I could write to show it to you. You exist in a unique moment in time and space. It came with certain beliefs and culture, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Convert energy into many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Repeat.
+This is the best book I could write to show it to you. Like everyone else past, present, and future, you exist in a unique moment in time and space. It came with certain advantages and obstacles, beliefs and cultures, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Convert energy into many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Smile. Rest. Repeat.
 
 In short, cure the bell.
 
@@ -3458,11 +3473,24 @@ Once Protestants and Catholics stopped killing each other over scripture, conser
 
 If you want affordable housing, easier schooling, cleaner environment, working healthcare, healthy food, an increasing social surplus to invest in the future—the choice is yours.
 
-Argue and fight over a piece of the decaying Industrial Age Giving Tree—who should get what job, title, and inheritance. Or tend, plant, and harvest a new way of life.
+Argue and fight over a piece of the decaying Industrial Age giving tree—who should get what job, title, and inheritance. Or plant, tend, and harvest a new way of life.
 
 Do you want to watch three seeds fall?
 
 Or drop them yourself?
+
+
+
+The new paragraph is slightly run-on/dense — "to the predators, decomposers, doing their part;" reads a touch awkward. Minor: "to the predators and decomposers each doing their part —" would smooth it.
+
+
+
+
+
+
+
+
+
 
 ## Chapter 14 Socratic Pencil - personal
 
@@ -3471,6 +3499,8 @@ This is what I think Socrates was getting at.
 - why socrates never wrote anything down. 
 - to test the longevity and truth, and nature, of any human belief system, just judge, how many pencils does it create and distribute.
 
+
+If we saw an ecosystem where water and calories were being hoarded, or withheld, or not used by its members, we wouldn't doubt the solution...
 
 
 ## Interludes
