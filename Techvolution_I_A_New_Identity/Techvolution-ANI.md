@@ -1295,9 +1295,9 @@ Despite our love of news updates and glorious speeches, the game has no stories,
 
 The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to harvest energy and assemble matter into new creatures, nests, fruit, tools, and numberless other adaptations.
 
-Each new assembly is a unique variation. Look at the peppered moth becoming lighter/darker/lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
+Each new assembly is a unique variation. Look at the peppered moth becoming lighter, darker, lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
 
-Natural selection is in control. It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and thereby integrate into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
+Natural selection decides. It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and integrates them into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
@@ -1305,7 +1305,7 @@ Our game is different because of our minds. We have mythological, philosophical,
 
 How to tell which is which?
 
-Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read the environmental patterns best, like when fruit ripens or when sunlight appears, survive to play again.
+Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read when fruit ripens, when sunlight appears, and other environmental patterns, survive to play again.
 
 This chapter is not a story to enjoy. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's a reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
 
@@ -3421,11 +3421,11 @@ dwarkesh.com/p/david-reich-2
 
 The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
 
-From the grass producing the first biomatter, to grazers turning it into meat, to the predators and decomposers each doing their part; whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected. 
+From the grass producing the first biomatter, to grazers turning it into meat, to the predators and decomposers each doing their part—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected. 
 
 You can be motivated by and identify as anything you think best. Some animals love their offspring while others disregard them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the gameboard. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, just know the only way to communicate value to natural selection is building material adaptations.
 
-I only came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem selecting tools.
+I came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem selecting tools.
 
 This observation was always there to be realized, like universal gravitation or bacteria infecting a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
 
@@ -3433,7 +3433,7 @@ New ideas have always had a hard road. Semmelweis begging doctors to wash their 
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hard part. It's evolving one without conflict that's proven so hard for us.
 
-None of this means abandoning your identities or communities. I practice cultural dance, cheer loudly for my country, believe in a religion. But I do those for the same reason I exercise: trying to feed those relics that still fulfill a good human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I inhabit and that others—in and outside of my community—operate.
+None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and live a complete human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I work in that others—in and outside of my community—operate.
 
 I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what software I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software inside a society that finds it increasingly hard to build things quickly.
 
@@ -3471,26 +3471,13 @@ In short, cure the bell.
 
 Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born. Against many competitors, they won the Industrial Age by using their combined diversity of thought and love of mass production to start the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
 
-If you want affordable housing, easier schooling, cleaner environment, working healthcare, healthy food, an increasing social surplus to invest in the future—the choice is yours.
+If you want affordable housing, easier schooling, cleaner environment, working healthcare, healthy food, political compromises, an increasing social surplus to invest in the future—the choice is yours.
 
 Argue and fight over a piece of the decaying Industrial Age giving tree—who should get what job, title, and inheritance. Or plant, tend, and harvest a new way of life.
 
 Do you want to watch three seeds fall?
 
 Or drop them yourself?
-
-
-
-The new paragraph is slightly run-on/dense — "to the predators, decomposers, doing their part;" reads a touch awkward. Minor: "to the predators and decomposers each doing their part —" would smooth it.
-
-
-
-
-
-
-
-
-
 
 ## Chapter 14 Socratic Pencil - personal
 
