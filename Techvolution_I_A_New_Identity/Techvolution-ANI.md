@@ -74,48 +74,8 @@ _"It is not the strongest of the species that survives, nor the most intelligent
 
 —Leon C. Megginson, often wrongfully attributed to Charles Darwin
 
-### Quotes For Later Chapters
-
-<!-- put in later in the book, helping readers recognize that their resistance to new technology is often just a generational perspective rather than an inherent limitation, thereby transforming what feels like a threatening future into a natural evolution we can consciously embrace via a new identity, politics, economics ie a new philosophy -->
-
-<!-- _"Technology is anything that was not around when you were born."_
-—Alan Kay -->
-
-<!-- _“When you grow up you tend to get told the world is the way it is and … to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family, have fun, save a little money. That’s a very limited life. Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again.”_
-—Steve Jobs -->
-
-<!-- "The small strength and speed of man, his want of natural weapons, etc., are more than counterbalanced: first, by his intellectual powers, through which he has formed for himself weapons, tools, etc., though still remaining in a barbarous state; and, secondly, by his social qualities, which lead him to give and receive aid from his fellow-men."
-— Charles Darwin, The Descent of Man -->
-
-<!-- "Evolution is not a ladder of progress, but a bush of diversity."
-—Ernst Mayr -->
-
-<!-- "Novels, stage, and film are less realistic than Nintendo"
-—Richard Muller 
-https://muller.lbl.gov/pages/Muller-theorems.htm -->
-
-<!-- "A typical American today, living in a postindustrial information-technology world, can get up in the morning, reach into the cabinet, get breakfast cereal that’s in a box, pour it, reach into the refrigerator, pour some milk. You can spend your entire day without ever elevating your heart rate...Human beings today don’t have to engage in physical activity anymore. It’s natural for us to think the world around us is normal. But our world, our lives today, are profoundly abnormal, especially in the case of no longer having to use physical activity as part of our daily routine."
-Daniel Lieberman - Life - Leading Edge -->
-
----
-
-<!-- "The term "ideo" in "ideological" comes from the Greek word "idea", which means "form", "thought", or "concept". In the context of ideology, it refers to a system of ideas, beliefs, or values that shape an individual's or group's perspective on the world.
-
-In essence, the "ideo" part of the word "ideological" suggests a connection to ideas, theories, or doctrines that guide one's thinking, behavior, or actions. An ideology is a comprehensive and coherent set of ideas that provide a framework for understanding and interpreting reality, often influencing one's attitudes, opinions, and decisions.
-
-The term "ideology" was first coined by French philosopher Antoine Destutt de Tracy in the late 18th century, and it has since been used to describe a wide range of philosophical, political, and social systems of thought." -->
-
-<!-- The term "logical" in "ideological" comes from the Greek word "logos", which means "reason", "discourse", or "study". In the context of ideology, the "logical" part of the word suggests a connection to the rational, systematic, and coherent organization of ideas.
-
-In essence, the "logical" aspect of ideology implies a structured and reasoned approach to understanding and interpreting the world. It connotes a sense of intellectual coherence, consistency, and rigor in the development and application of a system of ideas.
-
-However, it's worth noting that the term "logical" in "ideological" doesn't necessarily imply that an ideology is objectively rational or true. Rather, it suggests that an ideology is a systematic and coherent framework for understanding the world, even if its underlying assumptions or conclusions may be subjective, biased, or flawed.
-
-In this sense, the "logical" part of the word "ideological" highlights the importance of reason, argumentation, and intellectual coherence in the development and promotion of a particular ideology. -->
-
 ## Table of Contents
 
-Foreword
 Preface
 Introduction
 Chapter 1—Presents Under the Tree
@@ -131,261 +91,7 @@ Chapter 10—Planting, Building, and Playing The New Game
 Chapter 11—Back to Natural
 Chapter 12—Vignettes
 Chapter 13—Epilogue
-
-## Foreword
-
-### Discovery
-
-On August 24th, year 79, Mount Vesuvius erupted. The volcano pushed ash clouds miles into the sky. Soon scorching debris was falling for miles around like snow during a fierce Siberian blizzard. Thereafter, Italian towns Pompeii and Herculaneum were frozen in a single, catastrophic moment. A snapshot of Roman life was preserved under endless ash—everything from bread in ovens to human expressions of terror, from artistic frescoes to fragile scrolls.
-
-Yet this moment of destruction was just another period of profound loss.
-
-Even with all the many ruins we can visit today, most of everything from the ancient world is gone. For example, historians estimate that over 99% of ancient literature was lost to time—burned, destroyed, disintegrated, or simply forgotten. Entire libraries, generations of human knowledge, vanished like the smoke of Mount Vesuvius. The Library of Alexandria, with its hundreds of thousands of scrolls, would become the most famous casualty of this sad intellectual loss.
-
-But some fragments survived, often in garbage dumps, old churches, or disaster sites like Pompeii and Herculaneum.
-
-Covered by ash, the scrolls from Pompeii and Herculaneum were far too fragile to ever be opened. So we did not open them. They were collected and stored. It was left to our imaginations to dream of the knowledge that was locked inside.
-
-Until, like the microscope let us see unknown tiny worlds, modern CT scanners could finally peer inside the ash scrolls, and machine learning algorithms could decode the information the scans uncovered. Now, after nearly 2000 years, we could finally read this time capsule of information.
-
-Even so, Dr. Elena Stavros hadn't expected much when she ran the first fragment through the advanced CT scan. After endless hours in her lab she kept thinking "Another piece of ancient debris; another dead end". But something in one of the algorithmic reconstructions dazzled her eye.
-
-Lines of text emerged. The machine learning model peeled back layers of carbon and time, revealing Greek characters that seemed to shimmer like fairy dust on her computer monitor.
-
-"It's not just text," she whispered to her research team. "It's a new dialogue!"
-
-The manuscript was from Magos of Samos—a name barely mentioned in historical records. We only know he, or she, was a student of Aristotle whose work had been lost to time. But here, preserved in the volcanic tomb of Pompeii was a text fragment.
-
-A text fragment written not just to the future, but about the future.
-
-The AI had done more than decode text. It had resurrected a voice that had been waiting nearly two millennia to be heard. Magos' words, preserved by volcanic fire, decoded by machine intelligence, were a lost story of Socrates learning a vital lesson that was remarkably prescient today.
-
-Only fragments have been uncovered thus far, so the author filled in some gaps. It proved to be the best foreword the author and reader could ask for.
-
-### Short Story Dialogue
-
-The salt air carried the scent of tar and sweat thick through the crowd. The great Athenian harbor of Piraeus churned with activity—merchants shouting prices in a dozen dialects, slaves hauling amphorae of oil and wine, sailors mending nets with practiced hands.
-
-A bronze-tipped spear split its way through the crowd. He stopped, breathed in and looked around. This display of commerce, engineering, civil law makes the soldier stop and smirk.
-
-Now the people walking by patting him on the shoulder. A sign of respect.
-
-This is why Athens was the jewel and central power of the Hellenic world. Not just for the commerce that made her rich, or the engineers that made her powerful, but for the democracy that made them united.
-
-And Socrates was one of her citizens. Nearing middle aged but in good health. His balding head and stubby nose made him rather ordinary in appearance, if it weren't for the hoplite armour he half wore and carried with him. Bronze shield and helmet, hardened spear, sword, and leather armour.
-
-As people's hands keep patting his shoulders.
-
-"Give those Spartans Athenian metal!" A teenager cries out to the soldier. "Hip hip horray!" responds the crowd.
-
-Socrates can't help but smile as he continues walking through the crowd. He sees a stump near a pier and walks over as the cheers die down. 
-
-A better place to observe the organized chaos of it all. Holding his helmet, he feels at its weather leather straps and worn paint, and reflects at the chaos of the people, and thinks they are like ants on so many ant hills.
-
-Of course better than ants he thinks. The Pythagoras school teaches the laws of geometry, workers use them to build the walls, lay the ships, grind the corn, and build the armor.
-
-Socrates is awoken from his reflection by a crash of wood on stone. A Phoenician vessel eases into berth, its wood hull scarred by countless voyages. The crew moves with an efficiency born of necessity—like ants he thought again—each man knowing his role without instruction.
-
-Not ants of course. Because each man must learn their place. But how?
-
-Education of course. That thought makes him mourn. He long wanted to teach students, as his friends are wont to say, he is plagued by questions. Not the sort his fellow citizens asked about grain prices or political alliances, but deeper puzzles about justice, virtue, the nature of a good life.
-
-The war horn sounds again from the Acropolis. Soldiers are being called to their ships. Socrates wandered off from the mustering grounds, he told himself he needed to be reminded one more time why he fights.
-
-Socrates holds his gear one more time. Inherited from his father, he will live or die inside this gear, maybe against Spartans with a undying reputation for being the masters of warfare with the hardest of shields and the sharpest of spears. He does not want to die, but is sad that his unanswered philosophical questions will die with him.
-
-Just then a strange sound catches his attention—a cacophony unlike anything he'd heard before.
-
-The strange vessel moves with deliberate care toward an empty berth, its crew working in hushed concentration. Socrates has seen ships from across the Mediterranean—Egyptian grain haulers, Phoenician traders, even the occasional barbarian craft from beyond the Pillars of Heracles—but this one puzzles him. It has Athenian colors, and design but is weathered and filled with many cages covered with leathers and tarps.
-
-What truly catches his attention, however, are the sounds.
-
-A cacophony of chirping, chattering, and calls unlike anything heard in an Athenian market before. These many creatures were seemingly all still alive.
-
-Not unusual for a ship. Ships often bring animals for trade and sale. But usually large lions, giraffes, and other beasts.
-
-As the ship draws closer, Socrates could see these creatures are in wooden cages stacked along the deck. As the leather tarps are removed, he sees the diversity. Birds with brilliant plumage that seem to shift color in the sunlight, furry creatures of some sort, lizards of impossible variety.
-
-"By Zeus," muttered an old fisherman beside Socrates, "what manner of voyage brings back a floating menagerie?" The fisherman taps Socrates spear as he walks away too busy with his job to care anymore on the matter.
-
-As the gangplank lowers, a figure emerges that commands immediate attention. He is perhaps thirty years of age, with the weathered look of a man who had spent months under foreign suns, yet his eyes hold an intensity that reminds Socrates of the philosophers who gathered in the agora.
-
-Behind him comes his crew, carefully carrying the cages with a reverence usually reserved for sacred objects. The man supervises each movement, occasionally making notes on a wax tablet, his attention shifting between his precious cargo and detailed sketches that flutter in the sea breeze.
-
-"Careful with the labels of each cage," he calls to a sailor. "Each variety tells a story!"
-
-Stories? Socrates walks closer to investigate. What stories could animals tell? The philosopher in him stirred with familiar hunger. These were no ants, but a puzzle. One last one before his battle.
-
-The man steps fully onto the dock. "Nikias! Arrange the bird specimens by island of origin," he calls to a young sailor struggling with a cage of peculiar finches. "The ones from the eastern archipelago here, the western group there. Mind the labels."
-
-"Again with the labels! Did you not write your records already?"
-
-"The labels!"
-
-Socrates watches, fascinated, as the crew begins organizing the menagerie with methodical precision. The man—clearly the expedition's leader—consults his notes constantly, directing the placement of each cage with the care of a priest arranging sacred offerings.
-
-"These tortoises," the man says, pointing to several large shells that housed creatures with different neck lengths.
-
-Another sailor holds up a cage containing what appears to be the same type of small, dark bird. "Where do these go, Zographos?"
-
-The man, Zographos, helps the sailors move the crates off. He returns to arranging his wax tablets, sheets of papyrus, and scrolls.
-
-The war horn rings twice. Socrates doesn't acknowledge it this time. Instead he approaches Zographos.
-
-"Friend," Socrates begins. "I am Socrates, son of Sophroniscus. Welcome home. Pray tell, where did you return from with such a wondrous variety of cargo."
-
-"Hello Friend, I can see the rumours of war were not exaggerated. I pray for your safety and for the Spartans to come to his senses."
-
-"I thank you for the well wishes. But I must note that you fail to answer the query."
-
-"Friend, I respect the protection you do for our city. But to tell you where I've been and what we've seen is by no means for conversation here at the dock. Pythagoras needed education and students for his work, and I will too."
-
-"More curious words I cannot remember hearing. But forgive me, some may not be here to read your scrolls or seat in your academy." This incites the response Socrates wanted.
-
-"Zographos of Athens," says, as he gives Socrates his hand. "I have returned from the Blessed Isles, far beyond the western horizon—islands that Homer never even sang of, where the very foundations of life reveal their secrets. Please ask your questions, I can see the new triremes fleet is embarking even as we speak. Finer ships cannot be found anywhere on the seas. They will put you on trial Socrates if you desert, so be quick of questions and comprehension."
-
-Socrates feels his pulse quicken.
-
-"Why group them by shell shape and cages?"...
-
-"Because Socrates, the Gods are craftsman with a hammer and the environment is the anvil!"
-
-Socrates draws his weather gear aside to move closer to this weathered traveler and his extraordinary cargo. Something in the man's precise movements and intense gaze suggested a mind as restless as his own.
-
-"Indulge a soldier. Please continue."
-
-"You surely know Herodotus of Halicarnassus and his tale of The Egyptian king Necho II."
-
-"They sailed around Arabia."
-
-"We set out to show the way again. Surely the trade routes would be grant Athens riches worthy of the task... And instead we found blessed islands."
-
-"The Blessed Isles?" Socrates gestures toward the cages. "And these creatures—why capture them? For trade, for sacrifice?"
-
-"May the Gods strike me down for the thought."
-
-Zographos pauses for a minute. He's preparing to say his deepest thoughts.
-
-"These animals are teachers, Socrates. Each one holds a lesson. You see, the winds wouldn't let us go south. They brought us to these islands in the middle of the ocean with nothing but volcanoes at their tips, and forests, ponds, streams, and in small patches throughout their lonely rocks."
-
-"We tried every route south. Going from island to island looking. Soon we needed supplies of course, so we went back again and again. No cities. No temples. No men. All the better, it turns out. For I finally saw how different each island was".
-
-"And then I noticed how the creatures—birds, lizards, tortoises—each looked the same, but different, just enough to survive."
-
-"The creatures morphed like the gods."
-
-As Socrates leans forward, his eyes bright with intellectual hunger, Zographos feels a rush of uncertainty, a concentrated dose of what has accompanied him through years of observation and discovery.
-
-Here, on this bustling dock with war approaching, he might finally give voice to the revolutionary thoughts that have consumed him. After years of travel with only his thoughts, scrolls, creatures and sailors. Here is a person. He told himself he needed isolation to write his book. But really, he's been nervous to speak of his ideas.
-
-What if he's wrong? Worse, what if no one believes him.
-
-He tells himself someone had to be first to hear it, why not a soldier who is leaving the city for months if not years. Zographos then finds the courage to look at this man, Socrates.
-
-Who looks back with the thrill of approaching understanding. "Go on. Changed how?"
-
-Zographos sets down his wax tablet. Would this Socrates be his first student?
-
-What nerves this thought has.
-
-"You ask the right question, my friend!" Zographos says, embracing this chance. His words tumbling out with the enthusiasm of a man who has been alone with revolutionary thoughts for too long. "Watch." Zographos lifted a cage with a small finch. "This bird came from a land with only hard seeds. Now look—" He lifts another finch. "but this one lived where only soft insects were available. Its beak became slender and precise."
-
-"You're saying the islands..."
-
-"Each island shaped them differently," Zographos continues, now just speaking his thoughts, his shoulders drop and tension falls, this feels liberating. "The same ancestor, but each population adapted! That's the book! The dry islands demanded one solution, the wet islands another."
-
-With poised vigour he continues "And the Gods selected the ones who were to breed on." 
-
-Socrates stares at the birds, his mind racing. "And you believe this principle applies to island creatures?"
-
-Zographos' eyes gleam. "My friend, I believe this principle explains all creatures."
-
-Socrates strokes his weather leather straps, and grips his spear, then nods to encourage Zographos to continue.
-
-"You care for me to continue. You are interested?"
-
-"It's nice to meet someone who has been away for many years. I think it is fair to say I have a reputation for curiosity, as I am sure you will find out. I perhaps have enough to make a difference to our fair city's future."
-
-Zographos looks directly at Socrates, his voice dropping to an almost reverent whisper. "The whole process—the inheritance, the variation, the selection, the branching into new forms to cast away the unneeded old—I call it evolution."
-
-Socrates feels something shift deep within his mind, like a key turning in a lock he hadn't known existed. The questions that had plagued him about justice, virtue, and human nature suddenly reorganize themselves around this single, powerful idea. If humans, like these creatures, were shaped by the challenges they faced...
-
-The horn blows thrice.
-
-Socrates holds his spear, and old armour, and leans in and says with a smile, "Tell me more about evolution, I think we shall put it to use before long".
-
-Zographos hesitated, knowing the complexity of life that he had witnessed. "It will take generations," he said, "to truly understand what these islands have revealed."
-
-Socrates smiled, holding his weathered spear. "When I return we will get started," he responded, "and set the foundations for our ancestors to complete the job when their time comes."
-
-### Explainer
-
-Sadly, there was no Magos of Samos. There are plenty of scrolls found at Pompeii and Herculaneum. Scientists are just now starting to use CT scanners and machine learning to unlock their contents. So far, no lost ancient works have been found.
-
-Alas, the scene you just read is a fictional thought experiment—a glimpse into an alternate history where two of humanity's most transformative intellectual revolutions occurred simultaneously.
-
-I used it to teach a vital lesson.
-
-First however, we must realize why Socrates (470–399 BC) is so important. He was, as the Roman philosopher Cicero observed, the first to "call philosophy down from heaven, place it in cities and homes, and compel it to inquire about life and morals as well as good things and bad." Before him, the common practice was to let professional debaters, known as Sophists, battle over a question. Everyone assumed justice had no universal definition and was merely a matter of law, custom, or power. Sophists used rhetoric to convince people that their side served the ruler's interests and was therefore just.
-
-Socrates challenged this mindset. Instead of accepting that justice was relative to human laws or customs, he asked things like “What is justice?” or "What is ethics".
-
-Such deceptively simple questions were in line with ancient Greek natural philosophers such as Thales, Anaximander, and Pythagoras. These thinkers discovered natural laws of geometry, mathematics, and observation that helped craftsmen and engineers to calculate volume, weight, and angles more precisely, thereby empowering Greek civilization to build increasingly sophisticated sewers, ships, buildings, and countless other wonders.
-
-Socrates asked why wouldn't human society also be subject to universal laws if water, ships, and engineering are?
-
-Socrates, and his best student Plato (427-347 BC), thus turned philosophy towards the human condition with practical questions about how we should live, what constitutes justice, and how societies should be organized. Socrates taught his students to ask these questions, in what we now call the Socratic method, in order to use philosophy to build a better person and society the same way engineers use mathematicians to build better buildings.
-
-Plato wrote these lessons down, adding his own thoughts along the way, in books called Socratic dialogues. By forever studying these works, every subsequent development in Western philosophy, politics, and ethics is rooted in this Socratic revolution.
-
-Charles Darwin (Zographos), over two millennia later, revealed the mechanism by which all life adapts and evolves. Although many scientists laid the groundwork for Darwin, their contribution was often removing the buildup of erroneous human narratives, such as all animals being created as they exist today and the Earth only being a few thousand years old.
-
-While it was never going to be easy, Darwin's insights into natural selection, common descent, and evolutionary adaptation were always there to be discovered. After all, farmers long knew much about inheritance among plants and animals because they bred them so often. Even so, it took a very fortunate moment, like visiting the isolated Galapagos Islands for Darwin, or the Canary Islands for Zographos, to display natural selection and adaptation simply enough to seed evolution in someone's mind.
-
-When life's evolution was realized, it quickly transformed our understanding of the origin of species, including ourselves, in the natural world.
-
-So, what if these two intellectual revolutions had happened together? What if Darwin's insight on evolution had been made, accepted, and popularized along with Ancient Greek contributions like Thales' geometric principles, Euclid's mathematical foundations, and Archimedes' engineering innovations.
-
-This thought experiment says if Socrates, or one of his followers like the hypothetical Magos, had known about evolution he would have made an important connection—mankind's evolution now runs through tools as well as biology. Thus, the mathematical and engineering foundations Socrates and his students loved weren't only inspirational but intertwined with human affairs because the technical and human domains co-evolve.
-
-It's entirely possible Socrates or his students would have made the connection that because evolution was a natural law for biology, then it must be for humans and our technology as well.
-
-Surrounded by far more wilderness, ancient Greeks cherished their language, plays, ships, trade, and civilization. Wilderness was seen as a dangerous realm that required a civilized hero to subdue. Moreover Greeks were extremely adventurous, competitive, warlike, and commercial. Many people experienced tragedies such as shipwrecks, plagues, or sieges that made technology's value as the differentiator between survival and flourishing readily apparent.
-
-Thus, Greeks might have naturally accepted technological evolution as the guiding principle of their fate. They already had tool-using heroes such as Achilles and Odysseus but explained their success because of mythical abilities instead of their willingness to drop old tools and master new ones as needed; famously seen when Odysseus built the Trojan horse to finally conquer Troy after failing for a decade to take the walled city by traditional siege warfare.
-
-What the Greeks lacked was an understanding of evolution as a universal law.
-
-This led them, and thus us, down an inaccurate trail, the same way not knowing universal gravitation led Plato's student Aristotle (384–322 BC) to create an Earth-centered universe that guided humanity down the wrong path for centuries.
-
-Interestingly, Aristarchus of Samos (310-230 BC) advocated for a Sun-centered universe. He even calculated the relative sizes of the Sun, Moon, and Earth. Still, Aristotle's ideas won out and became orthodoxy. After rediscovering an old scroll of Aristarchus, Nicholas Copernicus (1473-1543) would later re-establish the Sun-centered model of astronomy in the early 1500s. With this in mind, it's not impossible that an ancient Darwin could have existed among the 99% of ancient knowledge that was lost.
-
-If early thinkers like Socrates, Plato, Aristotle had grasped the principle that humans and their tools co-evolve in response to environmental challenges—how might they have approached questions of ethics, politics, and justice?
-
-Imagine the changes to our history, filled with empires that rise and fall, racism, sexism, slavery, recessions, economic and population booms and collapses, revolutions, civil wars, and so much more we hate but keep coming back?
-
-Perhaps these recurring patterns aren't moral failures or inevitable human flaws, but symptoms of civilizations struggling to adapt to technological changes we don't yet understand. Instead of asking "How do we eliminate war?" or "How do we achieve perfect justice?" an evolutionary Socrates would ask: "What technological pressures create these conflicts?", "How do societies smoothly adapt to new tools and capabilities?", and perhaps most importantly, "How do we teach our kids born with biological instincts to best live in a technological world?"
-
-This reframing doesn't excuse human suffering or injustice, but it offers a different path forward. Rather than assuming our future depends on "bringing down from heaven" superior laws, policies, or moral education, we might focus on understanding how technological ecosystems can evolve toward greater human flourishing—just as Darwin's finches evolved better beaks for their particular island environment rich in either insects, nuts, or seeds.
-
-The interaction between Socrates and our fictional Darwin/Zographos represents the birth of what we might call "evolutionary philosophy", "biology for humans", or "techvolution"—a framework for understanding human societies as technological ecosystems that adapt, evolve, and thrive through the same principles that govern all life.
-
-Yet, this story did not happen.
-
-Socrates and Darwin never met, the same way Aristotle and Newton never did. But this tale serves as food for thought because you know Socrates and Darwin, so despite their distance from each other, they are meeting in you. And that is the vital lesson this short story was meant to teach. The stream of events we call history is not pre-organized for us. In order to advance our story we must be the ones to the connect dots that should be connected. Thus Magos, the thinker who connected Socrates and Darwin, can be real in you.
-
-Why not make it so.
-
-The connection waits for whoever picks it up. 
-
-Despite the lofty goals the Techvolution series is setting out to achieve, we are only adding some of our scientific knowledge to the foundational questions Socrates first posed about human civilization.
-
-That way, humans will correct the path we've been living by applying evolutionary thinking to understand how civilizations adapt via technological change. This will help us consciously guide our civilization's evolution toward a future where people will no longer have to ask "what is justice" because they'll instead be intentionally building it.
-
-===
-
-- why does turning a computer off and on fix so many problems, asks Lex to windows creator. because 1, memory gets used and no freed so it accumulates, and 2 code of a program when used long enough gets into a state that is untested or unknown, so reboot refreshes memory and state and "covers lots of sins"
-https://www.youtube.com/watch?v=3MRlsA-uwZg
+Chapter 14—Foreword/Personal
 
 ## Preface
 
@@ -610,6 +316,38 @@ And we are naturally equipped for this role. Researching this book joyously taug
 However, until humanity intentionally accelerates the technological evolution we depend on, we remain like raccoons suffering through seemingly random restaurant closures and secured waste bins. Our list of problems includes job losses, business failures, psychological disorders, political animosity, civil wars, revolutions, and the cycles of imperial rise and fall. We mistakenly attribute these events to ideology when in reality, they stem from the unnoticed co-evolution, variation, and speciation of technological ecosystems, which occur continuously around us, indifferent to human-constructed identities, borders, and beliefs.
 
 Only a new identity will allow us to glimpse behind the curtain of evolution and learn to harness its powers, as we have already done in physics, chemistry, and medicine. The next step toward self-realization is to ask if we must cooperate like trees and squirrels do—then, who are we competing against in the game of life?
+
+## Story—Handset
+
+When my buddy picked me up from work one day, he looked around and said, "What a dump." Coming from someone who visits offices, warehouses, and factories across the city, that review held weight. He was right—and not just about the 30-year-old carpet. This was the same place where my boss told everyone (but me) I couldn't speak to clients because my stuttering was an embarrassment, then lied to my face for years that it wasn't true.
+
+The thing is, the jackass boss wasn't entirely wrong. In casual conversation, I was usually fine. But in professional settings, I struggled. The difference was honesty.
+
+When I said what I genuinely thought, the path from brain to mouth was direct. I knew what was coming, so I could foresee problem sounds and substitute words ahead of time:
+
+Hi, I hope you're having a ~great~ nice day. I'm here to ~discuss~ talk about your...
+
+But when I had to discuss something I was unsure about—or didn't believe—I had to think while speaking. My stuttering became a lie detector, exposing every moment of hesitation.
+
+Honesty is great in friendships and often in academics, but not so much at work or society at large.
+
+So I got a job at an insurance claim call center (I swear I thought it was a good idea).
+
+During insurance adjuster training, I was pleasantly surprised how simple the insurance rules were. The policy is a standard contract written by the government; private insurance companies just underwrite and administer it. Car crash fault rules are also just government regulations. It took only a few days to learn all this.
+
+I was happy. I could learn and communicate this stuff with confidence.
+
+My first full claim was a crash at a gas station. My customer—called an "insured"—was hit while parked.
+
+But maybe he was moving, which would make the claim 50/50 at fault. After some back-and-forth with the other insurance company, I confirmed my insured was parked and the other guy was moving. 0/100 fault.
+
+"God bless you," my insured responded to that news.
+
+No lies, no uncertainty, no stuttering!
+
+"Don't get used to hearing that," my trainer replied to my good news.
+
+"Why not?" I wondered.
 
 ## Chapter 1—Presents Under the Tree
 
@@ -949,6 +687,44 @@ Now that you know how the rule book, game board, sand clock, modeling clay and s
 
 Not this game though, but the sequel that's similar in so many ways. Let's win the Game of Technological Life, what we can also call techvolution.
 
+## Story—The Job
+
+I thought learning the rules would be enough. I was wrong.
+
+An insurance adjuster must do three things on every claim:
+
+1. Find out what happened and who was involved.
+2. Determine if it's covered by the policy.
+3. Calculate the cost to fix it.
+
+Simple, right?
+
+Except we're authorizing thousands—sometimes hundreds of thousands—of dollars per day. And no one knows what to do after a crash. You don't—I bet. So, getting the information we need for three seemingly easy questions was mayhem.
+
+There was no rationalization. No production line. This information arrived in a constant, random stream: calls, emails, voicemails. We had no control over the flow.
+
+Sometimes people call from the crash scene. Sometimes disappear for weeks. Sometimes they call back 10 times a day for an update. Oh, and people lie constantly.
+
+"Why am I at fault?"
+_Because you hit a freaking tree!_
+"Unfortunately, we cannot sue the person who planted the tree."
+
+"I only drive Buick Enclaves."
+_That's... really specific._
+"Okay, I'll track one down for you."
+
+"How much will my rates go up?"
+_People ask this constantly._
+"I'm only an adjuster; I'm not trained for that information."
+
+A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the queue. All eight went to payment—fully processed, start to finish. I was so proud of myself. _I'm getting this. I got this. Let's go!_
+
+Then I got an email from a manager:
+
+*"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
+
+I was yet to learn the difference between working well and meeting targets. The mayhem was yet to really set in.
+
 ## Chapter 7—What Does the Game of Life Mean
 
 Before we press start on the Game of Technological Life, there's something to say about the Game of Life.
@@ -1113,6 +889,38 @@ Any identity is artificial when it expects people to behave in ways we never did
 
 Of course, we are not solely defined by our animal kingdom past. But human genes cannot be wished away with human words. Happily, while our nature defines our basic needs and limits, something else motivates our souls. Touching it is how we best tell the difference between artificial and natural; one requires coercion while the other is so good it makes people, especially kids, smile when opening a box and seeing it for the first time.
 
+## Story—The Bell
+
+Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, short-change, screw people over—that's what the public thinks.
+
+In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
+
+Here's why: we were only minorly measured on accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew that brokers could send customers to other companies.
+
+So the inbound caller hold metric became everything.
+
+To enforce it, they played a bell in our headsets. When someone was on hold, it rang: DING, DING, DING. A monotone alarm that never stopped until you picked up. A sound fit for a torture test.
+
+If the bell wasn't enough motivation, a manager would message: "ANSWER THE QUEUE." If that didn't work, they'd force calls through without warning—sometimes hanging up on whoever you were already helping.
+
+We had other work: emails from waiting customers, investigations, outbound calls. But none of that was tracked nearly as much. Just the bell.
+
+So we adapted. "Just pay it," managers would say. Some adjusters falsely marked claims "not at fault" to avoid the lengthy verification with the other insurance company. They'd take the customer's word and move on.
+
+Anything to stop the bell.
+
+Adjusters personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through rushed conversations.
+
+We were often more stressed than the people who'd just been in crashes.
+
+All because someone in head office—who'd never done our job—made a promise about hold times and never looked further than that one metric.
+
+The company got what they measured: fast answer rates.
+
+They also got inflated claims, burned-out adjusters, higher insurance rates, and a system that rewarded speed over truth.
+
+One more claim down. One less call to make that freaking bell ring.
+
 ## Chapter 9—Spreading the Technological Soil
 
 Why are humans so similar across the world, despite living in completely different environments? The answer lies in our shared origin in Africa and the technological co-evolution that followed us out.
@@ -1154,6 +962,38 @@ However it happened, by about 12,000 years ago, archaic humans were effectively 
 By mixing genotype and phenotype variation, humans were doing what life always does—producing evolved variations—only now with their extended phenotype, technology, as the medium. Meaning homo sapiens kept adapting our cultures and co-evolving tools to nearly every game board on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sand clock and keep scoring points of procreation around the world.
 
 Now the extended phenotype—technology—had the uniformity it needed in humans to sprout across the globe. Once it got hold, its ecosystem spread like wildfire, even during the bouts of harmful artificial selection we subjected it to.
+
+## Story—Help
+
+Adjusting insurance claims was genuinely stressful. But also rewarding. Insurance sets money aside for people in need, so you get to help when people need it most.
+
+The system could be nuts, but the people's needs were very real.
+
+Someone's car was stolen, or there was a hit-and-run, sometimes even a drive-by shooting. If it's covered (those usually are), you help get their car fixed or replaced.
+
+Two claims I especially can't forget.
+
+One coworker was given a pile of claims to investigate after a large flood. He got to one fine country home, asked to see the water damage, and told the homeowner to send in their damaged items list for review. This was the first time I learned about "cat" claims—as in catastrophe.
+
+Another was a call I got after 5:00 PM on the emergency call-in queue. It was a young single mother. The waste pipes had burst in her walls. I was still just a car adjuster, but procedure was to send contractors over to contain the damage, a property adjuster would later review if insurance covers the bill.
+
+I told her that, but the lady refused the contractors.
+
+I ignored her protest—she had sewage all over her home this obviously needed to be fixed regardless. I continued filling out the needed forms. She said, "No!" _Insureds are so frustrating_, I told myself.
+
+Then she said, "I don't have any money."
+
+I quickly googled her area. She was in the poor area of a poor town. And I had just forced her to admit she had nothing.
+
+It was Friday, meaning she'd likely get an insurance answer by Tuesday. I became a property adjuster later on and learned she had insurance coverage for her problem. She had the money, but didn't have it at the same time.
+
+I often wonder what that mother did over the weekend. My imagination goes wild because some of my claims involved drug deals, prostitution, theft. I learned how desperate people often end up doing desperate things. And her kid was living in that home.
+
+As for the country estate homeowner—he noticed my coworker had forgotten to photograph parts of his basement. A mud basement, empty of most anything. He submitted his item list months later. Antique furniture and priceless art, something like $800,000 worth.
+
+His case in court was simple: "You were there. Prove I didn't have it." The case went on for years. I'm pretty sure he eventually won.
+
+The system couldn't tell the difference between desperation and greed. So it assumed everyone was lying—and the people who actually needed help often paid the price.
 
 ## Chapter 10—Planting, Building, and Playing The New Game
 
@@ -1287,7 +1127,7 @@ Let's look at these stories so we can realize why techvolution is the scientific
 
 _The gods did not reveal, from the beginning, all things to us, but in the course of time through seeking we may learn and know things better. But as for certain truth no man knows it, nor shall he know it, neither of the gods nor yet of all things that I speak. For even if by chance he were to utter The Final Truth, he would himself not know it: for all is but a woven web of guesses._
 
-Xenophanes, Greek Philosopher 6th Century BC.
+Xenophanes, Greek Philosopher, 6th Century BC.
 
 Humans play the Game of Life. Most of the time we play it with tools, but that is the only difference. The game is the same for us as it is for oak trees, bacteria, giraffes, and raccoons in an urban jungle.
 
@@ -1297,7 +1137,7 @@ The gameboard is completely unbiased. It's constructed by the laws of physics, c
 
 Each new assembly is a unique variation. Look at the peppered moth becoming lighter, darker, lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
 
-Natural selection decides. It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and integrates them into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
+Natural selection is in control It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and integrates them into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
@@ -1305,9 +1145,9 @@ Our game is different because of our minds. We have mythological, philosophical,
 
 How to tell which is which?
 
-Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that read when fruit ripens, when sunlight appears, and other environmental patterns, survive to play again.
+Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that best read when fruit ripens, when sunlight appears, and endless other environmental patterns, survive to play again.
 
-This chapter is not a story to enjoy. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's a reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
+This chapter is not a story to enjoy. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
 
 In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world and earn its place on the gameboard?
 
@@ -1345,9 +1185,9 @@ Stem extends upward. There is no light. Stem continues. There is light. Leaves u
 
 Sunlight is strong. Leaves grow upward.
 
-The plant needs more water. Roots drink more water. Water carries minerals. Magnesium flows upward. Iron flows upward. Nitrogen flows upward. Leaves convert light. Glucose flows downward. More roots extend. They push further into rock, widening the crevice, breaking stone into smaller pieces.
+The plant needs water. Roots drink more. Water carries minerals upward. Leaves convert light. Glucose flows downward. More roots extend. They push further into rock, widening the crevice, breaking stone into smaller pieces.
 
-Wind comes. Stem bends. Wind pushes. Stem breaks.
+Wind comes. Stem bends. Wind pushes. Stem bends, bends, breaks.
 
 Leaves fall on rock. No light reaches them. Energy fades. Growth slows. The plant weakens.
 
@@ -1357,9 +1197,11 @@ Wind comes.
 
 Three seeds fall in fertile ground.
 
-Roots extend immediately. Water is here. Minerals are here. Organic matter is here. Growth comes rapidly. The plants rise. Sunlight is felt. Roots break more stone. Sunlight is converted. Leaves fall and accumulate.
+Roots extend immediately. Water is here. Minerals are here. Organic matter is here. Growth comes rapidly. The plants rise. Sunlight is felt. Roots break more stone. Sunlight is converted.
 
-Flowers burst. Pollen in wind. Seeds form. Seeds fall.
+Flowers form. Flowers burst. Pollen in wind. Seeds form.
+
+Cold comes. Leaves fall.
 
 More generations follow. Organic material becomes soil. Soil deepens. Dead material feeds life.
 
@@ -1371,25 +1213,31 @@ One stem grows fast—tall, thin, straight. Leaves unfurl. Light becomes glucose
 
 One stem grows wide. Light is scarce. Leaves spread low. Some light becomes glucose. Wind comes. The wide plant bends but does not break. Growth continues.
 
-The last stem grows tall, thin, slow. It reaches higher than the others. Leaves unfurl above the wind's strongest currents. Wind comes. The stem bends but does not break. Roots drink deep. Growth persists.
+The last stem grows tall, thin, slow. It reaches higher than the others. Wind comes. Leaves unfurl above high winds. The stem bends but does not break. Roots drink deep. Growth continues.
 
-Flowers burst. Pollen in wind. Seeds form. Seeds fall.
+Flowers form. Flowers burst. Pollen in wind. Seeds form.
 
-Soil deepens. Soil spreads.
+Three seeds fall.
+
+Soil is moist. Soil has nutrients.
+
+Roots extend. Stems grow. Low. Wide. High. Leaves unfurl.
 
 Light changes. It dims. Now dark. No light. No energy. Days pass.
 
 Particles fall from sky. Ash on leaves. Soil rich with minerals. No sunlight.
 
-Plants still reach upward. Stems extend toward where light was. Leaves unfurl toward dimness. There is no light anywhere.
+Plants reach upward. Where is light. More leaves unfurl. Little light. Minor energy.
 
-Seeds fall. None crack. There is no moisture.
+Small flowers form. Small flowers burst. Pollen in wind. Little seeds form.
+
+Seeds fall. None crack. They have no energy.
 
 Stems weaken. Plants collapse.
 
 Fungi feed on decay. Dead leaves accumulate. Dead plants fall. The fungi break down biomaterial for energy.
 
-One plant stem grows. Some light is here. Leaves unfurl.
+One plant stem grows. Enough light is here. Leaves unfurl.
 
 Leaves are red. Light becomes glucose. Glucose fuels plant. More leaves grow. Stem rises. Roots send nutrients upward. Leaves send glucose downward. Plant grows high. Wind comes. Flowers form. Pollen in air. Flowers close.
 
@@ -3401,601 +3249,7 @@ He drops his pencil. Extends his hand.
 
 "Learn."
 
-
-### Last Call
-
-<!-- Integrate interludes into vignettes. a modern call for help. -->
-
-## Chapter 13-Epilogue
-
-### Epilogue
-
-_What you see when you look at intelligence [polygenic scores predicting educational attainment] is that this maxes out in the Bronze Age, between 5,000 and 2,000 years ago. The impact in the last 2,000 years is almost nothing. There's no evidence of natural selection at all. Your bias coming into this, my bias perhaps, might be that if there's any signal of natural selection on this trait at all, that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years._
-
-Dr. David Reich
-Professor of genetics at Harvard Medical School
-Dwarkesh Podcast, May 8, 2026.
-dwarkesh.com/p/david-reich-2
-
----
-
-The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
-
-From the grass producing the first biomatter, to grazers turning it into meat, to the predators and decomposers each doing their part—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected. 
-
-You can be motivated by and identify as anything you think best. Some animals love their offspring while others disregard them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the gameboard. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, just know the only way to communicate value to natural selection is building material adaptations.
-
-I came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem selecting tools.
-
-This observation was always there to be realized, like universal gravitation or bacteria infecting a wound. We just haven't built the framework to see it—and that isn't anyone's fault.
-
-New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than make and share tools with their own members.
-
-Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hard part. It's evolving one without conflict that's proven so hard for us.
-
-None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and live a complete human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I work in that others—in and outside of my community—operate.
-
-I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what software I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software inside a society that finds it increasingly hard to build things quickly.
-
-By naming the "technological giving tree" in the last vignette, I wanted to hit you with where we are: the very beginning of a technomass Earth. We are Kai—the hunter-gatherer who walked for days to find a tree he could have planted at home. It's no wonder Kai couldn't imagine agriculture; it took humans hundreds of thousands of years to learn to master biomass in such a way. We are a few thousand years into a technological Earth.
-
-Kai is our biological equal with a mindset just as out of date. Even so, I hope you finished the vignettes with a smile, because we're just starting the adventure. The raccoon will always scavenge the urban jungle. We can plant and harvest it instead.
-
-For now, the tree is dying.
-
-The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy but stop returning any—so entropy is tearing it down. I've handled the claims for much of it: car breakdowns, collapsed buildings, flooded basements, burned homes, blown generators, fallen bridges. No one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
-
-We aren't doing that fast enough.
-
-As a result, we're perhaps facing an extinction event. No joke. As you've seen it happens plenty. Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were religious scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
-
-We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertile soil, someone has to cross the dangerous waters and plant many new giving trees with the tools we have.
-
-Reimagining society is hard. It's full of failure, natural and artificial, because no one has been here before.
-
-Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world—the open-source makers have already evolved so many wondrous free tools for anyone to get started. That's the fertile soil in which you—where you are in the world—can grow the future.
-
-After all, adapting to a new gameboard is where life lives.
-
-Yet instead of crossing today, many with dying tools try to demand others still use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions. Each is but an example of artificial selection at its worst—making up a story to justify strangling the better tool so the old one survives just a little while longer even though entropy catches up everyone equally.
-
-Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for us to be honest that each job and title we have is connected to a toolset, with a lifecycle, and when our tools age it's perhaps time to pass the torch.
-
-You don't have to transform society by yourself. Each person contributes best by better harvesting energy in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our local environment faster. And healthy ecosystems need all types, from body sizes to abilities, interests and motivations, so there's no need to wait on anyone else.
-
-This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. You can't break the rules of evolution and win the game of life. It's a natural law.
-
-This is the best book I could write to show it to you. Like everyone else past, present, and future, you exist in a unique moment in time and space. It came with certain advantages and obstacles, beliefs and cultures, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Convert energy into many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Smile. Rest. Repeat.
-
-In short, cure the bell.
-
-Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born. Against many competitors, they won the Industrial Age by using their combined diversity of thought and love of mass production to start the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
-
-If you want affordable housing, easier schooling, cleaner environment, working healthcare, healthy food, political compromises, an increasing social surplus to invest in the future—the choice is yours.
-
-Argue and fight over a piece of the decaying Industrial Age giving tree—who should get what job, title, and inheritance. Or plant, tend, and harvest a new way of life.
-
-Do you want to watch three seeds fall?
-
-Or drop them yourself?
-
-## Chapter 14 Socratic Pencil - personal
-
-This is what I think Socrates was getting at.
-
-- why socrates never wrote anything down. 
-- to test the longevity and truth, and nature, of any human belief system, just judge, how many pencils does it create and distribute.
-
-
-If we saw an ecosystem where water and calories were being hoarded, or withheld, or not used by its members, we wouldn't doubt the solution...
-
-
-## Interludes
-
-Practical stories to intersperse between chapters in Techvolution: A New Identity.
-
-### ! Story 1** - Handset
-
-When my buddy picked me up from work one day, he looked around and said, "What a dump." Coming from someone who visits offices, warehouses, and factories across the city, that review held weight. He was right—and not just about the 30-year-old carpet. This was the same place where my boss told everyone (but me) I couldn't speak to clients because my stuttering was an embarrassment, then lied to my face for years that it wasn't true.
-
-The thing is, the jackass boss wasn't entirely wrong. In casual conversation, I was usually fine. But in professional settings, I struggled. The difference was honesty.
-
-When I said what I genuinely thought, the path from brain to mouth was direct. I knew what was coming, so I could foresee problem sounds and substitute words ahead of time:
-
-Hi, I hope you're having a ~great~ nice day. I'm here to ~discuss~ talk about your...
-
-But when I had to discuss something I was unsure about—or didn't believe—I had to think while speaking. My stuttering became a lie detector, exposing every moment of hesitation.
-
-Honesty is great in friendships and often in academics, but not so much at work or society at large.
-
-So I got a job at an insurance claim call center (I swear I thought it was a good idea).
-
-During insurance adjuster training, I was pleasantly surprised how simple the insurance rules were. The policy is a standard contract written by the government; private insurance companies just underwrite and administer it. Car crash fault rules are also just government regulations. It took only a few days to learn all this.
-
-I was happy. I could learn and communicate this stuff with confidence.
-
-My first full claim was a crash at a gas station. My customer—called an "insured"—was hit while parked.
-
-But maybe he was moving, which would make the claim 50/50 at fault. After some back-and-forth with the other insurance company, I confirmed my insured was parked and the other guy was moving. 0/100 fault.
-
-"God bless you," my insured responded to that news.
-
-No lies, no uncertainty, no stuttering!
-
-"Don't get used to hearing that," my trainer replied to my good news.
-
-"Why not?" I wondered.
-
-### Story 2** - Orders
-
-The confidence I gained during training didn't last long. Within weeks, I realized it was just ignorance.
-
-Here's why. My old job, with the jackass boss and grimy carpets, was in business-to-business marketing. We built websites and tracking systems for trade publications like Jane's Defense Weekly, World Oil, and similar industry journals.
-
-We used new technology—HTML, Javascript, tracking links, web servers—to monitor which companies advertise on which websites and magazines. The information was digitized into dashboards that clients could check on their own time. I barely had to talk to anyone.
-
-The insurance office definitely had much nicer carpets (the first thing I noticed, along with the big windows and natural sunlight). But clean carpets, I'd learn, don't mean clean systems. We had little control over when we got the information. Insurance adjusters sit there all day dealing with unimaginably different situations and people.
-
-A few weeks in, I got such a call.
-
-The first question on the system we used was "vehicle color." So I asked this caller, "What's the color of the car?"
-
-"You're asking me about the color! My daughter and wife were taken to the hospital—who cares about color!"
-
-Injuries were further down the list of questions. But I learned my lesson there. Since the calls are so random, assume the worst every time. If you remember that, it saves you from insulting people and grounds other callers' attitudes too.
-
-It also makes for a dreary mindset. Now I understood what my trainer meant. "God bless you" definitely wasn't the norm.
-
-### Story 3** - The Job
-
-I thought learning the rules would be enough. I was wrong.
-
-An insurance adjuster must do three things on every claim:
-
-1. Find out what happened and who was involved.
-2. Determine if it's covered by the policy.
-3. Calculate the cost to fix it.
-
-Simple, right?
-
-Except we're authorizing thousands—sometimes hundreds of thousands—of dollars per day. And no one knows what to do after a crash. You don't—I bet. So, getting the information we need for three seemingly easy questions was mayhem.
-
-There was no rationalization. No production line. This information arrived in a constant, random stream: calls, emails, voicemails. We had no control over the flow.
-
-Sometimes people call from the crash scene. Sometimes disappear for weeks. Sometimes they call back 10 times a day for an update. Oh, and people lie constantly.
-
-"Why am I at fault?"
-_Because you hit a freaking tree!_
-"Unfortunately, we cannot sue the person who planted the tree."
-
-"I only drive Buick Enclaves."
-_That's... really specific._
-"Okay, I'll track one down for you."
-
-"How much will my rates go up?"
-_People ask this constantly._
-"I'm only an adjuster; I'm not trained for that information."
-
-A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the queue. All eight went to payment—fully processed, start to finish. I was so proud of myself. _I'm getting this. I got this. Let's go!_
-
-Then I got an email from a manager:
-
-*"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
-
-I was yet to learn the difference between working well and meeting targets. The mayhem was yet to really set in.
-
-### ! Story 3b*** - Claim Walkthrough - Reserves
-
-Ever put some money down on the blackjack table? Maybe roulette or baccarat is more your game. Whatever you bet, the casino must have the money on hand to pay you if you win.
-
-Insurance works similarly. Per government regulation, insurance companies must hold a reasonable amount of money on hand to pay claims as they come in. For this reason, insurance companies are huge purchasers of short-term bonds—bonds are liquid and can be sold quickly if a surprise tornado or snowstorm triggers a wave of unexpected claims.
-
-During a claim call, adjusters estimate the likely payment so the company can "reserve" the right amount of money from its accounts. The accounting needs to stay accurate as claims come in.
-
-So, during a call, while asking questions, we tabulate.
-
----
-
-Beep. The call-in is automatic answer. "Thanks for calling claims, this is Peter."
-
-"I'd like to report a claim."
-
-A woman's voice. She sounds shaky but composed.
-
-"Of course. Was anyone hurt?"
-
-"My daughter's wrist is hurting. We're going to our walk-in clinic later."
-
-_The injury adjuster will ask the detaisl. I hope she's okay._
-
-"I'm sorry to hear that. I'll have the injury adjuster call you later. However, for now we're just going to discuss the car damage. Is that okay?"
-
-"Yes."
-
-"Was anyone in the other vehicle taken away in an ambulance?"
-
-"No."
-
-"Okay, let's get started on the car details. This part takes 20 minutes. The Honda Civic—is it driveable?"
-
-"No, it was towed somewhere. I don't know where. You must know."
-
-_$500 or so for the tow._
-
-"I don't, unfortunately, but we'll deal with that a bit later. What's your car's color?"
-
-"I think they call it Majestic Blue."
-
-_Factory color. Cheaper to match if it's repairable._
-
-"Okay, where did this happen? Can you tell me the story?"
-
-"You don't have this already? The police were there with firetrucks."
-
-_Firetrucks. If she was at fault, the municipality bills us for the response. Two trucks at $500/hour, on scene for three hours, plus overhead. Around $3,000._
-
-"I don't have any special access, unfortunately. Can you just go over the story—where you were, where you were going, and what happened?"
-
-"We had spent the afternoon at the mall, and Sarah was showing me the earrings she'd picked. The sun came through the windshield, and then I remember looking up to see the brake lights too late. The sound of metal and glass. The airbag deployed for me. Not for her. I got out. Nobody stopped for us. I called police. They arrived and the firetrucks came too."
-
-_Airbag deployed. The damage above the airbag-trigger threshold usually means structural damage to the frame and engine bay. Late-model Honda Civics with frame damage are usually total losses—repair costs exceed the car's value. Probably $20,000 settlement. Plus the highway rails she mentioned hitting—we get billed for those, around $10,000 for a section. And she'll need a rental for the two weeks before settlement clears, $1,000 there._
-
-"Unfortunately, not many people stop nowadays. Do you have a rental car?"
-
-"No. I need one though."
-
-"Okay, I'll arrange one and they'll call you. I'm just going to do some paperwork here. Do you have any questions?"
-
-"Who is at fault for this accident?"
-
-"Well, you hit the other car from behind, so it sounds like you. Did you or they change lanes?"
-
-"No. But he stopped for no reason."
-
-"The government assigns crash fault rules. One of them says the car that rear-ends the other is 100% at fault."
-
-"That's bullshit."
-
-_Ignore that comment._
-
-"Okay. What kind of car was the other car driving? Do you have his info?"
-
-"It was a German car I think. The plate was 5453-ADN. Wait, I have the tow truck info. It's Ben's Towing."
-
-_A German car. Likely high-end. Parts delays for sure. Rear-end damage isn't as bad to repair, though. $25,000 for repairs and $3,000 for their rental during the parts wait._
-
-"I've assigned a car rental to call you. I'll call the tow company. Your car is likely a total loss, but we'll know for sure when we get it picked up and assessed. Do you have any questions?"
-
-"No. Thanks. Bye."
-
----
-
-_Final tabulation:_
-
-_Tow: $500 (ours) + $500 (theirs)_
-_Vehicles: $20,000 (ours) + $25,000 (theirs)_
-_Rentals: $1,000 (ours) + $3,000 (theirs)_
-_Firetrucks: $3,000_
-_Highway damage: $10,000_
-
-_Estimated total: $63,000._
-_I'll reserve $70,000 just in case._
-_Injury reserve held at $10,000 pending injury adjuster review._
-
-That's roughly 200 to 300 customers' annual premiums for this one crash. One claim phone call. Eight to twelve more claims today.
-
-### ! Story 4*** - The Bell
-
-Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, short-change, screw people over—that's what the public thinks.
-
-In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
-
-Here's why: we were only minorly measured on accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew that brokers could send customers to other companies.
-
-So the inbound caller hold metric became everything.
-
-To enforce it, they played a bell in our headsets. When someone was on hold, it rang: DING, DING, DING. A monotone alarm that never stopped until you picked up. A sound fit for a torture test.
-
-If the bell wasn't enough motivation, a manager would message: "ANSWER THE QUEUE." If that didn't work, they'd force calls through without warning—sometimes hanging up on whoever you were already helping.
-
-We had other work: emails from waiting customers, investigations, outbound calls. But none of that was tracked nearly as much. Just the bell.
-
-So we adapted. "Just pay it," managers would say. Some adjusters falsely marked claims "not at fault" to avoid the lengthy verification with the other insurance company. They'd take the customer's word and move on.
-
-Anything to stop the bell.
-
-Adjusters personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through rushed conversations.
-
-We were often more stressed than the people who'd just been in crashes.
-
-All because someone in head office—who'd never done our job—made a promise about hold times and never looked further than that one metric.
-
-The company got what they measured: fast answer rates.
-
-They also got inflated claims, burned-out adjusters, higher insurance rates, and a system that rewarded speed over truth.
-
-One more claim down. One less call to make that freaking bell ring.
-
-### Story 5** - I Don't Care
-
-Even as I got better at adjusting and taking calls, I couldn't do the fast, often confrontational, phone call thing. I needed to have a full conversation with each caller, which sometimes helped but took up a lot of time.
-
-Others could be direct.
-
-One veteran who showed me the ropes, Georgia, was excellent. No nonsense. She answered 40 calls a day with ease. I maybe managed 20.
-
-"People just need to listen," she'd say.
-
-As you'd hear adjusters yelling defensively: "I'm not a bad person! I'm not!" around the office, Georgia would declare: "You're 100% at fault." She'd listen to their objections, then: "Sir, this is what it is. Anything else I can help with?"
-
-Bam. Done. Next.
-
-One day Georgia called her phone company's customer service line. I had friends who worked those lines—I knew the job was basically ours. Within minutes, she was berating the representative. I don't remember what it was about—a data plan dispute, I think.
-
-Her call lasted 10 minutes.
-
-I asked her why she'd been so harsh. "They do the same job we do," I said.
-
-"I don't care. I'm the customer. I wanted it. Not my problem."
-
-It got me thinking. We wear so many identities—customer, representative, manager, head office administrator, burned-out worker—and we switch between them often punching ourselves in the gut. Georgia dealt honestly with people and expected them to take it. But the moment she stepped into a different role, she became the problem she'd been solving all day.
-
-### ! Story 6*** - Help
-
-Adjusting insurance claims was genuinely stressful. But also rewarding. Insurance sets money aside for people in need, so you get to help when people need it most.
-
-The system could be nuts, but the people's needs were very real.
-
-Someone's car was stolen, or there was a hit-and-run, sometimes even a drive-by shooting. If it's covered (those usually are), you help get their car fixed or replaced.
-
-Two claims I especially can't forget.
-
-One coworker was given a pile of claims to investigate after a large flood. He got to one fine country home, asked to see the water damage, and told the homeowner to send in their damaged items list for review. This was the first time I learned about "cat" claims—as in catastrophe.
-
-Another was a call I got after 5:00 PM on the emergency call-in queue. It was a young single mother. The waste pipes had burst in her walls. I was still just a car adjuster, but procedure was to send contractors over to contain the damage, a property adjuster would later review if insurance covers the bill.
-
-I told her that, but the lady refused the contractors.
-
-I ignored her protest—she had sewage all over her home this obviously needed to be fixed regardless. I continued filling out the needed forms. She said, "No!" _Insureds are so frustrating_, I told myself.
-
-Then she said, "I don't have any money."
-
-I quickly googled her area. She was in the poor area of a poor town. And I had just forced her to admit she had nothing.
-
-It was Friday, meaning she'd likely get an insurance answer by Tuesday. I became a property adjuster later on and learned she had insurance coverage for her problem. She had the money, but didn't have it at the same time.
-
-I often wonder what that mother did over the weekend. My imagination goes wild because some of my claims involved drug deals, prostitution, theft. I learned how desperate people often end up doing desperate things. And her kid was living in that home.
-
-As for the country estate homeowner—he noticed my coworker had forgotten to photograph parts of his basement. A mud basement, empty of most anything. He submitted his item list months later. Antique furniture and priceless art, something like $800,000 worth.
-
-His case in court was simple: "You were there. Prove I didn't have it." The case went on for years. I'm pretty sure he eventually won.
-
-The system couldn't tell the difference between desperation and greed. So it assumed everyone was lying—and the people who actually needed help often paid the price.
-
-### ! Story 7*** - New Tools
-
-The call-in queue was the rock—its warning bell kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
-
-My direct manager was an honest guy, but so stressed he sometimes slept in his car. Within months, he went full gray.
-
-I needed to adapt. Why not borrow from my grimy-carpet days?
-
-After each call, adjusters wrote custom emails explaining next steps—though they were nearly identical. Outlook's signature feature—basically pre-written text—let me create five or six standard email templates. It saved 2–5 minutes per call. Others copied it.
-
-I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. A dashboard tracked calls in real time, spotting trends: repeat callers, rental companies calling the wrong desk, etc.
-
-Adjusters also had to write extensive notes justifying our liability and spending decisions. Most claims were routine, so we used a "Discussed with" template. But it was a Word file. As management and adjusters added or removed questions, everyone worked off different versions—a consistency nightmare.
-
-I built an online form with dropdowns and buttons. Faster? No. But standardized—so reading other adjusters' notes, which we did constantly, became easier. Best of all: when management made changes, all adjusters updated automatically. Same sheet, always. Another dashboard tracked real-time trends.
-
-Those grimy carpets taught me something. I showed my gray-haired, sleep-deprived boss. He showed higher management. And then:
-
-"It costs too much to implement," they said. I could use my tools, but they wouldn't officially adopt it. It was free, of course by the way.
-
-They never asked me to explain how it worked or why I made it. But lower management eventually added dropdowns and buttons to the Word form.
-
-My gray-haired manager soon left for a bank. And the demands to answer more calls never stopped.
-
-I could end it here and make this sound quite damning. Insurance management didn't want to speed up their claims department!
-
-But really, it isn't.
-
-Inventing and adopting new tools is often part of our personal lives, but it's not part of our education and work culture. There's no law that protects it. No protests. No constitutional amendment. We are often not even socially aware of the effect our choices have, because we see our work titles or ethnicity, but not technological identity.
-
-For comparison, I feel much more animosity towards my high-school guitar teacher.
-
-I wanted to learn to play a few chords while getting my music credit. He insisted I learn musical notes. I could read but not fast enough during weekly tests. Instead I liked the "tabs" shortcut that made guitar fun. Besides Jimi Hendrix, Elton John, Paul McCartney, many other music greats can't read notes. Mark it against me sure, but why withhold the tabs that let me play better in my first music class?
-
-"Too bad", he said.
-
-I had no recourse. I got a very stressful 51%. Just one example. There are countless others. With a culture that allows others to entirely choose the tools we use, we can't expect different than workplaces and teachers that make arbitrary decisions.
-
-We also can't expect an economy that quickly responds to problems either.
-
-### Story 9*** - WOP
-
-When the snow falls, the bell dings.
-
-After a snowstorm came the true car claims center drama. We were staffed for yearly averages. But weather spikes didn't change the promise made to customers about short hold times.
-
-One storm was particularly bad. Several feet of snow in hours.
-
-We were told to drive to the call center to answer calls from people who'd just crashed in that same storm. Insurance companies once helped fireproof cities in the 1800s. Despite having computers and headsets at home, we still had to brave icy roads.
-
-The crashes spiked, the bell rang nonstop for days. DING DING DING.
-
-One coworker, Tildy, handled serious and "Without Prejudice" claims—meaning we officially told insureds the claim might not be covered, often for impaired driving or fraud suspicions. On one extremely serious claim, she spoke to a widow. Her husband had burned alive in the car—only his hands remained on the steering wheel. The widow was sobbing: "I need to see the car. I need to see it."
-
-We were just claims adjusters, not therapists. We learned to deal with these conversations by encountering them. We tried to support a usually tough but now breaking Tildy as she spoke for an hour with the suffering widow.
-
-Her manager noticed how long the call was taking. He came over and snapped his fingers.
-
-"Hurry up. Hurry up."
-
-We all just stared at him.
-
-Around this time, head office sent an email. Adjusters make notes about everything while on the phone; it's how we document and justify our decisions. We use short hand to keep up with conversations. Most abbreviate, insured is "insd", other driver is "TP", and Without Prejudice is "WOP".
-
-After decades of doing this, it was deemed very offensive by an unknown person. I grew up with Italians, several were in claims with me, but didn't know decades ago their grandparents were sometimes called "Without Papers," or WOP.
-
-I don't know the connection beyond the three letters. We dealt with customers' tragedies—thefts, abductions, murders, burning alive—everyday, with no training and no one studied the cause beyond what was documented in our notes and phone calls.
-
-I do know when the CEO visited from head office a few years later, the managers turned the bell off for the day.
-
-### Story 10* - Just a Job
-
-The claims center was brutal. But it was a job. You got used to it. And the pressure forged great friendships across roles and management because people were, for the most part, just trying to get themselves—and their coworkers—through the day.
-
-Once I was established, I was asked to help the Total Loss department. These adjusters told insureds what insurance would pay them when their car couldn't be repaired.
-
-I was a pretty good adjuster by then. I said, "Just tell me the basics. I'll start making calls and close files."
-
-Two veteran total loss adjusters explained how the software searches the internet for recent car ads. We compared the loss vehicle to these ads, made minor adjustments for condition and mileage, and that was it.
-
-Simple.
-
-I'm often lucky enough to be considered funny, and this humor definitely helped in a claims center. But I'd never seen anyone laugh as hard as my two friends did listening to my first total loss call.
-
-"Hello, Mr. Insured. I'm calling from Total Loss to discuss your vehicle value."
-
-I started reading his vehicle information for the first time.
-
-"Okay, so you had a Ford Econovan. I see it's older with high mileage. The value came back at $2,640. You're a registered organization, so no tax is added, and after your $2,500 deductible your settlement is $140."
-
-I was flustered. It seemed like a terrible deal.
-
-My trainers were on the nice carpeted floor—laughing without control. I kept muting my headset to ask for help. The insured was as confused as I was. He was definitely getting really mad though.
-
-He was a member of a religious community and didn't have the typical emotional vocabulary insureds use to express disgust. But he knew he'd been buying insurance for years only to have us take his truck for less than the value of a single tire.
-
-My trainers left the office. I don't know where, but they came back hours later, still red-faced and teary.
-
-I spent weeks dealing with a very upset customer. I understood—sometimes adjusters make mistakes too.
-
-I learned another lesson: read settlements beforehand, prepare insureds for bad news. Claims was like sales in reverse—we had to sell people on something they'd already bought. Better done when they didn't hate you.
-
-I eventually got his truck towed back to his country home. I miss those friends. We learned the ropes together.
-
-### ! Story 11** - Not unique
-
-Most claims had one or more other drivers involved. So we talked to other adjusters constantly.
-
-An easy way to relate to these colleagues was to ask, "What's your pending?"
-
-Translation: how many claims do you have open? The higher the pending, the higher the daily grind of the adjuster.
-
-Mine was usually 50–80. Some other insurance companies had 200 and a hold time of an hour. You'd hear it in their voice.
-
-I'd talk to these adjusters and realize my department was actually one of the better ones out there. We mostly got along. We went on trips, did bar nights, celebrated each other's achievements, and respected our managers.
-
-But they, and everyone, were simply up against a wall.
-
-We had no control over the stream of problems we encountered, but since "insurance" is associated with making problems go away, a person running a red light, or getting their car stolen, became our problem to help solve.
-
-One of my claims happened in a different state.
-
-I could not find its government regulations. I tried and tried, called and searched around.
-
-I got it days later. The regulation said a not-at-fault driver could sue the at-fault driver for $1,000. Any damage above that requires having collision coverage to repair. My insured had no collision coverage. I had to explain this to my insured over a long phone call.
-
-In short, the insured was screwed.
-
-But by whom? He didn't buy collision insurance, but maybe someone could have told him this could happen? Yet, I've processed thousands of claims and didn't even know his situation was possible.
-
-The point is, after asking "what's your pending?" to hundreds of adjusters around the country, these stories were common. With so many different regulations, laws, policies, vehicles, companies, etc. Complications and surprises are inevitable.
-
-Here's another example to illuminate the point. 
-
-For decades, every American car shared the same handful of standardized headlight designs—universal, cheap, and always in stock. But the sealed-beam technology was getting old. When deregulation came in 1983, innovation arrived with it—halogen, then LED—but then ran away entirely.
-
-Today there are thousands of unique headlight assemblies, each specific to one model and trim level, and priced accordingly:
-
-| | **1982 Sealed Beam** | **2026 Headlight Assembly** |
-|---|---|---|
-| **Part cost (nominal)** | ~$8–$15 per unit | $300–$1,000+ per side (LED); up to $4,000+ for premium |
-| **Part cost (2026 dollars)** | ~$25–$48 | $300–$4,000+ |
-| **Labor time** | 5–10 minutes, DIY-friendly | 30 min to several hours; often requires bumper removal |
-| **Labor cost** | Near zero (truly self-service) | $100–$1,000 per side depending on vehicle |
-| **Total real-world cost** | ~$25–$50 all-in (2026 dollars) | $400–$5,000+ all-in for complex systems |
-| **Availability** | Any auto parts store, universal fit | Model-specific, sometimes weeks on back-order |
-
-And this is just for headlights. The increasing complication of our economy has strong ripple effects. Who pays when waiting weeks for a model-specific parts? The car owner, repair shop, manufacturer, parts supplier, insurance company? Arguing over who pays is now routine and definitely raised insureds emotions and adjuster pendings.
-
-Just food for thought. These are not just stories of my job. The bell ringing at the claims center isn't just a warning for adjusters to work faster—it's ringing for you too, a signal about the state of your economy, heard directly from the frontline.
-
-### Story 12* - Thanks
-
-I made a call to a mother and daughter once. They had a Toyota Yaris. I was their total loss adjuster. This time I was prepared with the payment breakdown, justification, and aware of any bad news that could rattle an insured.
-
-I gave them their number and...
-
-Heard nothing.
-
-"Hello?" I said.
-
-"Sorry, we're just dancing over here!"
-
-They were ecstatic and thanked me a bunch. The truth was Toyotas hold their value well, and the Yaris especially so. But I was the bearer of good news, so they gave me the credit.
-
-Years later, our receptionist asked me to visit her. Sometimes people mail in their documents and pictures, so I figured there was a package waiting for me.
-
-It was not.
-
-It was a present. An Edible Arrangement, from a thankful insured. It happened a few times a year. I feel bad that I can't remember the claim or the lady, he thanked me for helping her out. 
-
-I can re-create the claim process though.
-
-I'm almost positive that she had the other drivers information. She knew where she wanted her repairs done. She was happy with the new Toyota Camry for her rental car. The other driver reported their claim too. Both drivers had the same version of events. Liability was easy to confirm.
-
-All I did was assess this information after everyone did their part.
-
-The point is, claims are collaborations, and often went fine—it's just problems caused by insureds, adjusters, and others could easily clogged up the system. And those angry people called especially often.
-
-In the vein of happy customers, here's a funny fact I love to share with everyone, especially people who love or hate new technology.
-
-The smoothest claims often came via snail mail. Usually elderly people with no computer, who filled out paper claim forms, photocopied their invoices and receipts, and got their pictures printed.
-
-Here's why: they always took the time to collect everything I needed to process their claim.
-
-Most people, of course, love the speed of smartphones. Yet speed meant less preparation. It wasn't unusual to get 10 emails from a person in one day—each with a single photo, or a question they could've asked in the first message.
-
-The claims system originated back when people mailed documents and adjusters called to discuss conclusions. We bolted new technology onto the system as it arose without rethinking the process.
-
-I'd think when reading these ancient paper forms, "Why is this so easy. Most people know how to use new technology, but our society hasn't yet learned to work together using it.
-
-### ! Story 13** - Perfect Example
-
-The information from a crash is very sporadic. One big problem is at-fault drivers often don't report their claim, especially if they don't have collision coverage.
-
-But adjusters need to confirm liability. And we have the right to do it too. Being insured for thousands to millions of dollars comes with some obligations.
-
-Adjusters are what's called the "Second Party," meaning we are a legal association with the "First Party" insured, especially when someone else, the "Third Party," makes a claim against you. We can ask any relevant question, and the insured can't withhold information. This is what makes processing insurance claims so educational. We literally step into the shoes of our customer's situation and must either vouch for, or disprove, their stories.
-
-When another insurance company doesn't have their side of a crash reported, we send a "Third Party Report" requesting they open one up and investigate.
-
-I called out on many such claims. Usually our driver would confirm the details and not want to open a claim up for their own damages.
-
-One time was especially different.
-
-Our driver tells me the third party's story is bogus. The insured said he wasn't in a car crash, and he wasn't even in the city! Fraud, he told me—the other driver is committing fraud!
-
-So I emailed the other adjuster, who replied with a picture.
-
-I wish I had it now. I can still see every detail. It was amazing, worthy of remembrance.
-
-First, it was perfectly sharp with no focus or artifact problems. It was the middle of a sunny day, so lighting was spot on. It was taken by the other driver leaning outside of his window—so there were no obstacles in the way.
-
-The picture was taken at an intersection in a small downtown core.
-
-A white van was in front, with the same brand as my insured's. The license plates were clean, readable, and correct. The street signs for the intersection were billboard legible. The town's clock tower was even in the background telling the time. And the best part: my insured's face was visible in the reflection of his side mirror. He was clearly frowning, like someone who just reversed into someone, as the other guy was claiming.
-
-The thing is, images don't show movement. I couldn't technically use this image to confirm liability.
-
-But that picture was so perfect, my insured just said, "I'm sorry."
-
-I'll take this moment to say, please get a car dash camera installed. It makes pictures like this common—but still amazing.
-
-### ! Story 14*** - Cured
+### Story—Cured
 
 You might remember: one of my first claims involved tracking down a Buick Allure for my insured. It took hours that I didn't have to spend. But she'd never actually asked. She'd simply said, very nicely mind you: "I only drive Buick Allures." I assumed it was my job, so I found one.
 
@@ -4055,37 +3309,126 @@ The struggle isn't inevitable. The tools to fix it already exist. The problem is
 
 This all became the practical foundations of Techvolution.
 
-### Story 15 - Scissors
+### Story—New Tools
 
-We had assigned claims. Meaning, even though we received and answered random calls from customers, brokers, and anyone else, one adjuster was ultimately responsible for the claim.
+The call-in queue was the rock—its warning bell kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
 
-We had to "move the claim along".
+My direct manager was an honest guy, but so stressed he sometimes slept in his car. Within months, he went full gray.
 
-Calling other insurance companies, emailing rental companies, tracking down whatever information wasn't being sent into us.
+I needed to adapt. Why not borrow from my grimy-carpet days?
 
-So, we would put reminders on our claims. Customer on vacation in three weeks, call back then. Rental company set to have a pickup truck ready, make a note. We had to fit all these reminders into our workflow. 
+After each call, adjusters wrote custom emails explaining next steps—though they were nearly identical. Outlook's signature feature—basically pre-written text—let me create five or six standard email templates. It saved 2–5 minutes per call. Others copied it.
 
-The Bell always reigned supreme.
+I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. A dashboard tracked calls in real time, spotting trends: repeat callers, rental companies calling the wrong desk, etc.
 
-I was behind on my reminders. Not unusual. Mine got particularly bad. Anyone not calling us would slowly get more angry as their claim wasn't "moving forward."
+Adjusters also had to write extensive notes justifying our liability and spending decisions. Most claims were routine, so we used a "Discussed with" template. But it was a Word file. As management and adjusters added or removed questions, everyone worked off different versions—a consistency nightmare.
 
-So I showed up early one day. 8:00 AM. I had an hour of free time to do five to hopefully 10 reminders. 
+I built an online form with dropdowns and buttons. Faster? No. But standardized—so reading other adjusters' notes, which we did constantly, became easier. Best of all: when management made changes, all adjusters updated automatically. Same sheet, always. Another dashboard tracked real-time trends.
 
-DING DING DING.
+Those grimy carpets taught me something. I showed my gray-haired, sleep-deprived boss. He showed higher management. And then:
 
-Not my problem. I'm not even legally here.
+"It costs too much to implement," they said. I could use my tools, but they wouldn't officially adopt it. It was free, of course by the way.
 
-"Hey, can you get that call?" my manager asked.
+They never asked me to explain how it worked or why I made it. But lower management eventually added dropdowns and buttons to the Word form.
 
-I check the time. 8:01 AM. I did, of course. I got a few reminders done after that, but not many.
+My gray-haired manager soon left for a bank. And the demands to answer more calls never stopped.
 
-The company had a thank you program in effect. My manager did the best he could, and got me a voucher for a gift.
+I could end it here and make this sound quite damning. Insurance management didn't want to speed up their claims department!
 
-I got a pair of scissors. I still have it. Every time I look at them I still think.
+But really, it isn't.
 
-Eight oh frickin one.
+Inventing and adopting new tools is often part of our personal lives, but it's not part of our education and work culture. There's no law that protects it. No protests. No constitutional amendment. We are often not even socially aware of the effect our choices have, because we see our work titles or ethnicity, but not technological identity.
 
-### ! Story 16 - Last Call
+For comparison, I feel much more animosity towards my high-school guitar teacher.
+
+I wanted to learn to play a few chords while getting my music credit. He insisted I learn musical notes. I could read but not fast enough during weekly tests. Instead I liked the "tabs" shortcut that made guitar fun. Besides Jimi Hendrix, Elton John, Paul McCartney, many other music greats can't read notes. Mark it against me sure, but why withhold the tabs that let me play better in my first music class?
+
+"Too bad", he said.
+
+I had no recourse. I got a very stressful 51%. Just one example. There are countless others. With a culture that allows others to entirely choose the tools we use, we can't expect different than workplaces and teachers that make arbitrary decisions.
+
+We also can't expect an economy that quickly responds to problems either.
+
+### Story—New Tools Again
+
+The information from a crash is very sporadic. One big problem is at-fault drivers often don't report their claim, especially if they don't have collision coverage.
+
+But adjusters need to confirm liability. And we have the right to do it too. Being insured for thousands to millions of dollars comes with some obligations.
+
+Adjusters are what's called the "Second Party," meaning we are a legal association with the "First Party" insured, especially when someone else, the "Third Party," makes a claim against you. We can ask any relevant question, and the insured can't withhold information. This is what makes processing insurance claims so educational. We literally step into the shoes of our customer's situation and must either vouch for, or disprove, their stories.
+
+When another insurance company doesn't have their side of a crash reported, we send a "Third Party Report" requesting they open one up and investigate.
+
+I called out on many such claims. Usually our driver would confirm the details and not want to open a claim up for their own damages.
+
+One time was especially different.
+
+Our driver tells me the third party's story is bogus. The insured said he wasn't in a car crash, and he wasn't even in the city! Fraud, he told me—the other driver is committing fraud!
+
+So I emailed the other adjuster, who replied with a picture.
+
+I wish I had it now. I can still see every detail. It was amazing, worthy of remembrance.
+
+First, it was perfectly sharp with no focus or artifact problems. It was the middle of a sunny day, so lighting was spot on. It was taken by the other driver leaning outside of his window—so there were no obstacles in the way.
+
+The picture was taken at an intersection in a small downtown core.
+
+A white van was in front, with the same brand as my insured's. The license plates were clean, readable, and correct. The street signs for the intersection were billboard legible. The town's clock tower was even in the background telling the time. And the best part: my insured's face was visible in the reflection of his side mirror. He was clearly frowning, like someone who just reversed into someone, as the other guy was claiming.
+
+The thing is, images don't show movement. I couldn't technically use this image to confirm liability.
+
+But that picture was so perfect, my insured just said, "I'm sorry."
+
+I'll take this moment to say, please get a car dash camera installed. It makes pictures like this common—but still amazing.
+
+### Story—Not unique
+
+Most claims had one or more other drivers involved. So we talked to other adjusters constantly.
+
+An easy way to relate to these colleagues was to ask, "What's your pending?"
+
+Translation: how many claims do you have open? The higher the pending, the higher the daily grind of the adjuster.
+
+Mine was usually 50–80. Some other insurance companies had 200 and a hold time of an hour. You'd hear it in their voice.
+
+I'd talk to these adjusters and realize my department was actually one of the better ones out there. We mostly got along. We went on trips, did bar nights, celebrated each other's achievements, and respected our managers.
+
+But they, and everyone, were simply up against a wall.
+
+We had no control over the stream of problems we encountered, but since "insurance" is associated with making problems go away, a person running a red light, or getting their car stolen, became our problem to help solve.
+
+One of my claims happened in a different state.
+
+I could not find its government regulations. I tried and tried, called and searched around.
+
+I got it days later. The regulation said a not-at-fault driver could sue the at-fault driver for $1,000. Any damage above that requires having collision coverage to repair. My insured had no collision coverage. I had to explain this to my insured over a long phone call.
+
+In short, the insured was screwed.
+
+But by whom? He didn't buy collision insurance, but maybe someone could have told him this could happen? Yet, I've processed thousands of claims and didn't even know his situation was possible.
+
+The point is, after asking "what's your pending?" to hundreds of adjusters around the country, these stories were common. With so many different regulations, laws, policies, vehicles, companies, etc. Complications and surprises are inevitable.
+
+Here's another example to illuminate the point. 
+
+For decades, every American car shared the same handful of standardized headlight designs—universal, cheap, and always in stock. But the sealed-beam technology was getting old. When deregulation came in 1983, innovation arrived with it—halogen, then LED—but then ran away entirely.
+
+Today there are thousands of unique headlight assemblies, each specific to one model and trim level, and priced accordingly:
+
+| | **1982 Sealed Beam** | **2026 Headlight Assembly** |
+|---|---|---|
+| **Part cost (nominal)** | ~$8–$15 per unit | $300–$1,000+ per side (LED); up to $4,000+ for premium |
+| **Part cost (2026 dollars)** | ~$25–$48 | $300–$4,000+ |
+| **Labor time** | 5–10 minutes, DIY-friendly | 30 min to several hours; often requires bumper removal |
+| **Labor cost** | Near zero (truly self-service) | $100–$1,000 per side depending on vehicle |
+| **Total real-world cost** | ~$25–$50 all-in (2026 dollars) | $400–$5,000+ all-in for complex systems |
+| **Availability** | Any auto parts store, universal fit | Model-specific, sometimes weeks on back-order |
+
+And this is just for headlights. The increasing complication of our economy has strong ripple effects. Who pays when waiting weeks for a model-specific parts? The car owner, repair shop, manufacturer, parts supplier, insurance company? Arguing over who pays is now routine and definitely raised insureds emotions and adjuster pendings.
+
+Just food for thought. These are not just stories of my job. The bell ringing at the claims center isn't just a warning for adjusters to work faster—it's ringing for you too, a signal about the state of your economy, heard directly from the frontline.
+
+### Story—Last call
 
 **Thank you for calling claims, my name is Peter, how can I help you?**
 
@@ -4147,35 +3490,345 @@ One more.
 
 "Hello, I'd like to report a claim. One of my cows slipped on ice and hurt herself."
 
+## Chapter 13-Epilogue
+
+### Epilogue
+
+_What you see when you look at intelligence [polygenic scores predicting educational attainment] is that this maxes out in the Bronze Age, between 5,000 and 2,000 years ago. The impact in the last 2,000 years is almost nothing. There's no evidence of natural selection at all. Your bias coming into this, my bias perhaps, might be that if there's any signal of natural selection on this trait at all, that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years._
+
+Dr. David Reich
+Professor of genetics at Harvard Medical School
+Dwarkesh Podcast, May 8, 2026.
+dwarkesh.com/p/david-reich-2
+
 ---
 
-That was late on Friday afternoon. It was the last call for the week. And my last queue call ever.
+The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
 
-The bell would keep ringing. Other adjusters would still be on the line, still answering, still trying to keep up. Entropy always increases. Society would always need repairs, from car crashes, fires, hail storms, and other "acts of God" as we'd say like the hunter-gatherers of old.
+From the grass producing the first biomatter, to grazers turning it into meat, to the predators and decomposers each doing their part—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected. 
 
-The work can be ignored. But the problems never stop. The Game of Life is played or lost.
+You can be motivated by and identify as anything you think best. Some animals love their offspring while others disregard them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the gameboard. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, from super advanced AI to the simple pencil, just know the only way to communicate value to natural selection is building material adaptations inside an efficient ecosystem.
 
-The technological ecosystem we built and depend on, was operated by people either full of stories about themselves but only dimly aware of the wonderful technological giving tree that sustains them. Or occasionally by people who prepared and countered the bad news with a new tool, and who are slowly building a new identity.
+I came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem selecting tools.
 
-I grabbed my diary. I grabbed a pencil. I wrote another note. Another entry. A new book.
+This observation was always there to be realized, like universal gravitation or bacteria infecting a wound. We just haven't built the framework to see it—thinking reality will conform to human stories in yet another realm—and that isn't anyone's fault.
 
-Then a program to heal society a little faster, hold back entropy, and happily study acts of God—when, where, and why they happen.
+New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than make and share tools with their own members.
 
-And shut that bell up forever.
+Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hard part. It's evolving one without conflict that's proven so hard for us.
+
+None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live a complete human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I work in, that others in and outside of my community operate.
+
+I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what tools I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software inside a society that finds it increasingly hard to build things quickly.
+
+By naming the "technological giving tree" in the vignettes, I wanted to hit you with where we are: the very beginning of a technomass Earth. We are Kai—the hunter-gatherer who walked for days to find a tree he could have planted at home. It's no wonder Kai couldn't imagine agriculture; it took humans hundreds of thousands of years to learn to master biomass in such a way. We are a few thousand years into a technological Earth.
+
+Kai is our biological equal with a mindset just as out of date. Even so, I hope you finished the vignettes with a smile, because we're just starting the adventure. The raccoon will always scavenge the urban jungle. We can plant and harvest it instead.
+
+For now, the tree is dying.
+
+The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy but don't return nearly enough—so entropy is tearing it down. I've handled the claims for much of it: car breakdowns, collapsed septic tanks, flooded basements, burned homes, blown generators, fallen bridges. No one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
+
+We aren't doing that fast enough.
+
+As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy often "wins". Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were religious scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
+
+We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertile soil, someone has to cross the dangerous waters and plant many new giving trees with the tools we have.
+
+Reimagining society is hard. It's full of failure, natural and artificial, because no one has been here before.
+
+Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world—the open-source makers have already evolved so many wondrous free tools for anyone to get started. That's the fertile soil in which you—where you are in the world—can grow the future.
+
+After all, adapting to a new gameboard is where life lives.
+
+Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions. Each is but an example of artificial selection at its worst—making up a story to justify strangling the better tool so the old one survives just a little while longer even though entropy catches up everyone equally.
+
+Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for us to be honest that each job and title we have is connected to a toolset, with a lifecycle, and when our tools age it's perhaps time to pass the torch.
+
+You don't have to transform society by yourself. Each person contributes best by better harvesting energy in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our local environment faster. And healthy ecosystems need all types, from body sizes to abilities, interests and motivations, so there's no need to wait on anyone else.
+
+So the biggest question to ask yourself: what tools do I need, what do I depend on, what ecosystem am I part of? Answer honestly, and you start to distinguish the natural from the artificial—in your own mind, and others'.
+
+This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. You can't break the rules of evolution and win the game of life, i.e. it's no one's job to evolve for you. It's a natural law.
+
+This is the best book I could write to show you why. Like everyone else past, present, and future, you exist in a unique moment in time and space. It came with certain advantages and obstacles, beliefs and cultures, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Convert energy into many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Smile. Rest. Repeat.
+
+In short, cure the bell.
+
+Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born. Against many competitors, they won the Industrial Age by using their combined diversity of thought and love of mass production to start the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
+
+If you want affordable housing, easier schooling, predictable investments, cleaner environment, working healthcare, healthy citizens, helpful debates, an increasing social surplus to invest in the future—the choice is yours.
+
+Argue and fight over a piece of the decaying Industrial Age giving tree—who should get what job, title, and inheritance. Or plant, tend, and harvest a new way of life.
+
+Do you want to watch three seeds fall?
+
+Or drop them yourself?
+
+## Preview—Book II—Mixed Ideological Politics
+
+### Discovery
+
+On August 24th, year 79, Mount Vesuvius erupted. The volcano pushed ash clouds miles into the sky. Soon scorching debris was falling for miles around like snow during a fierce Siberian blizzard. Thereafter, Italian towns Pompeii and Herculaneum were frozen in a single, catastrophic moment. A snapshot of Roman life was preserved under endless ash—everything from bread in ovens to human expressions of terror, from artistic frescoes to fragile scrolls.
+
+Yet this moment of destruction was just another period of profound loss.
+
+Even with all the many ruins we can visit today, most of everything from the ancient world is gone. For example, historians estimate that over 99% of ancient literature was lost to time—burned, destroyed, disintegrated, or simply forgotten. Entire libraries, generations of human knowledge, vanished like the smoke of Mount Vesuvius. The Library of Alexandria, with its hundreds of thousands of scrolls, would become the most famous casualty of this sad intellectual loss.
+
+But some fragments survived, often in garbage dumps, old churches, or disaster sites like Pompeii and Herculaneum.
+
+Covered by ash, the scrolls from Pompeii and Herculaneum were far too fragile to ever be opened. So we did not open them. They were collected and stored. It was left to our imaginations to dream of the knowledge that was locked inside.
+
+Until, like the microscope let us see unknown tiny worlds, modern CT scanners could finally peer inside the ash scrolls, and machine learning algorithms could decode the information the scans uncovered. Now, after nearly 2000 years, we could finally read this time capsule of information.
+
+Even so, Dr. Elena Stavros hadn't expected much when she ran the first fragment through the advanced CT scan. After endless hours in her lab she kept thinking "Another piece of ancient debris; another dead end". But something in one of the algorithmic reconstructions dazzled her eye.
+
+Lines of text emerged. The machine learning model peeled back layers of carbon and time, revealing Greek characters that seemed to shimmer like fairy dust on her computer monitor.
+
+"It's not just text," she whispered to her research team. "It's a new dialogue!"
+
+The manuscript was from Magos of Samos—a name barely mentioned in historical records. We only know he, or she, was a student of Aristotle whose work had been lost to time. But here, preserved in the volcanic tomb of Pompeii was a text fragment.
+
+A text fragment written not just to the future, but about the future.
+
+The AI had done more than decode text. It had resurrected a voice that had been waiting nearly two millennia to be heard. Magos' words, preserved by volcanic fire, decoded by machine intelligence, were a lost story of Socrates learning a vital lesson that was remarkably prescient today.
+
+Only fragments have been uncovered thus far, so the author filled in some gaps. It proved to be the best foreword the author and reader could ask for.
+
+### Short Story Dialogue
+
+The salt air carried the scent of tar and sweat thick through the crowd. The great Athenian harbor of Piraeus churned with activity—merchants shouting prices in a dozen dialects, slaves hauling amphorae of oil and wine, sailors mending nets with practiced hands.
+
+A bronze-tipped spear split its way through the crowd. He stopped, breathed in and looked around. This display of commerce, engineering, civil law makes the soldier stop and smirk.
+
+Now the people walking by patting him on the shoulder. A sign of respect.
+
+This is why Athens was the jewel and central power of the Hellenic world. Not just for the commerce that made her rich, or the engineers that made her powerful, but for the democracy that made them united.
+
+And Socrates was one of her citizens. Nearing middle aged but in good health. His balding head and stubby nose made him rather ordinary in appearance, if it weren't for the hoplite armour he half wore and carried with him. Bronze shield and helmet, hardened spear, sword, and leather armour.
+
+As people's hands keep patting his shoulders.
+
+"Give those Spartans Athenian metal!" A teenager cries out to the soldier. "Hip hip horray!" responds the crowd.
+
+Socrates can't help but smile as he continues walking through the crowd. He sees a stump near a pier and walks over as the cheers die down. 
+
+A better place to observe the organized chaos of it all. Holding his helmet, he feels at its weather leather straps and worn paint, and reflects at the chaos of the people, and thinks they are like ants on so many ant hills.
+
+Of course better than ants he thinks. The Pythagoras school teaches the laws of geometry, workers use them to build the walls, lay the ships, grind the corn, and build the armor.
+
+Socrates is awoken from his reflection by a crash of wood on stone. A Phoenician vessel eases into berth, its wood hull scarred by countless voyages. The crew moves with an efficiency born of necessity—like ants he thought again—each man knowing his role without instruction.
+
+Not ants of course. Because each man must learn their place. But how?
+
+Education of course. That thought makes him mourn. He long wanted to teach students, as his friends are wont to say, he is plagued by questions. Not the sort his fellow citizens asked about grain prices or political alliances, but deeper puzzles about justice, virtue, the nature of a good life.
+
+The war horn sounds again from the Acropolis. Soldiers are being called to their ships. Socrates wandered off from the mustering grounds, he told himself he needed to be reminded one more time why he fights.
+
+Socrates holds his gear one more time. Inherited from his father, he will live or die inside this gear, maybe against Spartans with a undying reputation for being the masters of warfare with the hardest of shields and the sharpest of spears. He does not want to die, but is sad that his unanswered philosophical questions will die with him.
+
+Just then a strange sound catches his attention—a cacophony unlike anything he'd heard before.
+
+The strange vessel moves with deliberate care toward an empty berth, its crew working in hushed concentration. Socrates has seen ships from across the Mediterranean—Egyptian grain haulers, Phoenician traders, even the occasional barbarian craft from beyond the Pillars of Heracles—but this one puzzles him. It has Athenian colors, and design but is weathered and filled with many cages covered with leathers and tarps.
+
+What truly catches his attention, however, are the sounds.
+
+A cacophony of chirping, chattering, and calls unlike anything heard in an Athenian market before. These many creatures were seemingly all still alive.
+
+Not unusual for a ship. Ships often bring animals for trade and sale. But usually large lions, giraffes, and other beasts.
+
+As the ship draws closer, Socrates could see these creatures are in wooden cages stacked along the deck. As the leather tarps are removed, he sees the diversity. Birds with brilliant plumage that seem to shift color in the sunlight, furry creatures of some sort, lizards of impossible variety.
+
+"By Zeus," muttered an old fisherman beside Socrates, "what manner of voyage brings back a floating menagerie?" The fisherman taps Socrates spear as he walks away too busy with his job to care anymore on the matter.
+
+As the gangplank lowers, a figure emerges that commands immediate attention. He is perhaps thirty years of age, with the weathered look of a man who had spent months under foreign suns, yet his eyes hold an intensity that reminds Socrates of the philosophers who gathered in the agora.
+
+Behind him comes his crew, carefully carrying the cages with a reverence usually reserved for sacred objects. The man supervises each movement, occasionally making notes on a wax tablet, his attention shifting between his precious cargo and detailed sketches that flutter in the sea breeze.
+
+"Careful with the labels of each cage," he calls to a sailor. "Each variety tells a story!"
+
+Stories? Socrates walks closer to investigate. What stories could animals tell? The philosopher in him stirred with familiar hunger. These were no ants, but a puzzle. One last one before his battle.
+
+The man steps fully onto the dock. "Nikias! Arrange the bird specimens by island of origin," he calls to a young sailor struggling with a cage of peculiar finches. "The ones from the eastern archipelago here, the western group there. Mind the labels."
+
+"Again with the labels! Did you not write your records already?"
+
+"The labels!"
+
+Socrates watches, fascinated, as the crew begins organizing the menagerie with methodical precision. The man—clearly the expedition's leader—consults his notes constantly, directing the placement of each cage with the care of a priest arranging sacred offerings.
+
+"These tortoises," the man says, pointing to several large shells that housed creatures with different neck lengths.
+
+Another sailor holds up a cage containing what appears to be the same type of small, dark bird. "Where do these go, Zographos?"
+
+The man, Zographos, helps the sailors move the crates off. He returns to arranging his wax tablets, sheets of papyrus, and scrolls.
+
+The war horn rings twice. Socrates doesn't acknowledge it this time. Instead he approaches Zographos.
+
+"Friend," Socrates begins. "I am Socrates, son of Sophroniscus. Welcome home. Pray tell, where did you return from with such a wondrous variety of cargo."
+
+"Hello Friend, I can see the rumours of war were not exaggerated. I pray for your safety and for the Spartans to come to his senses."
+
+"I thank you for the well wishes. But I must note that you fail to answer the query."
+
+"Friend, I respect the protection you do for our city. But to tell you where I've been and what we've seen is by no means for conversation here at the dock. Pythagoras needed education and students for his work, and I will too."
+
+"More curious words I cannot remember hearing. But forgive me, some may not be here to read your scrolls or seat in your academy." This incites the response Socrates wanted.
+
+"Zographos of Athens," says, as he gives Socrates his hand. "I have returned from the Blessed Isles, far beyond the western horizon—islands that Homer never even sang of, where the very foundations of life reveal their secrets. Please ask your questions, I can see the new triremes fleet is embarking even as we speak. Finer ships cannot be found anywhere on the seas. They will put you on trial Socrates if you desert, so be quick of questions and comprehension."
+
+Socrates feels his pulse quicken.
+
+"Why group them by shell shape and cages?"...
+
+"Because Socrates, the Gods are craftsman with a hammer and the environment is the anvil!"
+
+Socrates draws his weather gear aside to move closer to this weathered traveler and his extraordinary cargo. Something in the man's precise movements and intense gaze suggested a mind as restless as his own.
+
+"Indulge a soldier. Please continue."
+
+"You surely know Herodotus of Halicarnassus and his tale of The Egyptian king Necho II."
+
+"They sailed around Arabia."
+
+"We set out to show the way again. Surely the trade routes would be grant Athens riches worthy of the task... And instead we found blessed islands."
+
+"The Blessed Isles?" Socrates gestures toward the cages. "And these creatures—why capture them? For trade, for sacrifice?"
+
+"May the Gods strike me down for the thought."
+
+Zographos pauses for a minute. He's preparing to say his deepest thoughts.
+
+"These animals are teachers, Socrates. Each one holds a lesson. You see, the winds wouldn't let us go south. They brought us to these islands in the middle of the ocean with nothing but volcanoes at their tips, and forests, ponds, streams, and in small patches throughout their lonely rocks."
+
+"We tried every route south. Going from island to island looking. Soon we needed supplies of course, so we went back again and again. No cities. No temples. No men. All the better, it turns out. For I finally saw how different each island was".
+
+"And then I noticed how the creatures—birds, lizards, tortoises—each looked the same, but different, just enough to survive."
+
+"The creatures morphed like the gods."
+
+As Socrates leans forward, his eyes bright with intellectual hunger, Zographos feels a rush of uncertainty, a concentrated dose of what has accompanied him through years of observation and discovery.
+
+Here, on this bustling dock with war approaching, he might finally give voice to the revolutionary thoughts that have consumed him. After years of travel with only his thoughts, scrolls, creatures and sailors. Here is a person. He told himself he needed isolation to write his book. But really, he's been nervous to speak of his ideas.
+
+What if he's wrong? Worse, what if no one believes him.
+
+He tells himself someone had to be first to hear it, why not a soldier who is leaving the city for months if not years. Zographos then finds the courage to look at this man, Socrates.
+
+Who looks back with the thrill of approaching understanding. "Go on. Changed how?"
+
+Zographos sets down his wax tablet. Would this Socrates be his first student?
+
+What nerves this thought has.
+
+"You ask the right question, my friend!" Zographos says, embracing this chance. His words tumbling out with the enthusiasm of a man who has been alone with revolutionary thoughts for too long. "Watch." Zographos lifted a cage with a small finch. "This bird came from a land with only hard seeds. Now look—" He lifts another finch. "but this one lived where only soft insects were available. Its beak became slender and precise."
+
+"You're saying the islands..."
+
+"Each island shaped them differently," Zographos continues, now just speaking his thoughts, his shoulders drop and tension falls, this feels liberating. "The same ancestor, but each population adapted! That's the book! The dry islands demanded one solution, the wet islands another."
+
+With poised vigour he continues "And the Gods selected the ones who were to breed on." 
+
+Socrates stares at the birds, his mind racing. "And you believe this principle applies to island creatures?"
+
+Zographos' eyes gleam. "My friend, I believe this principle explains all creatures."
+
+Socrates strokes his weather leather straps, and grips his spear, then nods to encourage Zographos to continue.
+
+"You care for me to continue. You are interested?"
+
+"It's nice to meet someone who has been away for many years. I think it is fair to say I have a reputation for curiosity, as I am sure you will find out. I perhaps have enough to make a difference to our fair city's future."
+
+Zographos looks directly at Socrates, his voice dropping to an almost reverent whisper. "The whole process—the inheritance, the variation, the selection, the branching into new forms to cast away the unneeded old—I call it evolution."
+
+Socrates feels something shift deep within his mind, like a key turning in a lock he hadn't known existed. The questions that had plagued him about justice, virtue, and human nature suddenly reorganize themselves around this single, powerful idea. If humans, like these creatures, were shaped by the challenges they faced...
+
+The horn blows thrice.
+
+Socrates holds his spear, and old armour, and leans in and says with a smile, "Tell me more about evolution, I think we shall put it to use before long".
+
+Zographos hesitated, knowing the complexity of life that he had witnessed. "It will take generations," he said, "to truly understand what these islands have revealed."
+
+Socrates smiled, holding his weathered spear. "When I return we will get started," he responded, "and set the foundations for our ancestors to complete the job when their time comes."
+
+### Explainer
+
+Sadly, there was no Magos of Samos. There are plenty of scrolls found at Pompeii and Herculaneum. Scientists are just now starting to use CT scanners and machine learning to unlock their contents. So far, no lost ancient works have been found.
+
+Alas, the scene you just read is a fictional thought experiment—a glimpse into an alternate history where two of humanity's most transformative intellectual revolutions occurred simultaneously.
+
+I used it to teach a vital lesson.
+
+First however, we must realize why Socrates (470–399 BC) is so important. He was, as the Roman philosopher Cicero observed, the first to "call philosophy down from heaven, place it in cities and homes, and compel it to inquire about life and morals as well as good things and bad." Before him, the common practice was to let professional debaters, known as Sophists, battle over a question. Everyone assumed justice had no universal definition and was merely a matter of law, custom, or power. Sophists used rhetoric to convince people that their side served the ruler's interests and was therefore just.
+
+Socrates challenged this mindset. Instead of accepting that justice was relative to human laws or customs, he asked things like “What is justice?” or "What is ethics".
+
+Such deceptively simple questions were in line with ancient Greek natural philosophers such as Thales, Anaximander, and Pythagoras. These thinkers discovered natural laws of geometry, mathematics, and observation that helped craftsmen and engineers to calculate volume, weight, and angles more precisely, thereby empowering Greek civilization to build increasingly sophisticated sewers, ships, buildings, and countless other wonders.
+
+Socrates asked why wouldn't human society also be subject to universal laws if water, ships, and engineering are?
+
+Socrates, and his best student Plato (427-347 BC), thus turned philosophy towards the human condition with practical questions about how we should live, what constitutes justice, and how societies should be organized. Socrates taught his students to ask these questions, in what we now call the Socratic method, in order to use philosophy to build a better person and society the same way engineers use mathematicians to build better buildings.
+
+Plato wrote these lessons down, adding his own thoughts along the way, in books called Socratic dialogues. By forever studying these works, every subsequent development in Western philosophy, politics, and ethics is rooted in this Socratic revolution.
+
+Charles Darwin (Zographos), over two millennia later, revealed the mechanism by which all life adapts and evolves. Although many scientists laid the groundwork for Darwin, their contribution was often removing the buildup of erroneous human narratives, such as all animals being created as they exist today and the Earth only being a few thousand years old.
+
+While it was never going to be easy, Darwin's insights into natural selection, common descent, and evolutionary adaptation were always there to be discovered. After all, farmers long knew much about inheritance among plants and animals because they bred them so often. Even so, it took a very fortunate moment, like visiting the isolated Galapagos Islands for Darwin, or the Canary Islands for Zographos, to display natural selection and adaptation simply enough to seed evolution in someone's mind.
+
+When life's evolution was realized, it quickly transformed our understanding of the origin of species, including ourselves, in the natural world.
+
+So, what if these two intellectual revolutions had happened together? What if Darwin's insight on evolution had been made, accepted, and popularized along with Ancient Greek contributions like Thales' geometric principles, Euclid's mathematical foundations, and Archimedes' engineering innovations.
+
+This thought experiment says if Socrates, or one of his followers like the hypothetical Magos, had known about evolution he would have made an important connection—mankind's evolution now runs through tools as well as biology. Thus, the mathematical and engineering foundations Socrates and his students loved weren't only inspirational but intertwined with human affairs because the technical and human domains co-evolve.
+
+It's entirely possible Socrates or his students would have made the connection that because evolution was a natural law for biology, then it must be for humans and our technology as well.
+
+Surrounded by far more wilderness, ancient Greeks cherished their language, plays, ships, trade, and civilization. Wilderness was seen as a dangerous realm that required a civilized hero to subdue. Moreover Greeks were extremely adventurous, competitive, warlike, and commercial. Many people experienced tragedies such as shipwrecks, plagues, or sieges that made technology's value as the differentiator between survival and flourishing readily apparent.
+
+Thus, Greeks might have naturally accepted technological evolution as the guiding principle of their fate. They already had tool-using heroes such as Achilles and Odysseus but explained their success because of mythical abilities instead of their willingness to drop old tools and master new ones as needed; famously seen when Odysseus built the Trojan horse to finally conquer Troy after failing for a decade to take the walled city by traditional siege warfare.
+
+What the Greeks lacked was an understanding of evolution as a universal law.
+
+This led them, and thus us, down an inaccurate trail, the same way not knowing universal gravitation led Plato's student Aristotle (384–322 BC) to create an Earth-centered universe that guided humanity down the wrong path for centuries.
+
+Interestingly, Aristarchus of Samos (310-230 BC) advocated for a Sun-centered universe. He even calculated the relative sizes of the Sun, Moon, and Earth. Still, Aristotle's ideas won out and became orthodoxy. After rediscovering an old scroll of Aristarchus, Nicholas Copernicus (1473-1543) would later re-establish the Sun-centered model of astronomy in the early 1500s. With this in mind, it's not impossible that an ancient Darwin could have existed among the 99% of ancient knowledge that was lost.
+
+If early thinkers like Socrates, Plato, Aristotle had grasped the principle that humans and their tools co-evolve in response to environmental challenges—how might they have approached questions of ethics, politics, and justice?
+
+Imagine the changes to our history, filled with empires that rise and fall, racism, sexism, slavery, recessions, economic and population booms and collapses, revolutions, civil wars, and so much more we hate but keep coming back?
+
+Perhaps these recurring patterns aren't moral failures or inevitable human flaws, but symptoms of civilizations struggling to adapt to technological changes we don't yet understand. Instead of asking "How do we eliminate war?" or "How do we achieve perfect justice?" an evolutionary Socrates would ask: "What technological pressures create these conflicts?", "How do societies smoothly adapt to new tools and capabilities?", and perhaps most importantly, "How do we teach our kids born with biological instincts to best live in a technological world?"
+
+This reframing doesn't excuse human suffering or injustice, but it offers a different path forward. Rather than assuming our future depends on "bringing down from heaven" superior laws, policies, or moral education, we might focus on understanding how technological ecosystems can evolve toward greater human flourishing—just as Darwin's finches evolved better beaks for their particular island environment rich in either insects, nuts, or seeds.
+
+The interaction between Socrates and our fictional Darwin/Zographos represents the birth of what we might call "evolutionary philosophy", "biology for humans", or "techvolution"—a framework for understanding human societies as technological ecosystems that adapt, evolve, and thrive through the same principles that govern all life.
+
+Yet, this story did not happen.
+
+Socrates and Darwin never met, the same way Aristotle and Newton never did. But this tale serves as food for thought because you know Socrates and Darwin, so despite their distance from each other, they are meeting in you. And that is the vital lesson this short story was meant to teach. The stream of events we call history is not pre-organized for us. In order to advance our story we must be the ones to the connect dots that should be connected. Thus Magos, the thinker who connected Socrates and Darwin, can be real in you.
+
+Why not make it so.
+
+The connection waits for whoever picks it up. 
+
+Despite the lofty goals the Techvolution series is setting out to achieve, we are only adding some of our scientific knowledge to the foundational questions Socrates first posed about human civilization.
+
+That way, humans will correct the path we've been living by applying evolutionary thinking to understand how civilizations adapt via technological change. This will help us consciously guide our civilization's evolution toward a future where people will no longer have to ask "what is justice" because they'll instead be intentionally building it.
+
+===
+
+- why does turning a computer off and on fix so many problems, asks Lex to windows creator. because 1, memory gets used and no freed so it accumulates, and 2 code of a program when used long enough gets into a state that is untested or unknown, so reboot refreshes memory and state and "covers lots of sins"
+https://www.youtube.com/watch?v=3MRlsA-uwZg
+
+===
+
+This is what I think Socrates was getting at.
+
+- why socrates never wrote anything down. 
+- to test the longevity and truth, and nature, of any human belief system, just judge, how many pencils does it create and distribute.
 
 
-### Misc.
-
-- call through a typical car insurance claim "first contact" with an insured. and list cost in time, money, and injury.
-- almost no drivers stop to help/witness a car crash. this makes car insurance claims so much harder and uncertain as often no one has proof of events.
-- customers were very nice to me on the phone, then I heard the husband say "f'in insurance asshole" when hanging up.
-- gray haired boss was told to speed us up, he was very stressed us out, one co-work left a meeting saying "apparently i'm f'ing useless"
-- One of my insured's was very honest about being atfault. As a thanks I sent a gesture saying he was a good customer, months later he claimed i told him his insurance rates wouldn't increase.
-- A insured was driving with a suspended license because of unpaid parking tickets. She was not aware of this. He claim could be denied for an invalid license. I opted to cover her claims anyways. Other adjuster might not have.
-- Spoke with an insured, about his lost son. It was very moving, worthy of a one act play.
-- I was behind on my work. I showed up early, 8:00am, to complete my "abeyances" at 8:01 am, the bell went ding. I wasn't even being paid but was told "get that call" I was awarded a pair of scissors. I still have the scissors.
-
-
+If we saw an ecosystem where water and calories were being hoarded, or withheld, or not used by its members, we wouldn't doubt the solution...
 
 ## Notes
 

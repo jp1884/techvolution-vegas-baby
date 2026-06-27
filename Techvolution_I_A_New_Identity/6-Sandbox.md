@@ -4749,7 +4749,327 @@ Where We Are, and Where We're Going
 ===
 
 
+## Interludes
 
+Practical stories to intersperse between chapters in Techvolution: A New Identity.
+
+### Story 2** - Orders
+
+The confidence I gained during training didn't last long. Within weeks, I realized it was just ignorance.
+
+Here's why. My old job, with the jackass boss and grimy carpets, was in business-to-business marketing. We built websites and tracking systems for trade publications like Jane's Defense Weekly, World Oil, and similar industry journals.
+
+We used new technology—HTML, Javascript, tracking links, web servers—to monitor which companies advertise on which websites and magazines. The information was digitized into dashboards that clients could check on their own time. I barely had to talk to anyone.
+
+The insurance office definitely had much nicer carpets (the first thing I noticed, along with the big windows and natural sunlight). But clean carpets, I'd learn, don't mean clean systems. We had little control over when we got the information. Insurance adjusters sit there all day dealing with unimaginably different situations and people.
+
+A few weeks in, I got such a call.
+
+The first question on the system we used was "vehicle color." So I asked this caller, "What's the color of the car?"
+
+"You're asking me about the color! My daughter and wife were taken to the hospital—who cares about color!"
+
+Injuries were further down the list of questions. But I learned my lesson there. Since the calls are so random, assume the worst every time. If you remember that, it saves you from insulting people and grounds other callers' attitudes too.
+
+It also makes for a dreary mindset. Now I understood what my trainer meant. "God bless you" definitely wasn't the norm.
+
+### ! Story 3b*** - Claim Walkthrough - Reserves
+
+Ever put some money down on the blackjack table? Maybe roulette or baccarat is more your game. Whatever you bet, the casino must have the money on hand to pay you if you win.
+
+Insurance works similarly. Per government regulation, insurance companies must hold a reasonable amount of money on hand to pay claims as they come in. For this reason, insurance companies are huge purchasers of short-term bonds—bonds are liquid and can be sold quickly if a surprise tornado or snowstorm triggers a wave of unexpected claims.
+
+During a claim call, adjusters estimate the likely payment so the company can "reserve" the right amount of money from its accounts. The accounting needs to stay accurate as claims come in.
+
+So, during a call, while asking questions, we tabulate.
+
+---
+
+Beep. The call-in is automatic answer. "Thanks for calling claims, this is Peter."
+
+"I'd like to report a claim."
+
+A woman's voice. She sounds shaky but composed.
+
+"Of course. Was anyone hurt?"
+
+"My daughter's wrist is hurting. We're going to our walk-in clinic later."
+
+_The injury adjuster will ask the detaisl. I hope she's okay._
+
+"I'm sorry to hear that. I'll have the injury adjuster call you later. However, for now we're just going to discuss the car damage. Is that okay?"
+
+"Yes."
+
+"Was anyone in the other vehicle taken away in an ambulance?"
+
+"No."
+
+"Okay, let's get started on the car details. This part takes 20 minutes. The Honda Civic—is it driveable?"
+
+"No, it was towed somewhere. I don't know where. You must know."
+
+_$500 or so for the tow._
+
+"I don't, unfortunately, but we'll deal with that a bit later. What's your car's color?"
+
+"I think they call it Majestic Blue."
+
+_Factory color. Cheaper to match if it's repairable._
+
+"Okay, where did this happen? Can you tell me the story?"
+
+"You don't have this already? The police were there with firetrucks."
+
+_Firetrucks. If she was at fault, the municipality bills us for the response. Two trucks at $500/hour, on scene for three hours, plus overhead. Around $3,000._
+
+"I don't have any special access, unfortunately. Can you just go over the story—where you were, where you were going, and what happened?"
+
+"We had spent the afternoon at the mall, and Sarah was showing me the earrings she'd picked. The sun came through the windshield, and then I remember looking up to see the brake lights too late. The sound of metal and glass. The airbag deployed for me. Not for her. I got out. Nobody stopped for us. I called police. They arrived and the firetrucks came too."
+
+_Airbag deployed. The damage above the airbag-trigger threshold usually means structural damage to the frame and engine bay. Late-model Honda Civics with frame damage are usually total losses—repair costs exceed the car's value. Probably $20,000 settlement. Plus the highway rails she mentioned hitting—we get billed for those, around $10,000 for a section. And she'll need a rental for the two weeks before settlement clears, $1,000 there._
+
+"Unfortunately, not many people stop nowadays. Do you have a rental car?"
+
+"No. I need one though."
+
+"Okay, I'll arrange one and they'll call you. I'm just going to do some paperwork here. Do you have any questions?"
+
+"Who is at fault for this accident?"
+
+"Well, you hit the other car from behind, so it sounds like you. Did you or they change lanes?"
+
+"No. But he stopped for no reason."
+
+"The government assigns crash fault rules. One of them says the car that rear-ends the other is 100% at fault."
+
+"That's bullshit."
+
+_Ignore that comment._
+
+"Okay. What kind of car was the other car driving? Do you have his info?"
+
+"It was a German car I think. The plate was 5453-ADN. Wait, I have the tow truck info. It's Ben's Towing."
+
+_A German car. Likely high-end. Parts delays for sure. Rear-end damage isn't as bad to repair, though. $25,000 for repairs and $3,000 for their rental during the parts wait._
+
+"I've assigned a car rental to call you. I'll call the tow company. Your car is likely a total loss, but we'll know for sure when we get it picked up and assessed. Do you have any questions?"
+
+"No. Thanks. Bye."
+
+---
+
+_Final tabulation:_
+
+_Tow: $500 (ours) + $500 (theirs)_
+_Vehicles: $20,000 (ours) + $25,000 (theirs)_
+_Rentals: $1,000 (ours) + $3,000 (theirs)_
+_Firetrucks: $3,000_
+_Highway damage: $10,000_
+
+_Estimated total: $63,000._
+_I'll reserve $70,000 just in case._
+_Injury reserve held at $10,000 pending injury adjuster review._
+
+That's roughly 200 to 300 customers' annual premiums for this one crash. One claim phone call. Eight to twelve more claims today.
+
+### Story 5** - I Don't Care
+
+Even as I got better at adjusting and taking calls, I couldn't do the fast, often confrontational, phone call thing. I needed to have a full conversation with each caller, which sometimes helped but took up a lot of time.
+
+Others could be direct.
+
+One veteran who showed me the ropes, Georgia, was excellent. No nonsense. She answered 40 calls a day with ease. I maybe managed 20.
+
+"People just need to listen," she'd say.
+
+As you'd hear adjusters yelling defensively: "I'm not a bad person! I'm not!" around the office, Georgia would declare: "You're 100% at fault." She'd listen to their objections, then: "Sir, this is what it is. Anything else I can help with?"
+
+Bam. Done. Next.
+
+One day Georgia called her phone company's customer service line. I had friends who worked those lines—I knew the job was basically ours. Within minutes, she was berating the representative. I don't remember what it was about—a data plan dispute, I think.
+
+Her call lasted 10 minutes.
+
+I asked her why she'd been so harsh. "They do the same job we do," I said.
+
+"I don't care. I'm the customer. I wanted it. Not my problem."
+
+It got me thinking. We wear so many identities—customer, representative, manager, head office administrator, burned-out worker—and we switch between them often punching ourselves in the gut. Georgia dealt honestly with people and expected them to take it. But the moment she stepped into a different role, she became the problem she'd been solving all day.
+
+### Story 9*** - WOP
+
+When the snow falls, the bell dings.
+
+After a snowstorm came the true car claims center drama. We were staffed for yearly averages. But weather spikes didn't change the promise made to customers about short hold times.
+
+One storm was particularly bad. Several feet of snow in hours.
+
+We were told to drive to the call center to answer calls from people who'd just crashed in that same storm. Insurance companies once helped fireproof cities in the 1800s. Despite having computers and headsets at home, we still had to brave icy roads.
+
+The crashes spiked, the bell rang nonstop for days. DING DING DING.
+
+One coworker, Tildy, handled serious and "Without Prejudice" claims—meaning we officially told insureds the claim might not be covered, often for impaired driving or fraud suspicions. On one extremely serious claim, she spoke to a widow. Her husband had burned alive in the car—only his hands remained on the steering wheel. The widow was sobbing: "I need to see the car. I need to see it."
+
+We were just claims adjusters, not therapists. We learned to deal with these conversations by encountering them. We tried to support a usually tough but now breaking Tildy as she spoke for an hour with the suffering widow.
+
+Her manager noticed how long the call was taking. He came over and snapped his fingers.
+
+"Hurry up. Hurry up."
+
+We all just stared at him.
+
+Around this time, head office sent an email. Adjusters make notes about everything while on the phone; it's how we document and justify our decisions. We use short hand to keep up with conversations. Most abbreviate, insured is "insd", other driver is "TP", and Without Prejudice is "WOP".
+
+After decades of doing this, it was deemed very offensive by an unknown person. I grew up with Italians, several were in claims with me, but didn't know decades ago their grandparents were sometimes called "Without Papers," or WOP.
+
+I don't know the connection beyond the three letters. We dealt with customers' tragedies—thefts, abductions, murders, burning alive—everyday, with no training and no one studied the cause beyond what was documented in our notes and phone calls.
+
+I do know when the CEO visited from head office a few years later, the managers turned the bell off for the day.
+
+### Story 10* - Just a Job
+
+The claims center was brutal. But it was a job. You got used to it. And the pressure forged great friendships across roles and management because people were, for the most part, just trying to get themselves—and their coworkers—through the day.
+
+Once I was established, I was asked to help the Total Loss department. These adjusters told insureds what insurance would pay them when their car couldn't be repaired.
+
+I was a pretty good adjuster by then. I said, "Just tell me the basics. I'll start making calls and close files."
+
+Two veteran total loss adjusters explained how the software searches the internet for recent car ads. We compared the loss vehicle to these ads, made minor adjustments for condition and mileage, and that was it.
+
+Simple.
+
+I'm often lucky enough to be considered funny, and this humor definitely helped in a claims center. But I'd never seen anyone laugh as hard as my two friends did listening to my first total loss call.
+
+"Hello, Mr. Insured. I'm calling from Total Loss to discuss your vehicle value."
+
+I started reading his vehicle information for the first time.
+
+"Okay, so you had a Ford Econovan. I see it's older with high mileage. The value came back at $2,640. You're a registered organization, so no tax is added, and after your $2,500 deductible your settlement is $140."
+
+I was flustered. It seemed like a terrible deal.
+
+My trainers were on the nice carpeted floor—laughing without control. I kept muting my headset to ask for help. The insured was as confused as I was. He was definitely getting really mad though.
+
+He was a member of a religious community and didn't have the typical emotional vocabulary insureds use to express disgust. But he knew he'd been buying insurance for years only to have us take his truck for less than the value of a single tire.
+
+My trainers left the office. I don't know where, but they came back hours later, still red-faced and teary.
+
+I spent weeks dealing with a very upset customer. I understood—sometimes adjusters make mistakes too.
+
+I learned another lesson: read settlements beforehand, prepare insureds for bad news. Claims was like sales in reverse—we had to sell people on something they'd already bought. Better done when they didn't hate you.
+
+I eventually got his truck towed back to his country home. I miss those friends. We learned the ropes together.
+
+
+
+
+
+### Story 12* - Thanks
+
+I made a call to a mother and daughter once. They had a Toyota Yaris. I was their total loss adjuster. This time I was prepared with the payment breakdown, justification, and aware of any bad news that could rattle an insured.
+
+I gave them their number and...
+
+Heard nothing.
+
+"Hello?" I said.
+
+"Sorry, we're just dancing over here!"
+
+They were ecstatic and thanked me a bunch. The truth was Toyotas hold their value well, and the Yaris especially so. But I was the bearer of good news, so they gave me the credit.
+
+Years later, our receptionist asked me to visit her. Sometimes people mail in their documents and pictures, so I figured there was a package waiting for me.
+
+It was not.
+
+It was a present. An Edible Arrangement, from a thankful insured. It happened a few times a year. I feel bad that I can't remember the claim or the lady, he thanked me for helping her out. 
+
+I can re-create the claim process though.
+
+I'm almost positive that she had the other drivers information. She knew where she wanted her repairs done. She was happy with the new Toyota Camry for her rental car. The other driver reported their claim too. Both drivers had the same version of events. Liability was easy to confirm.
+
+All I did was assess this information after everyone did their part.
+
+The point is, claims are collaborations, and often went fine—it's just problems caused by insureds, adjusters, and others could easily clogged up the system. And those angry people called especially often.
+
+In the vein of happy customers, here's a funny fact I love to share with everyone, especially people who love or hate new technology.
+
+The smoothest claims often came via snail mail. Usually elderly people with no computer, who filled out paper claim forms, photocopied their invoices and receipts, and got their pictures printed.
+
+Here's why: they always took the time to collect everything I needed to process their claim.
+
+Most people, of course, love the speed of smartphones. Yet speed meant less preparation. It wasn't unusual to get 10 emails from a person in one day—each with a single photo, or a question they could've asked in the first message.
+
+The claims system originated back when people mailed documents and adjusters called to discuss conclusions. We bolted new technology onto the system as it arose without rethinking the process.
+
+I'd think when reading these ancient paper forms, "Why is this so easy. Most people know how to use new technology, but our society hasn't yet learned to work together using it.
+
+### ! Story 13** - Perfect Example
+
+### Story 15 - Scissors
+
+We had assigned claims. Meaning, even though we received and answered random calls from customers, brokers, and anyone else, one adjuster was ultimately responsible for the claim.
+
+We had to "move the claim along".
+
+Calling other insurance companies, emailing rental companies, tracking down whatever information wasn't being sent into us.
+
+So, we would put reminders on our claims. Customer on vacation in three weeks, call back then. Rental company set to have a pickup truck ready, make a note. We had to fit all these reminders into our workflow. 
+
+The Bell always reigned supreme.
+
+I was behind on my reminders. Not unusual. Mine got particularly bad. Anyone not calling us would slowly get more angry as their claim wasn't "moving forward."
+
+So I showed up early one day. 8:00 AM. I had an hour of free time to do five to hopefully 10 reminders. 
+
+DING DING DING.
+
+Not my problem. I'm not even legally here.
+
+"Hey, can you get that call?" my manager asked.
+
+I check the time. 8:01 AM. I did, of course. I got a few reminders done after that, but not many.
+
+The company had a thank you program in effect. My manager did the best he could, and got me a voucher for a gift.
+
+I got a pair of scissors. I still have it. Every time I look at them I still think.
+
+Eight oh frickin one.
+
+
+
+
+
+---
+
+That was late on Friday afternoon. It was the last call for the week. And my last queue call ever.
+
+The bell would keep ringing. Other adjusters would still be on the line, still answering, still trying to keep up. Entropy always increases. Society would always need repairs, from car crashes, fires, hail storms, and other "acts of God" as we'd say like the hunter-gatherers of old.
+
+The work can be ignored. But the problems never stop. The Game of Life is played or lost.
+
+The technological ecosystem we built and depend on, was operated by people either full of stories about themselves but only dimly aware of the wonderful technological giving tree that sustains them. Or occasionally by people who prepared and countered the bad news with a new tool, and who are slowly building a new identity.
+
+I grabbed my diary. I grabbed a pencil. I wrote another note. Another entry. A new book.
+
+Then a program to heal society a little faster, hold back entropy, and happily study acts of God—when, where, and why they happen.
+
+And shut that bell up forever.
+
+
+### Misc.
+
+- call through a typical car insurance claim "first contact" with an insured. and list cost in time, money, and injury.
+- almost no drivers stop to help/witness a car crash. this makes car insurance claims so much harder and uncertain as often no one has proof of events.
+- customers were very nice to me on the phone, then I heard the husband say "f'in insurance asshole" when hanging up.
+- gray haired boss was told to speed us up, he was very stressed us out, one co-work left a meeting saying "apparently i'm f'ing useless"
+- One of my insured's was very honest about being atfault. As a thanks I sent a gesture saying he was a good customer, months later he claimed i told him his insurance rates wouldn't increase.
+- A insured was driving with a suspended license because of unpaid parking tickets. She was not aware of this. He claim could be denied for an invalid license. I opted to cover her claims anyways. Other adjuster might not have.
+- Spoke with an insured, about his lost son. It was very moving, worthy of a one act play.
+- I was behind on my work. I showed up early, 8:00am, to complete my "abeyances" at 8:01 am, the bell went ding. I wasn't even being paid but was told "get that call" I was awarded a pair of scissors. I still have the scissors.
+
+===
 
 
 
