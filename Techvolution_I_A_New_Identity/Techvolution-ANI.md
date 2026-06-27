@@ -659,9 +659,9 @@ But life does not want new, or any species, to succeed at any cost. Polar bears 
 
 This cooperation happens inside ecosystems, which is a community of plants and animals living in the same area. Ecosystems include climatic conditions, elevation, water levels, and other environmental factors. BBC Planet Earth episodes on tropical rain forests or expansive grasslands showcase Earth's many ecosystems quite well. 
 
-There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem, what is called "carry capacity". Every ecosystem is configured to maximize its energy use.
+There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem, what is called "carrying capacity". Every ecosystem is configured to maximize its energy use.
 
-It starts with producers (plants, plankton) who convert energy to biomass. Grazers (deer, bats) who feed on the producers and often spread or fertilize its seed. Predators (lions, bears) who prevent grazers from overgrazing. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time. This system of checks and balances rewards reciprocation while keeping overpopulation in check.
+It starts with producers (plants, plankton) who convert energy to biomass. Plant-eaters (deer, whales) who feed on the producers, fertilize soil, and sometimes spread seeds. Predators (lions, sharks) who prevent herbivores from overeating plant life. Scavengers (vultures, flies), who feed on dead and decaying organic matter. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time (whom I call testers, but note this is simplication and not a traditional ecological classification). This system of checks and balances rewards reciprocation while keeping overpopulation in check.
 
 All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must reciprocate, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. No species of an ecosystem can do this alone, and therefore can't win, alone.
 
@@ -777,7 +777,7 @@ That's why this book wants you to embrace being a technological being. Not becau
 
 We realize this truth in the natural world, so should be able to make the leap and understand the truth of our existence by realizing we are simply inside technological version of the Game of Life. Then we can start to knowingly play it, persist our lineages, and therefore win.
 
-The booklet of rules, game board of environments, sandglass of time, bits of clay, and a scoreboard are all there. As is the circle of producers, grazers, predators, decomposers, and testers in our own ecosystems too. This is happening all around us.
+The booklet of rules, game board of environments, sandglass of time, bits of clay, and a scoreboard are all there. As is the circle of producers, plant-eaters, predators, scavengers, decomposers, and testers in our own ecosystems too. This is happening all around us.
 
 So why don't we see it?
 
@@ -837,7 +837,7 @@ But, what does that mean for you?
 
 We accept that sloths are always slow, ants are always selfless, elephants always love their families. We accept every creature has unique natures. That doesn't mean every individual lifeform is always predictable, but it does mean creatures have features, requirements, and instincts that can't be changed because these are the traits the coach needed when selecting them for the team.
 
-There's a record of natural selection's picks. The tree of life describes the relationships between organisms both living and extinct. It is a huge list of producers, grazers, predators, decomposers, and testers who are continually removed and added and because The Game of Life is a job, an obligation to reciprocate inside an ecosystem that harvests resources efficiently enough to increase the carrying capacity and afford to add more members and renew the team.
+There's a record of natural selection's picks. The tree of life describes the relationships between organisms both living and extinct. It is a huge list of producers, plant-eaters, predators, scavengers, decomposers, and testers who are continually removed and added and because The Game of Life is a job, an obligation to reciprocate inside an ecosystem that harvests resources efficiently enough to increase the carrying capacity and afford to add more members and renew the team.
 
 Humanity is on this tree like any other being. Our last common ancestor with our hominid cousins chimpanzees and bonobos lived between 13 to five million years ago. Long in our timeframe, but very minimal in the evolutionary one.
 
@@ -1041,17 +1041,25 @@ The reason is the same as the original version of the game. Because diversity is
 
 And that's the lesson of nature we need to embrace. While we have a genetic history forever in our DNA, our genes, personalities, and culture evolved along with technological change.
 
-Meaning the technological evolution this book is advocating we embrace, has been driving human evolution for generations. Because every Game of Life needs ecosystems of producers, grazers, predators, decomposers, and testers, the coach picked human communities who had the varied human genetics and phenotypes needed to be able to staff every job in a growing technological ecosystem.
+Meaning the technological evolution this book is advocating we embrace, has been driving human evolution for generations. Because every Game of Life needs ecosystems of producers, plant-eaters, predators, scavengers, decomposers, and testers, the coach picked human communities who had the varied human genetics and phenotypes needed to be able to staff every job in a growing technological ecosystem.
 
-In the technological ecosystem, varied human genotypes and phenotypes fill the roles of producers (farms, power plants), grazers (tool users), predators (innovators), decomposers (recyclers, refactorers, waste managers), and testers (tinkerers, hackers, and crooks). Like any biological ecosystem, these segments work together to better play the game. Producers grow the food or generate the electricity that powers technology. Grazers—most of us—use tools to stay warm or cool, gather resources, raise their young. Predators introduce better tools that displace outdated ones, removing the old tool category from the ecosystem just as Maria's DVD-rental store didn't lose to a faster DVD store but to streaming. Decomposers break down dead technology back into reusable inputs like wreckers recycling total loss cars. All the while, tinkerers and nefarious actors test every member of the ecosystem for fitness—the latter of which I dealt with so often while adjusting insurance claims.
+In the technological ecosystem, varied human genotypes and phenotypes use the extended phenotype to fill distinct ecological roles: producers (farms, power plants), plant-eaters (tool users), predators (innovators), scavengers (cheapskates, hoarders), decomposers (recyclers, refactorers, waste managers), and testers (tinkerers, hackers, and crooks). Like any biological ecosystem, these segments work together to better play the game.
 
-The need to invent, power, and manually operate most every tool changed how humans were selected. Even though we were leaving the biological ecosystem behind, we building another technological beside it.
+Producers grow the food or generate the electricity that powers technology. Plant-eaters —most of us—use tools to stay warm or cool, gather resources, raise their young.
 
-Humans were no longer just hunting and gathering what nature made available, but instead creating and operating a new ecosystem in a modified Game of Life. Civilized humans kept scoring points. Death rates by wars, disease, and infant mortality drop consistently as civilization advances from Stone to Bronze, to Steel Ages and beyond because we expanded our environment's carrying capacity with more food, housing, and fresh water. 
+Predators hunt inefficiency and close it, just as streaming didn't beat Maria's DVD store by being a faster store—it consumed the wasted time the rental model depended on. With that prey gone, the innovator hunts the next inefficiency.
+
+Scavengers can't help but use, collect, and hoard every last piece of technology everyone else thinks is junk. Decomposers break down dead technology back into reusable inputs like wreckers recycling total loss cars.
+
+Now for viruses, or what I like to call testers. These are the people who come up with novel ideas using existing technologies, just as viruses have long introduced new genetic material across biological organisms to drive genetic changes. Sometimes these changes are helpful innovations, and sometimes they are overtly parasitic actions of nefarious actors like crooks—the latter of which I dealt with so often while adjusting insurance claims. Either way, by constantly hacking lifeforms, testers evaluate every member of the ecosystem for its fitness to withstand its constant tinkering, acting as an ever-present selection pressure. (Note: testers is not a standard ecological classification; I'm using it for simplification purposes.)
+
+The need to invent, power, and manually operate tools changed how humans were selected. Where biological ecosystems often assign these roles to a dedicated species, ours assigned them to dedicated temperaments: the hoarder who can't throw anything away, the innovator who can't leave a slow tool alone, the tinkerer who breaks things to see how they work. Like omnivores, we can each be a mix, of course, but together our personalities cover every job in the food web. That's how, even though we were leaving the biological ecosystem behind, we were building another technological one beside it.
+
+Humans were no longer just hunting and gathering what nature made available, but instead creating and operating a new ecosystem in a modified Game of Life. Civilized humans kept scoring points. Death rates by wars, disease, and infant mortality drop over time as civilization advances from Stone to Bronze, to Iron Ages and beyond because we expanded our environment's carrying capacity with more food, housing, and fresh water. 
 
 Some might consider these changes artificial. After all, stone walls, bronze swords, horse saddles, and everything else in civilization are manmade materials or objects.
 
-But that would be wrong. Why is a copper water pipe or medical textbook artificial if the copper in our bodies or the wood in trees are natural? The Game of Life is a battle to grow things that can self-replicate in their environment faster then they degrade. As physicist Richard Muller notes in his book "Now: The Physics of Time", technology does that every bit as much as biology does.
+But that would be wrong. Why is a copper water pipe or medical textbook artificial if the copper in our bodies or the wood in decomposing trees are natural? The Game of Life is a battle to grow things that can self-replicate in their environment faster than they degrade. As physicist Richard Muller notes in his book "Now: The Physics of Time", technology does that every bit as much as biology does.
 
 That's why political projects that demand human homogeneity—whether by race, ideology, or class—work against the technological ecosystem's actual need for variety. They don't just constrain individual freedom; they starve the ecosystem of the players it requires.
 
@@ -1103,7 +1111,7 @@ Anyone can come up with artificial reasons why the Game of Life doesn't apply to
 
 If you're willing to admit you eat, find shelter, drink because of technology, and thus you are inside a technological ecosystem that is evolving independent of your biological desires, wants, lifespan, or your personal or ideological beliefs, you can admit this truth.
 
-The reward is seeing not the dead ends and darkness of artificial stories, but the natural light of how our society truly functions—the real ecosystem of producers, grazers, predators, decomposers, and testers.
+The reward is seeing not the dead ends and darkness of artificial stories, but the natural light of how our society truly functions—the real ecosystem of producers, plant-eaters, predators, scavengers, decomposers, and testers.
 
 People are biologically self-interested. We use tools to play the Game of Life. But these tools live and die on a timeline independent of our own. Without a technological identity, we are left to explain our ups and downs using—artificial—stories.
 
@@ -1137,7 +1145,7 @@ The gameboard is completely unbiased. It's constructed by the laws of physics, c
 
 Each new assembly is a unique variation. Look at the peppered moth becoming lighter, darker, lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
 
-Natural selection is in control It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and integrates them into the ecosystem of producers, grazers, predators, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
+Natural selection is in control. It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and integrates them into the ecosystem of producers, plant-eaters, predators, scavengers, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
