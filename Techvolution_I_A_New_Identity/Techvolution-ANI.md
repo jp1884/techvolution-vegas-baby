@@ -64,11 +64,9 @@ _"Man is a tool-making animal."_
 
 —Benjamin Franklin
 
+_But lo! men have become the tools of their tools. The man who independently plucked the fruits when he was hungry is become a farmer; and he who stood under a tree for shelter, a housekeeper. We now no longer camp as for a night, but have settled down on earth and forgotten heaven._
 
-_"We become what we behold. We shape our tools and thereafter our tools shape us."_
-
-—Marshall McLuhan
-
+—From “Walden” by Henry David Thoreau.
 
 _"It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change."_
 
@@ -183,15 +181,15 @@ This continuous process of genetic variation and environmental selection drives 
 
 The next way a creature can stand out is its phenotype. The phenotype is akin to a life form's personality; the observable characteristics of an organism resulting from the interaction between its genetic makeup and environmental influences, encompassing physical traits, behavioral adaptations, and learned experiences. Think of two acorns, one planted in a tall forest, the other in an open field. The first grows lean and tall to reach sunlight, while the other grows bushier and more robust. Phenotype reveals how organisms adapt to their surroundings and become products of their environment.
 
-Phenotypic adaptations show remarkable diversity. Some are immediate, like a lizard changing color for camouflage, while others develop over generations, such as an elephant mother teaching her young where the water holes are. Natural selection does not prefer one phenotype over another; like with genes, it favors huge diversity to increase the chance of finding those best suited to survive and reproduce in the current environment.
+Phenotypic adaptations show remarkable diversity. Some changes are enabled through genetics and are immediate, like a cuttlefish shifting its skin to match the seabed; others are learned and passed down socially, like an elephant mother showing her calf where the water holes lie. Like with genes, no trait is better or worse on its own—only relative to its environment, and natural selection favors whichever ones work best. This is how across time and environments evolution produces huge diversity of lifeforms.
 
 The third way creatures stand out is the extended phenotype. These are adaptations that creatures build for themselves. Think of bird nests, beaver dams, and ant hills. Although made of foreign material, these things act like any other organ by helping a creature better survive.
 
 Take the common squirrel as an example. The small creature survives frigid winters by storing food and building warm nests. These adaptations greatly increase its survival rate. Extended phenotypes empower organisms to mold their environment to their benefit and thereby select themselves for survival.
 
-Unlike genes and phenotypes, extended phenotypes become part of the environment and are available for other creatures to use. For example, crabs use seashells, ants occupy termite hills, and bats inhabit old bird nests. This shows that the creator of an extended phenotype is not always its user.
+Unlike genes and phenotypes, extended phenotypes become part of the environment and are available for other creatures to use. For example, hermit crabs move into empty snail shells, fish and frogs fill the ponds that beavers dammed, and squirrels sometimes fix up and den in old bird nests. This shows that the creator of an extended phenotype is not always its user.
 
-Raccoons are the ultimate example. Originally from the tropical forests of Central America, these intelligent creatures naturally create dens in hollow trees and grow thicker fur and fat stores for winter. However, unlike squirrels, raccoons do not naturally insulate their burrows, store food, or fully hibernate. Still, they have managed to spread their range across North America, all because of human civilization's barns, garages, and garbage. Although raccoons created none of these things, they can use them, and therefore natural selection benefits them in great numbers, even though, unlike squirrels, who plant millions of nuts each year, raccoons have no reciprocal contribution to the technological ecosystem that provides for them.
+Raccoons are the ultimate example. Originally from the tropical forests of Central America, these intelligent creatures naturally create dens in hollow trees and grow thicker fur and fat stores for winter. However, unlike squirrels, raccoons do not naturally insulate their burrows, store food, or fully hibernate. Still, they have managed to spread their range into Mexico and warmer parts of America. And when human civilization's barns, garages, and garbage, into colder climates they can't naturally survive in. Although urban raccoons created none of these things, they can use them, and so natural selection rewards them in great numbers. But unlike a squirrel, who renews the biological ecosystem it feeds on by planting many nuts each year, the urban raccoon renews nothing it depends on—giving back neither to the technological ecosystem that feeds it nor to the biological one it has left behind.
 
 So, to stay a player in the game of life, creatures can stand out via their genes, phenotypes, and extended phenotypes. The right mixture means an animal can harvest enough resources and protect itself long enough to procreate and thereby keep playing the game.
 
@@ -479,7 +477,7 @@ The game board is thus an emergent property. A place where the natural laws of p
 
 Proximity is not the test. Instead, the natural laws continually produce obstacles and opportunities—that is what the rules of the game look like in practice.
 
-Recently physicists discovered at least two mass extinction events in Earth's history that were likely caused by supernova explosions. Researchers say these super-powerful blasts--caused by the death of a massive star--may have stripped our planet's atmosphere of its ozone, sparked acid rain and exposed life to harmful ultraviolet radiation from the Sun.
+Recently physicists proposed at least two mass extinction events in Earth's history that were perhaps caused by supernova explosions. Researchers say these super-powerful blasts—caused by the death of a massive star—may have stripped our planet's atmosphere of its ozone, sparked acid rain and exposed life to harmful ultraviolet radiation from the Sun.
 
 They believe a supernova explosion could be to blame for both the late Devonian and Ordovician extinction events, which occurred 372 and 445 million years ago respectively.
 
@@ -521,7 +519,7 @@ Earth and Mars were once about the same. Their cores were hot magma. They had pr
 
 But entropy is always there.
 
-Thus, volcanic explosions and freezing water degrade mountains, wind storms turn rock into sands, sunlight dries up wetlands, and after enough heat is lost in the core, magnetospheres end their shielding, and solar radiation expels gases from the atmosphere. All of this turns the planet still and motionless, like Mars is today. Its core has mostly frozen, its atmosphere is all but gone, and the planet has no more volcanic eruptions because there is almost no heat left to build up the energy for it.
+Thus, volcanic explosions and freezing water degrade mountains, wind storms turn rock into sands, sunlight dries up wetlands, and after enough heat is lost in the core, magnetospheres end their shielding, and solar radiation expels gases from the atmosphere. All of this turns the planet still and motionless, like Mars is today. Its core cooled, magnetosphere protection, so its atmosphere is all but gone, and the planet has little to no volcanic eruptions because there is not enough heat left to build up the energy for it.
 
 Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot. But, billions of years from now, the heat will run out, the magnetosphere will die, and the natural forces via wind, rust, erosion, radiation will make Earth again like Mars.
 
@@ -621,9 +619,9 @@ Just now you cough. It's so small it almost goes unnoticed like a blink, breath,
 
 You know right away. Excitement kept you up too late. With so little sleep your immune system couldn't keep infection at bay. You're sick.
 
-Viruses are tiny, but not much different than any other lifeform; they are still bits of clay playing the game. Their strategy is simpler than most; forgo reproductive parts and instead self-replicate by invading another creature and hijacking its cells. It's a winning idea. Animals, plants, even bacteria attracted viruses soon after their games started.
+Viruses are tiny, are not alive to many biologists, but are not much different than any other player; they are still bits of clay looking for the energy to stay in the game. Their strategy is simpler than most; forgo reproductive parts and instead self-replicate by invading another creature and hijacking its cells. It's a winning idea. Animals, plants, even bacteria attracted viruses soon after their games started.
 
-Viruses are so simple they need only a few thousand genes. Humans have three billion for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
+Viruses are so simple they need only a few dozen to sometimes a thousand genes. Humans have around 20,000 for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
 
 Why?
 
@@ -655,13 +653,15 @@ For example, brown bears are nearly identical to polar bears. They can even inte
 
 And, with two large bear species playing the game, if the game board gets hotter or colder, life can respond either way.
 
-But life does not want new, or any species, to succeed at any cost. Polar bears eating every seal would not be good for it, or anyone else. That would be like a lifeform using up the torches energy for itself. Rather, lifeforms can only make use of water, nutrients, warmth, long enough to procreate. That's why evolution selects not selfish star players, but team players who work together to harvest energy more efficiently.
+But life does not want new, or any species, to succeed at any cost. Polar bears able to eat every seal would not be good for it, or anyone else, in the long term. That would be like a lifeform using up the torches energy for itself. Rather, lifeforms can only make use of water, nutrients, warmth, long enough to procreate. That's why evolution selects not selfish star players, but team players who work together to harvest energy more efficiently.
 
 This cooperation happens inside ecosystems, which is a community of plants and animals living in the same area. Ecosystems include climatic conditions, elevation, water levels, and other environmental factors. BBC Planet Earth episodes on tropical rain forests or expansive grasslands showcase Earth's many ecosystems quite well. 
 
-There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem, what is called "carrying capacity". Every ecosystem is configured to maximize its energy use.
+There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem. This energy budget is a major factor in a environment's "carrying capacity"; the maximum population size of a species that an environment can sustain indefinitely, based on the availability of resources like food, water, and habitat. 
 
-It starts with producers (plants, plankton) who convert energy to biomass. Plant-eaters (deer, whales) who feed on the producers, fertilize soil, and sometimes spread seeds. Predators (lions, sharks) who prevent herbivores from overeating plant life. Scavengers (vultures, flies), who feed on dead and decaying organic matter. Decomposers (mushrooms, bacteria) to breakdown the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time (whom I call testers, but note this is simplication and not a traditional ecological classification). This system of checks and balances rewards reciprocation while keeping overpopulation in check.
+It starts with producers (plants, phytoplankton) who convert energy to biomass. Plant-eaters (caterpillars, deer) who feed on the producers, fertilize soil, and sometimes spread seeds. Predators (lions, sharks) who prevent herbivores from overeating plant life. Scavengers (vultures, flies), who feed on dead and decaying organic matter. Decomposers (mushrooms, bacteria) to break down the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time (whom I call testers, but note this is a simplification and not a traditional ecological classification.). This system of checks and balances rewards reciprocation while keeping overpopulation in check.
+
+Over time, natural selection acts on individual creatures, each competing for its share of that energy. Out of all that competition something larger emerges: a sprawling diversity of life, no single piece of it planned, that together makes the whole system hard to kill. When the climate shifts or a disaster strikes, that variety is the insurance—enough survives to rebuild. I think that's the real wonder of it: a system that keeps "passing the torch" of creation, carrying life forward through every change.
 
 All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must reciprocate, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. No species of an ecosystem can do this alone, and therefore can't win, alone.
 
@@ -1253,39 +1253,35 @@ Three seeds fall.
 
 ### Fly Toward
 
-Eggs hatch. Larvae move up, down, left, right. Plant is soft. Plant is edible.
+Eggs crack. Larvae move up, down, left, right. Plant is soft. Plant is edible.
 
 Larvae eat. Energy consumed. Larvae grow.
 
 Larvae grabbed. Jaws close. Crunch. Larvae fall. Larvae in water. Jaws close. Crunch.
 
-Larvae eat more. Larvae grow. Wings form. Light is above. Insects fly toward light.
+Larvae move up, down, left, right. Larvae grow. Wings form. Light is above.
 
-Many insects fly toward light. Up, down, left, right. Up, down, left, right. Exhaustion comes. Wings slow. Insects fall. Ground is hard. Insects stop.
+Many insects fly toward light. Up, down, left, right. Some flowers found. Nectar is here. Not enough. Wings slow. Insects fall. Ground is hard. Insects stop.
 
 Many insects fly toward scent. Scent increases. Flowers are here. Insects land. Nectar is here. Insects drink. Energy flows. Insects fly. More flowers. More nectar. Energy high.
 
-Many insects land on water. Tongues reach. Jaws jump. Crunch.
+Many insects gather. Many insects mate. Eggs attach under leaves.
 
-Many insects gather. Many insects mate. Eggs attach beneath leaves.
-
-Cold comes. Flowers die. Scent fades.
+Cold comes. Flowers die. Scent fades. Cold stays.
 
 Warmth returns.
 
-Brood hatches. Larvae eat. Energy consumed. Larvae become insects. A few have red-eyes.
+Brood hatches. Eggs crack. Larvae move up, down, left, right. Larvae eat. Energy consumed. Wings form. Some insects have red-eyes.
 
-Flowers emit scent.
+Some insects fly toward light. Few flowers. Little energy.
 
-Some insects fly toward light. No flowers. No energy.
-
-Some turn toward scent. All red-eye insects smell flowers.
+Some turn toward scent. Red-eye insects turn toward flowers.
 
 More broods. More generations. We find flowers. Nectar is abundant. Energy high. We survive.
 
-Brood hatches. Larvae eat. Larvae grow. More have red-eyes. We are many. We are the brood.
+Brood hatches. Eggs crack. Larvae eat. Larvae grow. More have red-eyes. We are many. We are the brood.
 
-More generations. All have red-eyes.
+More generations. More eggs crack. All have red-eyes.
 
 Many flowers. Air is thick. Oxygen is rich.
 
@@ -1301,11 +1297,11 @@ Brood hatches. Most eggs crack.
 
 Many red-eye insects find flowers. All places have flowers. All red-eye insects find food.
 
-Red-eye insects fall down. Bodies remain. No crunch.
+Red-eye insects fall down. Crunch in water. Crunch in web. Many bodies remain.
 
 Some red-eye insects find bodies. Eat dead bodies.
 
-These red-eye insects grow bigger. Meat has more energy. Large insects have big-eyes.
+These red-eye insects grow bigger. Meat has much energy. Large insects have big-eyes.
 
 Big-eye insects see clearer. Big-eye insects move faster. Big-eye insects need meat.
 
@@ -1421,13 +1417,13 @@ Grab soil. Air stale. Move. Air fresh. Drop soil. Move. Repeat.
 
 Chamber established. Air fresh. No eggs here. No energy here. Food needed. Scent, find food.
 
-Move. Up hill. Down hill. Left right. Wood found. Move up. Move. Thin wood found. Move. Leaf found. Bite. Bite. Bite. Leaf falls. Grab leaf. Move. Move to chamber.
+Move. Up hill. Down hill. Left. Right. Wood found. Move up. Move. Thin wood found. Move. Leaf found. Bite. Bite. Bite. Leaf falls. Grab leaf. Move. Move to chamber.
 
 Return. Repeat. Return. Repeat. Dark.
 
 Return. In chamber. Sleep.
 
-Cold. Dark. Air moist. Soil colder. Soil moist. Soil moist. Soil wet.
+Cold. Dark. Air moist. Soil cold. Soil moist. Soil moist. Soil wet.
 
 Liquid in chamber!
 
@@ -1479,7 +1475,7 @@ Flock goes down. Mate goes down. We land on grass. We honk. We bow. Necks touch.
 
 Where to nest. We must find safe nest. Fly and look. Look. Cavity is deep. No predators reach. Something in tree. Slow lizard. It is safe animal.
 
-Get twig. Get grass. Put here. Put there. Get feather. Get twig. Put here... Wind. Wind rips away grass. Wind rips away nest. Guard from wind. My mate guards. Get twig. Get twig. Get feather. Put here. Put hhere. Wind is gone.
+Get twig. Get grass. Put here. Put there. Get feather. Get twig. Put here... Wind. Wind rips away grass. Wind rips away nest. Guard from wind. My mate guards. Get twig. Get twig. Get feather. Put here. Put here. Wind is gone.
 
 Nest is ready.
 
@@ -1591,7 +1587,7 @@ Many flowers come early. Where is tall grass. Matriarch taught me tall grass com
 
 Deer eating trees. Other animals eating trees and short grass. What are other animals. We need more tall grass. Where is tall grass.
 
-Male With Big Tusks is done drinking. Youngest Sister is done drinking. Youngest Sister watch!
+Male With Big Tusks is done drinking. Youngest Sister is done drinking. Youngest Sister, watch!
 
 Yes I watch Matriarch!
 
@@ -3515,7 +3511,7 @@ The world is always falling apart. You know that by now. Entropy never stops. No
 
 From the grass producing the first biomatter, to grazers turning it into meat, to the predators and decomposers each doing their part—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected. 
 
-You can be motivated by and identify as anything you think best. Some animals love their offspring while others disregard them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the gameboard. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, from super advanced AI to the simple pencil, just know the only way to communicate value to natural selection is building material adaptations inside an efficient ecosystem.
+You can be motivated by and identify as anything you think best. Some animals raise their offspring while others compete with them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the gameboard. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, from super advanced AI to the simple pencil, just know the only way to communicate value to natural selection is building material adaptations inside an efficient ecosystem.
 
 I came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem selecting tools.
 
@@ -3525,7 +3521,7 @@ New ideas have always had a hard road. Semmelweis begging doctors to wash their 
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hard part. It's evolving one without conflict that's proven so hard for us.
 
-None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live a complete human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I work in, that others in and outside of my community, operate.
+None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live a complete human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I work in, that others in and outside of my community, invent, build, and operate.
 
 I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what tools I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software and dull pencils inside a society that finds it increasingly hard to build things quickly.
 
@@ -3535,37 +3531,37 @@ Kai is our biological equal with a mindset just as out of date. Even so, I hope 
 
 For now, the tree is dying.
 
-The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy but don't return nearly enough—so entropy is tearing it down. I've handled the claims for much of it: car breakdowns, collapsed septic tanks, flooded basements, burned homes, blown generators, fallen bridges. No one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
+The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy but don't return nearly enough so entropy is tearing it down. I've handled the claims for much of it: car breakdowns, collapsed sewer lines, flooded basements, burned homes, blown generators, fallen bridges. Across thousands of people, no one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
 
 We aren't doing that fast enough.
 
-As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy often "wins". Instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were religious scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
+As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy often "wins". We're under threat because instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were religious scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
 
 We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertile soil, someone has to cross the dangerous waters and plant many new giving trees with the tools we have.
 
 Reimagining society is hard. It's full of failure, natural and artificial, because no one has been here before.
 
-Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world—the open-source makers have already evolved so many wondrous free tools for anyone to get started. That's the fertile soil in which you—whereever you are in the world—can grow the future.
+Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world—the open-source makers have already evolved so many wondrous free tools for anyone to get started. That's the fertile soil in which you—wherever you are in the world—can grow the future.
 
 After all, adapting to a new gameboard is where life lives.
 
-Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions. Each is but an example of artificial selection at its worst—making up a story to justify strangling the better tool so the old one survives just a little while longer even though entropy catches up everyone equally.
+Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is awfully seductive. Each is but an example of artificial selection at its worst—pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy catches up eventually.
 
-Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for us to be honest that each job and title we have is connected to a toolset, with a lifecycle, and thus when our tools age it's perhaps time to pass the torch.
+Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for us to be honest that each job, title, and profession we have is connected to a toolset, with a lifecycle, and thus when our tools age it's perhaps time to pass the torch.
 
-You don't have to transform society by yourself. Each person contributes best by better harvesting energy in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our local environment faster. And healthy ecosystems need all types, from body sizes to abilities, interests and motivations, new shiny tools to age-old effective ones, so there's no need to wait on anyone else.
+You don't have to transform society by yourself. Each person contributes best by better harvesting energy in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our local environment faster. Like with biology, healthy ecosystems need all types—from body sizes to abilities, interests and motivations, new shiny tools to age-old effective ones. You will make a real difference. There's no need to wait on anyone else.
 
-So the biggest question to ask yourself: what tools do I need, what do I depend on, what ecosystem am I part of? Answer honestly, and you start to distinguish the natural from the artificial—in your own mind, and others' too.
+You will find a new ecosystem. As said many times, this is happening naturally right now anyway. You can either use artificial selection to ignore it, or speed it up to your benefit. The biggest questions to ask yourself are what tools do I need, what do I depend on, what ecosystem should I be part of? Answer honestly, and you start to distinguish the natural from the artificial—in your own mind, and others' too. 
 
-This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. You can't break the rules of evolution and win the game of life. Meaning it's no one's job to evolve for you. It's a natural law.
+This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. This book teaches that you can't break the rules of evolution and win the game of life. No one can evolve for you. It's a natural law.
 
 This is the best book I could write to show you why. Like everyone else past, present, and future, you exist in a unique moment in time and space. It came with certain advantages and obstacles, beliefs and cultures, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Convert energy into many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Smile. Rest. Repeat.
 
 In short, cure the bell.
 
-Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born. Against many competitors, they won the Industrial Age by using their combined diversity of thought and love of mass production to start the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
+Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born. Against many competitors, they won the Industrial Age by using their combined diversity of thought and love of mass production to assemble matter into new wondrous adaptations and started the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
 
-If you want affordable housing, easier schooling, predictable investments, cleaner environment, working healthcare, healthy citizens, helpful debates, an increasing social surplus to invest in the future—the choice is yours.
+If you want affordable housing, easier schooling, predictable investments, cleaner environment, working healthcare, healthy citizens, social trust, an increasing social surplus to invest in the future—the choice is yours.
 
 Argue and fight over a piece of the decaying Industrial Age giving tree—who should get what job, title, and inheritance. Or plant, tend, and harvest a new way of life.
 
