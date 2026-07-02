@@ -331,7 +331,7 @@ Honesty is great in friendships and often in academics, but not so much at work 
 
 So I got a job at an insurance claim call center (I swear I thought it was a good idea).
 
-During insurance adjuster training, I was pleasantly surprised how simple the insurance rules were. The policy is a standard contract written by the government; private insurance companies just underwrite and administer it. Car crash fault rules are also just government regulations. It took only a few days to learn all this.
+Insurance adjuster training was surprisingly simple. In my jurisdiction, the policy is a standard contract written by the government; private insurance companies just underwrite and administer it. Car crash fault rules are also government regulations. When dealing with claims elsewhere—where laws allow companies to write the policy under government supervision, while case law determines fault—the work is still much the same. Finding the policies, rules, and paperwork was often the hardest part. It took only a few days to learn all this.
 
 I was happy. I could learn and communicate this stuff with confidence.
 
@@ -1519,7 +1519,7 @@ Reeds. Reeds. Go to reeds. Hide. Quiet. Follow. Follow. Follow. 6 kids in reeds.
 
 Walk to grass. We need energy. Eat grass. Eat snail. Watch. Watch. Eat bug. Eat grass. Look up, look left. Look right. Always look. Listen. Listen. Always listen.
 
-6 kids speak back. Kids are full of energy. Poop away from nest. Poop on grass.
+6 kids speak back. 0 kids missing. Kids are full of energy. Poop away from nest. Poop on grass.
 
 Hide. Dark will come. Go to reeds. Family goes to reeds. Waits. Hide. Keep away from open water. 
 
@@ -1614,6 +1614,10 @@ Stay together! Do not run!
 Panic! Panic!
 
 Three mammoths fall.
+
+### Intermission
+
+_Reading the board._
 
 ### Giving Tree
 
@@ -1881,9 +1885,9 @@ The Elder looks down, raises a hand, and stands. He is shy but says, "May the go
 
 "Why did you bow?" I ask.
 
-An old builder looks at me. "We were lost on the water. Sun. Waves. Thirst. Fighting. Hunger. Lost at sea...He was a fisher. When the Navigator passed, he kept us calm. He kept us together. He brought us to the island. Then our hungry cousins met us with spears. We made ready to die. He was still. He walked to them. He spoke their grandfathers' names. We saw the blood we shared. Enemies became kin. Our baskets filled. Our sick healed. He read the gods' signs. Found this new island. We had nothing again. He could have made himself master. Instead he offered only advice. He became a fisher again, happy to tend his nets."
+An old builder looks at me. "We were lost on the water. Sun. Waves. Thirst. Fighting. Hunger. Lost at sea is a hell no man should experience...He was a fisher. When the Navigator passed, he kept us calm. He kept us together. He brought us to the island. Then our cousins met us with spears. They were not much better off. We made ready to die. He was still. He walked to them. He spoke their grandfathers' names. We saw the blood we shared. Enemies became kin. We helped fill each other's baskets. Our sick healed. He read the gods' signs. Found this new island. We had nothing again. He lead us again. Then once we were settled, he became a fisher again, happy to tend his nets."
 
-A young builder says, quietly, "We leave soon. We will honor our people. We do not tell him. But he is our king."
+A young builder says, quietly, "We leave soon. We will honor our people. We do not tell him. But we go in the name of our king."
 
 ### The Limits of Signs
 
@@ -2119,7 +2123,7 @@ The woodcutter walks to the tree.
 
 Niccolo stays where he is, talking half to the man's back. "Being at the bottom makes it easier to see the top. I've served princes. Been broken by them. Read the ancients until they answered." The axe rises.
 
-"This will make a good new bridge."
+"Don't worry. This will make a good new Roman bridge."
 
 The blade strikes down into the strong Italian oak tree. Over and over.
 
@@ -2127,9 +2131,11 @@ The tree is weakening. Niccolo says, "Bookshelves," then smiles as the falling t
 
 ---
 
-A printer sets small metal letters into rows. Loads a paper. The press comes down—once, a page. Again, a page. Again. Dozens of sheets stack. Books are bound, a hundred the same, then a hundred more.
+A printer sets small metal letters into rows. Loads a paper sheet. He turns a screw, the press comes down. A page is made. He repeats. Again. Again. Again....
 
-A shop on a cobbled street sets one in the window. 
+Dozens of sheets stack. Books are bound, a hundred the same, then a hundred more.
+
+A shop on a cobbled street. A sign sits outside.
 
 *The Prince. Niccolo Machiavelli.*
 
@@ -2142,6 +2148,10 @@ A shop on a cobbled street sets one in the window.
 Hundreds of books sit on bookshelves in the bookstore.
 
 Three people enter.
+
+### Intermission
+
+_Learning how to be wrong._
 
 ### The Method
 
@@ -2835,6 +2845,10 @@ I failed him.
 
 I've heard of Lister's carbolic acid methods. They do not matter. I didn't find the bullet.
 
+### Intermission
+
+_Concrete, steel, and oil take root._
+
 ### Finding Work
 
 The wall is covered in pieces of paper. Bright reds, dark blues, deep blacks, characters tall as a hand. We can read, but some of the words are new to us. Some papers have colors—like a bee to a flower, we go to the brightest. My husband is shy, unsure. He didn't want to come here.
@@ -3507,21 +3521,23 @@ dwarkesh.com/p/david-reich-2
 
 ---
 
-The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every animal answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
+The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every creature answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
 
-From the grass producing the first biomatter, to grazers turning it into meat, to the predators and decomposers each doing their part—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected. 
+From the grass producing the first biomatter, to grazers turning it into meat, to the predators and decomposers each doing their part—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected.
 
-You can be motivated by and identify as anything you think best. Some animals raise their offspring while others compete with them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the gameboard. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, from super advanced AI to the simple pencil, just know the only way to communicate value to natural selection is building material adaptations inside an efficient ecosystem.
+You can be motivated by and identify as anything you think best. Some animals raise their offspring, others compete with them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the gameboard. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, from super advanced AI to the simple pencil, just know the only way to communicate value to natural selection is building material adaptations inside an efficient ecosystem.
 
-I came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. Relics of a world that selected flesh, living inside an ecosystem selecting tools.
+I came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. As technology helps people walk, see, think, talk, our biology becomes evermore relics of a world that selected flesh, living inside an ecosystem selecting tools.
 
 This observation was always there to be realized, like universal gravitation or bacteria infecting a wound. We just haven't built the framework to see it—thinking reality will conform to human stories in yet another realm—and that isn't anyone's fault.
 
-New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than make and share tools with their own members.
+New ideas have always had a hard road. Semmelweis begging doctors to wash their hands, Baran begging telephone engineers to make packet-based communication networks. Throughout history, entire civilizations fell rather than hunting down their own inefficiencies and making new and better tools for their members.
 
-Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hard part. It's evolving one without conflict that's proven so hard for us.
+Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hard part. It's evolving one without failure and conflict that's proven so hard for us.
 
-None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live a complete human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I work in, that others in and outside of my community, invent, build, and operate.
+Simply put, you can use your own beliefs to guide you. Just know, evolution is still selecting you—and everyone always—based on your ability to pass the torch.
+
+None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live my version of a happy human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I work in, that others in and outside of my community, invent, build, and operate.
 
 I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what tools I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software and dull pencils inside a society that finds it increasingly hard to build things quickly.
 
@@ -3531,13 +3547,13 @@ Kai is our biological equal with a mindset just as out of date. Even so, I hope 
 
 For now, the tree is dying.
 
-The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy but don't return nearly enough so entropy is tearing it down. I've handled the claims for much of it: car breakdowns, collapsed sewer lines, flooded basements, burned homes, blown generators, fallen bridges. Across thousands of people, no one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
+The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy but don't return enough, so entropy tears it down. I've handled the claims for much of it: car breakdowns, collapsed sewer lines, flooded basements, burned homes, blown generators, fallen bridges. Across thousands of people, no one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
 
 We aren't doing that fast enough.
 
 As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy often "wins". We're under threat because instead of healing our technological ecosystem, we go in circles, fighting over policies as if they were religious scriptures. All the while, we need the progressive-minded to find the neglected niches and invent solutions, and the conservative-minded to build the means to mass-produce them.
 
-We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertile soil, someone has to cross the dangerous waters and plant many new giving trees with the tools we have.
+We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertile soil, or explorers looking for the next island, someone has to cross the dangerous waters and plant many new giving trees with the tools we have.
 
 Reimagining society is hard. It's full of failure, natural and artificial, because no one has been here before.
 
@@ -3545,15 +3561,17 @@ Plants venture into new territories. Ants rebuild non-stop. Working folks learn 
 
 After all, adapting to a new gameboard is where life lives.
 
-Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is awfully seductive. Each is but an example of artificial selection at its worst—pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy catches up eventually.
+Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is often blinding. Each is but an example of artificial selection at its worst—pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy catches up to everyone equally.
 
-Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for us to be honest that each job, title, and profession we have is connected to a toolset, with a lifecycle, and thus when our tools age it's perhaps time to pass the torch.
+Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for us to be honest that each job, title, and profession is connected to a toolset, with a lifecycle, and thus when our tools age it's perhaps time to pre-empt evolution and pass the torch.
 
-You don't have to transform society by yourself. Each person contributes best by better harvesting energy in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our local environment faster. Like with biology, healthy ecosystems need all types—from body sizes to abilities, interests and motivations, new shiny tools to age-old effective ones. You will make a real difference. There's no need to wait on anyone else.
+You don't have to transform society by yourself. Each person contributes best by better harvesting energy in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our local environment faster. And like with biology, healthy ecosystems need all varieties—body types, abilities, and interests, new shiny tools to age-old effective ones.
 
-You will find a new ecosystem. As said many times, this is happening naturally right now anyway. You can either use artificial selection to ignore it, or speed it up to your benefit. The biggest questions to ask yourself are what tools do I need, what do I depend on, what ecosystem should I be part of? Answer honestly, and you start to distinguish the natural from the artificial—in your own mind, and others' too. 
+As a gift for crossing the river, you'll stop seeing the combative identities fueling today's stagnation and hatred, and start interacting with people and experiencing their enthusiasm, innovation, and humor as they share the food, crafts, structures they like to create and build; an inherently future-looking, community building exercise.
 
-This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. This book teaches that you can't break the rules of evolution and win the game of life. No one can evolve for you. It's a natural law.
+Thereby you'll find a new ecosystem. As said many times, this is happening naturally right now anyway. You can either use artificial selection to ignore it, or speed it up. The biggest questions to ask yourself are what tools do I need, what do I depend on, what ecosystem should I be part of? Answer honestly, and you start to distinguish the natural from the artificial—in your own mind, and others' too. 
+
+This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. This book teaches that you can't break the rules of evolution and win the game of life. No one can evolve for anyone else. It's a natural law.
 
 This is the best book I could write to show you why. Like everyone else past, present, and future, you exist in a unique moment in time and space. It came with certain advantages and obstacles, beliefs and cultures, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Convert energy into many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Smile. Rest. Repeat.
 
@@ -3561,7 +3579,7 @@ In short, cure the bell.
 
 Once Protestants and Catholics stopped killing each other over scripture, conservatism and progressivism were born. Against many competitors, they won the Industrial Age by using their combined diversity of thought and love of mass production to assemble matter into new wondrous adaptations and started the Internet Age. Fighting over belief systems now is choosing the old war again. It increases entropy and is self-defeating.
 
-If you want affordable housing, easier schooling, predictable investments, cleaner environment, working healthcare, healthy citizens, social trust, an increasing social surplus to invest in the future—the choice is yours.
+If you want affordable housing, easier schooling, predictable investments, cleaner environment, working healthcare, healthy citizens, community trust, an increasing social surplus to invest in the future—the choice is yours.
 
 Argue and fight over a piece of the decaying Industrial Age giving tree—who should get what job, title, and inheritance. Or plant, tend, and harvest a new way of life.
 
