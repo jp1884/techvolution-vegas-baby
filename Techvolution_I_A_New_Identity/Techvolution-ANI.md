@@ -2982,7 +2982,7 @@ Engineer, Drexel Institute of Technology
 
 1955. The Soviets detonate a truly massive hydrogen bomb. Much of my family is still in Eastern Europe. I'm in the United States. Nuclear war must be prevented.
 
-Computers are new, powerful, and advancing. I should know, I worked at Eckert-Mauchly Computer Corporation on UNIVAC models. I'm getting my masters in engineering from UCLA. I have so many resources. I have so much responsibility. I can help prevent nuclear war.
+Computers are new, powerful, and advancing quickly. I should know, I worked at Eckert-Mauchly Computer Corporation on UNIVAC models. I'm getting my masters in engineering from UCLA. I have so many resources. I have so much responsibility. I can help prevent nuclear war.
 
 Must get started.
 
@@ -2992,9 +2992,9 @@ Must keep going.
 
 1960. Fact! A human brain can recover lost functions by bypassing a dysfunctional area.
 
-Idea! A completely distributed communication network. No centralization so information can always find a way through. Like a fishnet—every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust as the theoretical limit. Redundancy is possible. Redundancy is key.
+Idea! A completely distributed communication network. With no centralization information can always find a way through. Like a fishnet with every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust as the theoretical limit. Redundancy is possible. Redundancy is key.
 
-Our phone system has physical connections. One problem in the line, a call drops. We need to make data digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. Like sending a book in postcards.
+Our phone system has physical connections. Problem! Phone connections fail and drop calls. We need to make data digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. Like sending a book in postcards.
 
 If a message is lost, we can send just the page needed, not the entire book. Block messages vastly increase redundancy.
 
@@ -3018,9 +3018,7 @@ I look at him.
 
 Must keep going.
 
-1964. RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. US government's Advanced Research Projects Agency (ARPA) distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks "packets". It's a new name for a new idea. I like it. I re-write my work to use packets.
-
-We must keep going.
+1964. RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. US government's Advanced Research Projects Agency (ARPA) distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks "packets". It's a new name for a new idea. I like it.
 
 1967. Larry Roberts reads our work. He works at ARPA. He approves funding. Vint Cerf, Robert Kahn, other grad students are building the hardware and software to send digital packets. They are doing great work. The distributed communication network is called ARPAnet.
 
@@ -3561,7 +3559,7 @@ Plants venture into new territories. Ants rebuild non-stop. Working folks learn 
 
 After all, adapting to a new gameboard is where life lives.
 
-Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is often blinding. Each is but an example of artificial selection at its worst—pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy catches up to everyone equally.
+Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is often blinding. Each is but an example of artificial selection at its worst—pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy grants no exceptions.
 
 Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for us to be honest that each job, title, and profession is connected to a toolset, with a lifecycle, and thus when our tools age it's perhaps time to pre-empt evolution and pass the torch.
 
