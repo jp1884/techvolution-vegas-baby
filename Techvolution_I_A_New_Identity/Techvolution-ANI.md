@@ -2241,7 +2241,7 @@ The apprentice smiles.
 
 They relight the chimney candle one more time, each placing the iron rods into the flames.
 
-Three notebooks fill with observations.
+A bookshelf fills with notepads of observations. 
 
 ### Extinction Event
 
@@ -2249,7 +2249,7 @@ I enter the House of Commons with soldiers behind me.
 
 This should not be necessary.
 
-Father never marched armed men into Parliament. My ancestors kept order without soldiers. But the Five Members—Pym, Hampden, Haselrig, Holles, Strode—these Puritans refused to send my money to their king. Stirred rebellion. They turned the realm against its own king. 
+Father never marched armed men into Parliament. It is 1642. My ancestors kept order inside our realm without soldiers. But the Five Members—Pym, Hampden, Haselrig, Holles, Strode—these Puritans refused to send my money to their king. Stirred rebellion. They turned the realm against its own king.  
 
 I only want the traitorous five.
 
@@ -2283,7 +2283,7 @@ I will leave with dignity. The soldiers make way. I exit the House of Commons.
 
 "Privilege! Members of the Commons are protected by Privilege!"
 
-Unholy rabble. Ignore them. Keep walking.
+Unholy rabble. Ignore them for now.
 
 Outside, on London streets, the middling crowd watch from doorways and corners. Not cheering. Not bowing. Watching.
 
@@ -2323,7 +2323,7 @@ I step down. I look for the aldermen who enforce order in the City, they must be
 
 "Shall we return to Whitehall Palace, Your Majesty?"
 
-I nod.
+I nod. What else can I do? 
 
 My coach and guard are going home. We must return to the King's Street.
 
@@ -2982,11 +2982,13 @@ Engineer, Drexel Institute of Technology
 
 1955. The Soviets detonate a truly massive hydrogen bomb. Much of my family is still in Eastern Europe. I'm in the United States. Nuclear war must be prevented.
 
+Paper, mail, and phone calls are slow.
+
 Computers are new, powerful, and advancing quickly. I should know, I worked at Eckert-Mauchly Computer Corporation on UNIVAC models. I'm getting my masters in engineering from UCLA. I have so many resources. I have so much responsibility. I can help prevent nuclear war.
 
 Must get started.
 
-1959. I'm a researcher at RAND Corporation in Santa Monica. The Air Force sends us a list of problems. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications used high-frequency connections. Those are vulnerable to the radiation of nuclear attacks. Communication blackouts mean itchy atomic trigger fingers. Resilient communication networks prevent nuclear war.
+1959. I'm a researcher at RAND Corporation in Santa Monica. The Air Force sends us a list of problems. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications uses high-frequency connections. Those are vulnerable to the radiation of nuclear attacks. Communication blackouts mean itchy atomic trigger fingers. Resilient communication networks are faster, more reliable and therefore prevent nuclear war.
 
 Must keep going.
 
@@ -2994,7 +2996,7 @@ Must keep going.
 
 Idea! A completely distributed communication network. With no centralization information can always find a way through. Like a fishnet with every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust as the theoretical limit. Redundancy is possible. Redundancy is key.
 
-Our phone system has physical connections. Problem! Phone connections fail and drop calls. We need to make data digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. Like sending a book in postcards.
+Problem! Our phone system has physical connections. Phone connections therefore fail and drop calls rather easily. We need to make communications digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. Like sending a book in postcards.
 
 If a message is lost, we can send just the page needed, not the entire book. Block messages vastly increase redundancy.
 
@@ -3034,7 +3036,7 @@ No center to destroy. No single point of failure. No control possible.
 
 We are going.
 
-Newspapers. Textbooks. Whitepapers. Emails. People are writing about the network.
+Newspapers. Textbooks. Whitepapers. Emails. People are writing about the network. People are using the network everyday from government, military, schools, now even some regular homes are online.
 
 Three more nodes connect.
 
@@ -3089,9 +3091,11 @@ Finally, Gosplan reviews. OGAS is too expensive. Current systems good enough.
 
 Why aren't we going.
 
-1971. The 24th Communist Party Congress is coming. OGAS is up for funding. I write a detailed proposal. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials don't understand computers, data, mathematics, or science. They only see a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their many positions and meetings.
+1971. The 24th Communist Party Congress is coming. OGAS is up for funding. I write a detailed proposal. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials don't understand computers, data, mathematics, or science. They only see a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their many positions and fuel their endless meetings.
 
-I dare not write this down. Instead I continue to write and publish theory and equations.
+I dare not write this down. 
+
+Instead I continue to write and publish theory and equations.
 
 Someone else will return to this soon.
 
@@ -3519,11 +3523,11 @@ dwarkesh.com/p/david-reich-2
 
 ---
 
-The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every creature answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The game is the same.
+The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every creature answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The Game of Life is the same.
 
-From the grass producing the first biomatter, to grazers turning it into meat, to the predators and decomposers each doing their part—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected.
+From the grass producing the first biomatter, to grazers turning it into meat, to the predators hunting inefficicnes, scavengers making use of every morsel, and decomposers recyling—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected to stay on the lifeboat called Earth.
 
-You can be motivated by and identify as anything you think best. Some animals raise their offspring, others compete with them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the gameboard. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, from super advanced AI to the simple pencil, just know the only way to communicate value to natural selection is building material adaptations inside an efficient ecosystem.
+You can be motivated by and identify as anything you think best. Some animals raise their offspring, others compete with them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the game. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, from super advanced AI to the simple pencil, just know the only way to communicate value to natural selection is building material adaptations inside an efficient ecosystem.
 
 I came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like the skin, eye, and hair colors we inherited, are effectively tailbones now. As technology helps people walk, see, think, talk, our biology becomes evermore relics of a world that selected flesh, living inside an ecosystem selecting tools.
 
@@ -3533,9 +3537,9 @@ New ideas have always had a hard road. Semmelweis begging doctors to wash their 
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Evolution and the scientific method, turned on ourselves, to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hard part. It's evolving one without failure and conflict that's proven so hard for us.
 
-Simply put, you can use your own beliefs to guide you. Just know, evolution is still selecting you—and everyone always—based on your ability to pass the torch.
+Simply put, you can use your own beliefs to guide you. Just know, evolution is still selecting you—and everyone always—based on your ability to assemble matter into something useful and pass the torch to the next generation.
 
-None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live my version of a happy human life. Even so, I know my calories, heat, and electricity come from the tools and ecosystem I work in, that others in and outside of my community, invent, build, and operate.
+None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live my version of a happy human life. Even so, I know my calories, heat, and electricity come from the technological ecosystem I work in, that others in and outside of my community, invent, build, and operate.
 
 I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what tools I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software and dull pencils inside a society that finds it increasingly hard to build things quickly.
 
@@ -3559,17 +3563,17 @@ Plants venture into new territories. Ants rebuild non-stop. Working folks learn 
 
 After all, adapting to a new gameboard is where life lives.
 
-Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is often blinding. Each is but an example of artificial selection at its worst—pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy grants no exceptions.
+Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is attractive. Each is but an example of artificial selection at its worst—pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy catches up to everyone equally.
 
 Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history at our backs today for us to be honest that each job, title, and profession is connected to a toolset, with a lifecycle, and thus when our tools age it's perhaps time to pre-empt evolution and pass the torch.
 
 You don't have to transform society by yourself. Each person contributes best by better harvesting energy in their own niche. From the scientist to the farmer, the executive to the family in the woods, we just have to heal our local environment faster. And like with biology, healthy ecosystems need all varieties—body types, abilities, and interests, new shiny tools to age-old effective ones.
 
-As a gift for crossing the river, you'll stop seeing the combative identities fueling today's stagnation and hatred, and start interacting with people and experiencing their enthusiasm, innovation, and humor as they share the food, crafts, structures they like to create and build; an inherently future-looking, community building exercise.
+As a gift for crossing the river, you'll stop seeing the combative identities fueling today's stagnation and hatred, and start interacting with people and experience their enthusiasm, innovation, and humor as they share the food, crafts, structures they like to create and build; an inherently future-looking, community building exercise.
 
 Thereby you'll find a new ecosystem. As said many times, this is happening naturally right now anyway. You can either use artificial selection to ignore it, or speed it up. The biggest questions to ask yourself are what tools do I need, what do I depend on, what ecosystem should I be part of? Answer honestly, and you start to distinguish the natural from the artificial—in your own mind, and others' too. 
 
-This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. This book teaches that you can't break the rules of evolution and win the game of life. No one can evolve for anyone else. It's a natural law.
+This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Once realized, you'll forever understand that we can't break the rules of evolution and win the game of life. No one can evolve for anyone else. It's a natural law.
 
 This is the best book I could write to show you why. Like everyone else past, present, and future, you exist in a unique moment in time and space. It came with certain advantages and obstacles, beliefs and cultures, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Convert energy into many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Smile. Rest. Repeat.
 
@@ -3584,6 +3588,10 @@ Argue and fight over a piece of the decaying Industrial Age giving tree—who sh
 Do you want to watch three seeds fall?
 
 Or drop them yourself?
+
+
+- Think in stories...Think in terms of calories. Those who build the most, and spend the least, proliferate.
+- like water flow.
 
 ## Preview—Book II—Mixed Ideological Politics
 
