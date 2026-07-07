@@ -2747,7 +2747,7 @@ The war is on. We will win. Obviously.
 
 The North builds rifles, cannons, ironclads, railroads, telegraph lines. Their workers make the designs, run the machines, send the orders down the wire. Farm boys become soldiers and factory hands.
 
-We can fight better. We have God and justice on our side. We have cotton, metals, wood, powder. We have the brains. We have the hands.
+We can fight better. We have justice on our side. We have cotton, metals, wood, powder. We have the brains. We have the hands.
 
 We print the manuals. Create loading drills. Make signal codes and telegraph keys. We hand them to our fighters and our workers.
 
@@ -2984,7 +2984,7 @@ My husband picks up a wrench and screwdriver, walks over to a water pump, and th
 Paul Baran
 Engineer, Drexel Institute of Technology
 
-1955. The Soviets detonate a truly massive hydrogen bomb. Much of my family is still in Eastern Europe. I'm in the United States. Nuclear war must be prevented.
+1955-. The Soviets detonate a truly massive hydrogen bomb. Much of my family is still in Eastern Europe. I'm in the United States. Nuclear war must be prevented.
 
 Paper, mail, and phone calls are slow.
 
@@ -2992,11 +2992,11 @@ Computers are new, powerful, and advancing quickly. I should know, I worked at E
 
 Must get started.
 
-1959. I'm a researcher at RAND Corporation in Santa Monica. The Air Force sends us a list of problems. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications uses high-frequency connections. Those are vulnerable to the radiation of nuclear attacks. Communication blackouts mean itchy atomic trigger fingers. Resilient communication networks are faster, more reliable and therefore prevent nuclear war.
+1959-. I'm a researcher at RAND Corporation in Santa Monica. The Air Force sends us a list of problems. I scan it. Pick one: "communication survival in nuclear attacks." Most American military communications uses high-frequency connections. Those are vulnerable to the radiation of nuclear attacks. Communication blackouts mean itchy atomic trigger fingers. Resilient communication networks are faster, more reliable and therefore prevent nuclear war.
 
 Must keep going.
 
-1960. Fact! A human brain can recover lost functions by bypassing a dysfunctional area.
+1960-. Fact! A human brain can recover lost functions by bypassing a dysfunctional area.
 
 Idea! A completely distributed communication network. With no centralization information can always find a way through. Like a fishnet with every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust as the theoretical limit. Redundancy is possible. Redundancy is key.
 
@@ -3006,7 +3006,7 @@ If a message is lost, we can send just the page needed, not the entire book. Blo
 
 Must keep going.
 
-1962. I'm an engineer. I have a team. We draw diagrams. Write papers. Detailed. Very detailed. RAND presents to the Air Force. Approved!
+1962-. I'm an engineer. I have a team. We draw diagrams. Write papers. Detailed. Very detailed. RAND presents to the Air Force. Approved!
 
 Let's keep going.
 
@@ -3024,15 +3024,15 @@ I look at him.
 
 Must keep going.
 
-1964. RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. US government's Advanced Research Projects Agency (ARPA) distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks "packets". It's a new name for a new idea. I like it.
+1964-. RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. US government's Advanced Research Projects Agency (ARPA) distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks "packets". It's a new name for a new idea. I like it.
 
-1967. Larry Roberts reads our work. He works at ARPA. He approves funding. Vint Cerf, Robert Kahn, other grad students are building the hardware and software to send digital packets. They are doing great work. The distributed communication network is called ARPAnet.
+1967-. Larry Roberts reads our work. He works at ARPA. He approves funding. Vint Cerf, Robert Kahn, other grad students are building the hardware and software to send digital packets. They are doing great work. The distributed communication network is called ARPAnet.
 
-1969. Four locations are online. UCLA to Stanford Research Institute. UC Santa Barbara to University of Utah.
+1969-. Four locations are online. UCLA to Stanford Research Institute. UC Santa Barbara to University of Utah.
 
-1971. Eighteen nodes are connected. Ray Tomlinson invents email. People love it.
+1971-. Eighteen nodes are connected. Ray Tomlinson invents email. People love it.
 
-1973. Forty nodes. International connections start up.
+1973-. Forty nodes. International connections start up.
 
 The fishnet keeps growing.
 
@@ -3049,7 +3049,7 @@ Three more nodes connect.
 Victor Glushkov
 Director of the Institute of Cybernetics in Kiev, Soviet Union
 
-1961. Central planning is building socialism. Socialism removes exploitation, allowing each to contribute according to his ability and receive according to his work. Socialism is science.
+1961-. Central planning is building socialism. Socialism removes exploitation, allowing each to contribute according to his ability and receive according to his work. Socialism is science.
 
 More efficient central planning will build socialism faster. Rapid growth generates massive amounts of data—production quotas, resource allocation, distribution networks. 
 
@@ -3063,23 +3063,23 @@ Computers are new. They are powerful. We should have a national computer network
 
 We must keep going.
 
-1962. I propose OGAS to Soviet leadership. The numbers are clear. Current planning takes too long. Information gets lost between ministries. A centralized network would eliminate these inefficiencies. Production would increase.
+1962-. I propose OGAS to Soviet leadership. The numbers are clear. Current planning takes too long. Information gets lost between ministries. A centralized network would eliminate these inefficiencies. Production would increase.
 
 Some officials are intrigued. "Comrade Victor Glushkov, keep studying your cybernetics network." I begin detailed technical specifications. Network architecture. Data protocols. Processing centers in major cities. Terminals in every significant economic unit.
 
 We are going.
 
-1963. I present to party officials. Big cost. Bigger savings. Speed increased. The mathematics is sound. This is science.
+1963-. I present to party officials. Big cost. Bigger savings. Speed increased. The mathematics is sound. This is science.
 
 Resistance. Ministry officials ask questions. Who controls data? Who would have access? I explain: the system serves socialism. All ministries benefit from better information.
 
 We must keep going.
 
-1964. Khrushchev falls. Brezhnev takes power. Reformers leave seats. I write more proposals.
+1964-. Khrushchev falls. Brezhnev takes power. Reformers leave seats. I write more proposals.
 
 We should be going.
 
-1965. Gosplan—the State Planning Committee. They can approve my system.
+1965-. Gosplan—the State Planning Committee. They can approve my system.
 
 My team brings my proposal for review. A clerk slides a stack of forms across the desk. "Fill these out to request the computers. Three copies. One for Resources, one for Labor, one for us."
 
@@ -3095,7 +3095,7 @@ Finally, Gosplan reviews. OGAS is too expensive. Current systems good enough.
 
 Why aren't we going.
 
-1971. The 24th Communist Party Congress is coming. OGAS is up for funding. I write a detailed proposal. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials don't understand computers, data, mathematics, or science. They only see a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their many positions and fuel their endless meetings.
+1971-. The 24th Communist Party Congress is coming. OGAS is up for funding. I write a detailed proposal. It is formally shelved. "Insufficient funding available for developing a cybernetics network." That's the official reason. The real reason: too many unscientific officials don't understand computers, data, mathematics, or science. They only see a threat. Centralized data means loss of control. Loss of power. Loss of the information monopolies that sustain their many positions and fuel their endless meetings.
 
 I dare not write this down. 
 
@@ -3273,65 +3273,7 @@ He drops his pencil. Extends his hand.
 
 "Learn."
 
-### Story—Cured
 
-You might remember: one of my first claims involved tracking down a Buick Allure for my insured. It took hours that I didn't have to spend. But she'd never actually asked. She'd simply said, very nicely mind you: "I only drive Buick Allures." I assumed it was my job, so I found one.
-
-Years later, I had a similar conversation.
-
-She said, "I only drive Land Rovers."
-
-Her tone wasn't nice. I kept typing out her requisition orders.
-
-"Hello?"
-
-"Hi." I responded.
-
-"I only drive Land Rovers...Did you hear me?" 
-
-That's the trick of bullies: they never ask. They state. Asking implies the other person's agency—it allows compromise or disappointment. I learned silence was the best response. After all, she wasn't actually speaking to me.
-
-"I said I only drive Land Rovers."
-
-I knew what she wanted: for me to accept this as fact. But I'm not a valet, nor a rental company. Besides, rental coverage is about 30 dollars a year. The idea that we'd have an $80,000 SUV at the ready for her is ridiculous.
-
-"You can ask the rental company about that."
-
-"Then why do I buy insurance?"
-
-Every adjuster's favorite question. I'd learned the best response by then.
-
-"I don't know. Why did you buy this rental insurance?"
-
-I said it gently. I was having a conversation; she was being the bully.
-
-"I can't believe this. This isn't my problem." The bell was probably going DING DING DING by the way.
-
-"With respect, it is if you want to drive a Land Rover as a rental I don't know of any company that stocks those. They usually opt for reliable cars with good resale values."
-
-"Can I speak with your manager?"
-
-"I can ask him, 
-
-"Ask him!"
-
-"I can't make him call you." I continued, "Insurance deals with contracts and policies. He'd probably ask where it says you can only rent Land Rovers. Every policy is a government regulation—they never specify brands. I can send your authorization for a rental in that class, depending on availability. Or I can send you a cheque and you arrange your own rental, uber, or public transportation."
-
-She took the pre-authorized rental. I never heard from her again.
-
-I'd thought I couldn't be honest with insurance customers. I stuttered on many calls because of that. The truth: I had to learn how to be honest. I couldn't be mean, but I could state clearly what my job was, what the policy covered, and what their options were.
-
-Let a person deal with their reality. If they ask, I'm here to help. Most people absolutely loved that approach. If they didn't, I wasn't getting nervous on their account. That was the key to my vocal freedom.
-
-I often recall this Land Rover conversation. Though I still stutter occasionally, when I look back that's when I realize I don't have a stutter anymore.
-
-Soon after, I got promoted to property adjuster. A totally different vibe. I had my own files, no queue, and time to actually work them. I loved that property claims department job and team (I wish I never left).
-
-I learned much doing property claims too, but those years in auto claims effectively cured my stutter and by chance happened to be extremely educational. The over 2,000 claims, 8,000 queue calls, endless emails and voicemails, and uncountable interactions from everybody between lawyers to plumbers, NBA stars to single parents, body repair shops to other adjusters, taught me how managers, workers, and consumers interact to make todays struggling economy.
-
-The struggle isn't inevitable. The tools to fix it already exist. The problem is we're using biological instincts and ideological frameworks to navigate an quickly evolving technological ecosystem.
-
-This all became the practical foundations of Techvolution.
 
 ### Story—New Tools
 
@@ -3437,6 +3379,8 @@ Here's another example to illuminate the point.
 
 For decades, every American car shared the same handful of standardized headlight designs—universal, cheap, and always in stock. But the sealed-beam technology was getting old. When deregulation came in 1983, innovation arrived with it—halogen, then LED—but then ran away entirely.
 
+Basically, we didn’t upgrade standard parts and make new kinds of products to fill different niches. Instead, we used better robotics and design software to diverisfy parts to recreate the same end-products. 
+
 Today there are thousands of unique headlight assemblies, each specific to one model and trim level, and priced accordingly:
 
 | | **1982 Sealed Beam** | **2026 Headlight Assembly** |
@@ -3448,9 +3392,80 @@ Today there are thousands of unique headlight assemblies, each specific to one m
 | **Total real-world cost** | ~$25–$50 all-in (2026 dollars) | $400–$5,000+ all-in for complex systems |
 | **Availability** | Any auto parts store, universal fit | Model-specific, sometimes weeks on back-order |
 
-And this is just for headlights. The increasing complication of our economy has strong ripple effects. Who pays when waiting weeks for a model-specific parts? The car owner, repair shop, manufacturer, parts supplier, insurance company? Arguing over who pays is now routine and definitely raised insureds emotions and adjuster pendings.
+And this is just for headlights. The same complexity exists throughout automobile supply chains, regulations, contracts, and so on. The increasing complication of our economy has strong ripple effects. Who pays for increased costs? Nevermind when waiting weeks for a model-specific repair parts? The car owner, repair shop, manufacturer, parts supplier, insurance company? Arguing over who pays is now routine and definitely raised insureds emotions and adjuster pendings. 
 
 Just food for thought. These are not just stories of my job. The bell ringing at the claims center isn't just a warning for adjusters to work faster—it's ringing for you too, a signal about the state of your economy, heard directly from the frontline.
+
+### Story—Cured
+
+You might remember: one of my first claims involved tracking down a Buick Allure for my insured. It took hours that I didn't have to spend. But she'd never actually asked. She'd simply said, very nicely mind you: "I only drive Buick Allures." I assumed it was my job, so I found one.
+
+Years later, I had a similar conversation.
+
+She said, "I only drive Land Rovers."
+
+Her tone wasn't nice. I kept typing out her requisition orders.
+
+"Hello?"
+
+"Hi." I responded.
+
+"I only drive Land Rovers...Did you hear me?" 
+
+That's the trick of bullies: they never ask. They state. Asking implies the other person's agency—it allows compromise or disappointment. I learned silence was the best response. After all, she wasn't actually speaking to me.
+
+"I said I only drive Land Rovers."
+
+I knew what she wanted: for me to accept this as fact. But I'm not a valet, nor a rental company. Besides, rental coverage is about 30 dollars a year. The idea that we'd have an $80,000 SUV at the ready for her is ridiculous.
+
+"You can ask the rental company about that."
+
+"Then why do I buy insurance?"
+
+Every adjuster's favorite question. I'd learned the best response by then.
+
+"I don't know. Why did you buy this rental insurance?"
+
+I said it gently. I was having a conversation; she was being the bully.
+
+"I can't believe this. This isn't my problem." The bell was probably going DING DING DING by the way.
+
+"With respect, it is if you want to drive a Land Rover as a rental I don't know of any company that stocks those. They usually opt for reliable cars with good resale values."
+
+"Can I speak with your manager?"
+
+"I can ask him, 
+
+"Ask him!"
+
+"I can't make him call you." I continued, "Insurance deals with contracts and policies. He'd probably ask where it says you can only rent Land Rovers. Every policy is a government regulation—they never specify brands. I can send your authorization for a rental in that class, depending on availability. Or I can send you a cheque and you arrange your own rental, uber, or public transportation."
+
+She took the pre-authorized rental. I never heard from her again.
+
+I'd thought I couldn't be honest with insurance customers. I stuttered on many calls because of that. The truth: I had to learn how to be honest. I couldn't be mean, but I could state clearly what my job was, what the policy covered, and what their options were.
+
+Let a person deal with their reality. If they ask, I'm here to help. Most people absolutely loved that approach. If they didn't, I wasn't getting nervous on their account. That was the key to my vocal freedom.
+
+I often recall this Land Rover conversation. Though I still stutter occasionally, when I look back that's when I realize I don't have a stutter anymore.
+
+I thought this was poetic. My last ever automobile queue call was a young lady. A "sideswipe" crash. Usually both drivers say 
+the other changed lanes, making 50/50 fault common. But she said the police charged her for improper lane change. Unusual, I thought, and kept working.
+
+She responded to my 100% at-fault notice with indignation: "But the other guy had a dash-cam."
+
+After thousands of calls, I could still be stunned. "Huh?" I responded.
+
+"Think of it. How bad of a driver does he have to be, to need a camera?"
+
+That was my last auto call. My very last call was a cow hit by lightning.
+
+Soon after, I got promoted to property adjuster. A totally different vibe. I had my own files, no queue, and time to actually work them. I loved that property claims department job and team (I wish I never left).
+
+I learned much doing property claims too, but those years in auto claims effectively cured my stutter and by chance happened to be extremely educational. The over 2,000 claims, 8,000 queue calls, endless emails and voicemails, and uncountable interactions from everybody between lawyers to plumbers, NBA stars to single parents, body repair shops to other adjusters, taught me how managers, workers, and consumers interact to make todays struggling economy.
+
+The struggle isn't inevitable. The tools to fix it already exist. The problem is we're using biological instincts and ideological frameworks to navigate an quickly evolving technological ecosystem.
+
+This all became the practical foundations of Techvolution.
 
 ### Story—Last call
 
@@ -3529,7 +3544,7 @@ dwarkesh.com/p/david-reich-2
 
 The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every creature answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The Game of Life is the same.
 
-From the grass producing the first biomatter, to grazers turning it into meat, to the predators hunting frailty, scavengers making use of every morsel, and decomposers recycling—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected to stay on the lifeboat called Earth.
+From the grass producing the first biomatter, to grazers turning it into meat, to the predators hunting frailty, scavengers making use of every morsel, and decomposers restarting the process—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected to stay on the lifeboat called Earth.
 
 You can be motivated by and identify as anything you think best. Some animals raise their offspring, others compete with them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the game. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, from super advanced AI to the simple pencil, just know the only way to communicate value to natural selection is building material adaptations inside a working ecosystem.
 
@@ -3541,7 +3556,7 @@ New ideas have always had a hard road. Semmelweis begging doctors to wash their 
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Turning the scientific method on our technological ecosystem to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hardest part. It's evolving one without failure and conflict that's proven so difficult for us.
 
-Simply put, you can use your own beliefs to guide you. Just know nature only grows an environment's carrying capacity when its lifeforms uncover untapped niches and hunt inefficiencies. Evolution is still selecting you—and everyone, always—on one thing: whether you build tools that reciprocate and keep the torch alive.
+Simply put, you can use your own beliefs to guide you. Just know nature only grows an environment's carrying capacity when its lifeforms uncover untapped niches and hunt down inefficiencies. Evolution is still selecting you—and everyone, always—on one thing: whether you build tools that reciprocate and keep the torch alive against entropy's slow unmaking of life.
 
 None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live my version of a happy human life. Even so, I know my calories, heat, shelter, and electricity don't come from a wild nature, but from a technological ecosystem I work in, that others in and outside of my community, invent, build, and operate.
 
@@ -3553,19 +3568,21 @@ Kai is our biological equal with a mindset just as out of date. Even so, I hope 
 
 For now, the tree is dying.
 
-The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy (pay raises, dividends, benefits) but don't return enough (new tools, lessons, kids), so entropy tears it down. I've handled the claims for much of it: car breakdowns, collapsed sewer lines, flooded basements, burned homes, blown generators, fallen bridges. Across thousands of people, no one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
+The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy (larger raises, dividends, houses, cars) but don't return enough (new tools, lifestyles, kids), so entropy tears it down. I've handled the claims for much of it: car breakdowns, collapsed sewer lines, flooded basements, burned homes, blown generators, fallen bridges. Across thousands of people, no one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
 
 We aren't doing that fast enough.
 
-As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy often "wins". Instead of fixing our stuff, adopting new tools, evolving our lifestyle, we go in circles, fighting over policies and hunting down non-believers as entropy catches up. We need the progressive-minded to find neglected problems (untapped niches) and invent solutions, the conservative-minded to mass-produce them, and everyone to hunt down inefficiencies.
+As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy often "wins". Instead of fixing our stuff, adopting new tools, evolving a more efficient lifestyle, we go in circles, fighting over policies instead of correcting the ecosystem's checks and balances. We need the progressive-minded to find neglected problems and invent solutions to these untapped niches, the conservative-minded to mass-produce them, and everyone to use them to hunt inefficiencies.
+
+The tools already exist. Baran, ARPA, and others gave the internet away for free; companies spread it worldwide. Your job now is to choose which to adopt and which to ignore—the same selection that shaped lifeforms like birds and whales into such efficient creatures.
 
 We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertile soil, or explorers looking for the next island, someone has to cross the dangerous waters and plant many new giving trees with the tools we have.
 
 Reimagining society is hard. It's full of failure, natural and artificial, because no one has been here before.
+ 
+Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world. Biologists can heal forests and do things like return the American chestnut to life. We can do the same for technology. The open-source makers have already evolved so many wondrous free tools for anyone to get started right now. That's the fertile soil in which you—wherever you are in the world—can grow the future.
 
-Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world. Biologists can heal forests and do things like return the American chestnut to life. We can do the same for technology. The open-source makers have already evolved so many wondrous free tools for anyone to get started. That's the fertile soil in which you—wherever you are in the world—can grow the future.
-
-After all, adapting to a new gameboard is where life lives.
+After all, adapting to a new gameboard is where life lives. You can too, if you think first in terms of calories and not stories.
 
 Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is natural. Doing so with artificial selection is not. Each was the worst kind of it. Pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy catches up to everyone equally.
 
@@ -3575,9 +3592,9 @@ You don't have to transform society by yourself. Each person contributes best by
 
 As a gift for crossing the river, you'll stop seeing the combative identities fueling today's stagnation and hatred, and start interacting with people's enthusiasm, innovation, and humor as they share the food, crafts, structures they like to create and build; an inherently future-looking, community-building exercise.
 
-Thereby you'll form a new ecosystem. As said many times, this is happening naturally right now anyway. You can either use artificial selection to ignore it, or speed it up. The biggest questions to ask yourself are what tools do I need, what do I depend on, what ecosystem should I be part of? Answer honestly, and you start to distinguish the natural from the artificial—in your own mind, and others' too. 
+Thereby you'll form a new ecosystem. As said many times, this is happening naturally right now anyway. You can either use artificial selection to ignore it, or speed it up and increase the proliferation of life. The biggest questions to ask yourself are what tools do I need, what do I depend on, what ecosystem should I be part of? Think of energy harvested versus used in your work and life, answer honestly, and you start to distinguish the natural from the artificial—in your own mind, and others' too. 
 
-This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Once realized, you'll forever understand that we can't break the rules of evolution and win the game of life. We can't use old tools forever. Nor can we evolve for anyone else. It's a natural law.
+This book isn't meant to modernize politics or economics. Those come later, in Mixed Ideological Politics and Bumblebee Economics, which get far more detailed on how to cross into the Internet Age. I released this one first, because any modern political or economic system requires you to accept everyone's technological identity as primary. Once realized, you'll forever understand that we can't break the rules of evolution and win the game of life. We can't use oaths or contracts to shield our tools from evolution. Nor can we evolve for anyone else. It's a natural law.
 
 This is the best book I could write to show you why. Like everyone else past, present, and future, you exist in a unique moment in time and space. It came with certain advantages and obstacles, beliefs and cultures, and a struggling technomass and biomass. A new identity makes improving our future comprehensible—as much as washing your hands or irrigating a field. Convert energy into many adaptations. Keep only the ones that fix things faster. Speciate technology to local needs. Move. Build. Smile. Rest. Repeat.
 
