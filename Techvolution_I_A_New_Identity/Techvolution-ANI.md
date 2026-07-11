@@ -819,7 +819,7 @@ The deeper point is the fishermen were making selection decisions without realiz
 
 Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." As the Heikegani crab story highlights we often artificially play the game. This book is about making our selections more responsive to the real problems of our gameboard—the actual pressures our environment imposes, rather than the noise our brains too easily think up.
 
-And so, to win the Game of Technological Life, we do not need to invent anything new. We already recognize biological evolution, watch and feel for its players, and use and copy its achievements. We also already invent and wield many amazing tools to harvest resources, protect ourselves, and form new creations.
+And so, to win the Game of Technological Life, we do not need to invent anything from scratch. We already recognize biological evolution, watch and feel for its players, and use and copy its achievements. We also already invent and wield many amazing tools to harvest resources, protect ourselves, and form new creations.
 
 We already play the game!
 
@@ -887,7 +887,7 @@ Like with sloths, elephants and every other creature, we have natural instincts 
 
 Of course, our genotype does not determine our future—what scientists call "genetic determinism". We can aspire to be different; break molds, boundaries, and records. We can even dream of improving upon our nature, but never can we succeed by disregarding it. Our creative minds do not automatically know that, but as the Weismann Barrier and the Central dogma of molecular biology say, while genetic expression can change and help offspring somewhat adapt to the environment, they are still stuck with the unchangeable genomes regardless of our ideas, beliefs, or life experiences.
 
-Anyone who tries to ignore our past is artificial and offers nothing but a dead end.
+Anyone who tries to ignore our past is artificial and offers little but a dead end.
 
 We've already met two such attempts, the communist and fascist ideologies that scarred human history so badly. Among their many errors, one proclaimed humans naturally selfless unless tainted with a corrupted class history, condemning untold millions to mass purges for a belief that ant specialist E.O. Wilson said was "Good ideology, wrong species" as blind obedience is how eusocial ants naturally behave, not hominids.
 
@@ -933,7 +933,7 @@ One more claim down. One less call to make that freaking bell ring.
 
 Why are humans so similar across the world, despite living in completely different environments? The answer lies in our shared origin in Africa and the technological co-evolution that followed us out.
 
-The natural human player of the game is rooted in shared biological instincts and requirements. People need to eat, love, have shelter, hope, and many other things. Among our limitations is that we will never accept servitude or blind loyalty. Regardless of the many artificial attempts to impose this identity on humans, these are pretty universal features of mankind across time and geography.
+The natural human player of the game is rooted in shared biological instincts and requirements. People need to eat, love, have shelter, hope, and many other things. Among our limitations is that we will never embrace working for others or give blind loyalty without a benefit in return. Regardless of the many artificial attempts to impose this identity on humans, these are pretty universal features of mankind across time and geography.
 
 There is a reason why pure genetics and pure culture perspectives both fail as explanations for humanity's problems. Both are needed—the extended phenotype, technology, emerges from genotype and phenotype evolution operating together. This is why homo sapiens needed and have both very similar physiology and very similar culture.
 
@@ -1043,9 +1043,11 @@ Of course I don't know this, but I only mean to illustrate a point that the many
 
 The point is, the technological ecosystem needed people, and often those with unique personalities fit the bill.
 
-Edward Gibbon had a severe medical problem, forcing him to sit for years of his life. In the wild he'd be disadvantaged if not left for dead, in civilization he wrote likely the best history book of all time, _The Decline and Fall of the Roman Empire_. Isaac Newton was a notorious loner who likely never had sex. Galileo couldn't follow social rules. Steve Jobs washed his feet in toilets, one must wonder the mental health of political dissidents. The list of unique individuals, whose chances in the wild are at least suspect, making huge contributions to civilization and technological evolution is endless.
+Edward Gibbon had a severe medical problem, forcing him to sit for years of his life. In the wild he'd be disadvantaged if not left for dead, in civilization he wrote likely the best history book of all time, _The Decline and Fall of the Roman Empire_. Isaac Newton was a notorious loner who probably never had sex. Galileo couldn't follow social rules while Steve Jobs washed his feet in toilets, and one must wonder about the mental health of our many political dissidents. Of course, countless others with such mentalities were simply forgotten, their failures unrecorded. Yet, the list of unique individuals, whose chances in the wild are at least suspect, making huge contributions to civilization and technological evolution is many pages in our story.
 
-The reason is the same as the original version of the game. Because diversity is ecosystem security. Thus, it was for genotype and phenotype, and so it is for extended phenotype born from the mixture of human genes and upbringing. Like biology grew to have countless species of trees, insects, birds, mammals, predators and so on. Thus evermore diverse human genotype and phenotype got a shot to play the game because of our co-evolution with tools. 
+The reason for any individual's genetics, thoughts, or actions is still very much up for debate. But the fact there is a niche inside a technological ecosystem is apparent.
+
+The ones we remember had success because diversity is ecosystem security. Thus, it was for genotype and phenotype, and so it is for extended phenotype too. Biology grew to have countless species of trees, insects, birds, mammals, predators and so on. Thus evermore diverse human genotype and phenotype got a shot to play the game because of the need for diversity when co-evolving with tools. 
 
 And that's the lesson of nature we need to embrace. While we have a genetic history forever in our DNA, our genes, personalities, and culture evolved along with technological change.
 
@@ -1059,7 +1061,7 @@ Predators hunt inefficiency and close it, just as streaming didn't beat Maria's 
 
 Scavengers can't help but use, collect, and hoard every last piece of technology everyone else thinks is junk. Decomposers break down dead technology back into reusable inputs like wreckers recycling total loss cars.
 
-Now for viruses, or what I like to call testers. These are the people who come up with novel ideas using existing technologies, just as viruses have long introduced new genetic material across biological organisms to drive genetic changes. Sometimes these changes are helpful innovations, and sometimes they are overtly parasitic actions of nefarious actors like crooks—the latter of which I dealt with so often while adjusting insurance claims. Either way, by constantly hacking lifeforms, testers evaluate every member of the ecosystem for its fitness to withstand its constant tinkering, acting as an ever-present selection pressure. (Note: testers is not a standard ecological classification; I'm using it for simplification purposes.)
+Now for viruses, or what I like to call testers. These are the people who come up with novel ideas using existing technologies, just as viruses have long introduced new genetic material across biological organisms to drive genetic changes. Sometimes these changes are helpful innovations, and sometimes they are overtly parasitic actions of nefarious actors like crooks—the latter of which I dealt with so often while adjusting insurance claims (and was often accused of being one myself which makes one reflect). Either way, by constantly hacking lifeforms, testers evaluate every member of the ecosystem for its fitness to withstand its draining of energy while constantly tinkering, acting as an ever-present selection pressure. (Note: testers is not a standard ecological classification; I'm using it for simplification purposes.)
 
 The need to invent, power, and manually operate tools changed how humans were selected. Where biological ecosystems often assign these roles to a dedicated species, ours assigned them to dedicated temperaments: the hoarder who can't throw anything away, the innovator who can't leave a slow tool alone, the tinkerer who breaks things to see how they work. Like omnivores, we can each be a mix, of course, but together our personalities cover every job in the food web. That's how, even though we were leaving the biological ecosystem behind, we were building another technological one beside it.
 
@@ -1097,7 +1099,7 @@ We know this in our sub-conscious. Every time there is a technological boom, the
 
 Even the communists, fascists (and of course other ideologies too) confirm the power of technology by denying it to those they want to oppress. Each tries to bring technological progress to their society but do not understand technology grows by the same means as biology, because both are playing the same Game of Life in the eternal job of building and maintaining order before it falls apart.
 
-No system has yet applied evolutionary thinking to tools themselves. Tool ecosystems, like biological ones, grow, speciate, drift, and follow the other tenets of Darwin's evolution. The rise and fall of countries, peoples, nations and empires is following this technological evolution. The difference is there is endless artificial selection, human storytelling, beliefs, and ideologies, that misinterpret and interfere with techvolution.
+No broadly adopted system has applied evolutionary thinking to tools themselves. Tool ecosystems, like biological ones, grow, speciate, drift, and follow the other tenets of Darwin's evolution. The rise and fall of countries, peoples, nations and empires tracks this technological evolution more closely than we like to admit because it's a fate that affects us so much. The biggest different in our evolution is there is endless artificial selection, human storytelling, beliefs, and ideologies, that misinterpret and interfere with techvolution.
 
 Thus, there are large spurts and conflicts we call civil wars, depressions, and revolutions that are a human story to explain natural events.
 
@@ -1107,13 +1109,13 @@ Socrates, and his students, might find camaraderie in what biologists call shedd
 
 Yet, we hold onto our own branch on the tree of life, defending our outdated tools with stories—while expecting everyone else to drop theirs the moment it makes sense. Watch cable news today. Read about the scribes who fought the printing press in Gutenberg's time, or the biblical storytellers who fought Galileo. The pattern is the same: holders of outdated technology defending their position with stories, trying to keep the past alive long enough to preserve their status.
 
-Holding back evolution is the root cause of many of our social unrest, depressions, civil wars, and revolutions. Harmful artificial selection often blocks the mass-adoption of helpful new tools—countered, historically, by what some have called "the march of reason": helpful stories that get evolution moving again.
+Holding back evolution is a major cause of our social unrest, depressions, civil wars, and revolutions. Harmful artificial selection often blocks the mass-adoption of helpful new tools—countered, historically, by what some have called "the march of reason": helpful stories that get evolution moving again.
 
 To stop talking about creating justice, we can instead be intentionally building it. The first step is a technological identity.
 
 As renowned biologist Ernst Mayr says "individual life forms are the unit of selection." Meaning a polar bear is the unit of selection. Every polar bear depends on the ecosystem of which it is a member. It must find a way to do its job, and reciprocate, to earn the resources it needs to stay in the game.
 
-Any other identity is unnatural. We have technology virtually in our DNA.
+Any other identity works against the ecosystem. Tool-use is virtually in our DNA.
 
 Anyone can come up with artificial reasons why the Game of Life doesn't apply to them. Students do it when they ignore teachers; managers do it when they ignore employee feedback. Sometimes those are needed to keep motivation or beliefs in hard and uncertain times. But that only lasts for as long as someone else assembles the food, housing, and heating you depend on.
 

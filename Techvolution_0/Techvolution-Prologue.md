@@ -9,6 +9,14 @@ In 2020, scientists calculated that everything humanity has made—the concrete,
 
 ¹ Elhacham et al., "Global human-made mass exceeds all living biomass," *Nature*, 2020.
 
+## Author's Note
+
+This is not a book that will tell you politics and economics is getting really bad, and to fix it, here's what someone else needs to change.
+
+This is the book that explains why politics and economics are getting both better and worse, offers the beginning of a scientific way of seeing why, and shows how you, the reader, can adapt in order to use the good to fix the bad.
+
+In other words, this is a book for people in the middle. The people who want things to be more rational, level-headed, and future-looking and willing to work for it.
+
 ## Giving You a Map and Compass
 
 It is 2011, and a woman named Maria has built a good life. Californian, Hispanic, college graduate, progressive, regional manager—she carries all the labels we commonly use to describe a person. But none of them captures the fact that matters most to her future: high-speed internet has finally become widespread, and Maria sells DVDs for a living.
@@ -41,6 +49,8 @@ A biologist would see the problem easily. When an ecosystem falls out of balance
 
 And we have not been ignoring it. We have been drowning in proposed answers—every day another ocean of speeches, articles, and posts promising the fix. We've listened, and our frustration has curdled into a growing hatred of our own countrymen. Yet decades of our best efforts have added up to failure—not because we tried too little, but because we were aiming at the wrong target.
 
+This book won't tell you what to do on Monday morning — Rework, Build, and a hundred others do that well. This book aims at something underneath: a way of seeing that makes the fights over identity, politics, and economics finally make sense. Once they lose their grip on you, you'll see clearly when we mix age old tools with modern technology, our future becomes so very bright.
+
 Our failure is not that our thinkers or leaders are unintelligent or uncaring. It is that nearly every answer on offer is rooted in a biological identity—our nationality, our class, our ideology, our tribe—and none of these can see the technological ecosystem we actually live in.
 
 Because the fact is, we have crossed into a new world. The technomass on Earth now rivals the planet's entire biomass. Our survival once depended on finding food and shelter in the biological world; now it depends almost entirely on technological production. To nature, this is nothing new—merely a change in material, one among many across the eras in which Earth has had different atmospheres, environments, and lifeforms. For us, it is something else entirely.
@@ -51,9 +61,13 @@ Maria's story points to what's getting in our way. You, me, and most everyone el
 
 The way out starts with a universal law we already know well—we just haven't applied it to the new you.
 
-Charles Darwin decoded the rules of life. All lifeforms play a grand competition, striving to survive and reproduce. Each generation exhibits slight variations; natural selection favors the traits that work; new species evolve to suit a changing environment. We accept that these rules govern biological life. Others have noticed they touch technology too—but this book asks the question: if technology evolves, what does that make *you*?
+Charles Darwin decoded the rules of life. Every generation varies, natural selection favors the traits that work, and new species evolve to suit a changing environment. So what does that make you?
 
-It means your evolution happens not in your body, but in your mind—each time you pick and choose which tools to use. And the good news is, life has felt your struggles many times before, and there is a time-tested game plan for surviving them: the evolution of new species better suited to the environment. Better news still, many of the adaptations we need already exist.
+Our biology can't keep pace, so our minds must: we pick which tools to make and use, and so become selectors for evolution. No one is in charge—some may ban printing presses or working from home, but evolution runs on billions of small choices, like dropping DVDs for streaming, so it always finds another way. What it hasn't gotten around is us: even holding new tools, we tell ourselves stories loud enough to forget we're still playing.
+
+Our identities, ideologies, and cultures often have us clinging to the toolset we know and resisting the obligations of life. This book is about learning to see the shifting environment beneath those stories—the same stories that carry our knowledge and culture but can also blind us to a simple truth: ongoing adaptation is how living things prosper.
+
+And the good news is that life has faced our struggle with dwindling resources many times before. The game plan is old and proven—new species, better suited to the environment—and many of the adaptations we need already exist.
 
 In the early 1970s, something fundamental shifted: the Mother of All Demos (1968) revealed interactive computing's potential, ARPANET (1969) proved networked communication could work, and the microprocessor (1971) made computation portable. The building blocks of networked personal computing existed simultaneously, and as they converged over the following decades, the Industrial Age gave birth to the Internet Age. New digital products filled the world like offspring seeking to win their place in nature.
 
@@ -61,13 +75,13 @@ But many established people and businesses did not embrace these inventions. The
 
 Yet, like a biologist assessing an environment, we could be deliberately cultivating our technologies to live a good life.
 
-This is a book for people in the middle: people who want things to be more rational, caring, and level-headed, and who are willing to work for it. It will not tell you that someone else must change. It will show you how to adapt—whether you are in Gen Z hoping to start a family or a retiree hoping to see grandkids—by doing what life has done many times before: leaving the shadows of a bygone age behind and purposefully evolving for the environment in which you live.
+That's why this is a book for people in the middle: people who want things to be more rational, caring, and level-headed, and who are willing to work for it. It will show you how to adapt—whether you are in Gen Z hoping to start a family or a retiree hoping to see grandkids—by doing what life has done many times before: leaving the shadows of a bygone age behind and purposefully evolving for the environment in which you live.
 
 It starts with taking one idea seriously: human civilization now evolves through its technologies, and each of us earns our place within that process.
 
 This book practices what it preaches. It is free and open-source, published on the internet with no paywall and no gatekeeper. Like every technology, it will survive only if it proves useful to you.
 
-On this journey you will uncover your technological identity, learn to make smarter tool choices, and stop merely surviving Industrial Age obsolescence. You will get something Maria never had: a clearer view of what's coming, and how to embrace it.
+On this journey you will uncover your technological identity, learn to make smarter tool choices, and stop merely surviving Industrial Age obsolescence. You will get something Maria never had: a clearer view of what's coming, what she can change, and most important of all how to embrace humanity's role in the evolution of life on Earth.
 
 ## Illustration
 
@@ -81,13 +95,13 @@ Techvolution applies Darwinian principles to civilization's ages, so we can unde
 
 _Techvolution: On the Origin of Technological Species_ presents a new way of understanding human civilization: the human story is driven not by our beliefs or ideologies, but by the technologies we create and use. The journey from recognizing our technological nature to building a better world happens as we transform three interconnected realms—individual identity, political discourse, and economic systems.
 
-**Book I—A New Identity:** We have names for our nationality, ethnicity, employment, and politics, yet no name for the identity that upended Maria's life. This foundational work introduces the "technological identity"—the idea that we humans are best understood through the tools we use to house ourselves, earn a living, and interact with the world. From power tools to smartphones, our technological choices shape not only what we can do but who we should see in the mirror. Only by naming this identity can we stop using biological instincts to live in a technological ecosystem.
+**Book I—A New Identity:** We have names for our nationality, our ethnicity, our job, our politics—but no name for the identity that quietly runs our lives. Book I gives it one. You are, first and foremost, the tools you use to interact with the world, from housing yourself to earning a living. Miss this, and you live like a raccoon in a city: surrounded by machinery you depend on but don't understand, blaming your genes or your ideology when the real trouble is your toolset. Name your technological identity, and the mirror changes. Maria wasn't a "regional manager"—she was a physical-media seller, and seeing that in 2011 would have told her exactly what to do next. Book I teaches you to see yourself that clearly, before the world does it for you—because right now you are a species: a single adaptation, fitted to one niche, and able to fall with it.
 
-**Book II—Mixed Ideological Politics:** A heat pump doesn't know it's "green." A diesel truck doesn't know it's "red-blooded American." Only we know that—and it's costing us. We reject useful tools because of their political associations, and these artificial divisions prevent us from combining technologies in optimal ways. Mixed Ideological Politics teaches how to evaluate tools purely on their effectiveness at solving real problems, from the cost of home heating to increased storm activity—so that no ideology can blind us to any worthy technology. In essence, this book is about learning political moderation in the modern age.
+**Book II—Mixed Ideological Politics:** A heat pump doesn't know it's "green." A diesel truck doesn't know it's "red-blooded American." Only we attach those labels—and then reject good tools for wearing the wrong one. We do that labeling through stories. Strip away the heroes and villains, and most resolve into the same quiet question: who gets to control the tools society runs on. Once you can see that machinery, the spell breaks: the heat pump and the diesel truck can sit in the same household. You gain a quiet, radical freedom to blend beliefs without thinking you've betrayed an ideological tribe. This is political moderation reimagined for the Internet Age: not splitting the difference, but choosing the best tool for the life you actually live. Book I named your species; Book II frees you to select its tools.
 
-**Book III—Bumblebee Economics:** Maria's job was one-size-fits-all: a standardized role in a mass-production economy. That is the Industrial Age's hidden price—when your job, mortgage, and career script are mass-produced, generic tools decide your fate. And when the tools fail, everyone in the role falls at once. Nature never pays this price: diverse species thrive by fitting themselves to their own niches, cooperating through simple shared rules, like bees and flowers co-evolving in symbiosis. Our technology can finally do the same—open-source software and interoperable standards like USB and Bluetooth already let independent systems cooperate. Bumblebee Economics is the philosophy that accelerates this, keeping the Industrial Age's power to mass-produce while adding the Internet Age's power to customize. So your livelihood can finally be fitted to your niche: a home shaped to your life, work within reach, tools that fit your needs—all coming together to provide the abundance every well-adapted species enjoys.
+**Book III—Bumblebee Economics:** Maria's job was one-size-fits-all: a standardized role in a mass-production economy. That is the Industrial Age's hidden price—when jobs, skillsets, and career scripts are mass-produced, everyone in the role falls at once. Nature never pays this price: species thrive by fitting themselves to their niches, building an ecosystem full of blossoming life. Our technology can finally do the same. Open standards like USB and Bluetooth make skills portable: what you learn in one tool carries to the next, so a shift in the market becomes a step sideways instead of a fall. Bumblebee Economics accelerates this—keeping the Industrial Age's power to mass-produce while adding the Internet Age's power to customize, so your livelihood can fit your niche: a home shaped to your life, work within reach, tools that match your needs. Here Maria stops being a species selected for extinction and becomes evolution's hand—the selector who recombines the technological toolkit into whatever new form her niche demands. When millions do the same, the ecosystem we all harvest from blossoms too.
 
-`Understand yourself → Learn to use different tools → Work effectively with others`
+`Understand yourself → Learn to select better tools → Build bounty with others`
 
 <!-- ## About the Author
 
