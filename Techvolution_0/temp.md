@@ -101,3 +101,36 @@ Realizing the Earth was not the center of the Universe launched the Science Age.
 
 The journey will transformative. We will uncover our technological identity, empower you to make smarter tool choices, and learn to stop merely surviving Industrial Age obsolescence. With these lessons, you can select yourself to flourish in the Internet Age and thereby improve the fortunes of all who will follow us.
 
+
+
+
+
+
+
+
+
+
+
+## Old Stuff
+
+The way out starts with a universal law we already know well—we just haven't applied it to the new you.
+
+Charles Darwin decoded the rules of life. Every generation varies, natural selection favors the traits that work, and new species evolve to suit a changing environment. So what does that make you?
+
+Our biology can't keep pace, so our minds must: we pick which tools to make and use, and so become selectors for evolution. No one is in charge—some may ban printing presses or working from home, but evolution runs on billions of small choices, like dropping DVDs for streaming, so it always finds another way. What it hasn't gotten around is us: even holding new tools, we tell ourselves stories loud enough to forget we're still playing.
+
+Maria's story points to what's getting in our way. You, me, and most everyone else in the world are unconsciously using biological instincts to survive inside a technological ecosystem—navigating a new world with mentalities and assumptions built from the old one, while technology changes faster than our old ideas can keep up.
+
+In the early 1970s, something fundamental shifted: the Mother of All Demos (1968) revealed interactive computing's potential, ARPANET (1969) proved networked communication could work, and the microprocessor (1971) made computation portable. The building blocks of networked personal computing existed simultaneously, and as they converged over the following decades, the Industrial Age gave birth to the Internet Age. New digital products filled the world like offspring seeking to win their place in nature.
+
+But many established people and businesses did not embrace these inventions. They didn't know how. Feeling threatened by change, they clung to their aging technologies instead, and after decades of such resistance, our evolution has stalled. We still hold Industrial Age identities, philosophies, and ways of life. Like Maria, we use technologies the way hunter-gatherers made do with whatever they found—then credit or blame our ideologies for the results, good or bad.
+
+Yet, like a biologist assessing an environment, we could be deliberately cultivating our technologies to live a good life.
+
+
+Our failure is not that our thinkers or leaders are unintelligent or uncaring. It is that nearly every answer on offer is rooted in a biological identity—our nationality, our class, our ideology, our tribe—and none of these can see the technological ecosystem we actually live in.
+
+
+Because the fact is, we have crossed into a new world. The technomass on Earth now rivals the planet's entire biomass. Our survival once depended on finding food and shelter in the biological world; now it depends almost entirely on technological production. To nature, this is nothing new—merely a change in material, one among many across the eras in which Earth has had different atmospheres, environments, and lifeforms. For us, it is something else entirely.
+
+We can no longer assume the natural environment will provide for us; our power, food, shelter, transportation—our lives—are built from technological harvests now. But no one is tending that garden. To thrive in this world, we must do deliberately what we once did by instinct in the old one: curate, plant, and cultivate our technological environment.

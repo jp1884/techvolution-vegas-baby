@@ -5071,11 +5071,42 @@ And shut that bell up forever.
 
 ===
 
+## Book Series
+
+_Techvolution: On the Origin of Technological Species_ presents a new way of understanding human civilization. It showcases how the human story is driven not by our beliefs or ideologies, but by the technologies we create and use. The journey from recognizing our technological nature to building a better world happens as we transform three interconnected realms: individual identity, political discourse, and economic systems.
+
+**Book I—A New Identity:** This foundational work introduces a "technological identity"—the idea that we humans are best understood through the tools and technologies we use to house ourselves, earn a living, and in general, interact with the world. While we have names for our nationality, ethnicity, employment, and politics, we lack consciousness of our technological nature.
+
+Consider a person named Maria who is labeled "Californian, female, Hispanic, college graduate, progressive, regional manager"—yet none of these captures what matters most to her: it is 2011, high-speed internet is finally widespread, and she sells DVDs for a living. Because technological evolution is about to make physical media discs obsolete, her personal networks and knowledge base are now of questionable value.
+
+Yet, we have no name for this identity that might upend her life. This is but one example of why, from power tools to smartphones, our technological choices not only shape what we can do but who we should see in the mirror. Only then will we stop using biological instincts to live in a technological ecosystem.
+
+**Book II—Mixed Ideological Politics:** Having established our technological identity, we must next liberate our toolsets from ideological constraints. Today, we often reject useful tools simply because of their political or cultural associations—renewable energy is labeled "green," diesel trucks "red-blooded American." These artificial divisions prevent us from combining technologies in optimal ways.
+
+Mixed Ideological Politics teaches how to evaluate tools based purely on their effectiveness in solving our real-life problems, from the cost of home heating to increased storm activity. This new political philosophy prevents any ideology from blinding us to any worthy technology. In essence, this book is about learning political moderation in the modern age.
+
+**Book III—Bumblebee Economics:** Once we combine technological self-awareness with ideology-free tool selection, we can create an economy as adaptive as life itself. Nature shows us the way. Her diverse biological species create collaborative ecosystems through simple rules of interaction. Bumblebee Economics applies this wisdom to our technological world. While we have already developed some open-source and interoperable technologies like USB and Bluetooth, we need an economic philosophy that accelerates their use to create a freely evolving technological ecosystem.
+
+The goal is to create an ecosystem similar to Apple's, but more decentralized and dynamic: imagine medical records seamlessly flowing between a doctor's office, pharmacy, and your smartphone. All this via independent, yet standardized, programs that can evolve independently. Like bees and flowers co-evolving in a symbiotic relationship, this framework would enable technologies to adapt and grow, with users benefiting from increasingly capable and interconnected systems. With this approach, we can finally move on from the Industrial Age's mass-production mindset and embrace the era of mass collaboration in the Internet Age.
+
+`Understand yourself → Learn to use different tools → Work effectively with others`
+
+===
 
 
+Each looked for successes that proved their ideology. Early German military success in World War II was their application of new military tactics that integrated tank-driver, pilot, soldier with radios to make lightning warfare possible. It was partially learned from British military academies, and used against Western Allies still building massive bunker systems controlled by a highly hierarchical and very slow command structure. Nazi leaders took there invasions of Poland, Holland, France, and soon Soviet Union as proof of German racial superiority.
 
+Unsurpringsinly, complaceny soon set in. With a short few years, the Soviet Union was making better tanks and planes, and while never quite at the organizational level of the German military, they were much improved and regaining territory at lightning speeds. Allies, especially the USA, took lessons as. Their aged military leaders were replaced with the likes of Bradley, Patton, and Eisenhower, and within a few years and did the German mobile warfare far better then ever done before.
 
+With the Nazi's out of the way, it was the Soviets versus America. Best seen in the Space Race. And despite initial and impressive successes like the first satellite, Venus landing, space station, the Soviets were never able to match the American lead western world in technological success. Among the reasons was the refusal to share government technologies with the public, whereas America's space program was using the same transistors Americans were buying in their radios and home electronics.
 
+<!-- i wish i could write another version of Why the Allies won, using this lens -->
+
+===
+
+In evolutionary terms, conservatives champion efficiency and mass-production of technology while progressives advocate for creativity and diverse perspectives. When isolated, both groups move to their extremes and live too much in their ideological world. However, when brought together, these views complement each other and fulfill the evolutionary need to mass-produce new adaptations to keep life up to date.
+
+Accepting our technological nature is the crucial bridge for these two perspectives. When we insist on technological evolution, both sides need each other and are therefore incentivized to compromise. Instead of attempting to purify our genotypes or phenotypes, we should refine our narratives, belief systems, and ideologies to harness evolutionary laws so we continually create and distribute new tools.
 
 
 
