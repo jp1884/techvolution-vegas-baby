@@ -134,3 +134,24 @@ Our failure is not that our thinkers or leaders are unintelligent or uncaring. I
 Because the fact is, we have crossed into a new world. The technomass on Earth now rivals the planet's entire biomass. Our survival once depended on finding food and shelter in the biological world; now it depends almost entirely on technological production. To nature, this is nothing new—merely a change in material, one among many across the eras in which Earth has had different atmospheres, environments, and lifeforms. For us, it is something else entirely.
 
 We can no longer assume the natural environment will provide for us; our power, food, shelter, transportation—our lives—are built from technological harvests now. But no one is tending that garden. To thrive in this world, we must do deliberately what we once did by instinct in the old one: curate, plant, and cultivate our technological environment.
+
+
+===
+
+This book won't tell you what to start changing on Monday morning. Others like _Rework_ or _Build_ already do that better. This book aims at something underneath: a way of seeing that makes the fights over identity, politics, and economics finally lose their grip on you.
+
+With clarity of mind, you'll see the path forward is not complicated and mostly already before us.
+
+Our increasing fights are all about clinging to the aging toolset we know and trying to shift the burdens of aging onto the somebody else. And the good news is that life has faced our struggle with dwindling resources many times before. The game plan is old and proven—new species, better suited to the environment—and many of the adaptations we need already exist.
+
+But how to evolve? 
+
+That begins with the people willing to try. Which is why this is a book for people in the middle who want things to be more rational, caring, and level-headed, and who are willing to work for it. Whether you are in Gen Z hoping to start a family or a retiree hoping to see grandkids, this book will show you how life leaves the shadows of a bygone age behind and purposefully evolves to the new environment in which it lives.
+
+It starts with taking one idea seriously: human civilization now evolves through its technologies, and each of us earns our place within that process.
+
+Every big idea is built from smaller, mostly forgotten ones. This book aims to be one of the blocks — a useful piece of a structure others will finish. It practices what it preaches. It is not the final answer, so it's free and open-source with no paywall or gatekeepers. Like every adaptation, it will survive only if it proves useful enough for you to pass on and build upon.
+
+On this journey you will uncover your technological identity, combine tools free from influence, and stop merely surviving Industrial Age obsolescence. You will get something Maria never had: a clearer view of what's coming, what you can change, and most important of all how to embrace humanity's role in the evolution of life on Earth.
+
+===
