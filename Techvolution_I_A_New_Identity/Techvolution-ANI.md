@@ -682,9 +682,9 @@ For example, brown bears are nearly identical to polar bears. They can even inte
 
 And, with two large bear species playing the game, if the game board gets hotter or colder, life can respond either way.
 
-But life does not want new, or any species, to succeed at any cost. Polar bears able to eat every seal would not be good for it, or anyone else, in the long term. That would be like a lifeform using up the torches energy for itself. Rather, lifeforms can only make use of water, nutrients, warmth, long enough to procreate. That's why evolution selects not selfish star players, but team players who work together to harvest energy more efficiently.
+If it could reflect on its interests, life would not wish any species an easy success. Not because a rule forbids it, but because a bear skilled enough to eat every seal would leave her cubs an empty coast and no grandchildren. Each lifeform gets the always-limited supply of water, nutrients, and warmth just long enough to procreate. Nobody negotiates this. Equilibrium is not a truce. Every creature takes all it can. Weather, competitors, distance, and time see to it that nobody gets much.
 
-This cooperation happens inside ecosystems, which is a community of plants and animals living in the same area. Ecosystems include climatic conditions, elevation, water levels, and other environmental factors. BBC Planet Earth episodes on tropical rain forests or expansive grasslands showcase Earth's many ecosystems quite well. 
+No one intends it, but what happens as a result looks like cooperation inside an ecosystem: a community of plants and animals sharing an area, along with its climate, elevation, and water. BBC's Planet Earth shows them well—rainforests, grasslands, each one a web of creatures that know each other's sights and smells, often compete for the same sunlight, travel for the same grass, or even kill one another, and yet never agreed to anything.
 
 There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem. This energy budget is a major factor in a environment's "carrying capacity"; the maximum population size of a species that an environment can sustain indefinitely, based on the availability of resources like food, water, and habitat. 
 

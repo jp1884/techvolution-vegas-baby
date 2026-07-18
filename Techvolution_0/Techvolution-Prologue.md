@@ -45,7 +45,7 @@ You don't know. Like streaming before it, AI is an amazing new technology, and w
 
 We don't even have a name for Maria's future, or yours—no label that might have told her what to expect and how to prepare.
 
-This is a common problem, and it is bigger than any one job. Housing, healthcare, education, and childcare have consumed a growing share of the median paycheck for forty years—through boom and bust, under every administration, whichever party held power. Yyoung people can't afford homes. Retirees worry about money running out. Healthcare workers spend more time on paperwork than on patients. Small businesses watch giant corporations grow bigger still.
+This is a common problem, and it is bigger than any one job. Housing, healthcare, education, and childcare have consumed a growing share of the median paycheck for forty years—through boom and bust, under every administration, whichever party held power. Young people can't afford homes. Retirees worry about money running out. Healthcare workers spend more time on paperwork than on patients. Small businesses watch giant corporations grow bigger still.
 
 Like the DVD or high-speed internet, none of this stuff just appeared. Someone thought it up, designed it, built it, and operated it. How is it that technology keeps getting better, but its users are worse off?
 
