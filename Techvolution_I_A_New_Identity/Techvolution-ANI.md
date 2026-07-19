@@ -422,57 +422,61 @@ Infected with curiosity, you pick up the booklet, and...
 
 You pick up the booklet and flip to its first page.
 
-It starts off with "Imagine you are a person in a perfectly flat world. A land where everything is two-dimensional." As you continue reading you learn a 2D existence is like an avatar living on a computer screen. You can move left, right, up, or down, but never can you jump out from the screen.
+It starts off with "Imagine you are a person in a perfectly flat world. A land where everything is two-dimensional." As you read on, you learn a 2D existence is like an avatar living on a computer screen. You can move left, right, up, or down, but you can never jump out from the screen.
 
 Because in this world, there's no height.
 
-In this 2D reality, avatars are like magnets on a fridge, bumper cars on a track, or cookie cutters on a baker's table. Only able to move two ways, a person would have to feel an object to know about it. Every person and thing are just outlines of various polygons.
+In this 2D reality, avatars are like magnets on a fridge, bumper cars on a track, or cookie cutters on a baker's table. Able to move only two ways, a person must feel an object to know it is there. Every person and thing is made up of lines. Four lines and angles make a square, five a pentagon, six a hexagon, and so on into great variety. To these creatures, we 3D entities would seem to pass through their world—appearing first as a point, growing into a weird curved line, then shrinking back to a point again.
 
-Four angles make a square, five a pentagon, six a hexagon, and so forth into great variety. To these creatures, we 3D entities would appear as merely passing through their 2D world, appearing first as a point, then growing into a curved weird shape, then shrinking back to a point again.
+This booklet takes the idea from *Flatland: A Romance of Many Dimensions*. Edwin A. Abbott wrote it in 1884, and it has been used in mathematics, philosophy, and science classrooms ever since—to get people thinking about totally alien environments.
 
-This booklet takes this idea from "Flatland: A Romance of Many Dimensions". Written by Edwin A. Abbott, that book popularized dimensional thinking and is often used in mathematics, philosophy, and science education like this booklet to get people to think of totally alien environments.
+By bringing us into a 2D world, Abbott makes us feel lost. And feeling lost opens a door: it lets us see our own reality differently, and question it.
 
-By bringing us into a 2D world, Abbott makes us feel lost. Learning about Flatland opens the door for us to see our reality differently and thereby better question and understand our own existence.
+We know that feeling from ordinary life. Once, I wanted to enjoy some back-country open roads. I thought I was heading north and would inevitably hit the highway. Driving alone, windows down, no phone coverage, no map, no compass—I had a blast. I was actually going east, and I hit nothing. Standing outside a beater car with little gas left, watching night fall, was disorienting and a little scary.
 
-We sometimes experience this feeling of being lost in our every day lives too.
+You will have your own version—more dangerous, or more comical. Hold onto it. That feeling marks an error between our expectations and reality, and as we forge a new technological identity, treat it as an invitation to investigate rather than fear.
 
-Once, I wanted to enjoy some back country open roads. I thought I was going north and would inevitably hit the highway. Driving alone, windows down, with no phone coverage, and no maps or compass, I had a blast. I was actually going east and hit nothing. Standing outside the beater car with little gas was quite disorienting and somewhat scary as night fell.
+Abbott turns that lost feeling into an ongoing lesson. Our perceptions are only the brain's read of what our senses report—and most of reality sits outside them, from the too-small (bacteria) to the too-strange (how atoms behave). Like a hexagon in Flatland, we feel through the darkness with what we have, and should always question whether a better answer is within reach.
 
-Many will have more dangerous stories, others more comical, but we all should remember that feeling of being lost. As we forge a new technological identity, we should embrace this feeling for its educational benefits.
+If you remember Maria, this is exactly her problem. Every label she had—Californian, graduate, regional manager—was a dimension she could see. Like the Square, she was not lazy or stupid. She simply didn't have a label for "sells physical media in the Internet Age."
 
-For the same reason Abbott wrote his famous story. Because everything about us, from our eyes, to bones, to mindset, is a by product of our reality. And, we cannot leave it anymore than a hexagon can leave Flatland.
+Thankfully, we have long used our senses and minds to investigate nature and piece together a fairly good—if incomplete—picture of it.
 
-To understand our existence requires thinking outside our own dimensions. And as two-dimensions control the fates of polygons in Flatland, our reality is similarly controlled by all-powerful rules.
+Physics and chemistry describe our reality, and constrain how geology and biology work. Scientists joke that chemistry is "just" applied physics and biology is "just" applied chemistry. It gets a laugh, but everyone knows each level's phenomena aren't obvious from the level below. Which is why they all get to keep their jobs (even the geologists, who always seem to get the worst of the joke).
 
-Only our reality has far more, which we call the universal laws of nature.
+The point is that unlike chess or Monopoly, reality has no actual booklet to read and no program to hack. We investigate nature as best we can and describe phenomena we find as laws and principles. Importantly, nature's rulebook never cares about our input, ideas, or feedback.
 
-Physics, astronomy, chemistry, geology, and biology define our reality. Together they make a rulebook, but unlike chess or Monopoly there is no booklet to read or program to hack. Nor does the rulebook ever care about our input, ideas, or feedback.
+The laws can be hard to communicate. When huge waves move across an ocean, that is the Sun's radiation heating an area, warming air that rises and rushes toward cooler regions—wind that drags across the water and lifts the waves. But to a sailor, that phenomenon is simply an "angry sea." To themselves, the laws are abstract. To life, they are personal—dangers and opportunities that must be navigated. Decoding them is what life does because it wants to survive.
 
-Instead, life can be thought of as the process of harvesting, organizing, and adapting within these rules well enough to keep playing.
+Where is the water? When will you need it? How long will it last? A lifeform that wants to live wants those answers. A meteorologist, a sailor, and a fish each sense the sea differently, and each names it differently. Each reading is only as good as it helps its user find opportunity and dodge danger.
 
-This is why life's evolution is such a persistent and universal process. Evolution has been the driver of countless species over billions of years, because evolution is the only process that produces variants in enough abundance to test what works in any given environment.
+This is why life's evolution is so persistent and universal. Reproduction is the only process that produces variants in enough abundance to test what works in any given environment. That constant testing has created countless species over billions of years.
 
-Like many individual Squares venturing out to settle the world.
+Variants are Squares scattering across the board, feeling their way through surroundings they never chose. Which one you're born as is luck. What happens next isn't.
 
-Touching around in the darkness turns our senses—touch, smell, and sight—into crude teachers. Success brings pleasure, failure brings pain, and slowly these experiences guide us to repeat what works and avoid what doesn't. We can imagine this learning method anytime we stop drinking water. Thirst will soon drive anyone to seek water to stop the pain of dehydration.
+Touching around in the darkness turns our senses—touch, smell, sight—into crude teachers. Success brings pleasure, failure brings pain, and slowly these experiences guide us to repeat what works and avoid what doesn't. Selection slowly builds genotypes that hold water better (camels, llamas) and phenotypes that learn where the water is (elephants, giraffes). You can feel a trace of this yourself any time you stop drinking: true thirst will soon drive anyone to water, to stop the pain of dehydration.
 
-But using this method means we won't truly understand ourselves, we'll simply know how to evolve by fighting off our pains. Instead, we can be like avatars jumping off the screen to see our 2D reality from a higher place. Because when we know the rules of the game, we can evolve our new technological identity with purpose and intention.
+That method only changes our habits—and over generations of life and death, our biology. Even a camel cannot decide to hold more water; it can only be born slightly better or worse at it, ten thousand times over. But we choose our tools. We are the first lifeform whose variations can aim at their needs, and evolve solutions thousands of times in a single lifetime.
 
-We need to. 
+We can be like an avatar jumping off the screen to see the 2D world from above. When we know the rules of the game, we can evolve our technological identity on purpose.
 
-Internet Age technology is changing our existence very fast and in countless ways. One example is the Mars rovers. These are technological explorers navigating an alien place. They extend human perception far beyond our biological limitations. Sending back information from another planet we may soon colonize transforms our existence in ways we don't yet appreciate.
+We need to.
 
-Living with technology so powerful we might soon be a multiple planetary species means we're in such a new place we're not unlike the Square trying to understand the three dimensions for the first time.
+Because streaming had no mind. It found users who wanted a movie tonight without leaving the couch—not Maria's market, not her job, just the movie. That combination of tool and user wanted to exist, the way a camel wants water. It never consulted Maria, or her employer, or her politics. Nobody wanted her gone. She was gone regardless.
 
-With so much technological change today, our best life depends on understanding the rules of the reality we inhabit. Just as a two-dimensional being must accept its constraints to navigate its world, we must recognize the fundamental laws that govern our existence. These rules are all powerful and they do not care about our wants, plans, or beliefs anymore then Flatland cares about a triangle's or square's desire to jump.
+AI has no mind either. It will still want to exist—and like streaming, it exists by finding users who want what it offers. Maybe that costs you a job. Maybe it hands you one. Either way, nobody decides it for you or against you. It simply happens, the way it happened to Maria.
 
-Our deep acceptance of the rules of the game is the foundation for the mastery we need to move from being biological to technological beings.
+This is what Internet Age technology is doing, fast and everywhere. Consider the Mars rovers—technological explorers crawling across an alien place, extending human perception hundreds of millions of miles past the bodies we were issued, sending back reports from a planet we may one day live on. If that isn't a Square being shown a third dimension, nothing is.
 
-The more knowledge the better. Unlike nearly everything else in the universe, we knowingly grow, learn, love. We are self-aware that we need shelter, food, water, and procreation to stay alive.
+So our best life depends on understanding the rules of the reality we inhabit. Just as a two-dimensional being must accept its constraints to navigate its world, we must recognize the laws that govern ours. They are all-powerful, and do not care about our wants, plans, and beliefs anymore than Flatland cares about a triangle's desire to jump off the screen.
 
-Therefore, unlike Flatland, our planet is not just a place of existence, but a proving ground where the laws of nature determine which variants persist and which do not. Each of us is a unique shape, tmy goal with this book is to help us all see the gameboard more clearly.
+Accepting the rules is the foundation for the mastery we need to move from biological to technological beings.
 
-So let's jump up off the screen and see what the game board of our three dimensions looks like. In the next chapter, we'll find it's filled with natural laws making a gameboard that emerges through life's encounter with the universe.
+Unlike anything else in the universe (that we know of), lifeforms grow, learn, and pass on genes—and sometimes lessons—to the next generation. Humans differ only in perspective. Most creatures depend on instinct and pain to find resources, while we are a little more self-aware of *why* we need shelter, food, and water to stay alive. More knowledge is worth having, because it means more accuracy about what we need and how to get it.
+
+So unlike Flatland, our planet is not just a place of existence but a proving ground, where the laws of nature decide which variants persist and which do not. Each of us is a unique shape. This book's goal is to help us all see the gameboard more clearly.
+
+So let's jump off the screen and see what the game board of three dimensions looks like. In the next chapter, we'll find it filled with natural laws—a gameboard that emerges through life's encounter with the universe.
 
 - idea: potential Christmas story tie-in, "such is the power of getting an unknown piece technology, it can actualize a part of our psyche that would otherwise be left dormant."
 
@@ -648,13 +652,13 @@ Just now you cough. It's so small it almost goes unnoticed like a blink, breath,
 
 You know right away. Excitement kept you up too late. With so little sleep your immune system couldn't keep infection at bay. You're sick.
 
-Viruses are tiny, are not alive to many biologists, but are not much different than any other player; they are still bits of clay looking for the energy to stay in the game. Their strategy is simpler than most; forgo reproductive parts and instead self-replicate by invading another creature and hijacking its cells. It's a winning idea. Animals, plants, even bacteria attracted viruses soon after their games started.
+Viruses are tiny, are not alive to many biologists, but are not much different from any other player; they are still bits of clay looking for the energy to stay in the game. Their strategy is simpler than most; forgo reproductive parts and instead self-replicate by invading another creature and hijacking its cells. It's a winning idea. Animals, plants, even bacteria were exploited by viruses soon after their games started.
 
 Viruses are so simple they need only a few dozen to sometimes a thousand genes. Humans have around 20,000 for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
 
 Why?
 
-Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. From eye color to gill size, genes are the chemical blueprints that determine every creature's genetic traits, what scientist call genotype.
+Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. From eye color to gill size, genes are the chemical blueprints that determine every creature's genetic traits, what scientists call genotype.
 
 Existing in the present isn't enough. The arrow of time means only the genes that make it into the future continue playing. That's why the scoreboard counts kids—they're how today's genes reach tomorrow.
 
@@ -662,59 +666,63 @@ Usually this means direct offspring, but not necessarily, as many species protec
 
 The scoreboard values kids no matter how they're supported.
 
-We know the game board always changes and the game clock always ticks away a organism's time. To overcome new challenges, creation of course needs new players. So, procreation obliges with repopulation, but provides something even more valuable. That is because almost all genes do not exactly copy themselves during procreation. Instead there are slight changes, giving each kid unique genes.
+We know the game board always changes and the game clock always ticks away an organism's time. To overcome new challenges, creation of course needs new players. So, procreation obliges with repopulation, but provides something even more valuable. That is because almost all genes do not exactly copy themselves during procreation. Instead there are slight changes, giving each kid unique genes.
 
 Meaning, kids not only repopulate life, but also develop new abilities too.
 
-This is pivotal. We know every time and place in the universe is unique, now we know is every single lifeform too. The Game of Life is about matching the unique requirements of the environment with the unique abilities of a lifeform.
+This is pivotal. We know every time and place in the universe is unique, now we know every single lifeform is too. The Game of Life is about matching the unique requirements of the environment with the unique abilities of a lifeform.
 
 Lifeforms cannot do the matching themselves; they are already locked into their genotypes. What does the matching is evolution. Through natural selection, the genes best adapted to play the game persist—measured by how many offspring carry them forward.
 
-You can think of it as a coach picking players for his roster by assigning points to each offspring. In effect, that's how the life's players get chosen.
+You can think of it as a coach who keeps whichever players score the most points—except no one is coaching. The points are just kids, and the ones who score most keep playing.
 
-This strategy works very well against entropy. Not only has life evolved from single-cell organism to populate the planet. It's suffered five mass extinctions and repopulated the planet each time. Notably, no extinct species has ever come back—what persists is life itself, through whatever lineages the next era's gameboard happens to favor.
+This strategy works very well against entropy. Not only has life evolved from single-cell organisms to populate the planet. It's suffered five mass extinctions and yet still repopulated the planet each time. Notably, no extinct species has ever come back—what persists is life itself, through whatever lineages the next era's gameboard happens to favor.
 
 Here's why valuing procreation keeps winning the Game of Life.
 
-When encountering the realities of game board and game clock, prioritizing offspring is the best way for life to value energy efficiency. The more kids an organism has, means the more efficiently it harvests energy compared to others. And uses the slight variations of lifeform to evolve new species as needed. 
+Prioritizing offspring is how life turns a scarce energy budget into more players, and uses the slight variations between them to evolve new species as the board demands.
 
-For example, brown bears are nearly identical to polar bears. They can even interbred. By giving points to offspring, evolution slowly turned brown bears living near the very cold Arctic with lighter coats into polar bears. After enough points (kids), speciation happens, meaning a new bear species is made, one with a white coat, bigger paws, and a taste for seals. And the differences aren't only physical—speciation also shows up in behavior, like breeding in time with the brief Arctic spring or knowing which seal-breathing holes to wait beside.
+For example, brown bears are nearly identical to polar bears. They can even interbreed. By giving points to offspring, evolution slowly turned brown bears with lighter coats, living near the frigid Arctic, into polar bears. After enough points (kids), speciation happens, meaning a new bear species is made, one with a white coat, bigger paws, great swimming, and a taste for seals. And the differences aren't only physical—speciation also shows up in behavior, like breeding in time with the brief Arctic spring or knowing which seal-breathing holes to wait beside.
 
-And, with two large bear species playing the game, if the game board gets hotter or colder, life can respond either way.
+And, with two large bear species playing the game, if the game board gets hotter or colder, life already has a winner waiting.
 
 If it could reflect on its interests, life would not wish any species an easy success. Not because a rule forbids it, but because a bear skilled enough to eat every seal would leave her cubs an empty coast and no grandchildren. Each lifeform gets the always-limited supply of water, nutrients, and warmth just long enough to procreate. Nobody negotiates this. Equilibrium is not a truce. Every creature takes all it can. Weather, competitors, distance, and time see to it that nobody gets much.
 
 No one intends it, but what happens as a result looks like cooperation inside an ecosystem: a community of plants and animals sharing an area, along with its climate, elevation, and water. BBC's Planet Earth shows them well—rainforests, grasslands, each one a web of creatures that know each other's sights and smells, often compete for the same sunlight, travel for the same grass, or even kill one another, and yet never agreed to anything.
 
-There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem. This energy budget is a major factor in a environment's "carrying capacity"; the maximum population size of a species that an environment can sustain indefinitely, based on the availability of resources like food, water, and habitat. 
+There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem. This energy budget is a major factor in an environment's "carrying capacity"; the maximum population size of a species that an environment can sustain indefinitely, based on the availability of resources like food, water, and habitat. 
 
-It starts with producers (plants, phytoplankton) who convert energy to biomass. Plant-eaters (caterpillars, deer) who feed on the producers, fertilize soil, and sometimes spread seeds. Predators (lions, sharks) who prevent herbivores from overeating plant life. Scavengers (vultures, flies), who feed on dead and decaying organic matter. Decomposers (mushrooms, bacteria) to break down the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time (whom I call testers, but note this is a simplification and not a traditional ecological classification.). This system of checks and balances rewards reciprocation while keeping overpopulation in check.
+It starts with producers (plants, phytoplankton) who convert energy to biomass. Plant-eaters (caterpillars, deer) who feed on the producers, fertilize soil, and sometimes spread seeds. Predators (lions, sharks) who prevent herbivores from overeating plant life. Scavengers (vultures, flies), who feed on dead and decaying organic matter. Decomposers (mushrooms, bacteria) to break down the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time (whom I call testers, but note this is a simplification and not a traditional ecological classification.). Nobody is assigned these roles. They are open jobs and an open job is unclaimed energy, so something always evolves to fill it, not out of duty but because an empty role is the easiest living on the board.
+
+In short, ecosystems form around available energy. They are a web of checks and balances, where each creature grabbing what it can happens to hold the whole in balance.
 
 Over time, natural selection acts on individual creatures, each competing for its share of that energy. Out of all that competition something larger emerges: a sprawling diversity of life, no single piece of it planned, that together makes the whole system hard to kill. When the climate shifts or a disaster strikes, that variety is the insurance—enough survives to rebuild. I think that's the real wonder of it: a system that keeps "passing the torch" of creation, carrying life forward through every change.
 
-All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must reciprocate, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. No species of an ecosystem can do this alone, and therefore can't win, alone.
+All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must find untapped value, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. 
 
-That's why they're on the same team!
+No individual reciprocates on purpose. But because every member of a species is nearly a copy of the rest, a trait that harvests energy well shows up in all of them at once, and keeps paying off generation after generation. No single species runs the whole ecosystem and none will ever succeed against entropy alone. Happily, the effect of every creature straining to live, and the sum of all that straining, is that life keeps pushing itself forward.
 
-Television shows tends to show ecosystems as constant fighting for survival; biologists see them as species working in tandem, each one's specialization keeping the others viable.
+By harvesting the same limited energy over and over, the creatures of an ecosystem end up bound together—not as a team with a shared goal, but as players stuck on the same board.
 
-Here's an interesting example using the Jumanji movies. In the stories, strangers are pulled into a magical board game and forced to work together to escape. Each one has a different specialized skill—strength, speed, map-reading, weapons. The shared problem creates a team—the different skills mean no one escapes alone. Ecosystems work the same way. A polar bear and a seal have almost nothing in common as organisms, but the same arctic carrying capacity makes their fates inseparable, and each contributes a different specialization to the system. Selection edits not for similarity, but for the ability to share problems—and share specializations—with whoever else happens to be in the same niche.
+That distinction matters. Remember the Jumanji movies: strangers pulled into a board game, each with a different skill—strength, speed, map-reading—who survive only by pooling those skills against the game itself. That is a real team, because they share one enemy. Life has a team like that too, and its enemy is entropy: every living thing, everywhere, is fighting the same slow pull toward cold and stillness. Against *that*, all living things harvest energy to literally pull themselves together to keep playing.
 
-Imagine that, your virus and you are teammates. In evolutionary terms, a body that can't fight off this virus is also a body unlikely to support healthy offspring. The virus reciprocates to the ecosystem by ending the game of one lifeform, so the rest get more energy of the carrying capacity to play the game.
+But against each other, the players are rivals. A polar bear and a seal aren't teammates—they want opposite things. They are **boardmates**: creatures whose games are tangled because they're playing the same board. The seal to the bear. The virus to your cough. Individually, they have no shared purpose but they share the same board.
 
-In return for not catching every seal, the polar bears get seals who can hunt, and bring more of the energy of the producers to the kids of the polar bears.
+Take your virus. A body that can't fight it off is also a body unlikely to raise healthy offspring. The virus offers you no service; it wants exactly what you want, another turn. But by ending a game the weak were already losing, it clears a role the board had left open, and the energy that player held returns into play. Nobody arranged it, but it happened nonetheless.
 
-Life must overcome all the forces of nature to sustain its existence. The last lesson of this amazing gift is understanding it's called the Game of Life, not the Game of You. You best play it by reciprocating with your teammates. Outsiders are not bad per se, but they interrupt this system—as the American chestnut tree, ash tree, orange tree, and many other species have learned the hard way.
+The polar bear is the same truth from the other side. She takes every seal she can catch—there's no restraint in her. But she *can't* take them all, and that isn't luck. She and the seal have shaped each other for a million years, her speed against its escape, until neither can win outright. Her limits aren't a choice; they're an adaptation. She is built not to empty the coast. The proof is the penguin—drop that same bear on an Antarctic shore and she kills until nothing's left, because nothing there was ever shaped by her. Even though they are playing the same game against entropy, a seal is a boardmate, a penguin is not. 
 
-Of course individual creatures do not know this. They are bits of clay already hardened. They are inside the game and cannot stand above it. So, individual creatures fight for survival. Bison bulls fighting to lead a herd, tigers chasing down a deer, venus fly traps capturing a wasp makes for great television.
+Life must overcome every force of nature to sustain itself. The last lesson of this gift is in its name: it's the Game of Life, not the Game of You. You don't win by serving a team of rivals—you win by making your own moves on a board you share, while all of you, together and unknowing, hold back the dark a little longer. Outsiders aren't evil, but they arrive with no shared history to fit into, and so they can break a board that never made room for them—the blights that took the American chestnut and the ash, the disease that hollowed out the orange groves. A polar bear loose in Antarctica would be one more of them: no penguin ever learned to fear her, so its entire species might perish.
 
-But it's not the Game of Life, just a minor part of it.
+Of course, individual creatures know none of this. They are bits of clay already hardened, inside the game, unable to stand above it. So each one simply fights to survive—bison bulls battling for a herd, a tiger running down a deer, a Venus flytrap folding over a wasp.
 
-The game is about scoring points by having offspring who stand a good chance of having even more offspring. Kids are literally the future and it's why the Game of Life is the perfect Christmas or birthday present.
+But that's the game seen too close—just a small part of it.
 
-Now that you know how the rule book, game board, sand clock, modeling clay and scoreboard work together, let's play the game!
+The whole game is about scoring points: offspring who stand a good chance of having offspring of their own. Kids are literally the future, which is why the Game of Life makes the perfect Christmas or birthday present.
 
-Not this game though, but the sequel that's similar in so many ways. Let's win the Game of Technological Life, what we can also call techvolution.
+Now that you know how the rulebook, game board, sandglass, modeling clay, and scoreboard work together—let's play.
+
+Not this game, though. Its sequel, which runs by rules so much like these. Let's play the Game of Technological Life. Let's play techvolution.
 
 ## Story—The Job
 
