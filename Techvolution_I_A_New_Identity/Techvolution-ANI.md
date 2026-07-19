@@ -766,19 +766,19 @@ I was yet to learn the difference between working well and meeting targets. The 
 
 Before we press start on the Game of Technological Life, there's something to say about the Game of Life.
 
-The game is a relatively accurate way to describe life's time on Earth, but not perfect. Specialists could highlight problems with the metaphor. For starters, when accessed in detail, entropy is much more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity (for example black holes, traveling near light speed), so are not truly "universal laws". However, these extremes are rarely a factor for us, and entropy's details don't change its overwhelming tendency to decompose matter. So it's fair to say the booklet of natural laws is all but absolute in our experiences. 
+The game is a relatively accurate way to describe life's time on Earth, but not perfect. Specialists could highlight problems with the metaphor. For starters, when assessed in detail, entropy is much more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity (for example black holes, traveling near light speed), so are not truly "universal laws". However, these extremes are rarely a factor for us, and entropy's details don't change its overwhelming tendency to decompose matter. So it's fair to say the booklet of natural laws is all but absolute in our experiences. 
 
 However, we should go into more detail about evolution's selection methods.
 
-Because natural selection isn't the only way life picks genes. Other mechanisms include sexual selection, where females select males for novel traits like tusks or feather color; genetic drift is when genes change randomly over time; human male pattern baldness is an example, and migration interactions, where species diverge into separate pockets but reintegrate to exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
+Because natural selection isn't the only way life picks genes. Other mechanisms include sexual selection, where mates (usually females, but sometimes both sexes) select a partner for fitness indicating traits like feather color or winning a duel, or for novel traits, which is perhaps how things like tusks got their start. Genetic drift is when genes change by chance, like when genetic diseases become common among isolated settlements just because the few founders had them. Then there's gene flow, where species once diverged into separate pockets but reintegrate later to once again exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
 
-Co-evolution is another selection mechanism. This happens when one species is intimately linked to the evolution of other species within the same ecosystem. This heavily reciprocal process can lead to the emergence of complex, interdependent communities. Flowering plants and their pollinators, such as bees and butterflies, is a prime example.
+Co-evolution is another. Here two species become each other's environment. They appear as partners to a casual observer, but really both apply pressure the other must continually adapt to. Flowers and bees shape each other over millions of years: longer nectar tubes, longer tongues, neither intending the fit. In the short term, the result looks like partnership, in the long term it's really just two players locked on the same board, each using the other to advance themselve.
 
-Epigenetics is another way to introduce new players, but with an important difference. Epigenetics is like a sophisticated control system for your genes. Imagine your DNA as a vast library, and epigenetic mechanisms are the librarians that decide which books (genes) get read and which remain closed. Genes therefore change how they are expressed, often by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation as a reaction to their parents malnourishment during World War II. Epigenetics is nature's way of allowing organisms to not really adapt but react to their environment without rewriting their entire genetic instruction manual.
+Epigenetics is another way to introduce new players, but with an important difference. Epigenetics is like a sophisticated control system for your genes. Imagine your DNA as a vast library, and epigenetic mechanisms are the librarians that decide which books (genes) get read and which remain closed. Genes therefore never change, but can alter how they are expressed, sometimes by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation linked to their parents' malnourishment during World War II. Epigenetics is nature's way of allowing organisms to mildly react to their environment without rewriting their entire genetic instruction manual.
 
-Epigenetics is one of the many phenotype characteristics we learned before, these are the observable physical, biochemical, and behavioral characteristics of an organism that result from the interaction between its genotype and the environment. Two acorns growing, one in sunshine, the other in a forest shade, will grow to be two different looking trees, even if having the same genes.
+Epigenetics is one of the mechanisms behind what we call the phenotype, these are the observable physical, biochemical, and behavioral characteristics of an organism that result from the interaction between its genotype and the environment. Two acorns growing, one in sunshine, the other in a forest shade, will grow to be two different looking trees, even if having the same genes.
 
-However, life experiences never change genes; only gene expressions. The Weismann Barrier and the Central dogma of molecular biology both show acquired knowledge and tribulations never communicate to future generations beyond slight variations in epigenetic inheritance (although some neo-Lamarckian biologists question aspects of these tenants, an example why our definition of natural laws should be open to questions).
+However, life experiences never rewrite genes; only how they're expressed. Biologists call this the Weismann barrier, which says the genetic germline stays sealed off from what the body learns. So, a lifetime of knowledge and hardship dies with you, passing on only through the narrow channel of epigenetic inheritance. Even that is contested: some neo-Lamarckian biologists push back, which is a healthy reminder why our "laws" should stay open to question.
 
 So, from the other selection methods, to epigenetics and other phenotype developments, there are many other ways to introduce new genes and variations. However, each and every player must still harvest enough resources to procreate. That's why our "coach" uses natural selection, because it is by far the dominant way evolution validates its players/clay/genes.
 
@@ -788,73 +788,79 @@ Because it demonstrates why nature works as it does in the biological world, and
 
 Happily, we do see many hints of technological evolution.
 
-For starters, we have a historical legacy of using animal products as technological adaptations. A few examples are fur coats, water skins, beasts of labour, carrier pigeons, and hunting dogs, but there are countless others. Harvesting our tools from nature means assessing the strengths and weaknesses of animals and thus being a sort of coach, selecting species to solve specific problems. 
+For starters, we have a historical legacy of using animal products as technological adaptations. A few examples are fur coats, water skins, beasts of labor, carrier pigeons, and hunting dogs, but there are countless others. Harvesting our tools from nature means assessing the strengths and weaknesses of animals and thus being a sort of coach, selecting species to solve specific problems. 
 
 Of course we developed our own tools. From the spears of the Stone Age, to the chisels of the Bronze Age, and all the countless tools since, making and using a specific set of tools is often what defines a person, culture, society, and civilization. Many of our personal names, from Blacksmith (metal working), Cooper (barrel making), Draper (wool weaver), and so many others, show how interwoven tools are with human identities. 
 
 Biology and technology have so much crossover we often design our technologies while looking over the shoulder of nature.
 
-Today, there's even a field called biomimicry; the emulation of natural models, systems, and elements for the purpose of inventing new technologies. Among its many creations is Velcro, copied from the fuzzy seed burs that so easily stick to our clothes during country walks in the grass. Many airplanes, drones, robotics, and other technological designs get their inspiration from the biological products of natural selection.
+Today, there's even a field called biomimicry; the emulation of natural models, systems, and elements for the purpose of inventing new technologies. Among its many creations is Velcro, copied from the fuzzy seed burrs that so easily stick to our clothes during country walks in the grass. Many airplanes, drones, robotics, and other technological designs get their inspiration from the biological products of natural selection.
 
-Biological and technological development crossover so well because they have common problems.
+Biological and technological development cross over so well because they have common problems.
 
-They each need to invent structural engineering (skeletons, framing) to combat gravitational forces, aerodynamics (birds, planes) and hydrodynamics (fish, ships) to move efficiency through air and water, and thermodynamics to keep warm, or cool, in various environments (fur, insulation). We even track biology and technology developments using very similar trees charts. These graphical representations show the evolutionary relationships among various species based upon similarities and differences in their genetic or physical characteristics.
+They each need to invent structural engineering (skeletons, framing) to combat gravitational forces, aerodynamics (birds, planes) and hydrodynamics (fish, ships) to move efficiently through air and water, and thermodynamics to keep warm, or cool, in various environments (fur, insulation). We even track biology and technology developments using very similar tree charts. These graphical representations show the evolutionary relationships among various species based upon similarities and differences in their genetic or physical characteristics.
 
-Using the Game of Life metaphor makes it easier to understand why biology and technology crossover so much. They have the same booklet of natural laws, game board, sand clock, and therefore must survive the same pressures from gravity, radiation, mechanical stress, energy loss, evaporation, and other forms of dispersing matter, be it a landscape, biology, or technology.
+Using the Game of Life metaphor makes it easier to understand why biology and technology cross over so much. They have the same booklet of natural laws, game board, sand clock, and therefore must survive the same pressures from gravity, radiation, mechanical stress, energy loss, evaporation, and other forms of dispersing matter, be it a landscape, biology, or technology.
 
-We know how biology responds to these challenges, and when was the last time you, or anyone, grew a winter coat of hair to combat Minnesota winters. Do parents ever tell a kid to increase skull bone strength before climbing a mountain. Does anyone create more fat to store water before their long trip.
+We know how biology responds to these challenges, and when was the last time you, or anyone, grew a winter coat of hair to combat Minnesota winters? Do parents ever tell a kid to increase skull bone strength before climbing a mountain? Does anyone create more fat to store water before a long road trip?
 
 Of course not.
 
 We see evolution in the natural world but not in our own lives. When watching a struggling polar bear today, we have no problem citing its evolutionary pressure caused by its changing environment. We know the point of contact between entropy and biology is a set of genes—variants that either harvest enough energy to make it into the next generation, or don't. The point of contact between entropy and us is almost always a tool, yet we do not think evolution pressures us as well.
 
-Even with all these indications that we're using technology to survive the Game of Life, few people label themselves as their tool. National, ethnic, gender, job title, education, ideology, religion, racial, sports teams, comic books, all have far more space in our personal identities then the tools we use to stay alive.
+Even with all these indications that we're using technology to survive the Game of Life, few people label themselves as their tool. National, ethnic, gender, job, education, ideology, religion, race, sports teams, comic books, all have far more space in our personal identities than the tools we use to stay alive.
 
-That's why this book wants you to embrace being a technological being. Not because it's an interesting idea, but because it make us realize we are playing the Game of Life, and technology is our primary means of postponing entropy—the everyday work of staying organized against dispersal which we need to stay alive long enough to pass on the torch.
+That's why this book wants you to embrace being a technological being. Not because it's an interesting idea, but because it makes us realize we are playing the Game of Life, and technology is our primary means of postponing entropy—the everyday work of staying organized against dispersal which we need to stay alive long enough to pass on the torch.
 
-We realize this truth in the natural world, so should be able to make the leap and understand the truth of our existence by realizing we are simply inside technological version of the Game of Life. Then we can start to knowingly play it, persist our lineages, and therefore win.
+We realize this truth in the natural world, so should be able to make the leap and understand the truth of our existence by realizing we are simply inside a technological version of the Game of Life. Then we can start to knowingly play it, persist our lineages, and therefore win.
 
 The booklet of rules, game board of environments, sandglass of time, bits of clay, and a scoreboard are all there. As is the circle of producers, plant-eaters, predators, scavengers, decomposers, and testers in our own ecosystems too. This is happening all around us.
 
 So why don't we see it?
 
-Because our coach is unconscious of what it's selecting for. Picking the team without realizing you're picking often clouds the view. Here is a quick story to explain.
+Because our coach is unconscious of what it's selecting for. Picking the boardmates without realizing you're picking often clouds the view. Here is a quick story to explain.
 
-There's this crab, Heikegani, that's native to Japan. It's rather small with long legs. It would be another unknown crab except it has an interesting feature. It's shell looks like a human face. In particular, an angry samurai.
+There's this crab, Heikegani, that's native to Japan. It's rather small with long legs. It would be another unknown crab except it has an interesting feature. Its shell looks like a human face. In particular, an angry samurai.
 
 Why?
 
-The crabs name gives a clue. Their namesake is the Taira clan who dominated medieval Japan and were commonly known as the Heike. Their warriors fought a massive civil war against the Minamoto clan in 1185.
+The crab's name gives a clue. Their namesake is the Taira clan who dominated medieval Japan and were commonly known as the Heike. Their warriors fought a massive civil war against the Minamoto clan from 1180–1185.
 
-The five year long war was decided at the massive Dan-no-ura naval Battle in western Japan.
+The war was decided at the massive Dan-no-ura naval Battle in western Japan.
 
-The Heike lost and Minamoto's leader Yoritomo became the first Shōgun, or military ruler, of Japan. This was a cultural and political turning point in Japanese history. For seven centuries Japan was ruled not by emperors, but by samurai warriors and shōguns. Local legend said Heikegani crabs are reincarnations of the Heike warriors defeated at the battle. It is even written in _The Tale of the Heike_, a chronicle of ancient Japanese history.
+The Heike lost and Minamoto's leader Yoritomo became the first Shōgun, or military ruler, of Japan. This was a cultural and political turning point in Japanese history. After it, for seven centuries, Japan was ruled not by emperors, but by samurai warriors and shōguns. Local legend said Heikegani crabs are reincarnations of the Heike warriors defeated at the battle. It is even written in _The Tale of the Heike_, a chronicle of ancient Japanese history.
 
 That's one interpretation for the crab's distinctive feature.
 
-Carl Sagan, the noted American astronomy and educator, says something else. In his book _Cosmos: A Personal Voyage_ Sagan says the Heikegani crabs were caught by local fisherman who occasionally saw faces in the shell. Out of respect for ancient fallen soldiers, the fishermen returned them to the sea, while harvesting the unlucky crabs who didn't carry the spirits of an ancestor. As the years went by more newly hatched crabs had the genes that made their shell look like a face. Eventually, all the Heikegani crabs had what looked like a human face on their shell.
+Carl Sagan, the noted American astronomer and educator, popularized a different interpretation. In his book _Cosmos: A Personal Voyage_ Sagan says the Heikegani crabs were caught by local fishermen who occasionally saw faces in the shell. Out of respect for ancient fallen soldiers, the fishermen returned them to the sea, while harvesting the unlucky crabs who didn't carry the spirits of an ancestor. As the years went by more newly hatched crabs had the genes that made their shell look like a face. Eventually, all the Heikegani crabs had what looked like a human face on their shell.
 
-Human beings had selected winning crabs, but for unnatural reasons, which is why the Heike crabs are a classic example of "artificial selection". This is another interpretation for the crab's distinctive feature.
+Human beings had selected winning crabs, but for unnatural reasons, which is why the Heike crabs are a classic example of "artificial selection"; humans choosing which individuals of a species reproduce, based on traits we find desirable and thereby accelerating evolution in a direction nature didn't select for on its own.
 
-It's not the definitive one, because there's no record of Japanese fisherman ever selecting crabs for human faces. The crab isn't even a staple of any known diets. Evolutionary biologist Joel Martin thinks the crabs distinctive muscles and shell are simply built the way they are because natural selection says it works. Humans only see a face because of human pareidolia; our tendency to impose a meaningful interpretation on patterns, so that we easily detect meaning in places where there is none.
+We've of course done this when turning wild wheat into a crop, wolves into dogs, horses into riding animals, and so on.
+
+There is another version of the Heike crab story. There's actually no record of Japanese fishermen ever selecting crabs for human faces. The crab isn't even a staple of any known diets. Evolutionary biologist Joel Martin thinks the crab's distinctive muscles and shell are simply built the way they are because natural selection says it works. Humans only see a face because of human pareidolia; our tendency to impose a meaningful interpretation on patterns, so that we easily detect meaning in places where there is none.
+
+So we're doing today exactly what we imagine the fishermen did: seeing a face in a crab shell.
 
 We often do the same in the stars or clouds in the sky, where we see horses, chariots, and endless other objects inside floating water vapor, or balls of gas unimaginably far from each other.
 
 These visions only make sense from our own vantage point. Meaning while playing on the emergent game board and clock in the Game of Technological Life, we are often chasing the shadows of our own psyches.
 
-So, the Heikegani crabs showcases something very important for our winning the game. While all the other selection mechanisms are in effect and helping us develop new tools, we replaced nature's coach with ourselves and used artificial selection to pick our team.
+So, the Heikegani crab showcases something very important for our winning the game. While all the other selection mechanisms are in effect and helping us develop new tools, we replaced nature's coach with ourselves and used artificial selection to pick our boardmates.
 
-The deeper point is the fishermen were making selection decisions without realizing they were the selectors, and without examining what they should have been selecting for. As any medical doctor or forestry manager knows, a self-aware selector picks on the real pressures the environment imposes—which, over time, is what natural selection does in any case. Self-aware artificial selection isn't a departure from natural selection. It's how tool-using species find their way back to it; all to "rack up more wins" in the Game of Life.
+The deeper point is the fishermen were making selection decisions without realizing they were the selectors, and without examining what they should have been selecting for. As any medical doctor or forestry manager knows, a self-aware selector picks on the real pressures the environment imposes—which, over time, is what natural selection does in any case. Self-aware artificial selection aims at the same target blind nature does, but it's reached on purpose instead of by countless deaths. It's how tool-using species find their way back to nature; all to "rack up more wins" in the Game of Life.
+
+Artificial selection can point at the true target or a false one. Self-awareness is what turns it toward the true kind.
 
 Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." As the Heikegani crab story highlights we often artificially play the game. This book is about making our selections more responsive to the real problems of our gameboard—the actual pressures our environment imposes, rather than the noise our brains too easily think up.
 
-And so, to win the Game of Technological Life, we do not need to invent anything from scratch. We already recognize biological evolution, watch and feel for its players, and use and copy its achievements. We also already invent and wield many amazing tools to harvest resources, protect ourselves, and form new creations.
+And so, to win the Game of Technological Life, we do not need to invent anything from scratch. We already recognize biological evolution, like and support its players, and use and copy its achievements. We also already invent and wield many amazing tools to harvest resources, protect ourselves, and form new creations.
 
 We already play the game!
 
-To earn a much better score, we only need to get out of our heads. 
+To earn a much better score, we only need to get out of our heads. Meaning: as individuals, we stop selecting on the face in the shell, and start selecting on what the board actually rewards.
 
-Happily, we've done this in many other fields, from physics, chemistry, geology, and medicine. The history of these journeys teaches us that we can improve upon our minds creation by assessing the state of nature as it truly is and thereby move from mythological, to philosophical, and finally to scientific levels of understanding. However, history also tells us this a dangerous voyage filled with windings roads, dead ends, and other shadowy places artificial knowledge takes its passengers.
+Happily, we've done this in many other fields, from physics, chemistry, geology, and medicine. The history of these journeys teaches us that we can improve upon our mind's creation by assessing the state of nature as it truly is and thereby move from mythological, to philosophical, and finally to scientific levels of understanding. However, history also tells us this is a dangerous voyage filled with winding roads, dead ends, and other shadowy places artificial knowledge takes its passengers.
 
 We're pressing start anyway.
 
@@ -868,43 +874,43 @@ Here, as you start your game, we are using every part of the word.
 
 By questioning our artificial creations, we're effectively asking what our nature is. And, not for academic reasons, but for the express purpose of better adapting to nature's environment, weather, and rulebook by becoming self-aware about the artificial selections we're currently making, so they respond to the real pressures our environment imposes rather than the noise so common in the identity, politics, and economics we currently use to play the Game of Technological Life.
 
-Since there is a sixth mass extinction of biological life underway, most certainly being caused by humanity's use—and misuse—of technology, I would hazard a guess if nature truly had a mother, she wouldn't mind us instituting natural selection into the technosphere as quickly as possible.
+Since there is a sixth mass extinction of biological life underway, most certainly being caused by humanity's use—and misuse—of technology, I would hazard a guess if nature truly had a mother, she wouldn't mind us selecting our tools on real fitness, as fast as we can. For a self-aware selector aims at the same target nature does—real fitness—just aims better and shoots faster.
 
 But, what does that mean for you?
 
-We accept that sloths are always slow, ants are always selfless, elephants always love their families. We accept every creature has unique natures. That doesn't mean every individual lifeform is always predictable, but it does mean creatures have features, requirements, and instincts that can't be changed because these are the traits the coach needed when selecting them for the team.
+We accept that sloths are always slow, ants always serve their colony, elephants always love their families. We accept every creature has unique natures. That doesn't mean every individual lifeform is always predictable, but it does mean creatures have features, requirements, and instincts that can't be changed because these are the traits the coach needed when selecting them to take up a place on the board.
 
-There's a record of natural selection's picks. The tree of life describes the relationships between organisms both living and extinct. It is a huge list of producers, plant-eaters, predators, scavengers, decomposers, and testers who are continually removed and added and because The Game of Life is a job, an obligation to reciprocate inside an ecosystem that harvests resources efficiently enough to increase the carrying capacity and afford to add more members and renew the team.
+There's a record of natural selection's picks. The tree of life describes the relationships between organisms both living and extinct. It's a huge list of producers, plant-eaters, predators, scavengers, decomposers, and testers, continually removed and added as the board shifts. No one reciprocates on purpose; each just harvests what it can, and the sum keeps the ecosystem's carrying capacity full.
 
-Humanity is on this tree like any other being. Our last common ancestor with our hominid cousins chimpanzees and bonobos lived between 13 to five million years ago. Long in our timeframe, but very minimal in the evolutionary one.
+Humanity is on this tree like any other being. Our last common ancestor with our hominid cousins chimpanzees and bonobos lived between perhaps eight to six million years ago. Long in our timeframe, but very minimal in the evolutionary one.
 
-To put that in perspective, we share more DNA with our monkey relatives than our pet cats share with tigers; and any cat owner will tell you the physiological, sensory, and predatory, similarities between the small and large felines. The point to remember is that any investigation of human nature must root itself into our being part of the animal kingdom. 
+To put that in perspective, we share more DNA with our ape relatives than our pet cats share with tigers; and any cat owner will tell you the physiological, sensory, and predatory, similarities between the small and large felines. The point to remember is that any investigation of human nature must root itself into our being part of the animal kingdom. 
 
 We need to start here because our genes were selected like anyone else's. Living under the stars and up against the whims of nature, our DNA passed the entire gauntlet of trials—from cold and heat to hunger, aging, and limited resources—and was specifically selected to play in the Game of Life.
 
-Modern humans still have all the perseverance, edge, grit, and other abilities and limitations from our ancestral ancestors. This manifests in many ways.
+Modern humans still have all the perseverance, edge, grit, and other abilities and limitations from our ancestors. This manifests in many ways.
 
 Some are physiological. Such as our offspring have prolonged vulnerability after birth. To provide extended care their parents typically mate for life. Relatively high infant mortality, estimated as high as 40% for Stone Age peoples, means humans don't have mating seasons. Instead couples must be ready to procreate year round to more quickly replace any lost members.
 
-Something else humans kept from our animal kingdom heritage, is that we do not naturally get along. While human genes had much in common, we still formed tribes to protect our specific bits of clay. Early humans lived in communities from a dozen up to 200 members. Persistent natural selection pressure meant the ever present chance of thirst, hunger, disease and tribal warfare that at times could mean 30-40% of ancient humans died at the hands of another. Such was the drive to be picked by the coach.
+Something else humans kept from our animal kingdom heritage, is that we do not naturally get along. While human genes had much in common, we still formed tribes to protect our specific bits of clay. Early humans lived in communities from a dozen up to 200 members. Persistent natural selection pressure meant the ever present chance of thirst, hunger, disease and tribal warfare that at times could mean as much as 30-40% of ancient humans died at the hands of another. Such was the drive to be picked by the coach.
 
 We did of course evolve away from our hominid ancestors and begin to play the game with technological tools, and that required drastic changes to our biology. All of these evolutions were tested by the same high standards of the coach's natural selection.
 
-Our most notable were trading easy tree climbing for amazing endurance running. Body hair overheated us during our long runs, so it got replaced for bald skin covered with sweat glands. Our vocal tract developed to make increasingly complex sounds. And, perhaps the most important change, ten fingers became eight fingers and two opposable thumbs.
+Our most notable were trading easy tree climbing for amazing endurance running. Body hair overheated us during our long runs, so it got replaced for bald skin covered with sweat glands. Our vocal tract developed to make increasingly complex sounds. And, perhaps the most important change, one digit per hand became an opposable thumb.
 
-Each of these biological adaptations got more pronounced over time because they kept earning points on the procreation scoreboard. Meaning that, like a humming bird and flower growing their beaks and petals to match the others uniqueness, with each generation our bodies were forming around the requirements of technology in a classic case of co-evolution.
+Each of these biological adaptations got more pronounced over time because they kept earning points on the procreation scoreboard. Meaning that, like a hummingbird and flower growing their beaks and petals to match each other's uniqueness, with each generation our bodies were forming around the requirements of technology in a case of co-evolution.
 
 Today, we can even track our biological evolution.
 
-The earliest known human, science calls us Homo (latin for human), is over 2.8 million years old, found in Ethiopia. Thereafter, we evolved into several known groups, homo erectus, denisovan, neanderthal, and us homo sapiens are a few but the list grows as more fossil and DNA evidence is discovered.
+The earliest fossils in our own genus, Homo (Latin for human), are about 2.8 million years old, from Ethiopia. Thereafter, we evolved into several known groups, homo erectus, denisovan, neanderthal, and us Homo sapiens are a few but the list grows as more fossil and DNA evidence is discovered.
 
-With distance running, sweat, speech, and thumbs, humans were positioned for Game of Life success. We could hold spears and organize ourselves to reliably chase, exhaust, kill, and defend protein rich food like no ape ever could. We learned to crave sugar for the rare energy boosts it gave, but being omnivorous, could gather something to eat year round; especially because we learned to use rocks and sticks to dig up, open, or grind increasingly large menu of calorie dense roots, nuts, and seeds.
+With distance running, sweat, speech, and thumbs, humans were positioned for Game of Life success. We could hold spears and organize ourselves to reliably chase, exhaust, kill, and defend protein rich food like no ape ever could. We learned to crave sugar for the rare energy boosts it gave, but being omnivorous, could gather something to eat year round; especially because we learned to use rocks and sticks to dig up, open, or grind an increasingly large menu of calorie dense roots, nuts, and seeds.
 
 All these adaptations opened up new opportunities on the game board, which our growing speech abilities allowed us to easily share with each other. Crucially, this included the value of charred meat, likely learned from scavenging food after brush fires. Around 1.8 million years ago humans started our own fires to cook, and therefore predigest, our food.
 
-As tools and fire made digestion easier, we saved much energy while our jaws could get smaller, meaning our brains had both the space and strength to grow. The human skull grew from around 500 cubic centimeters (CC) of Australopithecus to around 1,350 CC of early Homo Sapiens. Although brain size does not directly correlate with intelligence, it generally trends that way. Interestingly, this most powerful of human adaptations used up so much energy our head kept its hair to retain some of the heat billions of neurons create.
+As tools and fire made digestion easier, we saved much energy while our jaws could get smaller, meaning our brains had both the space and strength to grow. The human skull grew from around 500 cubic centimeters (CC) of Australopithecus to around 1,350 CC of early Homo sapiens. Although brain size does not directly correlate with intelligence, it generally trends that way. Interestingly, this most powerful of human adaptations used up so much energy our head kept its hair to retain some of the heat billions of neurons create.
 
-So, early humans' co-evolution with technology made us increasingly unique in nature, but we still kept much of our genes and instincts unchanged. These two influences together make up the genetics that, 300,000 years ago, would form our homo sapiens branch of life.
+So, early humans' co-evolution with technology made us increasingly unique in nature, but we still kept much of our genes and instincts unchanged. These two influences together make up the genetics that, 300,000 years ago, would form our Homo sapiens branch of life.
 
 This is our basic genetic history, and we need to talk about it for several reasons.
 
@@ -912,9 +918,9 @@ There are about 3.2 billion base pairs of human DNA. As Siddhartha Mukherjee poi
 
 Yet, and here's the point, you will never meet a person who isn't made up of our genetic heritage and all the capabilities and limitations that brings.
 
-Like with sloths, elephants and every other creature, we have natural instincts common to most every person because the coach needed these traits when selecting his team. Our genealogy ancestry is why we need eight hours of sleep, can't see well in the dark, need about 2,000 calories and eight cups of water each day, can only remember about 200 names, sustain 30 or so close friendships, prefer temperatures around 70F/21C, can have 70 plus year lifetimes, typically like sugar and gossip, usually fear public speaking, are self-interested and prone to tribal loyalties but also capable of altruism and self-sacrifice, usually love our children most, and so many other features of humanity in the Stone Age or today.
+Like sloths or elephants, we carry instincts common to nearly everyone. Same board, same trials, so the coach shaped us all toward the same answers. It's why most people need eight hours of sleep, run on about 2,000 calories a day, can hold only a couple hundred names in memory, crave sugar, dread public speaking, and stay prone to tribal loyalty even while capable of real sacrifice. Stone Age, Iron Age, or today, it's the same creature.
 
-Of course, our genotype does not determine our future—what scientists call "genetic determinism". We can aspire to be different; break molds, boundaries, and records. We can even dream of improving upon our nature, but never can we succeed by disregarding it. Our creative minds do not automatically know that, but as the Weismann Barrier and the Central dogma of molecular biology say, while genetic expression can change and help offspring somewhat adapt to the environment, they are still stuck with the unchangeable genomes regardless of our ideas, beliefs, or life experiences.
+Of course, our genotype does not determine our future—what scientists call "genetic determinism". We can aspire to be different; break molds, boundaries, and records. We can even dream of improving upon our nature, but never can we succeed by disregarding it. Our creative minds do not automatically know that, but as the Weismann Barrier says, while genetic expression can change and help offspring somewhat adapt to the environment, they are still stuck with the unchangeable genomes regardless of our ideas, beliefs, or life experiences.
 
 Anyone who tries to ignore our past is artificial and offers little but a dead end.
 
@@ -932,7 +938,7 @@ Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, sho
 
 In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
 
-Here's why: we were only minorly measured on accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew that brokers could send customers to other companies.
+Here's why: we were only barely measured on accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew that brokers could send customers to other companies.
 
 So the inbound caller hold metric became everything.
 
@@ -946,7 +952,7 @@ So we adapted. "Just pay it," managers would say. Some adjusters falsely marked 
 
 Anything to stop the bell.
 
-Adjusters personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through rushed conversations.
+Adjusters' personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through rushed conversations.
 
 We were often more stressed than the people who'd just been in crashes.
 
@@ -962,41 +968,41 @@ One more claim down. One less call to make that freaking bell ring.
 
 Why are humans so similar across the world, despite living in completely different environments? The answer lies in our shared origin in Africa and the technological co-evolution that followed us out.
 
-The natural human player of the game is rooted in shared biological instincts and requirements. People need to eat, love, have shelter, hope, and many other things. Among our limitations is that we will never embrace working for others or give blind loyalty without a benefit in return. Regardless of the many artificial attempts to impose this identity on humans, these are pretty universal features of mankind across time and geography.
+The natural human player of the game is rooted in shared biological instincts and requirements. People need to eat, love, have shelter, hope, and many other things. Among our limitations is that we will never embrace working for others or give blind loyalty without getting some benefit in return. Regardless of the many artificial attempts to impose this identity on humans, these are pretty universal features of mankind across time and geography.
 
-There is a reason why pure genetics and pure culture perspectives both fail as explanations for humanity's problems. Both are needed—the extended phenotype, technology, emerges from genotype and phenotype evolution operating together. This is why homo sapiens needed and have both very similar physiology and very similar culture.
+There is a reason why pure genetics and pure culture perspectives both fail as explanations for humanity's problems. Both are needed—the extended phenotype, technology, emerges from genotype and phenotype evolution operating together. This is why Homo sapiens needed and have both very similar physiology and very similar culture.
 
-After all, any human can learn to use any tool.
+After all, no human population is biologically locked out of learning any tool. In short, with open learning, any human can learn to use any tool.
 
-It starts off with our shared history; we got our start together. Neanderthals were mostly in Europe, denisovans in South East Asia, homo sapiens evolved in the huge landmass below the Saharan desert, in East Africa most likely. The place was full of water and wildlife and so capable of feeding humans year round. With a healthy carrying capacity, lots of tribes could live, and the huge geography made it harder for migration interactions to blend groups.
+It starts off with our shared history; we got our start together. Neanderthals were mostly in Europe, Denisovans in East and South East Asia, Homo sapiens evolved in the huge landmass below the Saharan desert, in East Africa most likely. The place was full of water and wildlife and so capable of feeding humans year round. With a healthy carrying capacity, lots of tribes could live, and the huge geography made it harder for migration interactions to blend groups.
 
-Geographers call this the friction of distance. It's important because relative tribe isolation allowed many adaptations a chance to offer themselves to the coache's selection. The legacy of this time period lives on today; there is still more genetic diversity in sub-saharan Africa than in the rest of the entire world.
+Geographers call this the friction of distance. It's important because relative tribe isolation allowed many adaptations a chance to offer themselves to the coach's selection. The legacy of this time period lives on today; there is still more genetic diversity in sub-Saharan Africa than in the rest of the entire world.
 
-In this hotbed of evolution, homo sapiens became a nomadic hunter-gatherer group, with people and lifestyle that we would recognize today. We're so close to these persons that, because of a genetic quirk of mitochondrial DNA, we can even track all modern humans to a single common woman ancestor who lived 155,000 years ago, colloquially called "Mitochondrial Eve". 
+In this hotbed of evolution, Homo sapiens became a nomadic hunter-gatherer group, with people and lifestyle that we would recognize today. We're so close to these persons that, because of a genetic quirk of mitochondrial DNA, we can even track all modern humans to a single common woman ancestor who lived approximately 155,000 years ago, colloquially called "Mitochondrial Eve". 
 
-It's perhaps comical to imagine but a modern human could be transported back to our ancestors in East Africa and—eventually—do fine. We could physically perform the way of life. Community driven hunting, resource gathering, and child rearing in groups where we knew everyone by name. Tribes had hunting and foraging grounds across savannas and woodlands. While looking for our next meal, the average daily trip was about 6-9 miles (10-15 kilometers) a day, probably not a coincidence that is about the caloric expenditure many people exercise to keep in shape.
+It's perhaps comical to imagine but a modern human could be transported back to our ancestors in East Africa and—eventually—do fine. We could physically perform the way of life. Community driven hunting, resource gathering, and child rearing in groups where we knew everyone by name. Tribes had hunting and foraging grounds across savannas and woodlands. While looking for our next meal, the average daily trip was about 6-9 miles (10-15 kilometers) a day, probably not a coincidence that is about the caloric output many people expend staying in shape.
 
-Many homo sapien tribes lived in Africa for thousands of generations. But with our hungry brains, vulnerable kids, little fat or hair to keep us warm, we were at a biological endpoint in a sense. Any help to outsmart the emergent game board and sand clock was very much noticed.
+Many Homo sapiens tribes lived in Africa for thousands of generations. But with our hungry brains, vulnerable kids, little fat or hair to keep us warm, we were at a biological endpoint in a sense. Any help to outsmart the emergent game board and sand clock was very much noticed.
 
-So, the coach kept picking homo sapiens who developed better tools, crafted warmer clothes, and created more complex social structures connected with evermore gossip and teachings. Around 100,000-70,000 years ago, East Africa was such a hot bed of innovation it's called The Great Leap Forward. We developed symbolic thinking, complex language, advanced tool-making, and artistic expression. This cognitive revolution allowed humans to create art, plan for the future, develop spiritual beliefs, and cooperate at larger scales than ever before.
+So, the coach kept picking Homo sapiens who developed better tools, crafted warmer clothes, and created more complex social structures connected with evermore gossip and teachings. Around 100,000-70,000 years ago, East Africa was such a hotbed of innovation it's called the Cognitive Revolution. Some say the development was more gradual, but in any event Homo sapiens developed symbolic thinking, complex language, advanced tool-making, and artistic expression. This change allowed humans to create art, plan for the future, develop spiritual beliefs, and cooperate at larger scales than ever before.
 
-It's not hard to imagine our ancestors—with mostly modern bodies and brains—sitting around campfires after a day's work. With wonderfully perceptive eyes and budding storytelling, they fashioned characters and events to explain the game they clued-in they were playing. Just looking up at the Milky Way must have been the most awesome experience. With a virtual blank slate, persons imagined (or realized depending on the reader's beliefs) that beings, titans, and gods held the strings on the people playing at life down on Earth.
+It's not hard to imagine our ancestors—with mostly modern bodies and brains—sitting around campfires after a day's work. With wonderfully perceptive eyes and budding storytelling, they fashioned characters and events to explain the game they sensed they were playing. Just looking up at the Milky Way must have been the most awesome experience. With a virtual blank slate, persons imagined (or realized depending on the reader's beliefs) that beings, titans, and gods held the strings on the people playing at life down on Earth.
 
-Before The Great Leap Forward we were physically modern humans, after it we behaved like modern humans. A modern person would be relatively happy here. Ecologist Gordon H. Orians researched that our current love of a house on a lake, with the mountains behind us and a grass land in front, is from our memories of living in East Africa during this time period.
+Before the Cognitive Revolution we were physically modern humans, after it we behaved like modern humans. A modern person would be relatively happy here. Ecologist Gordon H. Orians researched that our current love of a house on a lake, with the mountains behind us and a grassland in front, is from our memories of living in East Africa during this time period.
 
-Yet, the relative safety, abundant resources, and pleasant weather was soon to be a happy memory.
+Yet, the relative safety, abundant resources, and pleasant weather were soon to be a happy memory.
 
 Our adaptable hands, feet, cognition, and tools, allowed early modern humans to navigate most any environmental challenge on the African game board. That also meant, after so many millions of years and various forms of humanity, nature finally created a human ready to venture across the world.
 
 Or perhaps it's better to say, technology had evolved the perfect match to seed itself worldwide. And the bits of clay that ventured out could find much scoreboard success. And out we went!
 
-There were waves of Out of Africa homo sapien migrations. We got to Eurasia 125,000-100,000 years ago, Australia around 65,000 years ago, the Americas about 15,000 years ago, and remote islands such as Hawaii, Easter Island, Madagascar, and New Zealand between the years 300 to 1280. At each place, homo sapiens gradually mixed with, absorbed, or outlasted local populations.
+There were waves of Out of Africa Homo sapien migrations. We got to Eurasia 125,000-100,000 years ago, Australia around 65,000 years ago, the Americas about 15,000 years ago, and remote islands such as Hawaii, Easter Island, Madagascar, and New Zealand between the years 300 to 1280. At each place, Homo sapiens gradually mixed with, absorbed, or outlasted local populations.
 
-The timing is still debated among scientists. Unfortunately there was no written history back then, so piecing together events will always be difficult. But the Great Leap Forward and Out of Africa migrations were probably mutually reinforcing processes. Better cognition enabled migration, which created new selective pressures and opportunities that further refined human culture and tools. Rather than one causing the other, they likely fed into each other—a positive feedback loop where cognitive advances enabled exploration, and exploration drove further innovations.
+The timing is still debated among scientists. Unfortunately there was no written history back then, so piecing together events will always be difficult. But the Cognitive Revolution and Out of Africa migrations were probably mutually reinforcing processes. Better cognition enabled migration, which created new selective pressures and opportunities that further refined human culture and tools. Rather than one causing the other, they likely fed into each other—a positive feedback loop where cognitive advances enabled exploration, and exploration drove further innovations.
 
-However it happened, by about 12,000 years ago, archaic humans were effectively gone. But for trace amounts of old DNA (about 1-5%), all humans were now purely homo sapiens with endless DNA varieties possible but still with relatively consistent nature, physiology, and culture. While our bits of clay were destined to be continually remixed, they would never be fundamentally different. 
+However it happened, by about 40,000 years ago, archaic humans were effectively gone. But for trace amounts of old DNA (about 1-5%), all humans from then on were Homo sapiens with endless DNA varieties possible but still with relatively consistent nature, physiology, and culture. While our bits of clay were destined to be continually remixed, they would never be fundamentally different. 
 
-By mixing genotype and phenotype variation, humans were doing what life always does—producing evolved variations—only now with their extended phenotype, technology, as the medium. Meaning homo sapiens kept adapting our cultures and co-evolving tools to nearly every game board on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sand clock and keep scoring points of procreation around the world.
+By mixing genotype and phenotype variation, humans were doing what life always does—producing evolved variations—only now with their extended phenotype, technology, as the medium. Meaning Homo sapiens kept adapting our cultures and co-evolving tools to nearly every game board on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sand clock and keep scoring procreation points around the world.
 
 Now the extended phenotype—technology—had the uniformity it needed in humans to sprout across the globe. Once it got hold, its ecosystem spread like wildfire, even during the bouts of harmful artificial selection we subjected it to.
 
@@ -1016,7 +1022,7 @@ Another was a call I got after 5:00 PM on the emergency call-in queue. It was a 
 
 I told her that, but the lady refused the contractors.
 
-I ignored her protest—she had sewage all over her home this obviously needed to be fixed regardless. I continued filling out the needed forms. She said, "No!" _Insureds are so frustrating_, I told myself.
+I ignored her protest—she had sewage all over her home, this obviously needed to be fixed regardless. I continued filling out the needed forms. She said, "No!" _Insureds are so frustrating_, I told myself.
 
 Then she said, "I don't have any money."
 
@@ -1024,9 +1030,9 @@ I quickly googled her area. She was in the poor area of a poor town. And I had j
 
 It was Friday, meaning she'd likely get an insurance answer by Tuesday. I became a property adjuster later on and learned she had insurance coverage for her problem. She had the money, but didn't have it at the same time.
 
-I often wonder what that mother did over the weekend. My imagination goes wild because some of my claims involved drug deals, prostitution, theft. I learned how desperate people often end up doing desperate things. And her kid was living in that home.
+I often wonder what that mother did over the weekend, with sewage in the walls, nothing in the bank, and a kid in the house. I hope she had somewhere to go and friends to call on. But I'd seen enough by then to know those were luxuries.
 
-As for the country estate homeowner—he noticed my coworker had forgotten to photograph parts of his basement. A mud basement, empty of most anything. He submitted his item list months later. Antique furniture and priceless art, something like $800,000 worth.
+As for the country estate homeowner—he noticed my coworker had forgotten to photograph parts of his basement. A mud basement, empty of almost anything. He submitted his item list months later. Antique furniture and priceless art, something like $800,000 worth.
 
 His case in court was simple: "You were there. Prove I didn't have it." The case went on for years. I'm pretty sure he eventually won.
 
