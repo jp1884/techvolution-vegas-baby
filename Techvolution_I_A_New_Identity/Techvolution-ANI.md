@@ -1042,17 +1042,19 @@ The system couldn't tell the difference between desperation and greed. So it ass
 
 Humanity has a base identity that prevents extremists from defining us solely by our genes or upbringing, or genotype or phenotype in nature's eyes. Homo sapiens have a shared culture and physiology that when put together helped us create, use, and spread technology around the world.
 
-The invention of agriculture was the dawn of civilization. It's called the Neolithic Revolution. It occurred independently at different times. First taking root in Southwest Asia's Fertile Crescent 11,000 BC, China 9,000 BC, Mesoamerica 5,000 BC and others regions afterward. As Jared Diamond notes in his landmark _Guns, Germs, and Steel_, each civilization was heavily influenced by the local wildlife and resources, however most locations started some mixture of permanent human settlements, the domestication of animals, clay pottery, and metal making.
+The invention of agriculture was the dawn of civilization. It's called the Neolithic Revolution. It occurred independently at different times. First taking root in Southwest Asia's Fertile Crescent around 11,000 BC, China 9,000 BC, Mesoamerica 5,000 BC and other regions afterward. As Jared Diamond notes in his landmark _Guns, Germs, and Steel_, each civilization was heavily influenced by the local wildlife and resources, however most locations started some mixture of permanent human settlements, the domestication of animals, clay pottery, and metal making.
 
 In every instance civilization drastically increased the productivity of land. For the first time ever, humans had a relatively stable food supply throughout the year.
 
-Freed from the daily hunting and gathering treks, humans had more time on our hands and crucially more jobs to do. We strayed more from the wilderness realm and built new things, divided the labour to do it, and created political regimes to keep everyone working. Within a few thousand years the Stone Age turned into the Bronze, Copper, then Iron Age, each stage remade civilization based on an amazing new material to build the latest tools.
+Freed from the daily hunting and gathering treks, humans had more time on our hands and crucially more jobs to do. We strayed more from the wilderness realm and built new things, divided the labor to do it, and created political regimes to keep everyone working. Within a few thousand years the Stone Age turned into the Bronze, Copper, then Iron Age, each stage remade civilization based on an amazing new material to build the latest tools.
 
 As civilization progressed with each passing year, our nature was increasingly technological. Not necessarily because that's what human nature wanted, or because that's what made us happier, but for the same reason all species such as polar bears and Darwin's finches are created. Because the coach selects the ones harvesting more resources on the game board to help life defeat entropy's sand clock.
 
 With each new technological selection, the coach was creating a new type of player. 
 
-Think how weird and wonderful it is that all humans can breed with each other. We can live anywhere. Most amazingly, anyone can use any tool. There's this awesome story of a native Amazonian kid being handed an iPad and knowing how to use it. It's not hard to imagine how a person living in a jungle could use an iPad and satellite internet to better his life, if only to see where the loggers are headed to next.
+Think how weird and wonderful it is that all humans can breed with each other. We can live anywhere. Most amazingly, anyone can use any tool. Most every tech nerd has been asked help someone setup a new iphone or printer. Yet, once setup, these users connect with friends and buy airline tickets.
+
+This isn't an accident. Designers iterate for generations to make their tools work for everyone. Steve Jobs was exceptional at it. There are stories of a child in the Amazon handed an iPad and using it without instruction. Better to me is the fact, it's not hard to imagine how a person living in a jungle could use an iPad and satellite internet to better his life, if only to see where the loggers are headed to next.
 
 That is why our freedom from extremists and our true nature is so important. Our real-life pains are the thing technology will never feel, yet we designed technology to solve them in a classic case of co-evolution.
 
@@ -1062,23 +1064,25 @@ Co-evolving with technology had a profound effect on our genotypes and phenotype
 
 Humanity was required to seed, inhabit, work, and harvest from a different ecosystem.
 
-Physically, we have very different body types: ectomorph (slender and lean), mesomorph (muscular and athletic), and endomorph (rounder and softer). Each type has distinct characteristics related to muscle mass and fat distribution, meaning whether running long distances, making a shelter, or hammering steel, we have the body type to meet the challenge.
-
-Socially we are quite different. Most any group of people will have a variance of extroverts and introverts, people whose neurobiology makes social interaction rewarding or draining. Humans have varied levels and mixes of shyness, sociability, assertiveness, and comfort with novelty that each changes how a person interprets and interacts with the world.
-
-Our intelligence differs too. Levels of abstract thought, practical proficiency, patience to defer gratification, musical abilities are among the many different ways our intelligence can differ. Some people can recite long histories from their minds, while others can calculate mathematics with ease. Like with our bodies, our mental faculties, interests, hobbies, and passions are very broad and often unique.
-
-Our personalities are different too. We already mentioned the Milgram Experiment which shows how varied each human is to obeying authority figures. There's also the Stanford Experiment, which made a group of university students either prisoners or guards. During the experiment some prisoners obeyed orders, some rebelled, some cops were responsible authority figures, others were nearly sadistic. Another famous personality experiment is the Marshmallow Test, which shows kids a treat and they are told if they don't eat it, they will get two treats. Scientists proved the longer a kid delays gratification, the better their future will be, as most things, from jobs to relationships, reward patience. There are many other such tests that display the varied nature of humans.
+Physically, we vary enormously—in muscle mass, fat distribution, how efficiently we use oxygen. None of this is one gene flipping on or off. Each trait is polygenic: hundreds of tiny genetic variants, each nudging the outcome a little, adding up to a wide spectrum rather than a few fixed types. That's why, as humanity met new problems, our variety meant someone was usually better suited to each one. Rarely did that mean a perfect fit but enough of an edge to get the job done, whether sprinting fast, swimming against the current, or hammering steel.
+ 
+And it's not just our bodies that give abundant variations. Socially we have a wide spectrum of people too. The introvert drained by a crowd, the extrovert fed by it, and every mix of shyness, nerve, and loving tradition to an appetite to pursue the next new thing. Mentally there's people of endless different abilities too. The one person who recites histories from memory, another doing the math in her head, a third plays music no one taught them. No two humans have builds, temperaments, or minds that are quite alike.
 
 As civilization advanced, more of the options in our 3.2 billion DNA base pairs were coming out that might have been trimmed away in the biological world, but were finding niches in a home in civilization and therefore the Game of Technological Life.
 
-I often wonder how my speech impediment would have changed in earlier times. At least in nomadic times, I think it might have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. But as society grew, I likely would have missed out at best, tossed aside at worst, explained within the stories of the time as "cursed" or a simpleton of some kind.
+I often wonder how my speech impediment would have changed in earlier times. At least in nomadic times, I think it might have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. But as society grew, I likely would have missed out at best or tossed aside at worst, explained within the stories of the time as "cursed" or a simpleton of some kind.
 
-Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans, has genetic roots in people sitting by a fire thousands of years ago, and we carry all these with us today. Yet, these quirks find a home in civilization. For myself, not being able to talk too much, undoubtedly changed personal development. For me it made it easier to empathize with others while also making me indignant against social rules about what is polite or acceptable to say—which often adds another layer of complexity when I was often happy to say anything coherently.
+Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans today has genetic roots in people sitting by a fire thousands of years ago. We carry all these with us today, and these quirks find a good home in civilization. For myself, not being able to talk too much, undoubtedly changed personal development. It made it easier to empathize with others while also making me indignant against social rules about what is polite or acceptable to say because these add another layer of complexity when I was often happy to say anything at all.
 
-The point is, the technological ecosystem needed people, and often those with unique personalities fit the bill.
+The point is, the technological ecosystem had many open spots, and often those with unique personalities fit into these niches.
 
-Edward Gibbon had a severe medical problem, forcing him to sit for years of his life. In the wild he'd be disadvantaged if not left for dead, in civilization he wrote likely the best history book of all time, _The Decline and Fall of the Roman Empire_. Isaac Newton was a notorious loner who probably never had sex. Galileo couldn't follow social rules while Steve Jobs washed his feet in toilets, and one must wonder about the mental health of our many political dissidents. Of course, countless others with such mentalities were simply forgotten, their failures unrecorded. Yet, the list of unique individuals, whose chances in the wild are at least suspect, making huge contributions to civilization and technological evolution is many pages in our story.
+Edward Gibbon had a severe medical problem, forcing him to sit for years of his life. In the wild he'd be disadvantaged if not left for dead, in civilization he wrote likely the best history book of all time, _The Decline and Fall of the Roman Empire_. 
+
+History has endless examples of such people. Let's take Isaac Newton and Steve Jobs. On the biological scoreboard these men were failures or oddities—Newton likely died a virgin, Jobs washed his feet in toilets. On the technological one they scored higher than almost anyone who ever lived. The biological and technological scoreboards don't measure the same thing, and civilization is where that gap becomes an asset instead of a death sentence.
+
+The list continues. One must wonder about the mental health of our many political dissidents. Nevermind the people who spent untold hours working to discover a new metal or invent a new pulley with no reason to continue but the vision inside their heads. 
+
+Of course, countless others with such outlier mentalities were simply forgotten, their lives unrecorded. Yet, the list of unique individuals, whose chances to survive in the wild are at least suspect, is huge. Yet, these people keep making huge contributions to civilization and technological evolution.
 
 The reason for any individual's genetics, thoughts, or actions is still very much up for debate. But the fact there is a niche inside a technological ecosystem is apparent.
 
@@ -1086,7 +1090,7 @@ The ones we remember had success because diversity is ecosystem security. Thus, 
 
 And that's the lesson of nature we need to embrace. While we have a genetic history forever in our DNA, our genes, personalities, and culture evolved along with technological change.
 
-Meaning the technological evolution this book is advocating we embrace, has been driving human evolution for generations. Because every Game of Life needs ecosystems of producers, plant-eaters, predators, scavengers, decomposers, and testers, the coach picked human communities who had the varied human genetics and phenotypes needed to be able to staff every job in a growing technological ecosystem.
+Meaning the technological evolution this book advocates has been driving human evolution for generations. To varying degrees, an ecosystem fields producers, plant-eaters, predators, scavengers, decomposers, and testers—because each level has energy waiting to be harvested. Human temperaments fill these niches just as animals do: hoarders, tinkerers, makers, and the rest. A coach keeps whoever keeps scoring energy points, but never assigns roles to anyone. The jobs are open, and over time, someone always grows into them to complete a balanced ecosystem full of checks and balances.
 
 In the technological ecosystem, varied human genotypes and phenotypes use the extended phenotype to fill distinct ecological roles: producers (farms, power plants), plant-eaters (tool users), predators (innovators), scavengers (cheapskates, hoarders), decomposers (recyclers, refactorers, waste managers), and testers (tinkerers, hackers, and crooks). Like any biological ecosystem, these segments work together to better play the game.
 
@@ -1102,13 +1106,13 @@ The need to invent, power, and manually operate tools changed how humans were se
 
 Humans were no longer just hunting and gathering what nature made available, but instead creating and operating a new ecosystem in a modified Game of Life. Civilized humans kept scoring points. Death rates by wars, disease, and infant mortality drop over time as civilization advances from Stone to Bronze, to Iron Ages and beyond because we expanded our environment's carrying capacity with more food, housing, and fresh water. 
 
-Some might consider these changes artificial. After all, stone walls, bronze swords, horse saddles, and everything else in civilization are manmade materials or objects.
+Some might consider these changes artificial. After all, stone walls, bronze swords, horse saddles, and everything else in civilization are man-made materials or objects.
 
 But that would be wrong. Why is a copper water pipe or medical textbook artificial if the copper in our bodies or the wood in decomposing trees are natural? The Game of Life is a battle to grow things that can self-replicate in their environment faster than they degrade. As physicist Richard Muller notes in his book "Now: The Physics of Time", technology does that every bit as much as biology does.
 
-That's why political projects that demand human homogeneity—whether by race, ideology, or class—work against the technological ecosystem's actual need for variety. They don't just constrain individual freedom; they starve the ecosystem of the players it requires.
+That's why political projects that demand human homogeneity—whether by race, ideology, or class—work against the technological ecosystem. They cull the people that would fill the many niches of a healthy ecosystem. They don't just constrain individual freedom; they starve the ecosystem of the players it requires to sustain itself against the true enemy; the great darkness that never stops. Entropy.
 
-The problem is technology does not always grow naturally.
+The problem is technology does not always grow as naturally as we need it to keep playing the game.
 
 ## Chapter 11—Back to Natural
 
@@ -1134,21 +1138,21 @@ We know this in our sub-conscious. Every time there is a technological boom, the
 
 Even the communists, fascists (and of course other ideologies too) confirm the power of technology by denying it to those they want to oppress. Each tries to bring technological progress to their society but do not understand technology grows by the same means as biology, because both are playing the same Game of Life in the eternal job of building and maintaining order before it falls apart.
 
-No broadly adopted system has applied evolutionary thinking to tools themselves. Tool ecosystems, like biological ones, grow, speciate, drift, and follow the other tenets of Darwin's evolution. The rise and fall of countries, peoples, nations and empires tracks this technological evolution more closely than we like to admit because it's a fate that affects us so much. The biggest different in our evolution is there is endless artificial selection, human storytelling, beliefs, and ideologies, that misinterpret and interfere with techvolution.
+No broadly adopted system has applied evolutionary thinking to tools themselves. Tool ecosystems, like biological ones, grow, speciate, drift, and follow the other tenets of Darwin's evolution. The rise and fall of countries, peoples, nations and empires tracks this technological evolution more closely than we like to admit because it's a fate that affects us so much. The biggest difference in our evolution is there is endless artificial selection, human storytelling, beliefs, and ideologies, that misinterpret and interfere with techvolution.
 
 Thus, there are large spurts and conflicts we call civil wars, depressions, and revolutions that are a human story to explain natural events.
 
-We will see it better once we realize we are not Socrates. The grade-school teacher, late night television host, dock worker, or sales manager of a paper distribution company are not selfless observers of society like the famed ancient Greek condemned to drink poison by his own society for simply asking questions and doing what he thought was just.
+We will see it better once we realize we are not selfless beings. Perhaps not even our shining examples such as Socrates ever truly were. But for sure, the grade-school teacher, late night television host, dock worker, or sales manager of a paper distribution company are not selfless observers of society. We all have bills to pay. We shouldn't expect anyone to drop the toolset that feeds them while it still works, however poorly for the rest of society. People let go when the old tool stops paying—not a moment before, and no story will make them change their mind.
 
-Socrates, and his students, might find camaraderie in what biologists call shedding. Animals shed winter coats in spring, deer shed their antlers after mating—every lineage has structures it must let go when playing the game. What served you in one day can become a liability the next.
+I saw this in insurance claims all the time. When their tools stopped working, they craved a clear path to what's next. Give that to a person in a timely fashion, and they respond where a million stories fall flat.
 
-Yet, we hold onto our own branch on the tree of life, defending our outdated tools with stories—while expecting everyone else to drop theirs the moment it makes sense. Watch cable news today. Read about the scribes who fought the printing press in Gutenberg's time, or the biblical storytellers who fought Galileo. The pattern is the same: holders of outdated technology defending their position with stories, trying to keep the past alive long enough to preserve their status.
+But if our tools still work, like a DVD in the Internet Age, we hold onto our own branch on the tree of life, defending our outdated tools with stories—while expecting everyone else to drop theirs the moment it makes sense. Watch cable news or visit a movie theater today to see it yourself. Or you can read about the scribes who fought the printing press in Gutenberg's time, or the biblical storytellers who fought Galileo. The pattern is the same: holders of outdated technology defending their position with stories, trying to keep the past alive long enough to preserve their status.
 
 Holding back evolution is a major cause of our social unrest, depressions, civil wars, and revolutions. Harmful artificial selection often blocks the mass-adoption of helpful new tools—countered, historically, by what some have called "the march of reason": helpful stories that get evolution moving again.
 
 To stop talking about creating justice, we can instead be intentionally building it. The first step is a technological identity.
 
-As renowned biologist Ernst Mayr says "individual life forms are the unit of selection." Meaning a polar bear is the unit of selection. Every polar bear depends on the ecosystem of which it is a member. It must find a way to do its job, and reciprocate, to earn the resources it needs to stay in the game.
+As renowned biologist Ernst Mayr says "individual life forms are the unit of selection." Meaning a polar bear is the unit of selection. Species, groups, ecosystems are just a collection of individuals. Yet any individual can better herself without needing permission or waiting on anyone else. The polar bear doesn't serve her ecosystem—she serves herself and her cubs, and the working ecosystem is what all that work adds up to. Each lifeform must always play the game by earning her own resources or she leaves the board.
 
 Any other identity works against the ecosystem. Tool-use is virtually in our DNA.
 
@@ -1164,15 +1168,20 @@ Every person is a natural human player of the game rooted in biological instinct
 
 That means finding the unique blend of genotype and phenotype that lets you produce, graze, predate, decompose, or test somewhere inside the technological ecosystem.
 
-The ecosystem loves both diversity and mass production, and validates both by requiring every member to reciprocate.
+The game rewards both diversity and mass production. Not because anyone requires it. But because each is a different way to harvest energy the gameboard makes available.
 
-The system grows when each member contributes—life's never ending work of organizing more matter into structures that hold together against the dissolving, collapsing, eroding, and decaying that takes everything left unmaintained and unenergized.
+The system grows when each member finds a new way to harvest resources. That's how life stays up to day in the never ending work of organizing more matter into structures that hold together against the dissolving, collapsing, eroding, and decaying that takes everything left unmaintained and unenergized.
 
-Entropy doesn't decide whether life prospers. Entropy only looks like an enemy when life stops doing the work. Life decides—by doing the work of organizing, reciprocating, and shedding what no longer fits. The work is the only requirement. As long as some lineages keep doing it, life continues. Whether your lineage continues depends on whether you do the work.
+Entropy doesn't decide whether life prospers. Entropy only looks like an enemy when life stops doing the work. Life decides—by doing the work of organizing matter, harvesting energy to maintain it, and finally shedding what no longer fits. The work is the only requirement. As long as some lineages keep doing it, life continues. Whether your lineage continues depends on whether you do the work.
+
+Entropy is always there, always pulling apart. But it isn't a grade to be given by a teacher. Rather its such a constant for everything and everyone, that you, the Moon, and the Sun, all have entropy tearing you apart. So, whether a biological lineage prospers depends on whether it keeps doing the work of organizing faster than entropy dissolves. It's a fair fight for everyone.
 
 How did we spread around the world, and how did we develop tools? We planted and spread tool-species inside ecosystems of course. And that required, and still requires, four modes of understanding: nature, mythologies, stories, and science.
 
 Let's look at these stories so we can realize why techvolution is the scientific understanding of the human condition.
+
+Typos: "shinning" → shining; "stays up to day" → up to date; "its such a constant" → it's; "sub-conscious" → subconscious.
+
 
 ## Chapter 12—Vignettes 
 
