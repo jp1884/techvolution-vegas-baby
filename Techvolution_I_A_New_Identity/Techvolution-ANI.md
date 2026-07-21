@@ -169,11 +169,17 @@ Take the common squirrel as an example. The small creature survives frigid winte
 
 Unlike genes and phenotypes, extended phenotypes become part of the environment and are available for other creatures to use. For example, hermit crabs move into empty snail shells, fish and frogs fill the ponds that beavers dammed, and squirrels sometimes fix up and den in old bird nests. This shows that the creator of an extended phenotype is not always its user.
 
-Raccoons are the ultimate example. Originally from the tropical forests of Central America, these intelligent creatures naturally create dens in hollow trees and grow thicker fur and fat stores for winter. However, unlike squirrels, raccoons do not naturally insulate their burrows, store food, or fully hibernate. Still, they have managed to spread their range into Mexico and warmer parts of America. And when human civilization's barns, garages, and garbage, expanded into colder climates they can't naturally survive in. Although urban raccoons created none of these things, they can use them, and so natural selection rewards them in great numbers. But unlike a squirrel, who renews the biological ecosystem it feeds on by planting many nuts each year, the urban raccoon renews nothing it depends on—giving back neither to the technological ecosystem that feeds it nor to the biological one it has left behind.
+Raccoons are the ultimate example. Originally from the tropical forests of Central America and Mexico, these intelligent creatures create dens in hollow trees and grow thicker fur and fat stores for winter. However, unlike squirrels, raccoons do not insulate their dens, store food, or fully hibernate.
+
+They slowly increased their range into warmer parts of America. But when human barns, garages, and garbage arrived, these adaptive creatures' range exploded. Piggybacking on civilization, raccoons not only survived climates they couldn't naturally endure, they thrived. Many urbanites around the world know all too well. It's why our garbage bins must be raccoon-proofed. Or at least try to be, as these creatures often outwit us.
+
+Contrast them with another city creature, squirrels. Urban raccoons create nothing in the urban environment, but can still consistently find enough homes and food to prosper. A squirrel does the same, but renews the biological ecosystem it feeds on by planting many nuts each year. An urban raccoon renews nothing it depends on—giving back neither to the technological ecosystem that feeds it nor to the biological one it has left behind. In nature, taking and giving back are the same act—the squirrel can't feed itself without seeding the forest. Our technological ecosystem has no such mechanism. Here, you can try to take without ever giving back. It's up to parents, belief systems, or policies to keep us honest.
 
 So, to stay a player in the game of life, creatures can stand out via their genes, phenotypes, and extended phenotypes. The right mixture means an animal can harvest enough resources and protect itself long enough to procreate and thereby keep playing the game.
 
 Now, in our quest to better understand ourselves, which of these scenarios do you think best describes humans in the 21st century?
+
+- without the mechanism, we urban raccoons must do what natural selection does automatically for the squirrel....
 
 ### Doesn't My Insurance Cover This?
 
@@ -243,62 +249,31 @@ Despite his name being so attached to it day, evolution wasn't Darwin's idea. Ot
 
 The gap stayed open for seventy years. Naturalists accepted Darwin's claim that species share ancestry within a decade or two. But they did not accept natural selection as the mechanism. Rivals crowded in: heredity shaped by experience, evolution driven by internal momentum, change arriving in single jumps. Historians call this the eclipse of Darwinism. When Mendel's pea-plant experiments were rediscovered in 1900, they were thought to cut against Darwin rather than rescue him. Wilhelm Johannsen's 1909 terms—genotype for what an organism inherits, phenotype for what it becomes—gave the argument a vocabulary, but not a resolution.
 
-What settled it was statistics. Beginning around 1918, mathematicians showed that many discrete genes, each of small effect, add up across a population to exactly the smooth gradual change Darwin had described. The blending problem dissolved: genes don't blend, they shuffle. By the 1940s selection and genetics had fused into the Modern Synthesis, and biologists could finally demonstrate the intricate workings—co-evolution, genetic variation, speciation—that populated our planet with an astonishing diversity of life over billions of years.
-
 Simultaneously, fields such as physics, chemistry, geology, and mathematics were advancing, enriching humanity with wonders like electricity, medical cures, and aviation. As nature revealed its mysteries, one might ask: Why did we not apply evolution's principles to our own civilization?
 
-We attempted to do so, but we only saw our genotype or phenotype in our reflection, and were therefore destined to fail. Remember that evolution does not prescribe good ideas; it simply selects out the bad ones. Two of the worst ideas ever subjected to that test were fascism and communism. One looked at us and saw only genotype: a person is defined by their bloodline, so act accordingly and purge the dead weight with eugenics. The other saw only phenotype: remake the conditions with better engineering and everything is equal. Neither would have put it in those words. Both did say that by imposing their own selective pressure on ourselves, humanity would flourish.
+We attempted to do so, but we only saw our genotype or phenotype in our reflection, and were therefore destined to fail. Remember that evolution does not prescribe good ideas; it simply selects out the bad ones. Two of the worst ideas ever subjected to that test arose as scientists were arguring the mechanisms for evolution.
 
-Of course, humanity has had many bad ideas before. Fascism and communism were particularly horrible because each came of age when the modern science of genes and heredity was young enough to bend to their premises.
+These were fascism and communism.
 
-Nazi scientists attributed human success and failure to genetic heredity alone. Destiny was sealed at conception, unreachable, and legible in a person's body. Many of Europe's best minds—John von Neumann, Edward Teller, Albert Einstein—fled. Left behind was a regime that measured skulls to rank intelligence and traced ancestry to sniff out supposed undesirables. Note, most Nazi leaders were not accomplished individuals but could now claim greatness because of their gene pool.
+One looked at us and saw only genotype: each person is solely defined by their bloodline, so act accordingly and promote the super humans and purge the dead weight with eugenics. The other saw only phenotype: remake the human condition by empowering educated decision makers to engineer a better human.
 
-Soviet science made the opposite wager. Communism promised that changing a man's conditions changes the man. So unchangeable genetic features were a non-starter. So, they revived Lamarckism, an old idea Darwin's work had displaced. It said heredity was soft. Meaning you can condition wheat to flower on a new schedule, and its offspring will keep the lesson. Researchers like Nikolai Koltsov, Georgiy Nadson, Nikolai Vavilov who rightfully disagreed were persecuted or killed. By 1948 genetics itself was banned. The result was a supposed scientific proof that any plant or person would prosper in any environment, if only it were properly raised for it.
+Clearly, the mapping isn't perfect. Neither regime used these terms exactly and their beliefs and actions had other inputs. But both concentrated on genotype or phenotype to a great degree. Which explains why these scientifically advanced societies accepted being so murderous to their own members, hated (and hate) each other so much, and were fundamentally unable to compromise.
 
-
-With access to modern machinery, mathematics, and other advancements, one ideology enacted mass imprisonment, forced sterilization, and the Holocaust, while the other did mass incarcerations, mass executions, and caused devastating famines by collectivizing farmland or planting crops in climates any farmer would know were doomed.
+Clearly, humanity has had many bad ideas before. Fascism and communism were particularly horrible because each came of age when the science of genes and heredity was young enough to bend to their premises.
 
 However, as awful as it might sound, the problem isn't that an extreme couldn't have a technological success. Each was doomed because neither could sustain any success; extremes have complacency embedded in them.
 
-Let's look at World War II (1939-1945) for an example. This history is told in many books (my favorite being _Why the Allies Won_), but in short Germany's early WWII victories came from a real innovation—integrating tank, plane, and infantry by radio into fast-acting "combined arms" mobile warfare. These ideas were partly borrowed from British academies and proved very effective when turned against slower, hierarchical Allied armies still using massive bunkers and creaky, slow command structures. Germany easily invaded a hard-fighting Poland (1939) in a matter of weeks. And when it turned its Blitzkrieg on Holland, Belgium, and France (1940), in six weeks it won the decisive victory that four years of horrific warfare in World War I (1914-1918) could not deliver.
+Each regime won early on genuine innovation—Germany's combined-arms warfare Blitzfrieg that rolled over Europe, the Soviets' crash industrialization that modernized the country. Then each stalled, for the same reason: they had purged the very half of society that helps a lifeform adapts. Extremes carry their own complacency; a system that silences half is dissenters, tinkerers, and doubters loses the variety it needs to keep evolving. That failure is the deepest lesson of the century, and we'll return to it. For now, the point is simpler: neither genotype nor phenotype, neither genetic markers like personal initative and phenotype related markers like regulation are what wins the game.
 
-But the Nazis read early wins as proof of their superiority rather than the application of tools anyone can emulate. Military complacency set in quickly. With Western Europe occupied, they thought "racially inferior" Soviets would be a push-over. Although their invasion (1941) caused an egregious loss of Soviet life and property, within a few years the Soviets were fielding better tanks and planes and approaching German military command sophistication. By 1943 the tide of the war turned.
+This was proven in biology too late. The debate around Darwin was settled around the same time, with statistics. Beginning around 1918, mathematicians showed that many discrete genes, each of small effect, add up across a population to exactly the smooth gradual change Darwin had described. The blending problem dissolved because genes don't blend, they shuffle around. By the 1940s selection and genetics had fused into the Modern Synthesis, and biologists could finally demonstrate the intricate workings—co-evolution, genetic variation, speciation—that populated our planet with an astonishing diversity of life over billions of years.
 
-For its part, the Allies did much better too, especially America. Its relative openness meant many exiled European scientists already called it home. Still, when they entered WWII late in 1941, they had aged commanders, dated weapons, and a mere 200,000-man army. When war was declared, they adapted in many ways. Younger commanders like Bradley, Patton, and Eisenhower were given commands. They mobilized all of society with the "V for Victory" slogan and made bombers, tanks, and ships at record pace. The result was seen on the battlefield, where America did combined arms mobile warfare better than Germany ever had.
+The lesson to learn is that defining human success as either a genotype or phenotype is a dead-end. Nature doesn't sort itself that way. Darwin's engine was lifeforms defined by both, using variations to compete against each other, or more commonly, to find untapped niches. What falls out of that competition looks a lot like cooperation. A tree grows tall to beat its neighbors to the light, and happens to shade, shelter, hold soil, and feed birds and mammals while doing it. In nature, nobody is setting out to help anybody. The forest happens anyway.
 
-Nazi Germany, so obsessed with genetic explanations for its success, couldn't compete. They resisted mobilizing women as workers or fighters despite dire need for both. Worse, since they thought racism explained the early wins, they thought more racism would reverse the losses. While some leaders worked to increase production (which did increase), the regime was trapped inside its own extreme, and continued to hunt down undesirables and hoped in vain that a self-declared intelligence advantage would create "wunderweapons" to save them. They were overrun anyway, and Nazi leaders called for the nation's own destruction for having failed the racial test of history. Note that the other major member of the Axis, Imperial Japan, had a similar racial theory, early success, and ultimate failure too.
+Humans, with our raccoon like living in a new technological space, we must emulate nature as best we can to reach its bounty. Extremism is not it.
 
-Extremism would soon fail the Soviets as well. Even after defeating the Nazis and moderating its extreme policies (de-Stalinization), it couldn't moderate its core beliefs. Despite technological triumphs like the first satellite (1957) and sending probes to Venus (1966-1983), Soviet progress stalled for the same reason a Soviet biologist could not follow the evidence. The state owned the laboratory, so the state's doctrine won. Everything else worked the same way. Their economy had no "people in a garage," no small businesses, no independent universities. Soviet leaders like control so much they never let technological developments filter down to regular people. Without independent research or private property there was little "creative destruction". The system could correct itself—genetics was allowed again after 1964—but it was always hard try new things and see what works.
+Modern technology is awash in examples. The transistor, internet, DNA mapping, and so much more was done by a confluence of interests. Selfless researchers funded to discover the next big insight. NASA and military contracts that invest in early products nobody else could afford. Finally, private business who push these products to regular people and so by bringing production costs down and empower regular people, whose tax dollars continue to fund original research fueling this ecosystem.
 
-In contrast, when America put rockets in space, average citizens were following in real-time on electronics sharing the same technology. As Soviet innovation stopped in the 1970s, the Soviet Union grew ever more dependent on oil exports to fund a bloated state bureaucracy and military. It needed to buy the advanced industrial equipment, and even food, it could not produce itself. When oil prices fell in the 1980s, the entire Soviet system imploded as its various peoples either voted to abandon it or watched as even once-committed believers let the communist project die.
-
-The lesson to learn is that defining human success as either a genotype or phenotype is a dead-end. Nature doesn't sort itself that way. Darwin's engine was competition—but what falls out of that competition looks a lot like cooperation. A tree grows tall to beat its neighbors to the light, and happens to shade, shelter, hold soil, and feed birds while do it. Nobody is setting out to help anybody. The forest happens anyway.
-
-Biological ecosystems worldwide showcase it. Even ones in your local city park. What a healthy one has is range: deep roots and shallow roots, early bloomers and late, sun-lovers and shade-dwellers, each taking a slice of the light, water, and soil the others can't reach. Nothing goes to waste, because something is adapted to everything. While many are used to seeing landscapers plant a few tidy trees, the Miyawaki Method shows how much more a plot can hold — many native species packed together, hardwoods and undergrowth, sun and shade, growing denser and faster than any one species could manage alone.
-
-Here's one example of how mixing both ideas works so well.
-
-In 1945, a technical genius envisioned the world we live in today. Before anyone sent an email or browsed Wikipedia, American engineer and inventor Dr. Vannevar Bush, thought it up. He was fighting World War II, and in _As We May Think_ he dreamed computer technology would cure the human condition.
-
-These visionaries are hard to come by. Yet they exist in every society. The key is how to bring their ideas to life.
-
-We already learned healthy ecosystems are not created by concentrating on genotype or phenotype extremes, but by following nature and allowing personal ambition and mass-production to cohabit with collective benefit and diversity.
-
-The invention, development, and proliferation of the tiny transistor makes the point very well. It came from a partnership no single ideology contains: government demand, private enterprise, open research, and open market fused into one pipeline. Vannevar Bush embodied it. He was the dean of MIT School of Engineering, a Raytheon founder, and America's wartime science chief. He described how to fund this system in _Science, the Endless Frontier_.
-
-The transistor is a great example of the pipeline's success. It was discovered at Bell Labs, an open research lab (1947). Its expensive, uncertain early development was paid for by military and NASA contracts to companies like Fairchild Semiconductor. With the resources and incentive, these scientists soon turned a single transistor into the first integrated circuits (1959), which within a decade were packing hundreds of transistors.
-
-The pipeline continued advancing transistor development because of the competitive market. As military rocket, pocket calculator, and transistor radio sales exploded, western scientists quite easily found funding to leave their universities and employers to start their own companies. These newcomers drove development into overdrive, and soon one of their so-called "Fairchildren", Intel, invented the microprocessor (1971). With it thousands of transistors came on a chip that could be reprogrammed for any application.
-
-Within a few decades the transistor went from being unknown, to the size of a pencil eraser, to powering home computers. Intermixing social oversight with personal ambition produced not only microprocessors, but the internet, personal computers, and many other wonders in an ongoing wheel of research and development. Soviet thinkers wrote similar theories about the future, but could only watch while others built it. The Nazi and Imperial Japanese regimes were long dead. Like a monoculture or randomly assembled garden, each extreme died quickly after it was planted.
-
-The lesson for us is how natural the pipeline is. This mix of cooperation and conflict works the same for technological ecosystems as it does in nature. Both regimes broke the same law from opposite directions. Too much concentration and the ecosystem is a monoculture with a few favored strains taking the light while everything else is artificially cleared away. Too much diversity and it's a jumble where species with no shared history are artificially forced together and can have difficult reciprocating. Either way it can threaten a collapse.
-
-Look at who the pipeline needs. The obsessive researcher who'd be useless at selling. The institution-builder who thinks in decades. The risk-taker who quits a stable job to start a new company. The salesman who never learns how the chip works but helps put it in ten million home radios. None would enjoy each other's jobs, and none are an ideology—they're temperaments every society produces and should enable. The extremes fail by telling half of them they don't belong. A good pipeline works when it seats them all. 
-
-Inside a healthy ecosystem the conflict isn't existential—it's at the edges. How much public money, who captures the profit, who carries the risk. That fight is real and never ends. But it rides on a partnership none of them should ever opt out of.
-
-The cost of ongoing development is this creative destruction. Our new identity will require us to embrace changing roles and jobs as technologies develop along the pipeline. But more importantly, we must realize whatever our preferred ideology, technological evolution demands we embrace moderation. The failures of communism and fascism show the alternative: each purged the half of society it distrusted, and each stalled. Neither camp can be purged, because the ecosystem needs both—and that forced co-dependency is exactly what keeps life adaptable.
+The cost of ongoing development is creative destruction. Our new identity means embracing changing roles as technologies evolve. And whatever our politics, technological evolution demands moderation. Like two sides of a coin, neither camp can be purged, because the ecosystem needs both. The genotype's endless new variants and the phenotype's fine-tuning of what already works. One generates options, the other perfects them. Purge either and life stops adapting.
 
 It must be asked, with all the death and conflict caused by attempts to evolve our genotype or phenotype, why was it so difficult for humanity to recognize ourselves as technological beings? The reason is the same as why accepting evolution took so long: it contradicts the paradigms entrenched in our minds. Like all life forms, competing in the game of life is in our nature. And what better strategy for survival than possessing a tool that others lack, or better yet, need?
 
@@ -1136,6 +1111,21 @@ Because biological identities are not how the coach primarily sees us.
 
 We know this in our sub-conscious. Every time there is a technological boom, the threat of job losses rises. 
 
+
+
+<!-- Vannevar Bush goes here somewhere.... -->
+
+
+
+
+
+
+
+
+
+
+
+
 Even the communists, fascists (and of course other ideologies too) confirm the power of technology by denying it to those they want to oppress. Each tries to bring technological progress to their society but do not understand technology grows by the same means as biology, because both are playing the same Game of Life in the eternal job of building and maintaining order before it falls apart.
 
 No broadly adopted system has applied evolutionary thinking to tools themselves. Tool ecosystems, like biological ones, grow, speciate, drift, and follow the other tenets of Darwin's evolution. The rise and fall of countries, peoples, nations and empires tracks this technological evolution more closely than we like to admit because it's a fate that affects us so much. The biggest difference in our evolution is there is endless artificial selection, human storytelling, beliefs, and ideologies, that misinterpret and interfere with techvolution.
@@ -1179,9 +1169,6 @@ Entropy is always there, always pulling apart. But it isn't a grade to be given 
 How did we spread around the world, and how did we develop tools? We planted and spread tool-species inside ecosystems of course. And that required, and still requires, four modes of understanding: nature, mythologies, stories, and science.
 
 Let's look at these stories so we can realize why techvolution is the scientific understanding of the human condition.
-
-Typos: "shinning" → shining; "stays up to day" → up to date; "its such a constant" → it's; "sub-conscious" → subconscious.
-
 
 ## Chapter 12—Vignettes 
 
