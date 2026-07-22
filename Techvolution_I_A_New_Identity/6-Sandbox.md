@@ -5110,6 +5110,14 @@ Accepting our technological nature is the crucial bridge for these two perspecti
 
 ===
 
+Book III—Bumblebee Economics: Maria's job was one-size-fits-all: a standardized role built on mass-producing one technology. That is the Industrial Age's great achievement—and its hidden price. When career scripts are mass-produced, everyone in the role falls at once.
+
+Nature never pays that price. A squirrel can't hoard a forest's worth of nuts—they rot, and the ones it forgets become trees. In nature, taking and giving back are welded into one act. Our economy has no such weld, which is why we need laws and ethics to do what spoilage does for free.
+
+Book III takes on the human layer—how we exchange, staff, and sell—so skills carry across technologies the way a bee carries pollen between flowers. And it asks what it would take to put the weld back.
+
+===
+
 ### Avoiding Evolution's Stare
 
 <!-- this is the soviet/nazi section of the introduction. moved to chapter 11 for space reasons -->
@@ -5181,7 +5189,9 @@ It must be asked, with all the death and conflict caused by attempts to evolve o
 
 ===
 
+While being constructed in the early 1930s airports were already operating across Western Europe. Passengers were moving across Europe in hours what used to take days. I can see the Belgium workers, many of whom would have remembered the Great War all too well, thinking they were securing their country from suffering that horror ever again, while dreaming of taking their families on exotic vacations on a wonderful airplane.
 
+===
 
 
 

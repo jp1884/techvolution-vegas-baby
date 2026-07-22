@@ -31,7 +31,7 @@ If you don't remember DVDs, ask your parents. In Mumbai or Milwaukee, São Paulo
 
 What could synchronize the lives of billions of strangers like that?
 
-Notice what every standard explanation gets wrong. Blame Netflix, and you can't explain why Blockbuster's own executives passed on buying it. Blame Maria, and you can't explain the thousands of managers who made identical choices. Blame policy, and you can't explain why the same collapse happened in every country at once. Only one lens explains all three: a new technology offered itself to users, and the old adaptation was abandoned. No villain decided Maria's fate. Technology and its users evolved, as they have for ages—and Maria was standing in the path of a natural process no one had taught her to foresee and plan for.
+Notice what every standard explanation gets wrong. Blame Netflix, and you can't explain why Blockbuster's own executives passed on buying it. Blame Maria, and you can't explain the thousands of managers who made identical choices. Blame policy, and you can't explain why the same collapse happened in every country at once. One lens explains all three at once: a new technology found users who wanted what it offered, and the old adaptation was abandoned. No villain decided Maria's fate. Technology and its users evolved, as they have for ages—and Maria was standing in the path of a natural process no one had taught her to foresee and plan for.
 
 Maria's is just one chapter in an ongoing story—and the next chapter asks about you, today. 
 
@@ -51,7 +51,7 @@ Like the DVD or high-speed internet, none of this stuff just appeared. Someone t
 
 That is Maria's problem, scaled up to all of society. And we don't know how to correct our path.
 
-A biologist would see the problem easily. When an ecosystem falls out of balance—too much of one creature, too little of another—she studies it, finds the imbalance, and works to restore it. We have the same kind of problem. We just don't yet know how to see it.
+A biologist would see the problem easily. WWhen an ecosystem stops working—too much of one creature, too little of another—she studies it, finds the imbalance, and works to restore it. We have the same kind of problem. We just don't yet know how to see it.
 
 And we have not been ignoring it. We have been drowning in proposed answers—every day another ocean of speeches, articles, and posts promising the fix. We've listened, and our frustration has curdled into a growing hatred of our own countrymen. Decades of our best efforts have added up to failure—not because we tried too little, but because we were aiming at the wrong target.
 
@@ -79,7 +79,7 @@ _Techvolution: On the Origin of Technological Species_ presents a different way 
 
 **Book II—Mixed Ideological Politics:** A heat pump doesn't know it's "green". A diesel truck doesn't know it's "red-blooded American". We attach these labels with stories and then reject good tools for wearing the wrong one. After Book I told us our true identity, Book II teaches us how to strip away story-based identities from any tool so we can install solar panels and a diesel generator without thinking we've betrayed an ideological tribe. This radical freedom to adapt tools to the environment is political moderation reimagined for the people of the Internet Age.
 
-**Book III—Bumblebee Economics:** Maria's job was one-size-fits-all: a standardized role built on mass-producing one technology. That is the Industrial Age's great achievement—and its hidden price. When career scripts are mass-produced, everyone in the role falls at once. Nature never pays that price. Like bees and flowers, species co-evolve through constant *interaction*. We're good at standardizing objects—DVDs, shipping containers, VIN numbers—but we do not standardize how we use and exchange them: the selling, the staffing, the moving of goods to people. So when the disc died, Maria's hard-won practices had nowhere obvious to go. Book III takes on the human layer, so our skills carry across technologies and industries the way a bee carries pollen between flowers.
+**Book III—Bumblebee Economics:** Maria's job was one-size-fits-all: a standardized role built on mass-producing one technology. That is the Industrial Age's great achievement—and its hidden price. When career scripts are mass-produced, everyone in the role falls at once. Nature never pays that price. Like bees and flowers, species co-evolve through constant *interaction* that automatically reduces waste. We're good at standardizing objects—DVDs, shipping containers, VIN numbers—but we do not standardize how we use and exchange them: the selling, the staffing, the moving of goods to people. So when the disc died, Maria's hard-won practices had nowhere obvious to go. Book III takes on the human layer, so our skills carry across technologies and industries as naturally as a bee carries pollen between flowers.
 
 `Understand yourself → Learn to select better tools → Build bounty with others`
 

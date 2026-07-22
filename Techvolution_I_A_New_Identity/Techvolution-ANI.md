@@ -245,7 +245,7 @@ Unaware of most modern tools, we resemble raccoons opportunistically using techn
 
 ### Avoiding Evolution's Stare
 
-Despite his name being so attached to it day, evolution wasn't Darwin's idea. Others had proposed that species change. What Darwin and Alfred Russel Wallace offered, in 1858, was a mechanism: natural selection. It faced two obstacles. One was time. Earth seemed far too young to have produced so many creatures. Then radioactivity revealed a planet billions of years old. The second was harder. Nobody knew how traits were inherited, and the prevailing assumption was wrong: that offspring simply blend their parents. Contemporaries asked of Darin, how could any new advantage be selected if mating halves our advantages every generation?
+Despite his name being so attached to it day, evolution wasn't Darwin's idea. Others had proposed that species change. What Darwin and Alfred Russel Wallace offered, in 1858, was a mechanism: natural selection. It faced two obstacles. One was time. Earth seemed far too young to have produced so many creatures. Then radioactivity revealed a planet billions of years old. The second was harder. Nobody knew how traits were inherited, and the prevailing assumption was wrong: that offspring simply blend their parents. Contemporaries asked of Darwin, how could any new advantage be selected if mating halves our advantages every generation?
 
 The gap stayed open for seventy years. Naturalists accepted Darwin's claim that species share ancestry within a decade or two. But they did not accept natural selection as the mechanism. Rivals crowded in: heredity shaped by experience, evolution driven by internal momentum, change arriving in single jumps. Historians call this the eclipse of Darwinism. When Mendel's pea-plant experiments were rediscovered in 1900, they were thought to cut against Darwin rather than rescue him. Wilhelm Johannsen's 1909 terms—genotype for what an organism inherits, phenotype for what it becomes—gave the argument a vocabulary, but not a resolution.
 
@@ -257,7 +257,7 @@ These were fascism and communism.
 
 One looked at us and saw only genotype: each person is solely defined by their bloodline, so act accordingly and promote the super humans and purge the dead weight with eugenics. The other saw only phenotype: remake the human condition by empowering educated decision makers to engineer a better human.
 
-Clearly, the mapping isn't perfect. Neither regime used these terms exactly and their beliefs and actions had other inputs. But both concentrated on genotype or phenotype to a great degree. Which explains why these scientifically advanced societies accepted being so murderous to their own members, hated (and hate) each other so much, and were fundamentally unable to compromise.
+Of course, the mapping isn't perfect. Neither regime used these terms exactly and their beliefs and actions had other inputs. But both concentrated on genotype or phenotype to a great degree. Which explains why these scientifically advanced societies accepted being so murderous to their own members, hated (and hate) each other so much, and were fundamentally unable to compromise with the other.
 
 Clearly, humanity has had many bad ideas before. Fascism and communism were particularly horrible because each came of age when the science of genes and heredity was young enough to bend to their premises.
 
@@ -537,7 +537,7 @@ That is why entropy is often associated with the the arrow of time. Events in th
 
 All this means there is no going back. So, not only is every place in the Universe unique, but so is every moment.
 
-Albert Einstein called it space time. This term combines the three dimensions of space we saw in the game board (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
+Albert Einstein inspired scientists called it space time. This term combines the three dimensions of space we saw in the game board (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
 
 And this is our game clock.
 
@@ -1091,7 +1091,7 @@ The problem is technology does not always grow as naturally as we need it to kee
 
 ## Chapter 11—Back to Natural
 
-Technology was on the same team as biology the day we cooked with fire. Heat breaks down proteins and starches, making them more accessible to digestive enzymes. This means our body doesn't have to work as hard to break down the food molecules. Your digestive system can extract nutrients more efficiently and with less effort.
+Technology was on the same team as biology the day we cooked with fire. Heat breaks down proteins and starches, making them more accessible to digestive enzymes. This means our body doesn't have to work as hard to break down the food molecules, so your digestive system can extract nutrients more efficiently and with less effort.
 
 Cooking can reduce the energy cost of digestion by roughly 10-30% depending on the food.
 
@@ -1109,32 +1109,67 @@ The total weight of everything humans have built—buildings, vehicles, infrastr
 
 Because biological identities are not how the coach primarily sees us.
 
-We know this in our sub-conscious. Every time there is a technological boom, the threat of job losses rises. 
-
-
-
-<!-- Vannevar Bush goes here somewhere.... -->
-
-
-
-
-
-
-
-
-
-
-
+We know this in our subconscious. We know the joy of leaving pay-per-minute analog long-distance telephone calls for free worldwide video calling. We know the fear of our livelihood being upturned by digital bookstores or online streaming. Every time a new technology drops, we know the feeling of joy and dread. But like a raccoon who's learned to discern the noises of a busy restaurant, we don't really understand why the trends of technology come and go.
 
 Even the communists, fascists (and of course other ideologies too) confirm the power of technology by denying it to those they want to oppress. Each tries to bring technological progress to their society but do not understand technology grows by the same means as biology, because both are playing the same Game of Life in the eternal job of building and maintaining order before it falls apart.
 
 No broadly adopted system has applied evolutionary thinking to tools themselves. Tool ecosystems, like biological ones, grow, speciate, drift, and follow the other tenets of Darwin's evolution. The rise and fall of countries, peoples, nations and empires tracks this technological evolution more closely than we like to admit because it's a fate that affects us so much. The biggest difference in our evolution is there is endless artificial selection, human storytelling, beliefs, and ideologies, that misinterpret and interfere with techvolution.
 
-Thus, there are large spurts and conflicts we call civil wars, depressions, and revolutions that are a human story to explain natural events.
+Thus, there are large spurts and conflicts we call civil wars, depressions, and revolutions—a human story laid over natural events.
 
-We will see it better once we realize we are not selfless beings. Perhaps not even our shining examples such as Socrates ever truly were. But for sure, the grade-school teacher, late night television host, dock worker, or sales manager of a paper distribution company are not selfless observers of society. We all have bills to pay. We shouldn't expect anyone to drop the toolset that feeds them while it still works, however poorly for the rest of society. People let go when the old tool stops paying—not a moment before, and no story will make them change their mind.
+The last century ran that experiment twice, at enormous cost. We met both attempts in the introduction: fascism and communism, each convinced it had found the engine of human success, each bound to fail. Here is how it played out.
 
-I saw this in insurance claims all the time. When their tools stopped working, they craved a clear path to what's next. Give that to a person in a timely fashion, and they respond where a million stories fall flat.
+One looked at us and saw only genotype: each person solely defined by their bloodline, so promote the supermen and purge the dead weight. The other saw only phenotype: remake the human condition by empowering educated decision-makers to engineer a better human.
+
+Nazi scientists attributed human success and failure to genetic heredity alone. Destiny was sealed at conception, unreachable, and legible in a person's body. The fact that many of Europe's best minds like John von Neumann and Albert Einstein fled for their apparent unworthiness dissuaded no believer. Left behind was a regime that measured skulls to rank intelligence and traced ancestry to sniff out more supposed undesirables.
+
+Soviet science made the opposite wager. Communism disliked genetics which countered their ideal that changing a man's conditions always changes the man. So, they revived Lamarckism, an old idea Darwin's work had displaced. This theory said heredity could change based on environmental factors. Meaning for example, we can "teach" wheat to flower on different seasons and its offspring will inherit this new adaptation. When respected researchers like Nikolai Koltsov and Nikolai Vavilov rightfully disagreed they were persecuted or killed. By 1948 genetic research itself was banned. The result was a supposed scientific proof that any plant or person would prosper in any environment, if only it were properly raised for it.
+
+However, as awful as it might sound, these extremes could have technological success. Both used new machinery, mathematics, and other advancements to build modern economies and militaries. Each was doomed however, because neither could sustain any success; extremes have complacency embedded in them.
+
+Let's look at World War II (1939-1945) for our first example. This history is told in many books (my favorite being _Why the Allies Won_), but in short Germany's early WWII victories came from a real innovation—integrating tank, plane, and infantry by radio into fast-acting "combined arms" mobile warfare. These ideas were partly borrowed from British academies and proved very effective when turned against slower, hierarchical Allied armies still using massive bunkers and creaky, slow command structures. Germany easily invaded a hard-fighting Poland (1939) in a matter of weeks. When turning its Blitzkrieg on Holland, Belgium, and France (1940), Germany faced its World War I (1914-1918) enemies once again.
+
+Combined arms warfare was not an original idea. Since World War I, the radio, airplane, and motor engine were invented and everyone knew they would change not just society, but warfare too. Yet, the Germans, perhaps because they were poor and had a limited military budget, implemented new ideas faster than anyone else. An early test was the massive Belgium Fort Eben-Emael. Made from all the lessons of World War I, its strategic position protected several important bridges that controlled the Belgian heartland from invasion.
+
+Its defenders waited for German artillery and soldiers with rifles. Instead the Germans landed gliders on the fort's roof. These paratroopers closed the ventilation vents, assaulted the fort, and the fortress fell in under two days. German tanks rolled on and Belgium fell days later.
+
+Despite airports, radios, and cars being used throughout society, the Allies, especially the officers, thought it was World War I. Fort Eben-Emael was symbolic of their entire battle plan. The French built bunkers that were far larger. None of them worked. To showcase the mental shock of these soldiers defending against German Blitzkrieg tactics, one French officer wrote a note to his President. "I am killing myself Mr President to let you know that all my men were brave, but one cannot send men to fight tanks with rifles."
+
+The Nazis had just beaten an enemy who couldn't adapt, and promptly made the same mistake. They read their early wins as proof of their superiority rather than the application of tools anyone can emulate. With Western Europe occupied, they thought "racially inferior" Soviets would be a push-over. Although their invasion (1941) caused an egregious loss of Soviet life and property, within a few years the Soviets were fielding better tanks and planes and approaching German military command sophistication. By 1943 the tide of the war turned for the Soviets. 
+
+Meanwhile, America entered the war in late 1941. With "Rosie the Riveter" and "V for Victory" leading the way, America turned its consumer economy to mass-produce weapons, plants, ships faster than anyone could predict. Soon a 200,000 man-army turned into 8,000,000, led by new commanders like Bradley and Patton who were doing combined arms warfare better than Germany ever did.
+
+Nazi Germany, so obsessed with genetic explanations for its success, couldn't compete. They resisted mobilizing women as workers or fighters despite dire need for both. While some worked to increase production (which did increase), the regime was trapped inside its own extreme, and continued to hunt down supposed undesirables and hoped in vain that a self-declared super intelligence would create "wunderweapons" to save them. They were overrun anyway, and Nazi leaders called for the nation's own destruction for having failed the racial test of history.
+
+Extremism would soon fail the Soviets as well. Even after defeating the Nazis and moderating its extreme policies (de-Stalinization), it couldn't moderate its core beliefs. Despite technological triumphs like the first satellite (1957) and sending probes to Venus (1966-1983), Soviet progress stalled for the same reason a Soviet biologist could not simply follow the evidence supporting genetic theory. The state owned the laboratories, military, and everything else. So doctrine won every argument. Soviet society had no "people in a garage," no small businesses, no independent universities. Soviet leaders withheld technological developments from filtering down to regular people. Without independent research or private property there was nothing anyone could do about it. The result was a society with little "creative destruction". The system could correct itself—genetics was allowed again after 1964—but it was hard to try new things and see what works.
+
+In contrast, when America put rockets in space, average citizens were following along in real-time on radios and TVs sharing the same technology. As Soviet innovation stopped in the 1970s, the Soviet Union grew ever more dependent on oil exports to fund a bloated state bureaucracy and military. It needed to buy the advanced industrial equipment, and even food, it could not produce itself. Workers often joked "we pretend to work, they pretend to pay us". When oil prices fell in the 1980s, the entire Soviet system imploded as its various peoples either voted to abandon it or watched as even once-committed believers let the communist project die.
+
+The West did something different—not better by design, but by accident of structure. It never purged either half. The dreamers kept dreaming, the risk-takers kept risking, the state kept funding, and the market kept selling. You're likely holding the result in your hand.
+
+In 1945, a technical genius envisioned the world we live in today. Before anyone sent an email or browsed Wikipedia, American engineer and inventor Dr. Vannevar Bush, thought it up. He was fighting World War II, and in _As We May Think_ he dreamed computer technology would cure the human condition.
+
+These visionaries are hard to come by. Yet they exist in every society. The key is how to bring their ideas to life.
+
+We already learned healthy ecosystems are not created by concentrating on genotype or phenotype extremes, but by following nature and allowing personal ambition and mass-production to cohabit with collective benefit and diversity.
+
+The invention, development, and proliferation of the tiny transistor makes the point very well. It came from a partnership no single ideology contains: government demand, private enterprise, open research, and open market fused into one pipeline. Vannevar Bush embodied it. He was the dean of MIT School of Engineering, a Raytheon founder, and America's wartime science chief. He described how to fund this system in _Science, the Endless Frontier_.
+
+The transistor is a great example of the pipeline's success. It was discovered at Bell Labs, an open research lab (1947). Its expensive, uncertain early development was paid for by military and NASA contracts to companies like Fairchild Semiconductor. With the resources and incentive, these scientists soon turned a single transistor into the first integrated circuits (1959), which within a decade were packing hundreds of transistors.
+
+The pipeline continued advancing transistor development when the competitive market took over. As military rocket, pocket calculator, and transistor radio sales exploded, transistor scientists easily found funding to leave their universities and employers to start their own companies. These newcomers drove development into overdrive, and soon one of their so-called "Fairchildren", Intel, invented the microprocessor (1971). Now thousands of transistors came on a chip that could be reprogrammed for any application.
+
+Within a few decades the transistor went from unknown, to the size of a pencil eraser, to powering home computers. Soviet thinkers like Kitov and Glushkov wrote similar theories about the future but could only watch while others built it. Like a monoculture, each extreme died soon after it was planted.
+
+Look at who the pipeline needs. The obsessive researcher who'd be useless at selling. The institution-builder who thinks in decades. The risk-taker who quits a stable job. The salesman who never learns how the chip works but puts it in ten million radios. None would enjoy each other's jobs. Some do what they do because of genetic traits of super-intelligence, shyness, energy or so on. Others are converts to belief systems and educated in higher learning. No ideology covers each person. They're temperaments every society produces. The extremes failed by telling half of them they didn't belong.
+
+The fight between them never ends, and shouldn't. How much public money, who captures the profit, who carries the risk—that argument is real. But it's a quarrel at the edges of something none of them can leave. They are boardmates stuck on the same gameboard. Like lifeforms from times immemorial, their lives depend on what other creatures can make inside the ecosystem they all share. Strangers, friends, enemies and allies. All the fates of an ecosyystem are tangled regardless of what anyone thinks.
+
+Which raises the question this chapter has been circling. If no ideology can pick the winners, and no state can assign the roles—who does?
+
+We will see these rules of technological evolution better once we realize we are not selfless beings. Perhaps not even our shining examples such as Socrates ever truly were. But for sure, the grade-school teacher, late night television host, dock worker, or sales manager of a paper distribution company are not selfless observers of society. We all have bills to pay. We shouldn't expect anyone to drop the toolset that feeds them while it still works, however poorly for the rest of society. People let go when the old tool stops paying—not a moment before, and no story will make them change their mind.
+
+The people inside extremists societies suffered greatly, and caused suffering onto others, because they didn't have the moderation in their society. I saw this in insurance claims all the time. When their tools stopped working, they craved a clear path to what's next. Give that to a person in a timely fashion, and they respond where a million stories fall flat.
 
 But if our tools still work, like a DVD in the Internet Age, we hold onto our own branch on the tree of life, defending our outdated tools with stories—while expecting everyone else to drop theirs the moment it makes sense. Watch cable news or visit a movie theater today to see it yourself. Or you can read about the scribes who fought the printing press in Gutenberg's time, or the biblical storytellers who fought Galileo. The pattern is the same: holders of outdated technology defending their position with stories, trying to keep the past alive long enough to preserve their status.
 
@@ -1144,9 +1179,7 @@ To stop talking about creating justice, we can instead be intentionally building
 
 As renowned biologist Ernst Mayr says "individual life forms are the unit of selection." Meaning a polar bear is the unit of selection. Species, groups, ecosystems are just a collection of individuals. Yet any individual can better herself without needing permission or waiting on anyone else. The polar bear doesn't serve her ecosystem—she serves herself and her cubs, and the working ecosystem is what all that work adds up to. Each lifeform must always play the game by earning her own resources or she leaves the board.
 
-Any other identity works against the ecosystem. Tool-use is virtually in our DNA.
-
-Anyone can come up with artificial reasons why the Game of Life doesn't apply to them. Students do it when they ignore teachers; managers do it when they ignore employee feedback. Sometimes those are needed to keep motivation or beliefs in hard and uncertain times. But that only lasts for as long as someone else assembles the food, housing, and heating you depend on.
+Anyone can come up with artificial reasons why the Game of Life doesn't apply to them. As we've seen, extremists do it all too easily. Anyone who sticks to their belief system despite contrary evidence can be similar too. However, it can be inside every person. Students who ignore teachers; managers when they ignore employee feedback. Sometimes those are needed to keep motivation or beliefs in hard and uncertain times. But that only lasts for as long as someone else assembles the food, housing, and heating you depend on.
 
 If you're willing to admit you eat, find shelter, drink because of technology, and thus you are inside a technological ecosystem that is evolving independent of your biological desires, wants, lifespan, or your personal or ideological beliefs, you can admit this truth.
 
@@ -1160,11 +1193,11 @@ That means finding the unique blend of genotype and phenotype that lets you prod
 
 The game rewards both diversity and mass production. Not because anyone requires it. But because each is a different way to harvest energy the gameboard makes available.
 
-The system grows when each member finds a new way to harvest resources. That's how life stays up to day in the never ending work of organizing more matter into structures that hold together against the dissolving, collapsing, eroding, and decaying that takes everything left unmaintained and unenergized.
+The system grows when each member finds a new way to harvest resources. That's how life stays up to date in the never ending work of organizing more matter into structures that hold together against the dissolving, collapsing, eroding, and decaying that takes everything left unmaintained and unenergized.
 
 Entropy doesn't decide whether life prospers. Entropy only looks like an enemy when life stops doing the work. Life decides—by doing the work of organizing matter, harvesting energy to maintain it, and finally shedding what no longer fits. The work is the only requirement. As long as some lineages keep doing it, life continues. Whether your lineage continues depends on whether you do the work.
 
-Entropy is always there, always pulling apart. But it isn't a grade to be given by a teacher. Rather its such a constant for everything and everyone, that you, the Moon, and the Sun, all have entropy tearing you apart. So, whether a biological lineage prospers depends on whether it keeps doing the work of organizing faster than entropy dissolves. It's a fair fight for everyone.
+Entropy is always there, always pulling apart. But it isn't a grade to be given by a teacher. Rather it's such a constant for everything and everyone, that you, the Moon, and the Sun, all have entropy tearing you apart. So, whether a biological lineage prospers depends on whether it keeps doing the work of organizing faster than entropy dissolves. It's a fair fight for everyone.
 
 How did we spread around the world, and how did we develop tools? We planted and spread tool-species inside ecosystems of course. And that required, and still requires, four modes of understanding: nature, mythologies, stories, and science.
 
@@ -1196,7 +1229,7 @@ How to tell which is which?
 
 Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that best read when fruit ripens, when sunlight appears, and endless other environmental patterns, survive to play again.
 
-This chapter is not a story to enjoy. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
+This chapter is not a story to enjoy. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to along side a host of boardmates. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
 
 In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world and earn its place on the gameboard?
 
