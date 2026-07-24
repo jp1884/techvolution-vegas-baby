@@ -3,37 +3,6 @@
 
 ## Book I: A New Identity
 
-## Back Page Summary
-
-Who are you? What truly defines your identity in this age of massive technological change?
-
-Techvolution is a new framework that helps us understand ourselves, our society, and our rapidly changing world.
-
-We need guidance understanding this transformation. From smartphones that connect us globally to medical devices that extend our lifespans, new technologies have become so pervasive that they are now permanent extensions of our biological selves, profoundly transforming how we live, work, and interact. If evolution had eyes, it would see something new taking shape—"technological beings," selected less for our genetics than for our ability to create and harness tools.
-
-As we embrace our technological identity, we begin to see how the principles of evolution—adaptation, selection, and speciation—now govern our societies, political systems, and economies. Accepting that evolution governs these systems is a new paradigm that empowers us to:
-
-- Understand human history through technological evolution
-- Embrace new technologies instead of fearing the loss of our jobs
-- Lower living costs with faster adoption of innovations
-- Transform ideological divisions into technological collaboration
-
-Whether you are a business owner, policymaker, or someone seeking deeper insight into the human condition, _Techvolution_ is an essential new framework for understanding our transforming society. With this new paradigm, you will emerge with a profound new perspective on your place in history and the extraordinary future that awaits us as self-aware technological beings.
-
-## Inner Flap
-
-For centuries, humanity has defined itself through ideologies: belief systems and cultural narratives that shape our worldview. But what if, in fact, these identities have obscured the true driver of our advancement?
-
-In _Techvolution_, you will confront this provocative question as you discover that our technological evolution, not our ideological beliefs, holds the key to understanding human civilization and your place within it. Consider how forging steel revolutionized society or how AI currently challenges our notion of human uniqueness. New technology does not just change our products—it changes who we are.
-
-What most defines us in the modern world is not our language or culture, but the tools we use to survive. This technological evolution defines our fate more fundamentally than gender, ethnicity, or nationality ever could. Just as natural selection shapes biological life, technological evolution determines our species’ future.
-
-With this insight, we can base our identity, politics, and economics on evolution's fundamental principles. By aligning our beliefs with these natural mechanisms, we can unlock many practical benefits: reduced living costs through faster technology adoption, collaborative solutions to climate challenges, and fostering innovation that autonomously heals human pain.
-
-Technology is a new branch on the tree of life. Just as the study of evolution illuminated the natural world, the study of technological evolution will reveal the intricacies of our technological life.
-
-Spanning the breadth of human history, _Techvolution_ reframes the human story by placing our technological nature at its center. For those seeking to understand our rapidly changing times, this book provides more than just insight—it offers an intellectual blueprint for the extraordinary future we are building together as a technological species.
-
 ## Dedication
 
 _This book is dedicated to the middle class. Clinging to Industrial Age tools, habits, and ways of life has squeezed us for decades. The open-source community has already built the tools of the Internet Age that will return us to prosperity—if we just reach out and grab them._
@@ -52,6 +21,11 @@ _"It is not the strongest of the species that survives, nor the most intelligent
 
 —Leon C. Megginson, often wrongfully attributed to Charles Darwin
 
+<!-- 
+"We become what we behold. We shape our tools and thereafter our tools shape us."
+—John Culkin, writing about Marshall McLuhan, 1967
+-->
+
 ## Table of Contents
 
 Preface
@@ -59,7 +33,7 @@ Introduction
 Chapter 1—Presents Under the Tree
 Chapter 2—Booklet: The Rules to the Game
 Chapter 3—Game Board: The Emergent Environment
-Chapter 4—Sandglass: The Ever Present Clock
+Chapter 4—Sand Clock: The Ever Present Clock
 Chapter 5—Clay: What Life Is, The Creator of Players
 Chapter 6—Scoreboard: What Evolution Is, The Editor of Players
 Chapter 7—What Does the Game of Life Mean
@@ -69,7 +43,7 @@ Chapter 10—Planting, Building, and Playing The New Game
 Chapter 11—Back to Natural
 Chapter 12—Vignettes
 Chapter 13—Epilogue
-Chapter 14—Foreword/Personal
+Chapter 14—Personal
 
 ## Preface
 
@@ -379,7 +353,9 @@ The parents were very grateful. They even congratulated me on my recent promotio
 
 Not all claims ended so well. I must admit I cherish this one.
 
-The point of this story is, however, somewhat different. As we journey to better solve our problems by updating our self-identity, I want to put you in a unique frame of mind. One far away from the fighting so prevalent in our politics, or the angst of every day life. I want you to remember the childish glee you had when holding a present.
+Notice what actually happened there. The insurance script was a starting point. But a hotel room and a check for market value weren't their problem. Their pain was somewhere else. It was four kids and a calendar date that comes only once a year. Once I realized the real problem, a different set of tools was obvious.
+
+As we journey to better solve our problems by updating our self-identity, I want to put you in a unique frame of mind. One far away from the fighting so prevalent in our politics, or the angst of every day life. I want you to remember the childish glee you had when holding a present.
 
 It could be your birthday, graduation, or favorite holiday. Whichever memory is your most precious, I invite you to embrace the feeling it gives you.
 
@@ -443,7 +419,7 @@ AI has no mind either. It will still want to exist—and like streaming, it exis
 
 This is what Internet Age technology is doing, fast and everywhere. Consider the Mars rovers—technological explorers crawling across an alien place, extending human perception hundreds of millions of miles past the bodies we were issued, sending back reports from a planet we may one day live on. If that isn't a Square being shown a third dimension, nothing is.
 
-So our best life depends on understanding the rules of the reality we inhabit. Just as a two-dimensional being must accept its constraints to navigate its world, we must recognize the laws that govern ours. They are all-powerful, and do not care about our wants, plans, and beliefs anymore than Flatland cares about a triangle's desire to jump off the screen.
+So our best life depends on understanding the rules of the reality we inhabit. Just as a two-dimensional being must accept its constraints to navigate its world, we must recognize the laws that govern ours. They are all-powerful, and do not care about our wants, plans, and beliefs any more than Flatland cares about a triangle's desire to jump off the screen.
 
 Accepting the rules is the foundation for the mastery we need to move from biological to technological beings.
 
@@ -457,7 +433,7 @@ So let's jump off the screen and see what the game board of three dimensions loo
 
 ## Chapter 3—Game Board: The Emergent Environment
 
-_Flatland_ starts with the Square explaining his 2D existence to the reader. There are various houses, workplaces, and people. Everything knows each other by the amount of angles they have. Having more angles brings better social status.
+_Flatland_ starts with the Square explaining his 2D existence to the reader. There are various houses, workplaces, and people. Everything knows each other by the number of angles they have. Having more angles brings better social status.
 
 One day a Sphere shows up.
 
@@ -479,7 +455,7 @@ That's why there is little to no heavy elements like iron and gold on the Moon, 
 
 The collision between early Earth and Theia was so massive it melted Earth's core for billions of years. Yet, even this massive collision was controlled by the natural laws the entire time.
 
-The Moon, though one of many moons in our solar system, becomes significant only through our interactions with it. It causes our oceans tides, illuminates the night, has mysterious phases, and could be colonized. These opportunities and obstacles in our path transform it from a distant object into a component of our game board of survival.
+The Moon, though one of many moons in our solar system, becomes significant only through our interactions with it. It causes our ocean's tides, illuminates the night, has mysterious phases, and could be colonized. These opportunities and obstacles in our path transform it from a distant object into a component of our game board of survival.
 
 The game board is thus an emergent property. A place where the natural laws of physics, astronomy, chemistry, geology, and biology make a universe all around us. But only when we encounter this universe as a means of survival does our game board emerge.
 
@@ -491,21 +467,25 @@ They believe a supernova explosion could be to blame for both the late Devonian 
 
 Imagine that.
 
-One of those tinkering lights up in the night sky could either be utterly too far away to ever care about. Or they could kill almost everything on Earth and life has to return to the starting line.
+One of those twinkling lights up in the night sky could either be utterly too far away to ever care about. Or they could kill almost everything on Earth and life has to return to the starting line.
 
-The game board is variable. It could be a super nova millions of lightyears away, a Moon within eyesight, or it could be the cold of night closing in on a lost traveler who thought he was enjoying a country ride.
+The game board is variable. It could be a super nova trillions of kilometers away, a Moon within eyesight, or it could be the cold of night closing in on a lost traveler who thought he was enjoying a country ride.
 
 In an infinite Universe, the number of dimensions we need to comprehend is near infinite as well. Hence why our ability to perceive different dimensions is so crucial to our survival.
 
-But why can't we just take our time? Why is there such consequence to our choices. The answer lies inside the natural laws of the universe. It's why all games come with clocks.
+But why can't we just take our time? Why is there such consequence to our choices? The answer lies inside the natural laws of the universe. It's why all games come with clocks.
 
-## Chapter 4—Sandglass: The Ever Present Clock
 
-Ever wondered how the game board is made? I mean, volcanoes, stars, everything, how do tiny atoms come together into such unique objects? After all, it's not like nature has "make a volcano" button like in video games. Reality has no such shortcuts. Instead, each thing in the Universe is a byproduct of the natural laws, the rules of the game, interacting with each other.
+
+
+
+## Chapter 4—Sand Clock: The Ever Present Clock
+
+Ever wondered how the game board is made? I mean, volcanoes, stars, everything, how do tiny atoms come together into such unique objects? After all, it's not like nature has a "make a volcano" button like in video games. Reality has no such shortcuts. Instead, each thing in the Universe is a byproduct of the natural laws, the rules of the game, interacting with each other.
 
 Let's see how with volcanoes.
 
-Gravity, pulls molten rock downward, while plate tectonics generates immense pressure and heat, and thermodynamics drives heat transfer and energy transformation the entire time. Mix them together, and molten rock from deep within the Earth's crust pushes up through weak points in the planet's surface to form volcanoes.
+Gravity pulls denser rock down, pushing lighter molten rock up. Plate tectonics generates immense pressure and heat, and thermodynamics drives heat transfer and energy transformation the entire time. Mix them together, and molten rock from deep within the Earth's crust pushes up through weak points in the planet's surface to form volcanoes.
 
 Stars are of course bigger, but made with the same interaction of natural forces. Gravity concentrates huge hydrogen gas clouds into a ball. Once the density peaks hydrogen atoms fuse into helium through nuclear fusion, emitting massive amounts of electromagnetic radiation into space. The enormous energy released counteracts gravity and keeps the star from imploding on itself.
 
@@ -519,7 +499,7 @@ And understanding how objects disarrange into their component parts is effective
 
 Science calls it the second law of thermodynamics. It's most commonly called entropy. This is the fundamental law that describes how objects and energy systems naturally tend to increase in disorganization over time.
 
-In a way, entropy is the universe's natural accounting system for energy transformation. The results of the statistical behavior of particles probabilistically shifting between states of order and disorder. For example, natural forces create stars that generate immense radiation energy, but natural force also use up this fuel and turn the star effectively dark.
+In a way, entropy is the universe's natural accounting system for energy transformation. The results of the statistical behavior of particles probabilistically shifting between states of order and disorder. For example, natural forces create stars that generate immense radiation energy, but natural force also use this fuel and turn the star effectively dark.
 
 To realize what the second law of thermodynamics does over time, think of this comparison.
 
@@ -527,39 +507,39 @@ Earth and Mars were once about the same. Their cores were hot magma. They had pr
 
 But entropy is always there.
 
-Thus, volcanic explosions and freezing water degrade mountains, wind storms turn rock into sands, sunlight dries up wetlands, and after enough heat is lost in the core, magnetospheres end their shielding, and solar radiation expels gases from the atmosphere. All of this turns the planet still and motionless, like Mars is today. Its core cooled, magnetosphere protection, so its atmosphere is all but gone, and the planet has little to no volcanic eruptions because there is not enough heat left to build up the energy for it.
+Thus, volcanic explosions and freezing water degrade mountains, wind storms turn rock into sands, sunlight dries up wetlands, and after enough heat is lost in the core, magnetospheres end their shielding, and solar radiation expels gases from the atmosphere. All of this turns the planet still and motionless, like Mars is today. Its core cooled, magnetosphere protection against cosmic rays failed, so its atmosphere is all but gone, and the planet has little to no volcanic eruptions because there is not enough heat left to build up the energy for it.
 
 Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot. But, billions of years from now, the heat will run out, the magnetosphere will die, and the natural forces via wind, rust, erosion, radiation will make Earth again like Mars.
 
 And, neither will ever return to their former glory.
 
-That is why entropy is often associated with the the arrow of time. Events in the Universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverse itself, the same way a pot of coffee will never un-mix to its original milk, bean, and sugar parts.
+That is why entropy is often associated with the arrow of time. Events in the Universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverse itself, the same way a pot of coffee will never un-mix to its original milk, bean, and sugar parts.
 
 All this means there is no going back. So, not only is every place in the Universe unique, but so is every moment.
 
-Albert Einstein inspired scientists called it space time. This term combines the three dimensions of space we saw in the game board (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
+Scientists building on Einstein's work called it spacetime. This term combines the three dimensions of space we saw in the game board (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
 
 And this is our game clock.
 
 While the game board can tell you where you are, the game clock tells us when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. The game board and game clock are forever emergent and relative to where and when you exist in the Universe.
 
-The laws of nature, then, are more than scientific concepts—they are what keeps the game board itself in motion. Unlike chess pieces who play on the same board over and over, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, beaches, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sandglasses, timepieces, or any other device. Each tells us how much time we have before order disperses (the process called entropy) if no work is done to maintain it.
+The laws of nature, then, are more than scientific concepts—they are what keeps the game board itself in motion. Unlike chess pieces who play on the same board over and over, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, beaches, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sand clocks, timepieces, or any other device. Each tells us how much time we have before order disperses (the process called entropy) if no work is done to maintain it.
 
 And this reveals the ultimate puzzle: in a universe where order disperses unless work is done to hold it together, what kind of thing can do that work? What kind of thing can harvest energy fast enough to postpone its own dispersal? The answer is something the Universe had not produced before—until it did.
 
 ## Chapter 5—Clay: What Life Is, The Creator of Players
 
-Done with the game clock, you sit it aside on top of the game board and continue reading the booklet. Now you pick up the clay and roll it in your hands: smash, stretch, roll, pinch.  How does this soft malleable stuff relate to the Game of Life?
+Done with the game clock, you set it aside on top of the game board and continue reading the booklet. Now you pick up the clay and roll it in your hands: smash, stretch, roll, pinch.  How does this soft malleable stuff relate to the Game of Life?
 
 First let's go back and emphasize something very important.
 
-Most people know Albert Einstein's work E = mc². This revolutionary equation says "Energy equals mass times the speed of light squared", which when doing the math means even a small amount of mass stores an enormous of energy. More importantly, this equation says in the right circumstance (like inside stars), matter and energy can be converted into the other.
+Most people know Albert Einstein's work E = mc². This revolutionary equation says "Energy equals mass times the speed of light squared", which when doing the math means even a small amount of mass stores an enormous amount of energy. More importantly, this equation says in the right circumstance (like inside stars), matter and energy can be converted into the other.
 
 Scientifically there is no direct link between entropy and Einstein's equation, but noting mass and energy equivalency helps us understand a crucial point. As entropy does its thing degrading objects into uniformity, energy is never created or destroyed, but just moved around into different states of radiation (light) or matter.
 
 Basically, there is no delete button anywhere in physics—energy isn't destroyed, only modified. Incidentally, this principle is the first law of thermodynamics.
 
-For example, the energy that once fueled Mars hot magma core was not erased, it only radiated into space. As heat dissipated away it came to a useless state; it was no longer concentrated and organized enough to do anything. Useful energy is a physical quantity that represents the capacity to do work or cause change in a physical system, like Earth's still hot magma core is doing right now.
+For example, the energy that once fueled Mars' hot magma core was not erased, it only radiated into space. As heat dissipated away it came to a useless state; it was no longer concentrated and organized enough to do anything. Useful energy is a physical quantity that represents the capacity to do work or cause change in a physical system, like Earth's still hot magma core is doing right now.
 
 Useful energy is what entropy slowly drains away from any organized system, from active plants, to volcanoes, to coffee pots.
 
@@ -583,7 +563,7 @@ Life emerged around 3.7 to 4.1 billion years ago. Earth was dramatically differe
 
 Yet, it was here life started.
 
-Science has some ideas how, but despite many experiments trying to spark "primordial ooze" as one theory calls the rich, chemical-laden matter of early Earth, where complex organic molecules might have first combined into self-replicating cells. But nothing's worked so far. In a world where science has stolen many of our mysteries, the emergence of life on Earth is still as wondrous as ever. And with so much uncertainty, each person is free to believe whatever they want was the start of it all.
+Science has some ideas how. There's been many experiments trying to spark "primordial ooze" as one theory calls the rich, chemical-laden matter of early Earth, where complex organic molecules might have first combined into self-replicating cells. But despite trying to emulate this setting nothing's worked so far to kickstart molecules to replicate. In a world where science has stolen many of our mysteries, the emergence of life on Earth is still as wondrous as ever. And with so much uncertainty, each person is free to believe whatever they want was the start of it all.
 
 The point is life did start.
 
@@ -595,13 +575,13 @@ The nearest energy source was hydrothermal vents, which scientists suspect foste
 
 For billions of years these primitive creatures lived. In a sense they could be seen as colonizers.
 
-Because early prokaryotes called cyanobacteria converted energy into matter that gradually transformed the environment through photosynthesis, which produced oxygen. We take this chemical for granted today, but it is rare, supercharges metabolism, and because it converts sunlight back into matter, has a near endless energy source. 
+Because early prokaryotes called cyanobacteria converted energy into matter that gradually transformed the environment through photosynthesis, which produced atmospheric oxygen. We take this chemical for granted today, but it is rare, supercharges metabolism, and because it converts sunlight back into matter, has a near endless energy source. 
 
 Converting toxic gases into oxygen fundamentally altered the Earth's atmosphere. Eventually its rich energy source allowed eukaryotic cells to emerge, representing a significant leap in biological complexity. These cells contained a nucleus and more sophisticated cellular structures.
 
 This process of growth kept going. Life got ever more complicated. Soon individual cells started to merge into multi-cell organisms. Then each cell inside these lifeforms specialized to perform unique functions. Multi-cellular organisms had cells specialized in an evermore complex organization. Skin cells protected from the elements, muscle cells allowed locomotion, nerve cells enabled intra-organism communication.
 
-As lifeforms kept adding cell specialization, they became more complex and developed what some call anti-fragile—postponing entropy's effects by growing new cells specialized to overcome new challenges.
+As lifeforms kept adding cell specialization, they became more complex and developed resilience—postponing entropy's effects by growing new cells specialized to overcome new challenges.
 
 The Ediacaran Period (635-541 million years ago) marked the emergence of the first complex, soft-bodied organisms. Life was no longer like simple bacteria, but becoming more like animals, featuring basic body plans and the ability to interact with their environment with things like cells that could detect light, the precursor to our modern eyes. These creatures, like the disc-shaped Dickinsonia, represented huge jumps in multicellular life and body complexity.
 
@@ -613,11 +593,13 @@ With an oxygen atmosphere fueling metabolic processes like never before, life co
 
 With so many players now on the board, the question of who keeps playing—and who doesn't—needed a mechanism. The Game of Life would need a scoreboard.
 
-<!-- - integrate life turns regular mass to biomass, to increase the field of play, and players. so, life can never use water, but only make-use of, or make-waste, and therefore expand its range or see it dwindle. input the concept of equilibrium. This virus is an example. It succeeded in finding a host, replicating itself, and so will be in the future. While you may complain, that hot chicken soup you're about to have was once a lifeform, and you're using it to stay alive and keep your genes around to hopefully pass your genes into the future. Hopefully that poultry had kids, or close cousins, before it died for you. (implement in later chapter in ecosystem expansion, technomass, or the transition from biology to technology) -->
+Typos: "you sit it aside" → set; "an enormous of energy" → an enormous amount; "Mars hot magma core" → Mars'; "Science has some ideas how, but despite many experiments... But nothing's worked" (broken sentence — two "but"s, no main clause).
+
+<!-- idea: integrate life turns regular mass to biomass, to increase the field of play, and players. so, life can never use water, but only make-use of, or make-waste, and therefore expand its range or see it dwindle. input the concept of equilibrium. This virus is an example. It succeeded in finding a host, replicating itself, and so will be in the future. While you may complain, that hot chicken soup you're about to have was once a lifeform, and you're using it to stay alive and keep your genes around to hopefully pass your genes into the future. Hopefully that poultry had kids, or close cousins, before it died for you. (implement in later chapter in ecosystem expansion, technomass, or the transition from biology to technology) -->
 
 ## Chapter 6—Scoreboard: What Evolution Is, The Editor of Players
 
-You've got the Game of Life at your feet. The pieces look different to you now. The rule book, game board, sand glass, and modeling clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
+You've got the Game of Life at your feet. The pieces look different to you now. The rule book, game board, sand clock, and modeling clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
 
 You want to play it. Are you ready? Let's press the start button!
 
@@ -627,7 +609,7 @@ Just now you cough. It's so small it almost goes unnoticed like a blink, breath,
 
 You know right away. Excitement kept you up too late. With so little sleep your immune system couldn't keep infection at bay. You're sick.
 
-Viruses are tiny, are not alive to many biologists, but are not much different from any other player; they are still bits of clay looking for the energy to stay in the game. Their strategy is simpler than most; forgo reproductive parts and instead self-replicate by invading another creature and hijacking its cells. It's a winning idea. Animals, plants, even bacteria were exploited by viruses soon after their games started.
+Viruses are tiny and many biologists don't consider them alive, still they are not much different from any other player in our understanding of the game. They are still bits of clay looking for the energy to stay in the game. Their strategy is simpler than most; forgo reproductive parts and instead self-replicate by invading another creature and hijacking its cells. It's a winning idea. Animals, plants, even bacteria were exploited by viruses soon after their games started.
 
 Viruses are so simple they need only a few dozen to sometimes a thousand genes. Humans have around 20,000 for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
 
@@ -673,13 +655,13 @@ In short, ecosystems form around available energy. They are a web of checks and 
 
 Over time, natural selection acts on individual creatures, each competing for its share of that energy. Out of all that competition something larger emerges: a sprawling diversity of life, no single piece of it planned, that together makes the whole system hard to kill. When the climate shifts or a disaster strikes, that variety is the insurance—enough survives to rebuild. I think that's the real wonder of it: a system that keeps "passing the torch" of creation, carrying life forward through every change.
 
-All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share many like seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must find untapped value, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. 
+All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share much: seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must find untapped value, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. 
 
 No individual reciprocates on purpose. But because every member of a species is nearly a copy of the rest, a trait that harvests energy well shows up in all of them at once, and keeps paying off generation after generation. No single species runs the whole ecosystem and none will ever succeed against entropy alone. Happily, the effect of every creature straining to live, and the sum of all that straining, is that life keeps pushing itself forward.
 
 By harvesting the same limited energy over and over, the creatures of an ecosystem end up bound together—not as a team with a shared goal, but as players stuck on the same board.
 
-That distinction matters. Remember the Jumanji movies: strangers pulled into a board game, each with a different skill—strength, speed, map-reading—who survive only by pooling those skills against the game itself. That is a real team, because they share one enemy. Life has a team like that too, and its enemy is entropy: every living thing, everywhere, is fighting the same slow pull toward cold and stillness. Against *that*, all living things harvest energy to literally pull themselves together to keep playing.
+That distinction matters. Remember the Jumanji movies: strangers pulled into a board game, each with a different skill—strength, speed, map-reading—who survive only by pooling those skills against the game itself. That is a real team, because they share one enemy. Life has a team like that too, and its enemy is entropy: every living thing, everywhere, is fighting the same slow pull toward cold and stillness. Against *that*, all living things harvests energy just to hold itself together. Not figuratively. Stop, and the atoms go their separate ways.
 
 But against each other, the players are rivals. A polar bear and a seal aren't teammates—they want opposite things. They are **boardmates**: creatures whose games are tangled because they're playing the same board. The seal to the bear. The virus to your cough. Individually, they have no shared purpose but they share the same board.
 
@@ -687,7 +669,7 @@ Take your virus. A body that can't fight it off is also a body unlikely to raise
 
 The polar bear is the same truth from the other side. She takes every seal she can catch—there's no restraint in her. But she *can't* take them all, and that isn't luck. She and the seal have shaped each other for a million years, her speed against its escape, until neither can win outright. Her limits aren't a choice; they're an adaptation. She is built not to empty the coast. The proof is the penguin—drop that same bear on an Antarctic shore and she kills until nothing's left, because nothing there was ever shaped by her. Even though they are playing the same game against entropy, a seal is a boardmate, a penguin is not. 
 
-Life must overcome every force of nature to sustain itself. The last lesson of this gift is in its name: it's the Game of Life, not the Game of You. You don't win by serving a team of rivals—you win by making your own moves on a board you share, while all of you, together and unknowing, hold back the dark a little longer. Outsiders aren't evil, but they arrive with no shared history to fit into, and so they can break a board that never made room for them—the blights that took the American chestnut and the ash, the disease that hollowed out the orange groves. A polar bear loose in Antarctica would be one more of them: no penguin ever learned to fear her, so its entire species might perish.
+Life must overcome every force of nature to sustain itself. The last lesson of this gift is in its name: it's the Game of Life, not the Game of You. You don't win by serving a team of rivals—you win by making your own moves on a board you share, while all of you, together and unknowing, hold back the dark a little longer. Outsiders aren't evil, but they arrive with no shared history to fit into, and so they can break a board that never made room for them—the blights that took the American chestnut and the ash, the disease that hollowed out the orange groves. A polar bear loose in Antarctica would be one more of them: no penguin ever learned to fear her, so the whole species might perish.
 
 Of course, individual creatures know none of this. They are bits of clay already hardened, inside the game, unable to stand above it. So each one simply fights to survive—bison bulls battling for a herd, a tiger running down a deer, a Venus flytrap folding over a wasp.
 
@@ -695,7 +677,7 @@ But that's the game seen too close—just a small part of it.
 
 The whole game is about scoring points: offspring who stand a good chance of having offspring of their own. Kids are literally the future, which is why the Game of Life makes the perfect Christmas or birthday present.
 
-Now that you know how the rulebook, game board, sandglass, modeling clay, and scoreboard work together—let's play.
+Now that you know how the rulebook, game board, sand clock, modeling clay, and scoreboard work together—let's play.
 
 Not this game, though. Its sequel, which runs by rules so much like these. Let's play the Game of Technological Life. Let's play techvolution.
 
@@ -789,7 +771,7 @@ That's why this book wants you to embrace being a technological being. Not becau
 
 We realize this truth in the natural world, so should be able to make the leap and understand the truth of our existence by realizing we are simply inside a technological version of the Game of Life. Then we can start to knowingly play it, persist our lineages, and therefore win.
 
-The booklet of rules, game board of environments, sandglass of time, bits of clay, and a scoreboard are all there. As is the circle of producers, plant-eaters, predators, scavengers, decomposers, and testers in our own ecosystems too. This is happening all around us.
+The booklet of rules, game board of environments, sand clock of time, bits of clay, and a scoreboard are all there. As is the circle of producers, plant-eaters, predators, scavengers, decomposers, and testers in our own ecosystems too. This is happening all around us.
 
 So why don't we see it?
 
@@ -1127,17 +1109,17 @@ Soviet science made the opposite wager. Communism disliked genetics which counte
 
 However, as awful as it might sound, these extremes could have technological success. Both used new machinery, mathematics, and other advancements to build modern economies and militaries. Each was doomed however, because neither could sustain any success; extremes have complacency embedded in them.
 
-Let's look at World War II (1939-1945) for our first example. This history is told in many books (my favorite being _Why the Allies Won_), but in short Germany's early WWII victories came from a real innovation—integrating tank, plane, and infantry by radio into fast-acting "combined arms" mobile warfare. These ideas were partly borrowed from British academies and proved very effective when turned against slower, hierarchical Allied armies still using massive bunkers and creaky, slow command structures. Germany easily invaded a hard-fighting Poland (1939) in a matter of weeks. When turning its Blitzkrieg on Holland, Belgium, and France (1940), Germany faced its World War I (1914-1918) enemies once again.
+Let's look at World War II (1939-1945) for our first example. This history is told in many books (my favorite being _Why the Allies Won_), but in short Germany's early WWII victories came from a real innovation—integrating tank, plane, and infantry by radio into fast-acting "combined arms" mobile warfare. These ideas were partly borrowed from British academies and proved very effective when turned against slower, hierarchical Allied armies still using massive bunkers and slow command structures making decision in days what Germans now did in hours. Germany easily invaded a hard-fighting Poland (1939) in a matter of weeks. When turning its Blitzkrieg on Holland, Belgium, and France (1940), Germany faced its World War I (1914-1918) enemies once again.
 
 Combined arms warfare was not an original idea. Since World War I, the radio, airplane, and motor engine were invented and everyone knew they would change not just society, but warfare too. Yet, the Germans, perhaps because they were poor and had a limited military budget, implemented new ideas faster than anyone else. An early test was the massive Belgium Fort Eben-Emael. Made from all the lessons of World War I, its strategic position protected several important bridges that controlled the Belgian heartland from invasion.
 
-Its defenders waited for German artillery and soldiers with rifles. Instead the Germans landed gliders on the fort's roof. These paratroopers closed the ventilation vents, assaulted the fort, and the fortress fell in under two days. German tanks rolled on and Belgium fell days later.
+Its defenders waited for German artillery and soldiers to attack. Instead the Germans landed gliders on the fort's roof. Paratroopers walked out, closed the ventilation vents, assaulted the fort, and the fortress fell in under two days. With barely a struggle, German tanks rolled on and Belgium fell days later.
 
-Despite airports, radios, and cars being used throughout society, the Allies, especially the officers, thought it was World War I. Fort Eben-Emael was symbolic of their entire battle plan. The French built bunkers that were far larger. None of them worked. To showcase the mental shock of these soldiers defending against German Blitzkrieg tactics, one French officer wrote a note to his President. "I am killing myself Mr President to let you know that all my men were brave, but one cannot send men to fight tanks with rifles."
+Fort Eben-Emael was symbolic of the entire Allied battle plan. The French built bunkers that were far larger. None of them worked. Despite airports, radios, and cars being used throughout society, the Allies, especially the officers, still thought it was World War I.  An aged mentality suddely facing modern realities was a complete mental shock. To showcase the effect defending against German Blitzkrieg tactics had, one French officer wrote a note to his President. "I am killing myself Mr President to let you know that all my men were brave, but one cannot send men to fight tanks with rifles."
 
-The Nazis had just beaten an enemy who couldn't adapt, and promptly made the same mistake. They read their early wins as proof of their superiority rather than the application of tools anyone can emulate. With Western Europe occupied, they thought "racially inferior" Soviets would be a push-over. Although their invasion (1941) caused an egregious loss of Soviet life and property, within a few years the Soviets were fielding better tanks and planes and approaching German military command sophistication. By 1943 the tide of the war turned for the Soviets. 
+The Nazis had just beaten an enemy who couldn't adapt, and soon enough made the same mistake. They read their early wins as proof of their superiority rather than the application of tools anyone can emulate. With Western Europe occupied, they thought "racially inferior" Soviets would be a push-over. Although their invasion (1941) caused an egregious loss of Soviet life and property, within a few years the Soviets were fielding better tanks and planes and approaching German military command sophistication. By 1943 the tide of the war turned for the Soviets. 
 
-Meanwhile, America entered the war in late 1941. With "Rosie the Riveter" and "V for Victory" leading the way, America turned its consumer economy to mass-produce weapons, plants, ships faster than anyone could predict. Soon a 200,000 man-army turned into 8,000,000, led by new commanders like Bradley and Patton who were doing combined arms warfare better than Germany ever did.
+Meanwhile, America entered the war in late 1941. With "Rosie the Riveter" and "V for Victory" leading the way, America turned its consumer economy to mass-produce quality weapons, plants, ships faster than anyone could predict. Soon a 200,000 man-army turned into 8,000,000, led by new commanders like Bradley and Patton who were doing combined arms warfare better than Germany ever did.
 
 Nazi Germany, so obsessed with genetic explanations for its success, couldn't compete. They resisted mobilizing women as workers or fighters despite dire need for both. While some worked to increase production (which did increase), the regime was trapped inside its own extreme, and continued to hunt down supposed undesirables and hoped in vain that a self-declared super intelligence would create "wunderweapons" to save them. They were overrun anyway, and Nazi leaders called for the nation's own destruction for having failed the racial test of history.
 
@@ -2261,7 +2243,7 @@ The merchant and blacksmith nod at the apprentice.
 
 Each lights a candle and places their boxed candle at this location.
 
-The merchant flips the sandglass.
+The merchant flips the sand clock.
 
 "The chimney one is dying. Rod wax not melting. Dead at 1/10 of glass." The blacksmith writes it down.
 
@@ -2966,6 +2948,7 @@ I see fear.
 I cannot help him. I must follow the ladies to start the morning chores. I pray this farmer is a good man.
 
 --
+ <!-- - wife/nurse cares for a hurt farmer. another women wants to use traditional remedies. nurse must confront with respect "we aren't doing that anymore...embrace recognizing where where are (river) and what we need (bridge) " -->
 
 That night, my husband returns. He has a cut on the forearm. But he is smiling as he tells me what happened.
 
@@ -3024,6 +3007,8 @@ He gets angry. "You don't want that. That is useless stuff. You don't want to wo
 I see a big ad. In Japanese and in English.
 
 America. A city across the ocean burned to the ground—San Francisco. In big letters "The city of the future. Rising from the ashes!" Wages so high we do not believe. We could stay and help build Japan. But now my husband wants to go.
+
+<!-- do we need to see them go? -->
 
 We prepare our important belongings. Clothes. Soap. Antiseptic liquid. Books. English dictionary. Screwdrivers, wrenches, hammers. And toys for our baby on the way.
 
@@ -3542,6 +3527,8 @@ The struggle isn't inevitable. The tools to fix it already exist. The problem is
 This all became the practical foundations of Techvolution.
 
 ### Story—Last call
+
+<!-- snow day? or add what part asking reader what they'd do in a crash? aim for a  -->
 
 **Thank you for calling claims, my name is Peter, how can I help you?**
 
