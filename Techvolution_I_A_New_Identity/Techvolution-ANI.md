@@ -147,13 +147,11 @@ Raccoons are the ultimate example. Originally from the tropical forests of Centr
 
 They slowly increased their range into warmer parts of America. But when human barns, garages, and garbage arrived, these adaptive creatures' range exploded. Piggybacking on civilization, raccoons not only survived climates they couldn't naturally endure, they thrived. Many urbanites around the world know all too well. It's why our garbage bins must be raccoon-proofed. Or at least try to be, as these creatures often outwit us.
 
-Contrast them with another city creature, squirrels. Urban raccoons create nothing in the urban environment, but can still consistently find enough homes and food to prosper. A squirrel does the same, but renews the biological ecosystem it feeds on by planting many nuts each year. An urban raccoon renews nothing it depends on—giving back neither to the technological ecosystem that feeds it nor to the biological one it has left behind. In nature, taking and giving back are the same act—the squirrel can't feed itself without seeding the forest. Our technological ecosystem has no such mechanism. Here, you can try to take without ever giving back. It's up to parents, belief systems, or policies to keep us honest.
+Contrast them with another city creature, squirrels. Urban raccoons create nothing in the urban environment, but can still consistently find enough homes and food to prosper. A squirrel does the same, but renews the biological ecosystem it feeds on by planting many nuts each year. An urban raccoon renews nothing it depends on—giving back neither to the technological ecosystem that feeds it nor to the biological one it has left behind. In a balanced ecosystem, taking and giving back are the same act—the squirrel can't feed itself without seeding the forest. Our technological ecosystem has no such mechanism. Here, you can try to take without ever giving back. Without it, we urban raccoons have to do consciously what natural selection does automatically for the squirrel.
 
 So, to stay a player in the game of life, creatures can stand out via their genes, phenotypes, and extended phenotypes. The right mixture means an animal can harvest enough resources and protect itself long enough to procreate and thereby keep playing the game.
 
 Now, in our quest to better understand ourselves, which of these scenarios do you think best describes humans in the 21st century?
-
-- without the mechanism, we urban raccoons must do what natural selection does automatically for the squirrel....
 
 ### Doesn't My Insurance Cover This?
 
@@ -225,23 +223,29 @@ The gap stayed open for seventy years. Naturalists accepted Darwin's claim that 
 
 Simultaneously, fields such as physics, chemistry, geology, and mathematics were advancing, enriching humanity with wonders like electricity, medical cures, and aviation. As nature revealed its mysteries, one might ask: Why did we not apply evolution's principles to our own civilization?
 
-We attempted to do so, but we only saw our genotype or phenotype in our reflection, and were therefore destined to fail. Remember that evolution does not prescribe good ideas; it simply selects out the bad ones. Two of the worst ideas ever subjected to that test arose as scientists were arguring the mechanisms for evolution.
+We attempted to do so, but we only saw our genotype or phenotype in our reflection, and were therefore destined to fail. Remember that evolution does not prescribe good ideas; it simply selects out the bad ones. Two of the worst ideas ever subjected to that test arose as scientists were arguing the mechanisms for evolution.
 
 These were fascism and communism.
 
-One looked at us and saw only genotype: each person is solely defined by their bloodline, so act accordingly and promote the super humans and purge the dead weight with eugenics. The other saw only phenotype: remake the human condition by empowering educated decision makers to engineer a better human.
+One looked at us and saw only genotype: each person is solely defined by their bloodline, so act accordingly—promote the supermen and purge the dead weight with eugenics. The other saw only phenotype: remake the human condition by empowering educated decision makers to engineer a better human.
 
-Of course, the mapping isn't perfect. Neither regime used these terms exactly and their beliefs and actions had other inputs. But both concentrated on genotype or phenotype to a great degree. Which explains why these scientifically advanced societies accepted being so murderous to their own members, hated (and hate) each other so much, and were fundamentally unable to compromise with the other.
+Of course, the mapping isn't perfect. Neither regime used these terms exactly, and their beliefs and actions had other inputs. But both concentrated on genotype or phenotype to a great degree. Which explains why these scientifically advanced societies accepted being so murderous to their own members—even when it wrecked their own regimes.
+
+One example among many: Enrico Fermi, John von Neumann, Edward Teller, and many other scientists fled Europe for America, where they soon built radar, computers, and the atom bomb—the very "wonder weapons" the Nazis believed their own genetics would deliver.
+
+The Soviets did the same from the other direction. In the late 1930s, as the world was working out how radio, automobiles, and aircraft would change warfare, they executed most of their senior commanders—three of five marshals, thirteen of fifteen army commanders, and an estimated 30,000 other officers. All for supposed disloyalty and with the assumption that their ideology could train better replacements. Then in 1940 they fought a war against Finland, whose military was a fraction of their size, to a standstill. 
+
+Extremism cost each regime dearly, and neither could learn from the other. Locked into opposite halves of the same argument, they hated each other too much to borrow anything—which is exactly what an adapting system must be able to do.
 
 Clearly, humanity has had many bad ideas before. Fascism and communism were particularly horrible because each came of age when the science of genes and heredity was young enough to bend to their premises.
 
 However, as awful as it might sound, the problem isn't that an extreme couldn't have a technological success. Each was doomed because neither could sustain any success; extremes have complacency embedded in them.
 
-Each regime won early on genuine innovation—Germany's combined-arms warfare Blitzfrieg that rolled over Europe, the Soviets' crash industrialization that modernized the country. Then each stalled, for the same reason: they had purged the very half of society that helps a lifeform adapts. Extremes carry their own complacency; a system that silences half is dissenters, tinkerers, and doubters loses the variety it needs to keep evolving. That failure is the deepest lesson of the century, and we'll return to it. For now, the point is simpler: neither genotype nor phenotype, neither genetic markers like personal initative and phenotype related markers like regulation are what wins the game.
+Each regime won early on genuine innovation—Germany's combined-arms warfare Blitzfrieg that rolled over Europe, the Soviets' crash industrialization that modernized the country. Then each stalled, for the same reason: they had purged the very half of society that helps a lifeform adapts. Extremes carry their own complacency; a system that silences half is dissenters, tinkerers, and doubters loses the variety it needs to keep evolving. That failure is the deepest lesson of the century, and we'll return to it in a later chapter. For now, the point is simpler: neither genotype nor phenotype, neither genetic markers like personal initative and phenotype related markers like government regulation are what wins the game.
 
-This was proven in biology too late. The debate around Darwin was settled around the same time, with statistics. Beginning around 1918, mathematicians showed that many discrete genes, each of small effect, add up across a population to exactly the smooth gradual change Darwin had described. The blending problem dissolved because genes don't blend, they shuffle around. By the 1940s selection and genetics had fused into the Modern Synthesis, and biologists could finally demonstrate the intricate workings—co-evolution, genetic variation, speciation—that populated our planet with an astonishing diversity of life over billions of years.
+This was proven in biology too late. As communism and fascism were getting a foothold, the debate around Darwin was settled, with statistics. Beginning around 1918, mathematicians showed that many discrete genes, each of small effect, add up across a population to exactly the smooth gradual change Darwin had described. The blending problem dissolved because genes don't blend, they shuffle around. Research continued and by the 1940s selection and genetics had fused into the Modern Synthesis, and biologists could finally demonstrate the intricate workings—co-evolution, genetic variation, speciation—that populated our planet with an astonishing diversity of life over billions of years.
 
-The lesson to learn is that defining human success as either a genotype or phenotype is a dead-end. Nature doesn't sort itself that way. Darwin's engine was lifeforms defined by both, using variations to compete against each other, or more commonly, to find untapped niches. What falls out of that competition looks a lot like cooperation. A tree grows tall to beat its neighbors to the light, and happens to shade, shelter, hold soil, and feed birds and mammals while doing it. In nature, nobody is setting out to help anybody. The forest happens anyway.
+The lesson to learn is that defining human success as either a genotype or phenotype is a dead-end. Nature doesn't sort itself that way. Darwin's engine was lifeforms defined by both, using variations to compete against each other, or more commonly, to find untapped niches. What falls out of that competition looks a lot like cooperation. A tree grows tall to beat its neighbors to the light, and happens to shade, shelter, hold soil, and feed birds and mammals while doing it. Although in nature, nobody is setting out to help anybody. The forest happens anyway and everyone benefits.
 
 Humans, with our raccoon like living in a new technological space, we must emulate nature as best we can to reach its bounty. Extremism is not it.
 
@@ -309,7 +313,7 @@ Honesty is great in friendships and often in academics, but not so much at work 
 
 So I got a job at an insurance claim call center (I swear I thought it was a good idea).
 
-Insurance adjuster training was surprisingly simple. In my jurisdiction, the policy is a standard contract written by the government; private insurance companies just underwrite and administer it. Car crash fault rules are also government regulations. When dealing with claims elsewhere—where laws allow companies to write the policy under government supervision, while case law determines fault—the work is still much the same. Finding the policies, rules, and paperwork was often the hardest part. It took only a few days to learn all this.
+Insurance adjuster training was surprisingly simple. Each state either has one standard contract or regulated one written by private insurance companies. Car crash fault rules are also either government regulations or established court rules. Either way, the policies and fault rules are quite similar. Finding the policies, rules, and paperwork was often the hardest part. It took only a few days to learn all this.
 
 I was happy. I could learn and communicate this stuff with confidence.
 
@@ -341,7 +345,7 @@ A young family's home had been robbed. Someone had broken in, stolen appliances,
 
 Days from the big night, a family home was turned into a violated, thieved, unlivable space.
 
-Yet, while listening to the parents, it was clear they only cared one thing. It wasn't relief from the arduous police and insurance paperwork, or the correct market value of their family heirlooms. Their pain was only for their kids lost Christmas.
+Yet, while listening to the parents, it was clear they only cared about one thing. It wasn't relief from the arduous police and insurance paperwork, or the correct market value of their family heirlooms. Their pain was only for their kids' lost Christmas.
 
 Time to fight the Grinch and spread some cheer!
 
@@ -353,9 +357,9 @@ The parents were very grateful. They even congratulated me on my recent promotio
 
 Not all claims ended so well. I must admit I cherish this one.
 
-Notice what actually happened there. The insurance script was a starting point. But a hotel room and a check for market value weren't their problem. Their pain was somewhere else. It was four kids and a calendar date that comes only once a year. Once I realized the real problem, a different set of tools was obvious.
+Notice what actually happened there. The insurance script was a starting point. But a hotel room and a check for market value weren't their problem. Their pain was somewhere else. It was the special day that comes only once a year. Once I realized the real problem, a different set of tools was obvious.
 
-As we journey to better solve our problems by updating our self-identity, I want to put you in a unique frame of mind. One far away from the fighting so prevalent in our politics, or the angst of every day life. I want you to remember the childish glee you had when holding a present.
+As we journey to better solve our problems by updating our self-identity, I want to put you in a unique frame of mind. One far away from the fighting so prevalent in our politics, or the angst of everyday life. I want you to remember the childish glee you had when holding a present.
 
 It could be your birthday, graduation, or favorite holiday. Whichever memory is your most precious, I invite you to embrace the feeling it gives you.
 
@@ -363,7 +367,9 @@ Because it's time to wake up and run downstairs to see something made just for y
 
 As you lift it into the air, you clench it with a hug, tear apart the bow and wrapping paper, and toss open the box with pure unbridled joy. You can't wait to embrace the wonders of something entirely new.
 
-The box is labelled "Game of Life". Inside you discover:
+This is the strange power of an unfamiliar tool. You never wanted it. How could you? But you were ready for it. Whatever it turns out to be, some part of you is about to wake up that had nowhere to go a minute ago.
+
+This gift is labelled "Game of Life". Inside you discover:
 
 Sand clock, board game, modeling clay, scoreboard, and booklet. Now you wonder: How do these seemingly ordinary objects reshape human identity and unite us against our common enemy?
 
@@ -403,7 +409,7 @@ Where is the water? When will you need it? How long will it last? A lifeform tha
 
 This is why life's evolution is so persistent and universal. Reproduction is the only process that produces variants in enough abundance to test what works in any given environment. That constant testing has created countless species over billions of years.
 
-Variants are Squares scattering across the board, feeling their way through surroundings they never chose. Which one you're born as is luck. What happens next isn't.
+Variants are Squares scattering across the board, feeling their way through surroundings they never chose. Which variant and environment you're born into is luck. What happens next isn't.
 
 Touching around in the darkness turns our senses—touch, smell, sight—into crude teachers. Success brings pleasure, failure brings pain, and slowly these experiences guide us to repeat what works and avoid what doesn't. Selection slowly builds genotypes that hold water better (camels, llamas) and phenotypes that learn where the water is (elephants, giraffes). You can feel a trace of this yourself any time you stop drinking: true thirst will soon drive anyone to water, to stop the pain of dehydration.
 
@@ -425,11 +431,9 @@ Accepting the rules is the foundation for the mastery we need to move from biolo
 
 Unlike anything else in the universe (that we know of), lifeforms grow, learn, and pass on genes—and sometimes lessons—to the next generation. Humans differ only in perspective. Most creatures depend on instinct and pain to find resources, while we are a little more self-aware of *why* we need shelter, food, and water to stay alive. More knowledge is worth having, because it means more accuracy about what we need and how to get it.
 
-So unlike Flatland, our planet is not just a place of existence but a proving ground, where the laws of nature decide which variants persist and which do not. Each of us is a unique shape. This book's goal is to help us all see the gameboard more clearly.
+So unlike Flatland, our planet is not just a place of existence but a proving ground, where the laws of nature decide which variants persist and which do not. Each of us is a unique shape with an unclear view of the gameboard.
 
 So let's jump off the screen and see what the game board of three dimensions looks like. In the next chapter, we'll find it filled with natural laws—a gameboard that emerges through life's encounter with the universe.
-
-- idea: potential Christmas story tie-in, "such is the power of getting an unknown piece technology, it can actualize a part of our psyche that would otherwise be left dormant."
 
 ## Chapter 3—Game Board: The Emergent Environment
 
@@ -451,7 +455,7 @@ Consider our Moon—not merely a celestial object, but a profound result of cosm
 
 The collision was so violent it ejected massive amounts of molten rock and debris into Earth's orbit. Gravity began pulling these fragments together. Over time, these fragments coalesced, cooling and solidifying into what we now know as the Moon.
 
-That's why there is little to no heavy elements like iron and gold on the Moon, it was mostly lighter stuff that got ejected away from Earth all those years ago.
+That's why there are little to no heavy elements like iron and gold on the Moon, it was mostly lighter stuff that got ejected away from Earth all those years ago.
 
 The collision between early Earth and Theia was so massive it melted Earth's core for billions of years. Yet, even this massive collision was controlled by the natural laws the entire time.
 
@@ -467,17 +471,13 @@ They believe a supernova explosion could be to blame for both the late Devonian 
 
 Imagine that.
 
-One of those twinkling lights up in the night sky could either be utterly too far away to ever care about. Or they could kill almost everything on Earth and life has to return to the starting line.
+One of those twinkling lights might be too far away to ever matter. Or it could kill almost everything on Earth and send life back to the starting line.
 
-The game board is variable. It could be a super nova trillions of kilometers away, a Moon within eyesight, or it could be the cold of night closing in on a lost traveler who thought he was enjoying a country ride.
+The game board is variable. It could be a supernova trillions of kilometers away, a Moon within eyesight, or it could be the cold of night closing in on a lost traveler who thought he was enjoying a country ride.
 
 In an infinite Universe, the number of dimensions we need to comprehend is near infinite as well. Hence why our ability to perceive different dimensions is so crucial to our survival.
 
 But why can't we just take our time? Why is there such consequence to our choices? The answer lies inside the natural laws of the universe. It's why all games come with clocks.
-
-
-
-
 
 ## Chapter 4—Sand Clock: The Ever Present Clock
 
@@ -499,11 +499,11 @@ And understanding how objects disarrange into their component parts is effective
 
 Science calls it the second law of thermodynamics. It's most commonly called entropy. This is the fundamental law that describes how objects and energy systems naturally tend to increase in disorganization over time.
 
-In a way, entropy is the universe's natural accounting system for energy transformation. The results of the statistical behavior of particles probabilistically shifting between states of order and disorder. For example, natural forces create stars that generate immense radiation energy, but natural force also use this fuel and turn the star effectively dark.
+In a way, entropy is the universe's natural accounting system for energy transformation. The results of the statistical behavior of particles probabilistically shifting between states of order and disorder. For example, natural forces create stars that generate immense radiation energy, but natural forces also use up this fuel and turn the star effectively dark.
 
 To realize what the second law of thermodynamics does over time, think of this comparison.
 
-Earth and Mars were once about the same. Their cores were hot magma. They had protective magnetospheres. Their atmospheres thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike some planets Mars and Earth were far from bland or boring. Energy from their cores, magnetospheres, and gravity organized many unique objects like mountains, lakes, and atmosphere. The forces of nature created two similar game boards.
+Earth and Mars were once about the same. Their cores were hot magma. They had protective magnetospheres. Their atmospheres were thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike some planets Mars and Earth were far from bland or boring. Energy from their cores, magnetospheres, and gravity organized many unique objects like mountains, lakes, and atmosphere. The forces of nature created two similar game boards.
 
 But entropy is always there.
 
@@ -517,13 +517,23 @@ That is why entropy is often associated with the arrow of time. Events in the Un
 
 All this means there is no going back. So, not only is every place in the Universe unique, but so is every moment.
 
+This is the part Maria's world obeyed too. Surrounded by awards, titles, and mind share, the DVD business looked solid. The physics behind it showed the cracks.
+
+Like everything life makes, the DVD was an arrangement held together by constant work—pressing plants running, trucks moving, shelves restocked, stores staffed, customers visiting. Stop pouring energy into any of it and the whole thing comes apart. Streaming carried the same movie for less work. One example, Blockbuster alone had 60,000 workers with thousands of rental stores. Netflix has 30,000 workers and several data centers. Lots of work to create and maintain, but still far less than the DVD. Such is the difference between physical transport versus digital.
+
+The same clock runs on every arrangement we build. A coal town is a town because coal is worth digging; the school, the diner, and the hardware store are all downstream of coal's ability to energize a nation. A local newspaper was printing presses, delivery routes, and classified ads that paid for the newsroom, until the lucrative classifieds moved online and the newsroom lost what fed it.
+
+None of these were destroyed in an attack. They dispersed, the way everything does when the energy holding it together goes somewhere that does the same job for less.
+
+Now, run the test on your own arrangement. What does it cost in energy to keep your lifestyle running? The roadways, automobile, commute, office, house? And what would it cost something else—perhaps AI, perhaps something else—to do the same job? You don't need a prediction. You need the number.
+
 Scientists building on Einstein's work called it spacetime. This term combines the three dimensions of space we saw in the game board (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
 
 And this is our game clock.
 
-While the game board can tell you where you are, the game clock tells us when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. The game board and game clock are forever emergent and relative to where and when you exist in the Universe.
+While the game board can tell you where you are, the game clock says when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. The game board and game clock are forever emergent and relative to where and when you exist in the Universe.
 
-The laws of nature, then, are more than scientific concepts—they are what keeps the game board itself in motion. Unlike chess pieces who play on the same board over and over, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, beaches, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sand clocks, timepieces, or any other device. Each tells us how much time we have before order disperses (the process called entropy) if no work is done to maintain it.
+The laws of nature, then, are more than scientific concepts—they are what keeps the game board itself in motion. Unlike chess pieces and players who play on the same board over and over, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, beaches, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sand clocks, timepieces, or any other device. Each tells us how much time we have before order disperses (the process called entropy) if no work is done to maintain it.
 
 And this reveals the ultimate puzzle: in a universe where order disperses unless work is done to hold it together, what kind of thing can do that work? What kind of thing can harvest energy fast enough to postpone its own dispersal? The answer is something the Universe had not produced before—until it did.
 
@@ -547,6 +557,14 @@ Enter the modeling clay, while still playing in your hands, you're starting to r
 
 There have been countless different forms of life, but every single one has this in common; living organisms unite matter via metabolism. These are a set of chemical processes that occur within a living organism to maintain life. It involves breaking down nutrients to release energy and using that energy to build, repair, and discard cellular structures. Metabolism is how life locally postpones entropy: it imports useful energy faster than disorder accumulates.
 
+Life never consumes anything. It only borrows and converts matter using energy. Take a tree. After a squirrel plants it and before a raccoon climbs it, it needs to grow. But how?
+
+It turns air and sunlight into wood. 
+
+A tree pulls carbon dioxide out of the air, uses sunlight as the energy source to break those molecules apart, and stitches the carbon atoms together into solid wood. The oxygen gets released back into the air for us to breathe, while the sun's energy gets locked inside the chemical bonds of the wood like a battery being charged. Then, when you burn that wood, you're simply running the whole process in reverse — the carbon reunites with oxygen to form carbon dioxide again, the stored solar energy is released as heat and light, and the tree essentially dissolves back into the same air it came from. A burning log is just a tree giving back its borrowed sunlight.
+
+Nothing is used up, only moved and rearranged—which means every organism is quietly supplying the inputs for something else.
+
 And most importantly, we pass on life's baton to the next generation, and thereby organize more matter as time goes on. Life turns the same elements available throughout the Universe into pockets of locally postponed entropy—organized matter maintained by constant energy throughput. And that's how life locally postpones entropy long enough to pass the torch forward on the game board.
 
 If life can keep harnessing enough energy to stay alive.
@@ -563,11 +581,11 @@ Life emerged around 3.7 to 4.1 billion years ago. Earth was dramatically differe
 
 Yet, it was here life started.
 
-Science has some ideas how. There's been many experiments trying to spark "primordial ooze" as one theory calls the rich, chemical-laden matter of early Earth, where complex organic molecules might have first combined into self-replicating cells. But despite trying to emulate this setting nothing's worked so far to kickstart molecules to replicate. In a world where science has stolen many of our mysteries, the emergence of life on Earth is still as wondrous as ever. And with so much uncertainty, each person is free to believe whatever they want was the start of it all.
+Science has some ideas how. There have been many experiments trying to spark "primordial ooze" as one theory calls the rich, chemical-laden matter of early Earth, where complex organic molecules might have first combined into self-replicating cells. But despite trying to emulate this setting nothing's worked so far to kickstart molecules to replicate. In a world where science has stolen many of our mysteries, the emergence of life on Earth is still as wondrous as ever. And with so much uncertainty, each person is free to believe whatever they want was the start of it all.
 
 The point is life did start.
 
-Matter somehow started to turn into an organized state. While we do not know the exact mechanism of life's origin, once it got going, life grew by molecules gaining the ability to create copies of itself. Thereafter, molecules kept finding the energy to buck entropy and keep replicating themselves.
+Matter somehow started to turn into an organized state. While we do not know the exact mechanism of life's origin, once it got going, life grew by molecules gaining the ability to create copies of themselves. Thereafter, molecules kept finding the energy to buck entropy and keep replicating themselves.
 
 New clay was being born.
 
@@ -575,7 +593,9 @@ The nearest energy source was hydrothermal vents, which scientists suspect foste
 
 For billions of years these primitive creatures lived. In a sense they could be seen as colonizers.
 
-Because early prokaryotes called cyanobacteria converted energy into matter that gradually transformed the environment through photosynthesis, which produced atmospheric oxygen. We take this chemical for granted today, but it is rare, supercharges metabolism, and because it converts sunlight back into matter, has a near endless energy source. 
+Because early prokaryotes called cyanobacteria converted energy into matter that gradually transformed the environment through photosynthesis, which produced atmospheric oxygen. The Great Oxidation Event killed most lifeforms on Earth not used to so much reactive free oxygen.
+
+The benefit was fuel. We take this chemical for granted today, but it is rare, supercharges metabolism, and because it converts sunlight back into matter, has a near endless energy source. 
 
 Converting toxic gases into oxygen fundamentally altered the Earth's atmosphere. Eventually its rich energy source allowed eukaryotic cells to emerge, representing a significant leap in biological complexity. These cells contained a nucleus and more sophisticated cellular structures.
 
@@ -592,8 +612,6 @@ What came next was called the Cambrian Explosion, where many new creatures emerg
 With an oxygen atmosphere fueling metabolic processes like never before, life could truly get creative with its modeling clay. Life could venture out and find every single place on the game board with energy to harvest regular atoms into biological mass.
 
 With so many players now on the board, the question of who keeps playing—and who doesn't—needed a mechanism. The Game of Life would need a scoreboard.
-
-Typos: "you sit it aside" → set; "an enormous of energy" → an enormous amount; "Mars hot magma core" → Mars'; "Science has some ideas how, but despite many experiments... But nothing's worked" (broken sentence — two "but"s, no main clause).
 
 <!-- idea: integrate life turns regular mass to biomass, to increase the field of play, and players. so, life can never use water, but only make-use of, or make-waste, and therefore expand its range or see it dwindle. input the concept of equilibrium. This virus is an example. It succeeded in finding a host, replicating itself, and so will be in the future. While you may complain, that hot chicken soup you're about to have was once a lifeform, and you're using it to stay alive and keep your genes around to hopefully pass your genes into the future. Hopefully that poultry had kids, or close cousins, before it died for you. (implement in later chapter in ecosystem expansion, technomass, or the transition from biology to technology) -->
 
@@ -639,7 +657,7 @@ Here's why valuing procreation keeps winning the Game of Life.
 
 Prioritizing offspring is how life turns a scarce energy budget into more players, and uses the slight variations between them to evolve new species as the board demands.
 
-For example, brown bears are nearly identical to polar bears. They can even interbreed. By giving points to offspring, evolution slowly turned brown bears with lighter coats, living near the frigid Arctic, into polar bears. After enough points (kids), speciation happens, meaning a new bear species is made, one with a white coat, bigger paws, great swimming, and a taste for seals. And the differences aren't only physical—speciation also shows up in behavior, like breeding in time with the brief Arctic spring or knowing which seal-breathing holes to wait beside.
+For example, brown bears are nearly identical to polar bears. They can even interbreed. By giving points to offspring, evolution slowly turned brown bears with lighter coats, living near the frigid Arctic, into polar bears. After enough points (kids), speciation happens, meaning a new bear species is made, one with a white coat, bigger paws, strong swimming, and a taste for seals. And the differences aren't only physical—speciation also shows up in behavior, like breeding in time with the brief Arctic spring or knowing which seal-breathing holes to wait beside.
 
 And, with two large bear species playing the game, if the game board gets hotter or colder, life already has a winner waiting.
 
@@ -649,21 +667,23 @@ No one intends it, but what happens as a result looks like cooperation inside an
 
 There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem. This energy budget is a major factor in an environment's "carrying capacity"; the maximum population size of a species that an environment can sustain indefinitely, based on the availability of resources like food, water, and habitat. 
 
-It starts with producers (plants, phytoplankton) who convert energy to biomass. Plant-eaters (caterpillars, deer) who feed on the producers, fertilize soil, and sometimes spread seeds. Predators (lions, sharks) who prevent herbivores from overeating plant life. Scavengers (vultures, flies), who feed on dead and decaying organic matter. Decomposers (mushrooms, bacteria) to break down the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time (whom I call testers, but note this is a simplification and not a traditional ecological classification.). Nobody is assigned these roles. They are open jobs and an open job is unclaimed energy, so something always evolves to fill it, not out of duty but because an empty role is the easiest living on the board.
+It starts with producers (plants, phytoplankton) who convert energy to biomass. Plant-eaters (caterpillars, deer) who feed on the producers, fertilize soil, and sometimes spread seeds. Predators (lions, sharks) who prevent herbivores from overeating plant life. Scavengers (vultures, flies), who feed on dead and decaying organic matter. Decomposers (mushrooms, bacteria) to break down the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time (which I call testers, but note this is a simplification and not a traditional ecological classification.) Nobody is assigned these roles. They are open jobs and an open job is unclaimed energy, so something always evolves to fill it, not out of duty but because an empty role is the easiest living on the board.
+
+Maria's world worked the same way. Netflix started by renting DVDs by mail. The two technologies were on the game board at the same time. Nobody set out to end the video store. They could co-exist if people wanted them to. But ecosystems don't duplicate energy use for identical outcomes. Streaming found a faster route—a movie tonight, no drive, no late fee—doing the same job for less. Something is always trying to take that route, and evolution scores points for whoever gets there first.
 
 In short, ecosystems form around available energy. They are a web of checks and balances, where each creature grabbing what it can happens to hold the whole in balance.
 
 Over time, natural selection acts on individual creatures, each competing for its share of that energy. Out of all that competition something larger emerges: a sprawling diversity of life, no single piece of it planned, that together makes the whole system hard to kill. When the climate shifts or a disaster strikes, that variety is the insurance—enough survives to rebuild. I think that's the real wonder of it: a system that keeps "passing the torch" of creation, carrying life forward through every change.
 
-All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share much: seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must find untapped value, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. 
+All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share much: seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must find untapped energy, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. 
 
 No individual reciprocates on purpose. But because every member of a species is nearly a copy of the rest, a trait that harvests energy well shows up in all of them at once, and keeps paying off generation after generation. No single species runs the whole ecosystem and none will ever succeed against entropy alone. Happily, the effect of every creature straining to live, and the sum of all that straining, is that life keeps pushing itself forward.
 
 By harvesting the same limited energy over and over, the creatures of an ecosystem end up bound together—not as a team with a shared goal, but as players stuck on the same board.
 
-That distinction matters. Remember the Jumanji movies: strangers pulled into a board game, each with a different skill—strength, speed, map-reading—who survive only by pooling those skills against the game itself. That is a real team, because they share one enemy. Life has a team like that too, and its enemy is entropy: every living thing, everywhere, is fighting the same slow pull toward cold and stillness. Against *that*, all living things harvests energy just to hold itself together. Not figuratively. Stop, and the atoms go their separate ways.
+That distinction matters. Remember the Jumanji movies: strangers pulled into a board game, each with a different skill—strength, speed, map-reading—who survive only by pooling those skills against the game itself. That is a real team, because they share one enemy. Life has a team like that too, and its enemy is entropy: every living thing, everywhere, is fighting the same slow pull toward cold and stillness. Against *that*, all living things harvest energy just to hold themselves together. Not figuratively. Stop, and the atoms go their separate ways.
 
-But against each other, the players are rivals. A polar bear and a seal aren't teammates—they want opposite things. They are **boardmates**: creatures whose games are tangled because they're playing the same board. The seal to the bear. The virus to your cough. Individually, they have no shared purpose but they share the same board.
+But against each other, the players are rivals. A polar bear and a seal aren't teammates—they want opposite things. They are **boardmates**: creatures whose games are tangled because they're playing the same board. The seal and the bear. The virus and your cough. The DVD and the streaming box. Individually, they have no shared purpose but when they share a game board must together make a sustainable ecosystem.
 
 Take your virus. A body that can't fight it off is also a body unlikely to raise healthy offspring. The virus offers you no service; it wants exactly what you want, another turn. But by ending a game the weak were already losing, it clears a role the board had left open, and the energy that player held returns into play. Nobody arranged it, but it happened nonetheless.
 
@@ -697,13 +717,13 @@ Except we're authorizing thousands—sometimes hundreds of thousands—of dollar
 
 There was no rationalization. No production line. This information arrived in a constant, random stream: calls, emails, voicemails. We had no control over the flow.
 
-Sometimes people call from the crash scene. Sometimes disappear for weeks. Sometimes they call back 10 times a day for an update. Oh, and people lie constantly.
+Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Oh, and people lie constantly.
 
 "Why am I at fault?"
 _Because you hit a freaking tree!_
 "Unfortunately, we cannot sue the person who planted the tree."
 
-"I only drive Buick Enclaves."
+"I only drive Buick Allure."
 _That's... really specific._
 "Okay, I'll track one down for you."
 
@@ -717,7 +737,7 @@ Then I got an email from a manager:
 
 *"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
 
-I was yet to learn the difference between working well and meeting targets. The mayhem was yet to really set in.
+I was learning there was a difference between working well and meeting targets. The mayhem was yet to really set in.
 
 ## Chapter 7—What Does the Game of Life Mean
 
@@ -729,9 +749,9 @@ However, we should go into more detail about evolution's selection methods.
 
 Because natural selection isn't the only way life picks genes. Other mechanisms include sexual selection, where mates (usually females, but sometimes both sexes) select a partner for fitness indicating traits like feather color or winning a duel, or for novel traits, which is perhaps how things like tusks got their start. Genetic drift is when genes change by chance, like when genetic diseases become common among isolated settlements just because the few founders had them. Then there's gene flow, where species once diverged into separate pockets but reintegrate later to once again exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
 
-Co-evolution is another. Here two species become each other's environment. They appear as partners to a casual observer, but really both apply pressure the other must continually adapt to. Flowers and bees shape each other over millions of years: longer nectar tubes, longer tongues, neither intending the fit. In the short term, the result looks like partnership, in the long term it's really just two players locked on the same board, each using the other to advance themselve.
+Co-evolution is another. Here two species become each other's environment. They appear as partners to a casual observer, but really both apply pressure the other must continually adapt to. Flowers and bees shape each other over millions of years: longer nectar tubes, longer tongues, neither intending the fit. In the short term, the result looks like partnership, in the long term it's really just two players locked on the same board, each using the other to advance itself.
 
-Epigenetics is another way to introduce new players, but with an important difference. Epigenetics is like a sophisticated control system for your genes. Imagine your DNA as a vast library, and epigenetic mechanisms are the librarians that decide which books (genes) get read and which remain closed. Genes therefore never change, but can alter how they are expressed, sometimes by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation linked to their parents' malnourishment during World War II. Epigenetics is nature's way of allowing organisms to mildly react to their environment without rewriting their entire genetic instruction manual.
+Epigenetics is another way to introduce new players, but with an important difference. Epigenetics is like a sophisticated control system for your genes. Imagine your DNA as a vast library, and epigenetic mechanisms are the librarians that decide which books (genes) get read and which remain closed. Genes therefore never change, but which genes get read does, sometimes by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation linked to their parents' malnourishment during World War II. Epigenetics is nature's way of allowing organisms to mildly react to their environment without rewriting their entire genetic instruction manual.
 
 Epigenetics is one of the mechanisms behind what we call the phenotype, these are the observable physical, biochemical, and behavioral characteristics of an organism that result from the interaction between its genotype and the environment. Two acorns growing, one in sunshine, the other in a forest shade, will grow to be two different looking trees, even if having the same genes.
 
@@ -763,7 +783,11 @@ We know how biology responds to these challenges, and when was the last time you
 
 Of course not.
 
-We see evolution in the natural world but not in our own lives. When watching a struggling polar bear today, we have no problem citing its evolutionary pressure caused by its changing environment. We know the point of contact between entropy and biology is a set of genes—variants that either harvest enough energy to make it into the next generation, or don't. The point of contact between entropy and us is almost always a tool, yet we do not think evolution pressures us as well.
+We see evolution in the natural world but not in our own lives. Watch a documentary about a struggling polar bear and nobody argues; the ice went, the polar bear is in trouble. Say the same about Maria—her environment changed and her adaptation stopped working well inside it—and it sounds like an excuse. Worse, we often hope the same pressure—an environment changing under us—somehow won't apply, granting ourselves exemptions no other animal gets.
+
+Look to today and you'll see the same thing. So many know so little about their tools' place in the ecosystem they can't say if they'll have a job next month. We have one vocabulary for animals and another for ourselves, describing the same thing.
+
+We know the point of contact between entropy and biology is a set of genes—variants that either harvest enough energy to make it into the next generation, or don't. The point of contact between entropy and us is almost always a tool, yet we do not think evolution pressures us as well.
 
 Even with all these indications that we're using technology to survive the Game of Life, few people label themselves as their tool. National, ethnic, gender, job, education, ideology, religion, race, sports teams, comic books, all have far more space in our personal identities than the tools we use to stay alive.
 
@@ -783,7 +807,7 @@ Why?
 
 The crab's name gives a clue. Their namesake is the Taira clan who dominated medieval Japan and were commonly known as the Heike. Their warriors fought a massive civil war against the Minamoto clan from 1180–1185.
 
-The war was decided at the massive Dan-no-ura naval Battle in western Japan.
+The war was decided at the massive Dan-no-ura naval battle in western Japan.
 
 The Heike lost and Minamoto's leader Yoritomo became the first Shōgun, or military ruler, of Japan. This was a cultural and political turning point in Japanese history. After it, for seven centuries, Japan was ruled not by emperors, but by samurai warriors and shōguns. Local legend said Heikegani crabs are reincarnations of the Heike warriors defeated at the battle. It is even written in _The Tale of the Heike_, a chronicle of ancient Japanese history.
 
@@ -1049,7 +1073,7 @@ And that's the lesson of nature we need to embrace. While we have a genetic hist
 
 Meaning the technological evolution this book advocates has been driving human evolution for generations. To varying degrees, an ecosystem fields producers, plant-eaters, predators, scavengers, decomposers, and testers—because each level has energy waiting to be harvested. Human temperaments fill these niches just as animals do: hoarders, tinkerers, makers, and the rest. A coach keeps whoever keeps scoring energy points, but never assigns roles to anyone. The jobs are open, and over time, someone always grows into them to complete a balanced ecosystem full of checks and balances.
 
-In the technological ecosystem, varied human genotypes and phenotypes use the extended phenotype to fill distinct ecological roles: producers (farms, power plants), plant-eaters (tool users), predators (innovators), scavengers (cheapskates, hoarders), decomposers (recyclers, refactorers, waste managers), and testers (tinkerers, hackers, and crooks). Like any biological ecosystem, these segments work together to better play the game.
+In the technological ecosystem, varied human genotypes and phenotypes use the extended phenotype to fill distinct ecological roles: producers (farms, power plants), plant-eaters (tool users), predators (innovators), scavengers (thrift buyers), decomposers (recyclers, refactorers, waste managers), and testers (tinkerers, hackers, and crooks). Like any biological ecosystem, these segments work together to better play the game.
 
 Producers grow the food or generate the electricity that powers technology. Plant-eaters —most of us—use tools to stay warm or cool, gather resources, raise their young.
 
@@ -3605,7 +3629,7 @@ dwarkesh.com/p/david-reich-2
 
 The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every creature answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The Game of Life is the same.
 
-From the grass producing the first biomatter, to grazers turning it into meat, to the predators hunting frailty, scavengers making use of every morsel, decomposers restarting the process and testers hacking new ideas for good or bad—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected to stay on the lifeboat called Earth.
+From the grass producing the first biomatter, to grazers turning it into meat, to the predators hunting frailty, scavengers making use of every morsel, decomposers restarting the process, and testers hacking new ideas for good or bad—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected to stay on the lifeboat called Earth.
 
 You can be motivated by and identify as anything you think best. Some animals raise their offspring, others compete with them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the game. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, from super advanced AI to the simple pencil, just know the only way to communicate value to natural selection is building material adaptations inside a working ecosystem.
 
@@ -3617,11 +3641,22 @@ New ideas have always had a hard road. Semmelweis begging doctors to wash their 
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Turning the scientific method on our technological ecosystem to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hardest part. It's evolving one without failure and conflict that's proven so difficult for us.
 
-Simply put, you can use your own beliefs to guide you. But the technomass all around you, is an ecosystem. And nature only increases its carrying capacity when its lifeforms uncover untapped niches and hunt down inefficiencies. Evolution is still selecting you—and everyone, always—on one thing: whether you build tools that reciprocate and keep life's torch alive against entropy's slow unmaking of life.
+- Here are the markers this book worked. If and when someone says "they are our enemy, and this policy is what we need to do about it" you can respond with. No, entropy is always degrading us, and changing our environment.
+- Life responds by building faster than entropy degrades.
+- Life adapts inside ecosystems.
+- You recognize the coach exists, because each of us is a coach.
+- You know there are different kinds of selection.
+- That predation is suppose to rid us of the least efficient consumer adaptations.
+- That the technomass all around us is an ecosystem.
+- That we harvest this ecosystem.
+- That there is a carrying capacity.
+- That extremes of genotype and phenotype are self-defeating.
+
+Simply put, you can use your own beliefs to guide you. But the technomass that surrounds us all is an ecosystem. And nature only increases its carrying capacity when its lifeforms uncover untapped niches and hunt down inefficiencies. Evolution is still selecting you—and everyone, always—on one thing: whether you build tools that reciprocate and keep life's torch alive against entropy's slow unmaking of life.
 
 None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live my version of a happy human life. Even so, I know my calories, heat, shelter, and electricity don't come from a wild nature, but from a technological ecosystem I work in, that others in and outside of my community, produce, graze, hunt, scavenge and so on.
 
-I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what tools I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software and dull pencils inside a society that finds it increasingly hard to build things quickly.
+I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what tools I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software and dull pencils inside a society that finds it increasingly hard to kill old tools like commuting to office buildings or telephone queues and instead build new things quickly.
 
 By naming the "technological giving tree" in the vignettes, I wanted to hit you with where we are: the very beginning of a technomass Earth. We are Kai—the hunter-gatherer who walked for days to find a tree he could have planted at home. It's no wonder Kai couldn't imagine agriculture; it took humans hundreds of thousands of years to learn to master biomass in such a way. We are a few thousand years into a technological Earth.
 
@@ -3631,7 +3666,7 @@ For now, the tree is dying.
 
 The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy (larger raises, dividends, houses, cars) but don't return enough (new tools, lifestyles, kids), so entropy tears it down. I've handled the claims for much of it: car breakdowns, collapsed sewer lines, flooded basements, burned homes, blown generators, fallen bridges. Across thousands of people, no one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
 
-We aren't doing that fast enough.
+We aren't doing that fast enough. We are using the wrong selection that is serving entropy.
 
 As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy often "wins". Instead of healing and evolving, we go in circles, fighting over policies as if they were scriptures. Meanwhile, we need the progressive-minded to find neglected problems and invent solutions to these untapped niches, the conservative-minded to mass-produce the tools, and everyone to use them to hunt inefficiencies.
 

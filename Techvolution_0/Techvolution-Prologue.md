@@ -51,9 +51,9 @@ Like the DVD or high-speed internet, none of this stuff just appeared. Someone t
 
 That is Maria's problem, scaled up to all of society. And we don't know how to correct our path.
 
-A biologist would see the problem easily. WWhen an ecosystem stops working—too much of one creature, too little of another—she studies it, finds the imbalance, and works to restore it. We have the same kind of problem. We just don't yet know how to see it.
+A biologist would see the problem easily. When an ecosystem stops working—too much of one creature, too little of another—she studies it, finds the imbalance, and works to restore it. We have the same kind of problem. We just don't yet know how to see it.
 
-And we have not been ignoring it. We have been drowning in proposed answers—every day another ocean of speeches, articles, and posts promising the fix. We've listened, and our frustration has curdled into a growing hatred of our own countrymen. Decades of our best efforts have added up to failure—not because we tried too little, but because we were aiming at the wrong target.
+And we have not been ignoring it. We have been drowning in proposed answers—every day another ocean of speeches, articles, and posts promising the fix. We've listened, and our frustration has curdled into a growing hatred of our own countrymen. Decades of voting in new leaders, switching parties, and wishing for more bipartisanship have added up to failure—not because we tried too little, but because we were aiming at the wrong target.
 
 This book won't tell you how to start building a better world on Monday morning. Others like _Rework_ or _Build_ already do that better. This book aims at something underneath: a way of seeing that makes the fights over identity, politics, and economics finally lose their grip on you.
 
