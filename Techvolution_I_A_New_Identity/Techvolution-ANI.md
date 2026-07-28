@@ -40,7 +40,7 @@ Chapter 7—What Does the Game of Life Mean
 Chapter 8—Our Base Player Nature
 Chapter 9—Spreading the Technological Soil
 Chapter 10—Planting, Building, and Playing The New Game
-Chapter 11—Back to Natural
+Chapter 11—Back to Individuals
 Chapter 12—Vignettes
 Chapter 13—Epilogue
 Chapter 14—Personal
@@ -855,7 +855,9 @@ Here, as you start your game, we are using every part of the word.
 
 By questioning our artificial creations, we're effectively asking what our nature is. And, not for academic reasons, but for the express purpose of better adapting to nature's environment, weather, and rulebook by becoming self-aware about the artificial selections we're currently making, so they respond to the real pressures our environment imposes rather than the noise so common in the identity, politics, and economics we currently use to play the Game of Technological Life.
 
-Since there is a sixth mass extinction of biological life underway, most certainly being caused by humanity's use—and misuse—of technology, I would hazard a guess if nature truly had a mother, she wouldn't mind us selecting our tools on real fitness, as fast as we can. For a self-aware selector aims at the same target nature does—real fitness—just aims better and shoots faster.
+Since 1970, monitored wildlife populations of mammals, birds, amphibians, reptiles, and fish have declined by roughly 68%. Scientists debate whether this counts as a mass extinction. Whatever it's called, the forests, fisheries, herds, and flocks we once harvested with ease are often literally not there anymore.
+
+This is most certainly being caused by humanity's use—and misuse—of technology. But if nature had a mother, she wouldn't be asking us to stop building; technology lets life spread into new niches and hold back entropy where it otherwise couldn't. She'd be asking us to start choosing well. A self-aware selector aims at the same target blind nature does, but aims better and shoots faster.
 
 But, what does that mean for you?
 
@@ -877,13 +879,13 @@ Something else humans kept from our animal kingdom heritage, is that we do not n
 
 We did of course evolve away from our hominid ancestors and begin to play the game with technological tools, and that required drastic changes to our biology. All of these evolutions were tested by the same high standards of the coach's natural selection.
 
-Our most notable were trading easy tree climbing for amazing endurance running. Body hair overheated us during our long runs, so it got replaced for bald skin covered with sweat glands. Our vocal tract developed to make increasingly complex sounds. And, perhaps the most important change, one digit per hand became an opposable thumb.
+Our most notable were trading easy tree climbing for amazing endurance running. Body hair overheated us during our long runs, so it got replaced for bald skin covered with sweat glands. Our vocal tract developed to make increasingly complex sounds. And, perhaps the most important change, our thumbs became fully opposable, capable of both precise and strong grip.
 
 Each of these biological adaptations got more pronounced over time because they kept earning points on the procreation scoreboard. Meaning that, like a hummingbird and flower growing their beaks and petals to match each other's uniqueness, with each generation our bodies were forming around the requirements of technology in a case of co-evolution.
 
 Today, we can even track our biological evolution.
 
-The earliest fossils in our own genus, Homo (Latin for human), are about 2.8 million years old, from Ethiopia. Thereafter, we evolved into several known groups, homo erectus, denisovan, neanderthal, and us Homo sapiens are a few but the list grows as more fossil and DNA evidence is discovered.
+The earliest fossils in our own genus, Homo (Latin for human), are about 2.8 million years old, from Ethiopia. Thereafter, we evolved into several known groups, Homo erectus, Denisovan, Neanderthal, and us Homo sapiens are a few but the list grows as more fossil and DNA evidence is discovered.
 
 With distance running, sweat, speech, and thumbs, humans were positioned for Game of Life success. We could hold spears and organize ourselves to reliably chase, exhaust, kill, and defend protein rich food like no ape ever could. We learned to crave sugar for the rare energy boosts it gave, but being omnivorous, could gather something to eat year round; especially because we learned to use rocks and sticks to dig up, open, or grind an increasingly large menu of calorie dense roots, nuts, and seeds.
 
@@ -901,13 +903,13 @@ Yet, and here's the point, you will never meet a person who isn't made up of our
 
 Like sloths or elephants, we carry instincts common to nearly everyone. Same board, same trials, so the coach shaped us all toward the same answers. It's why most people need eight hours of sleep, run on about 2,000 calories a day, can hold only a couple hundred names in memory, crave sugar, dread public speaking, and stay prone to tribal loyalty even while capable of real sacrifice. Stone Age, Iron Age, or today, it's the same creature.
 
-Of course, our genotype does not determine our future—what scientists call "genetic determinism". We can aspire to be different; break molds, boundaries, and records. We can even dream of improving upon our nature, but never can we succeed by disregarding it. Our creative minds do not automatically know that, but as the Weismann Barrier says, while genetic expression can change and help offspring somewhat adapt to the environment, they are still stuck with the unchangeable genomes regardless of our ideas, beliefs, or life experiences.
+Of course, our genotype does not determine our future—what scientists call "genetic determinism". We can aspire to be different; break molds, boundaries, and records. We can even dream of improving upon our nature, but never can we succeed by disregarding it. Our creative minds do not automatically know that, but as the Weismann Barrier says, while genetic expression can change and help offspring somewhat adapt to the environment, every person is still stuck with the unchangeable genomes regardless of our ideas, beliefs, or life experiences.
 
 Anyone who tries to ignore our past is artificial and offers little but a dead end.
 
 We've already met two such attempts, the communist and fascist ideologies that scarred human history so badly. Among their many errors, one proclaimed humans naturally selfless unless tainted with a corrupted class history, condemning untold millions to mass purges for a belief that ant specialist E.O. Wilson said was "Good ideology, wrong species" as blind obedience is how eusocial ants naturally behave, not hominids.
 
-The other said racial "blood" should inspire ancient tribal loyalties throughout millions of strangers. Cohesion required "purity" and therefore justified dooming all outsiders and told long time friends, colleagues, and persons to learn to hate each other. This is how small-band tribal humans lived, not humans whose technological ecosystem connects them with millions of strangers daily.
+The other said "blood" should inspire ancient tribal loyalties throughout millions of strangers. Cohesion required "purity" and therefore justified dooming all outsiders and told long-time friends, colleagues, and neighbors to learn to hate each other. This is how small-band tribal humans lived, not humans whose technological ecosystem connects them with millions of strangers daily. It was also a belief that mistook the blueprint for the building. Every lifeform is changed and molded by its upbringing and environment and needs to find any lifeform that will be a good boardmate.
 
 Any identity is artificial when it expects people to behave in ways we never did when evolving in the Game of Life. A natural lifeform is one that locally postpones entropy—organizing itself and its surroundings into structures that can pass the torch forward.
 
@@ -923,7 +925,7 @@ Here's why: we were only barely measured on accuracy or customer satisfaction. B
 
 So the inbound caller hold metric became everything.
 
-To enforce it, they played a bell in our headsets. When someone was on hold, it rang: DING, DING, DING. A monotone alarm that never stopped until you picked up. A sound fit for a torture test.
+To enforce it, they played a bell in our headsets. When someone was on hold, it rang: DING, DING, DING. A monotone alarm that never stopped until you picked up. A sound fit for a torture chamber.
 
 If the bell wasn't enough motivation, a manager would message: "ANSWER THE QUEUE." If that didn't work, they'd force calls through without warning—sometimes hanging up on whoever you were already helping.
 
@@ -959,9 +961,9 @@ It starts off with our shared history; we got our start together. Neanderthals w
 
 Geographers call this the friction of distance. It's important because relative tribe isolation allowed many adaptations a chance to offer themselves to the coach's selection. The legacy of this time period lives on today; there is still more genetic diversity in sub-Saharan Africa than in the rest of the entire world.
 
-In this hotbed of evolution, Homo sapiens became a nomadic hunter-gatherer group, with people and lifestyle that we would recognize today. We're so close to these persons that, because of a genetic quirk of mitochondrial DNA, we can even track all modern humans to a single common woman ancestor who lived approximately 155,000 years ago, colloquially called "Mitochondrial Eve". 
+In this hotbed of evolution, Homo sapiens became a nomadic hunter-gatherer group, with people and lifestyle that we would recognize today. We're so close to these persons that, because of a genetic quirk of mitochondrial DNA, we can even trace all modern humans to a single common woman ancestor who lived approximately 155,000 years ago, colloquially called "Mitochondrial Eve". 
 
-It's perhaps comical to imagine but a modern human could be transported back to our ancestors in East Africa and—eventually—do fine. We could physically perform the way of life. Community driven hunting, resource gathering, and child rearing in groups where we knew everyone by name. Tribes had hunting and foraging grounds across savannas and woodlands. While looking for our next meal, the average daily trip was about 6-9 miles (10-15 kilometers) a day, probably not a coincidence that is about the caloric output many people expend staying in shape.
+It's perhaps comical to imagine, but a modern human could be transported back to our ancestors in East Africa and—eventually—do fine. We could physically perform the way of life. Community driven hunting, resource gathering, and child rearing in groups where we knew everyone by name. Tribes had hunting and foraging grounds across savannas and woodlands. While looking for our next meal, the average daily trip was about 6-9 miles (10-15 kilometers) a day, probably not a coincidence that is about the caloric expenditure many people expend today while staying in shape.
 
 Many Homo sapiens tribes lived in Africa for thousands of generations. But with our hungry brains, vulnerable kids, little fat or hair to keep us warm, we were at a biological endpoint in a sense. Any help to outsmart the emergent game board and sand clock was very much noticed.
 
@@ -977,7 +979,7 @@ Our adaptable hands, feet, cognition, and tools, allowed early modern humans to 
 
 Or perhaps it's better to say, technology had evolved the perfect match to seed itself worldwide. And the bits of clay that ventured out could find much scoreboard success. And out we went!
 
-There were waves of Out of Africa Homo sapien migrations. We got to Eurasia 125,000-100,000 years ago, Australia around 65,000 years ago, the Americas about 15,000 years ago, and remote islands such as Hawaii, Easter Island, Madagascar, and New Zealand between the years 300 to 1280. At each place, Homo sapiens gradually mixed with, absorbed, or outlasted local populations.
+There were waves of Out of Africa Homo sapiens migrations. We got to Eurasia 125,000-100,000 years ago, Australia around 65,000 years ago, the Americas about 15,000 years ago, and remote islands such as Hawaii, Easter Island, Madagascar, and New Zealand between the years 300 to 1280. At each place, Homo sapiens gradually mixed with, absorbed, or outlasted local populations.
 
 The timing is still debated among scientists. Unfortunately there was no written history back then, so piecing together events will always be difficult. But the Cognitive Revolution and Out of Africa migrations were probably mutually reinforcing processes. Better cognition enabled migration, which created new selective pressures and opportunities that further refined human culture and tools. Rather than one causing the other, they likely fed into each other—a positive feedback loop where cognitive advances enabled exploration, and exploration drove further innovations.
 
@@ -985,21 +987,21 @@ However it happened, by about 40,000 years ago, archaic humans were effectively 
 
 By mixing genotype and phenotype variation, humans were doing what life always does—producing evolved variations—only now with their extended phenotype, technology, as the medium. Meaning Homo sapiens kept adapting our cultures and co-evolving tools to nearly every game board on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sand clock and keep scoring procreation points around the world.
 
-Now the extended phenotype—technology—had the uniformity it needed in humans to sprout across the globe. Once it got hold, its ecosystem spread like wildfire, even during the bouts of harmful artificial selection we subjected it to.
+Now the extended phenotype—technology—had the uniformity it needed in humans to sprout across the globe. Once it got hold, its ecosystem spread far and wide, with humans often deciding which tools lived and which died.
 
 ## Story—Help
 
 Adjusting insurance claims was genuinely stressful. But also rewarding. Insurance sets money aside for people in need, so you get to help when people need it most.
 
-The system could be nuts, but the people's needs were very real.
+The system could be nuts, the job wasn't fun, but the people's needs were very real.
 
 Someone's car was stolen, or there was a hit-and-run, sometimes even a drive-by shooting. If it's covered (those usually are), you help get their car fixed or replaced.
 
 Two claims I especially can't forget.
 
-One coworker was given a pile of claims to investigate after a large flood. He got to one fine country home, asked to see the water damage, and told the homeowner to send in their damaged items list for review. This was the first time I learned about "cat" claims—as in catastrophe.
+One coworker was given a pile of claims to investigate after a large flood. He got to one high-end home, asked to see the water damage, and told the homeowner to send in their damaged items list for review. This was the first time I learned about "cat" claims—as in catastrophe.
 
-Another was a call I got after 5:00 PM on the emergency call-in queue. It was a young single mother. The waste pipes had burst in her walls. I was still just a car adjuster, but procedure was to send contractors over to contain the damage, a property adjuster would later review if insurance covers the bill.
+Another was a call I got after 5:00 PM on the emergency call-in queue. It was a young single mother. The waste-water pipes had burst in her walls. I was still just a car adjuster, but procedure was to send contractors over to contain the damage, a property adjuster would later review if insurance covered the bill.
 
 I told her that, but the lady refused the contractors.
 
@@ -1009,11 +1011,11 @@ Then she said, "I don't have any money."
 
 I quickly googled her area. She was in the poor area of a poor town. And I had just forced her to admit she had nothing.
 
-It was Friday, meaning she'd likely get an insurance answer by Tuesday. I became a property adjuster later on and learned she had insurance coverage for her problem. She had the money, but didn't have it at the same time.
+It was Friday, meaning she'd likely get an insurance answer by Monday or Tuesday. I became a property adjuster later on and learned she had insurance coverage for her problem. She had the money, but didn't have it at the same time.
 
 I often wonder what that mother did over the weekend, with sewage in the walls, nothing in the bank, and a kid in the house. I hope she had somewhere to go and friends to call on. But I'd seen enough by then to know those were luxuries.
 
-As for the country estate homeowner—he noticed my coworker had forgotten to photograph parts of his basement. A mud basement, empty of almost anything. He submitted his item list months later. Antique furniture and priceless art, something like $800,000 worth.
+As for the high-end homeowner—he noticed my coworker had forgotten to photograph parts of his basement. A bare basement, empty of almost anything. He submitted his item list months later. Antique furniture and priceless art, something like $800,000 worth.
 
 His case in court was simple: "You were there. Prove I didn't have it." The case went on for years. I'm pretty sure he eventually won.
 
@@ -1055,7 +1057,7 @@ I often wonder how my speech impediment would have changed in earlier times. At 
 
 Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans today has genetic roots in people sitting by a fire thousands of years ago. We carry all these with us today, and these quirks find a good home in civilization. For myself, not being able to talk too much, undoubtedly changed personal development. It made it easier to empathize with others while also making me indignant against social rules about what is polite or acceptable to say because these add another layer of complexity when I was often happy to say anything at all.
 
-The point is, the technological ecosystem had many open spots, and often those with unique personalities fit into these niches.
+As noted geneticst Theodosius Dobzhansky said, "The pervasiveness of genetic variation provides the biological foundation of human individuality." The point for us being, the technological ecosystem had many open spots, and often our wonderfully unique personalities fit into these niches.
 
 Edward Gibbon had a severe medical problem, forcing him to sit for years of his life. In the wild he'd be disadvantaged if not left for dead, in civilization he wrote likely the best history book of all time, _The Decline and Fall of the Roman Empire_. 
 
@@ -1065,7 +1067,9 @@ The list continues. One must wonder about the mental health of our many politica
 
 Of course, countless others with such outlier mentalities were simply forgotten, their lives unrecorded. Yet, the list of unique individuals, whose chances to survive in the wild are at least suspect, is huge. Yet, these people keep making huge contributions to civilization and technological evolution.
 
-The reason for any individual's genetics, thoughts, or actions is still very much up for debate. But the fact there is a niche inside a technological ecosystem is apparent.
+And it's not just notable people. The fact that people will learn how to use available technologies and resources to build homes, teach kids, farm food, fix machines, process claims all the while finding minute ways to advance civilization is amazing.
+
+The reason for any individual's genetics, thoughts, or actions is still very much up for debate. But the fact there is a niche inside a technological ecosystem being filled by a person is apparent.
 
 The ones we remember had success because diversity is ecosystem security. Thus, it was for genotype and phenotype, and so it is for extended phenotype too. Biology grew to have countless species of trees, insects, birds, mammals, predators and so on. Thus evermore diverse human genotype and phenotype got a shot to play the game because of the need for diversity when co-evolving with tools. 
 
@@ -1095,7 +1099,7 @@ That's why political projects that demand human homogeneity—whether by race, i
 
 The problem is technology does not always grow as naturally as we need it to keep playing the game.
 
-## Chapter 11—Back to Natural
+## Chapter 11—Back to Individuals
 
 Technology was on the same team as biology the day we cooked with fire. Heat breaks down proteins and starches, making them more accessible to digestive enzymes. This means our body doesn't have to work as hard to break down the food molecules, so your digestive system can extract nutrients more efficiently and with less effort.
 
@@ -1133,25 +1137,27 @@ Soviet science made the opposite wager. Communism disliked genetics which counte
 
 However, as awful as it might sound, these extremes could have technological success. Both used new machinery, mathematics, and other advancements to build modern economies and militaries. Each was doomed however, because neither could sustain any success; extremes have complacency embedded in them.
 
-Let's look at World War II (1939-1945) for our first example. This history is told in many books (my favorite being _Why the Allies Won_), but in short Germany's early WWII victories came from a real innovation—integrating tank, plane, and infantry by radio into fast-acting "combined arms" mobile warfare. These ideas were partly borrowed from British academies and proved very effective when turned against slower, hierarchical Allied armies still using massive bunkers and slow command structures making decision in days what Germans now did in hours. Germany easily invaded a hard-fighting Poland (1939) in a matter of weeks. When turning its Blitzkrieg on Holland, Belgium, and France (1940), Germany faced its World War I (1914-1918) enemies once again.
+Let's look at World War II (1939-1945) for our first example. This history is told in many books (my favorite being _Why the Allies Won_), but in short Germany's early WWII victories came from a real innovation—integrating tank, plane, and infantry by radio into fast-acting "combined arms" mobile warfare. These ideas were partly borrowed from British academies and proved very effective when turned against slower, hierarchical Allied armies still using massive bunkers and slow command structures making decisions in days what Germans now did in hours. Germany easily invaded a hard-fighting Poland (1939) in a matter of weeks. When turning its Blitzkrieg on Holland, Belgium, and France (1940), Germany faced its World War I (1914-1918) enemies once again.
 
 Combined arms warfare was not an original idea. Since World War I, the radio, airplane, and motor engine were invented and everyone knew they would change not just society, but warfare too. Yet, the Germans, perhaps because they were poor and had a limited military budget, implemented new ideas faster than anyone else. An early test was the massive Belgium Fort Eben-Emael. Made from all the lessons of World War I, its strategic position protected several important bridges that controlled the Belgian heartland from invasion.
 
 Its defenders waited for German artillery and soldiers to attack. Instead the Germans landed gliders on the fort's roof. Paratroopers walked out, closed the ventilation vents, assaulted the fort, and the fortress fell in under two days. With barely a struggle, German tanks rolled on and Belgium fell days later.
 
-Fort Eben-Emael was symbolic of the entire Allied battle plan. The French built bunkers that were far larger. None of them worked. Despite airports, radios, and cars being used throughout society, the Allies, especially the officers, still thought it was World War I.  An aged mentality suddely facing modern realities was a complete mental shock. To showcase the effect defending against German Blitzkrieg tactics had, one French officer wrote a note to his President. "I am killing myself Mr President to let you know that all my men were brave, but one cannot send men to fight tanks with rifles."
+Fort Eben-Emael was symbolic of the entire Allied battle plan. The French built bunkers that were far larger. None of them worked. Despite airports, radios, and cars being used throughout society, the Allies, especially the officers, still thought it was World War I.  An aged mentality suddenly facing modern realities was a complete mental shock. To showcase the effect defending against German Blitzkrieg tactics had, one French officer wrote a note to his President. "I am killing myself Mr President to let you know that all my men were brave, but one cannot send men to fight tanks with rifles."
 
 The Nazis had just beaten an enemy who couldn't adapt, and soon enough made the same mistake. They read their early wins as proof of their superiority rather than the application of tools anyone can emulate. With Western Europe occupied, they thought "racially inferior" Soviets would be a push-over. Although their invasion (1941) caused an egregious loss of Soviet life and property, within a few years the Soviets were fielding better tanks and planes and approaching German military command sophistication. By 1943 the tide of the war turned for the Soviets. 
 
-Meanwhile, America entered the war in late 1941. With "Rosie the Riveter" and "V for Victory" leading the way, America turned its consumer economy to mass-produce quality weapons, plants, ships faster than anyone could predict. Soon a 200,000 man-army turned into 8,000,000, led by new commanders like Bradley and Patton who were doing combined arms warfare better than Germany ever did.
+Meanwhile, America entered the war in late 1941. With "Rosie the Riveter" and "V for Victory" leading the way, America turned its consumer economy to mass-produce quality weapons, plants, ships faster than anyone could predict. Soon a 200,000 man-army turned into over 8,000,000, led by new commanders like Bradley and Patton with the mindset and tools to do combined arms warfare better than Germany ever did.
 
-Nazi Germany, so obsessed with genetic explanations for its success, couldn't compete. They resisted mobilizing women as workers or fighters despite dire need for both. While some worked to increase production (which did increase), the regime was trapped inside its own extreme, and continued to hunt down supposed undesirables and hoped in vain that a self-declared super intelligence would create "wunderweapons" to save them. They were overrun anyway, and Nazi leaders called for the nation's own destruction for having failed the racial test of history.
+Nazi Germany, so obsessed with genetic explanations for its success, couldn't compete. They resisted mobilizing women as workers or fighters despite dire need for both. While some worked to increase production (which did increase), the regime was trapped inside its own extreme, and continued to hunt down supposed undesirables for a genocide and hoped in vain that a self-declared super intelligence would create "wunderweapons" to save them. They were overrun anyway, and Nazi leaders called for the nation's own destruction for having failed the racial test of history.
 
 Extremism would soon fail the Soviets as well. Even after defeating the Nazis and moderating its extreme policies (de-Stalinization), it couldn't moderate its core beliefs. Despite technological triumphs like the first satellite (1957) and sending probes to Venus (1966-1983), Soviet progress stalled for the same reason a Soviet biologist could not simply follow the evidence supporting genetic theory. The state owned the laboratories, military, and everything else. So doctrine won every argument. Soviet society had no "people in a garage," no small businesses, no independent universities. Soviet leaders withheld technological developments from filtering down to regular people. Without independent research or private property there was nothing anyone could do about it. The result was a society with little "creative destruction". The system could correct itself—genetics was allowed again after 1964—but it was hard to try new things and see what works.
 
 In contrast, when America put rockets in space, average citizens were following along in real-time on radios and TVs sharing the same technology. As Soviet innovation stopped in the 1970s, the Soviet Union grew ever more dependent on oil exports to fund a bloated state bureaucracy and military. It needed to buy the advanced industrial equipment, and even food, it could not produce itself. Workers often joked "we pretend to work, they pretend to pay us". When oil prices fell in the 1980s, the entire Soviet system imploded as its various peoples either voted to abandon it or watched as even once-committed believers let the communist project die.
 
-The West did something different—not better by design, but by accident of structure. It never purged either half. The dreamers kept dreaming, the risk-takers kept risking, the state kept funding, and the market kept selling. You're likely holding the result in your hand.
+Selecting winners and losers was never the problem. Every farmer selects, every breeder selects. The problem was what the extremists were selected on. Class origin and bloodline aren't measures of fitness; they're faces in a crab shell. Nature was keeping score on something else entirely, and it settled removed both regimes within a lifetime.
+
+The West did something different—not better by design, but by accident of structure. It never purged either half. The dreamers kept dreaming, the risk-takers kept risking, the state kept funding, the academics kept researching, and the customers kept buying. You're likely holding the result in your hand.
 
 In 1945, a technical genius envisioned the world we live in today. Before anyone sent an email or browsed Wikipedia, American engineer and inventor Dr. Vannevar Bush, thought it up. He was fighting World War II, and in _As We May Think_ he dreamed computer technology would cure the human condition.
 
@@ -1165,45 +1171,41 @@ The transistor is a great example of the pipeline's success. It was discovered a
 
 The pipeline continued advancing transistor development when the competitive market took over. As military rocket, pocket calculator, and transistor radio sales exploded, transistor scientists easily found funding to leave their universities and employers to start their own companies. These newcomers drove development into overdrive, and soon one of their so-called "Fairchildren", Intel, invented the microprocessor (1971). Now thousands of transistors came on a chip that could be reprogrammed for any application.
 
-Within a few decades the transistor went from unknown, to the size of a pencil eraser, to powering home computers. Soviet thinkers like Kitov and Glushkov wrote similar theories about the future but could only watch while others built it. Like a monoculture, each extreme died soon after it was planted.
+Within a few decades the transistor went from unknown, to the size of a pencil eraser, to powering home computers. Soviet thinkers like Kitov and Glushkov wrote similar theories about the future of technology but could only watch while others built it. Like a monoculture, each extreme died soon after it was planted.
 
-Look at who the pipeline needs. The obsessive researcher who'd be useless at selling. The institution-builder who thinks in decades. The risk-taker who quits a stable job. The salesman who never learns how the chip works but puts it in ten million radios. None would enjoy each other's jobs. Some do what they do because of genetic traits of super-intelligence, shyness, energy or so on. Others are converts to belief systems and educated in higher learning. No ideology covers each person. They're temperaments every society produces. The extremes failed by telling half of them they didn't belong.
+Look at who the pipeline needs. The obsessive researcher who'd be useless at selling. The institution-builder who thinks in decades. The risk-taker who quits a stable job. The salesman who never learns how the chip works but puts it in ten million radios. None would enjoy each other's jobs. Some do what they do because of genetic traits of high-intelligence, shyness, energy or so on. Others are converts to belief systems and educated in higher learning. No ideology covers each person. They each have temperaments every society produces. The extremes failed by telling half they were special and the others didn't belong.
 
-The fight between them never ends, and shouldn't. How much public money, who captures the profit, who carries the risk—that argument is real. But it's a quarrel at the edges of something none of them can leave. They are boardmates stuck on the same gameboard. Like lifeforms from times immemorial, their lives depend on what other creatures can make inside the ecosystem they all share. Strangers, friends, enemies and allies. All the fates of an ecosyystem are tangled regardless of what anyone thinks.
+The fight between them never ends, and shouldn't. How much public money, who captures the profit, who carries the risk—that argument is real. But it's a quarrel at the edges of something none of them can leave. They are boardmates stuck on the same gameboard. Like lifeforms from times immemorial, their lives depend on what other creatures can make inside the ecosystem they all share. Strangers, friends, enemies and allies. All the fates of an ecosystem are tangled regardless of what anyone thinks.
 
 Which raises the question this chapter has been circling. If no ideology can pick the winners, and no state can assign the roles—who does?
 
+You do. Alone, for yourself. That has always been the only mechanism, and it's the one this book is about seeing clearly. As renowned biologist Ernst Mayr says "individual life forms are the unit of selection." 
+
+Meaning an individual polar bear, squirrel, raccoon are the unit of evoluion's advancement. Species, groups, ecosystems are just a collection of individuals. By nature, any individual can better herself without needing permission or waiting on anyone else. The polar bear doesn't serve her ecosystem—she serves herself and her cubs, and the working ecosystem is what all that work adds up to. Each lifeform must always play the game by earning her own resources or she leaves the board.
+
+Of course, individuals don't fight wars or invent computers. But individual lifeforms also never built forests. It was the contribution of countless lifeforms that iterated to get there.
+
+That's why empowering smaller groups of individuals is what the technological ecosystem is evolving towards. That is what combined arms warfare as all about and why it worked. The smaller the selection group we can get, the more responsive our actions will be to the problems of the environment. Technology is an ecosystem with all the available niches thereof, which is why extremsists lose, because they can't fill—or burn down—huge swathes of their forest.
+
+Upgrades to our political and economic systems come later, in Mixed Ideological Politics and Bumblebee Economics. This book sets to make technological evolution impossible to unsee, in order to build a solution that seems obvious on reflection.
+
+None of this is new territory. Farming is self-aware artificial selection. Techvolution just does the same on the technological ecosystem.
+
 We will see these rules of technological evolution better once we realize we are not selfless beings. Perhaps not even our shining examples such as Socrates ever truly were. But for sure, the grade-school teacher, late night television host, dock worker, or sales manager of a paper distribution company are not selfless observers of society. We all have bills to pay. We shouldn't expect anyone to drop the toolset that feeds them while it still works, however poorly for the rest of society. People let go when the old tool stops paying—not a moment before, and no story will make them change their mind.
 
-The people inside extremists societies suffered greatly, and caused suffering onto others, because they didn't have the moderation in their society. I saw this in insurance claims all the time. When their tools stopped working, they craved a clear path to what's next. Give that to a person in a timely fashion, and they respond where a million stories fall flat.
+I saw this in insurance claims all the time. When their tools stopped working, they craved a clear path to what's next. Give that to a person in a timely fashion, and they respond where a million stories fall flat.
 
 But if our tools still work, like a DVD in the Internet Age, we hold onto our own branch on the tree of life, defending our outdated tools with stories—while expecting everyone else to drop theirs the moment it makes sense. Watch cable news or visit a movie theater today to see it yourself. Or you can read about the scribes who fought the printing press in Gutenberg's time, or the biblical storytellers who fought Galileo. The pattern is the same: holders of outdated technology defending their position with stories, trying to keep the past alive long enough to preserve their status.
 
-Holding back evolution is a major cause of our social unrest, depressions, civil wars, and revolutions. Harmful artificial selection often blocks the mass-adoption of helpful new tools—countered, historically, by what some have called "the march of reason": helpful stories that get evolution moving again.
-
-To stop talking about creating justice, we can instead be intentionally building it. The first step is a technological identity.
-
-As renowned biologist Ernst Mayr says "individual life forms are the unit of selection." Meaning a polar bear is the unit of selection. Species, groups, ecosystems are just a collection of individuals. Yet any individual can better herself without needing permission or waiting on anyone else. The polar bear doesn't serve her ecosystem—she serves herself and her cubs, and the working ecosystem is what all that work adds up to. Each lifeform must always play the game by earning her own resources or she leaves the board.
-
-Anyone can come up with artificial reasons why the Game of Life doesn't apply to them. As we've seen, extremists do it all too easily. Anyone who sticks to their belief system despite contrary evidence can be similar too. However, it can be inside every person. Students who ignore teachers; managers when they ignore employee feedback. Sometimes those are needed to keep motivation or beliefs in hard and uncertain times. But that only lasts for as long as someone else assembles the food, housing, and heating you depend on.
-
-If you're willing to admit you eat, find shelter, drink because of technology, and thus you are inside a technological ecosystem that is evolving independent of your biological desires, wants, lifespan, or your personal or ideological beliefs, you can admit this truth.
+But that only lasts for as long as someone else assembles the food, housing, and heating you depend on. If you're willing to admit you eat, find shelter, drink because of technology, and thus you are inside a technological ecosystem that is evolving independent of your biological desires, wants, lifespan, or your personal or ideological beliefs, you can admit this truth.
 
 The reward is seeing not the dead ends and darkness of artificial stories, but the natural light of how our society truly functions—the real ecosystem of producers, plant-eaters, predators, scavengers, decomposers, and testers.
 
-People are biologically self-interested. We use tools to play the Game of Life. But these tools live and die on a timeline independent of our own. Without a technological identity, we are left to explain our ups and downs using—artificial—stories.
+Our job, as units of selection, is to find the unique blend of genotype and phenotype that lets you produce, graze, predate, decompose, and test and offer value somewhere inside the technological ecosystem. Every seedling and tree hold value. There is always room for everyone who contributes.
 
-Every person is a natural human player of the game rooted in biological instincts and requirements. People need to eat, love, have shelter, hope, and many other hard and wonderful things. Among our limitations is that we will never accept servitude or blind loyalty. Despite numerous belief systems, these are pretty universal features of mankind across time and geography because individuals are the unit of selection, and thus we must decide what works best for ourselves.
-
-That means finding the unique blend of genotype and phenotype that lets you produce, graze, predate, decompose, or test somewhere inside the technological ecosystem.
-
-The game rewards both diversity and mass production. Not because anyone requires it. But because each is a different way to harvest energy the gameboard makes available.
-
-The system grows when each member finds a new way to harvest resources. That's how life stays up to date in the never ending work of organizing more matter into structures that hold together against the dissolving, collapsing, eroding, and decaying that takes everything left unmaintained and unenergized.
+The game rewards both diversity and mass production. Not because anyone requires it. But because each is a different way to harvest energy the gameboard makes available. The system grows when each member finds a new way to harvest resources. That's how life stays up to date in the never ending work of organizing more matter into structures that hold together against the dissolving, collapsing, eroding, and decaying that takes everything left unmaintained and unenergized.
 
 Entropy doesn't decide whether life prospers. Entropy only looks like an enemy when life stops doing the work. Life decides—by doing the work of organizing matter, harvesting energy to maintain it, and finally shedding what no longer fits. The work is the only requirement. As long as some lineages keep doing it, life continues. Whether your lineage continues depends on whether you do the work.
-
-Entropy is always there, always pulling apart. But it isn't a grade to be given by a teacher. Rather it's such a constant for everything and everyone, that you, the Moon, and the Sun, all have entropy tearing you apart. So, whether a biological lineage prospers depends on whether it keeps doing the work of organizing faster than entropy dissolves. It's a fair fight for everyone.
 
 How did we spread around the world, and how did we develop tools? We planted and spread tool-species inside ecosystems of course. And that required, and still requires, four modes of understanding: nature, mythologies, stories, and science.
 
@@ -1225,7 +1227,7 @@ The gameboard is completely unbiased. It's constructed by the laws of physics, c
 
 Each new assembly is a unique variation. Look at the peppered moth becoming lighter, darker, lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
 
-Natural selection is in control. It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and integrates them into the ecosystem of producers, plant-eaters, predators, scavengers, decomposers, and testers. All these players work together to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
+Natural selection is in control. It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and integrates them into the ecosystem of producers, plant-eaters, predators, scavengers, decomposers, and testers. All these players work together as boardmates to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
@@ -1235,7 +1237,7 @@ How to tell which is which?
 
 Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that best read when fruit ripens, when sunlight appears, and endless other environmental patterns, survive to play again.
 
-This chapter is not a story to enjoy. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to along side a host of boardmates. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
+This chapter is not a story to enjoy. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to alongside a host of boardmates. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
 
 In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world and earn its place on the gameboard?
 
