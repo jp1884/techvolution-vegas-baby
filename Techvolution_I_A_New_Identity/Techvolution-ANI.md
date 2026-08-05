@@ -1199,7 +1199,7 @@ We will see these rules of technological evolution better once we realize we are
 
 I saw this in insurance claims all the time. When their tools stopped working, they craved instructions to get a new car, boat, house. Give clear next steps and they respond where a million promises and guarantees fall flat.
 
-But if our tools still work, like a DVD in the Internet Age, we hold onto our own branch on the tree of life, defending our outdated tools with stories—while expecting everyone else to drop theirs the moment it makes sense. Watch cable news or visit a movie theater today to see it yourself. Or ask why professors—who are supposed to learn and spread knowledge—still dislike updating a free encyclopedia so much.
+But if our tools still work, like a DVD in the Internet Age, we hold onto our own branch on the tree of life, defending our outdated tools with stories—while expecting everyone else to drop theirs the moment it makes sense. Watch cable news or visit a movie theater today to see it yourself. Or ask why despite academia's founding logic being open, distributed, and reproducible knowledge, today's professors still resist updating a free encyclopedia.
 
 Or you can read about the scribes who fought the printing press in Gutenberg's time, or the biblical storytellers who fought Galileo. The pattern is the same: holders of outdated technology defending their position with stories, trying to keep the past alive long enough to preserve their status.
 
@@ -1209,9 +1209,9 @@ Sadly, we don't have a claim cheque waiting for Maria. We do know resistance onl
 
 The reward is seeing not the dead ends and darkness of artificial stories, but the natural light of how our society truly functions—the real ecosystem of producers, plant-eaters, predators, scavengers, decomposers, and testers who worked together to build computers and defeat both Nazi Germany and the Soviet Union.
 
-Our job, as units of selection, is to find the unique blend of genotype and phenotype that lets you produce, graze, predate, decompose, and test and offer value somewhere inside the technological ecosystem. 
+Our job, as units of selection, is to find the unique blend of genotype and phenotype that lets you produce, graze, predate, decompose, and test and offer value somewhere inside the technological ecosystem. The reason tool-identity kills you and role-identity doesn't is that you've attached yourself to the layer that rotates instead of the layer that persists. Role-identity means accepting fruit trees die and water wells dry up, so that when the tool does stop paying, you've prepared and have an idea what the future will be.
 
-Thus, Maria who "sells DVDs" can place herself in context. Of course she has transferable skillsets such as logistical acumen, smooth salesmanship, employee management. A new identity empowers her to see far more: that her job was always connected to a tool inside an ecosystem. DVDs existed inside city, suburban, and country living, and rental stores could never be everywhere, so they always had to fight strong friction of distance problems. As internet speeds increased greatly, her customers were increasingly slower than the streamers. Not just in time to watch content, but in the cost of driving and renting as well. In 2012, the cost of a DVD rentals was about five dollars for two nights against streaming unlimited content for eight bucks a month.
+Thus, Maria who "sells DVDs" can place herself in context. Of course she has transferable skillsets such as logistical acumen, smooth salesmanship, employee management. A new identity empowers her to see far more: that her job was always connected to a tool inside an ecosystem. DVD rental stores were used in city, suburban, and country living, and could never be everywhere, so they always had to fight strong friction of distance problems. As internet speeds increased greatly, her customers were increasingly slower than the streamers. Not just in time to watch content, but in the cost of driving and renting as well. In 2012, the cost of a DVD rental was about five dollars for two nights against streaming unlimited content for eight bucks a month.
 
 Seeing the ecosystem means accepting the game of life applies to us. There is only so much energy available to assemble and keep matter assembled. With these carrying capacity limitations, her customers using DVDs were always spending more time and money to get the same results, and thus more likely to fall to predation.
 
@@ -1241,7 +1241,7 @@ The gameboard is completely unbiased. It's constructed by the laws of physics, c
 
 Each new assembly is a unique variation. Look at the peppered moth becoming lighter, darker, lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
 
-Natural selection is in control. It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and integrates them into the ecosystem of producers, plant-eaters, predators, scavengers, decomposers, and testers. All these players work together as boardmates to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
+Natural selection is in control. It finds the forms that best read the environment's patterns—when rain comes, when winter ends—and integrates them into the ecosystem of producers, plant-eaters, predators, scavengers, decomposers, and testers. All these players look for ways to harvest energy efficiently enough to keep building matter into life faster than entropy tears everything down.
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
@@ -3657,20 +3657,15 @@ New ideas have always had a hard road. Semmelweis begging doctors to wash their 
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Turning the scientific method on our technological ecosystem to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hardest part. It's evolving one without failure and conflict that's proven so difficult for us.
 
-- Here are the markers this book worked. If and when someone says "they are our enemy, and this policy is what we need to do about it" you can respond with. No, entropy is always degrading us, and changing our environment.
-- Life responds by building faster than entropy degrades.
-- Life adapts inside ecosystems.
-- You recognize the coach exists, because each of us is a coach.
-- You know there are different kinds of selection.
-- That predation is suppose to rid us of the least efficient consumer adaptations.
-- That the technomass all around us is an ecosystem.
-- That we harvest this ecosystem.
-- That there is a carrying capacity.
-- That extremes of genotype and phenotype are self-defeating.
+Here's the test of whether this book worked. Someone says: they are the enemy, and this policy is what we do about it, and you notice what wasn't said. Entropy is our eternal enemy. If we want to prosper, we only need to defeat rising disorder faster. We can pay this bill to the Game of Life without death or oppression because not only do we evolve through our tools instead of our bodies, but evolution needs all kinds and sorts to populate the gameboard.
 
-Simply put, you can use your own beliefs to guide you. But the technomass that surrounds us all is an ecosystem. And nature only increases its carrying capacity when its lifeforms uncover untapped niches and hunt down inefficiencies. Evolution is still selecting you—and everyone, always—on one thing: whether you build tools that reciprocate and keep life's torch alive against entropy's slow unmaking of life.
+Empowered boardmates thus have countless genotypes and phenotypes supporting a mixture of traditions and new ideas. Once formed, such an ecosystem keeps raising its own carrying capacity by mass-producing diverse tools that respond faster to changes and opportunities in the environment.
 
-None of this means abandoning your identities or communities. I practice cultural dance, cheer for my country, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live my version of a happy human life. Even so, I know my calories, heat, shelter, and electricity don't come from a wild nature, but from a technological ecosystem I work in, that others in and outside of my community, produce, graze, hunt, scavenge and so on.
+What would help most you realize, is if every customer and worker, professional and leader, knew their individual actions are the unit of selection. Thus any group wins by doing seemingly simple actions like thorough scavenging, constant decomposing, and frequent hunting of the slow tools and lifestyles that let entropy catch up to us. This is especially so inside our own company, institution, or community because these are the places we can each actually reach.
+
+Simply put, this book worked if you undersand anyone can embrace any beliefs. But evolution is still selecting you—and everyone, always—on one thing: whether you build tools that reciprocate and keep life's torch alive against entropy's slow unmaking of life.
+
+Accepting this does not mean abandoning your identities or communities. I practice cultural dance, cheer for my country, read ideologies, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live my version of a happy human life. Even so, I know my calories, heat, shelter, and electricity don't come from a wild nature, but from a technological ecosystem I work in, that others in and outside of my community, produce, graze, hunt, scavenge and so on.
 
 I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what tools I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software and dull pencils inside a society that finds it increasingly hard to kill old tools like commuting to office buildings or telephone queues and instead build new things quickly.
 
