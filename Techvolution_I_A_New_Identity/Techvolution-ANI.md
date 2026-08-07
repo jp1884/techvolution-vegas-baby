@@ -3372,7 +3372,41 @@ He drops his pencil. Extends his hand.
 
 "Learn."
 
+### Story-Winter Is Coming
 
+I was on the phone and heard the answer to my question: "Yes, you must come into the office. It's a work day." I was chagrined and befuddled. Car crashes were sure to come. I knew that because I was standing in two feet of rising snow and ice.
+
+Nonetheless, I finished shoveling, got into my tiny sedan, and set off.
+
+If you've never driven in high snow, the trouble is mainly getting started, stopping, and changing direction. Low friction between tire and snow-covered road is to blame. Once the snow gets high enough, a car simply bottoms out and gets stuck.
+
+I'd processed claims during winter storms before, but this was the first time I was pretty sure I'd be filing a claim of my own.
+
+I made it out of my local roadway onto a larger collector road. I was driving on the wrong side of the unplowed street because that's where the tracks led. I had no choice but to continue, and I kept thinking about what would happen if a plow happened to be coming this way.
+
+It wasn't. I reached the main arterial road, which was plowed regularly. I trickled along and got to work. The claims bell was dinging all day. There wasn't much we could actually do. Tow truck services, rental companies, and repair shops were already overwhelmed.
+
+We started claims and comforted people with the knowledge that insurance money was available, but the replacement tools they needed were on backorder for a few days. Most people understood. Winter storms come every year, after all.
+
+The snow kept falling. We were sent home early to try to get back safely. I drove two co-workers home. I was proud of my winter driving. I never got stuck, though I had to drop one of them off a few blocks from her house.
+
+I can't recall how many claims I handled that day. Hundreds of thousands of dollars in damage and several injuries at least. It made me recall my university days.
+
+I played many strategy games and city builders when I was a kid. I loved the idea of managing resources and building an environment that fosters a happy life. It's why I enrolled in city planning in university.
+
+I also worked through school. One of those jobs was analyzing ads in business-to-business magazines. After a year there, I was allowed to work from home four days a week. I slept an extra hour each day, my grades improved, I saved much-needed cash, and I exercised more. The exact same work got done.
+
+I happily mentioned this to my transportation professor. After all, broadband internet was saturating the country. He dismissed it: "We tried this a decade ago and managers didn't like it." He went back to teaching traffic control management. The practice of timed lights on highway on-ramps, coordinated traffic signals, variable message signs to smooth flow across local roads, collectors, and arterials.
+
+Playing games like Civilization is where these thoughts about our imperfect technological evolution started. Because what's better for traffic management than fewer vehicles on the road? A person committed to a toolset sees that as a threat, a player of the game sees that as a solution.
+
+Partly because of that class, I switched my specialty to political theory. I was already a history student and could see workers building the Magniot Line as passenger airplanes wized overheard. Unlike chess or soccer, you don't win in a city-builder just because the other side loses. In city-builders, as in evolution, the players win by managing resources as the field of play itself changes.
+
+Fast forward to starting insurance. I followed my instincts and went back to my alma mater. In one of the biggest libraries in the world, insurance books took up a single section of a single stack. Almost nothing. But there was a gem: _Insuring the Industrial Revolution_ by Robin Pearson. One of the best history books I've read. Pearson goes through painstaking detail about how insurance let Britain industrialize as fast as it did.
+
+Cities and towns used to burn down. Early insurance companies helped rebuild cities, and helped people undertake the risk of doing so. As the companies got larger, so did cities. Chicago (1871), Boston (1872), Toronto (1904), and San Francisco (1906). Now, established insurance companies helped institutionalize firefighters, fire escapes, fire extinguishers, and fire drills. Also there was significant urban redesign and rebuilding, shaping what those cities look like today.
+
+Surely, the industry that paid for car crashes would have interest in reducing the risk of crashes. Yet with the crashes of the burgeoning Internet Age, the bell was still dinging. I kept wondering why. This is how modern people play the game, but not how any ecosystem or society wins it.
 
 ### Story—New Tools
 
@@ -3657,7 +3691,7 @@ New ideas have always had a hard road. Semmelweis begging doctors to wash their 
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Turning the scientific method on our technological ecosystem to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. Founding a civilization is never the hardest part. It's evolving one without failure and conflict that's proven so difficult for us.
 
-Here's the test of whether this book worked. Someone says: they are the enemy, and this policy is what we do about it, and you notice what wasn't said. Entropy is our eternal enemy. If we want to prosper, we only need to defeat rising disorder faster. We can pay this bill to the Game of Life without death or oppression because not only do we evolve through our tools instead of our bodies, but evolution needs all kinds and sorts to populate the gameboard.
+Here's the test of whether this book worked. Someone says: they are the enemy, and this policy is what we do about it, and you listen and judge against new convictions. Entropy is our eternal enemy. It always makes us hungry, cold, tired, vulnerable. We only prosper by joining a group committed to overcoming its disorder faster. This group pays its bills to the Game of Life without death or oppression because not only do we evolve through our tools instead of our bodies, but evolution needs all kinds and sorts to populate the gameboard.
 
 Empowered boardmates thus have countless genotypes and phenotypes supporting a mixture of traditions and new ideas. Once formed, such an ecosystem keeps raising its own carrying capacity by mass-producing diverse tools that respond faster to changes and opportunities in the environment.
 
@@ -3716,6 +3750,16 @@ Argue and fight over a piece of the decaying Industrial Age giving tree—who sh
 Do you want to watch three seeds fall?
 
 Or drop them yourself?
+
+=====
+
+
+
+- we don't know who was the first to do most everything important. light a fire, climb a mountain, herd animals, build a boat. like evolution all these were incremental with not real originals. The point being we're all in this together. Of course we fight and will always fight between ourselves, but no one's rowing this life boat alone.
+
+- "_No science can achieve maturity without a system of measurement_". Logan Clendening. Why Techvolution is, i hope, the start or part of, the science of identity, politics, and economics, is because we can measure our actions in our ecosystem, like we do for biological beings already. We just have to remove the The Lion King like storytelling that we create to get in our way.
+
+
 
 ## Preview—Book II—Mixed Ideological Politics
 
