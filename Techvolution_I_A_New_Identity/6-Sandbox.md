@@ -5225,4 +5225,45 @@ Technology is a new branch on the tree of life. Just as the study of evolution i
 
 Spanning the breadth of human history, _Techvolution_ reframes the human story by placing our technological nature at its center. For those seeking to understand our rapidly changing times, this book provides more than just insight—it offers an intellectual blueprint for the extraordinary future we are building together as a technological species.
 
+====
 
+Austrailian general John Monash, a part-time general but full-time engineer, was the first to implement the ideas in 1918 modern war as a logistical and mechanical problem to be solved, not just a matter of courage and numbers. His victory at the Battle of Hamel (1918) was a limited but perfectly executed assault. It lasted just 93 minutes and tanks, infantry, artillery, and aircraft worked in precise coordination. All objectives were captures with very low casualities. Soon after the Allies would push Germany to surrender using similar tactics.
+
+===
+
+
+Combined arms warfare was not Germany's idea. Austrailian WWI general John Monash, a part-time general but full-time engineer, actually implemented it with the primitive tanks and planes of the era to great success. After the war ended the radio, airplane, and motor engine advanced greatly and everyone knew warfare would change to. Yet, the the Allies, especially France, learned that defense win wars. While Germans learned they can't win long wars. The Germans thus had less reason to preserve World War I mentalities, and so implemented combined arms warfare. They literally use the philosophy for combined arms warfare developed by British theorists even though British military didn't implement them.
+
+===
+
+<!-- do we need to see them go? -->
+
+We prepare our important belongings. Clothes. Soap. Antiseptic liquid. Books. English dictionary. Screwdrivers, wrenches, hammers. And toys for our baby on the way.
+
+Then we cross an ocean to start again. Our ship runs without wind. No oars. No sails. Coal burns, heats water into steam, propellers turn. The same steam. The same pumps. Now crossing an ocean.
+
+We arrive with a little boy. San Francisco did burn to the ground. It is ash like after a forest fire. Any building still standing is burnt out and black.
+
+These Americans are rebuilding already, like the seedlings of the forest.
+
+A new wall of paper, more job ads, the same colors. There is so much work.
+
+We find sleeping quarters. My boy plays with a wrench, hammer, and screwdriver as we prepare barley and beans with our countrymen. We are told "They don't like giving us the good jobs. But there's so much work here now, maybe they will soon."
+
+We take a few days to get settled. To understand the area. To meet people. Doors close in our face. Many faces sneer when they see my little boy. I say "Good morning, nice weather. Have a good day," which always surprises them and makes us giggle.
+
+That night, as I read and my boy plays, we hear in the alley below, something moves. Its paws quick and careful, reaching inside a crate. I ask a new friend what it is.
+
+"A raccoon. Very crafty—it learns well and finds food anywhere in the city."
+
+My husband and I hide some food from it. And, amazingly, each night it finds a way to eat it. 
+
+We go to the job board. The others take the dangerous work they will likely get. I see the ad immediately *Pipefitters. Pressurized water fire suppression. Make San Francisco FIRE PROOF.*
+
+We go to the work tent. Full of pipes and water pumps. The foreman looks at us, says have not done such work.
+
+I tell him, "We can teach that."
+
+My husband picks up a wrench and screwdriver, walks over to a water pump, and the others watch.
+
+===

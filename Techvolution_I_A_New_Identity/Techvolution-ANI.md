@@ -1137,19 +1137,19 @@ Soviet science made the opposite wager. Instead of genetics making a person, the
 
 These were two entire societies based on either the genotype or phenotype. However, as awful as it might sound, these extremes could have technological success. Both used new machinery, mathematics, and other advancements to build modern economies and militaries. Each was doomed however, because extremes have complacency embedded in them and cannot sustain any success in the game of life.
 
-Let's look at World War II (1939-1945) for our first example why. This history is told in many books (my favorite being _Why the Allies Won_), but in short Germany's early WWII victories came from a real innovation—integrating tank, plane, and infantry by radio into concentrated and fast-acting "combined arms" mobile warfare. These ideas started to be thought up during the dreadfully slow and murderous trench warfare of World War I (1914-1918). In that war, soldiers, tanks, planes, artillery were spread across the battlefield and attacked each other in waves. It was understood battles happened over weeks or months where soldiers would relay observations to commanders and wait hours or days for orders on what to do next inside large units of hundreds or thousands.
+Let's look at World War II (1939-1945) for our first example why. This history is told in many books (my favorite being _Why the Allies Won_), but in short Germany's early WWII victories came from a real innovation—integrating tank, plane, and infantry by radio into concentrated and fast-acting "combined arms" mobile warfare. These ideas started to be thought up during the dreadfully slow and murderous trench warfare of World War I (1914-1918). In that war, soldiers, tanks, planes, artillery were spread across the battlefield and attacked each other in waves. Soldiers relayed observations to commanders far away from the battlefied and waited days for orders on what to do next.
 
-Germany's innovation was concentrating tankers, pilots, artillery like a sword point at the gaps in the enemy's armour. More importantly, using radio, soldiers talked directly to each other and could share intelligence on enemy positions and then coordinate movements and attacks at relative small sizes and at lightning speed (these were often called "Blitzkrieg" tactics).
+Germany's innovation was concentrating many trucks, tanks, planes, and artillery like a sword point at the gaps in the enemy's forces. More importantly, using radio, soldiers talked directly to each other and could share intelligence on enemy positions and then coordinate movements and attacks at relative small sizes and at high speed (which is why it was called "Blitzkrieg", lightning warfare).
 
-Combined arms warfare was not an original idea. Since World War I, the radio, airplane, and motor engine advanced greatly and everyone was learning to drive or hearing airport traffic and knew society was not just changing, but warfare too. Yet, the Germans, perhaps because they were poorer and had less reason to preserve World War I mentalities, implemented new ideas faster than anyone else. They actually borrowed much of the philosophy for combined arms warfare from British academies even though British military didn't implement them.
+The Allies built tanks, planes, and trucks just like the Germans did. But their leaders had built their careers on WWI methods, so new ideas were filtered out with every training session and promotion. Their warfare of artillery, bunkers, and layers of commanders went unchanged. They fitted new tools to an old war. The Germans, with less to preserve, learned instead. 
 
-The Allies built tanks, planes, and trucks just like the Germans did. Some even asked how warfare would change. But their leaders and culture didn't feel the need to rethink themselves, so their warfare of artillery, bunkers, and layers of commanders went unchanged. They fitted new tools to an old war. The Germans, with less to preserve, learned instead.
+Combined arms warfare was not Germany's idea. Austrailian WWI general John Monash, a part-time general but full-time engineer, actually implemented it with the primitive tanks and planes of the era to great success. Yet, the the Allies, especially France, learned that defense win wars. While Germans learned they can't win long wars. The Germans thus had less reason to preserve World War I mentalities, and so implemented combined arms warfare. The textbooks were literally written by British theorists even though the British military didn't implement them.
 
 When World War II started in September 1939, the die was cast, as each side would see how well it had prepared itself. Germany invaded a hard-fighting Poland (1939) in a matter of weeks. The result of that contest was never in question, especially as the Soviets invaded from the other side towards the end. It was only when turning its Blitzkrieg on Holland, Belgium, and France (1940), did Germany truly test its new military.
 
 An early obstacle was the massive Belgian Fort Eben-Emael. Made from all the lessons of World War I, it was a massive underground city with concrete protected machine guns and artillery pieces. It was built to protect several important bridges that controlled the Belgian heartland from invasion.
 
-Remembering World War I, Belgian defenders waited for German artillery and soldiers to attack. Instead the Germans landed gliders on the fort's roof. Without even being heard or detected, 85 troopers walked out, used newly developed shaped explosive charges to blast open the concrete gun emplacements, and the fortress fell in under two days. With barely a struggle, German tanks rolled on and Belgium fell days later.
+Remembering World War I, Belgian defenders waited for German artillery and soldiers to attack. Instead the Germans landed gliders on the fort's roof. Without even being heard or detected, 85 troopers walked out, used newly developed shaped explosive charges to blast open the concrete gun emplacements, and the fortress fell in under two days. With barely a struggle, German tanks rolled on and Belgium fell weeks later.
 
 Fort Eben-Emael was symbolic of the entire Allied battle plan. The French built bunkers that were far larger, the biggest called the Maginot Line, and none of them prevented invasion. Instead of landing on them like in Eben-Emael, the Germans drove around them, and faced surprised and disorganized soldiers still trained to fight World War I. 
 
@@ -2283,43 +2283,45 @@ _Learning how to be wrong._
 
 January wind rattles against the shutters of a small farmhouse. 
 
-Inside three candles burn on a wood table.
+Inside three candles burn on a wood table. The months of a calendar are tacked on the wall. The days of November and December are crossed off with a spattering of "No result" on Friday and Saturday.
 
 A boy carries a box of metal rods and small metal boxes with holes punched in the lids and a slit along the side.
 
-"Thanks, William," says the merchant as he places the candles inside the metal boxes. "Watch William. The slit is for the rod. With wax on the far end, we attach the metal into the flame."
+"Thanks, William," says the merchant as he places the candles inside the metal boxes. "Watch William. The slit is for these new rods. With wax on the far end, we attach the metal into the flame."
 
-"It's the same candle. But with different air sources. This one gets air from outside. This one draws from inside the chimney, above the fire. This one just gets the room air, here by the hearth."
+"We've made changes. We're using the same candle. But with different air sources. This one gets air from outside. This one draws from inside the chimney, above the fire. This one just gets the room air, here by the hearth."
 
-The blacksmith nods. "William, we're testing the supposition that there's something *in* the air that makes fire burn differently."
+The blacksmith nods. "He helped me make the new contraptions."
 
-William responds, "That's a guess? Because we don't know what's in air?"
+William now adds, "We're testing that there's something *in* the air that makes fire burn differently."
 
-The merchant responds, "Correct William. That's why we're testing different environmental conditions."
+Merchant jumps in, "But it's a guess. Because we don't know what's in air."
 
-"And we measure which burns hottest?"
+William responds, "What else would we do? We're testing different environmental conditions. To measure which burns hottest."
 
-"Yes. We're looking for the one most like you William."
+The merchant, "There's lots of other ways. More profitable ones too."
 
-The blacksmith looks at the boy, his apprentice. "How do we measure hottest?"
+William, "Like what?"
 
-"Tip resting on wax at the far end. Whichever wax melts first is the hottest flame."
+The blacksmith looks at his apprentice, "By doing what works without knowing why. How do we measure hottest?"
 
-The merchant and blacksmith nod at the apprentice.
+"Tip resting on wax at the far end. Whichever wax melts first is the hottest flame. And therefore has the strongest fuel."
 
-Each lights a candle and places their boxed candle at this location.
+The merchant and blacksmith smile at the apprentice.
+
+Each lights a candle and places their boxed candle at its location.
 
 The merchant flips the sand clock.
 
-"The chimney one is dying. Rod wax not melting. Dead at 1/10 of glass." The blacksmith writes it down.
+"The chimney candle is dying. Rod wax not melting. Snuffed at 1/10 of glass." The blacksmith writes it down.
 
-"The room-air rod is dripping wax. 2/10." The merchant glances over. "William, your status?"
+"The room-air rod is dripping wax. 2/10 of glass." The merchant glances over. "William, your status?"
 
-"Window candle burning. Wax melting now—4/10."
+"Window candle burning. Wax melting now—4/10 of glass."
 
 "Something in chimney air *kills* fire. We already knew that," the blacksmith declares.
 
-"Or something *isn't* in it. But look—the room candle burned hotter than the window one. Both have fresh air. Why the difference?"
+"Or something *isn't* in the air to fuel flame. But look—the room candle burned hotter than the window one. Both have fresh air. Why the difference?"
 
 The merchant stops, pen above paper. "Fire eats something out of the air. That's one finding. But there's another. The room air was warmer. The window air comes in cold off the street. Warm air feeds the flame better than cold."
 
@@ -2328,7 +2330,9 @@ The merchant stops, pen above paper. "Fire eats something out of the air. That's
 "Two. We have to test them apart. Next time we warm the window air in a pan before it reaches the candle. See what happens."
 
 *Test 5, January. Chimney air—candle dies at 1/10. Room air (warm) melts wax at 2/10. Window air (cold) at 4/10.*
+
 *Supposition: fire consumes something from air. Spent air will not support flame.*
+
 *Second supposition: cold air weakens the flame even when fresh. To separate the two, warm the window air before it reaches the candle.*
 
 "Maybe it's us?" says the apprentice.
@@ -2339,7 +2343,7 @@ The merchant stops, pen above paper. "Fire eats something out of the air. That's
 
 The blacksmith smiles at his apprentice. The merchant sets down his pen.
 
-"Lord Bacon would have liked that. The boy notices what we missed."
+"Lord Bacon would have liked that. The boy notices what we missed. My master would have slapped me for saying it."
 
 "Add breath to the list of variables," the merchant says. "Air from a room with many people breathing."
 
@@ -2349,7 +2353,7 @@ The blacksmith smiles at his apprentice. The merchant sets down his pen.
 
 The blacksmith picks up the book lying nearby. "Novum Organum! True directions concerning the interpretation of nature! We are not in the old world of the Mediterranean filled with superstitions."
 
-The merchant adds, "William, Bacon wrote that we command nature by obeying her. But that the work is too great for one man, or one lifetime. Like St. Paul's Cathedral, everyone lays bricks others build on."
+The merchant adds, "William, Bacon wrote that we command nature by obeying her. But that work is too great for one lifetime. Like St. Paul's Cathedral, everyone lays bricks others build on."
 
 "By testing," says the blacksmith.
 
@@ -2359,13 +2363,13 @@ The merchant adds, "William, Bacon wrote that we command nature by obeying her. 
 
 "So anyone can redo our work. If they cannot reproduce our results, we have proved nothing. This project will take a long time. It's worth doing, William."
 
-"What good will come from so much work?"
+"I still don't understand how else we could discover what fuels fire?"
 
-The blacksmith jumps in, "Understanding what fuels fire? Imagine the metals we can make! Imagine what the new metals can fashion. Imagine William! Imagine! That is for you and your apprentice after you to build on. Are you ready?"
+The blacksmith jumps in, "Mankind has always wondered. Now we have the tools of discovery. So we have the responsibility to find out! Imagine the metals we can make! Imagine what the new metals can fashion. Don't look back! Imagine William! Imagine! That is for you and your apprentice after you to build on. Are you ready?"
 
 The apprentice smiles.
 
-They relight the chimney candle one more time, each placing the iron rods into the flames.
+They relight the chimney candle one more time, each placing new iron rods into new flames.
 
 A bookshelf fills with notepads of observations. 
 
@@ -3013,8 +3017,23 @@ I see fear.
 
 I cannot help him. I must follow the ladies to start the morning chores. I pray this farmer is a good man.
 
---
- <!-- - wife/nurse cares for a hurt farmer. another women wants to use traditional remedies. nurse must confront with respect "we aren't doing that anymore...embrace recognizing where where are (river) and what we need (bridge) " -->
+We organize the store room. Wool blankets, blank paper, new linens. I notice the medicine and bandages, These are where I will show my worth.
+
+A worker enters. He's holding a rag on a bleeding neck. A tree branch cut him while he was clearing a field.
+
+Another lady speaks up first, "I can clean the wound. I have the herbs. Come sit here, son."
+
+The worker does as he's told and sits in a chair as the lady gathers her supplies. A lady with blue scarf and I share a look. Herbs? We need to clean and dress the wound.
+
+"Ma'am. It would be better to use antiseptic to disinfect the wound. If not, the men may suffer." I do not wait, but begin to gather my supplies from the shelves.
+
+The Herb Lady continues to spread out her herbs.
+
+The worker looks at both of us, still holding the rag to his neck.
+
+Blue Scarf lady interjects between us, "Mrs. Ozaki. I am sure your knowledge of remedies is like few others. I look forward to learning your best remedies. We must treat our workers as best we can. Some of us have taken a course at the new hospital. We can teach you how to first use antiseptic to clean the wound to be sure no sickness festers. It is a proven method and works very well and is easy to learn too."
+
+The room of ladies is looking at Mrs. Ozaki with smiles and nods. She closes her herbs, steps back, and watches as we show her how to clean and dress a wound. We even apply two stitches.
 
 That night, my husband returns. He has a cut on the forearm. But he is smiling as he tells me what happened.
 
@@ -3022,7 +3041,7 @@ That night, my husband returns. He has a cut on the forearm. But he is smiling a
 
 I read the manual. The tractor is steel, runs on steam. It does the planting very fast. When it works. It worked a few hours today, then we fixed it a few hours. We seed much faster on the good days.
 
-I don't understand this new tractor machine. "I want to see it," I tell him as I put carbolic acid on his cut then wrap the clean cloth around it. He will work tomorrow and be safe.
+I don't understand this new tractor machine. "I want to see it," I tell him as I put carbolic acid on his cut then wrap the clean cloth around it. Like the other injuried worker, he will work tomorrow and be safe.
 
 So I go. At the field's edge I watch the steel machine crawl down a row, dropping seed behind it faster than ten men with hoes. My husband walks beside it, one hand on a lever, grease to his elbow. He sees me and grins. "Three days' work," he calls. "Before noon."
 
@@ -3072,7 +3091,9 @@ He gets angry. "You don't want that. That is useless stuff. You don't want to wo
 
 I see a big ad. In Japanese and in English.
 
-America. A city across the ocean burned to the ground—San Francisco. In big letters "The city of the future. Rising from the ashes!" Wages so high we do not believe. We could stay and help build Japan. But now my husband wants to go.
+America. A city across the ocean burned to the ground—San Francisco. In big letters "The city of the future. Rising from the ashes! *Pipefitters. Pressurized water fire suppression. Make San Francisco FIRE PROOF.*
+
+Wages so high we do not believe. We could stay and help build Japan. But now my husband wants to go.
 
 <!-- do we need to see them go? -->
 
@@ -3717,9 +3738,9 @@ New ideas have always had a hard road. Semmelweis begging doctors to wash their 
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Turning the scientific method on our technological ecosystem to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. 
 
-"No science can achieve maturity without a system of measurement," wrote the physician Logan Clendening. That is why I hope this is the start of something rather than another story about people. We already measure biological beings this way. We don't know a tiger by its thoughts and dreams, but by its stripes and its niche. Nobody asks whether the killer whale enjoys hunting or the polar bear likes the cold. We ask what it eats, what that costs, and whether the arrangement maintains a balanced ecosystem.
+"No science can achieve maturity without a system of measurement," wrote the physician Logan Clendening. That is why I hope this is the start of something rather than another story about the human condition. We already measure biological beings this way. We don't know a tiger by its thoughts and dreams, but by its stripes and its niche. Nobody asks whether the killer whale enjoys hunting or the polar bear likes the cold. We ask what it eats, what that costs, and whether the arrangement maintains a balanced ecosystem.
 
-Turn the same questions on ourselves and they become answerable. How much energy does driving one route versus another, or none, take? How much does it return? Does the niche sustain the person in it? These have numbers. What gets in the way is the storytelling—the Lion King version of nature, where villians and enemies are applied to natural events just because of who and how a story is told.
+Turn the same questions on ourselves and they become answerable. How much energy does travelling one route versus another take? How much return does each give? Does the niche sustain the person in it? What is the carrying capacity of the ecosystem? These have numbers for all players of the game. What gets in the way is the storytelling version of nature. Those stories teach us a great deal about ourselves. But they also hand out villains and heroes to events that never had any.
 
 Here's the test of whether this book worked. Someone says: things are going terribly, they are the enemy, and this policy is what we do about it, and while you listen, you judge against new convictions. Things are always good and bad. Entropy is our actually our only true enemy. It always makes us hungry, cold, tired, vulnerable. We only prosper by joining a group committed to overcoming its disorder faster. This group pays its bills to the Game of Life without death or oppression because not only do we evolve through our tools instead of our bodies, but evolution needs all kinds and sorts to populate the gameboard.
 
@@ -3727,7 +3748,7 @@ So, will this new idea empower my fellow boardmates to form an ecosystems that r
 
 What would help most you say to yourself is if every customer and worker, professional and leader, knew their individual actions are the unit of selection. Thus any group wins by doing seemingly simple actions like thorough scavenging, constant decomposing, and frequent hunting of the slow tools and lifestyles that let entropy catch up to us. This is especially so inside our own company, institution, or community because these are the places we can each actually reach.
 
-Simply put, this book worked if you undersand anyone can embrace any beliefs. But evolution is still selecting you—and everyone, always—on one thing: whether you build tools that reciprocate and keep life's torch alive against entropy's slow unmaking of life.
+Simply put, this book worked if you undersand anyone can embrace any beliefs. But evolution is still selecting you—and everyone, always—on one thing: whether you build tools that reciprocate and keep life's torch alive against entropy's slow unmaking of life. Founding a civilization is never the hardest part. It's evolving one's tools and mindset without failure and conflict that's proven so difficult for us.
 
 Accepting this does not mean abandoning your identities or communities. I practice cultural dance, cheer for my country, read ideologies, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live my version of a happy human life. Even so, I know my calories, heat, shelter, and electricity don't come from a wild nature, but from a technological ecosystem I work in, that others in and outside of my community, produce, graze, hunt, scavenge and so on.
 
@@ -3790,7 +3811,6 @@ Or drop them yourself?
 
 - long lasting creatures don't base their standard of living off the good times.
 
-- Historically, founding a civilization is never the hardest part. It's evolving one's tools and mindset without failure and conflict that's proven so difficult for us.
 
 
 ## Preview—Book II—Mixed Ideological Politics
