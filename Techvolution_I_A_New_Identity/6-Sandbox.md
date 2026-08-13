@@ -5267,3 +5267,12 @@ I tell him, "We can teach that."
 My husband picks up a wrench and screwdriver, walks over to a water pump, and the others watch.
 
 ===
+
+Germany's early World War II victories came from a real innovation—integrating tank, plane, and infantry by radio into concentrated and fast-acting "combined arms" mobile warfare. These ideas were in contrast to the World War I where soldiers, tanks, planes, artillery were spread across the battlefield and attacked each other in waves. Soldiers relayed observations to commanders far away from the battlefied and waited days for orders on what to do next.
+
+
+===
+
+That is the big reason why I brought up my speech impediment. Because it required tough introspection that wasn't easy. I remember one good friend saying in high-school I should do therapy again and I cast it off. I simply didn't want to face it again and was happy with the decent fluency I had, and I ended up having to work insurance claims! What a warning. But it wasn't all bad, because I got to fix my tool and update my identity to better integrate with my environment.
+
+I needed to, because biological identities are not how the coach primarily sees us inside this technological Earth. 
