@@ -21,7 +21,7 @@ You read about King Charles I. The king who died rather than apologize. We're us
 
 Meaning, once peace and security returned to western Europe, the nobility's storyline ended. Thus, the nobility should have proactively done what Rousseau said, and return to being equal members of society. They didn't of course. And history used many violent revolutions to right that wrong.
 
-Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. It's like a gremlin holding an electrical cord connecting your thoughts and your tongue; sometimes the electricity flows, and sometimes it doesn't. In practice this means some words are easy to say, some are hard, and some decide which at the last millisecond. Smooth talking requires agility as the speaker has to manuever around this path of uncertainty.
+Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. It's like a gremlin holding an electrical cord connecting your thoughts and your tongue; sometimes the electricity flows, and sometimes it doesn't. In practice this means some words are easy to say, some are hard, and some decide which at the last millisecond. Smooth talking requires agility as the speaker has to maneuver around this path of uncertainty.
 
 Hello, my ~~name~~ I go by John-ne. I wa-want to help ~~master~~ destroy revolutions. I've been ~~writ~~ trying to write this book for ~~about~~ a ~~year~~ six months...
 
@@ -70,7 +70,7 @@ You read about King Charles I. The king who died rather than apologize. We're us
 
 Meaning, once peace and security returned to western Europe, the nobility's storyline ended. Thus, the nobility should have proactively done what Rousseau said, and return to being equal members of society. They didn't of course. And history used many violent revolutions to right that wrong.
 
-Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. It's like a gremlin holding an electrical cord connecting your thoughts and your tongue; sometimes the electricity flows, and sometimes it doesn't. In practice this means some words are easy to say, some are hard, and some decide which at the last millisecond. Smooth talking requires agility as the speaker has to manuever around this path of uncertainty.
+Charles had a speech impediment. Often called a stammer or studder. No one then, or even now, understands what causes it. It's like a gremlin holding an electrical cord connecting your thoughts and your tongue; sometimes the electricity flows, and sometimes it doesn't. In practice this means some words are easy to say, some are hard, and some decide which at the last millisecond. Smooth talking requires agility as the speaker has to maneuver around this path of uncertainty.
 
 Hello, my ~~name~~ I go by John-ne. I wa-want to help ~~master~~ destroy revolutions. I've been ~~writ~~ trying to write this book for ~~about~~ a ~~year~~ six months...
 

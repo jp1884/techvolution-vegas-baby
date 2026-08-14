@@ -5227,12 +5227,12 @@ Spanning the breadth of human history, _Techvolution_ reframes the human story b
 
 ====
 
-Austrailian general John Monash, a part-time general but full-time engineer, was the first to implement the ideas in 1918 modern war as a logistical and mechanical problem to be solved, not just a matter of courage and numbers. His victory at the Battle of Hamel (1918) was a limited but perfectly executed assault. It lasted just 93 minutes and tanks, infantry, artillery, and aircraft worked in precise coordination. All objectives were captures with very low casualities. Soon after the Allies would push Germany to surrender using similar tactics.
+Australian general John Monash, a part-time general but full-time engineer, was the first to implement the ideas in 1918 modern war as a logistical and mechanical problem to be solved, not just a matter of courage and numbers. His victory at the Battle of Hamel (1918) was a limited but perfectly executed assault. It lasted just 93 minutes and tanks, infantry, artillery, and aircraft worked in precise coordination. All objectives were captures with very low casualities. Soon after the Allies would push Germany to surrender using similar tactics.
 
 ===
 
 
-Combined arms warfare was not Germany's idea. Austrailian WWI general John Monash, a part-time general but full-time engineer, actually implemented it with the primitive tanks and planes of the era to great success. After the war ended the radio, airplane, and motor engine advanced greatly and everyone knew warfare would change to. Yet, the the Allies, especially France, learned that defense win wars. While Germans learned they can't win long wars. The Germans thus had less reason to preserve World War I mentalities, and so implemented combined arms warfare. They literally use the philosophy for combined arms warfare developed by British theorists even though British military didn't implement them.
+Combined arms warfare was not Germany's idea. Australian WWI general John Monash, a part-time general but full-time engineer, actually implemented it with the primitive tanks and planes of the era to great success. After the war ended the radio, airplane, and motor engine advanced greatly and everyone knew warfare would change to. Yet, the the Allies, especially France, learned that defense win wars. While Germans learned they can't win long wars. The Germans thus had less reason to preserve World War I mentalities, and so implemented combined arms warfare. They literally use the philosophy for combined arms warfare developed by British theorists even though British military didn't implement them.
 
 ===
 
