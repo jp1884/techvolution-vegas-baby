@@ -5276,3 +5276,21 @@ Germany's early World War II victories came from a real innovation—integrating
 That is the big reason why I brought up my speech impediment. Because it required tough introspection that wasn't easy. I remember one good friend saying in high-school I should do therapy again and I cast it off. I simply didn't want to face it again and was happy with the decent fluency I had, and I ended up having to work insurance claims! What a warning. But it wasn't all bad, because I got to fix my tool and update my identity to better integrate with my environment.
 
 I needed to, because biological identities are not how the coach primarily sees us inside this technological Earth. 
+
+===
+
+Likewise, only an ecosystem of beings, looking to harvest energy in different ways, can build matter enough to counter entropy. Responding to environmental challenges and opportunities faster will alleviate entropy. And you can only change your conduct, and look for other tools and people who will form a bigger and faster ecosystem.
+
+
+
+We already look for better tools and people to help us. But we too often expect ideology to define who our friends and enemies are. For example, we expect historical identities to define our allies, even when we no longer use each other's products—and so no longer share the interests that lifeforms depending on the same ecosystem actually have. 
+
+
+
+Of course we could just let history play out. The object of life is to be as lazy as possible while still surving and procreating. Animals do it and left natural selection happen as it will. We can subvert these lessons with artifical selection, but as we've seen, that eventually catches up to everyone, from Allied militaries to Soviet bureaucrats. They were the raccoon waiting for the bankrupt restaurant to reopen. A new identity should see the environment for what it is and know that extremes actions into a moderate ecosystem is the best course to pass on the torch. 
+
+
+
+Or you can read about the scribes who fought the printing press in Gutenberg's time, or the biblical storytellers who fought Galileo. The pattern is the same: holders of outdated technology defending their position with stories, trying to keep the past alive long enough to preserve their status.
+
+
