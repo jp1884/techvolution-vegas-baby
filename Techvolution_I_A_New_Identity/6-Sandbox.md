@@ -5294,3 +5294,39 @@ Of course we could just let history play out. The object of life is to be as laz
 Or you can read about the scribes who fought the printing press in Gutenberg's time, or the biblical storytellers who fought Galileo. The pattern is the same: holders of outdated technology defending their position with stories, trying to keep the past alive long enough to preserve their status.
 
 
+
+The game rewards both diversity and mass production. It can require particular genetic traits or phenotype adaptations. Long standing traditions or wacky new ideas. Not because anyone requires it. But because each is a different way to harvest energy the gameboard makes available. The system grows when each member finds a new way to harvest resources. That's how life stays up to date in the never ending work of organizing more matter into structures that hold together against the dissolving, collapsing, eroding, and decaying that takes everything left unmaintained and unenergized.
+
+====
+
+
+
+A new identity isn't about what to do. It's about removing the mental roadblock in the way of what we naturally do, and letting evolution take it from there.
+
+Agreeing with the group won't address environmental problems. Watching TV won't change entropy's attacks. Believing in an ideology won't assemble matter into useful configurations.
+
+Want to be healthier? Follow good nutrition and exercise. The flavour of the food being spicy or savory, the kind of movements being yoga or weightlifting doesn't matter to the final product of a healthy human body.
+
+None of this is new territory. Farming, engineering, forestry management are all self-aware artificial selection. Techvolution is the same for our technological ecosystem. This book sets to make technological evolution impossible to unsee, in order to build a solution that seems as obvious as irrigating farmland, managing a forest, or getting in shape.
+
+We will see these rules of technological evolution better once we realize we are not selfless beings. Perhaps not even our shining examples such as Socrates ever truly were. But for sure, the grade-school teacher, late night television host, dock worker, or sales manager of a paper distribution company are not selfless observers of society. We all have bills to pay. We shouldn't expect anyone to drop the toolset that feeds them while it still works, however poorly for the rest of society. People let go when the old tool stops paying—not a moment before, and no story will make them change their mind.
+
+I saw this in insurance claims all the time. When their tools stopped working, they craved instructions to get a new car, boat, house. Give clear next steps and they respond where a million promises and guarantees fall flat.
+
+But if our tools still work, like a DVD in the Internet Age, we hold onto our own branch on the tree of life, defending our outdated tools with stories—while expecting everyone else to drop theirs the moment it makes sense. The object of life is to be as lazy as possible while still surving and procreating. That eventually catches up to everyone, from Allied militaries to Soviet bureaucrats. They were the raccoon waiting for the bankrupt restaurant to reopen. Watch cable news or visit a movie theater today to see it yourself. Or ask why despite academia's founding logic being open, distributed, and reproducible knowledge, today's professors still resist updating a free encyclopedia.
+
+Such resistance is all we have because we have no adjuster giving clear next steps on what to do after our tools fail.
+
+Sadly, we don't have a claim cheque waiting for Maria. We do know resistance only lasts for as long as someone else assembles the food, housing, and heating we depend on. Such resistance was evident in the Soviet Union and Nazi Germany to the extreme, but fills our history regardless. If you're willing to admit you eat, find shelter, and drink because of technology, and thus you are inside a technological ecosystem that is evolving independent of your desires, needs, or beliefs, you can admit this truth and thus get ready to guide your own claim against evolutionary change.
+
+The reward is seeing not the dead ends and darkness of artificial stories, but the natural light of how our society truly functions—the real ecosystem of producers, plant-eaters, predators, scavengers, decomposers, and testers; idenitties that truly drive a person's motivation, because someone is always doing these jobs.
+
+Our job, as units of selection, is to find the unique blend of genotype and phenotype that lets you produce, graze, predate, decompose, and test and offer value somewhere inside the technological ecosystem. The reason tool-identity kills you and role-identity doesn't is that you've attached yourself to the layer that rotates instead of the layer that persists. Role-identity means accepting fruit trees die and water wells dry up, so that when the tool does stop paying, you've prepared and have an idea what the future will be.
+
+Thus, Maria who "sells DVDs" can place herself in context. Of course she has transferable skillsets such as logistical acumen, smooth salesmanship, employee management. A new identity empowers her to see far more: that her job was always connected to a tool inside an ecosystem. DVD rental stores were used in city, suburban, and country living, and could never be everywhere, so they always had to fight strong friction of distance problems. As internet speeds increased greatly, her customers were increasingly slower than the streamers. Not just in time to watch content, but in the cost of driving and renting as well. In 2012, the cost of a DVD rental was about five dollars for two nights against streaming unlimited content for eight bucks a month.
+
+Seeing the ecosystem means accepting the game of life applies to us. There is only so much energy available to assemble and keep matter assembled. With these carrying capacity limitations, her customers using DVDs were always spending more time and money to get the same results, and thus more likely to fall to predation.
+
+One thing might have offset that slowness. The community building nature of DVD stores, as it has for some video game rental stores to this day. A rental shop was a place where strangers with the same interest stood in the same room. You browsed, you overheard, a clerk who knew your taste handed you something you'd never have found. Streaming replaced the distribution completely but not the community. In ecological terms it isn't a market gap, but an empty niche where a new tool will grow like seedlings soaking up the sudden rush of new sunlight after a big tree falls to the forest floor.
+
+===
