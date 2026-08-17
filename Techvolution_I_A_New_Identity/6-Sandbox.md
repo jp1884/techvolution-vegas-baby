@@ -5330,3 +5330,16 @@ Seeing the ecosystem means accepting the game of life applies to us. There is on
 One thing might have offset that slowness. The community building nature of DVD stores, as it has for some video game rental stores to this day. A rental shop was a place where strangers with the same interest stood in the same room. You browsed, you overheard, a clerk who knew your taste handed you something you'd never have found. Streaming replaced the distribution completely but not the community. In ecological terms it isn't a market gap, but an empty niche where a new tool will grow like seedlings soaking up the sudden rush of new sunlight after a big tree falls to the forest floor.
 
 ===
+
+In The Lion King, the noble lion Mufasa leads a pride of lions. His son is the gifted Simba. Mufasa trains the future king his place in the circle of life. Sun and soil make the grass, grazers eat the grass, predators eat the grazers, and predators die to feed the soil. As the apex of the system, every animal on the savannah hails the birth of their future kings.
+
+Mufasa's weaker and deceptive brother Scar wants the pride. He arranges a stampede that kills the king, convinces the young prince it was his fault, and takes over. Under him the hunting goes reckless, the grazers leave, the grass dies, the ecosystem fails. Years later Simba returns, defeats his uncle, restores the pride, and the savannah gathers again to hail his newborn son.
+
+A wonderful story. And more deceptive than Scar ever was.
+
+The circle of life is real. Everything else is imported. Male lions do fight for prides. That is simply what male lions do, and the ones who lose leave to look for another. Scar did nothing wrong. There are no rightful thrones on a savannah, and no grazer has ever bowed to a lion. Grazer's need predators to prevent ecological loss. If anything, both niches should bow to each other.
+
+This is how a story trains a mind. Heroes, villains, and invented rules laid over an energy flow that has none of them. Stories are a good way to learn who our enemies are. Take it seriously and you start believing the circle of life is something our stories rule over, rather than something we study and adapt to.
+
+===
+
