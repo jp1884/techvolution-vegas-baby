@@ -5343,3 +5343,8 @@ This is how a story trains a mind. Heroes, villains, and invented rules laid ove
 
 ===
 
+Let's compare the two. If the Allies wanted to attack a town, they would assemble their units. Each was roughly similar, with tanks, trucks, planes distributed equally. Leaders at headquarters would look at maps, and give orders for each unit to capture specific parts of the battlefield. When the attack starts, units would proceed to their targets, attack the enemy the encountered with the tools available. With everyone getting access to trucks, tanks, and planes each unit could decide when to use these weapons.
+
+As the battle went on, units reported the situation to their captains, then majors, then colonels, eventually the frontline situation got to the HQ, who would update their maps, deliberate, and issue new orders. This took at least hours, but more often days.
+
+
