@@ -41,9 +41,12 @@ Chapter 8—Our Base Player Nature
 Chapter 9—Spreading the Technological Soil
 Chapter 10—Planting, Building, and Playing The New Game
 Chapter 11—Back to Natural
-Chapter 12—Vignettes
-Chapter 13—Epilogue
-Chapter 14—Personal
+Chapter 12—Extremes Are Not Natural
+Chapter 13—Moderation Is Natural
+Chapter 13—The Coach
+Chapter 15—Vignettes
+Chapter 16—Epilogue
+Chapter 15—Personal
 
 ## Preface
 
@@ -1133,6 +1136,12 @@ The last century twice demonstrated the complete failure of extreme human storyt
 
 One belief system looked at us and saw only genotype: each person is solely defined by their bloodline, so purge the dead weight of the species and promote and empower the doers and thinkers to replace them. The other saw only phenotype: remake the human condition by empowering educated decision-makers to engineer a society to make everyone a better human.
 
+Both believed they had cracked the code of human advancement. They implemented their ideas, and world would soon find how they worked, before evolution got a chance to judge it against natural selection.
+
+## Chapter 12—Extremism Is Not Natural
+
+Both the Soviet Union and Nazi Germany ran put their ideas into practice at full scale, on real populations, at the same time. Neither called it an a test. Both were certain enough to build a state on the answers their belief systems gave them.
+
 Nazi scientists attributed human success and failure to genetic heredity alone. Destiny was sealed at conception, unreachable, and legible in a person's body. The fact that many of Europe's best minds like John von Neumann and Albert Einstein fled for their apparent unworthiness dissuaded no believer. Left behind was a regime that measured skulls to rank intelligence and traced ancestry to sniff out more supposed undesirables.
 
 Soviet science made the opposite wager. Genetics was a myth, it was the environment that made a lifeform. So, they revived Lamarckism, an old idea Darwin's work had displaced. This theory said heredity could change based on environmental factors. Meaning for example, we can "teach" wheat to flower on different seasons and its offspring will inherit this new adaptation. When respected Soviet researchers like Nikolai Koltsov and Nikolai Vavilov rightfully disagreed they were persecuted or killed. By 1948 genetic research itself was banned. The result was a supposed scientific proof that any plant or person would prosper in any environment, if only it were properly conditioned for it.
@@ -1141,23 +1150,23 @@ These were two entire societies based on either the genotype or phenotype. Howev
 
 First case is World War II (1939-1945). This history is told in many books (my favorite being Why the Allies Won), but here's the short version.
 
-It starts in the previous war. German strategy in 1914 aimed at defeating France quickly by invading through Belgium, then turning east to fight Russia. Being in the middle and easy to blockade, Germany wanted to avoid a long two-front war that would strain its resources. It failed.
+It starts in the previous war. German strategy in 1914 aimed at defeating France quickly by invading through Belgium, then turning east to fight Russia. Being in the middle of Europe and easy to blockade, Germany wanted to avoid a long two-front war that would strain its resources. It failed.
 
-World War I was the first war after industrialization. For the first time, soldiers had machine guns, with massive amounts of artillery. As the war prolonged, mass-production kept supplying more men with more powerful weapons. Old battlefields would be miles long with hundreds of thousands of men. Now they were thousands of miles of trenches and bunkers with millions of men, machine guns, and explosives. No side could maneuver into a favorable position. Soldiers thus attacked each other in waves trying to ram through the enemies defenses and relayed observations to commanders far away from the battlefield and waiting days for orders on what to do next.
+World War I was the first war after industrialization. For the first time, soldiers had machine guns, with massive amounts of artillery. Old battlefields would be miles long with hundreds of thousands of men. Now they were thousands of miles of trenches and bunkers with millions of men, machine guns, and high-explosives. No side could maneuver into a favorable position. Soldiers thus attacked each other in waves trying to ram through the enemies defenses and relayed observations to commanders far away from the battlefield.
 
-It was a mess of trenches, poison gas, shell shock, and horror.
+Every leader mourned their dead, but didn't see any alternatives to the trenches, poison gas, shell shock, and horror.
 
-Enter Australian World War I general John Monash. He was a part-time general but full-time engineer and saw a way through. Whereas other generals saw warfare as duty, honor, and tradition, he looked at warfare as a problem to solve. He thus tried something new. He coordinated his soldiers, tanks, and planes to support each other based on the problems they faced when they faced it. No more wave attacks and endless artillery barrages. Instead of a battering ram, soldiers would be an orchestra of different tools that learned to play the same sheet music, i.e. battle plans. The mentality was called "combined arms warfare".
+Enter Australian World War I general John Monash. He was a part-time general but full-time engineer and saw a way through. He coordinated his soldiers, tanks, and planes to support each other based on the problems they faced when they faced it. No more wave attacks and endless artillery barrages. Instead of a battering ram, soldiers would be an orchestra of different tools that learned to play the same sheet music, i.e. battle plans. The mentality was called "combined arms warfare".
 
-Monash was a junior general, who controlled relatively few troops in smaller battles. His ideas culminated in the The Battle of Hamel (1918). As he designed, soldiers, tanks, and planes worked together and captured Hamel with unusually low casualties.
+Monash ideas culminated in the The Battle of Hamel (1918). As he trained them, his soldiers, tanks, and planes worked together and captured Hamel with unusually low casualties.
 
-But the war ended months later when a starving Germany surrendered, so the many other Allied generals never adopted Monash's methods as a new doctrine. Instead, victory over Germany was credited to strong bunkers and defensive strategy the Allies had used for over four years. Combined arms ideas were considered interesting. British theorists even developed war games and books about it. The Allied leadership read them, but never implemented them to any meaningful degree.
+But months later a starving Germany surrendered. The many other Allied generals never adopted Monash's methods as a new doctrine. Instead, victory over Germany was credited to strong bunkers and defensive strategy the Allies had used over four years. Combined arms ideas were discusssed and considered interesting. British theorists even developed war games and wrote books about it. The Allied leadership read them, but never implemented them to any meaningful degree.
 
 In contrast, World War I taught every German that they were correct. Germany's isolated geography means it cannot win long wars of attrition. From the top generals to the common soldier, no German had reason to preserve World War I mentalities. So, when they read the British theorists, they liked the idea of being far more efficient with the military they had. They wrote and distributed a practical guide to combined arms warfare called "Beware the Tank!".
 
-The German military took the book to heart. They practiced concentrating many trucks, tanks, planes, and artillery like a sword point at the weak points in the enemy's forces. More importantly, using mobile radios, soldiers talked directly to each other and shared intelligence and commands very fast. Germans learned to attack enemy positions with all weapons from all directions and at high speed. Germans called combined arms warfare "Blitzkrieg", or lightning warfare.
+The German military took the book to heart. They practiced concentrating many trucks, tanks, planes, and artillery like a sword point at the weak points in the enemy's forces. More importantly, using mobile radios, soldiers talked directly to each other and shared intelligence and commands very fast. Whereas Allied soldiers wanted hours or days for help, Germans dive-bombers, tanks, mobile artillery, and motorized infantry attacked enemy positions together, at the same time. Germans called combined arms warfare "Blitzkrieg", or lightning warfare.
 
-Powerful planes, trucks, tanks, and radio telecommunications were improving across the world. They were transforming everyone's society. Thus, the Allies built modern weapons just like the Germans did. But their leaders owed their careers to World War I methods, and were satisfied with their doctrine. Thus, combined arms ideas were filtered out with every training session and promotion. As the military trained themselves not to see the environment they created an echo chamber. Portable radios, fast moving tanks, powerful airplanes were purchased, but like in World War I, were added to each unit like it was a new portable kitchen—something nice to have but not pivotal. Each new tool was spread far apart, often behind bunkers, and connected by layers of commanders relaying orders and assuming they had time to wait for instructions on the battlefield. 
+Powerful planes, trucks, tanks, and radio were transforming societies everywhere, and the Allies built modern weapons just like the Germans did. But their leaders owed their careers to World War I methods, so combined arms ideas were filtered out with every training session and promotion. They trained themselves not to see the environment—and made an echo chamber. Radios, tanks, and airplanes were purchased and then added to each unit like a new portable kitchen: nice to have, not pivotal. Each tool was spread thin, often behind bunkers, connected by layers of commanders relaying orders and assuming there would be time to act before anything bad happened. After all, "piercing" the frontlines of World War took months of broad wave attacks.
 
 Then in September 1939 Germany invaded Poland. The die was cast as the sequel to World War I had started.
 
@@ -1165,21 +1174,21 @@ The Poles fought hard for weeks, but when the Soviets invaded them from the othe
 
 An early obstacle was the massive Belgian Fort Eben-Emael. It was built to protect several important bridges that controlled the Belgian heartland from invasion. Made from all the lessons of World War I, it was a massive underground city with concrete protected machine guns and artillery pieces. 
 
-Belgian defenders waited for German tanks, artillery, and soldiers to attack. Instead the Germans landed gliders on the fort's roof. Without even being detected, 85 troopers walked out, used newly developed shaped explosive charges to blast open the concrete gun emplacements, and the fortress fell in under two days. With barely a struggle, German tanks rolled on and Belgium fell weeks later.
+Belgian defenders waited for German tanks, artillery, and soldiers to attack. Instead the Germans landed gliders on the fort's roof. Without even being detected, 85 troopers walked out, used newly developed shaped explosive charges to blast open the concrete gun emplacements, and the fortress fell in under two days. With barely a struggle, German tanks rolled on and Belgium fell just a few weeks later.
 
-Fort Eben-Emael was symbolic of the entire Allied battle plan. The French built bunkers that were far larger, the biggest called the Maginot Line, and none of them prevented invasion. Instead of landing on them like in Eben-Emael, the Germans drove around them, and faced surprised and disorganized Allied soldiers and officers trained to fight World War I. 
+Fort Eben-Emael was symbolic of the entire Allied battle plan. The French built bunkers that were far larger, the biggest called the Maginot Line, and none of them prevented invasion. Instead of landing on them like in Eben-Emael, the Germans drove around them, and faced surprised and disorganized Allied soldiers and officers trained for the long timelines and mass-assaults of World War I. 
 
-For the Allied societies and militaries, suddenly facing reality was a complete mental shock. The people wanted peace, their militaries were sure repeating their defensive tactics would bring it. Yet, the German Blitzkrieg burst through the shocked Allied lines, and used their motorized movement to surround Allied armies from all directions. In six weeks the Nazi's did what four years of horrendously bloody warfare in World War I couldn't, and conquered most of Western Europe.
+For the Allied societies and militaries, suddenly facing reality was a complete mental shock. The people wanted peace, their militaries were sure repeating their defensive tactics would bring it. Yet, the German Blitzkrieg burst through the shocked Allied lines using their motorized movement to surround confused Allied armies from all directions. Cut off from their supply and communiction lines the Allied units had to surrender. In six weeks the Blitzkrieg did what four years of horrendously bloody warfare in World War I couldn't, and conquered most of Western Europe.
 
 One French officer summed up the trauma with a postcard. It was addressed to the country's leader and found on his body, "I am killing myself Mr. President to let you know that all my men were brave, but one cannot send men to fight tanks with rifles."
 
-The Nazis had just beaten an enemy who refused to adapt. And, here is the point so important to us, almost right away the Nazis made the same mistake, and because of their extremism could never see it even as the war turned very much against them.
+The Nazis had just beaten an enemy who refused to adapt. And, here is the point so important to us, almost right away the Nazis made the same mistake. They had the victory of World War I, but decided to keep fighting, even as the war turned very much against them.
 
-The Nazis read their early wins as proof of their ideology. The fact anyone can and did emulate their tools and tactics passed them by. Blitzkrieg wasn't even all that original. Two military historians explained Napoleon's 19th century warfare tactics as "Napoleonic Blitzkrieg". Like Monash a century earlier, Napoleon was an engineer who was very adept at using modern technology of horses, mobile cannons, canned food, and army corps, to concentrate overwhelming forces at what he called the "point of decision". Moreoever, surprising a foe and attacking his vulnerable points is hardly unnatural. Rather, nature rewards being lazy while getting the job done in the environment—instead of in the interview room. In many respects, combined arms warfare just re-applied long standing principles with new technology.
+The Nazis read their early wins as proof of their ideology. The fact anyone can and did emulate their tools and tactics passed them by. Blitzkrieg wasn't even all that original. Two military historians explained Napoleon's 19th century warfare tactics as "Napoleonic Blitzkrieg". Like Monash a century earlier, Napoleon was an engineer who was very adept at using modern technology of horses, mobile cannons, canned food, and army corps, to concentrate overwhelming forces at what he called the "point of decision". Moreover, surprising a foe and attacking his vulnerable points is hardly unnatural. Rather, nature rewards being lazy while getting the job done in the environment. In many respects, combined arms warfare just re-applied long standing principles with new technology.
 
 Nevertheless, with Western Europe under their grip, the Nazis assumed the "racially inferior" Soviets would be a push-over, evidenced by the Soviet Union's recent massacre of tens of thousands of its officers and lackluster war against Finland (1939-1940). Although the German invasion of the Soviet Union (1941) caused an egregious loss of Soviet life and property it failed to force a surrender or capture much needed oil fields. Within a few years the Soviets were fielding better and more reliable tanks and planes and approaching German military command sophistication. By 1943 the tide of the war turned for the Soviets never to swing back again.
 
-And the Allies woke up. Charles de Gaulle had spent the 1930s writing that France needed concentrated armoured divisions. As we've seen already, he was ignored. But when the Germans proved him right, the man nobody had listened to became the voice of Free France. Britain, having lost its army equipment when France fell, rebuilt around mobile formations and put its faith in radar and codebreaking—tools its prewar leadership had barely funded. Both countries promoted the people and tools they had previously filtered out.
+And the Allies woke up. Charles de Gaulle had spent the 1930s writing that France needed concentrated armoured divisions. As we've seen already, he was ignored. But when the Germans proved him right, the man nobody had listened to became the voice of Free France. Britain, having left its army equipment in France, rebuilt around mobile formations and put its faith in radar and codebreaking—tools its prewar leadership had barely funded. Both countries promoted the people and tools they had previously filtered out.
 
 But the biggest change came when America entered the war in late 1941.
 
@@ -1189,49 +1198,51 @@ America turned a 190,000 man pre-war army into over 8,000,000. War games were al
 
 This is not to say victory was assured. As the author of "Why the Allies Won" notes, in the middle years, the "conflict was poised on a knife’s edge". The point being made here was that Nazi Germany, so obsessed with genetic explanations for its successes, couldn't respond outside of its own extreme beliefs.
 
-And, over time their beliefs were increasingly self-defeating. They instilled fear in all their neighbors, even those supporting them, so despite controlling most of Europe at one point, they got no benefit from it because they invited sabotage instead of cooperation. While the average German soldier was famously skilled, and radicals like the Waffen-SS fought very hard, many soldiers were checking out. Hundreds of thousands of dissenting German soldiers were imprisoned and an estimated 15,000 executed for desertion (for reference America executed one). Nazis even resisted mobilizing women as workers or fighters despite their isolated geography once again made natural resources and manpower very limited.
+These beliefs were increasingly self-defeating. They instilled fear in all their neighbors, even those supporting them. While the average German soldier was famously skilled, and radicals like the Waffen-SS fought very hard, many soldiers were checking out. Hundreds of thousands of dissenting German soldiers were imprisoned and an estimated 15,000 executed for desertion (for reference America executed one). Nazis even resisted mobilizing women as workers or fighters despite their isolated geography once again making natural resources and manpower very limited.
 
-While some leaders worked to increase weapons production (which did increase), the regime's economy was trapped inside its own extreme. As it promoted genetic based discipline and ingenuity, so its industry and military wanted to showcase their German uniqueness with high-quality and ingenious weapons. They did with the famous Panzer tanks, Messerschmitt jet fighter, and many others. While impressive in today's museums and documentaries, in war these weapons were frequently unreliable, hard to mass-produce, and had a showroom polish no frontline soldier cared about.
+While some leaders worked to increase weapons production (which did increase), the regime's economy was obsessed with showcasing German superiority by making high-quality and ingenious weapons. While the famous Panzer tanks, Messerschmitt jet fighter, and many others are impressive in today's museums and documentaries, in war these weapons were frequently unreliable, hard to mass-produce, and had a showroom polish no frontline soldier cared about.
 
-For an example, take unglamorous cargo trucks. Bullets, food, and fuel are to an army what blood and oxygen are to an organism. Soldiers need supplies to win battles. America put five truck models into production. Germany had 151. It later cut down to 23 to help increasing production, but it never came close to American numbers.
+For an example, take unglamorous cargo trucks. Every army needs constant bullets, food, and fuel. America put five truck models into production. Germany had 151. It later cut down to 23 to increase production, but it never came close to American numbers. Most other German tools had similarly needless complexity. This was a logistical nightmare of incompatible parts, which partly explains why horses still pulled most of their supplies. For all its planning and engineering, Germany could equip only a small fraction of its military for Blitzkrieg.
 
-Most other German tools had similarly needless complexity. This was a logistical nightmare of incompatible parts, which partly explains why horses still pulled most of their supplies. For all its planning and engineering, Germany could equip only a small fraction of its military for Blitzkrieg.
-
-Yet while lagging far behind its enemies in the production of planes, tanks, and ships, the regime kept hunting supposed undesirables for its multiple ongoing genocides. It also lost the people it might have won. East Europeans who had every reason to hate the Soviet Union for its labour camps and famines were treated worst by the Nazis, and soon fought against their hopeful liberators.
+Yet while lagging far behind its enemies in the production of planes, tanks, and ships, the regime kept hunting supposed undesirables for its multiple ongoing genocides. It also lost the people it might have won over. East Europeans who had every reason to hate the Soviet Union for its labour camps and famines were treated even worse by the Nazis, and soon fought against their hopeful liberators.
 
 Instead of adapting, the Nazis increased their brutality and waited for a self-declared German genius to deliver "wunderweapons" that would save them—never realizing their own outcasts were building the first computers, radar, and the atomic bomb.
 
 As their conquests were liberated one by one, nothing changed, even at the end. Contrary to their doctrine of German nobility, the leadership did not die fighting alongside their soldiers. Most hid, fled, or killed themselves. As the Thousand-Year Reich was crumbling they wrote that the German nation had failed the racial test of history. Beating bunkers had made their reputation. Now they died in their own, where no evidence could reach them that it was Nazi beliefs that had failed the nation.
 
-In Berlin the Allies and the Soviets met over the ruins and divided Europe between them. One extreme was gone. The other had just been handed half a continent.
+After six years of war, the Allies and the Soviets met over the ruins of Germany and divided Europe between them. One extreme was gone. The other had just been handed half a continent. Extremism of the genotype had failed, and now we get to see how extremism of the phenotype is no better.
 
-After defeating the Nazis the country moderated its extreme policies with de-Stalinization. The country's generals, leaders, and people no longer feared mass executions, imprisonment, or famines. But the country could never moderate its core belief: that private property is needless, because properly trained persons are selfless, and therefore personal ambition is always bad.
+After defeating the Nazis the Soviet Union moderated its extreme policies with de-Stalinization. The country's generals, leaders, and people no longer feared mass executions, imprisonment, or famines. But the country could never moderate its core belief: that properly trained persons are selfless, and therefore personal ambition is always bad.
 
 There were technological triumphs for the Soviets to celebrate. To America's great surprise, they launched Sputnik, the world's first satellite (1957), then achieved more breakthroughs with the first fusion reactors (1958) and sending probes to Venus (1966-1983). But Soviet progress stalled for the same reason a Soviet biologist could not study genetic theory. The state owned the laboratories, the military, and everything else.
 
 When state doctrine wins every argument, individuals with different ideas are out of luck. As a result, Soviet society had no "people in a garage," no small businesses, no labor unions, no independent universities, no non-sanctioned ambition. 
 
-It was the Soviet leaders job to protect society from these exploitive classes. The result would be a classless communist utopia.
+The Soviet leaders' job was to protect society from these exploitive classes, especially by removing anyone's access to private property. When the most important tools and land is controlled by educated persons, the result would be a classless communist utopia.
 
-With so much responsibility vested in leadership, their actions must be shielded from reproach. And, countrary to their doctrine, but faithful to the human nature they wanted to correct, leadership acted selfishly. They withheld military and scientific developments from reaching the tools regular people used. TVs, calculators, toilet paper didn't change much through Soviet decades.
+With so much responsibility vested in leadership, their actions must be shielded from reproach. And, contrary to their doctrine, but faithful to the human nature they wanted to correct, leadership acted selfishly. They withheld their society's many military and scientific developments from reaching the tools regular people used. Despite going to Venus, TVs, calculators, toilet paper didn't change much through Soviet decades.
 
-Without independent research or private property there was nothing anyone could do about it. The result was a society with little "creative destruction." Factories waited for government ministries to supply raw materials and production targets. But, planning a huge economy was easy to get wrong. Factories got too many of one compoonent and to few of another, resulting in store shelves chronically empty of useful products. 
+Without independent research or private property there was nothing anyone could do about it. The result was a society with little "creative destruction." Instead, factories waited for government ministries to supply raw materials and production targets. The result was factories got too many of one component and too few of another, resulting in store shelves chronically empty of useful products.
 
-Everyone knew, the best jobs were rising in the government hierarchy. The classless society was therefore self-policing. Opposing ideas were filtered out with each new promotion and training session. Especially so, because in a society without free commerce, better control over state property was the best currency. The system could correct itself—genetics was allowed again after 1964—but instead of investigating nature, trying new things, and seeing what worked, everyone learned to wait for instructions.
+With so much power vested in government everyone knew the best jobs were rising in the hierarchy. The classless society was therefore self-policing. Opposing ideas were filtered out with each new promotion and training session, especially because in a society without free commerce, control over state property was the only currency. The system could correct itself—genetics was allowed again after 1964—but instead of investigating nature, trying new things, and seeing what worked, everyone learned to wait for instructions.
 
-In contrast, when America put rockets in space, average citizens were following along in real-time on radios and TVs sharing the same technology. As Soviet innovation stalled in the 1970s, the Soviet Union grew ever more dependent on oil exports to fund a bloated state bureaucracy and military. It needed to buy the advanced industrial equipment, and even food, it could not produce itself. Regular workers joked "we pretend to work, they pretend to pay us". When VHS tapes of bountiful western supermarkets pierced through government propaganda, and oil prices fell in the 1980s, the entire Soviet system imploded as its various peoples either voted to abandon it or watched as even once-committed believers let the communist project die.
+In contrast, when America put rockets in space, average citizens were following along in real-time on radios and TVs sharing the same technology. As Soviet innovation stalled in the 1970s, the Soviet Union grew ever more dependent on oil exports to fund a bloated state bureaucracy and military. It needed to buy the advanced industrial equipment, and even food, it could not produce itself. Regular workers joked "we pretend to work, they pretend to pay us". When video tapes of bountiful western supermarkets pierced through government propaganda, and oil prices fell in the 1980s, the entire Soviet system imploded as its various peoples either voted to abandon it or watched as even once-committed believers let the communist project die.
 
 People selecting winners and losers is not itself a problem. Every farmer selects, every teacher selects, every coach selects. The problem was what the extremists were selected on. Class origin and bloodline aren't measures of fitness; they're faces in a crab shell. As we learned in the Game of Life, nature keeps score on something else entirely: adaptations that harvest resources inside an ecosystem. Failing this test is why nature removed these extremist regimes within a lifetime.
 
-The West was different. Not by intent, but by structure. The power to create and modify society and technology was placed in many hands. Legislatures, courts, states, churches, unions, universities, private companies, and other institutions each held a piece, and none held enough to purge a whole category of persons or ideas. Exclusion and oppression were real, and often brutal. Government overreach existed. Businesses could be very selfish. But nothing was ever total, because there was always another jurisdiction, another employer, another lab. Complacency certainly happened, the interwar militaries being one large example. But when reality hit, like with Blitzkrieg and later Sputnik, the West responded faster and better than its extremist adversaries ever could.
+## Chapter 13—Moderation Is Natural
+
+The West was different. Not by intent, but by structure. The power to create and modify society and technology was placed in many hands. Legislatures, courts, states, churches, unions, universities, private companies, and other institutions each held a piece, and none held enough to purge a whole category of persons or ideas.
+
+Exclusion and oppression were real, and often brutal. Government overreach existed. Businesses could be very selfish. But nothing was ever total, because there was always another jurisdiction, another employer, another lab. Complacency certainly happened, the interwar militaries being one large example. But when reality hit, like with Blitzkrieg and later Sputnik, the West responded faster and better than its extremist adversaries ever could.
 
 This is because of something we learned earlier when noting the Milgram experiment. This was the test where participants shocked a "learner" for failing to remember some words, when the pencils that would have helped the troubled man were sitting right there on the table. With power spread across so many centers, someone in the West could find a way to pick up, give, or make a needed tool. Thus, the ethical could help the needy, dreamers could open a business, risk-takers could challenge a boss, regulators could insist on safety upgrades, academics found somewhere new to research, and customers were free to buy what they needed. 
 
-"Life could find a way", as the saying goes. So, the technological ecosystem in the West, from producers to predators, was be staffed more completely and therefore mass-produced more diverse tools than anyone else.
+"Life could find a way", as the saying goes. So, the technological ecosystem in the West, from producers to predators, was staffed more completely and therefore mass-produced more diverse tools than anyone else.
 
-The system was not perfect. There was civil rights marches, environmental protests, contested elections, but the West looked messier, because problems were actually being addressed instead of assuming the ideological belief made them go away. 
+The system was not perfect. The many civil rights marches, environmental protests, contested elections, showcase that well enough. But friction is a feature not a bug. The West looked messier, because problems were actually being addressed instead of assuming the ideological belief made them go away. A British Prime Minister Churchill even joked "democracy is the worst form of government except for all the others". That is an impossible joke to just tell in many extremist society, nevermind a leader saying it.
 
-So although imperfect, the West's system was far more adaptive to environmental changes. Because sometimes a person has the exceptional genetic gifts to change the world. Sometimes the educated bureaucrat should regulate society. Neither extreme was wrong about everything, which is exactly why neither could be discarded.
+So while never perfect, multi-party democracy with free-market economics was less blinding and therefore far more adaptive to environmental changes. Because sometimes a person has the exceptional genetic gifts to change the world. Sometimes the educated bureaucrat should regulate society. Neither extreme was wrong about everything, which is exactly why neither could be discarded.
 
 As biology shows many times over, an organism is a mixture of good genes and the right lessons on how to use them. Tradition and novelty should co-exist. An ecosystem is a mixture of these organisms because their different characteristics are needed to find the best niches inside the environment. Conservatives tend to appreciate genotype based tradition and instinct to mass-produce what works, and the progressives like phenotype diversity and want to embrace what's new.
 
@@ -1249,7 +1260,7 @@ We already learned healthy ecosystems are not created by concentrating on genoty
 
 The transistor was born from a partnership no single ideology contains: government demand, private enterprise, open research, and open market fused into one pipeline. Vannevar Bush embodied this pipeline in so many ways. He was the dean of MIT School of Engineering, a Raytheon founder, and America's wartime science chief. He even described how to fund and integrate this society wide system of invention with his article, _Science: the Endless Frontier_.
 
-The transistor showcases this pipeline's success. It was discovered at Bell Labs, an open research lab (1947) that had physicists, engineers, electricians, and lineman researching together. The transistor's early development was very uncertain that was paid for by military and NASA contracts to companies like Fairchild Semiconductor. With the needed resources and incentive at hand, these scientists soon turned a single transistor into the first integrated circuits (1959) packing several transistors into a single device. Within a decade integrated circuits were packing hundreds and powering many new tools.
+The transistor showcases this pipeline's success. It was discovered at Bell Labs, an open research lab (1947) that had physicists, engineers, electricians, and power-line installers researching together. The transistor's early development was uncertain and expensive, paid for by military and NASA contracts to companies like Fairchild Semiconductor. With the needed resources and incentive at hand, these scientists soon turned a single transistor into the first integrated circuits (1959) packing several transistors into a single device. Within a decade integrated circuits were packing hundreds and powering many new tools.
 
 Then the competitive market took over. As military rocket, pocket calculator, and transistor radio sales exploded, transistor scientists met the capital markets to find funding to leave their universities and employers to start their own companies. These newcomers drove development into overdrive, and soon one of their so-called "Fairchildren", Intel, invented the microprocessor (1971). Now thousands of transistors came on a chip that could be reprogrammed for any application. These microprocessors are the invention that powers all laptops, smartphones, graphic processors, and AI accelerators today.
 
@@ -1261,20 +1272,25 @@ The fight between all these perspectives never ends, and shouldn't. How much pub
 
 Which raises the question, if no ideology can pick the winners, and no state can assign the roles—who does?
 
-You do. Alone, for yourself. That has always been the only mechanism, and it's the one this book is about seeing clearly. As renowned biologist Ernst Mayr says "individual life forms are the unit of selection."
+## Chapter 14—Meeting the Coach
 
-Meaning, ecosystems always have big and small, old and young, rich and poor, weird and timeless. All adaptation exists because there are so many niches to fill inside a healthy ecosystem. All are selected based on what works in the environment.
+Individuals selects. Alone, for themselves. That has always been the only mechanism, and it's the one this book is about seeing clearly. As renowned biologist Ernst Mayr says "individual life forms are the unit of selection."
 
-So, an individual polar bear, squirrel, raccoon are the unit of evolution's advancement. Species, herds, packs, companies, armies, ecosystems are just a collection of individuals. An individual can better herself without permission or waiting on anyone else. The squirrel doesn't serve her ecosystem—she serves herself and her kids the same way the oak tree does. The result is a balanced and reciprocating ecosystem. Individuals can try to be extreme on the gameboard but everyone's actions are judged against their ecosystem's ability to build more diverse mass-produced technologies that beat back entropy long 
-enough to pass the torch.
+Ecosystems do not have group think. They are full of individuals, big and small, old and young, rich and poor, weird and timeless. All adaptation exists because there are so many niches to fill inside a healthy ecosystem. All are selected based on what works in the environment.
 
-These aren't isolated stories, but repeated ones as evolution is law for everything assembling on the gameboard. Players don't need to realize all this of course. But if a lifeform doesn't play by these rules, the coach finds someone who does. Ignorance works in nature. Squirrels don't need to realize they fight for the trees' health. Those who don't are replaced.
+So, an individual polar bear, squirrel, raccoon are the unit of evolution's advancement. Species, herds, packs, companies, armies, ecosystems are just a collection of individuals. The squirrel doesn't serve her ecosystem—she serves herself and her kids the same way the oak tree does. Individuals can try to be extreme on the gameboard but everyone's actions are judged against their ecosystem's ability build faster than entropy tears it down.
+
+Players don't need to realize all this of course. If a tree's nuts are not nutrious, it will be out planted by the ones who are. In nature, if a lifeform doesn't play the game, the coach finds someone who does. 
 
 We do need to realize all this.
 
-Because we have choice, we can practice artificial selection. We can also be raccoons—taking from an ecosystem and giving nothing back, using ideology to explain our place inside it. What changes that is realizing the technological ecology is there at all, and that our torch depends on it. Then we can judge our own actions against something real, and make artificial selection more natural.
+Because we have choice, we can practice artificial selection. We can be squirrels or raccoons—taking from an ecosystem and giving nothing back, while using ideology pretend otherwise.
 
-But before we can become the new modern squirrel to better assess our options (mixed ideological politics) and plant trees by default (bumble bee economics) we must change our mindset. A new identity is being a self-aware selector inside a technological ecosystem. Like World War II and the history of computer technology demonstrate very well, the groups who do this best will assess their current surroundings, be moderate, empower individuals, and thereby populate the Internet Age.
+But before we can become the new modern squirrel to better assess our tool options (mixed ideological politics) and plant trees by default (bumble bee economics) we must change our mindset. A new identity is being a self-aware selector inside a technological ecosystem. 
+
+A new identity is realizing with every choice you make, you are the coach in the Game of Life. The game humanity plays is up to your daily actions. Natural selection is just a consequence of which organism can best harvest resources and procreate. The coach never stopped judging. What changes is that you can now coaching yourself and help those around you.
+
+Like World War II and the history of computer technology demonstrate very well, the individuals who do this best will assess their current surroundings, be moderate, empower individuals, and thereby populate the Internet Age.
 
 A new identity isn't about what to do. It's about removing the mental roadblock in the way of what we naturally do, being more individually responsive to current problems, and letting evolution take it from there. Agreeing with the group won't address environmental problems. Watching TV won't change entropy's attacks. Believing in an ideology won't assemble matter into useful configurations.
 
@@ -1282,13 +1298,15 @@ Choosing to compost your daily banana keeps matter alive and useful. Opting for 
 
 These are the actions that fight entropy and bring prosperity. Not doing them is what loses it. They are not complicated any more than planting a nut is. They are just helpful and constantly done by the units of selection.
 
-Nature doesn't hand out name-tags. We don't know a tiger by its thoughts or its dreams. We know it by its stripes, its niche, and what ecosystem it lives in. Nature can't read our name-tags either. Your hopes and names change nothing on their own; only your actions do, and nearly all of them now run through tools. The tools you use are your place in your ecosystem. Pilot, mechanic, truck driver, welder, scrapper, miner. That is the new identity in a war against entropy.
+Nature doesn't hand out name-tags. We don't know a tiger by its thoughts or its dreams, but by its stripes, its niche, and what it does to everything around it. Nature can't read our name-tags either. Only actions register, and nearly all of ours run through tools you graze, hunt, scavenge, and decompose with. We see Matthew, Sarah, Apple, Google. Nature sees pilot, mechanic, truck driver, welder, scrapper, miner—all of them burning energy to keep something assembled. That is the new identity in life's war against entropy.
 
-And now, we can see our current problems differently. Political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. Conservative-minded rely too much on inheritance and tradition and progressive-minded too much on control and novelty. Separated, neither moderates the other, and so our society bunkers down inside old lifestyles, telling stories to one's tribes why we are the noble Lion King, and the other is the devious Scar who should suffer the pains of stagnation.
+And now, we can see our current problems differently. Political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. Separated as we are today, the conservative-minded rely too much on inheritance and tradition while the progressive-minded too much on control and novelty. Divided, neither moderates the other, and so our society bunkers down inside old lifestyles, telling stories to one's tribes why we are the noble Lion King, and the other is the devious Scar who should suffer the pains of self-inflicted wound of stagnation.
 
 Building things together is what restores respect. For now, echo chambers are fraudulent harbours that trick people into indulging in their own loves while suffering the endless storms of the environment.
 
-Rising inflation, growing cost of living, increasing home prices, higher insurance premiums, larger debts. These aren't proof of someone else's ideological failure, but a lack of evolution in the Game of Life. After learning of the Allied generals, the re-learning of combined arms warfare, the creation of computer processors, and the dead-end of extremism, we know what we can do about it.
+Rising inflation, growing cost of living, increasing home prices, higher insurance premiums, larger debts. These aren't proof of someone else's ideological failure, but a lack of evolution in the Game of Life. We're throwing waves of trucks, highways, food, planes, at entropy. Our problem is not lack of technology. Rather, we're not asking how regular people can collaborate faster to select the tools they need to solve leaking windows, expensive textbooks, car crash claims, faster.
+
+After learning of the Allied generals, the re-learning of combined arms warfare, the creation of computer processors, and the dead-end of extremism, we know what we can do about it.
 
 We are in a new environment. No one has ever grown an ecosystem using digital technology. Fitting to any organism, we are figuring out what works, but not with study and foresight, but with pain. We are the raccoon. We are Maria. We have a stutter. But these are states of mind to reflect and act on and need not be something to suffer.
 
@@ -1298,10 +1316,7 @@ Maria was never powerless. Biology adapts by producing millions of variants and 
 
 How did we spread around the world, and how did we develop tools? We planted and spread tool-species inside ecosystems of course. And that required, and still requires, four modes of understanding: nature, mythologies, stories, and science. Let's look at these stories so we can realize why techvolution is the scientific understanding of the human condition.
 
-- Nature doesn't give out name-tags or ingredients lists. We experience nature with tools, from eyes and ear, telescopes to spectrographs, to know what's inside. We observe, test, and then classify items based on the effect it has on its surroundings. 
-- that were are the noble Lion King, and the other is the devious Scar.
-
-## Chapter 12—Vignettes 
+## Chapter 15—Vignettes 
 
 ### Opening
 
@@ -1701,6 +1716,10 @@ Hide. Dark will come. Go to reeds. Family goes to reeds. Waits. Hide. Keep away 
 
 Honk is heard. My flock close. I say danger in deep water.
 
+### Badger - Growing Up
+
+<!-- Insert story of youth being born, learning it all for the first time... -->
+
 ### Mammoths
 
 I am walking on grass. I am walking on path. I am Matriarch. My family follows.
@@ -1953,7 +1972,9 @@ Why must I share. Why must I share!
 
 "You are not the most needed."
 
-I understand.
+I understand. 
+
+<!-- insert laughter, a companion of crying to biologically cope with the realization. -->
 
 We keep moving. Up the valley. Some water. Some green. More water. More green. Trees. Fruit. Tall grass. Short grass. Many trees. We find fruit. River. Deer. We smile to each other. It was good to move away from Deer-Star.
 
@@ -3761,7 +3782,7 @@ One more.
 
 "Hello, I'd like to report a claim. One of my cows slipped on ice and hurt herself."
 
-## Chapter 13-Epilogue
+## Chapter 16-Epilogue
 
 ### Epilogue
 
