@@ -5347,4 +5347,35 @@ Let's compare the two. If the Allies wanted to attack a town, they would assembl
 
 As the battle went on, units reported the situation to their captains, then majors, then colonels, eventually the frontline situation got to the HQ, who would update their maps, deliberate, and issue new orders. This took at least hours, but more often days.
 
+===
+
+Ecosystems do not have group think. Forests, flocks, herds, or packs, there is no telepathic link. Communication exists of course, and genes, kin, groups have selection importance too, but for any evolutionary change, it is one person at a time.
+
+Individuals as the unit of selection means there's always small iterative steps towars the next new species or the next extinct ones. Not all polar bears are solving the melting arctic problem the same way. Depending on their geography, some polar bears will be more acquatic hunters, some will find nesting birds, others hunting reindeer, many relatively unchanged, and others dead. These are the ever changing branches on the tree of biological life.
+
+Small iterative branches going any which way the egological niches take them is why Allied interwar generals, Soviet bureaucrats, and other echo chambers, can be so individually rational, and yet so collectively doomed. Unlike polar bears, we can so easily jump between the branches of the technological tree of life, yet we so often do not to our peril. This is why we need a new technological identity. Otherwise we can think our current healthy branch will always have pack ice to hunt. Making us seeds in the wind, hoping to land in fertile soil.
+
+The stagnation of Allied armies was the involvement of millions of people. Each who thought doing wave tactics slightly better than a human enemy after four years of horror is an achievement. Entropy is our enemy. Organizing lifeforms to solve whatever problem, be they a flooded valley, enemy invasion, car crash, faster, cheaper, sooner, closer is always our goal. We must adapt to whatever is out there in the Game of Life, not just what we see from our bunkers. Those who can communicate faster to bring all the resources needed to solve problems win wars.
+
+Allied interwar generals weren't an isolated problem. At the same time for example, Americans were going to Los Angeles to start Hollywood moviemaking because East Coast companies were to bothersome to deal with. Same goes for transistor. It was invented in New Jersey, but it was California who saw the benefit.
+
+The centralization of selection limited tool learning. It create an imagined environment. Where human orders gradually replace natural ones, tricking everyone inside they are safe. Making learning the truth ever so hard. Soviet spy chief and dictator Andropov said in early 1980s "we don't know the society in which we live". Andropov realized the deep economic stagnation, hidden social decay, and systemic corruption. Decades of dogmatic propaganda, falsified statistics, and rigid Marxist-Leninist rhetoric had blinded the government to the actual social, economic, and human realities of the USSR.
+
+And no body benefits in the end when humanity plays into this imaginations.
+
+A new identity will not stop this from happening. We will always need groups of people split into hierachies. We will always lose the plot a little. A new identity reminds us much faster what the plot is. To think like a baby, learning the environment's problems and opportunities, tools and choices. 
+
+===
+
+Centralizing selection replaces the environment with an account of the environment. In the early 1980s Yuri Andropov, who had run the KGB before running the country, admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its own economy and its own people. The man with the best intelligence apparatus on earth could not see the country he governed.
+
+This is not a Soviet problem. It is what happens whenever the distance between a decision and its consequences gets long enough. Kings had palaces. Generals had bunkers. Every one of them was told the world was as they believed it to be, and every one of them found out otherwise. You are about to meet several.
+
+A new identity won't stop palaces from being built. Hierarchies are unavoidable and every one of them will drift from what it governs. What changes is the floor underneath.
+
+Because you will always know when anyone is testing another, it's okay and best, to reach for the tool. If you know your own tools and your enviroment you hold a reading that no story can overwrite. Like with General Monash or Vanneaver Bush we expect anyone leading us to also know the tools of the day. It's not that different from expecting a civil engineer to stress-test a roof he's designing for you, or asking your doctor if a presciption he's recommending has past a clinical trial. By investigating the environment we ensure enough sunlight gets through the cracks of whatever bunkers and palaces we build.
+
+===
+
+
 

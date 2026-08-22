@@ -1270,42 +1270,53 @@ Look at who is needed to successful create a new tool. The pipeline includes the
 
 The fight between all these perspectives never ends, and shouldn't. How much public investment is needed, who captures the profit, who carries the risk—that argument is real. But it's a quarrel at the edges like plant life fighting for sunshine or predators for the best hunting grounds. No player should ever envision a place without such competition. From times immemorial, boardmates depend on what other creatures contribute inside the ecosystem they all share. Moderation meant a constant energy flow throughout the ecosystem.
 
-Remember water is never used up, but borrowed by each organism needing it to build something useful. A rising tide raises all ships. Thus, strangers or friends, enemies or allies, all their fates are intertwined regardless of what anyone thinks. The extremes failed by stopping the flow of energy by telling half they were special and the others they weren't needed.
+Remember water is never used up, but borrowed by each organism needing it to build something useful. Everynone benefits in the ecosystem because a rising tide of adaptations raises all their chances of survival. Thus, strangers or friends, enemies or allies, all their fates are intertwined regardless of what anyone thinks. The extremes failed by stopping the flow of energy by telling half they were special and the others they weren't needed.
 
 But something is still missing. If the tool creation pipeline needs all perspectives, somebody still has to decide which tools get built and which get abandoned.
 
-So who decides? It can't be an ideology as they can't pick winners or assign roles. It must be someone who is well practiced in selecting the players of the wonderfully moderate ecosystem.
+So who decides? It can't be an ideology as they can't pick winners or assign roles. It is someone who is well practiced in selecting the players of the wonderfully moderate ecosystem.
 
 ## Chapter 14—Meeting the Coach
 
-Gravity has a field. Electromagnetism has a field. These are physical forms. Nature doesn't give us an incredient list, but we've test and prodded these areas enough to name their features and understand their actions pretty darn well.
+Gravity has a field. Electromagnetism has a field. These are physical forms. Nature doesn't give us an ingredient list, but we've tested and prodded these areas enough to name their features and understand their actions pretty darn well.
 
-Evolution has no field. Life pushes itself forward using regular matter, but free from any outside motivation but the will to life and procreate. Procreation makes copies of life, but with small differences and the environment made up the laws of physics, chemistry, and geology keeps whichever lifeforms happen to work best. One's variation is chance. What happens next is not—evolution is as reliable as anything in physics, and it has never once taken a day off.
+Evolution has no field. Life pushes itself forward free from any outside motivation but the will to live. Life's procreation makes copies with small differences. Whichever lifeforms happen to work best in the environment procreate more often. That is evolution, and it's as reliable as anything in physics, and it has never once taken a day off.
 
 But there is no one deciding this happens.
 
-Rather it is the individuals who is selected. Alone. That has always been the only mechanism, and it's the one this book is about seeing clearly. As renowned biologist Ernst Mayr says "individual life forms are the unit of selection."
+Rather it is the individual who is selected. Alone. That has always been the only mechanism, and it's the one this book is about seeing clearly. As renowned biologist Ernst Mayr says "individual life forms are the unit of selection."
 
-Ecosystems do not have group think. There is no telepathic link between forests, flocks, herds, or packs. Communication exists of course, and there are some biologists who say genes, kin, groups have selection priority, for any evolutionary changed are one person at a time. Small iterative changes means 
+Evolution selecting individuals means all changes come in small iterative steps. Not all polar bears are solving the melting Arctic the same way. Depending on geography, some become more aquatic hunters, some find nesting birds, others chase reindeer, many stay unchanged, and some die. The branches of the tree of life are growing in whatever direction the local niche allows.
 
+Species do not have group think. Forests, flocks, herds, or packs, there is no telepathic link. Communication exists of course, and genes, kin, groups have selection importance too, but for any evolutionary change, it is one person at a time.
 
+So, an individual polar bear, squirrel, raccoon are the unit of evolution's advancement. Species, herds, packs, companies, armies, ecosystems are just a collection of individuals. No one serves another. Each needs water, warmth, and calories. The squirrel doesn't serve her ecosystem—she serves herself and her kids the same way the oak tree does. Individuals can try to be extreme on the gameboard but everyone's actions are judged against their ecosystem's ability to build faster than entropy tears it down.
 
+Players don't need to realize all this of course. If a tree's nuts are not nutritious, it will be outplanted by the ones who are. In nature, if a lifeform doesn't play the game, the coach finds someone who does.
 
-The stagnation of Allied armies was the involvement of millions of people.
+While animals don't need to realize this, we do.
 
-They are full of individuals, big and small, old and young, rich and poor, weird and timeless. We have so many different kinds of lifeforms because there are so many niches to fill inside a healthy ecosystem.
+Because we have choice, we can practice artificial selection. We can be raccoons—taking from an ecosystem and giving nothing back while using ideology to pretend otherwise, and that is a self-defeating place to be.
 
-So, an individual polar bear, squirrel, raccoon are the unit of evolution's advancement. Species, herds, packs, companies, armies, ecosystems are just a collection of individuals. The squirrel doesn't serve her ecosystem—she serves herself and her kids the same way the oak tree does. Individuals can try to be extreme on the gameboard but everyone's actions are judged against their ecosystem's ability build faster than entropy tears it down.
+In the early 1980s Yuri Andropov, who had run the Soviet KGB before running the country, admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its own economy and people. The man with the best intelligence apparatus on earth did not understand the country he governed.
 
-Players don't need to realize all this of course. If a tree's nuts are not nutrious, it will be out planted by the ones who are. In nature, if a lifeform doesn't play the game, the coach finds someone who does. 
+As we've seen, this is not a Soviet problem. It's a human one, that happens whenever the distance between selecting and its consequences gets long enough. Generals had bunkers and battle plans ensuring victory, the same way Soviet leaders were planning an entire economy, the same way kings had grand palaces and elaborate reasons they were born to rule. Every one of them was told the world was as they believed it to be, and every one of them found out otherwise. 
 
-We do need to realize all this.
+A new identity won't stop human hubris. Hierarchies are unavoidable and every one of them will drift from what it governs. What changes is the floor underneath.
 
-Because we have choice, we can practice artificial selection. We can be squirrels or raccoons—taking from an ecosystem and giving nothing back, while using ideology pretend otherwise.
+With a new identity you will always know that when anyone is testing another, it's okay and best, to reach for the tool. You expect a civil engineer to stress-test a roof he's designing for you. You can ask your doctor if a prescription he's recommending has passed a clinical trial. You should ask your claims adjuster what the insurance policy actually says you are owed.
+
+A new identity unites these good ideas into a single awareness. Playing the Game of Technological Life, in all our fields. Because by investigating the environment we ensure enough sunlight gets through the cracks of whatever bunkers and palaces we build. 
+
+The individual who doesn't coach is selected. The individual who coaches, selects.
+
+Doing otherwise lets our stories meant to inform us, to deceive us and stay on a doomed branch of life. Allied interwar generals, Soviet bureaucrats, and every other echo chamber were individually rational and collectively doomed. Every officer was making sensible decisions inside his branch. Nobody was stupid. The branch itself was dying, and no single decision could see it or fight it. Unlike polar bears, we can jump between branches of the technological tree—but we can also stay on one well past its lifespan.
+
+A new identity makes extremism a dead end. Instead of hearing Maria worry about her health insurance and hearing she might be a socialist, or if her job is going to be offshored and hearing fascist, we take the time to see what is working behind the scene of our storytelling identities.
 
 But before we can become the new modern squirrel to better assess our tool options (mixed ideological politics) and plant trees by default (bumble bee economics) we must change our mindset. A new identity is being a self-aware selector inside a technological ecosystem. 
 
-A new identity is realizing with every choice you make, you are the coach in the Game of Life. The game humanity plays is up to your daily actions. Natural selection is just a consequence of which organism can best harvest resources and procreate. The coach never stopped judging. What changes is that you can now coaching yourself and help those around you.
+A new identity is realizing with every choice you make, you are the coach in the Game of Life. The game humanity plays is up to your daily actions. Natural selection is just a consequence of which organism can best harvest resources and procreate. The coach never stopped judging. What changes is that you can now coach yourself and help those around you.
 
 Like World War II and the history of computer technology demonstrate very well, the individuals who do this best will assess their current surroundings, be moderate, empower individuals, and thereby populate the Internet Age.
 
@@ -1317,13 +1328,13 @@ These are the actions that fight entropy and bring prosperity. Not doing them is
 
 Nature doesn't hand out name-tags. We don't know a tiger by its thoughts or its dreams, but by its stripes, its niche, and what it does to everything around it. Nature can't read our name-tags either. Only actions register, and nearly all of ours run through tools you graze, hunt, scavenge, and decompose with. We see Matthew, Sarah, Apple, Google. Nature sees pilot, mechanic, truck driver, welder, scrapper, miner—all of them burning energy to keep something assembled. That is the new identity in life's war against entropy.
 
-And now, we can see our current problems differently. Political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. Separated as we are today, the conservative-minded rely too much on inheritance and tradition while the progressive-minded too much on control and novelty. Divided, neither moderates the other, and so our society bunkers down inside old lifestyles, telling stories to one's tribes why we are the noble Lion King, and the other is the devious Scar who should suffer the pains of self-inflicted wound of stagnation.
+A new identity sees our current problems differently. Political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. Separated as we are today, the conservative-minded rely too much on inheritance and tradition while the progressive-minded too much on control and novelty. Divided, neither moderates the other, and so our society bunkers down inside old lifestyles, telling stories to one's tribes why we are the noble Lion King, and the other is the devious Scar who should suffer the pains of self-inflicted wounds of stagnation.
 
 Building things together is what restores respect. For now, echo chambers are fraudulent harbours that trick people into indulging in their own loves while suffering the endless storms of the environment.
 
-Rising inflation, growing cost of living, increasing home prices, higher insurance premiums, larger debts. These aren't proof of someone else's ideological failure, but a lack of evolution in the Game of Life. We're throwing waves of trucks, highways, food, planes, at entropy. Our problem is not lack of technology. Rather, we're not asking how regular people can collaborate faster to select the tools they need to solve leaking windows, expensive textbooks, car crash claims, faster.
+A new identity sees rising inflation, growing cost of living, increasing home prices, higher insurance premiums, larger debts, not as proof of someone else's ideological failure, but a lack of evolution in the Game of Life. We're throwing waves of trucks, highways, food, planes, at entropy. Our problem is not lack of technology. Rather, we're not asking how regular people can collaborate faster to select the tools they need to solve leaking windows, expensive textbooks, car crash claims, and so many signs of entropy faster with the tools we have in the ecosystem.
 
-After learning of the Allied generals, the re-learning of combined arms warfare, the creation of computer processors, and the dead-end of extremism, we know what we can do about it.
+After learning of the Allied generals, the re-learning of combined arms warfare, the creation of computer processors, and the dead-end of extremism, we know what we can do about it. Participate in a moderate ecosystem full of creation of tools that solve problems.
 
 We are in a new environment. No one has ever grown an ecosystem using digital technology. Fitting to any organism, we are figuring out what works, but not with study and foresight, but with pain. We are the raccoon. We are Maria. We have a stutter. But these are states of mind to reflect and act on and need not be something to suffer.
 
