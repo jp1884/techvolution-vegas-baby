@@ -5397,6 +5397,13 @@ So when we hear Maria say she's worried about her health insurance we don't hear
 
 Because a new identity means we seeing the tool before the person. A squirrel expects it from the tree, the flower from the bee, the polar bear from the seal. We expect it of some people too. The civil engineer to stress-test a roof. We can ask our doctor if a prescription has passed a clinical trial. You should ask a claims adjuster what the insurance policy says you're owed.
 
-
+---
 
 Both extremeist regimes ran into the same wall. When you cannot get more out of what you have, the only lever left is to get more of it. Germany needed Austrian gold, Czech factories, Ukrainian grain, and Caucasus oil because its own production could not close the gap. The Soviets seized German and Japanese factories after the war. They used those to help innovate for a time, but eventually needed use oil revenue to keep afloat a while longer. Neither was adapting; both were buying time with inputs. Adding inputs and improving tools are the two ways to raise output, and only one of them survives the Game of Life.
+
+---
+
+Nature doesn't hand out name-tags. We don't actually know what an iron atom calls itself. We also don't know a tiger by its thoughts. Instead we observe the effectual truth of nature. Thus we know iron has 26 protons and melts at 1,538 C. We know a tiger but by its stripes, its niche, and what it does to everything around it.
+
+Nature can't read our name-tags either. Only actions register, and nearly all of ours run through tools we graze, hunt, scavenge, and decompose with. We see Matthew, Sarah, Apple, Google. Nature sees pilot, bureaucrat, mechanic, welder, general, scrapper, miner—all of them burning energy to keep something assembled.
+
