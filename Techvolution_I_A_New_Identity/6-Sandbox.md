@@ -5377,5 +5377,26 @@ Because you will always know when anyone is testing another, it's okay and best,
 
 ===
 
+A new identity won't stop misconceptions, mistakes, or hubris. Human groups need hierarchies and beliefs and they will always drift around with human error. What we change is the floor underneath our feet to help us sort, see, and remove human error faster.
+
+A new identity does this by placing everyone inside an ecosystem of tools. Like we understand predators, grazers, scavengers on the biological gameboard, so we can understand ourselves and each other, because we'll see the gameboard and options before each of us as an overlay against whatever stories we tell.
+
+A new identity makes extremism is a known dead end. Maria says she's worried about her health insurance and we hear a socialist. She says cheap imports are closing her plant and we hear a fascist. Both times she was talking about her tools and ecosystem, if we take the time to see what is working behind the scene of our storytelling identities.
+
+A new identity means we see the tool before the person. A squirrel expects it from the tree, the flower from the bee, the polar bear from the seal. We expect a civil engineer to stress-test a roof. We can ask our doctor if a prescription has passed a clinical trial. You should ask a claims adjuster what the insurance policy says you're owed.
+
+A new identity unites these ideas into a single awareness that everyone is playing the Game of Technological Life regardless of beliefs we have. Knowingly playing the game means investigating the environment and ensuring more sunlight gets through the cracks of whatever bunkers and palaces we build.
+
+Ultimately, a new identity means knowing the individual who doesn't coach is asking to be selected, while know the individual who coaches, selects.
+
+Doing otherwise lets our stories meant to inform us, to deceive us and stay on a doomed branch of life. Allied interwar generals, Soviet bureaucrats, and every other echo chamber where individuals acted rationally but were still collectively doomed. A series of sensible decisions can result in extinction. Nobody was stupid, yet nobody noticed the branch each was holding onto was dying. A new identity means recognixing we are not polar bears. We can drop old adaptations for new ones, and thereby jump between branches of the technological tree.
 
 
+So when we hear Maria say she's worried about her health insurance we don't hear she's a socialist. If she says cheap imports are closing her plant we don't hear she's a fascist. We will investigate what is happending behind the scenes of our storytelling identities.
+
+
+Because a new identity means we seeing the tool before the person. A squirrel expects it from the tree, the flower from the bee, the polar bear from the seal. We expect it of some people too. The civil engineer to stress-test a roof. We can ask our doctor if a prescription has passed a clinical trial. You should ask a claims adjuster what the insurance policy says you're owed.
+
+
+
+Both extremeist regimes ran into the same wall. When you cannot get more out of what you have, the only lever left is to get more of it. Germany needed Austrian gold, Czech factories, Ukrainian grain, and Caucasus oil because its own production could not close the gap. The Soviets seized German and Japanese factories after the war. They used those to help innovate for a time, but eventually needed use oil revenue to keep afloat a while longer. Neither was adapting; both were buying time with inputs. Adding inputs and improving tools are the two ways to raise output, and only one of them survives the Game of Life.

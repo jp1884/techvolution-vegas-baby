@@ -1278,69 +1278,67 @@ So who decides? It can't be an ideology as they can't pick winners or assign rol
 
 ## Chapter 14—Meeting the Coach
 
-Gravity has a field. Electromagnetism has a field. These are physical forms. Nature doesn't give us an ingredient list, but we've tested and prodded these areas enough to name their features and understand their actions pretty darn well.
+Gravity has a field. Electromagnetism has a field. These are physical forms. Nature doesn't give us an ingredient list, but we've tested and prodded these areas enough to name their features and understand their actions very well.
 
-Evolution has no field. Life pushes itself forward free from any outside motivation but the will to live. Life's procreation makes copies with small differences. Whichever lifeforms happen to work best in the environment procreate more often. That is evolution, and it's as reliable as anything in physics, and it has never once taken a day off.
+Evolution has no field. Life has no outside control but the will to live. Life pushes itself forward by making unique copies of itself. Whichever lifeforms happen to work best in the environment procreate more often. 
 
-But there is no one deciding this happens.
+Thus, evolution selects individuals. Alone. That has always been the only mechanism, and it's the one this book is about seeing clearly. As renowned biologist Ernst Mayr says "individual life forms are the unit of selection."
 
-Rather it is the individual who is selected. Alone. That has always been the only mechanism, and it's the one this book is about seeing clearly. As renowned biologist Ernst Mayr says "individual life forms are the unit of selection."
+Rome was not built in a day and dinosaurs weren't born in a million. All of life's extravagance has come in small iterative steps. Although slow, evolution is a universal, unstoppable force of nature. We can see it today selecting some individuals over others.
 
-Evolution selecting individuals means all changes come in small iterative steps. Not all polar bears are solving the melting Arctic the same way. Depending on geography, some become more aquatic hunters, some find nesting birds, others chase reindeer, many stay unchanged, and some die. The branches of the tree of life are growing in whatever direction the local niche allows.
+Just look at polar bears encountering a melting Arctic. Depending on geography, some become more aquatic hunters, some find nesting birds, others hunt reindeer, many stay unchanged, and some are selected to die.
 
-Species do not have group think. Forests, flocks, herds, or packs, there is no telepathic link. Communication exists of course, and genes, kin, groups have selection importance too, but for any evolutionary change, it is one person at a time.
+These are only a few examples of the branches of the tree of life growing in whatever direction the local niche allows.
 
-So, an individual polar bear, squirrel, raccoon are the unit of evolution's advancement. Species, herds, packs, companies, armies, ecosystems are just a collection of individuals. No one serves another. Each needs water, warmth, and calories. The squirrel doesn't serve her ecosystem—she serves herself and her kids the same way the oak tree does. Individuals can try to be extreme on the gameboard but everyone's actions are judged against their ecosystem's ability to build faster than entropy tears it down.
+The point is that families, flocks, species, ecosystems share much in common, but each individual is what pushes life forward. There is no group think, because there is no shared selection. Communication exists of course, and genes, kin, groups have selection importance too, but for any evolutionary change, it is one person at a time.
+
+Whoever can find a niche as a scavenger, grazer, predator or other ecosystem role is selected. But the squirrel doesn't serve her ecosystem—she serves herself and her kids, the same way the oak tree does. There is cooperation by default not by intent.
 
 Players don't need to realize all this of course. If a tree's nuts are not nutritious, it will be outplanted by the ones who are. In nature, if a lifeform doesn't play the game, the coach finds someone who does.
 
-While animals don't need to realize this, we do.
+We do need to realize this.
 
-Because we have choice, we can practice artificial selection. We can be raccoons—taking from an ecosystem and giving nothing back while using ideology to pretend otherwise, and that is a self-defeating place to be.
+Because we have choice, we can practice artificial selection. We can be raccoons—taking from an ecosystem and giving little back while using ideology to think the coach won't be knocking on our door. This is a self-defeating and all too easy place for us to be.
 
-In the early 1980s Yuri Andropov, who had run the Soviet KGB before running the country, admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its own economy and people. The man with the best intelligence apparatus on earth did not understand the country he governed.
+In the early 1980s Yuri Andropov, who had run the all-powerful Soviet spy agency KGB before running the country, admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its own economy and people. The man with the world's best intelligence apparatus did not understand why his country was falling to entropy at the food markets, coal mines, and power stations because of a human belief system.
 
-As we've seen, this is not a Soviet problem. It's a human one, that happens whenever the distance between selecting and its consequences gets long enough. Generals had bunkers and battle plans ensuring victory, the same way Soviet leaders were planning an entire economy, the same way kings had grand palaces and elaborate reasons they were born to rule. Every one of them was told the world was as they believed it to be, and every one of them found out otherwise. 
+As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a human one, that happens whenever the distance between selecting tools and its consequences gets too far apart. Allied generals had bunkers and battle plans ensuring victory, the same way Soviet leaders were planning an entire economy, the same way kings had grand palaces and spiritual reasons why they were born to rule. Every individual inside acted rationally but all were still collectively doomed because their beliefs masked reality. 
 
-A new identity won't stop human hubris. Hierarchies are unavoidable and every one of them will drift from what it governs. What changes is the floor underneath.
+A new identity won't stop misconceptions, mistakes, or hubris. Human groups need hierarchies and beliefs and they will always drift around with human error. What we change is the floor underneath our feet to help us sort, see, and remove human error faster.
 
-With a new identity you will always know that when anyone is testing another, it's okay and best, to reach for the tool. You expect a civil engineer to stress-test a roof he's designing for you. You can ask your doctor if a prescription he's recommending has passed a clinical trial. You should ask your claims adjuster what the insurance policy actually says you are owed.
+Faster because we'll see everyone inside an ecosystem of tools. Like we understand predators, grazers, scavengers on the biological gameboard, so we can understand ourselves and each other, because we'll see the gameboard and options before each of us as an overlay against whatever stories we tell. Knowingly playing the game means constantly testing the environment to get more sunlight through the cracks of whatever bunkers and palaces we build.
 
-A new identity unites these good ideas into a single awareness. Playing the Game of Technological Life, in all our fields. Because by investigating the environment we ensure enough sunlight gets through the cracks of whatever bunkers and palaces we build. 
+But before we can become the new modern squirrel to better assess our tool options (mixed ideological politics) and plant trees by default (bumble bee economics) we must change our mindset. 
 
-The individual who doesn't coach is selected. The individual who coaches, selects.
+A new identity is being a self-aware selector inside a technological ecosystem. Realizing with every choice you make, you are the coach in the Game of Life. The individual who doesn't coach is selected. The one who coaches, selects.
 
-Doing otherwise lets our stories meant to inform us, to deceive us and stay on a doomed branch of life. Allied interwar generals, Soviet bureaucrats, and every other echo chamber were individually rational and collectively doomed. Every officer was making sensible decisions inside his branch. Nobody was stupid. The branch itself was dying, and no single decision could see it or fight it. Unlike polar bears, we can jump between branches of the technological tree—but we can also stay on one well past its lifespan.
+That means the game humanity plays is up to your daily actions. Natural selection is just a consequence of which organism can best harvest resources and procreate. The coach never stops judging. What changes is that you can now coach yourself and better help those around you, which you want because you understand they plant your food, build your house, feed your kids, and operate the technological ecosystem you depend on.
 
-A new identity makes extremism a dead end. Instead of hearing Maria worry about her health insurance and hearing she might be a socialist, or if her job is going to be offshored and hearing fascist, we take the time to see what is working behind the scene of our storytelling identities.
-
-But before we can become the new modern squirrel to better assess our tool options (mixed ideological politics) and plant trees by default (bumble bee economics) we must change our mindset. A new identity is being a self-aware selector inside a technological ecosystem. 
-
-A new identity is realizing with every choice you make, you are the coach in the Game of Life. The game humanity plays is up to your daily actions. Natural selection is just a consequence of which organism can best harvest resources and procreate. The coach never stopped judging. What changes is that you can now coach yourself and help those around you.
-
-Like World War II and the history of computer technology demonstrate very well, the individuals who do this best will assess their current surroundings, be moderate, empower individuals, and thereby populate the Internet Age.
-
-A new identity isn't about what to do. It's about removing the mental roadblock in the way of what we naturally do, being more individually responsive to current problems, and letting evolution take it from there. Agreeing with the group won't address environmental problems. Watching TV won't change entropy's attacks. Believing in an ideology won't assemble matter into useful configurations.
-
-Choosing to compost your daily banana keeps matter alive and useful. Opting for the stairs trains your cardio to help insulate against entropy's attacks. Repairing an old appliance saves much material and energy. Calling an old friend rekindles a fading friendship. Weighing what streaming gained users against what it took—speed and cost at the expense of community, anticipation, and ownership—is how you learn where you sit in the ecosystem.
+Choosing to compost your daily banana keeps matter alive and useful. Opting for the stairs trains your cardio to help insulate against entropy's attacks. Repairing an old appliance saves much material and energy. Calling an old friend rekindles a fading friendship. Weighing what streaming gained users against what it took is how you learn what options you have when your tree branch is dying.
 
 These are the actions that fight entropy and bring prosperity. Not doing them is what loses it. They are not complicated any more than planting a nut is. They are just helpful and constantly done by the units of selection.
 
-Nature doesn't hand out name-tags. We don't know a tiger by its thoughts or its dreams, but by its stripes, its niche, and what it does to everything around it. Nature can't read our name-tags either. Only actions register, and nearly all of ours run through tools you graze, hunt, scavenge, and decompose with. We see Matthew, Sarah, Apple, Google. Nature sees pilot, mechanic, truck driver, welder, scrapper, miner—all of them burning energy to keep something assembled. That is the new identity in life's war against entropy.
+Nature doesn't hand out name-tags. We don't know a tiger by its thoughts or its dreams, but by its stripes, its niche, and what it does to everything around it. Nature can't read our name-tags either. Only actions register, and nearly all of ours run through tools we graze, hunt, scavenge, and decompose with. We see Matthew, Sarah, Apple, Google. Nature sees pilot, mechanic, truck driver, welder, scrapper, miner—all of them burning energy to keep something assembled. A new identity sees life's eternal war against entropy. 
 
-A new identity sees our current problems differently. Political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. Separated as we are today, the conservative-minded rely too much on inheritance and tradition while the progressive-minded too much on control and novelty. Divided, neither moderates the other, and so our society bunkers down inside old lifestyles, telling stories to one's tribes why we are the noble Lion King, and the other is the devious Scar who should suffer the pains of self-inflicted wounds of stagnation.
+A new identity sees our current problems differently. Political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. We hear Maria say she's worried about her health insurance and ask if she's a socialist. If she says cheap imports are closing her plant we might hear she's a fascist. Instead, we should investigate what is happening behind the scenes of our storytelling identities.
 
-Building things together is what restores respect. For now, echo chambers are fraudulent harbours that trick people into indulging in their own loves while suffering the endless storms of the environment.
+What's happening is echo chambers are fraudulent harbors that trick people into indulging in their extremes while suffering the endless storms of the environment. The conservative-minded rely too much on inheritance and tradition while the progressive-minded too much on control and novelty. Divided, neither moderates the other, and so our society bunkers down inside old lifestyles, telling stories to one's tribes why we are the noble Lion King, and the other is the devious socialist or fascist Scar who should suffer the pains of self-inflicted wounds of stagnation.
 
-A new identity sees rising inflation, growing cost of living, increasing home prices, higher insurance premiums, larger debts, not as proof of someone else's ideological failure, but a lack of evolution in the Game of Life. We're throwing waves of trucks, highways, food, planes, at entropy. Our problem is not lack of technology. Rather, we're not asking how regular people can collaborate faster to select the tools they need to solve leaking windows, expensive textbooks, car crash claims, and so many signs of entropy faster with the tools we have in the ecosystem.
+A new identity sees rising inflation, growing cost of living, increasing home prices, higher insurance premiums, and larger debts not as proof of someone else's ideological failure, but as a lack of evolution in the Game of Life. The war and the decades after it built the platform we still stand on. Our highways, grid, water systems, housing stock, and the research pipeline that produced radar, antibiotics, jet engines, and the transistor. Most of it is now past the lifespan it was designed for. Its continual death is what I've handled thousands of insurance claims for.
 
-After learning of the Allied generals, the re-learning of combined arms warfare, the creation of computer processors, and the dead-end of extremism, we know what we can do about it. Participate in a moderate ecosystem full of creation of tools that solve problems.
+Bunkered inside our old identities, we haven't noticed. Instead we throw more waves at entropy. Trying to make the same things cheaper, as though more efficient mass production were the whole answer. More trucks on the same struggling highways. More planes into the same airport system. The same claims systems put in when mail and call-centers were new. We're like an army repeating a tactic that stopped working long ago.
+
+Our problem is not lack of technology. We have all the seeds, plants, creatures of the forest, reef, woodland, and so on. We just don't know where to put them. We can find out by becoming the coach and selecting what actually works where we are. Like in combined arms warfare, we can empower regular people to collaborate faster and select the tools they need to solve leaking windows, expensive textbooks, car crash claims, and so many attacks of entropy.
+
+After learning of the Allied generals, the re-learning of combined arms warfare, the creation of computer processors, and the dead-end of extremism, we know what we can do about it. Participate in an ecosystem that keeps making tools that solve real problems. Building things together is what restores respect via the co-dependency of living inside the same ecosystem. 
 
 We are in a new environment. No one has ever grown an ecosystem using digital technology. Fitting to any organism, we are figuring out what works, but not with study and foresight, but with pain. We are the raccoon. We are Maria. We have a stutter. But these are states of mind to reflect and act on and need not be something to suffer.
 
 Entropy doesn't decide whether life prospers. Life decides by doing the work of organizing matter, harvesting energy to maintain it, and shedding what no longer fits. Whether your lineage continues depends on whether you do the work.
 
-Maria was never powerless. Biology adapts by producing millions of variants and letting most of them die. We don't have to. We can change tools inside a single lifetime. Which means we can do in a decade what selection needs thousands of years and countless deaths to accomplish. There is always room for everyone who finds a way to contribute to life's fight against entropy.
+Maria was never powerless. Every DVD she sold put another screen and another habit into another home. She was spreading the technology that would become the very popular television streaming. Nothing stopped her from investing and owning a piece of the very valuable technology she was planting. She just didn't know that spreading technology is no different from spreading seeds.
+
+Biology adapts by producing millions of variants and letting most of them die. We don't have to. We can change tools inside a single lifetime. Which means we can do in a decade what selection needs thousands of years and countless deaths to accomplish. There is always room for everyone who finds a way to contribute to life's fight against entropy.
 
 How did we spread around the world, and how did we develop tools? We planted and spread tool-species inside ecosystems of course. And that required, and still requires, four modes of understanding: nature, mythologies, stories, and science. Let's look at these stories so we can realize why techvolution is the scientific understanding of the human condition.
 
