@@ -5407,3 +5407,12 @@ Nature doesn't hand out name-tags. We don't actually know what an iron atom call
 
 Nature can't read our name-tags either. Only actions register, and nearly all of ours run through tools we graze, hunt, scavenge, and decompose with. We see Matthew, Sarah, Apple, Google. Nature sees pilot, bureaucrat, mechanic, welder, general, scrapper, miner—all of them burning energy to keep something assembled.
 
+===
+
+- we don't know who was the first to do most everything important. light a fire, climb a mountain, herd animals, build a boat. like evolution all these were incremental with not real originals. The point being we're all in this together. Of course we fight and will always fight between ourselves, but no one's rowing this life boat alone.
+
+- vignettes, input youth learning walking, cleaning, flying, as adaptations grow in. kids doing the same, along side tools. but that stops for some, who it really shouldn't.
+
+- long lasting creatures don't base their standard of living off the good times.
+
+===
