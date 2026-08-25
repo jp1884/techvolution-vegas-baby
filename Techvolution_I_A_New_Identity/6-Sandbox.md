@@ -5416,3 +5416,7 @@ Nature can't read our name-tags either. Only actions register, and nearly all of
 - long lasting creatures don't base their standard of living off the good times.
 
 ===
+
+This is because of something we learned earlier when noting the Milgram experiment. This was the test where participants shocked a "learner" for failing to remember some words, when the pencils that would have helped the troubled man remember better were within arms reach. With power spread across so many centers, someone in the West could find a way to pick up, give, or make a needed tool. Thus, the ethical could help the needy, dreamers could open a business, risk-takers could challenge a boss, regulators could insist on safety upgrades, academics found somewhere to research, and customers were free to buy what they needed.
+
+===
