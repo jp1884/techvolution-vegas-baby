@@ -55,7 +55,7 @@ A biologist would see the problem easily. When an ecosystem stops working—too 
 
 And we have not been ignoring it. We have been drowning in proposed answers—every day another ocean of speeches, articles, and posts promising the fix. We've listened, and our frustration has curdled into a growing hatred of our own countrymen. Decades of voting in new leaders, switching parties, and wishing for more bipartisanship have added up to failure—not because we tried too little, but because we were aiming at the wrong target.
 
-This book won't tell you how to start building a better world on Monday morning. Others like _Rework_ or _Build_ already do that better. This book aims at something underneath: a way of seeing that makes the fights over identity, politics, and economics finally lose their grip on you.
+This book won't tell you how to start building a better world on Monday morning. Others like _Rework_ or _Build_ already do that better. This book aims at something underneath: a way of seeing that makes the fights over identity, politics, and economics finally start to lose their grip on you.
 
 Because our fights are mostly about clinging to the aging toolset we know, and shifting the burden of that aging onto somebody else. The good news is life has faced this struggle many times before. The game plan is old and proven. Evolve new species, better suited to the new environment.
 
