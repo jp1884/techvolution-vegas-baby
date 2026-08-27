@@ -73,7 +73,7 @@ Some of these tools are biological, like speaking or jogging, but with the explo
 
 Yet this perspective is almost entirely absent from public discourse—a technological identity is precisely what ideologies strip away from us.
 
-For example, an ideologue seeing a hungry kid outside a pizzeria window might attribute the kid's situation to a personal failing—like being irresponsible with money—or systemic injustices—like family poverty or discrimination by the shop owner. Both perspectives are possible, but the fact that the kid might be struggling with a "verbal wheelchair" rarely occurs to people. This oversight happens not because they are unaware of disabilities, but because ideological interpretations are often our default lens when seeing problems in society.
+For example, an ideologue seeing a hungry kid outside a pizzeria window might attribute the kid's situation to a personal failing—like over-eating or being irresponsible with money—or systemic injustices—like family poverty or discrimination by the shop owner. Both perspectives are possible, but the fact that the kid might be struggling with a "verbal wheelchair" rarely occurs to people. This oversight happens not because they are unaware of disabilities, but because ideological interpretations are often our default lens when seeing problems in society.
 
 That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet, conservatism, progressivism, and other belief systems were conceived centuries ago by people seeking to solve their society's problems, primarily addressing the hunger, illiteracy, and poverty of civilization before the Industrial Revolution.
 
@@ -521,7 +521,7 @@ All this means there is no going back. So, not only is every place in the Univer
 
 This is the part Maria's world obeyed too. Surrounded by awards, titles, and mind share, the DVD business looked solid. The physics behind it showed the cracks.
 
-Like everything life makes, the DVD was an arrangement held together by constant work—pressing plants running, trucks moving, shelves restocked, stores staffed, customers visiting. Stop pouring energy into any of it and the whole thing comes apart. Streaming carried the same movie for less work. One example, Blockbuster alone had 60,000 workers with thousands of rental stores. Netflix has 30,000 workers and several data centers. Lots of work to create and maintain, but still far less than the DVD. Such is the difference between physical transport versus digital.
+Like everything life makes, the DVD was an arrangement held together by constant work—pressing plants running, trucks moving, shelves restocked, stores staffed, customers visiting. Stop pouring energy into any of it and the whole thing comes apart. Streaming carried the same movie for less work. One example, Blockbuster alone had 60,000 workers with thousands of rental stores. Netflix has about 15,000 workers and several data centers. Lots of work to create and maintain, but still far less than the DVD. Such is the difference between physical transport versus digital.
 
 The same clock runs on every arrangement we build. A coal town is a town because coal is worth digging; the school, the diner, and the hardware store are all downstream of coal's ability to energize a nation. A local newspaper was printing presses, delivery routes, and classified ads that paid for the newsroom, until the lucrative classifieds moved online and the newsroom lost what fed it.
 
@@ -563,7 +563,7 @@ Life never consumes anything. It only borrows and converts matter using energy. 
 
 It turns air and sunlight into wood. 
 
-A tree pulls carbon dioxide out of the air, uses sunlight as the energy source to break those molecules apart, and stitches the carbon atoms together into solid wood. The oxygen gets released back into the air for us to breathe, while the sun's energy gets locked inside the chemical bonds of the wood like a battery being charged. Then, when you burn that wood, you're simply running the whole process in reverse — the carbon reunites with oxygen to form carbon dioxide again, the stored solar energy is released as heat and light, and the tree essentially dissolves back into the same air it came from. A burning log is just a tree giving back its borrowed sunlight.
+A tree pulls carbon dioxide out of the air, uses sunlight as the energy source to break those molecules apart, and stitches the carbon atoms together into solid wood. The oxygen gets released back into the air for us to breathe, while the sun's energy gets locked inside the chemical bonds of the wood like a battery being charged. Then, when you burn that wood, you're simply running the whole process in reverse—the carbon reunites with oxygen to form carbon dioxide again, the stored solar energy is released as heat and light, and the tree essentially dissolves back into the same air it came from. After a lifetime contributing shelter, fruit, and seed, a burning log is just a tree giving back its borrowed sunlight.
 
 Nothing is used up, only moved and rearranged—which means every organism is quietly supplying the inputs for something else.
 
@@ -651,7 +651,7 @@ This is pivotal. We know every time and place in the universe is unique, now we 
 
 Lifeforms cannot do the matching themselves; they are already locked into their genotypes. What does the matching is evolution. Through natural selection, the genes best adapted to play the game persist—measured by how many offspring carry them forward.
 
-You can think of it as a coach who keeps whichever players score the most points—except no one is coaching. The points are just kids, and the ones who score most keep playing.
+You can think of it as a coach who keeps whichever players score the most points. The points are kids, but kids who stand a good chance of having offspring themselves. Everything else is how you afford them: every efficiency found in growing, traveling, and hunting is energy freed up to spend on the next generation.
 
 This strategy works very well against entropy. Not only has life evolved from single-cell organisms to populate the planet. It's suffered five mass extinctions and yet still repopulated the planet each time. Notably, no extinct species has ever come back—what persists is life itself, through whatever lineages the next era's gameboard happens to favor.
 
@@ -765,7 +765,13 @@ Because natural selection isn't the only way life picks genes. Other mechanisms 
 
 Co-evolution is another. Here two species become each other's environment. They appear as partners to a casual observer, but really both apply pressure the other must continually adapt to. Flowers and bees shape each other over millions of years: longer nectar tubes, longer tongues, neither intending the fit. In the short term, the result looks like partnership, in the long term it's really just two players locked on the same board, each using the other to advance itself.
 
-Epigenetics is another way to introduce new players, but with an important difference. Epigenetics is like a sophisticated control system for your genes. Imagine your DNA as a vast library, and epigenetic mechanisms are the librarians that decide which books (genes) get read and which remain closed. Genes therefore never change, but which genes get read does, sometimes by parental experiences and traumas. For example Dutch kids born in 1944-45 had increased obesity risk, higher rates of metabolic disorders, and altered insulin regulation linked to their parents' malnourishment during World War II. Epigenetics is nature's way of allowing organisms to mildly react to their environment without rewriting their entire genetic instruction manual.
+Epigenetics is another way variation shows up, but with an important difference. Epigenetics is like a sophisticated control system for your genes. Imagine your DNA as a vast library, and epigenetic mechanisms are the librarians that decide which books (genes) get read and which remain closed. Genes therefore never change, but which genes get read does—sometimes shaped by conditions before birth.
+
+For example, Dutch children who were in the womb during the 1944–45 famine went on to have higher rates of obesity, diabetes, and cardiovascular disease. And since a woman's lifetime supply of eggs forms while she is herself a fetus, those eggs starved too—the grandchildren were smaller at birth. Three generations felt the same starvation event.
+
+Whether these marks reach a generation that never felt the famine is the harder question. Plants pass epigenetic changes down freely, and some worms carry them for dozens of generations. For mammals biologists are still arguing about how and when we pass on epigenetic markers.
+
+Epigenetics is nature's way of allowing organisms to mildly react to their environment without rewriting their entire genetic instruction manual.
 
 Epigenetics is one of the mechanisms behind what we call the phenotype, these are the observable physical, biochemical, and behavioral characteristics of an organism that result from the interaction between its genotype and the environment. Two acorns growing, one in sunshine, the other in a forest shade, will grow to be two different looking trees, even if having the same genes.
 
@@ -875,7 +881,7 @@ This is most certainly being caused by humanity's use—and misuse—of technolo
 
 But, what does that mean for you?
 
-We accept that sloths are always slow, ants always serve their colony, elephants always love their families. We accept every creature has unique natures. That doesn't mean every individual lifeform is always predictable, but it does mean creatures have features, requirements, and instincts that can't be changed because these are the traits the coach needed when selecting them to take up a place on the board.
+We accept that sloths are always slow, ants always serve their colony, elephants always love their families. We accept every creature has unique natures. That doesn't mean every individual lifeform is always predictable, but it does mean creatures have features, requirements, and instincts that can't be changed because these are the traits that kept paying off when the coach was selecting lifeforms for the board.
 
 There's a record of natural selection's picks. The tree of life describes the relationships between organisms both living and extinct. It's a huge list of producers, plant-eaters, predators, scavengers, decomposers, and testers, continually removed and added as the board shifts. No one reciprocates on purpose; each just harvests what it can, and the sum keeps the ecosystem's carrying capacity full.
 
@@ -1147,7 +1153,7 @@ The biggest difference in technological evolution is there is endless artificial
 
 The last century twice demonstrated the complete failure of extreme human storytelling to control our fate. We met both attempts in the introduction: fascism and communism, each convinced it had found the engine of human success, each bound to fail at enormous cost because it was an isolated half of evolution.
 
-One belief system looked at all boardmates and saw only genotype: each person is solely defined by their bloodline, so purge the supposed dead weight of the species and promote supposed thinkers to replace them. The other saw only phenotype: remake the human condition by empowering educated decision-makers to engineer a society to make everyone a better human.
+One belief system looked at all boardmates and saw only genotype: each person is solely defined by their bloodline, so purge the dead weightand their superiors will advance civilization to untold heights. The other saw only phenotype: remake the human condition by empowering educated decision-makers to engineer a society to make everyone—not tainted by their past—a better human.
 
 Both believed they had cracked the code of human advancement. Pre-screen boardmates to create a common identity. With conflict removed, reciprocation would increase, raising the carrying capacity for everyone. Both implemented their ideas, and the world would soon find out how they worked, before evolution got a chance to judge them against natural selection.
 
@@ -1227,7 +1233,7 @@ After six years of war, the Allies and the Soviets met over the ruins of Germany
 
 After defeating the Nazis the Soviet Union moderated its extreme policies with de-Stalinization. The country's generals, leaders, and people no longer feared mass executions, imprisonment, or famines. But the country could never moderate its core belief: that properly trained persons are selfless, and therefore personal ambition is always bad.
 
-There were technological triumphs for the Soviets to celebrate. To America's great surprise, they launched Sputnik, the world's first satellite (1957), then achieved more breakthroughs with the first fusion reactors (1958) and sending probes to Venus (1966-1983). But Soviet progress stalled for the same reason a Soviet biologist could not study genetic theory. The state had to police each person's thoughts and actions, and therefore controlled the laboratories, the military, and everything else.
+There were technological triumphs for the Soviets to celebrate. To America's great surprise, they launched Sputnik, the world's first satellite (1957), then achieved more breakthroughs with the first experimental fusion reactors (1958) and sending probes to Venus (1966-1983). But Soviet progress stalled for the same reason a Soviet biologist could not study genetic theory. The state had to police each person's thoughts and actions, and therefore controlled the laboratories, the military, and everything else.
 
 When state doctrine is infused everywhere, individuals with different ideas are out of luck. As a result, Soviet society had no "people in a garage," no small businesses, no labor unions, no independent universities, no non-sanctioned ambition. 
 
@@ -1255,7 +1261,7 @@ Complacency certainly happened, the interwar militaries being one large example.
 
 In short, because of its moderation "Life could find a way", in the West. As a result, the technological ecosystem, from producers to predators, was staffed more completely and therefore mass-produced more diverse tools than anyone else.
 
-The system was not perfect. The many civil rights marches, environmental protests, and contested elections, showcase that well enough. But friction is a feature not a bug. The West looked messier, but that was because problems were actually being addressed instead of assuming ideological belief made them go away. In 1947 British Prime Minister Churchill even joked, "democracy is the worst form of government except for all the others". That is a joke impossible to tell in many extremist societies, nevermind hear a leader say it.
+The system was not perfect. The many civil rights marches, environmental protests, and contested elections, showcase that well enough. But friction is a feature not a bug. The West looked messier, but that was because problems were actually being addressed instead of assuming ideological belief made them go away. In 1947 former British Prime Minister Churchill even joked, "democracy is the worst form of government except for all the others". That is a joke impossible to tell in many extremist societies, nevermind hear a celebrated wartime leader say it.
 
 So while never perfect, multi-party democracy with free-market economics was less blinding and therefore far more responsive to environmental changes. It's why most other fascist and communist regimes—from Chile to Vietnam—adopted some or all of its more liberal market-based practices. Sometimes an arrogant inventor really does have exceptional gifts. Sometimes a self-righteous educated bureaucrat should regulate society. Neither extreme was wrong about everything, which is exactly why neither could be discarded.
 
@@ -1299,7 +1305,7 @@ So who decides? It can't be an ideology as they can't pick winners or assign rol
 
 Gravity has a field. Electromagnetism has a field. These are physical forms. Nature doesn't give us an ingredient list, but we've tested and prodded these areas enough to name their features and understand their actions very well.
 
-Evolution has no field. Life has no outside control but the will to keep assembling matter into something useful. Lif pushes itself forward by making unique copies of itself. Whichever lifeforms happen to work best in the environment procreate more often and thus form the species who represent life on the gameboard.
+Evolution has no field. Life has no outside control but the will to keep assembling matter into something useful. Life pushes itself forward by making unique copies of itself. Whichever lifeforms happen to work best in the environment procreate more often and thus form the species who represent life on the gameboard.
 
 Thus evolution selects individuals. Alone. It doesn't wait for a group or a movement to form. Seeing that clearly is what this book is for. As renowned biologist Ernst Mayr says, "individual life forms are the unit of selection."
 
@@ -1311,7 +1317,7 @@ Just look at polar bears encountering a melting Arctic. Depending on geography, 
 
 The point is that while families, flocks, species, ecosystems share much in common, it is each individual that pushes life forward. There is no group think, because there is no shared selection.
 
-Whoever can find a niche as a scavenger, grazer, predator or other ecosystem role is selected. But the squirrel doesn't serve her ecosystem—she serves herself and her kids, the same way the oak tree does. There is cooperation and reciprocation by default not by intent.
+Whoever can find a niche as a scavenger, grazer, predator or other ecosystem role is selected. But no one serves their ecosystem. The squirrel doesn't live for anyone else—she serves herself and her kids, the same way the oak tree does. Their constant cooperation and reciprocation in a healthy ecosystem is by default not by intent.
 
 Biological players don't need to realize evolution's rules. If a tree produces few nuts, or its nuts are not nutritious, it will be outplanted by the ones who are. In nature, if a lifeform doesn't play the game, the coach finds someone who does. Better reciprocating boardmates are naturally selected.
 
@@ -1319,15 +1325,15 @@ We do need to realize this.
 
 Because we have choice, we can practice artificial selection. We can be raccoons taking from an ecosystem and giving little back. We can use ideology to select our own boardmates and think the coach won't ever be knocking on our door. While we've studied physics, chemistry, and biological evolution very well, we have not studied technological evolution enough to understand or prevent this. As a result, this is an all too easy mindset for us to have.
 
-In the early 1980s Yuri Andropov ran the all-powerful Soviet spy agency KGB and then the entire country as virtual dictator. When speak to leadership comrades he admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its economy and people. The man with the world's best intelligence apparatus did not understand why his reports said prosperity and progress, while the country's food market shelves were empty, coal miners didn't have soap to clean their faces, and power stations were blowing up.
+In the early 1980s Yuri Andropov ran the all-powerful Soviet spy agency KGB and then the entire country as virtual dictator. When speak to his leadership comrades he admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its economy and people. The man with the world's best intelligence apparatus did not understand why his reports said prosperity and progress, while the country's food market shelves were empty, coal miners didn't have soap to clean their faces, and power stations were blowing up.
 
 Such is the power of a human belief system.
 
 As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a human one, that happens whenever the distance between selecting tools and its consequences gets too far apart. Allied generals had bunkers and battle plans ensuring victory, the same way Soviet leaders were planning an entire economy, the same way kings had grand palaces and spiritual reasons why they were born to rule. And this is what studying techvolution will help us understand and address.
 
-We start by understanding every individual is the unit of selection. Like all lifeforms, every person is trying to be as lazy as possible. So, everyone inside these echo chambers can act rationally in trying to get the better job in the but all were still collectively doomed because their beliefs masked reality. 
+We start by understanding every individual is the unit of selection. Like all lifeforms, every person is trying to be as lazy as possible. So, everyone inside these echo chambers can act rationally when out to get a better job but all were still collectively doomed because their pursuit masked reality. 
 
-Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies. Heck, String Theory went from being the forefront of mathematical and physical research in the 1990s to essentially discredited now. But all the while everyone knew there was a chance it would end this way, and it was okay to say it. Now physics is moving on to other ideas in its quest to ripping the mask off of nature.
+Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies. Heck, String Theory went from being the forefront of mathematical and physical research in the 1990s to essentially discredited now. But all the while everyone knew there was a chance it would end this way, and it was okay to say it. Now physics is moving on to other ideas in its quest to ripping the mask off nature.
 
 That's the environment we can have to help us sort, see, and remove human error faster in identity, politics, and economics.
 
@@ -1335,7 +1341,7 @@ Faster because we'll see everyone inside an ecosystem, just one of technological
 
 But before we can become the new modern squirrel to better assess our tool options (mixed ideological politics) and plant trees by default (bumble bee economics) we must change our identity. 
 
-A new identity is being a self-aware selector inside a technological ecosystem. Realizing with every choice you make, you are the coach in the Game of Life. It's about understanding the individual who doesn't coach is selected and the one who coaches, selects.
+A new identity is being a self-aware selector inside a technological ecosystem. Realizing with every choice you make, you are the coach in the Game of Life. You always were because we replaced nature's coach with ourselves a long time ago. What changes is knowing it.
 
 Your daily actions are the only way humanity plays the game. Not your beliefs. Not your intent. Natural selection is just a consequence of which organism can best harvest resources and procreate. The coach always judges your actions not your beliefs.
 
@@ -1357,9 +1363,9 @@ Much of our ecosystem is now past the lifespan it was designed for. Its continua
 
 Bunkered inside our old identities, we haven't noticed. Instead we throw more waves at these attacks of entropy, paying more each year for the carrying capacity our grandparents built. We're trying to make the same things cheaper via energy and labour costs so we can keep enjoying the same lifestyle. More trucks on the same struggling highways. More planes into the same airport system. The same claims systems put in when mail and call-centers were new. We're like an army repeating a tactic that stopped working long ago.
 
-Using more energy/labour inputs and improving tools are the two ways to assemble more matter into useful adaptations, and only one method survives the coaches selection for long.
+There are two ways to assemble more matter into useful adaptations: spend more energy and labour, or build better tools. Both give the gift of a working world. Only one keeps giving it.
 
-Our problem is not lack of technology. We have all the seeds, plants, creatures of the forest, reef, woodland, and so on. We just don't know where to put them. We can find out by becoming a techvolutionary educated coach and selecting what actually works where we are. Thereby we can understand how like with combined arms warfare or transistor development, we must empower regular people to collaborate faster and select the tools they need to solve problems faster. That is how to faster fix leaking windows, expensive textbooks, car crash claims, and so many attacks of entropy.
+Our problem is not lack of technology. We have all the seeds, plants, creatures of the forest, reef, woodland, and so on. We just don't know where to put them. We can find out by becoming a coach who knows what game is being played. Thereby we can understand how like with combined arms warfare or transistor development, we must empower regular people to collaborate faster and select the tools they need to solve problems faster. That is how to faster fix leaking windows, expensive textbooks, car crash claims, and so many attacks of entropy.
 
 We are in a new environment. No one has ever grown an ecosystem using digital technology. Fitting to any organism, we are figuring out what works, but not with study and foresight, but with pain. We are the raccoon. We are Maria. We have a stutter. But these are states of mind to reflect and act on and need not be something to suffer.
 
@@ -1790,10 +1796,6 @@ Walk to grass. We need energy. Eat grass. Eat snail. Watch. Watch. Eat bug. Eat 
 Hide. Dark will come. Go to reeds. Family goes to reeds. Waits. Hide. Keep away from open water. 
 
 Honk is heard. My flock close. I say danger in deep water.
-
-### Badger - Growing Up
-
-<!-- Insert story of youth being born, learning it all for the first time... -->
 
 ### Mammoths
 
@@ -3906,11 +3908,13 @@ Kai is our biological equal with a mindset just as out of date. Even so, I hope 
 
 For now, the tree is dying.
 
-The buildings, schools, power stations, roads—the whole civilization our ancestors planted—is aging fast. We harvest its energy (larger raises, dividends, houses, cars) but don't return enough (new tools, lifestyles, kids), so entropy tears it down. I've handled the claims for much of it: car breakdowns, collapsed sewer lines, flooded basements, burned homes, blown generators, fallen bridges. Across thousands of people, no one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
+So many of us have been Maria, surrounded by stories but unable to decode our own. We enjoy surprise endings on a screen, then get one at work and call it bad luck or someone else's fault.
+
+That mismatch between our mentality and what our tools can do is the heart of our problems. The buildings, schools, power stations, roads, the whole civilization our ancestors planted, is aging fast. We harvest its energy (larger raises, dividends, houses, cars) but don't return enough (new tools, lifestyles, kids), so entropy tears it down. I've handled the claims for much of it: car breakdowns, collapsed sewer lines, flooded basements, burned homes, blown generators, fallen bridges. Across thousands of people, no one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
 
 We aren't doing that fast enough. We are using the wrong selection that is serving entropy.
 
-As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy often "wins". Instead of healing and evolving, we go in circles, fighting over policies as if they were scriptures. Meanwhile, we need the progressive-minded to find neglected problems and invent solutions to these untapped niches, the conservative-minded to mass-produce the tools, and everyone to use them to hunt inefficiencies.
+As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy eventually always wins. Instead of healing and evolving, we go in circles, fighting over policies as if they were scriptures. Meanwhile, we need the progressive-minded to find neglected problems and invent solutions to these untapped niches, the conservative-minded to mass-produce the tools, and everyone to use them to hunt inefficiencies.
 
 The tools already exist. Baran, ARPA, and others gave the internet away for free; companies big and small spread these tools worldwide. Your job now is to choose which to adopt and which to ignore—and thereby select a more efficient lifestyle. The same process that made lifeforms like birds and whales into such efficient creatures.
 
