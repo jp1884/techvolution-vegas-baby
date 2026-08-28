@@ -161,11 +161,11 @@ The answer is the raccoon. Like them, we live, work, and exist in an ecosystem o
 
 We've already met Maria, the DVD rental manager. In evolutionary terms, she wasn't a "regional manager" at all—that's a cultural label. She was a physical-media seller and dependant on one adaptation, fitted to one niche, able to fall with it. That's what a species is. And in 2011, hers was going extinct, whatever she called herself.
 
-Maria wasn't alone. Home Improvement was one of America's most popular shows throughout the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor celebrate the power of modern tools—then turned off their televisions and never applied that thinking to their own lives. The show was culturally aware enough to tackle drug addiction, infidelity, and job loss—the important life lessons society recognized. Yet in ten seasons, technological identity never appeared on that list. Nobody asked what happens when television itself changes.
+Maria wasn't alone. Home Improvement was one of America's most popular shows throughout the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor celebrate the power of modern tools—then turned off their televisions and never applied that thinking to their own lives. The show was culturally aware enough to tackle drug addiction, infidelity, and job loss—the important life lessons society recognized. Yet in eight seasons, technological identity never appeared on that list. Nobody asked what happens when television itself changes.
 
-Within a few years, Tim Allen himself starred on a new show available on a internet streaming service. His fictional Tool Man, and everyone else who built careers around broadcast television, never saw this future coming. Internet speeds were improving every year. Video production and distribution were going digital and online. All they needed to do was look.
+Internet speeds were improving every year. Video production and distribution were going digital and online. All they needed to do was look.
 
-DVDs went extinct in under a decade after the Home Improvement ended. Today people ask anxiously whether AI will take their jobs—a frightening question precisely because so few of us truly understand our relationship to the technologies we depend on to earn a living.
+DVDs was going extinct within a decade after the Home Improvement ended. Now, if anyone wants to watch it, it'll likely be via a streaming service. Today people ask anxiously whether AI will take their jobs—a frightening question precisely because so few of us truly understand our relationship to the technologies we depend on to earn a living.
 
 Like Maria, we have no name for that part of our identity—the part selection acts on most often. My own story shows why this blindspot is so hard to see and accept.
 
@@ -185,7 +185,7 @@ The ultimate lesson was how people struggle to understand modern technologies. W
 
 I was so often a customer's best hope, yet all I had was a Google search and a stingy checkbook.
 
-Modern technology has changed how evolution selects us. Comparing top causes of death in modern America and ancient societies (circa 500 BC) reveals our new selection pressure. Modern America's list is dominated by chronic diseases like heart disease and diabetes, linked to our sedentary lifestyle that is so pervasive raccoons suffer from many of the same problems. In contrast, ancient times suffered greatly from infectious diseases and injuries due to poor sanitation, limited medical care, and frequent wars. Notably, infant mortality has dropped dramatically, from approximately 50 percent in the Bronze Age to under 0.8 percent in America today.
+Modern technology has changed how evolution selects us. Comparing top causes of death in modern America and ancient societies (circa 500 BC) reveals our new selection pressure. Modern America's list is dominated by chronic diseases like heart disease and diabetes, linked to our sedentary lifestyle that is so pervasive raccoons suffer from many of the same problems. In contrast, ancient times suffered greatly from infectious diseases and injuries due to poor sanitation, limited medical care, and frequent wars. Notably, infant mortality has dropped dramatically, from approximately 40% in the Bronze Age to under 0.8 percent in America today.
 
 Unless an extinction-level event changes selection pressures—like factory soot or a meteor impact—species typically die off gradually. Our falling birthrate is one such slow signal. Many blame younger generations for being negligent, but the evolutionary truth runs deeper: our economy is still running on a model of the world that no longer exists.
 
@@ -235,7 +235,7 @@ Of course, the mapping isn't perfect. Neither regime used these terms exactly, a
 
 One example among many: Enrico Fermi, John von Neumann, Edward Teller, and many other scientists fled Europe for America, where they soon built radar, computers, and the atom bomb—the very "wonder weapons" the Nazis believed their own genetics would deliver.
 
-The Soviets did the same from the other direction. In the late 1930s, as the world was working out how radio, automobiles, and aircraft would change warfare, they executed most of their senior commanders—three of five marshals, thirteen of fifteen army commanders, and an estimated 30,000 other officers. All for supposed disloyalty and with the assumption that their ideology could train better replacements. Then in 1940 they fought a war against Finland, whose military was a fraction of their size, to a standstill. 
+The Soviets did the same from the other direction. In the late 1930s, as the world was working out how radio, automobiles, and aircraft would change warfare, they executed most of their senior commanders—three of five marshals, thirteen of fifteen army commanders, and an estimated 30,000 other officers. All for supposed disloyalty and with the assumption that their ideology could train better replacements. Then in 1940 they fought a war against Finland, whose military was a fraction of their size, and surprsingly saved their country from conquest. 
 
 Extremism cost each regime dearly, and neither could learn from the other. Locked into opposite halves of the same argument, they hated each other too much to borrow anything—which is exactly what an adapting system must be able to do.
 
@@ -261,7 +261,7 @@ To illustrate, in the aftermath of fascist and communist atrocities, psychologis
 
 In Milgram's most-cited setup, 65 percent of participants administered what they believed were dangerous shocks, often while showing visible distress. The exact rates have held up unevenly across the dozens of replications and variations conducted across cultures in the decades since, but the broader pattern has not been overturned: ordinary people, under pressure from perceived legitimate authority, often comply further than they themselves predict they will.
 
-Perhaps because of my speech impediment, watching these experiments highlighted a simple truth: we should never judge one another's raw capabilities. To me, the Milgram setup is not primarily about humanity's willingness to follow orders but about our limited awareness. Despite having pencils and paper sitting on the table, no participant ever thought to offer them to the "learner" to help him remember. Life has always overcome adversity with adaptations, yet here we were inflicting pain on each other instead of simply passing a pencil across the desk. Humans need tools—I would likely need one to communicate my answer without stuttering, just as the scientist used a pencil to record test results.
+Perhaps because of my speech impediment, watching these experiments highlighted a simple truth: we should never judge one another's raw capabilities. To me, the Milgram setup is not primarily about humanity's willingness to follow orders but about our limited awareness. Despite having pencils and paper sitting on the table, no participant ever thought to offer them to the "learner" to help him remember. Life has always overcome adversity with adaptations, yet here we were inflicting pain on each other instead of simply offering a pencil to a person in need. Humans need tools—I would likely need one to communicate my answer without stuttering, just as the scientist used a pencil to record test results.
 
 Yet, even well-intentioned academics often define humanity through narrow identities—genetic, cultural, or social—rather than recognizing that our true power stems from the technologies we use to solve problems. The ideological narratives we construct about superiority—whether based on education, bloodline, race, gender, or class—are misconceptions stemming from technological imbalances.
 
@@ -273,7 +273,7 @@ These misconceptions harm those in authority most of all, as they claim biologic
 
 There is no inherent human genotype or phenotype superiority. Our success depends on enhancing capabilities through technology, and like the squirrel and oak tree, we rely on others' technological empowerment to sustain the technological ecosystem we depend on. From Ancient Rome to modern America, successful civilizations have expanded through innovations like roads, libraries, and smartphones. The evolutionary pattern is that individual organisms prosper best when in an ecosystem filled with other healthy individuals.
 
-We should want to give everyone a pencil, purely out of self-interest. We never know who might be the next "black moth" that saves us. After all, once England reduced its industrial soot, the tree bark returned to its pale color, and the now rare peppered variant moth was selected again and ensured the species' survival.
+We should want to give everyone a pencil, purely out of self-interest. We never know who might be the next "black moth" that saves us. After all, once England reduced its industrial soot, the tree bark returned to its pale color, and the now rare peppered variant moth was selected again and as species continued otherwise the same.
 
 For now, we invent technology but do not naturally distribute it to others. This shortcoming appears in various contexts: workplaces where employees receive tools without choices or input yet are judged on their performance using the tools; schools that test children's knowledge and memory while denying common aids like notes or calculators; and individuals who neglect their own toolsets, hoping instead that an insurance representative will resolve their issues with a claim check.
 
@@ -521,7 +521,7 @@ All this means there is no going back. So, not only is every place in the Univer
 
 This is the part Maria's world obeyed too. Surrounded by awards, titles, and mind share, the DVD business looked solid. The physics behind it showed the cracks.
 
-Like everything life makes, the DVD was an arrangement held together by constant work—pressing plants running, trucks moving, shelves restocked, stores staffed, customers visiting. Stop pouring energy into any of it and the whole thing comes apart. Streaming carried the same movie for less work. One example, Blockbuster alone had 60,000 workers with thousands of rental stores. Netflix has about 15,000 workers and several data centers. Lots of work to create and maintain, but still far less than the DVD. Such is the difference between physical transport versus digital.
+Like everything life makes, the DVD was an arrangement held together by constant work—pressing plants running, trucks moving, shelves restocked, stores staffed, customers visiting. Stop pouring energy into any of it and the whole thing comes apart. Streaming carried the same movie for less work. One example, Blockbuster alone had 60,000 workers with thousands of rental stores. Netflix has about 15,000 workers and runs on multiple contracted huge data centers. Lots of work to create and maintain, but still far less than the DVD. Such is the difference between physical transport versus digital.
 
 The same clock runs on every arrangement we build. A coal town is a town because coal is worth digging; the school, the diner, and the hardware store are all downstream of coal's ability to energize a nation. A local newspaper was printing presses, delivery routes, and classified ads that paid for the newsroom, until the lucrative classifieds moved online and the newsroom lost what fed it.
 
@@ -829,11 +829,11 @@ The crab's name gives a clue. Their namesake is the Taira clan who dominated med
 
 The war was decided at the massive Dan-no-ura naval battle in western Japan.
 
-The Heike lost and Minamoto's leader Yoritomo became the first Shōgun, or military ruler, of Japan. This was a cultural and political turning point in Japanese history. After it, for seven centuries, Japan was ruled not by emperors, but by samurai warriors and shōguns. Local legend said Heikegani crabs are reincarnations of the Heike warriors defeated at the battle. It is even written in _The Tale of the Heike_, a chronicle of ancient Japanese history.
+The Heike lost and Minamoto's leader Yoritomo became the first Shōgun to rule rule over Japan. This was a cultural and political turning point in Japanese history. After it, for seven centuries, Japan was ruled not by emperors, but by samurai warriors and shōguns. Local legend said Heikegani crabs are reincarnations of the Heike warriors defeated at the battle. It is even written in _The Tale of the Heike_, a chronicle of ancient Japanese history.
 
 That's one interpretation for the crab's distinctive feature.
 
-Carl Sagan, the noted American astronomer and educator, popularized a different interpretation. In his book _Cosmos: A Personal Voyage_ Sagan says the Heikegani crabs were caught by local fishermen who occasionally saw faces in the shell. Out of respect for ancient fallen soldiers, the fishermen returned them to the sea, while harvesting the unlucky crabs who didn't carry the spirits of an ancestor. As the years went by more newly hatched crabs had the genes that made their shell look like a face. Eventually, all the Heikegani crabs had what looked like a human face on their shell.
+Carl Sagan, the noted American astronomer and educator, popularized a different interpretation. In his book and documentary _Cosmos: A Personal Voyage_ Sagan says the Heikegani crabs were caught by local fishermen who occasionally saw faces in the shell. Out of respect for ancient fallen soldiers, the fishermen returned them to the sea, while harvesting the unlucky crabs who didn't carry the spirits of an ancestor. As the years went by more newly hatched crabs had the genes that made their shell look like a face. Eventually, all the Heikegani crabs had what looked like a human face on their shell.
 
 Human beings had selected winning crabs, but for unnatural reasons, which is why the Heike crabs are a classic example of "artificial selection"; humans choosing which individuals of a species reproduce, based on traits we find desirable and thereby accelerating evolution in a direction nature didn't select for on its own.
 
@@ -875,7 +875,7 @@ Here, as you start your game, we are using every part of the word.
 
 By questioning our artificial creations, we're effectively asking what our nature is. And, not for academic reasons, but for the express purpose of better adapting to nature's environment, weather, and rulebook by becoming self-aware about the artificial selections we're currently making, so they respond to the real pressures our environment imposes rather than the noise so common in the identity, politics, and economics we currently use to play the Game of Technological Life.
 
-Since 1970, monitored wildlife populations of mammals, birds, amphibians, reptiles, and fish have declined by roughly 68%. Scientists debate whether this counts as a mass extinction. Whatever it's called, the forests, fisheries, herds, and flocks we once harvested with ease are often literally not there anymore.
+Humans and our livestock now make up the great majority of mammal life on Earth by weight. Every wild whale, elephant, deer, and mouse is a small remainder. About a third of assessed fish stocks are taken faster than they replenish. Whatever you call it, the forests, fisheries, herds, and flocks our ancestors harvested with ease are thinner now, and in many places gone.
 
 This is most certainly being caused by humanity's use—and misuse—of technology. But if nature had a mother, she wouldn't be asking us to stop building; technology lets life spread into new niches and hold back entropy where it otherwise couldn't. She'd be asking us to start choosing well. A self-aware selector aims at the same target blind nature does, but aims better and shoots faster.
 
@@ -911,7 +911,7 @@ With distance running, sweat, speech, and thumbs, humans were positioned for Gam
 
 All these adaptations opened up new opportunities on the game board, which our growing speech abilities allowed us to easily share with each other. Crucially, this included the value of charred meat, likely learned from scavenging food after brush fires. Around 1.8 million years ago humans started our own fires to cook, and therefore predigest, our food.
 
-As tools and fire made digestion require 10-30% less energy, our jaws could get smaller, meaning our brains had both the space and energy to grow. The human skull grew from around 500 cubic centimeters (CC) of Australopithecus to around 1,350 CC of early Homo sapiens. Although brain size does not directly correlate with intelligence, it generally trends that way. Interestingly, this most powerful of human adaptations used up so much energy our head kept its hair to retain some of the heat billions of neurons create.
+As tools and fire made digestion require 10-30% less energy, our jaws could get smaller, meaning our brains had both the space and energy to grow. The human skull grew from around 500 cubic centimeters (CC) of Australopithecus to around 1,350 CC of early Homo sapiens. Although brain size does not directly correlate with intelligence, it generally trends that way. Interestingly, this most powerful of human adaptations used up so much energy our head changed how its hair looks jus to remove or retain the heat billions of neurons create.
 
 So, early humans' co-evolution with technology made us increasingly unique in nature, but we still kept much of our genes and instincts unchanged. These two influences together make up the genetics that, 300,000 years ago, would form our Homo sapiens branch of life.
 
@@ -927,7 +927,7 @@ Of course, our genotype does not determine our future—what scientists call "ge
 
 Anyone who tries to ignore our past is artificial and offers little but a dead end.
 
-We've already met two such attempts, the communist and fascist ideologies that scarred human history so badly. Among their many errors, one proclaimed humans naturally selfless unless tainted with a corrupted class history, condemning untold millions to mass purges for a belief that ant specialist E.O. Wilson said was "Good ideology, wrong species" as blind obedience is how eusocial ants naturally behave, not hominids.
+We've already met two such attempts, the communist and fascist ideologies that scarred human history so badly. Among their many errors, one proclaimed humans naturally selfless unless tainted with a corrupted class history, condemning untold millions to mass purges for a belief that ant specialist E.O. Wilson said was "Wonderful theory, wrong species" as blind obedience is how eusocial ants naturally behave, not hominids.
 
 The other said "blood" should inspire ancient tribal loyalties throughout millions of strangers. Cohesion required "purity" and therefore justified dooming all outsiders and told long-time friends, colleagues, and neighbors to learn to hate each other. This is how small-band tribal humans lived, not humans whose technological ecosystem connects them with millions of strangers daily. It was also a belief that mistook the blueprint for the building. Every lifeform is changed and molded by its upbringing and environment and needs to find any lifeform that will be a good boardmate.
 
@@ -991,7 +991,7 @@ So, the coach kept picking Homo sapiens who developed better tools, crafted warm
 
 It's not hard to imagine our ancestors—with mostly modern bodies and brains—sitting around campfires after a day's work. With wonderfully perceptive eyes and budding storytelling, they fashioned characters and events to explain the game they sensed they were playing. Just looking up at the Milky Way must have been the most awesome experience. With a virtual blank slate, persons imagined (or realized depending on the reader's beliefs) that beings, titans, and gods held the strings on the people playing at life down on Earth.
 
-Before the Cognitive Revolution we were physically modern humans, after it we behaved like modern humans. A modern person would be relatively happy here. Ecologist Gordon H. Orians researched that our current love of a house on a lake, with the mountains behind us and a grassland in front, is from our memories of living in East Africa during this time period.
+Before the Cognitive Revolution we were physically modern humans, after it we behaved like modern humans. A modern person would be relatively happy here. Ecologist Gordon H. Orians research suggests that our current love of a house on a lake, with the mountains behind us and a grassland in front, is from our evolving in East Africa during this time period.
 
 Yet, the relative safety, abundant resources, and pleasant weather were soon to be a happy memory.
 
@@ -1129,7 +1129,9 @@ But there's nothing supernatural about technology. It's composed of stone, clay,
 
 The first white bear didn't interview for a job hunting seals in the Arctic. Today's brown bears can't protest against polar bears venturing south looking for meals. They can only play the game. But when our big brains, self-awareness, and storytelling mix with biological self-interest to be as lazy as possible—especially while holding powerful tools—the result can be unnatural.
 
-We see others not as technological operators in the ecosystem that sustains us, but as biological tribe members or outsiders, based on an ever-changing identity such as gender, race, ethnicity, nation. We too often try to subvert the natural reciprocation boardmates must make. But every lifeform has a role to play, and an unfilled role is just unclaimed energy. Shutting people out just wastes energy, which only helps entropy.
+We see others not as technological operators in the ecosystem that sustains us, but as biological tribe members or outsiders, based on an ever-changing identity such as gender, race, ethnicity, nation. We too often try to subvert the natural reciprocation boardmates must make. The bear can't empty the coast, the seal can't evade all bears; balanced ecosystems have limits between all ecological roles to make sure they keep doing their jobs.
+
+We have no such built-in limits, so reciprocation has to be chosen or it doesn't happen. Every role has energy waiting in it, and selecting against a boardmate's capacity is selecting against what feeds you. Shutting people out doesn't move energy to your side of the board; it takes it off the board, which only helps entropy.
 
 This worked okay when technology was so primitive we still spent much of our time living, harvesting, and depending on the bounty provided by biological ecosystems.
 
@@ -1175,7 +1177,7 @@ World War I was the first war after industrialization. For the first time tracto
 
 Every leader mourned their dead, but didn't see any alternatives to the trenches, poison gas, shell shock, and horror.
 
-Enter Australian World War I general John Monash. He was a part-time general but full-time engineer and saw a way through. He coordinated his soldiers, tanks, and planes to support each other based on the problems they faced when they faced it. No more wave attacks and endless artillery barrages. Instead of a battering ram, soldiers would be an orchestra of different tools that learned to play the same sheet music, i.e. battle plans. The mentality was called "combined arms warfare".
+Enter Australian World War I general John Monash. He was a part-time general before the war but full-time engineer. He saw a way through the carnage. He coordinated his soldiers, tanks, and planes to support each other based on the problems they faced when they faced them. No more wave attacks supposedly protected by endless artillery barrages. Instead of a battering ram, soldiers would be an orchestra of different tools that learned to play the same sheet music, i.e. battle plans. The mentality was called "combined arms warfare".
 
 Monash's ideas culminated in The Battle of Hamel (1918). As he trained them, his soldiers, tanks, and planes worked together and captured Hamel with unusually low casualties.
 
@@ -1207,7 +1209,7 @@ The Nazis read their early wins as proof of their ideology. The fact anyone can 
 
 Nevertheless, with Western Europe under their grip, the Nazis assumed the "racially inferior" Soviets would be a push-over, evidenced by the Soviet Union's recent massacre of tens of thousands of its officers and lackluster war against Finland (1939-1940). Although the German invasion of the Soviet Union (1941) caused an egregious loss of Soviet life and property it failed to force a surrender or capture much needed oil fields. Within a few years the Soviets were fielding better and more reliable tanks and planes and approaching German military command sophistication. By 1943 the tide of the war turned for the Soviets never to swing back again.
 
-And the Allies woke up. Charles de Gaulle had spent the 1930s writing that France needed concentrated armoured divisions. As we've seen already, he was ignored. But when the Germans proved him right, the man nobody had listened to became the voice of Free France. Britain, having left its army equipment in France, rebuilt around mobile formations and put its faith in radar and codebreaking—tools its prewar leadership had barely funded. Both countries promoted the people and tools they had previously filtered out.
+And the Allies woke up. Charles de Gaulle had spent the 1930s writing that France needed concentrated armoured divisions. As we've seen already, he was ignored. But when the Germans proved him right, the man nobody had listened to became the voice of Free France. Britain, having left its army equipment in France, rebuilt around mobile formations and put its faith in radar and codebreaking—the latter of which its prewar leadership had barely funded. Both countries promoted the people and tools they had previously filtered out.
 
 But the biggest change came when America entered the war in late 1941.
 
@@ -1241,15 +1243,17 @@ The Soviet leaders' job was to protect society from these exploitive individuals
 
 With so much responsibility vested in leadership, their actions were shielded from reproach. And, contrary to their doctrine, but faithful to the human nature they wanted to correct, leadership acted selfishly. They withheld their society's many military and scientific developments from reaching the tools regular people used. Despite fusion reactors and going to the Moon and Venus, TVs, calculators, toilet paper didn't change much through Soviet decades.
 
-Without independent research, free-enterprise, or private property there was nothing anyone could do about it. The result was a society with little "creative destruction." Instead, government ministries tried to plan the entire economy years in advance. Instead of market-demand, ball-bearings, pen clips, rubber tires, everything was given production quotas. The result was factories got too many of one component and too few of another, resulting in store shelves chronically empty of useful products.
+Without independent research, free-enterprise, or private property there was nothing anyone could do about it. The result was a society with little "creative destruction." Instead, government ministries tried to plan the entire economy years in advance. So, ball-bearings, pen clips, rubber tires, everything was given production quotas. The result was factories got too many of one component and too few of another, resulting in store shelves chronically empty of useful products.
 
 With so little being produced, everyone knew the best jobs were rising in the government hierarchy. The classless society was therefore self-policing. Opposing ideas were filtered out with each new promotion and training session, especially because in a society without free commerce, control over state property was the only currency. The system could correct itself—genetics was allowed again after 1964—but instead of investigating nature, trying new things, and seeing what worked everyone learned to wait for instructions.
 
 In contrast, when America put rockets in space, average citizens were following along in real-time on radios and TVs sharing the same technology. As Soviet innovation stalled in the 1970s, the Soviet Union grew ever more dependent on oil exports to fund a bloated state bureaucracy and military. It needed to buy the advanced industrial equipment, and even food, it could not produce itself. Regular workers joked "we pretend to work, they pretend to pay us". When video tapes of bountiful western supermarkets pierced through government propaganda, and oil prices fell in the 1980s, the entire Soviet system imploded as its various peoples either voted to abandon it or watched as even once-committed believers let the communist project die.
 
-Both extremist regimes hit the same wall. Using ideology to screen boardmates does not increase innovation or reciprocation in society. Each regime's carrying capacity was far below what it had promised its believers. So both resorted to increasing inputs—by taking, or by selling. Germany needed Austrian gold, Czech factories, Ukrainian grain, and Caucasus oil. The Soviets seized manyh German and Japanese power stations and factories after the war, innovated on that equipment for a time, then had to sell oil to stay afloat until even that wasn't enough.
+Both extremist regimes hit the same wall. They both wanted to mix scienctific advancement and mass-production to create amazing new tools. Both thought screen boardmates would make that happen. Neither saw technology as an ecossytem of producers, grazers, predators, etc. who need all types to operate it. Thus, each regime's carrying capacity was far below what it had promised its believers. Instead of reflecting, both resorted to increasing inputs—by taking, or by selling. Germany needed Austrian gold, Czech factories, Ukrainian grain, and Caucasus oil. The Soviets seized manyh German and Japanese power stations and factories after the war, innovated on that equipment for a time, then had to sell oil to stay afloat until even that wasn't enough.
 
-People selecting winners and losers is not itself a problem. Every farmer selects, every teacher selects, every coach selects. The problem was what the extremists selected on. Class origin and bloodline aren't measures of fitness; they're faces in a crab shell. As we learned in the Game of Life, nature keeps score on something else entirely: adaptations that harvest resources inside an ecosystem. And, adaptations can be genetic or learned, thus the genotype and phenotype are both needed. Failing this test is why nature removed these extremist regimes within a lifetime.
+People selecting winners and losers is not itself a problem. Every farmer selects, every teacher selects, every coach selects. The problem was what the extremists selected on. Class origin and bloodline aren't measures of fitness; they're faces in a crab shell.
+
+As we learned in the Game of Life, nature keeps score on something else entirely: adaptations that fill an ecological role, feeding and sustaining the others. Both regimes promised that pre-screening boardmates would remove conflict and raise carrying capacity for everyone. It did the opposite. The people they screened out were the ones they needed. No genotype or phenotype extreme can operate an entire ecosystem alone.
 
 ## Chapter 13—Moderation Is Natural
 
@@ -1279,7 +1283,7 @@ Visionaries like Bush are hard to come by. Yet they exist in every society. The 
 
 We already learned healthy ecosystems are not created by concentrating on genotype or phenotype extremes, but by following nature and allowing personal ambition and mass-production to cohabit with collective benefit and diversity of ideas and people. The invention, development, and proliferation of the transistor makes the point very well. This tiny device switches on and off according to what we program it to do. It's what a cell is to biology, and the more assembled together the more capable the collection becomes.
 
-The transistor was born from a partnership no single ideology contains: government demand, private enterprise, open research, and open market fused into one pipeline. Vannevar Bush embodied this pipeline in so many ways. He was the dean of MIT School of Engineering, a Raytheon founder, and America's wartime science chief. He even described how to fund and integrate this society wide system of invention with his article, _Science: the Endless Frontier_.
+The transistor was born from a partnership no single ideology contains: government demand, private enterprise, open research, and open market fused into one pipeline. Vannevar Bush embodied this pipeline in so many ways. He was the dean of MIT School of Engineering, a Raytheon founder, and America's wartime science chief. He even described how to fund and integrate this society wide system of invention with his report to the President Roosevelt, _Science: the Endless Frontier_.
 
 The transistor showcases this pipeline's success. It was discovered at Bell Labs, an open research lab (1947) that had physicists, engineers, electricians, and power-line installers researching together. The transistor's early development was uncertain and expensive, paid for by military and NASA contracts to companies like Fairchild Semiconductor. With the needed resources and incentive at hand, these private companies highered the brightest from the public and private American university system. These scientists soon turned a single transistor into the first integrated circuits (1959) packing several transistors into a single device.
 
@@ -1333,7 +1337,7 @@ As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a
 
 We start by understanding every individual is the unit of selection. Like all lifeforms, every person is trying to be as lazy as possible. So, everyone inside these echo chambers can act rationally when out to get a better job but all were still collectively doomed because their pursuit masked reality. 
 
-Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies. Heck, String Theory went from being the forefront of mathematical and physical research in the 1990s to essentially discredited now. But all the while everyone knew there was a chance it would end this way, and it was okay to say it. Now physics is moving on to other ideas in its quest to ripping the mask off nature.
+Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies. Heck, String Theory went from the most promising direction in physics in the 1990s to openly mocked for its inability to produce a single testable prediction. Everyone knew it might end this way, and it was okay to say so. Nobody was arrested. Now cutting-edge funding and students drift elsewhere while its defenders are allowed to keep researching.
 
 That's the environment we can have to help us sort, see, and remove human error faster in identity, politics, and economics.
 
@@ -1369,7 +1373,7 @@ Our problem is not lack of technology. We have all the seeds, plants, creatures 
 
 We are in a new environment. No one has ever grown an ecosystem using digital technology. Fitting to any organism, we are figuring out what works, but not with study and foresight, but with pain. We are the raccoon. We are Maria. We have a stutter. But these are states of mind to reflect and act on and need not be something to suffer.
 
-Entropy doesn't decide whether life prospers. Life does by organizing matter, harvesting energy to maintain it, and shedding what no longer fits. Whether your lineage continues depends on whether you do the work.
+Entropy doesn't decide whether life prospers. Life does by harvesting energy to organiz matter and shedding what no longer fits. Whether your lineage continues depends on whether you do the work.
 
 You are not powerless. You are the unit of selection. Your daily choices make the future of life. You can use the rules of physics, chemistry, geology and evolution to make life prosper.
 
@@ -1905,21 +1909,21 @@ I try. The stone scraper is sharp. Bits of deer flesh come off.
 
 I scrape where she points. My arms hurt but I keep working. I hear whimpering. A puppy wants the fat I'm cleaning. I throw some fat to it.
 
-Mother looks at the hides on the frames. Then at the sky. "Six finished. Eight to go. The frost will not wait for us." She returns to crushing nuts on the stone.
+Mother looks at the hides on the frames. Then at the tree line. She is worried. "Six finished. Eight to go. The frost will not wait for us." She looks at the nuts on the crushing stone. Her hands are shaking too much to pick up the stone.
 
 "Where do they go?" I ask.
 
-"To gather precious fruit. Focus. Cold is coming. The little ones need furs to keep warm. The sick need Giving Tree fruit." Her eyes look at the tree line. No one is there. She returns to her grinding stone.
+"To. To. To gather precious fruit. Focus. Cold is coming. We need this food. The little ones need furs to keep warm. The sick need Giving Tree fruit." Her eyes look at the tree line again. No one is there. Tears come into her eyes. Many tears come.
 
 "Why do the sick need Giving Tree fruit?"
 
 "Their wounds close faster. We have learned this."
 
-She does not look up from the stone.
+She does not look up from the crushing stone. More tears come.
 
 "What is out there?"
 
-"Not the river. Not fish. Trees. Fruit. Animals. Scary things." She continues grinding. "Keep working. You must do it yourself. Do not break the skin. We need them before the cold, or we do not see spring."
+"Not the river. Not fish. Trees. Fruit. Animals. Scary things." She continues. Her face is wet. But she now smiles at me. "I am better now. Keep working. You can do it. Do not break the skin. We need them before the cold. We can see the springg."
 
 "When will I go?"
 
@@ -1931,21 +1935,29 @@ I want to ask more, but Mother is done grinding and is now at the woodpile. I co
 
 She is gathering wood. I already know how to stack them. "Small sticks first," she taught. "They catch fast. Then bigger wood. Fire needs both." I can't start a fire very fast. I need to learn.
 
-She uses flint axe to chop more pieces. I watch her. She loves me. I love her. She teaches me. How to cook food. How to use tools. How to care for wounds. I want to know about the Giving Tree.
+She uses flint axe to chop more pieces. I watch her. She tears many times today. She is scared. She loves me. I love her. She teaches me. How to cook food. How to use tools. How to care for wounds. I want to know about the Giving Tree so I can get its fruit for her.
 
-But I keep working. Eight hides to go. Two hides per day. Maybe one because I'm slow.
+I now keep working. Eight hides to go. Two hides per day. Maybe one because I'm slow.
 
 Scrape. Scrape. Scrape.
 
 Seven hides to go.
 
-Voices! Mother calls "They're back!"
+Scrape. Scrape. Scrape.
+
+Voices! Mother calls. We all stop. 
+
+Who is out there? Who is coming?
+
+"They're back!"
 
 I run to see. Puppy follows me.
 
 Our people emerge from the trees, baskets heavy with food. Children rush to greet them. I see Raya, Uncle, River Woman. 18 of our people return. Four dogs. All safe.
 
-Mother breathes out. "All of them came back." She wipes her tears.
+Mother breathes out. More tears. But she is smiling and laughing with these tears. 
+
+"All of you came back!"
 
 Raya sets down her basket and spear. "So much fruit! Giving Tree was full this season."
 
@@ -2049,15 +2061,17 @@ Why must I share. Why must I share!
 
 "You are not the most needed."
 
-I understand. 
+Tears come. Many tears. I laugh out loud. More tears. My friends join me. Laugher.
 
-<!-- insert laughter, a companion of crying to biologically cope with the realization. -->
+I understand. I hungry. I an thirsty. I am tired. I understand I may die. And we must keeping moving.
 
-We keep moving. Up the valley. Some water. Some green. More water. More green. Trees. Fruit. Tall grass. Short grass. Many trees. We find fruit. River. Deer. We smile to each other. It was good to move away from Deer-Star.
+Our steps take us up the valley. Some water. Some green. More water. More green. Trees. Fruit. Tall grass. Short grass. Many trees. We find fruit. River. Deer. We smile to each other. It was good to move away from Deer-Star.
 
 There is much food. Much water.
 
 Is this new foraging grounds?
+
+The food is the same. Same fruit. Same berries. This food is simple.
 
 Then we see something new. We see people. Different people.
 
@@ -2985,13 +2999,13 @@ My husband sits down. Speaks low, but firm. I did something wrong.
 
 "Learning will spoil him. Once a slave can read, he is no longer a slave. He has eyes outside the household. He sees what we have and don't share. He thinks. He calculates. He plans. You'll ruin him for us. And it's against the law."
 
-I say, "But everyone in Ohio learns to read."
+I say, "But every kid learns to read."
 
-"This isn't Ohio. Our property rights aren't cruel, Sophia. They're order. Without them, chaos. They do the work. We do the thinking."
+"This isn't Ohio or Pennsylvania. Our property rights aren't cruel, Sophia. They're order. Without them, chaos. They do the work. We do the thinking."
 
 He touches my shoulder. Gentle.
 
-"I know you mean well. But never do that again. It's wrong. For everyone. Frederick is clever. Proud. He tricked you."
+"I know you mean well. But knowledge unfits a child to be a slave. Never do that again. It's wrong. For everyone. Frederick is clever. Proud. He tricked you."
 
 I had been tidying up while Hugh talked. Why was I cleaning?
 
@@ -3017,7 +3031,7 @@ I hear Frederick is speaking in Britain! I've never been to Europe.
 
 The North is invading. Frederick told the world lies about our society. We must defend our rights.
 
-The war is on. We will win. Obviously.
+The war is on. We will win.
 
 The North builds rifles, cannons, ironclads, railroads, telegraph lines. Their workers make the designs, run the machines, send the orders down the wire. Farm boys become soldiers and factory hands.
 
@@ -3041,7 +3055,7 @@ We print the manuals. Create loading drills. Make signal codes and telegraph key
 
 I walk through the hospital one more time. It's true. The evidence is here walking, or dying, inside these walls.
 
-Doctors' ward: one in ten new mothers die of childbed fever. Midwives' ward: one in fifty.
+Doctors' ward: one in ten new mothers die of childbed fever. Midwives' ward: one in twenty-five.
 
 I watch the other doctors come from the autopsy room. Hands still stinking of death. They examine the mothers. Insert their fingers to check dilation. Some mothers die three days later. Fever. Agony.
 
