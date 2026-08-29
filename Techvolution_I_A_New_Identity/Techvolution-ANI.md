@@ -135,7 +135,9 @@ Consider the peppered moth during England's Industrial Revolution. As trees dark
 
 This continuous process of genetic variation and environmental selection drives the incremental changes we observe in species over time—sometimes slowly, as with glacial changes as geology changes over eons, or suddenly with events like floods, eruptions, or factory soot. Natural selection can only work with what already exists. Over longer time periods, lineages with greater genetic diversity persist through environmental change more often, because diverse populations are more likely to contain variants suited to new conditions
 
-The next way a creature can stand out is its phenotype. The phenotype is akin to a life form's personality; the observable characteristics of an organism resulting from the interaction between its genetic makeup and environmental influences, encompassing physical traits, behavioral adaptations, and learned experiences. Think of two acorns, one planted in a tall forest, the other in an open field. The first grows lean and tall to reach sunlight, while the other grows bushier and more robust. Phenotype reveals how organisms adapt to their surroundings and become products of their environment.
+The next way a creature can stand out is its phenotype. The phenotype is akin to a life form's personality; the observable characteristics of an organism resulting from the interaction between its genetic makeup and environmental influences, encompassing physical traits, behavioral adaptations, and learned experiences. Think of two acorns, one planted in a tall forest, the other in an open field. The first grows lean and tall to reach sunlight, while the other grows bushier and more robust. 
+
+Phenotype reveals how organisms adapt to their surroundings and become products of their environment.
 
 Phenotypic adaptations show remarkable diversity. Some changes are enabled through genetics and are immediate, like a cuttlefish shifting its skin to match the seabed; others are learned and passed down socially, like an elephant mother showing her calf where the water holes lie. Like with genes, no trait is better or worse on its own—only relative to its environment, and natural selection favors whichever ones work best. This is how across time and environments evolution produces huge diversity of lifeforms.
 
@@ -159,13 +161,13 @@ Now, in our quest to better understand ourselves, which of these scenarios do yo
 
 The answer is the raccoon. Like them, we live, work, and exist in an ecosystem of tools without knowing how they work. This is why the thesis of this book is that humans are now primarily a technological species that is not yet self-aware of our new identity.
 
-We've already met Maria, the DVD rental manager. In evolutionary terms, she wasn't a "regional manager" at all—that's a cultural label. She was a physical-media seller and dependant on one adaptation, fitted to one niche, able to fall with it. That's what a species is. And in 2011, hers was going extinct, whatever she called herself.
+We've already met Maria, the DVD rental manager. In evolutionary terms, she wasn't a "regional manager" at all—that's a cultural label. She was a physical-media seller and dependant on one adaptation, fitted to one niche, able to fall with it. That's what a species is. And around 2011, hers was going extinct, whatever she called herself.
 
 Maria wasn't alone. Home Improvement was one of America's most popular shows throughout the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor celebrate the power of modern tools—then turned off their televisions and never applied that thinking to their own lives. The show was culturally aware enough to tackle drug addiction, infidelity, and job loss—the important life lessons society recognized. Yet in eight seasons, technological identity never appeared on that list. Nobody asked what happens when television itself changes.
 
-Internet speeds were improving every year. Video production and distribution were going digital and online. All they needed to do was look.
+Internet speeds were improving every year. In 1992 when the show premiered, it was 0.0144 Mbps. By 1999, when the show ended, it was 0.056 Mbps. Within a decade it was 31 Mbps. More video production and distribution were going digital and online each year. All they needed to do was look.
 
-DVDs was going extinct within a decade after the Home Improvement ended. Now, if anyone wants to watch it, it'll likely be via a streaming service. Today people ask anxiously whether AI will take their jobs—a frightening question precisely because so few of us truly understand our relationship to the technologies we depend on to earn a living.
+Its no surprise, DVDs was going extinct within a decade after Home Improvement ended. Now, if anyone wants to watch it, they can via a streaming service using 308 Mbps. Today people ask anxiously whether AI will take their jobs—a frightening question precisely because so few of us truly understand our relationship to the technologies we depend on to earn a living during such massively improved technologies.
 
 Like Maria, we have no name for that part of our identity—the part selection acts on most often. My own story shows why this blindspot is so hard to see and accept.
 
@@ -455,9 +457,9 @@ Their countless interactions manifest into the universe.
 
 Consider our Moon—not merely a celestial object, but a profound result of cosmic collision and gravitational interaction. Approximately 4.5 billion years ago, a Mars-sized planetary body called Theia collided with the early Earth.
 
-The collision was so violent it ejected massive amounts of molten rock and debris into Earth's orbit. Gravity began pulling these fragments together. Over time, these fragments coalesced, cooling and solidifying into what we now know as the Moon.
+The collision was so violent it ejected massive amounts of molten rock and debris into Earth's orbit. Earth's heavier stuff like iron and gold were already nearer the core, so most of what was ejected was minerals rich in oxygen, silicon, and magnesium.
 
-That's why there are little to no heavy elements like iron and gold on the Moon, it was mostly lighter stuff that got ejected away from Earth all those years ago.
+The Moon, in a sense, is built from Earth's cast-off skin. Gravity began pulling these fragments together. Over time, these fragments coalesced, cooling and solidifying into what we now know as the Moon.
 
 The collision between early Earth and Theia was so massive it melted Earth's core for billions of years. Yet, even this massive collision was controlled by the natural laws the entire time.
 
@@ -699,7 +701,7 @@ The polar bear is the same truth from the other side. She takes every seal she c
 
 One is a counter-balance, the other is a dream. Lifeforms are innately lazy, always trying to do more with less because that is exactly what selection rewards. But laziness cannot tell the difference between finding a cheaper way to pay the bill and telling yourself the bill isn't owed. A polar bear catching seals prevents over-grazing and contributes to the efficient energy flow of an ecosystem—that is how predators pay their bill to evolution. The easy kill of the penguin feels like the same instinct. It isn't, and it is what fuels every dream of escaping entropy's pains through artificial means.
 
-Lifeforms battle at the edges for daily survival, whether it's hunter chancing prey, or trees racing for sunlight. They need to battle, because over time, this keeps each other doing their ecological role. Wanting to kill each other but never eliminate each other is not a contradiction. Teammates and bandmates fight for spots all the time. That doesn't mean they don't have a shared interest.
+Lifeforms battle at the edges for daily survival, whether it's hunter chancing prey, or trees racing for sunlight. They need to battle, because over time, this keeps each other doing their ecological role. Wanting to kill each other but never eliminate each other is not a contradiction. Schoolmates and bandmates fight for spots all the time. That doesn't mean they don't have a shared interest too.
 
 Same for our boardmates and the calories they must find in their shared ecosystem to push entropy back for another day.
 
@@ -767,11 +769,11 @@ Co-evolution is another. Here two species become each other's environment. They 
 
 Epigenetics is another way variation shows up, but with an important difference. Epigenetics is like a sophisticated control system for your genes. Imagine your DNA as a vast library, and epigenetic mechanisms are the librarians that decide which books (genes) get read and which remain closed. Genes therefore never change, but which genes get read does—sometimes shaped by conditions before birth.
 
-For example, Dutch children who were in the womb during the 1944–45 famine went on to have higher rates of obesity, diabetes, and cardiovascular disease. And since a woman's lifetime supply of eggs forms while she is herself a fetus, those eggs starved too—the grandchildren were smaller at birth. Three generations felt the same starvation event.
+For example, Dutch children who were in the womb during the 1944–45 famine went on to have higher rates of obesity, diabetes, and cardiovascular disease. And since a woman's lifetime supply of eggs forms while she is herself a fetus, those eggs were in the famine too. One starvation event, three generations physically present for it.
 
-Whether these marks reach a generation that never felt the famine is the harder question. Plants pass epigenetic changes down freely, and some worms carry them for dozens of generations. For mammals biologists are still arguing about how and when we pass on epigenetic markers.
+Whether the marks reach a fourth generation, one that was never there, is the harder question. Plants pass epigenetic changes down freely, and some worms carry them for dozens of generations. For mammals, biologists are still arguing about how and when we pass on epigenetic markers.
 
-Epigenetics is nature's way of allowing organisms to mildly react to their environment without rewriting their entire genetic instruction manual.
+It's an important field to study because epigenetics is nature's way of allowing organisms to mildly react to their environment without rewriting their entire genetic instruction manual.
 
 Epigenetics is one of the mechanisms behind what we call the phenotype, these are the observable physical, biochemical, and behavioral characteristics of an organism that result from the interaction between its genotype and the environment. Two acorns growing, one in sunshine, the other in a forest shade, will grow to be two different looking trees, even if having the same genes.
 
@@ -893,7 +895,7 @@ We need to start here because our genes were selected like anyone else's. Living
 
 Modern humans still have all the perseverance, edge, grit, and other abilities and limitations from our ancestors. This manifests in many ways.
 
-Some are physiological. Such as our offspring have prolonged vulnerability after birth. To provide extended care their parents typically mate for life. Relatively high infant mortality, estimated as high as 40% for Stone Age peoples, means humans don't have mating seasons. Instead couples must be ready to procreate year round to more quickly replace any lost members.
+Some are physiological. Such as our offspring have prolonged vulnerability after birth. To provide extended care their parents typically mate for life. Relatively high infant mortality, estimated as high as 40% for Stone Age peoples, means humans don't have mating seasons. Instead couples must be ready to procreate year round which among other benefits, helps replace any lost members faster.
 
 Something else humans kept from our animal kingdom heritage, is that we do not naturally get along. While human genes had much in common, we still formed tribes to protect our specific bits of clay. Early humans lived in communities from a dozen up to 200 members. Persistent natural selection pressure meant the ever present chance of thirst, hunger, disease and tribal warfare that at times could mean as much as 30-40% of ancient humans died at the hands of another. Such was the drive to be picked by the coach.
 
@@ -909,7 +911,7 @@ The earliest fossils in our own genus, Homo (Latin for human), are about 2.8 mil
 
 With distance running, sweat, speech, and thumbs, humans were positioned for Game of Life success. We could hold spears and organize ourselves to reliably chase, exhaust, kill, and defend protein rich food like no ape ever could. We learned to crave sugar for the rare energy boosts it gave, but being omnivorous, could gather something to eat year round; especially because we learned to use rocks and sticks to dig up, open, or grind an increasingly large menu of calorie dense roots, nuts, and seeds.
 
-All these adaptations opened up new opportunities on the game board, which our growing speech abilities allowed us to easily share with each other. Crucially, this included the value of charred meat, likely learned from scavenging food after brush fires. Around 1.8 million years ago humans started our own fires to cook, and therefore predigest, our food.
+All these adaptations opened up new opportunities on the game board, which our growing speech abilities allowed us to easily share with each other. Crucially, this included the value of charred meat, likely learned from scavenging food after brush fires. Perhaps as long as 1.8 million years ago humans started our own fires to cook, and therefore predigest, our food.
 
 As tools and fire made digestion require 10-30% less energy, our jaws could get smaller, meaning our brains had both the space and energy to grow. The human skull grew from around 500 cubic centimeters (CC) of Australopithecus to around 1,350 CC of early Homo sapiens. Although brain size does not directly correlate with intelligence, it generally trends that way. Interestingly, this most powerful of human adaptations used up so much energy our head changed how its hair looks jus to remove or retain the heat billions of neurons create.
 
@@ -1095,7 +1097,7 @@ The ones we remember had success because diversity is ecosystem security. Thus, 
 
 And that's the lesson of nature we need to embrace. While we have a genetic history forever in our DNA, our genes, personalities, and culture evolved along with technological change.
 
-Meaning the technological evolution this book advocates has been driving human evolution for generations. To varying degrees, an ecosystem fields producers, plant-eaters, predators, scavengers, decomposers, and testers—because each level has energy waiting to be harvested. Human temperaments fill these niches just as animals do: hoarders, tinkerers, makers, and the rest. A coach keeps whoever keeps scoring energy points, but never assigns roles to anyone. The jobs are open, and over time, someone always grows into them to complete a balanced ecosystem full of checks and balances.
+Meaning the technological evolution this book advocates has been driving human evolution for generations. To varying degrees, an ecosystem fields producers, plant-eaters, predators, scavengers, decomposers, and testers—because each level has energy waiting to be harvested. Human temperaments fill these niches just as animals do: hoarders, tinkerers, makers, and the rest. A coach keeps whoever keeps scoring energy points, but never pre-assigns roles to anyone. The jobs are open, and over time, someone always grows into them to complete a balanced ecosystem full of checks and balances.
 
 In the technological ecosystem, varied human genotypes and phenotypes use the extended phenotype to fill distinct ecological roles: producers (farms, power plants), plant-eaters (tool users), predators (innovators), scavengers (thrift buyers), decomposers (recyclers, refactorers, waste managers), and testers (tinkerers, hackers, and crooks). Like any biological ecosystem, these segments work together to better play the game.
 
@@ -1157,9 +1159,9 @@ The last century twice demonstrated the complete failure of extreme human storyt
 
 One belief system looked at all boardmates and saw only genotype: each person is solely defined by their bloodline, so purge the dead weightand their superiors will advance civilization to untold heights. The other saw only phenotype: remake the human condition by empowering educated decision-makers to engineer a society to make everyone—not tainted by their past—a better human.
 
-Both believed they had cracked the code of human advancement. Pre-screen boardmates to create a common identity. With conflict removed, reciprocation would increase, raising the carrying capacity for everyone. Both implemented their ideas, and the world would soon find out how they worked, before evolution got a chance to judge them against natural selection.
+Both believed they had cracked the code of human advancement. Pre-screen boardmates to create a common identity. With conflict removed, reciprocation would increase, raising the carrying capacity for everyone. Both implemented their ideas, and the world would soon find out how they worked while evolution judged them using natural selection.
 
-## Chapter 12—Extremism Is Not Natural
+## Chapter 12—Extremes Are Not Natural
 
 Both the Soviet Union and Nazi Germany put their ideas into practice at full scale, on real populations, at the same time. Neither called it a test. Both were certain enough to build a state on the answers their belief systems gave them.
 
@@ -1257,17 +1259,17 @@ As we learned in the Game of Life, nature keeps score on something else entirely
 
 ## Chapter 13—Moderation Is Natural
 
-The West was different. Not by intent, but by structure. It found more reciprocation because it was moderate. The power to create and modify society and technology was placed in many hands. Legislatures, courts, states, churches, unions, universities, private companies, and other institutions each held a piece, and none held enough to disregard a whole category of persons or ideas.
+The West was different. Not by intent, but by structure. It found more reciprocation because it was moderate. The power to create and modify society and technology was placed in many hands. Legislatures, courts, states, churches, unions, universities, private companies, and other institutions each held a piece, and none held enough to disregard a whole category of persons or ideas. As a result the amount diverse mass-produced products their could make with their resources, far exceeded anyone else.
 
-Exclusion and oppression were real, and often brutal. Government overreach existed. Businesses could be very selfish. But nothing was ever total, because there was always another jurisdiction, another employer, another lab. Western boardmates were more free to play the game, and so often had to make better deals with each other: a worker making a better product, a business giving a pay raise, or a bureaucrat writing a useful regulation. Like a squirrel who dislikes a nut, if they didn't their boardmate would move on to a different product, employer, or jurisdiction. The freedom to pick from among these options meant there was room and need for genotype and phenotype identities.
+Exclusion and oppression were real in the West, and often brutal. Government overreach existed. Businesses could be very selfish. But nothing was ever total, because there was always another jurisdiction, another employer, another lab. Western boardmates were more free to play the game, and so often had to make better deals with each other: a worker making a better product, a business giving a pay raise, or a bureaucrat writing a useful regulation. Like a squirrel who dislikes a nut, if they didn't their boardmate would move on to a different product, employer, or jurisdiction. The freedom to pick from among these options meant there was room and need for genotype and phenotype identities.
 
 Complacency certainly happened, the interwar militaries being one large example. But when reality hit, like with Blitzkrieg and later Sputnik, the West's distributed structure responded faster and better than its extremist adversaries ever could. 
 
-In short, because of its moderation "Life could find a way", in the West. As a result, the technological ecosystem, from producers to predators, was staffed more completely and therefore mass-produced more diverse tools than anyone else.
+In short, because of its moderation "Life could find a way", in the West. As a result, the technological ecosystem, from producers to predators, was staffed more completely and therefore has a much larger carrying capacity of diverse mass-produced tools than anyone else.
 
 The system was not perfect. The many civil rights marches, environmental protests, and contested elections, showcase that well enough. But friction is a feature not a bug. The West looked messier, but that was because problems were actually being addressed instead of assuming ideological belief made them go away. In 1947 former British Prime Minister Churchill even joked, "democracy is the worst form of government except for all the others". That is a joke impossible to tell in many extremist societies, nevermind hear a celebrated wartime leader say it.
 
-So while never perfect, multi-party democracy with free-market economics was less blinding and therefore far more responsive to environmental changes. It's why most other fascist and communist regimes—from Chile to Vietnam—adopted some or all of its more liberal market-based practices. Sometimes an arrogant inventor really does have exceptional gifts. Sometimes a self-righteous educated bureaucrat should regulate society. Neither extreme was wrong about everything, which is exactly why neither could be discarded.
+So while never perfect, multi-party democracy with free-market economics was less blinding and therefore far more responsive to environmental changes. It's why as time went on, most other fascist and communist regimes—from Chile to Vietnam—adopted some or all of its more liberal market-based practices. Observers had learned, sometimes an arrogant inventor really does have exceptional gifts. Sometimes a self-righteous educated bureaucrat should regulate society. Neither extreme was wrong about everything, which is exactly why neither could be discarded.
 
 As biology shows many times over, an organism is a mixture of good genes and the right lessons on how to use them. An ecosystem is a mixture of these organisms, because different characteristics are needed to fill different niches. Conservatives tend to value inherited tradition and the instinct to mass-produce what works; progressives value diversity and want to embrace what's new. Both are describing something real.
 
@@ -1295,7 +1297,7 @@ Within a few decades the transistor went from undiscovered, to the size of a pen
 
 Look at the boardmates needed to birth a new tool. The pipeline includes the obsessive researcher who'd be useless at selling. The government institution-builder who thinks in decades. The risk-taker scientist who quits stable employment. The idealist engineer who gives away expensive software. The dropout who sells ten million computers. The hacker who invents a personal computer. None would excel at each other's jobs. Some do what they do because of genetic traits like intelligence, arrogance, or stubbornness. Others are converts to belief systems of altruism or greed. No ideology covers each person. Each is a different mixture of genotype and phenotype identities. They each have temperaments every society produces and every ecosystem needs to originate new mutations, test which versions are best, produce them, and then predate, scrap, hack, and recycle them to keep the process going.
 
-The fight between all these perspectives never ends, and shouldn't. How much public investment is needed, who captures the profit, who carries the risk—that argument is real. But it's a quarrel at the edges like plant life fighting for sunshine or predators for the best hunting grounds. No player should ever envision a place without such competition. From times immemorial, boardmates depend on what other creatures contribute to the shared ecosystem's use of energy. 
+The fight between all these perspectives never ends, and shouldn't. How much public investment is needed, who captures the profit, who carries the risk—that argument is real. But it's a quarrel at the edges like plant life fighting for sunshine or predators for the best hunting grounds. No player should ever envision a place without such competition. From times immemorial, boardmates depend on what only different creatures can contribute to the shared ecosystem's efficient and continual harvesting of energy. 
 
 Like in nature, each new creation found a new efficiency, releasing more energy into the ecosystem. The West's moderation meant its people could not only start this process, but keep it going to keep birthing and mass-producing more diverse tools. 
 
@@ -1337,15 +1339,15 @@ As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a
 
 We start by understanding every individual is the unit of selection. Like all lifeforms, every person is trying to be as lazy as possible. So, everyone inside these echo chambers can act rationally when out to get a better job but all were still collectively doomed because their pursuit masked reality. 
 
-Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies. Heck, String Theory went from the most promising direction in physics in the 1990s to openly mocked for its inability to produce a single testable prediction. Everyone knew it might end this way, and it was okay to say so. Nobody was arrested. Now cutting-edge funding and students drift elsewhere while its defenders are allowed to keep researching.
+Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies. Heck, String Theory went from possibly explaining the biggest secrets in physics in the 1990s to now openly mocked for its inability to produce a single testable prediction. Everyone knew it might end this way, and it was always okay to say so. Now cutting-edge funding and students drift elsewhere while its defenders are allowed to keep researching.
 
-That's the environment we can have to help us sort, see, and remove human error faster in identity, politics, and economics.
+Physics has this freedom because it measures external forces and values prediction and results above position and intent. That's the environment we can have to help us sort, see, and remove human error faster in identity, politics, and economics.
 
-Faster because we'll see everyone inside an ecosystem, just one of technological adaptations instead of biological. We'll know that controlling a technology doesn't mean being safe from evolution, because ours is now technological. So, like we understand growth, speciation, migration patterns, energy flow, predators, grazers, scavengers on the biological gameboard, so we can understand ourselves and each other against whatever stories we tell. Thus, more sunlight through the cracks of whatever bunkers and palaces we build.
+Because we can measure growth, speciation, migration patterns, predators, grazers, scavengers etc. on the biological gameboard, because these all deal with energy flow. Just like in biological ecosystems each lifeform has a role, each action is measure for its effectiveness in harvesting energy inside the ecosystem.. Measuring them means we can understand ourselves and each other against whatever stories we tell. Thus, more sunlight through the cracks of whatever bunkers and palaces we build.
 
 But before we can become the new modern squirrel to better assess our tool options (mixed ideological politics) and plant trees by default (bumble bee economics) we must change our identity. 
 
-A new identity is being a self-aware selector inside a technological ecosystem. Realizing with every choice you make, you are the coach in the Game of Life. You always were because we replaced nature's coach with ourselves a long time ago. What changes is knowing it.
+A new identity is being a self-aware selector inside a technological ecosystem. Realizing with every choice you make, you are the coach in the Game of Life. You always were because we replaced nature's coach with ourselves a long time ago. What changes is knowing this defines identity, politics, and economics more than any story.
 
 Your daily actions are the only way humanity plays the game. Not your beliefs. Not your intent. Natural selection is just a consequence of which organism can best harvest resources and procreate. The coach always judges your actions not your beliefs.
 
@@ -1373,7 +1375,7 @@ Our problem is not lack of technology. We have all the seeds, plants, creatures 
 
 We are in a new environment. No one has ever grown an ecosystem using digital technology. Fitting to any organism, we are figuring out what works, but not with study and foresight, but with pain. We are the raccoon. We are Maria. We have a stutter. But these are states of mind to reflect and act on and need not be something to suffer.
 
-Entropy doesn't decide whether life prospers. Life does by harvesting energy to organiz matter and shedding what no longer fits. Whether your lineage continues depends on whether you do the work.
+Entropy doesn't decide whether life prospers. Life does by harvesting enough energy to organiz matter and shedding what no longer fits. Whether your lineage continues depends on whether you do the work.
 
 You are not powerless. You are the unit of selection. Your daily choices make the future of life. You can use the rules of physics, chemistry, geology and evolution to make life prosper.
 
