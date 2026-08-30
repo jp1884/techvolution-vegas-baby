@@ -817,7 +817,7 @@ That's why this book wants you to embrace being a technological being. Not becau
 
 We realize this truth in the natural world, so should be able to make the leap and understand the truth of our existence by realizing we are simply inside a technological version of the Game of Life. Then we can start to knowingly play it, persist our lineages, and therefore win.
 
-The booklet of rules, game board of environments, sand clock of time, bits of clay, and a scoreboard are all there. As is the circle of producers, plant-eaters, predators, scavengers, decomposers, and testers in our own ecosystems too. This is happening all around us.
+The booklet of rules, game board of environments, sand clock of time, bits of clay, and a scoreboard are all there. As is the circle of producers, plant-eating consumers, predators, scavengers, decomposers, and testers in our own ecosystems too. This is happening all around us.
 
 So why don't we see it?
 
@@ -885,7 +885,7 @@ But, what does that mean for you?
 
 We accept that sloths are always slow, ants always serve their colony, elephants always love their families. We accept every creature has unique natures. That doesn't mean every individual lifeform is always predictable, but it does mean creatures have features, requirements, and instincts that can't be changed because these are the traits that kept paying off when the coach was selecting lifeforms for the board.
 
-There's a record of natural selection's picks. The tree of life describes the relationships between organisms both living and extinct. It's a huge list of producers, plant-eaters, predators, scavengers, decomposers, and testers, continually removed and added as the board shifts. No one reciprocates on purpose; each just harvests what it can, and the sum keeps the ecosystem's carrying capacity full.
+There's a record of natural selection's picks. The tree of life describes the relationships between organisms both living and extinct. It's a huge list of producers, plant-eating consumers, predators, scavengers, decomposers, and testers, continually removed and added as the board shifts. No one reciprocates on purpose; each just harvests what it can, and the sum keeps the ecosystem's carrying capacity full.
 
 Humanity is on this tree like any other being. Our last common ancestor with our hominid cousins chimpanzees and bonobos lived between perhaps eight to six million years ago. Long in our timeframe, but very minimal in the evolutionary one.
 
@@ -1051,13 +1051,13 @@ The invention of agriculture was the dawn of civilization. It's called the Neoli
 
 In every instance civilization drastically increased the productivity of land. For the first time ever, humans had a relatively stable food supply throughout the year.
 
-Freed from the daily hunting and gathering treks, humans had more time on our hands and crucially more jobs to do. We strayed more from the wilderness realm and built new things, divided the labor to do it, and created political regimes to keep everyone working. Within a few thousand years the Stone Age turned into the Bronze, Copper, then Iron Age, each stage remade civilization based on an amazing new material to build the latest tools.
+Freed from the daily hunting and gathering treks, humans had more time on our hands and crucially more jobs to do. We strayed more from the wilderness realm and built new things, divided the labor to do it, and created political regimes to keep everyone working. Within a few thousand years the Stone Age turned into the Copper, Bronze, then Iron Age, each stage remade civilization based on an amazing new material to build the latest tools.
 
-As civilization progressed with each passing year, our nature was increasingly technological. Not necessarily because that's what human nature wanted, or because that's what made us happier, but for the same reason all species such as polar bears and Darwin's finches are created. Because the coach selects the ones harvesting more resources on the game board to help life defeat entropy's sand clock.
+As civilization progressed with each passing year, our nature was increasingly technological. Not necessarily because that's what human nature wanted, or because that's what made us happier, but for the same reason all species such as polar bears and Darwin's finches find success. Because the coach selects the ones harvesting more resources on the game board to help life defeat entropy's sand clock.
 
-With each new technological selection, the coach was creating a new type of player. 
+With each new technological selection, the coach was carving a new type of player out of life's living clay.
 
-Think how weird and wonderful it is that all humans can breed with each other. We can live anywhere. Most amazingly, anyone can use any tool. Most every tech nerd has been asked help someone setup a new iphone or printer. Yet, once setup, these users connect with friends and buy airline tickets.
+Think how weird and wonderful it is that all humans can breed with each other. We can live anywhere. Most amazingly, anyone can use any tool. Most every tech nerd has been asked to help someone setup a new iphone or printer. Yet, once setup, these users connect with friends and buy airline tickets.
 
 This isn't an accident. Designers iterate for generations to make their tools work for everyone. Steve Jobs was exceptional at it. There are stories of a child in the Amazon handed an iPad and using it without instruction. Better to me is the fact, it's not hard to imagine how a person living in a jungle could use an iPad and satellite internet to better his life, if only to see where the loggers are headed to next.
 
@@ -1079,9 +1079,9 @@ I often wonder how my speech impediment would have changed in earlier times. At 
 
 Of course I don't know this, but I only mean to illustrate a point that the many different personalities, body types, mental abilities, and other characteristics in humans today has genetic roots in people sitting by a fire thousands of years ago. We carry all these with us today, and these quirks find a good home in civilization. For myself, not being able to talk too much, undoubtedly changed personal development. It made it easier to empathize with others while also making me indignant against social rules about what is polite or acceptable to say because these add another layer of complexity when I was often happy to say anything at all.
 
-As noted geneticst Theodosius Dobzhansky said, "The pervasiveness of genetic variation provides the biological foundation of human individuality." The point for us being, the technological ecosystem had many open spots, and often our wonderfully unique personalities fit into these niches.
+As noted geneticist Theodosius Dobzhansky said, "The pervasiveness of genetic variation provides the biological foundation of human individuality." The point for us being, the technological ecosystem had many open spots, and often our wonderfully unique personalities fit into these niches.
 
-Edward Gibbon had a severe medical problem, forcing him to sit for years of his life. In the wild he'd be disadvantaged if not left for dead, in civilization he wrote likely the best history book of all time, _The Decline and Fall of the Roman Empire_. 
+Edward Gibbon had a severe medical problem, forcing him to sit for years of his life. In the wild he'd be disadvantaged if not left for dead, in civilization he wrote one of the best history books of all time, _The Decline and Fall of the Roman Empire_. 
 
 History has endless examples of such people. Let's take Isaac Newton and Steve Jobs. On the biological scoreboard these men were failures or oddities—Newton likely died a virgin, Jobs washed his feet in toilets. On the technological one they scored higher than almost anyone who ever lived. The biological and technological scoreboards don't measure the same thing, and civilization is where that gap becomes an asset instead of a death sentence.
 
@@ -1097,19 +1097,31 @@ The ones we remember had success because diversity is ecosystem security. Thus, 
 
 And that's the lesson of nature we need to embrace. While we have a genetic history forever in our DNA, our genes, personalities, and culture evolved along with technological change.
 
-Meaning the technological evolution this book advocates has been driving human evolution for generations. To varying degrees, an ecosystem fields producers, plant-eaters, predators, scavengers, decomposers, and testers—because each level has energy waiting to be harvested. Human temperaments fill these niches just as animals do: hoarders, tinkerers, makers, and the rest. A coach keeps whoever keeps scoring energy points, but never pre-assigns roles to anyone. The jobs are open, and over time, someone always grows into them to complete a balanced ecosystem full of checks and balances.
+Meaning the technological evolution this book advocates has been driving human evolution for generations. To varying degrees, an ecosystem fields producers, plant-eating consumers, predators, scavengers, decomposers, and testers—because each level has energy waiting to be harvested. Human temperaments fill these niches just as animals do: hoarders, tinkerers, makers, and the rest. A coach keeps whoever keeps scoring energy points, but never pre-assigns roles to anyone. The jobs are open, and over time, someone always grows into them to complete a balanced ecosystem full of checks and balances.
 
-In the technological ecosystem, varied human genotypes and phenotypes use the extended phenotype to fill distinct ecological roles: producers (farms, power plants), plant-eaters (tool users), predators (innovators), scavengers (thrift buyers), decomposers (recyclers, refactorers, waste managers), and testers (tinkerers, hackers, and crooks). Like any biological ecosystem, these segments work together to better play the game.
+In the technological ecosystem, varied human genotypes and phenotypes use the extended phenotype to fill distinct ecological roles: producers (farms, power plants), tool-using consumers (workers, homeowners, drivers), predators (innovators), scavengers (thrift buyers, auction goers), decomposers (recyclers, refactorers, waste managers), and testers (tinkerers, hackers, and crooks). Like any biological ecosystem, these segments work together to better play the game.
 
-Producers grow the food or generate the electricity that powers technology. Plant-eaters —most of us—use tools to stay warm or cool, gather resources, raise their young.
+Note, these roles are older than any tool that fills them. Something has broken down dead matter for a billion years. Bacteria, fungi, beetles, wreckers. The adaptation, job, identity, and tool have an expiry date. The role doesn't.
 
-Predators hunt inefficiency and close it, just as streaming didn't beat Maria's DVD store by being a faster store—it consumed the wasted time the rental model depended on. With that prey gone, the innovator hunts the next inefficiency.
+Producers grow the food or generate the electricity that powers technology. Consumers—most people most of the time—use tools to stay warm or cool, gather resources, raise their young.
+
+Predators hunt inefficiency. Wherever a tool wastes time, energy, or material, someone eventually notices. The innovator isn't attacking any person, but the tool that's falling behind. Like any predator, they take what's slowest and easiest to catch. When that prey is gone, the innovator moves to the next inefficiency.
 
 Scavengers can't help but use, collect, and hoard every last piece of technology everyone else thinks is junk. Decomposers break down dead technology back into reusable inputs like wreckers recycling total loss cars.
 
 Now for viruses, or what I like to call testers. These are the people who come up with novel ideas using existing technologies, just as viruses have long introduced new genetic material across biological organisms to drive genetic changes. Sometimes these changes are helpful innovations, and sometimes they are overtly parasitic actions of nefarious actors like crooks—the latter of which I dealt with so often while adjusting insurance claims (and was often accused of being one myself which makes one reflect). Either way, by constantly hacking lifeforms, testers evaluate every member of the ecosystem for its fitness to withstand its draining of energy while constantly tinkering, acting as an ever-present selection pressure. (Note: testers is not a standard ecological classification; I'm using it for simplification purposes.)
 
-The need to invent, power, and manually operate tools changed how humans were selected. Where biological ecosystems often assign these roles to a dedicated species, ours assigned them to dedicated temperaments: the hoarder who can't throw anything away, the innovator who can't leave a slow tool alone, the tinkerer who breaks things to see how they work. Like omnivores, we can each be a mix, of course, but together our personalities cover every job in the food web. That's how, even though we were leaving the biological ecosystem behind, we were building another technological one beside it.
+Let's look at each role in how streaming replaced Maria's DVD store. Producers converted energy into digital content, burned from hard drives onto plastic discs in the millions and trucked to stores. Consumers drove, picked up, watched, and satisfied their need for stories—a 20-minute round trip for two hours of content, hundreds of miles a year per family.
+
+Innovators locked their eyes on this waste. They mutated the available material, digitized content, hard drives, home theaters, but cut out the physical discs. Instead they empowered people with high-speed internet to download from centralized hard drives.
+
+These new tool owners were predators. They sought to replace the disc with smart TVs and streaming sticks the DVD stores never recognized as a threat. It worked. Every increase in download speed eliminated a little more of the DVD's user base, because the drive, the late fee, and the empty shelf on Friday night were like air drag on the wings of a bird. Hackers tested the old system by making illegal downloads available when streaming wasn't. The result was people and their tools became more aerodynamic, more efficient, with every download. 
+
+Producers switched from making DVDs to making data center hard drives and fiber-optic cables. Demo teams smashed the closed stores and warehouses and collected the spare computers, trucks, and shipping equipment. This material and any excess merchandise was auctioned off to whoever could scavenge the last bit of value from the meat of the dead DVD industry.
+
+Maria's customers weren't stolen from her. They watched their stories with a faster set of adaptations, as a new technological species. The energy flow biologists study so well happens with human roles too. The energy saved built faster networks, data centers, and computers that enabled—among other things—the music videos, instruction videos, and documentaries. Maria lost her regional manager identity. Her ecosystem benefitted enormously, and she could have too.
+
+The need to invent, power, and manually operate tools changed how humans were selected. Where biological ecosystems' roles are often captured by a dedicated species, ours are captured by people with dedicated temperaments: the hoarder who can't throw anything away, the innovator who can't leave a slow tool alone, the tinkerer who breaks things to see how they work. Like omnivores, we can each be a mix, of course, but together our personalities cover every job in the food web. That's how, even though we were leaving the biological ecosystem behind, we were building another technological one beside it.
 
 Humans were no longer just hunting and gathering what nature made available, but instead creating and operating a new ecosystem in a modified Game of Life. Civilized humans kept scoring points. Death rates by wars, disease, and infant mortality drop over time as civilization advances from Stone to Bronze, to Iron Ages and beyond because we expanded our environment's carrying capacity with more food, housing, and fresh water. 
 
@@ -1403,7 +1415,7 @@ The gameboard is completely unbiased. It's constructed by the laws of physics, c
 
 Each new assembly is a unique variation. Look at the peppered moth becoming lighter, darker, lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
 
-Natural selection is life's coach. It finds the forms that best read the environment's patterns—when smog comes, rain arrives, or winter ends—and integrates them into the ecosystem of producers, plant-eaters, predators, scavengers, decomposers, and testers. The coach does not list any roster requirements. Players who harness energy into matter more efficiently are picked to battle entropy. Players who adapt faster pick themselves.
+Natural selection is life's coach. It finds the forms that best read the environment's patterns—when smog comes, rain arrives, or winter ends—and integrates them into the ecosystem of producers, consumers, predators, scavengers, decomposers, and testers. The coach does not list any roster requirements. Players who harness energy into matter more efficiently are picked to battle entropy. Players who adapt faster pick themselves.
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
