@@ -5420,3 +5420,230 @@ Nature can't read our name-tags either. Only actions register, and nearly all of
 This is because of something we learned earlier when noting the Milgram experiment. This was the test where participants shocked a "learner" for failing to remember some words, when the pencils that would have helped the troubled man remember better were within arms reach. With power spread across so many centers, someone in the West could find a way to pick up, give, or make a needed tool. Thus, the ethical could help the needy, dreamers could open a business, risk-takers could challenge a boss, regulators could insist on safety upgrades, academics found somewhere to research, and customers were free to buy what they needed.
 
 ===
+
+### Story—New Tools Again
+
+The information from a crash is very sporadic. One big problem is at-fault drivers often don't report their claim, especially if they don't have collision coverage.
+
+But adjusters need to confirm liability. And we have the right to do it too. Being insured for thousands to millions of dollars comes with some obligations.
+
+Adjusters are what's called the "Second Party," meaning we are a legal association with the "First Party" insured, especially when someone else, the "Third Party," makes a claim against you. We can ask any relevant question, and the insured can't withhold information. This is what makes processing insurance claims so educational. We literally step into the shoes of our customer's situation and must either vouch for, or disprove, their stories.
+
+When another insurance company doesn't have their side of a crash reported, we send a "Third Party Report" requesting they open one up and investigate.
+
+I called out on many such claims. Usually our driver would confirm the details and not want to open a claim up for their own damages.
+
+One time was especially different.
+
+Our driver tells me the third party's story is bogus. The insured said he wasn't in a car crash, and he wasn't even in the city! Fraud, he told me—the other driver is committing fraud!
+
+So I emailed the other adjuster, who replied with a picture.
+
+I wish I had it now. I can still see every detail. It was amazing, worthy of remembrance.
+
+First, it was perfectly sharp with no focus or artifact problems. It was the middle of a sunny day, so lighting was spot on. It was taken by the other driver leaning outside of his window—so there were no obstacles in the way.
+
+The picture was taken at an intersection in a small downtown core.
+
+A white van was in front, with the same brand as my insured's. The license plates were clean, readable, and correct. The street signs for the intersection were billboard legible. The town's clock tower was even in the background telling the time. And the best part: my insured's face was visible in the reflection of his side mirror. He was clearly frowning, like someone who just reversed into someone, as the other guy was claiming.
+
+The thing is, images don't show movement. I couldn't technically use this image to confirm liability.
+
+But that picture was so perfect, my insured just said, "I'm sorry."
+
+I'll take this moment to say, please get a car dash camera installed. It makes pictures like this common—but still amazing.
+
+===
+
+### Story—Last call
+
+**BEEP.**
+
+**BEEP.**
+
+**BEEP.**
+
+**Thank you for calling claims, my name is Peter, how can I help you?**
+
+You're calling to discuss a property claim. You are unhappy and want to speak to a manager. Escalation. I'm going to the property department soon. I can't wait to learn and do something different.
+
+**BEEP.**
+
+**BEEP.**
+
+**Thank you for calling claims.**
+
+Other insurance company sharing crash details and confirming who is at fault.
+
+**BEEP.**
+
+**BEEP.**
+
+We already paid for the vehicle repairs. But the repairs never completed. Claim is over a year old. The claim window, per government regulation, expires after one year. Insured wants the work done now. Now what?
+
+**Thank you for calling claims.**
+
+Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. No good reason why the claim wasn't processed earlier. Now what? A long and angry call I bet.
+
+**BEEP.**
+
+**BEEP.**
+
+**Thank you for calling claims.**
+
+Will this be my last queue call? Young lady reports a car crash. She was downtown having fun in the big city. She got into a sideswipe accident.
+
+Oh no. These are the worst. There'll be a dispute over who changed lanes, and I'll have to hear how the government's 50/50 rule is an injustice.
+
+Wait. What?
+
+She says she was charged for careless driving and improper lane change.
+
+That's easier. The cops settled liability.
+
+Then she says the other driver had a dashcam. The crash was recorded. After seeing it, the cops charged her.
+
+Even easier.
+
+Wait. What?
+
+Did she just say:
+
+*"Think of it. How bad of a driver does the other guy have to be, to need a dash cam? I shouldn't be at fault."*
+
+Even now. And she believes it too. What a last call.
+
+"No, you are 100% at fault. Your rental can repairs are approved. Yes you are 100% at-fault."
+
+**BEEP.**
+
+**BEEP.**
+
+One more.
+
+_"Hello, I'd like to report a claim. One of my cows slipped on ice and hurt herself."_
+
+Yes, I can help you of course. I must admit I've never heard of this. I will take down the details and someone from the property department will contact you soon. I'm actually headed there next week. This is my last queue call.
+
+Let's get started. How did your cow get hurt?
+
+===
+
+
+### Story—Last call
+
+<!-- snow day? or add what part asking reader what they'd do in a crash? aim for a  -->
+
+**Thank you for calling claims, my name is Peter, how can I help you?**
+
+An insurance broker looking for an update on a rental car status. I can help you with that. 5 mins. Approve additional rental days if there was a mistake somewhere or the call goes too long.
+
+**BEEP.**
+
+**Thank you for calling claims, my name is Peter, how can I help you?**
+
+You're calling to discuss a property claim. You are unhappy and want to speak to a manager. Escalation. I'm going to the property department soon. I can't wait to learn and so something different.
+
+**BEEP.**
+
+**Thank you for calling claims.**
+
+Other repair company sharing crash details and confirming who is at fault.
+
+**BEEP.**
+
+We already paid for the vehicle repairs. But the repairs never completed. Claim is over a year old. The claim window, per government regulation, expires after one year. Insured wants the work done now. Now what?
+
+**Thank you for calling claims.**
+
+Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. No good reason why the claim wasn't processed earlier. Now what? A long and angry call I bet.
+
+**BEEP.**
+
+Will this be my last queue call?
+
+**Thank you for calling claims.**
+
+Young lady reports a car crash. She was downtown having fun in the big city. She got into a sideswipe accident.
+
+Oh no. These are the worst. There'll be a dispute over who changed lanes, and I'll have to hear how the government's 50/50 rule is an injustice.
+
+Wait. What?
+
+She says she was charged for careless driving and improper lane change.
+
+That's easier. The cops settled liability.
+
+Then she says the other driver had a dashcam. The crash was recorded. After seeing it, the cops charged her.
+
+Even easier.
+
+Wait. What?
+
+Did she just say:
+
+*"Think of it. How bad of a driver does the other guy have to be, to need a dash cam? I shouldn't be at fault."*
+
+"No, you are 100% at fault."
+
+A lady tricking herself. What a last call.
+
+**BEEP.**
+
+One more.
+
+"Hello, I'd like to report a claim. One of my cows slipped on ice and hurt herself."
+
+===
+
+Headlights
+
+| | **1982 Sealed Beam** | **2026 Headlight Assembly** |
+|---|---|---|
+| **Part cost (nominal)** | ~$8–$15 per unit | $300–$1,000+ per side (LED); up to $4,000+ for premium |
+| **Part cost (2026 dollars)** | ~$25–$48 | $300–$4,000+ |
+| **Labor time** | 5–10 minutes, DIY-friendly | 30 min to several hours; often requires bumper removal |
+| **Labor cost** | Near zero (truly self-service) | $100–$1,000 per side depending on vehicle |
+| **Total real-world cost** | ~$25–$50 all-in (2026 dollars) | $400–$5,000+ all-in for complex systems |
+| **Availability** | Any auto parts store, universal fit | Model-specific, sometimes weeks on back-order |
+
+===
+
+
+### Story-Winter Is Coming
+
+I was on the phone and heard the answer to my question: "Yes, you must come into the office. It's a work day." I was chagrined and befuddled. Car crashes were sure to come. I knew that because I was standing in two feet of rising snow and ice.
+
+Nonetheless, I finished shoveling, got into my tiny sedan, and set off.
+
+If you've never driven in high snow, the trouble is mainly getting started, stopping, and changing direction. Low friction between tire and snow-covered road is to blame. Once the snow gets high enough, a car simply bottoms out and gets stuck.
+
+I'd processed claims during winter storms before, but this was the first time I was pretty sure I'd be filing a claim of my own.
+
+I made it out of my local roadway onto a larger collector road. I was driving on the wrong side of the unplowed street because that's where the tracks led. I had no choice but to continue, and I kept thinking about what would happen if a plow happened to be coming this way.
+
+It wasn't. I reached the main arterial road, which was plowed regularly. I trickled along and got to work. The claims bell was dinging all day. There wasn't much we could actually do. Tow truck services, rental companies, and repair shops were already overwhelmed.
+
+We started claims and comforted people with the knowledge that insurance money was available, but the replacement tools they needed were on backorder for a few days. Most people understood. Winter storms come every year, after all.
+
+The snow kept falling. We were sent home early to try to get back safely. I drove two co-workers home. I was proud of my winter driving. I never got stuck, though I had to drop one of them off a few blocks from her house.
+
+I can't recall how many claims I handled that day. Hundreds of thousands of dollars in damage and several injuries at least. It made me recall my university days.
+
+I played many strategy games and city builders when I was a kid. I loved the idea of managing resources and building an environment that fosters a happy life. It's why I enrolled in city planning in university.
+
+I also worked through school. One of those jobs was analyzing ads in business-to-business magazines. After a year there, I was allowed to work from home four days a week. I slept an extra hour each day, my grades improved, I saved much-needed cash, and I exercised more. The exact same work got done.
+
+I happily mentioned this to my transportation professor. After all, broadband internet was saturating the country. He dismissed it: "We tried this a decade ago and managers didn't like it." He went back to teaching traffic control management. The practice of timed lights on highway on-ramps, coordinated traffic signals, variable message signs to smooth flow across local roads, collectors, and arterials.
+
+Playing games like Civilization is where these thoughts about our imperfect technological evolution started. Because what's better for traffic management than fewer vehicles on the road? A person committed to a toolset sees that as a threat, a player of the game sees that as a solution.
+
+Partly because of that class, I switched my specialty to political theory. I was already a history student and could see workers building the Magniot Line as passenger airplanes wized overheard. Unlike chess or soccer, you don't win in a city-builder just because the other side loses. In city-builders, as in evolution, the players win by managing resources as the field of play itself changes.
+
+Fast forward to starting insurance. I followed my instincts and went back to my alma mater. In one of the biggest libraries in the world, insurance books took up a single section of a single stack. Almost nothing. But there was a gem: _Insuring the Industrial Revolution_ by Robin Pearson. One of the best history books I've read. Pearson goes through painstaking detail about how insurance let Britain industrialize as fast as it did.
+
+Cities and towns used to burn down. Early insurance companies helped rebuild cities, and helped people undertake the risk of doing so. As the companies got larger, so did cities. Chicago (1871), Boston (1872), Toronto (1904), and San Francisco (1906). Now, established insurance companies helped institutionalize firefighters, fire escapes, fire extinguishers, and fire drills. Also there was significant urban redesign and rebuilding, shaping what those cities look like today.
+
+Surely, the industry that paid for car crashes would have interest in reducing the risk of crashes. Yet with the crashes of the burgeoning Internet Age, the bell was still dinging. I kept wondering why. This is how modern people play the game, but not how any ecosystem or society wins it.
+
+===

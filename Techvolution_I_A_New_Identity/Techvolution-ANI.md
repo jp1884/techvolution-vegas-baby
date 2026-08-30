@@ -1109,7 +1109,7 @@ Predators hunt inefficiency. Wherever a tool wastes time, energy, or material, s
 
 Scavengers can't help but use, collect, and hoard every last piece of technology everyone else thinks is junk. Decomposers break down dead technology back into reusable inputs like wreckers recycling total loss cars.
 
-Now for viruses, or what I like to call testers. These are the people who come up with novel ideas using existing technologies, just as viruses have long introduced new genetic material across biological organisms to drive genetic changes. Sometimes these changes are helpful innovations, and sometimes they are overtly parasitic actions of nefarious actors like crooks—the latter of which I dealt with so often while adjusting insurance claims (and was often accused of being one myself which makes one reflect). Either way, by constantly hacking lifeforms, testers evaluate every member of the ecosystem for its fitness to withstand its draining of energy while constantly tinkering, acting as an ever-present selection pressure. (Note: testers is not a standard ecological classification; I'm using it for simplification purposes.)
+Now for viruses, or what I like to call testers. These are the people who find novel uses for existing technology, just as viruses move genetic material between organisms. Sometimes the result is a helpful innovation, sometimes it's a crook—I dealt with plenty of those adjusting claims, and was accused of being one often enough to reflect on it. Either way, by constantly hacking whatever exists, testers check every member of the ecosystem for its fitness, acting as an ever-present selection pressure. (Testers isn't a standard ecological classification; I'm using it for simplicity.)
 
 Let's look at each role in how streaming replaced Maria's DVD store. Producers converted energy into digital content, burned from hard drives onto plastic discs in the millions and trucked to stores. Consumers drove, picked up, watched, and satisfied their need for stories—a 20-minute round trip for two hours of content, hundreds of miles a year per family.
 
@@ -1119,9 +1119,9 @@ These new tool owners were predators. They sought to replace the disc with smart
 
 Producers switched from making DVDs to making data center hard drives and fiber-optic cables. Demo teams smashed the closed stores and warehouses and collected the spare computers, trucks, and shipping equipment. This material and any excess merchandise was auctioned off to whoever could scavenge the last bit of value from the meat of the dead DVD industry.
 
-Maria's customers weren't stolen from her. They watched their stories with a faster set of adaptations, as a new technological species. The energy flow biologists study so well happens with human roles too. The energy saved built faster networks, data centers, and computers that enabled—among other things—the music videos, instruction videos, and documentaries. Maria lost her regional manager identity. Her ecosystem benefitted enormously, and she could have too.
+Maria's customers weren't stolen from her. They watched their stories with a faster set of adaptations, as a new technological species. The energy flow biologists study so well happens with human roles too. The energy saved built faster networks, data centers, and computers that enabled—among other things—the music videos, instruction videos, and documentaries. Maria lost her regional manager identity. The technological ecosystem saved energy to reinvest into building more advanced adaptations. Maria's ecosystem benefitted enormously, and she could have too.
 
-The need to invent, power, and manually operate tools changed how humans were selected. Where biological ecosystems' roles are often captured by a dedicated species, ours are captured by people with dedicated temperaments: the hoarder who can't throw anything away, the innovator who can't leave a slow tool alone, the tinkerer who breaks things to see how they work. Like omnivores, we can each be a mix, of course, but together our personalities cover every job in the food web. That's how, even though we were leaving the biological ecosystem behind, we were building another technological one beside it.
+The need to invent, power, and manually operate tools changed how humans were selected. Where biological ecosystems' roles are often captured by a dedicated species, ours are captured by people with dedicated temperaments: the hoarder who can't throw anything away, the innovator who can't leave a slow tool alone, the tinkerer who breaks things to see how they work. Like omnivores, we can each be a mix, of course, but together our personalities cover every job in the food web's energy flow. That's how, even though we were leaving the biological ecosystem behind, we were building another technological one beside it.
 
 Humans were no longer just hunting and gathering what nature made available, but instead creating and operating a new ecosystem in a modified Game of Life. Civilized humans kept scoring points. Death rates by wars, disease, and infant mortality drop over time as civilization advances from Stone to Bronze, to Iron Ages and beyond because we expanded our environment's carrying capacity with more food, housing, and fresh water. 
 
@@ -1173,6 +1173,46 @@ One belief system looked at all boardmates and saw only genotype: each person is
 
 Both believed they had cracked the code of human advancement. Pre-screen boardmates to create a common identity. With conflict removed, reciprocation would increase, raising the carrying capacity for everyone. Both implemented their ideas, and the world would soon find out how they worked while evolution judged them using natural selection.
 
+## Story—Winter Is Coming
+
+I was on the phone and heard the answer to my question: "Yes, you must come into the office. It's a work day." I was chagrined and befuddled. Car crashes were sure to come. I knew that because I was standing in two feet of rising snow and ice.
+
+Nonetheless, I finished shoveling, got into my tiny sedan, and set off.
+
+I'd processed claims during winter storms before, but this was the first time I was pretty sure I'd be filing a claim of my own.
+
+I made it out of my local roadway onto a larger collector road. I drove on the wrong side of the unplowed street. I had no choice because that's where the tracks led in the high-snow. I kept thinking about what would happen if a plow came this way.
+
+It didn't. I reached the main arterial road, which was plowed relatively often. I trickled along and got to work. The claims bell was dinging all day. There wasn't much we could actually do. Tow truck services, rental companies, and repair shops were already overwhelmed.
+
+Most people understood there were delays from tow trucks to rental cars. Winter storms come every year, after all.
+
+The snow kept falling. We were sent home early to try to get back safely. I drove two co-workers home. I was proud of my winter driving. I never got stuck.
+
+I can't recall how many claims I handled that day. Hundreds of thousands of dollars in damage and several injuries at least. It made me think of something.
+
+I loved playing strategy games and city builders as a kid. There was something about managing resources and building an environment that fosters a happy life. It's why I enrolled in city planning at university.
+
+I also worked through school. One of those jobs was analyzing ads in business-to-business magazines. After a year there, I was allowed to work from home four days a week. I slept an extra hour each day, my grades improved, I saved much-needed cash, and I exercised more. The exact same work got done.
+
+I happily mentioned this to my transportation professor. After all, broadband internet was saturating the country. He dismissed it: "We tried this a decade ago and managers didn't like it." He went back to teaching traffic control management: timed lights, coordinated signals, variable message signs.
+
+What's better for traffic management than fewer vehicles on the road? Especially in snowstorms or energy shocks. But impossible, apparently, because remote doesn't work. A funny opinion because my job was soon outsourced to another continent and that raised no objections from anyone.
+
+Partly because of that class, I switched my specialty to history and political theory. One cannot kick cans down the road in simulation games. The player must make choices like figuring out what to do when snow blankets roads or energy costs spike.
+
+We either make those hard choices or let them overtake us. A person committed to a toolset sees fewer cars as a threat. A person committed to a toolset sees fewer cars as a threat. A player sees a solution that frees energy to spend elsewhere.
+
+Unlike chess, baseball, or school, you don't win in a city-builder just because the other side loses. In city-builders, as in evolution, players can only win if they manage resources in the changing field of play well enough to keep ahead of entropy.
+
+Who has an interest in that more than insurance?
+
+When I started my insurance job, I went back to my alma mater and found that in one of the biggest libraries in the world, insurance took up a single section of a single stack. But there was a gem: _Insuring the Industrial Revolution_ by Robin Pearson, on how insurance helped Britain industrialize as fast as it did.
+
+One example is how cities used to burn down. Chicago, Boston, Toronto, San Francisco. Insurers paid to rebuild them, and as the companies grew they institutionalized firefighters, fire escapes, extinguishers, and drills. They stopped paying for fires by preventing them.
+
+Surely the industry that paid for car crashes would want fewer car crashes. Yet the bell was still dinging. I kept wondering why. This is how modern people play the game, but not how any ecosystem or society wins it.
+
 ## Chapter 12—Extremes Are Not Natural
 
 Both the Soviet Union and Nazi Germany put their ideas into practice at full scale, on real populations, at the same time. Neither called it a test. Both were certain enough to build a state on the answers their belief systems gave them.
@@ -1187,11 +1227,11 @@ Let's showcase why focusing human identity on the genotype was bound to fail by 
 
 It starts in the previous war. German strategy in 1914 aimed at defeating France quickly by invading through Belgium, then turning east to fight Russia. Being in the middle of Europe and easy to blockade, Germany wanted to avoid a long two-front war that would strain its resources. It failed.
 
-World War I was the first war after industrialization. For the first time tractors supplied constant food, so soldiers could war year round. Worse, they had machine guns, with massive amounts explosives and artillery. Old battlefields would be miles long with hundreds of thousands of men. Now they were thousands of miles of trenches and bunkers with millions of men, machine guns, and high-explosives. No side could maneuver into a favorable position. Soldiers thus attacked each other in waves trying to ram through the enemies defenses while relaying observations to commanders far away from the battlefield.
+World War I was the first war after industrialization. For the first time tractors supplied constant food, so soldiers could war year round. Worse, they had machine guns, with massive amounts explosives and artillery. Old battlefields would be miles long with hundreds of thousands of men. Now they were thousands of miles of trenches and bunkers with millions of men, machine guns, and high-explosives. No side could maneuver into a favorable position. Soldiers thus attacked each other in waves, protected by endless artillery barrages, and relaying observations to commanders far away from the battlefield. It was a war of attrition, both sides tried increasing inputs—more men, bullets, explosive shells—trying to overpower the enemy's defenses.
 
-Every leader mourned their dead, but didn't see any alternatives to the trenches, poison gas, shell shock, and horror.
+Every leader mourned their dead, tried different tactics, but didn't see any alternatives to the trenches, poison gas, shell shock, and horror.
 
-Enter Australian World War I general John Monash. He was a part-time general before the war but full-time engineer. He saw a way through the carnage. He coordinated his soldiers, tanks, and planes to support each other based on the problems they faced when they faced them. No more wave attacks supposedly protected by endless artillery barrages. Instead of a battering ram, soldiers would be an orchestra of different tools that learned to play the same sheet music, i.e. battle plans. The mentality was called "combined arms warfare".
+Enter Australian World War I general John Monash. He was a part-time general before the war but a full-time engineer. He saw a way through the carnage. He coordinated his soldiers, tanks, and planes to support each other based on the problems they faced when they faced them. No more increasing inputs with wave attacks. Instead soldiers would be an orchestra of different tools that learned to play the same sheet music, i.e. battle plans. The mentality was called "combined arms warfare".
 
 Monash's ideas culminated in The Battle of Hamel (1918). As he trained them, his soldiers, tanks, and planes worked together and captured Hamel with unusually low casualties.
 
@@ -1201,7 +1241,7 @@ In contrast, World War I taught every German that they were correct. Germany's i
 
 The German military took the book to heart. They practiced concentrating many trucks, tanks, planes, and artillery like a sword point at the weak points in the enemy's forces. More importantly, using mobile radios, soldiers talked directly to each other and shared intelligence and commands very fast. Whereas Allied soldiers waited hours or days for help, German dive-bombers, tanks, mobile artillery, and motorized infantry attacked enemy positions together, at the same time. Germans called combined arms warfare "Blitzkrieg", or lightning warfare.
 
-Powerful planes, trucks, tanks, and radio were transforming societies everywhere, and the Allies built modern weapons just like the Germans did. But their leaders owed their careers to World War I methods, so combined arms ideas were filtered out with every training session and promotion. They trained themselves not to see the environment—and made an echo chamber. Radios, tanks, and airplanes were purchased and then added to each unit like a new portable kitchen: nice to have, not pivotal. Each tool was spread thin, often behind bunkers, connected by layers of commanders relaying orders and assuming there would be time to act before anything bad happened. After all, "piercing" the frontlines of World War I trenches took months of broad wave attacks.
+Powerful planes, trucks, tanks, and radio were transforming societies everywhere, and the Allies built modern weapons just like the Germans did. But their leaders owed their careers to World War I methods, so combined arms ideas were filtered out with every training session and promotion. They trained themselves not to see the environment—and made an echo chamber. Radios, tanks, and airplanes were purchased and then added to each unit like a new portable kitchen: nice to have, but not pivotal. Each tool was spread thin, often behind bunkers, connected by layers of commanders relaying orders and assuming there would be time to act before anything bad happened. After all, "piercing" the frontlines of World War I trenches took weeks of broad wave attacks.
 
 Then in September 1939 Germany invaded Poland. The die was cast as the sequel to World War I had started.
 
@@ -1211,9 +1251,9 @@ An early obstacle was the massive Belgian Fort Eben-Emael. It was built to prote
 
 Belgian defenders waited for German tanks, artillery, and soldiers to attack. Instead the Germans landed gliders on the fort's roof. Without even being detected, 85 troopers walked out, used newly developed shaped explosive charges to blast open the concrete gun emplacements, and the fortress fell in under two days. With barely a struggle, German tanks rolled on and Belgium fell just a few weeks later.
 
-Fort Eben-Emael was symbolic of the entire Allied battle plan. The French built bunkers that were far larger, the biggest called the Maginot Line, and none of them prevented invasion. Instead of landing on them like in Eben-Emael, the Germans drove around them, and faced surprised and disorganized Allied soldiers and officers trained for the long timelines and mass-assaults of World War I. 
+Fort Eben-Emael was symbolic of the entire Allied battle plan. The French built bunkers that were far larger, the biggest called the Maginot Line, and none of them prevented invasion. Instead of landing on them like in Eben-Emael, the Germans massed tanks drove around them, and faced surprised and disorganized Allied soldiers and officers trained for the long timelines and massive and predictable wave assaults of World War I. 
 
-For the Allied societies and militaries, suddenly facing reality was a complete mental shock. The people wanted peace, their militaries were sure repeating their defensive tactics would bring it. Yet, the German Blitzkrieg burst through the shocked Allied lines using their motorized movement to surround confused Allied armies from all directions. Cut off from their supply and communication lines the Allied units had to surrender. In six weeks the Blitzkrieg did what four years of horrendously bloody war couldn't, and conquered most of Western Europe.
+For the Allied societies and militaries, suddenly facing massed planes, tanks, motorized machine guns, mobile artillery, all working directly together was a new reality and a complete mental shock. It was like cheating if such a thing could exist in war. The people wanted peace, their militaries were sure repeating their defensive tactics would bring it. Yet, the German Blitzkrieg burst through the shocked Allied lines using their motorized movement to surround confused Allied armies from all directions. Cut off from their supply and communication lines the Allied units had to surrender. In six weeks the Blitzkrieg did what four years of horrendously bloody war couldn't, and conquered most of Western Europe.
 
 One French officer summed up the trauma with a postcard. It was addressed to the country's leader and found on his body, "I am killing myself Mr. President to let you know that all my men were brave, but one cannot send men to fight tanks with rifles."
 
@@ -1318,6 +1358,48 @@ Remember water is never used up, but borrowed by each organism needing it to bui
 But something is still missing. If the tool creation pipeline needs all perspectives, somebody still has to decide which tools get built and which get abandoned.
 
 So who decides? It can't be an ideology as they can't pick winners or assign roles. It is someone who is well practiced in selecting the players of the wonderfully moderate ecosystem.
+
+## Story—New Tools
+
+The call-in queue was the rock—its warning bell kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
+
+My direct manager was an honest guy, but so stressed he sometimes slept in his car. Within months, he went full gray.
+
+I needed to adapt. Why not borrow from my grimy-carpet days?
+
+After each call, adjusters wrote custom emails explaining next steps—though they were nearly identical. Outlook's signature feature—basically pre-written text—let me create five or six standard email templates. It saved 2–5 minutes per call. Others copied it.
+
+I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. A dashboard tracked calls in real time, spotting trends: repeat callers, rental companies calling the wrong desk, etc.
+
+Adjusters also had to write extensive notes justifying our liability and spending decisions. Most claims were routine, so we used a "Discussed with" template. But it was a Word file. As management and adjusters added or removed questions, everyone worked off different versions—a consistency nightmare.
+
+I built an online form with dropdowns and buttons. Faster? No. But standardized—so reading other adjusters' notes, which we did constantly, became easier. Best of all: when management made changes, all adjusters updated automatically. Same sheet, always. Another dashboard tracked real-time trends.
+
+Those grimy carpets taught me something. I showed my gray-haired, sleep-deprived boss. He showed higher management. And then:
+
+"It costs too much to implement," they said. I could use my tools, but they wouldn't officially adopt it. It was free, of course by the way.
+
+They never asked me to explain how it worked or why I made it. But lower management eventually added dropdowns and buttons to the Word form.
+
+My gray-haired manager soon left for a bank. And the demands to answer more calls never stopped.
+
+I could end it here and make this sound quite damning. Insurance management didn't want to speed up their claims department!
+
+But really, it isn't.
+
+Inventing and adopting new tools is often part of our personal lives, but it's not part of our education and work culture. There's no law that protects it. No protests. No constitutional amendment. We are often not even socially aware of the effect our choices have, because we see our work titles or ethnicity, but not technological identity.
+
+For comparison, I feel much more animosity towards my high-school guitar teacher.
+
+I wanted to learn to play a few chords while getting my music credit. He insisted I learn musical notes. I could read but not fast enough during weekly tests. Instead I liked the "tabs" shortcut that made guitar fun. Besides Jimi Hendrix, Elton John, Paul McCartney, many other music greats can't read notes. Mark it against me sure, but why withhold the tabs that let me play better in my first music class?
+
+"Too bad", he said.
+
+I had no recourse. I got a very stressful 51%. Just one example. There are countless others. With a culture that allows others to entirely choose the tools we use, we can't expect different than workplaces and teachers that make arbitrary decisions.
+
+We also can't expect an economy that quickly responds to problems either.
+
+<!-- dash cams -->
 
 ## Chapter 14—Meeting the Coach
 
@@ -1905,10 +1987,6 @@ Panic! Panic!
 
 Three mammoths fall.
 
-### Intermission
-
-_Reading the board._
-
 ### Giving Tree
 
 Light is high. The foraging party left nine days ago. Far from our home. Far from the river.
@@ -2450,10 +2528,6 @@ A shop on a cobbled street. A sign sits outside.
 Hundreds of books sit on bookshelves in the bookstore.
 
 Three people enter.
-
-### Intermission
-
-_Learning how to be wrong._
 
 ### The Method
 
@@ -3151,10 +3225,6 @@ I failed him.
 
 I've heard of Lister's carbolic acid methods. They do not matter. I didn't find the bullet.
 
-### Intermission
-
-_Concrete, steel, and oil take root._
-
 ### Finding Work
 
 The wall is covered in pieces of paper. Bright reds, dark blues, deep blacks, characters tall as a hand. We can read, but some of the words are new to us. Some papers have colors—like a bee to a flower, we go to the brightest. My husband is shy, unsure. He didn't want to come here.
@@ -3595,115 +3665,28 @@ He drops his pencil. Extends his hand.
 
 "Learn."
 
-### Story-Winter Is Coming
 
-I was on the phone and heard the answer to my question: "Yes, you must come into the office. It's a work day." I was chagrined and befuddled. Car crashes were sure to come. I knew that because I was standing in two feet of rising snow and ice.
 
-Nonetheless, I finished shoveling, got into my tiny sedan, and set off.
 
-If you've never driven in high snow, the trouble is mainly getting started, stopping, and changing direction. Low friction between tire and snow-covered road is to blame. Once the snow gets high enough, a car simply bottoms out and gets stuck.
 
-I'd processed claims during winter storms before, but this was the first time I was pretty sure I'd be filing a claim of my own.
 
-I made it out of my local roadway onto a larger collector road. I was driving on the wrong side of the unplowed street because that's where the tracks led. I had no choice but to continue, and I kept thinking about what would happen if a plow happened to be coming this way.
-
-It wasn't. I reached the main arterial road, which was plowed regularly. I trickled along and got to work. The claims bell was dinging all day. There wasn't much we could actually do. Tow truck services, rental companies, and repair shops were already overwhelmed.
-
-We started claims and comforted people with the knowledge that insurance money was available, but the replacement tools they needed were on backorder for a few days. Most people understood. Winter storms come every year, after all.
-
-The snow kept falling. We were sent home early to try to get back safely. I drove two co-workers home. I was proud of my winter driving. I never got stuck, though I had to drop one of them off a few blocks from her house.
-
-I can't recall how many claims I handled that day. Hundreds of thousands of dollars in damage and several injuries at least. It made me recall my university days.
-
-I played many strategy games and city builders when I was a kid. I loved the idea of managing resources and building an environment that fosters a happy life. It's why I enrolled in city planning in university.
-
-I also worked through school. One of those jobs was analyzing ads in business-to-business magazines. After a year there, I was allowed to work from home four days a week. I slept an extra hour each day, my grades improved, I saved much-needed cash, and I exercised more. The exact same work got done.
-
-I happily mentioned this to my transportation professor. After all, broadband internet was saturating the country. He dismissed it: "We tried this a decade ago and managers didn't like it." He went back to teaching traffic control management. The practice of timed lights on highway on-ramps, coordinated traffic signals, variable message signs to smooth flow across local roads, collectors, and arterials.
-
-Playing games like Civilization is where these thoughts about our imperfect technological evolution started. Because what's better for traffic management than fewer vehicles on the road? A person committed to a toolset sees that as a threat, a player of the game sees that as a solution.
-
-Partly because of that class, I switched my specialty to political theory. I was already a history student and could see workers building the Magniot Line as passenger airplanes wized overheard. Unlike chess or soccer, you don't win in a city-builder just because the other side loses. In city-builders, as in evolution, the players win by managing resources as the field of play itself changes.
-
-Fast forward to starting insurance. I followed my instincts and went back to my alma mater. In one of the biggest libraries in the world, insurance books took up a single section of a single stack. Almost nothing. But there was a gem: _Insuring the Industrial Revolution_ by Robin Pearson. One of the best history books I've read. Pearson goes through painstaking detail about how insurance let Britain industrialize as fast as it did.
-
-Cities and towns used to burn down. Early insurance companies helped rebuild cities, and helped people undertake the risk of doing so. As the companies got larger, so did cities. Chicago (1871), Boston (1872), Toronto (1904), and San Francisco (1906). Now, established insurance companies helped institutionalize firefighters, fire escapes, fire extinguishers, and fire drills. Also there was significant urban redesign and rebuilding, shaping what those cities look like today.
-
-Surely, the industry that paid for car crashes would have interest in reducing the risk of crashes. Yet with the crashes of the burgeoning Internet Age, the bell was still dinging. I kept wondering why. This is how modern people play the game, but not how any ecosystem or society wins it.
-
-### Story—New Tools
-
-The call-in queue was the rock—its warning bell kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
-
-My direct manager was an honest guy, but so stressed he sometimes slept in his car. Within months, he went full gray.
-
-I needed to adapt. Why not borrow from my grimy-carpet days?
-
-After each call, adjusters wrote custom emails explaining next steps—though they were nearly identical. Outlook's signature feature—basically pre-written text—let me create five or six standard email templates. It saved 2–5 minutes per call. Others copied it.
-
-I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. A dashboard tracked calls in real time, spotting trends: repeat callers, rental companies calling the wrong desk, etc.
-
-Adjusters also had to write extensive notes justifying our liability and spending decisions. Most claims were routine, so we used a "Discussed with" template. But it was a Word file. As management and adjusters added or removed questions, everyone worked off different versions—a consistency nightmare.
-
-I built an online form with dropdowns and buttons. Faster? No. But standardized—so reading other adjusters' notes, which we did constantly, became easier. Best of all: when management made changes, all adjusters updated automatically. Same sheet, always. Another dashboard tracked real-time trends.
-
-Those grimy carpets taught me something. I showed my gray-haired, sleep-deprived boss. He showed higher management. And then:
-
-"It costs too much to implement," they said. I could use my tools, but they wouldn't officially adopt it. It was free, of course by the way.
-
-They never asked me to explain how it worked or why I made it. But lower management eventually added dropdowns and buttons to the Word form.
-
-My gray-haired manager soon left for a bank. And the demands to answer more calls never stopped.
-
-I could end it here and make this sound quite damning. Insurance management didn't want to speed up their claims department!
-
-But really, it isn't.
-
-Inventing and adopting new tools is often part of our personal lives, but it's not part of our education and work culture. There's no law that protects it. No protests. No constitutional amendment. We are often not even socially aware of the effect our choices have, because we see our work titles or ethnicity, but not technological identity.
-
-For comparison, I feel much more animosity towards my high-school guitar teacher.
-
-I wanted to learn to play a few chords while getting my music credit. He insisted I learn musical notes. I could read but not fast enough during weekly tests. Instead I liked the "tabs" shortcut that made guitar fun. Besides Jimi Hendrix, Elton John, Paul McCartney, many other music greats can't read notes. Mark it against me sure, but why withhold the tabs that let me play better in my first music class?
-
-"Too bad", he said.
-
-I had no recourse. I got a very stressful 51%. Just one example. There are countless others. With a culture that allows others to entirely choose the tools we use, we can't expect different than workplaces and teachers that make arbitrary decisions.
-
-We also can't expect an economy that quickly responds to problems either.
-
-### Story—New Tools Again
-
-The information from a crash is very sporadic. One big problem is at-fault drivers often don't report their claim, especially if they don't have collision coverage.
-
-But adjusters need to confirm liability. And we have the right to do it too. Being insured for thousands to millions of dollars comes with some obligations.
-
-Adjusters are what's called the "Second Party," meaning we are a legal association with the "First Party" insured, especially when someone else, the "Third Party," makes a claim against you. We can ask any relevant question, and the insured can't withhold information. This is what makes processing insurance claims so educational. We literally step into the shoes of our customer's situation and must either vouch for, or disprove, their stories.
-
-When another insurance company doesn't have their side of a crash reported, we send a "Third Party Report" requesting they open one up and investigate.
-
-I called out on many such claims. Usually our driver would confirm the details and not want to open a claim up for their own damages.
-
-One time was especially different.
-
-Our driver tells me the third party's story is bogus. The insured said he wasn't in a car crash, and he wasn't even in the city! Fraud, he told me—the other driver is committing fraud!
-
-So I emailed the other adjuster, who replied with a picture.
-
-I wish I had it now. I can still see every detail. It was amazing, worthy of remembrance.
-
-First, it was perfectly sharp with no focus or artifact problems. It was the middle of a sunny day, so lighting was spot on. It was taken by the other driver leaning outside of his window—so there were no obstacles in the way.
-
-The picture was taken at an intersection in a small downtown core.
-
-A white van was in front, with the same brand as my insured's. The license plates were clean, readable, and correct. The street signs for the intersection were billboard legible. The town's clock tower was even in the background telling the time. And the best part: my insured's face was visible in the reflection of his side mirror. He was clearly frowning, like someone who just reversed into someone, as the other guy was claiming.
-
-The thing is, images don't show movement. I couldn't technically use this image to confirm liability.
-
-But that picture was so perfect, my insured just said, "I'm sorry."
-
-I'll take this moment to say, please get a car dash camera installed. It makes pictures like this common—but still amazing.
 
 ### Story—Not unique
+
+**BEEP...BEEP...BEEP...Thank you for calling claims, how can I help you?**
+
+An insurance broker looking for an update on a rental car status. I can help you with that. 5 mins. Approve additional rental days if there was a mistake somewhere or the call goes too long.
+
+**BEEP...BEEP...BEEP...Thank you for calling claims, how can I help you?**
+
+Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. No good reason why the claim wasn't processed earlier. Now what? A long and angry call I bet.
+
+**BEEP...BEEP...BEEP...Thank you for calling claims, how can I help you?**
+
+Other repair company sharing crash details and confirming who is at fault. I wonder what they're pending. I hope I can close one of my claims now.
+
+
+---
 
 Most claims had one or more other drivers involved. So we talked to other adjusters constantly.
 
@@ -3713,7 +3696,7 @@ Translation: how many claims do you have open? The higher the pending, the highe
 
 Mine was usually 50–80. Some other insurance companies had 200 and a hold time of an hour. You'd hear it in their voice.
 
-I'd talk to these adjusters and realize my department was actually one of the better ones out there. We mostly got along. We went on trips, did bar nights, celebrated each other's achievements, and respected our managers.
+I'd talk to these adjusters and realize my department was actually one of the better ones out there. We mostly got along. We went on trips, did bar nights, celebrated each other's achievements, and respected most of our managers.
 
 But they, and everyone, were simply up against a wall.
 
@@ -3735,20 +3718,17 @@ Here's another example to illuminate the point.
 
 For decades, every American car shared the same handful of standardized headlight designs—universal, cheap, and always in stock. But the sealed-beam technology was getting old. When deregulation came in 1983, innovation arrived with it—halogen, then LED—but then ran away entirely.
 
-Basically, we didn’t upgrade standard parts and make new kinds of products to fill different niches. Instead, we used better robotics and design software to diverisfy parts to recreate the same end-products. 
+Basically, we didn't upgrade standard parts and make new kinds of products to fill different niches. Instead, we used better robotics and design software to diversify parts to recreate the same end-products. 
 
 Today there are thousands of unique headlight assemblies, each specific to one model and trim level, and priced accordingly:
 
-| | **1982 Sealed Beam** | **2026 Headlight Assembly** |
-|---|---|---|
-| **Part cost (nominal)** | ~$8–$15 per unit | $300–$1,000+ per side (LED); up to $4,000+ for premium |
-| **Part cost (2026 dollars)** | ~$25–$48 | $300–$4,000+ |
-| **Labor time** | 5–10 minutes, DIY-friendly | 30 min to several hours; often requires bumper removal |
-| **Labor cost** | Near zero (truly self-service) | $100–$1,000 per side depending on vehicle |
-| **Total real-world cost** | ~$25–$50 all-in (2026 dollars) | $400–$5,000+ all-in for complex systems |
-| **Availability** | Any auto parts store, universal fit | Model-specific, sometimes weeks on back-order |
+In 1982 a sealed beam cost about fifty dollars in today's money. You bought it at any parts store, it fit almost anything on the road, and you swapped it yourself in ten minutes.
+
+In 2026 the cost is four to four thousand or more on a premium car. Fitting it can mean pulling the bumper, usually a mechanic must do it, which is several hundred in labour costs. And the worst part, since most cars of their own version, there's so many different kinds, meaning weeks on back-order is too common.
 
 And this is just for headlights. The same complexity exists throughout automobile supply chains, regulations, contracts, and so on. The increasing complication of our economy has strong ripple effects. Who pays for increased costs? Never mind when waiting weeks for a model-specific repair parts? The car owner, repair shop, manufacturer, parts supplier, insurance company? Arguing over who pays is now routine and definitely raised insureds emotions and adjuster pendings. 
+
+Modern LED headlights are better. But there's no reason they can't be more standardized and easier to install.
 
 Just food for thought. These are not just stories of my job. The bell ringing at the claims center isn't just a warning for adjusters to work faster—it's ringing for you too, a signal about the state of your economy, heard directly from the frontline.
 
@@ -3790,11 +3770,11 @@ I said it gently. I was having a conversation; she was being the bully.
 
 "Can I speak with your manager?"
 
-"I can ask him, 
+"I can ask him." 
 
 "Ask him!"
 
-"I can't make him call you." I continued, "Insurance deals with contracts and policies. He'd probably ask where it says you can only rent Land Rovers. Every policy is a government regulation—they never specify brands. I can send your authorization for a rental in that class, depending on availability. Or I can send you a cheque and you arrange your own rental, uber, or public transportation."
+"I can't make him call you." I continued, "Insurance deals with contracts and policies. He'd probably ask where it says you can only rent Land Rovers. Every policy is contract and they never specify brands. I can send your authorization for a rental in that class, depending on availability. Or I can send you a cheque and you arrange your own rental, uber, or public transportation."
 
 She took the pre-authorized rental. I never heard from her again.
 
@@ -3804,8 +3784,7 @@ Let a person deal with their reality. If they ask, I'm here to help. Most people
 
 I often recall this Land Rover conversation. Though I still stutter occasionally, when I look back that's when I realize I don't have a stutter anymore.
 
-I thought this was poetic. My last ever automobile queue call was a young lady. A "sideswipe" crash. Usually both drivers say 
-the other changed lanes, making 50/50 fault common. But she said the police charged her for improper lane change. Unusual, I thought, and kept working.
+I thought this was poetic. My last ever automobile queue call was a young lady. A "sideswipe" crash. Usually both drivers say the other changed lanes, making 50/50 fault common. But she said the police charged her for improper lane change. Unusual, I thought, and kept working.
 
 She responded to my 100% at-fault notice with indignation: "But the other guy had a dash-cam."
 
@@ -3817,75 +3796,9 @@ That was my last auto call. My very last call was a cow hit by lightning.
 
 Soon after, I got promoted to property adjuster. A totally different vibe. I had my own files, no queue, and time to actually work them. I loved that property claims department job and team (I wish I never left).
 
-I learned much doing property claims too, but those years in auto claims effectively cured my stutter and by chance happened to be extremely educational. The over 2,000 claims, 8,000 queue calls, endless emails and voicemails, and uncountable interactions from everybody between lawyers to plumbers, NBA stars to single parents, body repair shops to other adjusters, taught me how managers, workers, and consumers interact to make todays struggling economy.
+I learned much doing property claims too, but those years in auto claims effectively cured my stutter and by chance happened to be extremely educational. The over 2,000 auto claims, 8,000 queue calls, endless emails and voicemails, and uncountable interactions from everybody between lawyers to plumbers, NBA stars to single parents, body repair shops to other adjusters, taught me how managers, workers, and consumers interact to make today's struggling economy.
 
-The struggle isn't inevitable. The tools to fix it already exist. The problem is we're using biological instincts and ideological frameworks to navigate an quickly evolving technological ecosystem.
-
-This all became the practical foundations of Techvolution.
-
-### Story—Last call
-
-<!-- snow day? or add what part asking reader what they'd do in a crash? aim for a  -->
-
-**Thank you for calling claims, my name is Peter, how can I help you?**
-
-An insurance broker looking for an update on a rental car status. I can help you with that. 5 mins. Approve additional rental days if there was a mistake somewhere or the call goes too long.
-
-**BEEP.**
-
-**Thank you for calling claims, my name is Peter, how can I help you?**
-
-You're calling to discuss a property claim. You are unhappy and want to speak to a manager. Escalation. I'm going to the property department soon. I can't wait to learn and so something different.
-
-**BEEP.**
-
-**Thank you for calling claims.**
-
-Other repair company sharing crash details and confirming who is at fault.
-
-**BEEP.**
-
-We already paid for the vehicle repairs. But the repairs never completed. Claim is over a year old. The claim window, per government regulation, expires after one year. Insured wants the work done now. Now what?
-
-**Thank you for calling claims.**
-
-Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. No good reason why the claim wasn't processed earlier. Now what? A long and angry call I bet.
-
-**BEEP.**
-
-Will this be my last queue call?
-
-**Thank you for calling claims.**
-
-Young lady reports a car crash. She was downtown having fun in the big city. She got into a sideswipe accident.
-
-Oh no. These are the worst. There'll be a dispute over who changed lanes, and I'll have to hear how the government's 50/50 rule is an injustice.
-
-Wait. What?
-
-She says she was charged for careless driving and improper lane change.
-
-That's easier. The cops settled liability.
-
-Then she says the other driver had a dashcam. The crash was recorded. After seeing it, the cops charged her.
-
-Even easier.
-
-Wait. What?
-
-Did she just say:
-
-*"Think of it. How bad of a driver does the other guy have to be, to need a dash cam? I shouldn't be at fault."*
-
-"No, you are 100% at fault."
-
-A lady tricking herself. What a last call.
-
-**BEEP.**
-
-One more.
-
-"Hello, I'd like to report a claim. One of my cows slipped on ice and hurt herself."
+The struggle isn't inevitable. We just need to cure ourselves. To take note of what's wrong and being willing to learn how to improve it. Our society has a stutter of sorts. A mental block of the mind. There's no shame it in. A hungry polar bear, thirsty tree, scared raccoon all of it too. We can work to move past it. My process and its journey. became the practical foundations of Techvolution.
 
 ## Chapter 16-Epilogue
 
@@ -3900,7 +3813,7 @@ dwarkesh.com/p/david-reich-2
 
 ---
 
-The world is always falling apart. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every creature answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The Game of Life is the same.
+The world is always falling apart. A different way each new day. You know that by now. Entropy never stops. Not on Mars, Venus, and definitely not where you are. Every creature answers it the same way: build something that lasts long enough to pass on the torch. Humans have different toolsets. The Game of Life is the same.
 
 From the grass producing the first biomatter, to grazers turning it into meat, to the predators hunting frailty, scavengers making use of every morsel, decomposers restarting the process, and testers hacking new ideas for good or bad—whoever builds faster while contributing to their ecosystem's quest for energy efficiency is naturally selected to stay on the lifeboat called Earth.
 
