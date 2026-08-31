@@ -1137,9 +1137,9 @@ The problem is technology does not always grow as naturally as we need it to kee
 
 The day we cooked with fire, we partnered technology with biology. As we've already noted, heat breaks down proteins and starches, making them more accessible to digestive enzymes. This means our body doesn't have to work as hard to break down the food molecules, so our digestive system can extract nutrients with less effort.
 
-Once humans learned to spark a flames we cooked food, got warm, and kept going. The heat from fire inside kilns turned clay into pottery and inside forges fired turned minerals into metals. The energy savings of cooked food feed our big brains. Fire's ability to make pots, nails, knives, and more technologies feed the growth of civilization.
+Once humans learned to spark a flame we cooked food, got warm, and kept going. The heat from fire inside kilns turned clay into pottery and inside forges turned minerals into metals. The energy savings of cooked food fed our big brains. Fire's ability to make pots, nails, knives, and more technologies feed the growth of civilization.
 
-But there's nothing supernatural about technology. It's composed of stone, clay, copper, zinc, and other natural elements heated in different ways, and is thus a natural part of the Game of Life. What became artificial is the method used to select tools of the ecosystems.
+But there's nothing supernatural about technology. It's composed of stone, clay, copper, zinc, and other natural elements heated in different ways, and is thus a natural part of the Game of Life. What became artificial is the method used to select the tools of our ecosystems.
 
 The first white bear didn't interview for a job hunting seals in the Arctic. Today's brown bears can't protest against polar bears venturing south looking for meals. They can only play the game. But when our big brains, self-awareness, and storytelling mix with biological self-interest to be as lazy as possible—especially while holding powerful tools—the result can be unnatural.
 
@@ -1147,7 +1147,9 @@ We see others not as technological operators in the ecosystem that sustains us, 
 
 We have no such built-in limits, so reciprocation has to be chosen or it doesn't happen. Every role has energy waiting in it, and selecting against a boardmate's capacity is selecting against what feeds you. Shutting people out doesn't move energy to your side of the board; it takes it off the board, which only helps entropy.
 
-This worked okay when technology was so primitive we still spent much of our time living, harvesting, and depending on the bounty provided by biological ecosystems.
+The opposite move costs little and pays well. The more trees, the more deer, the more predators, the more scavengers, the more decomposers, the more soil and the more matter organized with the available energy. Give a boardmate a better tool and their harvest grows, which grows the ecosystem you both feed on. That is the whole difference between the two kinds of artificial selection: one empowers other lineages, the other feeds on them. Only one of them can last.
+
+Shutting people out has always been costly. For most of our history the biological ecosystem covered the cost, because we still spent much of our time living, harvesting, and depending on the bounty it provided.
 
 However, in 2020, researchers calculated something remarkable.
 
@@ -1169,9 +1171,9 @@ The biggest difference in technological evolution is there is endless artificial
 
 The last century twice demonstrated the complete failure of extreme human storytelling to control our fate. We met both attempts in the introduction: fascism and communism, each convinced it had found the engine of human success, each bound to fail at enormous cost because it was an isolated half of evolution.
 
-One belief system looked at all boardmates and saw only genotype: each person is solely defined by their bloodline, so purge the dead weightand their superiors will advance civilization to untold heights. The other saw only phenotype: remake the human condition by empowering educated decision-makers to engineer a society to make everyone—not tainted by their past—a better human.
+One belief system looked at all boardmates and saw only genotype: each person is solely defined by their bloodline, so purge the dead weight and their superiors will advance civilization to untold heights. The other saw only phenotype: remake the human condition by empowering educated decision-makers to engineer a society to make everyone—not tainted by their past—a better human.
 
-Both believed they had cracked the code of human advancement. Pre-screen boardmates to create a common identity. With conflict removed, reciprocation would increase, raising the carrying capacity for everyone. Both implemented their ideas, and the world would soon find out how they worked while evolution judged them using natural selection.
+Both believed they had cracked the code of human advancement. Pre-screen boardmates to create a common identity. With conflict removed, reciprocation would increase, raising the carrying capacity for everyone. Both implemented their ideas, and the world watched as evolution judged the results within a lifetime.
 
 ## Story—Winter Is Coming
 
@@ -1473,9 +1475,11 @@ Entropy doesn't decide whether life prospers. Life does by harvesting enough ene
 
 You are not powerless. You are the unit of selection. Your daily choices make the future of life. You can use the rules of physics, chemistry, geology and evolution to make life prosper.
 
-Apply this to Maria. Every disc she sold put a screen, a sound system, and a habit into another home. DVDs were a foot-hold. The first form to establish home video content in a new environment. Once a niche is proven, it radiates into more species: streaming podcast shows, long videos about Roman history, short videos about local restaurants. Or more practically the telemedicine, engineering seminars and other important communications ultra high-definition screens enabled. Each is a different species to its users, but has the same family group of technologies enabling it.
+Apply this to Maria. Every disc she sold put a screen, a sound system, and a habit into another home. DVDs were a foot-hold. The first adaptation to establish that users should decide what to watch using digital technology. Once a niche is proven, it radiates into more species: streaming podcast shows, long videos about Roman history, short videos about local restaurants. Or more practically the telemedicine, engineering seminars and other important communications ultra high-definition screens enabled. Each is a different species to its users, but has the same family group of technologies enabling it.
 
-Maria didn't need to guess which one would win. She needed to know that something would, because that is what a successful first species always leads to. A farmer sees this. A biologist does too. We often don't inside our bunkers. Nothing stopped her from moving on from DVDs to content creation or influencer marketing or just investing into a piece of the family she was establishing. She just didn't know that spreading technology is no different from spreading seeds.
+Maria didn't need to guess which one would win. She needed to know that something would, and that a DVD manager was a dead branch on the evolutionary tree. Merchandise distributors go on, as do content curators. A successful first species always opens the ecosystem to more niches, and therefore more opportunity.
+
+A farmer sees this. A biologist does too. We often don't inside our bunkers. Nothing stopped Maria from moving on from DVDs to content creation or influencer marketing or just investing into a piece of the family she was establishing. She just didn't know that spreading technology is no different from spreading seeds.
 
 Biology adapts by producing millions of variants and letting most of them die. We don't have to be polar bears on ice floes. We can change tools inside a single lifetime. Which means we can do in a decade what selection needs thousands of years and countless deaths to accomplish. There is always room for everyone who finds a way to contribute to life's fight against entropy.
 
