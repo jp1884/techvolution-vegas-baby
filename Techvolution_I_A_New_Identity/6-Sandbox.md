@@ -5647,3 +5647,15 @@ Cities and towns used to burn down. Early insurance companies helped rebuild cit
 Surely, the industry that paid for car crashes would have interest in reducing the risk of crashes. Yet with the crashes of the burgeoning Internet Age, the bell was still dinging. I kept wondering why. This is how modern people play the game, but not how any ecosystem or society wins it.
 
 ===
+
+For comparison, I feel much more animosity towards my high-school guitar teacher.
+
+I wanted to learn to play a few chords while getting my music credit. He insisted I learn musical notes. I could read but not fast enough during weekly tests. Instead I liked the "tabs" shortcut that made guitar fun. Besides Jimi Hendrix, Elton John, Paul McCartney, many other music greats can't read notes. Mark it against me sure, but why withhold the tabs that let me play better in my first music class?
+
+"Too bad", he said.
+
+I had no recourse. I got a very stressful 51%. Just one example. There are countless others. With a culture that allows others to entirely choose the tools we use, we can't expect different than workplaces and teachers that make arbitrary decisions.
+
+We also can't expect an economy that quickly responds to problems either.
+
+===

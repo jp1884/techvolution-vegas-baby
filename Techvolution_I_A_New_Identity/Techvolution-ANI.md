@@ -1019,7 +1019,9 @@ The system could be nuts, the job wasn't fun, but the people's needs were very r
 
 Someone's car was stolen, or there was a hit-and-run, sometimes even a drive-by shooting. If it's covered (those usually are), you help get their car fixed or replaced.
 
-Two claims I especially can't forget.
+Adjusters are the "Second Party," legally associated with the "First Party" insured, especially when a "Third Party" makes a claim against them. We can ask any relevant question, and the insured can't withhold. That's what makes the work so educational: we step into a customer's situation and must either vouch for their story or disprove it.
+
+This was especially true for two claims I can't forget.
 
 One coworker was given a pile of claims to investigate after a large flood. He got to one high-end home, asked to see the water damage, and told the homeowner to send in their damaged items list for review. This was the first time I learned about "cat" claims—as in catastrophe.
 
@@ -1033,13 +1035,13 @@ Then she said, "I don't have any money."
 
 I quickly googled her area. She was in the poor area of a poor town. And I had just forced her to admit she had nothing.
 
-It was Friday, meaning she'd likely get an insurance answer by Monday or Tuesday. I became a property adjuster later on and learned she had insurance coverage for her problem. She had the money, but didn't have it at the same time.
+It was already passed working hours,  meaning she'd likely get an insurance answer within a few days. I became a property adjuster later on and learned she had insurance coverage for her problem. She had the money, but didn't have it at the same time.
 
-I often wonder what that mother did over the weekend, with sewage in the walls, nothing in the bank, and a kid in the house. I hope she had somewhere to go and friends to call on. But I'd seen enough by then to know those were luxuries.
+I often wonder what that mother did while she waited, with sewage in the walls, nothing in the bank, and a kid in the house. I hope she had somewhere to go and friends to call on. But I'd seen enough by then to know those were luxuries.
 
 As for the high-end homeowner—he noticed my coworker had forgotten to photograph parts of his basement. A bare basement, empty of almost anything. He submitted his item list months later. Antique furniture and priceless art, something like $800,000 worth.
 
-His case in court was simple: "You were there. Prove I didn't have it." The case went on for years. I'm pretty sure he eventually won.
+His case in court was simple: "You were there. Prove I didn't have it." The case went on for years. I'm pretty sure he eventually won too much money.
 
 The system couldn't tell the difference between desperation and greed. So it assumed everyone was lying—and the people who actually needed help often paid the price.
 
@@ -1363,45 +1365,47 @@ So who decides? It can't be an ideology as they can't pick winners or assign rol
 
 ## Story—New Tools
 
-The call-in queue was the rock—its warning bell kept us wrapped in DINGS of endless calls and demands. Outbound calls were the hard place. We needed them to answer the questions people were calling about. My managers were feeling the heat, and made sure I knew it.
-
-My direct manager was an honest guy, but so stressed he sometimes slept in his car. Within months, he went full gray.
+The call-in queue was the rock, its bell keeping us wrapped in endless DINGS. Outbound calls were the hard place. My managers were feeling the heat and made sure I knew it. My direct manager was an honest guy, but so stressed he sometimes slept in his car. Within months he went full gray.
 
 I needed to adapt. Why not borrow from my grimy-carpet days?
 
-After each call, adjusters wrote custom emails explaining next steps—though they were nearly identical. Outlook's signature feature—basically pre-written text—let me create five or six standard email templates. It saved 2–5 minutes per call. Others copied it.
+After each call, adjusters wrote custom emails explaining next steps. I used Outlook's signature feature to build templates. It saved two to five minutes per call. Others copied it.
 
-I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. A dashboard tracked calls in real time, spotting trends: repeat callers, rental companies calling the wrong desk, etc.
+I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. Then I made another track our phone call notes. Not faster, but standardized and easier to update.
 
-Adjusters also had to write extensive notes justifying our liability and spending decisions. Most claims were routine, so we used a "Discussed with" template. But it was a Word file. As management and adjusters added or removed questions, everyone worked off different versions—a consistency nightmare.
+I showed my gray-haired, sleep-deprived boss. He showed higher management. And then:
 
-I built an online form with dropdowns and buttons. Faster? No. But standardized—so reading other adjusters' notes, which we did constantly, became easier. Best of all: when management made changes, all adjusters updated automatically. Same sheet, always. Another dashboard tracked real-time trends.
+"It costs too much to implement." I could use my tools, but they wouldn't officially adopt them. It was free, by the way.
 
-Those grimy carpets taught me something. I showed my gray-haired, sleep-deprived boss. He showed higher management. And then:
+They never asked how it worked or why I made it. Lower management eventually made their own version of the notes form inside Word. My manager left for a bank.
 
-"It costs too much to implement," they said. I could use my tools, but they wouldn't officially adopt it. It was free, of course by the way.
+The demands to answer more calls never stopped.
 
-They never asked me to explain how it worked or why I made it. But lower management eventually added dropdowns and buttons to the Word form.
+I could end there and make it sound damning. Insurance management didn't want to speed up their own claims department.
 
-My gray-haired manager soon left for a bank. And the demands to answer more calls never stopped.
+But it isn't that.
 
-I could end it here and make this sound quite damning. Insurance management didn't want to speed up their claims department!
+Inventing and adopting new tools is part of our personal lives, but not our education or work culture. There's no curriculum "how to learn tools". There's no law protecting it, no protests, no amendment. We're often not even aware of what our choices cost, because we see work titles and ethnicity, not technological identity.
 
-But really, it isn't.
+Here's the same blindness elsewhere.
 
-Inventing and adopting new tools is often part of our personal lives, but it's not part of our education and work culture. There's no law that protects it. No protests. No constitutional amendment. We are often not even socially aware of the effect our choices have, because we see our work titles or ethnicity, but not technological identity.
+I got a report from another insurance company. My insured reversed into theirs and is 100% at-fault.
 
-For comparison, I feel much more animosity towards my high-school guitar teacher.
+My insured said the other driver's story was bogus. He hadn't been in a crash. He hadn't even been in the city!
 
-I wanted to learn to play a few chords while getting my music credit. He insisted I learn musical notes. I could read but not fast enough during weekly tests. Instead I liked the "tabs" shortcut that made guitar fun. Besides Jimi Hendrix, Elton John, Paul McCartney, many other music greats can't read notes. Mark it against me sure, but why withhold the tabs that let me play better in my first music class?
+So I emailed the other adjuster, who replied with a picture.
 
-"Too bad", he said.
+It was the middle of the day, taken by the other driver leaning out his window, perfectly sharp. A white van in front, same make as my insured's. The plates were clean, readable, and a match. Street signs were very legible. The town clock tower was even in the background, with the correct time.
 
-I had no recourse. I got a very stressful 51%. Just one example. There are countless others. With a culture that allows others to entirely choose the tools we use, we can't expect different than workplaces and teachers that make arbitrary decisions.
+And then, my insured's face, visible in the reflection of his side mirror. Frowning, like a man who has just reversed into somebody.
 
-We also can't expect an economy that quickly responds to problems either.
+Images don't show movement, so technically I couldn't use it to confirm liability. But I sent it to my insured for him to comment. He just replied, "I'm sorry."
 
-<!-- dash cams -->
+The point is, this picture was one in a million. Most of the time there's no picture or video, the dispute drags on for days, and that bell keeps ringing.
+
+But, dash cams are cheap, available, and uncommon. Yet, lower rates, less fraud, fewer disputed crashes is all right there in one camera. Instead we have pictures of food, animals, and rants, marches of people blaming each other for endless car traffic, rising insurance rates, and waiting on hold for your insurance adjuster.
+
+Keep note, it's not just _them_ who reject new tools.
 
 ## Chapter 14—Meeting the Coach
 
@@ -1427,7 +1431,7 @@ We do need to realize this.
 
 Because we have choice, we can practice artificial selection. We can be raccoons taking from an ecosystem and giving little back. We can use ideology to select our own boardmates and think the coach won't ever be knocking on our door. While we've studied physics, chemistry, and biological evolution very well, we have not studied technological evolution enough to understand or prevent this. As a result, this is an all too easy mindset for us to have.
 
-In the early 1980s Yuri Andropov ran the all-powerful Soviet spy agency KGB and then the entire country as virtual dictator. When speak to his leadership comrades he admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its economy and people. The man with the world's best intelligence apparatus did not understand why his reports said prosperity and progress, while the country's food market shelves were empty, coal miners didn't have soap to clean their faces, and power stations were blowing up.
+In the early 1980s Yuri Andropov ran the all-powerful Soviet spy agency KGB and then the entire country as virtual dictator. When speaking to his leadership comrades he admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its economy and people. The man with the world's best intelligence apparatus did not understand why his reports said prosperity and progress, while the country's food market shelves were empty, coal miners didn't have soap to clean their faces, and nuclear power stations were blowing up.
 
 Such is the power of a human belief system.
 
@@ -1439,9 +1443,17 @@ Techvolution's new identity won't stop misconceptions, hubris, or fanciful reali
 
 Physics has this freedom because it measures external forces and values prediction and results above position and intent. That's the environment we can have to help us sort, see, and remove human error faster in identity, politics, and economics.
 
-Because we can measure growth, speciation, migration patterns, predators, grazers, scavengers etc. on the biological gameboard, because these all deal with energy flow. Just like in biological ecosystems each lifeform has a role, each action is measure for its effectiveness in harvesting energy inside the ecosystem.. Measuring them means we can understand ourselves and each other against whatever stories we tell. Thus, more sunlight through the cracks of whatever bunkers and palaces we build.
+We can measure growth, speciation, migration, predators, and grazers because each has a role in the energy flow. The same as in any biological ecosystem.
 
-But before we can become the new modern squirrel to better assess our tool options (mixed ideological politics) and plant trees by default (bumble bee economics) we must change our identity. 
+We already do much of the work. Industrial ecology tracks material and energy flows through economies the way an ecologist tracks them through a forest. Life-cycle assessment measures what a product costs from extraction to disposal. Diffusion research measures one technology displacing another. Insurance assesses failure risks in vehicles, homes, businesses.
+
+What's missing is joining these insights into a unified account of where our food, warmth, and transport actually come from, and the rules of nature that govern their health, growth, divergence, and death.
+
+It's like trying to understand ecology without knowing about evolution. Or charting the stars for a thousand years without knowing what moved them. There's no unifying ruleset, no origin story, no common force that binds their fates.
+
+But when we measure the energy consumed and gained, and ask whether it is more efficient than yesterday, then we can check ourselves against whatever stories we tell. More sunlight through the cracks of whatever bunkers and palaces we build.
+
+Before we can become the new modern squirrel to better assess our tool options (mixed ideological politics) and plant trees by default (bumble bee economics) we must change our identity. 
 
 A new identity is being a self-aware selector inside a technological ecosystem. Realizing with every choice you make, you are the coach in the Game of Life. You always were because we replaced nature's coach with ourselves a long time ago. What changes is knowing this defines identity, politics, and economics more than any story.
 
@@ -1455,7 +1467,7 @@ Nature doesn't hand out name-tags. We don't actually know what an iron atom call
 
 Nature can't read our name-tags either. Only actions register, and nearly all of ours run through tools we graze, hunt, scavenge, and decompose with. We see Matthew, Sarah, Apple, Google. Nature sees pilot, bureaucrat, mechanic, welder, general, scrapper, miner—all of them burning energy to keep something assembled.
 
-A new identity sees our current problems differently. It helps Maria prepare for the future better. She knows political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. It helps her communicate worries about her health insurance without a boardmate thinking she's a socialist. Or if she says cheap imports are closing her plant she's not dismissed as a fascist. Instead, her boardmates listen and investigate what is happening behind the scenes of storytelling identities.
+A new identity sees our current problems differently. It helps Maria prepare for the future better. She knows political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. It helps her communicate worries about her health insurance without a boardmate thinking she's a socialist. Or if she says cheap imports are closing her factory she's not dismissed as a fascist. Instead, her boardmates listen and investigate what is happening behind the scenes of storytelling identities.
 
 What's happening is echo chambers are fraudulent harbors that trick people into indulging in their extremes while suffering the endless storms of the environment. The conservative-minded advocate for inheritance and tradition while the progressive-minded for control and novelty. Together as we've seen they invent wondrous technology and win wars. Divided, neither moderates the other, and so our society bunkers down inside old lifestyles, telling stories to one's tribes why we are the noble Lion King, and the other is the devious socialist or fascist Scar who should suffer the pains of self-inflicted wounds of stagnation.
 
@@ -1511,7 +1523,7 @@ How to tell which is which?
 
 Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that best read when fruit ripens, when sunlight appears, and endless other environmental patterns, survive to play again.
 
-This chapter is not a story to enjoy. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
+This chapter isn't written like a story. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
 
 In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world and earn its place on the gameboard?
 
@@ -3677,18 +3689,17 @@ He drops his pencil. Extends his hand.
 
 ### Story—Not unique
 
-**BEEP...BEEP...BEEP...Thank you for calling claims, how can I help you?**
+**DING...DING...DING...Thank you for calling claims, how can I help you?**
 
 An insurance broker looking for an update on a rental car status. I can help you with that. 5 mins. Approve additional rental days if there was a mistake somewhere or the call goes too long.
 
-**BEEP...BEEP...BEEP...Thank you for calling claims, how can I help you?**
+**DING...DING...DING...Thank you for calling claims, how can I help you?**
 
 Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. No good reason why the claim wasn't processed earlier. Now what? A long and angry call I bet.
 
-**BEEP...BEEP...BEEP...Thank you for calling claims, how can I help you?**
+**DING...DING...DING...Thank you for calling claims, how can I help you?**
 
 Other repair company sharing crash details and confirming who is at fault. I wonder what they're pending. I hope I can close one of my claims now.
-
 
 ---
 
@@ -3796,7 +3807,7 @@ After thousands of calls, I could still be stunned. "Huh?" I responded.
 
 "Think of it. How bad of a driver does he have to be, to need a camera?"
 
-That was my last auto call. My very last call was a cow hit by lightning.
+That was my last auto call. My next call was my last. It was a cow slipping on ice.
 
 Soon after, I got promoted to property adjuster. A totally different vibe. I had my own files, no queue, and time to actually work them. I loved that property claims department job and team (I wish I never left).
 
@@ -3831,7 +3842,7 @@ New ideas have always had a hard road. Semmelweis begging doctors to wash their 
 
 Techvolution is simply the awareness of this long-standing fact. It therefore prioritizes the creation, testing, and adoption of tools in our personal, political, and economic lives. Turning the scientific method on our technological ecosystem to find what actually works. Not just in our bridges and waterways, but within all niches in our civilization. 
 
-"No science can achieve maturity without a system of measurement," wrote the physician Logan Clendening. That is why I hope this is the start of something rather than another story about the human condition. We already measure biological beings this way. We don't know a tiger by its thoughts and dreams, but by its stripes and its niche. Nobody asks whether the killer whale enjoys hunting or the polar bear likes the cold. We ask what it eats, what that costs, and whether the arrangement maintains a balanced ecosystem.
+"No science can achieve maturity without a system of measurement," wrote the physician Logan Clendening. That is why I hope this is the start of something rather than another story about the human condition. We already measure biological beings this way. We don't know a zebra by its thoughts and dreams, but by its stripes and its niche. Nobody asks whether the killer whale enjoys hunting or the polar bear likes the cold. We ask what it eats, what that costs, and whether the arrangement maintains a balanced ecosystem.
 
 Turn the same questions on ourselves and they become answerable. How much energy does travelling one route versus another take? How much return does each give? Does the niche sustain the person in it? What is the carrying capacity of the ecosystem? These have numbers for all players of the game. What gets in the way is the storytelling version of nature. Those stories teach us a great deal about ourselves. But they also hand out villains and heroes to events that never had any.
 
@@ -3896,6 +3907,10 @@ Fight over what should be used to keep the decaying Industrial Age giving tree a
 Do you want to watch three seeds fall?
 
 Or drop them yourself?
+
+---
+
+We're not in th era of consumerism. We have to predate our consumption to see which is most needed and efficient.
 
 ## Preview—Book II—Mixed Ideological Politics
 
