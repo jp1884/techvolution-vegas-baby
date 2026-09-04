@@ -13,17 +13,17 @@ _"Man is a tool-making animal."_
 
 —Benjamin Franklin
 
-_But lo! men have become the tools of their tools. The man who independently plucked the fruits when he was hungry is become a farmer; and he who stood under a tree for shelter, a housekeeper. We now no longer camp as for a night, but have settled down on earth and forgotten heaven._
+"We become what we behold. We shape our tools and thereafter our tools shape us."
 
-—From “Walden” by Henry David Thoreau.
+—John Culkin, writing about Marshall McLuhan, 1967
 
 _"It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change."_
 
 —Leon C. Megginson, often wrongfully attributed to Charles Darwin
 
 <!-- 
-"We become what we behold. We shape our tools and thereafter our tools shape us."
-—John Culkin, writing about Marshall McLuhan, 1967
+_But lo! men have become the tools of their tools. The man who independently plucked the fruits when he was hungry is become a farmer; and he who stood under a tree for shelter, a housekeeper. We now no longer camp as for a night, but have settled down on earth and forgotten heaven._
+—From “Walden” by Henry David Thoreau.
 -->
 
 ## Table of Contents
@@ -1187,9 +1187,9 @@ I'd processed claims during winter storms before, but this was the first time I 
 
 I made it out of my local roadway onto a larger collector road. I drove on the wrong side of the unplowed street. I had no choice because that's where the tracks led in the high-snow. I kept thinking about what would happen if a plow came this way.
 
-It didn't. I reached the main arterial road, which was plowed relatively often. I trickled along and got to work. The claims bell was dinging all day. There wasn't much we could actually do. Tow truck services, rental companies, and repair shops were already overwhelmed.
+It didn't. I reached the main arterial road, which was plowed relatively often. I trickled along and got to an office building. The claims bell was dinging all day. There wasn't much we could actually do. Tow truck services, rental companies, and repair shops were already overwhelmed.
 
-Most people understood there were delays from tow trucks to rental cars. Winter storms come every year, after all.
+We answered calls, sent emails, forwarded approvals as fast as we could. Most people understood there were delays from tow trucks to rental cars. Winter storms come every year, after all. 
 
 The snow kept falling. We were sent home early to try to get back safely. I drove two co-workers home. I was proud of my winter driving. I never got stuck.
 
@@ -1203,19 +1203,19 @@ I happily mentioned this to my transportation professor. After all, broadband in
 
 What's better for traffic management than fewer vehicles on the road? Especially in snowstorms or energy shocks. But impossible, apparently, because remote doesn't work. A funny opinion because my job was soon outsourced to another continent and that raised no objections from anyone.
 
-Partly because of that class, I switched my specialty to history and political theory. One cannot kick cans down the road in simulation games. The player must make choices like figuring out what to do when snow blankets roads or energy costs spike.
+Partly because of that class, I switched my specialty to history and political theory. A player cannot defer problems in simulation games. There is no debt to increase, blame to reassign, cans to kick. The player must make choices, like figuring out what to do when snow blankets roads or energy costs spike.
 
-We either make those hard choices or let them overtake us. A person committed to a toolset sees fewer cars as a threat. A person committed to a toolset sees fewer cars as a threat. A player sees a solution that frees energy to spend elsewhere.
+We either make those hard choices or let them overtake us. A person committed to a toolset sees fewer cars as a threat. But a player who sees the ecosystem sees a solution that frees energy to spend elsewhere. 
 
-Unlike chess, baseball, or school, you don't win in a city-builder just because the other side loses. In city-builders, as in evolution, players can only win if they manage resources in the changing field of play well enough to keep ahead of entropy.
-
-Who has an interest in that more than insurance?
+And, who has an interest in preventing entropy more than insurance?
 
 When I started my insurance job, I went back to my alma mater and found that in one of the biggest libraries in the world, insurance took up a single section of a single stack. But there was a gem: _Insuring the Industrial Revolution_ by Robin Pearson, on how insurance helped Britain industrialize as fast as it did.
 
-One example is how cities used to burn down. Chicago, Boston, Toronto, San Francisco. Insurers paid to rebuild them, and as the companies grew they institutionalized firefighters, fire escapes, extinguishers, and drills. They stopped paying for fires by preventing them.
+One example is how cities used to burn down. Chicago, Boston, Toronto, San Francisco. Insurers paid to rebuild them, and as insurance companies grew they helped institutionalize firefighters, fire escapes, extinguishers, and drills. And, thereby stopped paying for fires by preventing them.
 
-Surely the industry that paid for car crashes would want fewer car crashes. Yet the bell was still dinging. I kept wondering why. This is how modern people play the game, but not how any ecosystem or society wins it.
+Surely the industry that paid for car crashes would want fewer car crashes. Yet the bell was still dinging. And we kept driving year round, regardless of the traffic, weather, cost of fuel, countless crashes and injuries. A player of the game would see the ecosytem and make other choices.
+
+Where's the return on the energy we spent putting screens, sound systems, and broadband into every home? We built the theatre and kept driving to the office anyway. It's like plumbing every house and still requiring everyone to walk to the public baths.
 
 ## Chapter 12—Extremes Are Not Natural
 
@@ -1225,27 +1225,27 @@ Nazi scientists attributed human success and failure to genetic heredity alone. 
 
 Soviet science made the opposite wager. Genetics was a myth, it was the environment that made a lifeform. So, they revived Lamarckism, an old idea Darwin's work had displaced. This theory said heredity could change based on environmental factors. Meaning for example, we can "teach" wheat to flower on different seasons and its offspring will inherit this new adaptation. When respected Soviet researchers like Nikolai Koltsov and Nikolai Vavilov rightfully disagreed they were persecuted or killed. By 1948 genetic research itself was banned. The result of this state doctrine was a supposed scientific proof that any plant or person would prosper in any environment, if only it were properly conditioned for it.
 
-These were two entire societies based on promoting, and demoting, either the genotype or phenotype part of human identity. However, as awful as it might sound, these extremes could have technological success. Despite their prejudices, both had the people to use new machinery, mathematics, and other advancements to build modern economies and militaries. Yet they were each was doomed. Both extremes had complacency embedded in them and could never sustain any success in the Game of Life. 
+These were two entire societies based on promoting, and demoting, either the genotype or phenotype part of human identity. However, as awful as it might sound, these extremes could have technological success. Despite their prejudices, both had the people to use new machinery, mathematics, and other advancements to build modern economies and militaries. Yet each was doomed. Both extremes had complacency embedded in them and could never sustain any success in the Game of Life. 
 
 Let's showcase why focusing human identity on the genotype was bound to fail by looking at Nazi Germany's conduct of World War II (1939-1945). This history is told in many books (my favorite being Why the Allies Won), but here's the short version.
 
 It starts in the previous war. German strategy in 1914 aimed at defeating France quickly by invading through Belgium, then turning east to fight Russia. Being in the middle of Europe and easy to blockade, Germany wanted to avoid a long two-front war that would strain its resources. It failed.
 
-World War I was the first war after industrialization. For the first time tractors supplied constant food, so soldiers could war year round. Worse, they had machine guns, with massive amounts explosives and artillery. Old battlefields would be miles long with hundreds of thousands of men. Now they were thousands of miles of trenches and bunkers with millions of men, machine guns, and high-explosives. No side could maneuver into a favorable position. Soldiers thus attacked each other in waves, protected by endless artillery barrages, and relaying observations to commanders far away from the battlefield. It was a war of attrition, both sides tried increasing inputs—more men, bullets, explosive shells—trying to overpower the enemy's defenses.
+World War I was the first war after industrialization. For the first time tractors supplied constant food, so soldiers could war year round. Worse, they had machine guns, with massive amounts of explosives and artillery. Old battlefields would be miles long with hundreds of thousands of men. Now they were thousands of miles of trenches and bunkers with millions of men, machine guns, and high-explosives. No side could maneuver into a favorable position. Soldiers thus attacked each other in waves, protected by endless artillery barrages, and relaying observations to commanders far away from the battlefield. It was a war of attrition, both sides tried increasing inputs—more men, bullets, explosive shells—trying to overpower the enemy's defenses.
 
 Every leader mourned their dead, tried different tactics, but didn't see any alternatives to the trenches, poison gas, shell shock, and horror.
 
-Enter Australian World War I general John Monash. He was a part-time general before the war but a full-time engineer. He saw a way through the carnage. He coordinated his soldiers, tanks, and planes to support each other based on the problems they faced when they faced them. No more increasing inputs with wave attacks. Instead soldiers would be an orchestra of different tools that learned to play the same sheet music, i.e. battle plans. The mentality was called "combined arms warfare".
+Enter Australian World War I general John Monash. He was a part-time general before the war but a full-time engineer. He saw a way through the carnage. He coordinated his soldiers, tanks, and planes to support each other based on the problems they faced when they faced them. No more getting results by increasing inputs with wave attacks. Instead soldiers would be an orchestra of different tools that learned to play the same sheet music, i.e. battle plans. The mentality was called "combined arms warfare".
 
 Monash's ideas culminated in The Battle of Hamel (1918). As he trained them, his soldiers, tanks, and planes worked together and captured Hamel with unusually low casualties.
 
-But months later a starving Germany surrendered. The many other Allied generals never adopted Monash's methods as a new doctrine. Instead, victory over Germany was credited to strong bunkers and defensive strategy the Allies had used over four years. Combined arms ideas were discussed and considered interesting. British theorists even developed war games and wrote books about it. The Allied leadership read them, but never implemented them to any meaningful degree.
+But months later a starving Germany surrendered. The many other Allied generals never adopted Monash's methods as a new doctrine. Instead, victory over Germany was credited to strong bunkers and defensive strategy the Allies had used through four years of war. Combined arms ideas were discussed and considered interesting. British theorists even developed war games and wrote books about it. The Allied leadership read them, but never implemented the doctrine to any meaningful degree.
 
 In contrast, World War I taught every German that they were correct. Germany's isolated geography means it cannot win long wars of attrition. From the top generals to the common soldier, no German had reason to preserve World War I mentalities. So, when they read the British theorists, they liked the idea of being far more efficient with the military they had. They wrote and distributed a practical guide to combined arms warfare called "Beware the Tank!".
 
-The German military took the book to heart. They practiced concentrating many trucks, tanks, planes, and artillery like a sword point at the weak points in the enemy's forces. More importantly, using mobile radios, soldiers talked directly to each other and shared intelligence and commands very fast. Whereas Allied soldiers waited hours or days for help, German dive-bombers, tanks, mobile artillery, and motorized infantry attacked enemy positions together, at the same time. Germans called combined arms warfare "Blitzkrieg", or lightning warfare.
+The German military took the book to heart. They practiced concentrating many trucks, tanks, planes, and artillery like a sword point at the weak points in the enemy's forces. More importantly, using mobile radios, all soldiers talked directly to each other and shared intelligence and commands very fast. Whereas Allied soldiers waited hours or days for help, German dive-bombers, tanks, mobile artillery, and motorized infantry attacked enemy positions together, at the same time. Germans called combined arms warfare "Blitzkrieg", or lightning warfare.
 
-Powerful planes, trucks, tanks, and radio were transforming societies everywhere, and the Allies built modern weapons just like the Germans did. But their leaders owed their careers to World War I methods, so combined arms ideas were filtered out with every training session and promotion. They trained themselves not to see the environment—and made an echo chamber. Radios, tanks, and airplanes were purchased and then added to each unit like a new portable kitchen: nice to have, but not pivotal. Each tool was spread thin, often behind bunkers, connected by layers of commanders relaying orders and assuming there would be time to act before anything bad happened. After all, "piercing" the frontlines of World War I trenches took weeks of broad wave attacks.
+Powerful planes, trucks, tanks, and radio were transforming societies everywhere, and the Allies built modern weapons just like the Germans did. But their leaders owed their careers to World War I methods, so combined arms ideas were filtered out with every training session and promotion. They trained themselves not to see the environment—and made an echo chamber. Radios, tanks, and airplanes were purchased and then added to each unit like a new portable kitchen: nice to have, but not pivotal. Each tool was spread thin, often behind bunkers, connected by layers of commanders relaying orders and assuming there would be time to act before anything bad happened. After all, "moving" the dense frontlines of World War I trenches took weeks of broad wave attacks.
 
 Then in September 1939 Germany invaded Poland. The die was cast as the sequel to World War I had started.
 
@@ -1255,13 +1255,15 @@ An early obstacle was the massive Belgian Fort Eben-Emael. It was built to prote
 
 Belgian defenders waited for German tanks, artillery, and soldiers to attack. Instead the Germans landed gliders on the fort's roof. Without even being detected, 85 troopers walked out, used newly developed shaped explosive charges to blast open the concrete gun emplacements, and the fortress fell in under two days. With barely a struggle, German tanks rolled on and Belgium fell just a few weeks later.
 
-Fort Eben-Emael was symbolic of the entire Allied battle plan. The French built bunkers that were far larger, the biggest called the Maginot Line, and none of them prevented invasion. Instead of landing on them like in Eben-Emael, the Germans massed tanks drove around them, and faced surprised and disorganized Allied soldiers and officers trained for the long timelines and massive and predictable wave assaults of World War I. 
+Fort Eben-Emael was symbolic of the entire Allied battle plan. The French built bunkers that were far larger, the biggest called the Maginot Line, and none of them prevented invasion. Instead of landing on them like in Eben-Emael, the Germans' massed tanks drove around them, and faced surprised and disorganized Allied soldiers and officers trained for the long timelines and the massive and predictable wave assaults of World War I. 
 
-For the Allied societies and militaries, suddenly facing massed planes, tanks, motorized machine guns, mobile artillery, all working directly together was a new reality and a complete mental shock. It was like cheating if such a thing could exist in war. The people wanted peace, their militaries were sure repeating their defensive tactics would bring it. Yet, the German Blitzkrieg burst through the shocked Allied lines using their motorized movement to surround confused Allied armies from all directions. Cut off from their supply and communication lines the Allied units had to surrender. In six weeks the Blitzkrieg did what four years of horrendously bloody war couldn't, and conquered most of Western Europe.
+For the Allied societies and militaries, suddenly facing massed planes, tanks, motorized machine guns, mobile artillery, all working directly together was a new reality and a complete mental shock. It was like cheating—if such a thing could exist in war. The people wanted peace, their militaries were sure repeating their defensive tactics would bring it. Yet, the German Blitzkrieg burst through the shocked Allied lines and surrounded the confused Allied armies from all directions. Cut off from and isolated the Allied units gradually surrendered. In six weeks the Blitzkrieg did what four years of horrendously bloody war couldn't, and conquered most of Western Europe.
 
 One French officer summed up the trauma with a postcard. It was addressed to the country's leader and found on his body, "I am killing myself Mr. President to let you know that all my men were brave, but one cannot send men to fight tanks with rifles."
 
-The Nazis had just beaten an enemy who refused to adapt. And, here is the point so important to us, almost right away the Nazis made the same mistake. They had the victory of World War I, but decided to keep fighting, and couldn't assess their new environment, even as the war turned very much against them.
+The Nazis had just beaten an enemy who refused to adapt. The Allies not only originated combined arms warfare, they watched it work against Poland, Denmark, and Norway and still didn't change their war plans. The military leaders had the order backwards. They assumed leaders are the most qualified to assess the environment. Instead, it's the best at assessing the environment who should be the leaders. A leader's real job is finding those people, because that's what defines a successful species in the Game of Life.
+
+And, here is the point so important to us, almost right away the Nazis made the same mistake. They had the victory of World War I, but decided to keep fighting, and couldn't assess their new environment, even as the war turned very much against them.
 
 The Nazis read their early wins as proof of their ideology. The fact anyone can and did emulate their tools and tactics passed them by. Blitzkrieg wasn't even all that original. Two military historians explained Napoleon's 19th century warfare tactics as "Napoleonic Blitzkrieg". Like Monash a century earlier, Napoleon was an engineer who was very adept at using modern technology of horses, mobile cannons, canned food, and army corps, to concentrate overwhelming forces at what he called the "point of decision". Moreover, surprising a foe and attacking his vulnerable points is hardly unnatural. We know how much nature rewards those being lazy while getting the job done. In many respects, combined arms warfare just re-applied long standing principles with new technology.
 
@@ -1273,7 +1275,9 @@ But the biggest change came when America entered the war in late 1941.
 
 With "Rosie the Riveter" and "Victory Program" leading the way, America turned what the Nazis called a decadent consumer economy to mass-produce quality and reliable weapons, planes, ships faster than anyone thought possible. In 1942 America already outproduced all enemy states combined, 47,000 aircraft to 27,000, 24,000 tanks to 11,000, and six times as many heavy guns. The disparity only increased as time went on.
 
-America turned a 190,000 man pre-war army into over 8,000,000. War games were already being done to see which generals needed to be removed. Soon new commanders adept at modern warfare like Patton, Bradley, and Eisenhower were in power. The war effort also forced open many sexist and racist policies. Women—like the famed Rosie—filled factories and black men did non-combat duties like supplying frontline soldiers in the renowned Red Ball Express. All this culminated in America doing combined arms warfare far better than Germany ever did as they liberated North Africa, Sicily and Italy, then France, Belgium, and Holland.
+America turned a 190,000 man pre-war army into over 8,000,000. Army Chief of Staff George Marshall ran war games to see which generals needed removing, and removed them. Soon new commanders adept at modern warfare like Patton, Bradley, and Eisenhower were in power, while rotating generals based on their battlefield performance became expected and routine.
+
+The war effort also forced open many sexist and racist policies. Women—like the famed Rosie—filled factories and black men did non-combat duties like supplying frontline soldiers in the renowned Red Ball Express. All this culminated in America doing combined arms warfare far better than Germany ever did as they liberated North Africa, Sicily and Italy, then France, Belgium, and Holland.
 
 This is not to say victory was assured. As the author of "Why the Allies Won" notes, in the middle years, the "conflict was poised on a knife’s edge". The point being made here was that Nazi Germany, so obsessed with genetic explanations for its successes, couldn't respond outside of its own extreme beliefs.
 
@@ -1307,7 +1311,7 @@ With so little being produced, everyone knew the best jobs were rising in the go
 
 In contrast, when America put rockets in space, average citizens were following along in real-time on radios and TVs sharing the same technology. As Soviet innovation stalled in the 1970s, the Soviet Union grew ever more dependent on oil exports to fund a bloated state bureaucracy and military. It needed to buy the advanced industrial equipment, and even food, it could not produce itself. Regular workers joked "we pretend to work, they pretend to pay us". When video tapes of bountiful western supermarkets pierced through government propaganda, and oil prices fell in the 1980s, the entire Soviet system imploded as its various peoples either voted to abandon it or watched as even once-committed believers let the communist project die.
 
-Both extremist regimes hit the same wall. They both wanted to mix scienctific advancement and mass-production to create amazing new tools. Both thought screen boardmates would make that happen. Neither saw technology as an ecossytem of producers, grazers, predators, etc. who need all types to operate it. Thus, each regime's carrying capacity was far below what it had promised its believers. Instead of reflecting, both resorted to increasing inputs—by taking, or by selling. Germany needed Austrian gold, Czech factories, Ukrainian grain, and Caucasus oil. The Soviets seized manyh German and Japanese power stations and factories after the war, innovated on that equipment for a time, then had to sell oil to stay afloat until even that wasn't enough.
+Both extremist regimes hit the same wall because they misplayed the same game. They both wanted to mix scienctific advancement and mass-production to create amazing new tools. Both thought screening boardmates would make that happen. Neither saw technology as an ecosystem of producers, grazers, predators, etc. who need all types to operate it. Thus, each regime's carrying capacity was far below what it had promised its believers. Instead of reflecting, both resorted to increasing inputs—by taking, or by selling. Germany needed Austrian gold, Czech factories, Ukrainian grain, and Caucasus oil. The Soviets seized many German and Japanese power stations and factories after the war, innovated on that equipment for a time, then had to sell oil to stay afloat until even that wasn't enough.
 
 People selecting winners and losers is not itself a problem. Every farmer selects, every teacher selects, every coach selects. The problem was what the extremists selected on. Class origin and bloodline aren't measures of fitness; they're faces in a crab shell.
 
@@ -1315,7 +1319,7 @@ As we learned in the Game of Life, nature keeps score on something else entirely
 
 ## Chapter 13—Moderation Is Natural
 
-The West was different. Not by intent, but by structure. It found more reciprocation because it was moderate. The power to create and modify society and technology was placed in many hands. Legislatures, courts, states, churches, unions, universities, private companies, and other institutions each held a piece, and none held enough to disregard a whole category of persons or ideas. As a result the amount diverse mass-produced products their could make with their resources, far exceeded anyone else.
+The West was different. Not by intent, but by structure. It found more reciprocation because it was moderate. The power to create and modify society and technology was placed in many hands. Legislatures, courts, states, churches, unions, universities, private companies, and other institutions each held a piece, and none held enough to disregard a whole category of persons or ideas. As a result, the diversity of mass-produced goods they could make with their resources far exceeded anyone else's
 
 Exclusion and oppression were real in the West, and often brutal. Government overreach existed. Businesses could be very selfish. But nothing was ever total, because there was always another jurisdiction, another employer, another lab. Western boardmates were more free to play the game, and so often had to make better deals with each other: a worker making a better product, a business giving a pay raise, or a bureaucrat writing a useful regulation. Like a squirrel who dislikes a nut, if they didn't their boardmate would move on to a different product, employer, or jurisdiction. The freedom to pick from among these options meant there was room and need for genotype and phenotype identities.
 
@@ -1343,15 +1347,19 @@ We already learned healthy ecosystems are not created by concentrating on genoty
 
 The transistor was born from a partnership no single ideology contains: government demand, private enterprise, open research, and open market fused into one pipeline. Vannevar Bush embodied this pipeline in so many ways. He was the dean of MIT School of Engineering, a Raytheon founder, and America's wartime science chief. He even described how to fund and integrate this society wide system of invention with his report to the President Roosevelt, _Science: the Endless Frontier_.
 
-The transistor showcases this pipeline's success. It was discovered at Bell Labs, an open research lab (1947) that had physicists, engineers, electricians, and power-line installers researching together. The transistor's early development was uncertain and expensive, paid for by military and NASA contracts to companies like Fairchild Semiconductor. With the needed resources and incentive at hand, these private companies highered the brightest from the public and private American university system. These scientists soon turned a single transistor into the first integrated circuits (1959) packing several transistors into a single device.
+The transistor showcases this pipeline's success. It was discovered at Bell Labs, an open research lab (1947) that had physicists, engineers, electricians, and power-line installers researching together. The first transistor products early development was uncertain and expensive, paid for by military and NASA contracts to companies like Fairchild Semiconductor. With the needed resources and incentive at hand, these private companies hired the brightest from the public and private American university system. These scientists soon turned a single transistor into the first integrated circuits (1959) packing several transistors into a single device.
 
 Then the competitive market raced in. Lucrative air force missile and NASA rocket contracts helped make transistors cheap enough for the general population. Soon transistor radio (late 1950s) and pocket calculator (mid 1960s) sales exploded. Thereafter, transistor scientists met the capital markets and funded their own companies. These newcomers drove development into overdrive, and one of the so-called "Fairchildren", Intel, invented the microprocessor (1971). Now thousands of transistors came on a chip that could be reprogrammed for any application.
 
-Programmable computers, laptops, smartphones define mass-production of diversity. They can be anything for anyone. There's for-profit and open-source software making operating systems, word processors, dictionaries, web browsers. With transistor counts currently in the tens of billions, computers could do anything we asked them to.
+Programmable microprocessors power computers, laptops, smartphones and define mass-production of diversity. They can be run by for-profit and open-source software, word processors, dictionaries, web browsers. With transistor counts currently in the tens of billions, computers can do anything anyone asks.
 
-Within a few decades the transistor went from undiscovered, to the size of a pencil eraser, to powering home computers and massive super-computers. The West's invention of the transistor was not a lucky shot. The internet, 3D printing, personal computers, GPS, lasers, all had a very similar development cycle. Soviet thinkers like Kitov and Glushkov wrote similar theories about the future of technology. A world where networked computers could process vast amounts of economic information instantly instead of using paper forms and bureaucrats. Both could only watch while others built it.
+Within a few decades the transistor went from undiscovered, to the size of a pencil eraser, to powering home computers and massive super-computers. The West's invention of the transistor had antagonism. The scientists who started Fairchild were called the "Traitorous Eight" for leaving their employer (a much bigger deal back then), and just barely got funding to start their history changing company. But they, and many others, did. Proving it was not a lucky shot.
 
-Look at the boardmates needed to birth a new tool. The pipeline includes the obsessive researcher who'd be useless at selling. The government institution-builder who thinks in decades. The risk-taker scientist who quits stable employment. The idealist engineer who gives away expensive software. The dropout who sells ten million computers. The hacker who invents a personal computer. None would excel at each other's jobs. Some do what they do because of genetic traits like intelligence, arrogance, or stubbornness. Others are converts to belief systems of altruism or greed. No ideology covers each person. Each is a different mixture of genotype and phenotype identities. They each have temperaments every society produces and every ecosystem needs to originate new mutations, test which versions are best, produce them, and then predate, scrap, hack, and recycle them to keep the process going.
+The internet, 3D printing, personal computers, GPS, lasers, all had a very similar development cycle. Soviet thinkers like Kitov and Glushkov wrote similar theories about the future of technology. A world where networked computers could process vast amounts of economic information instantly instead of using paper forms and bureaucrats. Both could only write about the future while others built it.
+
+Look at the boardmates needed to birth a new tool. The pipeline includes the obsessive researcher who'd be useless at selling. The government institution-builder who thinks in decades. The risk-taker scientist who quits stable employment. The idealist engineer who gives away expensive software. The dropout who sells ten million computers. The early adopter hacker who keeps tinkering with these new tools.
+
+None would excel at each other's roles. Some do what they do because of genetic traits like intelligence, arrogance, or stubbornness. Others are converts to belief systems of altruism or greed. No ideology covers each person. Each is a different mixture of genotype and phenotype identities. They each have temperaments every society produces and every ecosystem needs to originate new mutations, test which versions are best, produce them, and then predate, scrap, hack, and recycle them to find the energy to keep the process going.
 
 The fight between all these perspectives never ends, and shouldn't. How much public investment is needed, who captures the profit, who carries the risk—that argument is real. But it's a quarrel at the edges like plant life fighting for sunshine or predators for the best hunting grounds. No player should ever envision a place without such competition. From times immemorial, boardmates depend on what only different creatures can contribute to the shared ecosystem's efficient and continual harvesting of energy. 
 
@@ -1369,9 +1377,9 @@ The call-in queue was the rock, its bell keeping us wrapped in endless DINGS. Ou
 
 I needed to adapt. Why not borrow from my grimy-carpet days?
 
-After each call, adjusters wrote custom emails explaining next steps. I used Outlook's signature feature to build templates. It saved two to five minutes per call. Others copied it.
+After each call, adjusters wrote custom emails explaining an insured's next steps. I used Outlook's signature feature to build templates. It saved two to five minutes per call. Others copied it.
 
-I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. Then I made another track our phone call notes. Not faster, but standardized and easier to update.
+I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could show who called, what they wanted, and how I helped. Then I made another app to help write our phone call notes. Not faster, but standardized and easier to update.
 
 I showed my gray-haired, sleep-deprived boss. He showed higher management. And then:
 
@@ -1381,11 +1389,11 @@ They never asked how it worked or why I made it. Lower management eventually mad
 
 The demands to answer more calls never stopped.
 
-I could end there and make it sound damning. Insurance management didn't want to speed up their own claims department.
+I could end there and make it sound damning. Insurance management didn't want to speed up their own claims department!
 
 But it isn't that.
 
-Inventing and adopting new tools is part of our personal lives, but not our education or work culture. There's no curriculum "how to learn tools". There's no law protecting it, no protests, no amendment. We're often not even aware of what our choices cost, because we see work titles and ethnicity, not technological identity.
+Inventing and adopting new tools is part of our personal lives, but not our education or work culture. There's no curriculum "how to learn tools". There's no law protecting it, no protests, no amendment. We're often not even aware of what our choices cost, because we see work titles and ethnicity, not technological identity. We still test others memories while holding the pad and pencil, so to speak.
 
 Here's the same blindness elsewhere.
 
@@ -1393,19 +1401,21 @@ I got a report from another insurance company. My insured reversed into theirs a
 
 My insured said the other driver's story was bogus. He hadn't been in a crash. He hadn't even been in the city!
 
-So I emailed the other adjuster, who replied with a picture.
+I emailed the other adjuster with that, and he replied with a picture.
 
-It was the middle of the day, taken by the other driver leaning out his window, perfectly sharp. A white van in front, same make as my insured's. The plates were clean, readable, and a match. Street signs were very legible. The town clock tower was even in the background, with the correct time.
+It taken by the other driver leaning out his window, middle of the day, perfectly sharp photo of a moderately-sized city main street. A white van in front, same make as my insured's. The plates were clean, readable, and a match. Street signs were very legible. The town clock tower was even in the background, with the correct time.
 
-And then, my insured's face, visible in the reflection of his side mirror. Frowning, like a man who has just reversed into somebody.
+And then, my insured's face, visible in the reflection of his side mirror. He was frowning, like a man who has just reversed into somebody.
 
-Images don't show movement, so technically I couldn't use it to confirm liability. But I sent it to my insured for him to comment. He just replied, "I'm sorry."
+Images don't show movement, so technically I couldn't use it to confirm liability. But I sent it to my insured and asked him to comment. He replied, more or less, "I'm sorry". I imagine he typed it with the same expression I'd just seen in his mirror.
 
-The point is, this picture was one in a million. Most of the time there's no picture or video, the dispute drags on for days, and that bell keeps ringing.
+The point is, this photograph was one in a million. Most of the time there's no picture or video, the dispute over what happened drags on for days, and that bell keeps ringing.
 
-But, dash cams are cheap, available, and uncommon. Yet, lower rates, less fraud, fewer disputed crashes is all right there in one camera. Instead we have pictures of food, animals, and rants, marches of people blaming each other for endless car traffic, rising insurance rates, and waiting on hold for your insurance adjuster.
+But, dash cams are cheap, available, and uncommon. The lower insurance rates, less fraud, fewer disputed crashes are all right there in one camera. Instead we have pictures of food, animals, rants and marches of people blaming each other for endless car traffic, rising insurance rates, and waiting on hold for your insurance adjuster.
 
 Keep note, it's not just _them_ who reject new tools.
+
+<!-- Note, developing a dash cams is what makes a person a creator. Spreading them makes you a predator selecting against the corrupt. Not using one makes you a consumer who can't see the orange tigers waiting to ponce. -->
 
 ## Chapter 14—Meeting the Coach
 
@@ -1437,7 +1447,7 @@ Such is the power of a human belief system.
 
 As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a human one, that happens whenever the distance between selecting tools and its consequences gets too far apart. Allied generals had bunkers and battle plans ensuring victory, the same way Soviet leaders were planning an entire economy, the same way kings had grand palaces and spiritual reasons why they were born to rule. And this is what studying techvolution will help us understand and address.
 
-We start by understanding every individual is the unit of selection. Like all lifeforms, every person is trying to be as lazy as possible. So, everyone inside these echo chambers can act rationally when out to get a better job but all were still collectively doomed because their pursuit masked reality. 
+We start by understanding every individual is the unit of selection. Like all lifeforms, every person is trying to be as lazy as possible. So, everyone inside these echo chambers could act rationally in pursuing a better job and still be collectively doomed. 
 
 Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies. Heck, String Theory went from possibly explaining the biggest secrets in physics in the 1990s to now openly mocked for its inability to produce a single testable prediction. Everyone knew it might end this way, and it was always okay to say so. Now cutting-edge funding and students drift elsewhere while its defenders are allowed to keep researching.
 
@@ -1467,7 +1477,7 @@ Nature doesn't hand out name-tags. We don't actually know what an iron atom call
 
 Nature can't read our name-tags either. Only actions register, and nearly all of ours run through tools we graze, hunt, scavenge, and decompose with. We see Matthew, Sarah, Apple, Google. Nature sees pilot, bureaucrat, mechanic, welder, general, scrapper, miner—all of them burning energy to keep something assembled.
 
-A new identity sees our current problems differently. It helps Maria prepare for the future better. She knows political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. It helps her communicate worries about her health insurance without a boardmate thinking she's a socialist. Or if she says cheap imports are closing her factory she's not dismissed as a fascist. Instead, her boardmates listen and investigate what is happening behind the scenes of storytelling identities.
+A new identity sees our current problems differently. It helps Maria prepare for the future better. She knew she was never a "manager" of people, best for arranging uniforms or enforcing rulebooks. There is no technological role or future in such an identity. She knows political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. It helps her communicate worries about her health insurance without a boardmate thinking she's a socialist. Or if she says cheap imports are closing her factory she's not dismissed as a fascist. Instead, her boardmates listen and investigate what is happening behind the scenes of our storytelling identities.
 
 What's happening is echo chambers are fraudulent harbors that trick people into indulging in their extremes while suffering the endless storms of the environment. The conservative-minded advocate for inheritance and tradition while the progressive-minded for control and novelty. Together as we've seen they invent wondrous technology and win wars. Divided, neither moderates the other, and so our society bunkers down inside old lifestyles, telling stories to one's tribes why we are the noble Lion King, and the other is the devious socialist or fascist Scar who should suffer the pains of self-inflicted wounds of stagnation.
 
@@ -1483,7 +1493,7 @@ Our problem is not lack of technology. We have all the seeds, plants, creatures 
 
 We are in a new environment. No one has ever grown an ecosystem using digital technology. Fitting to any organism, we are figuring out what works, but not with study and foresight, but with pain. We are the raccoon. We are Maria. We have a stutter. But these are states of mind to reflect and act on and need not be something to suffer.
 
-Entropy doesn't decide whether life prospers. Life does by harvesting enough energy to organiz matter and shedding what no longer fits. Whether your lineage continues depends on whether you do the work.
+Entropy doesn't decide whether life prospers. Life does by harvesting enough energy to organize matter and shedding what no longer fits. Whether your lineage continues depends on whether you do the work.
 
 You are not powerless. You are the unit of selection. Your daily choices make the future of life. You can use the rules of physics, chemistry, geology and evolution to make life prosper.
 
@@ -3691,15 +3701,15 @@ He drops his pencil. Extends his hand.
 
 **DING...DING...DING...Thank you for calling claims, how can I help you?**
 
-An insurance broker looking for an update on a rental car status. I can help you with that. 5 mins. Approve additional rental days if there was a mistake somewhere or the call goes too long.
+_An insurance broker looking for an update on a rental car status. I can help you with that. 5 mins. Approve additional rental days if there was a mistake somewhere or the call goes too long._
 
 **DING...DING...DING...Thank you for calling claims, how can I help you?**
 
-Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. No good reason why the claim wasn't processed earlier. Now what? A long and angry call I bet.
+_Claim has not been processed. Vehicle sitting at the tow yard for 28 days. Insured has no collision coverage. Insured has to pay. The insured has no reason why he didn't call and process claim earlier. Now what? A long and angry call I bet._
 
 **DING...DING...DING...Thank you for calling claims, how can I help you?**
 
-Other repair company sharing crash details and confirming who is at fault. I wonder what they're pending. I hope I can close one of my claims now.
+_Other repair company sharing crash details and confirming who is at fault. I wonder what their pending is. I hope I can close one of my claims now._
 
 ---
 
@@ -3717,15 +3727,13 @@ But they, and everyone, were simply up against a wall.
 
 We had no control over the stream of problems we encountered, but since "insurance" is associated with making problems go away, a person running a red light, or getting their car stolen, became our problem to help solve.
 
-One of my claims happened in a different state.
+One of my claims happened in another state. I couldn't find that state's regulations anywhere. I searched, I called around, and only days later did I finally get an answer.
 
-I could not find its government regulations. I tried and tried, called and searched around.
+In that state, a not-at-fault driver could sue the at-fault driver for a maximum of one thousand dollars. Anything above that, you cover yourself if you have collision coverage. My insured didn't. So his car was wrecked by someone else's mistake, and he was paying for almost all of it.
 
-I got it days later. The regulation said a not-at-fault driver could sue the at-fault driver for $1,000. Any damage above that requires having collision coverage to repair. My insured had no collision coverage. I had to explain this to my insured over a long phone call.
+I had to explain that over a long phone call.
 
-In short, the insured was screwed.
-
-But by whom? He didn't buy collision insurance, but maybe someone could have told him this could happen? Yet, I've processed thousands of claims and didn't even know his situation was possible.
+But whose fault was it? He hadn't bought collision coverage. But nobody had told him what that could mean in another state. I'd helped process thousands of claims and I didn't know the situation was even possible.
 
 The point is, after asking "what's your pending?" to hundreds of adjusters around the country, these stories were common. With so many different regulations, laws, policies, vehicles, companies, etc. Complications and surprises are inevitable.
 
@@ -3739,23 +3747,23 @@ Today there are thousands of unique headlight assemblies, each specific to one m
 
 In 1982 a sealed beam cost about fifty dollars in today's money. You bought it at any parts store, it fit almost anything on the road, and you swapped it yourself in ten minutes.
 
-In 2026 the cost is four to four thousand or more on a premium car. Fitting it can mean pulling the bumper, usually a mechanic must do it, which is several hundred in labour costs. And the worst part, since most cars of their own version, there's so many different kinds, meaning weeks on back-order is too common.
+In 2026 the cost is four hundred to four thousand or more on a premium car. Installation likely means pulling the bumper, which adds several hundred more in labour costs. And the worst part, since most cars have their own version, there are many different headlights. Instead of easily stocked shelves there's often weeks on back-order.
 
-And this is just for headlights. The same complexity exists throughout automobile supply chains, regulations, contracts, and so on. The increasing complication of our economy has strong ripple effects. Who pays for increased costs? Never mind when waiting weeks for a model-specific repair parts? The car owner, repair shop, manufacturer, parts supplier, insurance company? Arguing over who pays is now routine and definitely raised insureds emotions and adjuster pendings. 
+And this problem is just for headlights. The same complexity exists throughout automobile supply chains, regulations, contracts, and so on. The increasing complication of our economy has strong ripple effects. Who pays for the increased costs? Whoever does means higher prices for cars, repairs, replacement parts, and insurance premiums. Arguing over who pays is now routine and definitely raises insureds' emotions and adjusters' pendings.
 
-Modern LED headlights are better. But there's no reason they can't be more standardized and easier to install.
+Modern LED headlights are better. But there's no reason they can't be more standardized and easier to install. 
 
-Just food for thought. These are not just stories of my job. The bell ringing at the claims center isn't just a warning for adjusters to work faster—it's ringing for you too, a signal about the state of your economy, heard directly from the frontline.
+Just food for thought. These insurance stories are not about my job. The bell ringing at the claims center isn't only a warning for adjusters to work faster—it's ringing for you too, a signal about the state of your economy, heard directly from the frontline.
 
 ### Story—Cured
 
-You might remember: one of my first claims involved tracking down a Buick Allure for my insured. It took hours that I didn't have to spend. But she'd never actually asked. She'd simply said, very nicely mind you: "I only drive Buick Allures." I assumed it was my job, so I found one.
+You might remember: one of my first claims involved tracking down a Buick Allure for my insured. I did it, but it took hours that I didn't have to spend. Here's the thing, she never actually asked. She'd simply said, very nicely mind you: "I only drive Buick Allures." I assumed it was my job, so I found one.
 
 Years later, I had a similar conversation.
 
 She said, "I only drive Land Rovers."
 
-Her tone wasn't nice. I kept typing out her requisition orders.
+Her tone wasn't nice. I kept typing out her repair and rental requisition orders.
 
 "Hello?"
 
@@ -3781,7 +3789,7 @@ I said it gently. I was having a conversation; she was being the bully.
 
 "I can't believe this. This isn't my problem." The bell was probably going DING DING DING by the way.
 
-"With respect, it is if you want to drive a Land Rover as a rental I don't know of any company that stocks those. They usually opt for reliable cars with good resale values."
+"With respect, if you want to drive a Land Rover as a rental I don't know of any company that stocks those. They usually opt for reliable cars with good resale values."
 
 "Can I speak with your manager?"
 
@@ -3789,7 +3797,7 @@ I said it gently. I was having a conversation; she was being the bully.
 
 "Ask him!"
 
-"I can't make him call you." I continued, "Insurance deals with contracts and policies. He'd probably ask where it says you can only rent Land Rovers. Every policy is contract and they never specify brands. I can send your authorization for a rental in that class, depending on availability. Or I can send you a cheque and you arrange your own rental, uber, or public transportation."
+"I can't make him call you." I continued, "Insurance deals with contracts and policies. He'd probably ask where it says you can only rent Land Rovers. Every policy is contract and they don't specify brands. I can send your authorization for a rental in that class, depending on availability. Or I can send you a cheque and you arrange your own rental, uber, or public transportation."
 
 She took the pre-authorized rental. I never heard from her again.
 
@@ -3797,27 +3805,27 @@ I'd thought I couldn't be honest with insurance customers. I stuttered on many c
 
 Let a person deal with their reality. If they ask, I'm here to help. Most people absolutely loved that approach. If they didn't, I wasn't getting nervous on their account. That was the key to my vocal freedom.
 
-I often recall this Land Rover conversation. Though I still stutter occasionally, when I look back that's when I realize I don't have a stutter anymore.
+I often recall this Land Rover conversation. Though I still stutter occasionally, when I look back, that's when I realize I don't have a stutter anymore.
 
-I thought this was poetic. My last ever automobile queue call was a young lady. A "sideswipe" crash. Usually both drivers say the other changed lanes, making 50/50 fault common. But she said the police charged her for improper lane change. Unusual, I thought, and kept working.
+I was put to the test on my last automobile queue call. 
 
-She responded to my 100% at-fault notice with indignation: "But the other guy had a dash-cam."
+She was a young lady with a "sideswipe" crash. Usually both drivers say the other changed lanes, making 50/50 fault common. But she said the police charged her for improper lane change. Unusual, I thought, and kept working.
+
+I advised she was 100% at-fault. She was angry: "But the other guy had a dash-cam."
 
 After thousands of calls, I could still be stunned. "Huh?" I responded.
 
 "Think of it. How bad of a driver does he have to be, to need a camera?"
 
-That was my last auto call. My next call was my last. It was a cow slipping on ice.
+What a last call. I didn't stutter or apologize. Just said she was at-fault, asked nicely if she had any questions, and sent her repair and rental requisitions. That was my last auto call. My next call was my last. It was a cow slipping on ice.
 
 Soon after, I got promoted to property adjuster. A totally different vibe. I had my own files, no queue, and time to actually work them. I loved that property claims department job and team (I wish I never left).
 
 I learned much doing property claims too, but those years in auto claims effectively cured my stutter and by chance happened to be extremely educational. The over 2,000 auto claims, 8,000 queue calls, endless emails and voicemails, and uncountable interactions from everybody between lawyers to plumbers, NBA stars to single parents, body repair shops to other adjusters, taught me how managers, workers, and consumers interact to make today's struggling economy.
 
-The struggle isn't inevitable. We just need to cure ourselves. To take note of what's wrong and being willing to learn how to improve it. Our society has a stutter of sorts. A mental block of the mind. There's no shame it in. A hungry polar bear, thirsty tree, scared raccoon all of it too. We can work to move past it. My process and its journey. became the practical foundations of Techvolution.
-
+Our society has a stutter of sorts. A hungry polar bear, a thirsty tree, a scared raccoon all have one too. The environment changed and the old response no longer works. There's no shame in that. Ours is just a block in the mind. We can be honest, confront it, and cure ourselves.
+ 
 ## Chapter 16-Epilogue
-
-### Epilogue
 
 _What you see when you look at intelligence [polygenic scores predicting educational attainment] is that this maxes out in the Bronze Age, between 5,000 and 2,000 years ago. The impact in the last 2,000 years is almost nothing. There's no evidence of natural selection at all. Your bias coming into this, my bias perhaps, might be that if there's any signal of natural selection on this trait at all, that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years._
 
@@ -3856,6 +3864,8 @@ Simply put, this book worked if you understand anyone can embrace any beliefs. B
 
 Accepting this does not mean abandoning your identities or communities. I practice cultural dance, cheer for my country, read ideologies, believe in a religion. But I do those for the same reason I exercise: to feed my genotype and phenotype and try to live my version of a happy human life. Even so, I know my calories, heat, shelter, and electricity don't come from a wild nature, but from a technological ecosystem I work in, that others in and outside of my community, produce, graze, hunt, scavenge and so on.
 
+We are not a species fighting over natreu's giving tree. We are operating an ecosystem. With all the equally important and diverse roles that requires.
+
 I dealt with hundreds of upset customers. Rarely about money, as most assume. They were angry about being in the dark—waiting on hold for hours is worse than hearing bad news fast. Yet not one of them ever asked what tools I was using, what pencils I had to work with. It was always "what's wrong with you," as if I processed claims to replace cars or houses with my memory and my words, and not mountains of paperwork on aging software and dull pencils inside a society that finds it increasingly hard to kill old tools like commuting to office buildings or telephone queues and instead build new things quickly.
 
 By naming the "technological giving tree" in the vignettes, I wanted to hit you with where we are: the very beginning of a technomass Earth. We are Kai—the hunter-gatherer who walked for days to find a tree he could have planted at home. It's no wonder Kai couldn't imagine agriculture; it took humans hundreds of thousands of years to learn to master biomass in such a way. We are a few thousand years into a technological Earth.
@@ -3864,25 +3874,27 @@ Kai is our biological equal with a mindset just as out of date. Even so, I hope 
 
 For now, the tree is dying.
 
-So many of us have been Maria, surrounded by stories but unable to decode our own. We enjoy surprise endings on a screen, then get one at work and call it bad luck or someone else's fault.
+So many of us have been Maria, surrounded by newsfeeds, movies, books, legends like a dog is surrounded by smells, a mole by vibrations, a bird by sights, a sailor by stars. Stories are good cognitive shortcuts for understanding our environment. But they restrain us when our instruments sense a world those stories were never written for.
 
-That mismatch between our mentality and what our tools can do is the heart of our problems. The buildings, schools, power stations, roads, the whole civilization our ancestors planted, is aging fast. We harvest its energy (larger raises, dividends, houses, cars) but don't return enough (new tools, lifestyles, kids), so entropy tears it down. I've handled the claims for much of it: car breakdowns, collapsed sewer lines, flooded basements, burned homes, blown generators, fallen bridges. Across thousands of people, no one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
+That mismatch between our mentality and what our tools can sense for us, is the heart of our problems. The buildings, schools, power stations, roads, the whole civilization our ancestors planted, is aging fast. We harvest its energy (larger raises, dividends, houses, cars) but don't return enough (new tools, lifestyles, kids), so entropy tears it down. I've handled the claims for much of it: car breakdowns, collapsed sewer lines, flooded basements, burned homes, blown generators, fallen bridges. Across thousands of people, no one wanted me to protest with them or even send them money. Each ring of that darn bell was a call for help. They wanted their technology healed, like antiseptic on a cut.
 
 We aren't doing that fast enough. We are using the wrong selection that is serving entropy.
 
-As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy eventually always wins. Instead of healing and evolving, we go in circles, fighting over policies as if they were scriptures. Meanwhile, we need the progressive-minded to find neglected problems and invent solutions to these untapped niches, the conservative-minded to mass-produce the tools, and everyone to use them to hunt inefficiencies.
+As a result, we're perhaps facing an extinction event. This is not a dramatic statement. As you've seen, entropy often "wins". Instead of healing and evolving, we go in circles, fighting over policies as if they were scriptures. Meanwhile, we need the progressive-minded to find neglected problems and invent solutions to these untapped niches, the conservative-minded to mass-produce the tools, and everyone to use them to hunt inefficiencies.
 
 The tools already exist. Baran, ARPA, and others gave the internet away for free; companies big and small spread these tools worldwide. Your job now is to choose which to adopt and which to ignore—and thereby select a more efficient lifestyle. The same process that made lifeforms like birds and whales into such efficient creatures.
 
-We don't know how. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertile soil, or explorers looking for the next island, someone has to cross the dangerous waters and plant many new giving trees with the tools we have.
+We don't fully know how yet. We're not supposed to. No one has built a working ecosystem using Internet Age tools. Caesar bridged the Rhine to frighten the Germans—twice. We are those Germans now, at the river's edge, and like grazers needing to find new fertile soil, or explorers looking for the next island, someone has to cross the dangerous waters and plant many new giving trees with the tools we have.
 
 Reimagining society is hard. It's full of failure, natural and artificial, because no one has been here before.
  
 Plants venture into new territories. Ants rebuild non-stop. Working folks learn new tools all the time. Of course we can fix our world. Biologists can heal forests once plagued with frailty and loss. We can do the same for technology. The open-source makers have already evolved so many wondrous free tools for anyone to get started right now. That's the fertile soil in which you—wherever you are in the world—can grow the future.
 
-After all, adapting to a new gameboard is where life lives. You can too, if you first think in terms of using less energy every day and not satisfying human stories.
+If it motivates you, I made a web page to explain insurance and fault rules to drivers. It's free on the internet. AI was even trained on it too. It gets about 7,000 visits a month, doing the work of perhaps 10 adjusters. Such is the power of open-source to skirt barriers and get a foothold in a new environment.
 
-Yet instead of crossing today, many with dying tools try to demand others use them. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is natural. Doing so with artificial selection is not. With their palaces and bunkers, neither was coaching. Both were being selected. Pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy catches up to everyone equally.
+Adapting to a new gameboard is where life lives. Remember all lifeforms from dinosaurs to humans, are made with many small iterations. You can make the future, if you first think in terms of using less energy every day and not satisfying human stories. We still have the diverse ecosystem of academic, corporate, market, government, open-source interests that invented transistors, the internet, and so much else at the ready to keep going and invent the next stages of the Internet Age.
+
+Yet instead of crossing today, many with dying tools try to demand others stay behind. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is natural. Doing so with artificial selection is not. With their palaces and bunkers, neither was coaching. Both were being selected. Pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy catches up to everyone equally.
 
 Human civilization so often feels the pain of being mammoths because we don't know how to embrace starting over. If an astronaut can give up walking on the Moon, if we decry Charles, Auld, and so many others for being so obstinate, we have enough history behind us to be honest that each job, title, and profession is connected to a toolset, with a lifecycle, and thus when our tools age it's perhaps time to pre-empt natural selection and pass the torch.
 
