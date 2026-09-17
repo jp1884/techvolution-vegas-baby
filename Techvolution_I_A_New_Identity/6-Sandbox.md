@@ -5659,3 +5659,30 @@ I had no recourse. I got a very stressful 51%. Just one example. There are count
 We also can't expect an economy that quickly responds to problems either.
 
 ===
+
+<!-- 
+_But lo! men have become the tools of their tools. The man who independently plucked the fruits when he was hungry is become a farmer; and he who stood under a tree for shelter, a housekeeper. We now no longer camp as for a night, but have settled down on earth and forgotten heaven._
+—From “Walden” by Henry David Thoreau.
+-->
+
+===
+
+Unsurprisingly, our economic challenges continue to mount.
+
+The statistics paint a stark picture of our financial strain. Adjusted to 2023 dollars, median household income rose from about $62,000 in 1991 to about $79,000 in 2021, an increase of roughly 28 percent over thirty years.
+
+Yet, the cost of living increase has dramatically outpaced this increase.
+
+Average home prices across U.S. states were about 345 percent higher in 2024 than in 1991. While the average annual premiums for employer-sponsored family health coverage increased 49 percent from 2013 to 2023. Average in-state tuition about doubled from 1991 to 2023. Grocery costs rose significantly in recent years—a 20–30 percent increase from 2020 to 2025.
+
+This widening economic gap has driven debt to unprecedented levels. Student loan debt exploded from nearly $481 billion in 2006 to over $1.7 trillion by 2021. For young adults aged 18-24, mortgage costs tell a similar story—average home debt jumped from under $40,000 in 1992 to $117,000 in 2022. Economic betterment has also largely stopped in America, with only half of Americans born in 1980 earning more than their parents, compared to 90 percent of those born in 1940.
+
+I don't need to cite anymore numbers because you see this trend when matching your paycheck to your bills. This demands a question: why, with more technology than any civilization in history, are so many people falling behind?
+
+The average American gets paid less but charged more, and turns to the ideologies we have for relief. Ideologues, pundits, and believers say their superior government policy can address our challenges. When it doesn't work we're told to blame the "other side". That hasn't worked either because evolution demands more: we must adapt by innovating new tools and adopting a new lifestyle.
+
+---
+
+Earth will prosper to new heights when human conflict is minimized and cooperation is maximized, not through wishful storytelling or ideological idealism, but through the innate drive that propels all life to seek resources, evade threats, form alliances, and adapt. This drive often shows up in everyday situations—such as what I learned as a child when ordering pizza—because our limitations are not who we are, but challenges that better allies and tools can solve. Techvolution provides a new framework to understand this paradigm and consciously supports the evolution of life on Earth.
+
+===

@@ -5,7 +5,7 @@
 
 ## Dedication
 
-_This book is dedicated to the middle class. Clinging to Industrial Age tools, habits, and ways of life has squeezed us for decades. The open-source community has already built the tools of the Internet Age that will return us to prosperity—if we just reach out and grab them._
+_To the middle class, for keeping everything running._
 
 ## Opening Quotes
 
@@ -20,11 +20,6 @@ _"Man is a tool-making animal."_
 _"It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change."_
 
 —Leon C. Megginson, often wrongfully attributed to Charles Darwin
-
-<!-- 
-_But lo! men have become the tools of their tools. The man who independently plucked the fruits when he was hungry is become a farmer; and he who stood under a tree for shelter, a housekeeper. We now no longer camp as for a night, but have settled down on earth and forgotten heaven._
-—From “Walden” by Henry David Thoreau.
--->
 
 ## Table of Contents
 
@@ -49,17 +44,17 @@ Chapter 16—Epilogue
 
 ## Preface
 
-To most people, corner stores only house quick conveniences. To kids, they are wonderlands of comics and candy, magical spaces where imagination and sweetness live in harmony.
+To most people, corner stores house quick conveniences. To kids, they are wonderlands of comics and candy, magical spaces where imagination and sweetness live in harmony.
 
 I loved visiting my local store. I would casually browse the options, select a comic and treat, and happily hand over cash to the kind shop owner. A slice from the pizzeria next door always completed the perfect day.
 
-But there lived a real super-villain.
+But inside that place lived a real super-villain.
 
-I would stare at it through the "PIZZA" letters on the storefront. Only if there were one kind of slice available could I bypass the tyrant and get the slice I so wanted.
+I would stare at it through the giant "PIZZA" letters on the storefront. Walking back and forth I hoped I would overcome my nemesis. My biggest hope was that only one kind of slice would be available. Then could I bypass the tyrant and get the slice I so wanted.
 
-Was the villain poverty? Meekness? Or perhaps it was the pizza cook who disliked my religion or family? The answer is none of these. The truth is far more fundamental and reveals the core message of the book.
+Was the villain poverty? Meekness? Or perhaps the pizza cook disliked my religion or family? The answer is none of these. The truth is far more fundamental and reveals the core message of the book.
 
-I wanted a slice of pizza. Getting it required speaking, and I did not have the ability to do that, as I was born with a speech impediment—a condition affecting about three million Americans from all ages and walks of life. That is why I turned away when the pizza counter had several kinds of slices. I feared, far more than going hungry, being asked "which one" if there were several.
+I wanted a slice of pizza. Getting it required speaking, and I did not have the ability to do that, as I was born with a speech impediment—a condition affecting about three million Americans from all ages and walks of life. That is why I turned away when the pizza counter had several kinds of slices. I feared, far more than going hungry, being asked "which one?".
 
 The affliction kicks in when certain sounds trigger a stutter that feels like a severe electric shock. Speaking to strangers makes it worse. Swearing offers blessed relief, but that solution only works among friends.
 
@@ -77,55 +72,63 @@ For example, an ideologue seeing a hungry kid outside a pizzeria window might at
 
 That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet, conservatism, progressivism, and other belief systems were conceived centuries ago by people seeking to solve their society's problems, primarily addressing the hunger, illiteracy, and poverty of civilization before the Industrial Revolution.
 
-Ideological thinkers still offer valuable insights into societal communication and governance, but their worldview is not rooted in our modern scientific and technological world. They lived without plastic, wrote with bird feathers, and did not learn how evolution shaped the state of nature. Thus, we should not pick one ideology in order to conquer the others. Instead, they are frameworks to be studied as we integrate a technological identity into our consciousness.
+Ideological thinkers still offer valuable insights into societal policies and governance, but their worldview is not rooted in our modern scientific and technological world. They lived without plastic, wrote with bird feathers, and did not learn how evolution shaped the state of nature. Picking one ideology still leaves believers in the distant past. Instead, ideologies are frameworks to study on the way to a technological identity.
 
-In fact, conservatism's emphasis on producing wealth and progressivism's drive for social diversity become complementary forces when viewed through a technological identity.
+Conservatism emphasizes producing wealth through mass production. Progressivism pushes for social diversity to empower more individuals. Viewed through a technological identity, these become complementary forces.
 
-Conservatism and progressivism empower each other because diversity and mass production are how life populates and updates its ecosystems. Thus, rather than seeing left versus right as opposing forces, we can view them as complementary perspectives contributing to our collective technological evolution.
+Both are how life populates and updates its ecosystems. Every biological ecosystem is a mixture of different lifeforms harvesting energy to mass-produce as much growth and offspring as possible to keep life updated to the latest environment. Thus, rather than seeing left versus right as opposing forces, we can view them as complementary perspectives contributing to our collective technological evolution.
 
-Of course, as we know, modern progressives and conservatives do not cooperate. For example, Congressional partisanship has been increasing dramatically for over sixty years with no sign of abating or reversing.
+Of course, as we know, modern progressives and conservatives do not cooperate. But it wasn't always this way. In the 1950s, Republicans and Democrats could be so intermingled in their voting and collaboration that they sometimes didn't look like two separate parties. Even through the turbulent 1960s and early 1970s—with the battles over the Great Society programs, the Vietnam War, and the Civil Rights movement—Republicans and Democrats regularly voted together. There were 12,000 cooperating voting pairs across party lines.
 
-As our economic challenges continue to mount, the statistics paint a stark picture of financial strain. Using adjusted into 2023 dollars, median household income rose from about $62,000 in 1991 to about $79,000 in 2021, an increase of roughly 28 percent over thirty years.
+The moderates in both parties held the power, and they compromised. Graphs of party voting behavior in this era look like a tossed salad.
 
-Yet, the cost of living has dramatically outpaced this modest increase.
+But from the mid-1970s onward, that cooperation began steadily eroding. By the 1990s, the two parties had pulled into distinct and largely separate camps. By the 2000s, cross-party cooperation had collapsed almost entirely. Fewer than 200 of those relationships remained. Ironically, the further we've moved from the origins of these ideologies, the more extreme our partisanship has become. The graphs now look like oil and water.
 
-Average home prices across U.S. states were about 345 percent higher in 2024 than in 1991. While the average annual premiums for employer-sponsored family health coverage increased 49 percent from 2013 to 2023. Average in-state tuition about doubled between 1991 to 2023, fueling the student debt crisis. Grocery costs rose significantly in recent years—a 20–30 percent increase from 2020 to 2025.
+Unsurprisingly, our economic challenges continue to mount.
 
-Unsurprisingly, this widening economic gap has driven debt to unprecedented levels. Student loan debt exploded from nearly $481 billion in 2006 to over $1.7 trillion by 2021. For young adults aged 18-24, mortgage costs tell a similar story—average home debt jumped from under $40,000 in 1992 to $117,000 in 2022. Economic betterment has stopped, with only half of Americans born in 1980 earning more than their parents, compared to 90 percent of those born in 1940.
+The statistics paint a stark picture of our financial strain. Adjusted to 2023 dollars, median household income rose from about $62,000 in 1991 to about $79,000 in 2021, an increase of roughly 28 percent over thirty years.
 
-These are not just cold statistics—they represent a systemic failure. Many ideologues believe that better government policy alone can address our challenges, but evolution demands more: we must adapt by innovating and adopting new tools.
+Yet, the cost of living has dramatically outpaced this increase.
 
-To keep adapting, we must redefine ourselves as tool-users first and foremost. Only that person will critically assess everyone's opinions, PowerPoint presentations, and other narratives on their actual effectiveness in connecting problems with better technologies.
+Average home prices across U.S. states were about 345 percent higher in 2024 than in 1991. Average annual premiums for employer-sponsored family health coverage increased 49 percent from 2013 to 2023. Average in-state tuition about doubled from 1991 to 2023. Grocery costs rose significantly in recent years—a 20–30 percent increase from 2020 to 2025.
+
+This widening economic gap has driven debt to unprecedented levels for students, families, and governments. Economic betterment has also largely stopped in America, with only half of Americans born in 1980 earning more than their parents, compared to 90 percent of those born in 1940.
+
+I don't need to cite any more numbers because you see this trend every month when matching your paycheck to your bills. This demands a question: why, with more technology than any civilization in history, are so many people falling behind?
+
+The average American gets paid less but charged more, and turns to the ideologies we have for relief. Ideologues, pundits, and believers say their superior government policy can address our challenges. When it doesn't work we're told to blame the "other side". That hasn't worked either because evolution demands more: we must adapt by innovating new tools and adopting a new lifestyle.
 
 To understand this mindset, consider a simple experiment: combine cold water and ice into a bucket. As you immerse your hand in the water, the cold steals your heat, and your body soon experiences intense pain. This visceral moment reveals a fundamental truth: no words, presentations, or promises keep you warm.
 
-Thus, when evaluating conservatism, progressivism, or any belief system, always judge not by its words, but by its ability to create and distribute tools that overcome your environmental challenges and thereby lower your real-life pains. Most everyone, from bureaucrats to teachers, already says they promote innovation, but only a technological identity will keep all of us honest.
+Obviously not. Words don't fill our stomachs or shelter us from the elements.
 
-Then we will be moving the way evolution moves, not against the current.
+Yet, we evaluate conservatism, progressivism, or any belief system by its words, and not its ability to create and distribute tools that overcome your unique environmental challenges and thereby lower your real-life pains. Most everyone, from bureaucrats to teachers, executives to ideologues, already says they promote innovation, but only a person with a technological identity will evaluate their words by the tools in their hand.
 
-And that is a good place to be. Life has spent billions of years combating heat, hunger, thirst, and cold through adaptation. Arctic fish develop antifreeze proteins. Polar birds grow waterproof feathers. Mammals develop fur and blubber. Each organism's survival depends not on avoiding discomfort, but on developing the right tools to keep pain away in its environment.
+Only then will we again mass-produce the diverse tools Americans need to find the toolset that will earn their freedom, moderation, and prosperity.
+
+Following evolution is a good place to be. Life has spent billions of years combating heat, hunger, thirst, and cold through new adaptations. Arctic fish develop antifreeze proteins. Polar birds grow waterproof feathers. Mammals develop fur and blubber. Each organism's survival depends not on avoiding the discomforts of hot or cold, but on developing the right tools to keep pain away in its environment.
 
 Our ancestors lost their insulating hair when they left the trees and learned to walk. How did we stay warm? We cut fur from dead animals and mastered fire. Today, we synthesize materials, generate heat, and create any other solution we can dream up. And while we have gotten very good at reducing our pains, that also means we can easily forget what life on Earth is all about.
 
-Hence, we tend to view the world through human stories, speeches, and ideologies, rather than addressing practical problems as life demands.
+Hence, we tend to view the world through human stories, speeches, and ideologies, rather than addressing practical problems with new adaptations.
 
 Adopting a strong technological identity will make it far easier to adapt, prosper, and pass on a bright torch to the next generation. A new identity does not mean abandoning any of our wonderful cultures. We can still enjoy music clubs, celebrate folklore dances, commemorate history, and cheer at the Olympics. However, in a world increasingly shaped by technological systems, we must develop a new mindset to clearly identify our problems and see their best solutions.
 
-Loving the same music as someone else is great fun, but that does not mean you have found the best mechanic. Shared problems create the best political and economic relationships. Just look at how an oak tree and a squirrel benefit each other. One feeds the other, while one seeds the other, and yet they have nothing else in common.
+Loving the same music as someone else is great fun, but that does not mean you have found the best mechanic. Shared problems create the best political and economic relationships. We fight because we can't solve our problems. Meanwhile an oak tree and a squirrel have nothing in common, and each helps the other prosper anyway.
 
-All life forms should work together because Earth is a massive bucket—a vast game board shaped by immutable laws of physics, chemistry, and geology. Life produces new creatures constantly, and its partner, evolution, decides which keep playing. With the right team, Earth is an awe-inspiring oasis—a lone lifeboat in the galactic expanse.
+All life forms should work together because Earth is a massive version of an ice bucket—a vast game board shaped by immutable laws of physics, chemistry, and geology. Life produces new creatures constantly, and its partner, evolution, decides which keep playing. With the right team, Earth is an awe-inspiring oasis—a lone lifeboat in the galactic expanse.
 
-The story of life now involves technology. Its many gadgets, tools, and inventions are already changing the world. The purpose of this book is to help you find the tools that solve the problems of your environment. A recurring theme is how to combat any story that tries to subvert our evolutionary requirement.
+The story of life now involves technology. Its many gadgets, tools, and inventions are already changing the world. The purpose of this book is to help you realize tools are the best way to adapt to your environment. A recurring theme is how to combat any story that tries to subvert this evolutionary requirement.
 
-Earth will prosper to new heights when human conflict is minimized and cooperation is maximized, not through wishful storytelling or ideological idealism, but through the innate drive that propels all life to seek resources, evade threats, form alliances, and adapt. This drive often shows up in every day situations—such as what I learned as a child when ordering pizza—because our limitations are not who we are, but challenges that better teammates and tools can solve. Techvolution provides a new framework to understand this paradigm and consciously supports the evolution of life on Earth.
+Our beliefs should lift us to new heights. They should tell us our limitations do not define us. A limitation is just a problem, and problems yield to better tools and better allies. I learned that at a pizza counter, one pointed finger, one slice, and one slow word at a time. This book is about learning it at the scale of a civilization.
 
 ## Introduction 
 
 ### Catching Life's Eye
 
-Rousseau wrote that man is born free, and everywhere is in chains. The opposite is closer to the truth for the rest of nature: animals are born into pressure, and everywhere they seem to be playing through it.
+Rousseau wrote that man is born free, and everywhere is in chains. The opposite is closer to the truth for the rest of nature: animals are born free, and everywhere they seem to be enjoying themselves.
 
-Nature is no doubt a tough place to be. Hunger, disease, thirst, and predation are always just around the corner. Yet, from the mighty grizzly bear to the tiny firefly, organisms all fight to stay alive. It seems creatures enjoy—in their own way—playing the "game of life".
+Nature is no doubt a tough place to be. Hunger, disease, thirst, and predation are always just around the corner. Yet, from the mighty grizzly bear to the tiny firefly, organisms all fight to stay alive. It seems creatures like—in their own way—playing the "game of life".
 
 So, how does a life form get selected to become a player? There are three ways to stand out: genes, personality, and tools.
 
