@@ -54,11 +54,13 @@ I would stare at it through the giant "PIZZA" letters on the storefront. Walking
 
 Was the villain poverty? Meekness? Or perhaps the pizza cook disliked my religion or family? The answer is none of these. The truth is far more fundamental and reveals the core message of the book.
 
-I wanted a slice of pizza. Getting it required speaking, and I did not have the ability to do that, as I was born with a speech impediment—a condition affecting about three million Americans from all ages and walks of life. That is why I turned away when the pizza counter had several kinds of slices. I feared, far more than going hungry, being asked "which one?".
+I wanted a slice of pizza. Getting it required speaking, and I did not have the ability to do that, as I was born with a speech impediment—a condition affecting about three million Americans from all ages and walks of life. That is why I turned away when the pizza counter had several kinds of slices. I feared, far more than going hungry, being asked "which one?"
 
 The affliction kicks in when certain sounds trigger a stutter that feels like a severe electric shock. Speaking to strangers makes it worse. Swearing offers blessed relief, but that solution only works among friends.
 
-Modern science has illuminated many of our biological conditions, providing explanations and remedies. In that vein, I was very lucky to receive government-sponsored speech therapy. So, although I was subject to a genetic misfire between thought and speech, I learned I was not a broken person, just someone with a broken tool. I still remember my graduation ceremony at an Italian restaurant.
+Modern science has illuminated many of our biological conditions, providing explanations and remedies. In that vein, I was very lucky to receive government-sponsored speech therapy. So although I was subject to a genetic misfire between thought and speech, I learned I was not a broken person, just someone with a broken tool. There was a field that had studied the problem and could tell me what it was, what caused it, and what came next.
+
+Maria had no such field. Nobody had studied what was happening to her, so nobody could name it, and she met it without warning. I was given a path, teachings, therapy, and finally a graduation ceremony at an Italian restaurant.
 
 I got to order anything I wanted. It was pizza, of course.
 
@@ -94,7 +96,7 @@ Average home prices across U.S. states were about 345 percent higher in 2024 tha
 
 This widening economic gap has driven debt to unprecedented levels for students, families, and governments. Economic betterment has also largely stopped in America, with only half of Americans born in 1980 earning more than their parents, compared to 90 percent of those born in 1940.
 
-I don't need to cite any more numbers because you see this trend every month when matching your paycheck to your bills. This demands a question: why, with more technology than any civilization in history, are so many people falling behind?
+I don't need to cite any more numbers because you see this trend every month when matching your paycheck to your bills. This demands a question: the internet and personal computer were both invented in the early 1970s. They've grown increasingly powerful ever since. So why are so many people falling behind as we go further into the Internet Age?
 
 The average American gets paid less but charged more, and turns to the ideologies we have for relief. Ideologues, pundits, and believers say their superior government policy can address our challenges. When it doesn't work we're told to blame the "other side". That hasn't worked either because evolution demands more: we must adapt by innovating new tools and adopting a new lifestyle.
 
@@ -104,7 +106,7 @@ Obviously not. Words don't fill our stomachs or shelter us from the elements.
 
 Yet, we evaluate conservatism, progressivism, or any belief system by its words, and not its ability to create and distribute tools that overcome your unique environmental challenges and thereby lower your real-life pains. Most everyone, from bureaucrats to teachers, executives to ideologues, already says they promote innovation, but only a person with a technological identity will evaluate their words by the tools in their hand.
 
-Only then will we again mass-produce the diverse tools Americans need to find the toolset that will earn their freedom, moderation, and prosperity.
+Only then will we realize that using Industrial Age mentalities in the Internet Age is the mix-up causing our inability to match problems with tools well enough to prosper. This realization will again have us mass-produce the diverse tools Americans need to find the toolset that will earn their freedom, moderation, and prosperity.
 
 Following evolution is a good place to be. Life has spent billions of years combating heat, hunger, thirst, and cold through new adaptations. Arctic fish develop antifreeze proteins. Polar birds grow waterproof feathers. Mammals develop fur and blubber. Each organism's survival depends not on avoiding the discomforts of hot or cold, but on developing the right tools to keep pain away in its environment.
 
@@ -126,7 +128,7 @@ Our beliefs should lift us to new heights. They should tell us our limitations d
 
 ### Catching Life's Eye
 
-Rousseau wrote that man is born free, and everywhere is in chains. The opposite is closer to the truth for the rest of nature: animals are born free, and everywhere they seem to be enjoying themselves.
+Rousseau wrote that humans are born free, and everywhere we are in chains. The opposite is closer to the truth for the rest of nature: animals are born free, and everywhere they seem to be enjoying themselves.
 
 Nature is no doubt a tough place to be. Hunger, disease, thirst, and predation are always just around the corner. Yet, from the mighty grizzly bear to the tiny firefly, organisms all fight to stay alive. It seems creatures like—in their own way—playing the "game of life".
 
