@@ -72,19 +72,19 @@ Yet this perspective is almost entirely absent from public discourse—a technol
 
 For example, an ideologue seeing a hungry kid outside a pizzeria window might attribute the kid's situation to a personal failing—being a freeloader or wasteful with money—or systemic injustices—like family poverty or discrimination by the shop owner. Both perspectives are possible, but the fact that the kid might be struggling with a "verbal wheelchair" rarely occurs to people today. This oversight happens not because they are unaware of disabilities, but because ideological interpretations are often our default lens when seeing problems in society.
 
-That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet conservatism (1790) and progressivism (1859) were conceived centuries ago, and they arose for a reason. Religious frameworks had no answer for what industrialization was doing to people. The First Industrial Revolution (1760–1840) brought steam power and textile mills. The Second (1870–1914) brought electricity, mass production, and the assembly line. Each brought conditions nobody had lived through before: wage labour, mass migration, urban poverty. No existing framework helped society navigate the new terrain.
+That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet conservatism (1790) and progressivism (1859) were conceived centuries ago. The First Industrial Revolution (1760–1840) brought steam power and textile mills. The Second (1870–1914) brought electricity, mass production, and the assembly line. With each decade the established craft guilds, manorial farms, royal palaces were being replaced with wage labour, mass migration, urban poverty. Existing political and economic frameworks were unable to navigate the new terrain.
 
-Ideological thinkers still offer valuable insights into societal policies and governance, but their worldview is not rooted in our modern scientific and technological world. They lived without plastic, wrote with bird feathers, and did not learn how evolution shaped the state of nature. Ardent believers in one of these ideologies are stuck solving the problems of the distant past. Instead, ideologies are frameworks to study and learn from.
+Similarly, conservative and progressive thinkers offer valuable insights into our societal policies and governance, but their worldview is not rooted in the modern scientific and technological world they helped create. They lived without plastic, wrote with bird feathers, and did not learn how evolution shaped the state of nature. Ardent believers in one of these ideologies today are stuck solving the problems of the distant past. Instead, ideologies are frameworks to study and learn from while building on their achievements.
 
-Conservatism emphasizes producing wealth through mass production. Progressivism pushes for social diversity to empower more individuals. Viewed through a technological identity, these mindsets become complementary forces.
+Conservatism emphasizes producing wealth through mass production. Progressivism pushes for social diversity to empower more individuals. Viewed through a technological identity, these mindsets work best together.
 
-Both are how life populates and updates its ecosystems. Every biological ecosystem is a mixture of different lifeforms harvesting energy to mass-produce as much growth and offspring as possible to keep life updated to the latest environment. This is how left and right together populated the world with engines, factories, power stations, and other industrial wonders. Thus, rather than seeing left versus right as opposing forces, we can view them as complementary perspectives contributing to our collective technological evolution.
+Both offer one half of how life populates and updates its ecosystems. Every biological ecosystem is a mixture of different lifeforms harvesting energy to mass-produce as much growth and offspring as possible to keep life updated to the latest environment. This is how left and right together populated the world with engines, factories, power stations, and other industrial wonders. Thus, rather than seeing left versus right as opposing forces, we can view them as complementary perspectives contributing to our collective technological evolution.
 
-Sharing the mission of industrialization, the two sides often found common ground. In the 1950s, Republicans and Democrats could be so intermingled in their voting and collaboration that they sometimes didn't look like two separate parties. Even through the turbulent 1960s and early 1970s—with the battles over the Great Society programs, the Vietnam War, and the Civil Rights movement—Republicans and Democrats regularly voted together. There were 12,000 cooperating voting pairs across party lines.
+Sharing the mission of industrialization, the two sides often found common ground. In the 1950s, Republicans and Democrats could be so intermingled in their voting and collaboration that they sometimes didn't look like two separate parties. Even through the turbulent 1960s and early 1970s—with the battles over the Great Society programs, the Vietnam War, and the Civil Rights movement—Republicans and Democrats regularly voted together: there were 12,000 cooperating pairs of congressmen voting across party lines.
 
-The right pushed to keep building more structures, roads, and power plants. The left made sure ever more disenfranchised people got in, so they could work, contribute, and share in the spoils of industrialization. The moderates in both parties held the power, and they compromised. Graphs of party voting behavior in this era look like a tossed salad.
+The right pushed to keep building more structures, roads, and power plants. The left made sure ever more disenfranchised people got in, so they could work, contribute, and share in the spoils of industrialization. The moderates in both parties held the power, and they often compromised. Graphs of party voting behavior in this era look like a tossed salad.
 
-But from the mid-1970s onward, that cooperation began steadily eroding. By the 1990s, the two parties had pulled into distinct and largely separate camps. By the 2000s, cross-party cooperation had collapsed almost entirely. Fewer than 200 of those relationships remained. Ironically, the further we've moved from the origins of these ideologies, the more extreme our partisanship has become. The graphs now look like oil and water.
+But from the mid-1970s onward, that cooperation began steadily eroding. By the 1990s, the two parties had pulled into distinct and largely separate camps. By the 2000s, cross-party cooperation had collapsed almost entirely and fewer than 200 cooperating pairs of congressmen voted across party lines. Ironically, the further we've moved from the origins of these ideologies, the more extreme our partisanship has become. The graphs now look like oil and water.
 
 Unsurprisingly, our economic challenges continue to mount.
 
@@ -98,11 +98,11 @@ This widening economic gap has driven debt to unprecedented levels for students,
 
 I don't need to cite any more numbers because you see this trend every month when matching your paycheck to your bills. This demands a question: the internet and personal computer were both invented in the early 1970s. They've grown increasingly powerful taking us from the Industrial Age into the Internet Age. So why are so many people falling behind?
 
-Once again our belief systems are out of date and cannot steer society in this new environment.
+Because like during industrialization, our belief systems are out of date and cannot steer society in this new environment.
 
-Faced with this, we turn to the ideologies we have for relief. Ideologues, pundits, and believers say their superior government policy can address our challenges. When it doesn't work we're told to blame the "other side". That hasn't worked either because evolution demands more: we must adapt by innovating new tools and adopting a new lifestyle.
+Industrial Age mindsets are not up for the task. Ideologues, pundits, and believers say their superior government policy can address our challenges. When it doesn't work we're told to blame the "other side". Growing extremism hasn't worked because evolution demands more: we must adapt by innovating new tools and adopting a new lifestyle.
 
-To understand how we can adopt a fresh mindset, consider a simple experiment: combine cold water and ice into a bucket. As you immerse your hand in the water, the cold steals your heat, and your body soon experiences intense pain. This visceral moment reveals a fundamental truth: no words, presentations, or promises keep you warm.
+To understand how we must adopt a fresh mindset, consider a simple experiment: combine cold water and ice into a bucket. As you immerse your hand in the water, the cold steals your heat, and your body soon experiences intense pain. This visceral moment reveals a fundamental truth: no words, presentations, or promises keep you warm.
 
 Obviously not. Words don't fill our stomachs or shelter us from the elements.
 
@@ -130,9 +130,9 @@ Our beliefs should lift us to new heights. They should tell us our limitations d
 
 ### Catching Life's Eye
 
-Rousseau wrote that humans are born free, and everywhere we are in chains. The opposite is closer to the truth for the rest of nature: animals are born free, and everywhere they seem to be enjoying themselves.
+Rousseau famously wrote that humans are born free, and everywhere we are in chains. The opposite is closer to the truth for the rest of nature: animals are born free, and everywhere they seem to be enjoying themselves.
 
-Nature is no doubt a tough place to be. Hunger, disease, thirst, and predation are always just around the corner. Yet, from the mighty grizzly bear to the tiny firefly, organisms all fight to stay alive. It seems creatures like—in their own way—playing the "game of life".
+Nature is no doubt a tough place to live. Hunger, disease, thirst, and predation are always just around the corner. Yet, from the mighty grizzly bear to the tiny firefly, organisms fight so hard to stay alive. It seems creatures like—in their own way—playing the "game of life".
 
 So, how does a life form get selected to become a player? There are three ways to stand out: genes, personality, and tools.
 
