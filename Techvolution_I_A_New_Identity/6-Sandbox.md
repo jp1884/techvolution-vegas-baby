@@ -5732,31 +5732,129 @@ Unaware of most modern tools, we resemble raccoons opportunistically using techn
 ===
 
 
-## Avoiding Evolution's Stare
+## Introduction 
 
-Charles Darwin didn't invent the idea that creatures evolve. What he and Alfred Russel Wallace said in 1858 was evolution happens because of natural selection. It was an insight based solely on observing so many lifeforms. It faced two obstacles. The first was religious texts made Earth look far too young to have produced so many creatures. This was overcome when radioactive dating revealed our planets true ancient age.
+### Catching Life's Eye
 
-The second obstacles was harder to answer. Nobody knew how creatures inherit traits. The prevailing assumption was that offspring simply blend their parents' features. This raised an obvious objection. If mating means losing half of any advantage every generation, how could an advantage ever accumulate enough for natural selection to act?
+Rousseau wrote that man is born free, and everywhere is in chains. The opposite is closer to the truth for the rest of nature: animals are born free, and everywhere they seem to be enjoying themselves.
 
-That question went unanswered for seventy years. Naturalists accepted the idea that animals had a common ancestry. Few accepted natural selection is what created them. Rival theories crowded the field with possible answers. In 1909 Wilhelm Johannsen coined the terms genotype and phenotype to help frame the debates and argument with a consistent vocabulary. Still there was no resolution.
+Nature is no doubt a tough place to be. Hunger, disease, thirst, and predation are always just around the corner. Yet, from the mighty grizzly bear to the tiny firefly, organisms all fight to stay alive. It seems creatures like—in their own way—playing the "game of life".
 
-Meanwhile physics, chemistry, geology, and mathematics were advancing, enriching humanity with electricity, medical cures, and aviation. As nature revealed its mysteries, one might ask: why did we not apply evolution's principles to our own civilization?
+So, how does a life form get selected to become a player? There are three ways to stand out: genes, personality, and tools.
 
-We attempted to. But we only saw our genotype or phenotype in the reflection, and were therefore destined to fail. Remember that evolution does not prescribe good ideas; it selects out the bad ones. Two of the worst ideas ever subjected to that test arose while scientists were still arguing how new species are created.
+Genes are a creature's blueprint, that together are called its genotype. Each DNA segment provides specific instructions that determine an organism's traits. During reproduction, genes shuffle and recombine, introducing variations in offspring. Most variations are minor and neutral, but occasionally a mutation provides a survival advantage.
+
+Consider the peppered moth during England's Industrial Revolution. As trees darkened due to smog and soot, a rare dark variant of the peppered moth gained a camouflage advantage and its numbers surged. Evolution did not create this mutation; rather, it favored the black moth through natural selection—a process that eliminates harmful genes while allowing organisms with beneficial traits to survive and reproduce.
+
+This continuous process of genetic variation and environmental selection drives the incremental changes we observe in species over time—sometimes slowly, as with glacial changes as geology changes over eons, or suddenly with events like floods, eruptions, or factory soot. Natural selection can only work with what already exists. Over longer time periods, lineages with greater genetic diversity persist through environmental change more often, because diverse populations are more likely to contain variants suited to new conditions
+
+The next way a creature can stand out is its phenotype. The phenotype is akin to a life form's personality; the observable characteristics of an organism resulting from the interaction between its genetic makeup and environmental influences, encompassing physical traits, behavioral adaptations, and learned experiences. Think of two acorns, one planted in a tall forest, the other in an open field. The first grows lean and tall to reach sunlight, while the other grows bushier and more robust. 
+
+Phenotype reveals how organisms adapt to their surroundings and become products of their environment.
+
+Phenotypic adaptations show remarkable diversity. Some changes are enabled through genetics and are immediate, like a cuttlefish shifting its skin to match the seabed; others are learned and passed down socially, like an elephant mother showing her calf where the water holes lie. Like with genes, no trait is better or worse on its own—only relative to its environment, and natural selection favors whichever ones work best. This is how across time and environments evolution produces huge diversity of lifeforms.
+
+The third way creatures stand out is the extended phenotype. These are adaptations that creatures build for themselves. Think of bird nests, beaver dams, and ant hills. Although made of foreign material, these things act like any other organ by helping a creature better survive.
+
+Take the common squirrel as an example. The small creature survives frigid winters by storing food and building warm nests. These adaptations greatly increase its survival rate. Extended phenotypes empower organisms to mold their environment to their benefit and thereby select themselves for survival.
+
+Unlike genes and phenotypes, extended phenotypes become part of the environment and are available for other creatures to use. For example, hermit crabs move into empty snail shells, fish and frogs fill the ponds that beavers dammed, and squirrels sometimes fix up and den in old bird nests. This shows that the creator of an extended phenotype is not always its user.
+
+Raccoons are the ultimate example. Originally from the tropical forests of Central America and Mexico, these intelligent creatures create dens in hollow trees and grow thicker fur and fat stores for winter. However, unlike squirrels, raccoons do not insulate their dens, store food, or fully hibernate.
+
+They slowly increased their range into warmer parts of America. But when human barns, garages, and garbage arrived, these adaptive creatures' range exploded. Piggybacking on civilization, raccoons not only survived climates they couldn't naturally endure, they thrived. Many urbanites around the world know all too well. It's why our garbage bins must be raccoon-proofed. Or at least try to be, as these creatures often outwit us.
+
+Contrast them with another city creature, squirrels. Urban raccoons create nothing in the urban environment, but can still consistently find enough homes and food to prosper. A squirrel does the same, but renews the biological ecosystem it feeds on by planting many nuts each year. An urban raccoon renews nothing it depends on—giving back neither to the technological ecosystem that feeds it nor to the biological one it has left behind. In a balanced ecosystem, taking and giving back are the same act—the squirrel can't feed itself without seeding the forest. Our technological ecosystem has no such mechanism. Here, you can try to take without ever giving back. Without it, we urban raccoons have to do consciously what natural selection does automatically for the squirrel.
+
+So, to stay a player in the game of life, creatures can stand out via their genes, phenotypes, and extended phenotypes. The right mixture means an animal can harvest enough resources and protect itself long enough to procreate and thereby keep playing the game.
+
+Now, in our quest to better understand ourselves, which of these scenarios do you think best describes humans in the 21st century?
+
+### Doesn't My Insurance Cover This?
+
+The answer is the raccoon. Like them, we live, work, and exist in an ecosystem of tools without knowing how they work. This is why the thesis of this book is that humans are now primarily a technological species that is not yet self-aware of our new identity.
+
+We've already met Maria, the DVD rental manager. In evolutionary terms, she wasn't a "regional manager" at all—that's a cultural label. She was a physical-media seller and dependant on one adaptation, fitted to one niche, able to fall with it. That's what a species is. And around 2011, hers was going extinct, whatever she called herself.
+
+Maria wasn't alone. Home Improvement was one of America's most popular shows throughout the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor celebrate the power of modern tools—then turned off their televisions and never applied that thinking to their own lives. The show was culturally aware enough to tackle drug addiction, infidelity, and job loss—the important life lessons society recognized. Yet in eight seasons, technological identity never appeared on that list. Nobody asked what happens when television itself changes.
+
+Internet speeds were improving every year. In 1992 when the show premiered, it was 0.0144 Mbps. By 1999, when the show ended, it was 0.056 Mbps. Within a decade it was 31 Mbps. More video production and distribution were going digital and online each year. All they needed to do was look.
+
+Its no surprise, DVDs was going extinct within a decade after Home Improvement ended. Now, if anyone wants to watch it, they can via a streaming service using 308 Mbps. Today people ask anxiously whether AI will take their jobs—a frightening question precisely because so few of us truly understand our relationship to the technologies we depend on to earn a living during such massively improved technologies.
+
+Like Maria, we have no name for that part of our identity—the part selection acts on most often. My own story shows why this blindspot is so hard to see and accept.
+
+Among my many genetic traits is the aforementioned speech impediment. Centuries ago, it would have been debilitating. Belief systems were more mythological, leading many to believe that a stutterer was a simpleton and a candidate for neglect or worse. I can sympathize; in childhood, I was thought to be one because I rarely talked. But when the problem was identified at my elementary school, a speech therapist was assigned, and the shackles of my genetic heritage began to be removed.
+
+I still had the resulting shyness of my phenotype to overcome. That story is like that of most people growing up, with kids unconsciously adapting to their social environment as best they can. However, the impediment resurfaced when my software employer said my speech impediment was still noticeable, so I resolved to fix it with a job in a notoriously chaotic insurance claims call center. Within a year, the "sink or swim" kind of shock speech therapy finally worked out most of my speaking tool's glitches.
+
+My experience is not unique; many people face similar challenges, from social anxiety to dyslexia. The key point is that we now have numerous ways to address these issues. Advances in science—such as mapping the human genome—and in psychology—with various therapies—provide significant support. Unlike in the past, when even Julius Caesar had to hide his epilepsy, we have great help available once a person chooses to use it. Selection now acts on genotype and phenotype far less harshly; technology has neutralized many of the pressures that once eliminated individuals.
+
+Technology now buffers us from many selection pressures that once eliminated individuals—cold, disease, injuries—for centuries.
+
+As for the extended phenotype, before the Industrial Revolution, we were often like squirrels using tools made from the natural world. Technology still amazed us, but things such as sod houses, wood saws, and paper books are physical objects easy to hold, safe to smell, and natural to the touch. However, after the massive explosion of chemicals, materials, electricity, electronics, software, and so many other things over the past 150 years, we are now like raccoons who depend on things we do not truly understand.
+
+I know this in my soul. After my speech improved as a claims adjuster, I looked around and realized how valuable the job was. I processed more than 7,000 claims and spoke with more than 30,000 people from all walks of life. By getting into people's shoes when their furnaces died, cars crashed, or houses flooded, the job is basically a daily experiment on our economy for anyone empathetic enough to listen to people's pains. For a political economy student being a claims adjuster was an intellectual gold mine.
+
+The ultimate lesson was how people struggle to understand modern technologies. We live in a world of increasing complexity but diminishing comprehension. From wealthy executives to blue-collar workers, everyone is equally perplexed by a car crash or a malfunctioning piece of technology. People rarely understand their own possessions or the rules governing their use, yet continue buying and selling technology, always one glitch away from asking, "Doesn't my insurance cover this?" to a person on the phone as if I had a magic wand to erase their problems.
+
+I was so often a customer's best hope, yet all I had was a Google search and a stingy checkbook.
+
+Modern technology has changed how evolution selects us. Comparing top causes of death in modern America and ancient societies (circa 500 BC) reveals our new selection pressure. Modern America's list is dominated by chronic diseases like heart disease and diabetes, linked to our sedentary lifestyle that is so pervasive raccoons suffer from many of the same problems. In contrast, ancient times suffered greatly from infectious diseases and injuries due to poor sanitation, limited medical care, and frequent wars. Notably, infant mortality has dropped dramatically, from approximately 40% in the Bronze Age to under 0.8 percent in America today.
+
+Unless an extinction-level event changes selection pressures—like factory soot or a meteor impact—species typically die off gradually. Our falling birthrate is one such slow signal. Many blame younger generations for being negligent, but the evolutionary truth runs deeper: our economy is still running on a model of the world that no longer exists.
+
+For most of human history, prosperity meant *harvesting* bountiful nature—clear more land, fish more oceans, build another suburb outward. The frontier was dangerous but vast and full of natural resources. But we have crossed into a world well explored, where resources must be managed. Prosperity now means *curating*: tending forests, fertilizing farmland, managing water access. This is the deepest mismatch of our age—and one generation sits at its center.
+
+The baby boomers came of age at the last great harvest: cheap land, labor, and fuel, one career for life, a frontier of seemingly endless bounty—mistaken, ever since, for the American Dream itself. But the Dream was never a fixed house and a fixed job. It was the freedom to explore, adapt, and prosper as the world changed. Fixed mentalities are the opposite of that.
+
+Yet we re-create the past—endless movie remakes, "all-new" car commercials, more suburban housing, shopping centers, and office parks—instead of adopting the tools and ways of life that fit the world we actually live in. It isn't done with malice. It is Maria's problem wearing a different face: old instincts trying to survive a new environment.
+
+But there is a crucial difference of scale. Maria only lost her own job. Boomers hold most of the wealth and therefore set the selection pressure for everyone downstream. The young inherit an ecosystem tuned to the wrong century.
+
+For example, in nature, a nest or den is a nursery first—built to raise the young, and left behind once they're grown. Our family homes were meant to raise kids the same way: the bedrooms, the play grounds, the school districts. Yet, the kids left and parents stayed put. Housing that could have been for the next generation quietly became retirement housing for the last.
+
+The effect of this stagnation is quiet but everywhere in our economy. Familiar Microsoft Office workflows, fixed commutes, a reflexive preference for offshoring—each small choice made by someone guarding their interests. Meanwhile, powerful new adaptations like HTML, SQL, and 3D printing get treated as consumer novelties rather than the tools we need for modern life.
+
+This is not an uncommon observation. I often saw it. One insurance appraiser I worked with measured large commercial buildings with a manual measuring wheel, taking days to do what a laser measuring tool does in hours. A CEO banned smartphones for adjusters and insisted on landlines, long after customers had moved on to faster ways of reaching us. Neither man was a villain. Both wanted to protect the tools they'd mastered—which is exactly the point. Adaptation can stall without any bad intent—through the ordinary, understandable instinct to defend one's territory.
+
+The young today feel the cost even when they can't name it. It surfaces in the huge appeal of dystopian stories—*Ready Player One*, *The Hunger Games*, *Divergent*—where the future has been foreclosed and the old order clings on. Techvolution offers the alternative: by understanding technological evolution, we can turn that powerlessness into agency, and dystopian dread into a roadmap for deliberate change.
+
+A self-aware Maria knows evolution cannot select us for good intentions. Natural selection is already pruning the suburban, car-dependent, lifelong-career way of life—these are struggling, if not dying, branches on the tree of life. To evolve a better way of life on purpose, we must tune our identity to seek out, adopt, and protect the tools that are, for now, being held back.
+
+None of this is a case against boomers—least of all for their own sake. History is blunt on this point: when an old order finally breaks, from Royalist France to the Soviet Union, it is the elderly pensioners who see their benefits cut first and worst. Boomers, for their own interest, should want to return society to surplus budgets, staffed hospitals, and a generation able to afford more children.
+
+To solve our problems with upgraded tools, we need to see ourselves as we are.
+
+Consider this: what is more concerning—spraining an ankle or having water pipes burst during vacation? Our ancestors might fear a lion when facing a physical injury, but today we would simply rest and watch Netflix. However, burst pipes could bankrupt you. I should know; I had to deny claims because homeowners broke the unknown conditions of their insurance policies. If they had been technologically self-aware enough to perform a simple two-minute water shut-off, they could have prevented years of hardship and kept the life's torch lit.
+
+Yet, we rarely examine the "extended phenotype" part of ourselves. We remain barely conscious of our technological identities and fail to proactively develop skills that would satisfy evolutionary pressures. Far more people define themselves by gender, race, or heritage, compared to the tools they use to gather resources. Technological identity reveals who we truly are when we strip away labels—the tools we use, the problems we solve, and our ability to adapt and survive in a constantly changing world.
+
+Unaware of most modern tools, we resemble raccoons opportunistically using technology we encounter, believing things like genetics, education, or ideologies explain our success or failure. As evolution penalizes our ignorance, we must look in the mirror and be honest about what we see: people who passionately discuss human genes and/or personality, but are in reality fighting to control tools, even ones as simple as a pencil.
+
+### Avoiding Evolution's Stare
+
+Despite his name being so attached to it day, evolution wasn't Darwin's idea. Others had proposed that species change. What Darwin and Alfred Russel Wallace offered, in 1858, was a mechanism: natural selection. It faced two obstacles. One was time. Earth seemed far too young to have produced so many creatures. Then radioactivity revealed a planet billions of years old. The second was harder. Nobody knew how traits were inherited, and the prevailing assumption was wrong: that offspring simply blend their parents. Contemporaries asked of Darwin, how could any new advantage be selected if mating halves our advantages every generation?
+
+The gap stayed open for seventy years. Naturalists accepted Darwin's claim that species share ancestry within a decade or two. But they did not accept natural selection as the mechanism. Rivals crowded in: heredity shaped by experience, evolution driven by internal momentum, change arriving in single jumps. Historians call this the eclipse of Darwinism. When Mendel's pea-plant experiments were rediscovered in 1900, they were thought to cut against Darwin rather than rescue him. Wilhelm Johannsen's 1909 terms—genotype for what an organism inherits, phenotype for what it becomes—gave the argument a vocabulary, but not a resolution.
+
+Simultaneously, fields such as physics, chemistry, geology, and mathematics were advancing, enriching humanity with wonders like electricity, medical cures, and aviation. As nature revealed its mysteries, one might ask: Why did we not apply evolution's principles to our own civilization?
+
+We attempted to do so, but we only saw our genotype or phenotype in our reflection, and were therefore destined to fail. Remember that evolution does not prescribe good ideas; it simply selects out the bad ones. Two of the worst ideas ever subjected to that test arose as scientists were arguing the mechanisms for evolution.
 
 These were fascism and communism.
 
 One looked at us and saw only genotype: each person is solely defined by their bloodline, so act accordingly—promote the supermen and purge the dead weight with eugenics. The other saw only phenotype: remake the human condition by empowering educated decision makers to engineer a better human.
 
-Of course, the mapping isn't perfect. Neither regime used these terms exactly, and their beliefs and actions had other inputs. But both concentrated on genotype or phenotype to a great degree. Which explains why these scientifically advanced societies accepted being so murderous—even when it wrecked their own regimes.
+Of course, the mapping isn't perfect. Neither regime used these terms exactly, and their beliefs and actions had other inputs. But both concentrated on genotype or phenotype to a great degree. Which explains why these scientifically advanced societies accepted being so murderous to their own members—even when it wrecked their own regimes.
 
 One example among many: Enrico Fermi, John von Neumann, Edward Teller, and many other scientists fled Europe for America, where they soon built radar, computers, and the atom bomb—the very "wonder weapons" the Nazis believed their own genetics would deliver.
 
-The Soviets did the same from the other direction. In the late 1930s, as the world was working out how radio, automobiles, and aircraft would change warfare, they executed most of their senior commanders—three of five marshals, thirteen of fifteen army commanders, and an estimated 30,000 other officers. Just one of several genocides the regime did before the onset of World War II.
+The Soviets did the same from the other direction. In the late 1930s, as the world was working out how radio, automobiles, and aircraft would change warfare, they executed most of their senior commanders—three of five marshals, thirteen of fifteen army commanders, and an estimated 30,000 other officers. All for supposed disloyalty and with the assumption that their ideology could train better replacements. Then in 1940 they fought a war against Finland, whose military was a fraction of their size, and surprsingly saved their country from conquest. 
 
-Clearly, humanity has had many bad ideas before. The conservative and progressive movements of The West are hardly faultless. But both are rooted in ideals of individuality and doesn't have the supposed certainty of science to justify either. There is a reason why the Bill of Rights so valued by conservatives and progressives, grants the freedom from religious dominiation, the right to use a printing press, own a gun, be protected from search or seizure; all freedoms to use modern technology.
+Extremism cost each regime dearly, and neither could learn from the other. Locked into opposite halves of the same argument, they hated each other too much to borrow anything—which is exactly what an adapting system must be able to do.
 
-Fascism and communism were particularly horrible because each came of age when the science of genes and heredity was still being figured out and thus young enough to bend to their premises.
+Clearly, humanity has had many bad ideas before. Fascism and communism were particularly horrible because each came of age when the science of genes and heredity was young enough to bend to their premises.
 
 However, as awful as it might sound, the problem isn't that an extreme couldn't have a technological success. Each was doomed because neither could sustain any success; extremes have complacency embedded in them.
 
@@ -5815,5 +5913,3 @@ And we are naturally equipped for this role. Researching this book joyously taug
 However, until humanity intentionally accelerates the technological evolution we depend on, we remain like raccoons suffering through seemingly random restaurant closures and secured waste bins. Our list of problems includes job losses, business failures, psychological disorders, political animosity, civil wars, revolutions, and the cycles of imperial rise and fall. We mistakenly attribute these events to ideology when in reality, they stem from the unnoticed co-evolution, variation, and speciation of technological ecosystems, which occur continuously around us, indifferent to human-constructed identities, borders, and beliefs.
 
 Only a new identity will allow us to glimpse behind the curtain of evolution and learn to harness its powers, as we have already done in physics, chemistry, and medicine. The next step toward self-realization is to ask if we must cooperate like trees and squirrels do—then, who are we competing against in the game of life?
-
-===

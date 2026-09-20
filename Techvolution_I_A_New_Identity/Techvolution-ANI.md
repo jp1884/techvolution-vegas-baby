@@ -274,29 +274,39 @@ The pencil is still on the table. Somebody has been leaving them there for decad
 
 ### The Black Moth in Every Niche
 
-Fortunately, one group is emerging from the technological landscape: a diverse community of makers, programmers, and designers in the open-source community. They embrace the constant effort and frequent failures that adaptation requires. They are too focused on debugging, correcting errors, and welcoming quality contributions to concern themselves with a person's genotype or phenotype.
+Fortunately, one group emerged to push the technological landscape forward: a diverse community of makers, programmers, and designers in the open-source community. They continually test and tinker through frequent failures to find new helpful adaptations. They are too focused on debugging, correcting errors, and welcoming quality contributions to concern themselves with a person's genotype or phenotype.
 
-Open-source contributors are examples for us all. They evolve solutions to real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software underpinning the internet. These technologies are worth billions and provided free for anyone to use and adapt. Inspired by their character, this book is open-source distributed via Writebook, another open-source software program based on Ruby on Rails, an amazing technology that powers Basecamp, GitHub, Shopify, and thousands of other products.
+Open-source contributors are examples for us all. They evolve solutions to real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software underpinning the internet. These technologies are worth billions and provided free for anyone to use and adapt. Inspired by their character, this book is open-source and published with Writebook, itself built on open-source tools.
 
-However, the open-source community is not perfect. It can be under funded and projects too often fragment. Regardless, the community keeps innovating. That's why the future of the Internet Age, as outlined in the "Bumblebee Economics", does not require marches or a revolution. Because of the open-source community, if you hold a smartphone or laptop, the seeds of this future are already in your hands. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
+However, the open-source community is not perfect. It can be underfunded and projects too often fragment. Regardless, the community keeps innovating. This drive is why the future of the Internet Age, as outlined in _Bumblebee Economics_, does not require marches or revolutions. Because of the open-source community, if you hold a smartphone or laptop, the seeds of this future are already in your hands.
 
-With this new paradigm, you can join the open-source community to develop and disseminate tools that identify the "black moths" in countless niches. Issues like increasing debt, declining health, rising living costs, heightened storm activity, and many others cannot be resolved until the individuals experiencing these physical pains can select the tools to solve them in the million of unique niches around the world. Open-source technologies are poised to provide customized solutions that are readily available to everyone, "black camouflage" for all, in a manner of speaking.
+You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
 
-And we are naturally equipped for this role. Researching this book joyously taught me how to look past ideological identities and connect with the individuals within. Our innate drive to learn and evolve shines brightly when we define ourselves by the future. In the interviews I did, most people would quickly share their passions for sewing custom clothes, optimizing 3D printers, or creating efficient home gardens. A technological identity is already within us, right beside the music, heroes, and social groups we cherish. None of our current identities need change as we realize our dreams through technological progress.
+With this new paradigm, Maria, you, anyone can build upon the work of the open-source community to develop and disseminate tools that identify the "black moths" in countless niches. Issues like increasing debt, declining health, rising living costs, heightened storm activity, car crashes, and many others cannot be resolved until the individuals experiencing these physical pains can select the tools to solve them in the millions of unique niches around the world.
 
-However, until humanity intentionally accelerates the technological evolution we depend on, we remain like raccoons suffering through seemingly random restaurant closures and secured waste bins. Our list of problems includes job losses, business failures, psychological disorders, political animosity, civil wars, revolutions, and the cycles of imperial rise and fall. We mistakenly attribute these events to ideology when in reality, they stem from the unnoticed co-evolution, variation, and speciation of technological ecosystems, which occur continuously around us, indifferent to human-constructed identities, borders, and beliefs.
+It is here where you should stop asking whether AI will take your job, and instead ask how AI—or high-speed internet, or even simpler tools like a pencil and paper—could help you solve the problems of your daily life.
 
-Only a new identity will allow us to glimpse behind the curtain of evolution and learn to harness its powers, as we have already done in physics, chemistry, and medicine. The next step toward self-realization is to ask if we must cooperate like trees and squirrels do—then, who are we competing against in the game of life?
+This does not means the last age failed us. Highway networks, office buildings, computer technology—these were enormous achievements that built the technological world we inherited.  This is our starting position, not a forever solution to the facts of life on Earth.
+
+The beliefs and identities of the last age arose to answer industrialization. This is what's answering ours in the Internet Age. Open-source technologies are poised to provide customized solutions readily available to everyone today, "black camouflage" for all of our problems, in a manner of speaking.
+
+And we are naturally equipped for that work. Researching this book joyously taught me how to look past ideological identities and connect with the individuals within. Our innate drive to learn and evolve shines brightly when we define ourselves by the future. In the countless claims conversations I've had, most people would quickly share their passions for sewing custom clothes, optimizing 3D printers, or creating efficient home gardens. A technological identity is already within us, right beside the music, heroes, and social groups we cherish.
+
+None of our current identities need change as we realize our dreams through technological progress.
+
+However, until humanity intentionally accelerates the technological evolution we depend on, we remain like raccoons suffering through seemingly random restaurant closures, secured waste bins, and other supposed assaults. Our list of problems includes job losses, business failures, psychological disorders, political animosity, civil wars, revolutions, and the cycles of imperial rise and fall. We mistakenly attribute these events to our self-identity or ideology when in reality, they stem from the unnoticed co-evolution, variation, and speciation of technological ecosystems, which occur continuously around us, indifferent to human-constructed identities, borders, and beliefs.
+
+Only a new identity will allow us to glimpse behind the curtain of evolution and learn to harness its powers, as we have already done in physics, chemistry, and medicine. The next step toward self-realization is to ask if we must cooperate like trees and squirrels do—then, who are we competing against in the Game of Life?
 
 ## Story—Handset
 
-When my buddy picked me up from work one day, he looked around and said, "What a dump." Coming from someone who visits offices, warehouses, and factories across the city, that review held weight. He was right—and not just about the 30-year-old carpet. This was the same place where my boss told everyone (but me) I couldn't speak to clients because my stuttering was an embarrassment, then lied to my face for years that it wasn't true.
+When my buddy picked me up from work one day, he looked around and said, "What a dump." Coming from someone who visits offices, warehouses, and factories across the city, that review hit hard. He was right—and not just about the 30-year-old carpet. This was the software employer where my boss told everyone (but me) I couldn't speak to clients because my stuttering was an embarrassment, then lied to my face that it wasn't true.
 
 The thing is, the jackass boss wasn't entirely wrong. In casual conversation, I was usually fine. But in professional settings, I struggled. The difference was honesty.
 
 When I said what I genuinely thought, the path from brain to mouth was direct. I knew what was coming, so I could foresee problem sounds and substitute words ahead of time:
 
-Hi, I hope you're having a ~great~ nice day. I'm here to ~discuss~ talk about your...
+Hi, I hope you're having a ~nice~ great day. I'm here to ~discuss~ talk about your...
 
 But when I had to discuss something I was unsure about—or didn't believe—I had to think while speaking. My stuttering became a lie detector, exposing every moment of hesitation.
 
@@ -304,13 +314,13 @@ Honesty is great in friendships and often in academics, but not so much at work 
 
 So I got a job at an insurance claim call center (I swear I thought it was a good idea).
 
-Insurance adjuster training was surprisingly simple. Each state either has one standard contract or regulated one written by private insurance companies. Car crash fault rules are also either government regulations or established court rules. Either way, the policies and fault rules are quite similar. Finding the policies, rules, and paperwork was often the hardest part. It took only a few days to learn all this.
+Insurance adjuster training was surprisingly simple. Every state or province has a policy contract and a set of crash fault rules that are written by governments, regulators, or the courts. Wherever they come from, they're always broadly similar. Finding them in the maze of government and company websites was harder than learning them. 
 
 I was happy. I could learn and communicate this stuff with confidence.
 
-My first full claim was a crash at a gas station. My customer—called an "insured"—was hit while parked.
+Still in training, my first claim was a crash at a gas station. My customer—called an "insured"—was hit while parked.
 
-But maybe he was moving, which would make the claim 50/50 at fault. After some back-and-forth with the other insurance company, I confirmed my insured was parked and the other guy was moving. 0/100 fault.
+But there was no video recording, so maybe he was moving, which would make the claim 50/50 at fault. After some back-and-forth with the other insurance company, I confirmed my insured was parked and the other guy was moving. 0/100 fault.
 
 "God bless you," my insured responded to that news.
 
@@ -469,6 +479,44 @@ The game board is variable. It could be a supernova trillions of kilometers away
 In an infinite Universe, the number of dimensions we need to comprehend is near infinite as well. Hence why our ability to perceive different dimensions is so crucial to our survival.
 
 But why can't we just take our time? Why is there such consequence to our choices? The answer lies inside the natural laws of the universe. It's why all games come with clocks.
+
+## Story—The Job
+
+I thought learning the rules would be enough. I was wrong.
+
+An insurance adjuster must do three things on every claim:
+
+1. Find out what happened and who was involved.
+2. Determine if it's covered by the policy.
+3. Calculate the cost to fix it.
+
+Simple, right?
+
+Except we're authorizing thousands—sometimes hundreds of thousands—of dollars per day. And no one knows what to do after a crash. You don't—I bet. So, getting the information we need for three seemingly easy questions was mayhem.
+
+There was no rationalization. No production line. This information arrived in a constant, random stream: calls, emails, voicemails. We had no control over the flow.
+
+Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Oh, and people lie constantly.
+
+"Why am I at fault?"
+_Because you hit a freaking tree!_
+"Unfortunately, we cannot sue the person who planted the tree."
+
+"I only drive Buick Allure."
+_That's... really specific._
+"Okay, I'll track one down for you."
+
+"How much will my rates go up?"
+_People ask this constantly._
+"I'm only an adjuster; I'm not trained for that information."
+
+A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the queue. All eight went to payment—fully processed, start to finish. I was so proud of myself. _I'm getting this. I got this. Let's go!_
+
+Then I got an email from a manager:
+
+*"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
+
+I was learning there was a difference between working well and meeting targets. The mayhem was yet to really set in.
 
 ## Chapter 4—Sand Clock: The Ever Present Clock
 
@@ -704,43 +752,37 @@ Now that you know how the rulebook, game board, sand clock, modeling clay, and s
 
 Not this game, though. Its sequel, which runs by rules so much like these. Let's play the Game of Technological Life. Let's play techvolution.
 
-## Story—The Job
+## Story—The Bell
 
-I thought learning the rules would be enough. I was wrong.
+Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, short-change, screw people over—that's what the public thinks.
 
-An insurance adjuster must do three things on every claim:
+In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
 
-1. Find out what happened and who was involved.
-2. Determine if it's covered by the policy.
-3. Calculate the cost to fix it.
+Here's why: we were only barely measured on accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew that brokers could send customers to other companies.
 
-Simple, right?
+So the inbound caller hold metric became everything.
 
-Except we're authorizing thousands—sometimes hundreds of thousands—of dollars per day. And no one knows what to do after a crash. You don't—I bet. So, getting the information we need for three seemingly easy questions was mayhem.
+To enforce it, they played a bell in our headsets. When someone was on hold, it rang: DING, DING, DING. A monotone alarm that never stopped until you picked up. A sound fit for a torture chamber.
 
-There was no rationalization. No production line. This information arrived in a constant, random stream: calls, emails, voicemails. We had no control over the flow.
+If the bell wasn't enough motivation, a manager would message: "ANSWER THE QUEUE." If that didn't work, they'd force calls through without warning—sometimes hanging up on whoever you were already helping.
 
-Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Oh, and people lie constantly.
+We had other work: emails from waiting customers, investigations, outbound calls. But none of that was tracked nearly as much. Just the bell.
 
-"Why am I at fault?"
-_Because you hit a freaking tree!_
-"Unfortunately, we cannot sue the person who planted the tree."
+So we adapted. "Just pay it," managers would say. Some adjusters falsely marked claims "not at fault" to avoid the lengthy verification with the other insurance company. They'd take the customer's word and move on.
 
-"I only drive Buick Allure."
-_That's... really specific._
-"Okay, I'll track one down for you."
+Anything to stop the bell.
 
-"How much will my rates go up?"
-_People ask this constantly._
-"I'm only an adjuster; I'm not trained for that information."
+Adjusters' personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through rushed conversations.
 
-A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the queue. All eight went to payment—fully processed, start to finish. I was so proud of myself. _I'm getting this. I got this. Let's go!_
+We were often more stressed than the people who'd just been in crashes.
 
-Then I got an email from a manager:
+All because someone in head office—who'd never done our job—made a promise about hold times and never looked further than that one metric.
 
-*"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
+The company got what they measured: fast answer rates.
 
-I was learning there was a difference between working well and meeting targets. The mayhem was yet to really set in.
+They also got inflated claims, burned-out adjusters, higher insurance rates, and a system that rewarded speed over truth.
+
+One more claim down. One less call to make that freaking bell ring.
 
 ## Chapter 7—What Does the Game of Life Mean
 
@@ -924,37 +966,62 @@ Any identity is artificial when it expects people to behave in ways we never did
 
 Of course, we are not solely defined by our animal kingdom past. But human genes cannot be wished away with human words. Happily, while our nature defines our basic needs and limits, something else motivates our souls. Touching it is how we best tell the difference between artificial and natural; one requires coercion while the other is so good it makes people, especially kids, smile when opening a box and seeing it for the first time.
 
-## Story—The Bell
+## Story—Spending Money
 
-Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, short-change, screw people over—that's what the public thinks.
+Insurance is a bet on likelihoods. In the early 1900s, when cities still burned down, fire insurers sold cheap policies and went bankrupt when disaster actually struck. So governments began regulating them to keep money on hand.
 
-In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
+That money is called a reserve. During a claim call, the adjuster estimates what the whole thing will cost so the company can set that amount aside. There isn't much oversight on our spending. It's speaking with thousands of people that teaches an adjuster the difference between a prudent person and a wasteful one.
 
-Here's why: we were only barely measured on accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew that brokers could send customers to other companies.
+---
 
-So the inbound caller hold metric became everything.
+_(A real call runs over twenty minutes. This is the short version.)_
 
-To enforce it, they played a bell in our headsets. When someone was on hold, it rang: DING, DING, DING. A monotone alarm that never stopped until you picked up. A sound fit for a torture chamber.
+BEEP.
 
-If the bell wasn't enough motivation, a manager would message: "ANSWER THE QUEUE." If that didn't work, they'd force calls through without warning—sometimes hanging up on whoever you were already helping.
+"Thanks for calling claims, this is Peter."
 
-We had other work: emails from waiting customers, investigations, outbound calls. But none of that was tracked nearly as much. Just the bell.
+"I'd like to report a claim."
 
-So we adapted. "Just pay it," managers would say. Some adjusters falsely marked claims "not at fault" to avoid the lengthy verification with the other insurance company. They'd take the customer's word and move on.
+"Of course. May I have your policy number. Also, was anyone hurt?"
 
-Anything to stop the bell.
+"99999XP. And, no one was hurt, thanks for asking."
 
-Adjusters' personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through rushed conversations.
+"Of course. Is your Honda Civic driveable?"
 
-We were often more stressed than the people who'd just been in crashes.
+"No, it was towed somewhere. I don't know where. You must know."
 
-All because someone in head office—who'd never done our job—made a promise about hold times and never looked further than that one metric.
+"I don't, unfortunately. Can you tell me what happened?"
 
-The company got what they measured: fast answer rates.
+"You don't have this already? The police were there. Firetrucks too."
 
-They also got inflated claims, burned-out adjusters, higher insurance rates, and a system that rewarded speed over truth.
+"I don't have any special access. Please tell me the story."
 
-One more claim down. One less call to make that freaking bell ring.
+"We'd spent the afternoon at the mall, and Sarah was showing me the earrings she'd picked. The sun came through the windshield. I remember looking up and seeing the brake lights too late. The airbag deployed for us. I got out. Nobody stopped for us."
+
+"Not many people stop nowadays. What was the other vehicle?"
+
+"German maybe. Red, I think. The plate was 5555-ADN. Wait, I have the tow company. Ben's Towing."
+
+"Your car is likely a total loss, but we'll know once it's assessed. I'll have a rental company call you and send you a summary email. Do you have any questions?"
+
+"Yes, but I have to go. Thanks. Bye."
+
+---
+
+_Final tabulation:_
+
+_Tow: $500 (ours) + $500 (theirs)_
+_Vehicles: $25,000 (ours) + $20,000 (theirs)_
+_Rentals: $1,000 (ours) + $3,000 (theirs)_
+_Firetrucks: $3,000_
+_Highway damage: perhaps $10,000_
+
+_Estimated total: $63,000._
+_I'll reserve $70,000 because there'll be repair parts delays on the German car, delayed processing will add extra rental days._
+
+Insurance pays just above half of premiums back as claims. Covering this claim is roughly $140,000. Nevermind the traffic, injuries, and other costs. Eight to twelve more claims today.
+
+BEEP. BEEP. BEEP.
 
 ## Chapter 9—Spreading the Technological Soil
 
