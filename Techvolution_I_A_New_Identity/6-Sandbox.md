@@ -5685,4 +5685,135 @@ The average American gets paid less but charged more, and turns to the ideologie
 
 Earth will prosper to new heights when human conflict is minimized and cooperation is maximized, not through wishful storytelling or ideological idealism, but through the innate drive that propels all life to seek resources, evade threats, form alliances, and adapt. This drive often shows up in everyday situations—such as what I learned as a child when ordering pizza—because our limitations are not who we are, but challenges that better allies and tools can solve. Techvolution provides a new framework to understand this paradigm and consciously supports the evolution of life on Earth.
 
+=== 
+
+Here, you can try to take without ever giving back. Without it, we urban raccoons have to do consciously what natural selection does automatically for the squirrel.
+
+===
+
+
+## Sections moved
+
+<!-- Originalled in ### Doesn't My Insurance Cover This? -->
+<!-- But removed for length, perhaps should be put in Chapter 10 or 11 -->
+
+Unless an extinction-level event changes selection pressures—like factory soot or a meteor impact—species typically die off gradually. Our falling birthrate is one such slow signal. Many blame younger generations for being negligent, but the evolutionary truth runs deeper: our economy is still running on a model of the world that no longer exists.
+
+For most of human history, prosperity meant *harvesting* bountiful nature—clear more land, fish more oceans, build another suburb outward. The frontier was dangerous but vast and full of natural resources. But we have crossed into a world well explored, where resources must be managed. Prosperity now means *curating*: tending forests, fertilizing farmland, managing water access. This is the deepest mismatch of our age—and one generation sits at its center.
+
+The baby boomers came of age at the last great harvest: a temporary energy blooom of cheap land, labor, and fuel, one career for life, a frontier of seemingly endless bounty—mistaken, ever since, for the American Dream itself. But the Dream was never a fixed house and a fixed job. It was the freedom to explore, adapt, and prosper as the world changed. There is a reason why the Bill of Rights so valued by conservatives and progressives, grants the freedom from religious dominiation, the right to use a printing press, own a gun, be protected from search or seizure; all freedoms to use modern technology.
+
+Fixed mentalities are the opposite of that pursuit of happiness.
+
+Yet still attached to the energy bloom of the past, we re-create the past—endless movie remakes, "all-new" car commercials, more suburban housing, shopping centers, and office parks—instead of adopting the tools and ways of life that fit the world we actually live in. It isn't done with malice. It is Maria's problem wearing a different face: old instincts trying to survive a new environment.
+
+But there is a crucial difference of scale. Maria only lost her own job. Boomers hold most of the wealth and therefore set the selection pressure for everyone downstream. The young inherit an ecosystem tuned to the wrong century.
+
+For example, in nature, a nest or den is a nursery first—built to raise the young, and left behind once they're grown. Our family homes were meant to raise kids the same way: the bedrooms, the play grounds, the school districts. Yet, the kids left and parents stayed put. Housing that could have been for the next generation quietly became retirement housing for the last.
+
+The effect of this stagnation is quiet but everywhere in our economy. Familiar Microsoft Office workflows, fixed commutes, a reflexive preference for offshoring—each small choice made by someone guarding their interests. Meanwhile, powerful new adaptations like HTML, SQL, and 3D printing get treated as consumer novelties rather than the tools we need for modern life.
+
+This is not an uncommon observation. I often saw it. One insurance appraiser I worked with measured large commercial buildings with a manual measuring wheel, taking days to do what a laser measuring tool does in hours. A CEO banned smartphones for adjusters and insisted on landlines, long after customers had moved on to faster ways of reaching us. Neither man was a villain. Both wanted to protect the tools they'd mastered—which is exactly the point. Adaptation can stall without any bad intent—through the ordinary, understandable instinct to defend one's territory.
+
+The young today feel the cost even when they can't name it. It surfaces in the huge appeal of dystopian stories—*Ready Player One*, *The Hunger Games*, *Divergent*—where the future has been foreclosed and the old order clings on. Techvolution offers the alternative: by understanding technological evolution, we can turn that powerlessness into agency, and dystopian dread into a roadmap for deliberate change.
+
+A self-aware Maria knows evolution cannot select us for good intentions. Natural selection is already pruning the suburban, car-dependent, lifelong-career way of life—these are struggling, if not dying, branches on the tree of life. To evolve a better way of life on purpose, we must tune our identity to seek out, adopt, and protect the tools that are, for now, being held back.
+
+None of this is a case against boomers—least of all for their own sake. History is blunt on this point: when an old order finally breaks, from Royalist France to the Soviet Union, it is the elderly pensioners who see their benefits cut first and worst. Boomers, for their own interest, should want to return society to surplus budgets, staffed hospitals, and a generation able to afford more children.
+
+To solve our problems with upgraded tools, we need to see ourselves as we are.
+
+Consider this: what is more concerning—spraining an ankle or having water pipes burst during vacation? Our ancestors might fear a lion when facing a physical injury, but today we would simply rest and watch Netflix. However, burst pipes could bankrupt you. I should know; I had to deny claims because homeowners broke the unknown conditions of their insurance policies. If they had been technologically self-aware enough to perform a simple two-minute water shut-off, they could have prevented years of hardship and kept the life's torch lit.
+
+Yet, we rarely examine the "extended phenotype" part of ourselves. We remain barely conscious of our technological identities and fail to proactively develop skills that would satisfy evolutionary pressures. Far more people define themselves by gender, race, or heritage, compared to the tools they use to gather resources. Technological identity reveals who we truly are when we strip away labels—the tools we use, the problems we solve, and our ability to adapt and survive in a constantly changing world.
+
+Unaware of most modern tools, we resemble raccoons opportunistically using technology we encounter, believing things like genetics, education, or ideologies explain our success or failure. As evolution penalizes our ignorance, we must look in the mirror and be honest about what we see: people who passionately discuss human genes and/or personality, but are in reality fighting to control tools, even ones as simple as a pencil.
+
+===
+
+
+## Avoiding Evolution's Stare
+
+Charles Darwin didn't invent the idea that creatures evolve. What he and Alfred Russel Wallace said in 1858 was evolution happens because of natural selection. It was an insight based solely on observing so many lifeforms. It faced two obstacles. The first was religious texts made Earth look far too young to have produced so many creatures. This was overcome when radioactive dating revealed our planets true ancient age.
+
+The second obstacles was harder to answer. Nobody knew how creatures inherit traits. The prevailing assumption was that offspring simply blend their parents' features. This raised an obvious objection. If mating means losing half of any advantage every generation, how could an advantage ever accumulate enough for natural selection to act?
+
+That question went unanswered for seventy years. Naturalists accepted the idea that animals had a common ancestry. Few accepted natural selection is what created them. Rival theories crowded the field with possible answers. In 1909 Wilhelm Johannsen coined the terms genotype and phenotype to help frame the debates and argument with a consistent vocabulary. Still there was no resolution.
+
+Meanwhile physics, chemistry, geology, and mathematics were advancing, enriching humanity with electricity, medical cures, and aviation. As nature revealed its mysteries, one might ask: why did we not apply evolution's principles to our own civilization?
+
+We attempted to. But we only saw our genotype or phenotype in the reflection, and were therefore destined to fail. Remember that evolution does not prescribe good ideas; it selects out the bad ones. Two of the worst ideas ever subjected to that test arose while scientists were still arguing how new species are created.
+
+These were fascism and communism.
+
+One looked at us and saw only genotype: each person is solely defined by their bloodline, so act accordingly—promote the supermen and purge the dead weight with eugenics. The other saw only phenotype: remake the human condition by empowering educated decision makers to engineer a better human.
+
+Of course, the mapping isn't perfect. Neither regime used these terms exactly, and their beliefs and actions had other inputs. But both concentrated on genotype or phenotype to a great degree. Which explains why these scientifically advanced societies accepted being so murderous—even when it wrecked their own regimes.
+
+One example among many: Enrico Fermi, John von Neumann, Edward Teller, and many other scientists fled Europe for America, where they soon built radar, computers, and the atom bomb—the very "wonder weapons" the Nazis believed their own genetics would deliver.
+
+The Soviets did the same from the other direction. In the late 1930s, as the world was working out how radio, automobiles, and aircraft would change warfare, they executed most of their senior commanders—three of five marshals, thirteen of fifteen army commanders, and an estimated 30,000 other officers. Just one of several genocides the regime did before the onset of World War II.
+
+Clearly, humanity has had many bad ideas before. The conservative and progressive movements of The West are hardly faultless. But both are rooted in ideals of individuality and doesn't have the supposed certainty of science to justify either. There is a reason why the Bill of Rights so valued by conservatives and progressives, grants the freedom from religious dominiation, the right to use a printing press, own a gun, be protected from search or seizure; all freedoms to use modern technology.
+
+Fascism and communism were particularly horrible because each came of age when the science of genes and heredity was still being figured out and thus young enough to bend to their premises.
+
+However, as awful as it might sound, the problem isn't that an extreme couldn't have a technological success. Each was doomed because neither could sustain any success; extremes have complacency embedded in them.
+
+Each regime won early on genuine innovation—Germany's combined-arms warfare Blitzfrieg that rolled over Europe, the Soviets' crash industrialization that modernized the country. Then each stalled, for the same reason: they had purged the very half of society that helps a lifeform adapts. Extremes carry their own complacency; a system that silences half is dissenters, tinkerers, and doubters loses the variety it needs to keep evolving. That failure is the deepest lesson of the century, and we'll return to it in a later chapter. For now, the point is simpler: neither genotype nor phenotype, neither genetic markers like personal initative and phenotype related markers like government regulation are what wins the game.
+
+This was proven in biology too late. As communism and fascism were getting a foothold, the debate around Darwin was settled, with statistics. Beginning around 1918, mathematicians showed that many discrete genes, each of small effect, add up across a population to exactly the smooth gradual change Darwin had described. The blending problem dissolved because genes don't blend, they shuffle around. Research continued and by the 1940s selection and genetics had fused into the Modern Synthesis, and biologists could finally demonstrate the intricate workings—co-evolution, genetic variation, speciation—that populated our planet with an astonishing diversity of life over billions of years.
+
+The lesson to learn is that defining human success as either a genotype or phenotype is a dead-end. Nature doesn't sort itself that way. Darwin's engine was lifeforms defined by both, using variations to compete against each other, or more commonly, to find untapped niches. What falls out of that competition looks a lot like cooperation. A tree grows tall to beat its neighbors to the light, and happens to shade, shelter, hold soil, and feed birds and mammals while doing it. Although in nature, nobody is setting out to help anybody. The forest happens anyway and everyone benefits.
+
+Humans, with our raccoon like living in a new technological space, we must emulate nature as best we can to reach its bounty. Extremism is not it.
+
+Modern technology is awash in examples. The transistor, internet, DNA mapping, and so much more was done by a confluence of interests. Selfless researchers funded to discover the next big insight. NASA and military contracts that invest in early products nobody else could afford. Finally, private business who push these products to regular people and so by bringing production costs down and empower regular people, whose tax dollars continue to fund original research fueling this ecosystem.
+
+The cost of ongoing development is creative destruction. Our new identity means embracing changing roles as technologies evolve. And whatever our politics, technological evolution demands moderation. Like two sides of a coin, neither camp can be purged, because the ecosystem needs both. The genotype's endless new variants and the phenotype's fine-tuning of what already works. One generates options, the other perfects them. Purge either and life stops adapting.
+
+It must be asked, with all the death and conflict caused by attempts to evolve our genotype or phenotype, why was it so difficult for humanity to recognize ourselves as technological beings? The reason is the same as why accepting evolution took so long: it contradicts the paradigms entrenched in our minds. Like all life forms, competing in the game of life is in our nature. And what better strategy for survival than possessing a tool that others lack, or better yet, need?
+
+To illustrate, in the aftermath of fascist and communist atrocities, psychologist Stanley Milgram set out to understand how ordinary people had participated in such events. At Yale University in 1961, participants were instructed to act as "teachers" and administer electric shocks to a "learner" (an actor) for errors in a memory test. An authoritative scientist with a clipboard and pencil would insist politely that the experiment continue, even as the learner appeared to suffer increasing pain.
+
+In Milgram's most-cited setup, 65 percent of participants administered what they believed were dangerous shocks, often while showing visible distress. The exact rates have held up unevenly across the dozens of replications and variations conducted across cultures in the decades since, but the broader pattern has not been overturned: ordinary people, under pressure from perceived legitimate authority, often comply further than they themselves predict they will.
+
+Perhaps because of my speech impediment, watching these experiments highlighted a simple truth: we should never judge one another's raw capabilities. To me, the Milgram setup is not primarily about humanity's willingness to follow orders but about our limited awareness. Despite having pencils and paper sitting on the table, no participant ever thought to offer them to the "learner" to help him remember. Life has always overcome adversity with adaptations, yet here we were inflicting pain on each other instead of simply offering a pencil to a person in need. Humans need tools—I would likely need one to communicate my answer without stuttering, just as the scientist used a pencil to record test results.
+
+Yet, even well-intentioned academics often define humanity through narrow identities—genetic, cultural, or social—rather than recognizing that our true power stems from the technologies we use to solve problems. The ideological narratives we construct about superiority—whether based on education, bloodline, race, gender, or class—are misconceptions stemming from technological imbalances.
+
+An ideology-first identity frequently misleads us about our suffering as well, such as "I am poor or hungry because I am a [insert self-identity]." This identity may explain why others target us, but it can't fix the pain by itself. Behind the suffering is a technological failing too—no access to the water, seed, soil, and tools needed to grow food for example. Evolution can't see our self-identity, only the adaptations we use to interact with the world: our tools.
+
+Identity can decide who gets targeted. Only tools decide how we fight back.
+
+These misconceptions harm those in authority most of all, as they claim biological credit for what was only ever a fragile technological advantage. Seen through this lens, regimes built on rigid identity share a telling weakness. Some rank people by genotype—the Confederacy and Nazi Germany ruling whole races unfit to hold tools at all. Others police the phenotype—the Soviet Union treating class origin and "bourgeois" education as a stain that made a person unfit. Different justifications caused the same collapse. No society runs on belief systems; it runs on the creation and distribution of tools—to harvest energy, grow food, build shelter—inside a regenerating technological ecosystem. That work requires people free to build and try whatever tools work. Strangle that freedom and nature selects you out.
+
+There is no inherent human genotype or phenotype superiority. Our success depends on enhancing capabilities through technology, and like the squirrel and oak tree, we rely on others' technological empowerment to sustain the technological ecosystem we depend on. From Ancient Rome to modern America, successful civilizations have expanded through innovations like roads, libraries, and smartphones. The evolutionary pattern is that individual organisms prosper best when in an ecosystem filled with other healthy individuals.
+
+We should want to give everyone a pencil, purely out of self-interest. We never know who might be the next "black moth" that saves us. After all, once England reduced its industrial soot, the tree bark returned to its pale color, and the now rare peppered variant moth was selected again and as species continued otherwise the same.
+
+For now, we invent technology but do not naturally distribute it to others. This shortcoming appears in various contexts: workplaces where employees receive tools without choices or input yet are judged on their performance using the tools; schools that test children's knowledge and memory while denying common aids like notes or calculators; and individuals who neglect their own toolsets, hoping instead that an insurance representative will resolve their issues with a claim check.
+
+Withholding technological tools, such as the transformation of software from products we own to services we perpetually rent, as well as the "right to repair" and "work from home" movements, explains much of our current problems.
+
+These aren't separate grievances—they're the same pattern. In the technological era, a human who can't control her tools is half an organism. Withholding the tools is what selection pressure looks like in the technological era.
+
+From Gen Z to retirees, modern digital technologies—like the printing press in earlier eras—are tools people cannot yet freely control to earn a prosperous independent livelihood.
+
+### The Black Moth in Every Niche
+
+Fortunately, one group is emerging from the technological landscape: a diverse community of makers, programmers, and designers in the open-source community. They embrace the constant effort and frequent failures that adaptation requires. They are too focused on debugging, correcting errors, and welcoming quality contributions to concern themselves with a person's genotype or phenotype.
+
+Open-source contributors are examples for us all. They evolve solutions to real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software underpinning the internet. These technologies are worth billions and provided free for anyone to use and adapt. Inspired by their character, this book is open-source distributed via Writebook, another open-source software program based on Ruby on Rails, an amazing technology that powers Basecamp, GitHub, Shopify, and thousands of other products.
+
+However, the open-source community is not perfect. It can be under funded and projects too often fragment. Regardless, the community keeps innovating. That's why the future of the Internet Age, as outlined in the "Bumblebee Economics", does not require marches or a revolution. Because of the open-source community, if you hold a smartphone or laptop, the seeds of this future are already in your hands. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
+
+With this new paradigm, you can join the open-source community to develop and disseminate tools that identify the "black moths" in countless niches. Issues like increasing debt, declining health, rising living costs, heightened storm activity, and many others cannot be resolved until the individuals experiencing these physical pains can select the tools to solve them in the million of unique niches around the world. Open-source technologies are poised to provide customized solutions that are readily available to everyone, "black camouflage" for all, in a manner of speaking.
+
+And we are naturally equipped for this role. Researching this book joyously taught me how to look past ideological identities and connect with the individuals within. Our innate drive to learn and evolve shines brightly when we define ourselves by the future. In the interviews I did, most people would quickly share their passions for sewing custom clothes, optimizing 3D printers, or creating efficient home gardens. A technological identity is already within us, right beside the music, heroes, and social groups we cherish. None of our current identities need change as we realize our dreams through technological progress.
+
+However, until humanity intentionally accelerates the technological evolution we depend on, we remain like raccoons suffering through seemingly random restaurant closures and secured waste bins. Our list of problems includes job losses, business failures, psychological disorders, political animosity, civil wars, revolutions, and the cycles of imperial rise and fall. We mistakenly attribute these events to ideology when in reality, they stem from the unnoticed co-evolution, variation, and speciation of technological ecosystems, which occur continuously around us, indifferent to human-constructed identities, borders, and beliefs.
+
+Only a new identity will allow us to glimpse behind the curtain of evolution and learn to harness its powers, as we have already done in physics, chemistry, and medicine. The next step toward self-realization is to ask if we must cooperate like trees and squirrels do—then, who are we competing against in the game of life?
+
 ===
