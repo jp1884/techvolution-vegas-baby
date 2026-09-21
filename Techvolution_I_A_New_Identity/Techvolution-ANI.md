@@ -174,15 +174,17 @@ The answer is the raccoon. Like them, we live, work, and exist in an ecosystem o
 
 In evolutionary terms, Maria wasn't a "regional manager" at all—that's a cultural label. She was a physical-media seller and dependant on one adaptation, fitted to one niche, able to rise and fall with it. That's what a species is. And around 2011, hers was going extinct, whatever she or others called herself.
 
-Maria wasn't alone. _Home Improvement_ was one of America's most popular television shows in the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor celebrate the power of modern tools on a regional cable show. The show was culturally aware enough to tackle drug addiction, infidelity, and job loss—the important life lessons society recognized. Yet in eight seasons, technological identity never appeared on that list. Nobody, not even the Tool Man, asked what happens when television itself changes.
+Maria wasn't alone. _Home Improvement_ was one of America's most popular television shows in the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor host a "Tool Time" regional cable show reviewing tools from his sponsor Binford Tools. The show was culturally aware enough to tackle drug addiction, infidelity, and job loss. Yet in eight seasons, technological identity never appeared on that list. Nobody, not even the Tool Man, asked what happens when technology, like telecommunicaions, changes.
 
-Internet speeds were improving every year. In 1992 when the show premiered, it was 0.0144 Mbps. Loading simple websites took minutes. By 1999, when the show ended, it was 0.056 Mbps and online gaming was possible. By 2011 speeds was 31 Mbps. Each year video production and distribution were going digital and online.
+Meanwhile internet speeds were improving every year. In 1992 when the show premiered, it was 0.0144 Mbps and loading simple websites took minutes. By 1999, when the show ended, it was 0.056 Mbps and online gaming was possible. By 2011 internet speeds were 31 Mbps and video production and distribution were increasingly streaming on Dailyradar, YouTube, Netflix, and other platforms.
 
-How could a regional cable show or DVD rental stores not be changed forever?
+How could regional cable shows—or DVD rental stores—not be changed forever?
 
-Now people ask anxiously whether AI will take their jobs—a frightening question precisely because so few of us truly understand our relationship to the technologies we depend on to earn a living even while consuming massively improved products in our home lives.
+Today people ask anxiously whether AI will take their jobs—a frightening question precisely because so few of us understand our relationship to the technologies we depend on to earn a living, even while consuming better home products every year. Anyone with a phone now has a supercomputer, a camera better than any broadcast crew had in 1992, worldwide video production and distribution, an encyclopedia, every product manual, and so much more at their disposal. Far more tools than Tim Taylor ever had. We should be celebrating that like another Moon landing.
 
-Like Maria, we have no name for that part of our identity—the part selection acts on most often. My own story shows why this blindspot is so hard to see and accept.
+We don't.
+
+Because like Maria, we have no name for that part of our identity—the part selection acts on most often. My own story shows why this blindspot is so hard to see and accept.
 
 Among my genetic traits is the speech impediment. Centuries ago a stutterer was taken for a simpleton and a candidate for neglect or worse. I can sympathize; in childhood I was thought to be one because I rarely talked. But the problem was identified at my elementary school, a therapist was assigned, and the shackles of my genetic heritage began to come off.
 
