@@ -284,11 +284,13 @@ However, the open-source community is not perfect. It can be underfunded and pro
 
 You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
 
-With this new paradigm, Maria, you, anyone can build upon the work of the open-source community to develop and disseminate tools that identify the "black moths" in countless niches. Issues like increasing debt, declining health, rising living costs, heightened storm activity, car crashes, and many others cannot be resolved until the individuals experiencing these physical pains can select the tools to solve them in the millions of unique niches around the world.
+With this new paradigm, Maria, you, anyone can build upon the work of the open-source community to develop and disseminate tools that identify the "black moths" in countless niches. Today's extremists are looking in the wrong place for these innovations. Each side's instinct, for mass production or for diversity, is sound. But they only know the white moths, the tools, institutions, and programs they grew up with, and those stop helping as the environment turns dark.
+
+The result is the same for us as for any creature: the pains of rising debt, declining health, higher living costs, heavier storms, car crashes, and many others persist until the individuals living with them can select the tools to solve them, in the millions of unique niches around the world.
 
 It is here where you should stop asking whether AI will take your job, and instead ask how AI—or high-speed internet, or even simpler tools like a pencil and paper—could help you solve the problems of your daily life.
 
-This does not means the last age failed us. Highway networks, office buildings, computer technology—these were enormous achievements that built the technological world we inherited.  This is our starting position, not a forever solution to the facts of life on Earth.
+This does not means the last age failed us. Highway networks, office buildings, computer technology—these were enormous achievements that built the technological world we inherited. This is our starting position, not a forever solution to the facts of livng on Earth.
 
 The beliefs and identities of the last age arose to answer industrialization. This is what's answering ours in the Internet Age. Open-source technologies are poised to provide customized solutions readily available to everyone today, "black camouflage" for all of our problems, in a manner of speaking.
 
