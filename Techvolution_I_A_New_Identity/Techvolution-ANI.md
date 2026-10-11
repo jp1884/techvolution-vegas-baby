@@ -5,7 +5,7 @@
 
 ## Dedication
 
-_To the middle class, for keeping everything running._
+_To the middle class, who keep everything running._
 
 ## Opening Quotes
 
@@ -48,77 +48,77 @@ To most people, corner stores house quick conveniences. To kids, they are wonder
 
 I loved visiting my local store. I would casually browse the options, select a comic and treat, and happily hand over cash to the kind shop owner. A warm slice from the pizzeria next door always completed the perfect day.
 
-But inside that place lived a real super-villain.
+But inside that place lived a super-villain beyond any comic book.
 
-I would stare at it through the giant "PIZZA" letters on the storefront. Walking back and forth I hoped I would overcome my nemesis. My biggest hope was that only one kind of slice would be available. Then could I bypass the tyrant and get the slice I so wanted.
+I would stare at it through the giant "PIZZA" letters on the storefront. Walking back and forth I hoped I would overcome my nemesis. My biggest hope was that only one kind of slice would be available. That way I could bypass the tyrant and get the slice I so wanted.
 
 Was the villain poverty? Meekness? Or perhaps the pizza cook disliked my religion or family? The answer is none of these. The truth is far more fundamental and reveals the core message of the book.
 
 I wanted a slice of pizza. Getting it required speaking, and I did not have the ability to do that, as I was born with a speech impediment—a condition affecting about three million Americans from all walks of life. That is why I turned away when the pizza counter had several kinds of slices. I feared, far more than going hungry, being asked "which one?"
 
-The affliction kicks in when certain sounds trigger a stutter that feels like a severe electric shock. Speaking to strangers makes it worse. Swearing offers blessed relief, but that solution only works among friends.
+The affliction kicks in when certain sounds trigger a stutter that feels like an electric shock whose severity depends on how hard I keep trying. Speaking to strangers makes it worse. Swearing offers blessed relief, but that solution only works among friends.
 
-Modern science has illuminated many of our biological conditions, providing explanations and remedies. In that vein, I was very lucky to receive government-sponsored speech therapy. So although I was subject to a genetic misfire between thought and speech, I learned there was a field that had studied the problem and could tell me what it was, what caused it, and what came next. Turns out I was not a broken person, just someone with a broken tool. 
+Modern science has illuminated many of our biological conditions, providing detailed explanations and effective remedies. In that vein, I was very lucky to receive government-sponsored speech therapy. So although I was subject to a genetic misfire between thought and speech, I learned there was a field that had studied the problem and could tell me what I could do about it. Turns out I was not a broken person, just someone with a broken tool.
 
-Maria, the DVD rental manager, had no such field. Nobody had studied what was happening to her, so nobody could name it, and she met it without warning. I was given a path, teachings, therapy, and finally a graduation ceremony at an Italian restaurant.
+Maria, the DVD distribution manager, had no such field. Nobody had studied what was happening to her, so nobody could name it, and she met it without warning. I was given a path, teachings, therapy, and finally a graduation ceremony at an Italian restaurant.
 
 I got to order anything I wanted. It was pizza, of course.
 
 The point of this story is that when a person confronts a problem today—from buying products to getting a job—we instinctively start with a genetic, cultural, or ethnic identity. Listen to any political speech; it will speak to "single mothers," "elderly voters," "new immigrants," or some other demographic group. I do not want to invalidate these identities, only to clarify something fundamental: in the realm of politics and economics, we are first and foremost users of tools.
 
-Some of these tools are biological, like speaking or jogging, but with the explosion of electronics, software, and so many other devices, most of our interactions with the world involve at least some technology. Therefore, our primary identities should be defined by the tools at our disposal, and acquiring better tools to live happier lives ought to be our first priority.
+Some of these tools are biological, like jogging or speaking, but with the explosion of electronics, software, and so many other devices, most of our interactions with the world involve at least some technology. Therefore, our primary identities should be defined by the tools at our disposal, and acquiring better tools to live happier lives ought to be our first priority.
 
 Yet this perspective is almost entirely absent from public discourse—a technological identity is precisely what ideologies strip away from us.
 
 For example, an ideologue seeing a hungry kid outside a pizzeria window might attribute the kid's situation to a personal failing—being a freeloader or wasteful with money—or systemic injustices—like family poverty or discrimination by the shop owner. Both perspectives are possible, but the fact that the kid might be struggling with a "verbal wheelchair" rarely occurs to people today. This oversight happens not because they are unaware of disabilities, but because ideological interpretations are often our default lens when seeing problems in society.
 
-That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet conservatism (1790) and progressivism (1859) were conceived centuries ago. The First Industrial Revolution (1760–1840) brought steam power and textile mills. The Second (1870–1914) brought electricity, mass production, and the assembly line. With each decade the established craft guilds, manorial farms, royal palaces were being replaced with wage labour, mass migration, urban poverty. Existing political and economic frameworks were unable to navigate the new terrain.
+That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet conservatism (1790) and progressivism (1859) were conceived centuries ago. The First Industrial Revolution (1760–1840) brought steam power and textile mills. The Second (1870–1914) brought electricity, mass production, and the assembly line. With each decade the established craft guilds, manorial farms, royal palaces were replaced with wage labour, mass migration, and urban poverty. Our current ideologies were born because existing political and economic frameworks were unable to navigate the new terrain of industrialization.
 
-Similarly, conservative and progressive thinkers offer valuable insights into our societal policies and governance, but their worldview is not rooted in the modern scientific and technological world they helped create. They lived without plastic, wrote with bird feathers, and did not learn how evolution shaped the state of nature. Ardent believers in one of these ideologies today are stuck solving the problems of the distant past. Instead, ideologies are frameworks to study and learn from while building on their achievements.
+Conservative and progressive thinkers offer valuable insights into our societal policies and governance, but their worldview is not rooted in the modern scientific and technological world they helped create. They lived without plastic, wrote with bird feathers, and did not learn how evolution shaped the state of nature. Ardent believers in one of these ideologies today are stuck solving the problems of the distant past. Anyone who studies both can build on their shared achievements.
 
 Conservatism emphasizes producing wealth through mass production. Progressivism pushes for social diversity to empower more individuals. Viewed through a technological identity, these mindsets work best together.
 
-Both offer one half of how life populates and updates its ecosystems. Every biological ecosystem is a mixture of different lifeforms harvesting energy to mass-produce as much growth and offspring as possible to keep life updated to the latest environment. This is how left and right together populated the world with engines, factories, power stations, and other industrial wonders. Thus, rather than seeing left versus right as opposing forces, we can view them as complementary perspectives contributing to our collective technological evolution.
+Every biological ecosystem is a mixture of different lifeforms harvesting energy to mass-produce as much growth and offspring as possible. But life also varies its offspring, searching for any that suit the latest environment better. Conservatism describes how life populates its ecosystems; progressivism describes how it updates them. Together they populated the world with many different engines, factories, power stations, and other industrial wonders. Thus, rather than seeing left versus right as opposing forces, we can view them as complementary perspectives contributing to our collective technological evolution.
 
-Sharing the mission of industrialization, the two sides often found common ground. In the 1950s, Republicans and Democrats could be so intermingled in their voting and collaboration that they sometimes didn't look like two separate parties. Even through the turbulent 1960s and early 1970s—with the battles over the Great Society programs, the Vietnam War, and the Civil Rights movement—Republicans and Democrats regularly voted together: there were 12,000 cooperating pairs of congressmen voting across party lines.
+Sharing the mission of industrialization, the two sides often found common ground. In the 1950s, Republicans and Democrats could be so intermingled in their voting and collaboration that they sometimes didn't look like two separate parties. Even through the turbulent 1960s and early 1970s—with the fierce battles over the Great Society programs, the Vietnam War, and the Civil Rights movement raging—Republicans and Democrats regularly voted together. Cross-party cooperation wasn't rare or exceptional. It was the norm, with about 12,000 individual Republican-Democrat voting partnerships taking place in the House of Representatives.
 
-The right pushed to keep building more structures, roads, and power plants. The left made sure ever more disenfranchised people got in, so they could work, contribute, and share in the spoils of industrialization. The moderates in both parties held the power, and they often compromised. Graphs of party voting behavior in this era look like a tossed salad.
+Neither side gave in. The right pushed to keep building more structures, roads, and power plants. The left made sure ever more disenfranchised people got in, so they could work, contribute, and share in the spoils of industrialization. The moderates in both parties held the power, and they often compromised to their mutual benefit. Graphs of party voting behavior in this era look like a tossed salad.
 
-But from the mid-1970s onward, that cooperation began steadily eroding. By the 1990s, the two parties had pulled into distinct and largely separate camps. By the 2000s, cross-party cooperation had collapsed almost entirely and fewer than 200 cooperating pairs of the house of representatives voted across party lines. Ironically, the further we've moved from the origins of these ideologies, the more extreme our partisanship has become. The party voting graphs now look like oil and water.
+But from the mid-1970s onward, that cooperation began steadily eroding. By the 1990s, the two parties had pulled into distinct and largely separate camps. By the 2000s, cross-party cooperation had collapsed almost entirely with fewer than 200 cooperating pairs voting across party lines in the House of Representatives. Surprisingly, the further we've moved from the origins of these ideologies, the more extreme our partisanship has become. The party voting graphs now look like oil and water.
 
 Unsurprisingly, our economic challenges continue to mount.
 
-The statistics paint a stark picture of our financial strain. Adjusted to 2023 dollars, median household income rose from about $62,000 in 1991 to about $79,000 in 2021, an increase of roughly 28 percent over thirty years.
-
-Yet, the cost of living has dramatically outpaced this increase.
+Today's statistics paint a stark picture of our financial strain. Adjusted to 2023 dollars, median household income rose from about $62,000 in 1991 to about $79,000 in 2021, an increase of roughly 28 percent over thirty years. The cost of living has dramatically outpaced this increase.
 
 Average home prices across U.S. states were about 345 percent higher in 2024 than in 1991. Average annual premiums for employer-sponsored family health coverage increased 49 percent from 2013 to 2023. Average in-state tuition roughly doubled from 1991 to 2023. Grocery costs rose significantly in recent years—a 20–30 percent increase from 2020 to 2025.
 
-This widening economic gap has driven debt to unprecedented levels for students, families, and governments. In many areas we're more in debt than our ancestors fighting World War II. Economic betterment has also largely stopped in America, with only half of Americans born in 1980 earning more than their parents, compared to 90 percent of those born in 1940.
+This widening economic gap has driven debt to record levels for students and governments. American federal debt, measured against the size of the economy, is now near its 1946 peak. That should strike us as strange. Much of what World War II (1939-1945) wartime debt bought was destroyed within months, yet by the mid-1970s the debt had shrunk to about a quarter of its postwar size relative to the economy because a healthy economy outgrew its debt. Today’s federal borrowing comes not from war but from the ordinary costs of keeping society running: retirement, healthcare, and the interest on what we already owe. Just keeping our society running runs up as much debt as a world war, which suggests something has gone profoundly wrong.
 
-I don't need to cite any more numbers because you see this trend every month when matching your paycheck to your bills. This demands a question: the internet and personal computer were both invented in the early 1970s. They've grown increasingly powerful taking us from the Industrial Age into the Internet Age. So why are so many people falling behind?
+Economic betterment has also largely stopped in America, with only half of Americans born in 1980 earning more than their parents, compared to 90 percent of those born in 1940.
 
-Because like during industrialization, our belief systems are out of date, so don't have a shared purposed, and thus cannot steer society in this new environment.
+I don't need to cite any more numbers because you see this trend every month when matching your paycheck to your bills. This demands a question: the internet and personal computer were both invented in the early 1970s, right as our politics started to divide and our economy began to stall. Despite computers growing ever more powerful, taking us further from the Industrial Age into the Internet Age, many people are falling behind. Why?
 
-Industrial Age mindsets are not up for the task. Ideologues, pundits, and believers say their superior government policy can address our challenges. When it doesn't work we're told to blame the "other side". Growing extremism hasn't worked because evolution demands more: we must adapt by innovating new tools and adopting a new lifestyle.
+Just as religious frameworks fell out of date during early industrialization, our ideological ones are out of date now. Out of touch, they can’t offer a shared purpose. Out of touch, they can't offer a shared purpose, and so cannot mass-produce or adopt new tools in our new computer-powered environment
 
-To understand how we must adopt a fresh mindset, consider a simple experiment: combine cold water and ice into a bucket. As you immerse your hand in the water, the cold steals your heat, and your body soon experiences intense pain. This visceral moment reveals a fundamental truth: no words, presentations, or promises keep you warm.
+Industrial Age mindsets are simply not up for the task. Ideologues, pundits, and believers say their superior government policy can address our challenges. As each has proven ineffective we're told to blame the "other side". Growing extremism hasn't worked because evolution demands more: we must adapt by innovating new tools and adopting a new lifestyle.
+
+Before we do that we must adopt a fresh mindset. One built from the lessons conservatives and progressives taught us when they conquered the Industrial Age. Consider a simple experiment: combine cold water and ice into a bucket. As you immerse your hand in the water, the cold steals your heat, and your body soon experiences intense pain. This visceral moment reveals a fundamental truth: no words, presentations, or promises keep you warm.
 
 Obviously not. Words don't fill our stomachs or shelter us from the elements.
 
-Yet, we evaluate conservatism, progressivism, or any belief system by its words, and not its ability to create and distribute tools that overcome your unique environmental challenges and thereby lower your real-life pains. Most everyone, from bureaucrats to teachers, executives to ideologues, already says they promote innovation, but only a person with a technological identity will evaluate their words by the tools in their hand.
+Yet today we evaluate conservatism and progressivism by their words. Our ancestors didn't do that. Instead, they valued each for their ability to create and distribute tools like tractors, home heaters, and libraries. These are adaptations that overcame real-life pains of hunger, poverty, illiteracy. Today, ideological believers, from bureaucrats to teachers, executives to workers, say they promote adopting innovative computer technology, but only when you adopt a technological identity will you evaluate their words by how well the tools in your hands solve your frontline problems.
 
-Only then will we realize that using Industrial Age mentalities in the Internet Age is the mix-up causing our inability to match problems with tools well enough to prosper. This realization will again have us mass-produce the diverse tools Americans need to find the toolset that will earn their freedom, moderation, and prosperity.
+Using Industrial Age mentalities in the Internet Age is a massive mix-up. It interferes with matching our problems with better tools. When we realize this, we can once again mass-produce the diverse tools we need to find a shared political purpose and build economic prosperity again.
 
-Following evolution is a good place to be. Life has spent billions of years combating heat, hunger, thirst, and cold through new adaptations. Arctic fish develop antifreeze proteins. Polar birds grow waterproof feathers. Mammals develop fur and blubber. Each organism's survival depends not on avoiding the discomforts of hot or cold, but on developing the right tools to keep pain away in its environment.
+Then we'll be following evolution, and that is a good place to be. Life has spent billions of years combating heat, hunger, thirst, and cold through new adaptations. Arctic fish develop antifreeze proteins. Polar birds grow waterproof feathers. Mammals develop fur and blubber. Each organism's survival depends not on avoiding the discomforts of hot or cold, or assigning blame for them, but on developing the right tools to keep pain away in its environment.
 
-Our ancestors lost their insulating hair when they left the trees and learned to walk. How did we stay warm? We cut fur from dead animals and mastered fire. Today, we synthesize materials, generate heat, and create any other solution we can dream up. And while we have gotten very good at reducing our pains, that also means we can easily forget what life on Earth is all about.
+Our ancestors lost their insulating hair when they left the trees and learned to walk. How did we stay warm? We cut fur from dead animals and mastered fire. Today, we synthesize materials, generate heat, and create any other solution we can dream up. This enormous technological progress has often reduced our pains, but that also means we easily forget what life on Earth is all about.
 
-Hence, we tend to view the world through human stories, speeches, and ideologies, rather than addressing practical problems with new adaptations.
+Hence, we tend to view the world through human stories, speeches, and ideologies, rather than the reality that we need to address practical problems with new adaptations. This ironically causes frontline pains to increase.
 
-Adopting a strong technological identity will make it far easier to adapt, prosper, and pass on a bright torch to the next generation. A new identity does not mean abandoning any of our wonderful cultures. We can still enjoy music clubs, celebrate folklore dances, commemorate history, and cheer at the Olympics. However, in a world increasingly shaped by technological systems, we must develop a new mindset to clearly identify our problems and see their best solutions.
+Adopting a strong technological identity will keep our continued evolution in focus. A new identity does not mean abandoning any of our wonderful cultures. We can still enjoy music clubs, celebrate folklore dances, commemorate history, and cheer at the Olympics. However, in a world increasingly shaped by technological systems, we must develop a new mindset to clearly identify our problems and see their best solutions.
 
-Loving the same music as someone else is great fun, but that does not mean you have found the best mechanic. Shared problems create the best political and economic relationships. We fight because we can't solve our problems. Meanwhile an oak tree and a squirrel have nothing in common, and each helps the other prosper anyway.
+The everyday lesson is, loving the same music as someone else is great fun, talking about ideology can cause interesting debates, but neither means you have found the best mechanic. Solving our frontline problems means finding better tools and better tool-users. Just think how an oak tree and a squirrel have nothing in common, and each helps the other prosper every year.
 
 All life forms should work together because Earth is a massive version of an ice bucket—a vast game board shaped by immutable laws of physics, chemistry, and geology. Life produces new creatures constantly, and its partner, evolution, decides which keep playing. With the right team, Earth is an awe-inspiring oasis—a lone lifeboat in the galactic expanse.
 
@@ -3981,6 +3981,10 @@ Or drop them yourself?
 ---
 
 We're not in th era of consumerism. We have to predate our consumption to see which is most needed and efficient.
+
+## Chapter 17—Afterword
+
+<!-- If anyone reads this, I'll explain the history of where it came from. The academic history, lineage, rd, and all that jazz. -->
 
 ## Preview—Book II—Mixed Ideological Politics
 
