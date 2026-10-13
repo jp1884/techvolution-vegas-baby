@@ -298,13 +298,15 @@ Open-source contributors are examples for us all. They evolve solutions to real-
 
 The open-source community is not perfect. It can be underfunded and projects too often fragment. Regardless, the community keeps innovating. This drive is why the future of the Internet Age, as outlined in _Bumblebee Economics_, does not require marches or revolutions. Because of the open-source community, if you hold a smartphone or laptop, the seeds of this future are already in your hands.
 
-You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
+They cannot remake all of society. Nor can we rely on free designs, knowledge, and software to solve all our problems. But we can push evolution forward with it. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
 
-With this new paradigm, Maria, Tim "The Tool Man", you, anyone can build upon the work of the open-source community to develop and disseminate tools that identify the "black moths" that will help us populate new niches. Today's politics is turning towards extremes. Each side's instinct, for mass production or for diversity, is sound. But they only know the white moths, the cars and office buildings, universities and corporations they grew up with, and those stop helping as the environment turns dark.
+With this new paradigm, Maria, Tim "The Tool Man", you, anyone can build upon the work of the open-source community to develop and disseminate tools that identify the "black moths" that will help us populate and harvest new niches. Today’s politics is turning toward extremes for the same reason it did a century ago. New tools exist, but the old mindsets are struggling to use them, and so people reach for something that promises more.
+
+Each side’s instinct, for mass production or for diversity, is sound. But each is limited to the white moths it knows: one tries to sell ever more shoes and cars, the other to fill offices and universities with more diverse people. Those moths worked well in a pale forest. The first computers were designed on blackboards after all. But time has moved on, the environment has changed, and we need to mass-produce new variations to find the black moths that will thrive in the forest we actually have.
 
 Unable to adapt, we end up like any creature in that position: with growing frontline pains. Rising debt, declining health, higher living costs, heavier storms, car crashes, and many others persist until the individuals living with them can select the tools to solve them, in the millions of unique niches around the world.
 
-This does not mean the last age failed us. Highway networks, office buildings, computer technology—these were enormous achievements that built the technological world we inherited. But like in evolution, what we have now is our starting position, and can never be a forever solution to the requirements of living on Earth.
+This does not mean the last age failed us. Highway networks connecting countries, typewriters keeping records inside office buildings—these were enormous achievements that birthed the technological world we inherited. But like in evolution, what we have now is our starting position, and can never be a forever solution to the requirements of living on Earth.
 
 The beliefs and identities of the last age arose to answer industrialization. Open source is answering our entrance into the Internet Age: black camouflage for all of us, in a manner of speaking.
 
@@ -352,125 +354,122 @@ No lies, no uncertainty, no stuttering!
 
 ## Chapter 1—Presents Under the Tree
 
-We have a long history of competing against each other. Numberless wars, raids, and conquests showcase that well enough. Even today, in our relative peace and prosperity, people commonly vote their self-interests yet still often become confrontational when others do the same.
+We have a long history of competing against each other. Numberless raids, wars, and conquests showcase that well enough. Even today, in our relative peace and prosperity, people vote their self-interests. From importers to manufacturers, oil drillers to solar panel installers, people do this, yet still often become confrontational when others do the same.
 
-To better solve our problems, we need to update our identity and mindsets to accept the primacy of our technological identity. Only then will we harness natural laws that empower us to grow and harvest from a vibrant technological ecosystem. Only then can we together confront our true enemy.
+We need to put our technological identity first. Not only because it's better in principle, but because it reveals our interests, making it easier to understand each other, compromise, and become like the squirrel and the tree whose self-interest still benefits both. Only when our self-interest works towards a shared purpose can we together overcome our true enemy.
 
 Who is our true enemy?
 
-It surrounds us every day. Even right now, it causes you worry and concern, yet with so many ideologies and beliefs in our minds, it will take some doing to appreciate its power over all creatures. I'd like to start that long journey by telling you a short story about how important new technology is to us. It's one of my most memorable claims. 
+It surrounds us every day. Even right now, it’s working on you, me, and everyone. It has ultimate power over all creatures. Yet none of our ideologies names it. Our old identities cannot see it, so instead we see each other as the enemy. Our new identity is defined by it. I’ll start to explain who or what our true enemy is with a short story from one of my most memorable claims.
 
 It came in one cold December afternoon, a few days before Christmas.
 
-A young family's home had been robbed. Someone had broken in, stolen appliances, cash, jewelry, and even the presents under the tree. Sadly, the criminals didn't stop with theft. They also heartlessly sprayed the entire house with a fire extinguisher. The white chemical powder blanketed every surface, and although it looked like fake snow, it is actually unsafe, especially for kids.
+A young family's home had been robbed. Someone had broken in, stolen appliances, cash, jewelry, and even the presents under the tree. Sadly, the criminals didn't stop with theft. They heartlessly sprayed the entire house with a fire extinguisher. The white chemical powder supposed to save a house from burning down now covered every surface, and although it looked like fake snow, it was actually unsafe, especially for kids.
 
-Days from the big night, a family home was turned into a violated, thieved, unlivable space.
+Days from the big night, a warm family home was turned into a cold, violated, unlivable space.
 
-Yet, while listening to the parents, it was clear they only cared about one thing. It wasn't relief from the arduous police and insurance paperwork, or the correct market value of their family heirlooms. Their pain was only for their kids' lost Christmas.
+Yet, while listening to the parents, it was clear they only cared about one thing. It wasn't pushing for higher market value of their stuff or having to sleep in a different bed. Their pain was only for their kids' lost Christmas.
 
-Time to fight the Grinch and spread some cheer!
+Time to fight the Grinch and spread some cheer! 
 
-So, instead of the typical hotel stay, I got them a fully furnished condo and had it decorated for Christmas. I also expedited the claim payments to quickly replace their stolen presents.
+So, instead of the typical hotel stay, I got them a furnished condo and had it decorated for Christmas. I also expedited the claim payments to quickly replace their stolen presents.
 
-Within a few days, the family had warm bedrooms, full kitchen, glistening tree, wrapped gifts, even milk and cookies for the big guy. Everything needed to make Hallmark memories. In fact, it felt like I helped create the ending of _Home Alone 2_ when the McCallister family woke up to many presents in their Plaza hotel room.
+Within a few days, the family had warm bedrooms, full kitchen, glistening tree, wrapped gifts, even milk and cookies for the big guy. Everything needed to make Hallmark memories. It felt a little like I helped create the ending of _Home Alone 2_ when the McCallister family woke up to many presents in their Plaza hotel room.
 
 The parents were very grateful. They even congratulated me on my recent promotion: "I can see why you got it" was really nice to hear. I received so much thanks because by getting them a home, their kids never stopped believing Santa would find them on Christmas Eve.
 
-Not all claims ended so well. I must admit I cherish this one.
+Not all claims ended so well. So, I must admit I cherish this memory.
 
-Notice what actually happened there. The insurance script was a starting point. But a hotel room and a check for market value weren't their problem. Their pain was somewhere else. It was the special day that comes only once a year. Once I realized the real problem, a different set of tools was obvious.
+Notice what actually happened there. The standard insurance playbook was a hotel room and a claim check. But their pain was somewhere else. Time was ticking on the special day that comes once a year. A different set of tools was needed.
 
-As we journey to better solve our problems by updating our self-identity, I want to put you in a unique frame of mind. One far away from the fighting so prevalent in our politics, or the angst of everyday life. I want you to remember the childish glee you had when holding a present.
+As we journey to better solve our problems by updating our self-identity, I want this story to put you in a unique frame of mind. One far away from the fighting so prevalent in our politics, or the angst of everyday life. I want you to remember the childish glee you had when holding a present.
 
-It could be your birthday, graduation, or favorite holiday. Whichever memory is your most precious, I invite you to embrace the feeling it gives you.
+It could be your birthday, graduation, or favorite holiday. Whichever memory is your most precious, I invite you to embrace the feeling of getting a gift.
 
-Because it's time to wake up and run downstairs to see something made just for you. It is wrapped in silver and gold with your name elegantly written in deep black ink.
+Because it's time to wake up and run downstairs to see something made just for you. It is wrapped in silver and gold with your name written in deep black ink.
 
-As you lift it into the air, you clench it with a hug, tear apart the bow and wrapping paper, and toss open the box with pure unbridled joy. You can't wait to embrace the wonders of something entirely new.
+You lift the package into the air, clench it with a hug, tear apart the bow and wrapping paper, and toss open the box with pure unbridled joy. You can't wait to embrace the wonders of something entirely new.
 
-This is the strange power of an unfamiliar tool. You never wanted it. How could you? But you were ready for it. Whatever it turns out to be, some part of you is about to wake up that had nowhere to go a minute ago.
+This is the strange power of an unfamiliar tool. You never wanted it. How could you if you don't know what's inside? But you were ready for it. Whatever it turns out to be, some part of you is about to attach itself to the gift's capabilities, and wake you up to a world of new possibilities.
 
-This gift is labelled "Game of Life". Inside you discover:
+The box art shows the history of life on Earth as a spiral, and across the top it reads “Game of Life.” Inside you find:
 
-Sand clock, board game, modeling clay, scoreboard, and booklet. Now you wonder: How do these seemingly ordinary objects reshape human identity and unite us against our common enemy?
+Booklet, game board, sand clock, clay, scoreboard.
 
-Infected with curiosity, you pick up the booklet, and...
+Now you wonder: How do these seemingly ordinary objects reshape human identity and unite us against our common enemy?
+
+Overcome with curiosity, you pick up the booklet, and...
 
 ## Chapter 2—Booklet: The Rules to the Game
 
-You pick up the booklet and flip to its first page.
+You pick up the booklet. It says "Rules of the Game". You flip it open.
 
-It starts off with "Imagine you are a person in a perfectly flat world. A land where everything is two-dimensional." As you read on, you learn a 2D existence is like an avatar living on a computer screen. You can move left, right, up, or down, but you can never jump out from the screen.
+"Imagine you are a person in a perfectly flat world. A flatland where everything is two-dimensional. This is a 2D existence. A place where you can move left or right, up, or down, but you can never jump over or drop underneath anything. In this world, there's no height."
 
-Because in this world, there's no height.
+"You will forever feel lost in this 2D world. But that doesn't mean you cannot understand it. There are laws of nature, just like the 3D universe you already know. To help you, you can think of 2D people and things like magnets on a fridge."
 
-In this 2D reality, avatars are like magnets on a fridge, bumper cars on a track, or cookie cutters on a baker's table. Able to move only two ways, a person must feel an object to know it is there. Every person and thing is made up of lines. Four lines and angles make a square, five a pentagon, six a hexagon, and so on into great variety. To these creatures, we 3D entities would seem to pass through their world—appearing first as a point, growing into a weird curved line, then shrinking back to a point again.
+"With no depth perception possible, a 2D person must feel an object to know its characteristics. Like moving your finger on the fridge, 2D beings sense everything by touching its lines. Four lines and angles make a square, five a pentagon, six a hexagon, and so on into great variety. Similarly, buildings have roofs, windows, and doors that must be felt to be known."
 
-This booklet takes the idea from *Flatland: A Romance of Many Dimensions*. Edwin A. Abbott wrote it in 1884, and it has been used in mathematics, philosophy, and science classrooms ever since—to get people thinking about totally alien environments.
+"Take this to be the rules. To know truth is to touch it. To fail is to investigate. To change is to live."
 
-By bringing us into a 2D world, Abbott makes us feel lost. And feeling lost opens a door: it lets us see our own reality differently, and question it.
+Unsure of the meaning, you investigate.
 
-We know that feeling from ordinary life. Once, I wanted to enjoy some back-country open roads. I thought I was heading north and would inevitably hit the highway. Driving alone, windows down, no phone coverage, no map, no compass—I had a blast. I was actually going east, and I hit nothing. Standing outside a beater car with little gas left, watching night fall, was disorienting and a little scary.
+This 2D world comes from the 1884 novel _Flatland: A Romance of Many Dimensions_. The author, Edwin A. Abbott, wanted people thinking about totally alien environments. It's used here to help you better see the Rules of the Game of Life.
 
-You will have your own version—more dangerous, or more comical. Hold onto it. That feeling marks an error between our expectations and reality, and as we forge a new technological identity, treat it as an invitation to investigate rather than fear.
+Have you ever been lost? Ever taken a wrong turn on country roads, and stood outside your car with little gas left, watching night fall, disoriented and a little scared? Of course, 2D creatures take wrong turns, build bad buildings, crash their vehicles. 
 
-Abbott turns that lost feeling into an ongoing lesson. Our perceptions are only the brain's read of what our senses report—and most of reality sits outside them, from the too-small (bacteria) to the too-strange (how atoms behave). Like a hexagon in Flatland, we feel through the darkness with what we have, and should always question whether a better answer is within reach.
+And like our 3D brains, 2D brains only understand what their senses can report. It's easy for any brain to get it wrong. With your higher 3D perception you can see their errors and know the practical solution for the lost Square to find the highway.
 
-If you remember Maria, this is exactly her problem. Every label she had—Californian, graduate, regional manager—was a dimension she could see. Like the Square, she was not lazy or stupid. She simply didn't have a label for "sells physical media in the Internet Age."
+But we have to be that person for ourselves.
 
-Thankfully, we have long used our senses and minds to investigate nature and piece together a fairly good—if incomplete—picture of it.
+That means when there's an error between our expectations and our reality, we have a choice. To trust the stories and knowledge already in our brains, or treat being lost as an invitation to investigate; to touch the environment again, input new data into our brains, and make a change.
 
-Physics and chemistry describe our reality, and constrain how geology and biology work. Scientists joke that chemistry is "just" applied physics and biology is "just" applied chemistry. It gets a laugh, but everyone knows each level's phenomena aren't obvious from the level below. Which is why they all get to keep their jobs (even the geologists, who always seem to get the worst of the joke).
+Games like chess have rules written on paper. The Game of Life does not and never will. There is no lost scroll to find. No obelisk with the secrets written in stone. Thus the only way we can know the rules of our game is the same way a square learns about Flatland. Investigate nature to see what rules we can find. And when our expectations are broken, we put our finger on the fridge, investigate nature, and find a better rule.
 
-The point is that unlike chess or Monopoly, reality has no actual booklet to read and no program to hack. We investigate nature as best we can and describe phenomena we find as laws and principles. Importantly, nature's rulebook never cares about our input, ideas, or feedback.
+Because reality has no booklet to read or program to hack. Nature never cares about our input, ideas, or feedback. Only by investigating the environment can we uncover these rules, to which there is always another layer to master.
 
-The laws can be hard to communicate. When huge waves move across an ocean, that is the Sun's radiation heating an area, warming air that rises and rushes toward cooler regions—wind that drags across the water and lifts the waves. But to a sailor, that phenomenon is simply an "angry sea." To themselves, the laws are abstract. To life, they are personal—dangers and opportunities that must be navigated. Decoding them is what life does because it wants to survive.
+When huge waves move across an ocean, a visitor sees the wonders of nature and marvels at its beauty. A sailor sees an "angry sea", and uses years of experience to guide his sails. A scientist sees the Sun's radiation heating an area, warming air that rises and rushes toward cooler regions—wind that drags across the water and lifts the waves.
 
-Where is the water? When will you need it? How long will it last? A lifeform that wants to live wants those answers. A meteorologist, a sailor, and a fish each sense the sea differently, and each names it differently. Each reading is only as good as it helps its user find opportunity and dodge danger.
+Each is sensing rules they need to play the Game of Life.
 
-This is why life's evolution is so persistent and universal. Reproduction is the only process that produces variants in enough abundance to test what works in any given environment. That constant testing has created countless species over billions of years.
-
-Variants are Squares scattering across the board, feeling their way through surroundings they never chose. Which variant and environment you're born into is luck. What happens next isn't.
-
-Touching around in the darkness turns our senses—touch, smell, sight—into crude teachers. Success brings pleasure, failure brings pain, and slowly these experiences guide us to repeat what works and avoid what doesn't. Selection slowly builds genotypes that hold water better (camels, llamas) and phenotypes that learn where the water is (elephants, giraffes). You can feel a trace of this yourself any time you stop drinking: true thirst will soon drive anyone to water, to stop the pain of dehydration.
-
-That method only changes our habits—and over generations of life and death, our biology. Even a camel cannot decide to hold more water; it can only be born slightly better or worse at it, ten thousand times over. But we choose our tools. We are the first lifeform whose variations can aim at their needs, and evolve solutions thousands of times in a single lifetime.
-
-We can be like an avatar jumping off the screen to see the 2D world from above. When we know the rules of the game, we can evolve our technological identity on purpose.
+Touching around in the darkness turns our senses—touch, smell, sight—into crude teachers. Success brings pleasure, failure brings pain, and slowly these experiences guide us to repeat what works and avoid what doesn't. No creature can jump off the screen and see the board from above. But when we know the rules of the game, we can evolve on purpose.
 
 We need to.
 
-Because streaming had no mind. It found users who wanted a movie tonight without leaving the couch—not Maria's market, not her job, just the movie. That combination of tool and user wanted to exist, the way a camel wants water. It never consulted Maria, or her employer, or her politics. Nobody wanted her gone. She was gone regardless.
+If this sounds obvious, contrast it with the growing political hatred and rising economic uncertainty today. There are countless examples of humans trying to make reality fit their beliefs and stories. Energy demand from cars, homes, and now AI data centres keeps climbing. Something will have to use less. Nobody is deciding what, so chance will decide for us, and we’ll credit or blame whoever our belief system prescribes.
 
-AI has no mind either. It will still want to exist—and like streaming, it exists by finding users who want what it offers. Maybe that costs you a job. Maybe it hands you one. Either way, nobody decides it for you or against you. It simply happens, the way it happened to Maria.
+If our identities embraced these rules we wouldn’t be using fear, echo chambers, and debt to respond to our problems. We'd investigate nature and evolve solutions. 
 
-This is what Internet Age technology is doing, fast and everywhere. Consider the Mars rovers—technological explorers crawling across an alien place, extending human perception hundreds of millions of miles past the bodies we were issued, sending back reports from a planet we may one day live on. If that isn't a Square being shown a third dimension, nothing is.
+Unlike anything else in the universe (that we know of), lifeforms grow, learn, and pass on genes—and sometimes lessons—to the next generation. Humans differ only in perspective. Most creatures depend on instinct and pain to find resources, while we are a little more self-aware of *why* we need shelter, food, and water to stay alive. 
 
-So our best life depends on understanding the rules of the reality we inhabit. Just as a two-dimensional being must accept its constraints to navigate its world, we must recognize the laws that govern ours. They are all-powerful, and do not care about our wants, plans, and beliefs any more than Flatland cares about a triangle's desire to jump off the screen.
+Unpacking the rules, they become five:
+- Nature’s laws are fixed and indifferent to any beliefs.
+- No creature sees the whole board.
+- Every lifeform must find resources or die trying.
+- Pleasure and pain teach what works. 
+- Remembering what works lets anyone evolve deliberately.
 
-Accepting the rules is the foundation for the mastery we need to move from biological to technological beings.
+So unlike Flatland, our planet is not just a place of existence but a proving ground, where the laws of nature decide which variants persist and which do not. Each of us is a unique shape with an unclear view of the game board.
 
-Unlike anything else in the universe (that we know of), lifeforms grow, learn, and pass on genes—and sometimes lessons—to the next generation. Humans differ only in perspective. Most creatures depend on instinct and pain to find resources, while we are a little more self-aware of *why* we need shelter, food, and water to stay alive. More knowledge is worth having, because it means more accuracy about what we need and how to get it.
-
-So unlike Flatland, our planet is not just a place of existence but a proving ground, where the laws of nature decide which variants persist and which do not. Each of us is a unique shape with an unclear view of the gameboard.
-
-So let's jump off the screen and see what the game board of three dimensions looks like. In the next chapter, we'll find it filled with natural laws—a gameboard that emerges through life's encounter with the universe.
+No 2D creature can jump off the screen, but we are not stuck in Flatland. So let's see what the game board of three dimensions looks like. In the next chapter, we'll find it filled with natural laws—a game board that emerges through life's encounter with the universe.
 
 ## Chapter 3—Game Board: The Emergent Environment
 
-_Flatland_ starts with the Square explaining his 2D existence to the reader. There are various houses, workplaces, and people. Everything knows each other by the number of angles they have. Having more angles brings better social status.
+_Flatland_ has more lessons to give. 
+
+The book starts with a Square explaining his 2D existence to the reader. There are various houses, workplaces, and people. Everything knows each other by the number of angles they have. Having more angles brings a better job and higher social status.
 
 One day a Sphere shows up.
 
-The curious Square asks this alien what he is and where he comes from. Even though the Square had previously envisioned a 1D world, comprehending the third dimension escapes him.
+The curious Square asks this alien what he is and where he comes from. Even though the Square had previously envisioned a 1D world of dots living along a single line, comprehending the third dimension escapes him.
 
-So, the Sphere takes the pair to the 3D world, called Spaceland. The Square sees depth in action and returns home and tells his people about the amazing discovery. Like so many intellectual pioneers, the Square isn't met with a happy reception. Without the ability to show others, he remains the only one to know the third dimension is real.
+So, the Sphere takes the Square to the 3D world, called Spaceland. The Square sees depth in action, where height gives people and places features visible from sight alone. The enlightened Square returns home and tells his people about the amazing discovery. Like so many intellectual pioneers, the Square isn't met with a happy reception. Trapped in a 2D world, he doesn't have the ability to show others, so he remains the only one to know the third dimension is real.
 
-As is so often the case, seeing is the only path to believing in Flatland.
+As is so often the case in our 3D world, seeing is the only path to believing in Flatland.
 
-And this is a good way to think of our game board. The laws of nature make the universe all around us. They do not have a voice that announces them to anyone. Instead they are embedded in the very fabric of existence.
+And this is a good way to think of our game board. The laws of nature are completely independent of our existence. The laws of physics, chemistry, geology make the universe all around us. They make stars and sunlight, hydrogen and helium, planets and volcanoes. As the booklet makes clear, these Rules of the Game do not have a voice that announces their existence or recipe. Instead they are embedded in the very fabric of existence.
 
-Their countless interactions manifest into the universe.
+The countless interactions of the Rules of the Game manifest into the universe we inhabit.
 
 Consider our Moon—not merely a celestial object, but a profound result of cosmic collision and gravitational interaction. Approximately 4.5 billion years ago, a Mars-sized planetary body called Theia collided with the early Earth.
 
@@ -478,57 +477,70 @@ The collision was so violent it ejected massive amounts of molten rock and debri
 
 The Moon, in a sense, is built from Earth's cast-off skin. Gravity began pulling these fragments together. Over time, these fragments coalesced, cooling and solidifying into what we now know as the Moon.
 
-The collision between early Earth and Theia was so massive it melted Earth's core for billions of years. Yet, even this massive collision was controlled by the natural laws the entire time.
+The collision between early Earth and Theia was so massive it melted much of the young Earth into an ocean of magma. Despite its size, this collision was controlled by the same natural laws at work as I write these words and you read them.
 
-The Moon, though one of many moons in our solar system, becomes significant only through our interactions with it. It causes our ocean's tides, illuminates the night, has mysterious phases, and could be colonized. These opportunities and obstacles in our path transform it from a distant object into a component of our game board of survival.
+The Moon, though one of many moons in our solar system, becomes significant to us only through our interactions with it. It causes our ocean's tides, illuminates the night, has mysterious phases, and could be colonized. These opportunities and obstacles in our path transform it from a distant object into a component of survival.
 
-The game board is thus an emergent property. A place where the natural laws of physics, astronomy, chemistry, geology, and biology make a universe all around us. But only when we encounter this universe as a means of survival does our game board emerge.
+Our interaction with the Rules of the Game turns these abstract rules into our game board.
 
-Proximity is not the test. Instead, the natural laws continually produce obstacles and opportunities—that is what the rules of the game look like in practice.
+The game board is thus an emergent property. A place where the natural laws of physics, astronomy, chemistry, geology, and biology make a universe all around us. It is not static, but changing mountains to plains, night to day, cold to hot. Only when we encounter this universe as a means of survival does the mixture of this game board emerge.
 
-Recently physicists proposed at least two mass extinction events in Earth's history that were perhaps caused by supernova explosions. Researchers say these super-powerful blasts—caused by the death of a massive star—may have stripped our planet's atmosphere of its ozone, sparked acid rain and exposed life to harmful ultraviolet radiation from the Sun.
+The natural laws continually produce obstacles and opportunities. These are the applied rules of the game in practice, the facts the finger on the fridge, the Square on Flatland, the person lost on the road must encounter, consider, and solve.
 
-They believe a supernova explosion could be to blame for both the late Devonian and Ordovician extinction events, which occurred 372 and 445 million years ago respectively.
+The game board is not just about what is close to us in time or space.
+
+Some of the game board’s biggest moves happen unimaginably far away. A recent study suggested that two of Earth’s mass extinctions, the Ordovician about 445 million years ago and the Late Devonian about 372 million years ago, may have been triggered by nearby stars exploding as supernovas. The blasts could have thinned the ozone layer that shields Earth, leaving life exposed to the Sun’s harmful ultraviolet light.
 
 Imagine that.
 
-One of those twinkling lights might be too far away to ever matter. Or it could kill almost everything on Earth and send life back to the starting line.
+One of those twinkling lights might be too far away to ever matter. Or it could kill almost everything on Earth and send life back to near the starting line.
 
 The game board is variable. It could be a supernova trillions of kilometers away, a Moon within eyesight, or it could be the cold of night closing in on a lost traveler who thought he was enjoying a country ride.
 
-In an infinite Universe, the number of dimensions we need to comprehend is near infinite as well. Hence why our ability to perceive different dimensions is so crucial to our survival.
+In a vast, perhaps infinite universe, the factors that can shape our survival are nearly endless. That’s why our ability to perceive our environment, our game board, matters so much.
 
-But why can't we just take our time? Why is there such consequence to our choices? The answer lies inside the natural laws of the universe. It's why all games come with clocks.
+So every lifeform’s game board is its own: one place, one moment, never faced in exactly the same way before. What we already know was shaped by older boards. It’s a starting point, not a map. The creatures that survive keep touching the board in front of them. Maria knew the last board brilliantly; she didn't investigate the one the future was giving her.
+
+Perhaps she would have, if she'd realized all games, especially the Game of Life, come with clocks.
 
 ## Story—The Job
 
-I thought learning the rules would be enough. I was wrong.
+I thought learning the rules of insurance claims would be enough. I was wrong.
 
 An insurance adjuster must do three things on every claim:
 
 1. Find out what happened and who was involved.
-2. Determine if it's covered by the policy.
+2. Determine if what happened is covered by the policy.
 3. Calculate the cost to fix it.
 
 Simple, right?
 
-Except we're authorizing thousands—sometimes hundreds of thousands—of dollars per day. And no one knows what to do after a crash. You don't—I bet. So, getting the information we need for three seemingly easy questions was mayhem.
+Except no driver knows what to do after a crash. So, despite authorizing tens of thousands—sometimes hundreds of thousands—of dollars per day, getting the information we need for three seemingly easy questions was chaotic.
 
-There was no rationalization. No production line. This information arrived in a constant, random stream: calls, emails, voicemails. We had no control over the flow.
-
-Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Oh, and people lie constantly.
+There was no standard process. No production line. No patience. The answers arrived in a constant, random stream of endless calls, emails, voicemails.
 
 "Why am I at fault?"
 _Because you hit a freaking tree!_
 "Unfortunately, we cannot sue the person who planted the tree."
 
-"I only drive Buick Allure."
+"I only drive Buick Allures."
 _That's... really specific._
 "Okay, I'll track one down for you."
 
 "How much will my rates go up?"
 _People ask this constantly._
-"I'm only an adjuster; I'm not trained for that information."
+"I'm only an adjuster; only an underwriter is trained for that information."
+
+Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Sometimes they never call back at all. Oh, and people lie constantly. An average claim worked like this:
+
+Day 1, Tow yard calls. The car is in their lot, $80 a day for storage.
+Day 2, Insured calls. “Somebody hit me at a light." He has Collision coverage.
+Day 4, The other insurer calls. Their driver says our insured ran the red.
+Day 6, Body shop emails estimate: $7,800. Storage $650. Padded. Not by much. No time. Approved.
+Day 14, A witness finally calls back. The light was red for us.
+Day 21, Body shop emails. “Repair is done.”
+Day 23, Insured leaves voicemail. “I need a rental extension.”
+Day 24, Another adjuster gives the extension and closes the file.
 
 A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the queue. All eight went to payment—fully processed, start to finish. I was so proud of myself. _I'm getting this. I got this. Let's go!_
 
@@ -536,7 +548,7 @@ Then I got an email from a manager:
 
 *"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
 
-I was learning there was a difference between working well and meeting targets. The mayhem was yet to really set in.
+I needed to use my time differently. There is a difference between working well and meeting targets.  The mayhem was yet to really set in.
 
 ## Chapter 4—Sand Clock: The Ever Present Clock
 
@@ -710,7 +722,7 @@ Lifeforms cannot do the matching themselves; they are already locked into their 
 
 You can think of it as a coach who keeps whichever players score the most points. The points are kids, but kids who stand a good chance of having offspring themselves. Everything else is how you afford them: every efficiency found in growing, traveling, and hunting is energy freed up to spend on the next generation.
 
-This strategy works very well against entropy. Not only has life evolved from single-cell organisms to populate the planet. It's suffered five mass extinctions and yet still repopulated the planet each time. Notably, no extinct species has ever come back—what persists is life itself, through whatever lineages the next era's gameboard happens to favor.
+This strategy works very well against entropy. Not only has life evolved from single-cell organisms to populate the planet. It's suffered five mass extinctions and yet still repopulated the planet each time. Notably, no extinct species has ever come back—what persists is life itself, through whatever lineages the next era's game board happens to favor.
 
 Here's why valuing procreation keeps winning the Game of Life.
 
@@ -904,7 +916,7 @@ The deeper point is the fishermen were making selection decisions without realiz
 
 Artificial selection can point at the true target or a false one. Self-awareness is what turns it toward the true kind.
 
-Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." As the Heikegani crab story highlights we often artificially play the game. This book is about making our selections more responsive to the real problems of our gameboard—the actual pressures our environment imposes, rather than the noise our brains too easily think up.
+Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." As the Heikegani crab story highlights we often artificially play the game. This book is about making our selections more responsive to the real problems of our game board—the actual pressures our environment imposes, rather than the noise our brains too easily think up.
 
 And so, to win the Game of Technological Life, we do not need to invent anything from scratch. We already recognize biological evolution, like and support its players, and use and copy its achievements. We also already invent and wield many amazing tools to harvest resources, protect ourselves, and form new creations.
 
@@ -1231,7 +1243,7 @@ However, in 2020, researchers calculated something remarkable.
 
 The total weight of everything humans have built—buildings, vehicles, infrastructure, plastic, concrete—now exceeds the total weight of all living biomass on Earth. There is more assembled matter in the technosphere than the biosphere. When technology is powered by electricity, built with robots, designed with AI, and outweighs all life put together, we can't keep pretending our primary identity is rooted in the genetics of ancient humans or the cultures of the past.
 
-What are the odds that your identity is matched with your unique time and place on this new gameboard? 
+What are the odds that your identity is matched with your unique time and place on this new game board? 
 
 How could it be?
 
@@ -1239,9 +1251,9 @@ How could Maria have been prepared for her future? How could anyone if we've nev
 
 And many of us know the fear watching our livelihood being upturned by new technology like digital bookstores or online streaming, while also knowing new technology gives the joy of leaving analog telephone calls for free digital video for keeping up with loved ones, or having an emergency doctor teleconference.
 
-Every time a new technology arrives, we know the feeling of joy and dread. But like a raccoon who's learned to discern the noises of a busy restaurant, we don't really understand why the trends of technology come and go. As animals shed their fur in spring, we must shed our tools but won't really know the seasonal changes requiring us to change. Hence why we are forced to act within old identities while building and maintaining order in the eternal Game of Life on this new gameboard.
+Every time a new technology arrives, we know the feeling of joy and dread. But like a raccoon who's learned to discern the noises of a busy restaurant, we don't really understand why the trends of technology come and go. As animals shed their fur in spring, we must shed our tools but won't really know the seasonal changes requiring us to change. Hence why we are forced to act within old identities while building and maintaining order in the eternal Game of Life on this new game board.
 
-No adopted system has applied evolutionary thinking to tools themselves. Tool ecosystems, like biological ones, grow, speciate, drift, and follow the other tenets of Darwin's evolution. As we've seen, they play on the same gameboard, so the lifeforms that can use local resources and procreate more often will eventually populate the land. The rise and fall of countries, peoples, nations and empires tracks this evolution more closely than we like to admit because it's a fate that affects us so much, yet we don't have a name or identity for it.
+No adopted system has applied evolutionary thinking to tools themselves. Tool ecosystems, like biological ones, grow, speciate, drift, and follow the other tenets of Darwin's evolution. As we've seen, they play on the same game board, so the lifeforms that can use local resources and procreate more often will eventually populate the land. The rise and fall of countries, peoples, nations and empires tracks this evolution more closely than we like to admit because it's a fate that affects us so much, yet we don't have a name or identity for it.
 
 The biggest difference in technological evolution is there is endless artificial selection, human storytelling, beliefs, and ideologies, that misinterpret and interfere with techvolution. Where natural selection constantly picks new species for the changing environment, we think we can do better. This delay can cause economic recessions, depressions, and even wars as our tools can't harvest the resources we need.
 
@@ -1495,7 +1507,7 @@ Keep note, it's not just _them_ who reject new tools.
 
 Gravity has a field. Electromagnetism has a field. These are physical forms. Nature doesn't give us an ingredient list, but we've tested and prodded these areas enough to name their features and understand their actions very well.
 
-Evolution has no field. Life has no outside control but the will to keep assembling matter into something useful. Life pushes itself forward by making unique copies of itself. Whichever lifeforms happen to work best in the environment procreate more often and thus form the species who represent life on the gameboard.
+Evolution has no field. Life has no outside control but the will to keep assembling matter into something useful. Life pushes itself forward by making unique copies of itself. Whichever lifeforms happen to work best in the environment procreate more often and thus form the species who represent life on the game board.
 
 Thus evolution selects individuals. Alone. It doesn't wait for a group or a movement to form. Seeing that clearly is what this book is for. As renowned biologist Ernst Mayr says, "individual life forms are the unit of selection."
 
@@ -1593,7 +1605,7 @@ Humans play the Game of Life. Most of the time we play it with tools, but that i
 
 Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances.
 
-The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to harvest energy and assemble matter into new creatures, nests, fruit, tools, and numberless other adaptations.
+The game board is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to harvest energy and assemble matter into new creatures, nests, fruit, tools, and numberless other adaptations.
 
 Each new assembly is a unique variation. Look at the peppered moth becoming lighter, darker, lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
 
@@ -1601,7 +1613,7 @@ Natural selection is life's coach. It finds the forms that best read the environ
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
-Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt to the gameboard; the others mislead us, and often take their believers down with them.
+Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt to the game board; the others mislead us, and often take their believers down with them.
 
 How to tell which is which?
 
@@ -1609,7 +1621,7 @@ Let's experience the game ourselves. By only sensing water, seeing motion, follo
 
 This chapter isn't written like a story. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
 
-In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world and earn its place on the gameboard?
+In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world and earn its place on the game board?
 
 Notice, the winners are not always the largest or the smallest, the weakest or most powerful. But those who help harvest energy for their ecosystem. Flip the page and hold this eternal truth as you read each word.
 
@@ -3966,7 +3978,7 @@ Plants venture into new territories. Ants rebuild non-stop. Working folks learn 
 
 If it motivates you, I made a web page to explain insurance and fault rules to drivers. It's free on the internet. AI was even trained on it too. It gets about 7,000 visits a month, doing the work of perhaps 10 adjusters. Such is the power of open-source to skirt barriers and get a foothold in a new environment.
 
-Adapting to a new gameboard is where life lives. Remember all lifeforms from dinosaurs to humans, are made with many small iterations. You can make the future, if you first think in terms of using less energy every day and not satisfying human stories. We still have the diverse ecosystem of academic, corporate, market, government, open-source interests that invented transistors, the internet, and so much else at the ready to keep going and invent the next stages of the Internet Age.
+Adapting to a new game board is where life lives. Remember all lifeforms from dinosaurs to humans, are made with many small iterations. You can make the future, if you first think in terms of using less energy every day and not satisfying human stories. We still have the diverse ecosystem of academic, corporate, market, government, open-source interests that invented transistors, the internet, and so much else at the ready to keep going and invent the next stages of the Internet Age.
 
 Yet instead of crossing today, many with dying tools try to demand others stay behind. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is natural. Doing so with artificial selection is not. With their palaces and bunkers, neither was coaching. Both were being selected. Pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy catches up to everyone equally.
 
