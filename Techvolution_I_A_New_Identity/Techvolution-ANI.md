@@ -28,7 +28,7 @@ Introduction
 Chapter 1—Presents Under the Tree
 Chapter 2—Booklet: The Rules to the Game
 Chapter 3—Game Board: The Emergent Environment
-Chapter 4—Sand Clock: The Ever Present Clock
+Chapter 4—Sand Clock: The Ever Present Timer
 Chapter 5—Clay: What Life Is, The Creator of Players
 Chapter 6—Scoreboard: What Evolution Is, The Editor of Players
 Chapter 7—What Does the Game of Life Mean
@@ -461,33 +461,33 @@ The book starts with a Square explaining his 2D existence to the reader. There a
 
 One day a Sphere shows up.
 
-The curious Square asks this alien what he is and where he comes from. Even though the Square had previously envisioned a 1D world of dots living along a single line, comprehending the third dimension escapes him.
+The curious Square asks this alien what he is and where he comes from. Even though the Square had previously envisioned a 1D world of dots living along a single line, comprehending the higher third dimension escapes him.
 
-So, the Sphere takes the Square to the 3D world, called Spaceland. The Square sees depth in action, where height gives people and places features visible from sight alone. The enlightened Square returns home and tells his people about the amazing discovery. Like so many intellectual pioneers, the Square isn't met with a happy reception. Trapped in a 2D world, he doesn't have the ability to show others, so he remains the only one to know the third dimension is real.
+So, the Sphere takes the Square to the 3D world, called Spaceland. The Square sees depth in action, where height gives people and places features and eyes can sense them without needing touch. The enlightened Square returns home and tells his people about the amazing discovery. Like so many intellectual pioneers, the Square isn't met with a happy reception. Trapped in a 2D world, he can't show others, so he remains the only one to know the third dimension is real.
 
-As is so often the case in our 3D world, seeing is the only path to believing in Flatland.
+As is so often the case, seeing is the only path to believing in Flatland.
 
-And this is a good way to think of our game board. The laws of nature are completely independent of our existence. The laws of physics, chemistry, geology make the universe all around us. They make stars and sunlight, hydrogen and helium, planets and volcanoes. As the booklet makes clear, these Rules of the Game do not have a voice that announces their existence or recipe. Instead they are embedded in the very fabric of existence.
+The playing surface of checkers, chess, go is a flat two dimensional existence. These games have vast choices requiring much study to master. They are also identical and easy to navigate. Our game board is not 2D. It is both far more complex and wholly unique.
 
-The countless interactions of the Rules of the Game manifest into the universe we inhabit.
+The laws of physics, chemistry, geology make the stars and sunlight, hydrogen and helium, planets and volcanoes. As the booklet makes clear, these Rules of the Game are not written down like a cookbook. Instead they are embedded in the very fabric of existence.
 
-Consider our Moon—not merely a celestial object, but a profound result of cosmic collision and gravitational interaction. Approximately 4.5 billion years ago, a Mars-sized planetary body called Theia collided with the early Earth.
+The laws of nature are rather simple but they create endlessly complex results. The land, sea, and sky make our playing field, and the laws of nature constantly remake it.
 
-The collision was so violent it ejected massive amounts of molten rock and debris into Earth's orbit. Earth's heavier stuff like iron and gold were already nearer the core, so most of what was ejected was minerals rich in oxygen, silicon, and magnesium.
+Consider our Moon—not merely a celestial object that happens to fly across our sky. It is the result of cosmic collision and gravitational interaction. Approximately 4.5 billion years ago, a Mars-sized planetary body called Theia collided with the early Earth.
 
-The Moon, in a sense, is built from Earth's cast-off skin. Gravity began pulling these fragments together. Over time, these fragments coalesced, cooling and solidifying into what we now know as the Moon.
+The violent collision ejected massive amounts of molten rock and debris into Earth's orbit. Earth's heavier stuff like iron and gold were already nearer the core, so most of what was ejected was minerals rich in oxygen, silicon, and magnesium.
 
-The collision between early Earth and Theia was so massive it melted much of the young Earth into an ocean of magma. Despite its size, this collision was controlled by the same natural laws at work as I write these words and you read them.
+The Moon, in a sense, is built from Earth's cast-off skin. Gravity pulled these fragments together. Over time, these fragments coalesced, cooling and solidifying into what we now know as the Moon.
 
-The Moon, though one of many moons in our solar system, becomes significant to us only through our interactions with it. It causes our ocean's tides, illuminates the night, has mysterious phases, and could be colonized. These opportunities and obstacles in our path transform it from a distant object into a component of survival.
+Yet, despite its massive size, this collision was controlled by the same natural laws at work as I write these words and you read them.
 
-Our interaction with the Rules of the Game turns these abstract rules into our game board.
+And this is vital to note. There are many moons in the solar system. Our Moon is significant because of our interactions with it. It causes our ocean's tides, illuminates the night, has mysterious phases, and could be colonized. These opportunities and obstacles in our path transform it from a distant object into a factor in our survival.
 
-The game board is thus an emergent property. A place where the natural laws of physics, astronomy, chemistry, geology, and biology make a universe all around us. It is not static, but changing mountains to plains, night to day, cold to hot. Only when we encounter this universe as a means of survival does the mixture of this game board emerge.
+Our interaction with the Rules of the Game turns these abstract natural laws into our game board.
 
-The natural laws continually produce obstacles and opportunities. These are the applied rules of the game in practice, the facts the finger on the fridge, the Square on Flatland, the person lost on the road must encounter, consider, and solve.
+That’s what makes the game board emergent. It doesn’t exist until you meet it. No two people stand on the same board: the same tornado can flatten one house and leave its neighbor untouched. Only when you encounter the universe does your board appear. Even if the mixture of obstacles and opportunities can be similar, they are always unique. 
 
-The game board is not just about what is close to us in time or space.
+The game board is not just about what is close to us in space or time.
 
 Some of the game board’s biggest moves happen unimaginably far away. A recent study suggested that two of Earth’s mass extinctions, the Ordovician about 445 million years ago and the Late Devonian about 372 million years ago, may have been triggered by nearby stars exploding as supernovas. The blasts could have thinned the ozone layer that shields Earth, leaving life exposed to the Sun’s harmful ultraviolet light.
 
@@ -499,7 +499,9 @@ The game board is variable. It could be a supernova trillions of kilometers away
 
 In a vast, perhaps infinite universe, the factors that can shape our survival are nearly endless. That’s why our ability to perceive our environment, our game board, matters so much.
 
-So every lifeform’s game board is its own: one place, one moment, never faced in exactly the same way before. What we already know was shaped by older boards. It’s a starting point, not a map. The creatures that survive keep touching the board in front of them. Maria knew the last board brilliantly; she didn't investigate the one the future was giving her.
+This brings us back to Flatland. Your board is unique, and so is everyone else’s. We can’t assume anyone knows ours; we have to explain it. In that sense, we will forever be a Square trying to describe a world only we can see.
+
+What we already know was shaped by older boards. It’s a starting point, not a map. The creatures that survive keep sensing the board in front of them in space and time. Maria knew the last board brilliantly; she didn't investigate the one the future was giving her.
 
 Perhaps she would have, if she'd realized all games, especially the Game of Life, come with clocks.
 
@@ -517,7 +519,7 @@ Simple, right?
 
 Except no driver knows what to do after a crash. So, despite authorizing tens of thousands—sometimes hundreds of thousands—of dollars per day, getting the information we need for three seemingly easy questions was chaotic.
 
-There was no standard process. No production line. No patience. The answers arrived in a constant, random stream of endless calls, emails, voicemails.
+There was no standard process. No production line. No patience. The answers arrived in a constant, random stream of intermixed calls, emails, voicemails.
 
 "Why am I at fault?"
 _Because you hit a freaking tree!_
@@ -529,18 +531,20 @@ _That's... really specific._
 
 "How much will my rates go up?"
 _People ask this constantly._
-"I'm only an adjuster; only an underwriter is trained for that information."
+"Only an underwriter is trained for that information."
 
 Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Sometimes they never call back at all. Oh, and people lie constantly. An average claim worked like this:
 
-Day 1, Tow yard calls. The car is in their lot, $80 a day for storage.
-Day 2, Insured calls. “Somebody hit me at a light." He has Collision coverage.
-Day 4, The other insurer calls. Their driver says our insured ran the red.
-Day 6, Body shop emails estimate: $7,800. Storage $650. Padded. Not by much. No time. Approved.
-Day 14, A witness finally calls back. The light was red for us.
+Day 1, the crash, what adjusters call the "Date of Loss".
+Day 2, The other insurer calls. "Do you have a claim open? No."
+Day 4, Insured calls. “Somebody hit me at a light." He has Collision coverage.
+Day 5, Call tow yard. The car is in their lot, $80/day.
+Day 6, The other insurer calls. Their driver says our insured ran the red.
+Day 7, Body shop emails estimate: $7,800. Storage is $700. Padded, but not by much. No time to argue. Approved.
+Day 14, Police report uploaded. No witnesses. No cameras. 50/50 fault.
 Day 21, Body shop emails. “Repair is done.”
 Day 23, Insured leaves voicemail. “I need a rental extension.”
-Day 24, Another adjuster gives the extension and closes the file.
+Day 24, Another adjuster gives the extension and sends the file to payment processing.
 
 A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the queue. All eight went to payment—fully processed, start to finish. I was so proud of myself. _I'm getting this. I got this. Let's go!_
 
@@ -548,9 +552,9 @@ Then I got an email from a manager:
 
 *"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
 
-I needed to use my time differently. There is a difference between working well and meeting targets.  The mayhem was yet to really set in.
+I needed to use my time differently. There is a difference between working well and meeting targets. The mayhem was yet to really set in.
 
-## Chapter 4—Sand Clock: The Ever Present Clock
+## Chapter 4—Sand Clock: The Ever Present Timer
 
 Ever wondered how the game board is made? I mean, volcanoes, stars, everything, how do tiny atoms come together into such unique objects? After all, it's not like nature has a "make a volcano" button like in video games. Reality has no such shortcuts. Instead, each thing in the Universe is a byproduct of the natural laws, the rules of the game, interacting with each other.
 
