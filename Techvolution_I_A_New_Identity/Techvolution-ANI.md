@@ -533,84 +533,82 @@ _That's... really specific._
 _People ask this constantly._
 "Only an underwriter is trained for that information."
 
-Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Sometimes they never call back at all. Oh, and people lie constantly. An average claim worked like this:
+Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Sometimes they never call back at all. Mix in the occasional claim with divorcing parents, wayward kids, theft rings, vehicular manslaughter. Oh, and people lie constantly. An average claim worked like this:
 
 Day 1, the crash, what adjusters call the "Date of Loss".
 Day 2, The other insurer calls. "Do you have a claim open? No."
-Day 4, Insured calls. “Somebody hit me at a light." He has Collision coverage.
+Day 4, Insured calls. “Somebody hit me at a light." He has collision coverage. Okay to proceed.
 Day 5, Call tow yard. The car is in their lot, $80/day.
 Day 6, The other insurer calls. Their driver says our insured ran the red.
 Day 7, Body shop emails estimate: $7,800. Storage is $700. Padded, but not by much. No time to argue. Approved.
 Day 14, Police report uploaded. No witnesses. No cameras. 50/50 fault.
 Day 21, Body shop emails. “Repair is done.”
-Day 23, Insured leaves voicemail. “I need a rental extension.”
+Day 23, Insured leaves voicemail. “Why am I 50% at fault. And, I need a rental extension.”
 Day 24, Another adjuster gives the extension and sends the file to payment processing.
 
-A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the queue. All eight went to payment—fully processed, start to finish. I was so proud of myself. _I'm getting this. I got this. Let's go!_
+A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the call-in queue. All eight went to payment—fully processed, fault, repair shops confirmed, tows arranged. I was so proud of myself. _I'm getting this. I got this. Let's go!_
 
 Then I got an email from a manager:
 
 *"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
 
-I needed to use my time differently. There is a difference between working well and meeting targets. The mayhem was yet to really set in.
+There are many differents types of targets. I needed to use my time differently. The mayhem was yet to really set in.
 
 ## Chapter 4—Sand Clock: The Ever Present Timer
 
-Ever wondered how the game board is made? I mean, volcanoes, stars, everything, how do tiny atoms come together into such unique objects? After all, it's not like nature has a "make a volcano" button like in video games. Reality has no such shortcuts. Instead, each thing in the Universe is a byproduct of the natural laws, the rules of the game, interacting with each other.
+Ever wondered how the game board is made? I mean, volcanoes, stars, everything, is made up of atoms. So how do these countless tiny atoms come together into such unique objects? After all, it's not like nature has a "make a volcano" button. 
 
-Let's see how with volcanoes.
+Mythologies and video games have these shortcuts; reality does not. Instead, to make anything in the universe requires energy. And the useful energy is a byproduct of the natural laws interacting with each other.
 
-Gravity pulls denser rock down, pushing lighter molten rock up. Plate tectonics generates immense pressure and heat, and thermodynamics drives heat transfer and energy transformation the entire time. Mix them together, and molten rock from deep within the Earth's crust pushes up through weak points in the planet's surface to form volcanoes.
+The natural laws include gravity, thermodynamics, and nuclear forces. Together they concentrate matter, transform it, and create pockets of useful energy. A volcano is heat gathered deep underground and pushed to the surface. A star is hydrogen squeezed so tightly it fuses into helium and emits electromagnetic radiation.
 
-Stars are of course bigger, but made with the same interaction of natural forces. Gravity concentrates huge hydrogen gas clouds into a ball. Once the density peaks hydrogen atoms fuse into helium through nuclear fusion, emitting massive amounts of electromagnetic radiation into space. The enormous energy released counteracts gravity and keeps the star from imploding on itself.
+Notice, natural forces don’t create energy. They gather it. The cycle of gathering matter, transforming, and releasing energy happens over and over. Across the entire universe, that’s how our game board is made. 
 
-We could continue non-stop for any natural object, because everything is a byproduct of the forces of nature. These forces are always in action and are always turning atoms into unique objects with distinct material and energy properties.
+But the same laws that gather energy also spread it out. A volcano’s heat seeps away until it goes dormant and cold. A star burns through its fuel until it goes dark. Natural forces organize matter, and over time they disorganize it as well.
 
-And, across the entire Universe, that's how our reality, the game board, is made.
-
-But just as these forces create volcanoes, stars, and everything else, they also inevitably lead to their destruction. Because the same laws that birth these objects, will over time, consume them—natural forces both organize and disorganize matter.
-
-And understanding how objects disarrange into their component parts is effectively our game clock; because it tells us how much time we have left.
+And understanding how objects disarrange is effectively our game clock; just like an hourglass, it tells us how much time our game board has left.
 
 Science calls it the second law of thermodynamics. It's most commonly called entropy. This is the fundamental law that describes how objects and energy systems naturally tend to increase in disorganization over time.
 
-In a way, entropy is the universe's natural accounting system for energy transformation. The results of the statistical behavior of particles probabilistically shifting between states of order and disorder. For example, natural forces create stars that generate immense radiation energy, but natural forces also use up this fuel and turn the star effectively dark.
+In a way, entropy is the other half of the universe’s accounting. Gravity and nuclear fusion gather energy; entropy spends it. Nothing forbids atoms from staying arranged. It’s just that there are vastly more ways for them to be scattered than organized, so scattered wins far more often. Anything that stays organized is beating staggering odds but ultimately is losing the fight. To see what those odds do to a whole planet, compare two.
 
-To realize what the second law of thermodynamics does over time, think of this comparison.
+Earth and Mars were once about the same. Their cores were hot magma. They had protective magnetospheres. Their atmospheres were thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike some planets Mars and Earth were far from bland or boring. Each had the energy to organize objects into cool physical, chemical and geological features like mountains, lakes, and atmosphere. The forces of nature created two relatively similar planets.
 
-Earth and Mars were once about the same. Their cores were hot magma. They had protective magnetospheres. Their atmospheres were thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike some planets Mars and Earth were far from bland or boring. Energy from their cores, magnetospheres, and gravity organized many unique objects like mountains, lakes, and atmosphere. The forces of nature created two similar game boards.
+But entropy is always there, so it went to work on both.
 
-But entropy is always there.
+Volcanic explosions and freezing water degrade mountains, wind storms turn rock into sands, sunlight dries up wetlands, and after enough heat is lost in the core, magnetospheres end their shielding, and solar radiation expels gases from the atmosphere. All of this turns the planet still and motionless, like Mars is today. It's much smaller, so its core cooled faster, so its magnetosphere protection against cosmic rays failed, causing its atmosphere to be all but washed away, and the planet has little to no volcanic eruptions because there is not enough heat in the core to build up the energy for it.
 
-Thus, volcanic explosions and freezing water degrade mountains, wind storms turn rock into sands, sunlight dries up wetlands, and after enough heat is lost in the core, magnetospheres end their shielding, and solar radiation expels gases from the atmosphere. All of this turns the planet still and motionless, like Mars is today. Its core cooled, magnetosphere protection against cosmic rays failed, so its atmosphere is all but gone, and the planet has little to no volcanic eruptions because there is not enough heat left to build up the energy for it.
-
-Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot. But, billions of years from now, the heat will run out, the magnetosphere will die, and the natural forces via wind, rust, erosion, radiation will make Earth again like Mars.
+Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot, so it gives us the heat and magnetic protection from cosmic rays. Billions of years from now, the heat will run out, the magnetosphere will die, and the natural forces via wind, rust, and radiation will grind it down. Earth will be like Mars once again.
 
 And, neither will ever return to their former glory.
 
-That is why entropy is often associated with the arrow of time. Events in the Universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverse itself, the same way a pot of coffee will never un-mix to its original milk, bean, and sugar parts.
+That is why entropy is often associated with the arrow of time. Events in the universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverse itself, the same way a pot of coffee will never un-mix to its original milk, bean, and sugar parts.
 
-All this means there is no going back. So, not only is every place in the Universe unique, but so is every moment.
+All this means there is no going back. So, every place in the universe is unique because every moment will never be repeated.
 
-This is the part Maria's world obeyed too. Surrounded by awards, titles, and mind share, the DVD business looked solid. The physics behind it showed the cracks.
+Physicists call the board and the clock together spacetime. This term combines the three dimensions of space we saw in Spaceland (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
 
-Like everything life makes, the DVD was an arrangement held together by constant work—pressing plants running, trucks moving, shelves restocked, stores staffed, customers visiting. Stop pouring energy into any of it and the whole thing comes apart. Streaming carried the same movie for less work. One example, Blockbuster alone had 60,000 workers with thousands of rental stores. Netflix has about 15,000 workers and runs on multiple contracted huge data centers. Lots of work to create and maintain, but still far less than the DVD. Such is the difference between physical transport versus digital.
+While the game board can tell you where you are, the game clock says when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. The game board and game clock are forever emergent and relative to where and when you exist in the universe.
 
-The same clock runs on every arrangement we build. A coal town is a town because coal is worth digging; the school, the diner, and the hardware store are all downstream of coal's ability to energize a nation. A local newspaper was printing presses, delivery routes, and classified ads that paid for the newsroom, until the lucrative classifieds moved online and the newsroom lost what fed it.
+The arrow of time is what Maria needed to learn. She was surrounded by awards, titles, mind share, and other elements of human mythology. These made it seem the DVD business was solid. The physics said its moment in time was always going to be limited.
 
-None of these were destroyed in an attack. They dispersed, the way everything does when the energy holding it together goes somewhere that does the same job for less.
+Like everything else, the DVD was an arrangement held together by constant work—pressing plants running, trucks moving, shelves restocked, stores staffed, customers visiting. Stop pouring energy into any of it and the whole thing comes apart. Streaming carried the same movie for less work. One example, Blockbuster alone had 60,000 workers with thousands of rental stores. Netflix has about 15,000 workers and runs on multiple contracted huge data centers. Lots of work to create and maintain, but still far less than the DVD. Such is the difference between physical transport versus digital.
 
-Now, run the test on your own arrangement. What does it cost in energy to keep your lifestyle running? The roadways, automobile, commute, office, house? And what would it cost something else—perhaps AI, perhaps something else—to do the same job? You don't need a prediction. You need the number.
+In a universe where energy is limited, the thing that takes up less has far better chance of existing into the future.
 
-Scientists building on Einstein's work called it spacetime. This term combines the three dimensions of space we saw in the game board (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
+The game clock runs on every arrangement we build. A coal town is a town because coal is worth digging; the school, the diner, and the hardware store are all downstream of coal's ability to energize a nation. A local newspaper was printing presses, delivery routes, and classified ads that paid for the newsroom, until the lucrative classifieds moved online and the newsroom lost what fed it.
 
-And this is our game clock.
+None of these were destroyed in an attack. The energy holding them together either ran out, like a star, or found an easier path, like lava finding a new vent.
 
-While the game board can tell you where you are, the game clock says when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. The game board and game clock are forever emergent and relative to where and when you exist in the Universe.
+Now, run the test on your own arrangement. What does it cost in energy to keep your lifestyle running? The roadways, automobile, commute, office, house? And what would it cost something else—perhaps AI, perhaps something else—to do the same job?
 
-The laws of nature, then, are more than scientific concepts—they are what keeps the game board itself in motion. Unlike chess pieces and players who play on the same board over and over, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, beaches, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sand clocks, timepieces, or any other device. Each tells us how much time we have before order disperses (the process called entropy) if no work is done to maintain it.
+You don't need a prediction. You need the number.
 
-And this reveals the ultimate puzzle: in a universe where order disperses unless work is done to hold it together, what kind of thing can do that work? What kind of thing can harvest energy fast enough to postpone its own dispersal? The answer is something the Universe had not produced before—until it did.
+Unlike in chess, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, beaches, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sand clocks or timepieces. Each tells us how much time we have before entropy disperses the order if no work is done to maintain it.
+
+And this reveals the ultimate puzzle: in a universe that disperses the energy forming planets and stars, what kind of thing can work against this tide? What kind of thing can harvest energy faster than entropy removes it?
+
+The answer is something the universe had not produced before—until it did.
 
 ## Chapter 5—Clay: What Life Is, The Creator of Players
 
@@ -618,7 +616,7 @@ Done with the game clock, you set it aside on top of the game board and continue
 
 First let's go back and emphasize something very important.
 
-Most people know Albert Einstein's work E = mc². This revolutionary equation says "Energy equals mass times the speed of light squared", which when doing the math means even a small amount of mass stores an enormous amount of energy. More importantly, this equation says in the right circumstance (like inside stars), matter and energy can be converted into the other.
+Most people know Albert Einstein's work E = mc². This revolutionary equation says "Energy equals mass times the speed of light squared", which when doing the math means even a small amount of matter (mass) stores an enormous amount of energy. More importantly, this equation says in the right circumstance (like inside stars), matter and energy can be converted into the other.
 
 Scientifically there is no direct link between entropy and Einstein's equation, but noting mass and energy equivalency helps us understand a crucial point. As entropy does its thing degrading objects into uniformity, energy is never created or destroyed, but just moved around into different states of radiation (light) or matter.
 

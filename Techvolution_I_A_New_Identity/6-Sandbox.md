@@ -6017,3 +6017,9 @@ You'll get something Maria never had: a clear view of what's coming, and what yo
 
 
 ====
+
+Gravity pulls heavier objects down and lighter to float away. For planets that means the deeper something goes, the hotter it becomes, causing it to get lighter and eventually rise up, being replaced with cooler rock; like a lava lamp. This churning molten rock occasionally finds weak points in the planet's surface, and with thermodynamic and geological rules at play, voila, a volcanoe forms.
+
+Stars are of course bigger, but are made with the same interaction of natural forces. Gravity concentrates huge hydrogen gas clouds into a ball. Once the density gets dense enough, hydrogen atoms fuse into helium through nuclear fusion, emitting massive amounts of electromagnetic radiation. The enormous energy released counteracts gravity enough to keep the star from imploding on itself and "burning" for billions of years.
+
+===
