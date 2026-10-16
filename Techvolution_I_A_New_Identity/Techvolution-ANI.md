@@ -556,27 +556,31 @@ There are many differents types of targets. I needed to use my time differently.
 
 ## Chapter 4—Sand Clock: The Ever Present Timer
 
-Ever wondered how the game board is made? I mean, volcanoes, stars, everything, is made up of atoms. So how do these countless tiny atoms come together into such unique objects? After all, it's not like nature has a "make a volcano" button. 
+Have you ever wondered how the game board is made? I mean, volcanoes, stars, everything, is made up of atoms. So how do these countless tiny atoms come together into such unique objects? Does nature have a "make a volcano" button?
 
-Mythologies and video games have these shortcuts; reality does not. Instead, to make anything in the universe requires energy. And the useful energy is a byproduct of the natural laws interacting with each other.
+No. Mythologies and video games have these shortcuts; reality does not. Instead, to make anything in the universe requires concentrated energy. This useful kind of energy happens when gravity, nuclear forces, and electromagnetism interact with each other and matter. When these natural forces concentrate enough matter, they can transform it, and create pockets of useful energy. 
 
-The natural laws include gravity, thermodynamics, and nuclear forces. Together they concentrate matter, transform it, and create pockets of useful energy. A volcano is heat gathered deep underground and pushed to the surface. A star is hydrogen squeezed so tightly it fuses into helium and emits electromagnetic radiation.
+But forces don't act chaotically. They follow strict rules called natural laws, which govern how energy and matter flow, concentrate, and disperse. Understanding both the forces and the laws is how we understand how nature makes everything.
 
-Notice, natural forces don’t create energy. They gather it. The cycle of gathering matter, transforming, and releasing energy happens over and over. Across the entire universe, that’s how our game board is made. 
+For example, volcanoes exist when gravity packs rock into a planet’s interior, where leftover heat from its formation and radioactive decay keep it hot. Lighter, molten rock rises, finds weak points in the crust, and erupts as a volcano. In a star, gravity squeezes hydrogen so intensely that nuclear forces fuse it into helium and release immense electromagnetic radiation.
 
-But the same laws that gather energy also spread it out. A volcano’s heat seeps away until it goes dormant and cold. A star burns through its fuel until it goes dark. Natural forces organize matter, and over time they disorganize it as well.
+The cycle of natural forces gathering matter, transforming, and releasing energy happens over and over according to the natural laws. Across the entire universe, that’s how planets, stars, continents, and the rest of our game board, down to the atoms themselves, are made. 
+
+But concentrated useful energy only lasts so long. A brilliant volcano’s heat slowly seeps away until it goes dormant and cold. When a mighty star burns through its fuel, it will eventually collapse, explode, or slowly fade. Natural forces organize matter, but over time matter and energy disorganize.
 
 And understanding how objects disarrange is effectively our game clock; just like an hourglass, it tells us how much time our game board has left.
 
-Science calls it the second law of thermodynamics. It's most commonly called entropy. This is the fundamental law that describes how objects and energy systems naturally tend to increase in disorganization over time.
+Science calls this the second law of thermodynamics.Its measure is entropy, a quantity that describes nature's one-way tendency: energy disperses, structures break down, and things fade away over time.
 
-In a way, entropy is the other half of the universe’s accounting. Gravity and nuclear fusion gather energy; entropy spends it. Nothing forbids atoms from staying arranged. It’s just that there are vastly more ways for them to be scattered than organized, so scattered wins far more often. Anything that stays organized is beating staggering odds but ultimately is losing the fight. To see what those odds do to a whole planet, compare two.
+In a way, entropy is the other half of the universe’s accounting of energy. If we imagine that gravity and nuclear forces gather energy, we can think of entropy as spending it. Nothing forbids atoms from staying arranged as mountains or sandcastles. But as time passes and wind storms, ocean waves, and car crashes happen, there are vastly more ways for atoms to scatter than stay organized. There's only a few ways for sand to make a castle, but nearly infinte ways to arrange sand on a beach. Anything that stays organized is beating staggering odds but ultimately will lose the fight.
+
+To see what those odds do to a whole planet, compare these two.
 
 Earth and Mars were once about the same. Their cores were hot magma. They had protective magnetospheres. Their atmospheres were thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike some planets Mars and Earth were far from bland or boring. Each had the energy to organize objects into cool physical, chemical and geological features like mountains, lakes, and atmosphere. The forces of nature created two relatively similar planets.
 
 But entropy is always there, so it went to work on both.
 
-Volcanic explosions and freezing water degrade mountains, wind storms turn rock into sands, sunlight dries up wetlands, and after enough heat is lost in the core, magnetospheres end their shielding, and solar radiation expels gases from the atmosphere. All of this turns the planet still and motionless, like Mars is today. It's much smaller, so its core cooled faster, so its magnetosphere protection against cosmic rays failed, causing its atmosphere to be all but washed away, and the planet has little to no volcanic eruptions because there is not enough heat in the core to build up the energy for it.
+Volcanic explosions and freezing water degrade mountains, wind storms turn rock into sands, sunlight dries up wetlands, and after enough heat is lost in the core, magnetospheres end their shielding, and solar radiation expels gases from the atmosphere. All of this turns the planet still and motionless, like Mars is today. Because Mars is much smaller, its core cooled relatively fast, so its magnetosphere failed, causing its atmosphere to be all but washed away. There's little to no volcanic eruptions because there is not enough heat in the core to build up the energy for it.
 
 Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot, so it gives us the heat and magnetic protection from cosmic rays. Billions of years from now, the heat will run out, the magnetosphere will die, and the natural forces via wind, rust, and radiation will grind it down. Earth will be like Mars once again.
 
@@ -604,7 +608,7 @@ Now, run the test on your own arrangement. What does it cost in energy to keep y
 
 You don't need a prediction. You need the number.
 
-Unlike in chess, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, beaches, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sand clocks or timepieces. Each tells us how much time we have before entropy disperses the order if no work is done to maintain it.
+Unlike in chess, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, sandcastles, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sand clocks or timepieces. Each tells us how much time we have before entropy disperses the order if no work is done to maintain it.
 
 And this reveals the ultimate puzzle: in a universe that disperses the energy forming planets and stars, what kind of thing can work against this tide? What kind of thing can harvest energy faster than entropy removes it?
 
