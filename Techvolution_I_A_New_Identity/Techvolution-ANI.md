@@ -519,7 +519,7 @@ Simple, right?
 
 Except no driver knows what to do after a crash. So, despite authorizing tens of thousands—sometimes hundreds of thousands—of dollars per day, getting the information we need for three seemingly easy questions was chaotic.
 
-There was no standard process. No production line. No patience. The answers arrived in a constant, random stream of intermixed calls, emails, voicemails.
+There was no standard process. No production line. No patience. The answers arrived in a constant, random stream of intermixed calls, emails, voicemails. And people don't want to be at fault and they really need their cares, so emotions are high.
 
 "Why am I at fault?"
 _Because you hit a freaking tree!_
@@ -533,7 +533,7 @@ _That's... really specific._
 _People ask this constantly._
 "Only an underwriter is trained for that information."
 
-Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Sometimes they never call back at all. Mix in the occasional claim with divorcing parents, wayward kids, theft rings, vehicular manslaughter. Oh, and people lie constantly. An average claim worked like this:
+Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Sometimes they never call back at all. Mix in the occasional claim with divorcing parents, wayward kids, theft rings, hit and runs. Oh, and people lie constantly. An average claim worked like this:
 
 Day 1, the crash, what adjusters call the "Date of Loss".
 Day 2, The other insurer calls. "Do you have a claim open? No."
@@ -543,7 +543,7 @@ Day 6, The other insurer calls. Their driver says our insured ran the red.
 Day 7, Body shop emails estimate: $7,800. Storage is $700. Padded, but not by much. No time to argue. Approved.
 Day 14, Police report uploaded. No witnesses. No cameras. 50/50 fault.
 Day 21, Body shop emails. “Repair is done.”
-Day 23, Insured leaves voicemail. “Why am I 50% at fault. And, I need a rental extension.”
+Day 23, Insured leaves voicemail. “Why am I 50% at fault? And, I need a rental extension.”
 Day 24, Another adjuster gives the extension and sends the file to payment processing.
 
 A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the call-in queue. All eight went to payment—fully processed, fault, repair shops confirmed, tows arranged. I was so proud of myself. _I'm getting this. I got this. Let's go!_
@@ -552,7 +552,7 @@ Then I got an email from a manager:
 
 *"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
 
-There are many differents types of targets. I needed to use my time differently. The mayhem was yet to really set in.
+I needed to use my time differently. The mayhem was yet to really set in.
 
 ## Chapter 4—Sand Clock: The Ever Present Timer
 
@@ -616,79 +616,89 @@ The answer is something the universe had not produced before—until it did.
 
 ## Chapter 5—Clay: What Life Is, The Creator of Players
 
-Done with the game clock, you set it aside on top of the game board and continue reading the booklet. Now you pick up the clay and roll it in your hands: smash, stretch, roll, pinch.  How does this soft malleable stuff relate to the Game of Life?
+You twirl the small sand clock in your hand. Sand goes from one side to the other. You realize just how many grains of sand there are, and just how many variations of "sand" there really are.
+
+Once the sand runs out, the clock is useless. Only when someone invests energy to flip it does it tell time again.
+
+Done with the clock, you set it aside on top of the game board and booklet. Now you pick up the clay and roll it in your hands: smash, stretch, roll, pinch. How does this soft malleable stuff relate to the Game of Life?
 
 First let's go back and emphasize something very important.
 
-Most people know Albert Einstein's work E = mc². This revolutionary equation says "Energy equals mass times the speed of light squared", which when doing the math means even a small amount of matter (mass) stores an enormous amount of energy. More importantly, this equation says in the right circumstance (like inside stars), matter and energy can be converted into the other.
+Most people know Albert Einstein's work E = mc². This revolutionary equation says "Energy equals mass times the speed of light squared", which when doing the math means even a small amount of matter (mass) stores an enormous amount of energy. More importantly, this equation says in the right circumstance (like inside stars), matter and energy can be converted into each other.
 
-Scientifically there is no direct link between entropy and Einstein's equation, but noting mass and energy equivalency helps us understand a crucial point. As entropy does its thing degrading objects into uniformity, energy is never created or destroyed, but just moved around into different states of radiation (light) or matter.
+Scientifically there is no direct link between entropy and Einstein's equation, but noting mass and energy equivalency helps us understand a crucial point. As entropy degrades objects into uniformity, energy is never created or destroyed, but just moved around into different states of radiation (light) or matter.
 
-Basically, there is no delete button anywhere in physics—energy isn't destroyed, only modified. Incidentally, this principle is the first law of thermodynamics.
+Basically, there is no delete button anywhere in physics—energy and matter are never destroyed, only modified. Incidentally, this principle is the first law of thermodynamics.
 
-For example, the energy that once fueled Mars' hot magma core was not erased, it only radiated into space. As heat dissipated away it came to a useless state; it was no longer concentrated and organized enough to do anything. Useful energy is a physical quantity that represents the capacity to do work or cause change in a physical system, like Earth's still hot magma core is doing right now.
+For example, the energy that once fueled Mars' hot magma core was not erased, it only radiated into space. As heat dissipated away it came to a useless state; it was no longer concentrated and organized enough to do anything. Useful energy is a physical quantity that represents the capacity to do work or cause change in a physical system, like Earth's still hot magma core showcases with every eruption.
 
-Useful energy is what entropy slowly drains away from any organized system, from active plants, to volcanoes, to coffee pots.
+Useful energy is what entropy slowly drains away from any organized system, from sand clocks, to volcanoes, to coffee pots.
 
-Enter the modeling clay, while still playing in your hands, you're starting to realize something.
+Enter the modeling clay. You're still playing with it in your hands, and now starting to realize something.
 
-There have been countless different forms of life, but every single one has this in common; living organisms unite matter via metabolism. These are a set of chemical processes that occur within a living organism to maintain life. It involves breaking down nutrients to release energy and using that energy to build, repair, and discard cellular structures. Metabolism is how life locally postpones entropy: it imports useful energy faster than disorder accumulates.
+There have been countless different forms of life, but every single one has this in common; living organisms unite matter. The atoms inside you are the same atoms that make up rocks, air, and stars. Life just brings them together and keeps them moving. Every living thing runs on metabolism: chemistry that breaks down fuel to release energy, then life uses that energy to build, repair, and copy itself. With reliable fuel, metabolism locally counteracts rising entropy by fueling cell growth.
 
-Life never consumes anything. It only borrows and converts matter using energy. Take a tree. After a squirrel plants it and before a raccoon climbs it, it needs to grow. But how?
+Take a tree for example. Before a squirrel plants it and a raccoon climbs it, it needs to grow. But how?
 
-It turns air and sunlight into wood. 
+It turns air, water, and sunlight into wood and leaves. 
 
-A tree pulls carbon dioxide out of the air, uses sunlight as the energy source to break those molecules apart, and stitches the carbon atoms together into solid wood. The oxygen gets released back into the air for us to breathe, while the sun's energy gets locked inside the chemical bonds of the wood like a battery being charged. Then, when you burn that wood, you're simply running the whole process in reverse—the carbon reunites with oxygen to form carbon dioxide again, the stored solar energy is released as heat and light, and the tree essentially dissolves back into the same air it came from. After a lifetime contributing shelter, fruit, and seed, a burning log is just a tree giving back its borrowed sunlight.
+A tree draws carbon dioxide from the air and water from the soil. Powered by sunlight, its metabolism drives a remarkable chemical process. Water molecules are split, releasing oxygen into the air, while the captured carbon is assembled into sugars, which are then converted into roots, wood, and leaves. The sun's energy becomes locked inside those chemical bonds, stored like a charged battery.
 
-Nothing is used up, only moved and rearranged—which means every organism is quietly supplying the inputs for something else.
+Then, when that wood burns or most commonly rots, the process runs in reverse. Fungi and microbes eat the dead but still nutritious tissue. Carbon is released and reunites with oxygen to form carbon dioxide again, the stored solar energy is released as fire or food. After a lifetime giving shelter, fruit, and seed to the forest, the tree either dissolves back into the same air, water, and soil from where it came, or becomes food for decomposers. Either way, the environment is ready for the next generation's metabolism to turn carbon, water, and sunlight into a new tree.
 
-And most importantly, we pass on life's baton to the next generation, and thereby organize more matter as time goes on. Life turns the same elements available throughout the Universe into pockets of locally postponed entropy—organized matter maintained by constant energy throughput. And that's how life locally postpones entropy long enough to pass the torch forward on the game board.
+Life is the thing that flips the sand clock.
 
-If life can keep harnessing enough energy to stay alive.
+That's how life passes the baton to the next generation. Life organizes more matter as time goes on—if it can keep harnessing energy to stay alive.
 
-And since every location and moment in time is unique, that means life must customize itself to harness whatever useful energy is available regardless of time, place, and whatever has happened in the never returning past.
+There are no breaks. No time off. Since entropy is always increasing in nature, life must always be working to counteract it. It's a race entropy wins when it catches up. And since every location and moment in time is unique, life must customize itself to harness whatever useful energy is available regardless of time, place, and whatever has happened in the never returning past.
 
 Hence the modeling clay in your hands.
 
-This clay lets life mold itself to its place on the game board, meaning its environment. Entropy harms the clay like everything else, individual lifeforms get tired, weathered, and worn, but by birthing new clay, life stays malleable enough to find the new ways to harness available energy. Thereby life continues to grow as time goes forward.
+This clay lets life mold itself to the available energy on the game board, meaning its environment. Entropy degrades the clay like everything else. Individual lifeforms get tired, weathered, and worn out. Only by birthing new clay does life stay malleable enough to find new ways to harness available energy in the changing environment and only then does life continue to grow as time goes forward.
 
-Of course life is not clay. There's something far more elegant at work.
+Of course life is not clay. There’s something far more elegant at work.
 
-Life emerged around 3.7 to 4.1 billion years ago. Earth was dramatically different. A molten, volatile landscape constantly bombarded by asteroids, an atmosphere rich in methane, ammonia, and hydrogen. In short, our planet looked like a disaster movie in progress.
+Clay needs a hand to shape it. Life shapes itself. It began doing so somewhere between 3.7 and 4.1 billion years ago, on an Earth that looked nothing like today’s: oceans with no oxygen, volcanoes everywhere, and asteroids constantly slamming into the surface. In short, our planet looked like a disaster movie in progress.
 
 Yet, it was here life started.
 
-Science has some ideas how. There have been many experiments trying to spark "primordial ooze" as one theory calls the rich, chemical-laden matter of early Earth, where complex organic molecules might have first combined into self-replicating cells. But despite trying to emulate this setting nothing's worked so far to kickstart molecules to replicate. In a world where science has stolen many of our mysteries, the emergence of life on Earth is still as wondrous as ever. And with so much uncertainty, each person is free to believe whatever they want was the start of it all.
+Science has some ideas how. There have been many experiments trying to spark "primordial ooze" as one theory calls the rich, chemical-laden matter of early Earth, where complex organic molecules might have first combined into self-replicating molecules. But despite trying to emulate this setting nothing's worked so far to kickstart molecules to replicate. In a world where science has stolen many of our mysteries, the emergence of life on Earth is still as wondrous as ever. And with so much uncertainty, each person is free to believe whatever they want was the start of it all.
 
 The point is life did start.
 
-Matter somehow started to turn into an organized state. While we do not know the exact mechanism of life's origin, once it got going, life grew by molecules gaining the ability to create copies of themselves. Thereafter, molecules kept finding the energy to buck entropy and keep replicating themselves.
+Matter somehow began to organize, and molecules created copies of themselves. Thereafter, molecules kept finding the energy to buck entropy and keep replicating more.
 
-New clay was being born.
+With each new replication, more clay was born.
 
-The nearest energy source was hydrothermal vents, which scientists suspect fostered the first microbial life forms called anaerobic prokaryotes. These primitive organisms, similar to bacteria, represented the first sparks of life on a young, turbulent planet filled with harsh environments.
+Ancient Earth had many hydrothermal vents, which scientists suspect fueled and fostered the first microbial life forms called anaerobic prokaryotes. These primitive organisms, similar to bacteria, represented the first sparks of life on a young, turbulent planet filled with harsh environments.
 
-For billions of years these primitive creatures lived. In a sense they could be seen as colonizers.
+For billions of years these primitive creatures replicated, spread out, and kept going.
 
-Because early prokaryotes called cyanobacteria converted energy into matter that gradually transformed the environment through photosynthesis, which produced atmospheric oxygen. The Great Oxidation Event killed most lifeforms on Earth not used to so much reactive free oxygen.
+One group of these prokaryotes, cyanobacteria, invented the kind of photosynthesis that releases oxygen. When turning sunlight into food they produced massive amounts of atmospheric oxygen. This gradually transformed the environment in the Great Oxidation Event, and killed much of life on Earth because it was not used to so much oxygen in the atmosphere.
 
-The benefit was fuel. We take this chemical for granted today, but it is rare, supercharges metabolism, and because it converts sunlight back into matter, has a near endless energy source. 
+Although many lifeforms died, life got a massive amount of fuel. We take oxygen for granted today, but it supercharges metabolism, letting cells pull far more energy from their food. Filling the air with oxygen changed the planet for good, and eventually made room for eukaryotic cells. These cells contained a nucleus and more sophisticated structures, a significant leap in biological complexity.
 
-Converting toxic gases into oxygen fundamentally altered the Earth's atmosphere. Eventually its rich energy source allowed eukaryotic cells to emerge, representing a significant leap in biological complexity. These cells contained a nucleus and more sophisticated cellular structures.
+Notice what happened. Oxygen was waste, and then it was fuel. Life never uses anything up, because matter and energy can’t be destroyed. Life can only put matter to use, or leave it as waste nothing living can use yet. Turn more matter into life, and the playing field grows. Leave more as waste, and it shrinks.
 
-This process of growth kept going. Life got ever more complicated. Soon individual cells started to merge into multi-cell organisms. Then each cell inside these lifeforms specialized to perform unique functions. Multi-cellular organisms had cells specialized in an evermore complex organization. Skin cells protected from the elements, muscle cells allowed locomotion, nerve cells enabled intra-organism communication.
+And the modeling clay kept growing.
 
-As lifeforms kept adding cell specialization, they became more complex and developed resilience—postponing entropy's effects by growing new cells specialized to overcome new challenges.
+Life got ever more complicated. Over eons, individual cells began cooperating in loose colonies like green algae, then eventually permanently partnered into true multi-cell organisms like primitive sponges and jellyfish. Being part of a unit let cells specialize for unique functions. Skin cells protected from the elements, muscle cells allowed locomotion, nerve cells enabled intra-organism communication.
 
-The Ediacaran Period (635-541 million years ago) marked the emergence of the first complex, soft-bodied organisms. Life was no longer like simple bacteria, but becoming more like animals, featuring basic body plans and the ability to interact with their environment with things like cells that could detect light, the precursor to our modern eyes. These creatures, like the disc-shaped Dickinsonia, represented huge jumps in multicellular life and body complexity.
+As lifeforms kept adding cell specialization, they became more complex and developed the ability to perform more advanced functions. With more power, these organisms found new ways to postpone entropy's disordering.
 
-Now the stage was set.
+The Ediacaran Period (635-541 million years ago) marked the emergence of the first complex, soft-bodied organisms. Life was no longer like simple bacteria, but becoming more like animals, featuring basic body plans and the ability to interact with their environment with cells that could detect light, the precursor to our modern eyes. These creatures, like the disc-shaped Dickinsonia, represented huge jumps in multicellular life and body complexity.
 
-What came next was called the Cambrian Explosion, where many new creatures emerged displaying increasingly complex body structures, sensory systems, and locomotion capabilities. Now life didn't have to take what it could get.
+With the modeling clay self-replicating into more complex lifeforms the stage was set.
 
-With an oxygen atmosphere fueling metabolic processes like never before, life could truly get creative with its modeling clay. Life could venture out and find every single place on the game board with energy to harvest regular atoms into biological mass.
+What came next was called the Cambrian Explosion, where a huge variety of creatures emerged displaying increasingly complex body structures, sensory systems, and locomotion capabilities. With an oxygen atmosphere fueling metabolic processes like never before, life could truly get creative with its modeling clay. Life could venture out into every corner of the seas to find places on the game board with energy to harvest.
 
-With so many players now on the board, the question of who keeps playing—and who doesn't—needed a mechanism. The Game of Life would need a scoreboard.
+The clay wasn’t only shaping itself to fit the board. It was becoming the board when it used energy to turn regular mass into biomass. Life spread over bare rock and through open water, and everywhere it went, it left the land, the seas, and the air easier to live in for whatever came next. The oxygen we breathe, and the ozone shielding us from the sun, are photosynthesis’s leftovers. The soil under every field is rock that roots and fungi ground down. Both are ready-made to spread more life.
+
+Just think: about a tenth of the layered rock covering the continents is limestone, built from the shells and skeletons of ancient sea life. Much of our farmland, aquifers, and coral reefs are a vibrant game board built from life that supports life.
+
+Which raises the question: if life continues over generations and ages, why don't its forms? 
+
+Because life can either expand its range with new forms or see it dwindle with old ones. To organize ever more mass into favourable soil, air, and forms, life needed to be selective. Picking and choosing between all the options needed a mechanism. The Game of Life would need a scoreboard.
 
 <!-- idea: integrate life turns regular mass to biomass, to increase the field of play, and players. so, life can never use water, but only make-use of, or make-waste, and therefore expand its range or see it dwindle. input the concept of equilibrium. This virus is an example. It succeeded in finding a host, replicating itself, and so will be in the future. While you may complain, that hot chicken soup you're about to have was once a lifeform, and you're using it to stay alive and keep your genes around to hopefully pass your genes into the future. Hopefully that poultry had kids, or close cousins, before it died for you. (implement in later chapter in ecosystem expansion, technomass, or the transition from biology to technology) -->
 
@@ -700,11 +710,11 @@ You want to play it. Are you ready? Let's press the start button!
 
 Not so fast. Playing isn't winning. Before you venture onto your game board, let's learn what puts creatures on the score board.
 
-Just now you cough. It's so small it almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring now because there's a scratchy pain in your throat.
+Just now you cough. It's so small it almost goes unnoticed like any another blink, breath, or other autonomic function. But alarm bells ring with this cough because it comes with a scratchy pain in your throat.
 
-You know right away. Excitement kept you up too late. With so little sleep your immune system couldn't keep infection at bay. You're sick.
+You know right away. Excitement kept you up too late last night. With so little sleep your immune system couldn't keep infection at bay. And now you're sick.
 
-Viruses are tiny and many biologists don't consider them alive, still they are not much different from any other player in our understanding of the game. They are still bits of clay looking for the energy to stay in the game. Their strategy is simpler than most; forgo reproductive parts and instead self-replicate by invading another creature and hijacking its cells. It's a winning idea. Animals, plants, even bacteria were exploited by viruses soon after their games started.
+Viruses are tiny and many biologists don't consider them to even be alive, still they are not much different from any other player in our understanding of the game. They are still bits of clay looking for the energy to stay in the game. Their strategy is simpler than most; forgo reproductive parts and instead invade another creature and hijack its cells in order to self-replicate. It's a winning idea. Animals, plants, even bacteria were exploited by viruses soon after their games started.
 
 Viruses are so simple they need only a few dozen to sometimes a thousand genes. Humans have around 20,000 for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
 
@@ -3895,7 +3905,7 @@ She took the pre-authorized rental. I never heard from her again.
 
 I'd thought I couldn't be honest with insurance customers. I stuttered on many calls because of that. The truth: I had to learn how to be honest. I couldn't be mean, but I could state clearly what my job was, what the policy covered, and what their options were.
 
-Let a person deal with their reality. If they ask, I'm here to help. Most people absolutely loved that approach. If they didn't, I wasn't getting nervous on their account. That was the key to my vocal freedom.
+Let a person deal with there reality. If they ask, I'm here to help. Most people absolutely loved that approach. If they didn't, I wasn't getting nervous on their account. That was the key to my vocal freedom.
 
 I often recall this Land Rover conversation. Though I still stutter occasionally, when I look back, that's when I realize I don't have a stutter anymore.
 
