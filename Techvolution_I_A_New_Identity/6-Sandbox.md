@@ -6023,3 +6023,26 @@ Gravity pulls heavier objects down and lighter to float away. For planets that m
 Stars are of course bigger, but are made with the same interaction of natural forces. Gravity concentrates huge hydrogen gas clouds into a ball. Once the density gets dense enough, hydrogen atoms fuse into helium through nuclear fusion, emitting massive amounts of electromagnetic radiation. The enormous energy released counteracts gravity enough to keep the star from imploding on itself and "burning" for billions of years.
 
 ===
+
+Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. From eye color to feather size, genes are the chemical blueprints that determine every creature's genetic traits, what scientists call genotype.
+
+A gene existing in the present isn't a victory. The arrow of time means only the genes that make it into the future continue playing. 
+
+
+
+The recipe for every player's clay is written in genes, made of DNA or its simpler cousin, RNA. But procreation of this existing clay isn't good enough. Life needs the new clay of custom players. That happens during procreation. Genes get shuffled, and now and then one mutates, so almost every kid carries a new combination.
+
+Meaning, kids not only repopulate life, but also develop new abilities too. Kids are new life in every sense of the word.
+
+===
+
+Over time, natural selection acts on individual creatures, each competing for its share of that energy. Out of all that competition something larger emerges: a sprawling diversity of life, no single piece of it planned, that together makes the whole system hard to kill. When the climate shifts or a disaster strikes, that variety is the insurance—enough survives to rebuild. I think that's the real wonder of it: a system that keeps "passing the torch" of creation, carrying life forward through every change.
+
+
+All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share much: seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must find untapped energy, they continually increase the conversion of useless matter into useful biomass, making an ecosystem an expansive force. 
+
+
+No individual reciprocates on purpose. But because every member of a species is nearly a copy of the rest, a trait that harvests energy well shows up in all of them at once, and keeps paying off generation after generation. No single species runs the whole ecosystem and none will ever succeed against entropy alone. Happily, the effect of every creature straining to live, and the sum of all that straining, is that life keeps pushing itself forward.
+
+
+===

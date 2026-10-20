@@ -92,7 +92,7 @@ Today's statistics paint a stark picture of our financial strain. Adjusted to 20
 
 Average home prices across U.S. states were about 345 percent higher in 2024 than in 1991. Average annual premiums for employer-sponsored family health coverage increased 49 percent from 2013 to 2023. Average in-state tuition roughly doubled from 1991 to 2023. Grocery costs rose significantly in recent years—a 20–30 percent increase from 2020 to 2025.
 
-This widening economic gap has driven debt to record levels for students and governments. American federal debt, measured against the size of the economy, is now near its 1946 peak. That should strike us as strange. Much of what World War II (1939-1945) wartime debt bought was destroyed within months, yet by the mid-1970s the debt had shrunk to about a quarter of its postwar size relative to the economy because a healthy economy outgrew its debt. Today’s federal borrowing comes not from war but from the ordinary costs of keeping society running: retirement, healthcare, and the interest on what we already owe. Just keeping our society running runs up as much debt as a world war, which suggests something has gone profoundly wrong.
+This widening economic gap has driven debt to record levels for students and governments. American federal debt, measured against the size of the economy, is now near its 1946 peak. That should strike us as strange. Much of what World War II (1939-1945) wartime debt bought was destroyed within months, yet by the mid-1970s the debt had shrunk to about a quarter of its postwar size relative to the economy because a healthy economy outgrew its debt. Today’s federal borrowing comes not from war but from the ordinary costs of keeping society running: retirement, commuting, definitely insurance, and the interest on what we already owe. Just keeping our society running runs up as much debt as a world war, which suggests something has gone profoundly wrong.
 
 Economic betterment has also largely stopped in America, with only half of Americans born in 1980 earning more than their parents, compared to 90 percent of those born in 1940.
 
@@ -106,7 +106,7 @@ Before we do that we must adopt a fresh mindset. One built from the lessons cons
 
 Obviously not. Words don't fill our stomachs or shelter us from the elements.
 
-Yet today we evaluate conservatism and progressivism by their words. Our ancestors didn't do that. Instead, they valued each for their ability to create and distribute tools like tractors, home heaters, and libraries. These are adaptations that overcame real-life pains of hunger, poverty, illiteracy. Today, ideological believers, from bureaucrats to teachers, executives to workers, say they promote adopting innovative computer technology, but only when you adopt a technological identity will you evaluate their words by how well the tools in your hands solve your frontline problems.
+Yet today we evaluate conservatism and progressivism by their words. Our ancestors didn't do that. Instead, they valued each for their ability to create and distribute tools like farm tractors, home heaters, and community libraries. These are adaptations that overcame real-life pains of hunger, poverty, illiteracy. Today, ideological believers, from bureaucrats to teachers, executives to workers, say they promote adopting innovative computer technology, but only when you adopt a technological identity will you evaluate their words by how well the tools in your hands solve your frontline problems.
 
 Using Industrial Age mentalities in the Internet Age is a massive mix-up. It interferes with matching our problems with better tools. When we realize this, we can once again mass-produce the diverse tools we need to find a shared political purpose and build economic prosperity again.
 
@@ -120,7 +120,7 @@ Adopting a strong technological identity will keep our continued evolution in fo
 
 The everyday lesson is, loving the same music as someone else is great fun, talking about ideology can cause interesting debates, but neither means you have found the best mechanic. Solving our frontline problems means finding better tools and better tool-users. Just think how an oak tree and a squirrel have nothing in common, and each helps the other prosper every year.
 
-All life forms should work together because Earth is a massive version of an ice bucket—a vast game board shaped by immutable laws of physics, chemistry, and geology. Life produces new creatures constantly, and its partner, evolution, decides which keep playing. With the right team, Earth is an awe-inspiring oasis—a lone lifeboat in the galactic expanse.
+All lifeforms should work together because Earth is a massive version of an ice bucket—a vast game board shaped by immutable laws of physics, chemistry, and geology. Life produces new creatures constantly, and its partner, evolution, decides which keep playing. With the right team, Earth is an awe-inspiring oasis—a lone lifeboat in the galactic expanse.
 
 The story of life now involves technology. Its many gadgets, tools, and inventions are already changing the world. The purpose of this book is to help you realize tools are the best way to adapt to your environment. A recurring theme is how to combat any story that tries to subvert this evolutionary requirement.
 
@@ -258,7 +258,7 @@ Defining human success by genotype alone, or phenotype alone, is a dead end. Nat
 
 This is vital because a tree that grows does more than survive. It shades the ground, shelters nests, holds the soil, and feeds the squirrels that plant its offspring. None of that is the tree’s intention. In nature nobody sets out to help anybody but the forest happens anyway, and everyone benefits.
 
-It must be asked: if even the extremists wanted the best new technologies, why was it so difficult for humanity to recognize ourselves as technological beings? The reason is the same as why accepting evolution took so long: it contradicts the paradigms entrenched in our minds. Like all life forms, competing in the Game of Life is in our nature. And what better strategy for biological survival than possessing a tool that others lack, or better yet, need?
+It must be asked: if even the extremists wanted the best new technologies, why was it so difficult for humanity to recognize ourselves as technological beings? The reason is the same as why accepting evolution took so long: it contradicts the paradigms entrenched in our minds. Like all lifeforms, competing in the Game of Life is in our nature. And what better strategy for biological survival than possessing a tool that others lack, or better yet, need?
 
 We want to invent new technologies but don't think to spread them.
 
@@ -656,6 +656,8 @@ Hence the modeling clay in your hands.
 
 This clay lets life mold itself to the available energy on the game board, meaning its environment. Entropy degrades the clay like everything else. Individual lifeforms get tired, weathered, and worn out. Only by birthing new clay does life stay malleable enough to find new ways to harness available energy in the changing environment and only then does life continue to grow as time goes forward.
 
+So here is what life is: the process that turns mass into biomass by making new lifeforms. Each lifeform is a player, a bit of clay shaped to harvest energy from its own corner of the board.
+
 Of course life is not clay. There’s something far more elegant at work.
 
 Clay needs a hand to shape it. Life shapes itself. It began doing so somewhere between 3.7 and 4.1 billion years ago, on an Earth that looked nothing like today’s: oceans with no oxygen, volcanoes everywhere, and asteroids constantly slamming into the surface. In short, our planet looked like a disaster movie in progress.
@@ -668,9 +670,9 @@ The point is life did start.
 
 Matter somehow began to organize, and molecules created copies of themselves. Thereafter, molecules kept finding the energy to buck entropy and keep replicating more.
 
-With each new replication, more clay was born.
+With each new replication, more clay was born, and another player joined the game.
 
-Ancient Earth had many hydrothermal vents, which scientists suspect fueled and fostered the first microbial life forms called anaerobic prokaryotes. These primitive organisms, similar to bacteria, represented the first sparks of life on a young, turbulent planet filled with harsh environments.
+Ancient Earth had many hydrothermal vents, which scientists suspect fueled and fostered the first microbial lifeforms called anaerobic prokaryotes. These primitive organisms, similar to bacteria, represented the first sparks of life on a young, turbulent planet filled with harsh environments.
 
 For billions of years these primitive creatures replicated, spread out, and kept going.
 
@@ -698,7 +700,7 @@ Just think: about a tenth of the layered rock covering the continents is limesto
 
 Which raises the question: if life continues over generations and ages, why don't its forms? 
 
-Because life can either expand its range with new forms or see it dwindle with old ones. To organize ever more mass into favourable soil, air, and forms, life needed to be selective. Picking and choosing between all the options needed a mechanism. The Game of Life would need a scoreboard.
+Because life can either expand its range with new forms or see it dwindle with old ones. To organize ever more mass into favorable soil, air, and forms, life needed to be selective. Picking and choosing between all the options needed a mechanism. The Game of Life would need a scoreboard.
 
 <!-- idea: integrate life turns regular mass to biomass, to increase the field of play, and players. so, life can never use water, but only make-use of, or make-waste, and therefore expand its range or see it dwindle. input the concept of equilibrium. This virus is an example. It succeeded in finding a host, replicating itself, and so will be in the future. While you may complain, that hot chicken soup you're about to have was once a lifeform, and you're using it to stay alive and keep your genes around to hopefully pass your genes into the future. Hopefully that poultry had kids, or close cousins, before it died for you. (implement in later chapter in ecosystem expansion, technomass, or the transition from biology to technology) -->
 
@@ -708,87 +710,103 @@ You've got the Game of Life at your feet. The pieces look different to you now. 
 
 You want to play it. Are you ready? Let's press the start button!
 
-Not so fast. Playing isn't winning. Before you venture onto your game board, let's learn what puts creatures on the score board.
+Not so fast. Playing isn't winning. Before you venture onto your game board, let's learn what puts creatures on the scoreboard.
 
-Just now you cough. It's so small it almost goes unnoticed like any another blink, breath, or other autonomic function. But alarm bells ring with this cough because it comes with a scratchy pain in your throat.
+Just now you cough. It's small and almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring with this cough because it comes with a scratchy pain in your throat.
 
 You know right away. Excitement kept you up too late last night. With so little sleep your immune system couldn't keep infection at bay. And now you're sick.
 
-Viruses are tiny and many biologists don't consider them to even be alive, still they are not much different from any other player in our understanding of the game. They are still bits of clay looking for the energy to stay in the game. Their strategy is simpler than most; forgo reproductive parts and instead invade another creature and hijack its cells in order to self-replicate. It's a winning idea. Animals, plants, even bacteria were exploited by viruses soon after their games started.
+Viruses are tiny little things. Some biologists don't consider them to even be alive, still they are not much different from any other player in our understanding of the Game of Life. They are still bits of clay looking for the energy needed to stay in the game. Their strategy is simpler than most; forgo reproductive parts and instead invade another creature and hijack its cells in order to self-replicate.
 
-Viruses are so simple they need only a few dozen to sometimes a thousand genes. Humans have around 20,000 for comparison. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
+Viruses are far smaller, and simpler, than the animals, plants, even bacteria they exploit. Even with this difference in size and abilities, your virus got itself on the scoreboard at your expense.
 
 Why?
 
-Modeling clay is a metaphor for genes, which in the real world are made of DNA, or sometimes its simpler precursor, RNA. From eye color to gill size, genes are the chemical blueprints that determine every creature's genetic traits, what scientists call genotype.
+Not because it hurt you. Viruses don’t want to harm their hosts; it just happens when a host can’t replace its lost cells faster than the virus copies itself. Your virus scored because of that cough. Every cough sends its copies out to find new hosts. That’s what counts: not a short feast, but kids that carry on with a good chance of doing it all over again.
 
-Existing in the present isn't enough. The arrow of time means only the genes that make it into the future continue playing. That's why the scoreboard counts kids—they're how today's genes reach tomorrow.
+Kids are the points that put players on the scoreboard in the Game of Life.
 
-Usually this means direct offspring, but not necessarily, as many species protect family members via cooperative breeding (wolf packs, human extended families) or eusociality (ant colonies, bee hives). 
+Usually kids means direct offspring like progeny virions for viruses, saplings for trees, and children for mammals. But many species support the next generation in other ways via cooperative breeding (wolf packs, human extended families) or eusociality (ant colonies, bee hives).
 
-The scoreboard values kids no matter how they're supported.
+Kids are valuable because of the other game pieces. The game board always changes while the game clock always ticks away. To overcome these challenges, life, the creator of players, continually needs new ones.
 
-We know the game board always changes and the game clock always ticks away an organism's time. To overcome new challenges, creation of course needs new players. So, procreation obliges with repopulation, but provides something even more valuable. That is because almost all genes do not exactly copy themselves during procreation. Instead there are slight changes, giving each kid unique genes.
+And new doesn’t just mean more. The recipe for every player’s clay is written in genes, made of DNA or its simpler cousin, RNA. When kids are made, genes get shuffled, and now and then one mutates, so almost every kid carries a new combination.
 
-Meaning, kids not only repopulate life, but also develop new abilities too.
+This is pivotal. We know every time and place in the universe is unique, that's why life shuffles its genes, grows novel forms, and travels the environment. The Game of Life is about matching the unique requirements of the environment with the unique abilities of a lifeform.
 
-This is pivotal. We know every time and place in the universe is unique, now we know every single lifeform is too. The Game of Life is about matching the unique requirements of the environment with the unique abilities of a lifeform.
+Lifeforms try to make that match through the bodies they grow, like a tree growing its branches whichever way the light is. But one genotype can only become so many phenotypes. Eventually an animal gets too thirsty, or a tree can’t find enough sunlight.
 
-Lifeforms cannot do the matching themselves; they are already locked into their genotypes. What does the matching is evolution. Through natural selection, the genes best adapted to play the game persist—measured by how many offspring carry them forward.
+To match lifeform and environment over generations, something has to sort the players whose genes fit from those whose genes don’t.
 
-You can think of it as a coach who keeps whichever players score the most points. The points are kids, but kids who stand a good chance of having offspring themselves. Everything else is how you afford them: every efficiency found in growing, traveling, and hunting is energy freed up to spend on the next generation.
+That’s natural selection. Think of it as a coach who keeps the best-scoring players. Really, no one is choosing. Players whose kids go on to have kids of their own simply fill the next roster. Everything else a player does is how it affords them: energy saved finding water or food is energy freed up for more kids, or better-fed ones.
 
-This strategy works very well against entropy. Not only has life evolved from single-cell organisms to populate the planet. It's suffered five mass extinctions and yet still repopulated the planet each time. Notably, no extinct species has ever come back—what persists is life itself, through whatever lineages the next era's game board happens to favor.
+This strategy works very well against rising entropy. Not only has natural selection enabled life to evolve from single-cell organisms to populate the planet. It's allowed life to recover from five mass extinctions to do it all over again. Notably, no extinct species has ever come back. Life persists in whatever form the game board happens to favor.
 
-Here's why valuing procreation keeps winning the Game of Life.
+Prioritizing offspring is how life turns a scarce energy budget into more specialized players. If life creates the many different variations in lifeforms, natural selection edits from among them to evolve new species as the board changes.
 
-Prioritizing offspring is how life turns a scarce energy budget into more players, and uses the slight variations between them to evolve new species as the board demands.
+For example, brown bears are nearly identical to polar bears. They can even interbreed. By giving points to offspring, evolution slowly turned brown bears with lighter coats, living near the frigid Arctic, into polar bears. After enough points (kids), speciation happens, meaning a new bear species is made, one with a white coat, bigger paws, strong swimming, and a taste for seals. And the differences aren't only physical—speciation also shows up in behavior, like making sure to breed in line with the brief Arctic spring or knowing which seal-breathing holes to wait beside.
 
-For example, brown bears are nearly identical to polar bears. They can even interbreed. By giving points to offspring, evolution slowly turned brown bears with lighter coats, living near the frigid Arctic, into polar bears. After enough points (kids), speciation happens, meaning a new bear species is made, one with a white coat, bigger paws, strong swimming, and a taste for seals. And the differences aren't only physical—speciation also shows up in behavior, like breeding in time with the brief Arctic spring or knowing which seal-breathing holes to wait beside.
+The great benefit of speciation is like an insurance policy. With two large bear species playing the game, if the game board gets hotter or colder, life already has a winner waiting.
 
-And, with two large bear species playing the game, if the game board gets hotter or colder, life already has a winner waiting.
+The equilibrium between lifeforms, environment, and natural selection is not a truce. Every creature takes all it can when it can. Weather, competitors, distance, and time keep any one player from taking too much. Over generations, players that do more with less tend to come out ahead.
 
-If it could reflect on its interests, life would not wish any species an easy success. Not because a rule forbids it, but because a bear skilled enough to eat every seal would leave her cubs an empty coast and no grandchildren. Each lifeform gets the always-limited supply of water, nutrients, and warmth just long enough to procreate. Nobody negotiates this. Equilibrium is not a truce. Every creature takes all it can. Weather, competitors, distance, and time see to it that nobody gets much.
+The coach doesn’t just keep players. It fills game boards.
 
-No one intends it, but what happens as a result looks like cooperation inside an ecosystem: a community of plants and animals sharing an area, along with its climate, elevation, and water. BBC's Planet Earth shows them well—rainforests, grasslands, each one a web of creatures that know each other's sights and smells, often compete for the same sunlight, travel for the same grass, or even kill one another, and yet never agreed to anything. The ecosystem makes and gives pencils to its members, on the condition they don't take too much from the ecosystem that provides for them.
+No one intends it, but what happens as a result looks like cooperation inside an ecosystem: a community of plants and animals sharing in the work to harvest an area's resources. BBC's Planet Earth shows them well—rainforests, grasslands, coral reefs are each a web of creatures that know each other's sights and smells, often compete for the same sunlight, travel for the same grass, and yet never agreed to anything.
 
-There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem. This energy budget is a major factor in an environment's "carrying capacity"; the maximum population size of a species that an environment can sustain indefinitely, based on the availability of resources like food, water, and habitat. 
+So here is what evolution is: new species arising as natural selection keeps the players best able to harvest their environment and reliably raise kids. But why are there so many different kinds? Why not mass-produce one winner?
 
-It starts with producers (plants, phytoplankton) who convert energy to biomass. Plant-eaters (caterpillars, deer) who feed on the producers, fertilize soil, and sometimes spread seeds. Predators (lions, sharks) who prevent herbivores from overeating plant life. Scavengers (vultures, flies), who feed on dead and decaying organic matter. Decomposers (mushrooms, bacteria) to break down the dead to fuel the growth of new plants. And lastly viruses who test everyone for their strength in near real time (which I call testers, but note this is a simplification and not a traditional ecological classification.) Nobody is assigned these roles. They are open jobs and an open job is unclaimed energy, so something always evolves to fill it, not out of duty but because an empty role is the easiest living on the board.
+Life already had one. Remember, for more than a billion years, cyanobacteria filled the seas. This simple, robust, ubiquitous creature filled the world, but one creature couldn't use all the energy on the board.
 
-Maria's world worked the same way. Netflix started by renting DVDs by mail. The two technologies were on the game board at the same time. Nobody set out to end the video store. They could co-exist if people wanted them to. But ecosystems don't duplicate energy use for identical outcomes. Streaming found a faster route—a movie tonight, no drive, no late fee—doing the same job for less. Something is always trying to take that route, and evolution scores points for whoever gets there first.
+There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem. This energy budget is a major factor in an environment's "carrying capacity"; the maximum population an environment's food, water, and habitat can sustain.
 
-In short, ecosystems form around available energy. They are a web of checks and balances, where each creature grabbing what it can happens to hold the whole in balance.
+A single creature can never harness all this available energy. Solar intensity, water temperatures, atmospheric chemistry, and the other game board factors change too often. And once energy is stored in living things, in leaves, in meat, even in the sore throat of a kid who stayed up too late, each becomes a meal for someone else.
 
-Over time, natural selection acts on individual creatures, each competing for its share of that energy. Out of all that competition something larger emerges: a sprawling diversity of life, no single piece of it planned, that together makes the whole system hard to kill. When the climate shifts or a disaster strikes, that variety is the insurance—enough survives to rebuild. I think that's the real wonder of it: a system that keeps "passing the torch" of creation, carrying life forward through every change.
+So, to overcome every obstacle and harness all available energy, the coach came to favour mass-production, and diversity, to collect creatures into what we call ecosystems. Each new category helped keep the others from using too much energy or found an untapped source of energy like dead wood.
 
-All the species of an ecosystem share a carrying capacity, have similar game boards and game clocks, and therefore share much: seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must find untapped energy, they continually increase the conversion of matter into biomass, making an ecosystem an expansive force. 
+Every ecosystem has the same basic jobs. Producers, like plants and phytoplankton, use sunlight to build biomass. Plant-eaters, like caterpillars and deer, eat the producers, fertilize the soil, and sometimes spread their seeds. Predators, like lions and barracuda, keep the plant-eaters from overeating. Scavengers, like vultures and flies, eat the dead. Decomposers, like mushrooms and bacteria, break down what’s left to feed new plants. Testers, viruses and other germs, probe everyone’s defences. (Testers is my simplified term for this complex area.) Lastly, there are generalists like squirrels and raccoons that cross over many roles depending on what’s around.
 
-No individual reciprocates on purpose. But because every member of a species is nearly a copy of the rest, a trait that harvests energy well shows up in all of them at once, and keeps paying off generation after generation. No single species runs the whole ecosystem and none will ever succeed against entropy alone. Happily, the effect of every creature straining to live, and the sum of all that straining, is that life keeps pushing itself forward.
+Nobody is assigned these roles. They’re open jobs, and an open job is unclaimed energy. So something eventually evolves to fill it, not out of duty, but because an empty role is the easiest living on the board.
 
-By harvesting the same limited energy over and over, the creatures of an ecosystem end up bound together—not as a team with a shared goal, but as players stuck on the same board.
+Remember, life doesn’t create matter. It keeps matter organized and useful. The same atoms get used again and again, in leaves, in deer, in soil. But energy is different. It enters as sunlight, passes through each player once, and leaves as heat. 
+
+This means there's a never-ending energy flow through lifeforms.
+
+Follow the sunlight that lands on a meadow. Grass captures only about one percent of it and locks that into leaves. A deer eats the grass and keeps about a tenth of that energy; the rest powers its walking, warms its body, and drifts off as heat. A wolf eats the deer and keeps a tenth again. Entropy takes its cut every step in the energy flow. A million units of sunlight become ten thousand in the grass, a thousand in the deer, a hundred in the wolf.
+
+Fading energy is why the coach’s selection of better-adapted lifeforms works so well. There is so much waste that just a bit of newfound efficiency can go a long way.
+
+Once producers lock sunlight into leaves, the game clock starts ticking. Leaves wilt, meat spoils, corpses rot, and entropy quietly carries the energy off as heat. So it’s a gold rush. Producers race to catch sunlight before it fades. Plant-eaters race to the leaves before they wither. Predators race to catch the plant-eaters before they move on. Scavengers and decomposers race to whatever’s left.
+
+Still, what’s left is enough to fill every role and fund the next generation. Ecosystems form around available energy: a web of checks and balances, where each creature grabbing what it can happens to hold the whole in balance.
+
+Maria's world worked the same way. Netflix started by renting DVDs by mail. DVDs by mail and streaming were on the game board at the same time. Nobody set out to end the video store. They could co-exist if people wanted them to. But ecosystems don't duplicate energy use for identical outcomes. Streaming found a faster route—a movie tonight, no drive, no late fee—doing the same job for less. Something is always trying to take that route, and evolution scores points for whoever gets there first.
+
+By harvesting the same limited energy over and over, the creatures of an ecosystem end up bound together—not as a team with a shared goal, but as players stuck on the same board with the same seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must find untapped energy, they continually increase the conversion of useless matter into useful biomass, making an ecosystem an expansive force. 
 
 That distinction matters. Remember the Jumanji movies: strangers pulled into a board game, each with a different skill—strength, speed, map-reading—who survive only by pooling those skills against the game itself. That is a real team, because they share one enemy. Life has a team like that too, and its enemy is entropy: every living thing, everywhere, is fighting the same slow pull toward cold and stillness. Against *that*, all living things harvest energy just to hold themselves together. Not figuratively. Stop, and the atoms go their separate ways.
 
-But against each other, the players are rivals. A polar bear and a seal aren't teammates—they want opposite things. They are **boardmates**: creatures whose games are tangled because they're playing the same board. The seal and the bear. The virus and your cough. The DVD and the streaming box. Individually, they have no shared purpose but when they share a game board they must make a sustainable ecosystem.
+But against each other, the players are rivals. A polar bear and a seal aren't teammates—they want opposite things. They are **boardmates**: creatures whose games are tangled because they're playing the same board. The seal and the bear. The virus and your cough. The DVD and the streaming box. Individually, they have no shared purpose but when they share a game board they make a sustainable ecosystem.
 
 Put simply: every lifeform is doing as little as it can while still getting the job done. Not from laziness of character, but because energy is scarce and whatever is saved goes to growth, defence, or offspring. And when organisms get more out of the same budget, the ecosystem supports more life on the same sunlight.
 
-Finding lifeforms who can harness untapped energy is evolution's result. Aerodynamic birds, hydrodynamic fish, hopping kangaroos, fluffy bison—the list of adaptations that conserve energy is endless. Lifeforms that reciprocate with each other, on purpose or not, unlock more efficiency still. Boardmates always compete at the edges, but they reciprocate too. None can remove the others entirely, because no lifeform can operate an ecosystem alone. Reciprocation works in a competing ecosystem because every role must have the energy to pay for travel, warmth, and rearing young.
+Evolution keeps finding players that do more with less: aerodynamic birds, streamlined fish, hopping kangaroos, shaggy bison. And boardmates, while always competing at the edges, also reciprocate, on purpose or not. None can remove the others entirely, because no lifeform can run an ecosystem alone.
 
 When every role is just barely paying its own way, the board is in equilibrium.
 
-A flower feeding a bee is an obvious example of boardmates reciprocating, but for a non-obvious example, take your virus. A body that can't fight it off is also a body unlikely to raise healthy offspring. The virus offers you no service; it wants exactly what you want, another turn. But by ending a game the weak were already losing, it clears a role the board had left open, and the energy that player held returns into play. Nobody arranged it, but it happened nonetheless.
+A flower feeding a bee is an obvious example of boardmates reciprocating, but for a non-obvious example, take your virus. It wants exactly what you want: another turn. In civilization we support the sick with extra food, rest, and medicine. But in the wild, germs press hardest on bodies already running low. A deer too underfed to fight off an autumn infection was unlikely to survive winter, and its share of food goes to the herd. Germs also hit whatever is most common, keeping populations mixed. Nobody arranged it, but testers keep the herd within its budget and varied enough for the next change.
 
-The polar bear is the same truth from the other side. She takes every seal she can catch—there's no restraint in her. But she *can't* take them all, and that isn't luck. She and the seal have shaped each other for a million years, her speed against its escape, until neither can win outright. Her limits aren't a choice; they're an adaptation. She is built not to empty the coast. The proof is the penguin—drop that same bear on an Antarctic shore and she kills until nothing's left, because nothing there was ever shaped by her. Even though they are playing the same game against entropy, a seal is a boardmate, a penguin is not. 
+The polar bear is the same truth from the other side. She takes every seal she can catch—there's no restraint in her. But she *can't* take them all, and that isn't luck. She and the seal have shaped each other for hundreds of thousands of years, her speed against its escape, until neither can win outright. Neither limit is a choice; they're an adaptation of bear and seal being near equilibrium. The proof is the penguin—drop that same bear on an Antarctic shore and she kills until nothing's left, because nothing there was ever shaped by her. Even though they are playing the same game against entropy, a seal is a boardmate, a penguin is not. 
 
-One is a counter-balance, the other is a dream. Lifeforms are innately lazy, always trying to do more with less because that is exactly what selection rewards. But laziness cannot tell the difference between finding a cheaper way to pay the bill and telling yourself the bill isn't owed. A polar bear catching seals prevents over-grazing and contributes to the efficient energy flow of an ecosystem—that is how predators pay their bill to evolution. The easy kill of the penguin feels like the same instinct. It isn't, and it is what fuels every dream of escaping entropy's pains through artificial means.
+Every lifeform is built to do more with less. But a lifeform cannot tell the difference between finding a cheaper way to pay the bill and telling yourself the bill isn't owed. A polar bear keeps seals from overfishing and contributes to the efficient energy flow of an ecosystem. The easy kill of the penguin feels like the same instinct. It isn't, she's skipping out on the bill and the boardmates can only replace her excess for so long.
 
-Lifeforms battle at the edges for daily survival, whether it's hunter chancing prey, or trees racing for sunlight. They need to battle, because over time, this keeps each other doing their ecological role. Wanting to kill each other but never eliminate each other is not a contradiction. Schoolmates and bandmates fight for spots all the time. That doesn't mean they don't have a shared interest too.
+Lifeforms battle at the edges for daily survival, whether it's hunter chasing prey, or trees racing for sunlight. They need to battle, because over time, this keeps each other doing their ecological role. Wanting to kill each other but never eliminate each other is not a contradiction. Schoolmates and bandmates fight for spots all the time. That doesn't mean they don't have a shared interest too.
 
 Same for our boardmates and the calories they must find in their shared ecosystem to push entropy back for another day.
 
-The last lesson of this gift is in its name: it's the Game of Life, not the Game of You. You don't win by serving a team of rivals—you win by making your own moves on a board you share, while all of you, together and unknowing, hold back the dark a little longer. Outsiders aren't evil, but they arrive with no shared history to fit into, and so they can break a board that never made room for them—the blights that took the American chestnut and the ash, the disease that hollowed out the orange groves. A polar bear loose in Antarctica would be one more of them: no penguin ever learned to fear her, so the whole species might perish.
+The last lesson of this gift is in its name: it's the Game of Life, not the Game of You, Me, or anyone else. We don't win by combating a team of rivals—we win by making our own moves on a board we share, while all of us, together and unknowing, hold back the dark a little longer.
+
+Outsiders aren't evil of course. They are simply those not integrated into the board. The blights that took the American chestnut, the beetle killing the ash, the disease that hollowed out the orange groves are adapted to other ecosystems. A polar bear loose in Antarctica would be one more of them: no penguin ever learned to fear her.
 
 Of course, individual creatures know none of this. They are bits of clay already hardened, inside the game, unable to stand above it. So each one simply fights to survive—bison bulls battling for a herd, a tiger running down a deer, a Venus flytrap folding over a wasp.
 
@@ -802,25 +820,25 @@ Not this game, though. Its sequel, which runs by rules so much like these. Let's
 
 ## Story—The Bell
 
-Everyone assumes insurance adjusters succeed by underpaying claims. Lowball, short-change, screw people over—that's what the public thinks.
+Most people assume insurance adjusters succeed by underpaying claims. Lowball, short-change, screw people over—that's what the public thinks.
 
 In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
 
-Here's why: we were only barely measured on accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew that brokers could send customers to other companies.
+Here's why: we were barely measured on payment accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew (and were reminded) that an unhappy broker could send customers to other companies.
 
-So the inbound caller hold metric became everything.
+So the inbound caller hold time became everything. 
 
-To enforce it, they played a bell in our headsets. When someone was on hold, it rang: DING, DING, DING. A monotone alarm that never stopped until you picked up. A sound fit for a torture chamber.
+To monitor it, the call-in queue was displayed on monitors for everyone to see. To police it, the company played a bell in our headsets. When someone was on hold, it rang: DING, DING, DING. A monotone alarm that never stopped until you picked up. A sound fit for a memory test or torture chamber.
 
-If the bell wasn't enough motivation, a manager would message: "ANSWER THE QUEUE." If that didn't work, they'd force calls through without warning—sometimes hanging up on whoever you were already helping.
+When the bell rang too long, the public screen would go red. Then a manager would direct message: "ANSWER THE QUEUE." If that didn't work, they'd force calls through to us without warning—sometimes hanging up on whoever you were already helping.
 
-We had other work: emails from waiting customers, investigations, outbound calls. But none of that was tracked nearly as much. Just the bell.
+We had a lot of other work to do. Emails from waiting customers, calling police departments for investigations, making outbound calls to repair or rental stores. But none of that was tracked nearly as much. Just the bell.
 
-So we adapted. "Just pay it," managers would say. Some adjusters falsely marked claims "not at fault" to avoid the lengthy verification with the other insurance company. They'd take the customer's word and move on.
+Under that much time pressure, we adapted. Some worked on weekends. Others were very curt to customers. Some adjusters took the customer's word and didn't investigate fault. But the easiest time-saver was, as our managers would often say when money was the dispute, "just pay it".
 
 Anything to stop the bell.
 
-Adjusters' personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through rushed conversations.
+Adjusters' (and managers') personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away. I had to massage my jaw on the drive home from stuttering through so many rushed conversations.
 
 We were often more stressed than the people who'd just been in crashes.
 
@@ -830,13 +848,13 @@ The company got what they measured: fast answer rates.
 
 They also got inflated claims, burned-out adjusters, higher insurance rates, and a system that rewarded speed over truth.
 
-One more claim down. One less call to make that freaking bell ring.
+One more claim down. One less caller to make that freaking bell ring.
 
 ## Chapter 7—What Does the Game of Life Mean
 
 Before we press start on the Game of Technological Life, there's something to say about the Game of Life.
 
-The game is a relatively accurate way to describe life's time on Earth, but not perfect. Specialists could highlight problems with the metaphor. For starters, when assessed in detail, entropy is much more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity (for example black holes, traveling near light speed), so are not truly "universal laws". However, these extremes are rarely a factor for us, and entropy's details don't change its overwhelming tendency to decompose matter. So it's fair to say the booklet of natural laws is all but absolute in our experiences. 
+The game is a relatively accurate way to describe life's time on Earth, but not perfect. Specialists could highlight problems with the metaphor. For starters, when assessed in detail, entropy is much more complex than just "degrading things". Also, the natural laws have many exceptions, especially at the extremes of temperature, velocity, gravity (for example black holes or traveling near light speed), so are not truly "universal laws". However, these extremes are rarely a factor for us, and entropy's details don't change its overwhelming tendency to decompose matter and evaporate heat. So it's fair to say the booklet of natural laws is all but absolute in our experiences. 
 
 However, we should go into more detail about evolution's selection methods.
 
@@ -1024,7 +1042,7 @@ That money is called a reserve. During a claim call, the adjuster estimates what
 
 _(A real call runs over twenty minutes. This is the short version.)_
 
-BEEP.
+DING.
 
 "Thanks for calling claims, this is Peter."
 
@@ -1069,7 +1087,7 @@ _I'll reserve $70,000 because there'll be repair parts delays on the German car,
 
 Insurance pays just above half of premiums back as claims. Covering this claim is roughly $140,000. Nevermind the traffic, injuries, and other costs. Eight to twelve more claims today.
 
-BEEP. BEEP. BEEP.
+DING. DING. DING.
 
 ## Chapter 9—Spreading the Technological Soil
 
@@ -1525,7 +1543,7 @@ Gravity has a field. Electromagnetism has a field. These are physical forms. Nat
 
 Evolution has no field. Life has no outside control but the will to keep assembling matter into something useful. Life pushes itself forward by making unique copies of itself. Whichever lifeforms happen to work best in the environment procreate more often and thus form the species who represent life on the game board.
 
-Thus evolution selects individuals. Alone. It doesn't wait for a group or a movement to form. Seeing that clearly is what this book is for. As renowned biologist Ernst Mayr says, "individual life forms are the unit of selection."
+Thus evolution selects individuals. Alone. It doesn't wait for a group or a movement to form. Seeing that clearly is what this book is for. As renowned biologist Ernst Mayr says, "individual lifeforms are the unit of selection."
 
 Evolution counts one lifeform at a time. That means you and whatever you're holding.
 
