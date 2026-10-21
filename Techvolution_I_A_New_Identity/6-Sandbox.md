@@ -6046,3 +6046,62 @@ No individual reciprocates on purpose. But because every member of a species is 
 
 
 ===
+
+What deserves more detail is how the coach's selection evolves new species.
+
+Because natural selection isn't the only way life picks genes. Other mechanisms include sexual selection, where mates (usually females, but sometimes both sexes) select a partner for fitness indicating traits like feather color, or for novel traits, which is perhaps how things like tusks got their start. Genetic drift is when genes change by chance, like when genetic diseases become common among isolated settlements just because the few founders had them. Then there's gene flow, where species once diverged into separate pockets but reintegrate later to once again exchange their genes, polar and brown bears mating to create "hybrid" offspring is a current example.
+
+Co-evolution is another. Here two species become each other's environment. They appear as partners to a casual observer, but really both apply pressure the other must continually adapt to. Flowers and bees shape each other over millions of years: longer nectar tubes, longer tongues, neither intending the fit. In the short term, the result looks like partnership, in the long term it's really just two players locked on the same board, each using the other to advance itself.
+
+Epigenetics is another way variation shows up, but with an important difference. Epigenetics is like a sophisticated control system for your genes. Imagine your DNA as a vast library, and epigenetic mechanisms are the librarians that decide which books (genes) get read and which remain closed. So while genes never change during a lifetime, which genes get read does—sometimes shaped by conditions before birth.
+
+For example, Dutch children who were in the womb during the 1944–45 famine went on to have higher rates of obesity, diabetes, and cardiovascular disease. And since a woman's lifetime supply of eggs forms while she is herself a fetus, those eggs were in the famine too. One starvation event had three generations physically present for it.
+
+Whether epigenetic "lessons" reach into future generations is unknown and being studied. Plants pass epigenetic changes down freely, and some worms carry them for dozens of generations. For mammals, biologists are still arguing about how and when we pass on epigenetic markers.
+
+It's an important field to study because epigenetics is nature's way of allowing organisms to mildly react to their environment without rewriting their entire genetic instruction manual.
+
+Epigenetics is one of the mechanisms behind what we call the phenotype, these are the observable physical, biochemical, and behavioral characteristics of an organism that result from the interaction between its genotype and the environment. Two acorns growing, one in sunshine, the other in a forest shade, will grow to be two different looking trees, even if having the same genes.
+
+However, life experiences never rewrite genes; only how they're expressed. Biologists call this the Weismann barrier, which says the genetic germline stays sealed off from what the body learns. So, a lifetime of knowledge and hardship dies with you, passing on only through the narrow channel of epigenetic inheritance. Even that is contested: some neo-Lamarckian biologists push back, which is a healthy reminder why our "laws" should stay open to question.
+
+...
+
+The natural laws of physics, chemistry, geology, and biology, all have important differences between the Game of Life metaphor and reality, but for our purpose of upgrading our players with a new identity, this game is indeed a valuable gift. 
+
+Because it demonstrates why nature works as it does in the biological world, and so helps us understand the Game of Technological Life we are striving to win.
+
+...
+
+They each need to invent structural engineering (skeletons, framing) to combat gravitational forces, aerodynamics (birds, planes) and hydrodynamics (fish, ships) to move efficiently through air and water, and thermodynamics to keep warm, or cool, in various environments (fur, panting). We even track biology and technology developments using very similar tree charts. These graphical representations show the evolutionary relationships among various species as branches on a tree, based upon similarities and differences in their genetic or physical characteristics.
+
+The Game of Life metaphor makes it easier to understand why biology and technology cross over so much. They have the same booklet of natural laws, game board, sand clock, and therefore must survive the same pressures from gravity, radiation, mechanical stress, energy loss, evaporation, and other forms of dispersing matter.
+
+===
+
+We accept that sloths are always slow, ants always serve their colony, elephants always love their families. We accept every creature has unique natures. That doesn't mean every individual lifeform is always predictable, but it does mean creatures have features, requirements, and instincts that can't be changed because these are the traits that kept paying off when the coach was selecting lifeforms for the board.
+
+
+Our current playing is poweful and unweidly. By weight, humans and our livestock now make up the great majority of mammal life on Earth by weight. Every wild whale, elephant, deer, and mouse is a small remainder. About a third of assessed fish stocks are taken faster than they replenish. Whatever you call it, the forests, fisheries, herds, and flocks our ancestors harvested with ease are thinner now, and in many places gone.
+
+This is most certainly being caused by humanity's use—and misuse—of technology. Technology lets life spread into new niches and hold back entropy where it otherwise couldn't. We can start choosing better. A self-aware selector aims at the same target blind nature does, but aims better and shoots faster, and eats the energy savings to keep doing it.
+
+This evidence of our power to create. Now we need to adopt the power to select.
+
+
+===
+
+## Chapter 16-Epilogue
+
+_What you see when you look at intelligence [polygenic scores predicting educational attainment] is that this maxes out in the Bronze Age, between 5,000 and 2,000 years ago. The impact in the last 2,000 years is almost nothing. There's no evidence of natural selection at all. Your bias coming into this, my bias perhaps, might be that if there's any signal of natural selection on this trait at all, that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years._
+
+Dr. David Reich
+Professor of genetics at Harvard Medical School
+Dwarkesh Podcast, May 8, 2026.
+dwarkesh.com/p/david-reich-2
+
+---
+
+I came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like hair color or sharp eyesight we inherited, are effectively tailbones now. As technology helps people regulate temperature or spot dangers, our bodies become ever more like relics of a world that selected flesh, living inside an ecosystem selecting tools and their users.
+
+===
