@@ -6105,3 +6105,11 @@ dwarkesh.com/p/david-reich-2
 I came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like hair color or sharp eyesight we inherited, are effectively tailbones now. As technology helps people regulate temperature or spot dangers, our bodies become ever more like relics of a world that selected flesh, living inside an ecosystem selecting tools and their users.
 
 ===
+
+
+Meaning the technological evolution this book advocates has been driving human evolution for generations. To varying degrees, an ecosystem fields producers, plant-eating consumers, predators, scavengers, decomposers, and testers—because each level has energy waiting to be harvested. Human temperaments fill these niches just as animals do: hoarders, tinkerers, makers, and the rest. A coach keeps whoever keeps scoring energy points, but never pre-assigns roles to anyone. The jobs are open, and over time, someone always grows into them to complete a balanced ecosystem full of checks and balances.
+
+In the technological ecosystem, varied human genotypes and phenotypes use the extended phenotype to fill distinct ecological roles: producers (farms, power plants), tool-using consumers (workers, homeowners, drivers), predators (innovators), scavengers (thrift buyers, auction goers), decomposers (recyclers, refactorers, waste managers), and testers (tinkerers, hackers, and crooks). Like any biological ecosystem, these segments work together to better play the game.
+
+
+===
