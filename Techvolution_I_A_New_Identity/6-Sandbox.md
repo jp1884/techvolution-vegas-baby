@@ -6113,3 +6113,41 @@ In the technological ecosystem, varied human genotypes and phenotypes use the ex
 
 
 ===
+
+terms
+
+From an ecologist's perspective, a chimpanzee is an omnivorous, frugivore-dominant primate and keystone species of tropical African rainforests and woodland savannas.
+
+They occupy a high trophic level, eating fruit, leaves, insects, and occasionally meat. Crucially, they are a seed disperser — spreading the seeds of the fruit they eat across wide areas, making them a significant architect of forest composition and regeneration. Remove chimps, and the plant community shifts noticeably over time.
+
+In short: a large-brained, socially complex frugivore that helps build the forest it lives in.
+
+--
+
+A squirrel is a small, omnivorous rodent and one of the most important seed dispersers and accidental foresters in temperate ecosystems.
+
+They are primarily granivores — eating seeds, nuts, and fungi — but also consume insects and bird eggs opportunistically. Their defining ecological role comes from scatter hoarding: burying thousands of seeds and nuts as winter food caches, then forgetting a significant portion of them. Those forgotten caches germinate. Squirrels are, in a very real sense, involuntary tree planters, and oak forests in particular owe much of their spread to them.
+
+In short: a small prey species and unintentional ecosystem engineer that plants forests one forgotten nut at a time.
+
+--
+
+A raccoon is a medium-sized, highly opportunistic omnivore and one of the most ecologically flexible mammals in North America.
+
+They occupy a broad niche, eating almost anything — fruit, nuts, insects, fish, eggs, small vertebrates, carrion, and human refuse. This dietary generalism makes them what ecologists call a generalist species, thriving across wildly different habitats from deep forest to urban centers. They play a modest role in seed dispersal and insect population control, but their most notable ecological function is as a mesopredator — keeping populations of invertebrates, small fish, amphibians, and bird eggs in check.
+
+They are also an important prey species for larger predators like coyotes, bobcats, and great horned owls, making them a meaningful link in food webs.
+
+In short: an adaptable, opportunistic mesopredator and dietary generalist that connects multiple trophic levels and thrives wherever food exists.
+
+--
+
+An urban raccoon is essentially the same animal operating as a synanthrope — a wild species that has adapted to and benefits from human habitation — and its ecological role shifts meaningfully as a result.
+
+In the city, it functions primarily as a scavenger and waste processor, feeding on garbage, compost, pet food, and discarded human food rather than hunting or foraging in any ecologically meaningful way. Its role as a mesopredator persists — it still raids bird nests and preys on urban wildlife — but it is largely decoupled from natural food webs, no longer depending on or significantly regulating any native prey population.
+
+Urban raccoons also tend to reach unnaturally high population densities, far beyond what a natural ecosystem would support, because human food waste provides a virtually unlimited, low-effort energy source. This makes them more of an ecological pressure on urban biodiversity — raiding songbird nests and competing with native wildlife — than a constructive ecosystem participant.
+
+In short: a synanthrope that has traded its natural ecological role for one built on human waste, existing largely outside functional food webs and acting more as a stressor on urban biodiversity than a contributor to it.
+
+===
