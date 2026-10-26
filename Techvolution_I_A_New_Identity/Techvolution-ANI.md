@@ -1567,7 +1567,7 @@ But something is still missing. If the tool creation pipeline needs all perspect
 
 So who decides? It can't be an ideology as they can't pick winners or assign roles. It is someone who is well practiced in selecting the players of the wonderfully moderate ecosystem.
 
-It's the coach who selects if AI will take your job or not. And now it's time to met the coach in the Game of Technological Life.
+Will AI take your job? You can soon answer that yourself. It’s time to meet the coach in the Game of Technological Life.
 
 ## Story—New Tools
 
@@ -1623,93 +1623,97 @@ Keep note, it's not just _them_ who reject new tools.
 
 ## Chapter 14—Meeting the Coach
 
-Gravity has a field. Electromagnetism has a field. These are physical forms. Nature doesn't give us an ingredient list, but we've tested and prodded these areas enough to name their features and understand their actions very well.
+To us, in everyday life, everything falls downward. It seems the heavier a thing is, the faster it falls, the harder it hits, and the more sweat it takes to move it. In order to walk, run, or jump, the skeletons, muscles, and instincts of squirrels to tigers must adapt to this rule of the game.
 
-Evolution has no field. Life has no outside control but the will to keep assembling matter into something useful. Life pushes itself forward by making unique copies of itself. Whichever lifeforms happen to work best in the environment procreate more often and thus form the species who represent life on the game board.
+When we became self-aware, peoples across the globe had to explain.We used stories, often using the stellar objects as characters in the grand explanation of the cosmos. With these numberless mythologies came the means to know the seasons and how to navigate.
 
-Thus evolution selects individuals. Alone. It doesn't wait for a group or a movement to form. Seeing that clearly is what this book is for. As renowned biologist Ernst Mayr says, "individual lifeforms are the unit of selection."
+Soon, some people tried to move beyond our perceptions and find the rules that governed our world. Aristotle was among them, and he used philosophy to explain many things, among them why some things fall, others float, and what the stars are. He said things have a natural place, and thus heavier things like soil and rock fall down, while lighter things like fire and air rise up. Earth was thus the center of the cosmos, with lighter things moving around it like leaves caught in the wind.
 
-Evolution counts one lifeform at a time. That means you and whatever you're holding.
+Aristotle's geocentric astronomy followed. It out-competed the heliocentric system of Aristarchus, which couldn’t explain why, if the Earth moves, the stars never appear to shift. The geocentric Ptolemaic astronomy and star charts guided navigators on land and sea and told farmers the seasons quite well, as long as they were updated every few decades.
 
-Rome was not built in a day and dinosaurs weren't born in a million. All of life's extravagance has come in small iterative steps of a single lifeform. Although slow, evolution is a universal, unstoppable force that we can see in real-time naturally selecting some individuals over others.
+Eventually a history of errors piled up and fueled questions. Copernicus found Aristarchus's forgotten heliocentric ideas and updated them with modern mathematics. Galileo used a telescope to see Jupiter's moons and proved not everything moved around the Earth. Tycho Brahe took fantastically accurate stellar records and tried to merge the two astronomies. His assistant, with bad eyesight but excellent math Johannes Kepler did years of calculations and eventually saw something else in the data.
 
-Just look at polar bears encountering a melting Arctic. Depending on geography, some become more aquatic hunters, some find nesting birds, others hunt reindeer, many stay unchanged, and some are selected to die. These are only a few examples of the branches of the tree of life growing in whatever direction the local niche allows.
+The planets do not move in perfect circles as everyone had always assumed. Each moves in a slight oval. Despite not knowing why, Kepler wrote the laws of planetary motion. Newton took these laws, invented a new math to understand them, and wrote the universal laws of motion. It was here that someone understood that things, from the baby crawling on the ground, to the stars above, move according to the same laws. Newton's math was spectacularly accurate, although the underlying cause of gravity was a mystery.
 
-The point is that while families, flocks, species, ecosystems share much in common, it is each individual that pushes life forward. There is no group think, because there is no shared selection.
+Enter Einstein. Gravity is not the force we experience in everyday life like hammer and anvil, but a curvature of spacetime. Mass and energy bend it, while objects follow its curves. With Einstein our astronomy is now accurate enough to predict eclipses centuries into the future and keep GPS accurate to within a few feet.
 
-Whoever can find a niche as a scavenger, grazer, predator or other ecosystem role is selected. But no one serves their ecosystem. The squirrel doesn't live for anyone else—she serves herself and her kids, the same way the oak tree does. Their constant cooperation and reciprocation in a healthy ecosystem is by default not by intent.
+As we meet the coach, this brief history of astronomy shows us something vital. 
 
-Biological players don't need to realize evolution's rules. If a tree produces few nuts, or its nuts are not nutritious, it will be outplanted by the ones who are. In nature, if a lifeform doesn't play the game, the coach finds someone who does. Better reciprocating boardmates are naturally selected.
+All life lives on the game board and therefore is bound by rulebook to find and harvest pockets of useful energy to keep itself organized. Whether by mutation of new genes or the learning of new lessons, the ones who succeed make more copies of themselves, and thus form the species who represent life.
+
+We've already made the point that a species is a combination of genotype, phenotype, and extended phenotype. Ideas are part of our extended phenotype, and like any adaptation, they evolve.
+
+There was no mass understanding of astronomy and gravity. Like the mutation of a dark peppered-moth, each new step was first adopted by a few people. While ideas often need tools like abacuses, telescopes, and computers to develop, ideas evolve like genotype, phenotype, and extended phenotype do.
+
+And that is because of who the coach is. 
+
+Evolution selects individuals. Alone. We can of course help a nephew or defend a stranger, but the main focus is still an individual. Evolution doesn't wait for a group or a movement to form. As renowned biologist Ernst Mayr says, "individual lifeforms are the unit of selection."
+
+Evolution counts one lifeform at a time. That means you and whatever you're holding and whatever you believe. Gravity doesn't act on our cells. A navigator must move her body north or south. The player of the game is an individual. Seeing that clearly is what this book is about. An individual needs energy to stay together, which means it exists in the lifecycle of useful to useless energy.
+
+Whichever individual finds a niche as a scavenger, consumer, predator or other ecosystem role and has kids, is therefore selected to keep doing it.
+
+Biological players don't need to realize evolution's rules. A dog or shark will never understand gravity or use star charts. They don't need to. If a tree produces few nuts, or its nuts are not nutritious, it will be outplanted by the ones who are. Biological life adapts to the rulebook by trial and error. Boardmates that harvest more energy for their ecosystems are naturally selected without ever realizing the dimensions of the world they live in.
 
 We do need to realize this.
 
-Because we have choice, we can practice artificial selection. We can be raccoons taking from an ecosystem and giving little back. We can use ideology to select our own boardmates and think the coach won't ever be knocking on our door. While we've studied physics, chemistry, and biological evolution very well, we have not studied technological evolution enough to understand or prevent this. As a result, this is an all too easy mindset for us to have.
+Because we have choice, we can practice artificial selection. We can be raccoons taking from an ecosystem and giving little back. The squirrel plants forests by accident. We’re the first player who can plant on purpose.
 
-In the early 1980s Yuri Andropov ran the all-powerful Soviet spy agency KGB and then the entire country as virtual dictator. When speaking to his leadership comrades he admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its economy and people. The man with the world's best intelligence apparatus did not understand why his reports said prosperity and progress, while the country's food market shelves were empty, coal miners didn't have soap to clean their faces, and nuclear power stations were blowing up.
+In the early 1980s Yuri Andropov ran the all-powerful Soviet spy agency KGB and then he ruled the entire country as virtual dictator. When speaking to his leadership comrades he admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its economy and people. The regime with the world's best intelligence apparatus did not understand why its reports said prosperity and progress, while the country's food market shelves were empty, coal miners didn't have soap to clean their faces, and nuclear power stations were blowing up.
 
-Such is the power of a human belief system.
+Such is the power of human belief systems.
 
-As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a human one, that happens whenever the distance between selecting tools and its consequences gets too far apart. Allied generals had bunkers and battle plans ensuring victory, the same way Soviet leaders were planning an entire economy, the same way kings had grand palaces and spiritual reasons why they were born to rule. And this is what studying techvolution will help us understand and address.
+As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a human one, that happens whenever the distance between selecting tools and its consequences gets too far apart. Allied generals had bunkers and battle plans ensuring victory, the same way Soviet leaders were planning an entire economy, the same way kings had grand palaces and spiritual reasons why they were born to rule.
 
-We start by understanding every individual is the unit of selection. Like all lifeforms, every person is trying to be as lazy as possible. So, everyone inside these echo chambers could act rationally in pursuing a better job and still be collectively doomed. 
+While we've studied physics, chemistry, astronomy, and biological evolution as sciences, we have not studied technological evolution.
 
-Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies. Heck, String Theory went from possibly explaining the biggest secrets in physics in the 1990s to now openly mocked for its inability to produce a single testable prediction. Everyone knew it might end this way, and it was always okay to say so. Now cutting-edge funding and students drift elsewhere while its defenders are allowed to keep researching.
+Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies. Heck, String Theory went from possibly explaining the biggest secrets in physics in the 1990s to now increasingly sidelined for its inability to produce a single testable prediction. Everyone knew it might end this way, and it was always okay to say so. Now cutting-edge funding and students drift elsewhere while its defenders are allowed to keep researching because, after all, it took decades for Copernicus's ideas to get the evidence they needed to become obvious.
 
-Physics has this freedom because it measures external forces and values prediction and results above position and intent. That's the environment we can have to help us sort, see, and remove human error faster in identity, politics, and economics.
-
-We can measure growth, speciation, migration, predators, and grazers because each has a role in the energy flow. The same as in any biological ecosystem.
+Physics and the other sciences have this freedom because they measure external forces and value prediction and results above social position and intent. We can measure technological growth, speciation, migration, predators, and grazers because each has a role in the energy flow. The same as in any biological ecosystem.
 
 We already do much of the work. Industrial ecology tracks material and energy flows through economies the way an ecologist tracks them through a forest. Life-cycle assessment measures what a product costs from extraction to disposal. Diffusion research measures one technology displacing another. Insurance assesses failure risks in vehicles, homes, businesses.
 
-What's missing is joining these insights into a unified account of where our food, warmth, and transport actually come from, and the rules of nature that govern their health, growth, divergence, and death.
+What's missing is joining these insights into a unified account of where our food, warmth, and transport actually come from, and the rules of nature that govern their health, growth, divergence, and death. It's like trying to understand the ecology of a forest without knowing about evolution that slowly configured the oak, lotus, bee, raccoon, and squirrel who make it up. 
 
-It's like trying to understand ecology without knowing about evolution. Or charting the stars for a thousand years without knowing what moved them. There's no unifying ruleset, no origin story, no common force that binds their fates.
+And, as we near meeting the coach, it's helpful to note developing our understanding ecology, zoology, and biology was quite similar to the history of gravity and astronomy.
 
-But when we measure the energy consumed and gained, and ask whether it is more efficient than yesterday, then we can check ourselves against whatever stories we tell. More sunlight through the cracks of whatever bunkers and palaces we build.
+It started with mythological stories from peoples around the world. Aristotle looked for natural truths, and grouped animals by visible traits such as blood or no blood, and live young vs. eggs. As explorers brought back many new species from around the world, naturalists began sorting organisms into genera and species like a tree having fleshy fruit or dry seed pods.
 
-Before we can become the new modern squirrel to better assess our tool options (mixed ideological politics) and plant trees by default (bumble bee economics) we must change our identity. 
+Carl Linnaeus (1707–1778) formalized this approach as a nested hierarchy (kingdom, class, order, genus, species). Each species received a two-part name, like Tyrannosaurus rex or Homo sapiens. This system worked well, but naturalists still defined a species based on what they could see.
 
-A new identity is being a self-aware selector inside a technological ecosystem. Realizing with every choice you make, you are the coach in the Game of Life. You always were because we replaced nature's coach with ourselves a long time ago. What changes is knowing this defines identity, politics, and economics more than any story.
+Darwin changed the meaning of those groupings. He showed that species can be related without looking alike. For example, the Galápagos finches have very different beaks, good for eating seeds, insects, or nectar. Yet despite this different appearance, they descend from the same finches who landed on the remote islands. Classification by common descent organized the myriad species into a coherent tree that's largely held up to genetic testing. How else would we explain why hippos and whales have similar DNA.
 
-Your daily actions are the only way humanity plays the game. Not your beliefs. Not your intent. Natural selection is just a consequence of which organism can best harvest resources and procreate. The coach always judges your actions not your beliefs.
+As in physics and astronomy, each of these ideas was adopted because it explained the natural world better than the last. Like with gravity and the planets, the species themselves never changed being who they were. Our labels of them slowly became more of their natural identities. Each new understanding got closer to nature’s answer because it was a universal understanding that did not depend on the story of the person telling it.
 
-Choosing to compost your daily banana keeps matter alive and useful. Opting for the stairs trains your cardio to help insulate against entropy's attacks. Repairing an old appliance saves much material and energy. Calling an old friend rekindles a fading friendship. Having pictures of your damaged car makes a claim go much faster.
+This same process applies to us here and right now in our identity, politics, and economics.
 
-These are the actions that fight entropy and bring prosperity. Not doing them is what loses it. They are not complicated any more than planting a nut is. They are just helpful and constantly done by successful units of selection. Beliefs are not judged directly, but by how much they support these simple actions.
+We didn't know gravity was the universal law governing all movement. We didn't know natural selection of lifeforms evolved new species.
 
-Nature doesn't hand out name-tags. We don't actually know what an iron atom calls itself. We also don't know a tiger by its thoughts. Instead we observe the effectual truth of nature. Thus we know iron has 26 protons and melts at 1,538 C. We know a tiger by its stripes, its niche, and what it does to everything around it.
+And if you realize humans use technology to harvest the energy we need to eat, shelter, keep warm, stay cool, move around, and that the lifeforms that are more efficient create a higher carrying capacity and so procreate more readily, then you can work with nature the way a physicist, astronomer, or biologist does.
 
-Nature can't read our name-tags either. Only actions register, and nearly all of ours run through tools we graze, hunt, scavenge, and decompose with. We see Matthew, Sarah, Apple, Google. Nature sees pilot, bureaucrat, mechanic, welder, general, scrapper, miner—all of them burning energy to keep something assembled.
+Our new identity is being a self-aware selector inside a technological ecosystem.
 
-A new identity sees our current problems differently. It helps Maria prepare for the future better. She knew she was never a "manager" of people, best for arranging uniforms or enforcing rulebooks. There is no technological role or future in such an identity. She knows political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. It helps her communicate worries about her health insurance without a boardmate thinking she's a socialist. Or if she says cheap imports are closing her factory she's not dismissed as a fascist. Instead, her boardmates listen and investigate what is happening behind the scenes of our storytelling identities.
+Nature still keeps the score; the scoreboard never lies. But the coach, the one choosing which tools get played, is you. It always was, because we replaced nature’s coach with ourselves long ago, every time we bought one tool over another, voted for one rule over another, or kept a habit instead of changing it.
 
-What's happening is echo chambers are fraudulent harbors that trick people into indulging in their extremes while suffering the endless storms of the environment. The conservative-minded advocate for inheritance and tradition while the progressive-minded for control and novelty. Together as we've seen they invent wondrous technology and win wars. Divided, neither moderates the other, and so our society bunkers down inside old lifestyles, telling stories to one's tribes why we are the noble Lion King, and the other is the devious socialist or fascist Scar who should suffer the pains of self-inflicted wounds of stagnation.
+Choosing to compost your daily banana keeps matter useful. Opting for the stairs trains your cardio to hold off entropy a little longer. Repairing an old appliance saves much material and energy. Calling an old friend rekindles a fading friendship. Having pictures of your damaged car makes a claim go much faster.
 
-A new identity sees rising inflation, growing cost of living, increasing home prices, higher insurance premiums, and larger debts not as proof of someone else's ideological failure, but as a lack of evolution in the Game of Life. It sees how the massive production of World War II and the decades after it built the ecosystem we live in. Our highways, grid, water systems, housing stock, and the research pipeline that produced radar, antibiotics, jet engines, and the transistor. And we've been acting like rationally lazy people ever since. Enjoying this bounty and not reciprocating to keep it repaired, updated, and evolving.
+Just as squirrels and raccoons have an ecological identity, you already have a technological one. Like gravity, it was always there. It becomes new when you adopt it. 
 
-Much of our ecosystem is now past the lifespan it was designed for. Its continual death is what I've handled thousands of insurance claims for.
+You’ve already met a team of coaches. Remember Maria’s customers. No law shut down her DVD stores, and no one voted on it. Millions of ordinary people, one evening at a time, chose to stay home and press play instead of driving to the store. Each choice was small. Together, they selected the DVD out of the game, and selected streaming in. That is what coaching looks like: not a speech, not a belief, just a choice of tool, repeated until the board changes.
 
-Bunkered inside our old identities, we haven't noticed. Instead we throw more waves at these attacks of entropy, paying more each year for the carrying capacity our grandparents built. We're trying to make the same things cheaper via energy and labor costs so we can keep enjoying the same lifestyle. More trucks on the same struggling highways. More planes into the same airport system. The same claims systems put in when mail and call-centers were new. We're like an army repeating a tactic that stopped working long ago.
+So will AI take your job?
 
-There are two ways to assemble more matter into useful adaptations: spend more energy and labor, or build better tools. Both give the gift of a working world. Only one keeps giving it.
+Ask the coach. That means you. Don’t wait for a pundit’s prediction. You don’t need a prediction; you need the number. Take the tasks your job is made of and try them with AI. Where it does a task faster and cheaper, that task will go, the way the drive to the video store went. That isn’t the end of you. It’s energy freed up. The label on your job may expire, but the role underneath it, getting food, warmth, transport, or stories to people, doesn’t. And where AI can’t do the task, you’ve found the part of your job the board still needs from you. The only people truly threatened are the ones defending a label. Our understanding of gravity, the stars, and life itself kept improving because people let old labels go.
 
-Our problem is not lack of technology. We have all the seeds, plants, creatures of the forest, reef, woodland, and so on. We just don't know where to put them. We can find out by becoming a coach who knows what game is being played. Thereby we can understand how like with combined arms warfare or transistor development, we must empower regular people to collaborate faster and select the tools they need to solve problems faster. That is how to faster fix leaking windows, expensive textbooks, car crash claims, and so many attacks of entropy.
+Remember the Prologue: your paycheck is a species, and nobody had told you which one yours is. Now you can find out yourself. Look past its label to where it sits in the energy flow.
 
-We are in a new environment. No one has ever grown an ecosystem using digital technology. Fitting to any organism, we are figuring out what works, but not with study and foresight, but with pain. We are the raccoon. We are Maria. We have a stutter. But these are states of mind to reflect and act on and need not be something to suffer.
+Of course, this leaves big questions. How do I learn to assess, drop, and pick up tools regardless of the stories surrounding them, me, and my boardmates, friend or foe? How will I earn a living if I embrace the change that seems to threaten it? Moreover, how can society learn to continually mass-produce the diverse tools we need for prosperity?
 
-Entropy doesn't decide whether life prospers. Life does by harvesting enough energy to organize matter and shedding what no longer fits. Whether your lineage continues depends on whether you do the work.
+We’ve answered questions like these before. Religions were once universal truths, and jobs were assigned at birth; we learned to live alongside many faiths and to change careers. Book II, Mixed Ideological Politics, and Book III, Bumblebee Economics, take up these questions with the same reason and science.
 
-You are not powerless. You are the unit of selection. Your daily choices make the future of life. You can use the rules of physics, chemistry, geology and evolution to make life prosper.
+Think back to the box under the tree. A rulebook, a game board, a sand clock, some clay, a scoreboard. You know what each piece does now. The rules don’t bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. Life keeps reshaping its clay, and the scoreboard keeps counting kids. But one piece was never in the box, because it was the one opening it. The coach was you all along.
 
-Apply this to Maria. Every disc she sold put a screen, a sound system, and a habit into another home. DVDs were a foot-hold. The first adaptation to establish that users should decide what to watch using digital technology. Once a niche is proven, it radiates into more species: streaming podcast shows, long videos about Roman history, short videos about local restaurants. Or more practically the telemedicine, engineering seminars and other important communications ultra high-definition screens enabled. Each is a different species to its users, but has the same family group of technologies enabling it.
-
-Maria didn't need to guess which one would win. She needed to know that something would, and that a DVD manager was a dead branch on the evolutionary tree. Merchandise distributors go on, as do content curators. A successful first species always opens the ecosystem to more niches, and therefore more opportunity.
-
-A farmer sees this. A biologist does too. We often don't inside our bunkers. Nothing stopped Maria from moving on from DVDs to content creation or influencer marketing or just investing into a piece of the family she was establishing. She just didn't know that spreading technology is no different from spreading seeds.
-
-Biology adapts by producing millions of variants and letting most of them die. We don't have to be polar bears on ice floes. We can change tools inside a single lifetime. Which means we can do in a decade what selection needs thousands of years and countless deaths to accomplish. There is always room for everyone who finds a way to contribute to life's fight against entropy.
-
-How did we spread around the world, and how did we develop tools? We planted and spread tool-species inside ecosystems of course. And that required, and still requires, four modes of understanding: nature, mythologies, stories, and science. Let's look at these stories so we can realize why techvolution is the scientific understanding of the human condition.
+Now that you know who the coach is, let’s watch the Game of Life play out.
 
 ## Chapter 15—Vignettes 
 
@@ -1723,25 +1727,25 @@ Humans play the Game of Life. Most of the time we play it with tools, but that i
 
 Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances.
 
-The game board is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to harvest energy and assemble matter into new creatures, nests, fruit, tools, and numberless other adaptations.
+The game board is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to harvest energy and assemble matter to mass-produce diverse new creatures, nests, fruit, tools, and numberless other adaptations.
 
 Each new assembly is a unique variation. Look at the peppered moth becoming lighter, darker, lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
 
-Natural selection is life's coach. It finds the forms that best read the environment's patterns—when smog comes, rain arrives, or winter ends—and integrates them into the ecosystem of producers, consumers, predators, scavengers, decomposers, and testers. The coach does not list any roster requirements. Players who harness energy into matter more efficiently are picked to battle entropy. Players who adapt faster pick themselves.
+In the wild, natural selection is the coach. It keeps the forms that best read the environment’s patterns (when smog comes, when rain arrives, when winter ends) and fits them into an ecosystem of producers, consumers, predators, scavengers, decomposers, and testers.
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
 Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt to the game board; the others mislead us, and often take their believers down with them.
 
-How to tell which is which?
+How do we tell which is which? It matters, because in our game, as you now know, the coach is you
 
 Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that best read when fruit ripens, when sunlight appears, and endless other environmental patterns, survive to play again.
 
 This chapter isn't written like a story. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
 
-In each life that follows, you are not the audience. You are watching natural selection—and being tested by it. Put yourself in the place of every species you see, and framework you meet, and ask: does it read the world and earn its place on the game board?
+In each life that follows, don’t just watch. Put yourself in the place of each species and each idea you meet, and ask: does it read the world and earn its place on the game board?
 
-Notice, the winners are not always the largest or the smallest, the weakest or most powerful. But those who help harvest energy for their ecosystem. Flip the page and hold this eternal truth as you read each word.
+Notice that the winners aren’t always the largest or the smallest, the weakest or the strongest. But those who help harvest energy for their ecosystem. Flip the page and hold this truth as you read each word.
 
 Build fast. Good.
 
@@ -4132,7 +4136,7 @@ Once Protestants and Catholics stopped killing each other over scripture, conser
 
 If you want affordable housing, practical schooling, predictable investments, cleaner environment, working healthcare, healthy citizens, community trust, an increasing social surplus to invest in the future—the choice is yours.
 
-Fight over what should be used to keep the decaying Industrial Age giving tree alive—cheaper energy or labor—while arguing over who deserves the next job, title, and inheritance. Or you can plant, tend, and harvest a new way of life.
+Fight over what who deserves the job, title, or inheritance of the decaying Industrial Age giving tree. Or you can plant, tend, and harvest a new way of life.
 
 Do you want to watch three seeds fall?
 

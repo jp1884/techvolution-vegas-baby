@@ -6151,3 +6151,75 @@ Urban raccoons also tend to reach unnaturally high population densities, far bey
 In short: a synanthrope that has traded its natural ecological role for one built on human waste, existing largely outside functional food webs and acting more as a stressor on urban biodiversity than a contributor to it.
 
 ===
+
+Rome was not built in a day and dinosaurs weren't born in a million. All of life's extravagance has come in small iterative steps of a single lifeform. Although slow, evolution is powerful because like gravity, it is a universal, unstoppable force because natural selection never stops picking some individuals over others.
+
+Just look today at polar bears encountering a melting Arctic. Depending on geography, some are becoming more aquatic hunters, some find nesting birds, others hunt reindeer, many stay unchanged, and some are selected to suffer, starve, and die. Each an example of branches on the tree of life growing in whatever direction the local niche allows.
+
+There is no group think, because there is no shared selection. Individuals survive alone, hoping to find an equillibirum of producers, consumers, and so on inside a balaned ecosystem of boardmates.
+
+To us, gravity can feel like heavy things are this and that, but we can step back and see the natural forces at play. The identities and names we give ourselves are rooted in stories and languages the future won't understand anymore than we can read the ancient Mayan language or know who the Sea People's were.
+
+
+But no one serves their ecosystem. The squirrel doesn't live for anyone else—she serves herself and her kids, the same way the oak tree does. Their constant cooperation and reciprocation in a healthy ecosystem is by default not by intent.
+
+We can use ideology to select our own boardmates and think the coach won't ever be knocking on our door. While we've studied physics, chemistry, and biological evolution very well, we have not studied technological evolution enough to understand or prevent this. As a result, this is an all too easy mindset for us to have.
+
+Or charting the stars for a thousand years without knowing what moved them. There's no unifying ruleset, no origin story, no common force that binds their fates.
+
+But when we measure the energy consumed and gained, and ask whether it is more efficient than yesterday, then we can check ourselves against whatever stories we tell. More sunlight through the cracks of whatever bunkers and palaces we build.
+
+
+Realizing with every choice you make, you are the coach in the Game of Life. You always were because we replaced nature's coach with ourselves when we lef the natural world. What changes is knowing this defines identity, politics, and economics more than any story.
+
+A new identity is being a self-aware selector inside a technological ecosystem. Realizing with every choice you make, you are the coach in the Game of Life. You always were because we replaced nature's coach with ourselves when we lef the natural world. What changes is knowing this defines identity, politics, and economics more than any story.
+
+
+These are the actions that fight entropy and bring prosperity. Not doing them is what loses it. They are not complicated any more than planting a nut is. They are just helpful and constantly done by successful units of selection. Beliefs are not judged directly, but by how much they support these simple actions.
+
+Nature doesn't hand out name-tags. We don't actually know what an iron atom calls itself. We also don't know a tiger by its thoughts. Instead we observe the effectual truth of nature. Thus we know iron has 26 protons and melts at 1,538 C. We know a tiger by its stripes, its niche, and what it does to everything around it.
+
+The difference is, iron always has 26 protons. A tiger will stop being orange shortly after deer evolve to see the color and it stops being a camoflauge.
+
+Nature can't read our name-tags either. Only actions register, and nearly all of ours run through tools we graze, hunt, scavenge, and decompose with. We see Matthew, Sarah, Apple, Google. Nature sees pilot, bureaucrat, mechanic, welder, general, scrapper, miner—all of them burning energy to keep something assembled.
+
+A new identity sees our current problems differently. It helps Maria prepare for the future better. She knew she was never a "manager" of people, best for arranging uniforms or enforcing rulebooks. There is no technological role or future in such an identity. She knows political partisanship is self-defeating. It distracts from the daily actions all lifeforms do to prosper. It helps her communicate worries about her health insurance without a boardmate thinking she's a socialist. Or if she says cheap imports are closing her factory she's not dismissed as a fascist. Instead, her boardmates listen and investigate what is happening behind the scenes of our storytelling identities.
+
+What's happening is echo chambers are fraudulent harbors that trick people into indulging in their extremes while suffering the endless storms of the environment. The conservative-minded advocate for inheritance and tradition while the progressive-minded for control and novelty. Together as we've seen they invent wondrous technology and win wars. Divided, neither moderates the other, and so our society bunkers down inside old lifestyles, telling stories to one's tribes why we are the noble Lion King, and the other is the devious socialist or fascist Scar who should suffer the pains of self-inflicted wounds of stagnation.
+
+A new identity sees rising inflation, growing cost of living, increasing home prices, higher insurance premiums, and larger debts not as proof of someone else's ideological failure, but as a lack of evolution in the Game of Life. It sees how the massive production of World War II and the decades after it built the ecosystem we live in. Our highways, grid, water systems, housing stock, and the research pipeline that produced radar, antibiotics, jet engines, and the transistor. And we've been acting like rationally lazy people ever since. Enjoying this bounty and not reciprocating to keep it repaired, updated, and evolving.
+
+Much of our ecosystem is now past the lifespan it was designed for. Its continual death is what I've handled thousands of insurance claims for.
+
+Bunkered inside our old identities, we haven't noticed. Instead we throw more waves at these attacks of entropy, paying more each year for the carrying capacity our grandparents built. We're trying to make the same things cheaper via energy and labor costs so we can keep enjoying the same lifestyle. More trucks on the same struggling highways. More planes into the same airport system. The same claims systems put in when mail and call-centers were new. We're like an army repeating a tactic that stopped working long ago.
+
+There are two ways to assemble more matter into useful adaptations: spend more energy and labor, or build better tools. Both give the gift of a working world. Only one keeps giving it.
+
+Our problem is not lack of technology. We have all the seeds, plants, creatures of the forest, reef, woodland, and so on. We just don't know where to put them. We can find out by becoming a coach who knows what game is being played. Thereby we can understand how like with combined arms warfare or transistor development, we must empower regular people to collaborate faster and select the tools they need to solve problems faster. That is how to faster fix leaking windows, expensive textbooks, car crash claims, and so many attacks of entropy.
+
+We are in a new environment. No one has ever grown an ecosystem using digital technology. Fitting to any organism, we are figuring out what works, but not with study and foresight, but with pain. We are the raccoon. We are Maria. We have a stutter. But these are states of mind to reflect and act on and need not be something to suffer.
+
+Entropy doesn't decide whether life prospers. Life does by harvesting enough energy to organize matter and shedding what no longer fits. Whether your lineage continues depends on whether you do the work.
+
+You are not powerless. You are the unit of selection. Your daily choices make the future of life. You can use the rules of physics, chemistry, geology and evolution to make life prosper.
+
+Apply this to Maria. Every disc she sold put a screen, a sound system, and a habit into another home. DVDs were a foot-hold. The first adaptation to establish that users should decide what to watch using digital technology. Once a niche is proven, it radiates into more species: streaming podcast shows, long videos about Roman history, short videos about local restaurants. Or more practically the telemedicine, engineering seminars and other important communications ultra high-definition screens enabled. Each is a different species to its users, but has the same family group of technologies enabling it.
+
+Maria didn't need to guess which one would win. She needed to know that something would, and that a DVD manager was a dead branch on the evolutionary tree. Merchandise distributors go on, as do content curators. A successful first species always opens the ecosystem to more niches, and therefore more opportunity.
+
+A farmer sees this. A biologist does too. We often don't inside our bunkers. Nothing stopped Maria from moving on from DVDs to content creation or influencer marketing or just investing into a piece of the family she was establishing. She just didn't know that spreading technology is no different from spreading seeds.
+
+Biology adapts by producing millions of variants and letting most of them die. We don't have to be polar bears on ice floes. We can change tools inside a single lifetime. Which means we can do in a decade what selection needs thousands of years and countless deaths to accomplish. There is always room for everyone who finds a way to contribute to life's fight against entropy.
+
+How did we spread around the world, and how did we develop tools? We planted and spread tool-species inside ecosystems of course. And that required, and still requires, four modes of understanding: nature, mythologies, stories, and science. Let's look at these stories so we can realize why techvolution is the scientific understanding of the human condition.
+
+
+===
+
+It started with mythological stories from peoples around the world. Then people tried to understand what lies underneath our stories. Aristotle grouped animals by visible traits such as blood or no blood, and live young vs. eggs. As explorers brought back many new species from around the world, these older schemes struggled to fit them in. With so many unfamiliar species to classify, naturalists began sorting organisms into genera and species based on features like a tree having fleshy fruit or dry seed pods.
+
+Carl Linnaeus (1707–1778) formalized this approach as a nested hierarchy (kingdom, class, order, genus, species). Each species received a two-part name, like Tyrannosaurus rex or Homo sapiens, where the first part shows its genus. While this system could organize far more creatures, naturalists still defined a species based on what they could see.
+
+Darwin changed the meaning of those groupings. He showed that species can be related without looking alike. For example, the Galápagos finches have very different beaks, good for eating seeds, insects, or nectar. Yet despite this different appearance, they share much else in common because they descend from the same ancestor. Likewise, whales look nothing like hippos, but DNA shows they are close relatives. Classification by common descent organized the myriad species into a coherent tree that has largely held up to DNA testing.
+
+===
