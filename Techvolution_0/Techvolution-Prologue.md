@@ -25,7 +25,7 @@ Physical media has a powerful challenger. Maria's professional networks, her har
 
 Yes.
 
-Where did Maria's pain come from? She made regional manager by pushing her company from VHS to DVDs, and customer traffic boomed. Why is this new technology causing her grief? 
+Where did Maria’s pain come from? She ran one store in a twenty-store rental chain. A film geek, she convinced head office that DVDs, with their quality, clarity, and compact size, were the next big thing for their customers. Her passion won her control of the company’s distribution warehouse, and she was savvy enough to keep the right movies stocked for the right neighborhoods. The chain grew to thirty stores! So why is new technology now causing her grief?
 
 The compact disc was born in the 1980s from a partnership between Dutch Philips and Japanese Sony. It stored a music album of data. The DVD followed a decade later holding an entire movie. The DVD spread to countless stores and homes—in capitalist countries and socialist ones, secular and religious neighborhoods, red and blue legislatures. Soon, discs with far better video and audio quality—HD DVD and Blu-ray—were brought to market.
 

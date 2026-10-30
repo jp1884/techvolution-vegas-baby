@@ -60,7 +60,7 @@ The affliction kicks in when certain sounds trigger a stutter that feels like an
 
 Modern science has illuminated many of our biological conditions, providing detailed explanations and effective remedies. In that vein, I was very lucky to receive government-sponsored speech therapy. So although I was subject to a genetic misfire between thought and speech, I learned there was a field that had studied the problem and could tell me what I could do about it. Turns out I was not a broken person, just someone with a broken tool.
 
-Maria, the DVD distribution manager, had no such field. Nobody had studied what was happening to her, so nobody could name it, and she met it without warning. I was given a path, teachings, therapy, and finally a graduation ceremony at an Italian restaurant.
+Maria, the DVD distribution manager we met in the Prologue, had no such field. Nobody had studied what was happening to her, so nobody could name it, and she met it without warning. I was given a path, teachings, therapy, and finally a graduation ceremony at an Italian restaurant.
 
 I got to order anything I wanted. It was pizza, of course.
 
@@ -88,21 +88,23 @@ But from the mid-1970s onward, that cooperation began steadily eroding. By the 1
 
 Unsurprisingly, our economic challenges continue to mount.
 
-Today's statistics paint a stark picture of our financial strain. Adjusted to 2023 dollars, median household income rose from about $62,000 in 1991 to about $79,000 in 2021, an increase of roughly 28 percent over thirty years. The cost of living has dramatically outpaced this increase.
+Today's statistics paint a stark picture of our financial strain. Adjusted to 2023 dollars, median household income rose from about $62,000 in 1991 to about $79,000 in 2021, an increase of roughly 28 percent over thirty years.
 
-Average home prices across U.S. states were about 345 percent higher in 2024 than in 1991. Average annual premiums for employer-sponsored family health coverage increased 49 percent from 2013 to 2023. Average in-state tuition roughly doubled from 1991 to 2023. Grocery costs rose significantly in recent years—a 20–30 percent increase from 2020 to 2025.
+The cost of living has dramatically outpaced this increase.
 
-This widening economic gap has driven debt to record levels for students and governments. American federal debt, measured against the size of the economy, is now near its 1946 peak. That should strike us as strange. Much of what World War II (1939-1945) wartime debt bought was destroyed within months, yet by the mid-1970s the debt had shrunk to about a quarter of its postwar size relative to the economy because a healthy economy outgrew its debt. Today’s federal borrowing comes not from war but from the ordinary costs of keeping society running: retirement, commuting, definitely insurance, and the interest on what we already owe. Just keeping our society running runs up as much debt as a world war, which suggests something has gone profoundly wrong.
+Here are some examples. Average home prices across U.S. states were about 345 percent higher in 2024 than in 1991. Average annual premiums for employer-sponsored family health coverage increased 49 percent from 2013 to 2023. Average in-state tuition roughly doubled from 1991 to 2023. Grocery costs rose significantly in recent years—a 20–30 percent increase from 2020 to 2025.
+
+This widening economic gap has driven debt to record levels for students and governments. American federal debt, measured against the size of the economy, is now near its 1946 peak. That should strike us as strange. Much of what World War II (1939-1945) wartime debt bought was destroyed within months, yet by the mid-1970s the debt had shrunk to about a quarter of its postwar size relative to the economy because a healthy economy outgrew its debt. Today’s federal borrowing comes not from war but from the ordinary costs of keeping society running: retirement, commuting, definitely insurance, and the interest on what we already owe. Just keeping our society running runs up as much debt as a world war. Our ancestors adapted to win a war. We’re failing to adapt to peace.
 
 Economic betterment has also largely stopped in America, with only half of Americans born in 1980 earning more than their parents, compared to 90 percent of those born in 1940.
 
 I don't need to cite any more numbers because you see this trend every month when matching your paycheck to your bills. This demands a question: the internet and personal computer were both invented in the early 1970s, right as our politics started to divide and our economy began to stall. Despite computers growing ever more powerful, taking us further from the Industrial Age into the Internet Age, many people are falling behind. Why?
 
-Just as religious frameworks fell out of date during early industrialization, our ideological ones are out of date now. Out of touch, they can’t offer a shared purpose. Out of touch, they can't offer a shared purpose, and so cannot mass-produce or adopt new tools in our new computer-powered environment
+Just as the divine right of kings lost its hold when America’s founders declared that governments derive their power from “the consent of the governed,” and lost even more ground as industrialization remade society, our ideological frameworks are falling out of date now. Out of touch, they can’t offer a shared purpose. Out of touch, they can't offer a shared purpose, and so cannot mass-produce or adopt new tools in our new computer-powered environment.
 
 Industrial Age mindsets are simply not up for the task. Ideologues, pundits, and believers say their superior government policy can address our challenges. As each has proven ineffective we're told to blame the "other side". Growing extremism hasn't worked because evolution demands more: we must adapt by innovating new tools and adopting a new lifestyle.
 
-Before we do that we must adopt a fresh mindset. One built from the lessons conservatives and progressives taught us when they conquered the Industrial Age. Consider a simple experiment: combine cold water and ice into a bucket. As you immerse your hand in the water, the cold steals your heat, and your body soon experiences intense pain. This visceral moment reveals a fundamental truth: no words, presentations, or promises keep you warm.
+Before we can mass-produce new tools we must adopt a fresh mindset. One built from the lessons conservatives and progressives taught us when they conquered the Industrial Age. Consider a simple experiment: combine cold water and ice into a bucket. As you immerse your hand in the water, the cold steals your heat, and your body soon experiences intense pain. This visceral moment reveals a fundamental truth: no words, presentations, or promises keep you warm.
 
 Obviously not. Words don't fill our stomachs or shelter us from the elements.
 
@@ -116,9 +118,10 @@ Our ancestors lost their insulating hair when they left the trees and learned to
 
 Hence, we tend to view the world through human stories, speeches, and ideologies, rather than the reality that we need to address practical problems with new adaptations. This ironically causes frontline pains to increase.
 
-Adopting a strong technological identity will keep our continued evolution in focus. A new identity does not mean abandoning any of our wonderful cultures. We can still enjoy music clubs, celebrate folklore dances, commemorate history, and cheer at the Olympics. However, in a world increasingly shaped by technological systems, we must develop a new mindset to clearly identify our problems and see their best solutions.
+Adopting a strong technological identity will make it far easier to keep our continued evolution in focus: to adapt, prosper, and pass on a bright torch to the next generation. A new identity does not mean abandoning our wonderful cultures or faiths. We can still enjoy music clubs, celebrate folk dances, kneel in our places of worship, commemorate history, and cheer at the Olympics. However, in a world increasingly shaped by technological systems, we must develop a new mindset to clearly identify our problems and see their best solutions.
 
-The everyday lesson is, loving the same music as someone else is great fun, talking about ideology can cause interesting debates, but neither means you have found the best mechanic. Solving our frontline problems means finding better tools and better tool-users. Just think how an oak tree and a squirrel have nothing in common, and each helps the other prosper every year.
+
+The everyday lesson is that loving the same music as someone else is great fun, and talking about ideology can cause interesting debates, but neither means you have found the best mechanic. Solving our frontline problems means finding better tools and better tool-users. Just think how an oak tree and a squirrel have nothing in common, and each helps the other prosper every year.
 
 All lifeforms should work together because Earth is a massive version of an ice bucket—a vast game board shaped by immutable laws of physics, chemistry, and geology. Life produces new creatures constantly, and its partner, evolution, decides which keep playing. With the right team, Earth is an awe-inspiring oasis—a lone lifeboat in the galactic expanse.
 
@@ -138,7 +141,7 @@ So, how does a life form get selected to become a player? There are three ways t
 
 Genes are a creature’s blueprint, and taken together they make up its genotype. Each stretch of DNA carries instructions for a particular trait. When creatures reproduce, their genes shuffle and recombine, and sometimes there's a copying error that adds something new. Because of these mutations every offspring is slightly different. Most of these mutations are neutral or minor, but now and then one gives a survival advantage.
 
-Consider the peppered moth for an example. During England's Industrial Revolution trees darkened due to smog and soot. A rare dark variant of the peppered moth suddenly gained a camouflage advantage. While its competitors were hunted down and the dark mutate offspring surged. Evolution did not create this mutation; rather, it favored the black moth through natural selection—a process that eliminates harmful genes while allowing organisms with beneficial traits to survive and reproduce.
+Consider the peppered moth for an example. During England's Industrial Revolution trees darkened due to smog and soot. A rare dark variant of the peppered moth suddenly gained a camouflage advantage. While its competitors were hunted down while the dark mutant offspring surged. Evolution did not create this mutation; rather, it favored the black moth through natural selection—a process that eliminates harmful genes while allowing organisms with beneficial traits to survive and reproduce.
 
 This continuous process of genetic variation and environmental selection drives the incremental changes we observe in species over time—sometimes slowly, as geological change creates mountains or freezes oceans over eons, or suddenly with events like floods, eruptions, or factory soot. Regardless, as the environment changes, natural selection can only work with the life that already exists.
 
@@ -146,7 +149,7 @@ That's why diversity is so important. It's what made the dark moth variant that 
 
 This is the pairing of two opposing halves that we saw described above in political terms. It is not a metaphor. It is how natural selection works. That's why, over time, species and ecosystems with greater genetic diversity persist only if they can reproduce in numbers. Too much of either is a failure: genetic variety with no volume goes nowhere, volume with no variety has nothing to offer when the trees turn black. A successful genotype needs both the oddball and the crowd.
 
-The next way a creature can stand out is its phenotype. The phenotype is akin to a life form's personality; the observable characteristics of an organism resulting from the interaction between its genetic makeup and environmental influences, encompassing physical traits, behavioral adaptations, and learned experiences. Think of two acorns, one planted in a tall forest, the other in an open field. The first grows lean and tall to reach sunlight, while the other grows bushier and more robust to withstand harsh winds. Same genes, different forms.
+The next way a creature can stand out is its phenotype. The phenotype is akin to a life form's personality; the observable characteristics of an organism resulting from the interaction between its genetic makeup and environmental influences, encompassing physical traits, behavioral adaptations, and learned experiences. Think of two acorns, one planted in a tall forest, the other in an open meadow. The first grows lean and tall to reach sunlight, while the other grows bushier and more robust to withstand harsh winds. Same genes, different forms.
 
 Phenotype reveals how organisms adapt to their surroundings and become products of their environment.
 
@@ -156,13 +159,13 @@ The third way creatures stand out is the extended phenotype. These are adaptatio
 
 Take the common squirrel as an example. The small creature lives in the forests and eats tree nuts. It survives frigid winters because it stores nuts during good times and builds warm nests high in the canopy away from predators. These adaptations greatly increase its range and survival rate. Extended phenotypes empower organisms to mold their environment to their benefit and thereby select themselves for survival.
 
-Unlike genes and phenotypes, extended phenotypes become part of the environment and are available for other creatures to use. Hermit crabs move into empty snail shells, fish and frogs fill the ponds that beavers dammed, and squirrel's uneaten nuts are tomorrow's forest. The creator of an extended phenotype is not always its user.
+Unlike genes and phenotypes, extended phenotypes become part of the environment and are available for other creatures to use. Hermit crabs move into empty snail shells, fish and frogs fill the ponds that beavers dammed, and squirrels' uneaten nuts are tomorrow's forest. The creator of an extended phenotype is not always its user.
 
 Raccoons are the ultimate example. Originally from the tropical forests of Central America and Mexico, these intelligent creatures create dens in hollow trees and grow thicker fur and fat stores for winter. These adaptations let them slowly increase their range northward into colder parts of America. However, unlike squirrels, raccoons do not insulate their dens, store food, or fully hibernate.
 
-But when human barns and garbage arrived, the raccoon's range exploded. Piggybacking on civilization these creatures thrived. Many urbanites around the world know this all too well. It's why our garbage bins must be raccoon-proofed. Or at least try to be, as raccoons often outwit us.
+But when human barns and garbage arrived, the raccoon's range exploded. Piggybacking on civilization, these creatures thrived. Many urbanites around the world know this all too well. It's why our garbage bins must be raccoon-proofed. Or at least try to be, as raccoons often outwit us.
 
-We learn something about extended phenotypes by contrasting raccoons with squirrels. A squirrel takes what it finds, but it renews the biological ecosystem it feeds on by planting many nuts each year. An urban raccoon gets food and shelter but renews nothing it depends on. Because extended phenotypes sit outside the body, whoever uses them doesn’t have to earn it, or give anything back to the ecosystem that made it. In nature, the squirrel can’t feed itself without planting the forest. Our technological ecosystem has no such natural requirement.
+We learn something about extended phenotypes by contrasting raccoons with squirrels. A squirrel takes what it finds, but it renews the biological ecosystem it feeds on by planting many nuts each year. An urban raccoon gets food and shelter but renews nothing it depends on. Because extended phenotypes sit outside the body, whoever uses them doesn’t have to earn it, or give anything back to the ecosystem that made it. In nature, the squirrel can’t feed itself without planting the forest. A visitor who enjoys a Venice or Barcelona but doesn't buy much or pay taxes, is one example that of how our technological ecosystem has no such natural requirement.
 
 So, to stay a player in the Game of Life, creatures can stand out via their genes, phenotypes, and extended phenotypes. Having the right mixture of all three means an animal can harvest enough resources and protect itself long enough to procreate and thereby keep playing the game.
 
@@ -174,15 +177,15 @@ The answer is the raccoon. Like them, we live, work, and exist in an ecosystem o
 
 In evolutionary terms, Maria wasn't a "regional manager" at all—that's a cultural label. She was a physical-media seller dependent on several adaptations fitted to one niche, destined to rise and fall with it. That's what a species is. And around 2011, the environment changed, so her niche was going extinct, whatever she or others called herself.
 
-Maria wasn't alone. _Home Improvement_ was one of America's most popular television shows in the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor host "Tool Time"; a show only shown on Detroit cable television that reviewed tools from his sponsor Binford Tools. Tim's famous phrase was "More power!" because he constantly over-engineered tools and projects, leading to spectacular (and often disastrous) results that the competent, mellow co-host Al must deal with.
+Maria wasn't alone. _Home Improvement_ was one of America's most popular television shows in the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor host "Tool Time", a show only shown on Metro Detroit cable television that reviewed tools from his sponsor Binford Tools. Tim's famous phrase was "More power!" because he constantly over-engineered tools and projects, leading to spectacular (and often disastrous) results that the competent, mellow co-host Al must deal with.
 
 _Home Improvement_ was culturally aware enough to tackle the difficulties of drug addiction, infidelity, and job loss. Yet in eight seasons, technological identity never appeared on that list. Nobody, not even the Tool Man, asked what was powering his own show. He never asked what happens when technology, like telecommunications, changes and gets more powerful.
 
-Meanwhile internet speeds were improving every year. In 1992 when the show premiered, it was 0.0144 Mbps and loading simple websites took minutes. By 1999, when the show ended, it was 0.056 Mbps and online gaming was possible. Soon, the same cable networks showing Tool Time, were converted to high-speed internet. By 2011 internet speeds were 31 Mbps and video production and distribution were increasingly streaming on YouTube, Netflix, and other platforms.
+Meanwhile internet speeds were improving every year. In 1992 when the show premiered, it was 0.0144 Mbps and loading simple websites took minutes. By 1999, when the show ended, it was 0.056 Mbps and online gaming was possible. Soon, the same cable networks showing Tool Time added high-speed internet service. By 2011 internet speeds were up to 31 Mbps and video production and distribution were increasingly streaming on YouTube, Netflix, and other platforms.
 
 How could regional cable television shows—or DVD rental stores—not be changed forever by more powerful internet speeds?
 
-Today people ask anxiously whether AI will take their jobs—a frightening question precisely because so few of us understand our relationship to the technologies we depend on to earn a living. Even while consuming better and more powerful home products every year. Anyone with a smartphone has a better supercomputer, video camera, wireless connection, than anyone in the 1990s. Never mind easy access to encyclopedia, product manuals, and video instructions Tim Taylor never had. We should be celebrating that like another Moon landing.
+Today people ask anxiously whether AI will take their jobs—a frightening question precisely because, although we buy amazing new phones, smart devices, and online services each year, so few of us understand our relationship to the technologies we depend on to earn a living. Anyone with a smartphone has a better supercomputer, video camera, and wireless connection than anyone had in the 1990s. Never mind the easy access to encyclopedias, product manuals, and video instructions Tim Taylor never had. We should be celebrating that like another Moon landing.
 
 We don't.
 
@@ -204,19 +207,19 @@ The ultimate lesson was how many people struggle to understand modern technologi
 
 I was so often a customer's best hope, yet I had no special tools but a stingy checkbook and Google search.
 
-Modern technology is a massive explosion of extended phenotypes, and has changed how evolution selects us. Comparing top causes of death in modern America and ancient societies (circa 500 BC) reveals our new selection pressure. Modern America's list is dominated by heart disease, diabetes, and chronic diseases linked to our sedentary lifestyle that is so pervasive that raccoons suffer from many of the same problems. In contrast, in ancient times our ancestors suffered greatly from infectious diseases and injuries due to poor sanitation, limited medical care, and frequent wars. Notably, infant mortality has dropped dramatically, from perhaps as high as 40% in the Bronze Age to under 1% in America today.
+Modern technology is a massive explosion of extended phenotypes and has changed how evolution selects us. Comparing top causes of death in modern America and ancient societies (circa 500 BC) reveals our new selection pressure. Modern America's list is dominated by heart disease, diabetes, and chronic diseases linked to our sedentary lifestyle that is so pervasive that raccoons suffer from many of the same problems. In contrast, in ancient times our ancestors suffered greatly from infectious diseases and injuries due to poor sanitation, limited medical care, and frequent wars. Notably, infant mortality has dropped dramatically, from perhaps as high as 40% in the Bronze Age to under 1% in America today.
 
-Like the Tool Man, we do not naturally evolve with all these tools.
+Like the Tool Man, we do not naturally evolve with all these tools. They often change faster than we do.
 
-Adjusters work with appraisers who help evaluate car and property damages. One I worked with measured large commercial buildings with a manual measuring wheel, taking days to do what a laser measuring tool does in hours. A CEO banned smartphones for adjusters and insisted on landlines and face to face visits, long after customers had moved on to faster ways of reaching us. Neither man was a villain. Both wanted to protect the tools they'd mastered—which is exactly the point. Adaptation can stall without any bad intent—through the ordinary, understandable instinct to defend one's territory.
+Adjusters work with appraisers who help evaluate car and property damages. One appraiser I worked with measured large commercial buildings with a manual measuring wheel, taking days to do what a laser measuring tool does in hours. A CEO banned smartphones for adjusters and insisted on landlines and face-to-face visits, long after customers had moved on to faster ways of reaching us. Neither man was a villain. Both wanted to protect the tools they'd mastered—which is exactly the point. Adaptation can stall without any bad intent—through the ordinary, understandable instinct to defend one's territory.
 
 Because extended phenotypes are separate from our bodies, they evolve on different timescales. As technological innovation speeds up, we are easily left behind. To solve our problems with upgraded tools, we need to see ourselves not just as people who use tools, but as first and foremost "Tool people".
 
 Consider this: what do you find more concerning—spraining an ankle or having water pipes burst while on vacation?
 
-Our ancestors might be eaten by a lion or left for dead because of a physical injury, but today we would simply rest and watch Netflix. However, the flood from a burst water pipe could bankrupt you. I should know; I had to deny claims because homeowners broke the unknown conditions of their insurance policies. If they had been technologically self-aware enough to perform a simple two-minute water shut-off, they could have prevented years of hardship and kept life's torch well-lit.
+Our ancestors might have be eaten by a lion or left for dead because of a physical injury, but today we would simply rest and watch Netflix. However, the flood from a burst water pipe could bankrupt you. I should know; I had to deny claims because homeowners broke the unknown conditions of their insurance policies. If they had been technologically self-aware enough to perform a simple two-minute water shut-off, they could have prevented years of hardship and kept life's torch well-lit.
 
-Yet, we rarely examine the extended phenotype part of ourselves. We remain barely conscious of our technological identities and fail to proactively develop skills that would satisfy evolutionary pressures. Far more people define themselves by gender, race, or heritage, compared to the tools they use to gather resources. Technological identity teaches the raccoon what a restaurant is, why it's not very busy for five nights, and maybe even how to work the dishwasher. 
+Yet, we rarely examine the "extended phenotype" part of ourselves. We remain barely conscious of our technological identities and fail to proactively develop skills that would satisfy evolutionary pressures. Far more people define themselves by gender, race, or heritage, compared to the tools they use to gather resources. Technological identity reveals who we truly are when we strip away labels—the tools we use, the problems we solve, and our ability to adapt and survive in a constantly changing world.
 
 Once we strip away labels like television host, regional manager, even “raccoon,” we see what each one actually does in its ecosystem. The raccoon is a scavenger living off our leftovers. Tim was a local television star in a niche millions of YouTubers would soon fill. Maria was a distributor whose pivotal tool was getting left behind. Tim’s and Maria’s jobs were challenged by high-speed internet the same way a new locking waste bin challenges a raccoon.
 
@@ -226,15 +229,15 @@ But left unaware of modern tools, we resemble raccoons opportunistically using t
 
 ### Avoiding Evolution's Stare
 
-Charles Darwin didn’t invent the idea that creatures evolve. What he and Alfred Russel Wallace proposed in 1858 was the mechanism: natural selection. Darwin’s _On the Origin of Species by Means of Natural Selection_ followed a year later, built on decades of observation, and it faced two obstacles. The first was time. Natural selection needed an enormously old Earth, but some religious figures thought the Earth was 6,000 years old, while leading scientists said millions. Not until radioactive dating (1906) was discovered did scientists prove Earth was billions of years old. Natural selection now had the time it needed to work its—seeming—magic.
+Charles Darwin didn’t invent the idea that creatures evolve. What he and Alfred Russel Wallace proposed in 1858 was the mechanism: natural selection. Darwin’s _On the Origin of Species by Means of Natural Selection_ followed a year later, built on decades of observation, and it faced two obstacles. The first was time. Natural selection needed an enormously old Earth, but some religious figures thought the Earth was 6,000 years old, while leading scientists said millions. Not until radioactive dating (1906) was discovered did scientists prove Earth was billions of years old. Natural selection now had the time it needed to work its seeming magic.
 
 The second obstacle was harder to answer. Nobody understood how creatures inherit traits. The prevailing assumption was that offspring simply blend their parents' features. So a strong mother and weak father make a moderately strong offspring. This raised an obvious objection. If mating means losing half of any advantage every generation, how could an advantage like larger wings or faster muscles ever accumulate enough for natural selection to act on it?
 
 That question went unanswered for seventy years. Naturalists accepted Darwin's idea that animals had a common ancestry because they'd been cataloguing and classifying organisms by shared characteristics for over a century, making shared connections easy enough to see.
 
-Still, few accepted the mechanism for new species was natural selection. Rival theories crowded biology with possible answers, the main one being Lamarckism: that species learn the requirements of their environments and pass on those traits. A giraffe stretches its neck for leaves and thus its children have longer necks. With countless books, speeches, and lectures raging on, Wilhelm Johannsen in 1909 coined the terms genotype and phenotype to help frame the debate with a consistent vocabulary.
+Still, few accepted the mechanism for new species was natural selection. Rival theories crowded biology with possible answers, the main one being Lamarckism: that species learn the requirements of their environments and pass on those traits. A giraffe stretches its neck for leaves and thus its children have longer necks. As countless books, speeches, and lectures raged on, Wilhelm Johannsen coined the terms genotype and phenotype in 1909 to give the debate a consistent vocabulary.
 
-Johannsen’s words named the confusion at the heart of the debate. Scientists were mixing up what a creature inherits with what it learns or its environment shapes. Remember the two acorns in a forest and meadow have the same genes, but they still exist in different forms. Biology needed two distinct words, genotype and phenotype, to see that selection judges a creature by its phenotype, but only its genotype is passed on. The debate wasn’t fully settled until the 1940s.
+Johannsen’s words named the confusion at the heart of the debate. Scientists were mixing up what a creature inherits with what it learns or its environment shapes. Remember that the two acorns in a forest and meadow have the same genes, but they still exist in different forms. Biology needed two distinct words, genotype and phenotype, to see that selection judges a creature by its phenotype, but only its genotype is passed on. The debate wasn’t fully settled until the 1940s.
 
 Meanwhile physics and chemistry were giving us electricity, medicine, and flight. So why didn’t we apply evolution’s principles to advance civilization?
 
@@ -246,11 +249,11 @@ One looked at us and saw only genotype: each person is solely defined by their b
 
 Of course, the mapping isn’t perfect. Neither regime used these terms exactly, and both had other influences. But fascism built its identity on bloodline, heritage, and the individually gifted, all genotype’s terms, while communism set out to remake people by remaking their environment, education, and morals, all phenotype’s realm.
 
-Both thought their way would create the most powerful modern technologies.
+Both regimes were convinced that by favoring a “master race” or a “New Soviet Man,” they would make the greatest scientific advances, build the most powerful modern technologies, and create the happiest society on Earth.
 
-The timing matters. Conservatism and progressivism arose in the 19th century, in relatively poor societies struggling with early industrialization. They wanted to pave mud roads and learn to make lots of shoes. Fascism and communism took power in the 20th, when the factories and power stations already existed, but the horrors of World War I and the failures of the Great Depression made people believe the old mindsets didn’t know how to use modern technology. Looking for a new mindset, people turned to science. Because what made natural selection work was still unsettled, each extreme could bend it to its own premise: that focusing on genotype alone, or phenotype alone, was humanity’s path to prosperity.
+The timing matters. Conservatism and progressivism arose in the 19th century, in relatively poor societies struggling with early industrialization. They wanted to pave mud roads and learn to make lots of shoes. Fascism and communism took power in the 20th, when the factories and power stations already existed, but the horrors of World War I and the failures of the Great Depression made people believe the old mindsets didn’t know how to use modern technology. Looking for new answers, people turned to science. Because what made natural selection work was still unsettled, each extreme could bend it to its own premise: that focusing on genotype alone, or phenotype alone, was humanity’s path to prosperity.
 
-However, as awful as it might sound, the problem isn't that an extreme couldn't have a technological success. Each was doomed because neither could sustain any success. We'll explain in detail in a later chapter, but in short, extremes have complacency embedded in them because each disregards one half of evolution.
+However, as awful as it might sound, the problem isn't that an extreme couldn't have a scientific or technological success. Each was doomed because neither could sustain any success. We'll explain in detail in a later chapter, but in short, extremes have complacency embedded in them because each disregards one half of evolution.
 
 This was proven in biology too late. Around 1918, mathematicians showed that genes don’t blend, they shuffle, so advantages like bigger wings can survive over time, just as Darwin’s theory needed. By the 1940s the Modern Synthesis showed how genotype and phenotype work together through co-evolution, variation, and speciation to produce life’s astonishing diversity. Sadly, by then, the fascist and communist regimes were already distorting the 20th century.
 
@@ -274,7 +277,7 @@ Humans need tools. After all, the scientist used a pencil to record test results
 
 Neither great genes nor elite education can match what a good toolbox does. Our success depends on enhancing capabilities through technology, and like the squirrel and oak tree, we rely on others' technological empowerment to sustain the technological ecosystem we depend on.
 
-There is a reason why conservatives and progressives outlasted both fascism and communism. When they transitioned into the early Industrial Age, they granted some basic protections for the tools of this era. The freedom from religious domination, the right to use a printing press, own a gun, be protected from search or seizure are all freedoms to use modern technology.
+There is a reason why conservatives and progressives outlasted both fascism and communism. They were part of traditions that had transitioned into the early Industrial Age, and had already granted some basic protections for the tools of this era. The freedom from religious domination, the right to use a printing press, own a gun, be protected from search or seizure are all freedoms to use modern technology.
 
 These simple protections beat both extremes because they let everyone keep a pencil, and that keeps variety alive. When England cleaned its air and the bark turned pale again, the rare pale moths were still there to be selected, and the species carried on.
 
@@ -298,11 +301,15 @@ Open-source contributors are examples for us all. They evolve solutions to real-
 
 The open-source community is not perfect. It can be underfunded and projects too often fragment. Regardless, the community keeps innovating. This drive is why the future of the Internet Age, as outlined in _Bumblebee Economics_, does not require marches or revolutions. Because of the open-source community, if you hold a smartphone or laptop, the seeds of this future are already in your hands.
 
-They cannot remake all of society. Nor can we rely on free designs, knowledge, and software to solve all our problems. But we can push evolution forward with it. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
+No single community, even one as widespread abd influential as open-source, can remake all of society. Nor can we rely on free designs, knowledge, and software to solve all our problems. But we can push evolution forward with it. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
 
-With this new paradigm, Maria, Tim "The Tool Man", you, anyone can build upon the work of the open-source community to develop and disseminate tools that identify the "black moths" that will help us populate and harvest new niches. Today’s politics is turning toward extremes for the same reason it did a century ago. New tools exist, but the old mindsets are struggling to use them, and so people reach for something that promises more.
+With this new paradigm, Maria, Tim "The Tool Man", you, anyone can build upon the work of the open-source community to develop and disseminate tools that identify the "black moths" that will help us populate and harvest new niches. Today’s politics is turning toward extremes in the same environment it did a century ago. New tools exist, but the old mindsets are struggling to use them, and so people reach for something that promises more.
 
-Each side’s instinct, for mass production or for diversity, is sound. But each is limited to the white moths it knows: one tries to sell ever more shoes and cars, the other to fill offices and universities with more diverse people. Those moths worked well in a pale forest. The first computers were designed on blackboards after all. But time has moved on, the environment has changed, and we need to mass-produce new variations to find the black moths that will thrive in the forest we actually have.
+Each side’s instinct, for mass production or for diversity, is sound. But each is limited to the white moths it knows. Once, mass production put shoes on the shoeless, and widening participation gave credit and jobs to people long shut out. Today the same instincts mostly mean filling closets with shoes and garages with cars, or adding more diverse faces to offices and universities that still work the old way.
+
+Those moths worked well in a pale forest of factories, highways, office towers, and lecture halls, where the biggest pains were too few goods and too few people let in to create and use them. Making more and opening doors solved both. Both mass-production and diversity mindsets grew up with those tools, and they still picture progress in their terms.
+
+But time has moved on. The first computers were designed in that pale forest, on blackboards and later whiteboards, and they’ve darkened the bark of the forest ever since. Now we need to mass-produce new variations to find the black moths that will thrive in the forest we actually have.
 
 Unable to adapt, we end up like any creature in that position: with growing frontline pains. Rising debt, declining health, higher living costs, heavier storms, car crashes, and many others persist until the individuals living with them can select the tools to solve them, in the millions of unique niches around the world.
 
@@ -356,7 +363,7 @@ No lies, no uncertainty, no stuttering!
 
 We have a long history of competing against each other. Numberless raids, wars, and conquests showcase that well enough. Even today, in our relative peace and prosperity, people vote their self-interests. From importers to manufacturers, oil drillers to solar panel installers, people do this, yet still often become confrontational when others do the same.
 
-We need to put our technological identity first. Not only because it's better in principle, but because it reveals our interests, making it easier to understand each other, compromise, and become like the squirrel and the tree whose self-interest still benefits both. Only when our self-interest works towards a shared purpose can we together overcome our true enemy.
+We need to put our technological identity first. Not only because it's better in principle, but because it reveals our interests, making it easier to understand each other, compromise, and become like the squirrel and the tree whose self-interest still benefits both. Only when our self-interest works toward a shared purpose can we together overcome our true enemy.
 
 Who is our true enemy?
 
@@ -364,7 +371,7 @@ It surrounds us every day. Even right now, it’s working on you, me, and everyo
 
 It came in one cold December afternoon, a few days before Christmas.
 
-A young family's home had been robbed. Someone had broken in, stolen appliances, cash, jewelry, and even the presents under the tree. Sadly, the criminals didn't stop with theft. They heartlessly sprayed the entire house with a fire extinguisher. The white chemical powder supposed to save a house from burning down now covered every surface, and although it looked like fake snow, it was actually unsafe, especially for kids.
+A young family's home had been robbed. Someone had broken in, stolen appliances, cash, jewelry, and even the presents under the tree. Sadly, the criminals didn't stop with theft. They heartlessly sprayed the entire house with a fire extinguisher. The white chemical powder that was supposed to save a house from burning down now covered every surface, and although it looked like fake snow, it was actually unsafe, especially for kids.
 
 Days from the big night, a warm family home was turned into a cold, violated, unlivable space.
 
@@ -378,7 +385,7 @@ Within a few days, the family had warm bedrooms, full kitchen, glistening tree, 
 
 The parents were very grateful. They even congratulated me on my recent promotion: "I can see why you got it" was really nice to hear. I received so much thanks because by getting them a home, their kids never stopped believing Santa would find them on Christmas Eve.
 
-Not all claims ended so well. So, I must admit I cherish this memory.
+Not all claims ended so well. I must admit I cherish this memory.
 
 Notice what actually happened there. The standard insurance playbook was a hotel room and a claim check. But their pain was somewhere else. Time was ticking on the special day that comes once a year. A different set of tools was needed.
 
@@ -438,11 +445,11 @@ Touching around in the darkness turns our senses—touch, smell, sight—into cr
 
 We need to.
 
-If this sounds obvious, contrast it with the growing political hatred and rising economic uncertainty today. There are countless examples of humans trying to make reality fit their beliefs and stories. Energy demand from cars, homes, and now AI data centers keeps climbing. Something will have to use less. Nobody is deciding what, so chance will decide for us, and we’ll credit or blame whoever our belief system prescribes.
+If this sounds obvious, contrast it with the growing political hatred and rising economic uncertainty today. There are countless examples of humans trying to make reality fit their beliefs and stories. Energy demand from cars, homes, and now AI data centers keeps climbing. A mixture of road trips, home renovations, AI summaries, will have to use less. Nobody is deciding what proactively, so chance will decide for us, and we’ll credit or blame whoever our belief system prescribes.
 
 If our identities embraced these rules we wouldn’t be using fear, echo chambers, and debt to respond to our problems. We'd investigate nature and evolve solutions. 
 
-Unlike anything else in the universe (that we know of), lifeforms grow, learn, and pass on genes—and sometimes lessons—to the next generation. Humans differ only in perspective. Most creatures depend on instinct and pain to find resources, while we are a little more self-aware of *why* we need shelter, food, and water to stay alive. 
+Unlike anything else in the universe (that we know of), lifeforms grow, learn, and pass on genes, and sometimes lessons, to the next generation. Humans differ only in perspective. We play the same game, by the same rules. A squirrel feels the cold and builds a nest; we feel it too, but we can ask why, notice it comes every winter, and prepare not just for the one coming, but for all of them. It isn’t a different game, just a different view of the same one.
 
 Unpacking the rules, they become five:
 - Nature’s laws are fixed and indifferent to any beliefs.
@@ -469,7 +476,7 @@ So, the Sphere takes the Square to the 3D world, called Spaceland. The Square se
 
 As is so often the case, seeing is the only path to believing in Flatland.
 
-The playing surface of checkers, chess, go is a flat two dimensional existence. These games have vast choices requiring much study to master. They are also identical and easy to navigate. Our game board is not 2D. It is both far more complex and wholly unique.
+The playing surface of checkers, chess, and go is a flat two dimensional existence. These games have vast choices requiring much study to master, but each game starts exactly the same and the gameboard is easy to see and navigate in our 3D worldigate. Our game board is not 2D. It has hidden valleys, ocean depths, crashing earthquakes, and fog of war. There is no way to see the entire board because it is far more complex, ever-changing, and wholly unique every day.
 
 The laws of physics, chemistry, geology make the stars and sunlight, hydrogen and helium, planets and volcanoes. As the rulebook makes clear, these Rules of the Game are not written down like a cookbook. Instead they are embedded in the very fabric of existence.
 
@@ -477,13 +484,13 @@ The laws of nature are rather simple but they create endlessly complex results. 
 
 Consider our Moon—not merely a celestial object that happens to fly across our sky. It is the result of cosmic collision and gravitational interaction. Approximately 4.5 billion years ago, a Mars-sized planetary body called Theia collided with the early Earth.
 
-The violent collision ejected massive amounts of molten rock and debris into Earth's orbit. Earth's heavier stuff like iron and gold were already nearer the core, so most of what was ejected was minerals rich in oxygen, silicon, and magnesium.
+The violent collision ejected massive amounts of molten rock and debris into Earth's orbit. Earth's heavier stuff like iron and gold was already nearer the core, so most of what was ejected was minerals rich in oxygen, silicon, and magnesium.
 
 The Moon, in a sense, is built from Earth's cast-off skin. Gravity pulled these fragments together. Over time, these fragments coalesced, cooling and solidifying into what we now know as the Moon.
 
 Yet, despite its massive size, this collision was controlled by the same natural laws at work as I write these words and you read them.
 
-And this is vital to note. There are many moons in the solar system. Our Moon is significant because of our interactions with it. It causes our ocean's tides, illuminates the night, has mysterious phases, and could be colonized. These opportunities and obstacles in our path transform it from a distant object into a factor in our survival.
+And this is vital to note. There are many moons in the solar system. Our Moon is significant because of our interactions with it. It causes our oceans' tides, illuminates the night, has mysterious phases, and could be colonized. These opportunities and obstacles in our path transform it from a distant object into a factor in our survival.
 
 Our interaction with the Rules of the Game turns these abstract natural laws into our game board.
 
@@ -539,16 +546,25 @@ _People ask this constantly._
 
 Sometimes people call from the crash scene. Sometimes they disappear for weeks. Sometimes they call back 10 times a day for an update. Sometimes they never call back at all. Mix in the occasional claim with divorcing parents, wayward kids, theft rings, hit and runs. Oh, and people lie constantly. An average claim worked like this:
 
-Day 1, the crash, what adjusters call the "Date of Loss".
-Day 2, The other insurer calls. "Do you have a claim open? No."
-Day 4, Insured calls. “Somebody hit me at a light." He has collision coverage. Okay to proceed.
-Day 5, Call tow yard. The car is in their lot, $80/day.
-Day 6, The other insurer calls. Their driver says our insured ran the red.
-Day 7, Body shop emails estimate: $7,800. Storage is $700. Padded, but not by much. No time to argue. Approved.
-Day 14, Police report uploaded. No witnesses. No cameras. 50/50 fault.
-Day 21, Body shop emails. “Repair is done.”
-Day 23, Insured leaves voicemail. “Why am I 50% at fault? And, I need a rental extension.”
-Day 24, Another adjuster gives the extension and sends the file to payment processing.
+- Day 1, the crash, what adjusters call the "Date of Loss".
+
+- Day 2, The other insurer calls. "Do you have a claim open? No."
+
+- Day 4, Insured calls. “Somebody hit me at a light." He has collision coverage. Okay to proceed.
+
+- Day 5, Call tow yard. The car is in their lot, $80/day.
+
+- Day 6, The other insurer calls. Their driver says our insured ran the red.
+
+- Day 7, Body shop emails estimate: $7,800. Storage is $700. Padded, but not by much. No time to argue. Approved.
+
+- Day 14, Police report uploaded. No witnesses. No cameras. 50/50 fault.
+
+- Day 21, Body shop emails. “Repair is done.”
+
+- Day 23, Insured leaves voicemail. “Why am I 50% at fault? And, I need a rental extension.”
+
+- Day 24, Another adjuster gives the extension and sends the file to payment processing. I hope the insured didn't use up too much time on the fault determination.
 
 A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the call-in queue. All eight went to payment—fully processed, fault, repair shops confirmed, tows arranged. I was so proud of myself. _I'm getting this. I got this. Let's go!_
 
@@ -556,7 +572,7 @@ Then I got an email from a manager:
 
 *"You answered 8 calls today. The average was 20. Expectation is you increase your answer rate."*
 
-I needed to use my time differently. The mayhem was yet to really set in.
+I was learning there was a difference between doing the job and meeting targets. I needed to use my time differently. The mayhem was yet to really set in.
 
 ## Chapter 4—Sand Clock: The Ever-Present Timer
 
