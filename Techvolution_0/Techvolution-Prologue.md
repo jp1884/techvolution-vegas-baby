@@ -15,7 +15,14 @@ This book does not tell you politics and economics are getting really bad, and t
 
 This book explains why politics and economics are getting both good and bad—and how you, the reader, can adapt to use the good to fix the bad.
 
-In other words, this is a book for people in the middle. The people who want things to be more rational, level-headed, and future-focused, and who are willing to work for it. I hope you like it.
+We already think this way in many other areas. The musicians, athletes, builders, and countless others among us each know every performance is imperfect, but the fundamentals are always there to guide them. That’s why we can cheer for our own team while admiring when a rival plays a better game or song. Players don’t improve by defending their past plays but by returning to the fundamentals regardless of where they learn them.
+
+Politics and economics are no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game older than any team or ideology, one every living thing plays.
+
+This book explains the fundamentals of building a better civilization, starting with what it takes to build anything at all, from a bird’s nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again.
+
+That’s why this is a book for people in the middle: people who want things to be more rational, level-headed, and future-focused, and who are willing to adapt to improve our forever imperfect world.
+
 
 ## Giving You a Map and Compass
 
