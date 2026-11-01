@@ -15,14 +15,15 @@ This book does not tell you politics and economics are getting really bad, and t
 
 This book explains why politics and economics are getting both good and bad—and how you, the reader, can adapt to use the good to fix the bad.
 
-We already think this way in many other areas. The musicians, athletes, builders, and countless others among us each know every performance is imperfect, but the fundamentals are always there to guide them. That’s why we can cheer for our own team while admiring when a rival plays a better game or song. Players don’t improve by defending their past plays but by returning to the fundamentals regardless of where they learn them.
+We already think this way in many other areas. The musicians, athletes, builders, and countless others among us know every performance is imperfect, but the fundamentals are always there to help us improve. That’s why we can cheer for our own team while admiring when a rival plays a better game or song.
+
+Players don’t improve by defending their past ideas, plays, or songs. They improve by studying the fundamentals again.
 
 Politics and economics are no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game older than any team or ideology, one every living thing plays.
 
 This book explains the fundamentals of building a better civilization, starting with what it takes to build anything at all, from a bird’s nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again.
 
 That’s why this is a book for people in the middle: people who want things to be more rational, level-headed, and future-focused, and who are willing to adapt to improve our forever imperfect world.
-
 
 ## Giving You a Map and Compass
 
@@ -44,11 +45,11 @@ What could synchronize the lives of billions of strangers to totally upend Maria
 
 Notice what every standard explanation gets wrong. Blaming rental giants like Blockbuster for missing the boat doesn't explain why every other company missed it too. Blame government policy, and you can't explain why the same collapse happened in every country at once. Blame Maria, and you can't explain the thousands of other industry insiders who thought DVDs would remain king.
 
-Yet, for Maria—and everyone else today—these are the identities and levers we use to explain the state of our finances, job prospects, and futures. None offers a universal and reproducible explanation.
+Yet, for Maria—and everyone else today—these are the identities and levers we use to explain the state of our finances, job prospects, and futures. They’re playbooks, and none offers a universal and reproducible explanation.
 
-But, one lens explains all three at once: a new technology found users who wanted what it offered. No villain decided Maria's fate. Technology and its users evolved. Maria was connected to an adaptation that was essentially killed off. Maria's livelihood and identity were standing in the path of a natural process that affects all lifeforms on Earth. Once we realize this is true in technology just as it is in biology. Maria was unprepared because no one had taught her to watch these forces. Yet, within a few years it looks so very obvious.
+But one fundamental explains all three at once: a new technology found users who wanted what it offered. No villain decided Maria's fate. Technology and its users evolved. The DVD distribution manager was connected to an adaptation that was essentially killed off. Maria's livelihood and identity were standing in the path of a natural process that affects all lifeforms on Earth. This is true in technology just as it is in biology. She was unprepared because no one had taught her to expect, watch, measure, and prepare for these forces. Yet, within a few years it looks so very obvious.
 
-Maria is just one chapter in history—and the next chapter asks about you, today. 
+Maria is just one chapter in history—and the next chapter asks about you, today.
 
 Will AI take your job?
 
@@ -68,7 +69,7 @@ Meanwhile high-speed internet, automation, and AI keep getting better. How can p
 
 We've been drowning in proposed answers, every day another ocean of speeches, articles, and posts promising the fix. We've listened, and our frustration has curdled into a growing hatred of our own countrymen. Decades of voting in new leaders and switching parties have added up to failure, not because we tried too little, but because we were aiming at the wrong target.
 
-When a biologist sees an ecosystem failing, she doesn't get angry. She looks for the imbalance, too much of one creature, too little of another, and works to restore it. Our society has the same kinds of problems, but we still read politics and economics through human narratives. To see what would have warned Maria, and us, we first have to see technology for what it is: an extension of life's natural evolution. From there, we can embrace life's game plan for prospering in an ever-changing world.
+When a biologist sees an ecosystem failing, she doesn't get angry. She returns to the fundamentals and looks for the imbalance, too much of one creature, too little of another, and works to restore it. Our society has the same kinds of problems, but we still read politics and economics through human narratives and playbooks. To see what would have warned Maria, and us, we first have to see technology for what it is: an extension of life's natural evolution. From there, we can embrace life's game plan for prospering in an ever-changing world.
 
 Evolve new species, better suited to the new environment.
 
@@ -117,7 +118,7 @@ Evolution never tested Maria as a regional manager or a college graduate. It saw
 
 We should not see a heat pump and think it's "green," or a diesel truck and think it's "red-blooded American."
 
-Nature doesn't function that way. Forests grow where the sun shines and the water runs. Book II teaches us how to strip story-based identities from our tools, so solar panels and diesel generators can go wherever they contribute, without anyone feeling they've betrayed a tribe. That freedom is political moderation, reimagined for the Internet Age.
+Nature doesn't function that way. Forests grow where the sun shines and the water runs. Book II teaches us how to judge our tools by the fundamentals instead of the playbook they belong to, so solar panels and diesel generators can go wherever they contribute, without anyone feeling they've betrayed a tribe. That freedom is political moderation, reimagined for the Internet Age.
 
 **Book III—Bumblebee Economics:** Free to choose our tools, we can finally build a better working day as everyone ventures for their daily food, water, and shelter needs. To get them we generate power, to make products and distribute them. A farm, a truck, a grocery store is a supply chain.
 

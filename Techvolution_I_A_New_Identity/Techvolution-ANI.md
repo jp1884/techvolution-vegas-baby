@@ -58,7 +58,7 @@ I wanted a slice of pizza. Getting it required speaking, and I did not have the 
 
 The affliction kicks in when certain sounds trigger a stutter that feels like an electric shock whose severity depends on how hard I keep trying. Speaking to strangers makes it worse. Swearing offers blessed relief, but that solution only works among friends.
 
-Modern science has illuminated many of our biological conditions, providing detailed explanations and effective remedies. In that vein, I was very lucky to receive government-sponsored speech therapy. So although I was subject to a genetic misfire between thought and speech, I learned there was a field that had studied the problem and could tell me what I could do about it. Turns out I was not a broken person, just someone with a broken tool.
+Modern science has illuminated many of our biological conditions, providing detailed explanations and effective remedies. In that vein, I was very lucky to receive government-sponsored speech therapy. Therapy didn’t ask me to defend how I’d always spoken. It took me back to the fundamentals: breathing, pacing, one slow word at a time. So although I was subject to a genetic misfire between thought and speech, I learned there was a field that had studied the problem and could tell me what I could do about it. A limitation is just a problem to solve. I was not a broken person, just someone with a broken tool.
 
 Maria, the DVD distribution manager we met in the Prologue, had no such field. Nobody had studied what was happening to her, so nobody could name it, and she met it without warning. I was given a path, teachings, therapy, and finally a graduation ceremony at an Italian restaurant.
 
@@ -72,7 +72,7 @@ Yet this perspective is almost entirely absent from public discourse—a technol
 
 For example, an ideologue seeing a hungry kid outside a pizzeria window might attribute the kid's situation to a personal failing—being a freeloader or wasteful with money—or systemic injustices—like family poverty or discrimination by the shop owner. Both perspectives are possible, but the fact that the kid might be struggling with a "verbal wheelchair" rarely occurs to people today. This oversight happens not because they are unaware of disabilities, but because ideological interpretations are often our default lens when seeing problems in society.
 
-That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet conservatism (1790) and progressivism (1859) were conceived centuries ago. The First Industrial Revolution (1760–1840) brought steam power and textile mills. The Second (1870–1914) brought electricity, mass production, and the assembly line. With each decade the established craft guilds, manorial farms, royal palaces were replaced with wage labor, mass migration, and urban poverty. Our current ideologies were born because existing political and economic frameworks were unable to navigate the new terrain of industrialization.
+That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet conservatism (1790) and progressivism (1859) were conceived centuries ago: playbooks written for an agraian society learning to use the earliest industrial technologies. The First Industrial Revolution (1760–1840) brought steam power and textile mills. The Second (1870–1914) brought electricity, mass production, and the assembly line. With each decade the established craft guilds, manorial farms, royal palaces were replaced with wage labor, mass migration, and urban poverty. Our current ideologies were born because existing political and economic frameworks were unable to navigate the new terrain of industrialization.
 
 Conservative and progressive thinkers offer valuable insights into our societal policies and governance, but their worldview is not rooted in the modern scientific and technological world they helped create. They lived without plastic, wrote with bird feathers, and did not learn how evolution shaped the state of nature. Ardent believers in one of these ideologies today are stuck solving the problems of the distant past. Anyone who studies both can build on their shared achievements.
 
@@ -221,7 +221,7 @@ Our ancestors might have be eaten by a lion or left for dead because of a physic
 
 Yet, we rarely examine the "extended phenotype" part of ourselves. We remain barely conscious of our technological identities and fail to proactively develop skills that would satisfy evolutionary pressures. Far more people define themselves by gender, race, or heritage, compared to the tools they use to gather resources. Technological identity reveals who we truly are when we strip away labels—the tools we use, the problems we solve, and our ability to adapt and survive in a constantly changing world.
 
-Once we strip away labels like television host, regional manager, even “raccoon,” we see what each one actually does in its ecosystem. The raccoon is a scavenger living off our leftovers. Tim was a local television star in a niche millions of YouTubers would soon fill. Maria was a distributor whose pivotal tool was getting left behind. Tim’s and Maria’s jobs were challenged by high-speed internet the same way a new locking waste bin challenges a raccoon.
+Once we strip away labels like television host, regional manager, even “raccoon,” and return to the fundamentals, we see what each one actually does in its ecosystem. The raccoon is a scavenger living off our leftovers. Tim was a local television star in a niche millions of YouTubers would soon fill. Maria was a distributor whose pivotal tool was getting left behind. Tim’s and Maria’s jobs were challenged by high-speed internet the same way a new locking waste bin challenges a raccoon.
 
 Seeing that is when “More power!” becomes real power.
 
@@ -247,15 +247,13 @@ These were fascism and communism.
 
 One looked at us and saw only genotype: each person is solely defined by their bloodline, so act accordingly—promote the supermen and purge the dead weight with human breeding called eugenics. The other saw only phenotype and said we must empower educated decision makers to engineer society's education, work, laws, government, to remake the human condition.
 
-Of course, the mapping isn’t perfect. Neither regime used these terms exactly, and both had other influences. But fascism built its identity on bloodline, heritage, and the individually gifted, all genotype’s terms, while communism set out to remake people by remaking their environment, education, and morals, all phenotype’s realm.
+Of course, the mapping isn’t perfect. Neither regime used these terms exactly, and both had other influences. But fascism built its identity on bloodline, heritage, and the individually gifted, all genotype’s terms, while communism set out to remake people by remaking their environment, education, and morals, all phenotype’s realm. Each took one half of the fundamentals and turned it into a whole playbook.
 
 Both regimes were convinced that by favoring a “master race” or a “New Soviet Man,” they would make the greatest scientific advances, build the most powerful modern technologies, and create the happiest society on Earth.
 
 The timing matters. Conservatism and progressivism arose in the 19th century, in relatively poor societies struggling with early industrialization. They wanted to pave mud roads and learn to make lots of shoes. Fascism and communism took power in the 20th, when the factories and power stations already existed, but the horrors of World War I and the failures of the Great Depression made people believe the old mindsets didn’t know how to use modern technology. Looking for new answers, people turned to science. Because what made natural selection work was still unsettled, each extreme could bend it to its own premise: that focusing on genotype alone, or phenotype alone, was humanity’s path to prosperity.
 
 However, as awful as it might sound, the problem isn't that an extreme couldn't have a scientific or technological success. Each was doomed because neither could sustain any success. We'll explain in detail in a later chapter, but in short, extremes have complacency embedded in them because each disregards one half of evolution.
-
-<!-- note that the extremes "balance" the other out. they wouldn't exist without each each other -->
 
 This was proven in biology too late. Around 1918, mathematicians showed that genes don’t blend, they shuffle, so advantages like bigger wings can survive over time, just as Darwin’s theory needed. By the 1940s the Modern Synthesis showed how genotype and phenotype work together through co-evolution, variation, and speciation to produce life’s astonishing diversity. Sadly, by then, the fascist and communist regimes were already distorting the 20th century.
 
@@ -307,7 +305,7 @@ No single community, even one as widespread abd influential as open-source, can 
 
 With this new paradigm, Maria, Tim "The Tool Man", you, anyone can build upon the work of the open-source community to develop and disseminate tools that identify the "black moths" that will help us populate and harvest new niches. Today’s politics is turning toward extremes in the same environment it did a century ago. New tools exist, but the old mindsets are struggling to use them, and so people reach for something that promises more.
 
-Each side’s instinct, for mass production or for diversity, is sound. But each is limited to the white moths it knows. Once, mass production put shoes on the shoeless, and widening participation gave credit and jobs to people long shut out. Today the same instincts mostly mean filling closets with shoes and garages with cars, or adding more diverse faces to offices and universities that still work the old way.
+Each side’s instinct, for mass production or for diversity, is a sound fundamental. But each is limited to the white moths it knows. Once, mass production put shoes on the shoeless, and widening participation gave credit and jobs to people long shut out. Today the same instincts mostly mean filling closets with shoes and garages with cars, or adding more diverse faces to offices and universities that still work the old way.
 
 Those moths worked well in a pale forest of factories, highways, office towers, and lecture halls, where the biggest pains were too few goods and too few people let in to create and use them. Making more and opening doors solved both. Both mass-production and diversity mindsets grew up with those tools, and they still picture progress in their terms.
 
@@ -453,7 +451,7 @@ If our identities embraced these rules we wouldn’t be using fear, echo chamber
 
 Unlike anything else in the universe (that we know of), lifeforms grow, learn, and pass on genes, and sometimes lessons, to the next generation. Humans differ only in perspective. We play the same game, by the same rules. A squirrel feels the cold and builds a nest; we feel it too, but we can ask why, notice it comes every winter, and prepare not just for the one coming, but for all of them. It isn’t a different game, just a different view of the same one.
 
-Unpacking the rules, they become five:
+These are the fundamentals. Every playbook ever written has to answer to them.
 - Nature’s laws are fixed and indifferent to any beliefs.
 - No creature sees the whole board.
 - Every lifeform must find resources or die trying.
@@ -514,7 +512,7 @@ In a vast, perhaps infinite universe, the factors that can shape our survival ar
 
 This brings us back to Flatland. Your board is unique, and so is everyone else’s. We can’t assume anyone knows ours; we have to explain it. In that sense, we will forever be a Square trying to describe a world only we can see.
 
-What we already know was shaped by older boards. It’s a starting point, not a map. The creatures that survive keep sensing the board in front of them in space and time. Maria knew the last board brilliantly; she didn't investigate the one the future was giving her.
+What we already know was shaped by older boards. It’s a starting point, not a map. The creatures that survive keep sensing the board in front of them in space and time. Maria knew the last board brilliantly; but what carries over to a new board isn’t the plays, it’s the fundamentals and she didn't investigate the one the future was giving her.
 
 Perhaps she would have, if she'd realized all games, especially the Game of Life, come with clocks.
 
@@ -634,7 +632,7 @@ That clock is running on your arrangement too. So run the test. What does it cos
 
 You don’t need a prediction. You need the number: the energy it takes to build, run, and repair each arrangement. How much energy does a day of driving to the office burn, compared with the other options? Will today’s power-hungry AI take your job? What if it follows the same efficiency gains that moved computers onto desks, then laps, and finally into pockets?
 
-Nature runs the same test. Which tree gets the sunlight? Which lion pride raises more cubs? The answer is always a number, perhaps explained by happenstance, environment, culture, or money, but measured in energy.
+Nature runs the same test. Which tree gets the sunlight? Which lion pride raises more cubs? The answer is always a number, perhaps explained by happenstance, environment, culture, or money, but measured in energy—a fundamental every lifeform must answer to.
 
 Unlike in chess, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, sandcastles, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sand clocks or timepieces. Each tells us how much time we have before entropy disperses the order if no work is done to maintain it.
 
@@ -656,7 +654,7 @@ Most people know Albert Einstein's work E = mc². This revolutionary equation sa
 
 Scientifically there is no direct link between entropy and Einstein's equation, but noting mass and energy equivalency helps us understand a crucial point. As entropy degrades objects into uniformity, energy is never created or destroyed, but just moved around into different states of radiation (light) or matter.
 
-Basically, there is no delete button anywhere in physics—energy and matter are never destroyed, only modified. Incidentally, this principle is the first law of thermodynamics.
+Basically, there is no delete button anywhere in physics—energy and matter are never destroyed, only modified. It’s one of the game’s oldest fundamentals and incidentally, is the first law of thermodynamics.
 
 For example, the energy that once fueled Mars' hot magma core was not erased, it only radiated into space. As heat dissipated away it came to a useless state; it was no longer concentrated and organized enough to do anything. Useful energy is a physical quantity that represents the capacity to do work or cause change in a physical system, like Earth's still hot magma core showcases with every eruption.
 
@@ -792,7 +790,7 @@ A single creature can never harness all this available energy. Solar intensity, 
 
 So, to overcome every obstacle and harness all available energy, the coach came to favor mass-production, and diversity, to collect creatures into what we call ecosystems. Each new category helped keep the others from using too much energy or found an untapped source of energy like dead wood.
 
-Every ecosystem has the same basic jobs. Producers, like plants and phytoplankton, use sunlight to build biomass. Plant-eaters, like caterpillars and deer, eat the producers, fertilize the soil, and sometimes spread their seeds. Predators, like lions and barracuda, keep the plant-eaters from overeating. Scavengers, like vultures and flies, eat the dead. Decomposers, like mushrooms and bacteria, break down what’s left to feed new plants. Testers, like viruses and other germs, probe everyone’s defenses and thereby carry new material from one player to another. (Testers is my simplified term for this complex area.) Lastly, there are generalists like squirrels and raccoons that cross over many roles depending on what’s around.
+Every ecosystem has the same fundamental jobs. Producers, like plants and phytoplankton, use sunlight to build biomass. Plant-eaters, like caterpillars and deer, eat the producers, fertilize the soil, and sometimes spread their seeds. Predators, like lions and barracuda, keep the plant-eaters from overeating. Scavengers, like vultures and flies, eat the dead. Decomposers, like mushrooms and bacteria, break down what’s left to feed new plants. Testers, like viruses and other germs, probe everyone’s defenses and thereby carry new material from one player to another. (Testers is my simplified term for this complex area.) Lastly, there are generalists like squirrels and raccoons that cross over many roles depending on what’s around.
 
 Nobody is assigned these roles. They’re open jobs, and an open job is unclaimed energy. So something eventually evolves to fill it, not out of duty, but because an empty role is the easiest living on the board.
 
@@ -900,7 +898,9 @@ Before we can answer it (in a later chapter), there’s something to say about t
 
 The Game of Life is a fairly accurate way to describe life on Earth, but it’s a metaphor, and specialists could pick at it. Entropy is more complex than “things fall apart,” and the everyday versions of nature’s laws break down at extremes, near black holes or close to light speed, where physicists need relativity and quantum mechanics to predict outcomes. But those extremes rarely touch our lives, and none of it changes entropy’s overwhelming pull: order breaks down, energy spreads out. For everyday life, the rulebook to the Game of Life holds true.
 
-What deserves more detail is how new players get chosen. Natural selection isn’t the only force at work.
+That said, the Game of Life is so fundamental that it needs no language. A squirrel plays it without a word, and so does a bacterium. If we ever met an alien species, we might establish communication by sharing our words and measurements for universal things like lithium, the speed of light, and the way life copies itself. Our words and units would differ. The things wouldn’t. The Game of Life isn’t a playbook. It’s the game itself: the fundamentals you, Maria, or an alien can return to when things go right or wrong.
+
+One of its fundamentals deserves more detail: how new players get chosen. Natural selection isn’t the only force at work.
 
 There’s sexual selection, where mates choose partners for traits like a peacock’s tail or a stag’s antlers. There’s genetic drift, where genes spread by pure chance, like a rare disease becoming common in an isolated village because a few founders carried it. There’s gene flow, where separated populations meet again and mix, as polar and brown bears are doing now. And there’s co-evolution, where two species become each other’s environment, like the flowers and bees we met as boardmates, each pushing the other for millions of years.
 
@@ -1050,7 +1050,7 @@ Our creative minds do not automatically know that, but as the Weismann barrier s
 
 Any identity that ignores our past is artificial, and leads to a dead end.
 
-We've already met two such attempts, the communist and fascist ideologies that scarred human history so badly. Among their many errors, one proclaimed humans naturally selfless unless tainted with a corrupted class history, condemning untold millions to mass purges. Legendary biologist and ant specialist E.O. Wilson summed it up: "Wonderful theory, wrong species." Selfless obedience is how ants behave, not hominids.
+We've already met two such attempts, the communist and fascist ideologies that scarred human history so badly. Among their many errors, one proclaimed humans naturally selfless unless tainted with a corrupted class history, condemning untold millions to mass purges. Legendary biologist and ant specialist E.O. Wilson summed it up: "Wonderful theory, wrong species." Selfless obedience is fundamental way how ants behave, not hominids.
 
 The other said "blood" should inspire ancient tribal loyalties throughout millions of strangers. Cohesion required "purity" and therefore justified dooming all outsiders and told long-time friends, colleagues, and neighbors to learn to hate someone. This is how small-band tribal humans lived, not humans whose technological ecosystem connects them with millions of strangers daily. It was also a belief that mistook the blueprint for the building. Every lifeform is changed and molded by its upbringing and environment and every lifeform needs good boardmates, whatever their blood.
 
@@ -1131,7 +1131,7 @@ There is a reason why using pure genotype or phenotype perspectives to explain a
 
 Using our bodies and minds to create new technology is what motivates our souls. It puts smiles on our faces so easily we give them as gifts to kids who can't speak. No one has to force a kid to play with a new tool, we naturally take joy in touching, learning, and using this amazingly new creations of life.
 
-That's why no human population is biologically locked out of learning any tool. With open learning, any human can learn to use any tool.
+That's why no human population is biologically locked out of learning any tool. The fundamentals of tool use are open to every human, everywhere.
 
 This shared drive to create new technology starts off with our shared history. _Neanderthals_ were mostly in Europe, _Denisovans_ in East and South East Asia, _Homo sapiens_ evolved in the huge landmass below the Saharan desert, somewhere in East Africa. The place was full of water and wildlife and so capable of feeding early humans year round. With a healthy carrying capacity, lots of tribes could live, and the huge geography made it harder for migration interactions to blend groups.
 
@@ -1229,7 +1229,7 @@ And that's the lesson of nature we need to embrace. While we have a genetic hist
 
 The technological evolution this book advocates has been driving human evolution for generations. In the technological ecosystem, people fill the same roles animals do: producers (farms, power plants), consumers (workers, homeowners, drivers), predators (innovators), scavengers (thrift buyers, auction goers), decomposers (recyclers, waste managers), and testers (tinkerers, hackers, and crooks). No coach pre-assigns these roles. The jobs are open, and someone always grows into them based on their mixture of genes, personality, and opportunity.
 
-Note, these roles are older than any tool that fills them. Something has broken down dead matter for a billion years. Bacteria, fungi, beetles, and now auto wreckers and metal recyclers. The adaptation, job, identity, and tool have an expiry date. The role doesn't.
+Note, these roles are older than any tool that fills them. Something has broken down dead matter for a billion years. Bacteria, fungi, beetles, and now auto wreckers and metal recyclers. The adaptation, job, identity, and tool have an expiry date. The role doesn't because it is fundamental while job titles are plays we tried on the field.
 
 Producers grow the food or generate the electricity that powers technology. Consumers—most people most of the time—use tools to stay warm or cool, gather resources, raise their young.
 
@@ -1339,7 +1339,7 @@ And now we have AI. In the past we had fire, kilns, forges, and the future is wh
 
 Every time a new technology arrives, we know the feeling of joy and dread. But like a raccoon who's learned to discern the noises of a busy restaurant, we don't really understand why the trends of technology come and go. As animals shed their fur in spring, we must shed our tools but until we embrace a new identity rooted in the energy web of organized technologies, we won't really know who we are. We'll be forced to act within old identities while building and maintaining order in the eternal Game of Life on this new game board.
 
-Thinkers have compared technology to evolution before. But no political or economic system we live under has used evolutionary thinking to select its tools.
+Thinkers have compared technology to evolution before. But no political or economic system we live under starts from the fundamentals when it selects its tools.
 
 Tool ecosystems, like biological ones, grow, speciate, flow, mutate, drift, and follow the other tenets of Darwinian evolution. Tools play on the same game board, and must use local resources to procreate more often to populate the land. The rise and fall of countries, peoples, nations, and empires tracks this evolution more closely than we like to admit because it's a fate that affects us so much, yet we don't have a name or identity for it.
 
@@ -1439,7 +1439,7 @@ Vicotry took priority over anything else. The American war effort even began to 
 
 With a mass-producing homefront, assigning leadership based on merit, and willingness to  open up its social structures, America started doing combined arms warfare far better than Germany ever did. Soon, liberation came to North Africa, Sicily and Italy, then France, Belgium, Holland, and finally Germany.
 
-This is not to say victory was assured. As the author of _Why the Allies Won_ notes, in the middle years, the "conflict was poised on a knife’s edge". The point being made here was that Nazi Germany, so obsessed with genetic explanations for its successes, couldn't respond outside of its own extreme beliefs.
+This is not to say victory was assured. As the author of _Why the Allies Won_ notes, in the middle years, the "conflict was poised on a knife’s edge". The point being made here was that Nazi Germany, so obsessed with genetic explanations for its successes, couldn't respond outside to challenges but o extend its own extreme beliefs.
 
 These beliefs were increasingly self-defeating. They instilled fear in all their neighbors, even those supporting them like Romania and Hungary. While the average German soldier was famously skilled, and radicals like the Waffen-SS fought very hard, many soldiers were checking out. Hundreds of thousands of dissenting German soldiers were imprisoned and an estimated 15,000 executed for desertion (for reference America executed one deserter). Nazis adopted women as workers, but never embraced mobilizing their full potential despite their encircled geography once again making natural resources and manpower very limited.
 
@@ -1455,7 +1455,7 @@ As their conquests were liberated one by one, nothing changed, even at the end. 
 
 After six years of war, the Allies and the Soviets met over the ruins of Germany and divided Europe between them. One extreme was gone. The other had just been handed half a continent. Extremism of the genotype had failed, and now we get to see how extremism of the phenotype is no better.
 
-In 1953 the Soviet Union began to moderate its extreme policies with de-Stalinization. The country's generals, leaders, and people no longer feared mass executions  or famines. But the country could never moderate its core belief: that properly trained persons are selfless, and therefore personal ambition is always bad.
+In 1953 the Soviet Union began to moderate its extreme policies with de-Stalinization. The country's generals, leaders, and people no longer feared mass executions or famines. But the country could never moderate its core belief: that properly trained persons are selfless, and therefore personal ambition is always bad.
 
 There were technological triumphs for the Soviets to celebrate. To America's great surprise, they launched Sputnik, the world's first satellite (1957), then achieved more breakthroughs with the first experimental fusion reactors (1958) and sending probes to Venus (1966-1983). But Soviet progress stalled for the same reason a Soviet biologist could not study genetic theory. The state had to police each person's thoughts and actions, and therefore controlled the laboratories, the military, and everything else.
 
@@ -1469,11 +1469,15 @@ Without independent research, free enterprise, or private property there was not
 
 With so little being produced, everyone knew the best jobs were rising in the government hierarchy. The classless society was therefore self-policing. Opposing ideas were filtered out with each new promotion and training session, especially because in a society without free commerce, control over state property was the only currency. The system could correct itself—genetics was allowed again after 1964—but instead of investigating nature, trying new things, and seeing what worked everyone learned to wait for instructions.
 
-In contrast, when America put rockets in space, average citizens were following along in real-time on radios and TVs sharing the same technology. As Soviet innovation stalled in the 1970s, the Soviet Union grew ever more dependent on oil exports to fund a bloated state bureaucracy and military. It needed to buy the advanced industrial equipment, and even food, it could not produce itself. Regular workers joked "we pretend to work, they pretend to pay us". When video tapes of bountiful western supermarkets arrived on Soviet home television, it pierced through government propaganda of supposed communist plenty. Then oil prices fell in the 1980s, and the regime could not afford to import the little it already had. Soon, the entire Soviet system imploded as its various peoples either voted to abandon it or watched as even once-committed believers let the communist project die.
+In contrast, when America put rockets in space, average citizens were following along in real-time on radios and TVs sharing the same technology. As Soviet innovation stalled in the 1970s, the Soviet Union grew ever more dependent on oil exports to fund a bloated state bureaucracy and military. It needed to buy the advanced industrial equipment, and even food, it could not produce itself. Regular workers joked "we pretend to work, they pretend to pay us". When video tapes of bountiful western supermarkets arrived on Soviet home televisions, it pierced through government propaganda of supposed communist plenty. Then oil prices fell in the 1980s, and the regime could not afford to import what it needed. Soon, the entire Soviet system imploded as its various peoples either voted to abandon it or watched as even once-committed believers let the communist project die.
 
-Both extremist regimes hit the same wall because they misplayed the same game. They both wanted to mix scientific advancement and mass-production to create amazing new tools. Both thought screening boardmates would make that happen and ended up erasing the that fuels involvement and new ideas needed to keep creating stuff worth mass-producing.
+Both extremist regimes hit the same wall because they misplayed the same game. Both wanted to mix scientific advancement and mass production to create amazing new tools. Both thought screening boardmates would make that happen, and ended up erasing the diversity that fuels the involvement and new ideas needed to keep creating things worth mass-producing.
 
-Neither saw technology as an ecosystem of producers, consumers, predators, etc. who need all types to operate it. Thus, each regime's carrying capacity was far below what it had promised its believers. Instead of reflecting, both resorted to increasing inputs—by taking, or by selling. Germany needed Austrian gold, Czech factories, Ukrainian grain, and Caucasus oil. The Soviets seized many German and Japanese power stations and factories after the war, innovated on that equipment for a time, then had to sell oil to stay afloat until even that wasn't enough.
+Picture each as a direction. Facing a problem on the road, a crop failure or an engineering blunder, a regime committed to the left could only steer further left, convinced that favoring people with the approved education would fix it. A regime of the right could only steer further right, convinced the answer was always in the genes. Neither could turn back toward the middle, where any solution that works can be used.
+
+Being an extremist is like steering a boat that can only turn one way. When trouble comes, extremists can’t return to the fundamentals of the Game of Life, because their ideology claims to be the fundamentals. The playbook has replaced the game.
+
+By screening out whole kinds of people, both shut themselves out of one of the game’s fundamentals: the technological ecosystem needs all types of people to populate the roles of producers, consumers, predators, and so on. Thus, each regime's carrying capacity was far below what it had promised its believers. Instead of reflecting, both resorted to increasing inputs—by taking, or by selling. Germany needed Austrian gold, Czech factories, Ukrainian grain, and slave labor. The Soviets seized huge amounts of German, Chinese, and Japanese power stations and factories after the war, innovated on that equipment for a time, then had to sell oil to stay afloat until even that wasn't enough.
 
 People selecting winners and losers is not itself a problem. Every farmer selects, every teacher selects, every coach selects. The problem was what the extremists selected on. Class origin and bloodline aren't measures of fitness; they're faces in a crab shell.
 
