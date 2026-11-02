@@ -451,7 +451,8 @@ If our identities embraced these rules we wouldn’t be using fear, echo chamber
 
 Unlike anything else in the universe (that we know of), lifeforms grow, learn, and pass on genes, and sometimes lessons, to the next generation. Humans differ only in perspective. We play the same game, by the same rules. A squirrel feels the cold and builds a nest; we feel it too, but we can ask why, notice it comes every winter, and prepare not just for the one coming, but for all of them. It isn’t a different game, just a different view of the same one.
 
-These are the fundamentals. Every playbook ever written has to answer to them.
+Here are the game’s fundamentals. Every idea about how to play it better, whether an ideology, business plan, tradition, tactic, or strategy, has to answer to them. Some of these playbooks are brilliant, but all are imperfect, and none fits every field of play.
+
 - Nature’s laws are fixed and indifferent to any beliefs.
 - No creature sees the whole board.
 - Every lifeform must find resources or die trying.
@@ -1125,11 +1126,11 @@ DING. DING. DING.
 
 Why are humans so similar across the world, despite living in completely different environments? The answer lies in our shared origin in Africa and the technological co-evolution that followed us out.
 
-The natural human player of the game is rooted in shared biological instincts and requirements. People need to eat, love, have shelter, hope, and many other things. Among our limitations is that we are social like mammals but not eusocial like ants: will never embrace working for others or give blind loyalty without getting some benefit in return. Regardless of the many artificial attempts to impose this identity on humans, these are pretty universal features of mankind across time and geography.
+The natural human player of the game is rooted in shared biological instincts and requirements. People need to eat, love, have shelter, hope, and many other things. Among our limitations is that we’re social like other mammals, but not eusocial like ants, whose workers live only to serve the colony. Regardless of the many artificial attempts to impose this blind-loyalty identity on humans, these are nearly universal features of mankind across time and geography.
 
-There is a reason why using pure genotype or phenotype perspectives to explain and solve humanity's problems both fail. Both genetic and cultural evolution must operate together to build the extended phenotype. Technololgy is why _Homo sapiens_ needed and have both very similar physiology and very similar culture.
+There is a reason why using pure genotype or phenotype perspectives to explain and solve humanity's problems both fail. Both genetic and cultural evolution must operate together to build the extended phenotype. Technology is why _Homo sapiens_ has both very similar physiology and very similar culture.
 
-Using our bodies and minds to create new technology is what motivates our souls. It puts smiles on our faces so easily we give them as gifts to kids who can't speak. No one has to force a kid to play with a new tool, we naturally take joy in touching, learning, and using this amazingly new creations of life.
+Using our bodies and minds to create new technology is what motivates our souls. It puts smiles on our faces so easily we give them as gifts to kids who can't speak. No one has to force a kid to play with a new tool, we naturally take joy in touching, learning, and using these amazing new creations.
 
 That's why no human population is biologically locked out of learning any tool. The fundamentals of tool use are open to every human, everywhere.
 
@@ -1137,21 +1138,21 @@ This shared drive to create new technology starts off with our shared history. _
 
 Geographers call this the friction of distance. It's important because relative tribe isolation allowed many adaptations a chance to offer themselves to the coach's selection. The legacy of this time period lives on today; there is still more genetic diversity in sub-Saharan Africa than in the rest of the entire world.
 
-In this hotbed of evolution, _Homo sapiens_ became a nomadic hunter-gatherer group, with people and lifestyle that we would recognize today. We're so close to these persons that, because of a genetic quirk of mitochondrial DNA, we can even trace all modern humans to a single common woman ancestor who lived approximately 155,000 years ago, colloquially called "Mitochondrial Eve". 
+In this hotbed of evolution, _Homo sapiens_ became a nomadic hunter-gatherer group, with people and lifestyle that we would recognize today. We're so close to these persons that, because mitochondrial DNA passes only from mother to child, we can even trace all modern humans to a single common woman ancestor who lived approximately 155,000 years ago, colloquially called "Mitochondrial Eve". 
 
-It's perhaps comical to imagine, but a modern human could be transported back to our ancestors in East Africa and—eventually—do fine. We could physically perform the way of life. Community driven hunting, resource gathering, and child rearing in groups where we knew everyone's name, personality, and goals. Tribes had hunting and foraging grounds across savannas and woodlands. While looking for our next meal, the average daily trip was about 6-9 miles (10-15 kilometers) a day, probably not a coincidence that is about the caloric expenditure many people expend today while staying in shape.
+It's perhaps comical to imagine, but a modern human could be transported back to our ancestors in East Africa and—eventually—do fine. We could physically perform the way of life. Community driven hunting, resource gathering, and child rearing in groups where we knew everyone's name, personality, and goals. Tribes had hunting and foraging grounds across savannas and woodlands. While looking for our next meal, the average daily trip was about 6-9 miles (10-15 kilometers) a day, probably not a coincidence: it is about the calories many people burn today to stay in shape.
 
 Many _Homo sapiens_ tribes lived in Africa for thousands of generations. But our biological adaptations had maxed out. Extreme distance walking and running could get us calorie dense food and forage, but with our hungry brains, vulnerable kids, little fat or hair to keep us warm, we were at a biological endpoint as a species.
 
-Anything we need to outsmart the emergent game board and go faster than the sand clock was very much noticed.
+Anything that helped us outsmart the game board and outpace the sand clock caught the coach’s attention.
 
-So, the coach kept picking _Homo sapiens_ who developed better tools, crafted warmer clothes, and passed on more knowledge into complex social structures connected with evermore gossip and teachings. Around 100,000-70,000 years ago, East Africa was such a hotbed of innovation it's called the Cognitive Revolution. Some say the development was more gradual, but in any event _Homo sapiens_ developed symbolic thinking, complex language, advanced tool-making, and artistic expression. This change allowed humans to create art, plan for the future, develop spiritual beliefs, and cooperate at larger scales than ever before.
+So, the coach kept picking _Homo sapiens_ who developed better tools, crafted warmer clothes, and passed on more knowledge into complex social structures connected with evermore gossip and teachings. Around 100,000-70,000 years ago, East Africa was such a hotbed of innovation some call it the Cognitive Revolution. Some say the development was more gradual, but in any event _Homo sapiens_ developed symbolic thinking, complex language, advanced tool-making, and artistic expression. This change allowed humans to create art, plan for the future, develop spiritual beliefs, and cooperate at larger scales than ever before.
 
 A spear outlives its maker, can be employed by a user, and inspires a tinkerer to make a change. As does a fur coat, a bone needle, a stone blade. What our genes couldn’t pass on, our tools and teachings could.
 
 It's not hard to imagine our ancestors—with mostly modern bodies and brains—sitting around campfires after a day's work. With wonderfully perceptive eyes and budding storytelling, they fashioned characters and events to explain the Game of Life they sensed they were playing. Just looking up at the Milky Way must have been the most awesome experience. With a virtual blank slate, persons imagined (or realized depending on the reader's beliefs) that beings, titans, and gods held the strings on the people playing at life down on Earth.
 
-Before the Cognitive Revolution we were physically modern humans, after it we behaved like modern humans. A modern person would be relatively happy here. Ecologist Gordon H. Orians research suggests that our current love of a house on a lake, with the mountains behind us and a grassland in front, is from our evolving in East Africa during this time period.
+Before the Cognitive Revolution we were physically modern humans, after it we behaved like modern humans. A modern person would be relatively happy here. Ecologist Gordon H. Orian's research suggests that our current love of a house on a lake, with the mountains behind us and a grassland in front, is from our evolving in East Africa during this time period.
 
 Yet, the relative safety, abundant resources, and pleasant weather were soon to be a happy memory.
 
@@ -1167,17 +1168,17 @@ However it happened, by about 40,000 years ago, archaic humans were effectively 
 
 By mixing genotype and phenotype variation, humans were doing what life always does—producing evolved variations—only now with their extended phenotype, technology, as the medium. The tool itself was thereafter being selected by the coach as _Homo sapiens_ kept adapting our cultures and co-evolving tools to nearly every game board on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sand clock and keep scoring procreation points around the world.
 
-Now the extended phenotype—technology—had the uniformity it needed in humans to sprout across the globe. Just as early plants ground rock into soil and slowly allow for more life, a uniform humanity became the soil technology could take root in anywhere. Once it got hold, its ecosystem spread far and wide, with humans often deciding which tools lived and which died.
+Now the extended phenotype—technology—had the uniformity it needed in humans to sprout across the globe. Just as early plants ground rock into soil and slowly allowed for more life, a uniform humanity became the soil technology could take root in anywhere. Once it got hold, its ecosystem spread far and wide, with humans often deciding which tools lived and which died.
 
 ## Chapter 10—Planting, Building, and Playing the New Game
 
 Humanity has a base identity using both our genes and upbringing, or genotype and phenotype in nature's eyes. _Homo sapiens_ have a shared culture and physiology that when put together helped us create, use, and spread technology around the world.
 
-As we spread across the world, we created extended phenotypes according to the problems of whatever emergent game board we encountered. Wooden spear tips became flint rock or obsidian, caves mammoth tusk tents, fur skins were sewn into clothing. But, hunting and gathering with tools was still mostly as before.
+As we spread across the world, we created extended phenotypes according to the problems of whatever emergent game board we encountered. Wooden spear tips became flint rock or obsidian, caves became mammoth-tusk tents, fur skins were sewn into clothing. But, hunting and gathering with tools was still mostly as before.
 
-The invention of agriculture was the dawn of civilization. It's called the Neolithic Revolution. It occurred independently at different times. First taking root in Southwest Asia's Fertile Crescent around 10,000 BC, China 9,000 BC, Mesoamerica 5,000 BC and other regions afterward. As Jared Diamond notes in his landmark _Guns, Germs, and Steel_, each civilization was heavily influenced by the local wildlife and resources, however most locations started some mixture of permanent human settlements, the domestication of animals, clay pottery, and in some places later on, metal making.
+The invention of agriculture was the dawn of civilization. It's called the Neolithic Revolution. It occurred independently at different times: first taking root in Southwest Asia's Fertile Crescent around 10,000 BC, China 9,000 BC, Mesoamerica 5,000 BC and other regions afterward. As Jared Diamond notes in his landmark _Guns, Germs, and Steel_, each civilization was heavily influenced by the local wildlife and resources; however most locations started some mixture of permanent human settlements, the domestication of animals, clay pottery, and in some places later on, metal making.
 
-In every instance civilization drastically increased the productivity of land. Farming fed far more people per acre, even though early farmers often worked longer and ate worse than foragers, eventually humans learned to master farm water irrigation, crop rotation, and had a relatively stable food supply throughout the year.
+In every instance civilization drastically increased the productivity of land. Farming fed far more people per acre, even though early farmers often worked longer and ate worse than foragers. Eventually humans learned to master farm water irrigation, crop rotation, and had a relatively stable food supply throughout the year.
 
 Freed from the daily hunting and gathering treks, humans had more time on our hands and crucially more jobs to do. We strayed more from the wilderness realm and built new things, divided the labor to do it, and created political regimes to keep everyone organized and working. Within a few thousand years the Stone Age turned into the Copper, Bronze, then Iron Age, each stage remade civilization's farming, logistics, housing and other staples based on an amazing new material available to build the powerful new tools.
 
@@ -1187,27 +1188,27 @@ With each new technological selection, the coach was carving a new type of playe
 
 Think how weird and wonderful it is that all humans can breed with each other, live anywhere, and use any tool. Inventing and modifying takes much study, but regardless of the complexity most anyone can use any tool. For a modern example, most every tech nerd has been asked to help someone set up a new iPhone or printer. Yet, once set up, the owners of these tools can easily connect with friends, stream movies, process insurance claims.
 
-This isn't an accident. There's no way for a person to invent a hoe or sword that a stranger or enemy can't use. Tools spread to where the problems existed. That could be water wells giving fresh hydration, to stone walls giving protection against weather and foe, and when online streaming replaced the commute to get and return DVDs.
+This isn't an accident. There's no way for a person to invent a hoe or sword that a stranger or enemy can't use. Tools spread to where the problems existed. That could be water wells giving fresh hydration, to stone walls giving protection against weather and foe, and online streaming replacing the commute to get and return DVDs.
 
-Even today, it's not hard to imagine how a person living in a jungle could use an iPad and satellite internet to better his life, if only to see where the loggers are headed to next.
+Even today, it's not hard to imagine how a person living in a jungle could use an iPad and satellite internet to better his life, if only to see where the loggers are headed next.
 
 Our real-life pains are the thing technology will never feel, yet we designed technology to solve them in a classic case of co-evolution.
 
 Turning us into its users, empowering us to live anywhere on the globe, technology created the soil in which it grows. Human pains, pleasures, and passions guide technology where to evolve next.
 
-Co-evolving with technology had a profound effect on our genotypes and phenotypes. It’s why so much of our individual variety, which harsher environments might have trimmed away, found a place. Civilization allowed more human variations to live, by liberating it from constraints of the African plain environment.
+Co-evolving with technology had a profound effect on our genotypes and phenotypes. It’s why so much of our individual variety, which harsher environments might have trimmed away, found a place. Civilization allowed more human variations to live, by liberating them from constraints of the African plains environment.
 
 In return, humanity had to seed, inhabit, work, and harvest from a different ecosystem.
 
-Physically, we vary enormously—in muscle mass, fat distribution, how efficiently we use oxygen. None of this is one gene flipping on or off. Each trait is polygenic: hundreds of tiny genetic variants, each nudging the outcome a little, adding up to a wide spectrum rather than a few fixed types. That's why, as humanity met new problems, our variety meant someone was usually better suited to provide an edge to get the job done, whether sprinting fast, swimming against the current, or hammering steel.
+Physically, we vary enormously—in muscle mass, fat distribution, how efficiently we use oxygen. None of this is one gene flipping on or off. Each trait is polygenic: hundreds of thousands of tiny genetic variants, each nudging the outcome a little, adding up to a wide spectrum rather than a few fixed types. That's why, as humanity met new problems, our variety meant someone was usually better suited to provide an edge to get the job done, whether sprinting fast, swimming against the current, or hammering steel.
  
 And it's not just our bodies that give abundant variations. Socially we have a wide spectrum of people too. The introvert drained by a crowd, the extrovert fed by it, and from loving reliable tradition to needing to explore risky new things. Mentally there are people of endless different abilities too. The person who recites histories from memory, another doing math in her head, a third who plays music no one taught her. No two humans have builds, temperaments, or minds that are quite alike.
 
-As civilization advanced, more of the options in our 3.2 billion DNA base pairs were coming out that might have been trimmed away in the biological world, but were finding niches in a home in civilization and therefore the Game of Technological Life.
+As civilization advanced, more of the options in our 3.2 billion DNA base pairs were coming out that might have been trimmed away that biology might have trimmed away were finding niches in civilization, and therefore in the Game of Technological Life.
 
-I often wonder how my speech impediment would have changed in earlier times. At least in nomadic times, I think it might have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. But as society grew, I likely would have missed out on many opportunities to advocate for myself in political conversations at best or tossed aside at worst, explained within the stories of the time as "cursed" or a simpleton of some kind.
+I often wonder how my speech impediment would have changed in earlier times. At least in nomadic times, I think it might have been an advantage. Tracking game, avoiding predators, evading competitors, it might help to be naturally quiet. But as society grew, I likely would have missed out on opportunities to advocate for myself at best, or been tossed aside at worst, explained within the stories of the time as "cursed" or a simpleton of some kind that still exist in the 21st century.
 
-Of course I don't know this, but I only mean to say our different personalities, body types, mental abilities, and other characteristics often find a good home in civilization. For myself, not being able to talk too much, undoubtedly changed personal development. It made it easier to empathize with others while also making me indignant against social rules about what is polite or acceptable to say because these add another layer of complexity when I was often happy to say anything at all.
+Of course I don't know this, but I only mean to say our different personalities, body types, mental abilities, and other characteristics often find a good home in civilization. For myself, not being able to talk too much undoubtedly changed personal development. It made it easier to empathize with others while also making me indignant against social rules about what is polite or acceptable to say because these add another layer of complexity when I was often happy to say anything at all.
 
 As noted geneticist Theodosius Dobzhansky said, "The pervasiveness of genetic variation provides the biological foundation of human individuality." The point for us being, the technological ecosystem had many open spots, and often our wonderfully unique personalities fit into these niches.
 
@@ -1221,7 +1222,7 @@ Andrew Higgins, a hard-drinking, hot-tempered boatbuilder from New Orleans, spen
 
 And it's not just notable people. The fact that so many people will learn how to use available technologies and resources to build homes, teach kids, farm food, fix machines, process claims, all the while finding minute ways in their daily lives to advance civilization is amazing.
 
-Different personalities can find success because diversity is ecosystem security. The fact most people share so much in common means we can still mass-produce the tools we need to populate the technological ecosystem. When World War II came, America turned to William Knudsen, a Danish immigrant who had risen from bicycle mechanic to president of General Motors. He left for a dollar a year to turn car factories into arsenals.
+Different personalities can find success because diversity is ecosystem security. The fact most people share so much in common means we can still mass-produce the tools we need to populate the technological ecosystem. When World War II came, America turned to the same William Knudsen. He left for a dollar a year to turn consumer goods factories into arsenals.
 
 Diversity and mass production together are how genotype and phenotype found success in the biological world, and it’s the same recipe for the extended phenotype too. Biology grew to have countless species of trees, insects, birds, mammals, predators and so on. Thus evermore diverse human genotype and phenotype got a shot to play the game because of the need for diversity when co-evolving with tools. 
 
@@ -1237,7 +1238,7 @@ Predators hunt inefficiency. Wherever a tool wastes time, energy, or material, s
 
 Scavengers can't help but use, collect, and hoard every last piece of technology everyone else thinks is junk. Decomposers break down dead technology back into reusable inputs like wreckers recycling total loss cars.
 
-Now for viruses, or what I like to call testers. These are the people who find novel uses for existing technology, just as viruses move genetic material between organisms. Sometimes the result is a helpful innovation, sometimes it's a crook—I dealt with plenty of those adjusting claims, and was accused of being one often enough to reflect on it. Either way, by constantly hacking whatever exists, testers check every member of the ecosystem for its fitness, acting as an ever-present selection pressure. (Testers isn't a standard ecological classification; I'm using it for simplicity.)
+Now for viruses, or what I like to call testers. These are the people who find novel uses for existing technology, just as viruses move genetic material between organisms. Sometimes the result is a helpful innovation, sometimes it's a crook—I dealt with plenty of those adjusting claims, and was accused of being one often enough to reflect on it. Either way, by constantly hacking whatever exists, testers check every member of the ecosystem for its fitness, acting as an ever-present selection pressure. (Testers isn't a standard ecological classification; I'm generalizing the group for simplicity.)
 
 Notice that each role has its own relationship with time. Everything useful eventually runs down, so every player has to reach stored energy before the sand clock does, but each works at its own pace.
 
@@ -1249,11 +1250,13 @@ Let's look at each role in how streaming replaced Maria's DVD store. Producers c
 
 Innovators locked their eyes on this waste. They mutated the available material, digitized content, hard drives, home theaters, but cut out the physical discs. Instead they empowered people with high-speed internet to download from centralized hard drives.
 
-These new tool owners were predators. They sought to replace the disc with smart TVs and streaming sticks the DVD stores never recognized as a threat. It worked. Every increase in download speed eliminated a little more of the DVD's user base, because the drive, the late fee, and the empty shelf on Friday night were like air drag on the wings of a bird. Hackers tested the old system by making illegal downloads available when streaming wasn't. The result was people and their tools became more aerodynamic, more efficient, with every download. 
+These innovators were the predators. They sought to replace the disc with smart TVs and streaming sticks the DVD stores never recognized as a threat. It worked. Every increase in download speed eliminated a little more of the DVD's user base, because the drive, the late fee, and the empty shelf on Friday night were like air drag on the wings of a bird. Hackers/testers tested the old system by making illegal downloads available when streaming wasn't. The result was people and their tools became more aerodynamic, more efficient, with every download. 
 
-Producers switched from making DVDs to making data center hard drives and fiber-optic cables. Demo teams smashed the closed stores and warehouses and collected the spare computers, trucks, and shipping equipment. This material and any excess merchandise was auctioned off to whoever could scavenge the last bit of value from the meat of the dead DVD industry.
+Producers switched from making DVDs to making data center hard drives and fiber-optic cables. Decomposers, the demo teams, smashed smashed the closed stores and warehouses and collected the spare computers, trucks, and shipping equipment. This material and any excess merchandise was auctioned off to scaveners who took the scraps to find every last bit of value from the meat of the dead DVD industry.
 
-Maria's customers weren't stolen from her. They watched their stories with a faster set of adaptations, as a new technological species. The energy flow biologists study so well happens with human roles too. The energy saved built faster networks, data centers, and computers that enabled—among other things—the music videos, instruction videos, and documentaries. When Maria lost her regional manager identity the saved energy benefited the ecosystem enormously.
+Maria's customers weren't stolen from her. They watched their stories with a faster set of adaptations, as a new technological species. The energy flow biologists study so well happens with human roles too. The energy saved built faster networks, data centers, and computers that enabled—among other things—the music videos, instruction videos, and documentaries.
+
+Maria lost her distribution manager identity, the gathering place for film lovers, and, most painfully, her income. Yet the energy saved didn’t vanish. It flowed back into the ecosystem she belongs to, building electric cars and charging networks, satellite internet, AI, and new jobs where her eye for a good story and her grip on logistics are still veru much needed.
 
 Like the toy hammers and blocks under a Christmas tree, the things we play with often become the tools that evolve us. Streaming drove demand for faster home internet, which later carried telemedicine and work from anywhere. Graphics chips built for video games now power AI.
 
@@ -1267,7 +1270,7 @@ But that would be wrong. Why is a copper water pipe or medical textbook artifici
 
 That's why projects that demand sameness—whether by race, ideology, or class—work against the technological ecosystem. They cull the people that would fill the many niches of a healthy ecosystem. They don't just constrain individual freedom; they starve the ecosystem of the players it requires to sustain itself against the true enemy; the great darkness that never stops. Entropy.
 
-The problem is technology does not always grow as naturally as we need it to keep playing the game.
+The problem is that technology does not always grow as naturally as we need it to keep playing the game.
 
 ## Story—Help
 
@@ -1277,7 +1280,7 @@ The system could be nuts, the job wasn't fun, but the people's needs were very r
 
 Someone's car was stolen, or there was a hit-and-run, sometimes even a drive-by shooting. If it's covered (those usually are with comprehensive and collision coverage), you help get their car fixed or replaced.
 
-Adjusters work for the insurer, the “second party” and the insured is the “first party”. The policy requires insureds to answer relevant questions. That's what makes the work so educational: we step into a customer's situation and must either vouch for their story or do a documented investigation to disprove it (a tall order but it happens sometimes).
+The insured is the "first party". The adjuster/insurer is “second party”s. The policy requires insureds to answer relevant questions. That's what makes the work so educational: we step into a customer's situation and must either vouch for their story or do a documented investigation to disprove it (a tall order but it happens sometimes).
 
 This was especially true for two claims I can't forget.
 
@@ -1299,9 +1302,9 @@ I often wonder what that mother did while she waited, with sewage in the walls, 
 
 As for the high-end homeowner—he noticed my coworker had forgotten to photograph parts of his basement. A bare basement, empty of almost anything. He submitted his item list months later. Antique furniture and priceless art, supposedly worth hundreds of thousands, if not millions.
 
-His case in court was simple: "You were there. Prove I didn't have it." The case went on for years. I'm pretty sure he eventually won too much money.
+His case in court was simple: "You were there. Prove I didn't have it." The case went on for years.
 
-Time told us who really needed the help. But the system couldn’t tell the difference between desperation and greed. We had to treat everyone the same, even though one person’s need made the work worthwhile, and another’s greed made it crap.
+Time told us who really needed the help. But the system couldn’t tell the difference between desperation and greed because it sorted events based on the story and not on impartial truth of the game board.
 
 ## Chapter 11—Back to Natural
 
@@ -1427,7 +1430,7 @@ And the Allies woke up. Charles de Gaulle had spent the 1930s writing that Franc
 
 But the biggest change came when America entered the war in late 1941.
 
-With "Rosie the Riveter" and "Victory Program" leading the way, America turned what the Nazis called a decadent consumer economy to mass-produce quality and reliable weapons, planes, ships faster than anyone thought possible. William Knudsen, the machinist who went on to lead General Motors, was promoted to General and given authority to direct Army's war production.
+With "Rosie the Riveter" and "Victory Program" leading the way, America turned what the Nazis called a decadent consumer economy to mass-produce quality and reliable weapons, planes, ships faster than anyone thought possible. William Knudsen, a Danish immigrant who had risen from machinest to president of General Motors, was promoted to General and given authority to direct Army's war production.
 
 It worked wonders. In 1942 America already outproduced all enemy states combined, 47,000 aircraft to 27,000, 24,000 tanks to 11,000, and six times as many heavy guns. The disparity only increased as time went on.
 
@@ -1775,11 +1778,11 @@ This has worked for billions of years. It is happening all around you right now 
 
 Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt to the game board; the others mislead us, and often take their believers down with them.
 
-How do we tell which is which? It matters, because in our game, as you now know, the coach is you
+How do we tell which is which? It matters, because in our game, as you now know, the coach is you.
 
 Let's experience the game ourselves. By only sensing water, seeing motion, following instinct, lifeforms make an ecosystem, raise offspring, and pass the torch. The lifeforms that best read when fruit ripens, when sunlight appears, and endless other environmental patterns, survive to play again.
 
-This chapter isn't written like a story. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow life.
+This chapter isn't written like a story. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow more life.
 
 In each life that follows, don’t just watch. Put yourself in the place of each species and each idea you meet, and ask: does it read the world and earn its place on the game board?
 
@@ -1803,13 +1806,7 @@ water.
 sunshine? no sunshine.
 sunshine? no sunshine.
 sunshine
-
-wind?
-fish?
-oil?
-energy?
-
- -->
+-->
 
 Wind carries seeds. Seeds land. Most keep moving.
 
