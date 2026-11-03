@@ -3939,7 +3939,103 @@ He drops his pencil. Extends his hand.
 "Learn."
 
 
+---------------------
+---------------------
 
+### Energy Bloom to Bust
+
+A scarce resource appears, opportunists exploit it quickly, and the controls on growth lag behind.
+Not the amount of atoms each part needs. with the energy levels. a recipe for life.
+
+--
+
+Drift. Drift. Drift.
+
+Dark. Deep.
+
+Carbon is here. Nitrogen is here. Silicon is here. Phosphorus is here.
+
+Intake. Store. Keep. Carbon 106 bits. Nitrogen 16 bits. Silicon 16 bits. Phosphorus 1 bit. No iron. 1 tiny iron bit missing.
+
+Drift. Drift. Drift.
+
+Ice above. Ice melts.
+
+Iron here. Iron here. 1 tiny iron bit needed.
+
+Intake. Store. Keep all bits. Alga full.
+
+No light. No energy. No ice.
+
+Drift. Drift. Drift.
+
+Sunlight.
+
+Alga cell grow!
+
+Carbon becomes structure. Nitrogen is protein, acids, chlorophyll. Phosphorus is genes. Phosphorus is membrane. Phosphorus is energy. Silicon is shell. Iron carries electrons. Sunlight is energy.
+
+Alga cell grow! Use energy, arrange bits. Build shell. Intake water. Use hydrogen. Something leaves.
+
+Alga cell becomes two.
+
+Sunlight. Sunlight.
+
+Use energy, arrange bits. Build shell. Intake water. Use hydrogen. Something leaves.
+
+Alga cell split. Four. Sunlight. Alga cell split. Eight.
+
+Split. Split. Split. Many split. Many bits are many algae. Ocean thick with me. Ocean green with me.
+
+Small shadows come. Intake algae.
+
+Large shadows come. Intake algae.
+
+Sunlight. Sunlight.
+
+Use energy, arrange bits. Build shell. No energy...
+
+Sunlight less.
+
+Silicon thins. Iron thins. Bits can't grow. Cannot build shell. Alga cannot split.
+
+Sunlight less. Bits clump. Bits sink. Ocean not full with us.
+
+Sunlight gone.
+
+Sink. Sink. Sink. 
+
+Ice above.
+
+Dark. Deep. Wait.
+
+### Learn
+
+
+
+### Bunkers
+
+7:00 AM 
+
+Wake. Rustle out of bed. Don't make sound. Don't wake family. 
+
+### Biosystems
+
+<!-- forestry management of bio assessment based on EO Wilson's and Silent Spring stuff.... -->
+
+### I'm a gamer
+
+<!-- playing an RTS. collecting resources to spend on construction. needs X, Y, Z plus energy to get XYZ. doesn't matter what the game is, or the material. manufacturing more stuff using the dispersed natural resources is the name of the game. he is trying to collect "bits" of wood, water, fish, rock, gold, etc. because he needs these to form walls, wagons, in certain amount, just like the algae.
+
+thereafter goes to store to search for a GPU
+
+not there.
+
+another geek is buying them up.
+
+conversation. F AI
+
+then AI guy goes home, to figure out how to use this new thing...-->
 
 
 
@@ -4091,7 +4187,7 @@ https://www.youtube.com/watch?v=plVk4NVIUh8
 
 - darwin evolution, newton's gravity was not insights from the mind but revelations from looking at the data. pattern recognition from detail records. AI is doing the same now, and will reveal our jobs to us, if we don't want to take a look ourselves...
 
-
+- we ask immigrants and kids to change their identity. we're just doing it on a targer we're making ourself. doctors tests patients for their arrangement of "bits", too much of this, too little iron, and then they say change your diet, intake some chemicals, these bits will fix your bits. we're just doing that for our civilzation and technology...
 
 --
 
