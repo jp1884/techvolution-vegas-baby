@@ -3942,7 +3942,7 @@ He drops his pencil. Extends his hand.
 ---------------------
 ---------------------
 
-### Energy Bloom to Bust
+### Bits Together
 
 A scarce resource appears, opportunists exploit it quickly, and the controls on growth lag behind.
 Not the amount of atoms each part needs. with the energy levels. a recipe for life.
@@ -4011,7 +4011,79 @@ Dark. Deep. Wait.
 
 ### Learn
 
+Now I'm flying. Now I'm drinking milk. There is moss, it is warm. I am drinking milk. There is no room left for milk. I want more milk. I am flying again.
 
+Where is there milk? There is no smell here. I like it here.
+
+Smack! Rustle!
+
+Warmth returns. Smell returns. Noise returns. Soft leaves. Soft moss. Warm. Now I'm back here.
+
+Flex legs. Flex arms. Breathe in. Breathe out.
+
+Smack! Stop moving. Mother?
+
+Not mother. Wait. Wait. Wait. Noise is gone.
+
+Where did noise come from? Outside. What is outside of leaves and moss and dark?
+
+Mother? Is that mother? Mother has milk.
+
+Flex arms. Move. Flex arms. Not move. Flex arms forward. Not move.
+
+Flex legs forward. Now move. Must move arms first. Must move legs second.
+
+Move arms. Move legs. 
+
+Move. Move. Move. Air fresh. Air moving. 
+
+Breathe air. Dusty. Windy. No mother.
+
+Squint. So bright. Wow. Light is bright. What is this? Where am I? I was inside a ball of leaves!
+
+Move arms. Move legs. I am upside down! I slip off the leaves. I grab the hard tree. Hard tree holds me high. I smell mother.
+
+Mother chirps. Chirps again. Down. Mother is down.
+
+I hear mother! Mother has milk. Move arms. Move legs. Hard tree. Move. Move.
+
+I was just here. Move again. Move. I was just here. I am going in circles.
+
+I want to go down. How do I go down to mother?
+
+I move arms. Now I move legs. Now I move legs again. I see mother!
+
+Move arms. Move legs. Mother getting closer. 
+
+Move arms. Move legs. Hard tree is fun. I see mother. I move to mother. 
+
+Mother on moss. I am at moss. I touch moss. I am with mother.
+
+Mother holds something.
+
+Mother drops something by me. I reach for it.
+
+I have hands? What are hands? 
+
+Flex arms. I see hands. Hands are funny. Hands are small. Hands have fingers? What are fingers? What do fingers do? Flex fingers.
+
+Fingers move! Fingers are strong. Fingers have claws! Claws grip ball! Claws grip hard tree!
+
+Fingers hold ball. Fingers move ball. Mouth tastes ball. Teeth chip away at ball. Ball has smell.
+
+Mother sniffs ball. I sniff ball. Ball smells like food.
+
+Ball is food.
+
+Mother takes ball. Mother digs. Ball goes under moss. Mother covers it.
+
+Where did ball go? Ball is gone. Smell stays.
+
+Mother sniffs the ground. I sniff the ground.
+
+I smell for nuts. I smell for nuts. Moss smell. Dirt smell. Leaves smell. 
+
+Where is the milk?
 
 ### Bunkers
 
