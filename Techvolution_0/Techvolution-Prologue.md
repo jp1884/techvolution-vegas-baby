@@ -15,17 +15,17 @@ This book does not tell you politics and economics are getting really bad, and t
 
 This book explains why politics and economics are getting both good and bad—and how you, the reader, can adapt to use the good to fix the bad.
 
-We already think this way in many other areas. Musicians, athletes, and builders all know their work is imperfect. They cheer for their own team and still admire a rival’s better play. And no one improves by defending past songs, plays, or blueprints. They improve by studying the fundamentals again.
+We already think this way in so many other areas. Musicians, athletes, and builders all know their work is imperfect. They improve by returning to the fundamentals and practicing them again and again. When a rival writes a better song or plays a better game, they admire it and learn from it, because no one gets better by defending past songs, plays, or blueprints.
 
-Politics and economics are no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game older than any ideology, with fundamentals every living thing plays by.
+Politics and economics are no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game with fundamentals every living thing must play by.
 
-This book explains how we play that game when building a civilization, starting with what it takes to build anything at all, from a bird’s nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again.
+We play that game every time we build our civilization. This book starts with what it takes to build anything at all, from a bird’s nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again.
 
 That’s why this is a book for people in the middle: people who want things to be more rational, level-headed, and future-focused, and who are willing to adapt to improve our forever imperfect world.
 
 ## Giving You a Map and Compass
 
-It is 2011, and a woman named Maria has built a good life. Californian, Hispanic, college graduate, progressive, movie lover, book nerd, regional manager—she carries all the labels we commonly use to describe a person. But none of them captures the fact that matters most to her future: high-speed internet has finally become widespread, and Maria manages distribution for a company that rents and sells Digital Video Discs (DVDs).
+It is 2011, and a woman named Maria has built a good life. Californian, Hispanic, college graduate, progressive, movie lover, book nerd, distribution manager—she carries all the labels we commonly use to describe a person. But none of them captures the fact that matters most to her future: high-speed internet has finally become widespread, and Maria manages distribution for a company that rents and sells Digital Video Discs (DVDs).
 
 Physical media has a powerful challenger. Maria's professional networks, her hard-won expertise, her entire livelihood—all of it could lose its value. But DVD players sit in nearly every TV stand in America. Families have spent years and real money filling their home theaters with media collections. Are they really going to "stream" their beloved shows and movies from far away data centers instead?
 
@@ -96,25 +96,21 @@ Your paycheck is a species, subject to all the laws of nature. Some are thriving
 
 _Techvolution: On the Origin of Technological Species_ presents a different way of understanding human civilization: our fate is driven not by our beliefs or ideologies, but by the technologies we create and use. These ideas aren't meant to stay on the blackboard.
 
-They're meant to build a day where your tools are easier to learn, where changing jobs doesn't mean starting over, and where you match each problem in work, home, school, with the best tool regardless of which ideological tribe it belongs to. Getting there takes three steps.
+They're meant to build a day where your tools are easier to learn, where changing jobs doesn't mean starting over, and where you match each problem at work, home, or school with the best tool regardless of which ideological tribe it belongs to. Getting there takes three steps.
 
-**Book I—A New Identity:** It starts with how we see ourselves. We have names for our nationality, our ethnicity, our job, our politics, but no name for the identity that quietly runs our lives: the tools we use to house ourselves, get around, and earn a living. Because we miss it, we blame ourselves, "the other" political party, or bad luck when the ecosystem shifts under our feet.
+**Book I—A New Identity:** It starts with how we see ourselves. We have names for our nationality, ethnicity, job, and politics, but no name for the identity that quietly runs our lives: the tools we use to house ourselves, get around, and earn a living. Because we miss it, we blame ourselves, "the other" political party, or bad luck when the ecosystem shifts under our feet.
 
-Evolution never tested Maria as a regional manager or a college graduate. It saw someone selling physical-media stories in the Internet Age. And, regardless of the stories we tell, slow adaptations get replaced in nature _and_ civilization. Someone who knows this can read the wind instead of cursing it, shed the aging tool, and transfer the hard-won knowledge to the next adaptation. After all, Maria's eye for a good story and her grip on logistics are needed in whatever comes next. The same is true of the knowledge and experience you have today when facing AI or whatever comes next.
+Evolution never tested Maria as a distribution manager or a college graduate. It saw someone selling physical-media stories in the Internet Age. And, regardless of the stories we tell, slow adaptations get replaced in nature _and_ civilization. Someone who knows this can read the wind instead of cursing it, shed the aging tool, and transfer the hard-won knowledge to the next adaptation. After all, Maria's eye for a good story and her grip on logistics are needed in whatever comes next. The same is true of what you know today, whether you’re facing AI now or something new tomorrow.
 
-**Book II—Mixed Ideological Politics:** Today our politics is a fight between stories, on the news and in podcasts. But underneath, many of us are defending the tools that pay our bills. The oil-field worker and the solar installer argue about the climate. The trucker and the transit planner argue about road networks. Each is talking about values, and each is also protecting a livelihood. That's not hypocrisy; it's what every creature does. Once we've named the tools we depend on, we can stop arguing against each other or worse inside echo chambers, and instead evaluate the technological ecosystem we all depend on about them honestly.
+**Book II—Mixed Ideological Politics:** A heat pump doesn't know it's "green." A diesel truck doesn't know it's "red-blooded American." We attach such labels with stories and then reject good tools for wearing the wrong one. After Book I told us our true identity, Book II teaches us how to strip away story-based identities from any tool so we can install tools without thinking we've betrayed an ideological tribe. 
 
-We should not see a heat pump and think it's "green," or a diesel truck and think it's "red-blooded American."
+In nature, forests grow where the sun shines and the water runs. Book II teaches us how to judge our tools by their local usefulness instead of the playbook they belong to. This radical freedom to grow and shed tools based on the environment is political moderation reimagined for the people of the Internet Age.
 
-Nature doesn't function that way. Forests grow where the sun shines and the water runs. Book II teaches us how to judge our tools by the fundamentals instead of the playbook they belong to, so solar panels and diesel generators can go wherever they contribute, without anyone feeling they've betrayed a tribe. That freedom is political moderation, reimagined for the Internet Age.
+**Book III—Bumblebee Economics:** Free to choose our tools, we can build a more reliable and renewable economy generating power to make and distribute products in our supply chains. Nature is our model. All plants use the same sunlight. Predators eat most meats. A bee works any flower it finds. By using universal standards, everyone gets to play, and nature finds the best fit for every opportunity.
 
-**Book III—Bumblebee Economics:** Free to choose our tools, we can finally build a better working day as everyone ventures for their daily food, water, and shelter needs. To get them we generate power, to make products and distribute them. A farm, a truck, a grocery store is a supply chain.
+This means we need far more standards in our economy. We're good at making standards like USB, shipping containers, and VIN numbers. Less good at settling on them: the DVD's successor foolishly split into two rival discs. And we have few standards at all for selling, staffing, or moving goods and people. Just think of the pains of resume writing, interviews, onboarding, and learning the ropes of a new job, never mind a new industry.
 
-Nature knows how to make this energy flow work renewably and reliably. All plants uses the same sunlight. Predators eat most meats. A bee works any flower it finds. With universal standards, everyone gets to play, and nature finds the best fit for every opportunity.
-
-This means we need far more standards. We're good at making standards like USB, shipping containers, and VIN numbers. Less good at settling on them: the DVD's successor foolishly split into two rival discs. And we have few standards at all for selling, staffing, or moving goods and people. Just think of the pains of resume writing, interviews, onboarding, and learning the ropes of a new job, never mind a new industry.
-
-With coherent standards, Maria's next niche is easier to find and embrace. She can use her knowledge and skill sets to cross-pollinate a new part of the ecosystem. Book III details the adaptations that enforce widespread standards and interoperability in nature so we can use them in our economy. When every organism is put to constant use, nothing is wasted. Bounty is the result in nature, and in civilization too.
+With coherent standards, Maria's next niche is easier to find and embrace. She can use her knowledge and skill sets to cross-pollinate a new part of the ecosystem. Book III details the adaptations that enforce widespread standards and interoperability in nature so we can use them in our economy. When every organism is put to constant use, little is wasted. Bounty is the result in nature, and in civilization too.
 
 `Understand yourself → Learn to select better tools → Build bounty with others`
 
