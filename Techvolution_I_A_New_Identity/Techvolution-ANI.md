@@ -3659,9 +3659,9 @@ Must keep going.
 
 1960-. Fact! A human brain can recover lost functions by bypassing a dysfunctional area.
 
-Idea! A completely distributed communication network. With no centralization information can always find a way through. Like a fishnet with every node connected to multiple others. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust as the theoretical limit. Redundancy is possible. Redundancy is key.
+Idea! A completely distributed communication network. With no centralization information can always find a way through. Like a fishnet every communication node can be connected to multiple other nodes. Run simulations with my team. Discovery! Just three or four connections per node are nearly as robust as the theoretical limit. Redundancy is possible. Redundancy is key.
 
-Problem! Our phone system has physical connections. Phone connections therefore fail and drop calls rather easily. We need to make communications digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. Like sending a book in postcards.
+Problem! Our phone system has physical connections. Phone connections therefore fail and drop calls too easily. We need to make communications digital and redundant. Let's break every message into very small blocks of data. Each finds its own route through the net. Everything reassembles at the destination. Like sending a book in postcards.
 
 If a message is lost, we can send just the page needed, not the entire book. Block messages vastly increase redundancy.
 
@@ -3687,7 +3687,7 @@ Must keep going.
 
 1964-. RAND lets me publish eleven volumes of engineering specifications. Complete system architecture. Anyone can read them. US government's Advanced Research Projects Agency (ARPA) distributes the volumes at conferences. A Brit, Donald Davies, has a similar idea. He called message blocks "packets". It's a new name for a new idea. I like it.
 
-1967-. Larry Roberts reads our work. He works at ARPA. He approves funding. Vint Cerf, Robert Kahn, other grad students are building the hardware and software to send digital packets. They are doing great work. The distributed communication network is called ARPAnet.
+1967-. Larry Roberts reads our work specifications. He works at ARPA. He approves funding. Vint Cerf, Robert Kahn, other grad students are building the hardware and software to send digital packets. They are doing great work. The distributed communication network is called ARPAnet.
 
 1969-. Four locations are online. UCLA to Stanford Research Institute. UC Santa Barbara to University of Utah.
 
@@ -3703,11 +3703,11 @@ We are going.
 
 Newspapers. Textbooks. Whitepapers. Emails. People are writing about the network. People are using the network everyday from government, military, schools, now even some regular homes are online.
 
+People are working.
+
+Data is moving. 
+
 Three more nodes connect.
-
-### Silent Spring
-
-<!-- add concepts like systems, clear cut, over using, all that jazz that ruins carrying capacity, and then cut to people doing that to the technological ecosystem. -->
 
 ### Soviets - Limits of Predictions
 
@@ -3938,10 +3938,6 @@ He drops his pencil. Extends his hand.
 
 "Learn."
 
-
----------------------
----------------------
-
 ### Bits Together
 
 A scarce resource appears, opportunists exploit it quickly, and the controls on growth lag behind.
@@ -4094,23 +4090,282 @@ Wake. Rustle out of bed. Don't make sound. Don't wake family.
 ### Biosystems
 
 <!-- forestry management of bio assessment based on EO Wilson's and Silent Spring stuff.... -->
+<!-- add concepts like systems, clear cut, over using, all that jazz that ruins carrying capacity, and then cut to people doing that to the technological ecosystem. -->
+<!-- Dutch elm disease outbreak -->
 
-### I'm a gamer
+They must be talking/working to identity and establish an ecosystem....
+city planning session.
 
-<!-- playing an RTS. collecting resources to spend on construction. needs X, Y, Z plus energy to get XYZ. doesn't matter what the game is, or the material. manufacturing more stuff using the dispersed natural resources is the name of the game. he is trying to collect "bits" of wood, water, fish, rock, gold, etc. because he needs these to form walls, wagons, in certain amount, just like the algae.
+area is mapped
+species are logged
+borders are discovered
+numbers/value are assigned
+decisions are made.
 
-thereafter goes to store to search for a GPU
+--
 
-not there.
+A town hall meeting room, 1978. A large table covered by a cloth sits between the developer and the town planner.
 
-another geek is buying them up.
+“Two hundred fifty acres,” the developer says. “I need a subdivision people want to buy into.”
 
-conversation. F AI
+“And I need a town voters are happy to live in,” says the planner.
 
-then AI guy goes home, to figure out how to use this new thing...-->
+“It’s my land.”
 
+“It’s my pen that signs the permits.”
 
+Two graduate students stand at the head of the table. Ana, the older of the two, clears her throat. “Which is why we’re here. We’re not on either side. We just brought the science backed numbers.”
 
+“Settle it here,” Ben adds, “and it never has to go to council or court.”
+
+The developer and the planner glance at each other. Neither wants to do all that paperwork.
+
+“You each have a plan,” Ana says. “The developer wants homes in pockets, with small woodlots and parks scattered between them. The town wants one large reserve with the homes built around it. We’ve been calling them the bread rolls and the loaf.”
+
+“Ecologists have argued about that exact choice for years,” Ben says. “There's no clear answer because each has advantages and disadvantages. We spent weeks logging the species and mapping the borders of the relevant ecosystems and tabluated these numbers. So you can test different developments and see which you want.”
+
+He pulls the cloth away. Underneath, the whole table is a model of the land: hills shaped in plaster, a creek painted blue, the woods made of thousands of tiny sponge trees.
+
+“Impressive,” the developer says.
+
+“Advanced arts and crafts,” Ben says. “We’re grad students, but still students with a teacher to impress.”
+
+Ana hands the developer a stack of cards. Each shows a block of twenty homes. “Place them anywhere. We’ll tell what the ecology will do using our researched numbers to score your choices.”
+
+The developer lays one card in the north woods, then another, leaving a strip of trees between them. Ben flips through a binder of tables and taps a pocket calculator. Ana erases a number on the chalkboard. 412 becomes 351.
+
+“What’s that?”
+
+“Songbird pairs the woods you just created can support.”
+
+He sets a third card beside the first two. More flipping, more tapping. 351 becomes 268.
+
+“I only took a sliver of trees.”
+
+“Every card makes a new edge,” Ben says. “Edges let in wind, sun, house cats, urbanized raccoons. The birds that need deep woods don’t move a little farther in. They leave. Different configurations of woods have different carrying capacities of species.”
+
+The developer taps the blue creek. “This runs right through my best lots. We pipe it underground, along the road.”
+
+Ana writes a new column on the board: WATER. “About thirty inches of rain fall here a year. These woods drink more than half of it. A big oak can pull a hundred gallons out of the ground on a summer day.”
+
+“So?”
+
+“So the creek isn’t just in the way. It’s what keeps the soil wet between rains. Pipe it, and the woods downhill go thirsty. And the water that used to soak in has to go somewhere.” She taps the low corner of the table. “Here. Into someone’s basement.”
+
+Ben slides the creek’s blue paper back where it was. The developer leaves it.
+
+The planner leans over the table, almost smiling. Ana hands her the stack now to play with.
+
+The planner taps the binder. “Where do these numbers come from?”
+
+“Other people’s woods, first,” Ben says. “Scientists have been counting birds in woodlots of every size for decades. Plot the counts against each lot’s size and shape, and a pattern shows up.”
+
+“Then your woods,” Ana adds. “We walked the land every June morning for three weeks and counted every singing bird. Our count matched the tables within a few pairs.”
+
+“So it’s not a guess,” the developer says.
+
+“Your cards are the guess,” says Ben. “The binder tells you how good a guess it is.”
+
+“One more number we can tell you about,” Ana says. She flips the chalkboard. A new column reads HEAT. “Heating oil has nearly doubled this year. So we scored every card for its winter heating bill.”
+
+All of the developer’s cards face the new road.
+
+“Turn one,” Ben says.
+
+The developer rotates a card so its long side faces south. Tap, tap. Ana erases $640 and writes $510.
+
+“Just by turning it?”
+
+“South windows catch the winter sun,” Ana says. She points to the oaks south of the card. “Oaks use sunlight to grow slow, thick, long lasting trees. Keep those. Bare in winter, shade in summer.” Then to the spruce along the north edge. “And those. The wind hits trees instead of walls.”
+
+Tap, tap. $510 becomes $440.
+
+The developer reaches to turn the next card south. The planner puts her hand on it. “You can’t. Town bylaw. Every house faces the street, since 1952.”
+
+“Why 1952?” Ben asks.
+
+She opens her mouth, then closes it, and flips through her binder of bylaws. “Fire trucks,” she says slowly. “Narrow lanes back then. Crews had to see every front door from the road.”
+
+“And now?”
+
+“Wider roads. House numbers on every mailbox. Radios in the trucks.” She glances at the $440 on the board. “The rule doesn't make sense anymore.”
+
+She lifts her hand. “I can grant a variance, and take the bylaw to council.”
+
+The developer turns the card south.
+
+Then he pulls a nursery catalog from his briefcase. “Street trees. One species on every street. A thousand at bulk price.”
+
+“Which species?” Ben asks.
+
+“Something fast. Ash, maybe.”
+
+Ana points out the window. Across the parking lot, a row of gray trunks stands bare in midsummer. “Those were elms. Ten years ago they lined every street in town. The Dutch elm disease comes in, and now they're all dead.”
+
+“So?”
+
+Ben says. “Four or five species, mixed on every street. Same price. But no single disease can take them all, and disease won't spread from tree tip to tree tip.”
+
+The developer circles four names in the catalog.
+
+“My buyers want shade,” he says. “When they move in, not in fifty years.”
+
+Ana sketches two lines on the board. One shoots up and then drops off. The other creeps up and keeps rising.
+
+“Hybrid poplar,” she says, tapping the fast one. “Shade in five summers, gone in forty. Oak,” tapping the slow one, “barely noticeable for a decade, then shade for two hundred years.”
+
+“So which?”
+
+“Both, side by side,” Ben says. “The poplars shade the first family. By the time they come down, the oaks shade the grandchildren.”
+
+The planner smiles. “Planting for people who haven’t been born yet.”
+
+“The squirrels already do,” Ben says, nodding at the woods. 
+
+The Developer smiles at the planner "This is well worthwhile. Lets keep going."
+
+### I'm a Gamer
+
+Gamer is playing or explaining an RTS game. That collecting resources to spend on construction of buildings needs X, Y, Z plus energy to get XYZ. It doesn't matter what the game is, or the material. manufacturing more stuff using the dispersed natural resources is the name of the game. he is trying to collect "bits" of wood, water, fish, rock, gold, etc. because he needs these to form walls, wagons, in certain amount, just like the algae.
+
+---
+
+Dawn on the map. Sunlight washes over a town center. Eight villagers wait for orders. Fog hides the rest.
+
+Basics first. Four to the trees with an axe in hand. Two to the berry bushes with baskets. Click, click.
+
+Chop. Chop. Wood ticks up: 50, 55, 60.
+
+One scout pushes north into the fog. A river. A quarry past it. Fish in the shallows, but not many. Scout farther, or put him to work?
+
+The other scout heads south. She finds thick woods, some stone, open fields. Good for farming. Or for being invaded.
+
+Bits of wood, stone, and food, scattered across the map. None of it is any use where it lies.
+
+Wood: 120. Food: 60.
+
+Everything has a price. A house: 30 wood. A barracks: 150 wood. A villager: 50 food. A warrior: 60 food. Spend now, or save up for better buildings? Where are the other settlements? What are they building? What weather is coming?
+
+I send a villager to fish and reassign two to the trees.
+
+I order a barracks. A red message flashes: _You need 30 more wood_.
+
+The woodcutters have a long walk. Too long? I could build a stockpile beside the trees, but then I can't afford the barracks for another five minutes.
+
+The clock is ticking.
+
+Wow, I love this game. The framerates are dropping too often. The screen stutters as my villagers pile up. This GPU is too old. Let's see about an upgrade.
+
+---
+
+Saturday morning. Five miles to the big electronics store off the highway. Leave early, beat the traffic. But the doors don’t open till ten. One more game, then I’ll go.
+
+The traffic is terrible. I find a spot somewhere in the back. I walk to the store. Hopefully there's an open-box or clearance deal.
+
+I get to the aisle.
+
+The shelf is half empty. No deals at all. The good cards sit behind locked glass. I find the one I've been reading about for weeks and check the tag.
+
+I check it again.
+
+Almost double what I paid last time. Three years. It's supposed to get cheaper. Every year, more power for less money. That's how it always works.
+
+An employee jingles his keys and unlocks the case for the guy beside me. Hoodie, glasses, a phone full of spec sheets. "Two, please."
+
+Two!
+
+This guy is legit. 
+
+"Nice," I say. "What are you playing?"
+
+He smiles. "Chess, mostly. Go. I used to love Age of Empires, Civilization, StarCraft."
+
+"I've lost whole weekends to Age." I nod at the boxes. "So why two of the best cards in the store?"
+
+"AI. I want to run it at home, on my own machine."
+
+He's not even playing games with gaming GPUs.
+
+"Like a chatbot?" I manage to say.
+
+"That, and whatever else AI turns out to be good for. That part's still fog."
+
+The employee slides the boxes across the counter. Two cards. Built for games. Going home with a guy who plays chess.
+
+Something hot climbs up my neck.
+
+"You know you're the reason these cost so much, right?"
+
+He turns, surprised.
+
+"Guys like you," I say. "Buying two at a time for chatbots. Three years ago, I bought a card like that for half the price. Now gamers can't afford to upgrade. We're the ones who actually use them."
+
+He nods. "You're right."
+
+"So you admit it."
+
+"Sure." He takes out his wallet. I watch the clerk pull two of the last five cards from the case.
+
+"This is bullshit. You don't even know what you're going to use it for."
+
+He looks back at me. "Do you like playing the same game all the time?"
+
+"Of course not."
+
+"We planted the seeds by buying and testing out gaming hardware for years. Maybe this is the harvest. Not many of us bought shares, but if it's good enough to buy then it's good enough to own too. Get some shares and vote on who runs the place."
+
+"I'm a gamer, not an investor."
+
+"Do your villagers ever complain when you pull them off fishing and send them to chop wood?"
+
+This guy's a fool. "That's a game. This is life."
+
+"You expected new cards to be here because they were last year. That's foraging. Game graphics used to look like crayons. Now it's photorealistic. Imagine that rate of progress for data, knowledge, science! I want to try it out."
+
+"AI wastes so much energy."
+
+He takes the receipt. The clerk reaches for a big plastic bag.
+
+"Save the bag. You see the traffic out this window. Maybe we can turn this toy into a tool to solve this stuff."
+
+I open my mouth but have nothing to say. The traffic does suck. Maybe there was a crash.
+
+"Figuring out which game we're actually in? That's the best part. Embrace the fog, reveal more of the map. I might be selling my old hardware."
+
+The store clerk chimes in, "We have a trade-in program now, like with used cars. Want to see what we have?"
+
+"Yeah, sure."
+
+I walk down the aisle while he takes his two big boxes and heads for the doors.
+
+---
+
+The boxes are heavy. I carry them across the lot, acres of asphalt running all the way to the highway, and set them on the bus bench.
+
+A car pulls up in front of me. It's stuck in traffic. The window rolls down. It's the gamer.
+
+"I got a new old one. Embrace the fog. Good luck, man."
+
+---
+
+I install the two GPUs into my massive computer tower. I boot up and install the drivers.
+
+I load up AI Center.
+
+Chatbot:
+"What would you like to chat about today?"
+
+Owner:
+"Help me learn to use AI."
+
+Chatbot:
+"Solving a problem can help the learning process. Are there any problems you're dealing with right now?"
+
+Owner:
+"I have an insurance claim on the go. What are the fault rules?"
+
+Chatbot:
+"I can help you with that. First, tell me your crash details."
 
 ### Story—Not unique
 
@@ -4186,7 +4441,7 @@ Her tone wasn't nice. I kept typing out her repair and rental requisition orders
 
 "I only drive Land Rovers...Did you hear me?" 
 
-That's the trick of bullies: they never ask. They state. Asking implies the other person's agency—it allows compromise or disappointment. I learned silence was the best response. After all, she wasn't actually speaking to me.
+That's the trick of bullies: they never ask. They state. Asking implies the other person's agency—it allows compromise or disappointment. I learned silence was the best response. After all, she wasn't actually speaking with me.
 
 "I said I only drive Land Rovers."
 
@@ -4222,11 +4477,11 @@ Let a person deal with there reality. If they ask, I'm here to help. Most people
 
 I often recall this Land Rover conversation. Though I still stutter occasionally, when I look back, that's when I realize I don't have a stutter anymore.
 
-I was put to the test on my last automobile queue call. 
+This was especially put to the test during my last automobile queue call. 
 
-She was a young lady with a "sideswipe" crash. Usually both drivers say the other changed lanes, making 50/50 fault common. But she said the police charged her for improper lane change. Unusual, I thought, and kept working.
+She was a young lady with a "sideswipe" crash. Usually both drivers say the other changed lanes, making 50/50 fault common. But she said the police charged her for improper lane change. Unusual, I thought.
 
-I advised she was 100% at-fault. She was angry: "But the other guy had a dash-cam."
+I advised she was 100% at-fault then. She was angry: "But the other guy had a dash-cam."
 
 After thousands of calls, I could still be stunned. "Huh?" I responded.
 
@@ -4242,24 +4497,32 @@ Our society has a stutter of sorts. A hungry polar bear, a thirsty tree, a scare
  
 ## Chapter 16-Epilogue
 
-_What you see when you look at intelligence [polygenic scores predicting educational attainment] is that this maxes out in the Bronze Age, between 5,000 and 2,000 years ago. The impact in the last 2,000 years is almost nothing. There's no evidence of natural selection at all. Your bias coming into this, my bias perhaps, might be that if there's any signal of natural selection on this trait at all, that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years._
-
-Dr. David Reich
-Professor of genetics at Harvard Medical School
-Dwarkesh Podcast, May 8, 2026.
-dwarkesh.com/p/david-reich-2
-
----
 
 video of natural selection in germs different levels of antibiotics
 The Evolution of Bacteria on a “Mega-Plate” Petri Dish (Kishony Lab)
 https://www.youtube.com/watch?v=plVk4NVIUh8
 
-- milgram, stanford doesn't matter auth so much, people still did it. who would have thought many of our stories were taken seriously until it was too late....
 
-- darwin evolution, newton's gravity was not insights from the mind but revelations from looking at the data. pattern recognition from detail records. AI is doing the same now, and will reveal our jobs to us, if we don't want to take a look ourselves...
+---
 
-- we ask immigrants and kids to change their identity. we're just doing it on a targer we're making ourself. doctors tests patients for their arrangement of "bits", too much of this, too little iron, and then they say change your diet, intake some chemicals, these bits will fix your bits. we're just doing that for our civilzation and technology...
+
+- atoms are composed of protons and neutrons. change the amounts to change iron to gold. Molecules are made up of atoms. Two hydrogen and an oxygen makes water. biology is made up of cells, certain cells make up certain organs and lifeforms. Every living thing is still composed of the same atoms as everything else.
+
+- Biological starts off as a few cells that keep growing. each lifeform knows the number of cells that make up its bits and pieces. we don't need to tell our skin to repair itself after a cut. like we don't need to advise how much oxygen to breathe in and carbon-dioxide to breather out. the body knows to make more skin cells, how to maintain balance, to return the body to its proper functioning number of components.
+
+- our technological tools also have number. hammers need so much steel. computers need so much electricity. homes need so much heat. we're just not always aware of what these numbers are. 
+
+We can find out. Darwin's evolution, newton's gravity was not insights from the mind but revelations from looking at the data. pattern recognition from detail records. AI is doing the same now, and will reveal our jobs to us, if we don't want to take a look ourselves.
+
+To start to see it, we just need to be ready to realize we are inside the Game of Life. Not the Game of You, of Game of Tribe. Or Game or Ideology. But in a game that operates with no input from our ideas or thoughts.
+
+This is big change that many of use make all day.
+
+We ask immigrants and kids to change their identity. we're just doing it on a targer we're making ourself. doctors tests patients for their arrangement of "bits", too much of this, too little iron, and then they say change your diet, intake some chemicals, these bits will fix your bits. we're just doing that for our civilzation and technology...
+
+- this stands in our way. letting our biology dictate the actions of our technology. milgram, stanford doesn't matter auth so much, people still did it. who would have thought many of our stories were taken seriously until it was too late. we still think Scar didn't something wrong because think Simba is part of our tribe..
+
+- we are out of our age, not adapted to this enviroment, technomass has grown like a forest, and there is no more mass-produced growth needed, but diversification to find all the untapped niches. not learning that leason from biology, so we are increasing inputs like soldiers in WWI, oil in Soviet, and all that jazz. this is what trees do. they keep dropping nuts even when the ice age comes because they can't their habits. we can by adopting a new identity.
 
 --
 
@@ -4294,7 +4557,7 @@ From the grass producing the first biomatter, to grazers turning it into meat, t
 
 You can be motivated by and identify as anything you think best. Some animals raise their offspring, others compete with them. Some teach lessons, others rely on instinct. Humans can use mythological, philosophical, scientific interpretations to see the game. As Lovell found out in space, each is connected to a tool we use. Pick whatever works, from super advanced AI to the simple pencil, just know the only way to communicate value to natural selection is building material adaptations inside a working ecosystem.
 
-I came across Dr. Reich's work as I was finishing this book, and this finding struck me: selection on the polygenic scores he measured was strong in the Bronze Age and has flatlined over the last two thousand years. I'm just starting to delve into this young field. But as I've argued throughout this book, my reading is that meaningful selection didn't stop—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like hair color or sharp eyesight we inherited, are effectively tailbones now. As technology helps people regulate temperature or spot dangers, our bodies become ever more like relics of a world that selected flesh, living inside an ecosystem selecting tools and their users.
+Selection never stops—it moved from weighing our bodies to weighing our tools, right as powerful technologies like steel, sails, and scrolls took over functions like building, moving, and remembering. Our older adaptations, like hair color or sharp eyesight we inherited, are effectively tailbones now. As technology helps people regulate temperature or spot dangers, our bodies become ever more like relics of a world that selected flesh, living inside an ecosystem selecting tools and their users.
 
 This observation was always there to be realized, like universal gravitation or bacteria infecting a wound. We just haven't built the framework to see it—thinking reality will conform to human stories in yet another realm—and that isn't anyone's fault.
 

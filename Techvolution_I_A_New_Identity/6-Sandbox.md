@@ -6223,3 +6223,13 @@ Carl Linnaeus (1707–1778) formalized this approach as a nested hierarchy (king
 Darwin changed the meaning of those groupings. He showed that species can be related without looking alike. For example, the Galápagos finches have very different beaks, good for eating seeds, insects, or nectar. Yet despite this different appearance, they share much else in common because they descend from the same ancestor. Likewise, whales look nothing like hippos, but DNA shows they are close relatives. Classification by common descent organized the myriad species into a coherent tree that has largely held up to DNA testing.
 
 ===
+
+_What you see when you look at intelligence [polygenic scores predicting educational attainment] is that this maxes out in the Bronze Age, between 5,000 and 2,000 years ago. The impact in the last 2,000 years is almost nothing. There's no evidence of natural selection at all. Your bias coming into this, my bias perhaps, might be that if there's any signal of natural selection on this trait at all, that it would be unusually strong in the last 2,000 years. Maybe this is a time of industrialization. Maybe this is a time of greater need for this particular trait. But in fact, there's no evidence of natural selection at all in the last 2,000 years._
+
+Dr. David Reich
+Professor of genetics at Harvard Medical School
+Dwarkesh Podcast, May 8, 2026.
+dwarkesh.com/p/david-reich-2
+
+
+===

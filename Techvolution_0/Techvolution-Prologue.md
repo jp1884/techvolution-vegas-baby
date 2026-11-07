@@ -15,13 +15,11 @@ This book does not tell you politics and economics are getting really bad, and t
 
 This book explains why politics and economics are getting both good and bad—and how you, the reader, can adapt to use the good to fix the bad.
 
-We already think this way in many other areas. The musicians, athletes, builders, and countless others among us know every performance is imperfect, but the fundamentals are always there to help us improve. That’s why we can cheer for our own team while admiring when a rival plays a better game or song.
+We already think this way in many other areas. Musicians, athletes, and builders all know their work is imperfect. They cheer for their own team and still admire a rival’s better play. And no one improves by defending past songs, plays, or blueprints. They improve by studying the fundamentals again.
 
-Players don’t improve by defending their past ideas, plays, or songs. They improve by studying the fundamentals again.
+Politics and economics are no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game older than any ideology, with fundamentals every living thing plays by.
 
-Politics and economics are no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game older than any team or ideology, one every living thing plays.
-
-This book explains the fundamentals of building a better civilization, starting with what it takes to build anything at all, from a bird’s nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again.
+This book explains how we play that game when building a civilization, starting with what it takes to build anything at all, from a bird’s nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again.
 
 That’s why this is a book for people in the middle: people who want things to be more rational, level-headed, and future-focused, and who are willing to adapt to improve our forever imperfect world.
 
@@ -83,16 +81,6 @@ It's written for the person who wants a decent paycheck for an honest day's work
 If that sounds like you, you're not confused, and you're not alone. You're just missing a name for what's happening behind the political bickering and the economic statistics.
 
 Your paycheck is a species, subject to all the laws of nature. Some are thriving, some are going extinct, and nobody has told you which one yours is.
-
-## Illustration
-
-Close. Three things.
-
-**Illustration 1 says the same thing twice.** "This illustration represents Earth's geological time periods..." and "Earth's history as a spiral, from the planet's formation..." are two captions for one image. Keep the second; it's more specific.
-
-**"Two sides of the coin" works against your thesis.** A coin's two sides are opposites, and the book's claim is that technology *continues* biology on the same coil. The spiral image already makes that point; the coin muddies it. Something like *"one continuous spiral"* says what you mean.
-
-**The not-to-scale point is gone, and I'd bring it back.** Without it, a reader looking at the second image will think human history occupies a third of Earth's timeline. One sentence fixes that and makes the zoom meaningful rather than misleading.
 
 ## Illustration
 
