@@ -26,22 +26,22 @@ _"It is not the strongest of the species that survives, nor the most intelligent
 Preface
 Introduction
 Chapter 1—Presents Under the Tree
-Chapter 2—Booklet: The Rules to the Game
-Chapter 3—Game Board: The Emergent Environment
-Chapter 4—Sand Clock: The Ever-Present Timer
+Chapter 2—Rulebook: The Rules to the Game
+Chapter 3—Gameboard: The Emergent Environment
+Chapter 4—Sandclock: The Ever-Present Timer
 Chapter 5—Clay: What Life Is, The Creator of Players
 Chapter 6—Scoreboard: What Evolution Is, The Editor of Players
-Chapter 61/2—Playbook: Trying Out Instincts and Ideas
-Chapter 7—What Does the Game of Life Mean
-Chapter 8—Our Base Player Nature
-Chapter 9—Spreading the Technological Soil
-Chapter 10—Planting, Building, and Playing the New Game
-Chapter 11—Back to Natural
-Chapter 12—Extremes Are Not Natural
-Chapter 13—Moderation Is Natural
-Chapter 14—Meeting the Coach
-Chapter 15—Vignettes
-Chapter 16—Epilogue
+Chapter 7—Playbook: Trying Out Instincts and Ideas
+Chapter 8—What Does the Game of Life Mean
+Chapter 9—Our Base Player Nature
+Chapter 10—Spreading the Technological Soil
+Chapter 11—Planting, Building, and Playing the New Game
+Chapter 12—Back to Natural
+Chapter 13—Extremes Are Not Natural
+Chapter 14—Moderation Is Natural
+Chapter 15—Meeting the Coach
+Chapter 16—Vignettes
+Chapter 17—Epilogue
 
 ## Preface
 
@@ -126,7 +126,7 @@ Adopting a strong technological identity will make it far easier to keep our con
 
 The everyday lesson is that loving the same music as someone else is great fun, and talking about ideology can cause interesting debates, but neither means you have found the best mechanic. Solving our frontline problems means finding better tools and better tool-users. Just think how an oak tree and a squirrel have nothing in common, and each helps the other prosper every year.
 
-All lifeforms should work together because Earth is a massive version of an ice bucket—a vast game board shaped by immutable laws of physics, chemistry, and geology. Life produces new creatures constantly, and its partner, evolution, decides which keep playing. With the right team, Earth is an awe-inspiring oasis—a lone lifeboat in the galactic expanse.
+All lifeforms should work together because Earth is a massive version of an ice bucket—a vast gameboard shaped by immutable laws of physics, chemistry, and geology. Life produces new creatures constantly, and its partner, evolution, decides which keep playing. With the right team, Earth is an awe-inspiring oasis—a lone lifeboat in the galactic expanse.
 
 The story of life now involves technology. Its many gadgets, tools, and inventions are already changing the world. The purpose of this book is to help you realize tools are the best way to adapt to your environment. A recurring theme is how to combat any story that tries to subvert this evolutionary requirement.
 
@@ -404,15 +404,15 @@ This is the strange power of an unfamiliar tool. You never wanted it. How could 
 
 The box art shows the history of life on Earth as a spiral, and across the top it reads “Game of Life.” Inside you find:
 
-Booklet, game board, sand clock, clay, scoreboard.
+Rulebook, gameboard, sandclock, clay, scoreboard, booklet, pencil.
 
 Now you wonder: How do these seemingly ordinary objects reshape human identity and unite us against our common enemy?
 
-Overcome with curiosity, you pick up the booklet, and...
+Overcome with curiosity, you pick up the rulebook, and...
 
-## Chapter 2—Booklet: The Rules to the Game
+## Chapter 2—Rulebook: The Rules to the Game
 
-You pick up the booklet. In large black letter the first page says "These are the Rules of the Game". It's not a booklet, but a rulebook.
+You pick up a rulebook. In large black letter the first page says "These are the Rules of the Game".
 
 You flip to the next page.
 
@@ -462,11 +462,11 @@ Here are the game's fundamentals. Every idea about how to play it better, whethe
 - Pleasure and pain teach what works. 
 - Remembering what works lets anyone evolve deliberately.
 
-So unlike Flatland, our planet is not just a place of existence but a proving ground, where the laws of nature decide which variants persist and which do not. Each of us is a unique shape with an unclear view of the game board.
+So unlike Flatland, our planet is not just a place of existence but a proving ground, where the laws of nature decide which variants persist and which do not. Each of us is a unique shape with an unclear view of the gameboard.
 
-No 2D creature can jump off the screen, but we are not stuck in Flatland. So let's see what the game board of three dimensions looks like. In the next chapter, we'll find it filled with natural laws—a game board that emerges through life's encounter with the universe.
+No 2D creature can jump off the screen, but we are not stuck in Flatland. So let's see what the gameboard of three dimensions looks like. In the next chapter, we'll find it filled with natural laws—a gameboard that emerges through life's encounter with the universe.
 
-## Chapter 3—Game Board: The Emergent Environment
+## Chapter 3—gameboard: The Emergent Environment
 
 _Flatland_ has more lessons to give. 
 
@@ -480,7 +480,7 @@ So, the Sphere takes the Square to the 3D world, called Spaceland. The Square se
 
 As is so often the case, seeing is the only path to believing in Flatland.
 
-The playing surface of checkers, chess, and go is a flat two dimensional existence. These games have vast choices requiring much study to master, but each game starts exactly the same and the gameboard is easy to see and navigate in our 3D worldigate. Our game board is not 2D. It has hidden valleys, ocean depths, crashing earthquakes, and fog of war. There is no way to see the entire board because it is far more complex, ever-changing, and wholly unique every day.
+The playing surface of checkers, chess, and go is a flat two dimensional existence. These games have vast choices requiring much study to master, but each game starts exactly the same and the gameboard is easy to see and navigate in our 3D worldigate. Our gameboard is not 2D. It has hidden valleys, ocean depths, crashing earthquakes, and fog of war. There is no way to see the entire board because it is far more complex, ever-changing, and wholly unique every day.
 
 The laws of physics, chemistry, geology make the stars and sunlight, hydrogen and helium, planets and volcanoes. As the rulebook makes clear, these Rules of the Game are not written down like a cookbook. Instead they are embedded in the very fabric of existence.
 
@@ -496,23 +496,23 @@ Yet, despite its massive size, this collision was controlled by the same natural
 
 And this is vital to note. There are many moons in the solar system. Our Moon is significant because of our interactions with it. It causes our oceans' tides, illuminates the night, has mysterious phases, and could be colonized. These opportunities and obstacles in our path transform it from a distant object into a factor in our survival.
 
-Our interaction with the Rules of the Game turns these abstract natural laws into our game board.
+Our interaction with the Rules of the Game turns these abstract natural laws into our gameboard.
 
-That's what makes the game board emergent. It doesn't exist until you meet it. No two people stand on the same board: the same tornado can flatten one house and leave its neighbor untouched. No one caused it. There's no one to blame for the hail or a cold winter night either. They just happen, on everyone's board.
+That's what makes the gameboard emergent. It doesn't exist until you meet it. No two people stand on the same board: the same tornado can flatten one house and leave its neighbor untouched. No one caused it. There's no one to blame for the hail or a cold winter night either. They just happen, on everyone's board.
 
 Only when you encounter the universe does your specific board appear. Even if the mixture of obstacles and opportunities can be similar, they are always unique.
 
-The game board is not just about what is close to us in space or time.
+The gameboard is not just about what is close to us in space or time.
 
-Some of the game board's biggest moves happen unimaginably far away. A recent study suggested that two of Earth's mass extinctions, the Ordovician about 445 million years ago and the Late Devonian about 372 million years ago, may have been triggered by nearby stars exploding as supernovas. The blasts could have thinned the ozone layer that shields Earth, leaving life exposed to the Sun's harmful ultraviolet light.
+Some of the gameboard's biggest moves happen unimaginably far away. A recent study suggested that two of Earth's mass extinctions, the Ordovician about 445 million years ago and the Late Devonian about 372 million years ago, may have been triggered by nearby stars exploding as supernovas. The blasts could have thinned the ozone layer that shields Earth, leaving life exposed to the Sun's harmful ultraviolet light.
 
 Imagine that.
 
 One of those twinkling lights might be too far away to ever matter. Or it could kill almost everything on Earth and send life back to near the starting line.
 
-The game board is variable. It could be a supernova trillions of kilometers away, peat moss from ancient decaying plants, or it could be the cold of night closing in on a lost traveler who thought he was enjoying a country ride.
+The gameboard is variable. It could be a supernova trillions of kilometers away, peat moss from ancient decaying plants, or it could be the cold of night closing in on a lost traveler who thought he was enjoying a country ride.
 
-In a vast, perhaps infinite universe, the factors that can shape our survival are nearly endless. That's why our ability to perceive our environment, our game board, matters so much.
+In a vast, perhaps infinite universe, the factors that can shape our survival are nearly endless. That's why our ability to perceive our environment, our gameboard, matters so much.
 
 This brings us back to Flatland. Your board is unique, and so is everyone else's. We can't assume anyone knows ours; we have to explain it. In that sense, we will forever be a Square trying to describe a world only we can see.
 
@@ -578,11 +578,11 @@ Then I got an email from a manager:
 
 I was learning there was a difference between doing the job and meeting targets. I needed to use my time differently. The mayhem was yet to really set in.
 
-## Chapter 4—Sand Clock: The Ever-Present Timer
+## Chapter 4—sandclock: The Ever-Present Timer
 
-You fold the game board and put it back in the box. Air rushes up as it settles. You know it's just displaced air, but for a second it feels like the board came to life.
+You fold the gameboard and put it back in the box. Air rushes up as it settles. You know it's just displaced air, but for a second it feels like the board came to life.
 
-Now you wonder, how is this game board made? I mean, volcanoes, stars, everything, is made up of atoms. So how do these countless tiny atoms come together into such unique objects? Does nature have a "make a volcano" button?
+Now you wonder, how is this gameboard made? I mean, volcanoes, stars, everything, is made up of atoms. So how do these countless tiny atoms come together into such unique objects? Does nature have a "make a volcano" button?
 
 No. Mythologies and video games have these shortcuts; reality does not. Instead, to make anything in the universe requires concentrated energy. This useful kind of energy happens when gravity, nuclear forces, and electromagnetism interact with each other and matter. When these natural forces concentrate enough matter, they can transform it, and create pockets of useful energy; like water behind a dam or ions inside a charged battery.
 
@@ -590,11 +590,11 @@ But forces don't act chaotically. They follow strict rules called natural laws, 
 
 For example, volcanoes exist when gravity packs rock into a planet's interior, where leftover heat from its formation and radioactive decay keep it hot. Lighter, molten rock rises, finds weak points in the crust, and erupts as a volcano. In a star, gravity squeezes hydrogen so intensely that nuclear forces fuse it into helium and release immense electromagnetic radiation.
 
-The cycle of natural forces gathering matter, transforming, and releasing energy happens over and over according to the natural laws. Across the entire universe, that's how planets, stars, continents, and the rest of our game board, down to the atoms themselves, are made. 
+The cycle of natural forces gathering matter, transforming, and releasing energy happens over and over according to the natural laws. Across the entire universe, that's how planets, stars, continents, and the rest of our gameboard, down to the atoms themselves, are made. 
 
 But concentrated useful energy only lasts so long. A brilliant volcano's heat slowly seeps away until it goes dormant and cold. When a mighty star burns through its fuel, it will eventually collapse, explode, or slowly fade. Natural forces organize matter, but over time matter and energy disorganize.
 
-And understanding how objects disarrange is effectively our game clock; just like an hourglass, it tells us how much time our game board has left.
+And understanding how objects disarrange is effectively our game clock; just like an hourglass, it tells us how much time our gameboard has left.
 
 Science calls this the second law of thermodynamics. Its measure is entropy, a quantity that describes nature's one-way tendency: energy disperses, structures break down, and things fade away over time.
 
@@ -618,7 +618,7 @@ All this means there is no going back. So, every place in the universe is unique
 
 Physicists call the board and the clock together spacetime. This term combines the three dimensions of space we saw in Spaceland (length, width, height) with the dimension of time into a single, interconnected four-dimensional continuum.
 
-While the game board can tell you where you are, the game clock says when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. The game board and game clock are forever emergent and relative to where and when you exist in the universe.
+While the gameboard can tell you where you are, the game clock says when you exist. Combining the two makes every second you live, whether it's a walk in the park or reading this page, totally unique. The gameboard and game clock are forever emergent and relative to where and when you exist in the universe.
 
 The arrow of time is what Maria needed to learn. She was surrounded by awards, titles, mind share, and other elements of human mythology. These made it seem the DVD business was solid. The physics said its moment in time was always going to be limited.
 
@@ -630,7 +630,7 @@ The game clock runs on every arrangement we build. A coal town is a town because
 
 None of these were destroyed in an attack. The energy holding them together either ran out, like a star, or found an easier path, like lava finding a new vent.
 
-Remember the question we started with: who is our common true enemy? Not the other party, the other job, or the other side. It's the sand clock. Entropy is the one law of nature that puts a timer on everything we build and everyone we love. It can never be reset or sped up. It's what gives our choice its consequence.
+Remember the question we started with: who is our common true enemy? Not the other party, the other job, or the other side. It's the sandclock. Entropy is the one law of nature that puts a timer on everything we build and everyone we love. It can never be reset or sped up. It's what gives our choice its consequence.
 
 That clock is running on your arrangement too. So run the test. What does it cost in energy to keep your lifestyle running: the roadways, the car, the commute, the office, the house? And what would it cost something else, perhaps AI, or something else entirely, to do the same job?
 
@@ -638,7 +638,7 @@ You don't need a prediction. You need the number: the energy it takes to build, 
 
 Nature runs the same test. Which tree gets the sunlight? Which lion pride raises more cubs? The answer is always a number, perhaps explained by happenstance, environment, culture, or money, but measured in energy—a fundamental every lifeform must answer to.
 
-Unlike in chess, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, sandcastles, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sand clocks or timepieces. Each tells us how much time we have before entropy disperses the order if no work is done to maintain it.
+Unlike in chess, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, sandcastles, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sandclocks or timepieces. Each tells us how much time we have before entropy disperses the order if no work is done to maintain it.
 
 And this reveals the ultimate puzzle: in a universe that disperses the energy forming planets and stars, what kind of thing can work against this tide? What kind of thing can harvest energy faster than entropy removes it?
 
@@ -646,11 +646,11 @@ The answer is something the universe had not produced before—until it did.
 
 ## Chapter 5—Clay: What Life Is, The Creator of Players
 
-You twirl the small sand clock in your hand. Sand goes from one side to the other. You realize just how many grains of sand there are, and just how many variations of "sand" there really are.
+You twirl the small sandclock in your hand. Sand goes from one side to the other. You realize just how many grains of sand there are, and just how many variations of "sand" there really are.
 
 Once the sand runs out, the clock is useless. Only when someone invests energy to flip it does it tell time again.
 
-Done with the clock, you set it aside on top of the game board and rulebook. Now you pick up the clay and roll it in your hands: smash, stretch, roll, pinch. How does this soft malleable stuff relate to the Game of Life?
+Done with the clock, you set it aside on top of the gameboard and rulebook. Now you pick up the clay and roll it in your hands: smash, stretch, roll, pinch. How does this soft malleable stuff relate to the Game of Life?
 
 First let's go back and emphasize something very important.
 
@@ -662,7 +662,7 @@ Basically, there is no delete button anywhere in physics—energy and matter are
 
 For example, the energy that once fueled Mars' hot magma core was not erased, it only radiated into space. As heat dissipated away it came to a useless state; it was no longer concentrated and organized enough to do anything. Useful energy is a physical quantity that represents the capacity to do work or cause change in a physical system, like Earth's still hot magma core showcases with every eruption.
 
-Useful energy is what entropy slowly drains away from any organized system, from sand clocks to volcanoes, coffee pots to batteries.
+Useful energy is what entropy slowly drains away from any organized system, from sandclocks to volcanoes, coffee pots to batteries.
 
 Enter the modeling clay. You're still playing with it in your hands, and now starting to realize something.
 
@@ -676,7 +676,7 @@ A tree draws carbon dioxide from the air and water from the soil. Powered by sun
 
 Then, when that wood burns or most commonly rots, the process runs in reverse. Fungi and microbes eat the dead but still nutritious tissue. Carbon is released and reunites with oxygen to form carbon dioxide again, and the stored solar energy is released as fire or food. After a lifetime giving shelter, fruit, and seed to the forest, the tree either dissolves back into the same air, water, and soil from where it came, or becomes food for decomposers. Either way, the environment is ready for the next generation's metabolism to turn carbon, water, and sunlight into a new tree.
 
-Life is the thing that flips the sand clock.
+Life is the thing that flips the sandclock.
 
 That's how life passes the baton to the next generation. Life organizes more matter as time goes on—if it can keep harnessing energy to stay alive.
 
@@ -684,7 +684,7 @@ There are no breaks. No time off. Since entropy is always increasing in nature, 
 
 Hence the modeling clay in your hands.
 
-This clay lets life mold itself to the available energy on the game board, meaning its environment. Entropy degrades the clay like everything else. Individual lifeforms get tired, weathered, and worn out. Only by birthing new clay does life stay malleable enough to find new ways to harness available energy in the changing environment and only then does life continue to grow as time goes forward.
+This clay lets life mold itself to the available energy on the gameboard, meaning its environment. Entropy degrades the clay like everything else. Individual lifeforms get tired, weathered, and worn out. Only by birthing new clay does life stay malleable enough to find new ways to harness available energy in the changing environment and only then does life continue to grow as time goes forward.
 
 So here is what life is: the process that turns mass into biomass by making new lifeforms. Each lifeform is a player, a bit of clay shaped to harvest energy from its own corner of the board.
 
@@ -722,11 +722,11 @@ The Ediacaran Period (635-541 million years ago) marked the emergence of the fir
 
 With the modeling clay self-replicating into more complex lifeforms the stage was set.
 
-What came next was called the Cambrian Explosion, where a huge variety of creatures emerged displaying increasingly complex body structures, sensory systems, and locomotion capabilities. With an oxygen atmosphere fueling metabolic processes like never before, life could truly get creative with its modeling clay. Life could venture out into every corner of the seas to find places on the game board with energy to harvest.
+What came next was called the Cambrian Explosion, where a huge variety of creatures emerged displaying increasingly complex body structures, sensory systems, and locomotion capabilities. With an oxygen atmosphere fueling metabolic processes like never before, life could truly get creative with its modeling clay. Life could venture out into every corner of the seas to find places on the gameboard with energy to harvest.
 
 The clay wasn't only shaping itself to fit the board. It was becoming the board when it used energy to turn regular mass into biomass. Life spread over bare rock and through open water, and everywhere it went, it left the land, the seas, and the air easier to live in for whatever came next. The oxygen we breathe, and the ozone shielding us from the sun, are photosynthesis's leftovers. The soil under every field is rock that roots and fungi ground down. Both are ready-made to spread more life.
 
-Just think: about a tenth of the sedimentary rock covering the continents is limestone, built from the shells and skeletons of ancient sea life. It erodes into fertile soil and is carved by rain into caverns that hold aquifers. And coral reefs, a vibrant game board built by life for life today, will become the limestone of tomorrow.
+Just think: about a tenth of the sedimentary rock covering the continents is limestone, built from the shells and skeletons of ancient sea life. It erodes into fertile soil and is carved by rain into caverns that hold aquifers. And coral reefs, a vibrant gameboard built by life for life today, will become the limestone of tomorrow.
 
 Which raises a question: if life keeps growing, which forms get to stay? Choosing among endless options needs a mechanism. The Game of Life needs a scoreboard.
 
@@ -736,11 +736,11 @@ Which raises a question: if life keeps growing, which forms get to stay? Choosin
 
 ## Chapter 6—Scoreboard: What Evolution Is, The Editor of Players
 
-You've got the Game of Life at your feet. The pieces look different to you now. The rulebook, game board, sand clock, and modeling clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
+You've got the Game of Life at your feet. The pieces look different to you now. The rulebook, gameboard, sandclock, and modeling clay are no longer gifts filled with wonder, but objects animated by the energy of purpose.
 
 You want to play it. Are you ready? Let's press the start button!
 
-Not so fast. Playing isn't winning. Before you venture onto your game board, let's learn what puts creatures on the scoreboard.
+Not so fast. Playing isn't winning. Before you venture onto your gameboard, let's learn what puts creatures on the scoreboard.
 
 Just now you cough. It's small and almost goes unnoticed like a blink, breath, or other autonomic function. But alarm bells ring with this cough because it comes with a scratchy pain in your throat.
 
@@ -758,7 +758,7 @@ Kids are the points that put players on the scoreboard in the Game of Life.
 
 Usually kids means direct offspring like progeny virions for viruses, saplings for trees, and children for mammals. But many species support the next generation in other ways via cooperative breeding (wolf packs, human extended families) or eusociality (ant colonies, bee hives).
 
-Kids are valuable because of the other game pieces. The game board always changes while the game clock always ticks away. To overcome these challenges, life, the creator of players, continually needs new ones.
+Kids are valuable because of the other game pieces. The gameboard always changes while the game clock always ticks away. To overcome these challenges, life, the creator of players, continually needs new ones.
 
 And new doesn't just mean more. The recipe for every player's clay is written in genes, made of DNA or its simpler cousin, RNA. When kids are made, genes get shuffled, and now and then one mutates, so almost every kid carries a new combination.
 
@@ -770,17 +770,17 @@ To match lifeform and environment over generations, something has to sort the pl
 
 That's natural selection. Think of it as a coach who keeps the best-scoring players. Really, no one is choosing. Players whose kids go on to have kids of their own simply fill the next roster. Everything else a player does is how it affords them: energy saved finding water or food is energy freed up for more kids, or better-fed ones.
 
-This strategy works very well against rising entropy. Not only because natural selection enabled life to evolve from single-cell organisms to populate the planet. But also because it's allowed life to recover from five mass extinctions to do it all over again. Notably, no extinct species has ever come back. Life persists in whatever form the game board happens to favor.
+This strategy works very well against rising entropy. Not only because natural selection enabled life to evolve from single-cell organisms to populate the planet. But also because it's allowed life to recover from five mass extinctions to do it all over again. Notably, no extinct species has ever come back. Life persists in whatever form the gameboard happens to favor.
 
 Prioritizing offspring is how life turns a scarce energy budget into more specialized players. If life creates the many different variations in lifeforms, natural selection edits from among them to evolve new species as the board changes.
 
 For example, brown bears are nearly identical to polar bears. They can even interbreed. By giving points to offspring, evolution slowly turned brown bears with lighter coats, living near the frigid Arctic, into polar bears. After enough points (kids), speciation happens, meaning a new bear species is made, one with a white coat, bigger paws, strong swimming, and a taste for seals. And the differences aren't only physical—speciation also shows up in behavior, like making sure to breed in line with the brief Arctic spring or knowing which seal-breathing holes to wait beside.
 
-The great benefit of speciation is like an insurance policy. With two large bear species playing the game, if the game board gets hotter or colder, life already has a winner waiting.
+The great benefit of speciation is like an insurance policy. With two large bear species playing the game, if the gameboard gets hotter or colder, life already has a winner waiting.
 
 The equilibrium between lifeforms, environment, and natural selection is not a truce. Every creature takes all it can when it can. Weather, competitors, distance, and time keep any one player from taking too much. Over generations, players that do more with less tend to come out ahead.
 
-The coach doesn't just keep players. It needs creatures who can survive and prosper in the game board.
+The coach doesn't just keep players. It needs creatures who can survive and prosper in the gameboard.
 
 No one intends it, but what happens as a result looks like cooperation inside an ecosystem: a community of plants and animals sharing in the work to harvest an area's resources. BBC's _Planet Earth_ shows them well—rainforests, grasslands, coral reefs are each a web of creatures that know each other's sights and smells, often compete for the same sunlight, travel for the same grass, and yet never agreed to anything.
 
@@ -790,7 +790,7 @@ Life already had one. Remember, for more than a billion years, cyanobacteria fil
 
 There's only so much energy, usually sunlight but sometimes volcanic heat too, available in an ecosystem. This energy budget is a major factor in an environment's "carrying capacity": the maximum population an environment's food, water, and habitat can sustain.
 
-A single creature can never harness all this available energy. Solar intensity, water temperatures, atmospheric chemistry, and the other game board factors change too often. And once energy is stored in living things, in leaves, in meat, even in the sore throat of a kid who stayed up too late, each becomes a meal for someone else.
+A single creature can never harness all this available energy. Solar intensity, water temperatures, atmospheric chemistry, and the other gameboard factors change too often. And once energy is stored in living things, in leaves, in meat, even in the sore throat of a kid who stayed up too late, each becomes a meal for someone else.
 
 So, to overcome every obstacle and harness all available energy, the coach came to favor mass-production, and diversity, to collect creatures into what we call ecosystems. Each new category helped keep the others from using too much energy or found an untapped source of energy like dead wood.
 
@@ -814,7 +814,7 @@ By harvesting the same limited energy over and over, the creatures of an ecosyst
 
 That distinction matters. Remember the _Jumanji_ movies: strangers pulled into a board game, each with a different skill—strength, speed, map-reading—who survive only by pooling those skills against the game itself. They are not a team by choicie but of necessity. Life has a arrangement like that too, and its enemy is entropy: every living thing, everywhere, is fighting the same slow pull toward cold and stillness. Against *that*, all living things harvest energy just to hold themselves together. Not figuratively. Stop, and the atoms go their separate ways.
 
-But against each other, the players are rivals. A polar bear and a seal aren't teammates—they want opposite things. They are **boardmates**: creatures whose games are tangled because they're playing the same board. The seal and the bear. The virus and your cough. The DVD and the streaming box. Individually, they have no shared purpose, but when they share a game board they make a sustainable ecosystem.
+But against each other, the players are rivals. A polar bear and a seal aren't teammates—they want opposite things. They are **boardmates**: creatures whose games are tangled because they're playing the same board. The seal and the bear. The virus and your cough. The DVD and the streaming box. Individually, they have no shared purpose, but when they share a gameboard they make a sustainable ecosystem.
 
 <!-- give and take in everything that we do. a boardmate is someone who does both naturally. an outsider is someone who doesn't either through intent or ignorance -->
 
@@ -844,7 +844,7 @@ But that's the game seen too close—just a small part of it.
 
 The whole game is about scoring points: offspring who stand a good chance of having offspring of their own. Kids are literally the future, which is why the Game of Life makes the perfect Christmas or birthday present. It teaches them how to play the Game of Life when just starting their own.
 
-Now that you know how the rulebook, game board, sand clock, modeling clay, and scoreboard work together—let's play.
+Now that you know how the rulebook, gameboard, sandclock, modeling clay, and scoreboard work together—let's play.
 
 Not this game, though. Its sequel. Let's play the Game of Technological Life. Let's play techvolution.
 
@@ -880,7 +880,39 @@ They also got inflated claims, burned-out adjusters, higher insurance rates, and
 
 One more claim down. One less caller to make that freaking bell ring.
 
-## Chapter 7—What Does the Game of Life Teach Us?
+## Chapter 7—Playbook: Instincts and Ideas While Playing the Game
+
+The Christmas tree glows above you. Iluminating You hold the gamebox in your hand. The entire thing fits there, all snug. You can't wait to play it. It seems so exciting. How do you play it? Where do you start?
+
+Are there dice? There are no dice to tell you how far to move. Where's the starting point? There is no starting point. Really? How does anyone play this game?
+
+You look over all the items again. There's the rulebook, gameboard, sandclock, clay. What about that booklet, it was all blank pages when you first checked it. Maybe you missed something.
+
+You flip through it slowly. Every page is blank. There's not even any title or lines. Just a lot of empty pages. At the end there are sticky notes, a pencil and an eraser.
+
+But that's it.
+
+Just then Sparky comes padding down the stairs. He usually wakes up first, so he feels left behind. He comes over and rubs his head all over you, wagging his tail. He always knows how to put a smile on anyone's face.
+
+_We're best friends after all. Walks through the creek, fishing trips, meeting new people. He's a good partner. Wait, he is playing the game too. He must be. He needs food, water, home, protection, friends...._
+
+You tap the rulebook in thought. _Sparky doesn't read anything, he plays by sniffing, loyalty, and always looking for food._
+
+_Chess doesn't come with a guide. Football doesn't either. Why would this game? Sparky has his instincts. Food and loyalty. That's his playbook._
+
+_It's just a notebook. I can write down ideas, diagrams, drawings...There's no official playbook. Well yeah, that makes sense._
+
+You grab your coat, the leash, and go out for a walk with Sparky. You want some time to think.
+
+Outside is brisk. The fresh cool air livens you up even as you feel extra heat leaving your body. Sparky loves it. He's a big dog with a thick coat and always searches out the tiles to lie on. Now, he can move around without overheating. He sniffs everything. You remember reading that dogs can smell things that passed by days ago. This walk tells him who was here, where they went, who is sick, what's going on. Really, it's his Netflix for the day.
+
+The rulebook in the cold air. The board under his paws. The sand clock in his empty stomach. The clay in his thick coat. The boardmates all around him. The elements of the game, in play. And the only playbook he has is his instincts.
+
+_What are my instincts? What are my plays? I can learn. Football players practice from a playbook. Poker has guides, chess has strategies. The library is full of books. But what should I write in my blank booklet and notes?_
+
+_Wait again. There's nothing special about it. It's not the playbook, it's a playbook. I can get more. How I learn what to write? How I learn what to erase?_
+
+## Chapter 8—What Does the Game of Life Teach Us?
 
 Before we press start on the Game of Technological Life, there's something to ask again.
 
@@ -894,7 +926,7 @@ That's what happened to Maria. DVDs by mail and streaming shared the board for y
 
 In hindsight, the winning adaptation is often obvious. The hard part is seeing it ahead of time, and embracing it, instead of slapping a label on the change and calling it wrong to keep our own self-identity alive.
 
-But labels can't stop the game. There are a million names for the rulebook's laws, the game board's changing environment, the sand clock's rising disorder, the modeling clay's many forms, and the coach's natural selection. We can use labels to help us, like any other adaptation, but none of them change the rules.
+But labels can't stop the game. There are a million names for the rulebook's laws, the gameboard's changing environment, the sandclock's rising disorder, the modeling clay's many forms, and the coach's natural selection. We can use labels to help us, like any other adaptation, but none of them change the rules.
 
 So to answer whether AI will take your job, we have to look past the labels to the practical truth: which tools your job runs on, and where it sits in the energy flow of our technological ecosystem.
 
@@ -924,7 +956,7 @@ Biology and technology have so much crossover we often design our technologies w
 
 Today, there's even a field called biomimicry; the emulation of natural models, systems, and elements for the purpose of inventing new technologies. Among its many creations is Velcro, copied from the fuzzy seed burrs that stick to our clothes. Many airplanes, drones, robotics, and other technological designs get their inspiration from the biological products of natural selection.
 
-Biology and technology cross over so well because they face the same problems. Both need structure to fight gravity: skeletons and framing. Both need to move efficiently through air and water: birds and planes, fish and ships. Both need to manage heat: fur and furnaces, panting and air conditioning. We even chart both with the same kind of family tree. Same rulebook, same game board, same sand clock, so the same pressures shape both.
+Biology and technology cross over so well because they face the same problems. Both need structure to fight gravity: skeletons and framing. Both need to move efficiently through air and water: birds and planes, fish and ships. Both need to manage heat: fur and furnaces, panting and air conditioning. We even chart both with the same kind of family tree. Same rulebook, same gameboard, same sandclock, so the same pressures shape both.
 
 We know how biology responds to these challenges, and when was the last time you, or anyone, grew a winter coat of hair to combat Minnesota winters? Do parents ever tell a kid to increase skull bone strength before climbing a mountain? Does anyone create more fat to store food before a long road trip?
 
@@ -942,7 +974,7 @@ That's why this book wants you to embrace being a technological being. Not becau
 
 We see this truth in the natural world. We should be able to see it in our technological one too.
 
-The rulebook, game board of environments, sand clock of time, bits of clay, and a scoreboard are all there. As is the circle of producers, plant-eating consumers, predators, scavengers, decomposers, and testers in our own ecosystems too. This is happening all around us.
+The rulebook, gameboard of environments, sandclock of time, bits of clay, and a scoreboard are all there. As is the circle of producers, plant-eating consumers, predators, scavengers, decomposers, and testers in our own ecosystems too. This is happening all around us.
 
 So why don't we see it?
 
@@ -972,7 +1004,7 @@ So we're doing today exactly what we imagine the fishermen did: seeing a face in
 
 We often do the same in the stars or clouds in the sky, where we see horses, chariots, and endless other objects inside floating water vapor, or balls of gas unimaginably far from each other.
 
-These visions only make sense from our own vantage point. Meaning while playing on the emergent game board and clock in the Game of Technological Life, we are often chasing the shadows of our own psyches.
+These visions only make sense from our own vantage point. Meaning while playing on the emergent gameboard and clock in the Game of Technological Life, we are often chasing the shadows of our own psyches.
 
 So, the Heikegani crab showcases something very important for our winning the game. We often replace nature's coach with ourselves and use artificial selection to pick our boardmates.
 
@@ -982,7 +1014,7 @@ As any medical doctor or forestry manager knows, a self-aware selector picks on 
 
 Artificial selection can point at the true target or a false one. Self-awareness is what turns it toward the true kind.
 
-Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." As the Heikegani crab story highlights we often artificially play the game. This book is about making our selections more responsive to the real problems of our game board—the actual pressures our environment imposes like road congestion, broken furnaces, car crashes.
+Evolution's seminal book is, of course, Charles Darwin's _On the Origin of Species by Means of Natural Selection_. Most people know the first part, but skip over the second part "by means of natural selection." As the Heikegani crab story highlights we often artificially play the game. This book is about making our selections more responsive to the real problems of our gameboard—the actual pressures our environment imposes like road congestion, broken furnaces, car crashes.
 
 Fittingly, Darwin's book doesn't open with nature. Its first chapter is about pigeon fanciers and livestock breeders: people choosing which animals breed. Darwin started with the selection we do on purpose to explain the selection nature does blindly. This book extends that selection to our tools, which also need new versions and a steady supply of energy to keep entropy from tearing them apart.
 
@@ -998,13 +1030,13 @@ We're pressing start anyway.
 
 Buckle up, the first challenge is not easy. We must learn to defend ourselves against going down the wrong path of artificial human identities by understanding what human nature truly is. Let's meet the best you, the natural player of the game.
 
-## Chapter 8—Our Base Player Nature
+## Chapter 9—Our Base Player Nature
 
 Nature has many meanings: the oceans and mountains of the natural world, the “forces of nature” that run the universe, Mother Nature's power to create life, and the old question “what is its nature?”, which asks what something truly is.
 
 The natural player of the game is the one who accepts all of these: the board keeps changing, the rules don't bend, and life keeps making new forms. To meet that player, we start where our genes did.
 
-Let's place ourselves on the tree of life, which describes the relationships between organisms both living and extinct. It's a huge list of producers, plant-eaters, predators, scavengers, decomposers, and testers, which continually die off and update to keep up with the changing game board.
+Let's place ourselves on the tree of life, which describes the relationships between organisms both living and extinct. It's a huge list of producers, plant-eaters, predators, scavengers, decomposers, and testers, which continually die off and update to keep up with the changing gameboard.
 
 Humanity is on this tree like any other being. Our last common ancestor with our hominid cousins chimpanzees and bonobos lived between perhaps six to eight million years ago. Long in our timeframe, but very minimal in the evolutionary one.
 
@@ -1030,7 +1062,7 @@ The earliest fossils in our own genus, _Homo_ (Latin for human), are about 2.8 m
 
 With distance running, sweat, speech, and thumbs, humans got many points in the Game of Life. Every new generation could better hold spears and organize ourselves to reliably chase, exhaust, kill, and defend protein rich food no ape ever could. We learned to crave sugar for the rare energy boosts it gave, but being omnivorous, could gather something to eat year round; especially because we learned to use rocks and sticks to dig up, open, or grind an increasingly large menu of calorie dense roots, nuts, and seeds.
 
-All these adaptations opened up new opportunities on the game board. Every new food source, water hole, cave home was as important supply chain. Growing the abililty to talk and communicate its details provided an advantage. Crucially, this included the value of charred meat, likely learned from scavenging food after brush fires. Perhaps as long as 1.8 million years go, but at least 1 million years ago, humans started our own fires to cook, and therefore predigest, our food.
+All these adaptations opened up new opportunities on the gameboard. Every new food source, water hole, cave home was as important supply chain. Growing the abililty to talk and communicate its details provided an advantage. Crucially, this included the value of charred meat, likely learned from scavenging food after brush fires. Perhaps as long as 1.8 million years go, but at least 1 million years ago, humans started our own fires to cook, and therefore predigest, our food.
 
 Fire, of course, was pivotal to technology. Just as plants use sunlight to rearrange matter into life, fire rearranges matter into ceramics, bronze, and iron. And the two are more closely linked than they look. The sun's heat comes from nuclear fusion; a volcano's, from leftover heat and radioactive decay. Fire is different. It's chemical, and it needs two things only life provides. The first is oxygen, released into the air by cyanobacteria and plants. The second is fuel: the stored sunlight in wood, coal, and gas. Even much of our iron ore formed when early oxygen reacted with iron dissolved in the oceans, settling as rusty layers on the seafloor. And cement is made largely from limestone, the compressed remains of ancient sea creatures. In so many ways, technology is the offspring of biology.
 
@@ -1125,7 +1157,7 @@ Because, you know...
 
 DING. DING. DING.
 
-## Chapter 9—Spreading the Technological Soil
+## Chapter 10—Spreading the Technological Soil
 
 Why are humans so similar across the world, despite living in completely different environments? The answer lies in our shared origin in Africa and the technological co-evolution that followed us out.
 
@@ -1147,7 +1179,7 @@ It's perhaps comical to imagine, but a modern human could be transported back to
 
 Many _Homo sapiens_ tribes lived in Africa for thousands of generations. But our biological adaptations had maxed out. Extreme distance walking and running could get us calorie dense food and forage, but with our hungry brains, vulnerable kids, little fat or hair to keep us warm, we were at a biological endpoint as a species.
 
-Anything that helped us outsmart the game board and outpace the sand clock caught the coach's attention.
+Anything that helped us outsmart the gameboard and outpace the sandclock caught the coach's attention.
 
 So, the coach kept picking _Homo sapiens_ who developed better tools, crafted warmer clothes, and passed on more knowledge into complex social structures connected with evermore gossip and teachings. Around 100,000-70,000 years ago, East Africa was such a hotbed of innovation some call it the Cognitive Revolution. Some say the development was more gradual, but in any event _Homo sapiens_ developed symbolic thinking, complex language, advanced tool-making, and artistic expression. This change allowed humans to create art, plan for the future, develop spiritual beliefs, and cooperate at larger scales than ever before.
 
@@ -1159,7 +1191,7 @@ Before the Cognitive Revolution we were physically modern humans, after it we be
 
 Yet, the relative safety, abundant resources, and pleasant weather were soon to be a happy memory.
 
-Our adaptable hands, feet, cognition, and tools, allowed early modern humans to navigate most any environmental challenge on the African game board. That also meant, after so many millions of years and various forms of humanity, nature finally created a human ready to venture across the world.
+Our adaptable hands, feet, cognition, and tools, allowed early modern humans to navigate most any environmental challenge on the African gameboard. That also meant, after so many millions of years and various forms of humanity, nature finally created a human ready to venture across the world.
 
 Or perhaps it's better to say, technology had evolved the perfect match to seed itself worldwide. And the bits of clay that ventured out could find much scoreboard success. And out we went!
 
@@ -1169,15 +1201,15 @@ The timing is still debated among scientists. Unfortunately there was no written
 
 However it happened, by about 40,000 years ago, archaic humans were effectively gone. But for trace amounts of old DNA (about 1-5%), all humans from then on were _Homo sapiens_ with endless DNA varieties possible but still with relatively consistent nature, physiology, and culture. While our bits of clay were destined to be continually remixed, they would never be so fundamentally different that language, beliefs, or tools had limited spread. 
 
-By mixing genotype and phenotype variation, humans were doing what life always does—producing evolved variations—only now with their extended phenotype, technology, as the medium. The tool itself was thereafter being selected by the coach as _Homo sapiens_ kept adapting our cultures and co-evolving tools to nearly every game board on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sand clock and keep scoring procreation points around the world.
+By mixing genotype and phenotype variation, humans were doing what life always does—producing evolved variations—only now with their extended phenotype, technology, as the medium. The tool itself was thereafter being selected by the coach as _Homo sapiens_ kept adapting our cultures and co-evolving tools to nearly every gameboard on Earth. From north to south, desert to jungle, chilling cold to sweating heat, our adaptability let us outpace the sandclock and keep scoring procreation points around the world.
 
 Now the extended phenotype—technology—had the uniformity it needed in humans to sprout across the globe. Just as early plants ground rock into soil and slowly allowed for more life, a uniform humanity became the soil technology could take root in anywhere. Once it got hold, its ecosystem spread far and wide, with humans often deciding which tools lived and which died.
 
-## Chapter 10—Planting, Building, and Playing the New Game
+## Chapter 11—Planting, Building, and Playing the New Game
 
 Humanity has a base identity using both our genes and upbringing, or genotype and phenotype in nature's eyes. _Homo sapiens_ have a shared culture and physiology that when put together helped us create, use, and spread technology around the world.
 
-As we spread across the world, we created extended phenotypes according to the problems of whatever emergent game board we encountered. Wooden spear tips became flint rock or obsidian, caves became mammoth-tusk tents, fur skins were sewn into clothing. But, hunting and gathering with tools was still mostly as before.
+As we spread across the world, we created extended phenotypes according to the problems of whatever emergent gameboard we encountered. Wooden spear tips became flint rock or obsidian, caves became mammoth-tusk tents, fur skins were sewn into clothing. But, hunting and gathering with tools was still mostly as before.
 
 The invention of agriculture was the dawn of civilization. It's called the Neolithic Revolution. It occurred independently at different times: first taking root in Southwest Asia's Fertile Crescent around 10,000 BC, China 9,000 BC, Mesoamerica 5,000 BC and other regions afterward. As Jared Diamond notes in his landmark _Guns, Germs, and Steel_, each civilization was heavily influenced by the local wildlife and resources; however most locations started some mixture of permanent human settlements, the domestication of animals, clay pottery, and in some places later on, metal making.
 
@@ -1185,7 +1217,7 @@ In every instance civilization drastically increased the productivity of land. F
 
 Freed from the daily hunting and gathering treks, humans had more time on our hands and crucially more jobs to do. We strayed more from the wilderness realm and built new things, divided the labor to do it, and created political regimes to keep everyone organized and working. Within a few thousand years the Stone Age turned into the Copper, Bronze, then Iron Age, each stage remade civilization's farming, logistics, housing and other staples based on an amazing new material available to build the powerful new tools.
 
-As civilization progressed with each passing year, our nature was increasingly technological. Not necessarily because that's what human nature wanted, or because that's what made us happier, but for the same reason all species such as polar bears and Darwin's finches find success. Because the paler bear and the more unique beak is better adapted to the game board and so gets more resources and therefore births more points on the scoreboard. The coach always selects whoever can—temporarily, of course—outrun the sand clock, which otherwise wears down what life builds into useless matter.
+As civilization progressed with each passing year, our nature was increasingly technological. Not necessarily because that's what human nature wanted, or because that's what made us happier, but for the same reason all species such as polar bears and Darwin's finches find success. Because the paler bear and the more unique beak is better adapted to the gameboard and so gets more resources and therefore births more points on the scoreboard. The coach always selects whoever can—temporarily, of course—outrun the sandclock, which otherwise wears down what life builds into useless matter.
 
 With each new technological selection, the coach was carving a new type of player out of life's living clay.
 
@@ -1243,11 +1275,11 @@ Scavengers can't help but use, collect, and hoard every last piece of technology
 
 Now for viruses, or what I like to call testers. These are the people who find novel uses for existing technology, just as viruses move genetic material between organisms. Sometimes the result is a helpful innovation, sometimes it's a crook—I dealt with plenty of those adjusting claims, and was accused of being one often enough to reflect on it. Either way, by constantly hacking whatever exists, testers check every member of the ecosystem for its fitness, acting as an ever-present selection pressure. (Testers isn't a standard ecological classification; I'm generalizing the group for simplicity.)
 
-Notice that each role has its own relationship with time. Everything useful eventually runs down, so every player has to reach stored energy before the sand clock does, but each works at its own pace.
+Notice that each role has its own relationship with time. Everything useful eventually runs down, so every player has to reach stored energy before the sandclock does, but each works at its own pace.
 
 A producer, or farmer, waits patiently while sunlight slowly becomes growth. A consumer, or worker, wants a steady supply: daily forage, a regular paycheck. A predator, or innovator, may stalk for months for one big reward. A scavenger waits for whatever valuable thing turns up. A decomposer, or recycler, works constantly with whatever it gets. And a tester probes without pause, looking for the next weakness.
 
-The sand clock ticks for everyone. How a player spends its time helps define its place in holding entropy back.
+The sandclock ticks for everyone. How a player spends its time helps define its place in holding entropy back.
 
 Let's look at each role in how streaming replaced Maria's DVD store. Producers converted energy into digital content, burned from hard drives onto plastic discs in the millions and trucked to stores. Consumers drove, picked up, watched, and satisfied their need for stories—a 20-minute round trip for two hours of content, hundreds of miles a year per family.
 
@@ -1307,9 +1339,9 @@ As for the high-end homeowner—he noticed my coworker had forgotten to photogra
 
 His case in court was simple: "You were there. Prove I didn't have it." The case went on for years.
 
-Time told us who really needed the help. But the system couldn't tell the difference between desperation and greed because it sorted events based on the story and not on the impartial truth of the game board and the players moving on it.
+Time told us who really needed the help. But the system couldn't tell the difference between desperation and greed because it sorted events based on the story and not on the impartial truth of the gameboard and the players moving on it.
 
-## Chapter 11—Back to Natural
+## Chapter 12—Back to Natural
 
 When our ancestors lost their fur, they borrowed it from dead animals and worked to master fire. The day we first cooked over a fire we'd started ourselves, biology gave birth to technology.
 
@@ -1323,7 +1355,7 @@ The first brown bears venturing into the Arctic didn't interview for jobs. Today
 
 We see each other not as technological operators in the ecosystem that sustains us, but as tribe members or outsiders, sorted by nation, ethnicity, ideology, and other old labels. We too often try to subvert the natural reciprocation boardmates must make. The bear can't empty the coast, the seal can't evade all bears. An equilibrium forms among all the roles.
 
-Unlike biological ecosystems, where limits are built in, human civilization has none. Biological ecosystems have so many niches for each producer, scavenger, decomposer, etc. But we often shut people out for ideological, religious, or other reasons, so they can't fill an untapped niche. That doesn't move their energy to any"teacher" grading a test; it removes it from the game board, leaving less energy for civilization to keeping flipping the sand clock.
+Unlike biological ecosystems, where limits are built in, human civilization has none. Biological ecosystems have so many niches for each producer, scavenger, decomposer, etc. But we often shut people out for ideological, religious, or other reasons, so they can't fill an untapped niche. That doesn't move their energy to any"teacher" grading a test; it removes it from the gameboard, leaving less energy for civilization to keeping flipping the sandclock.
 
 Empowering an ecosystem pays well. The more trees, the more deer, the more predators, the more scavengers, the more decomposers, the more soil, and the more matter organized. Give a boardmate a better tool and their harvest grows, which grows the ecosystem you both feed on. That is the whole difference between the two kinds of artificial selection, the phenomenon we saw in the Heikegani crab. The true kind empowers, the false kind feeds on others, and only one of them can last.
 
@@ -1335,7 +1367,7 @@ Such is the success of the fire and the humans who tamed it that the total weigh
 
 When technology is powered by electricity, built with robots, designed with AI, and outweighs all life put together, we can't keep pretending our primary identity is rooted in the genetics of ancient humans or the cultures of the past.
 
-Said in another way, what are the odds that your self-identity is matched with your unique time and place on this new game board? 
+Said in another way, what are the odds that your self-identity is matched with your unique time and place on this new gameboard? 
 
 The technosphere is entirely new and rapidly changing.
 
@@ -1343,11 +1375,11 @@ How could Maria have known her future? How could any of us know, when none of us
 
 And now we have AI. Fire, kilns, and forges each reshaped who we were; no one yet knows what AI will make of us, enhance, replace, or pass us by.
 
-Every time a new technology arrives, we know the feeling of joy and dread. But like a raccoon who's learned to discern the noises of a busy restaurant, we don't really understand why the trends of technology come and go. As animals shed their fur in spring, we must shed our tools. But until we embrace a new identity rooted in the energy web of organized technologies, we won't really know who we are. We'll be forced to act within old identities while building and maintaining order in the eternal Game of Life on this new game board.
+Every time a new technology arrives, we know the feeling of joy and dread. But like a raccoon who's learned to discern the noises of a busy restaurant, we don't really understand why the trends of technology come and go. As animals shed their fur in spring, we must shed our tools. But until we embrace a new identity rooted in the energy web of organized technologies, we won't really know who we are. We'll be forced to act within old identities while building and maintaining order in the eternal Game of Life on this new gameboard.
 
 Thinkers have compared technology to evolution before. But none of our political or economic systems starts there. Each begins with something else: traditions to protect, freedoms to defend, equality to fight for, markets to free or to steady. Each holds real insight, but each is a playbook built on a story about human nature. None starts like an ecologist with a forest: map the land, log the species, find the borders, measure the energy flows, then make sure the system stays balanced.
 
-Tool ecosystems evolve like biological ones. They grow, branch into new species, mutate, drift, and die out. Tools compete on the same game board, draw on local resources, and spread when people copy them faster than their rivals. The rise and fall of nations and empires tracks this evolution more closely than we like to admit. It shapes our fate, yet we have no name for it, and no identity built around it.
+Tool ecosystems evolve like biological ones. They grow, branch into new species, mutate, drift, and die out. Tools compete on the same gameboard, draw on local resources, and spread when people copy them faster than their rivals. The rise and fall of nations and empires tracks this evolution more closely than we like to admit. It shapes our fate, yet we have no name for it, and no identity built around it.
 
 I can guarantee house fires, tornado damage, car crashes don't take human stories into consideration. The pain these acts of rising entropy cause is the plot creatures evolve to solve. The squirrel must plant trees to have them and the shelter they provide. The tree must make nutritious nuts to get planted each year. There's no self-awareness of course, but the byproduct is there so none is needed.
 
@@ -1365,7 +1397,7 @@ Both believed they had cracked the code of human advancement. Pre-screen boardma
 
 Both implemented their ideas, and the world watched as evolution judged the results within a lifetime.
 
-## Chapter 12—Extremes Are Not Natural
+## Chapter 13—Extremes Are Not Natural
 
 Both the Soviet Union and Nazi Germany put their ideas into practice at full scale, on real populations, at the same time. Neither called it a test. Both were certain enough to build countries and new world orders on the answers their belief systems gave them.
 
@@ -1491,7 +1523,7 @@ People selecting winners and losers is not itself a problem. Every farmer select
 
 As we learned in the Game of Life, nature keeps score on something else entirely: adaptations that fill an ecological role, feeding and sustaining the others. Both regimes promised that pre-screening boardmates would remove conflict and raise carrying capacity for everyone. It did the opposite. The people they screened out were the ones they needed. No genotype or phenotype extreme can operate an entire ecosystem alone.
 
-Nature would have reached the same verdict eventually. Wars terrible, but so are new diseases, crop blights, and environmental catastrophes. Players don't get to decide what the game board and sand clock will bring tomorrow. Solar flares or supernovas, wars or ice ages have tested life in the pas and will continue into the future.
+Nature would have reached the same verdict eventually. Wars terrible, but so are new diseases, crop blights, and environmental catastrophes. Players don't get to decide what the gameboard and sandclock will bring tomorrow. Solar flares or supernovas, wars or ice ages have tested life in the pas and will continue into the future.
 
 Self-aware selection sees changes coming and responds on purpose. It's far better to select on the board, not on the story.
 
@@ -1541,7 +1573,7 @@ Where's the return on the energy we spent putting screens, sound systems, and br
 
 A player of the game would see the ecosystem and make other choices.
 
-## Chapter 13—Moderation Is Natural
+## Chapter 14—Moderation Is Natural
 
 The democracies that defeated Nazi Germany and later outlasted the Soviet Union, collectively known as the West, were different. Not by intent, but by structure. They had founding stories to guide their politics, but these never declared themselves to be perfect so were more moderate and open to change.
 
@@ -1557,7 +1589,7 @@ In short, moderation let life “find a way.” More of the technological ecosys
 
 The system was by no means perfect. The many civil rights marches, environmental protests, and contested elections, showcase that well enough. But friction is a feature not a bug. The West often looked messier, but that was because problems were actually being addressed instead of assuming ideological belief made them go away. In 1947 former British Prime Minister Churchill even joked, "democracy is the worst form of Government except for all those other forms that have been tried from time to time". That is a joke impossible to tell in many extremist societies, never mind hear a celebrated wartime leader say it.
 
-So while never perfect, multi-party democracy with free-market economics was less blinding and therefore more responsive to game board changes. It's why as time went on, most other extremist regimes—from Spain to Vietnam—adopted some or all of its more liberal market-based practices. Observers had learned, sometimes an arrogant inventor really does have exceptional gifts. Sometimes a self-righteous educated bureaucrat should regulate society. Neither extreme was wrong about everything, which is exactly why neither genotype nor phenotype should be discarded.
+So while never perfect, multi-party democracy with free-market economics was less blinding and therefore more responsive to gameboard changes. It's why as time went on, most other extremist regimes—from Spain to Vietnam—adopted some or all of its more liberal market-based practices. Observers had learned, sometimes an arrogant inventor really does have exceptional gifts. Sometimes a self-righteous educated bureaucrat should regulate society. Neither extreme was wrong about everything, which is exactly why neither genotype nor phenotype should be discarded.
 
 As biology shows many times over, an organism is a mixture of good genes and the right lessons on how to use them. An ecosystem is a mixture of these organisms, because different characteristics are needed to fill different niches. Conservatives tend to value inherited tradition and the instinct to mass-produce what works; progressives value diversity and want to embrace what's new. Both are describing something valuable.
 
@@ -1663,7 +1695,7 @@ But, dash cams are cheap, available, and uncommon. They can lower rates, cut fra
 
 Keep note, it's not just _them_ who reject new tools.
 
-## Chapter 14—Meeting the Coach
+## Chapter 15—Meeting the Coach
 
 To us, in everyday life, everything falls downward. It seems the heavier a thing is, the faster it falls, the harder it hits, and the more sweat it takes to move it. In order to walk, run, or jump, the skeletons, muscles, and instincts of squirrels to tigers must adapt to this rule of the game.
 
@@ -1681,7 +1713,7 @@ Enter Einstein. Gravity is not the force we experience in everyday life like ham
 
 As we meet the coach, this brief history of astronomy shows us something vital. 
 
-All life lives on the game board and therefore is bound by rulebook to find and harvest pockets of useful energy to keep itself organized. Whether by mutation of new genes or the learning of new lessons, the ones who succeed make more copies of themselves, and thus form the species who represent life.
+All life lives on the gameboard and therefore is bound by rulebook to find and harvest pockets of useful energy to keep itself organized. Whether by mutation of new genes or the learning of new lessons, the ones who succeed make more copies of themselves, and thus form the species who represent life.
 
 We've already made the point that a species is a combination of genotype, phenotype, and extended phenotype. Ideas are part of our extended phenotype, and like any adaptation, they evolve.
 
@@ -1755,13 +1787,13 @@ Of course, this leaves big questions. How do I learn to assess, drop, and pick u
 
 We've answered questions like these before. Religions were once universal truths, and jobs were assigned at birth; we learned to live alongside many faiths and to change careers. Book II, Mixed Ideological Politics, and Book III, Bumblebee Economics, take up these questions with the same reason and science.
 
-Think back to the box under the tree. A rulebook, a game board, a sand clock, some clay, a scoreboard. You know what each piece does now. The rules don't bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. Life keeps reshaping its clay, and the scoreboard keeps counting kids. But one piece was never in the box, because it was the one opening it. The coach was you all along.
+Think back to the box under the tree. A rulebook, a gameboard, a sandclock, some clay, a scoreboard. You know what each piece does now. The rules don't bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. Life keeps reshaping its clay, and the scoreboard keeps counting kids. But one piece was never in the box, because it was the one opening it. The coach was you all along.
 
 Now that you know who the coach is, let's watch the Game of Life play out.
 
 - our current unchangeable number, energy, can't sustain the name-tags we're acting on.
 
-## Chapter 15—Vignettes 
+## Chapter 16—Vignettes 
 
 ### Opening
 
@@ -1773,7 +1805,7 @@ Humans play the Game of Life. Most of the time we play it with tools, but that i
 
 Despite our love of news updates and glorious speeches, the game has no stories, heroes, or villains. No audiences, judges, or second chances.
 
-The game board is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to harvest energy and assemble matter to mass-produce diverse new creatures, nests, fruit, tools, and numberless other adaptations.
+The gameboard is completely unbiased. It's constructed by the laws of physics, chemistry, and geology. Entropy wears down homes, spoils food, and puts timers on everyone's existence. Life must use these same laws to harvest energy and assemble matter to mass-produce diverse new creatures, nests, fruit, tools, and numberless other adaptations.
 
 Each new assembly is a unique variation. Look at the peppered moth becoming lighter, darker, lighter as smog changed the environment, and you'll see sometimes a combination of genotype, phenotype, or extended phenotype finds a niche in an ecosystem. Sometimes not. 
 
@@ -1781,7 +1813,7 @@ In the wild, natural selection is the coach. It keeps the forms that best read t
 
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
-Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt to the game board; the others mislead us, and often take their believers down with them.
+Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt to the gameboard; the others mislead us, and often take their believers down with them.
 
 How do we tell which is which? It matters, because in our game, as you now know, the coach is you.
 
@@ -1789,7 +1821,7 @@ Let's experience the game ourselves. By only sensing water, seeing motion, follo
 
 This chapter isn't written like a story. You may like three-act narratives, convincing statistics, and clear answers. But entropy is not an argument to be won. It's an ever-present reality to adapt to. Thus this chapter is a mirror to your new identity: a person who can drop unconstructive habits, beliefs, and tools, and adapt to grow more life.
 
-In each life that follows, don't just watch. Put yourself in the place of each species and each idea you meet, and ask: does it read the world and earn its place on the game board?
+In each life that follows, don't just watch. Put yourself in the place of each species and each idea you meet, and ask: does it read the world and earn its place on the gameboard?
 
 Notice that the winners aren't always the largest or the smallest, the weakest or the strongest. But those who help harvest energy for their ecosystem. Flip the page and hold this truth as you read each word.
 
@@ -2835,7 +2867,7 @@ The merchant and blacksmith smile at the apprentice.
 
 Each lights a candle and places their boxed candle at its location.
 
-The merchant flips the sand clock.
+The merchant flips the sandclock.
 
 "The chimney candle is dying. Rod wax not melting. Snuffed at 1/10 of glass." The blacksmith writes it down.
 
@@ -4500,7 +4532,7 @@ I learned much doing property claims too, but those years in auto claims effecti
 
 Our society has a stutter of sorts. A hungry polar bear, a thirsty tree, a scared raccoon all have one too. The environment changed and the old response no longer works. There's no shame in that. Ours is just a block in the mind. We can be honest, confront it, and cure ourselves.
  
-## Chapter 16-Epilogue
+## Chapter 17-Epilogue
 
 
 video of natural selection in germs different levels of antibiotics
@@ -4542,11 +4574,11 @@ We, like the iron atom, have a number: the energy we need to keep warm, raise ou
 
 Knowing a person's energy needs makes it far easier to understand a complaining employee or a desperate business owner. It's the same number a squirrell  the trees, or the trees sees back. It's the equillibirum needed to make sure energy is being harvested enough to keep the ecosystem flowing.
 
-A new identity is hearing that and realizing "obviously". Like gravity, it's a universal fact our environment changes, sand clock ticks organized matter away, rules of the game are ever-powerful, and life responds by assembling clay into different forms. Then the question becomes how to get what I and my boardmates need.
+A new identity is hearing that and realizing "obviously". Like gravity, it's a universal fact our environment changes, sandclock ticks organized matter away, rules of the game are ever-powerful, and life responds by assembling clay into different forms. Then the question becomes how to get what I and my boardmates need.
 
-Then we can look from our screens and out at our game board, realize we're in an entirely new age, with a changed environment. The Internet Age, immense technomass, and unseen obstacles and opportunities that no past identity has ever seen. It's not fair or realistic to expect those thinkers to guide you in a place they haven't seen, might think is science-fiction, and probably couldn't make a phone-call in.
+Then we can look from our screens and out at our gameboard, realize we're in an entirely new age, with a changed environment. The Internet Age, immense technomass, and unseen obstacles and opportunities that no past identity has ever seen. It's not fair or realistic to expect those thinkers to guide you in a place they haven't seen, might think is science-fiction, and probably couldn't make a phone-call in.
 
-Realzing our game board is new and that our sand clock is ticking makes us realize the shared problems all players today have. Life solves its problems inside ecosystems of reciprocating boardmates. That's the mindset we need to return to: the compromise, moderation, and problem-solving we had just a few decades ago.
+Realzing our gameboard is new and that our sandclock is ticking makes us realize the shared problems all players today have. Life solves its problems inside ecosystems of reciprocating boardmates. That's the mindset we need to return to: the compromise, moderation, and problem-solving we had just a few decades ago.
 
 Only then can we lower the cost of living: by reading the board, finding the rivers, mountains, storms, and rules that block or delay turning matter into the cars, homes, computers, food, and power stations we need, and building around them.
 
@@ -4612,7 +4644,7 @@ Plants venture into new territories. Ants rebuild non-stop. Working folks learn 
 
 If it motivates you, I made a web page to explain insurance and fault rules to drivers. It's free on the internet. AI was even trained on it too. It gets about 7,000 visits a month, doing the work of perhaps 10 adjusters. Such is the power of open-source to skirt barriers and get a foothold in a new environment.
 
-Adapting to a new game board is where life lives. Remember all lifeforms from dinosaurs to humans, are made with many small iterations. You can make the future, if you first think in terms of using less energy every day and not satisfying human stories. We still have the diverse ecosystem of academic, corporate, market, government, open-source interests that invented transistors, the internet, and so much else at the ready to keep going and invent the next stages of the Internet Age.
+Adapting to a new gameboard is where life lives. Remember all lifeforms from dinosaurs to humans, are made with many small iterations. You can make the future, if you first think in terms of using less energy every day and not satisfying human stories. We still have the diverse ecosystem of academic, corporate, market, government, open-source interests that invented transistors, the internet, and so much else at the ready to keep going and invent the next stages of the Internet Age.
 
 Yet instead of crossing today, many with dying tools try to demand others stay behind. Charles, looking for the words that'll make someone call him king; Soviet clerks, sure their slogans feed society. Neither had evil intentions—avoiding the pains of evolution is natural. Doing so with artificial selection is not. With their palaces and bunkers, neither was coaching. Both were being selected. Pushing a story to justify strangling the better tool so the old one survives just a little while longer—even though entropy catches up to everyone equally.
 
@@ -4919,13 +4951,13 @@ If we saw an ecosystem where water and calories were being hoarded, or withheld,
 
 ### Glossary
 
-Game of Life: A metaphor for the contest every living thing, from bacteria to humans, takes part in. Lifeforms are “players” trying to gather energy and materials to build bodies, survive, and leave copies of themselves before their time runs out. No one player finishes it; the game carries on across generations.
+Game of Life: A metaphor for the contest every living thing, from bacteria to humans, takes part in. Lifeforms are “players” trying to gather energy and materials to build bodies, survive, and leave copies of themselves before their time runs out. No one player finishes it; the game carries on across generations. Each of its pieces is a fundamental every lifeform plays by, and together they’re what this book series is built on.
 
 Rulebook: The laws of nature. Fixed, and indifferent to every player. They can be studied to varying levels of mastery, but never changed.
 
-Game Board: The environment. It emerges from the rules and is constantly reshaped by the players on it. Because it is always changing no two players face quite the same board.
+gameboard: The environment. It emerges from the rules and is constantly reshaped by the players on it. Because it is always changing no two players face quite the same board.
 
-Sand Clock: Entropy. The law of nature that says concentrated energy spreads out over time, and once spread out, it can no longer do useful work. That means stars, environments, bodies, food, warmth, and shelter all run down, so every player races the clock to gather energy, survive, and procreate. Players can't stop the sand, but by harvesting enough energy, they can flip their own clock over and over, buying life more time.
+sandclock: Entropy. The law of nature that says concentrated energy spreads out over time, and once spread out, it can no longer do useful work. That means stars, environments, bodies, food, warmth, and shelter all run down, so every player races the clock to gather energy, survive, and procreate. Players can't stop the sand, but by harvesting enough energy, they can flip their own clock over and over, buying life more time.
 
 Clay: The living bodies and genes that players are made of, and that the game reshapes generation after generation. Like a cake, every lifeform has its own recipe of clay bits, from elements like oxygen, nitrogen, iron, and calcium to molecules like proteins and nucleic acids. Unlike a cake, a living body never comes out of the oven. It needs energy every moment to stay together.
 
@@ -4935,27 +4967,27 @@ Coach: Natural selection. It keeps what works and discards what doesn't. It read
 
 Boardmates: Players who share the same board and depend on it. They can compete for resources, but they often cooperate too, knowingly or not. Bees and flowers, squirrels and oaks, wolves and deer: all are boardmates, bound together by the ecosystem they share.
 
+Playbook: A notebook waiting to be filled with player's instincts and ideas about how best to play the game. When to release pollen, when to migrate for new grass, when to chase prey are plays from the playbook of a lifeform. A playbook is often mistaken for the rulebook. Unlike the rules, it can change as instincts slowly evolve over generations, plays cane learned and altered within a lifetime, and written ones, like traditions, ideologies, and business plans, change if we choose to revise them.
+
 Urban Raccoon: An example of a lifeform living inside an ecosystem without being a boardmate, sustained by happenstance instead of by a place in a sustainable, reliable food web. Unlike a squirrel planting oaks, it doesn’t build the board that feeds it. It still hunts, raiding bird nests and eggs, but gives little back.
 
-Playbook: Not an official part of the Game of Life. A player's instincts and ideas about how best to play. When to release pollen, when to migrate for new grass, when to chase prey: these are plays. A playbook is often mistaken for the rulebook. Unlike the rules, it can change: instincts slowly over generations, learned plays within a lifetime, and written ones, like traditions, ideologies, and business plans, whenever we choose to revise them.
+Game of Technological Life: The same game, played with tools. The rulebook, gameboard, and sandclock don't change. What changes is the clay and the coach. Tools are the new clay: houses, vehicles, machines, and software that carry our learning forward, since our genes can't. And the coach is us: people select which tools get copied, kept, and dropped. Whole civilizations rise and fall on how well they coach.
 
-Game of Technological Life: The same game, played with tools. The rulebook, gameboard, and sand clock don't change. What changes is the clay and the coach. Tools are the new clay: houses, vehicles, machines, and software that carry our learning forward, since our genes can't. And the coach is us: people select which tools get copied, kept, and dropped. Whole civilizations rise and fall on how well they coach.
-
-Biosphere: Every part of Earth where life plays the Game of Life: the land, the oceans, and the lower air, along with every living thing in them. It's the biological game board.
+Biosphere: Every part of Earth where life plays the Game of Life: the land, the oceans, and the lower air, along with every living thing in them. It's the biological gameboard.
 
 Biomass: The total weight of all living things, from bacteria to whales. It's the clay in play at any moment, measured as mass. Most of it is plants.
 
-Technosphere: Every part of Earth reshaped by human tools: cities, roads, farms, power grids, and the networks connecting them. It's the technological game board.
+Technosphere: Every part of Earth reshaped by human tools: cities, roads, farms, power grids, and the networks connecting them. It's the technological gameboard.
 
 Technomass: The total weight of everything humans have built, from bricks and asphalt to machines. By around 2020, it outweighed all of Earth's biomass.
 
-Artificial Selection: Selection made by people instead of by nature. It’s the same coaching job natural selection does, but with a mind choosing what stays. It comes in three flavors, depending on what guides the choice: mythology, philosophy, or science. How well each works depends on how closely it reads the game board. In the Game of Technological Life, artificial selection is how we coach our tools.
+Artificial Selection: Selection made by people instead of by nature. It’s the same coaching job natural selection does, but with a mind choosing what stays. It comes in three flavors, depending on what guides the choice: mythology, philosophy, or science. How well each works depends on how closely it reads the gameboard. In the Game of Technological Life, artificial selection is how we coach our tools.
 
 Extremism: Selecting so strongly for one type of player, whether genes, traits, tools, or ideas, that all others get screened out. It trades diversity, one of the game’s fundamentals, for uniformity. Like a street lined with a single species of tree, it leaves the whole board exposed when conditions change.
 
-Mass Production and Diversity: Nature’s two-part recipe for winning the game. Mass production makes many offspring. Diversity makes sure the copies aren’t all the same. On its own, either one fails. Mass production without diversity is a monoculture: a street of identical elms, vulnerable to one disease. Diversity without mass production is a scattering of one-offs that can’t form an ecosystem to outrun the sand clock. Only when using both can species flood the board and still adapt.
+Mass Production and Diversity: Nature’s two-part recipe for winning the game. Mass production makes many offspring. Diversity makes sure the copies aren’t all the same. On its own, either one fails. Mass production without diversity is a monoculture: a street of identical elms, vulnerable to one disease. Diversity without mass production is a scattering of one-offs that can’t form an ecosystem to outrun the sandclock. Only when using both can species flood the board and still adapt.
 
-Ecosystem: A patch of the game board, usually defined by geography, and every player on it, linked by what they eat, share, and compete for. Energy flows through it, from sunlight to plants to the animals that eat them, and matter cycles back through decomposers to be used again. Each player fills a role: producer, consumer, predator, scavenger, decomposer, or tester. A pond, a forest, or a city can each be one. Ecosystems can overlap, but every lifeform needs one to survive.
+Ecosystem: A patch of the gameboard, usually defined by geography, and every player on it, linked by what they eat, share, and compete for. Energy flows through it, from sunlight to plants to the animals that eat them, and matter cycles back through decomposers to be used again. Each player fills a role: producer, consumer, predator, scavenger, decomposer, or tester. A pond, a forest, or a city can each be one. Ecosystems can overlap, but every lifeform needs one to survive.
 
 --
 
@@ -4977,11 +5009,24 @@ Techvolution: A framework for understanding civilization as technological ecosys
 
 A New Identity: Someone committed to playing the game by Seeing yourself as a self-aware selector inside a technological ecosystem: someone who knows every person carries an energy number, understands others by it, and works with them to pay it more efficiently, freeing energy to mass-produce more diverse creations.
 
-Roles:
+Self-Aware Selection: Artificial selection done with open eyes. The selector knows they’re coaching the game, judges players by how they perform on the board rather than by the stories told about them, and checks their own name-tags at the door.
 
-Open Jobs:
+Energy Pocket: A concentrated store of energy that can still do useful work: a star, a lump of sugar, a seam of coal, a charged battery. The sandclock is always emptying these pockets as their energy spreads out. Every player survives by finding pockets and tapping them in order energize and do it all over again.
 
+Evolutionary Mismatch: An adaptation built for an old board that misfires on a new one. Giant dinosaurs, built for a warm, green world, woke up to a dark, dusty planet after the asteroid hit. Sea turtle hatchlings crawl toward the brightest light, which could be the moonlit ocean, or a beachfront hotel. A craving for sugar served our ancestors when sweet food was rare. Today it fills grocery aisles. Tools, skills, and playbooks can be mismatched too. What was once an efficient match between niche and adaptation becomes a trap.
 
+Roles: The jobs players fill to meet their energy number. Every ecosystem, natural or technological, has the same ones:
+**Producers** capture energy from outside the game, like plants from sunlight, or power plants and farms.
+**Consumers** live on what producers make, like deer eating grass, or a worker or buyer using a product.
+**Predators** hunt other players, like wolves culling the weak, or innovators hunting inefficiency.
+**Scavengers** live on what others leave behind, like vultures, or the used-goods market.
+**Decomposers** break down the dead and return its matter to the board, like fungi, or recyclers.
+**Testers** probe for weaknesses, like germs, or hackers and crooks. They’re often unwelcome, but they reveal what needs fixing or help develop new adapatations.
+**Generalists** switch roles as the board changes, like raccoons, crows, or a worker with many skills.
+
+Important to note, adaptations, jobs, identities, and tools all expire. The roles don’t.
+
+Open Jobs: Roles on the board that no player is filling yet: energy or resources sitting unharvested. Open jobs appear when the board changes. A player dies out, a new resource arrives, or a disaster clears the field.
 
 ---
 
