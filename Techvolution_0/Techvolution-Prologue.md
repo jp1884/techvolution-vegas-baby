@@ -13,15 +13,15 @@
 
 This book does not tell you politics and economics are getting really bad, and to fix it, here's what _someone else_ needs to change.
 
-This book explains why politics and economics are getting both good and bad—and how you, the reader, can adapt to use the good to fix the bad.
+This book series explains why politics and economics are getting both good and bad—and how you, the reader, can adapt to use the good to fix the bad.
 
-We already think this way in so many other areas. Musicians, athletes, and builders all know their work is imperfect. They improve by returning to the fundamentals and practicing them again and again. When a rival writes a better song or plays a better game, they admire it and learn from it, because no one gets better by defending past songs, plays, or blueprints.
+We already think this way in so many other areas. Musicians, athletes, and builders all know their work is imperfect. They improve by returning to the fundamentals and practicing them again and again. When a rival writes a better tune, plays a better game, they admire it and learn from it, because no one gets better by defending past songs, plays, or blueprints.
 
 Politics and economics are no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game with fundamentals every living thing must play by.
 
-We play that game every time we build our civilization. This book starts with what it takes to build anything at all, from a bird’s nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again.
+We play that game every time we build our civilization. This book starts with what it takes to make anything at all, from a bird’s nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again.
 
-That’s why this is a book for people in the middle: people who want things to be more rational, level-headed, and future-focused, and who are willing to adapt to improve our forever imperfect world.
+That’s why this is a book for people in the middle: people who want things to be more rational, level-headed, and future-focused, and who are willing to adapt to improve our imperfect world.
 
 ## Giving You a Map and Compass
 
@@ -31,9 +31,9 @@ Physical media has a powerful challenger. Maria's professional networks, her har
 
 Yes.
 
-Where did Maria’s pain come from? She ran one store in a twenty-store rental chain. A film geek, she convinced head office that DVDs, with their quality, clarity, and compact size, were the next big thing for their customers. Her passion won her control of the company’s distribution warehouse, and she was savvy enough to keep the right movies stocked for the right neighborhoods. The chain grew to thirty stores! So why is new technology now causing her grief?
+Where did Maria’s pain come from? She ran one store in a twenty-store rental chain. A film geek, she convinced head office that DVDs, with their quality, clarity, and compact size, were the next big thing for their customers. Her passion won her control of the company’s distribution warehouse, and she story-savvy enough to keep the right movies stocked for the right neighborhoods. The chain grew to thirty stores! So why is new technology now causing her grief?
 
-The compact disc was born in the 1980s from a partnership between Dutch Philips and Japanese Sony. It stored a music album of data. The DVD followed a decade later holding an entire movie. The DVD spread to countless stores and homes—in capitalist countries and socialist ones, secular and religious neighborhoods, red and blue legislatures. Soon, discs with far better video and audio quality—HD DVD and Blu-ray—were brought to market.
+Plastic storage discs were possible because of material science and laser discovers in the 1950s and 60s. Together they wrote and read pits on plastic. The consumer technology was born in the 1980s from a partnership between Dutch Philips and Japanese Sony. The Compact Disc (CD) stored a music album of data. The DVD followed a decade later holding an entire movie. The DVD spread to countless stores and homes—in capitalist countries and socialist ones, secular and religious neighborhoods, red and blue legislatures. Soon, discs with far better video and audio quality—HD DVD and Blu-ray—were brought to market.
 
 People ignored them. Within a few years physical media sales fell off a cliff everywhere at once, regardless of nation, ideology, or economic system. Reflect on this situation: when you stopped buying DVDs, did you consult your identity or belief system first?
 
@@ -100,17 +100,17 @@ They're meant to build a day where your tools are easier to learn, where changin
 
 **Book I—A New Identity:** It starts with how we see ourselves. We have names for our nationality, ethnicity, job, and politics, but no name for the identity that quietly runs our lives: the tools we use to house ourselves, get around, and earn a living. Because we miss it, we blame ourselves, "the other" political party, or bad luck when the ecosystem shifts under our feet.
 
-Evolution never tested Maria as a distribution manager or a college graduate. It saw someone selling physical-media stories in the Internet Age. And, regardless of the stories we tell, slow adaptations get replaced in nature _and_ civilization. Someone who knows this can read the wind instead of cursing it, shed the aging tool, and transfer the hard-won knowledge to the next adaptation. After all, Maria's eye for a good story and her grip on logistics are needed in whatever comes next. The same is true of what you know today, whether you’re facing AI now or something new tomorrow.
+Evolution never tested Maria as a distribution manager or a college graduate. It saw someone selling physical-media stories in the Internet Age. And, regardless of the stories we tell, slow adaptations get replaced in nature _and_ civilization. Someone who knows this can read the wind instead of cursing it, shed the aging tool, and transfer the hard-won knowledge to the next adaptation. After all, Maria's eye for a good story and her grip on logistics are always needed. The same is true of what you know today, whether you’re facing AI now, or whatever comes next tomorrow.
 
 **Book II—Mixed Ideological Politics:** A heat pump doesn't know it's "green." A diesel truck doesn't know it's "red-blooded American." We attach such labels with stories and then reject good tools for wearing the wrong one. After Book I told us our true identity, Book II teaches us how to strip away story-based identities from any tool so we can install tools without thinking we've betrayed an ideological tribe. 
 
 In nature, forests grow where the sun shines and the water runs. Book II teaches us how to judge our tools by their local usefulness instead of the playbook they belong to. This radical freedom to grow and shed tools based on the environment is political moderation reimagined for the people of the Internet Age.
 
-**Book III—Bumblebee Economics:** Free to choose our tools, we can build a more reliable and renewable economy generating power to make and distribute products in our supply chains. Nature is our model. All plants use the same sunlight. Predators eat most meats. A bee works any flower it finds. By using universal standards, everyone gets to play, and nature finds the best fit for every opportunity.
+**Book III—Bumblebee Economics:** Free to choose our tools, we can build an economy that’s more reliable and renewable, from the power we generate to the goods we make and move. Nature's supply chain is our model. All plants use the same sunlight. Predators can hunt and eat most meats. A bee works any flower it finds. By using universal standards, everyone gets to compete, and nature finds the best fit for every opportunity.
 
-This means we need far more standards in our economy. We're good at making standards like USB, shipping containers, and VIN numbers. Less good at settling on them: the DVD's successor foolishly split into two rival discs. And we have few standards at all for selling, staffing, or moving goods and people. Just think of the pains of resume writing, interviews, onboarding, and learning the ropes of a new job, never mind a new industry.
+This means we need far more standards in our economy. We're good at making standards like USB, shipping containers, and VIN numbers. Less good at settling on them: the DVD's successor split into two rival discs. And we have few standards at all for selling, staffing, or moving goods and people. Just think of the pains of resume writing, interviews, onboarding, and learning the ropes of a new job, never mind a new industry.
 
-With coherent standards, Maria's next niche is easier to find and embrace. She can use her knowledge and skill sets to cross-pollinate a new part of the ecosystem. Book III details the adaptations that enforce widespread standards and interoperability in nature so we can use them in our economy. When every organism is put to constant use, little is wasted. Bounty is the result in nature, and in civilization too.
+With coherent standards, Maria's next niche is easier to find and embrace. She can use her knowledge and skill sets to cross-pollinate a new part of the ecosystem. Book III details the adaptations that enforce widespread standards and interoperability in nature so we can use them in our economy. When every organism can easily work and contribute little is wasted. The result is bounty in nature, and in civilization too.
 
 `Understand yourself → Learn to select better tools → Build bounty with others`
 
