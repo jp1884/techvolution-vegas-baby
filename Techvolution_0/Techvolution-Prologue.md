@@ -94,9 +94,9 @@ Your paycheck is a species, subject to all the laws of nature. Some are thriving
 
 ## Book Series
 
-_Techvolution: On the Origin of Technological Species_ presents a different way of understanding human civilization: our fate is driven not by our beliefs or ideologies, but by the technologies we create and use. These ideas aren't meant to stay on the blackboard.
+_Techvolution: On the Origin of Technological Species_ presents a different way of understanding human civilization: the human story is driven not by our beliefs or ideologies, but by the technologies we create and use.
 
-They're meant to build a day where your tools are easier to learn, where changing jobs doesn't mean starting over, and where you match each problem at work, home, or school with the best tool regardless of which ideological tribe it belongs to. Getting there takes three steps.
+The journey from recognizing our technological nature to building a better world happens as we transform three interconnected realms—individual identity, political discourse, and economic systems.
 
 **Book I—A New Identity:** It starts with how we see ourselves. We have names for our nationality, ethnicity, job, and politics, but no name for the identity that quietly runs our lives: the tools we use to house ourselves, get around, and earn a living. Because we miss it, we blame ourselves, "the other" political party, or bad luck when the ecosystem shifts under our feet.
 

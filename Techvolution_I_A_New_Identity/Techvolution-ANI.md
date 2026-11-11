@@ -882,35 +882,39 @@ One more claim down. One less caller to make that freaking bell ring.
 
 ## Chapter 7—Playbook: Instincts and Ideas While Playing the Game
 
-The Christmas tree glows above you. Iluminating You hold the gamebox in your hand. The entire thing fits there, all snug. You can't wait to play it. It seems so exciting. How do you play it? Where do you start?
+The Christmas tree glows above you, illuminating the gamebox in your hand. Earlier, it was the wonder of the box that made you smile. Now it's the wonder of playing it.
 
-Are there dice? There are no dice to tell you how far to move. Where's the starting point? There is no starting point. Really? How does anyone play this game?
+You can't wait. But how do you play? Where do you even start?
+
+Are there dice? There are no dice to tell players how far to move. Where's the starting point? There is no starting point either. Really? You flip the box over and around. How does anyone play this game?
 
 You look over all the items again. There's the rulebook, gameboard, sandclock, clay. What about that booklet, it was all blank pages when you first checked it. Maybe you missed something.
 
-You flip through it slowly. Every page is blank. There's not even any title or lines. Just a lot of empty pages. At the end there are sticky notes, a pencil and an eraser.
+You flip through it slowly. Every page is blank. There aren't even any titles or lines. Just a lot of empty pages. At the end there are sticky notes, a pencil, and an eraser.
 
 But that's it.
 
 Just then Sparky comes padding down the stairs. He usually wakes up first, so he feels left behind. He comes over and rubs his head all over you, wagging his tail. He always knows how to put a smile on anyone's face.
 
-_We're best friends after all. Walks through the creek, fishing trips, meeting new people. He's a good partner. Wait, he is playing the game too. He must be. He needs food, water, home, protection, friends...._
+_We're best friends after all. Walks through the creek, meeting new people, warning of intruders. He's a good partner. Wait... he is playing the game too. He must be. He needs food, water, home, protection, friends..._
 
-You tap the rulebook in thought. _Sparky doesn't read anything, he plays by sniffing, loyalty, and always looking for food._
+You slap the rulebook in thought. _Sparky doesn't read anything. He plays by sniffing around all day._
 
 _Chess doesn't come with a guide. Football doesn't either. Why would this game? Sparky has his instincts. Food and loyalty. That's his playbook._
 
-_It's just a notebook. I can write down ideas, diagrams, drawings...There's no official playbook. Well yeah, that makes sense._
+_That's why it's just a notebook. I can write down ideas, diagrams, drawings...There's no official playbook because the gameboard is unique for each player._
 
-You grab your coat, the leash, and go out for a walk with Sparky. You want some time to think.
+You grab your coat, the leash, and go out for a walk with Sparky. You want some time to think and he's got to pee anyway.
 
-Outside is brisk. The fresh cool air livens you up even as you feel extra heat leaving your body. Sparky loves it. He's a big dog with a thick coat and always searches out the tiles to lie on. Now, he can move around without overheating. He sniffs everything. You remember reading that dogs can smell things that passed by days ago. This walk tells him who was here, where they went, who is sick, what's going on. Really, it's his Netflix for the day.
+Outside the weather is brisk. The fresh cool air livens you up even as you feel extra heat leaving your body. Sparky loves it. He's a big dog with a thick coat. That's why he searches out the coldest tiles to lie on. Now, he can move around without overheating. He sniffs everything because he can smell things that passed by days ago. This walk tells him who was here, where they went, who is sick, what's going on. This walk is his Netflix for the day.
 
-The rulebook in the cold air. The board under his paws. The sand clock in his empty stomach. The clay in his thick coat. The boardmates all around him. The elements of the game, in play. And the only playbook he has is his instincts.
+The rulebook in the cold air. The board under his paws. The sand clock in his empty stomach. The clay in his thick coat. The boardmates all around him. The elements of the game coming together in this one dog. And the only playbook he has is his instincts and the knowledge that his family means protection and food.
 
-_What are my instincts? What are my plays? I can learn. Football players practice from a playbook. Poker has guides, chess has strategies. The library is full of books. But what should I write in my blank booklet and notes?_
+_What are my instincts? What are my plays? I can learn more of course. Chess has strategies, music has scales, sports have playbooks. The library is full of books. But what should I write in my blank booklet and notes?_
 
-_Wait again. There's nothing special about it. It's not the playbook, it's a playbook. I can get more. How I learn what to write? How I learn what to erase?_
+_There's nothing special about it. It's not the playbook, it's a playbook. Like clay, it can be added to or cut back, and each play has advantages and disadvantages depending on the environment. How do I learn what to write? How do I learn what to erase?_
+
+_Let's get this dog home and fed. It's time we play this game._
 
 ## Chapter 8—What Does the Game of Life Teach Us?
 
@@ -1427,7 +1431,7 @@ Monash's ideas culminated in the Battle of Hamel in July 1918. In just over an h
 
 The result was a clear victory with comparatively few Allied losses. It showed that technology and meticulous planning could save lives and break the stalemate. A month later at Amiens and the 100 Days Campaign, the same method helped turn the tide of the war.
 
-But that November a starving Germany effectively surrendered, signing an armistice on the Compiègne Wagon train carriage The many other Allied generals, who at-first resisted even trying it, used some of its tactics to finish the war, but never adopted Monash's methods as a new doctrine. Instead, victory over Germany was credited to strong bunkers and defensive strategy the Allies had used through four years of war. Combined arms ideas were discussed and considered interesting. British theorists even developed war games and wrote books about it. The Allied leadership read them, but never implemented the doctrine to any meaningful degree.
+But that November a starving Germany effectively surrendered, signing an armistice inside a train carriage. The many other Allied generals, who at-first resisted even trying it, used some of its tactics to finish the war, but never adopted Monash's methods as a new doctrine. Instead, victory over Germany was credited to strong bunkers and defensive strategy the Allies had used through four years of war. Combined arms ideas were discussed and considered interesting. British theorists even developed war games and wrote books about it. The Allied leadership read them, but never implemented the doctrine to any meaningful degree.
 
 In contrast, World War I confirm to every German their encircled geography meant it cannot win long wars of attrition. From the top generals to the common soldier, no German had reason to preserve World War I mentalities. So, hunting down the old tools and tactics was in vogue. They developed some of the "stormtrooper" tactics that had proven successful. When they read the British theorists, they liked the idea of being far more efficient with their military. General Heinz Guderian wrote and distributed a practical guide to combined arms warfare called _Beware the Tank! (1937)_.
 
@@ -1451,15 +1455,13 @@ For the Allied societies and militaries, suddenly facing concentrated planes, ta
 
 One unnamed French officer summed up the trauma with a postcard. It was addressed to the country's leader and found on his body, "I am killing myself Mr. President to let you know that all my men were brave, but one cannot send men to fight tanks with rifles."
 
-The Nazis had just beaten an enemy who refused to adapt. The Allies not only originated combined arms warfare, they watched Germany train it, publish books about it, and watched it work so well against Poland, Denmark, and Norway. And they still didn't change their war plans. The military leaders had the order backwards. They assumed leaders are the most qualified to assess the environment. Instead, it's the best at assessing the environment who should be the leaders because that's what defines a successful species in the Game of Life. This is artificial selection at work. The Allies promoted officers who fit the story of the last war, not the board in front of them. 
+The Nazis had just beaten an enemy who refused to adapt. The Allies not only originated combined arms warfare, they watched Germany train it, publish books about it, and watched it work so well against Poland, Denmark, and Norway. And they still didn't change their war plans. The military leaders had the order backwards. They assumed leaders are the most qualified to assess the environment. Instead, it's the best at assessing the environment who should be the leaders because that's what defines a successful species in the Game of Life. This is poor artificial selection at work. The Allies promoted officers who fit the story of the last war, not the board in front of them. 
 
-The Nazis found and brought the Compiègne Wagon train carriage back to the same location where they had signed the WWI armistice. To avenge their WWI defeat, they made the French sign their surrender there.
+And, here is the point so important to us, almost right away the Nazis made the same mistake, and their inherent extremism had them inevitably make this mistake. Despite matching better tactics to the environment in WWII, and getting the victory it they so wanted in World War I (they even signed the 1940 armistice in the same train car as in 1918, going so far to return it to the same spot), they decided to keep fighting. They didn’t assess their new environment, instead they thought genetically superior leaders didn’t need to.
 
-And, here is the point so important to us, almost right away the Nazis made the same mistake, and their inherent extremism had them inevitably make this mistake. Despite matching better tactics to the environment and getting the victory it wanted in World War I, they decided to keep fighting. They didn't assess their new environment, instead they thought genetically superior leaders didn't need to.
+The Nazis read their early wins as proof of their ideology. The fact anyone can and did emulate their tools and tactics passed them by. Blitzkrieg wasn't even all that original. Two military historians, David G. Chandler and John Keegan, explained Napoleon's 19th century warfare tactics as "Napoleonic Blitzkrieg". Like Monash a century later, Napoleon was a mathematically gifted organizer who won his vicotires by concentrating superior force at the "decisive point," as the military theorist Jomini described. Instead of planes and tanks, he did it with army corps, mobile artillery, and an unmatched ability to move and supply large armies.
 
-The Nazis read their early wins as proof of their ideology. The fact anyone can and did emulate their tools and tactics passed them by. Blitzkrieg wasn't even all that original. Two military historians David G. Chandler and John Keegan explained Napoleon's 19th century warfare tactics as "Napoleonic Blitzkrieg". Like Monash a century later, Napoleon, a mathematically gifted organizer, had won by concentrating superior force at the "decisive point," as the theorist Jomini described. Instead of planes and tanks, he did it with army corps, mobile artillery, and an unmatched ability to move and supply large armies.
-
-Moreover, surprising a foe and attacking his vulnerable points is hardly unnatural. We know how much nature selects those who are lazy while getting the job done. In many respects, combined arms warfare just re-applied long standing principles with new technology.
+Moreover, surprising a foe and attacking his vulnerable points is hardly unnatural. We know how much nature selects those who are use the least energy while getting the job done. In many respects, combined arms warfare just re-applied long standing principles with new technology.
 
 Nevertheless, with Western Europe under their grip, the Nazis assumed the "racially inferior" Soviets would be a push-over, evidenced by the Soviet Union's recent purge of tens of thousands of its officers and lackluster performance in the Winter War against Finland (1939-1940). Although the German invasion of the Soviet Union (1941) caused an egregious loss of Soviet life and property it failed to force a surrender or capture much needed oil fields. Within a few years the Soviets were fielding better and more reliable tanks and planes and approaching German military command sophistication. By 1943 the tide of the war turned for the Soviets never to swing back again.
 
@@ -1467,19 +1469,19 @@ And the Allies woke up. Charles de Gaulle had spent the 1930s writing that Franc
 
 But the biggest change came when America entered the war in late 1941.
 
-With "Rosie the Riveter" and "Victory Program" leading the way, America turned what the Nazis called a decadent consumer economy to mass-produce quality and reliable weapons, planes, ships faster than anyone thought possible. The same William Knudsen president of General Motors, was promoted to General and given authority to direct Army's war production.
+With "Rosie the Riveter" and "Victory Program" leading the way, America turned what the Nazis called a decadent consumer economy to mass-produce quality and reliable weapons, planes, ships faster than anyone thought possible. The same William Knudsen president of General Motors, was commissed a lieutenant general and given authority to direct the Army's war production.
 
-It worked wonders. In 1942 America already outproduced all enemy states combined, 47,000 aircraft to 27,000, 24,000 tanks to 11,000, and six times as many heavy guns. The disparity only increased as time went on.
+It worked wonders. In 1942 America already outproduced the entire Axis states combined, 47,000 aircraft to 27,000, 24,000 tanks to 11,000, and six times as many heavy guns. The disparity only increased as time went on.
 
-America turned a 190,000 man pre-war army into over 8,000,000. Army Chief of Staff George Marshall ran war games to see which generals needed removing, and removed them. Soon new commanders adept at modern warfare like Patton, Bradley, and Eisenhower were in power, while American generals being rotated into/out of commands based on their battlefield performance became expected and routine.
+America turned a 190,000 man pre-war army into over 8,000,000. Army Chief of Staff George Marshall ran war games to see which generals needed removing, and removed them. Soon new commanders adept at modern warfare like Patton, Bradley, and Eisenhower were in power, while American generals were routinely rotated out of command based on battlefield performance.
 
 This is natural predation, but also self-aware selection: choosing leaders, tools, and workers on what the environment actually rewards, and changing course when results say so.
 
-Vicotry took priority over anything else. The American war effort even began to crack open long-held sexist and racist policies. Women filled factories, and Black soldiers, still kept in segregated units, drove most of the trucks of the renowned Red Ball Express that brought supplies to soldiers after D-Day. The diversity of participation, involvement, and ideas helped keep the American war economy adapting.
+Victory took priority over anything else. The American war effort even began to crack open long-held sexist and racist policies. Women filled factories, and Black soldiers, still kept in segregated units, drove most of the trucks of the renowned Red Ball Express that brought supplies to soldiers after D-Day. The diversity of participation, involvement, and ideas helped keep the American war economy adapting. These improvements weren't perfect, but they were much better relative to their Axis states, which showed in the continued Allied success in the battlefield and factories.
 
 With a mass-producing homefront, assigning leadership based on merit, and willingness to  open up its social structures, America started doing combined arms warfare far better than Germany ever did. Soon, liberation came to North Africa, Sicily and Italy, then France, Belgium, Holland, and finally Germany.
 
-This is not to say victory was assured. As the author of _Why the Allies Won_ notes, in the middle years, the "conflict was poised on a knife's edge". The point being made here was that Nazi Germany, so obsessed with genetic explanations for its successes, couldn't respond outside to challenges but o extend its own extreme beliefs.
+This is not to say victory was assured. As the Richard Overy says in _Why the Allies Won_ notes, in the middle years, the "conflict was poised on a knife's edge". The point being made here is that Nazi Germany, so obsessed with genetic explanations for its successes, couldn't respond outside to challenges but o extend its own extreme beliefs.
 
 These beliefs were increasingly self-defeating. They instilled fear in all their neighbors, even those supporting them like Romania and Hungary. While the average German soldier was famously skilled, and radicals like the Waffen-SS fought very hard, many soldiers were checking out. Hundreds of thousands of dissenting German soldiers were imprisoned and an estimated 15,000 executed for desertion (for reference America executed one deserter). Nazis adopted women as workers, but never embraced mobilizing their full potential despite their encircled geography once again making natural resources and manpower very limited.
 
@@ -1489,13 +1491,13 @@ For an example, we could go further into America's Higgins landing craft or Libe
 
 Yet while lagging far behind its enemies in the production of planes, tanks, and ships, the regime kept hunting supposed undesirables for its multiple ongoing genocides. It also lost the people it might have won over. East Europeans who had every reason to hate the Soviet Union for its labor camps and famines were treated even worse by the Nazis, and soon fought against their hopeful liberators.
 
-Instead of adapting, the Nazis increased their brutality and waited for a self-declared German genius to deliver "wunderweapons" that would save them—never realizing their own outcasts were building the first computers, radar, and atomic bombs in Allied countries.
+Instead of adapting, the Nazis increased their brutality and waited for a self-declared German genius to deliver "wunderweapons" that would save them—never realizing their enemies and outcasts were already building the first computers, radar, and atomic bombs.
 
-As their conquests were liberated one by one, nothing changed, even at the end. Contrary to their doctrine of German nobility, the leadership did not die fighting alongside their soldiers. Most hid, fled, or killed themselves. As the Thousand-Year Reich was crumbling they wrote that the German nation had failed the racial test of history. Beating bunkers had made their reputation. Now they died in their own, to avoid any evidence that it was Nazi beliefs that had failed the nation.
+As their conquests were liberated one by one, nothing changed, even at the end. Contrary to their doctrine of German nobility, the leadership did not die fighting alongside their soldiers. Most hid, fled, or killed themselves. As the Thousand-Year Reich was crumbling they wrote that the German nation had failed the racial test of history. Beating bunkers in Belgium and France had made their reputation. Now they died in their own, so that they could avoid realixing Nazi beliefs had failed the nation.
 
 After six years of war, the Allies and the Soviets met over the ruins of Germany and divided Europe between them. One extreme was gone. The other had just been handed half a continent. Extremism of the genotype had failed, and now we get to see how extremism of the phenotype is no better.
 
-In 1953 the Soviet Union began to moderate its extreme policies with de-Stalinization. The country's generals, leaders, and people no longer feared mass executions or famines. But the country could never moderate its core belief: that properly trained persons are selfless, and therefore personal ambition is always bad.
+After Stalin’s death in 1953 the Soviet Union began to moderate its extreme policies. Soon, the country's generals, leaders, and people no longer feared mass executions or famines. But the country could never moderate its core belief: that properly trained persons are selfless, and therefore personal ambition is always bad.
 
 There were technological triumphs for the Soviets to celebrate. To America's great surprise, they launched Sputnik, the world's first satellite (1957), then achieved more breakthroughs with the first experimental fusion reactors (1958) and sending probes to Venus (1966-1983). But Soviet progress stalled for the same reason a Soviet biologist could not study genetic theory. The state had to police each person's thoughts and actions, and therefore controlled the laboratories, the military, and everything else.
 
@@ -1503,15 +1505,18 @@ When state doctrine is infused everywhere, individuals with different ideas are 
 
 The Soviet leaders' job was to protect society from these exploitive individuals, especially by removing anyone's access to private property. Because their doctrine said when the most important tools and land are controlled by educated persons, the result would be a classless communist utopia.
 
-With so much responsibility vested in leadership, their actions were shielded from reproach. And, contrary to their doctrine, but faithful to the human nature they wanted to correct, leadership acted selfishly. They withheld their society's many military and scientific developments from reaching the tools regular people used. Despite fusion reactors and going to the Moon and Venus, TVs, calculators, toilet paper didn't change much through Soviet decades.
+With so much responsibility vested in leadership, their actions were shielded from reproach. And, contrary to their doctrine, but faithful to the human nature they wanted to correct, leadership acted selfishly. They withheld their society's many military and scientific developments from reaching the tools regular people used. Despite fusion reactors and sending probes to the Moon and Venus, TVs, calculators, toilet paper didn't change much through Soviet decades.
 
-Without independent research, free enterprise, or private property there was nothing anyone could do about it. The result was a society with little "creative destruction." Instead, government ministries tried to plan the entire economy years in advance. So, ball-bearings, pen clips, rubber tires, everything was given production quotas. The result was factories got too many of one component and too few of another, resulting in store shelves chronically empty of useful products.
+Without independent research, free enterprise, or private property there was nothing anyone could do about it. The result was a society with what Schumpeter calls "creative destruction." It was supposed to be a 
+
+
+Instead, government ministries tried to plan the entire economy years in advance. So, ball-bearings, pen clips, rubber tires, everything was given production quotas. The result was factories got too many of one component and too few of another, resulting in store shelves chronically empty of useful products.
 
 With so little being produced, everyone knew the best jobs were rising in the government hierarchy. The classless society was therefore self-policing. Opposing ideas were filtered out with each new promotion and training session, especially because in a society without free commerce, control over state property was the only currency. The system could correct itself—genetics was allowed again after 1964—but instead of investigating nature, trying new things, and seeing what worked everyone learned to wait for instructions.
 
 In contrast, when America put rockets in space, average citizens were following along in real-time on radios and TVs sharing the same technology. As Soviet innovation stalled in the 1970s, the Soviet Union grew ever more dependent on oil exports to fund a bloated state bureaucracy and military. It needed to buy the advanced industrial equipment, and even food, it could not produce itself. Regular workers joked "we pretend to work, they pretend to pay us". When video tapes of bountiful western supermarkets arrived on Soviet home televisions, it pierced through government propaganda of supposed communist plenty. Then oil prices fell in the 1980s, and the regime could not afford to import what it needed. Soon, the entire Soviet system imploded as its various peoples either voted to abandon it or watched as even once-committed believers let the communist project die.
 
-Both extremist regimes hit the same wall because they misplayed the same game. Both wanted to mix scientific advancement and mass production to create amazing new tools. Both thought screening boardmates would make that happen, and ended up erasing the diversity that fuels the involvement and new ideas needed to keep creating things worth mass-producing.
+Both extremist regimes hit the same wall because they played the same game. Both wanted to mix scientific advancement and mass production to create amazing new tools. Both thought screening boardmates would make that happen, and ended up erasing the ambition that fuels involvement and new ideas needed to keep creating things worth mass-producing.
 
 Picture each as a direction. Facing a problem on the road, a crop failure or an engineering blunder, a regime committed to the left could only steer further left, convinced that favoring people with the approved education would fix it. A regime of the right could only steer further right, convinced the answer was always in the genes. Neither could turn back toward the middle, where any solution that works can be used.
 
@@ -1523,7 +1528,7 @@ People selecting winners and losers is not itself a problem. Every farmer select
 
 As we learned in the Game of Life, nature keeps score on something else entirely: adaptations that fill an ecological role, feeding and sustaining the others. Both regimes promised that pre-screening boardmates would remove conflict and raise carrying capacity for everyone. It did the opposite. The people they screened out were the ones they needed. No genotype or phenotype extreme can operate an entire ecosystem alone.
 
-Nature would have reached the same verdict eventually. Wars terrible, but so are new diseases, crop blights, and environmental catastrophes. Players don't get to decide what the gameboard and sandclock will bring tomorrow. Solar flares or supernovas, wars or ice ages have tested life in the pas and will continue into the future.
+Nature would have reached the same verdict eventually. Wars are terrible, but so are new diseases, crop blights, and environmental catastrophes. Players don't get to decide what the gameboard and sandclock will bring tomorrow. Solar flares or supernovas, wars or ice ages have tested life in the past and will continue into the future.
 
 Self-aware selection sees changes coming and responds on purpose. It's far better to select on the board, not on the story.
 
@@ -1557,17 +1562,17 @@ I happily mentioned this to my transportation professor. After all, broadband in
 
 What's better for traffic management than fewer vehicles on the road? Especially in snowstorms or energy shocks. But impossible, apparently, because remote doesn't work. A funny opinion because my job was soon outsourced to another continent and that raised no objections from anyone.
 
-Partly because of that class, I switched my specialty to history and political theory. A player cannot defer problems in civilization simulation games. There's no blame to reassign or cans to kick. The player must make choices based on the resources at hand, like figuring out what to do when snow blankets roads or energy costs spike.
+Partly because of that exchange with my professor, I switched my specialty to history and political theory. I didn't want to learn from the people manage traffic when they ignored a solution that eliminated it. A player cannot defer problems in civilization simulation games. There's no blame to reassign or cans to kick. The player must make choices based on the resources at hand, like figuring out what to do when snow blankets roads or energy costs spike.
 
 We either make those hard choices or let them overtake us. A person committed to a toolset sees fewer cars as a threat. But a player who sees the ecosystem sees a solution that frees energy to spend elsewhere. 
 
-And, who has an interest in preventing entropy more than insurance?
+And who has an interest in preventing entropy more than insurance?
 
 When I started my insurance job, I went back to my alma mater and found that in one of the biggest libraries in the world, insurance took up a single section of a single stack. But there was a gem: _Insuring the Industrial Revolution_ by Robin Pearson. It's a very well researched book on how insurance helped Britain industrialize as fast as it did.
 
 The Great Fire of London (1666) gave birth to fire insurance. Early insurers even ran their own fire brigades, which only put out fires at buildings bearing their company's mark. As cities kept burning (Edinburgh, Newcastle, Chicago, Boston, Toronto, San Francisco), insurers paid to rebuild them and pushed for firefighters, fire escapes, extinguishers, and drills.
 
-Surely the industry that paid for car crashes would want fewer car crashes. Yet the bell was still dinging. And we kept driving year round, regardless of the traffic, weather, cost of fuel, countless crashes, and injuries.
+Surely the industry that paid for car crashes would want fewer car crashes. Yet the bell was still dinging. And we kept driving year round, regardless of the traffic, weather, cost of fuel, countless crashes, and injuries because this is the inputs for the technology already in use. Changing the technology would test everyone from top to bottom equally.
 
 Where's the return on the energy we spent putting screens, sound systems, and broadband into every home? We built the theater and kept driving to the office anyway. It's like plumbing every house and still requiring everyone to walk to the public baths.
 
@@ -1575,19 +1580,19 @@ A player of the game would see the ecosystem and make other choices.
 
 ## Chapter 14—Moderation Is Natural
 
-The democracies that defeated Nazi Germany and later outlasted the Soviet Union, collectively known as the West, were different. Not by intent, but by structure. They had founding stories to guide their politics, but these never declared themselves to be perfect so were more moderate and open to change.
+The democracies that defeated Nazi Germany and later outlasted the Soviet Union, collectively known as the West, were different. Not by intent, but by structure. They had founding stories to guide their politics, but these never declared themselves to be perfect and so were more moderate and open to change compared to their competition.
 
 The power to create and modify society and technology was placed in many hands. Legislatures, courts, states, churches, unions, universities, private companies, and other institutions each held a piece, and none held enough to disregard a whole category of persons or ideas. No single story could screen out a whole kind of player, so the board kept both halves of evolution in play: mass production to make more of what works, and diversity to keep finding what might work next.
 
-Benjamin Franklin showcased this moderation very well. One of the Founding Fathers of America, he was a printer by trade, and invented the lightning rod, bifocals, and a more efficient stove. But he refused to patent them, reasoning that since we all benefit from others' inventions, we should gladly share our own. He also helped found a lending library, a volunteer fire company, and America's first successful fire insurer. He achieved all this because in the country he helped found, he never needed to appease one strict ideology or one authority's blessing.
+Benjamin Franklin showcased this moderation very well. One of the Founding Fathers of America, he was a printer by trade, and invented the lightning rod, bifocals, and a more efficient stove. But he refused to patent them, reasoning that since we all benefit from others' inventions, we should gladly share our own. He also helped found a lending library, a volunteer fire company, and America's first successful fire insurer. He achieved all this because in the country he helped found, his political fights were usually solvable with compromise rather than life-threatening intriques.
 
-Sadly, exclusion and oppression were real in the West, and often brutal. Government overreach existed. Businesses could be very selfish. But nothing was ever total, because there was another jurisdiction, another employer, another lab. Western boardmates were more free to play the game, and so often had to make better deals with each other: a worker making a better product, a business giving a pay raise, or a bureaucrat writing a useful regulation. Boardmates who didn't reciprocate soon found the other had moved on to a different product, employer, or jurisdiction
+Sadly, exclusion and oppression were real in the West, and often brutal. Government overreach existed. Businesses could be very selfish. But nothing was ever total, because there was another jurisdiction, another employer, another lab. Western boardmates were more free to play the game, and so often had to make better deals with each other: a worker making a better product, a business giving a pay raise, or a bureaucrat writing a useful regulation. Boardmates who didn't reciprocate soon found the other had moved on to a different product, employer, or jurisdiction.
 
 Complacency certainly happened, the interwar Western militaries being one large example. But when reality hit, like with Blitzkrieg and later Sputnik, the West's distributed structure responded faster and better than its extremist adversaries could. 
 
 In short, moderation let life “find a way.” More of the technological ecosystem's open jobs got filled, from producers to predators, consumers to scavengers. More energy got harvested, and the board could support more tools, and more kinds of them, than anywhere else.
 
-The system was by no means perfect. The many civil rights marches, environmental protests, and contested elections, showcase that well enough. But friction is a feature not a bug. The West often looked messier, but that was because problems were actually being addressed instead of assuming ideological belief made them go away. In 1947 former British Prime Minister Churchill even joked, "democracy is the worst form of Government except for all those other forms that have been tried from time to time". That is a joke impossible to tell in many extremist societies, never mind hear a celebrated wartime leader say it.
+The system was by no means perfect. The many civil rights marches, environmental protests, and contested elections, showcase that well enough. But friction is a feature not a bug. The West often looked messier, but that was because problems were actually being addressed instead of assuming ideological belief made them go away. In 1947 former British Prime Minister Churchill even joked, "it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time". That is a joke impossible to tell in many extremist societies, much less hear a celebrated wartime leader say it.
 
 So while never perfect, multi-party democracy with free-market economics was less blinding and therefore more responsive to gameboard changes. It's why as time went on, most other extremist regimes—from Spain to Vietnam—adopted some or all of its more liberal market-based practices. Observers had learned, sometimes an arrogant inventor really does have exceptional gifts. Sometimes a self-righteous educated bureaucrat should regulate society. Neither extreme was wrong about everything, which is exactly why neither genotype nor phenotype should be discarded.
 
@@ -1595,7 +1600,7 @@ As biology shows many times over, an organism is a mixture of good genes and the
 
 Each extremist regime kept one side and thereby lost the benefits of one half of evolution. Having both halves didn't guarantee the West the better answer. But its distributed structure kept them moderating each other, which made the better answer easier to find. 
 
-So the real question is how does moderation produce new tools consistently. We know the answer quite well actually. The man who ran America's wartime science effort spent the rest of his life explaining and building it.
+So the real question is how moderation produces new tools consistently. We know the answer quite well actually. The man who ran America's wartime science effort spent the rest of his life explaining and building it.
 
 You're likely holding the result in your hand.
 
@@ -1605,13 +1610,13 @@ Visionaries like Bush are hard to come by. Yet they exist in every society. The 
 
 We've seen that a healthy ecosystem needs every kind of boardmate: the ambitious and the generous, the mass producer and the oddball. The transistor shows it better than any theory.
 
-This tiny device switches on and off according to what we program it to do. It's what a cell is to biology, and the more assembled together the more capable the collection becomes. Each one turns a speck of sand into technomass that computes and perhaps even thinks.
+This tiny device switches on and off according to the programs we want to run. It's what a cell is to biology, and the more assembled together the more capable the collection becomes. If cells are clay bits for biology, transitors are clay bits for technology. Each one turns a speck of sand into technomass that computes and perhaps even thinks.
 
 The transistor was born from a partnership no single ideology contains: government demand, private enterprise, open research, and open market fused into one pipeline. Vannevar Bush embodied this pipeline in so many ways. In addition to being America's wartime science chief, he was the dean of MIT School of Engineering, and a Raytheon founder. He even described how to fund and integrate this society wide system of invention with his report to the president, _Science: the Endless Frontier_ (1945).
 
-The transistor showcases this pipeline's success. It was discovered at Bell Labs (1947), an open research lab, that had physicists, engineers, electricians, and even pole-climbers researching side by side. After discovery, they licensed the patent for an affordable price (to prevent antitrust complaints on its telephone monopoly) and a rush of companies worked to bring it to market but struggled to mass-produce these tiny switches. 
+The transistor showcases this pipeline's success. It was discovered at Bell Labs (1947), an open research lab, that had physicists, engineers, electricians, and even pole-climbers researching side by side. After discovery, Bell licensed the patent for an affordable price (to prevent antitrust complaints on its telephone monopoly). A rush of companies appeared, but all struggled to mass-produce these tiny switches. 
 
-The US military and NASA contracts didn't care and funded companies like Fairchild Semiconductor to keep going. With the needed resources and incentive at hand, these private companies hired the brightest from the public and private American university system. Scientists soon turned a single transistor into the first integrated circuits (1959) packing several transistors into a single device.
+The US military and NASA contracts didn't care what it cost. They funded companies like Fairchild Semiconductor to keep going. With the needed resources and incentive at hand, these private companies hired the brightest from the public and private American university system. Scientists soon turned a single transistor into the first integrated circuits (1959) packing several transistors into a single device.
 
 Then the competitive market raced in. Soon transistor radio (late 1950s) and desktop calculator (mid 1960s) sales exploded. With the military, NASA, and now marketplace using transistors, transistor scientists met the capital markets and founded their own companies.
 
@@ -1621,21 +1626,21 @@ It did.
 
 Programmable microprocessors now power computers, laptops, smartphones and define the mass-production of diversity. Like Bush envisioned, computers run word processors, dictionaries, web browsers. With transistor counts currently in the tens of billions, computers can do nearly anything we ask. Be it for-profit conglomerates, small companies, or open-source software developed remotely by people around the world.
 
-The point is, in the moderate US, within a few decades the transistor went from undiscovered, to the size of a pencil eraser, to powering home computers and massive super-computers. The West's invention of the transistor was not some ideal world. There was much antagonism. One example, the scientists who started Fairchild Semiconductor were called the "Traitorous Eight" for leaving their employer (a much bigger deal back then), and just barely got funding to start their history changing company. But they, and many others, did. Proving it was not a lucky shot.
+The point is, in the moderate US, within a few decades the transistor went from undiscovered, to the size of a pencil eraser, to powering home computers and massive super-computers. The West's invention of the transistor did not happen in an ideal world. There was much antagonism. One example, the scientists who started Fairchild Semiconductor were called the "Traitorous Eight" for leaving their employer en masse (a nearly shameful act back then), and just barely got funding to start their history changing company. But they, and many others, did. Proving it was not a lucky shot.
 
-The internet, 3D printing, personal computers, GPS, lasers, all had a very similar development cycle. Soviet thinkers like Kitov and Glushkov wrote similar theories about the future of technology. A world where networked computers could process vast amounts of economic information instantly instead of using paper forms and bureaucrats. Both could only write about the future while others built it.
+The internet, 3D printing, personal computers, GPS, lasers, all had a very similar development cycle. Soviet thinkers like Anatoly Kitov and Viktor Glushkov proposed networked computing for the Soviet economy. A world where networked computers could process vast amounts of economic information instantly instead of using paper forms and bureaucrats. But it never happened. Both could only write about the future while Westerners built it.
 
-Now, let's take a look at the boardmates needed to birth a new tool. The pipeline includes the obsessive researcher who'd be useless at selling. The government institution-builder who thinks in decades. The risk-taker scientist who quits stable employment. The idealist engineer who gives away expensive software. The dropout who sells ten million computers. The early adopter hacker who keeps tinkering with these new tools.
+Now, let's take a look at the boardmates needed to birth a new tool. The pipeline includes the obsessive researcher who'd be useless at selling (John Bardeen). The government institution-builder who thinks in decades (Vannever Bush). The risk-taker scientist who quits stable employment (Gordon Moore). The idealist engineer who gives away expensive software (Richard Stallman). The dropout who sells ten million computers (Steve Jobs). The early adopter hacker who keeps tinkering with these new tools.
 
-None would excel at each other's roles. Some do what they do because of genetic traits like intelligence, arrogance, or stubbornness. Others are converts to belief systems of altruism or greed. No ideology covers each person. Each is a different mixture of genotype and phenotype identities. They each have temperaments every society produces and every ecosystem needs to originate new mutations, test which versions are best, produce them, and then predate, scrap, hack, and recycle them to find the energy to keep the process going.
+None would excel at each other's roles. Some do what they do because of genetic traits like intelligence, arrogance, or stubbornness. Others are converts to belief systems of altruism or greed. No ideology covers every person. Each is a different mixture of genotype and phenotype identities. They each have temperaments every society produces and every ecosystem needs to originate new mutations, test which versions are best, produce them, and then predate, scrap, hack, and recycle them to find the energy to keep the process going.
 
-The fight between all these perspectives never ends, and shouldn't. How much public investment is needed, who captures the profit, who carries the risk—that argument is real. But it's a quarrel at the edges like plant life fighting for sunshine or predators for the best hunting grounds. No player should ever envision a place without such competition. From times immemorial, boardmates depend on what other creatures contribute to their shared ecosystem's efficient and continual harvesting of energy to transform useless matter into something useful.
+The fight between all these perspectives never ends, and shouldn't. How much public investment is needed, who captures the profit, who carries the risk—that argument is real. But it's a quarrel at the edges like plant life fighting for sunshine or predators for the best hunting grounds. No player should ever envision a place without such competition. From time immemorial, boardmates depend on what other creatures contribute to their shared ecosystem's efficient and continual harvesting of energy to transform useless matter into something useful.
 
 Like in nature, each new creation found a new efficiency, releasing more energy into the ecosystem. The West's moderation meant its people could not only start this process, but keep it going to keep birthing and mass-producing more diverse tools. 
 
 Remember a moderate system knows you can't have a redwood in the desert. Powerful tigers need powerful deer too. Everyone benefits in the ecosystem because a rising tide of adaptations raises all their chances of survival. Thus, strangers or friends, enemies or allies, all their fates are intertwined regardless of the stories anyone believes.
 
-The extremes failed because they selected on the face in the shell, telling half they were special and the rest they weren't needed.
+The extremes failed because they selected on their beliefs, telling half they were special and the rest they weren't needed.
 
 But something is still missing. If the tool creation pipeline needs all perspectives, somebody still has to decide which tools get built and which get abandoned.
 
@@ -1647,17 +1652,17 @@ Will AI take your job? You can soon answer that yourself. It's time to meet the 
 
 The auto claims call-in queue was a grind. Its frickin bell kept us wrapped in endless DING DING DING of stress, frustration, disillusionment. 
 
-Early on I asked my manager if I could go to the washroom. He replied, "Obviously, don't ask me that."
+Early on I asked my manager if I could go to the washroom. He replied, "Obviously, you can go to the washroom."
 
-I assumed there was some staffing coordination, but no. Everyone just kept rushing around. So, to reply to emails, voicemails, and make outbound calls, we had to find gaps among the DINGS. 
+I assumed there was some staffing coordination, but there wasn't. Everyone just kept rushing around. So, to reply to emails, voicemails, and make outbound calls, we had to find gaps among the DINGS. 
 
 It was futile. Shit was rolling downhill from head-office, and my manager made sure I knew it. My direct manager was an honest guy, but so stressed he sometimes slept in his car. Within months he went full gray.
 
-I needed to adapt. Why not borrow from my days at the grimy-carpeted software company where I'd worked during university?
+I needed to adapt. Why not borrow from my days at the grimy-carpeted software company where I'd worked during university, and eventually got a job sending and designing emails and online forms.
 
 So here's what I did.
 
-After each call, adjusters wrote custom emails explaining an insured's next steps. I used Outlook's signature feature to build a few standard email next steps templates. It saved two to five minutes per call. Others copied it.
+After each call, adjusters wrote custom emails explaining an insured's next steps. I used Outlook's signature feature to build a few standard email next steps templates. It saved two to five minutes per call. Others copied it and thereby removed the slow tools from their daily use.
 
 I also made a tiny app to track phone calls. Instead of being judged only on call volume, I could now show who called, what they wanted, and how I helped. Then I made another app to help write our phone call notes. Not faster, but standardized and easier to update.
 
@@ -1671,11 +1676,11 @@ I could end there and make it sound damning. Insurance management didn't want to
 
 But the problem didn't start with them.
 
-Inventing and adopting new tools is part of our personal lives, but not our education or work culture. There's no curriculum "how to learn new tools". Remember the Milgram experiment, where the teacher shocked the learner instead of handing him a pencil. Authority figures too often want to be the person holding the pencil giving the test as if the other person were a competitor, not a boardmate staffing our shared ecosystem.
+Inventing and adopting new tools is part of our personal lives, but not our education or work culture. There's no curriculum "how to learn new tools". Remember the Milgram experiment, where the teacher shocked the learner instead of asking if anything was wrong, if he needed a break, if the shocks were helping him, or venturing to find a tool like a pencil to help him remember better.
 
-Despite so much technomass in our world, there are some laws protecting new creations like patents, but getting and defending them is very expensive. More important, there are none on adoption based on environmental needs, no call for an amendment about protecting predation of slow technologies.
+Authority figures too often want to be the like the authoritative scientist person giving the test as if the other person were a competitor, not a boardmate staffing our shared ecosystem.
 
-Here's the same blindness elsewhere.
+Here's another example of people not adopting helpful tools.
 
 I got a report from another insurance company that said my insured reversed into theirs and is 100% at-fault.
 
@@ -1691,27 +1696,29 @@ Images don't show movement, so technically I couldn't use this picture to confir
 
 The point is, this photograph was one in a million. Most of the time there's no picture or video, the dispute over what happened drags on for days, and that bell keeps ringing.
 
-But, dash cams are cheap, available, and uncommon. They can lower rates, cut fraud, and settle disputed crashes, all in one little camera. Instead we have pictures of food, animals, rants blaming someone else for endless car traffic, rising insurance rates, and waiting on hold for your insurance adjuster.
+But dash cams are cheap, available, and yet uncommon. They can lower rates, cut fraud, and settle disputed crashes, all in one little camera. Instead we have pictures of food, animals, rants blaming someone else for endless car traffic, rising insurance rates, and waiting on hold for your insurance adjuster.
 
-Keep note, it's not just _them_ who reject new tools.
+Keep note, it's not just _"them"_, greedy insurance companies or incompetent government officials or whoever is in the public gaze, who rejects adopting new tools at the expense of society.
+
+That is how a devout ideologue sees it. In reality, we all reject adopting new tools because we don't think our choices matter.
 
 ## Chapter 15—Meeting the Coach
 
 To us, in everyday life, everything falls downward. It seems the heavier a thing is, the faster it falls, the harder it hits, and the more sweat it takes to move it. In order to walk, run, or jump, the skeletons, muscles, and instincts of squirrels to tigers must adapt to this rule of the game.
 
-When we became self-aware, peoples across the globe had to explain. We used stories, often using the stellar objects as characters in the grand explanation of the cosmos. With these numberless mythologies came the means to know the seasons and how to navigate.
+When we became self-aware, peoples across the globe had to explain it. We used stories, often using the stellar objects as characters in the grand explanation of the cosmos. With these numberless mythologies came the means to know the seasons and how to navigate.
 
-Soon, some people tried to move beyond our perceptions and find the rules that governed our world. Aristotle was among them, and he used philosophy to explain many things, among them why some things fall, others float, and what the stars are. He said things have a natural place, and thus heavier things like soil and rock fall down, while lighter things like fire and air rise up. Earth was thus the center of the cosmos, with lighter things moving around it like leaves caught in the wind.
+Soon, some people tried to move beyond our perceptions and find the rules that governed our world. Aristotle was among them, and he used philosophy to explain many things, among them why some things fall, others float, and what the stars are. He said things have a natural place, and thus heavier things like soil and rock fall down, while lighter things like fire and air rise up. Earth was thus the center of the cosmos, with lighter things moving around it.
 
-Aristotle's geocentric astronomy followed. It out-competed the heliocentric system of Aristarchus, which couldn't explain why, if the Earth moves, the stars never appear to shift. The geocentric Ptolemaic astronomy and star charts guided navigators on land and sea and told farmers the seasons quite well, as long as they were updated every few decades.
+Aristotle’s geocentric view won out. It out-competed the heliocentric system of Aristarchus, which couldn't explain why, if the Earth moves, the stars never appear to shift. The geocentric Ptolemaic astronomy and star charts guided navigators on land and sea and told farmers the seasons quite well, as long as they were updated every few decades.
 
-Eventually a history of errors piled up and fueled questions. Copernicus found Aristarchus's forgotten heliocentric ideas and updated them with modern mathematics. Galileo used a telescope to see Jupiter's moons and proved not everything moved around the Earth. Tycho Brahe took fantastically accurate stellar records and tried to merge the two astronomies. His assistant, with bad eyesight but excellent math Johannes Kepler did years of calculations and eventually saw something else in the data.
+Eventually a history of errors piled up and fueled questions. Copernicus found Aristarchus's forgotten heliocentric ideas and updated them with modern mathematics. Galileo used a telescope to see Jupiter's moons and proved not everything moved around the Earth. Tycho Brahe took fantastically accurate stellar records and tried to merge the two astronomies. His assistant, with bad eyesight but excellent math, Johannes Kepler did years of calculations and eventually saw something else in the data.
 
 The planets do not move in perfect circles as everyone had always assumed. Each moves in a slight oval. Despite not knowing why, Kepler wrote the laws of planetary motion. Newton took these laws, invented a new math to understand them, and wrote the universal laws of motion. It was here that someone understood that things, from the baby crawling on the ground, to the stars above, move according to the same laws. Newton's math was spectacularly accurate, although the underlying cause of gravity was a mystery.
 
 Enter Einstein. Gravity is not the force we experience in everyday life like hammer and anvil, but a curvature of spacetime. Mass and energy bend it, while objects follow its curves. With Einstein our astronomy is now accurate enough to predict eclipses centuries into the future and keep GPS accurate to within a few feet.
 
-As we meet the coach, this brief history of astronomy shows us something vital. 
+As we meet the coach, this brief history of astronomy shows us something vital. Each step forward came from dropping the story and finding a rule that did not depend on who told it.
 
 All life lives on the gameboard and therefore is bound by rulebook to find and harvest pockets of useful energy to keep itself organized. Whether by mutation of new genes or the learning of new lessons, the ones who succeed make more copies of themselves, and thus form the species who represent life.
 
@@ -1721,9 +1728,17 @@ There was no mass understanding of astronomy and gravity. Like the mutation of a
 
 And that is because of who the coach is. 
 
-Evolution selects individuals. Alone. We can of course help a nephew or defend a stranger, but the main focus is still an individual. Evolution doesn't wait for a group or a movement to form. As renowned biologist Ernst Mayr says, "individual lifeforms are the unit of selection."
+Evolution selects individuals. Alone. We can of course help a nephew or defend a stranger, but the main focus is still an individual. Evolution doesn't wait for a group or a movement to form. As renowned biologist Ernst Mayr said, "individual lifeforms are the unit of selection."
 
-Evolution counts one lifeform at a time. That means you and whatever you're holding and whatever you believe. Gravity doesn't act on our cells. A navigator must move her body north or south. The player of the game is an individual. Seeing that clearly is what this book is about. An individual needs energy to stay together, which means it exists in the lifecycle of useful to useless energy.
+Evolution counts one lifeform at a time. That means you and whatever you're holding and whatever you believe. Gravity, thirst, hunger, disease acts on all a individuals cells. A navigator must move her body north or south, but can't do both. The individual faces a unique gameboard, sandclock.
+
+The player of the game is an individual. Seeing that clearly is what this book is about. An individual needs energy to stay together, which means it exists in the lifecycle of useful to useless energy.
+
+ - atoms have so much protons.
+ - water has so much hydrogen.
+ - plankton has so many elements.
+
+ the more we rise in complexity, the more variables in the number of bits it takes to make up a unit of anything. but each organism requires a certain number of carbon, water, iron, and calories to keep them operating....
 
 Whichever individual finds a niche as a scavenger, consumer, predator or other ecosystem role and has kids, is therefore selected to keep doing it.
 
@@ -1733,15 +1748,15 @@ We do need to realize this.
 
 Because we have choice, we can practice artificial selection. We can be raccoons taking from an ecosystem and giving little back. The squirrel plants forests by accident. We're the first player who can plant on purpose.
 
-In the early 1980s Yuri Andropov ran the all-powerful Soviet spy agency KGB and then he ruled the entire country as virtual dictator. When speaking to his leadership comrades he admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its economy and people. The regime with the world's best intelligence apparatus did not understand why its reports said prosperity and progress, while the country's food market shelves were empty, coal miners didn't have soap to clean their faces, and nuclear power stations were blowing up.
+In the early 1980s Yuri Andropov ran the all-powerful Soviet spy agency KGB and then he ruled the entire country as virtual dictator. When speaking to his leadership comrades he admitted, "we don't know the society in which we live." Decades of falsified statistics and rigid doctrine had blinded the state to its economy and people. As they tried to reform and allow more independent actions from various ministries and introduced many market-like reforms, the regime with the world's best intelligence apparatus still did not understand why its reports said prosperity and progress, while the country's food market shelves were empty, coal miners didn't have soap to clean their faces, and soon why a nuclear power station blew up.
 
 Such is the power of human belief systems.
 
 As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a human one, that happens whenever the distance between selecting tools and its consequences gets too far apart. Allied generals had bunkers and battle plans ensuring victory, the same way Soviet leaders were planning an entire economy, the same way kings had grand palaces and spiritual reasons why they were born to rule.
 
-While we've studied physics, chemistry, astronomy, and biological evolution as sciences, we have not studied technological evolution.
+While we've studied physics, chemistry, astronomy, and biological evolution as sciences, we have not studied technological evolution as one unified science.
 
-Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies. Heck, String Theory went from possibly explaining the biggest secrets in physics in the 1990s to now increasingly sidelined for its inability to produce a single testable prediction. Everyone knew it might end this way, and it was always okay to say so. Now cutting-edge funding and students drift elsewhere while its defenders are allowed to keep researching because, after all, it took decades for Copernicus's ideas to get the evidence they needed to become obvious.
+Techvolution's new identity won't stop misconceptions, hubris, or fanciful realities. Human groups need hierarchies and beliefs and they will always drift around with human error. But these exist in engineering, mathematics, medicine too and not nearly bad enough to take down entire societies.
 
 Physics and the other sciences have this freedom because they measure external forces and value prediction and results above social position and intent. We can measure technological growth, speciation, migration, predators, and grazers because each has a role in the energy flow. The same as in any biological ecosystem.
 
@@ -1749,25 +1764,27 @@ We already do much of the work. Industrial ecology tracks material and energy fl
 
 What's missing is joining these insights into a unified account of where our food, warmth, and transport actually come from, and the rules of nature that govern their health, growth, divergence, and death. It's like trying to understand the ecology of a forest without knowing about evolution that slowly configured the oak, lotus, bee, raccoon, and squirrel who make it up. 
 
-And, as we near meeting the coach, it's helpful to note developing our understanding ecology, zoology, and biology was quite similar to the history of gravity and astronomy.
+And, it's helpful to note developing our understanding ecology, zoology, and biology was quite similar to the history of gravity and astronomy.
 
-It started with mythological stories from peoples around the world. Aristotle looked for natural truths, and grouped animals by visible traits such as blood or no blood, and live young vs. eggs. As explorers brought back many new species from around the world, naturalists began sorting organisms into genera and species like a tree having fleshy fruit or dry seed pods.
+It started with mythological stories from peoples around the world. Aristotle looked for natural truths, and grouped animals by visible traits such as blood or no blood, and live young vs. eggs. As explorers brought back many new species from around the world, naturalists began sorting organisms by visible traits, the way you might sort fruit into fleshy or dry.
 
 Carl Linnaeus (1707–1778) formalized this approach as a nested hierarchy (kingdom, class, order, genus, species). Each species received a two-part name, like Tyrannosaurus rex or _Homo sapiens_. This system worked well, but naturalists still defined a species based on what they could see.
 
 Darwin changed the meaning of those groupings. He showed that species can be related without looking alike. For example, the Galápagos finches have very different beaks, good for eating seeds, insects, or nectar. Yet despite this different appearance, they descend from the same finches who landed on the remote islands. Classification by common descent organized the myriad species into a coherent tree that's largely held up to genetic testing. How else would we explain why hippos and whales have similar DNA?
 
-As in physics and astronomy, each of these ideas was adopted because it explained the natural world better than the last. Like with gravity and the planets, the species themselves never changed being who they were. Our labels of them slowly became more of their natural identities. Each new understanding got closer to nature's answer because it was a universal understanding of gravity and evolution that did not depend on the story of the person telling it.
+As in physics and astronomy, each of these ideas was adopted because it explained the natural world better than the last. Like with gravity and the planets, the species we were studying never actualy changed but learned their natural identities better. Our labels of them slowly became more of their natural identities. Each new understanding got closer to nature's answer because it was a universal understanding of gravity and evolution that did not depend on the story of the person telling it.
 
 This same process applies to us, here and now. Nature doesn't hand out name-tags. We know iron by its 26 protons and its melting point, a tiger by its stripes, its niche, and how it finds energy. Nature can't read our name-tags either. Friends see Matthew, Sarah, Apple, Google. Economics sees pilot, bureaucrat, mechanic, welder. Politics sees left, right, rich, donor. Nature sees predator, plant-eater, decomposer, scavenger.
 
 Like the iron atom, we have a number: the energy we need to keep warm, raise our young, and survive another day. Whatever anyone thinks or believes, that number has to be paid. It's the one name-tag we can't take off.
 
-Our new identity is being a self-aware selector inside a technological ecosystem: someone who knows every person carries that number, understands others by it, and works with them to pay it more efficiently, freeing energy for the rest of life. That is the study of techvolution.
+Our new identity is being a self-aware selector inside a technological ecosystem: someone who knows every person carries that number, understands others by it, and works with them to pay it more efficiently, thus freeing energy for the rest of life. That is the study of techvolution. And is the label and self-understanding Maria never had.
 
-Nature still keeps the score; the scoreboard never lies. But the coach, the one choosing which tools get played, is you. It always was, because we replaced nature's coach with ourselves long ago, every time we bought one tool over another, voted for one rule over another, or kept a habit instead of changing it.
+Nature still keeps the score; the scoreboard never lies. But the coach, the one choosing which tools get played, is you. It always was, because we replaced nature's coach with ourselves long ago, every time we bought one tool over another, voted for one rule over another, or kept a habit instead of changing it. 
 
-Choosing to compost your daily banana keeps matter useful. Opting for the stairs trains your cardio to hold off entropy a little longer. Repairing an old appliance saves much material and energy. Calling an old friend rekindles a fading friendship. Having pictures of your damaged car makes a claim go much faster.
+Nature still keeps the score. We can buy more time by choosing to compost your daily banana keeps matter useful. Opting for the stairs trains your cardio to hold off entropy a little longer. Repairing an old appliance saves much material and energy. Calling an old friend rekindles a fading friendship. Having pictures of your damaged car makes a claim go much faster.
+
+Having a video recording of your crash stops the bell for a few minutes. You can heal a pain in our ecosyste because you are playing the playing the Game of Life!
 
 Just as squirrels and raccoons have an ecological identity, you already have a technological one. Like gravity, it was always there. It becomes new when you adopt it. 
 
@@ -1779,15 +1796,25 @@ So will AI take your job?
 
 Ask the coach. That means you, and the people your work serves. Not the boss with the title, but the customer who calls you for help.
 
-Don't wait for a pundit's prediction. You don't need a prediction anymore than you need a promise from a doctor, mechanic, or claims adjuster; you need the number. Take the tasks your job is made of and try them with AI. Where it does a task faster and cheaper, that task will go, the way the drive to the video store went. That isn't the end of you. It's energy freed up. The label on your job may expire, but the role underneath it, getting food, warmth, transport, or stories to people, doesn't. And where AI can't do the task, you've found the part of your job the board still needs from you. The only people truly threatened are the ones defending a label. Our understanding of gravity, the stars, and life itself kept improving because people let old labels go.
+Don't wait for a pundit's prediction. You don't need a prediction anymore than you need a promise from a doctor, mechanic, or claims adjuster; you need the number.
+
+Have a medical problem?
+
+There's the mythology, the understanding, the tradition...
+Then there's the sympton, and the root or fruit naturalpathic...
+Then there's the bloodwork, the CAT scan, the pill, the science...
+
+a person wasn't free in the past because of their beliefs. if was their place in a ecosystem. a person wasn't liberating because of a belief, those are motivations and find ones at that, but results were a number...
+
+Take the tasks your job is made of and try them with AI. Where it does a task faster and cheaper, that task will go, the way the drive to the video store went. That isn't the end of you. It's energy freed up. The label on your job may expire, but the role underneath it, getting food, warmth, transport, or stories to people, doesn't. And where AI can't do the task, you've found the part of your job the board still needs from you. Defending a label has a limited lifespan. Finding the adaptations that fill the ecological roles in the food web never do. Just realize that our understanding of gravity, the stars, and life itself kept improving because people let old labels go.
 
 Remember the Prologue: your paycheck is a species, and nobody had told you which one yours is. Now you can find out yourself. Look past its label to where it sits in the energy flow.
 
 Of course, this leaves big questions. How do I learn to assess, drop, and pick up tools regardless of the stories surrounding them, me, and my boardmates, friend or foe? How will I earn a living if I embrace the change that seems to threaten it? Moreover, how can society learn to continually mass-produce the diverse tools we need for prosperity?
 
-We've answered questions like these before. Religions were once universal truths, and jobs were assigned at birth; we learned to live alongside many faiths and to change careers. Book II, Mixed Ideological Politics, and Book III, Bumblebee Economics, take up these questions with the same reason and science.
+We've answered questions like these before. Each society's religions was once a universal truth, and jobs were assigned at birth; we learned to live alongside many faiths and to change careers. Book II, Mixed Ideological Politics, and Book III, Bumblebee Economics, take up these questions with the same reason and science.
 
-Think back to the box under the tree. A rulebook, a gameboard, a sandclock, some clay, a scoreboard. You know what each piece does now. The rules don't bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. Life keeps reshaping its clay, and the scoreboard keeps counting kids. But one piece was never in the box, because it was the one opening it. The coach was you all along.
+Think back to the box under the tree. A rulebook, a gameboard, a sandclock, some clay, a scoreboard, an empty playbook. You know what each piece does now. The rules don't bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. You can record and pass on your knowledge inside your playbook. Life keeps reshaping its clay, and the scoreboard keeps counting kids. But one piece was never in the box, because it was the one opening it. The coach was you all along.
 
 Now that you know who the coach is, let's watch the Game of Life play out.
 
@@ -2815,6 +2842,9 @@ The blade strikes down into the strong Italian oak tree. Over and over.
 
 The tree is weakening. Niccolo says, "Bookshelves," then smiles as the falling tree crashes to the soil. "To wise up we'll need many new books."
 
+ - close formations, swords, not guns or pikes
+ - virtu, citizen morale
+
 ---
 
 A printer sets small metal letters into rows. Loads a paper sheet. He turns a screw, the press comes down. A page is made. He repeats. Again. Again. Again....
@@ -3106,7 +3136,9 @@ I am their king.
 
 --
 
-The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. Some others join the merchants and craftsmen of the south and build their own army, centered on London. The country is at civil war; Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and separation of political and military leadership.
+The king raises his standard at Nottingham. Most lords ride to him and their tenant farmers follow. Some others join the merchants and craftsmen of the south and build their own army, centered on London. Vast quantities of clothing, gunpowder, pikes, halberds, swords, and muskets pour from the capital's workshops.
+
+The country is at civil war; Royalist versus Parliamentarians. Both sides have the same food, equipment, weapons. One side organises by lordship, bloodline, and obligation. The other through independence, merit, and separation of political and military leadership.
 
 Battles take place at Edgehill, Marston Moor, Naseby, and more.
 
@@ -4291,7 +4323,7 @@ The woodcutters have a long walk. Too long? I could build a stockpile beside the
 
 The clock is ticking.
 
-Wow, I love this game. The framerates are dropping too often. The screen stutters as my villagers pile up. This GPU is too old. Let's see about an upgrade.
+Wow, I love this computer game. But my computer graphic framerates are dropping too often. The screen stutters as my villagers population increases and start expanding my civilization. This GPU is too old. Let's see about an upgrade.
 
 ---
 
@@ -4560,6 +4592,8 @@ We ask immigrants and kids to change their identity. we're just doing it on a ta
 - this stands in our way. letting our biology dictate the actions of our technology. milgram, stanford doesn't matter auth so much, people still did it. who would have thought many of our stories were taken seriously until it was too late. we still think Scar didn't something wrong because think Simba is part of our tribe..
 
 - we are out of our age, not adapted to this enviroment, technomass has grown like a forest, and there is no more mass-produced growth needed, but diversification to find all the untapped niches. not learning that leason from biology, so we are increasing inputs like soldiers in WWI, oil in Soviet, and all that jazz. this is what trees do. they keep dropping nuts even when the ice age comes because they can't their habits. we can by adopting a new identity.
+
+- ANI is meant to supercharge adoption. by making frontline, usher, projectionist, adjuster, etc. pain to light as the basis for decisions on production, consumption, predation, etc. instead of learned knowledge.
 
 --
 
@@ -4951,7 +4985,7 @@ If we saw an ecosystem where water and calories were being hoarded, or withheld,
 
 ### Glossary
 
-Game of Life: A metaphor for the contest every living thing, from bacteria to humans, takes part in. Lifeforms are “players” trying to gather energy and materials to build bodies, survive, and leave copies of themselves before their time runs out. No one player finishes it; the game carries on across generations. Each of its pieces is a fundamental every lifeform plays by, and together they’re what this book series is built on.
+Game of Life: A metaphor for the contest every living thing, from bacteria to humans, takes part in. Lifeforms are “players” trying to gather energy and materials to build bodies, survive, and leave copies of themselves before their time runs out. No one player finishes it; the game carries on across generations. Each of its pieces is a fundamental every lifeform plays by, and together they're what this book series is built on.
 
 Rulebook: The laws of nature. Fixed, and indifferent to every player. They can be studied to varying levels of mastery, but never changed.
 
@@ -4969,7 +5003,7 @@ Boardmates: Players who share the same board and depend on it. They can compete 
 
 Playbook: A notebook waiting to be filled with player's instincts and ideas about how best to play the game. When to release pollen, when to migrate for new grass, when to chase prey are plays from the playbook of a lifeform. A playbook is often mistaken for the rulebook. Unlike the rules, it can change as instincts slowly evolve over generations, plays cane learned and altered within a lifetime, and written ones, like traditions, ideologies, and business plans, change if we choose to revise them.
 
-Urban Raccoon: An example of a lifeform living inside an ecosystem without being a boardmate, sustained by happenstance instead of by a place in a sustainable, reliable food web. Unlike a squirrel planting oaks, it doesn’t build the board that feeds it. It still hunts, raiding bird nests and eggs, but gives little back.
+Urban Raccoon: An example of a lifeform living inside an ecosystem without being a boardmate, sustained by happenstance instead of by a place in a sustainable, reliable food web. Unlike a squirrel planting oaks, it doesn't build the board that feeds it. It still hunts, raiding bird nests and eggs, but gives little back.
 
 Game of Technological Life: The same game, played with tools. The rulebook, gameboard, and sandclock don't change. What changes is the clay and the coach. Tools are the new clay: houses, vehicles, machines, and software that carry our learning forward, since our genes can't. And the coach is us: people select which tools get copied, kept, and dropped. Whole civilizations rise and fall on how well they coach.
 
@@ -4981,11 +5015,11 @@ Technosphere: Every part of Earth reshaped by human tools: cities, roads, farms,
 
 Technomass: The total weight of everything humans have built, from bricks and asphalt to machines. By around 2020, it outweighed all of Earth's biomass.
 
-Artificial Selection: Selection made by people instead of by nature. It’s the same coaching job natural selection does, but with a mind choosing what stays. It comes in three flavors, depending on what guides the choice: mythology, philosophy, or science. How well each works depends on how closely it reads the gameboard. In the Game of Technological Life, artificial selection is how we coach our tools.
+Artificial Selection: Selection made by people instead of by nature. It's the same coaching job natural selection does, but with a mind choosing what stays. It comes in three flavors, depending on what guides the choice: mythology, philosophy, or science. How well each works depends on how closely it reads the gameboard. In the Game of Technological Life, artificial selection is how we coach our tools.
 
-Extremism: Selecting so strongly for one type of player, whether genes, traits, tools, or ideas, that all others get screened out. It trades diversity, one of the game’s fundamentals, for uniformity. Like a street lined with a single species of tree, it leaves the whole board exposed when conditions change.
+Extremism: Selecting so strongly for one type of player, whether genes, traits, tools, or ideas, that all others get screened out. It trades diversity, one of the game's fundamentals, for uniformity. Like a street lined with a single species of tree, it leaves the whole board exposed when conditions change.
 
-Mass Production and Diversity: Nature’s two-part recipe for winning the game. Mass production makes many offspring. Diversity makes sure the copies aren’t all the same. On its own, either one fails. Mass production without diversity is a monoculture: a street of identical elms, vulnerable to one disease. Diversity without mass production is a scattering of one-offs that can’t form an ecosystem to outrun the sandclock. Only when using both can species flood the board and still adapt.
+Mass Production and Diversity: Nature's two-part recipe for winning the game. Mass production makes many offspring. Diversity makes sure the copies aren't all the same. On its own, either one fails. Mass production without diversity is a monoculture: a street of identical elms, vulnerable to one disease. Diversity without mass production is a scattering of one-offs that can't form an ecosystem to outrun the sandclock. Only when using both can species flood the board and still adapt.
 
 Ecosystem: A patch of the gameboard, usually defined by geography, and every player on it, linked by what they eat, share, and compete for. Energy flows through it, from sunlight to plants to the animals that eat them, and matter cycles back through decomposers to be used again. Each player fills a role: producer, consumer, predator, scavenger, decomposer, or tester. A pond, a forest, or a city can each be one. Ecosystems can overlap, but every lifeform needs one to survive.
 
@@ -4993,23 +5027,23 @@ Ecosystem: A patch of the gameboard, usually defined by geography, and every pla
 
 Carrying Capacity: How many players an ecosystem can reliably support, set by the energy and resources available. It grows when new players fill open jobs, or new adaptations unlock energy no one was harvesting.
 
-Matter Cycles: Matter is never used up, only reshaped. Carbon, nitrogen, water, and ircon cycle endlessly in stars, astroids, air, oceans, soil, and stone, with or without life. Living things borrow from these cycles to build their clay, and decomposers return it when they’re done.
+Matter Cycles: Matter is never used up, only reshaped. Carbon, nitrogen, water, and ircon cycle endlessly in stars, astroids, air, oceans, soil, and stone, with or without life. Living things borrow from these cycles to build their clay, and decomposers return it when they're done.
 
-Energy Flows: Energy moves through nature once, from concentrated to spread out, like a star’s fusion spreading into light and finally heat. Life uses it to organize matter and loses most of it as heat at each step up the food chain, so every ecosystem needs a constant new supply.
+Energy Flows: Energy moves through nature once, from concentrated to spread out, like a star's fusion spreading into light and finally heat. Life uses it to organize matter and loses most of it as heat at each step up the food chain, so every ecosystem needs a constant new supply.
 
-Genotype / Phenotype / Extended Phenotype: Three layers of a player. The genotype is the recipe: the genes a player inherits. The phenotype is the body that recipe builds, shaped by the board it grows up on. The extended phenotype is everything the genes build outside the body: a bird’s nest, a spider’s web, a beaver’s dam. Humans push this third layer furthest. Our houses, roads, and machines are an extended phenotypes.
+Genotype / Phenotype / Extended Phenotype: Three layers of a player. The genotype is the recipe: the genes a player inherits. The phenotype is the body that recipe builds, shaped by the board it grows up on. The extended phenotype is everything the genes build outside the body: a bird's nest, a spider's web, a beaver's dam. Humans push this third layer furthest. Our houses, roads, and machines are an extended phenotypes.
 
-Weismann Barrier: The wall between body and genes. What a player learns or builds during its life doesn’t get written back into the genes it passes on. Some animals, especially humans, store their learning in teachings, books, and tools.
+Weismann Barrier: The wall between body and genes. What a player learns or builds during its life doesn't get written back into the genes it passes on. Some animals, especially humans, store their learning in teachings, books, and tools.
 
 Name-tag: A label we wear, like a job title, party, or nation, as opposed to the role we actually play in our ecosystem. Nature doesn't assign name-tages, only people do.
 
-Energy Number: The energy and materials a player needs to keep playing. For most lifeforms, that’s food. For humans, it includes everything our tools consume: the fuel in our cars, the heat in our homes, the power behind our jobs. Unlike a name-tag, it can’t be taken off. Ecological roles are how lifeforms play to get the energy they need.
+Energy Number: The energy and materials a player needs to keep playing. For most lifeforms, that's food. For humans, it includes everything our tools consume: the fuel in our cars, the heat in our homes, the power behind our jobs. Unlike a name-tag, it can't be taken off. Ecological roles are how lifeforms play to get the energy they need.
 
 Techvolution: A framework for understanding civilization as technological ecosystems that adapt, evolve, rise, and fall by the same principles that govern all life.
 
 A New Identity: Someone committed to playing the game by Seeing yourself as a self-aware selector inside a technological ecosystem: someone who knows every person carries an energy number, understands others by it, and works with them to pay it more efficiently, freeing energy to mass-produce more diverse creations.
 
-Self-Aware Selection: Artificial selection done with open eyes. The selector knows they’re coaching the game, judges players by how they perform on the board rather than by the stories told about them, and checks their own name-tags at the door.
+Self-Aware Selection: Artificial selection done with open eyes. The selector knows they're coaching the game, judges players by how they perform on the board rather than by the stories told about them, and checks their own name-tags at the door.
 
 Energy Pocket: A concentrated store of energy that can still do useful work: a star, a lump of sugar, a seam of coal, a charged battery. The sandclock is always emptying these pockets as their energy spreads out. Every player survives by finding pockets and tapping them in order energize and do it all over again.
 
@@ -5021,10 +5055,10 @@ Roles: The jobs players fill to meet their energy number. Every ecosystem, natur
 **Predators** hunt other players, like wolves culling the weak, or innovators hunting inefficiency.
 **Scavengers** live on what others leave behind, like vultures, or the used-goods market.
 **Decomposers** break down the dead and return its matter to the board, like fungi, or recyclers.
-**Testers** probe for weaknesses, like germs, or hackers and crooks. They’re often unwelcome, but they reveal what needs fixing or help develop new adapatations.
+**Testers** probe for weaknesses, like germs, or hackers and crooks. They're often unwelcome, but they reveal what needs fixing or help develop new adapatations.
 **Generalists** switch roles as the board changes, like raccoons, crows, or a worker with many skills.
 
-Important to note, adaptations, jobs, identities, and tools all expire. The roles don’t.
+Important to note, adaptations, jobs, identities, and tools all expire. The roles don't.
 
 Open Jobs: Roles on the board that no player is filling yet: energy or resources sitting unharvested. Open jobs appear when the board changes. A player dies out, a new resource arrives, or a disaster clears the field.
 
