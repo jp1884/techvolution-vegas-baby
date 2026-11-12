@@ -13,15 +13,15 @@
 
 This book does not tell you politics and economics are getting really bad, and to fix it, here's what _someone else_ needs to change.
 
-This book series explains why politics and economics are getting both good and bad—and how you, the reader, can adapt to use the good to fix the bad.
+This book series explains why politics and economics are getting both good and bad—and how you, the reader, can avoid the extremes to adapt and use the good to fix the bad.
 
-We already think this way in so many other areas. Musicians, athletes, and builders all know their work is imperfect. They improve by returning to the fundamentals and practicing them again and again. When a rival writes a better tune, plays a better game, they admire it and learn from it, because no one gets better by defending past songs, plays, or blueprints.
+We already think this way in so many other areas. Musicians, athletes, and builders all know their work is imperfect. They improve by returning to the fundamentals and practicing them again and again. When a rival writes a better tune or plays a better game, they admire it and learn from it, because no one gets better by defending past songs, plays, or blueprints.
 
 Politics and economics are no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game with fundamentals every living thing must play by.
 
-We play that game every time we build our civilization. This book starts with what it takes to make anything at all, from a bird’s nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again.
+We play that game every time we build our civilization. This book starts with what it takes to make anything at all, from a bird's nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again. That's how we put a reliable, affordable supply of food, energy, and education back in our own hands.
 
-That’s why this is a book for people in the middle: people who want things to be more rational, level-headed, and future-focused, and who are willing to adapt to improve our imperfect world.
+So this is a book for people in the middle: people who want things to be more rational, level-headed, and future-focused, and who are willing to adapt to improve our imperfect world.
 
 ## Giving You a Map and Compass
 
@@ -31,19 +31,21 @@ Physical media has a powerful challenger. Maria's professional networks, her har
 
 Yes.
 
-Where did Maria’s pain come from? She ran one store in a twenty-store rental chain. A film geek, she convinced head office that DVDs, with their quality, clarity, and compact size, were the next big thing for their customers. Her passion won her control of the company’s distribution warehouse, and she story-savvy enough to keep the right movies stocked for the right neighborhoods. The chain grew to thirty stores! So why is new technology now causing her grief?
+Where did Maria's pain come from? She started by running one store in a twenty-store rental chain. A film geek, she convinced head office that DVDs, with their quality, clarity, and compact size, were the next big thing for their customers. Her passion won her control of the company's distribution warehouse, where her eye for a good story told her what movies should be stocked in what neighborhoods. Foot traffic surged and her company grew to thirty stores!
 
-Plastic storage discs were possible because of material science and laser discovers in the 1950s and 60s. Together they wrote and read pits on plastic. The consumer technology was born in the 1980s from a partnership between Dutch Philips and Japanese Sony. The Compact Disc (CD) stored a music album of data. The DVD followed a decade later holding an entire movie. The DVD spread to countless stores and homes—in capitalist countries and socialist ones, secular and religious neighborhoods, red and blue legislatures. Soon, discs with far better video and audio quality—HD DVD and Blu-ray—were brought to market.
+So why is new technology now causing her grief?
 
-People ignored them. Within a few years physical media sales fell off a cliff everywhere at once, regardless of nation, ideology, or economic system. Reflect on this situation: when you stopped buying DVDs, did you consult your identity or belief system first?
+Plastic storage discs were possible because of material science and laser discoveries in the 1950s and 60s. Together they wrote and read pits on plastic like letters in a book. The consumer technology was born in the 1980s from a partnership between Dutch Philips and Japanese Sony. The Compact Disc (CD) stored a music album of data. The DVD followed a decade later holding an entire movie. The DVD competed against the widely popular VHS video tapes. Within a few years the plastic discs were in countless stores and homes—in capitalist countries and socialist ones, secular and religious neighborhoods, red and blue legislatures. Soon, discs with far better video and audio quality—HD DVD and Blu-ray—were brought to market.
 
-If you don't remember DVDs, ask your parents. In Milan or Milwaukee, Seoul or São Paulo, they'll tell you the same story: the Friday night trip to the video rental store, the delight of walking the aisles of selection, the shelf of cases by the TV. A shared memory across every border and belief—and a shared extinction as nearly everyone learned how to stream movies within a few years.
+Most people ignored them. Within a few years physical media sales fell off a cliff in country after country, regardless of ideology or economic system. Reflect on this situation: when you stopped buying DVDs, did you consult your identity or belief system first?
+
+If you don't remember DVDs, ask your parents. In Milan or Milwaukee, Seoul or São Paulo, they'll tell you the same story: the Friday night trip to the video rental store, the delight of walking the aisles of selection, the shelf of DVD cases by the TV. A shared memory across every border and belief—and a shared extinction as nearly everyone learned how to stream movies within a few years.
 
 What could synchronize the lives of billions of strangers to totally upend Maria's future?
 
-Notice what every standard explanation gets wrong. Blaming rental giants like Blockbuster for missing the boat doesn't explain why every other company missed it too. Blame government policy, and you can't explain why the same collapse happened in every country at once. Blame Maria, and you can't explain the thousands of other industry insiders who thought DVDs would remain king.
+Notice what every standard explanation gets wrong. Blaming rental giants like Blockbuster for missing the boat doesn't explain why every other company missed it too. Blame government policy, and you can't explain why the same collapse happened in every country. Blame Maria, and you can't explain the thousands of other industry insiders who thought DVDs would remain king.
 
-Yet, for Maria—and everyone else today—these are the identities and levers we use to explain the state of our finances, job prospects, and futures. They’re playbooks, and none offers a universal and reproducible explanation.
+Yet, for Maria—and everyone else today—these are the identities and levers we use to explain the state of our finances, job prospects, and futures. They're playbooks, and none offers a universal and reproducible explanation.
 
 But one fundamental explains all three at once: a new technology found users who wanted what it offered. No villain decided Maria's fate. Technology and its users evolved. The DVD distribution manager was connected to an adaptation that was essentially killed off. Maria's livelihood and identity were standing in the path of a natural process that affects all lifeforms on Earth. This is true in technology just as it is in biology. She was unprepared because no one had taught her to expect, watch, measure, and prepare for these forces. Yet, within a few years it looks so very obvious.
 
@@ -51,44 +53,47 @@ Maria is just one chapter in history—and the next chapter asks about you, toda
 
 Will AI take your job?
 
-More importantly, *should* it? After all, you very likely switched from movie theaters, to DVDs, and then to streaming, drastically changing the fates of countless people.
+More importantly, *should* it? After all, you very likely switched from movie theaters, to VHS, to DVDs, and then to streaming, drastically changing the fates of countless people.
 
 So will others do the same and make you today's Maria?
 
-You don't know. Like streaming before it, AI is an amazing new technology, and we don't yet know what changes it will bring despite the CD, DVD, digital cameras, music downloads, air-conditioning, trains, and endless other examples of new technology transforming our fate.
+You don't know. Like streaming before it, AI is an amazing new technology. Even after the CD, the DVD, digital cameras, air-conditioning, trains, and countless other technologies that transformed our fate, we still can't see what change AI will bring.
 
 That ignorance should strike you as strange. In physics, we can peer billions of years into the past and take pictures of individual atoms. In medicine, we can cure terrible diseases and watch cells divide in real time. We can do so much—so how is it that we can see so little of our own futures?
 
 We don't even have a name for Maria's future, or yours. No label that might have told her what to expect and how to prepare.
 
-And it's bigger than any one person, job, or company. Housing, healthcare, education, and childcare have consumed a growing share of the median paycheck for forty years, through boom and bust, whichever party held power as young people have been priced out of homes, retirees worried about money, and healthcare workers buried in paperwork.
+And it's bigger than any one person, job, or company. Housing, healthcare, education, and childcare have consumed a growing share of the median paycheck for forty years, through boom and bust, whichever party held power. Young people have been priced out of homes, retirees worry about money, and healthcare workers are buried in paperwork.
 
 Meanwhile high-speed internet, automation, and AI keep getting better. How can people be worse off while using better technology? That is Maria's problem, scaled up to all of society.
 
 We've been drowning in proposed answers, every day another ocean of speeches, articles, and posts promising the fix. We've listened, and our frustration has curdled into a growing hatred of our own countrymen. Decades of voting in new leaders and switching parties have added up to failure, not because we tried too little, but because we were aiming at the wrong target.
 
-When a biologist sees an ecosystem failing, she doesn't get angry. She returns to the fundamentals and looks for the imbalance, too much of one creature, too little of another, and works to restore it. Our society has the same kinds of problems, but we still read politics and economics through human narratives and playbooks. To see what would have warned Maria, and us, we first have to see technology for what it is: an extension of life's natural evolution. From there, we can embrace life's game plan for prospering in an ever-changing world.
+When a biologist sees an ecosystem failing, she doesn't get angry. She returns to the fundamentals and looks for the imbalance, too much of one creature, too little of another, and works to restore it. Our society has the same kinds of problems, but we still read our politics and economics through human narratives as if past playbooks are all we need to solve the problem. To see what would have warned Maria, and us, we first have to see technology for what it is: an extension of life's natural evolution. From there, we can embrace life's game plan for prospering in an ever-changing world.
 
 Evolve new species, better suited to the new environment.
 
-This book won't hand you simple answers; I don't know your specific situation. Let most people you're liking using the like commuting cars, university textbooks, office buildings, strip malls, movie characters for generations.
+This book series won't hand you simple answers; I don't know your specific situation and you will need to uncover your specific problems. Instead, you'll get something Maria never had: a solid understanding of what's happening to us and our environment in the young Internet Age.
 
-It's written for the person who wants a decent paycheck for an honest day's work, and who'd happily learn a new skill to get it. Someone who'd compromise if it fixed anything, drop an old position if a better one came along, and doesn't want a handout or a bailout. Someone who'd rather get to work, go home, and enjoy their family, but keeps getting told to pick a side, when neither side is talking about the thing actually squeezing their paychecks, their time, and their kids' futures.
+We are like trees at the start of an Ice Age, adapted for a warmer climate, but encountering a drier, colder one. The frustration and anger you feel, and see in others, aren't signs that the other side is broken. They're symptoms of a shared problem: we don't yet know how to read the new environment modern technology has built. But, our ancestors faced this many times, and their history shows how to identify the problem. We can borrow from other fields, like ecology, to begin solving it.
 
-<!-- You will get something Maria never had. -->
-<!-- Consider bringing a version of that promise back, since it told readers what they would gain. -->
+Your paycheck is a species, subject to all the laws of nature. Some are thriving, some are going extinct, and like Maria, nobody has told you which one yours is.
 
-If that sounds like you, you're not confused, and you're not alone. You're just missing a name for what's happening behind the political bickering and the economic statistics.
+Maria didn't need a prophecy. She needed a map of the game she was playing, and a compass to tell her which way the board was moving.
 
-Your paycheck is a species, subject to all the laws of nature. Some are thriving, some are going extinct, and nobody has told you which one yours is.
+That's what this book gives you. The map is the Game of Life: the rules, the board, the clock, and the players every living thing plays with. The compass is a new identity: knowing your role and your energy number, so you can feel the ground shift and know which way to step.
+
+And the name for what happened to Maria, and what's happening to all of us, is techvolution.
+
+Let's see how the game is played.
 
 ## Illustration
 
-**Illustration 1:** *Earth's history as a spiral, from the planet's formation to the present. Geologists name each period by the life that dominated it, and the spiral ends with the Holocene, the last eleven thousand years.*
+**Illustration 1:** *Earth's history as a spiral, from the planet's formation to the present. Geologists name each period by the geology, environment, or life that defined it, and the spiral ends with the Holocene, about the last twelve thousand years or so.*
 
 **Illustration 2:** *The second spiral keeps going, through ages historians name not by lifeforms but by tools: stone, bronze, iron, and on to the Internet Age. Notice how quickly each age now gives way to the next. Techvolution treats the two as one continuous spiral, applying Darwin's principles to civilization's ages.*
 
-*What carried life through time wasn’t only how long a species could survive, but also how quickly it could answer a changed world, often by building a new ecosystem. The same is true for us. Learning to pick up new tools for a changed environment is no stranger than taking a bear’s fur to survive the cold. Life has always adapted by borrowing what already works. And it only takes a few people to start adapting civilization to the world we actually live in today.*
+*What carried life through time wasn't only how long a species could survive, but also how quickly it could answer a changed world, often by building a new ecosystem. The same is true for us. Learning to pick up new tools for a changed environment is no stranger than taking a bear's fur to survive the cold. Life has always adapted by borrowing what already works. And it only takes a few people to start adapting civilization to the world we actually live in today.*
 
 <!--image source: https://commons.wikimedia.org/wiki/File:Geological_time_spiral.png  -->
 
@@ -96,26 +101,21 @@ Your paycheck is a species, subject to all the laws of nature. Some are thriving
 
 _Techvolution: On the Origin of Technological Species_ presents a different way of understanding human civilization: the human story is driven not by our beliefs or ideologies, but by the technologies we create and use.
 
-The journey from recognizing our technological nature to building a better world happens as we transform three interconnected realms—individual identity, political discourse, and economic systems.
+This isn't just theory. It's meant to build a better world because your tools will be easier to learn, changing jobs won't mean starting over, and it'll be easier to match problems at work, home, or school with a better tool. Reaching this future means transforming three connected realms: individual identity, political discourse, and economic systems.
 
-**Book I—A New Identity:** It starts with how we see ourselves. We have names for our nationality, ethnicity, job, and politics, but no name for the identity that quietly runs our lives: the tools we use to house ourselves, get around, and earn a living. Because we miss it, we blame ourselves, "the other" political party, or bad luck when the ecosystem shifts under our feet.
+**Book I—A New Identity:** We already have names for our nationality, ethnicity, job, and politics, but no name for the identity that quietly runs our lives: the tools we use to house ourselves, get around, and earn a living. Because we miss it, we blame ourselves, "the other" political party, or bad luck when the ecosystem shifts under our feet.
 
-Evolution never tested Maria as a distribution manager or a college graduate. It saw someone selling physical-media stories in the Internet Age. And, regardless of the stories we tell, slow adaptations get replaced in nature _and_ civilization. Someone who knows this can read the wind instead of cursing it, shed the aging tool, and transfer the hard-won knowledge to the next adaptation. After all, Maria's eye for a good story and her grip on logistics are always needed. The same is true of what you know today, whether you’re facing AI now, or whatever comes next tomorrow.
+Book I introduces the Game of Life to change how we see ourselves. Evolution never tested Maria as a distribution manager or a college graduate. It saw someone selling physical-media stories in the Internet Age. Whatever stories we tell, slow adaptations get replaced in nature and civilization. Someone who knows this can read the wind instead of cursing it, shed the aging tool, and carry their hard-won knowledge to the next adaptation. You'll learn to see past name-tags, find your energy number, and read your world as an ecosystem of tools, whether you're facing AI or whatever comes next.
 
 **Book II—Mixed Ideological Politics:** A heat pump doesn't know it's "green." A diesel truck doesn't know it's "red-blooded American." We attach such labels with stories and then reject good tools for wearing the wrong one. After Book I told us our true identity, Book II teaches us how to strip away story-based identities from any tool so we can install tools without thinking we've betrayed an ideological tribe. 
 
 In nature, forests grow where the sun shines and the water runs. Book II teaches us how to judge our tools by their local usefulness instead of the playbook they belong to. This radical freedom to grow and shed tools based on the environment is political moderation reimagined for the people of the Internet Age.
 
-**Book III—Bumblebee Economics:** Free to choose our tools, we can build an economy that’s more reliable and renewable, from the power we generate to the goods we make and move. Nature's supply chain is our model. All plants use the same sunlight. Predators can hunt and eat most meats. A bee works any flower it finds. By using universal standards, everyone gets to compete, and nature finds the best fit for every opportunity.
+**Book III—Bumblebee Economics:** Free to choose our tools, we can build an economy that's more reliable and renewable, from the power we generate to the goods we make and move. Nature's supply chain is our model. All plants use the same sunlight. Predators can survive on almost any meat. A bee works whichever flower it finds. By using universal standards, everyone gets to compete, and nature finds the best fit for every opportunity.
 
-This means we need far more standards in our economy. We're good at making standards like USB, shipping containers, and VIN numbers. Less good at settling on them: the DVD's successor split into two rival discs. And we have few standards at all for selling, staffing, or moving goods and people. Just think of the pains of resume writing, interviews, onboarding, and learning the ropes of a new job, never mind a new industry.
+This means we need far more standards in our economy. We're good at making standards like USB, shipping containers, and VINs. Less good at settling on them: the DVD's successor split into two rival discs. And we have few standards at all for selling, staffing, or moving goods and people. Just think of the pains of resume writing, interviews, onboarding, and learning the ropes of a new job, never mind a new industry.
 
-With coherent standards, Maria's next niche is easier to find and embrace. She can use her knowledge and skill sets to cross-pollinate a new part of the ecosystem. Book III details the adaptations that enforce widespread standards and interoperability in nature so we can use them in our economy. When every organism can easily work and contribute little is wasted. The result is bounty in nature, and in civilization too.
+With coherent standards, Maria's next niche is easier to find and embrace. She can use her knowledge and skill sets to cross-pollinate a new part of the ecosystem. Book III details the adaptations that enforce widespread standards and interoperability in nature so we can use them in our economy. When every organism can easily work and contribute, little is wasted. The result is bounty in nature, and in civilization too.
 
 `Understand yourself → Learn to select better tools → Build bounty with others`
 
-<!-- ## About the Author
-
-This book attempts a leap in human understanding. That is quite a bold task; I am not sure what qualifies anyone to undertake it. I have a quality formal education and have worked in various industries, which helps grounds a mind when trying to think differently. I tried very hard (and it turns out quite foolishly) to get scientific data to showcase techvolution. As you will learn, it turns out being thwarted in that task revealed more truths than the evidence would have.
-
-As a kid in a grocery store, two friends were fighting over which cake to buy. Unable to participate for reasons you will soon learn about, I resolved to fix the tiresome bickering. So, I listened to both sides; one wanted chocolate the other vanilla. I left unnoticed and returned with a marbled cake. Both fell silent, and we soon enjoyed the taste of compromise as happy friends. It is a mentality I had and honed while looking out into our society, researching, and writing this book. -->

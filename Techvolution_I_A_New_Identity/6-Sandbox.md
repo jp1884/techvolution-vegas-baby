@@ -6233,3 +6233,57 @@ dwarkesh.com/p/david-reich-2
 
 
 ===
+
+
+epilogue points:
+
+1. We’re in a new technological age. Our ancestors often resisted changes like this, sometimes to their ruin, and we all resist it a little, hoping our old ways, knowledge, or position will survive.
+
+2. That’s why we’re fighting more despite having better tools. We’re defending Industrial Age labels, laws, and best practices, and trying to push the cost of change away from ourselves.
+
+3. That pushes us to extremes, which breeds more extremes and ultimately defeat themselves because adaptation must be moderate to find success.
+
+4. Change isn’t optional, but how we adapt is. Moderation wins over time because it uses more of evolution’s recipe: mass-producing diverse adaptations and keeping the ones frontline feedback proves is working.
+
+5. There are three ways of understanding the world: mythology, philosophy, and science. Books II and III bring science to politics and economics. Book I gets you ready for it, so you can cut through the noise and ask better questions.
+
+6. Whatever your name-tag, you have an ecological role and an energy number. To understand why people act as they do, see yourself and others by those.
+
+7. Your own experience is your most powerful tool. The people using a tool feel its pain first, so they’re the first to know what works and what should go. Keep note of your pains, and the tools needed to solve them.
+
+8. Get the number. Doctors use bloodwork, engineers use math, and musicians use scales. Know the water, power, and money your tools need, and what your board can provide. start arguing with numbers, not labels. 
+
+9. Game of Life is a buiding competition...
+
+
+Playbook Exercises: 
+
+- Add up a month of housing, transport, food, power, and devices. That’s the number, in dollars and kilowatt-hours.
+
+- For a week, note every time a tool frustrates you, and every time one quietly works. That’s your frontline data.
+
+- Add up a month of housing, transport, food, power, and devices. That’s the number, in dollars and kilowatt-hours.
+
+- List and photograph your tools, with their age and expected lifespan. That protects you, and shows which tools expire first.
+
+- In the next argument you hear, ask who’s being asked to pay for the change. That makes the diagnosis something readers can use.
+
+===
+
+<!-- ## About the Author
+
+This book attempts a leap in human understanding. That is quite a bold task; I am not sure what qualifies anyone to undertake it. I have a quality formal education and have worked in various industries, which helps grounds a mind when trying to think differently. I tried very hard (and it turns out quite foolishly) to get scientific data to showcase techvolution. As you will learn, it turns out being thwarted in that task revealed more truths than the evidence would have.
+
+As a kid in a grocery store, two friends were fighting over which cake to buy. Unable to participate for reasons you will soon learn about, I resolved to fix the tiresome bickering. So, I listened to both sides; one wanted chocolate the other vanilla. I left unnoticed and returned with a marbled cake. Both fell silent, and we soon enjoyed the taste of compromise as happy friends. It is a mentality I had and honed while looking out into our society, researching, and writing this book. -->
+
+
+===
+
+It's written for the person who wants a decent paycheck for an honest day's work, and who'd happily learn a new skill to get it. Someone who'd compromise if it fixed anything, drop an old position if a better one came along, and doesn't want a handout or a bailout. Someone who'd rather get to work, go home, and enjoy their family, but keeps getting told to pick a side, when neither side is talking about the thing actually squeezing their paychecks, their time, and their kids' futures.
+
+===
+
+You can think of it like this: not every plant needs to be very abundant, but every plant must be ready to be, if the environment changes to be colder, milder, drier, wetter, and its time comes. The more plants that exist, the higher the chance they'll populate more niches in the environment.
+
+===
+

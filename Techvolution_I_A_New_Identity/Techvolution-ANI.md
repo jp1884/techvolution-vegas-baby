@@ -41,7 +41,7 @@ Chapter 13—Extremes Are Not Natural
 Chapter 14—Moderation Is Natural
 Chapter 15—Meeting the Coach
 Chapter 16—Vignettes
-Chapter 17—Epilogue
+Chapter 17—Epilogue-The Mutants
 
 ## Preface
 
@@ -67,19 +67,27 @@ I got to order anything I wanted. It was pizza, of course.
 
 The point of this story is that when a person confronts a problem today—from buying products to getting a job—we instinctively start with a genetic, cultural, or ethnic identity. Listen to any political speech; it will speak to "single mothers," "elderly voters," "new immigrants," or some other demographic group. I do not want to invalidate these identities, only to clarify something fundamental: in the realm of politics and economics, we are first and foremost users of tools.
 
-Some of these tools are biological, like jogging or speaking, but with the explosion of electronics, software, and so many other devices, most of our interactions with the world involve at least some technology. Therefore, our primary identities should be defined by the tools at our disposal, and acquiring better tools to live happier lives ought to be our first priority.
+Some of these tools are biological, like jogging or speaking, but with the explosion of electronics, software, and so many other devices, most of our interactions with the world involve at least some technology. Therefore, our primary identities should be defined by the tools we use and the roles we play, and acquiring better tools to live happier lives ought to be our first priority.
 
 Yet this perspective is almost entirely absent from public discourse—a technological identity is precisely what ideologies strip away from us.
 
-For example, an ideologue seeing a hungry kid outside a pizzeria window might attribute the kid's situation to a personal failing—being a freeloader or wasteful with money—or systemic injustices—like family poverty or discrimination by the shop owner. Both perspectives are possible, but the fact that the kid might be struggling with a "verbal wheelchair" rarely occurs to people today. This oversight happens not because they are unaware of disabilities, but because ideological interpretations are often our default lens when seeing problems in society.
+For example, an ideologue seeing a hungry kid outside a pizzeria window might attribute the kid's situation to a personal failing—being a freeloader or wasteful with money—or systemic injustices—like family poverty or discrimination by the shop owner. Both perspectives are possible, but the fact that the kid might be struggling with a "verbal wheelchair" rarely occurs to people today. The same thing happens when people call a government office or a corporate help line. They snap at the representative and assume it's “inefficient government employees” or “greedy corporations” at work, when the real culprit may be the outdated system the representative is stuck using.
 
-That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet conservatism (1790) and progressivism (1859) were conceived centuries ago: playbooks written for an agraian society learning to use the earliest industrial technologies. The First Industrial Revolution (1760–1840) brought steam power and textile mills. The Second (1870–1914) brought electricity, mass production, and the assembly line. With each decade the established craft guilds, manorial farms, royal palaces were replaced with wage labor, mass migration, and urban poverty. Our current ideologies were born because existing political and economic frameworks were unable to navigate the new terrain of industrialization.
+This oversight happens not because people are unaware of disabilities or broken equipment, but because blaming people, through personal or ideological stories, is our default lens for seeing problems in society.
 
-Conservative and progressive thinkers offer valuable insights into our societal policies and governance, but their worldview is not rooted in the modern scientific and technological world they helped create. They lived without plastic, wrote with bird feathers, and did not learn how evolution shaped the state of nature. Ardent believers in one of these ideologies today are stuck solving the problems of the distant past. Anyone who studies both can build on their shared achievements.
+That should not be too surprising. Our ideologies have guided our mindsets for generations. Given the massive technological ecosystem we now enjoy, they have done an admirable job. Yet conservatism (1790), liberalism (1859), progressivism (1890s) were conceived generations ago: playbooks written for an agrarian society learning to use and live with industrial technologies. The First Industrial Revolution (1760–1840) brought steam power and textile mills. The Second (1870–1914) brought electricity, mass production, and the assembly line. With each decade the established craft guilds, manorial farms, royal palaces were replaced with wage labor, mass migration, and urban poverty. Our current ideologies were born because existing political and economic frameworks were unable to navigate the new terrain of industrialization.
 
-Conservatism emphasizes producing wealth through mass production. Progressivism pushes for social diversity to empower more individuals. Viewed through a technological identity, these mindsets work best together.
+In American politics today, liberals and progressives share much the same goals, so I'll treat them together. Outside the U.S., the labels differ, but the two mindsets are the same.
 
-Every biological ecosystem is a mixture of different lifeforms harvesting energy to mass-produce as much growth and offspring as possible. But life also varies its offspring, searching for any that suit the latest environment better. You can think of it like this, not every plant needs to be very abundant, but every plant must be ready to be, if the environment changes to be colder, milder, drier, etc. and its time comes. The more plants that exist, the higher the chance they'll populate more niches in the environment.
+Conservative and progressive thinkers offer valuable insights into our societal policies and governance, but their worldview is not rooted in the modern scientific and technological world they helped create. They lived without plastic household telephones, and did not firmly understand how evolution, ecology, and DNA shaped the state of nature. Ardent believers in one of these ideologies today are stuck solving the problems of the distant past. Anyone who studies both can build on their shared achievements.
+
+Conservatives tend to preserve what already exists. They build, maintain, and pass on institutions, businesses, and traditions, and they put their effort into reliably producing at scale what has been shown to work. This pays off when conditions are stable and proven methods keep working.
+
+Progressives tend to question what already exists. They look for who and what the current order overlooks, bring in diverse perspectives, and try new arrangements, including how the gains are shared. This pays off when conditions change and the old methods stop fitting.
+
+Viewed through a technological identity, these mindsets work best together. Diversity without mass production never scales, and mass production without diversity can't adapt.
+
+Every biological ecosystem is a mixture of different lifeforms harvesting energy to mass-produce as much growth and offspring as possible. But life also varies its offspring through mutation and by mixing parents' genes, and some may suit the latest environment better. Think of it like a dictionary: not every word needs to be common, but the more words we have, the more likely we are to find one that fits a new idea. When streaming arrived, combining two old words, “binge” and “watching,” let the world communicate what it suddenly started doing in its free time.
 
 Conservatism describes how life populates its ecosystems; progressivism describes how it updates them. Together they populated the world with many different engines, factories, power stations, and other industrial wonders. Thus, rather than seeing left versus right as opposing forces, we can view them as complementary perspectives contributing to our collective technological evolution.
 
@@ -97,13 +105,13 @@ The cost of living has dramatically outpaced this increase.
 
 Here are some examples. Average home prices across U.S. states were about 345 percent higher in 2024 than in 1991. Average annual premiums for employer-sponsored family health coverage increased 49 percent from 2013 to 2023. Average in-state tuition roughly doubled from 1991 to 2023. Grocery costs rose significantly in recent years—a 20–30 percent increase from 2020 to 2025.
 
-This widening economic gap has driven debt to record levels for students and governments. American federal debt, measured against the size of the economy, is now near its 1946 peak. That should strike us as strange. Much of what World War II (1939-1945) wartime debt bought was destroyed within months, yet by the mid-1970s the debt had shrunk to about a quarter of its postwar size relative to the economy because a healthy economy outgrew its debt. Today's federal borrowing comes not from war but from the ordinary costs of keeping society running: retirement, commuting, definitely insurance, and the interest on what we already owe. Just keeping our society running runs up as much debt as a world war. Our ancestors adapted to win a war. We're failing to adapt to peace.
+This widening economic gap has driven debt to record levels for students and governments. American federal debt, measured against the size of the economy, is now near its 1946 peak. That should strike us as strange. Much of what World War II (1939-1945) wartime debt bought was destroyed within months, yet by the mid-1970s the debt had shrunk to about a quarter of its postwar size relative to the economy because a healthy economy outgrew its debt. Today's federal borrowing comes not from war but from the ordinary costs of keeping society running: retirement benefits, health insurance, and the interest on what we already owe. And behind those sit the everyday costs we all carry, like commuting, housing, and energy, passed along through wages, prices, and benefits. Just keeping our society running runs up as much debt as a world war. Our ancestors adapted to win a war. We're failing to adapt to peace.
 
 Economic betterment has also largely stopped in America, with only half of Americans born in 1980 earning more than their parents, compared to 90 percent of those born in 1940.
 
 I don't need to cite any more numbers because you see this trend every month when matching your paycheck to your bills. This demands a question: the internet and personal computer were both invented in the early 1970s, right as our politics started to divide and our economy began to stall. Despite computers growing ever more powerful, taking us further from the Industrial Age into the Internet Age, many people are falling behind. Why?
 
-Just as the divine right of kings lost its hold when America's founders declared that governments derive their power from “the consent of the governed,” and lost even more ground as industrialization remade society, our ideological frameworks are falling out of date now. Out of touch, they can't offer a shared purpose. Out of touch, they can't offer a shared purpose, and so cannot mass-produce or adopt new tools in our new computer-powered environment.
+Just as the divine right of kings lost its hold when America's founders declared that governments derive their power from “the consent of the governed,” and lost even more ground as industrialization remade society, our ideological frameworks are falling out of date now. Out of touch, they can't offer a shared purpose, and so cannot mass-produce or adopt new tools in our new computer-powered environment.
 
 Industrial Age mindsets are simply not up for the task. Ideologues, pundits, and believers say their superior government policy can address our challenges. As each has proven ineffective we're told to blame the "other side". Growing extremism hasn't worked because evolution demands more: we must adapt by innovating new tools and adopting a new lifestyle.
 
@@ -111,26 +119,25 @@ Before we can mass-produce new tools we must adopt a fresh mindset. One built fr
 
 Obviously not. Words don't fill our stomachs or shelter us from the elements.
 
-Yet today we evaluate conservatism and progressivism by their words. Our ancestors didn't do that. Instead, they valued each for their ability to create and distribute tools like farm tractors, home heaters, and community libraries. These are adaptations that overcame real-life pains of hunger, poverty, illiteracy. Today, ideological believers, from bureaucrats to teachers, executives to workers, say they promote adopting innovative computer technology, but only when you adopt a technological identity will you evaluate their words by how well the tools in your hands solve your frontline problems.
+Yet today we evaluate conservatism and progressivism by their words. Our ancestors didn't do that. Instead, they valued each for their ability to create and distribute tools like farm tractors, home heaters, and community libraries. These are adaptations that overcame real-life pains of hunger, poverty, illiteracy. Today, ideological believers, from bureaucrats to teachers, executives to workers, say they promote adopting innovative computer technology, but only when you adopt a technological identity will you evaluate their words properly. The test is simple: judge every promise by the tool it puts in your hands.
 
 Using Industrial Age mentalities in the Internet Age is a massive mix-up. It interferes with matching our problems with better tools. When we realize this, we can once again mass-produce the diverse tools we need to find a shared political purpose and build economic prosperity again.
 
 Then we'll be following evolution, and that is a good place to be. Life has spent billions of years combating heat, hunger, thirst, and cold through new adaptations. Arctic fish develop antifreeze proteins. Polar birds grow waterproof feathers. Mammals develop fur and blubber. Each organism's survival depends not on avoiding the discomforts of hot or cold, or assigning blame for them, but on developing the right tools to keep pain away in its environment.
 
-Our ancestors lost their insulating hair when they left the trees and learned to walk. How did we stay warm? We cut fur from dead animals and mastered fire. Today, we synthesize materials, generate heat, and create any other solution we can dream up. This enormous technological progress has often reduced our pains, but that also means we easily forget what life on Earth is all about.
+As our ancestors left the trees and learned to walk they also gradually lost their insulating hair. How did we stay warm? We cut fur from dead animals and mastered fire. Today, we synthesize materials, generate heat, and create any other solution we can dream up. This enormous technological progress has often reduced our pains, but that also means we easily forget what life on Earth is all about.
 
 Hence, we tend to view the world through human stories, speeches, and ideologies, rather than the reality that we need to address practical problems with new adaptations. This ironically causes frontline pains to increase.
 
-Adopting a strong technological identity will make it far easier to keep our continued evolution in focus: to adapt, prosper, and pass on a bright torch to the next generation. A new identity does not mean abandoning our wonderful cultures or faiths. We can still enjoy music clubs, celebrate folk dances, kneel in our places of worship, commemorate history, and cheer at the Olympics. However, in a world increasingly shaped by technological systems, we must develop a new mindset to clearly identify our problems and see their best solutions.
-
+Adopting a strong technological identity will make it far easier to keep our continued evolution in focus: to adapt, prosper, and pass on a bright torch to the next generation. A new identity does not mean abandoning our wonderful cultures or faiths. We can still enjoy music clubs, celebrate folk dances, visit our places of worship, commemorate history, and cheer at the Olympics. However, in a world increasingly shaped by technological systems, we must develop a new mindset to clearly identify our problems and see their best solutions.
 
 The everyday lesson is that loving the same music as someone else is great fun, and talking about ideology can cause interesting debates, but neither means you have found the best mechanic. Solving our frontline problems means finding better tools and better tool-users. Just think how an oak tree and a squirrel have nothing in common, and each helps the other prosper every year.
 
 All lifeforms should work together because Earth is a massive version of an ice bucket—a vast gameboard shaped by immutable laws of physics, chemistry, and geology. Life produces new creatures constantly, and its partner, evolution, decides which keep playing. With the right team, Earth is an awe-inspiring oasis—a lone lifeboat in the galactic expanse.
 
-The story of life now involves technology. Its many gadgets, tools, and inventions are already changing the world. The purpose of this book is to help you realize tools are the best way to adapt to your environment. A recurring theme is how to combat any story that tries to subvert this evolutionary requirement.
+The story of life now involves technology. Its many gadgets, tools, and inventions are already changing the world. The purpose of this book is to help you see tools as the way we adapt to our environment. Along the way, it will ask you to look closely at your toolset and problems, and to judge every story and belief by how well it matches the two to keep you happy and healthy.
 
-Our beliefs should lift us to new heights. They should tell us our limitations do not define us. A limitation is just a problem, and problems yield to better tools and better allies. I learned that at a pizza counter, one pointed finger, one slice, and one slow word at a time. This book is about learning it at the scale of a civilization.
+Our beliefs should lift us to new heights. They should tell us our limitations do not define us. A limitation is just a problem, and problems yield to better tools and allies. I learned that at a pizza counter, one pointed finger, one slice, and one slow word at a time. This book is about learning it at the scale of a civilization.
 
 ## Introduction 
 
@@ -168,23 +175,23 @@ Raccoons are the ultimate example. Originally from the tropical forests of Centr
 
 But when human barns and garbage arrived, the raccoon's range exploded. Piggybacking on civilization, these creatures thrived. Many urbanites around the world know this all too well. It's why our garbage bins must be raccoon-proofed. Or at least try to be, as raccoons often outwit us.
 
-We learn something about extended phenotypes by contrasting raccoons with squirrels. A squirrel takes what it finds, but it renews the biological ecosystem it feeds on by planting many nuts each year. An urban raccoon gets food and shelter but renews nothing it depends on. Because extended phenotypes sit outside the body, whoever uses them doesn't have to earn it, or give anything back to the ecosystem that made it. In nature, the squirrel can't feed itself without planting the forest. A visitor who enjoys a Venice or Barcelona but doesn't buy much or pay taxes, is one example that of how our technological ecosystem has no such natural requirement.
+We learn something about extended phenotypes by contrasting raccoons with squirrels. A squirrel takes what it finds, but it renews the biological ecosystem it feeds on by planting many nuts each year. An urban raccoon gets food and shelter but renews nothing it depends on. Because extended phenotypes sit outside the body, whoever uses them doesn't have to earn it, or give anything back to the ecosystem that made it. In nature, the squirrel can't feed itself without planting the forest. A visitor who enjoys Venice or Barcelona but doesn't spend much, or the person who uses open-source software without contributing are some examples of how our technological ecosystem has no such natural requirement.
 
 So, to stay a player in the Game of Life, creatures can stand out via their genes, phenotypes, and extended phenotypes. Having the right mixture of all three means an animal can harvest enough resources and protect itself long enough to procreate and thereby keep playing the game.
 
-Now, in our quest to better understand ourselves, which of these characteristics do you think best describes humans in the 21st century?
+Now, in our quest to better understand ourselves, which of these creatures do you think best describes humans in the 21st century?
 
 ### Doesn't My Insurance Cover This?
 
 The answer is the raccoon. Like them, we live, work, and exist in an ecosystem of tools without knowing how they work. This is why the thesis of this book is that humans are now primarily a technological species that is not yet self-aware of our new identity.
 
-In evolutionary terms, Maria wasn't a "regional manager" at all—that's a cultural label. She was a physical-media seller dependent on several adaptations fitted to one niche, destined to rise and fall with it. That's what a species is. And around 2011, the environment changed, so her niche was going extinct, whatever she or others called herself.
+In evolutionary terms, Maria wasn't a "distribution manager" at all—that's a cultural label. She was a physical-media seller dependent on several adaptations fitted to one niche, destined to rise and fall with it. That's what a species is. And around 2011, the environment changed, so her niche was going extinct, whatever she or others called herself.
 
 Maria wasn't alone. _Home Improvement_ was one of America's most popular television shows in the 1990s. Week after week, tens of millions of families watched Tim "The Tool Man" Taylor host "Tool Time", a show only shown on Metro Detroit cable television that reviewed tools from his sponsor Binford Tools. Tim's famous phrase was "More power!" because he constantly over-engineered tools and projects, leading to spectacular (and often disastrous) results that the competent, mellow co-host Al must deal with.
 
 _Home Improvement_ was culturally aware enough to tackle the difficulties of drug addiction, infidelity, and job loss. Yet in eight seasons, technological identity never appeared on that list. Nobody, not even the Tool Man, asked what was powering his own show. He never asked what happens when technology, like telecommunications, changes and gets more powerful.
 
-Meanwhile internet speeds were improving every year. In 1992 when the show premiered, it was 0.0144 Mbps and loading simple websites took minutes. By 1999, when the show ended, it was 0.056 Mbps and online gaming was possible. Soon, the same cable networks showing Tool Time added high-speed internet service. By 2011 internet speeds were up to 31 Mbps and video production and distribution were increasingly streaming on YouTube, Netflix, and other platforms.
+Meanwhile internet speeds were improving every year. In 1991 when the show premiered, it was 0.0144 Mbps and loading simple websites took minutes. By 1999, when the show ended, it was 0.056 Mbps and online gaming was possible. Soon, the same cable networks showing Tool Time added high-speed internet service. By 2011 top speeds reached up to 31 Mbps and video production and distribution were increasingly streaming on YouTube, Netflix, and other platforms.
 
 How could regional cable television shows—or DVD rental stores—not be changed forever by more powerful internet speeds?
 
@@ -206,7 +213,7 @@ I know this in my soul. After my speech improved as a claims adjuster, I looked 
 
 For a political economy student being a claims adjuster was like living a daily experiment. It was an intellectual gold mine.
 
-The ultimate lesson was how many people struggle to understand modern technologies. We live in a world of increasing complexity but diminishing comprehension. From wealthy executives to blue-collar workers, everyone is equally perplexed by a car crash or a malfunctioning geo-thermal furnace. People rarely understand their own possessions or the rules governing their use, always one glitch away from asking, "Doesn't my insurance cover this?" to a person on the phone as if I had a magic wand to erase their problems.
+The ultimate lesson was how many people struggle to understand modern technologies. We live in a world of increasing complexity but diminishing comprehension. From wealthy executives to blue-collar workers, everyone is equally perplexed by a car crash or a malfunctioning geothermal furnace. People rarely understand their own possessions or the rules governing their use, always one glitch away from asking, "Doesn't my insurance cover this?" to a person on the phone as if I had a magic wand to erase their problems.
 
 I was so often a customer's best hope, yet I had no special tools but a stingy checkbook and Google search.
 
@@ -220,11 +227,11 @@ Because extended phenotypes are separate from our bodies, they evolve on differe
 
 Consider this: what do you find more concerning—spraining an ankle or having water pipes burst while on vacation?
 
-Our ancestors might have be eaten by a lion or left for dead because of a physical injury, but today we would simply rest and watch Netflix. However, the flood from a burst water pipe could bankrupt you. I should know; I had to deny claims because homeowners broke the unknown conditions of their insurance policies. If they had been technologically self-aware enough to perform a simple two-minute water shut-off, they could have prevented years of hardship and kept life's torch well-lit.
+Our ancestors might have been eaten by a lion or left for dead because of a physical injury, but today we would simply rest and watch Netflix. However, the flood from a burst water pipe could bankrupt you. I should know; I had to deny claims because homeowners broke the unknown conditions of their insurance policies. If they had been technologically self-aware enough to perform a simple two-minute water shut-off, they could have prevented years of hardship and kept life's torch well-lit. Which raises the question: do you know where your main water shut-off is, or whether your sewer line is cracked and about to collapse?
 
 Yet, we rarely examine the "extended phenotype" part of ourselves. We remain barely conscious of our technological identities and fail to proactively develop skills that would satisfy evolutionary pressures. Far more people define themselves by gender, race, or heritage, compared to the tools they use to gather resources. Technological identity reveals who we truly are when we strip away labels—the tools we use, the problems we solve, and our ability to adapt and survive in a constantly changing world.
 
-Once we strip away labels like television host, regional manager, even “raccoon,” and return to the fundamentals, we see what each one actually does in its ecosystem. The raccoon is a scavenger living off our leftovers. Tim was a local television star in a niche millions of YouTubers would soon fill. Maria was a distributor whose pivotal tool was getting left behind. Tim's and Maria's jobs were challenged by high-speed internet the same way a new locking waste bin challenges a raccoon.
+Once we strip away labels like television host, distribution manager, even “raccoon,” and return to the fundamentals, we see what each one actually does in its ecosystem. The raccoon is a scavenger living off our leftovers. Tim was a local television star in a niche millions of YouTubers would soon fill. Maria was a distributor whose pivotal tool was getting left behind. Tim's and Maria's jobs were challenged by high-speed internet the same way a new locking waste bin challenges a raccoon.
 
 Seeing that is when “More power!” becomes real power.
 
@@ -232,7 +239,7 @@ But left unaware of modern tools, we resemble raccoons opportunistically using t
 
 ### Avoiding Evolution's Stare
 
-Charles Darwin didn't invent the idea that creatures evolve. What he and Alfred Russel Wallace proposed in 1858 was the mechanism: natural selection. Darwin's _On the Origin of Species by Means of Natural Selection_ followed a year later, built on decades of observation, and it faced two obstacles. The first was time. Natural selection needed an enormously old Earth, but some religious figures thought the Earth was 6,000 years old, while leading scientists said millions. Not until radioactive dating (1906) was discovered did scientists prove Earth was billions of years old. Natural selection now had the time it needed to work its seeming magic.
+Charles Darwin didn't invent the idea that creatures evolve. What he and Alfred Russel Wallace proposed in 1858 was the mechanism: natural selection. Darwin's _On the Origin of Species by Means of Natural Selection_ followed a year later, built on decades of observation, and it faced two obstacles. The first was time. Natural selection needed an enormously old Earth, but some religious figures thought the Earth was 6,000 years old, while leading scientists said millions. Not until radioactive dating (1906) was discovered did scientists begin to show Earth was billions of years old. Natural selection now had the time it needed to work its seeming magic.
 
 The second obstacle was harder to answer. Nobody understood how creatures inherit traits. The prevailing assumption was that offspring simply blend their parents' features. So a strong mother and weak father make a moderately strong offspring. This raised an obvious objection. If mating means losing half of any advantage every generation, how could an advantage like larger wings or faster muscles ever accumulate enough for natural selection to act on it?
 
@@ -244,7 +251,7 @@ Johannsen's words named the confusion at the heart of the debate. Scientists wer
 
 Meanwhile physics and chemistry were giving us electricity, medicine, and flight. So why didn't we apply evolution's principles to advance civilization?
 
-We attempted to. But we only saw our murky understanding of genotype or phenotype in the reflection, and were therefore destined to fail. Remember that evolution does not prescribe good ideas; it selects out the bad ones. Two of the worst ideas ever subjected to that test arose while scientists were still arguing how new species are created in the early 1900s.
+We attempted to. But we only saw our murky understanding of genotype or phenotype in the reflection, and were therefore destined to fail. Remember that evolution does not prescribe good ideas; it selects out the bad ones. Two of the worst ideas ever subjected to that test arose to power while scientists were still arguing how new species are created in the early 1900s.
 
 These were fascism and communism.
 
@@ -254,11 +261,11 @@ Of course, the mapping isn't perfect. Neither regime used these terms exactly, a
 
 Both regimes were convinced that by favoring a “master race” or a “New Soviet Man,” they would make the greatest scientific advances, build the most powerful modern technologies, and create the happiest society on Earth.
 
-The timing matters. Conservatism and progressivism arose in the 19th century, in relatively poor societies struggling with early industrialization. They wanted to pave mud roads and learn to make lots of shoes. Fascism and communism took power in the 20th, when the factories and power stations already existed, but the horrors of World War I and the failures of the Great Depression made people believe the old mindsets didn't know how to use modern technology. Looking for new answers, people turned to science. Because what made natural selection work was still unsettled, each extreme could bend it to its own premise: that focusing on genotype alone, or phenotype alone, was humanity's path to prosperity.
+The timing matters. Conservatism and progressivism arose in the 18th and 19th centuries, in relatively poor societies struggling with early industrialization. They wanted to pave mud roads and learn to make lots of shoes. Fascism and communism took power in the 20th, when the factories and power stations already existed, but the horrors of World War I and the failures of the Great Depression made people believe the old mindsets didn't know how to use modern technology. Looking for new answers, people turned to science. Because what made natural selection work was still unsettled, each extreme could bend it to its own premise: that focusing on genotype alone, or phenotype alone, was humanity's path to prosperity.
 
 However, as awful as it might sound, the problem isn't that an extreme couldn't have a scientific or technological success. Each was doomed because neither could sustain any success. We'll explain in detail in a later chapter, but in short, extremes have complacency embedded in them because each disregards one half of evolution.
 
-This was proven in biology too late. Around 1918, mathematicians showed that genes don't blend, they shuffle, so advantages like bigger wings can survive over time, just as Darwin's theory needed. By the 1940s the Modern Synthesis showed how genotype and phenotype work together through co-evolution, variation, and speciation to produce life's astonishing diversity. Sadly, by then, the fascist and communist regimes were already distorting the 20th century.
+This was proven in biology too late. Around 1918, mathematicians finally used Gregor Mendel's ignored pea experiments to show that genes don't blend, they shuffle, so advantages like bigger wings can survive over time, just as Darwin's theory needed. By the 1940s the Modern Synthesis showed how genotype and phenotype work together through co-evolution, variation, and speciation to produce life's astonishing diversity. Sadly, by then, the fascist and communist regimes were already distorting the 20th century.
 
 Defining human success by genotype alone, or phenotype alone, is a dead end. Nature doesn't sort itself that way. A tree's genes give it options, a tall thin trunk or a short bushy one, and its surroundings decide which is needed. Good genes are great but they are basically a catalogue; a good form is great but is limited to what the genes provide. Just as nature needs both diversity and mass production, it needs both genotype and phenotype to procreate into the future.
 
@@ -268,19 +275,19 @@ It must be asked: if even the extremists wanted the best new technologies, why w
 
 We want to invent new technologies but don't think to spread them.
 
-To illustrate, in the aftermath of fascist (and more broadly communist) atrocities, psychologist Stanley Milgram set out to understand how ordinary people had participated in such events. At Yale University in 1961, participants acted as "teachers" giving a memory test to a "learner" (an actor). After each error, the teacher was to inflict an increasingly strong electric shock. The learner responded in more pain while an authoritative scientist with a clipboard and pencil would insist politely that the experiment continue.
+To illustrate, in the aftermath of fascist atrocities, psychologist Stanley Milgram set out to understand how ordinary people had participated in such events. At Yale University in 1961, participants acted as "teachers" giving a memory test to a "learner" (an actor). After each error, the teacher was to inflict an increasingly strong electric shock. The learner responded in more pain while an authoritative scientist with a clipboard and pencil would insist politely that the experiment continue.
 
 In Milgram's most-cited setup, 65 percent of teachers flipped the switch on what they believed were dangerous shocks. Many showed visible distress but continued with the test anyway. The experiment has been recreated and the share of teachers giving shocks has varied, but the pattern has held: ordinary people under perceived authority often comply despite the pain they cause.
 
 Perhaps because of my speech impediment, watching these experiments highlighted a simple truth: we should never judge one another's raw capabilities. To me, the Milgram setup is not primarily about humanity's willingness to follow orders but about our limited awareness and misguided self-identity.
 
-Despite having pencils and paper sitting on the table, no teacher ever thought to offer them to the learner to help him remember better.
+Any teacher could have asked whether the learner needed help remembering, just as he'd offer water to someone who was thirsty. Few, if any, thought to. They reached for the switch instead of looking for a simple pencil.
 
-Humans need tools. After all, the scientist used a pencil to record test results. Yet here we were inflicting pain on each other instead of simply offering a pencil to a person in need. This is not just bad for the learner or teacher. It's bad for everyone.
+Humans need tools like we need water and clothing. After all, the scientist used a pencil to record test results. Yet here we were inflicting pain on each other instead of simply offering a pencil to a person in need. This is not just bad for the learner or teacher. It's bad for everyone.
 
 Neither great genes nor elite education can match what a good toolbox does. Our success depends on enhancing capabilities through technology, and like the squirrel and oak tree, we rely on others' technological empowerment to sustain the technological ecosystem we depend on.
 
-There is a reason why conservatives and progressives outlasted both fascism and communism. They were part of traditions that had transitioned into the early Industrial Age, and had already granted some basic protections for the tools of this era. The freedom from religious domination, the right to use a printing press, own a gun, be protected from search or seizure are all freedoms to use modern technology.
+There is a reason why conservatives and progressives outlasted both fascism and communism. They were part of traditions that had transitioned into the early Industrial Age, and had already granted some basic protections for the tools of this era. The freedom from religious domination, the right to use a printing press, own a gun, be protected from unreasonable search and seizure, are all freedoms to use modern technology.
 
 These simple protections beat both extremes because they let everyone keep a pencil, and that keeps variety alive. When England cleaned its air and the bark turned pale again, the rare pale moths were still there to be selected, and the species carried on.
 
@@ -292,7 +299,7 @@ These aren't separate grievances. They're the same pattern. In the technological
 
 From Gen Z to retirees, the tools that would earn an independent livelihood sit just out of reach the way the printing press, plot of land, and freedom to choose any mindset once did.
 
-And here is what that produces. When people can't see why their lives are getting harder, they reach for the explanation on offer, which is now to blame the other side. The country thus blames itself for a squeeze no one caused on their own. The Milgram participants had the same problem. Everything they needed was on the table, and not one of them saw it, so they kept doing the only thing they'd been given to do.
+And here is what that produces. When people can't see why their lives are getting harder, they reach for the explanation on offer, which is now to blame the other side. The country thus blames itself for a squeeze no one caused on their own. The Milgram participants had the same problem. Everything they needed was on the table, and no one saw it, so they kept doing the only thing they'd been given to do.
 
 The pencil is still on the table. Somebody has been leaving them there for decades.
 
@@ -300,11 +307,11 @@ The pencil is still on the table. Somebody has been leaving them there for decad
 
 Fortunately, one group emerged to push the technological landscape forward: a diverse community of makers, programmers, and designers in the open-source community. They continually test and tinker through frequent failures to find new helpful adaptations. They are too focused on debugging, correcting errors, and welcoming quality contributions to concern themselves with a person's genotype or phenotype.
 
-Open-source contributors are examples for us all. They evolve solutions to real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Khan Academy, and the software underpinning the internet. These technologies are worth billions and provided free for anyone to use and adapt. Inspired by their character, this book is open-source and published with Writebook, itself built on open-source tools.
+Open-source contributors are examples for us all. They evolve solutions to real-life pains. That is why they have created many of your favorite tools, such as Wikipedia, Chrome, and the software underpinning the internet. These technologies are worth billions and provided free for anyone to use and adapt. Inspired by their character, this book is open-source and published with Writebook, itself built on open-source tools.
 
 The open-source community is not perfect. It can be underfunded and projects too often fragment. Regardless, the community keeps innovating. This drive is why the future of the Internet Age, as outlined in _Bumblebee Economics_, does not require marches or revolutions. Because of the open-source community, if you hold a smartphone or laptop, the seeds of this future are already in your hands.
 
-No single community, even one as widespread abd influential as open-source, can remake all of society. Nor can we rely on free designs, knowledge, and software to solve all our problems. But we can push evolution forward with it. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
+No single community, even one as widespread and influential as open-source, can remake all of society. Nor can we rely on free designs, knowledge, and software to solve all our problems. But we can push evolution forward with it. You only need to adopt a new identity to realize your potential: a self-aware technological being improving its life through peaceful, gradual technological evolution. This concept required a name, hence the new term "techvolution."
 
 With this new paradigm, Maria, Tim "The Tool Man", you, anyone can build upon the work of the open-source community to develop and disseminate tools that identify the "black moths" that will help us populate and harvest new niches. Today's politics is turning toward extremes in the same environment it did a century ago. New tools exist, but the old mindsets are struggling to use them, and so people reach for something that promises more.
 
@@ -352,7 +359,7 @@ I was happy. Being a politics and history student, I could learn and communicate
 
 Still in training, my first claim was a crash at a gas station. My customer—who we call an "insured"—was hit while parked.
 
-But there was no video recording, so maybe he was moving, which would make the claim 50/50 at fault. After some back-and-forth with the other insurance company, I confirmed my insured was in fact parked and the other guy was moving. 0/100 fault.
+But there was no video recording, so maybe he was moving, which would make the claim 50/50 at fault. After some back-and-forth with the other insurance company, I confirmed my insured was in fact parked and the other guy was moving. 0 percent at fault, the other driver 100.
 
 "God bless you," my insured responded to that news.
 
@@ -412,7 +419,7 @@ Overcome with curiosity, you pick up the rulebook, and...
 
 ## Chapter 2—Rulebook: The Rules to the Game
 
-You pick up a rulebook. In large black letter the first page says "These are the Rules of the Game".
+You pick up a rulebook. In large black letters the first page says "These are the Rules of the Game".
 
 You flip to the next page.
 
@@ -448,7 +455,7 @@ Touching around in the darkness turns our senses—touch, smell, sight—into cr
 
 We need to.
 
-If this sounds obvious, contrast it with the growing political hatred and rising economic uncertainty today. There are countless examples of humans trying to make reality fit their beliefs and stories. Energy demand from cars, homes, and now AI data centers keeps climbing. A mixture of road trips, home renovations, AI summaries, will have to use less. Nobody is deciding what proactively, so chance will decide for us, and we'll credit or blame whoever our belief system prescribes.
+If this sounds obvious, contrast it with the growing political hatred and rising economic uncertainty today. There are countless examples of humans trying to make reality fit their beliefs and stories. Energy demand from cars, homes, and now AI data centers keeps climbing. A mixture of road trips, home renovations, AI summaries, will have to find new energy sources, or use less. Nobody is deciding what proactively, so chance will decide for us, and we'll credit or blame whoever our belief system prescribes.
 
 If our identities embraced these rules we wouldn't be using fear, echo chambers, and debt to respond to our problems. We'd investigate nature and evolve solutions. 
 
@@ -466,11 +473,11 @@ So unlike Flatland, our planet is not just a place of existence but a proving gr
 
 No 2D creature can jump off the screen, but we are not stuck in Flatland. So let's see what the gameboard of three dimensions looks like. In the next chapter, we'll find it filled with natural laws—a gameboard that emerges through life's encounter with the universe.
 
-## Chapter 3—gameboard: The Emergent Environment
+## Chapter 3—Gameboard: The Emergent Environment
 
 _Flatland_ has more lessons to give. 
 
-The book starts with a Square explaining his 2D existence to the reader. There are various houses, workplaces, and people. Everything knows each other by the number of angles they have. Having more angles brings a better job and higher social status.
+The book starts with a Square explaining his 2D existence to the reader. There are various houses, workplaces, and people. Everyone knows each other by the number of angles they have. Having more angles brings a better job and higher social status.
 
 One day a Sphere shows up.
 
@@ -480,13 +487,13 @@ So, the Sphere takes the Square to the 3D world, called Spaceland. The Square se
 
 As is so often the case, seeing is the only path to believing in Flatland.
 
-The playing surface of checkers, chess, and go is a flat two dimensional existence. These games have vast choices requiring much study to master, but each game starts exactly the same and the gameboard is easy to see and navigate in our 3D worldigate. Our gameboard is not 2D. It has hidden valleys, ocean depths, crashing earthquakes, and fog of war. There is no way to see the entire board because it is far more complex, ever-changing, and wholly unique every day.
+The playing surface of checkers, chess, and go is a flat two dimensional existence. These games have vast choices requiring much study to master, but each game starts exactly the same and the gameboard is easy to see and navigate in our 3D world. Our gameboard is not 2D. It has hidden valleys, ocean depths, crashing earthquakes, and fog of war. There is no way to see the entire board because it is far more complex, ever-changing, and wholly unique every day.
 
 The laws of physics, chemistry, geology make the stars and sunlight, hydrogen and helium, planets and volcanoes. As the rulebook makes clear, these Rules of the Game are not written down like a cookbook. Instead they are embedded in the very fabric of existence.
 
 The laws of nature are rather simple but they create endlessly complex results. The land, sea, and sky make our playing field, and the laws of nature constantly remake it.
 
-Consider our Moon—not merely a celestial object that happens to fly across our sky. It is the result of cosmic collision and gravitational interaction. Approximately 4.5 billion years ago, a Mars-sized planetary body called Theia collided with the early Earth.
+Consider our Moon—not merely a celestial object that happens to fly across our sky. It is the result of cosmic collision and gravitational interaction. According to the leading theory, about 4.5 billion years ago, a Mars-sized planetary body called Theia collided with the early Earth.
 
 The violent collision ejected massive amounts of molten rock and debris into Earth's orbit. Earth's heavier stuff like iron and gold was already nearer the core, so most of what was ejected was minerals rich in oxygen, silicon, and magnesium.
 
@@ -534,7 +541,7 @@ Simple, right?
 
 Except no driver knows what to do after a crash. So, despite authorizing tens of thousands—sometimes hundreds of thousands—of dollars per day, getting the information we need for three seemingly easy questions was chaotic.
 
-There was no standard process. No production line. No patience. The answers arrived in a constant, random stream of intermixed calls, emails, voicemails. And people don't want to be at fault and they really need their cares, so emotions are high.
+There was no standard process. No production line. No patience. The answers arrived in a constant, random stream of intermixed calls, emails, voicemails. And people don't want to be at fault and they really need their cars, so emotions are high.
 
 "Why am I at fault?"
 _Because you hit a freaking tree!_
@@ -568,7 +575,7 @@ Sometimes people call from the crash scene. Sometimes they disappear for weeks. 
 
 - Day 23, Insured leaves voicemail. “Why am I 50% at fault? And, I need a rental extension.”
 
-- Day 24, Another adjuster gives the extension and sends the file to payment processing. I hope the insured didn't use up too much time on the fault determination.
+- Day 24, Another adjuster gives the extension and sends the file to payment processing. I hope the insured didn't use up too much time arguing the fault determination.
 
 A few months in, I finally felt like I was getting the hang of it. One day, I answered eight calls from the call-in queue. All eight went to payment—fully processed, fault, repair shops confirmed, tows arranged. I was so proud of myself. _I'm getting this. I got this. Let's go!_
 
@@ -578,7 +585,7 @@ Then I got an email from a manager:
 
 I was learning there was a difference between doing the job and meeting targets. I needed to use my time differently. The mayhem was yet to really set in.
 
-## Chapter 4—sandclock: The Ever-Present Timer
+## Chapter 4—Sandclock: The Ever-Present Timer
 
 You fold the gameboard and put it back in the box. Air rushes up as it settles. You know it's just displaced air, but for a second it feels like the board came to life.
 
@@ -602,15 +609,15 @@ In a way, entropy is the other half of the universe's accounting of energy. If w
 
 To see what those odds do to a whole planet, compare these two.
 
-Earth and Mars were once about the same. Their cores were hot magma. They had protective magnetospheres. Their atmospheres were thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike some planets Mars and Earth were far from bland or boring. Each had the energy to organize objects into cool physical, chemical and geological features like mountains, lakes, and atmosphere. The forces of nature created two relatively similar planets.
+Earth and Mars were once about the same. Their cores were molten. They had protective magnetospheres. Their atmospheres were thick with gases. Liquid water flowed in rivers as volcanoes shaped the landscape. Unlike some planets Mars and Earth were far from bland or boring. Each had the energy to organize objects into cool physical, chemical and geological features like mountains, lakes, and atmosphere. The forces of nature created two relatively similar planets.
 
 But entropy is always there, so it went to work on both.
 
-On the surface, freezing water and windstorms wear down mountains, and sunlight dries up wetlands. Deep below, the core slowly loses its heat, and its molten metal eventually stops churning. Once it cools enough, the planet's magnetic shield fails, and the solar wind strips away its atmosphere. All of this turns a planet still and motionless, like Mars today. The Red Planet is much smaller than Earth, so its core cooled faster, its shield failed many eons ago, and its atmosphere was all but washed away. There is little to no volcanic eruptions because there is not enough heat in the core to build up the energy for it.
+On the surface, freezing water and windstorms wear down mountains, and sunlight dries up wetlands. Deep below, the core slowly loses its heat, and its molten metal eventually stops churning. Once it cools enough, the planet's magnetic shield fails, and the solar wind strips away its atmosphere. All of this turns a planet still and motionless, like Mars today. The Red Planet is much smaller than Earth, so its core cooled faster, its shield failed many eons ago, and its atmosphere was all but washed away. There are little to no volcanic eruptions because there is not enough heat in the core to build up the energy for it.
 
-Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot, so it gives us the heat and magnetic protection from the Sun's damaging charged particles. Billions of years from now, the heat will run out, the magnetosphere will die, and the natural forces via wind, rust, and radiation will grind it down. Earth will be lifeless and dull once again.
+Mars shows a world of increasing uniformity and less organization. But Earth still has much of everything because our core is still very hot, so it gives us the heat and magnetic protection from the Sun's damaging charged particles. Billions of years from now, the heat will run out, the magnetosphere will die, and the natural forces via wind, rust, and radiation will grind it down. Long before that, and a billion years from now, the Sun's rising brightness will make Earth unlivable anyway.
 
-And, neither will ever return to their former glory.
+The point is, neither Mars nor Earth will ever return to its former glory.
 
 That is why entropy is often associated with the arrow of time. Events in the universe can only happen once. Meaning a volcano's explosive eruption will never spontaneously reverse itself, the same way a pot of coffee will never un-mix to its original milk, bean, and sugar parts.
 
@@ -630,13 +637,13 @@ The game clock runs on every arrangement we build. A coal town is a town because
 
 None of these were destroyed in an attack. The energy holding them together either ran out, like a star, or found an easier path, like lava finding a new vent.
 
-Remember the question we started with: who is our common true enemy? Not the other party, the other job, or the other side. It's the sandclock. Entropy is the one law of nature that puts a timer on everything we build and everyone we love. It can never be reset or sped up. It's what gives our choice its consequence.
+Remember the question we started with: who is our common true enemy? Not the other party, the other job, or the other side. It's the sandclock. Entropy is the one law of nature that puts a timer on everything we build and everyone we love. It can never be argued with. It's what gives our choice its consequence.
 
 That clock is running on your arrangement too. So run the test. What does it cost in energy to keep your lifestyle running: the roadways, the car, the commute, the office, the house? And what would it cost something else, perhaps AI, or something else entirely, to do the same job?
 
-You don't need a prediction. You need the number: the energy it takes to build, run, and repair each arrangement. How much energy does a day of driving to the office burn, compared with the other options? Will today's power-hungry AI take your job? What if it follows the same efficiency gains that moved computers onto desks, then laps, and finally into pockets?
+You don't need a prediction. You need the number: the energy it takes to build, run, and repair each arrangement. How much energy does a day of driving to the office burn, compared with the other options? Add up one month: gas, electricity, heating, transit fares. That's a first rough count of what your arrangement costs to keep running. Businesses take inventory of their equipment and track its lifespan and value. Homeowners don't do it often enough, and workers rarely do it for the skills and tools their paycheck depends on.
 
-Nature runs the same test. Which tree gets the sunlight? Which lion pride raises more cubs? The answer is always a number, perhaps explained by happenstance, environment, culture, or money, but measured in energy—a fundamental every lifeform must answer to.
+So, will today's power-hungry AI take your job? Compare what it costs AI to do your work with what it costs you, and you'll get a clearer answer than hope or fear can give you, especially since AI chips may well follow the same efficiency gains that moved massive computers onto desks, then laps, and finally into pockets.
 
 Unlike in chess, our board is always changing under our feet. Time itself is a constraint: organized structures—volcanoes, sandcastles, pyramids, tanks of gas—disperse unless energy is invested to maintain them. We can emulate this game clock with sandclocks or timepieces. Each tells us how much time we have before entropy disperses the order if no work is done to maintain it.
 
@@ -654,7 +661,7 @@ Done with the clock, you set it aside on top of the gameboard and rulebook. Now 
 
 First let's go back and emphasize something very important.
 
-Most people know Albert Einstein's work E = mc². This revolutionary equation says "Energy equals mass times the speed of light squared", which when doing the math means even a small amount of matter (mass) stores an enormous amount of energy. More importantly, this equation says in the right circumstance (like inside stars), matter and energy can be converted into each other.
+Most people know Albert Einstein's equation E = mc². This revolutionary equation says "Energy equals mass times the speed of light squared", which when doing the math means even a small amount of matter (mass) stores an enormous amount of energy. More importantly, this equation says in the right circumstance (like inside stars), matter and energy can be converted into each other.
 
 Scientifically there is no direct link between entropy and Einstein's equation, but noting mass and energy equivalency helps us understand a crucial point. As entropy degrades objects into uniformity, energy is never created or destroyed, but just moved around into different states of radiation (light) or matter.
 
@@ -706,11 +713,11 @@ Ancient Earth had many hydrothermal vents, which scientists suspect fueled and f
 
 For billions of years these primitive creatures replicated, spread out, and kept going.
 
-One group of these prokaryotes, cyanobacteria, invented the kind of photosynthesis that releases oxygen. When turning sunlight into food they produced massive amounts of atmospheric oxygen. This gradually transformed the environment in the Great Oxidation Event, and killed much of life on Earth because it was not used to so much oxygen in the atmosphere.
+One group of these prokaryotes, cyanobacteria, invented the kind of photosynthesis that releases oxygen. When turning sunlight into food they produced massive amounts of atmospheric oxygen. This gradually transformed the environment in the Great Oxidation Event, and likely killed much of life on Earth because it was not used to so much oxygen in the atmosphere.
 
 Although many lifeforms died, life got a massive amount of fuel. We take oxygen for granted today, but it supercharges metabolism, letting cells pull far more energy from their food. Filling the air with oxygen changed the planet for good, and eventually made room for eukaryotic cells. These cells contained a nucleus and more sophisticated structures, a significant leap in biological complexity.
 
-Notice what happened. Oxygen was waste, and then it was fuel. Life never removes anything from the universe, because matter and energy can't be destroyed. Life can only put matter to use, or leave it as waste nothing living can use. Turn more matter into life, and the playing field grows. Leave more as waste, and it shrinks.
+Notice what happened. Oxygen was waste, and then it became the key to fueling life. Life never removes anything from the universe, because matter and energy can't be destroyed. Life can only put matter to use, or leave it as waste nothing living can use. Turn more matter into life, and the playing field grows. Leave more as waste, and it shrinks.
 
 And the modeling clay kept growing.
 
@@ -718,7 +725,7 @@ Life got ever more complicated. Over eons, individual cells began cooperating in
 
 As lifeforms kept adding cell specialization, they became more complex and developed the ability to perform more advanced functions. With more power, these organisms found new ways to postpone entropy's disordering.
 
-The Ediacaran Period (635-541 million years ago) marked the emergence of the first complex, soft-bodied organisms. Life was no longer like simple bacteria, but becoming more like animals, featuring basic body plans and the ability to interact with their environment with cells that could detect light, the precursor to our modern eyes. These creatures, like the disc-shaped Dickinsonia, represented huge jumps in multicellular life and body complexity.
+The Ediacaran Period (635-541 million years ago) marked the emergence of the first complex, soft-bodied organisms. Life was no longer like simple bacteria, but becoming more like animals, featuring basic body plans and the ability to interact with their environment with cells that could detect light, the likely precursor to our modern eyes. These creatures, like the disc-shaped Dickinsonia, represented huge jumps in multicellular life and body complexity.
 
 With the modeling clay self-replicating into more complex lifeforms the stage was set.
 
@@ -812,19 +819,19 @@ Still, what's left is enough to fill every role and fund the next generation. Ec
 
 By harvesting the same limited energy over and over, the creatures of an ecosystem end up bound together—not as a team with a shared goal, but as players stuck on the same board with the same seasonal weather changes, water levels, temperature, sunlight, and geological features. Because each member must find untapped energy, they continually increase the conversion of useless matter into useful biomass, making an ecosystem an expansive force. 
 
-That distinction matters. Remember the _Jumanji_ movies: strangers pulled into a board game, each with a different skill—strength, speed, map-reading—who survive only by pooling those skills against the game itself. They are not a team by choicie but of necessity. Life has a arrangement like that too, and its enemy is entropy: every living thing, everywhere, is fighting the same slow pull toward cold and stillness. Against *that*, all living things harvest energy just to hold themselves together. Not figuratively. Stop, and the atoms go their separate ways.
+That distinction matters. Remember the _Jumanji_ movies: strangers pulled into a board game, each with a different skill—strength, speed, map-reading—who survive only by pooling those skills against the game itself. They are not a team by choice but of necessity. Life has an arrangement like that too, and its enemy is entropy: every living thing, everywhere, is fighting the same slow pull toward cold and stillness. Against *that*, all living things harvest energy just to hold themselves together. Not figuratively. Stop, and the atoms go their separate ways.
 
-But against each other, the players are rivals. A polar bear and a seal aren't teammates—they want opposite things. They are **boardmates**: creatures whose games are tangled because they're playing the same board. The seal and the bear. The virus and your cough. The DVD and the streaming box. Individually, they have no shared purpose, but when they share a gameboard they make a sustainable ecosystem.
+But against each other, the players are rivals. A polar bear and a seal aren't teammates—they want opposite things. They are **boardmates**: creatures whose games are tangled because they're playing the same board. The seal and the bear. The virus and your cough. The TV and the streaming box. Individually, they have no shared purpose, but when they share a gameboard they make a sustainable ecosystem.
 
-<!-- give and take in everything that we do. a boardmate is someone who does both naturally. an outsider is someone who doesn't either through intent or ignorance -->
+Rivals or not, boardmates keep each other's energy flowing and the torch of life lit. The oak feeds the squirrel acorns, and the squirrel plants the next generation of oaks. The robin nests in the oak's branches and eats the caterpillars chewing its leaves. A raccoon, an oak, and a restaurant are different. The raccoon sleeps in the oak and eats from the restaurant's dumpster, but gives nothing back to either. The restaurant even pays to keep it out.
 
-Put simply: every lifeform is doing as little as it can while still getting the job done. Not from laziness of character, but because energy is scarce and whatever is saved goes to growth, defense, or offspring. And when organisms get more out of the same budget, the ecosystem supports more life on the same sunlight.
+In a healthy ecosystem, every lifeform is doing as little as it can while still getting the job done. Not from laziness of character, but because energy is scarce and whatever is saved goes to growth, defense, or offspring. And when organisms get more out of the same budget, the ecosystem supports more life on the same sunlight.
 
 Evolution keeps finding players that do more with less: aerodynamic birds, streamlined fish, hopping kangaroos, shaggy bison. And boardmates, while always competing at the edges, also reciprocate, on purpose or not. None can remove the others entirely, because no lifeform can run an ecosystem alone.
 
 When every role is just barely paying its own way, the board is in equilibrium.
 
-A flower feeding a bee is an obvious example of boardmates reciprocating, but for a non-obvious example, take your virus. It wants exactly what you want: another turn. In civilization we support the sick with extra food, rest, and medicine. But in the wild, germs press hardest on bodies already running low. A deer too underfed to fight off an autumn infection was unlikely to survive winter, and its share of food will now go to the herd. Germs also hit whatever is most common, keeping populations mixed. Nobody arranged it, but testers keep the herd within its budget and varied enough for the next change.
+A flower feeding a bee is an obvious example of boardmates reciprocating, but for a non-obvious example, take your virus. It works for the reason you do: do earn another turn. In civilization we support the sick with extra food, rest, and medicine. But in the wild, germs press hardest on bodies already running low. A deer too underfed to fight off an autumn infection was unlikely to survive winter, and its share of food will now go to the herd. Germs also hit whatever is most common, keeping populations mixed. Nobody arranged it, but testers keep the herd within its budget and varied enough for the next change.
 
 The polar bear is the same truth from the other side. She takes every seal she can catch—there's no restraint in her. But she *can't* take them all, and that isn't luck. She and the seal have shaped each other for hundreds of thousands of years, her speed against its escape, until neither can win outright. Neither limit is a choice; they're an adaptation of bear and seal being near equilibrium. The proof is the penguin—drop that same bear on an Antarctic shore and she very likely kills until nothing's left, because nothing there was ever shaped by her. Even though they are playing the same game against entropy, a seal is a boardmate, a penguin is not. 
 
@@ -846,15 +853,17 @@ The whole game is about scoring points: offspring who stand a good chance of hav
 
 Now that you know how the rulebook, gameboard, sandclock, modeling clay, and scoreboard work together—let's play.
 
-Not this game, though. Its sequel. Let's play the Game of Technological Life. Let's play techvolution.
+Now you know how the rulebook, gameboard, sandclock, clay, and scoreboard work together. But one piece is still in the box: the booklet. You hold it and realize there's more inside and then realize it's pages are entirely blank.
+
+Why is it blank?
 
 ## Story—The Bell
 
 Most people assume insurance adjusters succeed by underpaying claims. Lowball, short-change, screw people over—that's what the public thinks.
 
-In car insurance claims, at least, we routinely overpaid. Not out of generosity, but desperation.
+In car insurance claims, during my time at least, we routinely overpaid. Not out of generosity, but desperation.
 
-From my experience, here's why: where I was, we were barely measured on payment accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew (and were reminded) that an unhappy broker could send customers to other companies.
+From my experience, here's why: where I was, we were not much measured on payment accuracy or customer satisfaction. But we were exactly measured on inbound caller hold time. Head office promised insurance brokers that customers wouldn't wait longer than 30 seconds—it makes for a great selling point. Brokers make commission on sales, not claims, so they just wanted their customers to be served promptly when making a claim. Importantly, we always knew (and were reminded) that an unhappy broker could send customers to other companies.
 
 So the inbound caller hold time became everything. 
 
@@ -862,13 +871,13 @@ To monitor it, the call-in queue was displayed on monitors for everyone to see. 
 
 When the bell rang too long, the public screen would go red. Then a manager would direct message: "ANSWER THE QUEUE." If that didn't work, they'd force calls through to us without warning—sometimes hanging up on whoever you were already helping.
 
-We had a lot of other work to do. Emails from waiting customers, calling police departments for investigations, making outbound calls to repair or rental stores. But none of that was tracked nearly as much. Just the bell.
+We had a lot of other work to do. Emails from waiting customers, calling police departments for investigations, making outbound calls to repair and rental stores. But none of that was tracked nearly as much. Just the bell.
 
-Under that much time pressure, we adapted. Some worked on weekends. Others were very curt to customers. Some adjusters took the customer's word and didn't investigate fault. But the easiest time-saver was, as our managers would often say when money was the dispute, _"Just pay it"_.
+Under that much time pressure, we adapted. Some worked on weekends. Others were very curt to customers. Some adjusters took the customer's word and didn't investigate fault. But the easiest time-saver was, as our managers would often say when money was reassonaly justifiable during a dispute, _"Just pay it"_.
 
 Anything to stop the bell.
 
-Adjusters' (and managers') personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away (medical histories are private, so I don't know why exactly, but it happened several times). I had to massage my jaw on the drive home from stuttering through so many rushed conversations.
+Adjusters' (and managers') personalities adapted too. Many became irritable, even withdrawn (usually those who tried to follow the rules exactly). Paramedics even visited a few times to cart coworkers away (medical histories are private, so I don't know why exactly). I had to massage my jaw on the drive home from stuttering through so many rushed conversations.
 
 We were often more stressed than the people who'd just been in crashes.
 
@@ -876,7 +885,7 @@ All because someone in head office—who'd never done our job—made a promise a
 
 Fittingly, the company got what they measured: fast answer rates.
 
-They also got inflated claims, burned-out adjusters, higher insurance rates, and a system that rewarded speed over truth.
+They also got inflated claims, burned-out adjusters, higher claim payments, and a system that rewarded speed over quality.
 
 One more claim down. One less caller to make that freaking bell ring.
 
@@ -888,7 +897,7 @@ You can't wait. But how do you play? Where do you even start?
 
 Are there dice? There are no dice to tell players how far to move. Where's the starting point? There is no starting point either. Really? You flip the box over and around. How does anyone play this game?
 
-You look over all the items again. There's the rulebook, gameboard, sandclock, clay. What about that booklet, it was all blank pages when you first checked it. Maybe you missed something.
+You look over all the items again. There's the rulebook, gameboard, sandclock, clay. What about that booklet? It was all blank pages when you first checked it. Maybe you missed something.
 
 You flip through it slowly. Every page is blank. There aren't even any titles or lines. Just a lot of empty pages. At the end there are sticky notes, a pencil, and an eraser.
 
@@ -914,7 +923,13 @@ _What are my instincts? What are my plays? I can learn more of course. Chess has
 
 _There's nothing special about it. It's not the playbook, it's a playbook. Like clay, it can be added to or cut back, and each play has advantages and disadvantages depending on the environment. How do I learn what to write? How do I learn what to erase?_
 
-_Let's get this dog home and fed. It's time we play this game._
+<!-- teaches Sparky new tricks...learns to relearn... -->
+
+You have a blank booklet too. You've encountered lessons like thinking of a person's tool problems and needs and how much our tools need to maintain and repair, and perhaps most important life needs mass-production and diversity to succeed.
+
+lWhile we but don't often record and to remember our successes or failures. Nature always does. Just be sure to write in pencil so you can use the eraser whenever habits and knowledge fail and need to be replaced.
+
+_Now, let's get this dog home and fed. It's time we play this game._
 
 ## Chapter 8—What Does the Game of Life Teach Us?
 
@@ -924,17 +939,17 @@ Will AI take your job?
 
 First, do we even know what our job is? We know the labels: tool man, distribution manager, executive, employee.
 
-But natural selection can't speak English and will never try to. Accolades can't impress, pleas go unheard, lawsuits are ignored. The coach only sees what keeps our atoms together and our kids coming: energy, harvested somewhere along the energy flow of food, shelter, and other adaptations, before entropy carries it off. For you, me, wolves, squirrels, and raccoons, that's the job underneath every label, from producer to decomposser, hunter-gatherer and explorer to farmer, teacher, and king.
+But natural selection can't speak English and will never try to. Accolades can't impress, pleas go unheard, lawsuits are ignored. The coach only sees what keeps our atoms together and our kids coming: energy, harvested somewhere along the energy flow of food, shelter, and other adaptations, before entropy carries it off. For you, me, wolves, squirrels, and raccoons, that's the job underneath every label, from producer to decomposer, hunter-gatherer and explorer to farmer, teacher, and king.
 
-That's what happened to Maria. DVDs by mail and streaming shared the board for years. Digital video dics of course used digital technology, as did her company logistics system, customer website, and more. And when disc content went online, streaming users found a shorter route to a movie tonight, with no drive, no late fee, no store, and no distribution center. Something was lost: the video store was a cool gathering place. But far more work was saved. And because energy is limited the Game of Life scores points for whichever new form finds untapped energy, whether in genes, behavior, or tools.
+That's what happened to Maria. DVDs by mail, stores, and streaming shared the board for years. Digital Video Discs of course used digital technology, as did her company logistics system, customer website, and more. And when disc content went online, streaming users found a shorter route to a movie tonight, with no drive, no late fee, no store, and no distribution center. Something was lost: the video store was a cool gathering place. But far more work was saved. And because energy is limited the Game of Life scores points for whichever new form finds untapped energy, whether in genes, behavior, or tools.
 
 In hindsight, the winning adaptation is often obvious. The hard part is seeing it ahead of time, and embracing it, instead of slapping a label on the change and calling it wrong to keep our own self-identity alive.
 
 But labels can't stop the game. There are a million names for the rulebook's laws, the gameboard's changing environment, the sandclock's rising disorder, the modeling clay's many forms, and the coach's natural selection. We can use labels to help us, like any other adaptation, but none of them change the rules.
 
-So to answer whether AI will take your job, we have to look past the labels to the practical truth: which tools your job runs on, and where it sits in the energy flow of our technological ecosystem.
+So to answer whether AI will take your job, we have to look past the labels to the practical truth. Which tools does your job run on? Where does it sit in the energy flow of our technological ecosystem?
 
-Before we can answer it (in a later chapter), there's something to say about the Game of Life itself.
+Before we can put the answers in your booklet (in a later chapter), there's something to say about the Game of Life itself.
 
 The Game of Life is a fairly accurate way to describe life on Earth, but it's a metaphor, and specialists could pick at it. Entropy is more complex than “things fall apart,” and the everyday versions of nature's laws break down at extremes, near black holes or close to light speed, where physicists need relativity and quantum mechanics to predict outcomes. But those extremes rarely touch our lives, and none of it changes entropy's overwhelming pull: order breaks down, energy spreads out. For everyday life, the rulebook to the Game of Life holds true.
 
@@ -1062,11 +1077,11 @@ Each of these biological adaptations got more pronounced over time because they 
 
 Using fossils and DNA, we can track our biological evolution.
 
-The earliest fossils in our own genus, _Homo_ (Latin for human), are about 2.8 million years old, from Ethiopia. Thereafter, we evolved into several known groups, including _Homo erectus_, _Denisovans_, _Neanderthals_, and us, _Homo sapiens_, and the list grows as more fossil and DNA evidence is discovered.
+The earliest fossils in our own genus, _Homo_ (Latin for human), are about 2.8 million years old, from Ethiopia. Thereafter, we evolved into several known groups, including _Homo erectus_, Denisovans, Neanderthals, and us, _Homo sapiens_, and the list grows as more fossil and DNA evidence is discovered.
 
 With distance running, sweat, speech, and thumbs, humans got many points in the Game of Life. Every new generation could better hold spears and organize ourselves to reliably chase, exhaust, kill, and defend protein rich food no ape ever could. We learned to crave sugar for the rare energy boosts it gave, but being omnivorous, could gather something to eat year round; especially because we learned to use rocks and sticks to dig up, open, or grind an increasingly large menu of calorie dense roots, nuts, and seeds.
 
-All these adaptations opened up new opportunities on the gameboard. Every new food source, water hole, cave home was as important supply chain. Growing the abililty to talk and communicate its details provided an advantage. Crucially, this included the value of charred meat, likely learned from scavenging food after brush fires. Perhaps as long as 1.8 million years go, but at least 1 million years ago, humans started our own fires to cook, and therefore predigest, our food.
+All these adaptations opened up new opportunities on the gameboard. Every new food source, water hole, cave home was an important link in the supply chain. Growing the ability to talk and communicate its details provided an advantage. Crucially, this included the value of charred meat, likely learned from scavenging food after brush fires. Perhaps as long as 1.8 million years ago, but at least 1 million years ago, humans started our own fires to cook, and therefore predigest, our food.
 
 Fire, of course, was pivotal to technology. Just as plants use sunlight to rearrange matter into life, fire rearranges matter into ceramics, bronze, and iron. And the two are more closely linked than they look. The sun's heat comes from nuclear fusion; a volcano's, from leftover heat and radioactive decay. Fire is different. It's chemical, and it needs two things only life provides. The first is oxygen, released into the air by cyanobacteria and plants. The second is fuel: the stored sunlight in wood, coal, and gas. Even much of our iron ore formed when early oxygen reacted with iron dissolved in the oceans, settling as rusty layers on the seafloor. And cement is made largely from limestone, the compressed remains of ancient sea creatures. In so many ways, technology is the offspring of biology.
 
@@ -1090,7 +1105,7 @@ Our creative minds do not automatically know that, but as the Weismann barrier s
 
 Any identity that ignores our past is artificial, and leads to a dead end.
 
-We've already met two such attempts, the communist and fascist ideologies that scarred human history so badly. Among their many errors, one proclaimed humans naturally selfless unless tainted with a corrupted class history, condemning untold millions to mass purges. Legendary biologist and ant specialist E.O. Wilson summed it up: "Wonderful theory, wrong species." Selfless obedience is fundamental way how ants behave, not hominids.
+We've already met two such attempts, the communist and fascist ideologies that scarred human history so badly. Among their many errors, one proclaimed humans naturally selfless unless tainted with a corrupted class history, condemning untold millions to mass purges. Legendary biologist and ant specialist E.O. Wilson summed it up: "Wonderful theory, wrong species." Selfless obedience is fundamentally how ants behave, not hominids.
 
 The other said "blood" should inspire ancient tribal loyalties throughout millions of strangers. Cohesion required "purity" and therefore justified dooming all outsiders and told long-time friends, colleagues, and neighbors to learn to hate someone. This is how small-band tribal humans lived, not humans whose technological ecosystem connects them with millions of strangers daily. It was also a belief that mistook the blueprint for the building. Every lifeform is changed and molded by its upbringing and environment and every lifeform needs good boardmates, whatever their blood.
 
@@ -1153,9 +1168,9 @@ _Guardrail damage: perhaps $10,000_
 _Estimated total: $63,000._
 _I'll reserve $70,000 because there'll be repair parts delays on the German car, and slow processing will add extra rental days._
 
-Every insurance claim dollar paid out requires about $1.50 in premiums. Covering this crash is roughly $100,000. Never mind the traffic delays, injuries, and other costs. Eight to twelve more claims today.
+Every insurance claim dollar paid out requires more in premiums. Covering this crash is roughly $100,000. Never mind the traffic delays, injuries, and other costs. Eight to twelve more claims today.
 
-There are still several angry voicemails, repeated emails, and lies told to my manager about bad customer service to justify more money. There's only so much one person can take, especially since we couldn't call the bullies out. Overpaying eventually became a release button pressed too often.
+There are still several angry voicemails, repeated emails, and complaints told to my manager to justify more money. There's only so much one person can take, especially since we couldn't call the bullies out. Trying harder, stressing out, and overpaying eventually became a release button pressed too often.
 
 Because, you know...
 
@@ -1173,7 +1188,7 @@ Using our bodies and minds to create new technology is what motivates our souls.
 
 That's why no human population is biologically locked out of learning any tool. The fundamentals of tool use are open to every human, everywhere.
 
-This shared drive to create new technology starts off with our shared history. _Neanderthals_ were mostly in Europe, _Denisovans_ in East and South East Asia, _Homo sapiens_ evolved in the huge landmass below the Saharan desert, somewhere in East Africa. The place was full of water and wildlife and so capable of feeding early humans year round. With a healthy carrying capacity, lots of tribes could live, and the huge geography made it harder for migration interactions to blend groups.
+This shared drive to create new technology starts off with our shared history. Neanderthals were mostly in Europe, Denisovans in East and South East Asia, _Homo sapiens_ evolved in the huge landmass below the Saharan desert, somewhere in East Africa. The place was full of water and wildlife and so capable of feeding early humans year round. With a healthy carrying capacity, lots of tribes could live, and the huge geography made it harder for migration interactions to blend groups.
 
 Geographers call this the friction of distance. It's important because relative tribe isolation allowed many adaptations a chance to offer themselves to the coach's selection. The legacy of this time period lives on today; there is still more genetic diversity in sub-Saharan Africa than in the rest of the entire world.
 
@@ -1457,7 +1472,7 @@ One unnamed French officer summed up the trauma with a postcard. It was addresse
 
 The Nazis had just beaten an enemy who refused to adapt. The Allies not only originated combined arms warfare, they watched Germany train it, publish books about it, and watched it work so well against Poland, Denmark, and Norway. And they still didn't change their war plans. The military leaders had the order backwards. They assumed leaders are the most qualified to assess the environment. Instead, it's the best at assessing the environment who should be the leaders because that's what defines a successful species in the Game of Life. This is poor artificial selection at work. The Allies promoted officers who fit the story of the last war, not the board in front of them. 
 
-And, here is the point so important to us, almost right away the Nazis made the same mistake, and their inherent extremism had them inevitably make this mistake. Despite matching better tactics to the environment in WWII, and getting the victory it they so wanted in World War I (they even signed the 1940 armistice in the same train car as in 1918, going so far to return it to the same spot), they decided to keep fighting. They didn’t assess their new environment, instead they thought genetically superior leaders didn’t need to.
+And, here is the point so important to us, almost right away the Nazis made the same mistake, and their inherent extremism had them inevitably make this mistake. Despite matching better tactics to the environment in WWII, and getting the victory it they so wanted in World War I (they even signed the 1940 armistice in the same train car as in 1918, going so far to return it to the same spot), they decided to keep fighting. They didn't assess their new environment, instead they thought genetically superior leaders didn't need to.
 
 The Nazis read their early wins as proof of their ideology. The fact anyone can and did emulate their tools and tactics passed them by. Blitzkrieg wasn't even all that original. Two military historians, David G. Chandler and John Keegan, explained Napoleon's 19th century warfare tactics as "Napoleonic Blitzkrieg". Like Monash a century later, Napoleon was a mathematically gifted organizer who won his vicotires by concentrating superior force at the "decisive point," as the military theorist Jomini described. Instead of planes and tanks, he did it with army corps, mobile artillery, and an unmatched ability to move and supply large armies.
 
@@ -1497,7 +1512,7 @@ As their conquests were liberated one by one, nothing changed, even at the end. 
 
 After six years of war, the Allies and the Soviets met over the ruins of Germany and divided Europe between them. One extreme was gone. The other had just been handed half a continent. Extremism of the genotype had failed, and now we get to see how extremism of the phenotype is no better.
 
-After Stalin’s death in 1953 the Soviet Union began to moderate its extreme policies. Soon, the country's generals, leaders, and people no longer feared mass executions or famines. But the country could never moderate its core belief: that properly trained persons are selfless, and therefore personal ambition is always bad.
+After Stalin's death in 1953 the Soviet Union began to moderate its extreme policies. Soon, the country's generals, leaders, and people no longer feared mass executions or famines. But the country could never moderate its core belief: that properly trained persons are selfless, and therefore personal ambition is always bad.
 
 There were technological triumphs for the Soviets to celebrate. To America's great surprise, they launched Sputnik, the world's first satellite (1957), then achieved more breakthroughs with the first experimental fusion reactors (1958) and sending probes to Venus (1966-1983). But Soviet progress stalled for the same reason a Soviet biologist could not study genetic theory. The state had to police each person's thoughts and actions, and therefore controlled the laboratories, the military, and everything else.
 
@@ -1710,7 +1725,7 @@ When we became self-aware, peoples across the globe had to explain it. We used s
 
 Soon, some people tried to move beyond our perceptions and find the rules that governed our world. Aristotle was among them, and he used philosophy to explain many things, among them why some things fall, others float, and what the stars are. He said things have a natural place, and thus heavier things like soil and rock fall down, while lighter things like fire and air rise up. Earth was thus the center of the cosmos, with lighter things moving around it.
 
-Aristotle’s geocentric view won out. It out-competed the heliocentric system of Aristarchus, which couldn't explain why, if the Earth moves, the stars never appear to shift. The geocentric Ptolemaic astronomy and star charts guided navigators on land and sea and told farmers the seasons quite well, as long as they were updated every few decades.
+Aristotle's geocentric view won out. It out-competed the heliocentric system of Aristarchus, which couldn't explain why, if the Earth moves, the stars never appear to shift. The geocentric Ptolemaic astronomy and star charts guided navigators on land and sea and told farmers the seasons quite well, as long as they were updated every few decades.
 
 Eventually a history of errors piled up and fueled questions. Copernicus found Aristarchus's forgotten heliocentric ideas and updated them with modern mathematics. Galileo used a telescope to see Jupiter's moons and proved not everything moved around the Earth. Tycho Brahe took fantastically accurate stellar records and tried to merge the two astronomies. His assistant, with bad eyesight but excellent math, Johannes Kepler did years of calculations and eventually saw something else in the data.
 
@@ -4564,7 +4579,7 @@ I learned much doing property claims too, but those years in auto claims effecti
 
 Our society has a stutter of sorts. A hungry polar bear, a thirsty tree, a scared raccoon all have one too. The environment changed and the old response no longer works. There's no shame in that. Ours is just a block in the mind. We can be honest, confront it, and cure ourselves.
  
-## Chapter 17-Epilogue
+## Chapter 17-Epilogue -  The Mutants
 
 
 video of natural selection in germs different levels of antibiotics
@@ -4594,6 +4609,8 @@ We ask immigrants and kids to change their identity. we're just doing it on a ta
 - we are out of our age, not adapted to this enviroment, technomass has grown like a forest, and there is no more mass-produced growth needed, but diversification to find all the untapped niches. not learning that leason from biology, so we are increasing inputs like soldiers in WWI, oil in Soviet, and all that jazz. this is what trees do. they keep dropping nuts even when the ice age comes because they can't their habits. we can by adopting a new identity.
 
 - ANI is meant to supercharge adoption. by making frontline, usher, projectionist, adjuster, etc. pain to light as the basis for decisions on production, consumption, predation, etc. instead of learned knowledge.
+
+- how did hollywood productions go global? do you think they mailed their daily film stocks and video effects in the mail? (chasing credits)
 
 --
 
@@ -5098,9 +5115,6 @@ College Board's "Trends in College Pricing" Average in-state tuition from ~$4,00
 
 <!-- Food price increase -->
 Stewart, Hayden, Diansheng Dong, and Charles Grigsby-Calage. "Food Price Outlook - Summary Findings." Economic Research Service, U.S. Department of Agriculture. Updated April 25, 2025. Accessed May 1, 2025. https://www.ers.usda.gov/data-products/food-price-outlook/summary-findings.
-
-
-
 
 
 <!-- Student loans -->
