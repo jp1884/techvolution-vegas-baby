@@ -6287,3 +6287,12 @@ You can think of it like this: not every plant needs to be very abundant, but ev
 
 ===
 
+Book I is less about solutions than about clearing our view. It wipes away the fog of old stories. Adopting our technological identity empowers us to veer away ideological from ideological extremes and be prepared to use science to investigate our environment, name its challenges, and seize the opportunities of civilization’s entry into the Internet Age.
+
+===
+
+**Book I—A New Identity:** We already have names for our nationality, ethnicity, job, and politics, but no name for the identity that quietly runs our lives: the tools we use to house ourselves, get around, and earn a living. Because we miss it, we blame ourselves, "the other" political party, or bad luck when the ecosystem shifts under our feet.
+
+Book I introduces the Game of Life to change how we see ourselves. Evolution never tested Maria as a distribution manager or a college graduate. It saw someone selling physical-media stories in the Internet Age. Whatever stories we tell, slow adaptations get replaced in nature and civilization. Someone who knows this can read the wind instead of cursing it, shed the aging tool, and carry their hard-won knowledge to the next adaptation. You'll learn to see past name-tags, find your energy number, and read your world as an ecosystem of tools, whether you're facing AI or whatever comes next.
+
+
