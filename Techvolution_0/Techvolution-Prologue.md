@@ -11,21 +11,21 @@
 
 ## Author's Note
 
-This book does not tell you politics and economics are getting really bad, and to fix it, here's what _someone else_ needs to change.
+This book series covers personal identity, politics, and economics. No series can answer all the questions on those subjects. But these books do offer a new perspective to build on, starting with a promise: they won't add fuel to our culture wars by telling you politics and economics are getting really bad, and to fix it, here's what _someone else_ needs to change.
 
-This book series explains why politics and economics are getting both good and bad—and how you, the reader, can avoid the extremes, and use the good to fix the bad.
+Rather, this series explains why politics and economics are getting both good and bad, and how you, the reader, can avoid the extremes and use the good to fix the bad.
 
-We already think this way in so many other areas. Musicians, athletes, and builders all know their work is imperfect. They improve by returning to the fundamentals and practicing them again and again. When a rival writes a better tune or plays a better game, they admire it and learn from it, because no one gets better by defending past songs, plays, or blueprints.
+We already think this way in so many other areas. Musicians, athletes, and builders all have strong beliefs but know their work is imperfect. They improve by returning to the fundamentals, studying and practicing them again and again. When a rival writes a better tune or plays a better game, they admire it and learn from it, because in these fields loyalty belongs to the fundamentals, not to anyone's past songs, plays, or blueprints.
 
-Politics and economics are no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game with fundamentals every living thing must play by.
+Politics and economics should be no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game with fundamentals every living thing must play by.
 
-We play that game every time we build our civilization. This book starts with what it takes to make anything at all, from a bird's nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again. That's how we put a reliable, affordable supply of food, energy, and education back in our own hands.
+We play that game every time we build our civilization. That's why this book starts by exploring what it takes to make anything at all, from a bird's nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again. That's how we put an affordable supply of food, energy, and education back in our own hands, and cool the anger dividing us.
 
 So this is a book for people in the middle: people who want things to be more rational, level-headed, and future-focused, and who are willing to adapt to improve our imperfect world.
 
 ## Giving You a Map and Compass
 
-It is 2011, and a woman named Maria has built a good life. Californian, Hispanic, college graduate, progressive, movie lover, book nerd, distribution manager—she carries all the labels we commonly use to describe a person. But none of them captures the fact that matters most to her future: high-speed internet has finally become widespread, and Maria manages distribution for a company that rents and sells Digital Video Discs (DVDs).
+It is 2011, and a woman named Maria has built a good life. Californian, Hispanic, college graduate, progressive, movie lover, book nerd, distribution manager—she carries all the labels we commonly use to describe a person. But none of them captures the fact that matters most to her future: high-speed internet has finally become widespread, and Maria manages distribution for a company that rents and sells DVDs, commonly called digital video discs.
 
 Physical media has a powerful challenger. Maria's professional networks, her hard-won expertise, her entire livelihood—all of it could lose its value. But DVD players sit in nearly every TV stand in America. Families have spent years and real money filling their home theaters with media collections. Are they really going to "stream" their beloved shows and movies from far away data centers instead?
 
@@ -73,7 +73,7 @@ When a biologist sees struggling lifeforms or an ecosystem failing, she doesn't 
 
 Evolve new species, better suited to the new environment.
 
-This book series won't hand you simple answers; I don't know your specific situation. Instead, you'll get something Maria never had: a solid understanding of what's happening to us and our environment in the young Internet Age, and the readiness to match your problems with tools that solve them.
+This book series won't hand you simple answers; only you and people around oyu don't know your specific situation. Instead, you'll get something Maria never had: a solid understanding of what's happening to us and our environment in the young Internet Age, and the readiness to match your problems with tools that solve them.
 
 Digital technology didn't just transform storytelling. With every screen, monitor, and processor, our entire planet is changing very fast. We are like trees at the start of an Ice Age, adapted for a warmer climate, but encountering a totally different one for the first time. The frustration and anger you feel, and see in others, aren't signs that the other side is broken. They're symptoms of a shared problem: we don't yet know how to read the new environment modern technology has built. But, our ancestors faced this many times, and their history guides us to what mindsets work and what don't. And happily, we can borrow from modern sciences like biology and ecology, to begin solving our problems before failure sets in.
 
@@ -87,7 +87,7 @@ Let's see how the game is played.
 
 ## Illustration
 
-**Illustration 1:** *Earth's history as a spiral, from the planet's formation to the present. Geologists name each period by the geology, environment, or life that defined it, and the spiral ends with the Holocene, about the last twelve thousand years or so.*
+**Illustration 1:** *Earth's history as a spiral, from the planet's formation to the present. Geologists name each period by the geology, environment, or life that defined it, and the spiral ends with the Holocene, about the last twelve thousand years.*
 
 **Illustration 2:** *The second spiral keeps going, through ages historians name not by lifeforms but by tools: stone, bronze, iron, and on to the Internet Age. Notice how quickly each age now gives way to the next. Techvolution treats the two as one continuous spiral, applying Darwin's principles to civilization's ages.*
 
@@ -97,13 +97,13 @@ Let's see how the game is played.
 
 ## Book Series
 
-_Techvolution: On the Origin of Technological Species_ presents a different way of understanding human civilization: the human story is driven not by our beliefs or ideologies, but by the technologies we create and use.
+_Techvolution: On the Origin of Technological Species_ presents a different way of understanding human civilization: the human story is primarily driven not by our beliefs or ideologies, but by the technologies we create and use. Our inventions take us along for a ride we don't quite appreciate yet.
 
-This isn't just theory. It's meant to build a better world because your tools will be easier to learn, changing jobs won't mean starting over, and it'll be easier to match problems at work, home, or school with a better tool. Reaching this future means transforming three connected realms: individual identity, political discourse, and economic systems.
+This isn't just theory. It's a new perspective meant to build a better world because your tools will be easier to learn, changing jobs won't mean starting over, and it'll be easier to match problems at work, home, or school with a better tool. Reaching this future means transforming three connected realms: individual identity, political discourse, and economic systems.
 
 **Book I—A New Identity:** We already have names for our nationality, ethnicity, job, and politics, but no name for the identity that quietly runs our lives: the tools we use to house ourselves, get around, and earn a living. Because we miss it, we blame ourselves, “the other” political party, or bad luck when the ecosystem shifts under our feet.
 
-Book I is less about solutions than about clearing our view, wiping away the fog of old stories that blinds us to the political compromises and economic solutions we're missing. Evolution never saw Maria as a distribution manager, only as someone selling physical media in the Internet Age. When we see that, we can understand the technological evolution driving civilization, and know where our skills and money fit as AI and whatever comes next reshape our future.
+Book I is less about solutions than about clearing our view, wiping away the fog of old stories that blinds us to the political compromises and economic solutions we could be adopting en masse. In evolutionary terms, Maria was never a distribution manager, only someone selling physical media in the Internet Age. When we identify by our toolset, we'll see that technological ecosystems have an energy flow like any other, find our roles within it, and know where our skills and money fit as AI, and whatever comes next, reshape our future.
 
 **Book II—Mixed Ideological Politics:** A heat pump doesn't know it's “green.” A diesel truck doesn't know it's “red-blooded American.” We attach such labels with stories, then reject good tools for wearing the wrong one. With our view cleared in Book I, Book II kick-starts faster problem-solving by showing us how to strip story-based identities from any tool, so we can adopt what works without feeling we've insulted or betrayed any tribe.
 
