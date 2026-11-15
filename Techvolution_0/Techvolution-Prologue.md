@@ -11,13 +11,13 @@
 
 ## Author's Note
 
-This book series covers personal identity, politics, and economics. No series can answer all the questions on those subjects. But these books do offer a new perspective to build on, starting with a promise: they won't add fuel to our culture wars by telling you politics and economics are getting really bad, and to fix it, here's what _someone else_ needs to change.
+This book series covers personal identity, politics, and economics. No series can answer all the questions those complex subjects raise. But these books do offer a new perspective to build on, and they start with a promise: they won't add fuel to our culture wars by telling you politics and economics are getting really bad, and to fix it, here's what _someone else_ needs to change.
 
 Rather, this series explains why politics and economics are getting both good and bad, and how you, the reader, can avoid the extremes and use the good to fix the bad.
 
 We already think this way in so many other areas. Musicians, athletes, and builders all have strong beliefs but know their work is imperfect. They improve by returning to the fundamentals, studying and practicing them again and again. When a rival writes a better tune or plays a better game, they admire it and learn from it, because in these fields loyalty belongs to the fundamentals, not to anyone's past songs, plays, or blueprints.
 
-Politics and economics should be no different. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game with fundamentals every living thing must play by.
+Politics and economics can work the same way. Our ideologies are past sheet music or playbooks, made for an earlier time: some brilliant, all imperfect. Underneath them is a game with fundamentals every living thing must play by.
 
 We play that game every time we build our civilization. That's why this book starts by exploring what it takes to make anything at all, from a bird's nest to a city. Then it shows how to identify yourself by those fundamentals: read the field, make your play, and when it fails, learn and try again. That's how we put an affordable supply of food, energy, and education back in our own hands, and cool the anger dividing us.
 
@@ -31,11 +31,11 @@ Physical media has a powerful challenger. Maria's professional networks, her har
 
 Yes.
 
-Where did Maria's pain come from? She started by running one store in a twenty-store rental chain. A film geek, she convinced head office that DVDs, with their better quality, clarity, and compact size, were the next big thing for their customers. Her passion won her control of the company's distribution warehouse, where her eye for a good story told her what movies should be stocked in what neighborhoods. Foot traffic surged and her company grew to thirty stores!
+Where did Maria's pain come from? She started by running one store in a twenty-store VHS video rental chain. A film geek, she convinced head office that DVDs, with their better quality, clarity, and compact size, were the next big thing for their customers. Her passion won her control of the company's distribution warehouse, where her eye for a good story told her what movies should be stocked in what neighborhoods. Foot traffic surged and her company grew to thirty stores!
 
 So why is new technology now causing her grief?
 
-Plastic storage discs were possible because of material science and laser discoveries in the 1950s and 60s. The pair wrote and read pits on plastic like letters in a book. The consumer technology was born in the 1980s from a partnership between Dutch Philips and Japanese Sony. Together, they made the Compact Disc (CD) which stored a music album of data. The DVD followed a decade later holding an entire movie. The DVD competed against the widely popular VHS video tapes. Within a few years the plastic discs were in countless stores and homes—in capitalist countries and socialist ones, secular and religious neighborhoods, red and blue legislatures. Soon, discs with far better video and audio quality—HD DVD and Blu-ray—were brought to market.
+Plastic storage discs were possible because of material science and laser discoveries in the 1950s and 60s. The pair wrote and read pits on plastic like letters in a book. The consumer technology was born in the 1980s from a partnership between Dutch Philips and Japanese Sony. Together, they made the Compact Disc (CD) which stored a music album of data. The DVD followed a decade later holding an entire movie, and soon competed against the widely the popular VHS video tape. Within a few years the plastic discs were in countless stores and homes—in capitalist countries and socialist ones, secular and religious neighborhoods, red and blue legislatures. Soon, discs with far better video and audio quality—HD DVD and Blu-ray—were brought to market.
 
 Most people ignored them. Soon after, physical media sales fell off a cliff in country after country, regardless of ideology or economic system. Reflect on this situation: when you stopped buying DVDs, did you consult your identity or belief system first?
 
@@ -57,11 +57,11 @@ More importantly, *should* it? After all, you very likely switched from movie th
 
 So will others do the same and make you today's Maria?
 
-You don't know. Like streaming before it, AI is an amazing new technology. Even after the CD, the DVD, digital cameras, air-conditioning, trains, and countless other technologies that transformed our fate, we still can't see what change AI will bring.
+You don't know. Like streaming before it, AI is an amazing new technology. But even after the CD, the DVD, digital cameras, air-conditioning, trains, and countless other technologies transformed our fate, we still can't see what change AI will bring.
 
-That ignorance should strike you as strange. In physics, we can peer billions of years into the past and take pictures of individual atoms. In medicine, we can cure terrible diseases and watch cells divide in real time. We can do so much—so how is it that we can see so little of our own futures?
+That ignorance should strike you as strange. In physics, we can peer billions of years into the past and predict where planets will be thousands of years into the future. In medicine, we can watch cells divide in real time and test if blood has enough iron to carry oxygen around a body. We can know so much in these fields—so how is it that we can see so little of our own political and economic futures?
 
-We don't even have a name for Maria's future, or yours. No label that might have told her what to expect and how to prepare.
+We don't even have a name for Maria's fate, or yours. No label that might have told her what to expect and how to prepare.
 
 And it's bigger than any one person, job, or company. Housing, healthcare, education, and childcare have consumed a growing share of the median paycheck for forty years, through boom and bust, whichever party held power. Young people have been priced out of homes, retirees worry about money, and healthcare workers are buried in paperwork.
 
@@ -69,17 +69,17 @@ Meanwhile high-speed internet, automation, and AI keep getting better. How can p
 
 We've been drowning in proposed answers, every day another ocean of speeches, articles, and posts promising the fix. We've listened, and our frustration has curdled into a growing hatred of our own countrymen. Decades of voting in new leaders and switching parties have not brought enough solutions, not because we tried too little, but because we were aiming at the wrong target.
 
-When a biologist sees struggling lifeforms or an ecosystem failing, she doesn't get angry. She returns to the fundamentals and looks for the imbalance, too much of one creature, too little of another, and works to restore it. Our society has the same kinds of problems, but we still read our politics and economics through human narratives as if past playbooks are all we need to solve the problem. To see what would have warned Maria, and us, we first have to see technology for what it is: an extension of life's natural evolution. From there, we can embrace life's game plan for prospering in an ever-changing world.
+When a biologist sees struggling lifeforms or an ecosystem failing, she doesn't get angry. She returns to the fundamentals, assesses the flow of energy, and looks for the imbalance—too much of one creature, too little of another, and then works to restore it. Our society has the same kinds of problems, but we still read our politics and economics through human narratives as if past playbooks are all we need to solve the problem. To see what would have warned Maria, and us, we first have to see technology for what it is: an extension of life's natural evolution to harvest energy. From there, we can embrace life's game plan for prospering in an ever-changing world.
 
 Evolve new species, better suited to the new environment.
 
-This book series won't hand you simple answers; only you and people around oyu don't know your specific situation. Instead, you'll get something Maria never had: a solid understanding of what's happening to us and our environment in the young Internet Age, and the readiness to match your problems with tools that solve them.
+This book series won't hand you simple answers; only you and people around you know your specific situation. Instead, you'll get something Maria never had: a solid understanding of what's happening to us and our environment in the young Internet Age, and the readiness to match your problems with tools that solve them.
 
-Digital technology didn't just transform storytelling. With every screen, monitor, and processor, our entire planet is changing very fast. We are like trees at the start of an Ice Age, adapted for a warmer climate, but encountering a totally different one for the first time. The frustration and anger you feel, and see in others, aren't signs that the other side is broken. They're symptoms of a shared problem: we don't yet know how to read the new environment modern technology has built. But, our ancestors faced this many times, and their history guides us to what mindsets work and what don't. And happily, we can borrow from modern sciences like biology and ecology, to begin solving our problems before failure sets in.
+Digital technology didn't just transform storytelling. With every screen, monitor, and processor, our entire planet is changing very fast. We are like trees at the start of an Ice Age, adapted for a certain climate, but now encountering a totally different one for the first time. The frustration and anger you feel, and see in others, aren't signs that the other side is broken. They're symptoms of a shared problem: we don't yet know how to read the new environment modern technology has built. But, our ancestors faced this many times, and their history guides us to what mindsets work and what don't. And happily, we can borrow from modern sciences like biology and ecology, to begin solving our problems before failure sets in.
 
 Maria didn't need a prophecy. She needed a map of the game she was playing, and a compass to tell her which way the board was moving.
 
-That's what this book gives you. The map is the Game of Life: the rulebook, the gameboard, the sandclock, and the players who do their best to score enough points to stay in the game. The compass is a new identity: knowing your role and place in the ecosystem, so you can feel the ground shift and know which way to step.
+That's what this book's new perspective gives you. The map is the Game of Life: the rulebook, the gameboard, the sandclock, and the players who do their best to score enough points to stay in the game. The compass is a new identity: knowing your role and place in the ecosystem, so you can feel the ground shift and know which way to step.
 
 And the name for what happened to Maria, and what's happening to all of us, is techvolution.
 
@@ -99,11 +99,11 @@ Let's see how the game is played.
 
 _Techvolution: On the Origin of Technological Species_ presents a different way of understanding human civilization: the human story is primarily driven not by our beliefs or ideologies, but by the technologies we create and use. Our inventions take us along for a ride we don't quite appreciate yet.
 
-This isn't just theory. It's a new perspective meant to build a better world because your tools will be easier to learn, changing jobs won't mean starting over, and it'll be easier to match problems at work, home, or school with a better tool. Reaching this future means transforming three connected realms: individual identity, political discourse, and economic systems.
+This isn't just theory. It's a new perspective meant to build a better world, one where your tools will be easier to learn, changing jobs won't mean starting over, and matching problems at work, home, or school with a better tool is far simpler. Reaching this future means updating three connected realms: individual identity, political discourse, and economic systems.
 
 **Book I—A New Identity:** We already have names for our nationality, ethnicity, job, and politics, but no name for the identity that quietly runs our lives: the tools we use to house ourselves, get around, and earn a living. Because we miss it, we blame ourselves, “the other” political party, or bad luck when the ecosystem shifts under our feet.
 
-Book I is less about solutions than about clearing our view, wiping away the fog of old stories that blinds us to the political compromises and economic solutions we could be adopting en masse. In evolutionary terms, Maria was never a distribution manager, only someone selling physical media in the Internet Age. When we identify by our toolset, we'll see that technological ecosystems have an energy flow like any other, find our roles within it, and know where our skills and money fit as AI, and whatever comes next, reshape our future.
+Book I is less about solutions than about clearing our view, wiping away the fog of old stories that blinds us to the political compromises and economic fixes we could be adopting en masse. In evolutionary terms, Maria was never a distribution manager, only someone selling physical media in the Internet Age. When we identify by our toolset, we'll see that technological ecosystems have an energy flow like any other, find our roles within it, and know where our skills and money fit as AI, and whatever comes next, reshape our future.
 
 **Book II—Mixed Ideological Politics:** A heat pump doesn't know it's “green.” A diesel truck doesn't know it's “red-blooded American.” We attach such labels with stories, then reject good tools for wearing the wrong one. With our view cleared in Book I, Book II kick-starts faster problem-solving by showing us how to strip story-based identities from any tool, so we can adopt what works without feeling we've insulted or betrayed any tribe.
 
@@ -116,4 +116,3 @@ This means we need far more standards in our economy. We're good at making stand
 With coherent standards, Maria's next niche is easier to find and embrace. She can use her knowledge and skills to cross-pollinate a new part of the ecosystem. Book III shows how nature spreads and automatically enforces shared standards, so our economy can do the same. When every organism can easily work and contribute, little is wasted. The result is bounty in nature, and in civilization too.
 
 `Understand yourself → Learn to select better tools → Build bounty with others`
-
