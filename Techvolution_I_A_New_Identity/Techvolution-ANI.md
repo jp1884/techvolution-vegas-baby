@@ -173,9 +173,9 @@ Unlike genes and phenotypes, extended phenotypes become part of the environment 
 
 Raccoons are the ultimate example. Originally from the tropical forests of Central America and Mexico, these intelligent creatures create dens in hollow trees and grow thicker fur and fat stores for winter. These adaptations let them slowly increase their range northward into colder parts of America. However, unlike squirrels, raccoons do not insulate their dens, store food, or fully hibernate.
 
-But when human barns and garbage arrived, the raccoon's range exploded. Piggybacking on civilization, these creatures thrived. Many urbanites around the world know this all too well. It's why our garbage bins must be raccoon-proofed. Or at least try to be, as raccoons often outwit us.
+When human barns and garbage arrived, the raccoon's range exploded. Piggybacking on civilization, these creatures thrived. Many urbanites around the world know this all too well. It's why our garbage bins must be raccoon-proofed. Or at least try to be, as raccoons often outwit us.
 
-We learn something about extended phenotypes by contrasting raccoons with squirrels. A squirrel takes what it finds, but it renews the biological ecosystem it feeds on by planting many nuts each year. An urban raccoon gets food and shelter but renews nothing it depends on. Because extended phenotypes sit outside the body, whoever uses them doesn't have to earn it, or give anything back to the ecosystem that made it. In nature, the squirrel can't feed itself without planting the forest. A visitor who enjoys Venice or Barcelona but doesn't spend much, or the person who uses open-source software without contributing are some examples of how our technological ecosystem has no such natural requirement.
+We learn something about extended phenotypes by contrasting raccoons with squirrels. A squirrel takes what it finds, but it renews the biological ecosystem it feeds on by planting many nuts that ultimately renew the forest and its own food source. An urban raccoon eats at dumpsters, trach-bins, and bird-feeders and so gets food and shelter but renews nothing it depends on. Because extended phenotypes sit outside the body, whoever uses them doesn't have to earn it, or give anything back to the ecosystem that made it. In nature, the squirrel can't feed itself without planting the forest. A visitor who enjoys Venice or Barcelona but doesn't spend much, or the person who uses open-source software without contributing are some examples of how our technological ecosystem has no such natural requirement.
 
 So, to stay a player in the Game of Life, creatures can stand out via their genes, phenotypes, and extended phenotypes. Having the right mixture of all three means an animal can harvest enough resources and protect itself long enough to procreate and thereby keep playing the game.
 
@@ -1472,7 +1472,7 @@ The Nazis read their early wins as proof of their ideology, not of a method anyo
 
 Moreover, surprising a foe and attacking his vulnerable points is hardly unnatural. We know nature selects those who use the least energy while still getting the job done. Pack predators don't charge head-on into the horns of grazers. They identify weak spots, then coordinate actions to overwhelm weak points in the defenses. 
   
-With Western Europe in their grip, the Nazis assumed the “racially inferior” Soviets would collapse quickly. Stalin's recent purge of tens of thousands of officers, and the Red Army's poor showing against Finland, seemed to prove it. Blinded by their recent success, most generals believed they could conquer the Soviet Union. The army’s own logistics planners warned that their supply lines could not support a full invasion of the massive country, but they were ignored.
+With Western Europe in their grip, the Nazis assumed the “racially inferior” Soviets would collapse quickly. Stalin's recent purge of tens of thousands of officers, and the Red Army's poor showing against Finland, seemed to prove it. Blinded by their recent success, most generals believed they could conquer the Soviet Union. The army's own logistics planners warned that their supply lines could not support a full invasion of the massive country, but they were ignored.
 
 The 1941 invasion inflicted staggering losses but never forced a surrender or reached the far away Caucasus oil fields Germany needed. Within a few years the Soviets were fielding better and more reliable tanks and planes and approaching German military command sophistication. By 1943 the tide of the war turned for the Soviets never to swing back again.
 
@@ -1496,7 +1496,7 @@ These beliefs grew ever more self-defeating. The regime frightened all its neigh
 
 Some Nazi leaders did raise weapons production, but the regime kept trying to overcome its limited manpower and resources with high-quality, ingenious weapons. The Tiger tank, the Messerschmitt jet fighter, and the V-2 rocket draw crowds in museums today, but in war they were often unreliable, hard to mass-produce, and polished in ways no frontline soldier cared about. The most telling fact: for all its celebration of _Achtung, Panzer!_, horses pulled most of the German army's supplies throughout the war. Nazi leaders started an industrial war yet could equip only a fraction of their forces for blitzkrieg.
 
-Despite these setbacks, the Nazis never moderated, waiting instead for German genius to deliver “wonder weapons.” Yet the Allies drew on every kind of person. Women made up most of Britain’s codebreakers, and émigrés the Nazis had driven out, like Szilard and Bethe, helped build America’s atomic bomb. If genius flowed from German blood, these mixed teams should never have kept pace. Instead, they often pulled ahead, in battlefield success, factory production, technological innovation, and scientific achievement.
+Despite these setbacks, the Nazis never moderated, waiting instead for German genius to deliver “wonder weapons.” Yet the Allies drew on every kind of person. Women made up most of Britain's codebreakers, and émigrés the Nazis had driven out, like Szilard and Bethe, helped build America's atomic bomb. If genius flowed from German blood, these mixed teams should never have kept pace. Instead, they often pulled ahead, in battlefield success, factory production, technological innovation, and scientific achievement.
 
 As Nazi conquests were liberated one by one, nothing changed. Contrary to their doctrine, but true to their nature, Nazi leadership did not die fighting alongside German soldiers. Most hid, fled, or killed themselves. As the Thousand-Year Reich was crumbling their leader wrote that the German nation had failed the racial test of history. Beating bunkers in Belgium and France had made their reputation. Now they died in their own, so that they could avoid realizing Nazi beliefs had failed the nation.
 
@@ -1542,63 +1542,71 @@ Nonetheless, I finished shoveling, got into my tiny sedan, and set off.
 
 I'd processed claims during winter storms before, but this was the first time I was fairly sure I'd be filing a claim of my own.
 
-I made it out of my local roadway. Driving on a collector road, I was on the wrong side of the unplowed street. I had no choice because that's where the tracks led in the deep-snow. Stopping meant getting stuck. Turning the wheel meant skidding. 
+I made it out of my local roadway. Driving on a collector road, I was on the wrong side of the unplowed street. I had no choice because that's where the tracks led in the deep snow. Stopping meant getting stuck. Turning the wheel meant skidding. 
 
 I kept thinking about what would happen if a plow came this way.
 
-It didn't. I reached the main arterial road, which was plowed often and was relatively cleared. I trickled along congested roads and highways, and finally got to an office building. The claims bell was dinging all day. There wasn't much we could actually do. Tow truck services, rental companies, and repair shops were already overwhelmed.
+Happily it didn't. I reached the main arterial road, which was plowed often. I trickled along congested roads and highways, and finally got to an office building. The claims bell was dinging all day. I wouldn't be surprised if the managers turned it off that day although I can't recall. We, like tow truck services, rental companies, and repair shops, were overwhelmed.
 
-We answered calls, sent emails, forwarded approvals as fast as we could. Most insureds understood there would be delays from tow trucks to rental cars. Winter storms come every year, after all. 
+Everyone answered calls, sent emails, forwarded approvals as fast as we could. Most insureds understood there would be delays from tow trucks to rental cars. Winter storms come every year, after all. 
 
 The snow kept falling. We were sent home early to try to get back safely. I drove two co-workers home. I was proud I didn't get stuck.
 
-I can't recall how many claims I handled that day. Hundreds of thousands of dollars in damage and several injuries at least. It made me think of something.
+That day I worked through hundreds of thousands of dollars in claims and several injuries. Somewhere in the middle of it, I started thinking.
 
-I loved playing strategy games and city builders as a kid. There was something enjoyable about managing resources and building an environment that fosters a happy life. It's why I enrolled in city planning at university.
+I loved playing strategy games and city builders as a kid. There was something enjoyable about managing resources and building an environment that fosters a happy life. City planning is why I enrolled in urban studies at university.
 
 I also worked through school. One of those jobs was analyzing ads in business-to-business magazines. After a year there, I was allowed to work from home four days a week. I slept an extra hour each day, my grades improved, I saved much-needed cash, and I exercised more. The exact same work got done.
 
 I happily mentioned this to my transportation professor. After all, broadband internet was saturating the country. He dismissed it: "We tried this a decade ago and managers didn't like it." He went back to teaching traffic control management: timed lights, coordinated signals, variable message signs.
 
-What's better for traffic management than fewer vehicles on the road? Especially in snowstorms or energy shocks. But impossible, apparently, because remote doesn't work. A funny opinion because my job was soon outsourced to another continent and that raised no objections from anyone.
+What's better for traffic than fewer vehicles on the road? Especially in snowstorms or energy shocks. But impossible, apparently, because remote doesn't work. A funny opinion because my job was soon outsourced to another continent and that raised no objections from anyone.
+ 
+Partly because of that exchange with my professor, I switched my specialty to history and political theory. I didn't want to learn from the people who cast away options with such a broad brush and seemingly _wanted_ problems in order to manage them. I couldn’t help but compare it to a civilization-building game. In those games, past, present, and future technologies are mapped on a tree, each with its costs and benefits. With no can to kick, the player must compete against others or just nature, and make choices based on the resources at hand, like figuring out what to do when snow blankets roads or energy costs spike.
 
-Partly because of that exchange with my professor, I switched my specialty to history and political theory. I didn't want to learn from the people manage traffic when they ignored a solution that eliminated it. A player cannot defer problems in civilization simulation games. There's no blame to reassign or cans to kick. The player must make choices based on the resources at hand, like figuring out what to do when snow blankets roads or energy costs spike.
+We either make those hard choices or let them overtake us. Someone committed to old mentalities and tools sees fewer cars as a threat. But a player who sees the ecosystem sees a solution that frees energy for a new park, more farms, or simply savings for when entropy makes a surprise visit.
 
-We either make those hard choices or let them overtake us. A person committed to a toolset sees fewer cars as a threat. But a player who sees the ecosystem sees a solution that frees energy to spend elsewhere. 
+And who has an interest in fighting entropy more than insurance?
 
-And who has an interest in preventing entropy more than insurance?
+After all, early insurers once ran their own fire brigades to fight fires at the buildings they insured, and since fire doesn't care about addresses, often at the neighbors' too. As cities kept burning (Edinburgh, Newcastle, Chicago, Boston, Toronto, San Francisco), insurers pushed for cities to adopt firefighters, fire escapes, extinguishers, and fire drills.
 
-When I started my insurance job, I went back to my alma mater and found that in one of the biggest libraries in the world, insurance took up a single section of a single stack. But there was a gem: _Insuring the Industrial Revolution_ by Robin Pearson. It's a very well researched book on how insurance helped Britain industrialize as fast as it did.
+Surely the industry that paid for car crashes would want fewer car crashes. Yet the bell was still dinging. And we kept driving year round, regardless of the traffic, weather, cost of fuel, countless crashes, and injuries because commuting is part of our culture.
 
-The Great Fire of London (1666) gave birth to fire insurance. Early insurers even ran their own fire brigades, which only put out fires at buildings bearing their company's mark. As cities kept burning (Edinburgh, Newcastle, Chicago, Boston, Toronto, San Francisco), insurers paid to rebuild them and pushed for firefighters, fire escapes, extinguishers, and drills.
+My professor and my managers saw a person who belonged at a desk. They didn’t see what the job actually was: a set of tools, operated by a person, inside a larger technological ecosystem. My job ran on a phone, an inbox, and a claims system. None of them needed a parking spot. If office work can only be done in an office, how will AI ever do it? It can never commute.
 
-Surely the industry that paid for car crashes would want fewer car crashes. Yet the bell was still dinging. And we kept driving year round, regardless of the traffic, weather, cost of fuel, countless crashes, and injuries because this is the inputs for the technology already in use. Changing the technology would test everyone from top to bottom equally.
+We put screens, sound systems, and broadband into every home, built the theater, and kept driving to the office anyway. It’s like plumbing every house and still requiring everyone to walk to the public baths.
 
-Where's the return on the energy we spent putting screens, sound systems, and broadband into every home? We built the theater and kept driving to the office anyway. It's like plumbing every house and still requiring everyone to walk to the public baths.
+Face-to-face contact has real benefits. People travel to gyms, concerts, and research labs because of it. I benefited from my coworkers’ company and visiting customers whenever I could. But it has drawbacks too. It encourages seeing the person and their name-tag instead of the problem. No one would think shocking a computer improves its memory, or that ringing a bell improves an AI-powered claims system.
 
-A player of the game would see the ecosystem and make other choices.
+A person-based identity weighs customs, interests, and culture. Those are part of humanity and should be studied and improved, but on their own, they don't interact with the gameboard or organize matter. Tools do. A technological identity studies that interaction and energy flow and asks something else: where are our limited resources and energy best spent? With this wider view, we become like an ecologist assessing a forest. We know energy saved is energy freed: fuel to mass-produce more diverse players, which is how an ecosystem keeps entropy at bay, in a simulation game and in the Game of Life.
+
+And a technological identity would free up time and energy for the face-to-face things we truly love: putting on plays, visiting friends, or simply being together.
 
 ## Chapter 14—Moderation Is Natural
 
-The democracies that defeated Nazi Germany and later outlasted the Soviet Union, collectively known as the West, were different. Not by intent, but by structure. They had founding stories to guide their politics, but these never declared themselves to be perfect and so were more moderate and open to change compared to their competition.
+The market-based democracies that defeated Nazi Germany and later outlasted the Soviet Union, collectively known as the West, were different. Not by intent, but by structure. They had strong founding stories to guide their politics, but these never declared themselves to be perfect and so were more moderate and open to change compared to their competition.
 
-The power to create and modify society and technology was placed in many hands. Legislatures, courts, states, churches, unions, universities, private companies, and other institutions each held a piece, and none held enough to disregard a whole category of persons or ideas. No single story could screen out a whole kind of player, so the board kept both halves of evolution in play: mass production to make more of what works, and diversity to keep finding what might work next.
+The West's biggest feature was that the power to create and modify society and technology was placed in many hands. Legislatures, courts, states, churches, unions, universities, private companies, and other institutions each held a piece, and none held enough to disregard a whole category of persons or ideas. No single belief system could screen out a whole kind of player, so the board kept both genotype and phenotype halves of evolution in play.
 
-Benjamin Franklin showcased this moderation very well. One of the Founding Fathers of America, he was a printer by trade, and invented the lightning rod, bifocals, and a more efficient stove. But he refused to patent them, reasoning that since we all benefit from others' inventions, we should gladly share our own. He also helped found a lending library, a volunteer fire company, and America's first successful fire insurer. He achieved all this because in the country he helped found, his political fights were usually solvable with compromise rather than life-threatening political intrigues.
+Sadly, exclusion and oppression were real in the West, and often brutal. The democratic revolutions in America (1776) and France (1789) poisoned their principles by not permanently abolishing slavery from their very inceptions. Governments overreached, forcing sterilizations and relocations, among other tragedies. Businesses sent workers into dangerous mines and factories with little regard for their safety or futures.
 
-Sadly, exclusion and oppression were real in the West, and often brutal. Government overreach existed. Businesses could be very selfish. But nothing was ever total, because there was another jurisdiction, another employer, another lab. Western boardmates were more free to play the game, and so often had to make better deals with each other: a worker making a better product, a business giving a pay raise, or a bureaucrat writing a useful regulation. Boardmates who didn't reciprocate soon found the other had moved on to a different product, employer, or jurisdiction.
+But with power so divided nothing was ever total, because there was another jurisdiction, another employer, another lab. There was enough room for people to hope for a better life because Western boardmates were more free to play the game, and so often had to make better deals with each other: a worker making a better product, a business giving a pay raise, or a bureaucrat writing a useful regulation. Boardmates who didn't reciprocate soon found themselves outcompeted.
 
 Complacency certainly happened, the interwar Western militaries being one large example. But when reality hit, like with Blitzkrieg and later Sputnik, the West's distributed structure responded faster and better than its extremist adversaries could. 
 
-In short, moderation let life “find a way.” More of the technological ecosystem's open jobs got filled, from producers to predators, consumers to scavengers. More energy got harvested, and the board could support more tools, and more kinds of them, than anywhere else.
+In short, moderation let life “find a way.” More of the technological ecosystem's open jobs got filled, from producers to predators, consumers to scavengers. More energy got harvested, and the Western board could support more tools, and more kinds of them, than anywhere else.
 
-The system was by no means perfect. The many civil rights marches, environmental protests, and contested elections, showcase that well enough. But friction is a feature not a bug. The West often looked messier, but that was because problems were actually being addressed instead of assuming ideological belief made them go away. In 1947 former British Prime Minister Churchill even joked, "it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time". That is a joke impossible to tell in many extremist societies, much less hear a celebrated wartime leader say it.
+The system was by no means perfect. Moreover, the many civil rights marches, environmental protests, and contested elections showcase the West's frequent turmoil. But that is a feature, not a bug.
 
-So while never perfect, multi-party democracy with free-market economics was less blinding and therefore more responsive to gameboard changes. It's why as time went on, most other extremist regimes—from Spain to Vietnam—adopted some or all of its more liberal market-based practices. Observers had learned, sometimes an arrogant inventor really does have exceptional gifts. Sometimes a self-righteous educated bureaucrat should regulate society. Neither extreme was wrong about everything, which is exactly why neither genotype nor phenotype should be discarded.
+The West often looked messier, but that was because problems were actually being addressed instead of assuming ideological belief made them go away. In 1947 former British Prime Minister Churchill even joked, "it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time." That joke is impossible to tell in many extremist societies, much less hear a celebrated wartime leader say it.
 
-As biology shows many times over, an organism is a mixture of good genes and the right lessons on how to use them. An ecosystem is a mixture of these organisms, because different characteristics are needed to fill different niches. Conservatives tend to value inherited tradition and the instinct to mass-produce what works; progressives value diversity and want to embrace what's new. Both are describing something valuable.
+So while never perfect, the belief system behind multi-party democracy with free-market economics was less blinding and therefore more responsive to gameboard changes. It's why as time went on, most other extremist regimes—from China and Vietnam to Poland—adopted some or all of its more liberal market-based practices.
 
-Each extremist regime kept one side and thereby lost the benefits of one half of evolution. Having both halves didn't guarantee the West the better answer. But its distributed structure kept them moderating each other, which made the better answer easier to find. 
+As biology shows many times over, an organism is a mixture of good genes and the right lessons on how to use them. An ecosystem is a mixture of these organisms, because different characteristics are needed to fill different niches. Conservatives tend to value inherited tradition and the instinct to mass-produce what works; progressives value diversity and want to embrace what's new.
+
+Both describe something valuable, and each needs the other. A new idea that can never be produced at scale adds little to the ecosystem. And mass production that leaves no room for new variations can’t adapt when the board changes.
+
+Including both halves of evolution didn’t guarantee the West the right answers. But its distributed structure kept the two checking each other, and that produced better answers more often, as the battlefields of World War II and the economic race of the Cold War showed.
 
 So the real question is how moderation produces new tools consistently. We know the answer quite well actually. The man who ran America's wartime science effort spent the rest of his life explaining and building it.
 
@@ -1606,7 +1614,7 @@ You're likely holding the result in your hand.
 
 In 1945, a technical genius envisioned the world we live in today. Before anyone sent an email or browsed Wikipedia, American engineer and inventor Dr. Vannevar Bush thought it up. He was running America's wartime science effort, and in _As We May Think_ he dreamed technology would soon help scientists organize, link, and retrieve the explosion of human knowledge he was witnessing.
 
-Visionaries like Bush are hard to come by. Yet they exist in every society. The key is how to bring their ideas to life.
+Visionaries like Bush are hard to come by. They imagine society operating with tools that will require the average person to totally re-learn their jobs and home lives. Yet they exist in every society. The key is how to bring their ideas to life.
 
 We've seen that a healthy ecosystem needs every kind of boardmate: the ambitious and the generous, the mass producer and the oddball. The transistor shows it better than any theory.
 

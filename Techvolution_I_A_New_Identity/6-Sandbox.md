@@ -6432,3 +6432,13 @@ Self-aware selection sees changes coming and responds on purpose. It's far bette
 
 ===
 
+When I started my insurance job, I went back to my alma mater and found that in one of the biggest libraries in the world, insurance took up a single shelf of a single stack. But there was a gem: _Insuring the Industrial Revolution_ by Robin Pearson. It's a very well researched book on how insurance helped Britain industrialize as fast as it did.
+
+The Great Fire of London (1666) gave birth to fire insurance. Early insurers even ran their own fire brigades to fight fires at the buildings they insured, and since fire doesn't care about addresses, often at the neighbors' too. As cities kept burning (Edinburgh, Newcastle, Chicago, Boston, Toronto, San Francisco), insurers pushed for cities to adopt firefighters, fire escapes, extinguishers, and fire drills.
+
+
+===
+
+Benjamin Franklin showcased this moderation very well. One of the Founding Fathers of America, he was a printer by trade, and invented the lightning rod, bifocals, and a more efficient stove. But he refused to patent them, reasoning that since we all benefit from others' inventions, we should gladly share our own. He also helped found a lending library, a volunteer fire company, and America's first successful fire insurer. He achieved all this because in the country he helped found, his political fights were usually solvable with compromise rather than life-threatening political intrigues.
+
+===
