@@ -6442,3 +6442,9 @@ The Great Fire of London (1666) gave birth to fire insurance. Early insurers eve
 Benjamin Franklin showcased this moderation very well. One of the Founding Fathers of America, he was a printer by trade, and invented the lightning rod, bifocals, and a more efficient stove. But he refused to patent them, reasoning that since we all benefit from others' inventions, we should gladly share our own. He also helped found a lending library, a volunteer fire company, and America's first successful fire insurer. He achieved all this because in the country he helped found, his political fights were usually solvable with compromise rather than life-threatening political intrigues.
 
 ===
+
+<!-- All life lives on the gameboard and therefore is bound by the rulebook to find and harvest pockets of useful energy to keep itself organized. Whether by mutation of new genes or the learning of new lessons, the ones who succeed make more copies of themselves, and thus form the species who represent life.
+
+We've already made the point that a species is a combination of genotype, phenotype, and extended phenotype. Ideas are part of our extended phenotype, and like any adaptation, they evolve. -->
+
+===
