@@ -1651,7 +1651,7 @@ But the Soviets struggled to mass-produce them. In 1957, American firms turned o
 
 Soon, the Soviets would largley abandon homemade computers and opt to license or copy western designs like the British System-4 or IBM's System/360. Soviet designers had the right ideas, but they could only write about the future while Westerners built it.
 
-Now, let's take a look at the boardmates needed to birth a new tool. The pipeline includes the obsessive researcher who'd never want to sell customer products (Walter Brattain, John Bardeen). The government institution-builder who thinks in decades (Vannevar Bush, Robert Taylor). The risk-taker scientist who quits stable employment (Gordon Moore, Bob Noyce). The idealist engineer who gives away expensive software (Richard Stallman, Tim Berners-Lee). The dropout who sells countless millions of computer products (Steve Jobs, Michael Dell). The early adopter hacker who keeps tinkering with these new tools to see what else they can do (Homebrew Computer Club, MIT's Tech Model Railroad Club.) and just an important, the countless engineers, salesmen, retail clerks, truck drivers, marketers, and users who helped grow the digital revolution from a few mainframe computers into everyone corner of the world.
+Now, let's take a look at the boardmates needed to birth a new tool. The pipeline includes the obsessive researcher who'd never want to sell customer products (Walter Brattain, John Bardeen). The government institution-builder who thinks in decades (Vannevar Bush, Robert Taylor). The risk-taker scientist who quits stable employment (Gordon Moore, Bob Noyce). The idealist engineer who gives away expensive software (Richard Stallman, Tim Berners-Lee). The dropout who sells countless millions of computer products (Steve Jobs, Michael Dell). The early adopter hacker who keeps tinkering with these new tools to see what else they can do (MIT's Tech Model Railroad Club, Homebrew Computer Club) and perhaps most important, the countless and unnamed engineers, salesmen, retail clerks, truck drivers, marketers, and users who helped grow the digital revolution from a few mainframe computers into everyone corner of the world.
 
 None would excel at each other's roles. Some do what they do because of genetic traits like intelligence or stubbornness. Others are converts to belief systems of altruism or greed. No ideology covers every person. Each is a different mixture of genotype and phenotype identities. They each have temperaments every society produces and every ecosystem needs to originate new mutations, test which versions are best, produce them, and then hunt, scrap, hack, and recycle them to find the energy to keep the process going.
 
@@ -1729,83 +1729,93 @@ That is how a devout ideologue sees it. In reality, so many of my insureds would
 
 ## Chapter 15—Meeting the Coach
 
-To us, in everyday life, everything falls downward. From feathers on a bird to rocks on a cliff, if nothing supports it, it falls. The skeletons, muscles, and instincts of all animals, from squirrels to tigers, are shaped to make use of this rule of the game.
+So who decides? It can't be an ideology as they can't pick winners or assign roles. It is someone who is well practiced in selecting the players of the wonderfully moderate ecosystem.
 
-Tigers have powerful legs to stalk and pounce on prey. Squirrels have strong, nimble ones to leap from branch to branch. Not because creatures understand they need muscles to move with and against gravity, but because those with weaker legs had fewer offspring and weren't selected to keep playing the game.
+Will AI take your job? You can soon answer that yourself. It's time to meet the coach in the Game of Technological Life.
 
-When we became self-aware, we started to ask questions. Why do things fall downward? Why does it turn cold, then warm, then cold again on such a regular schedule? Why does the sun rise and set once a day?
+--
 
-We created stories from our memories and surroundings to answer these questions. Majestic mountains, vast oceans, heroic ancestors, and the ever-present sun, moon, and stars became characters in grand explanations of the cosmos. Countless mythologies helped us pass knowledge to our young, time the seasons, and navigate the world.
+AI is here, and you don't know if your job is safe.
 
-In time, some people tried to move beyond our stories and find rules that governed our world. Aristotle (384–322 BC) was among them, using philosophy to explain ethics, storytelling, astronomy, and the natural world. To Aristotle, everything had a natural place: heavy things like soil and rock fall toward the center of the cosmos, while light things like fire and air rise away from it. So the round Earth must sit at the center, with the heavens circling around it. He also reasoned that heavier things fall faster, which seemed to explain why a rock beats a feather to the ground.
+What does that mean, though? You might not even like your job. Even if you do, the paycheck is what pays your bills. So fearing for your job is really about securing a place in a reliable and sustainable ecosystem.
 
-This geocentric view, with Earth at the center of the universe, won over people's minds. It explained what people saw day to day, and it out-competed the sun-centered, heliocentric system of Aristarchus (c. 310–230 BC), which couldn't explain why, if Earth moves, the stars never appear to shift their position in the sky. Centuries later, Ptolemy (c. 100–170 AD) refined the geocentric model into an astronomy that, despite its wrong assumption, guided travelers and sailors and told farmers the seasons quite well, as long as its prediction tables were periodically corrected.
+Your ancestors wanted the same thing, and felt the same fear. All of them, from your grandparents back to the first people who chipped a stone into a tool. Wanting resources isn't cowardly or selfish. It's the Game of Life. So how did the coach get them, and us, here?
 
-The big discovery was that planets do not move in perfect circles, as everyone had assumed. Each moves in a slight oval. Without knowing why, Kepler wrote the laws of planetary motion that described their movement mathematically. Newton (1643–1727) took these laws, developed a new math called calculus, and wrote the laws of motion and universal gravitation. With universal gravitation, we finally understood that everything, from a baby crawling on the ground, to rocks falling off a cliff, to the stars above, moves according to the same laws. Newton's math was spectacularly accurate, although the underlying cause of gravity remained a mystery.
+The evidence is all around us. We have fishing nets, boats, and farms because when our ancestors found a lake, reached an ocean, or saw a vast field, they thought: these are my surroundings, and where is the energy? Each time, they found new ways to harvest that energy and organize more matter into life and tools.
 
-Enter Einstein (1879–1955). We experience gravity as an everyday force, like lifting a rock or falling down stairs. But gravity is something more: the curvature of space and time. Mass and energy bend spacetime, and objects follow its curves. Einstein's math predicted black holes long before anyone saw one, and today it keeps GPS accurate to within a few yards.
+So when you ask whether AI will take your job, ask yourself: do you mean your job's name-tag in society, or its role in the ecosystem? Because those are not the same thing.
 
-As we meet the coach, this brief history of astronomy shows us something vital. At first, our data was only what our eyes, ears, and memories could hold, and it became our stories and myths. Then we began recording the stars, letting each person see far beyond their own lifetime. The more data we gathered, the more of the whole picture we could see. Each step used more numbers, but the truth was always how the universe operates. The story enabled the philosophy, which allowed the science, and each step's authority depended less on the person who told it.
+The coach has the answer. To meet the coach, we first need to see how we've traded old labels for better ones before, moving from mythology to philosophy to science. Here's one example from astronomy. It's a great history better told with more space, so this is condensed.
 
-No society suddenly embraced en masse any new understanding of astronomy and gravity. Like the mutation of a dark peppered moth, each new step was first adopted by a few people. Ideas evolve like anything else on the gameboard. An idea attracts followers when its accurate predictions help save or harvest new forms of energy. For example, Kepler's planetary tables made calendars and navigation more reliable, just as Einstein's math keeps GPS reliable today. The more energy we have, the more we can organize scattered materials into something useful.
+Everything falls, and life is built around that fact. Trees grow stiff wood and animals grow bones to stand against it. Squirrels and tigers have legs that leap and pounce, not because they understand gravity, but because those with weaker legs left fewer offspring.
 
-And the one selecting which ideas get played, harvesting the energy that turns dust into tools, is the coach.
+Humans, like other creatures, have bodies built to fight and use gravity. But when we became self-aware, we started asking why things fall. At first, all our data came from what our eyes, ears, and memories could provide, so we answered with stories: the sun, moon, mountains, and ancestors became characters in grand explanations of the cosmos.
 
-Natural selection acts on individuals. Alone. We can help a nephew or defend a stranger, but what gets tested is still one individual at a time. No group or movement has to form first. As the renowned biologist Ernst Mayr put it, the individual is “the principal object of selection.”
+Eventually, philosophers like Aristotle went beyond the stories, using reason to uncover natural laws that worked regardless of who told them. To explain why things fall, Aristotle said everything had a natural place: heavy things fall toward the center of the cosmos, so Earth must sit at its center, and heavier things fall faster, which is why a rock beats a feather to the ground. It explained what people saw. Ptolemy built it into an astronomy that guided sailors for centuries, provided its charts were corrected every so often, and the geocentric view held for nearly two thousand years.
 
-The scoreboard counts one player at a time. That means you, whatever you're holding, and whatever you believe. Gravity, thirst, hunger, and disease act on every cell of an individual. A navigator can steer her body north or south, but not both. Each individual faces its own patch of the gameboard and its own sandclock.
+Then new tools brought new data. Astronomers began recording the planets with growing precision, and Galileo's telescope revealed moons circling Jupiter, proof that not everything orbited Earth. Galileo also showed that, apart from air resistance, all things fall at the same rate.
 
-The player of the game is an individual. Seeing that clearly is the first step toward a new identity. An individual needs energy to stay together, which means it lives in the flow from useful to useless energy.
+Newton then found that one law of gravity moves both a falling rock and the planets. Einstein went further still, showing gravity is the curvature of space and time, and his math keeps your phone's GPS accurate today.
 
-To see why, look at what an individual is made of. Atoms contain protons and neutrons in the nucleus, with electrons surrounding it. An iron atom has 26 protons, while a sodium atom has 11. Water is a molecule made of two hydrogen atoms and one oxygen atom.
+The full history is richer, but the pattern is clear: stories enabled philosophy, which allowed science. Each step used more data, and each step's authority depended less on the person who told it. The philosopher Auguste Comte called this his "law of three stages": from the theological, where spirits and gods explain the world, to the metaphysical, where abstract ideas do, to the scientific, built on observation, experiment, and comparison. And accepting one stage doens't mean the others are irrevelant. Science can hardly explain the love of a mother and child, or the drive to be free, better than a spiritual answer can.
 
-As matter becomes more complex, it is made from a greater variety and number of parts. Molecules are formed from atoms, and cells from many molecules. A single-celled organism such as E. coli contains a cell membrane and cell wall, cytoplasm, DNA, RNA, ribosomes, proteins, water, sugars, fats, salts, and many other small molecules.
+Each step used more numbers and less name-tags to describe reality. The story enabled the philosophy, which allowed the science, and each step's authority depended less on the person who told it.
 
-Multicellular life adds another layer. More cells allow more kinds of cells: the human body has hundreds, from muscle and bone to nerve and blood. But however complex it is, each organism needs a steady supply of carbon, water, iron, calories, and other "bits of clay" to keep it running.
+No society suddenly embraced en masse any new understanding of astronomy and gravity. Like the mutation of a dark peppered moth, each new step was first adopted by a few people. Ideas evolve like anything else on the gameboard. An idea attracts followers when its accurate predictions help save or harvest new forms of energy. Ideas are proven good when they help harvest more energy to organize more scattered materials into something useful to keep the process going.
 
-Whichever individual finds a niche as a scavenger, consumer, predator, or other ecosystem role and has offspring is selected to keep playing that role.
+Just as natural selection sorts which lifeforms, muscles, eyes, and ears stay in the game, someone selects which ideas get played to harvest the energy that turns dust into tools. That someone is the coach.
 
-Biological players don't need to understand evolution's rules. A dog or shark will never understand gravity or use star charts. They don't need to. If a tree produces few nuts, or nuts with little nourishment, it will be outplanted by trees that produce more and better ones. Creatures don't need to be self-aware to get ther results they need to prosper.  Biological life adapts to the rulebook by trial and error. Boardmates that harvest energy well are naturally selected, and their ecosystems benefit along the way, without any of them ever understanding the world they live in.
+Natural selection acts on individuals. We can help a nephew or defend a stranger, but what gets tested is still one individual at a time. No group or movement has to form first. As the renowned biologist Ernst Mayr put it, the individual is "the principal object of selection."
+
+We've seen this throughout the book. I went to speech therapy and did or didn't order a pizza slice. My insured's ran a red-stop or were hit by someone who did. In Milgram's experiment each teacher sat alone at the switch, and any one of them could have found the learner a pencil. 
+
+WWI General John Monash treated each infantry unit, tank, artillery piece, and aircraft as individual instead of members of a wave. Blitzkrieg put a radio in every German tank so each commander could read the field, relay messages, and act quickly. The Allies gave radios to every unit and empowered more individuals at the factory and battlefield and got more good ideas and courage as a result.
+
+The digital age was invented by endless individuals making contributions. Brattain and Bardeen kept experimenting for months with no succeess. They had an idea of slicing gold foil and suddently proved the transistor were possible, kick starting humanity into the next technological age.
+
+The scoreboard counts one player at a time because individuals are the principal object of selection. 
+
+That means you, whatever you're holding, and whatever you believe. Gravity, thirst, hunger, and disease act on you. A tiger may pounce now or wait for the deer to get closer. A navigator can steer her body north or south. No individual can make both choices. Despite facing the same winter storm, no two of my insureds had the same loss. Two people don't visit a doctor for a checkup. Each individual faces its own patch of the gameboard and its own sandclock.
+
+The player of the game is an individual. Seeing that clearly is the first step toward a new identity.
+
+To see why, look at what an individual is made of. Atoms build molecules, molecules build cells, and cells build bodies with hundreds of specialized kinds, from muscle and bone to nerve and blood. Each layer adds more parts and more variety. Even a single E. coli cell holds DNA, proteins, fats, sugars, salts, and thousands of other molecules. But however complex a body gets, it falls apart without a steady supply of clay, like carbon, water, and iron, plus the energy to keep it all organized.
+
+Biological players don't need to understand evolution's rules. A dog or shark will never grasp gravity or read a star chart beause nature handles selection. A tree with few or unhealthy nuts is simply outplanted by trees that fuel unknowing squirrels to spread their seed. With natural selection life can adapt to the rulebook by trial and error, and boardmates that harvest energy well are selected, their ecosystems benefiting along the way, without any of them understanding the world they live in.
 
 We do need to understand the world we live in.
 
-Because we have choice, we can practice artificial selection. We can be raccoons taking from an ecosystem and giving little back or the squirrel who plants forests by accident. We're the first player who can extract or plant on purpose.
+Because we have choice, we can practice artificial selection. We can either be raccoons taking from an ecosystem and giving little back or the squirrel who plants forests with foresight. We're the first player who can extract or plant on purpose. Every player has this choice, but is still only selected to keep playing when the make the good kind.
 
-Without self-awareness, it often doesn't end well for us regardless of our intent or power inside human hierarchies.
+Because without self-awareness, it often doesn't end well for us regardless of our intent or authority inside human hierarchies.
 
-In the early 1980s Yuri Andropov ran the all-powerful Soviet spy agency KGB and then he ruled the entire country as virtual dictator. When speaking to his leadership comrades he admitted, "we don't know the society in which we live." Believing in such a rigid doctrine encourage warping facts and figures to keep critical eyes and opinion at bay. 
+There are endless examples, so let's return to one we've already met: the Soviet Union. In 1961, the Party promised that Soviet citizens would live under the bounty of full communism by about 1980. After fifteen years running the all-powerful KGB, Yuri Andropov took power in 1982, right on schedule for utopia. Speaking to the Party's leadership, he admitted, "We don't know the society in which we live." A doctrine with so much promise, rewards anyone who warps facts and figures to keep critical eyes away. Despite a vast intelligence system, Soviet officials couldn't see how far reality had fallen from the official plans.
 
-Andropov's protégés, most notably Mikhail Gorbachev, saw the problem. They gave ministries more independence and introduced market-like reforms. Yet the regime with one of the world's most powerful intelligence agencies still couldn't understand why its reports said prosperity and progress while store shelves were empty, coal miners had no soap to wash their faces, and a nuclear power station blew up.
+In 1984 Andropov's protégé Mikhail Gorbachev took charge amind a rising question: where was their utopia? He launched glasnost, opening up information, and perestroika, sweeping reforms giving ministries more independence to let farm and factory managers make more of their own choices.
 
-Such is the power of human belief systems.
+Yet the regime couldn't question its core assumption. Like astronomers who kept Earth at the center of the universe, Soviet leaders held that the ideologically correct plan and the right upbringing mattered more than what individuals chose to do. They couldn't see that because individuals are the ones selected, individuals should be the ones selecting.
 
-As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a human one, that happens whenever the distance between selecting tools and its consequences gets too far apart. Allied generals had bunkers and battle ensuring safety from Nazi invasion, the same way Soviet leaders had offical five-year plans for the entire economy, the same way kings had grand palaces and spiritual reasons why they were born to rule.
+So people kept playing the game, just in secret. The endless numbres of regulators, officials, paper pushers reported what the regime wanted to hear while trading on the black market, hoarding supplies, and saving their energy for side work that actually brought them resources. Official plans still promised progress. The scoreboard said otherwise: store shelves were empty, coal miners had no soap to wash their faces, and a nuclear power station would soon blow up. The Soviet operated supply chain couldn't supply neccessities so people found a way to get them.
 
-While we've studied physics, chemistry, astronomy, and biological evolution as sciences, we have not yet joined technological evolution into one science that traces the flow of energy and the adaptations that use it. So our identities aren't tied to the game we actually play every day. We name ourselves by our products, services, and job titles: distribution manager, software company, coffee shop. Yet underneath every label, each of us plays a role in an energy web built from our tools, as a producer, consumer, predator, scavenger, or decomposer. We know our name tags, but not our roles.
+As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a human one, and it can happen in any mythology, philosophy, or even science, when the data suggests a problem.
 
-Techvolution's new identity won't end misconceptions, hubris, or fanciful realities. Human groups need hierarchies, with ranks of authority, to carry out their beliefs, battle plans, and playbooks, and human error will always make those drift from the board. But the same imperfections exist in engineering, mathematics, and medicine, and they rarely bring down entire societies.
+The data is the environmental inputs. The predicted location of a planet or the fact rock and feather fall the same rate. For us today the inputs that disagree with what our beliefs say is your pains. Your time on hold. You're rising food and energy costs. Your uncertain job prospects. Our beliefs give us name-tags of employeee, manager, conservative, progressive, and so on. Meanwhile these labels do not sustain, fuel, and replace our atoms and molecules that compose us.
 
-Physics and the other sciences have this resilience because they measure outside forces and value prediction and results above social position and intent. We can measure technological growth, speciation, migration, and the roles of predators and scavengers, because each has a place in the energy flow, just as in any biological ecosystem.
+This tension leads us to hunger and fear. Acting within our beliefs means blaming left or right which blurs the Game of Life we need to study.
 
-We already do much of the work. Industrial ecology tracks material and energy flows through economies the way an ecologist tracks them through a forest. Life-cycle assessment measures what a product costs in energy and materials, from extraction to disposal. Diffusion research measures how one technology spreads and displaces another. Insurance assesses the risk of failure in vehicles, homes, and businesses.
+While we've studied physics, chemistry, astronomy, and biology as sciences, we have not yet joined technological evolution into one science that removes name-tags and traces the flow of energy and the adaptations that use it.
 
-What's missing is joining these insights into one account of where our food, warmth, and transport actually come from, and the rules of nature that govern their health, growth, divergence, and death. It's like trying to understand a forest without knowing the evolution that slowly shaped the oak, mushroom, bee, raccoon, and squirrel within it.
+Techvolution's new identity won't end misconceptions, hubris, or fanciful realities. Human groups need hierarchies, with ranks of authority, to carry out their business plans, battle plans, and other playbooks. Like any creature's adaptations, those will often drift from what the gameboard needs. But the same imperfections exist in engineering, mathematics, and medicine, and they rarely bring down entire societies the way errors brought down the Soviet Union and Europe's absolute monarchies.
 
-And, it's helpful to note that our understanding of ecology, zoology, and biology developed quite similarly to the history of gravity and astronomy.
+Physics and the other sciences have this resilience because they measure outside forces and value prediction and results above social position and intent. Techvolution can borrow that resilience. We can measure technological growth, speciation, migration, and the roles of predators and scavengers, because each has a place in the energy flow, just as in any biological ecosystem.
 
-Like astronomy, the study of life started with the mythological stories we've already looked at. Then philosophers, Aristotle most famously, among many others history has forgotten, began looking for natural truths. For astronomy, that meant explaining why feathers, rocks, and planets move as they do. For the study of life, it meant explaining all the creatures of the world.
+We already do much of the work. Industrial ecology tracks material and energy flows through economies the way an ecologist tracks them through a forest. Life-cycle assessment measures what a product costs in energy and materials, from extraction to disposal. Diffusion research measures how one technology spreads and displaces another. Insurance assesses the risk of failure in vehicles, homes, and businesses, and prices what it takes to restore them.
 
-Aristotle grouped animals by visible traits, such as blood or no blood, and live young or eggs. This became known as natural history.
+What does food, warmth, and transport come from. Which boardmates produce, consume, scavenge, and decompose them, and how the rulebook governs their health, growth, divergence, and death. That account would show how matter cycles and energy flows through our tools, how each technology is mass-produced and diversified. Without it, we're trying to understand a forest without knowing the evolution that slowly shaped the oak, mushroom, bee, raccoon, and squirrel within it.
 
-As explorers brought back new species from around the world, more and more didn't fit the established categories. Naturalists sorted organisms by their visible traits, the way you might sort fruit into fleshy or dry.
+The missing link is seeing it from the unit of selection's vantage point. That means you. Me. Every person. What is our supply chain that supplies our food, shelter, electricity, and what's the return on this investment? 
 
-Carl Linnaeus (1707–1778) formalized this approach into a nested hierarchy: kingdom, class, order, genus, species. Each species received a two-part name, like Tyrannosaurus rex or Homo sapiens. The system worked well, but naturalists still defined species by what they could see.
-
-Darwin changed the meaning of those groupings. On the Galápagos Islands, he collected birds he took for wrens, blackbirds, and grosbeaks. Back in London, the ornithologist John Gould told him they were all finches, with beaks suited to seeds, insects, or cactus flowers. Despite their different looks, they descended from a common ancestor that had reached the remote islands. Species could be related without looking alike.
-
-As the biologist Theodosius Dobzhansky titled a 1973 essay, “Nothing in Biology Makes Sense Except in the Light of Evolution.” Classification by common descent organized the myriad species into a coherent tree, one that has largely held up to genetic testing. How else would we explain why hippos and whales, which look nothing alike, have such similar DNA?
-
-We've already seen how the Modern Synthesis changed biology, but it was a hard-won union. When Gregor Mendel published his experiments with pea plants in 1866, almost no one paid attention for 34 years. Even Thomas Hunt Morgan, whose fruit flies proved in the early 1900s that genes sit on chromosomes, began as a skeptic. For decades, field naturalists and lab geneticists distrusted each other. The naturalists thought lab work missed life as it is lived in the wild, and the geneticists saw naturalists as mere collectors. Only when the two joined forces did biology become the hard science we know. Then, in 1953, the discovery of DNA's double helix launched molecular biology as a field of its own.
+We are on the same track as astronomy because it's the same track biology were. The study of life followed the same path. Aristotle grouped animals by what he could see, and Linnaeus later named every species the same way. Then Darwin showed that looks deceive: the Galápagos birds he took for wrens and blackbirds turned out to be finches, all descended from one ancestor. Even so, new methods were slow to win trust. Mendel's pea experiments sat ignored for 34 years, and field naturalists and lab geneticists distrusted each other for decades. Only when they joined forces did biology become a hard science, and our labels for life move closer to its natural identities.
 
 This same process applies to us, here and now. Nature doesn't read name-tags. We know iron by its 26 protons and its melting point of 1538 °C. We recognize a tiger by its color, anatomy, how it hunts to get the 10-15 pounds of meat it needs per day.
 
@@ -1834,6 +1844,8 @@ Our new identity is being a self-aware selector inside a technological ecosystem
 Nature still keeps the score; the scoreboard never lies. But you are the one making choices. We took over much of nature's coaching every time we bought one tool over another, voted for one leader over another, or dropped a habit because doctors discovered smoking tobacco is terrible for our health.
 
 You've already met a team of coaches. Remember Maria's customers. No law shut down her DVD stores, and no one voted on it. Millions of ordinary people, one evening at a time, chose to stay home and press play instead of driving to the store. Each choice was small. Together, they selected the DVD out of the game and selected streaming in. That is what coaching looks like: not a speech, not a belief, just a choice of tool, repeated until the board changes.
+
+ - you have to wipe away all name-tags and see the energy web underneath. there is no American consumer, no capitalist banker, no regulator. there's just the flow of energy....
 
 Just as squirrels and raccoons have an ecological identity, you already have a technological one. Like gravity, it was always there. It becomes new when you adopt it.
 
@@ -4196,13 +4208,24 @@ I smell for nuts. I smell for nuts. Moss smell. Dirt smell. Leaves smell.
 
 Where is the milk?
 
-### Bunkers
+### Systems
 
-7:00 AM 
+Game makers design games.
 
-Wake. Rustle out of bed. Don't make sound. Don't wake family. 
+Gamers buy
 
-### Biosystems
+Makes improve.
+
+Gamers fund.
+
+Markers learn. Flocking birds need this space, distance, and... AI needs that, Wolfram.... 
+
+NPC is this. Game world is that...
+
+I'm a gamer...
+
+
+#### Biosystems
 
 <!-- forestry management of bio assessment based on EO Wilson's and Silent Spring stuff.... -->
 <!-- add concepts like systems, clear cut, over using, all that jazz that ruins carrying capacity, and then cut to people doing that to the technological ecosystem. -->
@@ -4339,7 +4362,7 @@ The planner smiles. “Planting for people who haven't been born yet.”
 
 The Developer smiles at the planner "This is well worthwhile. Lets keep going."
 
-### I'm a Gamer
+#### I'm a Gamer
 
 Gamer is playing or explaining an RTS game. That collecting resources to spend on construction of buildings needs X, Y, Z plus energy to get XYZ. It doesn't matter what the game is, or the material. manufacturing more stuff using the dispersed natural resources is the name of the game. he is trying to collect "bits" of wood, water, fish, rock, gold, etc. because he needs these to form walls, wagons, in certain amount, just like the algae.
 
@@ -4482,6 +4505,16 @@ Owner:
 Chatbot:
 "I can help you with that. First, tell me your crash details."
 
+### Relearning
+
+**Handler's perspective**
+
+We never let her see a human face. We fed her through hatches, watched through cameras and walked in camouflage suits rubbed with deer scent. If she learned that people bring food, she would come looking for people, and a tiger that approaches villages gets shot. We moved her through larger and wilder enclosures, each with less of us in it. First came meat, then live rabbits, then a young boar that fought back. She had to fail a few hunts while we were still close enough to step in. Before release, we let her smell a wild tiger's markings, so the forest wouldn't be empty of her own kind. On the last day we opened the gate and walked away. That was the hardest part of the training, for us.
+
+**Tiger's perspective**
+
+The fence is gone. The air is too big. There is no hatch, no clang before meat. Hunger sits low in her belly, and she understands that it will stay there until she makes it stop. Snow and pine, and under them a smell like her own, but not hers: another tiger was here. Something small moves in the brush. Her body knows before she does: low, slow, wait. She misses. She waits again. The second time, there is blood, and it is warm, and no one gave it to her. She eats without looking over her shoulder for the clang. When she sleeps, it's somewhere no one built.
+
 ### Story—Not unique
 
 **DING...DING...DING...Thank you for calling claims, how can I help you?**
@@ -4610,7 +4643,7 @@ I learned much doing property claims too, but those years in auto claims effecti
 
 Our society has a stutter of sorts. A hungry polar bear, a thirsty tree, a scared raccoon all have one too. The environment changed and the old response no longer works. There's no shame in that. Ours is just a block in the mind. We can be honest, confront it, and cure ourselves.
  
-## Chapter 17-Epilogue -  The Mutants
+## Chapter 17-Epilogue - The Mutants
 
 
 video of natural selection in germs different levels of antibiotics

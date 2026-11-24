@@ -6432,6 +6432,151 @@ Self-aware selection sees changes coming and responds on purpose. It's far bette
 
 ===
 
+## Chapter 15—Meeting the Coach
+
+To us, in everyday life, everything falls downward. From feathers on a bird to rocks on a cliff, if nothing supports it, it falls. The skeletons, muscles, and instincts of all animals, from squirrels to tigers, are shaped to make use of this rule of the game.
+
+Tigers have powerful legs to stalk and pounce on prey. Squirrels have strong, nimble ones to leap from branch to branch. Not because creatures understand they need muscles to move with and against gravity, but because those with weaker (or stronger and too costly to fuel) legs had fewer offspring and weren't selected to keep playing the game.
+
+When we became self-aware, we started to ask questions. Why do things fall downward? Why does it turn cold, then warm, then cold again on such a regular schedule? Why does the sun rise and set once a day?
+
+As skeletons are shaped by gravity and other natural laws, so are our senses. To answer these questions, we could only use the data our senses gave us. Majestic mountains, vast oceans, heroic ancestors, and the ever-present sun, moon, and stars became characters in grand explanations of the cosmos. Held inside stories, countless mythologies helped us pass knowledge to our young, time the seasons, and navigate the world.
+
+In time, some people tried to move beyond our stories, still using their eyes and ears but adding reason to find the rules that governed our world. Aristotle (384–322 BC) is the most famous among them. He used philosophy to explain ethics, storytelling, astronomy, and the natural world. To Aristotle, everything had a natural place: heavy things like soil and rock fall toward the center of the cosmos, while light things like fire and air rise away from it. So the round Earth must sit at the center, with the heavens circling around it. He also reasoned that heavier things fall faster, which seemed to explain why a rock beats a feather to the ground.
+
+This geocentric view, with Earth at the center of the universe, won over people's minds. It explained what people saw day to day, and it out-competed the sun-centered, heliocentric system of Aristarchus (c. 310–230 BC), which couldn't explain why, if Earth moves, the stars never appear to shift their position in the sky. Centuries later, Ptolemy (c. 100–170 AD) refined the geocentric model into an astronomy that, despite its wrong assumption, guided travelers and sailors and told farmers the seasons quite well, as long as its prediction tables were periodically corrected.
+
+Just as people once asked why things fall, they now asked why their predictions only stayed accurate for so long. As people struggled to find answers, Copernicus (1473-1543) revived Aristarchus's sun-centered idea. This began a slow revolution in thought as it questioned long-held views. It didn't make predictions more accurate however. Those would soon come because Tycho Brahe (1546-1601) built instruments to record the planets with unmatched accuracy.
+
+It was Tycho's assistant, Johannes Kepler (1571-1630), who found something hidden in that data: the planets do not move in perfect circles, as everyone had always assumed. Each moves in a slight oval around the sun. Without knowing why, Kepler wrote the laws of planetary motion that described their movement mathematically. Then Galileo (1564-1642) used the telescope to reveal moons circling Jupiter. So evidently not everything revolved around Earth. He also showed that, apart from air resistance, all things fall at the same rate.
+
+Newton (1643-1727) took these laws and observations, developed a new math called calculus, and wrote the laws of motion and universal gravitation. With universal gravitation, we finally understood that everything, from a baby crawling on the ground, to rocks falling off a cliff, to the stars above, moves according to the same laws. Newton's predictions were spectacularly accurate for two centuries. Only a tiny wobble in Mercury's orbit refused to fit, and the underlying cause of gravity remained a mystery.
+
+Enter Einstein (1879-1955). His theories of relativity reshaped our idea of gravity. We experience gravity as an everyday force, like lifting a rock or falling down stairs. But Einstein realized that someone in free fall feels no gravity at all, and from this he concluded that gravity is really the curvature of space and time. Mass and energy bend spacetime, and objects follow its curves. His math explained Mercury's wobble, and his equations predicted things no one had yet seen, like black holes. Relativity remains essential today: without its corrections, GPS would drift by several miles within a day.
+
+As we meet the coach, this brief history of astronomy shows us something vital. At first, our data was only what our eyes, ears, and memories could hold, and it became our stories and myths. Then we began recording the stars, letting each person see far beyond their own lifetime. The more data we gathered, the more of the whole picture we could see. Each step used more numbers, but the truth was always how the universe operates. The story enabled the philosophy, which allowed the science, and each step's authority depended less on the person who told it.
+
+No society suddenly embraced en masse any new understanding of astronomy and gravity. Like the mutation of a dark peppered moth, each new step was first adopted by a few people. Ideas evolve like anything else on the gameboard. An idea attracts followers when its accurate predictions help save or harvest new forms of energy. For example, Kepler's planetary tables made calendars and navigation more reliable, just as Einstein's math keeps GPS reliable today. The more energy we have, the more we can organize scattered materials into something useful.
+
+And the one selecting which ideas get played, harvesting the energy that turns dust into tools, is the coach.
+
+Natural selection acts on individuals. Alone. We can help a nephew or defend a stranger, but what gets tested is still one individual at a time. No group or movement has to form first. As the renowned biologist Ernst Mayr put it, the individual is “the principal object of selection.”
+
+The scoreboard counts one player at a time. That means you, whatever you're holding, and whatever you believe. Gravity, thirst, hunger, and disease act on every cell of an individual. A navigator can steer her body north or south, but not both. Each individual faces its own patch of the gameboard and its own sandclock.
+
+The player of the game is an individual. Seeing that clearly is the first step toward a new identity. An individual needs energy to stay together, which means it lives in the flow from useful to useless energy.
+
+To see why, look at what an individual is made of. Atoms contain protons and neutrons in the nucleus, with electrons surrounding it. An iron atom has 26 protons, while a sodium atom has 11. Water is a molecule made of two hydrogen atoms and one oxygen atom.
+
+As matter becomes more complex, it is made from a greater variety and number of parts. Molecules are formed from atoms, and cells from many molecules. A single-celled organism such as E. coli contains a cell membrane and cell wall, cytoplasm, DNA, RNA, ribosomes, proteins, water, sugars, fats, salts, and many other small molecules.
+
+Multicellular life adds another layer. More cells allow more kinds of cells: the human body has hundreds, from muscle and bone to nerve and blood. But however complex it is, each organism needs a steady supply of carbon, water, iron, calories, and other "bits of clay" to keep it running.
+
+Whichever individual finds a niche as a scavenger, consumer, predator, or other ecosystem role and has offspring is selected to keep playing that role.
+
+Biological players don't need to understand evolution's rules. A dog or shark will never understand gravity or use star charts. They don't need to. If a tree produces few nuts, or nuts with little nourishment, it will be outplanted by trees that produce more and better ones. Creatures don't need to be self-aware to get ther results they need to prosper.  Biological life adapts to the rulebook by trial and error. Boardmates that harvest energy well are naturally selected, and their ecosystems benefit along the way, without any of them ever understanding the world they live in.
+
+We do need to understand the world we live in.
+
+Because we have choice, we can practice artificial selection. We can be raccoons taking from an ecosystem and giving little back or the squirrel who plants forests by accident. We're the first player who can extract or plant on purpose.
+
+Without self-awareness, it often doesn't end well for us regardless of our intent or power inside human hierarchies.
+
+In the early 1980s Yuri Andropov ran the all-powerful Soviet spy agency KGB and then he ruled the entire country as virtual dictator. When speaking to his leadership comrades he admitted, "we don't know the society in which we live." Believing in such a rigid doctrine encourage warping facts and figures to keep critical eyes and opinion at bay. 
+
+Andropov's protégés, most notably Mikhail Gorbachev, saw the problem. They gave ministries more independence and introduced market-like reforms. Yet the regime with one of the world's most powerful intelligence agencies still couldn't understand why its reports said prosperity and progress while store shelves were empty, coal miners had no soap to wash their faces, and a nuclear power station blew up.
+
+Such is the power of human belief systems.
+
+As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a human one, that happens whenever the distance between selecting tools and its consequences gets too far apart. Allied generals had bunkers and battle ensuring safety from Nazi invasion, the same way Soviet leaders had offical five-year plans for the entire economy, the same way kings had grand palaces and spiritual reasons why they were born to rule.
+
+While we've studied physics, chemistry, astronomy, and biological evolution as sciences, we have not yet joined technological evolution into one science that traces the flow of energy and the adaptations that use it. So our identities aren't tied to the game we actually play every day. We name ourselves by our products, services, and job titles: distribution manager, software company, coffee shop. Yet underneath every label, each of us plays a role in an energy web built from our tools, as a producer, consumer, predator, scavenger, or decomposer. We know our name tags, but not our roles.
+
+Techvolution's new identity won't end misconceptions, hubris, or fanciful realities. Human groups need hierarchies, with ranks of authority, to carry out their beliefs, battle plans, and playbooks, and human error will always make those drift from the board. But the same imperfections exist in engineering, mathematics, and medicine, and they rarely bring down entire societies.
+
+Physics and the other sciences have this resilience because they measure outside forces and value prediction and results above social position and intent. We can measure technological growth, speciation, migration, and the roles of predators and scavengers, because each has a place in the energy flow, just as in any biological ecosystem.
+
+We already do much of the work. Industrial ecology tracks material and energy flows through economies the way an ecologist tracks them through a forest. Life-cycle assessment measures what a product costs in energy and materials, from extraction to disposal. Diffusion research measures how one technology spreads and displaces another. Insurance assesses the risk of failure in vehicles, homes, and businesses.
+
+What's missing is joining these insights into one account of where our food, warmth, and transport actually come from, and the rules of nature that govern their health, growth, divergence, and death. It's like trying to understand a forest without knowing the evolution that slowly shaped the oak, mushroom, bee, raccoon, and squirrel within it.
+
+And, it's helpful to note that our understanding of ecology, zoology, and biology developed quite similarly to the history of gravity and astronomy.
+
+Like astronomy, the study of life started with the mythological stories we've already looked at. Then philosophers, Aristotle most famously, among many others history has forgotten, began looking for natural truths. For astronomy, that meant explaining why feathers, rocks, and planets move as they do. For the study of life, it meant explaining all the creatures of the world.
+
+Aristotle grouped animals by visible traits, such as blood or no blood, and live young or eggs. This became known as natural history.
+
+As explorers brought back new species from around the world, more and more didn't fit the established categories. Naturalists sorted organisms by their visible traits, the way you might sort fruit into fleshy or dry.
+
+Carl Linnaeus (1707–1778) formalized this approach into a nested hierarchy: kingdom, class, order, genus, species. Each species received a two-part name, like Tyrannosaurus rex or Homo sapiens. The system worked well, but naturalists still defined species by what they could see.
+
+Darwin changed the meaning of those groupings. On the Galápagos Islands, he collected birds he took for wrens, blackbirds, and grosbeaks. Back in London, the ornithologist John Gould told him they were all finches, with beaks suited to seeds, insects, or cactus flowers. Despite their different looks, they descended from a common ancestor that had reached the remote islands. Species could be related without looking alike.
+
+As the biologist Theodosius Dobzhansky titled a 1973 essay, “Nothing in Biology Makes Sense Except in the Light of Evolution.” Classification by common descent organized the myriad species into a coherent tree, one that has largely held up to genetic testing. How else would we explain why hippos and whales, which look nothing alike, have such similar DNA?
+
+We've already seen how the Modern Synthesis changed biology, but it was a hard-won union. When Gregor Mendel published his experiments with pea plants in 1866, almost no one paid attention for 34 years. Even Thomas Hunt Morgan, whose fruit flies proved in the early 1900s that genes sit on chromosomes, began as a skeptic. For decades, field naturalists and lab geneticists distrusted each other. The naturalists thought lab work missed life as it is lived in the wild, and the geneticists saw naturalists as mere collectors. Only when the two joined forces did biology become the hard science we know. Then, in 1953, the discovery of DNA's double helix launched molecular biology as a field of its own.
+
+This same process applies to us, here and now. Nature doesn't read name-tags. We know iron by its 26 protons and its melting point of 1538 °C. We recognize a tiger by its color, anatomy, how it hunts to get the 10-15 pounds of meat it needs per day.
+
+And like the tiger, we each have a number: the energy we need to keep warm, raise our young, maintain our bodies, and survive another day. Whatever anyone thinks or believes, that number has to be paid. It's the one name-tag nature reads, and the one we can't take off.
+
+The number is the biggest reason why claim stories are in this book. Every insured had one. Finding it was my job. 
+
+In my years as an adjuster, understanding a claim was rarely about the money. The key was to let the insureds speak their mind, which invariably was a stream of thoughts and emotions, and hear the problem  from the person underneath. Almost always, insureds wanted the same thing: to return to their pre-loss condition and forget this claim ever happened.
+
+Getting them back to their pre-loss condition meant understanding the technological ecosystem well enough to find the right mix of players, materials, and services.
+
+Money is only a means to move these pieces around. What insureds actually need is a repair part shipped from Germany, an appraiser to quickly evaluate the damage, a tow truck to pick up their car, a rental car to get a kid to football, and clear expectations to head off any more surprises. The number is the mix of players, services, and tools needed to heal the person's technology and get them on their way again.
+
+Returning to pre-loss condition is the insurance version of what every living thing does each day. A healing wound, a squirrel rebuilding its nest after a storm, a city repaving its roads: each is paying the number to get back to where it was before the sandclock took its share.
+
+The process to find the right amount of energy and materials with your doctor doing blood work, or with an appraiser assessing car damage, is similar. None of it depends on gender, race, or ideology. Friends see Matthew and Sarah. Markets see Apple and Google. Economics sees pilot, bureaucrat, mechanic, welder. Politics sees left, right, pollster, voter.
+
+That's why, when people needed help, no one asked about my race or politics. As in most jobs, those labels aren't our link in the ecosystem. Nature's roles follow the flow of useful energy. Producers capture the sun’s energy, consumers and predators pass it up the web, and scavengers and decomposers return what’s left to the soil. Each stage has its own instincts, features, and needs. Race and politics hold no stage at all.
+
+And this work isn't just a matter of employees and managers. Natural selection doesn't care who or how anyone harvests available energy to organize more life. Composting your banana peel keeps its matter useful. Taking the stairs buys your body a little more time. Repairing an old appliance saves material and energy. Calling an old friend rekindles a fading friendship. A video recording of your crash silences the bell for a few minutes.
+
+The more energy or time a choice takes, the bigger the play. Each one either holds back the sandclock a little longer for the bodies, homes, and communities we've organized, or lets the sand run faster. No player beats the sandclock. But every one of us, on the job or off it, chooses how well we play against it.
+
+Our new identity is being a self-aware selector inside a technological ecosystem: someone who knows every person carries that number, understands others by it, and works with them to pay it more efficiently, freeing energy for the rest of life. In the game of technological life, that makes you the coach. All the time. Wherever you are. It's the identity techvolution offers, and the self-understanding Maria never had.
+
+Nature still keeps the score; the scoreboard never lies. But you are the one making choices. We took over much of nature's coaching every time we bought one tool over another, voted for one leader over another, or dropped a habit because doctors discovered smoking tobacco is terrible for our health.
+
+You've already met a team of coaches. Remember Maria's customers. No law shut down her DVD stores, and no one voted on it. Millions of ordinary people, one evening at a time, chose to stay home and press play instead of driving to the store. Each choice was small. Together, they selected the DVD out of the game and selected streaming in. That is what coaching looks like: not a speech, not a belief, just a choice of tool, repeated until the board changes.
+
+Just as squirrels and raccoons have an ecological identity, you already have a technological one. Like gravity, it was always there. It becomes new when you adopt it.
+
+None of this is a revelation. Storms and illness wear things down, and kids and new tools are how we keep score. You knew every piece already. We just never assembled them into the Game of Life, the same way people watched things fall for thousands of years before anyone called it gravity.
+
+So will AI take your job?
+
+Ask the coach. That means you, and the people your work serves. Not the boss with the title, but the customer who calls you for help.
+
+Don't wait for a pundit's prediction. You don't need a prediction any more than you need a promise from a doctor, mechanic, or claims adjuster. You need the number.
+
+Once you see that the Game of Life applies to us, finding that number is possible. It means assessing the ecosystem, noticing untapped energy, and capturing it as your niche.
+
+Take the tasks your job is made of and try them with AI. Where it does a task faster and cheaper, that task will likely go, the way the drive to the video store went. That can hurt, but it isn't the end of you. It's energy freed up. The label on your job may expire, but the role underneath it, getting food, warmth, transport, or stories to people, doesn't. And where AI can't do the task, you've found the part of your job the board still needs from you. A defended label has a limited lifespan. A role in the energy flow never expires. Our understanding of gravity, the stars, and life itself kept improving because people let old labels go.
+
+Your job is a species, and nobody has told you which one. Now you can find out for yourself. Look past its label to where it sits in the energy flow.
+
+Of course, this leaves big questions. How do I learn to assess, drop, and pick up tools regardless of the stories surrounding them, me, and my boardmates, friend or foe? How will I earn a living if I embrace the change that seems to threaten it? And how can society learn to keep mass-producing the diverse tools we need for prosperity?
+
+We've answered questions like these before. Each society's religion was once its universal truth, and jobs were often assigned at birth. We learned to live alongside many faiths and to change careers. Book II, _Mixed Ideological Politics_, and Book III, _Bumblebee Economics_, take up these questions with the same reason and science.
+
+Think back to the box under the tree: a rulebook, a gameboard, a sandclock, some clay, a scoreboard, and a blank booklet. You know what each piece does now. The rules don't bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. Life keeps reshaping its clay, the scoreboard keeps counting, and your booklet holds what you learn to pass on. But one piece was never in the box, because it was the one opening it. The coach was you all along.
+
+Now that you know who the coach is, let's watch the Game of Life play out.
+
+
+- Fixing or replacing a car isn't an obscure problem. How long before your repair part is made? What is the value of your car? What does your insurance policy cover? These are things we do everyday, but don't actually study specifcally. Do you know how long it takes to replace your "Johnston rod" in one car versus the next. We buy our cars on narrative like marketing or brand loyalty, tell ourselves these narratives are all we need until we need specific bits of matter to fix our car or 
+
+- what did it take to kickstart the science age? look through a telescope and record what you see. after enough observations, patterns emerge, and laws are uncovered. for all the genius of kepler and newton, they didn't think up gravity, rather just explain the series of well-kept observations. same for species and the like. and the same for us in a sort of identity awakening. what is the records of your actions and what is the laws behind them. they are the same as biological life.
+
+- how much money did I spend per day? idk, it wasn't tracked. How much did i spend over or below then another adjuster in a similar claim? idk. how many call backs did my claims get versus another? how many times did insd's call needlessly? how much traffic did a insured cause for checking a text while driving? have i told you i it was corporate or government insurance company? a small or large one. What race or religion my managers were. do you think that mattered more than the tools i was using when helping to solve your problems?
+
+===
+
 When I started my insurance job, I went back to my alma mater and found that in one of the biggest libraries in the world, insurance took up a single shelf of a single stack. But there was a gem: _Insuring the Industrial Revolution_ by Robin Pearson. It's a very well researched book on how insurance helped Britain industrialize as fast as it did.
 
 The Great Fire of London (1666) gave birth to fire insurance. Early insurers even ran their own fire brigades to fight fires at the buildings they insured, and since fire doesn't care about addresses, often at the neighbors' too. As cities kept burning (Edinburgh, Newcastle, Chicago, Boston, Toronto, San Francisco), insurers pushed for cities to adopt firefighters, fire escapes, extinguishers, and fire drills.
