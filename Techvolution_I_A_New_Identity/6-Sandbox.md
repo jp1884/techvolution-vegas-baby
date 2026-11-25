@@ -6593,3 +6593,70 @@ Benjamin Franklin showcased this moderation very well. One of the Founding Fathe
 We've already made the point that a species is a combination of genotype, phenotype, and extended phenotype. Ideas are part of our extended phenotype, and like any adaptation, they evolve. -->
 
 ===
+
+We don't have fishing nets, boats, and farms because of wants. They exist because when our ancestors found a lake, reached an ocean, or saw a vast field, they thought: _These are my surroundings, where is the energy_? Each time, they worked until they found the adaptations needed to harvest that energy and organize more matter into crops, homes, and tools to keep the game going.
+
+Society hands out name-tags that pay our bills. Nature has roles in an ecosystem, selected on the gameboard. Both have a different coach but the same selector.
+
+===
+
+
+To see the difference, we first need to see how our labels have evolved, from mythology to philosophy to science. Before we apply it to you, here's an example from astronomy.
+
+Everything falls, and life is built around that fact. Trees grow stiff wood and animals grow bones to stand against it. Squirrels and tigers have legs that leap and pounce, not because they understand gravity, but because those with weaker legs left fewer offspring.
+
+Humans, like other creatures, have bodies built to fight and use gravity. But when we became self-aware, we started asking why things fall. At first, all our data came from what our eyes, ears, and memories could provide, so we answered with stories: the sun, moon, mountains, and ancestors became characters in grand explanations of the cosmos.
+
+In time, some people tried to move beyond our stories, still using their eyes and ears but adding reason to find the rules that governed our world. Aristotle (384–322 BC) is the most famous among them. He used philosophy to explain ethics, storytelling, astronomy, and the natural world. To Aristotle, everything had a natural place: heavy things like soil and rock fall toward the center of the cosmos, while light things like fire and air rise away from it. So the round Earth must sit at the center, with the heavens circling around it. He also reasoned that heavier things fall faster, which seemed to explain why a rock beats a feather to the ground.
+
+This geocentric view, with Earth at the center of the universe, won over people's minds. It explained what people saw day to day, and it out-competed the sun-centered, heliocentric system of Aristarchus (c. 310–230 BC), which couldn't explain why, if Earth moves, the stars never appear to shift their position in the sky. Centuries later, Ptolemy (c. 100–170 AD) refined the geocentric model into an astronomy that, despite its wrong assumption, guided travelers and sailors and told farmers the seasons quite well, as long as its prediction tables were periodically corrected.
+
+Just as people once asked why things fall, they now asked why their predictions only stayed accurate for so long. As people struggled to find answers, Copernicus (1473-1543) revived Aristarchus's sun-centered idea. This began a slow revolution in thought as it questioned long-held views. It didn't make predictions more accurate however. Those would soon come because Tycho Brahe (1546-1601) built instruments to record the planets with unmatched accuracy.
+
+It was Tycho's assistant, Johannes Kepler (1571-1630), who found something hidden in that data: the planets do not move in perfect circles, as everyone had always assumed. Each moves in a slight oval around the sun. Without knowing why, Kepler wrote the laws of planetary motion that described their movement mathematically. Then Galileo (1564-1642) used the telescope to reveal moons circling Jupiter. So evidently not everything revolved around Earth. He also showed that, apart from air resistance, all things fall at the same rate.
+
+Newton (1643-1727) took these laws and observations, developed a new math called calculus, and wrote the laws of motion and universal gravitation. With universal gravitation, we finally understood that everything, from a baby crawling on the ground, to rocks falling off a cliff, to the stars above, moves according to the same laws. Newton's predictions were spectacularly accurate for two centuries. Only a tiny wobble in Mercury's orbit refused to fit, and the underlying cause of gravity remained a mystery.
+
+Enter Einstein (1879-1955). His theories of relativity reshaped our idea of gravity. We experience gravity as an everyday force, like lifting a rock or falling down stairs. But Einstein realized that someone in free fall feels no gravity at all, and from this he concluded that gravity is really the curvature of space and time. Mass and energy bend spacetime, and objects follow its curves. His math explained Mercury's wobble, and his equations predicted things no one had yet seen, like black holes. Relativity remains essential today: without its corrections, GPS would drift by several miles within a day.
+
+The full history is richer, but the pattern is clear: stories enabled philosophy, which allowed science. Each step used more data, and each step's authority depended less on the person who told it. The philosopher Auguste Comte called this his "law of three stages": from the theological, where spirits and gods explain the world, to the metaphysical, where abstract ideas do, to the scientific, built on observation, experiment, and comparison. Comte saw each stage replacing the last. But moving to the next stage doesn't make the others irrelevant. In fact, spirituality and philosophy, at their best, teach humility and self-doubt that is so needed when deciding where powers of science should, and should not, be used.
+
+Remember, no society suddenly embraced en masse any new understanding of astronomy and gravity. Like the mutation of a dark peppered moth, each new step was first adopted by a few people. There are plenty of people who resisted changing. they don't get mention here for the same reason campers don't know which creatures used to live in an environment, they are mostly no longer on the gameboard.
+
+Notice, ideas evolve like anything else on the gameboard. An idea attracts followers on its appeal, but sustains them when its accurate predictions help save or harvest new forms of energy. Like any adaptation, ideas stay around when they help harvest more energy to organize more scattered materials into something useful to keep the process going.
+
+===
+
+And we're nearing the coaches. But before we do, we must know this. Selection acts on individuals. We can help a nephew or defend a stranger, but what gets tested is still one individual at a time. No group or movement has to form to face selection. As the renowned biologist Ernst Mayr put it, the individual is "the principal object of selection."
+
+We've seen this throughout the book. I went to speech therapy or I didn't. My insured's ran a red light or were hit by another person who did. In Milgram's experiment each teacher sat alone at the switch, and any one of them could have found the learner a pencil. 
+
+In the First World War, General John Monash gave every infantry unit, tank, artillery piece, and aircraft its own precise part, instead of throwing men forward in waves. German blitzkrieg put a radio in every tank so each commander could read the field and act quickly. The Allies spread radios widely and empowered more individuals in factories and on battlefields, and got more good ideas and valor as a result.
+
+The digital age was invented by endless individuals making contributions. Brattain and Bardeen kept experimenting for months with no succeess. They had an idea of slicing gold foil and suddently proved the transistor were possible, kick starting humanity into the next technological age.
+
+The scoreboard counts one player at a time because individuals are the principal object of selection. That means you, whatever you're holding, and whatever you believe. Gravity, thirst, hunger, and disease act on you. A navigator can steer her body north or south. No individual can make both choices for the same reason two people, even twins, don't visit a doctor and get the same checkup results. Each individual faces its own patch of the gameboard and its own sandclock.
+
+===
+
+That's why biological players don't need to understand evolution's rules. A dog or shark will never grasp gravity or read a star chart beause nature handles selection. A tree with few or unhealthy nuts is simply outplanted by trees that fuel unknowing squirrels to spread their seed. With natural selection life can adapt to the rulebook by trial and error, and boardmates that harvest energy well are selected, their ecosystems benefiting along the way, without any of them understanding the world they live in.
+
+We do need to understand the world we live in. We can practice artificial selection and therefore need an artificial coach.
+
+Who is that?
+
+You. Me. And every other individual selector.
+
+Natural selection always the final coach, deciding which creatures, people, and tools stay in play. But we'll always have labels and regimes, and we choose those, which makes each of us the artificial, and lesser, coach. The better we choose, the less often the final coach has to step in, just as a farmer picks which plants to grow so drought doesn't have to weed out the weak ones.
+
+===
+
+First, creation stories explained every creature. In culture after culture, gods or spirits shaped each animal and plant just as it is, and the kinds of life were fixed from the beginning.
+
+Then philosophers sorted life by reason. Aristotle grouped animals by what he could see, such as blood or no blood, live young or eggs, and ranked them on a "ladder of nature" from simple to complex. Centuries later, Linnaeus gave every species a two-part name, like Homo sapiens, still sorting them by appearance and still assuming each species never changed.
+
+Finally came evidence. Darwin collected birds on the Galápagos that he took for wrens and blackbirds, until an expert told him they were all finches descended from one ancestor. Looks had misled everyone. Mendel's pea experiments revealed the rules of inheritance, and in 1953 the double helix showed how DNA carries them. Today, genetics confirms what Darwin suspected: hippos and whales, which look nothing alike, are close cousins, and all life shares common ancestors.
+
+
+===
+

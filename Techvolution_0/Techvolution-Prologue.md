@@ -9,6 +9,8 @@
 
 —Alan Kay
 
+ - do you want to be a person who usses a technology to survive, or be someone who builds a technological ecosystem that sustains you?
+
 ## Author's Note
 
 This book series covers personal identity, politics, and economics. No series can answer all the questions those complex subjects raise. But these books do offer a new perspective to build on, and its first part is a promise: they will not add fuel to our culture wars by telling you politics and economics are getting really bad, and to fix it, here's what _someone else_ needs to change.
@@ -84,6 +86,8 @@ That's what this book's new perspective gives you. The map is the Game of Life: 
 And the name for what happened to Maria, and what's happening to all of us, is techvolution.
 
 Let's see how the game is played.
+
+- a scarier prospect is, will AI not take your job. after all, being part of a society that of technological stagnation is hardly a recipe for security. 
 
 ## Illustration
 

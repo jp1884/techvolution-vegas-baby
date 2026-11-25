@@ -1578,6 +1578,8 @@ We put screens, sound systems, and broadband into every home, built the theater,
 
 - most everythin else was already remote. the faxes, photocopiers, file cabinets, projectors, and company picnics were long gone. everyone is already on a laptop but going to theatre to sit in the seats while the screen isn't even on. in short, people were moving to read the name-tags.
 
+- i can't drive a car and use AI at the same time. must make a choice...
+
 
 Face-to-face contact has real benefits. People travel to gyms, concerts, and research labs because of it. I benefited from my coworkers' company and visiting customers whenever I could. But it has drawbacks too. It encourages seeing the person and their name-tag instead of the problem. No one would think shocking a computer improves its memory, or that ringing a bell improves an AI-powered claims system.
 
@@ -1737,75 +1739,127 @@ Will AI take your job? You can soon answer that yourself. It's time to meet the 
 
 AI is here, and you don't know if your job is safe.
 
-What does that mean, though? You might not even like your job. Even if you do, you work for the paycheck that pays your bills. So fearing for your job is really about securing a place in a reliable and sustainable ecosystem that provides your food, shelter, and other needs.
+You might not even like your job. Even if you do, you work for the paycheck that pays your bills. So fearing for your job is really about securing a place in a reliable and sustainable ecosystem that provides your food, shelter, and other needs.
 
-Your ancestors wanted the same thing, and felt the same fear. All of them, from your grandparents back to the first people who chipped a stone into a tool. Wanting resources isn't cowardly or selfish. It's what Game of Life is all about. So how did the coach get them, and us, here?
+That's fair enough. Your ancestors wanted the same thing, and felt the same fear. All of them, from your grandparents back to the first people who chipped a stone into a tool. Wanting resources isn't cowardly or selfish. It's what the Game of Life is all about.
 
-The evidence is all around us. We have fishing nets, boats, and farms because when our ancestors found a lake, reached an ocean, or saw a vast field, they thought: _These are my surroundings_. Where is the energy? Each time, they worked until they found the adaptations needed to harvest that energy and organize more matter into life and tools to keep the game going.
+As we already know, the coach decides who stays in the game. But we've met two kinds of selection, natural and artificial, each with its own standards. Does that mean each has its own coach?
 
-So when you ask whether AI will take your job, ask yourself: what is my job? Society hands out name-tags that pay our bills. Nature has roles in an ecosystem, selected on the board. Each has a very different coach.
+Most definitely. The natural coach, true to its name, is unbiased, certain, and eternal, while the artificial coach is elusive, fickle, and hard to locate.
 
-To see the difference, we first need to see how our labels have evolved, from mythology to philosophy to science. Before we apply it to you, here's an example from astronomy.
+Before we meet either, we must know this: both test you, me, and everyone else one at a time. As the renowned biologist Ernst Mayr put it, the individual is "the principal object of selection."
 
-Everything falls, and life is built around that fact. Trees grow stiff wood and animals grow bones to stand against it. Squirrels and tigers have legs that leap and pounce, not because they understand gravity, but because those with weaker legs left fewer offspring.
+Like mail packages, each life is packaged alone and faces its own patch of the gameboard and its own sandclock. People can bond and form alliances, but a navigator can steer her body north or south, not both. Even identical twins get different results from the same checkup.
 
-Humans, like other creatures, have bodies built to fight and use gravity. But when we became self-aware, we started asking why things fall. At first, all our data came from what our eyes, ears, and memories could provide, so we answered with stories: the sun, moon, mountains, and ancestors became characters in grand explanations of the cosmos.
+Individual selection isn't the only force. Families help their own, groups rise and fall together, and luck plays a part: a forest fire or a falling bomb doesn't check anyone's fitness. But most of the time, selection meets us alone, and we must meet it alone.
 
-In time, some people tried to move beyond our stories, still using their eyes and ears but adding reason to find the rules that governed our world. Aristotle (384–322 BC) is the most famous among them. He used philosophy to explain ethics, storytelling, astronomy, and the natural world. To Aristotle, everything had a natural place: heavy things like soil and rock fall toward the center of the cosmos, while light things like fire and air rise away from it. So the round Earth must sit at the center, with the heavens circling around it. He also reasoned that heavier things fall faster, which seemed to explain why a rock beats a feather to the ground.
+We've seen this throughout the book. A dark peppered moth on a sooty tree trunk survived the birds; the pale moth beside it didn't. I went to speech therapy, or I didn't. My insureds ran a red light, or were hit by someone who did. In Milgram's experiment, each teacher sat alone at the switch, and any one of them could have found the learner a pencil.
 
-This geocentric view, with Earth at the center of the universe, won over people's minds. It explained what people saw day to day, and it out-competed the sun-centered, heliocentric system of Aristarchus (c. 310–230 BC), which couldn't explain why, if Earth moves, the stars never appear to shift their position in the sky. Centuries later, Ptolemy (c. 100–170 AD) refined the geocentric model into an astronomy that, despite its wrong assumption, guided travelers and sailors and told farmers the seasons quite well, as long as its prediction tables were periodically corrected.
+Because individuals are selection's main target, the systems that empower them tend to win. Combined arms warfare and the Allies' broad war effort put more power in more hands, and they prevailed. The digital age worked the same way. Centrally planned Soviet computing fell behind the West's drive for the personal computer, which moved mainframes, television networks, and libraries into laptops, smartphones, and ebooks anyone can hold. Empowering individuals works best because the scoreboard counts one player at a time.
 
-Just as people once asked why things fall, they now asked why their predictions only stayed accurate for so long. As people struggled to find answers, Copernicus (1473-1543) revived Aristarchus's sun-centered idea. This began a slow revolution in thought as it questioned long-held views. It didn't make predictions more accurate however. Those would soon come because Tycho Brahe (1546-1601) built instruments to record the planets with unmatched accuracy.
+The player of the game is an individual, across ecosystems, economies, countries, and companies, that means you, whatever you're holding, and whatever you believe are what's being evaluated. So meeting the coach isn't about finding some distant judge. It's about meeting your coach.
 
-It was Tycho's assistant, Johannes Kepler (1571-1630), who found something hidden in that data: the planets do not move in perfect circles, as everyone had always assumed. Each moves in a slight oval around the sun. Without knowing why, Kepler wrote the laws of planetary motion that described their movement mathematically. Then Galileo (1564-1642) used the telescope to reveal moons circling Jupiter. So evidently not everything revolved around Earth. He also showed that, apart from air resistance, all things fall at the same rate.
+What does that mean?
 
-Newton (1643-1727) took these laws and observations, developed a new math called calculus, and wrote the laws of motion and universal gravitation. With universal gravitation, we finally understood that everything, from a baby crawling on the ground, to rocks falling off a cliff, to the stars above, moves according to the same laws. Newton's predictions were spectacularly accurate for two centuries. Only a tiny wobble in Mercury's orbit refused to fit, and the underlying cause of gravity remained a mystery.
+The coach always judges each player by whether what it's made of fits its environment. The natural coach tests it with the number.
 
-Enter Einstein (1879-1955). His theories of relativity reshaped our idea of gravity. We experience gravity as an everyday force, like lifting a rock or falling down stairs. But Einstein realized that someone in free fall feels no gravity at all, and from this he concluded that gravity is really the curvature of space and time. Mass and energy bend spacetime, and objects follow its curves. His math explained Mercury's wobble, and his equations predicted things no one had yet seen, like black holes. Relativity remains essential today: without its corrections, GPS would drift by several miles within a day.
+To see what that means, look at what an individual is made of. Atoms build molecules, molecules build cells, and cells build bodies with hundreds of specialized kinds, from muscle and bone to nerve and blood. Each layer adds more parts and more variety. Even a single E. coli cell holds DNA, proteins, fats, sugars, salts, and thousands of other molecules. But however complex a body gets, it falls apart without a steady supply of clay, like carbon, water, and iron, plus the energy to keep it all organized.
 
-The full history is richer, but the pattern is clear: stories enabled philosophy, which allowed science. Each step used more data, and each step's authority depended less on the person who told it. The philosopher Auguste Comte called this his "law of three stages": from the theological, where spirits and gods explain the world, to the metaphysical, where abstract ideas do, to the scientific, built on observation, experiment, and comparison. Comte saw each stage replacing the last. But moving to the next stage doesn't make the others irrelevant. In fact, spirituality and philosophy, at their best, teach humility and self-doubt so needed make the powers of science are used wisely.
+Natural selection favors those whose makeup lets them pay that number where they live, gathering the nutrients and calories they need to survive and reproduce. A polar bear's fur and fat pay it in the Arctic but would fail it in a desert. A camel shouldn't be walking in the Amazon. The more easily a player pays its number, the more energy is left for offspring, and the better its score. That's all the scoreboard ever counts.
 
-Ideas evolve like anything else on the gameboard. No society suddenly embraced en masse any new understanding of astronomy and gravity. Like the mutation of a dark peppered moth, each new step was first adopted by a few people. An idea attracts followers when its accurate predictions help save or harvest new forms of energy. Ideas are proven good when they help harvest more energy to organize more scattered materials into something useful to keep the process going.
+The results are all around us.
 
-And we're nearing the coaches. But before we do, we must know this. Selection acts on individuals. We can help a nephew or defend a stranger, but what gets tested is still one individual at a time. No group or movement has to form to face selection. As the renowned biologist Ernst Mayr put it, the individual is "the principal object of selection."
+We have lush forests, teeming coral reefs, and deep ocean life because when their ancestors found a field, reached an ocean, or sank into the deep, they stayed and spread into the surroundings. Every player keeps spreading around until it finds energy. Whatever succeeded spawned children to keep doing it. Some lineages got better at catching sunlight, others at catching prey, building homes, or living off scraps from the ocean floor.
 
-We've seen this throughout the book. I went to speech therapy or I didn't. My insured's ran a red light or were hit by another person who did. In Milgram's experiment each teacher sat alone at the switch, and any one of them could have found the learner a pencil. 
+The natural coach is simply what happens when varied individuals compete for the limited energy an environment can sustain. Each is judged by how well it gathers nutrients and calories compared to the others around it.
 
-WWI General John Monash treated each infantry unit, tank, artillery piece, and aircraft as individual instead of members of a wave. Blitzkrieg put a radio in every German tank so each commander could read the field, relay messages, and act quickly. The Allies gave radios to every unit and empowered more individuals at the factory and battlefield and got more good ideas and valor as a result.
+Natural selection is cold, hard mathematics that creates bountiful life. When we meet our natural coach, this is the calculus. We get blood tests. We need roughly 2,000 calories a day and a long list of nutrients. Fall short on iron, and you get anemia. Miss out on vitamin C, and you get scurvy. Natural selection selected the bits of your body for a reason. It's a recipe it holds you to.
 
-The digital age was invented by endless individuals making contributions. Brattain and Bardeen kept experimenting for months with no succeess. They had an idea of slicing gold foil and suddently proved the transistor were possible, kick starting humanity into the next technological age.
+You meet your natural coach every time you have a health problem, feel hunger, learn a skill, or get into a car crash.
 
-The scoreboard counts one player at a time because individuals are the principal object of selection. 
+The artificial coach is different. We know that by now. But who the heck is it and how do we meet it?
 
-That means you, whatever you're holding, and whatever you believe. Gravity, thirst, hunger, and disease act on you. A navigator can steer her body north or south. No individual can make both choices for the same reason two people, even twins, don't visit a doctor and get the same checkup results. Each individual faces its own patch of the gameboard and its own sandclock.
+It's definitely human. That much we know. And like any creature, we need nutrients and energy to keep our bodies together and moving. So let's look where the humans are.
 
-The player of the game is an individual. Seeing that clearly is the first step toward a new identity.
+<!--  far too long below..... -->
 
-There are two coaches in this game. Natural selection is always the final one, deciding which creatures, people, and tools stay in play.
+We have fishing nets, boats, and farms for this reason. They exist because when our ancestors found a lake, reached an ocean, or saw a vast field, they thought: _These are my surroundings, where is the energy_? Each time, they worked until they found the adaptations needed to harvest that energy and organize more matter into crops, homes, and tools to keep the game going.
 
-It decides on the number.
+We knew we needed energy. We knew to go looking for it. But the selection of the tools needed to get it was full of mistakes. And as we look to meet the coach of artificial selection, it's important to know, the mistakes have a trend. We get wiser as we grow up.
 
-Meaning, it only assess what an individual is made of. Atoms build molecules, molecules build cells, and cells build bodies with hundreds of specialized kinds, from muscle and bone to nerve and blood. Each layer adds more parts and more variety. Even a single E. coli cell holds DNA, proteins, fats, sugars, salts, and thousands of other molecules. But however complex a body gets, it falls apart without a steady supply of clay, like carbon, water, and iron, plus the energy to keep it all organized.
+So, where do we go from here? We expand into the future to search for resources. We have a map.
 
-Natural selects those who can supply themselves with all the numbers of nutrients and calories it needs to survive and procreate. The easier this number is reached the better the scoreboard of proceation gets. That's all natural selection ever sees.
+The philosopher Auguste Comte called it the "law of three stages": from the theological, where spirits and gods explain the world, to the metaphysical, where abstract ideas do, to the scientific, built on observation, experiment, and comparison. Comte saw each stage replacing the last. But moving to the next stage doesn't make the others irrelevant. In fact, spirituality and philosophy, at their best, teach humility and self-doubt that is so needed when deciding where powers of science should, and should not, be used.
 
-That's why biological players don't need to understand evolution's rules. A dog or shark will never grasp gravity or read a star chart beause nature handles selection. A tree with few or unhealthy nuts is simply outplanted by trees that fuel unknowing squirrels to spread their seed. With natural selection life can adapt to the rulebook by trial and error, and boardmates that harvest energy well are selected, their ecosystems benefiting along the way, without any of them understanding the world they live in.
+We can see it in so many realms.
 
-We do need to understand the world we live in. There are two coaches in this game. Natural selection is always the final one, deciding which creatures, people, and tools stay in play. But we'll always have labels and regimes, and we choose those, which makes each of us the second, and lesser, coach. The better we choose, the less often the final coach has to step in, just as a farmer picks which plants to grow so drought doesn't have to weed out the weak ones.
+Astronomy was first about a sky was full of gods. The Greeks saw Helios driving the sun across the sky in a golden chariot, and other cultures had their own sky gods and star stories. These myths helped people time the seasons and navigate, but they couldn't explain why.
 
-Because we have choice, we can practice artificial selection. We can either be raccoons taking from an ecosystem and giving little back or the squirrel who plants forests with foresight. We're the first player who can extract or plant on purpose. Every player has this choice, but is still only selected to keep playing when the make the good kind.
+Then philosophers added reason. Aristotle argued that heavy things fall toward the center of the cosmos, so Earth must sit at the center, with the sun and planets circling it in perfect spheres. He also reasoned that heavier things fall faster, which is why a rock beats a feather to the ground. Ptolemy built this into an astronomy that guided sailors for centuries, though its tables needed regular correcting.
 
-Because without self-awareness, it often doesn't end well for us regardless of our intent or authority inside human hierarchies.
+Finally came measurement. Tycho Brahe recorded the planets with unmatched precision, and his assistant Kepler found they move in ovals around the sun. Galileo's telescope revealed moons circling Jupiter, and he showed that, apart from air resistance, all things fall at the same rate. Newton then explained it all with one law universal law of of gravity, and Einstein refined it so well that his math keeps your phone's GPS accurate today.
 
-There are endless examples, so let's return to one we've already met: the Soviet Union. In 1961, the Party promised that Soviet citizens would live under the bounty of full communism by about 1980. After fifteen years running the all-powerful KGB, Yuri Andropov took power in 1982, right on schedule for utopia. Speaking to the Party's leadership, he admitted, "We don't know the society in which we live." A doctrine with so much promise, rewards anyone who warps facts and figures to keep critical eyes away. Despite a vast intelligence system, Soviet officials couldn't see how far reality had fallen from the official plans.
+With medicine, illness was a curse, a punishment, or an angry spirit. The sick prayed at temples to healing gods like the Greek Asclepius, and healers drove out evil with charms and rituals.
+
+Then philosophers looked for natural causes. Galen, building on Hippocrates, taught that health depended on balancing four "humors": blood, phlegm, yellow bile, and black bile. Too much blood? Let some out. His system made sense of what doctors saw and ruled medicine for over a thousand years.
+
+Finally came measurement. Vesalius dissected human bodies and corrected Galen's mistakes. Microscopes revealed tiny living things no eye had seen, and Pasteur and Koch proved that germs cause disease. Today, vaccines and antibiotics save millions of lives each year.
+
+Notice, ideas evolve like anything else on the gameboard. An idea attracts followers on its appeal, but sustains them when its accurate predictions help save or harvest new forms of energy. Like any adaptation, ideas stay around when they help harvest more energy to organize more scattered materials into something useful to keep the process going.
+
+So many fields, from weather to biology have the same trend of mythology of creation stories of life, than reason sorted lifeforms based on how they looked, finally Darwin's and genetics showed that looks mislead and all life shares common ancestors that evolved by natural selection. Which explains why whales and hippos are cousins.
+
+Our politics and economics are on this samge step but have no yet reached science. It will once you see the artiificial coach.
+
+Here's one example we've already met: the Soviet Union. In 1961, the Party promised that Soviet citizens would live under the bounty of full communism by about 1980. After fifteen years running the all-powerful KGB, Yuri Andropov took power in 1982, right when utopia was due to arrive. It didn't.
+
+Speaking to the Party's leadership, he admitted, "We don't know the society in which we live." A doctrine with so much promise, rewards anyone who warps facts and figures to keep critical eyes away. Despite a vast intelligence system, Soviet officials couldn't see how far reality had fallen from the official plans that said communism was coming.
 
 In 1984 Andropov's protégé Mikhail Gorbachev took charge amind a rising question: where was their utopia? He launched glasnost, opening up information, and perestroika, sweeping reforms giving ministries more independence to let farm and factory managers make more of their own choices.
 
-Yet the regime couldn't question its core assumption. Like astronomers who kept Earth at the center of the universe, Soviet leaders held that the ideologically correct plan and the right upbringing mattered more than what individuals chose to do. They couldn't see that because individuals are the ones selected, individuals should be the ones selecting.
+It didn't work. The regime couldn't question its core assumption. Like astronomers who kept Earth at the center of the universe, Soviet leaders held that the ideologically correct plan and the right upbringing mattered more than what individuals chose to do. They couldn't see that because individuals are the ones selected, individuals should be the ones selecting, i.e. free-market and democracy. Not perfect, but far better for the moderation we've already met.
 
-So people kept playing the game, just in secret. The endless numbres of regulators, officials, paper pushers reported what the regime wanted to hear while trading on the black market, hoarding supplies, and saving their energy for side work that actually brought them resources. Official plans still promised progress. The scoreboard said otherwise: store shelves were empty, coal miners had no soap to wash their faces, and a nuclear power station would soon blow up. The Soviet operated supply chain couldn't supply neccessities so people found a way to get them.
+Here we see the artificial and natural selection in action. Soviet citizens started to play two games, one was official the other was in secret.
 
-As we've seen, living inside imagined ecosystems is not a Soviet problem. It's a human one, and it can happen in any mythology, philosophy, or even science, when the data suggests a problem.
+The endless numbres of regulators, officials, paper pushers reported what the regime wanted to hear while trading on the black market, hoarding supplies, and saving their energy for side work that actually brought them resources. That's how official plans still promised progress while store shelves were empty, coal miners had no soap to wash their faces, and a nuclear power station would soon blow up.
+
+The Soviet operated supply chain couldn't supply the neccessities so people found a way to get them. People had to do this, because surviving entropy can't be done with speeches and promises, so we must play for natural selection.
+
+As we've seen, living inside imagined ecosystems is not a Soviet problem., because we still can't see the difference between natural and artificial selection. A new identity is a belief. A filter for the mind to see the difference between natural and artificial selection and realize the goal of the latter is to match the former as much as possible.
+
+
+It's a human one, and it can happen in any mythology, philosophy, or even science, natural selection is acting on us but our beliefs don't allow us to respond, that is artificial of course.
+
+the trick is to see through the storytelling of our beliefs to realize natural selection is the coach tell us something is wrong...
+
+
+While natural selection was noticing the drop in food production, environmental disaster, huge bureaucratic delays, the regime thought it's people would stay loyal. They did, to the pains of natural selection....
+
+
+
+
+is this working? where are the resources? Our beliefs give us name-tags of employeee, manager, conservative, progressive, and so on. Meanwhile these labels do not sustain, fuel, and replace our atoms and molecules that compose us and natural selection can't read our languages.
+
+A artificial coach knows nature doesn't read name-tags. 
+
+
+
+
+
+
+
+
+
+, because we still can't see the difference between natural and artificial selection. A new identity is a belief. A filter for the mind to see the difference between natural and artificial selection and realize the goal of the latter is to match the former as much as possible.
+
+
+AI will not take your job to the natural coach. It may take your artificial job....
+
+We can either be raccoons taking from an ecosystem and taking our chances with natural selection. Or we can give a little back like the squirrel who plants forests and find a good meal and place to live. Because of our technology, every player has this choice.
+
+Making bad choices doesn't end well for us regardless of our intent or authority inside human hierarchies.
+
+
 
 The data is the environmental inputs. The predicted location of a planet or the fact rock and feather fall the same rate. For us today the inputs that disagree with what our beliefs say is your pains. Your time on hold. You're rising food and energy costs. Your uncertain job prospects. Our beliefs give us name-tags of employeee, manager, conservative, progressive, and so on. Meanwhile these labels do not sustain, fuel, and replace our atoms and molecules that compose us.
 
@@ -1841,7 +1895,7 @@ Returning to pre-loss condition is the insurance version of what every living th
 
 The process to find the right amount of energy and materials with your doctor doing blood work, or with an appraiser assessing car damage, is similar. None of it depends on gender, race, or ideology. Friends see Matthew and Sarah. Markets see Apple and Google. Economics sees pilot, bureaucrat, mechanic, welder. Politics sees left, right, pollster, voter.
 
-That's why, when people needed help, no one asked about my race or politics. As in most jobs, those labels aren't our link in the ecosystem. Nature's roles follow the flow of useful energy. Producers capture the sun’s energy, consumers and predators pass it up the web, and scavengers and decomposers return what’s left to the soil. Each stage has its own instincts, features, and needs. Race and politics hold no stage at all.
+That's why, when people needed help, no one asked about my race or politics. As in most jobs, those labels aren't our link in the ecosystem. Nature's roles follow the flow of useful energy. Producers capture the sun's energy, consumers and predators pass it up the web, and scavengers and decomposers return what's left to the soil. Each stage has its own instincts, features, and needs. Race and politics hold no stage at all.
 
 And this work isn't just a matter of employees and managers. Natural selection doesn't care who or how anyone harvests available energy to organize more life. Composting your banana peel keeps its matter useful. Taking the stairs buys your body a little more time. Repairing an old appliance saves material and energy. Calling an old friend rekindles a fading friendship. A video recording of your crash silences the bell for a few minutes.
 
