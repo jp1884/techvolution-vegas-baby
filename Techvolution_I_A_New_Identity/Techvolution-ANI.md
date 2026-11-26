@@ -1773,72 +1773,114 @@ We have lush forests, teeming coral reefs, and deep ocean life because when thei
 
 The natural coach is simply what happens when varied individuals compete for the limited energy an environment can sustain. Each is judged by how well it gathers nutrients and calories compared to the others around it.
 
-Natural selection is cold, hard mathematics that creates bountiful life. When we meet our natural coach, this is the calculus. We get blood tests. We need roughly 2,000 calories a day and a long list of nutrients. Fall short on iron, and you get anemia. Miss out on vitamin C, and you get scurvy. Natural selection selected the bits of your body for a reason. It's a recipe it holds you to.
+Natural selection is cold, hard mathematics that creates bountiful life. When we meet our natural coach, this is the calculus. We need roughly 2,000 calories a day and a long list of nutrients. Fall short on iron, and you get anemia. Miss out on vitamin C, and you get scurvy. Natural selection selected the bits of your body for a reason. It's a recipe of bits you must keep together.
 
 You meet your natural coach every time you have a health problem, feel hunger, learn a skill, or get into a car crash.
 
-The artificial coach is different. We know that by now. But who the heck is it and how do we meet it?
+The artificial coach is different. We know that by now. But who the heck is it, and how do we meet it?
 
-It's definitely human. That much we know. And like any creature, we need nutrients and energy to keep our bodies together and moving. So let's look where the humans are.
+It's definitely a human creation. We know that because it's artificial. So let's look at where the humans are and what we do.
 
-<!--  far too long below..... -->
+We play the game, of course. We need to meet the same requirements as anything else, and we meet them with tools. That's why we have fishing nets, boats, and farms. When our ancestors found a lake, reached an ocean, or saw a vast field, they didn't just spread into it like other creatures. They thought: These are my surroundings. Where is the energy? Each time, they worked until they found the adaptations needed to harvest that energy and organize more matter into crops, homes, and tools to keep the game going.
 
-We have fishing nets, boats, and farms for this reason. They exist because when our ancestors found a lake, reached an ocean, or saw a vast field, they thought: _These are my surroundings, where is the energy_? Each time, they worked until they found the adaptations needed to harvest that energy and organize more matter into crops, homes, and tools to keep the game going.
+We knew we needed energy, and we knew to go looking for it. But our selection of tools was full of mistakes, and inside those mistakes we can see artificial selection at work. Let's examine one example we've already met: the Soviet Union.
 
-We knew we needed energy. We knew to go looking for it. But the selection of the tools needed to get it was full of mistakes. And as we look to meet the coach of artificial selection, it's important to know, the mistakes have a trend. We get wiser as we grow up.
+In 1961, the Communist Party promised Soviet citizens something remarkable. Guided by "scientific socialism," the country would build full communism by about 1980: abundance for all, and with it the freedom to stop being cogs in a factory and become whoever they wished, artists, parents, or thinkers. Posters, rallies, and production targets all pointed toward that promise, and many believed it.
 
-So, where do we go from here? We expand into the future to search for resources. We have a map.
+In 1982, after fifteen years running the all-powerful KGB, Yuri Andropov took power. Utopia was due any day, but it wasn't here. Worse, the supposedly backward West had full stores and ever-improving technology. Speaking to the Party's leadership, Andropov admitted, "We don't know the society in which we live." Despite a vast intelligence system, officials couldn't see how far reality had fallen from the plans. A doctrine that promises so much, and can't be questioned, rewards anyone who warps facts to keep critical eyes away.
 
-The philosopher Auguste Comte called it the "law of three stages": from the theological, where spirits and gods explain the world, to the metaphysical, where abstract ideas do, to the scientific, built on observation, experiment, and comparison. Comte saw each stage replacing the last. But moving to the next stage doesn't make the others irrelevant. In fact, spirituality and philosophy, at their best, teach humility and self-doubt that is so needed when deciding where powers of science should, and should not, be used.
+In 1985, Andropov's protégé Mikhail Gorbachev took charge amid a rising question: where was their utopia? He launched glasnost, opening up information, and perestroika, sweeping reforms that loosened central planning and let farm and factory managers make more of their own choices.
 
-We can see it in so many realms.
+It didn't work. Like astronomers who clung to an Earth-centered universe, the regime couldn't question its core assumption: that ideologically correct plans and people would outperform greed-prone individual initiative. Its leaders couldn't see that because individuals are the ones selected, individuals should be the ones selecting, through free markets and democracy. Those systems aren't perfect, as we've seen, but they work better because they moderate between genotype and phenotype, mass production and diversity, left and right.
 
-Astronomy was first about a sky was full of gods. The Greeks saw Helios driving the sun across the sky in a golden chariot, and other cultures had their own sky gods and star stories. These myths helped people time the seasons and navigate, but they couldn't explain why.
+Here we can watch artificial selection in action. Soviet citizens began playing two games: the official one, and the real one the natural coach was scoring.
 
-Then philosophers added reason. Aristotle argued that heavy things fall toward the center of the cosmos, so Earth must sit at the center, with the sun and planets circling it in perfect spheres. He also reasoned that heavier things fall faster, which is why a rock beats a feather to the ground. Ptolemy built this into an astronomy that guided sailors for centuries, though its tables needed regular correcting.
+The Soviet Union had countless officials, regulators, and clerks to write, monitor, and enforce its plans. Doctrine promised a selfless "New Soviet Man," the perfect steward of central planning. But as the economy faltered, officials reported what the regime wanted to hear and covered for each other. Imagine a factory reporting 10,000 ball bearings when it shipped 5,000 to a pen factory. The pen factory, in on it, reports 10,000 pens though it could make only 4,000. No matter: the department store reports 6,000 sold. Multiply that by tires, steel, and everything else.
 
-Finally came measurement. Tycho Brahe recorded the planets with unmatched precision, and his assistant Kepler found they move in ovals around the sun. Galileo's telescope revealed moons circling Jupiter, and he showed that, apart from air resistance, all things fall at the same rate. Newton then explained it all with one law universal law of of gravity, and Einstein refined it so well that his math keeps your phone's GPS accurate today.
+The official supply chain couldn't deliver the necessities, so people found their own. Officials traded what they controlled on the black market, citizens hoarded supplies, and everyone saved their energy for side work that actually paid. While store shelves sat empty, an unofficial market kept the country fed. It had to. Speeches and promises can't hold off the sandclock.
 
-With medicine, illness was a curse, a punishment, or an angry spirit. The sick prayed at temples to healing gods like the Greek Asclepius, and healers drove out evil with charms and rituals.
+As we've seen, living inside imagined ecosystems isn't a Soviet problem. Every society's beliefs hand out name-tags and status, and tell us how to rank one another. The Soviet example shows how to spot artificial selection not just in hindsight, but as it happens: compare the society you live in to the standards of natural selection.
 
-Then philosophers looked for natural causes. Galen, building on Hippocrates, taught that health depended on balancing four "humors": blood, phlegm, yellow bile, and black bile. Too much blood? Let some out. His system made sense of what doctors saw and ruled medicine for over a thousand years.
+That comparison is your job, because you are the principal object of selection. Study what the natural coach demands, and make your choices meet it before it has to step in, reliably and renewably. Farmers and doctors do this every day. Our personal identities should too.
 
-Finally came measurement. Vesalius dissected human bodies and corrected Galen's mistakes. Microscopes revealed tiny living things no eye had seen, and Pasteur and Koch proved that germs cause disease. Today, vaccines and antibiotics save millions of lives each year.
+A new identity is a belief: a filter that helps the mind see the difference between natural and artificial selection, and recognize that the second should match the first as closely as possible. The trick is to see through the stories of our beliefs and notice when the natural coach is telling us something is wrong.
 
-Notice, ideas evolve like anything else on the gameboard. An idea attracts followers on its appeal, but sustains them when its accurate predictions help save or harvest new forms of energy. Like any adaptation, ideas stay around when they help harvest more energy to organize more scattered materials into something useful to keep the process going.
+So the natural coach is the board's results, and the artificial coach is human choice. Who's making those choices?
 
-So many fields, from weather to biology have the same trend of mythology of creation stories of life, than reason sorted lifeforms based on how they looked, finally Darwin's and genetics showed that looks mislead and all life shares common ancestors that evolved by natural selection. Which explains why whales and hippos are cousins.
+You are the coach. Or better said, you coach yourself.
 
-Our politics and economics are on this samge step but have no yet reached science. It will once you see the artiificial coach.
+The Game of Life is not the Game of You, but it is played by you. You have your own emergent gameboard, your own sandclock, your own custom clay. Add your choices and beliefs, and together they make up every selection you make in the game.
 
-Here's one example we've already met: the Soviet Union. In 1961, the Party promised that Soviet citizens would live under the bounty of full communism by about 1980. After fifteen years running the all-powerful KGB, Yuri Andropov took power in 1982, right when utopia was due to arrive. It didn't.
+If you insist your playbook is right regardless of the results on the gameboard, you're coaching badly. If you judge human name-tags by the standards of natural selection, you're coaching well.
 
-Speaking to the Party's leadership, he admitted, "We don't know the society in which we live." A doctrine with so much promise, rewards anyone who warps facts and figures to keep critical eyes away. Despite a vast intelligence system, Soviet officials couldn't see how far reality had fallen from the official plans that said communism was coming.
+When food production dropped, environmental disaster increased, huge bureaucracy caused endless delays, the Soviet regime thought it's people would stay loyal to their mission. The people did, to the pains of natural selection because feeding, sheltering, securing oneself is an absolute must.
 
-In 1984 Andropov's protégé Mikhail Gorbachev took charge amind a rising question: where was their utopia? He launched glasnost, opening up information, and perestroika, sweeping reforms giving ministries more independence to let farm and factory managers make more of their own choices.
+<!-- list..... -->
 
-It didn't work. The regime couldn't question its core assumption. Like astronomers who kept Earth at the center of the universe, Soviet leaders held that the ideologically correct plan and the right upbringing mattered more than what individuals chose to do. They couldn't see that because individuals are the ones selected, individuals should be the ones selecting, i.e. free-market and democracy. Not perfect, but far better for the moderation we've already met.
+- natural selection has numbers, artificial has name-tags.
+- cost of living, traffic, job placement, the bell, are symptons
+- can't keep your job/identity and the rest changes
+- mass-production, diversity are divided between left/right.
+- both are living off post-ware energy bloom in oil/people, as that fades, the other must sacrifice to keep it all going in an increasingly artificial supply chain.
+- aiming for better, universal adoption of any new tech is needed to transform our ecosystem/supply chain.
+- we are like wave tactics in WWI, trying to increase inputs of oil-energy/people-time, we have new tech but don't distribute for individual frontline based on environmental needs.
 
-Here we see the artificial and natural selection in action. Soviet citizens started to play two games, one was official the other was in secret.
+<!-- end of list -->
 
-The endless numbres of regulators, officials, paper pushers reported what the regime wanted to hear while trading on the black market, hoarding supplies, and saving their energy for side work that actually brought them resources. That's how official plans still promised progress while store shelves were empty, coal miners had no soap to wash their faces, and a nuclear power station would soon blow up.
+Are we done? Do we have a new identity?
 
-The Soviet operated supply chain couldn't supply the neccessities so people found a way to get them. People had to do this, because surviving entropy can't be done with speeches and promises, so we must play for natural selection.
+Let's test it out.
 
-As we've seen, living inside imagined ecosystems is not a Soviet problem., because we still can't see the difference between natural and artificial selection. A new identity is a belief. A filter for the mind to see the difference between natural and artificial selection and realize the goal of the latter is to match the former as much as possible.
+Is this working? where are the resources? Our beliefs give us name-tags of employeee, manager, conservative, progressive, and so on. Meanwhile these labels do not sustain, fuel, and replace our atoms and molecules that compose us and natural selection can't read our languages.
 
-
-It's a human one, and it can happen in any mythology, philosophy, or even science, natural selection is acting on us but our beliefs don't allow us to respond, that is artificial of course.
-
-the trick is to see through the storytelling of our beliefs to realize natural selection is the coach tell us something is wrong...
-
-
-While natural selection was noticing the drop in food production, environmental disaster, huge bureaucratic delays, the regime thought it's people would stay loyal. They did, to the pains of natural selection....
+- Look at all we've accomplished
+  - extremism is okay in bit, but is always re-balanced by it opposite
+  - moderation wins out
+  - you're job isn't to cheer, but to evalualte based on your pains...
+  - we don't consult our belief system when solving pains like adopting streaming or a better search engine. what's the point as solving pains is the end goal anyway
 
 
+Our new identity is being a self-aware selector inside a technological ecosystem: someone who knows every person carries that number, understands others by it, and works with them to pay it more efficiently, freeing energy for the rest of life. In the game of technological life, that makes you the coach. All the time. Wherever you are. It's the identity techvolution offers, and the self-understanding Maria never had.
+
+Nature still keeps the score; the scoreboard never lies. But you are the one making choices. We took over much of nature's coaching every time we bought one tool over another, voted for one leader over another, or dropped a habit because doctors discovered smoking tobacco is terrible for our health.
+
+You've already met a team of coaches. Remember Maria's customers. No law shut down her DVD stores, and no one voted on it. Millions of ordinary people, one evening at a time, chose to stay home and press play instead of driving to the store. Each choice was small. Together, they selected the DVD out of the game and selected streaming in. That is what coaching looks like: not a speech, not a belief, just a choice of tool, repeated until the board changes.
+
+So will AI take your job?
+
+Ask the coach. That means you, and the people your work serves. Not the boss with the title, but the customer who calls you for help.
+
+Don't wait for a pundit's prediction. You don't need a prediction any more than you need a promise from a doctor, mechanic, or claims adjuster. You need the number.
+
+Once you see that the Game of Life applies to us, finding that number is possible. It means assessing the ecosystem, noticing untapped energy, and capturing it as your niche.
+
+Take the tasks your job is made of and try them with AI. Where it does a task faster and cheaper, that task will likely go, the way the drive to the video store went. That can hurt, but it isn't the end of you. It's energy freed up. The label on your job may expire, but the role underneath it, getting food, warmth, transport, or stories to people, doesn't. And where AI can't do the task, you've found the part of your job the board still needs from you. A defended label has a limited lifespan. A role in the energy flow never expires. Our understanding of gravity, the stars, and life itself kept improving because people let old labels go.
+
+Your job is a species, and nobody has told you which one. Now you can find out for yourself. Look past its label to where it sits in the energy flow.
+
+Of course, this leaves big questions. How do I learn to assess, drop, and pick up tools regardless of the stories surrounding them, me, and my boardmates, friend or foe? How will I earn a living if I embrace the change that seems to threaten it? And how can society learn to keep mass-producing the diverse tools we need for prosperity?
+
+We've answered questions like these before. Each society's religion was once its universal truth, and jobs were often assigned at birth. We learned to live alongside many faiths and to change careers. Book II, _Mixed Ideological Politics_, and Book III, _Bumblebee Economics_, take up these questions with the same reason and science.
+
+Think back to the box under the tree: a rulebook, a gameboard, a sandclock, some clay, a scoreboard, and a blank booklet. You know what each piece does now. The rules don't bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. Life keeps reshaping its clay, the scoreboard keeps counting, and your booklet holds what you learn to pass on. But one piece was never in the box, because it was the one opening it. The coach was you all along.
+
+Now that you know who the coach is, let's watch the Game of Life play out.
 
 
-is this working? where are the resources? Our beliefs give us name-tags of employeee, manager, conservative, progressive, and so on. Meanwhile these labels do not sustain, fuel, and replace our atoms and molecules that compose us and natural selection can't read our languages.
+
+
+
+
+
+
+Wolfram, Craig Reynolds. Just as the gameboard is an emergent property, so is life as it follows these basic tenants...
+Sandbox, its not he Game of You, but it's played entirely by you. Your gameboard, clock, bits, and now your choices, make up the selections you make.
+
+These mistakes evolve. We learn from them. We get wiser as we grow up....
+
+
+
+
 
 A artificial coach knows nature doesn't read name-tags. 
 
@@ -1933,6 +1975,7 @@ Think back to the box under the tree: a rulebook, a gameboard, a sandclock, some
 
 Now that you know who the coach is, let's watch the Game of Life play out.
 
+- the energy bloom of the industrial age is ending and people are fighting for a spot on what's left. who will be the leader, who gets the the film lead, who gets a spot....
 
 - Fixing or replacing a car isn't an obscure problem. How long before your repair part is made? What is the value of your car? What does your insurance policy cover? These are things we do everyday, but don't actually study specifcally. Do you know how long it takes to replace your "Johnston rod" in one car versus the next. We buy our cars on narrative like marketing or brand loyalty, tell ourselves these narratives are all we need until we need specific bits of matter to fix our car or 
 
@@ -4739,6 +4782,8 @@ We ask immigrants and kids to change their identity. we're just doing it on a ta
 - how did hollywood productions go global? do you think they mailed their daily film stocks and video effects in the mail? (chasing credits)
 
 - the best answers are the ones that bring more questions.
+
+
 
 --
 
