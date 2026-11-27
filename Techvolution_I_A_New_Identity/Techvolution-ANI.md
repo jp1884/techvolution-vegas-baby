@@ -1749,39 +1749,39 @@ Most definitely. The natural coach, true to its name, is unbiased, certain, and 
 
 Before we meet either, we must know this: both test you, me, and everyone else one at a time. As the renowned biologist Ernst Mayr put it, the individual is "the principal object of selection."
 
-Like mail packages, each life is packaged alone and faces its own patch of the gameboard and its own sandclock. People can bond and form alliances, but a navigator can steer her body north or south, not both. Even identical twins get different results from the same checkup.
+Each lifeform is packaged alone and faces its own patch of the gameboard and its own sandclock. We can't be in two places at once. A wolf pack doesn't hunt a herd; it singles out one deer. A navigator can steer her body north or south, not both. Even identical twins get different results from the same blood tests.
 
-Individual selection isn't the only force. Families help their own, groups rise and fall together, and luck plays a part: a forest fire or a falling bomb doesn't check anyone's fitness. But most of the time, selection meets us alone, and we must meet it alone.
+Individual selection isn't the only force. Kin selection favors helping relatives, like worker bees raising their sisters. Some biologists argue for group selection too, where groups of cooperators outcompete groups of loners, though the idea is still debated. And luck plays a part: a forest fire or a falling bomb doesn't check anyone's fitness. But over time, most selection judges individuals alone.
 
 We've seen this throughout the book. A dark peppered moth on a sooty tree trunk survived the birds; the pale moth beside it didn't. I went to speech therapy, or I didn't. My insureds ran a red light, or were hit by someone who did. In Milgram's experiment, each teacher sat alone at the switch, and any one of them could have found the learner a pencil.
 
-Because individuals are selection's main target, the systems that empower them tend to win. Combined arms warfare and the Allies' broad war effort put more power in more hands, and they prevailed. The digital age worked the same way. Centrally planned Soviet computing fell behind the West's drive for the personal computer, which moved mainframes, television networks, and libraries into laptops, smartphones, and ebooks anyone can hold. Empowering individuals works best because the scoreboard counts one player at a time.
+Because individuals are selection's main target, the systems that empower them tend to win. A flock of starlings is hard for a falcon to target, yet the birds have no leader; each bird watches its nearest neighbors. A forest has no manager; each tree, squirrel, and mushroom works its own patch, and the forest grows from all of them. Even a group of strangers is better off when each member can read the field and act on its own.
 
-The player of the game is an individual, across ecosystems, economies, countries, and companies, that means you, whatever you're holding, and whatever you believe are what's being evaluated. So meeting the coach isn't about finding some distant judge. It's about meeting your coach.
+Same goes for us.
 
-What does that mean?
+Combined arms warfare and the Allies' broad war effort put more power in more hands, and they prevailed. The digital age worked the same way. Centrally planned Soviet computing fell behind the West's drive for the personal computer, which relentlessly moved mainframes, television networks, and libraries into laptops, smartphones, and ebooks anyone can hold. Empowering individuals works best because the individual is the smallest unit that can read the gameboard and find resources.
 
-The coach always judges each player by whether what it's made of fits its environment. The natural coach tests it with the number.
+The player of the game is an individual, across ecosystems, economies, countries, and companies. That means you, whatever you're holding, and whatever you believe are what's being evaluated. So meeting the coach isn't about finding some distant judge. It's about meeting your coach.
 
-To see what that means, look at what an individual is made of. Atoms build molecules, molecules build cells, and cells build bodies with hundreds of specialized kinds, from muscle and bone to nerve and blood. Each layer adds more parts and more variety. Even a single E. coli cell holds DNA, proteins, fats, sugars, salts, and thousands of other molecules. But however complex a body gets, it falls apart without a steady supply of clay, like carbon, water, and iron, plus the energy to keep it all organized.
+Let's start with the one no one can argue with or escape.
 
-Natural selection favors those whose makeup lets them pay that number where they live, gathering the nutrients and calories they need to survive and reproduce. A polar bear's fur and fat pay it in the Arctic but would fail it in a desert. A camel shouldn't be walking in the Amazon. The more easily a player pays its number, the more energy is left for offspring, and the better its score. That's all the scoreboard ever counts.
+This coach judges whether each player fits its environment. In exacting detail, down to the smallest bits of clay.
 
-The results are all around us.
+To see what that means, look at what an individual is made of. Atoms build molecules, molecules build cells, and cells build bodies with hundreds of specialized kinds, from muscle and bone to nerve and blood. Each layer adds more parts and more variety. But however complex a body gets, it falls apart without a steady supply of clay, like carbon, water, and iron, plus the energy to keep it all organized.
 
-We have lush forests, teeming coral reefs, and deep ocean life because when their ancestors found a field, reached an ocean, or sank into the deep, they stayed and spread into the surroundings. Every player keeps spreading around until it finds energy. Whatever succeeded spawned children to keep doing it. Some lineages got better at catching sunlight, others at catching prey, building homes, or living off scraps from the ocean floor.
+The specific number of nutrients and calories a lifeform needs is the "number" it must meet to pass the natural coach's test.
 
-The natural coach is simply what happens when varied individuals compete for the limited energy an environment can sustain. Each is judged by how well it gathers nutrients and calories compared to the others around it.
+Natural selection favors those whose makeup lets them gather the nutrients and calories they need to survive and reproduce. A polar bear's fur and fat fit the Arctic. A camel shouldn't be walking in the Amazon. The more easily a player can find its required number, the more energy is left for offspring, and therefore the better its score.
 
-Natural selection is cold, hard mathematics that creates bountiful life. When we meet our natural coach, this is the calculus. We need roughly 2,000 calories a day and a long list of nutrients. Fall short on iron, and you get anemia. Miss out on vitamin C, and you get scurvy. Natural selection selected the bits of your body for a reason. It's a recipe of bits you must keep together.
+Natural selection is cold, hard mathematics that creates bountiful life. When we meet our natural coach, this is the calculus. We need roughly 2,000 calories a day and a long list of nutrients. Fall short on iron, and you get anemia. Miss out on vitamin C, and you get scurvy. Natural selection shaped your recipe, and your body holds you to it. If a lifeform misses too many pieces, it falls behind, and others take its place.
 
-You meet your natural coach every time you have a health problem, feel hunger, learn a skill, or get into a car crash.
+So, that's the natural coach. It's a calculation. A test with no teacher. And it's omnipresent. You meet your natural coach every time you have a health problem, feel hunger, lose your bearings, or get into a car crash.
 
-The artificial coach is different. We know that by now. But who the heck is it, and how do we meet it?
+The artificial coach is different. We know that by now. But who the heck is it, and how do you two meet?
 
 It's definitely a human creation. We know that because it's artificial. So let's look at where the humans are and what we do.
 
-We play the game, of course. We need to meet the same requirements as anything else, and we meet them with tools. That's why we have fishing nets, boats, and farms. When our ancestors found a lake, reached an ocean, or saw a vast field, they didn't just spread into it like other creatures. They thought: These are my surroundings. Where is the energy? Each time, they worked until they found the adaptations needed to harvest that energy and organize more matter into crops, homes, and tools to keep the game going.
+We play the game, of course. We need to meet the same requirements as anything else, and we meet them with tools. That's why we have fishing nets, boats, and farms. When our ancestors found a lake, reached an ocean, or saw a vast field, they didn't just spread into it like other creatures. They thought: _These are my surroundings. Where is the energy?_ Each time, they worked until they found the adaptations needed to harvest that energy and organize more matter into crops, homes, and tools to keep the game going.
 
 We knew we needed energy, and we knew to go looking for it. But our selection of tools was full of mistakes, and inside those mistakes we can see artificial selection at work. Let's examine one example we've already met: the Soviet Union.
 
@@ -1797,7 +1797,7 @@ Here we can watch artificial selection in action. Soviet citizens began playing 
 
 The Soviet Union had countless officials, regulators, and clerks to write, monitor, and enforce its plans. Doctrine promised a selfless "New Soviet Man," the perfect steward of central planning. But as the economy faltered, officials reported what the regime wanted to hear and covered for each other. Imagine a factory reporting 10,000 ball bearings when it shipped 5,000 to a pen factory. The pen factory, in on it, reports 10,000 pens though it could make only 4,000. No matter: the department store reports 6,000 sold. Multiply that by tires, steel, and everything else.
 
-The official supply chain couldn't deliver the necessities, so people found their own. Officials traded what they controlled on the black market, citizens hoarded supplies, and everyone saved their energy for side work that actually paid. While store shelves sat empty, an unofficial market kept the country fed. It had to. Speeches and promises can't hold off the sandclock.
+The official supply chain couldn't deliver the necessities, so people found their own. Officials traded what they controlled on the black market, citizens hoarded supplies, and everyone saved their energy for side work that actually paid. While store shelves sat empty, an unofficial market kept the country fed. It had to. Speeches and promises can't hold off the sandclock. As the official game stopped feeding them, people stopped seeing themselves as Soviets first. Their leaders, who still enjoyed the best apartments and special stores, never noticed.
 
 As we've seen, living inside imagined ecosystems isn't a Soviet problem. Every society's beliefs hand out name-tags and status, and tell us how to rank one another. The Soviet example shows how to spot artificial selection not just in hindsight, but as it happens: compare the society you live in to the standards of natural selection.
 
@@ -1809,44 +1809,27 @@ So the natural coach is the board's results, and the artificial coach is human c
 
 You are the coach. Or better said, you coach yourself.
 
-The Game of Life is not the Game of You, but it is played by you. You have your own emergent gameboard, your own sandclock, your own custom clay. Add your choices and beliefs, and together they make up every selection you make in the game.
+The Game of Life is not the Game of You, but it is played by you. You have your own gameboard, sandclock, custom clay. Add your choices and beliefs, and together they make up every selection you make in the game.
 
 If you insist your playbook is right regardless of the results on the gameboard, you're coaching badly. If you judge human name-tags by the standards of natural selection, you're coaching well.
 
-When food production dropped, environmental disaster increased, huge bureaucracy caused endless delays, the Soviet regime thought it's people would stay loyal to their mission. The people did, to the pains of natural selection because feeding, sheltering, securing oneself is an absolute must.
+Remember, life grows in nearly random directions. So natural selection doesn't say yes, it says no to the paths that aren't working. Your job is the same, and your belief system must allow for it. And your identity should embrace it.
 
-<!-- list..... -->
-
-- natural selection has numbers, artificial has name-tags.
-- cost of living, traffic, job placement, the bell, are symptons
-- can't keep your job/identity and the rest changes
-- mass-production, diversity are divided between left/right.
-- both are living off post-ware energy bloom in oil/people, as that fades, the other must sacrifice to keep it all going in an increasingly artificial supply chain.
-- aiming for better, universal adoption of any new tech is needed to transform our ecosystem/supply chain.
-- we are like wave tactics in WWI, trying to increase inputs of oil-energy/people-time, we have new tech but don't distribute for individual frontline based on environmental needs.
-
-<!-- end of list -->
-
-Are we done? Do we have a new identity?
-
-Let's test it out.
-
-Is this working? where are the resources? Our beliefs give us name-tags of employeee, manager, conservative, progressive, and so on. Meanwhile these labels do not sustain, fuel, and replace our atoms and molecules that compose us and natural selection can't read our languages.
-
-- Look at all we've accomplished
-  - extremism is okay in bit, but is always re-balanced by it opposite
-  - moderation wins out
-  - you're job isn't to cheer, but to evalualte based on your pains...
-  - we don't consult our belief system when solving pains like adopting streaming or a better search engine. what's the point as solving pains is the end goal anyway
-
-
-Our new identity is being a self-aware selector inside a technological ecosystem: someone who knows every person carries that number, understands others by it, and works with them to pay it more efficiently, freeing energy for the rest of life. In the game of technological life, that makes you the coach. All the time. Wherever you are. It's the identity techvolution offers, and the self-understanding Maria never had.
-
-Nature still keeps the score; the scoreboard never lies. But you are the one making choices. We took over much of nature's coaching every time we bought one tool over another, voted for one leader over another, or dropped a habit because doctors discovered smoking tobacco is terrible for our health.
+Our new identity is being a self-aware selector inside a technological ecosystem: someone who knows every person carries that number, understands others by it, and works with them to pay it more efficiently, freeing energy for the rest of life. It's the identity techvolution offers, and the self-understanding Maria never had.
 
 You've already met a team of coaches. Remember Maria's customers. No law shut down her DVD stores, and no one voted on it. Millions of ordinary people, one evening at a time, chose to stay home and press play instead of driving to the store. Each choice was small. Together, they selected the DVD out of the game and selected streaming in. That is what coaching looks like: not a speech, not a belief, just a choice of tool, repeated until the board changes.
 
+Many of today's problems share a disguise. Rising rents, longer commutes, jobs that don't match the people looking for them, managers chasing the bell instead of the work: each is a gap between our name-tags and our numbers. It's the same kind of gap that emptied Soviet shelves, if far less severe. The natural coach counts numbers. Our societies still hand out name-tags.
+
+And like the generals of the First World War, we answer with waves of more inputs: more fuel, more hours, more debt. Meanwhile, left and right each guard one half of life's recipe, mass production or diversity, and as the postwar bounty thins, each demands the other side make the sacrifice.
+
+Combined arms won by putting better tools in frontline hands. Our ecosystem works the same way. So judge every promise, from any side, by the tool it puts in your hands. And don't wait for the other side to change first. No one can keep an old name-tag and expect the rest of the board to fix itself.
+
 So will AI take your job?
+
+It will take many name-tags. But it can't take your real job, because your real job was never a name-tag. It's the job every ancestor had: find resources, and adopt whatever tools, new or old, keep you ahead of the natural coach. Social ranks and AI alike are just tools for that.
+
+So the better question is: how should I use AI to do my real job?
 
 Ask the coach. That means you, and the people your work serves. Not the boss with the title, but the customer who calls you for help.
 
@@ -1856,13 +1839,11 @@ Once you see that the Game of Life applies to us, finding that number is possibl
 
 Take the tasks your job is made of and try them with AI. Where it does a task faster and cheaper, that task will likely go, the way the drive to the video store went. That can hurt, but it isn't the end of you. It's energy freed up. The label on your job may expire, but the role underneath it, getting food, warmth, transport, or stories to people, doesn't. And where AI can't do the task, you've found the part of your job the board still needs from you. A defended label has a limited lifespan. A role in the energy flow never expires. Our understanding of gravity, the stars, and life itself kept improving because people let old labels go.
 
-Your job is a species, and nobody has told you which one. Now you can find out for yourself. Look past its label to where it sits in the energy flow.
-
 Of course, this leaves big questions. How do I learn to assess, drop, and pick up tools regardless of the stories surrounding them, me, and my boardmates, friend or foe? How will I earn a living if I embrace the change that seems to threaten it? And how can society learn to keep mass-producing the diverse tools we need for prosperity?
 
 We've answered questions like these before. Each society's religion was once its universal truth, and jobs were often assigned at birth. We learned to live alongside many faiths and to change careers. Book II, _Mixed Ideological Politics_, and Book III, _Bumblebee Economics_, take up these questions with the same reason and science.
 
-Think back to the box under the tree: a rulebook, a gameboard, a sandclock, some clay, a scoreboard, and a blank booklet. You know what each piece does now. The rules don't bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. Life keeps reshaping its clay, the scoreboard keeps counting, and your booklet holds what you learn to pass on. But one piece was never in the box, because it was the one opening it. The coach was you all along.
+Think back to the box under the tree: a rulebook, a gameboard, a sandclock, some clay, a scoreboard, and a blank booklet. You know what each piece does now. The rules don't bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. Life keeps reshaping its clay, the scoreboard keeps counting, and your booklet holds what you learn to pass on. But one piece was never in the box, because it was the one opening it. As you now know, the coach was you all along
 
 Now that you know who the coach is, let's watch the Game of Life play out.
 
@@ -1888,93 +1869,6 @@ A artificial coach knows nature doesn't read name-tags.
 
 
 
-
-
-
-
-, because we still can't see the difference between natural and artificial selection. A new identity is a belief. A filter for the mind to see the difference between natural and artificial selection and realize the goal of the latter is to match the former as much as possible.
-
-
-AI will not take your job to the natural coach. It may take your artificial job....
-
-We can either be raccoons taking from an ecosystem and taking our chances with natural selection. Or we can give a little back like the squirrel who plants forests and find a good meal and place to live. Because of our technology, every player has this choice.
-
-Making bad choices doesn't end well for us regardless of our intent or authority inside human hierarchies.
-
-
-
-The data is the environmental inputs. The predicted location of a planet or the fact rock and feather fall the same rate. For us today the inputs that disagree with what our beliefs say is your pains. Your time on hold. You're rising food and energy costs. Your uncertain job prospects. Our beliefs give us name-tags of employeee, manager, conservative, progressive, and so on. Meanwhile these labels do not sustain, fuel, and replace our atoms and molecules that compose us.
-
-This tension leads us to hunger and fear. Acting within our beliefs means blaming left or right which blurs the Game of Life we need to study.
-
-While we've studied physics, chemistry, astronomy, and biology as sciences, we have not yet joined technological evolution into one science that removes name-tags and traces the flow of energy and the adaptations that use it.
-
-Techvolution's new identity won't end misconceptions, hubris, or fanciful realities. Human groups need hierarchies, with ranks of authority, to carry out their business plans, battle plans, and other playbooks. Like any creature's adaptations, those will often drift from what the gameboard needs. But the same imperfections exist in engineering, mathematics, and medicine, and they rarely bring down entire societies the way errors brought down the Soviet Union and Europe's absolute monarchies.
-
-Physics and the other sciences have this resilience because they measure outside forces and value prediction and results above social position and intent. Techvolution can borrow that resilience. We can measure technological growth, speciation, migration, and the roles of predators and scavengers, because each has a place in the energy flow, just as in any biological ecosystem.
-
-We already do much of the work. Industrial ecology tracks material and energy flows through economies the way an ecologist tracks them through a forest. Life-cycle assessment measures what a product costs in energy and materials, from extraction to disposal. Diffusion research measures how one technology spreads and displaces another. Insurance assesses the risk of failure in vehicles, homes, and businesses, and prices what it takes to restore them.
-
-What does food, warmth, and transport come from. Which boardmates produce, consume, scavenge, and decompose them, and how the rulebook governs their health, growth, divergence, and death. That account would show how matter cycles and energy flows through our tools, how each technology is mass-produced and diversified. Without it, we're trying to understand a forest without knowing the evolution that slowly shaped the oak, mushroom, bee, raccoon, and squirrel within it.
-
-The missing link is seeing it from the unit of selection's vantage point. That means you. Me. Every person. What is our supply chain that supplies our food, shelter, electricity, and what's the return on this investment? 
-
-We are on the same track as astronomy because it's the same track biology were. The study of life followed the same path. Aristotle grouped animals by what he could see, and Linnaeus later named every species the same way. Then Darwin showed that looks deceive: the Galápagos birds he took for wrens and blackbirds turned out to be finches, all descended from one ancestor. Even so, new methods were slow to win trust. Mendel's pea experiments sat ignored for 34 years, and field naturalists and lab geneticists distrusted each other for decades. Only when they joined forces did biology become a hard science, and our labels for life move closer to its natural identities.
-
-This same process applies to us, here and now. Nature doesn't read name-tags. We know iron by its 26 protons and its melting point of 1538 °C. We recognize a tiger by its color, anatomy, how it hunts to get the 10-15 pounds of meat it needs per day.
-
-And like the tiger, we each have a number: the energy we need to keep warm, raise our young, maintain our bodies, and survive another day. Whatever anyone thinks or believes, that number has to be paid. It's the one name-tag nature reads, and the one we can't take off.
-
-The number is the biggest reason why claim stories are in this book. Every insured had one. Finding it was my job. 
-
-In my years as an adjuster, understanding a claim was rarely about the money. The key was to let the insureds speak their mind, which invariably was a stream of thoughts and emotions, and hear the problem  from the person underneath. Almost always, insureds wanted the same thing: to return to their pre-loss condition and forget this claim ever happened.
-
-Getting them back to their pre-loss condition meant understanding the technological ecosystem well enough to find the right mix of players, materials, and services.
-
-Money is only a means to move these pieces around. What insureds actually need is a repair part shipped from Germany, an appraiser to quickly evaluate the damage, a tow truck to pick up their car, a rental car to get a kid to football, and clear expectations to head off any more surprises. The number is the mix of players, services, and tools needed to heal the person's technology and get them on their way again.
-
-Returning to pre-loss condition is the insurance version of what every living thing does each day. A healing wound, a squirrel rebuilding its nest after a storm, a city repaving its roads: each is paying the number to get back to where it was before the sandclock took its share.
-
-The process to find the right amount of energy and materials with your doctor doing blood work, or with an appraiser assessing car damage, is similar. None of it depends on gender, race, or ideology. Friends see Matthew and Sarah. Markets see Apple and Google. Economics sees pilot, bureaucrat, mechanic, welder. Politics sees left, right, pollster, voter.
-
-That's why, when people needed help, no one asked about my race or politics. As in most jobs, those labels aren't our link in the ecosystem. Nature's roles follow the flow of useful energy. Producers capture the sun's energy, consumers and predators pass it up the web, and scavengers and decomposers return what's left to the soil. Each stage has its own instincts, features, and needs. Race and politics hold no stage at all.
-
-And this work isn't just a matter of employees and managers. Natural selection doesn't care who or how anyone harvests available energy to organize more life. Composting your banana peel keeps its matter useful. Taking the stairs buys your body a little more time. Repairing an old appliance saves material and energy. Calling an old friend rekindles a fading friendship. A video recording of your crash silences the bell for a few minutes.
-
-The more energy or time a choice takes, the bigger the play. Each one either holds back the sandclock a little longer for the bodies, homes, and communities we've organized, or lets the sand run faster. No player beats the sandclock. But every one of us, on the job or off it, chooses how well we play against it.
-
-Our new identity is being a self-aware selector inside a technological ecosystem: someone who knows every person carries that number, understands others by it, and works with them to pay it more efficiently, freeing energy for the rest of life. In the game of technological life, that makes you the coach. All the time. Wherever you are. It's the identity techvolution offers, and the self-understanding Maria never had.
-
-Nature still keeps the score; the scoreboard never lies. But you are the one making choices. We took over much of nature's coaching every time we bought one tool over another, voted for one leader over another, or dropped a habit because doctors discovered smoking tobacco is terrible for our health.
-
-You've already met a team of coaches. Remember Maria's customers. No law shut down her DVD stores, and no one voted on it. Millions of ordinary people, one evening at a time, chose to stay home and press play instead of driving to the store. Each choice was small. Together, they selected the DVD out of the game and selected streaming in. That is what coaching looks like: not a speech, not a belief, just a choice of tool, repeated until the board changes.
-
- - you have to wipe away all name-tags and see the energy web underneath. there is no American consumer, no capitalist banker, no regulator. there's just the flow of energy....
-
-Just as squirrels and raccoons have an ecological identity, you already have a technological one. Like gravity, it was always there. It becomes new when you adopt it.
-
-None of this is a revelation. Storms and illness wear things down, and kids and new tools are how we keep score. You knew every piece already. We just never assembled them into the Game of Life, the same way people watched things fall for thousands of years before anyone called it gravity.
-
-So will AI take your job?
-
-Ask the coach. That means you, and the people your work serves. Not the boss with the title, but the customer who calls you for help.
-
-Don't wait for a pundit's prediction. You don't need a prediction any more than you need a promise from a doctor, mechanic, or claims adjuster. You need the number.
-
-Once you see that the Game of Life applies to us, finding that number is possible. It means assessing the ecosystem, noticing untapped energy, and capturing it as your niche.
-
-Take the tasks your job is made of and try them with AI. Where it does a task faster and cheaper, that task will likely go, the way the drive to the video store went. That can hurt, but it isn't the end of you. It's energy freed up. The label on your job may expire, but the role underneath it, getting food, warmth, transport, or stories to people, doesn't. And where AI can't do the task, you've found the part of your job the board still needs from you. A defended label has a limited lifespan. A role in the energy flow never expires. Our understanding of gravity, the stars, and life itself kept improving because people let old labels go.
-
-Your job is a species, and nobody has told you which one. Now you can find out for yourself. Look past its label to where it sits in the energy flow.
-
-Of course, this leaves big questions. How do I learn to assess, drop, and pick up tools regardless of the stories surrounding them, me, and my boardmates, friend or foe? How will I earn a living if I embrace the change that seems to threaten it? And how can society learn to keep mass-producing the diverse tools we need for prosperity?
-
-We've answered questions like these before. Each society's religion was once its universal truth, and jobs were often assigned at birth. We learned to live alongside many faiths and to change careers. Book II, _Mixed Ideological Politics_, and Book III, _Bumblebee Economics_, take up these questions with the same reason and science.
-
-Think back to the box under the tree: a rulebook, a gameboard, a sandclock, some clay, a scoreboard, and a blank booklet. You know what each piece does now. The rules don't bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. Life keeps reshaping its clay, the scoreboard keeps counting, and your booklet holds what you learn to pass on. But one piece was never in the box, because it was the one opening it. The coach was you all along.
-
-Now that you know who the coach is, let's watch the Game of Life play out.
-
 - the energy bloom of the industrial age is ending and people are fighting for a spot on what's left. who will be the leader, who gets the the film lead, who gets a spot....
 
 - Fixing or replacing a car isn't an obscure problem. How long before your repair part is made? What is the value of your car? What does your insurance policy cover? These are things we do everyday, but don't actually study specifcally. Do you know how long it takes to replace your "Johnston rod" in one car versus the next. We buy our cars on narrative like marketing or brand loyalty, tell ourselves these narratives are all we need until we need specific bits of matter to fix our car or 
@@ -1982,6 +1876,21 @@ Now that you know who the coach is, let's watch the Game of Life play out.
 - what did it take to kickstart the science age? look through a telescope and record what you see. after enough observations, patterns emerge, and laws are uncovered. for all the genius of kepler and newton, they didn't think up gravity, rather just explain the series of well-kept observations. same for species and the like. and the same for us in a sort of identity awakening. what is the records of your actions and what is the laws behind them. they are the same as biological life.
 
 - how much money did I spend per day? idk, it wasn't tracked. How much did i spend over or below then another adjuster in a similar claim? idk. how many call backs did my claims get versus another? how many times did insd's call needlessly? how much traffic did a insured cause for checking a text while driving? have i told you i it was corporate or government insurance company? a small or large one. What race or religion my managers were. do you think that mattered more than the tools i was using when helping to solve your problems?
+
+
+<!-- list..... -->
+
+- natural selection has numbers, artificial has name-tags.
+- cost of living, traffic, job placement, the bell, are symptons similar to Soviet problems.
+- no person can't keep your old job/identity and expect the rest of society to change and fix our problems
+- the natural need for mass-production and diversity are divided between left/right, so we have increasing extremes of them both.
+- left/right ideals are living off post-ware energy bloom in oil/people, as that fades, each demands "the other side" sacrifice to keep it all going in an increasingly artificial supply chain.
+- our daily commute heavy, consumerist, debt-laden lives are like wave tactics in WWI, trying to increase inputs of oil-energy/people-time, we have new tech but don't distribute for individual frontline based on local environmental problems.
+- to solve our problems means to adopt new tech. Like in combine arms ware, the more universal adoption of any new tech the better to truly transform our ecosystem/supply chain.
+
+<!-- end of list -->
+
+
 
 ## Chapter 16—Vignettes 
 
@@ -2004,6 +1913,8 @@ In the wild, natural selection is the coach. It keeps the forms that best read t
 This has worked for billions of years. It is happening all around you right now in the natural world and the technological one too.
 
 Our game is different because of our minds. We have mythological, philosophical, and scientific interpretations of reality—filters that tell us which patterns to see. Each becomes an artificial selection pressure: the true ones help us adapt to the gameboard; the others mislead us, and often take their believers down with them.
+
+  Comte? we've make the leap to science here and here, but not here and there.
 
 How do we tell which is which? It matters, because in our game, as you now know, the coach is you.
 
@@ -4786,6 +4697,18 @@ We ask immigrants and kids to change their identity. we're just doing it on a ta
 
 
 --
+
+Are we done? Do we have a new identity?
+
+Let's test it out.
+
+- Look at all we've accomplished
+  - extremism is okay in bit, but is always re-balanced by it opposite
+  - moderation wins out
+  - you're job isn't to cheer, but to evalualte based on your pains...
+  - we don't consult our belief system when solving pains like adopting streaming or a better search engine. what's the point as solving pains is the end goal anyway
+
+
 
 
 Nature doesn't hand out name-tags. We don't know what an iron atom calls itself or what an alien might label it for the same reason we don't know a tiger by its thoughts. Instead we observe the effectual truth of nature. Thus we know iron has 26 protons and melts at 1,538°C. We know a tiger by its stripes, its niche, and how it warms itself, procreates, and gets energy to survive.

@@ -6686,3 +6686,86 @@ So many fields, from weather to biology have the same trend of mythology of crea
 Our politics and economics are on this samge step but have no yet reached science. It will once you see the artiificial coach.
 
 ===
+
+, because we still can't see the difference between natural and artificial selection. A new identity is a belief. A filter for the mind to see the difference between natural and artificial selection and realize the goal of the latter is to match the former as much as possible.
+
+
+AI will not take your job to the natural coach. It may take your artificial job....
+
+We can either be raccoons taking from an ecosystem and taking our chances with natural selection. Or we can give a little back like the squirrel who plants forests and find a good meal and place to live. Because of our technology, every player has this choice.
+
+Making bad choices doesn't end well for us regardless of our intent or authority inside human hierarchies.
+
+
+
+The data is the environmental inputs. The predicted location of a planet or the fact rock and feather fall the same rate. For us today the inputs that disagree with what our beliefs say is your pains. Your time on hold. You're rising food and energy costs. Your uncertain job prospects. Our beliefs give us name-tags of employeee, manager, conservative, progressive, and so on. Meanwhile these labels do not sustain, fuel, and replace our atoms and molecules that compose us.
+
+This tension leads us to hunger and fear. Acting within our beliefs means blaming left or right which blurs the Game of Life we need to study.
+
+While we've studied physics, chemistry, astronomy, and biology as sciences, we have not yet joined technological evolution into one science that removes name-tags and traces the flow of energy and the adaptations that use it.
+
+Techvolution's new identity won't end misconceptions, hubris, or fanciful realities. Human groups need hierarchies, with ranks of authority, to carry out their business plans, battle plans, and other playbooks. Like any creature's adaptations, those will often drift from what the gameboard needs. But the same imperfections exist in engineering, mathematics, and medicine, and they rarely bring down entire societies the way errors brought down the Soviet Union and Europe's absolute monarchies.
+
+Physics and the other sciences have this resilience because they measure outside forces and value prediction and results above social position and intent. Techvolution can borrow that resilience. We can measure technological growth, speciation, migration, and the roles of predators and scavengers, because each has a place in the energy flow, just as in any biological ecosystem.
+
+We already do much of the work. Industrial ecology tracks material and energy flows through economies the way an ecologist tracks them through a forest. Life-cycle assessment measures what a product costs in energy and materials, from extraction to disposal. Diffusion research measures how one technology spreads and displaces another. Insurance assesses the risk of failure in vehicles, homes, and businesses, and prices what it takes to restore them.
+
+What does food, warmth, and transport come from. Which boardmates produce, consume, scavenge, and decompose them, and how the rulebook governs their health, growth, divergence, and death. That account would show how matter cycles and energy flows through our tools, how each technology is mass-produced and diversified. Without it, we're trying to understand a forest without knowing the evolution that slowly shaped the oak, mushroom, bee, raccoon, and squirrel within it.
+
+The missing link is seeing it from the unit of selection's vantage point. That means you. Me. Every person. What is our supply chain that supplies our food, shelter, electricity, and what's the return on this investment? 
+
+We are on the same track as astronomy because it's the same track biology were. The study of life followed the same path. Aristotle grouped animals by what he could see, and Linnaeus later named every species the same way. Then Darwin showed that looks deceive: the Galápagos birds he took for wrens and blackbirds turned out to be finches, all descended from one ancestor. Even so, new methods were slow to win trust. Mendel's pea experiments sat ignored for 34 years, and field naturalists and lab geneticists distrusted each other for decades. Only when they joined forces did biology become a hard science, and our labels for life move closer to its natural identities.
+
+This same process applies to us, here and now. Nature doesn't read name-tags. We know iron by its 26 protons and its melting point of 1538 °C. We recognize a tiger by its color, anatomy, how it hunts to get the 10-15 pounds of meat it needs per day.
+
+And like the tiger, we each have a number: the energy we need to keep warm, raise our young, maintain our bodies, and survive another day. Whatever anyone thinks or believes, that number has to be paid. It's the one name-tag nature reads, and the one we can't take off.
+
+The number is the biggest reason why claim stories are in this book. Every insured had one. Finding it was my job. 
+
+In my years as an adjuster, understanding a claim was rarely about the money. The key was to let the insureds speak their mind, which invariably was a stream of thoughts and emotions, and hear the problem  from the person underneath. Almost always, insureds wanted the same thing: to return to their pre-loss condition and forget this claim ever happened.
+
+Getting them back to their pre-loss condition meant understanding the technological ecosystem well enough to find the right mix of players, materials, and services.
+
+Money is only a means to move these pieces around. What insureds actually need is a repair part shipped from Germany, an appraiser to quickly evaluate the damage, a tow truck to pick up their car, a rental car to get a kid to football, and clear expectations to head off any more surprises. The number is the mix of players, services, and tools needed to heal the person's technology and get them on their way again.
+
+Returning to pre-loss condition is the insurance version of what every living thing does each day. A healing wound, a squirrel rebuilding its nest after a storm, a city repaving its roads: each is paying the number to get back to where it was before the sandclock took its share.
+
+The process to find the right amount of energy and materials with your doctor doing blood work, or with an appraiser assessing car damage, is similar. None of it depends on gender, race, or ideology. Friends see Matthew and Sarah. Markets see Apple and Google. Economics sees pilot, bureaucrat, mechanic, welder. Politics sees left, right, pollster, voter.
+
+That's why, when people needed help, no one asked about my race or politics. As in most jobs, those labels aren't our link in the ecosystem. Nature's roles follow the flow of useful energy. Producers capture the sun's energy, consumers and predators pass it up the web, and scavengers and decomposers return what's left to the soil. Each stage has its own instincts, features, and needs. Race and politics hold no stage at all.
+
+And this work isn't just a matter of employees and managers. Natural selection doesn't care who or how anyone harvests available energy to organize more life. Composting your banana peel keeps its matter useful. Taking the stairs buys your body a little more time. Repairing an old appliance saves material and energy. Calling an old friend rekindles a fading friendship. A video recording of your crash silences the bell for a few minutes.
+
+The more energy or time a choice takes, the bigger the play. Each one either holds back the sandclock a little longer for the bodies, homes, and communities we've organized, or lets the sand run faster. No player beats the sandclock. But every one of us, on the job or off it, chooses how well we play against it.
+
+Our new identity is being a self-aware selector inside a technological ecosystem: someone who knows every person carries that number, understands others by it, and works with them to pay it more efficiently, freeing energy for the rest of life. It's the identity techvolution offers, and the self-understanding Maria never had.
+
+You've already met a team of coaches. Remember Maria's customers. No law shut down her DVD stores, and no one voted on it. Millions of ordinary people, one evening at a time, chose to stay home and press play instead of driving to the store. Each choice was small. Together, they selected the DVD out of the game and selected streaming in. That is what coaching looks like: not a speech, not a belief, just a choice of tool, repeated until the board changes.
+
+ - you have to wipe away all name-tags and see the energy web underneath. there is no American consumer, no capitalist banker, no regulator. there's just the flow of energy....
+
+Just as squirrels and raccoons have an ecological identity, you already have a technological one. Like gravity, it was always there. It becomes new when you adopt it.
+
+None of this is a revelation. Storms and illness wear things down, and kids and new tools are how we keep score. You knew every piece already. We just never assembled them into the Game of Life, the same way people watched things fall for thousands of years before anyone called it gravity.
+
+So will AI take your job?
+
+Ask the coach. That means you, and the people your work serves. Not the boss with the title, but the customer who calls you for help.
+
+Don't wait for a pundit's prediction. You don't need a prediction any more than you need a promise from a doctor, mechanic, or claims adjuster. You need the number.
+
+Once you see that the Game of Life applies to us, finding that number is possible. It means assessing the ecosystem, noticing untapped energy, and capturing it as your niche.
+
+Take the tasks your job is made of and try them with AI. Where it does a task faster and cheaper, that task will likely go, the way the drive to the video store went. That can hurt, but it isn't the end of you. It's energy freed up. The label on your job may expire, but the role underneath it, getting food, warmth, transport, or stories to people, doesn't. And where AI can't do the task, you've found the part of your job the board still needs from you. A defended label has a limited lifespan. A role in the energy flow never expires. Our understanding of gravity, the stars, and life itself kept improving because people let old labels go.
+
+Your job is a species, and nobody has told you which one. Now you can find out for yourself. Look past its label to where it sits in the energy flow.
+
+Of course, this leaves big questions. How do I learn to assess, drop, and pick up tools regardless of the stories surrounding them, me, and my boardmates, friend or foe? How will I earn a living if I embrace the change that seems to threaten it? And how can society learn to keep mass-producing the diverse tools we need for prosperity?
+
+We've answered questions like these before. Each society's religion was once its universal truth, and jobs were often assigned at birth. We learned to live alongside many faiths and to change careers. Book II, _Mixed Ideological Politics_, and Book III, _Bumblebee Economics_, take up these questions with the same reason and science.
+
+Think back to the box under the tree: a rulebook, a gameboard, a sandclock, some clay, a scoreboard, and a blank booklet. You know what each piece does now. The rules don't bend. The board keeps changing. The sand keeps falling, and it was always the only real opponent: not the other party, the other job, or the other side. Life keeps reshaping its clay, the scoreboard keeps counting, and your booklet holds what you learn to pass on. But one piece was never in the box, because it was the one opening it. As you now know, the coach was you all along.
+
+Now that you know who the coach is, let's watch the Game of Life play out.
+
+===
